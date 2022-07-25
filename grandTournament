@@ -1,0 +1,150 @@
+id,translation
+ID_GT_TITLE,Cosmic Crucible
+ID_UI_LONG_LOCKED_DESC_GT,The Cosmic Crucible is currently locked
+ID_GT_TOURNAMENT_RULES,RULES
+ID_GT_LEAGUES,LEAGUES
+ID_GT_REWARD_CURRENCY_NAME,Crucible Credits
+ID_GT_REWARD_CURRENCY_DESCRIPTION,Use Crucible Credits to purchase Supplies in the Crucible Store.
+ID_GT_ELITE_REWARD_CURRENCY_NAME,Elite Crucible Credits
+ID_GT_ELITE_REWARD_CURRENCY_DESCRIPTION,Use Elite Crucible Credits to purchase Orbs in the Crucible Store.
+ID_STORE_NAME_GRAND_TOURNAMENT,Cosmic Crucible
+ID_GRAND_TOURNAMENT_ACCESS,You have unlocked Cosmic Crucible!
+ID_GRAND_TOURNAMENT_UNLOCK_MESSAGE,You do not meet the requirements to access the Cosmic Crucible Store
+ID_GT_INFOBOX_TITLE,Challengers with {win}W : {loss}L
+ID_GT_VS,VS
+ID_GT_REWARDS,REWARDS
+ID_GT_SET_DEFENSE,SET DEFENSE
+ID_GT_FUTURE_TRIAL,Challengers must pass previous Trial before they may confront this Trial
+ID_GT_ATTACK,ATTACK
+ID_GT_DEFENSE,DEFENSE
+ID_GT_ATTACK_COUNT,ATTACK {current}/{max}
+ID_GT_DEFEATED,DEFEATED
+ID_GT_NO_ATTACK,NO ATTACKS LEFT
+ID_GT_TOURNAMENT_BEGINS,Crucible begins in:
+ID_GT_WINS,{win} Wins
+ID_GT_WIN,{win} Win
+ID_GT_CHAMPION,-Champion!
+ID_GT_VP,{points}vp
+ID_GT_TRIAL,Trial {trial}
+ID_GT_ENDS,Ends in
+ID_GT_ERROR,ERROR
+ID_GT_ERROR_SETTING_DEFENDERS,An error occurred while setting the defensive squad.
+ID_GT_ATTEMPT_INFO_TITLE,ATTEMPTS
+ID_GT_ATTEMPT_INFO_DESC,You are given 3 attempts per Stage. Attempts are consumed upon starting a battle and reset at the start of each trial.
+ID_GT_NO_TOURNAMENT_POPUP_HEADER,Cosmic Crucible
+ID_GT_NO_TOURNAMENT_POPUP_DESC,A tournament is in progress. Please return later to participate in the next tournament.
+ID_GT_NO_SEASON_POPUP_HEADER,Cosmic Crucible
+ID_GT_NO_SEASON_POPUP_DESC,The Cosmic Crucible is between seasons. Please return in {time} for {season}
+ID_GT_TIMER_STARTS_IN,Starts in
+ID_GT_TIMER_INPROGRESS,Next Crucible in
+ID_GT_NOT_ENTITLED_POPUP_HEADER,Cosmic Crucible
+ID_GT_NOT_ENTITLED_POPUP_DESC,Cosmic Crucible will unlock when you reach Player Level 60.
+ID_GT_EVENT_NAME_PRESEASON,Pre-Season
+ID_GT_GLOBAL_RULES_NAME,Defender's Advantage
+ID_GT_GLOBAL_RULES_DESC,Defending Characters gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage.
+ID_GT_ROOM1_NAME,Stage 1
+ID_GT_ROOM1_DESC,
+ID_GT_ROOM2_NAME,Stage 2
+ID_GT_ROOM2_DESC,
+ID_GT_ROOM3_NAME,Stage 3
+ID_GT_ROOM3_DESC,
+ID_GT_ROOM4_NAME,Stage 4
+ID_GT_ROOM4_DESC,
+ID_GT_ROOM5_NAME,Stage 5
+ID_GT_ROOM5_DESC,
+ID_GT_ROOM6_NAME,Stage 6
+ID_GT_ROOM6_DESC,
+ID_GT_ROOM1_RULES_NAME,
+ID_GT_ROOM1_RULES_DESC,This Stage has no Rules aside from the Global Rule.
+ID_GT_ROOM2_RULES_NAME,
+ID_GT_ROOM2_RULES_DESC,This Stage has no Rules aside from the Global Rule.
+ID_GT_ROOM3_RULES_NAME,Critical Mutants
+ID_GT_ROOM3_RULES_DESC,"On Crit, <color=#fff568>MUTANT</color> characters Barrier self for <color=#86e619>15%</color> of their Max Health."
+ID_GT_ROOM4_RULES_NAME,Mystic Amplification
+ID_GT_ROOM4_RULES_DESC,"<color=#fff568>CITY MYSTIC</color> characters gain +<color=#86e619>25%</color> Drain, +<color=#86e619>50%</color> Damage, and +<color=#86e619>500%</color> Resistance."
+ID_GT_ROOM5_RULES_NAME,Cosmic Catastrophe
+ID_GT_ROOM5_RULES_DESC,"All characters who Passively Revive return with <color=#86e619>1</color> Health. On all characters' turns, reduce Speed Bar by <color=#86e619>50%</color> for that character's <color=#fff568>COSMIC</color> allies."
+ID_GT_ROOM6_RULES_NAME,Skilled Batteries
+ID_GT_ROOM6_RULES_DESC,"On Turn, <color=#fff568>SKILL</color> characters generate <color=#86e619>1</color> Ability Energy for an adjacent ally."
+ID_GT_ATTACK_MAX_TITLE,ATTACK MAXIMUM REACHED
+ID_GT_ATTACK_MAX_DESC,You have reached the maximum number of attacks for the current trial
+ID_GT_SET_DEFENSES_NEXT_TRIAL,SET YOUR DEFENSES FOR THE NEXT TRIAL. DEFENDING CHARACTERS CANNOT BE USED TO ATTACK.
+ID_GT_SET_DEFENSES_STARTS_IN,Starts in {time}
+ID_GT_NEXT_TOURNAMENT_STARTS_IN,Next Crucible in {time}
+ID_GT_RATING_CHANGE,{total} ({change})
+ID_GT_RATING_NAME,TRIBUNAL RATING
+ID_GT_SEASON,Crucible Season
+ID_GT_SEASON_COMPLETE,SEASON COMPLETE
+ID_GT_TOURNAMENT_COMPLETE,TOURNAMENT COMPLETE
+ID_GT_TRIAL_VICTORY,TRIAL {trial} VICTORY
+ID_GT_TRIAL_DEFEAT,TRIAL {trial} DEFEAT
+ID_GT_RULES_HEADER,RULES of the COSMIC CRUCIBLE
+ID_GT_RULES_SUBHEADER_01,SUBMIT TO JUDGMENT
+ID_GT_RULES_BODY_01,The Living Tribunal seeks to restore balance to a multiverse that is descending into chaos. It has seen fit to judge you and will reward you for your participation in the Cosmic Crucible.
+ID_GT_RULES_SUBHEADER_02,COMPETE IN TRIALS
+ID_GT_RULES_BODY_02,Each crucible consists of several Trials and each Trial gives you a new opponent. Set a defense in each of your Stages to prepare them for the following Trial.
+ID_GT_RULES_SUBHEADER_03,RULES CHANGE COMBAT
+ID_GT_RULES_BODY_03,Some Stages have special Rules that change the way characters fight. Be sure to review them closely!
+ID_GT_RULES_SUBHEADER_04,CLEAR STAGES TO WIN
+ID_GT_RULES_BODY_04A,"For each Trial, attack all your opponent's Stages. The Living Tribunal will award Victory Points [VP] based on your performance."
+ID_GT_RULES_BODY_04B,Clearing more Stages than your opponent will always get you the most VP! It's also important to minimize the number of battles while clearing Stages.
+ID_GT_RULES_SUBHEADER_05,ADVANCE ON THE MAP
+ID_GT_RULES_BODY_05,The Living Tribunal will judge your performance and advance you along the time stream based on your victory or defeat.
+ID_GT_RULES_SUBHEADER_06,WIN THE CRUCIBLE
+ID_GT_RULES_BODY_06,"Once all Trials are complete, the Crucible ends and the Living Tribunal ranks all participants and delivers their just rewards.\nIt favors Trial Wins the most, and total VP second."
+ID_GT_RULES_SUBHEADER_07,WIN THE SEASON
+ID_GT_RULES_BODY_07,"Every Trial gives you a chance to increase your Tribunal Rating (TR). The highest TR at the end of a season will receive the richest rewards. When a new season starts, the Stage Rules will be updated."
+ID_GT_RULES_SUBHEADER_08,[VP] VICTORY POINTS
+ID_GT_RULES_BODY_08A,"Victory points are granted once you have defeated a Stage, run out of attempts, or the trial has ended. Victory points are only used to break ties between two opponents who cleared the same number of Stages. The Living Tribunal will provide VP for the following factors:"
+ID_GT_RULES_BODY_08B,> Full Clear: 7500VP\n> Attempt Bonus: up to 800VP\n> Knockouts: 5VP\n> Healthy Characters: up to 20VP\n> Turn Bonus: up to 30VP
+ID_GT_RULES_SUBHEADER_09,[VP] Breakdown
+ID_GT_RULES_BODY_09A,"> Full Clear is granted once you've totally cleared out an opponent's Stage.\n> Knockouts are granted per character, up to a maximum of 25VP, and are granted even if you don't full clear the Stage."
+ID_GT_RULES_BODY_09B,"> Attempt Bonus grants 800VP for a full clear in one attempt, 400 VP if it takes two attempts, and 0VP thereafter."
+ID_GT_RULES_SUBHEADER_10,[VP] Breakdown
+ID_GT_RULES_BODY_10A,"> For each non-summoned character left standing at the end of a match where you cleared a Stage, Healthy Characters awards 1VP for every 25% of their health remaining."
+ID_GT_RULES_BODY_10B,> Turn Bonus starts at 30VP and is reduced by 1 for every turn your characters take across all attempts needed to clear the Stage.
+ID_GT_NO_HISTORY_ATTACK,You have not attacked {room}
+ID_GT_NO_HISTORY_DEFENSE,{opponent} has not attacked {room}
+ID_GT_NO_HISTORY_TRIAL_TITLE,Trial Judgements
+ID_GT_NO_HISTORY_TRIAL_BODY,No attack history
+ID_GT_HISTORY_TITLE,{room} Judgments
+ID_GT_LOG_VIEW_POWER,Power: {pwr}
+ID_GT_ROOM_CLEAR_VP,Full Clear: <color=#ffffff>{VP}vp</color>
+ID_GT_HEALTH_VP,Healthy Characters: <color=#ffffff>{VP}vp</color>
+ID_GT_KNOCKOUT_VP,Knock Outs: <color=#ffffff>{VP}vp</color>
+ID_GT_EFFICIENCY_VP,Turn Bonus: <color=#ffffff>{VP}vp</color>
+ID_GT_ATTEMPTS_VP,Attempt Bonus: <color=#ffffff>{VP}vp</color>
+ID_GT_PLAYER_TOTAL_VP,My Total Victory Points: <color=#ffffff>{VP}vp</color>
+ID_GT_OPPONENT_TOTAL_VP,Opponent Total Victory Points: <color=#ffffff>{VP}vp</color>
+ID_GT_PLAYER_NOT_FINISHED,You are not finished attacking
+ID_GT_OPPONENT_NOT_FINISHED,Opponent is not finished attacking
+ID_GT_INFOBOX_TITLE_FINAL_JUDGEMENT_CHAMPION,Final Judgment: CHAMPION
+ID_GT_INFOBOX_TITLE_FINAL_JUDGEMENT_WINS,Final Judgment: {wins} WIN(S)
+ID_GT_BATTLE_COMPLETE_MESSAGE,Trial battle complete
+ID_GT_TRIAL_ENDED_MID_BATTLE_HEADER,The Trial Has Ended
+ID_GT_TRIAL_ENDED_MID_BATTLE_BODY,This trial has ended while you were in combat. This battle will not count to the overall trial.
+ID_GT_TOURNAMENT_ENDED,The Crucible Has Ended
+ID_GT_TRIAL_ENDED,The Trial Has Ended
+ID_GT_RESULTS,RESULTS
+ID_GACHA_CRATE_TOURNAMENT_TEAL_NAME,Teal Gear Crucible Orb
+ID_GACHA_CRATE_TOURNAMENT_TEAL_DESCRIPTION,Contains teal gear materials
+ID_GACHA_CRATE_TOURNAMENT_TEAL_NAME_2,Teal Gear Crucible Orb Fragments
+ID_GACHA_CRATE_TOURNAMENT_TEAL_DESCRIPTION_2,Collect Teal Gear Crucible Orb Fragments to earn a Teal Tournament Orb.
+ID_GACHA_CRATE_TOURNAMENT_ORANGE_NAME,Orange Gear Crucible Orb
+ID_GACHA_CRATE_TOURNAMENT_ORANGE_DESCRIPTION,Contains orange gear materials
+ID_GACHA_CRATE_TOURNAMENT_ORANGE_NAME_2,Orange Gear Crucible Orb Fragments
+ID_GACHA_CRATE_TOURNAMENT_ORANGE_DESCRIPTION_2,Collect Orange Gear Crucible Orb Fragments to earn a Orange Tournament Orb.
+ID_GACHA_CRATE_TOURNAMENT_PURPLE_NAME,Purple Gear Crucible Orb
+ID_GACHA_CRATE_TOURNAMENT_PURPLE_DESCRIPTION,Contains purple gear materials
+ID_GACHA_CRATE_TOURNAMENT_PURPLE_NAME_2,Purple Gear Crucible Orb Fragments
+ID_GACHA_CRATE_TOURNAMENT_PURPLE_DESCRIPTION_2,Collect Purple Gear Crucible Orb Fragments to earn a Purple Tournament Orb.
+ID_GT_TOURNAMENT_END_INBOX_TITLE,Cosmic Crucible Completion Rewards
+ID_GT_TOURNAMENT_END_INBOX_SUBJECT,The Cosmic Crucible has ended
+ID_GT_TOURNAMENT_END_INBOX_BODY,The current Cosmic Crucible has ended. Claim your reward and prepare yourself for the next Cosmic Crucible.
+ID_GT_TOPBAR_TITLE,Cosmic Crucible - {season_name}
+ID_MISSION_GT_DEFAULT_DESC," Eliminate enemy characters to earn points!"
+ID_MISSION_GT_DEFAULT_NAME," Cosmic Crucible"
+ID_GT_SEASON_STARTED_HEADLINE,A new Cosmic Crucible Season has started. Sign on to check the new Rules!
+ID_GT_TRIAL_STARTED_HEADLINE,"Crucible Trial {trial} has started, log in to battle your opponent!"
+ID_GT_TRIAL_INACTIVE_ENDING_HEADLINE,"Crucible Trial {trial} is almost over, log in to battle your opponent!"
+ID_GT_RANKINGS_NOT_AVAILABLE,{season_name} has started! Rankings will be available once the first tournament concludes

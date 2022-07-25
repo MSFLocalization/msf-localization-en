@@ -1,0 +1,9 @@
+id,translation
+ID_CONSUMABLE_XPLVL20_NAME,L1 Training Module
+ID_CONSUMABLE_XPLVL20_DESCRIPTION,Provides some XP when used to train characters.
+ID_CONSUMABLE_XPLVL40_NAME,L2 Training Module
+ID_CONSUMABLE_XPLVL40_DESCRIPTION,Provides moderate XP when used to train characters.
+ID_CONSUMABLE_XPLVL60_NAME,L3 Training Module
+ID_CONSUMABLE_XPLVL60_DESCRIPTION,Provides major XP when used to train characters.
+ID_CONSUMABLE_XPLVL80_NAME,L4 Training Module
+ID_CONSUMABLE_XPLVL80_DESCRIPTION,Provides immense XP when used to train characters.

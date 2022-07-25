@@ -1,0 +1,75 @@
+id,translation
+ID_GAMEMODE_HORSEMEN,SCOURGE
+ID_HORSEMEN_EVENT_CARD_TITLE_01,PESTILENCE
+ID_HORSEMEN_EVENT_CARD_DESC_01,Earn Morgan Le Fay Shards
+ID_HORSEMEN_EVENT_CARD_TITLE_02,FAMINE
+ID_HORSEMEN_EVENT_CARD_DESC_02,Earn Rogue Shards
+ID_HORSEMEN_EVENT_CARD_INFO,Scourge Event Rules
+ID_HORSEMEN_NEW_RUN_BUTTON,New Run
+ID_HORSEMEN_NEW_RUN,New Run
+ID_HORSEMEN_NEW_RUN_PROMPT,Are you sure you want to end this run?
+ID_HORSEMEN_NEW_RUN_SCORE,Your score is <color=#f7941d>{score}</color>\n{scoreBase}pts + {scoreEfficiency} turn bonus
+ID_HORSEMEN_NEW_RUN_NEW_HIGHSCORE,This is a <color=#f7941d>NEW HIGH SCORE</color> and will be added to the leaderboard
+ID_HORSEMEN_NEW_RUN_NO_HIGHSCORE,This is not a new high score and will not be recorded
+ID_HORSEMEN_NO_HIGHSCORE,This is not a new high score. Increase your difficulty or scourges to score higher!
+ID_HORSEMEN_NEW_RUN_CANCEL,Cancel
+ID_HORSEMEN_COMBAT_MOD_NAME,Combat Modifier Name
+ID_HORSEMEN_COMBAT_MOD_DESCRIPTION,Combat Modifier Description
+ID_HORSEMEN_HIGH_SCORE,High Score:
+ID_HORSEMEN_MILESTONE_RUN_SCORE,Milestone points are equal to your highest run score
+ID_HORSEMEN_LEADERBOARD_RUN_SCORE,Leaderboard score is your highest run score
+ID_HORSEMEN_RULES_HEADER,Rules of the SCOURGE EVENT
+ID_HORSEMEN_RULES_SUBHEADER_01,APOCALYPSE COMES!
+ID_HORSEMEN_RULES_BODY_01,"Apocalypse's Horsemen are gathering to prepare the world for his presence. As their influence grows, vast scourges are unleashed. Fight hard, before you are overcome!"
+ID_HORSEMEN_RULES_SUBHEADER_02,OVERCOME SCOURGES
+ID_HORSEMEN_RULES_BODY_02,"Scourges add status effects that make your battles more difficult, but are key to getting higher scores and better rewards. Choose wisely!"
+ID_HORSEMEN_RULES_SUBHEADER_03,EXPECTED RUN SCORE
+ID_HORSEMEN_RULES_BODY_03,Scourges and Difficulty combine to determine your Expected Run Score. You will score that many points if you complete every mission. A score bonus is granted for efficient play.
+ID_HORSEMEN_RULES_SUBHEADER_04,NO HEALING!
+ID_HORSEMEN_RULES_BODY_04,"Score as high as you can, but be careful! Characters cannot be healed between battles."
+ID_HORSEMEN_RULES_SUBHEADER_05,COMPLETE ALL OR SOME
+ID_HORSEMEN_RULES_BODY_05,"Complete all the missions, or reset part way through. If you choose to reset, you will be awarded a portion of your Expected Run Score."
+ID_HORSEMEN_RULES_SUBHEADER_06,INCREASE YOUR HIGH SCORE
+ID_HORSEMEN_RULES_BODY_06,"Your best score determines your leaderboard position and your milestone progress. Get higher scores to get better rewards, including Horsemen character shards!"
+ID_HORSEMEN_START_RUN,Start Run
+ID_HORSEMEN_SCOURGE,Scourge
+ID_HORSEMEN_METER_SCOURGE,SCOURGE
+ID_HORSEMEN_SCOURGE_SELECTED,Selected Scourges
+ID_HORSEMEN_SELECT_SCOURGE_DESC,Select Scourges to raise your scourge score modifier:
+ID_HORSEMEN_RUN_COMPLETE,RUN COMPLETE!
+ID_HORSEMEN_NEW_HIGHSCORE,NEW HIGH SCORE!
+ID_HORSEMEN_NEW_HIGHSCORE_SCORE,{scoreBase}pts + {scoreEfficiency} turn bonus
+ID_HORSEMEN_NEW_HIGHSCORE_LEADERBOARD,Leaderboard Rank <color=#ffff00>{rank}</color>
+ID_HORSEMEN_DIFFICULTY_LABEL,Difficulty {level}
+ID_HORSEMEN_EXPECTED_SCORE,EXPECTED RUN SCORE
+ID_HORSEMEN_EXPECTED_SCORE_REPLACE,Expected Run Score: <color=#fff799>{score}</color>
+ID_HORSEMEN_SCORING_RUN_SCORE,Run Score: <color=#fff799>{score}</color>
+ID_HORSEMEN_SCORING_BEST_RUN,Best Run: <color=#d5d8f7>{score}</color>
+ID_HORSEMEN_SCORING_BREAKDOWN,Run Score Breakdown
+ID_HORSEMEN_SCORING_CURRENT_RUN,"Current Run Score: "
+ID_HORSEMEN_SCORING_PREVIOUS_RUN,"Best Run: "
+ID_HORSEMEN_SCORING_BASE,"Base Score: "
+ID_HORSEMEN_SCORING_EFFICIENCY,"Turn Bonus: "
+ID_HORSEMEN_DESELECT_ALL,Deselect All
+ID_HORSEMEN_SCORING_BEST_RUN_TITLE,BEST RUN
+ID_HORSEMEN_SCORING_RUN_SCORE_TITLE,RUN SCORE
+ID_HORSEMEN_MILESTONE_POINTS,{score} pts
+ID_HORSEMEN_SCORE,+{score} pts
+ID_HORSEMEN_MILESTONE,Milestone {index}
+ID_HORSEMEN_FLYOUT_SCORE,Score from best run: <color=#ffffff>{score}</color>
+ID_HORSEMEN_RUN_NOT_STARTED,Run Not Started
+ID_HORSEMEN_DIFFICULTY,DIFFICULTY
+ID_HORSEMEN_RDD_HINT_1,Suggested Gear: <color=#d5d7f7>7+</color>
+ID_HORSEMEN_RDD_HINT_2,Suggested Gear: <color=#d5d7f7>9+</color>
+ID_HORSEMEN_RDD_HINT_3,Suggested Gear: <color=#d5d7f7>10+</color>
+ID_HORSEMEN_RDD_HINT_4,Suggested Gear: <color=#d5d7f7>11+</color>
+ID_HORSEMEN_RDD_HINT_5,Suggested Gear: <color=#d5d7f7>13+</color>
+ID_HORSEMEN_RDD_HINT_6,Suggested Gear: <color=#d5d7f7>15+</color>
+ID_HORSEMEN_RDD_HINT_7,Suggested Gear: <color=#d5d7f7>16+</color>
+ID_HORSEMEN_RDD_HINT_8,Suggested Gear: <color=#d5d7f7>17+</color>
+ID_HORSEMEN_RDD_HINT_9,Suggested Gear: <color=#d5d7f7>18+</color>
+ID_HORSEMEN_RDD_HINT_10,Suggested Gear: <color=#d5d7f7>19+</color>
+ID_HORSEMEN_REWARDS_EFFICIENCY,Turn Bonus:
+ID_HORSEMEN_REWARDS_COMPLETED,COMPLETED
+ID_EVENT_HORSEMEN_EVENT,Scourge
+ID_HORSEMEN_EVENT_ENDED_COMBAT_WARNING,This mission cannot be started because the event has ended.

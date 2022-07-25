@@ -1,0 +1,1574 @@
+id,translation
+ID_MILESTONE_BLITZ_ADAMWARLOCK,Win a Blitz battle with: Adam Warlock
+ID_MILESTONE_BLITZ_AGATHAHARKNESS,Win a Blitz battle with: Agatha Harkness
+ID_MILESTONE_BLITZ_AIMCONTROL_INFECT,Win a Blitz battle with: A.I.M. Infector
+ID_MILESTONE_BLITZ_AIMDMG_OFFENSE,Win a Blitz battle with: A.I.M. Monstrosity
+ID_MILESTONE_BLITZ_AIMDMG_SPEED,Win a Blitz battle with: A.I.M. Assaulter
+ID_MILESTONE_BLITZ_AIMSUPPORT_HEAL,Win a Blitz battle with: A.I.M. Researcher
+ID_MILESTONE_BLITZ_AIMTANK_TAUNT,Win a Blitz battle with: A.I.M. Security
+ID_MILESTONE_BLITZ_AMERICACHAVEZ,Win a Blitz battle with: America Chavez
+ID_MILESTONE_BLITZ_ANTIVENOM,Win a Blitz battle with: Anti-Venom
+ID_MILESTONE_BLITZ_ANTMAN,Win a Blitz battle with: Ant-Man
+ID_MILESTONE_BLITZ_BARONMORDO,Win a Blitz battle with: Mordo
+ID_MILESTONE_BLITZ_BEAST,Win a Blitz battle with: Beast
+ID_MILESTONE_BLITZ_BISHOP,Win a Blitz battle with: Bishop
+ID_MILESTONE_BLITZ_BLACKBOLT,Win a Blitz battle with: Black Bolt
+ID_MILESTONE_BLITZ_BLACKPANTHER,Win a Blitz battle with: Black Panther
+ID_MILESTONE_BLITZ_BLACKWIDOW,Win a Blitz battle with: Black Widow
+ID_MILESTONE_BLITZ_BLOB,Win a Blitz battle with: Blob
+ID_MILESTONE_BLITZ_BULLSEYE,Win a Blitz battle with: Bullseye
+ID_MILESTONE_BLITZ_CABLE,Win a Blitz battle with: Cable
+ID_MILESTONE_BLITZ_CAPTAINAMERICA,Win a Blitz battle with: Captain America
+ID_MILESTONE_BLITZ_SAMWILSON,Win a Blitz battle with: Captain America (Sam)
+ID_MILESTONE_BLITZ_CAPTAINMARVEL,Win a Blitz battle with: Captain Marvel
+ID_MILESTONE_BLITZ_CARNAGE,Win a Blitz battle with: Carnage
+ID_MILESTONE_BLITZ_CLOAK,Win a Blitz battle with: Cloak
+ID_MILESTONE_BLITZ_COLLEENWING,Win a Blitz battle with: Colleen Wing
+ID_MILESTONE_BLITZ_COLOSSUS,Win a Blitz battle with: Colossus
+ID_MILESTONE_BLITZ_CORVUSGLAIVE,Win a Blitz battle with: Corvus Glaive
+ID_MILESTONE_BLITZ_COULSON,Win a Blitz battle with: Agent Coulson
+ID_MILESTONE_BLITZ_CROSSBONES,Win a Blitz battle with: Crossbones
+ID_MILESTONE_BLITZ_CRYSTAL,Win a Blitz battle with: Crystal
+ID_MILESTONE_BLITZ_CULLOBSIDIAN,Win a Blitz battle with: Cull Obsidian
+ID_MILESTONE_BLITZ_CYCLOPS,Win a Blitz battle with: Cyclops
+ID_MILESTONE_BLITZ_DAGGER,Win a Blitz battle with: Dagger
+ID_MILESTONE_BLITZ_DAREDEVIL,Win a Blitz battle with: Daredevil
+ID_MILESTONE_BLITZ_DAZZLER,Win a Blitz battle with: Dazzler
+ID_MILESTONE_BLITZ_DEADPOOL,Win a Blitz battle with: Deadpool
+ID_MILESTONE_BLITZ_DEATHPOOL,Win a Blitz battle with: Deathpool
+ID_MILESTONE_BLITZ_DOCTOROCTOPUS,Win a Blitz battle with: Doctor Octopus
+ID_MILESTONE_BLITZ_DOCTORSTRANGE,Win a Blitz battle with: Doctor Strange
+ID_MILESTONE_BLITZ_DOCTORVOODOO,Win a Blitz battle with: Doctor Voodoo
+ID_MILESTONE_BLITZ_DOMINO,Win a Blitz battle with: Domino
+ID_MILESTONE_BLITZ_DOOM,Win a Blitz battle with: Doctor Doom
+ID_MILESTONE_BLITZ_DORMAMMU,Win a Blitz battle with: Dormammu
+ID_MILESTONE_BLITZ_DRAX,Win a Blitz battle with: Drax
+ID_MILESTONE_BLITZ_EBONYMAW,Win a Blitz battle with: Ebony Maw
+ID_MILESTONE_BLITZ_ECHO,Win a Blitz battle with: Echo
+ID_MILESTONE_BLITZ_ELECTRO,Win a Blitz battle with: Electro
+ID_MILESTONE_BLITZ_ELEKTRA,Win a Blitz battle with: Elektra
+ID_MILESTONE_BLITZ_ELSABLOODSTONE,Win a Blitz battle with: Elsa Bloodstone
+ID_MILESTONE_BLITZ_EMMAFROST,Win a Blitz battle with: Emma Frost
+ID_MILESTONE_BLITZ_FALCON,Win a Blitz battle with: Falcon
+ID_MILESTONE_BLITZ_FANTOMEX,Win a Blitz battle with: Fantomex
+ID_MILESTONE_BLITZ_GAMBIT,Win a Blitz battle with: Gambit
+ID_MILESTONE_BLITZ_GAMORA,Win a Blitz battle with: Gamora
+ID_MILESTONE_BLITZ_GHOST,Win a Blitz battle with: Ghost
+ID_MILESTONE_BLITZ_GHOSTRIDER,Win a Blitz battle with: Ghost Rider
+ID_MILESTONE_BLITZ_GHOSTSPIDER,Win a Blitz battle with: Ghost-Spider
+ID_MILESTONE_BLITZ_GRAVITON,Win a Blitz battle with: Graviton
+ID_MILESTONE_BLITZ_GROOT,Win a Blitz battle with: Groot
+ID_MILESTONE_BLITZ_HANDCONTROL_HEALBLOCK,Win a Blitz battle with: Hand Assassin
+ID_MILESTONE_BLITZ_HANDDMG_BONUS,Win a Blitz battle with: Hand Blademaster
+ID_MILESTONE_BLITZ_HANDDMG_UNBUFF,Win a Blitz battle with: Hand Archer
+ID_MILESTONE_BLITZ_HANDSUPPORT_HEAL,Win a Blitz battle with: Hand Sorceress
+ID_MILESTONE_BLITZ_HANDTANK_STEALTH,Win a Blitz battle with: Hand Sentry
+ID_MILESTONE_BLITZ_HAWKEYE,Win a Blitz battle with: Hawkeye
+ID_MILESTONE_BLITZ_HEIMDALL,Win a Blitz battle with: Heimdall
+ID_MILESTONE_BLITZ_HELA,Win a Blitz battle with: Hela
+ID_MILESTONE_BLITZ_HULK,Win a Blitz battle with: Hulk
+ID_MILESTONE_BLITZ_HUMANTORCH,Win a Blitz battle with: Human Torch
+ID_MILESTONE_BLITZ_HYDRADMG_AOE,Win a Blitz battle with: Hydra Grenadier
+ID_MILESTONE_BLITZ_HYDRADMG_BUFF,Win a Blitz battle with: Hydra Rifle Trooper
+ID_MILESTONE_BLITZ_HYDRADMG_SINGLE,Win a Blitz battle with: Hydra Sniper
+ID_MILESTONE_BLITZ_HYDRASUPPORT_HEAL,Win a Blitz battle with: Hydra Scientist
+ID_MILESTONE_BLITZ_HYDRATANK_TAUNT,Win a Blitz battle with: Hydra Armored Guard
+ID_MILESTONE_BLITZ_ICEMAN,Win a Blitz battle with: Iceman
+ID_MILESTONE_BLITZ_IKARIS,Win a Blitz battle with: Ikaris
+ID_MILESTONE_BLITZ_INVISIBLEWOMAN,Win a Blitz battle with: Invisible Woman
+ID_MILESTONE_BLITZ_IRONFIST,Win a Blitz battle with: Iron Fist
+ID_MILESTONE_BLITZ_IRONHEART,Win a Blitz battle with: Ironheart
+ID_MILESTONE_BLITZ_IRONMAN,Win a Blitz battle with: Iron Man
+ID_MILESTONE_BLITZ_JANETHOR,Win a Blitz battle with: Mighty Thor
+ID_MILESTONE_BLITZ_JESSICAJONES,Win a Blitz battle with: Jessica Jones
+ID_MILESTONE_BLITZ_JUBILEE,Win a Blitz battle with: Jubilee
+ID_MILESTONE_BLITZ_JUGGERNAUT,Win a Blitz battle with: Juggernaut
+ID_MILESTONE_BLITZ_KARNAK,Win a Blitz battle with: Karnak
+ID_MILESTONE_BLITZ_KATEBISHOP,Win a Blitz battle with: Kate Bishop
+ID_MILESTONE_BLITZ_KILLMONGER,Win a Blitz battle with: Killmonger
+ID_MILESTONE_BLITZ_KINGPIN,Win a Blitz battle with: Kingpin
+ID_MILESTONE_BLITZ_KITTYPRYDE,Win a Blitz battle with: Kitty Pryde
+ID_MILESTONE_BLITZ_KORATH,Win a Blitz battle with: Korath the Pursuer
+ID_MILESTONE_BLITZ_KREECONTROL_ASSIST,Win a Blitz battle with: Kree Noble
+ID_MILESTONE_BLITZ_KREEDMG_OFFENSE,Win a Blitz battle with: Kree Cyborg
+ID_MILESTONE_BLITZ_KREEDMG_SPEED,Win a Blitz battle with: Kree Reaper
+ID_MILESTONE_BLITZ_KREESUPPORT_HOT,Win a Blitz battle with: Kree Oracle
+ID_MILESTONE_BLITZ_KREETANK_COUNTER,Win a Blitz battle with: Kree Royal Guard
+ID_MILESTONE_BLITZ_LADYDEATHSTRIKE,Win a Blitz battle with: Lady Deathstrike
+ID_MILESTONE_BLITZ_LOKI,Win a Blitz battle with: Loki
+ID_MILESTONE_BLITZ_LONGSHOT,Win a Blitz battle with: Longshot
+ID_MILESTONE_BLITZ_LUKECAGE,Win a Blitz battle with: Luke Cage
+ID_MILESTONE_BLITZ_MADELYNEPRYOR,Win a Blitz battle with: Madelyne Pryor
+ID_MILESTONE_BLITZ_MAGIK,Win a Blitz battle with: Magik
+ID_MILESTONE_BLITZ_MAGNETO,Win a Blitz battle with: Magneto
+ID_MILESTONE_BLITZ_MANTIS,Win a Blitz battle with: Mantis
+ID_MILESTONE_BLITZ_MARIAHILL,Win a Blitz battle with: Maria Hill
+ID_MILESTONE_BLITZ_MBAKU,Win a Blitz battle with: M'Baku
+ID_MILESTONE_BLITZ_MERCDMG_GENERAL,Win a Blitz battle with: Mercenary Soldier
+ID_MILESTONE_BLITZ_MERCDMG_SINGLE,Win a Blitz battle with: Mercenary Sniper
+ID_MILESTONE_BLITZ_MERCSUPPORT_BUFFS,Win a Blitz battle with: Mercenary Lieutenant
+ID_MILESTONE_BLITZ_MERCTANK_DEBUFF,Win a Blitz battle with: Mercenary Riot Guard
+ID_MILESTONE_BLITZ_MERCTANK_TAUNT,Win a Blitz battle with: Mercenary Bodyguard
+ID_MILESTONE_BLITZ_MINERVA,Win a Blitz battle with: Minn-Erva
+ID_MILESTONE_BLITZ_MISTYKNIGHT,Win a Blitz battle with: Misty Knight
+ID_MILESTONE_BLITZ_MRFANTASTIC,Win a Blitz battle with: Mister Fantastic
+ID_MILESTONE_BLITZ_MRSINISTER,Win a Blitz battle with: Mister Sinister
+ID_MILESTONE_BLITZ_MOONDRAGON,Win a Blitz battle with: Moondragon
+ID_MILESTONE_BLITZ_MOONKNIGHT,Win a Blitz battle with: Moon Knight
+ID_MILESTONE_BLITZ_MORBIUS,Win a Blitz battle with: Morbius
+ID_MILESTONE_BLITZ_MORGANLEFAY,Win a Blitz battle with: Morgan Le Fay
+ID_MILESTONE_BLITZ_MSMARVEL,Win a Blitz battle with: Ms. Marvel
+ID_MILESTONE_BLITZ_MULTIPLEMAN,Win a Blitz battle with: Multiple Man
+ID_MILESTONE_BLITZ_MYSTERIO,Win a Blitz battle with: Mysterio
+ID_MILESTONE_BLITZ_MYSTIQUE,Win a Blitz battle with: Mystique
+ID_MILESTONE_BLITZ_NAMOR,Win a Blitz battle with: Namor
+ID_MILESTONE_BLITZ_NEBULA,Win a Blitz battle with: Nebula
+ID_MILESTONE_BLITZ_NEGASONIC,Win a Blitz battle with: Negasonic
+ID_MILESTONE_BLITZ_NICKFURY,Win a Blitz battle with: Nick Fury
+ID_MILESTONE_BLITZ_NICOMINORU,Win a Blitz battle with: Nico Minoru
+ID_MILESTONE_BLITZ_NIGHTNURSE,Win a Blitz battle with: Night Nurse
+ID_MILESTONE_BLITZ_NOBU,Win a Blitz battle with: Nobu
+ID_MILESTONE_BLITZ_OKOYE,Win a Blitz battle with: Okoye
+ID_MILESTONE_BLITZ_OMEGARED,Win a Blitz battle with: Omega Red
+ID_MILESTONE_BLITZ_PHOENIX,Win a Blitz battle with: Phoenix
+ID_MILESTONE_BLITZ_DARKPHOENIX,Win a Blitz battle with: Dark Phoenix
+ID_MILESTONE_BLITZ_PHYLAVELL,Win a Blitz battle with: Phyla-Vell
+ID_MILESTONE_BLITZ_POLARIS,Win a Blitz battle with: Polaris
+ID_MILESTONE_BLITZ_PROXIMAMIDNIGHT,Win a Blitz battle with: Proxima Midnight
+ID_MILESTONE_BLITZ_PUNISHER,Win a Blitz battle with: Punisher
+ID_MILESTONE_BLITZ_PSYLOCKE,Win a Blitz battle with: Psylocke
+ID_MILESTONE_BLITZ_PYRO,Win a Blitz battle with: Pyro
+ID_MILESTONE_BLITZ_QUAKE,Win a Blitz battle with: Quake
+ID_MILESTONE_BLITZ_RAVAGERDMG_AOE,Win a Blitz battle with: Ravager Boomer
+ID_MILESTONE_BLITZ_RAVAGERSUPPORT_HEAL,Win a Blitz battle with: Ravager Stitcher
+ID_MILESTONE_BLITZ_RAVAGERTANK_TAUNT,Win a Blitz battle with: Ravager Bruiser
+ID_MILESTONE_BLITZ_REDGUARDIAN,Win a Blitz battle with: Red Guardian
+ID_MILESTONE_BLITZ_REDSKULL,Win a Blitz battle with: Red Skull
+ID_MILESTONE_BLITZ_RESCUE,Win a Blitz battle with: Rescue
+ID_MILESTONE_BLITZ_RHINO,Win a Blitz battle with: Rhino
+ID_MILESTONE_BLITZ_ROCKETRACCOON,Win a Blitz battle with: Rocket Raccoon
+ID_MILESTONE_BLITZ_ROGUE,Win a Blitz battle with: Rogue
+ID_MILESTONE_BLITZ_RONAN,Win a Blitz battle with: Ronan the Accuser
+ID_MILESTONE_BLITZ_SABRETOOTH,Win a Blitz battle with: Sabretooth
+ID_MILESTONE_BLITZ_SCARLETSPIDER,Win a Blitz battle with: Scarlet Spider
+ID_MILESTONE_BLITZ_SCARLETWITCH,Win a Blitz battle with: Scarlet Witch
+ID_MILESTONE_BLITZ_SCIENTISTSUPREME,Win a Blitz battle with: Scientist Supreme
+ID_MILESTONE_BLITZ_SCREAM,Win a Blitz battle with: Scream
+ID_MILESTONE_BLITZ_SERSI,Win a Blitz battle with: Sersi
+ID_MILESTONE_BLITZ_SHANGCHI,Win a Blitz battle with: Shang-Chi
+ID_MILESTONE_BLITZ_SHARONCARTER,Win a Blitz battle with: Sharon Carter
+ID_MILESTONE_BLITZ_SHATTERSTAR,Win a Blitz battle with: Shatterstar
+ID_MILESTONE_BLITZ_SHIELDDMG_AOE,Win a Blitz battle with: S.H.I.E.L.D. Assault
+ID_MILESTONE_BLITZ_SHIELDDMG_DEFENSE,Win a Blitz battle with: S.H.I.E.L.D. Trooper
+ID_MILESTONE_BLITZ_SHIELDSUPPORT_HEAL,Win a Blitz battle with: S.H.I.E.L.D. Medic
+ID_MILESTONE_BLITZ_SHIELDSUPPORT_STEALTH,Win a Blitz battle with: S.H.I.E.L.D. Operative
+ID_MILESTONE_BLITZ_SHIELDTANK_STUN,Win a Blitz battle with: S.H.I.E.L.D. Security
+ID_MILESTONE_BLITZ_SHEHULK,Win a Blitz battle with: She-Hulk
+ID_MILESTONE_BLITZ_SHOCKER,Win a Blitz battle with: Shocker
+ID_MILESTONE_BLITZ_SHURI,Win a Blitz battle with: Shuri
+ID_MILESTONE_BLITZ_SIF,Win a Blitz battle with: Sif
+ID_MILESTONE_BLITZ_SILVERSAMURAI,Win a Blitz battle with: Silver Samurai
+ID_MILESTONE_BLITZ_SILVERSURFER,Win a Blitz battle with: Silver Surfer
+ID_MILESTONE_BLITZ_SPIDERMAN,Win a Blitz battle with: Spider-Man
+ID_MILESTONE_BLITZ_SPIDERPUNK,Win a Blitz battle with: Spider-Punk
+ID_MILESTONE_BLITZ_SPIDERWOMAN,Win a Blitz battle with: Spider-Woman
+ID_MILESTONE_BLITZ_SQUIRRELGIRL,Win a Blitz battle with: Squirrel Girl
+ID_MILESTONE_BLITZ_STARLORD,Win a Blitz battle with: Star-Lord
+ID_MILESTONE_BLITZ_STATURE,Win a Blitz battle with: Stature
+ID_MILESTONE_BLITZ_STORM,Win a Blitz battle with: Storm
+ID_MILESTONE_BLITZ_STRANGESUPREME,Win a Blitz battle with: Doctor Strange (Heartless)
+ID_MILESTONE_BLITZ_STRYFE,Win a Blitz battle with: Stryfe
+ID_MILESTONE_BLITZ_SUNFIRE,Win a Blitz battle with: Sunfire
+ID_MILESTONE_BLITZ_SWARM,Win a Blitz battle with: Swarm
+ID_MILESTONE_BLITZ_SYBIL,Win a Blitz battle with: Kestrel
+ID_MILESTONE_BLITZ_SYMBIOTESPIDERMAN,Win a Blitz battle with: Spider-Man (Symbiote)
+ID_MILESTONE_BLITZ_TASKMASTER,Win a Blitz battle with: Taskmaster
+ID_MILESTONE_BLITZ_TCHALLA,Win a Blitz battle with: Star-Lord (T'Challa)
+ID_MILESTONE_BLITZ_THANOS,Win a Blitz battle with: Thanos
+ID_MILESTONE_BLITZ_THING,Win a Blitz battle with: The Thing
+ID_MILESTONE_BLITZ_THOR,Win a Blitz battle with: Thor
+ID_MILESTONE_BLITZ_TOAD,Win a Blitz battle with: Toad
+ID_MILESTONE_BLITZ_ULTIMUS,Win a Blitz battle with: Ultimus
+ID_MILESTONE_BLITZ_ULTRON,Win a Blitz battle with: Ultron
+ID_MILESTONE_BLITZ_ULTGREENGOBLIN,Win a Blitz battle with: Green Goblin
+ID_MILESTONE_BLITZ_ULTSPIDERMAN,Win a Blitz battle with: Spider-Man (Miles)
+ID_MILESTONE_BLITZ_VALKYRIE,Win a Blitz battle with: Valkyrie
+ID_MILESTONE_BLITZ_VENOM,Win a Blitz battle with: Venom
+ID_MILESTONE_BLITZ_VISION,Win a Blitz battle with: Vision
+ID_MILESTONE_BLITZ_VULTURE,Win a Blitz battle with: Vulture
+ID_MILESTONE_BLITZ_WARMACHINE,Win a Blitz battle with: War Machine
+ID_MILESTONE_BLITZ_WASP,Win a Blitz battle with: Wasp
+ID_MILESTONE_BLITZ_WHITETIGER,Win a Blitz battle with: White Tiger
+ID_MILESTONE_BLITZ_WINTERSOLDIER,Win a Blitz battle with: Winter Soldier
+ID_MILESTONE_BLITZ_WOLVERINE,Win a Blitz battle with: Wolverine
+ID_MILESTONE_BLITZ_WONG,Win a Blitz battle with: Wong
+ID_MILESTONE_BLITZ_X23,Win a Blitz battle with: X-23
+ID_MILESTONE_BLITZ_YELENA,Win a Blitz battle with: Yelena Belova
+ID_MILESTONE_BLITZ_YELLOWJACKET,Win a Blitz battle with: Yellowjacket
+ID_MILESTONE_BLITZ_YONDU,Win a Blitz battle with: Yondu
+ID_MILESTONE_BLITZ_YOYO,Win a Blitz battle with: Yo-Yo
+ID_MILESTONE_BLITZ_ZEMO,Win a Blitz battle with: Baron Zemo
+ID_QU_NA_SPLASH_HYDRA,Quick Rumble - Hydra
+ID_QU_SD_SPLASH_HYDRA,Use Hydra in Blitz
+ID_QU_LM_SPLASH_HYDRA,Earn points by using Hydra characters in Blitz Battles. Earn more points if your Hydra characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SM_SPLASH_MAY,Use Featured Characters in Blitz to earn A-Force Enblems
+ID_QU_SC_SPLASH_HYDRA,Use Hydra Characters in Blitz
+ID_QU_S1_SPLASH_HYDRA,Win a Blitz or Simmed Blitz battle with any 5-star or higher Hydra Character
+ID_QU_S2_SPLASH_HYDRA,Win a Blitz or Simmed Blitz battle with any 7-star Hydra Character
+ID_QU_NA_SPLASH_MILITARY,Quick Rumble - Military
+ID_QU_SD_SPLASH_MILITARY,Use Military in Blitz
+ID_QU_LM_SPLASH_MILITARY,Earn points by using Military characters in Blitz Battles. Earn more points if your Military characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_MILITARY,Use Military Characters in Blitz
+ID_QU_S1_SPLASH_MILITARY,Win a Blitz or Simmed Blitz battle with any 5-star or higher Military Character
+ID_QU_S2_SPLASH_MILITARY,Win a Blitz or Simmed Blitz battle with any 7-star Military Character
+ID_QU_NA_SPLASH_WAKANDAN,Quick Rumble - Wakandan
+ID_QU_SD_SPLASH_WAKANDAN,Use Wakandan in Blitz
+ID_QU_LM_SPLASH_WAKANDAN,Earn points by using Wakandan characters in Blitz Battles. Earn more points if your Wakandan characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_WAKANDAN,Use Wakandan Characters in Blitz
+ID_QU_S1_SPLASH_WAKANDAN,Win a Blitz or Simmed Blitz battle with any 5-star or higher Wakandan Character
+ID_QU_S2_SPLASH_WAKANDAN,Win a Blitz or Simmed Blitz battle with any 7-star Wakandan Character
+ID_QU_NA_SPLASH_WAVE1,Quick Rumble - Wave 1 - Avenger
+ID_QU_SD_SPLASH_WAVE1,Use Wave 1 - Avenger in Blitz
+ID_QU_LM_SPLASH_WAVE1,Earn points by using Wave 1 - Avenger characters in Blitz Battles. Earn more points if your Wave 1 - Avenger characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_WAVE1,Use Wave 1 - Avenger Characters in Blitz
+ID_QU_S1_SPLASH_WAVE1,Win a Blitz or Simmed Blitz battle with any 5-star or higher Wave 1 - Avenger Character
+ID_QU_S2_SPLASH_WAVE1,Win a Blitz or Simmed Blitz battle with any 7-star Wave 1 - Avenger Character
+ID_QU_SM_SPLASH_JUNE,Use Featured Characters in Blitz to earn Disco Balls
+ID_QU_NA_SPLASH_GUARDIAN,Guardians Groove
+ID_QU_SD_SPLASH_GUARDIAN,Use Guardians of the Galaxy in Blitz
+ID_QU_LM_SPLASH_GUARDIAN,Earn points by using Guardian characters in Blitz Battles. Earn more points if your Guardian characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_GUARDIAN,Use Guardian Characters in Blitz
+ID_QU_S1_SPLASH_GUARDIAN,Win a Blitz or Simmed Blitz battle with any 5-star or higher Guardian Character
+ID_QU_S2_SPLASH_GUARDIAN,Win a Blitz or Simmed Blitz battle with any 7-star Guardian Character
+ID_QU_NA_SPLASH_BROTHERHOOD,Brotherhood Boogie
+ID_QU_SD_SPLASH_BROTHERHOOD,Use Brotherhood in Blitz
+ID_QU_LM_SPLASH_BROTHERHOOD,Earn points by using Brotherhood characters in Blitz Battles. Earn more points if your Brotherhood characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_BROTHERHOOD,Use Brotherhood Characters in Blitz
+ID_QU_S1_SPLASH_BROTHERHOOD,Win a Blitz or Simmed Blitz battle with any 5-star or higher Brotherhood Character
+ID_QU_S2_SPLASH_BROTHERHOOD,Win a Blitz or Simmed Blitz battle with any 7-star Brotherhood Character
+ID_QU_NA_SPLASH_POWERARMOR,Power Armor Strut
+ID_QU_SD_SPLASH_POWERARMOR,Use Power Armor in Blitz
+ID_QU_LM_SPLASH_POWERARMOR,Earn points by using Power Armor characters in Blitz Battles. Earn more points if your Power Armor characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_POWERARMOR,Use Power Armor Characters in Blitz
+ID_QU_S1_SPLASH_POWERARMOR,Win a Blitz or Simmed Blitz battle with any 5-star or higher Power Armor Character
+ID_QU_S2_SPLASH_POWERARMOR,Win a Blitz or Simmed Blitz battle with any 7-star Power Armor Character
+ID_QU_NA_SPLASH_SUPERNATURAL,Supernatural Hustle
+ID_QU_SD_SPLASH_SUPERNATURAL,Use Supernatural in Blitz
+ID_QU_LM_SPLASH_SUPERNATURAL,Earn points by using Supernatural characters in Blitz Battles. Earn more points if your Supernatural characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_SUPERNATURAL,Use Supernatural Characters in Blitz
+ID_QU_S1_SPLASH_SUPERNATURAL,Win a Blitz or Simmed Blitz battle with any 5-star or higher Supernatural Character
+ID_QU_S2_SPLASH_SUPERNATURAL,Win a Blitz or Simmed Blitz battle with any 7-star Supernatural Character
+ID_QU_NA_SPLASH_INHUMAN,Terrigen Vacation
+ID_QU_SD_SPLASH_INHUMAN,Use Inhuman in Blitz
+ID_QU_LM_SPLASH_INHUMAN,Earn points by using Inhuman characters in Blitz Battles. Earn more points if your Inhuman characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SM_SPLASH_JULY,Use Featured Characters in Blitz to earn Mjolnir Fragments
+ID_QU_SC_SPLASH_INHUMAN,Use Inhuman Characters in Blitz
+ID_QU_S1_SPLASH_INHUMAN,Win a Blitz battle with any 5-star or higher Inhuman Character
+ID_QU_S2_SPLASH_INHUMAN,Win a Blitz battle with any 7-star Inhuman Character
+ID_QU_NA_SPLASH_AIM,Sunburned Scientist
+ID_QU_SD_SPLASH_AIM,Use A.I.M in Blitz
+ID_QU_LM_SPLASH_AIM,Earn points by using A.I.M characters in Blitz Battles. Earn more points if your A.I.M characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_AIM,Use A.I.M Characters in Blitz
+ID_QU_S1_SPLASH_AIM,Win a Blitz battle with any 5-star or higher A.I.M Character
+ID_QU_S2_SPLASH_AIM,Win a Blitz battle with any 7-star A.I.M Character
+ID_QU_NA_SPLASH_SINISTERSIX,Sinister Sunset
+ID_QU_SD_SPLASH_SINISTERSIX,Use Sinister Six in Blitz
+ID_QU_LM_SPLASH_SINISTERSIX,Earn points by using Sinister Six characters in Blitz Battles. Earn more points if your Sinister Six characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_SINISTERSIX,Use Sinister Six Characters in Blitz
+ID_QU_S1_SPLASH_SINISTERSIX,Win a Blitz battle with any 5-star or higher Sinister Six Character
+ID_QU_S2_SPLASH_SINISTERSIX,Win a Blitz battle with any 7-star Sinister Six Character
+ID_QU_NA_SPLASH_XFORCE,Summer X-travaganza
+ID_QU_SD_SPLASH_XFORCE,Use X-Force in Blitz
+ID_QU_LM_SPLASH_XFORCE,Earn points by using X-Force characters in Blitz Battles. Earn more points if your X-Force characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_XFORCE,Use X-Force Characters in Blitz
+ID_QU_S1_SPLASH_XFORCE,Win a Blitz battle with any 5-star or higher X-Force Character
+ID_QU_S2_SPLASH_XFORCE,Win a Blitz battle with any 7-star X-Force Character
+ID_QU_NA_SPLASH_ASGARDIAN,Bifrost Beach Day
+ID_QU_SD_SPLASH_ASGARDIAN,Use Asgardian in Blitz
+ID_QU_LM_SPLASH_ASGARDIAN,Earn points by using Asgardian characters in Blitz Battles. Earn more points if your Asgardian characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_ASGARDIAN,Use Asgardian Characters in Blitz
+ID_QU_S1_SPLASH_ASGARDIAN,Win a Blitz battle with any 5-star or higher Asgardian Character
+ID_QU_S2_SPLASH_ASGARDIAN,Win a Blitz battle with any 7-star Asgardian Character
+ID_QUEST_KNOCKOUT_GENERIC,Knock out any enemy with any character
+ID_QUEST_DAMAGE_GENERIC,Do damage with any character
+ID_QUEST_ABILITY_GENERIC,Use any ability with any character
+ID_MILESTONE_RAID_DEADPOOL,Win a Raid battle with: Deadpool
+ID_MILESTONE_RAID_DEADPOOL_GT11,Win a Raid battle with Deadpool at Gear Tier 11 or higher
+ID_MILESTONE_RAID_DOCTORSTRANGE,Win a Raid battle with: Doctor Strange
+ID_MILESTONE_RAID_DOCTORSTRANGE_GT11,Win a Raid battle with Doctor Strange at Gear Tier 11 or higher
+ID_MILESTONE_RAID_ELEKTRA,Win a Raid battle with: Elektra
+ID_MILESTONE_RAID_ELEKTRA_GT11,Win a Raid battle with Elektra at Gear Tier 11 or higher
+ID_MILESTONE_RAID_GROOT,Win a Raid battle with: Groot
+ID_MILESTONE_RAID_GROOT_GT11,Win a Raid battle with Groot at Gear Tier 11 or higher
+ID_MILESTONE_RAID_MINERVA,Win a Raid battle with: Minn-Erva
+ID_MILESTONE_RAID_MINERVA_GT11,Win a Raid battle with Minn-Erva at Gear Tier 11 or higher
+ID_MILESTONE_RAID_NEBULA,Win a Raid battle with: Nebula
+ID_MILESTONE_RAID_NEBULA_GT11,Win a Raid battle with Nebula at Gear Tier 11 or higher
+ID_MILESTONE_RAID_NOBU,Win a Raid battle with: Nobu
+ID_MILESTONE_RAID_NOBU_GT11,Win a Raid battle with Nobu at Gear Tier 11 or higher
+ID_MILESTONE_RAID_SCIENTISTSUPREME,Win a Raid battle with: Scientist Supreme
+ID_MILESTONE_RAID_SCIENTISTSUPREME_GT11,Win a Raid battle with Scientist Supreme at Gear Tier 11 or higher
+ID_MILESTONE_RAID_SHIELDSUPPORT_HEAL,Win a Raid battle with: S.H.I.E.L.D. Medic
+ID_MILESTONE_RAID_SHIELDSUPPORT_HEAL_GT11,Win a Raid battle with S.H.I.E.L.D. Medic at Gear Tier 11 or higher
+ID_MILESTONE_RAID_WOLVERINE,Win a Raid battle with: Wolverine
+ID_MILESTONE_RAID_WOLVERINE_GT11,Win a Raid battle with Wolverine at Gear Tier 11 or higher
+ID_ME_NA_ARENACOMBAT,Ultimate Gladiator
+ID_ME_SD_ARENACOMBAT,Win Battles in Blitz
+ID_ME_SM_ARENACOMBAT,Earn points by competing in BLITZ
+ID_ME_LM_ARENACOMBAT,Win in Blitz to earn various milestone rewards.
+ID_ME_S1_ARENACOMBAT,Earn 1 BLITZ POINT
+ID_ME_NA_ARENACOMBATALLY,Ultimate Gladiator
+ID_ME_SD_ARENACOMBATALLY,Win Battles in Blitz
+ID_ME_SM_ARENACOMBATALLY,Earn points by competing in BLITZ
+ID_ME_LM_ARENACOMBATALLY,Win in Blitz as an ALLIANCE to earn various milestone rewards.
+ID_ME_S1_ARENACOMBATALLY,Win a Battle in BLITZ
+ID_ME_S2_ARENACOMBATALLY,Lose a Battle in BLITZ
+ID_ME_NA_BLITZCOMBAT_ALLY_DEADPOOL,Trigger-happy Gladiator
+ID_ME_NA_BLITZCOMBAT_ALLY_THANOS,Maddest Gladiator
+ID_ME_NA_BATTLECOMPLETION,World Warrior
+ID_ME_SD_BATTLECOMPLETION,Fight in Battles
+ID_ME_SM_BATTLECOMPLETION,Earn points by fighting in battles
+ID_ME_LM_BATTLECOMPLETION,Fight in any battle to earn various milestone rewards.
+ID_ME_S1_BATTLECOMPLETION,Spend 1 CAMPAIGN ENERGY
+ID_ME_S2_BATTLECOMPLETION,Complete a CHALLENGE
+ID_ME_S3_BATTLECOMPLETION,Win a Battle in BLITZ
+ID_ME_S4_BATTLECOMPLETION,Lose a Battle in BLITZ
+ID_ME_S5_BATTLECOMPLETION,Battle in Ultimus RAIDS
+ID_ME_S6_BATTLECOMPLETION,Battle in Thanos RAIDS
+ID_ME_S7_BATTLECOMPLETION,Battle in Ultron RAIDS
+ID_ME_S8_BATTLECOMPLETION,Win a Battle in ARENA
+ID_ME_S9_BATTLECOMPLETION,Lose a Battle in ARENA
+ID_ME_S10_BATTLECOMPLETION,Battle in the ARENA
+ID_ME_S11_BATTLECOMPLETION,Battle in Deadpool RAIDS
+ID_ME_S12_BATTLECOMPLETION,Win an ALLIANCE WAR Battle
+ID_ME_S13_BATTLECOMPLETION,Win or lose an attack in ALLIANCE WAR
+ID_ME_S14_BATTLECOMPLETION,Win a battle in REAL-TIME ARENA
+ID_ME_S15_BATTLECOMPLETION,Lose a battle in REAL-TIME ARENA
+ID_ME_S16_BATTLECOMPLETION,Win or lose a battle in REAL-TIME ARENA
+ID_ME_S17_BATTLECOMPLETION,Battle in RAIDS
+ID_ME_NA_BATTLECOMPLETIONALLY,World Warrior
+ID_ME_SD_BATTLECOMPLETIONALLY,Fight in Battles
+ID_ME_SM_BATTLECOMPLETIONALLY,Earn points by fighting in battles
+ID_ME_LM_BATTLECOMPLETIONALLY,Fight in any battle as an ALLIANCE to earn various milestone rewards.
+ID_ME_S1_BATTLECOMPLETIONALLY,Spend 1 CAMPAIGN ENERGY
+ID_ME_S2_BATTLECOMPLETIONALLY,Complete a CHALLENGE
+ID_ME_S3_BATTLECOMPLETIONALLY,Win a Battle in BLITZ
+ID_ME_S4_BATTLECOMPLETIONALLY,Lose a Battle in BLITZ
+ID_ME_S5_BATTLECOMPLETIONALLY,Win a Battle in ARENA
+ID_ME_S6_BATTLECOMPLETIONALLY,Lose a Battle in ARENA
+ID_ME_NA_BATTLECOMPLETION_ALLY_THANOS,Eternal Savior
+ID_ME_NA_BATTLECOMPLETION_ALLY_DEADPOOL,Savior for Hire
+ID_ME_NA_CAMPAIGNENERGY,Save the World!
+ID_ME_SD_CAMPAIGNENERGY,Spend Campaign Energy
+ID_ME_SM_CAMPAIGNENERGY,Earn points by spending CAMPAIGN ENERGY
+ID_ME_LM_CAMPAIGNENERGY,Spend CAMPAIGN ENERGY to earn various milestone rewards.
+ID_ME_S1_CAMPAIGNENERGY,Spend 1 CAMPAIGN ENERGY
+ID_ME_NA_CHARACTERTRAINING,Hone Your Skills
+ID_ME_SD_CHARACTERTRAINING,Use Training Modules
+ID_ME_SM_CHARACTERTRAINING,Earn points by using TRAINING MODULES
+ID_ME_LM_CHARACTERTRAINING,Use TRAINING MODULES to train your characters and earn various milestone rewards.
+ID_ME_S1_CHARACTERTRAINING,Use 1 L1 TRAINING MODULE
+ID_ME_S2_CHARACTERTRAINING,Use 1 L2 TRAINING MODULE
+ID_ME_S3_CHARACTERTRAINING,Use 1 L3 TRAINING MODULE
+ID_ME_S4_CHARACTERTRAINING,Use 1 L4 TRAINING MODULE
+ID_ME_NA_RAIDCOMBAT_ALLY_DEADPOOL,Conqueror for Hire
+ID_ME_NA_RAIDCOMBAT_ALLY,Universal Conqueror
+ID_ME_SD_RAIDCOMBAT_ALLY,Battle in Raids
+ID_ME_SM_RAIDCOMBAT_ALLY,Earn points by competing in RAIDS
+ID_ME_LM_RAIDCOMBAT_ALLY,Battle in Raids as an ALLIANCE to earn various milestone rewards.
+ID_ME_S1_RAIDCOMBAT_ALLY,Win a battle in RAIDS
+ID_ME_S2_RAIDCOMBAT_ALLY,Lose a battle in RAIDS
+ID_ME_S3_RAIDCOMBAT_ALLY,Battle in RAIDS
+ID_ME_S4_RAIDCOMBAT_ALLY,Win or Lose a Raid battle
+ID_ME_NA_HARDCURRENCY,Power Monger
+ID_ME_SD_HARDCURRENCY,Spend Power Cores
+ID_ME_SM_HARDCURRENCY,Earn points by spending POWER CORES
+ID_ME_LM_HARDCURRENCY,Spend POWER CORES to earn various milestone rewards.
+ID_ME_S1_HARDCURRENCY,Spend 1 POWER CORE
+ID_ME_NA_SOFTCURRENCY,High Roller
+ID_ME_SD_SOFTCURRENCY,Spend Gold
+ID_ME_SM_SOFTCURRENCY,Earn points by spending GOLD
+ID_ME_LM_SOFTCURRENCY,Spend GOLD to earn various milestone rewards.
+ID_ME_S1_SOFTCURRENCY,Spend 1 GOLD
+ID_ME_NA_WEBSPEND,Big Spender
+ID_ME_SD_WEBSPEND,Purchase items from the web store
+ID_ME_SM_WEBSPEND,Earn Web UPCs by purchasing items from the web store
+ID_ME_LM_WEBSPEND,Purchase items from the web store to earn various milestone rewards.
+ID_ME_S1_WEBSPEND,Collect a Web UPC
+ID_ME_NA_CAMPAIGNENERGY_NOCHAR,Save the World!
+ID_ME_NA_SOFTCURRENCY_NOCHAR,High Roller
+ID_ME_NA_BATTLECOMPLETIONALLY_NOCHAR,World Warrior
+ID_QU_NA_SOFTCURRENCY_EMMAFROST,High Roller
+ID_QU_NA_CAMPAIGNENERGY_EMMAFROST,Save the World
+ID_QU_NA_BATTLECOMPLETIONALLY_EMMAFROST,World Warrior
+ID_ME_NA_LC_ENERGY,Titan Eternal
+ID_ME_SD_LC_ENERGY,Spend Campaign and Raid Energy
+ID_ME_SM_LC_ENERGY,Earn points by spending Campaign and Raid Energy
+ID_ME_LM_LC_ENERGY,Spend Campaign and Raid Energy to earn Thanos shards.
+ID_ME_S1_ORB_BLITZ,Open a Blitz Orb
+ID_ME_S1_ORB_RAID,Open a Raid Orb
+ID_ME_S1_KINGPINSVAULT,Open the Kingpin's Vault
+ID_ME_LM_ORBSAPLENTY,Earn various milestone rewards by opening any of the following orbs:\n\nPremium Orb\nBlitz Orb\nRaid Orb\nKingpin's Vault\nRed Star Orb\n\n*You must be level 42 or higher to unlock the Red Star feature.
+ID_ME_NA_ORBSAPLENTY,Orbs-A-Plenty
+ID_ME_NA_ORB_AVALANCHE,Orb Avalanche
+ID_ME_SD_ORB_AVALANCHE,Open select orbs
+ID_ME_LM_ORB_AVALANCHE,Open select orbs to score points and earn various milestone rewards.
+ID_ME_SM_ORB_AVALANCHE,Earn points by opening orbs
+ID_ME_S1_ORB_AVALANCHE,Open a Basic Orb
+ID_ME_S2_ORB_AVALANCHE,Open a Blue Gear Raid Orb
+ID_ME_S3_ORB_AVALANCHE,Open a Purple Gear Raid Orb
+ID_ME_S4_ORB_AVALANCHE,Open an Ability Orb
+ID_ME_S5_ORB_AVALANCHE,Open a Training Orb
+ID_ME_S6_ORB_AVALANCHE,Open a Blitz Orb
+ID_ME_S7_ORB_AVALANCHE,Open a Premium Orb
+ID_ME_S8_ORB_AVALANCHE,Open a Red Star Orb
+ID_ME_S9_ORB_AVALANCHE,Open a Raid Orb
+ID_ME_S10_ORB_AVALANCHE,Open a Kingpin's Vault
+ID_ME_S11_ORB_AVALANCHE,Open an Orange Gear Raid Orb
+ID_ME_S12_ORB_AVALANCHE,Open a Gold Orb
+ID_ME_S13_ORB_AVALANCHE,Open an Ultimus Orb
+ID_ME_S14_ORB_AVALANCHE,Open a Mega Orb
+ID_ME_S15_ORB_AVALANCHE,Open a Legacy I Orb
+ID_ME_S16_ORB_AVALANCHE,Open a Blue War Orb
+ID_ME_S17_ORB_AVALANCHE,Open a Purple War Orb
+ID_ME_S18_ORB_AVALANCHE,Open an Orange War Orb
+ID_QU_NA_PROVINGGROUNDS,Proving Grounds
+ID_QU_SD_PROVINGGROUNDS,Participate in VS Battle Match
+ID_QU_LM_PROVINGGROUNDS,Play VS Battle Match battles to earn various milestone rewards.
+ID_QU_SM_PROVINGGROUNDS,Earn points by playing VS Battle Match
+ID_QU_S1_PROVINGGROUNDS,Win a VS Battle Match battle
+ID_QU_S2_PROVINGGROUNDS,Lose a VS Battle Match battle
+ID_ME_S1_CARNAGE_ROLLOUT,Unlock Carnage
+ID_ME_S2_CARNAGE_ROLLOUT,Increase Level of Carnage by 1
+ID_ME_S3_CARNAGE_ROLLOUT,Increase Gear Tier of Carnage by 1
+ID_ME_S4_CARNAGE_ROLLOUT,Increase Star Rank of Carnage by 1
+ID_ME_LM_CARNAGE_ROLLOUT,Earn various milestone rewards by powering up Carnage:\n\nUnlock the character\nLevel up the character\nIncrease Gear Tiers\nIncrease Star Rank
+ID_ME_SM_CARNAGE_ROLLOUT,Earn points by powering up Carnage
+ID_ME_NA_CARNAGE_ROLLOUT,Introducing Carnage
+ID_ME_SD_CARNAGE_ROLLOUT,Power Up Carnage
+ID_ME_S1_GREENGOBLIN_ROLLOUT,Unlock Green Goblin
+ID_ME_S2_GREENGOBLIN_ROLLOUT,Increase Level of Green Goblin by 1
+ID_ME_S3_GREENGOBLIN_ROLLOUT,Increase Gear Tier of Green Goblin by 1
+ID_ME_S4_GREENGOBLIN_ROLLOUT,Increase Star Rank of Green Goblin by 1
+ID_ME_LM_GREENGOBLIN_ROLLOUT,Earn various milestone rewards by powering up Green Goblin:\n\nUnlock the character\nLevel up the character\nIncrease Gear Tiers\nIncrease Star Rank
+ID_ME_SM_GREENGOBLIN_ROLLOUT,Earn points by powering up Green Goblin
+ID_ME_NA_GREENGOBLIN_ROLLOUT,Introducing Green Goblin
+ID_ME_SD_GREENGOBLIN_ROLLOUT,Power Up Green Goblin
+ID_ME_S1_KILLMONGER_ROLLOUT,Unlock Killmonger
+ID_ME_S2_KILLMONGER_ROLLOUT,Increase Level of Killmonger by 1
+ID_ME_S3_KILLMONGER_ROLLOUT,Increase Gear Tier of Killmonger by 1
+ID_ME_S4_KILLMONGER_ROLLOUT,Increase Star Rank of Killmonger by 1
+ID_ME_LM_KILLMONGER_ROLLOUT,Earn various milestone rewards by powering up Killmonger:\n\nUnlock the character\nLevel up the character\nIncrease Gear Tiers\nIncrease Star Rank
+ID_ME_SM_KILLMONGER_ROLLOUT,Earn points by powering up Killmonger
+ID_ME_NA_KILLMONGER_ROLLOUT,Introducing Killmonger
+ID_ME_SD_KILLMONGER_ROLLOUT,Power Up Killmonger
+ID_ME_S1_MANTIS_ROLLOUT,Unlock Mantis
+ID_ME_S2_MANTIS_ROLLOUT,Increase Level of Mantis by 1
+ID_ME_S3_MANTIS_ROLLOUT,Increase Gear Tier of Mantis by 1
+ID_ME_S4_MANTIS_ROLLOUT,Increase Star Rank of Mantis by 1
+ID_ME_LM_MANTIS_ROLLOUT,Earn various milestone rewards by powering up Mantis:\n\nUnlock the character\nLevel up the character\nIncrease Gear Tiers\nIncrease Star Rank
+ID_ME_SM_MANTIS_ROLLOUT,Earn points by powering up Mantis
+ID_ME_NA_MANTIS_ROLLOUT,Introducing Mantis
+ID_ME_SD_MANTIS_ROLLOUT,Power Up Mantis
+ID_ME_S1_MILES_ROLLOUT,Unlock Spider-Man (Miles)
+ID_ME_S2_MILES_ROLLOUT,Increase Level of Spider-Man (Miles) by 1
+ID_ME_S3_MILES_ROLLOUT,Increase Gear Tier of Spider-Man (Miles) by 1
+ID_ME_S4_MILES_ROLLOUT,Increase Star Rank of Spider-Man (Miles) by 1
+ID_ME_LM_MILES_ROLLOUT,Earn various milestone rewards by powering up Miles Morales:\n\nUnlock the character\nLevel up the character\nIncrease Gear Tiers\nIncrease Star Rank
+ID_ME_SM_MILES_ROLLOUT,Earn points by powering up Spider-Man (Miles)
+ID_ME_NA_MILES_ROLLOUT,Introducing Miles Morales
+ID_ME_SD_MILES_ROLLOUT,Power Up Spider-Man (Miles)
+ID_ME_S1_MINERVA_ROLLOUT,Unlock Minn-Erva
+ID_ME_S2_MINERVA_ROLLOUT,Increase Level of Minn-Erva by 1
+ID_ME_S3_MINERVA_ROLLOUT,Increase Gear Tier of Minn-Erva by 1
+ID_ME_S4_MINERVA_ROLLOUT,Increase Star Rank of Minn-Erva by 1
+ID_ME_LM_MINERVA_ROLLOUT,Earn various milestone rewards by powering up Minn-Erva:\n\nUnlock the character\nLevel up the character\nIncrease Gear Tiers\nIncrease Star Rank
+ID_ME_SM_MINERVA_ROLLOUT,Earn points by powering up Minn-Erva
+ID_ME_NA_MINERVA_ROLLOUT,Introducing Minn-Erva
+ID_ME_SD_MINERVA_ROLLOUT,Power Up Minn-Erva
+ID_ME_S1_WARMACHINE_ROLLOUT,Unlock War Machine
+ID_ME_S2_WARMACHINE_ROLLOUT,Increase Level of War Machine by 1
+ID_ME_S3_WARMACHINE_ROLLOUT,Increase Gear Tier of War Machine by 1
+ID_ME_S4_WARMACHINE_ROLLOUT,Increase Star Rank of War Machine by 1
+ID_ME_LM_WARMACHINE_ROLLOUT,Earn various milestone rewards by powering up War Machine:\n\nUnlock the character\nLevel up the character\nIncrease Gear Tiers\nIncrease Star Rank
+ID_ME_SM_WARMACHINE_ROLLOUT,Earn points by powering up War Machine
+ID_ME_NA_WARMACHINE_ROLLOUT,Introducing War Machine
+ID_ME_SD_WARMACHINE_ROLLOUT,Power Up War Machine
+ID_ME_S1_CHIMI_BLITZ,Win a BLITZ Battle
+ID_ME_S2_CHIMI_BLITZ,Win a BLITZ Battle with Deadpool
+ID_ME_S3_CHIMI_BLITZ,Win a BLITZ Battle with Spider-Man (Miles)
+ID_ME_S4_CHIMI_BLITZ,Win a BLITZ Battle with 6-star Deadpool
+ID_ME_S5_CHIMI_BLITZ,Win a BLITZ Battle with 6-star Spider-Man (Miles)
+ID_ME_S6_CHIMI_BLITZ,Complete a Daily Objective
+ID_ME_S7_CHIMI_BLITZ,Complete All Daily Objectives
+ID_ME_LM1_CHIMI_BLITZ,Win in Blitz to earn points.\nEarn maximum points when you win with Deadpool and/or Spider-Man (Miles).
+ID_ME_LM2_CHIMI_BLITZ,Win in Blitz to earn points.\nEarn maximum points when you win with 6-star Deadpool and/or 6-star Spider-Man (Miles).
+ID_ME_SM1_CHIMI_BLITZ,Win battles in Blitz
+ID_ME_NA_CHIMI_BLITZ,Chimichanga Blitz
+ID_ME_SD_CHIMI_BLITZ,Win in Blitz
+ID_QU_NA_DOCTORSORDERS,Doctor's Orders
+ID_QU_SD_DOCTORSORDERS,Spend Sinister Credits
+ID_QU_LM_DOCTORSORDERS,"Earn Sinister Credits by participating in Campaign, Blitz, Raids, Arena, and VS Battle Match. Spend those Credits to open the following Orbs\n\nOrange Assembly Orb\nPurple Assembly Orb\nBlue Assembly Orb"
+ID_QU_SM_DOCTORSORDERS,Earn points by opening Assembly Orbs
+ID_QU_S1_DOCTORSORDERS,Open an Orange Assembly Orb
+ID_QU_S2_DOCTORSORDERS,Open a Purple Assembly Orb
+ID_QU_S3_DOCTORSORDERS,Open a Blue Assembly Orb
+ID_ME_NA_FIREWORK_FRENZY,Firework Frenzy
+ID_ME_SD_FIREWORK_FRENZY,Spend Chimichangas
+ID_ME_LM_FIREWORK_FRENZY,"Earn Chimichangas by participating in Campaign, Blitz, Raids, and Arena. Spend Chimichangas to open the following Orbs\n\nOrange Firework Orb\nPurple Firework Orb\nBlue Firework Orb"
+ID_ME_SM_FIREWORK_FRENZY,Earn points by opening Firework Orbs
+ID_ME_S1_FIREWORK_FRENZY,Open an Orange Firework Orb
+ID_ME_S2_FIREWORK_FRENZY,Open a Purple Firework Orb
+ID_ME_S3_FIREWORK_FRENZY,Open a Blue Firework Orb
+ID_ME_S1_HALLOWEEN,Win a BLITZ Battle with Mystique
+ID_ME_S2_HALLOWEEN,Win a BLITZ Battle with Venom
+ID_ME_S3_HALLOWEEN,Win a BLITZ Battle with Mordo
+ID_ME_S4_HALLOWEEN,Win a BLITZ Battle with Crossbones
+ID_ME_S5_HALLOWEEN,Win a BLITZ Battle with Iron Fist
+ID_ME_S6_HALLOWEEN,Win a BLITZ Battle with Spider-Man
+ID_ME_S7_HALLOWEEN,Win a BLITZ Battle with Scarlet Witch
+ID_ME_LM_HALLOWEEN,Win in Blitz battles with specific characters as an ALLIANCE to earn various milestone rewards.\n\nSupported Characters:\nMystique\nVenom\nMordo\nCrossbones\nIron Fist\nSpider-Man\nScarlet Witch
+ID_ME_SM_HALLOWEEN,Battle in BLITZ with specified characters
+ID_ME_NA_HALLOWEEN,Blitz for Treatz
+ID_ME_NA_HALLOWEEN_BLITZ,Monster Mash
+ID_ME_SD_HALLOWEEN_BLITZ,Use Trick or Treat characters in Blitz
+ID_ME_LM_HALLOWEEN_BLITZ,Win in Blitz battles with featured characters to earn various milestone rewards.
+ID_ME_SM_HALLOWEEN_BLITZ,Earn points by fighting in Blitz battles with featured characters
+ID_ME_S1_HALLOWEEN_BLITZ,Win a Blitz battle with: Trick or Treat character
+ID_ME_NA_HALLOWEEN_ORB,Pumpkin Smash
+ID_ME_SD_HALLOWEEN_ORB,Open Jack-O'-Lantern Orbs
+ID_ME_LM_HALLOWEEN_ORB,Open the Jack-O'-Lantern Orb to score points and earn various milestone rewards.
+ID_ME_SM_HALLOWEEN_ORB,Earn points by opening orbs
+ID_ME_S1_HALLOWEEN_ORB,Open a Jack-O'-Lantern Orb
+ID_ME_NA_HARVEST,Mutant Vagabonds
+ID_ME_SD_HARVEST,Use Marauders in battles
+ID_ME_SM_HARVEST,Earn points by using Marauders in combat
+ID_ME_LM_HARVEST,Use Marauders in all forms of battle to earn various milestone rewards.
+ID_ME_S1_HARVEST,Win a Raid battle with: Marauder
+ID_ME_S2_HARVEST,Win an attack in Alliance War with: Marauder
+ID_ME_S3_HARVEST,Win an Arena battle with: Marauder
+ID_ME_S4_HARVEST,Win a Blitz battle with: Marauder
+ID_ME_S5_HARVEST,Increase level of Mister Sinister by 1
+ID_ME_S6_HARVEST,Increase level of Stryfe by 1
+ID_ME_S7_HARVEST,Equip a piece of gear to Mister Sinister
+ID_ME_S8_HARVEST,Equip a piece of gear to Stryfe
+ID_ME_S9_HARVEST,Increase level of a Marauder by 1
+ID_ME_S10_HARVEST,Equip a piece of gear to a Marauder
+ID_ME_NA_HEAT_STORM,Heat Storm
+ID_ME_S1_HEATWAVE_BLITZ,Win a Blitz battle
+ID_ME_S2_HEATWAVE_BLITZ,"Win in Blitz with 5-star or higher Pyro, Phoenix, Carnage, or Iron Man"
+ID_ME_S3_HEATWAVE_BLITZ,"Win in Blitz with red Global characters: Okoye, Colossus, Falcon, Juggernaut, and/or Ultron"
+ID_ME_S4_HEATWAVE_BLITZ,"Win in Blitz with red Controller characters: Star-Lord, Scarlet Witch, and/or Ant-Man"
+ID_ME_S5_HEATWAVE_BLITZ,"Win in Blitz with red City characters: Daredevil, Elektra, Spider-Man, Carnage, and/or Nobu"
+ID_ME_S6_HEATWAVE_BLITZ,"Win in Blitz with red Mutant characters: Magneto, Pyro, and/or Deadpool"
+ID_ME_S7_HEATWAVE_BLITZ,Open a Heat Wave Orb
+ID_ME_LM_HEATWAVE_BLITZ,"Earn points by winning Blitz battles and opening Heat Wave Orbs. Win with specified red characters for even more points. Win with 5-star or higher Pyro, Phoenix, Carnage, or Iron Man for max points!"
+ID_ME_SM_HEATWAVE_BLITZ,Win in Blitz and open Heat Wave Orbs
+ID_ME_NA_HEATWAVE_BLITZ,Code Red Blitz
+ID_ME_SD_HEATWAVE_BLITZ,Win in Blitz
+ID_QU_NA_HUNTINGGROUNDS,Hunting Grounds
+ID_QU_SD_HUNTINGGROUNDS,Play VS Battle Match battles
+ID_QU_LM_HUNTINGGROUNDS,Play VS Battle Match battles to earn Sinister Credits
+ID_ME_NA_HYDRA,Hydra Assemble
+ID_ME_SD_HYDRA,Use Hydra in battles
+ID_ME_SM_HYDRA,Earn points by using Hydra in combat
+ID_ME_LM_HYDRA,Use Hydra in all forms of battle to earn various milestone rewards.
+ID_ME_S1_HYDRA,Win or lose a Raid Battle with: Hydra
+ID_ME_S3_HYDRA,Win or lose an ARENA battle with: Hydra
+ID_ME_S4_HYDRA,Win a Blitz battle with: Hydra
+ID_ME_NA_JOTUNHEIM,Battle for Jotunheim
+ID_ME_SD_JOTUNHEIM,Use Asgardians in battles
+ID_ME_SM_JOTUNHEIM,Earn points by using Asgardians in combat
+ID_ME_LM_JOTUNHEIM,Use Asgardians in all forms of battle to earn various milestone rewards.
+ID_ME_S1_JOTUNHEIM,Win or Lose a Raid Battle with: Asgardian
+ID_ME_S3_JOTUNHEIM,Win or Lose an Arena battle with: Asgardian
+ID_ME_S4_JOTUNHEIM,Win a Blitz battle with: Asgardian
+ID_ME_LM_LOSMUERTOS,Win in Raid battles with featured characters to earn various milestone rewards.
+ID_ME_SM_LOSMUERTOS,Earn points by winning Raid battles with featured characters
+ID_ME_NA_LOSMUERTOS,Celebrated Spirits
+ID_ME_SD_LOSMUERTOS,Use featured characters in Raids
+ID_ME_NA_LOSMUERTOS_WODS,Celebrated Spirits
+ID_ME_NA_LOSMUERTOS_SMSS,Celebrated Spirits
+ID_ME_NA_LOSMUERTOS_GRNE,Celebrated Spirits
+ID_ME_NA_LOSMUERTOS_ELMI,Celebrated Spirits
+ID_ME_NA_LOSMUERTOS_DPNO,Celebrated Spirits
+ID_ME_S1_LUCKY_GREEN_BLITZ,Win a BLITZ Battle with 3-Star or higher VISION
+ID_ME_S2_LUCKY_GREEN_BLITZ,"Win with LOKI, IRON FIST, DRAX, MANTIS, HULK, GREEN GOBLIN, GROOT, GAMORA, or MORDO"
+ID_ME_S3_LUCKY_GREEN_BLITZ,"Win a BLITZ Battle with DRAX, MANTIS, GROOT, and GAMORA"
+ID_ME_S4_LUCKY_GREEN_BLITZ,"Win a BLITZ Battle with LOKI, IRON FIST, and MORDO"
+ID_ME_LM_LUCKY_GREEN_BLITZ,"Earn points by fighting in Blitz battles to win various rewards.\nUse 3-Star VISION for more points.\nTeam up with Drax, Mantis, Hulk, Green Goblin, Groot and Gamora OR Loki, Iron Fist, and Mordo for maximum points!"
+ID_ME_SM_LUCKY_GREEN_BLITZ,"Earn points by fighting with specified green characters Vision, Drax, Mantis, Hulk, Green Goblin, Groot, Gamora, Loki, Iron Fist, and Mordo."
+ID_ME_LM_LUCKY_GREEN_BLITZ_1,"Earn points by fighting in Blitz battles and win various rewards.\nWin with Loki, Iron Fist, Drax, Mantis, Hulk, Green Goblin, Groot, Gamora or Mordo for points.\nEarn maximum points by winning with 3-Star or higher Vision!"
+ID_ME_SM_LUCKY_GREEN_BLITZ_1,"Earn points by fighting with specified green characters Vision, Drax, Mantis, Hulk, Green Goblin, Groot, Gamora, Loki, Iron Fist, and Mordo."
+ID_ME_NA_LUCKY_GREEN_BLITZ,Code Green Blitz
+ID_ME_S1_LUNAR,Donate 10K Gold to your Alliance
+ID_ME_S2_LUNAR,Donate 125 Power Cores to your Alliance
+ID_ME_S3_LUNAR,Donate 500 Power Cores to your Alliance
+ID_ME_SD_LUCKY_GREEN_BLITZ,Use specified green characters in Blitz
+ID_ME_NA_M80_BLITZ,Bombastic Blitz
+ID_ME_SD_M80_BLITZ,Use Marvel 80th characters in Blitz
+ID_ME_LM_M80_BLITZ,Win in Blitz battles with featured characters to earn various milestone rewards
+ID_ME_SM_M80_BLITZ,Earn points by fighting in Blitz battles with featured characters
+ID_ME_S1_M80_BLITZ,Win a Blitz battle with: Marvel 80th character
+ID_ME_NA_M80_ORB,Orbs Away
+ID_ME_SD_M80_ORB,Open Marvel Anniversary Orbs
+ID_ME_LM_M80_ORB,Open the Marvel Anniversary Orb to score points and earn various milestone rewards.
+ID_ME_SM_M80_ORB,Earn points by opening orbs
+ID_ME_S1_M80_ORB,Open a Marvel Anniversary Orb
+ID_ME_S1_PREPFORWAR,Open a Basic Orb
+ID_ME_S2_PREPFORWAR,Open a Premium Orb
+ID_ME_S3_PREPFORWAR,Open a Training Orb
+ID_ME_S4_PREPFORWAR,Open a Gold Orb
+ID_ME_S5_PREPFORWAR,Open an Ability Orb
+ID_ME_LM_PREPFORWAR,Earn various milestone rewards by opening any of the following orbs:\n\nBasic Orb\nPremium Orb\nTraining Orb\nGold Orb\nRed Star Orb\n\n*You must be level 42 or higher to unlock the Red Star feature.
+ID_ME_SC_PREPFORWAR,Open the following orbs to earn points
+ID_ME_NA_PREPFORWAR,Countdown to War
+ID_ME_SD_PREPFORWAR,Earn points by opening orbs
+ID_ME_NA_SECOND_STRIKE,Second Strike
+ID_ME_SD_SECOND_STRIKE,Spend Anniversary Credits
+ID_ME_LM_SECOND_STRIKE,"Earn Anniversary Credits by participating in Campaign, Blitz, Raids, and Arena. Spend those Credits to open the following Orbs\n\nOrange Festival Orb\nPurple Festival Orb\nBlue Festival Orb"
+ID_ME_SM_SECOND_STRIKE,Earn points by opening Festival Orbs
+ID_ME_S1_SECOND_STRIKE,Open an Orange Festival Orb
+ID_ME_S2_SECOND_STRIKE,Open a Purple Festival Orb
+ID_ME_S3_SECOND_STRIKE,Open a Blue Festival Orb
+ID_ME_NA_SPIDERVERSE,Friendly Neighborhood
+ID_ME_SD_SPIDERVERSE,Use Spider-Verse in battles
+ID_ME_SM_SPIDERVERSE,Earn points by using Spider-Verse in combat
+ID_ME_LM_SPIDERVERSE,Use Spider-Verse in all forms of battle to earn various milestone rewards.
+ID_ME_S1_SPIDERVERSE,Win or Lose a Raid Battle with: Spider-Verse
+ID_ME_S2_SPIDERVERSE,Win or Lose an attack in Alliance War with: Spider-Verse
+ID_ME_S3_SPIDERVERSE,Win or Lose an Arena battle with: Spider-Verse
+ID_ME_S4_SPIDERVERSE,Win a Blitz battle with: Spider-Verse
+ID_ME_S1_TECH_BLITZ,Win a BLITZ Battle with a TECH character
+ID_ME_LM_TECH_BLITZ,Win Blitz battles with TECH characters to earn various milestone rewards.
+ID_ME_SM_TECH_BLITZ,Earn points by fighting in Blitz battles with TECH characters
+ID_ME_NA_TECH_BLITZ,Blitz Tech Crunch
+ID_ME_SD_TECH_BLITZ,Use TECH characters in Blitz
+ID_ME_S1_TECH_CAMPAIGN,Spend 1 Unstoppable Energy
+ID_ME_LM_TECH_CAMPAIGN,Earn points by spending Energy in the Unstoppable Event Campaign to win various rewards.
+ID_ME_SM_TECH_CAMPAIGN,Spend Energy in the Unstoppable Campaign
+ID_ME_NA_TECH_CAMPAIGN,Fall to the Juggernaut
+ID_ME_SD_TECH_CAMPAIGN,Spend Event Campaign Energy
+ID_ME_S1_TECH_RAID,Spend 1 Raid Energy
+ID_ME_S2_TECH_RAID,Spend 1 Event Raid Energy
+ID_ME_LM_TECH_RAID,Spend Raid Energy to earn points and win various rewards.
+ID_ME_SM_TECH_RAID,Spend Raid Energy to earn points.
+ID_ME_NA_TECH_RAID,Fall Raid Frenzy
+ID_ME_SD_TECH_RAID,Spend Raid energy
+ID_ME_S1_TECH_STARBLITZ,Win a BLITZ Battle with a 1-star character
+ID_ME_S2_TECH_STARBLITZ,Win a BLITZ Battle with a 2-star character
+ID_ME_S3_TECH_STARBLITZ,Win a BLITZ Battle with a 3-star character
+ID_ME_S4_TECH_STARBLITZ,Win a BLITZ Battle with a 4-star character
+ID_ME_S5_TECH_STARBLITZ,Win a BLITZ Battle with a 5-star or higher character
+ID_ME_LM_TECH_STARBLITZ,Earn points by fighting in Blitz battles and win various rewards.\nUse characters with higher Star Rank to earn more points.
+ID_ME_SM_TECH_STARBLITZ,Earn more points with higher Star Rank
+ID_ME_NA_TECH_STARBLITZ,Blitz for the Starz
+ID_ME_S1_UNITY_BLITZ,Open a Unity Orb
+ID_ME_S2_UNITY_BLITZ,Win a BLITZ Battle with America Chavez
+ID_ME_S3_UNITY_BLITZ,Win a BLITZ Battle with Captain Marvel
+ID_ME_S4_UNITY_BLITZ,Win a BLITZ Battle with Jessica Jones
+ID_ME_S5_UNITY_BLITZ,Win a BLITZ Battle with Storm
+ID_ME_S6_UNITY_BLITZ,Win a BLITZ Battle with Ms. Marvel
+ID_ME_S7_UNITY_BLITZ,Win a BLITZ Battle with Scarlet Witch
+ID_ME_LM_UNITY_BLITZ,Win in Blitz battles with featured characters to earn various milestone rewards.
+ID_ME_SM_UNITY_BLITZ,Fight in Blitz battles with featured characters
+ID_ME_NA_UNITY_BLITZ,A-Force Blitz
+ID_ME_SD_UNITY_BLITZ,Use featured characters in Blitz
+ID_ME_NA_UNITY_2020_BLITZ,Creative Differences
+ID_ME_SD_UNITY_2020_BLITZ,Use Unity characters in Blitz
+ID_ME_LM_UNITY_2020_BLITZ,Win in Blitz battles with featured characters to earn various milestone rewards.
+ID_ME_SM_UNITY_2020_BLITZ,Earn points by fighting in Blitz battles with featured characters
+ID_ME_S1_UNITY_2020_BLITZ,Win a Blitz battle with: Unity character
+ID_ME_NA_UNITY_2020_ORB,Explosive Combo
+ID_ME_SD_UNITY_2020_ORB,Open Unity Orbs
+ID_ME_LM_UNITY_2020_ORB,Open Unity Orbs to score points and earn various milestone rewards.
+ID_ME_SM_UNITY_2020_ORB,Earn points by opening orbs
+ID_ME_S1_UNITY_2020_ORB,Open a Unity Orb
+ID_ME_NA_VALENTINE_BLITZ,Beloved Battles
+ID_ME_SD_VALENTINE_BLITZ,Use Valentine characters in Blitz
+ID_ME_LM_VALENTINE_BLITZ,Win in Blitz battles with featured characters to earn various milestone rewards.
+ID_ME_SM_VALENTINE_BLITZ,Earn points by fighting in Blitz battles with featured characters
+ID_ME_S1_VALENTINE_BLITZ,Win a Blitz battle with: Valentine character
+ID_ME_NA_VALENTINE_ORB,Heart Breaker
+ID_ME_SD_VALENTINE_ORB,Open Ruby Heart Orbs
+ID_ME_LM_VALENTINE_ORB,Open the Ruby Heart Orb to score points and earn various milestone rewards.
+ID_ME_SM_VALENTINE_ORB,Earn points by opening orbs
+ID_ME_S1_VALENTINE_ORB,Open a Ruby Heart Orb
+ID_ME_S1_VDAY,"Win a BLITZ Battle with Ant-Man, Wasp, Rocket Raccoon, Groot, or Deadpool"
+ID_ME_S2_VDAY,Donate to your Alliance
+ID_ME_S3_VDAY,Open a Red Star Orb
+ID_ME_S4_VDAY,Win a BLITZ Battle with Deadpool
+ID_ME_S5_VDAY,Win a BLITZ Battle with Groot
+ID_ME_S6_VDAY,Win a BLITZ Battle with Rocket Raccoon
+ID_ME_S7_VDAY,Win a BLITZ Battle with Wasp
+ID_ME_S8_VDAY,Win a BLITZ Battle with Ant-Man
+ID_ME_LM_VDAY,"Win in Blitz battles with Ant-Man, Wasp, Rocket Raccoon, Groot or Deadpool, donate to your alliance, and open Red Star Orbs to earn various milestone rewards."
+ID_ME_SM_VDAY,"For Scoring details, tap SCORING"
+ID_ME_NA_VDAY,Love is War Machine
+ID_ME_SD_VDAY,Earn War Machine shards
+ID_QU_NA_VALUABLE_LESSONS,Valuable Lessons
+ID_QU_SD_VALUABLE_LESSONS,Use Mentorship characters in combat
+ID_QU_LM_VALUABLE_LESSONS,Use Mentorship characters in all forms of combat to earn various milestone rewards.
+ID_QU_SM_VALUABLE_LESSONS,Earn points by using Mentorship characters in combat
+ID_QU_S1_VALUABLE_LESSONS,Win a Blitz battle with: Mentorship character
+ID_QU_S2_VALUABLE_LESSONS,Win or lose a Raid Battle with: Mentorship character
+ID_QU_S3_VALUABLE_LESSONS,Win or lose an Arena Battle with: Mentorship character
+ID_ME_S1_WINTER_CAMPAIGN,Spend 1 Web-Head Warrior Energy
+ID_ME_LM_WINTER_CAMPAIGN,Earn points by spending energy in the Web-Head Warrior Event Campaign to win various rewards.
+ID_ME_SM_WINTER_CAMPAIGN,Spend energy in the Web-Head Warrior Campaign
+ID_ME_NA_WINTER_CAMPAIGN,Caught In the Web
+ID_ME_SD_WINTER_CAMPAIGN,Spend Event Campaign Energy
+ID_ME_S1_WINTER_SPIDER_BLITZ,Win a BLITZ Battle
+ID_ME_LM_WINTER_SPIDER_BLITZ,Win in Blitz battles to earn various milestone rewards.
+ID_ME_SM_WINTER_SPIDER_BLITZ,Earn points by fighting in Blitz battles.
+ID_ME_NA_WINTER_SPIDER_BLITZ,Winter Warriors
+ID_ME_SD_WINTER_SPIDER_BLITZ,Win Battles in Blitz
+ID_ME_S1_WINTER_UNCANNY_BLITZ,Win a BLITZ Battle with a MUTANT character
+ID_ME_S2_WINTER_UNCANNY_BLITZ,Win a BLITZ Battle with JUGGERNAUT
+ID_ME_LM_WINTER_UNCANNY_BLITZ,Earn points by fighting in Blitz battles and win various rewards.\nUse Juggernaut or characters with the Mutant trait to earn more points.
+ID_ME_SM_WINTER_UNCANNY_BLITZ,Earn points by fighting with Mutants and Juggernaut
+ID_ME_NA_WINTER_UNCANNY_BLITZ,Uncanny Blitz
+ID_QU_NA_XFORCE,X Marks the Spot
+ID_QU_SD_XFORCE,Use X-Force in combat
+ID_QU_LM_XFORCE,Use X-Force characters in all forms of combat to earn various milestone rewards.
+ID_QU_SM_XFORCE,Earn points by using X-Force in combat
+ID_QU_S1_XFORCE,Win a Blitz battle with: X-Force
+ID_QU_S2_XFORCE,Win or Lose a Raid battle with: X-Force
+ID_QU_S3_XFORCE,Win or Lose an Arena battle with: X-Force
+ID_QU_S4_XFORCE,Win or Lose an attack in Alliance War with: X-Force
+ID_QU_NA_FULL_MATRIX,Full Matrix
+ID_QU_SD_FULL_MATRIX,Use BIO characters in combat
+ID_QU_LM_FULL_MATRIX,Use BIO characters in all forms of combat to earn various milestone rewards.
+ID_QU_SM_FULL_MATRIX,Earn points by using BIO characters in combat
+ID_QU_S1_FULL_MATRIX,Win a Blitz battle with: BIO character
+ID_QU_S2_FULL_MATRIX,Win or lose a Raid Battle with: BIO character
+ID_QU_S3_FULL_MATRIX,Win or lose an Arena Battle with: BIO character
+ID_QU_NA_HALLOWEEN_2020_BLITZ,Dream Warriors
+ID_QU_SD_HALLOWEEN_2020_BLITZ,Use Masked Caper characters in Blitz and Arena
+ID_QU_LM_HALLOWEEN_2020_BLITZ,Participate in Blitz and Arena with featured characters to earn various milestone rewards.
+ID_QU_SM_HALLOWEEN_2020_BLITZ,Earn points by fighting in Blitz and Arena with featured characters
+ID_QU_S1_HALLOWEEN_2020_BLITZ,Win a Blitz battle with: Masked Caper character
+ID_QU_S2_HALLOWEEN_2020_BLITZ,Win or Lose an Arena battle with: Masked Caper character
+ID_QU_NA_HALLOWEEN_2020_ORB,Night Terrors
+ID_QU_SD_HALLOWEEN_2020_ORB,Open Fright Light Orbs
+ID_QU_LM_HALLOWEEN_2020_ORB,Open Fright Light Orbs to score points and earn various milestone rewards.
+ID_QU_SM_HALLOWEEN_2020_ORB,Earn points by opening orbs
+ID_QU_S1_HALLOWEEN_2020_ORB,Open a Fright Light Orb
+ID_QU_NA_HALLOWEEN_2020_RAID,Lucid Dream
+ID_QU_SD_HALLOWEEN_2020_RAID,Use Masked Caper characters in Raids
+ID_QU_LM_HALLOWEEN_2020_RAID,Win or Lose Raid battles with featured characters to earn various milestone rewards
+ID_QU_SM_HALLOWEEN_2020_RAID,Earn points by fighting in Raids with featured characters
+ID_QU_S1_HALLOWEEN_2020_RAID,Win or Lose a Raid battle with: Masked Caper character
+ID_QU_SIM_BLITZ,Win a SIMMED Battle in Blitz
+ID_QU_NA_WINTERSPECIAL,Screen Champions
+ID_QU_SD_WINTERSPECIAL,Spend Screen Time
+ID_QU_LM_WINTERSPECIAL,"Earn Screen Time by participating in Campaign, Blitz, Raids, Arena, and Real-Time Arena. Spend those Credits to open the following Orbs\n\nPrimetime Orb\nSyndication Orb\nRe-Run Orb"
+ID_QU_SM_WINTERSPECIAL,Earn points by opening select Orbs
+ID_QU_S1_WINTERSPECIAL,Open a Primetime Orb
+ID_QU_S2_WINTERSPECIAL,Open a Syndication Orb
+ID_QU_S3_WINTERSPECIAL,Open a Re-Run Orb
+ID_QU_NA_DARKMATTER,Dark Matter
+ID_QU_SD_DARKMATTER,Spend Cosmic Essence
+ID_QU_LM_DARKMATTER,"Earn Cosmic Essence by participating in Campaign, Blitz, Raids, Arena, and Real-Time Arena. Spend those Credits to open the following Orbs\n\nCelestial Orb\nGalatic Orb\nSolar Orb"
+ID_QU_SM_DARKMATTER,Earn points by opening select Orbs
+ID_QU_S1_DARKMATTER,Open a Celestial Orb
+ID_QU_S2_DARKMATTER,Open a Galatic Orb
+ID_QU_S3_DARKMATTER,Open a Solar Orb
+ID_QU_NA_UNIVERSALTRUTH,Universal Truth
+ID_QU_SD_UNIVERSALTRUTH,Spend War and Elite War Credits
+ID_QU_LM_UNIVERSALTRUTH,Score points by spending War and Elite War Credits to earn Cosmic Essence. Spend Cosmic Essence to open the following Orbs:\n\nCelestial Orb\nGalatic Orb\nSolar Orb
+ID_QU_SM_UNIVERSALTRUTH,Earn points by spending War and Elite War Credits
+ID_QU_S1_UNIVERSALTRUTH,Spend 1 War Credit
+ID_QU_S2_UNIVERSALTRUTH,Spend 1 Elite War Credit
+ID_BP_MISSION_ABILITY_ASGARD,Use abilities: Asgardian
+ID_BP_MISSION_ABILITY_BROTHERHOOD,Use abilities: Brotherhood
+ID_BP_MISSION_ABILITY_FANTASTICFOUR,Use abilities: Fantastic Four
+ID_BP_MISSION_ABILITY_AIM,Use abilities: A.I.M.
+ID_BP_MISSION_ABILITY_AVENGER,Use abilities: Avenger
+ID_BP_MISSION_ABILITY_BLACKORDER,Use abilities: Black Order
+ID_BP_MISSION_ABILITY_DEFENDER,Use abilities: Defender
+ID_BP_MISSION_ABILITY_GOTG,Use abilities: Guardian
+ID_BP_MISSION_ABILITY_HYDRA,Use abilities: Hydra
+ID_BP_MISSION_ABILITY_INHUMAN,Use abilities: Inhuman
+ID_BP_MISSION_ABILITY_MARAUDERS,Use abilities: Marauder
+ID_BP_MISSION_ABILITY_MERCENARY,Use abilities: Mercenary
+ID_BP_MISSION_ABILITY_POWERARMOR,Use abilities: Power Armor
+ID_BP_MISSION_ABILITY_SHIELD,Use abilities: S.H.I.E.L.D.
+ID_BP_MISSION_ABILITY_SINSIX,Use abilities: Sinister Six
+ID_BP_MISSION_ABILITY_SPIDERVERSE,Use abilities: Spider-Verse
+ID_BP_MISSION_ABILITY_SUPERNATURAL,Use abilities: Supernatural
+ID_BP_MISSION_ABILITY_SYMBIOTE,Use abilities: Symbiote
+ID_BP_MISSION_ABILITY_WAKANDA,Use abilities: Wakandan
+ID_BP_MISSION_ABILITY_XFORCE,Use abilities: X-Force
+ID_BP_MISSION_ABILITY_XMEN,Use abilities: X-Men
+ID_BP_MISSION_ABILITY_YOUNGAVENGER,Use abilities: Young Avenger
+ID_BP_MISSION_ABILITY_WAVE1AVENGER,Use abilities: Wave I - Avenger
+ID_BP_MISSION_ABILITY_RAVAGER,Use abilities: Ravager
+ID_BP_MISSION_ABILITY_MINION,Use abilities: Minion
+ID_BP_MISSION_ABILITY_MILITARY,Use abilities: Military
+ID_BP_MISSION_ABILITY_HAND,Use abilities: Hand
+ID_BP_MISSION_ABILITY_LEGENDARY,Use abilities: Legendary
+ID_BP_MISSION_ABILITY_KREE,Use abilities: Kree
+ID_BP_MISSION_ABILITY_PYMTECH,Use abilities: Pym Tech
+ID_BP_MISSION_ABILITY_XFACTOR,Use abilities: X-Factor
+ID_BP_MISSION_ABILITY_SHADOWLAND,Use abilities: Shadowland
+ID_BP_MISSION_DAMAGE_BIO,Damage with: Bio
+ID_BP_MISSION_DAMAGE_COSMIC,Damage with: Cosmic
+ID_BP_MISSION_DAMAGE_TECH,Damage with: Tech
+ID_BP_MISSION_DAMAGE_BLASTER,Damage with: Blaster
+ID_BP_MISSION_DAMAGE_BRAWLER,Damage with: Brawler
+ID_BP_MISSION_DAMAGE_CITY,Damage with: City
+ID_BP_MISSION_DAMAGE_CONTROLLER,Damage with: Controller
+ID_BP_MISSION_DAMAGE_GLOBAL,Damage with: Global
+ID_BP_MISSION_DAMAGE_HERO,Damage with: Hero
+ID_BP_MISSION_DAMAGE_MYSTIC,Damage with: Mystic
+ID_BP_MISSION_DAMAGE_PROTECTOR,Damage with: Protector
+ID_BP_MISSION_DAMAGE_SKILL,Damage with: Skill
+ID_BP_MISSION_DAMAGE_SUPPORT,Damage with: Support
+ID_BP_MISSION_DAMAGE_VILLAIN,Damage with: Villain
+ID_BP_MISSION_SCORE50,"Score 50 Points (10 for RTA KOs, 3 for Blitz Wins)"
+ID_BP_MISSION_SCORE100,"Score 100 Points (10 for RTA KOs, 3 for Blitz Wins)"
+ID_BP_MISSION_SCORE150,"Score 150 Points (10 for RTA KOs, 3 for Blitz Wins)"
+ID_BP_MISSION_SCORE200,"Score 200 Points (10 for RTA KOs, 3 for Blitz Wins)"
+ID_BP_MISSION_SCORE500,"Score 500 Points (10 for RTA KOs, 3 for Blitz Wins)"
+ID_BP_MISSION_SCORE1500,"Score 1500 Points (10 for RTA KOs, 3 for Blitz Wins)"
+ID_BP_MISSION_SCORE2400,"Score 2400 Points (10 for RTA KOs, 3 for Blitz Wins)"
+ID_BP_MISSION_SCORE50_GENERIC,Score 50 Points
+ID_BP_MISSION_SCORE100_GENERIC,Score 100 Points
+ID_BP_MISSION_SCORE150_GENERIC,Score 150 Points
+ID_BP_MISSION_SCORE200_GENERIC,Score 200 Points
+ID_BP_MISSION_SCORE500_GENERIC,Score 500 Points
+ID_BP_MISSION_SCORE1500_GENERIC,Score 1500 Points
+ID_BP_MISSION_SCORE2400_GENERIC,Score 2400 Points
+ID_BP_MISSION_KNOCKOUT100,Get 100 Knockouts
+ID_BP_MISSION_KNOCKOUT150,Get 150 Knockouts
+ID_BP_MISSION_KNOCKOUT200,Get 200 Knockouts
+ID_BP_MISSION_KNOCKOUT400,Get 225 Knockouts
+ID_BP_MISSION_KNOCKOUT900,Get 350 Knockouts
+ID_BP_MISSION_KNOCKOUT1200,Get 550 Knockouts
+ID_BP_MISSION_KNOCKOUT5,Get 5 Knockouts
+ID_BP_MISSION_KNOCKOUT10,Get 10 Knockouts
+ID_BP_MISSION_KNOCKOUT15,Get 15 Knockouts
+ID_BP_MISSION_KNOCKOUT20,Get 20 Knockouts
+ID_BP_MISSION_KNOCKOUT25,Get 25 Knockouts
+ID_BP_MISSION_KNOCKOUT30,Get 30 Knockouts
+ID_BP_MISSION_KNOCKOUT35,Get 35 Knockouts
+ID_BP_MISSION_KNOCKOUT50,Get 50 Knockouts
+ID_BP_MISSION_DAMAGE_ASGARD,Damage with: Asgardian
+ID_BP_MISSION_DAMAGE_BROTHERHOOD,Damage with: Brotherhood
+ID_BP_MISSION_DAMAGE_FANTASTICFOUR,Damage with: Fantastic Four
+ID_BP_MISSION_DAMAGE_AIM,Damage with: A.I.M.
+ID_BP_MISSION_DAMAGE_AVENGER,Damage with: Avenger
+ID_BP_MISSION_DAMAGE_BLCAKORDER,Damage with: Black Order
+ID_BP_MISSION_DAMAGE_DEFENDER,Damage with: Defender
+ID_BP_MISSION_DAMAGE_GOTG,Damage with: Guardian
+ID_BP_MISSION_DAMAGE_HYDRA,Damage with: Hydra
+ID_BP_MISSION_DAMAGE_INHUMAN,Damage with: Inhuman
+ID_BP_MISSION_DAMAGE_MARAUDERS,Damage with: Marauder
+ID_BP_MISSION_DAMAGE_MERCENARY,Damage with: Mercenary
+ID_BP_MISSION_DAMAGE_POWERARMOR,Damage with: Power Armor
+ID_BP_MISSION_DAMAGE_SHIELD,Damage with: S.H.I.E.L.D.
+ID_BP_MISSION_DAMAGE_SINSIX,Damage with: Sinister Six
+ID_BP_MISSION_DAMAGE_SPIDERVERSE,Damage with: Spider-Verse
+ID_BP_MISSION_DAMAGE_SUPERNATURAL,Damage with: Supernatural
+ID_BP_MISSION_DAMAGE_SYMBIOTE,Damage with: Symbiote
+ID_BP_MISSION_DAMAGE_WAKANDA,Damage with: Wakandan
+ID_BP_MISSION_DAMAGE_XFORCE,Damage with: X-Force
+ID_BP_MISSION_DAMAGE_XMEN,Damage with: X-Men
+ID_BP_MISSION_DAMAGE_YOUNGAVENGER,Damage with: Young Avenger
+ID_BP_MISSION_DAMAGE_XFACTOR,Damage with: X-Factor
+ID_BP_MISSION_DAMAGE_SHADOWLAND,Damage with: Shadowland
+ID_BP_MISSION_ABILITY_AMERICACHAVEZ,Use abilities: America Chavez
+ID_BP_MISSION_ABILITY_ANTIVENOM,Use abilities: Anti-Venom
+ID_BP_MISSION_ABILITY_ANTMAN,Use abilities: Ant-Man
+ID_BP_MISSION_ABILITY_BARONMORDO,Use abilities: Mordo
+ID_BP_MISSION_ABILITY_BEAST,Use abilities: Beast
+ID_BP_MISSION_ABILITY_BISHOP,Use abilities: Bishop
+ID_BP_MISSION_ABILITY_BLACKPANTHER,Use abilities: Black Panther
+ID_BP_MISSION_ABILITY_BLACKWIDOW,Use abilities: Black Widow
+ID_BP_MISSION_ABILITY_BLOB,Use abilities: Blob
+ID_BP_MISSION_ABILITY_BULLSEYE,Use abilities: Bullseye
+ID_BP_MISSION_ABILITY_CABLE,Use abilities: Cable
+ID_BP_MISSION_ABILITY_CAPTAINAMERICA,Use abilities: Captain America
+ID_BP_MISSION_ABILITY_CAPTAINMARVEL,Use abilities: Captain Marvel
+ID_BP_MISSION_ABILITY_CARNAGE,Use abilities: Carnage
+ID_BP_MISSION_ABILITY_COLOSSUS,Use abilities: Colossus
+ID_BP_MISSION_ABILITY_COULSON,Use abilities: Agent Coulson
+ID_BP_MISSION_ABILITY_CROSSBONES,Use abilities: Crossbones
+ID_BP_MISSION_ABILITY_CRYSTAL,Use abilities: Crystal
+ID_BP_MISSION_ABILITY_CYCLOPS,Use abilities: Cyclops
+ID_BP_MISSION_ABILITY_DAREDEVIL,Use abilities: Daredevil
+ID_BP_MISSION_ABILITY_DEADPOOL,Use abilities: Deadpool
+ID_BP_MISSION_ABILITY_DOCTOROCK,Use abilities: Doctor Octopus
+ID_BP_MISSION_ABILITY_DOMINO,Use abilities: Domino
+ID_BP_MISSION_ABILITY_DRAX,Use abilities: Drax
+ID_BP_MISSION_ABILITY_ELEKTRA,Use abilities: Elektra
+ID_BP_MISSION_ABILITY_ELECTRO,Use abilities: Electro
+ID_BP_MISSION_ABILITY_ELSABLOODSTONE,Use abilities: Elsa Bloodstone
+ID_BP_MISSION_ABILITY_EMMAFROST,Use abilities: Emma Frost
+ID_BP_MISSION_ABILITY_FALCON,Use abilities: Falcon
+ID_BP_MISSION_ABILITY_GAMORA,Use abilities: Gamora
+ID_BP_MISSION_ABILITY_GHOST,Use abilities: Ghost
+ID_BP_MISSION_ABILITY_GHOSTRIDER,Use abilities: Ghost Rider
+ID_BP_MISSION_ABILITY_GRAVITON,Use abilities: Graviton
+ID_BP_MISSION_ABILITY_GREENGOBLIN,Use abilities: Green Goblin
+ID_BP_MISSION_ABILITY_GROOT,Use abilities: Groot
+ID_BP_MISSION_ABILITY_HAWKEYE,Use abilities: Hawkeye
+ID_BP_MISSION_ABILITY_HEIMDALL,Use abilities: Heimdall
+ID_BP_MISSION_ABILITY_HUMANTORCH,Use abilities: Human Torch
+ID_BP_MISSION_ABILITY_ICEMAN,Use abilities: Iceman
+ID_BP_MISSION_ABILITY_IRONFIST,Use abilities: Iron Fist
+ID_BP_MISSION_ABILITY_IRONHEART,Use abilities: Ironheart
+ID_BP_MISSION_ABILITY_JESSICAJONES,Use abilities: Jessica Jones
+ID_BP_MISSION_ABILITY_KARNAK,Use abilities: Karnak
+ID_BP_MISSION_ABILITY_KILLMONGER,Use abilities: Killmonger
+ID_BP_MISSION_ABILITY_KINGPIN,Use abilities: Kingpin
+ID_BP_MISSION_ABILITY_KITTYPRYDE,Use abilities: Kitty Pryde
+ID_BP_MISSION_ABILITY_KORATH,Use abilities: Korath the Pursuer
+ID_BP_MISSION_ABILITY_LOKI,Use abilities: Loki
+ID_BP_MISSION_ABILITY_LONGSHOT,Use abilities: Longshot
+ID_BP_MISSION_ABILITY_MINERVA,Use abilities: Minn-Erva
+ID_BP_MISSION_ABILITY_MOONKNIGHT,Use abilities: Moon Knight
+ID_BP_MISSION_ABILITY_MRSINISTER,Use abilities: Mister Sinister
+ID_BP_MISSION_ABILITY_MSMARVEL,Use abilities: Ms. Marvel
+ID_BP_MISSION_ABILITY_MYSTERIO,Use abilities: Mysterio
+ID_BP_MISSION_ABILITY_MYSTIQUE,Use abilities: Mystique
+ID_BP_MISSION_ABILITY_NAMOR,Use abilities: Namor
+ID_BP_MISSION_ABILITY_NEGASONIC,Use abilities: Negasonic
+ID_BP_MISSION_ABILITY_NIGHTNURSE,Use abilities: Night Nurse
+ID_BP_MISSION_ABILITY_PSYLOCKE,Use abilities: Psylocke
+ID_BP_MISSION_ABILITY_PUNISHER,Use abilities: Punisher
+ID_BP_MISSION_ABILITY_PYRO,Use abilities: Pyro
+ID_BP_MISSION_ABILITY_QUAKE,Use abilities: Quake
+ID_BP_MISSION_ABILITY_REDSKULL,Use abilities: Red Skull
+ID_BP_MISSION_ABILITY_RESCUE,Use abilities: Rescue
+ID_BP_MISSION_ABILITY_ROCKETRACCOON,Use abilities: Rocket Raccoon
+ID_BP_MISSION_ABILITY_SCIENTISTSUPREME,Use abilities: Scientist Supreme
+ID_BP_MISSION_ABILITY_SCREAM,Use abilities: Scream
+ID_BP_MISSION_ABILITY_SHATTERSTAR,Use abilities: Shatterstar
+ID_BP_MISSION_ABILITY_SHEHULK,Use abilities: She-Hulk
+ID_BP_MISSION_ABILITY_SIF,Use abilities: Sif
+ID_BP_MISSION_ABILITY_SPIDERMAN,Use abilities: Spider-Man
+ID_BP_MISSION_ABILITY_SQUIRRELGIRL,Use abilities: Squirrel Girl
+ID_BP_MISSION_ABILITY_STATURE,Use abilities: Stature
+ID_BP_MISSION_ABILITY_STORM,Use abilities: Storm
+ID_BP_MISSION_ABILITY_STRYFE,Use abilities: Stryfe
+ID_BP_MISSION_ABILITY_SWARM,Use abilities: Swarm
+ID_BP_MISSION_ABILITY_SYMBIOTESPIDERMAN,Use abilities: Spider-Man (Symbiote)
+ID_BP_MISSION_ABILITY_TASKMASTER,Use abilities: Taskmaster
+ID_BP_MISSION_ABILITY_THANOS,Use abilities: Thanos
+ID_BP_MISSION_ABILITY_THING,Use abilities: The Thing
+ID_BP_MISSION_ABILITY_THOR,Use abilities: Thor
+ID_BP_MISSION_ABILITY_TOAD,Use abilities: Toad
+ID_BP_MISSION_ABILITY_ULTRON,Use abilities: Ultron
+ID_BP_MISSION_ABILITY_ULTSPIDERMAN,Use abilities: Spider-Man (Miles)
+ID_BP_MISSION_ABILITY_VENOM,Use abilities: Venom
+ID_BP_MISSION_ABILITY_VISION,Use abilities: Vision
+ID_BP_MISSION_ABILITY_VULTURE,Use abilities: Vulture
+ID_BP_MISSION_ABILITY_WARMACHINE,Use abilities: War Machine
+ID_BP_MISSION_ABILITY_WASP,Use abilities: Wasp
+ID_BP_MISSION_ABILITY_WHITETIGER,Use abilities: White Tiger
+ID_BP_MISSION_ABILITY_WINTERSOLDIER,Use abilities: Winter Soldier
+ID_BP_MISSION_ABILITY_X23,Use abilities: X-23
+ID_BP_MISSION_ABILITY_YELENA,Use abilities: Yelena Belova
+ID_BP_MISSION_ABILITY_YELLOWJACKET,Use abilities: Yellowjacket
+ID_BP_MISSION_ABILITY_YONDU,Use abilities: Yondu
+ID_BP_MISSION_ABILITY_YOYO,Use abilities: Yo-Yo
+ID_BP_MISSION_ABILITY_ZEMO,Use abilities: Baron Zemo
+ID_BP_MISSION_COMPLETEMATCH,Complete a Real-Time Arena match
+ID_BP_MISSION_WIN1,Win 1 Match
+ID_BP_MISSION_WIN2,Win 2 Matches
+ID_BP_MISSION_WIN3,Win 3 Matches
+ID_BP_MISSION_DAMAGE_ELECTRO,Damage with: Electro
+ID_BP_MISSION_DAMAGE_SWARM,Damage with: Swarm
+ID_BP_MISSION_DAMAGE_BEAST,Damage with: Beast
+ID_BP_MISSION_DAMAGE_DOCTOROCK,Damage with: Doctor Octopus
+ID_BP_MISSION_DAMAGE_EMMAFROST,Damage with: Emma Frost
+ID_BP_MISSION_DAMAGE_ZEMO,Damage with: Baron Zemo
+ID_BP_MISSION_DAMAGE_TASKMASTER,Damage with: Taskmaster
+ID_BP_MISSION_DAMAGE_SQUIRRELGIRL,Damage with: Squirrel Girl
+ID_BP_MISSION_ABILITY_BIO,Use abilities: Bio
+ID_BP_MISSION_ABILITY_COSMIC,Use abilities: Cosmic
+ID_BP_MISSION_ABILITY_TECH,Use abilities: Tech
+ID_BP_MISSION_ABILITY_BLASTER,Use abilities: Blaster
+ID_BP_MISSION_ABILITY_BRAWLER,Use abilities: Brawler
+ID_BP_MISSION_ABILITY_MUTANT,Use abilities: Mutant
+ID_BP_MISSION_ABILITY_CITY,Use abilities: City
+ID_BP_MISSION_ABILITY_CONTROLLER,Use abilities: Controller
+ID_BP_MISSION_ABILITY_GLOBAL,Use abilities: Global
+ID_BP_MISSION_ABILITY_HERO,Use abilities: Hero
+ID_BP_MISSION_ABILITY_MYSTIC,Use abilities: Mystic
+ID_BP_MISSION_ABILITY_PROTECTOR,Use abilities: Protector
+ID_BP_MISSION_ABILITY_SKILL,Use abilities: Skill
+ID_BP_MISSION_ABILITY_SUPPORT,Use abilities: Support
+ID_BP_MISSION_ABILITY_VILLAIN,Use abilities: Villain
+ID_QU_NA_SYMBIOTE,Parasitic Symbiosis
+ID_QU_SD_SYMBIOTE,Use Symbiotes in combat
+ID_QU_LM_SYMBIOTE,Use Symbiote characters in all forms of combat to earn various milestone rewards.
+ID_QU_SM_SYMBIOTE,Earn points by using Symbiotes in combat
+ID_QU_S1_SYMBIOTE,Win a Blitz battle with: Symbiote
+ID_QU_S2_SYMBIOTE,Win or Lose a Raid battle with: Symbiote
+ID_QU_S3_SYMBIOTE,Win or Lose an Arena battle with: Symbiote
+ID_QU_NA_WINTER_2021_BLITZ,Red Alert
+ID_QU_SD_WINTER_2021_BLITZ,Use Seasoned characters in Blitz and Arena
+ID_QU_LM_WINTER_2021_BLITZ,Participate in Blitz and Arena with featured characters to earn various milestone rewards.
+ID_QU_SM_WINTER_2021_BLITZ,Earn points by fighting in Blitz and Arena with featured characters
+ID_QU_S1_WINTER_2021_BLITZ,Win a Blitz battle with: Seasoned characters
+ID_QU_S2_WINTER_2021_BLITZ,Win or Lose an Arena battle with: Seasoned characters
+ID_QU_SIM_BLITZ_WINTER_2021_BLITZ,Win a SIMMED Battle in Blitz with: Seasoned characters
+ID_QU_NA_WINTER_2021_ORB,Red Winter
+ID_QU_SD_WINTER_2021_ORB,Open Deep Freeze Orbs
+ID_QU_LM_WINTER_2021_ORB,Open Deep Freeze Orbs to score points and earn various milestone rewards.
+ID_QU_SM_WINTER_2021_ORB,Earn points by opening orbs
+ID_QU_S1_WINTER_2021_ORB,Open a Deep Freeze Orb
+ID_QU_NA_WINTER_2021_RAID,Crimson Affair
+ID_QU_SD_WINTER_2021_RAID,Use Seasoned characters in Raids
+ID_QU_LM_WINTER_2021_RAID,Win or Lose Raid battles with featured characters to earn various milestone rewards
+ID_QU_SM_WINTER_2021_RAID,Earn points by fighting in Raids with featured characters
+ID_QU_S1_WINTER_2021_RAID,Win or Lose a Raid battle with: Seasoned characters
+ID_QU_NA_COVERTOPS,Covert Ops
+ID_QU_SD_COVERTOPS,Use Military in combat
+ID_QU_LM_COVERTOPS,Use Military characters in select forms of combat to earn various milestone rewards.
+ID_QU_SM_COVERTOPS,Earn points by using Military in combat
+ID_QU_S1_COVERTOPS,Win a Blitz battle with: Military
+ID_QU_S2_COVERTOPS,Win or Lose a Raid battle with: Military
+ID_QU_S3_COVERTOPS,Win or Lose an Arena battle with: Military
+ID_QU_NA_LUNARFESTIVAL_SOLO,Well Wishes
+ID_QU_SD_LUNARFESTIVAL_SOLO,Spend Power Cores
+ID_QU_LM_LUNARFESTIVAL_SOLO,"Spend Power Cores to earn Lunar Credits. Lunar Credits can be used to open Orange, Purple, and Blue Lunar Orbs."
+ID_QU_SM_LUNARFESTIVAL_SOLO,Earn points by spending Power Cores
+ID_QU_S1_LUNARFESTIVAL_SOLO,Spend 1 POWER CORE
+ID_QU_NA_LUNARFESTIVAL_ALLIANCE,Cheerful Celebration
+ID_QU_SD_LUNARFESTIVAL_ALLIANCE,Open Lunar Orbs
+ID_QU_LM_LUNARFESTIVAL_ALLIANCE,"Earn various milestone rewards by opening Orange, Purple, and Blue Lunar Orbs."
+ID_QU_SM_LUNARFESTIVAL_ALLIANCE,Earn points by opening Lunar Orbs
+ID_QU_S1_LUNARFESTIVAL_ALLIANCE,Open an Orange Lunar Orb
+ID_QU_S2_LUNARFESTIVAL_ALLIANCE,Open a Purple Lunar Orb
+ID_QU_S3_LUNARFESTIVAL_ALLIANCE,Open a Blue Lunar Orb
+ID_QU_NA_NEWMOON_2021_BLITZ,Crescent Crescendo
+ID_QU_SD_NEWMOON_2021_BLITZ,Use Nocturnal characters in Blitz and Arena
+ID_QU_LM_NEWMOON_2021_BLITZ,Participate in Blitz and Arena with featured characters to earn various milestone rewards.
+ID_QU_SM_NEWMOON_2021_BLITZ,Earn points by fighting in Blitz and Arena with featured characters
+ID_QU_S1_NEWMOON_2021_BLITZ,Win a Blitz battle with: Nocturnal characters
+ID_QU_S2_NEWMOON_2021_BLITZ,Win or Lose an Arena battle with: Nocturnal characters
+ID_QU_SIM_BLITZ_NEWMOON_2021_BLITZ,Win a SIMMED Battle in Blitz with: Nocturnal characters
+ID_QU_NA_NEWMOON_2021_ORB,New Moon
+ID_QU_SD_NEWMOON_2021_ORB,Open Eternal Night Orbs
+ID_QU_LM_NEWMOON_2021_ORB,Open Eternal Night Orbs to score points and earn various milestone rewards.
+ID_QU_SM_NEWMOON_2021_ORB,Earn points by opening orbs
+ID_QU_S1_NEWMOON_2021_ORB,Open an Eternal Night Orb
+ID_QU_NA_NEWMOON_2021_RAID,Midnight Madness
+ID_QU_SD_NEWMOON_2021_RAID,Use Nocturnal characters in Raids
+ID_QU_LM_NEWMOON_2021_RAID,Win or Lose Raid battles with featured characters to earn various milestone rewards
+ID_QU_SM_NEWMOON_2021_RAID,Earn points by fighting in Raids with featured characters
+ID_QU_S1_NEWMOON_2021_RAID,Win or Lose a Raid battle with: Nocturnal characters
+ID_QU_NA_FALCONWINTERSOLDIER,Honor the Shield
+ID_QU_SD_FALCONWINTERSOLDIER,Use Featured Characters in Battle
+ID_QU_LM_FALCONWINTERSOLDIER,"Score points by using Featured Characters (Falcon, Winter Soldier, Baron Zemo, Captain America) in Blitz and War or any character in Raids. Score even more points in Blitz and War if those featured characters are 5 Stars and above and/or Gear Tier 13 and above."
+ID_QU_SM_FALCONWINTERSOLDIER,Earn points by participating in combat
+ID_QU_S1_FALCONWINTERSOLDIER,Blitz Win with Featured Character
+ID_QU_S2_FALCONWINTERSOLDIER,Blitz Sim Win with Featured Character
+ID_QU_S3_FALCONWINTERSOLDIER,War Win or Lose with Featured Character
+ID_QU_S4_FALCONWINTERSOLDIER,Blitz or Blitz Sim Win with 5 Star or Higher Featured Character
+ID_QU_S5_FALCONWINTERSOLDIER,Blitz or Blitz Sim Win with Gear Tier 13 or Higher Featured Character
+ID_QU_S6_FALCONWINTERSOLDIER,War Win or Lose with 5 Star or Higher Featured Character
+ID_QU_S7_FALCONWINTERSOLDIER,War Win or Lose with Gear Tier 13 or Higher Featured Character
+ID_QU_NA_SUPPORT,Support Incoming!
+ID_QU_SD_SUPPORT,Use Support in combat
+ID_QU_LM_SUPPORT,Use Support characters in select forms of combat to earn various milestone rewards.
+ID_QU_SM_SUPPORT,Earn points by using Support in combat
+ID_QU_S1_SUPPORT,Win or lose a Blitz battle with: Support
+ID_QU_S2_SUPPORT,Win or Lose a Raid battle with: Support
+ID_QU_S3_SUPPORT,Win or Lose an Arena battle
+ID_QU_NA_KESTRELWINGS_SOLO,Earn Your Wings
+ID_QU_SD_KESTRELWINGS_SOLO,Open Voyager Orbs
+ID_QU_LM_KESTRELWINGS_SOLO,Open Voyager Orbs to score points and earn various milestone rewards.
+ID_QU_SM_KESTRELWINGS_SOLO,Earn points by opening orbs
+ID_QU_S1_KESTRELWINGS_SOLO,Open a Voyager Orb
+ID_QU_NA_KESTRELFABRIC_SOLO,Fabric of Reality
+ID_QU_SD_KESTRELFABRIC_SOLO,Spend Voyager Energy
+ID_QU_LM_KESTRELFABRIC_SOLO,Spend Voyager Energy to score points and earn various milestone rewards.
+ID_QU_SM_KESTRELFABRIC_SOLO,Earn points by spending Voyager Energy
+ID_QU_S1_KESTRELFABRIC_SOLO,Spend 1 Voyager Energy
+ID_QU_NA_FORMANDFUNCTION,Form and Function
+ID_QU_SD_FORMANDFUNCTION,Participate in combat
+ID_QU_LM_FORMANDFUNCTION,"Battle in Arena, Raid, and Alliance War to earn points for various milestone rewards."
+ID_QU_SM_FORMANDFUNCTION,Earn points by participating in combat
+ID_QU_S1_FORMANDFUNCTION,Win or Lose an Arena battle
+ID_QU_S2_FORMANDFUNCTION,Win or Lose a Raid battle
+ID_QU_S3_FORMANDFUNCTION,Win or Lose a War battle
+ID_QU_NA_CAMPAIGNMISCHIEF,Campaign Mischief
+ID_QU_SD_CAMPAIGNMISCHIEF,Spend Vote for Loki Energy
+ID_QU_LM_CAMPAIGNMISCHIEF,Spend Vote for Loki Energy to score points and earn various milestone rewards.
+ID_QU_SM_CAMPAIGNMISCHIEF,Earn points by spending Vote for Loki Energy
+ID_QU_S1_CAMPAIGNMISCHIEF,Spend 1 Vote for Loki Energy
+ID_QU_NA_SHADEOFICE,All-New Shade of Ice
+ID_QU_SD_SHADEOFICE,Participate in Arena battles
+ID_QU_LM_SHADEOFICE,"Participate in Arena battles to earn Purple Flash Bits. Use Purple Flash Bits to purchase the ""All-New X-Men"" Costume for Iceman"
+ID_QU_SM_SHADEOFICE,Earn Purple Flash Bits!
+ID_QU_SC_SHADEOFICE,Score points by participating in Arena Battles.
+ID_QU_NA_UNITY_2021_BLITZ,Strength in Numbers
+ID_QU_SD_UNITY_2021_BLITZ,Use Quirky characters in Blitz and Arena
+ID_QU_LM_UNITY_2021_BLITZ,Participate in Blitz and Arena with featured characters to earn various milestone rewards.
+ID_QU_SM_UNITY_2021_BLITZ,Earn points by fighting in Blitz and Arena with featured characters
+ID_QU_S1_UNITY_2021_BLITZ,Win a Blitz battle with: Quirky characters
+ID_QU_S2_UNITY_2021_BLITZ,Win or Lose an Arena battle with: Quirky characters
+ID_QU_S3_UNITY_2021_BLITZ,Win a SIMMED Battle in Blitz with: Quirky characters
+ID_QU_NA_UNITY_2021_ORB,Barrier Breaker
+ID_QU_SD_UNITY_2021_ORB,Open Unity Orbs
+ID_QU_LM_UNITY_2021_ORB,Open Unity Orbs to score points and earn various milestone rewards.
+ID_QU_SM_UNITY_2021_ORB,Earn points by opening event orbs
+ID_QU_S1_UNITY_2021_ORB,Open a Unity Orb
+ID_QU_NA_UNITY_2021_RAID,Marvelous Allies
+ID_QU_SD_UNITY_2021_RAID,Use Quirky characters in Raids
+ID_QU_LM_UNITY_2021_RAID,Win or Lose Raid battles with featured characters to earn various milestone rewards
+ID_QU_SM_UNITY_2021_RAID,Earn points by fighting in Raids with featured characters
+ID_QU_S1_UNITY_2021_RAID,Win or Lose a Raid battle with: Quirky characters
+ID_QU_NA_WEBOFSPIES,Web of Spies
+ID_QU_SD_WEBOFSPIES,Spend Classified Data
+ID_QU_LM_WEBOFSPIES,"Earn Classified Data by participating in Campaign, Blitz, Raids, Arena, and Real-Time Arena. Spend those Credits to open the following Orbs:\n\nOrange Hidden Threat Orb\nPurple Hidden Threat Orb\nBlue Hidden Threat Orb"
+ID_QU_SM_WEBOFSPIES,Earn points by opening select Orbs
+ID_QU_S1_WEBOFSPIES,Open an Orange Hidden Threat Orb
+ID_QU_S2_WEBOFSPIES,Open a Purple Hidden Threat Orb
+ID_QU_S3_WEBOFSPIES,Open a Blue Hidden Threat Orb
+ID_QU_NA_TARGETACQUIRED,Target Acquired
+ID_QU_SD_TARGETACQUIRED,Participate in battles
+ID_QU_LM_TARGETACQUIRED,"Score points by playing Arena, Raid, War battles and winning Real-Time Arena battles to earn Classified Data. Spend Classified Data to open the following Orbs:\n\nOrange Hidden Threat Orb\nPurple Hidden Threat Orb\nBlue Hidden Threat Orb"
+ID_QU_SM_TARGETACQUIRED,"Earn points by participating in Arena, Raid, and War battles and winning Real-Time Arena battles."
+ID_QU_NA_DEADLYINTENTIONS,Deadly Intentions
+ID_QU_SD_DEADLYINTENTIONS,Participate in combat
+ID_QU_LM_DEADLYINTENTIONS,"Battle in Arena, Raid, and Alliance War to earn points for various milestone rewards."
+ID_QU_SM_DEADLYINTENTIONS,Earn points by participating in combat
+ID_QU_S1_DEADLYINTENTIONS,Win or Lose an Arena battle
+ID_QU_S2_DEADLYINTENTIONS,Win or Lose a Raid battle
+ID_QU_S3_DEADLYINTENTIONS,Win or Lose a War battle
+ID_QU_NA_CLASSICLOOKS,Classic Looks
+ID_QU_SD_CLASSICLOOKS,Spend Conspiracy Theories Energy
+ID_QU_LM_CLASSICLOOKS,Spend Conspiracy Theories Energy to score points and earn various milestone rewards.
+ID_QU_SM_CLASSICLOOKS,Earn points by spending Conspiracy Theories Energy
+ID_QU_S1_CLASSICLOOKS,Spend 1 Conspiracy Theories Energy
+ID_QU_NA_DEATHPOOL_SOLO,Post Mortem
+ID_QU_SD_DEATHPOOL_SOLO,Participate in combat and Event Campaign
+ID_QU_S1_DEATHPOOL_SOLO,Spend 1 Shadow of Deathpool Energy
+ID_QU_S2_DEATHPOOL_SOLO,Battle in RAIDS with Deathpool
+ID_QU_S3_DEATHPOOL_SOLO,Battle in the ARENA with Deathpool
+ID_QU_LM_DEATHPOOL_SOLO,Complete Arena and Raid battles and spend Shadow of Deathpool Energy to score points and earn various milestone rewards
+ID_QU_SM_DEATHPOOL_SOLO,Earn points by completing Arena and Raid battles and spending Shadow of Deathpool Energy
+ID_QU_NA_THELEGEND,Wise Warrior
+ID_QU_SD_THELEGEND,Spend Fire Essence
+ID_QU_LM_THELEGEND,"Earn Fire Essence by participating in Campaign (excluding Event Campaign), Blitz, and select Daily Objectives. Spend those Credits in the limited-time Fire Essence Event Store."
+ID_QU_SM_THELEGEND,Earn points by spending Fire Essence
+ID_QU_S1_THELEGEND,Spend Fire Essence
+ID_QU_NA_THEBLEEDINGKING,The Bleeding King
+ID_QU_SD_THEBLEEDINGKING,Participate in combat
+ID_QU_LM_THEBLEEDINGKING,"Battle in Arena, Raid, and Alliance War to earn points for various milestone rewards."
+ID_QU_SM_THEBLEEDINGKING,Earn points by participating in combat
+ID_QU_S1_THEBLEEDINGKING,Win or Lose an Arena battle
+ID_QU_S2_THEBLEEDINGKING,Win or Lose a Raid battle
+ID_QU_S3_THEBLEEDINGKING,Win or Lose a War battle
+ID_QU_NA_EXPERIMENTX,Experiment X
+ID_QU_SD_EXPERIMENTX,Spend Energy and Power Cores
+ID_QU_LM_EXPERIMENTX,"Spend Campaign Energy, Iso-8 Campaign Energy, and Power Cores for various milestone rewards."
+ID_QU_SM_EXPERIMENTX,Earn points by spending Energy and Power Cores
+ID_QU_S1_EXPERIMENTX,Spend 1 Campaign Energy
+ID_QU_S2_EXPERIMENTX,Spend 1 Iso-8 Campaign Energy
+ID_QU_S3_EXPERIMENTX,Spend 1 Power Core
+ID_QU_NA_LABXPERIMENTS,Test Subjects
+ID_QU_SD_LABXPERIMENTS,Use Pierced Veil characters in Blitz
+ID_QU_LM_LABXPERIMENTS,Win Blitz battles with featured characters to earn various milestone rewards.
+ID_QU_SM_LABXPERIMENTS,Earn points by fighting in Blitz with featured characters and Arena and Raid
+ID_QU_SC_LABXPERIMENTS,Use Featured Characters in Battle
+ID_QU_S1_LABXPERIMENTS,Win a Blitz battle with: Pierced Veil characters
+ID_QU_S2_LABXPERIMENTS,Win a SIMMED Blitz battle with: Pierced Veil characters
+ID_QU_NA_ASSEENONTV,Quality Streaming
+ID_QU_SD_ASSEENONTV,Use Superstar characters in Blitz
+ID_QU_LM_ASSEENONTV,Participate in Blitz with featured characters to earn various milestone rewards. Earn more points if those characters are higher gear tier levels.
+ID_QU_SM_ASSEENONTV,Earn points by fighting in Blitz with featured characters and Arena and Raid
+ID_QU_S1_ASSEENONTV,Win a Blitz battle with: Superstar characters
+ID_QU_S2_ASSEENONTV,Win a SIMMED Blitz battle with: Superstar characters
+ID_QU_S3_ASSEENONTV,Win a Blitz battle with: Superstar characters Gear Tier 9+
+ID_QU_S4_ASSEENONTV,Win a Blitz battle with: Superstar characters Gear Tier 12+
+ID_QU_S5_ASSEENONTV,Win a Blitz battle with: Superstar characters Gear Tier 15+
+ID_QU_NA_INFINITYFEAST,Infinity Feast
+ID_QU_SD_INFINITYFEAST,Collect Thanosgiving Orbs
+ID_QU_LM_INFINITYFEAST,"Participate in Blitz to earn various milestone rewards, including Prestige Orb Fragments, gear, and Gold."
+ID_QU_SM_INFINITYFEAST,Fight in Blitz and collect Thanosgiving Orb Fragments
+ID_QU_S1_INFINITYFEAST,Collect a Thanosgiving Orb Fragment
+ID_QU_S2_INFINITYFEAST,Win a Blitz battle
+ID_QU_S3_INFINITYFEAST,Win a SIMMED Blitz
+ID_QU_NA_ETERNALCONNECTIONS,Gift of the Celestials
+ID_QU_SD_ETERNALCONNECTIONS,Use Eternal Connection characters in Blitz
+ID_QU_LM_ETERNALCONNECTIONS,Win Blitz battles with featured characters to earn various milestone rewards.
+ID_QU_SM_ETERNALCONNECTIONS,"Earn points by fighting in Blitz, War, Arena and Raid"
+ID_QU_S2_ETERNALCONNECTIONS,Win a Blitz battle with: Eternal Connection characters
+ID_QU_S3_ETERNALCONNECTIONS,Win a SIMMED Blitz battle with: Eternal Connection characters
+ID_QU_SM2_ETERNALCONNECTIONS,Earn points by participating in combat
+ID_QU_S5_ETERNALCONNECTIONS,Win or Lose an Arena battle
+ID_QU_S6_ETERNALCONNECTIONS,Win or Lose a Raid battle
+ID_QU_S7_ETERNALCONNECTIONS,Win or Lose a War battle
+ID_QU_NA_ENDLESSPOWER,Endless Power
+ID_QU_SD_ENDLESSPOWER,Battle through the Campaign
+ID_QU_LM_ENDLESSPOWER,Spend Campaign Energy to climb the leaderboard to earn rewards.
+ID_QU_SM_ENDLESSPOWER,Earn points by spending Campaign Energy
+ID_QU_NA_WINTER2021,Season's Sorcery
+ID_QU_SD_WINTER2021,Spend Snowflakes
+ID_QU_LM_WINTER2021,"Earn Snowflakes by participating in Campaign, Isotope-8 Campaign, Blitz, and from the Daily Objectives for Raid, Arena, and Real-Time Arena. Spend Snowflakes in the limited-time Season's Sorcery Event Store."
+ID_QU_SM_WINTER2021,Earn points by spending Snowflakes
+ID_QU_S1_WINTER2021,Spend Snowflakes
+ID_QU_NA_NEWHEIGHTS,New Heights
+ID_QU_SD_NEWHEIGHTS,Spend Training Modules
+ID_QU_LM_NEWHEIGHTS,Reach New Heights in your Roster's power by leveling up any character. Earn points with each and every Training Module spent in the level up process. Additionally you can earn even more points with each Campaign Energy spent.
+ID_QU_SM_NEWHEIGHTS,Level Up your characters by spending Training Modules
+ID_QU_S1_NEWHEIGHTS,Spend 1 L1 Training Module
+ID_QU_S2_NEWHEIGHTS,Spend 1 L2 Training Module
+ID_QU_S3_NEWHEIGHTS,Spend 1 L3 Training Module
+ID_QU_S4_NEWHEIGHTS,Spend 1 L4 Training Module
+ID_QU_NA_ECHO2021,Mirror Image
+ID_QU_SD_ECHO2021,Spend Imprints
+ID_QU_LM_ECHO2021,"Spend Imprints, Campaign and Isotope-8 Campaign Energy"
+ID_QU_SM_ECHO2021,"Spend Imprints, Campaign and Isotope-8 Campaign Energy"
+ID_QU_S1_ECHO2021,Spend 1 Imprint
+ID_QU_S2_ECHO2021,Spend 1 Campaign Energy
+ID_QU_S3_ECHO2021,Spend 1 Iso-8 Campaign Energy
+ID_QU_NA_IMPRINTS2021,Fighting Spirit
+ID_QU_SD_IMPRINTS2021,Blitz
+ID_QU_LM_IMPRINTS2021,Earn Imprints from Blitz.
+ID_QU_SM_IMPRINTS2021,Earn Imprints from Blitz.
+ID_QU_S0_IMPRINTS2021,Blitz Win
+ID_QU_S1_IMPRINTS2021,Blitz Sim Win
+ID_QU_S2_IMPRINTS2021,Complete Arena Objective
+ID_QU_S3_IMPRINTS2021,Complete Real-Time Arena Objective
+ID_QU_NA_WEBPORTAL2022,Celebrate the Web
+ID_QU_SD_WEBPORTAL2022,"Use your favorite characters in Arena, Raid and Blitz"
+ID_QU_LM_WEBPORTAL2022,"Earn Points in this Web Exclusive milestone by battling in Arena, Raid and Blitz"
+ID_QU_SM_WEBPORTAL2022,"Earn points by fighting in Arena, Raid and Blitz to claim your Launch Party Orbs"
+ID_QU_S2_WEBPORTAL2022,Win a Blitz battle with ANY character
+ID_QU_S3_WEBPORTAL2022,Win a SIMMED Blitz battle with ANY character
+ID_QU_S5_WEBPORTAL2022,Win or Lose an Arena battle ANY character
+ID_QU_S6_WEBPORTAL2022,Win or Lose a Raid battle ANY character
+ID_QU_NA_WEBPORTALUPC2022,Bang for your Buck
+ID_QU_SD_WEBPORTALUPC2022,Collect Web UPCs
+ID_QU_LM_WEBPORTALUPC2022,Web UPCs will progress the Bang for your Buck Milestone! Visit the blog for more details!
+ID_QU_SM_WEBPORTALUPC2022,Earn points through obtaining Web UPCs
+ID_QU_NA_WEBPORTAL2022_GIFT,Daily Web Reward
+ID_QU_NA_FESTIVALOFFORTUNE,Festival of Fortune
+ID_QU_SD_FESTIVALOFFORTUNE,Open Festival of Fortune Orbs
+ID_QU_LM_FESTIVALOFFORTUNE,Donate to Alliance Donation milestones to gain Festival of Fortune Orbs!
+ID_QU_SM_FESTIVALOFFORTUNE,Earn points by opening Festival of Fortune Orbs
+ID_QU_S1_FESTIVALOFFORTUNE,Open 1 Festival of Fortune Orb
+ID_QU_NA_STARKARMORYSTOCKPILE,Stark Armory Stockpile
+ID_QU_SD_STARKARMORYSTOCKPILE,Open Stark Stockpile Orbs
+ID_QU_LM_STARKARMORYSTOCKPILE,Donate to Alliance Donation milestones to gain Stark Stockpile Orbs!
+ID_QU_SM_STARKARMORYSTOCKPILE,Earn points by opening Stark Stockpile Orbs
+ID_QU_S1_STARKARMORYSTOCKPILE,Open 1 Stark Stockpile Orb
+ID_QU_NA_INFESTATION,Infestation Incoming
+ID_QU_SD_INFESTATION,Participate in combat and Event Campaign!
+ID_QU_LM_INFESTATION,Ready your roster for its greatest challenge yet with rewards from this milestone. Earn points by proving your strength with every Arena and Blitz battle. Conquering the Campaign will provide more points to bring your characters to the next level.
+ID_QU_SC_INFESTATION,"Battle in Arena, Blitz or spend Campaign Energy"
+ID_QU_SM_INFESTATION,"Test your strength in Arena, Blitz and Campaign to earn points"
+ID_QU_S1_INFESTATION,Win an Arena battle
+ID_QU_S2_INFESTATION,Win a Blitz battle
+ID_QU_S3_INFESTATION,Win a SIMMED Blitz
+ID_QU_S4_INFESTATION,Spend 1 Campaign Energy
+ID_QU_S5_INFESTATION,Spend 1 Iso-8 Campaign Energy
+ID_QU_NA_INFESTATION_ALLIANCE,Alliance Infestation
+ID_QU_SD_ALLY_INFESTATION,Battle in Raids
+ID_QU_LM_INFESTATION_ALLIANCE,Help your Alliance battle through Raids and emerge victorious. Spend Raid Energy to earn Milestone points and upgrade your roster for the next challenge!
+ID_QU_SC_ALLY_INFESTATION,Raid with your fellow Alliance commanders
+ID_QU_SM_INFESTATION_ALLIANCE,Contribute to raids with your best teams and earn rewards each day
+ID_QU_S1_INFESTATION_ALLIANCE,Play a Raid Match
+ID_QU_NA_MORBIUS2022,Living Vampire
+ID_QU_SD_MORBIUS2022,Open Mystic Assassin Orbs
+ID_QU_LM_MORBIUS2022,Open Mystic Assassin Orbs
+ID_QU_SM_MORBIUS2022,Open Mystic Assassin Orbs
+ID_QU_S1_MORBIUS2022,Open 1 Mystic Assassin Orb
+ID_QU_NA_FANGSOUT2022,Fangs Out
+ID_QU_SD_FANGSOUT2022,Energy Spend and Raid Battles
+ID_QU_LM_FANGSOUT2022,Spend Campaign Energy and do Raid Battles to earn Mystic Assassin Orbs
+ID_QU_SM_FANGSOUT2022,Campaign Energy Spend and Raid Battles
+ID_QU_S0_FANGSOUT2022,Spend 1 Campaign Energy
+ID_QU_S1_FANGSOUT2022,Win or Lose 1 Raid Battle
+ID_QU_NA_FLESHANDBLOOD2022,Flesh and Blood
+ID_QU_SD_FLESHANDBLOOD2022,"Blitz, War, and spend Power Cores"
+ID_QU_LM_FLESHANDBLOOD2022,"Blitz or Blitz SIM Win, Blitz battle with 5+ Mystic Spirit Slayer, War battle with Dark Hunter, Spend Power Cores"
+ID_QU_SM_FLESHANDBLOOD2022,"Blitz, War, and spend Power Cores"
+ID_QU_S0_FLESHANDBLOOD2022,Blitz Win
+ID_QU_S1_FLESHANDBLOOD2022,Blitz SIM Win
+ID_QU_S2_FLESHANDBLOOD2022,Win or Lose Blitz with 5 star and up Mystic Spirit Slayer
+ID_QU_S3_FLESHANDBLOOD2022,Win or Lose War with Dark Hunter
+ID_QU_S4_FLESHANDBLOOD2022,Spend 1 Power Core
+ID_QU_NA_ANNIV2022,Successful Brew
+ID_QU_SD_ANNIV2022,Spend Cauldrons
+ID_QU_LM_ANNIV2022,"Earn Cauldrons by participating in Campaign, Isotope-8 Campaign, Blitz, and from the Daily Objectives for Raid, Arena, and Real-Time Arena. Spend Cauldrons in the limited-time Cauldrons Event Store."
+ID_QU_SM_ANNIV2022,Earn points by spending Cauldrons
+ID_QU_S1_ANNIV2022,Spend Cauldrons
+ID_QU_NA_ANNIV2022_WEB,Shadow Casting
+ID_QU_SM_ANNIV2022_WEB,Earn Points by battling
+ID_QU_NA_PRIMALTHIRST2022,Primal Thirst Daily Milestone
+ID_QU_SD_PRIMALTHIRST2022,Battle in Arena
+ID_QU_SM_PRIMALTHIRST2022,Earn points by battling in Arena
+ID_QU_LM_PRIMALTHIRST2022,Battle in Arena to earn Mystic Assassin Orb Fragments!
+ID_QU_S0_PRIMALTHIRST2022,Win or Lose 1 Arena Battle
+ID_QU_NA_WEBMONSTER,Monsters in the Web
+ID_QU_LM_WEBMONSTER,Battle in Raids to earn various milestone rewards. Score even more points by using Web-Warriors in Raids.
+ID_QU_S1_WEBMONSTER,Win a Raid Battle
+ID_QU_S2_WEBMONSTER,Win a War Battle
+ID_QU_S3_WEBMONSTER,Lose a War Battle
+ID_QU_S4_WEBMONSTER,Use a Dark Hunter in a War Battle
+ID_QU_S5_WEBMONSTER,Use a Web-Warrior in a Raid Battle
+ID_QU_NA_WITCHSCOVEN,Witch's Coven
+ID_QU_SD_WITCHSCOVEN,Open Occult Hex Orbs
+ID_QU_LM_WITCHSCOVEN,Earn Occult Hex Orb Fragments in Blitz
+ID_QU_SM_WITCHSCOVEN,Earn points by opening Occult Hex Orbs
+ID_QU_S1_WITCHSCOVEN,Open 1 Occult Hex Orb
+ID_QU_NA_ARCANEWITCHERY,Arcane Witchery
+ID_QU_SD_ARCANEWITCHERY,Spend Power Cores
+ID_QU_LM_ARCANEWITCHERY,Spend Power Cores to earn Occult Hex Orbs
+ID_QU_SM_ARCANEWITCHERY,Earn points by spending Power Cores
+ID_QU_S0_ARCANEWITCHERY,Spend 1 Power Core
+ID_QU_NA_BEWITCHINGSORCERY,Bewitching Sorcery
+ID_QU_SD_BEWITCHINGSORCERY,Energy Spend
+ID_QU_LM_BEWITCHINGSORCERY,Spend Campaign Energy and Iso-8 Campaign Energy to earn Occult Hex Orbs.
+ID_QU_SM_BEWITCHINGSORCERY,Earn points by spending Campaign Energy and Iso-8 Campaign Energy
+ID_QU_S0_BEWITCHINGSORCERY,Spend Campaign Energy
+ID_QU_S1_BEWITCHINGSORCERY,Spend Iso-8 Campaign Energy
+ID_QU_NA_GOBLINQUEEN,The Goblin Queen
+ID_QU_SD_GOBLINQUEEN,"Earn points through Blitz, War, and Daily Objectives"
+ID_QU_LM_GOBLINQUEEN,"Upgrade your Darkhold and A-Force teams for increased milestone progress in War Battles. Complete your Daily Objectives for additional points and test your mettle in Blitz, especially with your Marauders."
+ID_QU_SC_GOBLINQUEEN,"Battle in Blitz, Alliance War, or Complete Daily Objectives"
+ID_QU_SM_GOBLINQUEEN,Complete your Dailies and fight in Blitz and War
+ID_QU_S1_GOBLINQUEEN,Play a War Battle
+ID_QU_S2_GOBLINQUEEN,Play a War Battle with Darkhold or A-Force
+ID_QU_S3_GOBLINQUEEN,Play a War Battle with Darkhold or A-Force at Gear Tier 13 or 14
+ID_QU_S5_GOBLINQUEEN,Play a War Battle with Darkhold or A-Force at Gear Tier 15 or 16
+ID_QU_S7_GOBLINQUEEN,Play Blitz with Marauders
+ID_QU_S8_GOBLINQUEEN,Play Blitz with Marauders at Gear Tier 13
+ID_QU_S9_GOBLINQUEEN,Play Blitz with Marauders at Gear Tier 14
+ID_QU_S10_GOBLINQUEEN,Play Blitz with Marauders at Gear Tier 15
+ID_QU_S11_GOBLINQUEEN,Play Blitz with Marauders at Gear Tier 16
+ID_QU_NA_PRYORLIFE,Pryor Life
+ID_QU_SD_PRYORLIFE,Battle in Arena and Spend Campaign Energy
+ID_QU_LM_PRYORLIFE,"Climb to the top of Arena with the Darkhold team and earn increased progress at higher gear tiers! Also spend Campaign Energy to earn milestone points and rewards! "
+ID_QU_SC_PRYORLIFE,Battle in Arena and Campaign
+ID_QU_SM_PRYORLIFE,Compete in Arena Battles and progress through the Campaign
+ID_QU_S1_PRYORLIFE,Win or Lose in Arena
+ID_QU_S2_PRYORLIFE,Win or Lose Arena with Darkhold
+ID_QU_S3_PRYORLIFE,Win or Lose Arena with Darkhold at Gear Tier 13
+ID_QU_S4_PRYORLIFE,Win or Lose Arena with Darkhold at Gear Tier 14
+ID_QU_S5_PRYORLIFE,Win or Lose Arena with Darkhold at Gear Tier 15
+ID_QU_S6_PRYORLIFE,Win or Lose Arena with Darkhold at Gear Tier 16
+ID_QU_NA_CLONECHAOS,Clone Chaos
+ID_QU_SD_CLONECHAOS,Battle in Raids and Spend Iso-8 Campaign Energy
+ID_QU_LM_CLONECHAOS,Test your Darkhold and Marauder teams in Raids at upgraded gear tiers for faster milestone progress. Spend Iso-8 Campaign Energy and farm rewards while completing your Daily objectives!
+ID_QU_SC_CLONECHAOS,Battle in Raids and Iso-8 Campaign
+ID_QU_SM_CLONECHAOS,Test yourself in Raids and complete Iso-8 Campaign Missions
+ID_QU_S2_CLONECHAOS,Win or Lose Raid with Darkhold or Marauders
+ID_QU_S3_CLONECHAOS,Win or Lose Raid with Darkhold or Marauders at Gear Tier 13
+ID_QU_S4_CLONECHAOS,Win or Lose Raid with Darkhold or Marauders at Gear Tier 14
+ID_QU_S5_CLONECHAOS,Win or Lose Raid with Darkhold or Marauders at Gear Tier 15
+ID_QU_S6_CLONECHAOS,Win or Lose Raid with Darkhold or Marauders at Gear Tier 16
+ID_QU_NA_MAYMONTH2022,A-Force of Nature
+ID_QU_SD_MAYMONTH2022,Participate in May events
+ID_QU_LM_MAYMONTH2022,Participate in various events throughout the month of May to earn milestone progress.
+ID_QU_SC_MAYMONTH2022,Participate in events
+ID_QU_SM_MAYMONTH2022,Earn points by participating in events
+ID_QU_S1_MAYMONTH2022,Collect 1 A-Force Emblem
+ID_QU_S2_MAYMONTH2022,Collect 1 Captain Marvel's Helmet
+ID_QU_S3_MAYMONTH2022,Collect 1 Jessica Jones's Jacket
+ID_QU_S4_MAYMONTH2022,Collect 1 Nico's Staff
+ID_QU_NA_MAYALLIANCE2022,A is for Allies
+ID_QU_SD_MAYALLIANCE2022,Spend Iso-8 Campaign Energy
+ID_QU_LM_MAYALLIANCE2022,Spend Iso-8 Campaign Energy to earn milestone progress.
+ID_QU_SC_MAYALLIANCE2022,Spend Iso-8 Campaign Energy
+ID_QU_SM_MAYALLIANCE2022,Earn points by spending Iso-8 Campaign Energy
+ID_QU_NA_UNSTOPPABLE,Unstoppable Force
+ID_QU_NA_VICTORYBLUEPRINT,Victory Blueprint
+ID_QU_SM_VICTORYBLUEPRINT,Earn the new T2 Level 4 Ions
+ID_QU_SD_VICTORYBLUEPRINT,Earn T2 Level 4 Ions
+ID_QU_LD_VICTORYBLUEPRINT,"Earn Various valuable rewards including the new T2 Level 4 Ions and Cosmic Crucible Credits by spending Campaign Energy (excluding Iso-8 Campaign Energy), Earning War Credits (excluding Elite War Credits), and Spending War Energy Refills."
+ID_QU_S1_VICTORYBLUEPRINT,Earn 1 War Credit
+ID_QU_S2_VICTORYBLUEPRINT,Spend 1 War Energy Refill
+ID_QU_NA_SISTERGRIMM,Sister Grimm
+ID_QU_SD_SISTERGRIMM,Earn Points through Raid and War
+ID_QU_LM_SISTERGRIMM,Upgrade your X-Men and A-Force for increased milestone rewards
+ID_QU_SC_SISTERGRIMM,Win Raid Battles and Alliance War battles
+ID_QU_SM_SISTERGRIMM,Complete Raid Battles and Fight in War
+ID_QU_S1_SISTERGRIMM,Win Raid Battle
+ID_QU_S2_SISTERGRIMM,Win Raid Battle with X-Men
+ID_QU_S3_SISTERGRIMM,Win Raid with X-Men at Gear Tier 13
+ID_QU_S4_SISTERGRIMM,Win Raid with X-Men at Gear Tier 14
+ID_QU_S5_SISTERGRIMM,Win Raid with X-Men at Gear Tier 15
+ID_QU_S6_SISTERGRIMM,Win Raid with X-Men at Gear Tier 16
+ID_QU_S7_SISTERGRIMM,Play a War Battle
+ID_QU_S8_SISTERGRIMM,Play a War Battle with A-Force
+ID_QU_S9_SISTERGRIMM,Play a War Battle with A-Force at Gear Tier 13
+ID_QU_S10_SISTERGRIMM,Play a War Battle with A-Force at Gear Tier 14
+ID_QU_S11_SISTERGRIMM,Play a War Battle with A-Force at Gear Tier 15
+ID_QU_S12_SISTERGRIMM,Play a War Battle with A-Force at Gear Tier 16
+ID_QU_NA_ENCHANTEDBLOODLINE,Enchanted Bloodline
+ID_QU_SD_ENCHANTEDBLOODLINE,Complete Blitz Battles
+ID_QU_LM_ENCHANTEDBLOODLINE,Play Blitz to earn points towards the Sister Grimm Milestone. Use Young Avengers to make more progress
+ID_QU_SC_ENCHANTEDBLOODLINE,Battle in Blitz
+ID_QU_SM_ENCHANTEDBLOODLINE,Fight in Blitz with Young Avengers
+ID_QU_S1_ENCHANTEDBLOODLINE,Blitz Win
+ID_QU_S2_ENCHANTEDBLOODLINE,Blitz Sim Win
+ID_QU_S3_ENCHANTEDBLOODLINE,Blitz Win with Young Avengers
+ID_QU_S4_ENCHANTEDBLOODLINE,Blitz Win with Young Avengers Gear Tier 13
+ID_QU_S5_ENCHANTEDBLOODLINE,Blitz Win with Young Avengers Gear Tier 14
+ID_QU_S6_ENCHANTEDBLOODLINE,Blitz Win with Young Avengers Gear Tier 15
+ID_QU_S7_ENCHANTEDBLOODLINE,Blitz Win with Young Avengers Gear Tier 16
+ID_QU_NA_RUNAWAYSPELL,Runaway Spell
+ID_QU_SD_RUNAWAYSPELL,Spend Campaign Energy
+ID_QU_LM_RUNAWAYSPELL,Spend Campaign Energy to earn points towards the Sister Grimm Milestone
+ID_QU_SC_RUNAWAYSPELL,Spend Campaign Energy
+ID_QU_SM_RUNAWAYSPELL,Spend Energy in Campaign
+ID_QU_S1_RUNAWAYSPELL,Spend Campaign Energy
+ID_QU_NA_THECHOSENONE,The Chosen One
+ID_QU_SD_THECHOSENONE,Open Supreme Phantasm Orbs
+ID_QU_LM_THECHOSENONE,Earn Supreme Phantasm Orb Fragments in Ancient Arts Milestone.
+ID_QU_SM_THECHOSENONE,Earn points by opening Supreme Phantasm Orbs
+ID_QU_S1_THECHOSENONE,Open 1 Supreme Phantasm Orb
+ID_QU_NA_ANCIENTARTS,Ancient Arts
+ID_QU_SD_ANCIENTARTS,Blitz Win and Arena Battle
+ID_QU_LM_ANCIENTARTS,Win in Blitz or Battle in Arena to earn Supreme Phantasm Orbs
+ID_QU_SM_ANCIENTARTS,Earn points by participating in Blitz and Arena
+ID_QU_S0_ANCIENTARTS,Win 1 Blitz Battle
+ID_QU_S1_ANCIENTARTS,Win or Lose 1 Arena Battle
+ID_QU_NA_MYSTICPORTAL,Mystic Portal
+ID_QU_SD_MYSTICPORTAL,Raid Win
+ID_QU_LM_MYSTICPORTAL,Win Raid Battles to earn Supreme Phantasm Orbs
+ID_QU_SM_MYSTICPORTAL,Earn points Winning in Raid
+ID_QU_S0_MYSTICPORTAL,Win 1 Raid Battle
+ID_QU_NA_JUNEMONTH2022,Rollin' Rebel
+ID_QU_SD_JUNEMONTH2022,Participate in June events
+ID_QU_LM_JUNEMONTH2022,Participate in various events throughout the month of June to earn milestone progress.
+ID_QU_SC_JUNEMONTH2022,Participate in events
+ID_QU_SM_JUNEMONTH2022,Earn points by participating in events
+ID_QU_S1_JUNEMONTH2022,Collect 1 Disco Ball
+ID_QU_S2_JUNEMONTH2022,Collect 1 Gemstone Earring
+ID_QU_S3_JUNEMONTH2022,Collect 1 Glamour Skates
+ID_QU_S4_JUNEMONTH2022,Collect 1 Glimmer Bracelet
+ID_QU_NA_JUNEALLIANCE2022,Coordinated Assault
+ID_QU_NA_RISINGSTARS,Rising Stars
+ID_QU_SM_RISINGSTARS,Win Blitz battles with Up and Comer characters
+ID_QU_SD_RISINGSTARS,Win Blitz battles with featued characters
+ID_QU_LD_RISINGSTARS,Win Blitz battles with the Limited-time Up and Comer trait characters. Earn even more points when those characters are Gear Tier 13 or higher.
+ID_QU_S1_RISINGSTARS,Win a Blitz with: Up and Comer
+ID_QU_S2_RISINGSTARS,Win a Blitz with Up and Comer at Gear Tier 13+
+ID_QU_S3_RISINGSTARS,Win a Blitz with Up and Comer at Gear Tier 14+
+ID_QU_S4_RISINGSTARS,Win a Blitz with Up and Comer at Gear Tier 15+
+ID_QU_S5_RISINGSTARS,Win a Blitz with Up and Comer at Gear Tier 16
+ID_QU_NA_PRIDEINFERNO,Pride Inferno
+ID_QU_SM_PRIDEINFERNO,Earn the Runaways Costume for Nico
+ID_QU_SD_PRIDEINFERNO,Earn Nico's new costume
+ID_QU_LD_PRIDEINFERNO,"Earn Various valuable rewards including the new Runaways Costume for Nico Minoru by spending Campaign Energy (excluding Iso-8 Campaign Energy) and earning Pride Orb Fragments.\nPride Orb Fragments can be found in select Campaign nodes and in the ""All Clear"" Daily Objective."
+ID_QU_S1_PRIDEINFERNO,Earn 1 Pride Orb Fragment
+ID_QU_S2_PRIDEINFERNO,Spend 1 Campaign Energy
+ID_QU_NA_ACE_OF_RAIDS,Ace of Raids
+ID_QU_SD_ACE_OF_RAIDS,Earn Gambit's Playing Cards
+ID_QU_LM_ACE_OF_RAIDS,Earn Gambit's Playing Cards by participating in Gambit Raids.
+ID_QU_SM_ACE_OF_RAIDS,Earn points by obtaining Gambit's Playing Cards
+ID_QU_S1_ACE_OF_RAIDS,Obtain 1 Gambit's Playing Card
+ID_QU_NA_ALLIN,All In
+ID_QU_SD_ALLIN,Spend Gold
+ID_QU_LM_ALLIN,Spend Gold to earn Training Materials
+ID_QU_SM_ALLIN,Earn points by spending Gold
+ID_QU_S0_ALLIN,Spend 1 Gold
+ID_QU_NA_DOUBLEDOWN,Double Down
+ID_QU_SD_DOUBLEDOWN,X-Men War Battle
+ID_QU_LM_DOUBLEDOWN,Battle in War with X-Men to earn Kinetic Raid supplies
+ID_QU_SM_DOUBLEDOWN,Earn points by battling in war with X-Men
+ID_QU_S0_DOUBLEDOWN,Play a War Battle
+ID_QU_S1_DOUBLEDOWN,Play a War Battle with Uncanny X-Men
+ID_QU_S2_DOUBLEDOWN,Play a War Battle with Uncanny X-Men at Gear Tier 13
+ID_QU_S3_DOUBLEDOWN,Play a War Battle with Uncanny X-Men at Gear Tier 14
+ID_QU_S4_DOUBLEDOWN,Play a War Battle with Uncanny X-Men at Gear Tier 15
+ID_QU_S5_DOUBLEDOWN,Play a War Battle with Uncanny X-Men at Gear Tier 16
+ID_QU_S6_DOUBLEDOWN,Play a War Battle with Unlimited X-Men
+ID_QU_S7_DOUBLEDOWN,Play a War Battle with Unlimited X-Men at Gear Tier 13
+ID_QU_S8_DOUBLEDOWN,Play a War Battle with Unlimited X-Men at Gear Tier 14
+ID_QU_S9_DOUBLEDOWN,Play a War Battle with Unlimited X-Men at Gear Tier 15
+ID_QU_S10_DOUBLEDOWN,Play a War Battle with Unlimited X-Men at Gear Tier 16
+ID_QU_NA_JULYMETA2022,Summer of Thunder
+ID_QU_SD_JULYMETA2022,Participate in July events
+ID_QU_LM_JULYMETA2022,Participate in various events throughout the month of July to earn milestone progress.
+ID_QU_S1_JULYMETA2022,Collect 1 Mjolnir Fragment
+ID_QU_S2_JULYMETA2022,Collect 1 Cloak of Valor
+ID_QU_S3_JULYMETA2022,Collect 1 Helm of Victory
+ID_QU_S4_JULYMETA2022,Collect 1 Gauntlet of Heroes
+ID_QU_NA_JULYALLIANCE2022,Coordinated Assault
+ID_QU_NA_SOLARSIZZLER,Solar Sizzler
+ID_QU_SD_SOLARSIZZLER,Battle in War and Raids
+ID_QU_LD_SOLARSIZZLER,"Battle in War and Raids and Spend Power Cores to earn Sunfire shards, Mjolnir fragments, gear and more!"
+ID_QU_SM_SOLARSIZZLER,"Battle in War and Raids, Spend Power Cores"
+ID_QU_SC_SOLARSIZZLER,"Battle in War and Raids, Spend Power Cores"
+ID_QU_S1_SOLARSIZZLER,Play a Raid battle
+ID_QU_S2_SOLARSIZZLER,Play a War battle
+ID_QU_S3_SOLARSIZZLER,Play a War battle with Darkhold
+ID_QU_S4_SOLARSIZZLER,Play a War battle with Darkhold at Gear Tier 13+
+ID_QU_S5_SOLARSIZZLER,Play a War battle with Darkhold at Gear Tier 15+
+ID_QU_S6_SOLARSIZZLER,Spend 1 Power Core
+ID_QU_NA_HEATSTORM,Heat Storm
+ID_QU_SD_HEATSTORM,Win Cosmic Crucible battles
+ID_QU_LD_HEATSTORM,"Earn points by winning Cosmic Crucible battles and using Unlimited X-Men in Cosmic Crucible.\n\n\n\nRewards include milestone points for the Solar Sizzler Milestone, Crucible Credits, Elite 4 Credits, Teal Raid Orb Fragments and more!"
+ID_QU_SM_HEATSTORM,Win Cosmic Crucible battles and use Unlimited X-Men in Cosmic Crucible.
+ID_QU_SC_HEATSTORM,Win in Cosmic Crucible and use Unlimited X-Men
+ID_QU_S1_HEATSTORM,Win a Cosmic Crucible battle
+ID_QU_S2_HEATSTORM,Battle in Cosmic Crucible with Unlimited X-Men
+ID_QU_S3_HEATSTORM,Battle in Cosmic Crucible with Unlimited X-Men at Gear Tier 13+
+ID_QU_S4_HEATSTORM,Battle in Cosmic Crucible with Unlimited X-Men at Gear Tier 15+
+ID_QU_NA_BLAZINGSUN,Blazing Sun
+ID_QU_SD_BLAZINGSUN,Battle in Blitz
+ID_QU_LD_BLAZINGSUN,"Earn points by winning Blitz battles. Bonus points when using Wakandans, and even more if they are at Gear Tier 13 or above.\n\n\n\nRewards include milestone points for the Solar Sizzler Milestone, Wakandan shards, Elite 4 Credits, Teal Raid Orb Fragments and more!"
+ID_QU_SM_BLAZINGSUN,Win Blitz battles. Bonus points when using Wakandans.
+ID_QU_SC_BLAZINGSUN,Win Blitz battles with Wakandans
+ID_QU_S1_BLAZINGSUN,Blitz Win
+ID_QU_S2_BLAZINGSUN,Blitz Sim Win
+ID_QU_S3_BLAZINGSUN,Blitz Win with Wakandans
+ID_QU_S4_BLAZINGSUN,Blitz Win with Wakandans at Gear Tier 13+
+ID_QU_S5_BLAZINGSUN,Blitz Win with Wakandans at Gear Tier 15+
+ID_QU_NA_TOOHOTTOHANDLE,Too Hot To Handle Daily Milestone
+ID_QU_SD_TOOHOTTOHANDLE,Spend Campaign Energy
+ID_QU_LD_TOOHOTTOHANDLE,Spend Campaign Energy to complete a daily milestone that rewards Silver Promotion Credits and Legacy III Orb Fragments
+ID_QU_SM_TOOHOTTOHANDLE,Spend Campaign Energy
+ID_QU_SC_TOOHOTTOHANDLE,Spend Campaign Energy
+ID_QU_S1_TOOHOTTOHANDLE,Spend 1 Campaign Energy
+ID_QU_NA_SPACEVIKING,Space Viking
+ID_QU_SD_SPACEVIKING,Earn Lines of Lightning Orb Fragments
+ID_QU_LM_SPACEVIKING,Earn Lines of Lightning Orb Fragments in Interstellar Longship Milestone and Electric Aesir Milestone.
+ID_QU_SM_SPACEVIKING,Earn points by Acquiring Lines of Lightning Orb Fragments
+ID_QU_S1_SPACEVIKING,Earn 1 Lines of Lightning Orb Fragment
+ID_QU_NA_LONGSHIP,Interstellar Longship
+ID_QU_SD_LONGSHIP,Blitz Win and Arena Battle
+ID_QU_LM_LONGSHIP,Win in Blitz or Battle in Arena to earn Lines of Lightning Orbs
+ID_QU_SM_LONGSHIP,Earn points by participating in Blitz and Arena
+ID_QU_S0_LONGSHIP,Win 1 Blitz Battle
+ID_QU_S1_LONGSHIP,Win or Lose 1 Arena Battle
+ID_QU_NA_ELECTRICAESIR,Electric Aesir
+ID_QU_SD_ELECTRICAESIR,Win or Lose Raid Battle
+ID_QU_LM_ELECTRICAESIR,Play Raid Battles to earn Lines of Lightning Orbs
+ID_QU_SM_ELECTRICAESIR,Earn points playing Raid
+ID_QU_S0_ELECTRICAESIR,Win or Lose 1 Raid Battle
+ID_QU_NA_PARTYINPARADISE,Party in Paradise
+ID_QU_SD_PARTYINPARADISE,Open Party Animal Orbs
+ID_QU_LD_PARTYINPARADISE,"Open Party Animal Orbs from the Hammer of the Gods Event Campaign and the Midgard Mash milestones, and by spending Power Cores. Rewards include:\n\n- Valkyrie Gear\n- Asgardian Shards\n- Gauntlet of Heroes\n- Mjolnir Fragments\n- 5 Red Star Thor\n- And more!"
+ID_QU_SM_PARTYINPARADISE,"Open Party Animal Orbs, Spend Power Cores"
+ID_QU_SC_PARTYINPARADISE,"Open Party Animal Orbs, Spend Power Cores"
+ID_QU_S1_PARTYINPARADISE,Open 1 Party Animal Orb
+ID_QU_S2_PARTYINPARADISE,Spend 1 Power Core
+ID_QU_NA_MIDGARDMASH,Midgard Mash
+ID_QU_SD_MIDGARDMASH,Blitz with Party Animals
+ID_QU_LD_MIDGARDMASH,Earn points by winning Blitz battles. Bonus points when using characters with the limited-time Party Animal trait equipped with Gear Tier 13+.\n\nRewards include Party Animal Orbs and more!
+ID_QU_SM_MIDGARDMASH,Win Blitz battles with Party Animals.
+ID_QU_SC_MIDGARDMASH,Win Blitz battles with Party Animals
+ID_QU_S1_MIDGARDMASH,Blitz Win
+ID_QU_S2_MIDGARDMASH,Blitz Sim Win
+ID_QU_S3_MIDGARDMASH,Blitz Win with Party Animals
+ID_QU_S4_MIDGARDMASH,Blitz Win with Party Animals at Gear Tier 13+
+ID_QU_S5_MIDGARDMASH,Blitz Win with Party Animals at Gear Tier 15+
+ID_QU_NA_COSMICCELEBRATION,Cosmic Celebration Daily Milestone
+ID_QU_SD_COSMICCELEBRATION,Spend Campaign Energy
+ID_QU_LD_COSMICCELEBRATION,Spend Campaign Energy to complete a daily milestone that rewards Silver Promotion Credits and Legacy III Orb Fragments.
+ID_QU_SM_COSMICCELEBRATION,Spend Campaign Energy
+ID_QU_SC_COSMICCELEBRATION,Spend Campaign Energy
+ID_QU_S1_COSMICCELEBRATION,Spend 1 Campaign Energy

@@ -1,0 +1,467 @@
+id,translation
+ID_DA_DE_COMPLETE_DAILIES_WOLVERINE,"<i>Claim the ""All Clear"" objective to collect <color=#ffffff>WOLVERINE</color> shards.</i>"
+ID_DA_DE_COMPLETE_DAILIES_SBC,"<i>Claim the ""All Clear"" objective to collect rewards.</i>"
+ID_DA_NA_SIM,AUTO WIN
+ID_DA_DE_SIM,Auto Win 3 Missions
+ID_DAILY_ALLIANCE_DONATION,Advance the Alliance
+ID_DAILY_DE_ALLIANCE_DONATION,Make 1 Donation
+ID_DAILY_ARENA_FIGHTS,Blitz Champion
+ID_DA_DE_ARENA,Compete in 2 Battles in Blitz
+ID_DAILY_APPLY_GEAR,Geared Up
+ID_DA_DE_EQUIP_GEAR,Equip 1 Piece of Gear
+ID_DA_NA_BATTLEGROUNDS_BATTLES,Daily Arena Battles
+ID_DA_DE_BATTLEGROUNDS_BATTLES,Complete 2 Battles in the Arena
+ID_DA_DE_BATTLEGROUNDS_BATTLES_1,Complete 1 Battle in the Arena
+ID_DAILY_CHALLENGES,Challenge Accepted
+ID_DA_DE_CHALLENGES,Complete 2 Challenges
+ID_DAILY_HERO_TRAIN,Training Up
+ID_DA_DE_TRAIN,Train 1 Character
+ID_DAILY_OPEN_ORBS,Orb Opening
+ID_DA_DE_OPEN_ORBS,Open 2 Orbs
+ID_DAILY_SUPPLY_PURCHASES,Supplies Restocked
+ID_DA_DE_SUPPLIES,Make 3 Supply Purchases
+ID_DA_NA_BATTLES,Total Campaign Progress
+ID_DA_DE_BATTLES,Finish 10 Campaign Missions
+ID_DAILY_HEROES_MISSIONS,Heroes Campaign Progress
+ID_DA_DE_HEROES,Play 2 HEROES ASSEMBLE Missions
+ID_DAILY_HEROESCAMPAIGN_MISSIONS,Heroes Campaign Progress
+ID_DA_HEROESCAMPAIGN_MISSIONS,Play 3 HEROES ASSEMBLE Missions
+ID_DA_DE_VILLAIN,Play 3 VILLAINS UNITED Missions
+ID_DA_NA_VILLAIN,Villains Campaign Progress
+ID_DAILY_ISOCAMPAIGN_MISSIONS,Iso-8 Campaign Progress
+ID_DA_ISOCAMPAIGN_MISSIONS,Play 3 Isotope-8 Missions
+ID_DA_NA_RAID_FIGHTS,Daily Raid Battles
+ID_DA_DE_RAID_FIGHTS,Compete in 2 Battles in Raids
+ID_RAID_KEYS_COOLDOWN,{name} Raid Keys on Cooldown
+ID_RAID_KEYS_LATER,Check back later for {name} Raid Keys
+ID_RAID_ULTIMUS_KEYS_NAME,Ultimate Keys
+ID_RAID_ULTIMUS_KEYS,Ultimate Keys Contributed
+ID_DA_DE_ULTIMUS_KEYS,Spend Campaign Energy to contribute Ultimate Keys
+ID_DA_NA_ALPHA_KEYS_NAME,Alpha
+ID_DA_NA_ALPHA_KEYS,Alpha Raid Keys Contributed
+ID_DA_DE_ALPHA_KEYS,Spend Campaign Energy to contribute Alpha Raid Keys
+ID_DA_NA_BETA_KEYS_NAME,Beta
+ID_DA_NA_BETA_KEYS,Beta Raid Keys Contributed
+ID_DA_DE_BETA_KEYS,Spend Campaign Energy to contribute Beta Raid Keys
+ID_DA_NA_DELTA_KEYS_NAME,Delta
+ID_DA_NA_DELTA_KEYS,Delta Raid Keys Contributed
+ID_DA_DE_DELTA_KEYS,Spend Campaign Energy to contribute Delta Raid Keys
+ID_DA_NA_GAMMA_KEYS_NAME,Gamma
+ID_DA_NA_GAMMA_KEYS,Gamma Raid Keys Contributed
+ID_DA_DE_GAMMA_KEYS,Spend Campaign Energy to contribute Gamma Raid Keys
+ID_DA_NA_EVENT04_KEYS_NAME,Gambit
+ID_DA_NA_EVENT04_KEYS,Gambit Raid Keys Contributed
+ID_DA_DE_EVENT04_KEYS,Spend Campaign Energy to contribute Gambit Raid Keys
+ID_COMPLETE_ALL_DAILIES,All Clear
+ID_DA_DE_COMPLETE_DAILIES,Complete All Daily Objectives
+ID_DA_NA_RTA_FIGHTS,Real-Time Arena Contender
+ID_DA_DE_RTA_FIGHTS,Play 2 Real-Time Arena Battles
+ID_DAILY_FUSE_ISO,S.T.R.I.K.E. Initiative: Fuse Iso-8
+ID_DA_FUSE_ISO,Fuse an Iso-8 Crystal
+ID_DAILY_OPEN_VARIETYORB,S.T.R.I.K.E. Initiative: Orb Opening
+ID_DA_OPEN_VARIETYORB,"Open Gold, Premium, or Red Star Orbs"
+ID_DAILY_BLITZ_OPTIONAL,"S.T.R.I.K.E. Initiative: Blitz "
+ID_DA_BLITZ_OPTIONAL,Compete in Battles in Blitz
+ID_DAILY_RAIDS_OPTIONAL,S.T.R.I.K.E. Initiative: Raid
+ID_DA_RAIDS_OPTIONAL,Compete in Battles in Raids
+ID_DAILY_CAMPAIGN_ENERGY_BEGINNER,S.T.R.I.K.E. Initiative: Campaign
+ID_DA_CAMPAIGN_ENERGY_BEGINNER,Spend Campaign Energy
+ID_DAILY_CAMPAIGN_ENERGY,S.T.R.I.K.E. Initiative: Campaign
+ID_DA_CAMPAIGN_ENERGY,Spend Campaign Energy
+ID_DAILY_ISOCAMPAIGN_ENERGY,S.T.R.I.K.E. Initiative: Iso-8
+ID_DA_ISOCAMPAIGN_ENERGY,Spend ISO-8 Campaign Energy
+ID_DAILY_OPEN_CHESTS,Orb Opening
+ID_SPEND_ENERGY_CAMPAIGN,Heroes Campaign Progress
+ID_SPEND_ENERGY_CAMPAIGN_12,Complete 2 Hero Campaign Missions
+ID_DAILY_EARTH_MISSIONS,Nexus Campaign Progress
+ID_DA_DE_NEXUS_EARTH,Play 3 Nexus Campaign Missions
+ID_DA_DE_HYDRA_KEYS,Spend Campaign Energy to contribute Hydra Raid Keys
+ID_RAID_HYDRA_KEYS_NAME,Hydra
+ID_RAID_HYDRA_KEYS,Hydra Raid Keys Contributed
+ID_DA_NA_THANOS_KEYS_NAME,Thanos
+ID_DA_NA_THANOS_KEYS,Thanos Raid Keys Contributed
+ID_DA_DE_THANOS_KEYS,Spend Campaign Energy to contribute Thanos Raid Keys
+ID_DA_NA_DEADPOOL_KEYS,Chimichangas Contributed
+ID_DA_DE_DEADPOOL_KEYS,Spend Campaign Energy to contribute Chimichangas
+ID_DA_NA_WAR_FIGHTS,Daily War Battles
+ID_DA_DE_WAR_FIGHTS,Spend 2 War Energy
+ID_DA_NA_RAID_ULTIMUS_FIGHTS,Daily Raid Battles
+ID_DA_DE_RAID_ULTIMUS_FIGHTS,Compete in 2 Battles in Ultimus Raids
+ID_LOGIN_NA_NEW_PLAY,Welcome Commander
+ID_LOGIN_DE_NEW_PLAY_1,"Come back daily to unlock a 1-star The Thing, 2-star War Machine, and a 3-star Captain Marvel"
+ID_LOGIN_DE_NEW_PLAY_2,"Come back daily to unlock The Thing, War Machine, and Captain Marvel"
+ID_LOGIN_DE_NEW_PLAY_3,"Come back daily and don't miss your chance to unlock The Thing, War Machine, and Captain Marvel"
+ID_LOGIN_DE_NEW_PLAY_4,"Come back daily to unlock a 1-star The Thing, 2-star Thor, and a 3-star Deadpool"
+ID_LOGIN_DE_NEW_PLAY_5,"Come back daily to unlock The Thing, Thor, and Deadpool"
+ID_LOGIN_DE_NEW_PLAY_6,"Come back daily and don't miss your chance to unlock The Thing, Thor, and Deadpool"
+ID_LOGIN_DE_NEW_PLAY_7,"Come back daily to unlock a 1-star Deadpool, 2-star Thor, and a 3-star Captain America"
+ID_LOGIN_DE_NEW_PLAY_8,"Come back daily to unlock Deadpool, Thor, and Captain America"
+ID_LOGIN_DE_NEW_PLAY_9,Thank you for playing MARVEL Strike Force. Continue logging in to earn more rewards!
+ID_LOGIN_DE_NEW_PLAY_10,"Come back daily and don't miss your chance to unlock Deadpool, Thor, and Captain America"
+ID_LOGIN_NA_1_4_3,Update
+ID_LOGIN_DE_1_4_3,"In celebration of the new update, log in 7 days to earn Gold Orb Fragments!"
+ID_LOGIN_NA_REACTIVATION_CALENDAR,Welcome
+ID_LOGIN_DE_REACTIVATION_CALENDAR,We're glad you're back. Log in for the next 10 days to earn 100 character shards!
+ID_LOGIN_NA_REENGAGE_INC,Welcome
+ID_LOGIN_DE_REENGAGE_INC,Come back daily for more Gold orbs!
+ID_LOGIN_NA_REENGAGE_RETURN,Returning
+ID_LOGIN_NA_REDSTARS_7DAY,Red Stars
+ID_LOGIN_DE_REDSTARS_7DAY,Log in 7 consecutive days to earn a Premium Orb and 5 Red Star Orbs!
+ID_LOGIN_DE_REENGAGE_INC_2,Come back daily for more Premium Orbs!
+ID_LOGIN_NA_SUBSCRIPTION,Premium
+ID_LOGIN_DE_SUBSCRIPTION,Log in every day and claim 120 Campaign Energy with your Premium Subscription!
+ID_LOGIN_GROOT_NA,Groot
+ID_LOGIN_GROOT_DE,Thank you for playing MARVEL Strike Force. Continue logging in to earn more rewards!
+ID_LOGIN_SUPPLYDROP_NA,Supplies
+ID_LOGIN_SUPPLYDROP_DE,Log in every day to earn shards of characters with Healing-based abilities as well as resources.
+ID_LOGIN_NA_SPECIAL,Special
+ID_LOGIN_DE_SPECIAL_3DAY,Log in 3 days to earn special rewards!
+ID_LOGIN_DE_SPECIAL_7DAY,Log in 7 days to earn special rewards!
+ID_LOGIN_DE_SPECIAL_10DAY,Log in 10 days to earn special rewards!
+ID_LOGIN_DE_SPECIAL_14DAY,Log in 14 days to earn special rewards!
+ID_LOGIN_DE_SPECIAL_5DAY,Log in 5 days to earn special rewards!
+ID_LOGIN_DE_SPECIAL_30DAY,Log in 30 days to earn special rewards!
+ID_LOGIN_DE_30DAY,Log in every day this month to earn great rewards!
+ID_LOGIN_NA_PREM_7DAY,Premium Orb
+ID_LOGIN_DE_PREM_7DAY,Log in 7 consecutive days to earn a Premium Orb!
+ID_LOGIN_NA_MEGAORB,Mega Orb
+ID_LOGIN_DE_MEGAORB,Log in every day to earn 2 Mega Orbs!
+ID_LOGIN_GOLD_NA,Gold
+ID_LOGIN_GOLD_DE,Log in every day to earn massive amounts of Gold!
+ID_LOGIN_NA_PROMO_GOLD,Promotion
+ID_LOGIN_DE_PROMO_GOLD,Log in 14 days to claim Gold Promo Credits from your calendar!
+ID_LOGIN_NA_WIDOW,Widowmaker
+ID_LOGIN_DE_WIDOW_HULK,"Congrats, Widowmaker! Thanks to you, everyone gets 100 shards of Hulk!"
+ID_LOGIN_DE_WIDOW_CPTMARVEL,"Congrats, Widowmaker! Thanks to you, everyone gets 100 shards of Captain Marvel!"
+ID_LOGIN_DE_WIDOW,"Congrats, Widowmaker! Thanks to you, everyone gets 100 character shards!"
+ID_LOGIN_DE_WIDOW_CPTMARVEL_01,Get 100 shards of Captain Marvel thanks to Widowmaker's first run of Dark Dimension II!
+ID_LOGIN_NA_FEATURE,Feature
+ID_LOGIN_DE_DARKDIMENSION,Log in 7 days to earn rewards to help with the Dark Dimension!
+ID_LOGIN_ISO8ORB_NA,Iso-8
+ID_LOGIN_ISO8ORB_DE,Customize your characters! Log in every day to claim Iso-8 Orbs!
+ID_LOGIN_ISO8_7DAY,Log in 7 consecutive days to earn Iso-8 Orbs and Red Star Orbs!
+ID_LOGIN_NA_7DAY,7-Day
+ID_LOGIN_MINERVA_NA,Minn-Erva
+ID_LOGIN_MINERVA_DE,Log in every day to unlock Minn-Erva!
+ID_LOGIN_DE_MEGAORB_V2,Log in every day to earn 3 Mega Orbs!
+ID_LOGIN_NA_LEGENDARY,Legendary
+ID_LOGIN_NA_IM_PRE,I Am Iron Man
+ID_LOGIN_DE_IM_PRE,Log in 7 consecutive days to earn S.H.I.E.L.D. character shards!
+ID_LOGIN_NA_IM_LIFECYCLE,S.H.I.E.L.D.
+ID_LOGIN_DE_IM_LIFECYCLE,Log in 7 days to earn S.H.I.E.L.D. Security shards!
+ID_LOGIN_NA_BB_PRE,Unite the Kingdoms
+ID_LOGIN_DE_BB_PRE,Log in 7 consecutive days to earn Asgardian character shards!
+ID_LOGIN_NA_IW_PRE,Now You See Me
+ID_LOGIN_DE_IW_PRE,Log in 7 consecutive days to earn Sinister Six shards!
+ID_LOGIN_NA_MG_PRE,Asteroid M
+ID_LOGIN_DE_MG_PRE,Log in 7 consecutive days to earn X-Men and Brotherhood shards!
+ID_LOGIN_NA_NF_PRE,Chasing Fury
+ID_LOGIN_DE_NF_PRE,Log in 7 consecutive days to earn Kree minion shards!
+ID_LOGIN_NA_PH_PRE,Phoenix
+ID_LOGIN_DE_PH_PRE,Log in 7 consecutive days to earn character shards for the Phoenix Legendary Event!
+ID_LOGIN_NA_SH_PRE,Princess and the Symbiote
+ID_LOGIN_DE_SH_PRE,Log in 7 consecutive days to earn Spider-Verse shards!
+ID_LOGIN_NA_SL_PRE,Space Ace
+ID_LOGIN_DE_SL_PRE,Log in 7 consecutive days to earn Guardian and Ravager shards!
+ID_LOGIN_NA_EM_PRE,Black and Ebony
+ID_LOGIN_DE_EM_PRE,Log in 7 consecutive days to earn Inhuman shards!
+ID_LOGIN_NA_DO_PRE,Surgical S.T.R.I.K.E.
+ID_LOGIN_DE_DO_PRE,Log in 7 consecutive days to earn X-Force shards!
+ID_LOGIN_NA_JU_PRE,"Like, Totally Jubilee"
+ID_LOGIN_DE_JU_PRE,Log in 7 consecutive days to earn Pym Tech shards!
+ID_LOGIN_NA_AW_PRE,The Infinity Watch
+ID_LOGIN_DE_AW_PRE,Log in 7 consecutive days to earn X-Factor shards!
+ID_LOGIN_NA_LE_STARLORD,Road to Star-Lord
+ID_LOGIN_DE_LE_STARLORD,Log in 14 consecutive days to unlock Mantis and earn materials to get battle ready for the Space Ace Legendary Event!
+ID_LOGIN_NA_OR_PRE,Red Death
+ID_LOGIN_DE_OR_PRE,Log in 7 consecutive days to earn character shards for the Omega Red Legendary Event!
+ID_LOGIN_OFFER_NA_ADVANCED_CATALYST,Advanced
+ID_LOGIN_OFFER_DE_ADVANCED_CATALYST_03D,Log in 3 days to claim Advanced Basic Catalyst Parts from your premium calendar!
+ID_LOGIN_OFFER_DE_ADVANCED_CATALYST_05D,Log in 5 days to claim Advanced Basic Catalyst Parts from your premium calendar!
+ID_LOGIN_OFFER_DE_ADVANCED_CATALYST_07D,Log in 7 days to claim Advanced Basic Catalyst Parts from your premium calendar!
+ID_LOGIN_OFFER_DE_ADVANCED_CATALYST_10D,Log in 10 days to claim Advanced Basic Catalyst Parts from your premium calendar!
+ID_LOGIN_OFFER_NA_ELITE_4,Elite 4 Credits
+ID_LOGIN_OFFER_DE_ELITE_4_5D,Log in 5 days to claim Elite 4 Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_ELITE_4_7D,Log in 7 days to claim Elite 4 Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_ELITE_4_21D,Log in 21 days to claim Elite 4 Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_ELITE_4,Log in 14 days to claim Elite 4 Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_ELITE_4_28D,Log in 28 days to claim Elite 4 Credits from your premium calendar!
+ID_LOGIN_OFFER_NA_ELITE_5,Elite 5 Credits
+ID_LOGIN_OFFER_DE_ELITE_5_5D,Log in 5 days to claim Elite 5 Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_ELITE_5_7D,Log in 7 days to claim Elite 5 Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_ELITE_5_21D,Log in 21 days to claim Elite 5 Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_ELITE_5_28D,Log in 28 days to claim Elite 5 Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_ELITE_5,Log in 14 days to claim Elite 5 Credits from your premium calendar!
+ID_LOGIN_OFFER_NA_ENERGY,Energy
+ID_LOGIN_OFFER_DE_ENERGY_03D,Log in 3 days to claim Campaign Energy from your premium calendar!
+ID_LOGIN_OFFER_DE_ENERGY_05D,Log in 5 days to claim Campaign Energy from your premium calendar!
+ID_LOGIN_OFFER_DE_ENERGY_07D,Log in 7 days to claim Campaign Energy from your premium calendar!
+ID_LOGIN_OFFER_DE_ENERGY_10D,Log in 10 days to claim Campaign Energy from your premium calendar!
+ID_LOGIN_OFFER_DE_ENERGY_14D,Log in 14 days to claim Campaign Energy from your premium calendar!
+ID_LOGIN_OFFER_DE_ENERGY_20D,Log in 20 days to claim Campaign Energy from your premium calendar!
+ID_LOGIN_OFFER_DE_ENERGY_28D,Log in 28 days to claim Campaign Energy from your premium calendar!
+ID_LOGIN_OFFER_DE_ENERGY_30D,Log in 30 days to claim Campaign Energy from your premium calendar!
+ID_LOGIN_OFFER_NA_GOLD,Gold
+ID_LOGIN_OFFER_DE_GOLD_03D,Log in 3 days to claim Gold from your premium calendar!
+ID_LOGIN_OFFER_DE_GOLD_05D,Log in 5 days to claim Gold from your premium calendar!
+ID_LOGIN_OFFER_DE_GOLD_07D,Log in 7 days to claim Gold from your premium calendar!
+ID_LOGIN_OFFER_DE_GOLD_10D,Log in 10 days to claim Gold from your premium calendar!
+ID_LOGIN_OFFER_DE_GOLD_20D,Log in 20 days to claim Gold from your premium calendar!
+ID_LOGIN_OFFER_DE_GOLD_ORB_03D,Log in 3 days to claim Gold Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_GOLD_ORB_05D,Log in 5 days to claim Gold Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_GOLD_ORB_07D,Log in 7 days to claim Gold Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_GOLD_ORB_10D,Log in 10 days to claim Gold Orbs from your premium calendar!
+ID_LOGIN_OFFER_NA_IMPROVED_CATALYST,Improved
+ID_LOGIN_OFFER_DE_IMPROVED_CATALYST_03D,Log in 3 days to claim Improved Basic Catalysts from your premium calendar!
+ID_LOGIN_OFFER_DE_IMPROVED_CATALYST_05D,Log in 5 days to claim Improved Basic Catalysts from your premium calendar!
+ID_LOGIN_OFFER_DE_IMPROVED_CATALYST_07D,Log in 7 days to claim Improved Basic Catalysts from your premium calendar!
+ID_LOGIN_OFFER_DE_IMPROVED_CATALYST_10D,Log in 10 days to claim Improved Basic Catalysts from your premium calendar!
+ID_LOGIN_OFFER_NA_LEGACY_ORB,Legacy
+ID_LOGIN_OFFER_DE_LEGACY_ORB_03D,Log in 3 days to claim Legacy I Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_LEGACY_ORB_05D,Log in 5 days to claim Legacy I Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_LEGACY_ORB_07D,Log in 7 days to claim Legacy I Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_LEGACY_ORB_10D,Log in 10 days to claim Legacy I Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_LEGACY_ORB_30D,Log in 30 days to claim Legacy I Orbs from your premium calendar!
+ID_LOGIN_OFFER_NA_ORANGE_ELITE,Gear
+ID_LOGIN_OFFER_DE_PROMO_7D,Log in 7 days to claim Orange Elite Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_PROMO_12D,Log in 12 days to claim Orange Elite Orbs from your premium calendar!
+ID_LOGIN_OFFER_NA_ORB_DRAFT,Orb Draft
+ID_LOGIN_OFFER_DE_ORB_DRAFT_07D,Log in 7 Days to claim Orb Drafts from your premium calendar!
+ID_LOGIN_OFFER_NA_POWER_CORES,Cores
+ID_LOGIN_OFFER_DE_POWER_CORES_5D,Log in 5 days to claim Power Cores from your premium calendar!
+ID_LOGIN_OFFER_DE_POWER_CORES_10D,Log in 10 days to claim Power Cores from your premium calendar!
+ID_LOGIN_OFFER_DE_POWER_CORES_15D,Log in 15 days to claim Power Cores from your premium calendar!
+ID_LOGIN_OFFER_DE_POWER_CORES_18D,Log in 18 days to claim Power Cores from your premium calendar!
+ID_LOGIN_OFFER_DE_POWER_CORES_21D,Log in 21 days to claim Power Cores from your premium calendar!
+ID_LOGIN_OFFER_DE_POWER_CORES_30D,Log in 28 days to claim Power Cores from your premium calendar!
+ID_LOGIN_OFFER_NA_PREMIUM,Premium Orb
+ID_LOGIN_OFFER_DE_PREMIUM_03D,Log in 3 days to claim Premium Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_PREMIUM_05D,Log in 5 days to claim Premium Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_PREMIUM_07D,Log in 7 days to claim Premium Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_PREMIUM_10D,Log in 10 days to claim Premium Orbs from your premium calendar!
+ID_LOGIN_OFFER_NA_PROMO,Promotion
+ID_LOGIN_OFFER_DE_PROMO_28D,Log in 28 days to claim Silver Promo Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_PROMO_COMBO_23D,Log in 23 days to claim Silver and Gold Promo Credits from your premium calendar!
+ID_LOGIN_OFFER_NA_RAID_ENERGY,Raid
+ID_LOGIN_OFFER_DE_RAID_ENERGY_03D,Log in 3 days to claim Raid Energy from your premium calendar!
+ID_LOGIN_OFFER_DE_RAID_ENERGY_05D,Log in 5 days to claim Raid Energy from your premium calendar!
+ID_LOGIN_OFFER_DE_RAID_ENERGY_07D,Log in 7 days to claim Raid Energy from your premium calendar!
+ID_LOGIN_OFFER_DE_RAID_ENERGY_10D,Log in 10 days to claim Raid Energy from your premium calendar!
+ID_LOGIN_OFFER_NA_RAID_BLUE_ORB,Blue Gear
+ID_LOGIN_OFFER_DE_RAID_BLUE_ORB_03D,Log in 3 days to claim Blue Gear Raid Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_RAID_BLUE_ORB_05D,Log in 5 days to claim Blue Gear Raid Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_RAID_BLUE_ORB_07D,Log in 7 days to claim Blue Gear Raid Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_RAID_BLUE_ORB_10D,Log in 10 days to claim Blue Gear Raid Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_RAID_BLUE_ORB_30D,Log in 30 days to claim Blue Gear Raid Orbs from your premium calendar!
+ID_LOGIN_OFFER_NA_RAID_PURPLE_ORB,Purple Gear
+ID_LOGIN_OFFER_DE_RAID_PURPLE_ORB_03D,Log in 3 days to claim Purple Gear Raid Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_RAID_PURPLE_ORB_05D,Log in 5 days to claim Purple Gear Raid Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_RAID_PURPLE_ORB_07D,Log in 7 days to claim Purple Gear Raid Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_RAID_PURPLE_ORB_10D,Log in 10 days to claim Purple Gear Raid Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_RAID_PURPLE_ORB_30D,Log in 30 days to claim Purple Gear Raid Orbs from your premium calendar!
+ID_LOGIN_OFFER_NA_REDSTAR,Red Stars
+ID_LOGIN_OFFER_DE_REDSTAR_03D,Log in 3 days to claim Red Star Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_REDSTAR_05D,Log in 5 days to claim Red Star Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_REDSTAR_07D,Log in 7 days to claim Red Star Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_REDSTAR_10D,Log in 10 days to claim Red Star Orbs from your premium calendar!
+ID_LOGIN_OFFER_NA_RSCREDIT,Promo Credit
+ID_LOGIN_OFFER_DE_RSCREDIT_03D,Log in 3 days to claim Silver Promo Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_RSCREDIT_05D,Log in 5 days to claim Silver Promo Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_RSCREDIT_07D,Log in 7 days to claim Silver Promo Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_RSCREDIT_10D,Log in 10 days to claim Silver Promo Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_RSCREDIT_21D,Log in 21 days to claim Silver Promo Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_RSCREDIT_30D,Log in 30 days to claim Silver Promo Credits from your premium calendar!
+ID_LOGIN_OFFER_NA_SUPERIOR_CATALYST,Superior
+ID_LOGIN_OFFER_DE_SUPERIOR_CATALYST_03D,Log in 3 days to claim Superior Basic Catalyst Parts from your premium calendar!
+ID_LOGIN_OFFER_DE_SUPERIOR_CATALYST_05D,Log in 5 days to claim Superior Basic Catalyst Parts from your premium calendar!
+ID_LOGIN_OFFER_DE_SUPERIOR_CATALYST_07D,Log in 7 days to claim Superior Basic Catalyst Parts from your premium calendar!
+ID_LOGIN_OFFER_DE_SUPERIOR_CATALYST_10D,Log in 10 days to claim Superior Basic Catalyst Parts from your premium calendar!
+ID_LOGIN_OFFER_NA_T2_ABM,T2 Ability
+ID_LOGIN_OFFER_DE_T2_ABM_03D,Log in 3 days to claim T2 Ability Materials from your premium calendar!
+ID_LOGIN_OFFER_DE_T2_ABM_05D,Log in 5 days to claim T2 Ability Materials from your premium calendar!
+ID_LOGIN_OFFER_DE_T2_ABM_07D,Log in 7 days to claim T2 Ability Materials from your premium calendar!
+ID_LOGIN_OFFER_DE_T2_ABM_10D,Log in 10 days to claim T2 Ability Materials from your premium calendar!
+ID_LOGIN_OFFER_NA_T3_ABM,T3 Ability
+ID_LOGIN_OFFER_DE_T3_ABM_03D,Log in 3 days to claim T3 Ability Materials from your premium calendar!
+ID_LOGIN_OFFER_DE_T3_ABM_05D,Log in 5 days to claim T3 Ability Materials from your premium calendar!
+ID_LOGIN_OFFER_DE_T3_ABM_07D,Log in 7 days to claim T3 Ability Materials from your premium calendar!
+ID_LOGIN_OFFER_DE_T3_ABM_10D,Log in 10 days to claim T3 Ability Materials from your premium calendar!
+ID_LOGIN_OFFER_NA_T4_ABM,T4 Ability
+ID_LOGIN_OFFER_DE_T4_ABM_03D,Log in 3 days to claim T4 Ability Materials from your premium calendar!
+ID_LOGIN_OFFER_DE_T4_ABM_05D,Log in 5 days to claim T4 Ability Materials from your premium calendar!
+ID_LOGIN_OFFER_DE_T4_ABM_07D,Log in 7 days to claim T4 Ability Materials from your premium calendar!
+ID_LOGIN_OFFER_DE_T4_ABM_10D,Log in 10 days to claim T4 Ability Materials from your premium calendar!
+ID_LOGIN_OFFER_NA_PURPLE_GEAR_CREDITS,Purple Gear
+ID_LOGIN_OFFER_DE_PURPLE_GEAR_CREDITS,Log in 7 days to claim Purple Gear Credits from your premium calendar!
+ID_LOGIN_OFFER_DE_ORANGE_ELITE_PURPLE_12D,Log in 12 days to claim Orange Elite & Purple Gear Raid Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_GENERIC_ORB_12D,Log in 12 days to claim orbs from your premium calendar!
+ID_LOGIN_DE_PROMO_GOLD_28D,Log in 28 days to claim Gold Promo Credits from your calendar!
+ID_LOGIN_OFFER_NA_ISO8_ENERGY,Iso-8 Campaign Energy
+ID_LOGIN_OFFER_DE_ISO8_ENERGY_21D,Log in 21 days to claim Iso-8 Campaign Energy from your premium calendar!
+ID_LOGIN_OFFER_DE_ISO8_ENERGY_7D,Log in 7 days to claim Iso-8 Campaign Energy from your premium calendar!
+ID_LOGIN_OFFER_DE_ISO8_ENERGY_14D,Log in 14 days to claim Iso-8 Campaign Energy from your premium calendar!
+ID_LOGIN_OFFER_DE_ISO8_ENERGY_28D,Log in 28 days to claim Iso-8 Campaign Energy from your premium calendar!
+ID_LOGIN_OFFER_NA_ISO8_IONS,T1 Ion
+ID_LOGIN_OFFER_DE_ISO8_IONS_21D,Log in 21 days to claim T1 Ions from your premium calendar!
+ID_LOGIN_OFFER_DE_ISO8_IONS_7D,Log in 7 days to claim T1 Ions from your premium calendar!
+ID_LOGIN_OFFER_DE_ISO8_IONS_14D,Log in 14 days to claim T1 Ions from your premium calendar!
+ID_LOGIN_OFFER_DE_ISO8_IONS_28D,Log in 28 days to claim T1 Ions from your premium calendar!
+ID_LOGIN_OFFER_NA_TRAINING_ORB,Training Orb
+ID_LOGIN_OFFER_DE_TRAINING_ORB_5D,Log in 5 days to claim Training Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_TRAINING_ORB_7D,Log in 7 days to claim Training Orbs from your premium calendar!
+ID_LOGIN_OFFER_NA_GOLD_PROMO_28D,Gold Promotion Credits
+ID_LOGIN_OFFER_DE_GOLD_PROMO_28D,Log in 28 days to claim Gold Promotion Credits from your premium calendar!
+ID_LOGIN_VALUABLELESSONS_NA,Valuable Lessons
+ID_LOGIN_VALUABLELESSONS_DE,Log in every day to earn wonderful rewards in celebration of Valuable Lessons event!
+ID_LOGIN_CATALYSTBLAST_NA,Catalyst Blast
+ID_LOGIN_NA_AUTUMNAL,Equinox
+ID_LOGIN_DE_AUTUNMAL,Log in every day and celebrate the coming of the Equinox
+ID_LOGIN_NA_CHADWICK,T'Challa
+ID_LOGIN_DE_CHADWICK,In celebration of the life of Chadwick Boseman.
+ID_LOGIN_2020_SINISTERASSEMBLY_NA,Sinister Assembly
+ID_LOGIN_2020_SINISTERASSEMBLY_DE,Log in every day to earn terrific rewards!
+ID_LOGIN_HUMANTORCH_NA,Human Torch
+ID_LOGIN_HUMANTORCH_DE,Thank you for playing MARVEL Strike Force. Continue logging in to earn more rewards!
+ID_LOGIN_HALLOWEEN_2020_NA,Waking Nightmare
+ID_LOGIN_HALLOWEEN_2020_DE,"Log in every day to earn character shards, valuable gear, and resources"
+ID_LOGIN_BESTVILLAIN_GROUP_A_NA,Best Villains
+ID_LOGIN_BESTVILLAIN_GROUP_A_DE,Log in every day to earn valuable gear and resources
+ID_LOGIN_HALLOWEEN_NA,Halloween Prep
+ID_LOGIN_HALLOWEEN_DE,Log in 14 consecutive days to claim Gold Promotion Credits in preparation of the scariest day of the year
+ID_LOGIN_NA_FALL2020,Bounty
+ID_LOGIN_DE_FALL2020,"Log in for 7 consecutive days to earn up to 14 Bounty Orbs. Each orb contains Improved, Advanced, and Superior Gear."
+ID_LOGIN_LEVEL80_NA,Level 80
+ID_LOGIN_LEVEL80_DE,"In honor of level 80, log in every day to earn more Campaign Energy!"
+ID_LOGIN_LEVEL80_DE_V2,"In honor of level 80, log in every day to earn more Campaign Energy and Iso-8 Campaign Energy!"
+ID_LOGIN_NA_WINTER,Snow Globe
+ID_LOGIN_DE_WINTER,Log in for 14 consecutive days to earn up to 20 Snow Globe Orbs and 3 Gold Orbs.
+ID_LOGIN_NA_IRONMAN,Road to Iron Man
+ID_LOGIN_DE_IRONMAN,"Log in 30 consecutive days to get Black Widow, Hawkeye, S.H.I.E.L.D. Medic, and S.H.I.E.L.D. Security battle ready for the I Am Iron Man Legendary Event"
+ID_LOGIN_WINTERSPECIAL_NA,Winter Special
+ID_LOGIN_WINTERSPECIAL_DE,Check in every day to see the latest from Mojo's Winter Special
+ID_LOGIN_OFFER_DE_PREMIUM_14D,Log in 10 days to claim Premium Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_PREMIUM_15D,Log in 15 days to claim Premium Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_PREMIUM_21D,Log in 21 days to claim Premium Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_PREMIUM_28D,Log in 28 days to claim Premium Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_PREMIUM_30D,Log in 30 days to claim Premium Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_POWER_CORES_7D,Log in 7 days to claim Power Cores from your premium calendar!
+ID_LOGIN_OFFER_DE_POWER_CORES_14D,Log in 14 days to claim Power Cores from your premium calendar!
+ID_LOGIN_BEGINNER_NUE_SHARD_NA,Shard and Orbs
+ID_LOGIN_BEGINNER_NUE_SHARD_DE,Log in 7 days to claim Orbs & Character shards from your premium calendar!
+ID_LOGIN_NEWYEAR_2021_NA,Happy New Year!
+ID_LOGIN_NEWYEAR_2021_DE,Celebrate the new year by logging in every day to earn valuable rewards!
+ID_LOGIN_NA_DD4_WINNER,WatchRemanxShakeIt
+ID_LOGIN_DE_DD4_WINNER,Celebrate WatchRemanxShakeIt's victory over the Dark Dimension with these rewards!
+ID_LOGIN_NA_DD5_WINNER,Tadano Mac JAPAN
+ID_LOGIN_DE_DD5_WINNER,Celebrate Tadano Mac JAPAN's second victory over the Dark Dimension with these rewards!
+ID_LOGIN_NA_LUNARFESTIVAL,Lunar Festival
+ID_LOGIN_DE_LUNARFESTIVAL,Celebrate Lunar New Year by logging in every day to collect Power Cores!
+ID_LOGIN_NA_THANKYOU,Thank You!
+ID_LOGIN_DE_THANKYOU,Thank you for playing MARVEL Strike Force! Here is a gift to show our appreciation for your passion and support.
+ID_LOGIN_NA_2021ANNIVERSARY,2021 Anniversary
+ID_LOGIN_DE_2021ANNIVERSARY,Log in every day to earn valuable gear and resources in celebration of Marvel Strike Force's Third Anniversary
+ID_LOGIN_NA_CULL_OBSIDIAN,Cull Obsidian
+ID_LOGIN_DE_CULL_OBSIDIAN,Log in 30 days to earn 100 shards of Cull Obsidian!
+ID_LOGIN_NA_SHARD_GENERIC,Shard Calendar
+ID_LOGIN_DE_SHARD_7D,Log in 7 days to claim Character shards from your calendar!
+ID_LOGIN_DE_SHARD_14D,Log in 14 days to claim Character shards from your calendar!
+ID_LOGIN_DE_SHARD_21D,Log in 21 days to claim Character shards from your calendar!
+ID_LOGIN_DE_SHARD_28D,Log in 28 days to claim Character shards from your calendar!
+ID_LOGIN_DE_SHARD_30D,Log in 30 days to claim Character shards from your calendar!
+ID_LOGIN_NA_SPRING_2021,Full Bloom
+ID_LOGIN_DE_SPRING_2021,Grow your roster by logging in each day for great rewards!
+ID_LOGIN_NA_FALCON_NEWUSER,Spread Your Wings
+ID_LOGIN_DE_FALCON_NEWUSER,Arm Falcon for battle with this exclusive calendar
+ID_LOGIN_NA_AIM,A.I.M. to Please
+ID_LOGIN_DE_AIM,Login 7 consecutive days to earn A.I.M character shards
+ID_LOGIN_NA_CAMPAIGNMISCHIEF,Mischief and Mayhem Calendar
+ID_LOGIN_DE_CAMPAIGNMISCHIEF,"Cause mayhem on the battlefield with the God of Mischief, Loki!"
+ID_LOGIN_OFFER_NA_LEGACY2_ORB,Legacy
+ID_LOGIN_OFFER_DE_LEGACY2_ORB_03D,Log in 3 days to claim Legacy II Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_LEGACY2_ORB_05D,Log in 5 days to claim Legacy II Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_LEGACY2_ORB_07D,Log in 7 days to claim Legacy II Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_LEGACY2_ORB_10D,Log in 10 days to claim Legacy II Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_LEGACY2_ORB_14D,Log in 14 days to claim Legacy II Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_LEGACY2_ORB_21D,Log in 21 days to claim Legacy II Orbs from your premium calendar!
+ID_LOGIN_OFFER_DE_LEGACY2_ORB_30D,Log in 30 days to claim Legacy II Orbs from your premium calendar!
+ID_LOGIN_OFFER_NA_LOKI_DRAFT,God of Mischief Calendar
+ID_LOGIN_OFFER_DE_LOKI_DRAFT,Log in 36 days to claim rewards from your glorious calendar!
+ID_LOGIN_NA_ISOGREEN,Iso-8 Green
+ID_LOGIN_DE_ISOGREEN,"Customize your characters! Log in every day to claim Basic T1 Iso-8 Orbs, T1 Ion Orbs, and Premium T1 Iso-8 Orbs!"
+ID_LOGIN_NA_2021WIDOW,Web of Spies
+ID_LOGIN_DE_2021WIDOW,Log in every day to earn valuable gear and resources!
+ID_LOGIN_NA_BLACKWIDOW_NU,Widow Hunt Calendar
+ID_LOGIN_DE_BLACKWIDOW_NU,"Add the deadly assassin, Black Widow, to your roster with this limited-time calendar. Tap now!"
+ID_LOGIN_OFFER_NA_ELITE_6,Elite 6 Credits
+ID_LOGIN_OFFER_DE_ELITE_6,Log in everyday and accumulate up to 5000 Elite 6 Credits from your premium calendar!
+ID_LOGIN_OFFER_NA_ELITE_7,Elite 7 Credits
+ID_LOGIN_OFFER_DE_ELITE_7,Log in everyday and accumulate up to 2500 Elite 7 Credits from your premium calendar!
+ID_LOGIN_NA_THELEGEND,The Legend
+ID_LOGIN_DE_THELEGEND,"Log in every day to earn valuable gear, resources and 4 Medallions to help unlock the Shang-Chi Costume!"
+ID_LOGIN_NA_SHANGCHI_NU,Warrior for Hire Calendar
+ID_LOGIN_DE_SHANGCHI_NU,"Add Shang-Chi, the War Defense Warrior, to your roster with this limited-time calendar."
+ID_LOGIN_NA_HELA,Hela
+ID_LOGIN_NA_VENOM,Venom
+ID_LOGIN_DE_NEW_USER,Thank you for playing MARVEL Strike Force. Continue logging in to earn more rewards!
+ID_LOGIN_NA_CARNAGE,Carnage
+ID_LOGIN_NA_GHOSTRIDER,Ghost Rider
+ID_LOGIN_NA_HAWKEYE,Hawkeye
+ID_LOGIN_DE_14DAY_NEW_USER,"Come back daily and don't miss your chance to unlock Deadpool, Venom, and Captain America"
+ID_LOGIN_NA_MILESMORALES,Spider-Man (Miles)
+ID_LOGIN_NA_WINTER2021,Season's Sorcery
+ID_LOGIN_DE_WINTER2021,"Log in every day to earn valuable gear, resources, and the Pink Ornament!"
+ID_LOGIN_OFFER_NA_DPC,Dark Promotion Credits
+ID_LOGIN_OFFER_DE_DPC_PROMO_7D,Log in 7 days to claim Dark Promotion Credits from your premium calendar!
+ID_LOGIN_NA_NYE2021,2022 Welcome Wagon
+ID_LOGIN_DE_NYE2021,Hit the ground running in 2022 with a 14-day streak calendar!
+ID_LOGIN_OFFER_NA_LAUNCHPARTY,Celebrate the Launch Party!
+ID_LOGIN_OFFER_DE_LAUNCHPARTY,Party Time! Log in 14 days to claim rewards from your calendar!
+ID_LOGIN_NA_VALENTINE2022,Power of Love
+ID_LOGIN_DE_VALENTINE2022,Wrap your arms around 5 days of rewards!
+ID_LOGIN_NA_ECHO2021,Mirror Image
+ID_LOGIN_DE_ECHO2021,Log in every day to earn valuable gold and gear!
+ID_LOGIN_NA_FESTIVALOFFORTUNE,Festival of Fortune
+ID_LOGIN_DE_FESTIVALOFFORTUNE,Log in every day to earn Festival of Fortune Orbs to progress the milestone!
+ID_LOGIN_NA_ALLIANCE_CELEBRATION,Teamwork
+ID_LOGIN_DE_ALLIANCE_CELEBRATION,Teamwork really does make the dream work. Celebrate your alliance with this special calendar!
+ID_LOGIN_NA_MORBIUS2022,Living Vampire
+ID_LOGIN_DE_MORBIUS2022,Log in every day to earn valuable characters shards and gear!
+ID_LOGIN_NA_GAMORA,Gamora
+ID_LOGIN_NA_ANNIV2022,Celebration Incantation
+ID_LOGIN_DE_ANNIV2022,"Log in every day to earn valuable gear, resources, and the Eye of Newt Orb!"
+ID_LOGIN_NA_H4H2022,Heroes for Hire
+ID_LOGIN_DE_H4H2022,"Log in every day to earn Gold, S.T.R.I.K.E. Tokens, and more!"
+ID_LOGIN_NA_SCOURGE1,Call for Pestilence
+ID_LOGIN_DE_SCOURGE1_FIRST,"The first Horsemen has arrived! Log in 14 days to claim various rewards to help you recruit Apocalype's first Horsemen, Morgan Le Fay!"
+ID_LOGIN_DE_SCOURGE1,"Log in 7 days to claim character shards to help you recruit Apocalype's first Horsemen, Morgan Le Fay!"
+ID_LOGIN_NA_SCARLETWITCH,Scarlet Witch
+ID_LOGIN_NA_WITCHSCOVEN,Witch's Coven Calendar
+ID_LOGIN_DE_WITCHSCOVEN,"Log in every day to earn valuable gear, and Occult Hex Orbs!"
+ID_LOGIN_NA_GOBLINQUEEN,The Goblin Queen
+ID_LOGIN_DE_GOBLINQUEEN,Log in every day to earn resources and Marauder shards!
+ID_LOGIN_NA_MOONKNIGHT,Avatar of Khonshu
+ID_LOGIN_DE_MOONKNIGHT,Log in every day to earn resources and Moon Knight shards!
+ID_LOGIN_NA_MORDO,Forbidden Magic
+ID_LOGIN_DE_MORDO,Log in every day to earn resources and Mordo shards!
+ID_LOGIN_NA_COSMICCRUCIBLECOUNTDOWN,Countdown to Crucible
+ID_LOGIN_DE_COSMICCRUCIBLECOUNTDOWN,Log in every day to claim various rewards to help you prepare for your first Cosmic Crucible!
+ID_LOGIN_NA_SISTERGRIMM,Sister Grimm
+ID_LOGIN_DE_SISTERGRIMM,Gain Points Towards the Sister Grimm Milestone and Unlock Nico Minoru
+ID_LOGIN_NA_THECHOSENONE,The Chosen One Calendar
+ID_LOGIN_DE_THECHOSENONE,"Log in every day to earn valuable gear, and Supreme Phantasm Orbs!"
+ID_LOGIN_NA_PRIDE2022,Pride Month
+ID_LOGIN_DE_PRIDE2022,Log in for 14 Days during the month of June to get 15 shards of LGBT+ characters as well as valuable resources!
+ID_LOGIN_NA_MSMARVEL,Embiggen Your Roster
+ID_LOGIN_DE_MSMARVEL,Log in every day to earn resources and recruit: Ms. Marvel!
+ID_LOGIN_NA_AMERICACHAVEZ,The Multiversal Brawler
+ID_LOGIN_DE_AMERICACHAVEZ,Log in every day to earn resources and recruit: America Chavez!
+ID_LOGIN_NA_FATHERS_CAL,Father's Day
+ID_LOGIN_NA_GUARDIAN,Cosmic Companions
+ID_LOGIN_DE_GUARDIAN,Log in every day to recruit Groot and Rocket Raccoon!
+ID_LOGIN_NA_SOLARSIZZLER,Solar Sizzler
+ID_LOGIN_DE_SOLARSIZZLER,Log in every day to earn valuable shards and Gold Orb Fragments!
+ID_LOGIN_NA_SCOURGE2,Call for Famine
+ID_LOGIN_DE_SCOURGE2_FIRST,"The second Horsemen has arrived! Log in 14 days to claim various rewards to help you recruit Apocalype's second Horsemen, Rogue!"
+ID_LOGIN_DE_SCOURGE2,"Log in 7 days to claim character shards to help you recruit Apocalype's second Horsemen, Rogue!"
+ID_LOGIN_NA_PARTYINPARADISE,Party in Paradise
+ID_LOGIN_DE_PARTYINPARADISE,Log in every day to earn shards and Gold Orb Fragments!

@@ -1,0 +1,553 @@
+id,translation
+ID_SHARD_ADAMWARLOCK_NAME,Adam Warlock
+ID_SHARD_ADAMWARLOCK_DESCRIPTION,"Guardian of the Soul Stone, Adam Warlock prevents his Infinity Watch allies' positive effects from being cleared or flipped."
+ID_SHARD_AGATHAHARKNESS_NAME,Agatha Harkness
+ID_SHARD_AGATHAHARKNESS_DESCRIPTION,"One of the most powerful witches alive, Agatha Harkness is a centuries-old survivor of the Salem Witch Trials who uses her potent spells to debilitate her enemies."
+ID_SHARD_AIMCONTROL_INFECT_NAME,A.I.M. Infector
+ID_SHARD_AIMCONTROL_INFECT_DESCRIPTION,A virulent attacker who prevents healing and passes negative effects to his targets.
+ID_SHARD_AIMDMG_OFFENSE_NAME,A.I.M. Monstrosity
+ID_SHARD_AIMDMG_OFFENSE_DESCRIPTION,A massive brute that gains strength at the expense of vulnerability.
+ID_SHARD_AIMDMG_SPEED_NAME,A.I.M. Assaulter
+ID_SHARD_AIMDMG_SPEED_DESCRIPTION,An aggressive soldier who sacrifices healing for rapid attacks.
+ID_SHARD_AIMSUPPORT_HEAL_NAME,A.I.M. Researcher
+ID_SHARD_AIMSUPPORT_HEAL_DESCRIPTION,A focused healer who applies and removes negative effects.
+ID_SHARD_AIMTANK_TAUNT_NAME,A.I.M. Security
+ID_SHARD_AIMTANK_TAUNT_DESCRIPTION,A resilient guard who taunts while healing herself and slowing her enemies.
+ID_SHARD_AMERICACHAVEZ_NAME,America Chavez
+ID_SHARD_AMERICACHAVEZ_DESCRIPTION,America Chavez hits hard enough to punch through reality itself and is even stronger with Hero Brawler allies.
+ID_SHARD_ANTIVENOM_NAME,Anti-Venom
+ID_SHARD_ANTIVENOM_DESCRIPTION,"An altered Venom Symbiote turned Eddie Brock into Anti-Venom, a Hero who heals rather than destroys."
+ID_SHARD_ANTMAN_NAME,Ant-Man
+ID_SHARD_ANTMAN_DESCRIPTION,A master thief skilled at disabling powerful opponents with the help of his Pym Particle powered suit.
+ID_SHARD_APOCALYPSE_NAME,Apocalypse
+ID_SHARD_APOCALYPSE_DESCRIPTION,
+ID_SHARD_BARONMORDO_NAME,Mordo
+ID_SHARD_BARONMORDO_DESCRIPTION,A powerful sorcerer who weakens his enemies with forbidden magic.
+ID_SHARD_BEAST_NAME,Beast
+ID_SHARD_BEAST_DESCRIPTION,Beast is a master of Mutant science who improves any X-Men team by healing and granting positive effects.
+ID_SHARD_BISHOP_NAME,Bishop
+ID_SHARD_BISHOP_DESCRIPTION,"The Astonishing X-Men's Blaster from the future, Bishop uses his mutant energy powers to deliver devastating attacks."
+ID_SHARD_BLACKBOLT_NAME,Black Bolt
+ID_SHARD_BLACKBOLT_DESCRIPTION,"The King of the Inhumans, Black Bolt is a Blaster whose voice deals massive damage and prevents enemies from reviving."
+ID_SHARD_BLACKPANTHER_NAME,Black Panther
+ID_SHARD_BLACKPANTHER_DESCRIPTION,"An agile, relentless hunter who shreds his enemies with rapid attacks."
+ID_SHARD_BLACKWIDOW_NAME,Black Widow
+ID_SHARD_BLACKWIDOW_DESCRIPTION,A stealthy saboteur who steals enemy advantages and delivers disabling attacks.
+ID_SHARD_BLOB_NAME,Blob
+ID_SHARD_BLOB_DESCRIPTION,Blob is a mutant Protector whose immense mass absorbs damage and Deflects attacks aimed at allies.
+ID_SHARD_BUDDY_NAME,Doctor Doom
+ID_SHARD_BUDDY_DESCRIPTION,"A master of technology and magic, Doctor Doom will stop at nothing to conquer Nexus Earth."
+ID_SHARD_BULLSEYE_NAME,Bullseye
+ID_SHARD_BULLSEYE_DESCRIPTION,A ruthless mercenary who takes down single targets with focused damage and perfect accuracy.
+ID_SHARD_CABLE_NAME,Cable
+ID_SHARD_CABLE_DESCRIPTION,"A time-traveler from the future who can manipulate turn order and charge up attacks to blast his enemies. "
+ID_SHARD_CAPTAINAMERICA_NAME,Captain America
+ID_SHARD_CAPTAINAMERICA_DESCRIPTION,A resilient leader who provides energy to his team while blocking enemy attacks.
+ID_SHARD_SAMWILSON_NAME,Captain America (Sam)
+ID_SHARD_SAMWILSON_DESCRIPTION,"Taking up the mantle of Captain America, Sam Wilson uses his legendary shield to protect and inspire others, granting bonuses to Avenger and Skill allies."
+ID_SHARD_CAPTAINMARVEL_NAME,Captain Marvel
+ID_SHARD_CAPTAINMARVEL_DESCRIPTION,A powerful cosmic soldier who breaks down the defenses of multiple foes and gains overwhelming power in Binary form.
+ID_SHARD_CARNAGE_NAME,Carnage
+ID_SHARD_CARNAGE_DESCRIPTION,"An insane brawler that viciously tears through foes with negative effects, attacking more frequently as their health decreases."
+ID_SHARD_CLOAK_NAME,Cloak
+ID_SHARD_CLOAK_DESCRIPTION,"A living conduit to the Darkforce Dimension, Cloak drains the health and offensive power of vulnerable enemies."
+ID_SHARD_COLLEENWING_NAME,Colleen Wing
+ID_SHARD_COLLEENWING_DESCRIPTION,"Colleen Wing is the Heroes for Hire Brawler, who deflects powerful attacks and counters with her lightning-fast katana."
+ID_SHARD_COLOSSUS_NAME,Colossus
+ID_SHARD_COLOSSUS_DESCRIPTION,Colossus uses his organic steel skin to protect the X-Men and harm enemies who attack him.
+ID_SHARD_CORVUSGLAIVE_NAME,Corvus Glaive
+ID_SHARD_CORVUSGLAIVE_DESCRIPTION,Corvus Glaive uses Stealth and Piercing to infiltrate and eliminate the Black Order's enemies.
+ID_SHARD_COULSON_NAME,Agent Coulson
+ID_SHARD_COULSON_DESCRIPTION,An agent of S.H.I.E.L.D. who defends the Helicarrier by clearing positive effects from invading teams.
+ID_SHARD_CROSSBONES_NAME,Crossbones
+ID_SHARD_CROSSBONES_DESCRIPTION,"A vengeful, die hard bruiser with a devastating explosion attack."
+ID_SHARD_CRYSTAL_NAME,Crystal
+ID_SHARD_CRYSTAL_DESCRIPTION,"A member of the Inhuman royal family, Crystal's mastery of the elements makes her a versatile Blaster."
+ID_SHARD_CULLOBSIDIAN_NAME,Cull Obsidian
+ID_SHARD_CULLOBSIDIAN_DESCRIPTION,Cull Obsidian is a Protector who guards the Black Order and retaliates against those who would defy Thanos.
+ID_SHARD_CYCLOPS_NAME,Cyclops
+ID_SHARD_CYCLOPS_DESCRIPTION,Cyclops grants his teammates extra attacks and assails his enemies with optic blasts.
+ID_SHARD_DAGGER_NAME,Dagger
+ID_SHARD_DAGGER_DESCRIPTION,Teenage runaway Dagger uses her Lightforce powers to generate powerful daggers that damage enemies and heal her allies.
+ID_SHARD_DAREDEVIL_NAME,Daredevil
+ID_SHARD_DAREDEVIL_DESCRIPTION,"A tough bruiser who delivers bonus attacks, chain attacks, and counterattacks."
+ID_SHARD_DAZZLER_NAME,Dazzler
+ID_SHARD_DAZZLER_DESCRIPTION,"International pop diva and super hero, Dazzler's mutant power to convert sound into energy creates light shows that can captivate audiences or protect her fellow X-Men in battle."
+ID_SHARD_DEADPOOL_NAME,Deadpool
+ID_SHARD_DEADPOOL_DESCRIPTION,A magical unicorn who specializes in stab-shooting vulnerable targets.
+ID_SHARD_DEATHPOOL_NAME,Deathpool
+ID_SHARD_DEATHPOOL_DESCRIPTION,"The daughter of the cosmic entity known as Death and, uh... Deadpool? Okay, wow. Deathpool combines her father's love of brawling with her mother's incredible supernatural powers."
+ID_SHARD_DOCTOROCTOPUS_NAME,Doctor Octopus
+ID_SHARD_DOCTOROCTOPUS_DESCRIPTION,"Genius, egomaniac, and mastermind, Doctor Octopus enhances Sinister Six allies and summons them to battle."
+ID_SHARD_DOCTORSTRANGE_NAME,Doctor Strange
+ID_SHARD_DOCTORSTRANGE_DESCRIPTION,Sorcerer Supreme and versatile healer with the ability to remove effects from friends and foes.
+ID_SHARD_DOCTORVOODOO_NAME,Doctor Voodoo
+ID_SHARD_DOCTORVOODOO_DESCRIPTION,Doctor Voodoo is a powerful sorcerer who uses his soul manipulation abilities to restore and protect his allies while turning his enemies against each other.
+ID_SHARD_DOMINO_NAME,Domino
+ID_SHARD_DOMINO_DESCRIPTION,Domino is X-Force's Controller whose Mutant luck lets her allies Dodge and deal deadlier Critical hits.
+ID_SHARD_DOOM_NAME,Doctor Doom
+ID_SHARD_DOOM_DESCRIPTION,"A master of technology and magic, Doctor Doom will stop at nothing to conquer Nexus Earth."
+ID_SHARD_DOOMBOT_NAME,Doombot
+ID_SHARD_DOOMBOT_DESCRIPTION,A near-identical robotic copy of Doctor Doom.
+ID_SHARD_DORMAMMU_NAME,Dormammu
+ID_SHARD_DORMAMMU_DESCRIPTION,"Lord of the Dark Dimension, Dormammu revives his fallen allies and rains mystic chaos down on his enemies."
+ID_SHARD_DRAX_NAME,Drax
+ID_SHARD_DRAX_DESCRIPTION,"An unpredictable, taunting attacker with rapid attacks that drain health."
+ID_SHARD_EBONYMAW_NAME,Ebony Maw
+ID_SHARD_EBONYMAW_DESCRIPTION,"The Black Order's Support, Ebony Maw aids Thanos by granting positive effects to allies."
+ID_SHARD_ECHO_NAME,Echo
+ID_SHARD_ECHO_DESCRIPTION,"Born deaf, Maya Lopez possesses the ability to mimic the movements of others, using it to become the formidable warrior known as Echo."
+ID_SHARD_ELECTRO_NAME,Electro
+ID_SHARD_ELECTRO_DESCRIPTION,Electro uses her rage and voltage to unleash massive damage on the Sinister Six's most vulnerable enemies.
+ID_SHARD_ELEKTRA_NAME,Elektra
+ID_SHARD_ELEKTRA_DESCRIPTION,A stealthy assassin capable of dealing immense damage to a single target.
+ID_SHARD_ELSABLOODSTONE_NAME,Elsa Bloodstone
+ID_SHARD_ELSABLOODSTONE_DESCRIPTION,Elsa Bloodstone is a monster-hunting aristocrat who powers up a Supernatural team.
+ID_SHARD_EMMAFROST_NAME,Emma Frost
+ID_SHARD_EMMAFROST_DESCRIPTION,"The Hellfire Club's White Queen, Emma Frost dominates foes by bolstering her Mutant Villain allies."
+ID_SHARD_FALCON_NAME,Falcon
+ID_SHARD_FALCON_DESCRIPTION,A soldier who excels at War and deals massive damage to enemies who have multiple positive effects.
+ID_SHARD_FANTOMEX_NAME,Fantomex
+ID_SHARD_FANTOMEX_DESCRIPTION,"An artificially engineered mutant with three brains and a removable nervous system named E.V.A., Fantomex rains bullets down on his enemies. Lots of bullets."
+ID_SHARD_GAMBIT_NAME,Gambit
+ID_SHARD_GAMBIT_DESCRIPTION,"With a dash of Cajun charm, Gambit fights alongside the X-Men using his mutant ability to charge objects with kinetic energy, transforming them into deadly explosives."
+ID_SHARD_GAMORA_NAME,Gamora
+ID_SHARD_GAMORA_DESCRIPTION,An aggressive warrior who can attack again after defeating an enemy.
+ID_SHARD_GHOST_NAME,Ghost
+ID_SHARD_GHOST_DESCRIPTION,"Originally trained by S.H.I.E.L.D. as a spy, Ghost now uses her Quantum phasing powers as an untraceable thief."
+ID_SHARD_GHOSTRIDER_NAME,Ghost Rider
+ID_SHARD_GHOSTRIDER_DESCRIPTION,"As the Spirit of Vengeance, Ghost Rider brutally inflicts damage on those who harm his allies."
+ID_SHARD_GHOSTSPIDER_NAME,Ghost-Spider
+ID_SHARD_GHOSTSPIDER_DESCRIPTION,Ghost-Spider hails from a universe where Gwen Stacy was bitten by a radioactive spider. She's an agile Web-Warrior that can prevent enemies from using their abilities.
+ID_SHARD_GRAVITON_NAME,Graviton
+ID_SHARD_GRAVITON_DESCRIPTION,Graviton is an A.I.M. Controller who extends negative status effects on enemies.
+ID_SHARD_GREG_NAME,Undead Asgardian
+ID_SHARD_GREG_DESCRIPTION,Hela's Undead Asgardian pierces armor with his attacks and heals an Asgardian when defeated.
+ID_SHARD_GROOT_NAME,Groot
+ID_SHARD_GROOT_DESCRIPTION,A resilient healer who defends allies and has a chance to revive. Protective of Rocket Raccoon.
+ID_SHARD_GT_HANDCONTROL_HEALBLOCK_NAME,Hand Assassin
+ID_SHARD_GT_HANDCONTROL_HEALBLOCK_DESCRIPTION,A quick attacker who prevents healing on a single target.
+ID_SHARD_GT_HANDDMG_BONUS_NAME,Hand Blademaster
+ID_SHARD_GT_HANDDMG_BONUS_DESCRIPTION,A sword-wielding ninja who assails his target with multiple attacks.
+ID_SHARD_GT_HANDDMG_UNBUFF_NAME,Hand Archer
+ID_SHARD_GT_HANDDMG_UNBUFF_DESCRIPTION,A deadly archer who can clear effects off the enemy team.
+ID_SHARD_GT_HANDSUPPORT_HEAL_NAME,Hand Sorceress
+ID_SHARD_GT_HANDSUPPORT_HEAL_DESCRIPTION,A mystical healer who drains health when attacking.
+ID_SHARD_GT_HANDTANK_STEALTH_NAME,Hand Sentry
+ID_SHARD_GT_HANDTANK_STEALTH_DESCRIPTION,An expert martial artist who conceals his allies with smoke bombs.
+ID_SHARD_HANDCONTROL_HEALBLOCK_NAME,Hand Assassin
+ID_SHARD_HANDCONTROL_HEALBLOCK_DESCRIPTION,A quick attacker who prevents healing on a single target.
+ID_SHARD_HANDDMG_BONUS_NAME,Hand Blademaster
+ID_SHARD_HANDDMG_BONUS_DESCRIPTION,A sword-wielding ninja who assails his target with multiple attacks.
+ID_SHARD_HANDDMG_UNBUFF_NAME,Hand Archer
+ID_SHARD_HANDDMG_UNBUFF_DESCRIPTION,A deadly archer who can clear effects off the enemy team.
+ID_SHARD_HANDSUPPORT_HEAL_NAME,Hand Sorceress
+ID_SHARD_HANDSUPPORT_HEAL_DESCRIPTION,A mystical healer who drains health when attacking.
+ID_SHARD_HANDTANK_STEALTH_NAME,Hand Sentry
+ID_SHARD_HANDTANK_STEALTH_DESCRIPTION,An expert martial artist who conceals his allies with smoke bombs.
+ID_SHARD_HAWKEYE_NAME,Hawkeye
+ID_SHARD_HAWKEYE_DESCRIPTION,An expert archer who delivers unavoidable attacks to disable his foes.
+ID_SHARD_HEIMDALL_NAME,Heimdall
+ID_SHARD_HEIMDALL_DESCRIPTION,"The all-seeing guardian of the Bifrost, Heimdall removes Stealth from foes so Asgardians may strike."
+ID_SHARD_HELA_NAME,Hela
+ID_SHARD_HELA_DESCRIPTION,"The Goddess of Death, Hela spreads negative effects to foes while aided by her Undead Asgardian."
+ID_SHARD_HUMANTORCH_NAME,Human Torch
+ID_SHARD_HUMANTORCH_DESCRIPTION,"A hotheaded Blaster, the Human Torch burns his enemies and boosts his allies' offense."
+ID_SHARD_HULK_NAME,Hulk
+ID_SHARD_HULK_DESCRIPTION,An incredibly tough taunter who gets stronger when damaged.
+ID_SHARD_HYDRADMG_AOE_NAME,Hydra Grenadier
+ID_SHARD_HYDRADMG_AOE_DESCRIPTION,Hydra special weapons experts deliver explosive grenade attacks.
+ID_SHARD_HYDRADMG_BUFF_NAME,Hydra Rifle Trooper
+ID_SHARD_HYDRADMG_BUFF_DESCRIPTION,Hydra assault troops overwhelm enemies with storms of bullets.
+ID_SHARD_HYDRADMG_SINGLE_NAME,Hydra Sniper
+ID_SHARD_HYDRADMG_SINGLE_DESCRIPTION,Hydra snipers take careful aim before shooting to ensure perfect accuracy.
+ID_SHARD_HYDRASUPPORT_HEAL_NAME,Hydra Scientist
+ID_SHARD_HYDRASUPPORT_HEAL_DESCRIPTION,Hydra scientists use experimental treatments to heal their comrades.
+ID_SHARD_HYDRATANK_TAUNT_NAME,Hydra Armored Guard
+ID_SHARD_HYDRATANK_TAUNT_DESCRIPTION,The most loyal and resilient Hydra guards are trained to sacrifice themselves for the cause.
+ID_SHARD_ICEMAN_NAME,Iceman
+ID_SHARD_ICEMAN_DESCRIPTION,"One of the original X-Men, Bobby Drake's mutant power to control cold allows him to slow and freeze his enemies."
+ID_SHARD_IKARIS_NAME,Ikaris
+ID_SHARD_IKARIS_DESCRIPTION,"The Eternal Ikaris strafes foes with laser vision and uses super strength to slam down on them, fighting even more intensely when allied with Sersi."
+ID_SHARD_INVISIBLEWOMAN_NAME,Invisible Woman
+ID_SHARD_INVISIBLEWOMAN_DESCRIPTION,Invisible Woman is a Protector who grants Barrier to her teammates and reveals hidden enemies.
+ID_SHARD_IRONFIST_NAME,Iron Fist
+ID_SHARD_IRONFIST_DESCRIPTION,A versatile martial artist with healing abilities and a powerful single target attack.
+ID_SHARD_IRONHEART_NAME,Ironheart
+ID_SHARD_IRONHEART_DESCRIPTION,Ironheart is a teen super-genius who hinders enemies while enhancing Power Armor and Tech allies.
+ID_SHARD_IRONMAN_NAME,Iron Man
+ID_SHARD_IRONMAN_DESCRIPTION,A versatile damage dealer with high armor and low health.
+ID_SHARD_JANETHOR_NAME,Mighty Thor
+ID_SHARD_JANETHOR_DESCRIPTION,"Deemed worthy by Mjolnir, Jane Foster, also known as the Mighty Thor, attacks her foes with blinding lightning and charges up her ally Hero Asgardians."
+ID_SHARD_JESSICAJONES_NAME,Jessica Jones
+ID_SHARD_JESSICAJONES_DESCRIPTION,A resilient fighter who removes positive effects from enemies and clears negative effects from allies.
+ID_SHARD_JUBILEE_NAME,Jubilee
+ID_SHARD_JUBILEE_DESCRIPTION,"Half mallrat, half fireworks factory, Jubilee uses her explosive plasmoid powers to blind dweebs while her allies totally strike."
+ID_SHARD_JUGGERNAUT_NAME,Juggernaut
+ID_SHARD_JUGGERNAUT_DESCRIPTION,An unstoppable tank who taunts his foes and charges for devastating damage.
+ID_SHARD_KARNAK_NAME,Karnak
+ID_SHARD_KARNAK_DESCRIPTION,"An Inhuman Controller, Karnak uses his power to see his enemies' weakness to strike at them with surgical precision."
+ID_SHARD_KATEBISHOP_NAME,Kate Bishop
+ID_SHARD_KATEBISHOP_DESCRIPTION,"Kate Bishop's already impressive archery is made even more devastating with the addition of Hawkeye's Trick Arrows. Stubborn and a bit reckless, she's the perfect leader for the Young Avengers."
+ID_SHARD_KILLMONGER_NAME,Killmonger
+ID_SHARD_KILLMONGER_DESCRIPTION,A lethal assassin who drains health from enemies and eliminates weakened targets.
+ID_SHARD_KINGPIN_NAME,Kingpin
+ID_SHARD_KINGPIN_DESCRIPTION,A demanding crime boss who summons bodyguards and orders allies to attack.
+ID_SHARD_KITTYPRYDE_NAME,Kitty Pryde
+ID_SHARD_KITTYPRYDE_DESCRIPTION,"The heart of the X-Men, Kitty Pryde uses her power to phase through solid matter and her dragon pet, Lockheed, to disrupt enemies and protect allies."
+ID_SHARD_KORATH_NAME,Korath the Pursuer
+ID_SHARD_KORATH_DESCRIPTION,A relentless tracker who uses cybernetic enhancements to mark and disable his targets.
+ID_SHARD_KREECONTROL_ASSIST_NAME,Kree Noble
+ID_SHARD_KREECONTROL_ASSIST_DESCRIPTION,The elite classes of Kree society order others to vanquish their enemies.
+ID_SHARD_KREEDMG_OFFENSE_NAME,Kree Cyborg
+ID_SHARD_KREEDMG_OFFENSE_DESCRIPTION,"An elite warrior armed with cybernetics that enhance speed, and strength."
+ID_SHARD_KREEDMG_SPEED_NAME,Kree Reaper
+ID_SHARD_KREEDMG_SPEED_DESCRIPTION,A vicious hunter who doesn't give her prey a chance to recover.
+ID_SHARD_KREESUPPORT_HOT_NAME,Kree Oracle
+ID_SHARD_KREESUPPORT_HOT_DESCRIPTION,A purifier who utilizes Kree technology to regenerate and cleanse his allies.
+ID_SHARD_KREETANK_COUNTER_NAME,Kree Royal Guard
+ID_SHARD_KREETANK_COUNTER_DESCRIPTION,A heavily armored Kree warrior who intercepts attackers with brutal counterattacks.
+ID_SHARD_LADYDEATHSTRIKE_NAME,Lady Deathstrike
+ID_SHARD_LADYDEATHSTRIKE_DESCRIPTION,"Lady Deathstrike uses her cybernetics to slice at enemies, applying Bleed and making them susceptible to negative effects that the rest of Weapon X can take advantage of."
+ID_SHARD_LOCKJAW_NAME,Lockjaw
+ID_SHARD_LOCKJAW_DESCRIPTION,
+ID_SHARD_LOKI_NAME,Loki
+ID_SHARD_LOKI_DESCRIPTION,The Asgardian god of Mischief who misleads and confuses his foes.
+ID_SHARD_LOKIMINION_NAME,"Loki "
+ID_SHARD_LOKIMINION_DESCRIPTION,One of Loki's mirror images.
+ID_SHARD_LOKINPC_NAME,Loki
+ID_SHARD_LOKINPC_DESCRIPTION,The Asgardian god of Mischief who misleads and confuses his foes.
+ID_SHARD_LONGSHOT_NAME,Longshot
+ID_SHARD_LONGSHOT_DESCRIPTION,"Longshot is a genetically engineered hero from the Mojoverse, where he uses his luck powers to deal critical hits and become a hit with critics."
+ID_SHARD_LUKECAGE_NAME,Luke Cage
+ID_SHARD_LUKECAGE_DESCRIPTION,An extremely tough taunting protector with high damage and health.
+ID_SHARD_MADELYNEPRYOR_NAME,Madelyne Pryor
+ID_SHARD_MADELYNEPRYOR_DESCRIPTION,"A lovelorn clone of Jean Grey, Madelyne Pryor uses her superior psychic powers and sorcery to rain fury down on her opponents."
+ID_SHARD_MAGIK_NAME,Magik
+ID_SHARD_MAGIK_DESCRIPTION,"Magik uses dark sorcery to charge up her allies and her mutant teleportation power to get the drop on enemies. As the demonic Darkchylde, she can inflict heavy damage."
+ID_SHARD_MAGNETO_NAME,Magneto
+ID_SHARD_MAGNETO_DESCRIPTION,A master of magnetic fields who can shift enemy positions and empower his Brotherhood allies.
+ID_SHARD_MANTIS_NAME,Mantis
+ID_SHARD_MANTIS_DESCRIPTION,A cosmic healer who can stun foes and redistribute health to an injured ally. Her abilities are stronger in Raids.
+ID_SHARD_MARIAHILL_NAME,Maria Hill
+ID_SHARD_MARIAHILL_DESCRIPTION,Maria Hill is the Secret Avengers' Support who backs up her allies by calling in S.H.I.E.L.D. care packages and special agents to take out high priority targets.
+ID_SHARD_MBAKU_NAME,M'Baku
+ID_SHARD_MBAKU_DESCRIPTION,The noble leader of the Jabari tribe who protects his own and relentlessly assaults his enemies.
+ID_SHARD_MERCDMG_GENERAL_NAME,Mercenary Soldier
+ID_SHARD_MERCDMG_GENERAL_DESCRIPTION,A versatile soldier who can inflict area damage with grenades.
+ID_SHARD_MERCDMG_SINGLE_NAME,Mercenary Sniper
+ID_SHARD_MERCDMG_SINGLE_DESCRIPTION,An expert marksman who can deliver high damage with a single shot.
+ID_SHARD_MERCSUPPORT_BUFFS_NAME,Mercenary Lieutenant
+ID_SHARD_MERCSUPPORT_BUFFS_DESCRIPTION,A field combat leader who makes allies faster and stronger.
+ID_SHARD_MERCTANK_DEBUFF_NAME,Mercenary Riot Guard
+ID_SHARD_MERCTANK_DEBUFF_DESCRIPTION,A tough fighter who draws fire and reduces incoming damage.
+ID_SHARD_MERCTANK_TAUNT_NAME,Mercenary Bodyguard
+ID_SHARD_MERCTANK_TAUNT_DESCRIPTION,A bodyguard who distracts enemies to protect allies.
+ID_SHARD_MINERVA_NAME,Minn-Erva
+ID_SHARD_MINERVA_DESCRIPTION,A brilliant Kree geneticist that uses her mastery of biology to weaken foes and replenish her allies.
+ID_SHARD_MISTYKNIGHT_NAME,Misty Knight
+ID_SHARD_MISTYKNIGHT_DESCRIPTION,Misty Knight is the tough-as-nails leader of the Heroes for Hire who uses her cybernetic arm to break through her enemies' defenses.
+ID_SHARD_MRFANTASTIC_NAME,Mister Fantastic
+ID_SHARD_MRFANTASTIC_DESCRIPTION,Mister Fantastic is a Controller who uses his hyper-genius to remove positive effects from foes.
+ID_SHARD_MRSINISTER_NAME,Mister Sinister
+ID_SHARD_MRSINISTER_DESCRIPTION,"Mister Sinister is a master of genetics, capable of cloning enemies for his nefarious needs."
+ID_SHARD_MOJO_NAME,Mojo
+ID_SHARD_MOJO_DESCRIPTION,
+ID_SHARD_MOONDRAGON_NAME,Moondragon
+ID_SHARD_MOONDRAGON_DESCRIPTION,"Moondragon and her partner Phyla-Vell are key members of the Infinity Watch, with Moondragon providing psychic healing support."
+ID_SHARD_MOONKNIGHT_NAME,Moon Knight
+ID_SHARD_MOONKNIGHT_DESCRIPTION,"Returned to life by the god Khonshu, Moon Knight battles criminals and his own shattered psyche using random status effects."
+ID_SHARD_MORBIUS_NAME,Morbius
+ID_SHARD_MORBIUS_DESCRIPTION,"A brilliant biochemist with an insatiable appetite for blood, Morbius uses his fangs and claws to expose enemy weaknesses, and heals himself with every attack."
+ID_SHARD_MORGANLEFAY_NAME,Morgan Le Fay
+ID_SHARD_MORGANLEFAY_DESCRIPTION,"A former pupil to Merlin, Morgan Le Fay is a dominating sorceress that uses her abilities to manipulate the past and present."
+ID_SHARD_MSMARVEL_NAME,Ms. Marvel
+ID_SHARD_MSMARVEL_DESCRIPTION,A plucky Super Hero brawler who assists and generates ability energy for her allies.
+ID_SHARD_MULTIPLEMAN_NAME,Multiple Man
+ID_SHARD_MULTIPLEMAN_DESCRIPTION,"A one-Mutant army, Multiple Man is X-Factor's leader and Protector, creating duplicates to guard the team and overwhelm his foes."
+ID_SHARD_MULTIPLEMANMINION_NAME,Dupe
+ID_SHARD_MULTIPLEMANMINION_DESCRIPTION,A duplicate of Multiple Man that steals positive status effects from enemies.
+ID_SHARD_MYSTERIO_NAME,Mysterio
+ID_SHARD_MYSTERIO_DESCRIPTION,Mysterio is an enigmatic Controller who manipulates his enemies' status effects.
+ID_SHARD_MYSTERIOMINION_NAME,Mysterio
+ID_SHARD_MYSTERIOMINION_DESCRIPTION,One of Mysterio's mirror images.
+ID_SHARD_MYSTIQUE_NAME,Mystique
+ID_SHARD_MYSTIQUE_DESCRIPTION,A covert shapeshifter skilled at disabling stealthed targets and manipulating enemies into attacking each other.
+ID_SHARD_NAMOR_NAME,Namor
+ID_SHARD_NAMOR_DESCRIPTION,Namor is a mutant Brawler who helps the Fantastic Four wash away enemy teams during War.
+ID_SHARD_NEBULA_NAME,Nebula
+ID_SHARD_NEBULA_DESCRIPTION,A ruthless attacker who assails opponents with frequent attacks.
+ID_SHARD_NEGASONIC_NAME,Negasonic
+ID_SHARD_NEGASONIC_DESCRIPTION,"Negasonic Teenage Warhead is a Mutant Blaster whose explosive hits are so hard, they knock positive effects off her target."
+ID_SHARD_NICKFURY_NAME,Nick Fury
+ID_SHARD_NICKFURY_DESCRIPTION,The legendary leader who spreads advantages to allies and summons S.H.I.E.L.D. agents.
+ID_SHARD_NICOMINORU_NAME,Nico Minoru
+ID_SHARD_NICOMINORU_DESCRIPTION,"Teenage runaway and powerful sorcerer, Nico Minoru wields the Staff of One to boost her allies, protect herself, and lacerate her foes."
+ID_SHARD_NIGHTNURSE_NAME,Night Nurse
+ID_SHARD_NIGHTNURSE_DESCRIPTION,An excellent healer who is able to deploy a wide variety of health restoration abilities.
+ID_SHARD_NOBU_NAME,Nobu
+ID_SHARD_NOBU_DESCRIPTION,A mysterious ninja master who summons Hand Ninjas and specializes in ambushing his opponents.
+ID_SHARD_OKOYE_NAME,Okoye
+ID_SHARD_OKOYE_DESCRIPTION,The general of the Dora Milaje who uses precision attacks to break down enemy defenses.
+ID_SHARD_OMEGARED_NAME,Omega Red
+ID_SHARD_OMEGARED_DESCRIPTION,"Omega Red uses his Mutant Death Aura to apply the Trauma status to foes, preventing their negative effects from being removed or flipped."
+ID_SHARD_PHOENIX_NAME,Phoenix
+ID_SHARD_PHOENIX_DESCRIPTION,"Jean Grey absorbs her enemies negative status effects, being reborn as Dark Phoenix if she falls in battle."
+ID_SHARD_DARKPHOENIX_NAME,Dark Phoenix
+ID_SHARD_DARKPHOENIX_DESCRIPTION,"Risen from the ashes, the Dark Phoenix unleashes a torrent of cosmic fire on her enemies."
+ID_SHARD_PHYLAVELL_NAME,Phyla-Vell
+ID_SHARD_PHYLAVELL_DESCRIPTION,"Phyla-Vell and her partner Moondragon help form the Infinity Watch, with Phyla-Vell's Quantum Sword crushing enemies and bolstering the team's defenses."
+ID_SHARD_POLARIS_NAME,Polaris
+ID_SHARD_POLARIS_DESCRIPTION,"The daughter of Magneto, Polaris uses her magnetic Mutant powers to bolster ally barriers and prevents the enemy from recovering from their wounds."
+ID_SHARD_PROXIMAMIDNIGHT_NAME,Proxima Midnight
+ID_SHARD_PROXIMAMIDNIGHT_DESCRIPTION,"As the Black Order's deadly Controller, Proxima Midnight uses her spear to manipulate Status Effects."
+ID_SHARD_PUNISHER_NAME,Punisher
+ID_SHARD_PUNISHER_DESCRIPTION,A vicious blaster who deals high piercing damage to multiple targets.
+ID_SHARD_PSYLOCKE_NAME,Psylocke
+ID_SHARD_PSYLOCKE_DESCRIPTION,Psylocke's psychic abilities remove negative status effects from allies and place them on her foes.
+ID_SHARD_PVE_DDDOCTORDOOM_NAME,Doctor Doom
+ID_SHARD_PVE_DDDOCTORDOOM_DESCRIPTION,
+ID_SHARD_PVE_DDDOOMBOMB_NAME,Doom Bomb
+ID_SHARD_PVE_DDDOOMBOMB_DESCRIPTION,
+ID_SHARD_PVE_DDHUMANTORCH_NAME,Torch-Bot
+ID_SHARD_PVE_DDHUMANTORCH_DESCRIPTION,
+ID_SHARD_PVE_DDINVISIBLEWOMAN_NAME,Invisi-Bot
+ID_SHARD_PVE_DDINVISIBLEWOMAN_DESCRIPTION,
+ID_SHARD_PVE_DDMRFANTASTIC_NAME,Fantastic-Bot
+ID_SHARD_PVE_DDMRFANTASTIC_DESCRIPTION,
+ID_SHARD_PVE_DDTHING_NAME,Thing-Bot
+ID_SHARD_PVE_DDTHING_DESCRIPTION,
+ID_SHARD_PYRO_NAME,Pyro
+ID_SHARD_PYRO_DESCRIPTION,A hotheaded fire-starter who excels at burning enemies in an area to inflict damage over time.
+ID_SHARD_QUAKE_NAME,Quake
+ID_SHARD_QUAKE_DESCRIPTION,A S.H.I.E.L.D. agent who disrupts the enemy team by weakening groups of foes and removing their advantages.
+ID_SHARD_RAVAGERDMG_AOE_NAME,Ravager Boomer
+ID_SHARD_RAVAGERDMG_AOE_DESCRIPTION,A heavily armed space pirate who supports his allies with plasma cannon fire.
+ID_SHARD_RAVAGERSUPPORT_HEAL_NAME,Ravager Stitcher
+ID_SHARD_RAVAGERSUPPORT_HEAL_DESCRIPTION,A spacefaring doctor who prioritizes healing the most severe wounds over those that will merely leave a cool scar.
+ID_SHARD_RAVAGERTANK_TAUNT_NAME,Ravager Bruiser
+ID_SHARD_RAVAGERTANK_TAUNT_DESCRIPTION,A boarding expert who uses an energy shield to deflect attacks.
+ID_SHARD_REDGUARDIAN_NAME,Red Guardian
+ID_SHARD_REDGUARDIAN_DESCRIPTION,"Russian warrior of the Cold War, Red Guardian uses his boldness and military tactics to steal positive effects from enemies and grant them to his allies."
+ID_SHARD_REDSKULL_NAME,Red Skull
+ID_SHARD_REDSKULL_DESCRIPTION,"Hatred incarnate, Red Skull uses his cunning and ruthless efficiency to lead Hydra to victory in War."
+ID_SHARD_RESCUE_NAME,Rescue
+ID_SHARD_RESCUE_DESCRIPTION,An armored hero who protects allies with her barrier and enhances Power Armor allies' attacks.
+ID_SHARD_RHINO_NAME,Rhino
+ID_SHARD_RHINO_DESCRIPTION,"Big, strong, and tough, the Rhino is a heavy hitter. Blinding him will only make him mad."
+ID_SHARD_ROCKETRACCOON_NAME,Rocket Raccoon
+ID_SHARD_ROCKETRACCOON_DESCRIPTION,An aggressive scrapper who inflicts terrible damage to foes at range. Prefers to team up with Groot.
+ID_SHARD_ROCKETRACCOONOPERATOR_NAME,Rocket Raccoon
+ID_SHARD_ROCKETRACCOONOPERATOR_DESCRIPTION,An aggressive scrapper who inflicts terrible damage to foes at range. Prefers to team up with Groot.
+ID_SHARD_ROGUE_NAME,Rogue
+ID_SHARD_ROGUE_DESCRIPTION,"A Southern belle with the mutant power to drain her enemies through physical touch, Rogue tears down her foes' defenses and protects her allies."
+ID_SHARD_RONAN_NAME,Ronan the Accuser
+ID_SHARD_RONAN_DESCRIPTION,A Kree fanatic who summons Kree minions while denying the abilities of his foes with brutal strikes.
+ID_SHARD_SABRETOOTH_NAME,Sabretooth
+ID_SHARD_SABRETOOTH_DESCRIPTION,"A savage, regenerating brute that shreds single targets and chains to additional enemies."
+ID_SHARD_SCARLETSPIDER_NAME,Scarlet Spider
+ID_SHARD_SCARLETSPIDER_DESCRIPTION,"Scarlet Spider, a clone of Peter Parker that goes by Ben Reilly, uses his spider powers to debilitate enemies and strip them of their defenses."
+ID_SHARD_SCARLETWITCH_NAME,Scarlet Witch
+ID_SHARD_SCARLETWITCH_DESCRIPTION,A mystical controller that prolongs negative effects and redistributes health across her teammates.
+ID_SHARD_SCIENTISTSUPREME_NAME,Scientist Supreme
+ID_SHARD_SCIENTISTSUPREME_DESCRIPTION,A mad scientist who converts negative effects to positive effects while healing her allies.
+ID_SHARD_SCREAM_NAME,Scream
+ID_SHARD_SCREAM_DESCRIPTION,The vicious Scream is a Symbiote Controller who clears positive effects from her foes.
+ID_SHARD_SERSI_NAME,Sersi
+ID_SHARD_SERSI_DESCRIPTION,"Sersi copies her enemies' positive effects, and when her Eternal ally Ikaris is with her, also turns those effects against them!"
+ID_SHARD_SHANGCHI_NAME,Shang-Chi
+ID_SHARD_SHANGCHI_DESCRIPTION,Shang-Chi is a master of martial arts who turns his enemies' strengths against them while improving his Heroes for Hire allies.
+ID_SHARD_SHARONCARTER_NAME,Sharon Carter
+ID_SHARD_SHARONCARTER_DESCRIPTION,"Niece of the legendary Peggy Carter, Sharon Carter uses her covert weapons training to disable the enemy through negative status effects."
+ID_SHARD_SHATTERSTAR_NAME,Shatterstar
+ID_SHARD_SHATTERSTAR_DESCRIPTION,"Champion gladiator from the future of Mojoworld, Shatterstar uses his expert swordsmanship and mutant powers as X-Factor's offensive powerhouse."
+ID_SHARD_SHIELDDMG_AOE_NAME,S.H.I.E.L.D. Assault
+ID_SHARD_SHIELDDMG_AOE_DESCRIPTION,A jetpack assault soldier who provides air cover with area attacks.
+ID_SHARD_SHIELDDMG_DEFENSE_NAME,S.H.I.E.L.D. Trooper
+ID_SHARD_SHIELDDMG_DEFENSE_DESCRIPTION,S.H.I.E.L.D.'s frontline soldiers hold the line with defensive tactics and counterattacks.
+ID_SHARD_SHIELDSUPPORT_HEAL_NAME,S.H.I.E.L.D. Medic
+ID_SHARD_SHIELDSUPPORT_HEAL_DESCRIPTION,A S.H.I.E.L.D. agent trained to provide emergency medical attention in the field.
+ID_SHARD_SHIELDSUPPORT_STEALTH_NAME,S.H.I.E.L.D. Operative
+ID_SHARD_SHIELDSUPPORT_STEALTH_DESCRIPTION,An agent who specializes in protecting vulnerable VIP's with stealth and emergency medical aid.
+ID_SHARD_SHIELDTANK_STUN_NAME,S.H.I.E.L.D. Security
+ID_SHARD_SHIELDTANK_STUN_DESCRIPTION,A non-lethal combat specialist with a protective shield and a baton that stuns opponents.
+ID_SHARD_SHEHULK_NAME,She-Hulk
+ID_SHARD_SHEHULK_DESCRIPTION,"Delivering gamma-powered justice, She-Hulk applies negative effects to her foes with every smash."
+ID_SHARD_SHOCKER_NAME,Shocker
+ID_SHARD_SHOCKER_DESCRIPTION,Shocker uses his Tech sonic bursts to damage entire teams and strengthen his Sinister Six allies.
+ID_SHARD_SHURI_NAME,Shuri
+ID_SHARD_SHURI_DESCRIPTION,A scientific genius who uses her Vibranium-powered tech to heal those in need and power up her fellow Wakandans.
+ID_SHARD_SIF_NAME,Sif
+ID_SHARD_SIF_DESCRIPTION,"Shield maiden of Asgard, Sif combines counterattacks and Taunt to protect her fellow Asgardians."
+ID_SHARD_SILVERSAMURAI_NAME,Silver Samurai
+ID_SHARD_SILVERSAMURAI_DESCRIPTION,"Silver Samurai channels energy through the Muramasa Blade and, when charged, delivers a series of powerful strikes that no enemy can recover from."
+ID_SHARD_SILVERSURFER_NAME,Silver Surfer
+ID_SHARD_SILVERSURFER_DESCRIPTION,"The Sentinel of the Spaceways, Silver Surfer travels the cosmos using the Power Cosmic to atone for his time as the Herald of Galactus."
+ID_SHARD_SPIDERMAN_NAME,Spider-Man
+ID_SHARD_SPIDERMAN_DESCRIPTION,A quick attacker that weakens opponents and evades incoming attacks.
+ID_SHARD_SPIDERPUNK_NAME,Spider-Punk
+ID_SHARD_SPIDERPUNK_DESCRIPTION,Spider-Punk is a spider-powered rock star who uses his electric guitar together with his web abilities to deal big damage and disable groups of bad guys.
+ID_SHARD_SPIDERWOMAN_NAME,Spider-Woman
+ID_SHARD_SPIDERWOMAN_DESCRIPTION,"Spider-Woman is a formidable Blaster that uses pheromone powers to sap her enemy's strength, leaving them open to devastating attacks."
+ID_SHARD_SQUIRRELGIRL_NAME,Squirrel Girl
+ID_SHARD_SQUIRRELGIRL_DESCRIPTION,Squirrel Girl is a Young Avenger who uses her unbeatable squirrel powers to eat nuts and kick butts!
+ID_SHARD_STARLORD_NAME,Star-Lord
+ID_SHARD_STARLORD_DESCRIPTION,A charismatic leader who generates ability energy for allies and distracts enemies.
+ID_SHARD_STATURE_NAME,Stature
+ID_SHARD_STATURE_DESCRIPTION,"The daughter of Ant-Man, Stature uses her Pym Tech to grow to great heights, drawing fire and stomping down enemy defenses."
+ID_SHARD_STORM_NAME,Storm
+ID_SHARD_STORM_DESCRIPTION,A powerful weather controller that charges up devastating attacks to lead her mutant allies to victory.
+ID_SHARD_STRANGESUPREME_NAME,Doctor Strange (Heartless)
+ID_SHARD_STRANGESUPREME_DESCRIPTION,"A heartbroken Doctor Strange absorbed countless otherworldly beings in a search for enough power to return his lost love, but found only the destructive might to demolish his foes."
+ID_SHARD_STRYFE_NAME,Stryfe
+ID_SHARD_STRYFE_DESCRIPTION,Stryfe uses his mutant powers and cunning to grant himself powerful defensive effects.
+ID_SHARD_SUNFIRE_NAME,Sunfire
+ID_SHARD_SUNFIRE_DESCRIPTION,"Powered by solar radiation, Sunfire channels powerful flames to unleash an explosive blow against the enemy team."
+ID_SHARD_SWARM_NAME,Swarm
+ID_SHARD_SWARM_DESCRIPTION,"A deadly member of the Sinister Six, Swarm exists as a sentient hive of killer bees controlled by one evil mind."
+ID_SHARD_SYBIL_NAME,Kestrel
+ID_SHARD_SYBIL_DESCRIPTION,"A founding member of S.T.R.I.K.E., Kestrel uses her portal gun to prevent enemies from summoning and blast the weakest target among them."
+ID_SHARD_SYMBIOTESPIDERMAN_NAME,Spider-Man (Symbiote)
+ID_SHARD_SYMBIOTESPIDERMAN_DESCRIPTION,"Permanently bonded with the Venom symbiote, Spider-Man brutally takes down foes while powering up his Symbiote allies."
+ID_SHARD_TASKMASTER_NAME,Taskmaster
+ID_SHARD_TASKMASTER_DESCRIPTION,"A master of combat mimicry, Taskmaster uses his skill to steal positive effects from enemies."
+ID_SHARD_TCHALLA_NAME,Star-Lord (T'Challa)
+ID_SHARD_TCHALLA_DESCRIPTION,"Star-Lord (T'Challa) is the idealistic Ravager outlaw who uses gadgets, charm, and fancy footwork to embolden his allies, take power from the powerful, and stylishly defeat those who threaten his friends."
+ID_SHARD_THANOS_NAME,Thanos
+ID_SHARD_THANOS_DESCRIPTION,A Titan Eternal who delivers crushing blows that drain his foes and taunt his enemies.
+ID_SHARD_THING_NAME,The Thing
+ID_SHARD_THING_DESCRIPTION,The Thing is a rocky Brawler who deals massive damage to single targets.
+ID_SHARD_THOR_NAME,Thor
+ID_SHARD_THOR_DESCRIPTION,The God of Thunder who deals great damage and weakens multiple foes.
+ID_SHARD_THORNPC_NAME,Thor
+ID_SHARD_THORNPC_DESCRIPTION,The God of Thunder who deals great damage and weakens multiple foes.
+ID_SHARD_TOAD_NAME,Toad
+ID_SHARD_TOAD_DESCRIPTION,"A sniveling sidekick, Toad manipulates enemy Status Effects while striking from behind his allies."
+ID_SHARD_ULTIMUS_NAME,Ultimus
+ID_SHARD_ULTIMUS_DESCRIPTION,A Kree warlord and eternal who generates overwhelming energy blasts and force fields.
+ID_SHARD_ULTRON_NAME,Ultron
+ID_SHARD_ULTRON_DESCRIPTION,A powerful robotic tyrant that summons drones to eliminate any threat to his mechanical regime.
+ID_SHARD_ULTGREENGOBLIN_NAME,Green Goblin
+ID_SHARD_ULTGREENGOBLIN_DESCRIPTION,A fierce villain who strips positive effects from his foes with fire and explosives.
+ID_SHARD_ULTSPIDERMAN_NAME,Spider-Man (Miles)
+ID_SHARD_ULTSPIDERMAN_DESCRIPTION,Miles Morales controls the field with web blasts and electrical shocks that prolong negative effects and apply Disrupted.
+ID_SHARD_ULTRONDMG_DEFENSE_NAME,Ultron Fortifier
+ID_SHARD_ULTRONDMG_DEFENSE_DESCRIPTION,An Ultron drone who generates protective force fields.
+ID_SHARD_ULTRONDMG_OFFENSE_NAME,Ultron Incinerator
+ID_SHARD_ULTRONDMG_OFFENSE_DESCRIPTION,An Ultron drone who blasts targets with devastating heat rays.
+ID_SHARD_ULTRONDMG_SPEED_NAME,Ultron Accelerator
+ID_SHARD_ULTRONDMG_SPEED_DESCRIPTION,An Ultron drone who attacks targets rapidly with high-velocity rail guns.
+ID_SHARD_ULTRONSUPPORT_HEAL_NAME,Ultron Fabricator
+ID_SHARD_ULTRONSUPPORT_HEAL_DESCRIPTION,An Ultron drone who deploys nanobots to reconstruct allies.
+ID_SHARD_ULTRONTANK_TAUNT_NAME,Ultron Reinforcer
+ID_SHARD_ULTRONTANK_TAUNT_DESCRIPTION,An Ultron construction drone who taunts enemies to absorb damage.
+ID_SHARD_VALKYRIE_NAME,Valkyrie
+ID_SHARD_VALKYRIE_DESCRIPTION,"The leader of Odin's personal guard, Valkyrie boosts her fellow Hero Asgardians and deals out destructive blows to her opponents with her sword, Dragonfang."
+ID_SHARD_VENOM_NAME,Venom
+ID_SHARD_VENOM_DESCRIPTION,A symbiotic monstrosity that tears into opponents and spreads harmful effects.
+ID_SHARD_VISION_NAME,Vision
+ID_SHARD_VISION_DESCRIPTION,A synthetic being that avoids enemy attacks and disables his foes.
+ID_SHARD_VULTURE_NAME,Vulture
+ID_SHARD_VULTURE_DESCRIPTION,Vulture preys on enemies with negative status effects while dealing extra damage to City Heroes.
+ID_SHARD_WARMACHINE_NAME,War Machine
+ID_SHARD_WARMACHINE_DESCRIPTION,An armored soldier who uses an arsenal of weapons to bombard his foes. More powerful in Alliance Wars.
+ID_SHARD_WASP_NAME,Wasp
+ID_SHARD_WASP_DESCRIPTION,A highly elusive blaster capable of stunning and chaining to multiple opponents.
+ID_SHARD_WHITETIGER_NAME,White Tiger
+ID_SHARD_WHITETIGER_DESCRIPTION,"FBI agent turned street-level hero, Angela del Toro gained her Mystic Brawler powers when she inherited the White Tiger Amulet."
+ID_SHARD_WINTERSOLDIER_NAME,Winter Soldier
+ID_SHARD_WINTERSOLDIER_DESCRIPTION,An elite Hydra agent who assaults his chosen target with deadly attacks that prevent healing.
+ID_SHARD_WOLVERINE_NAME,Wolverine
+ID_SHARD_WOLVERINE_DESCRIPTION,A mutant armed with adamantium claws that ignore armor and tear through his opponents.
+ID_SHARD_WONG_NAME,Wong
+ID_SHARD_WONG_DESCRIPTION,"Keeper of knowledge within Kamar-Taj and a Master of the Mystic Arts, Wong uses his sorcery to defend and fortify his allies."
+ID_SHARD_X23_NAME,X-23
+ID_SHARD_X23_DESCRIPTION,X-23 is a savage Mutant Brawler who specializes in finishing off X-Force's wounded enemies.
+ID_SHARD_YELENA_NAME,Yelena Belova
+ID_SHARD_YELENA_DESCRIPTION,"Yelena Belova's training in Russia's ""Red Room"" allows her to strike with deadly precision, dealing bonus Crit damage to her enemies."
+ID_SHARD_YELLOWJACKET_NAME,Yellowjacket
+ID_SHARD_YELLOWJACKET_DESCRIPTION,"Darren Cross was the protege of Hank Pym before stealing his company and technology, creating the Yellowjacket suit to crush his foes."
+ID_SHARD_YONDU_NAME,Yondu
+ID_SHARD_YONDU_DESCRIPTION,A leader who can summon Ravager allies and deliver high piercing damage.
+ID_SHARD_YOYO_NAME,Yo-Yo
+ID_SHARD_YOYO_DESCRIPTION,"An Inhuman agent of S.H.I.E.L.D., Yo-Yo speeds to her allies' defense before returning where she started."
+ID_SHARD_ZEMO_NAME,Baron Zemo
+ID_SHARD_ZEMO_DESCRIPTION,"Aristocrat and Hydra commander, Baron Zemo is fueled by contempt for the weak and deals extra damage to minions."
+ID_SHARD_AIMOPERATOR_NAME,A.I.M. Operator
+ID_SHARD_AIMOPERATOR_DESCRIPTION,A.I.M. operator who coordinates the team.
+ID_SHARD_BLACKWIDOWOPERATOR_NAME,Black Widow
+ID_SHARD_BLACKWIDOWOPERATOR_DESCRIPTION,A stealthy saboteur who steals enemy advantages and delivers disabling attacks.
+ID_SHARD_DOCTORSTRANGEOPERATOR_NAME,Doctor Strange
+ID_SHARD_DOCTORSTRANGEOPERATOR_DESCRIPTION,Sorcerer Supreme and versatile healer with the ability to remove effects from friends and foes.
+ID_SHARD_HANDOPERATOR_NAME,Hand Operator
+ID_SHARD_HANDOPERATOR_DESCRIPTION,Hand ninja who can coordinate events around them.
+ID_SHARD_HEIMDALLOPERATOR_NAME,Heimdall
+ID_SHARD_HEIMDALLOPERATOR_DESCRIPTION,"The all-seeing guardian of the Bifrost, Heimdall removes Stealth from foes so Asgardians may strike."
+ID_SHARD_HYDRAOPERATOR_NAME,Hydra Operator
+ID_SHARD_HYDRAOPERATOR_DESCRIPTION,Hydra communications officer who can manipulate his surroundings.
+ID_SHARD_IRONFISTOPERATOR_NAME,Iron Fist
+ID_SHARD_IRONFISTOPERATOR_DESCRIPTION,A versatile martial artist with healing abilities and a powerful single target attack.
+ID_SHARD_KINGPINOPERATOR_NAME,Kingpin
+ID_SHARD_KINGPINOPERATOR_DESCRIPTION,A demanding crime boss who summons bodyguards and orders allies to attack.
+ID_SHARD_KREEOPERATOR_NAME,Kree Operator
+ID_SHARD_KREEOPERATOR_DESCRIPTION,Kree officer in charge of operations.
+ID_SHARD_MERCOPERATOR_NAME,Mercenary Operator
+ID_SHARD_MERCOPERATOR_DESCRIPTION,Mercenary communications officer who can manipulate his surroundings.
+ID_SHARD_NICKFURYOPERATOR_NAME,Nick Fury
+ID_SHARD_NICKFURYOPERATOR_DESCRIPTION,The legendary leader who spreads advantages to allies and summons S.H.I.E.L.D. agents.
+ID_SHARD_NOBUOPERATOR_NAME,Nobu
+ID_SHARD_NOBUOPERATOR_DESCRIPTION,A mysterious ninja master who summons Hand Ninjas and specializes in ambushing his opponents.
+ID_SHARD_REDSKULLOPERATOR_NAME,Red Skull
+ID_SHARD_REDSKULLOPERATOR_DESCRIPTION,"Hatred incarnate, Red Skull uses his cunning and ruthless efficiency to lead Hydra to victory in War."
+ID_SHARD_SHIELDOPERATOR_NAME,S.H.I.E.L.D. Operator
+ID_SHARD_SHIELDOPERATOR_DESCRIPTION,S.H.I.E.L.D. communications officer in charge of operations on the battlefield
+ID_SHARD_THOROPERATOR_NAME,Thor
+ID_SHARD_THOROPERATOR_DESCRIPTION,The God of Thunder who deals great damage and weakens multiple foes.
+ID_SHARD_ULTRONOPERATOR_NAME,Ultron
+ID_SHARD_ULTRONOPERATOR_DESCRIPTION,A powerful robotic tyrant that summons drones to eliminate any threat to his mechanical regime.
+ID_SHARD_VIPMALEAOPERATOR_NAME,Civilian
+ID_SHARD_VIPMALEAOPERATOR_DESCRIPTION,Civilian in need of saving.
+ID_SHARD_VIPMALEBOPERATOR_NAME,Civilian
+ID_SHARD_VIPMALEBOPERATOR_DESCRIPTION,Civilian in need of saving.
+ID_SHARD_VIPMALECOPERATOR_NAME,Civilian
+ID_SHARD_VIPMALECOPERATOR_DESCRIPTION,Civilian in need of saving.
+ID_SHARD_YONDUOPERATOR_NAME,Yondu
+ID_SHARD_YONDUOPERATOR_DESCRIPTION,A leader who can summon Ravager allies and deliver high piercing damage.
+ID_SHARD_S_HANDDMG_BONUS_NAME,Hand Blademaster
+ID_SHARD_S_HANDDMG_BONUS_DESCRIPTION,A sword-wielding ninja who assails his target with multiple attacks.
+ID_SHARD_S_HANDDMG_UNBUFF_NAME,Hand Archer
+ID_SHARD_S_HANDDMG_UNBUFF_DESCRIPTION,A deadly archer who can clear effects off the enemy team.
+ID_SHARD_S_HYDRADMG_BUFF_NAME,Hydra Rifle Trooper
+ID_SHARD_S_HYDRADMG_BUFF_DESCRIPTION,Hydra assault troops overwhelm enemies with storms of bullets.
+ID_SHARD_S_HYDRADMG_SINGLE_NAME,Hydra Sniper
+ID_SHARD_S_HYDRADMG_SINGLE_DESCRIPTION,Hydra snipers take careful aim before shooting to ensure perfect accuracy.
+ID_SHARD_S_HYDRASUPPORT_HEAL_NAME,Hydra Scientist
+ID_SHARD_S_HYDRASUPPORT_HEAL_DESCRIPTION,Hydra scientists use experimental treatments to heal their comrades.
+ID_SHARD_S_KREECONTROL_ASSIST_NAME,Kree Noble
+ID_SHARD_S_KREECONTROL_ASSIST_DESCRIPTION,The elite classes of Kree society order others to vanquish their enemies.
+ID_SHARD_S_KREEDMG_SPEED_NAME,Kree Reaper
+ID_SHARD_S_KREEDMG_SPEED_DESCRIPTION,A vicious hunter who doesn't give her prey a chance to recover.
+ID_SHARD_S_RAVAGERDMG_AOE_NAME,Ravager Boomer
+ID_SHARD_S_RAVAGERDMG_AOE_DESCRIPTION,A heavily armed space pirate who supports his allies with plasma cannon fire.
+ID_SHARD_S_RAVAGERSUPPORT_HEAL_NAME,Ravager Stitcher
+ID_SHARD_S_RAVAGERSUPPORT_HEAL_DESCRIPTION,A spacefaring doctor who prioritizes healing the most severe wounds over those that will merely leave a cool scar.
+ID_SHARD_S_SHIELDSUPPORT_STEALTH_NAME,S.H.I.E.L.D. Operative
+ID_SHARD_S_SHIELDSUPPORT_STEALTH_DESCRIPTION,An agent who specializes in protecting vulnerable VIP's with stealth and emergency medical aid.
+ID_SHARD_S_SHIELDTANK_STUN_NAME,S.H.I.E.L.D. Security
+ID_SHARD_S_SHIELDTANK_STUN_DESCRIPTION,A non-lethal combat specialist with a protective shield and a baton that stuns opponents.
+ID_SHARD_WAR_SHIELDDMG_AOE_NAME,S.H.I.E.L.D. Assault
+ID_SHARD_WAR_SHIELDDMG_AOE_DESCRIPTION,A jetpack assault soldier who provides air cover with area attacks.
+ID_SHARD_WAR_SHIELDDMG_DEFENSE_NAME,S.H.I.E.L.D. Trooper
+ID_SHARD_WAR_SHIELDDMG_DEFENSE_DESCRIPTION,S.H.I.E.L.D.'s frontline soldiers hold the line with defensive tactics and counterattacks.
+ID_SHARD_WAR_SHIELDSUPPORT_HEAL_NAME,S.H.I.E.L.D. Medic
+ID_SHARD_WAR_SHIELDSUPPORT_HEAL_DESCRIPTION,A S.H.I.E.L.D. agent trained to provide emergency medical attention in the field.
+ID_SHARD_WAR_SHIELDSUPPORT_STEALTH_NAME,S.H.I.E.L.D. Operative
+ID_SHARD_WAR_SHIELDSUPPORT_STEALTH_DESCRIPTION,An agent who specializes in protecting vulnerable VIP's with stealth and emergency medical aid.
+ID_SHARD_WAR_SHIELDTANK_STUN_NAME,S.H.I.E.L.D. Security
+ID_SHARD_WAR_SHIELDTANK_STUN_DESCRIPTION,A non-lethal combat specialist with a protective shield and a baton that stuns opponents.
+ID_SHARD_NUEHANDSUPPORT_HEAL_NAME,Hand Sorceress
+ID_SHARD_NUEHANDSUPPORT_HEAL_DESCRIPTION,A mystical healer who drains health when attacking.
+ID_SHARD_NUESPIDERMAN_NAME,"Spider-Man "
+ID_SHARD_NUESPIDERMAN_DESCRIPTION,A quick attacker that weakens opponents and evades incoming attacks.
+ID_SHARD_TESTMAN_NAME,Test-Man
+ID_SHARD_TESTMAN_DESCRIPTION,IGNORE ME!

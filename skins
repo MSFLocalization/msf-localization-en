@@ -1,0 +1,115 @@
+id,translation
+ID_SKIN_LTC_NAME,Costume Credits
+ID_SKIN_LTC_DESCRIPTION,Use Costume Credits to purchase Costumes.
+ID_SKIN_STC_NAME,Yellow Phase Bits
+ID_SKIN_STC2_NAME,Yellow Flash Bits
+ID_SKIN_STC3_NAME,Pink Phase Bits
+ID_SKIN_STC4_NAME,Pink Flash Bits
+ID_SKIN_STC5_NAME,Purple Phase Bits
+ID_SKIN_STC6_NAME,Purple Flash Bits
+ID_SKIN_STC7_NAME,Silver Phase Bits
+ID_SKIN_STC8_NAME,Silver Flash Bits
+ID_SKIN_STC9_NAME,Gold Phase Bits
+ID_SKIN_STC10_NAME,Gold Flash Bits
+ID_SKIN_STC_DESCRIPTION,Use {stcName} to purchase Costumes. These will expire in <color=#FF0000>{time}</color>\n\n<color=#7578AD>Expired Bits will be converted to {ltcName}</color>
+ID_SKIN_STC_DESCRIPTION2,Use {stcName} to purchase Costumes.
+ID_SKIN_OWNED,Owned
+ID_SKIN_CURRENCY_OVER_CAP_TITLE,Maximum Currency Reached
+ID_SKIN_CURRENCY_OVER_CAP_DESC,Spend Costume Currency and get under the cap to open Orbs that have a chance to award Costume Currencies.
+ID_SKIN_BARONMORDO_SKIN01_NAME,Multiverse of Madness
+ID_SKIN_BARONMORDO_SKIN01_DESC,"After leaving Kamar-Taj, Mordo dedicated himself to restore the imbalances in nature caused by people who practice the mystic arts.\n\n First Appearance: Marvel Studios' Doctor Strange in the Multiverse of Madness [2022]"
+ID_SKIN_BISHOP_SKIN01_NAME,Marauders
+ID_SKIN_BISHOP_SKIN01_DESC,"Stepping into his new role as the Red Bishop of the Hellfire Trading Company, Bishop unveiled this black and red costume with his signature scarf.\n\nFirst Appearance: Marauders (2019) #10"
+ID_SKIN_BLACKBOLT_SKIN01_NAME,S.T.R.I.K.E. Anniversary
+ID_SKIN_BLACKBOLT_SKIN01_DESC,"Black Bolt leaves the room speechless in his S.T.R.I.K.E. dress uniform, which combines aspects of his royal raiment to showcase his regal flare.\n\n First Appearance: MARVEL Strike Force [Fourth Anniversary]"
+ID_SKIN_BLACKWIDOW_SKIN01_SNOWSUIT_NAME,Snow Suit
+ID_SKIN_BLACKWIDOW_SKIN01_SNOWSUIT_DESC,"When a dangerous conspiracy with ties to her past arose, Black Widow wore a white version of her costume to confront the darkest parts of her ledger.\n\nFirst Appearance: Marvel Studios' Black Widow [2021]"
+ID_SKIN_CAPTAINMARVEL_SKIN01_VERS_NAME,Vers
+ID_SKIN_CAPTAINMARVEL_SKIN01_VERS_DESC,"Before donning the colors of the U.S. Air Force, an amnesiac Captain Marvel went by the name 'Vers' and wore the uniform of an elite team of Kree commandos known as the Starforce.\n\nFirst Appearance: Marvel Studios' Captain Marvel [2019]"
+ID_SKIN_CAPTAINAMERICA_SKIN01_CLASSIC_NAME,Classic
+ID_SKIN_CAPTAINAMERICA_SKIN01_CLASSIC_SHIELD_NAME,Classic (Classic Shield)
+ID_SKIN_CAPTAINAMERICA_SKIN01_CLASSIC_CLASSICSHIELD_NAME,Classic (Classic Shield)
+ID_SKIN_CAPTAINAMERICA_SKIN01_CLASSIC_DESC,"A Super-Soldier Serum transformed sickly Steve Rogers into the star-spangled Captain America, who wore this uniform to fight for the Allies in World War II and alongside the Avengers decades later.\n\nFirst Appearance: Captain America Comics (1941) #1"
+ID_SKIN_CARNAGE_SKIN01_ABSOLUTECARNAGE_NAME,Absolute Carnage
+ID_SKIN_CARNAGE_SKIN01_ABSOLUTECARNAGE_DESC,"Resurrected by a cult that worships Knull, the symbiote god, this undead version of Cletus Kasady leaves a bloody trail through New York city as he hunts down anyone who's ever bonded with a symbiote.\n\nFirst Appearance: Absolute Carnage (2019) #1"
+ID_SKIN_CYCLOPS_SKIN01_DAWNOFX_NAME,Dawn of X
+ID_SKIN_CYCLOPS_SKIN01_DAWNOFX_DESC,"New beginnings demand a new look, so the X-Men's leader changed to this uniform after declaring the island of Krakoa a new sovereign Mutant nation.\n\nFirst Appearance: House of X (2019) #1"
+ID_SKIN_DAREDEVIL_SKIN01_SHADOWLAND_NAME,Shadowland
+ID_SKIN_DAREDEVIL_SKIN01_SHADOWLAND_DESC,"After years of trying to defeat The Hand, Daredevil instead became its leader, hoping to use the ninja cult's power for good. As a creeping darkness took hold of his soul, Daredevil altered his uniform to match it.\n\nFirst Appearance: Shadowland (2010) #1"
+ID_SKIN_DEADPOOL_SKIN01_XFORCE_NAME,X-Force
+ID_SKIN_DEADPOOL_SKIN01_XFORCE_DESC,"When Deadpool joined X-Force, a covert black-ops mutant team, the Merc with a Mouth left his bright red outfit behind, donning this sleek monochromatic look.\n\nFirst Appearance: Uncanny X-Force (2010) #1"
+ID_SKIN_DOCTORSTRANGE_SKIN01_WHATIF_NAME,What If...?
+ID_SKIN_DOCTORSTRANGE_SKIN01_WHATIF_DESC,"In a world parallel to the one you know, Stephen Strange goes down a dark path to change his past, one filled with even darker magic.\n\nFirst Appearance: Marvel Studios' What If...? [2021]"
+ID_SKIN_ELEKTRA_SKIN01_MODERN_NAME,Modern
+ID_SKIN_ELEKTRA_SKIN01_MODERN_DESC,"Looking for a fresh start, the ninja assassin known as Elektra needed a new look to patrol her new home - the streets of Las Vegas!\n\nFirst Appearance: Elektra (2017) #1"
+ID_SKIN_EMMAFROST_SKIN01_DAWNOFX_NAME,Dawn of X
+ID_SKIN_EMMAFROST_SKIN01_DAWNOFX_DESC,"Whether it's sitting on the Quiet Council of Krakoa during the day or running the Hellfire Trading Club at night, Emma Frost has a dazzling and elegant outfit for any occasion.\n\nFirst Appearance: Giant-Size X-Men: Jean Grey and Emma Frost (2020) #1"
+ID_SKIN_GAMORA_SKIN01_REQUIEM_NAME,Requiem
+ID_SKIN_GAMORA_SKIN01_REQUIEM_HOOD_NAME,Requiem (Hood Up)
+ID_SKIN_GAMORA_SKIN01_REQUIEM_DESC,"After learning a piece of her essence was trapped inside the Soul Stone, Gamora embarked on a quest to find it. Abandoned by her teammates, she adopted the identity of Requiem to hunt down the stones, letting no one stand in her way.\n\nFirst Appearance: Infinity Countdown (2018) #4"
+ID_SKIN_GROOT_SKIN01_FULLYTRIMMED_NAME,Fully Trimmed
+ID_SKIN_GROOT_SKIN01_FULLYTRIMMED_DESC,I am festive.\n\nFirst Appearance: MARVEL Strike Force [2021]
+ID_SKIN_HAWKEYE_SKIN01_HAWKGUY_NAME,Hawkguy
+ID_SKIN_HAWKEYE_SKIN01_HAWKGUY_VAR01_NAME,Hawkguy - Hearing Aids
+ID_SKIN_HAWKEYE_SKIN01_HAWKGUY_DESC,"What does an Avenger do in his off time? He rescues a one-eyed dog, brushes up on his sign language, and protects his building of everyday people from Tracksuit Draculas, bro.\n\nFirst Appearance: Hawkeye (2012) #9"
+ID_SKIN_ICEMAN_SKIN01_ALLNEW_NAME,All-New X-Men
+ID_SKIN_ICEMAN_SKIN01_ALLNEW_DESC,"Pulled from the past by Beast, teen versions of the original X-Men found themselves fighting Mutant injustice in the present. Mentored by Kitty Pryde, the team got new uniforms to help them face their futures head-on.\n\nFirst Appearance: All-New X-Men (2012) #18"
+ID_SKIN_INVISIBLEWOMAN_SKIN01_ULTIMATE_NAME,Ultimate
+ID_SKIN_INVISIBLEWOMAN_SKIN01_ULTIMATE_DESC,"The Fantastic Four's costumes are made of Unstable Molecules, allowing them to take any form, including Sue Storm's casual, post-mission look.\n\nFirst Appearance: Ultimate Fantastic Four (2003) #21"
+ID_SKIN_JUBILEE_SKIN01_NAME,Year of the Tiger
+ID_SKIN_JUBILEE_SKIN01_DESC,Jubilee shines for the Lunar New Year with a dazzling new outfit honoring the Year of the Tiger.\n\nFirst Appearance: MARVEL Strike Force [2022]
+ID_SKIN_KILLMONGER_SKIN01_NAME,Scarred Warrior
+ID_SKIN_KILLMONGER_SKIN01_DESC,"While battling Black Panther at the Warrior Falls of Wakanda, Killmonger revealed his scars, each representing someone who met their end at the hands of the mercenary.\n\nFirst Appearance: Marvel Studios' Black Panther [2018]"
+ID_SKIN_LOKI_SKIN01_FORPRESIDENT_NAME,President Loki
+ID_SKIN_LOKI_SKIN01_FORPRESIDENT_DESC,"Prince of Asgard, trickster god, leader of armies, and wielder of Infinity Stones. Come on, you'd vote for him, wouldn't you?\n\nFirst Appearance: Marvel Studios' Loki [2021]"
+ID_SKIN_LUKECAGE_SKIN01_POWERMAN_NAME,Power Man
+ID_SKIN_LUKECAGE_SKIN01_POWERMAN_DESC,"The subject of a prison experiment that gave him unbreakable skin and super strength, Carl Lucas escaped, adopting this new look and the name Luke Cage: Power Man! All part of the Super Hero scene.\n\nFirst Appearance: Luke Cage, Hero for Hire (1972) #1"
+ID_SKIN_MISTYKNIGHT_SKIN01_NAME,Private Eye
+ID_SKIN_MISTYKNIGHT_SKIN01_REDBLACK_NAME,Private Eye (Variant)
+ID_SKIN_MISTYKNIGHT_SKIN01_WHITENAVY_NAME,Private Eye (Variant)
+ID_SKIN_MISTYKNIGHT_SKIN01_WHITEPURPLE_NAME,Private Eye (Variant)
+ID_SKIN_MISTYKNIGHT_SKIN01_DESC,"Co-founder of the Nightwing Restorations detective agency, Misty Knight solves mysteries involving mutants, ninjas and everyday New Yorkers with her partner, Colleen Wing.\n\n First Appearance: Marvel Team-Up (1972) #64"
+ID_SKIN_MOONKNIGHT_SKIN01_NAME,Mr. Knight
+ID_SKIN_MOONKNIGHT_SKIN01_DESC,"A deadly sleuth in a sharp white suit, Mr. Knight is only one of the many aspects of Moon Knight's personality.\n\n First Appearance: Marvel Studios' Moon Knight [2022]"
+ID_SKIN_MSMARVEL_SKIN01_NAME,No Normal
+ID_SKIN_MSMARVEL_SKIN01_DESC,"Trying to find a place in her family and society, Kamala Khan also has to navigate her newly emerged Inhuman powers as Ms. Marvel!\n\n First Appearance: Ms. Marvel (2014) #11"
+ID_SKIN_NICKFURY_SKIN01_ANNIVERSARY_NAME,S.T.R.I.K.E. Anniversary
+ID_SKIN_NICKFURY_SKIN01_ANNIVERSARY_DESC,"Nick Fury dons his S.T.R.I.K.E. dress uniform, which combines traditional military regalia with Fury's own indelible sense of cool.\n\nFirst Appearance: MARVEL Strike Force [Third Anniversary]"
+ID_SKIN_NICOMINORU_SKIN01_NAME,Runaways
+ID_SKIN_NICOMINORU_SKIN01_DESC,"Trapped and betrayed, Nico Minoru learns the secret to the power of the Staff of One and forges a new path forward for herself.\n\n First Appearance: Runaways (2017) #15"
+ID_SKIN_PHOENIX_SKIN01_RESSURECTION_NAME,Endsong
+ID_SKIN_PHOENIX_SKIN01_RESSURECTION_DESC,"Resurrected again by the Phoenix Force, Jean Grey and the cosmic being fought for control before the love of the X-Men allowed her to find peace and unity, transforming into the White Phoenix.\n\nFirst Appearance: X-Men: Phoenix – Endsong #5 (2005)"
+ID_SKIN_POLARIS_SKIN01_NAME,X-Factor
+ID_SKIN_POLARIS_SKIN01_DESC,Does the Krakoan Council need Proof of Death for a loved one before they can be resurrected? No problem. Call on Polaris and X-Factor Investigations for all your missing Mutant needs.\n\n First Appearance: X-Factor (2020) #2
+ID_SKIN_SAMWILSON_SKIN01_NAME,All-New
+ID_SKIN_SAMWILSON_SKIN01_DESC,"Sam Wilson takes up the Captain America mantle, raises his shield, and dons a new costume to defend those who cannot defend themselves.\n\n First Appearance: All-New Captain America (2014) #1"
+ID_SKIN_SCARLETWITCH_SKIN01_WANDAVISION_NAME,WandaVision (50s)
+ID_SKIN_SCARLETWITCH_SKIN01_WANDAVISION_DESC,"Filmed before a live studio audience, Wanda and her husband Vision navigate everyday suburban life while hiding their super powers from nosey neighbors like Agnes.\n\nFirst Appearance: Marvel Studios' WandaVision [2021]"
+ID_SKIN_SHANGCHI_SKIN01_BATTLEARMOR_NAME,Battle Armor
+ID_SKIN_SHANGCHI_SKIN01_BATTLEARMOR_DESC,"Shang-Chi dons this uniform to confront a past he thought he left behind, as he's drawn into the web of the mysterious Ten Rings organization.\n\nFirst Appearance: Marvel Studios' Shang Chi and the Legend of the Ten Rings [2021]"
+ID_SKIN_SILVERSURFER_SKIN01_TOTALLYRADD_NAME,Totally Radd
+ID_SKIN_SILVERSURFER_SKIN01_TOTALLYRADD_DESC,"Traversing the spaceways as an immortal being has some advantages, like knowing all the sickest spots for snowboarding in the galaxy.\n\nFirst Appearance: MARVEL Strike Force [2021]"
+ID_SKIN_SPIDERMAN_SKIN01_NOWAYHOME_NAME,No Way Home
+ID_SKIN_SPIDERMAN_SKIN01_NOWAYHOME_DESC,"After seeking help from Doctor Strange, Spider-Man donned this suit imbued with mystic powers in order to find his way back home.\n\nFirst Appearance: Marvel Studio's Spider-Man: No Way Home [2021]"
+ID_SKIN_STORM_SKIN01_NAME,Classic
+ID_SKIN_STORM_SKIN01_DESC,"Storm, an Omega level mutant once hailed as a Goddess, lent her powers to Professor Xavier and gained this sleek, iconic costume.\n\n First Appearance: Giant-Size X-Men (1975) #1"
+ID_SKIN_TASKMASTER_SKIN01_REDROOM_NAME,Red Room
+ID_SKIN_TASKMASTER_SKIN01_REDROOM_DESC,"Assigned to hunt down Black Widow and her family, Taskmaster combines this high-tech armor and an ability to mimic any attack to achieve brutal results.\n\nFirst Appearance: Marvel Studios' Black Widow [2021]"
+ID_SKIN_THOR_SKIN01_SIEGE_NAME,Siege
+ID_SKIN_THOR_SKIN01_SIEGE_DESC,"In the wake of the super hero Civil War, Thor returned to Earth from exile, bringing all of Asgard with him. With Asgard now floating above Oklahoma, the God of Thunder's new armor helped him protect his people.\n\nFirst Appearance: Thor (2007) #1"
+ID_SKIN_THOR_SKIN02_NAME,Love and Thunder
+ID_SKIN_THOR_SKIN02_DESC,Thor battles his inner demons and a galactic threat alongside old friends in this hammer-striking new armor.\n\n First Appearance: Marvel Studios' Thor: Love and Thunder [2022]
+ID_SKIN_ULTRON_SKIN01_WHATIF_NAME,What If...?
+ID_SKIN_ULTRON_SKIN01_WHATIF_DESC,"In a world in which the Avengers could not stop Ultron, he acquired the body of the Vision and achieved his perfect form.\n\nFirst Appearance: Marvel Studios' What If...? [2021]"
+ID_SKIN_VENOM_SKIN01_ANCIENTPHARAOH_NAME,Ancient Pharaoh
+ID_SKIN_VENOM_SKIN01_ANCIENTPHARAOH_DESC,"Inspired by the Egyptian world of Forever Yesterday, Venom has accepted the power of the Ka Stone, morphing his symbiote-enhanced body with the mystical forces of the Sphinx to craft a pharaonic form!\n\nFirst Appearance: MARVEL Strike Force [2021]"
+ID_SKIN_VISION_SKIN01_WANDAVISION_NAME,WandaVision (50s)
+ID_SKIN_VISION_SKIN01_WANDAVISION_DESC,"Filmed before a live studio audience, Vision and his wife Wanda navigate everyday suburban life while hiding their super powers from his boss and coworkers.\n\nFirst Appearance: Marvel Studios' WandaVision [2021]"
+ID_SKIN_WOLVERINE_SKIN01_WEAPONX_NAME,Weapon X
+ID_SKIN_WOLVERINE_SKIN01_WEAPONX_DESC,"Years before joining the X-Men, Logan was brainwashed by the shadowy organization Weapon Plus and turned into a mindless killing machine known as Weapon X.\n\nFirst Appearance: Marvel Comics Presents (1988) #79"
+ID_SKIN_WONG_SKIN01_NAME,Sorcerer Supreme
+ID_SKIN_WONG_SKIN01_DESC,"Chosen as the new Sorcerer Supreme, Wong uses his remarkable abilities to defend the mystical barrier that protects our world from invasions by other realms.\n\n First Appearance: Marvel Studios' Doctor Strange in the Multiverse of Madness [2022]"
+ID_SKIN_ZEMO_SKIN01_WINTERREGENT_NAME,Winter Regent
+ID_SKIN_ZEMO_SKIN01_WINTERREGENT_DESC,"On cold nights, Zemo has been known to show off his aristocratic roots with his traditional regal winter armor.\n\nFirst Appearance: MARVEL Strike Force [2021]"
+ID_OF_NA_EMMAFROST_COSTUME,Dawn Of X Offer
+ID_OF_DE_EMMAFROST_COSTUME,Shine bright like a diamond in this awesome costume with this offer! Outfit your Emma Frost with the <color=#b821e2>Dawn of X Costume</color> and become the envy of your opponents in Alliance War.\nMake sure to go to your Roster and equip this costume today!

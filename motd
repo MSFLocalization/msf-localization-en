@@ -1,0 +1,1286 @@
+id,translation
+ID_MOTD_NA_WELCOME,Welcome!
+ID_MOTD_DE_WELCOME,Thank you for playing MARVEL Strike Force!
+ID_MOTD_NA_WFH_CARE_PACKAGE,"Stay safe, Commander"
+ID_MOTD_DE_WFH_CARE_PACKAGE,Log in each day to receive special supply drops!
+ID_MOTD_NA_GEAR,Remember to EQUIP GEAR
+ID_MOTD_DE_GEAR,Gear greatly boosts your characters' stats!
+ID_MOTD_NA_RAID,You've unlocked Alliance Raids!
+ID_MOTD_DE_RAID,Participate in raids to earn rare Ability Materials
+ID_MOTD_NA_REDSTAR,Red Star Promotions
+ID_MOTD_DE_REDSTAR,Transform your roster into an elite squad with Red Star Promotions!
+ID_MOTD_NA_ISO8,You've unlocked Iso-8!
+ID_MOTD_DE_ISO8,Customize your characters like never before!
+ID_DR_MOTD_NA_WOLVERINE,Daily Objectives: Wolverine!
+ID_DR_MOTD_DE_WOLVERINE,Earn Wolverine shards by completing your Daily Objectives every day!
+ID_MOTD_NA_CROSSBONES,Recruit Crossbones!
+ID_MOTD_DE_CROSSBONES,Earn Crossbones shards by completing the Double-Crossed event
+ID_MOTD_NA_ACHIEVEMENTS_ADDITION,More Achievements Added
+ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing your roster!
+ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
+ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
+ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PDT) (04/25).
+ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
+ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
+ID_MOTD_NA_DARKDIMENSION,Dark Dimension
+ID_MOTD_DE_DARKDIMENSION,Build a 6-star squad to enter - if you dare!
+ID_MOTD_NA_DARKDIMENSION_3,Dark Dimension III
+ID_MOTD_DE_DARKDIMENSION_3,An insidious new realm has opened up - enter if you dare!
+ID_MOTD_NA_WARWEB,Alliance War Site Live!
+ID_MOTD_DE_WARWEB,Tap to visit and learn the ins and outs of War
+ID_MOTD_NA_EARLY_LC_CALENDAR,Don't Miss a Day!
+ID_MOTD_DE_EARLY_LC_CALENDAR,Continue logging in each day to unlock 3 ultimate heroes!
+ID_MOTD_NA_RATETHEAPP_NO_STAR_MENTION,Love MARVEL Strike Force?
+ID_MOTD_DE_RATETHEAPP_NO_STAR_MENTION,We want your feedback! Rate us and leave a review!
+ID_MOTD_DE_RATETHEAPP_5_STAR_MENTION,Leave us a 5-Star rating and a review!
+ID_MOTD_NA_UNLOCKIRONMAN,FREE Iron Man!
+ID_MOTD_DE_UNLOCKIRONMAN,Reach Commander Level 25 and claim Iron Man in Achievements
+ID_MOTD_NA_EARLY_TITANETERNAL,The Mad Titan
+ID_MOTD_DE_EARLY_TITANETERNAL,Unlock Thanos by spending Campaign Energy each day!
+ID_MOTD_NA_STARTEROFFER,Unlock Captain America
+ID_MOTD_DE_STARTEROFFER,Recruit Cap by purchasing the New Player Special Offer!
+ID_MOTD_NA_STARTEROFFER_BP,Unlock Black Panther
+ID_MOTD_DE_STARTEROFFER_BP,Recruit Black Panther by purchasing the New Player Special Offer!
+ID_MOTD_NA_THANOS_LEGEND,The Mad Titan Arrives
+ID_MOTD_DE_THANOS_LEGEND,Take on Thanos in The Mad Titan event!
+ID_MOTD_NA_THANOS_RAID,LIMITED: Thanos Raids
+ID_MOTD_DE_THANOS_RAID,Participate in Thanos Raids to earn more Infinity Orb Fragments!
+ID_MOTD_NA_DOOM_SHOWCASE,The Might of Doom
+ID_MOTD_DE_DOOM_SHOWCASE,Experience the power of Doctor Doom!
+ID_MOTD_NA_DISCORD_JA_ANNOUNCE,Temp string
+ID_MOTD_DE_DISCORD_JA_ANNOUNCE,Temp string
+ID_MOTD_NA_ALPHARAID_START,Now Live: Alpha Raid
+ID_MOTD_DE_ALPHARAID_START,Featuring Global Villains
+ID_MOTD_NA_MYSTICVILLAIN_ALPHARAIDS,Alpha Raid
+ID_MOTD_DE_MYSTICVILLAIN_ALPHARAIDS,Participate in Alpha Raids to earn select Mystic Villain character shards!
+ID_MOTD_NA_BETA_RAID_BETA,Beta Raid (feat. Blasters)
+ID_MOTD_DE_BETA_RAID_BETA,Participate in Beta Raids to earn Beta Orb Fragments!
+ID_MOTD_NA_HERO_SKILL_TECH_BETARAIDS,Beta Raid
+ID_MOTD_DE_HERO_SKILL_TECH_BETARAIDS,Participate in Beta Raids to earn select Skill and Tech Hero character shards!
+ID_MOTD_NA_CITY_BRAWLER_PROTECTOR_GAMMARAIDS,Gamma Raid
+ID_MOTD_DE_CITY_BRAWLER_PROTECTOR_GAMMARAIDS,Participate in Gamma Raids to earn select City Brawler & Protector character shards!
+ID_MOTD_NA_GAMMA_RAID,Gamma Raid (feat. Bio Heroes)
+ID_MOTD_DE_GAMMA_RAID,Participate in Gamma Raids to earn Gamma Orb Fragments!
+ID_MOTD_NA_GAMMA_RAID_BRAWLER,Gamma Raid (feat. Brawlers)
+ID_MOTD_DE_GAMMA_RAID_BRAWLER,Team up to earn Brawler character shards!
+ID_MOTD_NA_GLOBAL_BRAWLER_PROTECTOR_GAMMARAIDS,Gamma Raid
+ID_MOTD_DE_GLOBAL_BRAWLER_PROTECTOR_GAMMARAIDS,Participate in Gamma Raids to earn select Global Brawlers and Protector character shards!
+ID_MOTD_NA_MYSTICHERO_ALPHARAIDS,Now Live: Alpha Raid
+ID_MOTD_DE_MYSTICHERO_ALPHARAIDS,Earn character shards for select Mystic Heroes!
+ID_MOTD_NA_VILLAIN_SKILL_TECH_BETARAIDS,Beta Raid (feat. Skill and Tech Villains)
+ID_MOTD_DE_VILLAIN_SKILL_TECH_BETARAIDS,Participate in Beta Raids to earn Beta Orb Fragments!
+ID_MOTD_NA_CITYCONTROLLERSUPPORT_ALPHARAIDS,Now Live: Alpha Raid
+ID_MOTD_DE_CITYCONTROLLERSUPPORT_ALPHARAIDS,Earn character shards for select Controller and Support City characters!
+ID_MOTD_NA_BLACKBOLT_LE_HYPE,Prepare for Black Bolt!
+ID_MOTD_DE_BLACKBOLT_LE_HYPE,Recruit the Asgardian team for the upcoming Legendary Event
+ID_MOTD_NA_BLACKBOLT_PREVIEW,Coming Soon: Unite the Kingdoms
+ID_MOTD_DE_BLACKBOLT_PREVIEW,Prepare for the Inhuman Legendary Blaster!
+ID_MOTD_NA_BLACKBOLT_LIVE,LIMITED: Unite the Kingdoms
+ID_MOTD_DE_BLACKBOLT_LIVE,Play the event to earn Black Bolt shards!
+ID_MOTD_NA_DOCTOROCTOPUS_PREVIEW,Coming Soon: Surgical S.T.R.I.K.E.
+ID_MOTD_DE_DOCTOROCTOPUS_PREVIEW,Prepare for the Sinister Six Legendary Support!
+ID_MOTD_NA_DOCTOROCTOPUS_LIVE,LIMITED: Surgical S.T.R.I.K.E.
+ID_MOTD_DE_DOCTOROCTOPUS_LIVE,Play the event to earn Doctor Octopus shards!
+ID_MOTD_NA_EBONYMAW_PREVIEW,Coming Soon: Black & Ebony
+ID_MOTD_DE_EBONYMAW_PREVIEW,Prepare for Black Order's Legendary Support!
+ID_MOTD_NA_EBONYMAW_LIVE,LIMITED: Black & Ebony
+ID_MOTD_DE_EBONYMAW_LIVE,Play the event to earn Ebony Maw shards!
+ID_MOTD_NA_INVISIBLEWOMAN_PREVIEW,Coming Soon: Now You See Me
+ID_MOTD_DE_INVISIBLEWOMAN_PREVIEW,Prepare for the Fantastic Four Legendary Protector!
+ID_MOTD_NA_INVISIBLEWOMAN_LIVE,LIVE: Now You See Me
+ID_MOTD_DE_INVISIBLEWOMAN_LIVE,Play the event to earn Invisible Woman shards!
+ID_MOTD_NA_IRONMANLIVE,Live: I am Iron Man
+ID_MOTD_DE_IRONMANLIVE,Recruit Iron Man for a limited time!
+ID_MOTD_DE_IRONMANLIVE_LC,Battle to recruit Iron Man!
+ID_MOTD_NA_IRONMANTEASER,Coming Soon: I am Iron Man
+ID_MOTD_DE_IRONMANTEASER,"Event starts June 11, 5:00PM (PDT)!"
+ID_MOTD_DE_IRONMANTEASER_LC,Prepare to recruit the Legendary Avenger!
+ID_MOTD_NA_JUBILEE_LIVE,"LIVE: Like, Totally Jubilee"
+ID_MOTD_DE_JUBILEE_LIVE,Play now to earn Jubilee shards!
+ID_MOTD_NA_MAGNETO_PREVIEW,Coming Soon: Asteroid M
+ID_MOTD_DE_MAGNETO_PREVIEW,Prepare for the legendary Brotherhood leader!
+ID_MOTD_NA_MAGNETO_LIVE,LIMITED: Asteroid M
+ID_MOTD_DE_MAGNETO_LIVE,Play the event to earn Magneto shards!
+ID_MOTD_NA_NICKFURY_PREVIEW,Coming Soon: Chasing Fury
+ID_MOTD_DE_NICKFURY_PREVIEW,Prepare for the legendary S.H.I.E.L.D. leader!
+ID_MOTD_NA_NICKFURY_LIVE,Live: Chasing Fury
+ID_MOTD_DE_NICKFURY_LIVE,Recruit Nick Fury for a limited time!
+ID_MOTD_NA_PHOENIX_PREVIEW,Coming Soon: Phoenix Rising
+ID_MOTD_DE_PHOENIX_PREVIEW,Prepare for the X-Men Legendary Controller!
+ID_MOTD_NA_PHOENIX_LIVE,LIMITED: Phoenix Rising
+ID_MOTD_DE_PHOENIX_LIVE,Play the event to earn Phoenix shards!
+ID_MOTD_NA_SHURI_PREVIEW,Coming Soon: Princess and the Symbiote
+ID_MOTD_DE_SHURI_PREVIEW,Prepare for the legendary Wakandan!
+ID_MOTD_NA_SHURI_LIVE,LIMITED: Princess and the Symbiote
+ID_MOTD_DE_SHURI_LIVE,Play the event to earn Shuri shards!
+ID_MOTD_NA_STARLORDTEASER,Coming Soon: Space Ace
+ID_MOTD_DE_STARLORDTEASER,Prepare for the legendary Guardian!
+ID_MOTD_NA_STARLORDLIVE,Live: Space Ace
+ID_MOTD_DE_STARLORDLIVE,Recruit Star-Lord for a limited time!
+ID_MOTD_NA_ADAMWARLOCK_PREHYPE,Coming Soon: The Infinity Watch
+ID_MOTD_DE_ADAMWARLOCK_PREHYPE,Adam Warlock's Cocoon is opening soon!
+ID_MOTD_NA_ADAMWARLOCK_LIVE,LIVE: The Infinity Watch
+ID_MOTD_DE_ADAMWARLOCK_LIVE,Play now to earn Adam Warlock shards!
+ID_MOTD_NA_ANTMAN_ECINTRO,LIMITED: I am the Ant-Man
+ID_MOTD_DE_ANTMAN_ECINTRO,Play the event to earn Ant-Man shards!
+ID_MOTD_NA_BLOODSTONE_ECM_LIVE,The Bloodstone Files
+ID_MOTD_DE_BLOODSTONE_ECM_LIVE,Battle for a chance to win Elsa Bloodstone shards!
+ID_MOTD_NA_CRYSTAL_ECM_PREVIEW,Coming Soon: Imperial Affairs
+ID_MOTD_DE_CRYSTAL_ECM_PREVIEW,Prepare for Crystal!
+ID_MOTD_NA_CRYSTAL_ECM_LIVE,LIVE: Imperial Affairs
+ID_MOTD_DE_CRYSTAL_ECM_LIVE,Battle for a chance to win Crystal shards!
+ID_MOTD_NA_DOMINO_ECM_PREVIEW,Coming Soon: Serendipity
+ID_MOTD_DE_DOMINO_ECM_PREVIEW,Prepare for Domino!
+ID_MOTD_NA_DOMINO_ECM_LIVE,LIVE: Serendipity
+ID_MOTD_DE_DOMINO_ECM_LIVE,Battle for a chance to win Domino shards!
+ID_MOTD_NA_ECINTRO_SCARLET,LIMITED: The Nexus Guardian
+ID_MOTD_DE_ECINTRO_SCARLET,Play the event to earn Scarlet Witch shards!
+ID_MOTD_NA_ECM_BLACKORDER_PREVIEW,Upcoming: Enter The Black Order
+ID_MOTD_DE_ECM_BLACKORDER_PREVIEW,Prepare for Proxima Midnight!
+ID_MOTD_NA_ECM_BLACKORDER_LIVE,LIVE: Enter The Black Order
+ID_MOTD_DE_ECM_BLACKORDER_LIVE,Battle for a chance to win Proxima Midnight shards!
+ID_MOTD_NA_FALCON_PREVIEW,Coming Soon: Front Lines
+ID_MOTD_DE_FALCON_PREVIEW,"Event starts April 29, 5:00PM (PDT)"
+ID_MOTD_NA_FALCON_LIVE,LIMITED: Front Lines
+ID_MOTD_DE_FALCON_LIVE,Play now to earn Falcon shards!
+ID_MOTD_NA_GRAVITON_ECM_PREVIEW,Coming Soon: Fantastic Plans
+ID_MOTD_DE_GRAVITON_ECM_PREVIEW,Prepare for Graviton
+ID_MOTD_NA_GRAVITON_ECM_LIVE,LIVE: Fantastic Plans
+ID_MOTD_DE_GRAVITON_ECM_LIVE,Battle for a chance to win Graviton shards
+ID_MOTD_NA_HEIMDALL_ECM_PREVIEW,Coming Soon: Favor of the Gods
+ID_MOTD_DE_HEIMDALL_ECM_PREVIEW,Prepare for Heimdall
+ID_MOTD_NA_HEIMDALL_ECM_LIVE,LIVE: Favor of the Gods
+ID_MOTD_DE_HEIMDALL_ECM_LIVE,Battle for a chance to win Heimdall shards
+ID_MOTD_NA_JUGGERNAUT_PREVIEW,Coming Soon: Unstoppable
+ID_MOTD_DE_JUGGERNAUT_PREVIEW,"Event starts November 11, 4:00PM (PST)"
+ID_MOTD_NA_JUGGERNAUT_LIVE,LIMITED: Unstoppable
+ID_MOTD_DE_JUGGERNAUT_LIVE,Play the event to earn Juggernaut shards!
+ID_MOTD_NA_MINNERVA_LIVE,LIMITED: Kree Commandos
+ID_MOTD_DE_MINNERVA_LIVE,Assist Minn-Erva to get allied S.T.R.I.K.E. forces into our dimension.
+ID_MOTD_NA_MSMARVEL_LIVE,LIMITED: Jersey's Finest
+ID_MOTD_DE_MSMARVEL_LIVE,Play the event to earn Ms. Marvel shards!
+ID_MOTD_NA_PSYLOCKE_PREVIEW,Coming Soon: Move In Shadows
+ID_MOTD_DE_PSYLOCKE_PREVIEW,"Event starts May 27, 5:00PM (PDT)"
+ID_MOTD_NA_PSYLOCKE_LIVE,LIMITED: Move In Shadows
+ID_MOTD_DE_PSYLOCKE_LIVE,Play now to earn Psylocke shards!
+ID_MOTD_NA_PYRO_PREVIEW,Coming Soon: Hot Head
+ID_MOTD_DE_PYRO_PREVIEW,"Event starts December 27, 4:00 PM (PST)"
+ID_MOTD_NA_PYRO_LIVE,LIMITED: Hot Head
+ID_MOTD_DE_PYRO_LIVE,Play now to earn Pyro shards!
+ID_MOTD_NA_ROCKETRACCOON_LIVE,Recruit Rocket Raccoon!
+ID_MOTD_DE_ROCKETRACCOON_LIVE,Earn Rocket Raccoon Shards by completing the Rocket's Gambit event!
+ID_MOTD_NA_ROCKETRACCOON_TEASER,Upcoming Event: Rocket's Gambit
+ID_MOTD_DE_ROCKETRACCOON_TEASER,Unlocks at Lv 20!
+ID_MOTD_NA_SABRETOOTH_PREVIEW,Coming Soon: Hunter's Instinct
+ID_MOTD_DE_SABRETOOTH_PREVIEW,"Event starts January 9, 4:00 PM (PST)"
+ID_MOTD_NA_SABRETOOTH_LIVE,LIMITED: Hunter's Instinct
+ID_MOTD_DE_SABRETOOTH_LIVE,Play now to earn Sabretooth shards!
+ID_MOTD_NA_SAMWILSON,Wield the Shield: Now Live!
+ID_MOTD_DE_SAMWILSON,Battle for a chance to win Captain America (Sam) shards
+ID_MOTD_NA_SCARLETWITCH_LIVE,LIMITED: The Nexus Guardian
+ID_MOTD_DE_SCARLETWITCH_LIVE,Play the event to earn Scarlet Witch shards!
+ID_MOTD_NA_SINISTER_SIX_PREVIEW,Coming Soon: Sinister S.T.R.I.K.E.
+ID_MOTD_DE_SINISTER_SIX_PREVIEW,"Event starts July 1, 5:00PM (PDT)"
+ID_MOTD_NA_SINISTER_SIX_LIVE,LIMITED: Sinister S.T.R.I.K.E.
+ID_MOTD_DE_SINISTER_SIX_LIVE,Play now to earn Rhino shards!
+ID_MOTD_NA_SQUIRRELGIRL_ECM_PREVIEW,Coming Soon: Unbeatable Education
+ID_MOTD_DE_SQUIRRELGIRL_ECM_PREVIEW,Prepare for Squirrel Girl!
+ID_MOTD_NA_SQUIRRELGIRL_ECM_LIVE,LIVE: Unbeatable Education
+ID_MOTD_DE_SQUIRRELGIRL_ECM_LIVE,Battle for a chance to win Squirrel Girl shards!
+ID_MOTD_NA_STORM_LIVE,LIMITED: Eye of the Storm
+ID_MOTD_DE_STORM_LIVE,Play the event to earn Storm shards!
+ID_MOTD_NA_SWARM_ECM_PREVIEW,Coming Soon: One of Many
+ID_MOTD_DE_SWARM_ECM_PREVIEW,Prepare for Swarm!
+ID_MOTD_NA_SWARM_ECM_LIVE,LIVE: One of Many
+ID_MOTD_DE_SWARM_ECM_LIVE,Battle for a chance to win Swarm shards!
+ID_MOTD_NA_TASKMASTER_ECM_PREVIEW,Coming Soon: Master Class
+ID_MOTD_DE_TASKMASTER_ECM_PREVIEW,Prepare for Taskmaster
+ID_MOTD_NA_TASKMASTER_ECM_LIVE,LIVE: Master Class
+ID_MOTD_DE_TASKMASTER_ECM_LIVE,Battle for a chance to win Taskmaster shards
+ID_MOTD_NA_THING_PREVIEW,Coming Soon: Two-in-One
+ID_MOTD_DE_THING_PREVIEW,"Event starts August 9, 5:00PM (PDT)"
+ID_MOTD_NA_THING_LIVE,LIMITED: Two-in-One
+ID_MOTD_DE_THING_LIVE,Play now to earn The Thing shards!
+ID_MOTD_NA_TOAD_ECM_PREVIEW,Coming Soon: Misfit Misadventures
+ID_MOTD_DE_TOAD_ECM_PREVIEW,Prepare for Toad!
+ID_MOTD_NA_TOAD_ECM_LIVE,LIVE: Misfit Misadventures
+ID_MOTD_DE_TOAD_ECM_LIVE,Battle for a chance to win Toad shards!
+ID_MOTD_NA_ULTSPIDERMAN_PREVIEW,Coming Soon: Web-Head Warriors
+ID_MOTD_DE_ULTSPIDERMAN_PREVIEW,"Event starts December 14, 4:00PM (PST)"
+ID_MOTD_NA_ULTSPIDERMAN_LIVE,Now Live: Web-Head Warriors
+ID_MOTD_DE_ULTSPIDERMAN_LIVE,Join Miles and Peter as they swing into action in a world overtaken by androids!
+ID_MOTD_NA_VENOM_LIVE,LIMITED: Symbiotic
+ID_MOTD_DE_VENOM_LIVE,Play the event to earn Venom shards!
+ID_MOTD_NA_WARMACHINE_PREVIEW,Coming Soon: Prelude to War
+ID_MOTD_DE_WARMACHINE_PREVIEW,"Event starts January 25, 4:00PM (PST)"
+ID_MOTD_NA_WARMACHINE_LIVE,LIMITED: Prelude to War
+ID_MOTD_DE_WARMACHINE_LIVE,"Earn War Machine,  S.H.I.E.L.D., and Avenger shards!"
+ID_MOTD_NA_WASP_ECINTRO,LIMITED: Sting of the Wasp
+ID_MOTD_DE_WASP_ECINTRO,Play the event to earn Wasp shards!
+ID_MOTD_NA_SCREAM_PREVIEW,Coming Soon: Scream
+ID_MOTD_DE_SCREAM_PREVIEW,This punishing parasite is on her way!
+ID_MOTD_NA_SCREAM_LIVE,LIVE: Parasitic Intentions
+ID_MOTD_DE_SCREAM_LIVE,Battle to win Scream shards!
+ID_MOTD_NA_STATURE_PREVIEW,"Coming Soon: Tiny Stature, Big Problem"
+ID_MOTD_DE_STATURE_PREVIEW,Prepare for Stature!
+ID_MOTD_NA_STATURE_LIVE,"LIVE: Tiny Stature, Big Problem"
+ID_MOTD_DE_STATURE_LIVE,Battle to earn Stature shards!
+ID_MOTD_NA_STATURE_PREHYPE,Coming Soon: Stature
+ID_MOTD_DE_STATURE_PREHYPE,The Mighty Pym Protector is on her way!
+ID_MOTD_NA_SHATTERSTAR_PREVIEW,Coming Soon: Mojoverse Mayhem
+ID_MOTD_DE_SHATTERSTAR_PREVIEW,Prepare for Shatterstar!
+ID_MOTD_NA_SHATTERSTAR_LIVE,LIVE: Mojoverse Mayhem
+ID_MOTD_DE_SHATTERSTAR_LIVE,Battle to earn Shatterstar shards!
+ID_MOTD_NA_SHATTERSTAR_PREHYPE,Coming Soon: Shatterstar
+ID_MOTD_DE_SHATTERSTAR_PREHYPE,The Prince of Blades
+ID_MOTD_NA_MULTIPLEMAN_ECM_PREVIEW,Coming Soon: X-Factor Investigations
+ID_MOTD_DE_MULTIPLEMAN_ECM_PREVIEW,Prepare for Multiple Man!
+ID_MOTD_NA_MULTIPLEMAN_ECM_LIVE,LIVE: X-Factor Investigations
+ID_MOTD_DE_MULTIPLEMAN_ECM_LIVE,Battle to earn Multiple Man shards!
+ID_MOTD_NA_KESTREL_ECM_PREVIEW,Coming Soon: Take Flight
+ID_MOTD_DE_KESTREL_ECM_PREVIEW,Prepare for Kestrel!
+ID_MOTD_NA_KESTREL_ECM_LIVE,Live: Take Flight
+ID_MOTD_DE_KESTREL_ECM_LIVE,Battle to earn Kestrel shards!
+ID_MOTD_NA_SHARONCARTER_ECM_PREVIEW,Coming Soon: Conspiracy Theories
+ID_MOTD_DE_SHARONCARTER_ECM_PREVIEW,Prepare for Sharon Carter!
+ID_MOTD_NA_SHARONCARTER_ECM_LIVE,LIVE: Conspiracy Theories
+ID_MOTD_DE_SHARONCARTER_ECM_LIVE,Battle to earn Sharon Carter shards!
+ID_MOTD_NA_ANTMAN_WASP_TEAMUP_LIVE,LIVE: Back to Tiny World
+ID_MOTD_DE_ANTMAN_WASP_TEAMUP_LIVE,Join Ant-Man and Wasp on their adventure to tiny Earth!
+ID_MOTD_NA_ANTMAN_WASP_TEAMUP_PREVIEW,Upcoming: Back to Tiny World
+ID_MOTD_DE_ANTMAN_WASP_TEAMUP_PREVIEW,Join up with Ant-Man and Wasp in this new adventure!
+ID_MOTD_NA_ANTMANWASP,Back to Tiny World: Now Live!
+ID_MOTD_DE_ANTMANWASP,Battle with Ant-Man and the Wasp for huge rewards!
+ID_MOTD_NA_ANTMANWASPTEASER,Coming Soon: Back to Tiny World
+ID_MOTD_DE_ANTMANWASPTEASER,"Event starts March 27, 5:00PM (PDT)!"
+ID_MOTD_NA_ROCKETGROOT,Rocket's Gambit: Now Live!
+ID_MOTD_DE_ROCKETGROOT,Battle for a chance to win Rocket Raccoon shards
+ID_MOTD_NA_ROCKETGROOT_ECINTRO,LIMITED: Rocket's Gambit
+ID_MOTD_DE_ROCKETGROOT_ECINTRO,Play the event to earn Rocket Raccoon shards!
+ID_MOTD_NA_SWMM_PREVIEW,Coming Soon: Bendy Girl & The Witch
+ID_MOTD_DE_SWMM_PREVIEW,"Event starts April 8, 5:00PM (PDT)!"
+ID_MOTD_NA_SWMM,Bendy Girl & The Witch: Now Live!
+ID_MOTD_DE_SWMM,Battle with Scarlet Witch and Ms. Marvel for huge rewards!
+ID_MOTD_NA_4ASGARD,Live: 4 Asgard!
+ID_MOTD_DE_4ASGARD,2x Asgardian shards from Campaign
+ID_MOTD_NA_BADSCIENCE,Live: Bad Science
+ID_MOTD_DE_BADSCIENCE,2x A.I.M. shards from Campaign!
+ID_MOTD_NA_BLOCKPARTY_PREVIEW,Coming Soon: Block Party
+ID_MOTD_DE_BLOCKPARTY_PREVIEW,Earn tons of Ability Materials
+ID_MOTD_NA_BLOCKPARTY_LIVE,Live: Block Party
+ID_MOTD_DE_BLOCKPARTY_LIVE,Earn tons of ABILITY MATERIALS
+ID_MOTD_NA_BROMEN,Live: Gifted Gathering
+ID_MOTD_DE_BROMEN,2x X-Men and Brotherhood shards from Campaign
+ID_MOTD_NA_CALLINGAGENTS,Live: Calling All Agents
+ID_MOTD_DE_CALLINGAGENTS,2x S.H.I.E.L.D. shards from Campaign
+ID_MOTD_NA_DOUBLETROUBLE,Live: Double Trouble
+ID_MOTD_DE_DOUBLETROUBLE,2x Sinister Six shards from Campaign
+ID_MOTD_NA_FL_WAKANDAN_PREVIEW,Coming Soon: Chaos Theory
+ID_MOTD_DE_FL_WAKANDAN_PREVIEW,Prepare your Wakandan team to earn various Red Star rewards!
+ID_MOTD_NA_FL_WAKANDAN_LIVE,LIVE: Chaos Theory
+ID_MOTD_DE_FL_WAKANDAN_LIVE,Assemble your Wakandan team to earn various Red Star rewards!
+ID_MOTD_NA_FRIENDLY_NEIGHBORHOOD,LIVE: Friendly Neighborhood
+ID_MOTD_DE_FRIENDLY_NEIGHBORHOOD,Use Spider-Verse characters to fight in battles to earn gear!
+ID_MOTD_NA_GOINGKNOWHERE,Live: Going Knowhere
+ID_MOTD_DE_GOINGKNOWHERE,2x Guardian and Ravager shards from Campaign
+ID_MOTD_NA_IM_CALLINGAGENTS,Live: Calling All Agents
+ID_MOTD_DE_IM_CALLINGAGENTS,2x S.H.I.E.L.D. shards from Campaign
+ID_MOTD_NA_KREEFORALL,Live: Kree For All
+ID_MOTD_DE_KREEFORALL,2x Kree minion shards from Campaign!
+ID_MOTD_NA_MALICIOUSMANIPULATORS,Malicious Manipulators
+ID_MOTD_DE_MALICIOUSMANIPULATORS,2x shards for Villain Mystic Controller characters
+ID_MOTD_NA_NEEDAHAND,Live: Need A Hand?
+ID_MOTD_DE_NEEDAHAND,2x Hand shards from Campaign!
+ID_MOTD_NA_NEIGHBORHOOD,Live: Neighborhood Watch
+ID_MOTD_DE_NEIGHBORHOOD,2x City Hero shards from Campaign!
+ID_MOTD_NA_PAYDAY_PREVIEW,Coming Soon: Payday
+ID_MOTD_DE_PAYDAY_PREVIEW,Battle with your Mercenaries and earn a ton of Gold!
+ID_MOTD_NA_PAYDAY,Payday: Now Live!
+ID_MOTD_DE_PAYDAY,Battle with your Mercenaries and earn a ton of Gold!
+ID_MOTD_NA_PAYDAY_LIVE,Live: Payday
+ID_MOTD_DE_PAYDAY_LIVE,Amass tons of gold in this ONE-DAY event
+ID_MOTD_NA_PAYDAYMERC,Live: Merc Mayhem
+ID_MOTD_DE_PAYDAYMERC,2x Mercenary shards from Campaign
+ID_MOTD_NA_PYMACCELERATION,NOW LIVE: Pym Acceleration
+ID_MOTD_DE_PYMACCELERATION,2x Pym Tech character shards from Campaign
+ID_MOTD_NA_RELICHUNT_PREVIEW,Coming Soon: Relic Hunt
+ID_MOTD_DE_RELICHUNT_PREVIEW,Uncover the Hand relic and earn Catalyst materials!
+ID_MOTD_NA_RELICHUNT,Relic Hunt: Now Live!
+ID_MOTD_DE_RELICHUNT,Battle with your Hand warriors and earn Catalyst materials!
+ID_MOTD_NA_RELICHUNT_LIVE,Live: Relic Hunt
+ID_MOTD_DE_RELICHUNT_LIVE,Uncover the Hand relic and earn Catalyst materials!
+ID_MOTD_NA_TERRIGENSTORM,Live: Terrigen Storm
+ID_MOTD_DE_TERRIGENSTORM,2x Inhuman shards from Campaign
+ID_MOTD_NA_TANGLEDWEB,Live: Tangled Web
+ID_MOTD_DE_TANGLEDWEB,2x Spider-Verse shards from Campaign
+ID_MOTD_NA_TWOBITDETECTIVES,Live: Two-Bit Detectives
+ID_MOTD_DE_TWOBITDETECTIVES,2x X-Factor shards from Campaign
+ID_MOTD_NA_WAKANDANATION,Live: Wakanda Nation!
+ID_MOTD_DE_WAKANDANATION,2x Wakandan shards from Campaign
+ID_MOTD_NA_DOUBLETIME,Live: Double Time
+ID_MOTD_DE_DOUBLETIME,2x Skill Military shards from Campaign
+ID_MOTD_NA_DUALTHREATS,Live: Dual Threats
+ID_MOTD_DE_DUALTHREATS,2x Secret Avenger and Winter Soldier shards from Campaign
+ID_MOTD_NA_BLUEGEAR_BLITZ,LIMITED: Gear Strike: Blue
+ID_MOTD_DE_BLUEGEAR_BLITZ,24-hour Blitz to earn tons of Blue Gear!
+ID_MOTD_NA_BLUEGEAR,Gear Strike: Blue: Now Live!
+ID_MOTD_DE_BLUEGEAR,Battle for a chance to win Blue Gear Orbs
+ID_MOTD_NA_CATALYSTCATACLYSM,Catalyst Cataclysm
+ID_MOTD_DE_CATALYSTCATACLYSM,Get 3x Basic Catalysts from Campaign!
+ID_MOTD_NA_ENERGY_OVERLOAD,LIVE: Energy Overload
+ID_MOTD_DE_ENERGY_OVERLOAD,"For 24 hours, Campaign Energy when purchased will be doubled from 120 to 240!"
+ID_MOTD_NA_GEARBLOWOUT,LIVE: Gear Blowout
+ID_MOTD_DE_GEARBLOWOUT,Reduced cost to refresh the Main Store and items sold for Gold!
+ID_MOTD_NA_GOLD,Gold Conquest: Now Live!
+ID_MOTD_DE_GOLD,Battle for a chance to win Gold Orbs
+ID_MOTD_NA_GOLD_CRYPT,LIVE: Gold Crypt
+ID_MOTD_DE_GOLD_CRYPT,Increased Gold from Campaigns!
+ID_MOTD_NA_GOLDCONQUEST_BLITZ,LIMITED: Gold Conquest
+ID_MOTD_DE_GOLDCONQUEST_BLITZ,24-hour Blitz to earn Gold Orbs!
+ID_MOTD_NA_ODINS_GIFTS,LIVE: Odin's Gifts
+ID_MOTD_DE_ODINS_GIFTS,Donate to earn boosted rewards from Donation Milestone Boxes!
+ID_MOTD_NA_ORANGE_GEAR,Power Up with Orange Gear
+ID_MOTD_DE_ORANGE_GEAR,Gear Tier 12 items are now available!
+ID_MOTD_NA_ORANGEGEAR,Gear Strike: Orange: Now Live!
+ID_MOTD_DE_ORANGEGEAR,Battle for a chance to win Orange Gear Orbs
+ID_MOTD_NA_ORANGEGEAR_BLITZ,LIMITED: Gear Strike: Orange
+ID_MOTD_DE_ORANGEGEAR_BLITZ,24-hour Blitz to earn tons of Orange Gear!
+ID_MOTD_NA_ORB,Orb Assault: Now Live!
+ID_MOTD_DE_ORB,Battle for a chance to win ORB FRAGMENTS
+ID_MOTD_NA_ORB_AVALANCHE_MILESTONE,LIVE: Orb Avalanche
+ID_MOTD_DE_ORB_AVALANCHE_MILESTONE,Continue opening orbs to earn points for huge payouts!
+ID_MOTD_NA_ORB_STORM,LIMITED: Orb Storm
+ID_MOTD_DE_ORB_STORM,Earn 4x Basic Orb Fragments from Campaign for the next 24 hours!
+ID_MOTD_NA_PURPLEGEAR,Gear Strike: Purple: Now Live!
+ID_MOTD_DE_PURPLEGEAR,Battle for a chance to win Purple Gear Orbs
+ID_MOTD_NA_PURPLEGEAR_BLITZ,LIMITED: Gear Strike: Purple
+ID_MOTD_DE_PURPLEGEAR_BLITZ,24-hour Blitz to earn tons of Purple Gear!
+ID_MOTD_NA_QUARTERBLITZ,Live: Quarter Blitz
+ID_MOTD_DE_QUARTERBLITZ,Playing Blitz has never been cheaper
+ID_MOTD_NA_RAIDFRENZY,LIVE: Raid Frenzy
+ID_MOTD_DE_RAIDFRENZY,Reduced cost to use Raid Health Packs and purchase Raid Energy
+ID_MOTD_NA_RAININGGOLD,Raining Gold!
+ID_MOTD_DE_RAININGGOLD,Increased Gold from Campaigns!
+ID_MOTD_NA_REENERGIZE,LIVE: Re-Energize
+ID_MOTD_DE_REENERGIZE,"For 24 hours, enjoy reduced costs when you refresh Campaign Energy!"
+ID_MOTD_NA_SATENGAGE,Live: Campaign Cashout
+ID_MOTD_DE_SATENGAGE,2x Campaign energy per refill!
+ID_MOTD_NA_SEEINGDOUBLE,LIVE: Seeing Double
+ID_MOTD_DE_SEEINGDOUBLE,"For 24 hours, enjoy 2x shards for select characters!"
+ID_MOTD_NA_SUPERSALESATURDAY,Super Sale Saturday
+ID_MOTD_DE_SUPERSALESATURDAY,Don't miss out on limited-time deals in this 24-hour event!
+ID_MOTD_NA_SUPERSALESUNDAY,Super Sale Sunday
+ID_MOTD_DE_SUPERSALESUNDAY,Don't miss out on limited-time deals this weekend!
+ID_MOTD_NA_HALLOWEEN_2020_BLITZ,Now Live: Waking Nightmare
+ID_MOTD_DE_HALLOWEEN_2020_BLITZ,"Use Anti-Venom and other featured characters in BLITZ,  ARENA,  and RAID to hit milestones."
+ID_MOTD_NA_TRAINING,Train Station: Now Live!
+ID_MOTD_DE_TRAINING,Battle for a chance to win Training Orbs
+ID_MOTD_NA_DOUBLETRAINING,Train And Gain
+ID_MOTD_DE_DOUBLETRAINING,Increased Training Modules from Campaigns!
+ID_MOTD_NA_BONUS_XP,XP Throttle
+ID_MOTD_DE_BONUS_XP,Doubled Commander XP from Campaigns!
+ID_MOTD_NA_BONUS_ISO_XP,XP Overdrive
+ID_MOTD_DE_BONUS_ISO_XP,Commander XP added to the Isotope-8 Campaign!
+ID_MOTD_NA_AGATHAHARKNESS,Coven Leader: Now Live!
+ID_MOTD_DE_AGATHAHARKNESS,Battle for a chance to win Agatha Harkness shards
+ID_MOTD_NA_AIMCONTROL_INFECT,Contagion: Now Live!
+ID_MOTD_DE_AIMCONTROL_INFECT,Battle for a chance to win A.I.M. Infector shards
+ID_MOTD_NA_AIMDMG_OFFENSE,Science Project: Now Live!
+ID_MOTD_DE_AIMDMG_OFFENSE,Battle for a chance to win A.I.M. Monstrosity shards
+ID_MOTD_NA_AIMDMG_SPEED,Commando: Now Live!
+ID_MOTD_DE_AIMDMG_SPEED,Battle for a chance to win A.I.M. Assaulter shards
+ID_MOTD_NA_AIMSUPPORT_HEAL,Apprentice: Now Live!
+ID_MOTD_DE_AIMSUPPORT_HEAL,Battle for a chance to win A.I.M. Researcher shards
+ID_MOTD_NA_AIMTANK_TAUNT,Crazed Survivor: Now Live!
+ID_MOTD_DE_AIMTANK_TAUNT,Battle for a chance to win A.I.M. Security shards
+ID_MOTD_NA_AMERICACHAVEZ,Star Power: Now Live!
+ID_MOTD_DE_AMERICACHAVEZ,Battle for a chance to win America Chavez shards
+ID_MOTD_NA_AMERICACHAVEZ_PREHYPE,America Chavez
+ID_MOTD_DE_AMERICACHAVEZ_PREHYPE,The All-Star Brawler is coming soon!
+ID_MOTD_NA_ANTIVENOM,Lethal Dose: Now Live!
+ID_MOTD_DE_ANTIVENOM,Battle for a chance to win Anti-Venom shards
+ID_MOTD_NA_ANTMAN,Pym Particles: Now Live!
+ID_MOTD_DE_ANTMAN,Battle for a chance to win ANT-MAN shards
+ID_MOTD_NA_BARONMORDO,Dark Arts: Now Live!
+ID_MOTD_DE_BARONMORDO,Battle for a chance to win MORDO shards
+ID_MOTD_NA_BARONZEMO,Son of Evil: Now Live!
+ID_MOTD_DE_BARONZEMO,Battle for a chance to win Baron Zemo shards
+ID_MOTD_NA_BEAST,Azure Animal: Now Live!
+ID_MOTD_DE_BEAST,Battle for a chance to win Beast shards
+ID_MOTD_NA_BISHOP,Marked Man: Now Live!
+ID_MOTD_DE_BISHOP,Battle for a chance to win Bishop shards
+ID_MOTD_NA_BLACKPANTHER,Warrior King: Now Live!
+ID_MOTD_DE_BLACKPANTHER,Battle for a chance to win BLACK PANTHER shards
+ID_MOTD_NA_BLACKWIDOW,Widow's Bite: Now Live!
+ID_MOTD_DE_BLACKWIDOW,Battle for a chance to win BLACK WIDOW shards
+ID_MOTD_DE_BLACKWIDOW_GOLD,Chance for 1M Gold per Blitz battle!
+ID_MOTD_NA_BLITZ_MYSTIQUE,Shapeshifter: Now Live!
+ID_MOTD_DE_BLITZ_MYSTIQUE,Battle for a chance to win Mystique shards
+ID_MOTD_NA_BLITZ_VENOM,Symbiotic Terror: Now Live!
+ID_MOTD_DE_BLITZ_VENOM,Battle for a chance to win Venom shards
+ID_MOTD_NA_BLITZ_WARMACHINE,Full Salvo: Now Live!
+ID_MOTD_DE_BLITZ_WARMACHINE,Battle for a chance to win War Machine shards
+ID_MOTD_NA_BLOB,Massive Mutant: Now Live!
+ID_MOTD_DE_BLOB,Battle for a chance to win Blob shards
+ID_MOTD_NA_BULLSEYE,On Target: Now Live!
+ID_MOTD_DE_BULLSEYE,Battle for a chance to win BULLSEYE shards
+ID_MOTD_NA_CABLE,Time Traveler: Now Live!
+ID_MOTD_DE_CABLE,Battle for a chance to win CABLE shards
+ID_MOTD_NA_CAPTAINAMERICA,First Avenger: Now Live!
+ID_MOTD_DE_CAPTAINAMERICA,Battle for a chance to win CAPTAIN AMERICA shards
+ID_MOTD_NA_CAPTAINMARVEL,Ace Pilot: Now Live!
+ID_MOTD_DE_CAPTAINMARVEL,Battle for a chance to win Captain Marvel shards
+ID_MOTD_NA_CARNAGE,Psychotic: Now Live!
+ID_MOTD_DE_CARNAGE,Battle for a chance to win Carnage shards
+ID_MOTD_NA_CLOAK,Within the Shadows: Now Live!
+ID_MOTD_DE_CLOAK,Battle for a chance to win Cloak shards
+ID_MOTD_NA_COLLEENWING,Dragon Daughter: Now Live!
+ID_MOTD_DE_COLLEENWING,Battle for a chance to win Colleen Wing shards
+ID_MOTD_NA_COLOSSUS,Heavy Metal: Now Live!
+ID_MOTD_DE_COLOSSUS,Battle for a chance to win Colossus shards
+ID_MOTD_NA_CORVUSGLAIVE,Backstab: Now Live!
+ID_MOTD_DE_CORVUSGLAIVE,Battle for a chance to win Corvus Glaive shards
+ID_MOTD_NA_COULSON,Project Tahiti: Now Live!
+ID_MOTD_DE_COULSON,Battle for a chance to win Coulson shards
+ID_MOTD_NA_CROSSBONES_BLITZ,Skeleton Leader: Now Live!
+ID_MOTD_DE_CROSSBONES_BLITZ,Battle for a chance to win Crossbones shards
+ID_MOTD_NA_CRYSTAL,Royal Princess: Now Live!
+ID_MOTD_DE_CRYSTAL,Battle for a chance to win Crystal shards
+ID_MOTD_NA_CULLOBSIDIAN,Dwarf Star: Now Live!
+ID_MOTD_DE_CULLOBSIDIAN,Battle for a chance to win Cull Obsidian shards
+ID_MOTD_NA_CYCLOPS,X-Leader: Now Live!
+ID_MOTD_DE_CYCLOPS,Battle for a chance to win Cyclops shards
+ID_MOTD_NA_DAGGER,Light of Hope: Now Live!
+ID_MOTD_DE_DAGGER,Battle for a chance to win Dagger shards
+ID_MOTD_NA_DAREDEVIL,Man Without Fear: Now Live!
+ID_MOTD_DE_DAREDEVIL,Battle for a chance to win DAREDEVIL shards
+ID_MOTD_NA_DAZZLER,Razzle Dazzle: Now Live!
+ID_MOTD_DE_DAZZLER,Battle for a chance to win Dazzler shards
+ID_MOTD_NA_DEADPOOL,Merc with a Mouth: Now Live!
+ID_MOTD_DE_DEADPOOL,Battle for a chance to win DEADPOOL shards
+ID_MOTD_NA_DEADPOOL_BLITZ,Clash for Chimichangas
+ID_MOTD_DE_DEADPOOL_BLITZ,Battle in Blitz and gather Chimichangas for your Alliance!
+ID_MOTD_NA_DEADPOOL_LEGEND,The Merc with a Mouth Arrives
+ID_MOTD_DE_DEADPOOL_LEGEND,Join Deadpool in the Merc with a Mouth event!
+ID_MOTD_NA_DEADPOOL_RAID,LIMITED: Deadpool Raids
+ID_MOTD_DE_DEADPOOL_RAID,Participate in Deadpool Raids to earn more Deadpool Orb Fragments!
+ID_MOTD_NA_DEADPOOL_TAKEOVER,NOW LIVE: Merc with a Mouth
+ID_MOTD_DE_DEADPOOL_TAKEOVER,Reach Lvl 19 and help Deadpool!
+ID_MOTD_NA_DEATHPOOL,Grim Reaper: Now Live!
+ID_MOTD_DE_DEATHPOOL,Battle for a chance to win Deathpool shards
+ID_MOTD_NA_DOCTORSTRANGE,Sorcerer Supreme: Now Live!
+ID_MOTD_DE_DOCTORSTRANGE,Battle for a chance to win DOCTOR STRANGE shards
+ID_MOTD_NA_STRANGESUPREME,Strange Effect: Now Live!
+ID_MOTD_DE_STRANGESUPREME,Battle for a chance to win Doctor Strange (Heartless) shards
+ID_MOTD_NA_DOCTORVOODOO,Loa Whisperer: Now Live!
+ID_MOTD_DE_DOCTORVOODOO,Battle for a chance to win Doctor Voodoo shards
+ID_MOTD_NA_DOMINO,Lady Luck: Now Live!
+ID_MOTD_DE_DOMINO,Battle for a chance to win Domino shards
+ID_MOTD_NA_DRAX,Destroyer: Now Live!
+ID_MOTD_DE_DRAX,Battle for a chance to win DRAX shards
+ID_MOTD_NA_ECHO,Photographic: Now Live!
+ID_MOTD_DE_ECHO,Battle for a chance to win Echo shards
+ID_MOTD_NA_ELECTRO,Bright Persona: Now Live!
+ID_MOTD_DE_ELECTRO,Battle for a chance to win Electro shards
+ID_MOTD_NA_ELEKTRA,Master Assassin: Now Live!
+ID_MOTD_DE_ELEKTRA,Battle for a chance to win ELEKTRA shards
+ID_MOTD_NA_ELSABLOODSTONE,Monster Hunter: Now Live!
+ID_MOTD_DE_ELSABLOODSTONE,Battle for a chance to win Elsa Bloodstone shards
+ID_MOTD_NA_EMMAFROST,Tough Skin: Now Live!
+ID_MOTD_DE_EMMAFROST,Battle for a chance to win Emma Frost shards
+ID_MOTD_NA_FALCON,EXO-7: Now Live!
+ID_MOTD_DE_FALCON,Battle for a chance to win Falcon shards
+ID_MOTD_NA_FANTOMEX,Weapon XIII: Now Live!
+ID_MOTD_DE_FANTOMEX,Battle for a chance to win Fantomex shards
+ID_MOTD_NA_GAMBIT,Deck Dealer: Now Live!
+ID_MOTD_DE_GAMBIT,Battle for a chance to win Gambit shards
+ID_MOTD_NA_GAMORA,Deadliest Woman: Now Live!
+ID_MOTD_DE_GAMORA,Battle for a chance to win GAMORA shards
+ID_MOTD_NA_GHOSTRIDER,Devil's Pact: Now Live!
+ID_MOTD_DE_GHOSTRIDER,Battle for a chance to win Ghost Rider shards
+ID_MOTD_NA_GHOSTSPIDER,Dimension Traveler: Now Live!
+ID_MOTD_DE_GHOSTSPIDER,Battle for a chance to win Ghost-Spider shards
+ID_MOTD_NA_GHOST,Quantum Snare: Now Live!
+ID_MOTD_DE_GHOST,Battle for a chance to win Ghost shards
+ID_MOTD_NA_GRAVITON,Minister of Science: Now Live!
+ID_MOTD_DE_GRAVITON,Battle for a chance to win Graviton shards
+ID_MOTD_NA_GROOT,Gentle Giant: Now Live!
+ID_MOTD_DE_GROOT,Battle for a chance to win GROOT shards
+ID_MOTD_NA_HANDDMG_BONUS,Crimson Edge: Now Live!
+ID_MOTD_DE_HANDDMG_BONUS,Battle for a chance to win Hand Blademaster shards
+ID_MOTD_NA_HAWKEYE,Sharpshooter: Now Live!
+ID_MOTD_DE_HAWKEYE,Battle for a chance to win HAWKEYE shards
+ID_MOTD_NA_HEIMDALL,Gatekeeper: Now Live!
+ID_MOTD_DE_HEIMDALL,Battle for a chance to win Heimdall shards
+ID_MOTD_NA_HELA,Queen of the Dead: Now Live!
+ID_MOTD_DE_HELA,Battle for a chance to win Hela shards
+ID_MOTD_NA_HUMANTORCH,Flame On: Now Live!
+ID_MOTD_DE_HUMANTORCH,Battle for a chance to win Human Torch shards
+ID_MOTD_NA_HYDRADMG_SINGLE,Precise Shot: Now Live!
+ID_MOTD_DE_HYDRADMG_SINGLE,Battle for a chance to win Hydra Sniper shards
+ID_MOTD_NA_ICEMAN,Cold As Ice: Now Live!
+ID_MOTD_DE_ICEMAN,Battle for a chance to win Iceman shards
+ID_MOTD_NA_IKARIS,Prime Eternal: Now Live!
+ID_MOTD_DE_IKARIS,Battle for a chance to win Ikaris shards
+ID_MOTD_NA_IRONFIST,Immortal Protector: Now Live!
+ID_MOTD_DE_IRONFIST,Battle for a chance to win IRON FIST shards
+ID_MOTD_NA_IRONHEART,Tech Prodigy: Now Live!
+ID_MOTD_DE_IRONHEART,Battle for a chance to win Ironheart shards
+ID_MOTD_NA_JESSICAJONES,Alias: Now Live!
+ID_MOTD_DE_JESSICAJONES,Battle for a chance to win JESSICA JONES shards
+ID_MOTD_NA_JUGGERNAUT,I'm the Juggernaut: Now Live!
+ID_MOTD_DE_JUGGERNAUT,Battle for a chance to win Juggernaut shards
+ID_MOTD_NA_KARNAK,The Shatterer: Now Live!
+ID_MOTD_DE_KARNAK,Battle for a chance to win Karnak shards
+ID_MOTD_NA_KATEBISHOP,Self Declared: Now Live!
+ID_MOTD_DE_KATEBISHOP,Battle for a chance to win Kate Bishop shards
+ID_MOTD_NA_SYBIL,S.T.R.I.K.E. Leader: Now Live!
+ID_MOTD_DE_SYBIL,Battle for a chance to win Kestrel shards
+ID_MOTD_NA_KILLMONGER,Rival King: Now Live!
+ID_MOTD_DE_KILLMONGER,Battle for a chance to win Killmonger shards
+ID_MOTD_NA_KINGPIN,Kingpin of Crime: Now Live!
+ID_MOTD_DE_KINGPIN,Battle for a chance to win KINGPIN shards
+ID_MOTD_NA_KITTYPRYDE,Into the Shadow: Now Live!
+ID_MOTD_DE_KITTYPRYDE,Battle for a chance to win Kitty Pryde shards
+ID_MOTD_NA_KORATH,Pursuer: Now Live!
+ID_MOTD_DE_KORATH,Battle for a chance to win KORATH shards
+ID_MOTD_NA_KREESUPPORT_HOT,Farseer: Now Live!
+ID_MOTD_DE_KREESUPPORT_HOT,Battle for a chance to win Kree Oracle shards
+ID_MOTD_NA_LADYDEATHSTRIKE,Tough as Nails: Now Live!
+ID_MOTD_DE_LADYDEATHSTRIKE,Battle for a chance to win Lady Deathstrike shards
+ID_MOTD_NA_LOKI,God of Mischief: Now Live!
+ID_MOTD_DE_LOKI,Battle for a chance to win LOKI shards
+ID_MOTD_NA_LONGSHOT,Probability Master: Now Live!
+ID_MOTD_DE_LONGSHOT,Battle for a chance to win Longshot shards
+ID_MOTD_NA_LUKECAGE,Power Man: Now Live!
+ID_MOTD_DE_LUKECAGE,Battle for a chance to win LUKE CAGE shards
+ID_MOTD_NA_MADELYNEPRYOR,Pryor Existence: Now Live!
+ID_MOTD_DE_MADELYNEPRYOR,Battle for a chance to win Madelyne Pryor shards
+ID_MOTD_NA_MAGIK,Limbo Ruler: Now Live!
+ID_MOTD_DE_MAGIK,Battle for a chance to win Magik shards
+ID_MOTD_NA_MARIAHILL,Deputy Director: Now Live!
+ID_MOTD_DE_MARIAHILL,Battle for a chance to win Maria Hill shards
+ID_MOTD_NA_MANTIS,Guardian Empath: Now Live!
+ID_MOTD_DE_MANTIS,Battle for a chance to win Mantis shards
+ID_MOTD_NA_MBAKU,Jabari Chieftain: Now Live!
+ID_MOTD_DE_MBAKU,Battle for a chance to win M'Baku shards
+ID_MOTD_NA_MERCSUPPORT_BUFFS,Shot Caller: Now Live!
+ID_MOTD_DE_MERCSUPPORT_BUFFS,Battle for a chance to win MERCENARY LIEUTENANT shards
+ID_MOTD_NA_JANETHOR,Worthy: Now Live!
+ID_MOTD_DE_JANETHOR,Battle for a chance to win Mighty Thor shards
+ID_MOTD_NA_MINERVA,Gene Genie: Now Live!
+ID_MOTD_DE_MINERVA,Battle for a chance to win Minn-Erva shards
+ID_MOTD_NA_MRFANTASTIC,Elastic: Now Live!
+ID_MOTD_DE_MRFANTASTIC,Battle for a chance to win Mister Fantastic shards
+ID_MOTD_NA_MRSINISTER,House of Essex: Now Live!
+ID_MOTD_DE_MRSINISTER,Battle for a chance to win Mister Sinister shards
+ID_MOTD_NA_MISTYKNIGHT,Bionic Detective: Now Live!
+ID_MOTD_DE_MISTYKNIGHT,Battle for a chance to win Misty Knight shards
+ID_MOTD_NA_MSMARVEL,Fangirl: Now Live!
+ID_MOTD_DE_MSMARVEL,Battle for a chance to win MS. MARVEL shards
+ID_MOTD_NA_MOONDRAGON,Titanian Student: Now Live!
+ID_MOTD_DE_MOONDRAGON,Battle for a chance to win Moondragon shards
+ID_MOTD_NA_MOONKNIGHT,Second Chance: Now Live!
+ID_MOTD_DE_MOONKNIGHT,Battle for a chance to win Moon Knight shards
+ID_MOTD_NA_MORBIUS,Blood Sucker: Now Live!
+ID_MOTD_DE_MORBIUS,Battle for a chance to win Morbius shards
+ID_MOTD_NA_MULTIPLEMAN,Seeing Double: Now Live!
+ID_MOTD_DE_MULTIPLEMAN,Battle for a chance to win Multiple Man shards
+ID_MOTD_NA_MYSTERIO,Illusion Master: Now Live!
+ID_MOTD_DE_MYSTERIO,Battle for a chance to win Mysterio shards
+ID_MOTD_NA_MYSTIQUE,Shapeshifter: Now Live!
+ID_MOTD_DE_MYSTIQUE,Battle for a chance to win Mystique shards
+ID_MOTD_NA_NAMOR,Atlantean Prince: Now Live!
+ID_MOTD_DE_NAMOR,Battle for a chance to win Namor shards
+ID_MOTD_NA_NEBULA,Sadistic Sister: Now Live!
+ID_MOTD_DE_NEBULA,Battle for a chance to win NEBULA shards
+ID_MOTD_NA_NEGASONIC,Big Boom: Now Live!
+ID_MOTD_DE_NEGASONIC,Battle for a chance to win Negasonic Teenage Warhead shards
+ID_MOTD_NA_NICOMINORU,Sister Grimm: Now Live!
+ID_MOTD_DE_NICOMINORU,Battle for a chance to win Nico Minoru shards
+ID_MOTD_NA_NIGHTNURSE,First Responder: Now Live!
+ID_MOTD_DE_NIGHTNURSE,Battle for a chance to win Night Nurse shards
+ID_MOTD_NA_NOBU,Master of Ninjas: Now Live!
+ID_MOTD_DE_NOBU,Battle for a chance to win NOBU shards
+ID_MOTD_NA_OKOYE,Dora Milaje: Now Live!
+ID_MOTD_DE_OKOYE,Battle for a chance to win OKOYE shards
+ID_MOTD_NA_PHYLAVELL,Quantum Prodigy: Now Live!
+ID_MOTD_DE_PHYLAVELL,Battle for a chance to win Phyla-Vell shards
+ID_MOTD_NA_POLARIS,Mutant Queen: Now Live!
+ID_MOTD_DE_POLARIS,Battle for a chance to win Polaris shards
+ID_MOTD_NA_PROXIMAMIDNIGHT,Dead of Night: Now Live!
+ID_MOTD_DE_PROXIMAMIDNIGHT,Battle for a chance to win Proxima Midnight shards
+ID_MOTD_NA_PSYLOCKE,Psionic Assassin: Now Live!
+ID_MOTD_DE_PSYLOCKE,Battle for a chance to win Psylocke shards
+ID_MOTD_NA_PUNISHER,Violent Vigilante: Now Live!
+ID_MOTD_DE_PUNISHER,Battle for a chance to win PUNISHER shards
+ID_MOTD_NA_PYRO,Pyrokinetic: Now Live!
+ID_MOTD_DE_PYRO,Battle for a chance to win Pyro shards
+ID_MOTD_NA_QUAKE,Tremors: Now Live!
+ID_MOTD_DE_QUAKE,Battle for a chance to win QUAKE shards
+ID_MOTD_NA_REDGUARDIAN,Soviet Shield: Now Live!
+ID_MOTD_DE_REDGUARDIAN,Battle for a chance to win Red Guardian shards
+ID_MOTD_NA_REDSKULL,Hail Hydra: Now Live!
+ID_MOTD_DE_REDSKULL,Battle for a chance to win Red Skull shards
+ID_MOTD_NA_REDSTARS_BLITZ,Red Stars Rampage: Now Live!
+ID_MOTD_DE_REDSTARS_BLITZ,Battle for a chance to earn Red Star Orb Fragments
+ID_MOTD_NA_RESCUE,Sonic Resonance: Now Live!
+ID_MOTD_DE_RESCUE,Battle for a chance to win Rescue shards
+ID_MOTD_NA_RHINO,Hard Charger: Now Live!
+ID_MOTD_DE_RHINO,Battle for a chance to win Rhino shards
+ID_MOTD_NA_ROCKETRACCOON,Weapons Expert: Now Live!
+ID_MOTD_DE_ROCKETRACCOON,Battle for a chance to win ROCKET RACCOON shards
+ID_MOTD_NA_RONAN,Accuser: Now Live!
+ID_MOTD_DE_RONAN,Battle for a chance to win RONAN shards
+ID_MOTD_NA_RONAN_BLITZ_CD,Accuser Blitz: Now Live!
+ID_MOTD_DE_RONAN_BLITZ_CD,Battle to earn Ronan shards with reduced Blitz cooldowns!
+ID_MOTD_NA_SABRETOOTH,Vicious Hunter: Now Live!
+ID_MOTD_DE_SABRETOOTH,Battle for a chance to win Sabretooth shards
+ID_MOTD_NA_SCARLETSPIDER,Perfect Clone: Now Live!
+ID_MOTD_DE_SCARLETSPIDER,Battle for a chance to win Scarlet Spider shards
+ID_MOTD_NA_SCARLETWITCH,Mistress of Magic: Now Live!
+ID_MOTD_DE_SCARLETWITCH,Battle for a chance to win SCARLET WITCH shards
+ID_MOTD_NA_SCIENTISTSUPREME,Experimental: Now Live!
+ID_MOTD_DE_SCIENTISTSUPREME,Battle for a chance to win Scientist Supreme shards
+ID_MOTD_NA_SCREAM,Locks of Terror: Now Live!
+ID_MOTD_DE_SCREAM,Battle for a chance to win Scream shards
+ID_MOTD_NA_SERSI,Master of Matter: Now Live!
+ID_MOTD_DE_SERSI,Battle for a chance to win Sersi shards
+ID_MOTD_NA_SHANGCHI,Human Weapon: Now Live!
+ID_MOTD_DE_SHANGCHI,Battle for a chance to win Shang-Chi shards
+ID_MOTD_NA_SHARONCARTER,Super Spy: Now Live!
+ID_MOTD_DE_SHARONCARTER,Battle for a chance to win Sharon Carter shards
+ID_MOTD_NA_SHATTERSTAR,Crowd Pleaser: Now Live!
+ID_MOTD_DE_SHATTERSTAR,Battle for a chance to win Shatterstar shards
+ID_MOTD_NA_SHEHULK,Emerald Liberator: Now Live!
+ID_MOTD_DE_SHEHULK,Battle for a chance to win She-Hulk shards
+ID_MOTD_NA_SHIELDDMG_AOE,Air Support: Now Live!
+ID_MOTD_DE_SHIELDDMG_AOE,Battle for a chance to win S.H.I.E.L.D. Assault shards
+ID_MOTD_NA_SHIELDDMG_DEFENSE,Cover Fire: Now Live!
+ID_MOTD_DE_SHIELDDMG_DEFENSE,Battle for a chance to win S.H.I.E.L.D. Trooper shards
+ID_MOTD_NA_SHIELDSUPPORT_HEAL,Best Medic: Now Live!
+ID_MOTD_DE_SHIELDSUPPORT_HEAL,Battle for a chance to win S.H.I.E.L.D. Medic shards
+ID_MOTD_NA_SHIELDSUPPORT_STEALTH,Extractor: Now Live!
+ID_MOTD_DE_SHIELDSUPPORT_STEALTH,Battle for a chance to win S.H.I.E.L.D. Operative shards
+ID_MOTD_NA_SHIELDTANK_STUN,Bulwark: Now Live!
+ID_MOTD_DE_SHIELDTANK_STUN,Battle for a chance to win S.H.I.E.L.D. Security shards
+ID_MOTD_NA_SHOCKER,Vibro-Smasher: Now Live!
+ID_MOTD_DE_SHOCKER,Battle for a chance to win Shocker shards
+ID_MOTD_NA_SIF,Shield Maiden: Now Live!
+ID_MOTD_DE_SIF,Battle for a chance to win Sif shards
+ID_MOTD_NA_SILVERSAMURAI,Tachyon Warrior: Now Live!
+ID_MOTD_DE_SILVERSAMURAI,Battle for a chance to win Silver Samurai shards
+ID_MOTD_NA_SILVERSURFER,The Herald: Now Live!
+ID_MOTD_DE_SILVERSURFER,Battle for a chance to win Silver Surfer shards
+ID_MOTD_NA_SPIDERMAN,Web-Slinger: Now Live!
+ID_MOTD_DE_SPIDERMAN,Battle for a chance to win SPIDER-MAN shards
+ID_MOTD_NA_SPIDERPUNK,Rockin Arachnid: Now Live!
+ID_MOTD_DE_SPIDERPUNK,Battle for a chance to win Spider-Punk shards
+ID_MOTD_NA_SPIDERWOMAN,Arachne: Now Live!
+ID_MOTD_DE_SPIDERWOMAN,Battle for a chance to win Spider-Woman shards
+ID_MOTD_NA_SQUIRRELGIRL,SQUIRREL!: Now Live!
+ID_MOTD_DE_SQUIRRELGIRL,Battle for a chance to win Squirrel Girl shards
+ID_MOTD_NA_STATURE,Big Shoes: Now Live!
+ID_MOTD_DE_STATURE,Battle for a chance to win Stature shards
+ID_MOTD_NA_STORM,Weather Goddess: Now Live!
+ID_MOTD_DE_STORM,Battle for a chance to win Storm shards
+ID_MOTD_NA_STRYFE,Bad Blood: Now Live!
+ID_MOTD_DE_STRYFE,Battle for a chance to win Stryfe shards
+ID_MOTD_NA_SUNFIRE,Pure Energy: Now Live!
+ID_MOTD_DE_SUNFIRE,Battle for a chance to win Sunfire shards
+ID_MOTD_NA_SWARM,Bzzzz: Now Live!
+ID_MOTD_DE_SWARM,Battle for a chance to win Swarm shards
+ID_MOTD_NA_SYMBIOTESPIDERMAN,Back In Black: Now Live!
+ID_MOTD_DE_SYMBIOTESPIDERMAN,Battle for a chance to win Spider-Man (Symbiote) shards
+ID_MOTD_NA_TASKMASTER,Mimic Master: Now Live!
+ID_MOTD_DE_TASKMASTER,Battle for a chance to win Taskmaster shards
+ID_MOTD_NA_TCHALLA,Mistaken Identity: Now Live!
+ID_MOTD_DE_TCHALLA,Battle for a chance to win Star-Lord (T'Challa) shards
+ID_MOTD_NA_THANOS,Mad Titan: Now Live!
+ID_MOTD_DE_THANOS,Battle for a chance to win Thanos shards
+ID_MOTD_NA_THING,Clobberin' Time: Now Live!
+ID_MOTD_DE_THING,Battle for a chance to win The Thing shards
+ID_MOTD_NA_THOR,God of Thunder: Now Live!
+ID_MOTD_DE_THOR,Battle for a chance to win THOR shards
+ID_MOTD_NA_TOAD,Sticky Situation: Now Live!
+ID_MOTD_DE_TOAD,Battle for a chance to win Toad shards
+ID_MOTD_NA_ULTGREENGOBLIN,Oz: Now Live!
+ID_MOTD_DE_ULTGREENGOBLIN,Battle for a chance to win Green Goblin shards
+ID_MOTD_NA_ULTSPIDERMAN,Kid Arachnid: Now Live!
+ID_MOTD_DE_ULTSPIDERMAN,Battle for a chance to win Spider-Man (Miles) shards
+ID_MOTD_NA_VALKYRIE,Seer of the Slain: Now Live!
+ID_MOTD_DE_VALKYRIE,Battle for a chance to win Valkyrie shards
+ID_MOTD_NA_VENOM,Symbiotic Terror: Now Live!
+ID_MOTD_DE_VENOM,Battle for a chance to win VENOM shards
+ID_MOTD_NA_VISION,Synthezoid: Now Live!
+ID_MOTD_DE_VISION,Battle for a chance to win VISION shards
+ID_MOTD_NA_VULTURE,Bird of Prey: Now Live!
+ID_MOTD_DE_VULTURE,Battle for a chance to win Vulture shards
+ID_MOTD_NA_WARMACHINE,Full Salvo: Now Live!
+ID_MOTD_DE_WARMACHINE,Battle for a chance to win War Machine shards
+ID_MOTD_NA_WASP,Stinger: Now Live!
+ID_MOTD_DE_WASP,Battle for a chance to win WASP shards
+ID_MOTD_NA_WHITETIGER,Ancestral Spirit: Now Live!
+ID_MOTD_DE_WHITETIGER,Battle for a chance to win White Tiger shards
+ID_MOTD_NA_WINTERSOLDIER,Bucky Barnes: Now Live!
+ID_MOTD_DE_WINTERSOLDIER,Battle for a chance to win WINTER SOLDIER shards
+ID_MOTD_NA_WONG,Mystic Protector: Now Live!
+ID_MOTD_DE_WONG,Battle for a chance to win Wong shards
+ID_MOTD_NA_WOLVERINE,Weapon X: Now Live!
+ID_MOTD_DE_WOLVERINE,Battle for a chance to win WOLVERINE shards
+ID_MOTD_NA_X23,Target X: Now Live!
+ID_MOTD_DE_X23,Battle for a chance to win X-23 shards
+ID_MOTD_NA_YELENABELOVA,Red Room: Now Live!
+ID_MOTD_DE_YELENABELOVA,Battle for a chance to win Yelena Belova shards
+ID_MOTD_NA_YELLOWJACKET,Sharp Sting: Now Live!
+ID_MOTD_DE_YELLOWJACKET,Battle for a chance to win Yellowjacket shards
+ID_MOTD_NA_YONDU,Centaurian Hunter: Now Live!
+ID_MOTD_DE_YONDU,Battle for a chance to win YONDU shards
+ID_MOTD_NA_YOYO,Slingshot: Now Live!
+ID_MOTD_DE_YOYO,Battle for a chance to win Yo-Yo shards
+ID_MOTD_NA_LEVEL80_ANNOUNCE,Level Cap Increased!
+ID_MOTD_DE_LEVEL80_ANNOUNCE,Max Commander Level Now 80
+ID_MOTD_NA_VALUABLELESSONS,LIVE: Valuable Lessons
+ID_MOTD_DE_VALUABLELESSONS,Use characters assigned the Mentorship trait to fight in battles to earn gear!
+ID_MOTD_NA_VS_BATTLE_PREHYPE,Coming Soon: VS Battle
+ID_MOTD_DE_VS_BATTLE_PREHYPE,Prepare your rosters for an exciting new way to play!
+ID_MOTD_NA_VS_BATTLE_MATCHMAKING,Matchmaking is Now Live
+ID_MOTD_DE_VS_BATTLE_MATCHMAKING,Find an opponent to test the might of your roster in real time combat!
+ID_MOTD_NA_CHADWICK,WAKANDA FOREVER
+ID_MOTD_DE_CHADWICK,
+ID_MOTD_NA_DOOMS_DAY_SALE,Doom's Day Sale
+ID_MOTD_DE_DOOMS_DAY_SALE,Reinforce your roster with deals and limited-time savings!
+ID_MOTD_NA_FULLFORCE,NOW LIVE: Full Force
+ID_MOTD_DE_FULLFORCE,2x X-Force character shards from Campaigns
+ID_MOTD_NA_SINISTERASSEMBLY_PREHYPE,Coming Soon
+ID_MOTD_DE_SINISTERASSEMBLY_PREHYPE,The Sinister Assembly Event is on the way!
+ID_MOTD_NA_SINISTERASSEMBLY,LIVE: Sinister Assembly!
+ID_MOTD_DE_SINISTERASSEMBLY,Acquire Sinister Credits to open Assembly Orbs and earn tons of gear!
+ID_MOTD_NA_SINISTERASSEMBLY_SALE,Sinister Assembly Sale
+ID_MOTD_DE_SINISTERASSEMBLY_SALE,Grab daily character deals and special offers!
+ID_MOTD_NA_SHEHULK_PREHYPE,Coming Soon: She-Hulk
+ID_MOTD_DE_SHEHULK_PREHYPE,The Jade Giantess is on the way!
+ID_MOTD_NA_ISO8_ANNOUNCE,Now Live: Iso-8
+ID_MOTD_DE_ISO8_ANNOUNCE,Customize and power up your characters like never before!
+ID_MOTD_NA_FULLMATRIX_PREHYPE,Coming Soon!
+ID_MOTD_DE_FULLMATRIX_PREHYPE,The Full Matrix event is coming soon!
+ID_MOTD_NA_FULLMATRIX,LIVE: Full Matrix
+ID_MOTD_DE_FULLMATRIX,Use Bio characters to fight in battles and earn Iso-8 Crystals!
+ID_MOTD_NA_ANTIVENOM_PREHYPE,Coming Soon: Anti-Venom
+ID_MOTD_DE_ANTIVENOM_PREHYPE,The Symbiote Support is on the way!
+ID_MOTD_NA_HALLOWEEN2020,Live: Waking Nightmare
+ID_MOTD_DE_HALLOWEEN2020,Scare up Anti-Venom shards and gear!
+ID_MOTD_NA_HALLOWEEN_POLL,Trick... Or... Treat...?
+ID_MOTD_DE_HALLOWEEN_POLL,Vote now for your Halloween community prize on our Facebook page!
+ID_MOTD_NA_DOOM_2_ANNOUNCE,Live: Doom War: Chapter 2!
+ID_MOTD_DE_DOOM_2_ANNOUNCE,Join the fight against Doctor Doom's forces!
+ID_MOTD_NA_DARKDIMENSION_4_ANNOUNCE,Dark Dimension IV is here...
+ID_MOTD_DE_DARKDIMENSION_4_ANNOUNCE,Recruit the destroyer of worlds: Doctor Doom!
+ID_MOTD_NA_PARASITICSYMBIOSIS,LIVE: Parasitic Symbiosis
+ID_MOTD_DE_PARASITICSYMBIOSIS,Battle using Symbiotes to devour gear and Training Module rewards!
+ID_MOTD_NA_GHOST_PREHYPE,Coming Soon: Ghost
+ID_MOTD_DE_GHOST_PREHYPE,The Dark Dimension Spook is on the way!
+ID_MOTD_NA_YELLOWJACKET_PREHYPE,Coming Soon: Yellowjacket
+ID_MOTD_DE_YELLOWJACKET_PREHYPE,The searing stinger is on the way!
+ID_MOTD_NA_MOJOS_MAYHEM_ANNOUNCE,Introducing: Mojo's Mayhem
+ID_MOTD_DE_MOJOS_MAYHEM_ANNOUNCE,Help Mojo crush his ratings goals and earn fabulous prizes!
+ID_MOTD_NA_TWITTER_CAMPAIGN_JA,Japanese Twitter Campaign!
+ID_MOTD_DE_TWITTER_CAMPAIGN_JA,"Get Rewards by Follow & Retweet "
+ID_MOTD_NA_DOOM_THREE_ANNOUNCE,Live: Doom War: Chapter 3!
+ID_MOTD_DE_DOOM_THREE_ANNOUNCE,The fight against Doom continues!
+ID_MOTD_NA_LONGSHOT_PREHYPE,Coming Soon: Longshot
+ID_MOTD_DE_LONGSHOT_PREHYPE,The Odds Breaker is on the way!
+ID_MOTD_NA_MOJO_WINTER_SPECIAL,LIVE: Mojo's Winter Special
+ID_MOTD_DE_MOJO_WINTER_SPECIAL,Fight for Screen Time by spending Campaign Energy and fighting in battles.
+ID_MOTD_NA_YELENA_PREHYPE,Coming Soon: Yelena Belova
+ID_MOTD_DE_YELENA_PREHYPE,The Invisible Assassin is on the way!
+ID_MOTD_NA_IONINFLUX,LIVE: Ion Influx
+ID_MOTD_DE_IONINFLUX,Enjoy reduced costs when you refresh Iso-8 Campaign Energy!
+ID_MOTD_NA_RED_GUARDIAN_PREHYPE,Coming Soon: Red Guardian
+ID_MOTD_DE_RED_GUARDIAN_PREHYPE,The Stalwart Protector is on the way!
+ID_MOTD_NA_KITTY_PRYDE_PREHYPE,Coming Soon: Kitty Pryde
+ID_MOTD_DE_KITTY_PRYDE_PREHYPE,The Astonishing X-Men Protector is on the way!
+ID_MOTD_NA_WINTER_2021_BLITZ,LIVE: Red Winter
+ID_MOTD_DE_WINTER_2021_BLITZ,Warm your roster with Red Guardian shards and gear!
+ID_MOTD_NA_12_DAYS_OF_SALES,12 Days of Sales
+ID_MOTD_DE_12_DAYS_OF_SALES,Tis the season to save big!
+ID_MOTD_NA_ICEMAN_PREHYPE,Coming Soon: Iceman
+ID_MOTD_DE_ICEMAN_PREHYPE,The subzero Mutant is on the way!
+ID_MOTD_NA_COVERT_OPS_LIVE,LIVE: Covert Ops
+ID_MOTD_DE_COVERT_OPS_LIVE,Battle with Military characters to extract gear rewards!
+ID_MOTD_NA_JUBILEE_PREHYPE,"Coming Soon: Like, Totally Jubilee"
+ID_MOTD_DE_JUBILEE_PREHYPE,Prepare for the Legendary Astonishing X-Men member!
+ID_MOTD_NA_WHITE_TIGER_PREHYPE,Coming Soon: White Tiger
+ID_MOTD_DE_WHITE_TIGER_PREHYPE,The Shadowland Hunter
+ID_MOTD_NA_WHITE_TIGER_ECM_PREVIEW,Coming Soon: Shadowland
+ID_MOTD_DE_WHITE_TIGER_ECM_PREVIEW,Prepare for White Tiger!
+ID_MOTD_NA_WHITE_TIGER_ECM_LIVE,LIVE: Shadowland
+ID_MOTD_DE_WHITE_TIGER_ECM_LIVE,Battle to earn White Tiger shards!
+ID_MOTD_NA_BISHOP_PREHYPE,Coming Soon: Bishop
+ID_MOTD_DE_BISHOP_PREHYPE,Get ready for a Blast from the Future!
+ID_MOTD_NA_DOOM_FIRSTSTRIKE_LIVE,LIVE: Doom Raid - First Strike
+ID_MOTD_DE_DOOM_FIRSTSTRIKE_LIVE,New limited-time Raid with big rewards!
+ID_MOTD_NA_ROYAL_COUPLE_ANNOUNCE,NOW LIVE: Royal Couple
+ID_MOTD_DE_ROYAL_COUPLE_ANNOUNCE,Celebrate Black History Month with 2x Black Panther & Storm character shards.
+ID_MOTD_NA_MOJO_SEASON_THREE_PREHYPE,Mayhem Season 3 Starts Soon...
+ID_MOTD_DE_MOJO_SEASON_THREE_PREHYPE,Turn Ratings into Beast shards and big rewards!
+ID_MOTD_NA_LUNARFESTIVAL_LIVE,LIVE: Lunar Festival
+ID_MOTD_DE_LUNARFESTIVAL_LIVE,"Light up your roster with gear, Gold, and more!"
+ID_MOTD_NA_STRIKE_GAMMARAIDS,Gamma Raid
+ID_MOTD_DE_STRIKE_GAMMARAIDS,Earn character shards for select Cosmic Brawlers & Protectors!
+ID_MOTD_NA_FALCON_EVENT_ANNOUNCE,NOW LIVE: Eyes in the Skies
+ID_MOTD_DE_FALCON_EVENT_ANNOUNCE,Celebrate Black History Month with 2x Falcon shards.
+ID_MOTD_NA_LUKECAGE_EVENT_ANNOUNCE,LIVE: Hero for Hire
+ID_MOTD_DE_LUKECAGE_EVENT_ANNOUNCE,Celebrate Black History Month with 2x Luke Cage shards.
+ID_MOTD_NA_OKOYE_EVENT_ANNOUNCE,LIVE: Tip of the Spear
+ID_MOTD_DE_OKOYE_EVENT_ANNOUNCE,Celebrate Black History Month with 2x Okoye shards.
+ID_MOTD_NA_DD_GLOBAL_SOCIAL_POLL,Dark Dimension IV Global Poll
+ID_MOTD_DE_DD_GLOBAL_SOCIAL_POLL,Vote now on our Facebook page for the first Dark Dimension IV Blitz!
+ID_MOTD_NA_COSMIC_SOCIAL_POLL,Dark Dimension IV Cosmic Poll
+ID_MOTD_DE_COSMIC_SOCIAL_POLL,Vote now on our Facebook page for the Cosmic Dark Dimension IV Blitz!
+ID_MOTD_NA_PROXIMA_DD4_MOTD,Live: Endless Night
+ID_MOTD_DE_PROXIMA_DD4_MOTD,2x Proxima Midnight shards from Campaign
+ID_MOTD_NA_TASKMASTER_DD4_MOTD,Live: Cut and Copy
+ID_MOTD_DE_TASKMASTER_DD4_MOTD,2x Taskmaster shards from Campaign
+ID_MOTD_NA_MOONKNIGHT_PREHYPE,Coming Soon: Moon Knight
+ID_MOTD_DE_MOONKNIGHT_PREHYPE,The Vessel of Vengeance is on the way!
+ID_MOTD_NA_CITY_SOCIAL_POLL,Dark Dimension IV City Poll
+ID_MOTD_DE_CITY_SOCIAL_POLL,Vote now on our Facebook page for the City Dark Dimension IV Blitz!
+ID_MOTD_NA_MULTIPLEMAN_PREHYPE,Coming Soon: Multiple Man
+ID_MOTD_DE_MULTIPLEMAN_PREHYPE,The One-Man Army
+ID_MOTD_NA_NEWMOON_2021_BLITZ,LIVE: New Moon
+ID_MOTD_DE_NEWMOON_2021_BLITZ,Make your roster shine with Moon Knight shards and gear!
+ID_MOTD_NA_CAPTAINMARVEL_EVENT_ANNOUNCE,LIVE: War Bird
+ID_MOTD_DE_CAPTAINMARVEL_EVENT_ANNOUNCE,Celebrate Women's History Month with 2x Captain Marvel shards.
+ID_MOTD_NA_NIGHTNURSE_EVENT_ANNOUNCE,LIVE: Double Shift
+ID_MOTD_DE_NIGHTNURSE_EVENT_ANNOUNCE,Celebrate Women's History Month with 2x Night Nurse shards.
+ID_MOTD_NA_MAYHEM_SEASON4_PREHYPE,Mayhem Season 4 Starts Soon...
+ID_MOTD_DE_MAYHEM_SEASON4_PREHYPE,Updates to Objectives and Rewards are on the way!
+ID_MOTD_NA_MAYHEM_SEASON4_ANNOUNCE,LIVE: Season 4 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON4_ANNOUNCE,Turn Ratings into Scream shards and big rewards!
+ID_MOTD_NA_STELLAR_CELEBRATION_LIVE,LIVE: Stellar Celebration
+ID_MOTD_DE_STELLAR_CELEBRATION_LIVE,Celebrate 3 years with a reward supernova!
+ID_MOTD_NA_GEAR_EXPLOSION_UPDATE_LIVE,NOW LIVE: Gear Explosion
+ID_MOTD_DE_GEAR_EXPLOSION_UPDATE_LIVE,3x select Gear from Campaign
+ID_MOTD_NA_GEOLOGY_BOUNTY_UPDATE_LIVE,NOW LIVE: Geology Bounty
+ID_MOTD_DE_GEOLOGY_BOUNTY_UPDATE_LIVE,2x Iso-8 Crystals from Campaign
+ID_MOTD_NA_STRIKEPASS1_PREHYPE,Introducing: S.T.R.I.K.E. Pass!
+ID_MOTD_DE_STRIKEPASS1_PREHYPE,Season 1 Featured Reward: Silver Surfer shards!
+ID_MOTD_NA_STRIKEPASS1_LIVE,S.T.R.I.K.E. Pass: Season 1
+ID_MOTD_DE_STRIKEPASS1_LIVE,Recruit Silver Surfer with your Daily Objectives
+ID_MOTD_NA_POLARIS_PREHYPE,Coming Soon: Polaris
+ID_MOTD_DE_POLARIS_PREHYPE,The Mistress of Magnetism is coming to S.T.R.I.K.E. Pass!
+ID_MOTD_NA_FALCON_WINTERSOLDIER_TEASER,A special mission is on the way...
+ID_MOTD_DE_FALCON_WINTERSOLDIER_TEASER,Don't miss the Falcon and Winter Soldier Event Campaign!
+ID_MOTD_NA_FALCON_WINTERSOLDIER_ANNOUNCE,Falcon & the Winter Soldier
+ID_MOTD_DE_FALCON_WINTERSOLDIER_ANNOUNCE,Earn rewards via the Mini-Event Campaign & milestones
+ID_MOTD_NA_MAYHEM_SEASON5_PREHYPE,Mayhem Season 5 Starts Soon...
+ID_MOTD_DE_MAYHEM_SEASON5_PREHYPE,Updates to Objectives are on the way!
+ID_MOTD_NA_MAYHEM_SEASON5_ANNOUNCE,LIVE: Season 5 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON5_ANNOUNCE,Turn Ratings into Red Guardian shards and big rewards!
+ID_MOTD_NA_DARK_PROMOTIONCREDITS_ANNOUNCE,Unlocked: Dark Promotion Credits
+ID_MOTD_DE_DARK_PROMOTIONCREDITS_ANNOUNCE,Earn Red Stars for Ultron & Ultimus with Dark Promotion Credits
+ID_MOTD_NA_SUPPORTINCOMING_LIVE,LIVE: Support Incoming!
+ID_MOTD_DE_SUPPORTINCOMING_LIVE,"Battle with Support characters to earn gear, Gold, and more!"
+ID_MOTD_NA_KESTREL_PREHYPE,Coming Soon: Kestrel
+ID_MOTD_DE_KESTREL_PREHYPE,Interdimensional Raptor
+ID_MOTD_NA_STRIKEPASS2_LIVE,S.T.R.I.K.E. Pass: Season 2
+ID_MOTD_DE_STRIKEPASS2_LIVE,Recruit Polaris with your Daily Objectives
+ID_MOTD_NA_KESTRELEVENT_LIVE,LIVE: Birds of a Feather
+ID_MOTD_DE_KESTRELEVENT_LIVE,Dig your talons into big rewards!
+ID_MOTD_NA_COLLEENWING_PREHYPE,Coming Soon: Colleen Wing
+ID_MOTD_DE_COLLEENWING_PREHYPE,The samurai for hire is on the way!
+ID_MOTD_NA_AIMEVENT_LIVE,IT'S ALIVE: Made in the Lab
+ID_MOTD_DE_AIMEVENT_LIVE,Grow your A.I.M. team with character shards!
+ID_MOTD_NA_MAYHEM_SEASON6_ANNOUNCE,LIVE: Season 6 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON6_ANNOUNCE,Turn Ratings into Shatterstar shards and big rewards!
+ID_MOTD_NA_MISTYKNIGHT_PREHYPE,Coming Soon: Misty Knight
+ID_MOTD_DE_MISTYKNIGHT_PREHYPE,This Bionic Controller is on the way!
+ID_MOTD_NA_TIMELESSLOOKS_LIVE,LIVE: Timeless Looks
+ID_MOTD_DE_TIMELESSLOOKS_LIVE,"Add costumes for Scarlet Witch, Vision, and Thor!"
+ID_MOTD_NA_FL_SKILLITARY_TEASER,Coming Soon: Back to Bootcamp
+ID_MOTD_DE_FL_SKILLITARY_TEASER,Prepare your Skill Military team for battle!
+ID_MOTD_NA_FL_SKILLITARY_LIVE,LIVE: Back to Bootcamp
+ID_MOTD_DE_FL_SKILLITARY_LIVE,Assemble your Skill Military team to earn Training Modules!
+ID_MOTD_NA_SHADEOFICE,LIVE: All-New Shade of Ice
+ID_MOTD_DE_SHADEOFICE,"Participate in Arena battles to earn Purple Flash Bits. Use Purple Flash Bits to purchase the ""All-New X-Men"" costume for Iceman"
+ID_MOTD_NA_CAMPAIGNMISCHIEF_TEASER,Mischief is on the way...
+ID_MOTD_DE_CAMPAIGNMISCHIEF_TEASER,"Earn the ""President Loki"" Costume!"
+ID_MOTD_NA_CAMPAIGNMISCHIEF_LIVE,LIVE: Campaign Mischief
+ID_MOTD_DE_CAMPAIGNMISCHIEF_LIVE,Use Vote for Loki Energy to earn Bits and gear!
+ID_MOTD_NA_PHYLAVELL_PREHYPE,Coming Soon: Phyla-Vell
+ID_MOTD_DE_PHYLAVELL_PREHYPE,The Avatar of Oblivion
+ID_MOTD_NA_PHYLAVELL_ECM_PREVIEW,Coming Soon: Vote for Loki
+ID_MOTD_DE_PHYLAVELL_ECM_PREVIEW,Prepare for Phyla-Vell!
+ID_MOTD_NA_PHYLAVELL_ECM_LIVE,LIVE: Vote for Loki
+ID_MOTD_DE_PHYLAVELL_ECM_LIVE,Battle to earn Phyla-Vell shards!
+ID_MOTD_NA_MAYHEM_SEASON7_ANNOUNCE,LIVE: Season 7 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON7_ANNOUNCE,Turn Ratings into Kitty Pryde shards and big rewards!
+ID_MOTD_NA_SHOWYOURCOLORS_LIVE,LIVE: Show Your Colors
+ID_MOTD_DE_SHOWYOURCOLORS_LIVE,Celebrate Pride Month with Moondragon shards and rewards!
+ID_MOTD_NA_WEBOFSPIES_TEASER,A big mission is coming...
+ID_MOTD_DE_WEBOFSPIES_TEASER,Bolster your roster with big rewards!
+ID_MOTD_NA_WEBOFSPIES_ANNOUNCE,LIVE: Web of Spies
+ID_MOTD_DE_WEBOFSPIES_ANNOUNCE,Infiltrate a massive rewards cache!
+ID_MOTD_NA_SEEINGRED_LIVE,Enter the Seeing Red Sweepstakes
+ID_MOTD_DE_SEEINGRED_LIVE,"Enter to win character shards, Red Stars, and Power Cores!"
+ID_MOTD_NA_MAYHEM_SEASON8_ANNOUNCE,LIVE: Season 8 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON8_ANNOUNCE,Turn Ratings into Bishop shards and big rewards!
+ID_MOTD_NA_BLACKWIDOW_THEATRICAL,Marvel Studios' Black Widow
+ID_MOTD_DE_BLACKWIDOW_THEATRICAL,In Theaters & Disney+ Now
+ID_MOTD_NA_CLASSICLOOKS_ANNOUNCE,LIVE: Classic Looks
+ID_MOTD_DE_CLASSICLOOKS_ANNOUNCE,"Use Conspiracy Theories Energy to earn the ""Classic"" Captain America Costume!"
+ID_MOTD_NA_CAPTAINAMERICASAM_ANNOUNCE,Captain America (Sam) is here!
+ID_MOTD_DE_CAPTAINAMERICASAM_ANNOUNCE,Recruit the Secret Avengers' Raid team Protector
+ID_MOTD_NA_VEILEDTHREATS_ANNOUNCE,LIVE: Veiled Threats
+ID_MOTD_DE_VEILEDTHREATS_ANNOUNCE,Earn costumes for Gamora and Daredevil!
+ID_MOTD_NA_MARIAHILL_PREHYPE,Coming Soon: Maria Hill
+ID_MOTD_DE_MARIAHILL_PREHYPE,Your chance to recruit this Secret Avenger Support is on the way!
+ID_MOTD_NA_DEATHPOOL_PREHYPE,Coming Soon: Deathpool
+ID_MOTD_DE_DEATHPOOL_PREHYPE,The daughter of Deadpool and Death
+ID_MOTD_NA_DEATHPOOL_ECM_PREVIEW,Prepare for Deathpool!
+ID_MOTD_DE_DEATHPOOL_ECM_PREVIEW,On the way: Shadow of Deathpool
+ID_MOTD_NA_DEATHPOOL_ECM_LIVE,LIVE: Shadow of Deathpool
+ID_MOTD_DE_DEATHPOOL_ECM_LIVE,Battle to earn Deathpool shards!
+ID_MOTD_NA_MAYHEM_SEASON9_ANNOUNCE,LIVE: Season 9 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON9_ANNOUNCE,Turn Ratings into Moon Knight shards and big rewards!
+ID_MOTD_NA_POSTMORTEM_TEASER,Coming Soon: Post Mortem
+ID_MOTD_DE_POSTMORTEM_TEASER,Earn big rewards and say RIP to your enemies
+ID_MOTD_NA_POSTMORTEM_ANNOUNCE,LIVE: Post Mortem
+ID_MOTD_DE_POSTMORTEM_ANNOUNCE,Reap big gear rewards!
+ID_MOTD_NA_THELEGEND_TEASER,Coming Soon: The Legend
+ID_MOTD_DE_THELEGEND_TEASER,Legendary rewards including Shang-Chi shards!
+ID_MOTD_NA_THELEGEND_LIVE,NOW LIVE: The Legend
+ID_MOTD_DE_THELEGEND_LIVE,Earn Shang-Chi shards and his limited-time costume!
+ID_MOTD_NA_MIGHTIESTWARRIORS,LIVE: Mightiest Warriors
+ID_MOTD_DE_MIGHTIESTWARRIORS,"2x rewards for character shards, Gold, and Training Modules in Heroes Campaign"
+ID_MOTD_NA_MASTERPLAN,LIVE: Master Plan
+ID_MOTD_DE_MASTERPLAN,"2x rewards for character shards, Gold, and Training Modules in Villains Campaign"
+ID_MOTD_NA_IONIZE_BONUS_EVENT,NOW LIVE: Ionize
+ID_MOTD_DE_IONIZE_BONUS_EVENT,Receive double the Isotope-8 Campaign Energy when purchased for the next 24 hours.
+ID_MOTD_NA_JA_TWITTER_SHANGCHI_ANNOUNCE,Temp string
+ID_MOTD_DE_JA_TWITTER_SHANGCHI_ANNOUNCE,Temp string
+ID_MOTD_NA_CLOAKDAGGER,Luminous Duo: Now Live!
+ID_MOTD_DE_CLOAKDAGGER,Battle for a chance to win Luminous Credits
+ID_MOTD_NA_KO_SHANGCHI_ANNOUNCE,Temp string
+ID_MOTD_DE_KO_SHANGCHI_ANNOUNCE,Temp string
+ID_MOTD_NA_DAGGER_PREHYPE,Coming Soon: Dagger
+ID_MOTD_DE_DAGGER_PREHYPE,The living light is on the way!
+ID_MOTD_NA_DAGGER_ANNOUNCE,Dagger is ready for battle!
+ID_MOTD_DE_DAGGER_ANNOUNCE,Recruit the New Warriors' Support
+ID_MOTD_NA_CLOAK_PREHYPE,Coming Soon: Cloak
+ID_MOTD_DE_CLOAK_PREHYPE,Recruit the All-Consuming Shadow!
+ID_MOTD_NA_MAYHEM_SEASON10_ANNOUNCE,LIVE: Season 10 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON10_ANNOUNCE,Turn Ratings into Multiple Man shards and big rewards!
+ID_MOTD_NA_THEBLEEDINGKING_ANNOUNCE,LIVE: The Bleeding King
+ID_MOTD_DE_THEBLEEDINGKING_ANNOUNCE,"Bond with the ""Absolute Carnage"" costume!"
+ID_MOTD_NA_SILVERSAMURAI_PREHYPE,Coming Soon: Silver Samurai
+ID_MOTD_DE_SILVERSAMURAI_PREHYPE,Wielder of the Black Blade
+ID_MOTD_NA_SILVERSAMURAI_ECM_PREVIEW,Coming Soon: Curse of Muramasa
+ID_MOTD_DE_SILVERSAMURAI_ECM_PREVIEW,Prepare for Silver Samurai
+ID_MOTD_NA_SILVERSAMURAI_ECM_LIVE,LIVE: Curse of Muramasa
+ID_MOTD_DE_SILVERSAMURAI_ECM_LIVE,Battle to earn Silver Samurai shards!
+ID_MOTD_NA_UNSTABLEELEMENTS_LIVE,LIVE: Unstable Elements
+ID_MOTD_DE_UNSTABLEELEMENTS_LIVE,Stock up on T2 and T1 Iso-8!
+ID_MOTD_NA_EXPERIMENTX_TEASER,Coming Soon: Experiment X
+ID_MOTD_DE_EXPERIMENTX_TEASER,"Earn Wolverine's new costume, Teal gear, and more!"
+ID_MOTD_NA_EXPERIMENTX_LIVE,LIVE: Experiment X
+ID_MOTD_DE_EXPERIMENTX_LIVE,Claw your way to Wolverine's Weapon X Costume!
+ID_MOTD_NA_LADYDEATHSTRIKE_PREHYPE,Coming Soon: Lady Deathstrike
+ID_MOTD_DE_LADYDEATHSTRIKE_PREHYPE,The cybernetic Brawler for Weapon X is on the way!
+ID_MOTD_NA_MAYHEM_SEASON11_ANNOUNCE,LIVE: Season 11 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON11_ANNOUNCE,Turn Ratings into Emma Frost shards and big rewards!
+ID_MOTD_NA_LABXPERIMENTS_LIVE,LIVE: Lab X-Periments
+ID_MOTD_DE_LABXPERIMENTS_LIVE,Earn Lady Deathstrike shards & Venom's costume!
+ID_MOTD_NA_SERSI_PREHYPE,Coming Soon: Sersi
+ID_MOTD_DE_SERSI_PREHYPE,Eternal of Illusions
+ID_MOTD_NA_SERSI_ECM_PREVIEW,Starting Soon: Darkness Comes
+ID_MOTD_DE_SERSI_ECM_PREVIEW,Prepare for Sersi
+ID_MOTD_NA_SERSI_ECM_LIVE,LIVE: Darkness Comes
+ID_MOTD_DE_SERSI_ECM_LIVE,Mesmerize enemies in battle to earn Sersi shards!
+ID_MOTD_NA_OMEGARED_LE_PREHYPE,Coming Soon: The Red Death
+ID_MOTD_DE_OMEGARED_LE_PREHYPE,Prepare for the Weapon X Legend
+ID_MOTD_NA_OMEGARED_LE_LIVE,LIVE: The Red Death
+ID_MOTD_DE_OMEGARED_LE_LIVE,Recruit the Legendary Omega Red!
+ID_MOTD_NA_ETERNALS_SEA,Join our SEA Community Group
+ID_MOTD_DE_ETERNALS_SEA,"Players of SEA, join our exclusive community group for events, giveaways and lucky draws!"
+ID_MOTD_NA_HALLOWEEN2021_POLL,Trick... Or... Treat...?
+ID_MOTD_DE_HALLOWEEN2021_POLL,Vote now for your Halloween prize on our Facebook page!
+ID_MOTD_NA_ASSEENONTV_LIVE,Streaming Now: As Seen On TV
+ID_MOTD_DE_ASSEENONTV_LIVE,"Earn costumes for Ultron, Scarlet Witch, Vision, and Loki!"
+ID_MOTD_NA_DOOM4_LIVE,LIVE: Doom War: Chapter 4!
+ID_MOTD_DE_DOOM4_LIVE,Save Nexus Earth from certain Doom!
+ID_MOTD_NA_MAYHEM_SEASON12_ANNOUNCE,LIVE: Season 12 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON12_ANNOUNCE,Turn Ratings into Cyclops shards and big rewards!
+ID_MOTD_NA_KO_ETERNALS_ANNOUNCE,Temp string
+ID_MOTD_DE_KO_ETERNALS_ANNOUNCE,Temp string
+ID_MOTD_NA_DISNEYPLUSDAY_ANNOUNCE,All the best stories in one place.
+ID_MOTD_DE_DISNEYPLUSDAY_ANNOUNCE,Start streaming now!
+ID_MOTD_NA_INFINITYFEAST_TEASER,Prepare to feast on rewards
+ID_MOTD_DE_INFINITYFEAST_TEASER,Carve into enemies in Thanosgiving Blitz to earn rewards!
+ID_MOTD_NA_INFINITYFEAST_LIVE,LIVE: Infinity Feast
+ID_MOTD_DE_INFINITYFEAST_LIVE,Battle in Thanosgiving Blitz to hit milestones and earn rewards!
+ID_MOTD_NA_IKARIS_PREHYPE,Coming Soon: Ikaris
+ID_MOTD_DE_IKARIS_PREHYPE,Prepare for this Eternal Blaster!
+ID_MOTD_NA_DARKDIMENSIONV_LIVE,LIVE: Dark Dimension V!
+ID_MOTD_DE_DARKDIMENSIONV_LIVE,Finish first and live in MARVEL Strike Force infamy!
+ID_MOTD_NA_ETERNALCONNECTIONS_PREHYPE,Coming Soon: Eternal Connections
+ID_MOTD_DE_ETERNALCONNECTIONS_PREHYPE,Recruit Ikaris and earn Teal gear
+ID_MOTD_NA_ETERNALCONNECTIONS_LIVE,LIVE: Eternal Connections
+ID_MOTD_DE_ETERNALCONNECTIONS_LIVE,"Earn Ikaris shards, gear, and more!"
+ID_MOTD_NA_MAYHEM_SEASON13_ANNOUNCE,LIVE: Season 13 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON13_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_MAGIK_PREHYPE,Coming Soon: Magik
+ID_MOTD_DE_MAGIK_PREHYPE,The Ruler of Limbo is on the way!
+ID_MOTD_NA_WINTER2021_PREHYPE,Coming Soon: Season's Sorcery
+ID_MOTD_DE_WINTER2021_PREHYPE,Conjure Magik character shards and more!
+ID_MOTD_NA_WINTER2021_LIVE,LIVE: Season's Sorcery
+ID_MOTD_DE_WINTER2021_LIVE,Conjure Magik character shards and more!
+ID_MOTD_NA_MAYHEM_SEASON14_ANNOUNCE,LIVE: Season 14 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON14_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_GHOSTSPIDER_PREHYPE,Coming Soon: Ghost-Spider
+ID_MOTD_DE_GHOSTSPIDER_PREHYPE,Don't miss this Web-Warrior Controller!
+ID_MOTD_NA_SPIDERPUNK_PREHYPE,Coming Soon: Spider-Punk
+ID_MOTD_DE_SPIDERPUNK_PREHYPE,Get ready for Anarchy in the Web!
+ID_MOTD_NA_SPIDERPUNK_ECM_PREVIEW,Spider-Punk
+ID_MOTD_DE_SPIDERPUNK_ECM_PREVIEW,Coming Soon: Rock-n-Roll
+ID_MOTD_NA_SPIDERPUNK_ECM_LIVE,LIVE: Rock-n-Roll
+ID_MOTD_DE_SPIDERPUNK_ECM_LIVE,Rock the battlefield to earn Spider-Punk shards!
+ID_MOTD_NA_SCARLETSPIDER_PREHYPE,Coming Soon: Scarlet Spider
+ID_MOTD_DE_SCARLETSPIDER_PREHYPE,Get ready to web-up his character shards!
+ID_MOTD_NA_JP_NOWAYHOME_EVENT,Temp string
+ID_MOTD_DE_JP_NOWAYHOME_EVENT,Temp string
+ID_MOTD_NA_AVENGERSTOWER_PREHYPE,Coming Soon: Avengers Tower
+ID_MOTD_DE_AVENGERSTOWER_PREHYPE,"Climb the tower to earn Teal gear, Gold, and more!"
+ID_MOTD_NA_AVENGERSTOWER_LIVE,LIVE: Avengers Tower!
+ID_MOTD_DE_AVENGERSTOWER_LIVE,"Fight your way up the tower to earn gear, Gold, and more!"
+ID_MOTD_NA_FRESHHORIZONS,LIVE: Fresh Horizons
+ID_MOTD_DE_FRESHHORIZONS,Make 2022 the year of domination: Scarlet Spider & more rewards!
+ID_MOTD_NA_SPIDERMAN_THEATRICAL,SPIDER-MAN: NO WAY HOME
+ID_MOTD_DE_SPIDERMAN_THEATRICAL,NOW PLAYING EXCLUSIVELY IN MOVIE THEATERS
+ID_MOTD_NA_TCHALLA_PREHYPE,Coming Soon: Star-Lord (T'Challa)
+ID_MOTD_DE_TCHALLA_PREHYPE,Lead the Ravagers to Alliance War victory!
+ID_MOTD_NA_MAYHEM_SEASON15_ANNOUNCE,LIVE: Season 15 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON15_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_MIRRORIMAGE_LIVE,LIVE: Mirror Image
+ID_MOTD_DE_MIRRORIMAGE_LIVE,Recruit the newest Young Avenger: Echo!
+ID_MOTD_NA_ECHO_PREHYPE,Coming Soon: Echo
+ID_MOTD_DE_ECHO_PREHYPE,Prepare for this Young Avenger Brawler!
+ID_MOTD_NA_VALENTINE2022,Unconditional Love: Now Live!
+ID_MOTD_DE_VALENTINE2022,Battle for a chance to win limited time Orbs
+ID_MOTD_NA_LAUNCHPARTY_LIVE,LIVE: Celebrate the Web
+ID_MOTD_DE_LAUNCHPARTY_LIVE,Celebrate the launch of The Marvel Strike Force Web Portal!
+ID_MOTD_NA_LAUNCHPARTYWEBUPC_LIVE,The Web UPC Extravaganza is now LIVE
+ID_MOTD_DE_LAUNCHPARTYWEBUPC_LIVE,Check out the Web Portal offer page now!
+ID_MOTD_NA_DOCTORVOODOO_PREHYPE,Coming Soon: Doctor Voodoo
+ID_MOTD_DE_DOCTORVOODOO_PREHYPE,Prepare to bow before the Houngan Supreme!
+ID_MOTD_NA_DOCTORVOODOO_ECM_PREVIEW,Doctor Voodoo
+ID_MOTD_DE_DOCTORVOODOO_ECM_PREVIEW,Coming Soon: A Hero's Haunting
+ID_MOTD_NA_DOCTORVOODOO_ECM_LIVE,LIVE: A Hero's Haunting
+ID_MOTD_DE_DOCTORVOODOO_ECM_LIVE,Send enemies to the grave and earn Doctor Voodoo shards!
+ID_MOTD_NA_KATEBISHOP_PREHYPE,Coming Soon: Kate Bishop
+ID_MOTD_DE_KATEBISHOP_PREHYPE,Don't miss this Alliance War Sharpshooter!
+ID_MOTD_NA_FESTIVALOFFORTUNE_LIVE,LIVE: Festival of Fortune
+ID_MOTD_DE_FESTIVALOFFORTUNE_LIVE,Donate to your Alliance to earn Jubilee's new costume and gear!
+ID_MOTD_NA_KNOWHERE_PREHYPE,Coming Soon: Knowhere Heist
+ID_MOTD_DE_KNOWHERE_PREHYPE,Battle your way to Dark Promotion Credits!
+ID_MOTD_NA_KNOWHERE_LIVE,LIVE: Knowhere Heist
+ID_MOTD_DE_KNOWHERE_LIVE,"Battle your way to Dark Promotion Credits, Elite 7 Credits, and Gold!"
+ID_MOTD_NA_WOMENSDAY_2022_LIVE,LIVE: Celebrate the Extraordinary
+ID_MOTD_DE_WOMENSDAY_2022_LIVE,Earn 2x shards for some of MARVEL's most iconic women!
+ID_MOTD_NA_APOCALYPSE_ANNOUNCE,A new chapter begins!
+ID_MOTD_DE_APOCALYPSE_ANNOUNCE,Get briefed on Apocalypse and his Four Horsemen!
+ID_MOTD_NA_MAYHEM_SEASON16_ANNOUNCE,LIVE: Season 16 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON16_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_INFESTATION,LIVE: Infestation Incoming
+ID_MOTD_DE_INFESTATION,Fortify your forces for S.T.R.I.K.E.'s next fight!
+ID_MOTD_NA_DDIV_2X_SAMWILSON,LIVE: Wings of Liberty
+ID_MOTD_DE_DDIV_2X_SAMWILSON,Tadano Mac JAPAN Celebration
+ID_MOTD_NA_DDIV_2X_POLARIS,LIVE: Positive Attraction
+ID_MOTD_DE_DDIV_2X_POLARIS,Tadano Mac JAPAN Celebration
+ID_MOTD_NA_CELEBRATETHEWEB_LIVE,LIVE: Celebrate the Web
+ID_MOTD_DE_CELEBRATETHEWEB_LIVE,Visit our blog for info on this exciting event!
+ID_MOTD_NA_LIVINGVAMPIRE_LIVE,LIVE: Living Vampire
+ID_MOTD_DE_LIVINGVAMPIRE_LIVE,Recruit Morbius and transform your roster!
+ID_MOTD_NA_STRANGESUPREME_PREHYPE,Coming Soon: Doctor Strange (Heartless)
+ID_MOTD_DE_STRANGESUPREME_PREHYPE,Prepare for this Destroyer of Universes!
+ID_MOTD_NA_STRANGESUPREME_ECM_PREVIEW,Doctor Strange (Heartless)
+ID_MOTD_DE_STRANGESUPREME_ECM_PREVIEW,Coming Soon: Forbidden Knowledge
+ID_MOTD_NA_STRANGESUPREME_ECM_LIVE,LIVE: Forbidden Knowledge
+ID_MOTD_DE_STRANGESUPREME_ECM_LIVE,Open a portal to Doctor Strange (Heartless) shards!
+ID_MOTD_NA_MAYHEM_SEASON17_ANNOUNCE,LIVE: Season 17 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON17_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_AGATHA_TEASER,Coming Soon: Agatha Harkness
+ID_MOTD_DE_AGATHA_TEASER,This wicked powerful witch is on the way!
+ID_MOTD_NA_PESTILENCE_TEASER,Coming Soon: Pestilence Scourge Event
+ID_MOTD_DE_PESTILENCE_TEASER,The Legendary Darkhold Horseman is on the way!
+ID_MOTD_NA_PESTILENCE_ANNOUNCE,LIVE: Pestilence Scourge Event
+ID_MOTD_DE_PESTILENCE_ANNOUNCE,Earn Morgan Le Fay shards and more with your highest Run Score!
+ID_MOTD_NA_WITCHSCOVEN_PREHYPE,Coming Soon: Witch's Coven
+ID_MOTD_DE_WITCHSCOVEN_PREHYPE,Summon Agatha Harkness to your roster!
+ID_MOTD_NA_MAYHEM_SEASON18_ANNOUNCE,LIVE: Season 18 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON18_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_WITCHSCOVEN_ANNOUNCE,Abracadabra: Witch's Coven is LIVE
+ID_MOTD_DE_WITCHSCOVEN_ANNOUNCE,Earn Agatha Harkness shards!
+ID_MOTD_NA_MADELYNEPRYOR_TEASER,Coming Soon: Madelyne Pryor
+ID_MOTD_DE_MADELYNEPRYOR_TEASER,Prepare to kneel before the Goblin Queen!
+ID_MOTD_NA_GOBLINQUEEN_TEASER,The Goblin Queen Event approaches...
+ID_MOTD_DE_GOBLINQUEEN_TEASER,Don't miss out on recruiting Madelyne Pryor!
+ID_MOTD_NA_GOBLINQUEEN_ANNOUNCE,The Goblin Queen Event has Arrived!
+ID_MOTD_DE_GOBLINQUEEN_ANNOUNCE,Recruit Madelyne Pryor!
+ID_MOTD_NA_SPIDERWOMAN_HYPE,Spider-Woman joins the fight!
+ID_MOTD_DE_SPIDERWOMAN_HYPE,Get ready to spin up a web of victory!
+ID_MOTD_NA_FORDANIEL,"""Sending you our strength, Daniel."""
+ID_MOTD_DE_FORDANIEL," Marvel Strike Force Team"
+ID_MOTD_NA_SPLASH_AFORCEOFNATURE_ANNOUNCE,A-Force of Nature
+ID_MOTD_DE_SPLASH_AFORCEOFNATURE_ANNOUNCE,Recruit Spider-Woman by participating in May Events
+ID_MOTD_NA_SPLASH_HYDRA,LIVE: Quick Rumble Blitz - Hydra
+ID_MOTD_DE_SPLASH_HYDRA,Battle with Hydra characters to earn A-Force Emblems and Gear!
+ID_MOTD_NA_AISFORALLIES_TEASER,Coming Soon: A is for Allies
+ID_MOTD_DE_AISFORALLIES_TEASER,Stock up on Ions and A-Force Emblems with this Alliance Event!
+ID_MOTD_NA_AISFORALLIES_ANNOUNCE,LIVE: A is for Allies Alliance Milestone
+ID_MOTD_DE_AISFORALLIES_ANNOUNCE,Earn A-Force Emblems and Ions!
+ID_MOTD_NA_COSMIC_CRUCIBLE_PRESEASON,Pre-Season: Cosmic Crucible
+ID_MOTD_DE_COSMIC_CRUCIBLE_PRESEASON,Compete against other Commanders for rewards and glory
+ID_MOTD_NA_NICOMINORU_TEASER,Coming Soon: Nico Minoru
+ID_MOTD_DE_NICOMINORU_TEASER,Get ready for a little blood magic...
+ID_MOTD_NA_VICTORYBLUEPRINT,LIVE: Victory Blueprint
+ID_MOTD_DE_VICTORYBLUEPRINT,"Earn NEW T2 Level 4 Ions, Crucible Credits, and A-Force of Nature progress."
+ID_MOTD_DE_VICTORY_JULY2022_LIVE,"Earn NEW T2 Level 4 Ions, Crucible Credits, and Summer of Thunder progress."
+ID_MOTD_NA_VICTORYBLUEPRINT_PREVIEW,Coming Soon: Victory Blueprint
+ID_MOTD_DE_VICTORYBLUEPRINT_PREVIEW,"Earn NEW T2 Level 4 Ions, Crucible Credits, and progress toward A-Force of Nature."
+ID_MOTD_NA_FANTOMEX_PREHYPE,Coming Soon: Fantomex
+ID_MOTD_DE_FANTOMEX_PREHYPE,Prepare to upload this Mutant Man of Mystery to your roster!
+ID_MOTD_NA_FANTOMEX_ECM_PREVIEW,Fantomex
+ID_MOTD_DE_FANTOMEX_ECM_PREVIEW,Coming Soon: To X A Thief
+ID_MOTD_NA_FANTOMEX_ECM_LIVE,LIVE: To X A Thief
+ID_MOTD_DE_FANTOMEX_ECM_LIVE,Download Fantomex character shards to your roster!
+ID_MOTD_NA_CHOSENONE_PREHYPE,Coming Soon: The Chosen One
+ID_MOTD_DE_CHOSENONE_PREHYPE,"Summon Wong's costume, A-Force Emblems, and more!"
+ID_MOTD_NA_CHOSENONE_ANNOUNCE,NOW LIVE: The Chosen One
+ID_MOTD_DE_CHOSENONE_ANNOUNCE,Summon Wong's costume and A-Force Emblems!
+ID_MOTD_NA_SPLASH_MILITARY,LIVE: Quick Rumble Blitz - Military
+ID_MOTD_DE_SPLASH_MILITARY,Battle with Military characters to earn A-Force Emblems and Ability Materials!
+ID_MOTD_NA_SPLASH_WAKANDAN,LIVE: Quick Rumble Blitz - Wakandan
+ID_MOTD_DE_SPLASH_WAKANDAN,Battle with Wakandan characters to earn A-Force Emblems and Orbs!
+ID_MOTD_NA_SPLASH_WAVE1,LIVE: Quick Rumble Blitz - Wave I - Avenger
+ID_MOTD_DE_SPLASH_WAVE1,Battle with Wave I - Avenger characters to earn A-Force Emblems and Iso-8!
+ID_MOTD_NA_SISTERGRIMM_TEASER,Coming Soon: Sister Grimm
+ID_MOTD_DE_SISTERGRIMM_TEASER,Earn Nico Minoru shards and A-Force of Nature progress!
+ID_MOTD_NA_SISTERGRIMM_ANNOUNCE,LIVE: Sister Grimm
+ID_MOTD_DE_SISTERGRIMM_ANNOUNCE,Summon Nico Minoru shards and A-Force of Nature Progress!
+ID_MOTD_NA_MAYHEM_SEASON19_ANNOUNCE,LIVE: Season 19 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON19_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_MAYHEM_SEASON20_ANNOUNCE,LIVE: Season 20 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON20_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_MAYHEM_SEASON21_ANNOUNCE,LIVE: Season 21 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON21_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_MAYHEM_SEASON22_ANNOUNCE,LIVE: Season 22 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON22_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_MAYHEM_SEASON23_ANNOUNCE,LIVE: Season 23 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON23_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_MAYHEM_SEASON24_ANNOUNCE,LIVE: Season 24 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON24_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_MAYHEM_SEASON25_ANNOUNCE,LIVE: Season 25 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON25_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_MAYHEM_SEASON26_ANNOUNCE,LIVE: Season 26 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON26_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_MAYHEM_SEASON27_ANNOUNCE,LIVE: Season 27 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON27_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_MAYHEM_SEASON28_ANNOUNCE,LIVE: Season 28 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON28_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_MAYHEM_SEASON29_ANNOUNCE,LIVE: Season 29 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON29_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_MAYHEM_SEASON30_ANNOUNCE,LIVE: Season 30 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON30_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_MAYHEM_SEASON31_ANNOUNCE,LIVE: Season 31 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON31_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_MAYHEM_SEASON32_ANNOUNCE,LIVE: Season 32 of Mojo's Mayhem
+ID_MOTD_DE_MAYHEM_SEASON32_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_DAZZLER_TEASER,Coming Soon: Dazzler
+ID_MOTD_DE_DAZZLER_TEASER,Get ready for this Mutant dancing queen!
+ID_MOTD_NA_DAZZLER_ANNOUNCE,Dazzler Joins the Fight!
+ID_MOTD_DE_DAZZLER_ANNOUNCE,The Mistress of Light
+ID_MOTD_NA_VICTORY_JUNE2022_PREVIEW,Coming Soon: Victory Blueprint
+ID_MOTD_DE_VICTORY_JUNE2022_PREVIEW,"Earn NEW T2 Level 4 Ions, Gold, and Rollin' Rebel progress!"
+ID_MOTD_NA_VICTORY_JUNE2022_LIVE,LIVE: Victory Blueprint
+ID_MOTD_DE_VICTORY_JUNE2022_LIVE,"Earn NEW T2 Level 4 Ions, Gold, and Rollin' Rebel progress."
+ID_MOTD_NA_COORDINATED_ASSAULT_TEASER,Coming Soon: Coordinated Assault
+ID_MOTD_DE_COORDINATED_ASSAULT_TEASER,Earn Ions and progress towards the Rollin' Rebel Event!
+ID_MOTD_NA_COORDINATED_ASSAULT_ANNOUNCE,LIVE: Coordinated Assault Alliance Milestone
+ID_MOTD_DE_COORDINATED_ASSAULT_ANNOUNCE,Earn Ions and progress towards the Rollin' Rebel Event!
+ID_MOTD_NA_JUNEMONTH2022_TEASER,Get Ready to Roll!
+ID_MOTD_DE_JUNEMONTH2022_TEASER,Recruit Dazzler with the June Rollin' Rebel Event
+ID_MOTD_NA_JUNEMONTH2022_ANNOUNCE,LIVE: Rollin' Rebel
+ID_MOTD_DE_JUNEMONTH2022_ANNOUNCE,Recruit Dazzler by participating in June Events
+ID_MOTD_NA_GAMBIT_TEASER,Coming Soon: Gambit
+ID_MOTD_DE_GAMBIT_TEASER,The Ragin' Cajun is on the way!
+ID_MOTD_NA_GAMBIT_ANNOUNCE,Gambit has arrived!
+ID_MOTD_DE_GAMBIT_ANNOUNCE,Deal your enemies a losing hand with the Ragin' Cajun!
+ID_MOTD_NA_PRIDEINFERNO_PREVIEW,Coming Soon: Pride Inferno
+ID_MOTD_DE_PRIDEINFERNO_PREVIEW,Dance your way to Nico Minoru's costume and Rollin' Rebel progress!
+ID_MOTD_NA_PRIDEINFERNO,NOW LIVE: Pride Inferno
+ID_MOTD_DE_PRIDEINFERNO,Spark roster change with Nico Minoru's costume and Rollin' Rebel progress!
+ID_MOTD_NA_GAMBIT_RAIDS_TEASER,Coming Soon: Gambit Raids
+ID_MOTD_DE_GAMBIT_RAIDS_TEASER,Battle with your Alliance to recruit Gambit!
+ID_MOTD_NA_GAMBIT_RAIDS_ANNOUNCE,LIVE: Gambit Raids
+ID_MOTD_DE_GAMBIT_RAIDS_ANNOUNCE,Battle with your Alliance to recruit Gambit!
+ID_MOTD_NA_ACE_OF_RAIDS_TEASER,Coming Soon: Ace of Raids
+ID_MOTD_DE_ACE_OF_RAIDS_TEASER,Stack your deck with Gambit shards & Rollin' Rebel Progress!
+ID_MOTD_NA_ACE_OF_RAIDS_ANNOUNCE,LIVE: Ace of Raids
+ID_MOTD_DE_ACE_OF_RAIDS_ANNOUNCE,Earn stacks of Gambit shards and Rollin' Rebel progress!
+ID_MOTD_NA_SUNFIRE_TEASER,Coming Soon: Sunfire
+ID_MOTD_DE_SUNFIRE_TEASER,Get ready to turn up the heat!
+ID_MOTD_NA_SUNFIRE_ANNOUNCE,Sunfire Blazes into Battle!
+ID_MOTD_DE_SUNFIRE_ANNOUNCE,The Solar Storm
+ID_MOTD_NA_SPLASH_GUARDIANS,LIVE: Quick Rumble - Guardians
+ID_MOTD_DE_SPLASH_GUARDIANS,Blitz with Guardians to earn Disco Balls and Gear!
+ID_MOTD_NA_SPLASH_BROTHERHOOD,LIVE: Quick Rumble - Brotherhood
+ID_MOTD_DE_SPLASH_BROTHERHOOD,Blitz with Brotherhood to earn Disco Balls and Ability Materials!
+ID_MOTD_NA_SPLASH_POWERARMOR,LIVE: Quick Rumble - Power Armor
+ID_MOTD_DE_SPLASH_POWERARMOR,Blitz with Power Armor to earn Disco Balls and Orbs!
+ID_MOTD_NA_SPLASH_SUPERNATURAL,LIVE: Quick Rumble - Supernatural
+ID_MOTD_DE_SPLASH_SUPERNATURAL,Blitz with Supernatural to earn Disco Balls and Iso-8!
+ID_MOTD_NA_FAMINE_TEASER,Coming Soon: Famine Scourge Event
+ID_MOTD_DE_FAMINE_TEASER,"Power Up A-Force, Young Avengers, or Inhumans for Difficulty 5+"
+ID_MOTD_NA_FAMINE_ANNOUNCE,LIVE: Famine Scourge Event
+ID_MOTD_DE_FAMINE_ANNOUNCE,Earn Rogue shards and more with your highest Run Score!
+ID_MOTD_NA_JULYMETA2022_ANNOUNCE,LIVE: Summer of Thunder
+ID_MOTD_DE_JULYMETA2022_ANNOUNCE,Recruit Mighty Thor by participating in July Events
+ID_MOTD_NA_JULYMETA2022_TEASER,A Summer Storm is Coming
+ID_MOTD_DE_JULYMETA2022_TEASER,Recruit Mighty Thor with July Events
+ID_MOTD_NA_SOLARSIZZLER_TEASER,Coming Soon: Solar Sizzler
+ID_MOTD_DE_SOLARSIZZLER_TEASER,Recruit Sunfire and earn Summer of Thunder progress!
+ID_MOTD_NA_SOLARSIZZLER_ANNOUNCE,LIVE: Solar Sizzler
+ID_MOTD_DE_SOLARSIZZLER_ANNOUNCE,Soak up Sunfire shards and Summer of Thunder progress!
+ID_MOTD_NA_JANETHOR_ANNOUNCE,Mighty Thor Joins the Fight!
+ID_MOTD_DE_JANETHOR_ANNOUNCE,The Goddess of Thunder
+ID_MOTD_NA_SPLASH_AIM,LIVE: Quick Rumble - A.I.M.
+ID_MOTD_DE_SPLASH_AIM,Blitz with A.I.M. to earn Mjolnir Fragments and Ability Materials!
+ID_MOTD_NA_SPLASH_SINISTERSIX,LIVE: Quick Rumble - Sinister Six
+ID_MOTD_DE_SPLASH_SINISTERSIX,Blitz with Sinister Six to earn Mjolnir Fragments and Orbs!
+ID_MOTD_NA_SPLASH_XFORCE,LIVE: Quick Rumble - X-Force
+ID_MOTD_DE_SPLASH_XFORCE,Blitz with X-Force to earn Mjolnir Fragments and Iso-8!
+ID_MOTD_NA_SPLASH_ASGARDIAN,LIVE: Quick Rumble - Asgardians
+ID_MOTD_DE_SPLASH_ASGARDIAN,Blitz with Asgardians to earn Mjolnir Fragments and Gear!
+ID_MOTD_NA_SPACEVIKING_TEASER,Coming Soon: Space Viking
+ID_MOTD_DE_SPACEVIKING_TEASER,Praise Odin: Thor's costume & Summer of Thunder progress!
+ID_MOTD_NA_SPACEVIKING_ANNOUNCE,LIVE: Space Viking
+ID_MOTD_DE_SPACEVIKING_ANNOUNCE,Praise Odin: Thor's costume & Summer of Thunder progress!
+ID_MOTD_NA_VALKYRIE_PREVIEW,Coming Soon: Valkyrie
+ID_MOTD_DE_VALKYRIE_PREVIEW,Get ready for the Handmaiden of Death
+ID_MOTD_NA_VALKYRIE_ANNOUNCE,Valkyrie Joins the Battle!
+ID_MOTD_DE_VALKYRIE_ANNOUNCE,The Handmaiden of Death Arrives
+ID_MOTD_NA_VALKYRIE_ECM_PREVIEW,Coming Soon: Hammer of the Gods
+ID_MOTD_DE_VALKYRIE_ECM_PREVIEW,Recruit Valkyrie
+ID_MOTD_NA_VALKYRIE_ECM_LIVE,LIVE: Hammer of the Gods
+ID_MOTD_DE_VALKYRIE_ECM_LIVE,Recruit Valkyrie!
+ID_MOTD_NA_MAYHEM_SEASON21_TEAL_ANNOUNCE,Mojo's Mayhem: Season 21
+ID_MOTD_DE_MAYHEM_SEASON21_TEAL_ANNOUNCE,Ghost-Spider shards and Teal Gear
+ID_MOTD_NA_MAYHEM_SEASON21_ORANGE_ANNOUNCE,Mojo's Mayhem: Season 21
+ID_MOTD_DE_MAYHEM_SEASON21_ORANGE_ANNOUNCE,Ghost-Spider shards and Orange Gear
+ID_MOTD_NA_PARTYINPARADISE_TEASER,Coming Soon: Party in Paradise
+ID_MOTD_DE_PARTYINPARADISE_TEASER,Earn Asgardian rewards & the Gauntlet of Heroes!
+ID_MOTD_NA_PARTYINPARADISE_ANNOUNCE,LIVE: Party in Paradise
+ID_MOTD_DE_PARTYINPARADISE_ANNOUNCE,Asgardian rewards & the Gauntlet of Heroes!

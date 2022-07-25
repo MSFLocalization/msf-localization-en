@@ -1,0 +1,366 @@
+id,translation
+ID_RAIDS_ACCESS,You have unlocked Raids!
+ID_RAIDS_POPUP_CANNOT_PLAY_MISSION,Cannot Play Mission
+ID_RAIDS_POPUP_MISSION_LOCKED_BY_ANOTHER_USER,This mission got locked by another user.
+ID_RAIDS_POPUP_CANNOT_JOIN_IN_PROGRESS_TITLE,Raid In Progress
+ID_RAIDS_POPUP_CANNOT_JOIN_IN_PROGRESS_BODY,New alliance members are unable to join raids already in progress. You will be able to join the next raid.
+ID_RAIDS_VIEW,VIEW
+ID_RAIDS_PREVIEW,PREVIEW
+ID_RAIDS_ENTER,ENTER
+ID_RAIDS_SHOP,STORE
+ID_RAIDS_JOIN,JOIN
+ID_RAIDS_PLAY,PLAY
+ID_RAIDS_LAUNCH,LAUNCH
+ID_RAIDS_ATTACK,ATTACK
+ID_RAIDS_CREATE,CREATE
+ID_RAIDS_CANCEL,CANCEL
+ID_RAIDS_CONTINUE,CONTINUE
+ID_RAIDS_LOCKED,LOCKED
+ID_RAIDS_UNLOCK_STRIKE_TEAM,Unlocks when previous team has 1+ player
+ID_RAIDS_JOINED_STRIKE_TEAM,WELCOME TO\n<size=150>S.T.R.I.K.E. TEAM {teamId}</size>
+ID_RAIDS_TITLE_PREVIEW_ADDON,<size=40><color=#{color}>(PREVIEW)</color></size>
+ID_RAIDS_TITLE_DIFFICULTY_ADDON,<size=45><color=#{color}>(DIFFICULTY {num})</color></size>
+ID_RAIDS_LEADERBOARD_DAMAGE,Damage: <color={colorHex}>{amount}</color>
+ID_RAIDS_OBJECTIVE,OBJECTIVE
+ID_RAIDS_START,START
+ID_RAIDS_RAID_VAULT,RAID STORE
+ID_RAIDS_RAID_SEASON,Raid Season
+ID_RAIDS_POINTS,Points:
+ID_RAIDS_MILESTONES_COMPLETED,Milestones Completed:
+ID_RAIDS_POINTS_NEEDED,Need {number} PTS. for Rank Rewards
+ID_RAIDS_ROOM_TITLE,{roomId} - {title}
+ID_RAIDS_SUMMARY,SUMMARY
+ID_RAIDS_REWARDS,REWARDS
+ID_RAIDS_REWARDS_POSSIBLE,POSSIBLE REWARDS
+ID_RAIDS_LEADERBOARD,LEADERBOARD
+ID_RAIDS_LEADERBOARD_STRIKE_TEAM,STRIKE TEAM LEADERBOARD
+ID_RAIDS_UNITS,UNITS
+ID_RAIDS_ENEMIES,ENEMIES
+ID_RAIDS_ENEMY_HEALTH_REMAINING,Enemy Health Remaining
+ID_RAIDS_DMG_CONTRIB,DAMAGE CONTRIBUTION
+ID_RAIDS_TIME_LEFT,TIME LEFT
+ID_RAIDS_COMPLETE,COMPLETED
+ID_RAIDS_NODE_UNREACHABLE_TEXT,You cannot reach this node because you're committed to a different path.
+ID_RAIDS_NODE_LOCKED_TEXT,Complete the previous node to unlock this node
+ID_RAIDS_REQ_LOCKED_TEXT,You do not meet the requirements to play this node
+ID_RAIDS_READ_ONLY_MODE,Currently previewing this node. Join this team to play.
+ID_RAIDS_STRIKE_TEAM_X,S.T.R.I.K.E. TEAM {number}
+ID_RAIDS_REWARDS_SCREEN_TITLE,{raid_name} REWARDS
+ID_RAIDS_LEADERBOARD_SCREEN_TITLE,{raid_name} LEADERBOARD
+ID_RAIDS_LEADERBOARD_RAID_NOT_STARTED,THIS RAID HAS NOT YET STARTED. LAUNCH A RAID TO VIEW ITS LEADERBOARDS.
+ID_RAIDS_SUMMARY_SCREEN_TITLE,{raid_name} SUMMARY
+ID_RAIDS_UNITS_SCREEN_TITLE,{raid_name} RAID UNITS
+ID_RAIDS_RANK,RANK
+ID_RAIDS_RANK_RANGE,{from}-{to}
+ID_RAIDS_PERCENT,{percent}%
+ID_RAIDS_PERCENT_LEFT,{percent}% left
+ID_RAIDS_ENGAGED_BY,ENGAGED BY:
+ID_RAIDS_DEFEATED_BY,<color=#ffc530>COMPLETED</color>\nDEFEATED BY:
+ID_RAIDS_OBJECTIVE_50_PERCENT,Complete 50% of the raid to gain 1 Medal
+ID_RAIDS_OBJECTIVE_NODES,Complete the objective nodes to gain 1 Medal
+ID_RAIDS_OBJECTIVE_100_PERCENT,Complete 100% of the raid to gain 1 Medal
+ID_UI_RAIDS_POINTS_NEEDED_FOR_NEXT_MILESTONE,{points} PT until next milestone
+ID_RAIDS_INSUFFICIENT_KEYS_TITLE,Insufficient Raid Keys - {keyname}
+ID_RAIDS_INSUFFICIENT_KEYS_DESC,You need to earn more {keyname}s. You and your Alliance members generate Raid Keys by spending Campaign Energy.
+ID_RAIDS_INSUFFICIENT_KEYS_EVENT01_DESC,You need to earn more {keyname}s. You and your Alliance members generate Raid Keys by spending Campaign Energy.
+ID_RAIDS_INSUFFICIENT_KEYS_EVENT02_DESC,You need to earn more Chimichangas. Spend Campaign Energy to earn Chimichangas for your alliance.
+ID_RAIDS_INSUFFICIENT_KEYS_EVENT03_DESC,You need to earn more {keyname}s. You and your Alliance members generate Raid Keys by spending Campaign Energy.
+ID_RAIDS_INSUFFICIENT_KEYS_EVENT04_DESC,You need to earn more {keyname}s. You and your Alliance members generate Raid Keys by spending Campaign Energy.
+ID_RAIDS_EVENT_ENDED_TITLE,Raid Event Ended
+ID_RAIDS_EVENT_ENDED_DESC,The Raid event has ended.
+ID_RAIDS_NO_SEASON,There is currently no Raid Season running right now.
+ID_RAIDS_PROGRESS,RAID PROGRESS
+ID_RAIDS_INACTIVE_LEADERBOARD,Participate in this Raid to get on the contribution leaderboard
+ID_RAIDS_INACTIVE_POINTS,Participate in this Raid to earn Milestone Points.
+ID_RAIDS_ACTIVE,ACTIVE RAIDS
+ID_RAIDS_NEW,NEW RAIDS
+ID_RAIDS_EXPLORED,EXPLORED
+ID_RAIDS_PERCENTAGE_EXPLORED,{num}% EXPLORED
+ID_RAIDS_PARTICIPANTS,PARTICIPANTS
+ID_RAIDS_TIER_RANK_REWARDS,REWARDS: <color={colorHex}>TIER {tier} RANK {rank}</color>
+ID_RAIDS_CONSOLATION_REWARDS,NO REWARD TIER REACHED:
+ID_RAIDS_REWARDS_COL,REWARDS:
+ID_RAIDS_REWARDS_SENT,Rewards sent to Inbox
+ID_RAIDS_REWARDS_SENT_CONSOLATION,Participation Rewards sent to Inbox
+ID_RAIDS_NO_REWARDS,No Rank Rewards
+ID_RAIDS_NO_RESTRICTIONS,No Restrictions
+ID_RAIDS_ENDED_TITLE,THE RAID HAS ENDED
+ID_RAIDS_EVENT_LIMITED_TIME_LABEL,Limited Time Raid
+ID_RAIDS_UNRANKED,Unranked
+ID_ME_NA_RAIDSEASON,Raid Season
+ID_ME_SD_RAIDSEASON,Earn Milestone and Rank Rewards
+ID_ME_SM_RAIDSEASON,Fight in Raid Missions with your Alliance
+ID_ME_LM_RAIDSEASON,Cooperate with your Alliance to take on RAID missions and earn various milestone and rank rewards.
+ID_ME_MT_RAIDSEASON,The Raid Season has started!
+ID_ME_MS_RAIDSEASON,Cooperate with your Alliance to win rewards.
+ID_ME_MB_RAIDSEASON,"A new Raid Season has started. Cooperate with your Alliance, take on Raid Missions, and win various rewards!"
+ID_ME_MC_RAIDSEASON,GO!
+ID_ME_ES_RAIDSEASON,The Raid Season has ended
+ID_ME_EB_RAIDSEASON,The Raid Season has ended; be sure to collect your rewards.
+ID_ME_S1_RAIDSEASON,Earn 1 Raid Point
+ID_RAIDS_HYDRA_RAIDS,Hydra Raids
+ID_RAIDS_HYDRA_RAIDS_DESC,Earn Rare Materials
+ID_RAIDS_HYDRA_RAIDS_DETAILS,Work with your alliance to defeat Hydra
+ID_RAIDS_THANOS_RAIDS,Thanos Raids
+ID_RAIDS_THANOS_RAIDS_DESC,Earn Thanos Shards
+ID_RAIDS_THANOS_RAIDS_DETAILS,Work with your alliance to defeat corrupted Thanos to earn Thanos Shards
+ID_RAIDS_ULTIMUS_RAIDS,Ultimus Raids
+ID_RAIDS_ULTIMUS_RAIDS_DESC,Earn Ability Materials
+ID_RAIDS_ULTIMUS_RAIDS_DETAILS,Work with your alliance to defeat Ultimus for rare rewards
+ID_RAIDS_DOOM_RAIDS_DETAILS,Compete with your Alliance against the forces of Doom to earn powerful Teal Gear pieces and Tier 2 Iso-8 Crystals
+ID_RAIDS_DOOM_RAIDS_DESC,Earn Ability Materials
+ID_RAIDS_DOOMI_RAIDS_DESC,Earn T2 Iso-8
+ID_RAIDS_DOOMI_FS_RAIDS_DESC,Earn Ability Materials
+ID_RAIDS_LEVEL_25_NAME,Ultimus I
+ID_RAIDS_LEVEL_25_DESC,Earn Ability Materials
+ID_RAIDS_LEVEL_25_DETAILS,Take down the minions of Ultimus!\n\nRecommendations:\n- Squad Lvl 20-25+\n- Gear Tier 4+\n- Ability Lvl 2+
+ID_RAIDS_LEVEL_30_NAME,Ultimus II
+ID_RAIDS_LEVEL_30_DESC,Earn Ability Materials
+ID_RAIDS_LEVEL_30_DETAILS,Take down Ultimus's minions!\n\nRecommendations:\n- Squad Lvl 25-30+\n- Gear Tier 4+\n- Ability Lvl 3+
+ID_RAIDS_LEVEL_35_NAME,Ultimus III
+ID_RAIDS_LEVEL_35_DESC,Earn Ability Materials
+ID_RAIDS_LEVEL_35_DETAILS,Fight your way to the Raid Bosses!\n\nRecommendations:\n- Squad Lvl 30-35+\n- Gear Tier 5+\n- Ability Lvl 3+
+ID_RAIDS_LEVEL_40_NAME,Ultimus IV
+ID_RAIDS_LEVEL_40_DESC,Earn Ability Materials
+ID_RAIDS_LEVEL_40_DETAILS,Ronan is prepared for you. Push past ambushes to take him down.\n\nRecommendations:\n- Squad Lvl 35-45+\n- Gear Tier 6+\n- Ability Lvl 4+
+ID_RAIDS_LEVEL_50_NAME,Ultimus V
+ID_RAIDS_LEVEL_50_DESC,Earn Ability Materials
+ID_RAIDS_LEVEL_50_DETAILS,Take on tougher enemies than in any previous Raid!\n\nRecommendations:\n- Squad Lvl 45-60+\n- Gear Tier 7+\n- Ability Lvl 5+
+ID_RAIDS_LEVEL_65_NAME,Ultimus VI
+ID_RAIDS_LEVEL_65_DESC,Earn Ability Materials
+ID_RAIDS_LEVEL_65_DETAILS,Take on tougher enemies than in any previous Raid!\n\nRecommendations:\n- Squad Lvl 65+\n- Gear Tier 10+\n- Ability Lvl 5+
+ID_RAIDS_LEVEL_70_NAME,Ultimus VII
+ID_RAIDS_LEVEL_70_DESC,Earn Ability Materials
+ID_RAIDS_LEVEL_70_DETAILS,Take on the toughest enemies yet!\n\nRecommendations:\n- Squad Lvl 75+\n- Gear Tier 12+\n- Ability Lvl 7+\n- Red Stars 4+
+ID_RAIDS_LEVEL_80_DETAILS,Fight your way through the minions of Doom!\n\nRecommendations:\n- Squad Lvl 80+\n- Gear Tier 15+\n- Ability Lvl 7\n- Red Stars 5+\n- Iso-8 Class T1 Level 5+
+ID_RAIDS_LEVEL_85_DETAILS,Fight your way through the minions of Doom!\n\nRecommendations:\n- Squad Lvl 85+\n- Gear Tier 15+\n- Ability Lvl 7\n- Red Stars 5+\n- Iso-8 Class T2 Level 1+
+ID_RAIDS_LEVEL_90_DETAILS,Fight your way through the minions of Doom!\n\nRecommendations:\n- Squad Lvl 90+\n- Gear Tier 15+\n- Ability Lvl 7\n- Red Stars 5+\n- Iso-8 Class T2 Level 3+
+ID_RAIDS_HYDRA_KINGPIN_NAME,Kingpin Hydra Takedown
+ID_RAIDS_HYDRA_KINGPIN_DESC,Earn Rare Materials
+ID_RAIDS_HYDRA_KINGPIN_DETAILS,Take down Kingpin's base before his plan with Hydra is complete!
+ID_RAIDS_HYDRA_MERC_NAME,This Gun For Hire (Lvl 20)
+ID_RAIDS_HYDRA_MERC_DESC,Earn Rare Materials
+ID_RAIDS_HYDRA_MERC_DETAILS,Beat Kingpin and Hydra's Mercenaries
+ID_RAIDS_HYDRA_ULTRON_NAME,Ultron Hydra Raid
+ID_RAIDS_HYDRA_ULTRON_DESC,Earn Rare Materials
+ID_RAIDS_HYDRA_ULTRON_DETAILS,Stop Ultron and Hydra from creating an army of cybernetic Super Soldiers
+ID_RAIDS_HYDRA_DEMO_NAME,There Can Be Only One (Lvl 50)
+ID_RAIDS_HYDRA_DEMO_DESC,Earn Rare Materials
+ID_RAIDS_HYDRA_DEMO_DETAILS,81 node raid to test having only 1 mission per node
+ID_RAIDS_THANOS_LV_25_NAME,Thanos Raid I
+ID_RAIDS_THANOS_LV_25_DESC,Earn Thanos Shards
+ID_RAIDS_THANOS_LV_25_DETAILS,Fight off corrupted Thanos throughout the cosmos.\n\nRecommendations:\n- Squad Lvl 25-40+\n- Gear Tier 5+\n- Ability Lvl 3+
+ID_RAIDS_THANOS_LV_50_NAME,Thanos Raid II
+ID_RAIDS_THANOS_LV_50_DESC,Earn Thanos Shards
+ID_RAIDS_THANOS_LV_50_DETAILS,Fight off corrupted Thanos on Earth and throughout the cosmos.\n\nRecommendations:\n- Squad Lvl 35-50+\n- Gear Tier 7+\n- Ability Lvl 4+
+ID_RAIDS_THANOS_LV_60_NAME,Thanos Raid III
+ID_RAIDS_THANOS_LV_60_DESC,Earn Thanos Shards
+ID_RAIDS_THANOS_LV_60_DETAILS,"Fight off corrupted Thanos on Earth, multiple dimensions, and throughout the cosmos.\n\nRecommendations:\n- Squad Lvl 50-60+\n- Gear Tier 8-10+\n- Ability Lvl 5+"
+ID_RAIDS_ULTIMUS_50_NAME,Ultimus Invasion Raid (Lvl 60)
+ID_RAIDS_ULTIMUS_50_DESC,Earn Rare Materials
+ID_RAIDS_ULTIMUS_50_DETAILS,Prevent Ultimus and his corrupted minions from invading the continent
+ID_RAIDS_ULTIMUS_60_NAME,Ultimus Conquest Raid (Lvl 70)
+ID_RAIDS_ULTIMUS_60_DESC,Earn Rare Materials
+ID_RAIDS_ULTIMUS_60_DETAILS,Wipe out Ultimus's war ships before they destroy the world
+ID_RAIDS_ULTIMUS_70_NAME,Ultimus Extermination Raid
+ID_RAIDS_ULTIMUS_70_DESC,Earn Rare Materials
+ID_RAIDS_ULTIMUS_70_DETAILS,Drive Ultimus and his forces out of our dimension
+ID_RAIDS_HYDRA_HAND_NAME,Level 30 Raid
+ID_RAIDS_HYDRA_HAND_DESC,Earn Rare Materials
+ID_RAIDS_HYDRA_HAND_DETAILS,Take down Ultimus's minions!
+ID_RAIDS_HYDRA_AIM_NAME,Level 40 Raid
+ID_RAIDS_HYDRA_AIM_DESC,Earn Rare Materials
+ID_RAIDS_HYDRA_AIM_DETAILS,Ronan is prepared for you. Push past ambushes to take him down.
+ID_RAIDS_DEADPOOL_RAIDS,Deadpool Raids
+ID_RAIDS_DEADPOOL_RAIDS_DESC,Earn Deadpool Shards
+ID_RAIDS_DEADPOOL_RAIDS_DETAILS,"Work with your alliance to help Deadpool and Cable disrupt Ultimus's operations to earn Deadpool Shards\n\nChimichangas needed:\nSpicy: 14,000\nEn Fuego: 14,400"
+ID_RAIDS_DEADPOOL_LV_25_NAME,Spicy
+ID_RAIDS_DEADPOOL_LV_25_DESC,Earn Deadpool Shards
+ID_RAIDS_DEADPOOL_LV_25_DETAILS,Help Deadpool and Cable disrupt Ultimus's operations.\n\nRecommended for level 25+ characters with Gear Tier 4+ and level 3+ abilities.
+ID_RAIDS_DEADPOOL_LV_50_NAME,En Fuego
+ID_RAIDS_DEADPOOL_LV_50_DESC,Earn Deadpool Shards
+ID_RAIDS_DEADPOOL_LV_50_DETAILS,Help Deadpool and Cable disrupt Ultimus's operations more epically.\n\nRecommended for level 35+ characters with Gear Tier 6+ and level 4+ abilities.
+ID_RAIDS_DEADPOOL_LV_60_NAME,En Fuego
+ID_RAIDS_DEADPOOL_LV_60_DESC,Earn Deadpool Shards
+ID_RAIDS_DEADPOOL_LV_60_DETAILS,Help Deadpool and Cable disrupt Ultimus's operations except this one is super hard.\n\nRecommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+
+ID_RAIDS_DEADPOOL_LV_40_NAME,Spicy
+ID_RAIDS_DEADPOOL_LV_40_DESC,Earn Deadpool Shards
+ID_RAIDS_DEADPOOL_LV_40_DETAILS,Help Deadpool and Cable disrupt Ultimus's operations.\n\nRecommendations:\n- Squad Lvl 40-50+\n- Gear Tier 7+\n- Ability Lvl 4+
+ID_RAIDS_DEADPOOL_LV_65_NAME,El Scorcho
+ID_RAIDS_DEADPOOL_LV_65_DESC,Earn Deadpool Shards
+ID_RAIDS_DEADPOOL_LV_65_DETAILS,Help Deadpool and Cable disrupt Ultimus's operations except this one is super duper hard.\n\nRecommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n- Ability Lvl 6+
+ID_RAIDS_GEN_01_RAIDS_NAME,Alpha Raid
+ID_RAIDS_GEN_01_RAIDS_DESC,Earn Character Shards
+ID_RAIDS_GEN_01_RAIDS_DETAILS,"Cooperate with your Alliance, take on Raid Missions, and win various rewards!\n\nRaid Keys needed:\nAlpha I: 14,000\nAlpha II: 14,200\nAlpha III: 14,400"
+ID_RAIDS_GEN_01_A_NAME,Alpha Raid I
+ID_RAIDS_GEN_01_A_DESC,Earn Character Shards
+ID_RAIDS_GEN_01_A_DETAILS,Recommendations:\n- Squad Lvl 40-50+\n- Gear Tier 6+\n- Ability Lvl 3+
+ID_RAIDS_GEN_01_B_NAME,Alpha Raid II
+ID_RAIDS_GEN_01_B_DESC,Earn Character Shards
+ID_RAIDS_GEN_01_B_DETAILS,Recommendations:\n- Squad Lvl 50-60+\n- Gear Tier 8+\n- Ability Lvl 4+
+ID_RAIDS_GEN_01_C_NAME,Alpha Raid III
+ID_RAIDS_GEN_01_C_DESC,Earn Character Shards
+ID_RAIDS_GEN_01_C_DETAILS,Recommendations:\n- Squad Lvl 60-65+\n- Gear Tier 10+\n- Ability Lvl 5+
+ID_RAIDS_GEN_02_RAIDS_NAME,Beta Raid
+ID_RAIDS_GEN_02_RAIDS_DESC,Earn Character Shards
+ID_RAIDS_GEN_02_RAIDS_DETAILS,"Cooperate with your Alliance, take on Raid Missions, and win various rewards!\n\nRaid Keys needed:\nBeta I: 14,000\nBeta II: 14,200\nBeta III: 14,400"
+ID_RAIDS_GEN_02_A_NAME,Beta Raid I
+ID_RAIDS_GEN_02_A_DESC,Earn Character Shards
+ID_RAIDS_GEN_02_A_DETAILS,Recommendations:\n- Squad Lvl 40-50+\n- Gear Tier 6+\n- Ability Lvl 3+
+ID_RAIDS_GEN_02_B_NAME,Beta Raid II
+ID_RAIDS_GEN_02_B_DESC,Earn Character Shards
+ID_RAIDS_GEN_02_B_DETAILS,Recommendations:\n- Squad Lvl 50-60+\n- Gear Tier 8+\n- Ability Lvl 4+
+ID_RAIDS_GEN_02_C_NAME,Beta Raid III
+ID_RAIDS_GEN_02_C_DESC,Earn Character Shards
+ID_RAIDS_GEN_02_C_DETAILS,Recommendations:\n- Squad Lvl 60-65+\n- Gear Tier 10+\n- Ability Lvl 5+
+ID_RAIDS_ALPHA_RAIDS_NAME,Alpha Raid
+ID_RAIDS_ALPHA_RAIDS_DESC,Earn Character Shards
+ID_RAIDS_ALPHA_RAIDS_DETAILS,"Cooperate with your Alliance, take on Raid Missions, and win various rewards!\n\nRaid Keys needed:\nAlpha I: 14,000\nAlpha II: 14,200\nAlpha III: 14,400\nAlpha IV: 14,400"
+ID_RAIDS_ALPHA_A_NAME,Alpha Raid I
+ID_RAIDS_ALPHA_A_DESC,Earn Character Shards
+ID_RAIDS_ALPHA_A_DETAILS,Recommendations:\n- Squad Lvl 35-50+\n- Gear Tier 6+\n- Ability Lvl 3+
+ID_RAIDS_ALPHA_B_NAME,Alpha Raid II
+ID_RAIDS_ALPHA_B_DESC,Earn Character Shards
+ID_RAIDS_ALPHA_B_DETAILS,Recommendations:\n- Squad Lvl 50-60+\n- Gear Tier 8+\n- Ability Lvl 4+
+ID_RAIDS_ALPHA_C_NAME,Alpha Raid III
+ID_RAIDS_ALPHA_C_DESC,Earn Character Shards
+ID_RAIDS_ALPHA_C_DETAILS,Recommendations:\n- Squad Lvl 60-65+\n- Gear Tier 10+\n- Ability Lvl 5+
+ID_RAIDS_ALPHA_D_NAME,Alpha Raid IV
+ID_RAIDS_ALPHA_D_DESC,Earn Character Shards
+ID_RAIDS_ALPHA_D_DETAILS,Recommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n- Ability Lvl 5+\n- Red Stars 3+
+ID_RAIDS_BETA_RAIDS_NAME,Beta Raid
+ID_RAIDS_BETA_RAIDS_DESC,Earn Character Shards
+ID_RAIDS_BETA_RAIDS_DETAILS,"Cooperate with your Alliance, take on Raid Missions, and win various rewards!\n\nRaid Keys needed:\nBeta I: 14,000\nBeta II: 14,200\nBeta III: 14,400\nBeta IV: 14,400"
+ID_RAIDS_BETA_A_NAME,Beta Raid I
+ID_RAIDS_BETA_A_DESC,Earn Character Shards
+ID_RAIDS_BETA_A_DETAILS,Recommendations:\n- Squad Lvl 35-50+\n- Gear Tier 6+\n- Ability Lvl 3+
+ID_RAIDS_BETA_B_NAME,Beta Raid II
+ID_RAIDS_BETA_B_DESC,Earn Character Shards
+ID_RAIDS_BETA_B_DETAILS,Recommendations:\n- Squad Lvl 50-60+\n- Gear Tier 8+\n- Ability Lvl 4+
+ID_RAIDS_BETA_C_NAME,Beta Raid III
+ID_RAIDS_BETA_C_DESC,Earn Character Shards
+ID_RAIDS_BETA_C_DETAILS,Recommendations:\n- Squad Lvl 60-65+\n- Gear Tier 10+\n- Ability Lvl 5+
+ID_RAIDS_BETA_D_NAME,Beta Raid IV
+ID_RAIDS_BETA_D_DESC,Earn Character Shards
+ID_RAIDS_BETA_D_DETAILS,Recommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n- Ability Lvl 5+\n- Red Stars 3+
+ID_RAIDS_GAMMA_RAIDS_NAME,Gamma Raid
+ID_RAIDS_GAMMA_RAIDS_DESC,Earn Brawler shards
+ID_RAIDS_GAMMA_RAIDS_DETAILS,"Cooperate with your Alliance, take on Raid Missions, and win various rewards!\n\nRaid Keys needed:\nGamma I: 14,000\nGamma II: 14,200\nGamma III: 14,400\nGamma IV: 14,400"
+ID_RAIDS_GAMMA_A_NAME,Gamma Raid I
+ID_RAIDS_GAMMA_A_DESC,Earn Brawler shards
+ID_RAIDS_GAMMA_A_DETAILS,Recommendations:\n- Squad Lvl 35-50+\n- Gear Tier 6+\n- Ability Lvl 3+
+ID_RAIDS_GAMMA_B_NAME,Gamma Raid II
+ID_RAIDS_GAMMA_B_DESC,Earn Brawler shards
+ID_RAIDS_GAMMA_B_DETAILS,Recommendations:\n- Squad Lvl 50-60+\n- Gear Tier 8+\n- Ability Lvl 4+
+ID_RAIDS_GAMMA_C_NAME,Gamma Raid III
+ID_RAIDS_GAMMA_C_DESC,Earn Brawler shards
+ID_RAIDS_GAMMA_C_DETAILS,Recommendations:\n- Squad Lvl 60-65+\n- Gear Tier 10+\n- Ability Lvl 5+
+ID_RAIDS_GAMMA_D_NAME,Gamma Raid IV
+ID_RAIDS_GAMMA_D_DESC,Earn Brawler shards
+ID_RAIDS_GAMMA_D_DETAILS,Recommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n- Ability Lvl 5+\n- Red Stars 3+
+ID_RAIDS_DELTA_RAIDS_NAME,Delta Raid
+ID_RAIDS_DELTA_RAIDS_DESC,Earn Character Shards
+ID_RAIDS_DELTA_RAIDS_DETAILS,"Cooperate with your Alliance, take on Raid Missions, and win various rewards!\n\nRaid Keys needed:\nDelta I: 14,000\nDelta II: 14,200\nDelta III: 14,400"
+ID_RAIDS_DELTA_A_NAME,Delta Raid I
+ID_RAIDS_DELTA_A_DESC,Earn Character Shards
+ID_RAIDS_DELTA_A_DETAILS,Recommendations:\n- Squad Lvl 35-50+\n- Gear Tier 6+\n- Ability Lvl 3+
+ID_RAIDS_DELTA_B_NAME,Delta Raid II
+ID_RAIDS_DELTA_B_DESC,Earn Character Shards
+ID_RAIDS_DELTA_B_DETAILS,Recommendations:\n- Squad Lvl 50-60+\n- Gear Tier 8+\n- Ability Lvl 4+
+ID_RAIDS_DELTA_C_NAME,Delta Raid III
+ID_RAIDS_DELTA_C_DESC,Earn Character Shards
+ID_RAIDS_DELTA_C_DETAILS,Recommendations:\n- Squad Lvl 60-65+\n- Gear Tier 10+\n- Ability Lvl 5+
+ID_RAIDS_DELTA_D_NAME,Delta Raid IV
+ID_RAIDS_DELTA_D_DESC,Earn Character Shards
+ID_RAIDS_DELTA_D_DETAILS,Recommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n- Ability Lvl 5+\n- Red Stars 3+
+ID_RAIDS_ULTIMUS_EVENT_RAIDS,Ultimus VII
+ID_RAIDS_ULTIMUS_EVENT_RAIDS_DESC,Earn Ability Materials
+ID_RAIDS_ULTIMUS_EVENT_RAIDS_DETAILS,Complete Ultimus VI to earn the chance to take on the toughest Ultimus raid yet!\n\nRecommendations:\n- Squad Lvl 75+\n- Gear Tier 12+\n- Ability Lvl 7+\n- Red Stars 4+
+ID_RAIDS_ULTIMUS_EVENT_RAIDS_INSUFFICIENT_KEYS_DESC,You need to earn more {keyname}s. Complete Ultimus VI Raids to earn additional {keyname}s.
+ID_RAIDS_CELEBRATION_RAIDS_NAME,Champions' Raid
+ID_RAIDS_CELEBRATION_RAIDS_DESC,Earn Champions' Credits
+ID_RAIDS_CELEBRATION_RAIDS_DETAILS,"Cooperate with your Alliance, take on Raid Missions, and win various rewards!\n\nRaid Keys needed:\nGamma I: 14,000\nGamma II: 14,200\nGamma III: 14,400\nGamma IV: 14,400"
+ID_RAIDS_CELEBRATION_A_NAME,Champions' Raid I
+ID_RAIDS_CELEBRATION_A_DESC,Earn Champions' Credits
+ID_RAIDS_CELEBRATION_A_DETAILS,Recommendations:\n- Squad Lvl 35-50+\n- Gear Tier 6+\n- Ability Lvl 3+
+ID_RAIDS_CELEBRATION_B_NAME,Champions' Raid II
+ID_RAIDS_CELEBRATION_B_DESC,Earn Champions' Credits
+ID_RAIDS_CELEBRATION_B_DETAILS,Recommendations:\n- Squad Lvl 50-60+\n- Gear Tier 8+\n- Ability Lvl 4+
+ID_RAIDS_CELEBRATION_C_NAME,Champions' Raid III
+ID_RAIDS_CELEBRATION_C_DESC,Earn Champions' Credits
+ID_RAIDS_CELEBRATION_C_DETAILS,Recommendations:\n- Squad Lvl 60-65+\n- Gear Tier 10+\n- Ability Lvl 5+
+ID_RAIDS_CELEBRATION_D_NAME,Champions' Raid IV
+ID_RAIDS_CELEBRATION_D_DESC,Earn Champions' Credits
+ID_RAIDS_CELEBRATION_D_DETAILS,Recommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n- Ability Lvl 5+\n- Red Stars 3+
+ID_RAIDS_DIFFICULTY_DIAL,Difficulty Dial
+ID_RAIDS_DIFFICULTY_REWARDS,REWARDS
+ID_RAIDS_DIFFICULTY_FIRST_TIME_REWARDS,FIRST TIME REWARDS
+ID_RAIDS_DIFFICULTY_FIRST_TIME_REWARDS_UNLOCK_REQ,{num}% COMPLETION
+ID_RAIDS_DIFFICULTY_BONUS_REWARDS,BONUS REWARDS
+ID_RAIDS_DIFFICULTY_ENEMY_STATS,ENEMY BONUS STATS
+ID_RAIDS_DIFFICULTY_ENEMY_DELTA_STATS,ENEMY STATS CHANGES
+ID_RAIDS_DIFFICULTY_MATCH_REWARDS,per NODE
+ID_RAIDS_DIFFICULTY_TIER_REWARDS,per REWARD TIER
+ID_RAIDS_DIFFICULTY_ALLIANCE_BONUS,at {num}% RAID COMPLETION
+ID_RAIDS_DIFFICULTY_ALLIANCE_BONUS_CHAT_MSG,Your alliance has earned {goldAmt} Raid Season points by reaching {rankBlitz}% progress in {raidName} Difficulty {raidRewardTier}.
+ID_RAIDS_DIFFICULTY_SELECTED,SELECTED
+ID_RAIDS_DIFFICULTY_SELECT,SELECT
+ID_RAIDS_DIFFICULTY_DIFFICULTY,DIFFICULTY
+ID_RAIDS_DIFFICULTY_DETAILS,DETAILS
+ID_RAIDS_DIFFICULTY_DIFFICULTY_SELECT,DIFFICULTY SELECT
+ID_RAIDS_DIFFICULTY_CHANGE,CHANGE
+ID_RAIDS_DIFFICULTY_RULE_CHANGES,RULE CHANGES
+ID_RAIDS_DIFFICULTY_RULE_CHANGES_LIST,<color=#8A8FC6>RULE CHANGES:</color> {msg}
+ID_RAIDS_DIFFICULTY_HEALS_REMAINING_LABEL,HEALS REMAINING: <color=#CA7919>{amt}</color>
+ID_RAIDS_DIFFICULTY_NO_HEALS_REMAINING_LABEL,NO HEALS REMAINING
+ID_RAIDS_DIFFICULTY_AMT_HEALS,<color=#86E619>{amt}</color> Heals Allowed
+ID_RAIDS_DIFFICULTY_HEALS_NOT_ALLOWED,No Heals Allowed
+ID_RAIDS_DIFFICULTY_LEVEL_ZERO_DESC,<i>Normal Raid Difficulty</i>
+ID_RAIDS_DIFFICULTY_LEVEL,LEVEL <size=85>{num}</size>
+ID_RAIDS_DIFFICULTY_LEVEL_ZERO_OVERRIDE,Normal Difficulty
+ID_RAIDS_DIFFICULTY_LEVEL_DIFF_LABEL,Difficulty {num}
+ID_RAIDS_DIFFICULTY_LEVEL_END_RAID_TITLE,{name}: <color=#fff568>Difficulty {num}</color>
+ID_RAIDS_DIFFICULTY_UNLOCK_REQ,Complete Difficulty {num} to unlock
+ID_RAIDS_DIFFICULTY_UNLOCK_NORMAL_REQ,Complete Normal Difficulty to unlock
+ID_RAIDS_DIFFICULTY_STAT_ENTRY,<color={color}>+{num}%</color> {stat}
+ID_RAIDS_DIFFICULTY_STAT_APPEND,", <color={color}>+{num}%</color> {stat}"
+ID_RAIDS_DIFFICULTY_STAT_DELTA_ENTRY,<color={color}>+{num}</color> {stat}
+ID_RAIDS_DIFFICULTY_STAT_DELTA_APPEND,", <color={color}>+{num}</color> {stat}"
+ID_RAIDS_DIFFICULTY_STAT_DELTA_ABILITY_ENTRY,<color={color}>+{num}</color> to {stat}
+ID_RAIDS_DIFFICULTY_STAT_DELTA_ABILITY_APPEND,", <color={color}>+{num}</color> to {stat}"
+ID_RAIDS_DIFFICULTY_STAT_DELTA_MAX,({num} max)
+ID_RAIDS_STAT_LOYALTIES,Star Ranks
+ID_RAIDS_STAT_LEVELS,Levels
+ID_RAIDS_STAT_TIERS,Gear Tiers
+ID_RAIDS_STAT_RED_STARS,Red Stars
+ID_RAIDS_STAT_BASIC_ABILITIES,Basics
+ID_RAIDS_STAT_SPECIAL_ABILITIES,Specials
+ID_RAIDS_STAT_ULTIMATE_ABILITIES,Ultimates
+ID_RAIDS_STAT_PASSIVE_ABILITIES,Passives
+ID_RAIDS_DIFFICULTY_STAT_CORE,All Stats
+ID_RAIDS_DIFFICULTY_ACTIVE_DESC,Raid difficulty is locked in once a raid is launched.
+ID_RAIDS_DIFFICULTY_POPUP_HEADER,RULES
+ID_RAIDS_DIFFICULTY_POPUP_SUBHEADER,RAID DIFFICULTY SELECTION
+ID_RAIDS_DIFFICULTY_POPUP_SUBHEADER2,
+ID_RAIDS_DIFFICULTY_POPUP_BODY,"<color=#86e619>1)</color> Some raids have additional difficulties you can unlock by reaching a specified completion threshold. (60% or 100% - varies by raid.)\n\n<color=#86e619>2)</color> Once a new difficulty is unlocked, you can select it when launching the raid.\n\n<color=#86e619>3)</color> Each new difficulty increases enemy stats.  These stat bonuses are applied to the Raid's normal difficulty, not the previous difficulty. Higher difficulties may also include rule changes, such as limiting how many heals a player can use between raid nodes.\n\n<color=#86e619>4)</color> Each difficulty grants bonus rewards when you clear raid nodes and reach completion thresholds.  (All participating players receive the Reward Tier bonus once for reaching 30% completion, twice for reaching 60% completion, and three times for reaching 100% completion.)\n\n<color=#86e619>5)</color> The first time you reach the completion threshold for each raid difficulty, you will earn additional rewards and your alliance will unlock the next difficulty!  (A player can only earn these first time rewards once, even if they switch Alliances.)\n\n<color=#86e619>6)</color> The # of Raid Season points earned from clearing raid nodes may be updated between raid seasons."
+ID_RAIDS_HEAL_LIMIT_POPUP_HEADER,Unable to Heal
+ID_RAIDS_HEAL_LIMIT_POPUP_MSG_NO_HEALS_ALLOWED,Healing and reviving characters is not available on this difficulty.
+ID_RAIDS_HEAL_LIMIT_POPUP_MSG_NO_HEALS_REMAINING,You have no heals remaining.
+ID_RAIDS_DOOM_RAIDS,Doom Raids
+ID_RAIDS_DOOM_I_NAME,Doom I
+ID_RAIDS_DOOM_I_FS_NAME,Doom I - First Strike
+ID_RAIDS_DOOM_II_NAME,Doom II
+ID_RAIDS_DOOMII_RAIDS_DESC,Earn Teal Gear
+ID_MISSION_RAID_DOOM02_BLANK_DESC,
+ID_RAIDS_ROOM_INFOBOX_POSSIBLE_ENEMIES,POSSIBLE ENEMIES
+ID_RAIDS_ROOM_INFOBOX_PRE_RANDOMLY_CHOSEN,Randomly chosen when raid starts
+ID_RAIDS_ROOM_INFOBOX_POST_RANDOMLY_CHOSEN,Enemies were randomly chosen when raid started
+ID_RAIDS_MODS_SUBTITLE,The following {mods} modify the rules of battle for this mission
+ID_RAIDS_MODS_NONE_SUBTITLE,There are no {mods} assigned to this mission
+ID_RAIDS_COMBAT_MODS_NAME_PLURAL,Mods
+ID_RAIDS_GAMBIT_COMBAT_MODS_NAME_PLURAL,Wild Cards
+ID_RAIDS_GAMBIT_COMBAT_MODS_NAME_SINGULAR,Wild Card
+ID_RAIDS_GAMBIT_NAME,Gambit Raid
+ID_RAIDS_GAMBIT_DESC,Earn Character Shards
+ID_RAIDS_GAMBIT_DETAILS,Recommendations:\n- Squad Lvl 25-85+\n- Gear Tier 4+\n- Ability Lvl 2+
+ID_RAIDS_CUMULATIVE_REWARDS_DESC,Also awards unearned rewards from lower difficulties

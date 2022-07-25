@@ -1,0 +1,24 @@
+id,translation
+ID_INTRO_TAPTOCONTINUE,TAP TO CONTINUE
+ID_INTRO_SQ1_LEFTGROUP,Avengers...
+ID_INTRO_SQ1_MIDDLEGROUP,Defenders...
+ID_INTRO_SQ1_RIGHTGROUP,Guardians...
+ID_INTRO_SQ1_BOTTOM,I have defeated them time and again...
+ID_INTRO_SQ2_BOTTOM,...and bent their wills to my own.
+ID_INTRO_SQ3_TOP,I have conquered hundreds of Earths...
+ID_INTRO_SQ4_TOP,Corrupting their heroes to make my army stronger.
+ID_INTRO_SQ5_TOPLEFT,But this Earth is a Nexus to a...\n<i><size=150>MILLION WORLDS.</size></i>
+ID_INTRO_SQ5_BOTTOMRIGHT,"And when it falls,\nall worlds will belong to <i><size=95>ULTIMUS.</size></i>\nALL REALITIES WILL BE MINE!"
+ID_INTRO_SQ6_TOPHEADERLOCATION,S.H.I.E.L.D. Command Helicarrier
+ID_INTRO_SQ6_TOPHEADERCOUNTRY,"New York, United States of America"
+ID_INTRO_SQ6_TOPHEADERWORLD,Earth
+ID_INTRO_SQ7_TOPLEFT,"Director Fury, interdimensional signatures confirmed."
+ID_INTRO_SQ7_BOTTOMLEFT,<size=100>It's Ultimus.</size>\nHe's here.
+ID_INTRO_SQ7_BOTTOMRIGHT,How should we proceed?
+ID_INTRO_SQ8_TOPLEFT,Activate\n<size=120>S.T.R.I.K.E.</size>
+ID_INTRO_SQ8_BOTTOMRIGHT,...And get me\n<size=120>THE COMMANDER</size>.
+ID_INTRO_SKIP_BUTTON,SKIP INTRO
+ID_INTRO_SKIP_CONFIRMATION_HEADER,SKIP
+ID_INTRO_SKIP_CONFIRMATION_DESC,Are you sure you want to skip the intro?
+ID_INTRO_SKIP_CONFIRMATION_YES_BUTTON,YES
+ID_INTRO_SKIP_CONFIRMATION_NO_BUTTON,NO

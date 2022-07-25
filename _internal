@@ -1,0 +1,260 @@
+id,translation
+ID_PERCENTAGE,{num}%
+ID_ALLIANCE_RANK_OWNER,Leader
+ID_ALLIANCE_RANK_OWNER_PLURAL,Leaders
+ID_ALLIANCE_RANK_ADMIN,Captain
+ID_ALLIANCE_RANK_ADMIN_PLURAL,Captains
+ID_ALLIANCE_RANK_MEMBER,Member
+ID_ALLIANCE_RANK_MEMBER_PLURAL,Members
+ID_AGEGATE_TITLE,WELCOME
+ID_AGEGATE_PROMPT,Please input your current age.
+ID_AGEGATE_ENTER_PROMPT,MARVEL Strike Force
+ID_AGEGATE_ENTER,ENTER
+ID_AGEGATE_LOCKOUT,"Sorry, you are not permitted to continue."
+ID_CONSENT_ENFORCEMENT_MESSAGE,Please accept the terms by checking all appropriate checkboxes before continuing.
+ID_CONSENT_BUTTON,ACCEPT
+ID_CONSENT_TITLE,WELCOME
+ID_CONSENT_VIEW_CP,COOKIE POLICY
+ID_CONSENT_VIEW_PP,PRIVACY POLICY
+ID_CONSENT_VIEW_TOS,TERMS OF SERVICE
+ID_CONSENT_CP_AFFIRMATIVE_CONSENT_01,"We use first and third party cookies on this app to enable customer support functionality, measure performance, and, in some instances, to enable targeted advertising."
+ID_CONSENT_CP_AFFIRMATIVE_CONSENT_02,"If you tap ACCEPT or continue to use the app, you accept the use of cookies according to our Cookie Policy. For more information, including how to opt out from third party advertising/performance cookies, see our Cookie Policy at the following link."
+ID_CONSENT_PP_CP_TOS_AFFIRMATIVE_CONSENT,"By tapping ACCEPT, you confirm that you have read and accept the Privacy Policy, the Cookie Policy, and the Terms of Use."
+ID_CONSENT_PP_TOS_AFFIRMATIVE_CONSENT,"By tapping ACCEPT, you confirm that you have read and accept the Privacy Policy and the Terms of Use."
+ID_CONSENT_PP_AFFIRMATIVE_CONSENT_ACTIVE,I have read and understood the Privacy Policy.
+ID_CONSENT_TOS_AFFIRMATIVE_CONSENT_ACTIVE,I agree to the Terms of Use.
+ID_CONSENT_TEEN_LEGAL_GUARDIAN_AFFIRMATIVE_CONSENT,"If you are a teenager, you may provide personal information only if your guardian has read and agreed to these policies and terms on your behalf."
+ID_CONSENT_FURTHER_NOTICE_CO_MSG,"MARVEL Strike Force may collect certain personal information for purposes of providing this app. Without this information we may not be able to provide you with these services. The MARVEL Strike Force Privacy Policy explains how and when we may share information with third parties, some of whom are located in the United States and Canada. The Privacy Policy also contains more details about your rights and choices related to personal data we may hold about you and how to contact us in case of privacy-related issues or questions."
+ID_CONSENT_HIGH_COMPLIANCE_KR_MSG_01,I confirm acceptance of the Privacy Policy.
+ID_CONSENT_HIGH_COMPLIANCE_KR_MSG_02,I agree that personal information about me may be collected and used as described in the Privacy Policy.
+ID_CONSENT_HIGH_COMPLIANCE_KR_MSG_03,"I agree to the cross-border transfer of personal information about me to company affiliates worldwide, as well as other unaffiliated third parties, as described in the Privacy Policy."
+ID_CONSENT_HIGH_COMPLIANCE_KR_MSG_04,"I agree that the handling of personal information about me may be outsourced to third parties for marketing/promotional or any other purposes, as described in the Privacy Policy."
+ID_CONSENT_HIGH_COMPLIANCE_KR_MSG_05,I confirm my acceptance of the Terms of Use.
+ID_CONSENT_SCOPELY_2020_WW,"By continuing to play, you agree to our <color=#fff568>Terms of Service</color> and to our use of cookies and similar technology. For more information, see our <color=#fff568>Privacy Policy</color>."
+ID_CONSENT_TRACKING_TITLE,Help Us Find Players Like You
+ID_CONSENT_TRACKING_ALLOW,Continue
+ID_CONSENT_TRACKING_ASK_LATER,Ask me Later
+ID_CONSENT_TRACKING_DONT_ASK,Don't Allow
+ID_CONSENT_TRACKING_MSG,Allowing the permissions on the next screen better enables us to recruit more Commanders like you and improve the game.
+ID_ASSET_BUNDLE_PROGRESS_DOWNLOADING,Downloading
+ID_DEFAULT_PLAYER_NAME,Commander
+ID_FATAL_BUTTON_NONE,None
+ID_FATAL_BUTTON_RESTART,Restart
+ID_FATAL_BUTTON_UPDATE,Update
+ID_FATAL_BUTTON_SUPPORT,Support
+ID_FATAL_BUTTON_CONTINUE,Continue
+ID_FATAL_NO_NETWORK_HEADLINE,INTERNET ACCESS REQUIRED
+ID_FATAL_NO_NETWORK_MESSAGE,Unable to detect internet connection. Searching...
+ID_FATAL_BANNED_HEADLINER,BANNED ACCOUNT
+ID_FATAL_BANNED_TEMP_HEADLINER,TEMPORARY BAN
+ID_FATAL_BANNED_MESSAGE,Your account is banned. Please contact Customer Support for assistance.
+ID_FATAL_UPDATE_REQUIRED_HEADLINER,UPDATE AVAILABLE
+ID_FATAL_UPDATE_REQUIRED_MESSAGE,"Commander, a new version of the game is available. Get the latest update to continue playing."
+ID_FATAL_ERROR_HEADLINER,ANOMALY DETECTED
+ID_FATAL_ERROR_MESSAGE,"Commander, an error has occurred. Please restart the game."
+ID_FATAL_GPLAY_UPDATE_REQUIRED_HEADLINER,UPDATE REQUIRED
+ID_FATAL_GPLAY_SERVICES_UPDATE_REQUIRED_MESSAGE,This game requires a newer version of Google Play Services. Get the latest update from the Play Store and try again.
+ID_FATAL_GPLAY_GAMES_UPDATE_REQUIRED_MESSAGE,This game requires a newer version of Google Play Games. Get the latest update from the Play Store and try again.
+ID_FATAL_MAINTENANCE_HEADLINER,SYSTEM MAINTENANCE
+ID_FATAL_MAINTENANCE_MESSAGE,Strike Force servers are currently undergoing maintenance. Thank you for your patience.
+ID_FATAL_INSUFFICIENT_DISK_SPACE,Your device does not have enough storage space to download the game. Please free up some space!
+ID_FATAL_ANDROID_PERMISSION_PLEAD_HEADLINE,Requesting Permissions
+ID_FATAL_ANDROID_PERMISSION_PLEAD_MESSAGE,Please grant permissions when prompted for proper game operation. Thank you.\n\nREAD_PHONE_STATE - required by Facebook
+ID_FATAL_ANDROID_PERMISSION_MISSING_HEADLINE,Missing Permission
+ID_FATAL_ANDROID_PERMISSION_MISSING_MESSAGE,Required permission{perm_name} must be manually enabled via Android Application Settings.\n\nPlease enable permission and restart the application.
+ID_FATAL_ANDROID_PERMISSION_MISSING_GOTOSETTINGS,Settings
+ID_FATAL_ANDROID_PERMISSION_RETRY_HEADLINE,Missing Permissions
+ID_FATAL_ANDROID_PERMISSION_RETRY_MESSAGE,Permissions required by this application are not enabled.
+ID_FATAL_ANDROID_PERMISSION_POLITE_HEADLINE,Retry Permission Checks
+ID_FATAL_ANDROID_PERMISSION_POLITE_MESSAGE,Retry after enabling permissions\nin Android Application Settings.
+ID_FATAL_ANDROID_PERMISSION_RETRY,Retry
+ID_FATAL_ANDROID_LOQTABLE_HEADLINE,Startup Error
+ID_FATAL_ANDROID_LOQTABLE_MESSAGE,Table load failed.
+ID_FATAL_FACEBOOK_REAUTH_HEADER,FACEBOOK ERROR
+ID_FATAL_FACEBOOK_REAUTH_MESSAGE,"Facebook reauthorization is required. Tap ""Continue"" to reauthorize and continue."
+ID_FATAL_MANIFEST_UPDATED,A change has been detected. Please restart the game.
+ID_FATAL_MANIFEST_UPDATED_HEADER,DATA CHANGED
+ID_TOASTER_DEFAULT,Strike Force servers are currently undergoing maintenance. Thank you for your patience.
+ID_TOASTER_SCHEDULED,Strike Force servers are currently undergoing scheduled maintenance. Thank you for your patience.
+ID_TOASTER_EMERGENCY,Strike Force servers are currently undergoing emergency maintenance. Thank you for your patience.
+ID_TOASTER_EVENT01,Strike Force servers are currently undergoing event maintenance. Thank you for your patience.
+ID_TOASTER_EVENT02,Strike Force servers are currently undergoing event maintenance. Thank you for your patience.
+ID_TOASTER_EVENT03,Strike Force servers are currently undergoing event maintenance. Thank you for your patience.
+ID_NOTIFICATIONS_ONE_FREECRATE_AVAILABLE,You have a free Orb available!
+ID_NOTIFICATIONS_ONE_FREECRATE_AVAILABLE_ACTION,OK
+ID_NOTIFICATIONS_TWO_FREECRATES_AVAILABLE,You have two free Orbs available!
+ID_NOTIFICATIONS_TWO_FREECRATES_AVAILABLE_ACTION,OK
+ID_NOTIFICATIONS_FREECRATE_AVAILABLE_FOR_STORE,New items are available in Supplies!
+ID_NOTIFICATIONS_FREECRATE_AVAILABLE_FOR_STORE_ACTION,OK
+ID_NOTIFICATIONS_FREE_CAMPAIGN_ENERGY_AVAILABLE,Your free Campaign Energy expires soon. Claim it now!
+ID_NOTIFICATIONS_FREE_CAMPAIGN_ENERGY_AVAILABLE_ACTION,OK
+ID_NOTIFICATIONS_RESOURCE_RECHARGED,Your {resourceName} has fully recharged!
+ID_NOTIFICATIONS_RESOURCE_RECHARGED_ACTION,OK
+ID_LOADINGSCREEN_01,Challenges provide a variety of resources and change every day.
+ID_LOADINGSCREEN_02,Raids challenge your entire alliance to work cooperatively to complete a series of missions before time runs out.
+ID_LOADINGSCREEN_03,Only VILLAIN characters can participate in the Villains Campaign.
+ID_LOADINGSCREEN_04,The Defense Up status reduces all incoming damage to a character by 50%.
+ID_LOADINGSCREEN_05,"Each character has a combat role trait: PROTECTOR, BLASTER, BRAWLER, SUPPORT, and CONTROLLER."
+ID_LOADINGSCREEN_06,"Each character has an origin trait: BIO, SKILL, MYSTIC, TECH, and MUTANT."
+ID_LOADINGSCREEN_07,"A character's total power is a combination of their character level, gear, ability level, and Star Rank."
+ID_LOADINGSCREEN_08,Like a certain team composition? Use the Saved Squad feature to have easy access to your favorite teams.
+ID_LOADINGSCREEN_09,Ultimus has conquered the Earths of countless dimensions and converted their heroes to build his army.
+ID_LOADINGSCREEN_10,Characters gain ability energy in their Special and Ultimate abilities each turn.
+ID_LOADINGSCREEN_11,"Has your Alliance mastered a Raid? Increase the Difficulty and defeat it again to earn additional rewards. "
+ID_LOADINGSCREEN_12,Characters act in order according to their speed.
+ID_LOADINGSCREEN_13,"Enemies must attack a character who has the Taunt status. "
+ID_LOADINGSCREEN_14,Characters with the Stealth effect active cannot be the target of an enemy attack.
+ID_LOADINGSCREEN_15,Area of Effect attacks impact the primary target and all enemies adjacent to it.
+ID_LOADINGSCREEN_16,S.T.R.I.K.E. stands for the Special Tactical Reserve for Interdimensional Key Events.
+ID_LOADINGSCREEN_17,S.T.R.I.K.E. is an elite division of S.H.I.E.L.D. that specializes in threats that arise from beyond our dimension.
+ID_LOADINGSCREEN_18,Use S.H.I.E.L.D. training programs to level up your characters.
+ID_LOADINGSCREEN_19,Collect all six pieces of gear to upgrade a character to the next gear tier.
+ID_LOADINGSCREEN_20,Collect character shards to increase a character's Star Rank and gain greater power.
+ID_LOADINGSCREEN_21,Characters with the PROTECTOR trait specialize in taking the brunt of the damage in order to protect their teammates.
+ID_LOADINGSCREEN_22,Characters with the BRAWLER trait prefer to get up close and personal with their foes for maximum damage.
+ID_LOADINGSCREEN_23,Characters with the BLASTER trait bombard enemies with damage at long range.
+ID_LOADINGSCREEN_24,Characters with the SUPPORT trait assist their allies with healing and positive combat effects.
+ID_LOADINGSCREEN_25,Characters with the CONTROLLER trait manipulate the battlefield by disrupting their foes and providing special benefits to their allies.
+ID_LOADINGSCREEN_26,The Hand is an ancient shadow organization whose influence spans from the criminal underworld to global politics.
+ID_LOADINGSCREEN_27,"The Dark Watch is a mercenary outfit that operates outside the law and will take any job for the right price. "
+ID_LOADINGSCREEN_28,Hydra is a secretive organization bent on global domination.
+ID_LOADINGSCREEN_29,A.I.M.(Advanced Idea Mechanics) is a multinational corporation dealing in cutting edge scientific research and development.
+ID_LOADINGSCREEN_30,The Kree Empire is an advanced interstellar civilization with a powerful military.
+ID_LOADINGSCREEN_31,"The Ravagers are spacefaring pirates, thieves, and smugglers who live by a code: ""Steal from everybody."""
+ID_LOADINGSCREEN_32,Ultron's automated factories are capable of manufacturing an entire army of his drones in mere days if left unchecked.
+ID_LOADINGSCREEN_33,S.T.R.I.K.E.'s sensor stations are located around the world. They can detect a broad spectrum of interdimensional disturbances.
+ID_LOADINGSCREEN_34,The Deathproof status prevents a character from being defeated when they're dealt damage that would reduce their Health to zero.
+ID_LOADINGSCREEN_35,The Regeneration status effect heals the affected character at the beginning of their turn.
+ID_LOADINGSCREEN_36,The Bleed status effect reduces the affected character's Health at the beginning of their turn.
+ID_LOADINGSCREEN_37,The First Legion is an elite military force of Kree warriors who have sworn loyalty to Ultimus.
+ID_LOADINGSCREEN_38,Ultimus uses the Conversion Device to corrupt the free will of heroes and force them to swear loyalty to his cause.
+ID_LOADINGSCREEN_39,The Disrupted status prevents characters from gaining new positive effects.
+ID_LOADINGSCREEN_40,A character's origin defines what type of gear they require.
+ID_LOADINGSCREEN_41,"Many characters have an affiliation trait, such as AVENGER, DEFENDER, SPIDER-VERSE, or INHUMAN."
+ID_LOADINGSCREEN_42,Earn three medals on a mission in order to unlock the ability to AUTO WIN and collect rewards automatically.
+ID_LOADINGSCREEN_43,The Revive ability will always bring back the first ally that was defeated in battle.
+ID_LOADINGSCREEN_44,Tap and hold effect icons to see detailed information.
+ID_LOADINGSCREEN_45,Characters with the Stealth effect active may take actions without breaking the effect.
+ID_LOADINGSCREEN_46,A thrown weapon chain ends if a target dodges.
+ID_LOADINGSCREEN_47,A melee chain ends if a target counters.
+ID_LOADINGSCREEN_48,"Nexus Earth is at the center of the multiverse, acting as a gateway to other dimensions. If Ultimus seizes it, he can conquer all reality."
+ID_LOADINGSCREEN_50,"Black Bolt is the silent King of the Inhumans, possessing a voice that can level mountains with a word."
+ID_LOADINGSCREEN_51,"When she's not saving New Jersey, Kamala Khan writes fanfiction about other heroes and TOTALLY ships Spider-Man and Captain Marvel."
+ID_LOADINGSCREEN_52,The Offense Up status increases a character's Damage and Focus.
+ID_LOADINGSCREEN_53,Add players to your Contacts to send them direct messages and coordinate your attacks!
+ID_LOADINGSCREEN_54,"Cyclops is the first member of the X-Men, a tactical genius, and a master of trigonometry."
+ID_LOADINGSCREEN_55,"Piercing attacks ignore a percentage of the defender's Armor, dealing more damage!"
+ID_LOADINGSCREEN_56,"Not only did Ironheart build her own version of Iron Man's Power Armor, she did it when she was just 15."
+ID_LOADINGSCREEN_57,Nothing can move the Blob thanks to his size and a personal gravity field that sticks him in place.
+ID_LOADINGSCREEN_58,Challenge your Contacts and Alliance members to a VS Battle by tapping their name in chat!
+ID_LOADINGSCREEN_59,VS Battle allows you to play against other Commanders in real-time combat!
+ID_LOADINGSCREEN_60,Picking a character in a VS Battle prevents your opponent from adding that character to their team.
+ID_LOADINGSCREEN_61,"Married members of The Black Order, Corvus Glaive and Proxima Midnight automatically assist each other's Basic Attack when possible."
+ID_LOADINGSCREEN_62,"When a character becomes Empowered, they're granted an all-new, powerful set of Abilities. "
+ID_LOADINGSCREEN_63,Flash Events require specific teams but give out big rewards. Check the Events section to see which one is coming next!
+ID_LOADINGSCREEN_64,"Bar Sinister, Mister Sinister's island-fortress-slash-nightclub, is the premier spot for gossip and clones in the multiverse."
+ID_LOADINGSCREEN_65,"Real name Nathan Summers, Cable is the son of the X-Men's Cyclops, returned to the present from a far-flung future."
+ID_LOADINGSCREEN_66,"Flipping a status effect changes it either from negative to positive, or from positive to negative!"
+ID_LOADINGSCREEN_67,"In an attempt to cure his mutant gene, the X-Men's Beast accidentally amplified it, causing him to grow blue fur and claws. "
+ID_LOADINGSCREEN_68,"A short list of foes the Unbeatable Squirrel Girl has defeated include Doctor Doom, Thanos, and even Galactus!"
+ID_LOADINGSCREEN_69,Characters with the Vulnerable status effect take 10% increased damage.
+ID_LOADINGSCREEN_70,"Strikers use Iso-8 to deal an additional hit to Vulnerable targets, and clear the effect in the process."
+ID_LOADINGSCREEN_71,Skirmishers use Iso-8 to apply the Vulnerable status effect to their primary target.
+ID_LOADINGSCREEN_72,Raiders use Iso-8 to enhance the impact of Critical Hits and apply Vulnerable to their enemies.
+ID_LOADINGSCREEN_73,Fortifiers use Iso-8 to gain a defensive barrier.
+ID_LOADINGSCREEN_74,Healers use Iso-8 to better heal their allies.
+ID_LOADINGSCREEN_75,"Active Healing increases the amount of Health a character grants with their healing abilities, not including positive status effects."
+ID_LOADINGSCREEN_76,A primary hit is the first hit a character makes against their first target when attacking with an ability.
+ID_LOADINGSCREEN_77,"Iso-8 Crystals are each attuned to one of five attributes: Health, Damage, Armor, Resist, and Focus."
+ID_LOADINGSCREEN_78,"Iso-8 Crystals are each attuned to one of five roles: Blaster, Brawler, Controller, Protector, and Support."
+ID_LOADINGSCREEN_79,"To unlock Classes for a character, equip an Iso-8 Crystal to each slot of that character's Matrix."
+ID_LOADINGSCREEN_80,The Matrix uses energy from the Iso-8 Crystals to infuse a character with power and unique effects. Scientist Supreme swears it's safe.
+ID_LOADINGSCREEN_81,Tier 1 Iso-8 Crystals require Tier 1 Ions in order to fuse into a higher level Iso-8 Crystal.
+ID_LOADINGSCREEN_82,"There are five levels of Tier 1 Iso-8 Crystals. They appear green in color, with stronger crystals appearing larger and brighter. "
+ID_LOADINGSCREEN_83,Earn Tier 1 Iso-8 Crystals and Tier 1 Ions in the Isotope-8 Campaign.
+ID_LOADINGSCREEN_84,The Isotope-8 Campaign uses its own Iso-8 Campaign Energy.
+ID_LOADINGSCREEN_85,"Reed Richards and Victor Von Doom's rivalry goes back to college, when the pair were roommates at Empire State University."
+ID_LOADINGSCREEN_86,"Stature got her powers by stealing Pym Particles from her father, Scott Lang, the Astonishing Ant-Man!"
+ID_LOADINGSCREEN_87,Neither Doctor Octopus nor his nemesis Spider-Man have as many arms as the animals they named themselves after.
+ID_LOADINGSCREEN_88,"Shatterstar is half of a mutant ""power couple"", with his boyfriend and X-Factor Investigations teammate, Rictor."
+ID_LOADINGSCREEN_89,The X-Men's Iceman is one of the few known Omega Level Mutants.
+ID_LOADINGSCREEN_90,"The Mojoverse is a dimension full of ""Spineless Ones"" who crave the entertainment provided by their ruler and television genius, Mojo!"
+ID_LOADINGSCREEN_91,Complete objectives in the Real-Time Arena to unlock amazing rewards in this season's Battle Pass!
+ID_LOADINGSCREEN_92,Make sure to try out the Objective List window in Real-Time Arena's Squad Select screen!
+ID_LOADINGSCREEN_93,Moon Knight's dissociative personalities make him an unpredictable foe and a volatile ally.
+ID_LOADINGSCREEN_94,"Some of Spider-Man's past jobs include pro wrestler, photographer, science teacher, and tech CEO!"
+ID_LOADINGSCREEN_95,Not all Objectives need to be completed in order to unlock all the rewards in the Mojo's Mayhem Battle Pass!
+ID_LOADINGSCREEN_96,"The Silver Surfer was only one of Galactus's heralds, whose ranks would also eventually include Johnny Storm and the mighty Thor!"
+ID_LOADINGSCREEN_97,"Multiple Man formed X-Factor Investigations after the events of The House of M, which left many Mutants depowered and missing."
+ID_LOADINGSCREEN_98,Some abilities modify the Max Barrier stat to change the maximum amount of Barrier a character can be protected by.
+ID_LOADINGSCREEN_99,Kestrel's Exo-suit's wings allow her to glide across the space between dimensions and expertly navigate to parallel worlds.
+ID_LOADINGSCREEN_100,"A founder of S.T.R.I.K.E., Kestrel was lost to the multiverse in a scientific accident. Now she's returned when the Nexus needs her most. "
+ID_LOADINGSCREEN_101,"As Captain America, Sam Wilson relies on his skill and training as an Avenger to wield his legendary shield - no Super-Soldier Serum required."
+ID_CONFIRM_CLOSE_BODY,Do you want to exit the app?
+ID_CONFIRM_CLOSE_HEADLINE,EXIT
+ID_CONFIRMDIALOG_CANCEL,CANCEL
+ID_CONFIRMDIALOG_CONFIRM,CONFIRM
+ID_SPARX_ERROR_UNKNOWN,An unknown error has occurred. Please try again later.
+ID_SPARX_ERROR_MEMORY,Invalid data has been detected. Please relaunch the game.
+ID_SPARX_ERROR_NAME_SHORT,The name must be between {min} and {max} characters.
+ID_SPARX_ERROR_NAME_TAKEN,This name has already been taken.
+ID_SPARX_ERROR_NAME_INVALID,This name contains invalid characters.
+ID_SPARX_ERROR_NAME_FILTER,This name contains prohibited words.
+ID_SPARX_ERROR_NO_LOGGED_IN,You must be logged in.
+ID_SPARX_ERROR_NOT_CONNECTED,Could not connect to the Internet. Check your connection and try again.
+ID_SPARX_ERROR_FAILED_DNS,Failed to resolve the network address. Check your network settings and try again.
+ID_SPARX_ERROR_NOT_JOINABLE,Failed to join the match. The match has already started.
+ID_SPARX_ERROR_LOST_CONNECT,Connection to the game was lost.
+ID_SPARX_ERROR_JOIN_GAME,Failed to join the match. Check your network settings and try again.
+ID_SPARX_ERROR_GAME_KICKED,You have been kicked from the game.
+ID_SPARX_ERROR_NOFREEGAMES,All servers are full. Please try again later.
+ID_SPARX_ERROR_DUPLICATE_LOGIN,You have been logged out because you signed in on another device.
+ID_SPARX_ERROR_MUST_BE_LOGGED_IN,You must be signed in to purchase items.
+ID_SPARX_ERROR_PAYOUT_EXPIRED,This offer has expired. Refreshing...
+ID_SPARX_ERROR_FAILED_TO_VERIFY_PAYMENT,Failed to verify payment. Please try again later.
+ID_SPARX_ERROR_PROFANITY,Profanity is not allowed.
+ID_SPARX_ERROR_GAME_LOST_CONNECTION,You have lost connection to the game.
+ID_SPARX_ERROR_LINK_NOT_SIGNED_IN,Failed to sign in
+ID_SPARX_ERROR_SERVER_DOWN,The server cannot be accessed at this time. Please try again later.
+ID_SPARX_ERROR_CUSTOMER_SUPPORT,An error has occurred. Please contact Customer Support.\nError: {error}
+ID_SPARX_CONTENT_CHECKING,Checking for new content
+ID_SPARX_CONTENT_EXTRACTING,Extracting new content
+ID_SPARX_CONTENT_FAILED,Failed to download content. Check your internet settings and try again.
+ID_SPARX_CONTENT_FAILED_EXTRACT,Failed to download content. Make sure that you have at least 800MB of free space on your device.
+ID_SPARX_CONTENT_RETRY,Retry
+ID_SPARX_OBB_ERROR,Failed to download the expansion pack. External storage is not available.
+ID_SPARX_ERROR_BANNED,You have been banned.
+ID_SPARX_ERROR_TEMP_BANNED,Your account has been banned for {hours} hour(s).
+ID_SPARX_ERROR_FACEBOOK,Facebook access has expired. Please reinstall MARVEL Strike Force to connect.
+ID_SPARX_ERROR_FACEBOOK_INIT,Facebook failed to initialize.
+ID_SPARX_ERROR_FACEBOOK_CANCELED,The Facebook login has been canceled.
+ID_SPARX_ERROR_FACEBOOK_APP_BLOCKED,You have denied us access to your Facebook data. Allow and try again later.
+ID_SPARX_ERROR_FACEBOOK_TOKEN,Failed to get the Facebook Access Token. Please try again later.
+ID_SPARX_ERROR_FACEBOOK_TOKEN_POST_LOGIN,Failed to get the Facebook Access Token after login. Please try again later.
+ID_SPARX_ERROR_FACEBOOK_INITIALIZE,Failed to initialize the Facebook SDK. Please try again later.
+ID_SPARX_ERROR_FACEBOOK_SDK,A Facebook SDK error has occurred.
+ID_SPARX_ERROR_FACEBOOK_LOGIN,Failed to log in to Facebook. Error: {error}
+ID_SPARX_ERROR_FACEBOOK_EMAIL,Failed to receive valid email permissions from Facebook. Make sure you have a valid email and try again.
+ID_SPARX_ERROR_FACEBOOK_NORESPONSE,No valid response from Facebook.
+ID_SPARX_PAYMENTS_LOCKED,Payments error. Unknown lock.
+ID_SPARX_PAYMENTS_LOCKED_ON_WEB,This purchase is already in progress on the web. Please complete your purchase there.
+ID_SPARX_PAYMENTS_LOCKED_ON_ANOTHER_DEVICE,This purchase is already in progress on another device. Please complete your purchase there.
+ID_SPARX_GUEST_ACCOUNT_NAME,Guest Account
+ID_SPARX_FILESYSTEM_ERROR_NOSPACE,Your device is out of storage space. Clear some space and try again.
+ID_SPARX_FILESYSTEM_ERROR_DATADOWNLOADFAILED,Failed to download data. Please try again later.
+ID_SPARX_FILESYSTEM_ERROR_MISSING,A critical file is missing. Download the app again and try again.
+ID_SPARX_FILESYSTEM_ERROR_UNKNOWN,An unknown error has occurred. Please try again later.
+ID_SPARX_LOCALIZER_FORMAT_TIME_AGO,{duration} ago
+ID_SPARX_LOCALIZER_FORMAT_TIME_DAY,d
+ID_SPARX_LOCALIZER_FORMAT_TIME_SEPARATOR,:
+ID_SPARX_LOCALIZER_FORMAT_DURATION_DEFAULT,Some time
+ID_SPARX_LOCALIZER_FORMAT_DURATION_DAY,{num}d
+ID_SPARX_LOCALIZER_FORMAT_DURATION_DAYS,{num}d
+ID_SPARX_LOCALIZER_FORMAT_DURATION_HOURS,{num}h
+ID_SPARX_LOCALIZER_FORMAT_DURATION_HOUR,{num}h
+ID_SPARX_LOCALIZER_FORMAT_DURATION_MINUTES,{num}m
+ID_SPARX_LOCALIZER_FORMAT_DURATION_MINUTE,{num}m
+ID_SPARX_LOCALIZER_FORMAT_DURATION_SECONDS,{num}s
+ID_SPARX_LOCALIZER_FORMAT_DURATION_SECOND,{num}s
+ID_SPARX_IAP_GOOGLE_ERROR_ACCOUNT,You must be signed in to a Google Play account on your device to purchase items.
+ID_SPARX_IAP_SAMSUNG_ERROR_ACCOUNT,Problems encountered while connecting to Samsung Galaxy Apps.

@@ -1,0 +1,74 @@
+id,translation
+ID_APIAUTH_MAINTENANCE,The login servers are currently in maintenance.
+ID_APIAUTH_EXPIRED_LOGIN,The time allotted to log in has expired. Please return to the site you were trying to log in with and try again.
+ID_APIAUTH_UNREACHABLE_LOGIN,The login servers are currently unavailable.
+ID_APIAUTH_RATE_LIMITED_LOGIN,You have exceeded the maximum number of login attempts. Please wait a while before trying again.
+ID_APIAUTH_NO_SCOPE_REQUEST,Invalid access request.
+ID_APIAUTH_NO_SCOPE_GRANT,Invalid access grant.
+ID_APIAUTH_CONSENT_ANOMALY,Anomaly Detected (Web 2).
+ID_APIAUTH_UNSUPPORTED_CLIENT,This client is not yet supported.
+ID_APIAUTH_CSRF_ERROR,"Your browser wasn't able to provide a secure cookie. Make sure this page is not open in any other windows or tabs. Then, make sure cookies are enabled in your browser and try again."
+ID_APIAUTH_UNRECOGNIZED_BROWSER,This browser is not recognized. Please enter a second temporary code to make sure it's you.
+ID_APIAUTH_INVALID_INPUT,Invalid input.
+ID_APIAUTH_INVALID_LOGIN,"Invalid PID or Code. If your PID is correct, it is likely that your Code has expired. Request a fresh Code and try again."
+ID_APIAUTH_ERROR_LOGOUT,Unsupported Operation (Web 1).
+ID_APIAUTH_ERROR_POST_LOGOUT_REDIRECT,Unsupported Operation (Web 2).
+ID_APIAUTH_ERROR_INVALID_CLIENT,Unrecognized Client.
+ID_APIAUTH_ERROR_OTHER,Anomaly Detected (Web 1).
+ID_APIAUTH_FEDERATION_FAILURE,Unable to retrieve your ID from the identification provider. Please try again.
+ID_APIAUTH_FEDERATION_NOT_LINKED,"No connected game account found. To sign in, please first connect your account in the app using the ACCOUNT section of the settings page."
+ID_APIAUTH_FEDERATION_INVALID,Unrecognized identification provider.
+ID_APIAUTH_CONSENT_FULL,Full
+ID_APIAUTH_CONSENT_PLAYER,Player
+ID_APIAUTH_CONSENT_ALLIANCE,Alliance
+ID_APIAUTH_CONSENT_ADDITIONAL,Additional
+ID_APIAUTH_CONSENT_INTRO,The site or application at %site% wants to access your MARVEL Strike Force account.
+ID_APIAUTH_CONSENT_SELECT,Select what it can access.
+ID_APIAUTH_CONSENT_INFO,Important information:
+ID_APIAUTH_CONSENT_SHARING,You are authorizing us to share the data selected above with this site or application.
+ID_APIAUTH_CONSENT_PRIVACY_INTRO,Your data will be handled in accordance with this site's or application's Privacy Policy.
+ID_APIAUTH_CONSENT_REVIEW_TOS_PRIVACY,Please review their %tos% and %privacy% before granting access.
+ID_APIAUTH_CONSENT_REVIEW_PRIVACY,Please review their %privacy% before granting access.
+ID_APIAUTH_CONSENT_TOS,Terms of Service
+ID_APIAUTH_CONSENT_PRIVACY,Privacy Policy
+ID_APIAUTH_CONSENT_REVOKE,You can see and/or remove access at any time by visiting your %dashboard%.
+ID_APIAUTH_CONSENT_DASHBOARD,MARVEL Strike Force Dashboard
+ID_APIAUTH_CONSENT_AUTHORIZE,Authorize
+ID_SCOPE_M3P_STAR_NAME,Full Access
+ID_SCOPE_M3P_STAR_DESC,Full Access
+ID_SCOPE_M3P_F_PR_PRO_NAME,View Profile
+ID_SCOPE_M3P_F_PR_PRO_DESC,"Access your nickname, level, total collection power, etc."
+ID_SCOPE_M3P_F_PR_ROS_NAME,View Roster
+ID_SCOPE_M3P_F_PR_ROS_DESC,"Access your roster, saved squads, favorites, Stark Tech, etc."
+ID_SCOPE_M3P_F_PR_INV_NAME,View Inventory
+ID_SCOPE_M3P_F_PR_INV_DESC,"Access your gear, resources, etc."
+ID_SCOPE_M3P_F_PR_ACT_NAME,View Game Activity
+ID_SCOPE_M3P_F_PR_ACT_DESC,"Access your campaign progress, milestone progress, etc."
+ID_SCOPE_M3P_F_AR_PRO_NAME,View Alliance Profile
+ID_SCOPE_M3P_F_AR_PRO_DESC,"Access your alliance's stats, settings, membership, etc."
+ID_SCOPE_M3P_F_AR_ROS_NAME,View Members' Rosters
+ID_SCOPE_M3P_F_AR_ROS_DESC,"Access your alliance members' rosters, saved squads, favorites, Stark Tech, etc."
+ID_SCOPE_M3P_F_AR_INV_NAME,View Members' Inventories
+ID_SCOPE_M3P_F_AR_INV_DESC,"Access your alliance members' gear, resources, etc."
+ID_SCOPE_M3P_F_AR_RAID_NAME,View Raids
+ID_SCOPE_M3P_F_AR_RAID_DESC,"Access your alliance's current and past raids, including scores and progress"
+ID_SCOPE_M3P_F_AR_WAR_NAME,View Wars
+ID_SCOPE_M3P_F_AR_WAR_DESC,"Access your alliance's current and past wars, including scores and progress"
+ID_SCOPE_M3P_F_AR_ACT_NAME,View Other Alliance Activity
+ID_SCOPE_M3P_F_AR_ACT_DESC,"Access your alliance's keys, donations, milestones, etc."
+ID_SCOPE_M3P_X_PW_BUY_NAME,View and Purchase Offers
+ID_SCOPE_M3P_X_PW_BUY_DESC,"Access your offers and purchase history, and make purchases"
+ID_SCOPE_M3P_X_PW_ACC_NAME,Review and Revoke Access to My Account
+ID_SCOPE_M3P_X_PW_ACC_DESC,Review and revoke access you've granted to other applications
+ID_SCOPE_M3P_X_PW_ACT_NAME,Claim Milestones
+ID_SCOPE_M3P_X_PW_ACT_DESC,Access to claiming your milestones
+ID_SCOPE_M3P_X_PW_DEV_NAME,Manage My Developer Settings
+ID_SCOPE_M3P_X_PW_DEV_DESC,Create and edit your developer profile and fan-made applications
+ID_SCOPE_M3P_X_PW_ROS_NAME,Edit Roster
+ID_SCOPE_M3P_X_PW_ROS_DESC,"Access to update your saved squads, favorites, etc."
+ID_SCOPE_OPENID_NAME,Connect
+ID_SCOPE_OPENID_DESC,Connect
+ID_SCOPE_OFFLINE_NAME,Persist Access Until Revoked
+ID_SCOPE_OFFLINE_DESC,Disables auto-expiration of account access
+ID_SCOPE_OVERFLOW_NAME,More applications have access to your account than can be shown here.
+ID_SCOPE_OVERFLOW_DESC,"To see more applications, revoke some access above. Or, click here to revoke all access to your account."

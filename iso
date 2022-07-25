@@ -1,0 +1,652 @@
+id,translation
+ID_GAMEMODE_ISO8,Iso-8
+ID_ISO8_UNLOCK_MESSAGE,Requires ISOTOPE-8 Campaign Mission 1-1 completed
+ID_UI_ISO8_CHAR_INFO_BUTTON,ISO-8
+ID_UI_ISO8_CANT_UPGRADE,Not an upgrade
+ID_UI_ISO8_INELIGIBLE,Use the Find Button to search for Iso-8 Crystals
+ID_UI_ISO8_FUSE,FUSE ALL
+ID_UI_ISO8_EQUIP,EQUIP
+ID_UI_EQUIP_DESCRIPTION,<color=#f7941d>EQUIP</color> the selected Iso-8 Crystal
+ID_UI_ALREADY_EQUIPPED,This Level has already been equipped
+ID_UI_ISO_SLOTED_MAXED,This Iso-8 Crystal is at Max Level
+ID_UI_ISO8_EQUIPPED,Equipped
+ID_UI_ISO8_SKILL_LEVEL_LABEL,T{tier} Level {level}
+ID_UI_ISO8_CLASS,Class
+ID_UI_ISO8_DETAILS_TOP,View
+ID_UI_ISO8_DETAILS_BOTTOM,Class
+ID_UI_ISO8_SWITCH,SWITCH
+ID_UI_ISO8_ROLE_TRAIT,ROLE TRAIT
+ID_UI_ISO8_CLASS_NOT_LEVELED,Not Leveled
+ID_UI_ISO8_CLASS_LOCKED,Classes are locked for {mode} Defense
+ID_UI_ISO8_CLASS_UNLOCKED,Classes are unlocked for {mode} Defense
+ID_UI_ISO8_CLASS_LOCK,Lock Iso-8 Classes for {mode} Defense
+ID_UI_ISO8_CLASS_LOCK_WAR,War
+ID_UI_ISO8_CLASS_LOCK_BG_DEFEND,Arena
+ID_ISO8_NUE,You have unlocked Iso-8!
+ID_CAMPAIGN_PLAYER_ENERGY_ISO8_NAME,Iso-8 Campaign Energy
+ID_CAMPAIGN_PLAYER_ENERGY_ISO8_DESCRIPTION,Used to launch the Isotope-8 Campaign missions.
+ID_GACHA_CRATE_ISO8_T2_BASIC_NAME,Basic T2 Iso-8 Orb
+ID_GACHA_CRATE_ISO8_T2_BASIC_DESCRIPTION,Contains T2 Iso-8 Crystals.
+ID_GACHA_CRATE_ISO8_T2_BASIC_TOKEN_NAME,Basic T2 Iso-8 Orb Fragments
+ID_GACHA_CRATE_ISO8_T2_BASIC_TOKEN_DESCRIPTION,Collect Basic T2 Iso-8 Orb Fragments to earn a Basic T2 Iso-8 Orb.
+ID_GACHA_CRATE_ISO8_TIER_1_A_CURRENCY_ORB_BASIC_NAME,T2 Level 1 Ion Orb
+ID_GACHA_CRATE_ISO8_TIER_1_A_CURRENCY_ORB_BASIC_DESCRIPTION,Contains T2 Level 1 Ions.
+ID_GACHA_CRATE_ISO8_TIER_1_A_CURRENCY_ORB_BASIC_TOKEN_NAME,T2 Level 1 Ion Orb Fragments
+ID_GACHA_CRATE_ISO8_TIER_1_A_CURRENCY_ORB_BASIC_TOKEN_DESCRIPTION,Collect T2 Level 1 Ion Orb Fragments to earn a T2 Level 1 Ion Orb.
+ID_GACHA_CRATE_ISO8_TIER_1_B_CURRENCY_ORB_BASIC_NAME,T2 Level 4 Ion Orb
+ID_GACHA_CRATE_ISO8_TIER_1_B_CURRENCY_ORB_BASIC_DESCRIPTION,Contains T2 Level 4 Ions.
+ID_GACHA_CRATE_ISO8_TIER_1_B_CURRENCY_ORB_BASIC_TOKEN_NAME,T2 Level 4 Ion Orb Fragments
+ID_GACHA_CRATE_ISO8_TIER_1_B_CURRENCY_ORB_BASIC_TOKEN_DESCRIPTION,Collect T2 Level 4 Ion Orb Fragments to earn a T2 Level 4 Ion Orb.
+ID_GACHA_CRATE_ISO8_TIER_1_C_CURRENCY_ORB_BASIC_NAME,T2 Level 5 Ion Orb
+ID_GACHA_CRATE_ISO8_TIER_1_C_CURRENCY_ORB_BASIC_DESCRIPTION,Contains T2 Level 5 Ions.
+ID_GACHA_CRATE_ISO8_TIER_1_C_CURRENCY_ORB_BASIC_TOKEN_NAME,T2 Level 5 Ion Orb Fragments
+ID_GACHA_CRATE_ISO8_TIER_1_C_CURRENCY_ORB_BASIC_TOKEN_DESCRIPTION,Collect T2 Level 5 Ion Orb Fragments to earn a T2 Level 5 Ion Orb.
+ID_GACHA_CRATE_ISO8_T2_BLASTER_NAME,T2 Blaster Iso-8 Orb
+ID_GACHA_CRATE_ISO8_T2_BLASTER_DESCRIPTION,Contains T2 Blaster Iso-8 Crystals.
+ID_GACHA_CRATE_ISO8_T2_BLASTER_TOKEN_NAME,T2 Blaster Iso-8 Orb Fragments
+ID_GACHA_CRATE_ISO8_T2_BLASTER_TOKEN_DESCRIPTION,Collect T2 Blaster Iso-8 Orb Fragments to earn a T2 Blaster Iso-8 Orb.
+ID_GACHA_CRATE_ISO8_T2_BRAWLER_NAME,T2 Brawler Iso-8 Orb
+ID_GACHA_CRATE_ISO8_T2_BRAWLER_DESCRIPTION,Contains T2 Brawler Iso-8 Crystals.
+ID_GACHA_CRATE_ISO8_T2_BRAWLER_TOKEN_NAME,T2 Brawler Iso-8 Orb Fragments
+ID_GACHA_CRATE_ISO8_T2_BRAWLER_TOKEN_DESCRIPTION,Collect T2 Brawler Iso-8 Orb Fragments to earn a T2 Brawler Iso-8 Orb.
+ID_GACHA_CRATE_ISO8_T2_SUPPORT_NAME,T2 Support Iso-8 Orb
+ID_GACHA_CRATE_ISO8_T2_SUPPORT_DESCRIPTION,Contains T2 Support Iso-8 Crystals.
+ID_GACHA_CRATE_ISO8_T2_SUPPORT_TOKEN_NAME,T2 Support Iso-8 Orb Fragments
+ID_GACHA_CRATE_ISO8_T2_SUPPORT_TOKEN_DESCRIPTION,Collect T2 Support Iso-8 Orb Fragments to earn a T2 Support Iso-8 Orb.
+ID_GACHA_CRATE_ISO8_T2_CONTROLLER_NAME,T2 Controller Iso-8 Orb
+ID_GACHA_CRATE_ISO8_T2_CONTROLLER_DESCRIPTION,Contains T2 Controller Iso-8 Crystals.
+ID_GACHA_CRATE_ISO8_T2_CONTROLLER_TOKEN_NAME,T2 Controller Iso-8 Orb Fragments
+ID_GACHA_CRATE_ISO8_T2_CONTROLLER_TOKEN_DESCRIPTION,Collect T2 Controller Iso-8 Orb Fragments to earn a T2 Controller Iso-8 Orb.
+ID_GACHA_CRATE_ISO8_T2_PROTECTOR_NAME,T2 Protector Iso-8 Orb
+ID_GACHA_CRATE_ISO8_T2_PROTECTOR_DESCRIPTION,Contains T2 Protector Iso-8 Crystals.
+ID_GACHA_CRATE_ISO8_T2_PROTECTOR_TOKEN_NAME,T2 Protector Iso-8 Orb Fragments
+ID_GACHA_CRATE_ISO8_T2_PROTECTOR_TOKEN_DESCRIPTION,Collect T2 Protector Iso-8 Orb Fragments to earn a T2 Protector Iso-8 Orb.
+ID_ISO8-TIER-1-ITEM-CREDITS-CURRENCY_NAME,T2 Iso-8 Credits
+ID_ISO8-TIER-1-ITEM-CREDITS-CURRENCY_DESCRIPTION,Use T2 Iso-8 Credits to purchase role-targeted T2 Iso-8 Orbs
+ID_ISO8-TIER-0-CURRENCY_DESCRIPTION,Use T1 Ions to fuse T1 Iso-8 Crystals or to upgrade Classes.
+ID_UI_ISO8_UNLOCKED_SKILL_LVL,Unlocked new Skill Level
+ID_UI_ISO8_FIND_DESC,Find Iso-8 Crystals in other modes
+ID_UI_ISO8_FIND_PIECES,<color=#f7941d>FIND</color> Iso-8 Crystals to equip
+ID_UI_ISO8_NEED_MATERIALS,Need materials
+ID_UI_ISO8_SELECT_CLASS,Select a Class for your character
+ID_ISO8_UPGRADE_LEVEL,UPGRADE TO T{tier} LEVEL {level}
+ID_ISO8_UPGRADED_LEVEL,UPGRADED TO T{tier} LEVEL {level}
+ID_ISO8_UPGRADE_TIER,Upgrade
+ID_ISO8_UPGRADE_TIER_READY,This Matrix is ready to be upgraded
+ID_ISO8_UPGRADE_TIER_GO,GO TO MATRIX
+ID_ISO8_UPGRADE_TIER_LEVEL_TOO_LOW,Character must be Level {level}
+ID_ISO8_ALL_LEVELS_UNLOCKED,This Class is at Max Level
+ID_ISO8_CLASS_UNLOCK_ABILITY,This ability is unlocked when the Class is selected
+ID_ISO8_REQUIRES_LEVEL,[REQUIRES ALL ISO-8 AT T{tier} LEVEL {level}]
+ID_ISO8_REQUIRES_CLASS,[Requires previous Class Levels upgraded]
+ID_ISO8_SKILL_TREE_ACTION,Class Available
+ID_ISO8_SKILL_TREE_TIER_ACTION,Level up a Class to Tier {tier} Level {lvl} in order to upgrade this Matrix
+ID_UI_ISO8_SKILL_TREE_INSTR,Tap on the center of the Iso-8 Matrix\n to view Classes
+ID_ISO8_STAT_DAMAGE,DAMAGE
+ID_ISO8_STAT_HEALTH,HEALTH
+ID_ISO8_STAT_FOCUS,FOCUS
+ID_ISO8_STAT_RESIST,RESIST
+ID_ISO8_STAT_ARMOR,ARMOR
+ID_UI_ISO8_TRAIT_NAME_BLASTER,BLASTER
+ID_UI_ISO8_TRAIT_NAME_BRAWLER,BRAWLER
+ID_UI_ISO8_TRAIT_NAME_CONTROLLER,CONTROLLER
+ID_UI_ISO8_TRAIT_NAME_PROTECTOR,PROTECTOR
+ID_UI_ISO8_TRAIT_NAME_SUPPORT,SUPPORT
+ID_ABILITY_TOAST_ISO8,Iso-8: {skill_name}
+ID_UI_ISO8_FUSE_VALUE,T{tier} Iso-8 Value
+ID_UI_ISO8BONUS_ATTRIBUTE,Bonus Attribute
+ID_UI_ISO8_FUSE_PROGRESS_HEADER,Iso-8 to Fuse
+ID_UI_ISO8_EQUIP_HEADER,Iso-8 to Equip
+ID_UI_ISO8_FUSE_CURRENCY_TITLE,Ions to Fuse
+ID_UI_ISO8_TITLE,ISO-8
+ID_UI_ISO8_MAX_QUALITY,Max Level reached
+ID_UI_ISO8_NEED_FULL_SET,Full Iso-8 set required
+ID_UI_ISO8_ON_COOLDOWN,On cooldown
+ID_UI_ISO8_SELECT_TREE_ERROR,Unknown select tree error
+ID_UI_ISO8_ERROR_POPUP_TITLE,ERROR
+ID_UI_ISO8_REQUIRES_PREREQ,Requires previous ability
+ID_UI_ISO8_REQUIRES_HIGHER_QUALITY,Requires higher Iso-8 quality
+ID_UI_ISO8_WRONG_TREE,Wrong tree is equipped
+ID_UI_ISO8_ABILITY_ERROR,Unknown ability error
+ID_ISOITEM_GREEN_BLASTER_DAMAGE_1_NAME,T1 Blaster Damage Level 1 Iso-8
+ID_ISOITEM_GREEN_BLASTER_DAMAGE_2_NAME,T1 Blaster Damage Level 2 Iso-8
+ID_ISOITEM_GREEN_BLASTER_DAMAGE_3_NAME,T1 Blaster Damage Level 3 Iso-8
+ID_ISOITEM_GREEN_BLASTER_DAMAGE_4_NAME,T1 Blaster Damage Level 4 Iso-8
+ID_ISOITEM_GREEN_BLASTER_DAMAGE_5_NAME,T1 Blaster Damage Level 5 Iso-8
+ID_ISOITEM_GREEN_BLASTER_HEALTH_1_NAME,T1 Blaster Health Level 1 Iso-8
+ID_ISOITEM_GREEN_BLASTER_HEALTH_2_NAME,T1 Blaster Health Level 2 Iso-8
+ID_ISOITEM_GREEN_BLASTER_HEALTH_3_NAME,T1 Blaster Health Level 3 Iso-8
+ID_ISOITEM_GREEN_BLASTER_HEALTH_4_NAME,T1 Blaster Health Level 4 Iso-8
+ID_ISOITEM_GREEN_BLASTER_HEALTH_5_NAME,T1 Blaster Health Level 5 Iso-8
+ID_ISOITEM_GREEN_BLASTER_ARMOR_1_NAME,T1 Blaster Armor Level 1 Iso-8
+ID_ISOITEM_GREEN_BLASTER_ARMOR_2_NAME,T1 Blaster Armor Level 2 Iso-8
+ID_ISOITEM_GREEN_BLASTER_ARMOR_3_NAME,T1 Blaster Armor Level 3 Iso-8
+ID_ISOITEM_GREEN_BLASTER_ARMOR_4_NAME,T1 Blaster Armor Level 4 Iso-8
+ID_ISOITEM_GREEN_BLASTER_ARMOR_5_NAME,T1 Blaster Armor Level 5 Iso-8
+ID_ISOITEM_GREEN_BLASTER_FOCUS_1_NAME,T1 Blaster Focus Level 1 Iso-8
+ID_ISOITEM_GREEN_BLASTER_FOCUS_2_NAME,T1 Blaster Focus Level 2 Iso-8
+ID_ISOITEM_GREEN_BLASTER_FOCUS_3_NAME,T1 Blaster Focus Level 3 Iso-8
+ID_ISOITEM_GREEN_BLASTER_FOCUS_4_NAME,T1 Blaster Focus Level 4 Iso-8
+ID_ISOITEM_GREEN_BLASTER_FOCUS_5_NAME,T1 Blaster Focus Level 5 Iso-8
+ID_ISOITEM_GREEN_BLASTER_RESIST_1_NAME,T1 Blaster Resist Level 1 Iso-8
+ID_ISOITEM_GREEN_BLASTER_RESIST_2_NAME,T1 Blaster Resist Level 2 Iso-8
+ID_ISOITEM_GREEN_BLASTER_RESIST_3_NAME,T1 Blaster Resist Level 3 Iso-8
+ID_ISOITEM_GREEN_BLASTER_RESIST_4_NAME,T1 Blaster Resist Level 4 Iso-8
+ID_ISOITEM_GREEN_BLASTER_RESIST_5_NAME,T1 Blaster Resist Level 5 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_DAMAGE_1_NAME,T1 Brawler Damage Level 1 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_DAMAGE_2_NAME,T1 Brawler Damage Level 2 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_DAMAGE_3_NAME,T1 Brawler Damage Level 3 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_DAMAGE_4_NAME,T1 Brawler Damage Level 4 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_DAMAGE_5_NAME,T1 Brawler Damage Level 5 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_HEALTH_1_NAME,T1 Brawler Health Level 1 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_HEALTH_2_NAME,T1 Brawler Health Level 2 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_HEALTH_3_NAME,T1 Brawler Health Level 3 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_HEALTH_4_NAME,T1 Brawler Health Level 4 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_HEALTH_5_NAME,T1 Brawler Health Level 5 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_ARMOR_1_NAME,T1 Brawler Armor Level 1 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_ARMOR_2_NAME,T1 Brawler Armor Level 2 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_ARMOR_3_NAME,T1 Brawler Armor Level 3 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_ARMOR_4_NAME,T1 Brawler Armor Level 4 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_ARMOR_5_NAME,T1 Brawler Armor Level 5 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_FOCUS_1_NAME,T1 Brawler Focus Level 1 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_FOCUS_2_NAME,T1 Brawler Focus Level 2 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_FOCUS_3_NAME,T1 Brawler Focus Level 3 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_FOCUS_4_NAME,T1 Brawler Focus Level 4 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_FOCUS_5_NAME,T1 Brawler Focus Level 5 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_RESIST_1_NAME,T1 Brawler Resist Level 1 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_RESIST_2_NAME,T1 Brawler Resist Level 2 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_RESIST_3_NAME,T1 Brawler Resist Level 3 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_RESIST_4_NAME,T1 Brawler Resist Level 4 Iso-8
+ID_ISOITEM_GREEN_BRAWLER_RESIST_5_NAME,T1 Brawler Resist Level 5 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_DAMAGE_1_NAME,T1 Controller Damage Level 1 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_DAMAGE_2_NAME,T1 Controller Damage Level 2 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_DAMAGE_3_NAME,T1 Controller Damage Level 3 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_DAMAGE_4_NAME,T1 Controller Damage Level 4 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_DAMAGE_5_NAME,T1 Controller Damage Level 5 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_HEALTH_1_NAME,T1 Controller Health Level 1 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_HEALTH_2_NAME,T1 Controller Health Level 2 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_HEALTH_3_NAME,T1 Controller Health Level 3 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_HEALTH_4_NAME,T1 Controller Health Level 4 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_HEALTH_5_NAME,T1 Controller Health Level 5 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_ARMOR_1_NAME,T1 Controller Armor Level 1 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_ARMOR_2_NAME,T1 Controller Armor Level 2 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_ARMOR_3_NAME,T1 Controller Armor Level 3 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_ARMOR_4_NAME,T1 Controller Armor Level 4 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_ARMOR_5_NAME,T1 Controller Armor Level 5 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_FOCUS_1_NAME,T1 Controller Focus Level 1 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_FOCUS_2_NAME,T1 Controller Focus Level 2 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_FOCUS_3_NAME,T1 Controller Focus Level 3 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_FOCUS_4_NAME,T1 Controller Focus Level 4 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_FOCUS_5_NAME,T1 Controller Focus Level 5 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_RESIST_1_NAME,T1 Controller Resist Level 1 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_RESIST_2_NAME,T1 Controller Resist Level 2 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_RESIST_3_NAME,T1 Controller Resist Level 3 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_RESIST_4_NAME,T1 Controller Resist Level 4 Iso-8
+ID_ISOITEM_GREEN_CONTROLLER_RESIST_5_NAME,T1 Controller Resist Level 5 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_DAMAGE_1_NAME,T1 Protector Damage Level 1 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_DAMAGE_2_NAME,T1 Protector Damage Level 2 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_DAMAGE_3_NAME,T1 Protector Damage Level 3 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_DAMAGE_4_NAME,T1 Protector Damage Level 4 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_DAMAGE_5_NAME,T1 Protector Damage Level 5 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_HEALTH_1_NAME,T1 Protector Health Level 1 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_HEALTH_2_NAME,T1 Protector Health Level 2 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_HEALTH_3_NAME,T1 Protector Health Level 3 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_HEALTH_4_NAME,T1 Protector Health Level 4 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_HEALTH_5_NAME,T1 Protector Health Level 5 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_ARMOR_1_NAME,T1 Protector Armor Level 1 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_ARMOR_2_NAME,T1 Protector Armor Level 2 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_ARMOR_3_NAME,T1 Protector Armor Level 3 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_ARMOR_4_NAME,T1 Protector Armor Level 4 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_ARMOR_5_NAME,T1 Protector Armor Level 5 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_FOCUS_1_NAME,T1 Protector Focus Level 1 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_FOCUS_2_NAME,T1 Protector Focus Level 2 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_FOCUS_3_NAME,T1 Protector Focus Level 3 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_FOCUS_4_NAME,T1 Protector Focus Level 4 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_FOCUS_5_NAME,T1 Protector Focus Level 5 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_RESIST_1_NAME,T1 Protector Resist Level 1 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_RESIST_2_NAME,T1 Protector Resist Level 2 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_RESIST_3_NAME,T1 Protector Resist Level 3 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_RESIST_4_NAME,T1 Protector Resist Level 4 Iso-8
+ID_ISOITEM_GREEN_PROTECTOR_RESIST_5_NAME,T1 Protector Resist Level 5 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_DAMAGE_1_NAME,T1 Support Damage Level 1 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_DAMAGE_2_NAME,T1 Support Damage Level 2 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_DAMAGE_3_NAME,T1 Support Damage Level 3 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_DAMAGE_4_NAME,T1 Support Damage Level 4 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_DAMAGE_5_NAME,T1 Support Damage Level 5 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_HEALTH_1_NAME,T1 Support Health Level 1 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_HEALTH_2_NAME,T1 Support Health Level 2 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_HEALTH_3_NAME,T1 Support Health Level 3 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_HEALTH_4_NAME,T1 Support Health Level 4 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_HEALTH_5_NAME,T1 Support Health Level 5 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_ARMOR_1_NAME,T1 Support Armor Level 1 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_ARMOR_2_NAME,T1 Support Armor Level 2 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_ARMOR_3_NAME,T1 Support Armor Level 3 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_ARMOR_4_NAME,T1 Support Armor Level 4 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_ARMOR_5_NAME,T1 Support Armor Level 5 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_FOCUS_1_NAME,T1 Support Focus Level 1 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_FOCUS_2_NAME,T1 Support Focus Level 2 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_FOCUS_3_NAME,T1 Support Focus Level 3 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_FOCUS_4_NAME,T1 Support Focus Level 4 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_FOCUS_5_NAME,T1 Support Focus Level 5 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_RESIST_1_NAME,T1 Support Resist Level 1 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_RESIST_2_NAME,T1 Support Resist Level 2 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_RESIST_3_NAME,T1 Support Resist Level 3 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_RESIST_4_NAME,T1 Support Resist Level 4 Iso-8
+ID_ISOITEM_GREEN_SUPPORT_RESIST_5_NAME,T1 Support Resist Level 5 Iso-8
+ID_ISOITEM_GREEN_BLASTER_DAMAGE_1_DESCRIPTION,This is a T1 Blaster Damage Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_DAMAGE_2_DESCRIPTION,This is a T1 Blaster Damage Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_DAMAGE_3_DESCRIPTION,This is a T1 Blaster Damage Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_DAMAGE_4_DESCRIPTION,This is a T1 Blaster Damage Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_DAMAGE_5_DESCRIPTION,This is a T1 Blaster Damage Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_BLASTER_HEALTH_1_DESCRIPTION,This is a T1 Blaster Health Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_HEALTH_2_DESCRIPTION,This is a T1 Blaster Health Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_HEALTH_3_DESCRIPTION,This is a T1 Blaster Health Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_HEALTH_4_DESCRIPTION,This is a T1 Blaster Health Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_HEALTH_5_DESCRIPTION,This is a T1 Blaster Health Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_BLASTER_ARMOR_1_DESCRIPTION,This is a T1 Blaster Armor Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_ARMOR_2_DESCRIPTION,This is a T1 Blaster Armor Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_ARMOR_3_DESCRIPTION,This is a T1 Blaster Armor Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_ARMOR_4_DESCRIPTION,This is a T1 Blaster Armor Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_ARMOR_5_DESCRIPTION,This is a T1 Blaster Armor Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_BLASTER_FOCUS_1_DESCRIPTION,This is a T1 Blaster Focus Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_FOCUS_2_DESCRIPTION,This is a T1 Blaster Focus Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_FOCUS_3_DESCRIPTION,This is a T1 Blaster Focus Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_FOCUS_4_DESCRIPTION,This is a T1 Blaster Focus Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_FOCUS_5_DESCRIPTION,This is a T1 Blaster Focus Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_BLASTER_RESIST_1_DESCRIPTION,This is a T1 Blaster Resist Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_RESIST_2_DESCRIPTION,This is a T1 Blaster Resist Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_RESIST_3_DESCRIPTION,This is a T1 Blaster Resist Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_RESIST_4_DESCRIPTION,This is a T1 Blaster Resist Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BLASTER_RESIST_5_DESCRIPTION,This is a T1 Blaster Resist Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_BRAWLER_DAMAGE_1_DESCRIPTION,This is a T1 Brawler Damage Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_DAMAGE_2_DESCRIPTION,This is a T1 Brawler Damage Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_DAMAGE_3_DESCRIPTION,This is a T1 Brawler Damage Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_DAMAGE_4_DESCRIPTION,This is a T1 Brawler Damage Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_DAMAGE_5_DESCRIPTION,This is a T1 Brawler Damage Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_BRAWLER_HEALTH_1_DESCRIPTION,This is a T1 Brawler Health Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_HEALTH_2_DESCRIPTION,This is a T1 Brawler Health Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_HEALTH_3_DESCRIPTION,This is a T1 Brawler Health Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_HEALTH_4_DESCRIPTION,This is a T1 Brawler Health Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_HEALTH_5_DESCRIPTION,This is a T1 Brawler Health Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_BRAWLER_ARMOR_1_DESCRIPTION,This is a T1 Brawler Armor Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_ARMOR_2_DESCRIPTION,This is a T1 Brawler Armor Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_ARMOR_3_DESCRIPTION,This is a T1 Brawler Armor Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_ARMOR_4_DESCRIPTION,This is a T1 Brawler Armor Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_ARMOR_5_DESCRIPTION,This is a T1 Brawler Armor Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_BRAWLER_FOCUS_1_DESCRIPTION,This is a T1 Brawler Focus Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_FOCUS_2_DESCRIPTION,This is a T1 Brawler Focus Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_FOCUS_3_DESCRIPTION,This is a T1 Brawler Focus Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_FOCUS_4_DESCRIPTION,This is a T1 Brawler Focus Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_FOCUS_5_DESCRIPTION,This is a T1 Brawler Focus Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_BRAWLER_RESIST_1_DESCRIPTION,This is a T1 Brawler Resist Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_RESIST_2_DESCRIPTION,This is a T1 Brawler Resist Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_RESIST_3_DESCRIPTION,This is a T1 Brawler Resist Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_RESIST_4_DESCRIPTION,This is a T1 Brawler Resist Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_BRAWLER_RESIST_5_DESCRIPTION,This is a T1 Brawler Resist Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_CONTROLLER_DAMAGE_1_DESCRIPTION,This is a T1 Controller Damage Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_DAMAGE_2_DESCRIPTION,This is a T1 Controller Damage Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_DAMAGE_3_DESCRIPTION,This is a T1 Controller Damage Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_DAMAGE_4_DESCRIPTION,This is a T1 Controller Damage Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_DAMAGE_5_DESCRIPTION,This is a T1 Controller Damage Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_CONTROLLER_HEALTH_1_DESCRIPTION,This is a T1 Controller Health Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_HEALTH_2_DESCRIPTION,This is a T1 Controller Health Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_HEALTH_3_DESCRIPTION,This is a T1 Controller Health Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_HEALTH_4_DESCRIPTION,This is a T1 Controller Health Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_HEALTH_5_DESCRIPTION,This is a T1 Controller Health Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_CONTROLLER_ARMOR_1_DESCRIPTION,This is a T1 Controller Armor Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_ARMOR_2_DESCRIPTION,This is a T1 Controller Armor Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_ARMOR_3_DESCRIPTION,This is a T1 Controller Armor Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_ARMOR_4_DESCRIPTION,This is a T1 Controller Armor Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_ARMOR_5_DESCRIPTION,This is a T1 Controller Armor Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_CONTROLLER_FOCUS_1_DESCRIPTION,This is a T1 Controller Focus Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_FOCUS_2_DESCRIPTION,This is a T1 Controller Focus Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_FOCUS_3_DESCRIPTION,This is a T1 Controller Focus Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_FOCUS_4_DESCRIPTION,This is a T1 Controller Focus Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_FOCUS_5_DESCRIPTION,This is a T1 Controller Focus Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_CONTROLLER_RESIST_1_DESCRIPTION,This is a T1 Controller Resist Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_RESIST_2_DESCRIPTION,This is a T1 Controller Resist Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_RESIST_3_DESCRIPTION,This is a T1 Controller Resist Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_RESIST_4_DESCRIPTION,This is a T1 Controller Resist Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_CONTROLLER_RESIST_5_DESCRIPTION,This is a T1 Controller Resist Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_PROTECTOR_DAMAGE_1_DESCRIPTION,This is a T1 Protector Damage Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_DAMAGE_2_DESCRIPTION,This is a T1 Protector Damage Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_DAMAGE_3_DESCRIPTION,This is a T1 Protector Damage Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_DAMAGE_4_DESCRIPTION,This is a T1 Protector Damage Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_DAMAGE_5_DESCRIPTION,This is a T1 Protector Damage Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_PROTECTOR_HEALTH_1_DESCRIPTION,This is a T1 Protector Health Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_HEALTH_2_DESCRIPTION,This is a T1 Protector Health Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_HEALTH_3_DESCRIPTION,This is a T1 Protector Health Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_HEALTH_4_DESCRIPTION,This is a T1 Protector Health Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_HEALTH_5_DESCRIPTION,This is a T1 Protector Health Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_PROTECTOR_ARMOR_1_DESCRIPTION,This is a T1 Protector Armor Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_ARMOR_2_DESCRIPTION,This is a T1 Protector Armor Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_ARMOR_3_DESCRIPTION,This is a T1 Protector Armor Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_ARMOR_4_DESCRIPTION,This is a T1 Protector Armor Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_ARMOR_5_DESCRIPTION,This is a T1 Protector Armor Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_PROTECTOR_FOCUS_1_DESCRIPTION,This is a T1 Protector Focus Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_FOCUS_2_DESCRIPTION,This is a T1 Protector Focus Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_FOCUS_3_DESCRIPTION,This is a T1 Protector Focus Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_FOCUS_4_DESCRIPTION,This is a T1 Protector Focus Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_FOCUS_5_DESCRIPTION,This is a T1 Protector Focus Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_PROTECTOR_RESIST_1_DESCRIPTION,This is a T1 Protector Resist Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_RESIST_2_DESCRIPTION,This is a T1 Protector Resist Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_RESIST_3_DESCRIPTION,This is a T1 Protector Resist Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_RESIST_4_DESCRIPTION,This is a T1 Protector Resist Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_PROTECTOR_RESIST_5_DESCRIPTION,This is a T1 Protector Resist Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_SUPPORT_DAMAGE_1_DESCRIPTION,This is a T1 Support Damage Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_DAMAGE_2_DESCRIPTION,This is a T1 Support Damage Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_DAMAGE_3_DESCRIPTION,This is a T1 Support Damage Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_DAMAGE_4_DESCRIPTION,This is a T1 Support Damage Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_DAMAGE_5_DESCRIPTION,This is a T1 Support Damage Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_SUPPORT_HEALTH_1_DESCRIPTION,This is a T1 Support Health Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_HEALTH_2_DESCRIPTION,This is a T1 Support Health Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_HEALTH_3_DESCRIPTION,This is a T1 Support Health Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_HEALTH_4_DESCRIPTION,This is a T1 Support Health Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_HEALTH_5_DESCRIPTION,This is a T1 Support Health Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_SUPPORT_ARMOR_1_DESCRIPTION,This is a T1 Support Armor Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_ARMOR_2_DESCRIPTION,This is a T1 Support Armor Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_ARMOR_3_DESCRIPTION,This is a T1 Support Armor Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_ARMOR_4_DESCRIPTION,This is a T1 Support Armor Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_ARMOR_5_DESCRIPTION,This is a T1 Support Armor Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_SUPPORT_FOCUS_1_DESCRIPTION,This is a T1 Support Focus Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_FOCUS_2_DESCRIPTION,This is a T1 Support Focus Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_FOCUS_3_DESCRIPTION,This is a T1 Support Focus Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_FOCUS_4_DESCRIPTION,This is a T1 Support Focus Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_FOCUS_5_DESCRIPTION,This is a T1 Support Focus Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_GREEN_SUPPORT_RESIST_1_DESCRIPTION,This is a T1 Support Resist Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_RESIST_2_DESCRIPTION,This is a T1 Support Resist Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_RESIST_3_DESCRIPTION,This is a T1 Support Resist Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_RESIST_4_DESCRIPTION,This is a T1 Support Resist Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T1 Iso-8 Crystals.
+ID_ISOITEM_GREEN_SUPPORT_RESIST_5_DESCRIPTION,This is a T1 Support Resist Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_BLASTER_DAMAGE_6_NAME,T2 Blaster Damage Level 1 Iso-8
+ID_ISOITEM_BLUE_BLASTER_DAMAGE_7_NAME,T2 Blaster Damage Level 2 Iso-8
+ID_ISOITEM_BLUE_BLASTER_DAMAGE_8_NAME,T2 Blaster Damage Level 3 Iso-8
+ID_ISOITEM_BLUE_BLASTER_DAMAGE_9_NAME,T2 Blaster Damage Level 4 Iso-8
+ID_ISOITEM_BLUE_BLASTER_DAMAGE_10_NAME,T2 Blaster Damage Level 5 Iso-8
+ID_ISOITEM_BLUE_BLASTER_HEALTH_6_NAME,T2 Blaster Health Level 1 Iso-8
+ID_ISOITEM_BLUE_BLASTER_HEALTH_7_NAME,T2 Blaster Health Level 2 Iso-8
+ID_ISOITEM_BLUE_BLASTER_HEALTH_8_NAME,T2 Blaster Health Level 3 Iso-8
+ID_ISOITEM_BLUE_BLASTER_HEALTH_9_NAME,T2 Blaster Health Level 4 Iso-8
+ID_ISOITEM_BLUE_BLASTER_HEALTH_10_NAME,T2 Blaster Health Level 5 Iso-8
+ID_ISOITEM_BLUE_BLASTER_ARMOR_6_NAME,T2 Blaster Armor Level 1 Iso-8
+ID_ISOITEM_BLUE_BLASTER_ARMOR_7_NAME,T2 Blaster Armor Level 2 Iso-8
+ID_ISOITEM_BLUE_BLASTER_ARMOR_8_NAME,T2 Blaster Armor Level 3 Iso-8
+ID_ISOITEM_BLUE_BLASTER_ARMOR_9_NAME,T2 Blaster Armor Level 4 Iso-8
+ID_ISOITEM_BLUE_BLASTER_ARMOR_10_NAME,T2 Blaster Armor Level 5 Iso-8
+ID_ISOITEM_BLUE_BLASTER_FOCUS_6_NAME,T2 Blaster Focus Level 1 Iso-8
+ID_ISOITEM_BLUE_BLASTER_FOCUS_7_NAME,T2 Blaster Focus Level 2 Iso-8
+ID_ISOITEM_BLUE_BLASTER_FOCUS_8_NAME,T2 Blaster Focus Level 3 Iso-8
+ID_ISOITEM_BLUE_BLASTER_FOCUS_9_NAME,T2 Blaster Focus Level 4 Iso-8
+ID_ISOITEM_BLUE_BLASTER_FOCUS_10_NAME,T2 Blaster Focus Level 5 Iso-8
+ID_ISOITEM_BLUE_BLASTER_RESIST_6_NAME,T2 Blaster Resist Level 1 Iso-8
+ID_ISOITEM_BLUE_BLASTER_RESIST_7_NAME,T2 Blaster Resist Level 2 Iso-8
+ID_ISOITEM_BLUE_BLASTER_RESIST_8_NAME,T2 Blaster Resist Level 3 Iso-8
+ID_ISOITEM_BLUE_BLASTER_RESIST_9_NAME,T2 Blaster Resist Level 4 Iso-8
+ID_ISOITEM_BLUE_BLASTER_RESIST_10_NAME,T2 Blaster Resist Level 5 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_DAMAGE_6_NAME,T2 Brawler Damage Level 1 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_DAMAGE_7_NAME,T2 Brawler Damage Level 2 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_DAMAGE_8_NAME,T2 Brawler Damage Level 3 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_DAMAGE_9_NAME,T2 Brawler Damage Level 4 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_DAMAGE_10_NAME,T2 Brawler Damage Level 5 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_HEALTH_6_NAME,T2 Brawler Health Level 1 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_HEALTH_7_NAME,T2 Brawler Health Level 2 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_HEALTH_8_NAME,T2 Brawler Health Level 3 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_HEALTH_9_NAME,T2 Brawler Health Level 4 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_HEALTH_10_NAME,T2 Brawler Health Level 5 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_ARMOR_6_NAME,T2 Brawler Armor Level 1 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_ARMOR_7_NAME,T2 Brawler Armor Level 2 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_ARMOR_8_NAME,T2 Brawler Armor Level 3 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_ARMOR_9_NAME,T2 Brawler Armor Level 4 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_ARMOR_10_NAME,T2 Brawler Armor Level 5 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_FOCUS_6_NAME,T2 Brawler Focus Level 1 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_FOCUS_7_NAME,T2 Brawler Focus Level 2 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_FOCUS_8_NAME,T2 Brawler Focus Level 3 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_FOCUS_9_NAME,T2 Brawler Focus Level 4 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_FOCUS_10_NAME,T2 Brawler Focus Level 5 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_RESIST_6_NAME,T2 Brawler Resist Level 1 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_RESIST_7_NAME,T2 Brawler Resist Level 2 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_RESIST_8_NAME,T2 Brawler Resist Level 3 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_RESIST_9_NAME,T2 Brawler Resist Level 4 Iso-8
+ID_ISOITEM_BLUE_BRAWLER_RESIST_10_NAME,T2 Brawler Resist Level 5 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_DAMAGE_6_NAME,T2 Controller Damage Level 1 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_DAMAGE_7_NAME,T2 Controller Damage Level 2 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_DAMAGE_8_NAME,T2 Controller Damage Level 3 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_DAMAGE_9_NAME,T2 Controller Damage Level 4 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_DAMAGE_10_NAME,T2 Controller Damage Level 5 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_HEALTH_6_NAME,T2 Controller Health Level 1 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_HEALTH_7_NAME,T2 Controller Health Level 2 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_HEALTH_8_NAME,T2 Controller Health Level 3 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_HEALTH_9_NAME,T2 Controller Health Level 4 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_HEALTH_10_NAME,T2 Controller Health Level 5 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_ARMOR_6_NAME,T2 Controller Armor Level 1 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_ARMOR_7_NAME,T2 Controller Armor Level 2 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_ARMOR_8_NAME,T2 Controller Armor Level 3 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_ARMOR_9_NAME,T2 Controller Armor Level 4 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_ARMOR_10_NAME,T2 Controller Armor Level 5 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_FOCUS_6_NAME,T2 Controller Focus Level 1 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_FOCUS_7_NAME,T2 Controller Focus Level 2 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_FOCUS_8_NAME,T2 Controller Focus Level 3 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_FOCUS_9_NAME,T2 Controller Focus Level 4 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_FOCUS_10_NAME,T2 Controller Focus Level 5 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_RESIST_6_NAME,T2 Controller Resist Level 1 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_RESIST_7_NAME,T2 Controller Resist Level 2 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_RESIST_8_NAME,T2 Controller Resist Level 3 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_RESIST_9_NAME,T2 Controller Resist Level 4 Iso-8
+ID_ISOITEM_BLUE_CONTROLLER_RESIST_10_NAME,T2 Controller Resist Level 5 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_DAMAGE_6_NAME,T2 Protector Damage Level 1 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_DAMAGE_7_NAME,T2 Protector Damage Level 2 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_DAMAGE_8_NAME,T2 Protector Damage Level 3 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_DAMAGE_9_NAME,T2 Protector Damage Level 4 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_DAMAGE_10_NAME,T2 Protector Damage Level 5 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_HEALTH_6_NAME,T2 Protector Health Level 1 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_HEALTH_7_NAME,T2 Protector Health Level 2 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_HEALTH_8_NAME,T2 Protector Health Level 3 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_HEALTH_9_NAME,T2 Protector Health Level 4 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_HEALTH_10_NAME,T2 Protector Health Level 5 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_ARMOR_6_NAME,T2 Protector Armor Level 1 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_ARMOR_7_NAME,T2 Protector Armor Level 2 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_ARMOR_8_NAME,T2 Protector Armor Level 3 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_ARMOR_9_NAME,T2 Protector Armor Level 4 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_ARMOR_10_NAME,T2 Protector Armor Level 5 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_FOCUS_6_NAME,T2 Protector Focus Level 1 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_FOCUS_7_NAME,T2 Protector Focus Level 2 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_FOCUS_8_NAME,T2 Protector Focus Level 3 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_FOCUS_9_NAME,T2 Protector Focus Level 4 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_FOCUS_10_NAME,T2 Protector Focus Level 5 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_RESIST_6_NAME,T2 Protector Resist Level 1 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_RESIST_7_NAME,T2 Protector Resist Level 2 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_RESIST_8_NAME,T2 Protector Resist Level 3 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_RESIST_9_NAME,T2 Protector Resist Level 4 Iso-8
+ID_ISOITEM_BLUE_PROTECTOR_RESIST_10_NAME,T2 Protector Resist Level 5 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_DAMAGE_6_NAME,T2 Support Damage Level 1 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_DAMAGE_7_NAME,T2 Support Damage Level 2 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_DAMAGE_8_NAME,T2 Support Damage Level 3 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_DAMAGE_9_NAME,T2 Support Damage Level 4 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_DAMAGE_10_NAME,T2 Support Damage Level 5 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_HEALTH_6_NAME,T2 Support Health Level 1 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_HEALTH_7_NAME,T2 Support Health Level 2 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_HEALTH_8_NAME,T2 Support Health Level 3 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_HEALTH_9_NAME,T2 Support Health Level 4 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_HEALTH_10_NAME,T2 Support Health Level 5 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_ARMOR_6_NAME,T2 Support Armor Level 1 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_ARMOR_7_NAME,T2 Support Armor Level 2 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_ARMOR_8_NAME,T2 Support Armor Level 3 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_ARMOR_9_NAME,T2 Support Armor Level 4 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_ARMOR_10_NAME,T2 Support Armor Level 5 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_FOCUS_6_NAME,T2 Support Focus Level 1 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_FOCUS_7_NAME,T2 Support Focus Level 2 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_FOCUS_8_NAME,T2 Support Focus Level 3 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_FOCUS_9_NAME,T2 Support Focus Level 4 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_FOCUS_10_NAME,T2 Support Focus Level 5 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_RESIST_6_NAME,T2 Support Resist Level 1 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_RESIST_7_NAME,T2 Support Resist Level 2 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_RESIST_8_NAME,T2 Support Resist Level 3 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_RESIST_9_NAME,T2 Support Resist Level 4 Iso-8
+ID_ISOITEM_BLUE_SUPPORT_RESIST_10_NAME,T2 Support Resist Level 5 Iso-8
+ID_ISOITEM_BLUE_BLASTER_DAMAGE_6_DESCRIPTION,This is a T2 Blaster Damage Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_DAMAGE_7_DESCRIPTION,This is a T2 Blaster Damage Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_DAMAGE_8_DESCRIPTION,This is a T2 Blaster Damage Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_DAMAGE_9_DESCRIPTION,This is a T2 Blaster Damage Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_DAMAGE_10_DESCRIPTION,This is a T2 Blaster Damage Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_BLASTER_HEALTH_6_DESCRIPTION,This is a T2 Blaster Health Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_HEALTH_7_DESCRIPTION,This is a T2 Blaster Health Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_HEALTH_8_DESCRIPTION,This is a T2 Blaster Health Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_HEALTH_9_DESCRIPTION,This is a T2 Blaster Health Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_HEALTH_10_DESCRIPTION,This is a T2 Blaster Health Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_BLASTER_ARMOR_6_DESCRIPTION,This is a T2 Blaster Armor Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_ARMOR_7_DESCRIPTION,This is a T2 Blaster Armor Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_ARMOR_8_DESCRIPTION,This is a T2 Blaster Armor Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_ARMOR_9_DESCRIPTION,This is a T2 Blaster Armor Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_ARMOR_10_DESCRIPTION,This is a T2 Blaster Armor Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_BLASTER_FOCUS_6_DESCRIPTION,This is a T2 Blaster Focus Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_FOCUS_7_DESCRIPTION,This is a T2 Blaster Focus Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_FOCUS_8_DESCRIPTION,This is a T2 Blaster Focus Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_FOCUS_9_DESCRIPTION,This is a T2 Blaster Focus Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_FOCUS_10_DESCRIPTION,This is a T2 Blaster Focus Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_BLASTER_RESIST_6_DESCRIPTION,This is a T2 Blaster Resist Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_RESIST_7_DESCRIPTION,This is a T2 Blaster Resist Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_RESIST_8_DESCRIPTION,This is a T2 Blaster Resist Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_RESIST_9_DESCRIPTION,This is a T2 Blaster Resist Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BLASTER_RESIST_10_DESCRIPTION,This is a T2 Blaster Resist Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_BRAWLER_DAMAGE_6_DESCRIPTION,This is a T2 Brawler Damage Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_DAMAGE_7_DESCRIPTION,This is a T2 Brawler Damage Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_DAMAGE_8_DESCRIPTION,This is a T2 Brawler Damage Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_DAMAGE_9_DESCRIPTION,This is a T2 Brawler Damage Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_DAMAGE_10_DESCRIPTION,This is a T2 Brawler Damage Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_BRAWLER_HEALTH_6_DESCRIPTION,This is a T2 Brawler Health Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_HEALTH_7_DESCRIPTION,This is a T2 Brawler Health Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_HEALTH_8_DESCRIPTION,This is a T2 Brawler Health Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_HEALTH_9_DESCRIPTION,This is a T2 Brawler Health Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_HEALTH_10_DESCRIPTION,This is a T2 Brawler Health Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_BRAWLER_ARMOR_6_DESCRIPTION,This is a T2 Brawler Armor Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_ARMOR_7_DESCRIPTION,This is a T2 Brawler Armor Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_ARMOR_8_DESCRIPTION,This is a T2 Brawler Armor Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_ARMOR_9_DESCRIPTION,This is a T2 Brawler Armor Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_ARMOR_10_DESCRIPTION,This is a T2 Brawler Armor Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_BRAWLER_FOCUS_6_DESCRIPTION,This is a T2 Brawler Focus Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_FOCUS_7_DESCRIPTION,This is a T2 Brawler Focus Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_FOCUS_8_DESCRIPTION,This is a T2 Brawler Focus Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_FOCUS_9_DESCRIPTION,This is a T2 Brawler Focus Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_FOCUS_10_DESCRIPTION,This is a T2 Brawler Focus Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_BRAWLER_RESIST_6_DESCRIPTION,This is a T2 Brawler Resist Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_RESIST_7_DESCRIPTION,This is a T2 Brawler Resist Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_RESIST_8_DESCRIPTION,This is a T2 Brawler Resist Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_RESIST_9_DESCRIPTION,This is a T2 Brawler Resist Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_BRAWLER_RESIST_10_DESCRIPTION,This is a T2 Brawler Resist Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_CONTROLLER_DAMAGE_6_DESCRIPTION,This is a T2 Controller Damage Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_DAMAGE_7_DESCRIPTION,This is a T2 Controller Damage Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_DAMAGE_8_DESCRIPTION,This is a T2 Controller Damage Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_DAMAGE_9_DESCRIPTION,This is a T2 Controller Damage Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_DAMAGE_10_DESCRIPTION,This is a T2 Controller Damage Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_CONTROLLER_HEALTH_6_DESCRIPTION,This is a T2 Controller Health Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_HEALTH_7_DESCRIPTION,This is a T2 Controller Health Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_HEALTH_8_DESCRIPTION,This is a T2 Controller Health Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_HEALTH_9_DESCRIPTION,This is a T2 Controller Health Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_HEALTH_10_DESCRIPTION,This is a T2 Controller Health Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_CONTROLLER_ARMOR_6_DESCRIPTION,This is a T2 Controller Armor Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_ARMOR_7_DESCRIPTION,This is a T2 Controller Armor Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_ARMOR_8_DESCRIPTION,This is a T2 Controller Armor Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_ARMOR_9_DESCRIPTION,This is a T2 Controller Armor Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_ARMOR_10_DESCRIPTION,This is a T2 Controller Armor Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_CONTROLLER_FOCUS_6_DESCRIPTION,This is a T2 Controller Focus Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_FOCUS_7_DESCRIPTION,This is a T2 Controller Focus Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_FOCUS_8_DESCRIPTION,This is a T2 Controller Focus Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_FOCUS_9_DESCRIPTION,This is a T2 Controller Focus Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_FOCUS_10_DESCRIPTION,This is a T2 Controller Focus Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_CONTROLLER_RESIST_6_DESCRIPTION,This is a T2 Controller Resist Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_RESIST_7_DESCRIPTION,This is a T2 Controller Resist Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_RESIST_8_DESCRIPTION,This is a T2 Controller Resist Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_RESIST_9_DESCRIPTION,This is a T2 Controller Resist Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_CONTROLLER_RESIST_10_DESCRIPTION,This is a T2 Controller Resist Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_PROTECTOR_DAMAGE_6_DESCRIPTION,This is a T2 Protector Damage Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_DAMAGE_7_DESCRIPTION,This is a T2 Protector Damage Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_DAMAGE_8_DESCRIPTION,This is a T2 Protector Damage Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_DAMAGE_9_DESCRIPTION,This is a T2 Protector Damage Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_DAMAGE_10_DESCRIPTION,This is a T2 Protector Damage Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_PROTECTOR_HEALTH_6_DESCRIPTION,This is a T2 Protector Health Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_HEALTH_7_DESCRIPTION,This is a T2 Protector Health Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_HEALTH_8_DESCRIPTION,This is a T2 Protector Health Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_HEALTH_9_DESCRIPTION,This is a T2 Protector Health Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_HEALTH_10_DESCRIPTION,This is a T2 Protector Health Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_PROTECTOR_ARMOR_6_DESCRIPTION,This is a T2 Protector Armor Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_ARMOR_7_DESCRIPTION,This is a T2 Protector Armor Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_ARMOR_8_DESCRIPTION,This is a T2 Protector Armor Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_ARMOR_9_DESCRIPTION,This is a T2 Protector Armor Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_ARMOR_10_DESCRIPTION,This is a T2 Protector Armor Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_PROTECTOR_FOCUS_6_DESCRIPTION,This is a T2 Protector Focus Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_FOCUS_7_DESCRIPTION,This is a T2 Protector Focus Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_FOCUS_8_DESCRIPTION,This is a T2 Protector Focus Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_FOCUS_9_DESCRIPTION,This is a T2 Protector Focus Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_FOCUS_10_DESCRIPTION,This is a T2 Protector Focus Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_PROTECTOR_RESIST_6_DESCRIPTION,This is a T2 Protector Resist Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_RESIST_7_DESCRIPTION,This is a T2 Protector Resist Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_RESIST_8_DESCRIPTION,This is a T2 Protector Resist Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_RESIST_9_DESCRIPTION,This is a T2 Protector Resist Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_PROTECTOR_RESIST_10_DESCRIPTION,This is a T2 Protector Resist Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_SUPPORT_DAMAGE_6_DESCRIPTION,This is a T2 Support Damage Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_DAMAGE_7_DESCRIPTION,This is a T2 Support Damage Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_DAMAGE_8_DESCRIPTION,This is a T2 Support Damage Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_DAMAGE_9_DESCRIPTION,This is a T2 Support Damage Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_DAMAGE_10_DESCRIPTION,This is a T2 Support Damage Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_SUPPORT_HEALTH_6_DESCRIPTION,This is a T2 Support Health Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_HEALTH_7_DESCRIPTION,This is a T2 Support Health Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_HEALTH_8_DESCRIPTION,This is a T2 Support Health Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_HEALTH_9_DESCRIPTION,This is a T2 Support Health Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_HEALTH_10_DESCRIPTION,This is a T2 Support Health Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_SUPPORT_ARMOR_6_DESCRIPTION,This is a T2 Support Armor Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_ARMOR_7_DESCRIPTION,This is a T2 Support Armor Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_ARMOR_8_DESCRIPTION,This is a T2 Support Armor Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_ARMOR_9_DESCRIPTION,This is a T2 Support Armor Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_ARMOR_10_DESCRIPTION,This is a T2 Support Armor Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_SUPPORT_FOCUS_6_DESCRIPTION,This is a T2 Support Focus Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_FOCUS_7_DESCRIPTION,This is a T2 Support Focus Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_FOCUS_8_DESCRIPTION,This is a T2 Support Focus Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_FOCUS_9_DESCRIPTION,This is a T2 Support Focus Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_FOCUS_10_DESCRIPTION,This is a T2 Support Focus Level 5 Iso-8 used to equip to the Matrix.
+ID_ISOITEM_BLUE_SUPPORT_RESIST_6_DESCRIPTION,This is a T2 Support Resist Level 1 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_RESIST_7_DESCRIPTION,This is a T2 Support Resist Level 2 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_RESIST_8_DESCRIPTION,This is a T2 Support Resist Level 3 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_RESIST_9_DESCRIPTION,This is a T2 Support Resist Level 4 Iso-8 used to equip to the Matrix or to fuse to higher level T2 Iso-8 Crystals.
+ID_ISOITEM_BLUE_SUPPORT_RESIST_10_DESCRIPTION,This is a T2 Support Resist Level 5 Iso-8 used to equip to the Matrix.
+ID_ISO8_MISSION_1_01_NAME,Field Test
+ID_ISO8_MISSION_1_02_NAME,Battery Powered
+ID_ISO8_MISSION_1_03_NAME,Finders Keepers
+ID_ISO8_MISSION_1_04_NAME,Relentless Robotics
+ID_ISO8_MISSION_1_05_NAME,House Hunting
+ID_ISO8_MISSION_1_06_NAME,Blown Away
+ID_ISO8_MISSION_1_07_NAME,Loonies and Toonies
+ID_ISO8_MISSION_1_08_NAME,Hydra Removal
+ID_ISO8_MISSION_1_09_NAME,Fumigation
+ID_ISO8_MISSION_1_10_NAME,Housewarming
+ID_ISO8_MISSION_1_01_DESC,Scientist Supreme has discovered a new element to power up S.T.R.I.K.E. and is putting it to the test!
+ID_ISO8_MISSION_1_02_DESC,"After showing Nick Fury her device for creating Iso-8, Scientist Supreme goes in search of the raw materials to make more!"
+ID_ISO8_MISSION_1_03_DESC,Ultron's drones have beaten S.T.R.I.K.E. and Scientist Supreme to a cache of Iso-8!
+ID_ISO8_MISSION_1_04_DESC,"Returning to S.T.R.I.K.E. headquarters with the Iso-8 and new technology, Scientist Supreme is pursued by Ultron himself!"
+ID_ISO8_MISSION_1_05_DESC,Scientist Supreme sends Graviton to secure an old A.I.M. facility overrun with corrupted S.H.I.E.L.D. agents.
+ID_ISO8_MISSION_1_06_DESC,The enemy is willing to bring the facility down around A.I.M. rather than lose it to Graviton!
+ID_ISO8_MISSION_1_07_DESC,"The previous facility practically destroyed, Graviton and A.I.M. seek to reclaim a secure warehouse in Canada from mercenaries."
+ID_ISO8_MISSION_1_08_DESC,"With the Canadian warehouse gone, Scientist Supreme sends Graviton to take over a Hydra lab!"
+ID_ISO8_MISSION_1_09_DESC,"Looking to avoid the damage done in a firefight, Scientist Supreme hopes to drive Hydra out with an experimental toxin."
+ID_ISO8_MISSION_1_10_DESC,"Secure in their new Iso-8 storage facility, A.I.M. and Scientist Supreme must face off against Yondu!"
+ID_ISO8_MISSION_2_01_NAME,Double Trouble
+ID_ISO8_MISSION_2_02_NAME,Take Two and Call Me Never
+ID_ISO8_MISSION_2_03_NAME,Towers of Terror
+ID_ISO8_MISSION_2_04_NAME,Mutated Merger
+ID_ISO8_MISSION_2_05_NAME,Asteroids of Argor
+ID_ISO8_MISSION_2_06_NAME,Trade Secrets
+ID_ISO8_MISSION_2_07_NAME,Double Cross
+ID_ISO8_MISSION_2_08_NAME,Helicarrier Under Attack
+ID_ISO8_MISSION_2_09_NAME,Back for More
+ID_ISO8_MISSION_2_01_DESC,"If Ultimus has access to Iso-8, he must have a corrupted Scientist Supreme out there inventing it! Time to find her and shut her down."
+ID_ISO8_MISSION_2_02_DESC,"The corrupted Scientist Supreme has decided to fight fire with fire. Or, in this case, fight poison with poison."
+ID_ISO8_MISSION_2_03_DESC,Corrupted Scientist Supreme has fled and left S.T.R.I.K.E. to deal with her massive A.I.M. abominations!
+ID_ISO8_MISSION_2_04_DESC,Norman Osborn helps Scientist Supreme stage a hostile takeover of corrupted A.I.M.!
+ID_ISO8_MISSION_2_05_DESC,"With the location of the corrupted A.I.M.'s Iso-8 storage facility, Scientist Supreme and Norman Osborn stage a raid."
+ID_ISO8_MISSION_2_06_DESC,A powered-up Killmonger has been sent to put an end to Scientist Supreme and the Green Goblin's plan!
+ID_ISO8_MISSION_2_07_DESC,The Green Goblin reveals his motivations for helping build A.I.M. up - he wants it for himself!
+ID_ISO8_MISSION_2_08_DESC,"Returning to the Helicarrier, once again, with Iso-8 and new tech, Scientist Supreme encounters a corrupted Brotherhood!"
+ID_ISO8_MISSION_2_09_DESC,Corrupted Scientist Supreme returns to reclaim the things she rightfully stole!
+ID_GAMEMODE_CAMPAIGN_ISO8_NAME,ISOTOPE-8
+ID_GAMEMODE_CAMPAIGN_ISO8_DESC,Assemble a team of characters to find Iso-8 Crystals.
+ID_CAMPAIGN_TYPE_ISO8,"ISOTOPE-8  "
+ID_ISO8_COMBAT_TOOLTIP_HEADER,{class} <color=yellow>T{tier}</color> LEVEL <color=yellow>{level}</color>

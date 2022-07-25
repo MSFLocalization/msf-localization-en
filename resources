@@ -1,0 +1,184 @@
+id,translation
+ID_RES_CAMPAIGN_PLAYER_ENERGY,Campaign Energy
+ID_RES_CAMPAIGN_PLAYER_ENERGY_ISO8,Iso-8 Campaign Energy
+ID_ISO8-TIER-0-CURRENCY_NAME,T1 Ions
+ID_ISO8-TIER-1-A-CURRENCY_NAME,T2 Level 1 Ions
+ID_ISO8-TIER-1-A-CURRENCY_DESCRIPTION,Use T2 Level 1 Ions to fuse T2 Iso-8 Crystals up to Level 3 or to upgrade Classes up to Level 3.
+ID_ISO8-TIER-1-B-CURRENCY_NAME,T2 Level 4 Ions
+ID_ISO8-TIER-1-B-CURRENCY_DESCRIPTION,Use T2 Level 4 Ions to fuse T2 Iso-8 Crystals from Level 3 to Level 4 or to upgrade Classes from Level 3 to Level 4.
+ID_ISO8-TIER-1-C-CURRENCY_NAME,T2 Level 5 Ions
+ID_ISO8-TIER-1-C-CURRENCY_DESCRIPTION,Use T2 Level 5 Ions to fuse T2 Iso-8 Crystals from Level 4 to Level 5 or to upgrade Classes from Level 4 to Level 5.
+ID_RES_AVA_ATTACK_ENERGY,War Energy
+ID_RES_AVE_ATTACK_ENERGY,Raid Energy
+ID_RES_AVE_ATTACK_ENERGY_EVENT01,Alpha Raid Energy
+ID_RES_AVE_ATTACK_ENERGY_EVENT02,Beta Raid Energy
+ID_RES_AVE_ATTACK_ENERGY_EVENT03,Gamma Raid Energy
+ID_RES_AVE_ATTACK_ENERGY_EVENT04,Gambit Raid Energy
+ID_RES_AVE_ATTACK_ENERGY_EVENT05,Champions' Raid Energy
+ID_RES_GT_ATTACK_ENERGY,Grand Tournament Energy
+ID_RES_SYNC_PVP_ENERGY,Challenge Token
+ID_AVE_ATTACK_ENERGY_EVENT01_NAME,Alpha Raid Energy
+ID_AVE_ATTACK_ENERGY_EVENT02_NAME,Beta Raid Energy
+ID_AVE_ATTACK_ENERGY_EVENT03_NAME,Gamma Raid Energy
+ID_AVE_ATTACK_ENERGY_EVENT04_NAME,Gambit Raid Energy
+ID_AVE_ATTACK_ENERGY_EVENT05_NAME,Champions' Raid Energy
+ID_AVE_ATTACK_ENERGY_EVENT01_DESCRIPTION,Used to launch Alpha Raid missions.
+ID_AVE_ATTACK_ENERGY_EVENT02_DESCRIPTION,Used to launch Beta Raid missions.
+ID_AVE_ATTACK_ENERGY_EVENT03_DESCRIPTION,Used to launch Gamma Raid missions.
+ID_AVE_ATTACK_ENERGY_EVENT04_DESCRIPTION,Used to launch Gambit Raid missions.
+ID_AVE_ATTACK_ENERGY_EVENT05_DESCRIPTION,Used to launch Ultimus VII Raid missions.
+ID_AVE_KEY_ALPHA_NAME,Alpha Raid Key
+ID_AVE_KEY_ALPHA_DESC,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_BETA_NAME,Beta Raid Key
+ID_AVE_KEY_BETA_DESC,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_GAMMA_NAME,Gamma Raid Key
+ID_AVE_KEY_GAMMA_DESC,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_DELTA_NAME,Delta Raid Key
+ID_AVE_KEY_DELTA_DESC,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_EVENT01_NAME,Thanos Key
+ID_AVE_KEY_EVENT01_DESCRIPTION,Collect Thanos Keys to launch Thanos Raids and earn Infinity Orb Fragments. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_EVENT02_NAME,Event 02 Key
+ID_AVE_KEY_EVENT02_DESCRIPTION,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_EVENT03_NAME,Champions' Raid Key
+ID_AVE_KEY_EVENT03_DESCRIPTION,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_EVENT04_NAME,Gambit Raid Key
+ID_AVE_KEY_EVENT04_DESC,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_RES_CAMPAIGN_ENERGY_EVENT01,A Hero's Haunting Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT02,Hammer of the Gods Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT03,To X a Thief Energy
+ID_CAMPAIGN_ENERGY_EVENT01_NAME,To X a Thief Energy
+ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch To X a Thief missions.
+ID_CAMPAIGN_ENERGY_EVENT02_NAME,Darkness Comes Energy
+ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch Hammer of the Gods missions.
+ID_CAMPAIGN_ENERGY_EVENT03_NAME,Rock-N-Roll Energy
+ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Rock-N-Roll missions.
+ID_HC_NAME,Power Cores
+ID_HC_DESCRIPTION,"Use Power Cores to purchase Orbs, Energy Refills, Health Packs, Supplies, and Blitz Charges."
+ID_AVA-CUR_NAME,War Credits
+ID_AVA-CUR_DESCRIPTION,Use War Credits to purchase Orbs and Supplies in the War Store.
+ID_AVA-ELITE-CUR_NAME,Elite War Credits
+ID_AVA-ELITE-CUR_DESCRIPTION,Use Elite War Credits to purchase Orbs and Supplies in the War Store.
+ID_AVE-CUR_NAME,Raid Credits
+ID_AVE-CUR_DESCRIPTION,Use Raid Credits to purchase Orbs and Supplies in the Raid Store.
+ID_EVTA_SEASON_POINTS_NAME,Raid Season Points
+ID_EVTA_SEASON_POINTS_DESCRIPTION,Collect Raid Season Points to complete Raid Season Milestones.
+ID_EVTA_UNSPECIFIED_NAME,Milestone Points
+ID_EVTA_UNSPECIFIED_DESCRIPTION,Collect Milestone Points to progress in Milestone Events.
+ID_EVTA_WEB_SPEND_NAME,Web UPCs
+ID_EVTA_WEB_SPEND_DESCRIPTION,Web UPCs automatically give progress to the Bang for your Buck milestone. Check the Bang for your Buck milestone to view progress.
+ID_PVP-CUR_NAME,Blitz Credits
+ID_PVP-CUR_DESCRIPTION,Use Blitz Credits to purchase Orbs and Supplies in the Blitz Store.
+ID_BATTLEGROUND-CUR_NAME,Arena Credits
+ID_BATTLEGROUND-CUR_DESCRIPTION,Use Arena Credits to purchase Orbs and Supplies in the Arena Store.
+ID_SC_NAME,Gold
+ID_GS_NAME,Gacha Spin
+ID_ITEM_COUNT_LABEL,Amount in inventory: {amount}
+ID_SC_DESCRIPTION,"Gold is required to upgrade your character's level, abilities, and Star rank. Earn Gold in Campaign missions and Challenges."
+ID_XP_NAME,Commander XP
+ID_XP_DESCRIPTION,Commander XP is used to increase your Commander Level.
+ID_ENERGY-CAMPAIGN-CUR_NAME,Campaign Energy Refill
+ID_ENERGY-CAMPAIGN-CUR_DESCRIPTION,"Campaign Energy Refill is used to refresh your Campaign Energy. If you do not have enough Campaign Energy Refills, you can use Power Cores to recharge your Campaign Energy."
+ID_ENERGY-CAMPAIGN-ISO8-CUR_NAME,Iso-8 Campaign Energy Refill
+ID_ENERGY-CAMPAIGN-ISO8-CUR_DESCRIPTION,"Iso-8 Campaign Energy Refill is used to refresh your Iso-8 Campaign Energy. If you do not have enough Iso-8 Campaign Energy Refills, you can use Power Cores to recharge your Iso-8 Campaign Energy."
+ID_ENERGY-WAR-CUR_NAME,War Energy Refill
+ID_ENERGY-WAR-CUR_DESCRIPTION,"War Energy Refill is used to refresh your War Energy. If you do not have enough War Energy Refills, you can use Power Cores to recharge your War Energy."
+ID_ENERGY-RAID-CUR_NAME,Raid Energy Refill
+ID_ENERGY-RAID-CUR_DESCRIPTION,"Raid Energy Refill is used to refresh your Raid Energy. If you do not have enough Raid Energy Refills, you can use Power Cores to recharge your Raid Energy."
+ID_HEAL-ARENA-CUR_NAME,Blitz Charge
+ID_HEAL-ARENA-CUR_DESCRIPTION,Use Blitz Charges to recharge your characters to fight in Blitz.
+ID_HEAL-CAMPAIGN-CUR_DESCRIPTION,Blitz Charges are used to reset cooldown timers on your characters in Blitz.
+ID_CONSUMABLE-WAR-CUR_NAME,Defense Boost
+ID_CONSUMABLE-WAR-CUR_DESCRIPTION,Apply <color=#86e619>3</color> counts of <color=#fff568>Deflect</color> to a defending squad in War.
+ID_HEAL-WAR-CUR_NAME,War Health Pack
+ID_HEAL-WAR-CUR_DESCRIPTION,War Health Pack is used to heal and revive your characters in War.
+ID_HEAL-RAID-CUR_NAME,Raid Health Pack
+ID_HEAL-RAID-CUR_DESCRIPTION,Raid Health Pack is used to heal and revive your characters in Raids.
+ID_HEAL-INSANITY-CUR-01_NAME,Dark Health Pack
+ID_HEAL-INSANITY-CUR-01_DESCRIPTION,Dark Health Pack is used to heal and revive your characters in Dark Dimension.
+ID_CHALLENGE_ATTEMPT_INFO_TITLE,Attempts
+ID_CHALLENGE_ATTEMPT_INFO_DESC,Attempts are refilled at the start of an event or challenge. They are only consumed upon successfully completing a mission.
+ID_ABILITY_MATERIAL_GREEN_ABILITY_MAT_NAME,T1 Ability Material
+ID_ABILITY_MATERIAL_GREEN_ABILITY_MAT_DESCRIPTION,Used to upgrade character abilities.
+ID_ABILITY_MATERIAL_BLUE_ABILITY_MAT_NAME,T2 Ability Material
+ID_ABILITY_MATERIAL_BLUE_ABILITY_MAT_DESCRIPTION,Used to upgrade character abilities.
+ID_ABILITY_MATERIAL_PURPLE_ABILITY_MAT_NAME,T3 Ability Material
+ID_ABILITY_MATERIAL_PURPLE_ABILITY_MAT_DESCRIPTION,Used to upgrade character abilities.
+ID_ABILITY_MATERIAL_ORANGE_ABILITY_MAT_NAME,T4 Ability Material
+ID_ABILITY_MATERIAL_ORANGE_ABILITY_MAT_DESCRIPTION,Used to upgrade character abilities.
+ID_ABILITY_MATERIAL_RED_ABILITY_MAT_NAME,T5 Ability Material
+ID_ABILITY_MATERIAL_RED_ABILITY_MAT_DESCRIPTION,Used to upgrade character abilities.
+ID_ABILITY_MATERIAL_WHITE_ABILITY_MAT_NAME,T6 Ability Material
+ID_ABILITY_MATERIAL_WHITE_ABILITY_MAT_DESCRIPTION,Used to upgrade character abilities.
+ID_HELIMAT_ARMORY_NAME,Stark Tech Helicarrier Component
+ID_HELIMAT_ARMORY_DESCRIPTION,Used to upgrade the Stark Tech in the Helicarrier.
+ID_HELIMAT_BARRACKS_NAME,Barracks Helicarrier Component
+ID_HELIMAT_CARGO_NAME,Cargo Helicarrier Component
+ID_HELIMAT_FLIGHTDECK_NAME,Flight Deck Helicarrier Component
+ID_HELIMAT_HANGAR_NAME,Hangar Helicarrier Component
+ID_HELIMAT_MEDBAY_NAME,Med Bay Helicarrier Component
+ID_HELIMAT_REACTOR_NAME,Reactor Helicarrier Component
+ID_HELIMAT_SCILAB_NAME,Science Lab Helicarrier Component
+ID_HELIMAT_WEAPONSYS_NAME,Weapon System Helicarrier Component
+ID_HELIMAT_COMMON_NAME,Mk I Helicarrier Component
+ID_HELIMAT_UNCOMMON_NAME,Mk II Helicarrier Component
+ID_HELIMAT_RARE_NAME,Mk III Helicarrier Component
+ID_HELIMAT_VERYRARE_NAME,Mk IV Helicarrier Component
+ID_CAMPAIGN_PLAYER_ENERGY_NAME,Campaign Energy
+ID_CAMPAIGN_PLAYER_ENERGY_DESCRIPTION,Used to launch Campaign missions.
+ID_AVE_KEY_HYDRA_NAME,Hydra Key
+ID_AVE_KEY_HYDRA_DESCRIPTION,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_ULTIMUS_NAME,Ultimate Key
+ID_AVE_KEY_ULTIMUS_DESCRIPTION,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_THANOS_NAME,Thanos Key
+ID_AVE_KEY_THANOS_DESCRIPTION,Collect Thanos Keys to launch Thanos Raids and earn Infinity Orb Fragments. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_DEADPOOL_NAME,Chimichanga
+ID_AVE_KEY_DEADPOOL_DESCRIPTION,Collect Chimichangas to launch Deadpool Raids and earn Deadpool Orb Fragments. Each Campaign Energy you spend earns you one Chimichanga.
+ID_AVE_KEY_GENERIC_DESCRIPTION,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_OPERATION_ATTACK_ENERGY_NAME,Campaign Energy Refill
+ID_OPERATION_ATTACK_ENERGY_DESCRIPTION,Campaign Energy Refill is used to refresh your Campaign Energy.
+ID_SHARD-CONVERSION-CUR_NAME,ULTRA CREDITS
+ID_SHARD-CONVERSION-CUR_DESCRIPTION,"When you receive shards of a character who is at 7 stars, they convert to <color=#ffffff><i>ULTRA CREDITS</i></color>. Use <color=#ffffff><i>ULTRA CREDITS</i></color> Ultimus Orbs or Gear."
+ID_AVE_ATTACK_ENERGY,Raid Energy
+ID_AVE_ATTACK_ENERGY_NAME,Raid Energy
+ID_AVE_ATTACK_ENERGY_DESCRIPTION,Used to launch Raid missions.
+ID_AC_NAME,Alliance Credits
+ID_AC_DESCRIPTION,Use Alliance Credits in Stark Tech to purchase upgrades.
+ID_ALLIANCE_XP_NAME,Alliance XP
+ID_ALLIANCE_XP_DESCRIPTION,Alliance XP is used to increase the level of your Alliance. You can level up your Alliance by making Alliance Donations.
+ID_ELITE_4_CUR_NAME,Elite 4 Credit
+ID_ELITE_4_CUR_DESCRIPTION,Used to buy Elite 4 Star Orbs or Silver Promotion Credits. \n\nEarn Elite 4 Credits by collecting duplicate Red Stars.
+ID_ELITE_5_CUR_NAME,Elite 5 Credit
+ID_ELITE_5_CUR_DESCRIPTION,Used to buy Elite 5 Star Orbs or Silver Promotion Credits.\n\nEarn Elite 5 Credits by collecting duplicate Red Stars from an Elite 4 Star Orb or better.
+ID_ELITE_6_CUR_NAME,Elite 6 Credit
+ID_ELITE_6_CUR_DESCRIPTION,Used to buy Elite 6 Star Orbs or Silver Promotion Credits.\n\nEarn Elite 6 Credits by collecting duplicate Red Stars from an Elite 5 Star Orb or better.
+ID_ELITE_7_CUR_NAME,Elite 7 Credit
+ID_ELITE_7_CUR_DESCRIPTION,Used to buy Elite 7 Star Orbs or Gold Promotion Credits.\n\nEarn Elite 7 Credits by collecting duplicate Red Stars from an Elite 6 Star Orb or better.
+ID_EVENT_CUR1_NAME,Disco Balls
+ID_EVENT_CUR1_DESCRIPTION,Collect Disco Balls for points in the Rollin' Rebel Event. Earn them in various events throughout the month of June!
+ID_EVENT_CUR2_NAME,Gear Credits
+ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
+ID_EVENT_CUR3_NAME,Solar Sizzler Milestone Points
+ID_EVENT_CUR3_DESCRIPTION,These points earn you additional progress in the Solar Sizzler Milestone. Earn them in the Heat Storm and Blazing Sun Milestones!
+ID_EVENT_CUR4_NAME,Cloak of Valor
+ID_EVENT_CUR4_DESCRIPTION,Collect the Cloak of Valor for points in the Summer of Thunder Event. Earn them in the upcoming Solar Sizzler Event!
+ID_EVENT_CUR5_NAME,Helm of Victory
+ID_EVENT_CUR5_DESCRIPTION,Collect Helm of Victory for points in the Summer of Thunder Event. Earn them in the upcoming Victory Blueprint Milestone Event!
+ID_EVENT_CUR6_NAME,Kinetic Health Pack
+ID_EVENT_CUR6_DESCRIPTION,Kinetic Health Packs are used to heal and revive your characters in Gambit Raids.
+ID_EVENT_CUR7_NAME,Lines of Lightning Orb Fragments
+ID_EVENT_CUR7_DESCRIPTION,Collect Lines of Lightning Orb Fragments for points in the Space Viking Event. Earn them in the Interstellar Longship and Electric Aesir Milestones!
+ID_EVENT_CUR8_NAME,Mjolnir Fragments
+ID_EVENT_CUR8_DESCRIPTION,Collect Mjolnir Fragments for points in the Summer of Thunder Event. Earn them in various events throughout the month of July!
+ID_EVENT_CUR9_NAME,Gauntlet of Heroes
+ID_EVENT_CUR9_DESCRIPTION,Collect Gauntlet of Heroes for points in the Summer of Thunder Event. Earn them in the upcoming Milestone Event!
+ID_PROMOTION_CUR_NAME,Silver Promotion Credit
+ID_PROMOTION_CUR_DESCRIPTION,Used to promote specific characters (up to 5 Red Stars).\n\nBuy Red Star Promotions from the Supplies Store.
+ID_PROMOTION_CUR_ADV_NAME,Gold Promotion Credit
+ID_PROMOTION_CUR_ADV_DESCRIPTION,Used to promote specific characters (to 6 and 7 Red Stars).\n\nBuy Red Star Promotions from the Supplies Store.
+ID_PROMOTION_CUR_ULT_NAME,Dark Promotion Credit
+ID_PROMOTION_CUR_ULT_DESCRIPTION,Used to promote characters whose red stars may be unavailable in other ways.\n\nBuy Red Star Promotions from the Supplies Store.
+ID_BATTLEPASS_5_1_GENERAL_CUR_NAME,S.T.R.I.K.E. Tokens
+ID_BATTLEPASS_5_1_GENERAL_CUR_DESC,Earn S.T.R.I.K.E. Tokens by completing Daily Objectives. S.T.R.I.K.E. Tokens earn progress towards a S.T.R.I.K.E. Pass.
+ID_RESOURCE_CONVERSION_TITLE,CONVERT EXPIRED BITS
+ID_RESOURCE_CONVERSION_SUBTITLE,Expired Bits are converted into <color=#ffffff>COSTUME CREDITS</color>
+ID_RESOURCE_CONVERSION_SKIN_SUBTITLE,Expired Bits are converted into <color=#ffffff>COSTUME CREDITS</color>

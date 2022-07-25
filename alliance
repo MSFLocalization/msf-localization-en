@@ -1,0 +1,647 @@
+id,translation
+ID_USER_DEFAULT_ENTRY,Me
+ID_ALLIANCEUI_ACCESS,You have unlocked Alliances!
+ID_WAR_ACCESS,You have unlocked Alliance War!
+ID_ALLIANCE_DEFAULT_NAME,My Alliance
+ID_ALLIANCE_DEFAULT_ENTRY,This is the default alliance for {name}.
+ID_ALLIANCE_ALL,ALL
+ID_ALLIANCE_INVITE_ONLY,PRIVATE
+ID_ALLIANCE_PUBLIC,PUBLIC
+ID_ALLIANCE_PRIVATE,PRIVATE
+ID_ALLIANCE_SEARCHING,Loading...
+ID_ALLIANCE_NONE_FOUND,No alliances were found.
+ID_ALLIANCE_KICK,KICK
+ID_ALLIANCE_PROMOTE,PROMOTE
+ID_ALLIANCE_DEMOTE,DEMOTE
+ID_ALLIANCE_VISIT,VISIT
+ID_ALLIANCE_PROMOTE_TO_LEADER,MAKE LEADER
+ID_ALLIANCE_INVITE,INVITE
+ID_ALLIANCE_INVITE_TO_ALLIANCE,INVITE TO ALLIANCE
+ID_ALLIANCE_RAID,Raid
+ID_ALLIANCE_UPGRADE_HELLICARRIER,Upgrade Helicarrier
+ID_ALLIANCE_WAR_SCHEDULE,WAR SCHEDULE
+ID_ALLIANCE_CREATE,CREATE
+ID_ALLIANCE_SAVE,Save
+ID_ALLIANCE_SEARCH,Search
+ID_ALLIANCE_NAME,NAME
+ID_ALLIANCE_CHURN_TEXT,KICK/DEMOTE IF INACTIVE FOR
+ID_ALLIANCE_CHURN_TEXT_DEMOTE,DEMOTE IF INACTIVE FOR
+ID_ALLIANCE_CHURN_TEXT_KICK,KICK IF INACTIVE FOR
+ID_ALLIANCE_CHURN_DAYS,{number} DAYS
+ID_ALLIANCE_CHURN_INFO_DEMOTE,"If you are inactive for {number} days, you will be demoted."
+ID_ALLIANCE_CHURN_INFO_KICK,"If you are inactive for {number} days, you will be kicked."
+ID_ALLIANCE_LEAVE_STARTER_ALLIANCE,"Confirm that you would like to leave {current_alliance} and join {new_alliance}.\n\nIf you leave your starter Alliance now, you will need to recruit your own members. Do you want to continue?"
+ID_ALLIANCE_PRIVACY_TEXT,ALLIANCE TYPE
+ID_ALLIANCE_RAID_STARTER_TEXT,RANK NEEDED TO LAUNCH RAID
+ID_ALLIANCE_RAID_STARTER_MSG_OWNER,Only Alliance Leaders can launch a raid.
+ID_ALLIANCE_RAID_STARTER_MSG_ADMIN,Only Leaders and Captains can launch a raid.
+ID_ALLIANCE_SEARCH_PLACEHOLDER,Enter alliance search info...
+ID_ALLIANCE_RECOMMENDED_ALLIANCES,Recommended Alliances
+ID_ALLIANCE_ALREADY_INVITED,ALREADY INVITED
+ID_ALLIANCE_ACCEPT,ACCEPT
+ID_ALLIANCE_CLAIM,CLAIM!
+ID_ALLIANCE_DECLINE,DECLINE
+ID_ALLIANCE_CANCEL,CANCEL
+ID_ALLIANCE_CONFIRM,CONFIRM
+ID_ALLIANCE_INVITATION_TITLE,ALLIANCE INVITATION
+ID_ALLIANCE_INVITATION_MESSAGE,You have an invitation from {player} to join {alliance}.
+ID_ALLIANCE_VIEW_ALLIANCE,VIEW ALLIANCE
+ID_ALLIANCE_VIEW_USER,VIEW USER
+ID_ALLIANCE_INVALID_INVITE,This invitation is no longer valid.
+ID_ALLIANCE_NAME_PLACEHOLDER_TEXT,Enter name...
+ID_ALLIANCE_DESCRIPTION_TEXT,Description
+ID_ALLIANCE_DESCRIPTION_PLACEHOLDER_TEXT,Enter description...
+ID_ALLIANCE_REQUEST_JOIN,REQUEST TO JOIN
+ID_ALLIANCE_JOIN_REQUESTED,REQUEST PENDING
+ID_ALLIANCE_USER_REQUESTED_JOIN,{player} has requested to join your alliance.
+ID_ALLIANCE_APPROVE,APPROVE
+ID_ALLIANCE_WELCOME,Welcome to your new alliance! Join your new allies in the war to protect Earth.
+ID_ALLIANCE_CONFIRM_JOIN_TITLE,CHANGE YOUR ALLIANCE?
+ID_ALLIANCE_CONFIRM_JOIN_BODY,"Confirm that you would like to leave {current_alliance} and join {new_alliance}.\n\nYou will not be able to claim rewards earned by your former alliance, and your raid key contributions will be paused for 24 hours."
+ID_ALLIANCE_CONFIRM_REQUEST_JOIN_BODY,"Confirm that you would like to request to join {new_alliance}. If approved, you will leave your current alliance, {current_alliance}."
+ID_ALLIANCE_CONFIRM_INVITE_TITLE,INVITE PLAYER?
+ID_ALLIANCE_CONFIRM_INVITE_BODY,Confirm that you would like to invite {user} to join {alliance}.
+ID_ALLIANCE_CONFIRM_PROMOTE_TITLE,PROMOTE PLAYER?
+ID_ALLIANCE_CONFIRM_PROMOTE_BODY,Confirm that you would like to promote {user}.
+ID_ALLIANCE_CONFIRM_OWNER_SWAP_TITLE,ASSIGN NEW {rank}?
+ID_ALLIANCE_CONFIRM_OWNER_SWAP_BODY,Confirm that you would like to change ranks from {current_rank} to {new_rank} in {alliance} and assign {user} as the new {current_rank}.
+ID_ALLIANCE_CONFIRM_DEMOTE_TITLE,DEMOTE PLAYER?
+ID_ALLIANCE_CONFIRM_DEMOTE_BODY,Confirm that you would like to demote {user}.
+ID_ALLIANCE_CONFIRM_KICK_TITLE,KICK PLAYER?
+ID_ALLIANCE_CONFIRM_KICK_BODY,Confirm that you would like to kick {user} from {alliance}.
+ID_ALLIANCE_CONFIRM_LEAVE_TITLE,LEAVE ALLIANCE?
+ID_ALLIANCE_CONFIRM_LEAVE_BODY,"Confirm that you would like to leave {alliance}.\n\nIf you leave, you will no longer be able to claim any rewards earned through or with your former alliance."
+ID_ALLIANCE_CONFIRM_DECLINE_TITLE,DECLINE INVITE?
+ID_ALLIANCE_CONFIRM_DECLINE,Confirm that you would like to decline the invite from {user}.
+ID_ALLIANCE_CONFIRM_DECLINE_REQUEST_TITLE,DECLINE REQUEST?
+ID_ALLIANCE_CONFIRM_DECLINE_REQUEST,Confirm that you would like to decline {user}'s request to join your alliance.
+ID_ALLIANCE_CONFIRM_APPROVE_REQUEST_TITLE,APPROVE REQUEST?
+ID_ALLIANCE_CONFIRM_APPROVE_REQUEST,Confirm that you would like to approve {user}'s request to join your alliance.
+ID_ALLIANCE_CONFIRM_CREATE_NEW_TITLE,CHANGE YOUR ALLIANCE?
+ID_ALLIANCE_CONFIRM_CREATE_NEW_BODY,"Confirm that you would like to leave {current_alliance} and create {new_alliance}.\n\nIf you leave, you will no longer be able to claim any rewards earned through or with your former alliance."
+ID_ALLIANCE_CONFIRM_EDIT_TITLE,EDIT CONFIRMATION
+ID_ALLIANCE_CONFIRM_EDIT_BODY,You've edited your alliance. Would you like to keep these changes?
+ID_ALLIANCE_USER_IS_BANNED,BANNED
+ID_ALLIANCE_FULL,FULL
+ID_ALLIANCE_LOW_RANK,NEED PERMISSIONS
+ID_ALLIANCE_SUCCESS_DECLINE_REQUEST_TITLE,User Request Declined
+ID_ALLIANCE_SUCCESS_DECLINE_REQUEST,You have declined the request to join your alliance.
+ID_ALLIANCE_SUCCESS_APPROVE_REQUEST_TITLE,User Has Joined Your Alliance
+ID_ALLIANCE_SUCCESS_APPROVE_REQUEST,{user} is now in your alliance!
+ID_ALLIANCE_SUCCESS_INVITE_TITLE,User Has Been Invited
+ID_ALLIANCE_SUCCESS_INVITE,"{user} has been invited to your alliance, {alliance}."
+ID_ALLIANCE_SUCCESS_INVITE_DECLINE_TITLE,Invite Declined
+ID_ALLIANCE_SUCCESS_INVITE_DECLINE,You have declined this invite.
+ID_ALLIANCE_SUCCESS_PROMOTE_TITLE,User Has Been Promoted
+ID_ALLIANCE_SUCCESS_PROMOTE,{user} has been promoted to rank: {rank}.
+ID_ALLIANCE_SUCCESS_APPOINT_OWNER_TITLE,New Leader Has Been Promoted
+ID_ALLIANCE_SUCCESS_APPOINT_OWNER,"{source_user} has been demoted to {source_rank}, and {target_user} has been promoted to {target_rank}."
+ID_ALLIANCE_SUCCESS_DEMOTE_TITLE,User Has Been Demoted
+ID_ALLIANCE_SUCCESS_DEMOTE,{user} has been demoted to {rank}.
+ID_ALLIANCE_KICKED_TITLE,You Have Been Kicked
+ID_ALLIANCE_KICKED,You have been kicked from {old_alliance} and have been placed into {new_alliance}.
+ID_ALLIANCE_SUCCESS_KICK_TITLE,User Has Been Kicked
+ID_ALLIANCE_SUCCESS_KICK,{user} has been kicked.
+ID_ALLIANCE_SUCCESS_LEAVE_TITLE,You Have Left the Alliance
+ID_ALLIANCE_SUCCESS_LEAVE,"You have left your old alliance {old_alliance}, and have been placed into {new_alliance}."
+ID_ALLIANCE_ERROR_GENERIC,There was an error: {error}
+ID_ALLIANCE_WARNING_TITLE,WARNING
+ID_ALLIANCE_UNCLAIMED_MESSAGES_REMAIN,Messages with unclaimed gifts or invitations will remain in your Inbox.
+ID_ALLIANCE_ERROR_SAVING_TITLE,Cannot Save Alliance
+ID_ALLIANCE_ERROR_CREATE_TITLE,Cannot Create Alliance
+ID_ALLIANCE_ERROR_CREATE_NAME,The name {alliance_name} is already taken. Please choose another.
+ID_ALLIANCE_ERROR_INVITE_APPROVE_TITLE,Cannot Approve Request
+ID_ALLIANCE_ERROR_INVITE_APPROVE_INVALID,This request is no longer valid.
+ID_ALLIANCE_ERROR_INVITE_APPROVE_FULL,"Your alliance, {alliance}, has reached maximum capacity ({max} members)."
+ID_ALLIANCE_ERROR_REQUEST_TITLE,Cannot Request to Join Alliance
+ID_ALLIANCE_SUCCESS_REQUEST_TITLE,REQUEST SENT
+ID_ALLIANCE_SUCCESS_REQUEST,Your request has been sent.
+ID_ALLIANCE_ERROR_REQUEST_DECLINE_TITLE,Cannot Decline Request
+ID_ALLIANCE_ERROR_REQUEST_DECLINE_INVALID,This request is no longer valid.
+ID_ALLIANCE_ERROR_INVITE_DECLINE_TITLE,Cannot Decline Invite
+ID_ALLIANCE_ERROR_INVITE_DECLINE_INVALID,This invite is no longer valid.
+ID_ALLIANCE_ERROR_INVITE_VIEW_ALLIANCE_TITLE,Cannot View Alliance
+ID_ALLIANCE_ERROR_INVITE_VIEW_ALLIANCE_INVALID,This invite is no longer valid.
+ID_ALLIANCE_ERROR_INVITE_VIEW_USER_TITLE,Cannot View User
+ID_ALLIANCE_ERROR_INVITE_VIEW_USER_INVALID,This invite is no longer valid.
+ID_ALLIANCE_ERROR_INVITE_ACCEPT_TITLE,Cannot Accept Invitation
+ID_ALLIANCE_ERROR_INVITE_ACCEPT_INVALID,This invite is no longer valid.
+ID_ALLIANCE_ERROR_INVITE_ACCEPT_LEADER,"As {rank}, you cannot accept this invite until you have appointed a new {rank}."
+ID_ALLIANCE_ERROR_INVITE_TITLE,Cannot Send Invitation
+ID_ALLIANCE_ERROR_INVITE_ENTITLEMENT,Cannot send an invite to {user} because you lack proper permissions.
+ID_ALLIANCE_ERROR_INVITE_FULL,Cannot send an invite to {user} because your alliance is full.
+ID_ALLIANCE_ERROR_INVITE_KICKED,Cannot send an invite to {user} because they have been kicked from your alliance previously.
+ID_ALLIANCE_ERROR_INVITE_LANGUAGE,Cannot send an invite to {user} because their profile is in a different language than your alliance.
+ID_ALLIANCE_ERROR_INVITE_NOT_IN_ALLIANCE,Cannot send an invite because you are not in an alliance.
+ID_ALLIANCE_ERROR_PROMOTE_TITLE,Cannot Promote User
+ID_ALLIANCE_ERROR_PROMOTE_TOP_RANK,Cannot promote {user} because they are already the highest rank possible.
+ID_ALLIANCE_ERROR_PROMOTE_ENTITLEMENT,Cannot promote {user} because you lack proper permissions.
+ID_ALLIANCE_ERROR_DEMOTE_TITLE,Cannot Demote User
+ID_ALLIANCE_ERROR_DEMOTE_BOTTOM_RANK,Cannot demote {user} because they are already the lowest rank possible.
+ID_ALLIANCE_ERROR_DEMOTE_ENTITLEMENT,Cannot demote {user} because you lack proper permissions.
+ID_ALLIANCE_ERROR_KICK_TITLE,Cannot Kick User
+ID_ALLIANCE_ERROR_KICK_ENTITLEMENT,Cannot kick {user} because you lack proper permissions.
+ID_ALLIANCE_ERROR_LEAVE_TITLE,Cannot Leave Alliance
+ID_ALLIANCE_ERROR_LEAVE_APPOINT_OWNER,"As {rank}, you must appoint a new {rank} before leaving the alliance."
+ID_ALLIANCE_SCREEN_TITLE_SEARCH,Search Alliances
+ID_ALLIANCE_SCREEN_TITLE_CREATE,Create Alliance
+ID_ALLIANCE_SCREEN_TITLE_EDIT,Edit Alliance
+ID_ALLIANCE_SCREEN_TITLE_SELF,My Alliance
+ID_ALLIANCE_SCREEN_TITLE_JOIN,Join Alliance
+ID_ALLIANCE_HELICARRIER_TAP_PROMPT,TAP TO COLLECT
+ID_ALLIANCE_MEMBERS,ALLIANCE MEMBERS
+ID_ALLIANCE_MEMBERS_HEADER_DISPLAY,MEMBERS
+ID_ALLIANCE_WAR_COMING_SOON,Coming Soon
+ID_ALLIANCE_ACTIVE_RAIDS,ACTIVE RAIDS: {count}
+ID_ALLIANCE_DAILY_RAID_KEY_CONTRIBUTION,DAILY RAID KEY CONTRIBUTION
+ID_ALLIANCE_RAIDS_JOIN_NOW,Join Now!
+ID_ALLIANCE_VIEW_HELICARRIER,View Helicarrier
+ID_ALLIANCE_RETURN_TO_CARRIER,RETURN TO CARRIER
+ID_ALLIANCE_RAID_KEY_POPUP_TITLE,RAID KEYS
+ID_ALLIANCE_RAID_KEY_POPUP_DESC,"Raid Keys are used to launch raids. 1 Raid Key is generated for each Campaign Energy spent, with a max amount that can be generated per day."
+ID_ALLIANCE_LEVEL,Alliance Level: {level}
+ID_ALLIANCE_ROOM_MINIONS,Guard
+ID_ALLIANCE_ROOM_LEADERBOARD_SUFFIX,{room} Leaderboard
+ID_ALLIANCE_ROOM_LEVEL,Room Level {level}
+ID_ALLIANCE_ROOM_MAX_LEVEL_REACHED,MAX ROOM LEVEL REACHED
+ID_ALLIANCE_ROOM_CONSTUCT_XP,CONSTRUCT COMPONENTS TO EARN {num} PTS.
+ID_ALLIANCE_ROOM_CONSTRUCT_NEEDED,CONSTRUCT {qty} COMPONENT(S) TO REACH TO LEVEL {level}
+ID_ALLIANCE_ROOM_MEDBAY,Medbay
+ID_ALLIANCE_ROOM_MEDBAY_DESC,Increases Health Regeneration by 10%
+ID_ALLIANCE_ROOM_MEDBAY_EFFECTDESCRIPTION_1,<color=#00adef>[GLOBAL]</color>   <color=#86e619>+40%</color> Max Health to all <color=#fff568>DEFENDING ALLIES</color>
+ID_ALLIANCE_ROOM_ARMORY,Armory
+ID_ALLIANCE_ROOM_ARMORY_DESC,Increases all BIO character damage by 3%
+ID_ALLIANCE_ROOM_ARMORY_EFFECTDESCRIPTION_1,<color=#00adef>[GLOBAL]</color>   <color=#86e619>+20%</color> to Primary Stats to all <color=#fff568>ATTACKING ALLIES</color>.  Extra <color=#86e619>+10%</color> bonus to <color=#fff568>Military ALLIES</color>.
+ID_ALLIANCE_ROOM_WEAP,Security
+ID_ALLIANCE_ROOM_WEAP_DESC,Increases damage from DEFENDERS by 4%
+ID_ALLIANCE_ROOM_WEAP_EFFECTDESCRIPTION_1,<color=#00adef>[ADJACENT]</color>   Apply <color=#fff568>Defense Down</color> to <color=#fff568>ATTACKING ENEMIES</color>
+ID_ALLIANCE_ROOM_BRIDGE,Bridge
+ID_ALLIANCE_ROOM_BRIDGE_DESC,Worth 2x score value
+ID_ALLIANCE_ROOM_BRIDGE_EFFECTDESCRIPTION_1,<color=#00adef>[ROOM]</color>   Apply <color=#86e619>10</color> <color=#fff568>Positive Effects</color> randomly to <color=#fff568>DEFENDING ALLIES</color>
+ID_ALLIANCE_ROOM_HANGAR,Hangar
+ID_ALLIANCE_ROOM_HANGAR_DESC,Destruction disables enemy's attacks for 1 minute
+ID_ALLIANCE_ROOM_HANGAR_EFFECTDESCRIPTION_1,<color=#00adef>[GLOBAL]</color>   <color=#86e619>+10%</color> to Primary Stats to all <color=#fff568>ATTACKING War Ready ALLIES</color>\n<color=#00adef>[GLOBAL]</color>   Apply <color=#fff568>Deflect</color> to all <color=#fff568>ATTACKING ALLIES</color>
+ID_ALLIANCE_ROOM_REACTOR,Reactor
+ID_ALLIANCE_ROOM_REACTOR_DESC,Increases all COSMIC characters' damage by 5%
+ID_ALLIANCE_ROOM_REACTOR_EFFECTDESCRIPTION_1,<color=#00adef>[ROOM]</color>   Apply <color=#fff568>Disrupt</color> to <color=#fff568>ATTACKING ENEMIES</color>
+ID_ALLIANCE_ROOM_BARRACKS,Barracks
+ID_ALLIANCE_ROOM_BARRACKS_DESC,Increases DEFENDER's Health by 10%
+ID_ALLIANCE_ROOM_BARRACKS_EFFECTDESCRIPTION_1,<color=#00adef>[GLOBAL]</color>   <color=#86e619>+20%</color> to Primary Stats to all <color=#fff568>DEFENDING ALLIES</color>.  Extra <color=#86e619>+10%</color> bonus to <color=#fff568>Military ALLIES</color>.
+ID_ALLIANCE_ROOM_CARGO,Cargo Bay
+ID_ALLIANCE_ROOM_CARGO_DESC,Increases War loot by 5%
+ID_ALLIANCE_ROOM_CARGO_EFFECTDESCRIPTION_1,<color=#00adef>[GLOBAL]</color>   <color=#86e619>+20%</color> to Primary Stats to all <color=#fff568>DEFENDING War Ready ALLIES</color>
+ID_ALLIANCE_ROOM_DECK1,Flight Deck 1
+ID_ALLIANCE_ROOM_DECK1_DESC,Increases War energy regeneration by 10%
+ID_ALLIANCE_ROOM_DECK1_EFFECTDESCRIPTION_1,NONE
+ID_ALLIANCE_ROOM_DECK2,Flight Deck 2
+ID_ALLIANCE_ROOM_DECK2_DESC,Increases War energy regeneration by 8%
+ID_ALLIANCE_ROOM_DECK2_EFFECTDESCRIPTION_1,NONE
+ID_ALLIANCE_ROOM_DECK3,Flight Deck 3
+ID_ALLIANCE_ROOM_DECK3_DESC,Increases War energy regeneration by 15%
+ID_ALLIANCE_ROOM_DECK3_EFFECTDESCRIPTION_1,NONE
+ID_ALLIANCE_ROOM_SCILAB,Engineering
+ID_ALLIANCE_ROOM_SCILAB_DESC,Increases all TECH characters' damage by 5%
+ID_ALLIANCE_ROOM_SCILAB_EFFECTDESCRIPTION_1,<color=#00adef>[ADJACENT]</color>   Apply <color=#fff568>Defense Up</color> to <color=#fff568>DEFENDING ALLIES</color>
+ID_ALLIANCE_NOROOMEFFECT,No Room Effect
+ID_ALLIANCE_JOIN,JOIN
+ID_ALLIANCE_EDIT,EDIT
+ID_ALLIANCE_LEAVE,SWITCH ALLIANCE
+ID_ALLIANCE_FILTER_RAIDEVENTTICKETSDAILY,EVENT RAID KEYS (DAILY)
+ID_ALLIANCE_FILTER_RAIDEVENTTICKETSLIFETIME,EVENT RAID KEYS (LIFETIME)
+ID_ALLIANCE_FILTER_RAIDTICKETSDAILY,RAID KEYS (DAILY)
+ID_ALLIANCE_FILTER_RAIDTICKETSLIFETIME,RAID KEYS (LIFETIME)
+ID_ALLIANCE_FILTER_DONATIONSLIFETIME,DONATIONS (LIFETIME)
+ID_ALLIANCE_FILTER_COLLECTIONPOWER,COLLECTION POWER
+ID_ALLIANCE_FILTER_ARENAPOWER,BLITZ POWER
+ID_ALLIANCE_FILTER_LASTACTIVE,LAST ACTIVE
+ID_ALLIANCE_FILTER_STRONGESTTEAMPOWER,STRONGEST TEAM POWER
+ID_ALLIANCE_FILTER_WARMVP,WAR MVP
+ID_ALLIANCE_STAT_RESET_TIME_REMAINING,<color=#8488bd>{time} remaining</color>     {num}
+ID_AL_TI_WELCOME,ALLIANCE WELCOME
+ID_AL_DE_WELCOME,Welcome to the Alliance!
+ID_AL_BO_WELCOME,You are now a member of {alliance}. Congratulations!
+ID_AL_TI_END_RAID_REWARD,Raid Completion Reward
+ID_AL_TI_END_RAID_REWARD_CONSOLATION,Raid Timer Expired
+ID_AL_DE_END_RAID_REWARD,{raid} has concluded
+ID_AL_BO_END_RAID_REWARD,Your alliance reached Tier {tier} in the {raid}. Your contribution to the raid earned you the Rank {rankNum} reward.
+ID_AL_BO_END_RAID_REWARD_CONSOLATION,Your alliance didn't reach a reward tier in the {raid}. Here's a participation reward.
+ID_AL_TI_FTR_DIFF_RAID_REWARD,First Time Raid Difficulty Completion Reward
+ID_AL_DE_FTR_DIFF_RAID_REWARD,{raid} Difficulty {lvl} Completed
+ID_AL_BO_NEW_DIFF_RAID_REWARD,Congratulations on completing {raid} Difficulty {lvl}. You have been awarded first time rewards!
+ID_AL_TI_NEW_DIFF_RAID_UNLOCKED,New Raid Difficulty Unlocked
+ID_AL_DE_NEW_DIFF_RAID_UNLOCKED,Difficulty {lvl} for {raid} unlocked
+ID_AL_BO_NEW_DIFF_RAID_UNLOCKED,Your alliance has unlocked a new difficulty level for {raid}. Complete this difficulty at the completion threshold to earn rewards!
+ID_AVA_ALLIANCE_LEADERBOARDS,LEADERBOARDS
+ID_AVA_REWARDS,REWARDS
+ID_AVA_PREV_WAR,LAST RESULTS
+ID_AVA_WAR_REWARDS,TIER {tier} WAR REWARDS
+ID_AVA_MVP_REWARDS,TIER {tier} RANK {rank} MVP REWARDS
+ID_AVA_STORE,STORE
+ID_AVA_PTS,PTS
+ID_AVA_TO_WAR,TO WAR
+ID_AVA_TIER_NUMBER,TIER NUMBER
+ID_AVA_VICTORY_REWARDS,VICTORY REWARDS
+ID_AVA_MVP_REWARDS_LABEL,MVP REWARDS
+ID_AVA_WAR_TIER,TIER {tier}
+ID_AVA_PERCENTILE_SINGLE,{pct}% OF ALLIANCES
+ID_AVA_PERCENTILE_RANGE,{min}-{max}% OF ALLIANCES
+ID_AVA_TOP,IN A TOP 100 ALLIANCE
+ID_AVA_NOT_TOP,NOT IN A TOP 100 ALLIANCE
+ID_AVA_CURRENT_RANK,CURRENT RANK {rank}
+ID_AVA_REACH_RANK,REACH RANK {rank} FOR:
+ID_AVA_BRONZE_LEAGUE,BRONZE LEAGUE
+ID_AVA_SILVER_LEAGUE,SILVER LEAGUE
+ID_AVA_GOLD_LEAGUE,GOLD LEAGUE
+ID_AVA_DIAMOND_LEAGUE,PLATINUM LEAGUE
+ID_AVA_CHAMPION_LEAGUE,DIAMOND LEAGUE
+ID_AVA_BRONZE_LEAGUE_DIVISION,BRONZE {div}
+ID_AVA_SILVER_LEAGUE_DIVISION,SILVER {div}
+ID_AVA_GOLD_LEAGUE_DIVISION,GOLD {div}
+ID_AVA_DIAMOND_LEAGUE_DIVISION,PLATINUM {div}
+ID_AVA_CHAMPION_LEAGUE_DIVISION,DIAMOND {div}
+ID_AVA_BRONZE_LEAGUE_NODIV,BRONZE
+ID_AVA_SILVER_LEAGUE_NODIV,SILVER
+ID_AVA_GOLD_LEAGUE_NODIV,GOLD
+ID_AVA_DIAMOND_LEAGUE_NODIV,PLATINUM
+ID_AVA_CHAMPION_LEAGUE_NODIV,DIAMOND
+ID_AVA_LEAGUE_DIVISION_1,I
+ID_AVA_LEAGUE_DIVISION_2,II
+ID_AVA_LEAGUE_DIVISION_3,III
+ID_AVA_LEAGUE_DIVISION_4,IV
+ID_AVA_VS,VS
+ID_AVA_SQUADS_ASSEMBLE,ASSEMBLE YOUR DEFENSE TEAM
+ID_AVA_SQUADS_BELONG_TO,THESE SQUADS BELONG TO UID: {uid}
+ID_AVA_NEXT_WAR_IN,NEXT WAR IN
+ID_AVA_WAR_RESULTS,WAR RESULTS
+ID_AVA_WAR_BUTTON_ENDS_IN,WAR ENDS IN:
+ID_AVA_WAR_BUTTON_BEGINS_IN,NEXT WAR IN:
+ID_AVA_ALLIANCE_WAR_NOTIF_TITLE,ALLIANCE WAR
+ID_AVA_ALLIANCE_WAR_NOTIF_ATTACK_IN,ATTACK IN
+ID_AVA_ALLIANCE_WAR_ENDS_IN,WAR ENDS IN
+ID_AVA_ALLIANCE_RAIDS,RAIDS
+ID_AVA_ALLIANCE_LANDING_WAR,WAR
+ID_AVA_ALLIANCE_VIEW,ALLIANCE
+ID_AVA_ALLIANCE_UPGRADE_HELICARRIER,UPGRADE HELICARRIER
+ID_AVA_SHELL_BAR_TOP_AVA_WAR,ALLIANCE WAR
+ID_AVA_WAR_REWARDS_LABEL,Alliance War Rewards
+ID_AVA_HELICARRIER_REWARDS,Helicarrier Shipments
+ID_HELICARRIER_NEXT_REWARD_IN,Next Reward In:
+ID_AVA_ALLY_SELECTOR_SELECT_AN_ALLY,SELECT AN ALLY
+ID_AVA_ROOM_DETAIL_SLOT_EMPTY,EMPTY
+ID_AVA_ROOM_DETAIL_CLAIM_SLOT,CLAIM SLOT
+ID_AVA_ROOM_DETAIL_YOU_CAN_CLAIM_THIS,You can claim this
+ID_AVA_ROOM_DETAIL_EDIT,EDIT
+ID_AVA_ROOM_DETAIL_VIEW,VIEW
+ID_AVA_ROOM_DETAIL_REMOVE,REMOVE
+ID_AVA_ENEMY_DETAIL_SQUAD_ATTACK,ATTACK
+ID_AVA_ENEMY_DETAIL_SQUAD_REINFORCE,REINFORCE
+ID_AVA_ENEMY_DETAIL_SQUAD_REINFORCING,REINFORCING
+ID_AVA_ENEMY_DETAIL_SQUAD_HEAL,HEAL
+ID_AVA_ENEMY_DETAIL_SQUAD_HEAL_AND_REINFORCE,HEAL AND REINFORCE
+ID_AVA_SLOTDETAIL_HELP_TEXT,Select a character or empty space to add or swap characters
+ID_AVA_ATTACK_SCREEN_ATTACK,ATTACK
+ID_AVA_ATTACK_SCREEN_SIM_ATTACK,SIM ATTACK
+ID_AVA_ATTACK_SCREEN_POWER,POWER:
+ID_AVA_ALLIANCE_LEVELING_FIND,FIND
+ID_AVA_ALLIANCE_LEVELING_DEFENDERS,DEFENDERS:
+ID_AVA_ALLIANCE_LEVELING_SET_DEFENSE,SET DEFENSE
+ID_AVA_ALLIANCE_LEVELING_CONSTRUCT,CONSTRUCT
+ID_AVA_VICTORYDEFEAT_POINTS,{points} PTS.
+ID_ALLIANCE_ROOM_MOVE_CANCEL,CANCEL
+ID_ALLIANCE_ROOM_MOVE_MOVE,MOVE ROOMS
+ID_ALLIANCE_ROOM_MOVE_SELECT_ONE,Select a room to move
+ID_ALLIANCE_ROOM_MOVE_SELECT_ANOTHER,Select another room to swap
+ID_ALLIANCE_CHAT_NOTIF_JOIN,{nameUser} (Level {levelUser}) has joined your alliance ({nameAlliance}). Welcome!
+ID_ALLIANCE_CHAT_NOTIF_KICK,{nameUser} (Level {levelUser}) has been kicked from your alliance ({nameAlliance}). See ya!
+ID_ALLIANCE_CHAT_NOTIF_KICK_INACTIVE,{nameUser} (Level {levelUser}) has been kicked from your alliance ({nameAlliance}) for inactivity.
+ID_ALLIANCE_CHAT_NOTIF_LEAVE,{nameUser} (Level {levelUser}) has left your alliance ({nameAlliance}). Bye!
+ID_ALLIANCE_CHAT_NOTIF_PROMOTE,{nameUser} (Level {levelUser}) has been promoted from {rankPrior} to {rankNew}. Congrats!
+ID_ALLIANCE_CHAT_NOTIF_PROMOTE_INACTIVE,{nameUser} (Level {levelUser}) has been promoted from {rankPrior} to {rankNew} for their dedication.
+ID_ALLIANCE_CHAT_NOTIF_DEMOTE,{nameUser} (Level {levelUser}) has been demoted from {rankPrior} to {rankNew}. Hang in there.
+ID_ALLIANCE_CHAT_NOTIF_DEMOTE_INACTIVE,{nameUser} (Level {levelUser}) has been demoted from {rankPrior} to {rankNew} for inactivity.
+ID_ALLIANCE_CHAT_NOTIF_PROMOTE_IS_OWNER,"{nameUser} (Level {levelUser}) has been promoted to {rankNew}. Under their leadership, this should be easy!"
+ID_ALLIANCE_CHAT_NOTIF_PROMOTE_IS_OWNER_INACTIVE,{nameUser} (Level {levelUser}) has been promoted from {rankPrior} to {rankNew} for their dedication.
+ID_ALLIANCE_CHAT_NOTIF_DEMOTE_WAS_OWNER,{nameUser} (Level {levelUser}) has relinquished command of {nameAlliance}. Thank you for your courage!
+ID_ALLIANCE_CHAT_NOTIF_DEMOTE_WAS_OWNER_INACTIVE,{nameUser} (Level {levelUser}) has been demoted to {rankNew} for inactivity.
+ID_ALLIANCE_CHAT_RAID_START_NOTIF,{nameUser} launched the raid: {raidName}.
+ID_ALLIANCE_CHAT_RAID_JOIN_NOTIF,{nameUser} joined the raid: {raidName}.
+ID_ALLIANCE_CHAT_RAID_EXPIRED_NOTIF,"The raid, {raidName}, has expired."
+ID_ALLIANCE_CHAT_RAID_COMPLETED_NOTIF,"Congratulations! The raid, {raidName}, was completed!"
+ID_ALLIANCE_CHAT_RAID_REWARD_TIER_NOTIF,Tier {raidRewardTier} rewards have been unlocked in the raid: {raidName}.
+ID_ALLIANCE_CHAT_RAID_MISSION_COMPLETE_NOTIF,{nameUser} completed {missionName} in the raid: {raidName}.
+ID_ALLIANCE_CHAT_WAR_ENEMY_ROOM_DESTROYED,Your alliance has destroyed the opposing {roomDestroyed}!
+ID_ALLIANCE_CHAT_ACHIEVE_HERO_UNLOCK,{nameUser} has unlocked {charName}!
+ID_ALLIANCE_CHAT_ACHIEVE_REDSTAR_PROMOTE,{nameUser} has promoted {charName} to {RedStarPromote} Red Stars!
+ID_ALLIANCE_CHAT_ACHIEVE_REDSTAR_DROP,{nameUser} has pulled {RedStarLvl} Red Stars for {charName}!
+ID_ALLIANCE_CHAT_ACHIEVE_REDSTAR_DIRECT,{nameUser} has earned {RedStarLvl} Red Stars for {charName}!
+ID_ALLIANCE_CHAT_ACHIEVE_GEAR,{nameUser} has reached <color=#86E619>Gear Tier {maxGear}</color> for {charName}!
+ID_ALLIANCE_CHAT_ACHIEVE_INSANITY,{nameUser} has beaten {insanityEvent}
+ID_ALLIANCE_CHAT_ACHIEVE_BLITZ,{nameUser} has placed #{rankBlitz} in Blitz!
+ID_ALLIANCE_CHAT_ACHIEVE_GOLD,{nameUser} has pulled {goldAmt} million Gold from the Gold Orb!
+ID_ALLIANCE_CHAT_ACHIEVE_LOYALTY,{nameUser} has ranked up {charName} to 7 Stars!
+ID_ALLIANCE_CHAT_ACHIEVE_ABILITY,{nameUser} has upgraded {abilityName} ability for {charName} to ability level {abilityLvl}!
+ID_ALLIANCE_CHAT_ACHIEVE_ISO_SKILL,{nameUser} has upgraded {treeId} for {charName} to {tierPhrase}!
+ID_ALLIANCE_CHAT_ISO_TIER,Tier {tier} Level {isoLvl}
+ID_AL_MB_NA_KICK,ALLIANCE KICK
+ID_AL_MB_DE_KICK,You have been kicked
+ID_AL_MB_BO_KICK,You have been kicked from your alliance.
+ID_AL_MB_NA_INVITE,ALLIANCE INVITATION
+ID_AL_MB_DE_INVITE,You have an alliance invitation!
+ID_AL_MB_BO_INVITE,You have been invited to join {alliance} by {player}.
+ID_AL_MB_NA_ACCEPT,ALLIANCE JOINED
+ID_AL_MB_DE_ACCEPT,Welcome to the Alliance!
+ID_AL_MB_BO_ACCEPT,You are now a part of an alliance. Congratulations!
+ID_AL_MB_NA_REQUEST,ALLIANCE REQUEST
+ID_AL_MB_DE_REQUEST,A user wants to join your Alliance!
+ID_AL_MB_BO_REQUEST,{player} has requested to join your alliance.
+ID_ALLIANCE_DONATIONS_TITLE,ALLIANCE DONATION
+ID_ALLIANCE_DONATIONS_LEFT_LEVEL,LEVEL {alliance_level}
+ID_ALLIANCE_DONATIONS_LEFT_BTN_ARMORY,STARK TECH
+ID_ALLIANCE_DONATIONS_LEFT_BTN_LEADERBOARD,LEADERBOARD
+ID_ALLIANCE_DONATIONS_LEFT_RESET,RESET IN:
+ID_ALLIANCE_DONATIONS_LEFT_MESSAGE,Donate to increase Alliance level and gain access to Stark Tech upgrades. Daily Objectives do not contribute to donation milestones.
+ID_ALLIANCE_DONATIONS_CONFIRM_DONATION_TITLE,Alliance Donation
+ID_ALLIANCE_SC_DONATION_CONFIRM_MESSAGE,Confirm Donation of <color=#86E619>{qty}</color> GOLD.
+ID_ALLIANCE_HC_DONATION_CONFIRM_MESSAGE,Confirm Donation of <color=#86E619>{qty}</color> POWER CORES.
+ID_ALLIANCE_DONATIONS_REFRESH_POPUP_BUY_REFRESH_MESSAGE,RESET IN:
+ID_ALLIANCE_DONATIONS_REFRESH_POPUP_MAX_DONATIONS_MESSAGE,Daily limit reached
+ID_ALLIANCE_DONATIONS_REFRESH_POPUP_NOT_ELIGIBLE_MESSAGE,You are not currently eligible to donate
+ID_ALLIANCE_DONATIONS_REFRESH_POPUP_NO_ACTIVE_EVENT_MESSAGE,No event is currently active
+ID_ALLIANCE_DONATIONS_REFRESH_POPUP_BUTTON_CONFIRM,REFRESH
+ID_ALLIANCE_DONATIONS_MILESTONE_PROGRESS_HEADING,TODAY'S DONATION
+ID_ALLIANCE_DONATIONS_MILESTONE_PRIZE_HEADING,DONATION MILESTONE
+ID_ALLIANCE_DONATIONS_MILESTONE_PRIZE_SUBHEADING,You have received the following reward for your alliance donations
+ID_ALLIANCE_DONATIONS_MILESTONE_PRIZE_BTN_LABEL,CONTINUE
+ID_ALLIANCE_DONATIONS_MILESTONE_PRIZE_PREVIEW_HEADING,DONATION MILESTONE
+ID_ALLIANCE_DONATIONS_MILESTONE_PRIZE_PREVIEW_SUBHEADING,You will receive the following reward once this milestone has been reached
+ID_ALLIANCE_DONATIONS_MILESTONE_MARKER_XP,{xp} XP
+ID_ALLIANCE_DONATIONS_DONATION_LEVEL_TITLE_COMMON,BASIC
+ID_ALLIANCE_DONATIONS_DONATION_LEVEL_TITLE_PREMIUM,PREMIUM
+ID_ALLIANCE_DONATIONS_DONATION_LEVEL_TITLE_ELITE,ELITE
+ID_ALLIANCE_DONATIONS_DONATION_BTN_DONATE,DONATE
+ID_ALLIANCE_DONATIONS_DONATION_REWARD_ALLIANCE_XP,<i><color=#86E619>+{xp}</color></i>
+ID_ALLIANCE_DONATIONS_DONATION_REWARD_ALLIANCE_CURRENCY,<i><color=#86E619>x{ac}</color></i>
+ID_ALLIANCE_DONATIONS_PREV_DAY_POPUP_HEADER,PREVIOUS DAY REWARDS
+ID_ALLIANCE_DONATIONS_PREV_DAY_POPUP_DESCRIPTION,
+ID_ALLIANCE_DONATE_ACCESS,You can now donate to your ALLIANCE!
+ID_AVA_ALLIANCE_DONATION_BTN,ALLIANCE DONATION
+ID_ALLIANCE_DONATION_UNDERLEVEL_TITLE,Alliance Donations
+ID_ALLIANCE_DONATION_UNDERLEVEL_BODY,Must be Level <color=#86E619>50</color> to unlock
+ID_AVA_ARMORY_TITLE,STARK TECH
+ID_AVA_ARMORY_BOOST_STAT_TITLE,BONUS
+ID_AVA_ARMORY_PERCENTAGE_NUMBER_FORMAT,{number}%
+ID_AVA_ARMORY_MIN_HERO_LEVEL,For Characters Lvl {level}+
+ID_AVA_ARMORY_MIN_ALLIANCE_LEVEL_REQUIREMENT,Alliance Level {level} required
+ID_AVA_ARMORY_MAX_LEVEL_REACHED,Max Level Reached
+ID_AVA_ARMORY_INFO,Stark Tech upgrades the base stat for all characters of an origin. Characters must reach level requirements to receive bonuses.
+ID_ALLIANCE_DONATIONS_LEADERBOARD_TITLE,DONATION LEADERBOARDS
+ID_ALLIANCE_DONATIONS_LEADERBOARD_INFO,Donate to the Alliance to increase Alliance XP
+ID_ALLIANCE_TOTAL_DONATION_LABEL,ALLIANCE TOTAL
+ID_OPPONENT_SQUAD_TITLE,{opponent_name}'s Squad
+ID_AVA3D_KOPTS,K. O. PTS.:
+ID_AVA3D_UNDERATTACKBY,Under Attack By
+ID_AVA3D_PREPARINGATTACKBY,Preparing Attack By
+ID_AVA3D_WARATTACK,"ATTACK  "
+ID_AVA3D_HISTORY,HISTORY
+ID_AVA3D_HISTORY_VICTORY,VICTORY
+ID_AVA3D_HISTORY_DEFEAT,DEFEAT
+ID_AVA3D_HISTORY_COMBAT_CANCELLED,Combat Canceled
+ID_AVA3D_HISTORY_DESC," This room's activity"
+ID_AVA3D_HISTORY_TITLE,BATTLE HISTORY
+ID_AVA3D_HISTORY_EMPTY_DESC,There is currently no battle history for this room.
+ID_AVA3D_HISTORY_ADDITIONAL_POINTS_SYMBOL,+
+ID_AVA3D_HISTORY_MINUS_POINTS_SYMBOL,-
+ID_AVA3D_HISTORY_KILL_POINTVALUE,+1pt
+ID_AVA3D_HISTORY_SENT_HEALING,SENT HEALING
+ID_AVA3D_HISTORY_WAS_HEALED,WAS HEALED
+ID_AVA3D_BUFFS,BOOSTS
+ID_AVA3D_DESTROYEDBY,Destroyed By
+ID_AVA3D_ATTACK_COOLDOWN,Attack Cooldown
+ID_AVA3D_ROOMPTS,ROOM POINTS:
+ID_AVA3D_ROOMLVL,LEVEL:
+ID_AVA3D_ROOMATK,ATTACK:
+ID_AVA3D_ROOMBONUS,WAR BONUS
+ID_AVA3D_ROOMBONUS_DESCRIPTION,War Bonuses adjust the stats of attacking and defending characters in War.\nDestroy all defensive squads in a room to remove its bonus during the War.
+ID_AVA3D_ROOM_DISABLED,DISABLED
+ID_AVA3D_ADDITIONAL_BONUSES,ADDITIONAL BONUSES
+ID_AVA3D_CURR_ROOM_BONUS,{room} BONUS
+ID_AVA3D_WARHEADER,ALLIANCE WAR
+ID_AVA3D_WARCONSUMABLE,"BOOST "
+ID_AVA3D_OFFENSIVE_PT,OFFENSIVE PT
+ID_AVA3D_DEFENSIVE_PT,DEFENSIVE PT
+ID_AVA3D_ENDED_TITLE,THE WAR HAS ENDED
+ID_AVA3D_FINAL_RESULTS,FINAL RESULT
+ID_AVA3D_PLAYERS_TITLE,MVP PLAYERS
+ID_AVA3D_MVP,MVP
+ID_AVA3D_NO_MVP,NO MVP
+ID_AVA3D_WAR_LEAGUEPOINTS_DELTA,{points} {delta}
+ID_AVA3D_WAR_VICTORY,WAR VICTORY
+ID_AVA3D_WAR_DEFEAT,WAR DEFEAT
+ID_AVA3D_WAR_LEADERBOARD_DETAILS_HELP,Match Points are modified by your League Tier. The winning alliance receives Victory Bonus Points based on a percentage of the alliance's Total Collection Power.
+ID_AVA3D_WAR_LEADERBOARD_CURR_POINTS,CURRENT LEADERBOARD PTS.
+ID_AVA3D_WAR_LEADERBOARD_PREV_POINTS,PREVIOUS LEADERBOARD PTS.
+ID_AVA3D_WAR_LEADERBOARD_MATCH_POINTS,MATCH POINTS
+ID_AVA3D_WAR_LEADERBOARD_VICTORY_BONUS,VICTORY BONUS POINTS
+ID_AVA3D_DID_NOT_PARTICIPATE,Perform an attack or boost to earn War rewards.
+ID_AVA3D_LEADERBOARD_POINTS,LEADERBOARD POINTS
+ID_AVA3D_LEAGUE_PROMOTION,LEAGUE PROMOTION!
+ID_AVA3D_LEAGUE_CHANGE,LEAGUE CHANGE!
+ID_AVA3D_LEAGUE_TAB_RANKINGS,RANKINGS
+ID_AVA3D_LEAGUE_TAB_LEAGUEINFO,LEAGUES
+ID_AVA3D_LEAGUE_TAB_REWARDS,REWARDS
+ID_AVA3D_ACTIVELANDING_BATTLE,BATTLE
+ID_AVA3D_LANDING_STORE,STORE
+ID_AVA3D_LANDING_LEAGUE,LEAGUE INFO
+ID_AVA3D_INACTIVELANDING_POSSIBLE,POSSIBLE
+ID_AVA3D_INACTIVELANDING_REWARDS,REWARDS
+ID_AVA3D_INACTIVELANDING_STARTSIN,War In:
+ID_AVA3D_HELICARRIER_DETAIL_MANAGE_BUTTON,MANAGE
+ID_AVA3D_HELICARRIER_DETAIL_ADD,ADD
+ID_AVA3D_HELICARRIER_DETAIL_LEVEL,LEVEL {level}
+ID_AVA3D_HELICARRIER_DETAIL_POINTS,POINTS {points}
+ID_AVA3D_HELICARRIER_DETAIL_POINTS_HDR,POINTS:
+ID_AVA3D_HELICARRIER_DETAIL_DEFENSE_BUTTON,DEFENSE
+ID_AVA3D_LANDING_ARMORY,ARMORY
+ID_ALLIANCE_ARMORY_UNDERLEVEL_TITLE,ARMORY
+ID_ALLIANCE_ARMORY_UNDERLEVEL_BODY,Must be Level <color=#86E619>50</color> to unlock
+ID_AVA3D_ALLIANCELANDING_SETDEFENSE,SET DEFENSE
+ID_AVA3D_INACTIVELANDING_SETDEFENSE,SET DEFENSE
+ID_AVA3D_TOPBAR_ALLIANCEWAR,ALLIANCE WAR
+ID_AVA3D_DEFAULT_MINION,S.H.I.E.L.D. Officer
+ID_AVA3D_WAR_STARTED_HEADLINE,WAR HAS BEGUN!
+ID_AVA3D_WAR_STARTED_DESC,The war just started!
+ID_AVA3D_WAR_MATCHMAKING_STARTED_HEADLINE,MATCHMAKING HAS BEGUN!
+ID_AVA3D_WAR_MATCHMAKING_STARTED_DESC,Matchmaking has started!
+ID_AVA3D_WAR_IS_OVER_HEADLINE,WAR IS OVER!
+ID_AVA3D_WAR_IS_OVER_DESC,The war has ended.
+ID_AVA3D_SQUADSELECT_CANNOTPLAY,CANNOT PLAY MISSION
+ID_AVA3D_SQUADSELECT_CANNOTPLAY_BODY,This squad has been locked by another user. Please try another.
+ID_AVA3D_SQUADSELECT_BUFFCONSUMABLE,DEFENSE BOOST APPLIED
+ID_AVA3D_SQUADSELECT_BUFFCONSUMABLE_BODY,A Defense Boost has been applied to the defending squad.
+ID_AVA_TIMER_SET_SCHEDULE,Required: Set War Schedule
+ID_AVA_TIMER_MATCHING_IN,Matchmaking In:
+ID_AVA_TIMER_STARTS_IN,War In:
+ID_AVA_TIMER_IN_PROGRESS,In Progress:
+ID_AVA3D_MOVEROOMS_EXIT,EXIT
+ID_ALLIANCECREATE_MANAGEMENT_LABEL,ALLIANCE MANAGEMENT RANK
+ID_ALLIANCE_MANAGE_INFO_POPUP_TITLE,ALLIANCE MANAGEMENT
+ID_ALLIANCE_MANAGE_INFO_POPUP_DESC,"Alliance managers can launch raids, move Helicarrier rooms, and remove players from room defenses."
+ID_AVA3D_LEAVE_PLAYER_SLOT_HEAD,LEAVE SLOT?
+ID_AVA3D_LEAVE_PLAYER_SLOT_DESC,Are you sure?
+ID_AVA3D_LEAVE,LEAVE
+ID_AVA3D_CLAIM_SLOT_HEAD,CLAIM THIS SLOT?
+ID_AVA3D_CLAIM_SLOT_DESC,Are you sure?
+ID_AVA3D_PLAYERSLOT_SET_DEFENSE,UNASSIGNED
+ID_AVA3D_PLAYERSLOT_ADD,ADD
+ID_AVA3D_CLAIMSLOT,CLAIM SLOT
+ID_AVA3D_SET_ROOM_DEFENSE_DESC,SELECT ROOM TO SET DEFENSE
+ID_AVA3D_NO_SQUADS_FOR_SLOT,NO SQUADS AVAILABLE FOR THIS SLOT
+ID_AVA3D_WAR_BREACH_REMAINING,Clear {num} squad(s) to unlock adjacent rooms
+ID_AVA3D_WAR_BREACH_SLOT_REMAINING,Defeat all squads from 1 Player to unlock adjacent rooms
+ID_AVA3D_WAR_BREACH_CLEAR,Adjacent rooms unlocked
+ID_AVA_VICTORY_REWARDS_TITLE,VICTORY REWARDS
+ID_AVA_DEFEAT_REWARDS_TITLE,DEFEAT REWARDS
+ID_AVA_KNOCKOUT_REWARDS_TITLE,KNOCK OUT\nREWARDS
+ID_AVA_WAR_SCHEDULING_POPUP_HEAD,WAR TIMES
+ID_AVA_WAR_SCHEDULING_POPUP_DESC,Schedule a time for the war to begin.\nChanges will take effect after the upcoming war.
+ID_AVA_WAR_NO_START_TIME,No War Scheduled
+ID_AVA_WAR_TIME_HEAD,WAR TIME
+ID_AVA_WAR_SEASON,War Season
+ID_AVA_WAR_TIME_ZONE,ZONE {num}
+ID_AVA_WAR_TIME_RANGE,{start} - {end}
+ID_AVA_WAR_TIME_SELECTION,<color={color2}>{timeRange}</color>
+ID_AVA_WAR_TIME_SELECTION_SIMPLE,{timeRange}
+ID_AVA3D_LANDING_CONTRIBUTIONS,PARTICIPATION
+ID_AVA3D_DRAW,DRAW
+ID_AVA3D_INACTIVE_LANDING_POPUP_HEADER,RULES
+ID_AVA3D_INACTIVE_LANDING_POPUP_SUBHEADER,Welcome to Alliance War!
+ID_AVA3D_INACTIVE_LANDING_POPUP_SUBHEADER2,
+ID_AVA3D_INACTIVE_LANDING_POPUP_BODY,"<color=#db8721>GENERAL</color>\n\n<color=#86e619>1)</color> Alliances are automatically matched with another Alliance multiple times a week for a 24-hour War.\n\n<color=#86e619>2)</color> Use War Energy to battle defensive squads and score points. War Energy is regenerated during the duration of the War, and War Energy Refills can be used to refresh War Energy for additional attacks.\n<color=#fff568>NOTE:</color> At the start of War everyone begins with 4 War Energy, regardless of the amount one may have ended with from the previous War.\n<color=#fff568>TIP:</color> When attacking, you do not need a full team of 5 characters. Select anywhere from 1 to 5 characters per attack.\n\n<color=#86e619>3)</color> Earn points for each defending character defeated by the end of a battle (summoned characters do not count as a point). Room Points are earned for destroying all defensive squads in a room.\n<color=#fff568>TIP:</color> Some rooms are worth more points than others, so focus your attacks wisely.\n\n<color=#86e619>4)</color> The Alliance with the most points when time runs out wins the War. If the score is tied, the match will be a draw and both Alliances will receive the Defeat rewards. If both Alliances destroy each other's Helicarrier, whoever destroyed it first wins. Rewards are sent to your Inbox.\n\n<color=#86e619>5)</color> All players that participated in a War will receive either the Victory or Defeat rewards. Participation includes at least one attack or boost. You must be in an Alliance for a minimum of 5 days to receive a War's season rewards.\n\n<color=#86e619>6)</color> The points your Alliance earned in a War will be applied to the War Season Leaderboard. Winning Alliances will also get a Leaderboard Point Bonus, which is based on a percentage of the Alliance's Total Collection Power calculated at the end of the War.\n<color=#fff568>TIP:</color> Keep powering up your characters even if you don't use them to maximize your Leaderboard Point Bonus.\n\n<color=#86e619>7)</color> Powering up your roster during a War will impact your attacking characters, but not your defending characters (their improved Power will take effect in the next War).\n\n<color=#86e619>8)</color> If you leave an Alliance during a War, your defending characters will continue to defend the Helicarrier for the duration of that War.\n\n<color=#86e619>9)</color> When you join an Alliance, you will have a 24-hour cooldown until you can set defenses for the Helicarrier or participate in a War. You must be in the alliance before matchmaking begins in order to participate in the war.\n\n<color=#db8721>LEAGUES</color>\n\n<color=#86e619>1)</color> Leagues are a way for alliances to increase their rewards in War by climbing League Tiers.\n\n<color=#86e619>2)</color> Alliances earn and lose Trophies by winning and losing War matches. If the alliance earns or loses enough Trophies, the alliance will enter a new League Tier.\n\n<color=#86e619>3)</color> The amount of Trophies that can be won or lost in a War match is dependent on the league your alliance is in and the league your opponent is in.\n\n<color=#fff568>NOTE:</color> League Tiers are not factored in to matchmaking.\n\n<color=#db8721>SETTING UP DEFENSES</color>\n\n<color=#86e619>1)</color> You can set up your Helicarrier defenses in between Wars (also known as Peacetime).\n\n<color=#86e619>2)</color> Access your Alliance Helicarrier from the Alliance War screen.\n\n<color=#86e619>3)</color> Select an available room.\n\n<color=#86e619>4)</color> Claim a slot. (You can only defend a single room.)\n\n<color=#86e619>5)</color>Edit your defensive squads.\n <color=#86e619>a)</color> You can set a total of 10 squads on Defense.\n <color=#86e619>b)</color> Unfilled squad slots will use default S.H.I.E.L.D. Guards, which are level 40, gear tier 4, with ability levels 3/3/1.\n <color=#86e619>c)</color> Squads can be a mix of characters from your roster and default S.H.I.E.L.D. Guards.\n <color=#86e619>d)</color> Characters set on defense CANNOT be used to attack.\n <color=#86e619>e)</color> The order in which squads are placed is the order in which they will appear to attackers.\n<color=#fff568>TIP:</color> Managing your roster is key to being successful in Alliance War. Think ahead to which characters you'd like to use for defense and which ones to use to attack.\n\n<color=#86e619>6)</color> Once you have set up your defenses, you are ready for War.\n\n<color=#fff568>NOTE:</color> Rooms that are above, below, to the left, and to the right of a room are considered adjacent to that room. \n\n<color=#db8721>PARTICIPATING IN WAR</color>\n\n<color=#86e619>1)</color> Characters can only be used to attack once per War.\n<color=#fff568>TIP:</color> Stretch your roster further by bringing fewer than 5 characters into battle.\n\n<color=#86e619>2)</color> Each room has two slots that are defended by two players from the opposing Alliance. Select a room and choose a squad to attack. A total of four squads are visible at a time for the selected player (you can toggle which player's squads are shown), and they are displayed in the order in which they were placed.\n\n<color=#86e619>3)</color> Gain access to rooms below by defeating all the squads of one defending player. Defeat all the squads of both players to reveal rooms to the top, left, and right.\n\n<color=#86e619>4)</color> Boosts can be applied to your defensive squads while viewing your defenses.\n\n<color=#fff568>NOTE:</color>Primary Stats consist of Max Health, Damage, Armor, Resistance, and Focus.\n\n<color=#db8721>ISO-8 IN WAR</color>\n\n<color=#86e619>1)</color> Characters who have at least T1 L4 Iso-8 equipped will gain the WAR READY trait.\n\n<color=#86e619>2)</color> While your Helicarrier's Hangar and/or Cargo Bay are active, characters with the WAR READY trait will gain bonuses to their Primary Stats while attacking (Hangar) or defending (Cargo Bay), respectively."
+ID_AVA3D_MOVEROOMS_PROMPT,Tap two rooms to move them
+ID_AVA3D_JOINCOOLDOWN_POPUP_HEADER,Alliance Cooldown
+ID_AVA3D_JOINCOOLDOWN_POPUP_DESC,You must wait 24 hours after joining an alliance before participating in war.
+ID_AVA3D_JOINAFTERWARSTART_POPUP_HEADER,Alliance Cooldown
+ID_AVA3D_JOINAFTERWARSTART_POPUP_DESC,You cannot enter a war that started before you joined the alliance.
+ID_AVA3D_WARPENDING_POPUP_HEADER,Matchmaking
+ID_AVA3D_WARPENDING_POPUP_DESC,Locating your Alliance War opponent.
+ID_AVA3D_JOINCOOLDOWN_HOMEBTN,Available in:
+ID_AVA3D_NO_ROOM_BONUS,NONE
+ID_AVA_WAR_SEASON_NOT_FOUND,There is no war season event running
+ID_AVA3D_UPGRADE,UPGRADE
+ID_AVA3D_ERROR,ERROR
+ID_AVA3D_ERROR_SETTING_DEFENDERS,There was an error setting your defenders.
+ID_AVA3D_SQUADSELECT_SETTEAM,SET TEAM
+ID_AVA3D_SQUADSELECT_ERR_HEADER,ERROR
+ID_AVA3D_SQUADSELECT_ERR_BODY,There was an error loading your squad. Please try again.
+ID_AVA3D_PLAYER_DEFEATED,Player Defeated
+ID_ENEMY_ALLIANCE_DEFAULT_NAME,Enemy Alliance
+ID_WAR_SUPPLIES_TITLE,WAR PREP
+ID_WAR_SUPPLIES_SUBTITLE,"Purchase supplies now, or restock in the Blitz store."
+ID_WAR_SUPPLIES_CONSUMABLE_CARD_TITLE,DEFENSE BOOST
+ID_WAR_SUPPLIES_CONSUMABLE_CARD_SUBTITLE,Apply Deflect to defensive teams
+ID_WAR_SUPPLIES_CONSUMABLE_LIMIT_DESC,You have reached the limit for applying Defense Boosts.
+ID_WAR_SUPPLIES_CONSUMABLE_LIMIT_TITLE,LIMIT REACHED
+ID_WAR_SUPPLIES_ENERGY_CARD_TITLE,WAR ENERGY
+ID_WAR_SUPPLIES_ENERGY_CARD_SUBTITLE,Use energy to beat your opponent
+ID_WAR_SUPPLIES_QUANTITY_TITLE,You Own:
+ID_ENTER_WAR_BTN_TEXT,Enter WAR!
+ID_AVA3D_MINION_SQUAD_LABEL,GUARD
+ID_CONTRIBUTION_LEADERBOARD_PLAYER_HDR,ALL PLAYERS
+ID_CONTRIBUTION_LEADERBOARD_ALLIANCE_HDR,MY ALLIANCE
+ID_CONTRIBUTION_LEADERBOARD_OPPONENTS_HDR,OPPONENTS
+ID_CONTRIBUTION_LEADERBOARD_ATTACK_ATTEMPTS,ATTACKS
+ID_CONTRIBUTION_LEADERBOARD_ATTACK_POINTS,ATTACK POINTS
+ID_CONTRIBUTION_LEADERBOARD_DAMAGE_POINTS,DAMAGE POINTS
+ID_CONTRIBUTION_LEADERBOARD_DEFEND_VICTORIES,DEFEND VICTORIES
+ID_CONTRIBUTION_LEADERBOARD_HEAL_ATTEMPTS,HEALS
+ID_CONTRIBUTION_LEADERBOARD_FORTIFY_APPLIED,DEFENSE BOOST
+ID_CONTRIBUTION_LEADERBOARD_PLAYER_SUFFIX,<color=#00ff00>[ME]</color>
+ID_AVA3D_HELICARRIER_DETAIL_CONSUMABLE_BUTTON,BOOST
+ID_WAR_BATTLE_VICTORY_MESSAGE,Your surviving characters are holding down the room
+ID_WAR_BATTLE_DEFEAT_MESSAGE,Your surviving characters are holding down the room
+ID_AVA3D_MARK_SLOT_HEAD,MARK THIS SLOT?
+ID_AVA3D_MARK_SLOT_DESC,Are you sure?
+ID_AVA3D_UNMARK_SLOT_HEAD,UNMARK THIS SLOT?
+ID_AVA3D_UNMARK_SLOT_DESC,Are you sure?
+ID_AVA3D_MAX_MARKED_SLOT_REACHED_HEAD,Max Marked Slot Reached
+ID_AVA3D_MAX_MARKED_SLOT_REACHED_DESC,Max marked slot has been reached. Please unmark other slot before marking new one.
+ID_AVA3D_KICKMEMBERFROMCARRIER,KICK
+ID_AVA3D_KICK_MEMBER_SLOT_HEAD,REMOVE USER?
+ID_AVA3D_KICK_MEMBER_SLOT_DESC,Are you sure?
+ID_AVA3D_ROOM_SYNERGIES_HEAD,ACTIVE BONUSES
+ID_AVA3D_SQUADSELECT_OPPONENT_HEAD,OPPONENT
+ID_ALLIANCE_BATTLE_OPTION_DESC," Eliminate enemy characters to earn points for your alliance!"
+ID_ALLIANCE_BATTLE_OPTION_TITLE," Alliance War"
+ID_ALLIANCE_WAR_CONSUMABLE_1," Defense Boost"
+ID_AVA3D_CURRENT_ROOM_CELL_HEAD,<size=35><color=#c9cdf2>        [CURRENT ROOM]</color></size>
+ID_AVA3D_SET_DEFENSIVE_SQUAD_DESC,SET DEFENSIVE SQUADS
+ID_AVA3D_WAR_ENDED_MID_BATTLE_HEADER,The War Has Ended
+ID_AVA3D_WAR_ENDED_MID_BATTLE_BODY,This war has ended while you were in combat.  This battle will not count to the overall war.
+ID_AVA3D_WAR_MISSING_TIMER,--
+ID_AVA3D_WAR_MISSING_PLAYER,--
+ID_AVA3D_WAR_MISSING_TIER,--
+ID_AVA3D_BOOSTEDBY,Boosted By
+ID_AVA3D_BOOST_LIMIT_REACHED,BOOST LIMIT REACHED
+ID_AVA3D_BOOST_ALREADY_PURCHASED_TITLE,BOOST PURCHASED
+ID_AVA3D_SOMEONE_ALREADY_ATTACKED_TITLE,SQUAD UNDER ATTACK
+ID_AVA3D_SOMEONE_ALREADY_ATTACKED_BODY,UNDER ATTACK BY {player}
+ID_AVA_WAR_REWARDS_HEAD,WAR REWARDS
+ID_AVA_NO_WAR_SCHEDULE_DESC,YOUR ALLIANCE LEADER MUST SET THE WAR SCHEDULE
+ID_AVA_SET_SCHEDULE_HEAD,SET SCHEDULE
+ID_AVA_REQUIRED_TEXT,REQUIRED
+ID_ME_NA_AVASEASON,War Season
+ID_ME_SD_AVASEASON,Earn Rank Rewards
+ID_ME_SM_AVASEASON,Battle Enemy Alliances with your Alliance Members
+ID_ME_LM_AVASEASON,Cooperate with your Alliance to take on Enemy Alliances and earn rank rewards.
+ID_ME_MT_AVASEASON,The War Season has started!
+ID_ME_MS_AVASEASON,Coordinate with your Alliance to win rewards.
+ID_ME_MB_AVASEASON,"A new War Season has started. Cooperate with your Alliance, attack enemy Helicarriers in War, and win various rewards!"
+ID_ME_MC_AVASEASON,GO!
+ID_ME_S1_WARSEASON,Earn Alliance War Point
+ID_AL_TI_END_WAR_REWARD,Alliance War Completion Reward
+ID_AL_DE_END_WAR_REWARD,War has concluded
+ID_AL_BO_END_WAR_REWARD,The current War has ended. Claim your Alliance War reward and prepare for the next War.
+ID_AVA3D_MOVE_PLAYER,MOVE PLAYER
+ID_AVA3D_MOVE_PLAYER_DESC,MOVE PLAYER TO THIS SLOT?
+ID_AVA3D_MOVE_PLAYER_INVALID,CAN'T MOVE SLOT TO ORIGINAL POSITION
+ID_AVA3D_MOVE_PLAYER_CARRIER_DESC,ENTER A ROOM TO MOVE DEFENSES
+ID_AVA3D_ROOM_MANAGEMENT,Room Slot Management
+ID_AVA_CONTRIBUTIONS_OPPONENT_ROSTER_NOT_VISIBLE,OFFENSE ROSTER CAN NOT BE VIEWED FOR PLAYERS OF ENEMY ALLIANCE
+ID_AVA_CONTRIBUTIONS_TAB_ROSTER,ATTACK ROSTER
+ID_AVA_CONTRIBUTIONS_TAB_STATS,PLAYER STATS
+ID_AVA_CONTRIBUTIONS_ROSTER_SPENT_ATTACKERS,ALREADY ATTACKED
+ID_AVA_CONTRIBUTIONS_ROSTER_AVAILABLE_ATTACKERS,AVAILABLE ATTACKERS
+ID_AVA_NEW_SEASON,NEW WAR SEASON
+ID_AVA_WAITING_FOR_RESULTS,WAITING FOR WAR RESULTS
+ID_RAID_NEW_SEASON,NEW RAID SEASON
+ID_RAID_WAITING_FOR_RESULTS,WAITING FOR RAID RESULTS
+ID_AVA_DEMOTION,Demotion:
+ID_AVA_PROMOTION,Promotion:
+ID_AVA_CURRENT,Current:
+ID_AVA_TROPHIES,Trophies:
+ID_AVA_LEAGUE_TAB_DESCRIPTION,Earn Trophies to get promoted to the next League Tier by winning Alliance War matches!
+ID_AVA_LEAGUE_CURRENT_SUFFIX,<color=#00ff00> (Current)</color>
+ID_AVA_LEAGUE_WAR_REWARDS_UPDATED,Updated War rewards
+ID_AVA_UPGRADE_MIN_ALLIANCE_LEVEL_REQUIREMENT,Alliance Level {level} required
+ID_AVA_UPGRADE_MAX_LEVEL_REACHED,Max Level Reached
+ID_ALLIANCE_DONATIONS_LEFT_BTN_UPGRADE,WAR UPGRADES
+ID_AVA_UPGRADE_TITLE,WAR UPGRADES
+ID_AVA_UPGRADE_SLOT_UNLOCK,Defense Slot
+ID_AVA_UPGRADE_ENERGY_REGEN,Energy Regen
+ID_AVA_UPGRADE_ENERGY_CAP,Max Energy
+ID_AVA_UPGRADE_SHORTDESC_SLOT_UNLOCK,Additional Defense Slot
+ID_AVA_UPGRADE_SHORTDESC_ENERGY_REGEN,Decrease Energy Regeneration Times
+ID_AVA_UPGRADE_SHORTDESC_ENERGY_CAP,Increase MAX ENERGY
+ID_AVA_UPGRADE_SUBTITLE_SLOT_UNLOCK,Slots
+ID_AVA_UPGRADE_SUBTITLE_ENERGY_REGEN,Time
+ID_AVA_UPGRADE_SUBTITLE_ENERGY_CAP,Energy
+ID_AVA_UPGRADE_CURRENT_LEVEL_SLOT_UNLOCK,{num1} / {num2}
+ID_AVA_UPGRADE_CURRENT_LEVEL_ENERGY_REGEN,{num1} hrs
+ID_AVA_UPGRADE_CURRENT_LEVEL_ENERGY_CAP,{num1} / {num2}
+ID_AVA_UPGRADE_NEXT_LEVEL_SLOT_UNLOCK,{num1}
+ID_AVA_UPGRADE_NEXT_LEVEL_ENERGY_REGEN,{num1} hrs
+ID_AVA_UPGRADE_NEXT_LEVEL_ENERGY_CAP,{num1}
+ID_AVA_UPGRADE_DESCRIPTION,Increase your Alliance War effectiveness through War Upgrades.\nWar Upgrades are attached to the player and will remain with the player when moving alliances.
+ID_AVA_PRACTICE,Practice
+ID_AVA_WAR_READY,War Ready
+ID_ALLIANCE_CHAT_SKIN_UNLOCKED,{nameUser} unlocked the {charName} - {skinName} costume!

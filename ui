@@ -1,0 +1,954 @@
+id,translation
+ID_ABILITY_UNLOCKED,ABILITY UNLOCKED!
+ID_ACHIEVE_ARENAWINS,Win Battles in Blitz
+ID_ACHIEVE_EQUIPGEAR,Equip gear on characters
+ID_ACHIEVE_LOYALTYADVANCEMENT,Increase the Star Rank of your characters
+ID_ACHIEVE_PLAYERLEVEL,Increase your player level
+ID_ACHIEVEMENTS,Achievements
+ID_APPLY,APPLY
+ID_ARENA_FEATURED_ARENA_HERO,FEATURED CHARACTER
+ID_ARENA_FINDING_OPPONENTS,Finding Opponents
+ID_ARENA_MAINMENU_BATTLE,BATTLE
+ID_ARENA_MAINMENU_CHANGETEAM,CHANGE TEAM
+ID_ARENA_MAINMENU_DANGER,DANGER
+ID_ARENA_MAINMENU_LEADERBOARDS,LEADERBOARD
+ID_ARENA_MAINMENU_MULTIPLIER,MULTIPLIER
+ID_ARENA_MAINMENU_NEW_OPPONENT,NEW OPPONENT
+ID_ARENA_MAINMENU_POINTS_INCREASE,+{pts}
+ID_ARENA_MAINMENU_RECHARGE,BATTLE
+ID_ARENA_MAINMENU_REFRESH_LIMIT_REACHED_DESC,Characters in this team have reached today's recharge limit.
+ID_ARENA_MAINMENU_REFRESH_LIMIT_REACHED_TITLE,RECHARGE LIMIT REACHED
+ID_ARENA_MAINMENU_REWARDS,REWARDS
+ID_ARENA_MAINMENU_NOREWARDS,NO REWARDS
+ID_ARENA_MAINMENU_SEASONENDS,Season ends in
+ID_ARENA_MAINMENU_SHOP,STORE
+ID_ARENA_MAINMENU_TIER,TIER
+ID_ARENA_MAINMENU_SIMULATING,SIMULATING
+ID_ARENA_MAINMENU_SUBMITTING,SUBMITTING
+ID_ARENA_MAX_MILESTONE,MAX MILESTONE
+ID_ARENA_MILESTONE,MILESTONE {milestone}
+ID_ARENA_MILESTONE_COMPLETE,COMPLETED
+ID_ARENA_NO_OPPONENT_FOUND,No Opponent Found
+ID_ARENA_FIND_OPPONENT,FIND OPPONENT
+ID_ARENA_BLITZ_POINTS,BLITZ POINTS
+ID_ARENA_POINTS_EARNED,BLITZ POINTS EARNED
+ID_ARENA_POINTS_INCREASE,+{pts} PTS.
+ID_ARENA_RANK_INFO,Rank: {rank}
+ID_ARENA_REACH_MILESTONE,Reach Milestone {milestone} to earn:
+ID_ARENA_REACH_RANK,Top the leaderboards to earn:
+ID_ARENA_REVIEW,REVIEW
+ID_ARENA_REWARD_TIER_MODIFIER,x{modifier} PTS. Modifier
+ID_ARENA_REWARD_TIER_WINS,{wins} Wins
+ID_ARENA_SEASON_ENDS_IN,SEASON ENDS IN
+ID_ARENA_SELECTION_TEAM_SIZE,{num} vs {num}
+ID_ARENA_SELECTION_VAULT,BLITZ STORE
+ID_ARENA_UNRANKED,UNRANKED
+ID_ARENA_UNRESTRICTED_ACCESS,Unrestricted Access
+ID_ARENA_VIEW,VIEW
+ID_BUY,BUY
+ID_CAMPAIGN_CHAPTER_SELECTION,CHAPTERS
+ID_CAMPAIGN_ENEMIES,ENEMIES
+ID_CAMPAIGN_FIGHT,FIGHT
+ID_CAMPAIGN_HERO_PREVIEW_COUNT,x{number}
+ID_CAMPAIGN_LOADING,Loading...
+ID_CAMPAIGN_MISSION_NODE_LABEL,{type} {chapter}-{mission}
+ID_CAMPAIGN_NO_CAMPAIGN_FOUND,There is no campaign.
+ID_CAMPAIGN_NO_CHAPTERS_FOUND,There are no chapters.
+ID_CAMPAIGN_NO_MISSIONS_FOUND,There are no missions.
+ID_CAMPAIGN_REMAINING_TRIES,REMAINING ATTEMPTS: {count}
+ID_CAMPAIGN_REWARDS,POSSIBLE REWARDS
+ID_CAMPAIGN_SIM,AUTO WIN
+ID_CAMPAIGN_TYPE_CITY,CITY
+ID_CAMPAIGN_TYPE_COSMIC,COSMIC
+ID_CAMPAIGN_TYPE_HERO,HEROES
+ID_CAMPAIGN_TYPE_MYSTIC,MYSTIC
+ID_CAMPAIGN_TYPE_DOOM,DOOM
+ID_CAMPAIGN_TYPE_GLOBAL,NEXUS
+ID_CAMPAIGN_TYPE_PROLOGUE,PROLOGUE
+ID_CAMPAIGN_TYPE_VILLAIN,VILLAINS
+ID_CHALLENGES_ACCESS,You have unlocked Challenges!
+ID_CHALLENGES_NO_CHALLENGES_FOUND,There are currently no Challenges available.
+ID_CHALLENGES_NO_TIERS_FOUND,There are no tiers for this challenge.
+ID_CHALLENGETIER_FIGHT,FIGHT
+ID_CHALLENGETIER_REWARDS,POSSIBLE REWARDS
+ID_CHALLENGETIER_SIM,AUTO WIN
+ID_CHARINFO_DESCRIPTION,DESCRIPTION
+ID_CHARINFO_FIND,FIND
+ID_CHARINFO_FINDHELP,Collect Additional Shards to Recruit this Character
+ID_CHARINFO_NAMEVALUE,NAME/VALUE
+ID_CHARINFO_STAT_UPGRADE,+{num} {stat}
+ID_CLAIM,CLAIM
+ID_CONFIRMDIALOG_TEXT,Are you sure?
+ID_CONFIRMDIALOG_SPEND_TITLE,SPEND POWER CORES?
+ID_CONFIRMDIALOG_SPEND_HC,Are you sure you want to spend Power Cores on this purchase?
+ID_CONFIRM_RATE_HEADLINE,Rate MARVEL Strike Force
+ID_CONFIRM_RATE_BODY,Having fun? Let others know by rating our app.
+ID_CONFIRM_RATE_RATE,RATE
+ID_CONTINUE,CONTINUE
+ID_CURRENCY_CONVERSION_REQUIRED,You lack the primary currency required. The cost will be converted to Power Cores.
+ID_CURRENT,CURRENT:
+ID_DAILY_COLLECT,CLAIM
+ID_DAILY_LIMIT_REACHED,Daily limit reached
+ID_DAILY_MISSIONS,Missions
+ID_DAILY_MISSIONS_RESET,OBJECTIVES RESET
+ID_DAILY_REWARDS_MONTH_HEADER,{month} Rewards
+ID_DAILY_REWARDS_TITLE,LOGIN CALENDAR
+ID_DAY_NUMBER,Day {num}
+ID_DEFEAT,DEFEAT
+ID_DEFEAT_MSG,"We weren't strong enough this time, Commander. Upgrade the characters in our roster by using Training Modules, equipping gear, and ranking up characters."
+ID_DIFFICULTY_EASY,EASY
+ID_DIFFICULTY_HARD,HARD
+ID_DIFFICULTY_MEDIUM,MEDIUM
+ID_DROPRATE_GUARANTEE_MSG,Guarantees the following:
+ID_DROPRATE_GUARANTEE_ONE_OF_MSG,Guarantees ONE of:
+ID_DROPRATE_PILLAR_HEADER,REWARD {count}
+ID_DROPRATE_PILLAR_POSITION_TEMPLATE,{position} PILLAR
+ID_DROPRATE_PILLAR_POSITION_LEFT,LEFT
+ID_DROPRATE_PILLAR_POSITION_CENTER,CENTER
+ID_DROPRATE_PILLAR_POSITION_RIGHT,RIGHT
+ID_DROPRATE_HERO_SHARDS_TITLE,{name} SHARDS
+ID_DROPRATE_SHARDS_TITLE,RANDOM SHARDS
+ID_DROPRATE_SHARDS_RANGE_MSG,{range} shards of one listed character:
+ID_DROPRATE_GENERIC_RANGE_MSG,{range} of one listed item:
+ID_DROPRATE_QUALIFIED_SHARD_DROP,{rarity} SHARD DROP
+ID_DROPRATE_QUALIFIER_1,RARE
+ID_DROPRATE_QUALIFIER_2,UNCOMMON
+ID_DROPRATE_QUALIFIER_3,COMMON
+ID_DROPRATE_CATCHALL_TITLE,OTHER REWARDS
+ID_DROPRATE_CATCHALL_SUBTITLE,Guarantees two listed items:
+ID_DROPRATE_ELEMENT_DROP_SHARD_TITLE,SHARD DROP
+ID_DROPRATE_ELEMENT_DROP_GEAR_TITLE,GEAR DROP
+ID_DROPRATE_ELEMENT_DROP_ABILITY_TITLE,ABILITY DROP
+ID_DROPRATE_ELEMENT_DROP_CONSUMABLE_TITLE,CONSUMABLE DROP
+ID_DROPRATE_ELEMENT_DROP_RESOURCE_TITLE,RESOURCE DROP
+ID_DROPRATE_ELEMENT_DROP_ORB_FRAGMENT_TITLE,ORB FRAGMENT DROP
+ID_DROPRATE_ELEMENT_DROP_OTHER_TITLE,OTHER REWARD
+ID_DROPRATE_PERCENTAGE,{pct}%
+ID_EMBLEM_SELECT_ALLIANCE,Select an emblem for your alliance
+ID_EMBLEM_SELECT_USER,Select your avatar
+ID_EMBLEM_SELECT_USER_INFO,Unlock more icons by upgrading your character's tiers.
+ID_EMBLEM_SELECT_USER_LOCKED,This avatar unlocks when the character reaches Gear Tier {tier}
+ID_EMBLEM_TITLE,Emblem
+ID_EMPTY,Empty
+ID_ENEMY_PREFIX,Enemy {name}
+ID_ENEMY_ROOM,ENEMY ROOM: {name}
+ID_EVENT_ALL_MILESTONES_COMPLETE,All Milestones Complete
+ID_EVENT_EARNING_POINTS,Earn points for rewards!
+ID_EVENT_ENDED,Event Ended
+ID_EVENT_MILESTONE,MILESTONE
+ID_EVENT_MILESTONE_CLAIMED,CLAIMED
+ID_EVENT_MILESTONE_POINTS,POINTS
+ID_EVENT_MILESTONE_POINTS_LABEL,MILESTONE POINTS
+ID_EVENT_NOTIF_MILESTONE_COMPLETE,MILESTONE COMPLETE!
+ID_EVENT_NOTIF_NAME,{name}:
+ID_EVENT_NOTIF_TOTAL," / {num}"
+ID_EVENT_RANKED_MESSAGE_BODY,Congratulations on reaching Rank {rank}.\nClaim your rewards.
+ID_EVENT_RANKED_MESSAGE_SUBJECT,Claim your rewards!
+ID_EVENT_RANKED_MESSAGE_TITLE,Rank {rank} Rewards for {eventName}
+ID_EVENT_RANKED_MESSAGE_BODY_GENERIC,Congratulations on placing in the ranks.\nClaim your rewards.
+ID_EVENT_RANKED_MESSAGE_SUBJECT_GENERIC,Here are your rank rewards!
+ID_EVENT_RANKED_MESSAGE_TITLE_GENERIC,Rank Rewards
+ID_EVENT_RANKING,RANKING
+ID_EVENT_REWARDS_CONCLUDED,CONCLUDED
+ID_EVENT_REWARDS_MILESTONES,Milestones:
+ID_EVENT_REWARDS_NO_MILESTONE_REWARDS,THIS EVENT HAS NO MILESTONE REWARDS
+ID_EVENT_REWARDS_NO_RANK_REWARDS,THIS EVENT HAS NO RANK REWARDS
+ID_EVENT_REWARDS_POINTS,Points:
+ID_EVENT_REWARDS_POINTS_FOR_RANKING,Score {points} points to get ranked.
+ID_EVENT_REWARDS_RANKED,YOUR RANK: {rank}
+ID_EVENT_REWARDS_SCORING,SCORING
+ID_EVENT_SCORING_HOW_TO_SCORE,HOW TO GET POINTS
+ID_EVENT_SCORING_POINTS,{score} PT(S)
+ID_EVENT_SCORING_TITLE,ABOUT THE EVENT
+ID_EVENT_SELECTION_GO,GO
+ID_EVENT_SELECTION_SOLO,SOLO
+ID_EVENT_SELECTION_START,START:
+ID_EVENT_SELECTION_NO_EVENTS,There are currently no Events available.\nCheck back later to find new content.
+ID_EVENT_SELECTION_NO_QUESTS,There are currently no Milestones available.\nCheck back later to find new content.
+ID_EVENT_SELECTION_NO_BATTLEPASS,There are currently no Battle Passes available.\nCheck back later to find new content.
+ID_EVENT_STREAK,STREAK
+ID_EVENTS_ACCESS,You have unlocked Events!
+ID_EXCLAMATION_MARK,{text}!
+ID_FACEBOOK_LOGIN,Facebook Login
+ID_FIGHT,FIGHT
+ID_FIND,FIND
+ID_FINDER_DESC,Obtain the item you're looking for in these modes.
+ID_FINDER_REFRESH_TO_FIND,REFRESH TO FIND IN
+ID_FREECRATE_COLLECT,COLLECT ORB
+ID_FREECRATE_NEXT_FREE,Next Free Orb in
+ID_FRIENDSLIST_INVITE,ADD CONTACT
+ID_FRIENDSLIST_VISIT,VISIT
+ID_FRIENDSLIST_FULL,CONTACTS LIST FULL
+ID_FRIENDSLIST_FIND_BUTTON,FIND PLAYER
+ID_FRIENDSLIST_REMOVE,REMOVE CONTACT
+ID_FRIENDSLIST_REMOVE_TITLE,REMOVE CONTACT?
+ID_FRIENDSLIST_REMOVE_MSG,Are you sure you want to remove this contact?
+ID_FRIENDSLIST_UNABLE_TO_INVITE,CONTACT UNAVAILABLE
+ID_FRIENDSLIST_PENDING,PENDING...
+ID_FRIENDSLIST_IN_CONTACTS,EXISTING CONTACT
+ID_FRIENDSLIST_CONTACTS_COUNT,"CONTACTS: {count} / {max} "
+ID_FRIENDSLIST_CONTACTS_TCP,COLLECTION POWER: {power}
+ID_FRIENDSLIST_CONTACTS_MY_TCP,MY COLLECTION POWER: {power}
+ID_FRIENDSLIST_CONTACTS_CALCULATING,CALCULATING...
+ID_FRIENDSLIST_CONTACTS_INVITE_SENT,Request Sent
+ID_FRIENDSLIST_INVITATION_POPUP_TITLE,CONTACT REQUEST
+ID_FRIENDSLIST_INVITATION_CONFIRM_MSG,Accept the contact request from {sender}?
+ID_FRIENDSLIST_INVITATION_DECLINE_MSG,Are you sure you want to decline the contact request from {sender}?
+ID_FRIENDSLIST_OPTIONS_ALLOW_INVITES,ALLOW CONTACT REQUESTS
+ID_FRIENDSLIST_SEARCH_TITLE,PLAYER SEARCH
+ID_FRIENDSLIST_SEARCH_DESC,Enter the Player's ID below
+ID_FRIENDSLIST_SEARCH_INPUT_DEFAULT,Enter PID here
+ID_FRIENDSLIST_SEARCH_FIND,FIND
+ID_FRIENDSLIST_SEARCH_VISIT,VISIT
+ID_FRIENDSLIST_SEARCH_FOUND,Found player {name}!
+ID_FRIENDSLIST_SEARCH_NOT_FOUND,Unable to find player for PID {pid}
+ID_FRIENDSLIST_ERR_TITLE,Contacts Report
+ID_FRIENDSLIST_ERR_SERVICE_FAILED,Unable to complete action.
+ID_FRIENDSLIST_ERR_INVITE_THROTTLED,Unable to send Contact request at this time. Please try again later.
+ID_FRIENDSLIST_ERR_UNAVAILABLE,Unable to send Contacts request.
+ID_FRIENDSLIST_ERR_FULL,Your Contacts list is currently full.
+ID_FRIENDSLIST_ERR_ALREADY_FRIEND,This player is already in your Contacts.
+ID_FRIENDSLIST_ERR_NOT_FRIENDS,The player is not in your Contacts.
+ID_GACHA_PRIZE_GRID_SUBTITLE,Tap items to view details
+ID_GACHA_PRIZE_GRID_TITLE,COLLECTED ORB ITEMS
+ID_GACHA_REVEAL_POSSIBLE_REWARDS,POSSIBLE REWARDS
+ID_GACHA_REVEAL_WIN_RANGE,Win {min} to {max}
+ID_GAME_CENTER_LOGIN,Game Center Login
+ID_GAMEMODE_ARENA,Blitz
+ID_GAMEMODE_TOWERMODE,Avengers Tower
+ID_GAMEMODE_BATTLEGROUNDS,Arena
+ID_GAMEMODE_CAMPAIGN_COSMIC,Cosmic Campaign
+ID_GAMEMODE_CAMPAIGN_COSMIC_DESC,"An interstellar, interdimensional battle for the fate of humanity."
+ID_GAMEMODE_CAMPAIGN_COSMIC_NAME,Cosmic Conflicts
+ID_GAMEMODE_CAMPAIGN_DOOM_NAME,Doom War
+ID_GAMEMODE_CAMPAIGN_DOOM_DESC,S.T.R.I.K.E. must stand against the powers of Doctor Doom.
+ID_GAMEMODE_CAMPAIGN_GLOBAL,Nexus Campaign
+ID_GAMEMODE_CAMPAIGN_GLOBAL_DESC,Assemble the S.T.R.I.K.E. team to defeat Ultimus.
+ID_GAMEMODE_CAMPAIGN_GLOBAL_NAME,The Nexus
+ID_GAMEMODE_CAMPAIGN_HEROES_DESC,Assemble HEROES to uncover an interdimensional threat.
+ID_GAMEMODE_CAMPAIGN_HEROES_NAME,Heroes Assemble
+ID_GAMEMODE_CAMPAIGN_MYSTIC_DESC,Only powerful MYSTIC characters can find a way to drive back the invasion.
+ID_GAMEMODE_CAMPAIGN_MYSTIC_NAME,Mystic Forces Rising
+ID_GAMEMODE_CAMPAIGN_NUE_NAME,Prologue
+ID_GAMEMODE_CAMPAIGN_UNAVAILABLE,Campaign Unavailable
+ID_GAMEMODE_CAMPAIGN_VILLAINS_DESC,Assemble a team of VILLAINS to unite everyone against Ultimus.
+ID_GAMEMODE_CAMPAIGN_VILLAINS_NAME,Villains United
+ID_GAMEMODE_CAMPAIGNS,Campaigns
+ID_GAMEMODE_CHALLENGES,Challenges
+ID_GAMEMODE_DAILYMISSIONS,Daily Objectives
+ID_GAMEMODE_EVENTS,Events
+ID_GAMEMODE_OPERATIONS,COMING SOON
+ID_GAMEMODE_QUESTS,Milestones
+ID_GAMEMODE_RAIDS,Alliance Raids
+ID_GAMEMODE_SYNCPVPARENA,VS Arena
+ID_GAMEMODE_WAR,Alliance War
+ID_GAMEMODE_GRAND_TOURNAMENT,COSMIC CRUCIBLE
+ID_GEAR_EQUIPPED,EQUIPPED
+ID_GEAR_LEVEL_REQUIREMENT,CHARACTER LEVEL {level} REQUIRED TO EQUIP
+ID_GEAR_NEEDED_BY,Needed by
+ID_GEAR_NOT_NEEDED,No current characters need this item
+ID_GEAR_OWNED,OWN: {count}
+ID_GEAR_TIER,GEAR TIER
+ID_GEARCRAFTING_CRAFT,CRAFT
+ID_GEARCRAFTING_EQUIP,EQUIP
+ID_GEARCRAFTING_GEAR_EQUIPPED,GEAR EQUIPPED
+ID_GEARCRAFTING_NOTAVAILABLE,No Items Available
+ID_GENERIC_POPUP_TITLE_INCOMING_TRANSMISSION,INCOMING TRANSMISSION...
+ID_GET,GET
+ID_GET_CREDITS,Get Power Cores
+ID_GET_CREDITS_INFO,Purchase Power Cores from the Store to increase your VIP level and unlock more daily revives.
+ID_HEAL,HEAL
+ID_HERO_ABILITY_LVL_UPGRADED,Upgraded to Level {levelNum}
+ID_HERO_ABILITY_MAX,THIS ABILITY IS AT MAX LEVEL
+ID_HERO_ABILITY_UNLOCK_REQUIRED,This ability unlocks when this character is recruited.
+ID_HERO_ABILITY_UNLOCK_REQUIREMENT,This ability unlocks when character reaches <color={colorHex}>{categoryStr} {levelNum}</color>
+ID_HERO_ABILITY_UPGRADE,UPGRADE ABILITY TO LEVEL {levelNum}<color=#ED1C24FF>{req}</color>
+ID_HERO_ABILITY_UPGRADE_INFO,+5% HEAL
+ID_HERO_JOIN_NOTIFICATION,{name} wants to join our S.T.R.I.K.E. Force!
+ID_HERO_LEVEL_MAX_INCREASED,Max character level increased!
+ID_HERO_LEVEL_REQUIRED,Requires character level {levelNum}
+ID_HERO_REVIVE_ALL_BUTTON,RECHARGE ALL
+ID_HERO_REVIVE_ALL_DESCRIPTION,Recharge your characters to continue the battle!
+ID_HERO_REVIVE_DAILY_LIMIT_TEASE,Purchase Power Cores from the Store to increase your VIP level and unlock more daily revives.
+ID_HERO_REVIVE_TEASE,"Commander, this team can battle now by recharging. Otherwise, they will be ready to attack in {duration}."
+ID_HERO_REVIVED_BUTTON,READY
+ID_HERO_REVIVED_DESCRIPTION,Ready for battle!
+ID_HERO_STARS_MAX,Max Stars
+ID_HERO_UNLOCK_READY,This character can now be recruited!
+ID_HERO_UNLOCK_TEASE,Collect {num} more shard(s) to recruit this character!
+ID_HERO_UPGRADE_MAX,This character is at maximum Star Rank!
+ID_HERO_UPGRADE_READY,This character can now be ranked up!
+ID_HERO_UPGRADE_TEASE,Collect {num} more shard(s) to rank up this character!
+ID_HERONOTIFY_MESSAGE,You've recruited a new character for your S.T.R.I.K.E. Force!
+ID_HERONOTIFY_RECRUIT,RECRUIT
+ID_HERONOTIFY_TITLE,NEW RECRUIT
+ID_HOME_OFFERS,OFFERS
+ID_HOME_REWARDS,DAILY REWARDS
+ID_IAP_OFFER_REWARDS_TITLE,THANK YOU!
+ID_IAP_OFFER_REWARDS_SUBTITLE,You've received the following:
+ID_IAP_OFFER_REWARDS_SUBTITLE_NAME,You've received the following: {name}
+ID_IBOX_REWARDS,REWARDS
+ID_INBOX_CLAIM,CLAIM
+ID_INBOX_DECLINE,DECLINE
+ID_INBOX_EXPIRED,EXPIRED
+ID_INBOX_EXPIRES,EXPIRES
+ID_INBOX_NO_MESSAGES_DISPLAY,There are no messages to populate or display.
+ID_INBOX_NO_READ,You have no read messages.
+ID_INBOX_NO_UNREAD,You have no unread messages.
+ID_INBOX_VIEW_ALLIANCE,VIEW ALLIANCE
+ID_INBOX_VIEW_USER,VIEW USER
+ID_ITEM_UNLOCKED,{item} unlocked!
+ID_LEVEL,LEVEL
+ID_LEVEL_LABEL,Level {level}
+ID_LEVEL_LABEL_SHORT,LVL {level}
+ID_LEVEL_LABEL_TEXT_ONLY,LVL
+ID_LEVEL_LIMIT_REACHED,Level Limit Reached
+ID_LEVEL_LABEL_WITH_REQUIREMENT,Level {level}<color=#ED1C24FF>{req}</color>
+ID_LEVEL_MAX,MAX Lvl {level}
+ID_LEVEL_MAXED_LABEL,Level {level} (Max)
+ID_LEVEL_OF_TOTAL_LABEL,Level {level}/{total}
+ID_LEVEL_AVAILABLE,Level {level} Available
+ID_LIMIT_REACHED,Limit Reached
+ID_LOADING_SCREEN_CAPTION,LOADING
+ID_LOCKED,Locked
+ID_LOGIN_STREAK_ACTIVE,Streak Active
+ID_LOGIN_STREAK_BROKEN,<color=#D67C10>STREAK BROKEN</color> - <color=#FFFFFF>LOG IN</color> for <color=#FFFFFF>7 CONSECUTIVE</color> days to reactivate!
+ID_LOGIN_STREAK_DESCRIPTION,<color=#FFFFFF>LOG IN</color> for <color=#FFFFFF>7 CONSECUTIVE</color> days to activate your <color=#D67C10>STREAK BONUS</color>!
+ID_LOGIN_STREAK_RULES_TITLE,Login Streak Rules
+ID_LOGIN_STREAK_RULES_DESCRIPTION,"<color=#FFFFFF>LOG IN</color> for <color=#FFFFFF>7 CONSECUTIVE</color> days to activate your <color=#D67C10>STREAK BONUS</color>!\n\nIf you miss a day, the <color=#D67C10>STREAK BONUS</color> resets.\n\n<color=#D67C10>STREAK BONUSES</color> provide the following <color=#57BD00>BENEFITS</color>:\n\n<color=#57BD00>1) AUTO DAILIES</color>: Players above Level 64 will have a select number of their Daily Objectives completed as soon as they log in for the day.\n\n<color=#57BD00>2) Raid Sim</color>: Players above Level 62 will be awarded a select number of SIM attempts each day. The number of daily allowed SIMs is set per Raid and awarded when the Raid is joined.\n\n<color=#57BD00>3) Streak Milestones</color>: All players will be able to complete Daily Streak Milestones to earn additional Rewards!"
+ID_LOGIN_STREAK_MAINTAIN,Keep playing <color=#FFFFFF>DAILY</color> to maintain your <color=#D67C10>STREAK BONUS</color>!
+ID_LOGIN_STREAK_MILESTONE_INACTIVE_DESC,<color=#FFFFFF>ACTIVATE</color> your <color=#D67C10>STREAK BONUS</color> to participate.\n<color=#FFFFFF>LOG IN</color> for <color=#FFFFFF>7 CONSECUTIVE</color> days to activate your <color=#D67C10>STREAK BONUS</color>.
+ID_LOGIN_STREAK_PERK_DAILIES,AUTO DAILIES
+ID_LOGIN_STREAK_PERK_MILESTONE,STREAK MILESTONES
+ID_LOGIN_STREAK_PERK_RAID_SIM,RAID SIM
+ID_LOGIN_STREAK_TITLE,Daily Login Streak
+ID_LOYALTY,STAR RANK
+ID_LOYALTY_HEADER,{shard} SHARDS
+ID_MAX,MAX
+ID_MAX_ENERGY_REACHED,Max Energy Reached
+ID_MINMAX_RANGE_FIXED,{min}-{max}
+ID_MINMAX_RANGE_PERCENTAGE,{min}-{max}%
+ID_MILESTONE_PREVIEW,PREVIEW
+ID_MOTD_ENDS_IN,Ends in {duration}
+ID_MOTD_STARTS_IN,Starts in {duration}
+ID_NEXT,NEXT:
+ID_NO_NAME,No Name
+ID_NOTICE_TITLE,NOTICE
+ID_NSF,You don't have enough resources to complete this purchase.\n\n{resource} required: {qty}
+ID_NSF_CONVERT,\nYou lack the amount of primary currency required. Cost will be converted to Power Cores.
+ID_NSF_GOLD,Insufficient Gold
+ID_NSF_SUFFIX_BUY_MISSING_AMOUNT,\n\nBuy the missing amount?
+ID_NSF_SUFFIX_FIGHT_ARENA_BATTLES,\n\nFight in Blitz to earn more.
+ID_OPEN,OPEN
+ID_MULTI_OPEN,OPEN x{qty}
+ID_OPTIONS_ENABLE,ENABLE
+ID_OPTIONS_DISABLE,DISABLE
+ID_OPTIONS_ACCOUNT,ACCOUNT
+ID_OPTIONS_AD_CHOICES,AD CHOICES
+ID_OPTIONS_ALLIANCE_REQUEST_ENABLED,ALLIANCE REQUESTS ENABLED
+ID_OPTIONS_ALLOW_INVITES,ALLOW ALLIANCE INVITES
+ID_OPTIONS_CHAT,CHAT ENABLED
+ID_OPTIONS_CHAT_ALLIANCE_LABEL,ALLIANCE
+ID_OPTIONS_CHAT_GLOBAL_LABEL,GLOBAL
+ID_OPTIONS_CHAT_WAR_ROOM_LABEL,WAR ROOM
+ID_OPTIONS_COOKIE,COOKIE POLICY
+ID_OPTIONS_COPYRIGHT,"&copy; MARVEL\nMARVEL Strike Force Software\n&copy; 2022 Scopely, Inc.\nDeveloped by Scopely, Inc. All rights reserved."
+ID_OPTIONS_CCPA,Do Not Sell My Info
+ID_OPTIONS_CREDITS,CREDITS
+ID_OPTIONS_CREDITS_INFO,View the credits
+ID_OPTIONS_CREDITS_NASA,Select space imagery credited to Visible Earth and NASA.
+ID_OPTIONS_FORUM,FORUM
+ID_OPTIONS_LEGAL,LEGAL
+ID_OPTIONS_LEGAL_NOTICE,LEGAL NOTICES
+ID_OPTIONS_LOGIN_OPTIONS,LOGIN OPTIONS
+ID_OPTIONS_LOGIN_OPTIONS_INFO,Link an account to back up your data and play on multiple devices!
+ID_OPTIONS_MARKETING_CONSENT,"Yes! Send me email updates and offers about MARVEL Strike Force. I can opt out at any time. By signing up, I confirm that I have read and understand the MARVEL Strike Force Privacy Policy and I agree to the Terms of Service. Questions? Contact our Customer Support team by selecting the ""Contact Us"" option in our Support menu."
+ID_OPTIONS_MARKETING_CONSENT_GDPR_01,Yes! Send me email updates and offers about MARVEL Strike Force. I can opt out at any time.
+ID_OPTIONS_MARKETING_CONSENT_GDPR_02,Yes! Send me email updates and offers from Company Affiliates and third parties operating in the entertainment sector. I can opt out at any time.
+ID_OPTIONS_MARKETING_CONSENT_GDPR_03,"By signing up above, I confirm that I have read and understand the MARVEL Strike Force Privacy Policy and I agree to the Terms of Service. Questions? Contact our Customer Support team by selecting the ""Contact Us"" option in our Support menu."
+ID_OPTIONS_MARKETING_CONSENT_HK,"By checking this box, I understand that I am providing my email address as a user of the MARVEL Strike Force game for the purpose of receiving email updates and offers about MARVEL Strike Force. This information may be shared with third parties for gain only, and only with the consent that I am providing, as descibed in the MARVEL Strike Force Privacy Policy. I can opt out at any time. By signing up, I agree to the MARVEL Strike Force Privacy Policy and Terms of Service. Questions? Contact our Customer Support team by selecting the ""Contact Us"" option in our Support menu."
+ID_OPTIONS_MUSIC,MUSIC
+ID_OPTIONS_OFF,OFF
+ID_OPTIONS_ON,ON
+ID_OPTIONS_PRIVACY,PRIVACY POLICY
+ID_OPTIONS_SERVER_VERSION,Server
+ID_OPTIONS_SFX,SOUND FX
+ID_OPTIONS_SUPPORT,SUPPORT
+ID_OPTIONS_SUPPORT_INFO,Get technical support and give feedback.
+ID_OPTIONS_TERMS_OF_SERVICE,TERMS OF SERVICE
+ID_OPTIONS_TITLE,OPTIONS
+ID_OPTIONS_ATTRIBUTIONS,ATTRIBUTIONS
+ID_OPTIONS_VERSION,VERSION {versionNum}
+ID_OPTIONS_PROPERTY_NOTICE,Click here for the intellectual property attribution notices and licenses for the open source software applications included in MARVEL Strike Force.
+ID_OPTIONS_ADVANCED,ADVANCED
+ID_OPTIONS_ADVANCED_TITLE,ADVANCED OPTIONS
+ID_ADVANCED_OPTIONS_DESCRIPTION,Configure advanced performance and gameplay settings.
+ID_OPTIONS_LOWMEM_COMBAT,Enable low-graphics combat mode
+ID_OPTIONS_PORTRAIT_MODE,Allow portrait screen orientation <color=#5e659b>(select screens)</color>
+ID_OPTIONS_ARENA_SAVEDSQUAD,Cycle through Saved Squads in Blitz menu
+ID_OPTIONS_MULTI_ORB,Open multiple orbs at once <color=#5e659b>(select orbs)</color>
+ID_OPTIONS_SIMPLE_ALLIANCE,Quick Alliance access
+ID_OPTIONS_ITEM_COUNT_IN_STORE,Item count in store
+ID_OPTIONS_RAID_KEY_OFFSET,Change Raid Key reset to {time} <color=#5e659b>(+{timeUTC} UTC)</color>
+ID_OPTIONS_RAID_KEY_OFFSET_DISABLE,Raid Keys reset at {time} <color=#5e659b>(+{timeUTC} UTC)</color>\nDisable to change to midnight local time
+ID_OPTIONS_RAID_KEY_OFFSET_COOLDOWN,Change Raid Key reset to {time} <color=#5e659b>(+{timeUTC} UTC)</color>\nOn cooldown for {cooldown}
+ID_OPTIONS_RAID_KEY_OFFSET_COOLDOWN_DISABLE,Raid Keys reset at {time} <color=#5e659b>(+{timeUTC} UTC)</color>\nOn cooldown for {cooldown}
+ID_OPTIONS_RAID_KEY_OFFSET_TITLE,RAID KEY DAILY RESET
+ID_OPTIONS_RAID_KEY_OFFSET_COOLDOWN_TITLE,ON COOLDOWN
+ID_OPTIONS_RAID_KEY_OFFSET_DESCRIPTION,"Enabling this option will change your Raid Key generation reset to <color=#fff568>{time} (+{timeUTC} UTC)</color>. If you change this value, you will not be able to change back or generate keys for <color=#fff568>{cooldown}</color>.\n\nAre you sure you want to make this change?"
+ID_OPTIONS_RAID_KEY_OFFSET_DESCRIPTION_DISABLE,"Disabling this option will change your Raid Key generation reset to midnight local time. If you change this value, you will not be able to change back or generate keys for <color=#fff568>{cooldown}</color>.\n\nAre you sure you want to make this change?"
+ID_OPTIONS_RAID_KEY_OFFSET_COOLDOWN_DESCRIPTION,You are currently on cooldown and cannot change this value for <color=#fff568>{cooldownRemaining}</color>.\n\nToggling this option will change your Raid Key generation reset to <color=#fff568>{time} (+{timeUTC} UTC)</color>. You will not be able to change back or generate keys for <color=#fff568>{cooldown}</color>.
+ID_OPTIONS_RAID_KEY_OFFSET_COOLDOWN_DISABLE_DESCRIPTION,You are currently on cooldown and cannot change this value for <color=#fff568>{cooldownRemaining}</color>. \n\nToggling this option will change your raid key generation reset to midnight local time. You will not be able to change back or generate keys for <color=#fff568>{cooldown}</color>.
+ID_OPTIONS_COMBAT_REDUCEDCOMBATTEXT,Use reduced combat text
+ID_OPTIONS_COMBAT_AUTOBASIC,Show Basic-Only Autoplay option
+ID_OPTIONS_COMBATTEXTOPTIONS,Combat Text Filtering
+ID_OPTIONS_INSANITY_ACTIVE_JUMP,Active Dark Dimension Tab & Selection
+ID_OPTIONS_INSANITY_ACTIVE_JUMP_FIRST_RUN_ONLY,Active Dark Dimension Tab & Selection For First-Run Only
+ID_OPTIONS_AGRESSIVE_BACKGROUND_DOWNLOAD,Download all Assets on Wi-Fi
+ID_OPTIONS_HIDE_SQUADS_NO_VALID_MEMBERS,Hide Squads With No Valid Members
+ID_OPTIONS_PORTAL_TITLE,WEB ACCESS CODE
+ID_OPTIONS_PORTAL_DESC,Get an access code that will let you log into our website.
+ID_OPTIONS_PORTAL_BUTTON,GET ACCESS CODE
+ID_OPTIONS_HIGHER_RENDERING_MODE,Enable higher rendering mode(60fps)
+ID_PLAYER_NAME_CHANGE_CONFIRM,CONFIRM
+ID_PLAYER_NAME_CHANGE_ENTER_NAME,Enter name...
+ID_PLAYER_NAME_CHANGE_ENTER_VALID,"Please enter a valid name. Symbols (<, >, {, }) and profanity are not allowed."
+ID_PLAYER_NAME_CHANGE_HELP,"This information will be visible to other players. Do not include any other personal information. Username should be 16 characters or less. Symbols (<, >, {, }) and profanity are not allowed."
+ID_PLAYER_NAME_CHANGE_INVALID,INVALID NAME
+ID_PLAYER_NAME_CHANGE_TITLE,EDIT YOUR NAME
+ID_PLAYER_PROFILE_ALREADY_IN_ALLIANCE,Already in your alliance
+ID_PLAYER_PROFILE_COLLECTED,{count} COLLECTED
+ID_PLAYER_PROFILE_LAST_ONLINE,Last Active
+ID_PLAYER_PROFILE_LAST_ONLINE_TIME,{duration} ago
+ID_PLAYER_PROFILE_LEVEL,PLAYER LEVEL {level}
+ID_PLAYER_PROFILE_NOT_APPLICABLE,N/A
+ID_PLAYER_PROFILE_NOT_FOUND_MESSAGE,Unable to locate information for the specified player.
+ID_PLAYER_PROFILE_PID,PID:
+ID_PLAYERSTAT_ARENA_WINS,Blitz Wins
+ID_PLAYERSTAT_BEST_ARENA_RANK,All-time Blitz Rank
+ID_PLAYERSTAT_HEROES_AT_MAX_LOYALTY,Characters at Max Star Rank
+ID_PLAYERSTAT_HEROES_AT_MAX_TIER,Characters at Max Tier
+ID_PLAYERSTAT_HIGHEST_CITY_LEVEL,Heroes Mission Cleared
+ID_PLAYERSTAT_HIGHEST_COSMIC_LEVEL,Cosmic Mission Cleared
+ID_PLAYERSTAT_HIGHEST_GLOBAL_LEVEL,Nexus Mission Cleared
+ID_PLAYERSTAT_LAST_ARENA_RANK,Latest Blitz Rank
+ID_PLAYERSTAT_STRONGEST_TEAM_POWER,Strongest Team Power
+ID_PLAYERSTAT_TOTAL_COLLECTION_POWER,Total Collection Power
+ID_PLAYERSTAT_TOTAL_HEROES_COLLECTED,Total Characters Collected
+ID_PLAYERSTAT_TOP60_COLLECTION_POWER,Top 60 Collection Power
+ID_PLAYERSTAT_LATEST_BATTLEGROUNDS_RANK,Latest Arena Rank
+ID_PLAYERSTAT_BEST_BATTLEGROUNDS_RANK,All-time Arena Rank
+ID_PLAYERSTAT_WAR_MVP,War MVP
+ID_TOTAL_DAMAGE,Total Damage
+ID_POWER,Power
+ID_POWER_LABEL,POWER {power}
+ID_POWER_LABEL_COLON,Power: {power}
+ID_POWER_LABEL_PLUS,Power +{power}
+ID_POWERLEVEL,POWER LEVEL
+ID_PURCHASE_RESOURCE,Purchase {resource}
+ID_PURCHASE_RESOURCE_TEXT_1,"{name}, you will earn another point of {resource} in <color={colorHex}>{time}</color>. "
+ID_PURCHASE_RESOURCE_TEXT_2,You can also purchase <color={colorHex}>{qty} {resource}</color> now.
+ID_PURCHASE_RESOURCE_TEXT_3,Increase to <color={colorHex}>VIP Level {num}</color> to purchase more energy by logging in daily or purchasing Credits.
+ID_PURCHASE_RESOURCE_TEXT_MAX,You've reached the daily allowable refresh limit on {resource}. The limit resets every 24 hours.
+ID_PURCHASE_RESOURCE_TEXT_SCHEDULED_MAX,"You've reached the max drop limit on {resource}. "
+ID_PURCHASE_RESOURCE_EC,Purchase Event Energy
+ID_QUANTITY_MULTIPLIER,x{qty}
+ID_QUANTITY_MULTIPLIER_AND_UP,x{qty}+
+ID_QUANTITY_MULTIPLIER_VARIANT,{qty}x
+ID_QUANTITY_NA,N/A
+ID_QUANTITY_NONE,NONE
+ID_QUANTITY_OF_TOTAL,{qty} / {total}
+ID_QUANTITY_OF_TOTAL_CONDENSED,{qty}/{total}
+ID_QUANTITY_OF_TOTAL_CONDENSED_COLOR,<color={colorHex}>{qty}</color>/{total}
+ID_QUANTITY_OWNED,You own: {qty}
+ID_QUANTITY_OWNED_COLOR,You own: <color={colorHex}>{qty}</color>
+ID_QUANTITY_RANK,#{rank}
+ID_QUANTITY_REMAINING,{qty}/{total} remaining
+ID_QUANTITY_REMAINING_SHORT,{qty} remaining
+ID_QUANTITY_REMAINING_COLON,Remaining: {qty}
+ID_QUANTITY_RANGE,{min} - {max}
+ID_QUEST_ENDED,MILESTONE ENDED
+ID_RANK_UP,RANK UP
+ID_RATEME_DESC,We'd love to hear more about your experience and ways to improve the game. Would you like to leave us some feedback?
+ID_RATEME_LATER,LATER
+ID_RATEME_TITLE,TELL US MORE!
+ID_RATEME_YES,YES!
+ID_READY,READY
+ID_REFRESH,REFRESH
+ID_REPLAY,REPLAY
+ID_REPLAY_GENERIC_ERROR_TITLE,Sorry!
+ID_REPLAY_GENERIC_ERROR_BODY,This replay appears to not be valid anymore.
+ID_RESOURCE_MAX_INCREASED,{resource} max increased to {max}!
+ID_RESOURCE_REFILLED,{resource} refilled!
+ID_REWARD_ITEM_COLLECTED,COLLECTED
+ID_REWARD_ITEM_NUM_LEFT,{num} LEFT
+ID_REWARDS_CLAIMED,You have claimed these rewards.
+ID_REWARDS_TEASE,Log in EVERY DAY until this day to acquire these rewards.
+ID_ROSTER_FIND,FIND
+ID_ROSTER_RECRUIT,RECRUIT
+ID_ROSTER_EQUIP_ALL,EQUIP ALL
+ID_ROSTER_EQUIP_LVL_REQ,Requires Lvl {level}
+ID_SELECT,SELECT
+ID_SELECT_BUTTON_1,Select Required
+ID_SELECT_BUTTON_2,Character
+ID_SELECT_WAR_MESSAGE,EACH CHARACTER CAN BE USED ONLY <color=#fff568>ONCE</color> TO ATTACK
+ID_SELECT_WAR_DEFENSE_MESSAGE,DEFENSE CHARACTERS CANNOT BE USED TO ATTACK
+ID_SELECT_WAR_PRACTICE_MESSAGE,WAR ROOM BONUSES DO NOT APPLY IN PRACTICE MODE
+ID_SHARD_CONVERSION_TITLE,CONVERT EXTRA SHARDS
+ID_SHARD_CONVERSION_SUBTITLE,Extra character shards are converted into <color=#ffffff><i>ULTRA CREDITS</i></color>. Collect enough to open an <color=#ffffff><i>ULTIMUS ORB</i></color>.
+ID_SHARD_CONVERSION_INFO_TITLE,ULTRA CREDITS
+ID_SHARD_CONVERSION_INFO_MESSAGE,"When you receive shards of a character who is at 7 stars, they convert to <color=#ffffff><i>ULTRA CREDITS</i></color>. Use <color=#ffffff><i>ULTRA CREDITS</i></color> to buy Ultimus Orbs or Gear."
+ID_SHARD_CONVERSION_UNLOCK_MESSAGE,Requires a 7 star character.
+ID_SLOT,Slot
+ID_UNCLAIMED,Unclaimed
+ID_UNCLAIMED_SLOT,Unclaimed Slot
+ID_SLOT_NUM,Slot {num}
+ID_SLOT_CAN_CLAIM,You can claim this
+ID_SLOT_CANNOT_CLAIM,Cannot claim because you already own another slot
+ID_SLOT_DESTROYED,DESTROYED!
+ID_SLOT_DESTROYED_BY,Destroyed By: {name}
+ID_SLOT_OWNED,YOU OWN THIS SLOT
+ID_SLOT_OWNED_BY,Owner: {name}
+ID_SLOT_OWNER_ENEMY_SQUAD,ENEMY SQUAD (slot={slot} squad={squad})
+ID_SLOT_OWNER_YOUR_SQUAD,YOUR SQUAD
+ID_SLOT_SQUAD_NUM,Squad {num}
+ID_SLOT_UNDER_ATTACK,UNDER ATTACK!
+ID_SLOTS_FULL,ALL SLOTS ARE FULL
+ID_SUBSCRIPTION_COST_TEMPLATE,{cost}/{period}
+ID_SUBSCRIPTION_DESC_WEEKLY,a weekly subscription
+ID_SUBSCRIPTION_DESC_MONTHLY,a monthly subscription
+ID_SUBSCRIPTION_DESC_YEARLY,a yearly subscription
+ID_SUBSCRIPTION_DESC_TEMPLATE_ADJ,{period} subscription
+ID_SUBSCRIPTION_OFFER_CALLOUT_TAB,SUBSCRIPTION
+ID_SUBSCRIPTION_OFFER_DISCLAIMER,"This offer is {period}. Payment of {cost} is charged to your account at purchase confirmation. Your subscription will auto-renew unless turned off at least 24 hours prior to the end of the current period. If you do not turn off auto-renew, your account will be charged for renewal within 24-hours prior to the end of the current period and your account will be charged {cost}. After purchase, you can manage your subscriptions in your Account Settings."
+ID_SUBSCRIPTION_PERIOD_WEEK,week
+ID_SUBSCRIPTION_PERIOD_WEEK_ADJ,weekly
+ID_SUBSCRIPTION_PERIOD_MONTH,month
+ID_SUBSCRIPTION_PERIOD_MONTH_ADJ,monthly
+ID_SUBSCRIPTION_PERIOD_YEAR,year
+ID_SUBSCRIPTION_PERIOD_YEAR_ADJ,yearly
+ID_SUBSCRIPTION_PRIZE_GRID_TITLE,Subscription Rewards
+ID_SUBSCRIPTION_PRIZE_GRID_SUBTITLE,Rewards received while away!
+ID_SUBSCRIPTION_TAB_NAME,Premium
+ID_SYNERGY_ACTIVATED_TRAITS,ACTIVATED TRAITS:
+ID_SYNERGY_SYNERGIES_ACTIVATED,Synergies Activated
+ID_TIER,TIER
+ID_TIER_LABEL,Tier {tier}
+ID_TIER_LABEL_MAX,<color={tierColor}>Tier {tier}</color> (<color={maxColor}>MAX</color> Tier reached)
+ID_TIME_REMAINING,Time Remaining: {duration}
+ID_TITLE_TIME_LEFT_BRACKET,<size={size}><color=#{color}>({duration} left)</color></size>
+ID_TITLE_TIME_START_BRACKET,<size={size}><color=#{color}>(Starts in {duration})</color></size>
+ID_TIME_LEFT_BRACKET,({duration} left)
+ID_TIME_START_BRACKET,(Starts in {duration})
+ID_TO_STORE,TO STORE
+ID_TRAIN,APPLY
+ID_UI_ABILITIES,ABILITIES
+ID_UI_ACHIEVEMENTS,ACHIEVEMENTS
+ID_UI_ALLIANCE,ALLIANCE
+ID_UI_AND_MORE,AND MORE!
+ID_UI_AVAILABLE_IN,AVAILABLE IN {item}
+ID_UI_BONUS,BONUS<b>!</b>
+ID_UI_CHAT,CHAT
+ID_UI_CLAIM,CLAIM
+ID_UI_COLLECT,COLLECT
+ID_UI_COMING_SOON,COMING SOON
+ID_UI_CURRENT_RANK_LABEL,CURRENT RANK
+ID_UI_DAILY_LOGIN,DAILY LOGIN
+ID_UI_DAILY_REWARDS,DAILY REWARDS
+ID_UI_DAILYMISSIONS,DAILY OBJECTIVES
+ID_UI_DOES_NOT_MEET_CLAIM_CONDITION_DESC,You do not meet the requirements to claim this free offer.
+ID_UI_DOES_NOT_MEET_CLAIM_CONDITION_HEAD,Unable to claim
+ID_UI_FEATURED_CHAMPION,FEATURED CHARACTER
+ID_UI_FEATURED_SKIN,FEATURED COSTUME
+ID_UI_FIND_ME,FIND ME
+ID_UI_FINDER,FINDER
+ID_UI_FINDER_ARENA_ORB,Arena Orb
+ID_UI_FINDER_ARENA_SUPPLIES,Arena Supplies
+ID_UI_FINDER_BLITZ_ORB,Blitz Orb
+ID_UI_FINDER_BLITZ_SUPPLIES,Blitz Supplies
+ID_UI_FINDER_RAID_ORB,Raid Orb
+ID_UI_FINDER_RAID_SUPPLIES,Raid Supplies
+ID_UI_FINDER_ULTRA_ORB,Ultra Orb
+ID_UI_FINDER_ULTRA_SUPPLIES,Ultra Supplies
+ID_UI_FORUM,FORUM
+ID_UI_FREE_COST,Free
+ID_UI_GACHA_REVEAL,ORB CHAMBER
+ID_UI_GEAR,GEAR
+ID_UI_GET_ORBS,GET HEROES
+ID_UI_GET_CHARACTERS,GET CHARACTERS
+ID_UI_GET_HEROES,GET HEROES
+ID_UI_GET_VILLAINS,GET VILLAINS
+ID_UI_GO,GO
+ID_UI_HERO_NOT_OWNED,HERO NOT OWNED
+ID_UI_INBOX,INBOX
+ID_UI_KEEP_BATTLING_TO_UNLOCK,Keep battling to unlock
+ID_UI_LEADERBOARD,LEADERBOARD
+ID_UI_LEADERBOARDS,LEADERBOARDS
+ID_UI_LEADERBOARDS_TOTAL_SQUAD_POWER,Power Leaderboard
+ID_UI_LEADERBOARDS_RETRIEVING_DATA,RETRIEVING LEADERBOARD...
+ID_UI_LEADERBOARDS_NOT_QUALIFIED,NOT QUALIFIED
+ID_UI_LEVEL_UP_HEADLINE,LEVEL UP!
+ID_UI_LIMITED,LIMITED
+ID_UI_LIMITED_TIME_OFFER,LIMITED TIME OFFER
+ID_UI_MARK_ALL_AS_READ,MARK ALL AS READ
+ID_UI_READ_AND_CLAIM_ALL,READ & CLAIM ALL
+ID_UI_CLAIM_ALL_TITLE,CLAIMED REWARDS
+ID_UI_CLAIM_ALL_SUBTITLE,You've received the following:
+ID_UI_MAX_HERO_LEVEL_REACHED,MAX CHARACTER LEVEL REACHED
+ID_UI_MAX_HERO_LEVEL_REACHED_DESCRIPTION,Level up your Commander to unlock higher levels for your characters!
+ID_UI_MILESTONES_ARENA,BLITZ MILESTONES
+ID_UI_MILESTONES_EVENT,EVENT MILESTONES
+ID_UI_MILESTONES_NUMBER,MILESTONE {num}
+ID_UI_MISSIONS,FIGHT
+ID_UI_MORE,MORE
+ID_UI_MY_RANK,MY RANK:
+ID_UI_NEED_MORE_HEROES,"No other characters available. Collect additional characters in Campaign missions, through events, and by opening orbs."
+ID_UI_NEED_MORE_HEROES_TRAIT,"No other {trait} characters available. Collect additional characters in Campaign missions, through events, and by opening orbs."
+ID_UI_NEED_MORE_HEROES_BPFILTER,<color=#db8721>Filter On</color>\nNo other characters in filter. Disable/change Filter to see more.
+ID_UI_NEXT,NEXT
+ID_UI_NEXT_WITH_SYMBOL,NEXT >
+ID_UI_NODE_REFRESH_DESC,You have reached your daily limit for this node.\nThe daily limit will reset tomorrow.
+ID_UI_OPTIN_CANCEL,CANCEL
+ID_UI_OPTIN_CONFIRM,OPT IN
+ID_UI_OPTIN_CONFIRM_BODY,Hello Commander! Sign up for regular email updates and offers today and get a 1-Star Shocker and Gold Orb.
+ID_UI_OPTIN_CONFIRM_DESC,"Email sign-up requires a connected account.\nFirst, connect your account below. You will then be asked to opt in to emails and can claim your reward."
+ID_UI_OPTIN_CONFIRM_HEADLINE,Email Opt In
+ID_UI_OPTIN_CONFIRM_MORE,MORE
+ID_UI_OPTIN_HEADLINE_LINK,Connect Your Account
+ID_UI_OK,OK
+ID_UI_PLAYER_PROFILE,PLAYER PROFILE
+ID_UI_PREV_WITH_SYMBOL,< PREV
+ID_UI_RAID,ALLIANCE RAID
+ID_UI_RAIDS_GROUP_SELECTION,{group_name}
+ID_UI_RAIDS_TEAM_SELECTION,{raid_name} Team Select
+ID_UI_RANK,RANK
+ID_UI_RANK_UP,RANK UP
+ID_UI_READ,READ
+ID_UI_REVIVE_HEADLINE,GET BACK IN THE FIGHT!
+ID_UI_REWARD_MORE_TITLE,Guaranteed Items
+ID_UI_REWARDS,REWARDS
+ID_UI_REWARDS_ARENA,BLITZ REWARDS
+ID_UI_REWARDS_EVENT,REWARDS
+ID_UI_REWARDS_SUBHEADLINE,"Complete battles to earn PLAYER XP and collect shards, Power Cores, and other items."
+ID_UI_REWARDS_RAIDS_SUBHEADLINE,"Complete raid missions for a chance to earn Raid Credits, Gold, and Ability Materials."
+ID_UI_REWARDS_INSANITY_SUBHEADLINE,Congratulations! That was a hard fought battle!
+ID_UI_ROSTER,ROSTER
+ID_UI_SELECT_ARENA,BLITZ SELECTION
+ID_UI_SELECT_DESIRED_LEVEL,SELECT DESIRED LEVEL
+ID_UI_SELECT_EVENT,EVENT SELECTION
+ID_UI_SELECT_MISSION,SELECT MISSION
+ID_UI_SELECT_QUEST,MILESTONE SELECTION
+ID_UI_SELECT_ROSTER_FILTER,SELECT FILTER
+ID_UI_SELECT_SQUAD,SELECT SQUAD
+ID_UI_SELECT_AVAILABLE,Available Characters
+ID_UI_SELECT_LOCKED,Locked Characters
+ID_UI_SELECT_UNAVAILABLE,Unavailable Characters
+ID_UI_SELECT_REQUIRED,Required Characters
+ID_UI_SIM,AUTO WIN
+ID_UI_SIM_ATTEMPTS_REFRESH,ATTEMPTS REFRESH IN:
+ID_UI_SIM_ATTEMPTS_REMAINING,ATTEMPTS REMAINING:
+ID_UI_SIM_DESC,AUTO WIN to get rewards
+ID_UI_SIM_INFO,How many times would you like to simulate this mission to instantly get rewards?
+ID_UI_SIM_LIMIT_DESC,You have reached your daily AUTO WIN limit for this node.\nThe AUTO WIN limit will reset tomorrow.
+ID_UI_SIM_LIMIT_TITLE,LIMIT REACHED
+ID_UI_SIM_X,AUTO x{qty}
+ID_UI_SIM_NO_SIMS,NO SIMS
+ID_UI_SIM_COUNT,SIM {qty}/{total}
+ID_UI_SKIP,SKIP
+ID_UI_SPECIAL,OFFERS
+ID_UI_STORE,STORE
+ID_UI_STORE_HOME_BUTTON,SUPPLIES
+ID_UI_STORE_SCREEN_TITLE,STORE
+ID_UI_SUMMON_BTN,SUMMON
+ID_UI_SUMMON_OTHERS,OTHER SUMMONS
+ID_UI_SUMMON_HERO_SUMMON,{hero} SUMMON
+ID_UI_SUMMON_LOCKED_TITLE,LOCKED SUMMON
+ID_UI_SUMMON_LOCKED_MESSAGE,Increase the summoner's ability level to unlock this summon character.
+ID_UI_EMPOWER_HERO_EMPOWER,EMPOWERED {hero}
+ID_UI_SUPPLIES,SUPPLIES
+ID_UI_TAP_TO_REMOVE,TAP CHARACTER TO REMOVE
+ID_UI_TEAM_POWER,TEAM POWER
+ID_UI_TEAM_UP,TEAM UP
+ID_UI_TOP_PCT,TOP
+ID_UI_TOP_100,TOP 100
+ID_UI_TRAIN,TRAIN
+ID_UI_TRAINING,TRAINING
+ID_UI_TRAINING_HELP_TEXT,Tap to add XP. Tap and hold to add or remove multiples.
+ID_UI_TRAITS,TRAITS
+ID_UI_UNITS_STORE,THE UNITS STORE ....
+ID_UI_UNREAD,UNREAD
+ID_UI_UTC_TIME,UTC TIME
+ID_UI_YOU_OWN,You Own:
+ID_UI_NEED_TO_LEVEL_UP,Increase your player level to unlock this feature.
+ID_UI_FEATURE_LOCKED,FEATURE LOCKED
+ID_UI_CHALLENGE_LOCKED,CHALLENGE LOCKED
+ID_UI_CAMPAIGN_LOCKED,CAMPAIGN LOCKED
+ID_UI_MISSION_LOCKED,MISSION LOCKED
+ID_UI_CHAPTER_LOCKED,CHAPTER LOCKED
+ID_UI_FEATURE_PENDING,This feature will be unlocked at a later date.
+ID_UI_MISSION_CHAR_ONLY,ONLY MISSION CHARACTERS ALLOWED
+ID_UI_PLAY_WITH_MISSION_CHAR,PLAY WITH MISSION CHARACTERS
+ID_UI_MISSION_CHAR_ONLY_DESC,Characters from<color=#f7941d> your roster </color>are unavailable for this mission. Only mission-provided characters can be used.
+ID_UI_PLAY_WITH_MISSION_CHAR_DESC,This character is unavailable for this mission. Only mission-provided characters and available characters can be used.
+ID_UNLOCK_MISSION_TEASE,COMPLETE MISSION {mission} TO UNLOCK
+ID_UNLOCK_TEASE,KEEP PLAYING TO UNLOCK
+ID_UPGRADE,UPGRADE
+ID_USER_NUMBER,User {uid}
+ID_VAULT_TITLE,STORE FULL
+ID_VICTORY,VICTORY
+ID_VIP_LIMIT_REACHED,You have reached the daily limit of refreshes. Please try again tomorrow.
+ID_WAR_GO,Go to War
+ID_WAR_SELECTION_VAULT,WAR STORE
+ID_WAR_START,Start War
+ID_WP_POPUP_TITLE,Access Code
+ID_WP_REVEAL_BUTTON,Reveal
+ID_WP_REFRESH_BUTTON,Refresh
+ID_WP_CONNECT_BUTTON,GO TO BLOG
+ID_WP_PID_LABEL,Your PID:
+ID_WP_OTP_LABEL,Access Code:
+ID_WP_CONNECT_MSG_01,This temporary access code provides access to your account and should be treated like a password.
+ID_WP_CONNECT_MSG_TOS,Your use of this access code is subject to our <color=#07d1fd>Terms of Service.</color>
+ID_WP_CONNECT_STATUS_01,Retrieving account information...
+ID_WP_CONNECT_ERR_01,Unable to retrieve account information at this time. Please try again later.
+ID_XP,XP
+ID_YEAR_ABBR,{value}y
+ID_DAY_ABBR,{value}d
+ID_HOUR_ABBR,{value}h
+ID_MINUTE_ABBR,{value}m
+ID_SECOND_ABBR,{value}s
+ID_TIME_AM,AM
+ID_TIME_PM,PM
+ID_UI_TRUNCATE_ELLIPSE,...
+ID_FAILURE_TITLE,FAILURE
+ID_ARENA_MILESTONE_ENDING,ENDED
+ID_SQUAD_CANNOT_ADD,CANNOT ADD
+ID_EVENT_CAMPAIGN_AUTOWIN_UNLOCKED,AUTO WIN UNLOCKED
+ID_EVENT_CAMPAIGN_AUTOWIN_TIER_1,Clear a mission to\n<b><color=#ffffff>AUTO WIN</color></b> it on <color=#fff568>{tier0}</color>
+ID_EVENT_CAMPAIGN_AUTOWIN_TIER_2,Clear a mission to <b><color=#ffffff>AUTO WIN</color></b>\nit on <color=#fff568>{tier0}/{tier1}</color>
+ID_EVENT_CAMPAIGN_AUTOWIN_COLORIZED_VICTORY_1,<b><color=#0E86FFFF>AUTO WIN</color></b> unlocked for this mission on <color=#FFEA00FF>{tier0}</color>
+ID_EVENT_CAMPAIGN_AUTOWIN_COLORIZED_VICTORY_2,<b><color=#0E86FFFF>AUTO WIN</color></b> unlocked for this mission on <color=#FFEA00FF>{tier0}</color> and <color=#FFEA00FF>{tier1}</color>
+ID_EVENT_CAMPAIGN_TYPE_ANTMAN,ANT-MAN
+ID_EVENT_CAMPAIGN_TYPE_WASP,WASP
+ID_BONUS_REWARD_QUANTITY_LEFT,<size=45><i>{qty}</i></size>\n<size=40>left</size>
+ID_SIM_BONUS_ALL_COMPLETED,ALL BONUS REWARDS COLLECTED
+ID_SIM_BONUS_DROPS_LEFT,"BONUS DROPS LEFT: "
+ID_GEAR_TIER_COMING_SOON,"<color=""#F7941DFF"">Gear Tier {tier}</color> will be available soon."
+ID_IAP_OFFER_PURCHASES_LEFT_SINGULAR,{count} purchase left
+ID_IAP_OFFER_PURCHASES_LEFT_PLURAL,{count} purchases left
+ID_EVENT_CAMPAIGN_TYPE_ROCKET,ROCKET
+ID_STORE_CATEGORYNAME_OFFERS,OFFERS
+ID_STORE_CATEGORYNAME_ORBS,ORBS
+ID_STORE_CATEGORYNAME_SUPPLIES,SUPPLIES
+ID_STORE_CATEGORYNAME_POWERCORES,POWER CORES
+ID_STORE_CATEGORYNAME_SKINS,COSTUMES
+ID_STORE_NAME_MAIN,MAIN
+ID_STORE_NAME_BLITZ,BLITZ
+ID_STORE_NAME_RAID,RAID
+ID_STORE_NAME_ARENA,ARENA
+ID_STORE_NAME_WAR,WAR
+ID_STORE_NAME_ISO8,ISO-8
+ID_STORE_NAME_CONVERSION,ELITE
+ID_STORE_NAME_SHARD_CONVERSION,ULTRA
+ID_STORE_NAME_SYNC_PVP,VS ARENA
+ID_STORE_NAME_SKIN,COSTUMES
+ID_STORE_FREE,FREE
+ID_STORE_CONFIRM_SPEND,You are about to spend Power Cores! Are you sure you want to do this?
+ID_STORE_NO_OFFERS_FOUND,Check back later for more fantastic offers!
+ID_STORE_NO_ORBS_FOUND,No orbs are currently available. Please check back later!
+ID_STORE_NO_CORES_FOUND,No Power Cores are currently available. Please check back later!
+ID_STORE_NO_PRODUCTS_FOUND,No supplies are currently available. Please check back later!
+ID_STORE_NO_SKINS_FOUND,No costumes are currently featured. Please check back later!
+ID_EVENT_CAMPAIGN_TYPE_SW,SCARLET WITCH
+ID_EVENT_CAMPAIGN_TYPE_MM,MS. MARVEL
+ID_EVENT_CAMPAIGN_TYPE_ST,STORM
+ID_EVENT_CAMPAIGN_TYPE_VE,VENOM
+ID_NEW_PLAYER_FRAME_HEADLINE,NEW FRAME!
+ID_NEW_PLAYER_FRAME_SUBHEAD,You've unlocked a new frame!
+ID_NEW_PLAYER_FRAME_DESCRIPTION,This frame will be automatically applied to your avatar.
+ID_EVENT_CAMPAIGN_TYPE_JU,JUGGERNAUT
+ID_EVENT_CAMPAIGN_TYPE_SA,SABRETOOTH
+ID_EVENT_CAMPAIGN_TYPE_PY,PYRO
+ID_UI_LOCKED,LOCKED
+ID_SSQUADS_CREATE,CREATE
+ID_SSQUADS,SAVED SQUADS
+ID_SSQUADS_SUBTITLE,Your saved squads can be selected from the list below.
+ID_SSQUADS_EMPTY,Save additional squads on the Squad Select screen.
+ID_SSQUADS_REMAINING,[{remaining_slots}/{max_slots}] SLOTS AVAILABLE
+ID_SSQUADS_MANAGE,MANAGE
+ID_SSQUADS_MANAGE_SUBTITLE,Select the squads you wish to delete below.
+ID_SSQUADS_DONE,DONE
+ID_SSQUADS_DELETE,DELETE
+ID_SSQUADS_EDIT_SQUAD,EDIT
+ID_SSQUADS_SWITCH,SELECT
+ID_SSQUADS_SELECTED,SELECTED
+ID_SSQUADS_TEAM_POWER,TEAM POWER
+ID_SSQUADS_PURCHASE,Purchase 5 additional saved squad slots.
+ID_SSQUADS_MAX,MAXIMUM SLOTS REACHED
+ID_SSQUADS_MAX_SUBTITLE,You have reached the maximum number of Saved Squads. Please delete some of your existing squads in order to save.
+ID_SSQUADS_SLOTS,NO MORE SLOTS AVAILABLE
+ID_SSQUADS_SLOTS_SUBTITLE,You are out of saved squad slots. Please delete some of your existing squads or purchase 5 additional slots.
+ID_SSQUADS_CLOSE,YOUR CHANGES HAVE NOT BEEN SAVED
+ID_SSQUADS_CLOSE_SUBTITLE,Do you want to save before exiting?
+ID_SSQUADS_DISABLED,SAVED SQUADS DISABLED
+ID_SSQUADS_DISABLED_SUBTITLE,The Saved Squad function is disabled for this mission. Only mission-provided characters can be used.
+ID_SSQUADS_DISABLED_WAR_SUBTITLE,The Saved Squad function is disabled for teams with guard characters.
+ID_SSQUADS_CHARACTER," THIS CHARACTER IS NOT ALLOWED"
+ID_SSQUADS_CHARACTER_SUBTITLE,Only characters that meet the requirement(s) for this mission are allowed.
+ID_SSQUADS_SQUAD,THIS SQUAD IS NOT ALLOWED
+ID_SSQUADS_SQUAD_SUBTITLE,Only characters that meet the requirement(s) for this mission are allowed.
+ID_SSQUADS_UNSAVED_CHANGES,UNSAVED CHANGES
+ID_SSQUADS_UNSAVED_CHANGES_SUBTITLE,You have unsaved changes to this squad. Are you sure you want to leave?
+ID_SQUAD_SAVED,SQUAD SAVED
+ID_SQUAD_EMPTY,NO CHARACTERS TO SAVE
+ID_SQUAD_EMPTY_SUBTITLE,Please add at least one character to the squad
+ID_SQUAD_DELETE_TOAST,SQUAD DELETED
+ID_SQUAD_DELETE_TOAST_PLURAL,SQUADS DELETED
+ID_SQUAD_FILTER,FILTER
+ID_SQUAD_SAVE,SAVE
+ID_SAVED_SQUAD_ACCESS,You have unlocked Saved Squads!
+ID_SQUAD_FORMATION_SAVED,SQUAD FORMATION SAVED
+ID_SQUAD_FORMATION_SAVED_SUBTITLE,You already saved this squad formation.
+ID_DROPRATE_RED_STARS_TITLE,Red Star Promotion
+ID_M_CRATE_PROMOTION_LINE_DESC,{count} - Red Star Promotion
+ID_REDSTAR_CONVERSION_TITLE,Duplicate Red Star
+ID_REDSTAR_CONVERSION_MESSAGE,Duplicate Red Stars converted into <color=#ffffff><i>ELITE {num} CREDITS</i></color>.  Collect enough to open an <color=#ffffff><i>ELITE {num} STAR ORB</i></color>.
+ID_REDSTAR_BOOST_POPUP_TITLE,Red Star Promotions
+ID_REDSTAR_BOOST_POPUP_DESC,"Red Stars boost Health, Damage, Armor, Focus, and Resistance."
+ID_REDSTAR_BOOST_POPUP_HEADER_L,<color=#fff568><i>RED STARS</i></color>
+ID_REDSTAR_BOOST_POPUP_HEADER_R,<color=#fff568><i>TOTAL BONUS</i></color>
+ID_HERONOTIFY_PROMOTE_MESSAGE,You've earned a new Red Star Promotion for {name}!
+ID_PROMOTE,PROMOTE
+ID_FINDER_BANNER_SHARD,Character Shards
+ID_FINDER_BANNER_STAR_PROMOTION,Red Star Promotions
+ID_DROPRATE_ELEMENT_DROP_REDSTAR_TITLE,{num} - RED STAR PROMOTION
+ID_STAR_PROMOTION_DESCRIPTION_SINGULAR,"Red Stars boost Health, Damage, Armor, Focus, and Resistance.\n\n<color=#ffff00>{stars} Red Star boosts stats by +{boost_value}%.</color>\n\nFill in empty Red Stars by ranking up."
+ID_STAR_PROMOTION_DESCRIPTION_PLURAL,"Red Stars boost Health, Damage, Armor, Focus, and Resistance.\n\n<color=#ffff00>{stars} Red Stars boost stats by +{boost_value}%.</color>\n\nFill in empty Red Stars by ranking up."
+ID_STAR_PROMOTION_ACHIEVEMENT,Red Star Promotions Unlocked
+ID_REDSTAR_ACCESS,You have unlocked Red Star Promotions!
+ID_REDSTAR_CONVERSION_UPGRADE_HEADER,Red Star Upgraded
+ID_REDSTAR_CONVERSION_UPGRADE_MESSAGE,Upgraded Red Stars converted into <color=#ffffff><i>ELITE {num} CREDITS</i></color>.  Collect enough to open an <color=#ffffff><i>ELITE {num} STAR ORB</i></color>.
+ID_REDSTAR_POPUP_DESC_UNLOCK,Red Star Promotions unlock at level 42.
+ID_SQUAD_SAVE_AND_EXIT,SAVE & EXIT
+ID_SUBSCRIPTION_CALENDAR_DISCLAIMER,"With this subscription, you will receive 120 Campaign Energy every day for as long as you are subscribed, even if you miss a day! When you sign up, payment will be charged to your account at confirmation of purchase. Your subscription will auto-renew unless turned off at least 24 hours prior to the end of the current period, at which point your account will be charged for renewal within 24 hours. After purchase, you can manage your subscriptions in your account settings."
+ID_PLAYER_PROFILE_LOADING,Loading Player Information
+ID_UI_FINDER_WAR_ORB,War Orb
+ID_UI_FINDER_WAR_SUPPLIES,War Supplies
+ID_UI_FINDER_CONVERSION_SUPPLIES,Elite Supplies
+ID_UI_FINDER_ISO_SUPPLIES,Iso-8 Supplies
+ID_UI_FINDER_GT_SUPPLIES,Crucible Supplies
+ID_UI_DETAILS,Details
+ID_EVENT_CAMPAIGN_TYPE_USP,SPIDER-MAN (MILES)
+ID_EVENT_CAMPAIGN_TYPE_WM,WAR MACHINE
+ID_RESOURCE_REFILLED_REMAINING,REFILLS REMAINING <color=#ffffff>: </color><color={colorHex}>{count}</color>
+ID_EVENT_CAMPAIGN_TYPE_KR,KREE
+ID_UI_CONTRIBUTIONS,PARTICIPATION
+ID_EVENT_REWARDS,REWARDS
+ID_EVENT_REWARDS_DESC,Leaderboard rank determines rewards
+ID_EVENT_CAMPAIGN_TYPE_FA,FALCON
+ID_EVENT_CAMPAIGN_TYPE_PSY,PSYLOCKE
+ID_EVENT_CAMPAIGN_TYPE_SIX,SINISTER SIX
+ID_EVENT_CAMPAIGN_TYPE_FF,FANTASTIC FOUR
+ID_EVENT_CAMPAIGN_TYPE_EL,ELSA BLOODSTONE
+ID_EVENT_CAMPAIGN_TYPE_CRY,CRYSTAL
+ID_EVENT_CAMPAIGN_TYPE_BT,BLOB AND TOAD
+ID_EVENT_CAMPAIGN_TYPE_BLACKORDER,BLACK ORDER
+ID_EVENT_CAMPAIGN_TYPE_TASKMASTER,TASKMASTER
+ID_EVENT_CAMPAIGN_TYPE_DOMINO,DOMINO
+ID_EVENT_CAMPAIGN_TYPE_SQUIRREL,SQUIRREL GIRL
+ID_EVENT_CAMPAIGN_TYPE_SWARM,SWARM
+ID_EVENT_CAMPAIGN_TYPE_SCREAM,SCREAM
+ID_EVENT_CAMPAIGN_TYPE_STATURE,STATURE
+ID_EVENT_CAMPAIGN_TYPE_SHATTERSTAR,SHATTERSTAR
+ID_EVENT_CAMPAIGN_TYPE_WHITETIGER,WHITETIGER
+ID_EVENT_CAMPAIGN_TYPE_MULTIPLEMAN,MULTIPLEMAN
+ID_EVENT_CAMPAIGN_TYPE_KESTREL,KESTREL
+ID_EVENT_CAMPAIGN_TYPE_PHYLAVELL,PHYLAVELL
+ID_EVENT_CAMPAIGN_TYPE_SHARONCARTER,SHARONCARTER
+ID_EVENT_CAMPAIGN_TYPE_DEATHPOOL,DEATHPOOL
+ID_EVENT_CAMPAIGN_TYPE_SILVERSAMURAI,SILVER SAMURAI
+ID_EVENT_CAMPAIGN_TYPE_SERSI,SERSI
+ID_EVENT_CAMPAIGN_TYPE_SPIDERPUNK,SPIDER-PUNK
+ID_EVENT_CAMPAIGN_TYPE_DOCTORVOODOO,DOCTOR VOODOO
+ID_EVENT_CAMPAIGN_TYPE_STRANGESUPREME,HEARTLESS
+ID_EVENT_CAMPAIGN_TYPE_FANTOMEX,FANTOMEX
+ID_EVENT_CAMPAIGN_TYPE_VALKYRIE,VALKYRIE
+ID_OFFER_AND,AND
+ID_OFFER_OR,OR
+ID_CHAL_UNLOCK,UNLOCK
+ID_EVENT_CAMPAIGN_TYPE_MRFAN,MISTER FANTASTIC
+ID_EVENT_CAMPAIGN_TYPE_AS,HEIMDALL
+ID_OFFER_DAYS,{qty} Days
+ID_OFFER_SERIAL,>>
+ID_OFFER_MOREINFO,Tap here for more information!
+ID_GEAR_MATERIAL_MISSING_DESC,More of this material is required to craft <color=#fff568>{name}</color>
+ID_GEAR_MATERIAL_MISSING_COUNT,Total Needed\n<color=#ff0000>{count}</color><color=#c9cdf2>/{req}</color>
+ID_MAX_VALUE,{value}+
+ID_EVENT_CAMPAIGN_TYPE_MEC_FA_WS,FALCON AND WINTER SOLDIER
+ID_GENERAL_BATTLEPASS_ACCESS,You have unlocked the S.T.R.I.K.E. Pass!
+ID_UI_PURCHASE,PURCHASE
+ID_UI_EQUIPPED,EQUIPPED
+ID_UI_UNEQUIPPABLE,UNEQUIPPABLE
+ID_UI_UNAVAILABLE,UNAVAILABLE
+ID_UI_PURCHASE_SKIN_DESC,Would you like to purchase this Costume?
+ID_UI_LONG_LOCKED_DESC_ARENA,Earn Power Cores and Arena Credits by battling other Commanders' teams and climbing the Arena Ranks.
+ID_UI_LONG_LOCKED_DESC_CHALLENGES,Stock up on vital resources by defeating escalating daily challenges that test your roster and your skill. Come back daily to collect your rewards!
+ID_UI_LONG_LOCKED_DESC_MILESTONES,"Earn resources by spending Energy, Gold, and playing the game with your alliance. Look out for limited-time events with boosted rewards and unique items."
+ID_UI_LONG_LOCKED_DESC_EVENTS,"Be on the lookout for limited-time opportunities to earn new characters, important resources, boosted rewards, and exclusive deals."
+ID_UI_LONG_LOCKED_DESC_BLITZ,"Earn character shards, Gold, and other resources by battling enemies based on your team power. More powerful teams earn more points, and more rewards."
+ID_UI_LONG_LOCKED_DESC_ALLIANCE,"Choose an Alliance that regularly participates in Raids, Alliance War, and special events to boost your weekly rewards and progress."
+ID_UI_LONG_LOCKED_DESC_WAR,"Utilize your entire Roster in this high stakes Alliance vs Alliance showdown. Blow up Helicarrier rooms and win the war to earn ability materials, gear, and other rewards."
+ID_UI_LONG_LOCKED_DESC_RAIDS,Battle a gauntlet of enemies with your Alliance to earn Ability materials and resources to help power up your roster. Harder difficulties have bigger rewards.
+ID_UI_LONG_LOCKED_DESC_DARKDIMENSION,"Turn back now, Commander! Only the strongest will survive these ultra powerful enemies. But your efforts will be greatly rewarded: Gold, gear, and unique characters: Ultron & Doctor Doom!"
+ID_UI_LONG_LOCKED_DESC_RTA,Fight against other Commanders in real-time battles for big rewards. Be on the lookout for the start of Mojo's Mayhem Seasons for even more rewards!
+ID_UI_COMMUNITY,COMMUNITY
+ID_UI_TWITTER_URL,https://app.adjust.net.in/my0mwg7_cju6lkv?label=twitter&redirect=https%3A%2F%2Fwww.twitter.com%2FMarvelStrikeF
+ID_UI_FACEBOOK_URL,https://app.adjust.net.in/4g6r1fq_h58hbge?redirect=https%3A%2F%2Fwww.facebook.com%2FMarvelStrikeForce
+ID_UI_YOUTUBE_URL,https://app.adjust.net.in/tyi2n81_3l2rshy?redirect=https%3A%2F%2Fwww.youtube.com%2Fmarvelstrikeforce
+ID_UI_INSTAGRAM_URL,https://app.adjust.net.in/9jqpfwu_6dt81yp?redirect=https%3A%2F%2Fwww.instagram.com%2Fmarvelstrikeforce%2F
+ID_UI_DISCORD_URL,https://app.adjust.net.in/mfgo61o_w7d6dio?label=discord&redirect=https%3A%2F%2Fdiscord.gg%2Fmarvelstrikeforce
+ID_EVENT_CURRENCY_UNLOCK_MESSAGE,The Event Store is currently locked
+ID_UI_WATCH,WATCH
+ID_UI_ENTERNOW,ENTER NOW
+ID_SSQUADS_CATEGORY_DEFAULT_CATEGORY,SAVED SQUADS: ROSTER
+ID_SSQUADS_CATEGORY_BATTLEGROUNDS,SAVED SQUADS: ARENA
+ID_SSQUADS_CATEGORY_PVP,SAVED SQUADS: BLITZ
+ID_SSQUADS_CATEGORY_RAIDS,SAVED SQUADS: RAIDS
+ID_SSQUADS_CATEGORY_AVA,SAVED SQUADS: WAR
+ID_SSQUADS_CATEGORY_INSANITY,SAVED SQUADS: DARK DIMENSION
+ID_SSQUADS_CATEGORY_TOWER_MODE,SAVED SQUADS: TOWER MODE
+ID_SSQUADS_CATEGORY_GRAND_TOURNAMENT,SAVED SQUADS: COSMIC CRUCIBLE
+ID_SSQUADS_MANAGE_DEFAULT_CATEGORY,MANAGE: ROSTER
+ID_SSQUADS_MANAGE_BATTLEGROUNDS,MANAGE: ARENA
+ID_SSQUADS_MANAGE_PVP,MANAGE: BLITZ
+ID_SSQUADS_MANAGE_RAIDS,MANAGE: RAIDS
+ID_SSQUADS_MANAGE_AVA,MANAGE: WAR
+ID_SSQUADS_MANAGE_INSANITY,MANAGE: DARK DIMENSION
+ID_SSQUADS_MANAGE_TOWER_MODE,MANAGE: TOWER MODE
+ID_SSQUADS_MANAGE_GRAND_TOURNAMENT,MANAGE: COSMIC CRUCIBLE
+ID_SSQUADS_COPY,COPY
+ID_SSQUADS_PASTE,PASTE
+ID_SSQUADS_ALL,ALL
+ID_SSQUADS_PASTE_SQUADS,Not Enough Space
+ID_SSQUADS_PASTE_SQUADS_TOO_MANY_SQUADS,The number of copied teams is greater than the available space in {gamemode}.\nDelete teams to make more room and try again
+ID_SSQUADS_DELETE_CONFIRM_TITLE,Confirm Delete
+ID_SSQUADS_DELETE_CONFIRM_BODY,Delete {num} Selected Items?
+ID_SSQUADS_COPY_FLOATER,COPIED
+ID_SSQUADS_PASTE_FLOATER,PASTED
+ID_SSQUADS_DELETE_FLOATER,DELETED
+ID_SSQUADS_CREATE_UNAVAILABLE_TITLE,Create Unavailable
+ID_SSQUADS_CREATE_UNAVAILABLE_BODY,"To use the Create function, enter Saved Squads via the Roster Filter Panel"
+ID_MINSPEC_NA_MINSPEC_IOS11,Minimum Device Requirement
+ID_MINSPEC_BO_MINSPEC_IOS11,"As of February 1, 2022, the operating system on your device will no longer be supported. Please upgrade to iOS 11 or higher to avoid disruptions in your MARVEL Strike Force experience. For more information, please visit www.marvelstrikeforce.com."
+ID_MINSPEC_NA_MINSPEC_2GB_RECOMMENDED,Device Memory Notice
+ID_MINSPEC_BO_MINSPEC_2GB_RECOMMENDED,"Your available RAM is not optimal for playing MARVEL Strike Force and you may experience performance issues. We recommend devices with at least 2GB of RAM. For more information, please visit www.marvelstrikeforce.com."
+ID_OPTIONS_AUTOPLAY_IDLE_RAIDS,Combat inactivity triggers Autoplay in Raids after {idleThresholdSeconds} seconds
+ID_OPTIONS_AUTOPLAY_BASIC_ONLY_IDLE_RAIDS,"When triggering Autoplay from inactivity (in Raids), use Basic-Only Autoplay"
+ID_OPTIONS_AUTOPLAY_IDLE_BATTLEGROUNDS,Combat inactivity triggers Autoplay in Arena after {idleThresholdSeconds} seconds
+ID_OPTIONS_AUTOPLAY_IDLE_AVA,Combat inactivity triggers Autoplay in War after {idleThresholdSeconds} seconds
+ID_CAMPAIGN_FTR_REWARDS_INCLUDED,Includes First Time Rewards from Hard
+ID_SELECT_GT_MESSAGE,EACH CHARACTER CAN BE USED ONLY <color=#fff568>ONCE</color> TO ATTACK
+ID_UI_COPY,Copy
+ID_UI_PASTE,Paste
+ID_UI_SELECT_ALL,Select All
+ID_UI_CUT,Cut
+ID_UI_REPLACE,Replace

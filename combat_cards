@@ -1,0 +1,122 @@
+id,translation
+ID_SCOURGE_SET_NAME,Scourge Set
+ID_MORGANLEFAY_DECK_NAME,Morgan Le Fay Deck
+ID_ROGUE_DECK_NAME,Rogue Deck
+ID_SCOURGE_CARD_001_NAME,Unkillable
+ID_SCOURGE_CARD_001_DESC,"When An Enemy Drops Below <color=#86e619>{pass.below_health.proc.DeathproofSelfAt50.combat_mods.extra_abilities.passive.0.exec_value}%</color> Health, They Gain <color=#fff568>Deathproof</color>"
+ID_SCOURGE_CARD_002_NAME,Dark Resolve I
+ID_SCOURGE_CARD_002_DESC,"On Enemy Death, Remaining Enemies Gain <color=#fff568>Defense Up</color>"
+ID_SCOURGE_CARD_003_NAME,Back in the Fight
+ID_SCOURGE_CARD_003_DESC,"When An Enemy Is Healed, They Gain <color=#fff568>Deflect</color>"
+ID_SCOURGE_CARD_004_NAME,Fool Me Twice
+ID_SCOURGE_CARD_004_DESC,"When An Enemy Takes Damage, They Gain <color=#fff568>Speed-Up</color> For <color=#86e619>+{pass.on_attacked.proc.SpeedUpSelf.combat_mods.extra_abilities.passive.0.actions.0.procs.0.use_count}</color> Turns"
+ID_SCOURGE_CARD_005_NAME,Strong Opener
+ID_SCOURGE_CARD_005_DESC,"On Spawn, Enemies Gain <color=#fff568>Immunity</color>"
+ID_SCOURGE_CARD_006_NAME,Dark Resolve II
+ID_SCOURGE_CARD_006_DESC,"On Enemy Death, Enemies Gain <color=#fff568>Immunity</color> and <color=#fff568>Regeneration</color>"
+ID_SCOURGE_CARD_007_NAME,Resolute Foe
+ID_SCOURGE_CARD_007_DESC,"When <color=#86e619>1</color> Non-Summoned Enemy Character Remains In Play, They Gain <color=#fff568>Deathproof</color>, <color=#fff568>Defense Up</color>, <color=#fff568>Deflect</color>, <color=#fff568>Evade</color>, <color=#fff568>Immunity</color>, <color=#fff568>Regeneration</color> for <color=#86e619>+{pass.on_kill_other.proc.OnOneEnemyRemainApplyProcs.combat_mods.extra_abilities.passive.0.actions.0.procs.0.use_count}</color> Turns"
+ID_SCOURGE_CARD_008_NAME,Too Clever
+ID_SCOURGE_CARD_008_DESC,"When A Player Character Uses Their Special, They Gain <color=#fff568>Ability Block</color>"
+ID_SCOURGE_CARD_009_NAME,Bleeder
+ID_SCOURGE_CARD_009_DESC,"When A Player Character Takes Damage, They Gain <color=#fff568>Bleed</color>"
+ID_SCOURGE_CARD_010_NAME,Blinded by Power
+ID_SCOURGE_CARD_010_DESC,"When A Player Character Uses Their Ultimate, They Gain <color=#fff568>Blind</color>"
+ID_SCOURGE_CARD_011_NAME,Devil's Bargain II
+ID_SCOURGE_CARD_011_DESC,"When A Player Character Gains Ability Energy, They Gain <color=#fff568>Defense Down</color>"
+ID_SCOURGE_CARD_012_NAME,Weak Opener
+ID_SCOURGE_CARD_012_DESC,"On Spawn, Apply <color=#fff568>Disrupted</color> to Player Characters"
+ID_SCOURGE_CARD_013_NAME,No Help Coming
+ID_SCOURGE_CARD_013_DESC,"On Turn, Apply <color=#86e619>{pass.on_turn.proc.HealBlockSelf.combat_mods.extra_abilities.passive.0.actions.0.procs.0.use_count}</color> <color=#fff568>Healblocks</color> to Player Characters"
+ID_SCOURGE_CARD_014_NAME,Devil's Bargain III
+ID_SCOURGE_CARD_014_DESC,"When A Player Character Gains A Positive Effect, Apply <color=#fff568>Offense Down</color>"
+ID_SCOURGE_CARD_015_NAME,The End is Near
+ID_SCOURGE_CARD_015_DESC,"When A Player Character's Health Drops Below <color=#86e619>{pass.below_health.proc.TraumaSelf.combat_mods.extra_abilities.passive.0.exec_value}%</color> Max Health, Apply <color=#fff568>Trauma</color> To Them"
+ID_SCOURGE_CARD_016_NAME,Not So Fast...
+ID_SCOURGE_CARD_016_DESC,"When A Player Character Gains Ability Energy, Apply <color=#fff568>Slow</color> To Them"
+ID_SCOURGE_CARD_017_NAME,Pyrrhic Victory
+ID_SCOURGE_CARD_017_DESC,"When A Player Character Blocks, Apply <color=#fff568>Stun</color> To Them"
+ID_SCOURGE_CARD_018_NAME,I See You
+ID_SCOURGE_CARD_018_DESC,"When A Player Character Gains <color=#fff568>Stealth</color>, They Gain <color=#fff568>Taunt</color>"
+ID_SCOURGE_CARD_019_NAME,Dark Rally
+ID_SCOURGE_CARD_019_DESC,"When A Player Character Uses Their Ultimate Ability, All Enemies Gain <color=#86e619>{pass.on_ability_used.abilityenergy.UltimateGrantEnergyEnemies.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Ability Energy"
+ID_SCOURGE_CARD_020_NAME,Gloating
+ID_SCOURGE_CARD_020_DESC,"When Any Player Character Dies, Enemies Gain <color=#86e619>{pass.on_death.abilityenergy.GainEnergyOnEnemyDeath.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Ability Energy"
+ID_SCOURGE_CARD_021_NAME,Whole Latte Power
+ID_SCOURGE_CARD_021_DESC,Enemies Generate <color=#86e619>{pass.on_gain_energy.abilityenergy.GainExtraEnergy.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Additional Ability Energy Each Time They Generate Ability Energy
+ID_SCOURGE_CARD_022_NAME,Power Fatigue II
+ID_SCOURGE_CARD_022_DESC,Player Character Special Abilities Cost <color=#86e619>{st.special_energycost_mod.1.combat_mods.session_stats.0.Stats.0.val}</color> More Ability Energy
+ID_SCOURGE_CARD_023_NAME,Power Fatigue I
+ID_SCOURGE_CARD_023_DESC,Player Character Ultimate Abilities Cost <color=#86e619>{st.ultimate_energycost_mod.1.combat_mods.session_stats.0.Stats.0.val}</color> More Ability Energy
+ID_SCOURGE_CARD_024_NAME,Weakened
+ID_SCOURGE_CARD_024_DESC,Player Character Healing Is Reduced By <color=#86e619>{st.health_gain_mod.-20.combat_mods.session_stats.0.Stats.0.val}%</color>
+ID_SCOURGE_CARD_025_NAME,Quality Minions
+ID_SCOURGE_CARD_025_DESC,Summoned Enemies Gain +<color=#86e619>{st.summoned_max_hp_base_pct.20.combat_mods.session_stats.0.Stats.0.val}%</color> Max Health
+ID_SCOURGE_CARD_026_NAME,Late For Work
+ID_SCOURGE_CARD_026_DESC,A Random Player Character Is Delayed From Spawning Until One Player Character Dies
+ID_SCOURGE_CARD_027_NAME,Phoenix Stays in Ashes
+ID_SCOURGE_CARD_027_DESC,Player Characters Can Not Revive
+ID_SCOURGE_CARD_028_NAME,Poisoned Energy II
+ID_SCOURGE_CARD_028_DESC,"When A Player Character Gains Ability Energy, Apply <color=#fff568>Defense Down</color> For +<color=#86e619>1</color> Turn Per Ability Energy Gained"
+ID_SCOURGE_CARD_029_NAME,Poisoned Energy I
+ID_SCOURGE_CARD_029_DESC,"When A Player Character Gains Ability Energy, Each Enemy Deals <color=#86e619>{pass.on_gain_energy.attack.80PiercingDamageToEnemyOnEnemyEnergyGain.combat_mods.extra_abilities.passive.0.actions.0.stat_modifier.1.delta}%</color> Piercing Damage To Them"
+ID_SCOURGE_CARD_030_NAME,NYI Out of Control
+ID_SCOURGE_CARD_030_DESC,Player Cannot Field Controllers
+ID_SCOURGE_CARD_031_NAME,Rubber
+ID_SCOURGE_CARD_031_DESC,Player Characters Take <color=#86e619>{st.damagedone_reflect_pct.20.combat_mods.session_stats.0.Stats.0.val}%</color> Of The Damage They Deal
+ID_SCOURGE_CARD_032_NAME,Experimental Serum
+ID_SCOURGE_CARD_032_DESC,Enemies Gain +<color=#86e619>{st.max_hp_pct.10.combat_mods.session_stats.0.Stats.0.val}%</color> Max Health
+ID_SCOURGE_CARD_033_NAME,Experimental Serum II
+ID_SCOURGE_CARD_033_DESC,Enemies Gain +<color=#86e619>{st.max_hp_pct.20.combat_mods.session_stats.0.Stats.0.val}%</color> Max Health
+ID_SCOURGE_CARD_034_NAME,Experimental Serum III
+ID_SCOURGE_CARD_034_DESC,Enemies Gain +<color=#86e619>{st.max_hp_pct.30.combat_mods.session_stats.0.Stats.0.val}%</color> Max Health
+ID_SCOURGE_CARD_035_NAME,NYI Time Damping
+ID_SCOURGE_CARD_035_DESC,All Turn Meter Modifications Are Reduced By <color=#86e619>{st.turnmeter_decrease_mod_pct.50.combat_mods.session_stats.0.Stats.0.val}%</color>
+ID_SCOURGE_CARD_036_NAME,Vile Resurgence
+ID_SCOURGE_CARD_036_DESC,"On Enemy Turn, They Gain <color=#fff568>Offense Up</color>"
+ID_SCOURGE_CARD_037_NAME,Vile Tribute
+ID_SCOURGE_CARD_037_DESC,"On Enemy Death, They Gain <color=#fff568>Offense Up</color>"
+ID_SCOURGE_CARD_038_NAME,Vile Rally
+ID_SCOURGE_CARD_038_DESC,"On Enemy Death, Clear All Negative Effects From Enemies"
+ID_SCOURGE_CARD_039_NAME,Vile Revenge
+ID_SCOURGE_CARD_039_DESC,"On Enemy Death, Clear All Positive Effects From Player Characters"
+ID_SCOURGE_CARD_FREEPOINTS_NAME,<color=#9e0b0f>[FREE POINTS]</color>
+ID_SCOURGE_CARD_FREEPOINTS_DESC,[This Scourge does <color=#9e0b0f>not currently work</color>. Add this Scourge to earn additional free points]
+ID_SCOURGE_CARD_040_NAME,Quality Minions II
+ID_SCOURGE_CARD_040_DESC,Summoned Enemies Gain +<color=#86e619>{st.summoned_max_hp_base_pct.100.HorsemenRogue.combat_mods.session_stats.0.Stats.0.val}%</color> Max Health
+ID_SCOURGE_CARD_058_NAME,Experimental Serum IV
+ID_SCOURGE_CARD_058_DESC,Enemies Gain +<color=#86e619>{st.max_hp_pct.40.HorsemenRogue.combat_mods.session_stats.0.Stats.0.val}%</color> Max Health
+ID_SCOURGE_CARD_065_NAME,Speed Boost
+ID_SCOURGE_CARD_065_DESC,"On Spawn, fill Speed Bar for all Enemies by +<color=#86e619>{pass.on_start.turn_meter.TurnMeterOnSpawn.HorsemenRogue.combat_mods.extra_abilities.passive.0.actions.0.change_pct}%</color>"
+ID_SCOURGE_CARD_066_NAME,Going Rogue
+ID_SCOURGE_CARD_066_DESC,"When a Positive Effect Is Applied To Enemies, Increase The Duration Of All Positive Effects On That Enemy By <color=#86e619>{pass.on_buffed.proc_duration.IncreaseAllPosProcs.HorsemenRogue.combat_mods.extra_abilities.passive.0.actions.0.delta}</color>, Up To A Max Of <color=#86e619>{pass.on_buffed.proc_duration.IncreaseAllPosProcs.HorsemenRogue.combat_mods.extra_abilities.passive.0.actions.0.max_duration}</color>. When A Negative Effect Is Applied To Player Character, Increase The Duration Of All Negative Effects On That Character By <color=#86e619>{pass.on_debuffed.proc_duration.IncreaseAllNegProcs.HorsemenRogue.combat_mods.extra_abilities.passive.0.actions.0.delta}</color>, Up To A Max Of <color=#86e619>{pass.on_debuffed.proc_duration.IncreaseAllNegProcs.HorsemenRogue.combat_mods.extra_abilities.passive.0.actions.0.max_duration}</color>"
+ID_SCOURGE_CARD_067_NAME,Off Balance
+ID_SCOURGE_CARD_067_DESC,"When A Player Character Gains <color=#fff568>Offense Up</color> Or <color=#fff568>Defense Up</color>, Apply <color=#fff568>Heal Block</color> To Them"
+ID_SCOURGE_CARD_068_NAME,Power Syphon I
+ID_SCOURGE_CARD_068_DESC,Enemies Gain +<color=#86e619>{st.drain_pct.5.HorsemenRogue.combat_mods.session_stats.0.Stats.0.val}%</color> Drain
+ID_SCOURGE_CARD_069_NAME,Power Syphon II
+ID_SCOURGE_CARD_069_DESC,Enemies Gain +<color=#86e619>{st.drain_pct.20.HorsemenRogue.combat_mods.session_stats.0.Stats.0.val}%</color> Drain
+ID_SCOURGE_CARD_070_NAME,Gloves Off
+ID_SCOURGE_CARD_070_DESC,"On Enemy Turn, Steal <color=#86e619>{pass.on_turn.health_redistribute.HorsemenRogue.combat_mods.extra_abilities.passive.0.actions.0.drain_pct}%</color> Health From Lowest Health Player Character"
+ID_SCOURGE_CARD_071_NAME,Stay Down
+ID_SCOURGE_CARD_071_DESC,"On A Player Character's Turn, Remove <color=#fff568>Revive Once</color> From That Character"
+ID_GAMBIT_MOD_001_NAME,Deuces Wild
+ID_GAMBIT_MOD_001_DESC,"When An Enemy Takes Damage, They Gain <color=#fff568>Speed-Up</color> For <color=#86e619>+{pass.on_attacked.proc.SpeedUpSelf.combat_mods.extra_abilities.passive.0.actions.0.procs.0.use_count}</color> Turns"
+ID_GAMBIT_MOD_002_NAME,Hold'em
+ID_GAMBIT_MOD_002_DESC,"When A Player Character Uses Their Special, They Gain <color=#fff568>Ability Block</color>"
+ID_GAMBIT_MOD_003_NAME,Highball
+ID_GAMBIT_MOD_003_DESC,"When A Player Character Uses Their Ultimate, They Gain <color=#fff568>Blind</color>"
+ID_GAMBIT_MOD_004_NAME,Dealer's Choice
+ID_GAMBIT_MOD_004_DESC,"On Spawn, Apply <color=#fff568>Disrupted</color> to Player Characters"
+ID_GAMBIT_MOD_005_NAME,Bets Are Off
+ID_GAMBIT_MOD_005_DESC,"When A Player Character Blocks, Apply <color=#fff568>Stun</color> To Them"
+ID_GAMBIT_MOD_006_NAME,Open Raise
+ID_GAMBIT_MOD_006_DESC,"When A Player Character Gains <color=#fff568>Stealth</color>, They Gain <color=#fff568>Taunt</color>"
+ID_GAMBIT_MOD_007_NAME,Aces Up
+ID_GAMBIT_MOD_007_DESC,"When A Player Character Uses Their Ultimate Ability, All Enemies Gain <color=#86e619>{pass.on_ability_used.abilityenergy.UltimateGrantEnergyEnemies.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Ability Energy"
+ID_GAMBIT_MOD_008_NAME,Bad Bet
+ID_GAMBIT_MOD_008_DESC,"When Any Player Character Dies, Enemies Gain <color=#86e619>{pass.on_death.abilityenergy.GainEnergyOnEnemyDeath.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Ability Energy"
+ID_GAMBIT_MOD_009_NAME,Royal Flush
+ID_GAMBIT_MOD_009_DESC,Enemies Generate <color=#86e619>{pass.on_gain_energy.abilityenergy.GainExtraEnergy.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Additional Ability Energy Each Time They Generate Ability Energy
+ID_GAMBIT_MOD_010_NAME,Up The Ante
+ID_GAMBIT_MOD_010_DESC,All Enemy Special And Ultimate Ablities Have A Reduced Energy Cost Of <color=#86e619>-1</color>

@@ -1,0 +1,1341 @@
+id,translation
+ID_CHAL_COMPLETE,COMPLETED
+ID_CHAL_COMPLETED,COMPLETED
+ID_CHAL_NO_MORE_ATTEMPTS,NO MORE ATTEMPTS AVAILABLE
+ID_CHAL_GO,GO
+ID_CHAL_REWARDS,REWARDS
+ID_CHAL_CHANCE_GOLD,Earn Gold
+ID_CHAL_CHANCE_XP,Earn Training Modules
+ID_CHAL_CHANCE_ABILITYMATS,Earn Ability Materials
+ID_CHAL_CHANCE_SHARDS,Earn Orb Fragments
+ID_CHAL_CHANCE_CATALYST,Earn Catalysts
+ID_CHAL_CHANCE_ISO,Earn Origin Gear Materials
+ID_EVENT_CHANCE_HAND_TRAINING,Earn a ton of Training Modules
+ID_EVENT_CHANCE_AIM_RESEARCH,Earn a ton of Ability Materials
+ID_EVENT_LEGENDARY,Legendary
+ID_EVENT_QUEST,Milestone
+ID_EVENT_FLASH_EVENT,Flash
+ID_EVENT_MYTHIC_FLASH_EVENT,Mythic Flash
+ID_EVENT_CHARACTER_EVENT,Character
+ID_EVENT_MYTHIC_EVENT,Mythic
+ID_EVENT_BONUS_EVENT,BONUS<b>!</b>
+ID_EVENT_SPECIAL_EVENT,Special
+ID_EVENT_ALLIANCE,Alliance
+ID_EVENT_SOLO,Solo
+ID_EVENT_STARTS_IN,Starts in
+ID_EVENT_ENDS_IN,Ends in
+ID_EVENT_CTA_BTN_MILESTONES,<size=60>MILESTONES</size>
+ID_EVENT_COSTUME,Costume
+ID_EVENT_TEAMUP,Team-Up
+ID_CHAL_GOLD_NAME,Gold Rush
+ID_CHAL_GOLD_DESC,Earn GOLD. Use GOLD to purchase supplies and improve your characters.
+ID_CHAL_GOLD_STAGE1_NAME,Tier 1
+ID_CHAL_GOLD_STAGE1_DESC,Earn GOLD.\n\nRecommendations:\n- Squad Lvl 9+
+ID_CHAL_GOLD_STAGE2_NAME,Tier 2
+ID_CHAL_GOLD_STAGE2_DESC,Earn some more GOLD.\n\nRecommendations:\n- Squad Lvl 14+
+ID_CHAL_GOLD_STAGE3_NAME,Tier 3
+ID_CHAL_GOLD_STAGE3_DESC,Earn more GOLD.\n\nRecommendations:\n- Squad Lvl 18+
+ID_CHAL_GOLD_STAGE4_NAME,Tier 4
+ID_CHAL_GOLD_STAGE4_DESC,Earn even more GOLD.\n\nRecommendations:\n- Squad Lvl 26+
+ID_CHAL_GOLD_STAGE5_NAME,Tier 5
+ID_CHAL_GOLD_STAGE5_DESC,Earn a lot of GOLD.\n\nRecommendations:\n- Squad Lvl 34+
+ID_CHAL_GOLD_STAGE6_NAME,Tier 6
+ID_CHAL_GOLD_STAGE6_DESC,Earn a ton of GOLD.\n\nRecommendations:\n- Squad Lvl 40+\n- Gear Tier 6+
+ID_CHAL_GOLD_STAGE7_DESC,Earn a ton of GOLD.\n\nRecommendations:\n- Squad Lvl 50+\n- Gear Tier 7+
+ID_CHAL_GOLD_STAGE8_DESC,Earn a ton of GOLD.\n\nRecommendations:\n- Squad Lvl 55+\n- Gear Tier 8+
+ID_CHAL_GOLD_STAGE9_DESC,Earn a mass of GOLD.\n\nRecommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n\nOnly CITY allowed.
+ID_CHAL_GOLD_STAGE10_DESC,Earn a huge supply of GOLD.\n\nRecommendations:\n- Squad Lvl 70+\n- Gear Tier 12+\n- Red Stars 4+\n\nOnly CITY allowed.
+ID_CHAL_GOLD_STAGE11_DESC,Earn a massive cache of GOLD.\n\nRecommendations:\n- Squad Lvl 71+\n- Gear Tier 13+\n- Red Stars 4+\n\nOnly CITY allowed.
+ID_CHAL_GOLD_STAGE12_DESC,Earn an enormous cache of GOLD.\n\nRecommendations:\n- Squad Lvl 75+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly CITY allowed.
+ID_CHAL_GOLD_STAGE13_DESC,Earn a colossal cache of GOLD.\n\nRecommendations:\n- Squad Lvl 76+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly CITY allowed.
+ID_CHAL_GOLD_STAGE14_DESC,Earn a spectacular supply of GOLD.\n\nRecommendations:\n- Squad Lvl 80+\n- Gear Tier 15+\n- Red Stars 4+\n\nOnly CITY allowed.
+ID_CHAL_XP_NAME,Training Day
+ID_CHAL_XP_DESC,Earn TRAINING MODULES. Use TRAINING MODULES to level up your characters.
+ID_CHAL_XP_STAGE1_NAME,Tier 1
+ID_CHAL_XP_STAGE1_DESC,Earn TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 9+
+ID_CHAL_XP_STAGE2_NAME,Tier 2
+ID_CHAL_XP_STAGE2_DESC,Earn some more TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 14+
+ID_CHAL_XP_STAGE3_NAME,Tier 3
+ID_CHAL_XP_STAGE3_DESC,Earn more TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 18+
+ID_CHAL_XP_STAGE4_NAME,Tier 4
+ID_CHAL_XP_STAGE4_DESC,Earn even more TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 26+
+ID_CHAL_XP_STAGE5_NAME,Tier 5
+ID_CHAL_XP_STAGE5_DESC,Earn a lot of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 34+
+ID_CHAL_XP_STAGE6_NAME,Tier 6
+ID_CHAL_XP_STAGE6_DESC,Earn a ton of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 40+\n- Gear Tier 6+
+ID_CHAL_XP_STAGE7_DESC,Earn a ton of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 50+\n- Gear Tier 7+
+ID_CHAL_XP_STAGE8_DESC,Earn a ton of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 55+\n- Gear Tier 8+
+ID_CHAL_XP_STAGE9_DESC,Earn a mass of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n\nOnly COSMIC allowed.
+ID_CHAL_XP_STAGE10_DESC,Earn a huge supply of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 70+\n- Gear Tier 12+\n- Red Stars 4+\n\nOnly COSMIC allowed.
+ID_CHAL_XP_STAGE11_DESC,Earn a massive cache of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 71+\n- Gear Tier 13+\n- Red Stars 4+\n\nOnly COSMIC allowed.
+ID_CHAL_XP_STAGE12_DESC,Earn an enormous cache of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 75+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly COSMIC allowed.
+ID_CHAL_XP_STAGE13_DESC,Earn a colossal cache of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 76+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly COSMIC allowed.
+ID_CHAL_XP_STAGE14_DESC,Earn a spectacular supply of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 80+\n- Gear Tier 15+\n- Red Stars 4+\n\nOnly COSMIC allowed.
+ID_CHAL_HEALTHBUCKS_NAME,Medical Supply Run
+ID_CHAL_HEALTHBUCKS_DESC,Earn HEALTH PACKS and BLITZ CHARGES. Use HEALTH PACKS to heal injured characters and BLITZ CHARGES to bypass their recovery time for battles in Blitz.\n\nOnly BRAWLERS & SUPPORT allowed.
+ID_CHAL_CHANCE_HEALTHBUCKS,Earn Health Packs/Blitz Charges
+ID_CHAL_HEALTHBUCKS_STAGE1_NAME,Tier 1
+ID_CHAL_HEALTHBUCKS_STAGE1_DESC,Earn HEALTH PACKS/BLITZ CHARGES.\n\nRecommendations:\n- Squad Lvl 9+\n\nOnly BRAWLERS & SUPPORT allowed.
+ID_CHAL_HEALTHBUCKS_STAGE2_NAME,Tier 2
+ID_CHAL_HEALTHBUCKS_STAGE2_DESC,Earn some more HEALTH PACKS/BLITZ CHARGES.\n\nRecommendations:\n- Squad Lvl 14+\n\nOnly BRAWLERS & SUPPORT allowed.
+ID_CHAL_HEALTHBUCKS_STAGE3_NAME,Tier 3
+ID_CHAL_HEALTHBUCKS_STAGE3_DESC,Earn more HEALTH PACKS/BLITZ CHARGES.\n\nRecommendations:\n- Squad Lvl 18+\n\nOnly BRAWLERS & SUPPORT allowed.
+ID_CHAL_HEALTHBUCKS_STAGE4_NAME,Tier 4
+ID_CHAL_HEALTHBUCKS_STAGE4_DESC,Earn even more HEALTH PACKS/BLITZ CHARGES.\n\nRecommendations:\n- Squad Lvl 26+\n\nOnly BRAWLERS & SUPPORT allowed.
+ID_CHAL_HEALTHBUCKS_STAGE5_NAME,Tier 5
+ID_CHAL_HEALTHBUCKS_STAGE5_DESC,Earn a lot of HEALTH PACKS/BLITZ CHARGES.\n\nRecommendations:\n- Squad Lvl 34+\n\nOnly BRAWLERS & SUPPORT allowed.
+ID_CHAL_HEALTHBUCKS_STAGE6_NAME,Tier 6
+ID_CHAL_HEALTHBUCKS_STAGE6_DESC,Earn a ton of HEALTH PACKS/BLITZ CHARGES.\n\nRecommendations:\n- Squad Lvl 40+\n- Gear Tier 6+\n\nOnly BRAWLERS & SUPPORT allowed.
+ID_CHAL_HEALTHBUCKS_STAGE7_DESC,Earn a ton of HEALTH PACKS/BLITZ CHARGES.\n\nRecommendations:\n- Squad Lvl 50+\n- Gear Tier 7+\n\nOnly BRAWLERS & SUPPORT allowed.
+ID_CHAL_HEALTHBUCKS_STAGE8_DESC,Earn a ton of HEALTH PACKS/BLITZ CHARGES.\n\nRecommendations:\n- Squad Lvl 55+\n- Gear Tier 8+\n\nOnly BRAWLERS & SUPPORT allowed.
+ID_CHAL_HEALTHBUCKS_STAGE9_DESC,Earn a mass of HEALTH PACKS/BLITZ CHARGES.\n\nRecommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n\nOnly BRAWLERS & SUPPORT allowed.
+ID_CHAL_HEALTHBUCKS_STAGE10_DESC,Earn a huge supply of HEALTH PACKS/BLITZ CHARGES.\n\nRecommendations:\n- Squad Lvl 70+\n- Gear Tier 12+\n- Red Stars 4+\n\nOnly BRAWLERS & SUPPORT allowed.
+ID_CHAL_HEALTHBUCKS_STAGE11_DESC,Earn a massive cache of HEALTH PACKS/BLITZ CHARGES.\n\nRecommendations:\n- Squad Lvl 71+\n- Gear Tier 13+\n- Red Stars 4+\n\nOnly BRAWLERS & SUPPORT allowed.
+ID_CHAL_HEALTHBUCKS_STAGE12_DESC,Earn an enormous cache of HEALTH PACKS/BLITZ CHARGES.\n\nRecommendations:\n- Squad Lvl 75+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly BRAWLERS & SUPPORT allowed.
+ID_CHAL_HEALTHBUCKS_STAGE13_DESC,Earn a colossal cache of HEALTH PACKS/BLITZ CHARGES.\n\nRecommendations:\n- Squad Lvl 76+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly BRAWLERS & SUPPORT allowed.
+ID_CHAL_HEALTHBUCKS_STAGE14_DESC,Earn a spectacular supply of HEALTH PACKS/BLITZ CHARGES.\n\nRecommendations:\n- Squad Lvl 80+\n- Gear Tier 15+\n- Red Stars 4+\n\nOnly BRAWLERS & SUPPORT allowed.
+ID_CHAL_SHARDS_NAME,Orb Fragments
+ID_CHAL_SHARDS_DESC,Earn ORB FRAGMENTS. Collect enough ORB FRAGMENTS to unlock free ORBS.
+ID_CHAL_SHARDS_STAGE1_NAME,Tier 1
+ID_CHAL_SHARDS_STAGE1_DESC,Earn ORB FRAGMENTS.\n\nRecommendations:\n- Squad Lvl 9+
+ID_CHAL_SHARDS_STAGE2_NAME,Tier 2
+ID_CHAL_SHARDS_STAGE2_DESC,Earn some more ORB FRAGMENTS.\n\nRecommendations:\n- Squad Lvl 14+
+ID_CHAL_SHARDS_STAGE3_NAME,Tier 3
+ID_CHAL_SHARDS_STAGE3_DESC,Earn more ORB FRAGMENTS.\n\nRecommendations:\n- Squad Lvl 18+
+ID_CHAL_SHARDS_STAGE4_NAME,Tier 4
+ID_CHAL_SHARDS_STAGE4_DESC,Earn even more ORB FRAGMENTS.\n\nRecommendations:\n- Squad Lvl 26+
+ID_CHAL_SHARDS_STAGE5_NAME,Tier 5
+ID_CHAL_SHARDS_STAGE5_DESC,Earn a lot of ORB FRAGMENTS.\n\nRecommendations:\n- Squad Lvl 34+
+ID_CHAL_SHARDS_STAGE6_NAME,Tier 6
+ID_CHAL_SHARDS_STAGE6_DESC,Earn a ton of ORB FRAGMENTS.\n\nRecommendations:\n- Squad Lvl 40+\n- Gear Tier 6+
+ID_CHAL_SHARDS_STAGE7_DESC,Earn a ton of ORB FRAGMENTS.\n\nRecommendations:\n- Squad Lvl 50+\n- Gear Tier 7+
+ID_CHAL_SHARDS_STAGE8_DESC,Earn a ton of ORB FRAGMENTS.\n\nRecommendations:\n- Squad Lvl 55+\n- Gear Tier 8+
+ID_CHAL_SHARDS_STAGE9_DESC,Earn a mass of ORB FRAGMENTS.\n\nRecommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n\nOnly GLOBAL allowed.
+ID_CHAL_SHARDS_STAGE10_DESC,Earn a huge supply of ORB FRAGMENTS.\n\nRecommendations:\n- Squad Lvl 70+\n- Gear Tier 12+\n- Red Stars 4+\n\nOnly GLOBAL allowed.
+ID_CHAL_SHARDS_STAGE11_DESC,Earn a massive cache of ORB FRAGMENTS.\n\nRecommendations:\n- Squad Lvl 71+\n- Gear Tier 13+\n- Red Stars 4+\n\nOnly GLOBAL allowed.
+ID_CHAL_SHARDS_STAGE12_DESC,Earn an enormous cache of ORB FRAGMENTS.\n\nRecommendations:\n- Squad Lvl 75+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly GLOBAL allowed.
+ID_CHAL_SHARDS_STAGE13_DESC,Earn a colossal cache of ORB FRAGMENTS.\n\nRecommendations:\n- Squad Lvl 76+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly GLOBAL allowed.
+ID_CHAL_SHARDS_STAGE14_DESC,Earn a spectacular supply of ORB FRAGMENTS.\n\nRecommendations:\n- Squad Lvl 80+\n- Gear Tier 15+\n- Red Stars 4+\n\nOnly GLOBAL allowed.
+ID_CHAL_CATALYST_NAME,Catalyst of Change
+ID_CHAL_CATALYST_DESC,Earn CATALYSTS. CATALYSTS are essential to improving your characters' gear.\n\nOnly BLASTERS allowed.
+ID_CATALYST_CHANCE,Earn tons of CATALYSTS
+ID_CHAL_CATALYST_STAGE1_NAME,Tier 1
+ID_CHAL_CATALYST_STAGE1_DESC,Earn CATALYSTS.\n\nRecommendations:\n- Squad Lvl 18+\n\nOnly BLASTERS allowed.
+ID_CHAL_CATALYST_STAGE2_NAME,Tier 2
+ID_CHAL_CATALYST_STAGE2_DESC,Earn some more CATALYSTS.\n\nRecommendations:\n- Squad Lvl 26+\n\nOnly BLASTERS allowed.
+ID_CHAL_CATALYST_STAGE3_NAME,Tier 3
+ID_CHAL_CATALYST_STAGE3_DESC,Earn more CATALYSTS.\n\nRecommendations:\n- Squad Lvl 34+\n\nOnly BLASTERS allowed.
+ID_CHAL_CATALYST_STAGE4_NAME,Tier 4
+ID_CHAL_CATALYST_STAGE4_DESC,Earn even more CATALYSTS.\n\nRecommendations:\n- Squad Lvl 40+\n- Gear Tier 6+\n\nOnly BLASTERS allowed.
+ID_CHAL_CATALYST_STAGE5_NAME,Tier 5
+ID_CHAL_CATALYST_STAGE5_DESC,Earn a lot of CATALYSTS.\n\nRecommendations:\n- Squad Lvl 50+\n- Gear Tier 7+\n\nOnly BLASTERS allowed.
+ID_CHAL_CATALYST_STAGE6_NAME,Tier 6
+ID_CHAL_CATALYST_STAGE6_DESC,Earn a lot of CATALYSTS.\n\nRecommendations:\n- Squad Lvl 55+\n- Gear Tier 8+\n\nOnly BLASTERS allowed.
+ID_CHAL_CATALYST_STAGE7_DESC,Earn a mass of CATALYSTS.\n\nRecommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n\nOnly BLASTERS allowed.
+ID_CHAL_CATALYST_STAGE8_DESC,Earn a huge supply of CATALYSTS.\n\nRecommendations:\n- Squad Lvl 70+\n- Gear Tier 12+\n- Red Stars 4+\n\nOnly BLASTERS allowed.
+ID_CHAL_CATALYST_STAGE9_DESC,Earn a massive cache of CATALYSTS.\n\nRecommendations:\n- Squad Lvl 71+\n- Gear Tier 13+\n- Red Stars 4+\n\nOnly BLASTERS allowed.
+ID_CHAL_CATALYST_STAGE10_DESC,Earn an enormous cache of CATALYSTS.\n\nRecommendations:\n- Squad Lvl 75+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly BLASTERS allowed.
+ID_CHAL_CATALYST_STAGE11_DESC,Earn a colossal cache of CATALYSTS.\n\nRecommendations:\n- Squad Lvl 76+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly BLASTERS allowed.
+ID_CHAL_CATALYST_STAGE12_DESC,Earn a spectacular supply of CATALYSTS.\n\nRecommendations:\n- Squad Lvl 80+\n- Gear Tier 15+\n- Red Stars 4+\n\nOnly BLASTERS allowed.
+ID_CHAL_ABL_NAME,Ability Enhancements
+ID_CHAL_ABL_DESC,Earn ABILITY MATERIALS. Use ABILITY MATERIALS to upgrade your character's abilities.\n\nOnly CONTROLLERS & PROTECTORS allowed.
+ID_CHAL_ISO_BIO_NAME,Original Biofuel
+ID_CHAL_ISO_BIO_DESC,Challenge Iso-8 Bio characters.\n\nEarn Bio origin Gear Materials essential to improving your characters.\n\nOnly BIO characters with Level 3 Iso-8 and above.
+ID_CHAL_ISO_BIO_T1_LV03_NAME,Difficulty 1
+ID_CHAL_ISO_BIO_T1_LV03_DESC,"Required: 5 Bio characters\nLevel 3 Iso-8\nRecommended: Level 60+, 5+ Stars, 2+ Red Stars, Gear Tier 10+, Level 5+ Abilities, 10%+ Stark Tech bonuses"
+ID_CHAL_ISO_BIO_T1_LV03_DESC_LINEBREAK,Required: \n5 Bio characters\nLevel 3 Iso-8\n\nRecommended: \nLevel 60+\n5+ Stars\n2+ Red Stars\nGear Tier 10+\nLevel 5+ Abilities\n10%+ Stark Tech bonuses
+ID_CHAL_ISO_BIO_T1_LV04_NAME,Difficulty 2
+ID_CHAL_ISO_BIO_T1_LV04_DESC,"Required: 5 Bio characters\nLevel 4 Iso-8\nRecommended: Level 65+, 6+ Stars, 3+ Red Stars, Gear Tier 12+, Level 6+ Abilities, 15%+ Stark Tech bonuses"
+ID_CHAL_ISO_BIO_T1_LV05_NAME,Difficulty 3
+ID_CHAL_ISO_BIO_T1_LV05_DESC,"Required: 5 Bio characters\nLevel 5 Iso-8\nRecommended: Level 75+, 7+ Stars, 4+ Red Stars, Gear Tier 14+, Level 7+ Abilities, 20%+ Stark Tech bonuses"
+ID_CHAL_ISO_MUTANT_NAME,Original Mutagens
+ID_CHAL_ISO_MUTANT_DESC,Challenge Iso-8 Mutant characters.\n\nEarn Mutant origin Gear Materials essential to improving your characters.\n\nOnly MUTANT characters with Level 3 Iso-8 and above.
+ID_CHAL_ISO_MUTANT_T1_LV03_NAME,Difficulty 1
+ID_CHAL_ISO_MUTANT_T1_LV03_DESC,"Required: 5 Mutant characters\nLevel 3 Iso-8\nRecommended: Level 60+, 5+ Stars, 2+ Red Stars, Gear Tier 10+, Level 5+ Abilities, 10%+ Stark Tech bonuses"
+ID_CHAL_ISO_MUTANT_T1_LV04_NAME,Difficulty 2
+ID_CHAL_ISO_MUTANT_T1_LV04_DESC,"Required: 5 Mutant characters\nLevel 4 Iso-8\nRecommended: Level 65+, 6+ Stars, 3+ Red Stars, Gear Tier 12+, Level 6+ Abilities, 15%+ Stark Tech bonuses"
+ID_CHAL_ISO_MUTANT_T1_LV05_NAME,Difficulty 3
+ID_CHAL_ISO_MUTANT_T1_LV05_DESC,"Required: 5 Mutant characters\nLevel 5 Iso-8\nRecommended: Level 75+, 7+ Stars, 4+ Red Stars, Gear Tier 14+, Level 7+ Abilities, 20%+ Stark Tech bonuses"
+ID_CHAL_ISO_MYSTIC_NAME,Original Alchemy
+ID_CHAL_ISO_MYSTIC_DESC,Challenge Iso-8 Mystic characters.\n\nEarn Mystic origin Gear Materials essential to improving your characters.\n\nOnly MYSTIC characters with Level 3 Iso-8 and above.
+ID_CHAL_ISO_MYSTIC_T1_LV03_NAME,Difficulty 1
+ID_CHAL_ISO_MYSTIC_T1_LV03_DESC,"Required: 5 Mystic characters\nLevel 3 Iso-8\nRecommended: Level 60+, 5+ Stars, 2+ Red Stars, Gear Tier 10+, Level 5+ Abilities, 10%+ Stark Tech bonuses"
+ID_CHAL_ISO_MYSTIC_T1_LV04_NAME,Difficulty 2
+ID_CHAL_ISO_MYSTIC_T1_LV04_DESC,"Required: 5 Mystic characters\nLevel 4 Iso-8\nRecommended: Level 65+, 6+ Stars, 3+ Red Stars, Gear Tier 12+, Level 6+ Abilities, 15%+ Stark Tech bonuses"
+ID_CHAL_ISO_MYSTIC_T1_LV05_NAME,Difficulty 3
+ID_CHAL_ISO_MYSTIC_T1_LV05_DESC,"Required: 5 Mystic characters\nLevel 5 Iso-8\nRecommended: Level 75+, 7+ Stars, 4+ Red Stars, Gear Tier 14+, Level 7+ Abilities, 20%+ Stark Tech bonuses"
+ID_CHAL_ISO_SKILL_NAME,Original Expertise
+ID_CHAL_ISO_SKILL_DESC,Challenge Iso-8 Skill characters.\n\nEarn Skill origin Gear Materials essential to improving your characters.\n\nOnly SKILL characters with Level 3 Iso-8 and above.
+ID_CHAL_ISO_SKILL_T1_LV03_NAME,Difficulty 1
+ID_CHAL_ISO_SKILL_T1_LV03_DESC,"Required: 5 Skill characters\nLevel 3 Iso-8\nRecommended: Level 60+, 5+ Stars, 2+ Red Stars, Gear Tier 10+, Level 5+ Abilities, 10%+ Stark Tech bonuses"
+ID_CHAL_ISO_SKILL_T1_LV04_NAME,Difficulty 2
+ID_CHAL_ISO_SKILL_T1_LV04_DESC,"Required: 5 Skill characters\nLevel 4 Iso-8\nRecommended: Level 65+, 6+ Stars, 3+ Red Stars, Gear Tier 12+, Level 6+ Abilities, 15%+ Stark Tech bonuses"
+ID_CHAL_ISO_SKILL_T1_LV05_NAME,Difficulty 3
+ID_CHAL_ISO_SKILL_T1_LV05_DESC,"Required: 5 Skill characters\nLevel 5 Iso-8\nRecommended: Level 75+, 7+ Stars, 4+ Red Stars, Gear Tier 14+, Level 7+ Abilities, 20%+ Stark Tech bonuses"
+ID_CHAL_ISO_TECH_NAME,Original Industry
+ID_CHAL_ISO_TECH_DESC,Challenge Iso-8 Tech characters.\n\nEarn Tech origin Gear Materials essential to improving your characters.\n\nOnly TECH characters with Level 3 Iso-8 and above.
+ID_CHAL_ISO_TECH_T1_LV03_NAME,Difficulty 1
+ID_CHAL_ISO_TECH_T1_LV03_DESC,"Required: 5 Tech characters\nLevel 3 Iso-8\nRecommended: Level 60+, 5+ Stars, 2+ Red Stars, Gear Tier 10+, Level 5+ Abilities, 10%+ Stark Tech bonuses"
+ID_CHAL_ISO_TECH_T1_LV04_NAME,Difficulty 2
+ID_CHAL_ISO_TECH_T1_LV04_DESC,"Required: 5 Tech characters\nLevel 4 Iso-8\nRecommended: Level 65+, 6+ Stars, 3+ Red Stars, Gear Tier 12+, Level 6+ Abilities, 15%+ Stark Tech bonuses"
+ID_CHAL_ISO_TECH_T1_LV05_NAME,Difficulty 3
+ID_CHAL_ISO_TECH_T1_LV05_DESC,"Required: 5 Tech characters\nLevel 5 Iso-8\nRecommended: Level 75+, 7+ Stars, 4+ Red Stars, Gear Tier 14+, Level 7+ Abilities, 20%+ Stark Tech bonuses"
+ID_CHAL_STAGE7_NAME,Tier 7
+ID_CHAL_STAGE8_NAME,Tier 8
+ID_CHAL_STAGE9_NAME,Tier 9
+ID_CHAL_STAGE01_NAME,Tier 1
+ID_CHAL_STAGE02_NAME,Tier 2
+ID_CHAL_STAGE03_NAME,Tier 3
+ID_CHAL_STAGE04_NAME,Tier 4
+ID_CHAL_STAGE05_NAME,Tier 5
+ID_CHAL_STAGE06_NAME,Tier 6
+ID_CHAL_STAGE07_NAME,Tier 7
+ID_CHAL_STAGE08_NAME,Tier 8
+ID_CHAL_STAGE09_NAME,Tier 9
+ID_CHAL_STAGE10_NAME,Tier 10
+ID_CHAL_STAGE11_NAME,Tier 11
+ID_CHAL_STAGE12_NAME,Tier 12
+ID_CHAL_STAGE13_NAME,Tier 13
+ID_CHAL_STAGE14_NAME,Tier 14
+ID_CHAL_STAGE15_NAME,Tier 15
+ID_CHAL_STAGE16_NAME,Tier 16
+ID_CHAL_ABILITYMATS_STAGE1_NAME,Tier 1
+ID_CHAL_ABILITYMATS_STAGE1_DESC,Earn ABILITY MATERIALS.\n\nRecommendations:\n- Squad Lvl 9+\n\nOnly CONTROLLERS & PROTECTORS allowed.
+ID_CHAL_ABILITYMATS_STAGE2_NAME,Tier 2
+ID_CHAL_ABILITYMATS_STAGE2_DESC,Earn some more ABILITY MATERIALS.\n\nRecommendations:\n- Squad Lvl 14+\n\nOnly CONTROLLERS & PROTECTORS allowed.
+ID_CHAL_ABILITYMATS_STAGE3_NAME,Tier 3
+ID_CHAL_ABILITYMATS_STAGE3_DESC,Earn more ABILITY MATERIALS.\n\nRecommendations:\n- Squad Lvl 18+\n\nOnly CONTROLLERS & PROTECTORS allowed.
+ID_CHAL_ABILITYMATS_STAGE4_NAME,Tier 4
+ID_CHAL_ABILITYMATS_STAGE4_DESC,Earn even more ABILITY MATERIALS.\n\nRecommendations:\n- Squad Lvl 26+\n\nOnly CONTROLLERS & PROTECTORS allowed.
+ID_CHAL_ABILITYMATS_STAGE5_NAME,Tier 5
+ID_CHAL_ABILITYMATS_STAGE5_DESC,Earn a lot of ABILITY MATERIALS.\n\nRecommendations:\n- Squad Lvl 34+\n\nOnly CONTROLLERS & PROTECTORS allowed.
+ID_CHAL_ABILITYMATS_STAGE6_NAME,Tier 6
+ID_CHAL_ABILITYMATS_STAGE6_DESC,Earn a ton of ABILITY MATERIALS.\n\nRecommendations:\n- Squad Lvl 40+\n- Gear Tier 6+\n\nOnly CONTROLLERS & PROTECTORS allowed.
+ID_CHAL_ABILITYMATS_STAGE7_DESC,Earn a ton of ABILITY MATERIALS.\n\nRecommendations:\n- Squad Lvl 50+\n- Gear Tier 7+\n\nOnly CONTROLLERS & PROTECTORS allowed.
+ID_CHAL_ABILITYMATS_STAGE8_DESC,Earn a ton of ABILITY MATERIALS.\n\nRecommendations:\n- Squad Lvl 55+\n- Gear Tier 8+\n\nOnly CONTROLLERS & PROTECTORS allowed.
+ID_CHAL_ABILITYMATS_STAGE9_DESC,Earn a mass of ABILITY MATERIALS.\n\nRecommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n\nOnly CONTROLLERS & PROTECTORS allowed.
+ID_CHAL_ABILITYMATS_STAGE10_DESC,Earn a huge supply of ABILITY MATERIALS.\n\nRecommendations:\n- Squad Lvl 70+\n- Gear Tier 12+\n- Red Stars 4+\n\nOnly CONTROLLERS & PROTECTORS allowed.
+ID_CHAL_ABILITYMATS_STAGE11_DESC,Earn a massive cache of ABILITY MATERIALS.\n\nRecommendations:\n- Squad Lvl 71+\n- Gear Tier 13+\n- Red Stars 4+\n\nOnly CONTROLLERS & PROTECTORS allowed.
+ID_CHAL_ABILITYMATS_STAGE12_DESC,Earn an enormous cache of ABILITY MATERIALS.\n\nRecommendations:\n- Squad Lvl 75+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly CONTROLLERS & PROTECTORS allowed.
+ID_CHAL_ABILITYMATS_STAGE13_DESC,Earn a colossal cache of ABILITY MATERIALS.\n\nRecommendations:\n- Squad Lvl 76+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly CONTROLLERS & PROTECTORS allowed.
+ID_CHAL_ABILITYMATS_STAGE14_DESC,Earn a spectacular supply of ABILITY MATERIALS.\n\nRecommendations:\n- Squad Lvl 80+\n- Gear Tier 15+\n- Red Stars 4+\n\nOnly CONTROLLERS & PROTECTORS allowed.
+ID_EVENT_DEMO_NAME,Demo Challenge - DO NOT PLAY
+ID_EVENT_DEMO_DESC,
+ID_EVENT_DEMO_FLAVOR,
+ID_EVENT_DEMO_STAGE1_NAME,Demo Challenge - DO NOT PLAY
+ID_CHAL_NUETEST_NAME,NUETest Collection
+ID_CHAL_NUETEST_DESC,A collection of NUETests proposed
+ID_EVENT_NUETEST_STAGE1_NAME,NUETEST 1-1 Hand Wave 1 Demo
+ID_EVENT_NUETEST_STAGE1_DESC,"First Wave of Proposed NUE Script, Version 1.0"
+ID_EVENT_NUETEST_STAGE2_NAME,NUETEST 1-2 Hand Wave 2 Demo
+ID_EVENT_NUETEST_STAGE2_DESC,"Second Wave of Proposed NUE Script, Version 1.0"
+ID_EVENT_NUETEST_STAGE3_NAME,NUETEST 2.0 Hand Demo
+ID_EVENT_NUETEST_STAGE3_DESC,Rough proposed NUE based on the NUE Script
+ID_EVENT_NUETEST_STAGE4_NAME,NUETEST 3.0 Mercenaries Demo
+ID_EVENT_NUETEST_STAGE4_DESC,Updated with Mercenaries instead of Hand Ninjas and initial feedback
+ID_EVENT_NUETEST_STAGE5_NAME,NUETEST Giz
+ID_EVENT_NUETEST_STAGE5_DESC,Giz Demo
+ID_EVENT_NUETEST_STAGE6_NAME,NUETEST 4.0 Mercenaries and Bullseye
+ID_EVENT_NUETEST_STAGE6_DESC,Updated based on Marvel / Amer feedback and Bullseye added
+ID_EVENT_NOVEMBER_DEMO_NAME,Halt Hydra
+ID_EVENT_NOVEMBER_DEMO_DESC,Prevent Hydra from destroying the world!
+ID_NOVEMBER_DEMO_NAME,Halt Hydra
+ID_NOVEMBER_DEMO_DESC,Prevent Hydra from destroying the world!
+ID_EVENT_CROSSBONES_NAME,Double-Crossed
+ID_EVENT_CHANCE_CROSSBONES,Earn Crossbones Shards
+ID_EVENT_CROSSBONES_DESC,"Ultimus has double-crossed Crossbones. Help Crossbones get payback, and in exchange he'll join your S.T.R.I.K.E. team."
+ID_EVENT_CROSSBONES_MT,Recruit Crossbones!
+ID_EVENT_CROSSBONES_MS,Complete the Double-Crossed Event
+ID_EVENT_CROSSBONES_MB,"Ultimus has double-crossed Crossbones. Help Crossbones get payback, and in exchange he'll join your S.T.R.I.K.E. team."
+ID_EVENT_CROSSBONES_MC,GO!
+ID_EVENT_ELEKTRA_NAME,Elektra Assassin
+ID_EVENT_CHANCE_ELEKTRA,Earn Elektra Shards
+ID_EVENT_ELEKTRA_DESC,An imposter Elektra is wreaking havoc in Hell's Kitchen. Help the real Elektra track down the doppelganger and restore peace in New York City.
+ID_EVENT_ELEKTRA_MT,Recruit Elektra!
+ID_EVENT_ELEKTRA_MS,Complete the Elektra Assassin Event
+ID_EVENT_ELEKTRA_MB,An imposter Elektra is wreaking havoc in Hell's Kitchen. Help the real Elektra track down the doppelganger and restore peace in New York City.
+ID_EVENT_ELEKTRA_MC,GO!
+ID_LE_IRONMAN_CHANCE,Earn Iron Man Shards
+ID_LE_IRONMAN_NAME,I am Iron Man
+ID_LE_IRONMAN_DESC,Help Tony Stark and S.H.I.E.L.D. stop a nefarious plot by a mysterious organization.
+ID_LE_IRONMAN_MC,GO!
+ID_LE_IRONMAN_MS,Unlock Iron Man by helping him!
+ID_LE_IRONMAN_MT,The I am Iron Man Event has started!
+ID_ME_BO_IRONMAN_BLACKWIDOW,"Tony Stark's technical prowess and presence would be invaluable to our ranks. Assemble a team of 5 S.H.I.E.L.D. agents to work with him and stop an evil plot. Elite S.H.I.E.L.D. agents will be available in Blitz for the month!\n\nRequirements: 5 S.H.I.E.L.D. Agents\nEvent Start: Jun. 13, 2018 12:00 AM (UTC)\nEvent End: Jun. 27, 2018 11:59 PM (UTC)"
+ID_ME_BO_IRONMAN_HAWKEYE,"Tony Stark's technical prowess and presence would be\ninvaluable to our ranks. Assemble a team\nof 5 S.H.I.E.L.D. agents to work with him and stop an evil plot.\nElite S.H.I.E.L.D. agents will be available\niin Blitz for the month!\n\nRequirements: 5 S.H.I.E.L.D. Agents\nEvent Start: Dec. 23, 2017 12:00 AM (UTC)\nEvent End: Jan. 1, 2017 11:59 PM (UTC)\n\nList of S.H.I.E.L.D. Characters:\nCaptain America\nBlack Widow\nHawkeye\nQuake\nNick Fury\nS.H.I.E.L.D. Medic\nS.H.I.E.L.D. Trooper\nS.H.I.E.L.D. Operative\nS.H.I.E.L.D. Assault\nS.H.I.E.L.D. Security"
+ID_LE_IRONMAN_MB,Tony Stark's technical prowess and presence would be invaluable to our ranks. Help him thwart a plot from a mysterious organization.
+ID_ME_NA_IRONMAN_PREEVENT,UPCOMING EVENT: I am Iron Man
+ID_ME_DE_IRONMAN_PREEVENT,Recruit Tony Stark to S.T.R.I.K.E.
+ID_ME_NA_IRONMAN_START,The I am Iron Man event has begun!
+ID_ME_DE_IRONMAN_START,Recruit Iron Man now!
+ID_ME_BO_IRONMAN_START,"The time has come to recruit <color=#fff568>Iron Man</color>. Assemble your S.H.I.E.L.D. team for battle. If you're unable to recruit Iron Man this time, don't worry, he will return.\n\nEvent Requirements:\n- Five (5) S.H.I.E.L.D. agents\n- S.H.I.E.L.D. agents' Star Rank requirement increases by 1 with each level\n\nList of S.H.I.E.L.D. agents:\n- Captain America\n- Black Widow\n- Hawkeye\n- Quake\n- S.H.I.E.L.D. Medic\n- S.H.I.E.L.D. Trooper\n- S.H.I.E.L.D. Operative\n- S.H.I.E.L.D. Assault\n- S.H.I.E.L.D. Security\n\n<color=#fff568>Event Duration</color>: 3 Days\n<color=#fff568>Event Start</color>: January 16, 2019, 4:00PM PST\n<color=#fff568>Event End</color>: January 19, 2019, 4:00PM PST\n\nGood luck, Commander."
+ID_LE_IRONMAN_EN_SU,The I am Iron Man Event has ended.
+ID_LE_IRONMAN_EN_BO,The event is now over.
+ID_LE_NICKFURY_NAME,Chasing Fury
+ID_LE_NICKFURY_DESC,"After agreeing to help the Free Kree resurrect the Supreme Intelligence, Nick Fury has gone missing. The Free Kree must save him in order to finish the work he started."
+ID_LE_NICKFURY_CHANCE,Earn Nick Fury Shards
+ID_LE_NICKFURY_MC,GO!
+ID_LE_NICKFURY_MS,Unlock Nick Fury
+ID_LE_NICKFURY_MT,The Chasing Fury Event has started!
+ID_LE_NICKFURY_EN_SU,The Chasing Fury Event has ended.
+ID_LE_NICKFURY_EN_BO,The event is now over.
+ID_INFO_NA_KREEFORALL,Kree For All
+ID_INFO_DE_KREEFORALL,2x Kree minion shards
+ID_INFO_BO_KREEFORALL,"The number of Kree minion shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the Chasing Fury Legendary Event.\n\nPlease filter your roster using the traits ""Kree"" and ""minion"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_LE_STARLORD_NAME,Space Ace
+ID_LE_STARLORD_DESC,Nick Fury seeks aid from Star-Lord to stop corrupted Kree forces from utilizing a hybrid Odium serum that will create an unstoppable Super-Soldier army.
+ID_LE_STARLORD_CHANCE,Earn Star-Lord Shards
+ID_LE_STARLORD_MC,GO!
+ID_LE_STARLORD_MS,Unlock Star-Lord by helping him!
+ID_LE_STARLORD_MT,The Space Ace Event has started!
+ID_LE_STARLORD_EN_SU,The Space Ace Event has ended.
+ID_LE_STARLORD_EN_BO,The event is now over.
+ID_ME_NA_STARLORD_LE_TEASER,Coming Soon: Space Ace
+ID_ME_DE_STARLORD_LE_TEASER,Unlock Star-Lord!
+ID_ME_BO_STARLORD_LE_TEASER,Assemble a 5-star team of <color=#fff568>Guardian and Ravager</color> members for a chance to recruit Star-Lord.\n\n<color=#fff568>Legendary Event Requirements:</color>\n- Five (5) Guardian and Ravager characters at 5 Stars\n- Rank requirement increases by 1 with each tier\n\nJoin the fight to recruit Star-Lord!
+ID_ME_NA_STARLORD_LE_ANNOUNCE,LIVE: Space Ace
+ID_ME_DE_STARLORD_LE_ANNOUNCE,Recruit Star-Lord now!
+ID_ME_BO_STARLORD_LE_ANNOUNCE,Assemble your top 5 <color=#fff568>Guardian and Ravager</color> members to recruit <color=#fff568>Star-Lord</color> in this Legendary event.\n\n<color=#fff568>Legendary Event Requirements</color>:\n- Five (5) Guardian and Ravager characters at 5 Stars\n- Rank requirement increases by 1 with each tier\n\nJoin the fight to recruit Star-Lord!
+ID_INFO_GOINGKNOWHERE_NA,Going Knowhere
+ID_INFO_GOINGKNOWHERE_DE,2x Guardian and Ravager shards
+ID_INFO_GOINGKNOWHERE_BO,"The number of Guardian and Ravager character shards rewarded for completing Campaign nodes will double from 2 to 4. These characters will help you with the upcoming Space Ace Legendary Event.\n\nPlease filter your roster using the trait ""Guardian"" or ""Ravager"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_LE_SHURI_NAME,Princess and the Symbiote
+ID_LE_SHURI_DESC,"Ultimus has converted the Carnage Symbiote into a dangerous super-soldier serum for his army. With the aid of Spider-Man, Shuri and her fellow Wakandans must find a way to rid Ultimus of this new weapon."
+ID_LE_SHURI_CHANCE,Earn Shuri Shards
+ID_LE_SHURI_MC,GO!
+ID_LE_SHURI_MS,Unlock Shuri
+ID_LE_SHURI_MT,The Princess and the Symbiote Event has started!
+ID_LE_SHURI_EN_SU,The Princess and the Symbiote Event has ended.
+ID_LE_SHURI_EN_BO,The event is now over.
+ID_INFO_TANGLEDWEB_NA,Tangled Web
+ID_INFO_TANGLEDWEB_DE,2x Spider-Verse shards
+ID_INFO_TANGLEDWEB_BO,"The number of Spider-Verse character shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Princess and the Symbiote Legendary Event.\n\nPlease filter your roster using the trait ""Spider-Verse"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_LE_INVISIBLEWOMAN_NAME,Now You See Me
+ID_LE_INVISIBLEWOMAN_DESC,Invisible Woman must lead a team of Sinister Six to a dimension where a corrupted Spider-Man controls tech that threatens our reality.
+ID_LE_INVISIBLEWOMAN_CHANCE,Earn Invisible Woman shards
+ID_LE_INVISIBLEWOMAN_MC,GO!
+ID_LE_INVISIBLEWOMAN_MS,Unlock Invisible Woman
+ID_LE_INVISIBLEWOMAN_MT,The Now You See Me Event has started!
+ID_LE_INVISIBLEWOMAN_EN_SU,The Now You See Me Event has ended.
+ID_LE_INVISIBLEWOMAN_EN_BO,The event is now over.
+ID_ME_NA_INVISIBLEWOMAN_LE_TEASER,Coming Soon: Now You See Me
+ID_ME_DE_INVISIBLEWOMAN_LE_TEASER,Unlock Invisible Woman!
+ID_ME_BO_INVISIBLEWOMAN_LE_TEASER,Assemble a 5-star team of <color=#fff568>Sinister Six</color> members for a chance to recruit Invisible Woman and her powerful abilities:\n- Legendary Protector for the Fantastic Four - Versatile Powerhouse\n- Applies Barrier & Stealth to allies\n- Removes ally negative effects\n- Removes enemy Stealth\n\n<color=#fff568>Legendary Event Requirements:</color>\n- Five (5) Sinister Six characters at 5 Stars\n- Rank requirement increases by 1 with each tier\n\nJoin the fight to recruit Invisible Woman and unlock the legendary Fantastic Four member!
+ID_ME_NA_INVISIBLEWOMAN_LE_ANNOUNCE,LIVE: Now You See Me
+ID_ME_DE_INVISIBLEWOMAN_LE_ANNOUNCE,Recruit Invisible Woman now!
+ID_ME_BO_INVISIBLEWOMAN_LE_ANNOUNCE,Assemble your top 5 <color=#fff568>Sinister Six</color> members to recruit <color=#fff568>Invisible Woman</color> in this Legendary event.\n\n<color=#fff568>Legendary Event Requirements</color>:\n- Five (5) Sinister Six characters at 5 Stars\n- Rank requirement increases by 1 with each tier\n\nJoin the fight to recruit Invisible Woman and unlock the Fantastic Four Legendary Protector!
+ID_INFO_NA_DOUBLETROUBLE,Double Trouble
+ID_INFO_DE_DOUBLETROUBLE,2x Sinister Six shards
+ID_INFO_BO_DOUBLETROUBLE,"The number of Sinister Six shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Now You See Me Legendary Event.\n\nPlease filter your roster using the trait ""Sinister Six"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_LE_ADAMWARLOCK_NAME,The Infinity Watch
+ID_LE_ADAMWARLOCK_DESC,"After returning to Nexus Earth, Phyla-Vell and Moondragon seek the help of X-Factor Investigations to find the last missing member of the Infinity Watch - Adam Warlock."
+ID_LE_ADAMWARLOCK_CHANCE,Earn Adam Warlock shards
+ID_LE_ADAMWARLOCK_MC,GO!
+ID_LE_ADAMWARLOCK_MS,Unlock Adam Warlock
+ID_LE_ADAMWARLOCK_MT,The Infinity Watch Event has started!
+ID_LE_ADAMWARLOCK_EN_SU,The Infinity Watch Event has ended.
+ID_LE_ADAMWARLOCK_EN_BO,The Infinity Watch Event is now over.
+ID_LE_OMEGARED_NAME,Red Death
+ID_LE_OMEGARED_DESC,Nick Fury recruits Omega Red to help track down Baron Zemo and put a stop to his carbonadium experiments.
+ID_LE_OMEGARED_CHANCE,Earn Omega Red shards
+ID_LE_OMEGARED_MC,GO!
+ID_LE_OMEGARED_MS,Unlock Omega Red
+ID_LE_OMEGARED_MT,The Red Death Event has started!
+ID_LE_OMEGARED_EN_SU,The Red Death Event has ended.
+ID_LE_OMEGARED_EN_BO,The Red Death Event is now over.
+ID_INFO_NA_DUALTHREATS,Dual Threats
+ID_INFO_DE_DUALTHREATS,2x Secret Avenger and Winter Soldier shards
+ID_INFO_BO_DUALTHREATS,"For 24 hours, the number of Secret Avenger and Winter Soldier character shards rewarded in Campaigns will double from 2 to 4. These characters will help you with Omega Red's upcoming Red Death Legendary Event.\n\nPlease filter your roster using the trait ""Secret Avenger"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_INFO_NA_TWOBITDETECTIVES,Two-Bit Detectives
+ID_INFO_DE_TWOBITDETECTIVES,2x X-Factor shards
+ID_INFO_BO_TWOBITDETECTIVES,"For 24 hours, the number of X-Factor character shards rewarded in Campaigns will double from 2 to 4. These characters will help you with Adam Warlock's upcoming The Infinity Watch Legendary Event.\n\nPlease filter your roster using the trait ""X-Factor"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_LE_BLACKBOLT_NAME,Unite the Kingdoms
+ID_LE_BLACKBOLT_DESC,"When corrupted Ultron and Thanos attack the Inhuman capital of Attilan, S.T.R.I.K.E.'s Asgardian forces come to the rescue."
+ID_LE_BLACKBOLT_CHANCE,Earn Black Bolt shards
+ID_LE_BLACKBOLT_MC,GO!
+ID_LE_BLACKBOLT_MS,Unlock Black Bolt
+ID_LE_BLACKBOLT_MT,The Unite The Kingdoms Event has started!
+ID_LE_BLACKBOLT_EN_SU,The Unite The Kingdoms Event has ended.
+ID_LE_BLACKBOLT_EN_BO,The Unite The Kingdoms Event is now over.
+ID_INFO_NA_4ASGARD,4 Asgard!
+ID_INFO_DE_4ASGARD,2x Asgardian shards
+ID_INFO_BO_4ASGARD,"The number of Asgardian shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Unite the Kingdoms Legendary Event.\n\nPlease filter your roster using the trait ""Asgardian"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_LE_JUBILEE_NAME,"Like, Totally Jubilee"
+ID_LE_JUBILEE_DESC,"A friend of Stature's is stuck in the Microverse and needs a tiny bit of help to save the X-Men. Jubilee teams up with the Pym Tech team to save the X-Men and like, totally all reality."
+ID_LE_JUBILEE_CHANCE,Earn Jubilee shards
+ID_LE_JUBILEE_MC,GO!
+ID_LE_JUBILEE_MS,Unlock Jubilee
+ID_LE_JUBILEE_MT,"The Like, Totally Jubilee Event has started!"
+ID_LE_JUBILEE_EN_SU,"The Like, Totally Jubilee Event has ended."
+ID_LE_JUBILEE_EN_BO,"The Like, Totally Jubilee Event is now over."
+ID_INFO_NA_PYMACCELERATION,Pym Acceleration
+ID_INFO_DE_PYMACCELERATION,2x Pym Tech
+ID_INFO_BO_PYMACCELERATION,"For 24 hours, the number of Pym Tech character shards rewarded in Campaigns will double from 2 to 4. These characters will help you with Jubilee's upcoming Like, Totally Jubilee Legendary Event.\n\nPlease filter your roster using the trait ""Pym Tech"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_LE_EBONYMAW_NAME,Black & Ebony
+ID_LE_EBONYMAW_DESC,"Surrounded by enemies and under attack, the Inhumans are forced to work with Ebony Maw to find a tool to defeat Doctor Doom - three of the Infinity Stones!"
+ID_LE_EBONYMAW_CHANCE,Earn Ebony Maw shards
+ID_LE_EBONYMAW_MC,GO!
+ID_LE_EBONYMAW_MS,Unlock Ebony Maw
+ID_LE_EBONYMAW_MT,The Black & Ebony Event has started!
+ID_LE_EBONYMAW_EN_SU,The Black & Ebony Event has ended.
+ID_LE_EBONYMAW_EN_BO,The Black & Ebony Event is now over.
+ID_INFO_NA_TERRIGENSTORM,Terrigen Storm
+ID_INFO_DE_TERRIGENSTORM,2x Inhuman shards
+ID_INFO_BO_TERRIGENSTORM,"The number of Inhuman shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Black & Ebony Legendary Event.\n\nPlease filter your roster using the trait ""Inhuman"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_LE_DOCTOROCTOPUS_NAME,Surgical S.T.R.I.K.E.
+ID_LE_DOCTOROCTOPUS_DESC,"Forced underground by the forces of Doom, S.T.R.I.K.E. sends their covert X-Force team to aid an unlikely ally - Doctor Otto Octavius!"
+ID_LE_DOCTOROCTOPUS_CHANCE,Earn Doctor Octopus shards
+ID_LE_DOCTOROCTOPUS_MC,GO!
+ID_LE_DOCTOROCTOPUS_MS,Unlock Doctor Octopus
+ID_LE_DOCTOROCTOPUS_MT,The Surgical S.T.R.I.K.E. Event has started!
+ID_LE_DOCTOROCTOPUS_EN_SU,The Surgical S.T.R.I.K.E. Event has ended.
+ID_LE_DOCTOROCTOPUS_EN_BO,The Surgical S.T.R.I.K.E. Event is now over.
+ID_ME_NA_DOCTOROCTUPUS_LE_TEASER,Coming Soon: Surgical S.T.R.I.K.E.
+ID_ME_DE_DOCTOROCTUPUS_LE_TEASER,Unlock Doctor Octopus!
+ID_ME_BO_DOCTOROCTUPUS_LE_TEASER,Assemble 5-star <color=#fff568>X-Force</color> team members for a chance to recruit Doctor Octopus.\n\n<color=#fff568>Legendary Event Requirements:</color>\n- Five (5) X-Force characters at 5 Stars\n- Rank requirement increases by 1 with each tier\n\nJoin the fight to recruit Doctor Octopus!
+ID_ME_NA_DOCTOROCTUPUS_LE_ANNOUNCE,LIVE: Surgical S.T.R.I.K.E.
+ID_ME_DE_DOCTOROCTUPUS_LE_ANNOUNCE,Recruit Doctor Octopus now!
+ID_ME_BO_DOCTOROCTUPUS_LE_ANNOUNCE,Assemble your <color=#fff568>X-Force</color> members to recruit <color=#fff568>Doctor Octopus</color> in this Legendary event.\n\n<color=#fff568>Legendary Event Requirements</color>:\n- Five (5) X-Force characters at 5 Stars\n- Rank requirement increases by 1 with each tier\n\nJoin the fight to recruit Doctor Octopus!
+ID_INFO_NA_FULLFORCE,Full Force
+ID_INFO_DE_FULLFORCE,2x X-Force Shards
+ID_INFO_BO_FULLFORCE,"For 24 hours, the number of X-Force character shards rewarded in Campaigns will double from 2 to 4. These characters will help you with the upcoming Surgical S.T.R.I.K.E. Legendary Event.\n\nPlease filter your roster using the trait ""X-Force"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_LE_MAGNETO_NAME,Asteroid M
+ID_LE_MAGNETO_DESC,"After discovering Asteroid M has gone missing, Magneto reluctantly approaches Storm seeking aid. S.T.R.I.K.E.'s X-Men and the Brotherhood must find and recover the base before Ultimus can get his hands on it."
+ID_LE_MAGNETO_CHANCE,Earn Magneto Shards
+ID_LE_MAGNETO_MC,GO!
+ID_LE_MAGNETO_MS,Unlock Magneto
+ID_LE_MAGNETO_MT,The Asteroid M Event has started!
+ID_LE_MAGNETO_EN_SU,The Asteroid M Event has ended.
+ID_LE_MAGNETO_EN_BO,The event is now over.
+ID_ME_NA_MAGNETO_LE_TEASER,Coming Soon: Asteroid M
+ID_ME_DE_MAGNETO_LE_TEASER,Unlock Magneto!
+ID_ME_BO_MAGNETO_LE_TEASER,Assemble a 5-star team of <color=#fff568>X-Men and Brotherhood</color> members for a chance to recruit Magneto.\n\n<color=#fff568>Legendary Event Requirements:</color>\n- Five (5) X-Men and Brotherhood characters at 5 Stars\n- Rank requirement increases by 1 with each tier\n\nJoin the fight to recruit Magneto!
+ID_ME_NA_MAGNETO_LE_ANNOUNCE,LIVE: Asteroid M
+ID_ME_DE_MAGNETO_LE_ANNOUNCE,Recruit Magneto now!
+ID_ME_BO_MAGNETO_LE_ANNOUNCE,Assemble your top 5 <color=#fff568>X-Men and Brotherhood</color> members to recruit <color=#fff568>Magneto</color> in this Legendary event.\n\n<color=#fff568>Legendary Event Requirements</color>:\n- Five (5) X-Men and Brotherhood characters at 5 Stars\n- Rank requirement increases by 1 with each tier\n\nJoin the fight to recruit Magneto!
+ID_INFO_NA_BROMEN,Gifted Gathering
+ID_INFO_DE_BROMEN,2x X-Men and Brotherhood shards
+ID_INFO_BO_BROMEN,"The number of X-Men and Brotherhood shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Asteroid M Legendary Event.\n\nPlease filter your roster using the trait ""X-Men"" or ""Brotherhood"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_LE_JEANGREY_NAME,Phoenix Rising
+ID_LE_JEANGREY_DESC,"When a shard of the Phoenix Force becomes trapped in an alternate dimension, Phoenix rallies Mordo and other Mystic members of S.T.R.I.K.E. to retrieve it and set in motion a plan to imprison Ultimus for good."
+ID_LE_JEANGREY_CHANCE,Earn Phoenix Shards
+ID_LE_JEANGREY_MC,GO!
+ID_LE_JEANGREY_MS,Unlock Phoenix
+ID_LE_JEANGREY_MT,The Phoenix Rising Event has started!
+ID_LE_JEANGREY_EN_SU,The Phoenix Rising Event has ended.
+ID_LE_JEANGREY_EN_BO,The event is now over.
+ID_ME_NA_JEANGREY_LE_TEASER,Coming Soon: Phoenix Rising
+ID_ME_DE_JEANGREY_LE_TEASER,Unlock Phoenix!
+ID_ME_BO_JEANGREY_LE_TEASER,"Assemble a 5-star team of <color=#fff568>Villain, Mystic, Controller</color> members for a chance to recruit Phoenix.\n\n<color=#fff568>Legendary Event Requirements:</color>\n- Five (5) Villain, Mystic, Controller characters at 5 Stars\n- Rank requirement increases by 1 with each tier\n\nJoin the fight to recruit Phoenix!"
+ID_ME_NA_JEANGREY_LE_ANNOUNCE,LIVE: Phoenix Rising
+ID_ME_DE_JEANGREY_LE_ANNOUNCE,Recruit Phoenix now!
+ID_ME_BO_JEANGREY_LE_ANNOUNCE,"Assemble your top 5 <color=#fff568>Villain, Mystic, Controller</color> members to recruit <color=#fff568>Phoenix</color> in this Legendary event.\n\n<color=#fff568>Legendary Event Requirements</color>:\n- Five (5) Villain, Mystic, Controller characters at 5 Stars\n- Rank requirement increases by 1 with each tier\n\nJoin the fight to recruit Phoenix!"
+ID_INFO_MALICIOUSMANIPULATORS_NA,Malicious Manipulators
+ID_INFO_MALICIOUSMANIPULATORS_DE,2x shards for event characters
+ID_INFO_MALICIOUSMANIPULATORS_BO,"The number of Villain, Mystic, Controller character shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Phoenix Rising Legendary Event.\n\nPlease filter your roster using the traits ""Villain,"" ""Mystic,"" and ""Controller"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_ECM_NAME_A,Hard
+ID_ECM_NAME_B,Medium
+ID_ECM_NAME_C,Easy
+ID_ECM_NAME_H,Heroic
+ID_ECM_ANTMAN_NAME,I am the Ant-Man
+ID_ECM_ANTMAN_DESC,Ant-Man must wield Pym tech and his wits to foil a new threat from Ultimus and corrupted Vision.
+ID_ECM_CHANCE_ANTMAN,Earn Ant-Man Shards
+ID_ECM_ANTMAN_DESC_A,Recommendations:\n- Squad Lvl 55-60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nAnt-Man must wield Pym tech and his wits to foil a new threat from Ultimus and corrupted Vision.
+ID_ECM_ANTMAN_DESC_B,Recommendations:\n- Squad Lvl 40-45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nAnt-Man must wield Pym tech and his wits to foil a new threat from Ultimus and corrupted Vision.
+ID_ECM_ANTMAN_DESC_C,Recommendations:\n- Squad Lvl 25-30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nAnt-Man must wield Pym tech and his wits to foil a new threat from Ultimus and corrupted Vision.
+ID_ECM_ANTMAN_MB,Ant-Man must wield Pym tech and his wits to foil a new threat from Ultimus and corrupted Vision.
+ID_ECM_ANTMAN_MC,GO!
+ID_ECM_ANTMAN_MT,The I am the Ant-Man Event has started!
+ID_ECM_ANTMAN_MS,Ant-Man must foil corrupted Vision's plans
+ID_ECM_AS_NAME,Favor of the Gods
+ID_ECM_AS_DESC,"When a corrupted Hela makes her presence known on Nexus Earth, S.T.R.I.K.E. sends Asgardians and their Galactic Warriors to stop her evil plans. "
+ID_ECM_CHANCE_AS,Earn Heimdall shards
+ID_ECM_AS_DESC_A,Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nUltimus and a corrupted Hela have collected an army of inter-dimensional undead heroes and villains. It is up to the Asgardians and S.T.R.I.K.E. to stop this army in its tracks.
+ID_ECM_AS_DESC_B,Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nUltimus and a corrupted Hela have collected an army of inter-dimensional undead heroes and villains. It is up to the Asgardians and S.T.R.I.K.E. to stop this army in its tracks.
+ID_ECM_AS_DESC_C,Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nUltimus and a corrupted Hela have collected an army of inter-dimensional undead heroes and villains. It is up to the Asgardians and S.T.R.I.K.E. to stop this army in its tracks.
+ID_ECM_AS_MB,"When a corrupted Hela makes her presence known on Nexus Earth, S.T.R.I.K.E. sends Asgardians and their Galactic Warriors to stop her evil plans. "
+ID_ECM_AS_MC,GO!
+ID_ECM_AS_MT,The Favor of the Gods event has started!
+ID_ECM_AS_MS,Assist Heimdall in a multidimensional hunt for a corrupted Hela and her amassed undead army.
+ID_ECM_BLACKORDER_NAME,Enter the Black Order
+ID_ECM_BLACKORDER_DESC,"With the Nexus Reality's Infinity Stones lost to the multiverse, Thanos sends his Black Order to find the Stones of other realities instead."
+ID_ECM_CHANCE_BLACKORDER,Earn Proxima Midnight shards
+ID_ECM_BLACKORDER_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWith the Nexus Reality's Infinity Stones lost to the multiverse, Thanos sends his Black Order to find the Stones of other realities instead."
+ID_ECM_BLACKORDER_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nWith the Nexus Reality's Infinity Stones lost to the multiverse, Thanos sends his Black Order to find the Stones of other realities instead."
+ID_ECM_BLACKORDER_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nWith the Nexus Reality's Infinity Stones lost to the multiverse, Thanos sends his Black Order to find the Stones of other realities instead."
+ID_ECM_BLACKORDER_MB,"With the Nexus Reality's Infinity Stones lost to the multiverse, Thanos sends his Black Order to find the Stones of other realities instead."
+ID_ECM_BLACKORDER_MC,GO!
+ID_ECM_BLACKORDER_MT,The Enter the Black Order event has started!
+ID_ECM_BLACKORDER_MS,Help the Black Order find the Infinity Stones for the glory of Thanos!
+ID_ECM_BT_NAME,Misfit Misadventures
+ID_ECM_BT_DESC,"After accidentally freeing members of a corrupted Brotherhood, Blob and Toad try to redeem themselves to Nick Fury and S.T.R.I.K.E. and keep from making matters worse in the process."
+ID_ECM_CHANCE_BT,Earn Toad shards
+ID_ECM_BT_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nAfter accidentally freeing members of a corrupted Brotherhood, Blob and Toad try to redeem themselves to Nick Fury and S.T.R.I.K.E. and keep from making matters worse in the process."
+ID_ECM_BT_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nAfter accidentally freeing members of a corrupted Brotherhood, Blob and Toad try to redeem themselves to Nick Fury and S.T.R.I.K.E. and keep from making matters worse in the process."
+ID_ECM_BT_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nAfter accidentally freeing members of a corrupted Brotherhood, Blob and Toad try to redeem themselves to Nick Fury and S.T.R.I.K.E. and keep from making matters worse in the process."
+ID_ECM_BT_MB,"After accidentally freeing members of a corrupted Brotherhood, Blob and Toad try to redeem themselves to Nick Fury and S.T.R.I.K.E. and keep from making matters worse in the process."
+ID_ECM_BT_MC,GO!
+ID_ECM_BT_MT,The Misfit Misadventures event has started!
+ID_ECM_BT_MS,Assist Toad and Blob in redeeming themselves to Nick Fury and S.T.R.I.K.E.
+ID_ECM_CRY_NAME,Imperial Affairs
+ID_ECM_CRY_DESC,"When the corrupted versions of Red Skull and Karnak combine Inhuman DNA and the Super-Soldier formula, Crystal must unite Inhumans and mutants to stop them. "
+ID_ECM_CHANCE_CRY,Earn Crystal shards
+ID_ECM_CRY_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWhen the corrupted versions of Red Skull and Karnak combine Inhuman DNA and the Super Soldier formula, Crystal must unite Inhumans and Mutants to stop them."
+ID_ECM_CRY_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nWhen the corrupted versions of Red Skull and Karnak combine Inhuman DNA and the Super Soldier formula, Crystal must unite Inhumans and Mutants to stop them."
+ID_ECM_CRY_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nWhen the corrupted versions of Red Skull and Karnak combine Inhuman DNA and the Super Soldier formula, Crystal must unite Inhumans and Mutants to stop them."
+ID_ECM_CRY_MB,"When the corrupted versions of Red Skull and Karnak combine Inhuman DNA and the Super Soldier formula, Crystal must unite Inhumans and Mutants to stop them. "
+ID_ECM_CRY_MC,GO!
+ID_ECM_CRY_MT,The Imperial Affairs event has started!
+ID_ECM_CRY_MS,Assist Crystal in taking down the corrupted versions of Red Skull and Karnak who have combined the Inhuman DNA and the Super Soldier formula.
+ID_ECM_DOMINO_NAME,Serendipity
+ID_ECM_DOMINO_DESC,"S.T.R.I.K.E., trapped in Mister Sinister's domain, must find a way to resupply and get to safety while evading certain doom."
+ID_ECM_CHANCE_DOMINO,Earn Domino shards
+ID_ECM_DOMINO_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nS.T.R.I.K.E., trapped in Mister Sinister's domain, must find a way to resupply and get to safety while evading certain doom."
+ID_ECM_DOMINO_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nS.T.R.I.K.E., trapped in Mister Sinister's domain, must find a way to resupply and get to safety while evading certain doom."
+ID_ECM_DOMINO_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nS.T.R.I.K.E., trapped in Mister Sinister's domain, must find a way to resupply and get to safety while evading certain doom."
+ID_ECM_DOMINO_MB,"S.T.R.I.K.E., trapped in Mister Sinister's domain, must find a way to resupply and get to safety while evading certain doom."
+ID_ECM_DOMINO_MC,GO!
+ID_ECM_DOMINO_MT,The Serendipity event has started!
+ID_ECM_DEATHPOOL_NAME,Shadow of Deathpool
+ID_ECM_DEATHPOOL_DESC,"When a Thanos obsessed with ridding the multiverse of Deadpools arrives on Nexus Earth, the merc with the mouth finds himself rescued by someone surprising - his daughter from another dimension!"
+ID_ECM_CHANCE_DEATHPOOL,Earn Deathpool shards
+ID_ECM_DEATHPOOL_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWhen a Thanos obsessed with ridding the multiverse of Deadpools arrives on Nexus Earth, the merc with the mouth finds himself rescued by someone surprising - his daughter from another dimension!"
+ID_ECM_DEATHPOOL_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nWhen a Thanos obsessed with ridding the multiverse of Deadpools arrives on Nexus Earth, the merc with the mouth finds himself rescued by someone surprising - his daughter from another dimension!"
+ID_ECM_DEATHPOOL_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nWhen a Thanos obsessed with ridding the multiverse of Deadpools arrives on Nexus Earth, the merc with the mouth finds himself rescued by someone surprising - his daughter from another dimension!"
+ID_ECM_DEATHPOOL_MB,"When a Thanos obsessed with ridding the multiverse of Deadpools arrives on Nexus Earth, the merc with the mouth finds himself rescued by someone surprising - his daughter from another dimension!"
+ID_ECM_DEATHPOOL_MC,GO!
+ID_ECM_DEATHPOOL_MT,The Shadow of Deathpool event has started!
+ID_ECM_SPIDERPUNK_NAME,Rock-N-Roll
+ID_ECM_SPIDERPUNK_DESC,"Spiders are disappearing all across the multiverse! Spider-Man teams up with the legendary Spider-Punk to put a stop to the monster responsible. "
+ID_ECM_CHANCE_SPIDERPUNK,Earn Spider Punk shards
+ID_ECM_SPIDERPUNK_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nSpiders are disappearing all across the multiverse! Spider-Man teams up with the legendary Spider-Punk to put a stop to the monster responsible. "
+ID_ECM_SPIDERPUNK_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nSpiders are disappearing all across the multiverse! Spider-Man teams up with the legendary Spider-Punk to put a stop to the monster responsible. "
+ID_ECM_SPIDERPUNK_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nSpiders are disappearing all across the multiverse! Spider-Man teams up with the legendary Spider-Punk to put a stop to the monster responsible. "
+ID_ECM_SPIDERPUNK_MB,"Spiders are disappearing all across the multiverse! Spider-Man teams up with the legendary Spider-Punk to put a stop to the monster responsible. "
+ID_ECM_SPIDERPUNK_MC,GO!
+ID_ECM_SPIDERPUNK_MT,The Rock-N-Roll event has started!
+ID_ECM_EL_NAME,The Bloodstone Files
+ID_ECM_EL_DESC,Elsa Bloodstone regales Nick Fury with tales of her exploits before joining S.T.R.I.K.E. on a crucial search and rescue mission.
+ID_ECM_CHANCE_EL,Earn Elsa Bloodstone shards
+ID_ECM_EL_DESC_A,Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nElsa Bloodstone regales Nick Fury with tales of her exploits before joining S.T.R.I.K.E. on a crucial search and rescue mission.
+ID_ECM_EL_DESC_B,Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nElsa Bloodstone regales Nick Fury with tales of her exploits before joining S.T.R.I.K.E. on a crucial search and rescue mission.
+ID_ECM_EL_DESC_C,Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nElsa Bloodstone regales Nick Fury with tales of her exploits before joining S.T.R.I.K.E. on a crucial search and rescue mission.
+ID_ECM_EL_MB,Elsa Bloodstone regales Nick Fury with tales of her exploits before joining S.T.R.I.K.E. on a crucial search and rescue mission.
+ID_ECM_EL_MC,GO!
+ID_ECM_EL_MT,The Bloodstone Files Event has started!
+ID_ECM_EL_MS,Assist Elsa Bloodstone in a crucial search and rescue mission.
+ID_ECM_FA_NAME,Front Lines
+ID_ECM_FA_DESC,"With War raging across Nexus Earth, Falcon must lead an inter-dimensional S.T.R.I.K.E. team to take down Ultimus's Helicarriers."
+ID_ECM_CHANCE_FA,Earn Falcon character shards
+ID_ECM_FA_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWith War raging across Nexus Earth, Falcon must lead an inter-dimensional S.T.R.I.K.E. team to take down Ultimus's Helicarriers."
+ID_ECM_FA_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nWith War raging across Nexus Earth, Falcon must lead an inter-dimensional S.T.R.I.K.E. team to take down Ultimus's Helicarriers."
+ID_ECM_FA_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nWith War raging across Nexus Earth, Falcon must lead an inter-dimensional S.T.R.I.K.E. team to take down Ultimus's Helicarriers."
+ID_ECM_FA_MB,"With War raging across Nexus Earth, Falcon must lead an inter-dimensional S.T.R.I.K.E. team to take down Ultimus's Helicarriers."
+ID_ECM_FA_MC,GO!
+ID_ECM_FA_MT,The Front Lines Event has started!
+ID_ECM_FA_MS,Assist Falcon in taking down Ultimus's invading Helicarriers.
+ID_ECM_FANTOMEX_NAME,To X a Thief
+ID_ECM_FANTOMEX_DESC,"When the dashing mutant thief Fantomex senses something is off with a job, he brings his purloined goods to the X-Men to get help and find out who set him up."
+ID_ECM_CHANCE_FANTOMEX,Earn Fantomex shards
+ID_ECM_FANTOMEX_DESC_A,"Recommendations:\n- Squad Lvl 85+\n- Gear Tier 15+\n- Ability Lvl 6+\n\nWhen the dashing mutant thief Fantomex senses something is off with a job, he brings his purloined goods to the X-Men to get help and find out who set him up."
+ID_ECM_FANTOMEX_DESC_B,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWhen the dashing mutant thief Fantomex senses something is off with a job, he brings his purloined goods to the X-Men to get help and find out who set him up."
+ID_ECM_FANTOMEX_DESC_C,"Recommendations:\n- Squad Lvl 35+\n- Gear Tier 6+\n- Ability Lvl 2+\n\nWhen the dashing mutant thief Fantomex senses something is off with a job, he brings his purloined goods to the X-Men to get help and find out who set him up."
+ID_ECM_FANTOMEX_MB,"When the dashing mutant thief Fantomex senses something is off with a job, he brings his purloined goods to the X-Men to get help and find out who set him up."
+ID_ECM_FANTOMEX_MC,GO!
+ID_ECM_FANTOMEX_MT,The To X a Thief event has started!
+ID_ECM_FF_NAME,Two-in-One
+ID_ECM_FF_DESC,"Returning to their home and finding the dimension ravaged by war, the Thing and the Human Torch regroup and join the fight against Ultimus."
+ID_ECM_CHANCE_FF,Earn the Thing character shards
+ID_ECM_FF_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nReturning to their home and finding the dimension ravaged by war, the Thing and the Human Torch regroup and join the fight against Ultimus."
+ID_ECM_FF_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nReturning to their home and finding the dimension ravaged by war, the Thing and the Human Torch regroup and join the fight against Ultimus."
+ID_ECM_FF_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nReturning to their home and finding the dimension ravaged by war, the Thing and the Human Torch regroup and join the fight against Ultimus."
+ID_ECM_FF_MB,"Returning to their home and finding the dimension ravaged by war, the Thing and the Human Torch regroup and join the fight against Ultimus."
+ID_ECM_FF_MC,GO!
+ID_ECM_FF_MT,The Two-in-One Event has started!
+ID_ECM_FF_MS,Join the Human Torch and the Thing in a fight against Ultimus!
+ID_ECM_JU_NAME,Unstoppable
+ID_ECM_JU_DESC,Juggernaut seeks to destroy Ultimus's mystic portal network.
+ID_ECM_CHANCE_JU,Earn Juggernaut Shards
+ID_ECM_JU_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWith encouragement from Magneto, Juggernaut decides to put his strength to the test by destroying Ultimus's mystic portal network."
+ID_ECM_JU_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nWith encouragement from Magneto, Juggernaut decides to put his strength to the test by destroying Ultimus's mystic portal network."
+ID_ECM_JU_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nWith encouragement from Magneto, Juggernaut decides to put his strength to the test by destroying Ultimus's mystic portal network."
+ID_ECM_JU_MB,"With encouragement from Magneto, Juggernaut decides to put his strength to the test by destroying Ultimus's mystic portal network."
+ID_ECM_JU_MC,GO!
+ID_ECM_JU_MT,The Unstoppable Event has started!
+ID_ECM_JU_MS,Destroy Ultimus's mystic portal network
+ID_ECM_KR_NAME,Kree Commandos
+ID_ECM_KR_DESC,"In response to the looming threat of a Helicarrier invasion, Fury and Ronan devise a plan to use Kree tech to get allied S.T.R.I.K.E. forces into our dimension."
+ID_ECM_CHANCE_KR,Earn Kree character shards
+ID_ECM_KR_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nIn response to the looming threat of a Helicarrier invasion, Fury and Ronan devise a plan to use Kree tech to get allied S.T.R.I.K.E. forces into our dimension."
+ID_ECM_KR_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nIn response to the looming threat of a Helicarrier invasion, Fury and Ronan devise a plan to use Kree tech to get allied S.T.R.I.K.E. forces into our dimension."
+ID_ECM_KR_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nIn response to the looming threat of a Helicarrier invasion, Fury and Ronan devise a plan to use Kree tech to get allied S.T.R.I.K.E. forces into our dimension."
+ID_ECM_KR_MB,"In response to the looming threat of a Helicarrier invasion, Fury and Ronan devise a plan to use Kree tech to get allied S.T.R.I.K.E. forces into our dimension."
+ID_ECM_KR_MC,GO!
+ID_ECM_KR_MT,The Kree Commandos Event has started!
+ID_ECM_KR_MS,Assist Minn-Erva with gathering resources needed to get allied S.T.R.I.K.E. forces into our dimension.
+ID_ECM_MRFAN_NAME,Fantastic Plans
+ID_ECM_MRFAN_DESC,"Joining forces with S.T.R.I.K.E., Mister Fantastic must reclaim his stolen inventions from A.I.M. and do battle with an old enemy."
+ID_ECM_CHANCE_MRFAN,Earn Graviton character shards
+ID_ECM_MRFAN_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nJoining forces with S.T.R.I.K.E., Mister Fantastic must reclaim his stolen inventions from A.I.M. and do battle with an old enemy."
+ID_ECM_MRFAN_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nJoining forces with S.T.R.I.K.E., Mister Fantastic must reclaim his stolen inventions from A.I.M. and do battle with an old enemy."
+ID_ECM_MRFAN_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nJoining forces with S.T.R.I.K.E., Mister Fantastic must reclaim his stolen inventions from A.I.M. and do battle with an old enemy.."
+ID_ECM_MRFAN_MB,"Joining forces with S.T.R.I.K.E., Mister Fantastic must reclaim his stolen inventions from A.I.M. and do battle with an old enemy."
+ID_ECM_MRFAN_MC,GO!
+ID_ECM_MRFAN_MT,The Fantastic Plans Event has started!
+ID_ECM_MRFAN_MS,Join Mister Fantastic to do battle with A.I.M. and Namor!
+ID_ECM_MM_NAME,Jersey's Finest
+ID_ECM_MM_DESC,Help Ms. Marvel defend Jersey City!
+ID_ECM_CHANCE_MM,Earn Ms. Marvel Shards
+ID_ECM_MM_DESC_A,Recommendations:\n- Squad Lvl 58-60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nMs. Marvel must find a way to protect the M'Kraan Crystal from Ultimus's forces as they attack Jersey City.
+ID_ECM_MM_DESC_B,Recommendations:\n- Squad Lvl 43-48+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nMs. Marvel must find a way to protect the M'Kraan Crystal from Ultimus's forces as they attack Jersey City.
+ID_ECM_MM_DESC_C,Recommendations:\n- Squad Lvl 28-33+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nMs. Marvel must find a way to protect the M'Kraan Crystal from Ultimus's forces as they attack Jersey City.
+ID_ECM_MM_MB,Ms. Marvel must find a way to protect the M'Kraan Crystal from Ultimus's forces as they attack Jersey City.
+ID_ECM_MM_MC,GO!
+ID_ECM_MM_MT,The Jersey's Finest Event has started!
+ID_ECM_MM_MS,Protect the M'Kraan Crystal
+ID_ECM_PSY_NAME,Move In Shadows
+ID_ECM_PSY_DESC,"With the X-Men trapped in Limbo, Psylocke leads a team of S.T.R.I.K.E. Martial Artists on a covert rescue mission."
+ID_ECM_CHANCE_PSY,Earn Psylocke character shards
+ID_ECM_PSY_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWith the X-Men trapped in Limbo, Psylocke leads a team of S.T.R.I.K.E. Martial Artists on a covert rescue mission."
+ID_ECM_PSY_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nWith the X-Men trapped in Limbo, Psylocke leads a team of S.T.R.I.K.E. Martial Artists on a covert rescue mission."
+ID_ECM_PSY_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nWith the X-Men trapped in Limbo, Psylocke leads a team of S.T.R.I.K.E. Martial Artists on a covert rescue mission."
+ID_ECM_PSY_MB,"With the X-Men trapped in Limbo, Psylocke leads a team of S.T.R.I.K.E. Martial Artists on a covert rescue mission.."
+ID_ECM_PSY_MC,GO!
+ID_ECM_PSY_MT,The Move In Shadows Event has started!
+ID_ECM_PSY_MS,Assist Psylocke in rescuing the X-Men.
+ID_ECM_PY_NAME,Hot Head
+ID_ECM_PY_DESC,Pyro must destroy Ultimus's Prime Sentinels operation.
+ID_ECM_CHANCE_PY,Earn Pyro Shards
+ID_ECM_PY_DESC_A,Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nMagneto sends Pyro to a fallen dimension with the objective to destroy Ultimus's Prime Sentinels operation.
+ID_ECM_PY_DESC_B,Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nMagneto sends Pyro to a fallen dimension with the objective to destroy Ultimus's Prime Sentinels operation.
+ID_ECM_PY_DESC_C,Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nMagneto sends Pyro to a fallen dimension with the objective to destroy Ultimus's Prime Sentinels operation.
+ID_ECM_PY_MB,Magneto sends Pyro to a fallen dimension with the objective to destroy Ultimus's Prime Sentinels operation.
+ID_ECM_PY_MC,GO!
+ID_ECM_PY_MT,The Hot Head Event has started!
+ID_ECM_PY_MS,Destroy Ultimus's Prime Sentinels operation
+ID_ECM_ROCKET_NAME,Rocket's Gambit
+ID_ECM_ROCKET_DESC,Help Rocket Raccoon save his uprooted friend and in return he'll join your S.T.R.I.K.E. force.
+ID_ECM_ROCKET_DESC_A,Recommendations:\n- Squad Lvl 55-60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nGroot has gone missing! Help Rocket Raccoon save his uprooted friend and in return he'll join your S.T.R.I.K.E. force.
+ID_ECM_ROCKET_DESC_B,Recommendations:\n- Squad Lvl 40-45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nGroot has gone missing! Help Rocket Raccoon save his uprooted friend and in return he'll join your S.T.R.I.K.E. force.
+ID_ECM_ROCKET_DESC_C,Recommendations:\n- Squad Lvl 25-30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nGroot has gone missing! Help Rocket Raccoon save his uprooted friend and in return he'll join your S.T.R.I.K.E. force.
+ID_ECM_CHANCE_ROCKET,Earn Rocket Raccoon Shards
+ID_ECM_ROCKET_MB,Groot has gone missing! Help Rocket Raccoon save his uprooted friend and in return he'll join your S.T.R.I.K.E. force.
+ID_ECM_ROCKET_MC,GO!
+ID_ECM_ROCKET_MT,The Rocket's Gambit Event has started!
+ID_ECM_ROCKET_MS,Groot is gone and Rocket needs your help!
+ID_ECM_SA_NAME,Hunter's Instinct
+ID_ECM_SA_DESC,Help Sabretooth hunt down the creator of the Legacy Virus.
+ID_ECM_CHANCE_SA,Earn Sabretooth Shards
+ID_ECM_SA_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nDriven by the desire to get revenge for Magneto and all mutants, Sabretooth seeks to hunt down the creator of the Legacy Virus."
+ID_ECM_SA_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nDriven by the desire to get revenge for Magneto and all mutants, Sabretooth seeks to hunt down the creator of the Legacy Virus."
+ID_ECM_SA_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nDriven by the desire to get revenge for Magneto and all mutants, Sabretooth seeks to hunt down the creator of the Legacy Virus."
+ID_ECM_SA_MB,"Driven by the desire to get revenge for Magneto and all mutants, Sabretooth seeks to hunt down the creator of the Legacy Virus."
+ID_ECM_SA_MC,GO!
+ID_ECM_SA_MT,The Hunter's Instinct Event has started!
+ID_ECM_SA_MS,Hunt down the creator of the Legacy Virus
+ID_ECM_SCREAM_NAME,Parasitic Intentions
+ID_ECM_SCREAM_DESC,Help Scream as she joins forces with Doctor Doom to find help with controlling her Symbiote and her mind.
+ID_ECM_CHANCE_SCREAM,Earn Scream shards
+ID_ECM_SCREAM_DESC_A,Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nHelp Scream as she joins forces with Doctor Doom to find help with controlling her Symbiote and her mind.
+ID_ECM_SCREAM_DESC_B,Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nHelp Scream as she joins forces with Doctor Doom to find help with controlling her Symbiote and her mind.
+ID_ECM_SCREAM_DESC_C,Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nHelp Scream as she joins forces with Doctor Doom to find help with controlling her Symbiote and her mind.
+ID_ECM_SCREAM_MB,Help Scream as she joins forces with Doctor Doom to find help with controlling her Symbiote and her mind.
+ID_ECM_SCREAM_MC,GO!
+ID_ECM_SCREAM_MT,The Parasitic Intentions event has started!
+ID_ECM_SERSI_NAME,Darkness Comes
+ID_ECM_SERSI_DESC,"When invaders from another realm come to Earth in search of an ancient artifact, the Eternal, Sersi, decides to assist S.T.R.I.K.E. to protect the world and the humans she has grown to love, even if it means defying the Celestials."
+ID_ECM_CHANCE_SERSI,Earn Sersi shards
+ID_ECM_SERSI_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWhen invaders from another realm come to Earth in search of an ancient artifact, the Eternal, Sersi, decides to assist S.T.R.I.K.E. to protect the world and the humans she has grown to love, even if it means defying the Celestials."
+ID_ECM_SERSI_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nWhen invaders from another realm come to Earth in search of an ancient artifact, the Eternal, Sersi, decides to assist S.T.R.I.K.E. to protect the world and the humans she has grown to love, even if it means defying the Celestials."
+ID_ECM_SERSI_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nWhen invaders from another realm come to Earth in search of an ancient artifact, the Eternal, Sersi, decides to assist S.T.R.I.K.E. to protect the world and the humans she has grown to love, even if it means defying the Celestials."
+ID_ECM_SERSI_MB,"When invaders from another realm come to Earth in search of an ancient artifact, the Eternal, Sersi, decides to assist S.T.R.I.K.E. to protect the world and the humans she has grown to love, even if it means defying the Celestials."
+ID_ECM_SERSI_MC,GO!
+ID_ECM_SERSI_MT,The Darkness Comes event has started!
+ID_ECM_DOCTORVOODOO_NAME,A Hero's Haunting
+ID_ECM_DOCTORVOODOO_DESC,"While investigating reports of paranormal occurrences, Doctor Voodoo and the Dark Hunters are plunged into the realm of demonic possessions. Their search for answers will cause them to question their past experience while finding out what really causes things to go bump in the night."
+ID_ECM_CHANCE_DOCTORVOODOO,Earn Doctor Voodoo shards
+ID_ECM_DOCTORVOODOO_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWhile investigating reports of paranormal occurrences, Doctor Voodoo and the Dark Hunters are plunged into the realm of demonic possessions. Their search for answers will cause them to question their past experience while finding out what really causes things to go bump in the night."
+ID_ECM_DOCTORVOODOO_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nWhile investigating reports of paranormal occurrences, Doctor Voodoo and the Dark Hunters are plunged into the realm of demonic possessions. Their search for answers will cause them to question their past experience while finding out what really causes things to go bump in the night."
+ID_ECM_DOCTORVOODOO_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nWhile investigating reports of paranormal occurrences, Doctor Voodoo and the Dark Hunters are plunged into the realm of demonic possessions. Their search for answers will cause them to question their past experience while finding out what really causes things to go bump in the night."
+ID_ECM_DOCTORVOODOO_MB,"While investigating reports of paranormal occurrences, Doctor Voodoo and the Dark Hunters are plunged into the realm of demonic possessions. Their search for answers will cause them to question their past experience while finding out what really causes things to go bump in the night."
+ID_ECM_DOCTORVOODOO_MC,GO!
+ID_ECM_DOCTORVOODOO_MT,The A Hero's Haunting event has started!
+ID_ECM_SILVERSAMURAI_NAME,Curse of Muramasa
+ID_ECM_SILVERSAMURAI_DESC,"When a new version of the Black Blade threatens Nexus Earth, Wolverine and Nick Fury turn to the only being who was able to resist its pull in our world--the Silver Samurai. "
+ID_ECM_CHANCE_SILVERSAMURAI,Earn Silver Samurai shards
+ID_ECM_SILVERSAMURAI_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWhen a new version of the Black Blade threatens Nexus Earth, Wolverine and Nick Fury turn to the only being who was able to resist its pull in our world--the Silver Samurai. "
+ID_ECM_SILVERSAMURAI_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nWhen a new version of the Black Blade threatens Nexus Earth, Wolverine and Nick Fury turn to the only being who was able to resist its pull in our world--the Silver Samurai. "
+ID_ECM_SILVERSAMURAI_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nWhen a new version of the Black Blade threatens Nexus Earth, Wolverine and Nick Fury turn to the only being who was able to resist its pull in our world--the Silver Samurai. "
+ID_ECM_SILVERSAMURAI_MB,"When a new version of the Black Blade threatens Nexus Earth, Wolverine and Nick Fury turn to the only being who was able to resist its pull in our world--the Silver Samurai. "
+ID_ECM_SILVERSAMURAI_MC,GO!
+ID_ECM_SILVERSAMURAI_MT,The Curse of Muramasa event has started!
+ID_ECM_STATURE_NAME,"Tiny Stature, Big Problem"
+ID_ECM_STATURE_DESC,Join Stature on a not-so-little adventure through the Quantum Realm as she proves that she isn't just Ant-Man's daughter.
+ID_ECM_CHANCE_STATURE,Earn Stature shards
+ID_ECM_STATURE_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nJoin Stature on a not-so-little adventure through the Quantum Realm as she proves that she isn't just Ant-Man's daughter, but also a hero."
+ID_ECM_STATURE_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nJoin Stature on a not-so-little adventure through the Quantum Realm as she proves that she isn't just Ant-Man's daughter, but also a hero."
+ID_ECM_STATURE_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nJoin Stature on a not-so-little adventure through the Quantum Realm as she proves that she isn't just Ant-Man's daughter, but also a hero."
+ID_ECM_STATURE_MB,"Join Stature on a not-so-little adventure through the Quantum Realm as she proves that she isn't just Ant-Man's daughter, but also a hero."
+ID_ECM_STATURE_MC,GO!
+ID_ECM_STATURE_MT,"The Tiny Stature, Big Problem event has started!"
+ID_ECM_SHATTERSTAR_NAME,Mojoverse Mayhem
+ID_ECM_SHATTERSTAR_DESC,Welcome back to Mojovision Mayhem! Watch as Shatterstar and Longshot compete in deadly tasks to earn Mojo's favor! Or will the Game Master prove to be too much for our father-son duo? Tune in and see!
+ID_ECM_CHANCE_SHATTERSTAR,Earn Shatterstar shards
+ID_ECM_SHATTERSTAR_DESC_A,Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWelcome back to Mojovision Mayhem! Watch as Shatterstar and Longshot compete in deadly tasks to earn Mojo's favor! Or will the Game Master prove to be too much for our father-son duo? Tune in and see!
+ID_ECM_SHATTERSTAR_DESC_B,Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nWelcome back to Mojovision Mayhem! Watch as Shatterstar and Longshot compete in deadly tasks to earn Mojo's favor! Or will the Game Master prove to be too much for our father-son duo? Tune in and see!
+ID_ECM_SHATTERSTAR_DESC_C,Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nWelcome back to Mojovision Mayhem! Watch as Shatterstar and Longshot compete in deadly tasks to earn Mojo's favor! Or will the Game Master prove to be too much for our father-son duo? Tune in and see!
+ID_ECM_SHATTERSTAR_MB,Welcome back to Mojovision Mayhem! Watch as Shatterstar and Longshot compete in deadly tasks to earn Mojo's favor! Or will the Game Master prove to be too much for our father-son duo? Tune in and see!
+ID_ECM_SHATTERSTAR_MC,GO!
+ID_ECM_SHATTERSTAR_MT,The Mojoverse Mayhem event has started!
+ID_ECM_STRANGESUPREME_NAME,Forbidden Knowledge
+ID_ECM_STRANGESUPREME_DESC,"When a dark mystical anomaly draws Scarlet Witch and Agatha Harkness to London, they encounter a sorcerer from another world and embark on a quest across space and time."
+ID_ECM_CHANCE_STRANGESUPREME,Earn Doctor Strange (Heartless) shards
+ID_ECM_STRANGESUPREME_DESC_A,"Recommendations:\n- Squad Lvl 85+\n- Gear Tier 15+\n- Ability Lvl 6+\n\nWhen a dark mystical anomaly draws Scarlet Witch and Agatha Harkness to London, they encounter a sorcerer from another world and embark on a quest across space and time."
+ID_ECM_STRANGESUPREME_DESC_B,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWhen a dark mystical anomaly draws Scarlet Witch and Agatha Harkness to London, they encounter a sorcerer from another world and embark on a quest across space and time."
+ID_ECM_STRANGESUPREME_DESC_C,"Recommendations:\n- Squad Lvl 35+\n- Gear Tier 6+\n- Ability Lvl 2+\n\nWhen a dark mystical anomaly draws Scarlet Witch and Agatha Harkness to London, they encounter a sorcerer from another world and embark on a quest across space and time."
+ID_ECM_STRANGESUPREME_MB,"When a dark mystical anomaly draws Scarlet Witch and Agatha Harkness to London, they encounter a sorcerer from another world and embark on a quest across space and time."
+ID_ECM_STRANGESUPREME_MC,GO!
+ID_ECM_STRANGESUPREME_MT,The Forbidden Knowledge event has started!
+ID_ECM_WHITETIGER_NAME,Shadowland
+ID_ECM_WHITETIGER_DESC,"While Daredevil and Elektra were across the multiverse, an evil force took root in Hell's Kitchen. Help them rescue their ally White Tiger and uncover the mysterious origins of Shadowland!"
+ID_ECM_CHANCE_WHITETIGER,Earn White Tiger shards
+ID_ECM_WHITETIGER_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWhile Daredevil and Elektra were across the multiverse, an evil force took root in Hell's Kitchen. Help them rescue their ally White Tiger and uncover the mysterious origins of Shadowland!"
+ID_ECM_WHITETIGER_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nWhile Daredevil and Elektra were across the multiverse, an evil force took root in Hell's Kitchen. Help them rescue their ally White Tiger and uncover the mysterious origins of Shadowland!"
+ID_ECM_WHITETIGER_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nWhile Daredevil and Elektra were across the multiverse, an evil force took root in Hell's Kitchen. Help them rescue their ally White Tiger and uncover the mysterious origins of Shadowland!"
+ID_ECM_WHITETIGER_MB,"While Daredevil and Elektra were across the multiverse, an evil force took root in Hell's Kitchen. Help them rescue their ally White Tiger and uncover the mysterious origins of Shadowland!"
+ID_ECM_WHITETIGER_MC,GO!
+ID_ECM_WHITETIGER_MT,The Shadowland event has started!
+ID_ECM_MULTIPLEMAN_NAME,X-Factor Investigations
+ID_ECM_MULTIPLEMAN_DESC,"When a key member of S.T.R.I.K.E. goes missing, Multiple Man and X-Factor Investigations are called in to crack the case."
+ID_ECM_CHANCE_MULTIPLEMAN,Earn Multiple Man shards
+ID_ECM_MULTIPLEMAN_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWhen a key member of S.T.R.I.K.E. goes missing, Multiple Man and X-Factor Investigations are called in to crack the case."
+ID_ECM_MULTIPLEMAN_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nWhen a key member of S.T.R.I.K.E. goes missing, Multiple Man and X-Factor Investigations are called in to crack the case."
+ID_ECM_MULTIPLEMAN_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nWhen a key member of S.T.R.I.K.E. goes missing, Multiple Man and X-Factor Investigations are called in to crack the case."
+ID_ECM_MULTIPLEMAN_MB,"When a key member of S.T.R.I.K.E. goes missing, Multiple Man and X-Factor Investigations are called in to crack the case."
+ID_ECM_MULTIPLEMAN_MC,GO!
+ID_ECM_MULTIPLEMAN_MT,The X-Factor Investigations event has started!
+ID_ECM_KESTREL_NAME,Take Flight
+ID_ECM_KESTREL_DESC,"Kestrel, a long lost member of S.T.R.I.K.E., returns to Nexus Earth just in time to warn Fury of an impending disaster!"
+ID_ECM_CHANCE_KESTREL,Earn Kestrel shards
+ID_ECM_KESTREL_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nKestrel, a long lost member of S.T.R.I.K.E., returns to Nexus Earth just in time to warn Fury of an impending disaster!"
+ID_ECM_KESTREL_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nKestrel, a long lost member of S.T.R.I.K.E., returns to Nexus Earth just in time to warn Fury of an impending disaster!"
+ID_ECM_KESTREL_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nKestrel, a long lost member of S.T.R.I.K.E., returns to Nexus Earth just in time to warn Fury of an impending disaster!"
+ID_ECM_KESTREL_MB,"Kestrel, a long lost member of S.T.R.I.K.E., returns to Nexus Earth just in time to warn Fury of an impending disaster!"
+ID_ECM_KESTREL_MC,GO!
+ID_ECM_KESTREL_MT,The Take Flight event has started!
+ID_ECM_PHYLAVELL_NAME,Vote for Loki
+ID_ECM_PHYLAVELL_DESC,"President Loki has been dimension hopping and taking over other Earths as their president. Now he has landed on the Nexus Earth and sets his sights on taking over as the S.T.R.I.K.E. commander! He is teaming up with Mojo to air his victories over S.T.R.I.K.E. and prove that he is the savior the planet needs, not Nick Fury."
+ID_ECM_CHANCE_PHYLAVELL,Earn Phyla-Vell shards
+ID_ECM_PHYLAVELL_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nPresident Loki has been dimension hopping and taking over other Earths as their president. Now he has landed on the Nexus Earth and sets his sights on taking over as the S.T.R.I.K.E. commander! He is teaming up with Mojo to air his victories over S.T.R.I.K.E. and prove that he is the savior the planet needs, not Nick Fury."
+ID_ECM_PHYLAVELL_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nPresident Loki has been dimension hopping and taking over other Earths as their president. Now he has landed on the Nexus Earth and sets his sights on taking over as the S.T.R.I.K.E. commander! He is teaming up with Mojo to air his victories over S.T.R.I.K.E. and prove that he is the savior the planet needs, not Nick Fury."
+ID_ECM_PHYLAVELL_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nPresident Loki has been dimension hopping and taking over other Earths as their president. Now he has landed on the Nexus Earth and sets his sights on taking over as the S.T.R.I.K.E. commander! He is teaming up with Mojo to air his victories over S.T.R.I.K.E. and prove that he is the savior the planet needs, not Nick Fury."
+ID_ECM_PHYLAVELL_MB,"President Loki has been dimension hopping and taking over other Earths as their president. Now he has landed on the Nexus Earth and sets his sights on taking over as the S.T.R.I.K.E. commander! He is teaming up with Mojo to air his victories over S.T.R.I.K.E. and prove that he is the savior the planet needs, not Nick Fury."
+ID_ECM_PHYLAVELL_MC,GO!
+ID_ECM_PHYLAVELL_MT,The Vote for Loki event has started!
+ID_ECM_SHARONCARTER_NAME,Conspiracy Theories
+ID_ECM_SHARONCARTER_DESC,"Sharon Carter, Maria Hill, and Captain America (Sam) go deep undercover on Hydra World in hopes of discovering their plans for interdimensional domination!"
+ID_ECM_CHANCE_SHARONCARTER,Earn Sharon Carter shards
+ID_ECM_SHARONCARTER_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nSharon Carter, Maria Hill, and Captain America (Sam) go deep undercover on Hydra World in hopes of discovering their plans for interdimensional domination!"
+ID_ECM_SHARONCARTER_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nSharon Carter, Maria Hill, and Captain America (Sam) go deep undercover on Hydra World in hopes of discovering their plans for interdimensional domination!"
+ID_ECM_SHARONCARTER_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nSharon Carter, Maria Hill, and Captain America (Sam) go deep undercover on Hydra World in hopes of discovering their plans for interdimensional domination!"
+ID_ECM_SHARONCARTER_MB,"Sharon Carter, Maria Hill, and Captain America (Sam) go deep undercover on Hydra World in hopes of discovering their plans for interdimensional domination!"
+ID_ECM_SHARONCARTER_MT,The Conspiracy Theories event has started!
+ID_ECM_SIX_NAME,Sinister S.T.R.I.K.E.
+ID_ECM_SIX_DESC,"Working with S.T.R.I.K.E., Norman Osborn recruits members of the Sinister Six to recapture a corrupted Kingpin who's turning Manhattan into his personal playground."
+ID_ECM_CHANCE_SIX,Earn Rhino character shards
+ID_ECM_SIX_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWorking with S.T.R.I.K.E., Norman Osborn recruits members of the Sinister Six to recapture a corrupted Kingpin who's turning Manhattan into his personal playground."
+ID_ECM_SIX_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nWorking with S.T.R.I.K.E., Norman Osborn recruits members of the Sinister Six to recapture a corrupted Kingpin who's turning Manhattan into his personal playground."
+ID_ECM_SIX_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nWorking with S.T.R.I.K.E., Norman Osborn recruits members of the Sinister Six to recapture a corrupted Kingpin who's turning Manhattan into his personal playground."
+ID_ECM_SIX_MB,"Working with S.T.R.I.K.E., Norman Osborn recruits members of the Sinister Six to recapture a corrupted Kingpin who's turning Manhattan into his personal playground."
+ID_ECM_SIX_MC,GO!
+ID_ECM_SIX_MT,The Sinister S.T.R.I.K.E. Event has started!
+ID_ECM_SIX_MS,Join the Sinister Six in capturing Kingpin!
+ID_ECM_SQUIRREL_NAME,Unbeatable Education
+ID_ECM_SQUIRREL_DESC,"Something strange is afoot at Empire U. It's time for Doreen Green to register for class and kick some-\n\nHold up... Let's try that again, It's time for Squirrel Girl to eat nuts and kick butts!"
+ID_ECM_CHANCE_SQUIRREL,Earn Squirrel Girl shards
+ID_ECM_SQUIRREL_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nSomething strange is afoot at Empire U. It's time for Doreen Green to register for class and kick some-\n\nHold up... Let's try that again, It's time for Squirrel Girl to eat nuts and kick butts!"
+ID_ECM_SQUIRREL_DESC_B,"Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nSomething strange is afoot at Empire U. It's time for Doreen Green to register for class and kick some-\n\nHold up... Let's try that again, It's time for Squirrel Girl to eat nuts and kick butts!"
+ID_ECM_SQUIRREL_DESC_C,"Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nSomething strange is afoot at Empire U. It's time for Doreen Green to register for class and kick some-\n\nHold up... Let's try that again, It's time for Squirrel Girl to eat nuts and kick butts!"
+ID_ECM_SQUIRREL_MB,"Something strange is afoot at Empire U. It's time for Doreen Green to register for class and kick some-\n\nHold up... Let's try that again, It's time for Squirrel Girl to eat nuts and kick butts!"
+ID_ECM_SQUIRREL_MC,GO!
+ID_ECM_SQUIRREL_MT,The Unbeatable Education event has started!
+ID_ECM_ST_NAME,Eye of the Storm
+ID_ECM_ST_DESC,Help Storm cure the Legacy Virus!
+ID_ECM_CHANCE_ST,Earn Storm Shards
+ID_ECM_ST_DESC_A,"Recommendations:\n- Squad Lvl 58-60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nAfter becoming infected by the Legacy Virus, Storm arrives in the Nexus dimension and must work with S.T.R.I.K.E. to find a cure before it's too late."
+ID_ECM_ST_DESC_B,"Recommendations:\n- Squad Lvl 43-48+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nAfter becoming infected by the Legacy Virus, Storm arrives in the Nexus dimension and must work with S.T.R.I.K.E. to find a cure before it's too late."
+ID_ECM_ST_DESC_C,"Recommendations:\n- Squad Lvl 28-33+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nAfter becoming infected by the Legacy Virus, Storm arrives in the Nexus dimension and must work with S.T.R.I.K.E. to find a cure before it's too late."
+ID_ECM_ST_MB,"After becoming infected by the Legacy Virus, Storm arrives in the Nexus dimension and must work with S.T.R.I.K.E. to find a cure before it's too late."
+ID_ECM_ST_MC,GO!
+ID_ECM_ST_MT,The Eye of the Storm Event has started!
+ID_ECM_ST_MS,Find the cure for the Legacy Virus
+ID_ECM_SW_NAME,The Nexus Guardian
+ID_ECM_SW_DESC,Help Scarlet Witch complete her trials!
+ID_ECM_CHANCE_SW,Earn Scarlet Witch Shards
+ID_ECM_SW_DESC_A,"Recommendations:\n- Squad Lvl 58-60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWanda Maximoff, the Scarlet Witch, must search for the M'Kraan Crystal: the secret behind her newfound destiny."
+ID_ECM_SW_DESC_B,"Recommendations:\n- Squad Lvl 43-48+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nWanda Maximoff, the Scarlet Witch, must search for the M'Kraan Crystal: the secret behind her newfound destiny."
+ID_ECM_SW_DESC_C,"Recommendations:\n- Squad Lvl 28-33+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nWanda Maximoff, the Scarlet Witch, must search for the M'Kraan Crystal: the secret behind her newfound destiny."
+ID_ECM_SW_MB,"Wanda Maximoff, the Scarlet Witch, must search for the M'Kraan Crystal: the secret behind her newfound destiny."
+ID_ECM_SW_MC,GO!
+ID_ECM_SW_MT,The Nexus Guardian Event has started!
+ID_ECM_SW_MS,Search for the M'Kraan Crystal
+ID_ECM_SWARM_NAME,One of Many
+ID_ECM_SWARM_DESC,Swarm and the rest of the Sinister Six set out to free their trapped leader before he turns into Red Skull's next lab rat.
+ID_ECM_CHANCE_SWARM,Earn Swarm shards
+ID_ECM_SWARM_DESC_A,Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nSwarm and the rest of the Sinister Six set out to free their trapped leader before he turns into Red Skull's next lab rat.
+ID_ECM_SWARM_DESC_B,Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nSwarm and the rest of the Sinister Six set out to free their trapped leader before he turns into Red Skull's next lab rat.
+ID_ECM_SWARM_DESC_C,Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nSwarm and the rest of the Sinister Six set out to free their trapped leader before he turns into Red Skull's next lab rat.
+ID_ECM_SWARM_MB,Swarm and the rest of the Sinister Six set out to free their trapped leader before he turns into Red Skull's next lab rat.
+ID_ECM_SWARM_MC,GO!
+ID_ECM_SWARM_MT,The One of Many event has started!
+ID_ECM_TASKMASTER_NAME,Master Class
+ID_ECM_TASKMASTER_DESC,Coulson goes to Taskmaster's school to find kidnapped S.T.R.I.K.E. agents and possibly learn a thing or two in the process.
+ID_ECM_CHANCE_TASKMASTER,Earn Taskmaster shards
+ID_ECM_TASKMASTER_DESC_A,Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nCoulson goes to Taskmaster's school to find kidnapped S.T.R.I.K.E. agents and possibly learn a thing or two in the process.
+ID_ECM_TASKMASTER_DESC_B,Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nCoulson goes to Taskmaster's school to find kidnapped S.T.R.I.K.E. agents and possibly learn a thing or two in the process.
+ID_ECM_TASKMASTER_DESC_C,Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nCoulson goes to Taskmaster's school to find kidnapped S.T.R.I.K.E. agents and possibly learn a thing or two in the process.
+ID_ECM_TASKMASTER_DESC_D,Recommendations:\n- Squad Lvl 15+\n- Gear Tier 3+\n- Ability Lvl 2+\n\nCoulson goes to Taskmaster's school to find kidnapped S.T.R.I.K.E. agents and possibly learn a thing or two in the process.
+ID_ECM_TASKMASTER_MB,Coulson goes to Taskmaster's school to find kidnapped S.T.R.I.K.E. agents and possibly learn a thing or two in the process.
+ID_ECM_TASKMASTER_MC,GO!
+ID_ECM_TASKMASTER_MT,The Master Class event has started!
+ID_ECM_USP_NAME,Web-Head Warriors
+ID_ECM_USP_DESC,Peter Parker and S.T.R.I.K.E. must help a mysterious new Spider-Man save the day in a dimension enslaved by corrupted androids.
+ID_ECM_CHANCE_USP,Earn Spider-Man (Miles) Shards
+ID_ECM_USP_DESC_A,Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nPeter Parker and S.T.R.I.K.E. must help a mysterious new Spider-Man save the day in a dimension enslaved by corrupted androids.
+ID_ECM_USP_DESC_B,Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nPeter Parker and S.T.R.I.K.E. must help a mysterious new Spider-Man save the day in a dimension enslaved by corrupted androids.
+ID_ECM_USP_DESC_C,Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nPeter Parker and S.T.R.I.K.E. must help a mysterious new Spider-Man save the day in a dimension enslaved by corrupted androids.
+ID_ECM_USP_MB,Peter Parker and S.T.R.I.K.E. must help a mysterious new Spider-Man save the day in a dimension enslaved by corrupted androids.
+ID_ECM_USP_MC,GO!
+ID_ECM_USP_MT,The Web-Head Warriors Event has started!
+ID_ECM_USP_MS,Fight back in a dimension enslaved by corrupted androids
+ID_ECM_VALKYRIE_NAME,Hammer of the Gods
+ID_ECM_VALKYRIE_DESC,"When Odinson goes missing, Valkyrie and Mjolnir's new wielder, the Mighty Thor, have to take to the spaceways to find the wayward god."
+ID_ECM_CHANCE_VALKYRIE,Earn VALKYRIE shards
+ID_ECM_VALKYRIE_DESC_A,"Recommendations:\n- Squad Lvl 85+\n- Gear Tier 15+\n- Ability Lvl 6+\n\nWhen Odinson goes missing, Valkyrie and Mjolnir's new wielder, the Mighty Thor, have to take to the spaceways to find the wayward god."
+ID_ECM_VALKYRIE_DESC_B,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWhen Odinson goes missing, Valkyrie and Mjolnir's new wielder, the Mighty Thor, have to take to the spaceways to find the wayward god."
+ID_ECM_VALKYRIE_DESC_C,"Recommendations:\n- Squad Lvl 35+\n- Gear Tier 6+\n- Ability Lvl 2+\n\nWhen Odinson goes missing, Valkyrie and Mjolnir's new wielder, the Mighty Thor, have to take to the spaceways to find the wayward god."
+ID_ECM_VALKYRIE_MB,"When Odinson goes missing, Valkyrie and Mjolnir's new wielder, the Mighty Thor, have to take to the spaceways to find the wayward god."
+ID_ECM_VALKYRIE_MC,GO!
+ID_ECM_VALKYRIE_MT,The Hammer of the Gods event has started!
+ID_ECM_VE_NAME,Symbiotic
+ID_ECM_VE_DESC,Help Venom prevent the corruption of the Symbiotes!
+ID_ECM_CHANCE_VE,Earn Venom Shards
+ID_ECM_VE_DESC_A,"Recommendations:\n- Squad Lvl 58-60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nVenom must fight his way to the Symbiote homeworld, planet Klyntar, to prevent Ultimus from creating an unstoppable corrupted Symbiote army."
+ID_ECM_VE_DESC_B,"Recommendations:\n- Squad Lvl 43-48+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nVenom must fight his way to the Symbiote homeworld, planet Klyntar, to prevent Ultimus from creating an unstoppable corrupted Symbiote army."
+ID_ECM_VE_DESC_C,"Recommendations:\n- Squad Lvl 28-33+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nVenom must fight his way to the Symbiote homeworld, planet Klyntar, to prevent Ultimus from creating an unstoppable corrupted Symbiote army."
+ID_ECM_VE_MB,"Venom must fight his way to the Symbiote homeworld, planet Klyntar, to prevent Ultimus from creating an unstoppable corrupted Symbiote army."
+ID_ECM_VE_MC,GO!
+ID_ECM_VE_MT,The Symbiotic Event has started!
+ID_ECM_VE_MS,Prevent the corruption of Symbiotes
+ID_ECM_WASP_NAME,Sting of the Wasp
+ID_ECM_WASP_DESC,Wasp discovers a new technology that could threaten the entire Nexus dimension.
+ID_ECM_CHANCE_WASP,Earn Wasp Shards
+ID_ECM_WASP_DESC_A,Recommendations:\n- Squad Lvl 58-60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWasp discovers a new technology that could threaten the entire Nexus dimension.
+ID_ECM_WASP_DESC_B,Recommendations:\n- Squad Lvl 43-48+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nWasp discovers a new technology that could threaten the entire Nexus dimension.
+ID_ECM_WASP_DESC_C,Recommendations:\n- Squad Lvl 28-33+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nWasp discovers a new technology that could threaten the entire Nexus dimension.
+ID_ECM_WASP_MB,Wasp discovers a new technology that could threaten the entire Nexus dimension.
+ID_ECM_WASP_MC,GO!
+ID_ECM_WASP_MT,The Sting of the Wasp Event has started!
+ID_ECM_WASP_MS,Wasp discovers a new threat
+ID_ECM_WM_NAME,Prelude to War
+ID_ECM_WM_DESC,War Machine is dispatched to discover the secrets of Ultimus's armada of advanced Helicarriers.
+ID_ECM_CHANCE_WM,Earn character shards
+ID_ECM_WM_DESC_A,Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWar Machine is dispatched to discover the secrets of Ultimus's armada of advanced Helicarriers.
+ID_ECM_WM_DESC_B,Recommendations:\n- Squad Lvl 45+\n- Gear Tier 7+\n- Ability Lvl 3+\n\nWar Machine is dispatched to discover the secrets of Ultimus's armada of advanced Helicarriers.
+ID_ECM_WM_DESC_C,Recommendations:\n- Squad Lvl 30+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nWar Machine is dispatched to discover the secrets of Ultimus's armada of advanced Helicarriers.
+ID_ECM_WM_MB,War Machine is dispatched to discover the secrets of Ultimus's armada of advanced Helicarriers.
+ID_ECM_WM_MC,GO!
+ID_ECM_WM_MT,The Prelude to War Event has started!
+ID_ECM_WM_MS,Assist War Machine in defeating Ultimus's armada of advanced Helicarriers
+ID_TU_AM_WA_NAME,Back to Tiny World
+ID_TU_AM_WA_DESC,"After receiving a distress call from resistance forces, Ant-Man and Wasp must enter the tiny dimension to help liberate Earth from its overlords."
+ID_TU_AM_WA_CHANCE,Earn amazing rewards!
+ID_TU_AM_WA_MC,GO!
+ID_TU_AM_WA_MS,Ant-Man and the Wasp Team Up!
+ID_TU_AM_WA_MT,Back to Tiny World
+ID_TU_AM_WA_EN_SU,The Back to Tiny World Event has ended.
+ID_TU_AM_WA_EN_BO,"Thank you for participating in the event.\n\nIf you were unable to join Ant-Man and the Wasp on their full adventure, don't worry -- they might just pop up again!\n\nContinue to strengthen Ant-Man and the Wasp for when they return!"
+ID_TU_AM_WA_MB,"Commander,\n\nAnt-Man and the Wasp are teaming up and returning to the tiny Earth once more. The rewards for this adventure will be massive! Since only Ant-Man and the Wasp are equipped to go on this mission, they must be as strong as they can be.\n\n<color=#fff568>Eligible Heroes:</color>\nAnt-Man\nWasp\n\n<color=#fff568>Mission Requirements:</color>\nTier 1 - 3 Stars\nTier 2 - 3 Stars\nTier 3 - 4 Stars\nTier 4 - 4 Stars\nTier 5 - 5 Stars\nTier 6 - 6 Stars\nTier 7 - 7 Stars\nBest of luck, Commander!"
+ID_TU_RR_GR_NAME,Secret Admirers
+ID_TU_RR_GR_DESC,Rocket convinces Groot to help him acquire a stockpile of unique magical and high tech items from corrupted heroes and villains as a gift for someone very special.
+ID_TU_RR_GR_CHANCE,Earn amazing rewards!
+ID_TU_RR_GR_MC,GO!
+ID_TU_RR_GR_MS,Secret Admirers Team Up!
+ID_TU_RR_GR_MT,Secret Admirers
+ID_TU_RR_GR_EN_SU,The Secret Admirers Event has ended.
+ID_TU_RR_GR_EN_BO,"Thank you for participating in the event.\n\nIf you were unable to join Rocket and Groot on their team up, don't worry -- they might just pop up again!\n\nContinue to strengthen Rocket and Groot for when they return!"
+ID_TU_RR_GR_MB,"Commander,\n\nRocket convinced Groot to help him acquire a stockpile of unique magical and high tech items from corrupted heroes and villains as a gift for someone very special. Since only Rocket and Groot are equipped to go on this mission, they must be as strong as they can be.\n\n<color=#fff568>Eligible Heroes:</color>\nRocket\nGroot\n\n<color=#fff568>Mission Requirements:</color>\nTier 1 - 3 Stars\nTier 2 - 3 Stars\nTier 3 - 4 Stars\nTier 4 - 4 Stars\nTier 5 - 5 Stars\nTier 6 - 6 Stars\nTier 7 - 7 Stars\nGood luck, Commander!"
+ID_TU_AM_WA_RR_GR_CHANCE,Earn exciting rewards!
+ID_TU_SW_MM_NAME,Bendy Girl & The Witch
+ID_TU_SW_MM_DESC,Ms. Marvel must work with Scarlet Witch to find a way to unbind the M'Kraan Crystal from her body before catastrophe strikes.
+ID_TU_SW_MM_CHANCE,Earn amazing rewards!
+ID_TU_SW_MM_MC,GO!
+ID_TU_SW_MM_MS,Bendy Girl & The Witch Team Up!
+ID_TU_SW_MM_MT,Bendy Girl & The Witch
+ID_TU_SW_MM_EN_SU,The Bendy Girl & The Witch Event has ended.
+ID_TU_SW_MM_EN_BO,"Thank you for participating in the event.\n\nIf you were unable to join Scarlet Witch and Ms. Marvel on their team up, don't worry -- they might just pop up again!\n\nContinue to strengthen Scarlet Witch and Ms. Marvel for when they return!"
+ID_TU_SW_MM_MB,"Commander,\n\nScarlet Witch and Ms. Marvel are teaming up to unbind the M'Kraan Crystal before catastrophe strikes. The rewards for this adventure will be huge! Since only Scarlet Witch and Ms. Marvel are equipped to go on this mission, they must be as strong as they can be.\n\n<color=#fff568>Eligible Heroes:</color>\nScarlet Witch\nMs. Marvel\n\n<color=#fff568>Mission Requirements:</color>\nTier 1 - 3 Stars\nTier 2 - 3 Stars\nTier 3 - 4 Stars\nTier 4 - 4 Stars\nTier 5 - 5 Stars\nTier 6 - 6 Stars\nTier 7 - 7 Stars\nGood luck, Commander!"
+ID_FL_CITY_HERO_NAME,Block Party
+ID_FL_CITY_HERO_DESC,"With resources spread thin due to Ultimus's invasion, the City Heroes must band together and keep New York and its surrounding areas safe."
+ID_FL_CITY_HERO_MT,The Block Party event has begun!
+ID_FL_CITY_HERO_MS,Earn tons of ABILITY MATERIALS
+ID_FL_CITY_HERO_MB,"Gather your best <color=#fff568>City Heroes</color> to collect hoards of Ability Materials.\n\n<color=#fff568>Event Requirements</color>:\n- Five (5) City Heroes\n- City Hero Star Rank requirement increases by 1 with each level\n\nGood luck, Commander."
+ID_FL_CITY_HERO_MC,GO!
+ID_ABILITY_MATS,Earn tons of ABILITY MATERIALS
+ID_FL_CITY_HERO_EN_SU,The Block Party Event has ended.
+ID_FL_CITY_HERO_EN_BO,The event is now over.
+ID_INFO_NA_NEIGHBORHOOD,Neighborhood Watch
+ID_INFO_DE_NEIGHBORHOOD,2x City Hero shards
+ID_INFO_BO_NEIGHBORHOOD,"The number of City Hero shards rewarded from Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Block Party Flash Event.\n\nPlease filter your roster using the traits ""City"" and ""Hero"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_FL_HAND_NAME,Relic Hunt
+ID_FL_HAND_DESC,Nobu and his best warriors must secure seven broken pieces of an ancient Hand sword from corrupted forces.
+ID_FL_HAND_MT,The Relic Hunt event has begun!
+ID_FL_HAND_MS,Earn tons of CATALYSTS
+ID_FL_HAND_MB,"Gather your best <color=#fff568>Hand</color> warriors to collect a massive cache of catalysts.\n\n<color=#fff568>Event Requirements</color>:\n- Five (5) Hand warriors\n- Hand Star Rank requirement increases by 1 with each level\n\nGood luck, Commander."
+ID_FL_HAND_MC,GO!
+ID_FL_HAND_EN_SU,The Relic Hunt Event has ended.
+ID_FL_HAND_EN_BO,The event is now over.
+ID_INFO_NEEDAHAND_NA,Need A Hand?
+ID_INFO_NEEDAHAND_DE,2x Hand shards
+ID_INFO_NEEDAHAND_BO,"The number of Hand character shards rewarded from Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Relic Hunt Flash Event.\n\nPlease filter your roster using the trait ""Hand"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_FL_MERC_NAME,Payday
+ID_FL_MERC_DESC,Recruit a team of your best mercenaries to score a payload of GOLD.
+ID_FL_MERC_CHANCE,Earn a ton of Gold
+ID_FL_MERC_MT,The Payday event has begun!
+ID_FL_MERC_MS,Earn tons of GOLD
+ID_FL_MERC_MB,"Recruit a team of your best <color=#fff568>Mercenaries</color> to score a payload of gold.\n\n<color=#fff568>Event Requirements</color>:\n- Five (5) Mercenaries\n- Mercenary Star Rank requirement increases by 1 with each level\n\nGood luck, Commander."
+ID_FL_MERC_MC,GO!
+ID_FL_MERC_EN_SU,The Payday Event has ended.
+ID_FL_MERC_EN_BO,The event is now over.
+ID_INFO_MERCMAYHEM_NA,Merc Mayhem
+ID_INFO_MERCMAYHEM_DE,2x Mercenary shards
+ID_INFO_MERCMAYHEM_BO,"The number of Mercenary shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Payday Flash Event.\n\nPlease filter your roster using the trait ""Mercenary"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_FL_WAKANDAN_NAME,Chaos Theory
+ID_FL_WAKANDAN_DESC,Nick Fury dispatches the Wakandans to find a way back to Nexus Earth.
+ID_FL_WAKANDAN_MT,The Chaos Theory event has begun!
+ID_FL_WAKANDAN_MS,Earn tons of PROMOTION CREDITS
+ID_FL_WAKANDAN_MB,"Gather your best <color=#fff568>WAKANDAN</color> warriors to collect promotion tokens.\n\n<color=#fff568>Event Requirements</color>:\n- Four (4), then (5) Wakandan warriors\n- Wakandan Star Rank requirement increases by 1 with each level\n\nGood luck, Commander."
+ID_FL_WAKANDAN_MC,GO!
+ID_PROMOTION_CHANCE,Earn tons of PROMOTION CREDITS
+ID_FL_WAKANDAN_EN_SU,The Chaos Theory Event has ended.
+ID_FL_WAKANDAN_EN_BO,The event is now over.
+ID_BONUS_WAKANDANATION_NA,Wakanda Nation
+ID_BONUS_WAKANDANATION_DE,2x Wakandan shards
+ID_BONUS_WAKANDANATION_BO,"The number of Wakandan shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Chaos Theory Flash Event.\n\nPlease filter your roster using the trait ""Wakandan"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_INFO_NA_BADSCIENCE,Bad Science
+ID_INFO_DE_BADSCIENCE,2x A.I.M. shards
+ID_INFO_BO_BADSCIENCE,"The number of <color=#fff568>A.I.M.</color> character shards rewarded from Campaign nodes have doubled from 2 to 4.\n\nPlease filter your roster using the trait ""A.I.M."" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_INFO_CALLINGAGENTS_NA,Calling All Agents
+ID_INFO_CALLINGAGENTS_DE,2x S.H.I.E.L.D. shards
+ID_INFO_CALLINGAGENTS_BO,"The number of S.H.I.E.L.D. character shards rewarded for completing Campaign nodes has doubled from 2 to 4.\n\nPlease filter your roster using the trait ""S.H.I.E.L.D."" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_INFO_IM_CALLINGAGENTS_NA,Calling All Agents
+ID_INFO_IM_CALLINGAGENTS_DE,2x S.H.I.E.L.D. shards
+ID_INFO_IM_CALLINGAGENTS_BO,"The number of S.H.I.E.L.D. character shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the I am Iron Man Legendary Event.\n\nPlease filter your roster using the trait ""S.H.I.E.L.D."" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_FL_SKILLITARY_NAME,Back to Bootcamp
+ID_FL_SKILLITARY_DESC,Help prove that you are the best spy team in this or any dimension.
+ID_FL_SKILLITARY_MT,The Back to Bootcamp event has begun!
+ID_FL_SKILLITARY_MS,Earn tons of TRAINING MATERIALS
+ID_FL_SKILLITARY_MB,"Gather your best <color=#fff568>SKILL MILITARY</color> warriors to collect training materials.\n\n<color=#fff568>Event Requirements</color>:\n- Four (4), then (5) Skill Military characters\n- Skill Military Star Rank requirement increases by 1 with each level\n\n<color=#fff568>List of Skill Military characters</color>:\n- Black Widow\n- Killmonger\n- Mercenary Soldier\n- Punisher\n- Red Guardian\n- Yelena Belova\n\nGood luck, Commander."
+ID_FL_SKILLITARY_MC,GO!
+ID_FL_SKILLITARY_EN_SU,The Back to Bootcamp Event has ended.
+ID_FL_SKILLITARY_EN_BO,The event is now over.
+ID_BONUS_DOUBLETIME_NA,Double Time
+ID_BONUS_DOUBLETIME_DE,2x Skill Military shards
+ID_BONUS_DOUBLETIME_BO,"The number of Skill Military character shards rewarded for completing Campaign nodes has doubled from 2 to 4. These characters will help you with the upcoming Back to Bootcamp Flash Event.\n\nPlease filter your roster using the traits ""Skill"" and ""Military"" to find all affected characters, marked with green (!) indicators. Enter the character screen and tap the [FIND] button to see their Campaign node."
+ID_MFE_KNOWHERE_NAME,Knowhere Heist
+ID_MFE_KNOWHERE_DESC,Help Star-Lord and a team of misfit S.T.R.I.K.E. agents infiltrate the space station knowns as Knowhere!
+ID_MFE_KNOWHERE_MT,The Knowhere Heist event has begun!
+ID_MFE_KNOWHERE_MS,Earn tons of DARK PROMOTION CREDITS
+ID_MFE_KNOWHERE_MB,"Assemble a team of Knowhere Heist warriors to collect Dark Promotion Credits!\n\n<color=#fff568>Event Requirements</color>:\n- 5 Knowhere Heist characters\n- Star Rank and Gear Tier requirement increase with each level\n\n<color=#fff568>List of Knowhere Heist characters</color>:\n- Star-Lord\n- Ebony Maw\n- Doctor Octopus\n- Rocket Raccoon\n- Kitty Pryde\n\nGood luck, Commander."
+ID_MFE_KNOWHERE_MC,GO!
+ID_MFE_KNOWHERE_EN_SU,The Knowhere Heist Event has ended.
+ID_MFE_KNOWHERE_EN_BO,The event is now over.
+ID_INFO_ALLIANCEDONATION_NA,War Effort
+ID_INFO_ALLIANCEDONATION_DE,Additional Alliance Donation Rewards
+ID_INFO_ALLIANCEDONATION_BO,"War Energy Refills, War Defense Boosts, and additional Gold have been added to the Alliance Donation Milestone Rewards. Donate to increase your Alliance level and receive the new rewards!"
+ID_INFO_NA_CATALYSTCATACLYSM,Catalyst Cataclysm
+ID_INFO_DE_CATALYSTCATACLYSM,3x Basic Catalysts
+ID_INFO_BO_CATALYSTCATACLYSM,"Commander,\n\nFor a limited time earn <color=#fff568>3x Basic Catalysts</color> from Campaigns for the next <color=#fff568>24 hours</color>.\n\nHurry and earn more Basic Catalysts to upgrade your characters!"
+ID_INFO_NA_ENERGY_OVERLOAD,Energy Overload
+ID_INFO_DE_ENERGY_OVERLOAD,Double your Campaign energy!
+ID_INFO_BO_ENERGY_OVERLOAD,"For 24 hours, the amount of Campaign Energy when purchased will be doubled from <color=#fff568>120</color> to <color=#fff568>240</color>!"
+ID_INFO_NA_GEARBLOWOUT,Gear Blowout
+ID_INFO_DE_GEARBLOWOUT,Reduced Main Store prices
+ID_INFO_BO_GEARBLOWOUT,Items in the Main Store sold for Gold and the cost to refresh Main Store Supplies will be 20% off. Use this time to save on gear in the Main Store!
+ID_INFO_NA_ORB_STORM,Orb Storm
+ID_INFO_DE_ORB_STORM,Limited-time Bonus Event!
+ID_INFO_BO_ORB_STORM,Earn <color=#fff568>4x</color> Basic Orbs Fragments from Campaigns for the next <color=#fff568>24 hours</color>.\n\nHurry and earn more Basic Orbs during this limited-time Bonus Event!
+ID_INFO_NA_QUARTERBLITZ,Quarter Blitz
+ID_INFO_DE_QUARTERBLITZ,Do more Blitz Battles
+ID_INFO_BO_QUARTERBLITZ,The cost to recharge your characters to re-use them in Blitz will remain 5 Blitz Charges per character. Use this time wisely to climb the ranks as far as you can!
+ID_INFO_NA_RAIDFRENZY,Raid Frenzy
+ID_INFO_DE_RAIDFRENZY,Reduced Raid prices
+ID_INFO_BO_RAIDFRENZY,The cost to use Raid Health Packs to heal and revive characters as well as the cost to purchase more Raid Energy will be reduced by 20% for a limited time!
+ID_INFO_NA_RAININGGOLD,Raining Gold
+ID_INFO_DE_RAININGGOLD,Increased Gold from Campaigns
+ID_INFO_BO_RAININGGOLD_25,Earn <color=#fff568>25%</color> more Gold from Campaigns.
+ID_INFO_BO_RAININGGOLD_50,Earn <color=#fff568>50%</color> more Gold from Campaigns.
+ID_INFO_BO_RAININGGOLD_75,Earn <color=#fff568>75%</color> more Gold from Campaigns.
+ID_INFO_BO_RAININGGOLD_100,Earn <color=#fff568>2x</color> more Gold from Campaigns.
+ID_INFO_NA_REENERGIZE_50,Re-Energize
+ID_INFO_DE_REENERGIZE_50,Reduced refresh cost
+ID_INFO_BO_REENERGIZE_50,The cost to purchase <color=#fff568>120 Campaign Energy</color> (excluding Iso-8 Campaign Energy) will remain at <color=#fff568>50 Power Cores</color>. Use this time to collect as much gear and character shards as you can!
+ID_INFO_NA_DOUBLETRAINING,Train and Gain
+ID_INFO_DE_DOUBLETRAINING,2x Training Modules
+ID_INFO_BO_DOUBLETRAINING,"For 24 hours, the number of Training Modules earned from all Campaign nodes have been doubled."
+ID_INFO_NA_BONUS_XP,XP Throttle
+ID_INFO_DE_BONUS_XP,2x Commander XP
+ID_INFO_BO_BONUS_XP,The amount of Commander XP earned from all Campaign nodes have been doubled.
+ID_INFO_NA_BONUS_ISO_XP,XP Overdrive
+ID_INFO_DE_BONUS_ISO_XP,Bonus Commander XP
+ID_INFO_BO_BONUS_ISO_XP,Commander XP has been added to all Isotope-8 Campaign nodes.
+ID_INFO_NA_VS_BATTLE_MATCHMAKING,VS Battle Match
+ID_INFO_DE_VS_BATTLE_MATCHMAKING_CLASSIC,Classic Draft
+ID_INFO_DE_VS_BATTLE_MATCHMAKING_BALANCED,Balanced Draft
+ID_INFO_DE_VS_BATTLE_MATCHMAKING_QUICKMATCH,Quick Match
+ID_INFO_DE_VS_BATTLE_MATCHMAKING_QUICKPICK,Quick Match
+ID_INFO_DE_VS_BATTLE_MATCHMAKING_QUICKDRAFT,Quick Draft
+ID_INFO_BO_VS_BATTLE_MATCHMAKING,Test your skills with the new <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!
+ID_INFO_BO_VS_BATTLE_MATCHMAKING_CLASSIC,Test your skills with <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!\n\n<color=#fff568>Featured Mode</color>\n- <color=#fff568>Classic Draft</color>: Uses character power from your actual roster
+ID_INFO_BO_VS_BATTLE_MATCHMAKING_BALANCED,Test your skills with <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!\n\n<color=#fff568>Featured Mode</color>\n- <color=#fff568>Balanced Draft</color>: Provides characters on both sides with equal power levels in combat. Any character at or above <color=#fff568>Gear Tier 9</color> will have their power modified to:\nLevel: <color=#fff568>75</color>\nGear Tier: <color=#fff568>13</color>\nYellow Stars: <color=#fff568>7</color>\nRed Stars: <color=#fff568>0</color>\nAbility Levels: <color=#fff568>7 / 7 / 7 / 5</color>
+ID_INFO_BO_VS_BATTLE_MATCHMAKING_QUICKPICK,Test your skills with <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!\n\n<color=#fff568>Featured Mode</color>\n- <color=#fff568>Quick Match</color>: Select up to 5 characters and search to match up against another player in real time!
+ID_INFO_BO_VS_BATTLE_MATCHMAKING_QUICKDRAFT,Test your skills with <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!\n\n<color=#fff568>Featured Mode</color>\n- <color=#fff568>Quick Draft</color>: Select up to 5 characters and ban 1 character from your opponent's draft!
+ID_INFO_DE_VS_BATTLE_MATCHMAKING_CLASSIC_RESTRICTED,Restricted Classic Draft
+ID_INFO_DE_VS_BATTLE_MATCHMAKING_BALANCED_RESTRICTED,Restricted Balanced Draft
+ID_INFO_DE_VS_BATTLE_MATCHMAKING_QUICKMATCH_RESTRICTED,Restricted Quick Match
+ID_INFO_DE_VS_BATTLE_MATCHMAKING_QUICKDRAFT_RESTRICTED,Restricted Quick Draft
+ID_INFO_BO_VS_BATTLE_MATCHMAKING_CLASSIC_RESTRICTED,Test your skills with <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!\n\n<color=#fff568>Featured Mode</color>\n- <color=#fff568>Restricted Classic Draft</color>: Uses character power from your actual roster.\n\nExcludes characters with the <color=#fff568>Legendary</color> trait.
+ID_INFO_BO_VS_BATTLE_MATCHMAKING_BALANCED_RESTRICTED,Test your skills with <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!\n\n<color=#fff568>Featured Mode</color>\n- <color=#fff568>Restricted Balanced Draft</color>: Provides characters on both sides with equal power levels in combat. Any character at or above <color=#fff568>Gear Tier 9</color> will have their power modified to:\nLevel: <color=#fff568>75</color>\nGear Tier: <color=#fff568>13</color>\nYellow Stars: <color=#fff568>7</color>\nRed Stars: <color=#fff568>0</color>\nAbility Levels: <color=#fff568>7 / 7 / 7 / 5</color>\n\nExcludes characters with the <color=#fff568>Legendary</color> trait.
+ID_INFO_BO_VS_BATTLE_MATCHMAKING_QUICKMATCH_RESTRICTED,Test your skills with <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!\n\n<color=#fff568>Featured Mode</color>\n- <color=#fff568>Restricted Quick Match</color>: Select up to 5 characters and search to match up against another player in real time!\n\nExcludes characters with the <color=#fff568>Legendary</color> trait.
+ID_INFO_BO_VS_BATTLE_MATCHMAKING_QUICKDRAFT_RESTRICTED,Test your skills with <color=#fff568>Matchmaking for VS Battle</color>! Get automatically connected to an opponent and start fighting now!\n\n<color=#fff568>Featured Mode</color>\n- <color=#fff568>Restricted Quick Draft</color>: Select up to 5 characters and ban 1 character from your opponent's draft!\n\nExcludes characters with the <color=#fff568>Legendary</color> trait.
+ID_INFO_NA_ORB_AVALANCHE_MILESTONE,Orb Avalanche
+ID_INFO_DE_ORB_AVALANCHE_MILESTONE,Open Orbs for Rewards!
+ID_INFO_BO_ORB_AVALANCHE_MILESTONE,Open any of the following orbs to score points and earn various rewards:\n- Basic Orb\n- Blue Gear Raid Orb\n- Purple Gear Raid Orb\n- Ability Orb\n- Training Orb\n- Blitz Orb\n- Premium Orb\n- Red Star Orb\n- Raid Orb\n- Kingpin's Vault\n- Orange Gear Raid Orb\n- Gold Orb\n- Ultimus Orb\n- Mega Orb\n- Legacy I Orb
+ID_EVENT_DOOM_SHOWCASE_NAME,The Might of Doom
+ID_EVENT_DOOM_SHOWCASE_DESC,"Capitalizing on the defeat of Ultimus, Doom seeks to crush the mightiest allies of Ultimus.\n\nDoom has deemed Commanders level 40 and higher worthy of these missions."
+ID_EVENT_CHANCE_DOOM_SHOWCASE,Feel the Might of Doom
+ID_EVENT_DOOM_SHOWCASE_MB,"Capitalizing on the defeat of Ultimus, Doom seeks to crush the mightiest allies of Ultimus."
+ID_EVENT_DOOM_SHOWCASE_MC,GO!
+ID_EVENT_DOOM_SHOWCASE_MT,The Might of Doom Event has started!
+ID_EVENT_DOOM_SHOWCASE_MS,Play as Doctor Doom
+ID_EVENT_DEADPOOL_NAME,Merc with a Mouth
+ID_EVENT_DEADPOOL_DESC,Deadpool must avenge the loss of his favorite chimichanga restaurant at the hands of Ultimus.
+ID_EVENT_CHANCE_DEADPOOL,Earn Deadpool Shards
+ID_EVENT_DEADPOOL_MB,Deadpool must avenge the loss of his favorite chimichanga restaurant at the hands of Ultimus.
+ID_EVENT_DEADPOOL_MC,GO!
+ID_EVENT_DEADPOOL_MT,The Merc with a Mouth Event has started!
+ID_EVENT_DEADPOOL_MS,Play as Deadpool
+ID_EVENT_CTA_DE_DEADPOOL,Participate in <color=#fff568>RAIDS</color> to earn more <color=#fff568>DEADPOOL</color> shards.
+ID_EVENT_THANOS_NAME,The Mad Titan
+ID_EVENT_THANOS_DESC,Thanos and the S.T.R.I.K.E. team are trapped in an alternate dimension and must find their way back home!
+ID_EVENT_CHANCE_THANOS,Earn Thanos Shards
+ID_EVENT_THANOS_MB,Thanos and the S.T.R.I.K.E. team are trapped in an alternate dimension and must find their way back home!
+ID_EVENT_THANOS_MC,GO!
+ID_EVENT_THANOS_MT,The Mad Titan Event has started!
+ID_EVENT_THANOS_MS,Convince Thanos to join S.T.R.I.K.E.
+ID_EVENT_CTA_DE_THANOS,"Complete <color=#fff568>""Second Strike Milestones""</color> to earn more <color=#fff568>THANOS</color> shards."
+ID_EVENT_CTA_BTN_RAIDS,<size=75>RAIDS</size>
+ID_INFO_NA_EARLY_TITANETERNAL,Titan Eternal
+ID_INFO_DE_EARLY_TITANETERNAL,Unlock Thanos!
+ID_INFO_BO_EARLY_TITANETERNAL,"For the next 14 days, earn points toward the milestone by spending Campaign Energy. Hit milestones each day to earn Thanos character shard rewards, and once you reach 100 character shards, you'll unlock the eternal Thanos."
+ID_INFO_NA_SYMBIOTESPIDERMAN_MILESTONES,Spider-Man (Symbiote)
+ID_INFO_DE_SYMBIOTESPIDERMAN_MILESTONES,Recruit the Corrupted Brawler
+ID_INFO_BO_SYMBIOTESPIDERMAN_MILESTONES,Earn Spider-Man (Symbiote) character shards from collecting your daily milestones rewards. Continue fighting in battles and spending Campaign Energy and Gold to earn character shards and hit milestones!
+ID_INFO_NA_CAPTAINMARVEL_MILESTONES,Captain Marvel Returns
+ID_INFO_DE_CAPTAINMARVEL_MILESTONES,Limited-time Milestone
+ID_INFO_BO_CAPTAINMARVEL_MILESTONES,"Celebrate the <color=#fff568>MARVEL Strike Force Awards</color> with the return of Captain Marvel shards in the Recurring Milestones!\n\nFor a limited time, earn Captain Marvel shards, orange gear parts, and Superior Basic Catalyst Parts."
+ID_INFO_NA_EMMAFROST_MILESTONES,The White Queen
+ID_INFO_DE_EMMAFROST_MILESTONES,Recruit Emma Frost!
+ID_INFO_BO_EMMAFROST_MILESTONES,"Earn Emma Frost character shards by collecting your daily milestones rewards. Fight in battles, and spend Campaign Energy and Gold to earn character shards by hitting milestones!"
+ID_INFO_NA_SUPERSALESATURDAY,Super Sale Saturday
+ID_INFO_DE_SUPERSALESATURDAY,One day only
+ID_INFO_BO_SUPERSALESATURDAY,Take part in our special 24-hour event offering amazing deals you won't want to miss!
+ID_INFO_NA_SUPERSALESUNDAY,Super Sale Sunday
+ID_INFO_NA_LIMITEDTIME_SALE,Limited Time Sale
+ID_INFO_NA_VDAY_SALE,Valentine's Day Deals
+ID_INFO_DE_SUPERSALESUNDAY,Limited-time deals!
+ID_INFO_BO_SUPERSALESUNDAY,Take part in our special event offering amazing deals you won't want to miss!
+ID_INFO_NA_REDSTAR_REWORK_SALE,Red Star Sale
+ID_INFO_DE_REDSTAR_REWORK_SALE,Two days only
+ID_OF_NA_ANNIV2021_SALE,Anniversary Sale
+ID_INFO_NA_VS_BATTLE_MILESTONE,Proving Grounds
+ID_INFO_DE_VS_BATTLE_MILESTONE_CLASSIC,Classic Draft
+ID_INFO_DE_VS_BATTLE_MILESTONE_BALANCED,Balanced Draft
+ID_INFO_DE_VS_BATTLE_MILESTONE_QUICKMATCH,Quick Match
+ID_INFO_DE_VS_BATTLE_MILESTONE_QUICKDRAFT,Quick Draft
+ID_INFO_BO_VS_BATTLE_MILESTONE,Face off against other players in <color=#fff568>VS Battle</color> to earn milestone points and reap rewards.\n\nGet matched up with an opponent and start earning these limited-time rewards!
+ID_INFO_NA_DOOMS_DAY_SALE,Doom's Day Sale
+ID_INFO_DE_DOOMS_DAY_SALE,Limited-time deals!
+ID_INFO_BO_DOOMS_DAY_SALE,Survive and thrive in <color=#fff568>Doom War Chapter 1</color> with the <color=#fff568>Doom's Day Sale</color>! Enjoy limited-time savings on:\n\n- Character Shards\n- Power Cores\n- Energy\n- Superior Basic Catalyst Parts\n- Advanced Basic Catalyst Parts\n- Red Stars\n- Ability Materials\n- Offers for Power Cores\n\nUpgrade your roster or this new campaign will spell <color=#fff568>D-O-O-M</color> for your squads!
+ID_INFO_NA_VALUABLELESSONS,Valuable Lessons
+ID_INFO_DE_VALUABLELESSONS,Earn tons of gear!
+ID_INFO_BO_VALUABLELESSONS,"Earn tons of gear, stock up on supplies, and grow your roster with 11 one-day milestones and these events:\n\n<color=#fff568>Valuable Lessons Milestone</color>\nFor 11 days, fight in Arena, Blitz, and Raid battles with characters assigned the ""Mentorship"" trait to earn points toward daily milestones that reward orange and purple gear. Filter your roster using ""Mentorship"" to see a complete list of these characters.\n\n<color=#fff568>Login Calendar</color>\nLog in each day to earn Gold Orbs, Gear Credits, and various Gear!\n\n<color=#fff568>Bonus Events</color>\n<color=#fff568>Quarter Blitz</color>: Cost of reusing characters in Blitz will never exceed 25 Blitz Charges (for the whole team)\n<color=#fff568>Raid Frenzy</color>: 20% Cost reduction for Raid Energy, Heals, and Revives in Raids"
+ID_INFO_NA_VALUABLELESSONS_SALE,Valuable Lessons Sale
+ID_INFO_DE_VALUABLELESSONS_SALE,Limited-time deals
+ID_INFO_BO_VALUABLELESSONS_SALE,Stock up on supplies and school your enemies with the Valuable Lessons Sale! Study these deals:\n\n- Character shards\n- Iron Man Red Star Draft\n- Energy and more!\n\nHurry and save before the bell rings on these offers!
+ID_INFO_NA_SINISTERASSEMBLY,Sinister Assembly
+ID_INFO_DE_SINISTERASSEMBLY,"Earn Orange gear, Elite Credits, and more!"
+ID_INFO_BO_SINISTERASSEMBLY,"Earn Sinister Credits by participating in Campaign, Blitz, VS Battle Match, and from the Raid and Arena Daily Objectives. You can earn Sinister Credits as follows:\n\n- 1 Sinister Credit per Campaign Energy spent\n- 35 Sinister Credits per Blitz win\n- 250 Sinister Credits per Hunting Grounds Milestone tier reached\n- 300 Sinister Credits by completing the Arena Daily Objective\n- 400 Sinister Credits by completing the Raid Daily Objective\n\nSpend Sinister Credits to open the following orbs:\n\n- Orange Assembly Orb\n- Purple Assembly Orb\n- Blue Assembly Orb"
+ID_INFO_NA_SINISTERASSEMBLY_SALE,Sinister Assembly Sale
+ID_INFO_DE_SINISTERASSEMBLY_SALE,Limited-time savings!
+ID_INFO_BO_SINISTERASSEMBLY_SALE,"Snatch and grab big savings during the Sinister Assembly Sale. Enjoy Sinister Credit bundles that give you Sinister Assembly milestone progress, <color=#fff568>daily discounts</color> on character shards, and <color=#fff568>offers</color> for Gold, Energy, Sinister Credit bundles, and more."
+ID_INFO_NA_FULLMATRIX,Full Matrix
+ID_INFO_DE_FULLMATRIX,Earn Iso-8 Orbs and more!
+ID_INFO_BO_FULLMATRIX,"Earn enough Iso-8 Crystals to equip a full team (Controller, Blaster, Protector, Brawler, and Support) through the <color=#fff568>Full Matrix Milestone</color>:\n\nFor 10 days, fight Arena, Blitz, and Raid battles with <color=#fff568>BIO characters</color> to earn points toward daily milestones that reward Iso-8 Crystals. Filter your roster using ""Bio"" to see a complete list of these characters.\n\nDon't miss this chance to start customizing your characters!"
+ID_INFO_NA_DOOM_NODE_CHANGE,Doom's Influence
+ID_INFO_DE_DOOM_NODE_CHANGE,Limited-time Updates
+ID_INFO_BO_DOOM_NODE_CHANGE,"Doctor Doom has begun his mystical assault on Nexus Earth! To counter his attack, S.T.R.I.K.E. is making the following temporary updates::\n\n- Mysterio will unlock at 2 Stars (45 shards)\n- Hawkeye will unlock at 1 Star (15 shards)\n- Character shard rewards for the following Campaign nodes have been updated:\n\nHeroes 1-9: Yondu to Hawkeye\nHeroes 2-3: S.H.I.E.L.D. Medic to Mysterio\nHeroes 2-6: Bullseye to Yondu\nHeroes 3-6: S.H.I.E.L.D. Security to Captain America\nHeroes 3-9: Elektra to Shocker\nHeroes 4-9: Nebula to Bullseye\nHeroes 6-6: Hawkeye to Quake\nHeroes 6-9: Captain America to Captain Marvel\nVillains 1-3: Bullseye to Elektra\nVillains 1-9: Hawkeye to Black Widow\nVillains 2-3: Hydra Sniper to Green Goblin\nNexus 3-9: Elektra to Vision\nCosmic 2-3: Kree Cyborg to Hydra Sniper\n\nThe characters originally on those nodes have either been moved or were a duplicate instance."
+ID_INFO_NA_HALLOWEEN2020,Waking Nightmare
+ID_INFO_DE_HALLOWEEN2020,Earn Anti-Venom shards!
+ID_INFO_BO_HALLOWEEN2020,"Conjure Anti-Venom character shards and other rewards during this limited-time event:\n\n<color=#fff568>Fright Light Orb</color>\nGo into the light: Earn Fright Light Orb Fragments via the event milestones, and then open them to earn Gold, gear, and shards for characters with the limited-time <color=#fff568>Masked Caper</color> trait, with Anti-Venom at a higher drop rate.\n\n<color=#fff568>Dream Warriors Milestones</color>\nTerrorize other teams in Blitz and Arena using characters with the Masked Caper trait. Score points by winning in Blitz, and either winning or losing in Arena to earn Anti-Venom character shards, Fright Light Orb Fragments, and more. This event refreshes daily until the Waking Nightmare event ends.\n\n<color=#fff568>Lucid Dream Raid Milestone</color>\nTeam up with your Alliance in Raids using Masked Caper characters to earn dreamy rewards: Anti-Venom shards, Fright Light Orb Fragments, Training Modules and various gear.\n\n<color=#fff568>Night Terrors Milestone</color>\nScore points by carving opening Fright Light Orbs to earn Anti-Venom characters shards and other scary rewards.\n\n<color=#fff568>Bonus Events</color>\n<color=#fff568>Train and Gain</color> - Earn 2x Training Modules from Campaign nodes\n<color=#fff568>Raid Frenzy</color> - 20% cost reduction for Raid Energy, Heals, and Revives in Raids\n<color=#fff568>Re-Energize</color> - The cost to purchase 120 Campaign Energy (excluding Iso-8 Campaign Energy) will remain at 50 Power Cores for 24 hours."
+ID_INFO_NA_SALE_LEVEL80,LEVEL 80 SALE
+ID_INFO_NA_SALE_THANKSGIVING,Thanksgiving Week Deals
+ID_INFO_DE_SALE_MULTIDAY,Limited-time Deals
+ID_INFO_NA_SALE_BLACKFRIDAY,Black Friday Sale
+ID_INFO_NA_SALE_CYBERMONDAY,Cyber Monday Sale
+ID_INFO_NA_PARASITIC_SYMBIOSIS_MILESTONE,Parasitic Symbiosis
+ID_INFO_DE_PARASITIC_SYMBIOSIS_MILESTONE,Battle with Symbiotes!
+ID_INFO_BO_PARASITIC_SYMBIOSIS_MILESTONE,"Battle with <color=#fff568>Symbiote</color> team members in <color=#fff568>Blitz</color>, <color=#fff568>Arena</color>, and <color=#fff568>Raids</color> to earn points and hit daily milestones that reward:\n\n- Advanced and Superior gear\n- Training Modules\n- Bounty Orb Fragments"
+ID_INFO_NA_MOJO_WINTER_SPECIAL,Mojo's Winter Special
+ID_INFO_DE_MOJO_WINTER_SPECIAL,Earn fabulous prizes!
+ID_INFO_BO_MOJO_WINTER_SPECIAL,"Turn your roster's star power potential into big rewards with these limited-time events:\n\n<color=#fff568>Screen Champions Milestone</color>\nEarn Screen Time currency via spending Campaign Energy (excluding Event Campaign Energy), Blitz wins, and Daily Objectives for Raid, Arena, and Real-Time Arena.\n\n<color=#fff568>Primetime, Syndication, Re-Run Orbs</color>\nOpen the limited-time orbs with Screen Time to earn gear, orb fragments, Elite Credits, and more!\n\n<color=#fff568>Bonus Events</color>\n<color=#fff568>Re-Energize</color> - The cost to purchase 120 Campaign Energy (excluding Event and Isotope-8 Campaign Energy) will remain at 50 Power Cores for 24 hours.\n<color=#fff568>Ion Influx</color> - The cost to refresh Isotope-8 Campaign Energy will remain at 50 Power Cores for 24 hours.\n<color=#fff568>Catalyst Cataclysm</color> - Earn 3x Basic Catalysts from these select Campaign nodes.\n<color=#fff568>Train and Gain</color> - Earn 2x Training Modules from Campaign nodes."
+ID_INFO_NA_IONINFLUX,Ion Influx
+ID_INFO_DE_IONINFLUX,Reduced refresh cost
+ID_INFO_BO_IONINFLUX,"Get extra Campaign Energy to acquire more Ions!\n\nFor 24 hours, the cost to purchase 120 Iso-8 Campaign Energy will remain at 50 Power Cores."
+ID_INFO_NA_RED_WINTER,Red Winter
+ID_INFO_DE_RED_WINTER,Warm your roster with big rewards!
+ID_INFO_BO_RED_WINTER,"Warm up your roster with Red Guardian shards and gear!\n\n<color=#fff568>Deep Freeze Orb</color>\nEarn Deep Freeze Orb Fragments via the event milestone and then open them to earn Gold, gear, and shards for select characters with the limited-time Seasoned trait, with Red Guardian at a higher drop rate.\n\n<color=#fff568>Red Alert Milestone</color>\nPut enemies on ice in Blitz and Arena using characters with the Seasoned trait. Score points by winning in Blitz and either winning or losing in Arena to earn Red Guardian shards, Deep Freeze Orb Fragments, and more!\n\n<color=#fff568>Crimson Affair Milestone</color>\nTeam up with your Alliance in Raids using Seasoned characters to earn cool rewards: Deep Freeze Orb Fragments, gear, and T3 Training Materials.\n\n<color=#fff568>Red Winter Milestone</color>\nScore points by opening Deep Freeze Orbs to earn Red Guardian characters shards and other rewards."
+ID_INFO_NA_12_DAYS_OF_SALES,12 Days of Sales
+ID_INFO_DE_12_DAYS_OF_SALES,Tis the season to save big!
+ID_INFO_BO_12_DAYS_OF_SALES,"Unwrap deals for 12 straight days!\n\nSave on Gold, Energy, Red Stars, and more, including a 10 for 10 deal.\n\nCheck the Offers section of the Store each day and don't miss out!"
+ID_INFO_NA_COVERT_OPS,Covert Ops
+ID_INFO_DE_COVERT_OPS,Battle with Military characters
+ID_INFO_BO_COVERT_OPS,"You're wanted for a gear mission:\n\nBattle with <color=#fff568>Military</color> characters in Blitz, Arena, and Raids to earn points and hit daily milestones that reward:\n\n- <color=#fff568>Armory 14 & 15 Orb Fragments</color>\n- <color=#fff568>Gear Credits</color>\n- <color=#fff568>Superior Basic Catalyst Parts</color>\n- <color=#fff568>Advanced Gear Parts</color>\n- <color=#fff568>Blue Gear Raid Orb Fragments</color>\n\nTo view eligible characters, head to the Roster and select the Military trait.\n\nDeploy your Military characters and rack up rewards!"
+ID_INFO_NA_ROYAL_COUPLE,Royal Couple
+ID_INFO_DE_ROYAL_COUPLE,2x Character shards
+ID_INFO_BO_ROYAL_COUPLE,"Celebrate <color=#fff568>Black History Month</color> with one of Marvel's most powerful and influential couples: <color=#fff568>Black Panther & Storm</color>!\n\nAs the King and Queen of Wakanda, Black Panther and Storm fought alongside one another to defend the people of Wakanda and mutants from some of humanity's greatest threats. Together, their leadership and love created a better and safer world.\n\nTo honor these characters, for 24 hours, the number of <color=#fff568>Storm & Black Panther</color> character shards rewarded in <color=#fff568>Campaign nodes</color> will <color=#fff568>double</color> from 2 to 4:\n\nBlack Panther: Nexus 4-9\nStorm: Mystic 2-3"
+ID_INFO_NA_LUNARFESTIVAL,Lunar Festival
+ID_INFO_DE_LUNARFESTIVAL,Earn explosive rewards!
+ID_INFO_BO_LUNARFESTIVAL,"Light the fuse on big rewards with these explosive limited-time events:\n\n<color=#fff568>Well Wishes Milestone</color>\nSpend Power Cores to hit daily Solo milestones that reward Lunar Credits, along with various other rewards!\n\n<color=#fff568>Lunar Orbs</color>\nUse <color=#fff568>Lunar Credits</color> to open <color=#fff568>Orange, Purple, and Blue Lunar Orbs</color> that reward gear, Mega Orbs, Gold, and more!\n\n<color=#fff568>Cheerful Celebration Milestone</color>\nEarn points by opening Lunar Orbs and hitting Alliance milestones, which reward Gear Tier 15 mini-uniques, Elite 5 Credits, Advanced and Superior Basic Catalyst Parts, a 5-Red Star Character Draft (featuring only named characters), and various gear."
+ID_INFO_NA_FALCON_EVENT,Eyes in the Skies
+ID_INFO_DE_FALCON_EVENT,2x Falcon shards
+ID_INFO_BO_FALCON_EVENT,"Celebrate <color=#fff568>Black History Month</color> with one of Marvel's most selfless heroes: Falcon!\n\nWith a duty to serve, Sam Wilson immediately volunteered to assist Captain America when asked for assistance. Complete with a flight suit and telepathic communication with birds, Falcon soars into combat providing aerial support for the Avengers.\n\nTo honor Falcon, for 24 hours, the number of <color=#fff568>Falcon</color> character shards rewarded in the following <color=#fff568>Campaign node</color> will <color=#fff568>double</color> from 2 to 4:\n\nFalcon: Nexus 7-3"
+ID_INFO_NA_LUKECAGE_EVENT,Hero for Hire
+ID_INFO_DE_LUKECAGE_EVENT,2x Luke Cage shards
+ID_INFO_BO_LUKECAGE_EVENT,"Celebrate <color=#fff568>Black History Month</color> with one of Marvel's most impenetrable heroes: Luke Cage!\n\nAfter being imprisoned for a crime he didn't commit, Luke Cage was given an experimental treatment. Now armed with superhuman strength and unbreakable skin, Luke Cage has become the Hero for Hire, defending the streets of New York City on behalf of the defenseless.\n\nTo honor Luke Cage, for 24 hours, the number of <color=#fff568>Luke Cage</color> character shards rewarded in the following <color=#fff568>Campaign node</color> will <color=#fff568>double</color> from 2 to 4:\n\nLuke Cage: Heroes 3-3"
+ID_INFO_NA_OKOYE_EVENT,Tip of the Spear
+ID_INFO_DE_OKOYE_EVENT,2x Okoye shards
+ID_INFO_BO_OKOYE_EVENT,"Celebrate <color=#fff568>Black History Month</color> with one of Marvel's fiercest warriors: Okoye!\n\nAs a member of the Dora Milaje, Okoye serves as a personal bodyguard to T'Challa. Okoye's deadly skills with a spear are only matched by her sharp mind and wisdom. These skills combined has led her to be trusted by Black Panther as one of his closest and most trusted allies.\n\nTo honor Okoye, for 24 hours, the number of <color=#fff568>Okoye</color> character shards rewarded in the following <color=#fff568>Campaign node</color> will <color=#fff568>double</color> from 2 to 4:\n\nOkoye: Nexus 6-3"
+ID_MEC_FA_WS_NAME,Falcon and Winter Soldier
+ID_MEC_FA_WS_DESC,"Minimum Recommendation:\n\n- Mission 1: Squad Lvl 50, Gear Tier 9\n- Mission 2: Squad Lvl 65, Gear Tier 12, Red Stars 3, Iso-8 Class T1 Level 3\n- Mission 3: Squad Lvl 75, Gear Tier 14, Red Stars 4, Iso-8 Class T1 Level 4"
+ID_MEC_CHANCE_FA_WS,Earn amazing rewards!
+ID_MEC_FA_WS_MB,"Nick Fury has learned that Red Skull from another Earth is attempting to create a multidimensional Hydra army and he's recruiting members from Nexus Earth. Hydra experts Falcon, Winter Soldier, Captain America and Baron Zemo are dispatched to stop the uprising."
+ID_MEC_FA_WS_MC,GO!
+ID_MEC_FA_WS_MS,Falcon and Winter Soldier
+ID_MEC_FA_WS_MT,The Falcon and Winter Soldier event has started!
+ID_MEC_FA_WS_EN_SU,The Falcon and Winter Soldier event has ended.
+ID_INFO_NA_PROXIMA_DD4,Endless Night
+ID_INFO_DE_PROXIMA_DD4,2x Proxima Midnight shards
+ID_INFO_BO_PROXIMA_DD4,"Commander,\n\nThe Dark Dimension IV celebration continues!\n\nWatchRemanxShakeIt has chosen two characters for Bonus Events. The second character is Proxima Midnight.\n\nFor the next 24 hours, earn <color=#fff568>double Proxima Midnight</color> shards in <color=#fff568>Doom 2-9</color>."
+ID_INFO_NA_TASKMASTER_DD4,Cut and Copy
+ID_INFO_DE_TASKMASTER_DD4,2x Taskmaster shards
+ID_INFO_BO_TASKMASTER_DD4,"Commander,\n\nThe Dark Dimension IV celebration continues! \n\nWatchRemanxShakeIt has chosen two characters for Bonus Events. The first character is Taskmaster.\n\nFor the next 24 hours, earn <color=#fff568>double Taskmaster</color> shards in <color=#fff568>Doom 3-9</color>."
+ID_INFO_NA_NEWMOON,New Moon
+ID_INFO_DE_NEWMOON,Make your roster shine with big rewards!
+ID_INFO_BO_NEWMOON,"Make your roster shine with Moon Knight character shards and more with this limited-time event:\n\n<color=#fff568>Eternal Night Orb</color>\nEmbrace the darkness by earning Eternal Night Orbs via the event milestones and then open them to earn Gold, gear, and shards for select characters with the limited-time <color=#fff568>Nocturnal trait</color>, with <color=#fff568>Moon Knight</color> at a higher drop rate.\n\n<color=#fff568>Crescent Crescendo Milestone</color>\nEclipse enemies in Blitz and Arena using characters with the <color=#fff568>Nocturnal</color> trait in this daily Milestone. Score points by winning in Blitz and either winning or losing in Arena to earn Moon Knight shards, Eternal Night Orb Fragments, and more!\n\n<color=#fff568>Midnight Madness Milestone</color>\nTeam up with your Alliance in Raids using Nocturnal trait characters to earn Moon Knight shards, Eternal Night Orb Fragments, and gear.\n\n<color=#fff568>New Moon Milestone</color>\nScore points by opening Eternal Night Orbs to earn Moon Knight character shards and other rewards.\n\n<color=#fff568>Fractured Reality Bonus Event</color>\nFor a limited-time, Isotope-8 Campaign nodes will reward Eternal Night Orb Fragments with a 100% drop rate.\n\n"
+ID_INFO_NA_NIGHTNURSE_EVENT,Double Shift
+ID_INFO_DE_NIGHTNURSE_EVENT,2x Night Nurse shards
+ID_INFO_BO_NIGHTNURSE_EVENT,"Celebrate <color=#fff568>Women's History Month</color> with one of Marvel's skilled healers: Night Nurse!\n\nChristine Palmer is a competent and skilled surgeon at Metro-General Hospital. During her time there, she has helped many a Super Hero in their recovery, including Nightcrawler and Storm of the X-Men. She is extremely smart and intuitive when it comes to those in need of medical attention.\n\nTo honor Night Nurse, for 24 hours, the number of <color=#fff568>Night Nurse</color> character shards rewarded in the following <color=#fff568>Campaign nodes</color> will <color=#fff568>double</color> from 2 to 4:\n\nNight Nurse: Heroes 5-9, Villains 3-9"
+ID_INFO_NA_CAPTAINMARVEL_EVENT,War Bird
+ID_INFO_DE_CAPTAINMARVEL_EVENT,2x Captain Marvel shards
+ID_INFO_BO_CAPTAINMARVEL_EVENT,"Celebrate <color=#fff568>Women's History Month</color> with one of Marvel's most powerful heroes: Captain Marvel!\n\nFormer Air Force pilot Carol Danvers found her life forever changed when her latent human-Kree hybrid genes awakened extraordinary powers within her after exposure to the Psyche-Magnitron. Now, Carol has donned the mantle of Captain Marvel, taking her place as one of the world's mightiest heroes.\n\nTo honor Captain Marvel, for 24 hours, the number of <color=#fff568>Captain Marvel</color> character shards rewarded in the following <color=#fff568>Campaign node</color> will <color=#fff568>double</color> from 2 to 4:\n\nCaptain Marvel: Heroes 6-9"
+ID_INFO_NA_STELLAR_CELEBRATION,Stellar Celebration
+ID_INFO_DE_STELLAR_CELEBRATION,Blast off with big rewards!
+ID_INFO_BO_STELLAR_CELEBRATION,"Celebrate 3 years with events that'll cause a big bang:\n\n<color=#fff568>Solar, Galactic, Celestial Orbs</color>\nMake your roster go supernova with limited-time Cosmic Essence currency and the Solar, Galactic, and Celestial Orbs. Earn Cosmic Essence via Blitz battles, Campaign nodes, and select Daily Objectives, then use this special currency to open the event orbs in the Supplies Store for Orange, Purple, and Blue gear rewards.\n\n<color=#fff568>Dark Matter Milestone</color>\nBlast off by opening Solar, Galactic, and Celestial Orbs to earn characters shards, gear, Gold, Training Modules, and other resources.\n\n<color=#fff568>Universal Truth Milestone</color>\nTurn your war efforts into milestone rocket fuel by spending War Credits and Elite War Credits to hit milestones to earn Cosmic Essence.\n\n<color=#fff568>Anniversary Calendar</color>\nContinue logging in every day for 14 days to earn Cosmic Essence, Silver Promotion Credits, Superior Basic Catalyst Parts, Legacy Orbs, and more.\n\n<color=#fff568>Bonus Events Coming During the Event</color>\nTrain & Gain - 2x Training Modules from Campaign nodes\nGear Explosion - 3x Origin Gear from Campaign nodes\nGeology Bounty - 2x Iso-8 Crystals from Campaign nodes\nEnergy Overload - When refreshing your Campaign Energy, earn 2x the amount"
+ID_INFO_NA_GEOLOGY_BOUNTY_UPDATE,Geology Bounty
+ID_INFO_DE_GEOLOGY_BOUNTY_UPDATE,2x Iso-8 Crystals
+ID_INFO_BO_GEOLOGY_BOUNTY_UPDATE,"Go mining for Iso-8 Crystals!\n\nFor 24 hours, the number of <color=#fff568>Iso-8 Crystals</color> rewarded from Campaign nodes will <color=#fff568>double (2x)</color>.\n\nAffected Campaign nodes will be marked with <color=#fff568>BONUS</color>, so be on the lookout."
+ID_INFO_NA_GEAR_EXPLOSION_UPDATE,Gear Explosion
+ID_INFO_DE_GEAR_EXPLOSION_UPDATE,3x rewards for select gear
+ID_INFO_BO_GEAR_EXPLOSION_UPDATE,"Outfit your roster with more gear!\n\nFor 24 hours, the number of select <color=#fff568>Improved, Advanced, and Superior Origin Gear</color> rewarded in Campaign nodes will <color=#fff568>triple (3x)</color>.\n\nAffected Campaign nodes will be marked with <color=#fff568>BONUS</color>."
+ID_INFO_NA_FALCON_WINTERSOLDIER,The Falcon and Winter Soldier
+ID_INFO_DE_FALCON_WINTERSOLDIER,Mini-Event Campaign & rewards!
+ID_INFO_BO_FALCON_WINTERSOLDIER,"Swoop in and arm yourself with big rewards with these events:\n\n<color=#fff568>Mini-Event Campaign</color>\nJoin Falcon and Winter soldier as they try to stop Redskull from creating a multi-dimensional Hydra army!\n\n<color=#fff568>Event Campaign Energy</color>\nUse Heroic Duo Energy to participate in the Mini-Event Campaign to earn gear, ability materials, and more. Heroic Duo Energy refreshes every 48 minutes and the cost to refresh starts at 250 Power Cores. You can earn more energy through the Honor the Shield milestone.\n\n<color=#fff568>Mini-Event Campaign Requirements:</color>\n- Falcon, Winter Soldier, Captain America, and Baron Zemo\n- Mission 1: Player Level 50\n- Mission 2: Player Level 65\n- Mission 3: Player Level 75\n\n<color=#fff568>Recommended stats for each character:</color>\n- Mission 1: 5-Stars, 2 Red Stars, Gear Tier 9, ability levels 4/4/4/3\n- Mission 2: 6-Stars, 3 Red Stars, Stark Tech-10, Gear Tier 12, Iso-8 Tier 3, ability levels 6/6/6/4\n- Mission 3: 7-Stars, 4 Red Stars, Stark Tech-15, Gear Tier 14, Iso-8 Tier 4, ability levels 6/6/7/4\n\n<color=#fff568>Honor the Shield Milestone</color>\nHit 2-day milestones to earn Heroic Duo Energy and Catalyst Parts.  Earn the most milestone points by using the Mini-Event Campaign characters in Blitz and Alliance War, or by participating in Raids with any characters.\n\nAlso earn more points in Blitz and War if the event characters are gear tier 13 and above, 5-Stars and above."
+ID_INFO_NA_SUPPORTINCOMING,Support Incoming!
+ID_INFO_DE_SUPPORTINCOMING,Battle with Support characters
+ID_INFO_BO_SUPPORTINCOMING,"Inject life into your roster:\n\nBattle with <color=#fff568>Support characters</color> in Blitz and Raids, or with any character in Arena to earn points toward daily milestones that award:\n\n- Armory 15 Orb Fragments\n- Gear Credits\n- Superior Basic Catalyst Parts\n- Advanced Gear Parts\n- Blue Gear Raid Orb Fragments\n\nTo view eligible characters, head to your Roster and filter by the Support trait."
+ID_INFO_NA_KESTRELEVENT,Birds of a Feather
+ID_INFO_DE_KESTRELEVENT,Kestrel flies into battle!
+ID_INFO_BO_KESTRELEVENT,"Celebrate the arrival of Kestrel with big rewards!\n\n<color=#fff568>Take Flight Event Campaign</color>\nEarn Kestrel characters shards and Voyager Orb Fragments via the Take Flight Event Campaign nodes. The Voyager Orb contains select characters with the limited-time Voyager trait.\n\n<color=#fff568>Earn Your Wings Milestone</color>\nOpen Voyager Orbs for the Take Flight Event Campaign to earn points and hit milestones that reward gear, character shards, and a 3-Red Star Kestrel.\n\n<color=#fff568>Fabric of Reality Milestone</color>\nParticipate in the Take Flight Event Campaign and spend Voyager Energy to earn points toward a daily milestone that rewards Superior Basic Catalyst Parts, Superior mini-unique gear pieces, and enough Gold Flash Bits to acquire the ""S.T.R.I.K.E. Anniversary"" Costume for Nick Fury."
+ID_INFO_NA_TIMELESSLOOKS,Timeless Looks
+ID_INFO_DE_TIMELESSLOOKS,Earn gear and Bits for rewards!
+ID_INFO_BO_TIMELESSLOOKS,"Stock your closet with Bits, gear, and more:\n\n<color=#fff568>Form and Function Milestone</color>\nDress down opponents in <color=#fff568>Alliance War, Raids, and Arena</color> battles to earn points toward a 7-day milestone that rewards:\n\n- Pink Flash Bits\n- Catalyst Parts\n- Orange gear\n- Armory 14 & 15 Orbs\n\n<color=#fff568>Bonus Event: Dress to Impress</color>\nTry this on for size: For 7 days, spend <color=#fff568>Campaign Energy</color> to earn <color=#fff568>Pink Flash Bits</color> from <color=#fff568>Campaign</color> nodes. This event starts at the conclusion of the Form and Function Milestone.\n\n<color=#fff568>Costumes</color>\nTimeless Looks is your first opportunity to add these available costumes to your roster using Pink Flash Bits:\n\n- Scarlet Witch's ""WandaVision (50s)"" Costume\n- Vision's ""WandaVision (50s)"" Costume\n- Thor's ""Siege"" Costume\n\nDon't forget to use your Pink Flash Bits, as unused Bits will be converted to Costume Credits on <color=#fff568>June 7, 5:00PM (PDT)</color> after the Timeless Looks event ends. Unused Bits will be converted at a rate of <color=#fff568>60%</color>."
+ID_INFO_NA_DRESSTOIMPRESS,Dress to Impress
+ID_INFO_DE_DRESSTOIMPRESS,Earn Bits from Campaign!
+ID_INFO_BO_DRESSTOIMPRESS,"Try this on for size: For 7 days, spend <color=#fff568>Campaign Energy</color> to earn <color=#fff568>Pink Flash Bits</color> from <color=#fff568>Campaign</color> nodes."
+ID_INFO_NA_SHADEOFICE,All-New Shade of Ice
+ID_INFO_DE_SHADEOFICE,All-Different Looks
+ID_INFO_BO_SHADEOFICE,"Celebrate Pride Month and outfit Iceman with a cool new costume in the <color=#fff568>All-New Shade of Ice</color> Event!\n\nWin or lose in Arena with any character to earn points toward a 7-day milestone that rewards Purple Flash Bits, which you can use to purchase Iceman's limited-time <color=#fff568>All-New X-Men Costume</color>.\n\nFreeze enemies in Arena and start earning Bits and Add cool new threads for the Astonishing X-Men's iconic LGBTQ+ character!"
+ID_INFO_NA_CAMPAIGNMISCHIEF,Campaign Mischief
+ID_INFO_DE_CAMPAIGNMISCHIEF,"Loki costume, Iso-8, and more!"
+ID_INFO_BO_CAMPAIGNMISCHIEF,"Elect big rewards by participating in the Vote for Loki Event Campaign:\n\n<color=#fff568>Vote for Loki Event Campaign</color>\nEarn Phyla-Vell character shards and Quantum Guard Orb Fragments via the Vote for Loki Event Campaign.\n\n<color=#fff568>Campaign Mischief Milestone</color>\nSpend <color=#fff568>Vote for Loki Energy</color> to earn points toward a daily milestone that rewards <color=#fff568>Iso-8 resources</color>, Purple and Orange <color=#fff568>Mystic gear</color>, <color=#fff568>Catalyst Parts</color>, and <color=#fff568>Yellow Flash Bits</color>.\n\nCostume\nUse your Yellow Flash Bits to purchase the ""<color=#fff568>President Loki</color>"" costume, which will only be available for a limited-time at first. Unused Bits will be converted to <color=#fff568>Costume Credits</color> on <color=#fff568>July 1, 5:00PM (PDT)</color> at a conversion rate of <color=#fff568>60%</color>."
+ID_INFO_NA_SHOWYOURCOLORS,Show Your Colors
+ID_INFO_DE_SHOWYOURCOLORS,"Moondragon shards, gear, and more"
+ID_INFO_BO_SHOWYOURCOLORS,"Unify your roster with <color=#fff568>Moondragon</color> character shards and more with the limited-time <color=#fff568>Show Your Colors</color> event!\n\n<color=#fff568>Unity Orb</color>\nUnite your roster by earning Unity Orbs via the event milestones and then open them to earn Gold, gear, and select characters with the limited-time Quirky trait, with Moondragon at a higher drop rate.\n\n<color=#fff568>Strength in Numbers Milestone</color>\nBattle in Blitz and Arena using characters with the Quirky trait to score points for a daily milestone that rewards Unity Orb Fragments, Catalyst Parts, and Gear Credits.\n\n<color=#fff568>Marvelous Allies Milestone</color>\nWork together with your Alliance in Raids using characters with the Quirky trait characters to earn points toward a milestone that rewards Moondragon shards, Unity Orb Fragments, and more.\n\n<color=#fff568>Barrier Breaker Milestone</color>\nScore points by opening Unity Orbs to earn Moondragon shards and other rewards.\n\n<color=#fff568>Bright Future Bonus Event</color>\nFor a limited-time, Isotope-8 Campaign nodes will reward Unity Orb Fragments with a 100% drop rate."
+ID_INFO_NA_WEBOFSPIES,Web of Spies
+ID_INFO_DE_WEBOFSPIES,"Gear, Training Materials, Iso-8, and more!"
+ID_INFO_BO_WEBOFSPIES,"Commander,\n\nNOW LIVE: <color=#fff568>Web of Spies</color>! Infiltrate a rewards cache with this limited-time event:\n\n<color=#fff568>Hidden Threat Orbs</color>\nTransform your roster into deadly field agents with Classified Data currency and the Hidden Threat Orbs. Earn Classified Data via Blitz battles, Campaign nodes, and select Daily Objectives, then use this special currency to open Hidden Threat Orbs in the Supplies Store for Orange, Purple, and Blue gear rewards.\n\n<color=#fff568>Web of Spies Milestone</color>\nOpen Hidden Threat Orbs to earn points toward milestones that reward character shards, Orange gear, Elite Credit, training modules, and other resources.\n\n<color=#fff568>Target Acquired Milestone</color>\nMake the Red Room proud: Win Real-Time Arena matches and battle in Arena, Raids, and War to earn points toward two-day recurring milestones that reward Classified Data and Pink Phase Bits, which you can use to purchase Black Widow's limited-time Snow Suit Costume.\n\n<color=#fff568>Login Calendar</color>\nContinue logging in every day for 14 days to earn Orange Mini-Uniques, Superior Basic Catalysts Parts, and more.\n\n<color=#fff568>Bonus Events Coming During the Event</color>\n<color=#fff568>Energy Overload</color> - Receive 240 Campaign Energy (not including Iso-8) instead of the normal 120 when refreshing Campaign Energy\n<color=#fff568>Train and Gain</color> - 2x Training Modules from Campaign nodes\n<color=#fff568>Gold Rush</color> - 2x Gold from Campaigns nodes\n<color=#fff568>Catalyst Cataclysm</color> - 3x Basic Catalysts from Campaign nodes"
+ID_INFO_NA_CLASSICLOOKS,Classic Looks
+ID_INFO_DE_CLASSICLOOKS,Earn your stars and stripes
+ID_INFO_BO_CLASSICLOOKS,"Earn your stars and stripes with this limited-time event:\n\n<color=#fff568>Conspiracy Theories Event Campaign</color>\nEarn Sharon Carter character shards and Saboteur Orb Fragments via the Conspiracy Theories Event Campaign.\n\n<color=#fff568>Classic Looks Milestone</color>\nSpend Conspiracy Theories Energy to earn points toward a recurring 2-day milestone that rewards Orange Skill gear parts, Catalyst Parts, and Silver Phase Bits.\n\n<color=#fff568>Classic Costume</color>\nUse your Silver Phase Bits to purchase the ""Classic"" Captain America Costume, which will only be available for a limited time at first. After acquiring this costume, you have the option to purchase a visual upgrade using Costume Credits. Unused Bits will be converted to <color=#fff568>Costume Credits</color> on <color=#fff568>August 6, 2021 5:00PM (PDT)</color> at a conversion rate of 60%."
+ID_INFO_NA_VEILEDTHREATS,Veiled Threats
+ID_INFO_DE_VEILEDTHREATS,"Earn costumes, ability materials, and gear!"
+ID_INFO_BO_VEILEDTHREATS,"Stitch together victory in battle to earn big rewards and your choice of costumes.\n\n<color=#fff568>Deadly Intentions Milestone</color>\nCut down opponents in Alliance War, Raids, and Arena battles to earn points toward a 14-day milestone that rewards:\n\n- Purple Phase Bits\n- Elite 4 & Elite 5 Credits\n- Ability Materials\n- Catalyst Parts\n- Gear\n\n<color=#fff568>Costumes</color>\nVeiled Threats is your first opportunity to add these available costumes to your roster using Purple Phase Bits:\n\n- Gamora's <color=#fff568>""Requiem""</color> Costume\n- Daredevil's <color=#fff568>""Shadowland""</color> Costume\n\nAfter acquiring these costumes, you have the option to purchase a visual upgrade using Costume Credits. Unused Bits will be converted to <color=#fff568>Costume Credits</color> on August 21st, 2021 5:00PM (PDT) at a conversion rate of <color=#fff568>60%.</color>"
+ID_INFO_NA_POSTMORTEM,Post Mortem
+ID_INFO_DE_POSTMORTEM,"Earn gear, Catalyst Parts, and T2 Iso-8 Credits"
+ID_INFO_BO_POSTMORTEM,"Celebrate the arrival of Deathpool by reaping big rewards!\n\n<color=#fff568>Shadow of Deathpool Event Campaign</color>\nEarn Deathpool character shards and Devoted Orb Fragments via the Shadow of Deathpool Event Campaign. The Devoted Orb contains select characters with the limited-time Devoted trait.\n\n<color=#fff568>Post Mortem Milestone</color>\nScore points toward a daily milestone by participating in the Shadow of Deathpool Campaign and by battling (bonus points for using Deathpool) in Arena and Raids. Dig up rewards, including origin gear, Catalyst Parts, Orange Elite Orb Fragments, and T2 Iso-8 Credits."
+ID_INFO_NA_THELEGEND,The Legend
+ID_INFO_DE_THELEGEND,Fight your way to Shang-Chi shards and rewards!
+ID_INFO_BO_THELEGEND,"Transform your roster with <color=#fff568>Shang-Chi</color> character shards and more with this limited-time event:\n\n<color=#fff568>Fire Essence Event Currency</color>\nEarn limited-time Fire Essence Event Currency via Campaign Nodes (not including Event Campaign), Blitz, and select Daily Objectives.\n\n<color=#fff568>Wise Warrior Milestone</color>\nRack up points toward a 14-day milestone by spending Fire Essence in the limited-time Event Store. Earn Shang-Chi character shards, various gear, Elite 6 Credits, and more via the milestone rewards.\n\n<color=#fff568>10 Medallions</color>\nFind Medallions in the limited-time login calendar, milestones, and offers and then redeem each Medallion in the Orbs Section of the Fire Essence Event Store for various rewards. Each opened Medallion earns Achievement progress. Open 7 Medallions to earn enough Gold Phase Bits to obtain Shang-Chi's ""Battle Armor"" Costume. Open all 10 Medallions to earn additional Shang-Chi character shards.\n\n<color=#fff568>Shang-Chi Costume</color>\nThe Legend is your first opportunity to add Shang-Chi's ""Battle Armor"" Costume to your roster using Gold Phase Bits. Unused Bits will be converted to <color=#fff568>Costume Credits</color> on Sept 22nd, at 5:00PM (PDT) at a conversion rate of <color=#fff568>60%</color>.\n\n<color=#fff568>Bonus Events Coming Soon</color>\n<color=#fff568>Ionize</color> - When refreshing your Isotope-8 Campaign Energy, earn 2x the amount\n<color=#fff568>Raid Frenzy</color> - 20% cost reduction for Raid Energy, Heals, and Revives in Raids\n<color=#fff568>Train and Gain</color> - 2x Training Modules from Campaign nodes\n<color=#fff568>Energy Overload</color> - When refreshing your Campaign Energy, earn 2x the amount"
+ID_INFO_NA_MIGHTIESTWARRIORS,Mightiest Warriors
+ID_INFO_DE_MIGHTIESTWARRIORS,Power up your roster with 2x rewards
+ID_INFO_BO_MIGHTIESTWARRIORS,"Earn big rewards with the <color=#fff568>Mightiest Warriors</color> Bonus Event!\n\nFor 48 hours, the following rewards will be <color=#fff568>doubled</color> for all <color=#fff568>Heroes</color> Campaign nodes:\n\n- Character shards\n- Gold\n- Training Modules\n\nBonus Events are limited-time opportunities to earn extra rewards and resources. These valuable resources can help quickly power up your characters, so don't miss out on this limited-time event."
+ID_INFO_NA_MASTERPLAN,Master Plan
+ID_INFO_DE_MASTERPLAN,Power up your roster with 2x rewards
+ID_INFO_BO_MASTERPLAN,"Earn big rewards with the <color=#fff568>Master Plan</color> Event!\n\nFor 48 hours, the following rewards will be <color=#fff568>doubled</color> for all <color=#fff568>Villains</color> Campaign nodes:\n\n- Character shards\n- Gold\n- Training Modules\n\nThese resources can help quickly power up your characters, so don't miss out on this limited-time event."
+ID_INFO_NA_IONIZE_BONUS_EVENT,Ionize
+ID_INFO_DE_IONIZE_BONUS_EVENT,2x Isotope-8 Campaign Energy!
+ID_INFO_BO_IONIZE_BONUS_EVENT,"Earn more Iso-8 resources!\n\nFor 24 hours, the amount of Isotope-8 Campaign Energy will be doubled from 120 to 240 when purchased."
+ID_INFO_NA_THEBLEEDINGKING,The Bleeding King
+ID_INFO_DE_THEBLEEDINGKING,Absolute Carnage Costume and more!
+ID_INFO_BO_THEBLEEDINGKING,"Sink your teeth into the <color=#fff568>Absolute Carnage</color> costume and mouth-watering rewards.\n\n<color=#fff568>The Bleeding King Milestone</color>\nSlice and dice enemies in <color=#fff568>Alliance War, Arena,</color> and <color=#fff568>Raids</color> to earn points toward a 14-day milestone that rewards:\n\n- Yellow Phase Bits\n- Elite 4 & Elite 5 Credits\n- Ability Materials\n- Catalyst Parts\n- Gear\n\n<color=#fff568>Costume</color>\nThe Bleeding King is your first opportunity to add Carnage's <color=#fff568>Absolute Carnage</color> costume to your roster using Yellow Phase Bits.\n\nUnused Bits will be converted to <color=#fff568>Costume Credits</color> on September 30th at 5:00PM (PDT) at a conversion rate of <color=#fff568>60%</color>."
+ID_INFO_NA_UNSTABLEELEMENTS,Unstable Elements
+ID_INFO_DE_UNSTABLEELEMENTS,Earn T2 and T1 Iso-8!
+ID_INFO_BO_UNSTABLEELEMENTS,Stock up on Iso-8 with this limited-time event:\n\n<color=#fff568>Elementary Particles Currency</color>\nEarn limited-time <color=#fff568>Elementary Particles</color> Event Currency by completing select Daily Objectives and via offers in the Supplies Store.\n\n<color=#fff568>Elementary Particles Event Store</color>\nSpend your Elementary Particles in the <color=#fff568>Elementary Particles Event Store</color> where you can purchase <color=#fff568>T2 (Blue) & T1 (Green) Iso-8</color>.
+ID_INFO_NA_EXPERIMENTX,Experiment X
+ID_INFO_DE_EXPERIMENTX,"Weapon X Costume, Teal gear, and more!"
+ID_INFO_BO_EXPERIMENTX,"Claw your way to Wolverine's new costume and other rewards with this limited-time event:\n\n<color=#fff568>Experiment X Milestone</color>\nSpend Campaign Energy, Isotope-8 Energy, and Power Cores to earn points toward a one-day milestone that repeats for 14 days. Rewards include:\n\n- Pink Phase Bits\n- <color=#fff568>Teal</color>, Orange, and Purple gear\n- Silver and Gold Promotion Credits\n\n<color=#fff568>Costume</color>\nExperiment X is your first opportunity to add Wolverine's <color=#fff568>Weapon X</color> Costume to your roster using Pink Phase Bits.\n\nUnused Bits will be converted to Costume Credits on <color=#fff568>October 20th at 5:00PM (PDT)</color> at a conversation rate of <color=#fff568>60%</color>."
+ID_INFO_NA_LABXPERIMENTS,Lab X-Periments
+ID_INFO_DE_LABXPERIMENTS,Lady Deathstrike shards and more!
+ID_INFO_BO_LABXPERIMENTS,"Transform your roster into the ultimate weapon with this limited-time event:\n\n<color=#fff568>Mini Candy & Event Store</color>\nEarn Mini Candy Event Currency via the Test Subjects Milestone and then spend your candy in the Event Store on scary good rewards, including Lady Deathstrike character shards, Silver Phase Bits, and Teal and Orange Mini-Uniques! Items in the Event Store may differ each day or in between Store refreshes, so check back often.\n\n<color=#fff568>Test Subjects Milestone</color>\nTerrorize Blitz using characters with the limited-time ""Pierced Veil"" trait or battle in Arena and Raids with any character to earn points toward the Test Subjects Milestone. Rewards include Lady Deathstrike shards, Mini Candy, Silver Phase Bits, and Purple, Orange, and Teal Catalyst Parts.\n\n<color=#fff568>Costume</color>\nThe Lab X-Periments Event is your first opportunity to add Venom's ""Ancient Pharaoh"" Costume to your roster using Silver Phase Bits. Unused Bits will be converted to Costume Credits on November 6th at 5:00 PM (PDT) at a conversion rate of 60%."
+ID_INFO_NA_ASSEENONTV,As Seen On TV
+ID_INFO_DE_ASSEENONTV,Earn Costumes and Teal gear!
+ID_INFO_BO_ASSEENONTV,"Mojo just launched his new Mojo+ streaming service and needs your help to make it a hit! Battle with his favorite ""Superstar"" heroes in exchange for fabulous prizes during this limited-time event:\n\n<color=#fff568>Quality Streaming Milestone</color>\nTurn enemies into dead air using characters with the limited-time ""Superstar"" trait in Blitz to earn points toward a 2-day recurring Milestone that repeats for 10 days. Earn additional points by Blitzing with Superstar characters with Gear Tier 9+, 12+, and 15+, or battling in Arena and Raids with any character.\n\nRewards include Teal, Orange, and Purple gear, as well as Gold Phase Bits that can be exchanged for limited-time costumes.\n\n<color=#fff568>Ranked Leaderboards</color>\nOnce you've earned at least 3,000 points via the Quality Streaming Milestone, climb the ranks of a leaderboard that rewards Gold Phase Bits and Gold Promotion Credits.\n\n<color=#fff568>Costumes</color>\nAs Seen On TV is your opportunity to add these costumes to your roster using Gold Phase Bits:\n\n- Ultron's ""What If...?"" Costume\n- Scarlet Witch's ""WandaVision (50s)"" Costume\n- Vision's ""WandaVision (50s)"" Costume\n- Loki's ""President Loki"" Costume\n\nUnused Bits will be converted to <color=#fff568>Costume Credits</color> on <color=#fff568>November 29th 4:00PM (PST)</color> at a conversion rate of <color=#fff568>60%.</color>"
+ID_INFO_NA_INFINITYFEAST,Infinity Feast
+ID_INFO_DE_INFINITYFEAST,Earn limited-time orbs!
+ID_INFO_BO_INFINITYFEAST,"Carve into enemies during Thanosgiving Blitz to gobble up exclusive rewards:\n\n<color=#fff568>Thanosgiving Orb</color>\nThe inevitable orb! Earn Thanosgiving Orbs from Thanosgiving Blitz and then open them to earn a cornucopia of prizes, including Training Modules, Ability Materials, and a chance to win a Gold jackpot. The Thanosgiving Orb will be available in the Store from <color=#fff568>November 25th, 4:00PM (PST)</color> until <color=#fff568>December 2nd, 4:00PM (PST)</color>\n\n<color=#fff568>Prestige Orb</color>\nEarn Prestige Orb Fragments via the Infinity Feast Milestone, and then harvest rewards with top-tier value to transform your roster.\n\n<color=#fff568>Thanosgiving Blitz</color>\nCarve through enemies during this limited-time Blitz to earn Thanos character shards and Thanosgiving Orb Fragments.\n\n<color=#fff568>Infinity Feast Milestone</color>\nCollect Thanosgiving Orb Fragments in Thanosgiving Blitz to earn points toward a 8-day milestone that rewards Prestige Orb Fragments, gear, Gold, and more."
+ID_INFO_NA_ETERNALCONNECTIONS,Eternal Connections
+ID_INFO_DE_ETERNALCONNECTIONS,Battle for Ikaris shards!
+ID_INFO_BO_ETERNALCONNECTIONS,"Recruit Ikaris and join the ranks of the Eternals with this limited-time event:\n\n<color=#fff568>Eternal Spirit & Event Store</color>\nEarn Eternal Spirit Event currency via the Gift of the Celestials Milestone and then spend your Eternal Spirit on items in the Event Store, including <color=#fff568>Yellow Flash Bits</color>. Items in the Event Store may differ each day or in between Store refreshes, so check back often.\n\n<color=#fff568>Gift of the Celestials Milestone</color>\nPulverize enemies in Blitz, Alliance War, Raids, and Arena to earn points toward a 2-day milestone that repeats for 14 days. You'll earn more points by battling with characters who possess the limited-time ""Eternal Connections"" trait. Milestone rewards include Eternal Spirit event currency, Teal Catalyst Parts, and Orange and Purple Gear.\n\n<color=#fff568>Endless Power Milestone & Leaderboard</color>\nSpend Campaign Energy to rack up points toward the Endless Power Milestone and earn Ikaris character shards. Climb the ranks of the Endless Power leaderboard which rewards Eternal Spirit Event Currency.\n\n<color=#fff568>Costume</color>\nThe Eternal Connections Event is your first opportunity to add Hawkeye's ""Hawkguy"" Costume to your roster using Yellow Flash Bits. Unused Bits will be converted to <color=#fff568>Costume Credits</color> on <color=#fff568>December 13th at 4:00PM (PST)</color> at a conversion rate of 60%."
+ID_INFO_NA_WINTER2021,Season's Sorcery
+ID_INFO_DE_WINTER2021,Recruit Magik and conjure rewards!
+ID_INFO_BO_WINTER2021,"Cast a rewards spell and recruit Magik during this limited-time event:\n\n<color=#fff568>Snowflakes & Event Store</color>\nEarn limited-time Snowflakes currency via the Campaign, Isotope-8 Campaign, Blitz, and from the Daily Objectives for Raid, Arena, and Real-Time Arena, and spend them in the Event Store. Items may differ each day or in between Store refreshes, so check back often.\n\n<color=#fff568>Season's Sorcery Milestone</color>\nEarn points toward the Season's Sorcery Milestone Event by spending Snowflakes currency in the Event Store. Rewards include Blue, Purple, Orange, and Teal Gear, Magik shards, Silver Promotion Credits, Gold Promotion Credits, 3 Ornaments, and more!\n\n<color=#fff568>Collect All 5 Ornaments</color>\nThere are 5 special Ornaments to collect in the Season's Sorcery Event. Each Ornament is an orb with a special gift inside:\n\n<color=#fff568>Purple Ornament</color>: Guarantees 50 Magik shards - found in the Season's Sorcery Milestone.\n<color=#fff568>Blue Ornament</color>: Guarantees tons of T1 and T2 Ions - found in the Season's Sorcery Milestone.\n<color=#fff568>Green Ornament</color>: Guarantees 5,000 Elite 6 Credits (enough to open an Elite 6 Star Orb) - found in the Season's Sorcery Milestone.\n<color=#fff568>Pink Ornament</color>: Guarantees Purple, Orange, and Teal Unique Gear Pieces from a select pool - found on the 14th day of the Season's Sorcery login calendar.\n<color=#fff568>White Ornament</color>: Guarantees 3 million Gold - available in a special low price offer at two distinct times during the event.\n\n<color=#fff568>Costume</color>\nOpen 5 Ornaments to add Spider-Man's ""No Way Home"" Costume to your roster using <color=#fff568>Gold Phase Bits</color>, which will be available in a limited-time Achievement. Unused Bits will be converted to <color=#fff568>Costume Credits</color> on <color=#fff568>January 8, 4:00PM (PST)</color> at a conversion rate of <color=#fff568>60%</color>."
+ID_INFO_NA_AVENGERSTOWER,Avengers Tower
+ID_INFO_DE_AVENGERSTOWER,Battle for rewards
+ID_INFO_BO_AVENGERSTOWER,"Avengers Tower has been seized by interdimensional invaders, and we need your help to reclaim it.\n\n<color=#fff568>Climb the Tower</color>\n- Win battles to climb the Tower. Earn more points the higher you climb.\n- Earn points to hit milestones and earn rank rewards.\n- Completing Floor 60 will earn all of the milestones.\n\n<color=#fff568>Floors & Battles</color>\n- Tap the button to the left of the ""Floor #"" to preview the opponents.\n- Before Floor 60, you'll remain on the same floor if you lose a battle.\n- After Floor 60, you'll earn more points but go back to Floor 61 if you lose a battle.\n- The opponents you face on each floor are the same as the opponents other players face.\n\n<color=#fff568>Characters</color>\n- Each character can be used <color=#fff568>once per day</color> and will go into cooldown until midnight UTC.\n- Characters on cooldown can't be refreshed.\n\n<color=#fff568>Rewards</color>\n- Teal, Orange, Purple, and Blue gear\n- Ability Materials\n- Gold\n- And more!"
+ID_INFO_NA_FRESHHORIZONS,Fresh Horizons
+ID_INFO_DE_FRESHHORIZONS,Recruit Scarlet Spider!
+ID_INFO_BO_FRESHHORIZONS,"Web-together Scarlet Spider character shards and more when you improve your roster during this limited-time event:\n\n<color=#fff568>New Heights Milestone</color>\nEarn points toward a 14 day milestone by leveling up any character using Training Modules. Points will be rewarded for every Training Module used and will depend on the type of Training Module. If your roster can't use any more Training Modules, you can also earn points by spending Campaign Energy (excluding Iso-8 Campaign Energy). Milestone rewards include: Scarlet Spider shards, Training Modules, Gold, and gear.\n\n<color=#fff568>Pocket Dimension</color>\nA limited-time Pocket Dimension will open during this event! Complete a series of 10 missions using characters with the limited-time <color=#fff568>Resolute</color> trait to earn Scarlet Spider shards, fully crafted gear, Gold, and more.\n\n<color=#fff568>Resolute Orb</color>\nIf your Resolute characters need help rising to the challenge of the Pocket Dimension, head on over to the Orb section of the Main/Gold store and open up a few Resolute Orbs. Each Orb contains up to 12 of select Resolute character shards.\n\n"
+ID_INFO_NA_ECHO2021,Mirror Image
+ID_INFO_DE_ECHO2021,Recruit Echo and earn rewards!
+ID_INFO_BO_ECHO2021,"Rack up points toward a 15-day milestone by spending Imprints, Campaign Energy, and Iso-8 Campaign Energy. Milestone rewards include Echo character shards, Elite 4 Credits, T4 Ability Materials, and Teal, Orange, and Purple Gear and much more!"
+ID_INFO_NA_IMPRINTS2021,Fighting Spirit
+ID_INFO_DE_IMPRINTS2021,Earn Imprints
+ID_INFO_BO_IMPRINTS2021,"Earn limited-time Imprint currency via the Fighting Spirit Milestone and from the Daily Objectives for Raid, Arena, and Real-Time Arena. Spend your Imprints in the Event Store."
+ID_INFO_NA_LAUNCHPARTY2022,Celebrate the Web
+ID_INFO_DE_LAUNCHPARTY2022,Earn Launch Party Orb Fragments!
+ID_INFO_BO_LAUNCHPARTY2022,"Rack up points toward a 14-day daily milestone by battling in Blitz, Arena and Raid. Milestone rewards include Launch Party Orbs, Gold and more!"
+ID_INFO_NA_LAUNCHPARTY2022_WEBUPC,Bang for your Buck
+ID_INFO_DE_LAUNCHPARTY2022_WEBUPC,Earn Rewards through Web UPC's!
+ID_INFO_BO_LAUNCHPARTY2022_WEBUPC,Rack up points through this milestone by earning Web UPCs! Check out the Marvel Strike Force Blog for more info!
+ID_INFO_NA_FESTIVALOFFORTUNE,Festival of Fortune
+ID_INFO_DE_FESTIVALOFFORTUNE,Open Festival of Fortune Orbs
+ID_INFO_BO_FESTIVALOFFORTUNE,Open limited-time Festival of Fortune Orbs! Gain Festival of Fortune Orbs via donating towards limited-time Donations Milestones.
+ID_INFO_NA_STARKARMORYSTOCKPILE,Stark Armory Stockpile
+ID_INFO_DE_STARKARMORYSTOCKPILE,Open Stark Stockpile Orbs
+ID_INFO_BO_STARKARMORYSTOCKPILE,Open limited-time Stark Stockpile Orbs! Gain Stark Stockpile Orbs via donating towards limited-time Donations Milestones.
+ID_INFO_NA_BLACKHISTORY,Two for the Trailblazers
+ID_INFO_DE_BLACKHISTORY,2x shards for select characters
+ID_INFO_BO_BLACKHISTORY,Celebrate Black History Month with 2x shards for select characters!
+ID_INFO_NA_GIFT_WEBUPC,Daily Web Reward
+ID_INFO_DE_GIFT_WEBUPC,Earn daily rewards!
+ID_INFO_BO_GIFT_WEBUPC,"Simply do 1 Blitz Battle to earn Premium Orb(s), Campaign Energy and Rating Tokens!"
+ID_INFO_NA_WOMENSDAY_2022,Celebrate the Extraordinary
+ID_INFO_DE_WOMENSDAY_2022,2x shards for select characters
+ID_INFO_BO_WOMENSDAY_2022,Celebrate International Womens' Day with 2x shards for select characters!
+ID_INFO_NA_INFESTATION,Infestation Incoming
+ID_INFO_DE_INFESTATION,Fortify your roster and prepare for the next great threat!
+ID_INFO_BO_INFESTATION,"A new challenge is on the horizon and it's time to power-up your roster with two limited-time milestones that reward character shards, gear, and resources. Here's how it works:\n\n<color=#fff568>Infestation Incoming Milestone</color>\nBattle in Arena, win in Blitz, and spend Campaign and Iso-8 Energy to earn progress toward a milestone that rewards:\n\n- Select Dark Hunter & Spider-Punk character shards\n- Training Orb Fragments\n- Ability Materials\n- Gear Orb Fragments\n\n<color=#fff568>Alliance Infestation Milestone</color>\n\nCoordinate with your Alliance and battle in Raids to earn points toward a two-day milestone that rewards Gold, Teal Basic Catalyst Parts, and other gear.\n\n<color=#fff568>Bonus Events Coming During the Event</color>\nXP Throttle - 2x XP rewards from Campaign nodes\nRaid Frenzy - 20% Cost reduction for Raid Energy, Heals, and Revives in Raids\nGeology Bounty - 2x Iso-8 Crystals from Campaign nodes\nGear Explosion - 3x Origin Gear from Campaign nodes\nEnergy Overload - When refreshing your Campaign Energy, earn 2x the amount"
+ID_INFO_BO_DDIV_2X_POLARIS,"Celebrate Tadano Mac JAPAN's Dark Dimension V victory!\n\nTadano Mac JAPAN has chosen two characters for Bonus Events. The second character is Polaris.\n\nFor the next 24 hours, earn double Polaris shards in Cosmic 1-6."
+ID_INFO_BO_DDIV_2X_SAMWILSON,"Celebrate Tadano Mac JAPAN's Dark Dimension V victory!\n\nTadano Mac JAPAN has chosen two characters for Bonus Events. The first character is Captain America (Sam).\n\nFor the next 24 hours, earn double Captain America (Sam) shards in Doom 2-6."
+ID_INFO_NA_MORBIUS2022,Living Vampire
+ID_INFO_DE_MORBIUS2022,Recruit Morbius and earn rewards!
+ID_INFO_BO_MORBIUS2022,"Rack up points toward an 8-day milestone by opening Mystic Assassin Orbs. Milestone rewards include Morbius character shards, Elite 5 Credits, T4 Ability Materials, and Teal, Orange, and Purple Gear and much more!"
+ID_INFO_NA_FANGSOUT2022,Fangs Out
+ID_INFO_DE_FANGSOUT2022,Earn Mystic Assassin Orbs
+ID_INFO_BO_FANGSOUT2022,Earn Mystic Assassin Orbs via the 4-day Fangs Out Milestone by spending Campaign Energy and doing Raid Battles.
+ID_INFO_NA_FLESHANDBLOOD2022,Flesh and Blood
+ID_INFO_DE_FLESHANDBLOOD2022,Earn Mystic Assassin Orbs
+ID_INFO_BO_FLESHANDBLOOD2022,"Earn Mystic Assassin Orbs via the 4-day Flesh and Blood Milestone via Blitz, War, and Power Core Spend."
+ID_INFO_NA_WITCHSCOVEN,Witch's Coven
+ID_INFO_DE_WITCHSCOVEN,Recruit Agatha Harkness and earn rewards!
+ID_INFO_BO_WITCHSCOVEN,"Rack up points toward a 10-day milestone by opening Occult Hex Orbs. Milestone rewards include Agatha Harkness character shards, Elite 5 Credits, T4 Ability Materials, and Teal, Orange, and Purple Gear and much more!"
+ID_INFO_NA_ARCANEWITCHERY,Arcane Witchery
+ID_INFO_DE_ARCANEWITCHERY,Earn Occult Hex Orbs
+ID_INFO_BO_ARCANEWITCHERY,Earn Occult Hex Orbs via the 10-day Arcane Witchery Milestone by spending Power Cores.
+ID_INFO_NA_BEWITCHINGSORCERY,Bewitching Sorcery
+ID_INFO_DE_BEWITCHINGSORCERY,Earn Occult Hex Orbs
+ID_INFO_BO_BEWITCHINGSORCERY,Earn Occult Hex Orbs via the Bewitching Sorcery Milestone by spending Campaign Energy and ISO Campaign Energy.
+ID_INFO_NA_GOBLINQUEEN,The Goblin Queen
+ID_INFO_DE_GOBLINQUEEN,Recruit Madelyne Pryor and earn rewards!
+ID_INFO_BO_GOBLINQUEEN,"Earn points toward the 8-day Goblin Queen Milestone by completing select <color=#fff568>Daily Objectives</color>, as well as battling in <color=#fff568>Blitz</color> and <color=#fff568>Alliance War</color>. Earn additional points by battling with Madelyne Pryor and Marauder characters in Blitz as well as using Darkhold and A-Force characters in Alliance War. More points can be earned by having these characters at Gear Tier 13 and above.\n\nMilestone rewards include <color=#fff568>Madelyne Pryor</color> shards, Mister Sinister shards, Mystic gear and Catalyst Parts, Red Star Orb Fragments, Ability Orb Fragments, and Iso-8 Orb Fragments. You can also earn A-Force Emblems and Captain Marvel's Helmet, which will add progress to the <color=#fff568>A-Force of Nature</color> Milestone."
+ID_INFO_NA_VICTORYBLUEPRINT,Victory Blueprint
+ID_INFO_DE_VICTORYBLUEPRINT,Earn T2 L4 Ions & Jessica Jones' Jacket
+ID_INFO_BO_VICTORYBLUEPRINT,"Harness the power of Blue with this limited-time event:\n\n<color=#fff568>Milestone</color>\nEarn points toward this 7-day Milestone by spending Campaign Energy (excluding Iso-8 Campaign Energy), earning War Credits, and by spending War Energy Refills.\n\n<color=#fff568>Rewards</color>\nMilestone rewards include the new T2 Level 4 Ions, A-Force Emblems, Jessica Jones' Jacket, Cosmic Crucible Credits, Legacy III Orb Fragments, and T1 Ions.\n\n<color=#fff568>Maximize Your Rewards</color>\nEarn 90% of the T2 Level 4 Ions needed to take one character to Class Level 4 with moderate engagement with the event. Highly engaged players can earn up to 150% of the T2 Level 4 Ions needed to take one character to class level 4."
+ID_INFO_NA_THECHOSENONE,The Chosen One
+ID_INFO_DE_THECHOSENONE,Earn Wong Character Shards and his Sorcerer Supreme costume
+ID_INFO_BO_THECHOSENONE,"Rack up points toward a 7-day milestone by opening Supreme Phantasm Orbs. Milestone rewards include Wong's Sorcerer Supreme Costume, Wong Character Shards, Elite 4 Credits, T4 Ability Materials, and Teal, Orange, and Purple Gear and much more!"
+ID_INFO_NA_ANCIENTARTS,Ancient Arts
+ID_INFO_DE_ANCIENTARTS,Earn Supreme Phantasm Orbs
+ID_INFO_BO_ANCIENTARTS,Earn Supreme Phantasm Orbs via the 7-day Ancient Arts Milestone by participating in Blitz and Arena.
+ID_INFO_NA_MYSTICPORTAL,Mystic Portal
+ID_INFO_DE_MYSTICPORTAL,Earn Supreme Phantasm Orbs
+ID_INFO_BO_MYSTICPORTAL,Earn Supreme Phantasm Orbs via the 7-day Mystic Portal Milestone by participating in Raid.
+ID_INFO_NA_SISTERGRIMM,Sister Grimm
+ID_INFO_DE_SISTERGRIMM,Recruit Nico Minoru and earn rewards!
+ID_INFO_BO_SISTERGRIMM,"Earn points toward this 7-day milestone by battling in Alliance War and winning Raid battles. Additional points can be acquired by using A-Force in War and X-Men in Raids. Additional points will be given for characters with the relevant traits at Gear Tier 13 and above.\n\nRewards include Nico Minoru character shards and Unique gear pieces, A-Force Bio Origin gear, Catalyst Parts, Elite 5 Red Credits, and a 5-Red Star Captain Marvel.\n\n<color=#fff568>Enchanted Bloodlines Milestone</color> and <color=#fff568>Runaway Spell Milestone</color> will provide Sister Grimm milestone points in their rewards so be sure to capitalize on those points.\n\nKeep an eye out for the Sister Grimm login calendar for daily points to finish off the event!"
+ID_INFO_NA_JUNEMONTH2022,Rollin' Rebel
+ID_INFO_DE_JUNEMONTH2022,Recruit Dazzler and earn rewards throughout the month!
+ID_INFO_BO_JUNEMONTH2022,"Earn points toward this month-long milestone by collecting Disco Balls, Glamour Skates, Gemstone Earrings, and Glimmer Bracelets from June events. Disco Balls will also be available in 1-Power Core offers throughout the month.\n\nThere will be 9 separate Milestone Events that provide progress towards the <color=#fff568>Rollin' Rebel Milestone</color>. Earning 29,500 milestone points will reward enough shards to unlock a  <color=#fff568>3- Star Dazzler</color> while completing all of the Rollin' Rebel Milestones provides enough shards for a <color=#fff568>4- Star Dazzler</color> and her fully crafted Gear Tier 16 Pieces.\n\nEarn at least 20,000 points to qualify for the blind Leaderboard which rewards Teal Raid Orb Fragments and Gold Promotion Credits for the top 50 on the leaderboard, while Orange Raid Orbs and Silver Promotion Credits are rewards for the rest of the competitors."
+ID_INFO_NA_PRIDEINFERNO,Pride Inferno
+ID_INFO_DE_PRIDEINFERNO,"Earn Nico's ""Runaways"" Costume"
+ID_INFO_BO_PRIDEINFERNO,"Dance your way to Nico Minoru's costume and Rollin' Rebel progress\n\n<color=#fe6dff>Pride Inferno Milestone</color>\nBoogie your way to milestones by earning points through spending Campaign Energy (excluding Iso-8 Campaign Energy) and earning Pride Orb Fragments. Milestone rewards include 6 Million Gold, Disco Balls, Glamour Skates, Stat Catalyst Parts, and Gold Promotion Credits.\n\n<color=#fe6dff>Pride Orb</color>\nUnite your roster by earning Pride Orb Fragments from select Campaign nodes and the ""All Clear"" Daily Objective, then open your Pride Orbs to earn: Nico Minoru shards, Training Modules, and Origin Gear.\n\n<color=#fe6dff>Nico Minoru's Costume</color>\nPride Inferno is your opportunity to earn Nico Minoru's ""Runaways"" Costume using Pink Phase Bits. All unused Bits will be converted to Costume Credits on June 22nd 5:00 PM (PDT) at a conversation rate of 60%."
+ID_INFO_NA_ACE_OF_RAIDS,Ace of Raids
+ID_INFO_DE_ACE_OF_RAIDS,Earn Gambit Shards
+ID_INFO_BO_ACE_OF_RAIDS,"Hit a rewards jackpot with <color=#fff568>Gambit character shards</color>, progress towards <color=#fff568>Rollin' Rebel</color> with <color=#fff568>Disco Balls</color>, and more with the first run of this limited-time event:\n\n<color=#fff568>Ace of Raids Milestone</color>\nBattle in Gambit Raids to hit milestones that reward Gambit character shards, Disco Balls, Mutant gear, T4 Ability Materials, Gold Orbs, and more! You'll earn more Disco Balls by battling further into the Raid lanes and with the higher Raid Difficulties."
+ID_INFO_NA_ALLIN,All In
+ID_INFO_DE_ALLIN,Earn Gambit Shards and more!
+ID_INFO_BO_ALLIN,Earn Gambit Shards via the 7-day All In Milestone by spending Gold.
+ID_INFO_NA_DOUBLEDOWN,Double Down
+ID_INFO_DE_DOUBLEDOWN,Earn Kinetic Raid supplies
+ID_INFO_BO_DOUBLEDOWN,Earn Kinetic Raid supplies via the Double Down Milestone by playing War Battles with X-Men.
+ID_INFO_NA_ACE_OF_RAIDS2,Ace of Raids
+ID_INFO_DE_ACE_OF_RAIDS2,Earn Gambit Shards
+ID_INFO_BO_ACE_OF_RAIDS2,"Hit a rewards jackpot with <color=#fff568>Gambit character shards</color>, progress towards <color=#fff568>Rollin' Rebel</color> with <color=#fff568>Disco Balls</color>, and more with the second and final run of this limited-time event:\n\n<color=#fff568>Ace of Raids Milestone</color>\nBattle in Gambit Raids to hit milestones that reward Gambit character shards, Disco Balls, Mutant gear, T4 Ability Materials, Gold Orbs, Dazzler's Glimmer Bracelet for 10,000 points towards Rollin' Rebel, and more! You'll earn more Disco Balls by battling further into the Raid lanes and with the higher Raid Difficulties."
+ID_INFO_NA_JULYMETA2022,Summer of Thunder
+ID_INFO_DE_JULYMETA2022,Recruit Mighty Thor throughout July!
+ID_INFO_BO_JULYMETA2022,"Earn points toward this month-long milestone by collecting Mjolnir Fragments, Cloak of Valor, Helm of Victory, and Gauntlet of Heroes from July events. Mjolnir Fragments will also be available in 1-Power Core offers throughout the month.\n\nThere will be 11 separate Milestone Events that provide progress towards the <color=#fff568>Summer of Thunder Milestone</color>. Earning 29,500 milestone points will reward enough shards to unlock a  <color=#fff568>3- Star Mighty Thor</color> while completing all of the Summer of Thunder Milestones provides enough shards for a <color=#fff568>4- Star Mighty Thor</color> and her fully crafted Gear Tier 16 Pieces.\n\nEarn at least 20,000 points to qualify for the blind Leaderboard which rewards Teal Raid Orb Fragments and Gold Promotion Credits for the top 50 on the leaderboard, while Orange Raid Orbs and Silver Promotion Credits are rewards for the rest of the competitors."
+ID_INFO_DE_JULYBLUEPRINT,Earn T2 L4 Ions & Helm of Victory
+ID_INFO_BO_JULYBLUEPRINT,"Harness the power of Blue with this limited-time event:\n\n<color=#fff568>Milestone</color>\nEarn points toward this 7-day Milestone by spending Campaign Energy (excluding Iso-8 Campaign Energy), earning War Credits, and by spending War Energy Refills.\n\n<color=#fff568>Rewards</color>\nMilestone rewards include the new T2 Level 4 Ions, Mjolnir Fragments, Helm of Victory, Gold, Legacy III Orb Fragments, and T1 Ions.\n\n<color=#fff568>Maximize Your Rewards</color>\nEarn 80% of the T2 Level 4 Ions needed to take one character to Class Level 4 with moderate engagement with the event. Highly engaged players can earn up to 120% of the T2 Level 4 Ions needed to take one character to class level 4."
+ID_INFO_NA_SOLARSIZZLER,Solar Sizzler
+ID_INFO_DE_SOLARSIZZLER,Recruit Sunfire
+ID_INFO_BO_SOLARSIZZLER,"Recruit Sunfire and heat up your roster with blistering rewards:\n\n<color=#fff568>Solar Sizzler Milestone</color>\nHere's how to soak up points towards this 8-day milestone:\n- Battle in War\n- Extra War points: Use Darkhold characters and Darkhold with Gear Tier 13+\n- Battle in Raids\n- Within the <color=#fff568>Heat Storm</color> and <color=#fff568>Blazing Sun</color> Milestone rewards\n- Spend Power Cores\n\nRewards include Sunfire shards, Mjolnir Fragments, gear, a 5-Red Star Black Panther, Fantomex shards, and Armory Orbs. Burn through at least Milestone 27 (of 40 total) to earn enough character shards to recruit Sunfire.\n\n<color=#fff568>Heat Storm Milestone</color>\nCommanders <color=#fff568>Level 60 and above</color>, earn points toward this 4-day milestone by winning Cosmic Crucible battles and battling in Cosmic Crucible using Unlimited X-Men and Unlimited X-Men at Gear Tier 13+. Rewards include Solar Sizzler Milestone points, Cosmic Crucible Credits, Elite 4 Credits, and Teal Raid Orb Fragments.\n\n<color=#fff568>Blazing Sun Milestone</color>\nFollowing the Heat Storm Milestone - rack up points by winning Blitz battles with any character. Earn extra points by using Wakandans and Wakandans with Gear Tier 13+. Hit milestones that reward Solar Sizzler Milestone points, Wakandan shards, Elite 4 Credits, and fragments for the Gold Orb and Purple Mystic Gear Orb."
+ID_INFO_DE_VICTORYBLUEPRINT_JULY,Earn T2 L4 Ions & Helm of Victory
+ID_INFO_BO_VICTORYBLUEPRINT_JULY,"Harness the power of Blue with this limited-time event:\n\n<color=#fff568>Milestone</color>\nEarn points toward this 7-day Milestone by spending Campaign Energy (excluding Iso-8 Campaign Energy), earning War Credits, and by spending War Energy Refills.\n\n<color=#fff568>Rewards</color>\nMilestone rewards include the new T2 Level 4 Ions, Helms of Victory, Cosmic Crucible Credits, Legacy III Orb Fragments, and T1 Ions.\n\n<color=#fff568>Maximize Your Rewards</color>\nEarn 90% of the T2 Level 4 Ions needed to take one character to Class Level 4 with moderate engagement with the event. Highly engaged players can earn up to 150% of the T2 Level 4 Ions needed to take one character to class level 4."
+ID_INFO_NA_SPACEVIKING,Space Viking
+ID_INFO_DE_SPACEVIKING,Earn Thor's New Costume
+ID_INFO_BO_SPACEVIKING,"Feel the Thunder and unlock Thor's Love and Thunder Costume over the next 7 days\nEarn points towards this 7-day Milestone by earning Lines of Lightning Orb fragments\nRewards include Thor's new Love and Thunder Costume, Thor shards, Armory 15 Orbs, as well as Thor's Mini-Uniques."
+ID_INFO_BO_LONGSHIP,Battle in Arena and win in Blitz to earn progress toward this 7-day milestone that rewards: \n- Lines of Lightning Orb Fragments\n- Yellow Flash Bits (to purchase Thor's Costume)\n- Training Modules\n- Teal and Orange Raid Orb Fragments\n- Armory Orb Fragments\n- Silver Promotion Credits.
+ID_INFO_NA_PARTYINPARADISE,Party in Paradise
+ID_INFO_DE_PARTYINPARADISE,Asgardian rewards & the Gauntlet of Heroes!
+ID_INFO_BO_PARTYINPARADISE,"Pillage <color=#fff568>Asgardian rewards</color> and <color=#fff568>Summer of Thunder</color> progress with these milestones:\n\n<color=#fff568>Party in Paradise</color>\nScore points toward this 7-day milestone by opening Party Animal Orbs from the Hammer of the Gods Event Campaign and the <color=#fff568>Midgard Mash</color> milestones, and by spending Power Cores. Rewards include:\n\n- Valkyrie Gear\n- Asgardian Shards\n- Gauntlet of Heroes\n- Mjolnir Fragments\n- 5 Red Star Thor\n- And more!\n\n<color=#fff568>Midgard Mash</color>\nBlitz to rack up points toward this 2-day milestone that repeats twice. You'll earn more points with the limited-time Party Animal trait characters equipped with Gear Tier 13+. Rewards include Party Animal Orbs and more!\n\n<color=#fff568>Cosmic Celebration Web Milestone</color>\nSpend Campaign Energy (not including Iso-8 Campaign Energy) to hit a daily milestone that rewards Legacy III Orb Fragments, Silver Promotion Credits, and Gold Orb Fragments."
