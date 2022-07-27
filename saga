@@ -1,0 +1,43 @@
+id,translation
+ID_GAMEMODE_SAGAS,APOCALYPSE SAGA
+ID_GAMEMODE_LEGENDARY_EVENTS,EPIC CAMPAIGNS
+ID_SAGAS_SELECT_APOC_IS_COMING,APOCALYPSE IS COMING...
+ID_APOC_SAGA_TITLE,Apocalypse Saga
+ID_APOC_SAGA_DESC,The Path To Apocalypse
+ID_NESTED_EVENT_APOC_SAGA,APOCALYPSE SAGA
+ID_NESTED_EVENT_EPIC_NESTED,EPIC CAMPAIGNS
+ID_INSANITY_TITLE,DARK DIMENSION
+ID_INSANITY_DESC,Live In Darkness
+ID_LEGENDARY_EVENTS_ENTER,Enter
+ID_ECM_PESTILENCE_NAME,PESTILENCE
+ID_ECM_PESTILENCE_DESC,"Use Darkhold characters to power up Morgan Le Fay! Earn her new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
+ID_ECM_PESTILENCE_FLAVOR,Enhance Morgan Le Fay
+ID_ECM_PESTILENCE_REWARD_I,Not used - do not localize
+ID_ECM_PESTILENCE_REWARD_II,Earn Morgan's New Awakened Ability Materials!
+ID_ECM_PESTILENCE_REWARD_III,Earn Morgan's Costume + T2 L5 Iso-8 + Ions!
+ID_ECM_FAMINE_NAME,FAMINE
+ID_ECM_FAMINE_DESC,"Use Unlimited X-Men characters to power up Rogue! Earn her new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
+ID_ECM_FAMINE_FLAVOR,Enhance Famine Horsemen
+ID_ECM_WAR_NAME,WAR
+ID_ECM_WAR_DESC,"Use this Horseman's team to power them up! Earn their new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
+ID_ECM_WAR_FLAVOR,Enhance War Horsemen
+ID_ECM_DEATH_NAME,DEATH
+ID_ECM_DEATH_DESC,"Use this Horseman's team to power them up! Earn their new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
+ID_ECM_DEATH_FLAVOR,Enhance Death Horsemen
+ID_ECM_SAGA_DIFFICULTY_I,HARD
+ID_ECM_SAGA_DIFFICULTY_II,HEROIC
+ID_ECM_SAGA_DIFFICULTY_III,APOCALYPTIC
+ID_ECM_SAGA_UNLOCK_DIFFICULTY_I,Not used - do not localize
+ID_ECM_SAGA_UNLOCK_DIFFICULTY_II,Clear all missions w/ 3 stars on HARD to Unlock
+ID_ECM_SAGA_UNLOCK_DIFFICULTY_III,Clear all missions w/ 3 stars on HEROIC to Unlock
+ID_ECM_SAGA_COMING_SOON,COMING SOON...
+ID_ECM_CHANCE_MORGAN,Enhance Morgan Le Fay
+ID_ECM_CHANCE_MORGAN_I,Gear up Morgan Le Fay
+ID_ECM_CHANCE_MORGAN_II,Awaken Her Power
+ID_ECM_CHANCE_MORGAN_III,Suit Up for For Battle
+ID_REQUIRES_EC_DARKHOLD_5_GT13,5 <color=#fff568>DARKHOLD</color> Characters at GEAR 13 REQUIRED
+ID_REQUIRES_EC_DARKHOLD_5_GT15,5 <color=#fff568>DARKHOLD</color> Characters at GEAR 15 REQUIRED
+ID_REQUIRES_EC_DARKHOLD_5_GT17,5 <color=#fff568>DARKHOLD</color> Characters at GEAR 17 REQUIRED
+ID_ECM_MORGAN_DESC_C,Use Darkhold characters at Gear Tier 13+ to earn gear to power up Morgan Le Fay and her team!
+ID_ECM_MORGAN_DESC_B,Use Darkhold characters at Gear Tier 15+ to earn Morgan Le Fay's new Awakened Ability Materials to unlock her true power!
+ID_ECM_MORGAN_DESC_A,Use Darkhold characters at Gear Tier 17+ to earn Morgan Le Fay's Horseman costume and T2 L5 Iso-8 and Ions!

@@ -148,6 +148,10 @@ ID_CHAL_ISO_BIO_T1_LV04_NAME,Difficulty 2
 ID_CHAL_ISO_BIO_T1_LV04_DESC,"Required: 5 Bio characters\nLevel 4 Iso-8\nRecommended: Level 65+, 6+ Stars, 3+ Red Stars, Gear Tier 12+, Level 6+ Abilities, 15%+ Stark Tech bonuses"
 ID_CHAL_ISO_BIO_T1_LV05_NAME,Difficulty 3
 ID_CHAL_ISO_BIO_T1_LV05_DESC,"Required: 5 Bio characters\nLevel 5 Iso-8\nRecommended: Level 75+, 7+ Stars, 4+ Red Stars, Gear Tier 14+, Level 7+ Abilities, 20%+ Stark Tech bonuses"
+ID_CHAL_ISO_BIO_T1_LV07_NAME,Difficulty 4
+ID_CHAL_ISO_BIO_T1_LV07_DESC,"Required: 5 Bio characters\nTier 2, Level 2 Iso-8\nRecommended: Level 85+, 7+ Stars, 4+ Red Stars, Gear Tier 15+, Level 7+ Abilities, 25%+ Stark Tech bonuses"
+ID_CHAL_ISO_BIO_T1_LV08_NAME,Difficulty 5
+ID_CHAL_ISO_BIO_T1_LV08_DESC,"Required: 5 Bio characters\nTier 2, Level 3 Iso-8\nRecommended: Level 90+, 7+ Stars, 5+ Red Stars, Gear Tier 16+, Level 7+ Abilities, 25%+ Stark Tech bonuses"
 ID_CHAL_ISO_MUTANT_NAME,Original Mutagens
 ID_CHAL_ISO_MUTANT_DESC,Challenge Iso-8 Mutant characters.\n\nEarn Mutant origin Gear Materials essential to improving your characters.\n\nOnly MUTANT characters with Level 3 Iso-8 and above.
 ID_CHAL_ISO_MUTANT_T1_LV03_NAME,Difficulty 1
@@ -156,6 +160,10 @@ ID_CHAL_ISO_MUTANT_T1_LV04_NAME,Difficulty 2
 ID_CHAL_ISO_MUTANT_T1_LV04_DESC,"Required: 5 Mutant characters\nLevel 4 Iso-8\nRecommended: Level 65+, 6+ Stars, 3+ Red Stars, Gear Tier 12+, Level 6+ Abilities, 15%+ Stark Tech bonuses"
 ID_CHAL_ISO_MUTANT_T1_LV05_NAME,Difficulty 3
 ID_CHAL_ISO_MUTANT_T1_LV05_DESC,"Required: 5 Mutant characters\nLevel 5 Iso-8\nRecommended: Level 75+, 7+ Stars, 4+ Red Stars, Gear Tier 14+, Level 7+ Abilities, 20%+ Stark Tech bonuses"
+ID_CHAL_ISO_MUTANT_T1_LV07_NAME,Difficulty 4
+ID_CHAL_ISO_MUTANT_T1_LV07_DESC,"Required: 5 Mutant characters\nTier 2 Level 2 Iso-8\nRecommended: Level 85+, 7+ Stars, 4+ Red Stars, Gear Tier 15+, Level 7+ Abilities, 25%+ Stark Tech bonuses"
+ID_CHAL_ISO_MUTANT_T1_LV08_NAME,Difficulty 5
+ID_CHAL_ISO_MUTANT_T1_LV08_DESC,"Required: 5 Mutant characters\nTier 2 Level 3 Iso-8\nRecommended: Level 90+, 7+ Stars, 5+ Red Stars, Gear Tier 16+, Level 7+ Abilities, 25%+ Stark Tech bonuses"
 ID_CHAL_ISO_MYSTIC_NAME,Original Alchemy
 ID_CHAL_ISO_MYSTIC_DESC,Challenge Iso-8 Mystic characters.\n\nEarn Mystic origin Gear Materials essential to improving your characters.\n\nOnly MYSTIC characters with Level 3 Iso-8 and above.
 ID_CHAL_ISO_MYSTIC_T1_LV03_NAME,Difficulty 1
@@ -164,6 +172,10 @@ ID_CHAL_ISO_MYSTIC_T1_LV04_NAME,Difficulty 2
 ID_CHAL_ISO_MYSTIC_T1_LV04_DESC,"Required: 5 Mystic characters\nLevel 4 Iso-8\nRecommended: Level 65+, 6+ Stars, 3+ Red Stars, Gear Tier 12+, Level 6+ Abilities, 15%+ Stark Tech bonuses"
 ID_CHAL_ISO_MYSTIC_T1_LV05_NAME,Difficulty 3
 ID_CHAL_ISO_MYSTIC_T1_LV05_DESC,"Required: 5 Mystic characters\nLevel 5 Iso-8\nRecommended: Level 75+, 7+ Stars, 4+ Red Stars, Gear Tier 14+, Level 7+ Abilities, 20%+ Stark Tech bonuses"
+ID_CHAL_ISO_MYSTIC_T1_LV07_NAME,Difficulty 4
+ID_CHAL_ISO_MYSTIC_T1_LV07_DESC,"Required: 5 Mystic characters\nTier 2, Level 2 Iso-8\nRecommended: Level 85+, 7+ Stars, 4+ Red Stars, Gear Tier 15+, Level 7+ Abilities, 25%+ Stark Tech bonuses"
+ID_CHAL_ISO_MYSTIC_T1_LV08_NAME,Difficulty 5
+ID_CHAL_ISO_MYSTIC_T1_LV08_DESC,"Required: 5 Mystic characters\nTier 2 Level 3 Iso-8\nRecommended: Level 90+, 7+ Stars, 5+ Red Stars, Gear Tier 16+, Level 7+ Abilities, 25%+ Stark Tech bonuses"
 ID_CHAL_ISO_SKILL_NAME,Original Expertise
 ID_CHAL_ISO_SKILL_DESC,Challenge Iso-8 Skill characters.\n\nEarn Skill origin Gear Materials essential to improving your characters.\n\nOnly SKILL characters with Level 3 Iso-8 and above.
 ID_CHAL_ISO_SKILL_T1_LV03_NAME,Difficulty 1
@@ -172,6 +184,10 @@ ID_CHAL_ISO_SKILL_T1_LV04_NAME,Difficulty 2
 ID_CHAL_ISO_SKILL_T1_LV04_DESC,"Required: 5 Skill characters\nLevel 4 Iso-8\nRecommended: Level 65+, 6+ Stars, 3+ Red Stars, Gear Tier 12+, Level 6+ Abilities, 15%+ Stark Tech bonuses"
 ID_CHAL_ISO_SKILL_T1_LV05_NAME,Difficulty 3
 ID_CHAL_ISO_SKILL_T1_LV05_DESC,"Required: 5 Skill characters\nLevel 5 Iso-8\nRecommended: Level 75+, 7+ Stars, 4+ Red Stars, Gear Tier 14+, Level 7+ Abilities, 20%+ Stark Tech bonuses"
+ID_CHAL_ISO_SKILL_T1_LV07_NAME,Difficulty 4
+ID_CHAL_ISO_SKILL_T1_LV07_DESC,"Required: 5 Skill characters\nTier 2, Level 2 Iso-8\nRecommended: Level 85+, 7+ Stars, 4+ Red Stars, Gear Tier 15+, Level 7+ Abilities, 25%+ Stark Tech bonuses"
+ID_CHAL_ISO_SKILL_T1_LV08_NAME,Difficulty 5
+ID_CHAL_ISO_SKILL_T1_LV08_DESC,"Required: 5 Skill characters\nTier 2 Level 3 Iso-8\nRecommended: Level 90+, 7+ Stars, 5+ Red Stars, Gear Tier 16+, Level 7+ Abilities, 25%+ Stark Tech bonuses"
 ID_CHAL_ISO_TECH_NAME,Original Industry
 ID_CHAL_ISO_TECH_DESC,Challenge Iso-8 Tech characters.\n\nEarn Tech origin Gear Materials essential to improving your characters.\n\nOnly TECH characters with Level 3 Iso-8 and above.
 ID_CHAL_ISO_TECH_T1_LV03_NAME,Difficulty 1
@@ -180,6 +196,10 @@ ID_CHAL_ISO_TECH_T1_LV04_NAME,Difficulty 2
 ID_CHAL_ISO_TECH_T1_LV04_DESC,"Required: 5 Tech characters\nLevel 4 Iso-8\nRecommended: Level 65+, 6+ Stars, 3+ Red Stars, Gear Tier 12+, Level 6+ Abilities, 15%+ Stark Tech bonuses"
 ID_CHAL_ISO_TECH_T1_LV05_NAME,Difficulty 3
 ID_CHAL_ISO_TECH_T1_LV05_DESC,"Required: 5 Tech characters\nLevel 5 Iso-8\nRecommended: Level 75+, 7+ Stars, 4+ Red Stars, Gear Tier 14+, Level 7+ Abilities, 20%+ Stark Tech bonuses"
+ID_CHAL_ISO_TECH_T1_LV07_NAME,Difficulty 4
+ID_CHAL_ISO_TECH_T1_LV07_DESC,"Required: 5 Tech characters\nTier 2, Level 2 Iso-8\nRecommended: Level 85+, 7+ Stars, 4+ Red Stars, Gear Tier 15+, Level 7+ Abilities, 25%+ Stark Tech bonuses"
+ID_CHAL_ISO_TECH_T1_LV08_NAME,Difficulty 5
+ID_CHAL_ISO_TECH_T1_LV08_DESC,"Required: 5 Tech characters\nTier 2 Level 3 Iso-8\nRecommended: Level 90+, 7+ Stars, 5+ Red Stars, Gear Tier 16+, Level 7+ Abilities, 25%+ Stark Tech bonuses"
 ID_CHAL_STAGE7_NAME,Tier 7
 ID_CHAL_STAGE8_NAME,Tier 8
 ID_CHAL_STAGE9_NAME,Tier 9
@@ -817,6 +837,15 @@ ID_ECM_VALKYRIE_DESC_C,"Recommendations:\n- Squad Lvl 35+\n- Gear Tier 6+\n- Abi
 ID_ECM_VALKYRIE_MB,"When Odinson goes missing, Valkyrie and Mjolnir's new wielder, the Mighty Thor, have to take to the spaceways to find the wayward god."
 ID_ECM_VALKYRIE_MC,GO!
 ID_ECM_VALKYRIE_MT,The Hammer of the Gods event has started!
+ID_ECM_VIVVISION_NAME,Life Cycle
+ID_ECM_VIVVISION_DESC,"When Viv Vision finds a clue that could lead her to a long-lost loved one, she breaks free from her father to follow it, leading her directly into new dangers."
+ID_ECM_CHANCE_VIVVISION,Earn VIV VISION shards
+ID_ECM_VIVVISION_DESC_A,"Recommendations:\n- Squad Lvl 85+\n- Gear Tier 15+\n- Ability Lvl 6+\n\nWhen Viv Vision finds a clue that could lead her to a long-lost loved one, she breaks free from her father to follow it, leading her directly into new dangers."
+ID_ECM_VIVVISION_DESC_B,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\n When Viv Vision finds a clue that could lead her to a long-lost loved one, she breaks free from her father to follow it, leading her directly into new dangers."
+ID_ECM_VIVVISION_DESC_C,"Recommendations:\n- Squad Lvl 35+\n- Gear Tier 6+\n- Ability Lvl 2+\n\n When Viv Vision finds a clue that could lead her to a long-lost loved one, she breaks free from her father to follow it, leading her directly into new dangers."
+ID_ECM_VIVVISION_MB,"When Viv Vision finds a clue that could lead her to a long-lost loved one, she breaks free from her father to follow it, leading her directly into new dangers."
+ID_ECM_VIVVISION_MC,GO!
+ID_ECM_VIVVISION_MT,The Life Cycle event has started!
 ID_ECM_VE_NAME,Symbiotic
 ID_ECM_VE_DESC,Help Venom prevent the corruption of the Symbiotes!
 ID_ECM_CHANCE_VE,Earn Venom Shards
@@ -1336,6 +1365,17 @@ ID_INFO_NA_SPACEVIKING,Space Viking
 ID_INFO_DE_SPACEVIKING,Earn Thor's New Costume
 ID_INFO_BO_SPACEVIKING,"Feel the Thunder and unlock Thor's Love and Thunder Costume over the next 7 days\nEarn points towards this 7-day Milestone by earning Lines of Lightning Orb fragments\nRewards include Thor's new Love and Thunder Costume, Thor shards, Armory 15 Orbs, as well as Thor's Mini-Uniques."
 ID_INFO_BO_LONGSHIP,Battle in Arena and win in Blitz to earn progress toward this 7-day milestone that rewards: \n- Lines of Lightning Orb Fragments\n- Yellow Flash Bits (to purchase Thor's Costume)\n- Training Modules\n- Teal and Orange Raid Orb Fragments\n- Armory Orb Fragments\n- Silver Promotion Credits.
+ID_INFO_NA_AUGUSTMETA2022,Techno Future
+ID_INFO_DE_AUGUSTMETA2022,Recruit Deathlok throughout August!
+ID_INFO_BO_AUGUSTMETA2022,"Earn points toward this month-long milestone by collecting Relay-Circuits, Helium-Neon Laser Pistol, Jet Boot, Adamantium Arm, and A.I. Response Matrix from August events. Relay-Circuits will also be available in 1-Power Core offers throughout the month.\n\nThere will be several separate Milestone Events that provide progress towards the <color=#fff568>Techno Future Milestone</color>. Earning 29,500 milestone points will reward enough shards to unlock a <color=#fff568>3- Star Deathlok</color> while completing all of the Techno Future Milestones provides enough shards for a <color=#fff568>4- Star Deathlok</color> and his fully crafted Gear Tier 16 Pieces.\n\nEarn at least 20,000 points to qualify for the blind Leaderboard which rewards Teal Raid Orb Fragments and Gold Promotion Credits for the top 50 on the leaderboard, while Orange Raid Orbs and Silver Promotion Credits are rewards for the rest of the competitors."
+ID_INFO_NA_RIDEOFTHEVALKYRIE,Ride of the Valkyrie
+ID_INFO_DE_RIDEOFTHEVALKYRIE,Earn Valkyrie's New Costume
+ID_INFO_BO_RIDEOFTHEVALKYRIE,"Unlock Valkyrie's King of Asgard Costume over the next 7 days.\n\nEarn points towards this 7-day Milestone by earning Valhalla Orb Fragments.\n\nRewards include Valkyrie's new King of Asgard Costume, Helium-Neon Laser Pistol, and Armory 15 Orbs."
+ID_INFO_DE_AUGUSTBLUEPRINT,Earn T2 L4 Ions & Jet Boot
+ID_INFO_BO_AUGUSTBLUEPRINT,"Harness the power of Blue with this limited-time event:\n\n<color=#fff568>Milestone</color>\nEarn points toward this 7-day Milestone by spending Campaign Energy (excluding Iso-8 Campaign Energy), earning War Credits, and by spending War Energy Refills.\n\n<color=#fff568>Rewards</color>\nMilestone rewards include the new T2 Level 4 Ions, Relay-Circuits, Jet Boot, Gold, Legacy III Orb Fragments, and T1 Ions.\n\n<color=#fff568>Maximize Your Rewards</color>\nEarn 80% of the T2 Level 4 Ions needed to take one character to Class Level 4 with moderate engagement with the event. Highly engaged players can earn up to 120% of the T2 Level 4 Ions needed to take one character to class level 4."
+ID_INFO_NA_AVENGINGASGARD,Avenging Asgard
+ID_INFO_DE_AVENGINGASGARD,Battle in Blitz and Arena
+ID_INFO_BO_AVENGINGASGARD,Battle in Arena and win in Blitz to earn progress toward this 7-day milestone that rewards: \n- Valhalla Orb Fragments\n- Silver Phase Bits (to purchase Valkyrie's Costume)\n- Training Modules\n- Teal and Orange Raid Orb Fragments\n- Armory Orb Fragments\n- Silver Promotion Credits
 ID_INFO_NA_PARTYINPARADISE,Party in Paradise
 ID_INFO_DE_PARTYINPARADISE,Asgardian rewards & the Gauntlet of Heroes!
 ID_INFO_BO_PARTYINPARADISE,"Pillage <color=#fff568>Asgardian rewards</color> and <color=#fff568>Summer of Thunder</color> progress with these milestones:\n\n<color=#fff568>Party in Paradise</color>\nScore points toward this 7-day milestone by opening Party Animal Orbs from the Hammer of the Gods Event Campaign and the <color=#fff568>Midgard Mash</color> milestones, and by spending Power Cores. Rewards include:\n\n- Valkyrie Gear\n- Asgardian Shards\n- Gauntlet of Heroes\n- Mjolnir Fragments\n- 5 Red Star Thor\n- And more!\n\n<color=#fff568>Midgard Mash</color>\nBlitz to rack up points toward this 2-day milestone that repeats twice. You'll earn more points with the limited-time Party Animal trait characters equipped with Gear Tier 13+. Rewards include Party Animal Orbs and more!\n\n<color=#fff568>Cosmic Celebration Web Milestone</color>\nSpend Campaign Energy (not including Iso-8 Campaign Energy) to hit a daily milestone that rewards Legacy III Orb Fragments, Silver Promotion Credits, and Gold Orb Fragments."

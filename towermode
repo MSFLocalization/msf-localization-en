@@ -16,6 +16,7 @@ ID_TOWER_MODE_CARD,Avengers Tower
 ID_TOWER_MODE,Avengers Tower
 ID_TOWER_MODE_SHORT_DESC,Climb Avengers Tower to win rewards!
 ID_TOWER_MODE_LONG_DESC,Face off against a series of foes to earn Gold and milestone rewards by completing the first 60 floors of Avengers Tower. Then see how many bonus floors you can complete to earn gear and ability materials via the ranked leaderboards!
+ID_TOWER_MODE_COMPLETED,Completed
 ID_GACHA_CRATE_TOWER_COSMIC_NAME,Tower Orb
 ID_GACHA_CRATE_TOWER_COSMIC_DESCRIPTION,"Earn top Cosmic character shards, Teal mini-uniques, and Teal unique gear pieces."
 ID_GACHA_CRATE_TOWER_COSMIC_TOKEN_NAME,Tower Orb Fragments

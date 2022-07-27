@@ -9296,6 +9296,218 @@ ID_DIALOG_ECM_VALKYRIE_09_END_3,"Also because unlike you, people actually like m
 ID_DIALOG_ECM_VALKYRIE_09_END_4,"Ouch. Well, what now? Back to my cell on Asgard, no doubt."
 ID_DIALOG_ECM_VALKYRIE_09_END_5,"No, I think not. The party's over, Loki, and someone needs to turn the lights on and clean up after it. "
 ID_DIALOG_ECM_VALKYRIE_09_END_6,"Between all the cans, the confetti, and the red plastic cups? It shouldn't take you more than a few millennia. Good luck!"
+ID_DIALOG_ECM_MORGAN_01_INTRO_0,"THE SANCTUM SANCTORUM, NEW YORK..."
+ID_DIALOG_ECM_MORGAN_01_INTRO_1,Fellow sorcerers... I have news.
+ID_DIALOG_ECM_MORGAN_01_INTRO_2,"You vanished, Morgan. And now you reappear, gathering us here with whispers. Speak.  "
+ID_DIALOG_ECM_MORGAN_01_INTRO_3,"To the point as ever, Harkness. I knew I liked some part of you."
+ID_DIALOG_ECM_MORGAN_01_INTRO_4,"It's true, I did slip away, and I did so in search of a way to get my revenge. On you, especially, Maximoff."
+ID_DIALOG_ECM_MORGAN_01_INTRO_5,"But I called you here because what I found... Was far more terrifying than any demon I could have conjured. "
+ID_DIALOG_ECM_MORGAN_01_END_0,"In my hubris, I unleashed something ancient. A being that seeks to use my power for its own purposes."
+ID_DIALOG_ECM_MORGAN_01_END_1,"And now you want us to get you out of this mess? "
+ID_DIALOG_ECM_MORGAN_01_END_2,"I've mastered demons, fought kings, and taught gods. If this being scares me, ask yourselves - what other chaos is it capable of?"
+ID_DIALOG_ECM_MORGAN_01_END_3,"But there's a ritual, deep in the pages of the Darkhold. With our powers, we can use the book to destroy this enemy."
+ID_DIALOG_ECM_MORGAN_01_END_4,"Why should we trust anything you say, Le Fay?"
+ID_DIALOG_ECM_MORGAN_01_END_5,"We don't need to trust her. My mastery of the Darkhold binds her to me. She won't be able to cast a spell against us. "
+ID_DIALOG_ECM_MORGAN_01_END_6,"If this thing is as terrible as you say, we have no choice but to investigate. What's the first step of the ritual?"
+ID_DIALOG_ECM_MORGAN_01_END_7,To venture where I first brought the pages of the Darkhold together - the caverns beneath Mount Wundagore!
+ID_DIALOG_ECM_MORGAN_02_INTRO_0,"You know, when I first decided to study the mystic arts, I thought there would be more grandeur and fewer musty caverns. "
+ID_DIALOG_ECM_MORGAN_02_INTRO_1,"Why this place, Le Fay?"
+ID_DIALOG_ECM_MORGAN_02_INTRO_2,"The Darkhold contains spells and rituals of the great demon Chthon. "
+ID_DIALOG_ECM_MORGAN_02_INTRO_3,"When I bound it, I had to trap the demon's soul not just in the book but in this place as well."
+ID_DIALOG_ECM_MORGAN_02_INTRO_4,"The mountain is now the center of the book's power. "
+ID_DIALOG_ECM_MORGAN_02_INTRO_5,You bound a demon that easily... And yet this new enemy frightens you?
+ID_DIALOG_ECM_MORGAN_02_INTRO_6,Perhaps it's time you told us more about them.
+ID_DIALOG_ECM_MORGAN_02_END_0,"When I looked to free myself from your grasp, I heard this voice call to me. "
+ID_DIALOG_ECM_MORGAN_02_END_1,"And as I followed it, it burrowed deeper into my soul. Felt its hands on my mystic power. "
+ID_DIALOG_ECM_MORGAN_02_END_2,"It's not a demon, not a god. Something just as old, though. "
+ID_DIALOG_ECM_MORGAN_02_END_3,"I thought I could use it, but it's clear it uses me. So I called you all. "
+ID_DIALOG_ECM_MORGAN_02_END_4,"Here. We've reached the heart of the mountain. "
+ID_DIALOG_ECM_MORGAN_02_END_5,Let the ritual begin.
+ID_DIALOG_ECM_MORGAN_03_INTRO_0,"Le Fay? Morgan? No response - this is as deep a trance as I've ever seen. "
+ID_DIALOG_ECM_MORGAN_03_INTRO_1,"I don't like any of this, Wanda. An unknown enemy, dark magic? There are too many uncontrolled elements. "
+ID_DIALOG_ECM_MORGAN_03_INTRO_2,"I'd think you'd be comfortable with dark magic at this point, Stephen. "
+ID_DIALOG_ECM_MORGAN_03_INTRO_3,"All my experience with forbidden magic has brought me an abundance of caution, not comfort. "
+ID_DIALOG_ECM_MORGAN_03_INTRO_4,"Caution, I understand. We're not just letting Morgan cast a spell unaltered. "
+ID_DIALOG_ECM_MORGAN_03_INTRO_5,"While she's casting this spell, I've begun one of my own."
+ID_DIALOG_ECM_MORGAN_03_INTRO_6,One to let us see exactly what we're dealing with.
+ID_DIALOG_ECM_MORGAN_03_END_0,"Careful, Wanda... Interrupting the magic of the Darkhold is dangerous."
+ID_DIALOG_ECM_MORGAN_03_END_1,"I'm not interrupting the Darkhold, I'm flowing through it. "
+ID_DIALOG_ECM_MORGAN_03_END_2,We'll see into Morgan's mind while she's connected to the book. Watch and learn.
+ID_DIALOG_ECM_MORGAN_03_END_3,"O, MISTS OF MORPHEUS. PART THE VEIL BETWEEN THE HIDDEN AND THE REAL. SHOW US WHAT WE NEED. "
+ID_DIALOG_ECM_MORGAN_03_END_4,Wanda... Whispers and visions... What are we seeing? Feeling?
+ID_DIALOG_ECM_MORGAN_03_END_5,"Morgan's mind is twisted, I'm only getting glimpses... A massive figure, purple and blue. Heat... Dry heat? "
+ID_DIALOG_ECM_MORGAN_03_END_6,"Overwhelming evil, but also... the sense that we've faced this enemy before? "
+ID_DIALOG_ECM_MORGAN_03_END_7,Wanda... The spell... it's doing something... H-HELP ME!
+ID_DIALOG_ECM_MORGAN_04_INTRO_0,ARGH!!!
+ID_DIALOG_ECM_MORGAN_04_INTRO_1,What's happened?!
+ID_DIALOG_ECM_MORGAN_04_INTRO_2,"Strange's demons, the ones he's bound to himself, they're bursting out of him! "
+ID_DIALOG_ECM_MORGAN_04_INTRO_3,It's the mountain... They're too powerful here!
+ID_DIALOG_ECM_MORGAN_04_INTRO_4,"I feared this could happen. I'm attempting to bind ancient evil... "
+ID_DIALOG_ECM_MORGAN_04_INTRO_5,And ancient evil is what this Strange is full of. Wonderful.
+ID_DIALOG_ECM_MORGAN_04_INTRO_6,We can't let these demons disrupt the ritual. Stop them at all costs!
+ID_DIALOG_ECM_MORGAN_04_END_0,"I've... Returned the demons to my service... Thank you all. "
+ID_DIALOG_ECM_MORGAN_04_END_1,"Of course, Stephen. Now we can deal with the real problem - Le Fay. "
+ID_DIALOG_ECM_MORGAN_04_END_2,"Finally caught on, did you?"
+ID_DIALOG_ECM_MORGAN_04_END_3,"Stephen's demons didn't free themselves - your spell did it. Instead of trapping ancient evil, this ritual RELEASES it."
+ID_DIALOG_ECM_MORGAN_04_END_4,"But my power over the Darkhold still controls you, Le Fay. Surrender before I have to use it. "
+ID_DIALOG_ECM_MORGAN_04_END_5,"I'm afraid you're far, far too late for that, little Witch. I'm free. FREE!!!"
+ID_DIALOG_ECM_MORGAN_05_INTRO_0,"The Darkhold, my control of it... You... Shattered! How?!"
+ID_DIALOG_ECM_MORGAN_05_INTRO_1,"I was telling the truth about that ancient evil, Witch. It did call to me. But I EMBRACED it. "
+ID_DIALOG_ECM_MORGAN_05_INTRO_2,His power combined with mine allowed me to break free of your control without you suspecting a thing.
+ID_DIALOG_ECM_MORGAN_05_INTRO_3,"And with this ritual, I've broken your grasp on the Darkhold! The book is mine again!"
+ID_DIALOG_ECM_MORGAN_05_INTRO_4,"We stopped you once not long ago, Morgan. What makes you think it'll go differently now?"
+ID_DIALOG_ECM_MORGAN_05_INTRO_5,"Because I have embraced my destiny. You dragged me to this time and I hated you for it. "
+ID_DIALOG_ECM_MORGAN_05_INTRO_6,"But thanks to your interference, I've found this new power! And I can use it to destroy you..."
+ID_DIALOG_ECM_MORGAN_05_INTRO_7,As a horseman of Apocalypse!
+ID_DIALOG_ECM_MORGAN_05_END_0,"Apocalypse?! But we locked him away. I saw Strange and the X-Men do it years ago. "
+ID_DIALOG_ECM_MORGAN_05_END_1,"True, his barriers were enough to keep out the strongest sorcerers of your age. But I am not from your age. "
+ID_DIALOG_ECM_MORGAN_05_END_2,"I freed Apocalypse, and he's rewarded me by reuniting me with the Darkhold. "
+ID_DIALOG_ECM_MORGAN_05_END_3,The true strength of which I can show you now!
+ID_DIALOG_ECM_MORGAN_05_END_4,My... Mind... What are you doing to my mind?!
+ID_DIALOG_ECM_MORGAN_05_END_5,"First, I'll bend you to the will of the Darkhold. Then, I'll return to my master. "
+ID_DIALOG_ECM_MORGAN_05_END_6,"And his empire will spread across the multiverse, unstoppable and unrelenting."
+ID_DIALOG_ECM_MORGAN_05_END_7,"Soon, you and S.T.R.I.K.E. will know what it is to experience Apocalypse, thanks to me... His horseman of Pestilence!"
+ID_DIALOG_ECM_VIVVISION_01_INTRO_0,A HIDDEN BUNKER DEEP WITHIN LATVERIA...
+ID_DIALOG_ECM_VIVVISION_01_INTRO_1,"Okay, kids. This is the bunker where Doom sent us. The tracking device he built should be here. "
+ID_DIALOG_ECM_VIVVISION_01_INTRO_2,"But who knows what kind of traps he left behind. Don't log onto any unsecure Wifi networks, okay?"
+ID_DIALOG_ECM_VIVVISION_01_INTRO_3,"Affirmative. "
+ID_DIALOG_ECM_VIVVISION_01_INTRO_4,"I will do whatever I can to aid,\nMr. Stark. "
+ID_DIALOG_ECM_VIVVISION_01_INTRO_5,Could we not have asked Victor what problems we might encounter?
+ID_DIALOG_ECM_VIVVISION_01_INTRO_6,"Oh, I did. He said, ""Doom cannot be troubled to remember every trivial device that could destroy you, Stark."" Fun guy!"
+ID_DIALOG_ECM_VIVVISION_01_START_0,"WHO DARES INTRUDE UPON THE LAIR OF DOOM? "
+ID_DIALOG_ECM_VIVVISION_01_START_1,"PREPARE YOUR CRIES OF GRATITUDE THAT YOU MIGHT BE DESTROYED BY THE GLORY THAT IS DOOM. "
+ID_DIALOG_ECM_VIVVISION_01_START_2,"Great, an extra sassy Doombot. Bionic Avengers? Disassemble. "
+ID_DIALOG_ECM_VIVVISION_01_START_3,"THE BIONIC AVENGERS ARE A TEAM WHO EXCEL IN RAIDS - FOR THIS BATTLE, THEIR RAID ABILITIES ARE ACTIVE."
+ID_DIALOG_ECM_VIVVISION_01_MID_0,VIV VISION TUTORIAL TEXT
+ID_DIALOG_ECM_VIVVISION_01_MID_1,VIV VISION TUTORIAL TEXT
+ID_DIALOG_ECM_VIVVISION_01_MID_2,VIV VISION TUTORIAL TEXT
+ID_DIALOG_ECM_VIVVISION_01_END_0,"Did I excel, Father? I am eager to help."
+ID_DIALOG_ECM_VIVVISION_01_END_1,"You did admirably. Excellent coordination with the others.\nI am proud. "
+ID_DIALOG_ECM_VIVVISION_01_END_2,"Yeah, you're a chip off the Infinity Stone. Now, where's that... AH-HA!"
+ID_DIALOG_ECM_VIVVISION_01_END_3,"Doom stole and modified Xavier's tech to help find magic users. This will help us pin down Morgan Le Fay. "
+ID_DIALOG_ECM_VIVVISION_01_END_4,"Perhaps if I interface with the device, I can... Processing. Processing. "
+ID_DIALOG_ECM_VIVVISION_01_END_5,...Father. I have detected something... Unexpected.
+ID_DIALOG_ECM_VIVVISION_01_END_6,"What is it, Vivian? "
+ID_DIALOG_ECM_VIVVISION_01_END_7,"I found... Mother. "
+ID_DIALOG_ECM_VIVVISION_02_INTRO_0,"I am confused.\nYou found your mother? "
+ID_DIALOG_ECM_VIVVISION_02_INTRO_1,"While scanning the databanks, I saw her brainwave patterns. I remember them as clearly as the lines of her face. "
+ID_DIALOG_ECM_VIVVISION_02_INTRO_2,"Viv, I am sorry, but your mother is gone. I miss her terribly, but she is gone. You're mistaken."
+ID_DIALOG_ECM_VIVVISION_02_INTRO_3,"I don't want to be rude, but even if she's alive... Evil sorceress on the loose? Feels time-sensitive. "
+ID_DIALOG_ECM_VIVVISION_02_INTRO_4,"I understand, Mr. Stark. But I also understand that a gift from my mother is the ability to make my own choices. "
+ID_DIALOG_ECM_VIVVISION_02_INTRO_5,"Viv, wait! ...She has gone."
+ID_DIALOG_ECM_VIVVISION_02_INTRO_6,"See, this is why we normally have a whole separate team for the teens. "
+ID_DIALOG_ECM_VIVVISION_02_START_0,"According to the data I have downloaded, Mother's brainwaves were strongest here...  "
+ID_DIALOG_ECM_VIVVISION_02_START_1,But what is this place?
+ID_DIALOG_ECM_VIVVISION_02_START_2,"HALT! Alert the Scientist Supreme, we have an intruder. And she's synthetic. "
+ID_DIALOG_ECM_VIVVISION_02_END_0,"I see. Advanced Idea Mechanics. "
+ID_DIALOG_ECM_VIVVISION_02_END_1,This meets my expectations - only an advanced scientist could reconstruct Mother's synthezoid form.
+ID_DIALOG_ECM_VIVVISION_02_END_2,I feel... Excitement. And nerves. Further investigation is needed.
+ID_DIALOG_ECM_VIVVISION_03_INTRO_0,"This room, full of tanks. Tanks full of... Beings? Creations? Scanning."
+ID_DIALOG_ECM_VIVVISION_03_INTRO_1,"Checking database. Hm. Not quite androids. Not synthezoids. "
+ID_DIALOG_ECM_VIVVISION_03_INTRO_2,"The word you're looking for, you cheeky little intruder you, is ADAPTOID! "
+ID_DIALOG_ECM_VIVVISION_03_INTRO_3,"Factory fresh, since we're in the factory! Ooooh, I just love that new robot smell. "
+ID_DIALOG_ECM_VIVVISION_03_INTRO_4,Now let's give them a li'l test run!
+ID_DIALOG_ECM_VIVVISION_03_START_0,Adaptoids. Synthetic beings with...
+ID_DIALOG_ECM_VIVVISION_03_START_1,"The powers of the dang AVENGERS, that's right!"
+ID_DIALOG_ECM_VIVVISION_03_START_2,"Can you believe it, though, they haven't even had a test run, and here you are!"
+ID_DIALOG_ECM_VIVVISION_03_START_3,The perfect CRASH TEST DUMMY!
+ID_DIALOG_ECM_VIVVISION_03_END_0,I'm impressed! The daughter of the Vision managed to hold off those adaptoids all on her lonesome.
+ID_DIALOG_ECM_VIVVISION_03_END_1,"Score one for nepotism! Which, coincidentally, is the name of a new toxin I'm working on."
+ID_DIALOG_ECM_VIVVISION_03_END_2,These beings are an abomination. I cannot allow you to create more of them.
+ID_DIALOG_ECM_VIVVISION_03_END_3,"Ooooh, I love it when the heroes talk tough. Time for Round 2! "
+ID_DIALOG_ECM_VIVVISION_04_START_0,"Now, if you're nice, I'll dissect you and make you part of perfecting my Adaptoids."
+ID_DIALOG_ECM_VIVVISION_04_START_1,I am NOT a science experiment.
+ID_DIALOG_ECM_VIVVISION_04_START_2,"Pft, sure. Not YET. "
+ID_DIALOG_ECM_VIVVISION_04_MID_0,"Heads up, Viv! You've got help incoming!"
+ID_DIALOG_ECM_VIVVISION_04_MID_1,"Iron Heart, my dear friend?! How did you know I needed you?"
+ID_DIALOG_ECM_VIVVISION_04_MID_2,"Don't look SO surprised, Viv. Iron Man sent me after you gave him and your dad the slip."
+ID_DIALOG_ECM_VIVVISION_04_END_0,"Dang, Scientist Supreme's slipped deeper into the base. Don't worry, we'll get her. "
+ID_DIALOG_ECM_VIVVISION_04_END_1,"Your timely arrival and assistance are much appreciated, Riri."
+ID_DIALOG_ECM_VIVVISION_04_END_2,"Of course, Viv. You've watched my back before, now I'm watching yours."
+ID_DIALOG_ECM_VIVVISION_04_END_3,"To protect against danger from an unexpected quarter. Yes, I will need you to ""watch my back"" while in this facility."
+ID_DIALOG_ECM_VIVVISION_04_END_4,Nice to see some things never change. What exactly are you searching for?
+ID_DIALOG_ECM_VIVVISION_04_END_5,Mr. Stark did not tell you? Something... Very dear to me.
+ID_DIALOG_ECM_VIVVISION_05_INTRO_0,Your mother? The one Vision made when he built you? Are you sure she's alive?
+ID_DIALOG_ECM_VIVVISION_05_INTRO_1,I am not. But her trail led here.
+ID_DIALOG_ECM_VIVVISION_05_INTRO_2,"I am using these terminals to track her brainwaves, but access to the mainframe is being removed."
+ID_DIALOG_ECM_VIVVISION_05_INTRO_3,"Oh, I've already firewalled the remaining terminals. Your feeble minds couldn't possibly restore that connection. "
+ID_DIALOG_ECM_VIVVISION_05_INTRO_4,"EXCUSE me? I can code circles around your washed, goatee-having, cape-wearing butt. "
+ID_DIALOG_ECM_VIVVISION_05_INTRO_5,"Viv, keep me covered while I show this grandpa what an M.I.T. degree and a homemade Arc Reactor can do."
+ID_DIALOG_ECM_VIVVISION_05_INTRO_6,With pleasure. I will Watch Your Back.
+ID_DIALOG_ECM_VIVVISION_05_START_0,"You may have bested Scientist's synthetic experiments, but you'll find mine are more... Organic."
+ID_DIALOG_ECM_VIVVISION_05_MID_0,"Viv, I'm getting a huge radiation spike! What's going on?"
+ID_DIALOG_ECM_VIVVISION_05_MID_1,"I believe, as Mr. Stark would say, ""He has a Hulk."""
+ID_DIALOG_ECM_VIVVISION_05_MID_2,RAAAARGH!
+ID_DIALOG_ECM_VIVVISION_05_MID_3,I have just the thing. No pilot though - think you can remote control it?
+ID_DIALOG_ECM_VIVVISION_05_MID_4,Happily.
+ID_DIALOG_ECM_VIVVISION_05_MID_5,Hulkbuster unit... Online.
+ID_DIALOG_ECM_VIVVISION_05_END_0,Hulkbuster unit damage critical...
+ID_DIALOG_ECM_VIVVISION_05_END_1,"Ugh, you never want the unit damage to be critical. That can't be good. "
+ID_DIALOG_ECM_VIVVISION_05_END_2,I apologize. I was unable to keep a constant monitor on the suit's metrics.
+ID_DIALOG_ECM_VIVVISION_05_END_3,"I could fix it if we had time, but I don't think we're going to get any. Do you hear that?"
+ID_DIALOG_ECM_VIVVISION_05_END_4,Roaring. Return to the terminal. I do not think we will be alone for long.
+ID_DIALOG_ECM_VIVVISION_06_START_0,These experiments are charged with more Gamma than I thought possible. This will be... Difficult.
+ID_DIALOG_ECM_VIVVISION_06_START_1,I'M GONNA TURN BOTH OF YOU INTO TIN FOIL! RAAAARGH!
+ID_DIALOG_ECM_VIVVISION_06_START_2,"Hurry, Riri. I will hold them back for as long as I can!"
+ID_DIALOG_ECM_VIVVISION_06_END_0,"Viv, I got the files!"
+ID_DIALOG_ECM_VIVVISION_06_END_1,"RUUUUUMBLE... CRASH! "
+ID_DIALOG_ECM_VIVVISION_06_END_2,We're at the bottom of the facility. And now our route back is sealed.
+ID_DIALOG_ECM_VIVVISION_06_END_3,"Lucky for us, the brainwaves are further underground anyway."
+ID_DIALOG_ECM_VIVVISION_06_END_4,"Seems like if A.I.M. was building something like synthezoids, they were looking for your mom, too."
+ID_DIALOG_ECM_VIVVISION_06_END_5,"This is additional evidence she is alive. What conclusion do you draw, Riri?"
+ID_DIALOG_ECM_VIVVISION_06_END_6,"I don't know, but the sooner we follow this path, the sooner we can find out."
+ID_DIALOG_ECM_VIVVISION_07_INTRO_0,"The topography of this cave, it does not match any geological formations in my database. "
+ID_DIALOG_ECM_VIVVISION_07_INTRO_1,"You're right, Viv. It looks natural, but my visor is telling me it was hand carved. "
+ID_DIALOG_ECM_VIVVISION_07_INTRO_2,Why would someone make a cave look like a cave?
+ID_DIALOG_ECM_VIVVISION_07_INTRO_3,"Perhaps to hide a deeper secret. "
+ID_DIALOG_ECM_VIVVISION_07_INTRO_4,"Wait, carved into the cave... Is that an altar? Viv, where did this tunnel lead us?"
+ID_DIALOG_ECM_VIVVISION_07_INTRO_5,The A.I.M. facility we broke into was built at the base of a mountain which has no name in my database.
+ID_DIALOG_ECM_VIVVISION_07_INTRO_6,"Perhaps I can help. Its name is... WUNDAGORE. "
+ID_DIALOG_ECM_VIVVISION_07_START_0,Another alternate dimension jerk for us to deal with?
+ID_DIALOG_ECM_VIVVISION_07_START_1,No. My sensors tell me this is our Scarlet Witch. In all her power.
+ID_DIALOG_ECM_VIVVISION_07_START_2,Well! That doesn't sound great!
+ID_DIALOG_ECM_VIVVISION_07_END_0,I will destroy you both! I will bind you to Mount Wundagore and...
+ID_DIALOG_ECM_VIVVISION_07_END_1,"Now, Riri! A direct synchronized blast should accomplish our goals."
+ID_DIALOG_ECM_VIVVISION_07_END_2,AAAARGH!
+ID_DIALOG_ECM_VIVVISION_07_END_3,"What... Girls, what are you doing here? Where am I?"
+ID_DIALOG_ECM_VIVVISION_07_END_4,"Beneath Mount Wundagore. I'm searching for my mother, and yet... Found you. Curious."
+ID_DIALOG_ECM_VIVVISION_07_END_5,"Your mother? Oh... Viv, I'm so sorry. I can explain everything. "
+ID_DIALOG_ECM_VIVVISION_08_INTRO_0,"Me and the other mystics... Morgan Le Fay lured us here, betrayed us. She broke free of my control and escaped."
+ID_DIALOG_ECM_VIVVISION_08_INTRO_1,She must have hexed me and the rest of S.T.R.I.K.E.'s mystics before leaving... I'm so sorry for attacking you.
+ID_DIALOG_ECM_VIVVISION_08_INTRO_2,"Hey, no problem. Always wanted to see if my new armor could stand against magic. "
+ID_DIALOG_ECM_VIVVISION_08_INTRO_3,"I do not understand... We found you by following the brainwaves of my mother. Yet here you are. "
+ID_DIALOG_ECM_VIVVISION_08_INTRO_4,"I can explain that, too. But the rest of my team is approaching, and if Morgan hexed me..."
+ID_DIALOG_ECM_VIVVISION_08_INTRO_5,"I'm going to get to see how my armor stands up to even more magic. Got it. "
+ID_DIALOG_ECM_VIVVISION_08_START_0,Destroy them! Sacrifice them on the altar of Wundagore!
+ID_DIALOG_ECM_VIVVISION_08_START_1,I am not certain I can be sacrificed in this manner. But I am also not eager to find out.
+ID_DIALOG_ECM_VIVVISION_08_END_0,Viz never told you... What makes synthezoids like you so incredible is how your minds are made.
+ID_DIALOG_ECM_VIVVISION_08_END_1,Viz's mind was based on a dear friend of ours. And when he made Victoria... He based hers on mine.
+ID_DIALOG_ECM_VIVVISION_08_END_2,"The path you were following only ever led you to me. "
+ID_DIALOG_ECM_VIVVISION_08_END_3,So she is not here. She really is gone.
+ID_DIALOG_ECM_VIVVISION_08_END_4,"I'm so sorry, Viv. But in a way... She's here with you. "
+ID_DIALOG_ECM_VIVVISION_08_END_5,"You are kind. But ultimately, you are not my mother. "
+ID_DIALOG_ECM_VIVVISION_08_END_6,"That isn't what I meant. When Vision and Victoria created you, they made your brainwaves by combining their own."
+ID_DIALOG_ECM_VIVVISION_08_END_7,As long as you're here... So is she.
+ID_DIALOG_ECM_VIVVISION_09_INTRO_0,"Thank you, Ms. Maximoff. I will process this."
+ID_DIALOG_ECM_VIVVISION_09_INTRO_1,"Sweetie, I think, at this point, you can call me Wanda. "
+ID_DIALOG_ECM_VIVVISION_09_INTRO_2,I wouldn't worry much about terms of endearment - neither of you will be alive much longer to use them!
+ID_DIALOG_ECM_VIVVISION_09_INTRO_3,"Ultron. We've never encountered each other. "
+ID_DIALOG_ECM_VIVVISION_09_INTRO_4,"Yet I've been searching for you! I created your father as a vessel for myself, but he fought me off."
+ID_DIALOG_ECM_VIVVISION_09_INTRO_5,"Your body will allow me to attain perfection, and you are far less likely to defeat me, child. "
+ID_DIALOG_ECM_VIVVISION_09_INTRO_6,"But the odds certainly increase with me by her side. "
+ID_DIALOG_ECM_VIVVISION_09_INTRO_7,"Come, Vivian. Let's defeat this monster together. "
+ID_DIALOG_ECM_VIVVISION_09_START_0,"Father, you found me. You came."
+ID_DIALOG_ECM_VIVVISION_09_START_1,Indeed. But this family reunion of sorts is not what I expected.
+ID_DIALOG_ECM_VIVVISION_09_END_0,"I could definitely do without this visit from Grandpa here, though."
+ID_DIALOG_ECM_VIVVISION_09_END_1,*Bzzt* This shell is destroyed... But I have others... *ZZT* I will attain your...
+ID_DIALOG_ECM_VIVVISION_09_END_2,"No more from this unit. Conversation terminated. "
+ID_DIALOG_ECM_VIVVISION_09_END_3,"Viv, I must apologize to you. "
+ID_DIALOG_ECM_VIVVISION_09_END_4,I mourned your mother long ago and have accepted that she is gone.
+ID_DIALOG_ECM_VIVVISION_09_END_5,"But I should have supported and gone with you regardless. For I do not want to lose you, as well. "
+ID_DIALOG_ECM_VIVVISION_09_END_6,"Thank you, Father. I am... Saddened that we did not find Mother. But happy to be with you."
+ID_DIALOG_ECM_VIVVISION_09_END_7,"Viz, this is wonderful, but the three of us need to get back to S.T.R.I.K.E. right now."
+ID_DIALOG_ECM_VIVVISION_09_END_8,"It's Morgan Le Fay... We knew she was up to something, but now we know what."
+ID_DIALOG_ECM_VIVVISION_09_END_9,She's freed Apocalypse. And the world is in terrible danger.
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
@@ -13032,3 +13244,6 @@ ID_DIALOG_NUE_COSMICCRUCIBLE_02B_1,"Each battle takes place on one of The Living
 ID_DIALOG_NUE_COSMICCRUCIBLE_02B_2,Don't make these choices lightly - the warriors who defend our Stages won't be able to do battle in other timelines.
 ID_DIALOG_NUE_COSMICCRUCIBLE_02B_3,Our success in the Cosmic Crucible will depend heavily on us choosing warriors who can best benefit from the Tribunal's Rules!
 ID_DIALOG_NUE_COSMICCRUCIBLE_02B_CLICK_0,"The Crucible begins soon! To learn more details about its rules, look here. \n\nGood luck, Commander. "
+ID_DIALOG_NUE_APOCSAGAS_01_0,Behold as the next chapter of my conquest of the multiverse begins!
+ID_DIALOG_NUE_APOCSAGAS_01_1,"Each of my horsemen, the avatars of my will and harbingers of my wrath, possesses great power. But even greater potential."
+ID_DIALOG_NUE_APOCSAGAS_01_2,"As they are tested, each of them shall embrace their fate, unlock a terrible new strength, and bring about... <b>Apocalypse!</b>"

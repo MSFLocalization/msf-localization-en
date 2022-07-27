@@ -20,7 +20,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 12PM (PDT) (07/27).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PDT) (04/25).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -382,6 +382,8 @@ ID_MOTD_NA_BONUS_XP,XP Throttle
 ID_MOTD_DE_BONUS_XP,Doubled Commander XP from Campaigns!
 ID_MOTD_NA_BONUS_ISO_XP,XP Overdrive
 ID_MOTD_DE_BONUS_ISO_XP,Commander XP added to the Isotope-8 Campaign!
+ID_MOTD_NA_ABOMINATION,Gamma Obsessed: Now Live!
+ID_MOTD_DE_ABOMINATION,Battle for a chance to win Abomination shards
 ID_MOTD_NA_AGATHAHARKNESS,Coven Leader: Now Live!
 ID_MOTD_DE_AGATHAHARKNESS,Battle for a chance to win Agatha Harkness shards
 ID_MOTD_NA_AIMCONTROL_INFECT,Contagion: Now Live!
@@ -394,10 +396,10 @@ ID_MOTD_NA_AIMSUPPORT_HEAL,Apprentice: Now Live!
 ID_MOTD_DE_AIMSUPPORT_HEAL,Battle for a chance to win A.I.M. Researcher shards
 ID_MOTD_NA_AIMTANK_TAUNT,Crazed Survivor: Now Live!
 ID_MOTD_DE_AIMTANK_TAUNT,Battle for a chance to win A.I.M. Security shards
+ID_MOTD_NA_AMADEUSCHO,Totally Awesome: Now Live!
+ID_MOTD_DE_AMADEUSCHO,Battle for a chance to win Brawn shards
 ID_MOTD_NA_AMERICACHAVEZ,Star Power: Now Live!
 ID_MOTD_DE_AMERICACHAVEZ,Battle for a chance to win America Chavez shards
-ID_MOTD_NA_AMERICACHAVEZ_PREHYPE,America Chavez
-ID_MOTD_DE_AMERICACHAVEZ_PREHYPE,The All-Star Brawler is coming soon!
 ID_MOTD_NA_ANTIVENOM,Lethal Dose: Now Live!
 ID_MOTD_DE_ANTIVENOM,Battle for a chance to win Anti-Venom shards
 ID_MOTD_NA_ANTMAN,Pym Particles: Now Live!
@@ -467,6 +469,8 @@ ID_MOTD_NA_DEADPOOL_RAID,LIMITED: Deadpool Raids
 ID_MOTD_DE_DEADPOOL_RAID,Participate in Deadpool Raids to earn more Deadpool Orb Fragments!
 ID_MOTD_NA_DEADPOOL_TAKEOVER,NOW LIVE: Merc with a Mouth
 ID_MOTD_DE_DEADPOOL_TAKEOVER,Reach Lvl 19 and help Deadpool!
+ID_MOTD_NA_DEATHLOK,Total Destruction: Now Live!
+ID_MOTD_DE_DEATHLOK,Battle for a chance to win Deathlok shards
 ID_MOTD_NA_DEATHPOOL,Grim Reaper: Now Live!
 ID_MOTD_DE_DEATHPOOL,Battle for a chance to win Deathpool shards
 ID_MOTD_NA_DOCTORSTRANGE,Sorcerer Supreme: Now Live!
@@ -515,6 +519,8 @@ ID_MOTD_NA_HEIMDALL,Gatekeeper: Now Live!
 ID_MOTD_DE_HEIMDALL,Battle for a chance to win Heimdall shards
 ID_MOTD_NA_HELA,Queen of the Dead: Now Live!
 ID_MOTD_DE_HELA,Battle for a chance to win Hela shards
+ID_MOTD_NA_HULKBUSTER,Bulk Up: Now Live!
+ID_MOTD_DE_HULKBUSTER,Battle for a chance to win Hulkbuster shards
 ID_MOTD_NA_HUMANTORCH,Flame On: Now Live!
 ID_MOTD_DE_HUMANTORCH,Battle for a chance to win Human Torch shards
 ID_MOTD_NA_HYDRADMG_SINGLE,Precise Shot: Now Live!
@@ -715,6 +721,8 @@ ID_MOTD_NA_VENOM,Symbiotic Terror: Now Live!
 ID_MOTD_DE_VENOM,Battle for a chance to win VENOM shards
 ID_MOTD_NA_VISION,Synthezoid: Now Live!
 ID_MOTD_DE_VISION,Battle for a chance to win VISION shards
+ID_MOTD_NA_VIVVISION,Champion: Now Live!
+ID_MOTD_DE_VIVVISION,Battle for a chance to win Viv Vision shards
 ID_MOTD_NA_VULTURE,Bird of Prey: Now Live!
 ID_MOTD_DE_VULTURE,Battle for a chance to win Vulture shards
 ID_MOTD_NA_WARMACHINE,Full Salvo: Now Live!
@@ -1164,8 +1172,6 @@ ID_MOTD_NA_SPLASH_MILITARY,LIVE: Quick Rumble Blitz - Military
 ID_MOTD_DE_SPLASH_MILITARY,Battle with Military characters to earn A-Force Emblems and Ability Materials!
 ID_MOTD_NA_SPLASH_WAKANDAN,LIVE: Quick Rumble Blitz - Wakandan
 ID_MOTD_DE_SPLASH_WAKANDAN,Battle with Wakandan characters to earn A-Force Emblems and Orbs!
-ID_MOTD_NA_SPLASH_WAVE1,LIVE: Quick Rumble Blitz - Wave I - Avenger
-ID_MOTD_DE_SPLASH_WAVE1,Battle with Wave I - Avenger characters to earn A-Force Emblems and Iso-8!
 ID_MOTD_NA_SISTERGRIMM_TEASER,Coming Soon: Sister Grimm
 ID_MOTD_DE_SISTERGRIMM_TEASER,Earn Nico Minoru shards and A-Force of Nature progress!
 ID_MOTD_NA_SISTERGRIMM_ANNOUNCE,LIVE: Sister Grimm
@@ -1207,9 +1213,9 @@ ID_MOTD_DE_VICTORY_JUNE2022_PREVIEW,"Earn NEW T2 Level 4 Ions, Gold, and Rollin'
 ID_MOTD_NA_VICTORY_JUNE2022_LIVE,LIVE: Victory Blueprint
 ID_MOTD_DE_VICTORY_JUNE2022_LIVE,"Earn NEW T2 Level 4 Ions, Gold, and Rollin' Rebel progress."
 ID_MOTD_NA_COORDINATED_ASSAULT_TEASER,Coming Soon: Coordinated Assault
-ID_MOTD_DE_COORDINATED_ASSAULT_TEASER,Earn Ions and progress towards the Rollin' Rebel Event!
+ID_MOTD_DE_COORDINATED_ASSAULT_TEASER,Earn Ions and progress towards the Techno Future Event!
 ID_MOTD_NA_COORDINATED_ASSAULT_ANNOUNCE,LIVE: Coordinated Assault Alliance Milestone
-ID_MOTD_DE_COORDINATED_ASSAULT_ANNOUNCE,Earn Ions and progress towards the Rollin' Rebel Event!
+ID_MOTD_DE_COORDINATED_ASSAULT_ANNOUNCE,Earn Ions and progress towards the Techno Future Event!
 ID_MOTD_NA_JUNEMONTH2022_TEASER,Get Ready to Roll!
 ID_MOTD_DE_JUNEMONTH2022_TEASER,Recruit Dazzler with the June Rollin' Rebel Event
 ID_MOTD_NA_JUNEMONTH2022_ANNOUNCE,LIVE: Rollin' Rebel
@@ -1280,9 +1286,31 @@ ID_MOTD_NA_MAYHEM_SEASON21_TEAL_ANNOUNCE,Mojo's Mayhem: Season 21
 ID_MOTD_DE_MAYHEM_SEASON21_TEAL_ANNOUNCE,Ghost-Spider shards and Teal Gear
 ID_MOTD_NA_MAYHEM_SEASON21_ORANGE_ANNOUNCE,Mojo's Mayhem: Season 21
 ID_MOTD_DE_MAYHEM_SEASON21_ORANGE_ANNOUNCE,Ghost-Spider shards and Orange Gear
+ID_MOTD_NA_AUGUSTMETA2022_TEASER,Tech Upgrades are Coming
+ID_MOTD_DE_AUGUSTMETA2022_TEASER,Recruit Deathlok with August Events
+ID_MOTD_NA_AUGUSTMETA2022_ANNOUNCE,LIVE: Techno Future
+ID_MOTD_DE_AUGUSTMETA2022_ANNOUNCE,Recruit Deathlok by participating in August Events
+ID_MOTD_NA_RIDEOFTHEVALKYRIE_TEASER,Coming Soon: Ride of the Valkyrie
+ID_MOTD_DE_RIDEOFTHEVALKYRIE_TEASER,Praise Odin: Valkyrie's costume & Techno Future progress!
+ID_MOTD_NA_RIDEOFTHEVALKYRIE_ANNOUNCE,LIVE: Ride of the Valkyrie
+ID_MOTD_DE_RIDEOFTHEVALKYRIE_ANNOUNCE,Praise Odin: Valkyrie's costume & Techno Future progress!
+ID_MOTD_NA_VICTORY_AUGUST2022_PREVIEW,Coming Soon: Victory Blueprint
+ID_MOTD_DE_VICTORY_AUGUST2022_PREVIEW,"Earn NEW T2 Level 4 Ions, Gold, and Techno Future progress!"
+ID_MOTD_NA_VICTORY_AUGUST2022_LIVE,LIVE: Victory Blueprint
+ID_MOTD_DE_VICTORY_AUGUST2022_LIVE,"Earn NEW T2 Level 4 Ions, Gold, and Techno Future progress!"
 ID_MOTD_NA_PARTYINPARADISE_TEASER,Coming Soon: Party in Paradise
 ID_MOTD_DE_PARTYINPARADISE_TEASER,Earn Asgardian rewards & the Gauntlet of Heroes!
 ID_MOTD_NA_PARTYINPARADISE_ANNOUNCE,LIVE: Party in Paradise
 ID_MOTD_DE_PARTYINPARADISE_ANNOUNCE,Asgardian rewards & the Gauntlet of Heroes!
+ID_MOTD_NA_SPLASH_DARKHOLD,LIVE: Tech Wizardry
+ID_MOTD_DE_SPLASH_DARKHOLD,Blitz with Darkhold to earn Relay-Circuits and Ability Materials!
+ID_MOTD_NA_SPLASH_COSMICMUTANT,LIVE: X-Tech
+ID_MOTD_DE_SPLASH_COSMICMUTANT,Blitz with Cosmic Mutant characters to earn Relay-Circuits and Orbs!
+ID_MOTD_NA_SPLASH_HEROESFORHIRE,LIVE: Cyber Security
+ID_MOTD_DE_SPLASH_HEROESFORHIRE,Battle with Heroes for Hire characters to earn Relay-Circuits and Iso-8!
+ID_MOTD_NA_SPLASH_WAVE1,LIVE: Iron Avengers
+ID_MOTD_DE_SPLASH_WAVE1,Blitz with Wave I - Avengers to earn Relay-Circuits and Gear!
 ID_MOTD_NA_DEATHLOK_PREVIEW,Coming Soon: Deathlok
 ID_MOTD_DE_DEATHLOK_PREVIEW,Check our blog for details on this Bionic Avenger
+ID_MOTD_NA_DEATHLOK_ANNOUNCE,Now Available: Deathlok
+ID_MOTD_DE_DEATHLOK_ANNOUNCE,The Demolisher

@@ -2606,6 +2606,21 @@ ID_MISSION_RAID_DOOM02_SKILLBOSS_NAME,Skill Boss
 ID_MISSION_RAID_DOOM02_TECH01_NAME,Tech Mission 1
 ID_MISSION_RAID_DOOM02_TECH02_NAME,Tech Mission 2
 ID_MISSION_RAID_DOOM02_TECHBOSS_NAME,Tech Boss
+ID_MISSION_RAID_DOOM03_BIO01_NAME,Bio Mission 1
+ID_MISSION_RAID_DOOM03_BIO02_NAME,Bio Mission 2
+ID_MISSION_RAID_DOOM03_BIOBOSS_NAME,Bio Boss
+ID_MISSION_RAID_DOOM03_MUTANT01_NAME,Mutant Mission 1
+ID_MISSION_RAID_DOOM03_MUTANT02_NAME,Mutant Mission 2
+ID_MISSION_RAID_DOOM03_MUTANTBOSS_NAME,Mutant Boss
+ID_MISSION_RAID_DOOM03_MYSTIC01_NAME,Mystic Mission 1
+ID_MISSION_RAID_DOOM03_MYSTIC02_NAME,Mystic Mission 2
+ID_MISSION_RAID_DOOM03_MYSTICBOSS_NAME,Mystic Boss
+ID_MISSION_RAID_DOOM03_SKILL01_NAME,Skill Mission 1
+ID_MISSION_RAID_DOOM03_SKILL02_NAME,Skill Mission 2
+ID_MISSION_RAID_DOOM03_SKILLBOSS_NAME,Skill Boss
+ID_MISSION_RAID_DOOM03_TECH01_NAME,Tech Mission 1
+ID_MISSION_RAID_DOOM03_TECH02_NAME,Tech Mission 2
+ID_MISSION_RAID_DOOM03_TECHBOSS_NAME,Tech Boss
 ID_ECM_SERSI_01_DESC,Thanos leads an assault on Earth. The Eternals Sersi and Ikaris fight to defend the world they were created to defend.
 ID_ECM_SERSI_01_NAME,Protectors of the Great Machine
 ID_ECM_SERSI_02_DESC,"Sersi decides to assist S.T.R.I.K.E. to defend against more attacks, even if it means defying the Celestials."
@@ -2660,3 +2675,31 @@ ID_ECM_DOCTORVOODOO_08_NAME,Missing Puzzle Piece
 ID_ECM_DOCTORVOODOO_08_DESC,Doctor Voodoo and Magik discover who is behind the demonic possessions.
 ID_ECM_DOCTORVOODOO_09_NAME,Doomed From the Start
 ID_ECM_DOCTORVOODOO_09_DESC,"Doctor Voodoo attempts to throw a wrench in the sinister plan, and stop it from being realized."
+ID_ECM_MORGAN_01_NAME,A Deadly Coven
+ID_ECM_MORGAN_01_DESC,"After vanishing from S.T.R.I.K.E., Morgan Le Fay assembles mystic users to seek their help in freeing her from a new enemy."
+ID_ECM_MORGAN_02_NAME,Entering the Mountain
+ID_ECM_MORGAN_02_DESC,"The Darkhold contains a spell that can stop this phantom threat, but they must take it to its place of power - Mount Wundagore!"
+ID_ECM_MORGAN_03_NAME,Mountain of Madness
+ID_ECM_MORGAN_03_DESC,"As the ritual begins, the Scarlet Witch and her allies face the consequences of using such dark magic!"
+ID_ECM_MORGAN_04_NAME,Inner Demons
+ID_ECM_MORGAN_04_DESC,The mix of powerful magics has unleashed the team's inner demons both figuratively and physically!
+ID_ECM_MORGAN_05_NAME,Pestilence Awakens
+ID_ECM_MORGAN_05_DESC,"Her plan revealed, Morgan Le Fay becomes her truest self - the horseman Pestilence!"
+ID_ECM_VIVVISION_01_NAME,Return to Castle Doom
+ID_ECM_VIVVISION_01_DESC,"While looking for a missing Morgan Le Fay, the Bionic Avengers face off against a super-powered Doombot."
+ID_ECM_VIVVISION_02_NAME,Search for Victoria
+ID_ECM_VIVVISION_02_DESC,Viv Vision finds an important clue and follows it despite her father's wishes.
+ID_ECM_VIVVISION_03_NAME,Adaptoid Attack
+ID_ECM_VIVVISION_03_DESC,"In an A.I.M. Lab, Viv discovers a new breed of android assailants."
+ID_ECM_VIVVISION_04_NAME,Heart of Iron
+ID_ECM_VIVVISION_04_DESC,"Surrounded and in unfamiliar territory, Viv is aided at the last minute by a dear friend."
+ID_ECM_VIVVISION_05_NAME,Bust Through
+ID_ECM_VIVVISION_05_DESC,Gamma-powered enemies? Tony Stark has a suit just for that.
+ID_ECM_VIVVISION_06_NAME,Tracing the Path
+ID_ECM_VIVVISION_06_DESC,More Gamma enemies attack! Viv and Iron Heart have to hold them off until they find the next clue in their search.
+ID_ECM_VIVVISION_07_NAME,The Scarlet Witch
+ID_ECM_VIVVISION_07_DESC,"Deep within a lonely mountain, Viv and Riri encounter a dangerous enemy."
+ID_ECM_VIVVISION_08_NAME,The Truth
+ID_ECM_VIVVISION_08_DESC,"With Wanda snapped out of her trance, Viv discovers what she has been searching for this whole time."
+ID_ECM_VIVVISION_09_NAME,Family Reunion
+ID_ECM_VIVVISION_09_DESC,Viv is ready to return home when an enemy with ties to her past arrives!

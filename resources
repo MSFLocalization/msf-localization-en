@@ -88,7 +88,7 @@ ID_HEAL-ARENA-CUR_NAME,Blitz Charge
 ID_HEAL-ARENA-CUR_DESCRIPTION,Use Blitz Charges to recharge your characters to fight in Blitz.
 ID_HEAL-CAMPAIGN-CUR_DESCRIPTION,Blitz Charges are used to reset cooldown timers on your characters in Blitz.
 ID_CONSUMABLE-WAR-CUR_NAME,Defense Boost
-ID_CONSUMABLE-WAR-CUR_DESCRIPTION,Apply <color=#86e619>3</color> counts of <color=#fff568>Deflect</color> to a defending squad in War.
+ID_CONSUMABLE-WAR-CUR_DESCRIPTION,Apply <color=#86e619>3</color> counts of <color=#fff568>Minor Deflect</color> to a defending squad in War.
 ID_HEAL-WAR-CUR_NAME,War Health Pack
 ID_HEAL-WAR-CUR_DESCRIPTION,War Health Pack is used to heal and revive your characters in War.
 ID_HEAL-RAID-CUR_NAME,Raid Health Pack
@@ -105,10 +105,12 @@ ID_ABILITY_MATERIAL_PURPLE_ABILITY_MAT_NAME,T3 Ability Material
 ID_ABILITY_MATERIAL_PURPLE_ABILITY_MAT_DESCRIPTION,Used to upgrade character abilities.
 ID_ABILITY_MATERIAL_ORANGE_ABILITY_MAT_NAME,T4 Ability Material
 ID_ABILITY_MATERIAL_ORANGE_ABILITY_MAT_DESCRIPTION,Used to upgrade character abilities.
-ID_ABILITY_MATERIAL_RED_ABILITY_MAT_NAME,T5 Ability Material
-ID_ABILITY_MATERIAL_RED_ABILITY_MAT_DESCRIPTION,Used to upgrade character abilities.
-ID_ABILITY_MATERIAL_WHITE_ABILITY_MAT_NAME,T6 Ability Material
-ID_ABILITY_MATERIAL_WHITE_ABILITY_MAT_DESCRIPTION,Used to upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_NAME,Unique T5 Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_DESCRIPTION,Used to upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MORGANLEFAY_PASSIVE_NAME,Morgan Le Fay's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MORGANLEFAY_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MORGANLEFAY_SPECIAL_NAME,Morgan Le Fay's Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MORGANLEFAY_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
 ID_HELIMAT_ARMORY_NAME,Stark Tech Helicarrier Component
 ID_HELIMAT_ARMORY_DESCRIPTION,Used to upgrade the Stark Tech in the Helicarrier.
 ID_HELIMAT_BARRACKS_NAME,Barracks Helicarrier Component
@@ -171,6 +173,26 @@ ID_EVENT_CUR8_NAME,Mjolnir Fragments
 ID_EVENT_CUR8_DESCRIPTION,Collect Mjolnir Fragments for points in the Summer of Thunder Event. Earn them in various events throughout the month of July!
 ID_EVENT_CUR9_NAME,Gauntlet of Heroes
 ID_EVENT_CUR9_DESCRIPTION,Collect Gauntlet of Heroes for points in the Summer of Thunder Event. Earn them in the upcoming Milestone Event!
+ID_EVENT_CUR10_NAME,Relay-Circuits
+ID_EVENT_CUR10_DESCRIPTION,Collect Relay-Circuits for points in the Techno Future Event. Earn them in various events throughout the month of August!
+ID_EVENT_CUR11_NAME,Helium-Neon Laser Pistol
+ID_EVENT_CUR11_DESCRIPTION,Collect Helium-Neon Laser Pistol for points in the Techno Future Event. Earn them in the Ride of the Valkyrie Event!
+ID_EVENT_CUR12_NAME,Jet Boot
+ID_EVENT_CUR12_DESCRIPTION,Collect Jet Boot for points in the Techno Future Event. Earn them in the Victory Blueprint Event!
+ID_EVENT_CUR13_NAME,Adamantium Arm
+ID_EVENT_CUR13_DESCRIPTION,Collect Adamantium Arm for points in the Techno Future Event. Earn them in the Vision of Tomorrow Event!
+ID_EVENT_CUR14_NAME,A.I. Response Matrix
+ID_EVENT_CUR14_DESCRIPTION,Collect A.I. Response Matrix for points in the Techno Future Event. Earn them in the Monster VS Machine Event!
+ID_EVENT_CUR15_NAME,Valhalla Orb Fragments
+ID_EVENT_CUR15_DESCRIPTION,Collect Valhalla Orb Fragments to earn progress in the Ride of the Valkyrie Event!
+ID_EVENT_CUR16_NAME,Event Currency 16
+ID_EVENT_CUR16_DESCRIPTION,Used to do Event Currency 16 related things.
+ID_EVENT_CUR17_NAME,Event Currency 17
+ID_EVENT_CUR17_DESCRIPTION,Used to do Event Currency 17 related things.
+ID_EVENT_CUR18_NAME,Event Currency 18
+ID_EVENT_CUR18_DESCRIPTION,Used to do Event Currency 18 related things.
+ID_EVENT_CUR19_NAME,Event Currency 19
+ID_EVENT_CUR19_DESCRIPTION,Used to do Event Currency 19 related things.
 ID_PROMOTION_CUR_NAME,Silver Promotion Credit
 ID_PROMOTION_CUR_DESCRIPTION,Used to promote specific characters (up to 5 Red Stars).\n\nBuy Red Star Promotions from the Supplies Store.
 ID_PROMOTION_CUR_ADV_NAME,Gold Promotion Credit

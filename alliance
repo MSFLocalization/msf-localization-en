@@ -180,7 +180,7 @@ ID_ALLIANCE_ROOM_BRIDGE_DESC,Worth 2x score value
 ID_ALLIANCE_ROOM_BRIDGE_EFFECTDESCRIPTION_1,<color=#00adef>[ROOM]</color>   Apply <color=#86e619>10</color> <color=#fff568>Positive Effects</color> randomly to <color=#fff568>DEFENDING ALLIES</color>
 ID_ALLIANCE_ROOM_HANGAR,Hangar
 ID_ALLIANCE_ROOM_HANGAR_DESC,Destruction disables enemy's attacks for 1 minute
-ID_ALLIANCE_ROOM_HANGAR_EFFECTDESCRIPTION_1,<color=#00adef>[GLOBAL]</color>   <color=#86e619>+10%</color> to Primary Stats to all <color=#fff568>ATTACKING War Ready ALLIES</color>\n<color=#00adef>[GLOBAL]</color>   Apply <color=#fff568>Deflect</color> to all <color=#fff568>ATTACKING ALLIES</color>
+ID_ALLIANCE_ROOM_HANGAR_EFFECTDESCRIPTION_1,<color=#00adef>[GLOBAL]</color>   <color=#86e619>+10%</color> to Primary Stats to all <color=#fff568>ATTACKING War Ready ALLIES</color>\n<color=#00adef>[GLOBAL]</color>   Apply <color=#fff568>Minor Deflect</color> to all <color=#fff568>ATTACKING ALLIES</color>
 ID_ALLIANCE_ROOM_REACTOR,Reactor
 ID_ALLIANCE_ROOM_REACTOR_DESC,Increases all COSMIC characters' damage by 5%
 ID_ALLIANCE_ROOM_REACTOR_EFFECTDESCRIPTION_1,<color=#00adef>[ROOM]</color>   Apply <color=#fff568>Disrupt</color> to <color=#fff568>ATTACKING ENEMIES</color>
@@ -538,7 +538,7 @@ ID_ENEMY_ALLIANCE_DEFAULT_NAME,Enemy Alliance
 ID_WAR_SUPPLIES_TITLE,WAR PREP
 ID_WAR_SUPPLIES_SUBTITLE,"Purchase supplies now, or restock in the Blitz store."
 ID_WAR_SUPPLIES_CONSUMABLE_CARD_TITLE,DEFENSE BOOST
-ID_WAR_SUPPLIES_CONSUMABLE_CARD_SUBTITLE,Apply Deflect to defensive teams
+ID_WAR_SUPPLIES_CONSUMABLE_CARD_SUBTITLE,Apply Minor Deflect to defensive teams
 ID_WAR_SUPPLIES_CONSUMABLE_LIMIT_DESC,You have reached the limit for applying Defense Boosts.
 ID_WAR_SUPPLIES_CONSUMABLE_LIMIT_TITLE,LIMIT REACHED
 ID_WAR_SUPPLIES_ENERGY_CARD_TITLE,WAR ENERGY

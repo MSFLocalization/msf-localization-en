@@ -1,4 +1,6 @@
 id,translation
+ID_SHARD_ABOMINATION_NAME,Abomination
+ID_SHARD_ABOMINATION_DESCRIPTION,"Transformed into a hideous monster by Gamma radiation, the Abomination uses his strength and spines to tear into enemies and shred their defenses."
 ID_SHARD_ADAMWARLOCK_NAME,Adam Warlock
 ID_SHARD_ADAMWARLOCK_DESCRIPTION,"Guardian of the Soul Stone, Adam Warlock prevents his Infinity Watch allies' positive effects from being cleared or flipped."
 ID_SHARD_AGATHAHARKNESS_NAME,Agatha Harkness
@@ -13,6 +15,8 @@ ID_SHARD_AIMSUPPORT_HEAL_NAME,A.I.M. Researcher
 ID_SHARD_AIMSUPPORT_HEAL_DESCRIPTION,A focused healer who applies and removes negative effects.
 ID_SHARD_AIMTANK_TAUNT_NAME,A.I.M. Security
 ID_SHARD_AIMTANK_TAUNT_DESCRIPTION,A resilient guard who taunts while healing herself and slowing her enemies.
+ID_SHARD_AMADEUSCHO_NAME,Brawn
+ID_SHARD_AMADEUSCHO_DESCRIPTION,"Brawn exercises his brilliant mind to control his Hulk persona, supporting his Gamma allies to keep them in the fight."
 ID_SHARD_AMERICACHAVEZ_NAME,America Chavez
 ID_SHARD_AMERICACHAVEZ_DESCRIPTION,America Chavez hits hard enough to punch through reality itself and is even stronger with Hero Brawler allies.
 ID_SHARD_ANTIVENOM_NAME,Anti-Venom
@@ -75,6 +79,8 @@ ID_SHARD_DAZZLER_NAME,Dazzler
 ID_SHARD_DAZZLER_DESCRIPTION,"International pop diva and super hero, Dazzler's mutant power to convert sound into energy creates light shows that can captivate audiences or protect her fellow X-Men in battle."
 ID_SHARD_DEADPOOL_NAME,Deadpool
 ID_SHARD_DEADPOOL_DESCRIPTION,A magical unicorn who specializes in stab-shooting vulnerable targets.
+ID_SHARD_DEATHLOK_NAME,Deathlok
+ID_SHARD_DEATHLOK_DESCRIPTION,"A soldier reanimated with cybernetic technology, Deathlok eviscerates the enemy team with debilitating blasts and boosts Bionic Avenger allies."
 ID_SHARD_DEATHPOOL_NAME,Deathpool
 ID_SHARD_DEATHPOOL_DESCRIPTION,"The daughter of the cosmic entity known as Death and, uh... Deadpool? Okay, wow. Deathpool combines her father's love of brawling with her mother's incredible supernatural powers."
 ID_SHARD_DOCTOROCTOPUS_NAME,Doctor Octopus
@@ -151,6 +157,8 @@ ID_SHARD_HEIMDALL_NAME,Heimdall
 ID_SHARD_HEIMDALL_DESCRIPTION,"The all-seeing guardian of the Bifrost, Heimdall removes Stealth from foes so Asgardians may strike."
 ID_SHARD_HELA_NAME,Hela
 ID_SHARD_HELA_DESCRIPTION,"The Goddess of Death, Hela spreads negative effects to foes while aided by her Undead Asgardian."
+ID_SHARD_HULKBUSTER_NAME,Hulkbuster
+ID_SHARD_HULKBUSTER_DESCRIPTION,"One of Tony Stark's incredible Iron Man suits, the Hulkbuster is a colossal guardian for its team, generating barriers and drawing enemy attacks."
 ID_SHARD_HUMANTORCH_NAME,Human Torch
 ID_SHARD_HUMANTORCH_DESCRIPTION,"A hotheaded Blaster, the Human Torch burns his enemies and boosts his allies' offense."
 ID_SHARD_HULK_NAME,Hulk
@@ -447,6 +455,8 @@ ID_SHARD_VENOM_NAME,Venom
 ID_SHARD_VENOM_DESCRIPTION,A symbiotic monstrosity that tears into opponents and spreads harmful effects.
 ID_SHARD_VISION_NAME,Vision
 ID_SHARD_VISION_DESCRIPTION,A synthetic being that avoids enemy attacks and disables his foes.
+ID_SHARD_VIVVISION_NAME,Viv Vision
+ID_SHARD_VIVVISION_DESCRIPTION,"Vision's synthetically created daughter, Viv bolsters her allied Bionic Avengers by generating Ability Energy and healing them so they can press the attack."
 ID_SHARD_VULTURE_NAME,Vulture
 ID_SHARD_VULTURE_DESCRIPTION,Vulture preys on enemies with negative status effects while dealing extra damage to City Heroes.
 ID_SHARD_WARMACHINE_NAME,War Machine

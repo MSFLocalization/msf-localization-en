@@ -1,4 +1,5 @@
 id,translation
+ID_MILESTONE_BLITZ_ABOMINATION,Win a Blitz battle with: Abomination
 ID_MILESTONE_BLITZ_ADAMWARLOCK,Win a Blitz battle with: Adam Warlock
 ID_MILESTONE_BLITZ_AGATHAHARKNESS,Win a Blitz battle with: Agatha Harkness
 ID_MILESTONE_BLITZ_AIMCONTROL_INFECT,Win a Blitz battle with: A.I.M. Infector
@@ -6,6 +7,7 @@ ID_MILESTONE_BLITZ_AIMDMG_OFFENSE,Win a Blitz battle with: A.I.M. Monstrosity
 ID_MILESTONE_BLITZ_AIMDMG_SPEED,Win a Blitz battle with: A.I.M. Assaulter
 ID_MILESTONE_BLITZ_AIMSUPPORT_HEAL,Win a Blitz battle with: A.I.M. Researcher
 ID_MILESTONE_BLITZ_AIMTANK_TAUNT,Win a Blitz battle with: A.I.M. Security
+ID_MILESTONE_BLITZ_AMADEUSCHO,Win a Blitz battle with: Brawn
 ID_MILESTONE_BLITZ_AMERICACHAVEZ,Win a Blitz battle with: America Chavez
 ID_MILESTONE_BLITZ_ANTIVENOM,Win a Blitz battle with: Anti-Venom
 ID_MILESTONE_BLITZ_ANTMAN,Win a Blitz battle with: Ant-Man
@@ -35,6 +37,7 @@ ID_MILESTONE_BLITZ_DAGGER,Win a Blitz battle with: Dagger
 ID_MILESTONE_BLITZ_DAREDEVIL,Win a Blitz battle with: Daredevil
 ID_MILESTONE_BLITZ_DAZZLER,Win a Blitz battle with: Dazzler
 ID_MILESTONE_BLITZ_DEADPOOL,Win a Blitz battle with: Deadpool
+ID_MILESTONE_BLITZ_DEATHLOK,Win a Blitz battle with: Deathlok
 ID_MILESTONE_BLITZ_DEATHPOOL,Win a Blitz battle with: Deathpool
 ID_MILESTONE_BLITZ_DOCTOROCTOPUS,Win a Blitz battle with: Doctor Octopus
 ID_MILESTONE_BLITZ_DOCTORSTRANGE,Win a Blitz battle with: Doctor Strange
@@ -67,6 +70,7 @@ ID_MILESTONE_BLITZ_HAWKEYE,Win a Blitz battle with: Hawkeye
 ID_MILESTONE_BLITZ_HEIMDALL,Win a Blitz battle with: Heimdall
 ID_MILESTONE_BLITZ_HELA,Win a Blitz battle with: Hela
 ID_MILESTONE_BLITZ_HULK,Win a Blitz battle with: Hulk
+ID_MILESTONE_BLITZ_HULKBUSTER,Win a Blitz battle with: Hulkbuster
 ID_MILESTONE_BLITZ_HUMANTORCH,Win a Blitz battle with: Human Torch
 ID_MILESTONE_BLITZ_HYDRADMG_AOE,Win a Blitz battle with: Hydra Grenadier
 ID_MILESTONE_BLITZ_HYDRADMG_BUFF,Win a Blitz battle with: Hydra Rifle Trooper
@@ -195,6 +199,7 @@ ID_MILESTONE_BLITZ_ULTSPIDERMAN,Win a Blitz battle with: Spider-Man (Miles)
 ID_MILESTONE_BLITZ_VALKYRIE,Win a Blitz battle with: Valkyrie
 ID_MILESTONE_BLITZ_VENOM,Win a Blitz battle with: Venom
 ID_MILESTONE_BLITZ_VISION,Win a Blitz battle with: Vision
+ID_MILESTONE_BLITZ_VIVVISION,Win a Blitz battle with: Viv Vision
 ID_MILESTONE_BLITZ_VULTURE,Win a Blitz battle with: Vulture
 ID_MILESTONE_BLITZ_WARMACHINE,Win a Blitz battle with: War Machine
 ID_MILESTONE_BLITZ_WASP,Win a Blitz battle with: Wasp
@@ -227,12 +232,12 @@ ID_QU_LM_SPLASH_WAKANDAN,Earn points by using Wakandan characters in Blitz Battl
 ID_QU_SC_SPLASH_WAKANDAN,Use Wakandan Characters in Blitz
 ID_QU_S1_SPLASH_WAKANDAN,Win a Blitz or Simmed Blitz battle with any 5-star or higher Wakandan Character
 ID_QU_S2_SPLASH_WAKANDAN,Win a Blitz or Simmed Blitz battle with any 7-star Wakandan Character
-ID_QU_NA_SPLASH_WAVE1,Quick Rumble - Wave 1 - Avenger
+ID_QU_NA_SPLASH_WAVE1,Iron Avengers
 ID_QU_SD_SPLASH_WAVE1,Use Wave 1 - Avenger in Blitz
 ID_QU_LM_SPLASH_WAVE1,Earn points by using Wave 1 - Avenger characters in Blitz Battles. Earn more points if your Wave 1 - Avenger characters are 5 Stars and higher and even more points if they are 7 Stars.
 ID_QU_SC_SPLASH_WAVE1,Use Wave 1 - Avenger Characters in Blitz
-ID_QU_S1_SPLASH_WAVE1,Win a Blitz or Simmed Blitz battle with any 5-star or higher Wave 1 - Avenger Character
-ID_QU_S2_SPLASH_WAVE1,Win a Blitz or Simmed Blitz battle with any 7-star Wave 1 - Avenger Character
+ID_QU_S1_SPLASH_WAVE1,Win a Blitz battle with any 5-star or higher Wave 1 - Avenger Character
+ID_QU_S2_SPLASH_WAVE1,Win a Blitz battle with any 7-star Wave 1 - Avenger Character
 ID_QU_SM_SPLASH_JUNE,Use Featured Characters in Blitz to earn Disco Balls
 ID_QU_NA_SPLASH_GUARDIAN,Guardians Groove
 ID_QU_SD_SPLASH_GUARDIAN,Use Guardians of the Galaxy in Blitz
@@ -289,6 +294,24 @@ ID_QU_LM_SPLASH_ASGARDIAN,Earn points by using Asgardian characters in Blitz Bat
 ID_QU_SC_SPLASH_ASGARDIAN,Use Asgardian Characters in Blitz
 ID_QU_S1_SPLASH_ASGARDIAN,Win a Blitz battle with any 5-star or higher Asgardian Character
 ID_QU_S2_SPLASH_ASGARDIAN,Win a Blitz battle with any 7-star Asgardian Character
+ID_QU_NA_SPLASH_DARKHOLD,Tech Wizardry
+ID_QU_SD_SPLASH_DARKHOLD,Use Darkhold in Blitz
+ID_QU_LM_SPLASH_DARKHOLD,Earn points by using Darkhold characters in Blitz Battles. Earn more points if your Darkhold characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_DARKHOLD,Use Darkhold Characters in Blitz
+ID_QU_S1_SPLASH_DARKHOLD,Win a Blitz battle with any 5-star or higher Darkhold Character
+ID_QU_S2_SPLASH_DARKHOLD,Win a Blitz battle with any 7-star Darkhold Character
+ID_QU_NA_SPLASH_COSMICMUTANT,X-Tech
+ID_QU_SD_SPLASH_COSMICMUTANT,Use Cosmic Mutant in Blitz
+ID_QU_LM_SPLASH_COSMICMUTANT,Earn points by using Cosmic Mutant characters in Blitz Battles. Earn more points if your Cosmic Mutant characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_COSMICMUTANT,Use Cosmic Mutant Characters in Blitz
+ID_QU_S1_SPLASH_COSMICMUTANT,Win a Blitz battle with any 5-star or higher Cosmic Mutant Character
+ID_QU_S2_SPLASH_COSMICMUTANT,Win a Blitz battle with any 7-star Cosmic Mutant Character
+ID_QU_NA_SPLASH_HEROESFORHIRE,Cyber Security
+ID_QU_SD_SPLASH_HEROESFORHIRE,Use Heroes For Hire in Blitz
+ID_QU_LM_SPLASH_HEROESFORHIRE,Earn points by using Heroes For Hire characters in Blitz Battles. Earn more points if your Heroes For Hire characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_HEROESFORHIRE,Use Heroes For Hire Characters in Blitz
+ID_QU_S1_SPLASH_HEROESFORHIRE,Win a Blitz battle with any 5-star or higher Heroes For Hire Character
+ID_QU_S2_SPLASH_HEROESFORHIRE,Win a Blitz battle with any 7-star Heroes For Hire Character
 ID_QUEST_KNOCKOUT_GENERIC,Knock out any enemy with any character
 ID_QUEST_DAMAGE_GENERIC,Do damage with any character
 ID_QUEST_ABILITY_GENERIC,Use any ability with any character
@@ -1385,7 +1408,7 @@ ID_QU_NA_UNSTOPPABLE,Unstoppable Force
 ID_QU_NA_VICTORYBLUEPRINT,Victory Blueprint
 ID_QU_SM_VICTORYBLUEPRINT,Earn the new T2 Level 4 Ions
 ID_QU_SD_VICTORYBLUEPRINT,Earn T2 Level 4 Ions
-ID_QU_LD_VICTORYBLUEPRINT,"Earn Various valuable rewards including the new T2 Level 4 Ions and Cosmic Crucible Credits by spending Campaign Energy (excluding Iso-8 Campaign Energy), Earning War Credits (excluding Elite War Credits), and Spending War Energy Refills."
+ID_QU_LD_VICTORYBLUEPRINT,"Earn Various valuable rewards including the new T2 Level 4 Ions by spending Campaign Energy (excluding Iso-8 Campaign Energy), Earning War Credits (excluding Elite War Credits), and Spending War Energy Refills."
 ID_QU_S1_VICTORYBLUEPRINT,Earn 1 War Credit
 ID_QU_S2_VICTORYBLUEPRINT,Spend 1 War Energy Refill
 ID_QU_NA_SISTERGRIMM,Sister Grimm
@@ -1549,6 +1572,33 @@ ID_QU_SD_ELECTRICAESIR,Win or Lose Raid Battle
 ID_QU_LM_ELECTRICAESIR,Play Raid Battles to earn Lines of Lightning Orbs
 ID_QU_SM_ELECTRICAESIR,Earn points playing Raid
 ID_QU_S0_ELECTRICAESIR,Win or Lose 1 Raid Battle
+ID_QU_NA_AUGUSTMETA2022,Techno Future
+ID_QU_SD_AUGUSTMETA2022,Participate in August events
+ID_QU_LM_AUGUSTMETA2022,Participate in various events throughout the month of August to earn milestone progress.
+ID_QU_S1_AUGUSTMETA2022,Collect 1 Relay-Circuit
+ID_QU_S2_AUGUSTMETA2022,Collect 1 Helium-Neon Laser Pistol
+ID_QU_S3_AUGUSTMETA2022,Collect 1 Jet Boot
+ID_QU_S4_AUGUSTMETA2022,Collect 1 Adamantium Arm
+ID_QU_S5_AUGUSTMETA2022,Collect 1 A.I. Response Matrix
+ID_QU_NA_AUGUSTALLIANCE2022,Coordinated Assault
+ID_QU_NA_RIDEOFTHEVALKYRIE,Ride of the Valkyrie
+ID_QU_SD_RIDEOFTHEVALKYRIE,Earn Valhalla Orb Fragments
+ID_QU_LM_RIDEOFTHEVALKYRIE,Earn Valhalla Orb Fragments in Avenging Asgard Milestone and Shield Maiden Mayhem Milestone.
+ID_QU_SM_RIDEOFTHEVALKYRIE,Earn points by acquiring Valhalla Orb Fragments
+ID_QU_S1_RIDEOFTHEVALKYRIE,Earn 1 Valhalla Orb Fragment
+ID_QU_NA_AVENGINGASGARD,Avenging Asgard
+ID_QU_SD_AVENGINGASGARD,Win in Blitz
+ID_QU_LM_AVENGINGASGARD,Win in Blitz to earn Valhalla Orbs
+ID_QU_SM_AVENGINGASGARD,Earn points by participating in Blitz
+ID_QU_S0_AVENGINGASGARD,Win 1 Blitz Battle
+ID_QU_S1_AVENGINGASGARD,Win or Lose 1 Arena Battle
+ID_QU_S2_AVENGINGASGARD,Blitz Win with Asgardians at Gear Tier 13+
+ID_QU_S3_AVENGINGASGARD,Blitz Win with Asgardians at Gear Tier 15+
+ID_QU_NA_SHIELDMAIDENMAYHEM,Shield Maiden Mayhem
+ID_QU_SD_SHIELDMAIDENMAYHEM,Win or Lose Arena Battle
+ID_QU_LM_SHIELDMAIDENMAYHEM,Play Arena Battles to earn Valhalla Orbs
+ID_QU_SM_SHIELDMAIDENMAYHEM,Earn points playing Arena
+ID_QU_S0_SHIELDMAIDENMAYHEM,Win or Lose 1 Raid Battle
 ID_QU_NA_PARTYINPARADISE,Party in Paradise
 ID_QU_SD_PARTYINPARADISE,Open Party Animal Orbs
 ID_QU_LD_PARTYINPARADISE,"Open Party Animal Orbs from the Hammer of the Gods Event Campaign and the Midgard Mash milestones, and by spending Power Cores. Rewards include:\n\n- Valkyrie Gear\n- Asgardian Shards\n- Gauntlet of Heroes\n- Mjolnir Fragments\n- 5 Red Star Thor\n- And more!"

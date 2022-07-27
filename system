@@ -7,8 +7,8 @@ ID_AUTH_FACEBOOK_CONNECT,Connect with\nFacebook
 ID_AUTH_FACEBOOK_CONNECTED,Sign out of\nFacebook
 ID_AUTH_APPLESSO_CONNECT,Sign in with Apple
 ID_AUTH_APPLESSO_CONNECTED,Sign out
-ID_AUTH_SCOPELY_CONNECT,Sign in with ScopelyID
-ID_AUTH_SCOPELY_CONNECTED,Sign out of ScopelyID
+ID_AUTH_SCOPELY_CONNECT,Sign in with Scopely
+ID_AUTH_SCOPELY_CONNECTED,Sign out of Scopely
 ID_AUTH_LINK_FAILED,Failed to link account. Please try again later or contact Customer Support.
 ID_AUTH_LINK_ALREADY_LINKED,This account is linked to another player. Switch to that player?
 ID_AUTH_LINK_ALREADY_LINKED_TITLE,CONFIRMATION REQUIRED
@@ -545,6 +545,7 @@ ID_UI_ONLY_SPIRITSLAYER,ONLY <color=#fff568>SPIRIT SLAYER</color> CHARACTERS
 ID_UI_ONLY_UNYIELDING,ONLY <color=#fff568>UNYIELDING</color> CHARACTERS
 ID_UI_ONLY_DEBONAIR,ONLY <color=#fff568>DEBONAIR</color> CHARACTERS
 ID_UI_ONLY_PARTYANIMAL,ONLY <color=#fff568>PARTY ANIMAL</color> CHARACTERS
+ID_UI_ONLY_IRONWILLED,ONLY <color=#fff568>IRON-WILLED</color> CHARACTERS
 ID_UI_ONLY_DEFIANT_CHAR,ONLY <color=#fff568>DEFIANT</color> CHARACTERS
 ID_UI_ONLY_MISFIT_CHARS,ONLY <color=#fff568>MISFIT</color> CHARACTERS
 ID_UI_ONLY_VILLAIN_CHARS,ONLY <color=#9e0b0f>VILLAIN</color> CHARACTERS
@@ -667,7 +668,7 @@ ID_SUGGESTED_LEVEL_72,FOR <color=#fff568>LEVEL 72+</color>
 ID_SUGGESTED_LEVEL_73,FOR <color=#fff568>LEVEL 73+</color>
 ID_SUGGESTED_LEVEL_74,FOR <color=#fff568>LEVEL 74+</color>
 ID_SUGGESTED_LEVEL_75,FOR <color=#fff568>LEVEL 75+</color>
-ID_MAINTENANCE_TOASTER_SCHEDULED,We will undergo maintenance starting at 12PM (PDT) (07/27).
+ID_MAINTENANCE_TOASTER_SCHEDULED,We will undergo maintenance starting at 11AM (PST) (02/19).
 ID_MAINTENANCE_TOASTER_EMERGENCY,We will be undergoing emergency maintenance shortly.
 ID_MAINTENANCE_TOASTER_EVENT01,We will be undergoing maintenance shortly.
 ID_MAINTENANCE_TOASTER_EVENT02,Update available. Get the latest app version now.
@@ -916,6 +917,7 @@ ID_REQUIRES_EC_SPIRITSLAYER_5,5 <color=#fff568>SPIRIT SLAYER</color> Characters 
 ID_REQUIRES_EC_UNYIELDING_5,5 <color=#fff568>UNYIELDING</color> Characters REQUIRED
 ID_REQUIRES_EC_DEBONAIR_5,5 <color=#fff568>DEBONAIR</color> Characters REQUIRED
 ID_REQUIRES_EC_PARTYANIMAL_5,5 <color=#fff568>PARTY ANIMAL</color> Characters REQUIRED
+ID_REQUIRES_EC_IRONWILLED_5,5 <color=#fff568>IRON-WILLED</color> Characters REQUIRED
 ID_REQUIRES_EC_DEFIANT_5,5 <color=#fff568>DEFIANT</color> Characters REQUIRED
 ID_REQUIRES_EC_GALACTICWARRIORS_3,3 <color=#fff568>GALACTIC WARRIOR</color> Characters REQUIRED
 ID_REQUIRES_EC_GALACTICWARRIORS_5,5 <color=#fff568>GALACTIC WARRIOR</color> Characters REQUIRED
@@ -1019,18 +1021,28 @@ ID_REQUIRES_MEC_FA_WS_4,"Falcon, Winter Soldier, Captain America, Baron Zemo <co
 ID_REQUIRES_ISO_BIO_T1_LV03,Level 3 Iso-8 Bio Characters <color=#fff568>REQUIRED</color>
 ID_REQUIRES_ISO_BIO_T1_LV04,Level 4 Iso-8 Bio Characters <color=#fff568>REQUIRED</color>
 ID_REQUIRES_ISO_BIO_T1_LV05,Level 5 Iso-8 Bio Characters <color=#fff568>REQUIRED</color>
+ID_REQUIRES_ISO_BIO_T1_LV07,Tier 2 Level 2 Iso-8 Bio Characters <color=#fff568>REQUIRED</color>
+ID_REQUIRES_ISO_BIO_T1_LV08,Tier 2 Level 3 Iso-8 Bio Characters <color=#fff568>REQUIRED</color>
 ID_REQUIRES_ISO_MUTANT_T1_LV03,Level 3 Iso-8 Mutant Characters <color=#fff568>REQUIRED</color>
 ID_REQUIRES_ISO_MUTANT_T1_LV04,Level 4 Iso-8 Mutant Characters <color=#fff568>REQUIRED</color>
 ID_REQUIRES_ISO_MUTANT_T1_LV05,Level 5 Iso-8 Mutant Characters <color=#fff568>REQUIRED</color>
+ID_REQUIRES_ISO_MUTANT_T1_LV07,Tier 2 Level 2 Iso-8 Mutant Characters <color=#fff568>REQUIRED</color>
+ID_REQUIRES_ISO_MUTANT_T1_LV08,Tier 2 Level 3 Iso-8 Mutant Characters <color=#fff568>REQUIRED</color>
 ID_REQUIRES_ISO_MYSTIC_T1_LV03,Level 3 Iso-8 Mystic Characters <color=#fff568>REQUIRED</color>
 ID_REQUIRES_ISO_MYSTIC_T1_LV04,Level 4 Iso-8 Mystic Characters <color=#fff568>REQUIRED</color>
 ID_REQUIRES_ISO_MYSTIC_T1_LV05,Level 5 Iso-8 Mystic Characters <color=#fff568>REQUIRED</color>
+ID_REQUIRES_ISO_MYSTIC_T1_LV07,Tier 2 Level 2 Iso-8 Mystic Characters <color=#fff568>REQUIRED</color>
+ID_REQUIRES_ISO_MYSTIC_T1_LV08,Tier 2 Level 3 Iso-8 Mystic Characters <color=#fff568>REQUIRED</color>
 ID_REQUIRES_ISO_SKILL_T1_LV03,Level 3 Iso-8 Skill Characters <color=#fff568>REQUIRED</color>
 ID_REQUIRES_ISO_SKILL_T1_LV04,Level 4 Iso-8 Skill Characters <color=#fff568>REQUIRED</color>
 ID_REQUIRES_ISO_SKILL_T1_LV05,Level 5 Iso-8 Skill Characters <color=#fff568>REQUIRED</color>
+ID_REQUIRES_ISO_SKILL_T1_LV07,Tier 2 Level 2 Iso-8 Skill Characters <color=#fff568>REQUIRED</color>
+ID_REQUIRES_ISO_SKILL_T1_LV08,Tier 2 Level 3 Iso-8 Skill Characters <color=#fff568>REQUIRED</color>
 ID_REQUIRES_ISO_TECH_T1_LV03,Level 3 Iso-8 Tech Characters <color=#fff568>REQUIRED</color>
 ID_REQUIRES_ISO_TECH_T1_LV04,Level 4 Iso-8 Tech Characters <color=#fff568>REQUIRED</color>
 ID_REQUIRES_ISO_TECH_T1_LV05,Level 5 Iso-8 Tech Characters <color=#fff568>REQUIRED</color>
+ID_REQUIRES_ISO_TECH_T1_LV07,Tier 2 Level 2 Iso-8 Tech Characters <color=#fff568>REQUIRED</color>
+ID_REQUIRES_ISO_TECH_T1_LV08,Tier 2 Level 3 Iso-8 Tech Characters <color=#fff568>REQUIRED</color>
 ID_REQUIRES_TRAITS_BIO_ISO_LEVEL01_TIER04,REQUIRES: <color=#fff568>BIO</color> \nREQUIRES: <color=#fff568>ISO-8 TIER 1 LEVEL 4</color>
 ID_REQUIRES_TRAITS_SKILL_ISO_LEVEL01_TIER04,REQUIRES: <color=#fff568>SKILL</color> \nREQUIRES: <color=#fff568>ISO-8 TIER 1 LEVEL 4</color>
 ID_REQUIRES_TRAITS_TECH_ISO_LEVEL01_TIER04,REQUIRES: <color=#fff568>TECH</color> \nREQUIRES: <color=#fff568>ISO-8 TIER 1 LEVEL 4</color>
@@ -1082,8 +1094,10 @@ ID_REQUIRES_TRAITS_MUTANT_ISO_LEVEL03_TIER02,REQUIRES: <color=#fff568>MUTANT</co
 ID_REQUIRES_ISO_LEVEL02_TIER01,REQUIRES: <color=#fff568>ISO-8 TIER 2 LEVEL 1</color>
 ID_REQUIRES_ISO_LEVEL02_TIER02,REQUIRES: <color=#fff568>ISO-8 TIER 2 LEVEL 2</color>
 ID_REQUIRES_ISO_LEVEL02_TIER03,REQUIRES: <color=#fff568>ISO-8 TIER 2 LEVEL 3</color>
+ID_REQUIRES_ISO_LEVEL02_TIER04,REQUIRES: <color=#fff568>ISO-8 TIER 2 LEVEL 4</color>
 ID_REQUIRES_TRAITS_HERO,REQUIRES: <color=#fff568>HERO</color>
 ID_REQUIRES_TRAITS_VILLAIN,REQUIRES: <color=#fff568>VILLAIN</color>
 ID_REQUIRES_TRAITS_WW_DH,REQUIRES: <color=#fff568>WEB-WARRIOR OR DARK HUNTER</color>
 ID_REQUIRES_TRAITS_AF_INHUMAN_YA,"<size=30>REQUIRES: <color=#fff568>A-FORCE, INHUMAN OR YOUNG AVENGERS</color></size>"
 ID_REQUIRES_TRAITS_COSMIC_MYSTIC,REQUIRES: <color=#fff568>COSMIC MYSTIC</color>
+ID_UI_ONLY_DARKHOLD,ONLY <color=#fff568>DARKHOLD</color> CHARACTERS

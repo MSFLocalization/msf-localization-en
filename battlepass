@@ -55,3 +55,4 @@ ID_UI_BATTLEPASS_CLAIM_ALL_TITLE,CLAIMED REWARDS
 ID_BATTLEPASS_SEASON_START_INBOX_TITLE,(DUMMY) Season Start
 ID_BATTLEPASS_SEASON_START_INBOX_SUBJECT,(DUMMY) {name} has started
 ID_BATTLEPASS_SEASON_START_INBOX_BODY,(DUMMY) Your season has been jump-started with some Tokens.
+ID_BATTLEPASS_NOTIFICATION_CLOSE_END,Only 24 hours remaining in the Strike Pass! Come back and earn Strike Rewards!

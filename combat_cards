@@ -44,9 +44,9 @@ ID_SCOURGE_CARD_020_NAME,Gloating
 ID_SCOURGE_CARD_020_DESC,"When Any Player Character Dies, Enemies Gain <color=#86e619>{pass.on_death.abilityenergy.GainEnergyOnEnemyDeath.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Ability Energy"
 ID_SCOURGE_CARD_021_NAME,Whole Latte Power
 ID_SCOURGE_CARD_021_DESC,Enemies Generate <color=#86e619>{pass.on_gain_energy.abilityenergy.GainExtraEnergy.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Additional Ability Energy Each Time They Generate Ability Energy
-ID_SCOURGE_CARD_022_NAME,Power Fatigue II
+ID_SCOURGE_CARD_022_NAME,Power Fatigue I
 ID_SCOURGE_CARD_022_DESC,Player Character Special Abilities Cost <color=#86e619>{st.special_energycost_mod.1.combat_mods.session_stats.0.Stats.0.val}</color> More Ability Energy
-ID_SCOURGE_CARD_023_NAME,Power Fatigue I
+ID_SCOURGE_CARD_023_NAME,Power Fatigue II
 ID_SCOURGE_CARD_023_DESC,Player Character Ultimate Abilities Cost <color=#86e619>{st.ultimate_energycost_mod.1.combat_mods.session_stats.0.Stats.0.val}</color> More Ability Energy
 ID_SCOURGE_CARD_024_NAME,Weakened
 ID_SCOURGE_CARD_024_DESC,Player Character Healing Is Reduced By <color=#86e619>{st.health_gain_mod.-20.combat_mods.session_stats.0.Stats.0.val}%</color>

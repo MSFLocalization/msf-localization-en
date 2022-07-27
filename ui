@@ -81,6 +81,9 @@ ID_CLAIM,CLAIM
 ID_CONFIRMDIALOG_TEXT,Are you sure?
 ID_CONFIRMDIALOG_SPEND_TITLE,SPEND POWER CORES?
 ID_CONFIRMDIALOG_SPEND_HC,Are you sure you want to spend Power Cores on this purchase?
+ID_CONFIRMDIALOG_SPEND_COUNT_HC,Are you sure you want to spend {count} Power Cores on this purchase? Tapping Confirm will hide this dialog until tomorrow.
+ID_CONFIRMDIALOG_CURRENCY_SWITCH_TITLE,CURRENCY SWITCH
+ID_CONFIRMDIALOG_CURRENCY_SWITCH_COUNT,"Commander, you're out of orbs. Do you want to spend {count} {item} on this purchase?"
 ID_CONFIRM_RATE_HEADLINE,Rate MARVEL Strike Force
 ID_CONFIRM_RATE_BODY,Having fun? Let others know by rating our app.
 ID_CONFIRM_RATE_RATE,RATE
@@ -410,6 +413,7 @@ ID_OPTIONS_PORTAL_TITLE,WEB ACCESS CODE
 ID_OPTIONS_PORTAL_DESC,Get an access code that will let you log into our website.
 ID_OPTIONS_PORTAL_BUTTON,GET ACCESS CODE
 ID_OPTIONS_HIGHER_RENDERING_MODE,Enable higher rendering mode(60fps)
+ID_OPTIONS_DISABLE_LARGE_HC_PURCHASE_CONFIRMATION,Disable Large Power Core Purchase Confirmation
 ID_PLAYER_NAME_CHANGE_CONFIRM,CONFIRM
 ID_PLAYER_NAME_CHANGE_ENTER_NAME,Enter name...
 ID_PLAYER_NAME_CHANGE_ENTER_VALID,"Please enter a valid name. Symbols (<, >, {, }) and profanity are not allowed."
@@ -615,7 +619,12 @@ ID_UI_OPTIN_CONFIRM_DESC,"Email sign-up requires a connected account.\nFirst, co
 ID_UI_OPTIN_CONFIRM_HEADLINE,Email Opt In
 ID_UI_OPTIN_CONFIRM_MORE,MORE
 ID_UI_OPTIN_HEADLINE_LINK,Connect Your Account
+ID_UI_OPTIN_OPTIONS,Other log in options
 ID_UI_OK,OK
+ID_UI_REPORT,Report
+ID_UI_IGNORE,Ignore
+ID_UI_CLOSE,Close
+ID_UI_PLEASE_WAIT,Please wait...
 ID_UI_PLAYER_PROFILE,PLAYER PROFILE
 ID_UI_PREV_WITH_SYMBOL,< PREV
 ID_UI_RAID,ALLIANCE RAID
@@ -872,6 +881,8 @@ ID_EVENT_CAMPAIGN_TYPE_DOCTORVOODOO,DOCTOR VOODOO
 ID_EVENT_CAMPAIGN_TYPE_STRANGESUPREME,HEARTLESS
 ID_EVENT_CAMPAIGN_TYPE_FANTOMEX,FANTOMEX
 ID_EVENT_CAMPAIGN_TYPE_VALKYRIE,VALKYRIE
+ID_EVENT_CAMPAIGN_TYPE_MORGAN,MORGAN LE FAY
+ID_EVENT_CAMPAIGN_TYPE_VIVVISION,VIV VISION
 ID_OFFER_AND,AND
 ID_OFFER_OR,OR
 ID_CHAL_UNLOCK,UNLOCK
@@ -952,3 +963,12 @@ ID_UI_PASTE,Paste
 ID_UI_SELECT_ALL,Select All
 ID_UI_CUT,Cut
 ID_UI_REPLACE,Replace
+ID_FILESIZE_LESS_THAN_NUM_KILOBYTES,less than {num} kilobytes
+ID_FILESIZE_ABOUT_ONE_MEGABYTE,about 1 megabyte
+ID_FILESIZE_LESS_THAN_NUM_MEGABYTES,less than {num} megabytes
+ID_UI_COMBATLOGUPLOAD_PROMPT,It looks like something went wrong. Transmit diagnostic data ({size_estimate}) to help us fix the problem?
+ID_UI_COMBATLOGUPLOAD_CONFIRM,"Thank you for your patience, diagnostic data has been reported!"
+ID_OPTIONS_ACCOUNT_DELETION,ACCOUNT DELETION
+ID_OPTIONS_ACCOUNT_DELETION_CONFIRMATION_BODY,"Are you sure you want to delete your account?\n\nIf you submit an account deletion request, you will lose your in-game progress, all items and virtual currency that you earned or purchased in-game, and related account data. You will NOT be refunded for unused items you may have purchased. This action is PERMANENT and your account CANNOT be recovered once deleted. To proceed with account deletion, click ""Continue"" below."
+ID_OPTIONS_ACCOUNT_DELETION_CANCEL,NOT NOW
+ID_OPTIONS_ACCOUNT_DELETION_CONFIRM,CONTINUE

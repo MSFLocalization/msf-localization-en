@@ -18,6 +18,7 @@ ID_HORSEMEN_COMBAT_MOD_DESCRIPTION,Combat Modifier Description
 ID_HORSEMEN_HIGH_SCORE,High Score:
 ID_HORSEMEN_MILESTONE_RUN_SCORE,Milestone points are equal to your highest run score
 ID_HORSEMEN_LEADERBOARD_RUN_SCORE,Leaderboard score is your highest run score
+ID_HORSEMEN_VICTORS_LEADERBOARD_INFO,You have already attained max stars for this Horseman and are no longer eligible for rank rewards.
 ID_HORSEMEN_RULES_HEADER,Rules of the SCOURGE EVENT
 ID_HORSEMEN_RULES_SUBHEADER_01,APOCALYPSE COMES!
 ID_HORSEMEN_RULES_BODY_01,"Apocalypse's Horsemen are gathering to prepare the world for his presence. As their influence grows, vast scourges are unleashed. Fight hard, before you are overcome!"

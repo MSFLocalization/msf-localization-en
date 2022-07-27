@@ -40,6 +40,7 @@ ID_PVP_ERROR_INVALID_EVENT,"This event has already ended. Unfortunately, any mis
 ID_BLITZ_REQUIREMENT_BUTTON,Requirements
 ID_BLITZ_EVENT_RESTRICTED,Special
 ID_BLITZ_TEAM_SIZE,{number} vs {number}
+ID_BLITZ_TEAM_OFF_COOLDOWN,"All your characters are now ready, come back and Blitz!"
 ID_BLITZ_ISO8_CLASS_LEVEL_REQUIREMENT,Only Characters with Iso-8 Class Tier {tier} Level {level} or higher.
 ID_BLITZ_GEARTIER_REQUIREMENT,Only Characters with Gear Tier {number} or higher.
 ID_BLITZ_LEVEL_REQUIREMENT,Only Characters with Level {number} or higher.
@@ -103,6 +104,13 @@ ID_AR_MT_TRAINING,Live: Train Station Blitz
 ID_AR_MS_TRAINING,Your chance to win TRAINING Orbs!
 ID_AR_MB_TRAINING,<color=#fff568>Train Station Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win TRAINING Orbs!\n\nEarn tons of Training Modules now!
 ID_AR_NA_TRAINING_CARD,Train Station
+ID_AR_NA_ABOMINATION,Gamma Obsessed
+ID_AR_SM_ABOMINATION,Win Abomination Shards!
+ID_AR_LM_ABOMINATION,Face off against other players' teams to earn various milestone rewards and a chance to win Abomination shards!
+ID_AR_MT_ABOMINATION,LIVE: Gamma Obsessed Blitz
+ID_AR_MS_ABOMINATION,Your chance to win Abomination shards!
+ID_AR_MB_ABOMINATION,"<color=#fff568>Gamma Obsessed Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Abomination shards!\n\n<color=#fff568>Gamma Obsessed Orb</color>\nFor a limited time, a new Gamma Obsessed Orb is available in the Store. The orb contains <color=#fff568>only Abomination shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Abomination now!"
+ID_AR_NA_ABOMINATION_CARD,Gamma Obsessed
 ID_AR_NA_AGATHAHARKNESS,Coven Leader
 ID_AR_SM_AGATHAHARKNESS,Win Agatha Harkness Shards!
 ID_AR_LM_AGATHAHARKNESS,Face off against other players' teams to earn various milestone rewards and a chance to win Agatha Harkness shards!
@@ -145,6 +153,13 @@ ID_AR_MT_AIMTANK_TAUNT,LIVE: Crazed Survivor Blitz
 ID_AR_MS_AIMTANK_TAUNT,Your chance to win A.I.M. Security shards!
 ID_AR_MB_AIMTANK_TAUNT,"<color=#fff568>Crazed Survivor Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win A.I.M. Security shards!\n\n<color=#fff568>Crazed Survivor Orb</color>\nFor a limited time, a new Crazed Survivor Orb is available in the Store. The orb contains <color=#fff568>only A.I.M. Security shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit A.I.M. Security now!"
 ID_AR_NA_AIMTANK_TAUNT_CARD,Crazed Survivor
+ID_AR_NA_AMADEUSCHO,Totally Awesome
+ID_AR_SM_AMADEUSCHO,Win Brawn Shards!
+ID_AR_LM_AMADEUSCHO,Face off against other players' teams to earn various milestone rewards and a chance to win Brawn shards!
+ID_AR_MT_AMADEUSCHO,LIVE: Totally Awesome Blitz
+ID_AR_MS_AMADEUSCHO,Your chance to win Brawn shards!
+ID_AR_MB_AMADEUSCHO,"<color=#fff568>Totally Awesome Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Brawn shards!\n\n<color=#fff568>Totally Awesome Orb</color>\nFor a limited time, a new Totally Awesome Orb is available in the Store. The orb contains <color=#fff568>only Brawn shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Brawn now!"
+ID_AR_NA_AMADEUSCHO_CARD,Totally Awesome
 ID_AR_NA_AMERICACHAVEZ,Star Power
 ID_AR_SM_AMERICACHAVEZ,Win America Chavez Shards!
 ID_AR_LM_AMERICACHAVEZ,Face off against other players' teams to earn various milestone rewards and a chance to win America Chavez shards!
@@ -364,6 +379,13 @@ ID_AR_MT_DEADPOOL,LIVE: Merc with a Mouth Blitz
 ID_AR_MS_DEADPOOL,Your chance to win DEADPOOL shards.
 ID_AR_MB_DEADPOOL,Face off against other players' teams to earn various milestone rewards and a chance to win <color=#fff568>DEADPOOL</color> shards!
 ID_AR_NA_DEADPOOL_CARD,Merc with a Mouth
+ID_AR_NA_DEATHLOK,Total Destruction
+ID_AR_SM_DEATHLOK,Win Deathlok Shards!
+ID_AR_LM_DEATHLOK,Face off against other players' teams to earn various milestone rewards and a chance to win Deathlok shards!
+ID_AR_MT_DEATHLOK,LIVE: Total Destruction Blitz
+ID_AR_MS_DEATHLOK,Your chance to win Deathlok shards!
+ID_AR_MB_DEATHLOK,"<color=#fff568>Total Destruction Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Deathlok shards!\n\n<color=#fff568>Total Destruction Orb</color>\nFor a limited time, a new Total Destruction Orb is available in the Store. The orb contains <color=#fff568>only Deathlok shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Deathlok now!"
+ID_AR_NA_DEATHLOK_CARD,Total Destruction
 ID_AR_NA_DEATHPOOL,Grim Reaper
 ID_AR_SM_DEATHPOOL,Win Deathpool Shards!
 ID_AR_LM_DEATHPOOL,Face off against other players' teams to earn various milestone rewards and a chance to win Deathpool shards!
@@ -547,6 +569,13 @@ ID_AR_MT_HEIMDALL,LIVE: Gatekeeper Blitz
 ID_AR_MS_HEIMDALL,Your chance to win Heimdall shards!
 ID_AR_MB_HEIMDALL,"<color=#fff568>Gatekeeper Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Heimdall shards!\n\n<color=#fff568>Gatekeeper Orb</color>\nFor a limited time, a new Gatekeeper Orb is available in the Store. The orb contains <color=#fff568>only Heimdall shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Heimdall now!"
 ID_AR_NA_HEIMDALL_CARD,Gatekeeper
+ID_AR_NA_HULKBUSTER,Bulk Up
+ID_AR_SM_HULKBUSTER,Win Hulkbuster Shards!
+ID_AR_LM_HULKBUSTER,Face off against other players' teams to earn various milestone rewards and a chance to win Hulkbuster shards!
+ID_AR_MT_HULKBUSTER,LIVE: Bulk Up Blitz
+ID_AR_MS_HULKBUSTER,Your chance to win Hulkbuster shards!
+ID_AR_MB_HULKBUSTER,"<color=#fff568>Bulk Up Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Hulkbuster shards!\n\n<color=#fff568>Bulk Up Orb</color>\nFor a limited time, a new Bulk Up Orb is available in the Store. The orb contains <color=#fff568>only Hulkbuster shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Hulkbuster now!"
+ID_AR_NA_HULKBUSTER_CARD,Bulk Up
 ID_AR_NA_HUMANTORCH,Flame On
 ID_AR_SM_HUMANTORCH,Win Human Torch Shards!
 ID_AR_LM_HUMANTORCH,Face off against other players' teams to earn various milestone rewards and a chance to win Human Torch shards!
@@ -1279,6 +1308,13 @@ ID_AR_MT_VISION,LIVE: Synthezoid Blitz
 ID_AR_MS_VISION,Your chance to win VISION shards.
 ID_AR_MB_VISION,"<color=#fff568>Synthezoid Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Vision shards!\n\n<color=#fff568>Synthezoid Orb</color>\nFor a limited time, a new Synthezoid Orb is available in the Store. The orb contains <color=#fff568>only Vision shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Vision now!"
 ID_AR_NA_VISION_CARD,Synthezoid
+ID_AR_NA_VIVVISION,Champion
+ID_AR_SM_VIVVISION,Win Viv Vision Shards!
+ID_AR_LM_VIVVISION,Face off against other players' teams to earn various milestone rewards and a chance to win Viv Vision shards!
+ID_AR_MT_VIVVISION,LIVE: Champion Blitz
+ID_AR_MS_VIVVISION,Your chance to win Viv Vision shards!
+ID_AR_MB_VIVVISION,"<color=#fff568>Champion Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Viv Vision shards!\n\n<color=#fff568>Champion Orb</color>\nFor a limited time, a new Champion Orb is available in the Store. The orb contains <color=#fff568>only Viv Vision shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Viv Vision now!"
+ID_AR_NA_VIVVISION_CARD,Champion
 ID_AR_NA_VULTURE,Bird of Prey
 ID_AR_SM_VULTURE,Win Vulture Shards!
 ID_AR_LM_VULTURE,Face off against other players' teams to earn various milestone rewards and a chance to win Vulture shards!

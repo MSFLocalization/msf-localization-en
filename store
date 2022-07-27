@@ -175,6 +175,10 @@ ID_GACHA_CRATE_GT16_C5_C9_NAME,Armory 16 Orb
 ID_GACHA_CRATE_GT16_C5_C9_DESCRIPTION,Earn 2 Gear Tier 16 Mini-Uniques
 ID_GACHA_CRATE_GT16_C5_C9_TOKEN_NAME,Armory 16 Orb Fragments
 ID_GACHA_CRATE_GT16_C5_C9_TOKEN_DESCRIPTION,Collect Armory 16 Orb Fragments to earn an Armory 16 Orb.\nArmory 16 Orb unlocks at level 80.
+ID_GACHA_CRATE_GT17_C1_C8_NAME,Armory 17 Orb
+ID_GACHA_CRATE_GT17_C1_C8_DESCRIPTION,Earn 2 Gear Tier 17 Mini-Uniques
+ID_GACHA_CRATE_GT17_C1_C8_TOKEN_NAME,Armory 17 Orb Fragments
+ID_GACHA_CRATE_GT17_C1_C8_TOKEN_DESCRIPTION,Collect Armory 17 Orb Fragments to earn an Armory 17 Orb.\nArmory 17 Orb unlocks at level 85.
 ID_GACHA_CRATE_ABILITYMAT_PURPLE_NAME,T3 Ability Orb
 ID_GACHA_CRATE_ABILITYMAT_PURPLE_DESCRIPTION,Guarantees T3 Ability Materials
 ID_GACHA_CRATE_ABILITYMAT_PURPLE_TOKEN_NAME,T3 Ability Orb Fragments
@@ -229,10 +233,18 @@ ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_NAME,Orange Gear Raid Orb
 ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_DESCRIPTION,Contains orange gear materials
 ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Gear Raid Orb Fragments to earn an Orange Gear Raid Orb
 ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_TOKEN_NAME,Orange Gear Raid Orb Fragments
+ID_GACHA_CRATE_RAID_ELITE_ORANGE_GEARMATS_NAME,Orange Elite Orb
+ID_GACHA_CRATE_RAID_ELITE_ORANGE_GEARMATS_DESCRIPTION,Contains orange gear and Unique gear materials
+ID_GACHA_CRATE_RAID_ELITE_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Elite Orb Fragments to earn an Orange Elite Orb.
+ID_GACHA_CRATE_RAID_ELITE_ORANGE_GEARMATS_TOKEN_NAME,Orange Elite Orb Fragments
 ID_GACHA_CRATE_RAID_TEAL_GEARMATS_NAME,Teal Gear Raid Orb
 ID_GACHA_CRATE_RAID_TEAL_GEARMATS_DESCRIPTION,Contains teal gear materials
 ID_GACHA_CRATE_RAID_TEAL_GEARMATS_TOKEN_NAME,Teal Gear Raid Orb Fragments
 ID_GACHA_CRATE_RAID_TEAL_GEARMATS_TOKEN_DESCRIPTION,Collect Teal Gear Raid Orb Fragments to earn a Teal Gear Raid Orb
+ID_GACHA_CRATE_RAID_ELITE_TEAL_GEARMATS_NAME,Teal Elite Orb
+ID_GACHA_CRATE_RAID_ELITE_TEAL_GEARMATS_DESCRIPTION,Contains teal Mini-Uniques for Gear Tier 16 and 17
+ID_GACHA_CRATE_RAID_ELITE_TEAL_GEARMATS_TOKEN_DESCRIPTION,Collect Teal Elite Orb Fragments to earn a Teal Elite Orb.
+ID_GACHA_CRATE_RAID_ELITE_TEAL_GEARMATS_TOKEN_NAME,Teal Elite Orb Fragments
 ID_GACHA_CRATE_W_BLUE_NAME,Blue Gear War Orb
 ID_GACHA_CRATE_W_BLUE_DESCRIPTION,Contains blue gear and blue gear materials
 ID_GACHA_CRATE_W_BLUE_TOKEN_NAME,Blue Gear War Orb Fragments
@@ -249,10 +261,6 @@ ID_GACHA_CRATE_W_TEAL_NAME,Teal Gear War Orb
 ID_GACHA_CRATE_W_TEAL_DESCRIPTION,Contains teal gear and Unique gear materials
 ID_GACHA_CRATE_W_TEAL_TOKEN_NAME,Teal Gear War Orb Fragments
 ID_GACHA_CRATE_W_TEAL_TOKEN_DESCRIPTION,Collect Teal Gear War Orb Fragments to earn a Teal Gear War Orb.
-ID_GACHA_CRATE_RAID_ELITE_ORANGE_GEARMATS_NAME,Orange Elite Orb
-ID_GACHA_CRATE_RAID_ELITE_ORANGE_GEARMATS_DESCRIPTION,Contains orange gear and Unique gear materials
-ID_GACHA_CRATE_RAID_ELITE_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Elite Orb Fragments to earn an Orange Elite Orb.
-ID_GACHA_CRATE_RAID_ELITE_ORANGE_GEARMATS_TOKEN_NAME,Orange Elite Orb Fragments
 ID_GACHA_CRATE_ORANGE_UNIQUES_NAME,Orange Uniques Orb
 ID_GACHA_CRATE_ORANGE_UNIQUES_DESCRIPTION,Contains orange Unique gear materials
 ID_GACHA_CRATE_ORANGE_UNIQUES_TOKEN_NAME,Orange Uniques Orb Fragment
@@ -1128,6 +1136,10 @@ ID_OF_NA_MAGIK_SHARD_OFFER,The Mutant Sorceress
 ID_OF_DE_MAGIK_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Magik</color> with this offer! Each orb has a chance to earn up to 180 shards. Cast a spell over the battlefield with hard-hitting attacks and aggressive support for Uncanny X-Men allies.
 ID_OF_DE_MAGIK_FCO_OFFER_VAR,Save on <color=#fff568>{var1} Limbo Ruler Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Magik</color> shards. Conjure domination by enabling Storm and Cyclops to use their Ultimate abilities quickly and making Dark Phoenix a more persistent threat.
 ID_OF_DE_MAGIK_OFFER_VAR_SHARD,Get <color=#fff568>{var1} Magik</color> shards and cast a spell over enemies with hard-hitting attacks and aggressive Support for Uncanny X-Men allies.
+ID_GACHA_CRATE_FCO_ABOMINATION_SPECIAL_NAME,Gamma Obsessed Orb
+ID_GACHA_CRATE_FCO_ABOMINATION_SPECIAL_DESCRIPTION,Earn up to 180 Abomination shards
+ID_GACHA_CRATE_FCO_ABOMINATION_SPECIAL_TOKEN_NAME,Gamma Obsessed Orb Fragments
+ID_GACHA_CRATE_FCO_ABOMINATION_SPECIAL_TOKEN_DESCRIPTION,Collect Gamma Obsessed Orb Fragments to earn a Gamma Obsessed Orb.
 ID_GACHA_CRATE_FCO_AGATHAHARKNESS_SPECIAL_NAME,Coven Leader Orb
 ID_GACHA_CRATE_FCO_AGATHAHARKNESS_SPECIAL_DESCRIPTION,Earn up to 180 Agatha Harkness shards
 ID_GACHA_CRATE_FCO_AGATHAHARKNESS_SPECIAL_TOKEN_NAME,Coven Leader Orb Fragments
@@ -1152,6 +1164,10 @@ ID_GACHA_CRATE_FCO_AIMTANK_TAUNT_SPECIAL_NAME,Crazed Survivor Orb
 ID_GACHA_CRATE_FCO_AIMTANK_TAUNT_SPECIAL_DESCRIPTION,Get up to 180 A.I.M. Security shards
 ID_GACHA_CRATE_FCO_AIMTANK_TAUNT_SPECIAL_TOKEN_NAME,Crazed Survivor Orb Fragments
 ID_GACHA_CRATE_FCO_AIMTANK_TAUNT_SPECIAL_TOKEN_DESCRIPTION,Collect Crazed Survivor Orb Fragments to earn a Crazed Survivor Orb.
+ID_GACHA_CRATE_FCO_AMADEUSCHO_SPECIAL_NAME,Totally Awesome Orb
+ID_GACHA_CRATE_FCO_AMADEUSCHO_SPECIAL_DESCRIPTION,Earn up to 180 Brawn shards
+ID_GACHA_CRATE_FCO_AMADEUSCHO_SPECIAL_TOKEN_NAME,Totally Awesome Orb Fragments
+ID_GACHA_CRATE_FCO_AMADEUSCHO_SPECIAL_TOKEN_DESCRIPTION,Collect Totally Awesome Orb Fragments to earn a Totally Awesome Orb.
 ID_GACHA_CRATE_FCO_AMERICACHAVEZ_SPECIAL_NAME,Star Power Orb
 ID_GACHA_CRATE_FCO_AMERICACHAVEZ_SPECIAL_DESCRIPTION,Get up to 180 America Chavez shards
 ID_GACHA_CRATE_FCO_AMERICACHAVEZ_SPECIAL_TOKEN_NAME,Star Power Orb Fragments
@@ -1697,6 +1713,10 @@ ID_OF_DE_DEADPOOL_OFFER_125,Get <color=#fff568>125 Deadpool shards</color> and e
 ID_OF_DE_DEADPOOL_OFFER_150,Get <color=#fff568>150 Deadpool shards</color> and excel at ignoring taunts and wiping out weakened opponents. Mister Tightpants also shirks off negative effects and revives regularly too!
 ID_OF_NA_GEAR_DEADPOOL_OFFER_1,Deadpool Gear Bundle
 ID_OF_DE_GEAR_DEADPOOL_OFFER_1,Power up Deadpool with this amazing deal! Take him to level 15 and equip his origin gear with this offer.
+ID_GACHA_CRATE_FCO_DEATHLOK_SPECIAL_NAME,Total Destruction Orb
+ID_GACHA_CRATE_FCO_DEATHLOK_SPECIAL_DESCRIPTION,Earn up to 180 Deathlok shards
+ID_GACHA_CRATE_FCO_DEATHLOK_SPECIAL_TOKEN_NAME,Total Destruction Orb Fragments
+ID_GACHA_CRATE_FCO_DEATHLOK_SPECIAL_TOKEN_DESCRIPTION,Collect Total Destruction Orb Fragments to earn a Total Destruction Orb.
 ID_GACHA_CRATE_FCO_DEATHPOOL_SPECIAL_NAME,Grim Reaper Orb
 ID_GACHA_CRATE_FCO_DEATHPOOL_SPECIAL_DESCRIPTION,Earn up to 180 Deathpool shards
 ID_GACHA_CRATE_FCO_DEATHPOOL_SPECIAL_TOKEN_NAME,Grim Reaper Orb Fragments
@@ -2094,6 +2114,10 @@ ID_OF_DE_HELA_OFFER_55,"Get <color=#fff568>55 Hela shards</color> and use her to
 ID_OF_DE_HELA_OFFER_75,"Get <color=#fff568>75 Hela shards</color> and use her to summon a minion, clear Deathproof, and spread negative effects to all enemies."
 ID_OF_DE_HELA_OFFER_125,"Get <color=#fff568>125 Hela shards</color> and use her to summon a minion, clear Deathproof, and spread negative effects to all enemies."
 ID_OF_DE_HELA_OFFER_150,"Get <color=#fff568>150 Hela shards</color> and use her to summon a minion, clear Deathproof, and spread negative effects to all enemies."
+ID_GACHA_CRATE_FCO_HULKBUSTER_SPECIAL_NAME,Bulk Up Orb
+ID_GACHA_CRATE_FCO_HULKBUSTER_SPECIAL_DESCRIPTION,Earn up to 180 Hulkbuster shards
+ID_GACHA_CRATE_FCO_HULKBUSTER_SPECIAL_TOKEN_NAME,Bulk Up Orb Fragments
+ID_GACHA_CRATE_FCO_HULKBUSTER_SPECIAL_TOKEN_DESCRIPTION,Collect Bulk Up Orb Fragments to earn a Bulk Up Orb.
 ID_GACHA_CRATE_FCO_HUMANTORCH_SPECIAL_NAME,Flame On Orb
 ID_GACHA_CRATE_FCO_HUMANTORCH_SPECIAL_DESCRIPTION,Get up to 180 Human Torch shards
 ID_GACHA_CRATE_FCO_HUMANTORCH_SPECIAL_TOKEN_NAME,Flame On Orb Fragments
@@ -3738,6 +3762,10 @@ ID_GACHA_CRATE_FCO_VISION_375HC_145JP_TOKEN_NAME,Synthezoid Orb Fragments
 ID_GACHA_CRATE_FCO_VISION_375HC_145JP_TOKEN_DESCRIPTION,Collect Synthezoid Orb Fragments to earn a Synthezoid Orb.
 ID_OF_NA_VISION_OFFER_1,Synthezoid Offer
 ID_OF_DE_VISION_OFFER_1,Help boost your squad with this opportunity to get a <color=#fff568>2-star Vision</color>! Keep your team alive by blocking enemy abilities and reducing their damage.
+ID_GACHA_CRATE_FCO_VIVVISION_SPECIAL_NAME,Champion Orb
+ID_GACHA_CRATE_FCO_VIVVISION_SPECIAL_DESCRIPTION,Earn up to 180 Viv Vision shards
+ID_GACHA_CRATE_FCO_VIVVISION_SPECIAL_TOKEN_NAME,Champion Orb Fragments
+ID_GACHA_CRATE_FCO_VIVVISION_SPECIAL_TOKEN_DESCRIPTION,Collect Champion Orb Fragments to earn a Champion Orb.
 ID_GACHA_CRATE_FCO_WAKANDA_450HC_NAME,Wakanda Orb
 ID_GACHA_CRATE_FCO_WAKANDA_450HC_DESCRIPTION,Get up to 145 shards of Wakanda characters
 ID_GACHA_CRATE_FCO_WAKANDA_450HC_TOKEN_NAME,Wakanda Orb Fragments
@@ -8091,3 +8119,11 @@ ID_GACHA_CRATE_LINESOFLIGHTNING_NAME,Lines of Lightning Orb
 ID_GACHA_CRATE_LINESOFLIGHTNING_DESCRIPTION,Contains Infinity Watch and Top-Tier Character shards
 ID_GACHA_CRATE_LINESOFLIGHTNING_TOKEN_NAME,Lines of Lightning Orb Fragments
 ID_GACHA_CRATE_LINESOFLIGHTNING_TOKEN_DESCRIPTION,Collect Lines of Lightning Orb Fragments to earn Lines of Lightning Orbs
+ID_GACHA_CRATE_VALHALLA_NAME,Valhalla Orb
+ID_GACHA_CRATE_VALHALLA_DESCRIPTION,Contains select marquee character shards
+ID_GACHA_CRATE_VALHALLA_TOKEN_NAME,Valhalla Orb Fragments
+ID_GACHA_CRATE_VALHALLA_TOKEN_DESCRIPTION,Collect Valhalla Orb Fragments to earn Valhalla Orbs
+ID_GACHA_CRATE_HEAVY_ARMOR_NAME,Heavy Armor Orb
+ID_GACHA_CRATE_HEAVY_ARMOR_DESCRIPTION,Contains Hulkbuster shards
+ID_GACHA_CRATE_HEAVY_ARMOR_TOKEN_NAME,Heavy Armor Orb Fragments
+ID_GACHA_CRATE_HEAVY_ARMOR_TOKEN_DESCRIPTION,Collect Heavy Armor Orb Fragments to earn Heavy Armor Orbs
