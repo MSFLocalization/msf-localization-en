@@ -1042,6 +1042,10 @@ ID_OF_NA_MORB_VENOM_1,Venom Orb Fragment Offer
 ID_OF_DE_MORB_VENOM_500,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>500 Venom Orb Fragments</color> with this offer.
 ID_OF_NA_VENOMGEAR_OFFER_1,We Are Powerful Offer
 ID_OF_DE_VENOMGEAR_OFFER_50,Get this amazing bundle and power up Venom. Get over <color=#fff568>50%</color> off when you buy now!
+ID_GACHA_CRATE_EVENT_CAMPAIGN_VIVVISION_202208_NAME,Iron-Willed Orb
+ID_GACHA_CRATE_EVENT_CAMPAIGN_VIVVISION_202208_DESCRIPTION,Earn Iron-Willed Orb Fragments in the Life Cycle Event Campaign.
+ID_GACHA_CRATE_EVENT_CAMPAIGN_VIVVISION_202208_TOKEN_NAME,Iron-Willed Orb Fragments
+ID_GACHA_CRATE_EVENT_CAMPAIGN_VIVVISION_202208_TOKEN_DESCRIPTION,Collect Iron-Willed Orb Fragments in the Life Cycle Event Campaign to earn Iron-Willed Orbs.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_WARMACHINE_201901_NAME,War Initiative Orb
 ID_GACHA_CRATE_EVENT_CAMPAIGN_WARMACHINE_201901_DESCRIPTION,Earn War Initiative Orb Fragments in the Prelude to War Event Campaign.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_WARMACHINE_201901_TOKEN_NAME,War Initiative Orb Fragments
