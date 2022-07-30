@@ -99,12 +99,12 @@ ID_OF_DE_AUGUSTMETA_BUNDLE,Super charge your progress in the Techno Future event
 ID_OF_DE_AUGUSTMETA_SUPER,Crash the competition and climb the leaderboard with this amazing deal! Get {var1} Relay-Circuits for {var2}% progress in the Techno Future Milestone.
 ID_OF_NA_AUGUSTMETA_1HC,Techno Future Milestone Booster
 ID_OF_DE_AUGUSTMETA_1HC,Use 1 Power Core to progress in the Techno Future Milestone!
-ID_OF_NA_567_RED_STAR_DRAFT_WEBWARRIOR,5-7 Red Star Draft: Web Warrior
+ID_OF_NA_567_RED_STAR_DRAFT_WEBWARRIOR,5-7 Red Star Draft: Web-Warrior
 ID_OF_DE_567_RED_STAR_DRAFT_WEBWARRIOR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Web-Warrior</color> heroes."
-ID_OF_NA_567_RED_STAR_DRAFT_DARKHUNTER,5-7 Red Star Draft: A-Force
+ID_OF_NA_567_RED_STAR_DRAFT_DARKHUNTER,5-7 Red Star Draft: Dark Hunter
 ID_OF_DE_567_RED_STAR_DRAFT_DARKHUNTER,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Dark Hunter</color> heroes."
 ID_OF_NA_AVENGINGASGARD_POINTS,Avenging Asgard Daily Milestone Points
-ID_OF_DE_AVENGINGASGARD_POINTS,Get <color=#fff568>{var1}</color> Milestone Points from this daily offer and conquer the enemies of Asgard now!
+ID_OF_DE_AVENGINGASGARD_POINTS,Get <color=#fff568>{var1}</color> Avenging Asgard Milestone Points from this daily offer and conquer the enemies of Asgard now!
 ID_OF_NA_DUAL_SHEHULK_COSTUME,Pick your She-Hulk Costume
 ID_OF_DE_DUAL_SHEHULK_COSTUME,Take advantage of one of these spectacular offers and acquire She-Hulk's <color=#fff568>Attorney at Law</color> costume!
 ID_OF_TAG_SHEHULK_COSTUME_VARIANT1_CAPS,SKIRT
@@ -118,3 +118,20 @@ ID_OF_NA_VISIONOFTOMORROW_STARTER_SUPER,Vision of Tomorrow Super Starter
 ID_OF_NA_DUAL_COSMICMUTANT_STOREBAR_01,Cosmic Mutants
 ID_OF_NA_TEAM_COSMICMUTANT,Cosmic Mutant
 ID_OF_DE_TEAM_COSMICMUTANT,Unlock or power up this selection of Cosmic Mutant characters to score higher in the Cosmic Mutant Quick Rumble!
+ID_OF_NA_567_RED_STAR_DRAFT_IRONMAN,5-7 Red Star Draft: Iron Man
+ID_OF_DE_567_RED_STAR_DRAFT_IRONMAN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Iron Man</color>."
+ID_OF_NA_VALKYRIECOSTUME_DAILY_ORB,Valhalla Orb
+ID_OF_DE_VALKYRIECOSTUME_DAILY_CURRENCY,Get incredible value from <color=#fff568>{var1} Valhalla Orb(s)</color>! Open Lines of Lightning Orbs to progress through the <color=#fff568>Ride of the Valkyrie Milestone</color>. (Each Valhalla Orb gives {var2} points towards Ride of the Valkyrie Milestone).
+ID_OF_NA_VALKYRIECOSTUME_STARTER_MEGA,Ride of the Valkyrie Mega Starter Bundle
+ID_OF_NA_VALKYRIECOSTUME_STARTER_BIG,Ride of the Valkyrie Big Starter Bundle
+ID_OF_NA_VALKYRIECOSTUME_CATCHUP_MEGA,Ride of the Valkyrie Mega Catchup Bundle
+ID_OF_DE_VALKYRIECOSTUME_CATCHUP,Get <color=#fff568>{var1} Valhalla Orbs</color> and more with this offer! Open Valhalla Orbs to make progress through the <color=#fff568>Ride of the Valkyrie Milestone</color>. (Each Valhalla Orb gives {var2} points towards Ride of the Valkyrie Milestone).
+ID_OF_NA_ISOLVL4_SALE,T2 Level 4 Ion Sale
+ID_OF_NA_EVENT_DAILY,Daily Offer
+ID_OF_DE_EVENT_DAILY,Get <color=#fff568>{var1} Milestone Points</color> from this daily event offer!
+ID_OF_NA_EVENT_STARTER_MEGA,Event Mega Starter Bundle
+ID_OF_NA_EVENT_STARTER_BIG,Event Big Starter Bundle
+ID_OF_NA_EVENT_CATCHUP,Event Catchup Bundle
+ID_OF_DE_EVENT_CATCHUP,Get <color=#fff568>{var1} Milestone Points</color> and more with this offer! Finish your event progress with this limited time offer and get special rewards.
+ID_OF_NA_GT17_MINIUNIQUE_DRAFT_01,Gear Tier 17 Mini-Unique Draft
+ID_OF_DE_GT17_MINIUNIQUE_DRAFT_VAR,Save on this spectacular offer and get <color=#fff568>{var1}</color> Augmented Gear Tier 17 Mini-Uniques to help level your roster toward Gear Tier 17!
