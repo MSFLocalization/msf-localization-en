@@ -44,7 +44,7 @@ ID_OF_DE_PRIMEDAY_CARNAGE_OFFER,"Get <color=#fff568>Carnage shards</color>, <col
 ID_GBP_NA_PREMONLY_DESCRIPTION,S.T.R.I.K.E Pass Catch-Up!
 ID_GBP_DE_PREMONLY_DESCRIPTION,Get <color=#fff568>20 S.T.R.I.K.E. Levels</color> to catch up on S.T.R.I.K.E pass progress!
 ID_RTA_NA_PREMONLY_DESCRIPTION,Mojo's Mayhem Battle Pass Catch-Up!
-ID_RTA_DE_PREMONLY_DESCRIPTION,Get <color=#fff568>20 Ratings Levels</color> to catch up on Mojo's Mayhem battle pass progress!
+ID_RTA_DE_PREMONLY_DESCRIPTION,Get <color=#fff568>30 Ratings Levels</color> to catch up on Mojo's Mayhem battle pass progress!
 ID_OF_NA_RIDEOFTHEVALKYRIE_DAILY_ORB,Ride of the Valkyrie Orb
 ID_OF_DE_RIDEOFTHEVALKYRIE_DAILY_CURRENCY,Get amazing value from <color=#fff568>{var1} Valhalla Orb(s)</color>! Open Valhalla Orbs to progress through the <color=#fff568>the Ride of the Valkyrie Milestone</color>. (Each Valhalla Orb gives {var2} points towards the Ride of the Valkyrie Milestone).
 ID_OF_NA_RIDEOFTHEVALKYRIE_STARTER_MEGA,The Ride of the Valkyrie Mega Starter Bundle
@@ -121,7 +121,7 @@ ID_OF_DE_TEAM_COSMICMUTANT,Unlock or power up this selection of Cosmic Mutant ch
 ID_OF_NA_567_RED_STAR_DRAFT_IRONMAN,5-7 Red Star Draft: Iron Man
 ID_OF_DE_567_RED_STAR_DRAFT_IRONMAN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Iron Man</color>."
 ID_OF_NA_VALKYRIECOSTUME_DAILY_ORB,Valhalla Orb
-ID_OF_DE_VALKYRIECOSTUME_DAILY_CURRENCY,Get incredible value from <color=#fff568>{var1} Valhalla Orb(s)</color>! Open Lines of Lightning Orbs to progress through the <color=#fff568>Ride of the Valkyrie Milestone</color>. (Each Valhalla Orb gives {var2} points towards Ride of the Valkyrie Milestone).
+ID_OF_DE_VALKYRIECOSTUME_DAILY_CURRENCY,Get incredible value from <color=#fff568>{var1} Valhalla Orb(s)</color>! Open Valhalla Orbs to progress through the <color=#fff568>Ride of the Valkyrie Milestone</color>. (Each Valhalla Orb gives {var2} points towards Ride of the Valkyrie Milestone).
 ID_OF_NA_VALKYRIECOSTUME_STARTER_MEGA,Ride of the Valkyrie Mega Starter Bundle
 ID_OF_NA_VALKYRIECOSTUME_STARTER_BIG,Ride of the Valkyrie Big Starter Bundle
 ID_OF_NA_VALKYRIECOSTUME_CATCHUP_MEGA,Ride of the Valkyrie Mega Catchup Bundle

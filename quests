@@ -1622,3 +1622,26 @@ ID_QU_LD_COSMICCELEBRATION,Spend Campaign Energy to complete a daily milestone t
 ID_QU_SM_COSMICCELEBRATION,Spend Campaign Energy
 ID_QU_SC_COSMICCELEBRATION,Spend Campaign Energy
 ID_QU_S1_COSMICCELEBRATION,Spend 1 Campaign Energy
+ID_QU_NA_VISIONOFTOMORROW,Vision of Tomorrow
+ID_QU_SD_VISIONOFTOMORROW,Open Iron-Willed Orbs
+ID_QU_LD_VISIONOFTOMORROW,"Open Iron-Willed Orbs from the Life Cycle Event Campaign and the Vessel of Victory milestones, and by spending Power Cores. Rewards include:\n\n- Viv Vision Gear\n- S.H.I.E.L.D. shards\n- The Adamantium Arm\n- Relay-Circuits\n- 5 Red Star Vision\n- And more!"
+ID_QU_SM_VISIONOFTOMORROW,"Open Iron-Willed Orbs, Spend Power Cores"
+ID_QU_SC_VISIONOFTOMORROW,"Open Iron-Willed Orbs, Spend Power Cores"
+ID_QU_S1_VISIONOFTOMORROW,Open 1 Iron-Willed Orb
+ID_QU_S2_VISIONOFTOMORROW,Spend 1 Power Core
+ID_QU_NA_VESSELOFVICTORY,Vessel of Victory
+ID_QU_SD_VESSELOFVICTORY,Blitz with the Iron-Willed
+ID_QU_LD_VESSELOFVICTORY,Earn points by winning Blitz battles. Bonus points when using characters with the limited-time Iron-Willed trait equipped with Gear Tier 13+.\n\nRewards include Iron-Willed Orbs and more!
+ID_QU_SM_VESSELOFVICTORY,Win Blitz battles with the Iron-Willed
+ID_QU_SC_VESSELOFVICTORY,Win Blitz battles with the Iron-Willed
+ID_QU_S1_VESSELOFVICTORY,Blitz Win
+ID_QU_S2_VESSELOFVICTORY,Blitz Sim Win
+ID_QU_S3_VESSELOFVICTORY,Blitz Win with Iron-Willed
+ID_QU_S4_VESSELOFVICTORY,Blitz Win with Iron-Willed at Gear Tier 13+
+ID_QU_S5_VESSELOFVICTORY,Blitz Win with Iron-Willed at Gear Tier 15+
+ID_QU_NA_ARTIFICIALEMULATION,Artificial Emulation
+ID_QU_SD_ARTIFICIALEMULATION,Spend Campaign Energy
+ID_QU_LD_ARTIFICIALEMULATION,Spend Campaign Energy to complete a daily milestone that rewards Silver Promotion Credits and Legacy III Orb Fragments.
+ID_QU_SM_ARTIFICIALEMULATION,Spend Campaign Energy
+ID_QU_SC_ARTIFICIALEMULATION,Spend Campaign Energy
+ID_QU_S1_ARTIFICIALEMULATION,Spend 1 Campaign Energy
