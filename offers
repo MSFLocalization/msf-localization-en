@@ -147,7 +147,7 @@ ID_OF_NA_MONSTERVSMACHINE_STARTER,Monster VS Machine Starter Bundle
 ID_OF_DE_MONSTERVSMACHINE_STARTER_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Heavy Armor Orbs</color> and more with this offer! Get a head start of {var3} points in the <color=#fff568>Monster VS Machine Milestone</color> now.
 ID_OF_NA_MONSTERVSMACHINE_STARTER_MEGA,Monster VS Machine Mega Starter
 ID_OF_NA_MONSTERVSMACHINE_BOOSTER,Monster VS Machine Booster Pack
-ID_OF_NA_MONSTERVSMACHINE_BOOSTER_VAR,Save <color=#fff568>over {var1}%</color> on <color=#fff568>Heavy Armor Orbs</color> to power up your roster and progress in the <color=#fff568>Monster VS Machine Milestone</color>!
+ID_OF_DE_MONSTERVSMACHINE_BOOSTER_VAR,Save <color=#fff568>over {var1}%</color> on <color=#fff568>Heavy Armor Orbs</color> to power up your roster and progress in the <color=#fff568>Monster VS Machine Milestone</color>!
 ID_OF_NA_MONSTERVSMACHINE_CATCHUP,Monster VS Machine Last Chance Bundle
 ID_OF_DE_MONSTERVSMACHINE_CATCHUP,Take advantage of this incredible deal to complete the <color=#fff568>Monster VS Machine Milestone</color> and get your final rewards!
 ID_OF_NA_MONSTERVSMACHINE_DAILY_ENERGY,Daily Energy Pack
@@ -166,3 +166,37 @@ ID_OF_NA_COSTUME_SHANGCHI,Battle Armor Costume Offer
 ID_OF_DE_COSTUME_SHANGCHI,Take advantage of this spectacular offer and acquire Shang-Chi's <color=#fff568>Battle Armor</color> costume!
 ID_OF_NA_COSTUME_VISION,WandaVision [50s] Costume Offer
 ID_OF_DE_COSTUME_VISION,Take advantage of this spectacular offer and acquire Vision's <color=#fff568>WandaVision [50s]</color> costume!
+ID_OF_NA_PEST_WEB_BUNDLE,Pestilence Orb Bundle
+ID_OF_DE_PEST_BUNDLES,"Get Morgan Le Fay to the next Star Level with this bundle! Get {var1}% off when you purchase these {var2} Pestilence Orbs! Each Orb has a chance to grant 100 shards of the Horsemen of Pestilence herself, Morgan Le Fay!"
+ID_OF_NA_PEST_EARLYBIRD,Pestilence Orb Intro Bundle
+ID_OF_NA_PEST_5PAK,Pestilence Orb Party Pack
+ID_OF_NA_PEST_2PAK,Double Up on Pestilence Orbs
+ID_OF_NA_PEST_HCPAK,Daily Pestilence Orb
+ID_OF_DE_PEST_HCPAK,"Get your daily dose of Pestilence...Orb with this offer. Each Orb has a chance to grant 100 shards of the Horsemen of Pestilence herself, Morgan Le Fay!"
+ID_OF_DE_PEST_DAILY,"Get your daily dose of Pestilence...Orb and save {var1}% with this offer. Each Orb has a chance to grant 100 shards of the Horsemen of Pestilence herself, Morgan Le Fay!"
+ID_OF_NA_FAMINE_EARLYBIRD,Famine Orb Intro Bundle
+ID_OF_NA_FAMINE_WEB_BUNDLE,Famine Orb Bundle
+ID_OF_NA_FAMINE_2PAK,Double Up on Famine Orbs
+ID_OF_NA_FAMINE_5PAK,Famine Orb Party Pack
+ID_OF_NA_FAMINE_HCPAK,Daily Famine Orb
+ID_OF_DE_FAMINE_DAILY,"Get your daily dose of Famine...Orb and save {var1}% with this offer. Each Orb has a chance to grant 100 shards of the Horsemen of Famine herself, Rogue!"
+ID_OF_DE_FAMINE_BUNDLES,"Get Rogue to the next Star Level with this bundle! Get {var1}% off when you purchase these {var2} Famine Orbs! Each Orb has a chance to grant 100 shards of the Horsemen of Famine herself, Rogue!"
+ID_OF_DE_FAMINE_HCPAK,"Get your daily dose of Famine...Orb with this offer. Each Orb has a chance to grant 100 shards of the Horsemen of Famine herself, Rogue!"
+ID_OF_STOREBAR_TEAM_WEBWARRIOR,Web-Warrior Shard Offer
+ID_OF_NA_TEAM_WEBWARRIOR,Choose your Web-Warrior Shard Offer
+ID_OF_DE_TEAM_WEBWARRIOR,Unlock or power up this selection of Web-Warrior characters to score higher in the Pestilence Scourge Event!
+ID_OF_STOREBAR_TEAM_DARKHUNTER,Dark Hunter Shard Offer
+ID_OF_NA_TEAM_DARKHUNTER,Choose your Dark Hunter Shard Offer
+ID_OF_DE_TEAM_DARKHUNTER,Unlock or power up this selection of Dark Hunter characters to score higher in the Pestilence Scourge Event!
+ID_OF_NA_FREEGIFTWEB_FRIDAY_01,S.T.R.I.K.E Force Fridays Gift
+ID_OF_DE_FREEGIFTWEB_FRIDAY_01,Claim this exclusive free gift on us! Check back often to find more exclusive gifts! Don't miss out on the one-time offer after claiming this gift!
+ID_OF_NA_FREEGIFTWEB_FRIDAY_OFFER_01,S.T.R.I.K.E Force Fridays Offer
+ID_OF_DE_FREEGIFTWEB_FRIDAY_OFFER_01,Don't miss this short window to purchase this one-time offer! This offer only lasts for as long as this window is open!
+ID_OF_NA_SHEHULK_COSTUME,Attorney at Law Costume
+ID_OF_DE_SHEHULK_COSTUME,"Unlock the She-Hulk <color=#0ecf42>Attorney at Law</color> Costume with this offer.\nJessica Walters takes on the fiercest legal battles for her superpowered clients, balancing her moral conviction and superhuman strength as their attorney. As seen in Marvel Studios' She-Hulk: Attorney at Law [2022]"
+ID_OF_NA_SHEHULK_COSTUME_PANTS,Attorney at Law Costume (Variant)
+ID_OF_DE_SHEHULK_COSTUME_PANTS,"Unlock the She-Hulk <color=#0ecf42>Attorney at Law</color> Costume with this offer.\nJessica Walters takes on the fiercest legal battles for her superpowered clients, balancing her moral conviction and superhuman strength as their attorney."
+ID_OF_NA_MAGIC1,Arcane Magic Offer
+ID_OF_DE_MAGIC1,Prepare for the Pestilence Scourge Event and save over <color=#fff568><var1>%</color> on this Arcane Magic offer and power up your roster with this offer when you buy now.
+ID_OF_NA_SERUM3,Experimental Formula Offer
+ID_OF_DE_SERUM3,Prepare for the Pestilence Scourge Event and save over <color=#fff568><var1>%</color> on this Experimental Formula offer and power up your roster with this offer when you buy now.

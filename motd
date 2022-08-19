@@ -1326,6 +1326,10 @@ ID_MOTD_NA_VIVVISION_ECM_PREVIEW,Coming Soon: Life Cycle
 ID_MOTD_DE_VIVVISION_ECM_PREVIEW,Recruit Viv Vision
 ID_MOTD_NA_VIVVISION_ECM_LIVE,LIVE: Life Cycle
 ID_MOTD_DE_VIVVISION_ECM_LIVE,Recruit Viv Vision
+ID_MOTD_NA_MONSTERVSMACHINE_TEASER,Coming Soon: Monster VS Machine
+ID_MOTD_DE_MONSTERVSMACHINE_TEASER,Recruit Hulkbuster to your roster!
+ID_MOTD_NA_MONSTERVSMACHINE_ANNOUNCE,LIVE: Monster VS Machine
+ID_MOTD_DE_MONSTERVSMACHINE_ANNOUNCE,Earn Hulkbuster shards!
 ID_MOTD_NA_STARKRAND_TEASER,Coming Soon: Stark R&D
 ID_MOTD_DE_STARKRAND_TEASER,Earn Hulk Hunter progress and Gamma Radiation!
 ID_MOTD_NA_STARKRAND_ANNOUNCE,LIVE: Stark R&D
@@ -1336,3 +1340,11 @@ ID_MOTD_NA_HULKHUNTER_ANNOUNCE,LIVE: Hulk Hunter
 ID_MOTD_DE_HULKHUNTER_ANNOUNCE,Recruit Abomination by participating in September Events!
 ID_MOTD_NA_HULKBUSTER_ANNOUNCE,Hulkbuster Joins the Fight!
 ID_MOTD_DE_HULKBUSTER_ANNOUNCE,Protect your Bionic Avengers with a SMASHING suit of armor!
+ID_MOTD_NA_ABOMINATION_PREVIEW,Coming Soon: Abomination
+ID_MOTD_DE_ABOMINATION_PREVIEW,Prepare for this Behemoth Biohazard!
+ID_MOTD_NA_ABOMINATION_ANNOUNCE,Ready for Battle: Abomination
+ID_MOTD_DE_ABOMINATION_ANNOUNCE,The Behemoth Biohazard has arrived!
+ID_MOTD_NA_POWEROFATTORNEY_TEASER,Coming Soon: Power of Attorney
+ID_MOTD_DE_POWEROFATTORNEY_TEASER,Earn She-Hulk's new Attorney at Law Costume and Hulk Hunter progress!
+ID_MOTD_NA_POWEROFATTORNEY_ANNOUNCE,LIVE: Power of Attorney
+ID_MOTD_DE_POWEROFATTORNEY_ANNOUNCE,"Earn costumes for She-Hulk, Ms. Marvel, and Misty Knight!"

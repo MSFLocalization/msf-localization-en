@@ -1645,3 +1645,19 @@ ID_QU_LD_ARTIFICIALEMULATION,Spend Campaign Energy to complete a daily milestone
 ID_QU_SM_ARTIFICIALEMULATION,Spend Campaign Energy
 ID_QU_SC_ARTIFICIALEMULATION,Spend Campaign Energy
 ID_QU_S1_ARTIFICIALEMULATION,Spend 1 Campaign Energy
+ID_QU_NA_MONSTERVSMACHINE,Monster VS Machine
+ID_QU_SD_MONSTERVSMACHINE,Earn Heavy Armor Orb Fragments
+ID_QU_LM_MONSTERVSMACHINE,Earn Heavy Armor Orb Fragments in Blitz
+ID_QU_SM_MONSTERVSMACHINE,Earn points by collecting Heavy Armor Orb Fragments
+ID_QU_S1_MONSTERVSMACHINE,Earn 1 Heavy Armor Orb Fragment
+ID_QU_NA_ARMOREDARCHITECT,Armored Architect
+ID_QU_SD_ARMOREDARCHITECT,Spend Power Cores
+ID_QU_LM_ARMOREDARCHITECT,Spend Power Cores to earn Heavy Armor Orbs
+ID_QU_SM_ARMOREDARCHITECT,Earn points by spending Power Cores
+ID_QU_S0_ARMOREDARCHITECT,Spend 1 Power Core
+ID_QU_NA_MECHANIZEDMIGHT,Mechanized Might
+ID_QU_SD_MECHANIZEDMIGHT,Energy Spend
+ID_QU_LM_MECHANIZEDMIGHT,Spend Campaign Energy and Iso-8 Campaign Energy to earn Heavy Armor Orbs.
+ID_QU_SM_MECHANIZEDMIGHT,Earn points by spending Campaign Energy and Iso-8 Campaign Energy
+ID_QU_S0_MECHANIZEDMIGHT,Spend Campaign Energy
+ID_QU_S1_MECHANIZEDMIGHT,Spend Iso-8 Campaign Energy
