@@ -155,7 +155,7 @@ ID_GACHA_CRATE_ISO8_CRAFTING_CURRENCY_DESCRIPTION,Contains T1 Ions.
 ID_GACHA_CRATE_ISO8_CRAFTING_CURRENCY_TOKEN_NAME,T1 Ion Orb Fragments
 ID_GACHA_CRATE_ISO8_CRAFTING_CURRENCY_TOKEN_DESCRIPTION,Collect T1 Ion Orb Fragments to earn a T1 Ion Orb.
 ID_GACHA_CRATE_XP_HIGH_NAME,Training Orb
-ID_GACHA_CRATE_XP_HIGH_DESCRIPTION,Guarantees 24 to 75 Lv. 4 Training Modules
+ID_GACHA_CRATE_XP_HIGH_DESCRIPTION,Guarantees 24 to 75 L4 Training Modules
 ID_GACHA_CRATE_XP_HIGH_TOKEN_NAME,Training Orb Fragments
 ID_GACHA_CRATE_XP_HIGH_TOKEN_DESCRIPTION,Collect Training Orb Fragments to earn a Training Orb.
 ID_GACHA_CRATE_DOWNCONVERSION_NAME,Ultimus Orb
@@ -8060,14 +8060,6 @@ ID_OF_NA_STARTER_COLLECTOR_V2,Ultimate Collector's Double-down Pack
 ID_OF_DE_STARTER_COLLECTOR_V2,Double down with <color=#fff568>OVER {var1}% VALUE</color>! This is your chance to start building some of the strongest teams in the game and <color=#fff568>skyrocket your collection power</color> with this incredible orb bundle! <color=#fff568>Buy now</color>!
 ID_OF_NA_STARTER_MEGA,Mega Orb ONE-TIME Offer
 ID_OF_DE_STARTER_MEGA,<color=#fff568>You won't see this offer ever again</color>! Strike while the iron is hot and get an <color=#fff568>INSANE {var1}% VALUE</color> with a massive stack of fragments for Mega orbs (Minimum {var2} shards each open!) so you can <color=#fff568>unlock and dominate with some of the best characters in the game</color>! <color=#fff568>Buy now before it's gone for good</color>!
-ID_OF_NA_PEST_WEB_BUNDLE,Pestilence Orb Bundle
-ID_OF_DE_PEST_BUNDLES,"Get Morgan Le Fay to the next Star Level with this bundle! Get {var1}% off when you purchase these {var2} Pestilence Orbs! Each Orb has a chance to grant 100 shards of the Horsemen of Pestilence herself, Morgan Le Fay!"
-ID_OF_NA_PEST_EARLYBIRD,Pestilence Orb Intro Bundle
-ID_OF_NA_PEST_5PAK,Pestilence Orb Party Pack
-ID_OF_NA_PEST_2PAK,Double Up on Pestilence Orbs
-ID_OF_NA_PEST_HCPAK,Daily Pestilence Orb
-ID_OF_DE_PEST_HCPAK,"Get your daily dose of Pestilence...Orb with this offer. Each Orb has a chance to grant 100 shards of the Horsemen of Pestilence herself, Morgan Le Fay!"
-ID_OF_DE_PEST_DAILY,"Get your daily dose of Pestilence...Orb and save {var1}% with this offer. Each Orb has a chance to grant 100 shards of the Horsemen of Pestilence herself, Morgan Le Fay!"
 ID_GACHA_CRATE_PESTILENCE2_NAME,Pestilence Orb
 ID_GACHA_CRATE_PESTILENCE2_DESCRIPTION,Usher in the Horsemen of Pestilence
 ID_GACHA_CRATE_PESTILENCE2_TOKEN_NAME,Pestilence Orb Fragments
