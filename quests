@@ -1661,3 +1661,11 @@ ID_QU_LM_MECHANIZEDMIGHT,Spend Campaign Energy and Iso-8 Campaign Energy to earn
 ID_QU_SM_MECHANIZEDMIGHT,Earn points by spending Campaign Energy and Iso-8 Campaign Energy
 ID_QU_S0_MECHANIZEDMIGHT,Spend Campaign Energy
 ID_QU_S1_MECHANIZEDMIGHT,Spend Iso-8 Campaign Energy
+ID_QU_NA_HULKHUNTER,Hulk Hunter
+ID_QU_SD_HULKHUNTER,Participate in September Events
+ID_QU_LM_HULKHUNTER,Participate in various events throughout the month of September to earn milestone progress.
+ID_QU_S1_HULKHUNTER,Collect 1 Mutated Cells
+ID_QU_S2_HULKHUNTER,Collect 1 Imperfect Serum
+ID_QU_S3_HULKHUNTER,Collect 1 Irradiated Blood
+ID_QU_S4_HULKHUNTER,Collect 1 Reptoid Fin
+ID_QU_S5_HULKHUNTER,Collect 1 Indestructible Pants

@@ -155,18 +155,18 @@ ID_ELITE_6_CUR_NAME,Elite 6 Credit
 ID_ELITE_6_CUR_DESCRIPTION,Used to buy Elite 6 Star Orbs or Silver Promotion Credits.\n\nEarn Elite 6 Credits by collecting duplicate Red Stars from an Elite 5 Star Orb or better.
 ID_ELITE_7_CUR_NAME,Elite 7 Credit
 ID_ELITE_7_CUR_DESCRIPTION,Used to buy Elite 7 Star Orbs or Gold Promotion Credits.\n\nEarn Elite 7 Credits by collecting duplicate Red Stars from an Elite 6 Star Orb or better.
-ID_EVENT_CUR1_NAME,Disco Balls
-ID_EVENT_CUR1_DESCRIPTION,Collect Disco Balls for points in the Rollin' Rebel Event. Earn them in various events throughout the month of June!
+ID_EVENT_CUR1_NAME,Mutated Cells
+ID_EVENT_CUR1_DESCRIPTION,Collect Mutated Cells for points in the Hulk Hunter Event. Earn them in various events throughout the month of September!
 ID_EVENT_CUR2_NAME,Gear Credits
 ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
-ID_EVENT_CUR3_NAME,Solar Sizzler Milestone Points
-ID_EVENT_CUR3_DESCRIPTION,These points earn you additional progress in the Solar Sizzler Milestone. Earn them in the Heat Storm and Blazing Sun Milestones!
-ID_EVENT_CUR4_NAME,Cloak of Valor
-ID_EVENT_CUR4_DESCRIPTION,Collect the Cloak of Valor for points in the Summer of Thunder Event. Earn them in the upcoming Solar Sizzler Event!
-ID_EVENT_CUR5_NAME,Helm of Victory
-ID_EVENT_CUR5_DESCRIPTION,Collect Helm of Victory for points in the Summer of Thunder Event. Earn them in the upcoming Victory Blueprint Milestone Event!
-ID_EVENT_CUR6_NAME,Kinetic Health Pack
-ID_EVENT_CUR6_DESCRIPTION,Kinetic Health Packs are used to heal and revive your characters in Gambit Raids.
+ID_EVENT_CUR3_NAME,Imperfect Serum
+ID_EVENT_CUR3_DESCRIPTION,Collect the Imperfect Serum for points in the Hulk Hunter Event. Earn them in the upcoming Stark R&D Milestone Event!
+ID_EVENT_CUR4_NAME,Irradiated Blood
+ID_EVENT_CUR4_DESCRIPTION,Collect the Irradiated Blood for points in the Hulk Hunter Event. Earn it in the upcoming Power of Attorney Milestone Event!
+ID_EVENT_CUR5_NAME,Reptoid Fin
+ID_EVENT_CUR5_DESCRIPTION,Collect the Reptoid Fin for points in the Hulk Hunter Event. Earn it in the upcoming Brawn Milestone Event!
+ID_EVENT_CUR6_NAME,Indestructible Pants
+ID_EVENT_CUR6_DESCRIPTION,Collect the Indestructible Pants for points in the Hulk Hunter Event. Earn it in the upcoming Spider Weaver Milestone Event!
 ID_EVENT_CUR7_NAME,Lines of Lightning Orb Fragments
 ID_EVENT_CUR7_DESCRIPTION,Collect Lines of Lightning Orb Fragments for points in the Space Viking Event. Earn them in the Interstellar Longship and Electric Aesir Milestones!
 ID_EVENT_CUR8_NAME,Mjolnir Fragments
