@@ -312,6 +312,37 @@ ID_QU_LM_SPLASH_HEROESFORHIRE,Earn points by using Heroes For Hire characters in
 ID_QU_SC_SPLASH_HEROESFORHIRE,Use Heroes For Hire Characters in Blitz
 ID_QU_S1_SPLASH_HEROESFORHIRE,Win a Blitz battle with any 5-star or higher Heroes For Hire Character
 ID_QU_S2_SPLASH_HEROESFORHIRE,Win a Blitz battle with any 7-star Heroes For Hire Character
+ID_QU_NA_SPLASH_SHIELD,Quick Rumble - S.H.I.E.L.D.
+ID_QU_SD_SPLASH_SHIELD,Use S.H.I.E.L.D. in Blitz
+ID_QU_LM_SPLASH_SHIELD,Earn points by using S.H.I.E.L.D. characters in Blitz Battles. Earn more points if your S.H.I.E.L.D. characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SM_SPLASH_SEPTEMBER,Use Featured Characters in Blitz to earn Mutated Cells
+ID_QU_SC_SPLASH_SHIELD,Use S.H.I.E.L.D. Characters in Blitz
+ID_QU_S1_SPLASH_SHIELD,Win a Blitz battle with any 5-star or higher S.H.I.E.L.D. Character
+ID_QU_S2_SPLASH_SHIELD,Win a Blitz battle with any 7-star S.H.I.E.L.D. Character
+ID_QU_NA_SPLASH_WEAPONX,Quick Rumble - Weapon X
+ID_QU_SD_SPLASH_WEAPONX,Use Weapon X in Blitz
+ID_QU_LM_SPLASH_WEAPONX,Earn points by using Weapon X characters in Blitz Battles. Earn more points if your Weapon X characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_WEAPONX,Use Weapon X Characters in Blitz
+ID_QU_S1_SPLASH_WEAPONX,Win a Blitz battle with any 5-star or higher Weapon X Character
+ID_QU_S2_SPLASH_WEAPONX,Win a Blitz battle with any 7-star Weapon X Character
+ID_QU_NA_SPLASH_RAVAGERS,Quick Rumble - Ravagers
+ID_QU_SD_SPLASH_RAVAGERS,Use Ravagers in Blitz
+ID_QU_LM_SPLASH_RAVAGERS,Earn points by using Ravagers characters in Blitz Battles. Earn more points if your Ravagers characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_RAVAGERS,Use Ravagers Characters in Blitz
+ID_QU_S1_SPLASH_RAVAGERS,Win a Blitz battle with any 5-star or higher Ravagers Character
+ID_QU_S2_SPLASH_RAVAGERS,Win a Blitz battle with any 7-star Ravagers Character
+ID_QU_NA_SPLASH_VIGILANT,Quick Rumble - Vigilant
+ID_QU_SD_SPLASH_VIGILANT,Use Vigilant in Blitz
+ID_QU_LM_SPLASH_VIGILANT,Earn points by using Vigilant characters in Blitz Battles. Earn more points if your Vigilant characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_VIGILANT,Use Vigilant Characters in Blitz
+ID_QU_S1_SPLASH_VIGILANT,Win a Blitz battle with any 5-star or higher Vigilant Character
+ID_QU_S2_SPLASH_VIGILANT,Win a Blitz battle with any 7-star Vigilant Character
+ID_QU_NA_SPLASH_HAND,Quick Rumble - Hand
+ID_QU_SD_SPLASH_HAND,Use Hand in Blitz
+ID_QU_LM_SPLASH_HAND,Earn points by using Hand characters in Blitz Battles. Earn more points if your Hand characters are 5 Stars and higher and even more points if they are 7 Stars.
+ID_QU_SC_SPLASH_HAND,Use Hand Characters in Blitz
+ID_QU_S1_SPLASH_HAND,Win a Blitz battle with any 5-star or higher Hand Character
+ID_QU_S2_SPLASH_HAND,Win a Blitz battle with any 7-star Hand Character
 ID_QUEST_KNOCKOUT_GENERIC,Knock out any enemy with any character
 ID_QUEST_DAMAGE_GENERIC,Do damage with any character
 ID_QUEST_ABILITY_GENERIC,Use any ability with any character
@@ -1669,3 +1700,53 @@ ID_QU_S2_HULKHUNTER,Collect 1 Imperfect Serum
 ID_QU_S3_HULKHUNTER,Collect 1 Irradiated Blood
 ID_QU_S4_HULKHUNTER,Collect 1 Reptoid Fin
 ID_QU_S5_HULKHUNTER,Collect 1 Indestructible Pants
+ID_QU_NA_SEPTEMBERALLIANCE2022,Coordinated Assault
+ID_QU_NA_STARKRANDD,Stark R&D
+ID_QU_SD_STARKRANDD,Spend Gold and Blitz with Bionic Avengers
+ID_QU_LD_STARKRANDD,Spend Gold and win in Blitz with Bionic Avengers in the Stark R&D milestones. Rewards include:\n- Imperfect Serum\n- Augmented Gamma Radiation\n- Elite 5 Credits\n- Training Modules\n- Ability Materials\n- Teal Gear and more!
+ID_QU_SM_STARKRANDD,"Spend Gold, Win in Blitz with Bionic Avengers"
+ID_QU_SC_STARKRANDD,"Spend Gold, Win in Blitz with Bionic Avengers"
+ID_QU_S1_STARKRANDD,Spend 1 Gold
+ID_QU_S2_STARKRANDD,Blitz Win
+ID_QU_S3_STARKRANDD,Blitz Sim Win
+ID_QU_S4_STARKRANDD,Blitz Win with Bionic Avengers
+ID_QU_S5_STARKRANDD,Blitz Win with Bionic Avengers at Gear Tier 13+
+ID_QU_S6_STARKRANDD,Blitz Win with Bionic Avengers at Gear Tier 15+
+ID_QU_S7_STARKRANDD,Blitz Win with Bionic Avengers at Gear Tier 16+
+ID_QU_S8_STARKRANDD,Blitz Win with Bionic Avengers at Gear Tier 17+
+ID_QU_NA_STARKRANDDLEADERBOARD,Stark R&D
+ID_QU_LD_STARKRANDDLEADERBOARD,Earn points by winning Blitz battles. Bonus points when using Bionic Avengers equipped with Gear Tier 13+.\n\nRewards include Elite Credits and more!
+ID_QU_NA_JOINTVENTURE,Joint Venture
+ID_QU_SD_JOINTVENTURE,Earn Alliance Credits
+ID_QU_LD_JOINTVENTURE,"Earn Alliance Credits to complete a daily milestone that rewards ISO Ions, Gold Orbs Fragments, and Legacy III Orb Fragments."
+ID_QU_SM_JOINTVENTURE,Earn Alliance Credits
+ID_QU_SC_JOINTVENTURE,Earn Alliance Credits
+ID_QU_S1_JOINTVENTURE,Earn 1 Alliance Credits
+ID_QU_NA_POWEROFATTORNEY,Power of Attorney
+ID_QU_SD_POWEROFATTORNEY,Collect Briefcases
+ID_QU_LD_POWEROFATTORNEY,Earn Briefcases from the <color=#fff568>Public Defender</color> and <color=#fff568>Fighting Force</color> milestones. Rewards include:\n\n- She-Hulk's Attorney at Law Costume\n- She-Hulk Shards\n- Irradiated Blood\n- Mutated Cells\n- 5 Red Star She-Hulk\n- And more!
+ID_QU_SM_POWEROFATTORNEY,Collect Briefcases
+ID_QU_SC_POWEROFATTORNEY,Earn Briefcases
+ID_QU_S1_POWEROFATTORNEY,Earn 1 Briefcase
+ID_QU_NA_PUBLICDEFENDER,Public Defender
+ID_QU_SD_PUBLICDEFENDER,Blitz with Gamma and Defenders
+ID_QU_LD_PUBLICDEFENDER,Earn points by winning Blitz battles. Bonus points when using the Defenders and the new Gamma team.\n\nRewards include Briefcases and more!
+ID_QU_SM_PUBLICDEFENDER,Win Blitz battles with Gamma and Defenders
+ID_QU_SC_PUBLICDEFENDER,Win Blitz battles with Gamma and Defenders
+ID_QU_S1_PUBLICDEFENDER,Blitz Win
+ID_QU_S2_PUBLICDEFENDER,Blitz Sim Win
+ID_QU_S3_PUBLICDEFENDER,Blitz Win with Defenders
+ID_QU_S4_PUBLICDEFENDER,Blitz Win with Defenders at Gear Tier 13+
+ID_QU_S5_PUBLICDEFENDER,Blitz Win with Defenders at Gear Tier 15+
+ID_QU_S6_PUBLICDEFENDER,Blitz Win with Gamma
+ID_QU_S7_PUBLICDEFENDER,Blitz Win with Gamma at Gear Tier 13+
+ID_QU_S8_PUBLICDEFENDER,Blitz Win with Gamma at Gear Tier 15+
+ID_QU_NA_FIGHTINGFORCE,Fighting Force
+ID_QU_SD_FIGHTINGFORCE,Battle in War
+ID_QU_LD_FIGHTINGFORCE,Battle in War to earn Silver Promotion Credits and Legacy III Orb Fragments.
+ID_QU_SM_FIGHTINGFORCE,Spend Campaign Energy
+ID_QU_SC_FIGHTINGFORCE,Spend Campaign Energy
+ID_QU_S1_FIGHTINGFORCE,Play a War battle
+ID_QU_S2_FIGHTINGFORCE,Play a War battle with A-Force
+ID_QU_S3_FIGHTINGFORCE,Play a War battle with A-Force at Gear Tier 13+
+ID_QU_S4_FIGHTINGFORCE,Play a War battle with A-Force at Gear Tier 15+
