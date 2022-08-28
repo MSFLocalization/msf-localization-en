@@ -168,7 +168,7 @@ ID_ALLIANCE_ROOM_CONSTUCT_XP,CONSTRUCT COMPONENTS TO EARN {num} PTS.
 ID_ALLIANCE_ROOM_CONSTRUCT_NEEDED,CONSTRUCT {qty} COMPONENT(S) TO REACH TO LEVEL {level}
 ID_ALLIANCE_ROOM_MEDBAY,Medbay
 ID_ALLIANCE_ROOM_MEDBAY_DESC,Increases Health Regeneration by 10%
-ID_ALLIANCE_ROOM_MEDBAY_EFFECTDESCRIPTION_1,<color=#00adef>[GLOBAL]</color>   <color=#86e619>+40%</color> Max Health to all <color=#fff568>DEFENDING ALLIES</color>
+ID_ALLIANCE_ROOM_MEDBAY_EFFECTDESCRIPTION_1,<color=#00adef>[GLOBAL]</color>   <color=#86e619>+20%</color> Max Health to all <color=#fff568>DEFENDING ALLIES</color>
 ID_ALLIANCE_ROOM_ARMORY,Armory
 ID_ALLIANCE_ROOM_ARMORY_DESC,Increases all BIO character damage by 3%
 ID_ALLIANCE_ROOM_ARMORY_EFFECTDESCRIPTION_1,<color=#00adef>[GLOBAL]</color>   <color=#86e619>+20%</color> to Primary Stats to all <color=#fff568>ATTACKING ALLIES</color>.  Extra <color=#86e619>+10%</color> bonus to <color=#fff568>Military ALLIES</color>.
@@ -186,7 +186,7 @@ ID_ALLIANCE_ROOM_REACTOR_DESC,Increases all COSMIC characters' damage by 5%
 ID_ALLIANCE_ROOM_REACTOR_EFFECTDESCRIPTION_1,<color=#00adef>[ROOM]</color>   Apply <color=#fff568>Disrupt</color> to <color=#fff568>ATTACKING ENEMIES</color>
 ID_ALLIANCE_ROOM_BARRACKS,Barracks
 ID_ALLIANCE_ROOM_BARRACKS_DESC,Increases DEFENDER's Health by 10%
-ID_ALLIANCE_ROOM_BARRACKS_EFFECTDESCRIPTION_1,<color=#00adef>[GLOBAL]</color>   <color=#86e619>+20%</color> to Primary Stats to all <color=#fff568>DEFENDING ALLIES</color>.  Extra <color=#86e619>+10%</color> bonus to <color=#fff568>Military ALLIES</color>.
+ID_ALLIANCE_ROOM_BARRACKS_EFFECTDESCRIPTION_1,<color=#00adef>[GLOBAL]</color>   <color=#86e619>+10%</color> to Primary Stats to all <color=#fff568>DEFENDING ALLIES</color>.  Extra <color=#86e619>+10%</color> bonus to <color=#fff568>Military ALLIES</color>.
 ID_ALLIANCE_ROOM_CARGO,Cargo Bay
 ID_ALLIANCE_ROOM_CARGO_DESC,Increases War loot by 5%
 ID_ALLIANCE_ROOM_CARGO_EFFECTDESCRIPTION_1,<color=#00adef>[GLOBAL]</color>   <color=#86e619>+20%</color> to Primary Stats to all <color=#fff568>DEFENDING War Ready ALLIES</color>
