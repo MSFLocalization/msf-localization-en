@@ -197,9 +197,9 @@ ID_OF_DE_SHEHULK_COSTUME,"Unlock the She-Hulk <color=#0ecf42>Attorney at Law</co
 ID_OF_NA_SHEHULK_COSTUME_PANTS,Attorney at Law Costume (Variant)
 ID_OF_DE_SHEHULK_COSTUME_PANTS,"Unlock the She-Hulk <color=#0ecf42>Attorney at Law</color> Costume with this offer.\nJennifer Walters takes on the fiercest legal battles for her superpowered clients, balancing her moral conviction and superhuman strength as their attorney."
 ID_OF_NA_MAGIC1,Arcane Magic Offer
-ID_OF_DE_MAGIC1,Prepare for the Pestilence Scourge Event and save over <color=#fff568><var1>%</color> on this Arcane Magic offer and power up your roster with this offer when you buy now.
+ID_OF_DE_MAGIC1,Prepare for the Pestilence Scourge Event and save over <color=#fff568>{var1}%</color> on this Arcane Magic offer and power up your roster with this offer when you buy now.
 ID_OF_NA_SERUM3,Experimental Formula Offer
-ID_OF_DE_SERUM3,Prepare for the Pestilence Scourge Event and save over <color=#fff568><var1>%</color> on this Experimental Formula offer and power up your roster with this offer when you buy now.
+ID_OF_DE_SERUM3,Prepare for the Pestilence Scourge Event and save over <color=#fff568>{var1}%</color> on this Experimental Formula offer and power up your roster with this offer when you buy now.
 ID_OF_NA_ABOMINATION_FCO_OFFER,Ravager of Worlds
 ID_OF_DE_ABOMINATION_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Abomination</color> with this offer! Each orb has a chance to earn up to 180 shards. Strip Defense Up, apply Defense Down, and bolster Gamma allies with additional Health and Drain."
 ID_OF_DE_ABOMINATION_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Ravager of Worlds Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Abomination</color> shards. Strip Defense Up, apply Defense Down, and grant Health and Drain to Gamma allies - a War Saga team."
