@@ -972,3 +972,7 @@ ID_OPTIONS_ACCOUNT_DELETION,ACCOUNT DELETION
 ID_OPTIONS_ACCOUNT_DELETION_CONFIRMATION_BODY,"Are you sure you want to delete your account?\n\nIf you submit an account deletion request, you will lose your in-game progress, all items and virtual currency that you earned or purchased in-game, and related account data. You will NOT be refunded for unused items you may have purchased. This action is PERMANENT and your account CANNOT be recovered once deleted. To proceed with account deletion, click ""Continue"" below."
 ID_OPTIONS_ACCOUNT_DELETION_CANCEL,NOT NOW
 ID_OPTIONS_ACCOUNT_DELETION_CONFIRM,CONTINUE
+ID_MINSPEC_NA_MINSPEC_IOS13,Device Update Needed!
+ID_MINSPEC_BO_MINSPEC_IOS13,The minimum device requirements to play MARVEL Strike Force will be iOS 13 for iOS devices with the upcoming Version 6.5 Release (slated for the end of October 2022). We recommend updating as soon as possible to avoid any disruptions to your playing experience.
+ID_MINSPEC_NA_MINSPEC_OS7_2GB,Device Update Needed!
+ID_MINSPEC_BO_MINSPEC_OS7_2GB,The minimum device requirements to play MARVEL Strike Force on Android will be OS 7 and a minimum of 2 GB RAM with the upcoming Version 6.5 Release (slated for the end of October 2022). We recommend updating as soon as possible to avoid any disruptions to your playing experience.
