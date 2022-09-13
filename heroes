@@ -177,6 +177,12 @@ ID_SHARD_ICEMAN_NAME,Iceman
 ID_SHARD_ICEMAN_DESCRIPTION,"One of the original X-Men, Bobby Drake's mutant power to control cold allows him to slow and freeze his enemies."
 ID_SHARD_IKARIS_NAME,Ikaris
 ID_SHARD_IKARIS_DESCRIPTION,"The Eternal Ikaris strafes foes with laser vision and uses super strength to slam down on them, fighting even more intensely when allied with Sersi."
+ID_SHARD_INNERDEMON_CYCLOPS_NAME,Inner Demon (Cyclops)
+ID_SHARD_INNERDEMON_CYCLOPS_DESCRIPTION,One of Mister Negative's Inner Demons.
+ID_SHARD_INNERDEMON_DEMON_NAME,Inner Demon (Demon)
+ID_SHARD_INNERDEMON_DEMON_DESCRIPTION,One of Mister Negative's Inner Demons.
+ID_SHARD_INNERDEMON_DRAGON_NAME,Inner Demon (Dragon)
+ID_SHARD_INNERDEMON_DRAGON_DESCRIPTION,One of Mister Negative's Inner Demons.
 ID_SHARD_INVISIBLEWOMAN_NAME,Invisible Woman
 ID_SHARD_INVISIBLEWOMAN_DESCRIPTION,Invisible Woman is a Protector who grants Barrier to her teammates and reveals hidden enemies.
 ID_SHARD_IRONFIST_NAME,Iron Fist
@@ -253,6 +259,8 @@ ID_SHARD_MERCTANK_TAUNT_NAME,Mercenary Bodyguard
 ID_SHARD_MERCTANK_TAUNT_DESCRIPTION,A bodyguard who distracts enemies to protect allies.
 ID_SHARD_MINERVA_NAME,Minn-Erva
 ID_SHARD_MINERVA_DESCRIPTION,A brilliant Kree geneticist that uses her mastery of biology to weaken foes and replenish her allies.
+ID_SHARD_MRNEGATIVE_NAME,Mister Negative
+ID_SHARD_MRNEGATIVE_DESCRIPTION,"An underworld boss whose Darkforce abilities can flip enemies' positive effects, creating openings for his gang of Inner Demons' debilitating attacks."
 ID_SHARD_MISTYKNIGHT_NAME,Misty Knight
 ID_SHARD_MISTYKNIGHT_DESCRIPTION,Misty Knight is the tough-as-nails leader of the Heroes for Hire who uses her cybernetic arm to break through her enemies' defenses.
 ID_SHARD_MRFANTASTIC_NAME,Mister Fantastic
@@ -337,6 +345,8 @@ ID_SHARD_RAVAGERTANK_TAUNT_NAME,Ravager Bruiser
 ID_SHARD_RAVAGERTANK_TAUNT_DESCRIPTION,A boarding expert who uses an energy shield to deflect attacks.
 ID_SHARD_REDGUARDIAN_NAME,Red Guardian
 ID_SHARD_REDGUARDIAN_DESCRIPTION,"Russian warrior of the Cold War, Red Guardian uses his boldness and military tactics to steal positive effects from enemies and grant them to his allies."
+ID_SHARD_REDHULK_NAME,Red Hulk
+ID_SHARD_REDHULK_DESCRIPTION,"A gamma-charged Thaddeus ""Thunderbolt"" Ross, Red Hulk is a legendary Brawler who applies Trauma and destroys enemies with devastating blows."
 ID_SHARD_REDSKULL_NAME,Red Skull
 ID_SHARD_REDSKULL_DESCRIPTION,"Hatred incarnate, Red Skull uses his cunning and ruthless efficiency to lead Hydra to victory in War."
 ID_SHARD_RESCUE_NAME,Rescue
@@ -393,8 +403,14 @@ ID_SHARD_SILVERSURFER_NAME,Silver Surfer
 ID_SHARD_SILVERSURFER_DESCRIPTION,"The Sentinel of the Spaceways, Silver Surfer travels the cosmos using the Power Cosmic to atone for his time as the Herald of Galactus."
 ID_SHARD_SPIDERMAN_NAME,Spider-Man
 ID_SHARD_SPIDERMAN_DESCRIPTION,A quick attacker that weakens opponents and evades incoming attacks.
+ID_SHARD_SPIDERMAN2099_NAME,Spider-Man 2099
+ID_SHARD_SPIDERMAN2099_DESCRIPTION,"Fighting crime in our time from the far-flung future, Miguel O'Hara uses his powers to exploit enemy weaknesses as the Spider-Man of tomorrow!"
+ID_SHARD_SPIDERMANNOIR_NAME,Spider-Man (Noir)
+ID_SHARD_SPIDERMANNOIR_DESCRIPTION,"Spider-Man (Noir) is a stealthy, Tommy Gun-wielding hero that grants additional damage to his allies while laying down heavy fire."
 ID_SHARD_SPIDERPUNK_NAME,Spider-Punk
 ID_SHARD_SPIDERPUNK_DESCRIPTION,Spider-Punk is a spider-powered rock star who uses his electric guitar together with his web abilities to deal big damage and disable groups of bad guys.
+ID_SHARD_SPIDERWEAVER_NAME,Spider-Weaver
+ID_SHARD_SPIDERWEAVER_DESCRIPTION,"A Navajo weaver, Ajei Benally was chosen to safeguard the Web of Life and Destiny, pulling the threads of fate to protect herself and her allies."
 ID_SHARD_SPIDERWOMAN_NAME,Spider-Woman
 ID_SHARD_SPIDERWOMAN_DESCRIPTION,"Spider-Woman is a formidable Blaster that uses pheromone powers to sap her enemy's strength, leaving them open to devastating attacks."
 ID_SHARD_SQUIRRELGIRL_NAME,Squirrel Girl
@@ -405,7 +421,7 @@ ID_SHARD_STATURE_NAME,Stature
 ID_SHARD_STATURE_DESCRIPTION,"The daughter of Ant-Man, Stature uses her Pym Tech to grow to great heights, drawing fire and stomping down enemy defenses."
 ID_SHARD_STORM_NAME,Storm
 ID_SHARD_STORM_DESCRIPTION,A powerful weather controller that charges up devastating attacks to lead her mutant allies to victory.
-ID_SHARD_STRANGESUPREME_NAME,Doctor Strange (Heartless)
+ID_SHARD_STRANGESUPREME_NAME,Strange (Heartless)
 ID_SHARD_STRANGESUPREME_DESCRIPTION,"A heartbroken Doctor Strange absorbed countless otherworldly beings in a search for enough power to return his lost love, but found only the destructive might to demolish his foes."
 ID_SHARD_STRYFE_NAME,Stryfe
 ID_SHARD_STRYFE_DESCRIPTION,Stryfe uses his mutant powers and cunning to grant himself powerful defensive effects.

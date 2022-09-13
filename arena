@@ -401,11 +401,11 @@ ID_AR_MS_DOCTORSTRANGE,Your chance to win DOCTOR STRANGE shards.
 ID_AR_MB_DOCTORSTRANGE,"<color=#fff568>Sorcerer Supreme Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Doctor Strange shards!\n\n<color=#fff568>Sorcerer Supreme Orb</color>\nFor a limited time, a new Sorcerer Supreme Orb is available in the Store. The orb contains <color=#fff568>only Doctor Strange shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Doctor Strange now!"
 ID_AR_NA_DOCTORSTRANGE_CARD,Sorcerer Supreme
 ID_AR_NA_STRANGESUPREME,Strange Effect
-ID_AR_SM_STRANGESUPREME,Win Doctor Strange (Heartless) Shards!
-ID_AR_LM_STRANGESUPREME,Face off against other players' teams to earn various milestone rewards and a chance to win Doctor Strange (Heartless) shards!
+ID_AR_SM_STRANGESUPREME,Win Strange (Heartless) Shards!
+ID_AR_LM_STRANGESUPREME,Face off against other players' teams to earn various milestone rewards and a chance to win Strange (Heartless) shards!
 ID_AR_MT_STRANGESUPREME,LIVE: Strange Effect Blitz
-ID_AR_MS_STRANGESUPREME,Your chance to win Doctor Strange (Heartless) shards!
-ID_AR_MB_STRANGESUPREME,"<color=#fff568>Strange Effect Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Doctor Strange (Heartless) shards!\n\n<color=#fff568>Strange Effect Orb</color>\nFor a limited time, a new Strange Effect Orb is available in the Store. The orb contains <color=#fff568>only Doctor Strange (Heartless) shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Doctor Strange (Heartless) now!"
+ID_AR_MS_STRANGESUPREME,Your chance to win Strange (Heartless) shards!
+ID_AR_MB_STRANGESUPREME,"<color=#fff568>Strange Effect Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Strange (Heartless) shards!\n\n<color=#fff568>Strange Effect Orb</color>\nFor a limited time, a new Strange Effect Orb is available in the Store. The orb contains <color=#fff568>only Strange (Heartless) shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Strange (Heartless) now!"
 ID_AR_NA_STRANGESUPREME_CARD,Strange Effect
 ID_AR_NA_DOCTORVOODOO,Loa Whisperer
 ID_AR_SM_DOCTORVOODOO,Win Doctor Voodoo Shards!
@@ -783,6 +783,13 @@ ID_AR_MT_MRFANTASTIC,LIVE: Elastic Blitz
 ID_AR_MS_MRFANTASTIC,Your chance to win Mister Fantastic shards!
 ID_AR_MB_MRFANTASTIC,"<color=#fff568>Elastic Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Mister Fantastic shards!\n\n<color=#fff568>Elastic Orb</color>\nFor a limited time, a new Elastic Orb is available in the Store. The orb contains <color=#fff568>only Mister Fantastic shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Mister Fantastic now!"
 ID_AR_NA_MRFANTASTIC_CARD,Elastic
+ID_AR_NA_MRNEGATIVE,Negative Edge
+ID_AR_SM_MRNEGATIVE,Win Mister Negative Shards!
+ID_AR_LM_MRNEGATIVE,Face off against other players' teams to earn various milestone rewards and a chance to win Mister Negative shards!
+ID_AR_MT_MRNEGATIVE,LIVE: Negative Edge Blitz
+ID_AR_MS_MRNEGATIVE,Your chance to win Mister Negative shards!
+ID_AR_MB_MRNEGATIVE,"<color=#fff568>Negative Edge Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Mister Negative shards!\n\n<color=#fff568>Negative Edge Orb</color>\nFor a limited time, a new Negative Edge Orb is available in the Store. The orb contains <color=#fff568>only Mister Negative shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Mister Negative now!"
+ID_AR_NA_MRNEGATIVE_CARD,Negative Edge
 ID_AR_NA_MRSINISTER,House of Essex
 ID_AR_SM_MRSINISTER,Win Mister Sinister Shards!
 ID_AR_LM_MRSINISTER,Face off against other players' teams to earn various milestone rewards and a chance to win Mister Sinister shards!
@@ -1162,10 +1169,21 @@ ID_AR_LM_SPIDERMAN,Face off against other players' teams to earn various milesto
 ID_AR_MT_SPIDERMAN,LIVE: Web-Slinger Blitz
 ID_AR_MS_SPIDERMAN,Your chance to win SPIDER-MAN shards.
 ID_AR_MB_SPIDERMAN,"Face off against other players' teams to earn various milestone rewards and a chance to win Spider-Man shards!\n\n<color=#fff568>Web-Slinger Orb</color>\nFor a limited time, a new Web-Slinger Orb is available in the Store. The orb contains <color=#fff568>only Spider-Man shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Spider-Man now!"
-ID_AR_MC_SPIDERMAN,GO!
-ID_AR_ES_SPIDERMAN,ENDED: Web-Slinger Blitz
-ID_AR_EB_SPIDERMAN,The Web-Slinger Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
 ID_AR_NA_SPIDERMAN_CARD,Web-Slinger
+ID_AR_NA_SPIDERMAN2099,Future Byte
+ID_AR_SM_SPIDERMAN2099,Win Spider-Man 2099 Shards!
+ID_AR_LM_SPIDERMAN2099,Face off against other players' teams to earn various milestone rewards and a chance to win Spider-Man 2099 shards!
+ID_AR_MT_SPIDERMAN2099,LIVE: Future Byte Blitz
+ID_AR_MS_SPIDERMAN2099,Your chance to win Spider-Man 2099 shards!
+ID_AR_MB_SPIDERMAN2099,"<color=#fff568>Future Byte Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Spider-Man 2099 shards!\n\n<color=#fff568>Future Byte Orb</color>\nFor a limited time, a new Future Byte Orb is available in the Store. The orb contains <color=#fff568>only Spider-Man 2099 shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Spider-Man 2099 now!"
+ID_AR_NA_SPIDERMAN2099_CARD,Future Byte
+ID_AR_NA_SPIDERMANNOIR,Monochromatic
+ID_AR_SM_SPIDERMANNOIR,Win Spider-Man (Noir) Shards!
+ID_AR_LM_SPIDERMANNOIR,Face off against other players' teams to earn various milestone rewards and a chance to win Spider-Man (Noir) shards!
+ID_AR_MT_SPIDERMANNOIR,LIVE: Monochromatic Blitz
+ID_AR_MS_SPIDERMANNOIR,Your chance to win Spider-Man (Noir) shards!
+ID_AR_MB_SPIDERMANNOIR,"<color=#fff568>Monochromatic Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Spider-Man (Noir) shards!\n\n<color=#fff568>Monochromatic Orb</color>\nFor a limited time, a new Monochromatic Orb is available in the Store. The orb contains <color=#fff568>only Spider-Man (Noir) shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Spider-Man (Noir) now!"
+ID_AR_NA_SPIDERMANNOIR_CARD,Monochromatic
 ID_AR_NA_SPIDERPUNK,Rockin Arachnid
 ID_AR_SM_SPIDERPUNK,Win Spider-Punk Shards!
 ID_AR_LM_SPIDERPUNK,Face off against other players' teams to earn various milestone rewards and a chance to win Spider-Punk shards!
@@ -1173,6 +1191,13 @@ ID_AR_MT_SPIDERPUNK,LIVE: Rockin Arachnid Blitz
 ID_AR_MS_SPIDERPUNK,Your chance to win Spider-Punk shards!
 ID_AR_MB_SPIDERPUNK,"<color=#fff568>Rockin Arachnid Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Spider-Punk shards!\n\n<color=#fff568>Rockin Arachnid Orb</color>\nFor a limited time, a new Rockin Arachnid Orb is available in the Store. The orb contains <color=#fff568>only Spider-Punk shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Spider-Punk now!"
 ID_AR_NA_SPIDERPUNK_CARD,Rockin Arachnid
+ID_AR_NA_SPIDERWEAVER,Woven Destiny
+ID_AR_SM_SPIDERWEAVER,Win Spider-Weaver Shards!
+ID_AR_LM_SPIDERWEAVER,Face off against other players' teams to earn various milestone rewards and a chance to win Spider-Weaver shards!
+ID_AR_MT_SPIDERWEAVER,LIVE: Woven Destiny Blitz
+ID_AR_MS_SPIDERWEAVER,Your chance to win Spider-Weaver shards!
+ID_AR_MB_SPIDERWEAVER,"<color=#fff568>Woven Destiny Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Spider-Weaver shards!\n\n<color=#fff568>Woven Destiny Orb</color>\nFor a limited time, a new Woven Destiny Orb is available in the Store. The orb contains <color=#fff568>only Spider-Weaver shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Spider-Weaver now!"
+ID_AR_NA_SPIDERWEAVER_CARD,Woven Destiny
 ID_AR_NA_SPIDERWOMAN,Arachne
 ID_AR_SM_SPIDERWOMAN,Win Spider-Woman Shards!
 ID_AR_LM_SPIDERWOMAN,Face off against other players' teams to earn various milestone rewards and a chance to win Spider-Woman shards!
