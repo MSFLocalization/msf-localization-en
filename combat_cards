@@ -18,7 +18,7 @@ ID_SCOURGE_CARD_007_NAME,Resolute Foe
 ID_SCOURGE_CARD_007_DESC,"When <color=#86e619>1</color> Non-Summoned Enemy Character Remains In Play, They Gain <color=#fff568>Deathproof</color>, <color=#fff568>Defense Up</color>, <color=#fff568>Deflect</color>, <color=#fff568>Evade</color>, <color=#fff568>Immunity</color>, <color=#fff568>Regeneration</color> for <color=#86e619>+{pass.on_kill_other.proc.OnOneEnemyRemainApplyProcs.combat_mods.extra_abilities.passive.0.actions.0.procs.0.use_count}</color> Turns"
 ID_SCOURGE_CARD_008_NAME,Too Clever
 ID_SCOURGE_CARD_008_DESC,"When A Player Character Uses Their Special, They Gain <color=#fff568>Ability Block</color>"
-ID_SCOURGE_CARD_009_NAME,Bleeder
+ID_SCOURGE_CARD_009_NAME,Bleeder I
 ID_SCOURGE_CARD_009_DESC,"When A Player Character Takes Damage, They Gain <color=#fff568>Bleed</color>"
 ID_SCOURGE_CARD_010_NAME,Blinded by Power
 ID_SCOURGE_CARD_010_DESC,"When A Player Character Uses Their Ultimate, They Gain <color=#fff568>Blind</color>"
@@ -64,7 +64,7 @@ ID_SCOURGE_CARD_030_NAME,NYI Out of Control
 ID_SCOURGE_CARD_030_DESC,Player Cannot Field Controllers
 ID_SCOURGE_CARD_031_NAME,Rubber
 ID_SCOURGE_CARD_031_DESC,Player Characters Take <color=#86e619>{st.damagedone_reflect_pct.20.combat_mods.session_stats.0.Stats.0.val}%</color> Of The Damage They Deal
-ID_SCOURGE_CARD_032_NAME,Experimental Serum
+ID_SCOURGE_CARD_032_NAME,Experimental Serum I
 ID_SCOURGE_CARD_032_DESC,Enemies Gain +<color=#86e619>{st.max_hp_pct.10.combat_mods.session_stats.0.Stats.0.val}%</color> Max Health
 ID_SCOURGE_CARD_033_NAME,Experimental Serum II
 ID_SCOURGE_CARD_033_DESC,Enemies Gain +<color=#86e619>{st.max_hp_pct.20.combat_mods.session_stats.0.Stats.0.val}%</color> Max Health
@@ -120,3 +120,27 @@ ID_GAMBIT_MOD_009_NAME,Royal Flush
 ID_GAMBIT_MOD_009_DESC,Enemies Generate <color=#86e619>{pass.on_gain_energy.abilityenergy.GainExtraEnergy.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Additional Ability Energy Each Time They Generate Ability Energy
 ID_GAMBIT_MOD_010_NAME,Up The Ante
 ID_GAMBIT_MOD_010_DESC,All Enemy Special And Ultimate Ablities Have A Reduced Energy Cost Of <color=#86e619>-1</color>
+ID_SCOURGE_CARD_074_NAME,Dark Resolve III
+ID_SCOURGE_CARD_074_DESC,"On Ally Death, Enemies Gain <color=#fff568>Offense Up</color>"
+ID_SCOURGE_CARD_080_NAME,Bleeder II
+ID_SCOURGE_CARD_080_DESC,"When A Player Character Takes Damage, They Gain <color=#fff568>Minor Bleed</color>"
+ID_SCOURGE_CARD_081_NAME,Pyrrhic Victory II
+ID_SCOURGE_CARD_081_DESC,"When A Player Character Blocks, Apply <color=#fff568>HealBlock</color> To Them"
+ID_SCOURGE_CARD_088_NAME,Vile Resurgence II
+ID_SCOURGE_CARD_088_DESC,"On Enemy Turn, They Gain <color=#fff568>Minor Offense Up</color>"
+ID_SCOURGE_CARD_092_NAME,Overcharged
+ID_SCOURGE_CARD_092_DESC,"When An Enemy Character Gains Ability Energy, They Gain <color=#fff568>Offense Up</color>"
+ID_SCOURGE_CARD_093_NAME,Stage Fright
+ID_SCOURGE_CARD_093_DESC,"When A Player Character Gains <color=#fff568>Taunt</color>, They Gain <color=#fff568>Defense Down</color>"
+ID_SCOURGE_CARD_094_NAME,Flight or Fight
+ID_SCOURGE_CARD_094_DESC,"When An Enemy Character's Health Drops Below <color=#86e619>{pass.below_health.proc.SpeedUpSelfAt40.HorsemenRedHulk.combat_mods.extra_abilities.passive.0.exec_value}%</color> Max Health, Apply <color=#fff568>Speed Up</color> To Them"
+ID_SCOURGE_CARD_095_NAME,Rope a Dope
+ID_SCOURGE_CARD_095_DESC,"When An Enemy Character Ends Their Turn with <color=#9055FF>Vulnerable</color>, They Gain <color=#fff568>Defense Up</color>, <color=#fff568>Deflect</color>, <color=#fff568>Deathproof</color>, and <color=#fff568>Safeguard</color>"
+ID_SCOURGE_CARD_096_NAME,When It Rains
+ID_SCOURGE_CARD_096_DESC,"When a Positive Effect Is Applied To An Enemy Character, Increase The Duration Of All Positive Effects On That Enemy By <color=#86e619>{pass.on_buffed.proc_duration.IncreaseAllPosProcs.HorsemenRedHulk.combat_mods.extra_abilities.passive.0.actions.0.delta}</color> (Up To A Max Of <color=#86e619>{pass.on_buffed.proc_duration.IncreaseAllPosProcs.HorsemenRedHulk.combat_mods.extra_abilities.passive.0.actions.0.max_duration}</color>)"
+ID_SCOURGE_CARD_097_NAME,Energy Absorption
+ID_SCOURGE_CARD_097_DESC,"On An Enemy Character's Turn, Remove All Negative Effects And Heal <color=#86e619>{pass.on_turn.remove_debuff.healself.HorsemenRedHulk.combat_mods.extra_abilities.passive.0.actions.1.drain_pct}%</color> Per Negative Effect Removed"
+ID_SCOURGE_CARD_098_NAME,Unstoppable Force
+ID_SCOURGE_CARD_098_DESC,"On An Enemy <color=#9055FF>Strikers</color> Turn, They Gain <color=#86e619>5%</color> Barrier And Flip <color=#fff568>Offense Down</color>"
+ID_SCOURGE_CARD_099_NAME,Butterfly Effect
+ID_SCOURGE_CARD_099_DESC,"When A <color=#9055FF>Fortifier</color> Character Uses An Ultimate Ability, Spread Positive Effects On That Character To Adjacent Allied Characters"

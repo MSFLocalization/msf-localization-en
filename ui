@@ -176,7 +176,7 @@ ID_FACEBOOK_LOGIN,Facebook Login
 ID_FIGHT,FIGHT
 ID_FIND,FIND
 ID_FINDER_DESC,Obtain the item you're looking for in these modes.
-ID_FINDER_REFRESH_TO_FIND,REFRESH TO FIND IN
+ID_FINDER_REFRESH_TO_FIND,CHANCE TO FIND IN
 ID_FREECRATE_COLLECT,COLLECT ORB
 ID_FREECRATE_NEXT_FREE,Next Free Orb in
 ID_FRIENDSLIST_INVITE,ADD CONTACT
@@ -240,7 +240,6 @@ ID_GAMEMODE_CAMPAIGNS,Campaigns
 ID_GAMEMODE_CHALLENGES,Challenges
 ID_GAMEMODE_DAILYMISSIONS,Daily Objectives
 ID_GAMEMODE_EVENTS,Events
-ID_GAMEMODE_OPERATIONS,COMING SOON
 ID_GAMEMODE_QUESTS,Milestones
 ID_GAMEMODE_RAIDS,Alliance Raids
 ID_GAMEMODE_SYNCPVPARENA,VS Arena
@@ -405,6 +404,7 @@ ID_OPTIONS_RAID_KEY_OFFSET_COOLDOWN_DISABLE_DESCRIPTION,You are currently on coo
 ID_OPTIONS_COMBAT_REDUCEDCOMBATTEXT,Use reduced combat text
 ID_OPTIONS_COMBAT_AUTOBASIC,Show Basic-Only Autoplay option
 ID_OPTIONS_COMBATTEXTOPTIONS,Combat Text Filtering
+ID_OPTIONS_DISABLE_ADS,Disable Promotional Offers
 ID_OPTIONS_INSANITY_ACTIVE_JUMP,Active Dark Dimension Tab & Selection
 ID_OPTIONS_INSANITY_ACTIVE_JUMP_FIRST_RUN_ONLY,Active Dark Dimension Tab & Selection For First-Run Only
 ID_OPTIONS_AGRESSIVE_BACKGROUND_DOWNLOAD,Download all Assets on Wi-Fi
@@ -547,6 +547,7 @@ ID_TIME_START_BRACKET,(Starts in {duration})
 ID_TO_STORE,TO STORE
 ID_TRAIN,APPLY
 ID_UI_ABILITIES,ABILITIES
+ID_UI_INIT_OFFERWALL,Loading Promo Offers
 ID_UI_ACHIEVEMENTS,ACHIEVEMENTS
 ID_UI_ALLIANCE,ALLIANCE
 ID_UI_AND_MORE,AND MORE!
@@ -732,6 +733,7 @@ ID_FAILURE_TITLE,FAILURE
 ID_ARENA_MILESTONE_ENDING,ENDED
 ID_SQUAD_CANNOT_ADD,CANNOT ADD
 ID_EVENT_CAMPAIGN_AUTOWIN_UNLOCKED,AUTO WIN UNLOCKED
+ID_EVENT_CAMPAIGN_TIER_UNLOCKED,UNLOCKED
 ID_EVENT_CAMPAIGN_AUTOWIN_TIER_1,Clear a mission to\n<b><color=#ffffff>AUTO WIN</color></b> it on <color=#fff568>{tier0}</color>
 ID_EVENT_CAMPAIGN_AUTOWIN_TIER_2,Clear a mission to <b><color=#ffffff>AUTO WIN</color></b>\nit on <color=#fff568>{tier0}/{tier1}</color>
 ID_EVENT_CAMPAIGN_AUTOWIN_COLORIZED_VICTORY_1,<b><color=#0E86FFFF>AUTO WIN</color></b> unlocked for this mission on <color=#FFEA00FF>{tier0}</color>
@@ -741,7 +743,7 @@ ID_EVENT_CAMPAIGN_TYPE_WASP,WASP
 ID_BONUS_REWARD_QUANTITY_LEFT,<size=45><i>{qty}</i></size>\n<size=40>left</size>
 ID_SIM_BONUS_ALL_COMPLETED,ALL BONUS REWARDS COLLECTED
 ID_SIM_BONUS_DROPS_LEFT,"BONUS DROPS LEFT: "
-ID_GEAR_TIER_COMING_SOON,"<color=""#F7941DFF"">Gear Tier {tier}</color> will be available soon."
+ID_GEAR_TIER_COMING_SOON,<color=#F7941DFF>Gear Tier {tier}</color> will be available soon.
 ID_IAP_OFFER_PURCHASES_LEFT_SINGULAR,{count} purchase left
 ID_IAP_OFFER_PURCHASES_LEFT_PLURAL,{count} purchases left
 ID_EVENT_CAMPAIGN_TYPE_ROCKET,ROCKET
@@ -882,7 +884,9 @@ ID_EVENT_CAMPAIGN_TYPE_STRANGESUPREME,HEARTLESS
 ID_EVENT_CAMPAIGN_TYPE_FANTOMEX,FANTOMEX
 ID_EVENT_CAMPAIGN_TYPE_VALKYRIE,VALKYRIE
 ID_EVENT_CAMPAIGN_TYPE_MORGAN,MORGAN LE FAY
+ID_EVENT_CAMPAIGN_TYPE_ROGUE,ROGUE
 ID_EVENT_CAMPAIGN_TYPE_VIVVISION,VIV VISION
+ID_EVENT_CAMPAIGN_TYPE_SPIDERWEAVER,SPIDER-WEAVER
 ID_OFFER_AND,AND
 ID_OFFER_OR,OR
 ID_CHAL_UNLOCK,UNLOCK
@@ -972,6 +976,62 @@ ID_OPTIONS_ACCOUNT_DELETION,ACCOUNT DELETION
 ID_OPTIONS_ACCOUNT_DELETION_CONFIRMATION_BODY,"Are you sure you want to delete your account?\n\nIf you submit an account deletion request, you will lose your in-game progress, all items and virtual currency that you earned or purchased in-game, and related account data. You will NOT be refunded for unused items you may have purchased. This action is PERMANENT and your account CANNOT be recovered once deleted. To proceed with account deletion, click ""Continue"" below."
 ID_OPTIONS_ACCOUNT_DELETION_CANCEL,NOT NOW
 ID_OPTIONS_ACCOUNT_DELETION_CONFIRM,CONTINUE
+ID_GLOSSARY_NAME,GLOSSARY
+ID_GLOSSARY_DESC,Hey there!  This is the glossary for how various stats and effects work in Marvel Strike Force.
+ID_GLOSSARY_FX,Positive and Negative Effects
+ID_GLOSSARY_FX_DESC,"Positive and Negative Effects are applied to characters in combat.\n\nIn general, abilities apply Positive Effects to your team and Negative Effects to the opposing team."
+ID_GLOSSARY_POSITIVE_FX,Positive Effects
+ID_GLOSSARY_POSITIVE_FX_DESC,Positive Effects are usually beneficial to the character they are applied to.  They appear over characters' heads in combat as icons on a green disc.\n\nA handful of abilities apply certain positive effects (such as <color=#fff568>Taunt</color>) to your opponents.
+ID_GLOSSARY_OFFENSE_UP_DESC,"<color=#fff568>Offense Up</color> increases a character's effective Damage and Focus stats by 50%.\n\nThis is multiplicative with <color=#fff568>Defense Up</color> or <color=#fff568>Defense Down</color>, so your effective damage against an opponent with <color=#fff568>Defense Up</color> would be 50% of 150%, or 75% of normal."
+ID_GLOSSARY_DEFENSE_UP_DESC,"<color=#fff568>Defense Up</color> increases a character's effective Resistance stat by 50%, and reduces incoming damage by 50%.\n\nThis effect is multiplicative with <color=#fff568>Offense Up</color> or <color=#fff568>Offense Down</color>. If a character has Armor, that damage reduction is applied after that of <color=#fff568>Defense Up</color>."
+ID_GLOSSARY_SPEED_UP_DESC,<color=#fff568>Speed Up</color> increases a character's effective Speed by 50%.
+ID_GLOSSARY_TAUNT_DESC,"If you have at least one opponent with the <color=#fff568>Taunt</color> effect, you must target an opponent with <color=#fff568>Taunt</color>.  Some abilities may bypass this restriction.\n\nA character with <color=#fff568>Taunt</color> who gains <color=#fff568>Stealth</color> loses <color=#fff568>Taunt</color>, and vice-versa."
+ID_GLOSSARY_STEALTH_DESC,"You cannot target an opponent who has the <color=#fff568>Stealth</color> effect unless all opponents have <color=#fff568>Stealth</color>.\n\nSome chains and most multi-target attacks will hit characters even if they have <color=#fff568>Stealth</color>.\n\nA character with <color=#fff568>Stealth</color> who gains <color=#fff568>Taunt</color> loses <color=#fff568>Stealth</color>, and vice-versa."
+ID_GLOSSARY_HOT_DESC,"At the start of their turn, a character with <color=#fff568>Regeneration</color> heals for 10% of the Max Health of the character who applied <color=#fff568>Regeneration</color> to them."
+ID_GLOSSARY_COUNTER_DESC,A character with <color=#fff568>Counterattack</color> will attack the next character who hits them with an attack they can respond to.\n\nSome attacks cannot be countered. Being hit with such an attack doesn't remove <color=#fff568>Counterattack</color>.
+ID_GLOSSARY_EVADE_DESC,A character with <color=#fff568>Evade</color> will dodge the next attack directed against them which they can dodge.\n\nSome attacks cannot be dodged. Failing to dodge such attacks usually doesn't remove <color=#fff568>Evade</color>.
+ID_GLOSSARY_DEATHPROOF_DESC,A character with <color=#fff568>Deathproof</color> will stay at 1 health and lose <color=#fff568>Deathproof</color> instead of being defeated the next time they take damage.\n\nAbilities which steal health rather than dealing damage bypass <color=#fff568>Deathproof</color>.
+ID_GLOSSARY_ASSISTNOW_DESC,A character with <color=#fff568>Assist Now</color> will assist the current character if they attack.  <color=#fff568>Assist Now</color> goes away at the end of the turn if it isn't triggered.\n\nSome non-attack abilities also trigger <color=#fff568>Assist Now</color>.
+ID_GLOSSARY_DEFLECT_DESC,A character with <color=#fff568>Deflect</color> will block the next attack directed against them which they can block.\n\nSome attacks cannot be blocked. Failing to block such attacks still removes <color=#fff568>Deflect</color>.
+ID_GLOSSARY_IMMUNITY_DESC,"A character with <color=#fff568>Immunity</color> cannot have negative effects applied to them.\n\nThey can still fail to resist other effects, including those which would remove <color=#fff568>Immunity</color>."
+ID_GLOSSARY_CHARGED_DESC,"A character with <color=#fff568>Charged</color> will gain benefits specified in their abilities.\n\n<color=#fff568>Charged</color> persists between combats in game modes where characters have persistent health, such as Raids, War, and Dark Dimension."
+ID_GLOSSARY_RANDOM_POS_FX,Random Positive Effect
+ID_GLOSSARY_RANDOM_POS_FX_DESC,"If an ability says it applies a random positive effect, it has an equal chance of applying <color=#fff568>Offense Up</color>, <color=#fff568>Defense Up</color>, or <color=#fff568>Speed Up</color>."
+ID_GLOSSARY_NEGATIVE_FX,Negative Effects
+ID_GLOSSARY_NEGATIVE_FX_DESC,Negative Effects are harmful to the character they are applied to.  They appear over characters' heads in combat as icons on a red disc.\n\nA handful of abilities apply negative effects to the acting character or to their allies.
+ID_GLOSSARY_OFFENSE_DOWN_DESC,"<color=#fff568>Offense Down</color> decreases a character's effective Damage and Focus stats by 50%.\n\nThis is multiplicative with <color=#fff568>Defense Up</color> or <color=#fff568>Defense Down</color>, so your effective damage against an opponent with <color=#fff568>Defense Up</color> would be 50% of 50%, or 25% of normal."
+ID_GLOSSARY_DEFENSE_DOWN_DESC,"<color=#fff568>Defense Down</color> decreases a character's effective Resistance stat by 50%, and increases incoming damage by 50%.\n\nThis effect is multiplicative with <color=#fff568>Offense Up</color> or <color=#fff568>Offense Down</color>. If a character has Armor, that damage reduction is applied after the damage increase from <color=#fff568>Defense Down</color>."
+ID_GLOSSARY_SPEED_DOWN_DESC,<color=#fff568>Slow</color> decreases a character's effective Speed by 50%.
+ID_GLOSSARY_STUN_DESC,A character with <color=#fff568>Stun</color> doesn't get to act on their next turn.
+ID_GLOSSARY_ACCURACYDOWN_DESC,A character with <color=#fff568>Blind</color> loses 100% Accuracy.\n\nCharacters who have a base Accuracy which is greater than 100% still have a chance to hit their targets.
+ID_GLOSSARY_HEALBLOCK_DESC,A character with <color=#fff568>Heal Block</color> cannot regain health by healing.\n\nThey may still steal health or have it transferred to them.
+ID_GLOSSARY_ABILITYBLOCK_DESC,A character with <color=#fff568>Ability Block</color> can only use their Basic attack on their turn.
+ID_GLOSSARY_DOT_DESC,"At the start of their turn, a character with <color=#fff568>Bleed</color> takes damage. This damage bypasses Barrier.\n\nThe amount of damage dealt is based on the damage of the character and the level of the ability that applied <color=#fff568>Bleed</color>, as follows:\n\nLevel 1: 45% damage\nLevel2: 65% damage\nLevel 3: 80% damage\nLevel 4: 100% damage\nLevel 5: 115% damage\nLevel 6: 135% damage\nLevel 7: 150% damage"
+ID_GLOSSARY_DISRUPTED_DESC,"A character with <color=#fff568>Disrupted</color> cannot have positive effects applied to them.\n\nThey can still benefit from healing and other combat effects, including those which would remove <color=#fff568>Disrupted</color>."
+ID_GLOSSARY_RANDOM_NEG_FX,Random Negative Effect
+ID_GLOSSARY_RANDOM_NEG_FX_DESC,"If an ability says it applies a random negative effect, it has an equal chance of applying <color=#fff568>Offense Down</color>, <color=#fff568>Defense Down</color>, or <color=#fff568>Slow</color>."
+ID_GLOSSARY_STATS,Character Attributes
+ID_GLOSSARY_STATS_DESC,A character's performance in combat is determined by their Attribute values.\n\nCharacter attributes generally fall into one of two categories:\n\n- <color=#fff568>Core Attributes</color> (which scale with progression)\n- <color=#fff568>Secondary Attributes</color> (which rarely change).
+ID_GLOSSARY_CORE_STATS,Core Attributes
+ID_GLOSSARY_CORE_STATS_DESC,"Core Attributes scale with character Level, Gear, Gear Tier, Star Rank, Red Stars, Stark Tech, and Iso 8.\n\nThese values are Core Attributes:\n\n-Damage\n-Health\n-Armor\n-Focus\n-Resistance"
+ID_GLOSSARY_HEALTH_DESC,A character's <color=#fff568>Health</color> determines how much damage a character can take before they are defeated.\n\nHealing abilities usually scale off a character's <color=#fff568>Health</color>.
+ID_GLOSSARY_DAMAGE_DESC,"A character's <color=#fff568>Damage</color> is the base value used by Abilities when calculating how much damage they will deal.\n\nAbilities multiply a character's base <color=#fff568>Damage</color> value, and may modify how it is applied (such as making it <color=#fff568>Piercing</color>)."
+ID_GLOSSARY_ARMOR_DESC,"A character's <color=#fff568>Armor</color> reduces incoming damage before it's applied to the character's health.\n\n<color=#fff568>Piercing</color> damage ignores <color=#fff568>Armor</color>, and temporarily reduces its effectiveness against non-<color=#fff568>Piercing</color> damage which is part of the same attack."
+ID_GLOSSARY_FOCUS_DESC,"A character's <color=#fff568>Focus</color> controls whether effects get applied to opposing characters.\n\nThe higher a character's <color=#fff568>Focus</color>, the more likely they are to apply Negative Effects and clear Positive Effects from opponents."
+ID_GLOSSARY_RESISTANCE_DESC,"A character's <color=#fff568>Resistance</color> controls whether opponents can apply Negative Effects to or clear Positive Effects off that character.\n\nThe higher a character's <color=#fff568>Resistance</color>, the more likely they are to resist opponents applying Negative Effects and clearing Positive Effects.\n\nIf a character would apply a negative effect to themselves or to an ally, that Negative Effect cannot be resisted."
+ID_GLOSSARY_SECONDARY_STATS,Secondary Attributes
+ID_GLOSSARY_SECONDARY_STATS_DESC,"Secondary Attributes generally don't change except by increasing abilities which reference them.\n\nCertain Secondary Attributes, like <color=#fff568>Dodge Chance</color>, <color=#fff568>Block Chance</color>, <color=#fff568>Accuracy</color>, and <color=#fff568>Block Amount</color>, have initial values which vary between characters."
+ID_GLOSSARY_CRIT_DAMAGE_DESC,The value an attack's damage is multiplied by when that attack is a <color=#fff568>Critical Hit</color>.
+ID_GLOSSARY_CRIT_CHANCE_DESC,"The percentage chance a given attack will be a <color=#fff568>Critical Hit</color>.\n\nIf an action hits multiple opponents, or a single opponent multiple times (or both), each discrete application of damage has a chance of being a <color=#fff568>Critical Hit</color>.\n\nSome abilities specify that they cannot inflict <color=#fff568>Critical Hit</color>s."
+ID_GLOSSARY_SPEED_DESC,"The amount a character's Speed Bar charges per time unit that passes in combat. A <color=#fff568>Speed</color> value of 100 is considered average.\n\nA character can take an action once their Speed Bar reaches or exceeds 1000. If multiple characters can act, the character with the highest Speed Bar value acts first.\n\nTaking your turn reduces your Speed Bar by 1000."
+ID_GLOSSARY_DODGE_CHANCE_DESC,The chance that a character will <color=#fff568>Dodge</color> an incoming attack. Dodging an attack prevents all damage and other effects linked to that attack.\n\nSome actions contain multiple attacks which must be dodged individually.\n\nSome attacks cannot be dodged. <color=#fff568>Unavoidable</color> attacks cannot miss or be dodged.
+ID_GLOSSARY_BLOCK_CHANCE_DESC,"The chance that a character will <color=#fff568>Block</color> an incoming attack.\n\nBlocking an attack reduces its damage by a character's <color=#fff568>Block Amount</color>, and has percent chance equal to the character's <color=#fff568>Block Amount</color> to resist any effects linked to that attack.\n\nSome attacks cannot be Blocked."
+ID_GLOSSARY_BLOCK_AMOUNT_DESC,The amount of an attack's damage that will be mitigated if a character <color=#fff568>Blocks</color> an incoming attack.
+ID_GLOSSARY_ACCURACY_DESC,"The chance that a character's attack will not <color=#fff568>Miss</color>.\n\nAll characters have a base <color=#fff568>Accuracy</color> of 100% or higher, so they can only <color=#fff568>Miss</color> if they are <color=#fff568>Blind</color> (or otherwise have their <color=#fff568>Accuracy</color> reduced)."
+ID_GLOSSARY_REVIVE_CHANCE,Revive Chance
+ID_GLOSSARY_REVIVE_CHANCE_DESC,The chance that a character will automatically <color=#fff568>Revive</color> on being defeated.\n\nCharacters generally only have a chance to <color=#fff568>Revive</color> if they (or one of their allies) has an ability which grants it.
+ID_GLOSSARY_POWER,Power
+ID_GLOSSARY_POWER_DESC,"<color=#fff568>Power</color> is a value derived from a character's Attributes, ability levels, equipped gear, gear tier, gold stars, red stars, Iso 8, and the expected stats of a character at the same star rank, level and gear tier.\n\nPower is an approximate value which goes up as you upgrade a character. <color=#fff568>Power</color> only reflects what Ability Levels a character has, not how effective or relevant their Abilities are."
 ID_MINSPEC_NA_MINSPEC_IOS13,Device Update Needed!
 ID_MINSPEC_BO_MINSPEC_IOS13,The minimum device requirements to play MARVEL Strike Force will be iOS 13 for iOS devices with the upcoming Version 6.5 Release (slated for the end of October 2022). We recommend updating as soon as possible to avoid any disruptions to your playing experience.
 ID_MINSPEC_NA_MINSPEC_OS7_2GB,Device Update Needed!

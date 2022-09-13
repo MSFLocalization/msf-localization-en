@@ -709,7 +709,7 @@ ID_ECM_SHATTERSTAR_MC,GO!
 ID_ECM_SHATTERSTAR_MT,The Mojoverse Mayhem event has started!
 ID_ECM_STRANGESUPREME_NAME,Forbidden Knowledge
 ID_ECM_STRANGESUPREME_DESC,"When a dark mystical anomaly draws Scarlet Witch and Agatha Harkness to London, they encounter a sorcerer from another world and embark on a quest across space and time."
-ID_ECM_CHANCE_STRANGESUPREME,Earn Doctor Strange (Heartless) shards
+ID_ECM_CHANCE_STRANGESUPREME,Earn Strange (Heartless) shards
 ID_ECM_STRANGESUPREME_DESC_A,"Recommendations:\n- Squad Lvl 85+\n- Gear Tier 15+\n- Ability Lvl 6+\n\nWhen a dark mystical anomaly draws Scarlet Witch and Agatha Harkness to London, they encounter a sorcerer from another world and embark on a quest across space and time."
 ID_ECM_STRANGESUPREME_DESC_B,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWhen a dark mystical anomaly draws Scarlet Witch and Agatha Harkness to London, they encounter a sorcerer from another world and embark on a quest across space and time."
 ID_ECM_STRANGESUPREME_DESC_C,"Recommendations:\n- Squad Lvl 35+\n- Gear Tier 6+\n- Ability Lvl 2+\n\nWhen a dark mystical anomaly draws Scarlet Witch and Agatha Harkness to London, they encounter a sorcerer from another world and embark on a quest across space and time."
@@ -770,6 +770,15 @@ ID_ECM_SIX_MB,"Working with S.T.R.I.K.E., Norman Osborn recruits members of the 
 ID_ECM_SIX_MC,GO!
 ID_ECM_SIX_MT,The Sinister S.T.R.I.K.E. Event has started!
 ID_ECM_SIX_MS,Join the Sinister Six in capturing Kingpin!
+ID_ECM_SPIDERWEAVER_NAME,Web of Life
+ID_ECM_SPIDERWEAVER_DESC,"While tracking a tangle in the Web of Life and Destiny, Spider-Weaver finds herself at the center of a new threat."
+ID_ECM_CHANCE_SPIDERWEAVER,Earn Spider-Weaver shards
+ID_ECM_SPIDERWEAVER_DESC_A,"Recommendations:\n- Squad Lvl 85+\n- Gear Tier 15+\n- Ability Lvl 6+\n\nWhile tracking a tangle in the Web of Life and Destiny, Spider-Weaver finds herself at the center of a new threat."
+ID_ECM_SPIDERWEAVER_DESC_B,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\n While tracking a tangle in the Web of Life and Destiny, Spider-Weaver finds herself at the center of a new threat."
+ID_ECM_SPIDERWEAVER_DESC_C,"Recommendations:\n- Squad Lvl 35+\n- Gear Tier 6+\n- Ability Lvl 2+\n\n While tracking a tangle in the Web of Life and Destiny, Spider-Weaver finds herself at the center of a new threat."
+ID_ECM_SPIDERWEAVER_MB,"While tracking a tangle in the Web of Life and Destiny, Spider-Weaver finds herself at the center of a new threat."
+ID_ECM_SPIDERWEAVER_MC,GO!
+ID_ECM_SPIDERWEAVER_MT,The Web of Life event has started!
 ID_ECM_SQUIRREL_NAME,Unbeatable Education
 ID_ECM_SQUIRREL_DESC,"Something strange is afoot at Empire U. It's time for Doreen Green to register for class and kick some-\n\nHold up... Let's try that again, It's time for Squirrel Girl to eat nuts and kick butts!"
 ID_ECM_CHANCE_SQUIRREL,Earn Squirrel Girl shards
@@ -1388,6 +1397,9 @@ ID_INFO_BO_MONSTERVSMACHINE,"Rack up points toward a 7-day milestone by earning 
 ID_INFO_NA_HULKHUNTER,Hulk Hunter
 ID_INFO_DE_HULKHUNTER,Recruit Abomination throughout September!
 ID_INFO_BO_HULKHUNTER,"Earn points toward this month-long milestone by collecting Mutated Cells, Imperfect Serum, Irradiated Blood, Reptoid Fin, and Indestructible Pants from September events. Mutated Cells will also be available in Daily Free Claims throughout the month.\n\nThere will be several separate Milestone Events that provide progress towards the <color=#fff568>Hulk Hunter Milestone</color>. Earn Gamma Goliath Orbs from Milestone rewards which contain Abomination shards with each orb containing a chance to get up to 100 shards of the radioactive brawler!\n\nEarn at least 200,000 points to qualify for this blind Leaderboard rewarding Armory 17 Orb Fragments for the top 25 and Training Orb Fragments and Gold Promotions Credits for the top 50 players. Other competitors can earn Gold Orb Fragments, Teal and Orange Raid Orbs, Milestone II Orb Fragments, and Silver Promotion Credits!"
+ID_INFO_NA_BRAINASBRAWN,Brains as Brawn
+ID_INFO_DE_BRAINASBRAWN,Earn Brawn Shards & Reptoid Fin
+ID_INFO_BO_BRAINASBRAWN,"Recruit <color=#fff568>Brawn</color>, earn <color=#fff568>Hulk Hunter</color> progress with <color=#fff568>Mutated Cells</color> and <color=#fff568>Reptoid Fin</color>, and pump up your roster with beefy rewards!\n\n<color=#fff568>Totally Awesome Milestone</color>\nStart your journey to recruit this jade genius by spending Campaign Energy and earning Alliance Credits to earn points toward a 6-day milestone that rewards:\n\n- Brawn character shards\n- Mutated Cells and Reptoid Fin\n- Teal Elite Orbs\n- T2 Level 4 Ions\n- And more!\n\n<color=#fff568>Cho Time Web Milestone</color>\nShow off your roster's might by Blitzing your way toward points for the Cho Time Web Milestone. Earn more points by using Hero Asgardians, Ravagers, and Wave 1 - Avengers, and even more points if those characters are equipped with Gear Tier 13+.\n\nThen head to the web to claim your rewards: \n- PhDs to spend in the Event Store\n- Mutated Cells\n- Mega Orb Fragments\n- Gear Tier 17 Orb Fragments\n\n<color=#fff568>PhD Event Store</color>\nBy spending Campaign Energy and earning progress in the ""Cho Time"" Web Milestone, you'll earn a limited-time currency: <color=#fff568>PhD</color>. Head to the limited-time Event Store to spend <color=#fff568>PhDs</color> on any of the following items:\n\n- Ravager, Wave 1 - Avenger, and Hero Asgardian character shards\n- Teal Unique Gear\n- Teal, Orange, and Purple Skill and Tech Gear parts\n- Ability Mats\n- And more!"
 ID_INFO_NA_STARKRANDD,Stark R&D
 ID_INFO_DE_STARKRANDD,Gamma Radiation & the Imperfect Serum!
 ID_INFO_BO_STARKRANDD,"Earn <color=#fff568>Gamma Radiation</color> and <color=#fff568>Hulk Hunter</color> progress with these milestones: \n<color=#fff568>Stark R&D Milestone</color>\nEarn points toward this 6-day milestone by battling in Blitz and spending Gold. You'll earn more points using Bionic Avengers and even more points if your Bionic Avengers are Gear Tier 13 and above. \n\nRewards include:\n- Imperfect Serum\n- Augmented Gamma Radiation\n- Elite 5 Credits\n- Training Modules\n- Ability Materials\n- Orange Gear\n\n<color=#fff568>Joint Venture Web Milestone</color>\nCollect Alliance Credits (via Alliance Donations) to earn points toward a 6-day milestone that rewards Gold Orb Fragments, Legacy III Orb Fragments, and T2 L4 Ions."

@@ -9508,6 +9508,208 @@ ID_DIALOG_ECM_VIVVISION_09_END_6,"Thank you, Father. I am... Saddened that we di
 ID_DIALOG_ECM_VIVVISION_09_END_7,"Viz, this is wonderful, but the three of us need to get back to S.T.R.I.K.E. right now."
 ID_DIALOG_ECM_VIVVISION_09_END_8,"It's Morgan Le Fay... We knew she was up to something, but now we know what."
 ID_DIALOG_ECM_VIVVISION_09_END_9,She's freed Apocalypse. And the world is in terrible danger.
+ID_DIALOG_ECM_ROGUE_01_INTRO_0,"THE X-MANSION, UPSTATE NEW YORK..."
+ID_DIALOG_ECM_ROGUE_01_INTRO_1,"Whew! Ah tell ya, sugah, somethin' about this latest round of Corrupted baddies? "
+ID_DIALOG_ECM_ROGUE_01_INTRO_2,Kickin' their butt takes it outta you.
+ID_DIALOG_ECM_ROGUE_01_INTRO_3,"You'd t'ink they'd be easier, wit' Ultimus an' Doom gone. But you're right, cherie - they're worked up about somet'ing."
+ID_DIALOG_ECM_ROGUE_01_INTRO_4,"Either way, ah'm exhausted. "
+ID_DIALOG_ECM_ROGUE_01_INTRO_5,"Forty winks is exactly what this southern belle needs to be fresh as a dang daisy. If y'all need me, ah'll be in bed. "
+ID_DIALOG_ECM_ROGUE_01_INTRO_6,"Perhaps you need a li'l company, eh?"
+ID_DIALOG_ECM_ROGUE_01_INTRO_7,"Nice try, handsome. This is a solo mission."
+ID_DIALOG_ECM_ROGUE_01_END_0,"Ugh, ah'm too wound up from all that brawlin', couldn't catch a single Z."
+ID_DIALOG_ECM_ROGUE_01_END_1,"Hello? Y'all? Anyone here? "
+ID_DIALOG_ECM_ROGUE_01_END_2,"I sent the students away, Rogue. For their own protection."
+ID_DIALOG_ECM_ROGUE_01_END_3,"Scott? What's going on? Protection from what? "
+ID_DIALOG_ECM_ROGUE_01_END_4,"From you, Rogue. Whether you know it or not, you're a danger to everyone. "
+ID_DIALOG_ECM_ROGUE_01_END_5,"I told you that you couldn't trust her, Summers. Not after what she did to me. "
+ID_DIALOG_ECM_ROGUE_01_END_6,"Carol? That... That was a long, long time ago. Ah told you how sorry ah was..."
+ID_DIALOG_ECM_ROGUE_01_END_7,I need you to stand down. Or we'll take you down.
+ID_DIALOG_ECM_ROGUE_02_INTRO_0,"Ah don't understand... Why are y'all doing this? "
+ID_DIALOG_ECM_ROGUE_02_INTRO_1,We were wrong to take you in. You've been a member of the X-Men...
+ID_DIALOG_ECM_ROGUE_02_INTRO_2,"An Avenger... "
+ID_DIALOG_ECM_ROGUE_02_INTRO_3,"But you'll always be a villain at your core. It's your nature.  "
+ID_DIALOG_ECM_ROGUE_02_INTRO_4,You can't even get close to someone without hurting them.
+ID_DIALOG_ECM_ROGUE_02_INTRO_5,"And we let you get close to us.\nBig mistake. "
+ID_DIALOG_ECM_ROGUE_02_INTRO_6,"Ah'm not going to stand here and let y'all say the years we spent side-by-side mean nothin'! "
+ID_DIALOG_ECM_ROGUE_02_INTRO_7,"Y'all want to bring me down, it won't be without a fight!"
+ID_DIALOG_ECM_ROGUE_02_END_0,"We... We told you... "
+ID_DIALOG_ECM_ROGUE_02_END_1,"You'll be... The end of us all... "
+ID_DIALOG_ECM_ROGUE_02_END_2,Y'all forced me into this fight! Ah didn't want to do this!
+ID_DIALOG_ECM_ROGUE_02_END_3,Hurting my friends... what the heck am ah doing?!
+ID_DIALOG_ECM_ROGUE_02_END_4,The right thing! But this fight isn't over yet. Come with me quick!
+ID_DIALOG_ECM_ROGUE_03_INTRO_0,"Mystique, you need to believe me, ah didn't mean to hurt anyone. Ah'm not even sure what's HAPPENIN'. "
+ID_DIALOG_ECM_ROGUE_03_INTRO_1,"It's okay, sweetheart. I'm here now. "
+ID_DIALOG_ECM_ROGUE_03_INTRO_2,"These X-Men, these Avengers, S.T.R.I.K.E., they were never going to fully embrace you."
+ID_DIALOG_ECM_ROGUE_03_INTRO_3,"What? But... They did, they were my family..."
+ID_DIALOG_ECM_ROGUE_03_INTRO_4,"I was your family, too. And you betrayed me. But I'm welcoming you back to where you belong..."
+ID_DIALOG_ECM_ROGUE_03_INTRO_5,With the Brotherhood.
+ID_DIALOG_ECM_ROGUE_03_INTRO_6,No. No! Ah'm not goin' back to that life! And y'all can't make me!
+ID_DIALOG_ECM_ROGUE_03_END_0,"You spoiled brat. Your friends turn on you, and I graciously save you AGAIN?"
+ID_DIALOG_ECM_ROGUE_03_END_1,And this is how you repay me?
+ID_DIALOG_ECM_ROGUE_03_END_2,"Ah'm grateful for everything y'all did for me, Raven. But y'all used me..."
+ID_DIALOG_ECM_ROGUE_03_END_3,Like the weapon you are. That's all you're ever going to be.
+ID_DIALOG_ECM_ROGUE_03_END_4,That ain't true!
+ID_DIALOG_ECM_ROGUE_03_END_5,"Oh, but it is... Me, Xavier, Fury...\nJust point you at something and watch you destroy it."
+ID_DIALOG_ECM_ROGUE_03_END_6,NO! STOP IT! AH'M NOT GOING TO LET YOU SAY THAT!
+ID_DIALOG_ECM_ROGUE_03_END_7,AHHH!
+ID_DIALOG_ECM_ROGUE_03_END_8,Mystique?! No... No... Ah... Ah killed her?!
+ID_DIALOG_ECM_ROGUE_04_INTRO_0,Ah can't believe it... What have ah done. Raven... Maybe they're all right.
+ID_DIALOG_ECM_ROGUE_04_INTRO_1,"Maybe ah'm a danger to everyone. "
+ID_DIALOG_ECM_ROGUE_04_INTRO_2,"Dat ain't true, cherie."
+ID_DIALOG_ECM_ROGUE_04_INTRO_3,Remy? Stay away from me! Ah'm a monster.
+ID_DIALOG_ECM_ROGUE_04_INTRO_4,"You ain't. I saw what you did to Mystique, and it wasn't your fault. "
+ID_DIALOG_ECM_ROGUE_04_INTRO_5,"Anything in you dat ain't good, she put there. "
+ID_DIALOG_ECM_ROGUE_04_INTRO_6,"Gambit's here by your side, no matter what. "
+ID_DIALOG_ECM_ROGUE_04_END_0,Where are all these enemies comin' from?!
+ID_DIALOG_ECM_ROGUE_04_END_1,"No idea, but we can handle it, cherie. We'll get someplace safe an' figure it out together."
+ID_DIALOG_ECM_ROGUE_04_END_2,"Thanks for remindin' me that ah'm more than what other people say, sugah. "
+ID_DIALOG_ECM_ROGUE_04_END_3,"Anytime, Rogue. I just wish... I... Help... Help me... So weak..."
+ID_DIALOG_ECM_ROGUE_04_END_4,Remy?! What's happenin' to you?
+ID_DIALOG_ECM_ROGUE_04_END_5,"That would be me, sugah."
+ID_DIALOG_ECM_ROGUE_05_INTRO_0,Who are you?! What did you do to Remy?
+ID_DIALOG_ECM_ROGUE_05_INTRO_1,"Why darlin', don't you recognize me? "
+ID_DIALOG_ECM_ROGUE_05_INTRO_2,Ah'm you.
+ID_DIALOG_ECM_ROGUE_05_INTRO_3,"Oh, ah ain't that ugly. "
+ID_DIALOG_ECM_ROGUE_05_INTRO_4,"Ha. I'm what you could be if you embrace your powers.\nI'm you at our fittest. "
+ID_DIALOG_ECM_ROGUE_05_INTRO_5,I'm the you meant to serve Apocalypse!
+ID_DIALOG_ECM_ROGUE_05_INTRO_6,"Ah'm done listenin' to voices like yours. You want me to show you what mah powers can do? "
+ID_DIALOG_ECM_ROGUE_05_INTRO_7,YOU GOT IT!
+ID_DIALOG_ECM_ROGUE_05_END_0,That... That all... y'all got?
+ID_DIALOG_ECM_ROGUE_05_END_1,A valiant effort. But you lost this battle before you knew it began.
+ID_DIALOG_ECM_ROGUE_05_END_2,"Your tenacity will serve me well. When the time is right. "
+ID_DIALOG_ECM_ROGUE_05_END_3,No! No! Ahhh!
+ID_DIALOG_ECM_ROGUE_05_END_4,"Rogue?! Rogue, are you okay?"
+ID_DIALOG_ECM_ROGUE_05_END_5,"Scott? What's going on? Is Remy okay?! "
+ID_DIALOG_ECM_ROGUE_05_END_6,Gambit's fine! He's in the Danger Room. I'm worried about YOU. You were screaming in your sleep.
+ID_DIALOG_ECM_ROGUE_05_END_7,"A... A dang DREAM?! It felt so real, Scott. And awful. "
+ID_DIALOG_ECM_ROGUE_05_END_8,"It's okay. Catch your breath. Then, I need you to meet me in the hangar. Fury got some intel, and we need to go."
+ID_DIALOG_ECM_ROGUE_05_END_9,"It's Apocalypse. He's back. "
+ID_DIALOG_ECM_SPIDERWEAVER_01_INTRO_0,"What gives, Ock? You said this device was supposed to be our way home!"
+ID_DIALOG_ECM_SPIDERWEAVER_01_INTRO_1,Octavius tech was the key to getting me home the last time I was stuck in this era. It should work.
+ID_DIALOG_ECM_SPIDERWEAVER_01_INTRO_2,"Patience, Spiders. You cannot comprehend the... Anomalies I'm dealing with. Yes, lots of anomalies."
+ID_DIALOG_ECM_SPIDERWEAVER_01_INTRO_3,I smell a rat.
+ID_DIALOG_ECM_SPIDERWEAVER_01_INTRO_4,"Ya'at'eeh, brothers in arms. You're both far from your homes."
+ID_DIALOG_ECM_SPIDERWEAVER_01_INTRO_5,"Don't move, kid! You one of Ock's goons?"
+ID_DIALOG_ECM_SPIDERWEAVER_01_INTRO_6,"I'm Spider-Weaver, the protector of the Web of Life and Destiny, something you two have got in quite a tangle."
+ID_DIALOG_ECM_SPIDERWEAVER_01_INTRO_7,Good news! My device is finally ready. Ready to squash all three of you bugs at once!
+ID_DIALOG_ECM_SPIDERWEAVER_01_START_0,This quack isn't going to get you anywhere.
+ID_DIALOG_ECM_SPIDERWEAVER_01_START_1,"You thought I'd help YOU?! The fewer Spiders there are in the multiverse, the better!"
+ID_DIALOG_ECM_SPIDERWEAVER_01_START_2,SPIDER-WEAVER IS A PROTECTOR WHO USES <color=#fff568>CHARGED</color> TO HELP HER ALLIES STAY IN THE FIGHT.
+ID_DIALOG_ECM_SPIDERWEAVER_01_START_3,HER <color=#fff568>SPECIAL ABILITY</color> AND <color=#fff568>ULTIMATE ABILITY</color> DEAL DAMAGE WHILE MANIPULATING STATUS EFFECTS AND GIVING HERSELF <color=#fff568>CHARGED</color>.
+ID_DIALOG_ECM_SPIDERWEAVER_01_START_4,"HER <color=#fff568>BASIC ABILITY</color> DEALS MASSIVE DAMAGE, WITH EXTRA <color=#fff568>PIERCING</color> BONUS ATTACKS THE CLOSER SPIDER-WEAVER IS TO FULL HEALTH!"
+ID_DIALOG_ECM_SPIDERWEAVER_01_END_0,"Drop the gag, Octavius! Tell us what you know!"
+ID_DIALOG_ECM_SPIDERWEAVER_01_END_1,"Octavius was never going to be able to get you home. The thing blocking your paths is mystical, not scientific. "
+ID_DIALOG_ECM_SPIDERWEAVER_01_END_2,"But lucky for you both, I can help."
+ID_DIALOG_ECM_SPIDERWEAVER_01_END_3,Oh yeah? How?
+ID_DIALOG_ECM_SPIDERWEAVER_01_END_4,These legs help me traverse universes using the Web of Life and Destiny.
+ID_DIALOG_ECM_SPIDERWEAVER_01_END_5,"I can take you with me, but this magic is powerful. I'll need your help to uncover and stop the source."
+ID_DIALOG_ECM_SPIDERWEAVER_01_END_6,My old lab was under attack when I was brought here. Do you think that's connected?
+ID_DIALOG_ECM_SPIDERWEAVER_01_END_7,"Only one way to find out. Your thread may be tangled, but I can still trace it back to 2099. Let's go."
+ID_DIALOG_ECM_SPIDERWEAVER_02_INTRO_0,"MIGUEL O'HARA'S LAB, THE YEAR 2099..."
+ID_DIALOG_ECM_SPIDERWEAVER_02_INTRO_1,"Your lab is trashed. Looks like someone threw one heck of a party. "
+ID_DIALOG_ECM_SPIDERWEAVER_02_INTRO_2,DAMN! The blueprints to the Alchemex Transformation Chamber were stolen!
+ID_DIALOG_ECM_SPIDERWEAVER_02_INTRO_3,Who could be after them? And how would they be able to bar you from returning to your time?
+ID_DIALOG_ECM_SPIDERWEAVER_02_INTRO_4,You're the Web of Life expert. You've seen a tangle like this before?
+ID_DIALOG_ECM_SPIDERWEAVER_02_INTRO_5,"My grandmother. Navajo weavers have a special connection to the Web and can safeguard it. "
+ID_DIALOG_ECM_SPIDERWEAVER_02_INTRO_6,She was the teacher for our current weavers. Someone targeted her to get at the other weavers.
+ID_DIALOG_ECM_SPIDERWEAVER_02_INTRO_7,Altse! There's movement! Someone's still here!
+ID_DIALOG_ECM_SPIDERWEAVER_02_START_0,Find what you're looking for?
+ID_DIALOG_ECM_SPIDERWEAVER_02_START_1,He's back! Get him!
+ID_DIALOG_ECM_SPIDERWEAVER_02_END_0,"Team 2, come in! Where are you guys? We're waiting on you! Over."
+ID_DIALOG_ECM_SPIDERWEAVER_02_END_1,"Hold on, I've ALWAYS wanted to do this."
+ID_DIALOG_ECM_SPIDERWEAVER_02_END_2,*AHEM* We got lost! Where should we be meeting again?
+ID_DIALOG_ECM_SPIDERWEAVER_02_END_3,"Seriously? I'm not going to tell the boss you said that, she'd kill you!"
+ID_DIALOG_ECM_SPIDERWEAVER_02_END_4,Idiot! We're at Alchemax HQ. Now hurry!
+ID_DIALOG_ECM_SPIDERWEAVER_02_END_5,"I kind of can't believe that worked. "
+ID_DIALOG_ECM_SPIDERWEAVER_03_INTRO_0,"This place is heavily guarded, even for us."
+ID_DIALOG_ECM_SPIDERWEAVER_03_INTRO_1,"Luckily, I know another way in."
+ID_DIALOG_ECM_SPIDERWEAVER_03_INTRO_2,We've got the blueprints. Time to head home.
+ID_DIALOG_ECM_SPIDERWEAVER_03_INTRO_3,We're too late. She has the blueprints.
+ID_DIALOG_ECM_SPIDERWEAVER_03_INTRO_4,"""When you see a rattlesnake poised to strike, strike first."""
+ID_DIALOG_ECM_SPIDERWEAVER_03_INTRO_5,Looks like we weren't the only spies. GET THEM!
+ID_DIALOG_ECM_SPIDERWEAVER_03_START_0,You have no idea how dangerous that machine is!
+ID_DIALOG_ECM_SPIDERWEAVER_03_START_1,You have no idea how dangerous I am!
+ID_DIALOG_ECM_SPIDERWEAVER_03_END_0,These blueprints could've created hundreds of genetically modified villains.
+ID_DIALOG_ECM_SPIDERWEAVER_03_END_1,Good thing we stopped them. I'll leave the plans in your capable hands.
+ID_DIALOG_ECM_SPIDERWEAVER_03_END_2,"More importantly, your thread in the Web of Life and Destiny is no longer entangled."
+ID_DIALOG_ECM_SPIDERWEAVER_03_END_3,"Thanks for your help. If you need anything, don't hesitate to drop in."
+ID_DIALOG_ECM_SPIDERWEAVER_03_END_4,"Ahehee', my friend. "
+ID_DIALOG_ECM_SPIDERWEAVER_04_INTRO_0,"NEXUS EARTH, A HEATED BATTLE BETWEEN SPIDER-MAN (NOIR) AND... HIS PUZZLE CUBE?"
+ID_DIALOG_ECM_SPIDERWEAVER_04_INTRO_1,One down... Five sides to go...
+ID_DIALOG_ECM_SPIDERWEAVER_04_INTRO_2,What are you doing?
+ID_DIALOG_ECM_SPIDERWEAVER_04_INTRO_3,"Uh, nothing! "
+ID_DIALOG_ECM_SPIDERWEAVER_04_INTRO_4,"Oooookay... Well, Miguel is sorted out, now we can go to your home. But where to start?"
+ID_DIALOG_ECM_SPIDERWEAVER_04_INTRO_5,"The Goblin's got his finger on the criminal pulse in this city. He's going to be searching for something. "
+ID_DIALOG_ECM_SPIDERWEAVER_04_INTRO_6,And I know exactly where to look for it.
+ID_DIALOG_ECM_SPIDERWEAVER_04_START_0,Just the cronies I was looking for.
+ID_DIALOG_ECM_SPIDERWEAVER_04_START_1,This is the Goblin's crew? I don't know why I expected actual goblins.
+ID_DIALOG_ECM_SPIDERWEAVER_04_START_2,"I ain't tellin' ya nothin', ya hear?"
+ID_DIALOG_ECM_SPIDERWEAVER_04_END_0,"Okay, okay, I'll talk."
+ID_DIALOG_ECM_SPIDERWEAVER_04_END_1,I'm waiting.
+ID_DIALOG_ECM_SPIDERWEAVER_04_END_2,Goblin's got a new dame as his partner.
+ID_DIALOG_ECM_SPIDERWEAVER_04_END_3,They're planning on hitting the museum tonight.
+ID_DIALOG_ECM_SPIDERWEAVER_04_END_4,Which museum?
+ID_DIALOG_ECM_SPIDERWEAVER_04_END_5,He knows which one.
+ID_DIALOG_ECM_SPIDERWEAVER_04_END_6,"The Museum of Natural History. Of course. We gotta beat feet, now."
+ID_DIALOG_ECM_SPIDERWEAVER_05_INTRO_0,Doesn't look like they're here yet. Why would they target this museum?
+ID_DIALOG_ECM_SPIDERWEAVER_05_INTRO_1,It's because of me.
+ID_DIALOG_ECM_SPIDERWEAVER_05_INTRO_2,The totem that unleashed a swarm of spiders on me also gave me my powers.
+ID_DIALOG_ECM_SPIDERWEAVER_05_INTRO_3,"It broke, but the pieces are still here."
+ID_DIALOG_ECM_SPIDERWEAVER_05_INTRO_4,"First, Alchemax's blueprints and now your totem..."
+ID_DIALOG_ECM_SPIDERWEAVER_05_INTRO_5,"The past and future threads are being affected. This time, weavers aren't the targets."
+ID_DIALOG_ECM_SPIDERWEAVER_05_INTRO_6,I'm afraid of what this will lead to.
+ID_DIALOG_ECM_SPIDERWEAVER_05_INTRO_7,You can think about that later. The party just arrived.
+ID_DIALOG_ECM_SPIDERWEAVER_05_END_0,That was the last of them.
+ID_DIALOG_ECM_SPIDERWEAVER_05_END_1,I thought their boss would've been with them.
+ID_DIALOG_ECM_SPIDERWEAVER_05_END_2,"She's gotta be hiding out somewhere. We'll flush her out. "
+ID_DIALOG_ECM_SPIDERWEAVER_05_END_3,Don't be so impatient. You'll be my prisoners soon enough!
+ID_DIALOG_ECM_SPIDERWEAVER_06_INTRO_0,"We just came for the totem, but bringing back the actual Spider-Man? I do like earning extra credit. "
+ID_DIALOG_ECM_SPIDERWEAVER_06_INTRO_1,You will have to get through me first!
+ID_DIALOG_ECM_SPIDERWEAVER_06_INTRO_2,"K'ad, face me and your fate!"
+ID_DIALOG_ECM_SPIDERWEAVER_06_START_0,STOP THEM!
+ID_DIALOG_ECM_SPIDERWEAVER_06_END_0,Beating me means nothing.
+ID_DIALOG_ECM_SPIDERWEAVER_06_END_1,Do you know what SHE'LL do to you if we fail?!
+ID_DIALOG_ECM_SPIDERWEAVER_06_END_2,"Another cog in the machine, huh? Who's pulling the crank?"
+ID_DIALOG_ECM_SPIDERWEAVER_06_END_3,The Darkchylde. And she will send more of her army after you.
+ID_DIALOG_ECM_SPIDERWEAVER_06_END_4,"Darkchylde? Please, tell me we aren't going up against an actual kid."
+ID_DIALOG_ECM_SPIDERWEAVER_06_END_5,She's no child. She's a sorcerer called Magik.
+ID_DIALOG_ECM_SPIDERWEAVER_06_END_6,"She tried meddling with the Web before. I taught her why that's a bad idea. "
+ID_DIALOG_ECM_SPIDERWEAVER_06_END_7,Looks like she needs to relearn that lesson.
+ID_DIALOG_ECM_SPIDERWEAVER_07_INTRO_0,"Okay, we need to find Magik before... Wait. Something is very wrong."
+ID_DIALOG_ECM_SPIDERWEAVER_07_INTRO_1,Wrong? But you just said you needed to find me. And now here I am. Why don't we go somewhere and talk?
+ID_DIALOG_ECM_SPIDERWEAVER_07_INTRO_2,"No! Noir, watch out, she's teleporting us..."
+ID_DIALOG_ECM_SPIDERWEAVER_07_INTRO_3,To my domain. Welcome to Limbo!
+ID_DIALOG_ECM_SPIDERWEAVER_07_INTRO_4,"Good luck untangling your precious Web from here, Weaver."
+ID_DIALOG_ECM_SPIDERWEAVER_07_INTRO_5,"Once it's fully tainted, my master and I will be free to travel and rule the multiverse!"
+ID_DIALOG_ECM_SPIDERWEAVER_07_START_0,Come down here and fight me yourself!
+ID_DIALOG_ECM_SPIDERWEAVER_07_START_1,"Hm, what's the point of having mystical minions if they can't fight your battles for you? "
+ID_DIALOG_ECM_SPIDERWEAVER_07_END_0,"You beat my mystics, but with every passing second, the effects of Limbo will wear you down."
+ID_DIALOG_ECM_SPIDERWEAVER_07_END_1,Your friends are already struggling.
+ID_DIALOG_ECM_SPIDERWEAVER_07_END_2,Underestimating me again? Bring. It. ON!
+ID_DIALOG_ECM_SPIDERWEAVER_07_END_3,It's going to be fun to watch you break.
+ID_DIALOG_ECM_SPIDERWEAVER_08_START_0,Demons! Here's a new chew toy!
+ID_DIALOG_ECM_SPIDERWEAVER_08_START_1,There is no end to these creatures.
+ID_DIALOG_ECM_SPIDERWEAVER_08_START_2,I should be able to get out if I can get a second to breathe...
+ID_DIALOG_ECM_SPIDERWEAVER_08_END_0,"Finally, an opening!"
+ID_DIALOG_ECM_SPIDERWEAVER_08_END_1,"Nice of you to join us, kid."
+ID_DIALOG_ECM_SPIDERWEAVER_08_END_2,Now we can get overrun together. Fantastic.
+ID_DIALOG_ECM_SPIDERWEAVER_08_END_3,"I know I can get us out, but not until we take out Magik. She's doing too much damage to the Web. "
+ID_DIALOG_ECM_SPIDERWEAVER_08_END_4,One Queen of the Damned coming right up.
+ID_DIALOG_ECM_SPIDERWEAVER_09_INTRO_0,What makes you think you can stand against me?
+ID_DIALOG_ECM_SPIDERWEAVER_09_INTRO_1,"Because I am the protector of the Web of Life and Destiny, and my spirit does NOT falter!"
+ID_DIALOG_ECM_SPIDERWEAVER_09_INTRO_2,I WILL defend every thread's connection.
+ID_DIALOG_ECM_SPIDERWEAVER_09_INTRO_3,And you will know my power!
+ID_DIALOG_ECM_SPIDERWEAVER_09_START_0,"Your mistake was targeting my kin and thinking I wouldn't notice. "
+ID_DIALOG_ECM_SPIDERWEAVER_09_START_1,Prepare yourself!
+ID_DIALOG_ECM_SPIDERWEAVER_09_END_0,"Great job, kid. I'm glad you're on our side."
+ID_DIALOG_ECM_SPIDERWEAVER_09_END_1,You've stopped nothing. You have no idea what's on the horizon.
+ID_DIALOG_ECM_SPIDERWEAVER_09_END_2,"Yeah, yeah. There's always something on the horizon. "
+ID_DIALOG_ECM_SPIDERWEAVER_09_END_3,"His reign is inevitable! You will see. Until then... So long, Spiders!"
+ID_DIALOG_ECM_SPIDERWEAVER_09_END_4,"Wait, she's... Damn, she teleported away!"
+ID_DIALOG_ECM_SPIDERWEAVER_09_END_5,Seems like you'll have your hands full soon.
+ID_DIALOG_ECM_SPIDERWEAVER_09_END_6,"Whenever you need us, we'll be there."
+ID_DIALOG_ECM_SPIDERWEAVER_09_END_7,"Thanks, friends. I worry we won't be the only targets of whatever calamity she says is coming."
+ID_DIALOG_ECM_SPIDERWEAVER_09_END_8,"But for now, this place is giving me the heebie-jeebies! I'll make sure we're all home for dinner."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
@@ -11167,6 +11369,85 @@ ID_DIALOG_APOC_ROGUE_10_END_7,"I told you... Ain't nothin' we can't do together.
 ID_DIALOG_APOC_ROGUE_10_END_8,"They've gone, my lord."
 ID_DIALOG_APOC_ROGUE_10_END_9,"Good. They think themselves victorious. But with our agent among them, when the time is right..."
 ID_DIALOG_APOC_ROGUE_10_END_10,Famine will cause S.T.R.I.K.E. to wither and die from within!
+ID_DIALOG_APOC_REDHULK_01_INTRO_0,"Battle stations, Hydra! We are under attack!"
+ID_DIALOG_APOC_REDHULK_01_INTRO_1,Fight to the last man! Any who attempt to flee will suffer my wrath.
+ID_DIALOG_APOC_REDHULK_01_INTRO_2,"But sir, the destruction on the outer perimeter... The rumbling... There must be an army out there!"
+ID_DIALOG_APOC_REDHULK_01_INTRO_3,"No army, punk. Just me. And I'm more than enough to shake this place to the ground!"
+ID_DIALOG_APOC_REDHULK_01_START_0,"Ha! The Americans have sent one of their heroes! "
+ID_DIALOG_APOC_REDHULK_01_START_1,"Hero? Son, you're thinking of a very different Hulk. Let me show you what I'm capable of..."
+ID_DIALOG_APOC_REDHULK_01_END_0,"Get your clean-up crew down here, Fury. Another corrupted Hydra base down. "
+ID_DIALOG_APOC_REDHULK_01_END_1,"Clean up? There's nothing left to clean up, Ross. All you left is a crater."
+ID_DIALOG_APOC_REDHULK_01_END_2,"It's called getting the job done. "
+ID_DIALOG_APOC_REDHULK_01_END_3,"Your JOB was to break through the base's defenses, so the rest of the team could come in and capture the enemy."
+ID_DIALOG_APOC_REDHULK_01_END_4,Until you flew off the handle and smashed every inch of this place to dust.
+ID_DIALOG_APOC_REDHULK_01_END_5,"So what? Fewer enemies left to fight. How do you think wars are won, Fury? "
+ID_DIALOG_APOC_REDHULK_01_END_6,"By people following orders. You were a 4-Star General, I'd think you'd be used to that idea. "
+ID_DIALOG_APOC_REDHULK_01_END_7,"I'm used to GIVING orders. And if you had half a mind behind that eye patch, you'd let me give them again."
+ID_DIALOG_APOC_REDHULK_01_END_8,"You don't want to listen to me? That's fine. I've got someone you're going to LOVE taking orders from. "
+ID_DIALOG_APOC_REDHULK_03_INTRO_0,You've got to be KIDDING me!
+ID_DIALOG_APOC_REDHULK_03_INTRO_1,"That's right, Ross. Meet your new commanding officer. Bruce Banner. "
+ID_DIALOG_APOC_REDHULK_03_INTRO_2,"Hello, General."
+ID_DIALOG_APOC_REDHULK_03_INTRO_3,"You got the Hulk walking and talking at the same time now? You teach him any other tricks? "
+ID_DIALOG_APOC_REDHULK_03_INTRO_4,"Funny. I'm not actually your Bruce. I'm from a world where I managed to merge my intellect with the Hulk. "
+ID_DIALOG_APOC_REDHULK_03_INTRO_5,"I've met Banners from across the Multiverse, Son. ""Smart"" or not, you're all the same. "
+ID_DIALOG_APOC_REDHULK_03_INTRO_6,"Then you won't mind working with the rest of us, then. "
+ID_DIALOG_APOC_REDHULK_03_END_0,"Run the simulation again! We're not going on this mission until you're fighting as a team. "
+ID_DIALOG_APOC_REDHULK_03_END_1,"WE'RE good as a team. It's Ross! He doesn't want to work together at all. "
+ID_DIALOG_APOC_REDHULK_03_END_2,"If he pushes me out of the way one more time, I'm going to stick one of those training drones so far-"
+ID_DIALOG_APOC_REDHULK_03_END_3,"Okay, I get it! Ross, what's the problem?"
+ID_DIALOG_APOC_REDHULK_03_END_4,"Oh, you want to know my PROBLEM?! I spent my career fighting you Hulks! Cleaning up your MESSES."
+ID_DIALOG_APOC_REDHULK_03_END_5,And now you're in charge? What a joke! I should be running this op.
+ID_DIALOG_APOC_REDHULK_03_END_6,"From what Fury tells me, you went rogue. Let the Leader turn you into a Hulk. And then did some real damage. "
+ID_DIALOG_APOC_REDHULK_03_END_7,"So maybe Fury doesn't trust your judgment. Maybe it's play nice... Or get thrown in a Hulk-proof cell. "
+ID_DIALOG_APOC_REDHULK_03_END_8,Fine. I'll do what you say. Just keep the rest of these amateurs out of my way.
+ID_DIALOG_APOC_REDHULK_05_INTRO_0,OUTSIDE THE MOJAVE DESERT...
+ID_DIALOG_APOC_REDHULK_05_INTRO_1,"Okay, we're approaching the base now.  S.T.R.I.K.E.'s technicians picked up a spike in Gamma at this location."
+ID_DIALOG_APOC_REDHULK_05_INTRO_2,"It's big enough that we're the only ones who can handle whatever's going on in there. "
+ID_DIALOG_APOC_REDHULK_05_INTRO_3,"She-Hulk, hit the gate hard. Go full wrecking ball. "
+ID_DIALOG_APOC_REDHULK_05_INTRO_4,"No problem, Cuz."
+ID_DIALOG_APOC_REDHULK_05_INTRO_5,"Brawn, the doors are titanium. Pry them open as best you can, but use your tech to hack them if needed."
+ID_DIALOG_APOC_REDHULK_05_INTRO_6,Red Hulk... You're in reserve. Hold back until I give the order.
+ID_DIALOG_APOC_REDHULK_05_INTRO_7,...Ridiculous.
+ID_DIALOG_APOC_REDHULK_05_INTRO_8,What was that?
+ID_DIALOG_APOC_REDHULK_05_INTRO_9,"I said, ""Yes, SIR. Brilliant tactics, SIR."""
+ID_DIALOG_APOC_REDHULK_05_END_0,"First area, all clear! We definitely set off some alarms, though."
+ID_DIALOG_APOC_REDHULK_05_END_1,You're giving up the element of surprise AND leaving your best asset in the back!
+ID_DIALOG_APOC_REDHULK_05_END_2,"Ross, I'm going to need you to just trust me here. "
+ID_DIALOG_APOC_REDHULK_05_END_3,"Listen here! I watched a Banner lay waste to entire towns! Take my daughter from me! "
+ID_DIALOG_APOC_REDHULK_05_END_4,So I'll be damned if I'm going to trust a Hulk now!
+ID_DIALOG_APOC_REDHULK_05_END_5,"Out of the way, I'm going in!"
+ID_DIALOG_APOC_REDHULK_05_END_6,Ross! Get back here!
+ID_DIALOG_APOC_REDHULK_08_INTRO_0,"Okay, big bad! Let's get this over with. Show yourself and take your medicine!"
+ID_DIALOG_APOC_REDHULK_08_INTRO_1,"You guys got a Red Hulk in this world, too, huh?"
+ID_DIALOG_APOC_REDHULK_08_INTRO_2,"The one on mine was too stupid to know when he was outmatched. I'm betting you are, too. "
+ID_DIALOG_APOC_REDHULK_08_INTRO_3,"Outmatched?! Son, I've killed an Abomination before. And I am not likely to stop now!"
+ID_DIALOG_APOC_REDHULK_08_INTRO_4,LET'S RUMBLE!
+ID_DIALOG_APOC_REDHULK_08_END_0,"Pft... That all you got, Blonsky?!"
+ID_DIALOG_APOC_REDHULK_08_END_1,I'm not beat yet...
+ID_DIALOG_APOC_REDHULK_08_END_2,Heh. Another couple minutes with me and-
+ID_DIALOG_APOC_REDHULK_08_END_3,"Stand down, Ross! We're handling this."
+ID_DIALOG_APOC_REDHULK_08_END_4,Like hell! I've got this! You're just getting in the way!!
+ID_DIALOG_APOC_REDHULK_08_END_5,I gave you an order!!! STAND DOWN!
+ID_DIALOG_APOC_REDHULK_08_END_6,You want me to move?! DO IT YOURSELF! RARRRGH!!!
+ID_DIALOG_APOC_REDHULK_08_END_7,RAAARGH!!!
+ID_DIALOG_APOC_REDHULK_08_END_8,Bruce! Watch out for the Gamma generator! You're fighting too cl-
+ID_DIALOG_APOC_REDHULK_08_END_9,BOOM!
+ID_DIALOG_APOC_REDHULK_10_INTRO_0,Engh... My HEAD... What...
+ID_DIALOG_APOC_REDHULK_10_INTRO_1,The explosion must have thrown me miles away... I had that fight! UNTIL BANNER!
+ID_DIALOG_APOC_REDHULK_10_INTRO_2,ALWAYS BANNER!!! RARGH!
+ID_DIALOG_APOC_REDHULK_10_INTRO_3,"When I get back, I am going to wipe the smug look off his green face... And then Fury after that."
+ID_DIALOG_APOC_REDHULK_10_INTRO_4,"It sounds like you want revenge. "
+ID_DIALOG_APOC_REDHULK_10_INTRO_5,"Or more than that... You want WAR. "
+ID_DIALOG_APOC_REDHULK_10_END_0,Who the hell are you?
+ID_DIALOG_APOC_REDHULK_10_END_1,"Someone who knows what it is to suffer at the hands of lesser beings. "
+ID_DIALOG_APOC_REDHULK_10_END_2,I was searching for one who can help me destroy S.T.R.I.K.E. and usher in a new era... That's when I found you.
+ID_DIALOG_APOC_REDHULK_10_END_3,"I was drawn to your rage, Thaddeus Ross. I can feel it burn. And I want to stoke those flames."
+ID_DIALOG_APOC_REDHULK_10_END_4,Oh yeah? I know a tyrant when I see one. What makes you think I'd help you.
+ID_DIALOG_APOC_REDHULK_10_END_5,"You can stand beside me as a proud warrior.  Or continue to kneel at the feet of your oldest enemies. "
+ID_DIALOG_APOC_REDHULK_10_END_6,"I... I can't take another order from Banner. He's a true monster, and they hold him up as a hero!"
+ID_DIALOG_APOC_REDHULK_10_END_7,"Well, if it's a monster they want, I'll give them one! I'm in. "
+ID_DIALOG_APOC_REDHULK_10_END_8,Then let my power POUR into yours... Feel it amplify your anger!
+ID_DIALOG_APOC_REDHULK_10_END_9,And let your RAGE burn down the WORLD! Arise... \nMy HORSEMAN OF WAR!
 ID_DIALOG_EVENT_UNDERWORLD_1_INTRO_0,The Kree are abducting my associates and converting them to their cause.
 ID_DIALOG_EVENT_UNDERWORLD_1_INTRO_1,I'm sure whoever rescued would be willing to join S.T.R.I.K.E.
 ID_DIALOG_ELEKTRA_EVENT_1_START_0,We're getting reports of Elektra running rampant in Hell's Kitchen.

@@ -18,9 +18,12 @@ ID_ECM_PESTILENCE_REWARD_III,Earn Morgan's Costume + T2 L5 Iso-8 + Ions!
 ID_ECM_FAMINE_NAME,FAMINE
 ID_ECM_FAMINE_DESC,"Use Unlimited X-Men characters to power up Rogue! Earn her new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
 ID_ECM_FAMINE_FLAVOR,Enhance Rogue
+ID_ECM_FAMINE_REWARD_I,Not used - do not localize
+ID_ECM_FAMINE_REWARD_II,Earn Rogue's New Awakened Ability Materials!
+ID_ECM_FAMINE_REWARD_III,Earn Rogue's Costume + T2 L5 Iso-8 + Ions!
 ID_ECM_WAR_NAME,WAR
-ID_ECM_WAR_DESC,"Use this Horseman's team to power them up! Earn their new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
-ID_ECM_WAR_FLAVOR,Enhance War Horsemen
+ID_ECM_WAR_DESC,"Use Gamma characters to power up Red Hulk! Earn his new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
+ID_ECM_WAR_FLAVOR,Enhance Red Hulk
 ID_ECM_DEATH_NAME,DEATH
 ID_ECM_DEATH_DESC,"Use this Horseman's team to power them up! Earn their new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
 ID_ECM_DEATH_FLAVOR,Enhance Death Horsemen
@@ -28,16 +31,26 @@ ID_ECM_SAGA_DIFFICULTY_I,HARD
 ID_ECM_SAGA_DIFFICULTY_II,HEROIC
 ID_ECM_SAGA_DIFFICULTY_III,APOCALYPTIC
 ID_ECM_SAGA_UNLOCK_DIFFICULTY_I,Not used - do not localize
-ID_ECM_SAGA_UNLOCK_DIFFICULTY_II,Clear all missions w/ 3 stars on HARD to Unlock
-ID_ECM_SAGA_UNLOCK_DIFFICULTY_III,Clear all missions w/ 3 stars on HEROIC to Unlock
+ID_ECM_SAGA_UNLOCK_DIFFICULTY_II,Clear all missions with 3 stars on HARD to Unlock
+ID_ECM_SAGA_UNLOCK_DIFFICULTY_III,Clear all missions with 3 stars on HEROIC to Unlock
 ID_ECM_SAGA_COMING_SOON,COMING SOON...
 ID_ECM_CHANCE_MORGAN,Enhance Morgan Le Fay
 ID_ECM_CHANCE_MORGAN_I,Gear up Morgan Le Fay
 ID_ECM_CHANCE_MORGAN_II,Awaken Her Power
 ID_ECM_CHANCE_MORGAN_III,Suit Up for For Battle
+ID_ECM_CHANCE_ROGUE,Enhance Rogue
+ID_ECM_CHANCE_ROGUE_I,Gear up Rogue
+ID_ECM_CHANCE_ROGUE_II,Awaken Her Power
+ID_ECM_CHANCE_ROGUE_III,Suit Up for For Battle
 ID_REQUIRES_EC_DARKHOLD_5_GT13,5 <color=#fff568>DARKHOLD</color> Characters at GEAR 13 REQUIRED
 ID_REQUIRES_EC_DARKHOLD_5_GT15,5 <color=#fff568>DARKHOLD</color> Characters at GEAR 15 REQUIRED
 ID_REQUIRES_EC_DARKHOLD_5_GT17,5 <color=#fff568>DARKHOLD</color> Characters at GEAR 17 REQUIRED
+ID_REQUIRES_EC_UNLIMITEDXMEN_5_GT13,5 <color=#fff568>UNLIMITED X-MEN</color> Characters at GEAR 13 REQUIRED
+ID_REQUIRES_EC_UNLIMITEDXMEN_5_GT15,5 <color=#fff568>UNLIMITED X-MEN</color> Characters at GEAR 15 REQUIRED
+ID_REQUIRES_EC_UNLIMITEDXMEN_5_GT17,5 <color=#fff568>UNLIMITED X-MEN</color> Characters at GEAR 17 REQUIRED
 ID_ECM_MORGAN_DESC_C,Use Darkhold characters at Gear Tier 13+ to earn gear to power up Morgan Le Fay and her team!
 ID_ECM_MORGAN_DESC_B,Use Darkhold characters at Gear Tier 15+ to earn Morgan Le Fay's new Awakened Ability Materials to unlock her true power!
 ID_ECM_MORGAN_DESC_A,Use Darkhold characters at Gear Tier 17+ to earn Morgan Le Fay's Horseman costume and T2 L5 Iso-8 and Ions!
+ID_ECM_ROGUE_DESC_C,Use Unlimited X-Men characters at Gear Tier 13+ to earn gear to power up Rogue and her team!
+ID_ECM_ROGUE_DESC_B,Use Unlimited X-Men characters at Gear Tier 15+ to earn Rogue's new Awakened Ability Materials to unlock her true power!
+ID_ECM_ROGUE_DESC_A,Use Unlimited X-Men characters at Gear Tier 17+ to earn Rogue's Horseman costume and T2 L5 Iso-8 and Ions!

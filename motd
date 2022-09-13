@@ -20,7 +20,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 12PM (PDT) (09/13).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PDT) (04/25).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -476,7 +476,7 @@ ID_MOTD_DE_DEATHPOOL,Battle for a chance to win Deathpool shards
 ID_MOTD_NA_DOCTORSTRANGE,Sorcerer Supreme: Now Live!
 ID_MOTD_DE_DOCTORSTRANGE,Battle for a chance to win DOCTOR STRANGE shards
 ID_MOTD_NA_STRANGESUPREME,Strange Effect: Now Live!
-ID_MOTD_DE_STRANGESUPREME,Battle for a chance to win Doctor Strange (Heartless) shards
+ID_MOTD_DE_STRANGESUPREME,Battle for a chance to win Strange (Heartless) shards
 ID_MOTD_NA_DOCTORVOODOO,Loa Whisperer: Now Live!
 ID_MOTD_DE_DOCTORVOODOO,Battle for a chance to win Doctor Voodoo shards
 ID_MOTD_NA_DOMINO,Lady Luck: Now Live!
@@ -579,6 +579,8 @@ ID_MOTD_NA_MINERVA,Gene Genie: Now Live!
 ID_MOTD_DE_MINERVA,Battle for a chance to win Minn-Erva shards
 ID_MOTD_NA_MRFANTASTIC,Elastic: Now Live!
 ID_MOTD_DE_MRFANTASTIC,Battle for a chance to win Mister Fantastic shards
+ID_MOTD_NA_MRNEGATIVE,Negative Edge: Now Live!
+ID_MOTD_DE_MRNEGATIVE,Battle for a chance to win Mister Negative shards
 ID_MOTD_NA_MRSINISTER,House of Essex: Now Live!
 ID_MOTD_DE_MRSINISTER,Battle for a chance to win Mister Sinister shards
 ID_MOTD_NA_MISTYKNIGHT,Bionic Detective: Now Live!
@@ -680,9 +682,15 @@ ID_MOTD_DE_SILVERSAMURAI,Battle for a chance to win Silver Samurai shards
 ID_MOTD_NA_SILVERSURFER,The Herald: Now Live!
 ID_MOTD_DE_SILVERSURFER,Battle for a chance to win Silver Surfer shards
 ID_MOTD_NA_SPIDERMAN,Web-Slinger: Now Live!
-ID_MOTD_DE_SPIDERMAN,Battle for a chance to win SPIDER-MAN shards
+ID_MOTD_DE_SPIDERMAN,Battle for a chance to win Spider-Man shards
+ID_MOTD_NA_SPIDERMAN2099,Future Byte: Now Live!
+ID_MOTD_DE_SPIDERMAN2099,Battle for a chance to win Spider-Man 2099 shards
+ID_MOTD_NA_SPIDERMANNOIR,Monochromatic: Now Live!
+ID_MOTD_DE_SPIDERMANNOIR,Battle for a chance to win Spider-Man (Noir) shards
 ID_MOTD_NA_SPIDERPUNK,Rockin Arachnid: Now Live!
 ID_MOTD_DE_SPIDERPUNK,Battle for a chance to win Spider-Punk shards
+ID_MOTD_NA_SPIDERWEAVER,Woven Destiny: Now Live!
+ID_MOTD_DE_SPIDERWEAVER,Battle for a chance to win Spider-Weaver shards
 ID_MOTD_NA_SPIDERWOMAN,Arachne: Now Live!
 ID_MOTD_DE_SPIDERWOMAN,Battle for a chance to win Spider-Woman shards
 ID_MOTD_NA_SQUIRRELGIRL,SQUIRREL!: Now Live!
@@ -1111,12 +1119,12 @@ ID_MOTD_NA_CELEBRATETHEWEB_LIVE,LIVE: Celebrate the Web
 ID_MOTD_DE_CELEBRATETHEWEB_LIVE,Visit our blog for info on this exciting event!
 ID_MOTD_NA_LIVINGVAMPIRE_LIVE,LIVE: Living Vampire
 ID_MOTD_DE_LIVINGVAMPIRE_LIVE,Recruit Morbius and transform your roster!
-ID_MOTD_NA_STRANGESUPREME_PREHYPE,Coming Soon: Doctor Strange (Heartless)
+ID_MOTD_NA_STRANGESUPREME_PREHYPE,Coming Soon: Strange (Heartless)
 ID_MOTD_DE_STRANGESUPREME_PREHYPE,Prepare for this Destroyer of Universes!
-ID_MOTD_NA_STRANGESUPREME_ECM_PREVIEW,Doctor Strange (Heartless)
+ID_MOTD_NA_STRANGESUPREME_ECM_PREVIEW,Strange (Heartless)
 ID_MOTD_DE_STRANGESUPREME_ECM_PREVIEW,Coming Soon: Forbidden Knowledge
 ID_MOTD_NA_STRANGESUPREME_ECM_LIVE,LIVE: Forbidden Knowledge
-ID_MOTD_DE_STRANGESUPREME_ECM_LIVE,Open a portal to Doctor Strange (Heartless) shards!
+ID_MOTD_DE_STRANGESUPREME_ECM_LIVE,Open a portal to Strange (Heartless) shards!
 ID_MOTD_NA_MAYHEM_SEASON17_ANNOUNCE,LIVE: Season 17 of Mojo's Mayhem
 ID_MOTD_DE_MAYHEM_SEASON17_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
 ID_MOTD_NA_AGATHA_TEASER,Coming Soon: Agatha Harkness
@@ -1252,6 +1260,10 @@ ID_MOTD_NA_FAMINE_TEASER,Coming Soon: Famine Scourge Event
 ID_MOTD_DE_FAMINE_TEASER,"Power Up A-Force, Young Avengers, or Inhumans for Difficulty 5+"
 ID_MOTD_NA_FAMINE_ANNOUNCE,LIVE: Famine Scourge Event
 ID_MOTD_DE_FAMINE_ANNOUNCE,Earn Rogue shards and more with your highest Run Score!
+ID_MOTD_NA_WAR_TEASER,Coming Soon: War Scourge Event
+ID_MOTD_DE_WAR_TEASER,"Power Up Ravagers, Wave 1 - Avengers, or Hero Asgardians for Difficulty 5+"
+ID_MOTD_NA_WAR_ANNOUNCE,LIVE: War Scourge Event
+ID_MOTD_DE_WAR_ANNOUNCE,Earn Red Hulk shards and more with your highest Run Score!
 ID_MOTD_NA_JULYMETA2022_ANNOUNCE,LIVE: Summer of Thunder
 ID_MOTD_DE_JULYMETA2022_ANNOUNCE,Recruit Mighty Thor by participating in July Events
 ID_MOTD_NA_JULYMETA2022_TEASER,A Summer Storm is Coming
@@ -1348,6 +1360,10 @@ ID_MOTD_NA_POWEROFATTORNEY_TEASER,Coming Soon: Power of Attorney
 ID_MOTD_DE_POWEROFATTORNEY_TEASER,Earn She-Hulk's new Attorney at Law Costume and Hulk Hunter progress!
 ID_MOTD_NA_POWEROFATTORNEY_ANNOUNCE,LIVE: Power of Attorney
 ID_MOTD_DE_POWEROFATTORNEY_ANNOUNCE,"Earn costumes for She-Hulk, Ms. Marvel, and Misty Knight!"
+ID_MOTD_NA_BRAINSASBRAWN_TEASER,Coming Soon: Brains as Brawn
+ID_MOTD_DE_BRAINSASBRAWN_TEASER,Recruit Brawn and earn Hulk Hunter progress!
+ID_MOTD_NA_BRAINSASBRAWN_ANNOUNCE,LIVE: Brains as Brawn
+ID_MOTD_DE_BRAINSASBRAWN_ANNOUNCE,Earn Totally Awesome rewards: Brawn shards and Hulk Hunter progress!
 ID_MOTD_NA_POCKETDIMENSION_082622_ANNOUNCE,LIVE: Pocket Dimension
 ID_MOTD_DE_POCKETDIMENSION_082622_ANNOUNCE,"Conquer this realm for fully crafted gear, Gold Promotion Credits, and more!"
 ID_MOTD_NA_BRAWN_PREVIEW,Coming Soon: Brawn
@@ -1362,9 +1378,17 @@ ID_MOTD_NA_SPLASH_RAVAGERS,LIVE: Radioactive Renegades
 ID_MOTD_DE_SPLASH_RAVAGERS,Battle with Ravager characters to earn Mutated Cells and Iso-8!
 ID_MOTD_NA_SPLASH_VIGILANT,LIVE: Funnel-Web Fallout
 ID_MOTD_DE_SPLASH_VIGILANT,Blitz with Vigilant trait characters to earn Mutated Cells and Gear!
+ID_MOTD_NA_COSMICCRUCIBLE_SEASON1_TEASER,Prepare your Roster!
+ID_MOTD_DE_COSMICCRUCIBLE_SEASON1_TEASER,Cosmic Crucible: Season 1 approaches!
+ID_MOTD_NA_COSMICCRUCIBLE_SEASON1_ANNOUNCE,LIVE: Cosmic Crucible Season 1
+ID_MOTD_DE_COSMICCRUCIBLE_SEASON1_ANNOUNCE,"More Leagues, new Rules, and all the glory!"
 ID_MOTD_NA_SPIDERWEAVER_PREVIEW,Coming Soon: Spider-Weaver
 ID_MOTD_DE_SPIDERWEAVER_PREVIEW,MARVEL Strike Force's next original character is on the way!
 ID_MOTD_NA_SPIDERWEAVER_ANNOUNCE,Ready for Battle: Spider-Weaver
 ID_MOTD_DE_SPIDERWEAVER_ANNOUNCE,Weaver of Destiny
+ID_MOTD_NA_SPIDERWEAVER_ECM_PREVIEW,Coming Soon: Web of Life
+ID_MOTD_DE_SPIDERWEAVER_ECM_PREVIEW,Recruit Spider-Weaver!
+ID_MOTD_NA_SPIDERWEAVER_ECM_LIVE,LIVE: Web of Life
+ID_MOTD_DE_SPIDERWEAVER_ECM_LIVE,Recruit Spider-Weaver!
 ID_MOTD_NA_GOLDENOPPORTUNITY_ANNOUNCE,LIVE: Golden Opportunity Milestone
 ID_MOTD_DE_GOLDENOPPORTUNITY_ANNOUNCE,Spend Gold to earn new daily rewards!

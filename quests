@@ -114,6 +114,7 @@ ID_MILESTONE_BLITZ_MERCSUPPORT_BUFFS,Win a Blitz battle with: Mercenary Lieutena
 ID_MILESTONE_BLITZ_MERCTANK_DEBUFF,Win a Blitz battle with: Mercenary Riot Guard
 ID_MILESTONE_BLITZ_MERCTANK_TAUNT,Win a Blitz battle with: Mercenary Bodyguard
 ID_MILESTONE_BLITZ_MINERVA,Win a Blitz battle with: Minn-Erva
+ID_MILESTONE_BLITZ_MRNEGATIVE,Win a Blitz battle with: Mister Negative
 ID_MILESTONE_BLITZ_MISTYKNIGHT,Win a Blitz battle with: Misty Knight
 ID_MILESTONE_BLITZ_MRFANTASTIC,Win a Blitz battle with: Mister Fantastic
 ID_MILESTONE_BLITZ_MRSINISTER,Win a Blitz battle with: Mister Sinister
@@ -147,6 +148,7 @@ ID_MILESTONE_BLITZ_RAVAGERDMG_AOE,Win a Blitz battle with: Ravager Boomer
 ID_MILESTONE_BLITZ_RAVAGERSUPPORT_HEAL,Win a Blitz battle with: Ravager Stitcher
 ID_MILESTONE_BLITZ_RAVAGERTANK_TAUNT,Win a Blitz battle with: Ravager Bruiser
 ID_MILESTONE_BLITZ_REDGUARDIAN,Win a Blitz battle with: Red Guardian
+ID_MILESTONE_BLITZ_REDHULK,Win a Blitz battle with: Red Hulk
 ID_MILESTONE_BLITZ_REDSKULL,Win a Blitz battle with: Red Skull
 ID_MILESTONE_BLITZ_RESCUE,Win a Blitz battle with: Rescue
 ID_MILESTONE_BLITZ_RHINO,Win a Blitz battle with: Rhino
@@ -174,13 +176,16 @@ ID_MILESTONE_BLITZ_SIF,Win a Blitz battle with: Sif
 ID_MILESTONE_BLITZ_SILVERSAMURAI,Win a Blitz battle with: Silver Samurai
 ID_MILESTONE_BLITZ_SILVERSURFER,Win a Blitz battle with: Silver Surfer
 ID_MILESTONE_BLITZ_SPIDERMAN,Win a Blitz battle with: Spider-Man
+ID_MILESTONE_BLITZ_SPIDERMAN2099,Win a Blitz battle with: Spider-Man 2099
+ID_MILESTONE_BLITZ_SPIDERMANNOIR,Win a Blitz battle with: Spider-Man (Noir)
 ID_MILESTONE_BLITZ_SPIDERPUNK,Win a Blitz battle with: Spider-Punk
+ID_MILESTONE_BLITZ_SPIDERWEAVER,Win a Blitz battle with: Spider-Weaver
 ID_MILESTONE_BLITZ_SPIDERWOMAN,Win a Blitz battle with: Spider-Woman
 ID_MILESTONE_BLITZ_SQUIRRELGIRL,Win a Blitz battle with: Squirrel Girl
 ID_MILESTONE_BLITZ_STARLORD,Win a Blitz battle with: Star-Lord
 ID_MILESTONE_BLITZ_STATURE,Win a Blitz battle with: Stature
 ID_MILESTONE_BLITZ_STORM,Win a Blitz battle with: Storm
-ID_MILESTONE_BLITZ_STRANGESUPREME,Win a Blitz battle with: Doctor Strange (Heartless)
+ID_MILESTONE_BLITZ_STRANGESUPREME,Win a Blitz battle with: Strange (Heartless)
 ID_MILESTONE_BLITZ_STRYFE,Win a Blitz battle with: Stryfe
 ID_MILESTONE_BLITZ_SUNFIRE,Win a Blitz battle with: Sunfire
 ID_MILESTONE_BLITZ_SWARM,Win a Blitz battle with: Swarm
@@ -295,7 +300,7 @@ ID_QU_SC_SPLASH_ASGARDIAN,Use Asgardian Characters in Blitz
 ID_QU_S1_SPLASH_ASGARDIAN,Win a Blitz battle with any 5-star or higher Asgardian Character
 ID_QU_S2_SPLASH_ASGARDIAN,Win a Blitz battle with any 7-star Asgardian Character
 ID_QU_NA_SPLASH_DARKHOLD,Tech Wizardry
-ID_QU_SD_SPLASH_DARKHOLD,Use Cosmic Mutant in Blitz
+ID_QU_SD_SPLASH_DARKHOLD,Use Darkhold in Blitz
 ID_QU_LM_SPLASH_DARKHOLD,Earn points by using Darkhold characters in Blitz Battles. Earn more points if your Darkhold characters are 5 Stars and higher and even more points if they are 7 Stars.
 ID_QU_SC_SPLASH_DARKHOLD,Use Darkhold Characters in Blitz
 ID_QU_S1_SPLASH_DARKHOLD,Win a Blitz battle with any 5-star or higher Darkhold Character
@@ -1702,6 +1707,25 @@ ID_QU_S4_HULKHUNTER,Collect 1 Reptoid Fin
 ID_QU_S5_HULKHUNTER,Collect 1 Indestructible Pants
 ID_QU_NA_SEPTEMBERALLIANCE2022,Coordinated Assault
 ID_QU_NA_GIFT_HULKHUNTER,Hulk Hunter Gamma Booster
+ID_QU_NA_TOTALLYAWESOME,Totally Awesome
+ID_QU_SD_TOTALLYAWESOME,Earn Brawn Shards
+ID_QU_LD_TOTALLYAWESOME,Spend campaign energy and earn Alliance Credits in order to make progress in this milestone.\n\nRewards will include:\n- Brawn character shards\n- Bio gear for your Gamma characters\n- Mutated Cells\n- Reptoid Fin\n- And much more!
+ID_QU_SM_TOTALLYAWESOME,"Earn Brawn Shards, Mutated Cells, and Reptoid Fin"
+ID_QU_SC_TOTALLYAWESOME,Spend Campaign Energy and Earn Alliance Credits
+ID_QU_S1_TOTALLYAWESOME,Earn 1 Alliance Credit
+ID_QU_NA_CHOTIME,Cho Time
+ID_QU_SD_CHOTIME,Blitz with Featured Characters
+ID_QU_LD_CHOTIME,"Earn points by winning Blitz battles. Bonus points when using Ravager, Wave 1 - Avengers and/or Hero Asgardian characters.\n\nEarn even more points when those characters are equipped with Gear Tier 13+.\n\nEarn Mutated Cells, PhDs for the limited-time Event Store, and more!"
+ID_QU_SC_CHOTIME,"Blitz with Ravager, Hero Asgardian, and/or Wave 1 - Avenger"
+ID_QU_S0_CHOTIME,Blitz Win with a Hero Asgardian character
+ID_QU_S1_CHOTIME,Blitz Win with Hero Asgardian at Gear Tier 13+
+ID_QU_S2_CHOTIME,Blitz Win with Hero Asgardian at Gear Tier 15+
+ID_QU_S3_CHOTIME,Blitz Win with a Ravager character
+ID_QU_S4_CHOTIME,Blitz Win with Ravager at Gear Tier 13+
+ID_QU_S5_CHOTIME,Blitz Win with Ravager at Gear Tier 15+
+ID_QU_S6_CHOTIME,Blitz Win with a Wave 1 - Avenger character
+ID_QU_S7_CHOTIME,Blitz Win with Wave 1 - Avenger at Gear Tier 13+
+ID_QU_S8_CHOTIME,Blitz Win with Wave 1 - Avenger at Gear Tier 15+
 ID_QU_NA_STARKRANDD,Stark R&D
 ID_QU_SD_STARKRANDD,Spend Gold and Blitz with Bionic Avengers
 ID_QU_LD_STARKRANDD,Spend Gold and win in Blitz with Bionic Avengers in the Stark R&D milestones. Rewards include:\n- Imperfect Serum\n- Augmented Gamma Radiation\n- Elite 5 Credits\n- Training Modules\n- Ability Materials\n- Teal Gear and more!

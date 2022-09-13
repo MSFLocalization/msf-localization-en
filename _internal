@@ -74,6 +74,8 @@ ID_FATAL_FACEBOOK_REAUTH_HEADER,FACEBOOK ERROR
 ID_FATAL_FACEBOOK_REAUTH_MESSAGE,"Facebook reauthorization is required. Tap ""Continue"" to reauthorize and continue."
 ID_FATAL_MANIFEST_UPDATED,A change has been detected. Please restart the game.
 ID_FATAL_MANIFEST_UPDATED_HEADER,DATA CHANGED
+ID_REDIRECT_HEADLINER,STAGING REDIRECT FAILED
+ID_REDIRECT_FAILED,Staging redirect failed. URL was empty.
 ID_TOASTER_DEFAULT,Strike Force servers are currently undergoing maintenance. Thank you for your patience.
 ID_TOASTER_SCHEDULED,Strike Force servers are currently undergoing scheduled maintenance. Thank you for your patience.
 ID_TOASTER_EMERGENCY,Strike Force servers are currently undergoing emergency maintenance. Thank you for your patience.

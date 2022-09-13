@@ -44,12 +44,12 @@ ID_AVE_KEY_EVENT03_DESCRIPTION,Collect keys to launch raids and earn ability mat
 ID_AVE_KEY_EVENT04_NAME,Gambit Raid Key
 ID_AVE_KEY_EVENT04_DESC,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
 ID_RES_CAMPAIGN_ENERGY_EVENT01,Life Cycle Energy
-ID_RES_CAMPAIGN_ENERGY_EVENT02,Hammer of the Gods Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT02,Web of Life Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT03,To X a Thief Energy
 ID_CAMPAIGN_ENERGY_EVENT01_NAME,Life Cycle Energy
 ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch Life Cycle missions.
-ID_CAMPAIGN_ENERGY_EVENT02_NAME,Darkness Comes Energy
-ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch Hammer of the Gods missions.
+ID_CAMPAIGN_ENERGY_EVENT02_NAME,Web of Life Energy
+ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch Web of Life missions.
 ID_CAMPAIGN_ENERGY_EVENT03_NAME,Rock-N-Roll Energy
 ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Rock-N-Roll missions.
 ID_HC_NAME,Power Cores
@@ -70,6 +70,8 @@ ID_PVP-CUR_NAME,Blitz Credits
 ID_PVP-CUR_DESCRIPTION,Use Blitz Credits to purchase Orbs and Supplies in the Blitz Store.
 ID_BATTLEGROUND-CUR_NAME,Arena Credits
 ID_BATTLEGROUND-CUR_DESCRIPTION,Use Arena Credits to purchase Orbs and Supplies in the Arena Store.
+ID_LOGINSTREAK_NAME,Login Streak Token
+ID_LOGINSTREAK_DESCRIPTION,Instantly fills the Streak Bar and activates the 7 Day Login Streak Benefits
 ID_SC_NAME,Gold
 ID_GS_NAME,Gacha Spin
 ID_ITEM_COUNT_LABEL,Amount in inventory: {amount}
@@ -111,6 +113,10 @@ ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MORGANLEFAY_PASSIVE_NAME,Morgan Le Fay's 
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MORGANLEFAY_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MORGANLEFAY_SPECIAL_NAME,Morgan Le Fay's Special Awakened Ability Material
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MORGANLEFAY_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ROGUE_PASSIVE_NAME,Rogue's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ROGUE_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ROGUE_BASIC_NAME,Rogue's Basic Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ROGUE_BASIC_DESCRIPTION,Used to further upgrade character abilities.
 ID_HELIMAT_ARMORY_NAME,Stark Tech Helicarrier Component
 ID_HELIMAT_ARMORY_DESCRIPTION,Used to upgrade the Stark Tech in the Helicarrier.
 ID_HELIMAT_BARRACKS_NAME,Barracks Helicarrier Component
@@ -189,8 +195,8 @@ ID_EVENT_CUR16_NAME,Heavy Armor Orb Fragments
 ID_EVENT_CUR16_DESCRIPTION,Collect Heavy Armor Orb Fragments to earn progress in the Monster VS Machine Event!
 ID_EVENT_CUR17_NAME,Event Currency 17
 ID_EVENT_CUR17_DESCRIPTION,Used to do Event Currency 17 related things.
-ID_EVENT_CUR18_NAME,Event Currency 18
-ID_EVENT_CUR18_DESCRIPTION,Used to do Event Currency 18 related things.
+ID_EVENT_CUR18_NAME,PhD
+ID_EVENT_CUR18_DESCRIPTION,Collect PhDs during the Brains as Brawn Event. Spend them in the PhD Event Store!
 ID_EVENT_CUR19_NAME,Event Currency 19
 ID_EVENT_CUR19_DESCRIPTION,Used to do Event Currency 19 related things.
 ID_PROMOTION_CUR_NAME,Silver Promotion Credit

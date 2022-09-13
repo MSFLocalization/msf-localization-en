@@ -858,6 +858,10 @@ ID_OF_DE_SCARLETWITCH_ECO_OFFER_12o,Save on <color=#fff568>12 Scarlet Witch Orbs
 ID_OF_NA_SCARLETWITCH_OFFER_1,Scarlet Witch Orb Offer
 ID_OF_NA_MORB_SCARLETWITCH_1,Scarlet Witch Orb Fragment Offer
 ID_OF_DE_MORB_SCARLETWITCH_500,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>500 Scarlet Witch Orb Fragments</color> with this offer.
+ID_GACHA_CRATE_EVENT_CAMPAIGN_SPIDERWEAVER_202209_NAME,Vigilant Orb
+ID_GACHA_CRATE_EVENT_CAMPAIGN_SPIDERWEAVER_202209_DESCRIPTION,Earn Vigilant Orb Fragments in the Web of Life Event Campaign.
+ID_GACHA_CRATE_EVENT_CAMPAIGN_SPIDERWEAVER_202209_TOKEN_NAME,Vigilant Orb Fragments
+ID_GACHA_CRATE_EVENT_CAMPAIGN_SPIDERWEAVER_202209_TOKEN_DESCRIPTION,Collect Vigilant Orb Fragments in the Web of Life Event Campaign to earn Vigilant Orbs.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_SCREAM_202009_NAME,Parasite Orb
 ID_GACHA_CRATE_EVENT_CAMPAIGN_SCREAM_202009_DESCRIPTION,Earn Parasite Orb Fragments in the Parasitic Intentions Event Campaign.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_SCREAM_202009_TOKEN_NAME,Parasite Orb Fragments
@@ -1745,7 +1749,7 @@ ID_OF_DE_DRSTRANGE_OFFER_75,Gain the upper hand with this offer for <color=#fff5
 ID_OF_DE_DRSTRANGE_OFFER_125,Gain the upper hand with this offer for <color=#fff568>125 Doctor Strange shards</color>; use his ability to flip positive effects and revive fallen teammates.
 ID_OF_DE_DRSTRANGE_OFFER_150,Gain the upper hand with this offer for <color=#fff568>150 Doctor Strange shards</color>; use his ability to flip positive effects and revive fallen teammates.
 ID_GACHA_CRATE_FCO_STRANGESUPREME_SPECIAL_NAME,Strange Effect Orb
-ID_GACHA_CRATE_FCO_STRANGESUPREME_SPECIAL_DESCRIPTION,Earn up to 180 Doctor Strange (Heartless) shards
+ID_GACHA_CRATE_FCO_STRANGESUPREME_SPECIAL_DESCRIPTION,Earn up to 180 Strange (Heartless) shards
 ID_GACHA_CRATE_FCO_STRANGESUPREME_SPECIAL_TOKEN_NAME,Strange Effect Orb Fragments
 ID_GACHA_CRATE_FCO_STRANGESUPREME_SPECIAL_TOKEN_DESCRIPTION,Collect Strange Effect Orb Fragments to earn a Strange Effect Orb.
 ID_GACHA_CRATE_FCO_DOCTORVOODOO_SPECIAL_NAME,Loa Whisperer Orb
@@ -2591,6 +2595,10 @@ ID_OF_DE_MISTERFANTASTIC_OFFER_75,"Get <color=#fff568>75 Mister Fantastic shards
 ID_OF_DE_MISTERFANTASTIC_OFFER_125,"Get <color=#fff568>125 Mister Fantastic shards</color> and use him to apply single-target stuns, assist Fantastic Four allies, and clear enemy positive effects!"
 ID_OF_DE_MISTERFANTASTIC_OFFER_150,"Get <color=#fff568>150 Mister Fantastic shards</color> and use him to apply single-target stuns, assist Fantastic Four allies, and clear enemy positive effects!"
 ID_OF_DE_MISTERFANTASTIC_OFFER_VAR,"Get <color=#fff568>{var1} Mister Fantastic shards</color> and use him to apply single-target stuns, assist Fantastic Four allies, and clear enemy positive effects!"
+ID_GACHA_CRATE_FCO_MRNEGATIVE_SPECIAL_NAME,Negative Edge Orb
+ID_GACHA_CRATE_FCO_MRNEGATIVE_SPECIAL_DESCRIPTION,Earn up to 180 Mister Negative shards
+ID_GACHA_CRATE_FCO_MRNEGATIVE_SPECIAL_TOKEN_NAME,Negative Edge Orb Fragments
+ID_GACHA_CRATE_FCO_MRNEGATIVE_SPECIAL_TOKEN_DESCRIPTION,Collect Negative Edge Orb Fragments to earn a Negative Edge Orb.
 ID_GACHA_CRATE_FCO_MRSINISTER_SPECIAL_NAME,House of Essex Orb
 ID_GACHA_CRATE_FCO_MRSINISTER_SPECIAL_DESCRIPTION,Get up to 180 Mister Sinister shards
 ID_GACHA_CRATE_FCO_MRSINISTER_SPECIAL_TOKEN_NAME,House of Essex Orb Fragments
@@ -3399,10 +3407,22 @@ ID_OF_DE_SPIDERMAN_OFFER_75,Get this exclusive <color=#fff568>75 shard Spider-Ma
 ID_OF_DE_SPIDERMAN_OFFER_100,Get this exclusive <color=#fff568>100 shard Spider-Man</color> offer and save! Lower your opponents' defense and evade their attacks with this quick Brawler.
 ID_OF_DE_SPIDERMAN_OFFER_125,Get this exclusive <color=#fff568>125 shard Spider-Man</color> offer and save! Lower your opponents' defense and evade their attacks with this quick Brawler.
 ID_OF_DE_SPIDERMAN_OFFER_150,Get this exclusive <color=#fff568>150 shard Spider-Man</color> offer and save! Lower your opponents' defense and evade their attacks with this quick Brawler.
+ID_GACHA_CRATE_FCO_SPIDERMAN2099_SPECIAL_NAME,Future Byte Orb
+ID_GACHA_CRATE_FCO_SPIDERMAN2099_SPECIAL_DESCRIPTION,Earn up to 180 Spider-Man 2099 shards
+ID_GACHA_CRATE_FCO_SPIDERMAN2099_SPECIAL_TOKEN_NAME,Future Byte Orb Fragments
+ID_GACHA_CRATE_FCO_SPIDERMAN2099_SPECIAL_TOKEN_DESCRIPTION,Collect Future Byte Orb Fragments to earn a Future Byte Orb.
+ID_GACHA_CRATE_FCO_SPIDERMANNOIR_SPECIAL_NAME,Monochromatic Orb
+ID_GACHA_CRATE_FCO_SPIDERMANNOIR_SPECIAL_DESCRIPTION,Earn up to 180 Spider-Man (Noir) shards
+ID_GACHA_CRATE_FCO_SPIDERMANNOIR_SPECIAL_TOKEN_NAME,Monochromatic Orb Fragments
+ID_GACHA_CRATE_FCO_SPIDERMANNOIR_SPECIAL_TOKEN_DESCRIPTION,Collect Monochromatic Orb Fragments to earn a Monochromatic Orb.
 ID_GACHA_CRATE_FCO_SPIDERPUNK_SPECIAL_NAME,Rockin Arachnid Orb
 ID_GACHA_CRATE_FCO_SPIDERPUNK_SPECIAL_DESCRIPTION,Earn up to 180 Spider-Punk shards
 ID_GACHA_CRATE_FCO_SPIDERPUNK_SPECIAL_TOKEN_NAME,Rockin Arachnid Orb Fragments
 ID_GACHA_CRATE_FCO_SPIDERPUNK_SPECIAL_TOKEN_DESCRIPTION,Collect Rockin Arachnid Orb Fragments to earn a Rockin Arachnid Orb.
+ID_GACHA_CRATE_FCO_SPIDERWEAVER_SPECIAL_NAME,Woven Destiny Orb
+ID_GACHA_CRATE_FCO_SPIDERWEAVER_SPECIAL_DESCRIPTION,Earn up to 180 Spider-Weaver shards
+ID_GACHA_CRATE_FCO_SPIDERWEAVER_SPECIAL_TOKEN_NAME,Woven Destiny Orb Fragments
+ID_GACHA_CRATE_FCO_SPIDERWEAVER_SPECIAL_TOKEN_DESCRIPTION,Collect Woven Destiny Orb Fragments to earn a Woven Destiny Orb.
 ID_GACHA_CRATE_FCO_SPIDERWOMAN_SPECIAL_NAME,Arachne Orb
 ID_GACHA_CRATE_FCO_SPIDERWOMAN_SPECIAL_DESCRIPTION,Earn up to 180 Spider-Woman shards
 ID_GACHA_CRATE_FCO_SPIDERWOMAN_SPECIAL_TOKEN_NAME,Arachne Orb Fragments
@@ -7807,9 +7827,9 @@ ID_OF_DE_MORBIUS2022_CATCHUP,Get <color=#fff568>{var1} Mystic Assassin Orbs</col
 ID_OF_NA_BLUE_IONS,T2 Level 1 Ion Offer
 ID_OF_DE_BLUE_IONS,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} T2 Ion Orbs</color> and more! Fuse your T2 Iso-8 Crystals or upgrade your Class Level with these T2 Ions.
 ID_OF_NA_STRANGESUPREME_FCO_OFFER,Destroyer of Universes
-ID_OF_DE_STRANGESUPREME_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Doctor Strange (Heartless)</color> with this offer! Each orb has a chance to earn up to 180 shards. Shield allies with Barrier and devour enemies with a hard-hitting Ultimate Ability.
-ID_OF_DE_STRANGESUPREME_FCO_OFFER_VAR,Save on <color=#fff568>{var1} Strange Effect Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Doctor Strange (Heartless)</color> shards. Open a victory portal by shielding allies with Barrier and devouring enemies with a hard-hitting Ultimate Ability.
-ID_OF_DE_STRANGESUPREME_OFFER_VAR_SHARD,Get <color=#fff568>{var1} Doctor Strange (Heartless)</color> shards and open a portal to victory! Shield allies with Barrier and devour enemies with a hard-hitting Ultimate Ability.
+ID_OF_DE_STRANGESUPREME_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Strange (Heartless)</color> with this offer! Each orb has a chance to earn up to 180 shards. Shield allies with Barrier and devour enemies with a hard-hitting Ultimate Ability.
+ID_OF_DE_STRANGESUPREME_FCO_OFFER_VAR,Save on <color=#fff568>{var1} Strange Effect Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Strange (Heartless)</color> shards. Open a victory portal by shielding allies with Barrier and devouring enemies with a hard-hitting Ultimate Ability.
+ID_OF_DE_STRANGESUPREME_OFFER_VAR_SHARD,Get <color=#fff568>{var1} Strange (Heartless)</color> shards and open a portal to victory! Shield allies with Barrier and devour enemies with a hard-hitting Ultimate Ability.
 ID_OF_NA_WONG_FCO_OFFER,Protector Supreme
 ID_OF_DE_WONG_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Wong</color> with this offer! Each orb has a chance to earn up to 180 shards. Protect allies with Taunt and attack enemies who attack Darkhold allies.
 ID_OF_DE_WONG_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Mystic Protector Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Wong</color> shards. Protect with Taunt, attack enemies who attack Darhold allies, and grant Defense Up to Darkhold allies."
