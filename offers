@@ -252,6 +252,22 @@ ID_OF_NA_POWEROFATTORNEY_BLITZ,Power of Attorney Blitz Bundle
 ID_OF_DE_POWEROFATTORNEY_BLITZ,Boost your Blitz and <color=#fff568>Power of Attorney Milestone</color> progress with over <color=#fff568>50%</color> off!
 ID_OF_NA_POWEROFATTORNEY_BUNDLE_SUPER,Power of Attorney Super Bundle
 ID_OF_NA_POWEROFATTORNEY_BUNDLE_MEGA,Power of Attorney Mega Bundle
+ID_OF_NA_BRAWNEVENT_STARTER_MEDIUM,The Smart Guy Bundle
+ID_OF_NA_BRAWNEVENT_STARTER_SUPER,The Super Genius Bundle
+ID_OF_NA_BRAWNEVENT_STARTER_MEGA,"The Gigachad Bundle "
+ID_OF_DE_BRAWNEVENT_STARTER_VAR,Start the Totally Awesome milestone on the right foot with this offer. Save over <color=#0ecf42>{var1}%</color> with this bundle. Get <color=#0ecf42>{var2} points</color> with each purchase toward the Totally Awesome Milestone.
+ID_OF_NA_BRAWNEVENT_CATCHUP,Totally Awesome Catch Up Bundle
+ID_OF_NA_BRAWNEVENT_CATCHUP_BIG,Ted Talk Catch Up Bundle
+ID_OF_DE_BRAWNEVENT_CATCHUP,Don't miss out on collecting all the Totally Awesome rewards! Save over <color=#0ecf42>{var1}%</color> with each purchase.
+ID_OF_NA_BRAWNEVENT_EVENTCURRENCY,Get Cho PhD Bundle
+ID_OF_NA_BRAWNEVENT_DAILY_ENERGY_SMALL,Daily Dose of Campaign Energy
+ID_OF_NA_BRAWNEVENT_DAILY_ENERGY_MED,"Too Smart, Too Strong, Too Much Energy"
+ID_OF_NA_BRAWNEVENT_DAILY_ENERGY_BIG,Hulk-sized Energy Bundle
+ID_OF_DE_BRAWNEVENT_DAILY_ENERGY_VAR,Get your energy buzz with this offer. Save over <color=#0ecf42>{var1}%</color> on Campaign Energy with this bundle. Get those Totally Awesome rewards and PhDs when you spend that Energy in the Campaign.
+ID_OF_NA_BRAWNEVENT_DAILY_WEB,The Support Web Bundle
+ID_OF_DE_BRAWNEVENT_DAILY_WEB,Earn <color=#0ecf42>{var1}</color> points toward the <color=#0ecf42>Cho Time</color> milestone with each purchase. Take those PhDs from the Cho Time milestone and spend them in the limited-time PhD Event Store.
+ID_OF_NA_BRAWNEVENT_DAILY_PHD,Daily PhD Bundle
+ID_OF_DE_BRAWNEVENT_EVENTCURRENCY,Want to get more from the <color=#0ecf42>PhD Event Store</color>? Save over <color=#0ecf42>{var1}%</color> with each purchase of PhDs. Who knew it would be so easy to get PhDs?
 ID_OF_NA_COSTUME_ZEMO,Winter Regent Costume Offer
 ID_OF_DE_COSTUME_ZEMO,Take advantage of this spectacular offer and acquire Baron Zemo's <color=#fff568>Winter Regent</color> costume!
 ID_OF_NA_COSTUME_WONG,Sorcerer Supreme Costume Offer
@@ -260,3 +276,40 @@ ID_OF_NA_COSTUME_TASKMASTER,Red Room Costume Offer
 ID_OF_DE_COSTUME_TASKMASTER,Take advantage of this spectacular offer and acquire Taskmaster's <color=#fff568>Red Room</color> costume!
 ID_OF_NA_COSTUME_STORM,Classic Costume Offer
 ID_OF_DE_COSTUME_STORM,Take advantage of this spectacular offer and acquire Storm's <color=#fff568>Classic</color> costume!
+ID_OF_NA_COSTUME_WOLVERINE_UNCANNY,Uncanny Costume Offer
+ID_OF_DE_COSTUME_WOLVERINE_UNCANNY,Take advantage of this spectacular offer and acquire Wolverine's <color=#fff568>Uncanny</color> costume!
+ID_OF_NA_SPIDERWEAVER_FCO_OFFER,Threads of Fate
+ID_OF_DE_SPIDERWEAVER_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Spider-Weaver</color> with this offer! Each orb has a chance to earn up to 180 shards. Spin up Protection for Tangled Web allies by granting them Max Health and, when Charged, lowering enemy Accuracy by 100%."
+ID_OF_DE_SPIDERWEAVER_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Woven Destiny Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Spider-Weaver</color> shards. Spin up Protection for Tangled Web allies by granting them Max Health and, when Charged, lowering enemy Accuracy by 100%."
+ID_OF_DE_SPIDERWEAVER_OFFER_VAR_SHARD,"Get <color=#fff568>{var1} Spider-Weaver</color> shards and ensnare your enemies! Spin up Protection for Tangled Web allies by granting them Max Health and, when Charged, lowering enemy Accuracy by 100%."
+ID_OF_NA_SPIDERMAN2099_FCO_OFFER,Web of the Future
+ID_OF_DE_SPIDERMAN2099_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Spider-Man 2099</color> with this offer! Each orb has a chance to earn up to 180 shards. Send enemies to a painful future by applying negative effects and granting Tangled Web allies Drain, Focus, and Resistance."
+ID_OF_DE_SPIDERMAN2099_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Future Byte Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Spider-Man 2099</color> shards. Send enemies to a painful future by applying negative effects and granting Tangled Web allies Drain, Focus, and Resistance."
+ID_OF_DE_SPIDERMAN2099_OFFER_VAR_SHARD,"Get <color=#fff568>{var1} Spider-Man 2099</color> shards and send enemies to a painful future! Apply negative effects and grant Tangled Web allies Drain, Focus, and Resistance."
+ID_OF_NA_567_RED_STAR_DRAFT_HEROASGARDIAN,5-7 Red Star Draft: Hero Asgardian
+ID_OF_DE_567_RED_STAR_DRAFT_HEROASGARDIAN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Hero Asgardians</color>."
+ID_OF_NA_567_RED_STAR_DRAFT_RAVAGERMINION,5-7 Red Star Draft: Ravager Minion
+ID_OF_DE_567_RED_STAR_DRAFT_RAVAGERMINION,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Ravager Minions</color>."
+ID_OF_NA_567_RED_STAR_DRAFT_WAVE1AVENGER,5-7 Red Star Draft: Wave 1 - Avenger
+ID_OF_DE_567_RED_STAR_DRAFT_WAVE1AVENGER,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Wave 1 - Avengers</color>."
+ID_OF_NA_PICK_DUAL_TEAM_HEROASGARDIAN,Dual: Hero Asgardian Team Offer
+ID_OF_DE_PICK_DUAL_TEAM_HEROASGARDIAN,Take advantage of one of these spectacular <color=#fff568>Hero Asgardian</color> Character Shard deals!
+ID_OF_STOREBAR_HEROASGARDIAN,Hero Asgardian Shard Offer
+ID_OF_NA_PICK_DUAL_TEAM_RAVAGER,Dual: Ravager Team Offer
+ID_OF_DE_PICK_DUAL_TEAM_RAVAGER,Take advantage of one of these spectacular <color=#fff568>Ravager</color> Character Shard deals!
+ID_OF_STOREBAR_RAVAGER,Ravager Shard Offer
+ID_OF_NA_PICK_DUAL_TEAM_WAVE1AVENGER,Dual: Wave 1 - Avenger Team Offer
+ID_OF_DE_PICK_DUAL_TEAM_WAVE1AVENGER,Take advantage of one of these spectacular <color=#fff568>Wave 1 - Avenger</color> Character Shard deals!
+ID_OF_STOREBAR_WAVE1AVENGER,Wave 1 - Avenger Shard Offer
+ID_OF_NA_PICK_DUAL_TEAM_SHIELD,Dual: S.H.I.E.L.D. Team Offer
+ID_OF_DE_PICK_DUAL_TEAM_SHIELD,Take advantage of one of these spectacular <color=#fff568>S.H.I.E.L.D.</color> Character Shard deals!
+ID_OF_STOREBAR_SHIELD,S.H.I.E.L.D. Shard Offer
+ID_OF_NA_PICK_DUAL_TEAM_UNLIMITEDXMEN,Dual: Unlimited X-Men Team Offer
+ID_OF_DE_PICK_DUAL_TEAM_UNLIMITEDXMEN,Take advantage of one of these spectacular <color=#fff568>Unlimited X-Men</color> Character Shard deals!
+ID_OF_STOREBAR_UNLIMITEDXMEN,Unlimited X-Men Shard Offer
+ID_OF_NA_567_RED_STAR_DRAFT_UNLMITEDXMEN,5-7 Red Star Draft: Unlimited X-Men
+ID_OF_DE_567_RED_STAR_DRAFT_UNLMITEDXMEN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Unlimited X-Men</color>."
+ID_OF_NA_SPIDERMANNOIR_FCO_OFFER,Arachnid Airman
+ID_OF_DE_SPIDERMANNOIR_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Spider-Man Noir</color> with this offer! Each orb has a chance to earn up to 180 shards. Bump off enemies with high damage attacks, apply Heal Block, and grant Tangled Web allies additional Damage."
+ID_OF_DE_SPIDERMANNOIR_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Monochromatic Orb Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Spider-Man Noir</color> shards. Bump off enemies with high damage attacks, apply Heal Block, and grant Tangled Web allies additional Damage."
+ID_OF_DE_SPIDERMANNOIR_OFFER_VAR_SHARD,"Get <color=#fff568>{var1} Spider-Man Noir</color> shards and bump off enemies! Unleash high damage attacks, apply Heal Block, and grant Tangled Web allies additional Damage."
