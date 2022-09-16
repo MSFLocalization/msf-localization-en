@@ -1775,3 +1775,38 @@ ID_QU_S1_FIGHTINGFORCE,Play a War battle
 ID_QU_S2_FIGHTINGFORCE,Play a War battle with A-Force
 ID_QU_S3_FIGHTINGFORCE,Play a War battle with A-Force at Gear Tier 13+
 ID_QU_S4_FIGHTINGFORCE,Play a War battle with A-Force at Gear Tier 15+
+ID_QU_NA_RAIDOFFORTUNE,Raid of Fortune
+ID_QU_SD_RAIDOFFORTUNE,Earn Raid Credits and Spend Power Cores
+ID_QU_LM_RAIDOFFORTUNE,Earn Raid Credits and spend Power Cores to get these amazing rewards: \n\n- Raid team character shards\n- Armory 17 Orb Fragments\n- Elite 4 and 5 Credits\n- T2 Level 4 Ions\n- Gold and Dark Promotion Credits\n- And more!
+ID_QU_SM_RAIDOFFORTUNE,"Earn Raid Credits, Spend Power Cores"
+ID_QU_SC_RAIDOFFORTUNE,"Earn Raid Credits, Spend Power Cores"
+ID_QU_S1_RAIDOFFORTUNE,Earn 1 Raid Credit
+ID_QU_S2_RAIDOFFORTUNE,Spend 1 Power Core
+ID_QU_NA_GOLDENOPPORTUNITY,Golden Opportunity
+ID_QU_SD_GOLDENOPPORTUNITY,Spend Gold
+ID_QU_LD_GOLDENOPPORTUNITY,Spend GOLD to earn various milestone rewards.
+ID_QU_SM_GOLDENOPPORTUNITY,Earn points by spending GOLD
+ID_QU_SC_GOLDENOPPORTUNITY,Earn points by spending GOLD
+ID_QU_S1_GOLDENOPPORTUNITY,Spend 1 GOLD
+ID_QU_NA_ETHEREALARMS,Ethereal Arms
+ID_QU_SD_ETHEREALARMS,Open Vigilant Orbs
+ID_QU_LD_ETHEREALARMS,"Open Vigilant Orbs from the Web of Life Event Campaign, spend Power Cores, and Blitz through the Destined Connections milestones. Rewards include:\n\n- Spider-Weaver Gear\n- Spider-Verse shards\n- Mutated Cells & Indestructible Pants\n- 5 Red Star Spider-Man (Symbiote)\n- And more!"
+ID_QU_SM_ETHEREALARMS,"Open Vigilant Orbs, use Power Cores, Destined Connections"
+ID_QU_SC_ETHEREALARMS,"Open Vigilant Orbs, use Power Cores, Destined Connections"
+ID_QU_S1_ETHEREALARMS,Open 1 Vigilant Orb
+ID_QU_S2_ETHEREALARMS,Spend 1 Power Core
+ID_QU_NA_DESTINEDCONNECTIONS,Destined Connections
+ID_QU_SD_DESTINEDCONNECTIONS,Blitz with Vigilant Characters
+ID_QU_LD_DESTINEDCONNECTIONS,Earn points by winning Blitz battles. Get more points using limited-time Vigilant trait characters and even more for those equipped with Gear Tier 13+. Rewards include milestone points towards Ethereal Arms and Gear!
+ID_QU_SM_DESTINEDCONNECTIONS,Win Blitz with Vigilant characters
+ID_QU_SC_DESTINEDCONNECTIONS,Win Blitz with Vigilant characters
+ID_QU_S1_DESTINEDCONNECTIONS,Blitz Win
+ID_QU_S2_DESTINEDCONNECTIONS,Blitz Win with Vigilant
+ID_QU_S3_DESTINEDCONNECTIONS,Blitz Win with Vigilant at Gear Tier 13+
+ID_QU_S4_DESTINEDCONNECTIONS,Blitz Win with Vigilant at Gear Tier 15+
+ID_QU_NA_MYSTICALWEAVING,Mystical Weaving
+ID_QU_SD_MYSTICALWEAVING,Spend Campaign Energy
+ID_QU_LD_MYSTICALWEAVING,Spend Campaign Energy to complete a daily milestone that rewards Silver Promotion Credits and Legacy III Orb Fragments.
+ID_QU_SM_MYSTICALWEAVING,Spend Campaign Energy
+ID_QU_SC_MYSTICALWEAVING,Spend Campaign Energy
+ID_QU_S1_MYSTICALWEAVING,Spend 1 Campaign Energy

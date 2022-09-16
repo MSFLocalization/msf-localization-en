@@ -313,3 +313,28 @@ ID_OF_NA_SPIDERMANNOIR_FCO_OFFER,Arachnid Airman
 ID_OF_DE_SPIDERMANNOIR_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Spider-Man Noir</color> with this offer! Each orb has a chance to earn up to 180 shards. Bump off enemies with high damage attacks, apply Heal Block, and grant Tangled Web allies additional Damage."
 ID_OF_DE_SPIDERMANNOIR_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Monochromatic Orb Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Spider-Man Noir</color> shards. Bump off enemies with high damage attacks, apply Heal Block, and grant Tangled Web allies additional Damage."
 ID_OF_DE_SPIDERMANNOIR_OFFER_VAR_SHARD,"Get <color=#fff568>{var1} Spider-Man Noir</color> shards and bump off enemies! Unleash high damage attacks, apply Heal Block, and grant Tangled Web allies additional Damage."
+ID_OF_NA_RAIDOFFORTUNE_STARTER,Raid of Fortune Starter Bundle
+ID_OF_DE_RAIDOFFORTUNE_STARTER,Start strong in the <color=#fff568>Raid of Fortune Milestone</color> with {var1} Raid Credits for <color=#fff568>{var2}%</color> progress in the event.
+ID_OF_NA_RAIDOFFORTUNE_CATCHUP,Raid of Fortune Catch-up Bundle
+ID_OF_DE_RAIDOFFORTUNE_CATCHUP,Catch up with {var1} Raid Credits for <color=#fff568>{var2}%</color> progress to finish off the <color=#fff568>Raid of Fortune Milestone</color>.
+ID_OF_DE_RAIDOFFORTUNE_DAILY,Raid of Fortune Daily Energy
+ID_OF_NA_RAIDOFFORTUNE_DAILY,Get your daily dose of <color=#fff568>Raid Energy</color> to boost your <color=#fff568>Raid of Fortune Milestone</color> progress!
+ID_OF_NA_ETHEREALARMS_STARTER_MEDIUM,Ethereal Arms Starter Bundle
+ID_OF_DE_ETHEREALARMS_STARTER_VAR,Save <color=#fff568>over {var1}%</color> and get a head start of {var2} points in the <color=#fff568>Ethereal Arms Milestone</color>!
+ID_OF_NA_ETHEREALARMS_STARTER_SUPER,Ethereal Arms Super Starter
+ID_OF_NA_ETHEREALARMS_STARTER_MEGA,Ethereal Arms Mega Starter
+ID_OF_NA_ETHEREALARMS_BOOSTER,Ethereal Arms Booster Pack
+ID_OF_DE_ETHEREALARMS_BOOSTER_VAR,Save <color=#fff568>over {var1}%</color> and get a boost of {var2} points in the <color=#fff568>Ethereal Arms Milestone</color>!
+ID_OF_NA_ETHEREALARMS_CATCHUP_DUAL,Ethereal Arms Super Catch-Up
+ID_OF_DE_ETHEREALARMS_CATCHUP_DUAL,Take advantage of one of these limited deals to get through the end of the <color=#fff568>Ethereal Arms Milestone</color> to help reach your final rewards!
+ID_OF_NA_ETHEREALARMS_DAILY_ORB,Daily Orb Pack
+ID_OF_DE_ETHEREALARMS_DAILY_ORB,Don't miss this daily <color=#fff568>Vigilant Orb</color> offer to power up your roster and boost your <color=#fff568>Ethereal Arms Milestone</color> progress!
+ID_OF_DE_ETHEREALARMS_DAILY_ORB2,Get your daily dose of <color=#fff568>Vigilant Orbs</color> to power up your roster and boost your <color=#fff568>Ethereal Arms Milestone</color> progress!
+ID_OF_NA_ETHEREALARMS_BLITZ,Daily Blitz Bundle
+ID_OF_DE_ETHEREALARMS_BLITZ,Boost your Blitzing to power through <color=#fff568>Destined Connections Milestones</color> to earn more Ethereal Arms progress with over <color=#fff568>50%</color> off!
+ID_OF_NA_ETHEREALARMS_HC_ECMORB,Vigilant Orb Offer
+ID_OF_DE_ETHEREALARMS_HC_ECMORB,Don't miss this chance to power up your roster and earn <color=#fff568>Ethereal Arms progress</color> with this limited offer!
+ID_OF_NA_ETHEREALARMS_BACKUP,Ethereal Arms Bundle
+ID_OF_DE_ETHEREALARMS_BACKUP,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Vigilant Orbs</color> and more with this offer! Get a head start of {var3} points in the <color=#fff568>Ethereal Arms Milestone</color> now.
+ID_OF_NA_ETHEREALARMS_LASTCHANCE,Ethereal Arms Last Chance Booster
+ID_OF_DE_ETHEREALARMS_LASTCHANCE,"Need a final boost to finish your <color=#fff568>Ethereal Arms Milestone</color>? Don't miss out on this offer! "

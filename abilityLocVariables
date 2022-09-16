@@ -603,7 +603,7 @@ ID_ABILITY_REDHULK_VAR_ULTIMATE_BUFF_COUNT_NEXT,nextlevel.ultimate.action.2.proc
 ID_ABILITY_REDHULK_VAR_ULTIMATE_EXTRA_FOCUS,thislevel.ultimate.action.1.stat_modifier.0.delta
 ID_ABILITY_REDHULK_VAR_ULTIMATE_EXTRA_FOCUS_NEXT,nextlevel.ultimate.action.1.stat_modifier.0.delta
 ID_ABILITY_REDHULK_VAR_ULTIMATE_BATTLEFIELD_EFFECT_CHANCE,thislevel.ultimate.action.3.action_pct
-ID_ABILITY_REDHULK_VAR_ULTIMATE_BATTLEFIELD_EFFECT_CHANCE_DIFF,nextlevel.ultimate.action.3.action_pct - thisevel.ultimate.action.3.action_pct
+ID_ABILITY_REDHULK_VAR_ULTIMATE_BATTLEFIELD_EFFECT_CHANCE_DIFF,nextlevel.ultimate.action.3.action_pct - thislevel.ultimate.action.3.action_pct
 ID_ABILITY_REDHULK_VAR_PASSIVE_START_TURNMETER,thislevel.passive.0.action.2.change_pct
 ID_ABILITY_REDHULK_VAR_PASSIVE_START_TURNMETER_NEXT,nextlevel.passive.0.action.2.change_pct
 ID_ABILITY_REDHULK_VAR_PASSIVE_HEAL,thislevel.passive.1.action.0.heal_pct
