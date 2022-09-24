@@ -7224,6 +7224,8 @@ ID_OF_NA_567_RED_STAR_DRAFT_SCARLETSPIDER,5-7 Red Star Draft: Scarlet Spider
 ID_OF_DE_567_RED_STAR_DRAFT_SCARLETSPIDER,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Scarlet Spider</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_ICEMAN,5-7 Red Star Draft: Iceman
 ID_OF_DE_567_RED_STAR_DRAFT_ICEMAN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Iceman</color>."
+ID_OF_NA_567_RED_STAR_DRAFT_GHOSTSPIDER,5-7 Red Star Draft: Ghost-Spider
+ID_OF_DE_567_RED_STAR_DRAFT_GHOSTSPIDER,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Ghost-Spider</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_BARONZEMO,5-7 Red Star Draft: Baron Zemo
 ID_OF_DE_567_RED_STAR_DRAFT_BARONZEMO,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Baron Zemo</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_HULK,5-7 Red Star Draft: Hulk
@@ -7748,6 +7750,7 @@ ID_OF_DE_ECHO_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Echo</color> wi
 ID_OF_DE_ECHO_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Photographic Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Echo</color> shards. Prevent enemy Assists, boost damage for Young Avengers, and retaliate against enemies who attack Young Avenger allies."
 ID_OF_DE_ECHO_OFFER_VAR_SHARD,"Get <color=#fff568>{var1} Echo</color> shards and transform your Young Avengers team! Prevent enemy Assists, boost damage for Young Avengers, and retaliate against enemies who attack Young Avenger allies."
 ID_OF_NA_MORBIUS_FCO_OFFER,The Living Vampire
+ID_OF_NA_MORBIUS_NU_OFFER,Morbin' Time Offer
 ID_OF_DE_MORBIUS_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Morbius</color> with this offer! Each orb has a chance to earn up to 180 shards. Sink your teeth into enemies by applying Trauma, Heal Block, Disrupted, and other negative effects! "
 ID_OF_DE_MORBIUS_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Blood Sucker Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Morbius</color> shards. Send enemies to the grave by applying Trauma, Heal Block, Disrupted, and other negative effects"
 ID_OF_DE_MORBIUS_OFFER_VAR_SHARD,"Get <color=#fff568>{var1} Morbius</color> shards and sink your teeth into enemies by applying Trauma, Heal Block, Disrupted, and other negative effects!"
@@ -8163,3 +8166,9 @@ ID_GACHA_CRATE_GAMMA_GOLIATH_NAME,Gamma Goliath Orb
 ID_GACHA_CRATE_GAMMA_GOLIATH_DESCRIPTION,Get up to 100 Abomination Shards
 ID_GACHA_CRATE_GAMMA_GOLIATH_TOKEN_NAME,Gamma Goliath Orb Fragments
 ID_GACHA_CRATE_GAMMA_GOLIATH_TOKEN_DESCRIPTION,Collect Gamma Goliath Orb Fragments to earn a Gamma Goliath Orb.
+ID_GACHA_CRATE_HORSEMANHARVEST_NAME,Horseman Harvest Orb
+ID_GACHA_CRATE_HORSEMANHARVEST_DESCRIPTION,"Contains Unlimited X-Men, Young Avengers, A-Force, and Inhuman shards"
+ID_GACHA_CRATE_HORSEMANHARVEST_TOKEN_NAME,Horseman Harvest Orb Fragments
+ID_GACHA_CRATE_HORSEMANHARVEST_TOKEN_DESCRIPTION,Collect Horseman Harvest Orb Fragments to earn Horseman Harvest Orbs and get progress in the Rogue's Gallery Event
+ID_OF_NA_DARKHUNTER_TEAM,Dark Hunter Team Offer
+ID_OF_DE_DARKHUNTER_TEAM,Unlock the Dark Hunters team and power up to unlock Morgan Le Fay!

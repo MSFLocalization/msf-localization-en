@@ -1378,6 +1378,8 @@ ID_MOTD_NA_SPLASH_RAVAGERS,LIVE: Radioactive Renegades
 ID_MOTD_DE_SPLASH_RAVAGERS,Battle with Ravager characters to earn Mutated Cells and Iso-8!
 ID_MOTD_NA_SPLASH_VIGILANT,LIVE: Funnel-Web Fallout
 ID_MOTD_DE_SPLASH_VIGILANT,Blitz with Vigilant trait characters to earn Mutated Cells and Gear!
+ID_MOTD_NA_SPLASH_HAND,LIVE: Immortal Influence
+ID_MOTD_DE_SPLASH_HAND,Blitz with Hand trait characters to earn Ability Materials!
 ID_MOTD_NA_COSMICCRUCIBLE_SEASON1_TEASER,Prepare your Roster!
 ID_MOTD_DE_COSMICCRUCIBLE_SEASON1_TEASER,Cosmic Crucible: Season 1 approaches!
 ID_MOTD_NA_COSMICCRUCIBLE_SEASON1_ANNOUNCE,LIVE: Cosmic Crucible Season 1
@@ -1400,3 +1402,21 @@ ID_MOTD_NA_ETHEREALARMS_TEASER,Coming Soon: Ethereal Arms
 ID_MOTD_DE_ETHEREALARMS_TEASER,Earn Mystic rewards & Indestructible Pants!
 ID_MOTD_NA_ETHEREALARMS_ANNOUNCE,LIVE: Ethereal Arms
 ID_MOTD_DE_ETHEREALARMS_ANNOUNCE,Earn Mystic rewards & Indestructible Pants!
+ID_MOTD_NA_ROGUESGALLERY_ANNOUNCE,NOW LIVE: Rogue's Gallery
+ID_MOTD_DE_ROGUESGALLERY_ANNOUNCE,Earn character shards and gear for the Famine Scourge Event!
+ID_MOTD_NA_SPIDERMAN2099_ANNOUNCE,Spider-Man 2099 Swings Into Action!
+ID_MOTD_DE_SPIDERMAN2099_ANNOUNCE,Time-Crawler
+ID_MOTD_NA_SPIDERMAN2099_PREVIEW,Coming Soon: Spider-Man 2099
+ID_MOTD_DE_SPIDERMAN2099_PREVIEW,Prepare for this time-traveling arachnid's arrival!
+ID_MOTD_NA_FUTURESHOCK_TEASER,The Future is Looking Bright!
+ID_MOTD_DE_FUTURESHOCK_TEASER,Recruit Spider-Man 2099 during the Future Shock Event!
+ID_MOTD_NA_FUTURESHOCK_ANNOUNCE,LIVE: Future Shock
+ID_MOTD_DE_FUTURESHOCK_ANNOUNCE,Recruit Spider-Man 2099 by participating in October Events!
+ID_MOTD_NA_SPLASH_GENETICMARVELS,LIVE: Genetic Marvels
+ID_MOTD_DE_SPLASH_GENETICMARVELS,Blitz with Marauder to earn Spliced Spider-Genes and Orbs!
+ID_MOTD_NA_SPLASH_SPIDERSPACE,LIVE: Spider-Space
+ID_MOTD_DE_SPLASH_SPIDERSPACE,Blitz with Symbiotes to earn Spliced Spider-Genes and Iso-8!
+ID_MOTD_NA_SPLASH_WEBOFSHADOWS,LIVE: Web of Shadows
+ID_MOTD_DE_SPLASH_WEBOFSHADOWS,Blitz with Shadowland to earn Spliced Spider-Genes and Gear!
+ID_MOTD_NA_SPLASH_SOMETHINGWICKED,LIVE: Something Wicked
+ID_MOTD_DE_SPLASH_SOMETHINGWICKED,Blitz with Supernatural to earn Spliced Spider-Genes and Ability Materials!

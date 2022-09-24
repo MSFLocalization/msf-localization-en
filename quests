@@ -336,18 +336,46 @@ ID_QU_LM_SPLASH_RAVAGERS,Earn points by using Ravagers characters in Blitz Battl
 ID_QU_SC_SPLASH_RAVAGERS,Use Ravagers Characters in Blitz
 ID_QU_S1_SPLASH_RAVAGERS,Win a Blitz battle with any 5-star or higher Ravagers Character
 ID_QU_S2_SPLASH_RAVAGERS,Win a Blitz battle with any 7-star Ravagers Character
-ID_QU_NA_SPLASH_VIGILANT,Quick Rumble - Vigilant
+ID_QU_NA_SPLASH_VIGILANT,Funnel-Web Fallout
 ID_QU_SD_SPLASH_VIGILANT,Use Vigilant in Blitz
 ID_QU_LM_SPLASH_VIGILANT,Earn points by using Vigilant characters in Blitz Battles. Earn more points if your Vigilant characters are 5 Stars and higher and even more points if they are 7 Stars.
 ID_QU_SC_SPLASH_VIGILANT,Use Vigilant Characters in Blitz
 ID_QU_S1_SPLASH_VIGILANT,Win a Blitz battle with any 5-star or higher Vigilant Character
 ID_QU_S2_SPLASH_VIGILANT,Win a Blitz battle with any 7-star Vigilant Character
-ID_QU_NA_SPLASH_HAND,Quick Rumble - Hand
+ID_QU_NA_SPLASH_HAND,Immortal Influence
 ID_QU_SD_SPLASH_HAND,Use Hand in Blitz
 ID_QU_LM_SPLASH_HAND,Earn points by using Hand characters in Blitz Battles. Earn more points if your Hand characters are 5 Stars and higher and even more points if they are 7 Stars.
 ID_QU_SC_SPLASH_HAND,Use Hand Characters in Blitz
 ID_QU_S1_SPLASH_HAND,Win a Blitz battle with any 5-star or higher Hand Character
 ID_QU_S2_SPLASH_HAND,Win a Blitz battle with any 7-star Hand Character
+ID_QU_NA_SPLASH_GENETICMARVELS,Quick Rumble - Marauder
+ID_QU_SD_SPLASH_GENETICMARVELS,Use Marauder in Blitz
+ID_QU_LM_SPLASH_GENETICMARVELS,Earn points by using Marauder characters in Blitz Battles. Earn more points if your Marauder characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_GENETICMARVELS,Use Marauder Characters in Blitz
+ID_QU_S1_SPLASH_GENETICMARVELS,Win a Blitz battle with any 3-star or higher Marauder Character
+ID_QU_S2_SPLASH_GENETICMARVELS,Win a Blitz battle with any 5-star or higher Marauder Character
+ID_QU_S3_SPLASH_GENETICMARVELS,Win a Blitz battle with any 7-star Marauder Character
+ID_QU_NA_SPLASH_SPIDERSPACE,Quick Rumble - Symbiotes
+ID_QU_SD_SPLASH_SPIDERSPACE,Use Symbiotes in Blitz
+ID_QU_LM_SPLASH_SPIDERSPACE,Earn points by using Symbiotes characters in Blitz Battles. Earn more points if your Symbiotes characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_SPIDERSPACE,Use Symbiotes Characters in Blitz
+ID_QU_S1_SPLASH_SPIDERSPACE,Win a Blitz battle with any 3-star or higher Symbiotes Character
+ID_QU_S2_SPLASH_SPIDERSPACE,Win a Blitz battle with any 5-star or higher Symbiotes Character
+ID_QU_S3_SPLASH_SPIDERSPACE,Win a Blitz battle with any 7-star Symbiotes Character
+ID_QU_NA_SPLASH_WEBOFSHADOWS,Quick Rumble - Shadowland
+ID_QU_SD_SPLASH_WEBOFSHADOWS,Use Shadowland in Blitz
+ID_QU_LM_SPLASH_WEBOFSHADOWS,Earn points by using Shadowland characters in Blitz Battles. Earn more points if your Shadowland characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_WEBOFSHADOWS,Use Shadowland Characters in Blitz
+ID_QU_S1_SPLASH_WEBOFSHADOWS,Win a Blitz battle with any 3-star or higher Shadowland Character
+ID_QU_S2_SPLASH_WEBOFSHADOWS,Win a Blitz battle with any 5-star or higher Shadowland Character
+ID_QU_S3_SPLASH_WEBOFSHADOWS,Win a Blitz battle with any 7-star Shadowland Character
+ID_QU_NA_SPLASH_SOMETHINGWICKED,Quick Rumble - Supernatural
+ID_QU_SD_SPLASH_SOMETHINGWICKED,Use Supernatural in Blitz
+ID_QU_LM_SPLASH_SOMETHINGWICKED,Earn points by using Supernatural characters in Blitz Battles. Earn more points if your Supernatural characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_SOMETHINGWICKED,Use Supernatural Characters in Blitz
+ID_QU_S1_SPLASH_SOMETHINGWICKED,Win a Blitz battle with any 3-star or higher Supernatural Character
+ID_QU_S2_SPLASH_SOMETHINGWICKED,Win a Blitz battle with any 5-star or higher Supernatural Character
+ID_QU_S3_SPLASH_SOMETHINGWICKED,Win a Blitz battle with any 7-star Supernatural Character
 ID_QUEST_KNOCKOUT_GENERIC,Knock out any enemy with any character
 ID_QUEST_DAMAGE_GENERIC,Do damage with any character
 ID_QUEST_ABILITY_GENERIC,Use any ability with any character
@@ -1810,3 +1838,30 @@ ID_QU_LD_MYSTICALWEAVING,Spend Campaign Energy to complete a daily milestone tha
 ID_QU_SM_MYSTICALWEAVING,Spend Campaign Energy
 ID_QU_SC_MYSTICALWEAVING,Spend Campaign Energy
 ID_QU_S1_MYSTICALWEAVING,Spend 1 Campaign Energy
+ID_QU_NA_ROGUESGALLERY,Rogue's Gallery
+ID_QU_SD_ROGUESGALLERY,Earn Horseman Harvest Orb Fragments
+ID_QU_LM_ROGUESGALLERY,Score points toward this 7-day milestone by earning Horseman Harvest Orb Fragments to get:\n\n- Light Byte Cloth\n- Spliced Spider-Genes\n- Skill gear\n- Shards for Spider-Man (Miles) and America Chavez\n- T2 and T1 Iso Orb Fragments\n- Elite 5 Credits
+ID_QU_SM_ROGUESGALLERY,Earn Horseman Harvest Orb Fragments
+ID_QU_SC_ROGUESGALLERY,Earn Horseman Harvest Orb Fragments
+ID_QU_S1_ROGUESGALLERY,Earn 1 Horseman Harvest Orb Fragment
+ID_QU_NA_BLIGHTBARRAGE,Blight Barrage
+ID_QU_SD_BLIGHTBARRAGE,Blitz with Young Avengers
+ID_QU_LM_BLIGHTBARRAGE,Blitz to rack up points toward this 7-day milestone. You'll earn more points with Young Avenger characters equipped with Gear Tier 13+. Rewards include Horseman Harvest Orb Fragments and more!
+ID_QU_SM_BLIGHTBARRAGE,Win Blitz battles with Young Avengers
+ID_QU_SC_BLIGHTBARRAGE,Win Blitz battles with Young Avengers
+ID_QU_S1_BLIGHTBARRAGE,Blitz Win
+ID_QU_S2_BLIGHTBARRAGE,Blitz Win with Young Avengers
+ID_QU_S3_BLIGHTBARRAGE,Blitz Win with Young Avengers at Gear Tier 13+
+ID_QU_S4_BLIGHTBARRAGE,Blitz Win with Young Avengers at Gear Tier 15+
+ID_QU_S5_BLIGHTBARRAGE,Blitz Win with Young Avengers at Gear Tier 16+
+ID_QU_NA_FUTURESHOCK,Future Shock
+ID_QU_SD_FUTURESHOCK,Participate in October Events
+ID_QU_LM_FUTURESHOCK,Participate in various events throughout the month of October to earn milestone progress.
+ID_QU_S1_FUTURESHOCK,Collect 1 Spliced Spider-Genes
+ID_QU_S2_FUTURESHOCK,Collect 1 Light Byte Cloth
+ID_QU_S3_FUTURESHOCK,Collect 1 Organic Webbing
+ID_QU_S4_FUTURESHOCK,Collect 1 Death's Head Mask
+ID_QU_S5_FUTURESHOCK,Collect 1 Day of the Dead Costume
+ID_QU_SM_SPLASH_FUTURESHOCK,Use Featured Characters in Blitz to earn Orbs
+ID_QU_NA_OCTOBERALLIANCE2022,Coordinated Assault
+ID_QU_NA_GIFT_FUTURESHOCK,Future Shock Spider Booster
