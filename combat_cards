@@ -120,12 +120,12 @@ ID_GAMBIT_MOD_009_NAME,Royal Flush
 ID_GAMBIT_MOD_009_DESC,Enemies Generate <color=#86e619>{pass.on_gain_energy.abilityenergy.GainExtraEnergy.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Additional Ability Energy Each Time They Generate Ability Energy
 ID_GAMBIT_MOD_010_NAME,Up The Ante
 ID_GAMBIT_MOD_010_DESC,All Enemy Special And Ultimate Ablities Have A Reduced Energy Cost Of <color=#86e619>-1</color>
-ID_SCOURGE_CARD_074_NAME,Dark Resolve III
-ID_SCOURGE_CARD_074_DESC,"On Ally Death, Enemies Gain <color=#fff568>Offense Up</color>"
+ID_SCOURGE_CARD_074_NAME,Dark Resolve III <color=#9e0b0f>[FREE POINTS]</color>
+ID_SCOURGE_CARD_074_DESC,"On Ally Death, Enemies Gain <color=#fff568>Offense Up</color> [This Scourge does <color=#9e0b0f>not currently work</color>. Add this Scourge to earn additional free points]"
 ID_SCOURGE_CARD_080_NAME,Bleeder II
 ID_SCOURGE_CARD_080_DESC,"When A Player Character Takes Damage, They Gain <color=#fff568>Minor Bleed</color>"
-ID_SCOURGE_CARD_081_NAME,Pyrrhic Victory II
-ID_SCOURGE_CARD_081_DESC,"When A Player Character Blocks, Apply <color=#fff568>HealBlock</color> To Them"
+ID_SCOURGE_CARD_081_NAME,Pyrrhic Victory II <color=#9e0b0f>[FREE POINTS]</color>
+ID_SCOURGE_CARD_081_DESC,"When A Player Character Blocks, Apply <color=#fff568>Heal Block</color> To Them [This Scourge does <color=#9e0b0f>not currently work</color>. Add this Scourge to earn additional free points]"
 ID_SCOURGE_CARD_088_NAME,Vile Resurgence II
 ID_SCOURGE_CARD_088_DESC,"On Enemy Turn, They Gain <color=#fff568>Minor Offense Up</color>"
 ID_SCOURGE_CARD_092_NAME,Overcharged
