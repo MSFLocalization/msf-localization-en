@@ -12,7 +12,8 @@ ID_TOWERMODE_ON_COOLDOWN,ON COOLDOWN
 ID_TOWERMODE_FLOOR_HINT_DROP,You will drop to Floor {floorNum} if you lose this fight.
 ID_TOWERMODE_FLOOR_HINT_NO_DROP,You will stay on this floor if you lose this fight.
 ID_TOWERMODE_FLOOR_POPUP_TITLE,Tower Floors
-ID_TOWER_MODE_CARD,Avengers Tower
+ID_TOWER_MODE_CARD,[Practice] Avengers Tower
+ID_TOWER_MODE_CARD_V2,Avengers Tower
 ID_TOWER_MODE,Avengers Tower
 ID_TOWER_MODE_SHORT_DESC,Climb Avengers Tower to win rewards!
 ID_TOWER_MODE_LONG_DESC,Face off against a series of foes to earn Gold and milestone rewards by completing the first 60 floors of Avengers Tower. Then see how many bonus floors you can complete to earn gear and ability materials via the ranked leaderboards!

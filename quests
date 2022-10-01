@@ -348,28 +348,28 @@ ID_QU_LM_SPLASH_HAND,Earn points by using Hand characters in Blitz Battles. Earn
 ID_QU_SC_SPLASH_HAND,Use Hand Characters in Blitz
 ID_QU_S1_SPLASH_HAND,Win a Blitz battle with any 5-star or higher Hand Character
 ID_QU_S2_SPLASH_HAND,Win a Blitz battle with any 7-star Hand Character
-ID_QU_NA_SPLASH_GENETICMARVELS,Quick Rumble - Genetic Marvels
+ID_QU_NA_SPLASH_GENETICMARVELS,Genetic Marvels
 ID_QU_SD_SPLASH_GENETICMARVELS,Use Marauder in Blitz
 ID_QU_LM_SPLASH_GENETICMARVELS,Earn points by using Marauder characters in Blitz Battles. Earn more points if your Marauder characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
 ID_QU_SC_SPLASH_GENETICMARVELS,Use Marauder Characters in Blitz
 ID_QU_S1_SPLASH_GENETICMARVELS,Win a Blitz battle with any 3-star or higher Marauder Character
 ID_QU_S2_SPLASH_GENETICMARVELS,Win a Blitz battle with any 5-star or higher Marauder Character
 ID_QU_S3_SPLASH_GENETICMARVELS,Win a Blitz battle with any 7-star Marauder Character
-ID_QU_NA_SPLASH_SPIDERSPACE,Quick Rumble - Spider-Space
+ID_QU_NA_SPLASH_SPIDERSPACE,Spider-Space
 ID_QU_SD_SPLASH_SPIDERSPACE,Use Symbiotes in Blitz
 ID_QU_LM_SPLASH_SPIDERSPACE,Earn points by using Symbiotes characters in Blitz Battles. Earn more points if your Symbiotes characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
 ID_QU_SC_SPLASH_SPIDERSPACE,Use Symbiotes Characters in Blitz
 ID_QU_S1_SPLASH_SPIDERSPACE,Win a Blitz battle with any 3-star or higher Symbiotes Character
 ID_QU_S2_SPLASH_SPIDERSPACE,Win a Blitz battle with any 5-star or higher Symbiotes Character
 ID_QU_S3_SPLASH_SPIDERSPACE,Win a Blitz battle with any 7-star Symbiotes Character
-ID_QU_NA_SPLASH_WEBOFSHADOWS,Quick Rumble - Web of Shadows
+ID_QU_NA_SPLASH_WEBOFSHADOWS,Web of Shadows
 ID_QU_SD_SPLASH_WEBOFSHADOWS,Use Shadowland in Blitz
 ID_QU_LM_SPLASH_WEBOFSHADOWS,Earn points by using Shadowland characters in Blitz Battles. Earn more points if your Shadowland characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
 ID_QU_SC_SPLASH_WEBOFSHADOWS,Use Shadowland Characters in Blitz
 ID_QU_S1_SPLASH_WEBOFSHADOWS,Win a Blitz battle with any 3-star or higher Shadowland Character
 ID_QU_S2_SPLASH_WEBOFSHADOWS,Win a Blitz battle with any 5-star or higher Shadowland Character
 ID_QU_S3_SPLASH_WEBOFSHADOWS,Win a Blitz battle with any 7-star Shadowland Character
-ID_QU_NA_SPLASH_SOMETHINGWICKED,Quick Rumble - Something Wicked
+ID_QU_NA_SPLASH_SOMETHINGWICKED,Something Wicked
 ID_QU_SD_SPLASH_SOMETHINGWICKED,Use Supernatural in Blitz
 ID_QU_LM_SPLASH_SOMETHINGWICKED,Earn points by using Supernatural characters in Blitz Battles. Earn more points if your Supernatural characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
 ID_QU_SC_SPLASH_SOMETHINGWICKED,Use Supernatural Characters in Blitz
@@ -1813,7 +1813,7 @@ ID_QU_S2_RAIDOFFORTUNE,Spend 1 Power Core
 ID_QU_NA_GOLDENOPPORTUNITY,Golden Opportunity
 ID_QU_SD_GOLDENOPPORTUNITY,Spend Gold
 ID_QU_LD_GOLDENOPPORTUNITY,Spend GOLD to earn various milestone rewards.
-ID_QU_SM_GOLDENOPPORTUNITY,Earn points by spending GOLD
+ID_QU_SM_GOLDENOPPORTUNITY,"Get ranked rewards by earning 6,000,000+ points"
 ID_QU_SC_GOLDENOPPORTUNITY,Earn points by spending GOLD
 ID_QU_S1_GOLDENOPPORTUNITY,Spend 1 GOLD
 ID_QU_NA_ETHEREALARMS,Ethereal Arms
