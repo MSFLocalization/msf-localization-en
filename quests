@@ -348,28 +348,28 @@ ID_QU_LM_SPLASH_HAND,Earn points by using Hand characters in Blitz Battles. Earn
 ID_QU_SC_SPLASH_HAND,Use Hand Characters in Blitz
 ID_QU_S1_SPLASH_HAND,Win a Blitz battle with any 5-star or higher Hand Character
 ID_QU_S2_SPLASH_HAND,Win a Blitz battle with any 7-star Hand Character
-ID_QU_NA_SPLASH_GENETICMARVELS,Quick Rumble - Marauder
+ID_QU_NA_SPLASH_GENETICMARVELS,Quick Rumble - Genetic Marvels
 ID_QU_SD_SPLASH_GENETICMARVELS,Use Marauder in Blitz
 ID_QU_LM_SPLASH_GENETICMARVELS,Earn points by using Marauder characters in Blitz Battles. Earn more points if your Marauder characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
 ID_QU_SC_SPLASH_GENETICMARVELS,Use Marauder Characters in Blitz
 ID_QU_S1_SPLASH_GENETICMARVELS,Win a Blitz battle with any 3-star or higher Marauder Character
 ID_QU_S2_SPLASH_GENETICMARVELS,Win a Blitz battle with any 5-star or higher Marauder Character
 ID_QU_S3_SPLASH_GENETICMARVELS,Win a Blitz battle with any 7-star Marauder Character
-ID_QU_NA_SPLASH_SPIDERSPACE,Quick Rumble - Symbiotes
+ID_QU_NA_SPLASH_SPIDERSPACE,Quick Rumble - Spider-Space
 ID_QU_SD_SPLASH_SPIDERSPACE,Use Symbiotes in Blitz
 ID_QU_LM_SPLASH_SPIDERSPACE,Earn points by using Symbiotes characters in Blitz Battles. Earn more points if your Symbiotes characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
 ID_QU_SC_SPLASH_SPIDERSPACE,Use Symbiotes Characters in Blitz
 ID_QU_S1_SPLASH_SPIDERSPACE,Win a Blitz battle with any 3-star or higher Symbiotes Character
 ID_QU_S2_SPLASH_SPIDERSPACE,Win a Blitz battle with any 5-star or higher Symbiotes Character
 ID_QU_S3_SPLASH_SPIDERSPACE,Win a Blitz battle with any 7-star Symbiotes Character
-ID_QU_NA_SPLASH_WEBOFSHADOWS,Quick Rumble - Shadowland
+ID_QU_NA_SPLASH_WEBOFSHADOWS,Quick Rumble - Web of Shadows
 ID_QU_SD_SPLASH_WEBOFSHADOWS,Use Shadowland in Blitz
 ID_QU_LM_SPLASH_WEBOFSHADOWS,Earn points by using Shadowland characters in Blitz Battles. Earn more points if your Shadowland characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
 ID_QU_SC_SPLASH_WEBOFSHADOWS,Use Shadowland Characters in Blitz
 ID_QU_S1_SPLASH_WEBOFSHADOWS,Win a Blitz battle with any 3-star or higher Shadowland Character
 ID_QU_S2_SPLASH_WEBOFSHADOWS,Win a Blitz battle with any 5-star or higher Shadowland Character
 ID_QU_S3_SPLASH_WEBOFSHADOWS,Win a Blitz battle with any 7-star Shadowland Character
-ID_QU_NA_SPLASH_SOMETHINGWICKED,Quick Rumble - Supernatural
+ID_QU_NA_SPLASH_SOMETHINGWICKED,Quick Rumble - Something Wicked
 ID_QU_SD_SPLASH_SOMETHINGWICKED,Use Supernatural in Blitz
 ID_QU_LM_SPLASH_SOMETHINGWICKED,Earn points by using Supernatural characters in Blitz Battles. Earn more points if your Supernatural characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
 ID_QU_SC_SPLASH_SOMETHINGWICKED,Use Supernatural Characters in Blitz
@@ -1840,7 +1840,7 @@ ID_QU_SC_MYSTICALWEAVING,Spend Campaign Energy
 ID_QU_S1_MYSTICALWEAVING,Spend 1 Campaign Energy
 ID_QU_NA_ROGUESGALLERY,Rogue's Gallery
 ID_QU_SD_ROGUESGALLERY,Earn Horseman Harvest Orb Fragments
-ID_QU_LM_ROGUESGALLERY,Score points toward this 7-day milestone by earning Horseman Harvest Orb Fragments to get:\n\n- Light Byte Cloth\n- Spliced Spider-Genes\n- Skill gear\n- Shards for Spider-Man (Miles) and America Chavez\n- T2 and T1 Iso Orb Fragments\n- Elite 5 Credits
+ID_QU_LM_ROGUESGALLERY,Score points toward this 7-day milestone by earning Horseman Harvest Orb Fragments to get:\n\n- Light Byte Cloth\n- Spliced Spider-Genes\n- Skill gear\n- Shards for Spider-Man (Miles) and America Chavez\n- T2 and T1 Iso-8 Orb Fragments\n- Elite 5 Credits
 ID_QU_SM_ROGUESGALLERY,Earn Horseman Harvest Orb Fragments
 ID_QU_SC_ROGUESGALLERY,Earn Horseman Harvest Orb Fragments
 ID_QU_S1_ROGUESGALLERY,Earn 1 Horseman Harvest Orb Fragment
@@ -1865,3 +1865,13 @@ ID_QU_S5_FUTURESHOCK,Collect 1 Day of the Dead Costume
 ID_QU_SM_SPLASH_FUTURESHOCK,Use Featured Characters in Blitz to earn Orbs
 ID_QU_NA_OCTOBERALLIANCE2022,Coordinated Assault
 ID_QU_NA_GIFT_FUTURESHOCK,Future Shock Spider Booster
+ID_QU_NA_HELLICARRIERCLASH,Helicarrier Clash
+ID_QU_SD_HELLICARRIERCLASH,Battle in War and Blitz
+ID_QU_LM_HELLICARRIERCLASH,"Score points toward this 7-day milestone by battling in War, earning Alliance Credits, getting Blitz Credits, and opening Valhalla Orbs. Rewards include:\n\n- Training Modules\n- Teal Gear\n- Spliced Spider-Genes\n- Organic Webbing\n- And more!\n\nGood luck, Commander!"
+ID_QU_SM_HELLICARRIERCLASH,"Battle in War, Blitz, earn Alliance Credits, Open Valhalla Orbs"
+ID_QU_SC_HELLICARRIERCLASH,"Battle in War, Blitz, earn Alliance Credits, Open Valhalla Orbs"
+ID_QU_S1_HELLICARRIERCLASH,Earn Blitz Credits
+ID_QU_S2_HELLICARRIERCLASH,Battle in War
+ID_QU_S3_HELLICARRIERCLASH,Battle in War with A-Force or Gamma
+ID_QU_S4_HELLICARRIERCLASH,Earn Alliance Credits
+ID_QU_S5_HELLICARRIERCLASH,Open Valhalla Orbs
