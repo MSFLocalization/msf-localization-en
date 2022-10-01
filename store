@@ -134,6 +134,10 @@ ID_GACHA_CRATE_MILESTONE_202107_NAME,Milestone II Orb
 ID_GACHA_CRATE_MILESTONE_202107_DESCRIPTION,Earn up to 10 shards of select characters
 ID_GACHA_CRATE_MILESTONE_202107_TOKEN_NAME,Milestone II Orb Fragments
 ID_GACHA_CRATE_MILESTONE_202107_TOKEN_DESCRIPTION,Collect Milestone II Orb Fragments to earn a Milestone II Orb.
+ID_GACHA_CRATE_MILESTONE_2022_NAME,Milestone III Orb
+ID_GACHA_CRATE_MILESTONE_2022_DESCRIPTION,Earn up to 10 shards of select characters
+ID_GACHA_CRATE_MILESTONE_2022_TOKEN_NAME,Milestone III Orb Fragments
+ID_GACHA_CRATE_MILESTONE_2022_TOKEN_DESCRIPTION,Collect Milestone III Orb Fragments to earn a Milestone III Orb.
 ID_GACHA_CRATE_PREMIUM_NAME,Premium Orb
 ID_GACHA_CRATE_PREMIUM_DESCRIPTION,Guarantees at least 15 character shards
 ID_GACHA_CRATE_PREMIUM_TOKEN_NAME,Premium Orb Fragments
@@ -8151,7 +8155,7 @@ ID_GACHA_CRATE_LINESOFLIGHTNING_DESCRIPTION,Contains Infinity Watch and Top-Tier
 ID_GACHA_CRATE_LINESOFLIGHTNING_TOKEN_NAME,Lines of Lightning Orb Fragments
 ID_GACHA_CRATE_LINESOFLIGHTNING_TOKEN_DESCRIPTION,Collect Lines of Lightning Orb Fragments to earn Lines of Lightning Orbs
 ID_GACHA_CRATE_VALHALLA_NAME,Valhalla Orb
-ID_GACHA_CRATE_VALHALLA_DESCRIPTION,Contains select marquee character shards
+ID_GACHA_CRATE_VALHALLA_DESCRIPTION,Contains character shards and earns progress in Helicarrier Clash
 ID_GACHA_CRATE_VALHALLA_TOKEN_NAME,Valhalla Orb Fragments
 ID_GACHA_CRATE_VALHALLA_TOKEN_DESCRIPTION,Collect Valhalla Orb Fragments to earn Valhalla Orbs
 ID_GACHA_CRATE_HEAVY_ARMOR_NAME,Heavy Armor Orb
@@ -8172,3 +8176,7 @@ ID_GACHA_CRATE_HORSEMANHARVEST_TOKEN_NAME,Horseman Harvest Orb Fragments
 ID_GACHA_CRATE_HORSEMANHARVEST_TOKEN_DESCRIPTION,Collect Horseman Harvest Orb Fragments to earn Horseman Harvest Orbs and get progress in the Rogue's Gallery Event
 ID_OF_NA_DARKHUNTER_TEAM,Dark Hunter Team Offer
 ID_OF_DE_DARKHUNTER_TEAM,Unlock the Dark Hunters team and power up to unlock Morgan Le Fay!
+ID_GACHA_CRATE_OCTOBER_META_NAME,Spider-Splicer Orb
+ID_GACHA_CRATE_OCTOBER_META_DESCRIPTION,Get up to 100 Spider-Man 2099 Shards
+ID_GACHA_CRATE_OCTOBER_META_TOKEN_NAME,Spider-Splicer Orb Fragments
+ID_GACHA_CRATE_OCTOBER_META_TOKEN_DESCRIPTION,Collect Spider-Splicer Orb Fragments to earn a Spider-Splicer Orb.
