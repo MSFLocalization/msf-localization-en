@@ -1860,14 +1860,14 @@ ID_QU_LM_FUTURESHOCK,Participate in various events throughout the month of Octob
 ID_QU_S1_FUTURESHOCK,Collect 1 Spliced Spider-Genes
 ID_QU_S2_FUTURESHOCK,Collect 1 Light Byte Cloth
 ID_QU_S3_FUTURESHOCK,Collect 1 Organic Webbing
-ID_QU_S4_FUTURESHOCK,Collect 1 Death's Head Mask
-ID_QU_S5_FUTURESHOCK,Collect 1 Day of the Dead Costume
+ID_QU_S4_FUTURESHOCK,Collect 1 Futuristic Spider Mask
+ID_QU_S5_FUTURESHOCK,Collect 1 Unstable Molecule Suit
 ID_QU_SM_SPLASH_FUTURESHOCK,Use Featured Characters in Blitz to earn Orbs
 ID_QU_NA_OCTOBERALLIANCE2022,Coordinated Assault
 ID_QU_NA_GIFT_FUTURESHOCK,Future Shock Spider Booster
 ID_QU_NA_HELLICARRIERCLASH,Helicarrier Clash
 ID_QU_SD_HELLICARRIERCLASH,Battle in War and Blitz
-ID_QU_LM_HELLICARRIERCLASH,"Score points toward this 7-day milestone by battling in War, earning Alliance Credits, getting Blitz Credits, and opening Valhalla Orbs. Rewards include:\n\n- Training Modules\n- Teal Gear\n- Spliced Spider-Genes\n- Organic Webbing\n- And more!\n\nGood luck, Commander!"
+ID_QU_LM_HELLICARRIERCLASH,"Score points toward this 7-day milestone by battling in War, earning Alliance Credits, getting Blitz Credits, and opening Valhalla Orbs. Rewards include:\n\n- Training Modules\n- Teal Gear\n- Spliced Spider-Genes\n- Organic Webbing\n- And more!"
 ID_QU_SM_HELLICARRIERCLASH,"Battle in War, Blitz, earn Alliance Credits, Open Valhalla Orbs"
 ID_QU_SC_HELLICARRIERCLASH,"Battle in War, Blitz, earn Alliance Credits, Open Valhalla Orbs"
 ID_QU_S1_HELLICARRIERCLASH,Earn Blitz Credits
@@ -1875,3 +1875,39 @@ ID_QU_S2_HELLICARRIERCLASH,Battle in War
 ID_QU_S3_HELLICARRIERCLASH,Battle in War with A-Force or Gamma
 ID_QU_S4_HELLICARRIERCLASH,Earn Alliance Credits
 ID_QU_S5_HELLICARRIERCLASH,Open Valhalla Orbs
+ID_QU_NA_FORTUNEFAVORS,Fortune Favors
+ID_QU_SD_FORTUNEFAVORS,Spend Power Cores for valuable rewards!
+ID_QU_LM_FORTUNEFAVORS,48-Hours Only! Power Cores burning a hole in your pocket? Let loose and get a bonus Elite 6 Orb and more!
+ID_QU_SM_FORTUNEFAVORS,Spend 1 Power Core
+ID_QU_SC_FORTUNEFAVORS,Spend 1 Power Core
+ID_QU_S1_FORTUNEFAVORS,Spend 1 Power Core
+ID_QU_NA_NIGHTOFTHESPIDER,Night of the Spider
+ID_QU_SM_NIGHTOFTHESPIDER,"Spend Energy, Collect Evidence, Battle in War"
+ID_QU_SC_NIGHTOFTHESPIDER,"Spend Energy, Collect Evidence, Battle in War"
+ID_QU_S1_NIGHTOFTHESPIDER,Spend 1 Campaign Energy
+ID_QU_S2_NIGHTOFTHESPIDER,Win 1 War Battle
+ID_QU_S3_NIGHTOFTHESPIDER,Collect 1 Evidence
+ID_QU_NA_SPIDERSSHADOW,Spider's Shadow
+ID_QU_SD_SPIDERSSHADOW,Win Cosmic Crucible battles
+ID_QU_LD_SPIDERSSHADOW,"Earn points by winning Cosmic Crucible battles and using Unlimited X-Men in Cosmic Crucible.\n\nRewards include Night of the Spider milestone points, Crucible Credits, Elite 4 Credits, Teal Raid Orb Fragments and more!"
+ID_QU_SM_SPIDERSSHADOW,Win in Cosmic Crucible and use Unlimited X-Men
+ID_QU_SC_SPIDERSSHADOW,Win in Cosmic Crucible and use Unlimited X-Men
+ID_QU_S1_SPIDERSSHADOW,Win a Cosmic Crucible battle
+ID_QU_S2_SPIDERSSHADOW,Battle in Cosmic Crucible with Unlimited X-Men
+ID_QU_S3_SPIDERSSHADOW,Battle in Cosmic Crucible with Unlimited X-Men at 5-6 Stars
+ID_QU_S4_SPIDERSSHADOW,Battle in Cosmic Crucible with Unlimited X-Men at 7 Stars
+ID_QU_NA_HARDBOILED,Hardboiled
+ID_QU_SD_HARDBOILED,Blitz with Unlimited X-Men
+ID_QU_LD_HARDBOILED,"Earn points by winning Blitz battles. Bonus points when using Unlimited X-Men, and even more if they are at 5 Stars or above.\n\nRewards include Night of the Spider milestone Points, Elite 4 Credits, Teal Raid Orb Fragments and more!"
+ID_QU_SM_HARDBOILED,Win Blitz with Unlimited X-Men
+ID_QU_SC_HARDBOILED,Win Blitz with Unlimited X-Men
+ID_QU_S1_HARDBOILED,Blitz Win
+ID_QU_S2_HARDBOILED,Blitz Win with Unlimited X-Men
+ID_QU_S3_HARDBOILED,Blitz Win with Unlimited X-Men at 5-6 Stars
+ID_QU_S4_HARDBOILED,Blitz Win with Unlimited X-Men at 7 Stars
+ID_QU_NA_TRAILOFWEBS,Trail of Webs
+ID_QU_SD_TRAILOFWEBS,Battle in Raids
+ID_QU_LD_TRAILOFWEBS,"Battle in Raids to complete a daily milestone that rewards Night of the Spider milestone points, Legacy III Orb Fragments and Training Orb Fragments!"
+ID_QU_SM_TRAILOFWEBS,Battle in Raids
+ID_QU_SC_TRAILOFWEBS,Battle in Raids
+ID_QU_S1_TRAILOFWEBS,Raid Battle

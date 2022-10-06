@@ -69,7 +69,7 @@ ID_GT_ROOM4_RULES_DESC,"On End of Turn, <color=#fff568>GLOBAL HEROES</color> gai
 ID_GT_ROOM5_RULES_NAME,Biological Temperament
 ID_GT_ROOM5_RULES_DESC,"On Turn, <color=#fff568>BIO</color> characters apply <color=#fff568>Offense Down</color> to a random enemy without <color=#fff568>Offense Down</color>."
 ID_GT_ROOM6_RULES_NAME,Tales of Legends
-ID_GT_ROOM6_RULES_DESC,"On Spawn, <color=#fff568>LEGENDARY</color> characters gain <color=#86e619>3</color> turns of <color=#fff568>Defense Up</color> and <color=#fff568>Safeguard</color>.\nOn Turn, <color=#fff568>LEGENDARY</color> characters clear all negative effects from themselves and gain <color=#fff568>Speed Up</color>."
+ID_GT_ROOM6_RULES_DESC,"On Spawn, <color=#fff568>LEGENDARY</color> characters gain <color=#86e619>3</color> turns of <color=#fff568>Defense Up</color> and <color=#fff568>Safeguard</color>.\nOn Turn, <color=#fff568>LEGENDARY</color> characters clear all negative effects from themselves and gain <color=#fff568>Speed Up</color>.\n<color=#fff568>LEGENDARY</color> characters gain +<color=#86e619>50%</color> Damage."
 ID_GT_ATTACK_MAX_TITLE,ATTACK MAXIMUM REACHED
 ID_GT_ATTACK_MAX_DESC,You have reached the maximum number of attacks for the current trial
 ID_GT_SET_DEFENSES_NEXT_TRIAL,SET YOUR DEFENSES FOR THE NEXT TRIAL. DEFENDING CHARACTERS CANNOT BE USED TO ATTACK.

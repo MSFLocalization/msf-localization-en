@@ -395,19 +395,19 @@ ID_OF_DE_MRNEGATIVE_OFFER_VAR_SHARD,"Get <color=#fff568>{var1} Mr. Negative</col
 ID_OF_NA_567_RED_STAR_DRAFT_SPIDERPUNK,5-7 Red Star Draft: Spider-Punk
 ID_OF_DE_567_RED_STAR_DRAFT_SPIDERPUNK,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Spider-Punk</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_GENERIC,5-7 Red Star Draft
-ID_OF_DE_567_RED_STAR_DRAFT_GENERIC,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>character</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_GENERIC,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for this <color=#fff568>character</color>."
 ID_OF_NA_HELICARRIERCLASH_STARTER,Helicarrier Clash Starter Bundle
 ID_OF_DE_HELICARRIERCLASH_STARTER_VAR,Save <color=#fff568>over {var1}%</color> on <color=#fff568>{var2} Valhalla Orbs</color> and more which will gain you {var3} points in the <color=#fff568>Helicarrier Clash Milestone</color>. Starter offers are the best deal for points!
 ID_OF_NA_HELICARRIERCLASH_STARTER_SUPER,Helicarrier Clash Super Starter
 ID_OF_NA_HELICARRIERCLASH_STARTER_MEGA,Helicarrier Clash Mega Starter
 ID_OF_NA_HELICARRIERCLASH_BOOSTER,Helicarrier Clash Booster Pack
-ID_OF_NA_HELICARRIERCLASH_BOOSTER_VAR,Save <color=#fff568>over {var1}%</color> on <color=#fff568>Valhalla Orbs</color> to power up your roster and progress in the <color=#fff568>Helicarrier Clash Milestone</color>!
+ID_OF_NA_HELICARRIERCLASH_BOOSTER_VAR,Save on <color=#fff568>Alliance Credits</color> and earn <color=#fff568>{var1}</color> points toward the <color=#fff568>Helicarrier Clash Milestone</color>!
 ID_OF_NA_HELICARRIERCLASH_DAILY_ORB,Daily Orb Pack
 ID_OF_DE_HELICARRIERCLASH_DAILY_ORB,Get your daily dose of a <color=#fff568>Valhalla Orb</color> to power up your roster and boost your <color=#fff568>Helicarrier Clash Milestone</color> progress!
-ID_OF_NA_HELICARRIERCLASH_DAILY_ORBS,Daily Orb Pack
-ID_OF_DE_HELICARRIERCLASH_DAILY_ORBS,Get your daily dose of a <color=#fff568>Valhalla Orb</color> to power up your roster and boost your <color=#fff568>Helicarrier Clash Milestone</color> progress!
+ID_OF_NA_HELICARRIERCLASH_DAILY_ORBS,Daily Orbs Pack
+ID_OF_DE_HELICARRIERCLASH_DAILY_ORBS,Get your daily dose of <color=#fff568>Valhalla Orbs</color> to power up your roster and boost your <color=#fff568>Helicarrier Clash Milestone</color> progress!
 ID_OF_NA_HELICARRIERCLASH_DAILY_BLITZ,Helicarrier Clash Blitz Booster
-ID_OF_DE_HELICARRIERCLASH_DAILY_BLITZ,"Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Blitz Charges</color> and <color=#fff568>{var2} Blitz Credits</color>, earning you {var3} points in the <color=#fff568>Helicarrier Clash Milestone</color>."
+ID_OF_DE_HELICARRIERCLASH_DAILY_BLITZ,"Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Blitz Charges</color> and <color=#fff568>{var2} Blitz Credits</color>, boosting your progress in the <color=#fff568>Helicarrier Clash Milestone</color>."
 ID_OF_NA_HELICARRIERCLASH_CATCHUP_DUAL,Helicarrier Clash Super Catch-Up
 ID_OF_DE_HELICARRIERCLASH_CATCHUP_DUAL,Take advantage of one of these limited deals to get through the end of the <color=#fff568>Helicarrier Clash Milestone</color> and help reach your final rewards!
 ID_OF_NA_HELICARRIERCLASH_LASTCHANCE_SMALL,Helicarrier Clash Last Chance Bundle
@@ -416,3 +416,5 @@ ID_OF_NA_HELICARRIERCLASH_LASTCHANCE_MED,Helicarrier Clash Last Chance Bundle
 ID_OF_DE_HELICARRIERCLASH_LASTCHANCE_MED,"Need a little boost to finish your <color=#fff568>Helicarrier Clash Milestone</color> or some of the amazing rewards from the <color=#fff568>Valhalla Orb</color>? Don't miss out on this offer! "
 ID_OF_NA_HELICARRIERCLASH_WEB_CLAIM,Helicarrier Clash Daily Free Claim
 ID_OF_DE_HELICARRIERCLASH_WEB_CLAIM,Don't forget to stop by the Web Store every day of the Helicarrier Clash Milestone for a free Valhalla Orb. Each Orb opened means more progress!
+ID_OF_NA_FORTUNEFAVORS,Fortune Favors Bundle
+ID_OF_DE_FORTUNEFAVORS,Blast through the Fortune Favors Event and earn the <color=#fff568>Elite 6 Credits</color> by crushing the final milestone!
