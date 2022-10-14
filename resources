@@ -189,10 +189,10 @@ ID_EVENT_CUR13_NAME,Horseman Harvest Orb Fragments
 ID_EVENT_CUR13_DESCRIPTION,Collect Horseman Harvest Orb Fragments to earn progress in the Rogue's Gallery Event!
 ID_EVENT_CUR14_NAME,Day of the Dead Costume
 ID_EVENT_CUR14_DESCRIPTION,Collect the Day of the Dead Costume for points in the Future Shock Event.
-ID_EVENT_CUR15_NAME,Valhalla Orb Fragments
-ID_EVENT_CUR15_DESCRIPTION,Collect Valhalla Orb Fragments to earn Valhalla Orbs!
-ID_EVENT_CUR16_NAME,Heavy Armor Orb Fragments
-ID_EVENT_CUR16_DESCRIPTION,Collect Heavy Armor Orb Fragments to earn progress in the Monster VS Machine Event!
+ID_EVENT_CUR15_NAME,Night of the Spider Milestone Points
+ID_EVENT_CUR15_DESCRIPTION,"These points earn you additional progress in the Night of the Spider Milestone. Earn them in the Spider's Shadow, Hardboiled and Trail of Webs Milestones!"
+ID_EVENT_CUR16_NAME,Night of the Spider Evidence
+ID_EVENT_CUR16_DESCRIPTION,Collect Evidence to earn additional progress in the Night of the Spider Milestone. Check your Inbox each day for a Clue hinting at the location of that day's Evidence!
 ID_EVENT_CUR17_NAME,Ethereal Arms Milestone Point
 ID_EVENT_CUR17_DESCRIPTION,These points earn you additional progress in the Ethereal Arms Milestone. Earn them in the Destined Connections Milestone or limited offers!
 ID_EVENT_CUR18_NAME,PhD

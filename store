@@ -6550,20 +6550,20 @@ ID_OF_DE_PICK_DUAL_DRAFT,"Save <color=#fff568>over {var1}%</color> with this spe
 ID_OF_NA_345_RSDRAFT_TEAM_HAND_01,Red Star: Hand Minion Team
 ID_OF_DE_345_RSDRAFT_TEAM_HAND_01_VAR,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> promotion for each of the following characters:\n<color=#fff568>Hand Sorceress, Hand Archer, Hand Assassin, Hand Blademaster, and Hand Sentry</color>"
 ID_OF_NA_LONGSHOT_FCO,Probability Master Offer
-ID_OF_DE_LONGSHOT_FCO_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star LongShot</color> with this offer! Each orb has a chance to earn up to 180 shards. Unlock The X-Factor Blaster with a high chance to Crit, Heals and increases Speed Bar with Crit chance, and synergizes with Shatterstar."
-ID_OF_DE_LONGSHOT_FCO_OFFER_VAR_O,"Save on <color=#fff568>{var1} Probability Master Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 LongShot shards</color>. Unlock The X-Factor Blaster with a high chance to Crit, Heals and increases Speed Bar with Crit chance, and synergizes with Shatterstar."
-ID_OF_DE_LONGSHOT_SINGLE_FCO_OFFER_VAR_O,"Save on <color=#fff568>{var1} Probability Master Orb</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 LongShot shards</color>. Unlock The X-Factor Blaster with a high chance to Crit, Heals and increases Speed Bar with Crit chance, and synergizes with Shatterstar."
-ID_OF_NA_LONGSHOT_ABILITY_OFFER_1,LongShot: Ability
-ID_OF_DE_LONGSHOT_ABILITY_OFFER_50,Get this amazing bundle and power up LongShot. Get over <color=#fff568>50%</color> off when you buy now!
-ID_OF_NA_LONGSHOT_GEAR_OFFER_1,LongShot: Gear
-ID_OF_DE_LONGSHOT_GEAR_OFFER_50,Get this amazing bundle and gear up LongShot. Get over <color=#fff568>50%</color> off when you buy now!
-ID_OF_NA_LONGSHOT_GOLD_OFFER_1,LongShot: Gold
-ID_OF_DE_LONGSHOT_GOLD_OFFER_50,Get this amazing bundle and level up LongShot. Get over <color=#fff568>50%</color> off when you buy now!
-ID_OF_NA_LONGSHOT_TRAINING_OFFER_1,LongShot: Training
-ID_OF_DE_LONGSHOT_TRAINING_OFFER_40,Get this amazing bundle and level up LongShot. Get over <color=#fff568>40%</color> off when you buy now!
+ID_OF_DE_LONGSHOT_FCO_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Longshot</color> with this offer! Each orb has a chance to earn up to 180 shards. Unlock The X-Factor Blaster with a high chance to Crit, Heals and increases Speed Bar with Crit chance, and synergizes with Shatterstar."
+ID_OF_DE_LONGSHOT_FCO_OFFER_VAR_O,"Save on <color=#fff568>{var1} Probability Master Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Longshot shards</color>. Unlock The X-Factor Blaster with a high chance to Crit, Heals and increases Speed Bar with Crit chance, and synergizes with Shatterstar."
+ID_OF_DE_LONGSHOT_SINGLE_FCO_OFFER_VAR_O,"Save on <color=#fff568>{var1} Probability Master Orb</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Longshot shards</color>. Unlock The X-Factor Blaster with a high chance to Crit, Heals and increases Speed Bar with Crit chance, and synergizes with Shatterstar."
+ID_OF_NA_LONGSHOT_ABILITY_OFFER_1,Longshot: Ability
+ID_OF_DE_LONGSHOT_ABILITY_OFFER_50,Get this amazing bundle and power up Longshot. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_LONGSHOT_GEAR_OFFER_1,Longshot: Gear
+ID_OF_DE_LONGSHOT_GEAR_OFFER_50,Get this amazing bundle and gear up Longshot. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_LONGSHOT_GOLD_OFFER_1,Longshot: Gold
+ID_OF_DE_LONGSHOT_GOLD_OFFER_50,Get this amazing bundle and level up Longshot. Get over <color=#fff568>50%</color> off when you buy now!
+ID_OF_NA_LONGSHOT_TRAINING_OFFER_1,Longshot: Training
+ID_OF_DE_LONGSHOT_TRAINING_OFFER_40,Get this amazing bundle and level up Longshot. Get over <color=#fff568>40%</color> off when you buy now!
 ID_OF_NA_LONGSHOT_OFFER_1,Odds Breaker Offer
-ID_OF_DE_LONGSHOT_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star LongShot</color> with this offer! Unlock The X-Factor Blaster with a high chance to Crit, Heals and increases Speed Bar with Crit chance, and synergizes with Shatterstar."
-ID_OF_DE_LONGSHOT_OFFER_VAR,"Get <color=#fff568>{var1} LongShot shards</color> and unlock The X-Factor Blaster with a high chance to Crit, Heals and increases Speed Bar with Crit chance, and synergizes with Shatterstar."
+ID_OF_DE_LONGSHOT_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star Longshot</color> with this offer! Unlock The X-Factor Blaster with a high chance to Crit, Heals and increases Speed Bar with Crit chance, and synergizes with Shatterstar."
+ID_OF_DE_LONGSHOT_OFFER_VAR,"Get <color=#fff568>{var1} Longshot shards</color> for The X-Factor Blaster with a high chance to Crit, Heals and increases Speed Bar with Crit chance, and synergizes with Shatterstar."
 ID_OF_DE_4_STAR_MEGA,Save over <color=#fff568>90%</color> and get a <color=#fff568>{var1}-star ({var2} shards) character and 1 Mega Orb with this amazing offer</color>!
 ID_OF_NA_SHATTERSTAR_ECO_BUNDLE_1,Show Business Orb Bundle
 ID_OF_DE_SHATTERSTAR_ECO_BUNDLE_VAR_O,Save on <color=#fff568>{var1} Show Businness Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 28 character shards</color>!

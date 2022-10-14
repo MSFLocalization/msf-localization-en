@@ -186,6 +186,7 @@ ID_OF_DE_COSTUME_JUBILEE,Take advantage of this spectacular offer and acquire Ju
 ID_OF_NA_COSTUME_VENOM,Ancient Pharaoh Costume Offer
 ID_OF_DE_COSTUME_VENOM,Take advantage of this spectacular offer and acquire Venom's <color=#fff568>Ancient Pharaoh</color> costume!
 ID_OF_DE_COSTUME_SHANGCHI_VAR,Save over <color=#fff568>{var1}% off</color> on this spectacular offer and acquire Shang-Chi's <color=#fff568>Battle Armor</color> costume! Take on Alliance War with this Heroes For Hire Brawler!
+ID_OF_NA_COSTUME_EMMAFROST,Dawn of X Costume Offer
 ID_OF_DE_COSTUME_EMMAFROST_VAR,Save over <color=#fff568>{var1}% off</color> on this spectacular offer and acquire Emma Frost's <color=#fff568>Dawn of X</color> costume! Take on Alliance War with this Diamond in the Rough Controller!
 ID_OF_NA_PEST_WEB_BUNDLE,Pestilence Orb Bundle
 ID_OF_DE_PEST_BUNDLES,"Get Morgan Le Fay to the next Star Level with this bundle! Get {var1}% off when you purchase these {var2} Pestilence Orbs! Each Orb has a chance to grant 100 shards of the Horsemen of Pestilence herself, Morgan Le Fay!"
@@ -426,7 +427,7 @@ ID_OF_DE_NIGHTOFTHESPIDER_STARTER_VAR2,"Get cracking with <color=#fff568>{var2} 
 ID_OF_NA_NIGHTOFTHESPIDER_POINTS,On The Trail Booster Pack
 ID_OF_DE_NIGHTOFTHESPIDER_POINTS,Fast track your progress in the <color=#fff568>Night of the Spider Milestone</color> with this amazing deal!
 ID_OF_NA_NIGHTOFTHESPIDER_MEGA,Night of the Spider Web-Exclusive Bundle
-ID_OF_DE_NIGHTOFTHESPIDER_MEGA,Boost your <color=#fff568>Night of the Spider Milestone</color> progress and earn more <color=#fff568>Spiderman (Noir)</color> shards with this spectacular deal!
+ID_OF_DE_NIGHTOFTHESPIDER_MEGA,Boost your <color=#fff568>Night of the Spider Milestone</color> progress and earn more <color=#fff568>Spider-Man (Noir)</color> shards with this spectacular deal!
 ID_OF_NA_NIGHTOFTHESPIDER_CATCHUP_1,Case of the Catch-Up Bundle
 ID_OF_DE_NIGHTOFTHESPIDER_CATCHUP_1,Take advantage of this spectacular deal to get through the end of the <color=#fff568>Night of the Spider Milestone</color> and get your final rewards!
 ID_OF_NA_NIGHTOFTHESPIDER_CATCHUP_2,Case of the Super Catch-Up Bundle
@@ -456,3 +457,4 @@ ID_OF_DE_NIGHTOFTHESPIDER_DIRECT_DAILYBOOSTER,Get ahead in the <color=#fff568>Ni
 ID_OF_NA_NIGHTOFTHESPIDER_CLUE,"Night of the Spider Evidence "
 ID_OF_DE_NIGHTOFTHESPIDER_CLUE,"Good work, detective. Continue collecting Evidence to crack the case!"
 ID_OF_NA_UNDERWORLD_TEAM_BUNDLE,Underworld Bundle
+ID_OF_NA_567_RED_STAR_DRAFT_SYMBIOTESPIDERMAN,5-7 Red Star Draft: Spider-Man (Symbiote)
