@@ -1912,4 +1912,18 @@ ID_QU_SM_TRAILOFWEBS,Battle in Raids
 ID_QU_SC_TRAILOFWEBS,Battle in Raids
 ID_QU_S1_TRAILOFWEBS,Raid Battle
 ID_QU_SD_NIGHTOFTHESPIDER,"Campaign Energy, War, Collect Evidence"
-ID_QU_LD_NIGHTOFTHESPIDER,"Spend Campaign Energy, Battle in War and Collect Evidence to get:\n\n- Spiderman (Noir) sharrds\n- Futuristic Spider Mask\n- Spliced Spider Genes\n- Teal and Orange Mystic Gear\n- Elite 4 and 5 Credits\n- And more!"
+ID_QU_LD_NIGHTOFTHESPIDER,"Spend Campaign Energy, Battle in War and Collect Evidence to get:\n\n- Spider-Man (Noir) shards\n- Futuristic Spider Mask\n- Spliced Spider-Genes\n- Teal and Orange Mystic Gear\n- Elite 4 and 5 Credits\n- And more!"
+ID_QU_NA_CRACKTHECASE,Crack the Case
+ID_QU_SD_CRACKTHECASE,The final piece of Evidence is near!
+ID_QU_LD_CRACKTHECASE,Spend Campaign Energy to obtain the final piece of Evidence!
+ID_QU_SM_CRACKTHECASE,Spend Campaign Energy
+ID_QU_SC_CRACKTHECASE,Spend Campaign Energy
+ID_QU_S1_CRACKTHECASE,Spend 1 Campaign Energy
+ID_QU_NA_MIDNIGHTHAUNT,Midnight Haunt
+ID_QU_SD_MIDNIGHTHAUNT,Win in Blitz
+ID_QU_LD_MIDNIGHTHAUNT,"Score points toward this 6-day milestone and leaderboard by winning in Blitz and by spending Power Cores. Rewards include:\n\n- Unstable Molecule Suit\n- Your choice of costumes for Elsa Bloodstone or Carnage\n- Elite Credits\n- Teal, Orange, and Purple Bio gear for Iron Man (Zombie)\n- Training Modules\n- T2 Ions\n- Character shards for Hela\n- And more!"
+ID_QU_SM_MIDNIGHTHAUNT,Leaderboard Minimum Score: 100000
+ID_QU_SC_MIDNIGHTHAUNT,"Win in Blitz, Spend Power Cores"
+ID_QU_S1_MIDNIGHTHAUNT,Win in Blitz
+ID_QU_S2_MIDNIGHTHAUNT,Win in Blitz with Dark Hunter or Symbiote
+ID_QU_S3_MIDNIGHTHAUNT,Spend 1 Power Core
