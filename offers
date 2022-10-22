@@ -480,6 +480,24 @@ ID_OF_NA_7RS_GAMBIT,7-Red Star: Gambit
 ID_OF_DE_7RS_GAMBIT,7-Red Star Gambit guaranteed! 70% discount on this X-tremely rare offer! Dominate the Famine Saga by injecting instant power into your Ultimate X-Men team!
 ID_OF_NA_7RS_SUNFIRE,7-Red Star: Sunfire
 ID_OF_DE_7RS_SUNFIRE,7-Red Star Gambit guaranteed! 70% discount on this X-tremely rare offer! Dominate the Famine Saga by injecting instant power into your Ultimate X-Men team!
+ID_OF_NA_HALLOWEEN2022_DEATH_DEFEATER,SPOOKY SPECIAL: DEATH DEFEATER
+ID_OF_NA_HALLOWEEN2022_DARK_PROMOTION,SPOOKY SPECIAL: DARK PROMOTION
+ID_OF_NA_HALLOWEEN2022_HEARTLESS_HARBINGER,SPOOKY SPECIAL: HEARTLESS HARBINGER
+ID_OF_NA_567_RED_STAR_DRAFT_GHOSTRIDER,5-7 Red Star Draft: Ghost Rider
+ID_OF_NA_567_RED_STAR_DRAFT_ELSABLOODSTONE,5-7 Red Star Draft: Elsa Bloodstone
+ID_OF_NA_HALLOWEEN2022_TREACHEROUSTRAINING,SPOOKY SPECIAL: TRICKY TRAINING
+ID_OF_NA_HALLOWEEN2022_GREEDY_FOR_GOLD,SPOOKY SPECIAL: GREEDY FOR GOLD
+ID_OF_NA_HALLOWEEN2022_DARK_HUNTERS,SPOOKY SPECIAL: DARK HUNTERS
+ID_OF_NA_567_RED_STAR_DRAFT_ZOMBIEIRONMAN,5-7 Red Star Draft: Iron Man (Zombie)
+ID_OF_DE_HALLOWEEN2022_DEATH_DEFEATER,Defy death and lock in this <color=#fff500>90% OFF</color> offer! Don't miss your chance to buy this exclusive offer!
+ID_OF_DE_HALLOWEEN2022_DARK_PROMOTION,BOO! Don't be spooked by this scaringly good <color=#fff500>{var1}% OFF</color> deal! Buy now and promote your favorite Horseman characters before this deal ghosts!
+ID_OF_DE_HALLOWEEN2022_HEARTLESS_HARBINGER,We found you a deal in a Heartless Place! 50 Strange (Heartless) Shards for <color=#fff500>90% OFF</color>! Get these shards before this deal breaks your heart!
+ID_OF_DE_567_RED_STAR_DRAFT_GHOSTRIDER,"Get an equal chance of either a <color=#fff500>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff500>Ghost Rider</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_ELSABLOODSTONE,"Get an equal chance of either a <color=#fff500>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff500>Elsa Bloodstone</color>."
+ID_OF_DE_HALLOWEEN2022_TREACHEROUSTRAINING,<color=#fff500>OVER 2X VALUE!</color> Take the treacherous path and sink your teeth into 200 L4 <color=#fff500>TRAINING MODULES!</color>
+ID_OF_DE_HALLOWEEN2022_GREEDY_FOR_GOLD,<color=#fff500>ATTN: GREEDY GHOULS</color> - Secure yourself <color=#fff500>2M Gold</color> before this SpOoOkY savings flies away!
+ID_OF_DE_HALLOWEEN2022_DARK_HUNTERS,"Power up your <color=#fff500>WAR OFFENSE</color> with character shards for the <color=#fff500>DARK HUNTER</color> Team! "
+ID_OF_DE_567_RED_STAR_DRAFT_ZOMBIEIRONMAN,"Get an equal chance of either a <color=#fff500>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff500>Iron Man (Zombie)</color>."
 ID_OF_NA_ELITE_6_FLASH,ELITE 6 FLASH!!
 ID_OF_DE_ELITE_6_FLASH,Test your luck with <color=#ff0000>{var1}</color> Elite 6 Orbs - Guaranteed at least 6 or 7-Red Star Promotion with every Elite 6 Orb!
 ID_OF_NA_WAR_EARLYBIRD,War Orb Intro Bundle
@@ -490,3 +508,6 @@ ID_OF_NA_WAR_HCPAK,Daily War Orb
 ID_OF_DE_WAR_DAILY,"Get your daily dose of War...Orb and save <color=#fff568>{var1}%</color> with this offer. Each Orb has a chance to grant <color=#fff568>100 shards</color> of the Horsemen of War himself, <color=#fff568>Red Hulk!</color>"
 ID_OF_DE_WAR_BUNDLES,"Get Red Hulk to the next Star Level with this bundle! Get <color=#fff568>{var1}%</color> off when you purchase these <color=#fff568>{var2}</color> War Orbs! Each Orb has a chance to grant <color=#fff568>100 shards</color> of the Horsemen of War himself, <color=#fff568>Red Hulk!</color>"
 ID_OF_DE_WAR_HCPAK,"Get your daily dose of War...Orb with this offer. Each Orb has a chance to grant <color=#fff568>100 shards</color> of the Horsemen of War himself, <color=#fff568>Red Hulk</color>!"
+ID_OF_DE_MIDNIGHTHAUNT_BLITZ,Boost your Blitzing to power through <color=#fff568>Midnight Haunt Milestones</color> to earn more Midnight Haunt progress with over <color=#fff568>50%</color> off!
+ID_OF_NA_FREECLAIMFRIDAYWEB,Free Claim Friday Gift
+ID_OF_DE_FREECLAIMFRIDAYWEB,Come back every Friday for special Free Claim! Remember to visit the web each day for the daily Free Claim!
