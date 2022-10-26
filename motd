@@ -20,7 +20,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 12PM (PDT) (10/26).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PDT) (04/25).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -414,6 +414,8 @@ ID_MOTD_NA_BISHOP,Marked Man: Now Live!
 ID_MOTD_DE_BISHOP,Battle for a chance to win Bishop shards
 ID_MOTD_NA_BLACKPANTHER,Warrior King: Now Live!
 ID_MOTD_DE_BLACKPANTHER,Battle for a chance to win BLACK PANTHER shards
+ID_MOTD_NA_BLACKPANTHERBC,Panther God: Now Live!
+ID_MOTD_DE_BLACKPANTHERBC,Battle for a chance to win Black Panther (1MM) shards
 ID_MOTD_NA_BLACKWIDOW,Widow's Bite: Now Live!
 ID_MOTD_DE_BLACKWIDOW,Battle for a chance to win BLACK WIDOW shards
 ID_MOTD_DE_BLACKWIDOW_GOLD,Chance for 1M Gold per Blitz battle!
@@ -457,6 +459,8 @@ ID_MOTD_NA_DAGGER,Light of Hope: Now Live!
 ID_MOTD_DE_DAGGER,Battle for a chance to win Dagger shards
 ID_MOTD_NA_DAREDEVIL,Man Without Fear: Now Live!
 ID_MOTD_DE_DAREDEVIL,Battle for a chance to win DAREDEVIL shards
+ID_MOTD_NA_DARKBEAST,Dark Doctor: Now Live!
+ID_MOTD_DE_DARKBEAST,Battle for a chance to win Dark Beast shards
 ID_MOTD_NA_DAZZLER,Razzle Dazzle: Now Live!
 ID_MOTD_DE_DAZZLER,Battle for a chance to win Dazzler shards
 ID_MOTD_NA_DEADPOOL,Merc with a Mouth: Now Live!
@@ -599,6 +603,8 @@ ID_MOTD_NA_MYSTERIO,Illusion Master: Now Live!
 ID_MOTD_DE_MYSTERIO,Battle for a chance to win Mysterio shards
 ID_MOTD_NA_MYSTIQUE,Shapeshifter: Now Live!
 ID_MOTD_DE_MYSTIQUE,Battle for a chance to win Mystique shards
+ID_MOTD_NA_NAKIA,Adorned Spy: Now Live!
+ID_MOTD_DE_NAKIA,Battle for a chance to win Nakia shards
 ID_MOTD_NA_NAMOR,Atlantean Prince: Now Live!
 ID_MOTD_DE_NAMOR,Battle for a chance to win Namor shards
 ID_MOTD_NA_NEBULA,Sadistic Sister: Now Live!
@@ -755,6 +761,8 @@ ID_MOTD_NA_YONDU,Centaurian Hunter: Now Live!
 ID_MOTD_DE_YONDU,Battle for a chance to win YONDU shards
 ID_MOTD_NA_YOYO,Slingshot: Now Live!
 ID_MOTD_DE_YOYO,Battle for a chance to win Yo-Yo shards
+ID_MOTD_NA_ZOMBIEIRONMAN,Undead Genius: Now Live!
+ID_MOTD_DE_ZOMBIEIRONMAN,Battle for a chance to win Iron Man (Zombie) shards
 ID_MOTD_NA_LEVEL80_ANNOUNCE,Level Cap Increased!
 ID_MOTD_DE_LEVEL80_ANNOUNCE,Max Commander Level Now 80
 ID_MOTD_NA_VALUABLELESSONS,LIVE: Valuable Lessons
@@ -1444,3 +1452,15 @@ ID_MOTD_NA_MIDNIGHTHAUNT_ANNOUNCE,LIVE: Midnight Haunt
 ID_MOTD_DE_MIDNIGHTHAUNT_ANNOUNCE,"New Costumes, T2 Level 5 Ions, and more!"
 ID_MOTD_NA_IRONMANZOMBIE_PREVIEW,Coming Soon: Iron Man (Zombie)
 ID_MOTD_DE_IRONMANZOMBIE_PREVIEW,This undead Avenger is flying your way!
+ID_MOTD_NA_IRONMANZOMBIE_ANNOUNCE,Ready to feast: Iron Man (Zombie)
+ID_MOTD_DE_IRONMANZOMBIE_ANNOUNCE,The Undead Avenger
+ID_MOTD_NA_HALLOWEEN22_TEASER,Coming Soon: Trick or Treat
+ID_MOTD_DE_HALLOWEEN22_TEASER,The only event in 2022 with Iron Man (Zombie) shards!
+ID_MOTD_NA_HALLOWEEN22_ANNOUNCE,LIVE: Trick or Treat
+ID_MOTD_DE_HALLOWEEN22_ANNOUNCE,Earn Iron Man (Zombie) character shards before they're gone for good!
+ID_MOTD_NA_CONTAGIONCORPS_ANNOUNCE,NOW LIVE: Contagion Corps
+ID_MOTD_DE_CONTAGIONCORPS_ANNOUNCE,Power up teams for the Pestilence Scourge Event!
+ID_MOTD_NA_SPECIALOFFENSIVE_TEASER,Coming Soon: Special Offensive
+ID_MOTD_DE_SPECIALOFFENSIVE_TEASER,Earn raid team & Abomination shards!
+ID_MOTD_NA_SPECIALOFFENSIVE_ANNOUNCE,LIVE: Special Offensive
+ID_MOTD_DE_SPECIALOFFENSIVE_ANNOUNCE,Earn raid team & Abomination shards!

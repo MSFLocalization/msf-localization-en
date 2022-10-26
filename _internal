@@ -82,6 +82,13 @@ ID_TOASTER_EMERGENCY,Strike Force servers are currently undergoing emergency mai
 ID_TOASTER_EVENT01,Strike Force servers are currently undergoing event maintenance. Thank you for your patience.
 ID_TOASTER_EVENT02,Strike Force servers are currently undergoing event maintenance. Thank you for your patience.
 ID_TOASTER_EVENT03,Strike Force servers are currently undergoing event maintenance. Thank you for your patience.
+ID_TOASTER_EVENT04,Strike Force servers are currently undergoing event maintenance. Thank you for your patience.
+ID_TOASTER_EVENT05,Strike Force servers are currently undergoing event maintenance. Thank you for your patience.
+ID_TOASTER_EVENT06,Strike Force servers are currently undergoing event maintenance. Thank you for your patience.
+ID_TOASTER_EVENT07,Strike Force servers are currently undergoing event maintenance. Thank you for your patience.
+ID_TOASTER_EVENT08,Strike Force servers are currently undergoing event maintenance. Thank you for your patience.
+ID_TOASTER_EVENT09,Strike Force servers are currently undergoing event maintenance. Thank you for your patience.
+ID_TOASTER_EVENT10,Strike Force servers are currently undergoing event maintenance. Thank you for your patience.
 ID_NOTIFICATIONS_ONE_FREECRATE_AVAILABLE,You have a free Orb available!
 ID_NOTIFICATIONS_ONE_FREECRATE_AVAILABLE_ACTION,OK
 ID_NOTIFICATIONS_TWO_FREECRATES_AVAILABLE,You have two free Orbs available!
@@ -219,6 +226,7 @@ ID_SPARX_ERROR_GAME_LOST_CONNECTION,You have lost connection to the game.
 ID_SPARX_ERROR_LINK_NOT_SIGNED_IN,Failed to sign in
 ID_SPARX_ERROR_SERVER_DOWN,The server cannot be accessed at this time. Please try again later.
 ID_SPARX_ERROR_CUSTOMER_SUPPORT,An error has occurred. Please contact Customer Support.\nError: {error}
+ID_CONNECT_ERROR_MAX_RETRY,Unable to connect to server.\nCheck connection and try again.
 ID_SPARX_CONTENT_CHECKING,Checking for new content
 ID_SPARX_CONTENT_EXTRACTING,Extracting new content
 ID_SPARX_CONTENT_FAILED,Failed to download content. Check your internet settings and try again.
@@ -241,6 +249,7 @@ ID_SPARX_ERROR_FACEBOOK_NORESPONSE,No valid response from Facebook.
 ID_SPARX_PAYMENTS_LOCKED,Payments error. Unknown lock.
 ID_SPARX_PAYMENTS_LOCKED_ON_WEB,This purchase is already in progress on the web. Please complete your purchase there.
 ID_SPARX_PAYMENTS_LOCKED_ON_ANOTHER_DEVICE,This purchase is already in progress on another device. Please complete your purchase there.
+ID_SPARX_PAYMENTS_LOCKED_OVERRIDABLE,This purchase may be in progress in one or more other locations. Completing the purchase more than the allotted limit may result in conversion to Cores. Are you sure you want to continue in this location?
 ID_SPARX_GUEST_ACCOUNT_NAME,Guest Account
 ID_SPARX_FILESYSTEM_ERROR_NOSPACE,Your device is out of storage space. Clear some space and try again.
 ID_SPARX_FILESYSTEM_ERROR_DATADOWNLOADFAILED,Failed to download data. Please try again later.

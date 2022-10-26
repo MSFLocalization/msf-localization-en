@@ -2703,6 +2703,20 @@ ID_ECM_VIVVISION_08_NAME,The Truth
 ID_ECM_VIVVISION_08_DESC,"With Wanda snapped out of her trance, Viv discovers what she has been searching for this whole time."
 ID_ECM_VIVVISION_09_NAME,Family Reunion
 ID_ECM_VIVVISION_09_DESC,Viv is ready to return home when an enemy with ties to her past arrives!
+ID_MIS_HALLOWEEN22_M1_NAME,Goblins
+ID_MIS_HALLOWEEN22_M2_NAME,Ghosts
+ID_MIS_HALLOWEEN22_M3_NAME,Ghouls
+ID_MIS_HALLOWEEN22_M4_NAME,Nights
+ID_MIS_HALLOWEEN22_M5_NAME,Horrors
+ID_MIS_HALLOWEEN22_M1_DESC,"First, a Goblin\nfull of wrath.\nWho knows what else\nshall bar your path?"
+ID_MIS_HALLOWEEN22_M2_DESC,Ghosts emerge\nin the dead of night\nand give the people\na terrible fright!
+ID_MIS_HALLOWEEN22_M3_DESC,"Ghouls of a sort\ngather and meet\ndon't be afraid,\nits trick or treat!"
+ID_MIS_HALLOWEEN22_M4_DESC,Prowlers of the night\nin devilish garb\nthe one in white\nhits really hard!
+ID_MIS_HALLOWEEN22_M5_DESC,"Finally, a foe\nfrom beyond time and space.\n(Do mind the flames\nwhen punching his face!)"
+ID_EVENT_HALLOWEEN22_CH2M1_DESC,Iron Man (Zombie) and 3-Star (or better) characters
+ID_EVENT_HALLOWEEN22_CH2M2_DESC,Iron Man (Zombie) and 4-Star (or better) characters
+ID_EVENT_HALLOWEEN22_CH2M3_DESC,Iron Man (Zombie) and 5-Star (or better) characters
+ID_EVENT_HALLOWEEN22_CH2M4_DESC,Iron Man (Zombie) and 6-Star (or better) characters
 ID_ECM_ROGUE_01_NAME,Home Again
 ID_ECM_ROGUE_01_DESC,"After a tough series of missions, Rogue and Gambit return to the X-Mansion for some rest."
 ID_ECM_ROGUE_02_NAME,Old Wounds
@@ -2731,3 +2745,21 @@ ID_ECM_SPIDERWEAVER_08_NAME,How Low Can You Go?
 ID_ECM_SPIDERWEAVER_08_DESC,"Fixated on freeing her friends, Spider-Weaver faces down the hordes!"
 ID_ECM_SPIDERWEAVER_09_NAME,Loose Threads
 ID_ECM_SPIDERWEAVER_09_DESC,There is power in numbers and even more secrets to uncover.
+ID_ECM_NAKIA_01_NAME,Spiritual Warning
+ID_ECM_NAKIA_01_DESC,Nakia is visited by an ancient friend.
+ID_ECM_NAKIA_02_NAME,Spies Like Us
+ID_ECM_NAKIA_02_DESC,Nakia contacts Black Widow for an alarming discovery.
+ID_ECM_NAKIA_03_NAME,Dead Drop
+ID_ECM_NAKIA_03_DESC,The mystery of the War Dogs is uncovered.
+ID_ECM_NAKIA_04_NAME,"Precious Cargo "
+ID_ECM_NAKIA_04_DESC,Nakia and Black Widow prevent stolen goods from getting in the wrong hands.
+ID_ECM_NAKIA_05_NAME,It's a Trap!
+ID_ECM_NAKIA_05_DESC,Black Widow and Nakia are being followed.
+ID_ECM_NAKIA_06_NAME,Rats on the Roof
+ID_ECM_NAKIA_06_DESC,Black Widow stops the leader from escaping with the vibranium.
+ID_ECM_NAKIA_07_NAME,Wakanda Incursion
+ID_ECM_NAKIA_07_DESC,The enemy has brazenly contructed a facility in Wakanda.
+ID_ECM_NAKIA_08_NAME,Traitor From Afar
+ID_ECM_NAKIA_08_DESC,The Wakandan traitor is finally confronted.
+ID_ECM_NAKIA_09_NAME,Puppet Master
+ID_ECM_NAKIA_09_DESC,The man pulling the strings attempts to cut a deal with Nakia.

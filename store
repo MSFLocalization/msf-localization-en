@@ -1328,6 +1328,10 @@ ID_OF_DE_BLACKPANTHER_OFFER_55,Add the King of Wakanda to your squad with this l
 ID_OF_DE_BLACKPANTHER_OFFER_75,Add the King of Wakanda to your squad with this limited time offer! Get <color=#fff568>75 Black Panther shards</color> and use his chaining and counterattacks to pierce through competition.
 ID_OF_DE_BLACKPANTHER_OFFER_125,Add the King of Wakanda to your squad with this limited time offer! Get <color=#fff568>125 Black Panther shards</color> and use his chaining and counterattacks to pierce through competition.
 ID_OF_DE_BLACKPANTHER_OFFER_150,Add the King of Wakanda to your squad with this limited time offer! Get <color=#fff568>150 Black Panther shards</color> and use his chaining and counterattacks to pierce through competition.
+ID_GACHA_CRATE_FCO_BLACKPANTHERBC_SPECIAL_NAME,Panther God Orb
+ID_GACHA_CRATE_FCO_BLACKPANTHERBC_SPECIAL_DESCRIPTION,Earn up to 180 Black Panther (1MM) shards
+ID_GACHA_CRATE_FCO_BLACKPANTHERBC_SPECIAL_TOKEN_NAME,Panther God Orb Fragments
+ID_GACHA_CRATE_FCO_BLACKPANTHERBC_SPECIAL_TOKEN_DESCRIPTION,Collect Panther God Orb Fragments to earn a Panther God Orb.
 ID_GACHA_CRATE_FCO_BLACKWIDOW_SPECIAL_NAME,Widow's Bite Orb
 ID_GACHA_CRATE_FCO_BLACKWIDOW_SPECIAL_DESCRIPTION,Get up to 180 Black Widow shards
 ID_GACHA_CRATE_FCO_BLACKWIDOW_SPECIAL_TOKEN_NAME,Widow's Bite Orb Fragments
@@ -1688,6 +1692,10 @@ ID_OF_DE_DAREDEVIL_OFFER_35,Grab <color=#fff568>35 Daredevil shards</color> with
 ID_OF_DE_DAREDEVIL_OFFER_55,Grab <color=#fff568>55 Daredevil shards</color> with this special offer! Enhance your City team with this Brawler adept at aggressive chain attacks and counters.
 ID_OF_DE_DAREDEVIL_OFFER_75,Grab <color=#fff568>75 Daredevil shards</color> with this special offer! Enhance your City team with this Brawler adept at aggressive chain attacks and counters.
 ID_OF_DE_DAREDEVIL_OFFER_125,Grab <color=#fff568>125 Daredevil shards</color> with this special offer! Enhance your City team with this Brawler adept at aggressive chain attacks and counters.
+ID_GACHA_CRATE_FCO_DARKBEAST_SPECIAL_NAME,Dark Doctor Orb
+ID_GACHA_CRATE_FCO_DARKBEAST_SPECIAL_DESCRIPTION,Earn up to 180 Dark Beast shards
+ID_GACHA_CRATE_FCO_DARKBEAST_SPECIAL_TOKEN_NAME,Dark Doctor Orb Fragments
+ID_GACHA_CRATE_FCO_DARKBEAST_SPECIAL_TOKEN_DESCRIPTION,Collect Dark Doctor Orb Fragments to earn a Dark Doctor Orb.
 ID_GACHA_CRATE_FCO_DARKSORCERERS_450HC_NAME,Dark Sorcerers Orb
 ID_GACHA_CRATE_FCO_DARKSORCERERS_450HC_DESCRIPTION,Get up to 145 character shards
 ID_GACHA_CRATE_FCO_DARKSORCERERS_450HC_TOKEN_NAME,Dark Sorcerers Orb Fragments
@@ -2765,6 +2773,10 @@ ID_OF_DE_MYSTIQUE_OFFER_125,Round out your Brotherhood team with this elusive sh
 ID_OF_DE_MYSTIQUE_OFFER_150,Round out your Brotherhood team with this elusive shapeshifting assassin. Get <color=#fff568>150 Mystique shards</color> and copy positive effects from enemies and trick the enemies into attacking themselves.
 ID_OF_NA_MYSTIQUEGEAR_OFFER_1,Mystique Gear Offer
 ID_OF_DE_MYSTIQUEGEAR_OFFER_50,Get this amazing bundle and power up Mystique. Get over <color=#fff568>50%</color> off when you buy now!
+ID_GACHA_CRATE_FCO_NAKIA_SPECIAL_NAME,Adorned Spy Orb
+ID_GACHA_CRATE_FCO_NAKIA_SPECIAL_DESCRIPTION,Earn up to 180 Nakia shards
+ID_GACHA_CRATE_FCO_NAKIA_SPECIAL_TOKEN_NAME,Adorned Spy Orb Fragments
+ID_GACHA_CRATE_FCO_NAKIA_SPECIAL_TOKEN_DESCRIPTION,Collect Adorned Spy Orb Fragments to earn a Adorned Spy Orb.
 ID_GACHA_CRATE_FCO_NAMOR_SPECIAL_NAME,Atlantean Prince Orb
 ID_GACHA_CRATE_FCO_NAMOR_SPECIAL_DESCRIPTION,Get up to 180 Namor shards
 ID_GACHA_CRATE_FCO_NAMOR_SPECIAL_TOKEN_NAME,Atlantean Prince Orb Fragments
@@ -3988,6 +4000,10 @@ ID_OF_DE_YOYO_OFFER_55,"Get <color=#fff568>55 Yo-Yo shards</color> and use her t
 ID_OF_DE_YOYO_OFFER_75,"Get <color=#fff568>75 Yo-Yo shards</color> and use her to defend allies by granting them Evade and Defense Up, while also applying Offense Down to enemies!"
 ID_OF_DE_YOYO_OFFER_125,"Get <color=#fff568>125 Yo-Yo shards</color> and use her to defend allies by granting them Evade and Defense Up, while also applying Offense Down to enemies!"
 ID_OF_DE_YOYO_OFFER_150,"Get <color=#fff568>150 Yo-Yo shards</color> and use her to defend allies by granting them Evade and Defense Up, while also applying Offense Down to enemies!"
+ID_GACHA_CRATE_FCO_ZOMBIEIRONMAN_SPECIAL_NAME,Undead Genius Orb
+ID_GACHA_CRATE_FCO_ZOMBIEIRONMAN_SPECIAL_DESCRIPTION,Earn up to 180 Iron Man (Zombie) shards
+ID_GACHA_CRATE_FCO_ZOMBIEIRONMAN_SPECIAL_TOKEN_NAME,Undead Genius Orb Fragments
+ID_GACHA_CRATE_FCO_ZOMBIEIRONMAN_SPECIAL_TOKEN_DESCRIPTION,Collect Undead Genius Orb Fragments to earn a Undead Genius Orb.
 ID_GACHA_CRATE_ANTHOLOGY_01_NAME,Anthology I Orb
 ID_GACHA_CRATE_ANTHOLOGY_01_DESCRIPTION,Contains 5-20 shards of select marquee characters
 ID_GACHA_CRATE_ANTHOLOGY_01_TOKEN_NAME,Anthology I Orb Fragments
@@ -8180,6 +8196,10 @@ ID_GACHA_CRATE_OCTOBER_META_NAME,Spider-Splicer Orb
 ID_GACHA_CRATE_OCTOBER_META_DESCRIPTION,Get up to 100 Spider-Man 2099 Shards
 ID_GACHA_CRATE_OCTOBER_META_TOKEN_NAME,Spider-Splicer Orb Fragments
 ID_GACHA_CRATE_OCTOBER_META_TOKEN_DESCRIPTION,Collect Spider-Splicer Orb Fragments to earn a Spider-Splicer Orb.
+ID_GACHA_CRATE_PLAGUEMONGER_NAME,Plaguemonger Orb
+ID_GACHA_CRATE_PLAGUEMONGER_DESCRIPTION,"Contains Darkhold, Web-Warrior, and Dark Hunter shards"
+ID_GACHA_CRATE_PLAGUEMONGER_TOKEN_NAME,Plaguemonger Orb Fragments
+ID_GACHA_CRATE_PLAGUEMONGER_TOKEN_DESCRIPTION,Collect Plaguemonger Orb Fragments to earn Plaguemonger Orbs and get progress in the Contagion Corps Event
 ID_GACHA_CRATE_WAR_NAME,War Orb
 ID_GACHA_CRATE_WAR_DESCRIPTION,Usher in the Horsemen of War
 ID_GACHA_CRATE_WAR_TOKEN_NAME,War Orb Fragments

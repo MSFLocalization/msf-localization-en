@@ -102,6 +102,7 @@ ID_DEFEAT_MSG,"We weren't strong enough this time, Commander. Upgrade the charac
 ID_DIFFICULTY_EASY,EASY
 ID_DIFFICULTY_HARD,HARD
 ID_DIFFICULTY_MEDIUM,MEDIUM
+ID_DIFFICULTY_HARD_VERBOSE,DIFFICULTY: HARD
 ID_DROPRATE_GUARANTEE_MSG,Guarantees the following:
 ID_DROPRATE_GUARANTEE_ONE_OF_MSG,Guarantees ONE of:
 ID_DROPRATE_PILLAR_HEADER,REWARD {count}
@@ -230,6 +231,8 @@ ID_GAMEMODE_CAMPAIGN_GLOBAL_DESC,Assemble the S.T.R.I.K.E. team to defeat Ultimu
 ID_GAMEMODE_CAMPAIGN_GLOBAL_NAME,The Nexus
 ID_GAMEMODE_CAMPAIGN_HEROES_DESC,Assemble HEROES to uncover an interdimensional threat.
 ID_GAMEMODE_CAMPAIGN_HEROES_NAME,Heroes Assemble
+ID_GAMEMODE_CAMPAIGN_HEROES_HARD_DESC,"Revisit Heroes Assemble!\n\nGather a strong team of HEROES and face revised missions with stronger foes. deadlier bosses. and all-new rewards!\n\nRecommended: Level 75, 7-Star, Gear 10+"
+ID_GAMEMODE_CAMPAIGN_VILLAINS_HARD_DESC,"Revisit Villains United!\n\nGather a strong team of VILLAINS and face revised missions with stronger foes. deadlier bosses. and all-new rewards!\n\nRecommended: Level 75, 7-Star, Gear 10+"
 ID_GAMEMODE_CAMPAIGN_MYSTIC_DESC,Only powerful MYSTIC characters can find a way to drive back the invasion.
 ID_GAMEMODE_CAMPAIGN_MYSTIC_NAME,Mystic Forces Rising
 ID_GAMEMODE_CAMPAIGN_NUE_NAME,Prologue
@@ -317,13 +320,15 @@ ID_LOGIN_STREAK_ACTIVE,Streak Active
 ID_LOGIN_STREAK_BROKEN,<color=#D67C10>STREAK BROKEN</color> - <color=#FFFFFF>LOG IN</color> for <color=#FFFFFF>7 CONSECUTIVE</color> days to reactivate!
 ID_LOGIN_STREAK_DESCRIPTION,<color=#FFFFFF>LOG IN</color> for <color=#FFFFFF>7 CONSECUTIVE</color> days to activate your <color=#D67C10>STREAK BONUS</color>!
 ID_LOGIN_STREAK_RULES_TITLE,Login Streak Rules
-ID_LOGIN_STREAK_RULES_DESCRIPTION,"<color=#FFFFFF>LOG IN</color> for <color=#FFFFFF>7 CONSECUTIVE</color> days to activate your <color=#D67C10>STREAK BONUS</color>!\n\nIf you miss a day, the <color=#D67C10>STREAK BONUS</color> resets.\n\n<color=#D67C10>STREAK BONUSES</color> provide the following <color=#57BD00>BENEFITS</color>:\n\n<color=#57BD00>1) AUTO DAILIES</color>: Players above Level 64 will have a select number of their Daily Objectives completed as soon as they log in for the day.\n\n<color=#57BD00>2) Raid Sim</color>: Players above Level 62 will be awarded a select number of SIM attempts each day. The number of daily allowed SIMs is set per Raid and awarded when the Raid is joined.\n\n<color=#57BD00>3) Streak Milestones</color>: All players will be able to complete Daily Streak Milestones to earn additional Rewards!"
+ID_LOGIN_STREAK_RULES_DESCRIPTION,"<color=#FFFFFF>LOG IN</color> for <color=#FFFFFF>7 CONSECUTIVE</color> days to activate your <color=#D67C10>STREAK BONUS</color>!\n\nIf you miss a day, the <color=#D67C10>STREAK BONUS</color> resets.\n\n<color=#D67C10>STREAK BONUSES</color> provide the following <color=#57BD00>BENEFITS</color>:\n\n<color=#57BD00>1) AUTO DAILIES</color>: Players Level {autoDailiesLevel} or above will have a select number of their Daily Objectives completed as soon as they log in for the day.\n\n<color=#57BD00>2) Raid Sim</color>: Players Level {raidAutoSimLevel} or above will be awarded a select number of SIM attempts each day. The number of daily allowed SIMs is set per Raid and awarded when the Raid is joined.\n\n<color=#57BD00>3) Streak Milestones</color>: All players will be able to complete Daily Streak Milestones to earn additional Rewards!"
 ID_LOGIN_STREAK_MAINTAIN,Keep playing <color=#FFFFFF>DAILY</color> to maintain your <color=#D67C10>STREAK BONUS</color>!
 ID_LOGIN_STREAK_MILESTONE_INACTIVE_DESC,<color=#FFFFFF>ACTIVATE</color> your <color=#D67C10>STREAK BONUS</color> to participate.\n<color=#FFFFFF>LOG IN</color> for <color=#FFFFFF>7 CONSECUTIVE</color> days to activate your <color=#D67C10>STREAK BONUS</color>.
 ID_LOGIN_STREAK_PERK_DAILIES,AUTO DAILIES
 ID_LOGIN_STREAK_PERK_MILESTONE,STREAK MILESTONES
 ID_LOGIN_STREAK_PERK_RAID_SIM,RAID SIM
 ID_LOGIN_STREAK_TITLE,Daily Login Streak
+ID_LOGIN_STREAK_RAID_SIM_LOCKED_TITLE,RAID SIM: LOCKED
+ID_LOGIN_STREAK_RAID_SIM_LOCKED_BODY,Reach level {level} to unlock Raid Sim! Activate the SIM button and hit Battle to have the game run the combat and report the results.
 ID_LOYALTY,STAR RANK
 ID_LOYALTY_HEADER,{shard} SHARDS
 ID_MAX,MAX
@@ -643,6 +648,12 @@ ID_UI_REWARDS_SUBHEADLINE,"Complete battles to earn PLAYER XP and collect shards
 ID_UI_REWARDS_RAIDS_SUBHEADLINE,"Complete raid missions for a chance to earn Raid Credits, Gold, and Ability Materials."
 ID_UI_REWARDS_INSANITY_SUBHEADLINE,Congratulations! That was a hard fought battle!
 ID_UI_ROSTER,ROSTER
+ID_UI_RECOMMENDED_SQUADS,RECOMMENDED
+ID_UI_SCOPELY_LINKDESC,Sign in with <color=#FCFF00>Scopely</color> to protect your game progress and earn amazing rewards! \nAdd this <color=#FCFF00>3 star Loki</color> to your Villains team today!
+ID_UI_SCOPELY_LINKED,Thank you for signing in with <color=#FCFF00>Scopely</color>. Please enjoy these amazing rewards! \nAdd this <color=#FCFF00>3 star Loki</color> to your Villains team today!
+ID_UI_SCOPELY_LOKI,Sign up to unlock Loki FREE!
+ID_UI_SCOPELY_SIGN_IN,Sign in with Scopely
+ID_UI_SCOPELY_STORE_DESC,Sign in with <color=#FCFF00>Scopely</color> to protect your game progress and earn amazing rewards! \nAdd this <color=#FCFF00>3 star Loki</color> to your Villains team today!
 ID_UI_SELECT_ARENA,BLITZ SELECTION
 ID_UI_SELECT_DESIRED_LEVEL,SELECT DESIRED LEVEL
 ID_UI_SELECT_EVENT,EVENT SELECTION
@@ -887,6 +898,7 @@ ID_EVENT_CAMPAIGN_TYPE_MORGAN,MORGAN LE FAY
 ID_EVENT_CAMPAIGN_TYPE_ROGUE,ROGUE
 ID_EVENT_CAMPAIGN_TYPE_VIVVISION,VIV VISION
 ID_EVENT_CAMPAIGN_TYPE_SPIDERWEAVER,SPIDER-WEAVER
+ID_EVENT_CAMPAIGN_TYPE_NAKIA,NAKIA
 ID_OFFER_AND,AND
 ID_OFFER_OR,OR
 ID_CHAL_UNLOCK,UNLOCK
@@ -932,6 +944,7 @@ ID_SSQUADS_CATEGORY_AVA,SAVED SQUADS: WAR
 ID_SSQUADS_CATEGORY_INSANITY,SAVED SQUADS: DARK DIMENSION
 ID_SSQUADS_CATEGORY_TOWER_MODE,SAVED SQUADS: TOWER MODE
 ID_SSQUADS_CATEGORY_GRAND_TOURNAMENT,SAVED SQUADS: COSMIC CRUCIBLE
+ID_SSQUADS_CATEGORY_RECOMMENDED_SQUADS,SAVED SQUADS: RECOMMENDED
 ID_SSQUADS_MANAGE_DEFAULT_CATEGORY,MANAGE: ROSTER
 ID_SSQUADS_MANAGE_BATTLEGROUNDS,MANAGE: ARENA
 ID_SSQUADS_MANAGE_PVP,MANAGE: BLITZ
@@ -952,6 +965,7 @@ ID_SSQUADS_PASTE_FLOATER,PASTED
 ID_SSQUADS_DELETE_FLOATER,DELETED
 ID_SSQUADS_CREATE_UNAVAILABLE_TITLE,Create Unavailable
 ID_SSQUADS_CREATE_UNAVAILABLE_BODY,"To use the Create function, enter Saved Squads via the Roster Filter Panel"
+ID_SSQUADS_NO_SQUADS_VIEW_RECOMMENDED,You have no Saved Squads. View Recommended Squads for suggestions.
 ID_MINSPEC_NA_MINSPEC_IOS11,Minimum Device Requirement
 ID_MINSPEC_BO_MINSPEC_IOS11,"As of February 1, 2022, the operating system on your device will no longer be supported. Please upgrade to iOS 11 or higher to avoid disruptions in your MARVEL Strike Force experience. For more information, please visit www.marvelstrikeforce.com."
 ID_MINSPEC_NA_MINSPEC_2GB_RECOMMENDED,Device Memory Notice

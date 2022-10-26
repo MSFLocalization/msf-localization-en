@@ -29,12 +29,16 @@ ID_SHARD_BARONMORDO_NAME,Mordo
 ID_SHARD_BARONMORDO_DESCRIPTION,A powerful sorcerer who weakens his enemies with forbidden magic.
 ID_SHARD_BEAST_NAME,Beast
 ID_SHARD_BEAST_DESCRIPTION,Beast is a master of Mutant science who improves any X-Men team by healing and granting positive effects.
+ID_SHARD_DARKBEAST_NAME,Dark Beast
+ID_SHARD_DARKBEAST_DESCRIPTION,"A twisted version of Hank McCoy from an alternate universe, Dark Beast aligned with Apocalypse to experiment on his fellow mutants, inflicting them with devastating negative Status Effects."
 ID_SHARD_BISHOP_NAME,Bishop
 ID_SHARD_BISHOP_DESCRIPTION,"The Astonishing X-Men's Blaster from the future, Bishop uses his mutant energy powers to deliver devastating attacks."
 ID_SHARD_BLACKBOLT_NAME,Black Bolt
 ID_SHARD_BLACKBOLT_DESCRIPTION,"The King of the Inhumans, Black Bolt is a Blaster whose voice deals massive damage and prevents enemies from reviving."
 ID_SHARD_BLACKPANTHER_NAME,Black Panther
 ID_SHARD_BLACKPANTHER_DESCRIPTION,"An agile, relentless hunter who shreds his enemies with rapid attacks."
+ID_SHARD_BLACKPANTHERBC_NAME,Black Panther (1MM)
+ID_SHARD_BLACKPANTHERBC_DESCRIPTION,"Discovering Wakanda's Vibranium meteor and combining it with the Heart-Shaped Herb in the year 1,000,000 B.C., Bashenga became the first Black Panther."
 ID_SHARD_BLACKWIDOW_NAME,Black Widow
 ID_SHARD_BLACKWIDOW_DESCRIPTION,A stealthy saboteur who steals enemy advantages and delivers disabling attacks.
 ID_SHARD_BLOB_NAME,Blob
@@ -191,6 +195,8 @@ ID_SHARD_IRONHEART_NAME,Ironheart
 ID_SHARD_IRONHEART_DESCRIPTION,Ironheart is a teen super-genius who hinders enemies while enhancing Power Armor and Tech allies.
 ID_SHARD_IRONMAN_NAME,Iron Man
 ID_SHARD_IRONMAN_DESCRIPTION,A versatile damage dealer with high armor and low health.
+ID_SHARD_ZOMBIEIRONMAN_NAME,Iron Man (Zombie)
+ID_SHARD_ZOMBIEIRONMAN_DESCRIPTION,"After being infected with a mysterious zombifying virus, Tony Stark became a shadow of his former self who sates his hunger for flesh by inflicting Bleed on his enemies."
 ID_SHARD_JANETHOR_NAME,Mighty Thor
 ID_SHARD_JANETHOR_DESCRIPTION,"Deemed worthy by Mjolnir, Jane Foster, also known as the Mighty Thor, attacks her foes with blinding lightning and charges up her ally Hero Asgardians."
 ID_SHARD_JESSICAJONES_NAME,Jessica Jones
@@ -289,6 +295,8 @@ ID_SHARD_MYSTERIOMINION_NAME,Mysterio
 ID_SHARD_MYSTERIOMINION_DESCRIPTION,One of Mysterio's mirror images.
 ID_SHARD_MYSTIQUE_NAME,Mystique
 ID_SHARD_MYSTIQUE_DESCRIPTION,A covert shapeshifter skilled at disabling stealthed targets and manipulating enemies into attacking each other.
+ID_SHARD_NAKIA_NAME,Nakia
+ID_SHARD_NAKIA_DESCRIPTION,Nakia uses her dual Ring Blades and expert skills as a covert Wakandan operative to stealthily dismantle her enemy's defenses.
 ID_SHARD_NAMOR_NAME,Namor
 ID_SHARD_NAMOR_DESCRIPTION,Namor is a mutant Brawler who helps the Fantastic Four wash away enemy teams during War.
 ID_SHARD_NEBULA_NAME,Nebula
@@ -333,6 +341,16 @@ ID_SHARD_PVE_DDMRFANTASTIC_NAME,Fantastic-Bot
 ID_SHARD_PVE_DDMRFANTASTIC_DESCRIPTION,
 ID_SHARD_PVE_DDTHING_NAME,Thing-Bot
 ID_SHARD_PVE_DDTHING_DESCRIPTION,
+ID_SHARD_PVE_CORVUSGLAIVE_GAUNTLET_NAME,Corvus Glaive
+ID_SHARD_PVE_CORVUSGLAIVE_GAUNTLET_DESCRIPTION,
+ID_SHARD_PVE_CULLOBSIDIAN_GAUNTLET_NAME,Cull Obsidian
+ID_SHARD_PVE_CULLOBSIDIAN_GAUNTLET_DESCRIPTION,
+ID_SHARD_PVE_EBONYMAW_GAUNTLET_NAME,Ebony Maw
+ID_SHARD_PVE_EBONYMAW_GAUNTLET_DESCRIPTION,
+ID_SHARD_PVE_PROXIMAMIDNIGHT_GAUNTLET_NAME,Proxima Midnight
+ID_SHARD_PVE_PROXIMAMIDNIGHT_GAUNTLET_DESCRIPTION,
+ID_SHARD_PVE_THANOS_GAUNTLET_NAME,Thanos
+ID_SHARD_PVE_THANOS_GAUNTLET_DESCRIPTION,
 ID_SHARD_PYRO_NAME,Pyro
 ID_SHARD_PYRO_DESCRIPTION,A hotheaded fire-starter who excels at burning enemies in an area to inflict damage over time.
 ID_SHARD_QUAKE_NAME,Quake

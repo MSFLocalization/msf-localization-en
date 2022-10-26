@@ -227,6 +227,15 @@ ID_AR_MC_BLACKPANTHER,GO!
 ID_AR_ES_BLACKPANTHER,ENDED: Warrior King Blitz
 ID_AR_EB_BLACKPANTHER,The Warrior King Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
 ID_AR_NA_BLACKPANTHER_CARD,Warrior King
+ID_AR_NA_BLACKPANTHERBC,Panther God
+ID_AR_SM_BLACKPANTHERBC,Win Black Panther (1MM) Shards!
+ID_AR_LM_BLACKPANTHERBC,Face off against other players' teams to earn various milestone rewards and a chance to win Black Panther (1MM) shards!
+ID_AR_MT_BLACKPANTHERBC,LIVE: Panther God Blitz
+ID_AR_MS_BLACKPANTHERBC,Your chance to win Black Panther (1MM) shards!
+ID_AR_MB_BLACKPANTHERBC,"<color=#fff568>Panther God Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Black Panther (1MM) shards!\n\n<color=#fff568>Panther God Orb</color>\nFor a limited time, a new Panther God Orb is available in the Store. The orb contains <color=#fff568>only Black Panther (1MM) shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Black Panther (1MM) now!"
+ID_AR_ES_BLACKPANTHERBC,ENDED: Panther God Blitz
+ID_AR_EB_BLACKPANTHERBC,The Panther God Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
+ID_AR_NA_BLACKPANTHERBC_CARD,Panther God
 ID_AR_NA_BLACKWIDOW,Widow's Bite
 ID_AR_SM_BLACKWIDOW,Win Black Widow Shards!
 ID_AR_LM_BLACKWIDOW,Face off against other players' teams to earn various milestone rewards and a chance to win BLACK WIDOW shards!
@@ -365,6 +374,15 @@ ID_AR_MC_DAREDEVIL,GO!
 ID_AR_ES_DAREDEVIL,ENDED: Man Without Fear Blitz
 ID_AR_EB_DAREDEVIL,The Man Without Fear Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
 ID_AR_NA_DAREDEVIL_CARD,Man Without Fear
+ID_AR_NA_DARKBEAST,Dark Doctor
+ID_AR_SM_DARKBEAST,Win Dark Beast Shards!
+ID_AR_LM_DARKBEAST,Face off against other players' teams to earn various milestone rewards and a chance to win Dark Beast shards!
+ID_AR_MT_DARKBEAST,LIVE: Dark Doctor Blitz
+ID_AR_MS_DARKBEAST,Your chance to win Dark Beast shards!
+ID_AR_MB_DARKBEAST,"<color=#fff568>Dark Doctor Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Dark Beast shards!\n\n<color=#fff568>Dark Doctor Orb</color>\nFor a limited time, a new Dark Doctor Orb is available in the Store. The orb contains <color=#fff568>only Dark Beast shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Dark Beast now!"
+ID_AR_ES_DARKBEAST,ENDED: Dark Doctor Blitz
+ID_AR_EB_DARKBEAST,The Dark Doctor Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
+ID_AR_NA_DARKBEAST_CARD,Dark Doctor
 ID_AR_NA_DAZZLER,Razzle Dazzle
 ID_AR_SM_DAZZLER,Win Dazzler Shards!
 ID_AR_LM_DAZZLER,Face off against other players' teams to earn various milestone rewards and a chance to win Dazzler shards!
@@ -853,6 +871,15 @@ ID_AR_MT_MYSTIQUE,LIVE: Shapeshifter Blitz
 ID_AR_MS_MYSTIQUE,Your chance to win Mystique shards!
 ID_AR_MB_MYSTIQUE,"<color=#fff568>Shapeshifter Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Mystique shards!\n\n<color=#fff568>Shapeshifter Orb</color>\nFor a limited time, a new Shapeshifter Orb is available in the Store. The orb contains <color=#fff568>only Mystique shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Mystique now!"
 ID_AR_NA_MYSTIQUE_CARD,Shapeshifter
+ID_AR_NA_NAKIA,Adorned Spy
+ID_AR_SM_NAKIA,Win Nakia Shards!
+ID_AR_LM_NAKIA,Face off against other players' teams to earn various milestone rewards and a chance to win Nakia shards!
+ID_AR_MT_NAKIA,LIVE: Adorned Spy Blitz
+ID_AR_MS_NAKIA,Your chance to win Nakia shards!
+ID_AR_MB_NAKIA,"<color=#fff568>Adorned Spy Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Nakia shards!\n\n<color=#fff568>Adorned Spy Orb</color>\nFor a limited time, a new Adorned Spy Orb is available in the Store. The orb contains <color=#fff568>only Nakia shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Nakia now!"
+ID_AR_ES_NAKIA,ENDED: Adorned Spy Blitz
+ID_AR_EB_NAKIA,The Adorned Spy Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
+ID_AR_NA_NAKIA_CARD,Adorned Spy
 ID_AR_NA_NAMOR,Atlantean Prince
 ID_AR_SM_NAMOR,Win Namor Shards!
 ID_AR_LM_NAMOR,Face off against other players' teams to earn various milestone rewards and a chance to win Namor shards!
@@ -1432,6 +1459,15 @@ ID_AR_MT_YOYO,LIVE: Slingshot Blitz
 ID_AR_MS_YOYO,Your chance to win Yo-Yo shards!
 ID_AR_MB_YOYO,"<color=#fff568>Slingshot Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Yo-Yo shards!\n\n<color=#fff568>Slingshot Orb</color>\nFor a limited time, a new Slingshot Orb is available in the Store. The orb contains <color=#fff568>only Yo-Yo shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Yo-Yo now!"
 ID_AR_NA_YOYO_CARD,Slingshot
+ID_AR_NA_ZOMBIEIRONMAN,Undead Genius
+ID_AR_SM_ZOMBIEIRONMAN,Win Iron Man (Zombie) Shards!
+ID_AR_LM_ZOMBIEIRONMAN,Face off against other players' teams to earn various milestone rewards and a chance to win Iron Man (Zombie) shards!
+ID_AR_MT_ZOMBIEIRONMAN,LIVE: Undead Genius Blitz
+ID_AR_MS_ZOMBIEIRONMAN,Your chance to win Iron Man (Zombie) shards!
+ID_AR_MB_ZOMBIEIRONMAN,"<color=#fff568>Undead Genius Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Iron Man (Zombie) shards!\n\n<color=#fff568>Undead Genius Orb</color>\nFor a limited time, a new Undead Genius Orb is available in the Store. The orb contains <color=#fff568>only Iron Man (Zombie) shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Iron Man (Zombie) now!"
+ID_AR_ES_ZOMBIEIRONMAN,ENDED: Undead Genius Blitz
+ID_AR_EB_ZOMBIEIRONMAN,The Undead Genius Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
+ID_AR_NA_ZOMBIEIRONMAN_CARD,Undead Genius
 ID_AR_NA_CLOAKDAGGER,Luminous Duo
 ID_AR_SM_CLOAKDAGGER,Win Luminous Credits!
 ID_AR_LM_CLOAKDAGGER,Face off against other players' teams to earn various milestone rewards and a chance to win Luminous Credits!

@@ -174,7 +174,7 @@ ID_GT_DIVISION_2,II
 ID_GT_DIVISION_3,III
 ID_GT_DIVISION_4,IV
 ID_GT_LEAGUE_REWARDS_TITLE,1ST PLACE TOURNAMENT REWARDS
-ID_GT_CURRENT_LEAGUE,(Current)
+ID_GT_CURRENT_LEAGUE,<color=#00ff00> (Current)</color>
 ID_GT_LEAGUE_RATING_RANGE,{promotion} - {max} Tribunal Rating
 ID_GT_LEAGUE_RATING_RANGE_WITH_DEMOTE,"{promotion} - {max} Tribunal Rating, Demotion at {demotion} TR"
 ID_GT_LEAGUE_RATING_MAX,"{promotion}+ Tribunal Rating, Demotion at {demotion} TR"

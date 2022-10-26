@@ -13,9 +13,11 @@ ID_MILESTONE_BLITZ_ANTIVENOM,Win a Blitz battle with: Anti-Venom
 ID_MILESTONE_BLITZ_ANTMAN,Win a Blitz battle with: Ant-Man
 ID_MILESTONE_BLITZ_BARONMORDO,Win a Blitz battle with: Mordo
 ID_MILESTONE_BLITZ_BEAST,Win a Blitz battle with: Beast
+ID_MILESTONE_BLITZ_DARKBEAST,Win a Blitz battle with: Dark Beast
 ID_MILESTONE_BLITZ_BISHOP,Win a Blitz battle with: Bishop
 ID_MILESTONE_BLITZ_BLACKBOLT,Win a Blitz battle with: Black Bolt
 ID_MILESTONE_BLITZ_BLACKPANTHER,Win a Blitz battle with: Black Panther
+ID_MILESTONE_BLITZ_BLACKPANTHERBC,Win a Blitz battle with: Black Panther (1MM)
 ID_MILESTONE_BLITZ_BLACKWIDOW,Win a Blitz battle with: Black Widow
 ID_MILESTONE_BLITZ_BLOB,Win a Blitz battle with: Blob
 ID_MILESTONE_BLITZ_BULLSEYE,Win a Blitz battle with: Bullseye
@@ -83,6 +85,7 @@ ID_MILESTONE_BLITZ_INVISIBLEWOMAN,Win a Blitz battle with: Invisible Woman
 ID_MILESTONE_BLITZ_IRONFIST,Win a Blitz battle with: Iron Fist
 ID_MILESTONE_BLITZ_IRONHEART,Win a Blitz battle with: Ironheart
 ID_MILESTONE_BLITZ_IRONMAN,Win a Blitz battle with: Iron Man
+ID_MILESTONE_BLITZ_ZOMBIEIRONMAN,Win a Blitz battle with: Iron Man (Zombie)
 ID_MILESTONE_BLITZ_JANETHOR,Win a Blitz battle with: Mighty Thor
 ID_MILESTONE_BLITZ_JESSICAJONES,Win a Blitz battle with: Jessica Jones
 ID_MILESTONE_BLITZ_JUBILEE,Win a Blitz battle with: Jubilee
@@ -126,6 +129,7 @@ ID_MILESTONE_BLITZ_MSMARVEL,Win a Blitz battle with: Ms. Marvel
 ID_MILESTONE_BLITZ_MULTIPLEMAN,Win a Blitz battle with: Multiple Man
 ID_MILESTONE_BLITZ_MYSTERIO,Win a Blitz battle with: Mysterio
 ID_MILESTONE_BLITZ_MYSTIQUE,Win a Blitz battle with: Mystique
+ID_MILESTONE_BLITZ_NAKIA,Win a Blitz battle with: Nakia
 ID_MILESTONE_BLITZ_NAMOR,Win a Blitz battle with: Namor
 ID_MILESTONE_BLITZ_NEBULA,Win a Blitz battle with: Nebula
 ID_MILESTONE_BLITZ_NEGASONIC,Win a Blitz battle with: Negasonic
@@ -376,6 +380,13 @@ ID_QU_SC_SPLASH_SOMETHINGWICKED,Use Supernatural Characters in Blitz
 ID_QU_S1_SPLASH_SOMETHINGWICKED,Win a Blitz battle with any 3-star or higher Supernatural Character
 ID_QU_S2_SPLASH_SOMETHINGWICKED,Win a Blitz battle with any 5-star or higher Supernatural Character
 ID_QU_S3_SPLASH_SOMETHINGWICKED,Win a Blitz battle with any 7-star Supernatural Character
+ID_QU_NA_SPLASH_YOUNGAVENGERS,Super Successors
+ID_QU_SD_SPLASH_YOUNGAVENGERS,Use Young Avengers in Blitz
+ID_QU_LM_SPLASH_YOUNGAVENGERS,Earn points by using Young Avengers characters in Blitz Battles. Earn more points if your Young Avengers characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_YOUNGAVENGERS,Use Young Avengers Characters in Blitz
+ID_QU_S1_SPLASH_YOUNGAVENGERS,Win a Blitz battle with any 3-star or higher Young Avengers Character
+ID_QU_S2_SPLASH_YOUNGAVENGERS,Win a Blitz battle with any 5-star or higher Young Avengers Character
+ID_QU_S3_SPLASH_YOUNGAVENGERS,Win a Blitz battle with any 7-star Young Avengers Character
 ID_QUEST_KNOCKOUT_GENERIC,Knock out any enemy with any character
 ID_QUEST_DAMAGE_GENERIC,Do damage with any character
 ID_QUEST_ABILITY_GENERIC,Use any ability with any character
@@ -1927,3 +1938,21 @@ ID_QU_SC_MIDNIGHTHAUNT,"Win in Blitz, Spend Power Cores"
 ID_QU_S1_MIDNIGHTHAUNT,Win in Blitz
 ID_QU_S2_MIDNIGHTHAUNT,Win in Blitz with Dark Hunter or Symbiote
 ID_QU_S3_MIDNIGHTHAUNT,Spend 1 Power Core
+ID_QU_NA_CONTAGIONCORPS,Contagion Corps
+ID_QU_SD_CONTAGIONCORPS,Earn Plaguemonger Orb Fragments
+ID_QU_LM_CONTAGIONCORPS,Score points toward this 7-day milestone by earning Plaguemonger Orb Fragments to get:\n\n- Panther Pelt\n- Vibranium Meteorites\n- Mystic gear\n- Shards for Agatha Harkness and Web Warriors\n- T4 Ability Materials\n- Elite 5 Credits
+ID_QU_SM_CONTAGIONCORPS,Earn Plaguemonger Orb Fragments
+ID_QU_SC_CONTAGIONCORPS,Earn Plaguemonger Orb Fragments
+ID_QU_S1_CONTAGIONCORPS,Earn 1 Plaguemonger Orb Fragment
+ID_QU_NA_VIRALVISION,Viral Vision
+ID_QU_SD_VIRALVISION,Earn Blitz Credits
+ID_QU_LM_VIRALVISION,Blitz to rack up points toward this 7-day milestone. Rewards include Plaguemonger Orb Fragments and more!
+ID_QU_SM_VIRALVISION,Earn Blitz Credits
+ID_QU_SC_VIRALVISION,Earn Blitz Credits and Web UPCs
+ID_QU_NA_SPECIALOFFENSIVE,Special Offensive
+ID_QU_SD_SPECIALOFFENSIVE,Earn Raid Credits and Spend Campaign Energy
+ID_QU_LM_SPECIALOFFENSIVE,Earn Raid Credits and spend Campaign Energy to get these amazing rewards: \n\n- Raid team character shards\n- Armory 17 Orb Fragments\n- Elite 4 and 5 Credits\n- T2 Level 4 Ions\n- Gold and Dark Promotion Credits\n- And more!
+ID_QU_SM_SPECIALOFFENSIVE,"Earn Raid Credits, Spend Campaign Energy"
+ID_QU_SC_SPECIALOFFENSIVE,"Earn Raid Credits, Spend Campaign Energy"
+ID_QU_S1_SPECIALOFFENSIVE,Earn 1 Raid Credit
+ID_QU_S2_SPECIALOFFENSIVE,Spend 1 Campaign Energy
