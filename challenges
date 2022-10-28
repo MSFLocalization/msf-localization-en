@@ -787,7 +787,7 @@ ID_ECM_CHANCE_NAKIA_B,Earn Nakia shards
 ID_ECM_CHANCE_NAKIA_C,Earn Nakia shards
 ID_ECM_NAKIA_DESC_A,Recommendations:\n- Squad Lvl 85+\n- Gear Tier 15+\n- Ability Lvl 6+\n\n Nakia teams up with an old friend to save her fellow War Dogs and all of Wakanda.
 ID_ECM_NAKIA_DESC_B,Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\n Nakia teams up with an old friend to save her fellow War Dogs and all of Wakanda.
-ID_ECM_NAKIA_DESC_C,Recommendations:\n- Squad Lvl 35+\n- Gear Tier 6+\n- Ability Lvl 2+\n\n Nakia teams up with an old friend to save her fellow War Dogs and all of Wakanda.
+ID_ECM_NAKIA_DESC_C,Recommendations:\n- Squad Lvl 25+\n- Gear Tier 5+\n- Ability Lvl 2+\n\n Nakia teams up with an old friend to save her fellow War Dogs and all of Wakanda.
 ID_ECM_NAKIA_MB,Nakia teams up with an old friend to save her fellow War Dogs and all of Wakanda.
 ID_ECM_NAKIA_MC,GO!
 ID_ECM_NAKIA_MT,The Dogs of War event has started!
@@ -1464,3 +1464,6 @@ ID_INFO_BO_CONTAGIONCORPS,"Prepare for the <color=#fff568>Pestilence</color> Sco
 ID_INFO_NA_SPECIALOFFENSIVE,Special Offensive
 ID_INFO_DE_SPECIALOFFENSIVE,Raid Team Shards and Resources!
 ID_INFO_BO_SPECIALOFFENSIVE,Earn <color=#fff568>Abomination shards</color> with this new milestone:\n\n<color=#fff568>Special Offensive</color>\nScore points toward this 4-day milestone by earning Raid Credits and by spending Campaign Energy. Rewards include:\n\n- Raid team character shards\n- Armory 17 Orb Fragments\n- Elite 4 and 5 Credits\n- T2 Level 4 Ions\n- Gold and Dark Promotion Credits\n- And more!
+ID_INFO_NA_THEFIRSTPANTHER,The First Panther
+ID_INFO_DE_THEFIRSTPANTHER,Recruit Black Panther (1MM) throughout November!
+ID_INFO_BO_THEFIRSTPANTHER,"Earn points toward this month-long milestone by collecting Vibranium Meteorites, Panther Pelt, Ancient Claw Necklace, Razor-Sharp Claws, and Heart-Shaped Herb from November events. Vibranium Meteorites will also be available in Daily Web Milestones and Free Claim Fridays throughout the month.\n\nThere will be several separate Milestone Events that provide progress towards the <color=#fff568>The First Panther Milestone</color>. Earn up to 180 Black Panther (1MM) Shards from various milestones!\n\nEarn at least 200,000 points to qualify for this blind Leaderboard rewarding Armory 17 Orb Fragments for the top 25 and T2 Level 5 Ions for the top 2% of players. Other competitors can earn Training Orb fragments, Teal and Orange Raid Orbs, and Milestone III Orbs!"

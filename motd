@@ -1422,6 +1422,8 @@ ID_MOTD_NA_FUTURESHOCK_ANNOUNCE,LIVE: Future Shock
 ID_MOTD_DE_FUTURESHOCK_ANNOUNCE,Recruit Spider-Man 2099 by participating in October Events!
 ID_MOTD_NA_SPLASH_GENETICMARVELS,LIVE: Genetic Marvels
 ID_MOTD_DE_SPLASH_GENETICMARVELS,Blitz with Marauder to earn Spliced Spider-Genes and Orbs!
+ID_MOTD_NA_SPLASH_YOUNGAVENGERS,LIVE: Super Successors
+ID_MOTD_DE_SPLASH_YOUNGAVENGERS,Blitz with Young Avengers to earn Vibranium Meteorites and Orbs!
 ID_MOTD_NA_SPLASH_SPIDERSPACE,LIVE: Spider-Space
 ID_MOTD_DE_SPLASH_SPIDERSPACE,Blitz with Symbiotes to earn Spliced Spider-Genes and Iso-8!
 ID_MOTD_NA_SPLASH_WEBOFSHADOWS,LIVE: Web of Shadows
@@ -1464,3 +1466,19 @@ ID_MOTD_NA_SPECIALOFFENSIVE_TEASER,Coming Soon: Special Offensive
 ID_MOTD_DE_SPECIALOFFENSIVE_TEASER,Earn raid team & Abomination shards!
 ID_MOTD_NA_SPECIALOFFENSIVE_ANNOUNCE,LIVE: Special Offensive
 ID_MOTD_DE_SPECIALOFFENSIVE_ANNOUNCE,Earn raid team & Abomination shards!
+ID_MOTD_NA_THEFIRSTPANTHER_TEASER,Back to the Beginning
+ID_MOTD_DE_THEFIRSTPANTHER_TEASER,Recruit Black Panther (1MM) during the The First Panther Event!
+ID_MOTD_NA_THEFIRSTPANTHER_ANNOUNCE,LIVE: The First Panther
+ID_MOTD_DE_THEFIRSTPANTHER_ANNOUNCE,Recruit Black Panther (1MM) by participating in November Events!
+ID_MOTD_NA_SPLASH_SAVAGESUPERIOR,LIVE: Savage Superior
+ID_MOTD_DE_SPLASH_SAVAGESUPERIOR,Blitz with Uncanny X-Men to earn Vibranium Meteorites and Iso-8!
+ID_MOTD_NA_SPLASH_WAKANDAFOREVER,LIVE: Wakanda Forever
+ID_MOTD_DE_SPLASH_WAKANDAFOREVER,Blitz with Wakandan to earn Vibranium Meteorites and Gear!
+ID_MOTD_NA_SPLASH_HOLIDAYRUMBLE,LIVE: Holiday Rumble
+ID_MOTD_DE_SPLASH_HOLIDAYRUMBLE,Blitz with Guardians to earn Vibranium Meteorites and Ability Mats!
+ID_MOTD_NA_SPLASH_MERRYXMEN,LIVE: Merry X-Men
+ID_MOTD_DE_SPLASH_MERRYXMEN,Blitz with Astonishing X-Men to earn Vibranium Meteorites and Orbs!
+ID_MOTD_NA_BLACKPANTHER1MM_PREVIEW,Coming Soon: Black Panther (1MM)
+ID_MOTD_DE_BLACKPANTHER1MM_PREVIEW,Prepare for this Brawler from the past!
+ID_MOTD_NA_BLACKPANTHER1MM_ANNOUNCE,Recruit Now: Black Panther (1MM)
+ID_MOTD_DE_BLACKPANTHER1MM_ANNOUNCE,The Stone Age Brawler

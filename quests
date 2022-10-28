@@ -1956,3 +1956,40 @@ ID_QU_SM_SPECIALOFFENSIVE,"Earn Raid Credits, Spend Campaign Energy"
 ID_QU_SC_SPECIALOFFENSIVE,"Earn Raid Credits, Spend Campaign Energy"
 ID_QU_S1_SPECIALOFFENSIVE,Earn 1 Raid Credit
 ID_QU_S2_SPECIALOFFENSIVE,Spend 1 Campaign Energy
+ID_QU_NA_THEFIRSTPANTHER,The First Panther
+ID_QU_SD_THEFIRSTPANTHER,Participate in November Events
+ID_QU_LM_THEFIRSTPANTHER,Participate in various events throughout the month of November to earn milestone progress.
+ID_QU_S1_THEFIRSTPANTHER,Collect Vibranium Meteorites
+ID_QU_S2_THEFIRSTPANTHER,Collect 1 Panther Pelt
+ID_QU_S3_THEFIRSTPANTHER,Collect 1 Ancient Claw Necklace
+ID_QU_S4_THEFIRSTPANTHER,Collect 1 Razor-Sharp Claws
+ID_QU_S5_THEFIRSTPANTHER,Collect 1 Heart-Shaped Herb
+ID_QU_SM_SPLASH_THEFIRSTPANTHER,Spend Campaign Energy to earn Vibranium Meteorites
+ID_QU_NA_SPLASH_SAVAGESUPERIOR,Savage Superior
+ID_QU_SD_SPLASH_SAVAGESUPERIOR,Use Uncanny X-Men in Blitz
+ID_QU_LM_SPLASH_SAVAGESUPERIOR,Earn points by using Uncanny X-Men characters in Blitz Battles. Earn more points if your Uncanny X-Men characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_SAVAGESUPERIOR,Use Uncanny X-Men Characters in Blitz
+ID_QU_S1_SPLASH_SAVAGESUPERIOR,Win a Blitz battle with any 3-star or higher Uncanny X-Men Character
+ID_QU_S2_SPLASH_SAVAGESUPERIOR,Win a Blitz battle with any 5-star or higher Uncanny X-Men Character
+ID_QU_S3_SPLASH_SAVAGESUPERIOR,Win a Blitz battle with any 7-star Uncanny X-Men Character
+ID_QU_NA_SPLASH_WAKANDAFOREVER,Wakanda Forever
+ID_QU_SD_SPLASH_WAKANDAFOREVER,Use Wakandan in Blitz
+ID_QU_LM_SPLASH_WAKANDAFOREVER,Earn points by using Wakandan characters in Blitz Battles. Earn more points if your Wakandan characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_WAKANDAFOREVER,Use Wakandan Characters in Blitz
+ID_QU_S1_SPLASH_WAKANDAFOREVER,Win a Blitz battle with any 3-star or higher Wakandan Character
+ID_QU_S2_SPLASH_WAKANDAFOREVER,Win a Blitz battle with any 5-star or higher Wakandan Character
+ID_QU_S3_SPLASH_WAKANDAFOREVER,Win a Blitz battle with any 7-star Wakandan Character
+ID_QU_NA_SPLASH_HOLIDAYRUMBLE,Holiday Rumble
+ID_QU_SD_SPLASH_HOLIDAYRUMBLE,Use Guardians in Blitz
+ID_QU_LM_SPLASH_HOLIDAYRUMBLE,Earn points by using Guardians characters in Blitz Battles. Earn more points if your Guardians characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_HOLIDAYRUMBLE,Use Guardians Characters in Blitz
+ID_QU_S1_SPLASH_HOLIDAYRUMBLE,Win a Blitz battle with any 3-star or higher Guardians Character
+ID_QU_S2_SPLASH_HOLIDAYRUMBLE,Win a Blitz battle with any 5-star or higher Guardians Character
+ID_QU_S3_SPLASH_HOLIDAYRUMBLE,Win a Blitz battle with any 7-star Guardians Character
+ID_QU_NA_SPLASH_MERRYXMEN,Merry X-Men
+ID_QU_SD_SPLASH_MERRYXMEN,Use Astonishing X-Men in Blitz
+ID_QU_LM_SPLASH_MERRYXMEN,Earn points by using Astonishing X-Men characters in Blitz Battles. Earn more points if your Astonishing X-Men characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_MERRYXMEN,Use Astonishing X-Men Characters in Blitz
+ID_QU_S1_SPLASH_MERRYXMEN,Win a Blitz battle with any 3-star or higher Astonishing X-Men Character
+ID_QU_S2_SPLASH_MERRYXMEN,Win a Blitz battle with any 5-star or higher Astonishing X-Men Character
+ID_QU_S3_SPLASH_MERRYXMEN,Win a Blitz battle with any 7-star Astonishing X-Men Character
