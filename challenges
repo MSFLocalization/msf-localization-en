@@ -1445,6 +1445,8 @@ ID_EVENT_HALLOWEEN22_CH1_FLAVOR," "
 ID_EVENT_HALLOWEEN22_CH2_NAME,Zombie Party
 ID_EVENT_HALLOWEEN22_CH2_DESC,Bring a zombie\nto eat their brains...\nand press the advantage\nuntil nothing remains!\n\nMissions in Zombie Party require Iron Man (Zombie) in the team.
 ID_EVENT_HALLOWEEN22_CH2_FLAVOR,Requires Iron Man (Zombie)
+ID_EVENT_HALLOWEEN22_V2_CH2_NAME,Zombie After Party
+ID_EVENT_HALLOWEEN22_V2_CH2_DESC,The dead have risen\ntheir tombs are empty\nbefore they return\nthey must feast on plenty!\n\nThe Zombie After Party missions require Iron Man (Zombie) in the team at certain Star Unlocks and higher.
 ID_EVENT_HALLOWEEN22_NOTIF_TYPE,To help your zombie stay off the floor\nThis mission now counts as WAR!
 ID_INFO_NA_HELLICARRIERCLASH,Helicarrier Clash
 ID_INFO_DE_HELLICARRIERCLASH,Training Modules & Organic Webbing!
@@ -1467,3 +1469,6 @@ ID_INFO_BO_SPECIALOFFENSIVE,Earn <color=#fff568>Abomination shards</color> with 
 ID_INFO_NA_THEFIRSTPANTHER,The First Panther
 ID_INFO_DE_THEFIRSTPANTHER,Recruit Black Panther (1MM) throughout November!
 ID_INFO_BO_THEFIRSTPANTHER,"Earn points toward this month-long milestone by collecting Vibranium Meteorites, Panther Pelt, Ancient Claw Necklace, Razor-Sharp Claws, and Heart-Shaped Herb from November events. Vibranium Meteorites will also be available in Daily Web Milestones and Free Claim Fridays throughout the month.\n\nThere will be several separate Milestone Events that provide progress towards the <color=#fff568>The First Panther Milestone</color>. Earn up to 180 Black Panther (1MM) Shards from various milestones!\n\nEarn at least 200,000 points to qualify for this blind Leaderboard rewarding Armory 17 Orb Fragments for the top 25 and T2 Level 5 Ions for the top 2% of players. Other competitors can earn Training Orb fragments, Teal and Orange Raid Orbs, and Milestone III Orbs!"
+ID_INFO_NA_POCKETDIMENSION202211,Pocket Dimension
+ID_INFO_DE_POCKETDIMENSION202211,Earn Gambit shards!
+ID_INFO_BO_POCKETDIMENSION202211,Earn <color=#fff568>Gambit shards</color> in the latest <color=#fff568>Pocket Dimension</color>\n\nComplete a series of 10 limited-time missions with the following requirements:\n- 5 characters with the <color=#fff568>AVENGING ASGARD</color> trait.\n - Level 65\n\n Rewards include:\n- Gambit shards\n- fully crafted Teal and Orange gear\n- Gold and Silver Promotion Credits\n- And more!

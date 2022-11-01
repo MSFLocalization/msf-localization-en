@@ -2717,6 +2717,10 @@ ID_EVENT_HALLOWEEN22_CH2M1_DESC,Iron Man (Zombie) and 3-Star (or better) charact
 ID_EVENT_HALLOWEEN22_CH2M2_DESC,Iron Man (Zombie) and 4-Star (or better) characters
 ID_EVENT_HALLOWEEN22_CH2M3_DESC,Iron Man (Zombie) and 5-Star (or better) characters
 ID_EVENT_HALLOWEEN22_CH2M4_DESC,Iron Man (Zombie) and 6-Star (or better) characters
+ID_EVENT_HALLOWEEN22_V2_CH2M1_DESC,Iron Man (Zombie) at 3-Star+ and any other characters at 3-Star+
+ID_EVENT_HALLOWEEN22_V2_CH2M2_DESC,Iron Man (Zombie) at 4-Star+ and any other characters at 4-Star+
+ID_EVENT_HALLOWEEN22_V2_CH2M3_DESC,Iron Man (Zombie) at 5-Star+ and any other characters at 5-Star+
+ID_EVENT_HALLOWEEN22_V2_CH2M4_DESC,Iron Man (Zombie) at 6-Star+ and any other characters at 6-Star+
 ID_ECM_ROGUE_01_NAME,Home Again
 ID_ECM_ROGUE_01_DESC,"After a tough series of missions, Rogue and Gambit return to the X-Mansion for some rest."
 ID_ECM_ROGUE_02_NAME,Old Wounds
