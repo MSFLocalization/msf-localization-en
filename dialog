@@ -9710,6 +9710,87 @@ ID_DIALOG_ECM_SPIDERWEAVER_09_END_5,Seems like you'll have your hands full soon.
 ID_DIALOG_ECM_SPIDERWEAVER_09_END_6,"Whenever you need us, we'll be there."
 ID_DIALOG_ECM_SPIDERWEAVER_09_END_7,"Thanks, friends. I worry we won't be the only targets of whatever calamity she says is coming."
 ID_DIALOG_ECM_SPIDERWEAVER_09_END_8,"But for now, this place is giving me the heebie-jeebies! I'll make sure we're all home for dinner."
+ID_DIALOG_ECM_NAKIA_01_INTRO_0,"I know this is a dream, but it feels so real."
+ID_DIALOG_ECM_NAKIA_01_INTRO_1,Nakia!
+ID_DIALOG_ECM_NAKIA_01_INTRO_2,Who... what are you?
+ID_DIALOG_ECM_NAKIA_01_END_0,"You are worthy, Nakia."
+ID_DIALOG_ECM_NAKIA_01_END_1,Wakanda is in danger.
+ID_DIALOG_ECM_NAKIA_01_END_2,In danger? What do you mean?
+ID_DIALOG_ECM_NAKIA_01_END_3,Seek out Natasha Romanoff.
+ID_DIALOG_ECM_NAKIA_02_INTRO_0,...You want more?! Okay... if you insist...
+ID_DIALOG_ECM_NAKIA_02_INTRO_1,"No! No! No! I'll tell you anything, just don't-"
+ID_DIALOG_ECM_NAKIA_02_INTRO_2,Natasha!
+ID_DIALOG_ECM_NAKIA_02_INTRO_3,Nakia? What are you doing here?
+ID_DIALOG_ECM_NAKIA_02_INTRO_4,I need your help.
+ID_DIALOG_ECM_NAKIA_02_INTRO_5,It will have to wait. My friend here has some new visitors that just walked in...
+ID_DIALOG_ECM_NAKIA_02_END_0,"So, are you going to disappear on me like your other spy friends?"
+ID_DIALOG_ECM_NAKIA_02_END_1,What are you talking about?
+ID_DIALOG_ECM_NAKIA_02_END_2,"I've been coordinating with various War Dogs, but they all started ghosting me."
+ID_DIALOG_ECM_NAKIA_02_END_3,That's not like us. Something is wrong. Where was your most recent contact?
+ID_DIALOG_ECM_NAKIA_02_END_4,New York. We were about to make an exchange there.
+ID_DIALOG_ECM_NAKIA_02_END_5,Then we must go there. I will show you.
+ID_DIALOG_ECM_NAKIA_03_INTRO_0,"We were using this alley as our dead drop location, but then my contact went silent."
+ID_DIALOG_ECM_NAKIA_03_INTRO_1,Their cover must have been compromised.
+ID_DIALOG_ECM_NAKIA_03_INTRO_2,War Dogs are highly discreet. They are not exposed so easily.
+ID_DIALOG_ECM_NAKIA_03_INTRO_3,"Well, somebody knew he was here. "
+ID_DIALOG_ECM_NAKIA_03_INTRO_4,And I think we're about to find out who...
+ID_DIALOG_ECM_NAKIA_03_END_0,"Nakia, our War Dogs around the globe are being hunted."
+ID_DIALOG_ECM_NAKIA_03_END_1,By whom?
+ID_DIALOG_ECM_NAKIA_03_END_2,"We don't know, but we do have a lead."
+ID_DIALOG_ECM_NAKIA_03_END_3,Our tracking systems are showing that the equipment stolen from your location is now being moved to the nearby docks.
+ID_DIALOG_ECM_NAKIA_03_END_4,Heading there now!
+ID_DIALOG_ECM_NAKIA_04_INTRO_0,This stuff is heavy!
+ID_DIALOG_ECM_NAKIA_04_INTRO_1,Stop your whinin' and get those boxes on the boat!
+ID_DIALOG_ECM_NAKIA_04_INTRO_2,Those belong to Wakanda. Put them down!
+ID_DIALOG_ECM_NAKIA_04_INTRO_3,"Lady, the only thing that's going to get put down is you!"
+ID_DIALOG_ECM_NAKIA_04_END_0,We have recovered the stolen equipment. They are seeking Vibranium!
+ID_DIALOG_ECM_NAKIA_04_END_1,I was afraid of that. Recover what you can.
+ID_DIALOG_ECM_NAKIA_05_INTRO_0,They know our every move it seems. We must be extra careful.
+ID_DIALOG_ECM_NAKIA_05_INTRO_1,"Nakia, you could be the target of one of these attacks. Watch your back."
+ID_DIALOG_ECM_NAKIA_05_INTRO_2,"Well, that was easy."
+ID_DIALOG_ECM_NAKIA_05_INTRO_3,The boss said that she'd show up at the docks. And here she is!
+ID_DIALOG_ECM_NAKIA_05_INTRO_4,Hand over the Vibranium! Or join your other War Dog friends.
+ID_DIALOG_ECM_NAKIA_05_END_0,"Nakia, some of them are splitting off trying to escape! I'm going after them!"
+ID_DIALOG_ECM_NAKIA_06_INTRO_0,"Hold it right there, Kingpin!"
+ID_DIALOG_ECM_NAKIA_06_INTRO_1,"Oh no! It's an ""Avenger""!"
+ID_DIALOG_ECM_NAKIA_06_INTRO_2,"I'm not scared of you, Widow. The people I'm working with now are way out of your league."
+ID_DIALOG_ECM_NAKIA_06_INTRO_3,And they happen to want this shiny Vibranium.
+ID_DIALOG_ECM_NAKIA_06_INTRO_4,...which I'm about to take from you.
+ID_DIALOG_ECM_NAKIA_06_END_0,"Nice work, but things have taken a turn for the worse."
+ID_DIALOG_ECM_NAKIA_06_END_1,We have reports of an underground base right here on the edge of Wakanda.
+ID_DIALOG_ECM_NAKIA_06_END_2,How is this possible?!
+ID_DIALOG_ECM_NAKIA_06_END_3,I do not know. But we could use your infiltration skills.
+ID_DIALOG_ECM_NAKIA_07_INTRO_0,Welcome to our new Vibranium mining facility!
+ID_DIALOG_ECM_NAKIA_07_INTRO_1,Mining facility?!  You do not belong here in Wakanda!
+ID_DIALOG_ECM_NAKIA_07_INTRO_2,Are you sure about that? One of your people invited us here.
+ID_DIALOG_ECM_NAKIA_07_INTRO_3,No Wakandan would allow this.
+ID_DIALOG_ECM_NAKIA_07_INTRO_4,Can I please punch the smirk off this guy's face now?
+ID_DIALOG_ECM_NAKIA_07_END_0,Who would let them in here?
+ID_DIALOG_ECM_NAKIA_07_END_1,Me.
+ID_DIALOG_ECM_NAKIA_07_END_2,Okoye?!
+ID_DIALOG_ECM_NAKIA_08_INTRO_0,I'm not the Okoye of this world. I am bound to serve MY Wakanda... and our greater ruler.
+ID_DIALOG_ECM_NAKIA_08_INTRO_1,"""Greater ruler""? Wakanda serves no one!"
+ID_DIALOG_ECM_NAKIA_08_INTRO_2,"It is nothing personal, Nakia. We just need all your Vibranium."
+ID_DIALOG_ECM_NAKIA_08_INTRO_3,I'm not betraying my own people like you have.
+ID_DIALOG_ECM_NAKIA_08_INTRO_4,You are just as stubborn as the other War Dogs that I have put to rest.
+ID_DIALOG_ECM_NAKIA_08_END_0,I cannot believe that Wakandans from ANY universe would bow to someone else.
+ID_DIALOG_ECM_NAKIA_08_END_1,"That is because you know little beyond your borders. I, Namor, am the ruler of my world."
+ID_DIALOG_ECM_NAKIA_08_END_2,"Our Wakanda fell long ago, and the Vibranium scraped clean from its belly."
+ID_DIALOG_ECM_NAKIA_08_END_3,My path to becoming even more powerful is simple: acquire more Vibranium.
+ID_DIALOG_ECM_NAKIA_08_END_4,"I would like to personally invite you to meet me here in Japan, so we can discuss how you can help me achieve this goal."
+ID_DIALOG_ECM_NAKIA_09_INTRO_0,Thank you for coming and entertaining my request on such short notice.
+ID_DIALOG_ECM_NAKIA_09_INTRO_1,There is nothing to discuss.
+ID_DIALOG_ECM_NAKIA_09_INTRO_2,Nakia! He is holding me captive until you help him. Please do as he asks.
+ID_DIALOG_ECM_NAKIA_09_INTRO_3,T'Challa?
+ID_DIALOG_ECM_NAKIA_09_INTRO_4,"See, Nakia? Perhaps we do have something to discuss."
+ID_DIALOG_ECM_NAKIA_09_INTRO_5,"Don't trust him, Nakia!"
+ID_DIALOG_ECM_NAKIA_09_INTRO_6,...
+ID_DIALOG_ECM_NAKIA_09_INTRO_7,"I am sorry, T'Challa. Whatever Namor has done to you, it is too late."
+ID_DIALOG_ECM_NAKIA_09_INTRO_8,Wakanda Forever!
+ID_DIALOG_ECM_NAKIA_09_START_0,"I told you, she isn't so easily deceived!"
+ID_DIALOG_ECM_NAKIA_09_START_1,No matter. Get rid of her so we can resume operations.
+ID_DIALOG_ECM_NAKIA_09_END_0,"Thank you, Natasha, for all that you have done. Wakanda is in debt to you."
+ID_DIALOG_ECM_NAKIA_09_END_1,The War Dogs have helped me out of many bad situations. There is no debt.
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
