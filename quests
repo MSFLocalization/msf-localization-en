@@ -1993,3 +1993,24 @@ ID_QU_SC_SPLASH_MERRYXMEN,Use Astonishing X-Men Characters in Blitz
 ID_QU_S1_SPLASH_MERRYXMEN,Win a Blitz battle with any 3-star or higher Astonishing X-Men Character
 ID_QU_S2_SPLASH_MERRYXMEN,Win a Blitz battle with any 5-star or higher Astonishing X-Men Character
 ID_QU_S3_SPLASH_MERRYXMEN,Win a Blitz battle with any 7-star Astonishing X-Men Character
+ID_QU_NA_COMMANDERSCACHE,Commander's Cache
+ID_QU_SD_COMMANDERSCACHE,"Spend Gold & Power Cores, War"
+ID_QU_LD_COMMANDERSCACHE,"Earn First Panther progress with Vibranium Meteorites and the Ancient Claw Necklace, along with lucrative milestones and leaderboard rewards.\n\n- Red Stars for Black Panther (1MM)\n- T2 Level 5 Ions\n- Armory 17 Orbs\n- T4 Ability Materials\n- Teal Mini-Uniques\n- 5-Red Star Okoye\n- And more!"
+ID_QU_SM_COMMANDERSCACHE,"Spend Gold & Power Cores, Battle in War"
+ID_QU_SC_COMMANDERSCACHE,"Spend Gold & Power Cores, Battle in War"
+ID_QU_S1_COMMANDERSCACHE,Spend 1 Gold
+ID_QU_S2_COMMANDERSCACHE,Spend 1 Power Core
+ID_QU_S3_COMMANDERSCACHE,Battle in War
+ID_QU_NA_STRIKESALUTE,S.T.R.I.K.E. Salute
+ID_QU_SD_STRIKESALUTE,"Spend Energy, Collect Tokens"
+ID_QU_LD_STRIKESALUTE,"We salute all Commanders! Spend Campaign Energy and collect S.T.R.I.K.E. Salute Tokens from Daily Objectives, the Care Package Web Milestone, and the Daily Free Claim on our website to earn points toward this 7-day milestone. Rewards include:\n\n- Gold\n- L4 Training Modules\n- Ikaris and Sersi character shards\n- Spider-Weaver character shards\n- Launch Party Orbs"
+ID_QU_SM_STRIKESALUTE,"Spend Campaign Energy, Collect Tokens"
+ID_QU_SC_STRIKESALUTE,"Spend Campaign Energy, Collect Tokens"
+ID_QU_S1_STRIKESALUTE,Spend 1 Campaign Energy
+ID_QU_S2_STRIKESALUTE,Collect 1 S.T.R.I.K.E. Salute Token
+ID_QU_NA_CAREPACKAGE,Care Package
+ID_QU_SD_CAREPACKAGE,Earn Alliance Credits
+ID_QU_LD_CAREPACKAGE,Earn Alliance Credits to complete a daily milestone that rewards S.T.R.I.K.E. Salute Tokens and earn points towards the S.T.R.I.K.E. Salute milestone!
+ID_QU_SM_CAREPACKAGE,Earn Alliance Credits
+ID_QU_SC_CAREPACKAGE,Earn Alliance Credits
+ID_QU_S1_CAREPACKAGE,Earn 1 Alliance Credit

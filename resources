@@ -195,10 +195,10 @@ ID_EVENT_CUR16_NAME,Night of the Spider Evidence
 ID_EVENT_CUR16_DESCRIPTION,Collect Evidence to earn additional progress in the Night of the Spider Milestone. Check your Inbox each day for a Clue hinting at the location of that day's Evidence!
 ID_EVENT_CUR17_NAME,Ethereal Arms Milestone Point
 ID_EVENT_CUR17_DESCRIPTION,These points earn you additional progress in the Ethereal Arms Milestone. Earn them in the Destined Connections Milestone or limited offers!
-ID_EVENT_CUR18_NAME,PhD
-ID_EVENT_CUR18_DESCRIPTION,Collect PhDs during the Brains as Brawn Event. Spend them in the PhD Event Store!
-ID_EVENT_CUR19_NAME,Event Currency 19
-ID_EVENT_CUR19_DESCRIPTION,Used to do Event Currency 19 related things.
+ID_EVENT_CUR18_NAME,Commander's Cache Milestone Points
+ID_EVENT_CUR18_DESCRIPTION,These points earn you additional progress in the Commander's Cache Milestone.
+ID_EVENT_CUR19_NAME,S.T.R.I.K.E. Salute Tokens
+ID_EVENT_CUR19_DESCRIPTION,"These points earn you additional progress in the S.T.R.I.K.E. Salute Milestone. Earn them in Daily Objectives, the Care Package Web Milestone, and the Daily Free Gifts on our website."
 ID_PROMOTION_CUR_NAME,Silver Promotion Credit
 ID_PROMOTION_CUR_DESCRIPTION,Used to promote specific characters (up to 5 Red Stars).\n\nBuy Red Star Promotions from the Supplies Store.
 ID_PROMOTION_CUR_ADV_NAME,Gold Promotion Credit
