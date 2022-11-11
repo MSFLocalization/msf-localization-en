@@ -618,3 +618,48 @@ ID_OF_DE_EVENT_BLACKFRIDAY2022_GHOSTSPIDER_C10,Web up this exclusive Cyber Monda
 ID_OF_DE_EVENT_BLACKFRIDAY2022_CLOAKDAGGER_C10,Take advantage of this Black Friday Sneak Peek team up bundle of Cloak and Dagger shards and get an additional {var1} Armory 15 Orbs when you buy now! Continue checking back the store for more valuable offers all month long!
 ID_OF_DE_EVENT_BLACKFRIDAY2022_RSDRAFT_CLOAKDAGGER_C25,"Don't miss out on this <color=#fff500>exclusive Black Friday Sneak Peek</color> offer! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) <color=#fff568>Cloak</color> or <color=#fff568>Dagger</color>! Continue checking back the store for more offers this month!"
 ID_OF_DE_EVENT_BLACKFRIDAY2022_RSDRAFT_WEBWARRIOR_C20,"Don't miss out on this <color=#fff500>exclusive Cyber Monday Sneak Peek</color> offer! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Web Warrior</color> characters! Continue checking back the store for more offers this month!"
+ID_OF_NA_COMMANDERSCACHE_STARTER_MEGA,Commander's Cache Mega Starter
+ID_OF_DE_COMMANDERSCACHE_STARTER_VAR1,"Stock up on <color=#fff568>{var2} Commander's Cache Milestone Points</color> and more, worth over {var3}% of the milestones! Get a head start on the <color=#fff568>Commander's Cache Milestone</color> now."
+ID_OF_NA_COMMANDERSCACHE_STARTER_BIG,Commander's Cache Super Starter
+ID_OF_DE_COMMANDERSCACHE_STARTER_VAR2,"Get ahead on the <color=#fff568>Commander's Cache</color> milestones and leaderboards for <color=#fff568>The First Panther</color> progress, <color=#fff568>Black Panther (1MM) Red Star promotions</color> and more!"
+ID_OF_NA_COMMANDERSCACHE_STARTER_MEDIUM,Commander's Cache Starter Bundle
+ID_OF_NA_COMMANDERSCACHE_DAILYCORES,Daily Core Investment
+ID_OF_DE_COMMANDERSCACHE_DAILYCORES,Take advantage of this great bundle to boost your <color=#fff568>Commander's Cache Milestone</color> progress by {var2} points!
+ID_OF_NA_COMMANDERSCACHE_DAILYENERGY,Daily Commander's Salute
+ID_OF_DE_COMMANDERSCACHE_DAILYENERGY,Progress in both the <color=#fff568>S.T.R.I.K.E. Salute Milestone</color> and <color=#fff568>Commander's Cache Milestone</color> at once!
+ID_OF_NA_COMMANDERSCACHE_DAILYGOLD,Daily Deposit
+ID_OF_DE_COMMANDERSCACHE_DAILYGOLD,Stock up on these riches worth a total of <color=#fff568>{var2} Commander's Cache Milestone Points</color>!
+ID_OF_NA_STRIKESALUTE_DAILYFREE,Web-Exclusive S.T.R.I.K.E. Salute Gift
+ID_OF_DE_STRIKESALUTE_DAILYFREE,"We salute you, Commander! Claim this gift for progress in the <color=#fff568>S.T.R.I.K.E. Salute milestone</color>. Don't miss out on the one-time offer after claiming this gift!"
+ID_OF_NA_COMMANDERSCACHE_DAILYINSTERSTITIAL,Web-Exclusive Commander's Cache Deal
+ID_OF_DE_COMMANDERSCACHE_DAILYINSTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Commander's Cache</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_STRIKESALUTE_10FOR10,10 for 10
+ID_OF_DE_STRIKESALUTE_10FOR10,"<color=#fff568>S.T.R.I.K.E. salutes you, Commander!</color> Check back each day for a new 10 for 10 deal!"
+ID_OF_NA_COMMANDERSCACHE_DIRECTPOINTS,Treasury Booster Pack
+ID_OF_DE_COMMANDERSCACHE_DIRECTPOINTS,Two in one! Get more mileage out of your Power Cores by reedeeming them directly for additional <color=#fff568>{var1} Commander's Cache Milestone Points</color>!
+ID_OF_NA_COMMANDERSCACHE_DIRECT_GT,Armory Booster
+ID_OF_DE_COMMANDERSCACHE_DIRECT_GT,Take advantage of this great deal on Armory {var4} Orb Fragments!
+ID_OF_NA_COMMANDERSCACHE_POINTS,Treasury Booster
+ID_OF_DE_COMMANDERSCACHE_POINTS,Fast track your progress in the <color=#fff568>Commander's Cache Milestone</color> with this amazing deal! Complete milestones and climb up the leaderboard ranks for exclusive <color=#fff568>Black Panther (1MM) Red Stars</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_NA_COMMANDERSCACHE_MEGA,Commander's Cache Web-Exclusive Bundle
+ID_OF_DE_COMMANDERSCACHE_MEGA,Boost your <color=#fff568>Commander's Cache Milestone</color> progress with this spectacular deal!
+ID_OF_NA_COMMANDERSCACHE_LASTCHANCE,Commander's Cache Last Chance Bundle
+ID_OF_DE_COMMANDERSCACHE_LASTCHANCE,Stash your Cache before it's too late to get your final <color=#fff568>Commander's Cache Milestone</color> rewards!
+ID_OF_NA_COMMANDERSCACHE_CATCHUP_1,Commander's Cache Catch-Up Bundle
+ID_OF_DE_COMMANDERSCACHE_CATCHUP_1,Take advantage of this spectacular deal and obtain your final <color=#fff568>Commander's Cache</color> milestone rewards! Get an edge on the <color=#fff568>leaderboard</color> for exclusive <color=#fff568>Black Panther (1MM) Red Stars</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_NA_COMMANDERSCACHE_CATCHUP_2,Commander's Cache Super Catch-Up Bundle
+ID_OF_DE_COMMANDERSCACHE_CATCHUP_2,Take advantage of this spectacular deal and obtain your final <color=#fff568>Commander's Cache</color> milestone rewards! Get an edge on the <color=#fff568>leaderboard</color> for exclusive <color=#fff568>Black Panther (1MM) Red Stars</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_NA_COMMANDERSCACHE_MEGAGOLD,Web-Exclusive Secret Stash
+ID_OF_DE_COMMANDERSCACHE_MEGAGOLD,"Stock up on these web-exclusive riches, worth a total of <color=#fff568>{var2} Commander's Cache Milestone Points</color>!"
+ID_OF_NA_COMMANDERSCACHE_WAR,Arms Race
+ID_OF_DE_COMMANDERSCACHE_WAR,Help your Alliance win the War and boost your <color=#fff568>Commander's Cache Milestone</color> progress at once!\n*Items ignore resource capacity
+ID_OF_NA_COMMANDERSCACHE_DIRECT_SBC,Catalyst Booster
+ID_OF_DE_COMMANDERSCACHE_DIRECT_SBC,Take advantage of this great deal on Superior Basic Catalyst Parts!
+ID_OF_NA_COMMANDERSCACHE_DIRECT_SPC,Promotion Booster
+ID_OF_DE_COMMANDERSCACHE_DIRECT_SPC,Take advantage of this great deal on Silver Promotion Credits!
+ID_OF_NA_COMMANDERSCACHE_ISO,ISO Booster
+ID_OF_DE_COMMANDERSCACHE_ISO,Take advantage of this great deal on T2 Level 4 Ions!
+ID_OF_NA_COMMANDERSCACHE_ABMATS,Ability Booster
+ID_OF_DE_COMMANDERSCACHE_ABMATS,Take advantage of this great deal on T3 Ability Materials!
+ID_OF_NA_COMMANDERSCACHE_ABC,Catalyst Booster
+ID_OF_DE_COMMANDERSCACHE_ABC,Take advantage of this great deal on Advanced Basic Catalysts!

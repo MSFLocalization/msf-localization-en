@@ -387,6 +387,13 @@ ID_QU_SC_SPLASH_YOUNGAVENGERS,Use Young Avengers Characters in Blitz
 ID_QU_S1_SPLASH_YOUNGAVENGERS,Win a Blitz battle with any 3-star or higher Young Avengers Character
 ID_QU_S2_SPLASH_YOUNGAVENGERS,Win a Blitz battle with any 5-star or higher Young Avengers Character
 ID_QU_S3_SPLASH_YOUNGAVENGERS,Win a Blitz battle with any 7-star Young Avengers Character
+ID_QU_NA_SPLASH_BIONICAVENGERS,Biomechanical Beatdown
+ID_QU_SD_SPLASH_BIONICAVENGERS,Use Bionic Avengers in Blitz
+ID_QU_LM_SPLASH_BIONICAVENGERS,Earn points by using Bionic Avengers characters in Blitz Battles. Earn more points if your Bionic Avengers characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_BIONICAVENGERS,Use Bionic Avengers Characters in Blitz
+ID_QU_S1_SPLASH_BIONICAVENGERS,Win a Blitz battle with any 3-star or higher Bionic Avengers Character
+ID_QU_S2_SPLASH_BIONICAVENGERS,Win a Blitz battle with any 5-star or higher Bionic Avengers Character
+ID_QU_S3_SPLASH_BIONICAVENGERS,Win a Blitz battle with any 7-star Bionic Avengers Character
 ID_QUEST_KNOCKOUT_GENERIC,Knock out any enemy with any character
 ID_QUEST_DAMAGE_GENERIC,Do damage with any character
 ID_QUEST_ABILITY_GENERIC,Use any ability with any character
@@ -2014,3 +2021,4 @@ ID_QU_LD_CAREPACKAGE,Earn Alliance Credits to complete a daily milestone that re
 ID_QU_SM_CAREPACKAGE,Earn Alliance Credits
 ID_QU_SC_CAREPACKAGE,Earn Alliance Credits
 ID_QU_S1_CAREPACKAGE,Earn 1 Alliance Credit
+ID_QU_NA_NOVEMBERALLIANCE2022,Coordinated Assault

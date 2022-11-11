@@ -768,6 +768,10 @@ ID_OF_DE_MSMARVEL_OFFER_1,Get a <color=#fff568>1-star Ms. Marvel</color> guarant
 ID_OF_DE_MSMARVEL_OFFER_2,Get a <color=#fff568>1-star Ms. Marvel</color> guaranteed with this offer! Each orb has a chance to earn up to 25 shards.
 ID_OF_NA_MORB_MSMARVEL_1,Ms. Marvel Orb Fragment Offer
 ID_OF_DE_MORB_MSMARVEL_500,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>500 Ms. Marvel Orb Fragments</color> with this offer.
+ID_GACHA_CRATE_EVENT_CAMPAIGN_NAKIA_202211_NAME,Covert Orb
+ID_GACHA_CRATE_EVENT_CAMPAIGN_NAKIA_202211_DESCRIPTION,Earn Covert Orb Fragments in the Dogs of War Event Campaign.
+ID_GACHA_CRATE_EVENT_CAMPAIGN_NAKIA_202211_TOKEN_NAME,Covert Orb Fragments
+ID_GACHA_CRATE_EVENT_CAMPAIGN_NAKIA_202211_TOKEN_DESCRIPTION,Collect Covert Orb Fragments in the Dogs of War Event Campaign to earn Covert Orbs.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_PSYLOCKE_201905_NAME,Psychic Dojo Orb
 ID_GACHA_CRATE_EVENT_CAMPAIGN_PSYLOCKE_201905_DESCRIPTION,Earn Psychic Dojo Orb Fragments in the Move In Shadows Event Campaign.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_PSYLOCKE_201905_TOKEN_NAME,Psychic Dojo Orb Fragments
@@ -2792,7 +2796,7 @@ ID_OF_DE_MYSTIQUEGEAR_OFFER_50,Get this amazing bundle and power up Mystique. Ge
 ID_GACHA_CRATE_FCO_NAKIA_SPECIAL_NAME,Adorned Spy Orb
 ID_GACHA_CRATE_FCO_NAKIA_SPECIAL_DESCRIPTION,Earn up to 180 Nakia shards
 ID_GACHA_CRATE_FCO_NAKIA_SPECIAL_TOKEN_NAME,Adorned Spy Orb Fragments
-ID_GACHA_CRATE_FCO_NAKIA_SPECIAL_TOKEN_DESCRIPTION,Collect Adorned Spy Orb Fragments to earn a Adorned Spy Orb.
+ID_GACHA_CRATE_FCO_NAKIA_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Adorned Spy Orbs that contain up to 180 Nakia character shards.
 ID_GACHA_CRATE_FCO_NAMOR_SPECIAL_NAME,Atlantean Prince Orb
 ID_GACHA_CRATE_FCO_NAMOR_SPECIAL_DESCRIPTION,Get up to 180 Namor shards
 ID_GACHA_CRATE_FCO_NAMOR_SPECIAL_TOKEN_NAME,Atlantean Prince Orb Fragments
