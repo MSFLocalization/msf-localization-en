@@ -2021,4 +2021,49 @@ ID_QU_LD_CAREPACKAGE,Earn Alliance Credits to complete a daily milestone that re
 ID_QU_SM_CAREPACKAGE,Earn Alliance Credits
 ID_QU_SC_CAREPACKAGE,Earn Alliance Credits
 ID_QU_S1_CAREPACKAGE,Earn 1 Alliance Credit
+ID_QU_NA_SPYGAMES,Spy Games
+ID_QU_SD_SPYGAMES,Earn Spy Games Milestone Points!
+ID_QU_LD_SPYGAMES,"Spend Power Cores, opening Covert Orbs for the Dead Drop Milestones and Blitz through the Sleeper Agents Web Milestones. Rewards include:\n\n- Vibranium Meteorites\n- Razor Sharp Claw\n- Nakia Gear and Iso-8 Resources\n- 5 Red Star Black Panther\n- Wakandan character shards\n- And more"
+ID_QU_SM_SPYGAMES,"Use Power Cores, Dead Drop, Sleeper Agents"
+ID_QU_SC_SPYGAMES,"Use Power Cores, Dead Drop, Sleeper Agents"
+ID_QU_S1_SPYGAMES,Earn 1 Spy Games Milestone Point
+ID_QU_S2_SPYGAMES,Spend 1 Power Core
+ID_QU_NA_DEADDROP,Dead Drop
+ID_QU_SD_DEADDROP,Open Covert Orbs
+ID_QU_LD_DEADDROP,Open Covert Orbs from the Nakia Event Campaign to earn gear and progress in the Spy Games Milestone.
+ID_QU_SM_DEADDROP,Open Covert Orbs
+ID_QU_SC_DEADDROP,Open Covert Orbs
+ID_QU_S1_DEADDROP,Open Covert Orbs
+ID_QU_NA_SLEEPERAGENTS,Sleeper Agents Web Milestone
+ID_QU_SD_SLEEPERAGENTS,Blitz with Covert
+ID_QU_LD_SLEEPERAGENTS,"Blitz to rack up points toward this 7-day web milestone. You'll earn more points with  Covert trait characters, and even more when they're equipped with Gear Tier 13+.  Milestone rewards that can be claimed on the web: Legacy III Orb Fragments, Silver Promotion Credits, and Gold Orb Fragments."
+ID_QU_SM_SLEEPERAGENTS,Blitz with Covert
+ID_QU_SC_SLEEPERAGENTS,Blitz with Covert
+ID_QU_S1_SLEEPERAGENTS,Blitz Win
+ID_QU_S2_SLEEPERAGENTS,Blitz Win with Covert
+ID_QU_S3_SLEEPERAGENTS,Blitz Win with Covert at Gear Tier 13+
+ID_QU_S4_SLEEPERAGENTS,Blitz Win with Covert at Gear Tier 15+
+ID_QU_S5_SLEEPERAGENTS,Collect Web UPCs
+ID_QU_NA_BATTLESCARS,Battle Scars
+ID_QU_SD_BATTLESCARS,Spend Event Campaign Energy
+ID_QU_LD_BATTLESCARS,"Spend Campaign Energy from the War Dogs Event Campaign, and by earning Nakia's Rings from the Powerful Paws and Roar of Wakanda milestones. Rewards include:\n\n- Bio Mini Uniques\n- Vibranium Meteorites\n- Heart-Shaped Herb\n- T2 L4 Ions\n- 1 Elite 6 Orb\n- And more!"
+ID_QU_SM_BATTLESCARS,Spend War Dog Energy and Earn Nakia's Rings
+ID_QU_SC_BATTLESCARS,Spend War Dog Energy and Earn Nakia's Rings
+ID_QU_S1_BATTLESCARS,Spend 1 War Dog Energy
+ID_QU_S2_BATTLESCARS,Earn 1 Nakia's Ring
+ID_QU_NA_POWERFULPAWS,Powerful Paws
+ID_QU_SD_POWERFULPAWS,Earn Power Cores
+ID_QU_LD_POWERFULPAWS,Earn Power Cores from your regular gameplay. Rewards include:\n\n- Vibranium Meteorites\n- Nakia's Rings\n- Armory 16 and 17 Orbs\n- Superior Catalyst Parts\n- And more!
+ID_QU_SM_POWERFULPAWS,Earn Power Cores
+ID_QU_SC_POWERFULPAWS,Earn Power Cores
+ID_QU_S1_POWERFULPAWS,Earn 1 Power Core
+ID_QU_NA_ROAROFWAKANDA,Roar of Wakanda
+ID_QU_SD_ROAROFWAKANDA,Use Wakandan characters in War
+ID_QU_LD_ROAROFWAKANDA,Play in Alliance War to score points in this milestone. Using Wakandan characters will earn additional points. Rewards include:\n\n- Vibranium Meteorites\n- Nakia's Rings\n- Elite War Credits\n- And more!
+ID_QU_SM_ROAROFWAKANDA,Spend Campaign Energy
+ID_QU_SC_ROAROFWAKANDA,Spend Campaign Energy
+ID_QU_S1_ROAROFWAKANDA,Play a War Battle with Wakandan
+ID_QU_S2_ROAROFWAKANDA,Play a War Battle with Wakandan at Gear Tier 13
+ID_QU_S3_ROAROFWAKANDA,Play a War Battle with Wakandan at Gear Tier 15
+ID_QU_S4_ROAROFWAKANDA,Play a War Battle with Wakandan at Gear Tier 16+
 ID_QU_NA_NOVEMBERALLIANCE2022,Coordinated Assault

@@ -618,6 +618,37 @@ ID_OF_DE_EVENT_BLACKFRIDAY2022_GHOSTSPIDER_C10,Web up this exclusive Cyber Monda
 ID_OF_DE_EVENT_BLACKFRIDAY2022_CLOAKDAGGER_C10,Take advantage of this Black Friday Sneak Peek team up bundle of Cloak and Dagger shards and get an additional {var1} Armory 15 Orbs when you buy now! Continue checking back the store for more valuable offers all month long!
 ID_OF_DE_EVENT_BLACKFRIDAY2022_RSDRAFT_CLOAKDAGGER_C25,"Don't miss out on this <color=#fff500>exclusive Black Friday Sneak Peek</color> offer! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) <color=#fff568>Cloak</color> or <color=#fff568>Dagger</color>! Continue checking back the store for more offers this month!"
 ID_OF_DE_EVENT_BLACKFRIDAY2022_RSDRAFT_WEBWARRIOR_C20,"Don't miss out on this <color=#fff500>exclusive Cyber Monday Sneak Peek</color> offer! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Web Warrior</color> characters! Continue checking back the store for more offers this month!"
+ID_OF_NA_SPYGAMES_STARTER_MEDIUM,Spy Games Starter Bundle
+ID_OF_DE_SPYGAMES_STARTER_VAR,Save <color=#fff568>over {var1}%</color> and get a head start of {var2} points in the <color=#fff568>Spy Games Milestone</color>!
+ID_OF_NA_SPYGAMES_STARTER_SUPER,Spy Games Super Starter
+ID_OF_NA_SPYGAMES_STARTER_MEGA,Spy Games Mega Starter
+ID_OF_NA_SPYGAMES_BOOSTER,Spy Games Booster Pack
+ID_OF_NA_SPYGAMES_BOOSTER_VAR,Save <color=#fff568>over {var1}%</color> and get a boost of {var2} points in the <color=#fff568>Spy Games Milestone</color>!
+ID_OF_NA_SPYGAMES_CATCHUP_DUAL,Spy Games Super Catch-Up
+ID_OF_DE_SPYGAMES_CATCHUP_DUAL,Take advantage of one of these limited deals to get through the end of the <color=#fff568>Spy Games Milestone</color> to help reach your final rewards!
+ID_OF_NA_SPYGAMES_DAILY_ORB,Daily Orb Pack
+ID_OF_DE_SPYGAMES_DAILY_ORB,Don't miss this daily <color=#fff568>Covert Orb</color> offer to power up your roster and boost your <color=#fff568>Spy Games Milestone</color> progress!
+ID_OF_DE_SPYGAMES_DAILY_ORB2,Get your daily dose of <color=#fff568>Covert Orbs</color> to power up your roster and boost your <color=#fff568>Spy Games Milestone</color> progress!
+ID_OF_NA_SPYGAMES_BLITZ,Daily Blitz Bundle
+ID_OF_DE_SPYGAMES_BLITZ,Boost your Blitzing to power through <color=#fff568>Sleeper Agents Web Milestones</color> to earn more Spy Games progress with over <color=#fff568>50%</color> off!
+ID_OF_NA_SPYGAMES_HC_ECMORB,Covert Orbs Offer
+ID_OF_DE_SPYGAMES_HC_ECMORB,Don't miss this chance to power up your roster and earn <color=#fff568>Spy Games progress</color> with this limited offer!
+ID_OF_NA_SPYGAMES_BACKUP,Spy Games Bundle
+ID_OF_DE_SPYGAMES_BACKUP,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Covert Orbs</color> and more with this offer! Get a head start of {var3} points in the <color=#fff568>Spy Games Milestone</color> now.
+ID_OF_NA_SPYGAMES_LASTCHANCE,Spy Games Last Chance Booster
+ID_OF_DE_SPYGAMES_LASTCHANCE,"Need a final boost to finish your <color=#fff568>Spy Games Milestone</color>? Don't miss out on this offer! "
+ID_OF_NA_CLAWSOFFURY_STARTER_MEDIUM,Claws of Fury Starter Bundle
+ID_OF_NA_CLAWSOFFURY_STARTER_SUPER,Claws of Fury Super Starter
+ID_OF_NA_CLAWSOFFURY_STARTER_MEGA,Claws of Fury Pawesome Bundle
+ID_OF_DE_CLAWSOFFURY_STARTER_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>Nakia's Rings</color> and more with this offer! Get a head start of {var3} points in the <color=#fff568>Battle Scars Milestone</color> now!
+ID_OF_NA_CLAWSOFFURY_CATCHUP,Cat Catch Up Offer
+ID_OF_NA_CLAWSOFFURY_CATCHUP_VAR,Get your paws on these savings! Save <color=#fff568>over {var1}%</color> on Gold Orbs and <color=#fff568>Nakia's Rings</color> to further your progress and complete the <color=#fff568>Battle Scars Milestone</color>!
+ID_OF_NA_CLAWSOFFURY_INTERSTITIAL,Powerful Power Core Bundle
+ID_OF_DE_CLAWSOFFURY_INTERSTITIAL,Don't miss your chance to progress in the <color=#fff568>Powerful Paws Milestone</color> milestone with this purchase of <color=#fff568>Power Cores</color>! This offer only lasts while this window is open!
+ID_OF_NA_CLAWSOFFURY_FREECLAIM,Daily Free Power Cores
+ID_OF_DE_CLAWSOFFURY_FREECLAIM,Free <color=#fff568>Power Cores</color> to power up your roster and boost your <color=#fff568>Powerful Paws Milestone</color> progress!
+ID_OF_NA_CLAWSOFFURY_DAILYPOINTS,Daily Battle Scars Milestone Progress
+ID_OF_DE_CLAWSOFFURY_DAILYPOINTS,Claw your way to <color=#fff568>Battle Scars</color> milestone progress. Each purchase contains <color=#fff568>{var1} Milestone Points</color>!
 ID_OF_NA_COMMANDERSCACHE_STARTER_MEGA,Commander's Cache Mega Starter
 ID_OF_DE_COMMANDERSCACHE_STARTER_VAR1,"Stock up on <color=#fff568>{var2} Commander's Cache Milestone Points</color> and more, worth over {var3}% of the milestones! Get a head start on the <color=#fff568>Commander's Cache Milestone</color> now."
 ID_OF_NA_COMMANDERSCACHE_STARTER_BIG,Commander's Cache Super Starter
