@@ -1497,9 +1497,9 @@ ID_MOTD_DE_NAKIA_PREVIEW,This Vibranium Assassin is lurking in the shadows...
 ID_MOTD_NA_NAKIA_ANNOUNCE,Ready for Battle: Nakia
 ID_MOTD_DE_NAKIA_ANNOUNCE,Recruit the Vibranium Assassin
 ID_MOTD_NA_SPYGAMES_TEASER,Coming Soon: Spy Games
-ID_MOTD_DE_SPYGAMES_TEASER,Earn Nakia gear and First Panther progress!
+ID_MOTD_DE_SPYGAMES_TEASER,Earn Nakia gear and The First Panther progress!
 ID_MOTD_NA_SPYGAMES_ANNOUNCE,NOW LIVE: Spy Games
-ID_MOTD_DE_SPYGAMES_ANNOUNCE,Earn Nakia gear and First Panther progress!
+ID_MOTD_DE_SPYGAMES_ANNOUNCE,Earn Nakia gear and The First Panther progress!
 ID_MOTD_NA_CLAWSOFFURY_TEASER,Coming Soon: Claws of Fury
 ID_MOTD_DE_CLAWSOFFURY_TEASER,Prepare to earn Namor's costume and The First Panther progress!
 ID_MOTD_NA_CLAWSOFFURY_ANNOUNCE,NOW LIVE: Claws of Fury
@@ -1512,3 +1512,7 @@ ID_MOTD_NA_NAKIA_ECM_PREVIEW,Coming Soon: Dogs of War
 ID_MOTD_DE_NAKIA_ECM_PREVIEW,Don't miss your chance to recruit Nakia!
 ID_MOTD_NA_NAKIA_ECM_LIVE,LIVE: Dogs of War
 ID_MOTD_DE_NAKIA_ECM_LIVE,Recruit Nakia!
+ID_MOTD_NA_CYBERTURKEYHUNT_TEASER,Coming Soon: Cyber Turkey Hunt
+ID_MOTD_DE_CYBERTURKEYHUNT_TEASER,Collect Turkeys and Earn Rewards!
+ID_MOTD_NA_CYBERTURKEYHUNT_ANNOUNCE,LIVE: Cyber Turkey Hunt
+ID_MOTD_DE_CYBERTURKEYHUNT_ANNOUNCE,Collect Turkeys and Earn Rewards!

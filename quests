@@ -2023,7 +2023,7 @@ ID_QU_SC_CAREPACKAGE,Earn Alliance Credits
 ID_QU_S1_CAREPACKAGE,Earn 1 Alliance Credit
 ID_QU_NA_SPYGAMES,Spy Games
 ID_QU_SD_SPYGAMES,Earn Spy Games Milestone Points!
-ID_QU_LD_SPYGAMES,"Spend Power Cores, opening Covert Orbs for the Dead Drop Milestones and Blitz through the Sleeper Agents Web Milestones. Rewards include:\n\n- Vibranium Meteorites\n- Razor Sharp Claw\n- Nakia Gear and Iso-8 Resources\n- 5 Red Star Black Panther\n- Wakandan character shards\n- And more"
+ID_QU_LD_SPYGAMES,"Spend Power Cores, opening Covert Orbs for the Dead Drop Milestones and Blitz through the Sleeper Agents Web Milestones. Rewards include:\n\n- Vibranium Meteorites\n- Razor-Sharp Claws\n- Nakia Gear and Iso-8 Resources\n- 5 Red Star Black Panther\n- Wakandan character shards\n- And more"
 ID_QU_SM_SPYGAMES,"Use Power Cores, Dead Drop, Sleeper Agents"
 ID_QU_SC_SPYGAMES,"Use Power Cores, Dead Drop, Sleeper Agents"
 ID_QU_S1_SPYGAMES,Earn 1 Spy Games Milestone Point
@@ -2067,3 +2067,9 @@ ID_QU_S2_ROAROFWAKANDA,Play a War Battle with Wakandan at Gear Tier 13
 ID_QU_S3_ROAROFWAKANDA,Play a War Battle with Wakandan at Gear Tier 15
 ID_QU_S4_ROAROFWAKANDA,Play a War Battle with Wakandan at Gear Tier 16+
 ID_QU_NA_NOVEMBERALLIANCE2022,Coordinated Assault
+ID_QU_NA_CYBERTURKEYHUNT,Cyber Turkey Hunt
+ID_QU_SD_CYBERTURKEYHUNT,How many Turkeys can you collect?
+ID_QU_LD_CYBERTURKEYHUNT,"Make progress by collecting turkeys to earn rewards like T2 Level 5 Ions, Elite 7 Credits and much, much more!"
+ID_QU_SM_CYBERTURKEYHUNT,Collect Turkeys and Earn Rewards!
+ID_QU_SC_CYBERTURKEYHUNT,Collect Turkeys and Earn Rewards!
+ID_QU_S1_CYBERTURKEYHUNT,Collect 1 Cyber Turkey
