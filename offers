@@ -338,9 +338,9 @@ ID_OF_STOREBAR_UNLIMITEDXMEN,Unlimited X-Men Shard Offer
 ID_OF_NA_567_RED_STAR_DRAFT_UNLMITEDXMEN,5-7 Red Star Draft: Unlimited X-Men
 ID_OF_DE_567_RED_STAR_DRAFT_UNLMITEDXMEN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Unlimited X-Men</color>."
 ID_OF_NA_SPIDERMANNOIR_FCO_OFFER,Arachnid Airman
-ID_OF_DE_SPIDERMANNOIR_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Spider-Man Noir</color> with this offer! Each orb has a chance to earn up to 180 shards. Bump off enemies with high damage attacks, apply Heal Block, and grant Tangled Web allies additional Damage."
-ID_OF_DE_SPIDERMANNOIR_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Monochromatic Orb Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Spider-Man Noir</color> shards. Bump off enemies with high damage attacks, apply Heal Block, and grant Tangled Web allies additional Damage."
-ID_OF_DE_SPIDERMANNOIR_OFFER_VAR_SHARD,"Get <color=#fff568>{var1} Spider-Man Noir</color> shards and bump off enemies! Unleash high damage attacks, apply Heal Block, and grant Tangled Web allies additional Damage."
+ID_OF_DE_SPIDERMANNOIR_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Spider-Man (Noir)</color> with this offer! Each orb has a chance to earn up to 180 shards. Bump off enemies with high damage attacks, apply Heal Block, and grant Tangled Web allies additional Damage."
+ID_OF_DE_SPIDERMANNOIR_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Monochromatic Orb Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Spider-Man (Noir)</color> shards. Bump off enemies with high damage attacks, apply Heal Block, and grant Tangled Web allies additional Damage."
+ID_OF_DE_SPIDERMANNOIR_OFFER_VAR_SHARD,"Get <color=#fff568>{var1} Spider-Man (Noir)</color> shards and bump off enemies! Unleash high damage attacks, apply Heal Block, and grant Tangled Web allies additional Damage."
 ID_OF_NA_RAIDOFFORTUNE_STARTER,Raid of Fortune Starter Bundle
 ID_OF_DE_RAIDOFFORTUNE_STARTER,Start strong in the <color=#fff568>Raid of Fortune Milestone</color> with {var1} Raid Credits for <color=#fff568>{var2}%</color> progress in the event.
 ID_OF_NA_RAIDOFFORTUNE_CATCHUP,Raid of Fortune Catch-up Bundle
@@ -724,7 +724,7 @@ ID_OF_DE_EVENT_BLACKFRIDAY2022_H4H_RS567_C15,"Don't miss out on this <color=#fff
 ID_OF_DE_EVENT_THANKSGIVING2022_2MGOLD_C05,Gold Galore! Don't miss out on this exclusive Thanksgiving Sneak Peek <color=#fff500>{var1}% OFF</color> offer! Continue checking back the store for more offers this month!
 ID_OF_DE_EVENT_BLACKFRIDAY2022_REDSTAR_C40,"Promote your Horsemen characters and more with this unprecedented Red Star offer! Get <color=#fff500>Dark Promotion Credits, Gold Promotion Credits, AND Red Star Orbs at an amazing 4X value!</color> Remember to check the store for more valuable offers all month long!"
 ID_OF_DE_EVENT_BLACKFRIDAY2022_SPC_ENERGY_C20,"Power up your roster with this selection of Silver Promotion Credits, Campaign Energy, and more! Get <color=#fff500>4X</color> value when you buy now! Remember to check the store for more valuable offers all month long!"
-ID_OF_DE_EVENT_BLACKFRIDAY2022_MLF_C100,"Bring down the might of the Apocalypse with the power of Morgan Le Fay, or Pestilence, the First Horseman. Don't miss out on this opportunity to overwhelm your foes with the might of this offer of <color=#fff500>300 shards of Morgan Le Fay</color>."
+ID_OF_DE_EVENT_BLACKFRIDAY2022_MLF_C100,"Bring down the might of the Apocalypse with the power of Morgan Le Fay, or Pestilence, the First Horseman. Don't miss out on this opportunity to overwhelm your foes with the might of this offer of <color=#fff500>100 shards of Morgan Le Fay</color>."
 ID_OF_DE_EVENT_THANKSGIVING2022_BASICCAT_C05,Superior Basic Catalyst Part Bonanza! Do NOT miss out on this unprecedented offer of <color=#fff500>1000 Superior Basic Catalyst Parts</color>! Gear up your roster with orange gear today! Remember to check the store for more valuable offers all month long!
 ID_OF_DE_EVENT_THANKSGIVING2022_STATCAT_C05,"Superior Catalysts Special! Don't miss out on this opportunity to get <color=#fff500>250 of Superior Damage, Health, Resistance, Focus, and Armor Catalyst Parts EACH</color>! Remember to check the store for more valuable offers all month long!"
 ID_OF_DE_EVENT_BLACKFRIDAY2022_REDSTAR_WEB_C40,"Promote your Horsemen characters and more with this unprecedented web special Red Star offer! Get <color=#fff500>Dark Promotion Credits, Gold Promotion Credits, AND Red Star Orbs at an amazing 4X+ value!</color> Remember to check the store for more valuable offers all month long!"
@@ -732,3 +732,48 @@ ID_OF_NA_CSAT_FREECLAIM,Survey Completion Free Claim
 ID_OF_DE_CSAT_FREECLAIM,A token of thanks from the MARVEL Strike Force Dev Team for helping us improve the game. Return daily for more Free Claims on web!
 ID_OF_DE_567_RED_STAR_DRAFT_GENERIC_TEAM,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the members of this team!"
 ID_OF_DE_567_RED_STAR_DRAFT_GENERIC_UNCANNYXMEN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Magik</color>, <color=#fff568>Storm</color>, <color=#fff568>Colossus</color>, <color=#fff568>Cyclops</color>, or <color=#fff568>Psylocke</color>!"
+ID_OF_NA_EVENT_BLACKFRIDAY2022_GPC_C20,Black Friday SP: Gold Promotion
+ID_OF_NA_EVENT_BLACKFRIDAY2022_T4ABM_C100,Black Friday SP: Legendary Ability
+ID_OF_NA_EVENT_BLACKFRIDAY2022_IKARIS_C40,Thanksgiving Special: Ikaris
+ID_OF_NA_EVENT_BLACKFRIDAY2022_TANGLEDWEB_RSDRAFT_C15,Thanksgiving Special: Tangled Web
+ID_OF_NA_EVENT_BLACKFRIDAY2022_ABOMINATION_C05,Thanksgiving Special: Abomination
+ID_OF_NA_EVENT_BLACKFRIDAY2022_GPC_C05,Thanksgiving Special: Red Star
+ID_OF_NA_EVENT_BLACKFRIDAY2022_SIBLINGRSDRAFT_C15,Thanksgiving Special: Sibling Draft
+ID_OF_NA_EVENT_GOOGLETHANKSGIVING_ETERNALLOVE_C05,Thanksgiving Special: Eternal Love
+ID_OF_NA_EVENT_GOOGLETHANKSGIVING_TANGLEDTOGETHER_C15,Thanksgiving Special: Tangled Web
+ID_OF_NA_EVENT_BLACKFRIDAY2022_3MGOLD_C05,Black Friday: 3M Gold
+ID_OF_NA_EVENT_BLACKFRIDAY2022_SPC_C30,Black Friday: Silver and Energy
+ID_OF_NA_EVENT_BLACKFRIDAY2022_ELITE7_C100,Black Friday: Elite 7 Special
+ID_OF_NA_EVENT_BLACKFRIDAY2022_ENERGYMEGA_C10,Black Friday: Mega Energy Package
+ID_OF_NA_EVENT_BLACKFRIDAY2022_RSDRAFT_ETERNAL_C15,Black Friday: Eternals Draft
+ID_OF_NA_EVENT_BLACKFRIDAY2022_HULKBUSTER_C05,Black Friday: Hulkbuster
+ID_OF_NA_EVENT_BLACKFRIDAY2022_DPC_C100,Black Friday: Red Star Assortment
+ID_OF_NA_EVENT_BLACKFRIDAY2022_DPC_WEB_C100,Black Friday: Red Star Web Bonus
+ID_OF_NA_EVENT_BLACKFRIDAY2022_WEBWARRIOR_C05,Cyber Monday: Web-Warriors
+ID_OF_NA_EVENT_BLACKFRIDAY2022_RSDRAFT_BIONICAVENGERS_C15,Cyber Monday: Bionic Avengers Draft
+ID_OF_NA_EVENT_BLACKFRIDAY2022_WEBWARRIORRSDRAFT_C15,Cyber Week: Web-Warriors Draft
+ID_OF_NA_EVENT_BLACKFRIDAY2022_VIVVISION_C05,Cyber Week: Viv Vision
+ID_OF_NA_EVENT_CYBERWEEK2022_GPC_C20,Cyber Week: Gold Promotion Credits
+ID_OF_NA_EVENT_BLACKFRIDAY2022_GAMBIT_C05,Cyber Monday: Gambit
+ID_OF_DE_EVENT_BLACKFRIDAY2022_GPC_C20,Don't miss out on this opportunity to get a whopping amount of <color=#fff500>50 Gold Promotion Credits at more than 2X value</color>! Remember to check the store for more valuable offers all month long!
+ID_OF_DE_EVENT_BLACKFRIDAY2022_T4ABM_C100,Access your full abilities with this T4 Ability Material offer! Get 1000 T4 Ability Materials at 2X value!
+ID_OF_DE_EVENT_BLACKFRIDAY2022_IKARIS_C40,"Show your enemies the might of the Eternals with this Prime Eternal offer! Strengthen Ikaris with <color=#fff568>125 Ikaris shards</color> and a 3-5 Red Star Draft! Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star level 3, Maximum Red Star Level 5) for <color=#fff568>Ikaris</color>!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_TANGLEDWEB_RSDRAFT_C15,"Don't miss out on this <color=#fff500>exclusive Thanksgiving Special</color>! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) <color=#fff568>Spider-Weaver</color>, <color=#fff568>Spider-Man (Noir)</color>, or <color=#fff568>Spider-Man 2099</color>! Continue checking back the store for more offers this month!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_ABOMINATION_C05,SMASH the competition with this BULK Thanksgiving offer of Abomination shards! Get an additional {var1} T3 Ability Materials to boost your skills!
+ID_OF_DE_EVENT_BLACKFRIDAY2022_GPC_C05,Don't miss out on this opportunity to get a whopping amount of <color=#fff500>30 Gold Promotion Credits at more than 4X value</color>! Remember to check the store for more valuable offers all month long!
+ID_OF_DE_EVENT_BLACKFRIDAY2022_SIBLINGRSDRAFT_C15,"Don't miss out on this <color=#fff500>exclusive Thanksgiving Special</color>! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) <color=#fff568>Thor</color>, <color=#fff568>Loki</color>, <color=#fff568>Black Panther</color>, <color=#fff568>Shuri</color>, <color=#fff568>Gamora</color>, or <color=#fff568>Nebula</color>! Continue checking back the store for more offers this month!"
+ID_OF_DE_EVENT_GOOGLETHANKSGIVING_ETERNALLOVE_C05,Dominate Arena with this Eternal pair! Get 50 shards each of Ikaris and Sersi and 350 T3 Ability Materials to power up their skills! Get over 90% value with this offer!
+ID_OF_DE_EVENT_GOOGLETHANKSGIVING_TANGLEDTOGETHER_C15,Jump into the Spider-Verse with this special offer! Get 30 shards each of <color=#fff500>Tangled Web characters</color> with other materials to power up your roster at more than 2X value!
+ID_OF_DE_EVENT_BLACKFRIDAY2022_3MGOLD_C05,"Gold Galore! Don't miss out on this exclusive Black Friday offer for 3,000,000 Gold! Over 90% off!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_SPC_C30,Don't miss out on this exclusive Black Friday Silver Promotion Credits and Campaign Energy combination bundle! Get free Orange Gear Raid Orbs and Armory Orbs with your purchase!
+ID_OF_DE_EVENT_BLACKFRIDAY2022_ELITE7_C100,"Get this exclusive Black Friday Elite 7 deal chock full of resources to power up your elite characters! Get valuable Teal Gear Raid Orbs, Gold, and Training Orbs in addition to an Elite 7 Orb!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_ENERGYMEGA_C10,Superboost your progress with this special Black Friday offer of 1500 Campaign Energy along with a free Mega Orb! Don't delay and lose out on this offer!
+ID_OF_DE_EVENT_BLACKFRIDAY2022_RSDRAFT_ETERNAL_C15,"Don't miss out on this <color=#fff500>exclusive Black Friday Special</color>! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) <color=#fff568>Ikaris</color> or <color=#fff568>Sersi</color>! Continue checking back the store for more offers this month!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_HULKBUSTER_C05,Bust up Raids by upgrading your Hulkbuster with this special Black Friday deal! Get Hulkbuster shards and 350 T3 Ability Materials in this bundle!
+ID_OF_DE_EVENT_BLACKFRIDAY2022_DPC_C100,"Get a huge assortment of Promotion Credits from Dark Promotion Credits, Silver Promotion Credits, and Gold Promotion Credits! Take matters into your own hands and choose the character to promote with this offer!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_DPC_WEB_C100,"Get a bonus opportunity to obtain a huge assortment of Promotion Credits from Dark Promotion Credits, Silver Promotion Credits, and Gold Promotion Credits! Take matters into your own hands and choose the character to promote with this offer!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_WEBWARRIOR_C05,Cyber Monday Special! Get shards for all 5 Web-Warrior characters at over 90% off with this exclusive Cyber Monday special deal!
+ID_OF_DE_EVENT_BLACKFRIDAY2022_RSDRAFT_BIONICAVENGERS_C15,"Don't miss out on this <color=#fff500>exclusive Cyber Monday Special</color>! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) <color=#fff568>Hulkbuster</color>, <color=#fff568>Viv Vision</color>, <color=#fff568>Deathlok</color>, <color=#fff568>Vision</color>, or <color=#fff568>Iron Man</color>! Continue checking back the store for more offers this month!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_WEBWARRIORRSDRAFT_C15,"Don't miss out on this <color=#fff500>exclusive Cyber Week</color> offer! Get an equal chance of either a <color=#fff568>6 or 7 Red Star</color> (Minimum Red Star level 6, Maximum Red Star Level 7) for <color=#fff568>Web-Warrior</color> characters!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_VIVVISION_C05,Synthesize victory in Raids with this special Cyber Week offer featuring Viv Vision! Get additional 30 T4 Ability materials when you purchase now.
+ID_OF_DE_EVENT_BLACKFRIDAY2022_GAMBIT_C05,Deal yourself a good hand with this special Cyber Monday deal! Get 50 Gambit shards and 350 T3 Ability Materials when you buy now!
