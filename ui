@@ -974,7 +974,7 @@ ID_OPTIONS_AUTOPLAY_IDLE_RAIDS,Combat inactivity triggers Autoplay in Raids afte
 ID_OPTIONS_AUTOPLAY_BASIC_ONLY_IDLE_RAIDS,"When triggering Autoplay from inactivity (in Raids), use Basic-Only Autoplay"
 ID_OPTIONS_AUTOPLAY_IDLE_BATTLEGROUNDS,Combat inactivity triggers Autoplay in Arena after {idleThresholdSeconds} seconds
 ID_OPTIONS_AUTOPLAY_IDLE_AVA,Combat inactivity triggers Autoplay in War after {idleThresholdSeconds} seconds
-ID_CAMPAIGN_FTR_REWARDS_INCLUDED,Includes First Time Rewards from Hard
+ID_CAMPAIGN_FTR_REWARDS_INCLUDED,Includes First Time Rewards from Lower Difficulties
 ID_SELECT_GT_MESSAGE,EACH CHARACTER CAN BE USED ONLY <color=#fff568>ONCE</color> TO ATTACK
 ID_UI_COPY,Copy
 ID_UI_PASTE,Paste
