@@ -2046,10 +2046,10 @@ ID_QU_S4_SLEEPERAGENTS,Blitz Win with Covert at Gear Tier 15+
 ID_QU_S5_SLEEPERAGENTS,Collect Web UPCs
 ID_QU_NA_BATTLESCARS,Battle Scars
 ID_QU_SD_BATTLESCARS,Spend Event Campaign Energy
-ID_QU_LD_BATTLESCARS,"Spend Campaign Energy from the War Dogs Event Campaign, and by earning Nakia's Rings from the Powerful Paws and Roar of Wakanda milestones. Rewards include:\n\n- Bio Mini Uniques\n- Vibranium Meteorites\n- Heart-Shaped Herb\n- T2 L4 Ions\n- 1 Elite 6 Orb\n- And more!"
-ID_QU_SM_BATTLESCARS,Spend War Dog Energy and Earn Nakia's Rings
-ID_QU_SC_BATTLESCARS,Spend War Dog Energy and Earn Nakia's Rings
-ID_QU_S1_BATTLESCARS,Spend 1 War Dog Energy
+ID_QU_LD_BATTLESCARS,"Spend Energy from the Dogs of War Event Campaign, and by earning Nakia's Rings from the Powerful Paws and Roar of Wakanda milestones. Rewards include:\n\n- Bio Mini Uniques\n- Vibranium Meteorites\n- Heart-Shaped Herb\n- T2 L4 Ions\n- 1 Elite 6 Orb\n- And more!"
+ID_QU_SM_BATTLESCARS,Spend Dogs of War Energy and Earn Nakia's Rings
+ID_QU_SC_BATTLESCARS,Spend Dogs of War Energy and Earn Nakia's Rings
+ID_QU_S1_BATTLESCARS,Spend 1 Dogs of War Energy
 ID_QU_S2_BATTLESCARS,Earn 1 Nakia's Ring
 ID_QU_NA_POWERFULPAWS,Powerful Paws
 ID_QU_SD_POWERFULPAWS,Earn Power Cores
