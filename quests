@@ -2067,9 +2067,65 @@ ID_QU_S2_ROAROFWAKANDA,Play a War Battle with Wakandan at Gear Tier 13
 ID_QU_S3_ROAROFWAKANDA,Play a War Battle with Wakandan at Gear Tier 15
 ID_QU_S4_ROAROFWAKANDA,Play a War Battle with Wakandan at Gear Tier 16+
 ID_QU_NA_NOVEMBERALLIANCE2022,Coordinated Assault
+ID_QU_NA_DECEMBERALLIANCE2022,Coordinated Assault
+ID_QU_NA_FESTIVALOFFROST,Festival of Frost
+ID_QU_SD_FESTIVALOFFROST,Participate in December Events
+ID_QU_LM_FESTIVALOFFROST,Participate in various events throughout the month of December to earn milestone progress.
+ID_QU_S1_FESTIVALOFFROST,Collect Snowballs
+ID_QU_S2_FESTIVALOFFROST,Collect 1 Coal Eyes
+ID_QU_S3_FESTIVALOFFROST,Collect 1 Carrot Nose
+ID_QU_S4_FESTIVALOFFROST,Collect 1 Ice Shield
+ID_QU_S5_FESTIVALOFFROST,Collect 1 Cap's Beanie
+ID_QU_NA_SPLASH_ARCTICOPERATION,Arctic Operation
+ID_QU_SD_SPLASH_ARCTICOPERATION,Use Skill Military in Blitz
+ID_QU_LM_SPLASH_ARCTICOPERATION,Earn points by using Skill Military characters in Blitz Battles. Earn more points if your Skill Military characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_ARCTICOPERATION,Use Skill Military Characters in Blitz
+ID_QU_S1_SPLASH_ARCTICOPERATION,Win a Blitz battle with any 3-star or higher Skill Military Character
+ID_QU_S2_SPLASH_ARCTICOPERATION,Win a Blitz battle with any 5-star or higher Skill Military Character
+ID_QU_S3_SPLASH_ARCTICOPERATION,Win a Blitz battle with any 7-star Skill Military Character
+ID_QU_NA_SPLASH_COLDMETAL,Cold Metal
+ID_QU_SD_SPLASH_COLDMETAL,Use Bionic Avenger in Blitz
+ID_QU_LM_SPLASH_COLDMETAL,Earn points by using Bionic Avenger characters in Blitz Battles. Earn more points if your Bionic Avenger characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_COLDMETAL,Use Bionic Avenger Characters in Blitz
+ID_QU_S1_SPLASH_COLDMETAL,Win a Blitz battle with any 3-star or higher Bionic Avenger Character
+ID_QU_S2_SPLASH_COLDMETAL,Win a Blitz battle with any 5-star or higher Bionic Avenger Character
+ID_QU_S3_SPLASH_COLDMETAL,Win a Blitz battle with any 7-star Bionic Avenger Character
+ID_QU_NA_SPLASH_SNOWDAYCELEBRATION,Snow Day Celebration
+ID_QU_SD_SPLASH_SNOWDAYCELEBRATION,Use Any Trait in Blitz
+ID_QU_LM_SPLASH_SNOWDAYCELEBRATION,Earn points by using any character in Blitz Battles. Earn more points if your characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_SNOWDAYCELEBRATION,Use Any Trait in Blitz
+ID_QU_S1_SPLASH_SNOWDAYCELEBRATION,Win a Blitz battle with any 3-star or higher character
+ID_QU_S2_SPLASH_SNOWDAYCELEBRATION,Win a Blitz battle with any 5-star or higher character
+ID_QU_S3_SPLASH_SNOWDAYCELEBRATION,Win a Blitz battle with any 7-star character
+ID_QU_NA_SPLASH_NEWYEARPARTY,New Year Party
+ID_QU_SD_SPLASH_NEWYEARPARTY,Use Party Animal in Blitz
+ID_QU_LM_SPLASH_NEWYEARPARTY,Earn points by using Party Animal characters in Blitz Battles. Earn more points if your Party Animal characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_NEWYEARPARTY,Use Party Animal Characters in Blitz
+ID_QU_S1_SPLASH_NEWYEARPARTY,Win a Blitz battle with any 3-star or higher Party Animal Character
+ID_QU_S2_SPLASH_NEWYEARPARTY,Win a Blitz battle with any 5-star or higher Party Animal Character
+ID_QU_S3_SPLASH_NEWYEARPARTY,Win a Blitz battle with any 7-star Party Animal Character
 ID_QU_NA_CYBERTURKEYHUNT,Cyber Turkey Hunt
 ID_QU_SD_CYBERTURKEYHUNT,How many Turkeys can you collect?
 ID_QU_LD_CYBERTURKEYHUNT,"Make progress by collecting turkeys to earn rewards like T2 Level 5 Ions, Elite 7 Credits and much, much more!"
 ID_QU_SM_CYBERTURKEYHUNT,Collect Turkeys and Earn Rewards!
 ID_QU_SC_CYBERTURKEYHUNT,Collect Turkeys and Earn Rewards!
 ID_QU_S1_CYBERTURKEYHUNT,Collect 1 Cyber Turkey
+ID_QU_NA_THEABOMINABLEBEAST,The Abominable Beast
+ID_QU_SD_THEABOMINABLEBEAST,Earn Mad Science Orb Fragments
+ID_QU_LD_THEABOMINABLEBEAST,"Earn Mad Science Orb Fragments to earn points toward a 7-day milestone that rewards Dark Beast character shards, Snowballs, Coal Eyes, Teal Mini-Uniques, Gold Promotion Credits and more!"
+ID_QU_SM_THEABOMINABLEBEAST,Earn Mad Science Orb Fragments
+ID_QU_SC_THEABOMINABLEBEAST,Earn Mad Science Orb Fragments
+ID_QU_S1_THEABOMINABLEBEAST,Earn 1 Mad Science Orb Fragment
+ID_QU_NA_GHASTLYEXPERIMENTS,Ghastly Experiments
+ID_QU_SD_GHASTLYEXPERIMENTS,Spend Power Cores
+ID_QU_LD_GHASTLYEXPERIMENTS,"Spend Power Cores to earn points toward this 7-day milestone that rewards Mad Science Orb Fragments, Dark Promotion Credits, a 5-Red Star Magneto, Psylocke shards and more!"
+ID_QU_SM_GHASTLYEXPERIMENTS,Spend Power Cores
+ID_QU_SC_GHASTLYEXPERIMENTS,Spend Power Cores
+ID_QU_S1_GHASTLYEXPERIMENTS,Spend 1 Power Core
+ID_QU_NA_COLDHEARTED,Cold-Hearted
+ID_QU_SD_COLDHEARTED,Spend Campaign and Iso-8 Energy
+ID_QU_LD_COLDHEARTED,"Spend Campaign and Iso-8 Energy to hit this daily milestone that rewards Mad Science Orb Fragments, Teal Catalysts and Legacy III Orbs."
+ID_QU_SM_COLDHEARTED,Spend Campaign and Iso-8 Energy
+ID_QU_SC_COLDHEARTED,Spend Campaign and Iso-8 Energy
+ID_QU_S1_COLDHEARTED,Spend 1 Campaign Energy
+ID_QU_S2_COLDHEARTED,Spend 1 Iso-8 Energy

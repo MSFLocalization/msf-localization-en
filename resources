@@ -177,28 +177,28 @@ ID_EVENT_CUR7_NAME,Heart-Shaped Herb
 ID_EVENT_CUR7_DESCRIPTION,Collect the Heart-Shaped Herb for points in The First Panther Event. Earn it in the Claws of Fury Event!
 ID_EVENT_CUR8_NAME,Spy Games Milestone Point
 ID_EVENT_CUR8_DESCRIPTION,"These points earn you additional progress in the Spy Games Milestone. Earn them in Dead Drop, Sleeper Agents Milestones or limited offers!"
-ID_EVENT_CUR9_NAME,Light Byte Cloth
-ID_EVENT_CUR9_DESCRIPTION,Collect the Light Byte Cloth for points in the Future Shock Event. Earn it in the Rogue's Gallery Event!
-ID_EVENT_CUR10_NAME,Organic Webbing
-ID_EVENT_CUR10_DESCRIPTION,Collect the Organic Webbing for points in the Future Shock Event. Earn it in the Hellicarrier Clash Event!
-ID_EVENT_CUR11_NAME,Futuristic Spider Mask
-ID_EVENT_CUR11_DESCRIPTION,Collect the Futuristic Spider Mask for points in the Future Shock Event. Earn it in the Night of the Spider Event!
-ID_EVENT_CUR12_NAME,Unstable Molecule Suit
-ID_EVENT_CUR12_DESCRIPTION,Collect the Unstable Molecule Suit for points in the Future Shock Event. Earn it in the Midnight Haunt Event!
-ID_EVENT_CUR13_NAME,Plaguemonger Orb Fragments
-ID_EVENT_CUR13_DESCRIPTION,Collect Plaguemonger Orb Fragments to earn progress in the Contagion Corps Event!
+ID_EVENT_CUR9_NAME,Snowballs
+ID_EVENT_CUR9_DESCRIPTION,Collect Snowballs for points in the Festival of Frost Event. Earn them in various events throughout the month of December
+ID_EVENT_CUR10_NAME,Coal Eyes
+ID_EVENT_CUR10_DESCRIPTION,Collect the Coal Eyes for points in the Festival of Frost Event. Earn them in the Abominable Beast Event!
+ID_EVENT_CUR11_NAME,Carrot Nose
+ID_EVENT_CUR11_DESCRIPTION,Collect the Carrot Nose for points in the Festival of Frost Event. Earn them in the Herald of Death Event!
+ID_EVENT_CUR12_NAME,Ice Shield
+ID_EVENT_CUR12_DESCRIPTION,Collect the Ice Shield for points in the Festival of Frost Event. Earn them in the Progeny of Apocalypse Event!
+ID_EVENT_CUR13_NAME,Cap's Beanie
+ID_EVENT_CUR13_DESCRIPTION,Collect Cap's Beanie for points in the Festival of Frost Event. Earn them in the Gift Wrap Gala Event!
 ID_EVENT_CUR14_NAME,Nakia's Ring
 ID_EVENT_CUR14_DESCRIPTION,Collect Nakia's Rings from Powerful Paws and Roar of Wakanda milestones and offers to earn points in the Battle Scars milestone.
-ID_EVENT_CUR15_NAME,Night of the Spider Milestone Points
-ID_EVENT_CUR15_DESCRIPTION,"These points earn you additional progress in the Night of the Spider Milestone. Earn them in the Spider's Shadow, Hardboiled and Trail of Webs Milestones!"
-ID_EVENT_CUR16_NAME,Night of the Spider Evidence
-ID_EVENT_CUR16_DESCRIPTION,Collect Evidence to earn additional progress in the Night of the Spider Milestone. Check your Inbox each day for a Clue hinting at the location of that day's Evidence!
+ID_EVENT_CUR15_NAME,Present
+ID_EVENT_CUR15_DESCRIPTION,Collect Presents to spend in the Winter Event Store. Earn them in the Festival of Frost Event!
+ID_EVENT_CUR16_NAME,Mad Science Orb Fragment
+ID_EVENT_CUR16_DESCRIPTION,"Open Mad Science Orbs for Dark Beast shards, Gold and gear!"
 ID_EVENT_CUR17_NAME,Cyber Turkey
 ID_EVENT_CUR17_DESCRIPTION,Collect Cyber Turkeys for points in the Cyber Turkey Hunt Event. Earn them throughout the game or limited offers!
 ID_EVENT_CUR18_NAME,Commander's Cache Milestone Points
 ID_EVENT_CUR18_DESCRIPTION,These points earn you additional progress in the Commander's Cache Milestone.
-ID_EVENT_CUR19_NAME,S.T.R.I.K.E. Salute Tokens
-ID_EVENT_CUR19_DESCRIPTION,"These points earn you additional progress in the S.T.R.I.K.E. Salute Milestone. Earn them in Daily Objectives, the Care Package Web Milestone, and the Daily Free Gifts on our website."
+ID_EVENT_CUR19_NAME,The Abominable Beast Milestone Points
+ID_EVENT_CUR19_DESCRIPTION,These points earn you additional progress in The Abominable Beast Milestone.
 ID_PROMOTION_CUR_NAME,Silver Promotion Credit
 ID_PROMOTION_CUR_DESCRIPTION,Used to promote specific characters (up to 5 Red Stars).\n\nBuy Red Star Promotions from the Supplies Store.
 ID_PROMOTION_CUR_ADV_NAME,Gold Promotion Credit

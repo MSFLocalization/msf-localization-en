@@ -732,6 +732,26 @@ ID_OF_NA_CSAT_FREECLAIM,Survey Completion Free Claim
 ID_OF_DE_CSAT_FREECLAIM,A token of thanks from the MARVEL Strike Force Dev Team for helping us improve the game. Return daily for more Free Claims on web!
 ID_OF_DE_567_RED_STAR_DRAFT_GENERIC_TEAM,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the members of this team!"
 ID_OF_DE_567_RED_STAR_DRAFT_GENERIC_UNCANNYXMEN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Magik</color>, <color=#fff568>Storm</color>, <color=#fff568>Colossus</color>, <color=#fff568>Cyclops</color>, or <color=#fff568>Psylocke</color>!"
+ID_OF_NA_FESTIVALOFFROST_STARTER,Festival of Frost Starter Bundle
+ID_OF_DE_FESTIVALOFFROST_STARTER,"Get a head start on the <color=#fff568>Festival of Frost Milestone</color> with this high value offer! "
+ID_OF_NA_FESTIVALOFFROST_CATCHUP,Festival of Frost Cold Catch-up
+ID_OF_DE_FESTIVALOFFROST_CATCHUP,Take advantage of this spectacular deal to get through the end of the <color=#fff568>Festival of Frost Milestone</color> and get your final rewards!
+ID_OF_NA_FESTIVALOFFROST_MEGA,Festival of Frost Avalanche Bundle
+ID_OF_DE_FESTIVALOFFROST_MEGA,Sled through the <color=#fff568>Festival of Frost event</color> with this ice-cold bundle and get valuable resources to power up your roster!
+ID_OF_NA_FESTIVALOFFROST_FREECLAIM,Festival of Frost Blizzard Booster
+ID_OF_DE_FESTIVALOFFROST_FREECLAIM,Get your free bundle of Snowballs for progress in the <color=#fff568>Festival of Frost Milestone</color>. Check the website for these daily treats to finish the event!
+ID_OF_NA_FESTIVALOFFROST_POINTS,Festival of Frost Avalanche
+ID_OF_DE_FESTIVALOFFROST_POINTS,Purchase this high-value pack of Snowballs to slash through the competition in the <color=#fff568>Festival of Frost Leaderboards</color>!
+ID_OF_NA_FESTIVALOFFROST_BUNDLE,Festival of Frost Bundle
+ID_OF_DE_FESTIVALOFFROST_BUNDLE,Skate through the <color=#fff568>Festival of Frost Milestone</color> with this amazing bundle of resources!
+ID_OF_NA_FESTIVALOFFROST_STORE_BUNDLE,Festival of Frost Presents Pack
+ID_OF_DE_FESTIVALOFFROST_STORE_BUNDLE,Purchase this high-value pack of Presents to get valuable items in the Winter Event Store!
+ID_OF_NA_FESTIVALOFFROST_STORE,Festival of Frost Gift Box
+ID_OF_DE_FESTIVALOFFROST_STORE,Get this huge box of Presents to spend in the Winter Event Store for special rewards!
+ID_OF_NA_FESTIVALOFFROST_FRIDAY,Festival of Frost Friday Freeze
+ID_OF_DE_FESTIVALOFFROST_FRIDAY,Skate past the competition with this free pack of Snowballs for the <color=#fff568>Festival of Frost Milestone</color>!
+ID_OF_NA_FESTIVALOFFROST_FRIDAYCLAIM,Festival of Frost Holiday Special
+ID_OF_DE_FESTIVALOFFROST_FRIDAYCLAIM,Get this exclusive offer of Snowballs for the <color=#fff568>Festival of Frost Milestone</color> and freeze the competition!
 ID_OF_NA_EVENT_BLACKFRIDAY2022_GPC_C20,Black Friday SP: Gold Promotion
 ID_OF_NA_EVENT_BLACKFRIDAY2022_T4ABM_C100,Black Friday SP: Legendary Ability
 ID_OF_NA_EVENT_BLACKFRIDAY2022_IKARIS_C40,Thanksgiving Special: Ikaris
@@ -777,3 +797,30 @@ ID_OF_DE_EVENT_BLACKFRIDAY2022_RSDRAFT_BIONICAVENGERS_C15,"Don't miss out on thi
 ID_OF_DE_EVENT_BLACKFRIDAY2022_WEBWARRIORRSDRAFT_C15,"Don't miss out on this <color=#fff500>exclusive Cyber Week</color> offer! Get an equal chance of either a <color=#fff568>6 or 7 Red Star</color> (Minimum Red Star level 6, Maximum Red Star Level 7) for <color=#fff568>Web-Warrior</color> characters!"
 ID_OF_DE_EVENT_BLACKFRIDAY2022_VIVVISION_C05,Synthesize victory in Raids with this special Cyber Week offer featuring Viv Vision! Get additional 30 T4 Ability materials when you purchase now.
 ID_OF_DE_EVENT_BLACKFRIDAY2022_GAMBIT_C05,Deal yourself a good hand with this special Cyber Monday deal! Get 50 Gambit shards and 350 T3 Ability Materials when you buy now!
+ID_OF_NA_THEABOMINABLEBEAST_STARTER_MEDIUM,Abominable Beast Starter Bundle
+ID_OF_DE_THEABOMINABLEBEAST_STARTER_VAR,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Mad Science Orbs</color> and more with this offer! Get a head start of {var3} points in <color=#fff568>The Abominable Beast Milestone</color> now.
+ID_OF_NA_THEABOMINABLEBEAST_STARTER_SUPER,Abominable Beast Super Starter
+ID_OF_NA_THEABOMINABLEBEAST_STARTER_MEGA,Abominable Beast Mega Starter
+ID_OF_NA_THEABOMINABLEBEAST_LASTCHANCE,Abominable Beast Last Chance Booster
+ID_OF_DE_THEABOMINABLEBEAST_LASTCHANCE,"Need a final boost to finish <color=#fff568>The Abominable Beast Milestone</color>? Don't miss out on this offer! "
+ID_OF_NA_THEABOMINABLEBEAST_MEGA,Abominable Web Special Bundle
+ID_OF_DE_THEABOMINABLEBEAST_MEGA,Inject <color=#fff568>The Abominable Beast Milestone</color> progress and earn more <color=#fff568>Dark Beast</color> shards with this spectacular deal!
+ID_OF_NA_THEABOMINABLEBEAST_CATCHUP_1,Abominable Beast Catch-Up Bundle
+ID_OF_DE_THEABOMINABLEBEAST_CATCHUP,Take advantage of this spectacular deal to get through the end of <color=#fff568>The Abominable Beast Milestone</color> and get your final rewards!
+ID_OF_NA_THEABOMINABLEBEAST_CATCHUP_2,Abominable Beast Super Catch-Up
+ID_OF_NA_THEABOMINABLEBEAST_HC,Core Injection
+ID_OF_DE_THEABOMINABLEBEAST_HC,Fund your research and invest these Power Cores for more <color=#fff568>Ghastly Experiments Milestone</color> progress!
+ID_OF_NA_THEABOMINABLEBEAST_DAILY_ORB,Daily Orb Pack
+ID_OF_DE_THEABOMINABLEBEAST_DAILY_ORB,Don't miss this daily <color=#fff568>Mad Science Orb</color> offer to power up your roster and boost your <color=#fff568>The Abominable Beast Milestone</color> progress!
+ID_OF_NA_THEABOMINABLEBEAST_DAILY_ENERGY,Daily Mad Scientist Energy
+ID_OF_DE_THEABOMINABLEBEAST_DAILY_ENERGY,Boost your progress in campaigns and the <color=#fff568>Cold-Hearted Milestone</color> at once!
+ID_OF_NA_THEABOMINABLEBEAST_BLITZ,Abominable Beast Blitz Bundle
+ID_OF_DE_THEABOMINABLEBEAST_BLITZ,Supercharge your experiments and earn more <color=#fff568>Mad Science Orb Fragments</color> in Blitz!
+ID_OF_NA_THEABOMINABLEBEAST_DIRECTSHARDS,Research Fund
+ID_OF_DE_THEABOMINABLEBEAST_DIRECTSHARDS,Get additional shards for the Mad Doctor!
+ID_OF_NA_THEABOMINABLEBEAST_DAILYFREE,Special Web Research Grant
+ID_OF_DE_THEABOMINABLEBEAST_DAILYFREE,Claim this gift for progress in <color=#fff568>The Abominable Beast Milestone</color>. Don't miss out on the one-time offer after claiming this gift!
+ID_OF_NA_THEABOMINABLEBEAST_DAILYINSTERSTITIAL,Special Web Science Bundle
+ID_OF_DE_THEABOMINABLEBEAST_DAILYINSTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>The Abominable Beast Milestone</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_MISTERNEGATIVE_WEB_CLAIM,Mister Negative Daily Free Claim
+ID_OF_DE_MISTERNEGATIVE_WEB_CLAIM,Claim shards every day to power up Mister Negative and dominate in War!
