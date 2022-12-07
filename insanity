@@ -88,7 +88,7 @@ ID_INSANITY_EMPTY,EMPTY
 ID_INSANITY_TIME_ELAPSED,TIME ELAPSED
 ID_INSANITY_TIMED_LOCKED,Complete {title} once to unlock Timed runs!
 ID_INSANITY_CURRENT_DURATION,Timed Run
-ID_INSANITY_ACCESS,You have unlocked Dark Dimension!
+ID_INSANITY_ACCESS,You have unlocked Epic Campaigns and Dark Dimension!
 ID_MISSION_INSANITY_01_01_DESC,Complete the sixteen trials of Dark Dimension II before you can challenge Dormammu's ultimate agent of destruction.
 ID_MISSION_INSANITY_01_16_DESC,"Defeat Dormammu's ultimate agent of destruction, the notorious Ultron, to escape from the Dark Dimension."
 ID_MISSION_INSANITY_02_01_DESC,Complete the ten trials of Dark Dimension I before you can challenge Dormammu's agent of shadows.
@@ -170,3 +170,13 @@ ID_MISSION_FOURHORSEMEN_03_07_NAME,Mission 7
 ID_MISSION_FOURHORSEMEN_03_08_NAME,Mission 8
 ID_MISSION_FOURHORSEMEN_03_09_NAME,Mission 9
 ID_MISSION_FOURHORSEMEN_03_10_NAME,Mission 10
+ID_MISSION_FOURHORSEMEN_04_01_NAME,Mission 1
+ID_MISSION_FOURHORSEMEN_04_02_NAME,Mission 2
+ID_MISSION_FOURHORSEMEN_04_03_NAME,Mission 3
+ID_MISSION_FOURHORSEMEN_04_04_NAME,Mission 4
+ID_MISSION_FOURHORSEMEN_04_05_NAME,Mission 5
+ID_MISSION_FOURHORSEMEN_04_06_NAME,Mission 6
+ID_MISSION_FOURHORSEMEN_04_07_NAME,Mission 7
+ID_MISSION_FOURHORSEMEN_04_08_NAME,Mission 8
+ID_MISSION_FOURHORSEMEN_04_09_NAME,Mission 9
+ID_MISSION_FOURHORSEMEN_04_10_NAME,Mission 10

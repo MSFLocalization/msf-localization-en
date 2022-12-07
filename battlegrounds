@@ -11,6 +11,7 @@ ID_BATTLEGROUNDS_RESULTS_HEADER,Arena Report
 ID_BATTLEGROUNDS_RESULTS_SUBHEADER,Your current rank in the Arena!
 ID_BATTLEGROUNDS_RESULTS_LOSE,Continue fighting to increase your rank and receive better <color=#ffffff>REWARDS</color>! Rewards are delivered on a daily basis to your <color=#ffffff>INBOX</color> based on your current rank.
 ID_BATTLEGROUNDS_RESULTS_WIN,CONGRATULATIONS! Continue fighting to increase your rank and receive better <color=#ffffff>REWARDS</color>! Rewards are delivered on a daily basis to your <color=#ffffff>INBOX</color> based on your current rank.
+ID_BATTLEGROUNDS_RESULTS_WIN_FIRST,Congratulations on reaching Rank 1! Check back later to see if your rank has changed. <color=#ffffff>REWARDS</color> are delivered on a daily basis to your <color=#ffffff>INBOX</color> based on your current rank.
 ID_BATTLEGROUNDS_MYRANK,MY RANK:
 ID_BATTLEGROUNDS_REWARD_PAYOUT,REWARD PAYOUT:
 ID_BATTLEGROUNDS_REWARD_TIER,REWARD TIER:

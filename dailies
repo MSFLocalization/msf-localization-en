@@ -438,8 +438,8 @@ ID_LOGIN_DE_ANNIV2022,"Log in every day to earn valuable gear, resources, and th
 ID_LOGIN_NA_H4H2022,Heroes for Hire
 ID_LOGIN_DE_H4H2022,"Log in every day to earn Gold, S.T.R.I.K.E. Tokens, and more!"
 ID_LOGIN_NA_SCOURGE1,Call for Pestilence
-ID_LOGIN_DE_SCOURGE1_FIRST,"The first Horsemen has arrived! Log in 14 days to claim various rewards to help you recruit Apocalype's first Horsemen, Morgan Le Fay!"
-ID_LOGIN_DE_SCOURGE1,"Log in 7 days to claim character shards to help you recruit Apocalype's first Horsemen, Morgan Le Fay!"
+ID_LOGIN_DE_SCOURGE1_FIRST,"The first Horseman has arrived! Log in 14 days to claim various rewards to help you recruit Apocalypse's first Horseman, Morgan Le Fay!"
+ID_LOGIN_DE_SCOURGE1,"Log in 7 days to claim character shards to help you recruit Apocalypse's first Horseman, Morgan Le Fay!"
 ID_LOGIN_NA_SCARLETWITCH,Scarlet Witch
 ID_LOGIN_NA_WITCHSCOVEN,Witch's Coven Calendar
 ID_LOGIN_DE_WITCHSCOVEN,"Log in every day to earn valuable gear, and Occult Hex Orbs!"
@@ -467,8 +467,8 @@ ID_LOGIN_DE_GUARDIAN,Log in every day to recruit Groot and Rocket Raccoon!
 ID_LOGIN_NA_SOLARSIZZLER,Solar Sizzler
 ID_LOGIN_DE_SOLARSIZZLER,Log in every day to earn valuable shards and Gold Orb Fragments!
 ID_LOGIN_NA_SCOURGE2,Call for Famine
-ID_LOGIN_DE_SCOURGE2_FIRST,"The second Horsemen has arrived! Log in 14 days to claim various rewards to help you recruit Apocalype's second Horsemen, Rogue!"
-ID_LOGIN_DE_SCOURGE2,"Log in 7 days to claim character shards to help you recruit Apocalype's second Horsemen, Rogue!"
+ID_LOGIN_DE_SCOURGE2_FIRST,"The second Horseman has arrived! Log in 14 days to claim various rewards to help you recruit Apocalypse's second Horseman, Rogue!"
+ID_LOGIN_DE_SCOURGE2,"Log in 7 days to claim character shards to help you recruit Apocalypse's second Horseman, Rogue!"
 ID_LOGIN_NA_PARTYINPARADISE,Party in Paradise
 ID_LOGIN_DE_PARTYINPARADISE,Log in every day to earn shards and Gold Orb Fragments!
 ID_LOGIN_NA_RIDEOFTHEVALKYRIE,Ride of the Valkyrie
@@ -494,8 +494,8 @@ ID_LOGIN_DE_POWEROFATTORNEY,Log in every day to earn She-Hulk shards and gear!
 ID_LOGIN_NA_CAMPAIGNSMYSTERIO,"Power Up Rewards! "
 ID_LOGIN_DE_CAMPAIGNMYSTERIO,"Unlock Mysterio, and power through the Villain's campaign!"
 ID_LOGIN_NA_SCOURGE3,Call for War
-ID_LOGIN_DE_SCOURGE3_FIRST,"The third Horsemen has arrived! Log in 14 days to claim various rewards to help you recruit Apocalype's third Horsemen, Red Hulk!"
-ID_LOGIN_DE_SCOURGE3,"Log in 7 days to claim character shards to help you recruit Apocalype's third Horsemen, Red Hulk!"
+ID_LOGIN_DE_SCOURGE3_FIRST,"The third Horseman has arrived! Log in 14 days to claim various rewards to help you recruit Apocalypse's third Horseman, Red Hulk!"
+ID_LOGIN_DE_SCOURGE3,"Log in 7 days to claim character shards to help you recruit Apocalypse's third Horseman, Red Hulk!"
 ID_LOGIN_DE_COSMICCRUCIBLECOUNTDOWN_S1,Prepare for the start of Season 1!
 ID_LOGIN_NA_ETHEREALARMS,Ethereal Arms
 ID_LOGIN_DE_ETHEREALARMS,Log in every day of the event to earn rewards!
@@ -515,6 +515,9 @@ ID_LOGIN_NA_SPYGAMES,Spy Games
 ID_LOGIN_DE_SPYGAMES,Log in every day of the event to earn rewards!
 ID_LOGIN_NA_NU_PURCH_CAL,Roster Raiser
 ID_LOGIN_DE_NU_PURCH_CAL,Log in every day for 7 days to unlock Gambit and earn up to 390 shards for more characters!
+ID_LOGIN_NA_SCOURGE4,Call for Death
+ID_LOGIN_DE_SCOURGE4_FIRST,"The fourth Horseman has arrived! Log in 14 days to claim various rewards to help you recruit Apocalypse's last Horseman, Archangel!"
+ID_LOGIN_DE_SCOURGE4,"Log in 7 days to claim character shards to help you recruit Apocalypse's last Horseman, Archangel!"
 ID_LOGIN_NA_THEABOMINABLEBEAST,The Abominable Beast
 ID_LOGIN_DE_THEABOMINABLEBEAST,Log in every day to earn Mad Science Orbs and more!
 ID_LOGIN_NA_XFORCE_NU,X-Force Team Welcome Calendar

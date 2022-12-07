@@ -66,6 +66,8 @@ ID_CAMPAIGN_TYPE_DOOM,DOOM
 ID_CAMPAIGN_TYPE_GLOBAL,NEXUS
 ID_CAMPAIGN_TYPE_PROLOGUE,PROLOGUE
 ID_CAMPAIGN_TYPE_VILLAIN,VILLAINS
+ID_CAPPED_MILESTONES_LIMIT,Limit: {curr}/{cap}
+ID_CAPPED_MILESTONES_UNLIMITED,Unlimited
 ID_CHALLENGES_ACCESS,You have unlocked Challenges!
 ID_CHALLENGES_NO_CHALLENGES_FOUND,There are currently no Challenges available.
 ID_CHALLENGES_NO_TIERS_FOUND,There are no tiers for this challenge.
@@ -361,6 +363,11 @@ ID_OPTIONS_CHAT_WAR_ROOM_LABEL,WAR ROOM
 ID_OPTIONS_COOKIE,COOKIE POLICY
 ID_OPTIONS_COPYRIGHT,"&copy; MARVEL\nMARVEL Strike Force Software\n&copy; 2022 Scopely, Inc.\nDeveloped by Scopely, Inc. All rights reserved."
 ID_OPTIONS_CCPA,Do Not Sell My Info
+ID_OPTIONS_CPRA,Do Not Sell or Share My Personal Information
+ID_OPTIONS_CPRA_OPTED_IN,OPTED IN
+ID_OPTIONS_CPRA_OPTED_OUT,OPTED OUT
+ID_OPTIONS_CPRA_01,"We and our advertising partners use cookies and similar technologies to show you advertising personalized to your interests (known as ""personalized advertising"") and measure its effectiveness. These technologies collect information such as advertising identifiers, IP addresses, and other unique identifiers from your devices. Scopely does not sell this data in exchange for money, but we want you to know that this sharing of information with partners for personalized advertising purposes nonetheless may be considered either a ""sale"" or ""share"" of personal information under the California Consumer Privacy Act (CCPA). The use of personalized advertising may also qualify as ""targeted advertising"" under other U.S. state laws. If you are located in California or one of these other states, you can opt out of personalized advertising as described below."
+ID_OPTIONS_CPRA_02,"If you would like to opt out of either the ""sale""/""sharing"" of your information or ""targeted advertising"" related to personalized ads that appear in connection with this app, move the toggle above to the ""opt out"" position.\n\nPlease note that if you have created a Scopely Account to log in across multiple Scopely apps and/or websites, then we will make reasonable efforts to apply your opt-out request to each of those apps and sites. Otherwise, if you want to opt out of personalized advertising arising from your use of another Scopely app or site, please visit that particular app's or site's Do Not Sell or Share My Personal Information page.\n\nAdditionally, note that if you opt out, you may continue to see ads in this app, but they will be less relevant to your interests. You may also still see personalized ads on your devices if you do not opt out from all of your devices and browsers and if you do not opt out of personalized advertising on the other apps and websites that you visit. To learn more about your additional choices for opting out of personalized advertising on other apps and websites, you can visit http://optout.aboutads.info/#/ or http://optout.networkadvertising.org/#.\n\nWe also recognize the Global Privacy Control as a valid, additional opt-out method. To learn more about the Global Privacy Control, please visit https://globalprivacycontrol.org/. Note that the Global Privacy Control is currently only applicable to opt-outs from websites. For mobile apps, please follow the instructions above.\n\nYou can learn more about our privacy practices by reading our Privacy Policy."
 ID_OPTIONS_CREDITS,CREDITS
 ID_OPTIONS_CREDITS_INFO,View the credits
 ID_OPTIONS_CREDITS_NASA,Select space imagery credited to Visible Earth and NASA.
@@ -410,6 +417,7 @@ ID_OPTIONS_COMBAT_REDUCEDCOMBATTEXT,Use reduced combat text
 ID_OPTIONS_COMBAT_AUTOBASIC,Show Basic-Only Autoplay option
 ID_OPTIONS_COMBATTEXTOPTIONS,Combat Text Filtering
 ID_OPTIONS_DISABLE_ADS,Disable Promotional Offers
+ID_OPTIONS_SEND_ALLIANCE_RECOMMENDATION,Receive Alliance Recommendations
 ID_OPTIONS_INSANITY_ACTIVE_JUMP,Active Dark Dimension Tab & Selection
 ID_OPTIONS_INSANITY_ACTIVE_JUMP_FIRST_RUN_ONLY,Active Dark Dimension Tab & Selection For First-Run Only
 ID_OPTIONS_AGRESSIVE_BACKGROUND_DOWNLOAD,Download all Assets on Wi-Fi
@@ -664,6 +672,7 @@ ID_UI_SELECT_SQUAD,SELECT SQUAD
 ID_UI_SELECT_AVAILABLE,Available Characters
 ID_UI_SELECT_LOCKED,Locked Characters
 ID_UI_SELECT_UNAVAILABLE,Unavailable Characters
+ID_UI_SELECT_UPGRADE_TO_USE,Upgrade to Use
 ID_UI_SELECT_REQUIRED,Required Characters
 ID_UI_SIM,AUTO WIN
 ID_UI_SIM_ATTEMPTS_REFRESH,ATTEMPTS REFRESH IN:
@@ -747,8 +756,10 @@ ID_EVENT_CAMPAIGN_AUTOWIN_UNLOCKED,AUTO WIN UNLOCKED
 ID_EVENT_CAMPAIGN_TIER_UNLOCKED,UNLOCKED
 ID_EVENT_CAMPAIGN_AUTOWIN_TIER_1,Clear a mission to\n<b><color=#ffffff>AUTO WIN</color></b> it on <color=#fff568>{tier0}</color>
 ID_EVENT_CAMPAIGN_AUTOWIN_TIER_2,Clear a mission to <b><color=#ffffff>AUTO WIN</color></b>\nit on <color=#fff568>{tier0}/{tier1}</color>
+ID_EVENT_CAMPAIGN_AUTOWIN_TIER_3,Clear a mission to\n<b><color=#ffffff>AUTO WIN</color></b> it on <color=#fff568>{tier0}</color>
 ID_EVENT_CAMPAIGN_AUTOWIN_COLORIZED_VICTORY_1,<b><color=#0E86FFFF>AUTO WIN</color></b> unlocked for this mission on <color=#FFEA00FF>{tier0}</color>
 ID_EVENT_CAMPAIGN_AUTOWIN_COLORIZED_VICTORY_2,<b><color=#0E86FFFF>AUTO WIN</color></b> unlocked for this mission on <color=#FFEA00FF>{tier0}</color> and <color=#FFEA00FF>{tier1}</color>
+ID_EVENT_CAMPAIGN_AUTOWIN_COLORIZED_VICTORY_3,<b><color=#0E86FFFF>AUTO WIN</color></b> unlocked for this mission on <color=#FFEA00FF>{tier0}</color> and <color=#FFEA00FF>{tier1}</color>
 ID_EVENT_CAMPAIGN_TYPE_ANTMAN,ANT-MAN
 ID_EVENT_CAMPAIGN_TYPE_WASP,WASP
 ID_BONUS_REWARD_QUANTITY_LEFT,<size=45><i>{qty}</i></size>\n<size=40>left</size>
@@ -797,6 +808,7 @@ ID_SSQUADS_SUBTITLE,Your saved squads can be selected from the list below.
 ID_SSQUADS_EMPTY,Save additional squads on the Squad Select screen.
 ID_SSQUADS_REMAINING,[{remaining_slots}/{max_slots}] SLOTS AVAILABLE
 ID_SSQUADS_MANAGE,MANAGE
+ID_SSQUADS_SORT,SORT
 ID_SSQUADS_MANAGE_SUBTITLE,Select the squads you wish to delete below.
 ID_SSQUADS_DONE,DONE
 ID_SSQUADS_DELETE,DELETE
@@ -821,6 +833,7 @@ ID_SSQUADS_SQUAD_SUBTITLE,Only characters that meet the requirement(s) for this 
 ID_SSQUADS_UNSAVED_CHANGES,UNSAVED CHANGES
 ID_SSQUADS_UNSAVED_CHANGES_SUBTITLE,You have unsaved changes to this squad. Are you sure you want to leave?
 ID_SQUAD_SAVED,SQUAD SAVED
+ID_SQUAD_REPLACED,SQUAD REPLACED
 ID_SQUAD_EMPTY,NO CHARACTERS TO SAVE
 ID_SQUAD_EMPTY_SUBTITLE,Please add at least one character to the squad
 ID_SQUAD_DELETE_TOAST,SQUAD DELETED
@@ -896,9 +909,11 @@ ID_EVENT_CAMPAIGN_TYPE_FANTOMEX,FANTOMEX
 ID_EVENT_CAMPAIGN_TYPE_VALKYRIE,VALKYRIE
 ID_EVENT_CAMPAIGN_TYPE_MORGAN,MORGAN LE FAY
 ID_EVENT_CAMPAIGN_TYPE_ROGUE,ROGUE
+ID_EVENT_CAMPAIGN_TYPE_REDHULK,RED HULK
 ID_EVENT_CAMPAIGN_TYPE_VIVVISION,VIV VISION
 ID_EVENT_CAMPAIGN_TYPE_SPIDERWEAVER,SPIDER-WEAVER
 ID_EVENT_CAMPAIGN_TYPE_NAKIA,NAKIA
+ID_EVENT_CAMPAIGN_TYPE_NEMESIS,NEMESIS
 ID_OFFER_AND,AND
 ID_OFFER_OR,OR
 ID_CHAL_UNLOCK,UNLOCK
@@ -936,23 +951,18 @@ ID_UI_DISCORD_URL,https://app.adjust.net.in/mfgo61o_w7d6dio?label=discord&redire
 ID_EVENT_CURRENCY_UNLOCK_MESSAGE,The Event Store is currently locked
 ID_UI_WATCH,WATCH
 ID_UI_ENTERNOW,ENTER NOW
-ID_SSQUADS_CATEGORY_DEFAULT_CATEGORY,SAVED SQUADS: ROSTER
-ID_SSQUADS_CATEGORY_BATTLEGROUNDS,SAVED SQUADS: ARENA
-ID_SSQUADS_CATEGORY_PVP,SAVED SQUADS: BLITZ
-ID_SSQUADS_CATEGORY_RAIDS,SAVED SQUADS: RAIDS
-ID_SSQUADS_CATEGORY_AVA,SAVED SQUADS: WAR
-ID_SSQUADS_CATEGORY_INSANITY,SAVED SQUADS: DARK DIMENSION
-ID_SSQUADS_CATEGORY_TOWER_MODE,SAVED SQUADS: TOWER MODE
-ID_SSQUADS_CATEGORY_GRAND_TOURNAMENT,SAVED SQUADS: COSMIC CRUCIBLE
-ID_SSQUADS_CATEGORY_RECOMMENDED_SQUADS,SAVED SQUADS: RECOMMENDED
-ID_SSQUADS_MANAGE_DEFAULT_CATEGORY,MANAGE: ROSTER
-ID_SSQUADS_MANAGE_BATTLEGROUNDS,MANAGE: ARENA
-ID_SSQUADS_MANAGE_PVP,MANAGE: BLITZ
-ID_SSQUADS_MANAGE_RAIDS,MANAGE: RAIDS
-ID_SSQUADS_MANAGE_AVA,MANAGE: WAR
-ID_SSQUADS_MANAGE_INSANITY,MANAGE: DARK DIMENSION
-ID_SSQUADS_MANAGE_TOWER_MODE,MANAGE: TOWER MODE
-ID_SSQUADS_MANAGE_GRAND_TOURNAMENT,MANAGE: COSMIC CRUCIBLE
+ID_SSQUADS_CATEGORY_DEFAULT_CATEGORY,ROSTER
+ID_SSQUADS_CATEGORY_BATTLEGROUNDS,ARENA
+ID_SSQUADS_CATEGORY_PVP,BLITZ
+ID_SSQUADS_CATEGORY_RAIDS,RAIDS
+ID_SSQUADS_CATEGORY_AVA,WAR
+ID_SSQUADS_CATEGORY_INSANITY,DARK DIMENSION
+ID_SSQUADS_CATEGORY_TOWER_MODE,TOWER MODE
+ID_SSQUADS_CATEGORY_GRAND_TOURNAMENT,COSMIC CRUCIBLE
+ID_SSQUADS_CATEGORY_RECOMMENDED_SQUADS,RECOMMENDED
+ID_SSQUADS_TITLE,SAVED SQUADS: {mode}
+ID_SSQUADS_MANAGE_TITLE,MANAGE: {mode}
+ID_SSQUADS_SORT_TITLE,SORT: {mode}
 ID_SSQUADS_COPY,COPY
 ID_SSQUADS_PASTE,PASTE
 ID_SSQUADS_ALL,ALL

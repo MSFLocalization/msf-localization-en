@@ -146,22 +146,6 @@ ID_GACHA_M_CRATE_PROMOTION_NAME,Red Star Orb
 ID_GACHA_M_CRATE_PROMOTION_DESCRIPTION,Get Red Star promotions to boost your characters' stats
 ID_GACHA_M_CRATE_PROMOTION_TOKEN_NAME,Red Star Orb Fragments
 ID_GACHA_M_CRATE_PROMOTION_TOKEN_DESCRIPTION,Collect Red Star Orb Fragments to earn a Red Star Orb
-ID_GACHA_M_CRATE_PROMOTION_A_NAME,Red Star Orb
-ID_GACHA_M_CRATE_PROMOTION_A_DESCRIPTION,Get Red Star promotions to boost your characters' stats
-ID_GACHA_M_CRATE_PROMOTION_A_TOKEN_NAME,Red Star Orb Fragments
-ID_GACHA_M_CRATE_PROMOTION_A_TOKEN_DESCRIPTION,Collect Red Star Orb Fragments to earn a Red Star Orb
-ID_GACHA_M_CRATE_PROMOTION_B_NAME,Red Star Orb
-ID_GACHA_M_CRATE_PROMOTION_B_DESCRIPTION,Get Red Star promotions to boost your characters' stats
-ID_GACHA_M_CRATE_PROMOTION_B_TOKEN_NAME,Red Star Orb Fragments
-ID_GACHA_M_CRATE_PROMOTION_B_TOKEN_DESCRIPTION,Collect Red Star Orb Fragments to earn a Red Star Orb
-ID_GACHA_M_CRATE_PROMOTION_C_NAME,Red Star Orb
-ID_GACHA_M_CRATE_PROMOTION_C_DESCRIPTION,Get Red Star promotions to boost your characters' stats
-ID_GACHA_M_CRATE_PROMOTION_C_TOKEN_NAME,Red Star Orb Fragments
-ID_GACHA_M_CRATE_PROMOTION_C_TOKEN_DESCRIPTION,Collect Red Star Orb Fragments to earn a Red Star Orb
-ID_GACHA_M_CRATE_PROMOTION_D_NAME,Red Star Orb
-ID_GACHA_M_CRATE_PROMOTION_D_DESCRIPTION,Get Red Star promotions to boost your characters' stats
-ID_GACHA_M_CRATE_PROMOTION_D_TOKEN_NAME,Red Star Orb Fragments
-ID_GACHA_M_CRATE_PROMOTION_D_TOKEN_DESCRIPTION,Collect Red Star Orb Fragments to earn a Red Star Orb
 ID_GACHA_CRATE_RAID_CHASE_SHARD_NAME,Raid Orb
 ID_GACHA_CRATE_RAID_CHASE_SHARD_DESCRIPTION,Contains 9 character shards
 ID_GACHA_CRATE_RAID_CHASE_SHARD_TOKEN_NAME,Raid Orb Fragments
@@ -772,6 +756,10 @@ ID_GACHA_CRATE_EVENT_CAMPAIGN_NAKIA_202211_NAME,Covert Orb
 ID_GACHA_CRATE_EVENT_CAMPAIGN_NAKIA_202211_DESCRIPTION,Earn Covert Orb Fragments in the Dogs of War Event Campaign.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_NAKIA_202211_TOKEN_NAME,Covert Orb Fragments
 ID_GACHA_CRATE_EVENT_CAMPAIGN_NAKIA_202211_TOKEN_DESCRIPTION,Collect Covert Orb Fragments in the Dogs of War Event Campaign to earn Covert Orbs.
+ID_GACHA_CRATE_EVENT_CAMPAIGN_NEMESIS_202212_NAME,Chosen Orb
+ID_GACHA_CRATE_EVENT_CAMPAIGN_NEMESIS_202212_DESCRIPTION,Earn Chosen Orb Fragments in the Harbinger of the End Event Campaign.
+ID_GACHA_CRATE_EVENT_CAMPAIGN_NEMESIS_202212_TOKEN_NAME,Chosen Orb Fragments
+ID_GACHA_CRATE_EVENT_CAMPAIGN_NEMESIS_202212_TOKEN_DESCRIPTION,Collect Chosen Orb Fragments in the Harbinger of the End Event Campaign to earn Chosen Orbs.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_PSYLOCKE_201905_NAME,Psychic Dojo Orb
 ID_GACHA_CRATE_EVENT_CAMPAIGN_PSYLOCKE_201905_DESCRIPTION,Earn Psychic Dojo Orb Fragments in the Move In Shadows Event Campaign.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_PSYLOCKE_201905_TOKEN_NAME,Psychic Dojo Orb Fragments
@@ -1176,6 +1164,10 @@ ID_GACHA_CRATE_FCO_AGATHAHARKNESS_SPECIAL_NAME,Coven Leader Orb
 ID_GACHA_CRATE_FCO_AGATHAHARKNESS_SPECIAL_DESCRIPTION,Earn up to 180 Agatha Harkness shards
 ID_GACHA_CRATE_FCO_AGATHAHARKNESS_SPECIAL_TOKEN_NAME,Coven Leader Orb Fragments
 ID_GACHA_CRATE_FCO_AGATHAHARKNESS_SPECIAL_TOKEN_DESCRIPTION,Collect Coven Leader Orb Fragments to earn a Coven Leader Orb.
+ID_GACHA_CRATE_FCO_AGENTVENOM_SPECIAL_NAME,Symbiote Soldier Orb
+ID_GACHA_CRATE_FCO_AGENTVENOM_SPECIAL_DESCRIPTION,Earn up to 180 Agent Venom shards
+ID_GACHA_CRATE_FCO_AGENTVENOM_SPECIAL_TOKEN_NAME,Symbiote Soldier Orb Fragments
+ID_GACHA_CRATE_FCO_AGENTVENOM_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Symbiote Soldier Orbs that contain up to 180 Agent Venom shards.
 ID_GACHA_CRATE_FCO_AIMDMG_SPEED_SPECIAL_NAME,Commando Orb
 ID_GACHA_CRATE_FCO_AIMDMG_SPEED_SPECIAL_DESCRIPTION,Get up to 180 A.I.M. Assaulter shards
 ID_GACHA_CRATE_FCO_AIMDMG_SPEED_SPECIAL_TOKEN_NAME,Commando Orb Fragments
@@ -1458,6 +1450,10 @@ ID_GACHA_CRATE_FCO_CAPTAINMARVEL_SPECIAL_NAME,Ace Pilot Orb
 ID_GACHA_CRATE_FCO_CAPTAINMARVEL_SPECIAL_DESCRIPTION,Earn up to 180 Captain Marvel shards
 ID_GACHA_CRATE_FCO_CAPTAINMARVEL_SPECIAL_TOKEN_NAME,Ace Pilot Orb Fragments
 ID_GACHA_CRATE_FCO_CAPTAINMARVEL_SPECIAL_TOKEN_DESCRIPTION,Collect Ace Pilot Orb Fragments to earn a Ace Pilot Orb.
+ID_GACHA_CRATE_FCO_CAPTAINCARTER_SPECIAL_NAME,Lost in Time Orb
+ID_GACHA_CRATE_FCO_CAPTAINCARTER_SPECIAL_DESCRIPTION,Earn up to 180 Captain Carter shards
+ID_GACHA_CRATE_FCO_CAPTAINCARTER_SPECIAL_TOKEN_NAME,Lost in Time Orb Fragments
+ID_GACHA_CRATE_FCO_CAPTAINCARTER_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Lost in Time Orbs that contain up to 180 Captain Carter shards.
 ID_GACHA_CRATE_FCO_CARNAGE_SPECIAL_NAME,Psychotic Orb
 ID_GACHA_CRATE_FCO_CARNAGE_SPECIAL_DESCRIPTION,Get up to 180 Carnage shards
 ID_GACHA_CRATE_FCO_CARNAGE_SPECIAL_TOKEN_NAME,Psychotic Orb Fragments
@@ -2867,6 +2863,10 @@ ID_OF_NA_NEGASONIC_GOLD_OFFER_1,Negasonic: Gold
 ID_OF_DE_NEGASONIC_GOLD_OFFER_50,Get this amazing bundle and level up Negasonic. Get over <color=#fff568>50%</color> off when you buy now!
 ID_OF_NA_NEGASONIC_TRAINING_OFFER_1,Negasonic: Training
 ID_OF_DE_NEGASONIC_TRAINING_OFFER_40,Get this amazing bundle and level up Negasonic. Get over <color=#fff568>40%</color> off when you buy now!
+ID_GACHA_CRATE_FCO_NEMESIS_SPECIAL_NAME,Exile Orb
+ID_GACHA_CRATE_FCO_NEMESIS_SPECIAL_DESCRIPTION,Earn up to 180 Nemesis shards
+ID_GACHA_CRATE_FCO_NEMESIS_SPECIAL_TOKEN_NAME,Exile Orb Fragments
+ID_GACHA_CRATE_FCO_NEMESIS_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Exile Orbs that contain up to 180 Nemesis shards.
 ID_GACHA_CRATE_FCO_NICOMINORU_SPECIAL_NAME,Sister Grimm Orb
 ID_GACHA_CRATE_FCO_NICOMINORU_SPECIAL_DESCRIPTION,Earn up to 180 Nico Minoru shards
 ID_GACHA_CRATE_FCO_NICOMINORU_SPECIAL_TOKEN_NAME,Sister Grimm Orb Fragments
@@ -3681,6 +3681,10 @@ ID_OF_DE_THOR_OFFER_75,Upgrade your Blaster team with this Mystic Avenger. Get <
 ID_OF_DE_THOR_OFFER_125,Upgrade your Blaster team with this Mystic Avenger. Get <color=#fff568>125 Thor shards</color> and use his Hammer Throw to chain attack enemies and use his ultimate ability to stun enemies.
 ID_OF_DE_THOR_OFFER_150,Upgrade your Blaster team with this Mystic Avenger. Get <color=#fff568>150 Thor shards</color> and use his Hammer Throw to chain attack enemies and use his ultimate ability to stun enemies.
 ID_OF_DE_THOR_OFFER_VAR,Upgrade your Blaster team with this Mystic Avenger. Get <color=#fff568>{var1} Thor shards</color> and use his Hammer Throw to chain attack enemies and use his ultimate ability to stun enemies.
+ID_GACHA_CRATE_FCO_TITANIA_SPECIAL_NAME,Glow-Up Orb
+ID_GACHA_CRATE_FCO_TITANIA_SPECIAL_DESCRIPTION,Earn up to 180 Titania shards
+ID_GACHA_CRATE_FCO_TITANIA_SPECIAL_TOKEN_NAME,Glow-Up Orb Fragments
+ID_GACHA_CRATE_FCO_TITANIA_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Glow-Up Orbs that contain up to 180 Titania shards.
 ID_GACHA_CRATE_FCO_TOAD_SPECIAL_NAME,Sticky Situation Orb
 ID_GACHA_CRATE_FCO_TOAD_SPECIAL_DESCRIPTION,Get up to 180 Toad shards
 ID_GACHA_CRATE_FCO_TOAD_SPECIAL_TOKEN_NAME,Sticky Situation Orb Fragments
@@ -3756,6 +3760,10 @@ ID_OF_DE_MILESMORALES_OFFER_50,Round out your Spider-Verse team with this slick 
 ID_OF_DE_MILESMORALES_OFFER_55,Round out your Spider-Verse team with this slick City Brawler! Get <color=#fff568>55 Spider-Man (Miles) shards</color> and navigate the battlefield with Stealth. Clear positive effects while applying Slow and Disrupted to your foes.
 ID_OF_DE_MILESMORALES_OFFER_75,Round out your Spider-Verse team with this slick City Brawler! Get <color=#fff568>75 Spider-Man (Miles) shards</color> and navigate the battlefield with Stealth. Clear positive effects while applying Slow and Disrupted to your foes.
 ID_OF_DE_MILESMORALES_OFFER_125,Round out your Spider-Verse team with this slick City Brawler! Get <color=#fff568>125 Spider-Man (Miles) shards</color> and navigate the battlefield with Stealth. Clear positive effects while applying Slow and Disrupted to your foes.
+ID_GACHA_CRATE_FCO_USAGENT_SPECIAL_NAME,American Patriot Orb
+ID_GACHA_CRATE_FCO_USAGENT_SPECIAL_DESCRIPTION,Earn up to 180 U.S. Agent shards
+ID_GACHA_CRATE_FCO_USAGENT_SPECIAL_TOKEN_NAME,American Patriot Orb Fragments
+ID_GACHA_CRATE_FCO_USAGENT_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for American Patriot Orbs that contain up to 180 U.S. Agent shards.
 ID_GACHA_CRATE_FCO_VALKYRIE_SPECIAL_NAME,Seer of the Slain Orb
 ID_GACHA_CRATE_FCO_VALKYRIE_SPECIAL_DESCRIPTION,Earn up to 180 Valkyrie shards
 ID_GACHA_CRATE_FCO_VALKYRIE_SPECIAL_TOKEN_NAME,Seer of the Slain Orb Fragments
@@ -8136,9 +8144,9 @@ ID_OF_DE_STARTER_COLLECTOR_V2,Double down with <color=#fff568>OVER {var1}% VALUE
 ID_OF_NA_STARTER_MEGA,Mega Orb ONE-TIME Offer
 ID_OF_DE_STARTER_MEGA,<color=#fff568>You won't see this offer ever again</color>! Strike while the iron is hot and get an <color=#fff568>INSANE {var1}% VALUE</color> with a massive stack of fragments for Mega orbs (Minimum {var2} shards each open!) so you can <color=#fff568>unlock and dominate with some of the best characters in the game</color>! <color=#fff568>Buy now before it's gone for good</color>!
 ID_GACHA_CRATE_PESTILENCE2_NAME,Pestilence Orb
-ID_GACHA_CRATE_PESTILENCE2_DESCRIPTION,Usher in the Horsemen of Pestilence
+ID_GACHA_CRATE_PESTILENCE2_DESCRIPTION,Usher in the Horseman of Pestilence
 ID_GACHA_CRATE_PESTILENCE2_TOKEN_NAME,Pestilence Orb Fragments
-ID_GACHA_CRATE_PESTILENCE2_TOKEN_DESCRIPTION,Collect Pestilence Orb Fragments to earn a Pestilence Orb.
+ID_GACHA_CRATE_PESTILENCE2_TOKEN_DESCRIPTION,Collect Fragments for Pestilence Orbs that contain up to 100 Morgan Le Fay shards.
 ID_OF_NA_567_RED_STAR_DRAFT_SILVERSURFER,5-7 Red Star Draft: Silver Surfer
 ID_OF_DE_567_RED_STAR_DRAFT_SILVERSURFER,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Silver Surfer</color>."
 ID_OF_NA_SOLSTICE,Solstice Super Pack
@@ -8199,9 +8207,9 @@ ID_GACHA_CRATE_HEAVY_ARMOR_DESCRIPTION,Contains Hulkbuster shards
 ID_GACHA_CRATE_HEAVY_ARMOR_TOKEN_NAME,Heavy Armor Orb Fragments
 ID_GACHA_CRATE_HEAVY_ARMOR_TOKEN_DESCRIPTION,Collect Heavy Armor Orb Fragments to earn Heavy Armor Orbs
 ID_GACHA_CRATE_FAMINE_NAME,Famine Orb
-ID_GACHA_CRATE_FAMINE_DESCRIPTION,Usher in the Horsemen of Famine
+ID_GACHA_CRATE_FAMINE_DESCRIPTION,Usher in the Horseman of Famine
 ID_GACHA_CRATE_FAMINE_TOKEN_NAME,Famine Orb Fragments
-ID_GACHA_CRATE_FAMINE_TOKEN_DESCRIPTION,Collect Famine Orb Fragments to earn a Famine Orb.
+ID_GACHA_CRATE_FAMINE_TOKEN_DESCRIPTION,Collect Fragments for Famine Orbs that contain up to 100 Rogue shards.
 ID_GACHA_CRATE_GAMMA_GOLIATH_NAME,Gamma Goliath Orb
 ID_GACHA_CRATE_GAMMA_GOLIATH_DESCRIPTION,Get up to 100 Abomination Shards
 ID_GACHA_CRATE_GAMMA_GOLIATH_TOKEN_NAME,Gamma Goliath Orb Fragments
@@ -8221,10 +8229,14 @@ ID_GACHA_CRATE_PLAGUEMONGER_DESCRIPTION,"Contains Darkhold, Web-Warrior, and Dar
 ID_GACHA_CRATE_PLAGUEMONGER_TOKEN_NAME,Plaguemonger Orb Fragments
 ID_GACHA_CRATE_PLAGUEMONGER_TOKEN_DESCRIPTION,Collect Plaguemonger Orb Fragments to earn Plaguemonger Orbs and get progress in the Contagion Corps Event
 ID_GACHA_CRATE_WAR_NAME,War Orb
-ID_GACHA_CRATE_WAR_DESCRIPTION,Usher in the Horsemen of War
+ID_GACHA_CRATE_WAR_DESCRIPTION,Usher in the Horseman of War
 ID_GACHA_CRATE_WAR_TOKEN_NAME,War Orb Fragments
-ID_GACHA_CRATE_WAR_TOKEN_DESCRIPTION,Collect War Orb Fragments to earn a War Orb.
+ID_GACHA_CRATE_WAR_TOKEN_DESCRIPTION,Collect Fragments for War Orbs that contain up to 100 Red Hulk Shards.
 ID_BP_NA_DUALOFFER_DESCRIPTION_2_50,Unlock Premium rewards\nand <color=#fff568>50 Ratings Levels</color>
+ID_GACHA_CRATE_DEATH_NAME,Death Orb
+ID_GACHA_CRATE_DEATH_DESCRIPTION,Usher in the Horseman of Death
+ID_GACHA_CRATE_DEATH_TOKEN_NAME,Death Orb Fragments
+ID_GACHA_CRATE_DEATH_TOKEN_DESCRIPTION,Collect Fragments for Death Orbs that contain up to 100 Archangel shards.
 ID_GACHA_CRATE_MAD_SCIENCE_NAME,Mad Science Orb
 ID_GACHA_CRATE_MAD_SCIENCE_DESCRIPTION,Contains Dark Beast shards
 ID_GACHA_CRATE_MAD_SCIENCE_TOKEN_DESCRIPTION,Collect Mad Science Orb Fragments to earn Mad Science Orbs and get progress in The Abominable Beast Event

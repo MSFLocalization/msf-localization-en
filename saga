@@ -24,9 +24,15 @@ ID_ECM_FAMINE_REWARD_III,Earn Rogue's Costume + T2 L5 Iso-8 + Ions!
 ID_ECM_WAR_NAME,WAR
 ID_ECM_WAR_DESC,"Use Gamma characters to power up Red Hulk! Earn his new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
 ID_ECM_WAR_FLAVOR,Enhance Red Hulk
+ID_ECM_WAR_REWARD_I,Not used - do not localize
+ID_ECM_WAR_REWARD_II,Earn Red Hulk's New Awakened Ability Materials!
+ID_ECM_WAR_REWARD_III,Earn Red Hulk's Costume + T2 L5 Iso-8 + Ions!
 ID_ECM_DEATH_NAME,DEATH
 ID_ECM_DEATH_DESC,"Use this Horseman's team to power them up! Earn their new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
 ID_ECM_DEATH_FLAVOR,Enhance Death Horsemen
+ID_ECM_APOCALYPSE_NAME,APOCALYPSE
+ID_ECM_APOCALYPSE_DESC,Use your Horsemen to earn Apocalypse Shards (PLACEHOLDER)
+ID_ECM_APOCALYPSE_FLAVOR,Earn Apocalypse Shards (PLACEHOLDER)
 ID_ECM_SAGA_DIFFICULTY_I,HARD
 ID_ECM_SAGA_DIFFICULTY_II,HEROIC
 ID_ECM_SAGA_DIFFICULTY_III,APOCALYPTIC
@@ -42,15 +48,29 @@ ID_ECM_CHANCE_ROGUE,Enhance Rogue
 ID_ECM_CHANCE_ROGUE_I,Gear up Rogue
 ID_ECM_CHANCE_ROGUE_II,Awaken Her Power
 ID_ECM_CHANCE_ROGUE_III,Suit Up for For Battle
+ID_ECM_CHANCE_REDHULK,Enhance Red Hulk
+ID_ECM_CHANCE_REDHULK_I,Gear up Red Hulk
+ID_ECM_CHANCE_REDHULK_II,Awaken His Power
+ID_ECM_CHANCE_REDHULK_III,Suit Up for For Battle
 ID_REQUIRES_EC_DARKHOLD_5_GT13,5 <color=#fff568>DARKHOLD</color> Characters at GEAR 13 REQUIRED
 ID_REQUIRES_EC_DARKHOLD_5_GT15,5 <color=#fff568>DARKHOLD</color> Characters at GEAR 15 REQUIRED
 ID_REQUIRES_EC_DARKHOLD_5_GT17,5 <color=#fff568>DARKHOLD</color> Characters at GEAR 17 REQUIRED
 ID_REQUIRES_EC_UNLIMITEDXMEN_5_GT13,5 <color=#fff568>UNLIMITED X-MEN</color> Characters at GEAR 13 REQUIRED
 ID_REQUIRES_EC_UNLIMITEDXMEN_5_GT15,5 <color=#fff568>UNLIMITED X-MEN</color> Characters at GEAR 15 REQUIRED
 ID_REQUIRES_EC_UNLIMITEDXMEN_5_GT17,5 <color=#fff568>UNLIMITED X-MEN</color> Characters at GEAR 17 REQUIRED
+ID_REQUIRES_EC_GAMMA_5_GT13,5 <color=#fff568>GAMMA</color> Characters at GEAR 13 REQUIRED
+ID_REQUIRES_EC_GAMMA_5_GT15,5 <color=#fff568>GAMMA</color> Characters at GEAR 15 REQUIRED
+ID_REQUIRES_EC_GAMMA_5_GT17,5 <color=#fff568>GAMMA</color> Characters at GEAR 17 REQUIRED
 ID_ECM_MORGAN_DESC_C,Use Darkhold characters at Gear Tier 13+ to earn gear to power up Morgan Le Fay and her team!
 ID_ECM_MORGAN_DESC_B,Use Darkhold characters at Gear Tier 15+ to earn Morgan Le Fay's new Awakened Ability Materials to unlock her true power!
 ID_ECM_MORGAN_DESC_A,Use Darkhold characters at Gear Tier 17+ to earn Morgan Le Fay's Horseman costume and T2 L5 Iso-8 and Ions!
 ID_ECM_ROGUE_DESC_C,Use Unlimited X-Men characters at Gear Tier 13+ to earn gear to power up Rogue and her team!
 ID_ECM_ROGUE_DESC_B,Use Unlimited X-Men characters at Gear Tier 15+ to earn Rogue's new Awakened Ability Materials to unlock her true power!
 ID_ECM_ROGUE_DESC_A,Use Unlimited X-Men characters at Gear Tier 17+ to earn Rogue's Horseman costume and T2 L5 Iso-8 and Ions!
+ID_ECM_REDHULK_DESC_C,Use Gamma characters at Gear Tier 13+ to earn gear to power up Red Hulk and his team!
+ID_ECM_REDHULK_DESC_B,Use Gamma characters at Gear Tier 15+ to earn Red Hulk's new Awakened Ability Materials to unlock his true power!
+ID_ECM_REDHULK_DESC_A,Use Gamma characters at Gear Tier 17+ to earn Red Hulk's Horseman costume and T2 L5 Iso-8 and Ions!
+ID_SAGAS_OTHER_CHAPTERS_REQUIRED,3-Star Other Chapters on {difficulty}
+ID_SAGAS_CHAPTERS_REQUIRED,3-Star Chapters on {difficulty}
+ID_SAGAS_DIFFICULTY_UNLOCKED,{difficulty} Mode Unlocked!
+ID_SAGAS_APOCALYPSE_CHAPTER_COMPLETED,Apocalypse has Risen!

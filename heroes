@@ -5,6 +5,8 @@ ID_SHARD_ADAMWARLOCK_NAME,Adam Warlock
 ID_SHARD_ADAMWARLOCK_DESCRIPTION,"Guardian of the Soul Stone, Adam Warlock prevents his Infinity Watch allies' positive effects from being cleared or flipped."
 ID_SHARD_AGATHAHARKNESS_NAME,Agatha Harkness
 ID_SHARD_AGATHAHARKNESS_DESCRIPTION,"One of the most powerful witches alive, Agatha Harkness is a centuries-old survivor of the Salem Witch Trials who uses her potent spells to debilitate her enemies."
+ID_SHARD_AGENTVENOM_NAME,Agent Venom
+ID_SHARD_AGENTVENOM_DESCRIPTION,"Disabled veteran Flash Thompson volunteered to be bonded with the Venom symbiote, combining his mastery of weaponry with symbiote savagery to deal massive damage to their enemies."
 ID_SHARD_AIMCONTROL_INFECT_NAME,A.I.M. Infector
 ID_SHARD_AIMCONTROL_INFECT_DESCRIPTION,A virulent attacker who prevents healing and passes negative effects to his targets.
 ID_SHARD_AIMDMG_OFFENSE_NAME,A.I.M. Monstrosity
@@ -25,6 +27,8 @@ ID_SHARD_ANTMAN_NAME,Ant-Man
 ID_SHARD_ANTMAN_DESCRIPTION,A master thief skilled at disabling powerful opponents with the help of his Pym Particle powered suit.
 ID_SHARD_APOCALYPSE_NAME,Apocalypse
 ID_SHARD_APOCALYPSE_DESCRIPTION,
+ID_SHARD_ARCHANGEL_NAME,Archangel
+ID_SHARD_ARCHANGEL_DESCRIPTION,"Formerly one of the five original X-Men, Angel was granted metal wings by Apocalypse and transformed into Archangel, the Horseman of Death."
 ID_SHARD_BARONMORDO_NAME,Mordo
 ID_SHARD_BARONMORDO_DESCRIPTION,A powerful sorcerer who weakens his enemies with forbidden magic.
 ID_SHARD_BEAST_NAME,Beast
@@ -53,6 +57,8 @@ ID_SHARD_CAPTAINAMERICA_NAME,Captain America
 ID_SHARD_CAPTAINAMERICA_DESCRIPTION,A resilient leader who provides energy to his team while blocking enemy attacks.
 ID_SHARD_SAMWILSON_NAME,Captain America (Sam)
 ID_SHARD_SAMWILSON_DESCRIPTION,"Taking up the mantle of Captain America, Sam Wilson uses his legendary shield to protect and inspire others, granting bonuses to Avenger and Skill allies."
+ID_SHARD_CAPTAINCARTER_NAME,Captain Carter
+ID_SHARD_CAPTAINCARTER_DESCRIPTION,"When Steve Rogers was injured before he could take the Super Soldier Serum, Agent Peggy Carter took his place, becoming a sentinel of liberty and healer of the Project Rebirth team."
 ID_SHARD_CAPTAINMARVEL_NAME,Captain Marvel
 ID_SHARD_CAPTAINMARVEL_DESCRIPTION,A powerful cosmic soldier who breaks down the defenses of multiple foes and gains overwhelming power in Binary form.
 ID_SHARD_CARNAGE_NAME,Carnage
@@ -303,6 +309,8 @@ ID_SHARD_NEBULA_NAME,Nebula
 ID_SHARD_NEBULA_DESCRIPTION,A ruthless attacker who assails opponents with frequent attacks.
 ID_SHARD_NEGASONIC_NAME,Negasonic
 ID_SHARD_NEGASONIC_DESCRIPTION,"Negasonic Teenage Warhead is a Mutant Blaster whose explosive hits are so hard, they knock positive effects off her target."
+ID_SHARD_NEMESIS_NAME,Nemesis
+ID_SHARD_NEMESIS_DESCRIPTION,"The heir to Apocalypse from a world where mutants dominate humans, Nemesis drains the life force of his enemies, transferring their health to his Death Seed allies."
 ID_SHARD_NICKFURY_NAME,Nick Fury
 ID_SHARD_NICKFURY_DESCRIPTION,The legendary leader who spreads advantages to allies and summons S.H.I.E.L.D. agents.
 ID_SHARD_NICOMINORU_NAME,Nico Minoru
@@ -463,6 +471,8 @@ ID_SHARD_THOR_NAME,Thor
 ID_SHARD_THOR_DESCRIPTION,The God of Thunder who deals great damage and weakens multiple foes.
 ID_SHARD_THORNPC_NAME,Thor
 ID_SHARD_THORNPC_DESCRIPTION,The God of Thunder who deals great damage and weakens multiple foes.
+ID_SHARD_TITANIA_NAME,Titania
+ID_SHARD_TITANIA_DESCRIPTION,"Social media maven, bombshell brawler, and Master of Evil, Titania is quick with a block - whether it's Ability Block, Heal Block, or online."
 ID_SHARD_TOAD_NAME,Toad
 ID_SHARD_TOAD_DESCRIPTION,"A sniveling sidekick, Toad manipulates enemy Status Effects while striking from behind his allies."
 ID_SHARD_ULTIMUS_NAME,Ultimus
@@ -483,6 +493,8 @@ ID_SHARD_ULTRONSUPPORT_HEAL_NAME,Ultron Fabricator
 ID_SHARD_ULTRONSUPPORT_HEAL_DESCRIPTION,An Ultron drone who deploys nanobots to reconstruct allies.
 ID_SHARD_ULTRONTANK_TAUNT_NAME,Ultron Reinforcer
 ID_SHARD_ULTRONTANK_TAUNT_DESCRIPTION,An Ultron construction drone who taunts enemies to absorb damage.
+ID_SHARD_USAGENT_NAME,U.S. Agent
+ID_SHARD_USAGENT_DESCRIPTION,"When the world needed a Captain America, John Walker stepped up. As the Super Soldier U.S. Agent, he helps the Project Rebirth team by blocking enemies' abilities and giving his allies bursts of speed."
 ID_SHARD_VALKYRIE_NAME,Valkyrie
 ID_SHARD_VALKYRIE_DESCRIPTION,"The leader of Odin's personal guard, Valkyrie boosts her fellow Hero Asgardians and deals out destructive blows to her opponents with her sword, Dragonfang."
 ID_SHARD_VENOM_NAME,Venom

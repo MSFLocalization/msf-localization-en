@@ -897,6 +897,15 @@ ID_ECM_WM_MB,War Machine is dispatched to discover the secrets of Ultimus's arma
 ID_ECM_WM_MC,GO!
 ID_ECM_WM_MT,The Prelude to War Event has started!
 ID_ECM_WM_MS,Assist War Machine in defeating Ultimus's armada of advanced Helicarriers
+ID_ECM_NEMESIS_NAME,Harbinger of the End
+ID_ECM_NEMESIS_DESC,"Sent by Apocalypse to rid the planet of lesser beings, Nemesis is meticulous when laying waste to humans and their allies."
+ID_ECM_CHANCE_NEMESIS,Earn NEMESIS shards
+ID_ECM_NEMESIS_DESC_A,"Recommendations:\n- Squad Lvl 85+\n- Gear Tier 15+\n- Ability Lvl 6+\n\nSent by Apocalypse to rid the planet of lesser beings, Nemesis is meticulous when laying waste to humans and their allies."
+ID_ECM_NEMESIS_DESC_B,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nSent by Apocalypse to rid the planet of lesser beings, Nemesis is meticulous when laying waste to humans and their allies."
+ID_ECM_NEMESIS_DESC_C,"Recommendations:\n- Squad Lvl 35+\n- Gear Tier 6+\n- Ability Lvl 2+\n\nSent by Apocalypse to rid the planet of lesser beings, Nemesis is meticulous when laying waste to humans and their allies."
+ID_ECM_NEMESIS_MB,"Sent by Apocalypse to rid the planet of lesser beings, Nemesis is meticulous when laying waste to humans and their allies."
+ID_ECM_NEMESIS_MC,GO!
+ID_ECM_NEMESIS_MT,The Harbinger of the End event has started!
 ID_TU_AM_WA_NAME,Back to Tiny World
 ID_TU_AM_WA_DESC,"After receiving a distress call from resistance forces, Ant-Man and Wasp must enter the tiny dimension to help liberate Earth from its overlords."
 ID_TU_AM_WA_CHANCE,Earn amazing rewards!
@@ -1490,6 +1499,27 @@ ID_INFO_BO_FESTIVALOFFROST,"Earn points toward this month-long milestone by coll
 ID_INFO_NA_CYBERTURKEYHUNT,Cyber Turkey Hunt
 ID_INFO_DE_CYBERTURKEYHUNT,Collect Turkeys and Earn Rewards!
 ID_INFO_BO_CYBERTURKEYHUNT,"Commander,\n\nIt's time to get your <color=#fff568> Cyber Turkey Hunt</color> on!\n\nCollect <color=#fff568> Cyber Turkey </color> through login calendars and offers and make progress on the Cyber Hunt Milestones for these amazing rewards:\n- T2 Level 5 Ions\n- Character Shards\n- Elite 7 Credits\n- Promotion Credits \n- And more!\n\nGood luck on your hunt!"
+ID_EVENT_GUARDIANSGROOTMAS_EASY_NAME,Story
+ID_EVENT_GUARDIANSGROOTMAS_NORM_NAME,Hard
+ID_EVENT_GUARDIANSGROOTMAS_HARD_NAME,Guardian
+ID_EVENT_GUARDIANSGROOTMAS_EASY_DESC,Join forces with the Guardians of the Galaxy and ponder the true meaning of Grootmas.\n\nThis event tier is intended for new players of at least level 10.
+ID_EVENT_GUARDIANSGROOTMAS_NORM_DESC,"Recommendations:\n- Squad Lvl 65+\n- Gear Tier 12+\n- Ability Lvl 5+\n\n Wreck some Kree and Ravagers while pondering the true meaning of Grootmas.\n\nIn the spirit of Grootmas, these missions count as all game modes."
+ID_EVENT_GUARDIANSGROOTMAS_HARD_DESC,"Recommendations:\n- Squad Lvl 85+\n- Gear Tier 14+\n- Ability Lvl 6+\n\n Get wrecked by some Kree and Ravagers while pondering the true meaning of Grootmas.\n\nIn the spirit of Grootmas, these missions count as all game modes."
+ID_EVENT_GUARDIANSGROOTMAS_CAMP_NAME,How the Guardians Stole Grootmas
+ID_EVENT_GUARDIANSGROOTMAS_CAMP_DESC,"Join forces with the Guardians of the Galaxy and investigate a mysterious new threat, while learning all about everyone's favorite Groot themed space holiday: Grootmas!\n\nThis event is accessible both to new players and long time players seeking a challenge."
+ID_EVENT_GUARDIANSGROOTMAS_CAMP_FLAV,Special Event
+ID_EVENT_GUARDIANSGROOTMAS_EASY_FLAV,For Level 10+
+ID_EVENT_GUARDIANSGROOTMAS_NORM_FLAV,For Level 65+
+ID_EVENT_GUARDIANSGROOTMAS_HARD_FLAV,For Level 85+
 ID_INFO_NA_THEABOMINABLEBEAST,The Abominable Beast
 ID_INFO_DE_THEABOMINABLEBEAST,Recruit Dark Beast!
 ID_INFO_BO_THEABOMINABLEBEAST,Recruit a mad scientist during <color=#fff568>The Abominable Beast</color> Event!\n\nInject <color=#fff568>Dark Beast character shards</color> and these exciting rewards into your roster:\n\n- <color=#fff568>Snowballs</color>\n- <color=#fff568>Coal Eyes</color>\n- Teal Mini-Uniques\n- Gold Promotion Credits\n- T4 Ability Materials\n- 5-Red Star Magneto\n- And more!
+ID_INFO_NA_HERALDOFDEATH,Herald of Death
+ID_INFO_DE_HERALDOFDEATH,Death Scourge character shards!
+ID_INFO_BO_HERALDOFDEATH,"Prepare for the <color=#fff568>Death</color> Scourge Event and make <color=#fff568>Festival of Frost</color> progress with Snowballs during this limited time event:\n\n<color=#fff568>Deathbringer Orb</color>\nEarn Deathbringer Orbs from select Campaign nodes and the Technical Tactics web milestone, and then open them to earn roster-changing rewards. The orbs include character shards for Wakandan and Bionic Avenger characters, along with Mutant and Minion shards.\n\n<color=#fff568>Herald of Death Milestone</color>\nScore points toward this 7-day milestone by battling in war and by opening Deathbringer Orbs to earn:\n\n- Carrot Nose\n- Snowballs\n- Shards for Wakandans and Bionic Avengers\n- T4 Ability Materials\n- Elite 5 Credits\n\n<color=#fff568>Technical Tactics Web Milestone</color>\nRaid to rack up points in this daily milestone. Rewards include Deathbringer Orb Fragments and more!"
+ID_INFO_NA_TECHNICALTACTICS,Technical Tactics
+ID_INFO_DE_TECHNICALTACTICS,Earn Deathbringer Orb Fragments on the Web!
+ID_INFO_BO_TECHNICALTACTICS,"Earn more <color=#fff568>Deathbringer Orbs</color> in the daily <color=#fff568>Technical Tactics</color> Web Milestone.\n\nPlay raid battles every day, then visit MarvelStrikeForce.com to claim your rewards.\n\nCome back every day for more Snowballs, Deathbringer Orbs, and more!"
+ID_INFO_NA_GROOTMAS_ANNOUNCE,How the Guardians Stole Grootmas
+ID_INFO_DE_GROOTMAS_ANNOUNCE,"Character shards, costumes, and more!"
+ID_INFO_BO_GROOTMAS_ANNOUNCE,"You're needed for this important holiday mission:\nJoin the Guardians as they attempt to save Groot from a band of deadly Ravagers!\n\n<color=#04db48>Rewards</color>\nUse limited-time <color=#e30202>Grootmas Energy</color> to battle through 10 event nodes and earn Guardians character shards, Teal and Orange Gear, and more!\n\nThe Hard and Guardian Difficulties will have first-time rewards that include Bits to purchase Groot's ""Fully Trimmed"" Costume, Drax's ""Holiday Sweater"" Costume, and fully crafted Bio, Skill, and Tech gear.\n\n<color=#04db48>Mission Requirements</color>\n<color=#e30202>Story</color> Difficulty: No requirements\n<color=#04db48>Hard</color> Difficulty: Guardian characters\n<color=#e30202>Guardian</color> Difficulty: Guardian characters\n\n<color=#04db48>Difficulty Recommendations</color>\n<color=#e30202>Story:</color> Characters at Level 10+\n<color=#04db48>Hard</color>: Character Level 65+, Gear Tier 12, 6 Yellow Stars, 3 Red Stars, and T1 Level 3 Iso-8\n<color=#e30202>Guardian</color>: Character Level 85, gear Tier 15, 7 Yellow Stars, 2 Red Stars, T1 Level 4 Iso-8"

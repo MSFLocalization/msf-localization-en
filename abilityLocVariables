@@ -594,6 +594,14 @@ ID_ABILITY_REDHULK_VAR_SPECIAL_TURNMETER,thislevel.special.action.3.change_pct
 ID_ABILITY_REDHULK_VAR_SPECIAL_TURNMETER_NEXT,nextlevel.special.action.3.change_pct
 ID_ABILITY_REDHULK_VAR_SPECIAL_REVIVE_REMOVE,thislevel.special.action.4.count
 ID_ABILITY_REDHULK_VAR_SPECIAL_REVIVE_REMOVE_NEXT,nextlevel.special.action.4.count
+ID_ABILITY_REDHULK_VAR_SPECIAL_HORSE_SPDBAR_LIMIT,thislevel.special.action.20.target.limit
+ID_ABILITY_REDHULK_VAR_SPECIAL_HORSE_SPDBAR_LIMIT_NEXT,nextlevel.special.action.20.target.limit
+ID_ABILITY_REDHULK_VAR_SPECIAL_HORSE_SPDBAR,thislevel.special.action.20.change_pct
+ID_ABILITY_REDHULK_VAR_SPECIAL_HORSE_SPDBAR_NEXT,nextlevel.special.action.20.change_pct
+ID_ABILITY_REDHULK_VAR_SPECIAL_APOC_SPDBAR_LIMIT,thislevel.special.action.21.target.limit
+ID_ABILITY_REDHULK_VAR_SPECIAL_APOC_SPDBAR_LIMIT_NEXT,nextlevel.special.action.21.target.limit
+ID_ABILITY_REDHULK_VAR_SPECIAL_APOC_SPDBAR,thislevel.special.action.21.change_pct
+ID_ABILITY_REDHULK_VAR_SPECIAL_APOC_SPDBAR_NEXT,nextlevel.special.action.21.change_pct
 ID_ABILITY_REDHULK_VAR_ULTIMATE_DAMAGE,thislevel.ultimate.action.0.stat_modifier.1.delta
 ID_ABILITY_REDHULK_VAR_ULTIMATE_DAMAGE_DIFF,nextlevel.ultimate.action.0.stat_modifier.1.delta - thislevel.ultimate.action.0.stat_modifier.1.delta
 ID_ABILITY_REDHULK_VAR_ULTIMATE_FLIP_COUNT,thislevel.ultimate.action.1.count
@@ -611,6 +619,10 @@ ID_ABILITY_REDHULK_VAR_PASSIVE_HEAL_DIFF,nextlevel.passive.1.action.0.heal_pct -
 ID_ABILITY_REDHULK_VAR_PASSIVE_CHARGED_MAX,thislevel.passive.2.action.0.max_duration
 ID_ABILITY_REDHULK_VAR_PASSIVE_CHARGED_GAIN,thislevel.passive.2.action.0.delta
 ID_ABILITY_REDHULK_VAR_PASSIVE_CHARGED_WAR_ADDITIONAL,thislevel.passive.3.action.0.delta
+ID_ABILITY_REDHULK_VAR_PASSIVE_APOC_CHARGED_GAIN,thislevel.passive.6.action.0.delta
+ID_ABILITY_REDHULK_VAR_PASSIVE_APOC_CHARGED_GAIN_NEXT,nextlevel.passive.6.action.0.delta
+ID_ABILITY_REDHULK_VAR_PASSIVE_APOC_CHARGED_MAX,thislevel.passive.6.action.0.max_duration
+ID_ABILITY_REDHULK_VAR_PASSIVE_APOC_CHARGED_MAX_NEXT,nextlevel.passive.6.action.0.max_duration
 ID_ABILITY_REDHULK_VAR_PASSIVE_CHARGED_ENERGY,thislevel.passive.5.action.0.count
 ID_ABILITY_REDHULK_VAR_PASSIVE_CHARGED_TURNMETER,thislevel.passive.5.action.1.change_pct
 ID_ABILITY_REDHULK_VAR_PASSIVE_CHARGED_TURNMETER_NEXT,nextlevel.passive.5.action.1.change_pct
@@ -619,6 +631,8 @@ ID_ABILITY_REDHULK_VAR_PASSIVE_STATS_FOCUS_NEXT,nextlevel.passive_stats.0.delta
 ID_ABILITY_REDHULK_VAR_PASSIVE_STATS_FOCUS_DIFF,nextlevel.passive_stats.0.delta - thislevel.passive_stats.0.delta
 ID_ABILITY_REDHULK_VAR_GLOBAL_STATS_FOCUS,thislevel.global_stats.0.delta
 ID_ABILITY_REDHULK_VAR_GLOBAL_STATS_FOCUS_DIFF,nextlevel.global_stats.0.delta - thislevel.global_stats.0.delta
+ID_ABILITY_REDHULK_VAR_GLOBAL_STATS_APOCHORSE_FOCUS,thislevel.global_stats.5.delta
+ID_ABILITY_REDHULK_VAR_GLOBAL_STATS_APOCHORSE_FOCUS_NEXT,nextlevel.global_stats.5.delta
 ID_ABILITY_REDHULK_VAR_PASSIVE_STATS_DAMAGE_REDUCTION,thislevel.passive_stats.1.delta
 ID_ABILITY_REDHULK_VAR_GLOBAL_STATS_DAMAGE_REDUCTION,thislevel.global_stats.3.delta
 ID_ABILITY_REDHULK_VAR_PASSIVE_STATS_RESISTANCE,thislevel.passive_stats.2.delta
@@ -912,6 +926,32 @@ ID_ABILITY_TCHALLA_VAR_PASSIVE_DIFF_BONUSDAMAGE,nextlevel.passive_stats.0.delta 
 ID_ABILITY_TCHALLA_VAR_PASSIVE_CHARGED_HEAL,thislevel.passive.2.action.2.heal_pct
 ID_ABILITY_TCHALLA_VAR_PASSIVE_CHARGED_PIERCING,thislevel.dynamic_stats.0.delta
 ID_ABILITY_TCHALLA_VAR_PASSIVE_CHARGED_COUNTER,thislevel.dynamic_stats.1.delta
+ID_ABILITY_USAGENT_VAR_BASIC_DAMAGE,thislevel.basic.action.0.stat_modifier.0.delta
+ID_ABILITY_USAGENT_VAR_BASIC_DAMAGE_DIFF,nextlevel.basic.action.0.stat_modifier.0.delta - thislevel.basic.action.0.stat_modifier.0.delta
+ID_ABILITY_USAGENT_VAR_BASIC_DEFLECT,thislevel.basic.action.1.procs.0.use_count
+ID_ABILITY_USAGENT_VAR_BASIC_DEFLECT_NEXT,nextlevel.basic.action.1.procs.0.use_count
+ID_ABILITY_USAGENT_VAR_SPECIAL_DAMAGE,thislevel.special.action.0.stat_modifier.0.delta
+ID_ABILITY_USAGENT_VAR_SPECIAL_DAMAGE_DIFF,nextlevel.special.action.0.stat_modifier.0.delta - thislevel.special.action.0.stat_modifier.0.delta
+ID_ABILITY_USAGENT_VAR_SPECIAL_DAMAGE_NEXT,nextlevel.special.action.0.stat_modifier.0.delta
+ID_ABILITY_USAGENT_VAR_SPECIAL_ABILITYBLOCK_RAID,thislevel.special.action.9.procs.0.use_count
+ID_ABILITY_USAGENT_VAR_SPECIAL_ABILITYBLOCK_RAID_NEXT,nextlevel.special.action.9.procs.0.use_count
+ID_ABILITY_USAGENT_VAR_SPECIAL_CHAIN,thislevel.special.action.3.target.limit
+ID_ABILITY_USAGENT_VAR_SPECIAL_CHAIN_NEXT,nextlevel.special.action.3.target.limit
+ID_ABILITY_USAGENT_VAR_ULTIMATE_DAMAGE,thislevel.ultimate.action.0.stat_modifier.0.delta
+ID_ABILITY_USAGENT_VAR_ULTIMATE_DAMAGE_DIFF,nextlevel.ultimate.action.0.stat_modifier.0.delta - thislevel.ultimate.action.0.stat_modifier.0.delta
+ID_ABILITY_USAGENT_VAR_ULTIMATE_SLOW,thislevel.ultimate.action.2.procs.0.use_count
+ID_ABILITY_USAGENT_VAR_ULTIMATE_SLOW_NEXT,nextlevel.ultimate.action.2.procs.0.use_count
+ID_ABILITY_USAGENT_VAR_PASSIVE_STATS_BLOCKCHANCE,thislevel.passive_stats.0.delta
+ID_ABILITY_USAGENT_VAR_GLOBAL_STATS_FOCUS,thislevel.global_stats.0.delta
+ID_ABILITY_USAGENT_VAR_GLOBAL_STATS_FOCUS_DIFF,nextlevel.global_stats.0.delta - thislevel.global_stats.0.delta
+ID_ABILITY_USAGENT_VAR_GLOBAL_STATS_FOCUS_RAIDS,thislevel.global_stats.1.delta
+ID_ABILITY_USAGENT_VAR_GLOBAL_STATS_FOCUS_RAIDS_DIFF,nextlevel.global_stats.1.delta - thislevel.global_stats.1.delta
+ID_ABILITY_USAGENT_VAR_PASSIVE_TURNMETER,thislevel.passive.0.action.0.change_pct
+ID_ABILITY_USAGENT_VAR_PASSIVE_TURNMETER_NEXT,nextlevel.passive.0.action.0.change_pct
+ID_ABILITY_USAGENT_VAR_PASSIVE_PROCREMOVE,thislevel.passive.1.action.0.target.limit
+ID_ABILITY_USAGENT_VAR_PASSIVE_PROCREMOVE_NEXT,nextlevel.passive.1.action.0.target.limit
+ID_ABILITY_USAGENT_VAR_PASSIVE_PROCREMOVE_COUNT,thislevel.passive.1.action.0.count
+ID_ABILITY_USAGENT_VAR_PASSIVE_PROCREMOVE_COUNT_NEXT,nextlevel.passive.1.action.0.count
 ID_ABILITY_VALKYRIE_VAR_BASIC_DAMAGE,thislevel.basic.action.0.stat_modifier.0.delta
 ID_ABILITY_VALKYRIE_VAR_BASIC_DAMAGE_DIFF,nextlevel.basic.action.0.stat_modifier.0.delta - thislevel.basic.action.0.stat_modifier.0.delta
 ID_ABILITY_VALKYRIE_VAR_BASIC_BONUSATTACK_DAMAGE,thislevel.basic.action.1.stat_modifier.0.delta

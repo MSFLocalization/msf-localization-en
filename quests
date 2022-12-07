@@ -2,6 +2,7 @@ id,translation
 ID_MILESTONE_BLITZ_ABOMINATION,Win a Blitz battle with: Abomination
 ID_MILESTONE_BLITZ_ADAMWARLOCK,Win a Blitz battle with: Adam Warlock
 ID_MILESTONE_BLITZ_AGATHAHARKNESS,Win a Blitz battle with: Agatha Harkness
+ID_MILESTONE_BLITZ_AGENTVENOM,Win a Blitz battle with: Agent Venom
 ID_MILESTONE_BLITZ_AIMCONTROL_INFECT,Win a Blitz battle with: A.I.M. Infector
 ID_MILESTONE_BLITZ_AIMDMG_OFFENSE,Win a Blitz battle with: A.I.M. Monstrosity
 ID_MILESTONE_BLITZ_AIMDMG_SPEED,Win a Blitz battle with: A.I.M. Assaulter
@@ -11,6 +12,7 @@ ID_MILESTONE_BLITZ_AMADEUSCHO,Win a Blitz battle with: Brawn
 ID_MILESTONE_BLITZ_AMERICACHAVEZ,Win a Blitz battle with: America Chavez
 ID_MILESTONE_BLITZ_ANTIVENOM,Win a Blitz battle with: Anti-Venom
 ID_MILESTONE_BLITZ_ANTMAN,Win a Blitz battle with: Ant-Man
+ID_MILESTONE_BLITZ_ARCHANGEL,Win a Blitz battle with: Archangel
 ID_MILESTONE_BLITZ_BARONMORDO,Win a Blitz battle with: Mordo
 ID_MILESTONE_BLITZ_BEAST,Win a Blitz battle with: Beast
 ID_MILESTONE_BLITZ_DARKBEAST,Win a Blitz battle with: Dark Beast
@@ -24,6 +26,7 @@ ID_MILESTONE_BLITZ_BULLSEYE,Win a Blitz battle with: Bullseye
 ID_MILESTONE_BLITZ_CABLE,Win a Blitz battle with: Cable
 ID_MILESTONE_BLITZ_CAPTAINAMERICA,Win a Blitz battle with: Captain America
 ID_MILESTONE_BLITZ_SAMWILSON,Win a Blitz battle with: Captain America (Sam)
+ID_MILESTONE_BLITZ_CAPTAINCARTER,Win a Blitz battle with: Captain Carter
 ID_MILESTONE_BLITZ_CAPTAINMARVEL,Win a Blitz battle with: Captain Marvel
 ID_MILESTONE_BLITZ_CARNAGE,Win a Blitz battle with: Carnage
 ID_MILESTONE_BLITZ_CLOAK,Win a Blitz battle with: Cloak
@@ -133,6 +136,7 @@ ID_MILESTONE_BLITZ_NAKIA,Win a Blitz battle with: Nakia
 ID_MILESTONE_BLITZ_NAMOR,Win a Blitz battle with: Namor
 ID_MILESTONE_BLITZ_NEBULA,Win a Blitz battle with: Nebula
 ID_MILESTONE_BLITZ_NEGASONIC,Win a Blitz battle with: Negasonic
+ID_MILESTONE_BLITZ_NEMESIS,Win a Blitz battle with: Nemesis
 ID_MILESTONE_BLITZ_NICKFURY,Win a Blitz battle with: Nick Fury
 ID_MILESTONE_BLITZ_NICOMINORU,Win a Blitz battle with: Nico Minoru
 ID_MILESTONE_BLITZ_NIGHTNURSE,Win a Blitz battle with: Night Nurse
@@ -200,11 +204,13 @@ ID_MILESTONE_BLITZ_TCHALLA,Win a Blitz battle with: Star-Lord (T'Challa)
 ID_MILESTONE_BLITZ_THANOS,Win a Blitz battle with: Thanos
 ID_MILESTONE_BLITZ_THING,Win a Blitz battle with: The Thing
 ID_MILESTONE_BLITZ_THOR,Win a Blitz battle with: Thor
+ID_MILESTONE_BLITZ_TITANIA,Win a Blitz battle with: Titania
 ID_MILESTONE_BLITZ_TOAD,Win a Blitz battle with: Toad
 ID_MILESTONE_BLITZ_ULTIMUS,Win a Blitz battle with: Ultimus
 ID_MILESTONE_BLITZ_ULTRON,Win a Blitz battle with: Ultron
 ID_MILESTONE_BLITZ_ULTGREENGOBLIN,Win a Blitz battle with: Green Goblin
 ID_MILESTONE_BLITZ_ULTSPIDERMAN,Win a Blitz battle with: Spider-Man (Miles)
+ID_MILESTONE_BLITZ_USAGENT,Win a Blitz battle with: U.S. Agent
 ID_MILESTONE_BLITZ_VALKYRIE,Win a Blitz battle with: Valkyrie
 ID_MILESTONE_BLITZ_VENOM,Win a Blitz battle with: Venom
 ID_MILESTONE_BLITZ_VISION,Win a Blitz battle with: Vision
@@ -2129,3 +2135,31 @@ ID_QU_SM_COLDHEARTED,Spend Campaign and Iso-8 Energy
 ID_QU_SC_COLDHEARTED,Spend Campaign and Iso-8 Energy
 ID_QU_S1_COLDHEARTED,Spend 1 Campaign Energy
 ID_QU_S2_COLDHEARTED,Spend 1 Iso-8 Energy
+ID_QU_NA_HERALDOFDEATH,Herald of Death
+ID_QU_SD_HERALDOFDEATH,Earn Deathbringer Orb Fragments and Battle in War
+ID_QU_LM_HERALDOFDEATH,Score points toward this 7-day milestone by battling in war and by earning Deathbringer Orb Fragments to get:\n\n- Carrot Nose\n- Snowballs\n- Shards for Wakandans and Bionic Avengers\n- T4 Ability Materials\n- Elite 5 Credits
+ID_QU_SM_HERALDOFDEATH,Earn Deathbringer Orb Fragments and Battle in War
+ID_QU_SC_HERALDOFDEATH,Earn Deathbringer Orb Fragments and Battle in War
+ID_QU_S1_HERALDOFDEATH,Earn 1 Deathbringer Orb Fragment
+ID_QU_S2_HERALDOFDEATH,Play a War battle
+ID_QU_S3_HERALDOFDEATH,Play a War battle with War Dogs
+ID_QU_S4_HERALDOFDEATH,Play a War battle with War Dogs at Gear Tier 13+
+ID_QU_S5_HERALDOFDEATH,Play a War battle with War Dogs at Gear Tier 15+
+ID_QU_NA_TECHNICALTACTICS,Technical Tactics
+ID_QU_SD_TECHNICALTACTICS,Battle in Raids
+ID_QU_LM_TECHNICALTACTICS,Battle in raids with your alliance to rack up points in this daily milestone. Rewards include Deathbringer Orb Fragments and more!
+ID_QU_SM_TECHNICALTACTICS,Battle in Raids
+ID_QU_SC_TECHNICALTACTICS,Battle in Raids
+ID_QU_S1_TECHNICALTACTICS,Play a Raid battle
+ID_QU_NA_STAMPCARDLAUNCH2022_GOLD,Beta Launch Golden Premium Stamp
+ID_QU_LM_STAMPCARDLAUNCH2022_GOLD_GENERIC,Get a stamp every time you spend a large amount in a single transaction on web!
+ID_QU_NA_STAMPCARDLAUNCH2022_SILVER,Beta Launch Silver Premium Stamp
+ID_QU_LM_STAMPCARDLAUNCH2022_SILVER_GENERIC,Get a stamp every time you spend a sizable amount in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_1,Get a stamp every time you spend {tier20price} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_2,Get a stamp every time you spend {tier52price} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_3,Get a stamp every time you spend {tier1price} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_4,Get a stamp every time you spend {tier5price} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_5,Get a stamp every time you spend {tier10price} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_6,Get a stamp every time you spend {tier30price} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_7,Get a stamp every time you spend {tier50price} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_8,Get a stamp every time you spend {tier60price} in a single transaction on web!

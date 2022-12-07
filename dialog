@@ -9717,7 +9717,7 @@ ID_DIALOG_ECM_NAKIA_01_END_0,"You are worthy, Nakia."
 ID_DIALOG_ECM_NAKIA_01_END_1,Wakanda is in danger.
 ID_DIALOG_ECM_NAKIA_01_END_2,In danger? What do you mean?
 ID_DIALOG_ECM_NAKIA_01_END_3,Seek out Natasha Romanoff.
-ID_DIALOG_ECM_NAKIA_02_INTRO_0,...You want more?! Okay... if you insist...
+ID_DIALOG_ECM_NAKIA_02_INTRO_0,...You want more?! Okay… if you insist…
 ID_DIALOG_ECM_NAKIA_02_INTRO_1,"No! No! No! I'll tell you anything, just don't-"
 ID_DIALOG_ECM_NAKIA_02_INTRO_2,Natasha!
 ID_DIALOG_ECM_NAKIA_02_INTRO_3,Nakia? What are you doing here?
@@ -9733,7 +9733,7 @@ ID_DIALOG_ECM_NAKIA_03_INTRO_0,"We were using this alley as our dead drop locati
 ID_DIALOG_ECM_NAKIA_03_INTRO_1,Their cover must have been compromised.
 ID_DIALOG_ECM_NAKIA_03_INTRO_2,War Dogs are highly discreet. They are not exposed so easily.
 ID_DIALOG_ECM_NAKIA_03_INTRO_3,"Well, somebody knew he was here. "
-ID_DIALOG_ECM_NAKIA_03_INTRO_4,And I think we're about to find out who...
+ID_DIALOG_ECM_NAKIA_03_INTRO_4,And I think we're about to find out who…
 ID_DIALOG_ECM_NAKIA_03_END_0,"Nakia, our War Dogs around the globe are being hunted."
 ID_DIALOG_ECM_NAKIA_03_END_1,By whom?
 ID_DIALOG_ECM_NAKIA_03_END_2,"We don't know, but we do have a lead."
@@ -9791,6 +9791,192 @@ ID_DIALOG_ECM_NAKIA_09_START_0,"I told you, she isn't so easily deceived!"
 ID_DIALOG_ECM_NAKIA_09_START_1,No matter. Get rid of her so we can resume operations.
 ID_DIALOG_ECM_NAKIA_09_END_0,"Thank you, Natasha, for all that you have done. Wakanda is in debt to you."
 ID_DIALOG_ECM_NAKIA_09_END_1,The War Dogs have helped me out of many bad situations. There is no debt.
+ID_DIALOG_ECM_REDHULK_01_INTRO_0,"Listen up, S.T.R.I.K.E. While we've been fighting small fires, I've been keeping my eye open for the next big one."
+ID_DIALOG_ECM_REDHULK_01_INTRO_1,"And unfortunately, we've found it. Apocalypse is back. "
+ID_DIALOG_ECM_REDHULK_01_INTRO_2,How'd that happen? Doctor Strange and the X-Men sealed him away for good years ago. I was there.
+ID_DIALOG_ECM_REDHULK_01_INTRO_3,"Morgan Le Fay freed him, using ancient magics that not even we had access to. "
+ID_DIALOG_ECM_REDHULK_01_INTRO_4,"Now Le Fay's powers are amplified by Apocalypse... The Scarlet Witch and I barely escaped our battle with her. "
+ID_DIALOG_ECM_REDHULK_01_INTRO_5,If Le Fay wields his power...
+ID_DIALOG_ECM_REDHULK_01_INTRO_6,"He's collecting Horsemen again. We need to find him before he gets the full set. "
+ID_DIALOG_ECM_REDHULK_01_INTRO_7,"But we have no leads, so that means this is an old-fashioned manhunt."
+ID_DIALOG_ECM_REDHULK_01_INTRO_8,"I want every S.T.R.I.K.E. agent investigating every disturbance. Kick down doors. Find Apocalypse. "
+ID_DIALOG_ECM_REDHULK_01_END_0,"Fury, a word. "
+ID_DIALOG_ECM_REDHULK_01_END_1,"What is it, Ross? If this is about Banner, I do not have time for it. "
+ID_DIALOG_ECM_REDHULK_01_END_2,"Sending us after any idiot in a costume that makes trouble is a good way to cast a net. But we can be smarter. "
+ID_DIALOG_ECM_REDHULK_01_END_3,"If I were amassing an army under your nose, I'd be quiet. Dead quiet. "
+ID_DIALOG_ECM_REDHULK_01_END_4,"So we look for the places where there isn't anything happening. "
+ID_DIALOG_ECM_REDHULK_01_END_5,"Exactly. Look - Symkaria. Normally a hotbed of action. Now? Nothing. "
+ID_DIALOG_ECM_REDHULK_01_END_6,"Alright, Ross. Take the Gamma Team and go. "
+ID_DIALOG_ECM_REDHULK_02_INTRO_0,"Gamma Team, focus up. We're dropping in five. "
+ID_DIALOG_ECM_REDHULK_02_INTRO_1,"Our target is a bunker on the outskirts of Symkaria. Our scanner says it's pulling enough energy to light up Madripoor. "
+ID_DIALOG_ECM_REDHULK_02_INTRO_2,"We break down the door, find out what they're using that energy for, and turn that bunker into a crater. "
+ID_DIALOG_ECM_REDHULK_02_INTRO_3,"How certain are we that it's Apocalypse's forces? We have no idea what we're walking into. "
+ID_DIALOG_ECM_REDHULK_02_INTRO_4,"What's wrong, Banner? Losing your nerve?"
+ID_DIALOG_ECM_REDHULK_02_INTRO_5,"Something just doesn't seem right. "
+ID_DIALOG_ECM_REDHULK_02_INTRO_6,"You're taking orders from me again, Banner. Seems like everything's in its right place to me. "
+ID_DIALOG_ECM_REDHULK_02_END_0,BOOM!
+ID_DIALOG_ECM_REDHULK_02_END_1,"Knock knock. "
+ID_DIALOG_ECM_REDHULK_02_END_2,It looks... abandoned? What was drawing all that power?
+ID_DIALOG_ECM_REDHULK_02_END_3,"Just because there's no fight at the entrance doesn't mean this place is empty. "
+ID_DIALOG_ECM_REDHULK_02_END_4,"Brawn, She-Hulk, head down to the lower levels. Banner, you and I will clear this level."
+ID_DIALOG_ECM_REDHULK_02_END_5,And don't worry... I've got your back.
+ID_DIALOG_ECM_REDHULK_03_INTRO_0,"All this equipment... It looks like someone WAS here. "
+ID_DIALOG_ECM_REDHULK_03_INTRO_1,"Jen, report in. Anything on the lower levels?"
+ID_DIALOG_ECM_REDHULK_03_INTRO_2,"We found what's pulling the energy. Amadeus says it's a transporter. "
+ID_DIALOG_ECM_REDHULK_03_INTRO_3,"Wait... it's firing up... Bruce, get down here! They're coming through, it's--"
+ID_DIALOG_ECM_REDHULK_03_INTRO_4,Jen?! Jen come in!
+ID_DIALOG_ECM_REDHULK_03_INTRO_5,"Looks like you were right, Ross. But you walked us right into..."
+ID_DIALOG_ECM_REDHULK_03_INTRO_6,WHAM!
+ID_DIALOG_ECM_REDHULK_03_INTRO_7,"Yeah. A trap. "
+ID_DIALOG_ECM_REDHULK_03_END_0,"Rrrrgh... Ross, what are you doing?"
+ID_DIALOG_ECM_REDHULK_03_END_1,"I'm sick of your sanctimony, son. "
+ID_DIALOG_ECM_REDHULK_03_END_2,"You and Fury, telling me what to do while you lacked the grit to get the real job done."
+ID_DIALOG_ECM_REDHULK_03_END_3,"The Multiverse is in chaos, and you two are too weak to set it right."
+ID_DIALOG_ECM_REDHULK_03_END_4,Too puny.
+ID_DIALOG_ECM_REDHULK_03_END_5,"Apocalypse and I are going to do what S.T.R.I.K.E. can't and instill order. "
+ID_DIALOG_ECM_REDHULK_03_END_6,Right after I smash you into green dust!
+ID_DIALOG_ECM_REDHULK_04_INTRO_0,Hngh...
+ID_DIALOG_ECM_REDHULK_04_INTRO_1,"I've been itching to let you have it, Banner!"
+ID_DIALOG_ECM_REDHULK_04_INTRO_2,Argh!
+ID_DIALOG_ECM_REDHULK_04_INTRO_3,Drain the Gamma from you and watch you crumble!
+ID_DIALOG_ECM_REDHULK_04_INTRO_4,ARGH!
+ID_DIALOG_ECM_REDHULK_04_INTRO_5,"Didn't think it was going to be this easy. You're the ""Smart Hulk"", huh? Not smart enough to see this coming, though. "
+ID_DIALOG_ECM_REDHULK_04_INTRO_6,"Maybe not... but... I can think of someone who was. "
+ID_DIALOG_ECM_REDHULK_04_INTRO_7,"Thanks for taking the hits, Doctor Banner. We've got it from here."
+ID_DIALOG_ECM_REDHULK_04_END_0,"Fury?! "
+ID_DIALOG_ECM_REDHULK_04_END_1,"What, you thought I bought your ""helpful suggestion"" routine for a minute, Ross?"
+ID_DIALOG_ECM_REDHULK_04_END_2,"I trust you about as far as I can throw you, and you weigh half a ton."
+ID_DIALOG_ECM_REDHULK_04_END_3,"There was no manhunt - just follow you and wait for you to show us where Apocalypse was.\nThanks, by the way. "
+ID_DIALOG_ECM_REDHULK_04_END_4,I've got a team on the lower levels helping out She-Hulk and company right now. As for you...
+ID_DIALOG_ECM_REDHULK_04_END_5,"Thor, help Doctor Banner show this treasonous piece of garbage to the cell I've got waiting for him."
+ID_DIALOG_ECM_REDHULK_04_END_6,"Oh, verily. "
+ID_DIALOG_ECM_REDHULK_05_INTRO_0,"RARGH! You think you can hold me? "
+ID_DIALOG_ECM_REDHULK_05_INTRO_1,"Between Thor, the Hulk, and the assorted other heavy hitters in tights I brought? "
+ID_DIALOG_ECM_REDHULK_05_INTRO_2,"Yeah, I figure we can hold you and take care of whatever goons are on the lower levels."
+ID_DIALOG_ECM_REDHULK_05_INTRO_3,"You forgot one thing, Fury..."
+ID_DIALOG_ECM_REDHULK_05_INTRO_4,What's that?
+ID_DIALOG_ECM_REDHULK_05_INTRO_5,"He's not the only one with friends. "
+ID_DIALOG_ECM_REDHULK_05_INTRO_6,"Le Fay! Get the mystics in here, now! I need... Wait... She's not alone."
+ID_DIALOG_ECM_REDHULK_05_INTRO_7,"Behold the image of your destruction and the world's salvation, Nick Fury. Gaze up on APOCALYPSE!"
+ID_DIALOG_ECM_REDHULK_05_END_0,"Apocalypse is on site! Regroup at the Helicarrier... This fight is just beginning. "
+ID_DIALOG_ECM_REDHULK_05_END_1,Fury and his soldiers... They flee.
+ID_DIALOG_ECM_REDHULK_05_END_2,"No. It is part of a strategy.\nBut it will not help them. "
+ID_DIALOG_ECM_REDHULK_05_END_3,"You have done well, bringing the enemy to me. "
+ID_DIALOG_ECM_REDHULK_05_END_4,"I'm wounded... I'm no good to you this way. "
+ID_DIALOG_ECM_REDHULK_05_END_5,Let my power flow through you.\nTake your final form.
+ID_DIALOG_ECM_REDHULK_05_END_6,"Yes... Yes, I feel it. "
+ID_DIALOG_ECM_REDHULK_05_END_7,"The great battle has begun. And for that, I need my general.\nI need my Horseman of WAR!"
+ID_DIALOG_ECM_REDHULK_05_END_8,RAAAAAAAARGH!
+ID_DIALOG_ECM_NEMESIS_01_INTRO_0,"GARDINERS ISLAND, NEW YORK..."
+ID_DIALOG_ECM_NEMESIS_01_INTRO_1,Disgusting.
+ID_DIALOG_ECM_NEMESIS_01_INTRO_2,"No matter the universe, these... lesser beings overrun the planet."
+ID_DIALOG_ECM_NEMESIS_01_INTRO_3,Any and all threats to them are handled by their heroes.
+ID_DIALOG_ECM_NEMESIS_01_INTRO_4,And you're confident this armor is sufficient for the mission ahead?
+ID_DIALOG_ECM_NEMESIS_01_INTRO_5,Are you doubting my abilities?
+ID_DIALOG_ECM_NEMESIS_01_INTRO_6,"It wouldn't be the first time you've withheld information, McCoy."
+ID_DIALOG_ECM_NEMESIS_01_INTRO_7,Heh heh... \n This one is unparalleled. Take it for a test spin.
+ID_DIALOG_ECM_NEMESIS_01_START_0,Insignificant worms! The time of the Apocalypse is now!
+ID_DIALOG_ECM_NEMESIS_01_MID_0,You have been deemed inferior and unfit for the world to come.
+ID_DIALOG_ECM_NEMESIS_01_END_0,This is the human strength I was warned about?
+ID_DIALOG_ECM_NEMESIS_01_END_1,"Clearly, my designs surpassed even my calculations."
+ID_DIALOG_ECM_NEMESIS_01_END_2,What a feeble attempt to defy their fate.
+ID_DIALOG_ECM_NEMESIS_01_END_3,This area has a dense concentration of heroes. Those likely won't be the last.
+ID_DIALOG_ECM_NEMESIS_02_INTRO_0,"Hurry, everyone! This way to the evacuation site!"
+ID_DIALOG_ECM_NEMESIS_02_INTRO_1,I got the word out. Heroes from here to Manhattan are rushing over to help.
+ID_DIALOG_ECM_NEMESIS_02_INTRO_2,That won't be enough...
+ID_DIALOG_ECM_NEMESIS_02_INTRO_3,I thought the bar couldn't get any lower.
+ID_DIALOG_ECM_NEMESIS_02_INTRO_4,Leave the weaklings to their fate and live to see the coming of a new age.
+ID_DIALOG_ECM_NEMESIS_02_START_0,You're gonna pay for all of this!
+ID_DIALOG_ECM_NEMESIS_02_START_1,Then face me and become the fodder for the new world!
+ID_DIALOG_ECM_NEMESIS_02_END_0,Evolution was meant to rid Homo Superiors of weaklings. This is proof that it needed a helping hand.
+ID_DIALOG_ECM_NEMESIS_02_END_1,Fitting that they would gather like cattle waiting for slaughter.
+ID_DIALOG_ECM_NEMESIS_02_END_2,Clinging to those they think to have the strength to defy destiny.
+ID_DIALOG_ECM_NEMESIS_02_END_3,You will be flushed from the shadows and into the arms of oblivion.
+ID_DIALOG_ECM_NEMESIS_03_INTRO_0,"Hold it, Snowglobe!"
+ID_DIALOG_ECM_NEMESIS_03_INTRO_1,No one - and I mean NO ONE - cancels International Chimichanga Day.
+ID_DIALOG_ECM_NEMESIS_03_INTRO_2,You dare to challenge me? Dead Man Wade had more sense. I thought you would share that.
+ID_DIALOG_ECM_NEMESIS_03_INTRO_3,You thought wrong!
+ID_DIALOG_ECM_NEMESIS_03_INTRO_4,Evolution cannot be stopped. No matter how much you struggle against it.
+ID_DIALOG_ECM_NEMESIS_03_INTRO_5,Sounds like we got here just in time!
+ID_DIALOG_ECM_NEMESIS_03_INTRO_6,Pests.
+ID_DIALOG_ECM_NEMESIS_03_START_0,The tools of your annihilation have been handed down to us by the Star Gods.
+ID_DIALOG_ECM_NEMESIS_03_START_1,Their power is beyond your comprehension.
+ID_DIALOG_ECM_NEMESIS_03_START_2,Enough big talk. I got a fistful of power with your name on it!
+ID_DIALOG_ECM_NEMESIS_03_END_0,AHAHAHA. Your flailing makes this all worthwhile.
+ID_DIALOG_ECM_NEMESIS_03_END_1,"These Sapiens can kick and scream all they want. In fact, I encourage it."
+ID_DIALOG_ECM_NEMESIS_03_END_2,WE are the chosen. The Star Gods selected us to clear the way for the world's rightful heirs to take their claim.
+ID_DIALOG_ECM_NEMESIS_03_END_3,"Mutants, hear me! Join Apocalypse, and your position in the coming world is secured!"
+ID_DIALOG_ECM_NEMESIS_03_END_4,Any mutant traitors who dare to defend the humans can join them in the rubble.
+ID_DIALOG_ECM_NEMESIS_04_INTRO_0,There are more mutants here than I remember.
+ID_DIALOG_ECM_NEMESIS_04_INTRO_1,Our numbers swelled after the last beating.
+ID_DIALOG_ECM_NEMESIS_04_INTRO_2,Show some restraint next time. I could barely collect any samples.
+ID_DIALOG_ECM_NEMESIS_04_INTRO_3,I know where ya can find more.
+ID_DIALOG_ECM_NEMESIS_04_INTRO_4,Show me.
+ID_DIALOG_ECM_NEMESIS_04_INTRO_5,STONY BROOK UNIVERSITY HOSPITAL...
+ID_DIALOG_ECM_NEMESIS_04_INTRO_6,"This isn't good. The rooms are packed, and we're running out of beds."
+ID_DIALOG_ECM_NEMESIS_04_INTRO_7,Let me help to solve your little boarding problem.
+ID_DIALOG_ECM_NEMESIS_04_START_0,Take the hospital! Leave none alive!
+ID_DIALOG_ECM_NEMESIS_04_END_0,Bringin' this large of a group was overkill.
+ID_DIALOG_ECM_NEMESIS_04_END_1,Let the slaughter here serve as a testament to the power of the coming future.
+ID_DIALOG_ECM_NEMESIS_04_END_2,"The traitors and their pets flee before us, searching for a new hole to crawl into."
+ID_DIALOG_ECM_NEMESIS_04_END_3,I'll sniff 'em out.
+ID_DIALOG_ECM_NEMESIS_04_END_4,"Good. With any luck, even more will be drawn to join us."
+ID_DIALOG_ECM_NEMESIS_05_INTRO_0,Cut off that group there! Don't let them escape!
+ID_DIALOG_ECM_NEMESIS_05_INTRO_1,"Not so fast, bub!"
+ID_DIALOG_ECM_NEMESIS_05_INTRO_2,"Weapon X, I should have known you'd eventually show yourself."
+ID_DIALOG_ECM_NEMESIS_05_INTRO_3,I shoulda known Victor was helping you start a bloodbath. This ends now!
+ID_DIALOG_ECM_NEMESIS_05_INTRO_4,Ends? We're only getting started.
+ID_DIALOG_ECM_NEMESIS_05_END_0,"Too much for you, Weapon X?"
+ID_DIALOG_ECM_NEMESIS_05_END_1,Flee before the incredible power given to us by the Star Gods.
+ID_DIALOG_ECM_NEMESIS_05_END_2,The Death Seeds ensure a mind focused solely on the task at hand.
+ID_DIALOG_ECM_NEMESIS_05_END_3,Which happens to be the fall of man and the destruction of mutants like yourself.
+ID_DIALOG_ECM_NEMESIS_05_END_4,I will succeed in my mission. \n And Apocalypse will reign supreme!
+ID_DIALOG_ECM_NEMESIS_06_INTRO_0,"We got the upper hand now. 'Ro, go left. I'll flank him."
+ID_DIALOG_ECM_NEMESIS_06_INTRO_1,I shall not let you down!
+ID_DIALOG_ECM_NEMESIS_06_INTRO_2,I'd recognize that stench anywhere. We got company.
+ID_DIALOG_ECM_NEMESIS_06_INTRO_3,You've brought friends.
+ID_DIALOG_ECM_NEMESIS_06_INTRO_4,What will you do when I make their ashes rain over you?
+ID_DIALOG_ECM_NEMESIS_06_START_0,"Make your final stand, Weapon X, so I can strike you down once and for all."
+ID_DIALOG_ECM_NEMESIS_06_END_0,I ain't the only one you should be worried about.
+ID_DIALOG_ECM_NEMESIS_06_END_1,Tin Man's got more than enough firepower to stop you dead in your tracks.
+ID_DIALOG_ECM_NEMESIS_06_END_2,"HAHAHA! Finally, your interference is at an end."
+ID_DIALOG_ECM_NEMESIS_06_END_3,Let the dregs gather their pitiful strength and allies.
+ID_DIALOG_ECM_NEMESIS_06_END_4,I'll purge their ranks and this world of their fragility.
+ID_DIALOG_ECM_NEMESIS_07_INTRO_0,"Do not cry, little ones. You are safe now."
+ID_DIALOG_ECM_NEMESIS_07_INTRO_1,You would peddle lies to these children?
+ID_DIALOG_ECM_NEMESIS_07_INTRO_2,No one is safe. I will destroy all of humanity.
+ID_DIALOG_ECM_NEMESIS_07_INTRO_3,You will have to get through me first.
+ID_DIALOG_ECM_NEMESIS_07_INTRO_4,And I will NOT be beaten!
+ID_DIALOG_ECM_NEMESIS_07_START_0,Where are Weapon X and Storm? What have you done?
+ID_DIALOG_ECM_NEMESIS_07_START_1,"Fret not, you will join them soon."
+ID_DIALOG_ECM_NEMESIS_07_END_0,"I told you that you would join them, didn't I?"
+ID_DIALOG_ECM_NEMESIS_07_END_1,Am I not a man of my word?
+ID_DIALOG_ECM_NEMESIS_07_END_2,Let me promise you this: I will find the rest of your treacherous group.
+ID_DIALOG_ECM_NEMESIS_07_END_3,"And when I do, I will spare no man, woman, or child."
+ID_DIALOG_ECM_NEMESIS_08_INTRO_0,What do we do now?
+ID_DIALOG_ECM_NEMESIS_08_INTRO_1,We regroup! We aren't kids scared of a monster under the bed!
+ID_DIALOG_ECM_NEMESIS_08_INTRO_2,How many times have we faced an indomitable threat and won?
+ID_DIALOG_ECM_NEMESIS_08_INTRO_3,"If the first group attacks here, the second group can catch them unaware."
+ID_DIALOG_ECM_NEMESIS_08_INTRO_4,ARRGGGHHH!
+ID_DIALOG_ECM_NEMESIS_08_INTRO_5,What's going on back there?
+ID_DIALOG_ECM_NEMESIS_08_INTRO_6,You had loyal members of your group. Too bad they weren't loyal to you.
+ID_DIALOG_ECM_NEMESIS_08_INTRO_7,Clear out this rat den.
+ID_DIALOG_ECM_NEMESIS_08_END_0,My goal is almost reached.
+ID_DIALOG_ECM_NEMESIS_08_END_1,Soon Apocalypse will arrive and begin the transformation of this world.
+ID_DIALOG_ECM_NEMESIS_08_END_2,All of this straining against the end will be for naught.
+ID_DIALOG_ECM_NEMESIS_09_INTRO_0,"Please, show mercy! I'll do whatever you want!"
+ID_DIALOG_ECM_NEMESIS_09_INTRO_1,Then quit your mewling and meet your end.
+ID_DIALOG_ECM_NEMESIS_09_INTRO_2,I will not allow you to continue shedding the blood of the innocent!
+ID_DIALOG_ECM_NEMESIS_09_INTRO_3,HAHAHA! As if I would need your permission.
+ID_DIALOG_ECM_NEMESIS_09_INTRO_4,This marks the end for all of you inferior beings!
+ID_DIALOG_ECM_NEMESIS_09_INTRO_5,"Now make this fight worthwhile, Witch!"
+ID_DIALOG_ECM_NEMESIS_09_MID_0,Your attempt to stop me is laughable. How pitiful can you get?
+ID_DIALOG_ECM_NEMESIS_09_END_0,That was the last major player on the list. What now?
+ID_DIALOG_ECM_NEMESIS_09_END_1,The final Death Seed was used and the fourth Horseman of Apocalypse has been chosen.
+ID_DIALOG_ECM_NEMESIS_09_END_2,"With their unfaltering cooperation, the age of humans is over."
+ID_DIALOG_ECM_NEMESIS_09_END_3,That sounds like it's time to get the popcorn on.
+ID_DIALOG_ECM_NEMESIS_09_END_4,Father...
+ID_DIALOG_ECM_NEMESIS_09_END_5,The earth is prepared for your arrival. The time to strike is now!
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
@@ -11529,6 +11715,76 @@ ID_DIALOG_APOC_REDHULK_10_END_6,"I... I can't take another order from Banner. He
 ID_DIALOG_APOC_REDHULK_10_END_7,"Well, if it's a monster they want, I'll give them one! I'm in. "
 ID_DIALOG_APOC_REDHULK_10_END_8,Then let my power POUR into yours... Feel it amplify your anger!
 ID_DIALOG_APOC_REDHULK_10_END_9,And let your RAGE burn down the WORLD! Arise... \nMy HORSEMAN OF WAR!
+ID_DIALOG_APOC_ARCHANGEL_01_INTRO_0,"Fury! I warned you! I warned you Apocalypse would return. "
+ID_DIALOG_APOC_ARCHANGEL_01_INTRO_1,"Calm down, Worthington."
+ID_DIALOG_APOC_ARCHANGEL_01_INTRO_2,"I've been scouring the Multiverse, looking for an Apocalypse that would come for Nexus Earth."
+ID_DIALOG_APOC_ARCHANGEL_01_INTRO_3,"But somehow, you let the one from our own world rise again."
+ID_DIALOG_APOC_ARCHANGEL_01_INTRO_4,"I didn't LET anything happen. But you're right, there's a mess.\nA big one."
+ID_DIALOG_APOC_ARCHANGEL_01_INTRO_5,Are you going to stand there pointing fingers or help clean it up?
+ID_DIALOG_APOC_ARCHANGEL_01_END_0,"Fury's right, Betsy. I need to act, now. And I need you to come with me. "
+ID_DIALOG_APOC_ARCHANGEL_01_END_1,"Warren, Apocalypse's forces are waging war. I know this fight is personal to you, but we have to stick together. "
+ID_DIALOG_APOC_ARCHANGEL_01_END_2,"Personal?! That monster took my WINGS. Of course, it's personal. But that's not why I need to go. "
+ID_DIALOG_APOC_ARCHANGEL_01_END_3,"I know how to stop Apocalypse. "
+ID_DIALOG_APOC_ARCHANGEL_01_END_4,What do you mean? If even Doctor Strange couldn't keep him imprisoned...
+ID_DIALOG_APOC_ARCHANGEL_01_END_5,"We're not going to seal him away. Or lock him in the Raft. I'm going to kill Apocalypse. "
+ID_DIALOG_APOC_ARCHANGEL_01_END_6,"And I know just the monster to help me do it. "
+ID_DIALOG_APOC_ARCHANGEL_03_INTRO_0,"What is this place? "
+ID_DIALOG_APOC_ARCHANGEL_03_INTRO_1,Somewhere we shouldn't linger. McCoy! Get out here!
+ID_DIALOG_APOC_ARCHANGEL_03_INTRO_2,"Ah, Warren. You know, the Angel I knew was a bit more pleasant. Though, he still had his wings."
+ID_DIALOG_APOC_ARCHANGEL_03_INTRO_3,"Is... Is that Beast? "
+ID_DIALOG_APOC_ARCHANGEL_03_INTRO_4,"Not quite, Elizabeth. Not the one you know, anyway. But perhaps you could get to know me..."
+ID_DIALOG_APOC_ARCHANGEL_03_INTRO_5,Enough. You know what I'm here for.
+ID_DIALOG_APOC_ARCHANGEL_03_INTRO_6,"Ah, yes.\nThe Death Seed. "
+ID_DIALOG_APOC_ARCHANGEL_03_END_0,The Death Seed?
+ID_DIALOG_APOC_ARCHANGEL_03_END_1,A celestial weapon that can kill Apocalypse...
+ID_DIALOG_APOC_ARCHANGEL_03_END_2,"Or bring about a new one. En Sabah Nur was just the first to receive its gift. "
+ID_DIALOG_APOC_ARCHANGEL_03_END_3,"In your rage, are you willing to risk creating a new monster in the hope of defeating yours?"
+ID_DIALOG_APOC_ARCHANGEL_03_END_4,"I am. And you're coming with me. "
+ID_DIALOG_APOC_ARCHANGEL_03_END_5,"I don't trust you, McCoy. You've been experimenting on this Death Seed. You could have done anything to it. "
+ID_DIALOG_APOC_ARCHANGEL_03_END_6,"If things go wrong... Well, that's what Psylocke is for. "
+ID_DIALOG_APOC_ARCHANGEL_05_INTRO_0,"How much further to Apocalypse's stronghold? This hostage situation is interminable. "
+ID_DIALOG_APOC_ARCHANGEL_05_INTRO_1,"Not far. Believe me, I want to be free of you as quickly as possible. "
+ID_DIALOG_APOC_ARCHANGEL_05_INTRO_2,"Warren. We need to talk. "
+ID_DIALOG_APOC_ARCHANGEL_05_INTRO_3,"I'm not above getting my hands dirty. But if you want to use me as a weapon? Ask first. "
+ID_DIALOG_APOC_ARCHANGEL_05_INTRO_4,"The only thing Beast cares about is his genius. I needed your psychic powers to scare him into helping us. "
+ID_DIALOG_APOC_ARCHANGEL_05_INTRO_5,"You don't understand. Apocalypse... He was in my head. I know what he's capable of. "
+ID_DIALOG_APOC_ARCHANGEL_05_INTRO_6,"To stop him, I would risk everything. "
+ID_DIALOG_APOC_ARCHANGEL_05_END_0,We're here. The sounds of the battle just ahead are unmistakable. How I do miss the screams of home...
+ID_DIALOG_APOC_ARCHANGEL_05_END_1,"God, he creeps me out. What's the plan, Warren?"
+ID_DIALOG_APOC_ARCHANGEL_05_END_2,"It's not complicated. We get in, find Apocalypse, and end him for good. "
+ID_DIALOG_APOC_ARCHANGEL_05_END_3,"Are you sure this is what you want to do? "
+ID_DIALOG_APOC_ARCHANGEL_05_END_4,I've never been more... Wait... Something... ARGH!!!
+ID_DIALOG_APOC_ARCHANGEL_05_END_5,"Archangel, my greatest creation. Did you truly believe I would not know your mind?"
+ID_DIALOG_APOC_ARCHANGEL_05_END_6,You seek Apocalypse...\nYou have found it!
+ID_DIALOG_APOC_ARCHANGEL_08_INTRO_0,He's in my head!
+ID_DIALOG_APOC_ARCHANGEL_08_INTRO_1,"Not for long... One psychic barrier, coming up. "
+ID_DIALOG_APOC_ARCHANGEL_08_INTRO_2,Thank you... Now I can think clearly. And END HIM!
+ID_DIALOG_APOC_ARCHANGEL_08_INTRO_3,"Such a lack of gratitude for the gifts I've given. "
+ID_DIALOG_APOC_ARCHANGEL_08_INTRO_4,"Perhaps my other servants will teach you to accept your place. "
+ID_DIALOG_APOC_ARCHANGEL_08_INTRO_5,"We're surrounded! Psylocke, I'm sorry... "
+ID_DIALOG_APOC_ARCHANGEL_08_INTRO_6,I know. That's why I already called in backup.
+ID_DIALOG_APOC_ARCHANGEL_08_INTRO_7,"Mornin', shug'!\nBets said y'all need a hand. "
+ID_DIALOG_APOC_ARCHANGEL_08_END_0,Rogue... If you hadn't come...
+ID_DIALOG_APOC_ARCHANGEL_08_END_1,"You ain't gotta say it, Warren. We're teammates, ah'm here to watch your back. "
+ID_DIALOG_APOC_ARCHANGEL_08_END_2,"Apocalypse retreated. We can't let him leave. "
+ID_DIALOG_APOC_ARCHANGEL_08_END_3,The rest of the X-Men ain't far behind.
+ID_DIALOG_APOC_ARCHANGEL_08_END_4,"This can't wait. Come on, we're finishing this monster. "
+ID_DIALOG_APOC_ARCHANGEL_10_INTRO_0,"My Archangel. I see you rose above the fray and returned to me. "
+ID_DIALOG_APOC_ARCHANGEL_10_INTRO_1,"You gave me these wings.\nHere, have them back!"
+ID_DIALOG_APOC_ARCHANGEL_10_INTRO_2,ARGH!
+ID_DIALOG_APOC_ARCHANGEL_10_INTRO_3,"And he ain't alone. You've been hauntin' my dreams, sugah. I'm here to wake up. "
+ID_DIALOG_APOC_ARCHANGEL_10_INTRO_4,"Come, mutants. Let's see if you're fit to survive!"
+ID_DIALOG_APOC_ARCHANGEL_10_END_0,"Heh... You've wounded me... Well done. "
+ID_DIALOG_APOC_ARCHANGEL_10_END_1,"Both of you have proven your strength. "
+ID_DIALOG_APOC_ARCHANGEL_10_END_2,"Now... take your places... beside me. "
+ID_DIALOG_APOC_ARCHANGEL_10_END_3,"Awaken. "
+ID_DIALOG_APOC_ARCHANGEL_10_END_4,Wh... What's happenin' to me?
+ID_DIALOG_APOC_ARCHANGEL_10_END_5,Rogue? What's wrong?
+ID_DIALOG_APOC_ARCHANGEL_10_END_6,"Ah'm finally seeing clearly. C'mere, sugah. "
+ID_DIALOG_APOC_ARCHANGEL_10_END_7,ARGH!!!
+ID_DIALOG_APOC_ARCHANGEL_10_END_8,"Your will was strong, Archangel. But weakened, you cannot resist my power. "
+ID_DIALOG_APOC_ARCHANGEL_10_END_9,Horseman... My harbinger...
+ID_DIALOG_APOC_ARCHANGEL_10_END_10,"Arise, DEATH!"
 ID_DIALOG_EVENT_UNDERWORLD_1_INTRO_0,The Kree are abducting my associates and converting them to their cause.
 ID_DIALOG_EVENT_UNDERWORLD_1_INTRO_1,I'm sure whoever rescued would be willing to join S.T.R.I.K.E.
 ID_DIALOG_ELEKTRA_EVENT_1_START_0,We're getting reports of Elektra running rampant in Hell's Kitchen.
@@ -13340,6 +13596,96 @@ ID_DIALOG_GAMBIT_RAID_BOSS_END_1,W-w-wait! I... I'll pay whatever you want! Poin
 ID_DIALOG_GAMBIT_RAID_BOSS_END_2,"Forget it, Mojo. You can't afford me. "
 ID_DIALOG_GAMBIT_RAID_BOSS_END_3,You'll come crawling back! They ALWAYS come back! I'm the only one who can help you achieve what you're meant to be! A STAR!
 ID_DIALOG_GAMBIT_RAID_BOSS_END_4,"Sorry, Mojo. The only thing I'm meant to be is an X-Men. "
+ID_DIALOG_GUARDIANSGROOTMAS_01_INTRO_0,I am Groot.
+ID_DIALOG_GUARDIANSGROOTMAS_01_INTRO_1,I'm tellin' ya that doesn't make sense.
+ID_DIALOG_GUARDIANSGROOTMAS_01_INTRO_2,I am Groot.
+ID_DIALOG_GUARDIANSGROOTMAS_01_INTRO_3,"There's no such person, and Grootmas doesn't exist!"
+ID_DIALOG_GUARDIANSGROOTMAS_01_INTRO_4,"Can it, you two. We've got incoming."
+ID_DIALOG_GUARDIANSGROOTMAS_01_START_0,"Ravager scum, you'll pay for what you've done!"
+ID_DIALOG_GUARDIANSGROOTMAS_01_START_1,"Ravager? Get your eyes checked, chump. We're the Guardians of the Galaxy."
+ID_DIALOG_GUARDIANSGROOTMAS_01_END_0,"Well, that was fun."
+ID_DIALOG_GUARDIANSGROOTMAS_01_END_1,"It was not fun, Quill."
+ID_DIALOG_GUARDIANSGROOTMAS_01_END_2,"Uh, guys, I'm seeing a lot more ships here. Like a lot more."
+ID_DIALOG_GUARDIANSGROOTMAS_02_INTRO_0,"Team One is down. Team Two, move to intercept."
+ID_DIALOG_GUARDIANSGROOTMAS_02_INTRO_1,We are very popular!
+ID_DIALOG_GUARDIANSGROOTMAS_02_INTRO_2,Quill!
+ID_DIALOG_GUARDIANSGROOTMAS_02_INTRO_3,It's not me this time!
+ID_DIALOG_GUARDIANSGROOTMAS_02_END_0,I am Groot!
+ID_DIALOG_GUARDIANSGROOTMAS_02_END_1,"No, I don't think they want to whistle a ""Grootmas Jingle""."
+ID_DIALOG_GUARDIANSGROOTMAS_02_END_2,I... am Groot.
+ID_DIALOG_GUARDIANSGROOTMAS_03_START_0,"So-called Guardians of the Galaxy, you stand accused of collaboration and affiliation with the criminal Ravagers and their new leader."
+ID_DIALOG_GUARDIANSGROOTMAS_03_START_1,Back for a rematch? Let's dance!
+ID_DIALOG_GUARDIANSGROOTMAS_03_END_0,"I don't like this, Quill. Ravagers taking on the Kree and making them mad enough to come after us?"
+ID_DIALOG_GUARDIANSGROOTMAS_03_END_1,We ain't gonna be welcome many places if word gets around that these chumps are on our heels.
+ID_DIALOG_GUARDIANSGROOTMAS_03_END_2,"Yeah, let's grab a computer core from one of the Kree ships and see what's going on."
+ID_DIALOG_GUARDIANSGROOTMAS_04_START_0,We're being boarded! To arms!
+ID_DIALOG_GUARDIANSGROOTMAS_04_MID_0,"Rocket, now would be a great time to look through the computer!"
+ID_DIALOG_GUARDIANSGROOTMAS_04_MID_1,"Yeah, yeah, keep your shirt on!"
+ID_DIALOG_GUARDIANSGROOTMAS_04_END_0,"Okay, looks like the Kree are tracking Ravager activity all over the galaxy."
+ID_DIALOG_GUARDIANSGROOTMAS_04_END_1,Hard to make sense of it but looks like some of your old pals are only a few jumps away.
+ID_DIALOG_GUARDIANSGROOTMAS_04_END_2,Looks like we know where we're going next.
+ID_DIALOG_GUARDIANSGROOTMAS_05_INTRO_0,I am Groot!
+ID_DIALOG_GUARDIANSGROOTMAS_05_INTRO_1,"Yeah, I can see that. But WHY did we jump HERE?"
+ID_DIALOG_GUARDIANSGROOTMAS_05_INTRO_2,I AM GROOT!
+ID_DIALOG_GUARDIANSGROOTMAS_05_INTRO_3,"Wait, what do you mean Santa? How do you know about Santa?"
+ID_DIALOG_GUARDIANSGROOTMAS_05_INTRO_4,"Uh, Quill, you might want to look over there."
+ID_DIALOG_GUARDIANSGROOTMAS_05_INTRO_5,"I have come to test your resolve, Guardians."
+ID_DIALOG_GUARDIANSGROOTMAS_05_INTRO_6,You're not Santa.
+ID_DIALOG_GUARDIANSGROOTMAS_05_END_0,We have passed this test with outstanding results!
+ID_DIALOG_GUARDIANSGROOTMAS_05_END_1,"So you have. By working together, you rise above your own limitations."
+ID_DIALOG_GUARDIANSGROOTMAS_05_END_2,Remember the bonds you share and draw strength from them. You will need that strength soon.
+ID_DIALOG_GUARDIANSGROOTMAS_05_END_3,"What? I'm so confused. Annnnnd he's gone. Great, super, swell. Rocket..."
+ID_DIALOG_GUARDIANSGROOTMAS_05_END_4,"Yeah, yeah, let's get outta here."
+ID_DIALOG_GUARDIANSGROOTMAS_06_START_0,Guardians? They've come to steal all our Grootmas presents!
+ID_DIALOG_GUARDIANSGROOTMAS_06_START_1,"Wait, what? Seriously?!"
+ID_DIALOG_GUARDIANSGROOTMAS_06_END_0,"So let me get this straight, Grootmas is real?"
+ID_DIALOG_GUARDIANSGROOTMAS_06_END_1,I am Groot.
+ID_DIALOG_GUARDIANSGROOTMAS_06_END_2,"Uh huh, uh huh. But why presents?"
+ID_DIALOG_GUARDIANSGROOTMAS_06_END_3,I am Groot!
+ID_DIALOG_GUARDIANSGROOTMAS_07_START_0,"Rocket, do you think now is really the time for this? Nobody cares about Grootmas!"
+ID_DIALOG_GUARDIANSGROOTMAS_07_START_1,I wish to know more about Grootmas!
+ID_DIALOG_GUARDIANSGROOTMAS_07_START_2,I enjoy presents.
+ID_DIALOG_GUARDIANSGROOTMAS_07_START_3,Not helping!
+ID_DIALOG_GUARDIANSGROOTMAS_07_MID_0,"Oh man, these guys have tons of loot. I'm going to have so many shoe stuffers!"
+ID_DIALOG_GUARDIANSGROOTMAS_07_MID_1,Little gifts go in stockings!
+ID_DIALOG_GUARDIANSGROOTMAS_07_MID_2,"Pfft, what do you know. Earth doesn't even have Grootmas."
+ID_DIALOG_GUARDIANSGROOTMAS_07_END_0,"Ho ho! Jackpot. The nav computer has locations for all Ravager ships, including the flagship."
+ID_DIALOG_GUARDIANSGROOTMAS_08_INTRO_0,Groot?!
+ID_DIALOG_GUARDIANSGROOTMAS_08_INTRO_1,I am Groot.
+ID_DIALOG_GUARDIANSGROOTMAS_08_INTRO_2,How did you escape? Get him!
+ID_DIALOG_GUARDIANSGROOTMAS_08_INTRO_3,I am Groot?
+ID_DIALOG_GUARDIANSGROOTMAS_08_END_0,I think I found where the leader's at. We're close.
+ID_DIALOG_GUARDIANSGROOTMAS_08_END_1,Finally.
+ID_DIALOG_GUARDIANSGROOTMAS_09_INTRO_0,Gamora?! YOU'RE the Ravager's new leader?
+ID_DIALOG_GUARDIANSGROOTMAS_09_INTRO_1,And is that... another Groot?
+ID_DIALOG_GUARDIANSGROOTMAS_09_INTRO_2,You should have stayed away. Now it's DOUBLE GROOTMAS time.
+ID_DIALOG_GUARDIANSGROOTMAS_09_START_0,TIP: DEFEAT GAMORA.
+ID_DIALOG_GUARDIANSGROOTMAS_09_MID_0,Something's wrong. You're not Gamora.
+ID_DIALOG_GUARDIANSGROOTMAS_09_MID_1,"Not YOUR Gamora, weakling. I am a Conqueror of the Cosmos! The Queen of the Ravagers!"
+ID_DIALOG_GUARDIANSGROOTMAS_09_MID_2,"And after Double Grootmas, I'll be the queen of these ones too."
+ID_DIALOG_GUARDIANSGROOTMAS_09_END_0,"Wow, two Groots?"
+ID_DIALOG_GUARDIANSGROOTMAS_09_END_1,I am Groot?
+ID_DIALOG_GUARDIANSGROOTMAS_09_END_2,I am Groot.
+ID_DIALOG_GUARDIANSGROOTMAS_09_END_3,I am Groot!
+ID_DIALOG_GUARDIANSGROOTMAS_09_END_4,I AM GROOT!!
+ID_DIALOG_GUARDIANSGROOTMAS_09_END_5,I am Drax.
+ID_DIALOG_GUARDIANSGROOTMAS_09_END_6,I am Mantis.
+ID_DIALOG_GUARDIANSGROOTMAS_09_END_7,I am... so confused.
+ID_DIALOG_GUARDIANSGROOTMAS_10_START_0,"So wait, did we just... steal Grootmas?"
+ID_DIALOG_GUARDIANSGROOTMAS_10_START_1,I am Groot.
+ID_DIALOG_GUARDIANSGROOTMAS_10_START_2,Let's just get back to the ship before the rest of the crew catches up with us.
+ID_DIALOG_GUARDIANSGROOTMAS_10_START_3,TIP: PROTECT FESTIVE GROOT!
+ID_DIALOG_GUARDIANSGROOTMAS_10_MID_0,"So long, chumps!"
+ID_DIALOG_GUARDIANSGROOTMAS_10_MID_1,"Damn you, Guardians!\nYou done stole Grootmas!"
+ID_DIALOG_GUARDIANSGROOTMAS_10_FAIL_0,"FESTIVE GROOT WAS DEFEATED! MISSION FAILED. "
+ID_DIALOG_GUARDIANSGROOTMAS_10_END_0,Am I the only one who thinks that was really weird and wants to know what the hell just happened?
+ID_DIALOG_GUARDIANSGROOTMAS_10_END_1,"What was up with Warlock ""testing"" us? Who was that Gamora? Why do Grootmas gifts go in shoes?"
+ID_DIALOG_GUARDIANSGROOTMAS_10_END_2,I am Groot.
+ID_DIALOG_GUARDIANSGROOTMAS_10_END_3,"Oh, really?"
+ID_DIALOG_GUARDIANSGROOTMAS_10_END_4,I am... Groot.
+ID_DIALOG_GUARDIANSGROOTMAS_10_END_5,"Oh, well I guess it makes sense then."
+ID_DIALOG_GUARDIANSGROOTMAS_10_END_6,I am glad we have solved every mystery and no questions are left not answered!
+ID_DIALOG_GUARDIANSGROOTMAS_10_END_7,It is a Grootmas miracle!
 ID_DIALOG_NUE_00_01_0,"Commander, I'm glad you're here. \nWe have a situation."
 ID_DIALOG_NUE_00_01_1,Interdimensional signatures are popping up all over New York City.
 ID_DIALOG_NUE_00_01_2,"As commander of S.T.R.I.K.E., interdimensional threats are your jurisdiction. "

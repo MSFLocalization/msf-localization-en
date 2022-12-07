@@ -20,7 +20,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PST) (12/7).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PDT) (04/25).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -386,6 +386,8 @@ ID_MOTD_NA_ABOMINATION,Gamma Obsessed: Now Live!
 ID_MOTD_DE_ABOMINATION,Battle for a chance to win Abomination shards
 ID_MOTD_NA_AGATHAHARKNESS,Coven Leader: Now Live!
 ID_MOTD_DE_AGATHAHARKNESS,Battle for a chance to win Agatha Harkness shards
+ID_MOTD_NA_AGENTVENOM,Symbiote Soldier: Now Live!
+ID_MOTD_DE_AGENTVENOM,Battle for a chance to win Agent Venom shards
 ID_MOTD_NA_AIMCONTROL_INFECT,Contagion: Now Live!
 ID_MOTD_DE_AIMCONTROL_INFECT,Battle for a chance to win A.I.M. Infector shards
 ID_MOTD_NA_AIMDMG_OFFENSE,Science Project: Now Live!
@@ -433,6 +435,8 @@ ID_MOTD_NA_CABLE,Time Traveler: Now Live!
 ID_MOTD_DE_CABLE,Battle for a chance to win CABLE shards
 ID_MOTD_NA_CAPTAINAMERICA,First Avenger: Now Live!
 ID_MOTD_DE_CAPTAINAMERICA,Battle for a chance to win CAPTAIN AMERICA shards
+ID_MOTD_NA_CAPTAINCARTER,Lost in Time: Now Live!
+ID_MOTD_DE_CAPTAINCARTER,Battle for a chance to win Captain Carter shards
 ID_MOTD_NA_CAPTAINMARVEL,Ace Pilot: Now Live!
 ID_MOTD_DE_CAPTAINMARVEL,Battle for a chance to win Captain Marvel shards
 ID_MOTD_NA_CARNAGE,Psychotic: Now Live!
@@ -611,6 +615,8 @@ ID_MOTD_NA_NEBULA,Sadistic Sister: Now Live!
 ID_MOTD_DE_NEBULA,Battle for a chance to win NEBULA shards
 ID_MOTD_NA_NEGASONIC,Big Boom: Now Live!
 ID_MOTD_DE_NEGASONIC,Battle for a chance to win Negasonic Teenage Warhead shards
+ID_MOTD_NA_NEMESIS,Exile: Now Live!
+ID_MOTD_DE_NEMESIS,Battle for a chance to win Nemesis shards
 ID_MOTD_NA_NICOMINORU,Sister Grimm: Now Live!
 ID_MOTD_DE_NICOMINORU,Battle for a chance to win Nico Minoru shards
 ID_MOTD_NA_NIGHTNURSE,First Responder: Now Live!
@@ -723,12 +729,16 @@ ID_MOTD_NA_THING,Clobberin' Time: Now Live!
 ID_MOTD_DE_THING,Battle for a chance to win The Thing shards
 ID_MOTD_NA_THOR,God of Thunder: Now Live!
 ID_MOTD_DE_THOR,Battle for a chance to win THOR shards
+ID_MOTD_NA_TITANIA,Glow-Up: Now Live!
+ID_MOTD_DE_TITANIA,Battle for a chance to win Titania shards
 ID_MOTD_NA_TOAD,Sticky Situation: Now Live!
 ID_MOTD_DE_TOAD,Battle for a chance to win Toad shards
 ID_MOTD_NA_ULTGREENGOBLIN,Oz: Now Live!
 ID_MOTD_DE_ULTGREENGOBLIN,Battle for a chance to win Green Goblin shards
 ID_MOTD_NA_ULTSPIDERMAN,Kid Arachnid: Now Live!
 ID_MOTD_DE_ULTSPIDERMAN,Battle for a chance to win Spider-Man (Miles) shards
+ID_MOTD_NA_USAGENT,American Patriot: Now Live!
+ID_MOTD_DE_USAGENT,Battle for a chance to win U.S. Agent shards
 ID_MOTD_NA_VALKYRIE,Seer of the Slain: Now Live!
 ID_MOTD_DE_VALKYRIE,Battle for a chance to win Valkyrie shards
 ID_MOTD_NA_VENOM,Symbiotic Terror: Now Live!
@@ -1516,11 +1526,23 @@ ID_MOTD_NA_CYBERTURKEYHUNT_TEASER,Coming Soon: Cyber Turkey Hunt
 ID_MOTD_DE_CYBERTURKEYHUNT_TEASER,Collect Turkeys and Earn Rewards!
 ID_MOTD_NA_CYBERTURKEYHUNT_ANNOUNCE,LIVE: Cyber Turkey Hunt
 ID_MOTD_DE_CYBERTURKEYHUNT_ANNOUNCE,Collect Turkeys and Earn Rewards!
+ID_MOTD_NA_DEATH_TEASER,Coming Soon: Death Scourge Event
+ID_MOTD_DE_DEATH_TEASER,Power Up Wakanda or Bionic Avenger for Difficulty 5+
+ID_MOTD_NA_DEATH_ANNOUNCE,LIVE: Death Scourge Event
+ID_MOTD_DE_DEATH_ANNOUNCE,Earn Archangel shards and more with your highest Run Score!
 ID_MOTD_NA_THEABOMINABLEBEAST_TEASER,Coming Soon: The Abominable Beast
 ID_MOTD_DE_THEABOMINABLEBEAST_TEASER,Inject Dark Beast into your Roster!
 ID_MOTD_NA_THEABOMINABLEBEAST_ANNOUNCE,LIVE: The Abominable Beast
 ID_MOTD_DE_THEABOMINABLEBEAST_ANNOUNCE,Recruit Dark Beast
+ID_MOTD_NA_HERALDOFDEATH_ANNOUNCE,NOW LIVE: Herald of Death
+ID_MOTD_DE_HERALDOFDEATH_ANNOUNCE,Power up teams for the Death Scourge Event!
 ID_MOTD_NA_MIDNIGHTSUNS_IRONMAN,Marvel's Midnight Suns Crossover
 ID_MOTD_DE_MIDNIGHTSUNS_IRONMAN,Check your inbox and unlock the Iron Man Bleeding Edge costume in Marvel's Midnight Suns!
 ID_MOTD_NA_NEMESIS_TEASER,Coming Soon: Nemesis
 ID_MOTD_DE_NEMESIS_TEASER,Don't miss this red hot Death Seed Support!
+ID_MOTD_NA_NEMESIS_ANNOUNCE,Ready for Battle: Nemesis
+ID_MOTD_DE_NEMESIS_ANNOUNCE,Son of Apocalypse
+ID_MOTD_NA_GROOTMAS_TEASER,Get Ready for a Galactic Holiday...
+ID_MOTD_DE_GROOTMAS_TEASER,"Unwrap character shards, costumes, and more!"
+ID_MOTD_NA_GROOTMAS_ANNOUNCE,LIVE: How the Guardians Stole Grootmas
+ID_MOTD_DE_GROOTMAS_ANNOUNCE,Team up with the Guardians of the Galaxy for big rewards!

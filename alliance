@@ -114,6 +114,9 @@ ID_ALLIANCE_ERROR_INVITE_APPROVE_TITLE,Cannot Approve Request
 ID_ALLIANCE_ERROR_INVITE_APPROVE_INVALID,This request is no longer valid.
 ID_ALLIANCE_ERROR_INVITE_APPROVE_FULL,"Your alliance, {alliance}, has reached maximum capacity ({max} members)."
 ID_ALLIANCE_ERROR_REQUEST_TITLE,Cannot Request to Join Alliance
+ID_ALLIANCE_ERROR_INVITE_RECOMMENDED_FULL_TITLE,Alliance Full
+ID_ALLIANCE_ERROR_INVITE_RECOMMENDED_FOUND_BODY,All spots in this alliance have now been filled\n\nWe have identified another alliance that could use your assistance.\nGo there now?
+ID_ALLIANCE_ERROR_INVITE_RECOMMENDED_NOT_FOUND_BODY,All spots in this alliance have now been filled\n\nWe will alert you when we find another good fit.
 ID_ALLIANCE_SUCCESS_REQUEST_TITLE,REQUEST SENT
 ID_ALLIANCE_SUCCESS_REQUEST,Your request has been sent.
 ID_ALLIANCE_ERROR_REQUEST_DECLINE_TITLE,Cannot Decline Request
@@ -645,3 +648,8 @@ ID_AVA_UPGRADE_DESCRIPTION,Increase your Alliance War effectiveness through War 
 ID_AVA_PRACTICE,Practice
 ID_AVA_WAR_READY,War Ready
 ID_ALLIANCE_CHAT_SKIN_UNLOCKED,{nameUser} unlocked the {charName} - {skinName} costume!
+ID_ALLIANCE_RECOMMENDATION_INBOX_TITLE,A New Alliance Awaits
+ID_ALLIANCE_RECOMMENDATION_INBOX_SUBJECT,You have an alliance recommendation!
+ID_ALLIANCE_RECOMMENDATION_INBOX_BODY,"Commander,\n\nWe've identified an alliance we think you would be a good fit for.\n\nBeing in an active Alliance is critical to ensure our S.T.R.I.K.E Agents are fighting at full power. Your S.T.R.I.K.E Agents need Ability Materials to maximize their potential and there's no better place to get them than Alliance Raids.\n\nPlease review the alliance {alliance} and see if you'd like to join them.\n\n\n<i>If you want to opt out of receiving alliance recommendations, turn off 'Receive Alliance Recommendations' in Advanced Options.</i>"
+ID_ALLIANCE_RECOMMENDATION_DECLINE_TITLE,DECLINE ALLIANCE RECOMMENDATION?
+ID_ALLIANCE_RECOMMENDATION_DECLINE_BODY,Confirm that you would like to decline the recommendation to join {alliance}.

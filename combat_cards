@@ -120,12 +120,12 @@ ID_GAMBIT_MOD_009_NAME,Royal Flush
 ID_GAMBIT_MOD_009_DESC,Enemies Generate <color=#86e619>{pass.on_gain_energy.abilityenergy.GainExtraEnergy.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Additional Ability Energy Each Time They Generate Ability Energy
 ID_GAMBIT_MOD_010_NAME,Up The Ante
 ID_GAMBIT_MOD_010_DESC,All Enemy Special And Ultimate Ablities Have A Reduced Energy Cost Of <color=#86e619>-1</color>
-ID_SCOURGE_CARD_074_NAME,Dark Resolve III <color=#9e0b0f>[FREE POINTS]</color>
-ID_SCOURGE_CARD_074_DESC,"On Ally Death, Enemies Gain <color=#fff568>Offense Up</color> [This Scourge does <color=#9e0b0f>not currently work</color>. Add this Scourge to earn additional free points]"
+ID_SCOURGE_CARD_074_NAME,Dark Resolve III
+ID_SCOURGE_CARD_074_DESC,"On Enemy Death, Remaining Enemies Gain <color=#fff568>Offense Up</color>"
 ID_SCOURGE_CARD_080_NAME,Bleeder II
 ID_SCOURGE_CARD_080_DESC,"When A Player Character Takes Damage, They Gain <color=#fff568>Minor Bleed</color>"
-ID_SCOURGE_CARD_081_NAME,Pyrrhic Victory II <color=#9e0b0f>[FREE POINTS]</color>
-ID_SCOURGE_CARD_081_DESC,"When A Player Character Blocks, Apply <color=#fff568>Heal Block</color> To Them [This Scourge does <color=#9e0b0f>not currently work</color>. Add this Scourge to earn additional free points]"
+ID_SCOURGE_CARD_081_NAME,Pyrrhic Victory II
+ID_SCOURGE_CARD_081_DESC,"When A Player Character Blocks, Apply <color=#fff568>Heal Block</color> To Them"
 ID_SCOURGE_CARD_088_NAME,Vile Resurgence II
 ID_SCOURGE_CARD_088_DESC,"On Enemy Turn, They Gain <color=#fff568>Minor Offense Up</color>"
 ID_SCOURGE_CARD_092_NAME,Overcharged
@@ -144,3 +144,26 @@ ID_SCOURGE_CARD_098_NAME,Unstoppable Force
 ID_SCOURGE_CARD_098_DESC,"On An Enemy <color=#9055FF>Strikers</color> Turn, They Gain <color=#86e619>5%</color> Barrier And Flip <color=#fff568>Offense Down</color>"
 ID_SCOURGE_CARD_099_NAME,Butterfly Effect
 ID_SCOURGE_CARD_099_DESC,"When A <color=#9055FF>Fortifier</color> Character Uses An Ultimate Ability, Spread Positive Effects On That Character To Adjacent Allied Characters"
+ID_SCOURGE_CARD_101_DESC,"When A Non-Minion Player Character Gains Ability Energy, Apply <color=#fff568>Slow</color> To Them"
+ID_SCOURGE_CARD_107_DESC,Non-Minion Player Character Healing Is Reduced By <color=#86e619>{st.health_gain_mod.-20.combat_mods.session_stats.0.Stats.0.val}%</color>
+ID_SCOURGE_CARD_108_DESC,"When A Non-Minion Player Character Takes Damage, They Gain <color=#fff568>Minor Bleed</color>"
+ID_SCOURGE_CARD_113_DESC,"When A Non-Minion Player Character Gains <color=#fff568>Offense Up</color> Or <color=#fff568>Defense Up</color>, Apply <color=#fff568>Heal Block</color> To Them"
+ID_SCOURGE_CARD_119_DESC,"When A non-Minion Player Character's Health Drops Below <color=#86e619>{pass.below_health.proc.TraumaSelf.combat_mods.extra_abilities.passive.0.exec_value}%</color> Max Health, Apply <color=#fff568>Trauma</color> To Them"
+ID_SCOURGE_CARD_120_NAME,Power Fatigue III
+ID_SCOURGE_CARD_120_DESC,Non-Minion Player Character Special And Ultimate Abilities Cost <color=#86e619>1</color> More Ability Energy
+ID_SCOURGE_CARD_121_NAME,Vanguard
+ID_SCOURGE_CARD_121_DESC,"While An Enemy Character Has <color=#fff568>Taunt</color>, All Other Enemies Gain <color=#86e619>15,000</color> Armor"
+ID_SCOURGE_CARD_122_NAME,Zombification
+ID_SCOURGE_CARD_122_DESC,"On Spawn And On Turn, Enemies gain <color=#fff568>Deathproof</color>. On End Of Turn, If An Enemy Has <color=#86e619>5</color> <color=#fff568>Deathproof</color> And Not <color=#fff568>Revive Once</color>, Remove All <color=#fff568>Deathproof</color> From That Enemy And They Gain <color=#fff568>Revive Once</color>"
+ID_SCOURGE_CARD_123_NAME,Life After Death
+ID_SCOURGE_CARD_123_DESC,"On An Enemy <color=#9055FF>Healers</color> Death, All Enemy's Gain <color=#fff568>Regen</color>"
+ID_SCOURGE_CARD_124_NAME,Look At Me
+ID_SCOURGE_CARD_124_DESC,"On Enemy <color=#9055FF>Fortifier</color> Spawn, Gain <color=#fff568>Taunt</color>"
+ID_SCOURGE_CARD_125_NAME,Undead Swarms
+ID_SCOURGE_CARD_125_DESC,"On Spawn, All Minions Gain <color=#fff568>Revive Once</color>"
+ID_SCOURGE_CARD_126_NAME,Rise Anew
+ID_SCOURGE_CARD_126_DESC,"On Their Turn, Minions Flip Negative Effects"
+ID_SCOURGE_CARD_127_NAME,Super Soldier Serum
+ID_SCOURGE_CARD_127_DESC,"All Minions Gain <color=#86e619>+30%</color> Focus, Health, Crit Chance, Crit Damage, Revive Health, And Active Healing"
+ID_SCOURGE_CARD_128_NAME,I Don't Need Skills
+ID_SCOURGE_CARD_128_DESC,"While <color=#fff568>Ability Blocked</color>, Enemy Characters Gain <color=#86e619>+15%</color> To Damage, Crit Damage, Crit Chance, And Speed"

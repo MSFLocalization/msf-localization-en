@@ -118,6 +118,13 @@ ID_AR_MT_AGATHAHARKNESS,LIVE: Coven Leader Blitz
 ID_AR_MS_AGATHAHARKNESS,Your chance to win Agatha Harkness shards!
 ID_AR_MB_AGATHAHARKNESS,"<color=#fff568>Coven Leader Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Agatha Harkness shards!\n\n<color=#fff568>Coven Leader Orb</color>\nFor a limited time, a new Coven Leader Orb is available in the Store. The orb contains <color=#fff568>only Agatha Harkness shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Agatha Harkness now!"
 ID_AR_NA_AGATHAHARKNESS_CARD,Coven Leader
+ID_AR_NA_AGENTVENOM,Symbiote Soldier
+ID_AR_SM_AGENTVENOM,Win Agent Venom Shards!
+ID_AR_LM_AGENTVENOM,Face off against other players' teams to earn various milestone rewards and a chance to win Agent Venom shards!
+ID_AR_MT_AGENTVENOM,LIVE: Symbiote Soldier Blitz
+ID_AR_MS_AGENTVENOM,Your chance to win Agent Venom shards!
+ID_AR_MB_AGENTVENOM,"<color=#fff568>Symbiote Soldier Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Agent Venom shards!\n\n<color=#fff568>Symbiote Soldier Orb</color>\nFor a limited time, a new Symbiote Soldier Orb is available in the Store. The orb contains <color=#fff568>only Agent Venom shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Agent Venom now!"
+ID_AR_NA_AGENTVENOM_CARD,Symbiote Soldier
 ID_AR_NA_AIMDMG_SPEED,Commando
 ID_AR_SM_AIMDMG_SPEED,Win A.I.M. Assaulter Shards!
 ID_AR_LM_AIMDMG_SPEED,Face off against other players' teams to earn various milestone rewards and a chance to win A.I.M. Assaulter shards!
@@ -269,9 +276,6 @@ ID_AR_LM_CABLE,Face off against other players' teams to earn various milestone r
 ID_AR_MT_CABLE,LIVE: Time Traveler Blitz
 ID_AR_MS_CABLE,Your chance to win CABLE shards.
 ID_AR_MB_CABLE,Face off against other players' teams to earn various milestone rewards and a chance to win <color=#fff568>CABLE</color> shards!
-ID_AR_MC_CABLE,GO!
-ID_AR_ES_CABLE,ENDED: Time Traveler Blitz
-ID_AR_EB_CABLE,The Time Traveler Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
 ID_AR_NA_CABLE_CARD,Time Traveler
 ID_AR_NA_CAPTAINAMERICA,First Avenger
 ID_AR_SM_CAPTAINAMERICA,Win Captain America Shards!
@@ -279,10 +283,14 @@ ID_AR_LM_CAPTAINAMERICA,Face off against other players' teams to earn various mi
 ID_AR_MT_CAPTAINAMERICA,LIVE: First Avenger Blitz
 ID_AR_MS_CAPTAINAMERICA,Your chance to win CAPTAIN AMERICA shards.
 ID_AR_MB_CAPTAINAMERICA,"<color=#fff568>First Avenger Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Captain America shards!\n\n<color=#fff568>First Avenger Orb</color>\nFor a limited time, a new First Avenger Orb is available in the Store. The orb contains <color=#fff568>only Captain America shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Captain America now!"
-ID_AR_MC_CAPTAINAMERICA,GO!
-ID_AR_ES_CAPTAINAMERICA,ENDED: First Avenger Blitz
-ID_AR_EB_CAPTAINAMERICA,The First Avenger Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
 ID_AR_NA_CAPTAINAMERICA_CARD,First Avenger
+ID_AR_NA_CAPTAINCARTER,Lost in Time
+ID_AR_SM_CAPTAINCARTER,Win Captain Carter Shards!
+ID_AR_LM_CAPTAINCARTER,Face off against other players' teams to earn various milestone rewards and a chance to win Captain Carter shards!
+ID_AR_MT_CAPTAINCARTER,LIVE: Lost in Time Blitz
+ID_AR_MS_CAPTAINCARTER,Your chance to win Captain Carter shards!
+ID_AR_MB_CAPTAINCARTER,"<color=#fff568>Lost in Time Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Captain Carter shards!\n\n<color=#fff568>Lost in Time Orb</color>\nFor a limited time, a new Lost in Time Orb is available in the Store. The orb contains <color=#fff568>only Captain Carter shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Captain Carter now!"
+ID_AR_NA_CAPTAINCARTER_CARD,Lost in Time
 ID_AR_NA_CAPTAINMARVEL,Ace Pilot
 ID_AR_SM_CAPTAINMARVEL,Win Captain Marvel Shards!
 ID_AR_LM_CAPTAINMARVEL,Face off against other players' teams to earn various milestone rewards and a chance to win Captain Marvel shards!
@@ -895,6 +903,13 @@ ID_AR_MS_NEBULA,Your chance to win NEBULA shards.
 ID_AR_MB_NEBULA,"<color=#fff568>Sadistic Sister Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Nebula shards!\n\n<color=#fff568>Sadistic Sister Orb</color>\nFor a limited time, a new Sadistic Sister Orb is available in the Store. The orb contains <color=#fff568>only Nebula shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Nebula now!"
 ID_AR_MC_NEBULA,GO!
 ID_AR_NA_NEBULA_CARD,Sadistic Sister
+ID_AR_NA_NEMESIS,Exile
+ID_AR_SM_NEMESIS,Win Nemesis Shards!
+ID_AR_LM_NEMESIS,Face off against other players' teams to earn various milestone rewards and a chance to win Nemesis shards!
+ID_AR_MT_NEMESIS,LIVE: Exile Blitz
+ID_AR_MS_NEMESIS,Your chance to win Nemesis shards!
+ID_AR_MB_NEMESIS,"<color=#fff568>Exile Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Nemesis shards!\n\n<color=#fff568>Exile Orb</color>\nFor a limited time, a new Exile Orb is available in the Store. The orb contains <color=#fff568>only Nemesis shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Nemesis now!"
+ID_AR_NA_NEMESIS_CARD,Exile
 ID_AR_NA_NEGASONIC,Big Boom
 ID_AR_SM_NEGASONIC,Win Negasonic Shards!
 ID_AR_LM_NEGASONIC,Face off against other players' teams to earn various milestone rewards and a chance to win Negasonic Teenage Warhead shards!
@@ -1318,6 +1333,13 @@ ID_AR_MT_THOR,LIVE: God of Thunder Blitz
 ID_AR_MS_THOR,Your chance to win THOR shards.
 ID_AR_MB_THOR,"<color=#fff568>God of Thunder Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Thor shards!\n\n<color=#fff568>God of Thunder Orb</color>\nFor a limited time, a new God of Thunder Orb is available in the Store. The orb contains <color=#fff568>only Thor shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Thor now!"
 ID_AR_NA_THOR_CARD,God of Thunder
+ID_AR_NA_TITANIA,Glow-Up
+ID_AR_SM_TITANIA,Win Titania Shards!
+ID_AR_LM_TITANIA,Face off against other players' teams to earn various milestone rewards and a chance to win Titania shards!
+ID_AR_MT_TITANIA,LIVE: Glow-Up Blitz
+ID_AR_MS_TITANIA,Your chance to win Titania shards!
+ID_AR_MB_TITANIA,"<color=#fff568>Glow-Up Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Titania shards!\n\n<color=#fff568>Glow-Up Orb</color>\nFor a limited time, a new Glow-Up Orb is available in the Store. The orb contains <color=#fff568>only Titania shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Titania now!"
+ID_AR_NA_TITANIA_CARD,Glow-Up
 ID_AR_NA_TOAD,Sticky Situation
 ID_AR_SM_TOAD,Win Toad Shards!
 ID_AR_LM_TOAD,Face off against other players' teams to earn various milestone rewards and a chance to win Toad shards!
@@ -1339,6 +1361,13 @@ ID_AR_MT_ULTSPIDERMAN,LIVE: Kid Arachnid Blitz
 ID_AR_MS_ULTSPIDERMAN,Your chance to win Spider-Man (Miles) shards!
 ID_AR_MB_ULTSPIDERMAN,"<color=#fff568>Kid Arachnid Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Spider-Man (Miles) shards!\n\n<color=#fff568>Kid Arachnid Orb</color>\nFor a limited time, a new Kid Arachnid Orb is available in the Store. The orb contains <color=#fff568>only Spider-Man (Miles) shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Spider-Man (Miles) now!"
 ID_AR_NA_ULTSPIDERMAN_CARD,Kid Arachnid
+ID_AR_NA_USAGENT,American Patriot
+ID_AR_SM_USAGENT,Win U.S. Agent Shards!
+ID_AR_LM_USAGENT,Face off against other players' teams to earn various milestone rewards and a chance to win U.S. Agent shards!
+ID_AR_MT_USAGENT,LIVE: American Patriot Blitz
+ID_AR_MS_USAGENT,Your chance to win U.S. Agent shards!
+ID_AR_MB_USAGENT,"<color=#fff568>American Patriot Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win U.S. Agent shards!\n\n<color=#fff568>American Patriot Orb</color>\nFor a limited time, a new American Patriot Orb is available in the Store. The orb contains <color=#fff568>only U.S. Agent shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit U.S. Agent now!"
+ID_AR_NA_USAGENT_CARD,American Patriot
 ID_AR_NA_VALKYRIE,Seer of the Slain
 ID_AR_SM_VALKYRIE,Win Valkyrie Shards!
 ID_AR_LM_VALKYRIE,Face off against other players' teams to earn various milestone rewards and a chance to win Valkyrie shards!
