@@ -856,7 +856,23 @@ ID_OF_NA_567_RED_STAR_DRAFT_SHEHULK,5-7 Red Star Draft: She-Hulk
 ID_OF_DE_SHEHULK_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>She-Hulk</color>. Control the battle with low-cost abilities that apply negative effects like Heal Block and Stun."
 ID_OF_NA_567_RED_STAR_DRAFT_SPIDERWOMAN,5-7 Red Star Draft: Spider-Woman
 ID_OF_DE_SPIDERWOMAN_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Spider-Woman</color>. Control the battle with low-cost abilities that apply negative effects like Heal Block and Stun."
-ID_OF_NA_567_RED_STAR_DRAFT_STRANGESUPREME,5-7 Red Star Draft: Strange Supreme
-ID_OF_DE_STRANGESUPREME_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Strange Supreme</color>. Control the battle with low-cost abilities that apply negative effects like Heal Block and Stun."
+ID_OF_NA_567_RED_STAR_DRAFT_STRANGESUPREME,5-7 Red Star Draft: Strange (Heartless)
+ID_OF_DE_STRANGESUPREME_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Strange (Heartless)</color>. Control the battle with low-cost abilities that apply negative effects like Heal Block and Stun."
 ID_OF_NA_567_RED_STAR_DRAFT_ANTIVENOM,5-7 Red Star Draft: Anti-Venom
 ID_OF_DE_ANTIVENOM_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Anti-Venom</color>. Control the battle with low-cost abilities that apply negative effects like Heal Block and Stun."
+ID_OF_NA_NEMESIS_FCO_OFFER_DUAL_STOREBAR,Nemesis Unlock Offer
+ID_OF_NA_SEASONOFSAVINGS_STARTER,Season of Savings Starter Bundle
+ID_OF_DE_SEASONOFSAVINGS_STARTER,"Get a head start on the <color=#fff568>Season of Savings Milestone</color> with this high value offer! "
+ID_OF_NA_SEASONOFSAVINGS_CATCHUP,Season of Savings Icy Catch-up
+ID_OF_DE_SEASONOFSAVINGS_CATCHUP,Take advantage of this spectacular deal to get through the end of the <color=#fff568>Season of Savings Milestone</color> and get your final rewards!
+ID_OF_NA_SEASONOFSAVINGS_MEGA,Season of Savings Flash Freeze Bundle
+ID_OF_DE_SEASONOFSAVINGS_MEGA,Sled through the <color=#fff568>Season of Savings event</color> with this ice-cold bundle and get valuable resources to power up your roster!
+ID_OF_NA_SEASONOFSAVINGS_FREECLAIM,Season of Savings Sub-Zero Booster
+ID_OF_DE_SEASONOFSAVINGS_FREECLAIM,Get your free bundle of Ice Cubes for progress in the <color=#fff568>Season of Savings Milestone</color>. Check the website for these daily treats to finish the event!
+ID_OF_NA_345_RED_STAR_DRAFT_GENERIC,3-5 Red Star Draft
+ID_OF_DE_345_RED_STAR_DRAFT_GENERIC,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star level 3, Maximum Red Star Level 5) for this <color=#fff568>character</color>."
+ID_OF_DE_345_RED_STAR_DRAFT_SHARD_GENERIC,"Get <color=#fff568>{var1}</color> Shards and an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star level 3, Maximum Red Star Level 5) for this <color=#fff568>character</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_SHARD_GENERIC,"Get <color=#fff568>{var1}</color> Shards and an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for this <color=#fff568>character</color>."
+ID_OF_DE_345_RED_STAR_DRAFT_SHARD_FANTOMEX,"Get <color=#fff568>{var1}</color> Fantomex Shards and an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star level 3, Maximum Red Star Level 5) for <color=#fff568>Fantomex</color>."
+ID_OF_NA_YOUNGAVENGERS_TEAM_OFFER,Young Avengers Team Offer
+ID_OF_DE_YOUNGAVENGERS_TEAM_OFFER,Get shards for the Young Avengers team at an amazing value and strengthen your War Defense. The Young Avengers are a valuable team that can also help you get ahead in the Rogue Scourge.

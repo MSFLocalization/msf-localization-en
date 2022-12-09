@@ -8241,3 +8241,15 @@ ID_GACHA_CRATE_MAD_SCIENCE_NAME,Mad Science Orb
 ID_GACHA_CRATE_MAD_SCIENCE_DESCRIPTION,Contains Dark Beast shards
 ID_GACHA_CRATE_MAD_SCIENCE_TOKEN_DESCRIPTION,Collect Mad Science Orb Fragments to earn Mad Science Orbs and get progress in The Abominable Beast Event
 ID_GACHA_CRATE_MAD_SCIENCE_TOKEN_NAME,Mad Science Orb Fragments
+ID_GACHA_CRATE_BESTOF2022_NAME,Year's Best Orb
+ID_GACHA_CRATE_BESTOF2022_DESCRIPTION,Get up to 50 shards of the 22 best characters of 2022
+ID_GACHA_CRATE_BESTOF2022_TOKEN_NAME,Year's Best Orb Fragments
+ID_GACHA_CRATE_BESTOF2022_TOKEN_DESCRIPTION,Collect Year's Best Orb Fragments to earn a Year's Best Orb containing up to 50 shards of the best 22 characters of 2022
+ID_GACHA_CRATE_GILDEDCHAMPION_NAME,Gilded Champion Orb
+ID_GACHA_CRATE_GILDEDCHAMPION_DESCRIPTION,Get up to 100 shards of the top characters of the year
+ID_GACHA_CRATE_GILDEDCHAMPION_TOKEN_NAME,Gilded Champion Orb Fragments
+ID_GACHA_CRATE_GILDEDCHAMPION_TOKEN_DESCRIPTION,Collect Gilded Champion Orb Fragments to earn a Gilded Champion Orb containing up to 100 shards of the top characters of the year
+ID_GACHA_CRATE_DEATHBRINGER_NAME,Deathbringer Orb
+ID_GACHA_CRATE_DEATHBRINGER_DESCRIPTION,"Contains Wakandan, Bionic Avenger, Mutant, and Minion Shards"
+ID_GACHA_CRATE_DEATHBRINGER_TOKEN_NAME,Deathbringer Orb Fragments
+ID_GACHA_CRATE_DEATHBRINGER_TOKEN_DESCRIPTION,Collect Deathbringer Orb Fragments to earn Deathbringer Orbs and get progress in the Herald of Death Event

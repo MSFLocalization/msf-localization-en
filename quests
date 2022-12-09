@@ -2160,6 +2160,14 @@ ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_2,Get a stamp every time you spend {tier52p
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_3,Get a stamp every time you spend {tier1price} in a single transaction on web!
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_4,Get a stamp every time you spend {tier5price} in a single transaction on web!
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_5,Get a stamp every time you spend {tier10price} in a single transaction on web!
+ID_QU_NA_SEASONOFSAVINGS,Season of Savings
+ID_QU_SD_SEASONOFSAVINGS,Collect Ice Cubes
+ID_QU_LM_SEASONOFSAVINGS,"Make progress by collecting Ice Cubes to earn rewards like T2 Level 5 Ions, Elite 7 Credits and more ice-cold, incredible rewards!"
+ID_QU_S1_SEASONOFSAVINGS,Collect 1 Ice Cube
+ID_QU_NA_BESTOF2022,Best of 2022 Extravaganza
+ID_QU_SD_BESTOF2022,Collect Year's Best Orbs!
+ID_QU_LM_BESTOF2022,Make progress by collecting Year's Best Orbs to earn Gilded Champion Orbs and double up on rewards!
+ID_QU_S1_BESTOF2022,Collect 1 Year's Best Orb Fragment
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_6,Get a stamp every time you spend {tier30price} in a single transaction on web!
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_7,Get a stamp every time you spend {tier50price} in a single transaction on web!
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_8,Get a stamp every time you spend {tier60price} in a single transaction on web!
