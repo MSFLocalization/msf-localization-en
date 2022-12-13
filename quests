@@ -2156,7 +2156,7 @@ ID_QU_LM_STAMPCARDLAUNCH2022_GOLD_GENERIC,Get a stamp every time you spend a lar
 ID_QU_NA_STAMPCARDLAUNCH2022_SILVER,Beta Launch Silver Premium Stamp
 ID_QU_LM_STAMPCARDLAUNCH2022_SILVER_GENERIC,Get a stamp every time you spend a sizable amount in a single transaction on web!
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_1,Get a stamp every time you spend {tier20price} in a single transaction on web!
-ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_2,Get a stamp every time you spend {tier52price} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_2,Get a stamp every time you spend {tierSprice} in a single transaction on web!
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_3,Get a stamp every time you spend {tier1price} in a single transaction on web!
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_4,Get a stamp every time you spend {tier5price} in a single transaction on web!
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_5,Get a stamp every time you spend {tier10price} in a single transaction on web!
@@ -2170,4 +2170,26 @@ ID_QU_LM_BESTOF2022,Make progress by collecting Year's Best Orbs to earn Gilded 
 ID_QU_S1_BESTOF2022,Collect 1 Year's Best Orb Fragment
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_6,Get a stamp every time you spend {tier30price} in a single transaction on web!
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_7,Get a stamp every time you spend {tier50price} in a single transaction on web!
-ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_8,Get a stamp every time you spend {tier60price} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_8,Get a stamp every time you spend {tierHprice} in a single transaction on web!
+ID_QU_NA_PROGENYOFAPOCALYPSE,Progeny of Apocalypse
+ID_QU_SD_PROGENYOFAPOCALYPSE,"Open Chosen Orbs, Spend Gold"
+ID_QU_LD_PROGENYOFAPOCALYPSE,"Open Chosen Orbs from the Harbinger of the End Event Campaign, spend Gold, and Blitz through the Mutant Evolution milestones. Rewards include:\n\n- Nemesis and mutant gear\n- Ice Shield\n- Snowballs\n- 5-Red Star Killmonger\n- Character shards for Viv Vision and Nakia\n- Training Modules"
+ID_QU_SM_PROGENYOFAPOCALYPSE,Open Chosen Orbs and spend Gold
+ID_QU_SC_PROGENYOFAPOCALYPSE,Open Chosen Orbs and spend Gold
+ID_QU_S1_PROGENYOFAPOCALYPSE,Open 1 Chosen Orb
+ID_QU_S2_PROGENYOFAPOCALYPSE,Spend 1 Gold
+ID_QU_NA_MUTANTEVOLUTION,Mutant Evolution
+ID_QU_SD_MUTANTEVOLUTION,Blitz with Chosen Characters
+ID_QU_LD_MUTANTEVOLUTION,Earn points by winning Blitz battles. Get more points using limited-time Chosen trait characters and even more for those equipped with Gear Tier 13+. Rewards include milestone points towards Progeny of Apocalypse and Gear!
+ID_QU_SM_MUTANTEVOLUTION,Win Blitz with Chosen characters
+ID_QU_SC_MUTANTEVOLUTION,Win Blitz with Chosen characters
+ID_QU_S1_MUTANTEVOLUTION,Blitz Win
+ID_QU_S2_MUTANTEVOLUTION,Blitz Win with Chosen
+ID_QU_S3_MUTANTEVOLUTION,Blitz Win with Chosen at Gear Tier 13+
+ID_QU_S4_MUTANTEVOLUTION,Blitz Win with Chosen at Gear Tier 15+
+ID_QU_NA_NEWREIGN,New Reign
+ID_QU_SD_NEWREIGN,Spend Campaign Energy
+ID_QU_LD_NEWREIGN,"Spend Campaign Energy to complete a daily milestone that rewards Progeny of Apocalypse Milestone Points, Legacy III Orb Fragments and Gold Orb Fragments."
+ID_QU_SM_NEWREIGN,Spend Campaign Energy
+ID_QU_SC_NEWREIGN,Spend Campaign Energy
+ID_QU_S1_NEWREIGN,Spend 1 Campaign Energy

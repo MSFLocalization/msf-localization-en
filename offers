@@ -853,13 +853,13 @@ ID_OF_DE_USAGENT_FCO_OFFER,Save on <color=#fff568> American Patriot Orbs</color>
 ID_OF_DE_USAGENT_OFFER_SHARD,Get <color=#fff568> U.S. Agent</color> shards with this offer! Deploy a Super Soldier who can control the battle with low-cost abilities that apply negative effects like Heal Block and Stun.
 ID_OF_DE_USAGENT_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>U.S. Agent</color>. Control the battle with low-cost abilities that apply negative effects like Heal Block and Stun."
 ID_OF_NA_567_RED_STAR_DRAFT_SHEHULK,5-7 Red Star Draft: She-Hulk
-ID_OF_DE_SHEHULK_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>She-Hulk</color>. Control the battle with low-cost abilities that apply negative effects like Heal Block and Stun."
+ID_OF_DE_SHEHULK_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>She-Hulk</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_SPIDERWOMAN,5-7 Red Star Draft: Spider-Woman
-ID_OF_DE_SPIDERWOMAN_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Spider-Woman</color>. Control the battle with low-cost abilities that apply negative effects like Heal Block and Stun."
+ID_OF_DE_SPIDERWOMAN_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Spider-Woman</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_STRANGESUPREME,5-7 Red Star Draft: Strange (Heartless)
-ID_OF_DE_STRANGESUPREME_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Strange (Heartless)</color>. Control the battle with low-cost abilities that apply negative effects like Heal Block and Stun."
+ID_OF_DE_STRANGESUPREME_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Strange (Heartless)</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_ANTIVENOM,5-7 Red Star Draft: Anti-Venom
-ID_OF_DE_ANTIVENOM_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Anti-Venom</color>. Control the battle with low-cost abilities that apply negative effects like Heal Block and Stun."
+ID_OF_DE_ANTIVENOM_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Anti-Venom</color>."
 ID_OF_NA_NEMESIS_FCO_OFFER_DUAL_STOREBAR,Nemesis Unlock Offer
 ID_OF_NA_SEASONOFSAVINGS_STARTER,Season of Savings Starter Bundle
 ID_OF_DE_SEASONOFSAVINGS_STARTER,"Get a head start on the <color=#fff568>Season of Savings Milestone</color> with this high value offer! "
@@ -870,9 +870,32 @@ ID_OF_DE_SEASONOFSAVINGS_MEGA,Sled through the <color=#fff568>Season of Savings 
 ID_OF_NA_SEASONOFSAVINGS_FREECLAIM,Season of Savings Sub-Zero Booster
 ID_OF_DE_SEASONOFSAVINGS_FREECLAIM,Get your free bundle of Ice Cubes for progress in the <color=#fff568>Season of Savings Milestone</color>. Check the website for these daily treats to finish the event!
 ID_OF_NA_345_RED_STAR_DRAFT_GENERIC,3-5 Red Star Draft
-ID_OF_DE_345_RED_STAR_DRAFT_GENERIC,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star level 3, Maximum Red Star Level 5) for this <color=#fff568>character</color>."
-ID_OF_DE_345_RED_STAR_DRAFT_SHARD_GENERIC,"Get <color=#fff568>{var1}</color> Shards and an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star level 3, Maximum Red Star Level 5) for this <color=#fff568>character</color>."
-ID_OF_DE_567_RED_STAR_DRAFT_SHARD_GENERIC,"Get <color=#fff568>{var1}</color> Shards and an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for this <color=#fff568>character</color>."
-ID_OF_DE_345_RED_STAR_DRAFT_SHARD_FANTOMEX,"Get <color=#fff568>{var1}</color> Fantomex Shards and an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star level 3, Maximum Red Star Level 5) for <color=#fff568>Fantomex</color>."
+ID_OF_DE_345_RED_STAR_DRAFT_GENERIC,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star Level 3, Maximum Red Star Level 5) for this <color=#fff568>character</color>."
+ID_OF_DE_345_RED_STAR_DRAFT_SHARD_GENERIC,"Get <color=#fff568>{var1}</color> Shards and an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star Level 3, Maximum Red Star Level 5) for this <color=#fff568>character</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_SHARD_GENERIC,"Get <color=#fff568>{var1}</color> Shards and an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for this <color=#fff568>character</color>."
+ID_OF_DE_345_RED_STAR_DRAFT_SHARD_FANTOMEX,"Get <color=#fff568>{var1}</color> Fantomex Shards and an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star Level 3, Maximum Red Star Level 5) for <color=#fff568>Fantomex</color>."
 ID_OF_NA_YOUNGAVENGERS_TEAM_OFFER,Young Avengers Team Offer
 ID_OF_DE_YOUNGAVENGERS_TEAM_OFFER,Get shards for the Young Avengers team at an amazing value and strengthen your War Defense. The Young Avengers are a valuable team that can also help you get ahead in the Rogue Scourge.
+ID_OF_NA_PROGENYOFAPOCALYPSE_STARTER_MEDIUM,Progeny of Apocalypse Starter Bundle
+ID_OF_DE_PROGENYOFAPOCALYPSE_STARTER_VAR,Save <color=#fff568>over {var1}%</color> and get a head start of {var2} points in the <color=#fff568>Progeny of Apocalypse Milestone</color>!
+ID_OF_NA_PROGENYOFAPOCALYPSE_STARTER_SUPER,Progeny of Apocalypse Super Starter
+ID_OF_NA_PROGENYOFAPOCALYPSE_STARTER_MEGA,Progeny of Apocalypse Mega Starter
+ID_OF_NA_PROGENYOFAPOCALYPSE_POINTS,Booster of Apocalypse
+ID_OF_DE_PROGENYOFAPOCALYPSE_POINTS,Fast track your progress in the <color=#fff568>Progeny of Apocalypse Milestone</color> with this amazing deal! Complete milestones and climb up the leaderboard ranks for exclusive <color=#fff568>Nemesis Red Stars</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_NA_PROGENYOFAPOCALYPSE_DAILYINTERSTITIAL,Progeny of Apocalypse Web Special
+ID_OF_DE_PROGENYOFAPOCALYPSE_DAILYINTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Progeny of Apocalypse</color> Event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_PROGENYOFAPOCALYPSE_WEBMEGA,Earn Nemesis shards and progress in both the <color=#fff568>Progeny of Apocalypse</color> and <color=#fff568>Season of Savings</color> Milestones with this spectacular deal!
+ID_OF_NA_PROGENYOFAPOCALYPSE_CATCHUP_DUAL,Progeny of Apocalypse Catch-Up Bundle
+ID_OF_DE_PROGENYOFAPOCALYPSE_CATCHUP_DUAL,Get through the end of the <color=#fff568>Progeny of Apocalypse Milestone</color> and climb up the leaderboard ranks for exclusive <color=#fff568>Nemesis Red Stars</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_NA_PROGENYOFAPOCALYPSE_LASTCHANCE,Progeny of Apocalypse Last Chance Booster
+ID_OF_DE_PROGENYOFAPOCALYPSE_LASTCHANCE,"Need a final boost to finish your <color=#fff568>Progeny of Apocalypse Milestone</color>? Don't miss out on this offer! "
+ID_OF_NA_PROGENYOFAPOCALYPSE_DAILY_ORB,Daily Orb Pack
+ID_OF_DE_PROGENYOFAPOCALYPSE_DAILY_ORB,Don't miss this daily <color=#fff568>Chosen Orb</color> offer to power up your roster and boost your <color=#fff568>Progeny of Apocalypse Milestone</color> progress!
+ID_OF_NA_PROGENYOFAPOCALYPSE_DAILY_GOLD,Daily Gold Pack
+ID_OF_DE_PROGENYOFAPOCALYPSE_DAILY_GOLD,Don't miss this daily Gold offer to boost your roster and <color=#fff568>Progeny of Apocalypse Milestone</color> progress!
+ID_OF_NA_PROGENYOFAPOCALYPSE_DAILY_ENERGY,Daily Energy Pack
+ID_OF_DE_PROGENYOFAPOCALYPSE_DAILY_ENERGY,Boost your campaign and <color=#fff568>Progeny of Apocalypse Milestone</color> progress at once!
+ID_OF_NA_PROGENYOFAPOCALYPSE_DAILY_BLITZ,Daily Blitz Bundle
+ID_OF_DE_PROGENYOFAPOCALYPSE_DAILY_BLITZ,Boost your Blitzing to power through the <color=#fff568>Mutant Evolution milestones</color> and earn more <color=#fff568>Progeny of Apocalypse Milestone</color> progress!
+ID_OF_NA_PROGENYOFAPOCALYPSE_DAILYFREE,Progeny of Apocalypse Daily Free Claim
+ID_OF_DE_PROGENYOFAPOCALYPSE_DAILYFREE,Come back daily to boost your <color=#fff568>Progeny of Apocalypse Milestone</color> progress!
