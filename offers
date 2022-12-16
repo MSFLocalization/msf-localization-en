@@ -88,7 +88,7 @@ ID_OF_DE_VALKYRIE_OFFER_VAR_SHARD,Get <color=#fff568>{var1} Valkyrie</color> sha
 ID_OF_NA_DEATHLOK_FCO_OFFER,The Demolisher
 ID_OF_DE_DEATHLOK_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Deathlok</color> with this offer! Each orb has a chance to earn up to 180 shards. Seek and destroy enemies with high damage attacks and by increasing Bionic Avenger Damage.
 ID_OF_DE_DEATHLOK_FCO_OFFER_VAR,Save on <color=#fff568>{var1} Total Destruction Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Deathlok</color> shards. Hit enemies with high damage attacks and increase damage for Bionic Avengers - a Death Scourge Event Difficulty 5+ team.
-ID_OF_DE_DEATHLOK_OFFER_VAR_SHARD,Get <color=#fff568>{var1} Deathlok</color> shards and demolish enemies!  Hit enemies with high damage attacks and increase damage for Bionic Avengers - a Death Scourge Event Difficulty 5+ team.
+ID_OF_DE_DEATHLOK_OFFER_VAR_SHARD,Get <color=#fff568>{var1} Deathlok</color> shards and demolish enemies! Hit enemies with high damage attacks and increase damage for Bionic Avengers - a Death Scourge Event Difficulty 5+ team.
 ID_OF_NA_FREEGIFTWEB,Exclusive Online S.T.R.I.K.E Gift
 ID_OF_DE_FREEGIFTWEB,Don't miss out and claim this free gift on us! Remember to check back daily to look out for more exclusive gifts!
 ID_OF_NA_FREEGIFTWEB_OFFER,Exclusive Online S.T.R.I.K.E Offer
@@ -849,8 +849,8 @@ ID_OF_DE_NEMESIS_OFFER_SHARD,Get <color=#fff568> Nemesis</color> shards and turn
 ID_OF_DE_NEMESIS_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Nemesis</color>. Heat up Death Seed allies by Stealing enemy Health and redistributing it to Death Seed allies."
 ID_OF_NA_USAGENT_FCO_OFFER,Strict Justice
 ID_OF_DE_USAGENT_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star U.S. Agent</color> and unlock special release offers on your next login! Let freedom ring with low-cost abilities that apply negative effects like Heal Block and Stun.
-ID_OF_DE_USAGENT_FCO_OFFER,Save on <color=#fff568> American Patriot Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 U.S. Agent</color> shards. Let freedom ring with low-cost abilities that apply negative effects like Heal Block and Stun.
-ID_OF_DE_USAGENT_OFFER_SHARD,Get <color=#fff568> U.S. Agent</color> shards with this offer! Deploy a Super Soldier who can control the battle with low-cost abilities that apply negative effects like Heal Block and Stun.
+ID_OF_DE_USAGENT_FCO_OFFER,Save on <color=#fff568>American Patriot Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 U.S. Agent</color> shards. Let freedom ring with low-cost abilities that apply negative effects like Heal Block and Stun.
+ID_OF_DE_USAGENT_OFFER_SHARD,Get <color=#fff568>U.S. Agent</color> shards with this offer! Deploy a Super Soldier who can control the battle with low-cost abilities that apply negative effects like Heal Block and Stun.
 ID_OF_DE_USAGENT_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>U.S. Agent</color>. Control the battle with low-cost abilities that apply negative effects like Heal Block and Stun."
 ID_OF_NA_567_RED_STAR_DRAFT_SHEHULK,5-7 Red Star Draft: She-Hulk
 ID_OF_DE_SHEHULK_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>She-Hulk</color>."
@@ -899,3 +899,66 @@ ID_OF_NA_PROGENYOFAPOCALYPSE_DAILY_BLITZ,Daily Blitz Bundle
 ID_OF_DE_PROGENYOFAPOCALYPSE_DAILY_BLITZ,Boost your Blitzing to power through the <color=#fff568>Mutant Evolution milestones</color> and earn more <color=#fff568>Progeny of Apocalypse Milestone</color> progress!
 ID_OF_NA_PROGENYOFAPOCALYPSE_DAILYFREE,Progeny of Apocalypse Daily Free Claim
 ID_OF_DE_PROGENYOFAPOCALYPSE_DAILYFREE,Come back daily to boost your <color=#fff568>Progeny of Apocalypse Milestone</color> progress!
+ID_OF_NA_GROOTMAS_FREECLAIM,Grootmas Daily Energy
+ID_OF_DE_GROOTMAS_FREECLAIM,Get a free bundle of Grootmas Energy to continue playing the <color=#fff568>How the Guardians Stole Grootmas</color> Event. Check the website for more daily bundles!
+ID_OF_NA_567_RED_STAR_DRAFT_BIONICAVENGERS,5-7 Red Star Draft: Bionic Avengers
+ID_OF_DE_567_RED_STAR_DRAFT_BIONICAVENGERS,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Bionic Avengers</color>."
+ID_OF_NA_567_RED_STAR_DRAFT_GAMMA,5-7 Red Star Draft: Gamma
+ID_OF_DE_567_RED_STAR_DRAFT_GAMMA,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Gamma</color> team characters."
+ID_OF_NA_567_RED_STAR_DRAFT_UNLIMITED,5-7 Red Star Draft: Unlimited X-Men
+ID_OF_DE_567_RED_STAR_DRAFT_UNLIMITED,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Unlimited X-Men</color>."
+ID_OF_NA_567_RED_STAR_DRAFT_DARKHOLD,5-7 Red Star Draft: Darkhold
+ID_OF_DE_567_RED_STAR_DRAFT_DARKHOLD,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Darkhold</color> team characters."
+ID_OF_NA_567_RED_STAR_DRAFT_DAZZLER,5-7 Red Star Draft: Dazzler
+ID_OF_DE_567_RED_STAR_DRAFT_DAZZLER,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Dazzler</color>."
+ID_OF_NA_567_RED_STAR_DRAFT_OGWAKANDAN,5-7 Red Star Draft: Original Wakandan
+ID_OF_DE_567_RED_STAR_DRAFT_OGWAKANDAN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the following characters: <color=#fff568>Shuri</color>, <color=#fff568>Black Panther</color>, <color=#fff568>Killmonger</color>, <color=#fff568>M'Baku</color>, <color=#fff568>Okoye</color>."
+ID_OF_NA_345_RED_STAR_DRAFT_BLACKPANTHERBC,3-5 Red Star Draft: Black Panther (1MM)
+ID_OF_DE_345_RED_STAR_DRAFT_BLACKPANTHERBC,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star Level 3, Maximum Red Star Level 5) for <color=#fff568>Black Panther (1MM)</color>."
+ID_OF_NA_567_RED_STAR_DRAFT_WEAPONX,5-7 Red Star Draft: Weapon X
+ID_OF_DE_567_RED_STAR_DRAFT_WEAPONX,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Weapon X</color> team characters."
+ID_OF_NA_567_RED_STAR_DRAFT_UNCANNYXMEN,5-7 Red Star Draft: Uncanny X-Men
+ID_OF_DE_567_RED_STAR_DRAFT_UNCANNYXMEN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Uncanny X-Men</color> team characters."
+ID_OF_NA_567_RED_STAR_DRAFT_MAGNETO,5-7 Red Star Draft: Magneto
+ID_OF_DE_567_RED_STAR_DRAFT_MAGNETO,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Magneto</color>."
+ID_OF_NA_HOLIDAYGENERIC_SAVINGS,Holiday Savings
+ID_OF_DE_HOLIDAYGENERIC_SAVINGS,The Holiday Savings are HERE! Secure all the goodies you need to power up your characters to ascend to greatness!
+ID_OF_NA_HOLIDAYGENERIC_HOTWINTER,Hot Winter Savings
+ID_OF_DE_HOLIDAYGENERIC_HOTWINTER,Warm yourself up with this sizzling hot Winter Spectacular! Hurry! These deals will melt away soon!
+ID_OF_NA_HOLIDAYGENERIC_WINTERSEPC,Winter Spectacular
+ID_OF_DE_HOLIDAYGENERIC_WINTERSEPC,Spectacular savings you can only find HERE this holiday season! Secure this deal before it disappears!
+ID_OF_NA_HOLIDAYGENERIC_SPECIAL,Holiday Special
+ID_OF_DE_HOLIDAYGENERIC_SPECIAL,Specials created just for you this holiday season! Secure these deals before they are gone for good!
+ID_OF_NA_HOLIDAYGENERIC_EXCLUSIVE,HOLIDAY EXCLUSIVE
+ID_OF_DE_HOLIDAYGENERIC_EXCLUSIVE,Exclusive savings just for this holiday season! Stock up on essentials and rise to ultimate power!
+ID_OF_NA_HOLIDAYGENERIC_GEAREX,Holiday Gear Extravaganza
+ID_OF_DE_HOLIDAYGENERIC_GEAREX,Gear Gear Gear! All the gear you wished for this holiday season and more!
+ID_OF_NA_HOLIDAYGENERIC_GOLD,Gold Galore
+ID_OF_DE_HOLIDAYGENERIC_GOLD,Limited time savings is HERE! Unbelievable gold value you cannot miss out on!
+ID_OF_NA_HOLIDAYGENERIC_TRAIN,Holiday Train Exclusive
+ID_OF_DE_HOLIDAYGENERIC_TRAIN,Training is for the Holidays! Stock up on training materals to power up your characters to great heights!
+ID_OF_NA_HOLIDAYGENERIC_BUNDLE,Winter Bundle
+ID_OF_DE_HOLIDAYGENERIC_BUNDLE,Bundle up this winter season with unprecedented savings! This bundle will not be around for long. Take advantage of this deal NOW!
+ID_OF_NA_HOLIDAYGENERIC_DRAFT,RED STAR DRAFT: HOLIDAY SPECIAL
+ID_OF_DE_HOLIDAYGENERIC_DRAFT,"Test your luck for an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) Character!"
+ID_OF_NA_HOLIDAYGENERIC_TEAM,Holiday Featured Team Special!
+ID_OF_DE_HOLIDAYGENERIC_TEAM,Hand selected just for you! The perfect Holiday Special featuring your favorite Marvel Strike Force Team! Get this offer now before it blows away!
+ID_OF_NA_HOLIDAYGENERIC_PCGALORE,Promotion Credits Galore
+ID_OF_DE_HOLIDAYGENERIC_PCGALORE,Stock up on Promotion Credits this holiday season. The time to promote your character is now!
+ID_OF_NA_HOLIDAYGENERIC_DAZZLER,Holiday Dazzler Exclusive
+ID_OF_DE_HOLIDAYGENERIC_DAZZLER,Spruce up your X-Men Team by leveling up Dazzler with this character shard exclusive!
+ID_OF_NA_HOLIDAYGENERIC_GEARSP,GEAR SPEACIAL
+ID_OF_DE_HOLIDAYGENERIC_GEARSP,Explosive Gear Special! Time to secure all the gear you need to equip your character to a higher tier!
+ID_OF_NA_HOLIDAYGENERIC_LEVELUP1,Winter Level Up Extravaganza
+ID_OF_DE_HOLIDAYGENERIC_LEVELUP1,"The time is now to start saving! All the essentials you need to level up your character and gain power! "
+ID_OF_NA_HOLIDAYGENERIC_LEVELUP2,"Level Up Exclusive "
+ID_OF_DE_HOLIDAYGENERIC_LEVELUP2,Limited Time Exclusive just in time for the Holidays! Be sure to secure this holiday deal before it disappears! All the essentials your characters need to power up!
+ID_OF_NA_HOLIDAYGENERIC_LEVELUP3,Level Up Bundle
+ID_OF_DE_HOLIDAYGENERIC_LEVELUP3,Bundle up this winter season with all the level up essentials you need to power up your character! This offer will not be around for long!
+ID_OF_NA_567_RED_STAR_DRAFT_HANDMINION,5-7 Red Star Draft: Hand Minion
+ID_OF_DE_567_RED_STAR_DRAFT_HANDMINION,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Hand Minions</color>."
+ID_OF_NA_HOLIDAYULTIMATESALE,Ultimate Holiday Sale!
+ID_OF_DE_HOLIDAYULTIMATESALE,Take you roster to new heights with a special Holiday sale. It's packed with so much value you'll have to tap to see all that's included!
+ID_OF_NA_NEWYYEARSUPERSALE,New Year Super Sale!
+ID_OF_DE_NEWYYEARSUPERSALE,Take you roster to new heights with a special New Year sale. It's packed with so much value you'll have to tap to see all that's included!
+ID_OF_NA_USAGENT_FCO_OFFER_DUAL_STOREBAR,U.S. Agent Dual Offer
