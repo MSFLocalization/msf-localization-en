@@ -2152,14 +2152,14 @@ ID_QU_SM_TECHNICALTACTICS,Battle in Raids
 ID_QU_SC_TECHNICALTACTICS,Battle in Raids
 ID_QU_S1_TECHNICALTACTICS,Play a Raid battle
 ID_QU_NA_STAMPCARDLAUNCH2022_GOLD,Beta Launch Golden Premium Stamp
-ID_QU_LM_STAMPCARDLAUNCH2022_GOLD_GENERIC,Get a stamp every time you spend a large amount in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GOLD_GENERIC,Get a stamp every time you spend at least a large amount in a single transaction on web!
 ID_QU_NA_STAMPCARDLAUNCH2022_SILVER,Beta Launch Silver Premium Stamp
-ID_QU_LM_STAMPCARDLAUNCH2022_SILVER_GENERIC,Get a stamp every time you spend a sizable amount in a single transaction on web!
-ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_1,Get a stamp every time you spend {tier20price} in a single transaction on web!
-ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_2,Get a stamp every time you spend {tierSprice} in a single transaction on web!
-ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_3,Get a stamp every time you spend {tier1price} in a single transaction on web!
-ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_4,Get a stamp every time you spend {tier5price} in a single transaction on web!
-ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_5,Get a stamp every time you spend {tier10price} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_SILVER_GENERIC,Get a stamp every time you spend at least a sizable amount in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_1,Get a stamp every time you spend at least {tier20price} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_2,Get a stamp every time you spend at least {tierSprice} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_3,Get a stamp every time you spend at least {tier1price} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_4,Get a stamp every time you spend at least {tier5price} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_5,Get a stamp every time you spend at least {tier10price} in a single transaction on web!
 ID_QU_NA_SEASONOFSAVINGS,Season of Savings
 ID_QU_SD_SEASONOFSAVINGS,Collect Ice Cubes
 ID_QU_LM_SEASONOFSAVINGS,"Make progress by collecting Ice Cubes to earn rewards like T2 Level 5 Ions, Elite 7 Credits and more ice-cold, incredible rewards!"
@@ -2168,9 +2168,9 @@ ID_QU_NA_BESTOF2022,Best of 2022 Extravaganza
 ID_QU_SD_BESTOF2022,Collect Year's Best Orbs!
 ID_QU_LM_BESTOF2022,Make progress by collecting Year's Best Orbs to earn Gilded Champion Orbs and double up on rewards!
 ID_QU_S1_BESTOF2022,Collect 1 Year's Best Orb Fragment
-ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_6,Get a stamp every time you spend {tier30price} in a single transaction on web!
-ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_7,Get a stamp every time you spend {tier50price} in a single transaction on web!
-ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_8,Get a stamp every time you spend {tierHprice} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_6,Get a stamp every time you spend at least {tier30price} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_7,Get a stamp every time you spend at least {tier50price} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_8,Get a stamp every time you spend at least {tierHprice} in a single transaction on web!
 ID_QU_NA_PROGENYOFAPOCALYPSE,Progeny of Apocalypse
 ID_QU_SD_PROGENYOFAPOCALYPSE,"Open Chosen Orbs, Spend Gold"
 ID_QU_LD_PROGENYOFAPOCALYPSE,"Open Chosen Orbs from the Harbinger of the End Event Campaign, spend Gold, and Blitz through the Mutant Evolution milestones. Rewards include:\n\n- Nemesis and mutant gear\n- Ice Shield\n- Snowballs\n- 5-Red Star Killmonger\n- Character shards for Viv Vision and Nakia\n- Training Modules"
