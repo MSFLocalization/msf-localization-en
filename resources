@@ -171,8 +171,8 @@ ID_EVENT_CUR2_NAME,Gear Credits
 ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
 ID_EVENT_CUR3_NAME,Year's Best Orb Fragments
 ID_EVENT_CUR3_DESCRIPTION,Collect Year's Best Orb Fragments for points in the Best of 2022 Extravaganza Event. Earn them in Free Claims and limited holiday offers!
-ID_EVENT_CUR4_NAME,Panther Pelt
-ID_EVENT_CUR4_DESCRIPTION,Collect the Panther Pelt for points in The First Panther Event. Earn it in the Contagion Corps Event!
+ID_EVENT_CUR4_NAME,Power Broker Bargain Milestone Point
+ID_EVENT_CUR4_DESCRIPTION,These points earn you additional progress in the Power Broker Bargain Milestone.
 ID_EVENT_CUR5_NAME,Progeny of Apocalypse Milestone Points
 ID_EVENT_CUR5_DESCRIPTION,"These points earn you additional progress in the Progeny of Apocalypse Milestone. Earn them in the Mutant Evolution and New Reign Milestones, Daily Free Claims on our website and limited offers!"
 ID_EVENT_CUR6_NAME,Razor-Sharp Claws
@@ -214,3 +214,13 @@ ID_BATTLEPASS_5_1_GENERAL_CUR_DESC,Earn S.T.R.I.K.E. Tokens by completing Daily 
 ID_RESOURCE_CONVERSION_TITLE,CONVERT EXPIRED BITS
 ID_RESOURCE_CONVERSION_SUBTITLE,Expired Bits are converted into <color=#ffffff>COSTUME CREDITS</color>
 ID_RESOURCE_CONVERSION_SKIN_SUBTITLE,Expired Bits are converted into <color=#ffffff>COSTUME CREDITS</color>
+ID_EVTA_META_JAN_A_NAME,Justice Medals
+ID_EVTA_META_JAN_A_DESCRIPTION,Collect Justice Medals for points in the Super Patriot Event. Earn them in various events throughout the month of October
+ID_EVTA_META_JAN_B_NAME,Convincer
+ID_EVTA_META_JAN_B_DESCRIPTION,Collect the Convincer for points in the Super Patriot Event. Earn them in the Power Broker Bargain Event!
+ID_EVTA_META_JAN_C_NAME,Battle Boots
+ID_EVTA_META_JAN_C_DESCRIPTION,Collect the Battle Boots for points in the Super Patriot Event. Earn them in the Rise of the Regiment Event!
+ID_EVTA_META_JAN_D_NAME,Bulletproof Uniform
+ID_EVTA_META_JAN_D_DESCRIPTION,Collect the Bulletproof Uniform for points in the Super Patriot Event. Earn them in the Woman Out of Time Event!
+ID_EVTA_META_JAN_E_NAME,Walker's Shield
+ID_EVTA_META_JAN_E_DESCRIPTION,Collect Walker's Shield for points in the Super Patriot Event. Earn them in the Symbiote Sabotage Event!

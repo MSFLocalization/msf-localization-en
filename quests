@@ -2135,6 +2135,44 @@ ID_QU_SM_COLDHEARTED,Spend Campaign and Iso-8 Energy
 ID_QU_SC_COLDHEARTED,Spend Campaign and Iso-8 Energy
 ID_QU_S1_COLDHEARTED,Spend 1 Campaign Energy
 ID_QU_S2_COLDHEARTED,Spend 1 Iso-8 Energy
+ID_QU_NA_SUPERPATRIOT,Super Patriot
+ID_QU_SD_SUPERPATRIOT,Participate in January Events
+ID_QU_LM_SUPERPATRIOT,Participate in various events throughout the month of January to earn milestone progress.
+ID_QU_S1_SUPERPATRIOT,Collect Justice Medals
+ID_QU_S2_SUPERPATRIOT,Collect 1 Convincer
+ID_QU_S3_SUPERPATRIOT,Collect 1 Battle Boots
+ID_QU_S4_SUPERPATRIOT,Collect 1 Bulletproof Uniform
+ID_QU_S5_SUPERPATRIOT,Collect 1 Walker's Shield
+ID_QU_S1_BLITZ_WIN,Win Blitz
+ID_QU_SM_SPLASH_BLITZ,Use Featured Characters in Blitz to earn rewards
+ID_QU_NA_SPLASH_ARACHNIDAMBUSH,Arachnid Ambush
+ID_QU_SD_SPLASH_ARACHNIDAMBUSH,Use Web-Warriors in Blitz
+ID_QU_LM_SPLASH_ARACHNIDAMBUSH,Earn points by using Web-Warriors characters in Blitz Battles. Earn more points if your Web-Warriors characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_ARACHNIDAMBUSH,Use Web-Warriors Characters in Blitz
+ID_QU_S1_SPLASH_ARACHNIDAMBUSH,Win Blitz with 3-star or higher Web-Warriors Character
+ID_QU_S2_SPLASH_ARACHNIDAMBUSH,Win Blitz with 5-star or higher Web-Warriors Character
+ID_QU_S3_SPLASH_ARACHNIDAMBUSH,Win Blitz with 7-star Web-Warriors Character
+ID_QU_NA_SPLASH_WAROFSHADOWS,War of Shadows
+ID_QU_SD_SPLASH_WAROFSHADOWS,Use Underworld in Blitz
+ID_QU_LM_SPLASH_WAROFSHADOWS,Earn points by using Underworld characters in Blitz Battles. Earn more points if your Underworld characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_WAROFSHADOWS,Use Underworld Characters in Blitz
+ID_QU_S1_SPLASH_WAROFSHADOWS,Win Blitz with 3-star or higher Underworld Character
+ID_QU_S2_SPLASH_WAROFSHADOWS,Win Blitz with 5-star or higher Underworld Character
+ID_QU_S3_SPLASH_WAROFSHADOWS,Win Blitz with 7-star Underworld Character
+ID_QU_NA_SPLASH_NUCLEARGARRISON,Nuclear Garrison
+ID_QU_SD_SPLASH_NUCLEARGARRISON,Use Gamma in Blitz
+ID_QU_LM_SPLASH_NUCLEARGARRISON,Earn points by using Gamma characters in Blitz Battles. Earn more points if your Gamma characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_NUCLEARGARRISON,Use Gamma Characters in Blitz
+ID_QU_S1_SPLASH_NUCLEARGARRISON,Win Blitz with 3-star or higher Gamma Character
+ID_QU_S2_SPLASH_NUCLEARGARRISON,Win Blitz with 5-star or higher Gamma Character
+ID_QU_S3_SPLASH_NUCLEARGARRISON,Win Blitz with 7-star Gamma Character
+ID_QU_NA_SPLASH_XPLOSIVEOFFENSE,X-plosive Offense
+ID_QU_SD_SPLASH_XPLOSIVEOFFENSE,Use Unlimited X-Men in Blitz
+ID_QU_LM_SPLASH_XPLOSIVEOFFENSE,Earn points by using Unlimited X-Men characters in Blitz Battles. Earn more points if your Unlimited X-Men characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_XPLOSIVEOFFENSE,Use Unlimited X-Men Characters in Blitz
+ID_QU_S1_SPLASH_XPLOSIVEOFFENSE,Win Blitz with 3-star or higher Unlimited X-Men Character
+ID_QU_S2_SPLASH_XPLOSIVEOFFENSE,Win Blitz with 5-star or higher Unlimited X-Men Character
+ID_QU_S3_SPLASH_XPLOSIVEOFFENSE,Win Blitz with 7-star Unlimited X-Men Character
 ID_QU_NA_HERALDOFDEATH,Herald of Death
 ID_QU_SD_HERALDOFDEATH,Earn Deathbringer Orb Fragments and Battle in War
 ID_QU_LM_HERALDOFDEATH,Score points toward this 7-day milestone by battling in war and by earning Deathbringer Orb Fragments to get:\n\n- Carrot Nose\n- Snowballs\n- Shards for Wakandans and Bionic Avengers\n- T4 Ability Materials\n- Elite 5 Credits
@@ -2152,14 +2190,27 @@ ID_QU_SM_TECHNICALTACTICS,Battle in Raids
 ID_QU_SC_TECHNICALTACTICS,Battle in Raids
 ID_QU_S1_TECHNICALTACTICS,Play a Raid battle
 ID_QU_NA_STAMPCARDLAUNCH2022_GOLD,Beta Launch Golden Premium Stamp
-ID_QU_LM_STAMPCARDLAUNCH2022_GOLD_GENERIC,Get a stamp every time you spend at least a large amount in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GOLD_GENERIC,Get a stamp every time you spend a large amount in a single transaction on web!
 ID_QU_NA_STAMPCARDLAUNCH2022_SILVER,Beta Launch Silver Premium Stamp
-ID_QU_LM_STAMPCARDLAUNCH2022_SILVER_GENERIC,Get a stamp every time you spend at least a sizable amount in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_SILVER_GENERIC,Get a stamp every time you spend a sizable amount in a single transaction on web!
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_1,Get a stamp every time you spend at least {tier20price} in a single transaction on web!
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_2,Get a stamp every time you spend at least {tierSprice} in a single transaction on web!
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_3,Get a stamp every time you spend at least {tier1price} in a single transaction on web!
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_4,Get a stamp every time you spend at least {tier5price} in a single transaction on web!
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_5,Get a stamp every time you spend at least {tier10price} in a single transaction on web!
+ID_QU_NA_GIFTWRAPGALA,Gift Wrap Gala
+ID_QU_SD_GIFTWRAPGALA,Spend Campaign Energy and earn Alliance Credit
+ID_QU_LD_GIFTWRAPGALA,Spend Campaign Energy and earn Alliance Credit. Rewards include:\n\n- Cap's Beanie\n- Snowballs\n- Presents\n- Silver Flash Bits to buy Totally Radd Silver Surfer or Winter Regent Baron Zemo\n- Elite 5 Credits\n- Dark Promotion Credits\n- And more!
+ID_QU_SM_GIFTWRAPGALA,Spend Campaign Energy and earn Alliance Credit
+ID_QU_SC_GIFTWRAPGALA,Spend Campaign Energy and earn Alliance Credit
+ID_QU_S1_GIFTWRAPGALA,Spend Campaign Energy
+ID_QU_S2_GIFTWRAPGALA,Earn Alliance Credit
+ID_QU_NA_BATTLEGRABBAG,Battle Grab Bag Web Milestone
+ID_QU_SD_BATTLEGRABBAG,Earn Raid Credits
+ID_QU_LD_BATTLEGRABBAG,Earn Raid Credits to complete this milestone that rewards Snowballs and Presents!
+ID_QU_SM_BATTLEGRABBAG,Earn Raid Credits
+ID_QU_SC_BATTLEGRABBAG,Earn Raid Credits
+ID_QU_S1_BATTLEGRABBAG,Earn 1 Raid Credit
 ID_QU_NA_SEASONOFSAVINGS,Season of Savings
 ID_QU_SD_SEASONOFSAVINGS,Collect Ice Cubes
 ID_QU_LM_SEASONOFSAVINGS,"Make progress by collecting Ice Cubes to earn rewards like T2 Level 5 Ions, Elite 7 Credits and more ice-cold, incredible rewards!"
@@ -2193,3 +2244,20 @@ ID_QU_LD_NEWREIGN,"Spend Campaign Energy to complete a daily milestone that rewa
 ID_QU_SM_NEWREIGN,Spend Campaign Energy
 ID_QU_SC_NEWREIGN,Spend Campaign Energy
 ID_QU_S1_NEWREIGN,Spend 1 Campaign Energy
+ID_QU_NA_JANUARYALLIANCE2023,Coordinated Assault
+ID_QU_NA_POWERBROKERBARGAIN,Power Broker Bargain
+ID_QU_SD_POWERBROKERBARGAIN,Spend Gold and win Cosmic Crucible Battles
+ID_QU_LD_POWERBROKERBARGAIN,Prove your might in Cosmic Crucible and spend Gold to arm yourself with these rewards:\n\n- Justice Medals \n- Convincer \n- Dark Beast shards\n- T4 Ablility Materials\n- Dark Promotion Credits\n- Armory 16 and 17 Orbs\n- And more!
+ID_QU_SM_POWERBROKERBARGAIN,"Spend Gold, Win in Cosmic Crucible"
+ID_QU_SC_POWERBROKERBARGAIN,"Spend Gold, Win in Cosmic Crucible"
+ID_QU_S1_POWERBROKERBARGAIN,Spend 1 Gold
+ID_QU_S2_POWERBROKERBARGAIN,Win 1 Cosmic Crucible Battle
+ID_QU_NA_WARINC,War Inc.
+ID_QU_SD_WARINC,Play War Battles
+ID_QU_LD_WARINC,"Battle in War to earn Justice Medals and Teal, Orange, Purple, and Blue Raid Orb Fragments."
+ID_QU_SM_WARINC,Play War Battles
+ID_QU_SC_WARINC,Play War Battles
+ID_QU_S1_WARINC,Play a War Battle
+ID_QU_S2_WARINC,Play a War Battle with Underworld
+ID_QU_S3_WARINC,Play a War Battle with Underworld at Gear Tier 13+
+ID_QU_S4_WARINC,Play a War Battle with Underworld at Gear Tier 15+

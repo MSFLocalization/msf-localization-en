@@ -8235,6 +8235,10 @@ ID_GACHA_CRATE_DEATH_NAME,Death Orb
 ID_GACHA_CRATE_DEATH_DESCRIPTION,Usher in the Horseman of Death
 ID_GACHA_CRATE_DEATH_TOKEN_NAME,Death Orb Fragments
 ID_GACHA_CRATE_DEATH_TOKEN_DESCRIPTION,Collect Fragments for Death Orbs that contain up to 100 Archangel shards.
+ID_GACHA_CRATE_ENFORCER_NAME,Enforcer Orb
+ID_GACHA_CRATE_ENFORCER_DESCRIPTION,Earn up to 100 U.S. Agent Shards
+ID_GACHA_CRATE_ENFORCER_TOKEN_NAME,Enforcer Orb Fragments
+ID_GACHA_CRATE_ENFORCER_TOKEN_DESCRIPTION,Collect Fragments for Enforcer Orbs that contain up to 100 U.S. Agent character shards.
 ID_GACHA_CRATE_MAD_SCIENCE_NAME,Mad Science Orb
 ID_GACHA_CRATE_MAD_SCIENCE_DESCRIPTION,Contains Dark Beast shards
 ID_GACHA_CRATE_MAD_SCIENCE_TOKEN_DESCRIPTION,Collect Mad Science Orb Fragments to earn Mad Science Orbs and get progress in The Abominable Beast Event

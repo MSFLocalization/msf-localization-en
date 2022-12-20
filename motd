@@ -1534,6 +1534,10 @@ ID_MOTD_NA_THEABOMINABLEBEAST_TEASER,Coming Soon: The Abominable Beast
 ID_MOTD_DE_THEABOMINABLEBEAST_TEASER,Inject Dark Beast into your Roster!
 ID_MOTD_NA_THEABOMINABLEBEAST_ANNOUNCE,LIVE: The Abominable Beast
 ID_MOTD_DE_THEABOMINABLEBEAST_ANNOUNCE,Recruit Dark Beast
+ID_MOTD_NA_SUPERPATRIOT_TEASER,Coming Soon: Super Patriot
+ID_MOTD_DE_SUPERPATRIOT_TEASER,U.S. Agent arrives in the Super Patriot Event!
+ID_MOTD_NA_SUPERPATRIOT_ANNOUNCE,LIVE: Super Patriot
+ID_MOTD_DE_SUPERPATRIOT_ANNOUNCE,Recruit U.S. Agent now by participating in January Events!
 ID_MOTD_NA_HERALDOFDEATH_ANNOUNCE,NOW LIVE: Herald of Death
 ID_MOTD_DE_HERALDOFDEATH_ANNOUNCE,Power up teams for the Death Scourge Event!
 ID_MOTD_NA_MIDNIGHTSUNS_IRONMAN,Marvel's Midnight Suns Crossover
@@ -1546,6 +1550,10 @@ ID_MOTD_NA_GROOTMAS_TEASER,Get Ready for a Galactic Holiday...
 ID_MOTD_DE_GROOTMAS_TEASER,"Unwrap character shards, costumes, and more!"
 ID_MOTD_NA_GROOTMAS_ANNOUNCE,LIVE: How the Guardians Stole Grootmas
 ID_MOTD_DE_GROOTMAS_ANNOUNCE,Team up with the Guardians of the Galaxy for big rewards!
+ID_MOTD_NA_GIFTWRAPGALA_TEASER,Coming Soon: Gift Wrap Gala
+ID_MOTD_DE_GIFTWRAPGALA_TEASER,Power up your Horsemen teams for holiday domination!
+ID_MOTD_NA_GIFTWRAPGALA_ANNOUNCE,LIVE: Gift Wrap Gala
+ID_MOTD_DE_GIFTWRAPGALA_ANNOUNCE,Power up your Horsemen teams!
 ID_MOTD_NA_SEASONOFSAVINGS_ANNOUNCE,LIVE: Season of Savings
 ID_MOTD_DE_SEASONOFSAVINGS_ANNOUNCE,"Collect Ice Cubes and Earn Rewards! "
 ID_MOTD_NA_BESTOF2022_ANNOUNCE,LIVE: Best of 2022 Extravaganza
@@ -1562,3 +1570,11 @@ ID_MOTD_NA_USAGENT_TEASER,Coming Soon: U.S. Agent
 ID_MOTD_DE_USAGENT_TEASER,This Dark Patriot is on the way!
 ID_MOTD_NA_USAGENT_ANNOUNCE,Ready to Fight: U.S. Agent
 ID_MOTD_DE_USAGENT_ANNOUNCE,The Dark Patriot
+ID_MOTD_NA_POWERBROKERBARGAIN_TEASER,Coming Soon: Power Broker Bargain
+ID_MOTD_DE_POWERBROKERBARGAIN_TEASER,Arm your roster and earn Super Patriot progress
+ID_MOTD_NA_POWERBROKERBARGAIN_ANNOUNCE,LIVE: Power Broker Bargain
+ID_MOTD_DE_POWERBROKERBARGAIN_ANNOUNCE,"Dark Beast shards, Dark Promotion Credits, and more"
+ID_MOTD_NA_WARINC_TEASER,Coming Soon: War Inc. Web Milestone
+ID_MOTD_DE_WARINC_TEASER,Prepare to take Underworld to war!
+ID_MOTD_NA_WARINC_ANNOUNCE,LIVE: War Inc. Web Milestone
+ID_MOTD_DE_WARINC_ANNOUNCE,Battle in War and then claim your rewards on the web!

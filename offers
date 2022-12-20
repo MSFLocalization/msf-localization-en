@@ -402,7 +402,7 @@ ID_OF_DE_MRNEGATIVE_OFFER_VAR_SHARD,"Get <color=#fff568>{var1} Mr. Negative</col
 ID_OF_NA_567_RED_STAR_DRAFT_SPIDERPUNK,5-7 Red Star Draft: Spider-Punk
 ID_OF_DE_567_RED_STAR_DRAFT_SPIDERPUNK,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Spider-Punk</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_GENERIC,5-7 Red Star Draft
-ID_OF_DE_567_RED_STAR_DRAFT_GENERIC,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for this <color=#fff568>character</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_GENERIC,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for this <color=#fff568>character</color>. (Tap the icon for more details)"
 ID_OF_NA_HELICARRIERCLASH_STARTER,Helicarrier Clash Starter Bundle
 ID_OF_DE_HELICARRIERCLASH_STARTER_VAR,Save <color=#fff568>over {var1}%</color> on <color=#fff568>{var2} Valhalla Orbs</color> and more which will gain you {var3} points in the <color=#fff568>Helicarrier Clash Milestone</color>. Starter offers are the best deal for points!
 ID_OF_NA_HELICARRIERCLASH_STARTER_SUPER,Helicarrier Clash Super Starter
@@ -822,6 +822,18 @@ ID_OF_NA_THEABOMINABLEBEAST_DAILYFREE,Special Web Research Grant
 ID_OF_DE_THEABOMINABLEBEAST_DAILYFREE,Claim this gift for progress in <color=#fff568>The Abominable Beast Milestone</color>. Don't miss out on the one-time offer after claiming this gift!
 ID_OF_NA_THEABOMINABLEBEAST_DAILYINSTERSTITIAL,Special Web Science Bundle
 ID_OF_DE_THEABOMINABLEBEAST_DAILYINSTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>The Abominable Beast Milestone</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_SUPERPATRIOT_STARTER,Super Patriot Starter Bundle
+ID_OF_DE_SUPERPATRIOT_STARTER,"Get a head start on the <color=#fff568>Super Patriot Milestone</color> with this high value offer! "
+ID_OF_NA_SUPERPATRIOT_CATCHUP,Super Patriot Catch-up Bundle
+ID_OF_DE_SUPERPATRIOT_CATCHUP,Take advantage of this spectacular deal to get through the end of the <color=#fff568>Super Patriot Milestone</color> and get your final rewards!
+ID_OF_NA_SUPERPATRIOT_MEGA,Super Patriot Mega Bundle
+ID_OF_DE_SUPERPATRIOT_MEGA,Smash through the <color=#fff568>Super Patriot event</color> with this bionic bundle and get valuable resources to power up your roster!
+ID_OF_NA_SUPERPATRIOT_FREECLAIM,Super Patriot Barracks Booster
+ID_OF_DE_SUPERPATRIOT_FREECLAIM,Get your free bundle of Justice Medals for progress in the <color=#fff568>Super Patriot Milestone</color>. Check the website for these daily treats to finish the event!
+ID_OF_NA_SUPERPATRIOT_POINTS,Super Patriot Super Sale
+ID_OF_DE_SUPERPATRIOT_POINTS,Purchase this high-value pack of Justice Medals to punch through the competition in the <color=#fff568>Super Patriot Leaderboards</color>!
+ID_OF_NA_SUPERPATRIOT_BUNDLE,Super Patriot Bundle
+ID_OF_DE_SUPERPATRIOT_BUNDLE,Battle through the <color=#fff568>Super Patriot Milestone</color> with this amazing bundle of resources!
 ID_OF_NA_HERALDOFDEATH_STARTER,Herald of Death Starter Bundle
 ID_OF_DE_HERALDOFDEATH_STARTER,Start off strong with <color=#fff568>{var1} Deathbringer Orbs</color> and more with this offer! Get {var2}% progress in the <color=#fff568>Herald of Death Milestone</color> and power up your roster for the Death Scourge event!
 ID_OF_NA_HERALDOFDEATH_BUNDLE,Herald of Death Event Bundle
@@ -860,6 +872,20 @@ ID_OF_NA_567_RED_STAR_DRAFT_STRANGESUPREME,5-7 Red Star Draft: Strange (Heartles
 ID_OF_DE_STRANGESUPREME_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Strange (Heartless)</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_ANTIVENOM,5-7 Red Star Draft: Anti-Venom
 ID_OF_DE_ANTIVENOM_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Anti-Venom</color>."
+ID_OF_NA_GIFTWRAPGALA_STARTER_FESTIVE,Gift Wrap Gala Festive Starter
+ID_OF_DE_GIFTWRAPGALA_STARTER_VAR,Get <color=#fff568> {var1}%</color> Gift Wrap Gala progress with <color=#fff568>{var2} Campaign Energy</color> and more with this offer!
+ID_OF_NA_GIFTWRAPGALA_STARTER_JOVIAL,Gift Wrap Gala Jovial Starter
+ID_OF_NA_GIFTWRAPGALA_STARTER_CELEBRATORY,Gift Wrap Gala Celebratory Starter
+ID_OF_NA_GIFTWRAPGALA_LASTCHANCE,Gift Wrap Gala Last Chance Offer
+ID_OF_DE_GIFTWRAPGALA_LASTCHANCE,Get <color=#fff568>{var1}</color> Raid Credits and <color=#fff568>{var2}</color> Campaign Energy to progress in the <color=#fff568>Gift Wrap Gala and Battle Grab Bag Milestones</color>!
+ID_OF_NA_GIFTWRAPGALA_BACKUP,Gift Wrap Gala Bundle
+ID_OF_DE_GIFTWRAPGALA_BACKUP,Get <color=#fff568>{var1}</color> Raid Credits and <color=#fff568>{var2}</color> Campaign Energy to progress in the <color=#fff568>Gift Wrap Gala and Battle Grab Bag Milestones</color>!
+ID_OF_NA_GIFTWRAPGALA_DUAL_CATCHUP,Gift Wrap Gala Super Catch-Up
+ID_OF_DE_GIFTWRAPGALA_DUAL_CATCHUP,Take advantage of one of these limited deals to get through the end of the <color=#fff568>Gift Wrap Gala</color> to help reach your final rewards!
+ID_OF_NA_GIFTWRAPGALA_DAILY_RAID,Battle Grab Bag Daily Raid Pack
+ID_OF_DE_GIFTWRAPGALA_DAILY_RAID,Boost your Raiding to power through <color=#fff568>Battle Grab Bag Web Milestone</color> to earn more with over <color=#fff568>{var1}</color> Raid Credits!
+ID_OF_NA_GIFTWRAPGALA_DAILY_ENERGY,Gift Wrap Gala Daily Energy Pack
+ID_OF_DE_GIFTWRAPGALA_DAILY_ENERGY,Boost your progress through the <color=#fff568>Gift Wrap Gala Milestone</color> with <color=#fff568>{var1}</color> Campaign Energy!
 ID_OF_NA_NEMESIS_FCO_OFFER_DUAL_STOREBAR,Nemesis Unlock Offer
 ID_OF_NA_SEASONOFSAVINGS_STARTER,Season of Savings Starter Bundle
 ID_OF_DE_SEASONOFSAVINGS_STARTER,"Get a head start on the <color=#fff568>Season of Savings Milestone</color> with this high value offer! "
@@ -899,6 +925,12 @@ ID_OF_NA_PROGENYOFAPOCALYPSE_DAILY_BLITZ,Daily Blitz Bundle
 ID_OF_DE_PROGENYOFAPOCALYPSE_DAILY_BLITZ,Boost your Blitzing to power through the <color=#fff568>Mutant Evolution milestones</color> and earn more <color=#fff568>Progeny of Apocalypse Milestone</color> progress!
 ID_OF_NA_PROGENYOFAPOCALYPSE_DAILYFREE,Progeny of Apocalypse Daily Free Claim
 ID_OF_DE_PROGENYOFAPOCALYPSE_DAILYFREE,Come back daily to boost your <color=#fff568>Progeny of Apocalypse Milestone</color> progress!
+ID_OF_NA_GIFTWRAPGALA_DAILYFREE,Special Web Gift Bag
+ID_OF_DE_GIFTWRAPGALA_DAILYFREE,Claim this gift for progress in <color=#fff568>Gift Wrap Gala</color>. Don't miss out on the one-time offer after claiming this gift!
+ID_OF_NA_GIFTWRAPGALA_DAILYINSTERSTITIAL,Special Web Stocking Stuffer
+ID_OF_DE_GIFTWRAPGALA_DAILYINSTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Gift Wrap Gala</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_GIFTWRAPGALA_TRUEBACKUP,Gift Wrap Gala Tremendous Bundle
+ID_OF_DE_GIFTWRAPGALA_TRUEBACKUP,Get <color=#fff568> Gift Wrap Gala </color> progress and <color=#fff568>Battle Grab Bag</color> progress with this tremendous value!
 ID_OF_NA_GROOTMAS_FREECLAIM,Grootmas Daily Energy
 ID_OF_DE_GROOTMAS_FREECLAIM,Get a free bundle of Grootmas Energy to continue playing the <color=#fff568>How the Guardians Stole Grootmas</color> Event. Check the website for more daily bundles!
 ID_OF_NA_567_RED_STAR_DRAFT_BIONICAVENGERS,5-7 Red Star Draft: Bionic Avengers
@@ -962,3 +994,66 @@ ID_OF_DE_HOLIDAYULTIMATESALE,Take you roster to new heights with a special Holid
 ID_OF_NA_NEWYYEARSUPERSALE,New Year Super Sale!
 ID_OF_DE_NEWYYEARSUPERSALE,Take you roster to new heights with a special New Year sale. It's packed with so much value you'll have to tap to see all that's included!
 ID_OF_NA_USAGENT_FCO_OFFER_DUAL_STOREBAR,U.S. Agent Dual Offer
+ID_OF_NA_POWERBROKERBARGAIN_STARTER_MEDIUM,Power Broker Bargain Starter Bundle
+ID_OF_DE_POWERBROKERBARGAIN_STARTER_VAR,Save <color=#fff568>over {var1}%</color> and get a head start in the <color=#fff568>Power Broker Bargain Milestone</color>!
+ID_OF_NA_POWERBROKERBARGAIN_STARTER_SUPER,Power Broker Bargain Super Starter
+ID_OF_NA_POWERBROKERBARGAIN_STARTER_MEGA,Power Broker Bargain Mega Starter
+ID_OF_NA_POWERBROKERBARGAIN_POINTS,Power Broker Booster
+ID_OF_DE_POWERBROKERBARGAIN_POINTS,Fast track your progress in the <color=#fff568>Power Broker Bargain Milestone</color> with this amazing deal! Complete milestones and climb up the leaderboard ranks for <color=#fff568>Dormammu Red Stars</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_NA_POWERBROKERBARGAIN_WEB,Power Broker Bargain Web Special
+ID_OF_DE_POWERBROKERBARGAIN_WEBMEGA,Earn a Mega Orb and progress in the <color=#fff568>Power Broker Bargain Milestone</color> with this spectacular deal!
+ID_OF_DE_POWERBROKERBARGAIN_DAILYINTERSTITIAL,You just unlocked the hottest deal in the <color=#fff568>Power Broker Bargain</color> Event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_POWERBROKERBARGAIN_CATCHUP_DUAL,Power Broker Bargain Catch-Up Bundle
+ID_OF_DE_POWERBROKERBARGAIN_CATCHUP_DUAL,Get through the end of the <color=#fff568>Power Broker Bargain Milestone</color> and climb up the leaderboard ranks for <color=#fff568>Dormammu Red Stars</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_NA_POWERBROKERBARGAIN_LASTCHANCE,Power Broker Bargain Last Chance Booster
+ID_OF_DE_POWERBROKERBARGAIN_LASTCHANCE,Need a final boost to finish your <color=#fff568>Power Broker Bargain Milestone</color>? Don't miss out on this offer!
+ID_OF_NA_POWERBROKERBARGAIN_DAILY_GOLD,Daily Gold Pack
+ID_OF_DE_POWERBROKERBARGAIN_DAILY_GOLD,Don't miss this daily Gold offer to boost your roster and <color=#fff568>Power Broker Bargain Milestone</color> progress!
+ID_OF_NA_POWERBROKERBARGAIN_DAILY_WAR,Daily War Pack
+ID_OF_DE_POWERBROKERBARGAIN_DAILY_WAR,Help your Alliance win the War and boost your <color=#fff568>Power Broker Bargain Milestone</color> progress!
+ID_OF_NA_POWERBROKERBARGAIN_FREECLAIM,Power Broker Bargain Daily Free Claim
+ID_OF_DE_POWERBROKERBARGAIN_FREECLAIM,Come back daily to boost your <color=#fff568>Power Broker Bargain Milestone</color> progress!
+ID_OF_NA_12DAYSOFSAVINGS_DAY01,Days of Savings: 1 of 12
+ID_OF_NA_12DAYSOFSAVINGS_DAY02,Days of Savings: 2 of 12
+ID_OF_NA_12DAYSOFSAVINGS_DAY03,Days of Savings: 3 of 12
+ID_OF_NA_12DAYSOFSAVINGS_DAY04,Days of Savings: 4 of 12
+ID_OF_NA_12DAYSOFSAVINGS_DAY05,Days of Savings: 5 of 12
+ID_OF_NA_12DAYSOFSAVINGS_DAY06,Days of Savings: 6 of 12
+ID_OF_NA_12DAYSOFSAVINGS_DAY07,Days of Savings: 7 of 12
+ID_OF_NA_12DAYSOFSAVINGS_DAY08,Days of Savings: 8 of 12
+ID_OF_NA_12DAYSOFSAVINGS_DAY09,Days of Savings: 9 of 12
+ID_OF_NA_12DAYSOFSAVINGS_DAY10,Days of Savings: 10 of 12
+ID_OF_NA_12DAYSOFSAVINGS_DAY11,Days of Savings: 11 of 12
+ID_OF_NA_12DAYSOFSAVINGS_DAY12,Days of Savings: 12 of 12
+ID_OF_DE_12DAYSOFSAVINGS_INITIAL,Get an amazing deal on Gold to power up your roster and <color=#fff568>unlock another holiday offer</color> tomorrow! You won't want to miss out on <color=#fff568>Days of Savings</color> from all the amazing offers.
+ID_OF_DE_12DAYSOFSAVINGS_RECURRING,The next day of savings has arrived Commander! Purchasing this will <color=#fff568>unlock a new holiday offer</color> tomorrow. Keep the <color=#fff568>Days of Savings</color> rolling and don't miss out on one of the best opportunities to strengthen your roster!
+ID_OF_DE_12DAYSOFSAVINGS_FINAL,You made it! Finish off the <color=#fff568>Days of Savings</color> with the best value yet.
+ID_OF_NA_YEARSBESTORBS_DAILY,Daily Year's Best Orbs
+ID_OF_DE_YEARSBESTORBS_DAILY,Boost your progress through the <color=#fff568>Best of 2022 Extravaganza</color> with these <color=#fff568>Year's Best Orb Fragments</color>!
+ID_OF_NA_YEARSBESTORBBUNDLE_DAILY,Daily Year's Best Orb Bundle
+ID_OF_DE_YEARSBESTORBBUNDLE_DAILY,Get an even bigger boost to your progress through the <color=#fff568>Best of 2022 Extravaganza</color> with this bundle of <color=#fff568>Year's Best Orb Fragments</color>!
+ID_OF_DE_MORGANLEFFAY_SHARD,"Take on Apocalypse with the power of Morgan Le Fay, the First Horseman of Pestilence. Don't miss out on this opportunity to overwhelm your foes with the might of this offer."
+ID_OF_DE_PICK_DUAL_USAGENT,Choose your path to power up <color=#fff568>The Dark Patriot</color> for raids!
+ID_OF_NA_DEATH_EARLYBIRD,Death Orb Intro Bundle
+ID_OF_NA_DEATH_WEB_BUNDLE,Death Orb Bundle
+ID_OF_NA_DEATH_2PAK,Double Up on Death Orbs
+ID_OF_NA_DEATH_5PAK,Death Orb Party Pack
+ID_OF_NA_DEATH_HCPAK,Daily Death Orb
+ID_OF_DE_DEATH_DAILY,"Get your daily dose of Death...Orb and save <color=#fff568>{var1}%</color> with this offer. Each Orb has a chance to grant <color=#fff568>100 shards</color> of the Horseman of Death himself, <color=#fff568>Archangel!</color>"
+ID_OF_DE_DEATH_BUNDLES,"Get Archangel to the next Star Level with this bundle! Get <color=#fff568>{var1}%</color> off when you purchase these <color=#fff568>{var2}</color> Death Orbs! Each Orb has a chance to grant <color=#fff568>100 shards</color> of the Horseman of Death himself, <color=#fff568>Archangel!</color>"
+ID_OF_DE_DEATH_HCPAK,"Get your daily dose of Death...Orb with this offer. Each Orb has a chance to grant <color=#fff568>100 shards</color> of the Horseman of Death himself, <color=#fff568>Archangel</color>!"
+ID_OF_NA_CAPTAINCARTER_FCO_OFFER,A Proper Fight
+ID_OF_DE_CAPTAINCARTER_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-Star Captain Carter</color> and unlock special release offers on your next login! Each orb has a chance to earn up to 180 shards. Lead the charge with painful attacks and by sustaining Rebirth allies with positive effects, Heals, and Revive."
+ID_OF_DE_CAPTAINCARTER_FCO_OFFER,"Save on <color=#fff568> Lost in Time Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Captain Carter</color> shards. Lead the charge with painful attacks and by sustaining Rebirth allies with positive effects, Heals, and Revive."
+ID_OF_DE_CAPTAINCARTER_OFFER_SHARD,"Get <color=#fff568>Captain Carter</color> shards with this offer! Lead the charge with painful attacks and by sustaining Rebirth allies with positive effects, Heals, and Revive."
+ID_OF_DE_CAPTAINCARTER_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Captain Carter</color>. Lead the charge with painful attacks and by sustaining Rebirth allies with positive effects, Heals, and Revive."
+ID_OF_NA_AGENTVENOM_FCO_OFFER,Symbiote Super Soldier
+ID_OF_DE_AGENTVENOM_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-Star Agent Venom</color>  and unlock special release offers on your next login! Bond with victory by clearing out waves of enemies with high damage attacks and granting Rebirth allies additional Damage.
+ID_OF_DE_AGENTVENOM_FCO_OFFER,Save on <color=#fff568>Symbiote Soldier Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Agent Venom</color> shards. Bond with victory by clearing out waves of enemies with high damage attacks and granting Rebirth allies additional Damage.
+ID_OF_DE_AGENTVENOM_OFFER_SHARD,Get <color=#fff568>Agent Venom</color> shards with this offer! Bond with victory by clearing out waves of enemies with high damage attacks and granting Rebirth allies additional Damage.
+ID_OF_DE_AGENTVENOM_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Agent Venom</color>. Bond with victory by clearing out waves of enemies with high damage attacks and granting Rebirth allies additional Damage."
+ID_OF_NA_TITANIA_FCO_OFFER,Fame and Misfortune
+ID_OF_DE_TITANIA_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Titania</color> and unlock special release offers on your next login! Become infamous with heavy attacks and by gaining Counter and Deflect each turn.
+ID_OF_DE_TITANIA_FCO_OFFER,Save on <color=#fff568>  Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Titania</color> shards. Become infamous with heavy attacks and by gaining Counter and Deflect each turn.
+ID_OF_DE_TITANIA_OFFER_SHARD,Get <color=#fff568>Titania</color> shards with this offer! Become infamous with heavy attacks and by gaining Counter and Deflect each turn.
+ID_OF_DE_TITANIA_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Titania</color>. Become infamous with heavy attacks and by gaining Counter and Deflect each turn."
