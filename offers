@@ -929,6 +929,25 @@ ID_OF_NA_GIFTWRAPGALA_DAILYFREE,Special Web Gift Bag
 ID_OF_DE_GIFTWRAPGALA_DAILYFREE,Claim this gift for progress in <color=#fff568>Gift Wrap Gala</color>. Don't miss out on the one-time offer after claiming this gift!
 ID_OF_NA_GIFTWRAPGALA_DAILYINSTERSTITIAL,Special Web Stocking Stuffer
 ID_OF_DE_GIFTWRAPGALA_DAILYINSTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Gift Wrap Gala</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_REGIMENT_STARTER,War Zone Starter Bundle
+ID_OF_NA_REGIMENT_STARTER_MEGA,War Zone Mega Starter
+ID_OF_DE_REGIMENT_STARTER,Start off strong with <color=#fff568>{var1} Gamma Bomb Orbs</color> and more with this offer! Get {var2}% progress in the <color=#fff568>War Zone Milestone</color> and power up your roster for the Famine Scourge event!
+ID_OF_NA_REGIMENT_BUNDLE,War Zone Event Bundle
+ID_OF_DE_REGIMENT_BUNDLE,Save over <color=#fff568>{var1}%</color> with this incredible offer and melt through the <color=#fff568>War Zone Milestone</color>!
+ID_OF_NA_REGIMENT_BOOSTER,War Zone Booster Pack
+ID_OF_DE_REGIMENT_BOOSTER_VAR,Save <color=#fff568>over {var1}%</color> on <color=#fff568>Gamma Bomb Orbs</color> to power up your roster and progress in the <color=#fff568>War Zone Milestone</color>!
+ID_OF_NA_REGIMENT_CATCHUP,War Zone Heroic Catch-Up
+ID_OF_DE_REGIMENT_CATCHUP,Take advantage of this exemplary deal to get through the end of the <color=#fff568>War Zone Milestone</color> and get your final rewards!
+ID_OF_NA_REGIMENT_DAILY_ORB,Daily Gamma Bomb Orb Pack
+ID_OF_DE_REGIMENT_DAILY_ORB,Get your daily dose of <color=#fff568>Gamma Bomb Orbs</color> to power up your roster and accelerate your <color=#fff568>War Zone Milestone</color> progress!
+ID_OF_NA_REGIMENT_DAILY_ENERGY,War Zone Daily Energy
+ID_OF_DE_REGIMENT_DAILY_ENERGY,Get a daily boost of Campaign Energy to farm <color=#fff568>Gamma Bomb Orbs</color> for progress in the <color=#fff568>War Zone Milestone</color>!
+ID_OF_NA_REGIMENT_CATCHUP_WEB,Hostile Forces Heroic Catch-Up
+ID_OF_DE_REGIMENT_CATCHUP_WEB,Take advantage of this exemplary deal to get through the end of the <color=#fff568>Hostile Forces Milestone</color> and get your final rewards!
+ID_OF_NA_REGIMENT_BLITZ,Hostile Forces Blitz Bundle
+ID_OF_DE_REGIMENT_BLITZ,Bolster your Blitzes and earn {var1}% progress in the <color=#fff568>Hostile Forces Web Milestone</color>!
+ID_OF_NA_REGIMENT_FREECLAIM,War Zone Free Claim
+ID_OF_DE_REGIMENT_FREECLAIM,Power up your roster and progress in the <color=#fff568>War Zone Milestone</color> with this Free Claim. Earn <color=#fff568>{var1} Gamma Bomb Orb Fragments</color>!
 ID_OF_NA_GIFTWRAPGALA_TRUEBACKUP,Gift Wrap Gala Tremendous Bundle
 ID_OF_DE_GIFTWRAPGALA_TRUEBACKUP,Get <color=#fff568> Gift Wrap Gala </color> progress and <color=#fff568>Battle Grab Bag</color> progress with this tremendous value!
 ID_OF_NA_GROOTMAS_FREECLAIM,Grootmas Daily Energy

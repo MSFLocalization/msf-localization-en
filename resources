@@ -177,8 +177,8 @@ ID_EVENT_CUR5_NAME,Progeny of Apocalypse Milestone Points
 ID_EVENT_CUR5_DESCRIPTION,"These points earn you additional progress in the Progeny of Apocalypse Milestone. Earn them in the Mutant Evolution and New Reign Milestones, Daily Free Claims on our website and limited offers!"
 ID_EVENT_CUR6_NAME,Razor-Sharp Claws
 ID_EVENT_CUR6_DESCRIPTION,Collect the Razor-Sharp Claws for points in The First Panther Event. Earn them in the Spy Games Event!
-ID_EVENT_CUR7_NAME,Heart-Shaped Herb
-ID_EVENT_CUR7_DESCRIPTION,Collect the Heart-Shaped Herb for points in The First Panther Event. Earn it in the Claws of Fury Event!
+ID_EVENT_CUR7_NAME,Gamma Bomb Orb Fragments
+ID_EVENT_CUR7_DESCRIPTION,Earn Gamma Bomb Orb Fragments from select Campaign Nodes and the Hostile Forces Web Milestone
 ID_EVENT_CUR8_NAME,Spy Games Milestone Point
 ID_EVENT_CUR8_DESCRIPTION,"These points earn you additional progress in the Spy Games Milestone. Earn them in Dead Drop, Sleeper Agents Milestones or limited offers!"
 ID_EVENT_CUR9_NAME,Snowballs
@@ -215,7 +215,7 @@ ID_RESOURCE_CONVERSION_TITLE,CONVERT EXPIRED BITS
 ID_RESOURCE_CONVERSION_SUBTITLE,Expired Bits are converted into <color=#ffffff>COSTUME CREDITS</color>
 ID_RESOURCE_CONVERSION_SKIN_SUBTITLE,Expired Bits are converted into <color=#ffffff>COSTUME CREDITS</color>
 ID_EVTA_META_JAN_A_NAME,Justice Medals
-ID_EVTA_META_JAN_A_DESCRIPTION,Collect Justice Medals for points in the Super Patriot Event. Earn them in various events throughout the month of October
+ID_EVTA_META_JAN_A_DESCRIPTION,Collect Justice Medals for points in the Super Patriot Event. Earn them in various events throughout the month of January
 ID_EVTA_META_JAN_B_NAME,Convincer
 ID_EVTA_META_JAN_B_DESCRIPTION,Collect the Convincer for points in the Super Patriot Event. Earn them in the Power Broker Bargain Event!
 ID_EVTA_META_JAN_C_NAME,Battle Boots
