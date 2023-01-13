@@ -931,7 +931,7 @@ ID_OF_NA_GIFTWRAPGALA_DAILYINSTERSTITIAL,Special Web Stocking Stuffer
 ID_OF_DE_GIFTWRAPGALA_DAILYINSTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Gift Wrap Gala</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_REGIMENT_STARTER,War Zone Starter Bundle
 ID_OF_NA_REGIMENT_STARTER_MEGA,War Zone Mega Starter
-ID_OF_DE_REGIMENT_STARTER,Start off strong with <color=#fff568>{var1} Gamma Bomb Orbs</color> and more with this offer! Get {var2}% progress in the <color=#fff568>War Zone Milestone</color> and power up your roster for the Famine Scourge event!
+ID_OF_DE_REGIMENT_STARTER,Start off strong with <color=#fff568>{var1} Gamma Bomb Orbs</color> and more with this offer! Get {var2}% progress in the <color=#fff568>War Zone Milestone</color> and power up your roster for the War Scourge event!
 ID_OF_NA_REGIMENT_BUNDLE,War Zone Event Bundle
 ID_OF_DE_REGIMENT_BUNDLE,Save over <color=#fff568>{var1}%</color> with this incredible offer and melt through the <color=#fff568>War Zone Milestone</color>!
 ID_OF_NA_REGIMENT_BOOSTER,War Zone Booster Pack
@@ -1067,7 +1067,7 @@ ID_OF_DE_CAPTAINCARTER_FCO_OFFER,"Save on <color=#fff568>Lost in Time Orbs</colo
 ID_OF_DE_CAPTAINCARTER_OFFER_SHARD,"Get <color=#fff568>Captain Carter</color> shards with this offer! Lead the charge with painful attacks and by sustaining Rebirth allies with positive effects, Heals, and Revive."
 ID_OF_DE_CAPTAINCARTER_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Captain Carter</color>. Lead the charge with painful attacks and by sustaining Rebirth allies with positive effects, Heals, and Revive."
 ID_OF_NA_AGENTVENOM_FCO_OFFER,Symbiote Super Soldier
-ID_OF_DE_AGENTVENOM_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-Star Agent Venom</color>  and unlock special release offers on your next login! Bond with victory by clearing out waves of enemies with high damage attacks and granting Rebirth allies additional Damage.
+ID_OF_DE_AGENTVENOM_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-Star Agent Venom</color> and unlock special release offers on your next login! Bond with victory by clearing out waves of enemies with high damage attacks and granting Rebirth allies additional Damage.
 ID_OF_DE_AGENTVENOM_FCO_OFFER,Save on <color=#fff568>Symbiote Soldier Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Agent Venom</color> shards. Bond with victory by clearing out waves of enemies with high damage attacks and granting Rebirth allies additional Damage.
 ID_OF_DE_AGENTVENOM_OFFER_SHARD,Get <color=#fff568>Agent Venom</color> shards with this offer! Bond with victory by clearing out waves of enemies with high damage attacks and granting Rebirth allies additional Damage.
 ID_OF_DE_AGENTVENOM_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Agent Venom</color>. Bond with victory by clearing out waves of enemies with high damage attacks and granting Rebirth allies additional Damage."
@@ -1091,3 +1091,72 @@ ID_OF_NA_HOLIDAYGENERIC_LASTCHANCE2,WINTER SAVINGS LAST CHANCE
 ID_OF_DE_HOLIDAYGENERIC_LASTCHANCE2,Time is ticking! The time to stock up on all the essentials is now! Save now before this offer disappears!
 ID_OF_NA_HOLIDAYGENERIC_LASTCHANCE3,HOLIDAY SAVINGS LAST CHANCE
 ID_OF_DE_HOLIDAYGENERIC_LASTCHANCE3,Last chance call! Save up and stock up now!
+ID_OF_NA_567_RSDRAFT_TEAM_UNDERWORLD_01,Red Star Draft: Underworld
+ID_OF_DE_567_RSDRAFT_TEAM_UNDERWORLD_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for each of the following characters:\n<color=#fff568>Taskmaster, Kingpin, Green Goblin, Nobu, and Mister Negative.</color>"
+ID_OF_NA_567_RSDRAFT_MOONKNIGHT_01,Red Star Draft: Moon Knight
+ID_OF_DE_567_RSDRAFT_MOONKNIGHT_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) \n<color=#fff568>Moon Knight.</color>"
+ID_OF_NA_567_RSDRAFT_MRNEGATIVE_01,Red Star Draft: Mister Negative
+ID_OF_DE_567_RSDRAFT_MRNEGATIVE_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) \n<color=#fff568>Mister Negative.</color>"
+ID_OF_NA_567_RSDRAFT_ABOMINATION_01,Red Star Draft: Abomination
+ID_OF_DE_567_RSDRAFT_ABOMINATION_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) \n<color=#fff568>Abomination.</color>"
+ID_OF_NA_567_RSDRAFT_SPIDERMANNOIR_01,Red Star Draft: Spider-Man (Noir)
+ID_OF_DE_567_RSDRAFT_SPIDERMANNOIR_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) \n<color=#fff568>Spider-Man (Noir).</color>"
+ID_OF_NA_567_RSDRAFT_MORBIUS_01,Red Star Draft: Morbius
+ID_OF_DE_567_RSDRAFT_MORBIUS_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) \n<color=#fff568>Morbius.</color>"
+ID_OF_NA_567_RSDRAFT_LDS_01,Red Star Draft: Lady Deathstrike
+ID_OF_DE_567_RSDRAFT_LDS_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) \n<color=#fff568>Lady Deathstrike.</color>"
+ID_OF_NA_567_RSDRAFT_SERSI_01,Red Star Draft: Sersi
+ID_OF_DE_567_RSDRAFT_SERSI_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) \n<color=#fff568>Sersi.</color>"
+ID_OF_NA_COSTUME_LUNARNEWYEAR_TEAM,Year of the Rabbit Costume Dual Offer
+ID_OF_DE_COSTUME_LUNARNEWYEAR_TEAM,"Celebrate the Year of the Rabbit with this costume for <color=#EA4519>Brawn</color>, <color=#EA4519>Colleen Wing</color>, and <color=#EA4519>Shang-Chi</color>!"
+ID_OF_STOREBAR_COSTUME_LUNARNEWYEAR,Lunar New Year Costume Bundle Offer
+ID_OF_NA_COSTUME_BRAWN_YEAROFTHERABBIT,Brawn Year of the Rabbit Dual Offer
+ID_OF_DE_COSTUME_BRAWN_YEAROFTHERABBIT,Celebrate the Year of the Rabbit with this costume for <color=#EA4519>Brawn</color>!
+ID_OF_STOREBAR_COSTUME_BRAWN_YEAROFTHERABBIT,Brawn Year of the Rabbit Costume Offer
+ID_OF_NA_COSTUME_COLLEENWING_YEAROFTHERABBIT,Colleen Wing Year of the Rabbit Dual Offer
+ID_OF_DE_COSTUME_COLLEENWING_YEAROFTHERABBIT,Celebrate the Year of the Rabbit with this costume for <color=#EA4519>Colleen Wing</color>!
+ID_OF_STOREBAR_COSTUME_COLLEENWING_YEAROFTHERABBIT,Colleen Wing Year of the Rabbit Costume Offer
+ID_OF_NA_COSTUME_SHANGCHI_YEAROFTHERABBIT,Shang-Chi Year of the Rabbit Dual Offer
+ID_OF_DE_COSTUME_SHANGCHI_YEAROFTHERABBIT,Celebrate the Year of the Rabbit with this costume for <color=#EA4519>Shang-Chi</color>!
+ID_OF_STOREBAR_COSTUME_SHANGCHI_YEAROFTHERABBIT,Shang-Chi Year of the Rabbit Costume Offer
+ID_OF_NA_WOMANOUTOFTIME_STARTER_MEGA,Woman Out of Time Mega Starter
+ID_OF_DE_WOMANOUTOFTIME_STARTER_VAR1,"Stock up on <color=#fff568>{var2} Woman Out of Time Milestone Points</color>, Gold and more, worth over {var3}% of the milestones! Get a head start on the <color=#fff568>Woman Out of Time Milestone</color> now."
+ID_OF_NA_WOMANOUTOFTIME_STARTER_BIG,Woman Out of Time Super Starter
+ID_OF_DE_WOMANOUTOFTIME_STARTER_VAR2,"Get ahead on the <color=#fff568>Woman Out of Time</color> milestones and leaderboards for <color=#fff568>Captain Carter shards</color>, <color=#fff568>T2 Level 5 Ions</color> and more!"
+ID_OF_NA_WOMANOUTOFTIME_STARTER_MEDIUM,Woman Out of Time Starter Bundle
+ID_OF_NA_WOMANOUTOFTIME_POINTS,Time Warp Bundle
+ID_OF_DE_WOMANOUTOFTIME_POINTS,"Time travel to higher progress in the <color=#fff568>Woman Out of Time Milestone</color>! Climb up the milestones and leaderboards for <color=#fff568>Captain Carter shards</color>, exclusive <color=#fff568>T2 Level 5 Ions</color> and more!"
+ID_OF_NA_WOMANOUTOFTIME_MEGA,Woman Out of Time Web Special Bundle
+ID_OF_DE_WOMANOUTOFTIME_MEGA,Boost your <color=#fff568>Woman Out of Time Milestone</color> progress with this spectacular deal!
+ID_OF_NA_WOMANOUTOFTIME_LASTCHANCE,Running Out of Time
+ID_OF_DE_WOMANOUTOFTIME_LASTCHANCE,Catch this deal before it's too late and get your final <color=#fff568>Woman Out of Time</color> milestone and leaderboard rewards!
+ID_OF_NA_WOMANOUTOFTIME_DUALCATCHUP,Woman Out of Time Catch-Up Bundle
+ID_OF_DE_WOMANOUTOFTIME_DUALCATCHUP,Take advantage of this spectacular deal and obtain your final <color=#fff568>Woman Out of Time</color> milestone rewards! Get an edge on the <color=#fff568>leaderboard</color> for exclusive <color=#fff568>T2 Level 5 Ions</color> and up to <color=#fff568>120 Captain Carter shards</color>!
+ID_OF_NA_WOMANOUTOFTIME_DAILYENERGY,Daily Energy Bundle
+ID_OF_DE_WOMANOUTOFTIME_DAILYENERGY,Progress in the <color=#fff568>Wield the Shield Web Milestone</color> to earn Gold and <color=#fff568>Woman Out of Time</color> Milestone Points!
+ID_OF_NA_WOMANOUTOFTIME_RAIDS,British Offensive
+ID_OF_DE_WOMANOUTOFTIME_RAIDS,Boost your Raids and <color=#fff568>British Invasion Milestone</color> progress at once with this daily bundle!\n*Items ignore resource capacity
+ID_OF_NA_WOMANOUTOFTIME_DAILYGOLD,Royal Treasury
+ID_OF_DE_WOMANOUTOFTIME_DAILYGOLD,"Your Gold has arrived, your Majesty! Invest it in the <color=#fff568>Woman Out of Time Event Orbs</color> for Teal Mini-Uniques, Rebirth character shards, <color=#fff568>Woman Out of Time Milestone</color> progress and more!"
+ID_OF_NA_WOMANOUTOFTIME_DIRECTGOLD_POINTS,Daily Investment
+ID_OF_DE_WOMANOUTOFTIME_DIRECTGOLD_POINTS,Get the most <color=#fff568>Woman Out of Time</color> progress out of your Gold spend with this daily bundle!
+ID_OF_NA_WOMANOUTOFTIME_DIRECTGOLD_MEGA,Gold Standard
+ID_OF_DE_WOMANOUTOFTIME_DIRECTGOLD_MEGA,Obtain a <color=#fff568>Mega Orb</color> and <color=#fff568>Woman Out of Time</color> progress with this unique offer!
+ID_OF_NA_WOMANOUTOFTIME_DIRECTGOLD_NEMESIS,Golden Progeny
+ID_OF_DE_WOMANOUTOFTIME_DIRECTGOLD_NEMESIS,Fortify <color=#fff568>Nemesis</color> and progress in the <color=#fff568>Woman Out of Time Milestone</color> with this unique offer!
+ID_OF_NA_WOMANOUTOFTIME_DIRECTGOLD_DARKBEAST,Research Funding
+ID_OF_DE_WOMANOUTOFTIME_DIRECTGOLD_DARKBEAST,Fortify <color=#fff568>Dark Beast</color> and progress in the <color=#fff568>Woman Out of Time Milestone</color> with this unique offer!
+ID_OF_NA_WOMANOUTOFTIME_DIRECTGOLD_CAPTAINCARTER,Royal Treatment
+ID_OF_DE_WOMANOUTOFTIME_DIRECTGOLD_CAPTAINCARTER,Fortify <color=#fff568>Captain Carter</color> and progress in the <color=#fff568>Woman Out of Time Milestone</color> with this unique offer!
+ID_OF_NA_WOMANOUTOFTIME_DIRECTGOLD_BRAWN,Brains and Gains
+ID_OF_DE_WOMANOUTOFTIME_DIRECTGOLD_BRAWN,Fortify <color=#fff568>Brawn</color> and progress in the <color=#fff568>Woman Out of Time Milestone</color> with this unique offer!
+ID_OF_NA_WOMANOUTOFTIME_DIRECTGOLD_SPIDERMAN2099,Spider Out of Time
+ID_OF_DE_WOMANOUTOFTIME_DIRECTGOLD_SPIDERMAN2099,Fortify <color=#fff568>Spider-Man 2099</color> and progress in the <color=#fff568>Woman Out of Time Milestone</color> with this unique offer!
+ID_OF_NA_WOMANOUTOFTIME_DIRECTGOLD_NAKIA,Golden Spy
+ID_OF_DE_WOMANOUTOFTIME_DIRECTGOLD_NAKIA,Fortify <color=#fff568>Nakia</color> and progress in the <color=#fff568>Woman Out of Time Milestone</color> with this unique offer!
+ID_OF_NA_WOMANOUTOFTIME_DAILYFREE,Woman Out of Time Daily Gift
+ID_OF_DE_WOMANOUTOFTIME_DAILYFREE,Come back daily to boost your <color=#fff568>Woman Out of Time Milestone</color> progress!
+ID_OF_NA_WOMANOUTOFTIME_DAILYINSTERSTITIAL,Woman Out of Time Web Special
+ID_OF_DE_WOMANOUTOFTIME_DAILYINSTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Woman Out of Time</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_WOMANOUTOFTIME_MEGAINSTERSTITIAL,Woman Out of Time Web Special Bundle
+ID_OF_DE_WOMANOUTOFTIME_MEGAINSTERSTITIAL,Stock up on Gold and boost your <color=#fff568>Woman Out of Time Milestone</color> progress with this mega deal!

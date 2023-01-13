@@ -2272,3 +2272,24 @@ ID_QU_S1_WARINC,Play a War Battle
 ID_QU_S2_WARINC,Play a War Battle with Underworld
 ID_QU_S3_WARINC,Play a War Battle with Underworld at Gear Tier 13+
 ID_QU_S4_WARINC,Play a War Battle with Underworld at Gear Tier 15+
+ID_QU_NA_WOMANOUTOFTIME,Woman Out of Time
+ID_QU_SD_WOMANOUTOFTIME,Open Event Orbs
+ID_QU_LD_WOMANOUTOFTIME,"Use Gold to open event orbs in the Woman Out of Time Event Store and collect points from the British Invasion and Wield the Shield milestone rewards. \n\nEarn Captain Carter shards, the Bulletproof Uniform, T2 Level 5 Ions and more!"
+ID_QU_SM_WOMANOUTOFTIME,Open Event Orbs in the Woman Out of Time Store
+ID_QU_SC_WOMANOUTOFTIME,Open Event Orbs
+ID_QU_S1_WOMANOUTOFTIME,Open 1 Royal Reserve Orb
+ID_QU_S2_WOMANOUTOFTIME,Open 1 Strategic Reserve Orb
+ID_QU_S3_WOMANOUTOFTIME,Open 1 Patriots Orb
+ID_QU_S4_WOMANOUTOFTIME,Open 1 Royal Soldiers Orb
+ID_QU_NA_BRITISHINVASION,British Invasion
+ID_QU_SD_BRITISHINVASION,Raid Battles
+ID_QU_LD_BRITISHINVASION,Battle in Raids to earn Woman Out of Time Milestone points and Gold.
+ID_QU_SM_BRITISHINVASION,Battle in Raids
+ID_QU_SC_BRITISHINVASION,Battle in Raids
+ID_QU_S1_BRITISHINVASION,Raid Battle
+ID_QU_NA_WIELDTHESHIELD,Wield the Shield
+ID_QU_SD_WIELDTHESHIELD,Spend Campaign Energy
+ID_QU_LD_WIELDTHESHIELD,Spend Campaign Energy to earn Woman Out of Time Milestone points and Gold.
+ID_QU_SM_WIELDTHESHIELD,Spend Campaign Energy
+ID_QU_SC_WIELDTHESHIELD,Spend Campaign Energy
+ID_QU_S1_WIELDTHESHIELD,Spend 1 Campaign Energy
