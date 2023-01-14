@@ -2293,3 +2293,35 @@ ID_QU_LD_WIELDTHESHIELD,Spend Campaign Energy to earn Woman Out of Time Mileston
 ID_QU_SM_WIELDTHESHIELD,Spend Campaign Energy
 ID_QU_SC_WIELDTHESHIELD,Spend Campaign Energy
 ID_QU_S1_WIELDTHESHIELD,Spend 1 Campaign Energy
+ID_QU_NA_RISINGSTARS2,Rising Stars
+ID_QU_SD_RISINGSTARS2,Blitz and Open Battle Plan Orbs
+ID_QU_LD_RISINGSTARS2,"Battle in Blitz with Rebirth characters, open Battle Plan Orbs, and use Power Cores to earn these rewards:\n\n- U.S. Agent character shards\n- Bio Gear\n- Catalyst Parts\n- And more!"
+ID_QU_SM_RISINGSTARS2,Blitz and Open Battle Plan Orbs
+ID_QU_SC_RISINGSTARS2,Blitz and Open Battle Plan Orbs
+ID_QU_S1_RISINGSTARS2,Battle in Blitz
+ID_QU_S2_RISINGSTARS2,Blitz with Rebirth
+ID_QU_S3_RISINGSTARS2,Blitz with Rebirth at GT13
+ID_QU_S4_RISINGSTARS2,Blitz with Rebirth at GT16
+ID_QU_S5_RISINGSTARS2,Open Battle Plan Orbs
+ID_QU_S6_RISINGSTARS2,Use Power Cores
+ID_QU_NA_BATTLEFIELDREADY,Battlefield Ready
+ID_QU_SD_BATTLEFIELDREADY,Use Blitz Credits
+ID_QU_LD_BATTLEFIELDREADY,"Use Blitz Credits to complete a 4-day milestone that rewards Catalyst Parts, Teal Gear, and Elite 4 Credits."
+ID_QU_SM_BATTLEFIELDREADY,Use Blitz Credits
+ID_QU_SC_BATTLEFIELDREADY,Use Blitz Credits
+ID_QU_S1_BATTLEFIELDREADY,Earn Web UPCs
+ID_QU_NA_SYMBIOTESABOTAGE,Symbiote Sabotage
+ID_QU_SD_SYMBIOTESABOTAGE,"War, Power Cores, and Symbiote Samples"
+ID_QU_LD_SYMBIOTESABOTAGE,"Earn points by battling in Alliance War, spending Power Cores, and by collecting Symbiote Samples located in the Sym-Soldier Web Milestone and Free Daily Web Claims."
+ID_QU_LM_SYMBIOTESABOTAGE,"Play War Battles, spend Power Cores, and collect Symbiote Samples"
+ID_QU_SC_SYMBIOTESABOTAGE,"Play War Battles, spend Power Cores, and collect Symbiote Samples"
+ID_QU_S1_SYMBIOTESABOTAGE,Play 1 War Battle
+ID_QU_S2_SYMBIOTESABOTAGE,Spend 1 Power Core
+ID_QU_S3_SYMBIOTESABOTAGE,Collect 1 Symbiote Sample
+ID_QU_NA_SYMSOLDIER,Sym-Soldier
+ID_QU_SD_SYMSOLDIER,Earn Blitz Credits and Web UPCs
+ID_QU_LD_SYMSOLDIER,"Earn Blitz Credits and collect Web UPCs to earn Symbiote Samples, T3 and T4 Ability Materials, and Blue, Purple, Orange, and Teal Gear Orb Fragments."
+ID_QU_LM_SYMSOLDIER,Earn Blitz Credits and Web UPCs
+ID_QU_SC_SYMSOLDIER,Earn Blitz Credits and Web UPCs
+ID_QU_S1_SYMSOLDIER,Earn 1 Blitz Credit
+ID_QU_S2_SYMSOLDIER,Earn 1 Web UPC

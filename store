@@ -8267,3 +8267,7 @@ ID_GACHA_CRATE_EVENT_WOMANOUTOFTIME_PATRIOTS_NAME,Patriots Orb
 ID_GACHA_CRATE_EVENT_WOMANOUTOFTIME_PATRIOTS_DESCRIPTION,Earn up to 20 shards of Rebirth characters and other Patriots
 ID_GACHA_CRATE_EVENT_WOMANOUTOFTIME_ROYALSOLDIERS_NAME,Royal Soldiers Orb
 ID_GACHA_CRATE_EVENT_WOMANOUTOFTIME_ROYALSOLDIERS_DESCRIPTION,Earn up to 20 shards of Captain Carter and fellow Britons
+ID_GACHA_CRATE_BATTLEPLAN_NA,Battle Plan Orb
+ID_GACHA_CRATE_BATTLEPLAN_DE,"Contains Training Modules, T2 Level 1&4 Ions, and grants Rising Star Progress."
+ID_GACHA_CRATE_BATTLEPLAN_TOKEN_NA,Battle Plan Orb Fragments
+ID_GACHA_CRATE_BATTLEPLAN_TOKEN_DE,"Collect Fragments for orbs containing Training Modules, T2 Level 1&4 Ions, and grant Rising Star Progress."

@@ -5210,3 +5210,21 @@ ID_ME_BO_WOMANOUTOFTIME_ANNOUNCE,"Commander,\n\nSupport your Raid efforts and bo
 ID_ME_NA_WOMANOUTOFTIME_ENDING,ENDING: Woman Out of Time
 ID_ME_DE_WOMANOUTOFTIME_ENDING,2 Days Left!
 ID_ME_BO_WOMANOUTOFTIME_ENDING,"Commander,\n\nThe Woman Out of Time Event ends in 2 days. Continue earning Captain Carter shards and Super Patriot progress before it's too late!.\n\nGood luck, Commander!"
+ID_ME_NA_RISINGSTARS_TEASER,Coming Soon: Rising Stars Event
+ID_ME_DE_RISINGSTARS_TEASER,Earn U.S. Agent Shards & Bio Gear!
+ID_ME_BO_RISINGSTARS_TEASER,"Commander,\n\nReady your roster for ascension with the upcoming <color=#fff568>Rising Star</color> Event!\n\nEarn <color=#fff568>U.S. Agent character shards</color>, <color=#fff568>Bio Gear</color>, <color=#fff568>Catalyst Parts</color>, and more!\n\nKeep an eye on the web for a Free Clams to earn limited-time <color=#fff568>Battle Plan Orbs</color> which contain valuable Training Modules and T2 Level 1 & 4 Ions. These orbs are also available in special Store offers!\n\nThis event arrives soon, so be on the lookout!"
+ID_ME_NA_RISINGSTARS_ANNOUNCE,LIVE: Rising Stars
+ID_ME_DE_RISINGSTARS_ANNOUNCE,Earn U.S. Agent Shards & Bio Gear!
+ID_ME_BO_RISINGSTARS_ANNOUNCE,"Commander,\n\nEarn <color=#fff568>U.S. Agent character shards</color> and <color=#fff568>Bio Gear</color>!\n\n<color=#fff568>Rising Stars Milestone</color>\nScore points toward this 4-day milestone by battling in Blitz (extra points for Rebirth characters at GT13+) or using Power Cores. Earn progress as well by opening limited-time Battle Plan Orbs containing valuable Training Modules and T2 Level 1 & 4 Ions. These orbs are available in Free Claims and special Store offers!\n\n<color=#fff568>Battlefield Ready Web Milestone</color>\nUse Blitz Credits to earn progress in this 4-day web milestone to earn Catalyst Parts, Teal Gear Orbs and Elite 4 Credits.\n\nGood Luck, Commander!"
+ID_ME_NA_RISINGSTARS_ENDING,ENDING: Rising Stars
+ID_ME_DE_RISINGSTARS_ENDING,1 day left!
+ID_ME_BO_RISINGSTARS_ENDING,"Commander,\n\nThe Rising Star Event ends in <color=#fff568>1 day</color>. Continue earning U.S. Agent Shards and opening Battle Plan Orbs before it's too late!\n\nGood luck, Commander!"
+ID_ME_NA_SYMBIOTESABOTAGE_TEASER,Wrap Your Tendrils Around Rewards
+ID_ME_DE_SYMBIOTESABOTAGE_TEASER,Earn Agent Venom shards and more!
+ID_ME_BO_SYMBIOTESABOTAGE_TEASER,"Commander, \n \nBond with big rewards during the Symbiote Sabotage Event! \n \nEarn Agent Venom character shards and rewards fit for a super soldier: \n \n- Walker's Shield and Justice Medals \n- 5 Red Star Winter Soldier \n- Elite 6 Credits \n- Gold Promotion Credits \n- Gear \n- And more! \n \nBe on the lookout for the start of this event!"
+ID_ME_NA_SYMBIOTESABOTAGE_ANNOUNCE,LIVE: Symbiote Sabotage
+ID_ME_DE_SYMBIOTESABOTAGE_ANNOUNCE,Agent Venom shards and Super Patriot progress
+ID_ME_BO_SYMBIOTESABOTAGE_ANNOUNCE,"Commander, \n \nBond with Agent Venom character shards and Super Patriot progress: \n \nSymbiote Sabotage Milestone \nEarn points toward this 7-day milestone by battling in Alliance War, spending Power Cores, and by collecting Symbiote Samples located in the Sym-Soldier Web Milestone and Free Daily Web Claims. Monster rewards up for grabs include: \n \n- Agent Venom character shards \n- Walker's Shield and Justice Medals \n- 5 Red Star Winter Soldier \n- Elite 6 Credits \n- Gold Promotion Credits \n \nSym-Soldier Web Milestone \nEarn Blitz Credits and collect Web UPCs to hit milestones that reward prizes that can be claimed on our website: Symbiote Samples, T3 and T4 Ability Materials, and Blue, Purple, Orange, and Teal Gear Orb Fragments."
+ID_ME_NA_SYMBIOTESABOTAGE_ENDING,ENDING: Symbiote Sabotage
+ID_ME_DE_SYMBIOTESABOTAGE_ENDING,2 Days Left!
+ID_ME_BO_SYMBIOTESABOTAGE_ENDING,"Commander, \n \nThe Symbiote Sabotage Event ends in 2 days. Continue earning Agent Venom shards and Super Patriot progress before it's too late! \n \nGood luck, Commander!"
