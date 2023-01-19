@@ -1266,3 +1266,18 @@ ID_OF_NA_THOR_BEGINNEROFFER_1,Thor's Welcome
 ID_OF_DE_THOR_BEGINNEROFFER_1,Limited-time new player deal: Get 45 Thor character shards and 225 Power Cores. Hurry and power up your Asgardian team for battle!
 ID_OF_NA_THOR_BEGINNEROFFER_2,New Player Lightning Offer
 ID_OF_DE_THOR_BEGINNEROFFER_2,"Ends soon: Power up your roster with 135 Thor character shards, 450 Power Cores, 5 Premium Orbs, and 5 Legacy I Orbs."
+ID_OF_NA_LUNARFESTIVAL2023_STARTER_MEDIUM,Lunar Festival Starter Bundle
+ID_OF_DE_LUNARFESTIVAL2023_STARTER_VAR,Start the new year on the right foot and save over <color=#fff568>{var1}%</color> with this bundle. Get <color=#fff568>{var2} points</color> towards the Lunar Festival Milestone.!
+ID_OF_NA_LUNARFESTIVAL2023_STARTER_SUPER,Lunar Festival Super Starter
+ID_OF_NA_LUNARFESTIVAL2023_STARTER_MEGA,Lunar Festival Mega Starter
+ID_OF_NA_LUNARFESTIVAL2023_CATCHUP,Lunar Festival Catch Up Bundle
+ID_OF_DE_LUNARFESTIVAL2023_CATCHUP,"Don't miss out on collecting all the Lunar Festival rewards! Save over <color=#fff568>{var1}%</color> with each purchase. "
+ID_OF_NA_LUNARFESTIVAL2023_CATCHUP_BIG,Lunar Festival Mega Catch Up
+ID_OF_NA_LUNARFESTIVAL2023_EVENTCURRENCY,Red Envelope Bundle
+ID_OF_DE_LUNARFESTIVAL2023_EVENTCURRENCY,Want to get more from the <color=#fff568>Red Envelope Event Store</color>? Save over <color=#fff568>{var1}%</color> with each purchase of Red Envelopes!
+ID_OF_NA_LUNARFESTIVAL2023_HCBOOSTER,Prosperous Cores
+ID_OF_DE_LUNARFESTIVAL2023_HCBOOSTER,Use Power Cores to boost your Campaign Energy spend and Alliance Donations for more <color=#fff568>Lunar Festival progress</color>!
+ID_OF_NA_LUNARFESTIVAL2023_DAILY_ENERGY,Lunar Energy
+ID_OF_DE_LUNARFESTIVAL2023_DAILY_ENERGY_VAR,Progress in campaigns and the <color=#fff568>Lunar Festival Milestone</color> at once!
+ID_OF_NA_LUNARFESTIVAL2023_DAILY_CURRENCY,Daily Red Envelope Bundle
+ID_OF_DE_LUNARFESTIVAL2023_DAILY_CURRENCY,Save over <color=#fff568>{var1}%</color> and use these Red Envelopes for Teal Unique Gear and more in the <color=#fff568>Red Envelope Event Store</color>!
