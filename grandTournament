@@ -44,8 +44,9 @@ ID_GT_NOT_ENTITLED_POPUP_HEADER,Cosmic Crucible
 ID_GT_NOT_ENTITLED_POPUP_DESC,Cosmic Crucible will unlock when you reach Player Level 60.
 ID_GT_EVENT_NAME_PRESEASON,Pre-Season
 ID_GT_EVENT_NAME_SEASON1,Season 1
-ID_GT_GLOBAL_RULES_NAME,Age of X
-ID_GT_GLOBAL_RULES_DESC,"<color=#fff568>HERO MUTANTS</color> gain +<color=#86e619>50%</color> Damage, +<color=#86e619>15%</color> Damage Reduction, +<color=#86e619>100%</color> Focus, and +<color=#86e619>500%</color> Resistance.\nOn Turn, <color=#fff568>HERO MUTANTS</color> clear <color=#fff568>Revive Once</color> and <color=#fff568>Immunity</color> from all enemies.\nDefending Characters gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage."
+ID_GT_EVENT_NAME_SEASON2,Season 2
+ID_GT_GLOBAL_RULES_NAME,Magical Disruptions
+ID_GT_GLOBAL_RULES_DESC,"On Offense, reduce Speed and Resistance by <color=#86e619>10%</color> for all non-<color=#fff568>MASTERS OF EVIL VILLAIN MYSTICS</color>. \nOn Defense, reduce Speed and Resistance by <color=#86e619>20%</color> for all <color=#fff568>COSMIC VILLAIN MYSTICS</color>. \nOn any <color=#fff568>COSMIC VILLAIN MYSTICS</color> Turn, apply <color=#fff568>Bleed</color> to that character. \nOn Defense, all characters gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage."
 ID_GT_ROOM1_NAME,Stage 1
 ID_GT_ROOM1_DESC,
 ID_GT_ROOM2_NAME,Stage 2
@@ -62,14 +63,14 @@ ID_GT_ROOM1_RULES_NAME,Standard Rules
 ID_GT_ROOM1_RULES_DESC,This Stage has no Rules aside from the Global Rule.
 ID_GT_ROOM2_RULES_NAME,Standard Rules
 ID_GT_ROOM2_RULES_DESC,This Stage has no Rules aside from the Global Rule.
-ID_GT_ROOM3_RULES_NAME,Spidermania
-ID_GT_ROOM3_RULES_DESC,"On Spawn, <color=#fff568>SPIDERVERSE</color> characters gain <color=#fff568>Safeguard</color> for <color=#86e619>2</color> turns + <color=#86e619>2</color> <color=#fff568>Deflect</color>."
-ID_GT_ROOM4_RULES_NAME,Latent Power
-ID_GT_ROOM4_RULES_DESC,"On End of Turn, <color=#fff568>GLOBAL HEROES</color> gain <color=#fff568>Offense Up</color>."
-ID_GT_ROOM5_RULES_NAME,Biological Temperament
-ID_GT_ROOM5_RULES_DESC,"On Turn, <color=#fff568>BIO</color> characters apply <color=#fff568>Offense Down</color> to a random enemy without <color=#fff568>Offense Down</color>."
-ID_GT_ROOM6_RULES_NAME,Tales of Legends
-ID_GT_ROOM6_RULES_DESC,"On Spawn, <color=#fff568>LEGENDARY</color> characters gain <color=#86e619>3</color> turns of <color=#fff568>Defense Up</color> and <color=#fff568>Safeguard</color>.\nOn Turn, <color=#fff568>LEGENDARY</color> characters clear all negative effects from themselves and gain <color=#fff568>Speed Up</color>.\n<color=#fff568>LEGENDARY</color> characters gain +<color=#86e619>50%</color> Damage."
+ID_GT_ROOM3_RULES_NAME,Portable Shield Device
+ID_GT_ROOM3_RULES_DESC,"On Defense, any <color=#9055FF>FORTIFER</color> that uses an Ultimate Ability, spreads all Positive Effects to Adjacent Allies. \nOn any <color=#9055FF>STRIKERS</color> turn, Barrier that character for +<color=#86e619>5%</color> of that characters Max Health Barrier and flip <color=#fff568>Offense Down</color>."
+ID_GT_ROOM4_RULES_NAME,Resurrection Protocols
+ID_GT_ROOM4_RULES_DESC,"On Spawn, <color=#fff568>HERO MUTANTS</color> gain <color=#fff568>Revive Once</color> and <color=#fff568>Immunity</color>."
+ID_GT_ROOM5_RULES_NAME,Creeping Spiders
+ID_GT_ROOM5_RULES_DESC,"When any <color=#fff568>SPIDERVERSE</color> Character has <color=#fff568>Stealth</color>, that character gains +<color=#86e619>20%</color> Damage. \nReduce Resistance by 20% for any character with <color=#fff568>Bleed</color>. \nThis room may be updated in the future."
+ID_GT_ROOM6_RULES_NAME,Vibranium Tuning
+ID_GT_ROOM6_RULES_DESC,"On Defense, <color=#fff568>WAKANDAN</color> characters gain +<color=#86e619>60%</color> Max Health, Focus, Resistance, Damage. \nOn Defense, On Turn, <color=#fff568>WAKANDAN</color> characters clear all negative effects on self and gain <color=#fff568>Speed Up</color>. \n On Defense, <color=#fff568>WAKANDAN</color> characters clear <color=#fff568>Revive Once</color> on each successful attack. \nOn Defense, <color=#fff568>WAKANDAN</color> characters with <color=#fff568>Speed Up</color>, gain +<color=#86e619>20%</color> Speed. \nOn Defense, <color=#fff568>WAKANDAN</color> characters with <color=#fff568>Bleed</color>, <color=#fff568>Offense Down</color>, <color=#fff568>Trauma</color>, or <color=#fff568>Disrupted</color> gain +<color=#86e619>50%</color> Speed. \nOn Offense, non-<color=#fff568>TECH</color> Characters clear <color=#fff568>Charged</color> on the end of turn. If <color=#fff568>Charged</color> is removed apply <color=#fff568>Defense Down</color> to all player characters."
 ID_GT_ATTACK_MAX_TITLE,ATTACK MAXIMUM REACHED
 ID_GT_ATTACK_MAX_DESC,You have reached the maximum number of attacks for the current trial
 ID_GT_SET_DEFENSES_NEXT_TRIAL,SET YOUR DEFENSES FOR THE NEXT TRIAL. DEFENDING CHARACTERS CANNOT BE USED TO ATTACK.
@@ -179,3 +180,4 @@ ID_GT_LEAGUE_RATING_RANGE,{promotion} - {max} Tribunal Rating
 ID_GT_LEAGUE_RATING_RANGE_WITH_DEMOTE,"{promotion} - {max} Tribunal Rating, Demotion at {demotion} TR"
 ID_GT_LEAGUE_RATING_MAX,"{promotion}+ Tribunal Rating, Demotion at {demotion} TR"
 ID_GT_DIDNT_PARTICIPATE,Attack to earn rewards
+ID_GT_PER_KNOCKOUT_QUANTITY,x{qty} per KO

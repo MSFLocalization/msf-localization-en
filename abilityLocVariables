@@ -942,6 +942,7 @@ ID_ABILITY_USAGENT_VAR_ULTIMATE_DAMAGE_DIFF,nextlevel.ultimate.action.0.stat_mod
 ID_ABILITY_USAGENT_VAR_ULTIMATE_SLOW,thislevel.ultimate.action.2.procs.0.use_count
 ID_ABILITY_USAGENT_VAR_ULTIMATE_SLOW_NEXT,nextlevel.ultimate.action.2.procs.0.use_count
 ID_ABILITY_USAGENT_VAR_PASSIVE_STATS_BLOCKCHANCE,thislevel.passive_stats.0.delta
+ID_ABILITY_USAGENT_VAR_PASSIVE_STATS_BLOCKCHANCE_PER_REBIRTH,thislevel.passive_stats.3.delta
 ID_ABILITY_USAGENT_VAR_GLOBAL_STATS_FOCUS,thislevel.global_stats.0.delta
 ID_ABILITY_USAGENT_VAR_GLOBAL_STATS_FOCUS_DIFF,nextlevel.global_stats.0.delta - thislevel.global_stats.0.delta
 ID_ABILITY_USAGENT_VAR_GLOBAL_STATS_FOCUS_RAIDS,thislevel.global_stats.1.delta
