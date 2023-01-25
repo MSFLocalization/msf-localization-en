@@ -396,9 +396,9 @@ ID_OF_DE_ROGUESGALLERY_DAILY_ENERGY,Get a daily boost of Campaign Energy to farm
 ID_OF_NA_ROGUESGALLERY_BLITZ,Daily Blitz Bundle
 ID_OF_DE_ROGUESGALLERY_BLITZ,Bolster your Blitz and <color=#fff568>Rogue's Gallery Milestone</color> progress with over <color=#fff568>50%</color> off!
 ID_OF_NA_MRNEGATIVE_FCO_OFFER,Dual Threat
-ID_OF_DE_MRNEGATIVE_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Mr. Negative</color> with this offer! Each orb has a chance to earn up to 180 shards. Corrupt the battlefield by flipping enemy positive effects, spreading negative effects, and summoning minions each turn."
-ID_OF_DE_MRNEGATIVE_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Negative Edge Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Mr. Negative</color> shards. Corrupt the battlefield by flipping enemy positive effects, spreading negative effects, and summoning minions each turn."
-ID_OF_DE_MRNEGATIVE_OFFER_VAR_SHARD,"Get <color=#fff568>{var1} Mr. Negative</color> shards and corrupt the battlefield! Flip enemy positive effects, spread negative effects, and summon minions each turn."
+ID_OF_DE_MRNEGATIVE_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Mister Negative</color> with this offer! Each orb has a chance to earn up to 180 shards. Corrupt the battlefield by flipping enemy positive effects, spreading negative effects, and summoning minions each turn."
+ID_OF_DE_MRNEGATIVE_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Negative Edge Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Mister Negative</color> shards. Corrupt the battlefield by flipping enemy positive effects, spreading negative effects, and summoning minions each turn."
+ID_OF_DE_MRNEGATIVE_OFFER_VAR_SHARD,"Get <color=#fff568>{var1} Mister Negative</color> shards and corrupt the battlefield! Flip enemy positive effects, spread negative effects, and summon minions each turn."
 ID_OF_NA_567_RED_STAR_DRAFT_SPIDERPUNK,5-7 Red Star Draft: Spider-Punk
 ID_OF_DE_567_RED_STAR_DRAFT_SPIDERPUNK,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Spider-Punk</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_GENERIC,5-7 Red Star Draft
@@ -1181,7 +1181,7 @@ ID_NA_LNY2023_NICODRAFT,Lunar New Year: 5-7 Nico Draft
 ID_NA_LNY2023_RESOURCE,Lunar New Year: Joyous Bundle
 ID_NA_LNY2023_ENERGY,Lunar New Year: Prosperous Energy
 ID_NA_LNY2023_GPC,Lunar New Year: Golden Fortune
-ID_NA_LNY2023_AGATHA,Lunar New Year: Agatha
+ID_NA_LNY2023_AGATHA,Lunar New Year: Agatha Harkness
 ID_NA_LNY2023_UNDERWORLDSTARTER,Lunar New Year: Underworld Starter
 ID_NA_LNY2023_HULKBUSTER,Lunar New Year: Hulkbuster
 ID_NA_LNY2023_STRANGE,Lunar New Year: Strange (Heartless)
@@ -1211,7 +1211,7 @@ ID_DE_LNY2023_NICODRAFT,"Fortune has smiled upon you with this exclusive <color=
 ID_DE_LNY2023_RESOURCE,"<color=#ff0000>Lunar New Year</color> is here and it's time to upgrade your roster with this special offer. Stock up on Energy, Power Cores, Gold, and Training Materials to level up your characters and conquer your rivals. Take advantage of this <color=#ff0000>limited-time</color> deal now!"
 ID_DE_LNY2023_ENERGY,"<color=#ff0000>Lunar New Year</color>is here, and it's the perfect time to get Energy and supercharge your progress! Don't miss out on this <color=#ff0000>limited-time</color> offer and fuel your characters for victory."
 ID_DE_LNY2023_GPC,Celebrate <color=#ff0000>Lunar New Year</color>and prosper with this <color=#ff0000>Gold Promotion Credit</color>offer! Use <color=#ff0000>Gold Promotion Credits</color> to fully power your roster and make the most of your year. Take advantage of this <color=#ff0000>limited-time</color> offer and make this new year your best yet!
-ID_DE_LNY2023_AGATHA,Toil and trouble with this <color=#ff0000>Agatha</color> offer this<color=#ff0000>Lunar New Year</color>! Bewitch and beat your enemies with an upgraded <color=#ff0000>Agatha</color>! Don't miss out on this exclusive offer!
+ID_DE_LNY2023_AGATHA,Toil and trouble with this <color=#ff0000>Agatha Harkness</color> offer this<color=#ff0000>Lunar New Year</color>! Bewitch and beat your enemies with an upgraded <color=#ff0000>Agatha Harkness</color>! Don't miss out on this exclusive offer!
 ID_DE_LNY2023_UNDERWORLDSTARTER,Make money moves with the <color=#ff0000>Underworld</color> team this<color=#ff0000>Lunar New Year</color>! Strengthen your <color=#ff0000>Underworld</color> team today and gain an advantage in War!
 ID_DE_LNY2023_HULKBUSTER,Bust up your enemies with this shiny new armor this<color=#ff0000>Lunar New Year</color>! Get <color=#ff0000>Hulkbuster</color> shards to power up your <color=#ff0000>Bionic Avengers</color> team and bust up Raids with ease!
 ID_DE_LNY2023_STRANGE,Master the Mystic Arts this <color=#ff0000>Lunar New Year</color>with this offer! Get Strange (Heartless) and tear up the enemy with a powered up <color=#ff0000>Darkhold</color> team!
@@ -1281,3 +1281,15 @@ ID_OF_NA_LUNARFESTIVAL2023_DAILY_ENERGY,Lunar Energy
 ID_OF_DE_LUNARFESTIVAL2023_DAILY_ENERGY_VAR,Progress in campaigns and the <color=#fff568>Lunar Festival Milestone</color> at once!
 ID_OF_NA_LUNARFESTIVAL2023_DAILY_CURRENCY,Daily Red Envelope Bundle
 ID_OF_DE_LUNARFESTIVAL2023_DAILY_CURRENCY,Save over <color=#fff568>{var1}%</color> and use these Red Envelopes for Teal Unique Gear and more in the <color=#fff568>Red Envelope Event Store</color>!
+ID_NA_WEB_RPT_GOLD_C30,WEB SPECIAL: GOLD BONANZA
+ID_NA_WEB_MEGA_C20,WEB SPECIAL: MEGA SAVINGS
+ID_NA_WEB_TRAINING_C30,WEB SPECIAL: TRAINING PACK
+ID_NA_WEB_TRAINING_C05,WEB SPECIAL: TRAINING ORBS BUNDLE
+ID_NA_WEB_DPC_C100,WEB SPECIAL: DARK PROMOTION CREDITS
+ID_NA_WEB_DUAL_GOLD_TRAINING,WEB SPECIAL: LEVEL UP YOUR ROSTER!
+ID_DE_WEB_RPT_GOLD_C30,CHECK OUT this <color=#ffda21>Web Special</color> bundle with a whopping amount of {var1} Gold! Get {var2}% off this special offer!
+ID_DE_WEB_MEGA_C20,"Get <color=#ff6622>MEGA SAVINGS</color> when you buy this special web offer! Get an additional {var1} Premium Orbs when you buy now with chances at characters like Agatha Harkness, Ikaris, or Abomination!"
+ID_DE_WEB_TRAINING_C30,Time to train with this <color=#ff6622>Web Special Training</color> pack! Reward yourself with <color=#ff6622>Training Orbs and Modules</color> to take your roster to further heights!
+ID_DE_WEB_TRAINING_C05,Don't hesitate until this offer is gone! Quickly grab this bundle of {var1} <color=#ff6622>Training Orbs</color> to get valuable <color=#ff6622>Training Modules</color> for your roster! Beat your enemies with your newfound power!
+ID_DE_WEB_DPC_C100,"Take your apex characters to the zenith of their power with this <color=#d10000>Dark Promotion Credit</color> bundle. Power up the likes of the <color=#d10000>Four Horsemen, Dormammu, and Doctor Doom</color> by unlocking their Red Stars! "
+ID_DE_WEB_DUAL_GOLD_TRAINING,"Boost your roster with this combination of <color=#ff6622>Gold</color> and <color=#ff6622>Training Modules</color>! "
