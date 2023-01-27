@@ -402,7 +402,7 @@ ID_OF_DE_MRNEGATIVE_OFFER_VAR_SHARD,"Get <color=#fff568>{var1} Mister Negative</
 ID_OF_NA_567_RED_STAR_DRAFT_SPIDERPUNK,5-7 Red Star Draft: Spider-Punk
 ID_OF_DE_567_RED_STAR_DRAFT_SPIDERPUNK,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Spider-Punk</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_GENERIC,5-7 Red Star Draft
-ID_OF_DE_567_RED_STAR_DRAFT_GENERIC,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for this <color=#fff568>character</color>. (Tap the icon for more details)"
+ID_OF_DE_567_RED_STAR_DRAFT_GENERIC,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for this <color=#fff568>character</color>. (Tap the icon for included members)"
 ID_OF_NA_HELICARRIERCLASH_STARTER,Helicarrier Clash Starter Bundle
 ID_OF_DE_HELICARRIERCLASH_STARTER_VAR,Save <color=#fff568>over {var1}%</color> on <color=#fff568>{var2} Valhalla Orbs</color> and more which will gain you {var3} points in the <color=#fff568>Helicarrier Clash Milestone</color>. Starter offers are the best deal for points!
 ID_OF_NA_HELICARRIERCLASH_STARTER_SUPER,Helicarrier Clash Super Starter
@@ -730,7 +730,7 @@ ID_OF_DE_EVENT_THANKSGIVING2022_STATCAT_C05,"Superior Catalysts Special! Don't m
 ID_OF_DE_EVENT_BLACKFRIDAY2022_REDSTAR_WEB_C40,"Promote your Horsemen characters and more with this unprecedented web special Red Star offer! Get <color=#fff500>Dark Promotion Credits, Gold Promotion Credits, AND Red Star Orbs at an amazing 4X+ value!</color> Remember to check the store for more valuable offers all month long!"
 ID_OF_NA_CSAT_FREECLAIM,Survey Completion Free Claim
 ID_OF_DE_CSAT_FREECLAIM,A token of thanks from the MARVEL Strike Force Dev Team for helping us improve the game. Return daily for more Free Claims on web!
-ID_OF_DE_567_RED_STAR_DRAFT_GENERIC_TEAM,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the members of this team!"
+ID_OF_DE_567_RED_STAR_DRAFT_GENERIC_TEAM,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the members of this team (Tap the icon for more details)!"
 ID_OF_DE_567_RED_STAR_DRAFT_GENERIC_UNCANNYXMEN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Magik</color>, <color=#fff568>Storm</color>, <color=#fff568>Colossus</color>, <color=#fff568>Cyclops</color>, or <color=#fff568>Psylocke</color>!"
 ID_OF_NA_FESTIVALOFFROST_STARTER,Festival of Frost Starter Bundle
 ID_OF_DE_FESTIVALOFFROST_STARTER,"Get a head start on the <color=#fff568>Festival of Frost Milestone</color> with this high value offer! "
@@ -1281,15 +1281,37 @@ ID_OF_NA_LUNARFESTIVAL2023_DAILY_ENERGY,Lunar Energy
 ID_OF_DE_LUNARFESTIVAL2023_DAILY_ENERGY_VAR,Progress in campaigns and the <color=#fff568>Lunar Festival Milestone</color> at once!
 ID_OF_NA_LUNARFESTIVAL2023_DAILY_CURRENCY,Daily Red Envelope Bundle
 ID_OF_DE_LUNARFESTIVAL2023_DAILY_CURRENCY,Save over <color=#fff568>{var1}%</color> and use these Red Envelopes for Teal Unique Gear and more in the <color=#fff568>Red Envelope Event Store</color>!
-ID_NA_WEB_RPT_GOLD_C30,WEB SPECIAL: GOLD BONANZA
-ID_NA_WEB_MEGA_C20,WEB SPECIAL: MEGA SAVINGS
-ID_NA_WEB_TRAINING_C30,WEB SPECIAL: TRAINING PACK
-ID_NA_WEB_TRAINING_C05,WEB SPECIAL: TRAINING ORBS BUNDLE
-ID_NA_WEB_DPC_C100,WEB SPECIAL: DARK PROMOTION CREDITS
-ID_NA_WEB_DUAL_GOLD_TRAINING,WEB SPECIAL: LEVEL UP YOUR ROSTER!
-ID_DE_WEB_RPT_GOLD_C30,CHECK OUT this <color=#ffda21>Web Special</color> bundle with a whopping amount of {var1} Gold! Get {var2}% off this special offer!
-ID_DE_WEB_MEGA_C20,"Get <color=#ff6622>MEGA SAVINGS</color> when you buy this special web offer! Get an additional {var1} Premium Orbs when you buy now with chances at characters like Agatha Harkness, Ikaris, or Abomination!"
-ID_DE_WEB_TRAINING_C30,Time to train with this <color=#ff6622>Web Special Training</color> pack! Reward yourself with <color=#ff6622>Training Orbs and Modules</color> to take your roster to further heights!
-ID_DE_WEB_TRAINING_C05,Don't hesitate until this offer is gone! Quickly grab this bundle of {var1} <color=#ff6622>Training Orbs</color> to get valuable <color=#ff6622>Training Modules</color> for your roster! Beat your enemies with your newfound power!
-ID_DE_WEB_DPC_C100,"Take your apex characters to the zenith of their power with this <color=#d10000>Dark Promotion Credit</color> bundle. Power up the likes of the <color=#d10000>Four Horsemen, Dormammu, and Doctor Doom</color> by unlocking their Red Stars! "
-ID_DE_WEB_DUAL_GOLD_TRAINING,"Boost your roster with this combination of <color=#ff6622>Gold</color> and <color=#ff6622>Training Modules</color>! "
+ID_OF_NA_WEB_RPT_GOLD_C30,WEB SPECIAL: GOLD BONANZA
+ID_OF_NA_WEB_MEGA_C20,WEB SPECIAL: MEGA SAVINGS
+ID_OF_NA_WEB_TRAINING_C30,WEB SPECIAL: TRAINING PACK
+ID_OF_NA_WEB_TRAINING_C05,WEB SPECIAL: TRAINING ORBS BUNDLE
+ID_OF_NA_WEB_DPC_C100,WEB SPECIAL: DARK PROMOTION CREDITS
+ID_OF_NA_WEB_DUAL_GOLD_TRAINING,WEB SPECIAL: LEVEL UP YOUR ROSTER!
+ID_OF_DE_WEB_RPT_GOLD_C30,CHECK OUT this <color=#ffda21>Web Special</color> bundle with a whopping amount of {var1} Gold! Get {var2}% off this special offer!
+ID_OF_DE_WEB_MEGA_C20,"Get <color=#ff6622>MEGA SAVINGS</color> when you buy this special web offer! Get an additional {var1} Premium Orbs when you buy now with chances at characters like Agatha Harkness, Ikaris, or Abomination!"
+ID_OF_DE_WEB_TRAINING_C30,Time to train with this <color=#ff6622>Web Special Training</color> pack! Reward yourself with <color=#ff6622>Training Orbs and Modules</color> to take your roster to further heights!
+ID_OF_DE_WEB_TRAINING_C05,Don't hesitate until this offer is gone! Quickly grab this bundle of {var1} <color=#ff6622>Training Orbs</color> to get valuable <color=#ff6622>Training Modules</color> for your roster! Beat your enemies with your newfound power!
+ID_OF_DE_WEB_DPC_C100,"Take your apex characters to the zenith of their power with this <color=#d10000>Dark Promotion Credit</color> bundle. Power up the likes of the <color=#d10000>Four Horsemen, Dormammu, and Doctor Doom</color> by unlocking their Red Stars! "
+ID_OF_DE_WEB_DUAL_GOLD_TRAINING,"Boost your roster with this combination of <color=#ff6622>Gold</color> and <color=#ff6622>Training Modules</color>! "
+ID_OF_NA_ABSORBINGMAN_WEB_FCO_OFFER,Web Special: Absorbing Man
+ID_OF_DE_ABSORBINGMAN_WEB_OFFER_VAR_SU,Take the opportunity to stock up on <color=#fff568>Absorbing Man</color> shards and crush Cosmic Crucible opponents with this <color=#fff568>Web Special</color> offer allowing you an additional purchase! This will also unlock special release offers on your next visit.
+ID_OF_NA_LUNARFESTIVAL2023_DAILY_FREE,Lunar Festival Daily Gift
+ID_OF_DE_LUNARFESTIVAL2023_DAILY_FREE,Come back daily to boost your <color=#fff568>Lunar Festival Milestone</color> progress!
+ID_OF_NA_LUNARFESTIVAL2023_DAILY_INTERSTITIAL,Lunar Festival Web Special
+ID_OF_DE_LUNARFESTIVAL2023_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Lunar Festiva Milestonel</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_LUNARFESTIVAL2023_LASTCHANCE,Lunar Festival Last Chance Bundle
+ID_OF_DE_LUNARFESTIVAL2023_LASTCHANCE,"Catch this deal before it's too late and get your final <color=#fff568>Lunar Festival</color> milestone and leaderboard rewards, including exclusive <color=#fff568>T2 Level 5 Ions</color>!"
+ID_OF_NA_ABSORBINGMAN_FCO_OFFER,Crusher of Wills
+ID_OF_DE_ABSORBINGMAN_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Absorbing Man</color> and unlock special release offers on your next visit! Soak up enemy attacks, clear effects, and crush Cosmic Crucible with this <color=#fff568>Master of Evil</color> team member!"
+ID_OF_DE_ABSORBINGMAN_FCO_OFFER,"Save on <color=#fff568>Materialistic Orbs</color>, each having a chance to earn <color=#fff568>up to 180 Absorbing Man</color> shards. Soak up enemy attacks, clear effects, and crush Cosmic Crucible with this <color=#fff568>Master of Evil</color> team member!"
+ID_OF_DE_ABSORBINGMAN_OFFER_SHARD,"Power up <color=#fff568>Absorbing Man</color> with this shard offer! Soak up enemy attacks, clear effects, and crush Cosmic Crucible with this <color=#fff568>Master of Evil</color> team member!"
+ID_OF_NA_ABSORBINGMAN_RS_DRAFT,Red Star Draft: Absorbing Man
+ID_OF_DE_ABSORBINGMAN_RS_DRAFT_345,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star level 3, Maximum Red Star Level 5) for <color=#fff568>Absorbing Man</color>. Crush Cosmic Crucible opponents with this <color=#fff568>Master of Evil</color> team member."
+ID_OF_DE_ABSORBINGMAN_RS_DRAFT_456,"Get an equal chance of either a <color=#fff568>4, 5, or 6 Red Star</color> (Minimum Red Star level 4, Maximum Red Star Level 6) for <color=#fff568>Absorbing Man</color>. Crush Cosmic Crucible opponents with this <color=#fff568>Master of Evil</color> team member."
+ID_OF_DE_ABSORBINGMAN_RS_DRAFT_567,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Absorbing Man</color>. Crush Cosmic Crucible opponents with this <color=#fff568>Master of Evil</color> team member."
+ID_OF_NA_TEAM_MASTERSOFEVIL,Team Offer: Masters of Evil
+ID_OF_DE_TEAM_MASTERSOFEVIL,Dominate the Cosmic Crucible by powering up these members of the <color=#fff568>Masters of Evil</color>!
+ID_OF_NA_ABSORBINGMAN_WEB_FCO_OFFER2,Web Extra: Absorbing Man
+ID_OF_DE_ABSORBINGMAN_WEB_FCO_OFFER2,"A <color=#fff568>Web Special</color> additional chance for <color=#fff568>Absorbing Man</color> shards, which unlocks special release offers on your next visit! Crush Cosmic Crucible opponents with this <color=#fff568>Master of Evil</color> team member."
+ID_OF_NA_SYMBIOTESABOTAGE_LNY_COMBINED,Symbiote Festival
+ID_OF_DE_SYMBIOTESABOTAGE_LNY_COMBINED,Save big on this spectular deal to progress in both the <color=#fff568>Symbiote Sabotage</color> and <color=#fff568>Lunar Festival</color> milestones at once!
