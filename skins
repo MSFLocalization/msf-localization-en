@@ -16,6 +16,10 @@ ID_SKIN_STC_DESCRIPTION2,Use {stcName} to purchase Costumes.
 ID_SKIN_OWNED,Owned
 ID_SKIN_CURRENCY_OVER_CAP_TITLE,Maximum Currency Reached
 ID_SKIN_CURRENCY_OVER_CAP_DESC,Spend Costume Currency and get under the cap to open Orbs that have a chance to award Costume Currencies.
+ID_SKIN_ARCHANGEL_SKIN01_NAME,Death
+ID_SKIN_ARCHANGEL_SKIN01_DESC,"Betrayed by the Horseman Famine, Archangel was left defenseless against Apocalypse's dark influence and became Death - the Fourth Horseman of Apocalypse! \n\n First Appearance: MARVEL Strike Force [2023]"
+ID_SKIN_AMADEUSCHO_SKIN01_NAME,Year of the Rabbit
+ID_SKIN_AMADEUSCHO_SKIN01_DESC,Bound into the Lunar New Year celebration with the S.T.R.I.K.E. team as they gear up for the Year of the Rabbit. \n\n First Appearance: MARVEL Strike Force [2023]
 ID_SKIN_BARONMORDO_SKIN01_NAME,Multiverse of Madness
 ID_SKIN_BARONMORDO_SKIN01_DESC,"After leaving Kamar-Taj, Mordo dedicated himself to restore the imbalances in nature caused by people who practice the mystic arts.\n\n First Appearance: Marvel Studios' Doctor Strange in the Multiverse of Madness [2022]"
 ID_SKIN_BISHOP_SKIN01_NAME,Marauders
@@ -32,6 +36,8 @@ ID_SKIN_CAPTAINAMERICA_SKIN01_CLASSIC_CLASSICSHIELD_NAME,Classic (Classic Shield
 ID_SKIN_CAPTAINAMERICA_SKIN01_CLASSIC_DESC,"A Super-Soldier Serum transformed sickly Steve Rogers into the star-spangled Captain America, who wore this uniform to fight for the Allies in World War II and alongside the Avengers decades later.\n\nFirst Appearance: Captain America Comics (1941) #1"
 ID_SKIN_CARNAGE_SKIN01_ABSOLUTECARNAGE_NAME,Absolute Carnage
 ID_SKIN_CARNAGE_SKIN01_ABSOLUTECARNAGE_DESC,"Resurrected by a cult that worships Knull, the symbiote god, this undead version of Cletus Kasady leaves a bloody trail through New York city as he hunts down anyone who's ever bonded with a symbiote.\n\nFirst Appearance: Absolute Carnage (2019) #1"
+ID_SKIN_COLLEENWING_SKIN01_NAME,Year of the Rabbit
+ID_SKIN_COLLEENWING_SKIN01_DESC,Bound into the Lunar New Year celebration with the S.T.R.I.K.E. team as they gear up for the Year of the Rabbit. \n\n First Appearance: MARVEL Strike Force [2023]
 ID_SKIN_CYCLOPS_SKIN01_DAWNOFX_NAME,Dawn of X
 ID_SKIN_CYCLOPS_SKIN01_DAWNOFX_DESC,"New beginnings demand a new look, so the X-Men's leader changed to this uniform after declaring the island of Krakoa a new sovereign Mutant nation.\n\nFirst Appearance: House of X (2019) #1"
 ID_SKIN_DAREDEVIL_SKIN01_SHADOWLAND_NAME,Shadowland
@@ -105,6 +111,8 @@ ID_SKIN_SCARLETWITCH_SKIN01_WANDAVISION_NAME,WandaVision (50s)
 ID_SKIN_SCARLETWITCH_SKIN01_WANDAVISION_DESC,"Filmed before a live studio audience, Wanda and her husband Vision navigate everyday suburban life while hiding their super powers from nosey neighbors like Agnes.\n\nFirst Appearance: Marvel Studios' WandaVision [2021]"
 ID_SKIN_SHANGCHI_SKIN01_BATTLEARMOR_NAME,Battle Armor
 ID_SKIN_SHANGCHI_SKIN01_BATTLEARMOR_DESC,"Shang-Chi dons this uniform to confront a past he thought he left behind, as he's drawn into the web of the mysterious Ten Rings organization.\n\nFirst Appearance: Marvel Studios' Shang Chi and the Legend of the Ten Rings [2021]"
+ID_SKIN_SHANGCHI_SKIN02_NAME,Year of the Rabbit
+ID_SKIN_SHANGCHI_SKIN02_DESC,Bound into the Lunar New Year celebration with the S.T.R.I.K.E. team as they gear up for the Year of the Rabbit. \n\n First Appearance: MARVEL Strike Force [2023]
 ID_SKIN_SHEHULK_SKIN01_NAME,Attorney at Law
 ID_SKIN_SHEHULK_SKIN01_DESC,"She-Hulk takes on the fiercest legal battles for her superpowered clients, balancing her moral conviction and superhuman strength as their attorney. \n\n First Appearance: Marvel Studios' She-Hulk: Attorney at Law [2022]"
 ID_SKIN_SHEHULK_SKIN01_PANTS_NAME,Attorney at Law (Variant)
@@ -115,6 +123,10 @@ ID_SKIN_SILVERSURFER_SKIN01_TOTALLYRADD_NAME,Totally Radd
 ID_SKIN_SILVERSURFER_SKIN01_TOTALLYRADD_DESC,"Traversing the spaceways as an immortal being has some advantages, like knowing all the sickest spots for snowboarding in the galaxy.\n\nFirst Appearance: MARVEL Strike Force [2021]"
 ID_SKIN_SPIDERMAN_SKIN01_NOWAYHOME_NAME,No Way Home
 ID_SKIN_SPIDERMAN_SKIN01_NOWAYHOME_DESC,"After seeking help from Doctor Strange, Spider-Man donned this suit imbued with mystic powers in order to find his way back home.\n\nFirst Appearance: Marvel Studio's Spider-Man: No Way Home [2021]"
+ID_SKIN_STATURE_SKIN01_NAME,Quantumania
+ID_SKIN_STATURE_SKIN01_DESC,"While experimenting with a new device, Cassie Lang receives a response that signals the beginning of a new adventure for her and her family. \n\n First Appearance: Marvel Studios' Ant-Man and the Wasp: Quantumania [2023]"
+ID_SKIN_STATURE_SKIN01_HELMET_NAME,Quantumania (Variant)
+ID_SKIN_STATURE_SKIN01_HELMET_DESC,"While experimenting with a new device, Cassie Lang receives a response that signals the beginning of a new adventure for her and her family. \n\n First Appearance: Marvel Studios' Ant-Man and the Wasp: Quantumania [2023]"
 ID_SKIN_STORM_SKIN01_NAME,Classic
 ID_SKIN_STORM_SKIN01_DESC,"Storm, an Omega level mutant once hailed as a Goddess, lent her powers to Professor Xavier and gained this sleek, iconic costume.\n\n First Appearance: Giant-Size X-Men (1975) #1"
 ID_SKIN_TASKMASTER_SKIN01_REDROOM_NAME,Red Room

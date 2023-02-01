@@ -347,6 +347,8 @@ ID_NSF,You don't have enough resources to complete this purchase.\n\n{resource} 
 ID_NSF_CONVERT,\nYou lack the amount of primary currency required. Cost will be converted to Power Cores.
 ID_NSF_GOLD,Insufficient Gold
 ID_NSF_SUFFIX_BUY_MISSING_AMOUNT,\n\nBuy the missing amount?
+ID_NSF_SUFFIX_LEARN_MORE,\n\nWould you like to learn more?
+ID_LEARN_MORE,LEARN MORE
 ID_NSF_SUFFIX_FIGHT_ARENA_BATTLES,\n\nFight in Blitz to earn more.
 ID_OPEN,OPEN
 ID_MULTI_OPEN,OPEN x{qty}
@@ -427,6 +429,7 @@ ID_OPTIONS_PORTAL_DESC,Get an access code that will let you log into our website
 ID_OPTIONS_PORTAL_BUTTON,GET ACCESS CODE
 ID_OPTIONS_HIGHER_RENDERING_MODE,Enable higher rendering mode(60fps)
 ID_OPTIONS_DISABLE_LARGE_HC_PURCHASE_CONFIRMATION,Disable Large Power Core Purchase Confirmation
+ID_OPTIONS_QUICK_MULTIORB_OPEN,Show 'Open All Orbs' Option
 ID_PLAYER_NAME_CHANGE_CONFIRM,CONFIRM
 ID_PLAYER_NAME_CHANGE_ENTER_NAME,Enter name...
 ID_PLAYER_NAME_CHANGE_ENTER_VALID,"Please enter a valid name. Symbols (<, >, {, }) and profanity are not allowed."
@@ -626,6 +629,7 @@ ID_UI_NEED_MORE_HEROES_BPFILTER,<color=#db8721>Filter On</color>\nNo other chara
 ID_UI_NEXT,NEXT
 ID_UI_NEXT_WITH_SYMBOL,NEXT >
 ID_UI_NODE_REFRESH_DESC,You have reached your daily limit for this node.\nThe daily limit will reset tomorrow.
+ID_UI_OPTION_STOP,STOP
 ID_UI_OPTIN_CANCEL,CANCEL
 ID_UI_OPTIN_CONFIRM,OPT IN
 ID_UI_OPTIN_CONFIRM_BODY,Hello Commander! Sign up for regular email updates and offers today and get a 1-Star Shocker and Gold Orb.
@@ -769,10 +773,11 @@ ID_GEAR_TIER_COMING_SOON,<color=#F7941DFF>Gear Tier {tier}</color> will be avail
 ID_IAP_OFFER_PURCHASES_LEFT_SINGULAR,{count} purchase left
 ID_IAP_OFFER_PURCHASES_LEFT_PLURAL,{count} purchases left
 ID_EVENT_CAMPAIGN_TYPE_ROCKET,ROCKET
+ID_EVENT_CAMPAIGN_TYPE_ROCKETRACCOON,ROCKETRACCOON
 ID_STORE_CATEGORYNAME_OFFERS,OFFERS
 ID_STORE_CATEGORYNAME_ORBS,ORBS
 ID_STORE_CATEGORYNAME_SUPPLIES,SUPPLIES
-ID_STORE_CATEGORYNAME_POWERCORES,POWER CORES
+ID_STORE_CATEGORYNAME_POWERCORES,CORES
 ID_STORE_CATEGORYNAME_SKINS,COSTUMES
 ID_STORE_NAME_MAIN,MAIN
 ID_STORE_NAME_BLITZ,BLITZ
@@ -913,7 +918,9 @@ ID_EVENT_CAMPAIGN_TYPE_REDHULK,RED HULK
 ID_EVENT_CAMPAIGN_TYPE_VIVVISION,VIV VISION
 ID_EVENT_CAMPAIGN_TYPE_SPIDERWEAVER,SPIDER-WEAVER
 ID_EVENT_CAMPAIGN_TYPE_NAKIA,NAKIA
+ID_EVENT_CAMPAIGN_TYPE_DEATH,ARCHANGEL
 ID_EVENT_CAMPAIGN_TYPE_NEMESIS,NEMESIS
+ID_EVENT_CAMPAIGN_TYPE_APOCALYPSE,APOCALYPSE
 ID_OFFER_AND,AND
 ID_OFFER_OR,OR
 ID_CHAL_UNLOCK,UNLOCK
@@ -1060,3 +1067,7 @@ ID_MINSPEC_NA_MINSPEC_IOS13,Device Update Needed!
 ID_MINSPEC_BO_MINSPEC_IOS13,The minimum device requirements to play MARVEL Strike Force will be iOS 13 for iOS devices with the upcoming Version 6.5 Release (slated for the end of October 2022). We recommend updating as soon as possible to avoid any disruptions to your playing experience.
 ID_MINSPEC_NA_MINSPEC_OS7_2GB,Device Update Needed!
 ID_MINSPEC_BO_MINSPEC_OS7_2GB,The minimum device requirements to play MARVEL Strike Force on Android will be OS 7 and a minimum of 2 GB RAM with the upcoming Version 6.5 Release (slated for the end of October 2022). We recommend updating as soon as possible to avoid any disruptions to your playing experience.
+ID_QUICKMULTIORBOPEN_TITLE,Open All Orbs
+ID_QUICKMULTIORBOPEN_BODY_PROMPT,Automatically open <color=#FFFF00FF>{num_orbs}</color> orbs?\n\nIt may take a few moments for these orbs to be opened. You may stop at any time.
+ID_QUICKMULTIORBOPEN_BODY_PROGRESS,"Number of orbs opened: <color=#FFFF00FF>{num_orbs}</color>/<color=#FFFFFFFF>{total_orbs}</color> "
+ID_QUICKMULTIORBOPEN_BODY_STOPPING,Stopping...

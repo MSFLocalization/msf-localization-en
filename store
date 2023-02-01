@@ -30,6 +30,12 @@ ID_SHOP_IAP_HARD_CURRENCY_3_NAME,Bundle of Power Cores
 ID_SHOP_IAP_HARD_CURRENCY_4_NAME,Case of Power Cores
 ID_SHOP_IAP_HARD_CURRENCY_5_NAME,Crate of Power Cores
 ID_SHOP_IAP_HARD_CURRENCY_6_NAME,Shipment of Power Cores
+ID_SHOP_IAP_UNIVERSAL_CURRENCY_1_NAME,Ultra Cores
+ID_SHOP_IAP_UNIVERSAL_CURRENCY_2_NAME,Cluster of Ultra Cores
+ID_SHOP_IAP_UNIVERSAL_CURRENCY_3_NAME,Bundle of Ultra Cores
+ID_SHOP_IAP_UNIVERSAL_CURRENCY_4_NAME,Case of Ultra Cores
+ID_SHOP_IAP_UNIVERSAL_CURRENCY_5_NAME,Crate of Ultra Cores
+ID_SHOP_IAP_UNIVERSAL_CURRENCY_6_NAME,Shipment of Ultra Cores
 ID_SHOP_IAP_SUB_MON_1_DESC,Monthly subscription giving daily goods
 ID_SHOP_IAP_SUB_MON_1_NAME,Monthly Subscription II A
 ID_SHOP_IAP_SUB_WK_1_DESC,Weekly subscription giving daily goods
@@ -1080,9 +1086,9 @@ ID_OF_DE_WARMACHINE_MORB_500,Take advantage of this limited time deal and comple
 ID_OF_NA_WARMACHINE_ENERGY_OFFER_1,Prelude to War Energy Offer
 ID_OF_DE_WARMACHINE_ENERGY_OFFER_1,Save on <color=#fff568>Prelude to War Energy</color> with this offer! Play in the Prelude to War Event Campaign and recruit War Machine!
 ID_GACHA_CRATE_EVENT_WASP_201807_NAME,Wasp Orb
-ID_GACHA_CRATE_EVENT_WASP_201807_DESCRIPTION,Earn Wasp Orb Fragments in the Wasp Event Campaign
+ID_GACHA_CRATE_EVENT_WASP_201807_DESCRIPTION,Earn Wasp Orb Fragments in the Sting of the Wasp Event Campaign
 ID_GACHA_CRATE_EVENT_WASP_201807_TOKEN_NAME,Wasp Orb Fragments
-ID_GACHA_CRATE_EVENT_WASP_201807_TOKEN_DESCRIPTION,Collect Wasp Orb Fragments in the Wasp Event Campaign to earn Wasp Orbs.
+ID_GACHA_CRATE_EVENT_WASP_201807_TOKEN_DESCRIPTION,Collect Fragments for Wasp Orbs that contain up to 20 Wasp shards.
 ID_OF_NA_WASP_ECO_OFFER_1,Wasp Orb Offer
 ID_OF_DE_WASP_ECO_OFFER_1,Get a chance to get a <color=#fff568>3-star Wasp</color> with this offer! Each orb has a chance to earn up to 180 shards.
 ID_OF_DE_WASP_ECO_OFFER_2o,Save on <color=#fff568>2 Wasp Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 shards</color>.
@@ -1160,6 +1166,10 @@ ID_GACHA_CRATE_FCO_ABOMINATION_SPECIAL_NAME,Gamma Obsessed Orb
 ID_GACHA_CRATE_FCO_ABOMINATION_SPECIAL_DESCRIPTION,Earn up to 180 Abomination shards
 ID_GACHA_CRATE_FCO_ABOMINATION_SPECIAL_TOKEN_NAME,Gamma Obsessed Orb Fragments
 ID_GACHA_CRATE_FCO_ABOMINATION_SPECIAL_TOKEN_DESCRIPTION,Collect Gamma Obsessed Orb Fragments to earn a Gamma Obsessed Orb.
+ID_GACHA_CRATE_FCO_ABSORBINGMAN_SPECIAL_NAME,Materialistic Orb
+ID_GACHA_CRATE_FCO_ABSORBINGMAN_SPECIAL_DESCRIPTION,Earn up to 180 Absorbing Man shards
+ID_GACHA_CRATE_FCO_ABSORBINGMAN_SPECIAL_TOKEN_NAME,Materialistic Orb Fragments
+ID_GACHA_CRATE_FCO_ABSORBINGMAN_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Materialistic Orbs that contain up to 180 Absorbing Man shards.
 ID_GACHA_CRATE_FCO_AGATHAHARKNESS_SPECIAL_NAME,Coven Leader Orb
 ID_GACHA_CRATE_FCO_AGATHAHARKNESS_SPECIAL_DESCRIPTION,Earn up to 180 Agatha Harkness shards
 ID_GACHA_CRATE_FCO_AGATHAHARKNESS_SPECIAL_TOKEN_NAME,Coven Leader Orb Fragments
@@ -2294,6 +2304,10 @@ ID_OF_DE_JUGGERNAUT_FCO_OFFER_5OB,Save on <color=#fff568>5 I'm the Juggernaut Or
 ID_OF_DE_JUGGERNAUT_FCO_OFFER_6O,Save on <color=#fff568>6 I'm the Juggernaut Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Juggernaut shards</color>. Bulldoze through your foes with the Juggernaut!
 ID_OF_DE_JUGGERNAUT_FCO_OFFER_8O,Save on <color=#fff568>8 I'm the Juggernaut Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Juggernaut shards</color>. Bulldoze through your foes with the Juggernaut!
 ID_OF_DE_JUGGERNAUT_FCO_OFFER_10O,Save on <color=#fff568>10 I'm the Juggernaut Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Juggernaut shards</color>. Bulldoze through your foes with the Juggernaut!
+ID_GACHA_CRATE_FCO_KANGTHECONQUEROR_SPECIAL_NAME,For All Time Orb
+ID_GACHA_CRATE_FCO_KANGTHECONQUEROR_SPECIAL_DESCRIPTION,Earn up to 180 Kang shards
+ID_GACHA_CRATE_FCO_KANGTHECONQUEROR_SPECIAL_TOKEN_NAME,For All Time Orb Fragments
+ID_GACHA_CRATE_FCO_KANGTHECONQUEROR_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for For All Time Orbs that contain up to 180 Kang shards.
 ID_GACHA_CRATE_FCO_KARNAK_SPECIAL_NAME,The Shatterer Orb
 ID_GACHA_CRATE_FCO_KARNAK_SPECIAL_DESCRIPTION,Get up to 180 Karnak shards
 ID_GACHA_CRATE_FCO_KARNAK_SPECIAL_TOKEN_NAME,The Shatterer Orb Fragments
@@ -5491,7 +5505,7 @@ ID_OF_DE_GEN_RAID_50,Take your alliance to the next level with this spectacular 
 ID_OF_DE_GEN_RAID_60,Take your alliance to the next level with this spectacular offer. Save <color=#fff568>over 60%</color> when you buy now!\n<b>*Items ignore resource capacity</b>
 ID_OF_NA_MORB_THANOS_1,Thanos Orb Fragment Offer
 ID_OF_DE_MORB_THANOS_500,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>500 Thanos Orb Fragments</color> with this offer.
-ID_OF_NA_THANOS_OFFER_1,The All-Father Offer
+ID_OF_NA_THANOS_OFFER_1,The Mad Titan Offer
 ID_OF_DE_THANOS_OFFER_3S,"Add the ultimate Cosmic Villain and Mystic Protector to your squad. This <color=#fff568>3-star Thanos</color> can use his arsenal of counterstrikes, long lasting Taunt, and destructive Attack All abilities."
 ID_OF_DE_THANOS_OFFER_20,"Add the ultimate Cosmic Villain and Mystic Protector to your squad. Get <color=#fff568>20 Thanos shards</color> and use his arsenal of counterstrikes, long lasting Taunt, and destructive Attack All abilities."
 ID_OF_DE_THANOS_OFFER_35,"Add the ultimate Cosmic Villain and Mystic Protector to your squad. Get <color=#fff568>35 Thanos shards</color> and use his arsenal of counterstrikes, long lasting Taunt, and destructive Attack All abilities."
@@ -6825,6 +6839,10 @@ ID_OF_NA_MOONKNIGHT_TRAINING_OFFER_1,Moon Knight: Training
 ID_OF_DE_MOONKNIGHT_TRAINING_OFFER_40,Get this amazing bundle and level up Moon Knight. Get over <color=#fff568>40%</color> off when you buy now!
 ID_OF_NA_MOONKNIGHT_OFFER,Vessel of Vengeance Offer
 ID_OF_DE_MOONKNIGHT_OFFER_VAR,"Get <color=#fff568>{var1} Moon Knight shards</color> and eclipse top War teams with high-damage attacks, applying Heal Block, and granting Shadowland allies additional Health."
+ID_GACHA_CRATE_FCO_MOONSTONE_SPECIAL_NAME,Gravitational Force Orb
+ID_GACHA_CRATE_FCO_MOONSTONE_SPECIAL_DESCRIPTION,Earn up to 180 Moonstone shards
+ID_GACHA_CRATE_FCO_MOONSTONE_SPECIAL_TOKEN_NAME,Gravitational Force Orb Fragments
+ID_GACHA_CRATE_FCO_MOONSTONE_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Gravitational Force Orbs that contain up to 180 Moonstone shards.
 ID_OF_DE_CAL_PROMO_CREDITS_SILVER_02_VAR,Get <color=#fff568>{var1} Silver Promotion Credits</color> over {var2} days to help Promote a character of your choice up to 5 Red Stars (costs 150 Silver Promotion Credits)! Log in for the next {var2} days to collect your rewards.
 ID_OF_NA_VALIANT_2021,Valiant Credit Offer
 ID_OF_DE_VALIANT_2021,"Save on <color=#fff568>{var1} Valiant Credits</color> with this offer. Use them to open <color=#fff568>Champion or Conqueror Orbs</color> and strengthen your roster! "
@@ -8259,6 +8277,22 @@ ID_GACHA_CRATE_GAMMABOMB_NAME,Gamma Bomb Orb
 ID_GACHA_CRATE_GAMMABOMB_DESCRIPTION,"Gamma, Hero Asgardian, and Wave I - Avenger shards"
 ID_GACHA_CRATE_GAMMABOMB_TOKEN_NAME,Gamma Bomb Orb Fragments
 ID_GACHA_CRATE_GAMMABOMB_TOKEN_DESCRIPTION,Collect Gamma Bomb Orb Fragments from the Hostile Forces Web Milestone and Campaign nodes to progress in the War Zone milestone.
+ID_GACHA_CRATE_SELFABSORBED_NAME,Self-Absorbed Orb
+ID_GACHA_CRATE_SELFABSORBED_DESCRIPTION,Earn up to 100 Titania Shards
+ID_GACHA_CRATE_SELFABSORBED_TOKEN_NAME,Self-Absorbed Orb Fragments
+ID_GACHA_CRATE_SELFABSORBED_TOKEN_DESCRIPTION,Collect Fragments for Self-Absorbed Orbs that contain up to 100 Titania character shards.
+ID_GACHA_CRATE_WARLORD_NAME,Warlord Orb
+ID_GACHA_CRATE_WARLORD_DESCRIPTION,"Contains Gamma, Hero Asgardian, and Wave I - Avenger Shards"
+ID_GACHA_CRATE_WARLORD_TOKEN_NAME,Warlord Orb Fragments
+ID_GACHA_CRATE_WARLORD_TOKEN_DESCRIPTION,Collect Fragments from Campaign Nodes to earn progress in the Rage of the Past Milestone.
+ID_GACHA_CRATE_VALENTINE23_NAME,Valentine Orb
+ID_GACHA_CRATE_VALENTINE23_DESCRIPTION,Contains shards of iconic Marvel couples
+ID_GACHA_CRATE_VALENTINE23_TOKEN_NAME,Valentine Orb Fragments
+ID_GACHA_CRATE_VALENTINE23_TOKEN_DESCRIPTION,Collect Valentine Orb Fragments from Blitz to earn progress in the Atrocious Attraction Milestone.
+ID_GACHA_CRATE_REAPER_NAME,Reaper Orb
+ID_GACHA_CRATE_REAPER_DESCRIPTION,"Contains Bionic Avenger, Wakandan, Mutant, and Minion Shards"
+ID_GACHA_CRATE_REAPER_TOKEN_NAME,Reaper Orb Fragments
+ID_GACHA_CRATE_REAPER_TOKEN_DESCRIPTION,Collect Reaper Orb Fragments from Campaign Nodes to earn progress in the Debonair Death Milestone.
 ID_GACHA_CRATE_EVENT_WOMANOUTOFTIME_ROYALRESERVE_NAME,Royal Reserve Orb
 ID_GACHA_CRATE_EVENT_WOMANOUTOFTIME_ROYALRESERVE_DESCRIPTION,"Earn Teal Mini-Uniques and Gear for Mystic, Bio, and Mutant characters"
 ID_GACHA_CRATE_EVENT_WOMANOUTOFTIME_STRATEGICRESERVE_NAME,Strategic Reserve Orb

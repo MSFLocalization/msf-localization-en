@@ -9977,6 +9977,48 @@ ID_DIALOG_ECM_NEMESIS_09_END_2,"With their unfaltering cooperation, the age of h
 ID_DIALOG_ECM_NEMESIS_09_END_3,That sounds like it's time to get the popcorn on.
 ID_DIALOG_ECM_NEMESIS_09_END_4,Father...
 ID_DIALOG_ECM_NEMESIS_09_END_5,The earth is prepared for your arrival. The time to strike is now!
+ID_DIALOG_ECM_DEATH_01_INTRO_0,Archangel is still down. Do you think he's okay?
+ID_DIALOG_ECM_DEATH_01_INTRO_1,No. He was weak. Apocalypse was too much for him.
+ID_DIALOG_ECM_DEATH_01_INTRO_2,"He's waking up! Archangel, are you all right?"
+ID_DIALOG_ECM_DEATH_01_INTRO_3,I am not Archangel.
+ID_DIALOG_ECM_DEATH_01_INTRO_4,I am DEATH.
+ID_DIALOG_ECM_DEATH_01_INTRO_5,We know who you are! And we're going to stop you right here and now!
+ID_DIALOG_ECM_DEATH_01_INTRO_6,Wait!
+ID_DIALOG_ECM_DEATH_02_INTRO_0,Hand him over before he joins the rest of Apocalypse's Horsemen!
+ID_DIALOG_ECM_DEATH_02_INTRO_1,No! There is still hope! Warren is still in there. I can feel him!
+ID_DIALOG_ECM_DEATH_02_INTRO_2,Apocalypse has only brainwashed him. We just need to break the hold.
+ID_DIALOG_ECM_DEATH_02_INTRO_3,"Psylocke, the other Horsemen are on their way. Do you really want to stand in their way?"
+ID_DIALOG_ECM_DEATH_02_INTRO_4,"Surrender him now, or you will leave us with no choice."
+ID_DIALOG_ECM_DEATH_02_INTRO_5,Try and take me.
+ID_DIALOG_ECM_DEATH_03_INTRO_0,"So he still has some fight in him, eh? Maybe there IS a chance."
+ID_DIALOG_ECM_DEATH_03_INTRO_1,I want to use the Death Seed on him.
+ID_DIALOG_ECM_DEATH_03_INTRO_2,The Death Seed? Do you think it can bring Warren back?
+ID_DIALOG_ECM_DEATH_03_INTRO_3,"It could. Or it could scramble his brains forever. Either way, I'm going to need some time."
+ID_DIALOG_ECM_DEATH_03_INTRO_4,There is no time in Death- just destiny.
+ID_DIALOG_ECM_DEATH_03_INTRO_5,And try to keep him quiet. I can only take so much of that nonsense.
+ID_DIALOG_ECM_DEATH_04_INTRO_0,"You can't save him. Just like Morgan Le Fay, he is one of the THEM now."
+ID_DIALOG_ECM_DEATH_04_INTRO_1,No! Warren's psyche is responding. He's still in there!
+ID_DIALOG_ECM_DEATH_04_INTRO_2,Just give us more time to try the Death Seed.
+ID_DIALOG_ECM_DEATH_04_INTRO_3,The Death Seed? Are you mad? That will bring only chaos!
+ID_DIALOG_ECM_DEATH_04_INTRO_4,The other Horsemen will be here soon. Stand aside!!
+ID_DIALOG_ECM_DEATH_04_INTRO_5,We will not!
+ID_DIALOG_ECM_DEATH_04_END_0,"I think it's actually working. "
+ID_DIALOG_ECM_DEATH_04_END_1,"Psylocke, what do you see?"
+ID_DIALOG_ECM_DEATH_04_END_2,I see him! I think it IS working!
+ID_DIALOG_ECM_DEATH_05_INTRO_0,Warren?! It's me! Can you hear me?!
+ID_DIALOG_ECM_DEATH_05_INTRO_1,"Am I… ""Death""??"
+ID_DIALOG_ECM_DEATH_05_INTRO_2,"Yes, my child, you ARE Death."
+ID_DIALOG_ECM_DEATH_05_INTRO_3,You are now the FOURTH Horsemen of Apocalypse!
+ID_DIALOG_ECM_DEATH_05_INTRO_4,"C'mon now, sugah. Don't be shy! Your new family is here!!"
+ID_DIALOG_ECM_DEATH_05_INTRO_5,"Yeah, but I ain't huggin' anybody."
+ID_DIALOG_ECM_DEATH_05_INTRO_6,Stay away from him!!
+ID_DIALOG_ECM_DEATH_05_END_0,Death! I am so proud of you!
+ID_DIALOG_ECM_DEATH_05_END_1,Facing all three Horsemen? \n Well done.
+ID_DIALOG_ECM_DEATH_05_END_2,But the games are over.
+ID_DIALOG_ECM_DEATH_05_END_3,"And Dark Beast, you old fool. I have spent years mastering the secrets of the Death Seeds. "
+ID_DIALOG_ECM_DEATH_05_END_4,Did you think your little science experiment could undo MY creation?
+ID_DIALOG_ECM_DEATH_05_END_5,"I am DEATH. And I am ready to serve, Apocalypse!"
+ID_DIALOG_ECM_DEATH_05_END_6,We have work to do.
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
@@ -13686,6 +13728,102 @@ ID_DIALOG_GUARDIANSGROOTMAS_10_END_4,I am... Groot.
 ID_DIALOG_GUARDIANSGROOTMAS_10_END_5,"Oh, well I guess it makes sense then."
 ID_DIALOG_GUARDIANSGROOTMAS_10_END_6,I am glad we have solved every mystery and no questions are left not answered!
 ID_DIALOG_GUARDIANSGROOTMAS_10_END_7,It is a Grootmas miracle!
+ID_DIALOG_ROCKETRACCOON_EVENT_01_INTRO_0,"Hey, Commander! Groot's gone missing. I'm rounding up a search party. "
+ID_DIALOG_ROCKETRACCOON_EVENT_01_INTRO_1,I need to grab some S.T.R.I.K.E. guys for backup. Thanks.
+ID_DIALOG_ROCKETRACCOON_EVENT_01_INTRO_2,"Last place he was seen was some backwater Ravager planet. "
+ID_DIALOG_ROCKETRACCOON_EVENT_01_INTRO_3,I'm going to start there by roughing up some of the locals.
+ID_DIALOG_ROCKETRACCOON_EVENT_01_END_0,"Hey, Ravager! WHERE'S GROOT?"
+ID_DIALOG_ROCKETRACCOON_EVENT_01_END_1,Your tree friend passed through here a while ago. Sounded like he was trying to make himself scarce. And fast.
+ID_DIALOG_ROCKETRACCOON_EVENT_01_END_2,Then some crazy robot charged in and took off with him.
+ID_DIALOG_ROCKETRACCOON_EVENT_01_END_3,Ultron? What does Ultron want with Groot?
+ID_DIALOG_ROCKETRACCOON_EVENT_02_INTRO_0,"OK, bucket of bolts. Hand over my friend, and no one gets their spark plugs pulled."
+ID_DIALOG_ROCKETRACCOON_EVENT_02_INTRO_1,"Your alien friend developed a rare fungus I plan on augmenting to my needs. "
+ID_DIALOG_ROCKETRACCOON_EVENT_02_INTRO_2,"Fungus? Your wiring's messed up, Toaster Head. Groot's NOT sick."
+ID_DIALOG_ROCKETRACCOON_EVENT_02_INTRO_3,Negative. The fungus is highly contagious. It is why he went into seclusion.
+ID_DIALOG_ROCKETRACCOON_EVENT_02_INTRO_4,"If Groot's sick, we've got to help him. Hand him over."
+ID_DIALOG_ROCKETRACCOON_EVENT_02_INTRO_5,Your threats are inconsequential. I tire of them.
+ID_DIALOG_ROCKETRACCOON_EVENT_02_INTRO_6,Fine then. Disassembly time.
+ID_DIALOG_ROCKETRACCOON_EVENT_02_END_0,Where are you holding Groot?
+ID_DIALOG_ROCKETRACCOON_EVENT_02_END_1,"He is guarded by an army of my drones. "
+ID_DIALOG_ROCKETRACCOON_EVENT_02_END_2,You will never reach him.
+ID_DIALOG_ROCKETRACCOON_EVENT_02_END_3,We'll see about that.
+ID_DIALOG_ROCKETRACCOON_EVENT_03_INTRO_0,What's this you say about Groot being sick?
+ID_DIALOG_ROCKETRACCOON_EVENT_03_INTRO_1,"The tree alien was hiding because he did not want to contaminate anyone. "
+ID_DIALOG_ROCKETRACCOON_EVENT_03_INTRO_2,I intend to mutate the fungus to destroy humanity.
+ID_DIALOG_ROCKETRACCOON_EVENT_03_INTRO_3,"Not a fan of ANY of that! "
+ID_DIALOG_ROCKETRACCOON_EVENT_03_INTRO_4,Now where is he?
+ID_DIALOG_ROCKETRACCOON_EVENT_03_INTRO_5,Guarded by my Ultron army. There is no way to save him.
+ID_DIALOG_ROCKETRACCOON_EVENT_03_INTRO_6,I'm getting Groot. Even if I have to disassemble every single one of your tin can soldiers.
+ID_DIALOG_ROCKETRACCOON_EVENT_03_END_0,"Groot, how could you just skip out like that? We're family!"
+ID_DIALOG_ROCKETRACCOON_EVENT_03_END_1,I AM GROOT!
+ID_DIALOG_ROCKETRACCOON_EVENT_03_END_2,"I know you're sick, but we'll find a cure. Don't worry!"
+ID_DIALOG_ROCKETRACCOON_EVENT_03_END_3,"Rocket Raccoon, back away from Groot. The Kree cannot risk an outbreak. Groot must be eliminated."
+ID_DIALOG_ROCKETRACCOON_EVENT_03_END_4,"Oh great, now you bozos had to show up and complicate things."
+ID_DIALOG_ROCKETRACCOON_EVENT_03_END_5,"How about YOU back away, or I'll give you something to regret. I'm not abandoning Groot."
+ID_DIALOG_ROCKETRACCOON_EVENT_04_INTRO_0,"Step away from the infected alien. "
+ID_DIALOG_ROCKETRACCOON_EVENT_04_INTRO_1,He must be exterminated for the safety of the galaxy.
+ID_DIALOG_ROCKETRACCOON_EVENT_04_INTRO_2,The infection cannot be allowed to spread.
+ID_DIALOG_ROCKETRACCOON_EVENT_04_INTRO_3,I'm gonna rip out those cybernetics and build a coffee maker out of them!
+ID_DIALOG_ROCKETRACCOON_EVENT_04_FAIL_0,They took out Groot! No...
+ID_DIALOG_ROCKETRACCOON_EVENT_04_END_0,"Well, they're down for the count. I think I've got an idea on where we can find you a cure."
+ID_DIALOG_ROCKETRACCOON_EVENT_04_END_1,I am Groot.
+ID_DIALOG_ROCKETRACCOON_EVENT_04_END_2,"It's risky, but that might work. I like it! I'll send a message and--"
+ID_DIALOG_ROCKETRACCOON_EVENT_04_END_3,"This rotting tree has been judged as a threat to the Kree Empire. "
+ID_DIALOG_ROCKETRACCOON_EVENT_04_END_4,"Prepare for execution. "
+ID_DIALOG_ROCKETRACCOON_EVENT_04_END_5,"Take a number, pal. I got plenty of bullets. "
+ID_DIALOG_ROCKETRACCOON_EVENT_05_INTRO_0,"Korath may have fallen for your tricks, but I will not."
+ID_DIALOG_ROCKETRACCOON_EVENT_05_INTRO_1,The Kree Empire has judged Groot's infection as an intergalactic threat.
+ID_DIALOG_ROCKETRACCOON_EVENT_05_INTRO_2,Not gonna happen. You gotta fight through us just like everybody else if you want a piece of him!
+ID_DIALOG_ROCKETRACCOON_EVENT_05_INTRO_3,I AM GROOT!
+ID_DIALOG_ROCKETRACCOON_EVENT_05_FAIL_0,Groot's down!
+ID_DIALOG_ROCKETRACCOON_EVENT_05_END_0,"You fools, this tree's infection puts billions of lives at risk."
+ID_DIALOG_ROCKETRACCOON_EVENT_05_END_1,We'll find a cure. I'm not giving up on him.
+ID_DIALOG_ROCKETRACCOON_EVENT_05_END_2,We will stop you. It's only a matter of time.
+ID_DIALOG_ROCKETRACCOON_EVENT_05_END_3,I am Groot...
+ID_DIALOG_ROCKETRACCOON_EVENT_05_END_4,No. He's NOT right. We'll find another way.
+ID_DIALOG_ROCKETRACCOON_EVENT_06_INTRO_0,The Kree sent me to exterminate Groot before his fungus spreads.
+ID_DIALOG_ROCKETRACCOON_EVENT_06_INTRO_1,You didn't get the message? YOU'RE NOT KILLING GROOT!
+ID_DIALOG_ROCKETRACCOON_EVENT_06_INTRO_2,"Sorry, Raccoon. This is not personal."
+ID_DIALOG_ROCKETRACCOON_EVENT_06_FAIL_0,"Ah crap, Groot's down!"
+ID_DIALOG_ROCKETRACCOON_EVENT_06_END_0,"That seems to be the last of Team ""Exterminate Groot."""
+ID_DIALOG_ROCKETRACCOON_EVENT_06_END_1,Now we can work on finding a cure.
+ID_DIALOG_ROCKETRACCOON_EVENT_06_END_2,Especially considering I'm probably infected now.
+ID_DIALOG_ROCKETRACCOON_EVENT_06_END_3,I am Groot.
+ID_DIALOG_ROCKETRACCOON_EVENT_07_INTRO_0,"This is A.I.M.'s formal requisition of the contaminated lifeform to study... "
+ID_DIALOG_ROCKETRACCOON_EVENT_07_INTRO_1," ...with the intent of weaponizing the fungus."
+ID_DIALOG_ROCKETRACCOON_EVENT_07_FAIL_0,"Groot, no!!!"
+ID_DIALOG_ROCKETRACCOON_EVENT_07_END_0,"Commander, A.I.M. took Groot!"
+ID_DIALOG_ROCKETRACCOON_EVENT_07_END_1,They're going to experiment on him to weaponize the fungus.
+ID_DIALOG_ROCKETRACCOON_EVENT_07_END_2,They. Are. Going. To. Pay.
+ID_DIALOG_ROCKETRACCOON_EVENT_08_INTRO_0,"Hand over Groot, techno-geek."
+ID_DIALOG_ROCKETRACCOON_EVENT_08_INTRO_1,"This disease is magnificent. Once we weaponize it, it will make A.I.M. billions."
+ID_DIALOG_ROCKETRACCOON_EVENT_08_INTRO_2,So that's a no?
+ID_DIALOG_ROCKETRACCOON_EVENT_08_INTRO_3,Affirmative.
+ID_DIALOG_ROCKETRACCOON_EVENT_08_INTRO_4,Wait. Now I'm confused. You ARE going to hand him over?
+ID_DIALOG_ROCKETRACCOON_EVENT_08_INTRO_5,"Screw it. I'm just going to shoot you. "
+ID_DIALOG_ROCKETRACCOON_EVENT_08_END_0,"Groot, did they hurt you?"
+ID_DIALOG_ROCKETRACCOON_EVENT_08_END_1,I am Groot.
+ID_DIALOG_ROCKETRACCOON_EVENT_08_END_2,"I mean, except for the fact that you still have an infectious, life-threatening fungus."
+ID_DIALOG_ROCKETRACCOON_EVENT_09_INTRO_0,"Hey Groot, I just accessed A.I.M.'s medical database."
+ID_DIALOG_ROCKETRACCOON_EVENT_09_INTRO_1,Seems like when they tried to weaponize this disease you got...
+ID_DIALOG_ROCKETRACCOON_EVENT_09_INTRO_2,...they also developed a cure as a fail-safe.
+ID_DIALOG_ROCKETRACCOON_EVENT_09_INTRO_3,What do you say we blast our way to the lab and steal the cure?
+ID_DIALOG_ROCKETRACCOON_EVENT_09_INTRO_4,I am Groot?
+ID_DIALOG_ROCKETRACCOON_EVENT_09_INTRO_5,"Forty-two, actually. Why do you ask?"
+ID_DIALOG_ROCKETRACCOON_EVENT_09_END_0,I am Groot.
+ID_DIALOG_ROCKETRACCOON_EVENT_09_END_1,"I guess we'll find out. Hopefully not too bad. "
+ID_DIALOG_ROCKETRACCOON_EVENT_10_INTRO_0,"Just hand over the vaccine, and we'll be on our way."
+ID_DIALOG_ROCKETRACCOON_EVENT_10_INTRO_1,"A.I.M. will profit greatly from the weaponization of this infection. "
+ID_DIALOG_ROCKETRACCOON_EVENT_10_INTRO_2,"Not if it means experimenting on my friend. "
+ID_DIALOG_ROCKETRACCOON_EVENT_10_INTRO_3,I am Groot.
+ID_DIALOG_ROCKETRACCOON_EVENT_10_INTRO_4,"I agree, Groot. Time for a different approach."
+ID_DIALOG_ROCKETRACCOON_EVENT_10_END_0,"OK, buddy. Looks like the antidote is working. "
+ID_DIALOG_ROCKETRACCOON_EVENT_10_END_1,You feel anything yet?
+ID_DIALOG_ROCKETRACCOON_EVENT_10_END_2,I am Groot?
+ID_DIALOG_ROCKETRACCOON_EVENT_10_END_3,Oh yeah... I'm gettin' dizzy... This stuff really works!
+ID_DIALOG_ROCKETRACCOON_EVENT_10_END_4,We better sleep this one off.
+ID_DIALOG_ROCKETRACCOON_EVENT_10_END_5,I'm sure everything will be fine by the morn--
+ID_DIALOG_ROCKETRACCOON_EVENT_10_END_6,I... am... Groot...
 ID_DIALOG_NUE_00_01_0,"Commander, I'm glad you're here. \nWe have a situation."
 ID_DIALOG_NUE_00_01_1,Interdimensional signatures are popping up all over New York City.
 ID_DIALOG_NUE_00_01_2,"As commander of S.T.R.I.K.E., interdimensional threats are your jurisdiction. "

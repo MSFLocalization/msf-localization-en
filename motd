@@ -11,6 +11,8 @@ ID_MOTD_NA_REDSTAR,Red Star Promotions
 ID_MOTD_DE_REDSTAR,Transform your roster into an elite squad with Red Star Promotions!
 ID_MOTD_NA_ISO8,You've unlocked Iso-8!
 ID_MOTD_DE_ISO8,Customize your characters like never before!
+ID_MOTD_NA_UC,Lorem Ipsum
+ID_MOTD_DE_UC,Lorem ipsum dolor sit amet
 ID_DR_MOTD_NA_WOLVERINE,Daily Objectives: Wolverine!
 ID_DR_MOTD_DE_WOLVERINE,Earn Wolverine shards by completing your Daily Objectives every day!
 ID_MOTD_NA_CROSSBONES,Recruit Crossbones!
@@ -20,7 +22,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 12PM (PST) (02/01).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PDT) (04/25).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -384,6 +386,8 @@ ID_MOTD_NA_BONUS_ISO_XP,XP Overdrive
 ID_MOTD_DE_BONUS_ISO_XP,Commander XP added to the Isotope-8 Campaign!
 ID_MOTD_NA_ABOMINATION,Gamma Obsessed: Now Live!
 ID_MOTD_DE_ABOMINATION,Battle for a chance to win Abomination shards
+ID_MOTD_NA_ABSORBINGMAN,Materialistic: Now Live!
+ID_MOTD_DE_ABSORBINGMAN,Battle for a chance to win Absorbing Man shards
 ID_MOTD_NA_AGATHAHARKNESS,Coven Leader: Now Live!
 ID_MOTD_DE_AGATHAHARKNESS,Battle for a chance to win Agatha Harkness shards
 ID_MOTD_NA_AGENTVENOM,Symbiote Soldier: Now Live!
@@ -545,6 +549,8 @@ ID_MOTD_NA_JESSICAJONES,Alias: Now Live!
 ID_MOTD_DE_JESSICAJONES,Battle for a chance to win JESSICA JONES shards
 ID_MOTD_NA_JUGGERNAUT,I'm the Juggernaut: Now Live!
 ID_MOTD_DE_JUGGERNAUT,Battle for a chance to win Juggernaut shards
+ID_MOTD_NA_KANGTHECONQUEROR,For All Time: Now Live!
+ID_MOTD_DE_KANGTHECONQUEROR,Battle for a chance to win Kang shards
 ID_MOTD_NA_KARNAK,The Shatterer: Now Live!
 ID_MOTD_DE_KARNAK,Battle for a chance to win Karnak shards
 ID_MOTD_NA_KATEBISHOP,Self Declared: Now Live!
@@ -599,6 +605,8 @@ ID_MOTD_NA_MOONDRAGON,Titanian Student: Now Live!
 ID_MOTD_DE_MOONDRAGON,Battle for a chance to win Moondragon shards
 ID_MOTD_NA_MOONKNIGHT,Second Chance: Now Live!
 ID_MOTD_DE_MOONKNIGHT,Battle for a chance to win Moon Knight shards
+ID_MOTD_NA_MOONSTONE,Gravitational Force: Now Live!
+ID_MOTD_DE_MOONSTONE,Battle for a chance to win Moonstone shards
 ID_MOTD_NA_MORBIUS,Blood Sucker: Now Live!
 ID_MOTD_DE_MORBIUS,Battle for a chance to win Morbius shards
 ID_MOTD_NA_MULTIPLEMAN,Seeing Double: Now Live!
@@ -1623,3 +1631,35 @@ ID_MOTD_NA_ABSORBINGMAN_ANNOUNCE,Ready to Fight: Absorbing Man
 ID_MOTD_DE_ABSORBINGMAN_ANNOUNCE,Crusher of Wills
 ID_MOTD_NA_ABSORBINGMAN_ANNOUNCE_VAR,Ready to Fight: Absorbing Man
 ID_MOTD_DE_ABSORBINGMAN_ANNOUNCE_VAR,Recruit him by opening Materialistic Orbs!
+ID_MOTD_NA_DESTRUCTIVEDIVA_ANNOUNCE,LIVE: Destructive Diva
+ID_MOTD_DE_DESTRUCTIVEDIVA_ANNOUNCE,Recruit Titania now by participating in February Events!
+ID_MOTD_NA_DESTRUCTIVEDIVA_ENDING,Ending Soon: Destructive Diva
+ID_MOTD_DE_DESTRUCTIVEDIVA_ENDING,Get Titania now before Destructive Diva ends!
+ID_MOTD_NA_TRIALOFSTRENGTH_ANNOUNCE,LIVE: Trial of Strength
+ID_MOTD_DE_TRIALOFSTRENGTH_ANNOUNCE,Open Gold Orbs to get a 7-Red Star Dormammu!
+ID_MOTD_NA_TRIALOFSTRENGTH_ENDING,Ending Soon: Trial of Strength
+ID_MOTD_DE_TRIALOFSTRENGTH_ENDING,Don't miss 7-Red Star Dormammu before Trial of Strength ends!
+ID_MOTD_NA_RAGEOFTHEPAST_ANNOUNCE,LIVE: Rage of the Past
+ID_MOTD_DE_RAGEOFTHEPAST_ANNOUNCE,Prepare for the War Scourge with Warlord Orbs!
+ID_MOTD_NA_RAGEOFTHEPAST_ENDING,Ending Soon: Rage of the Past
+ID_MOTD_DE_RAGEOFTHEPAST_ENDING,Get Warlord Orbs from Campaign before they disappear!
+ID_MOTD_NA_CRUSHEROFHEROES_ANNOUNCE,LIVE: Crusher of Heroes
+ID_MOTD_DE_CRUSHEROFHEROES_ANNOUNCE,Battle in War and Raids to unlock Absorbing Man!
+ID_MOTD_NA_CRUSHEROFHEROES_ENDING,Ending Soon: Crusher of Heroes
+ID_MOTD_DE_CRUSHEROFHEROES_ENDING,Recruit Absorbing Man before the Crusher of Heroes ends!
+ID_MOTD_NA_ATROCIOUSATTRACTION_ANNOUNCE,LIVE: Atrocious Attraction
+ID_MOTD_DE_ATROCIOUSATTRACTION_ANNOUNCE,Earn Valentine's Orbs from Blitz!
+ID_MOTD_NA_ATROCIOUSATTRACTION_ENDING,Ending Soon: Atrocious Attraction
+ID_MOTD_DE_ATROCIOUSATTRACTION_ENDING,Get your favorite Marvel duo from Atrocious Attraction!
+ID_MOTD_NA_GRANDTHEFTQUANTUM_ANNOUNCE,LIVE: Grand Theft Quantum
+ID_MOTD_DE_GRANDTHEFTQUANTUM_ANNOUNCE,Open Gold Orbs to get a 7-Red Star Ultron!
+ID_MOTD_NA_GRANDTHEFTQUANTUM_ENDING,Ending Soon: Grand Theft Quantum
+ID_MOTD_DE_GRANDTHEFTQUANTUM_ENDING,Don't miss 7-Red Star Ultron before Grand Theft Quantum ends!
+ID_MOTD_NA_DEBONAIRDEATH_ANNOUNCE,LIVE: Debonair Death
+ID_MOTD_DE_DEBONAIRDEATH_ANNOUNCE,Get Reaper Orbs from Campaign for the Death Scourge!
+ID_MOTD_NA_DEBONAIRDEATH_ENDING,Ending Soon: Debonair Death
+ID_MOTD_DE_DEBONAIRDEATH_ENDING,Collect Warlord Orbs from Campaign now!
+ID_MOTD_NA_HEWHOREMAINS_ANNOUNCE,LIVE: He Who Remains
+ID_MOTD_DE_HEWHOREMAINS_ANNOUNCE,Win Blitz to recruit Kang the Conqueror!
+ID_MOTD_NA_HEWHOREMAINS_ENDING,Ending Soon: He Who Remains
+ID_MOTD_DE_HEWHOREMAINS_ENDING,Get Kang before the He Who Remains Event ends!

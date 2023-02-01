@@ -1,6 +1,8 @@
 id,translation
 ID_SHARD_ABOMINATION_NAME,Abomination
 ID_SHARD_ABOMINATION_DESCRIPTION,"Transformed into a hideous monster by Gamma radiation, the Abomination uses his strength and spines to tear into enemies and shred their defenses."
+ID_SHARD_ABSORBINGMAN_NAME,Absorbing Man
+ID_SHARD_ABSORBINGMAN_DESCRIPTION,"Given the ability to absorb the properties of any material he touches, Absorbing Man takes and flips his allies negative status effects while stealing his enemy's positive status effects."
 ID_SHARD_ADAMWARLOCK_NAME,Adam Warlock
 ID_SHARD_ADAMWARLOCK_DESCRIPTION,"Guardian of the Soul Stone, Adam Warlock prevents his Infinity Watch allies' positive effects from being cleared or flipped."
 ID_SHARD_AGATHAHARKNESS_NAME,Agatha Harkness
@@ -26,7 +28,7 @@ ID_SHARD_ANTIVENOM_DESCRIPTION,"An altered Venom Symbiote turned Eddie Brock int
 ID_SHARD_ANTMAN_NAME,Ant-Man
 ID_SHARD_ANTMAN_DESCRIPTION,A master thief skilled at disabling powerful opponents with the help of his Pym Particle powered suit.
 ID_SHARD_APOCALYPSE_NAME,Apocalypse
-ID_SHARD_APOCALYPSE_DESCRIPTION,
+ID_SHARD_APOCALYPSE_DESCRIPTION,"The first mutant, En Sabah Nur, Apocalypse has arrived! With his incalculable power he destroys enemy defenses and grants Safeguard and Immunity to his allies."
 ID_SHARD_ARCHANGEL_NAME,Archangel
 ID_SHARD_ARCHANGEL_DESCRIPTION,"Formerly one of the five original X-Men, Angel was granted metal wings by Apocalypse and transformed into Archangel, the Horseman of Death."
 ID_SHARD_BARONMORDO_NAME,Mordo
@@ -211,6 +213,8 @@ ID_SHARD_JUBILEE_NAME,Jubilee
 ID_SHARD_JUBILEE_DESCRIPTION,"Half mallrat, half fireworks factory, Jubilee uses her explosive plasmoid powers to blind dweebs while her allies totally strike."
 ID_SHARD_JUGGERNAUT_NAME,Juggernaut
 ID_SHARD_JUGGERNAUT_DESCRIPTION,An unstoppable tank who taunts his foes and charges for devastating damage.
+ID_SHARD_KANGTHECONQUEROR_NAME,Kang the Conqueror
+ID_SHARD_KANGTHECONQUEROR_DESCRIPTION,"A time-traveling mastermind from the 30th century, Kang uses his futuristic arsenal to bypass Defense Up and further his ultimate goal of conquering time itself."
 ID_SHARD_KARNAK_NAME,Karnak
 ID_SHARD_KARNAK_DESCRIPTION,"An Inhuman Controller, Karnak uses his power to see his enemies' weakness to strike at them with surgical precision."
 ID_SHARD_KATEBISHOP_NAME,Kate Bishop
@@ -285,6 +289,8 @@ ID_SHARD_MOONDRAGON_NAME,Moondragon
 ID_SHARD_MOONDRAGON_DESCRIPTION,"Moondragon and her partner Phyla-Vell are key members of the Infinity Watch, with Moondragon providing psychic healing support."
 ID_SHARD_MOONKNIGHT_NAME,Moon Knight
 ID_SHARD_MOONKNIGHT_DESCRIPTION,"Returned to life by the god Khonshu, Moon Knight battles criminals and his own shattered psyche using random status effects."
+ID_SHARD_MOONSTONE_NAME,Moonstone
+ID_SHARD_MOONSTONE_DESCRIPTION,Moonstone is a manipulative hypnotist that uses energy blasts to apply Stun and Trauma to her opponents.
 ID_SHARD_MORBIUS_NAME,Morbius
 ID_SHARD_MORBIUS_DESCRIPTION,"A brilliant biochemist with an insatiable appetite for blood, Morbius uses his fangs and claws to expose enemy weaknesses, and heals himself with every attack."
 ID_SHARD_MORGANLEFAY_NAME,Morgan Le Fay

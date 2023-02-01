@@ -402,7 +402,7 @@ ID_OF_DE_MRNEGATIVE_OFFER_VAR_SHARD,"Get <color=#fff568>{var1} Mister Negative</
 ID_OF_NA_567_RED_STAR_DRAFT_SPIDERPUNK,5-7 Red Star Draft: Spider-Punk
 ID_OF_DE_567_RED_STAR_DRAFT_SPIDERPUNK,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Spider-Punk</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_GENERIC,5-7 Red Star Draft
-ID_OF_DE_567_RED_STAR_DRAFT_GENERIC,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for this <color=#fff568>character</color>. (Tap the icon for included members)"
+ID_OF_DE_567_RED_STAR_DRAFT_GENERIC,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for this <color=#fff568>character</color>. (Tap the icon for details)"
 ID_OF_NA_HELICARRIERCLASH_STARTER,Helicarrier Clash Starter Bundle
 ID_OF_DE_HELICARRIERCLASH_STARTER_VAR,Save <color=#fff568>over {var1}%</color> on <color=#fff568>{var2} Valhalla Orbs</color> and more which will gain you {var3} points in the <color=#fff568>Helicarrier Clash Milestone</color>. Starter offers are the best deal for points!
 ID_OF_NA_HELICARRIERCLASH_STARTER_SUPER,Helicarrier Clash Super Starter
@@ -1107,6 +1107,18 @@ ID_OF_NA_567_RSDRAFT_LDS_01,Red Star Draft: Lady Deathstrike
 ID_OF_DE_567_RSDRAFT_LDS_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) \n<color=#fff568>Lady Deathstrike.</color>"
 ID_OF_NA_567_RSDRAFT_SERSI_01,Red Star Draft: Sersi
 ID_OF_DE_567_RSDRAFT_SERSI_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) \n<color=#fff568>Sersi.</color>"
+ID_OF_NA_DESTRUCTIVEDIVA_STARTER,Destructive Diva Starter Bundle
+ID_OF_DE_DESTRUCTIVEDIVA_STARTER,"Get a head start on the <color=#fff568>Destructive Diva Milestone</color> with this high value offer! "
+ID_OF_NA_DESTRUCTIVEDIVA_CATCHUP,Destructive Diva Catch-up Bundle
+ID_OF_DE_DESTRUCTIVEDIVA_CATCHUP,Take advantage of this spectacular deal to get through the end of the <color=#fff568>Destructive Diva Milestone</color> and get your final rewards!
+ID_OF_NA_DESTRUCTIVEDIVA_MEGA,Destructive Diva Mega Bundle
+ID_OF_DE_DESTRUCTIVEDIVA_MEGA,Sled through the <color=#fff568>Destructive Diva event</color> with this ice-cold bundle and get valuable resources to power up your roster!
+ID_OF_NA_DESTRUCTIVEDIVA_FREECLAIM,Destructive Diva Booster
+ID_OF_DE_DESTRUCTIVEDIVA_FREECLAIM,Get your free bundle of Smartphone for progress in the <color=#fff568>Destructive Diva Milestone</color>. Check the website for these daily treats to finish the event!
+ID_OF_NA_DESTRUCTIVEDIVA_POINTS,Destructive Diva Media Storm
+ID_OF_DE_DESTRUCTIVEDIVA_POINTS,Purchase this high-value pack of Smartphone to punch through the competition in the <color=#fff568>Destructive Diva Leaderboards</color>!
+ID_OF_NA_DESTRUCTIVEDIVA_BUNDLE,Destructive Diva Bundle
+ID_OF_DE_DESTRUCTIVEDIVA_BUNDLE,Battle through the <color=#fff568>Destructive Diva Milestone</color> with this amazing bundle of resources!
 ID_OF_NA_COSTUME_LUNARNEWYEAR_TEAM,Year of the Rabbit Costume Dual Offer
 ID_OF_DE_COSTUME_LUNARNEWYEAR_TEAM,"Celebrate the Year of the Rabbit with this costume for <color=#EA4519>Brawn</color>, <color=#EA4519>Colleen Wing</color>, and <color=#EA4519>Shang-Chi</color>!"
 ID_OF_STOREBAR_COSTUME_LUNARNEWYEAR,Lunar New Year Costume Bundle Offer
@@ -1315,3 +1327,57 @@ ID_OF_NA_ABSORBINGMAN_WEB_FCO_OFFER2,Web Extra: Absorbing Man
 ID_OF_DE_ABSORBINGMAN_WEB_FCO_OFFER2,"A <color=#fff568>Web Special</color> additional chance for <color=#fff568>Absorbing Man</color> shards, which unlocks special release offers on your next visit! Crush Cosmic Crucible opponents with this <color=#fff568>Master of Evil</color> team member."
 ID_OF_NA_SYMBIOTESABOTAGE_LNY_COMBINED,Symbiote Festival
 ID_OF_DE_SYMBIOTESABOTAGE_LNY_COMBINED,Save big on this spectular deal to progress in both the <color=#fff568>Symbiote Sabotage</color> and <color=#fff568>Lunar Festival</color> milestones at once!
+ID_OF_NA_WEBSPECIAL_ENERGY1,Web Special: Energy Charge
+ID_OF_NA_WEBSPECIAL_ENERGY2,Web Special: Energy Bundle
+ID_OF_NA_WEBSPECIAL_ENERGY3,Web Special: Awesome Energy
+ID_OF_NA_WEBSPECIAL_ENERGY4,Web Special: Overwhelming Energy
+ID_OF_DE_WEBSPECIAL_ENERGY1,Grab this <color=#fff568>Web Special</color> pack of Campaign Energy to boost your progress to level 95!
+ID_OF_DE_WEBSPECIAL_ENERGY2,Bring your roster closer to level 95 with this <color=#fff568>Web Special</color> pack of Campaign Energy!
+ID_OF_DE_WEBSPECIAL_ENERGY3,Take advantage of this <color=#fff568>Web Special</color> to help you get to level 95 with this huge boost of Campaign Energy!
+ID_OF_DE_WEBSPECIAL_ENERGY4,Get supercharged with this <color=#fff568>Web Special</color> and hit level 95 to power up your roster for new Saga challenges!
+ID_OF_NA_LEVELCAP95_FREE_1,Level Up Launch Free Claim
+ID_OF_NA_LEVELCAP95_FREE_2,Energizing Free Claim
+ID_OF_NA_LEVELCAP95_FREE_3,Energy Emergency
+ID_OF_NA_LEVELCAP95_INTERSTITIAL_1,Level 95 Launch Celebration Offer
+ID_OF_NA_LEVELCAP95_INTERSTITIAL_2,Exclusive Energy Offer!
+ID_OF_NA_LEVELCAP95_INTERSTITIAL_3,DO NOT MISS: ENERGY TO LEVEL UP
+ID_OF_DE_LEVELCAP95_FREE_1,"Unlock new levels of excitement with our latest update! To celebrate the new maximum level cap increase, we're giving away <color=#ffda21>FREE</color> energy to all players on web. Claim your bonus energy now to power up your roster- don't miss out on this limited-time offer!"
+ID_OF_DE_LEVELCAP95_FREE_2,Rise to new challenges with our latest level cap increase! We're giving you <color=#ffda21>FREE</color> energy to support your goals. Take advantage of this limited-time offer and claim now to power up and conquer even more levels.
+ID_OF_DE_LEVELCAP95_FREE_3,Claim now to get free energy before this opportunity disappears! Take advantage of this free claim to catch up to the new maximum level!
+ID_OF_DE_LEVELCAP95_INTERSTITIAL_1,"Celebrate our new maximum level cap with this exclusive offer! The maximum level has been increased, and to celebrate, level up faster with our special offer. Don't miss out on this limited-time opportunity and experience the full potential of your roster!"
+ID_OF_DE_LEVELCAP95_INTERSTITIAL_2,Level up faster to reach the new maximum level with our energy packs! Use energy to help you reach new levels faster and easier. Don't miss out on this limited-time offer and purchase now to level up like never before!
+ID_OF_DE_LEVELCAP95_INTERSTITIAL_3,Accelerate your way to new levels with this energy pack! Don't miss out on this limited time opportunity to boost your progress!
+ID_OF_NA_TRIALOFSTRENGTH_STARTER,Trial of Strength Starter Bundle
+ID_OF_DE_TRIALOFSTRENGTH_STARTER,"Get a head start on the <color=#fff568>Trial of Strength Milestone</color> with this high value offer! "
+ID_OF_NA_TRIALOFSTRENGTH_CATCHUP,Trial of Strength Finisher Bundle
+ID_OF_DE_TRIALOFSTRENGTH_CATCHUP,Take advantage of this spectacular deal to get through the end of the <color=#fff568>Trial of Strength Milestone</color> and get your final rewards!
+ID_OF_NA_TRIALOFSTRENGTH_MEGA,Trial of Strength Mega Bundle
+ID_OF_DE_TRIALOFSTRENGTH_MEGA,Speed through the <color=#fff568>Trial of Strength event</color> with this epic bundle and get valuable resources to power up your roster!
+ID_OF_NA_TRIALOFSTRENGTH_FREECLAIM,Trial of Strength Booster
+ID_OF_DE_TRIALOFSTRENGTH_FREECLAIM,Get your free bundle of Event Points for progress in the <color=#fff568>Trial of Strength Milestone</color>. Check the website for these daily treats to finish the event!
+ID_OF_NA_TRIALOFSTRENGTH_BUNDLE,Trial of Strength Bundle
+ID_OF_DE_TRIALOFSTRENGTH_BUNDLE,Battle through the <color=#fff568>Trial of Strength Milestone</color> with this amazing bundle of resources!
+ID_OF_NA_COSMICCRUCIBLE_TANGLEDWEB_VAR,Cosmic Crucible: Tangled Web
+ID_OF_NA_COSMICCRUCIBLE_WAKANDANS_VAR,Cosmic Crucible: Wakandan
+ID_OF_DE_COSMICCRUCIBLE_TANGLEDWEB_VAR,Seal the fate of your opponents in <color=#1133cc>Cosmic Crucible</color> with this tangible <color=#1133cc>Tangled Web</color> character bundle! Slot <color=#1133cc>Tangled Web</color> characters in Creeping Spiders to upgrade your defenses for maximum effect!
+ID_OF_DE_COSMICCRUCIBLE_WAKANDANS_VAR,Yibambe! Hold your <color=#1133cc>Cosmic Crucible</color> defenses fast with this worthy <color=#1133cc>Wakandan</color> character pack! Slot <color=#1133cc>Wakandan</color> characters in Vibranium Tuning to devastate foes when they try to attack!
+ID_OF_NA_RAGEOFTHEPAST_STARTER,Rage of the Past Starter Bundle
+ID_OF_DE_RAGEOFTHEPAST_STARTER,Get a head start on the <color=#fff568>Rage of the Past Milestone</color> with this high value offer!
+ID_OF_NA_RAGEOFTHEPAST_CATCHUP,Rage of the Past Finisher Bundle
+ID_OF_DE_RAGEOFTHEPAST_CATCHUP,Take advantage of this spectacular deal to get through the end of the <color=#fff568>Rage of the Past Milestone</color> and get ready to smash the Red Hulk Scourge Event!
+ID_OF_NA_RAGEOFTHEPAST_MEGA,Rage of the Past Mega Bundle
+ID_OF_DE_RAGEOFTHEPAST_MEGA,Smash through the <color=#fff568>Rage of the Past event</color> with this epic bundle and get valuable resources to prepare for the Red Hulk Scourge Event!
+ID_OF_NA_RAGEOFTHEPAST_FREECLAIM,Rage of the Past Booster
+ID_OF_DE_RAGEOFTHEPAST_FREECLAIM,Get your free bundle for progress in the <color=#fff568>Rage of the Past Milestone</color>. Check the website for these daily free claims to finish the event!
+ID_OF_NA_RAGEOFTHEPAST_BUNDLE,Rage of the Past Bundle
+ID_OF_DE_RAGEOFTHEPAST_BUNDLE,Battle through the <color=#fff568>Rage of the Past Milestone</color> with this amazing bundle of resources!
+ID_OF_DE_CRUSHEROFHEROES_STARTER,Get a head start on the <color=#fff568>Crusher of Heroes Milestone</color> with this high value offer!
+ID_OF_NA_CRUSHEROFHEROES_CATCHUP,Crusher of Heroes Finisher Bundle
+ID_OF_DE_CRUSHEROFHEROES_CATCHUP,Take advantage of this spectacular deal to get through the end of the <color=#fff568>Crusher of Heroes Milestone</color> and unlock Absorbing Man!
+ID_OF_NA_CRUSHEROFHEROES_MEGA,Crusher of Heroes Mega Bundle
+ID_OF_DE_CRUSHEROFHEROES_MEGA,Demolish the <color=#fff568>Crusher of Heroes event</color> with this epic bundle and get the Masters of Evil Protector!
+ID_OF_NA_CRUSHEROFHEROES_FREECLAIM,Crusher of Heroes Booster
+ID_OF_DE_CRUSHEROFHEROES_FREECLAIM,Get your free bundle for progress in the <color=#fff568>Crusher of Heroes Milestone</color>. Check the website for these daily free claims to finish the event!
+ID_OF_NA_CRUSHEROFHEROES_BUNDLE,Crusher of Heroes Bundle
+ID_OF_DE_CRUSHEROFHEROES_BUNDLE,Battle through the <color=#fff568>Crusher of Heroes Milestone</color> with this amazing bundle of resources!
+ID_OF_DE_CRUSHEROFHEROES_HC,Purchase this pack of resources with Power Cores for the <color=#fff568>Crusher of Heroes Milestone</color>!

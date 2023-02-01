@@ -107,6 +107,26 @@ ID_MISSION_EVENT_SHOWCASE_DOOM_02_NAME,Doom vs. The Inhumans
 ID_MISSION_EVENT_SHOWCASE_DOOM_02_DESC,Doom proves that actions speak louder than words against the Inhumans.
 ID_MISSION_EVENT_SHOWCASE_DOOM_03_NAME,Doom vs. The Black Order
 ID_MISSION_EVENT_SHOWCASE_DOOM_03_DESC,A gauntlet and some gems are not enough to stop Victor von Doom.
+ID_MISSION_EVENT_ROCKETRACCOON_01_NAME,Where's Groot?
+ID_MISSION_EVENT_ROCKETRACCOON_01_DESC,Groot has gone missing. Help Rocket track down Groot's whereabouts.
+ID_MISSION_EVENT_ROCKETRACCOON_02_NAME,Robot vs. Raccoon
+ID_MISSION_EVENT_ROCKETRACCOON_02_DESC,Ultron has taken Groot and stands in Rocket's way. Take him out.
+ID_MISSION_EVENT_ROCKETRACCOON_03_NAME,Groot's Blight
+ID_MISSION_EVENT_ROCKETRACCOON_03_DESC,Rocket finds out that Groot is sick. Fight through Ultron's army to take him back.
+ID_MISSION_EVENT_ROCKETRACCOON_04_NAME,Threat to the Kree
+ID_MISSION_EVENT_ROCKETRACCOON_04_DESC,Protect Groot from Korath and the Kree.
+ID_MISSION_EVENT_ROCKETRACCOON_05_NAME,A Fungus Among Us
+ID_MISSION_EVENT_ROCKETRACCOON_05_DESC,Ronan and the Kree are determined to take out Groot to prevent an intergalactic outbreak.
+ID_MISSION_EVENT_ROCKETRACCOON_06_NAME,Nebula's Crew
+ID_MISSION_EVENT_ROCKETRACCOON_06_DESC,Nebula and her death squad arrive and will stop at nothing to eliminate Groot.
+ID_MISSION_EVENT_ROCKETRACCOON_07_NAME,A Cruel A.I.M.
+ID_MISSION_EVENT_ROCKETRACCOON_07_DESC,A.I.M. arrives and intends to take Groot so they can weaponize his fungus for their own purposes.
+ID_MISSION_EVENT_ROCKETRACCOON_08_NAME,A.I.M. in Space
+ID_MISSION_EVENT_ROCKETRACCOON_08_DESC,Scientist Supreme has taken Groot to her space station orbiting planet Klyntar. Save Groot before it's too late.
+ID_MISSION_EVENT_ROCKETRACCOON_09_NAME,The Cure
+ID_MISSION_EVENT_ROCKETRACCOON_09_DESC,"After getting Groot back, Rocket and the S.T.R.I.K.E. team must break into the A.I.M. lab housing the cure."
+ID_MISSION_EVENT_ROCKETRACCOON_10_NAME,Rocket's Rampage
+ID_MISSION_EVENT_ROCKETRACCOON_10_DESC,Help Rocket and Groot defeat Scientist Supreme once and for all and escape the space station!
 ID_MISSION_EVENT_THANOS_01_NAME,Clash of the Titans
 ID_MISSION_EVENT_THANOS_01_DESC,The S.T.R.I.K.E. team must attempt to lure Thanos out of New York City.
 ID_MISSION_EVENT_THANOS_02_NAME,Prison Break
@@ -2815,3 +2835,13 @@ ID_ECM_NEMESIS_08_NAME,Remnants of Resistance
 ID_ECM_NEMESIS_08_DESC,"More heroes defect to Apocalypse's side, but some still stand against him and Nemesis."
 ID_ECM_NEMESIS_09_NAME,The End is Nigh
 ID_ECM_NEMESIS_09_DESC,The last of the X-Men team face the facts... and Nemesis!
+ID_ECM_DEATH_01_NAME,Death Becomes Him
+ID_ECM_DEATH_01_DESC,Archangel wakes from his traumatic encounter with Apocalypse.
+ID_ECM_DEATH_02_NAME,Pariah
+ID_ECM_DEATH_02_DESC,Heroes across the multiverse recognize the threat the new Archangel poses.
+ID_ECM_DEATH_03_NAME,Seeds of Hope
+ID_ECM_DEATH_03_DESC,Dark Beast considers a risky solution.
+ID_ECM_DEATH_04_NAME,Dark Reception
+ID_ECM_DEATH_04_DESC,Dark Beast puts trust into the Death Seed
+ID_ECM_DEATH_05_NAME,Call of the Horsemen
+ID_ECM_DEATH_05_DESC,Rise of the Apocalypse.

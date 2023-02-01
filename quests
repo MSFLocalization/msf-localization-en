@@ -2272,6 +2272,27 @@ ID_QU_S1_WARINC,Play a War Battle
 ID_QU_S2_WARINC,Play a War Battle with Underworld
 ID_QU_S3_WARINC,Play a War Battle with Underworld at Gear Tier 13+
 ID_QU_S4_WARINC,Play a War Battle with Underworld at Gear Tier 15+
+ID_QU_NA_DESTRUCTIVEDIVA,Destructive Diva
+ID_QU_SD_DESTRUCTIVEDIVA,Participate in February Events
+ID_QU_LM_DESTRUCTIVEDIVA,Participate in various events throughout the month of February to earn milestone progress.
+ID_QU_S1_DESTRUCTIVEDIVA,Collect Smartphone
+ID_QU_S2_DESTRUCTIVEDIVA,Collect 1 Rival's Mask
+ID_QU_S3_DESTRUCTIVEDIVA,Collect 1 Beauty Belt
+ID_QU_S4_DESTRUCTIVEDIVA,Collect 1 Cosmetic Case
+ID_QU_S5_DESTRUCTIVEDIVA,Collect 1 Dominator's Boots
+ID_QU_S6_DESTRUCTIVEDIVA,Collect 1 Diva Necklace
+ID_QU_S7_DESTRUCTIVEDIVA,Collect 1 Crusher Gloves
+ID_QU_S8_DESTRUCTIVEDIVA,Collect 1 Killer Leather Jacket
+ID_QU_NA_TRIALOFSTRENGTH,Trial of Strength
+ID_QU_SD_TRIALOFSTRENGTH,Earn Raid Credits and Open Gold Orbs
+ID_QU_LM_TRIALOFSTRENGTH,Earn Raid Credits and Open Gold Orbs to earn milestone progress
+ID_QU_S1_TRIALOFSTRENGTH,Earn 1 Raid Credit
+ID_QU_S2_TRIALOFSTRENGTH,Open 1 Gold Orb
+ID_QU_NA_RAGEOFTHEPAST,Rage of the Past
+ID_QU_SD_RAGEOFTHEPAST,Earn Warlord Orb Fragments And Earn Blitz Credits
+ID_QU_LM_RAGEOFTHEPAST,Participate in various events throughout the month of February to earn milestone progress.
+ID_QU_S1_RAGEOFTHEPAST,Earn 1 Warlord Orb Fragment
+ID_QU_S2_RAGEOFTHEPAST,Earn 1 Blitz Credit
 ID_QU_NA_WOMANOUTOFTIME,Woman Out of Time
 ID_QU_SD_WOMANOUTOFTIME,Open Event Orbs
 ID_QU_LD_WOMANOUTOFTIME,"Use Gold to open event orbs in the Woman Out of Time Event Store and collect points from the British Invasion and Wield the Shield milestone rewards. \n\nEarn Captain Carter shards, the Bulletproof Uniform, T2 Level 5 Ions and more!"
@@ -2337,3 +2358,42 @@ ID_QU_SM_LUNARFESTIVAL2023,Spend Campaign Energy and Earn Alliance Credits
 ID_QU_SC_LUNARFESTIVAL2023,Spend Campaign Energy and Earn Alliance Credits
 ID_QU_S1_LUNARFESTIVAL2023,Spend 1 Campaign Energy
 ID_QU_S2_LUNARFESTIVAL2023,Earn 1 Alliance Credit
+ID_QU_NA_SPLASH_STYLISHSUBTERFUGE,Stylish Subterfuge
+ID_QU_SD_SPLASH_STYLISHSUBTERFUGE,Use Secret Avenger in Blitz
+ID_QU_LM_SPLASH_STYLISHSUBTERFUGE,Earn points by using Secret Avenger characters in Blitz Battles. Earn more points if your Secret Avenger characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_STYLISHSUBTERFUGE,Use Secret Avenger Characters in Blitz
+ID_QU_S1_SPLASH_STYLISHSUBTERFUGE,Win Blitz with 3-star or higher Secret Avenger Character
+ID_QU_S2_SPLASH_STYLISHSUBTERFUGE,Win Blitz with 5-star or higher Secret Avenger Character
+ID_QU_S3_SPLASH_STYLISHSUBTERFUGE,Win Blitz with 7-star Secret Avenger Character
+ID_QU_NA_SPLASH_FEROCIOUSFLAIR,Ferocious Flair
+ID_QU_SD_SPLASH_FEROCIOUSFLAIR,Use War Dogs in Blitz
+ID_QU_LM_SPLASH_FEROCIOUSFLAIR,Earn points by using War Dogs characters in Blitz Battles. Earn more points if your War Dogs characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_FEROCIOUSFLAIR,Use War Dogs Characters in Blitz
+ID_QU_S1_SPLASH_FEROCIOUSFLAIR,Win Blitz with 3-star or higher War Dogs Character
+ID_QU_S2_SPLASH_FEROCIOUSFLAIR,Win Blitz with 5-star or higher War Dogs Character
+ID_QU_S3_SPLASH_FEROCIOUSFLAIR,Win Blitz with 7-star War Dogs Character
+ID_QU_NA_SPLASH_QUANTUMQUAKE,Quantum Quake
+ID_QU_SD_SPLASH_QUANTUMQUAKE,Use Pym Tech in Blitz
+ID_QU_LM_SPLASH_QUANTUMQUAKE,Earn points by using Pym Tech characters in Blitz Battles. Earn more points if your Pym Tech characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_QUANTUMQUAKE,Use Pym Tech Characters in Blitz
+ID_QU_S1_SPLASH_QUANTUMQUAKE,Win Blitz with 3-star or higher Pym Tech Character
+ID_QU_S2_SPLASH_QUANTUMQUAKE,Win Blitz with 5-star or higher Pym Tech Character
+ID_QU_S3_SPLASH_QUANTUMQUAKE,Win Blitz with 7-star Pym Tech Character
+ID_QU_NA_SPLASH_COSMICCORSAIRS,Cosmic Corsairs
+ID_QU_SD_SPLASH_COSMICCORSAIRS,Use Ravager in Blitz
+ID_QU_LM_SPLASH_COSMICCORSAIRS,Earn points by using Ravager characters in Blitz Battles. Earn more points if your Ravager characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_COSMICCORSAIRS,Use Ravager Characters in Blitz
+ID_QU_S1_SPLASH_COSMICCORSAIRS,Win Blitz with 3-star or higher Ravager Character
+ID_QU_S2_SPLASH_COSMICCORSAIRS,Win Blitz with 5-star or higher Ravager Character
+ID_QU_S3_SPLASH_COSMICCORSAIRS,Win Blitz with 7-star Ravager Character
+ID_QU_NA_FEBRUARY_ALLIANCE2023,Coordinated Assault
+ID_QU_NA_CRUSHEROFHEROES,Crusher of Heroes
+ID_QU_SD_CRUSHEROFHEROES,Battle in War and Raids and Spend Power Cores
+ID_QU_LM_CRUSHEROFHEROES,Spend Power Cores and play War and Raids to earn milestone progress
+ID_QU_S1_CRUSHEROFHEROES,Play 1 Raid Battle
+ID_QU_S2_CRUSHEROFHEROES,Play 1 War Battle
+ID_QU_S3_CRUSHEROFHEROES,Spend 1 Power Core
+ID_QU_NA_ATROCIOUSATTRACTION,Atrocious Attraction
+ID_QU_SD_ATROCIOUSATTRACTION,Earn Valentine's Orb Fragments
+ID_QU_LM_ATROCIOUSATTRACTION,Battle in Blitz to earn Valentine's Orbs for milestone progress
+ID_QU_S1_ATROCIOUSATTRACTION,Earn 1 Valentine's Orb Fragment
