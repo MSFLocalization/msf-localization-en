@@ -1581,6 +1581,10 @@ ID_TU_AM_WA_06_NAME,Furious Swarm
 ID_TU_AM_WA_06_DESC,"Requires Ant-Man and Wasp at 6+ Stars.\n\nRecommended for level 64+, Gear Tier 11+, Level 6+ Abilities.\n\nAnt-Man and Wasp sneak into a secret facility underneath the tiny Pentagon, which is protected by a squad of Nick Fury LMDs."
 ID_TU_AM_WA_07_NAME,The Queen
 ID_TU_AM_WA_07_DESC,"Requires Ant-Man and Wasp at 7 Stars.\n\nRecommended for level 65+, Gear Tier 12+, Level 6+ Abilities.\n\nWasp must face her nemesis, an evil doppelganger secretly running the planet for Ultimus, in order to save the planet once and for all."
+ID_TU_AM_WA_08_NAME,Flight of the Yellowjacket
+ID_TU_AM_WA_08_DESC,"Requires Ant-Man and Wasp at 7 Stars and Level 75.\n\n Recommended for level 75+, 4+ Red Stars, Gear Tier 13+, Level 6+ Abilities, 25%+ Stark Tech bonuses, and Level 5 Green Iso-8.\n\nAfter a failed attempt to leave Tiny World, Ant-Man and Wasp's suits are damaged and can only be fixed with parts from an old enemy's tech horde."
+ID_TU_AM_WA_09_NAME,Fee-fi-fo-fum
+ID_TU_AM_WA_09_DESC,"Requires Ant-Man and Wasp at 7 Stars and Level 85.\n\n Recommended for level 85+, 4+ Red Stars, Gear Tier 15+, Level 7 Abilities, 25%+ Stark Tech bonuses, and Level 1 Blue Iso-8.\n\n Can anyone help Ant-Man and Wasp when a new enemy rises and threatens to keep them on Tiny World?"
 ID_TU_RR_GR_01_NAME,Steal the Steel
 ID_TU_RR_GR_01_DESC,"Requires Rocket Raccoon and Groot at 3+ Stars.\n\nRecommended for level 25+, Gear Tier 5+, Level 2+ Abilities.\n\nRocket & Groot begin their quest to steal a bunch of items from corrupted forces. First stop, Nobu's stronghold. Cool sword."
 ID_TU_RR_GR_02_NAME,That's a Nice Helmet
@@ -1597,6 +1601,14 @@ ID_TU_RR_GR_06_NAME,Mischief and Miscreants
 ID_TU_RR_GR_06_DESC,"Requires Rocket Raccoon and Groot at 6+ Stars.\n\nRecommended for level 63+, Gear Tier 11+, Level 6+ Abilities.\n\nNo more messing around. I'm gonna take that staff off of Loki. He's meeting with Ronan right now, perfect time to grab it!"
 ID_TU_RR_GR_07_NAME,Patch Notes
 ID_TU_RR_GR_07_DESC,"Requires Rocket Raccoon and Groot at 7 Stars.\n\nRecommended for level 65+, Gear Tier 11+, Level 6+ Abilities.\n\nI am Groot. I am Groot, I am Groot. I am Groot, I am GROOT! I am Groot."
+ID_TU_RR_GR_08_NAME,Sticky Fingers
+ID_TU_RR_GR_08_DESC,"Requires Rocket Raccoon and Groot at 7 Stars and Level 75.\n\nRecommended for level 75+, 4+ Red Stars, Gear Tier 13+, Level 6+ Abilities, 25%+ Stark Tech bonuses, and Level 5 Green Iso-8.\n\n Rocket and Groot find themselves on the run after taking something special from Doctor Doom."
+ID_TU_RR_GR_09_NAME,The Long Game
+ID_TU_RR_GR_09_DESC,"Requires Rocket Raccoon and Groot at 7 Stars and Level 85.\n\nRecommended for level 85+, 4+ Red Stars, Gear Tier 15+, Level 7 Abilities, 25%+ Stark Tech bonuses, and Level 1 Blue Iso-8. \n\n Rocket and Groot face off with old friends to keep their haul and make it to payday."
+ID_TU_AM_WA_RR_GR_06_NAME,Out of the Frying Pan
+ID_TU_AM_WA_RR_GR_06_DESC,"Requires Ant-Man, Wasp, Rocket Raccoon, and Groot at 6+ Stars and Level 75.\n\nRecommended for level 75+, 4+ Red Stars, Gear Tier 14+, Level 6+ Abilities, 25%+ Stark Tech bonuses, and Level 5 Green Iso-8.\n\n Rocket Raccoon and Groot make a surprising return to Tiny World!"
+ID_TU_AM_WA_RR_GR_07_NAME,Into the Fire
+ID_TU_AM_WA_RR_GR_07_DESC,"Requires Ant-Man, Wasp, Rocket Raccoon, and Groot at 7 Stars and Level 85.\n\nRecommended for level 85+, 4+ Red Stars, Gear Tier 14+, Level 7 Abilities, 25%+ Stark Tech bonuses, and Level 1 Blue Iso-8.\n\n Hunted for helping the resistance, the group has their backs against a wall, and escape seems impossible."
 ID_TU_SW_MM_01_NAME,Scientific Hypothesis
 ID_TU_SW_MM_01_DESC,"Requires Scarlet Witch and Ms. Marvel at 3+ Stars.\n\nRecommended for level 25+, Gear Tier 5+, Level 2+ Abilities.\n\nMs. Marvel and Scarlet Witch seek answers from Scientist Supreme in hopes of finding a way to unbind the M'Kraan Crystal from Kamala."
 ID_TU_SW_MM_02_NAME,Yarrr!

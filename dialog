@@ -12563,6 +12563,28 @@ ID_DIALOG_TU_AM_WA_07_END_2,That would have been super bad.
 ID_DIALOG_TU_AM_WA_07_END_3,Ready to return home?
 ID_DIALOG_TU_AM_WA_07_END_4,Let's do it.
 ID_DIALOG_TU_AM_WA_07_END_5,"So long, Tiny World. It's been real."
+ID_DIALOG_TU_AM_WA_08_INTRO_0,"Scott, where are we?"
+ID_DIALOG_TU_AM_WA_08_INTRO_1,It looks like Scientist Supreme's experiment damaged our suits.
+ID_DIALOG_TU_AM_WA_08_INTRO_2,"Pft, that's SCIENCE for you."
+ID_DIALOG_TU_AM_WA_08_INTRO_3,"This is inconvenient, but I have some intel that might help us."
+ID_DIALOG_TU_AM_WA_08_START_0,You're in over your heads!
+ID_DIALOG_TU_AM_WA_08_START_1,Can I have ONE heist that goes as planned?
+ID_DIALOG_TU_AM_WA_08_END_0,Yellowjacket in any universe is a pain in the neck.
+ID_DIALOG_TU_AM_WA_08_END_1,"The good news is that our suits are repaired, and we'll be able to get out of here."
+ID_DIALOG_TU_AM_WA_08_END_2,That sounds like there's also bad news.
+ID_DIALOG_TU_AM_WA_08_END_3,There is: \n We're being followed.
+ID_DIALOG_TU_AM_WA_09_INTRO_0,I think we lost them.
+ID_DIALOG_TU_AM_WA_09_INTRO_1,I don't think they'll give up that easily.
+ID_DIALOG_TU_AM_WA_09_INTRO_2,We've been running for a while...
+ID_DIALOG_TU_AM_WA_09_INTRO_3,"And still, you have not outrun me."
+ID_DIALOG_TU_AM_WA_09_START_0,"Hope, you better get out of here!"
+ID_DIALOG_TU_AM_WA_09_START_1,"I'm NOT leaving you, Scott!"
+ID_DIALOG_TU_AM_WA_09_MID_0,"Give me back my parents, you giant blueberry!"
+ID_DIALOG_TU_AM_WA_09_END_0,"Cassie, what are you doing here?!"
+ID_DIALOG_TU_AM_WA_09_END_1,Quake called me when you two took longer than expected.
+ID_DIALOG_TU_AM_WA_09_END_2,And you came alone?!
+ID_DIALOG_TU_AM_WA_09_END_3,"As much as I LOVE getting scolded, we should leave before he wakes up."
+ID_DIALOG_TU_AM_WA_09_END_4,Good point. I'll let it slide this time!
 ID_DIALOG_TU_SW_MM_01_INTRO_0,Ready to get that M'Kraan Crystal off of you?
 ID_DIALOG_TU_SW_MM_01_INTRO_1,"YES PLEASE. "
 ID_DIALOG_TU_SW_MM_01_INTRO_2,"Polymorphing it off doesn't work, and NOW it's starting to itch. Ugh."
@@ -12873,6 +12895,27 @@ ID_DIALOG_TU_AM_WA_RR_GR_01_END_4," ..."
 ID_DIALOG_TU_AM_WA_RR_GR_01_END_5,"Wasp, it's time for us to go big and go home. "
 ID_DIALOG_TU_AM_WA_RR_GR_01_END_6,"We'll keep fighting the good fight here at home. Go get 'em, big guy."
 ID_DIALOG_TU_AM_WA_RR_GR_01_END_7,"You hear that, Groot?\nShe called me ""big guy!"""
+ID_DIALOG_TU_AM_WA_RR_GR_02_INTRO_0,This little gadget will send a message right to them! Now to fire it up.
+ID_DIALOG_TU_AM_WA_RR_GR_02_INTRO_1,I am Groot.
+ID_DIALOG_TU_AM_WA_RR_GR_02_INTRO_2,"Do NOT tell me we're back in Tiny World. \n\n And I don't want to hear, ""I told you so,"" either!"
+ID_DIALOG_TU_AM_WA_RR_GR_02_INTRO_3,Why did you both come back? We need to get out of here!
+ID_DIALOG_TU_AM_WA_RR_GR_02_INTRO_4,"Too late, Hope. Kang's lackeys are on us!"
+ID_DIALOG_TU_AM_WA_RR_GR_02_START_0,You'll never guess what we found at Doom's place.
+ID_DIALOG_TU_AM_WA_RR_GR_02_START_1,Can we talk about it AFTER we're done being attacked?
+ID_DIALOG_TU_AM_WA_RR_GR_02_END_0,"Like I was saying, Doom had a stash of Pym Particles, and I swiped them."
+ID_DIALOG_TU_AM_WA_RR_GR_02_END_1,"Rocket, that's fantastic news!"
+ID_DIALOG_TU_AM_WA_RR_GR_02_END_2,We used the last of our Pym Particles to get our daughter out of here after our last fight.
+ID_DIALOG_TU_AM_WA_RR_GR_02_END_3,I am Groot.
+ID_DIALOG_TU_AM_WA_RR_GR_02_END_4,I know... There goes our payday.
+ID_DIALOG_TU_AM_WA_RR_GR_03_INTRO_0,Just take the Particles already. I need to forget about all the cash we lost on this deal.
+ID_DIALOG_TU_AM_WA_RR_GR_03_INTRO_1,I know how that feels.
+ID_DIALOG_TU_AM_WA_RR_GR_03_INTRO_2,This will be more than enough for us to get back home. You saved us!
+ID_DIALOG_TU_AM_WA_RR_GR_03_INTRO_3,"Oh, I wouldn't say that just yet."
+ID_DIALOG_TU_AM_WA_RR_GR_03_START_0,The resistance ends with you!
+ID_DIALOG_TU_AM_WA_RR_GR_03_END_0,How are you both going to get back?
+ID_DIALOG_TU_AM_WA_RR_GR_03_END_1,I am Groot.
+ID_DIALOG_TU_AM_WA_RR_GR_03_END_2,We got in here with this... thing. I'm pretty sure it can get us out.
+ID_DIALOG_TU_AM_WA_RR_GR_03_END_3,"How about we all blow this joint, then?"
 ID_DIALOG_TU_RR_GR_06_INTRO_0,I am Groot...
 ID_DIALOG_TU_RR_GR_06_INTRO_1,"Yeah, Scientist Supreme is a few tritium crystals short of a star drive. On the bright side..."
 ID_DIALOG_TU_RR_GR_06_INTRO_2,I have a laser sword. I actually. Have. A laser sword.
@@ -12911,6 +12954,24 @@ ID_DIALOG_TU_RR_GR_07_END_9,"Thank you for your generosity,\nMr. Doctor Doom. Le
 ID_DIALOG_TU_RR_GR_07_END_10,I am Groot?
 ID_DIALOG_TU_RR_GR_07_END_11,"You think we should make a copy of Doom's transdimensional map while we're in there? Sure, why not."
 ID_DIALOG_TU_RR_GR_07_END_12,And I am definitely taking AT LEAST\na dozen samophlanges...
+ID_DIALOG_TU_RR_GR_08_INTRO_0,I am Groot.
+ID_DIALOG_TU_RR_GR_08_INTRO_1,"Yeah, it was pretty dumb of Doom to leave us alone in his vault."
+ID_DIALOG_TU_RR_GR_08_INTRO_2,"Apologies, my friends, but the bounties Doom placed on your heads are too great for the Ravagers to ignore."
+ID_DIALOG_TU_RR_GR_08_INTRO_3,I hope we have enough firepower for this fight.
+ID_DIALOG_TU_RR_GR_08_INTRO_4,I am Groot!
+ID_DIALOG_TU_RR_GR_08_END_0,I am Groot?
+ID_DIALOG_TU_RR_GR_08_END_1,Don't look at me! I only took the samophlanges.
+ID_DIALOG_TU_RR_GR_08_END_2,I am Groot.
+ID_DIALOG_TU_RR_GR_08_END_3,Okay. Maybe I also liberated Doom's stash of Pym Particles.
+ID_DIALOG_TU_RR_GR_09_INTRO_0,I am Groot.
+ID_DIALOG_TU_RR_GR_09_INTRO_1,I haven't gone soft! Ant-Man and Wasp would pay to keep these out of Doom's hands.
+ID_DIALOG_TU_RR_GR_09_INTRO_2,You both need to come with us. Now.
+ID_DIALOG_TU_RR_GR_09_INTRO_3,How do these wackos keep finding us?
+ID_DIALOG_TU_RR_GR_09_START_0,"Gamora, don't tell me this joker made you into a soulless flunky."
+ID_DIALOG_TU_RR_GR_09_END_0,"Now that they're out of our hair, we need to figure out how to signal Ant-man and Wasp in Tiny World."
+ID_DIALOG_TU_RR_GR_09_END_1,I am Groot.
+ID_DIALOG_TU_RR_GR_09_END_2,"Jeeze, have a little faith in me!"
+ID_DIALOG_TU_RR_GR_09_END_3,"All I need to do is get ahold of some spare parts, and they'll be here in no time."
 ID_DIALOG_FLASH_WAKANDA_01_INTRO_0,"While S.T.R.I.K.E. was on Hala battling Ultimus, Doctor Doom sealed off the Nexus Reality, claiming Earth for his own."
 ID_DIALOG_FLASH_WAKANDA_01_INTRO_1,"From his base on a stolen warship, Nick Fury deploys S.T.R.I.K.E. to search for technology that will help them return home…."
 ID_DIALOG_FLASH_WAKANDA_01_INTRO_2,There is a nearby universe that is ruled by Ultron. He's harnessing an energy I've never seen. We could possibly use it to get back home.
