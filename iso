@@ -650,3 +650,7 @@ ID_GAMEMODE_CAMPAIGN_ISO8_NAME,ISOTOPE-8
 ID_GAMEMODE_CAMPAIGN_ISO8_DESC,Assemble a team of characters to find Iso-8 Crystals.
 ID_CAMPAIGN_TYPE_ISO8,"ISOTOPE-8  "
 ID_ISO8_COMBAT_TOOLTIP_HEADER,{class} <color=yellow>T{tier}</color> LEVEL <color=yellow>{level}</color>
+ID_GACHA_CRATE_ISO8_T2_L145_NAME,T2 Iso-8 Ion Orb
+ID_GACHA_CRATE_ISO8_T2_L145_DESCRIPTION,Contains T2 Iso-8 Ions
+ID_GACHA_CRATE_ISO8_T2_L145_TOKEN_NAME,T2 Iso-8 Ion Orb Fragments
+ID_GACHA_CRATE_ISO8_T2_L145_TOKEN_DESCRIPTION,Collect T2 Iso-8 Ion Orb Fragments to earn a T2 Iso-8 Ion Orb

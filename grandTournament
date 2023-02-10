@@ -64,7 +64,7 @@ ID_GT_ROOM1_RULES_DESC,This Stage has no Rules aside from the Global Rule.
 ID_GT_ROOM2_RULES_NAME,Standard Rules
 ID_GT_ROOM2_RULES_DESC,This Stage has no Rules aside from the Global Rule.
 ID_GT_ROOM3_RULES_NAME,Portable Shield Device
-ID_GT_ROOM3_RULES_DESC,"On Defense, any <color=#9055FF>FORTIFER</color> that uses an Ultimate Ability, spreads all Positive Effects to Adjacent Allies. \nOn any <color=#9055FF>STRIKERS</color> turn, Barrier that character for +<color=#86e619>5%</color> of that characters Max Health Barrier and flip <color=#fff568>Offense Down</color>."
+ID_GT_ROOM3_RULES_DESC,"On Defense, any <color=#9055FF>FORTIFER</color> that uses an Ultimate Ability, spreads all Positive Effects to Adjacent Allies. \nOn any <color=#9055FF>STRIKERS</color> turn, Barrier that character for +<color=#86e619>5%</color> of that characters Max Health and flip <color=#fff568>Offense Down</color>."
 ID_GT_ROOM4_RULES_NAME,Resurrection Protocols
 ID_GT_ROOM4_RULES_DESC,"On Spawn, <color=#fff568>HERO MUTANTS</color> gain <color=#fff568>Revive Once</color> and <color=#fff568>Immunity</color>."
 ID_GT_ROOM5_RULES_NAME,Creeping Spiders
