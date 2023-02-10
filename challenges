@@ -457,6 +457,11 @@ ID_ECM_NAME_A,Hard
 ID_ECM_NAME_B,Medium
 ID_ECM_NAME_C,Easy
 ID_ECM_NAME_H,Heroic
+ID_ECM_NAME_Q,Quantum
+ID_ECM_NAME_TD,Test Drive
+ID_ECM_NAME_CH,Challenge
+ID_ECM_NAME_S,Story
+ID_ECM_NAME_E,Epic
 ID_ECM_ANTMAN_NAME,I am the Ant-Man
 ID_ECM_ANTMAN_DESC,Ant-Man must wield Pym tech and his wits to foil a new threat from Ultimus and corrupted Vision.
 ID_ECM_CHANCE_ANTMAN,Earn Ant-Man Shards
@@ -906,6 +911,14 @@ ID_ECM_NEMESIS_DESC_C,"Recommendations:\n- Squad Lvl 35+\n- Gear Tier 6+\n- Abil
 ID_ECM_NEMESIS_MB,"Sent by Apocalypse to rid the planet of lesser beings, Nemesis is meticulous when laying waste to humans and their allies."
 ID_ECM_NEMESIS_MC,GO!
 ID_ECM_NEMESIS_MT,The Harbinger of the End event has started!
+ID_ECM_KANG_DESC_B,Recommendations:\n- Squad Lvl 85+\n- Gear Tier 15+\n- Ability Lvl 6+\n\nAn experiment gone wrong has unleashed multiple Kangs from across the multiverse upon Nexus. Join forces with Kang and stop his variants!
+ID_ECM_KANG_DESC_A,Recommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n- Ability Lvl 5+\n\nAn experiment gone wrong has unleashed multiple Kangs from across the multiverse upon Nexus. Join forces with Kang and stop his variants!
+ID_ECM_KANG_NAME,Kang Hunt
+ID_ECM_KANG_DESC,"An experiment gone wrong has unleashed multiple Kangs from across the multiverse upon Nexus. Join forces with Kang and stop his variants!\n\nSome missions require Kang, or Kang and Absorbing Man and Titania.\n\nAll missions count as if they were Cosmic Crucible,"
+ID_ECM_KANG_DESC_C,Experience the full power of the Masters of Evil!\n\nBattle different enemy teams with a Masters of Evil team and learn why Kang Conquers Crucible!\n\nThese missions have no rewards and are just for fun.
+ID_ECM_TESTDRIVE_MOE,Try the Masters of Evil!
+ID_ECM_KANG_HARD_FLAVOR,Stop Kang Variants!
+ID_ECM_KANG_HEROIC_FLAVOR,Get Amazing Rewards!
 ID_TU_AM_WA_NAME,Back to Tiny World
 ID_TU_AM_WA_DESC,"After receiving a distress call from resistance forces, Ant-Man and Wasp must enter the tiny dimension to help liberate Earth from its overlords."
 ID_TU_AM_WA_CHANCE,Earn amazing rewards!
