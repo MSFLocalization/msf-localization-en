@@ -10019,6 +10019,17 @@ ID_DIALOG_ECM_DEATH_05_END_3,"And Dark Beast, you old fool. I have spent years m
 ID_DIALOG_ECM_DEATH_05_END_4,Did you think your little science experiment could undo MY creation?
 ID_DIALOG_ECM_DEATH_05_END_5,"I am DEATH. And I am ready to serve, Apocalypse!"
 ID_DIALOG_ECM_DEATH_05_END_6,We have work to do.
+ID_DIALOG_ECM_KANG_01_START_0,"Hey, is this thing on? S.T.R.I.K.E. Commander, are you reading me?"
+ID_DIALOG_ECM_KANG_01_START_1,"Oh, hey. Yeah, so... we might have a tiny problem. And by tiny, I mean huge, and by problem, I mean PROBLEM."
+ID_DIALOG_ECM_KANG_01_START_2,"So, we were running this experiment right, and..."
+ID_DIALOG_ECM_KANG_01_START_3,Dad! Get to the point!
+ID_DIALOG_ECM_KANG_01_START_4,"Oh, yeah, sorry. So have you ever heard of Kang? Tall guy, loves purple. Penchant for Conquering. Ringing any bells?"
+ID_DIALOG_ECM_KANG_01_START_5,"Well, we kinda... unleashed a whole bunch of Multiversal variants of him."
+ID_DIALOG_ECM_KANG_01_START_6,"I asked around, and it sounds like dealing with that sort of thing is your job, Commander."
+ID_DIALOG_ECM_KANG_01_START_7,"If you could do something about all these Kangs... this 'Kangtastrophe' if you will, that would be great."
+ID_DIALOG_ECM_KANG_01_START_8,We'll send you all the info we have. Good luck! Thanks! So great to have you on the team...
+ID_DIALOG_ECM_KANG_01_START_9,DAD!
+ID_DIALOG_ECM_KANG_01_START_10,"Yep! Info, we'll send it. Good luck and all that."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.

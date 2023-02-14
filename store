@@ -5453,10 +5453,10 @@ ID_OF_DE_ENERGY_OFFER_50,Advance in your campaigns and earn more character shard
 ID_OF_DE_ENERGY_OFFER_2_30,"Advance in your campaigns, Raids, and Blitz battles with this amazing Energy bundle! Save <color=#fff568>over 30%</color> off when you buy now!"
 ID_OF_DE_ENERGY_OFFER_2_60,"Advance in your campaigns, Raids, and Blitz battles with this amazing Energy bundle! Save <color=#fff568>over 60%</color> off when you buy now!"
 ID_OF_NA_ROCKET_OFFER_1,Ace Tactician Offer
-ID_OF_DE_ROCKET_OFFER_125,Add the most lethal Blaster in the galaxy to your Cosmic team. Get <color=#fff568>125 Rocket Racoon shards</color> to boost your Tech allies and attack multiple opponents for tons of damage.
-ID_OF_DE_ROCKET_OFFER_75,Add the most lethal Blaster in the galaxy to your Cosmic team. Get <color=#fff568>75 Rocket Racoon shards</color> to boost your Tech allies and attack multiple opponents for tons of damage.
-ID_OF_DE_ROCKET_OFFER_55,Add the most lethal Blaster in the galaxy to your Cosmic team. Get <color=#fff568>55 Rocket Racoon shards</color> to boost your Tech allies and attack multiple opponents for tons of damage.
-ID_OF_DE_ROCKET_OFFER_50,Add the most lethal Blaster in the galaxy to your Cosmic team. Get <color=#fff568>50 Rocket Racoon shards</color> to boost your Tech allies and attack multiple opponents for tons of damage.
+ID_OF_DE_ROCKET_OFFER_125,Add the most lethal Blaster in the galaxy to your Cosmic team. Get <color=#fff568>125 Rocket Raccoon shards</color> to boost your Tech allies and attack multiple opponents for tons of damage.
+ID_OF_DE_ROCKET_OFFER_75,Add the most lethal Blaster in the galaxy to your Cosmic team. Get <color=#fff568>75 Rocket Raccoon shards</color> to boost your Tech allies and attack multiple opponents for tons of damage.
+ID_OF_DE_ROCKET_OFFER_55,Add the most lethal Blaster in the galaxy to your Cosmic team. Get <color=#fff568>55 Rocket Raccoon shards</color> to boost your Tech allies and attack multiple opponents for tons of damage.
+ID_OF_DE_ROCKET_OFFER_50,Add the most lethal Blaster in the galaxy to your Cosmic team. Get <color=#fff568>50 Rocket Raccoon shards</color> to boost your Tech allies and attack multiple opponents for tons of damage.
 ID_OF_DE_ROCKET_OFFER_3s,Add the most lethal Blaster in the galaxy to your Cosmic team. This <color=#fff568>3-star Rocket Raccoon</color> will boost your Tech allies and attack multiple opponents for tons of damage.
 ID_OF_NA_MEGAPACK_OFFER_1,Power Core Super Pack
 ID_OF_DE_MEGAPACK_OFFER_40,"Get Power Cores, Campaign Energy, Premium Orbs, Gold Orbs and more! Save <color=#fff568>over 40%</color> off when you buy now!"
@@ -6404,8 +6404,8 @@ ID_OF_NA_ABM_DRAFT_ORANGE_01_VAR,T4 Ability Material Draft
 ID_OF_DE_ABM_DRAFT_ORANGE_01_VAR,"This mega offer will give you an equal chance of getting <color=#fff568>{var1}, {var2}, or {var3} T4 Ability Materials</color>. "
 ID_OF_NA_TECH_DUO,War Machine & Falcon Offer
 ID_OF_DE_TECH_DUO,Save on this spectacular deal! Get <color=#fff568>{var1}-Star ({var2} Shards) War Machine & {var1}-Star ({var2} Shards) Falcon</color> with this amazing deal and strengthen your Power Armor team!
-ID_OF_NA_ROCKET_DRAFT,Rocket Racoon: Draft
-ID_OF_DE_ROCKET_DRAFT,"This amazing offer will give you an equal chance of getting <color=#fff568>{var1}, {var2}, or {var3} shards of Rocket Racoon</color>. "
+ID_OF_NA_ROCKET_DRAFT,Rocket Raccoon: Draft
+ID_OF_DE_ROCKET_DRAFT,"This amazing offer will give you an equal chance of getting <color=#fff568>{var1}, {var2}, or {var3} shards of Rocket Raccoon</color>. "
 ID_OF_NA_GROOT_DRAFT,Groot: Draft
 ID_OF_DE_GROOT_DRAFT,"This amazing offer will give you an equal chance of getting <color=#fff568>{var1}, {var2}, or {var3} shards of Groot</color>. "
 ID_OF_NA_HALLOWEEN_2020_OFFER_1,Fright Light Offer
@@ -8305,3 +8305,7 @@ ID_GACHA_CRATE_BATTLEPLAN_NAME,Battle Plan Orb
 ID_GACHA_CRATE_BATTLEPLAN_DESCRIPTION,"Contains Training Modules, T2 Level 1&4 Ions, and grants Rising Star Progress."
 ID_GACHA_CRATE_BATTLEPLAN_TOKEN_NAME,Battle Plan Orb Fragments
 ID_GACHA_CRATE_BATTLEPLAN_TOKEN_DESCRIPTION,"Collect Fragments for orbs containing Training Modules, T2 Level 1&4 Ions, and grant Rising Star Progress."
+ID_GACHA_CRATE_CONQUEROR_NAME,Conqueror Orb
+ID_GACHA_CRATE_CONQUEROR_DESCRIPTION,Earn up to 25 Kang the Conqueror Shards
+ID_GACHA_CRATE_CONQUEROR_TOKEN_NAME,Conqueror Orb Fragments
+ID_GACHA_CRATE_CONQUEROR_TOKEN_DESCRIPTION,Collect Conqueror Orb Fragments from Blitz to earn progress in the He Who Remains Milestone.
