@@ -3,8 +3,8 @@ ID_OF_NA_DPCSALE_BRONZE,Dark Promotion Sale - Bronze Tier
 ID_OF_NA_DPCSALE_SILVER,Dark Promotion Sale - Silver Tier
 ID_OF_NA_DPCSALE_GOLD,Dark Promotion Sale - Gold Tier
 ID_OF_NA_DPCSALE_DIAMOND,Dark Promotion Sale - Diamond Tier
-ID_OF_DE_DPSCALE_BUNDLE,Power up the likes of <color=#9e0b0f>Dr. Doom</color> and <color=#2d862d>Morgan Le Fay</color> when you use these <color=#fff568>Dark Promotion Credits</color> to get the next Red Star for them! Save big on {var1} Dark Promotion Credits as well as Silver and Gold Promotion Credits. Achieve new Red Star levels with this offer today!
-ID_OF_DE_DPSCALE_ONLY,Power up the likes of <color=#9e0b0f>Dr. Doom</color> and <color=#2d862d>Morgan Le Fay</color> when you use these <color=#fff568>Dark Promotion Credits</color> to get the next Red Star for them! Save big on {var1} Dark Promotion Credits. Achieve new Red Star levels with this offer today!
+ID_OF_DE_DPSCALE_BUNDLE,Power up the likes of <color=#9e0b0f>Doctor Doom</color> and <color=#2d862d>Morgan Le Fay</color> when you use these <color=#fff568>Dark Promotion Credits</color> to get the next Red Star for them! Save big on {var1} Dark Promotion Credits as well as Silver and Gold Promotion Credits. Achieve new Red Star Levels with this offer today!
+ID_OF_DE_DPSCALE_ONLY,Power up the likes of <color=#9e0b0f>Doctor Doom</color> and <color=#2d862d>Morgan Le Fay</color> when you use these <color=#fff568>Dark Promotion Credits</color> to get the next Red Star for them! Save big on {var1} Dark Promotion Credits. Achieve new Red Star Levels with this offer today!
 ID_OF_NA_CAL_FATHERS_ENERGY,Father's Day Energy Calendar
 ID_OF_DE_CAL_FATHERS_ENERGY,Celebrate Father's Day with this Energy Calendar. Get <color=#fff568>{var1} Campaign Energy</color> over {var2} days and get <color=#fff568>{var3}% off</color> when you buy this offer! Log in for the next {var2} days to collect your rewards.
 ID_OF_NA_FATHERS_ENERGY_MEGA,Father of the Century Deal
@@ -16,19 +16,19 @@ ID_OF_DE_FATHERS_ENERGY_DAILY,Don't forget to do your Campaign chores! Get some 
 ID_OF_DE_FATHERS_ENERGY_MEGAORB,"Celebrate Father's Day with this deal on <color=#fff568>{var1} Campaign Energy</color>, <color=#4700b3>{var2} Power Cores</color>, and <color=#fff568>{var3} Mega Orbs</color>! Accelerate your way to Commander Level 90 swiftly with each purchase!"
 ID_OF_DE_FATHERS_ENERGY_HC,Celebrate Father's Day with this deal on <color=#fff568>{var1} Campaign Energy</color> and <color=#4700b3>{var2} Power Cores</color>! Accelerate your way to Commander Level 90 swiftly with each purchase!
 ID_OF_NA_567_RED_STAR_DRAFT_ASGARDIAN,5-7 Red Star Draft: Asgardian
-ID_OF_DE_567_RED_STAR_DRAFT_ASGARDIAN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Asgardians</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_ASGARDIAN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Asgardians</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_THOR,5-7 Red Star Draft: Thor
-ID_OF_DE_567_RED_STAR_DRAFT_THOR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Thor</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_THOR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Thor</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_SIF,5-7 Red Star Draft: Sif
-ID_OF_DE_567_RED_STAR_DRAFT_SIF,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Sif</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_SIF,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Sif</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_HEIMDALL,5-7 Red Star Draft: Heimdall
-ID_OF_DE_567_RED_STAR_DRAFT_HEIMDALL,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Heimdall</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_HEIMDALL,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Heimdall</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_HELA,5-7 Red Star Draft: Hela
-ID_OF_DE_567_RED_STAR_DRAFT_HELA,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Hela</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_HELA,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Hela</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_LOKI,5-7 Red Star Draft: Loki
-ID_OF_DE_567_RED_STAR_DRAFT_LOKI,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Loki</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_LOKI,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Loki</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_AFORCE,5-7 Red Star Draft: A-Force
-ID_OF_DE_567_RED_STAR_DRAFT_AFORCE,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>A-Force</color> heroes."
+ID_OF_DE_567_RED_STAR_DRAFT_AFORCE,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the <color=#fff568>A-Force</color> heroes."
 ID_OF_NA_JULY4TH,4th of July Super Sale!
 ID_OF_NA_JULY4TH_BUNDLE,Firework Bundle
 ID_OF_DE_JULY4TH,Celebrate 4th of July with this amazing offer and power up your roster to take on your next challenge!
@@ -100,9 +100,9 @@ ID_OF_DE_AUGUSTMETA_SUPER,Crash the competition and climb the leaderboard with t
 ID_OF_NA_AUGUSTMETA_1HC,Techno Future Milestone Booster
 ID_OF_DE_AUGUSTMETA_1HC,Use 1 Power Core to progress in the Techno Future Milestone!
 ID_OF_NA_567_RED_STAR_DRAFT_WEBWARRIOR,5-7 Red Star Draft: Web-Warrior
-ID_OF_DE_567_RED_STAR_DRAFT_WEBWARRIOR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Web-Warrior</color> heroes."
+ID_OF_DE_567_RED_STAR_DRAFT_WEBWARRIOR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Web-Warrior</color> heroes."
 ID_OF_NA_567_RED_STAR_DRAFT_DARKHUNTER,5-7 Red Star Draft: Dark Hunter
-ID_OF_DE_567_RED_STAR_DRAFT_DARKHUNTER,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Dark Hunter</color> heroes."
+ID_OF_DE_567_RED_STAR_DRAFT_DARKHUNTER,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Dark Hunter</color> heroes."
 ID_OF_NA_AVENGINGASGARD_POINTS,Avenging Asgard Daily Milestone Points
 ID_OF_DE_AVENGINGASGARD_POINTS,Get <color=#fff568>{var1}</color> Avenging Asgard Milestone Points from this daily offer and conquer the enemies of Asgard now!
 ID_OF_NA_DUAL_SHEHULK_COSTUME,Pick your She-Hulk Costume
@@ -119,7 +119,7 @@ ID_OF_NA_DUAL_COSMICMUTANT_STOREBAR_01,Cosmic Mutants
 ID_OF_NA_TEAM_COSMICMUTANT,Cosmic Mutant
 ID_OF_DE_TEAM_COSMICMUTANT,Unlock or power up this selection of Cosmic Mutant characters to score higher in the Cosmic Mutant Quick Rumble!
 ID_OF_NA_567_RED_STAR_DRAFT_IRONMAN,5-7 Red Star Draft: Iron Man
-ID_OF_DE_567_RED_STAR_DRAFT_IRONMAN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Iron Man</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_IRONMAN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Iron Man</color>."
 ID_OF_NA_VALKYRIECOSTUME_DAILY_ORB,Valhalla Orb
 ID_OF_DE_VALKYRIECOSTUME_DAILY_CURRENCY,Get incredible value from <color=#fff568>{var1} Valhalla Orb(s)</color>! Open Valhalla Orbs to progress through the <color=#fff568>Ride of the Valkyrie Milestone</color>. (Each Valhalla Orb gives {var2} points towards Ride of the Valkyrie Milestone).
 ID_OF_NA_VALKYRIECOSTUME_STARTER_MEGA,Ride of the Valkyrie Mega Starter Bundle
@@ -315,11 +315,11 @@ ID_OF_DE_SPIDERMAN2099_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Spider
 ID_OF_DE_SPIDERMAN2099_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Future Byte Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Spider-Man 2099</color> shards. Send enemies to a painful future by applying negative effects and granting Tangled Web allies Drain, Focus, and Resistance."
 ID_OF_DE_SPIDERMAN2099_OFFER_VAR_SHARD,"Get <color=#fff568>{var1} Spider-Man 2099</color> shards and send enemies to a painful future! Apply negative effects and grant Tangled Web allies Drain, Focus, and Resistance."
 ID_OF_NA_567_RED_STAR_DRAFT_HEROASGARDIAN,5-7 Red Star Draft: Hero Asgardian
-ID_OF_DE_567_RED_STAR_DRAFT_HEROASGARDIAN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Hero Asgardians</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_HEROASGARDIAN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Hero Asgardians</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_RAVAGERMINION,5-7 Red Star Draft: Ravager Minion
-ID_OF_DE_567_RED_STAR_DRAFT_RAVAGERMINION,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Ravager Minions</color>."
-ID_OF_NA_567_RED_STAR_DRAFT_WAVE1AVENGER,5-7 Red Star Draft: Wave 1 - Avenger
-ID_OF_DE_567_RED_STAR_DRAFT_WAVE1AVENGER,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Wave 1 - Avengers</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_RAVAGERMINION,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Ravager Minions</color>."
+ID_OF_NA_567_RED_STAR_DRAFT_WAVE1AVENGER,5-7 Red Star Draft: Wave I - Avenger
+ID_OF_DE_567_RED_STAR_DRAFT_WAVE1AVENGER,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Wave I - Avengers</color>."
 ID_OF_NA_PICK_DUAL_TEAM_HEROASGARDIAN,Dual: Hero Asgardian Team Offer
 ID_OF_DE_PICK_DUAL_TEAM_HEROASGARDIAN,Take advantage of one of these spectacular <color=#fff568>Hero Asgardian</color> Character Shard deals!
 ID_OF_STOREBAR_HEROASGARDIAN,Hero Asgardian Shard Offer
@@ -336,7 +336,7 @@ ID_OF_NA_PICK_DUAL_TEAM_UNLIMITEDXMEN,Dual: Unlimited X-Men Team Offer
 ID_OF_DE_PICK_DUAL_TEAM_UNLIMITEDXMEN,Take advantage of one of these spectacular <color=#fff568>Unlimited X-Men</color> Character Shard deals!
 ID_OF_STOREBAR_UNLIMITEDXMEN,Unlimited X-Men Shard Offer
 ID_OF_NA_567_RED_STAR_DRAFT_UNLMITEDXMEN,5-7 Red Star Draft: Unlimited X-Men
-ID_OF_DE_567_RED_STAR_DRAFT_UNLMITEDXMEN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Unlimited X-Men</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_UNLMITEDXMEN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Unlimited X-Men</color>."
 ID_OF_NA_SPIDERMANNOIR_FCO_OFFER,Arachnid Airman
 ID_OF_DE_SPIDERMANNOIR_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Spider-Man (Noir)</color> with this offer! Each orb has a chance to earn up to 180 shards. Bump off enemies with high damage attacks, apply Heal Block, and grant Tangled Web allies additional Damage."
 ID_OF_DE_SPIDERMANNOIR_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Monochromatic Orb Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Spider-Man (Noir)</color> shards. Bump off enemies with high damage attacks, apply Heal Block, and grant Tangled Web allies additional Damage."
@@ -366,7 +366,7 @@ ID_OF_NA_ETHEREALARMS_BACKUP,Ethereal Arms Bundle
 ID_OF_DE_ETHEREALARMS_BACKUP,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Vigilant Orbs</color> and more with this offer! Get a head start of {var3} points in the <color=#fff568>Ethereal Arms Milestone</color> now.
 ID_OF_NA_ETHEREALARMS_LASTCHANCE,Ethereal Arms Last Chance Booster
 ID_OF_DE_ETHEREALARMS_LASTCHANCE,"Need a final boost to finish your <color=#fff568>Ethereal Arms Milestone</color>? Don't miss out on this offer! "
-ID_OF_DE_567_RSDRAFT_TEAM_FANTASTICFOUR_01,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for a member of the <color=#fff568>Fantastic Four</color>."
+ID_OF_DE_567_RSDRAFT_TEAM_FANTASTICFOUR_01,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for a member of the <color=#fff568>Fantastic Four</color>."
 ID_OF_NA_FUTURESHOCK_STARTER,Future Shock Starter Bundle
 ID_OF_DE_FUTURESHOCK_STARTER,Get a head start on the <color=#fff568>Future Shock Milestone</color> with this high value offer!
 ID_OF_NA_FUTURESHOCK_STARTER_MEGA,Future Shock Mega Bundle
@@ -400,9 +400,9 @@ ID_OF_DE_MRNEGATIVE_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Mister Ne
 ID_OF_DE_MRNEGATIVE_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Negative Edge Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Mister Negative</color> shards. Corrupt the battlefield by flipping enemy positive effects, spreading negative effects, and summoning minions each turn."
 ID_OF_DE_MRNEGATIVE_OFFER_VAR_SHARD,"Get <color=#fff568>{var1} Mister Negative</color> shards and corrupt the battlefield! Flip enemy positive effects, spread negative effects, and summon minions each turn."
 ID_OF_NA_567_RED_STAR_DRAFT_SPIDERPUNK,5-7 Red Star Draft: Spider-Punk
-ID_OF_DE_567_RED_STAR_DRAFT_SPIDERPUNK,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Spider-Punk</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_SPIDERPUNK,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Spider-Punk</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_GENERIC,5-7 Red Star Draft
-ID_OF_DE_567_RED_STAR_DRAFT_GENERIC,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for this <color=#fff568>character</color>. (Tap the icon for details)"
+ID_OF_DE_567_RED_STAR_DRAFT_GENERIC,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for this <color=#fff568>character</color>. (Tap the icon for details)"
 ID_OF_NA_HELICARRIERCLASH_STARTER,Helicarrier Clash Starter Bundle
 ID_OF_DE_HELICARRIERCLASH_STARTER_VAR,Save <color=#fff568>over {var1}%</color> on <color=#fff568>{var2} Valhalla Orbs</color> and more which will gain you {var3} points in the <color=#fff568>Helicarrier Clash Milestone</color>. Starter offers are the best deal for points!
 ID_OF_NA_HELICARRIERCLASH_STARTER_SUPER,Helicarrier Clash Super Starter
@@ -531,12 +531,12 @@ ID_OF_NA_567_RED_STAR_DRAFT_ZOMBIEIRONMAN,5-7 Red Star Draft: Iron Man (Zombie)
 ID_OF_DE_HALLOWEEN2022_DEATH_DEFEATER,Defy death and lock in this <color=#fff500>90% OFF</color> offer! Don't miss your chance to buy this exclusive offer!
 ID_OF_DE_HALLOWEEN2022_DARK_PROMOTION,BOO! Don't be spooked by this scaringly good <color=#fff500>{var1}% OFF</color> deal! Buy now and promote your favorite Horseman characters before this deal ghosts!
 ID_OF_DE_HALLOWEEN2022_HEARTLESS_HARBINGER,We found you a deal in a Heartless Place! 50 Strange (Heartless) Shards for <color=#fff500>90% OFF</color>! Get these shards before this deal breaks your heart!
-ID_OF_DE_567_RED_STAR_DRAFT_GHOSTRIDER,"Get an equal chance of either a <color=#fff500>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff500>Ghost Rider</color>."
-ID_OF_DE_567_RED_STAR_DRAFT_ELSABLOODSTONE,"Get an equal chance of either a <color=#fff500>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff500>Elsa Bloodstone</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_GHOSTRIDER,"Get an equal chance of either a <color=#fff500>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff500>Ghost Rider</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_ELSABLOODSTONE,"Get an equal chance of either a <color=#fff500>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff500>Elsa Bloodstone</color>."
 ID_OF_DE_HALLOWEEN2022_TREACHEROUSTRAINING,<color=#fff500>OVER 2X VALUE!</color> Take the treacherous path and sink your teeth into 200 L4 <color=#fff500>TRAINING MODULES!</color>
 ID_OF_DE_HALLOWEEN2022_GREEDY_FOR_GOLD,<color=#fff500>ATTN: GREEDY GHOULS</color> - Secure yourself <color=#fff500>2M Gold</color> before this SpOoOkY savings flies away!
 ID_OF_DE_HALLOWEEN2022_DARK_HUNTERS,"Power up your <color=#fff500>WAR OFFENSE</color> with character shards for the <color=#fff500>DARK HUNTER</color> Team! "
-ID_OF_DE_567_RED_STAR_DRAFT_ZOMBIEIRONMAN,"Get an equal chance of either a <color=#fff500>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff500>Iron Man (Zombie)</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_ZOMBIEIRONMAN,"Get an equal chance of either a <color=#fff500>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff500>Iron Man (Zombie)</color>."
 ID_OF_NA_ELITE_6_FLASH,ELITE 6 FLASH!!
 ID_OF_DE_ELITE_6_FLASH,Test your luck with <color=#ff0000>{var1}</color> Elite 6 Orbs - Guaranteed at least 6 or 7-Red Star Promotion with every Elite 6 Orb!
 ID_OF_NA_WAR_EARLYBIRD,War Orb Intro Bundle
@@ -565,13 +565,13 @@ ID_OF_DE_SPECIALOFFENSIVE_DAILY_ENERGY,Get your daily dose of <color=#fff568>{va
 ID_OF_NA_FREECLAIMFRIDAYWEB,Free Claim Friday Gift
 ID_OF_DE_FREECLAIMFRIDAYWEB,Come back every Friday for special Free Claim! Remember to visit the web each day for the daily Free Claim!
 ID_OF_NA_HALLOWEEN2022_ASTONISHING_XMEN_67_RED_STAR_DRAFT,SPOOKY SPECIAL: ASTONISHING 6-7 DRAFT
-ID_OF_DE_HALLOWEEN2022_ASTONISHING_XMEN_67_RED_STAR_DRAFT,"Get an equal chance of either a <color=#fff500>6 or 7 Red Star</color> (Minimum Red Star level 6, Maximum Red Star Level 7) for <color=#fff500>Astonishing X-Men</color> characters!"
+ID_OF_DE_HALLOWEEN2022_ASTONISHING_XMEN_67_RED_STAR_DRAFT,"Get an equal chance of either a <color=#fff500>6 or 7 Red Star</color> (Minimum Red Star Level 6, Maximum Red Star Level 7) for <color=#fff500>Astonishing X-Men</color> characters!"
 ID_OF_NA_HALLOWEEN2022_ASTONISHING_XMEN_TEAM,SPOOKY SPECIAL: ASTONISHING SHARDS
 ID_OF_DE_HALLOWEEN2022_ASTONISHING_XMEN_TEAM,"Blast your way through Mutant Raid nodes with this <color=#fff500>ASTONISHING</color> offer! Get <color=#fff500>{var1} shards </color> each of Beast, Bishop, Iceman, and Kitty Pryde!"
 ID_OF_NA_BLACKFRIDAY_SNEAKPEEK,Ultimate Black Friday Sneak Peek Sale!
 ID_OF_DE_BLACKFRIDAY_SNEAKPEEK,Take you roster to new heights with a special sneak peek sale. It's packed with so much value you'll have to tap to see all that's included!
 ID_OF_NA_HALLOWEEN2022_RAIDING_BRAWLERS_67_RED_STAR_DRAFT,SPOOKY SPECIAL: RAIDING BRAWLER 6-7 DRAFT
-ID_OF_DE_HALLOWEEN2022_RAIDING_BRAWLERS_67_RED_STAR_DRAFT,"Get an equal chance of either a <color=#fff500>6 or 7 Red Star</color> (Minimum Red Star level 6, Maximum Red Star Level 7) for: Deathpool, Psylocke, Scarlet Spider, Spider-Punk, Shang-Chi, Spider-Man, or Spider-Man (Miles)!"
+ID_OF_DE_HALLOWEEN2022_RAIDING_BRAWLERS_67_RED_STAR_DRAFT,"Get an equal chance of either a <color=#fff500>6 or 7 Red Star</color> (Minimum Red Star Level 6, Maximum Red Star Level 7) for: Deathpool, Psylocke, Scarlet Spider, Spider-Punk, Shang-Chi, Spider-Man, or Spider-Man (Miles)!"
 ID_OF_NA_THEFIRSTPANTHER_STARTER,The First Panther Starter Bundle
 ID_OF_DE_THEFIRSTPANTHER_STARTER,Get a head start on <color=#fff568>The First Panther Milestone</color> with this high value offer!
 ID_OF_NA_THEFIRSTPANTHER_STARTER_MEGA,The First Panther Mega Bundle
@@ -596,7 +596,7 @@ ID_OF_NA_BFSP_TRAINING_OFFER,Black Friday Sneak Peek: Training
 ID_OF_NA_BFSP_6_7_YA_RS_DRAFT,6-7 Young Avengers Red Star Draft
 ID_OF_NA_BFSP_2M_GOLD,Black Friday Sneak Peek: Gold
 ID_OF_DE_HALLOWEEN2022_TRAINING_OFFER,"Time to train up your roster, Commander! Get over <color=#fff500>{var1}% OFF</color> on this exclusive offer containing a bonanza of Training XP! Continue checking the Store for more offers this month!"
-ID_OF_DE_BFSP_6_7_YA_RS_DRAFT,"Don't miss out on this <color=#fff500>exclusive Black Friday Sneak Peek</color> offer! Get an equal chance of either a <color=#fff568>6 or 7 Red Star</color> (Minimum Red Star level 6, Maximum Red Star Level 7) for <color=#fff568>Young Avenger</color> characters! Continue checking the Store for more offers this month!"
+ID_OF_DE_BFSP_6_7_YA_RS_DRAFT,"Don't miss out on this <color=#fff500>exclusive Black Friday Sneak Peek</color> offer! Get an equal chance of either a <color=#fff568>6 or 7 Red Star</color> (Minimum Red Star Level 6, Maximum Red Star Level 7) for <color=#fff568>Young Avenger</color> characters! Continue checking the Store for more offers this month!"
 ID_OF_DE_BFSP_2M_GOLD,Gold Galore! Don't miss out on this exclusive Black Friday Sneak Peek <color=#fff500>{var1}% OFF</color> offer! Continue checking the Store for more offers this month!
 ID_OF_NA_EVENT_BLACKFRIDAY2022_GOLD_TRAINING_C15,Black Friday SP: Train and Gold
 ID_OF_NA_EVENT_BLACKFRIDAY2022_SERSI_C10,Black Friday SP: Gamma Galore
@@ -610,14 +610,14 @@ ID_OF_NA_EVENT_BLACKFRIDAY2022_RSDRAFT_CLOAKDAGGER_C25,5-7 Cloak and Dagger Red 
 ID_OF_NA_EVENT_BLACKFRIDAY2022_RSDRAFT_WEBWARRIOR_C20,5-7 Web-Warrior Red Star Draft
 ID_OF_DE_EVENT_BLACKFRIDAY2022_GOLD_TRAINING_C15,Gold and Training Modules Galore! Don't miss out on this exclusive Black Friday Sneak Peek <color=#fff500>{var1}% OFF</color> offer and power up your roster to the next level! Continue checking back the store for more offers this month!
 ID_OF_DE_EVENT_BLACKFRIDAY2022_SERSI_C10,SMASH the competition with this BULK Black Friday Sneak Peek offer of Abomination and Brawn shards! Get an additional {var1} T3 Ability Materials to boost your skills!
-ID_OF_DE_EVENT_BLACKFRIDAY2022_WONG_C10,"Don't miss out on this <color=#fff500>exclusive Black Friday Sneak Peek</color> offer! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Abomination, Brawn, She-Hulk, or Hulk</color>! Continue checking back the store for more offers this month!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_WONG_C10,"Don't miss out on this <color=#fff500>exclusive Black Friday Sneak Peek</color> offer! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Abomination, Brawn, She-Hulk, or Hulk</color>! Continue checking back the store for more offers this month!"
 ID_OF_DE_EVENT_BLACKFRIDAY2022_MORBIUS_C20,"Hunt down this fiendishly good Black Friday Sneak Peek deal before it expires! Get an assortment of Dark Hunter shards and Armory Orbs at {var1}% off! "
 ID_OF_DE_EVENT_BLACKFRIDAY2022_SPC_ENERGY_C10,Don't miss out on this limited time Black Friday Sneak Peek Silver Promotion Credits and Campaign Energy combination bundle! Get free Armory Orbs with your purchase!
 ID_OF_DE_EVENT_BLACKFRIDAY2022_REDSTAR_C20,"Strengthen your horseman characters and more with this select deal of Dark Promotion Credits, Gold Promotion Credits, and Red Star Orbs! Continue checking back the store for more valuable offers this month!"
 ID_OF_DE_EVENT_BLACKFRIDAY2022_GHOSTSPIDER_C10,Web up this exclusive Cyber Monday Sneak Peek bundle containing multiple Web-Warrior character shards along with a Gold and Training Orb to power them up!
 ID_OF_DE_EVENT_BLACKFRIDAY2022_CLOAKDAGGER_C10,Take advantage of this Black Friday Sneak Peek team up bundle of Cloak and Dagger shards and get an additional {var1} Armory 15 Orbs when you buy now! Continue checking back the store for more valuable offers all month long!
-ID_OF_DE_EVENT_BLACKFRIDAY2022_RSDRAFT_CLOAKDAGGER_C25,"Don't miss out on this <color=#fff500>exclusive Black Friday Sneak Peek</color> offer! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) <color=#fff568>Cloak</color> or <color=#fff568>Dagger</color>! Continue checking back the store for more offers this month!"
-ID_OF_DE_EVENT_BLACKFRIDAY2022_RSDRAFT_WEBWARRIOR_C20,"Don't miss out on this <color=#fff500>exclusive Cyber Monday Sneak Peek</color> offer! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Web Warrior</color> characters! Continue checking back the store for more offers this month!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_RSDRAFT_CLOAKDAGGER_C25,"Don't miss out on this <color=#fff500>exclusive Black Friday Sneak Peek</color> offer! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) <color=#fff568>Cloak</color> or <color=#fff568>Dagger</color>! Continue checking back the store for more offers this month!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_RSDRAFT_WEBWARRIOR_C20,"Don't miss out on this <color=#fff500>exclusive Cyber Monday Sneak Peek</color> offer! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Web-Warrior</color> characters! Continue checking back the store for more offers this month!"
 ID_OF_NA_SPYGAMES_STARTER_MEDIUM,Spy Games Starter Bundle
 ID_OF_DE_SPYGAMES_STARTER_VAR,Save <color=#fff568>over {var1}%</color> and get a head start of {var2} points in the <color=#fff568>Spy Games Milestone</color>!
 ID_OF_NA_SPYGAMES_STARTER_SUPER,Spy Games Super Starter
@@ -718,9 +718,9 @@ ID_OF_DE_EVENT_BLACKFRIDAY2022_ENERGY_C05,Supercharge your Campaign progress and
 ID_OF_DE_EVENT_BLACKFRIDAY2022_WAKANDAN_C30,Wakanda Forever! Strengthen your War Dogs with this marvelous offer! Remember to check the store for more valuable offers all month long!
 ID_OF_DE_EVENT_BLACKFRIDAY2022_MEGA_C05,<color=#fff500>Over 5X value!</color> Get up to <color=#fff500>102</color> marquee character shards each orb! Remember to check the store for more valuable offers all month long!
 ID_OF_DE_EVENT_BLACKFRIDAY2022_GPC_C100,Don't miss out on this opportunity to get a whopping amount of <color=#fff500>200 Gold Promotion Credits at 2X value</color>! Remember to check the store for more valuable offers all month long!
-ID_OF_DE_EVENT_BLACKFRIDAY2022_67_RSDRAFT_C30,"Don't miss out on this <color=#fff500>exclusive Black Friday Sneak Peek</color> offer! Get an equal chance of either a <color=#fff568>6 or 7 Red Star</color> (Minimum Red Star level 6, Maximum Red Star Level 7) for <color=#fff568>A-Force</color> characters! Continue checking back the store for more offers this month!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_67_RSDRAFT_C30,"Don't miss out on this <color=#fff500>exclusive Black Friday Sneak Peek</color> offer! Get an equal chance of either a <color=#fff568>6 or 7 Red Star</color> (Minimum Red Star Level 6, Maximum Red Star Level 7) for <color=#fff568>A-Force</color> characters! Continue checking back the store for more offers this month!"
 ID_OF_DE_EVENT_BLACKFRIDAY2022_T2L1ISO_C05,"T2 Ions galore! Buy now and get <color=#fff500>100,000 T2 Level 1 Ions</color> to power up your characters for Doom Raids! Remember to check the store for more valuable offers all month long!"
-ID_OF_DE_EVENT_BLACKFRIDAY2022_H4H_RS567_C15,"Don't miss out on this <color=#fff500>exclusive Black Friday Sneak Peek</color> offer! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Heroes for Hire</color> characters! Continue checking back the store for more offers this month!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_H4H_RS567_C15,"Don't miss out on this <color=#fff500>exclusive Black Friday Sneak Peek</color> offer! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Heroes for Hire</color> characters! Continue checking back the store for more offers this month!"
 ID_OF_DE_EVENT_THANKSGIVING2022_2MGOLD_C05,Gold Galore! Don't miss out on this exclusive Thanksgiving Sneak Peek <color=#fff500>{var1}% OFF</color> offer! Continue checking back the store for more offers this month!
 ID_OF_DE_EVENT_BLACKFRIDAY2022_REDSTAR_C40,"Promote your Horsemen characters and more with this unprecedented Red Star offer! Get <color=#fff500>Dark Promotion Credits, Gold Promotion Credits, AND Red Star Orbs at an amazing 4X value!</color> Remember to check the store for more valuable offers all month long!"
 ID_OF_DE_EVENT_BLACKFRIDAY2022_SPC_ENERGY_C20,"Power up your roster with this selection of Silver Promotion Credits, Campaign Energy, and more! Get <color=#fff500>4X</color> value when you buy now! Remember to check the store for more valuable offers all month long!"
@@ -730,8 +730,8 @@ ID_OF_DE_EVENT_THANKSGIVING2022_STATCAT_C05,"Superior Catalysts Special! Don't m
 ID_OF_DE_EVENT_BLACKFRIDAY2022_REDSTAR_WEB_C40,"Promote your Horsemen characters and more with this unprecedented web special Red Star offer! Get <color=#fff500>Dark Promotion Credits, Gold Promotion Credits, AND Red Star Orbs at an amazing 4X+ value!</color> Remember to check the store for more valuable offers all month long!"
 ID_OF_NA_CSAT_FREECLAIM,Survey Completion Free Claim
 ID_OF_DE_CSAT_FREECLAIM,A token of thanks from the MARVEL Strike Force Dev Team for helping us improve the game. Return daily for more Free Claims on web!
-ID_OF_DE_567_RED_STAR_DRAFT_GENERIC_TEAM,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the members of this team (Tap the icon for more details)!"
-ID_OF_DE_567_RED_STAR_DRAFT_GENERIC_UNCANNYXMEN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Magik</color>, <color=#fff568>Storm</color>, <color=#fff568>Colossus</color>, <color=#fff568>Cyclops</color>, or <color=#fff568>Psylocke</color>!"
+ID_OF_DE_567_RED_STAR_DRAFT_GENERIC_TEAM,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the members of this team (Tap the icon for more details)!"
+ID_OF_DE_567_RED_STAR_DRAFT_GENERIC_UNCANNYXMEN,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Magik</color>, <color=#fff568>Storm</color>, <color=#fff568>Colossus</color>, <color=#fff568>Cyclops</color>, or <color=#fff568>Psylocke</color>!"
 ID_OF_NA_FESTIVALOFFROST_STARTER,Festival of Frost Starter Bundle
 ID_OF_DE_FESTIVALOFFROST_STARTER,"Get a head start on the <color=#fff568>Festival of Frost Milestone</color> with this high value offer! "
 ID_OF_NA_FESTIVALOFFROST_CATCHUP,Festival of Frost Cold Catch-up
@@ -777,24 +777,24 @@ ID_OF_NA_EVENT_CYBERWEEK2022_GPC_C20,Cyber Week: Gold Promotion Credits
 ID_OF_NA_EVENT_BLACKFRIDAY2022_GAMBIT_C05,Cyber Monday: Gambit
 ID_OF_DE_EVENT_BLACKFRIDAY2022_GPC_C20,Don't miss out on this opportunity to get a whopping amount of <color=#fff500>50 Gold Promotion Credits at more than 2X value</color>! Remember to check the store for more valuable offers all month long!
 ID_OF_DE_EVENT_BLACKFRIDAY2022_T4ABM_C100,Access your full abilities with this T4 Ability Material offer! Get 1000 T4 Ability Materials at 2X value!
-ID_OF_DE_EVENT_BLACKFRIDAY2022_IKARIS_C40,"Show your enemies the might of the Eternals with this Prime Eternal offer! Strengthen Ikaris with <color=#fff568>125 Ikaris shards</color> and a 3-5 Red Star Draft! Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star level 3, Maximum Red Star Level 5) for <color=#fff568>Ikaris</color>!"
-ID_OF_DE_EVENT_BLACKFRIDAY2022_TANGLEDWEB_RSDRAFT_C15,"Don't miss out on this <color=#fff500>exclusive Thanksgiving Special</color>! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) <color=#fff568>Spider-Weaver</color>, <color=#fff568>Spider-Man (Noir)</color>, or <color=#fff568>Spider-Man 2099</color>! Continue checking back the store for more offers this month!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_IKARIS_C40,"Show your enemies the might of the Eternals with this Prime Eternal offer! Strengthen Ikaris with <color=#fff568>125 Ikaris shards</color> and a 3-5 Red Star Draft! Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star Level 3, Maximum Red Star Level 5) for <color=#fff568>Ikaris</color>!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_TANGLEDWEB_RSDRAFT_C15,"Don't miss out on this <color=#fff500>exclusive Thanksgiving Special</color>! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) <color=#fff568>Spider-Weaver</color>, <color=#fff568>Spider-Man (Noir)</color>, or <color=#fff568>Spider-Man 2099</color>! Continue checking back the store for more offers this month!"
 ID_OF_DE_EVENT_BLACKFRIDAY2022_ABOMINATION_C05,SMASH the competition with this BULK Thanksgiving offer of Abomination shards! Get an additional {var1} T3 Ability Materials to boost your skills!
 ID_OF_DE_EVENT_BLACKFRIDAY2022_GPC_C05,Don't miss out on this opportunity to get a whopping amount of <color=#fff500>30 Gold Promotion Credits at more than 4X value</color>! Remember to check the store for more valuable offers all month long!
-ID_OF_DE_EVENT_BLACKFRIDAY2022_SIBLINGRSDRAFT_C15,"Don't miss out on this <color=#fff500>exclusive Thanksgiving Special</color>! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) <color=#fff568>Thor</color>, <color=#fff568>Loki</color>, <color=#fff568>Black Panther</color>, <color=#fff568>Shuri</color>, <color=#fff568>Gamora</color>, or <color=#fff568>Nebula</color>! Continue checking back the store for more offers this month!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_SIBLINGRSDRAFT_C15,"Don't miss out on this <color=#fff500>exclusive Thanksgiving Special</color>! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) <color=#fff568>Thor</color>, <color=#fff568>Loki</color>, <color=#fff568>Black Panther</color>, <color=#fff568>Shuri</color>, <color=#fff568>Gamora</color>, or <color=#fff568>Nebula</color>! Continue checking back the store for more offers this month!"
 ID_OF_DE_EVENT_GOOGLETHANKSGIVING_ETERNALLOVE_C05,Dominate Arena with this Eternal pair! Get 50 shards each of Ikaris and Sersi and 350 T3 Ability Materials to power up their skills! Get over 90% value with this offer!
 ID_OF_DE_EVENT_GOOGLETHANKSGIVING_TANGLEDTOGETHER_C15,Jump into the Spider-Verse with this special offer! Get 30 shards each of <color=#fff500>Tangled Web characters</color> with other materials to power up your roster at more than 2X value!
 ID_OF_DE_EVENT_BLACKFRIDAY2022_3MGOLD_C05,"Gold Galore! Don't miss out on this exclusive Black Friday offer for 3,000,000 Gold! Over 90% off!"
 ID_OF_DE_EVENT_BLACKFRIDAY2022_SPC_C30,Don't miss out on this exclusive Black Friday Silver Promotion Credits and Campaign Energy combination bundle! Get free Orange Gear Raid Orbs and Armory Orbs with your purchase!
 ID_OF_DE_EVENT_BLACKFRIDAY2022_ELITE7_C100,"Get this exclusive Black Friday Elite 7 deal chock full of resources to power up your elite characters! Get valuable Teal Gear Raid Orbs, Gold, and Training Orbs in addition to an Elite 7 Orb!"
 ID_OF_DE_EVENT_BLACKFRIDAY2022_ENERGYMEGA_C10,Superboost your progress with this special Black Friday offer of 1500 Campaign Energy along with a free Mega Orb! Don't delay and lose out on this offer!
-ID_OF_DE_EVENT_BLACKFRIDAY2022_RSDRAFT_ETERNAL_C15,"Don't miss out on this <color=#fff500>exclusive Black Friday Special</color>! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) <color=#fff568>Ikaris</color> or <color=#fff568>Sersi</color>! Continue checking back the store for more offers this month!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_RSDRAFT_ETERNAL_C15,"Don't miss out on this <color=#fff500>exclusive Black Friday Special</color>! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) <color=#fff568>Ikaris</color> or <color=#fff568>Sersi</color>! Continue checking back the store for more offers this month!"
 ID_OF_DE_EVENT_BLACKFRIDAY2022_HULKBUSTER_C05,Bust up Raids by upgrading your Hulkbuster with this special Black Friday deal! Get Hulkbuster shards and 350 T3 Ability Materials in this bundle!
 ID_OF_DE_EVENT_BLACKFRIDAY2022_DPC_C100,"Get a huge assortment of Promotion Credits from Dark Promotion Credits, Silver Promotion Credits, and Gold Promotion Credits! Take matters into your own hands and choose the character to promote with this offer!"
 ID_OF_DE_EVENT_BLACKFRIDAY2022_DPC_WEB_C100,"Get a bonus opportunity to obtain a huge assortment of Promotion Credits from Dark Promotion Credits, Silver Promotion Credits, and Gold Promotion Credits! Take matters into your own hands and choose the character to promote with this offer!"
 ID_OF_DE_EVENT_BLACKFRIDAY2022_WEBWARRIOR_C05,Cyber Monday Special! Get shards for all 5 Web-Warrior characters at over 90% off with this exclusive Cyber Monday special deal!
-ID_OF_DE_EVENT_BLACKFRIDAY2022_RSDRAFT_BIONICAVENGERS_C15,"Don't miss out on this <color=#fff500>exclusive Cyber Monday Special</color>! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) <color=#fff568>Hulkbuster</color>, <color=#fff568>Viv Vision</color>, <color=#fff568>Deathlok</color>, <color=#fff568>Vision</color>, or <color=#fff568>Iron Man</color>! Continue checking back the store for more offers this month!"
-ID_OF_DE_EVENT_BLACKFRIDAY2022_WEBWARRIORRSDRAFT_C15,"Don't miss out on this <color=#fff500>exclusive Cyber Week</color> offer! Get an equal chance of either a <color=#fff568>6 or 7 Red Star</color> (Minimum Red Star level 6, Maximum Red Star Level 7) for <color=#fff568>Web-Warrior</color> characters!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_RSDRAFT_BIONICAVENGERS_C15,"Don't miss out on this <color=#fff500>exclusive Cyber Monday Special</color>! Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) <color=#fff568>Hulkbuster</color>, <color=#fff568>Viv Vision</color>, <color=#fff568>Deathlok</color>, <color=#fff568>Vision</color>, or <color=#fff568>Iron Man</color>! Continue checking back the store for more offers this month!"
+ID_OF_DE_EVENT_BLACKFRIDAY2022_WEBWARRIORRSDRAFT_C15,"Don't miss out on this <color=#fff500>exclusive Cyber Week</color> offer! Get an equal chance of either a <color=#fff568>6 or 7 Red Star</color> (Minimum Red Star Level 6, Maximum Red Star Level 7) for <color=#fff568>Web-Warrior</color> characters!"
 ID_OF_DE_EVENT_BLACKFRIDAY2022_VIVVISION_C05,Synthesize victory in Raids with this special Cyber Week offer featuring Viv Vision! Get additional 30 T4 Ability materials when you purchase now.
 ID_OF_DE_EVENT_BLACKFRIDAY2022_GAMBIT_C05,Deal yourself a good hand with this special Cyber Monday deal! Get 50 Gambit shards and 350 T3 Ability Materials when you buy now!
 ID_OF_NA_THEABOMINABLEBEAST_STARTER_MEDIUM,Abominable Beast Starter Bundle
@@ -858,20 +858,20 @@ ID_OF_NA_NEMESIS_FCO_OFFER,Son of Apocalypse
 ID_OF_DE_NEMESIS_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Nemesis</color> and unlock special release offers on your next login! Heat up the battle by stealing enemy Health and redistributing it to Death Seed allies.
 ID_OF_DE_NEMESIS_FCO_OFFER,Save on <color=#fff568> Exile Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Nemesis</color> shards. Heat up the battle by stealing enemy Health and redistributing it to Death Seed allies.
 ID_OF_DE_NEMESIS_OFFER_SHARD,Get <color=#fff568> Nemesis</color> shards and turn foes to ash! Grant Death Seed allies additional Damage and steal enemy Health and redistribute it to Death Seed allies.
-ID_OF_DE_NEMESIS_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Nemesis</color>. Heat up Death Seed allies by Stealing enemy Health and redistributing it to Death Seed allies."
+ID_OF_DE_NEMESIS_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Nemesis</color>. Heat up Death Seed allies by Stealing enemy Health and redistributing it to Death Seed allies."
 ID_OF_NA_USAGENT_FCO_OFFER,Strict Justice
 ID_OF_DE_USAGENT_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star U.S. Agent</color> and unlock special release offers on your next login! Let freedom ring with low-cost abilities that apply negative effects like Heal Block and Stun.
 ID_OF_DE_USAGENT_FCO_OFFER,Save on <color=#fff568>American Patriot Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 U.S. Agent</color> shards. Let freedom ring with low-cost abilities that apply negative effects like Heal Block and Stun.
 ID_OF_DE_USAGENT_OFFER_SHARD,Get <color=#fff568>U.S. Agent</color> shards with this offer! Deploy a Super Soldier who can control the battle with low-cost abilities that apply negative effects like Heal Block and Stun.
-ID_OF_DE_USAGENT_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>U.S. Agent</color>. Control the battle with low-cost abilities that apply negative effects like Heal Block and Stun."
+ID_OF_DE_USAGENT_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>U.S. Agent</color>. Control the battle with low-cost abilities that apply negative effects like Heal Block and Stun."
 ID_OF_NA_567_RED_STAR_DRAFT_SHEHULK,5-7 Red Star Draft: She-Hulk
-ID_OF_DE_SHEHULK_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>She-Hulk</color>."
+ID_OF_DE_SHEHULK_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>She-Hulk</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_SPIDERWOMAN,5-7 Red Star Draft: Spider-Woman
-ID_OF_DE_SPIDERWOMAN_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Spider-Woman</color>."
+ID_OF_DE_SPIDERWOMAN_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Spider-Woman</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_STRANGESUPREME,5-7 Red Star Draft: Strange (Heartless)
-ID_OF_DE_STRANGESUPREME_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Strange (Heartless)</color>."
+ID_OF_DE_STRANGESUPREME_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Strange (Heartless)</color>."
 ID_OF_NA_567_RED_STAR_DRAFT_ANTIVENOM,5-7 Red Star Draft: Anti-Venom
-ID_OF_DE_ANTIVENOM_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Anti-Venom</color>."
+ID_OF_DE_ANTIVENOM_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Anti-Venom</color>."
 ID_OF_NA_GIFTWRAPGALA_STARTER_FESTIVE,Gift Wrap Gala Festive Starter
 ID_OF_DE_GIFTWRAPGALA_STARTER_VAR,Get <color=#fff568> {var1}%</color> Gift Wrap Gala progress with <color=#fff568>{var2} Campaign Energy</color> and more with this offer!
 ID_OF_NA_GIFTWRAPGALA_STARTER_JOVIAL,Gift Wrap Gala Jovial Starter
@@ -1007,7 +1007,7 @@ ID_OF_DE_HOLIDAYGENERIC_LEVELUP2,Limited Time Exclusive just in time for the Hol
 ID_OF_NA_HOLIDAYGENERIC_LEVELUP3,Level Up Bundle
 ID_OF_DE_HOLIDAYGENERIC_LEVELUP3,Bundle up this winter season with all the level up essentials you need to power up your character! This offer will not be around for long!
 ID_OF_NA_567_RED_STAR_DRAFT_HANDMINION,5-7 Red Star Draft: Hand Minion
-ID_OF_DE_567_RED_STAR_DRAFT_HANDMINION,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Hand Minions</color>."
+ID_OF_DE_567_RED_STAR_DRAFT_HANDMINION,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the <color=#fff568>Hand Minions</color>."
 ID_OF_NA_HOLIDAYULTIMATESALE,Ultimate Holiday Sale!
 ID_OF_DE_HOLIDAYULTIMATESALE,Take you roster to new heights with a special Holiday sale. It's packed with so much value you'll have to tap to see all that's included!
 ID_OF_NA_NEWYYEARSUPERSALE,New Year Super Sale!
@@ -1065,17 +1065,17 @@ ID_OF_NA_CAPTAINCARTER_FCO_OFFER,A Proper Fight
 ID_OF_DE_CAPTAINCARTER_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-Star Captain Carter</color> and unlock special release offers on your next login! Each orb has a chance to earn up to 180 shards. Lead the charge with painful attacks and by sustaining Rebirth allies with positive effects, Heals, and Revive."
 ID_OF_DE_CAPTAINCARTER_FCO_OFFER,"Save on <color=#fff568>Lost in Time Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Captain Carter</color> shards. Lead the charge with painful attacks and by sustaining Rebirth allies with positive effects, Heals, and Revive."
 ID_OF_DE_CAPTAINCARTER_OFFER_SHARD,"Get <color=#fff568>Captain Carter</color> shards with this offer! Lead the charge with painful attacks and by sustaining Rebirth allies with positive effects, Heals, and Revive."
-ID_OF_DE_CAPTAINCARTER_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Captain Carter</color>. Lead the charge with painful attacks and by sustaining Rebirth allies with positive effects, Heals, and Revive."
+ID_OF_DE_CAPTAINCARTER_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Captain Carter</color>. Lead the charge with painful attacks and by sustaining Rebirth allies with positive effects, Heals, and Revive."
 ID_OF_NA_AGENTVENOM_FCO_OFFER,Symbiote Super Soldier
 ID_OF_DE_AGENTVENOM_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-Star Agent Venom</color> and unlock special release offers on your next login! Bond with victory by clearing out waves of enemies with high damage attacks and granting Rebirth allies additional Damage.
 ID_OF_DE_AGENTVENOM_FCO_OFFER,Save on <color=#fff568>Symbiote Soldier Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Agent Venom</color> shards. Bond with victory by clearing out waves of enemies with high damage attacks and granting Rebirth allies additional Damage.
 ID_OF_DE_AGENTVENOM_OFFER_SHARD,Get <color=#fff568>Agent Venom</color> shards with this offer! Bond with victory by clearing out waves of enemies with high damage attacks and granting Rebirth allies additional Damage.
-ID_OF_DE_AGENTVENOM_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Agent Venom</color>. Bond with victory by clearing out waves of enemies with high damage attacks and granting Rebirth allies additional Damage."
+ID_OF_DE_AGENTVENOM_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Agent Venom</color>. Bond with victory by clearing out waves of enemies with high damage attacks and granting Rebirth allies additional Damage."
 ID_OF_NA_TITANIA_FCO_OFFER,Fame and Misfortune
 ID_OF_DE_TITANIA_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Titania</color> and unlock special release offers on your next login! Become infamous with heavy attacks and by gaining Counter and Deflect each turn.
 ID_OF_DE_TITANIA_FCO_OFFER,Save on <color=#fff568>Glow-Up Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Titania</color> shards. Become infamous with heavy attacks and by gaining Counter and Deflect each turn.
 ID_OF_DE_TITANIA_OFFER_SHARD,Get <color=#fff568>Titania</color> shards with this offer! Become infamous with heavy attacks and by gaining Counter and Deflect each turn.
-ID_OF_DE_TITANIA_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Titania</color>. Become infamous with heavy attacks and by gaining Counter and Deflect each turn."
+ID_OF_DE_TITANIA_RS_DRAFT,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Titania</color>. Become infamous with heavy attacks and by gaining Counter and Deflect each turn."
 ID_OF_NA_CAPTAINCARTER_FCO_OFFER_DUAL_STOREBAR,Captain Carter Dual Offer
 ID_OF_DE_PICK_DUAL_CAPTAINCARTER,Choose your path to power up <color=#fff568>Captain Carter</color> for raids!
 ID_OF_NA_AGENTVENOM_FCO_OFFER_DUAL_STOREBAR,Agent Venom Dual Offer
@@ -1092,21 +1092,21 @@ ID_OF_DE_HOLIDAYGENERIC_LASTCHANCE2,Time is ticking! The time to stock up on all
 ID_OF_NA_HOLIDAYGENERIC_LASTCHANCE3,HOLIDAY SAVINGS LAST CHANCE
 ID_OF_DE_HOLIDAYGENERIC_LASTCHANCE3,Last chance call! Save up and stock up now!
 ID_OF_NA_567_RSDRAFT_TEAM_UNDERWORLD_01,Red Star Draft: Underworld
-ID_OF_DE_567_RSDRAFT_TEAM_UNDERWORLD_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for one of the following characters:\n<color=#fff568>Taskmaster, Kingpin, Green Goblin, Nobu, and Mister Negative.</color>"
+ID_OF_DE_567_RSDRAFT_TEAM_UNDERWORLD_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for one of the following characters:\n<color=#fff568>Taskmaster, Kingpin, Green Goblin, Nobu, and Mister Negative.</color>"
 ID_OF_NA_567_RSDRAFT_MOONKNIGHT_01,Red Star Draft: Moon Knight
-ID_OF_DE_567_RSDRAFT_MOONKNIGHT_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) \n<color=#fff568>Moon Knight.</color>"
+ID_OF_DE_567_RSDRAFT_MOONKNIGHT_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) \n<color=#fff568>Moon Knight.</color>"
 ID_OF_NA_567_RSDRAFT_MRNEGATIVE_01,Red Star Draft: Mister Negative
-ID_OF_DE_567_RSDRAFT_MRNEGATIVE_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) \n<color=#fff568>Mister Negative.</color>"
+ID_OF_DE_567_RSDRAFT_MRNEGATIVE_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) \n<color=#fff568>Mister Negative.</color>"
 ID_OF_NA_567_RSDRAFT_ABOMINATION_01,Red Star Draft: Abomination
-ID_OF_DE_567_RSDRAFT_ABOMINATION_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) \n<color=#fff568>Abomination.</color>"
+ID_OF_DE_567_RSDRAFT_ABOMINATION_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) \n<color=#fff568>Abomination.</color>"
 ID_OF_NA_567_RSDRAFT_SPIDERMANNOIR_01,Red Star Draft: Spider-Man (Noir)
-ID_OF_DE_567_RSDRAFT_SPIDERMANNOIR_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) \n<color=#fff568>Spider-Man (Noir).</color>"
+ID_OF_DE_567_RSDRAFT_SPIDERMANNOIR_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) \n<color=#fff568>Spider-Man (Noir).</color>"
 ID_OF_NA_567_RSDRAFT_MORBIUS_01,Red Star Draft: Morbius
-ID_OF_DE_567_RSDRAFT_MORBIUS_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) \n<color=#fff568>Morbius.</color>"
+ID_OF_DE_567_RSDRAFT_MORBIUS_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) \n<color=#fff568>Morbius.</color>"
 ID_OF_NA_567_RSDRAFT_LDS_01,Red Star Draft: Lady Deathstrike
-ID_OF_DE_567_RSDRAFT_LDS_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) \n<color=#fff568>Lady Deathstrike.</color>"
+ID_OF_DE_567_RSDRAFT_LDS_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) \n<color=#fff568>Lady Deathstrike.</color>"
 ID_OF_NA_567_RSDRAFT_SERSI_01,Red Star Draft: Sersi
-ID_OF_DE_567_RSDRAFT_SERSI_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) \n<color=#fff568>Sersi.</color>"
+ID_OF_DE_567_RSDRAFT_SERSI_01_VAR,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) \n<color=#fff568>Sersi.</color>"
 ID_OF_NA_DESTRUCTIVEDIVA_STARTER,Destructive Diva Starter Bundle
 ID_OF_DE_DESTRUCTIVEDIVA_STARTER,"Get a head start on the <color=#fff568>Destructive Diva Milestone</color> with this high value offer! "
 ID_OF_NA_DESTRUCTIVEDIVA_CATCHUP,Destructive Diva Catch-up Bundle
@@ -1210,16 +1210,16 @@ ID_DE_LNY2023_ABM,"Celebrate the <color=#ff0000>Lunar New Year</color> by enhanc
 ID_DE_LNY2023_TRAINING,Get your characters ready for the <color=#ff0000>Lunar New Year</color> with our special in-game training materials offer. Act now to make the most of this <color=#ff0000>limited-time</color> deal.
 ID_DE_LNY2023_LUNARNYSUPERSALE,Take you roster to new heights with a special <color=#ff0000>Lunar New Year</color> sale. It's packed with so much value you'll have to tap to see all that's included!
 ID_DE_LNY2023_LUNARNYGOLD,"Get your team ready for the <color=#ff0000>Lunar New Year</color> with our gold offer. Use gold to upgrade your characters, purchase supplies and dominate the competition. Make the most of this <color=#ff0000>limited-time</color> offer and stock up now!"
-ID_DE_LNY2023_JUBILEEDRAFT,"Fortune has smiled upon you with this exclusive <color=#ff0000>Lunar New Year</color> offer! Get an equal chance of either a <color=#ff0000>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) <color=#ff0000>Jubilee</color>! Continue checking back the store for more offers this month!"
+ID_DE_LNY2023_JUBILEEDRAFT,"Fortune has smiled upon you with this exclusive <color=#ff0000>Lunar New Year</color> offer! Get an equal chance of either a <color=#ff0000>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) <color=#ff0000>Jubilee</color>! Continue checking back the store for more offers this month!"
 ID_DE_LNY2023_SUNFIRE,Light up the sky this <color=#ff0000>Lunar New Year</color> with this <color=#ff0000>Sunfire</color> offer! Don't miss out on this <color=#ff0000>limited-time</color> deal to stock up on <color=#ff0000>Sunfire</color> shards!
-ID_DE_LNY2023_SUNFIREDRAFT,"Fortune has smiled upon you with this exclusive <color=#ff0000>Lunar New Year</color> offer! Get an equal chance of either a <color=#ff0000>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) <color=#ff0000>Sunfire</color>! Continue checking back the store for more offers this month!"
+ID_DE_LNY2023_SUNFIREDRAFT,"Fortune has smiled upon you with this exclusive <color=#ff0000>Lunar New Year</color> offer! Get an equal chance of either a <color=#ff0000>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) <color=#ff0000>Sunfire</color>! Continue checking back the store for more offers this month!"
 ID_DE_LNY2023_ELITE,Get ready for <color=#ff0000>Lunar New Year</color> by stocking up on Elite 5 Credits with this <color=#ff0000>limited-time</color> offer. Power up your roster with this valuable offer!
 ID_DE_LNY2023_IKARIS,Make the most of <color=#ff0000>Lunar New Year</color> by upgrading your roster and adding the powerful Eternal Ikaris to your team with this offer! Stock up on <color=#ff0000>Ikaris</color> shards to take your game to the next level before the offer ends!
 ID_DE_LNY2023_BRAWN,Upgrade your Gamma team in time for <color=#ff0000>Lunar New Year</color> with <color=#ff0000>Brawn</color>! Don't miss out on this opportunity to take advantage of our <color=#ff0000>limited-time</color> shard offer to stock up on <color=#ff0000>Brawn</color> shards!
 ID_DE_LNY2023_WONGCOLLEENWINGSHANGCHI,"Unlock the full potential of Wong, Colleen Wing, and Shang-Chi with this <color=#ff0000>limited-time Lunar New Year</color> sale. Stock up on shards for powerful martial artists to dominate the competition. Act now and take advantage of this opportunity to upgrade your roster"
-ID_DE_LNY2023_BRAWNDRAFT,"Fortune has smiled upon you with this exclusive <color=#ff0000>Lunar New Year</color> offer! Get an equal chance of either a <color=#ff0000>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) <color=#ff0000>Brawn</color>! Continue checking back the store for more offers this month!"
-ID_DE_LNY2023_WONGCOLLEENWINGSHANGCHIDRAFT,"Fortune has smiled upon you with this exclusive <color=#ff0000>Lunar New Year</color> offer! Get an equal chance of either a <color=#ff0000>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#ff0000>Wong, Colleen Wing, or Shang-Chi</color>! Continue checking back the store for more offers this month!"
-ID_DE_LNY2023_NICODRAFT,"Fortune has smiled upon you with this exclusive <color=#ff0000>Lunar New Year</color> offer! Get an equal chance of either a <color=#ff0000>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) <color=#ff0000>Nico Minoru</color>! Continue checking back the store for more offers this month!"
+ID_DE_LNY2023_BRAWNDRAFT,"Fortune has smiled upon you with this exclusive <color=#ff0000>Lunar New Year</color> offer! Get an equal chance of either a <color=#ff0000>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) <color=#ff0000>Brawn</color>! Continue checking back the store for more offers this month!"
+ID_DE_LNY2023_WONGCOLLEENWINGSHANGCHIDRAFT,"Fortune has smiled upon you with this exclusive <color=#ff0000>Lunar New Year</color> offer! Get an equal chance of either a <color=#ff0000>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#ff0000>Wong, Colleen Wing, or Shang-Chi</color>! Continue checking back the store for more offers this month!"
+ID_DE_LNY2023_NICODRAFT,"Fortune has smiled upon you with this exclusive <color=#ff0000>Lunar New Year</color> offer! Get an equal chance of either a <color=#ff0000>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) <color=#ff0000>Nico Minoru</color>! Continue checking back the store for more offers this month!"
 ID_DE_LNY2023_RESOURCE,"<color=#ff0000>Lunar New Year</color> is here and it's time to upgrade your roster with this special offer. Stock up on Energy, Power Cores, Gold, and Training Materials to level up your characters and conquer your rivals. Take advantage of this <color=#ff0000>limited-time</color> deal now!"
 ID_DE_LNY2023_ENERGY,"<color=#ff0000>Lunar New Year</color>is here, and it's the perfect time to get Energy and supercharge your progress! Don't miss out on this <color=#ff0000>limited-time</color> offer and fuel your characters for victory."
 ID_DE_LNY2023_GPC,Celebrate <color=#ff0000>Lunar New Year</color>and prosper with this <color=#ff0000>Gold Promotion Credit</color>offer! Use <color=#ff0000>Gold Promotion Credits</color> to fully power your roster and make the most of your year. Take advantage of this <color=#ff0000>limited-time</color> offer and make this new year your best yet!
@@ -1318,9 +1318,9 @@ ID_OF_DE_ABSORBINGMAN_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Absorbi
 ID_OF_DE_ABSORBINGMAN_FCO_OFFER,"Save on <color=#fff568>Materialistic Orbs</color>, each having a chance to earn <color=#fff568>up to 180 Absorbing Man</color> shards. Soak up enemy attacks, clear effects, and crush Cosmic Crucible with this <color=#fff568>Master of Evil</color> team member!"
 ID_OF_DE_ABSORBINGMAN_OFFER_SHARD,"Power up <color=#fff568>Absorbing Man</color> with this shard offer! Soak up enemy attacks, clear effects, and crush Cosmic Crucible with this <color=#fff568>Master of Evil</color> team member!"
 ID_OF_NA_ABSORBINGMAN_RS_DRAFT,Red Star Draft: Absorbing Man
-ID_OF_DE_ABSORBINGMAN_RS_DRAFT_345,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star level 3, Maximum Red Star Level 5) for <color=#fff568>Absorbing Man</color>. Crush Cosmic Crucible opponents with this <color=#fff568>Master of Evil</color> team member."
-ID_OF_DE_ABSORBINGMAN_RS_DRAFT_456,"Get an equal chance of either a <color=#fff568>4, 5, or 6 Red Star</color> (Minimum Red Star level 4, Maximum Red Star Level 6) for <color=#fff568>Absorbing Man</color>. Crush Cosmic Crucible opponents with this <color=#fff568>Master of Evil</color> team member."
-ID_OF_DE_ABSORBINGMAN_RS_DRAFT_567,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Absorbing Man</color>. Crush Cosmic Crucible opponents with this <color=#fff568>Master of Evil</color> team member."
+ID_OF_DE_ABSORBINGMAN_RS_DRAFT_345,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star Level 3, Maximum Red Star Level 5) for <color=#fff568>Absorbing Man</color>. Crush Cosmic Crucible opponents with this <color=#fff568>Master of Evil</color> team member."
+ID_OF_DE_ABSORBINGMAN_RS_DRAFT_456,"Get an equal chance of either a <color=#fff568>4, 5, or 6 Red Star</color> (Minimum Red Star Level 4, Maximum Red Star Level 6) for <color=#fff568>Absorbing Man</color>. Crush Cosmic Crucible opponents with this <color=#fff568>Master of Evil</color> team member."
+ID_OF_DE_ABSORBINGMAN_RS_DRAFT_567,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Absorbing Man</color>. Crush Cosmic Crucible opponents with this <color=#fff568>Master of Evil</color> team member."
 ID_OF_NA_TEAM_MASTERSOFEVIL,Team Offer: Masters of Evil
 ID_OF_DE_TEAM_MASTERSOFEVIL,Dominate the Cosmic Crucible by powering up these members of the <color=#fff568>Masters of Evil</color>!
 ID_OF_NA_ABSORBINGMAN_WEB_FCO_OFFER2,Web Extra: Absorbing Man
@@ -1388,9 +1388,9 @@ ID_OF_DE_KANGTHECONQUEROR_WEB_EXTRA_FCO_OFFER,"A <color=#fff568>Web Special</col
 ID_OF_DE_KANGTHECONQUEROR_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Kang the Conqueror</color> and unlock special release offers on your next visit! Fill <color=#fff568>all your allies Speed Bar</color> and control the future of your enemies with this <color=#fff568>Master of Evil</color>.
 ID_OF_DE_KANGTHECONQUEROR_OFFER_SHARD,Power up <color=#fff568>Kang the Conqueror</color> with this shard offer! Fill <color=#fff568>all your allies Speed Bar</color> and control the future of your enemies with this <color=#fff568>Master of Evil</color>.
 ID_OF_NA_KANGTHECONQUEROR_RS_DRAFT,Red Star Draft: Kang the Conqueror
-ID_OF_DE_KANGTHECONQUEROR_RS_DRAFT_345,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star level 3, Maximum Red Star Level 5) for <color=#fff568>Kang the Conqueror</color>. Fill <color=#fff568>all your allies Speed Bar</color> and control the future of your enemies with this <color=#fff568>Master of Evil</color>."
-ID_OF_DE_KANGTHECONQUEROR_RS_DRAFT_456,"Get an equal chance of either a <color=#fff568>4, 5, or 6 Red Star</color> (Minimum Red Star level 4, Maximum Red Star Level 6) for <color=#fff568>Kang the Conqueror</color>. Fill <color=#fff568>all your allies Speed Bar</color> and control the future of your enemies with this <color=#fff568>Master of Evil</color>."
-ID_OF_DE_KANGTHECONQUEROR_RS_DRAFT_567,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star level 5, Maximum Red Star Level 7) for <color=#fff568>Kang the Conqueror</color>. Fill <color=#fff568>all your allies Speed Bar</color> and control the future of your enemies with this <color=#fff568>Master of Evil</color>."
+ID_OF_DE_KANGTHECONQUEROR_RS_DRAFT_345,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> (Minimum Red Star Level 3, Maximum Red Star Level 5) for <color=#fff568>Kang the Conqueror</color>. Fill <color=#fff568>all your allies Speed Bar</color> and control the future of your enemies with this <color=#fff568>Master of Evil</color>."
+ID_OF_DE_KANGTHECONQUEROR_RS_DRAFT_456,"Get an equal chance of either a <color=#fff568>4, 5, or 6 Red Star</color> (Minimum Red Star Level 4, Maximum Red Star Level 6) for <color=#fff568>Kang the Conqueror</color>. Fill <color=#fff568>all your allies Speed Bar</color> and control the future of your enemies with this <color=#fff568>Master of Evil</color>."
+ID_OF_DE_KANGTHECONQUEROR_RS_DRAFT_567,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Kang the Conqueror</color>. Fill <color=#fff568>all your allies Speed Bar</color> and control the future of your enemies with this <color=#fff568>Master of Evil</color>."
 ID_OF_NA_MASTERSOFEVIL_TEAM_OFFER,Masters of Evil Bundle
 ID_OF_NA_ATROCIOUSATTRACTION_STARTER,Atrocious Attraction Mega Bundle
 ID_OF_DE_ATROCIOUSATTRACTION_STARTER,Get a head start on the <color=#fff568>Atrocious Attraction Milestone</color> with this high value offer!
@@ -1531,4 +1531,14 @@ ID_OF_DE_DRIVINGFORCE_DAILYINSTERSTITIAL,You just unlocked the highest discount 
 ID_OF_NA_DRIVINGFORCE_TRUEBACKUP,Driving Force Tremendous Bundle
 ID_OF_DE_DRIVINGFORCE_TRUEBACKUP,Get <color=#fff568>Driving Force</color> progress with this tremendous value! Surge ahead!
 ID_OF_DE_TIMETROVE_INITIAL_V2,"Delve into the coffers of Kang! Each treasure you collect <color=#fff568>reveals another the next day</color> (12 days, 12 treasures). If you're late to the vault, log in again after collecting treasure to catch up before time runs out! Don't miss the final <color=#fff568>Conqueror's Time Trove</color> treasure!"
-ID_OF_DE_TIMETROVE_RECURRING_V2,"The next treasure has been uncovered! Picking it up will <color=#fff568>reveal another offering</color> each day (12 days, 12 treasures). If you're late to the vault, log in again after collecting treasure to catch up before time runs out! Don't miss the final <color=#fff568>Conqueror's Time Trove</color> treasure!"
+ID_OF_DE_TIMETROVE_RECURRING_V2,"The next treasure has been uncovered! Each treasure you collect <color=#fff568>reveals another the next day</color> (12 days, 12 treasures). If you're late to the vault, log in again after collecting treasure to catch up before time runs out! Don't miss the final <color=#fff568>Conqueror's Time Trove</color> treasure!"
+ID_OF_NA_567_RED_STAR_DRAFT_BLACKPANTHERBC,5-7 Red Star Draft: Black Panther (1MM)
+ID_OF_DE_567_RED_STAR_DRAFT_BLACKPANTHERBC,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Black Panther (1MM)</color>."
+ID_OF_NA_567_RED_STAR_DRAFT_NAKIA,5-7 Red Star Draft: Nakia
+ID_OF_DE_567_RED_STAR_DRAFT_NAKIA,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Nakia</color>."
+ID_OF_NA_567_RED_STAR_DRAFT_DARKBEAST,5-7 Red Star Draft: Dark Beast
+ID_OF_DE_567_RED_STAR_DRAFT_DARKBEAST,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Dark Beast</color>."
+ID_OF_NA_TEAM_BIONICAVENGERS,Bionic Avengers
+ID_OF_NA_TEAM_WARDOGS,War Dogs Bundle
+ID_OF_DE_TEAM_BIONICAVENGERS,"Get ready for the <color=#330044>Archangel Scourge</color> event now with this special bundle of <color=#330044>Bionic Avengers</color>. Get an assortment of Bionic Avenger shards to blast through Raid and the <color=#330044>Archangel Scourge</color> event! "
+ID_OF_DE_TEAM_WARDOGS,Power through the <color=#330044>Archangel Scourge</color> event with this special offer of War Dogs! Get <color=#330044>War Dog</color> character shards with this offer to clear through the <color=#330044>Archangel Scourge</color> event and War with ease!
