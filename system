@@ -1170,11 +1170,11 @@ ID_REQUIRES_GUARDIANS_VERBOSE,Requires <color=#fff568>GUARDIANS OF THE GALAXY</c
 ID_REQUIRES_GUARDIANS,<color=#fff568>GUARDIANS</color> Required
 ID_REQUIRES_GUARDIANS_7STAR_VERBOSE,Requires 7-star <color=#fff568>GUARDIANS OF THE GALAXY</color> characters
 ID_REQUIRES_GUARDIANS_7STAR,7-star <color=#fff568>GUARDIANS</color> Required
-ID_REQUIRES_PYM_OR_MOE,<color=#fff568>Pym Tech</color> or <color=#fff568>Masters of Evil</color>\n<color=#fff568>Kang</color> is Required
-ID_REQUIRES_PYM_OR_MOE_3YS,"3-star <color=#fff568>Pym Tech</color> or <color=#fff568>Masters of Evil</color>\n<color=#fff568>Kang</color>, <color=#fff568>Absorbing Man</color>, & <color=#fff568>Titania</color> are Required"
-ID_REQUIRES_PYM_OR_MOE_4YS,"4-star <color=#fff568>Pym Tech</color> or <color=#fff568>Masters of Evil</color>\n<color=#fff568>Kang</color>, <color=#fff568>Absorbing Man</color>, & <color=#fff568>Titania</color> are Required"
-ID_REQUIRES_PYM_OR_MOE_5YS,"5-star <color=#fff568>Pym Tech</color> or <color=#fff568>Masters of Evil</color>\n<color=#fff568>Kang</color>, <color=#fff568>Absorbing Man</color>, & <color=#fff568>Titania</color> are Required"
-ID_REQUIRES_PYM_OR_MOE_6YS,"6-star <color=#fff568>Pym Tech</color> or <color=#fff568>Masters of Evil</color>\n<color=#fff568>Kang</color>, <color=#fff568>Absorbing Man</color>, & <color=#fff568>Titania</color> are Required"
-ID_REQUIRES_PYM_OR_MOE_7YS,"7-star <color=#fff568>Pym Tech</color> or <color=#fff568>Masters of Evil</color>\n<color=#fff568>Kang</color>, <color=#fff568>Absorbing Man</color>, & <color=#fff568>Titania</color> are Required"
+ID_REQUIRES_PYM_OR_MOE,<color=#fff568>Pym Tech</color> or <color=#fff568>Masters of Evil</color>\n<color=#fff568>Kang the Conqueror</color> is Required
+ID_REQUIRES_PYM_OR_MOE_3YS,"3-star <color=#fff568>Pym Tech</color> or <color=#fff568>Masters of Evil</color>\n<color=#fff568>Kang the Conqueror</color>, <color=#fff568>Absorbing Man</color>, & <color=#fff568>Titania</color> are Required"
+ID_REQUIRES_PYM_OR_MOE_4YS,"4-star <color=#fff568>Pym Tech</color> or <color=#fff568>Masters of Evil</color>\n<color=#fff568>Kang the Conqueror</color>, <color=#fff568>Absorbing Man</color>, & <color=#fff568>Titania</color> are Required"
+ID_REQUIRES_PYM_OR_MOE_5YS,"5-star <color=#fff568>Pym Tech</color> or <color=#fff568>Masters of Evil</color>\n<color=#fff568>Kang the Conqueror</color>, <color=#fff568>Absorbing Man</color>, & <color=#fff568>Titania</color> are Required"
+ID_REQUIRES_PYM_OR_MOE_6YS,"6-star <color=#fff568>Pym Tech</color> or <color=#fff568>Masters of Evil</color>\n<color=#fff568>Kang the Conqueror</color>, <color=#fff568>Absorbing Man</color>, & <color=#fff568>Titania</color> are Required"
+ID_REQUIRES_PYM_OR_MOE_7YS,"7-star <color=#fff568>Pym Tech</color> or <color=#fff568>Masters of Evil</color>\n<color=#fff568>Kang the Conqueror</color>, <color=#fff568>Absorbing Man</color>, & <color=#fff568>Titania</color> are Required"
 ID_MANDATORY_KANG,Kang the Conqueror is a mandatory character in this mission.\n\nKang can be unlocked in Events and Offers.
 ID_MANDATORY_KANG_AM_TITANIA,"Kang the Conqueror, Absorbing Man, and Titania are mandatory characters in this mission.\n\nCheck Events and Offers to unlock these characters."

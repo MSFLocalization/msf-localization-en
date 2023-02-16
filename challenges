@@ -911,10 +911,10 @@ ID_ECM_NEMESIS_DESC_C,"Recommendations:\n- Squad Lvl 35+\n- Gear Tier 6+\n- Abil
 ID_ECM_NEMESIS_MB,"Sent by Apocalypse to rid the planet of lesser beings, Nemesis is meticulous when laying waste to humans and their allies."
 ID_ECM_NEMESIS_MC,GO!
 ID_ECM_NEMESIS_MT,The Harbinger of the End event has started!
-ID_ECM_KANG_DESC_B,Recommendations:\n- Squad Lvl 85+\n- Gear Tier 15+\n- Ability Lvl 6+\n\nAn experiment gone wrong has unleashed multiple Kangs from across the multiverse upon Nexus. Join forces with Kang and stop his variants!
-ID_ECM_KANG_DESC_A,Recommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n- Ability Lvl 5+\n\nAn experiment gone wrong has unleashed multiple Kangs from across the multiverse upon Nexus. Join forces with Kang and stop his variants!
+ID_ECM_KANG_DESC_B,Recommendations:\n- Squad Lvl 85+\n- Gear Tier 15+\n- Ability Lvl 6+\n\nAn experiment gone wrong has unleashed multiple Kangs from across the multiverse upon Nexus. Join forces with Kang the Conqueror and stop his variants!
+ID_ECM_KANG_DESC_A,Recommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n- Ability Lvl 5+\n\nAn experiment gone wrong has unleashed multiple Kangs from across the multiverse upon Nexus. Join forces with Kang the Conqueror and stop his variants!
 ID_ECM_KANG_NAME,Kang Hunt
-ID_ECM_KANG_DESC,"An experiment gone wrong has unleashed multiple Kangs from across the multiverse upon Nexus. Join forces with Kang and stop his variants!\n\nSome missions require Kang, or Kang and Absorbing Man and Titania.\n\nAll missions count as if they were Cosmic Crucible,"
+ID_ECM_KANG_DESC,"An experiment gone wrong has unleashed multiple Kangs from across the multiverse upon Nexus. Join forces with Kang the Conqueror and stop his variants!\n\nSome missions require Kang the Conqueror, or Kang the Conqueror, Absorbing Man, and Titania.\n\nAll missions count as if they were Cosmic Crucible."
 ID_ECM_KANG_DESC_C,Experience the full power of the Masters of Evil!\n\nBattle different enemy teams with a Masters of Evil team and learn why Kang Conquers Crucible!\n\nThese missions have no rewards and are just for fun.
 ID_ECM_TESTDRIVE_MOE,Try the Masters of Evil!
 ID_ECM_KANG_HARD_FLAVOR,Stop Kang Variants!
@@ -1613,7 +1613,7 @@ ID_INFO_DE_SPECIALOFFENSIVE2,Earn T2 Level 5 Ions and a 7-Red Star Absorbing Man
 ID_INFO_BO_SPECIALOFFENSIVE2,"Score towards this milestone by spending Campaign Energy and earning Raid Credits. Rewards include: \n- Gold Promotion Credits\n- Silver Promotion Credits\n- Orange and Teal Gear\n- Character shards\n- and more!\n\n<color=#fff568>Leaderboard</color>\nRack up points to climb the ranks of this Leaderboard. The top 1% will earn <color=#fff568>T2 Level 5 Ions</color> and Red Stars for Absorbing Man, with the <color=#fff568>top 10</color> earning a <color=#fff568>7-Red Star Absorbing Man</color>! Additional leaderboard rewards include Armory 17 Orbs.\n\nDon't miss these exclusive rewards!"
 ID_INFO_NA_DRIVINGFORCE,Driving Force
 ID_INFO_DE_DRIVINGFORCE,"Earn Dark Promotion Credits, Gold, and more!"
-ID_INFO_BO_DRIVINGFORCE,Spend <color=#fff568>Power Cores</color> and earn <color=#fff568>Driving Force Milestone Points</color> from offers!\n\n<color=#fff568>Driving Force</color>\nRack up points toward this 5 day milestone by spending Power Cores and earning Driving Force Milestone Points to earn:\n\n- Gold\n- Training Modules\n- T2 L4 Ions\n- Dark Promotion Credits\n- T4 Ability Materials\n- Gear\n\nDon't miss these rewards just by spending Power Cores!\n
+ID_INFO_BO_DRIVINGFORCE,Spend <color=#fff568>Power Cores</color> and earn <color=#fff568>Driving Force Milestone Points</color> from offers!\n\n<color=#fff568>Driving Force</color>\nRack up points toward this 5 day milestone by spending Power Cores and from select offers to earn:\n\n- Gold\n- Training Modules\n- T2 L4 Ions\n- Dark Promotion Credits\n- T4 Ability Materials\n- Gear\n\nDon't miss these rewards by spending Power Cores!\n
 ID_INFO_NA_HALFSHOPREFRESH,Cut and Run
 ID_INFO_DE_HALFSHOPREFRESH,50% Off Shop Refresh
 ID_INFO_BO_HALFSHOPREFRESH,50% off ALL Shop Refreshes!

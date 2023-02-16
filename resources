@@ -50,8 +50,8 @@ ID_CAMPAIGN_ENERGY_EVENT01_NAME,Stinger Energy
 ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch Sting of the Wasp missions.
 ID_CAMPAIGN_ENERGY_EVENT02_NAME,Pym Tech Energy
 ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch I am the Ant-Man missions.
-ID_CAMPAIGN_ENERGY_EVENT03_NAME,Move in Shadow Energy
-ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Move in Shadows missions.
+ID_CAMPAIGN_ENERGY_EVENT03_NAME,Conqueror's Energy
+ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Kang Hunt missions.
 ID_HC_NAME,Power Cores
 ID_HC_DESCRIPTION,"Use Power Cores to purchase Orbs, Energy Refills, Health Packs, Supplies, and Blitz Charges."
 ID_AVA-CUR_NAME,War Credits
