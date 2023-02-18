@@ -5360,6 +5360,24 @@ ID_ME_BO_GRANDTHEFTQUANTUM_ANNOUNCE,"Commander,\n\nSteal through space and time 
 ID_ME_NA_GRANDTHEFTQUANTUM_ENDING,Ending Soon: Grand Theft Quantum
 ID_ME_DE_GRANDTHEFTQUANTUM_ENDING,1 day left to earn rewards!
 ID_ME_BO_GRANDTHEFTQUANTUM_ENDING,"Commander,\n\nThe <color=#fff568>Grand Theft Quantum Milestone</color> event ends in <color=#fff568>1 day</color>. Continue earning progress and get <color=#fff568>5-Red Star Ultron, Pym Tech shards, Tech gear</color> and more before it's too late!\n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_DEBONAIRDEATH_TEASER,Coming Soon: Debonair Death
+ID_ME_DE_DEBONAIRDEATH_TEASER,Earn Death Seed and Bionic Avenger Shards!
+ID_ME_BO_DEBONAIRDEATH_TEASER,"Commander,\n\nBeckon the harbinger of death in the <color=#fff568>Debonair Death Milestone</color>. Earn valuable rewards including <color=#fff568>Death Seed, Bionic Avengers, Wakandans, Bio and Mutant Gear, and Stat Catalysts</color>! You'll also earn points in the month-long Destructive Diva Event by collecting Smartphones and the Crusher Gloves.\n\nGain progress in this <color=#fff568>3-day</color> event by collecting Reaper Fragments from Campaign Nodes and earning Blitz Credits.\n\nEach Reaper Orb contains Death Seed, Bionic Avengers, Wakandans, Minions, Non-Legendary Mutants, and Training Materials.\n\nGood luck, Commander!"
+ID_ME_NA_DEBONAIRDEATH_ANNOUNCE,LIVE: Debonair Death
+ID_ME_DE_DEBONAIRDEATH_ANNOUNCE,Earn Death Seed and Bionic Avenger Shards!
+ID_ME_BO_DEBONAIRDEATH_ANNOUNCE,"Commander,\n\nBeckon the harbinger of death in the <color=#fff568>Debonair Death Milestone</color>. Earn valuable rewards including <color=#fff568>Death Seed, Bionic Avengers, Wakandans, Bio and Mutant Gear, and Stat Catalysts</color>! You'll also earn points in the month-long Destructive Diva Event by collecting Smartphones and the Crusher Gloves.\n\nGain progress in this <color=#fff568>3-day</color> event by collecting Reaper Fragments from Campaign Nodes and earning Blitz Credits.\n\nEach Reaper Orb contains Death Seed, Bionic Avengers, Wakandans, Minions, Non-Legendary Mutants, and Training Materials.\n\nGood luck, Commander!"
+ID_ME_NA_DEBONAIRDEATH_ENDING,Ending Soon: Debonair Death
+ID_ME_DE_DEBONAIRDEATH_ENDING,1 day left to earn rewards!
+ID_ME_BO_DEBONAIRDEATH_ENDING,"Commander,\n\nThe <color=#fff568>Debonair Death Milestone</color> event ends in <color=#fff568>1 day</color>. Continue earning progress and get <color=#fff568>Death Seed, Bionic Avengers, and Wakandans shards</color> before it's too late!\n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_HEWHOREMAINS_TEASER,Coming Soon: He Who Remains
+ID_ME_DE_HEWHOREMAINS_TEASER,Unlock Kang the Conqueror!
+ID_ME_BO_HEWHOREMAINS_TEASER,"Commander,\n\nDemolish the opposition in the <color=#fff568>He Who Remains Milestone</color>. Earn valuable rewards including <color=#fff568>Kang the Conqueror Shards, T4 Ability Materials, Elite 6 Credits</color> and more! You'll also earn points in the month-long Destructive Diva Event by collecting Smartphones and the Killer Leather Jacket.\n\nGain progress in this <color=#fff568>7-day</color> event by earning Conqueror Orb Fragments from the Multiverse Master Web Milestone, Blitz wins, and daily Free Claims. Earn additional milestone points by battling with the Masters of Evil in Cosmic Crucible at certain Gear Tiers and spending Power Cores.\n\nEach Orb contains Kang the Conqueror character shards, Gold, Training Materials, and Stat Catalysts.\n\nGood luck, Commander!"
+ID_ME_NA_HEWHOREMAINS_ANNOUNCE,LIVE: He Who Remains
+ID_ME_DE_HEWHOREMAINS_ANNOUNCE,Unlock Kang the Conqueror!
+ID_ME_BO_HEWHOREMAINS_ANNOUNCE,"Commander,\n\nDemolish the opposition in the <color=#fff568>He Who Remains Milestone</color>. Earn valuable rewards including <color=#fff568>Kang the Conqueror Shards, T4 Ability Materials, Elite 6 Credits</color> and more! You'll also earn points in the month-long Destructive Diva Event by collecting Smartphones and the Killer Leather Jacket.\n\nGain progress in this <color=#fff568>7-day</color> event by earning Conqueror Orb Fragments from the Multiverse Master Web Milestone, Blitz wins, and daily Free Claims. Earn additional milestone points by battling with the Masters of Evil in Cosmic Crucible at certain Gear Tiers and spending Power Cores.\n\nEach Orb contains Kang the Conqueror character shards, Gold, Training Materials, and Stat Catalysts.\n\nGood luck, Commander!"
+ID_ME_NA_HEWHOREMAINS_ENDING,Ending Soon: He Who Remains
+ID_ME_DE_HEWHOREMAINS_ENDING,1 day left to earn rewards!
+ID_ME_BO_HEWHOREMAINS_ENDING,"Commander,\n\nThe <color=#fff568>He Who Remains Milestone</color> event ends in <color=#fff568>2 day</color>. Continue earning progress and get <color=#fff568>a 3-Star Kang the Conqueror, Elite 6 Credits, and Tech gear</color> before it's too late!\n\nDon't miss out on this opportunity, Commander!"
 ID_ME_NA_ARCHANGEL_AVAILABILITY_6RS,Archangel: 6th Red Star
 ID_ME_DE_ARCHANGEL_AVAILABILITY_6RS,Availability Updates
 ID_ME_BO_ARCHANGEL_AVAILABILITY_6RS,"Commander,\n\nContinue powering up <color=#fff568>Archangel</color> for the upcoming Apocalypse Saga! You can now find his 6 Red Star Promotion in the Elite Store by using Dark Promotion Credits.\n\nGood luck, Commander!"
@@ -5458,3 +5476,6 @@ ID_ME_BO_KANGHUNT_ENDING,"Commander,\n\nThe Kang Hunt Event ends in 3 days. Cont
 ID_ME_NA_DEATHLOK_FOUNTAIN_UPDATE,Recruit Deathlok!
 ID_ME_DE_DEATHLOK_FOUNTAIN_UPDATE,Availability Update
 ID_ME_BO_DEATHLOK_FOUNTAIN_UPDATE,"Commander,\n\n<color=#fff568>Deathlok</color> character shards are now available in the <color=#fff568>Arena Orb</color>.\n\n<color=#fff568>Strange (Heartless)</color> will move out from the Arena Orb featuring and will be available in the <color=#fff568>Arena Store</color> for <color=#fff568>975 Arena Credits</color>.\n\nRecruit <color=#fff568>The Demolisher</color> now to dominate in Raids!"
+ID_ME_NA_NEWBLOGPOST_022423,Memory Lane
+ID_ME_DE_NEWBLOGPOST_022423,New Blog Available
+ID_ME_BO_NEWBLOGPOST_022423,"Commander,\n\nJump on the information highway and take the upcoming events in this week's blog for a spin:\n\n- Memory Lane March Event Details\n- S.T.R.I.K.E. Assemble Sweepstakes\n- Death Saga\n\nDon't miss out on this alongside details for Free Claim Friday!"
