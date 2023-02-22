@@ -2413,6 +2413,10 @@ ID_QU_SD_HEWHOREMAINS,Earn Conqueror Orb Fragments and spend Power Cores
 ID_QU_LM_HEWHOREMAINS,Battle in Blitz to earn Conqueror Orbs for milestone progress
 ID_QU_S1_HEWHOREMAINS,Earn 1 Conqueror Orb Fragment
 ID_QU_S2_HEWHOREMAINS,Spend 1 Power Core
+ID_QU_S3_HEWHOREMAINS,Use Masters of Evil in Cosmic Crucible
+ID_QU_S4_HEWHOREMAINS,Use Masters of Evil in Cosmic Crucible at Gear Tier 14+
+ID_QU_S5_HEWHOREMAINS,Use Masters of Evil in Cosmic Crucible at Gear Tier 16+
+ID_QU_S6_HEWHOREMAINS,Use Masters of Evil in Cosmic Crucible at Gear Tier 17+
 ID_QU_LM_SPECIALOFFENSIVE2,Complete the milestones and climb the leaderboards to get these amazing rewards: \n\n- T2 Level 5 Ions\n- Red Stars for Absorbing Man\n- Gold and Silver Promotion Credits\n- Teal Gear\n- Character shards\n- And more!
 ID_QU_NA_DRIVINGFORCE,Driving Force
 ID_QU_SD_DRIVINGFORCE,Spend Power Cores and earn Driving Force Milestone Points!
@@ -2428,3 +2432,50 @@ ID_QU_SM_HALFSHOPREFRESH,50% off ALL Shop Refreshes!
 ID_QU_NA_MULTIVERSEMASTER,Multiverse Master
 ID_QU_SD_MULTIVERSEMASTER,Spend Campaign Energy to earn Conqueror Orb Fragments
 ID_QU_S1_MULTIVERSEMASTER,Spend 1 Campaign Energy
+ID_QU_NA_MEMORYLANE,Memory Lane
+ID_QU_SD_MEMORYLANE,Participate in March Events
+ID_QU_LM_MEMORYLANE,Participate in various events throughout the month of March to earn milestone progress.
+ID_QU_S1_MEMORYLANE,Collect Eagle Emblem
+ID_QU_S2_MEMORYLANE,Collect 1 Milestone PDA
+ID_QU_S3_MEMORYLANE,Collect 1 Challenge X-Ray
+ID_QU_S4_MEMORYLANE,Collect 1 War Helicarrier
+ID_QU_S5_MEMORYLANE,Collect 1 Alliance Donation Box
+ID_QU_S6_MEMORYLANE,Collect 1 Iso-8 Matrix Machine
+ID_QU_NA_RETURNTOTHESHADOWS,Return to the Shadows
+ID_QU_SD_RETURNTOTHESHADOWS,Earn Raid Credits and Open Gold Orbs
+ID_QU_LM_RETURNTOTHESHADOWS,Earn Raid Credits and Open Gold Orbs to earn milestone progress
+ID_QU_S1_RETURNTOTHESHADOWS,Open 1 Gold Orb
+ID_QU_S2_RETURNTOTHESHADOWS,Spend 1 Campaign Energy
+ID_QU_S3_RETURNTOTHESHADOWS,Spend 1 Move in Shadows Energy
+ID_QU_NA_SPLASH_ALISTPARTY,A-List Party
+ID_QU_SD_SPLASH_ALISTPARTY,Use A-Force in Blitz
+ID_QU_LM_SPLASH_ALISTPARTY,Earn points by using A-Force characters in Blitz Battles. Earn more points if your A-Force characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_ALISTPARTY,Use A-Force Characters in Blitz
+ID_QU_S1_SPLASH_ALISTPARTY,Win Blitz with 3-star or higher A-Force Character
+ID_QU_S2_SPLASH_ALISTPARTY,Win Blitz with 5-star or higher A-Force Character
+ID_QU_S3_SPLASH_ALISTPARTY,Win Blitz with 7-star A-Force Character
+ID_QU_NA_SPLASH_MEETMEINVALHALLA,Meet Me in Valhalla
+ID_QU_SD_SPLASH_MEETMEINVALHALLA,Use Hero Asgardian in Blitz
+ID_QU_LM_SPLASH_MEETMEINVALHALLA,Earn points by using Hero Asgardian characters in Blitz Battles. Earn more points if your Hero Asgardian characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_MEETMEINVALHALLA,Use Hero Asgardian Characters in Blitz
+ID_QU_S1_SPLASH_MEETMEINVALHALLA,Win Blitz with 3-star or higher Hero Asgardian Character
+ID_QU_S2_SPLASH_MEETMEINVALHALLA,Win Blitz with 5-star or higher Hero Asgardian Character
+ID_QU_S3_SPLASH_MEETMEINVALHALLA,Win Blitz with 7-star Hero Asgardian Character
+ID_QU_NA_SPLASH_BKTBASH,B.K.T. Bash
+ID_QU_SD_SPLASH_BKTBASH,Use B.K.T. in Blitz
+ID_QU_LM_SPLASH_BKTBASH,Earn points by using B.K.T. characters in Blitz Battles. Earn more points if your B.K.T. characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_BKTBASH,Use B.K.T. Characters in Blitz
+ID_QU_S1_SPLASH_BKTBASH,Win Blitz with 3-star or higher B.K.T. Character
+ID_QU_S2_SPLASH_BKTBASH,Win Blitz with 5-star or higher B.K.T. Character
+ID_QU_S3_SPLASH_BKTBASH,Win Blitz with 7-star B.K.T. Character
+ID_QU_NA_SPLASH_ANNIVERSARYMISSION,Anniversary Mission
+ID_QU_SD_SPLASH_ANNIVERSARYMISSION,Use S.H.I.E.L.D. in Blitz
+ID_QU_LM_SPLASH_ANNIVERSARYMISSION,Earn points by using S.H.I.E.L.D. characters in Blitz Battles. Earn more points if your S.H.I.E.L.D. characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_ANNIVERSARYMISSION,Use S.H.I.E.L.D. Characters in Blitz
+ID_QU_S1_SPLASH_ANNIVERSARYMISSION,Win Blitz with 3-star or higher S.H.I.E.L.D. Character
+ID_QU_S2_SPLASH_ANNIVERSARYMISSION,Win Blitz with 5-star or higher S.H.I.E.L.D. Character
+ID_QU_S3_SPLASH_ANNIVERSARYMISSION,Win Blitz with 7-star S.H.I.E.L.D. Character
+ID_QU_NA_CHARGINGSTATION,Charging Station
+ID_QU_SD_CHARGINGSTATION,Earn Iso-8 Ions and Memory Lane progress!
+ID_QU_LM_CHARGINGSTATION,Earn Power Cores to collect points toward this limited-time milestone
+ID_QU_S1_CHARGINGSTATION,Earn 1 Power Core

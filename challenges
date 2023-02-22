@@ -1326,7 +1326,7 @@ ID_INFO_DE_LAUNCHPARTY2022,Earn Launch Party Orb Fragments!
 ID_INFO_BO_LAUNCHPARTY2022,"Rack up points toward a 14-day daily milestone by battling in Blitz, Arena and Raid. Milestone rewards include Launch Party Orbs, Gold and more!"
 ID_INFO_NA_LAUNCHPARTY2022_WEBUPC,Bang for your Buck
 ID_INFO_DE_LAUNCHPARTY2022_WEBUPC,Earn Rewards through Web UPC's!
-ID_INFO_BO_LAUNCHPARTY2022_WEBUPC,Rack up points through this milestone by earning Web UPCs! Check out the Marvel Strike Force Blog for more info!
+ID_INFO_BO_LAUNCHPARTY2022_WEBUPC,Rack up points through this milestone by earning Web UPCs! Check out the MARVEL Strike Force Blog for more info!
 ID_INFO_NA_FESTIVALOFFORTUNE,Festival of Fortune
 ID_INFO_DE_FESTIVALOFFORTUNE,Open Festival of Fortune Orbs
 ID_INFO_BO_FESTIVALOFFORTUNE,Open limited-time Festival of Fortune Orbs! Gain Festival of Fortune Orbs via donating towards limited-time Donations Milestones.
@@ -1620,3 +1620,12 @@ ID_INFO_BO_DRIVINGFORCE,Spend <color=#fff568>Power Cores</color> and earn <color
 ID_INFO_NA_HALFSHOPREFRESH,Cut and Run
 ID_INFO_DE_HALFSHOPREFRESH,50% Off Shop Refresh
 ID_INFO_BO_HALFSHOPREFRESH,50% off ALL Shop Refreshes!
+ID_INFO_NA_MEMORYLANE,Memory Lane
+ID_INFO_DE_MEMORYLANE,Celebrate 5 Years of MARVEL Strike Force
+ID_INFO_BO_MEMORYLANE,"Earn points toward this month-long milestone by collecting Eagle Emblem, Milestone PDA, Challenge X-Ray, War Helicarrier, and Alliance Donation Box from March events. Eagle Emblem will also be available in Daily Free Claims throughout the month.\n\nThere will be several Milestone Events that provide progress towards the <color=#fff568>Memory Lane Milestone</color>.\n\nEarn at least 222,222 points to qualify for this blind Leaderboard rewarding Armory 17 Orb Fragments and T2 Level 5 Ions for the top 50 players. Other competitors can earn Gold Orb Fragments, Teal and Orange Raid Orbs, Milestone III Orb Fragments, and T2 Level 4 Ions!"
+ID_INFO_NA_RETURNTOTHESHADOWS,Return to the Shadows
+ID_INFO_DE_RETURNTOTHESHADOWS,Face your foes and earn Memory Lane progress
+ID_INFO_BO_RETURNTOTHESHADOWS,"Open Gold Orbs, use Move In Shadows Energy, and spend Campaign Energy (excluding Iso-8 Campaign Energy) to earn points toward a 5-day milestone. Rewards include:\n\n- Eagle Emblems and Milestone PDA\n- Gear Tier 16 and 17 mini-unique pieces\n- T2 Iso-8 Credits\n- Armory 16 and 17 Orb Fragments\n- Purple, Orange, and Teal Stat Catalyst Parts\n- And more!\n\n<color=#fff568>Leaderboard</color>\nClimb the ranks of a leaderboard that rewards Red Stars for Dormammu to the top 75!"
+ID_INFO_NA_CHARGINGSTATION,Charging Station
+ID_INFO_DE_CHARGINGSTATION,Earn Iso-8 Ions and Memory Lane progress!
+ID_INFO_BO_CHARGINGSTATION,Earn Power Cores to collect points toward this limited-time milestone that rewards:\n\n- Eagle Emblems for the Memory Lane Event\n- T2 Level 4 Ions\n- T2 Level 1 Ions\n- T1 Ions\n\nStock up on Ions and make progress toward Memory Lane today!
