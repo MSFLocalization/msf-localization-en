@@ -2479,3 +2479,21 @@ ID_QU_NA_CHARGINGSTATION,Charging Station
 ID_QU_SD_CHARGINGSTATION,Earn Iso-8 Ions and Memory Lane progress!
 ID_QU_LM_CHARGINGSTATION,Earn Power Cores to collect points toward this limited-time milestone
 ID_QU_S1_CHARGINGSTATION,Earn 1 Power Core
+ID_QU_NA_COLDSTORAGE,Cold Storage
+ID_QU_SD_COLDSTORAGE,Earn Crucible Credits and Spend Power Cores
+ID_QU_LM_COLDSTORAGE,Earn Crucible Credits and Spend Power Cores to earn milestone progress
+ID_QU_S1_COLDSTORAGE,Earn 1 Cosmic Crucible Credit
+ID_QU_S2_COLDSTORAGE,Spend 1 Power Core
+ID_QU_S3_COLDSTORAGE,Use Moonstone in Cosmic Crucible
+ID_QU_S4_COLDSTORAGE,Use Moonstone in Cosmic Crucible at 5 Stars or higher
+ID_QU_S5_COLDSTORAGE,Use Moonstone in Cosmic Crucible at 6 Stars or higher
+ID_QU_S6_COLDSTORAGE,Use Moonstone in Cosmic Crucible at 7 Stars
+ID_QU_NA_HISTORICENCOUNTER,Historic Encounter
+ID_QU_SD_HISTORICENCOUNTER,Power up Apocalypse Saga characters
+ID_QU_LM_HISTORICENCOUNTER,"Use Kree Commando Energy from the Kree Commando Event Campaign and earn Historic Orb Fragments from select Campaign nodes and offers to earn points toward this 7-day milestone.\n\nClimb the ranks of a leaderboard to earn Iso-8 resources and a new costume! The top 500 players will receive T2 Level 5 Ions and Doctor Octopus's ""No Way Home"" Costume."
+ID_QU_S1_HISTORICENCOUNTER,Spend 1 Kree Commando Energy
+ID_QU_S2_HISTORICENCOUNTER,Earn 1 Historic Orb Fragment
+ID_QU_SD_COMMANDERSCACHE_MARCH,Spend Gold and Power Cores
+ID_QU_LD_COMMANDERSCACHE_MARCH,Earn lucrative milestone and leaderboard rewards.\n\n- Red Stars for Archangel\n- T2 Level 5 Ions\n- 5-Red Star Mighty Thor\n- Hero Asgardian character shards\n- Ability Materials\n- Teal Mini-Uniques\n- Catalyst Parts\n- And more!
+ID_QU_SM_COMMANDERSCACHE_MARCH,Spend Gold and Power Cores
+ID_QU_SC_COMMANDERSCACHE_MARCH,Spend Gold and Power Cores
