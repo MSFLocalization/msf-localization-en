@@ -44,6 +44,8 @@ ID_MOTD_NA_STARTEROFFER,Unlock Captain America
 ID_MOTD_DE_STARTEROFFER,Recruit Cap by purchasing the New Player Special Offer!
 ID_MOTD_NA_STARTEROFFER_BP,Unlock Black Panther
 ID_MOTD_DE_STARTEROFFER_BP,Recruit Black Panther by purchasing the New Player Special Offer!
+ID_MOTD_NA_THANOS_LEGEND_PREVIEW,Coming Soon: The Mad Titan
+ID_MOTD_DE_THANOS_LEGEND_PREVIEW,Thanos is on the way with a special mission...
 ID_MOTD_NA_THANOS_LEGEND,The Mad Titan Arrives
 ID_MOTD_DE_THANOS_LEGEND,Take on Thanos in The Mad Titan event!
 ID_MOTD_NA_THANOS_RAID,LIMITED: Thanos Raids
@@ -252,18 +254,24 @@ ID_MOTD_NA_ANTMAN_WASP_TEAMUP_LIVE,LIVE: Back to Tiny World
 ID_MOTD_DE_ANTMAN_WASP_TEAMUP_LIVE,Join Ant-Man and Wasp on their adventure to tiny Earth!
 ID_MOTD_NA_ANTMAN_WASP_TEAMUP_PREVIEW,Upcoming: Back to Tiny World
 ID_MOTD_DE_ANTMAN_WASP_TEAMUP_PREVIEW,Join up with Ant-Man and Wasp in this new adventure!
-ID_MOTD_NA_ANTMANWASP,Back to Tiny World: Now Live!
-ID_MOTD_DE_ANTMANWASP,Battle with Ant-Man and the Wasp for huge rewards!
-ID_MOTD_NA_ANTMANWASPTEASER,Coming Soon: Back to Tiny World
-ID_MOTD_DE_ANTMANWASPTEASER,"Event starts March 27, 5:00PM (PDT)!"
-ID_MOTD_NA_ROCKETGROOT,Rocket's Gambit: Now Live!
-ID_MOTD_DE_ROCKETGROOT,Battle for a chance to win Rocket Raccoon shards
-ID_MOTD_NA_ROCKETGROOT_ECINTRO,LIMITED: Rocket's Gambit
-ID_MOTD_DE_ROCKETGROOT_ECINTRO,Play the event to earn Rocket Raccoon shards!
+ID_MOTD_NA_ROCKET_LEGEND_PREVIEW,Coming Soon: Rocket's Gambit
+ID_MOTD_DE_ROCKET_LEGEND_PREVIEW,Team up with Rocket Raccoon for a big score!
+ID_MOTD_NA_ROCKET_LEGEND,Rocket's Gambit: Now Live!
+ID_MOTD_DE_ROCKET_LEGEND,Battle for a chance to win Rocket Raccoon shards
+ID_MOTD_NA_ROCKET_ECINTRO,LIMITED: Rocket's Gambit
+ID_MOTD_DE_ROCKET_ECINTRO,Play the event to earn Rocket Raccoon shards!
 ID_MOTD_NA_SWMM_PREVIEW,Coming Soon: Bendy Girl & The Witch
 ID_MOTD_DE_SWMM_PREVIEW,"Event starts April 8, 5:00PM (PDT)!"
 ID_MOTD_NA_SWMM,Bendy Girl & The Witch: Now Live!
 ID_MOTD_DE_SWMM,Battle with Scarlet Witch and Ms. Marvel for huge rewards!
+ID_MOTD_NA_MEGA_TEAMUP_PREVIEW,Coming Soon: Tiny Tiny Showdown
+ID_MOTD_DE_MEGA_TEAMUP_PREVIEW,"Join Rocket, Groot, Ant-Man, and Wasp for a big mission!"
+ID_MOTD_NA_MEGA_TEAMUP_LIVE,LIVE: Tiny Tiny Showdown
+ID_MOTD_DE_MEGA_TEAMUP_LIVE,"Battle with Rocket, Groot, Ant-Man, and Wasp for big rewards!"
+ID_MOTD_NA_ROCKET_GROOT_TEAMUP_PREVIEW,Coming Soon: Secret Admirers
+ID_MOTD_DE_ROCKET_GROOT_TEAMUP_PREVIEW,Get ready for Rocket and Groot's greatest adventure yet!
+ID_MOTD_NA_ROCKET_GROOT_TEAMUP_LIVE,LIVE: Secret Admirers
+ID_MOTD_DE_ROCKET_GROOT_TEAMUP_LIVE,Rocket and Groot need your help on a lucrative mission!
 ID_MOTD_NA_4ASGARD,Live: 4 Asgard!
 ID_MOTD_DE_4ASGARD,2x Asgardian shards from Campaign
 ID_MOTD_NA_BADSCIENCE,Live: Bad Science
@@ -1709,3 +1717,12 @@ ID_MOTD_NA_CHARGINGSTATION_TEASER,Coming Soon: Charging Station
 ID_MOTD_DE_CHARGINGSTATION_TEASER,Earn Iso-8 Ions and Memory Lane progress!
 ID_MOTD_NA_CHARGINGSTATION_LIVE,LIVE: Charging Station
 ID_MOTD_DE_CHARGINGSTATION_LIVE,Earn tons of Iso-8 Ions just by collecting Power Cores!
+ID_MOTD_NA_MOONSTONE_TEASER,Coming Soon: Moonstone
+ID_MOTD_DE_MOONSTONE_TEASER,The Master Manipulator will control the Cosmic Crucible!
+ID_MOTD_NA_MOONSTONE_ANNOUNCE,Ready for Battle: Moonstone
+ID_MOTD_DE_MOONSTONE_ANNOUNCE,Control Cosmic Crucible with Stuns and Speed Bar manipulation!
+ID_MOTD_DE_MOONSTONE_ANNOUNCE2,Open limited-time Gravitational Force Orbs to earn shards!
+ID_MOTD_NA_COLDSTORAGE_ANNOUNCE,Coming Soon: Cold Storage
+ID_MOTD_DE_COLDSTORAGE_ANNOUNCE,Earn Masters of Evil and Tangled Web shards and more!
+ID_MOTD_NA_COLDSTORAGE_LIVE,LIVE: Cold Storage
+ID_MOTD_DE_COLDSTORAGE_LIVE,Earn Masters of Evil and Tangled Web shards and more!
