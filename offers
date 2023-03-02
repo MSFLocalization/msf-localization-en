@@ -1567,7 +1567,7 @@ ID_OF_DE_RETURNTOTHESHADOWS_MEGA_BUNDLE,Boost your <color=#fff568>Return to the 
 ID_OF_NA_RETURNTOTHESHADOWS_DAILY_CLAIM,Free Return to the Shadows Claim
 ID_OF_DE_RETURNTOTHESHADOWS_DAILY_CLAIM,Come back daily to boost your <color=#fff568>Return to the Shadows Milestone</color> progress!
 ID_OF_NA_RETURNTOTHESHADOWS_STARTER_NORMAL,Return to the Shadows Starter
-ID_OF_DE_RETURNTOTHESHADOWS_STARTER_NORMAL,"Get ahead on the <color=#fff568>Return to the Shadown</color> milestone and leaderboard for <color=#fff568>Dormammu Red Stars</color>, <color=#fff568>T2 Level 5 Ions</color> and more!"
+ID_OF_DE_RETURNTOTHESHADOWS_STARTER_NORMAL,"Get ahead on the <color=#fff568>Return to the Shadows</color> milestone and leaderboard for <color=#fff568>Dormammu Red Stars</color>, <color=#fff568>T2 Level 5 Ions</color> and more!"
 ID_OF_NA_RETURNTOTHESHADOWS_DAILY_WEB,Daily Return to the Shadows Bundle
 ID_OF_DE_RETURNTOTHESHADOWS_DAILY_WEB,Come back daily to boost your <color=#fff568>Return to the Shadows Milestone</color> progress!
 ID_OF_NA_RETURNTOTHESHADOWS_SMALL_CATCHUP,Return to the Shadows Catch-Up Offer
@@ -1579,7 +1579,7 @@ ID_OF_DE_RETURNTOTHESHADOWS_DAILY_GOLD,Progress in the <color=#fff568>Return to 
 ID_OF_NA_RETURNTOTHESHADOWS_WEB_MEGA,Mega Return to the Shadows Bundle
 ID_OF_DE_RETURNTOTHESHADOWS_WEB_MEGA,Boost your <color=#fff568>Return to the Shadows Milestone</color> progress with this spectacular deal!
 ID_OF_NA_RETURNTOTHESHADOWS_SUPER_STARTER,Return to the Shadows Super Starter
-ID_OF_DE_RETURNTOTHESHADOWS_SUPER_STARTER,"Get ahead on the <color=#fff568>Return to the Shadown</color> milestone and leaderboard for <color=#fff568>Dormammu Red Stars</color>, <color=#fff568>T2 Level 5 Ions</color> and more!"
+ID_OF_DE_RETURNTOTHESHADOWS_SUPER_STARTER,"Get ahead on the <color=#fff568>Return to the Shadows</color> milestone and leaderboard for <color=#fff568>Dormammu Red Stars</color>, <color=#fff568>T2 Level 5 Ions</color> and more!"
 ID_OF_NA_MOONSTONE_FCO_OFFER,Master Manipulator
 ID_OF_DE_MOONSTONE_FCO_OFFER,"Save on <color=#fff568>Gravitational Force Orbs</color>, each having a chance to earn <color=#fff568>up to 180 Moonstone</color> shards. Control Cosmic Crucible with Stuns and Speed Bar manipulation and complete your <color=#fff568>Masters of Evil</color> team!"
 ID_OF_NA_MOONSTONE_WEB_EXTRA_FCO_OFFER,Web Extra: Moonstone
@@ -1592,3 +1592,27 @@ ID_OF_NA_MOONSTONE_RS_DRAFT,Red Star Draft: Moonstone
 ID_OF_DE_MOONSTONE_RS_DRAFT_345,"Get an equal chance of either a <color=#fff568>3, 4, or 5 Red Star</color> for <color=#fff568>Moonstone</color>. Control Cosmic Crucible with Stuns and Speed Bar manipulation and complete your <color=#fff568>Masters of Evil</color> team!"
 ID_OF_DE_MOONSTONE_RS_DRAFT_456,"Get an equal chance of either a <color=#fff568>4, 5, or 6 Red Star</color> for <color=#fff568>Moonstone</color>. Control Cosmic Crucible with Stuns and Speed Bar manipulation and complete your <color=#fff568>Masters of Evil</color> team!"
 ID_OF_DE_MOONSTONE_RS_DRAFT_567,"Get an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> for <color=#fff568>Moonstone</color>. Control Cosmic Crucible with Stuns and Speed Bar manipulation and complete your <color=#fff568>Masters of Evil</color> team!"
+ID_OF_NA_COLDSTORAGE_STARTER,Cold Storage Starter Bundle
+ID_OF_DE_COLDSTORAGE_STARTER,"Get a head start on the <color=#fff568>Cold Storage Milestone</color> with this high value offer! "
+ID_OF_NA_COLDSTORAGE_CATCHUP,Cold Storage Catch-up Bundle
+ID_OF_DE_COLDSTORAGE_CATCHUP,Take advantage of this spectacular deal to get through the end of the <color=#fff568>Cold Storage Milestone</color> and get your final rewards!
+ID_OF_NA_COLDSTORAGE_MEGA,Cold Storage Mega Bundle
+ID_OF_DE_COLDSTORAGE_MEGA,Sled through the <color=#fff568>Cold Storage event</color> with this ice-cold bundle and get valuable resources to power up your roster!
+ID_OF_NA_COLDSTORAGE_FREECLAIM,Cold Storage Free Bundle
+ID_OF_DE_COLDSTORAGE_FREECLAIM,Get your free bundle for progress in the <color=#fff568>Cold Storage Milestone</color>. Check the website for free progress every day to finish the event!
+ID_OF_NA_COLDSTORAGE_POINTS,Cold Storage Progress Pack
+ID_OF_DE_COLDSTORAGE_POINTS,Purchase this high-value pack of Event Points to sweep the competition in the <color=#fff568>Cold Storage Leaderboards</color>!
+ID_OF_NA_COLDSTORAGE_BUNDLE,Cold Storage Bundle
+ID_OF_DE_COLDSTORAGE_BUNDLE,Battle through the <color=#fff568>Cold Storage Milestone</color> with this amazing bundle of resources!
+ID_OF_NA_LOYALPAYER_1,A One-Time Opportunity!
+ID_OF_NA_LOYALPAYER_2,Special Exclusive Offer!
+ID_OF_NA_LOYALPAYER_3,A Valuable Booster!
+ID_OF_NA_LOYALPAYER_4,Don't Miss This Limited Offer!
+ID_OF_DE_LOYALPAYER_1,<color=#ffda21>One-time offer</color> just for you! Take advantage of this opportunity before it's gone!
+ID_OF_DE_LOYALPAYER_2,<color=#ffda21>Exclusive</color> bundle! Level up your roster with this <color=#ffda21>one-time offer</color> today!
+ID_OF_DE_LOYALPAYER_3,Don't miss out on this <color=#ffda21>one-time</color> opportunity to get such a <color=#ffda21>valuable</color> bundle! Get it now for unprecedented value!
+ID_OF_DE_LOYALPAYER_4,This <color=#ffda21>limited time</color> offer is just for you! Take advantage of it before it's gone!
+ID_OF_DE_COMMANDERSCACHE_POINTS_MARCH,Fast track your progress in the <color=#fff568>Commander's Cache Milestone</color> with this amazing deal! Complete milestones and climb up the leaderboard ranks for exclusive <color=#fff568>Archangel Red Stars</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_DE_COMMANDERSCACHE_STARTER_VAR2_MARCH,"Get ahead on the <color=#fff568>Commander's Cache</color> milestones and leaderboards to better your chances at <color=#fff568>Archangel Red Stars</color>, <color=#fff568>T2 Level 5 Ions</color>, and more!"
+ID_OF_DE_COMMANDERSCACHE_CATCHUP_1_MARCH,Take advantage of this spectacular deal and obtain your final <color=#fff568>Commander's Cache</color> milestone rewards! Get an edge on the <color=#fff568>leaderboard</color> for exclusive <color=#fff568>Archangel Red Stars</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_DE_COMMANDERSCACHE_CATCHUP_2_MARCH,Take advantage of this spectacular deal and obtain your final <color=#fff568>Commander's Cache</color> milestone rewards! Get an edge on the <color=#fff568>leaderboard</color> for exclusive <color=#fff568>Archangel Red Stars</color> and <color=#fff568>T2 Level 5 Ions</color>!
