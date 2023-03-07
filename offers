@@ -1617,7 +1617,7 @@ ID_OF_DE_COMMANDERSCACHE_STARTER_VAR2_MARCH,"Get ahead on the <color=#fff568>Com
 ID_OF_DE_COMMANDERSCACHE_CATCHUP_1_MARCH,Take advantage of this spectacular deal and obtain your final <color=#fff568>Commander's Cache</color> milestone rewards! Get an edge on the <color=#fff568>leaderboard</color> for exclusive <color=#fff568>Archangel Red Stars</color> and <color=#fff568>T2 Level 5 Ions</color>!
 ID_OF_DE_COMMANDERSCACHE_CATCHUP_2_MARCH,Take advantage of this spectacular deal and obtain your final <color=#fff568>Commander's Cache</color> milestone rewards! Get an edge on the <color=#fff568>leaderboard</color> for exclusive <color=#fff568>Archangel Red Stars</color> and <color=#fff568>T2 Level 5 Ions</color>!
 ID_OF_NA_COMMANDERSCACHE_DAILYMILESTONE_MARCH,Daily Milestone Boost
-ID_OF_DE_COMMANDERSCACHE_DAILYMILESTONE_MARCH,Take advantage of these <color=#fff568> Commander's Cache Milestone Points</color> to speed up your progress and position yourself for success on the leaderboard for <color=#fff568>Archangel Red Stars</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_DE_COMMANDERSCACHE_DAILYMILESTONE_MARCH,Take advantage of these <color=#fff568>Commander's Cache Milestone Points</color> to speed up your progress and position yourself for success on the leaderboard for <color=#fff568>Archangel Red Stars</color> and <color=#fff568>T2 Level 5 Ions</color>!
 ID_OF_NA_COMMANDERSCACHE_DAILYFREE_MARCH,Commander's Cache Free Claim
 ID_OF_DE_COMMANDERSCACHE_DAILYFREE_MARCH,"We salute you, Commander, with this claim for progress in the <color=#fff568>Commander's Cache milestone</color>. Don't miss out on the one-time offer after claiming this gift!"
 ID_OF_NA_COMMANDERSCACHE_DAILYINSTERSTITIAL_MARCH,Web Special: Commander's Cache
@@ -1626,3 +1626,43 @@ ID_OF_NA_COMMANDERSCACHE_10FOR10_MARCH,10 for 10!
 ID_OF_DE_COMMANDERSCACHE_10FOR10_MARCH,The <color=#fff568>Commander's Cache</color> will be supplying a new 10 for 10 deal each day of the event. Check back daily and don't miss out!
 ID_OF_NA_5THANNIVERSARY_SNEAKPEAK,5th Anniversary Sneak Peak
 ID_OF_DE_5THANNIVERSARY_SNEAKPEAK,Save big on this very special Pre-Anniversary deal and prepare to join us in celebrating 5 years of MSF!
+ID_OF_NA_APOC_THEDOCTOR,Apocalypse Special - The Doctor
+ID_OF_DE_APOC_THEDOCTOR,"Prepare your Darkhold team for the Apocalypse Saga with {var1} Strange (Heartless) shards, <color=#fff500>{var2} Augmented Promethium</color>, and more!"
+ID_OF_NA_APOC_THESORCEROR,Apocalypse Special - The Sorceror
+ID_OF_DE_APOC_THESORCEROR,"Prepare your Darkhold team for the Apocalypse Saga with {var1} Wong shards, <color=#fff500>{var2} Augmented Focused Chi</color>, and more!"
+ID_OF_NA_APOC_THESCARLET,Apocalypse Special - The Scarlet
+ID_OF_DE_APOC_THESCARLET,"Prepare your Darkhold team for the Apocalypse Saga with <color=#fff500>{var1} Augmented Promethium</color>, an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) Scarlet Witch, and more!"
+ID_OF_NA_APOC_THEWITCH,Apocalypse Special - The Witch
+ID_OF_DE_APOC_THEWITCH,"Prepare your Darkhold team for the Apocalypse Saga with {var1} Agatha Harkenss shards, <color=#fff500>{var2} Augmented Arcane Magic</color>, and more!"
+ID_OF_NA_APOC_BASICCATS,Incredible Catalysts
+ID_OF_DE_APOC_BASICCATS,"Basic Catalyst Special! Don't miss out on this opportunity to get <color=#fff500>{var1} Augmented Basic Catalyst Parts, {var2} Superior Basic Catalyst Parts, and {var3} Advanced Basic Catalyst Parts</color>!"
+ID_OF_NA_APOC_FOCUSCATS,Apocalypse Special - Focus
+ID_OF_DE_APOC_FOCUSCATS,"Prepare for the Apocalypse Saga with {var1} Augmented Focus Catalyst Parts, {var2} Superior Focus Catalyst Parts, and more!"
+ID_OF_NA_APOC_MYSTICGEAR,Apocalypse Special - Mystic Majesty
+ID_OF_DE_APOC_MYSTICGEAR,Prepare for the Apocalypse Saga with this mountain of Augmented Mystic gear!
+ID_OF_NA_APOC_THEMONSTER,Apocalypse Special - The Monster
+ID_OF_DE_APOC_THEMONSTER,"Prepare your Gamma team for the Apocalypse Saga with {var1} Abomination shards, <color=#fff500>{var2} Augmented Gamma Radiation</color>, and more!"
+ID_OF_NA_APOC_THELAWYER,Apocalypse Special - The Lawyer
+ID_OF_DE_APOC_THELAWYER,"Prepare your Gamma team for the Apocalypse Saga with <color=#fff500>{var1} Augmented Gravitonium</color>, an equal chance of either a <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) She-Hulk, and more!"
+ID_OF_NA_APOC_THEGENIUS,Apocalypse Special - The Genius
+ID_OF_DE_APOC_THEGENIUS,"Prepare your Gamma team for the Apocalypse Saga with {var1} Brawn shards, <color=#fff500>{var2} Augmented Palladium</color>, and more!"
+ID_OF_NA_APOC_BIOGEAR,Apocalypse Special - Biological Bounty
+ID_OF_DE_APOC_BIOGEAR,Prepare for the Apocalypse Saga with this bounty of Augmented Bio gear!
+ID_OF_NA_HISTORICENCOUNTER_STARTER,Historic Encounter Starter Bundle
+ID_OF_DE_HISTORICENCOUNTER_STARTER,"Get a head start on the <color=#fff568>Historic Encounter Milestone</color> with this high value offer! "
+ID_OF_NA_HISTORICENCOUNTER_PTS_BUNDLE,Historic Encounter Point Pack
+ID_OF_DE_HISTORICENCOUNTER_PTS_BUNDLE,Purchase this high-value pack of Event Points to sweep the competition in the <color=#fff568>Historic Encounter Leaderboards</color>!
+ID_OF_NA_HISTORICENCOUNTER_LAST_CHANCE,Historic Encounter Last Chance Offer
+ID_OF_DE_HISTORICENCOUNTER_LAST_CHANCE,Catch this deal before it's too late and get your final <color=#fff568>Historic Encounter</color> milestone and leaderboard rewards!
+ID_OF_NA_HISTORICENCOUNTER_CATCHUP,Historic Encounter Catch-Up Offer
+ID_OF_DE_HISTORICENCOUNTER_CATCHUP,Take advantage of this spectacular deal to get through the end of the <color=#fff568>Historic Encounter Milestone</color> and get your final rewards!
+ID_OF_NA_HISTORICENCOUNTER_MEGA_BUNDLE,Historic Encounter Bundle
+ID_OF_DE_HISTORICENCOUNTER_MEGA_BUNDLE,Reach an all-time high in the <color=#fff568>Historic Encounter event</color> with this historic bundle and get valuable resources to power up your roster!
+ID_OF_NA_HISTORICENCOUNTER_DAILY_CLAIM,Historic Encounter Daily Claim
+ID_OF_DE_HISTORICENCOUNTER_DAILY_CLAIM,Get your free bundle for progress in the <color=#fff568>Historic Encounter Milestone</color>. Check the website for these every day to finish the event!
+ID_OF_NA_HISTORICENCOUNTER_DAILY_INTERSTITIAL,Unlocked Historic Encounter Bundle
+ID_OF_DE_HISTORICENCOUNTER_DAILY_INTERSTITIAL,You just unlocked this deal for the <color=#fff568>Historic Encounter Milestonel</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_HISTORICENCOUNTER_DAILY_ENERGY,Daily Historic Encounter Energy
+ID_OF_DE_HISTORICENCOUNTER_DAILY_ENERGY,Get a big boost of Campaign Energy and <color=#fff568>Historic Encounter</color> milestone points with this offer!
+ID_OF_NA_HISTORICENCOUNTER_DAILY_ORB,Daily Historic Encounter Gold
+ID_OF_DE_HISTORICENCOUNTER_DAILY_ORB,Get a big boost with some <color=#fff568>Historic Orbs</color> and <color=#fff568>Historic Encounter</color> milestone points with this offer!
