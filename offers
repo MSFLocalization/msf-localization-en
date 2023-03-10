@@ -1625,7 +1625,7 @@ ID_OF_DE_COMMANDERSCACHE_DAILYINSTERSTITIAL_MARCH,You just unlocked the best val
 ID_OF_NA_COMMANDERSCACHE_10FOR10_MARCH,10 for 10!
 ID_OF_DE_COMMANDERSCACHE_10FOR10_MARCH,The <color=#fff568>Commander's Cache</color> will be supplying a new 10 for 10 deal each day of the event. Check back daily and don't miss out!
 ID_OF_NA_5THANNIVERSARY_SNEAKPEAK,5th Anniversary Sneak Peak
-ID_OF_DE_5THANNIVERSARY_SNEAKPEAK,Save big on this very special Pre-Anniversary deal and prepare to join us in celebrating 5 years of MSF!
+ID_OF_DE_5THANNIVERSARY_SNEAKPEAK,Save big on this very special Pre-Anniversary deal and prepare to join us in celebrating 5 years of MARVEL Strike Force!
 ID_OF_NA_APOC_THEDOCTOR,Apocalypse Special - The Doctor
 ID_OF_DE_APOC_THEDOCTOR,"Prepare your Darkhold team for the Apocalypse Saga with {var1} Strange (Heartless) shards, <color=#fff500>{var2} Augmented Promethium</color>, and more!"
 ID_OF_NA_APOC_THESORCEROR,Apocalypse Special - The Sorceror
@@ -1756,3 +1756,20 @@ ID_OF_NA_TOTHEMOON_WEB_INTERSTITIAL,Unlocked To the Moon Bundle
 ID_OF_DE_TOTHEMOON_WEB_INTERSTITIAL,Get some extra fuel towards <color=#fff568>To the Moon</color> milestone points with this offer!
 ID_OF_NA_TOTHEMOON_FREECLAIM,To the Moon Free Bundle
 ID_OF_DE_TOTHEMOON_FREECLAIM,Get your free bundle for progress in the <color=#fff568>To the Moon Milestone</color>. Check the website for these every day to finish the event!
+ID_OF_NA_TEAM_DARKHOLD,Darkhold Team Bundle
+ID_OF_NA_TEAM_UNLIMITEDXMEN,Unlimited X-Men Team Bundle
+ID_OF_NA_TEAM_GAMMA,Gamma Team Bundle
+ID_OF_NA_TEAM_DEATHSEED,Deathseed Team Bundle
+ID_OF_NA_TEAM_REBIRTH,Rebirth Team Bundle
+ID_OF_NA_TEAM_TANGLEDWEB,Tangled Web Team Bundle
+ID_OF_DE_STPATRICKS2023_GENERIC_1,Get lucky with this amazing <color=#33dd00>St. Patrick's Day</color> bundle! Don't miss out on your lucky opportunity!
+ID_OF_DE_STPATRICKS2023_GENERIC_2,Celebrate <color=#33dd00>St. Patrick's Day</color> with this <color=#33dd00>limited time</color> offer!
+ID_OF_DE_STPATRICKS2023_GENERIC_3,Get this <color=#33dd00>exclusive St. Patrick's</color> special opportunity before it expires! Level up your roster with these resources today!
+ID_OF_DE_STPATRICKS2023_ELITECREDITS,Treat yourself with some valuable <color=#33dd00>Elite Credits</color> this <color=#33dd00>St. Patrick's Day</color>! Get a chance at Red Stars for your favorite characters!
+ID_OF_DE_STPATRICKS2023_REDSTARTER,Red Stars galore! Get your hands on these special <color=#33dd00>St. Patrick's Day</color> offers with a variety of <color=#33dd00>Elite Credits</color> at amazing value!
+ID_OF_DE_STPATRICKS2023_ENERGY,Leapfrog your way to victory with this energizing <color=#33dd00>St. Patrick's Day</color> bundle! Get {var1} Campaign Energy and MORE with this offer!
+ID_OF_DE_STPATRICKS2023_GOLD,"Gold, gold, gold! Take this <color=#33dd00>St. Patrick's Day</color> opportunity to stock up on much needed gold to level up your roster!"
+ID_OF_DE_STPATRICKS2023_DPC,"It's your lucky day! Get this <color=#33dd00>Dark Promotion Credits</color> bundle to buy Red Stars for apex characters such as Red Hulk, Rogue, and more! Don't miss out on this chance to stock up on <color=#33dd00>Dark Promotion Credits</color> this <color=#33dd00>St. Patrick's Day</color>!"
+ID_OF_DE_STPATRICKS2023_DUAL_TEAL_FOCUSHEALTH,Pick your St. Patrick's Day deal to augment your characters!
+ID_OF_DE_STPATRICKS2023_ASBSHARD,Take your pick! Tap the special icon for more information on contents!
+ID_OF_DE_STPATRICKS2023_ASBLUCK,Time to get lucky with this special <color=#33dd00>St. Patrick's Day</color> offer! Get a chance at varying amounts of shards or <color=#33dd00>Red Stars</color> for <color=#33dd00>Domino</color> or <color=#33dd00>Gambit</color>! Tap the icon to find out more!
