@@ -187,10 +187,10 @@ ID_EVENT_CUR8_NAME,Conqueror Orb Fragment
 ID_EVENT_CUR8_DESCRIPTION,"Collect Conqueror Orb Fragments for points in the He Who Remains Event. Earn them in the Multiverse Master Web Milestone, Free Claims, and winning Blitz!"
 ID_EVENT_CUR9_NAME,He Who Remains Milestone Point
 ID_EVENT_CUR9_DESCRIPTION,These points earn you additional progress in the He Who Remains Milestone.
-ID_EVENT_CUR10_NAME,Coal Eyes
-ID_EVENT_CUR10_DESCRIPTION,Collect the Coal Eyes for points in the Festival of Frost Event. Earn them in the Abominable Beast Event!
-ID_EVENT_CUR11_NAME,Carrot Nose
-ID_EVENT_CUR11_DESCRIPTION,Collect the Carrot Nose for points in the Festival of Frost Event. Earn them in the Herald of Death Event!
+ID_EVENT_CUR10_NAME,Historic Orb Fragment
+ID_EVENT_CUR10_DESCRIPTION,"Collect Historic Orb Fragments for points in the Historic Encounter Event. Earn them in select campaign nodes, Free Claims, and limited offers!"
+ID_EVENT_CUR11_NAME,Historic Encounter Milestone Point
+ID_EVENT_CUR11_DESCRIPTION,These points earn you additional progress in the Historic Encounter Milestone.
 ID_EVENT_CUR12_NAME,Special Offensive Milestone Points
 ID_EVENT_CUR12_DESCRIPTION,These points earn you additional progress in the Special Offensive Milestone. Earn them in Daily Free Claims on our website and in limited offers!
 ID_EVENT_CUR13_NAME,Driving Force Milestone Points

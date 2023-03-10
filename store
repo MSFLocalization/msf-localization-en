@@ -8310,3 +8310,7 @@ ID_GACHA_CRATE_CONQUEROR_NAME,Conqueror Orb
 ID_GACHA_CRATE_CONQUEROR_DESCRIPTION,Earn up to 25 Kang the Conqueror Shards
 ID_GACHA_CRATE_CONQUEROR_TOKEN_NAME,Conqueror Orb Fragments
 ID_GACHA_CRATE_CONQUEROR_TOKEN_DESCRIPTION,Collect Conqueror Orb Fragments from Blitz to earn progress in the He Who Remains Milestone.
+ID_GACHA_CRATE_HISTORIC_NAME,Historic Orb
+ID_GACHA_CRATE_HISTORIC_DESCRIPTION,Contains Shards needed for Apocalypse
+ID_GACHA_CRATE_HISTORIC_TOKEN_NAME,Historic Orb Fragments
+ID_GACHA_CRATE_HISTORIC_TOKEN_DESCRIPTION,Collect Historic Orb Fragments from select Campaign Nodes and limited time offers to earn progress in the Historic Encounter Milestone.
