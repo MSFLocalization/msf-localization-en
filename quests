@@ -2491,7 +2491,7 @@ ID_QU_S6_COLDSTORAGE,Use Moonstone in Cosmic Crucible at 7 Stars
 ID_QU_NA_HISTORICENCOUNTER,Historic Encounter
 ID_QU_SD_HISTORICENCOUNTER,Power up Apocalypse Saga characters
 ID_QU_LM_HISTORICENCOUNTER,"Use Kree Commando Energy from the Kree Commando Event Campaign and earn Historic Orb Fragments from select Campaign nodes and offers to earn points toward this 7-day milestone.\n\nClimb the ranks of a leaderboard to earn Iso-8 resources and a new costume! The top 500 players will receive T2 Level 5 Ions and Doctor Octopus's ""No Way Home"" Costume."
-ID_QU_S1_HISTORICENCOUNTER,Spend 1 Kree Commando Energy
+ID_QU_S1_HISTORICENCOUNTER,Spend 1 Commando Energy
 ID_QU_S2_HISTORICENCOUNTER,Earn 1 Historic Orb Fragment
 ID_QU_SD_COMMANDERSCACHE_MARCH,Spend Gold and Power Cores
 ID_QU_LD_COMMANDERSCACHE_MARCH,Earn lucrative milestone and leaderboard rewards.\n\n- Red Stars for Archangel\n- T2 Level 5 Ions\n- 5-Red Star Mighty Thor\n- Hero Asgardian character shards\n- Ability Materials\n- Teal Mini-Uniques\n- Catalyst Parts\n- And more!
@@ -2505,3 +2505,19 @@ ID_QU_S2_TOTHEMOON,Use Masters of Evil in Cosmic Crucible at Gear Tier 16 or hig
 ID_QU_S3_TOTHEMOON,Spend Iso-8 Campaign Energy
 ID_QU_S4_TOTHEMOON,Earn Blitz Credit
 ID_QU_S5_TOTHEMOON,Earn To the Moon Milestone Point
+ID_QU_NA_BLASTFROMTHEPAST,Blast From the Past
+ID_QU_SD_BLASTFROMTHEPAST,Unlock and Power Up Captain America (WWII)
+ID_QU_SC_BLASTFROMTHEPAST,Unlock and Power Up Captain America (WWII)
+ID_QU_LM_BLASTFROMTHEPAST,Create a historic roster just by powering up Captain America (WWII)!\n\nHow to Earn Points:\n- Open Valiant Veteran Orbs\n- Recruit Captain America (WWII)\n- Level Up Captain America (WWII)\n- Loyalty Up (increase Star Rank) Captain America (WWII)\n- Equip gear to Captain America (WWII)\n\nValiant Veteran Orb\nContains Captain America (WWII) character shards and purchasable using Power Cores.
+ID_QU_S1_BLASTFROMTHEPAST,Open 1 Valiant Veteran Orb
+ID_QU_S2_BLASTFROMTHEPAST,Unlock Captain America (WWII)
+ID_QU_S3_BLASTFROMTHEPAST,Level Up Captain America (WWII)
+ID_QU_S4_BLASTFROMTHEPAST,Loyalty Up Captain America (WWII)
+ID_QU_S5_BLASTFROMTHEPAST,Equip 1 Gear to Captain America (WWII)
+ID_QU_NA_LUCKOFSPRING,Luck of Spring
+ID_QU_SD_LUCKOFSPRING,"Spend Campaign Energy, Earn Alliance Credits"
+ID_QU_LD_LUCKOFSPRING,"Spend Campaign Energy (excluding Iso-8 Campaign Energy) and earn Alliance Credits to earn:\n\n- 5-Red Star Abomination\n- Costume Bits to purchase Hulk's ""Ragnarok"" Costume\n- Wong, Spider-Man 2099, Brawn, and Abomination character shards\n- Armory 17 Orbs\n- Teal, Orange, and Purple Catalyst Parts\n\nRack up as many points as possible to climb the ranks of the Leaderboard and earn T2 Level 5 Ions!"
+ID_QU_SM_LUCKOFSPRING,Spend Campaign Energy and Earn Alliance Credits
+ID_QU_SC_LUCKOFSPRING,Spend Campaign Energy and Earn Alliance Credits
+ID_QU_S1_LUCKOFSPRING,Spend 1 Campaign Energy
+ID_QU_S2_LUCKOFSPRING,Earn 1 Alliance Credit

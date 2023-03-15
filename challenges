@@ -919,6 +919,13 @@ ID_ECM_KANG_DESC_C,Experience the full power of the Masters of Evil!\n\nBattle d
 ID_ECM_TESTDRIVE_MOE,Try the Masters of Evil!
 ID_ECM_KANG_HARD_FLAVOR,Stop Kang Variants!
 ID_ECM_KANG_HEROIC_FLAVOR,Get Amazing Rewards!
+ID_SEC_INCURSION01_NAME,Star-Spangled Man
+ID_SEC_INCURSION01_DESC,Interdimensional rifts have begun to mysteriously form across Nexus. Join forces with Captain Carter and Rebirth to investigate.
+ID_SEC_CHANCE_INCURSION01,Prelude to Incursion I
+ID_EVENT_INCURSION01_DIF1_FLAVOR,Meet Captain America (WWII)!
+ID_EVENT_INCURSION01_DIF1_DESC,REQUIRED: Rebirth Characters.\n\nCaptain America (WWII) will join your team for every battle!
+ID_EVENT_INCURSION01_DIF2_FLAVOR,Earn amazing rewards!
+ID_EVENT_INCURSION01_DIF2_DESC,REQUIRED: Captain America (WWII)\n\nUse only: Invaders or Rebirth characters. All characters must be at Gear Tier 13
 ID_TU_AM_WA_NAME,Back to Tiny World
 ID_TU_AM_WA_DESC,"After receiving a distress call from resistance forces, Ant-Man and Wasp must enter the tiny dimension to help liberate Earth from its overlords."
 ID_TU_AM_WA_CHANCE,Earn amazing rewards!
@@ -1644,3 +1651,9 @@ ID_INFO_BO_TOTHEMOON,"Power up <color=#fff568>Masters of Evil</color> characters
 ID_INFO_NA_APOCALYPSE_SAGA,Apocalypse Saga
 ID_INDO_DE_APOCALYPSE_SAGA,Time to Recruit Apocalypse!
 ID_INFO_BO_APOCALYPSE_SAGA,"Recruit Apocalypse and earn massive rewards with the Apocalypse Saga:\n\n<color=#fff568>Difficulties</color>\nThere are 3 Difficulties, each with 8 nodes, and to unlock the next Difficulty you'll need to complete all the previous Difficulty's Missions at 3 Stars. Here are the requirements for each:\n\n- Hard: GT 15 for each character\n- Heroic: GT 16 and T2 Level 4 Iso-8 for each character\n- Apocalyptic: GT 17 and T2 Level 5 Iso-8 for each character\n\n<color=#fff568>Rewards</color>\nTransform your roster with big rewards from each Mission node, including powerful new ally:\n\n- Hard: Teal gear, Gold, T2 Level 4 Ions, and more\n- Heroic: Apocalypse character shards (5 Yellow Stars), 2-Red Star Apocalypse, Orange Ability Materials, Teal Gear, and more.\n- Apocalyptic: Apocalypse character shards (enough for 7 Yellow Stars), 4 Red Star Apocalypse, T2 Level 5 Ions, Teal Gear, and more."
+ID_INFO_NA_BLASTFROMTHEPAST,Blast From the Past
+ID_INFO_DE_BLASTFROMTHEPAST,Unlock and Power Up Captain America (WWII)
+ID_INFO_BO_BLASTFROMTHEPAST,Create a historic roster just by powering up Captain America (WWII)!\n\n<color=#fff568>How to Earn Points</color>\nScore points toward this 3-day milestone when you:\n\n- Open Valiant Veteran Orbs\n- Recruit Captain America (WWII)\n- Level Up Captain America (WWII)\n- Loyalty Up (increase Star Rank) Captain America (WWII)\n- Equip gear to Captain America (WWII)\n\n<color=#fff568>Valiant Veteran Orb</color>\nContains Captain America (WWII) character shards and purchasable using Power Cores.
+ID_INFO_NA_LUCKOFSPRING,Luck of Spring
+ID_INFO_DE_LUCKOFSPRING,"T2 Level 5 Ions, and more!"
+ID_INFO_BO_LUCKOFSPRING,"Get lucky this March! Enchant your roster with costumes, character shards, Red Stars, and more.\n\n<color=#33dd00>Luck of Spring Milestone</color>\nSpend Campaign Energy (excluding Iso-8 Campaign Energy) and earn Alliance Credits to earn points toward a 6-day milestone that rewards:\n\n- A 5-Red Star Character\n- Costume Bits to purchase <color=#33dd00>Hulk's ""Ragnarok"" Costume</color>\n- Wong, Spider-Man 2099, Brawn, and Abomination character shards\n- Armory 17 Orbs\n- Teal, Orange, and Purple Catalyst Parts\n\n<color=#33dd00>Leaderboard</color>\nRack up as many points as possible to climb the ranks of this Leaderboard that rewards <color=#33dd00>T2 Level 5 Ions</color>.\n\n<color=#33dd00>Event Store</color>\nBy spending Campaign Energy, you'll earn a limited-time event currency: <color=#33dd00>Four Leaf Clovers</color>. Head to the limited-time Event Store to spend Four Leaf Clovers on any of the following items:\n\n- Teal Unique Gear Pieces\n- Hero Asgardian, Ravagers, and Wave I - Avenger character shards\n- T3 and T2 Ability Materials\n- And more!\n\nGood luck, Commander!"

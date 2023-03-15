@@ -1733,6 +1733,21 @@ ID_OF_DE_APOC_BLASTER,Prepare your Blasters for the Apocalypse Saga with <color=
 ID_OF_DE_APOC_BRAWLER,Prepare your Brawlers for the Apocalypse Saga with <color=#fff500>{var1} T2 Level 4 Ions</color> and more!
 ID_OF_DE_APOC_PROTECTOR,Prepare your Protectors for the Apocalypse Saga with <color=#fff500>{var1} T2 Level 4 Ions</color> and more!
 ID_OF_DE_APOC_SUPPORT,Prepare your Supports for the Apocalypse Saga with <color=#fff500>{var1} T2 Level 4 Ions</color> and more!
+ID_OF_NA_CAPTAINAMERICAWWII_FCO_OFFER,Patriot Powerhouse
+ID_OF_DE_CAPTAINAMERICAWWII_FCO_OFFER,"Save on <color=#fff568>Valiant Veteran Orbs</color>, each having a chance to earn <color=#fff568>up to 180 Captain America (WWII)</color> shards. Start building an elite Skill Raid team with the first <color=#fff568>Invader</color>!"
+ID_OF_NA_CAPTAINAMERICAWWII_WEB_SPECIAL_OFFER,Web Special: Captain America (WWII)
+ID_OF_DE_CAPTAINAMERICAWWII_WEB_SPECIAL_OFFER,"Don't miss this <color=#fff568>Web Special</color> deal for <color=#fff568>Captain America (WWII)</color> shards, and unlock special release offers on your next visit! Start building an elite Skill Raid team with the first <color=#fff568>Invader</color>!"
+ID_OF_DE_CAPTAINAMERICAWWII_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Captain America (WWII)</color> and unlock special release offers on your next visit! Start building an elite Skill Raid team with the first <color=#fff568>Invader</color>!
+ID_OF_DE_CAPTAINAMERICAWWII_OFFER_SHARD,Power up <color=#fff568>Captain America (WWII)</color> with this shard offer! Start building an elite Skill Raid team with the first <color=#fff568>Invader</color>!
+ID_OF_DE_CAPTAINAMERICAWWII_OFFER_SHARD_REPEAT,Power up <color=#fff568>Captain America (WWII)</color> with this shard offer! Bolster your elite Skill Raid team with the first <color=#fff568>Invader</color>!
+ID_OF_NA_CAPTAINAMERICAWWII_RS_DRAFT,Red Star Draft: Captain America (WWII)
+ID_OF_DE_CAPTAINAMERICAWWII_RS_DRAFT_345,"Get an equal chance of either <color=#fff568>3, 4, or 5 Red Stars</color> for <color=#fff568>Captain America (WWII)</color>. Bolster your elite Skill Raid team with the first <color=#fff568>Invader</color>!"
+ID_OF_DE_CAPTAINAMERICAWWII_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, or 6 Red Stars</color> for <color=#fff568>Captain America (WWII)</color>. Bolster your elite Skill Raid team with the first <color=#fff568>Invader</color>!"
+ID_OF_DE_CAPTAINAMERICAWWII_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Captain America (WWII)</color>. Bolster your elite Skill Raid team with the first <color=#fff568>Invader</color>!"
+ID_OF_NA_INVADERS_TEAM_OFFER,Invader Team Bundle
+ID_OF_DE_INVADERS_TEAM_OFFER,Overcome waves of enemies in Raids with superior Skill by powering up these <color=#fff568>Invader</color> team members!
+ID_OF_NA_WOMENSMONTH,Women's Month Special
+ID_OF_DE_WOMENSMONTH,Celebrate <color=#CF9FFF>Women's Month</color> with these powerful characters to add to your roster. Don't miss out on this opportunity to strengthen your team!
 ID_OF_NA_TOTHEMOON_STARTER_MEGA,To the Moon Meteoric Starter
 ID_OF_NA_TOTHEMOON_STARTER_SUPER,To the Moon Super Starter
 ID_OF_NA_TOTHEMOON_STARTER_NORMAL,To the Moon Starter
@@ -1762,6 +1777,25 @@ ID_OF_NA_TEAM_GAMMA,Gamma Team Bundle
 ID_OF_NA_TEAM_DEATHSEED,Deathseed Team Bundle
 ID_OF_NA_TEAM_REBIRTH,Rebirth Team Bundle
 ID_OF_NA_TEAM_TANGLEDWEB,Tangled Web Team Bundle
+ID_OF_NA_LUCKOFSPRING_STARTER_MEDIUM,Luck of Spring Starter Bundle
+ID_OF_DE_LUCKOFSPRING_STARTER_VAR,Get lucky this March and save over <color=#fff568>{var1}%</color> with this bundle. Get <color=#fff568>{var2} points</color> towards the Luck of Spring Milestone.!
+ID_OF_NA_LUCKOFSPRING_STARTER_SUPER,Luck of Spring Super Starter
+ID_OF_NA_LUCKOFSPRING_STARTER_MEGA,Luck of Spring Mega Starter
+ID_OF_NA_LUCKOFSPRING_CATCHUP,Luck of Spring Catch Up Bundle
+ID_OF_DE_LUCKOFSPRING_CATCHUP,Don't miss out on collecting all the Luck of Spring rewards! Save over <color=#fff568>{var1}%</color> with each purchase.
+ID_OF_NA_LUCKOFSPRING_CATCHUP_BIG,Luck of Spring Mega Catch Up
+ID_OF_NA_LUCKOFSPRING_EVENTCURRENCY,Four Leaf Clover Bundle
+ID_OF_DE_LUCKOFSPRING_EVENTCURRENCY,Want to get more from the <color=#fff568>Four Leaf Clover Event Store</color>? Save over <color=#fff568>{var1}%</color> with each purchase of Four Leaf Clovers!
+ID_OF_NA_LUCKOFSPRING_DAILY_ENERGY,Luck of Spring Energy
+ID_OF_DE_LUCKOFSPRING_DAILY_ENERGY_VAR,Progress in campaigns and the <color=#fff568>Luck of Spring Milestone</color> at once!
+ID_OF_NA_LUCKOFSPRING_DAILY_CURRENCY,Daily Four Leaf Clover Bundle
+ID_OF_DE_LUCKOFSPRING_DAILY_CURRENCY,Save over <color=#fff568>{var1}%</color> and use these Four Leaf Clovers for Teal Unique Gear and more in the <color=#fff568>Four Leaf Clover Event Store</color>!
+ID_OF_NA_LUCKOFSPRING_DAILY_FREE,Luck of Spring Daily Gift
+ID_OF_DE_LUCKOFSPRING_DAILY_FREE,Come back daily to boost your <color=#fff568>Luck of Spring Milestone</color> progress!
+ID_OF_NA_LUCKOFSPRING_DAILY_INTERSTITIAL,Luck of Spring Web Special
+ID_OF_DE_LUCKOFSPRING_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Luck of Spring Milestonel</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_LUCKOFSPRING_LASTCHANCE,Luck of Spring Last Chance Bundle
+ID_OF_DE_LUCKOFSPRING_LASTCHANCE,"Catch this deal before it's too late and get your final <color=#fff568>Luck of Spring</color> milestone and leaderboard rewards, including exclusive <color=#fff568>T2 Level 5 Ions</color>!"
 ID_OF_DE_STPATRICKS2023_GENERIC_1,Get lucky with this amazing <color=#33dd00>St. Patrick's Day</color> bundle! Don't miss out on your lucky opportunity!
 ID_OF_DE_STPATRICKS2023_GENERIC_2,Celebrate <color=#33dd00>St. Patrick's Day</color> with this <color=#33dd00>limited time</color> offer!
 ID_OF_DE_STPATRICKS2023_GENERIC_3,Get this <color=#33dd00>exclusive St. Patrick's</color> special opportunity before it expires! Level up your roster with these resources today!

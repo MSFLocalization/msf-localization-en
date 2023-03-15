@@ -23,6 +23,7 @@ ID_UI_ISO8_CLASS_LOCK,Lock Iso-8 Classes for {mode} Defense
 ID_UI_ISO8_CLASS_LOCK_WAR,War
 ID_UI_ISO8_CLASS_LOCK_BG_DEFEND,Arena
 ID_ISO8_NUE,You have unlocked Iso-8!
+ID_ISO8_ACCESS,You have unlocked Iso-8!
 ID_CAMPAIGN_PLAYER_ENERGY_ISO8_NAME,Iso-8 Campaign Energy
 ID_CAMPAIGN_PLAYER_ENERGY_ISO8_DESCRIPTION,Used to launch the Isotope-8 Campaign missions.
 ID_GACHA_CRATE_ISO8_T2_BASIC_NAME,Basic T2 Iso-8 Orb

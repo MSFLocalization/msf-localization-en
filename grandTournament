@@ -24,7 +24,7 @@ ID_GT_TOURNAMENT_BEGINS,Crucible begins in:
 ID_GT_WINS,{win} Wins
 ID_GT_WIN,{win} Win
 ID_GT_CHAMPION,-Champion!
-ID_GT_VP,{points}vp
+ID_GT_VP,{points}VP
 ID_GT_TRIAL,Trial {trial}
 ID_GT_ENDS,Ends in
 ID_GT_ERROR,ERROR
@@ -46,7 +46,7 @@ ID_GT_EVENT_NAME_PRESEASON,Pre-Season
 ID_GT_EVENT_NAME_SEASON1,Season 1
 ID_GT_EVENT_NAME_SEASON2,Season 2
 ID_GT_GLOBAL_RULES_NAME,Magical Disruptions
-ID_GT_GLOBAL_RULES_DESC,"On Offense, reduce Speed and Resistance by <color=#86e619>10%</color> for all non-<color=#fff568>MASTERS OF EVIL VILLAIN MYSTICS</color>. \nOn Defense, reduce Speed and Resistance by <color=#86e619>20%</color> for all <color=#fff568>COSMIC VILLAIN MYSTICS</color>. \nOn any <color=#fff568>COSMIC VILLAIN MYSTICS</color> Turn, apply <color=#fff568>Bleed</color> to that character. \nOn Defense, all characters gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage."
+ID_GT_GLOBAL_RULES_DESC,"On Offense, reduce Speed and Resistance by <color=#86e619>10%</color> for all non-<color=#fff568>MASTERS OF EVIL VILLAIN MYSTICS</color>. \nOn Defense, reduce Speed and Resistance by <color=#86e619>20%</color> for all <color=#fff568>COSMIC VILLAIN MYSTICS</color>. \nOn any <color=#fff568>COSMIC VILLAIN MYSTICS</color> Turn, apply <color=#fff568>Bleed</color> to that character. \nOn Defense, all characters gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage. \n<color=#fff568>DARKHOLD</color> characters have -<color=#86e619>10%</color> Max Health, Focus, Resistance, and Damage."
 ID_GT_ROOM1_NAME,Stage 1
 ID_GT_ROOM1_DESC,
 ID_GT_ROOM2_NAME,Stage 2
@@ -68,15 +68,17 @@ ID_GT_ROOM3_RULES_DESC,"On Defense, any <color=#9055FF>FORTIFER</color> that use
 ID_GT_ROOM4_RULES_NAME,Resurrection Protocols
 ID_GT_ROOM4_RULES_DESC,"On Spawn, <color=#fff568>HERO MUTANTS</color> gain <color=#fff568>Revive Once</color> and <color=#fff568>Immunity</color>."
 ID_GT_ROOM5_RULES_NAME,Creeping Spiders
-ID_GT_ROOM5_RULES_DESC,"When any <color=#fff568>SPIDER-VERSE</color> Character has <color=#fff568>Stealth</color>, that character gains +<color=#86e619>20%</color> Damage. \nReduce Resistance by 20% for any character with <color=#fff568>Bleed</color>. \nThis room may be updated in the future."
+ID_GT_ROOM5_RULES_DESC,"On Defense, <color=#fff568>TANGLED WEB</color> characters with <color=#fff568>Stealth</color>, gains +<color=#86e619>20%</color> Damage. \nOn Defense, <color=#fff568>ETERNAL</color> characters count as <color=#fff568>TANGLED WEB</color> characters. \nOn Defense, <color=#fff568>TANGLED WEB</color> characters apply <color=#fff568>Bleed</color> on hit. \nOn Defense, <color=#fff568>ETERNAL</color> characters gain <color=#86e619>20%</color> Resistance and Max Health. \nOn Defense, if Sersi is an ally, <color=#fff568>TANGLED WEB</color> characters gain <color=#fff568>Revive Once</color> with <color=#86e619>50%</color> Max Health, on Spawn. \nOn Defense, if Ikaris is an ally, <color=#fff568>TANGLED WEB</color> characters gain <color=#fff568>Immunity</color> for 2 turns on Spawn. \nOn Offense, Reduce Resistance by <color=#86e619>20%</color> for any character with <color=#fff568>Bleed</color>."
 ID_GT_ROOM6_RULES_NAME,Vibranium Tuning
-ID_GT_ROOM6_RULES_DESC,"On Defense, <color=#fff568>WAKANDAN</color> characters gain +<color=#86e619>60%</color> Max Health, Focus, Resistance, Damage. \nOn Defense, On Turn, <color=#fff568>WAKANDAN</color> characters clear all negative effects on self and gain <color=#fff568>Speed Up</color>. \n On Defense, <color=#fff568>WAKANDAN</color> characters clear <color=#fff568>Revive Once</color> on each successful attack. \nOn Defense, <color=#fff568>WAKANDAN</color> characters with <color=#fff568>Speed Up</color>, gain +<color=#86e619>20%</color> Speed. \nOn Defense, <color=#fff568>WAKANDAN</color> characters with <color=#fff568>Bleed</color>, <color=#fff568>Offense Down</color>, <color=#fff568>Trauma</color>, or <color=#fff568>Disrupted</color> gain +<color=#86e619>50%</color> Speed. \nOn Offense, non-<color=#fff568>TECH</color> Characters clear <color=#fff568>Charged</color> on the end of turn. If <color=#fff568>Charged</color> is removed apply <color=#fff568>Offense Down</color> to all player characters."
+ID_GT_ROOM6_RULES_DESC,"On Defense, <color=#fff568>WAKANDAN</color> characters gain +<color=#86e619>60%</color> Max Health, Focus, Resistance, and Damage. \nOn Defense, on Turn, <color=#fff568>WAKANDAN</color> characters clear all negative effects on self and gain <color=#fff568>Speed Up</color>. \n On Defense, <color=#fff568>WAKANDAN</color> characters clear <color=#fff568>Revive Once</color> on each successful attack. \nOn Defense <color=#fff568>WAKANDAN</color> characters with <color=#fff568>Speed Up</color>, gain +<color=#86e619>20%</color> Speed. \nOn Defense, <color=#fff568>WAKANDAN</color> characters with <color=#fff568>Bleed</color>, <color=#fff568>Offense Down</color>, <color=#fff568>Trauma</color>, or <color=#fff568>Disrupted</color> gain +<color=#86e619>50%</color> Speed. \nOn Defense, <color=#fff568>MYSTIC WAKANDAN</color> characters gain <color=#fff568>Revive Once</color> with <color=#86e619>30%</color> Max Health, on Spawn. \nOn Offense, non-<color=#fff568>TECH</color> characters clear <color=#fff568>Charged</color> at the end of Turn. If <color=#fff568>Charged</color> is removed, apply <color=#fff568>Offense Down</color> to all player characters."
 ID_GT_ATTACK_MAX_TITLE,ATTACK MAXIMUM REACHED
 ID_GT_ATTACK_MAX_DESC,You have reached the maximum number of attacks for the current trial
 ID_GT_SET_DEFENSES_NEXT_TRIAL,SET YOUR DEFENSES FOR THE NEXT TRIAL. DEFENDING CHARACTERS CANNOT BE USED TO ATTACK.
 ID_GT_SET_DEFENSES_STARTS_IN,Starts in {time}
 ID_GT_NEXT_TOURNAMENT_STARTS_IN,Next Crucible in {time}
-ID_GT_RATING_CHANGE,{total} ({change})
+ID_GT_RATING,{total}
+ID_GT_RATING_CHANGE_POSITIVE,{total}<color=#86E619>(+{change})</color>
+ID_GT_RATING_CHANGE_NEGATIVE,{total}<color=#FF0000>(-{change})</color>
 ID_GT_RATING_NAME,TRIBUNAL RATING
 ID_GT_SEASON,Crucible Season
 ID_GT_SEASON_COMPLETE,SEASON COMPLETE
@@ -100,7 +102,7 @@ ID_GT_RULES_BODY_06,"Once all Trials are complete, the Crucible ends and the Liv
 ID_GT_RULES_SUBHEADER_07,WIN THE SEASON
 ID_GT_RULES_BODY_07,"Every Trial gives you a chance to increase your Tribunal Rating (TR). The highest TR at the end of a season will receive the richest rewards. When a new season starts, the Stage Rules will be updated."
 ID_GT_RULES_SUBHEADER_08,[VP] VICTORY POINTS
-ID_GT_RULES_BODY_08A,"Victory points are granted once you have defeated a Stage, run out of attempts, or the trial has ended. Victory points are only used to break ties between two opponents who cleared the same number of Stages. The Living Tribunal will provide VP for the following factors:"
+ID_GT_RULES_BODY_08A,"Victory Points are granted once you have defeated a Stage, run out of attempts, or the trial has ended. Victory Points are only used to break ties between two opponents who cleared the same number of Stages. The Living Tribunal will provide VP for the following factors:"
 ID_GT_RULES_BODY_08B,> Full Clear: 7500VP\n> Attempt Bonus: up to 800VP\n> Knockouts: 5VP\n> Healthy Characters: up to 20VP\n> Turn Bonus: up to 30VP
 ID_GT_RULES_SUBHEADER_09,[VP] Breakdown
 ID_GT_RULES_BODY_09A,"> Full Clear is granted once you've totally cleared out an opponent's Stage.\n> Knockouts are granted per character, up to a maximum of 25VP, and are granted even if you don't full clear the Stage."
@@ -114,13 +116,13 @@ ID_GT_NO_HISTORY_TRIAL_TITLE,Trial Judgements
 ID_GT_NO_HISTORY_TRIAL_BODY,No attack history
 ID_GT_HISTORY_TITLE,{room} Judgments
 ID_GT_LOG_VIEW_POWER,Power: {pwr}
-ID_GT_ROOM_CLEAR_VP,Full Clear: <color=#ffffff>{VP}vp</color>
-ID_GT_HEALTH_VP,Healthy Characters: <color=#ffffff>{VP}vp</color>
-ID_GT_KNOCKOUT_VP,Knock Outs: <color=#ffffff>{VP}vp</color>
-ID_GT_EFFICIENCY_VP,Turn Bonus: <color=#ffffff>{VP}vp</color>
-ID_GT_ATTEMPTS_VP,Attempt Bonus: <color=#ffffff>{VP}vp</color>
-ID_GT_PLAYER_TOTAL_VP,My Total Victory Points: <color=#ffffff>{VP}vp</color>
-ID_GT_OPPONENT_TOTAL_VP,Opponent Total Victory Points: <color=#ffffff>{VP}vp</color>
+ID_GT_ROOM_CLEAR_VP,Full Clear: <color=#ffffff>{VP}VP</color>
+ID_GT_HEALTH_VP,Healthy Characters: <color=#ffffff>{VP}VP</color>
+ID_GT_KNOCKOUT_VP,Knock Outs: <color=#ffffff>{VP}VP</color>
+ID_GT_EFFICIENCY_VP,Turn Bonus: <color=#ffffff>{VP}VP</color>
+ID_GT_ATTEMPTS_VP,Attempt Bonus: <color=#ffffff>{VP}VP</color>
+ID_GT_PLAYER_TOTAL_VP,My Total Victory Points: <color=#ffffff>{VP}VP</color>
+ID_GT_OPPONENT_TOTAL_VP,Opponent Total Victory Points: <color=#ffffff>{VP}VP</color>
 ID_GT_PLAYER_NOT_FINISHED,You are not finished attacking
 ID_GT_OPPONENT_NOT_FINISHED,Opponent is not finished attacking
 ID_GT_INFOBOX_TITLE_FINAL_JUDGEMENT_CHAMPION,Final Judgment: CHAMPION
@@ -181,3 +183,12 @@ ID_GT_LEAGUE_RATING_RANGE_WITH_DEMOTE,"{promotion} - {max} Tribunal Rating, Demo
 ID_GT_LEAGUE_RATING_MAX,"{promotion}+ Tribunal Rating, Demotion at {demotion} TR"
 ID_GT_DIDNT_PARTICIPATE,Attack to earn rewards
 ID_GT_PER_KNOCKOUT_QUANTITY,x{qty} per KO
+ID_GT_KNOCKOUT_REMAINING,Remaining: {qty}
+ID_GT_VP_HIDDEN,<color=#BDBDBD>???VP</color>
+ID_GT_STAGES_CLEARED_COUNT,<color=#F4941F>{cleared}</color>/{total}
+ID_GT_STAGES_CLEARED,STAGES CLEARED
+ID_GT_HEADER_RATING,{total} TR
+ID_GT_HEADER_RATING_CHANGE_POSITIVE,{total} TR <color=#86E619>(+{change})</color>
+ID_GT_HEADER_RATING_CHANGE_NEGATIVE,{total} TR <color=#ff0000>(-{change})</color>
+ID_GT_TOURNAMENT_PLACEMENT,Rank {rank}
+ID_GT_DEFENSE_RESULT_AFTER_TRIAL,Defense results are shown after the trial has ended

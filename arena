@@ -267,6 +267,13 @@ ID_AR_MT_BLOB,LIVE: Massive Mutant Blitz
 ID_AR_MS_BLOB,Your chance to win Blob shards!
 ID_AR_MB_BLOB,"<color=#fff568>Massive Mutant Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Blob shards!\n\n<color=#fff568>Massive Mutant Orb</color>\nFor a limited time, a new Massive Mutant Orb is available in the Store. The orb contains <color=#fff568>only Blob shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Blob now!"
 ID_AR_NA_BLOB_CARD,Massive Mutant
+ID_AR_NA_BUCKYBARNES,Kid Commando
+ID_AR_SM_BUCKYBARNES,Win Bucky Barnes Shards!
+ID_AR_LM_BUCKYBARNES,Face off against other players' teams to earn various milestone rewards and a chance to win Bucky Barnes shards!
+ID_AR_MT_BUCKYBARNES,LIVE: Kid Commando Blitz
+ID_AR_MS_BUCKYBARNES,Your chance to win Bucky Barnes shards!
+ID_AR_MB_BUCKYBARNES,"<color=#fff568>Kid Commando Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Bucky Barnes shards!\n\n<color=#fff568>Kid Commando Orb</color>\nFor a limited time, a new Kid Commando Orb is available in the Store. The orb contains <color=#fff568>only Bucky Barnes shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Bucky Barnes now!"
+ID_AR_NA_BUCKYBARNES_CARD,Kid Commando
 ID_AR_NA_BULLSEYE,On Target
 ID_AR_SM_BULLSEYE,Win Bullseye Shards!
 ID_AR_LM_BULLSEYE,Face off against other players' teams to earn various milestone rewards and a chance to win BULLSEYE shards!
@@ -291,6 +298,13 @@ ID_AR_MT_CAPTAINAMERICA,LIVE: First Avenger Blitz
 ID_AR_MS_CAPTAINAMERICA,Your chance to win CAPTAIN AMERICA shards.
 ID_AR_MB_CAPTAINAMERICA,"<color=#fff568>First Avenger Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Captain America shards!\n\n<color=#fff568>First Avenger Orb</color>\nFor a limited time, a new First Avenger Orb is available in the Store. The orb contains <color=#fff568>only Captain America shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Captain America now!"
 ID_AR_NA_CAPTAINAMERICA_CARD,First Avenger
+ID_AR_NA_CAPTAINAMERICAWW2,Valiant Veteran
+ID_AR_SM_CAPTAINAMERICAWW2,Win Captain America (WWII) Shards!
+ID_AR_LM_CAPTAINAMERICAWW2,Face off against other players' teams to earn various milestone rewards and a chance to win Captain America (WWII) shards!
+ID_AR_MT_CAPTAINAMERICAWW2,LIVE: Valiant Veteran Blitz
+ID_AR_MS_CAPTAINAMERICAWW2,Your chance to win Captain America (WWII) shards!
+ID_AR_MB_CAPTAINAMERICAWW2,"<color=#fff568>Valiant Veteran Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Captain America (WWII) shards!\n\n<color=#fff568>Valiant Veteran Orb</color>\nFor a limited time, a new Valiant Veteran Orb is available in the Store. The orb contains <color=#fff568>only Captain America (WWII) shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Captain America (WWII) now!"
+ID_AR_NA_CAPTAINAMERICAWW2_CARD,Valiant Veteran
 ID_AR_NA_CAPTAINCARTER,Lost in Time
 ID_AR_SM_CAPTAINCARTER,Win Captain Carter Shards!
 ID_AR_LM_CAPTAINCARTER,Face off against other players' teams to earn various milestone rewards and a chance to win Captain Carter shards!
@@ -513,6 +527,13 @@ ID_AR_MT_FANTOMEX,LIVE: Weapon XIII Blitz
 ID_AR_MS_FANTOMEX,Your chance to win Fantomex shards!
 ID_AR_MB_FANTOMEX,"<color=#fff568>Weapon XIII Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Fantomex shards!\n\n<color=#fff568>Weapon XIII Orb</color>\nFor a limited time, a new Weapon XIII Orb is available in the Store. The orb contains <color=#fff568>only Fantomex shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Fantomex now!"
 ID_AR_NA_FANTOMEX_CARD,Weapon XIII
+ID_AR_NA_FIRESTAR,Light It Up
+ID_AR_SM_FIRESTAR,Win Firestar Shards!
+ID_AR_LM_FIRESTAR,Face off against other players' teams to earn various milestone rewards and a chance to win Firestar shards!
+ID_AR_MT_FIRESTAR,LIVE: Light It Up Blitz
+ID_AR_MS_FIRESTAR,Your chance to win Firestar shards!
+ID_AR_MB_FIRESTAR,"<color=#fff568>Light It Up Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Firestar shards!\n\n<color=#fff568>Light It Up Orb</color>\nFor a limited time, a new Light It Up Orb is available in the Store. The orb contains <color=#fff568>only Firestar shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Firestar now!"
+ID_AR_NA_FIRESTAR_CARD,Light It Up
 ID_AR_NA_GAMBIT,Deck Dealer
 ID_AR_SM_GAMBIT,Win Gambit Shards!
 ID_AR_LM_GAMBIT,Face off against other players' teams to earn various milestone rewards and a chance to win Gambit shards!
@@ -644,6 +665,13 @@ ID_AR_MT_IRONFIST,LIVE: Immortal Protector Blitz
 ID_AR_MS_IRONFIST,Your chance to win IRON FIST shards.
 ID_AR_MB_IRONFIST,Face off against other players' teams to earn various milestone rewards and a chance to win <color=#fff568>IRON FIST</color> shards!
 ID_AR_NA_IRONFIST_CARD,Immortal Protector
+ID_AR_NA_IRONFISTORSON,Immortal Bullet
+ID_AR_SM_IRONFISTORSON,Win Iron Fist (WWII) Shards!
+ID_AR_LM_IRONFISTORSON,Face off against other players' teams to earn various milestone rewards and a chance to win Iron Fist (WWII) shards!
+ID_AR_MT_IRONFISTORSON,LIVE: Immortal Bullet Blitz
+ID_AR_MS_IRONFISTORSON,Your chance to win Iron Fist (WWII) shards!
+ID_AR_MB_IRONFISTORSON,"<color=#fff568>Immortal Bullet Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Iron Fist (WWII) shards!\n\n<color=#fff568>Immortal Bullet Orb</color>\nFor a limited time, a new Immortal Bullet Orb is available in the Store. The orb contains <color=#fff568>only Iron Fist (WWII) shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Iron Fist (WWII) now!"
+ID_AR_NA_IRONFISTORSON_CARD,Immortal Bullet
 ID_AR_NA_IRONHEART,Tech Prodigy
 ID_AR_SM_IRONHEART,Win Ironheart Shards!
 ID_AR_LM_IRONHEART,Face off against other players' teams to earn various milestone rewards and a chance to win Ironheart shards!
@@ -1028,6 +1056,13 @@ ID_AR_MT_QUAKE,LIVE: Tremors Blitz
 ID_AR_MS_QUAKE,Your chance to win QUAKE shards.
 ID_AR_MB_QUAKE,Face off against other players' teams to earn various milestone rewards and a chance to win <color=#fff568>QUAKE</color> shards!
 ID_AR_NA_QUAKE_CARD,Tremors
+ID_AR_NA_QUICKSILVER,Silver Speedster
+ID_AR_SM_QUICKSILVER,Win Quicksilver Shards!
+ID_AR_LM_QUICKSILVER,Face off against other players' teams to earn various milestone rewards and a chance to win Quicksilver shards!
+ID_AR_MT_QUICKSILVER,LIVE: Silver Speedster Blitz
+ID_AR_MS_QUICKSILVER,Your chance to win Quicksilver shards!
+ID_AR_MB_QUICKSILVER,"<color=#fff568>Silver Speedster Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Quicksilver shards!\n\n<color=#fff568>Silver Speedster Orb</color>\nFor a limited time, a new Silver Speedster Orb is available in the Store. The orb contains <color=#fff568>only Quicksilver shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Quicksilver now!"
+ID_AR_NA_QUICKSILVER_CARD,Silver Speedster
 ID_AR_NA_REDGUARDIAN,Soviet Shield
 ID_AR_SM_REDGUARDIAN,Win Red Guardian Shards!
 ID_AR_LM_REDGUARDIAN,Face off against other players' teams to earn various milestone rewards and a chance to win Red Guardian shards!
@@ -1382,6 +1417,13 @@ ID_AR_MT_ULTSPIDERMAN,LIVE: Kid Arachnid Blitz
 ID_AR_MS_ULTSPIDERMAN,Your chance to win Spider-Man (Miles) shards!
 ID_AR_MB_ULTSPIDERMAN,"<color=#fff568>Kid Arachnid Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Spider-Man (Miles) shards!\n\n<color=#fff568>Kid Arachnid Orb</color>\nFor a limited time, a new Kid Arachnid Orb is available in the Store. The orb contains <color=#fff568>only Spider-Man (Miles) shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Spider-Man (Miles) now!"
 ID_AR_NA_ULTSPIDERMAN_CARD,Kid Arachnid
+ID_AR_NA_UNIONJACK,Secretive Nobleman
+ID_AR_SM_UNIONJACK,Win Union Jack Shards!
+ID_AR_LM_UNIONJACK,Face off against other players' teams to earn various milestone rewards and a chance to win Union Jack shards!
+ID_AR_MT_UNIONJACK,LIVE: Secretive Nobleman Blitz
+ID_AR_MS_UNIONJACK,Your chance to win Union Jack shards!
+ID_AR_MB_UNIONJACK,"<color=#fff568>Secretive Nobleman Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Union Jack shards!\n\n<color=#fff568>Secretive Nobleman Orb</color>\nFor a limited time, a new Secretive Nobleman Orb is available in the Store. The orb contains <color=#fff568>only Union Jack shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Union Jack now!"
+ID_AR_NA_UNIONJACK_CARD,Secretive Nobleman
 ID_AR_NA_USAGENT,American Patriot
 ID_AR_SM_USAGENT,Win U.S. Agent Shards!
 ID_AR_LM_USAGENT,Face off against other players' teams to earn various milestone rewards and a chance to win U.S. Agent shards!

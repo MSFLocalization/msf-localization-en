@@ -37,10 +37,24 @@ ID_SHOP_IAP_UNIVERSAL_CURRENCY_4_NAME,Case of Ultra Cores
 ID_SHOP_IAP_UNIVERSAL_CURRENCY_5_NAME,Crate of Ultra Cores
 ID_SHOP_IAP_UNIVERSAL_CURRENCY_6_NAME,Shipment of Ultra Cores
 ID_SHOP_IAP_UNIVERSAL_CURRENCY_7_NAME,Abundance of Ultra Cores
+ID_SHOP_IAP_UNIVERSAL_CURRENCY_8_NAME,Excess of Ultra Cores
+ID_SHOP_IAP_UNIVERSAL_CURRENCY_9_NAME,Mountain of Ultra Cores
 ID_SHOP_IAP_SUB_MON_1_DESC,Monthly subscription giving daily goods
 ID_SHOP_IAP_SUB_MON_1_NAME,Monthly Subscription II A
 ID_SHOP_IAP_SUB_WK_1_DESC,Weekly subscription giving daily goods
 ID_SHOP_IAP_SUB_WK_1_NAME,Weekly Subscription I A
+ID_SHOP_IAP_BUNDLE_THO25_20_NAME,Time Heist Level 25
+ID_SHOP_IAP_BUNDLE_THO25_20_DESCRIPTION,Made a Time Heist Jump Level 25
+ID_SHOP_IAP_BUNDLE_THO35_40_NAME,Time Heist Level 35
+ID_SHOP_IAP_BUNDLE_THO35_40_DESCRIPTION,Made a Time Heist Jump Level 35
+ID_SHOP_IAP_BUNDLE_THO50_70_NAME,Time Heist Level 50
+ID_SHOP_IAP_BUNDLE_THO50_70_DESCRIPTION,Made a Time Heist Jump Level 50
+ID_SHOP_IAP_BUNDLE_THO65_100_NAME,Time Heist Level 65
+ID_SHOP_IAP_BUNDLE_THO65_100_DESCRIPTION,Made a Time Heist Jump Level 65
+ID_SHOP_IAP_BUNDLE_THO80_100_NAME,Time Heist Level 80
+ID_SHOP_IAP_BUNDLE_THO80_100_DESCRIPTION,Made a Time Heist Jump Level 80
+ID_SHOP_IAP_BUNDLE_THO85_200_NAME,Time Heist Level 85
+ID_SHOP_IAP_BUNDLE_THO85_200_DESCRIPTION,Made a Time Heist Jump Level 85
 ID_SHOP_MORE_REFRESHES,More Refreshes\nin {duration}
 ID_SHOP_MUST_BE_LOGGED_IN_BODY,"You're not logged into an account that can make purchases. If you want to purchase offers or Power Cores, please log in."
 ID_SHOP_MUST_BE_LOGGED_IN_TITLE,No Account Data
@@ -1400,6 +1414,10 @@ ID_OF_DE_BLOB_OFFER_55,"Get <color=#fff568>55 Blob shards</color> and use him to
 ID_OF_DE_BLOB_OFFER_75,"Get <color=#fff568>75 Blob shards</color> and use him to slow enemies, copy Brotherhood ally positive effects, and Taunt when Brotherhood allies are low Health!"
 ID_OF_DE_BLOB_OFFER_125,"Get <color=#fff568>125 Blob shards</color> and use him to slow enemies, copy Brotherhood ally positive effects, and Taunt when Brotherhood allies are low Health!"
 ID_OF_DE_BLOB_OFFER_150,"Get <color=#fff568>150 Blob shards</color> and use him to slow enemies, copy Brotherhood ally positive effects, and Taunt when Brotherhood allies are low Health!"
+ID_GACHA_CRATE_FCO_BUCKYBARNES_SPECIAL_NAME,Kid Commando Orb
+ID_GACHA_CRATE_FCO_BUCKYBARNES_SPECIAL_DESCRIPTION,Earn up to 180 Bucky Barnes shards
+ID_GACHA_CRATE_FCO_BUCKYBARNES_SPECIAL_TOKEN_NAME,Kid Commando Orb Fragments
+ID_GACHA_CRATE_FCO_BUCKYBARNES_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Kid Commando Orbs that contain up to 180 Bucky Barnes shards.
 ID_GACHA_CRATE_FCO_BULLSEYE_SPECIAL_NAME,On Target Orb
 ID_GACHA_CRATE_FCO_BULLSEYE_SPECIAL_DESCRIPTION,Get up to 180 Bullseye shards
 ID_GACHA_CRATE_FCO_BULLSEYE_SPECIAL_TOKEN_NAME,On Target Orb Fragments
@@ -1457,6 +1475,10 @@ ID_OF_DE_CAPTAINAMERICA_OFFER_100,"Strengthen your Global Heroes team with this 
 ID_OF_DE_CAPTAINAMERICA_OFFER_125,"Strengthen your Global Heroes team with this offer to upgrade the ultimate Protector. Get <color=#fff568>125 Captain America shards</color> and Inspire with his ability to Taunt, generate energy, and much more."
 ID_OF_DE_CAPTAINAMERICA_OFFER_150,"Strengthen your Global Heroes team with this offer to upgrade the ultimate Protector. Get <color=#fff568>150 Captain America shards</color> and Inspire with his ability to Taunt, generate energy, and much more."
 ID_OF_DE_CAPTAINAMERICA_SU_MEGA,Save over <color=#fff568>{var1}%</color> on this amazing deal and get a <color=#fff568>{var2}-star ({var3} shard) Captain America</color> and more!
+ID_GACHA_CRATE_FCO_CAPTAINAMERICAWW2_SPECIAL_NAME,Valiant Veteran Orb
+ID_GACHA_CRATE_FCO_CAPTAINAMERICAWW2_SPECIAL_DESCRIPTION,Earn up to 180 Captain America (WWII) shards
+ID_GACHA_CRATE_FCO_CAPTAINAMERICAWW2_SPECIAL_TOKEN_NAME,Valiant Veteran Orb Fragments
+ID_GACHA_CRATE_FCO_CAPTAINAMERICAWW2_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Valiant Veteran Orbs that contain up to 180 Captain America (WWII) shards.
 ID_GACHA_CRATE_FCO_CAPTAINMARVEL_SPECIAL_NAME,Ace Pilot Orb
 ID_GACHA_CRATE_FCO_CAPTAINMARVEL_SPECIAL_DESCRIPTION,Earn up to 180 Captain Marvel shards
 ID_GACHA_CRATE_FCO_CAPTAINMARVEL_SPECIAL_TOKEN_NAME,Ace Pilot Orb Fragments
@@ -1959,6 +1981,10 @@ ID_GACHA_CRATE_FCO_FANTOMEX_SPECIAL_NAME,Weapon XIII Orb
 ID_GACHA_CRATE_FCO_FANTOMEX_SPECIAL_DESCRIPTION,Earn up to 180 Fantomex shards
 ID_GACHA_CRATE_FCO_FANTOMEX_SPECIAL_TOKEN_NAME,Weapon XIII Orb Fragments
 ID_GACHA_CRATE_FCO_FANTOMEX_SPECIAL_TOKEN_DESCRIPTION,Collect Weapon XIII Orb Fragments to earn a Weapon XIII Orb.
+ID_GACHA_CRATE_FCO_FIRESTAR_SPECIAL_NAME,Light It Up Orb
+ID_GACHA_CRATE_FCO_FIRESTAR_SPECIAL_DESCRIPTION,Earn up to 180 Firestar shards
+ID_GACHA_CRATE_FCO_FIRESTAR_SPECIAL_TOKEN_NAME,Light It Up Orb Fragments
+ID_GACHA_CRATE_FCO_FIRESTAR_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Light It Up Orbs that contain up to 180 Firestar shards.
 ID_GACHA_CRATE_FCO_GAMBIT_SPECIAL_NAME,Deck Dealer Orb
 ID_GACHA_CRATE_FCO_GAMBIT_SPECIAL_DESCRIPTION,Earn up to 180 Gambit shards
 ID_GACHA_CRATE_FCO_GAMBIT_SPECIAL_TOKEN_NAME,Deck Dealer Orb Fragments
@@ -2236,6 +2262,10 @@ ID_OF_DE_IRONFIST_OFFER_75,"Round out your City Heroes team with this invaluable
 ID_OF_DE_IRONFIST_OFFER_3S,"Round out your City Heroes team with this invaluable Mystic Brawler. This <color=#fff568>3-star Iron Fist</color> will use his Healing, chaining attacks, and massive single-target damage abilities."
 ID_OF_DE_IRONFIST_OFFER_125,"Round out your City Heroes team with this invaluable Mystic Brawler. Get <color=#fff568>125 Iron Fist shards </color> and use his Healing, chaining attacks, and massive single-target damage abilities."
 ID_OF_DE_IRONFIST_OFFER_150,"Round out your City Heroes team with this invaluable Mystic Brawler. Get <color=#fff568>150 Iron Fist shards </color> and use his Healing, chaining attacks, and massive single-target damage abilities."
+ID_GACHA_CRATE_FCO_IRONFISTORSON_SPECIAL_NAME,Immortal Bullet Orb
+ID_GACHA_CRATE_FCO_IRONFISTORSON_SPECIAL_DESCRIPTION,Earn up to 180 Iron Fist (WWII) shards
+ID_GACHA_CRATE_FCO_IRONFISTORSON_SPECIAL_TOKEN_NAME,Immortal Bullet Orb Fragments
+ID_GACHA_CRATE_FCO_IRONFISTORSON_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Immortal Bullet Orbs that contain up to 180 Iron Fist (WWII) shards.
 ID_GACHA_CRATE_FCO_IRONHEART_SPECIAL_NAME,Tech Prodigy Orb
 ID_GACHA_CRATE_FCO_IRONHEART_SPECIAL_DESCRIPTION,Get up to 180 Ironheart shards
 ID_GACHA_CRATE_FCO_IRONHEART_SPECIAL_TOKEN_NAME,Tech Prodigy Orb Fragments
@@ -3056,6 +3086,10 @@ ID_GACHA_CRATE_FCO_QUAKE_SPECIAL_NAME,Tremors Orb
 ID_GACHA_CRATE_FCO_QUAKE_SPECIAL_DESCRIPTION,Get up to 180 Quake shards
 ID_GACHA_CRATE_FCO_QUAKE_SPECIAL_TOKEN_NAME,Tremors Orb Fragments
 ID_GACHA_CRATE_FCO_QUAKE_SPECIAL_TOKEN_DESCRIPTION,Collect Tremors Orb Fragments to earn a Tremors Orb.
+ID_GACHA_CRATE_FCO_QUICKSILVER_SPECIAL_NAME,Silver Speedster Orb
+ID_GACHA_CRATE_FCO_QUICKSILVER_SPECIAL_DESCRIPTION,Earn up to 180 Quicksilver shards
+ID_GACHA_CRATE_FCO_QUICKSILVER_SPECIAL_TOKEN_NAME,Silver Speedster Orb Fragments
+ID_GACHA_CRATE_FCO_QUICKSILVER_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Silver Speedster Orbs that contain up to 180 Quicksilver shards.
 ID_GACHA_CRATE_FCO_REDGUARDIAN_SPECIAL_NAME,Soviet Shield Orb
 ID_GACHA_CRATE_FCO_REDGUARDIAN_SPECIAL_DESCRIPTION,Earn up to 180 Red Guardian shards
 ID_GACHA_CRATE_FCO_REDGUARDIAN_SPECIAL_TOKEN_NAME,Soviet Shield Orb Fragments
@@ -3775,6 +3809,10 @@ ID_OF_DE_MILESMORALES_OFFER_50,Round out your Spider-Verse team with this slick 
 ID_OF_DE_MILESMORALES_OFFER_55,Round out your Spider-Verse team with this slick City Brawler! Get <color=#fff568>55 Spider-Man (Miles) shards</color> and navigate the battlefield with Stealth. Clear positive effects while applying Slow and Disrupted to your foes.
 ID_OF_DE_MILESMORALES_OFFER_75,Round out your Spider-Verse team with this slick City Brawler! Get <color=#fff568>75 Spider-Man (Miles) shards</color> and navigate the battlefield with Stealth. Clear positive effects while applying Slow and Disrupted to your foes.
 ID_OF_DE_MILESMORALES_OFFER_125,Round out your Spider-Verse team with this slick City Brawler! Get <color=#fff568>125 Spider-Man (Miles) shards</color> and navigate the battlefield with Stealth. Clear positive effects while applying Slow and Disrupted to your foes.
+ID_GACHA_CRATE_FCO_UNIONJACK_SPECIAL_NAME,Secretive Nobleman Orb
+ID_GACHA_CRATE_FCO_UNIONJACK_SPECIAL_DESCRIPTION,Earn up to 180 Union Jack shards
+ID_GACHA_CRATE_FCO_UNIONJACK_SPECIAL_TOKEN_NAME,Secretive Nobleman Orb Fragments
+ID_GACHA_CRATE_FCO_UNIONJACK_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Secretive Nobleman Orbs that contain up to 180 Union Jack shards.
 ID_GACHA_CRATE_FCO_USAGENT_SPECIAL_NAME,American Patriot Orb
 ID_GACHA_CRATE_FCO_USAGENT_SPECIAL_DESCRIPTION,Earn up to 180 U.S. Agent shards
 ID_GACHA_CRATE_FCO_USAGENT_SPECIAL_TOKEN_NAME,American Patriot Orb Fragments

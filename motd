@@ -22,7 +22,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 12PM (PDT) (03/15).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PDT) (04/25).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -441,12 +441,16 @@ ID_MOTD_NA_BLITZ_WARMACHINE,Full Salvo: Now Live!
 ID_MOTD_DE_BLITZ_WARMACHINE,Battle for a chance to win War Machine shards
 ID_MOTD_NA_BLOB,Massive Mutant: Now Live!
 ID_MOTD_DE_BLOB,Battle for a chance to win Blob shards
+ID_MOTD_NA_BUCKYBARNES,Kid Commando: Now Live!
+ID_MOTD_DE_BUCKYBARNES,Battle for a chance to win Bucky Barnes shards
 ID_MOTD_NA_BULLSEYE,On Target: Now Live!
 ID_MOTD_DE_BULLSEYE,Battle for a chance to win BULLSEYE shards
 ID_MOTD_NA_CABLE,Time Traveler: Now Live!
 ID_MOTD_DE_CABLE,Battle for a chance to win CABLE shards
 ID_MOTD_NA_CAPTAINAMERICA,First Avenger: Now Live!
-ID_MOTD_DE_CAPTAINAMERICA,Battle for a chance to win CAPTAIN AMERICA shards
+ID_MOTD_DE_CAPTAINAMERICA,Battle for a chance to win Captain America shards
+ID_MOTD_NA_CAPTAINAMERICAWW2,Valiant Veteran: Now Live!
+ID_MOTD_DE_CAPTAINAMERICAWW2,Battle for a chance to win Captain America (WWII) shards
 ID_MOTD_NA_CAPTAINCARTER,Lost in Time: Now Live!
 ID_MOTD_DE_CAPTAINCARTER,Battle for a chance to win Captain Carter shards
 ID_MOTD_NA_CAPTAINMARVEL,Ace Pilot: Now Live!
@@ -517,6 +521,8 @@ ID_MOTD_NA_FALCON,EXO-7: Now Live!
 ID_MOTD_DE_FALCON,Battle for a chance to win Falcon shards
 ID_MOTD_NA_FANTOMEX,Weapon XIII: Now Live!
 ID_MOTD_DE_FANTOMEX,Battle for a chance to win Fantomex shards
+ID_MOTD_NA_FIRESTAR,Light It Up: Now Live!
+ID_MOTD_DE_FIRESTAR,Battle for a chance to win Firestar shards
 ID_MOTD_NA_GAMBIT,Deck Dealer: Now Live!
 ID_MOTD_DE_GAMBIT,Battle for a chance to win Gambit shards
 ID_MOTD_NA_GAMORA,Deadliest Woman: Now Live!
@@ -550,7 +556,9 @@ ID_MOTD_DE_ICEMAN,Battle for a chance to win Iceman shards
 ID_MOTD_NA_IKARIS,Prime Eternal: Now Live!
 ID_MOTD_DE_IKARIS,Battle for a chance to win Ikaris shards
 ID_MOTD_NA_IRONFIST,Immortal Protector: Now Live!
-ID_MOTD_DE_IRONFIST,Battle for a chance to win IRON FIST shards
+ID_MOTD_DE_IRONFIST,Battle for a chance to win Iron Fist shards
+ID_MOTD_NA_IRONFISTORSON,Immortal Bullet: Now Live!
+ID_MOTD_DE_IRONFISTORSON,Battle for a chance to win Iron Fist (WWII) shards
 ID_MOTD_NA_IRONHEART,Tech Prodigy: Now Live!
 ID_MOTD_DE_IRONHEART,Battle for a chance to win Ironheart shards
 ID_MOTD_NA_JESSICAJONES,Alias: Now Live!
@@ -654,7 +662,9 @@ ID_MOTD_DE_PUNISHER,Battle for a chance to win PUNISHER shards
 ID_MOTD_NA_PYRO,Pyrokinetic: Now Live!
 ID_MOTD_DE_PYRO,Battle for a chance to win Pyro shards
 ID_MOTD_NA_QUAKE,Tremors: Now Live!
-ID_MOTD_DE_QUAKE,Battle for a chance to win QUAKE shards
+ID_MOTD_DE_QUAKE,Battle for a chance to win Quake shards
+ID_MOTD_NA_QUICKSILVER,Silver Speedster: Now Live!
+ID_MOTD_DE_QUICKSILVER,Battle for a chance to win Quicksilver shards
 ID_MOTD_NA_REDGUARDIAN,Soviet Shield: Now Live!
 ID_MOTD_DE_REDGUARDIAN,Battle for a chance to win Red Guardian shards
 ID_MOTD_NA_REDSKULL,Hail Hydra: Now Live!
@@ -753,6 +763,8 @@ ID_MOTD_NA_ULTGREENGOBLIN,Oz: Now Live!
 ID_MOTD_DE_ULTGREENGOBLIN,Battle for a chance to win Green Goblin shards
 ID_MOTD_NA_ULTSPIDERMAN,Kid Arachnid: Now Live!
 ID_MOTD_DE_ULTSPIDERMAN,Battle for a chance to win Spider-Man (Miles) shards
+ID_MOTD_NA_UNIONJACK,Secretive Nobleman: Now Live!
+ID_MOTD_DE_UNIONJACK,Battle for a chance to win Union Jack shards
 ID_MOTD_NA_USAGENT,American Patriot: Now Live!
 ID_MOTD_DE_USAGENT,Battle for a chance to win U.S. Agent shards
 ID_MOTD_NA_VALKYRIE,Seer of the Slain: Now Live!
@@ -1743,3 +1755,9 @@ ID_MOTD_DE_CAPTAINAMERICAWWII_ANNOUNCE,This Patriot Powerhouse packs a punch!
 ID_MOTD_DE_CAPTAINAMERICAWWII_ANNOUNCE2,Open limited-time Valiant Veteran Orbs to start earning shards!
 ID_MOTD_NA_APOCSAGA_ANNOUNCE,Apocalypse has ARRIVED!
 ID_MOTD_DE_APOCSAGA_ANNOUNCE,A long time coming! Head to Epic Campaigns to unlock En Sabah Nur himself!
+ID_MOTD_NA_BLASTFROMTHEPAST_LIVE,Live: Blast From the Past
+ID_MOTD_DE_BLASTFROMTHEPAST_LIVE,Recruit and power up Captain America (WWII) to earn rewards!
+ID_MOTD_NA_LUCKOFSPRING_TEASER,Coming Soon: Luck of Spring
+ID_MOTD_DE_LUCKOFSPRING_TEASER,"T2 Level 5 Ions, and more!"
+ID_MOTD_NA_LUCKOFSPRING_ANNOUNCE,LIVE: Luck of Spring
+ID_MOTD_DE_LUCKOFSPRING_ANNOUNCE,"T2 Level 5 Ions, and more!"

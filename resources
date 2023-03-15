@@ -175,18 +175,18 @@ ID_EVENT_CUR2_NAME,Gear Credits
 ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
 ID_EVENT_CUR3_NAME,Return to the Shadows Milestone Points
 ID_EVENT_CUR3_DESCRIPTION,These points earn you additional progress in the Return to the Shadows Milestone. Earn them in Daily Free Claims on our website and in limited offers!
-ID_EVENT_CUR4_NAME,Crusher of Heroes Milestone Point
-ID_EVENT_CUR4_DESCRIPTION,These points earn you additional progress in the Crusher of Heroes Milestone.
-ID_EVENT_CUR5_NAME,Valentine Orb Fragment
-ID_EVENT_CUR5_DESCRIPTION,Collect Valentine Orb Fragments for points in the Atrocious Attraction Event. Earn them in Free Claims and limited offers!
+ID_EVENT_CUR4_NAME,Luck of Spring Milestone Points
+ID_EVENT_CUR4_DESCRIPTION,These points earn you additional progress in the Luck of Spring Milestone. Earn them in limited offers!
+ID_EVENT_CUR5_NAME,Four Leaf Clover
+ID_EVENT_CUR5_DESCRIPTION,"Collect Four Leaf Clovers from Campaign nodes and limited offers. Spend them in the Four Leaf Clover Event Store for Teal Unique Gear Pieces, character shards, and more!"
 ID_EVENT_CUR6_NAME,Grand Theft Quantum Milestone Point
 ID_EVENT_CUR6_DESCRIPTION,These points earn you additional progress in the Grand Theft Quantum Milestone.
-ID_EVENT_CUR7_NAME,Reaper Orb Fragments
-ID_EVENT_CUR7_DESCRIPTION,"Collect Reaper Orb Fragments for points in the Debonair Death Event. Earn them in select campaign nodes, Free Claims, and limited offers!"
+ID_EVENT_CUR7_NAME,Kinetic Health Pack
+ID_EVENT_CUR7_DESCRIPTION,Kinetic Health Packs are used to heal and revive your characters in Gambit Raids.
 ID_EVENT_CUR8_NAME,Conqueror Orb Fragment
 ID_EVENT_CUR8_DESCRIPTION,"Collect Conqueror Orb Fragments for points in the He Who Remains Event. Earn them in the Multiverse Master Web Milestone, Free Claims, and winning Blitz!"
-ID_EVENT_CUR9_NAME,He Who Remains Milestone Point
-ID_EVENT_CUR9_DESCRIPTION,These points earn you additional progress in the He Who Remains Milestone.
+ID_EVENT_CUR9_NAME,Kinetic Energy Refill
+ID_EVENT_CUR9_DESCRIPTION,"Kinetic Energy Refill is used to refresh your Kinetic Energy. If you do not have enough Kinetic Energy Refills, you can use Power Cores to recharge your Kinetic Energy."
 ID_EVENT_CUR10_NAME,Historic Orb Fragment
 ID_EVENT_CUR10_DESCRIPTION,"Collect Historic Orb Fragments for points in the Historic Encounter Event. Earn them in select campaign nodes, Free Claims, and limited offers!"
 ID_EVENT_CUR11_NAME,Historic Encounter Milestone Point
@@ -197,10 +197,10 @@ ID_EVENT_CUR13_NAME,To the Moon Milestone Points
 ID_EVENT_CUR13_DESCRIPTION,These points earn you additional progress in the To the Moon Milestone. Earn them in Daily Free Claims on our website and in limited offers!
 ID_EVENT_CUR14_NAME,Nakia's Ring
 ID_EVENT_CUR14_DESCRIPTION,Collect Nakia's Rings from Powerful Paws and Roar of Wakanda milestones and offers to earn points in the Battle Scars milestone.
-ID_EVENT_CUR15_NAME,Present
-ID_EVENT_CUR15_DESCRIPTION,Collect Presents to spend in the Winter Event Store. Earn them in the Festival of Frost Event!
-ID_EVENT_CUR16_NAME,Mad Science Orb Fragment
-ID_EVENT_CUR16_DESCRIPTION,"Open Mad Science Orbs for Dark Beast shards, Gold and gear!"
+ID_EVENT_CUR15_NAME,S.T.R.I.K.E. Celebration Milestone Point
+ID_EVENT_CUR15_DESCRIPTION,These points earn you additional progress in the S.T.R.I.K.E. Celebration Milestone.
+ID_EVENT_CUR16_NAME,S.T.R.I.K.E. Salute Tokens
+ID_EVENT_CUR16_DESCRIPTION,"These points earn you additional progress in the S.T.R.I.K.E. Salute Milestone. Earn them in Daily Objectives, the Care Package Web Milestone, and the Daily Free Gifts on our website."
 ID_EVENT_CUR17_NAME,Lunar Festival Milestone Points
 ID_EVENT_CUR17_DESCRIPTION,These points earn you additional progress in the Lunar Festival Milestone. Earn them in limited offers!
 ID_EVENT_CUR18_NAME,Commander's Cache Milestone Points
@@ -222,6 +222,7 @@ ID_UC_NAME,Ultra Cores
 ID_UC_DESCRIPTION,Ultra Cores can be used to make purchases in the Offers section of the Store.
 ID_UC_CONFIRMATION_HEADLINE,Spend Ultra Cores
 ID_UC_CONFIRMATION_DESC,Please confirm that you would like to spend Ultra Cores. You will not be asked again during this session.
+ID_UC_CONFIRMATION_REPEATING_DESC,Please confirm that you would like to spend Ultra Cores.
 ID_EVTA_META_JAN_A_NAME,Justice Medals
 ID_EVTA_META_JAN_A_DESCRIPTION,Collect Justice Medals for points in the Super Patriot Event. Earn them in various events throughout the month of January
 ID_EVTA_META_JAN_B_NAME,Convincer

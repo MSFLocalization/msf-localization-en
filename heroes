@@ -35,6 +35,8 @@ ID_SHARD_BARONMORDO_NAME,Mordo
 ID_SHARD_BARONMORDO_DESCRIPTION,A powerful sorcerer who weakens his enemies with forbidden magic.
 ID_SHARD_BEAST_NAME,Beast
 ID_SHARD_BEAST_DESCRIPTION,Beast is a master of Mutant science who improves any X-Men team by healing and granting positive effects.
+ID_SHARD_BUCKYBARNES_NAME,Bucky Barnes
+ID_SHARD_BUCKYBARNES_DESCRIPTION,"The teenage best friend of Steve Rogers, Bucky Barnes, charges the front lines along with the other Invaders, unleashing multiple attacks on their foes."
 ID_SHARD_DARKBEAST_NAME,Dark Beast
 ID_SHARD_DARKBEAST_DESCRIPTION,"A twisted version of Hank McCoy from an alternate universe, Dark Beast aligned with Apocalypse to experiment on his fellow mutants, inflicting them with devastating negative Status Effects."
 ID_SHARD_BISHOP_NAME,Bishop
@@ -57,6 +59,8 @@ ID_SHARD_CABLE_NAME,Cable
 ID_SHARD_CABLE_DESCRIPTION,"A time-traveler from the future who can manipulate turn order and charge up attacks to blast his enemies. "
 ID_SHARD_CAPTAINAMERICA_NAME,Captain America
 ID_SHARD_CAPTAINAMERICA_DESCRIPTION,A resilient leader who provides energy to his team while blocking enemy attacks.
+ID_SHARD_CAPTAINAMERICAWW2_NAME,Captain America (WWII)
+ID_SHARD_CAPTAINAMERICAWW2_DESCRIPTION,A tanky Captain America generates ability energy and applies buffs to his team while rallying them to perform devastating assists.
 ID_SHARD_SAMWILSON_NAME,Captain America (Sam)
 ID_SHARD_SAMWILSON_DESCRIPTION,"Taking up the mantle of Captain America, Sam Wilson uses his legendary shield to protect and inspire others, granting bonuses to Avenger and Skill allies."
 ID_SHARD_CAPTAINCARTER_NAME,Captain Carter
@@ -127,6 +131,8 @@ ID_SHARD_FALCON_NAME,Falcon
 ID_SHARD_FALCON_DESCRIPTION,A soldier who excels at War and deals massive damage to enemies who have multiple positive effects.
 ID_SHARD_FANTOMEX_NAME,Fantomex
 ID_SHARD_FANTOMEX_DESCRIPTION,"An artificially engineered mutant with three brains and a removable nervous system named E.V.A., Fantomex rains bullets down on his enemies. Lots of bullets."
+ID_SHARD_FIRESTAR_NAME,Firestar
+ID_SHARD_FIRESTAR_DESCRIPTION,"A mutant with Amazing Friends, Firestar generates scorching heat and flames using microwaves to pierce enemy defenses."
 ID_SHARD_GAMBIT_NAME,Gambit
 ID_SHARD_GAMBIT_DESCRIPTION,"With a dash of Cajun charm, Gambit fights alongside the X-Men using his mutant ability to charge objects with kinetic energy, transforming them into deadly explosives."
 ID_SHARD_GAMORA_NAME,Gamora
@@ -199,6 +205,8 @@ ID_SHARD_INVISIBLEWOMAN_NAME,Invisible Woman
 ID_SHARD_INVISIBLEWOMAN_DESCRIPTION,Invisible Woman is a Protector who grants Barrier to her teammates and reveals hidden enemies.
 ID_SHARD_IRONFIST_NAME,Iron Fist
 ID_SHARD_IRONFIST_DESCRIPTION,A versatile martial artist with healing abilities and a powerful single target attack.
+ID_SHARD_IRONFISTORSON_NAME,Iron Fist (WWII)
+ID_SHARD_IRONFISTORSON_DESCRIPTION,Orson Randall uses his Chi to heal allies and empower his guns to fight the AXIS in WWII.
 ID_SHARD_IRONHEART_NAME,Ironheart
 ID_SHARD_IRONHEART_DESCRIPTION,Ironheart is a teen super-genius who hinders enemies while enhancing Power Armor and Tech allies.
 ID_SHARD_IRONMAN_NAME,Iron Man
@@ -369,6 +377,8 @@ ID_SHARD_PYRO_NAME,Pyro
 ID_SHARD_PYRO_DESCRIPTION,A hotheaded fire-starter who excels at burning enemies in an area to inflict damage over time.
 ID_SHARD_QUAKE_NAME,Quake
 ID_SHARD_QUAKE_DESCRIPTION,A S.H.I.E.L.D. agent who disrupts the enemy team by weakening groups of foes and removing their advantages.
+ID_SHARD_QUICKSILVER_NAME,Quicksilver
+ID_SHARD_QUICKSILVER_DESCRIPTION,"Quicksilver, the twin brother of Wanda Maximoff, is a supersonic speedster with undodgeable piercing attacks that wear down his enemies."
 ID_SHARD_RAVAGERDMG_AOE_NAME,Ravager Boomer
 ID_SHARD_RAVAGERDMG_AOE_DESCRIPTION,A heavily armed space pirate who supports his allies with plasma cannon fire.
 ID_SHARD_RAVAGERSUPPORT_HEAL_NAME,Ravager Stitcher
@@ -499,6 +509,8 @@ ID_SHARD_ULTRONSUPPORT_HEAL_NAME,Ultron Fabricator
 ID_SHARD_ULTRONSUPPORT_HEAL_DESCRIPTION,An Ultron drone who deploys nanobots to reconstruct allies.
 ID_SHARD_ULTRONTANK_TAUNT_NAME,Ultron Reinforcer
 ID_SHARD_ULTRONTANK_TAUNT_DESCRIPTION,An Ultron construction drone who taunts enemies to absorb damage.
+ID_SHARD_UNIONJACK_NAME,Union Jack
+ID_SHARD_UNIONJACK_DESCRIPTION,"The first to take the mantle of Union Jack, adventurer and British superspy James Montgomery Falsworth charges up his attacks to blast away his enemies."
 ID_SHARD_USAGENT_NAME,U.S. Agent
 ID_SHARD_USAGENT_DESCRIPTION,"When the world needed a Captain America, John Walker stepped up. As the Super Soldier U.S. Agent, he helps the Project Rebirth team by blocking enemies' abilities and giving his allies bursts of speed."
 ID_SHARD_VALKYRIE_NAME,Valkyrie

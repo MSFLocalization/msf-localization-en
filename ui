@@ -223,6 +223,7 @@ ID_GAME_CENTER_LOGIN,Game Center Login
 ID_GAMEMODE_ARENA,Blitz
 ID_GAMEMODE_TOWERMODE,Avengers Tower
 ID_GAMEMODE_BATTLEGROUNDS,Arena
+ID_GAMEMODE_STARK_TECH,Alliance Donations
 ID_GAMEMODE_CAMPAIGN_COSMIC,Cosmic Campaign
 ID_GAMEMODE_CAMPAIGN_COSMIC_DESC,"An interstellar, interdimensional battle for the fate of humanity."
 ID_GAMEMODE_CAMPAIGN_COSMIC_NAME,Cosmic Conflicts
@@ -246,10 +247,13 @@ ID_GAMEMODE_CHALLENGES,Challenges
 ID_GAMEMODE_DAILYMISSIONS,Daily Objectives
 ID_GAMEMODE_EVENTS,Events
 ID_GAMEMODE_QUESTS,Milestones
+ID_GAMEMODE_ALLIANCE,Alliances
 ID_GAMEMODE_RAIDS,Alliance Raids
-ID_GAMEMODE_SYNCPVPARENA,VS Arena
+ID_GAMEMODE_SYNCPVPARENA,Real-Time Arena
 ID_GAMEMODE_WAR,Alliance War
-ID_GAMEMODE_GRAND_TOURNAMENT,COSMIC CRUCIBLE
+ID_GAMEMODE_GRAND_TOURNAMENT,Cosmic Crucible
+ID_GAMEMODE_RED_STARS,Red Stars
+ID_GAMEMODE_EPIC_CAMPAIGNS,Epic Campaigns
 ID_GEAR_EQUIPPED,EQUIPPED
 ID_GEAR_LEVEL_REQUIREMENT,CHARACTER LEVEL {level} REQUIRED TO EQUIP
 ID_GEAR_NEEDED_BY,Needed by
@@ -322,7 +326,7 @@ ID_LOGIN_STREAK_ACTIVE,Streak Active
 ID_LOGIN_STREAK_BROKEN,<color=#D67C10>STREAK BROKEN</color> - <color=#FFFFFF>LOG IN</color> for <color=#FFFFFF>7 CONSECUTIVE</color> days to reactivate!
 ID_LOGIN_STREAK_DESCRIPTION,<color=#FFFFFF>LOG IN</color> for <color=#FFFFFF>7 CONSECUTIVE</color> days to activate your <color=#D67C10>STREAK BONUS</color>!
 ID_LOGIN_STREAK_RULES_TITLE,Login Streak Rules
-ID_LOGIN_STREAK_RULES_DESCRIPTION,"<color=#FFFFFF>LOG IN</color> for <color=#FFFFFF>7 CONSECUTIVE</color> days to activate your <color=#D67C10>STREAK BONUS</color>!\n\nIf you miss a day, the <color=#D67C10>STREAK BONUS</color> resets.\n\n<color=#D67C10>STREAK BONUSES</color> provide the following <color=#57BD00>BENEFITS</color>:\n\n<color=#57BD00>1) AUTO DAILIES</color>: Players Level {autoDailiesLevel} or above will have a select number of their Daily Objectives completed as soon as they log in for the day.\n\n<color=#57BD00>2) Raid Sim</color>: Players Level {raidAutoSimLevel} or above will be awarded a select number of SIM attempts each day. The number of daily allowed SIMs is set per Raid and awarded when the Raid is joined.\n\n<color=#57BD00>3) Streak Milestones</color>: All players will be able to complete Daily Streak Milestones to earn additional Rewards!"
+ID_LOGIN_STREAK_RULES_DESCRIPTION,"<color=#FFFFFF>LOG IN</color> for <color=#FFFFFF>7 CONSECUTIVE</color> days to activate your <color=#D67C10>STREAK BONUS</color>!\n\nIf you miss a day, the <color=#D67C10>STREAK BONUS</color> resets.\n\n<color=#D67C10>STREAK BONUSES</color> provide the following <color=#57BD00>BENEFITS</color>:\n\n<color=#57BD00>1) Auto Dailies</color>: Players Level {autoDailiesLevel} or above will have a select number of their Daily Objectives completed as soon as they log in for the day.\n\n<color=#57BD00>2) Raid Sim</color>: Players Level {raidAutoSimLevel} or above will be awarded a select number of SIM attempts each day. The number of daily allowed SIMs is set per Raid and awarded when the Raid is joined.\n\n<color=#57BD00>3) Streak Milestones</color>: All players will be able to complete Daily Streak Milestones to earn additional Rewards!"
 ID_LOGIN_STREAK_MAINTAIN,Keep playing <color=#FFFFFF>DAILY</color> to maintain your <color=#D67C10>STREAK BONUS</color>!
 ID_LOGIN_STREAK_MILESTONE_INACTIVE_DESC,<color=#FFFFFF>ACTIVATE</color> your <color=#D67C10>STREAK BONUS</color> to participate.\n<color=#FFFFFF>LOG IN</color> for <color=#FFFFFF>7 CONSECUTIVE</color> days to activate your <color=#D67C10>STREAK BONUS</color>.
 ID_LOGIN_STREAK_PERK_DAILIES,AUTO DAILIES
@@ -508,6 +512,7 @@ ID_ROSTER_FIND,FIND
 ID_ROSTER_RECRUIT,RECRUIT
 ID_ROSTER_EQUIP_ALL,EQUIP ALL
 ID_ROSTER_EQUIP_LVL_REQ,Requires Lvl {level}
+ID_SPARX_PAYMENT_CANCELED,This purchase was canceled.
 ID_SELECT,SELECT
 ID_SELECT_BUTTON_1,Select Required
 ID_SELECT_BUTTON_2,Character
@@ -562,6 +567,70 @@ ID_TIME_LEFT_BRACKET,({duration} left)
 ID_TIME_START_BRACKET,(Starts in {duration})
 ID_TO_STORE,TO STORE
 ID_TRAIN,APPLY
+ID_TRAIT_WAVE1AVENGER,Wave I - Avengers
+ID_TRAIT_WAVE1AVENGER_SHORT_DESC,Strong in Campaigns
+ID_TRAIT_KREEVILLAIN,Kree Villains
+ID_TRAIT_KREEVILLAIN_SHORT_DESC,Unlock Nick Fury
+ID_TRAIT_DEFENDER,Defenders
+ID_TRAIT_DEFENDER_SHORT_DESC,Earn More Ability Materials
+ID_TRAIT_WAKANDAN,Wakandans
+ID_TRAIT_WAKANDAN_SHORT_DESC,Earn More Promotion Credits
+ID_TRAIT_SKILLMILITARY,Skill Military
+ID_TRAIT_SKILLMILITARY_SHORT_DESC,Earn More Training Materials
+ID_TRAIT_MERCVILLAIN,Mercenary Villains
+ID_TRAIT_MERCVILLAIN_SHORT_DESC,Earn More Gold
+ID_TRAIT_HAND,Hand
+ID_TRAIT_HAND_SHORT_DESC,Earn More Catalysts
+ID_TRAIT_GOTG,Guardians
+ID_TRAIT_GOTG_SHORT_DESC,Unlock Star-Lord
+ID_TRAIT_SINISTERSIX,Sinister Six
+ID_TRAIT_SINISTERSIX_SHORT_DESC,Needed for Invisible Woman
+ID_TRAIT_HYDRA,Hydra
+ID_TRAIT_HYDRA_SHORT_DESC,Strong in War
+ID_TRAIT_RAVAGER,Ravagers
+ID_TRAIT_RAVAGER_SHORT_DESC,War Offense Specialists
+ID_TRAIT_XFACTOR,X-Factor
+ID_TRAIT_XFACTOR_SHORT_DESC,Needed for Adam Warlock
+ID_TRAIT_SYMBIOTE,Symbiotes
+ID_TRAIT_SYMBIOTE_SHORT_DESC,Unlock Shuri
+ID_TRAIT_XFORCE,X-Force
+ID_TRAIT_XFORCE_SHORT_DESC,Unlock Doctor Octopus
+ID_TRAIT_ASGARD,Asgardians
+ID_TRAIT_ASGARD_SHORT_DESC,Unlock Black Bolt
+ID_TRAIT_INHUMAN,Inhumans
+ID_TRAIT_INHUMAN_SHORT_DESC,Unlock Ebony Maw
+ID_TRAIT_PYMTECH,Pym Tech
+ID_TRAIT_PYMTECH_SHORT_DESC,Unlock Jubilee
+ID_TRAIT_POWERARMOR,Power Armor
+ID_TRAIT_POWERARMOR_SHORT_DESC,Needed for Campaigns
+ID_TRAIT_SHIELDMEDIC,S.H.I.E.L.D. Medic
+ID_TRAIT_SHIELDMEDIC_SHORT_DESC,Iso-8 Test Subject
+ID_TRAIT_THANOSBLACKORDER,Thanos + Black Order
+ID_TRAIT_THANOSBLACKORDER_SHORT_DESC,Powerful Synergy
+ID_TRAIT_UNCANNY,Uncanny X-Men
+ID_TRAIT_UNCANNY_SHORT_DESC,High Damage Utility
+ID_TRAIT_BROTHERHOOD,Brotherhood
+ID_TRAIT_BROTHERHOOD_SHORT_DESC,Unlock Magneto
+ID_TRAIT_INFINITYWATCH,Infinity Watch
+ID_TRAIT_INFINITYWATCH_SHORT_DESC,Flexible and Devastating
+ID_TRAIT_ASTONISHING,Astonishing X-Men
+ID_TRAIT_ASTONISHING_SHORT_DESC,Strong in Mutant Raids
+ID_TRAIT_COSMICBLASTER,Cosmic Supremacy
+ID_TRAIT_COSMICBLASTER_SHORT_DESC,Plug and Play Dominance
+ID_TRAIT_SECRETAVENGER,Secret Avengers
+ID_TRAIT_SECRETAVENGER_SHORT_DESC,Strong in Skill Raids
+ID_TRAIT_WEBWARRIOR,Web-Warriors
+ID_TRAIT_WEBWARRIOR_SHORT_DESC,Strong in Bio Raids
+ID_TRAIT_BIONICAVENGER,Bionic Avengers
+ID_TRAIT_BIONICAVENGER_SHORT_DESC,Strong in Tech Raids
+ID_TRAIT_AFORCE,A-Force
+ID_TRAIT_AFORCE_SHORT_DESC,Strong on War Offense
+ID_TRAIT_DARKHUNTER,Dark Hunters
+ID_TRAIT_DARKHUNTER_SHORT_DESC,Strong in Pestilence Scourge
+ID_TRAIT_YOUNGAVENGER,Young Avengers
+ID_TRAIT_YOUNGAVENGER_SHORT_DESC,Strong in Famine Scourge
+ID_TRAIT_NEWWARRIOR,New Warriors
+ID_TRAIT_NEWWARRIOR_SHORT_DESC,Strong in Mystic Raids
 ID_UI_ABILITIES,ABILITIES
 ID_UI_INIT_OFFERWALL,Loading Promo Offers
 ID_UI_ACHIEVEMENTS,ACHIEVEMENTS
@@ -596,6 +665,80 @@ ID_UI_FREE_COST,Free
 ID_UI_GACHA_REVEAL,ORB CHAMBER
 ID_UI_GEAR,GEAR
 ID_UI_GET_ORBS,GET HEROES
+ID_UI_BEST_OFFER,BEST ONE-TIME OFFER!
+ID_UI_TIME_HEIST_INFO_LABEL,Offer Details
+ID_UI_TIME_HEIST_OFFER_DEAL,BEST ONE-TIME OFFER
+ID_UI_TIME_HEIST_OFFER_PROGRESS_UPDATE,PROGRESS UPDATE!
+ID_UI_TIME_HEIST_OFFER_PROGRESS_DETAILS_HEADER,PROGRESS UPDATES
+ID_UI_TIME_HEIST_OFFER_PROGRESS_DETAILS_SUBHEADER,Existing progress will never be lost.
+ID_UI_TIME_HEIST_OFFER_TCP_DESCRIPTION,Instantly upgrade your Total Collection Power!
+ID_UI_TIME_HEIST_OFFER_TCP_NO_CHANGE,No change to total collection power
+ID_UI_TIME_HEIST_OFFER_TITLE,Time Heist
+ID_UI_TIME_HEIST_HUD_TITLE,TIME HEIST
+ID_UI_TIME_HEIST_HUD_BEST_OFFER,BEST OFFER
+ID_UI_TIME_HEIST_HUD_JUMP_TO,JUMP TO\nLEVEL
+ID_UI_TIME_HEIST,TIME HEIST
+ID_UI_TIME_HEIST_COMMANDER_UPGRADE,UPGRADED TO\nCOMMANDER LEVEL
+ID_UI_TIME_HEIST_REWARDS_NO_UPGRADE,REWARDS FOR\nCOMMANDER LEVEL
+ID_UI_TIME_HEIST_OFFER_LEVEL,OFFER AND LEVEL UP REWARDS:
+ID_UI_TIME_HEIST_OFFER_NO_LEVEL,OFFER REWARDS:
+ID_UI_TIME_HEIST_OFFER_PROGRESS_MORE,...and +{overflow} more progress updates! <color=#00ffff>Tap to see more</color>
+ID_UI_TIME_HEIST_OFFER_TAP_TO_SEE_MORE,<color=#00ffff>Tap to see more</color>
+ID_UI_TIME_HEIST_NO_UNLOCKS,All features already unlocked!
+ID_UI_TIME_HEIST_OFFER_UNLOCKED_FEATURES_HEADER,FEATURES UNLOCKED
+ID_TIME_HEIST_DISCLAIMER_TITLE,TIME HEIST DETAILS
+ID_TIME_HEIST_DISCLAIMER_SUBHEADER,Understanding the Time Jump
+ID_TIME_HEIST_DISCLAIMER_BODY,"Time Heist Offers will upgrade your existing Commander Level, Roster Power, Campaign Progress, and Challenge Progress up to a preset point defined by each offer. Your existing progress across each of these power vectors will never be lost or reduced. Each Time Heist Offer will also grant a number of additional rewards as part of your purchase. \n\nCommander Level:\nTime Heists will instantly upgrade your Commander Level and grant all skipped level up rewards. If you purchase a Time Heist that is lower level than your current Commander Level, your Commander Level will remain the same and you will not be granted additional level up rewards.\n\nRoster Power:\nEach Time Heist will upgrade specific characters to a designated power level. Characters above the designated power level will not be reduced and additional compensation will not be granted. If a character has some power vectors above the designated power level and others that are below, the character will not lose progress and only those power vectors below the designed power levels will be upgraded. For example, if a Time Heist Offer grants a 3 Yellow Star, Gear Tier 6 Spider-Man, and you already own a 5 Yellow Star, Gear Tier 3 Spider-Man, after the Time Heist you will own a 5 Yellow Star, Gear Tier 6 Spider-Man. Comma separated Character Abilities are listed in order: Basic, Special, Ultimate, Passive.\n\nCampaign Progress:\nEach Time Heist Offer will advance your Campaign progress up to a preset point and 3 star all previous missions. Purchasing a Time Heist Offer will never reduce your Campaign progress or the number of stars earned on a particular mission. Completed Campaign Missions can always be replayed.\n\nChallenge Progress:\nEach Time Heist Offer will advance your Challenge progress up to a preset point and 3 star all previous missions. Purchasing a Time Heist Offer will never reduce your Challenge progress or the number of stars earned on a particular mission. Completed Challenge Missions can always be replayed.\n\nEach Level Time Heist Offer can only ever be purchased once, but multiple Level Time Heist Offers can be purchased as long as the minimum Commander Level is met.\n"
+ID_TIME_HEIST_ROSTER_LEVEL,Level {number}
+ID_TIME_HEIST_ROSTER_LOYALTY,{number} Stars
+ID_TIME_HEIST_ROSTER_TIER,Gear Tier {number}
+ID_TIME_HEIST_ROSTER_ABILITIES_4,"Abilities {n1},{n2},{n3},{n4}"
+ID_TIME_HEIST_ROSTER_ISO8,Iso-8 T{tier} Level {level}
+ID_TIME_HEIST_ROSTER_ISO8_TIER,Iso-8 T{tier}
+ID_TIME_HEIST_ROSTER_RED_STARS,{number} Red Stars
+ID_TIME_HEIST_STORE_CARD_HEADER,TIME HEIST!
+ID_TIME_HEIST_STORE_CARD_DESC,Instantly jump forward in time and get an amazing deal of a ton of valuable resources!
+ID_UI_VIEW_MORE,VIEW MORE
+ID_UI_VIEW_ROSTER,VIEW ROSTER
+ID_TH_TEAMS_DESC,Grant these Teams the following upgrades:
+ID_TH_FEATURE_UNLOCKED,Unlock {feature}!
+ID_TH_WEB_GIFT,Unlock Free gift from MSF web
+ID_TH_NEW_FEATURES_UNLOCKED,Unlock New Features!
+ID_TH_GAMEMODE_ARENA_DESC,"Earn character shards, Gold, and other resources by battling enemies based on your team power. More powerful teams earn more points, and more rewards."
+ID_TH_GAMEMODE_BATTLEGROUNDS_DESC,Earn Power Cores and Arena Credits by battling other Commanders' teams and climbing the Arena Ranks.
+ID_TH_GAMEMODE_ALLIANCE_DESC,"Choose an Alliance that regularly participates in Raids, Alliance War, and special events to boost your weekly rewards and progress."
+ID_TH_GAMEMODE_RAIDS_DESC,Battle a gauntlet of enemies with your Alliance to earn Ability materials and resources to help power up your roster. Harder difficulties have bigger rewards.
+ID_TH_GAMEMODE_EVENTS_DESC,"Be on the lookout for limited-time opportunities to earn new characters, important resources, boosted rewards, and exclusive deals."
+ID_TH_GAMEMODE_SYNCPVPARENA_DESC,Fight against other Commanders in real-time battles for big rewards. Be on the lookout for the start of Mojo's Mayhem Seasons for even more rewards!
+ID_TH_GAMEMODE_WAR_DESC,"Utilize your entire Roster in this high stakes Alliance vs Alliance showdown. Blow up Helicarrier rooms and win the war to earn ability materials, gear, and other rewards."
+ID_TH_GAMEMODE_RED_STARS_DESC,"Red Stars boost Health, Damage, Focus, and Resistance."
+ID_TH_GAMEMODE_STARK_TECH_DESC,Donate to increase Alliance level and gain access to Stark Tech upgrades.
+ID_TH_GAMEMODE_ISO8_DESC,Scientist Supreme has discovered a new element to power up S.T.R.I.K.E. and is putting it to the test.
+ID_TH_GAMEMODE_EPIC_CAMPAIGNS_DESC,"Turn back now, Commander! Only the strongest will survive these ultra powerful enemies. But your efforts will be greatly rewarded: Gold, gear, and unique characters: Ultron & Doctor Doom!"
+ID_TH_GAMEMODE_GRAND_TOURNAMENT_DESC,The Living Tribunal seeks to restore balance to the multiverse that is descending into chaos. It has seen fit to judge you and reward you for your participation in the Cosmic Crucible.
+ID_TH_CAMPAIGN_AND_CHALLENGE_UPDATES,Updated Challenge and Campaign Progress!
+ID_TH_CAMPAIGN_UPDATES,Updated Campaign Progress!
+ID_TH_CHALLENGE_UPDATES,Updated Challenge Progress!
+ID_TH_STARK_TECH,Stark Tech
+ID_TH_STARK_TECH_LVL,Stark Tech {number}
+ID_TH_STARK_TECH_LONG_DESC,Stark Tech upgrades the base stat for all characters of an origin.
+ID_TH_STARK_TECH_LVL_DESC,Stark Tech upgraded to level {number}
+ID_TH_CAMPAIGN_PROGRESS_UPDATE,Update progress from Chapter {c1} to Chapter {c2}
+ID_TH_CHALLENGE_PROGRESS_UPDATE,Update progress from Tier {t1} to Tier {t2}
+ID_TH_CAMPAIGN_NO_PROGRESS,You are already on Chapter {chapter}
+ID_TH_CHALLENGE_NO_PROGRESS,You are already on Tier {tier}
+ID_TH_REWARDS,REWARDS
+ID_TH_REWARDS_SUBTITLE,You will receive the following:
+ID_TH_PROGRESS_UPDATED,PROGRESS UPDATED
+ID_TH_PREVIEW_LEVEL,Requires Player Level {lvl}
+ID_TH_PREVIEW_REWARDS,Unlock this offer to view rewards
+ID_TH_CHAR_TITLE_NEW_HEROES,New Heroes
+ID_TH_CHAR_SUBTITLE_NEW_HEROES,New Heroes: {number}
+ID_TH_CHAR_TITLE_UPGRADED_HEROES,Upgraded Heroes
+ID_TH_CHAR_SUBTITLE_UPGRADED_HEROES,Upgraded Heroes: {number}
+ID_TH_CHAR_TITLE_NEW_AND_UPGRADED_HEROES,New and Upgraded Heroes
+ID_TH_CHAR_SUBTITLE_NEW_AND_UPGRADED_HEROES,"New: {number1}, Upgraded: {number2}"
+ID_UI_OFFER,OFFER
 ID_UI_GET_CHARACTERS,GET CHARACTERS
 ID_UI_GET_HEROES,GET HEROES
 ID_UI_GET_VILLAINS,GET VILLAINS
@@ -622,6 +765,7 @@ ID_UI_MILESTONES_EVENT,EVENT MILESTONES
 ID_UI_MILESTONES_NUMBER,MILESTONE {num}
 ID_UI_MISSIONS,FIGHT
 ID_UI_MORE,MORE
+ID_UI_NEW,NEW
 ID_UI_MY_RANK,MY RANK:
 ID_UI_NEED_MORE_HEROES,"No other characters available. Collect additional characters in Campaign missions, through events, and by opening orbs."
 ID_UI_NEED_MORE_HEROES_TRAIT,"No other {trait} characters available. Collect additional characters in Campaign missions, through events, and by opening orbs."
@@ -661,11 +805,11 @@ ID_UI_REWARDS_RAIDS_SUBHEADLINE,"Complete raid missions for a chance to earn Rai
 ID_UI_REWARDS_INSANITY_SUBHEADLINE,Congratulations! That was a hard fought battle!
 ID_UI_ROSTER,ROSTER
 ID_UI_RECOMMENDED_SQUADS,RECOMMENDED
-ID_UI_SCOPELY_LINKDESC,Sign in with <color=#FCFF00>Scopely</color> to protect your game progress and earn amazing rewards! \nAdd this <color=#FCFF00>3 star Loki</color> to your Villains team today!
-ID_UI_SCOPELY_LINKED,Thank you for signing in with <color=#FCFF00>Scopely</color>. Please enjoy these amazing rewards! \nAdd this <color=#FCFF00>3 star Loki</color> to your Villains team today!
-ID_UI_SCOPELY_LOKI,Sign up to unlock Loki FREE!
+ID_UI_SCOPELY_LINKDESC,Sign in with <color=#FCFF00>Scopely</color> to protect your game progress and earn amazing rewards! \nAdd this <color=#FCFF00>3-star Loki</color> to your Villains team today!
+ID_UI_SCOPELY_LINKED,Thank you for signing in with <color=#FCFF00>Scopely</color>. Please enjoy these amazing rewards! \nAdd this <color=#FCFF00>3-star Loki</color> to your Villains team today!
+ID_UI_SCOPELY_LOKI,Sign up to unlock a FREE <color=#FCFF00>3-star Loki</color>!\nClaim at the bottom of the <color=#FCFF00>Offers</color> list.
 ID_UI_SCOPELY_SIGN_IN,Sign in with Scopely
-ID_UI_SCOPELY_STORE_DESC,Sign in with <color=#FCFF00>Scopely</color> to protect your game progress and earn amazing rewards! \nAdd this <color=#FCFF00>3 star Loki</color> to your Villains team today!
+ID_UI_SCOPELY_STORE_DESC,Sign in with <color=#FCFF00>Scopely</color> to protect your game progress and earn amazing rewards! \nAdd this <color=#FCFF00>3-star Loki</color> to your Villains team today!
 ID_UI_SELECT_ARENA,BLITZ SELECTION
 ID_UI_SELECT_DESIRED_LEVEL,SELECT DESIRED LEVEL
 ID_UI_SELECT_EVENT,EVENT SELECTION
@@ -921,6 +1065,8 @@ ID_EVENT_CAMPAIGN_TYPE_NAKIA,NAKIA
 ID_EVENT_CAMPAIGN_TYPE_DEATH,ARCHANGEL
 ID_EVENT_CAMPAIGN_TYPE_NEMESIS,NEMESIS
 ID_EVENT_CAMPAIGN_TYPE_APOCALYPSE,APOCALYPSE
+ID_EVENT_CAMPAIGN_TYPE_STORY,STORY
+ID_EVENT_CAMPAIGN_TYPE_CHALLENGE,CHALLENGE
 ID_OFFER_AND,AND
 ID_OFFER_OR,OR
 ID_CHAL_UNLOCK,UNLOCK
@@ -932,6 +1078,7 @@ ID_OFFER_MOREINFO,Tap here for more information!
 ID_GEAR_MATERIAL_MISSING_DESC,More of this material is required to craft <color=#fff568>{name}</color>
 ID_GEAR_MATERIAL_MISSING_COUNT,Total Needed\n<color=#ff0000>{count}</color><color=#c9cdf2>/{req}</color>
 ID_MAX_VALUE,{value}+
+ID_VALUE_MAX,+{value}
 ID_EVENT_CAMPAIGN_TYPE_MEC_FA_WS,FALCON AND WINTER SOLDIER
 ID_GENERAL_BATTLEPASS_ACCESS,You have unlocked the S.T.R.I.K.E. Pass!
 ID_UI_PURCHASE,PURCHASE
@@ -1068,6 +1215,7 @@ ID_MINSPEC_BO_MINSPEC_IOS13,The minimum device requirements to play MARVEL Strik
 ID_MINSPEC_NA_MINSPEC_OS7_2GB,Device Update Needed!
 ID_MINSPEC_BO_MINSPEC_OS7_2GB,The minimum device requirements to play MARVEL Strike Force on Android will be OS 7 and a minimum of 2 GB RAM with the upcoming Version 6.5 Release (slated for the end of October 2022). We recommend updating as soon as possible to avoid any disruptions to your playing experience.
 ID_QUICKMULTIORBOPEN_TITLE,Open All Orbs
-ID_QUICKMULTIORBOPEN_BODY_PROMPT,Automatically open <color=#FFFF00FF>{num_orbs}</color> orbs?\n\nIt may take a few moments for these orbs to be opened. You may stop at any time.
+ID_QUICKMULTIORBOPEN_BODY_PROMPT,Automatically open <color=#FFFF00FF>{num_orbs}</color> orbs?\nIt may take a few moments for these orbs to be opened. You may stop at any time.
 ID_QUICKMULTIORBOPEN_BODY_PROGRESS,"Number of orbs opened: <color=#FFFF00FF>{num_orbs}</color>/<color=#FFFFFFFF>{total_orbs}</color> "
+ID_QUICKMULTIORBOPEN_BODY_PROGRESS_PENDING,Opening {num_orbs} orbs...
 ID_QUICKMULTIORBOPEN_BODY_STOPPING,Stopping...

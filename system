@@ -531,7 +531,7 @@ ID_UI_ONLY_LUCKY_CHARS,ONLY <color=#fff568>LUCKY</color> CHARACTERS
 ID_UI_ONLY_ROGUEAGENT_CHARS,ONLY <color=#fff568>ROGUE AGENT</color> CHARACTERS
 ID_UI_ONLY_METAMORPHOSIS_CHARS,ONLY <color=#fff568>METAMORPHOSIS</color> CHARACTERS
 ID_UI_ONLY_ASPIRING_CHARS,ONLY <color=#fff568>ASPIRING</color> CHARACTERS
-ID_UI_ONLY_DDLIVETRAIT_CHAR,REQUIRES 5 <color=#fff568>QUANTUM</color> CHARACTERS
+ID_UI_ONLY_DDLIVETRAIT_CHAR,REQUIRES 5 <color=#fff568>B.K.T.</color> CHARACTERS AT LEVEL 65+
 ID_UI_ONLY_SHOWSTOPPER_CHAR,ONLY <color=#fff568>SHOWSTOPPER</color> CHARACTERS
 ID_UI_ONLY_FRIENDSHIP_CHARS,ONLY <color=#fff568>FRIENDSHIP</color> CHARACTERS
 ID_UI_ONLY_INFILTRATOR_CHAR,ONLY <color=#fff568>INFILTRATOR</color> CHARACTERS
@@ -669,7 +669,7 @@ ID_SUGGESTED_LEVEL_72,FOR <color=#fff568>LEVEL 72+</color>
 ID_SUGGESTED_LEVEL_73,FOR <color=#fff568>LEVEL 73+</color>
 ID_SUGGESTED_LEVEL_74,FOR <color=#fff568>LEVEL 74+</color>
 ID_SUGGESTED_LEVEL_75,FOR <color=#fff568>LEVEL 75+</color>
-ID_MAINTENANCE_TOASTER_SCHEDULED,We will undergo maintenance starting at 12PM (PDT) (03/15).
+ID_MAINTENANCE_TOASTER_SCHEDULED,We will undergo maintenance starting at 11AM (PST) (02/19).
 ID_MAINTENANCE_TOASTER_EMERGENCY,We will be undergoing emergency maintenance shortly.
 ID_MAINTENANCE_TOASTER_EVENT01,We will be undergoing maintenance shortly.
 ID_MAINTENANCE_TOASTER_EVENT02,Update available. Get the latest app version now.
@@ -775,7 +775,7 @@ ID_REQUIRES_GEAR_TIER_13,Requires Gear Tier 13
 ID_REQUIRES_GEAR_TIER_14,Requires Gear Tier 14
 ID_REQUIRES_GEAR_TIER_15,Requires Gear Tier 15
 ID_REQUIRES_GEAR_TIER_16,Requires Gear Tier 16
-ID_REQUIRES_DDLIVETRAIT,Requires Quantum Characters
+ID_REQUIRES_DDLIVETRAIT,Requires B.K.T. Characters
 ID_REQUIRES_GEAR_TIER_17,Requires Gear Tier 17
 ID_GEAR_TIER_MAX_REACHED,Max Tier Reached
 ID_REQUIRES_2_STAR,Requires 2
@@ -981,7 +981,7 @@ ID_REQUIRES_TRAITS_LEGENDARY,REQUIRES: <color=#fff568>LEGENDARY</color>
 ID_REQUIRES_RESTRICTION_GEAR_TIER_14,REQUIRES: <color=#fff568>GEAR TIER 14</color>
 ID_REQUIRES_RESTRICTION_GEAR_TIER_15,REQUIRES: <color=#fff568>GEAR TIER 15</color>
 ID_REQUIRES_RESTRICTION_GEAR_TIER_16,REQUIRES: <color=#fff568>GEAR TIER 16</color>
-ID_REQUIRES_RESTRICTION_DDLIVETRAIT,REQUIRES: 5 <color=#fff568>QUANTUM</color> CHARACTERS
+ID_REQUIRES_RESTRICTION_DDLIVETRAIT,REQUIRES: 5 <color=#fff568>B.K.T.</color> CHARACTERS
 ID_REQUIRES_TRAITS_ASGARDIAN_L1,REQUIRES: 5x ASGARDIAN
 ID_REQUIRES_TRAITS_ASGARDIAN_L2,REQUIRES: 2-Star ASGARDIAN
 ID_REQUIRES_TRAITS_ASGARDIAN_L3,REQUIRES: 3-Star ASGARDIAN
@@ -1178,3 +1178,7 @@ ID_REQUIRES_PYM_OR_MOE_6YS,"6-star <color=#fff568>Pym Tech</color> or <color=#ff
 ID_REQUIRES_PYM_OR_MOE_7YS,"7-star <color=#fff568>Pym Tech</color> or <color=#fff568>Masters of Evil</color>\n<color=#fff568>Kang the Conqueror</color>, <color=#fff568>Absorbing Man</color>, & <color=#fff568>Titania</color> are Required"
 ID_MANDATORY_KANG,Kang the Conqueror is a mandatory character in this mission.\n\nKang can be unlocked in Events and Offers.
 ID_MANDATORY_KANG_AM_TITANIA,"Kang the Conqueror, Absorbing Man, and Titania are mandatory characters in this mission.\n\nCheck Events and Offers to unlock these characters."
+ID_UI_ONLY_REBIRTH,ONLY <color=#fff568>Rebirth</color> CHARACTERS
+ID_REQUIRES_REBIRTH,REQUIRES: <color=#fff568>Rebirth</color> CHARACTERS
+ID_REQUIRES_INVADERS_REBIRTH,ONLY <color=#fff568>INVADERS</color> or <color=#fff568>REBIRTH</color>\nRequires: <color=#fff568>CAPTAIN AMERICA (WWII)</color> at Gear Tier 13
+ID_REQUIRES_CAPWWII,<color=#fff568>Captain America (WWII)</color>
