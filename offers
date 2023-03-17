@@ -1664,7 +1664,7 @@ ID_OF_NA_HISTORICENCOUNTER_DAILY_INTERSTITIAL,Unlocked Historic Encounter Bundle
 ID_OF_DE_HISTORICENCOUNTER_DAILY_INTERSTITIAL,You just unlocked this deal for the <color=#fff568>Historic Encounter Milestone</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_HISTORICENCOUNTER_DAILY_ENERGY,Daily Historic Encounter Energy
 ID_OF_DE_HISTORICENCOUNTER_DAILY_ENERGY,Get a big boost of Campaign Energy and <color=#fff568>Historic Encounter</color> milestone points with this offer!
-ID_OF_NA_HISTORICENCOUNTER_DAILY_ORB,Daily Historic Encounter Gold
+ID_OF_NA_HISTORICENCOUNTER_DAILY_ORB,Daily Historic Orb
 ID_OF_DE_HISTORICENCOUNTER_DAILY_ORB,Get a big boost with some <color=#fff568>Historic Orbs</color> and <color=#fff568>Historic Encounter</color> milestone points with this offer!
 ID_OF_NA_STPATRICKS2023_GENERIC_1,The Luck of the Irish
 ID_OF_NA_STPATRICKS2023_GENERIC_2,St. Patrick's Day Celebration
@@ -1807,3 +1807,13 @@ ID_OF_DE_STPATRICKS2023_DPC,"It's your lucky day! Get this <color=#33dd00>Dark P
 ID_OF_DE_STPATRICKS2023_DUAL_TEAL_FOCUSHEALTH,Pick your St. Patrick's Day deal to augment your characters!
 ID_OF_DE_STPATRICKS2023_ASBSHARD,Take your pick! Tap the special icon for more information on contents!
 ID_OF_DE_STPATRICKS2023_ASBLUCK,Time to get lucky with this special <color=#33dd00>St. Patrick's Day</color> offer! Get a chance at varying amounts of shards or <color=#33dd00>Red Stars</color> for <color=#33dd00>Domino</color> or <color=#33dd00>Gambit</color>! Tap the icon to find out more!
+ID_OF_NA_UNIONJACK_FCO_OFFER,The British Blaster
+ID_OF_DE_UNIONJACK_FCO_OFFER,"Save on <color=#fff568>Secretive Nobleman Orbs</color>, each having a chance to earn <color=#fff568>up to 180 Union Jack</color> shards. Skillfully pick off enemies from the shadows with this Stealthy Blaster <color=#fff568>Invader</color>!"
+ID_OF_NA_UNIONJACK_WEB_SPECIAL_OFFER,Web Special: Union Jack
+ID_OF_DE_UNIONJACK_WEB_SPECIAL_OFFER,"Don't miss this <color=#fff568>Web Special</color> deal for <color=#fff568>Union Jack</color> shards, which unlocks special release offers on your next visit! Skillfully pick off enemies from the shadows with this Stealthy Blaster <color=#fff568>Invader</color>!"
+ID_OF_DE_UNIONJACK_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Union Jack</color> and unlock special release offers on your next visit! Skillfully pick off enemies from the shadows with this Stealthy Blaster <color=#fff568>Invader</color>!
+ID_OF_DE_UNIONJACK_OFFER_SHARD,Power up <color=#fff568>Union Jack</color> with this shard offer! Skillfully pick off enemies from the shadows with this Stealthy Blaster <color=#fff568>Invader</color>!
+ID_OF_NA_UNIONJACK_RS_DRAFT,Red Star Draft: Union Jack
+ID_OF_DE_UNIONJACK_RS_DRAFT_345,"Get an equal chance of either <color=#fff568>3, 4, or 5 Red Stars</color> for <color=#fff568>Union Jack</color>. Skillfully pick off enemies from the shadows with this Stealthy Blaster <color=#fff568>Invader</color>!"
+ID_OF_DE_UNIONJACK_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, or 6 Red Stars</color> for <color=#fff568>Union Jack</color>. Skillfully pick off enemies from the shadows with this Stealthy Blaster <color=#fff568>Invader</color>!"
+ID_OF_DE_UNIONJACK_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Union Jack</color>. Skillfully pick off enemies from the shadows with this Stealthy Blaster <color=#fff568>Invader</color>!"
