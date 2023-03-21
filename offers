@@ -1817,3 +1817,138 @@ ID_OF_NA_UNIONJACK_RS_DRAFT,Red Star Draft: Union Jack
 ID_OF_DE_UNIONJACK_RS_DRAFT_345,"Get an equal chance of either <color=#fff568>3, 4, or 5 Red Stars</color> for <color=#fff568>Union Jack</color>. Skillfully pick off enemies from the shadows with this Stealthy Blaster <color=#fff568>Invader</color>!"
 ID_OF_DE_UNIONJACK_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, or 6 Red Stars</color> for <color=#fff568>Union Jack</color>. Skillfully pick off enemies from the shadows with this Stealthy Blaster <color=#fff568>Invader</color>!"
 ID_OF_DE_UNIONJACK_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Union Jack</color>. Skillfully pick off enemies from the shadows with this Stealthy Blaster <color=#fff568>Invader</color>!"
+ID_OF_NA_ROYALSOLDIER_STARTER_MEGA,Royal Soldier Mega Starter
+ID_OF_NA_ROYALSOLDIER_STARTER_SUPER,Royal Soldier Super Starter
+ID_OF_NA_ROYALSOLDIER_STARTER,Royal Soldier Starter Bundle
+ID_OF_NA_ROYALSOLDIER_BOOSTER_ANCHOR_c5,Daily Victory Boost
+ID_OF_NA_ROYALSOLDIER_BOOSTER_01_c60,British Elite
+ID_OF_NA_ROYALSOLDIER_BOOSTER_01_c15,Royal Legacy
+ID_OF_NA_ROYALSOLDIER_BOOSTER_01_c5,Royal Abilities
+ID_OF_NA_ROYALSOLDIER_BOOSTER_02_c15,Victory Booster
+ID_OF_NA_ROYALSOLDIER_BOOSTER_01_c20,Royal Promotion
+ID_OF_NA_ROYALSOLDIER_BOOSTER_02_c5,Victory Catalyst
+ID_OF_NA_ROYALSOLDIER_BOOSTER_01_c30,Royal Armory
+ID_OF_NA_ROYALSOLDIER_BOOSTER_03_c5,Royal Express
+ID_OF_NA_ROYALSOLDIER_BOOSTER_04_c5,Royal Training
+ID_OF_NA_ROYALSOLDIER_BOOSTER_02_c40,Highest Honor
+ID_OF_NA_ROYALSOLDIER_BOOSTER_02_c60,Radioactive Booster
+ID_OF_NA_ROYALSOLDIER_BOOSTER_02_c20,Golden Years
+ID_OF_NA_ROYALSOLDIER_FREEDAILY,Royal Soldier Daily Gift
+ID_OF_NA_ROYALSOLDIER_CATCHUP_MEGA,Royal Soldier Mega Catch-Up
+ID_OF_NA_ROYALSOLDIER_CATCHUP_SUPER,Royal Soldier Super Catch-Up
+ID_OF_NA_ROYALSOLDIER_CATCHUP,Royal Soldier Catch-Up Bundle
+ID_OF_NA_ROYALSOLDIER_CATCHUP_LAST_CHANCE,Royal Soldier Last Chance Bundle
+ID_OF_DE_ROYALSOLDIER_STARTER_MEGA,"Stock up on <color=#fff568>Royal Soldier</color> progress and exclusive items, and get ahead on the Royal Soldier Leaderboard for <color=#fff568>up to 5 million T2 Level 5 Ions</color>!"
+ID_OF_DE_ROYALSOLDIER_STARTER_SUPER,Get ahead in the <color=#fff568>Royal Soldier</color> milestone and fast-forward your way to the <color=#fff568>Union Jack shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
+ID_OF_DE_ROYALSOLDIER_STARTER,Start off strong in the <color=#fff568>Royal Soldier</color> milestone!
+ID_OF_DE_ROYALSOLDIER_BOOSTER_ANCHOR_c5,Make consistent <color=#fff568>Royal Soldier</color> progress with this daily <color=#fff568>Victory Flags</color> supply!
+ID_OF_DE_ROYALSOLDIER_BOOSTER_01_c60,Stock up on <color=#fff568>Royal Soldier</color> progress and <color=#fff568>Elite Credits</color> with this special deal!
+ID_OF_DE_ROYALSOLDIER_BOOSTER_01_c15,Stock up on <color=#fff568>Royal Soldier</color> progress and <color=#fff568>Legacy Orbs</color> with this special deal!
+ID_OF_DE_ROYALSOLDIER_BOOSTER_01_c5,Stock up on <color=#fff568>Royal Soldier</color> progress and <color=#fff568>Ability Materials</color> with this special deal!
+ID_OF_DE_ROYALSOLDIER_BOOSTER_02_c15,Stock up on <color=#fff568>Royal Soldier</color> progress and <color=#fff568>Mega Orbs</color> with this special deal!
+ID_OF_DE_ROYALSOLDIER_BOOSTER_01_c20,Stock up on <color=#fff568>Royal Soldier</color> progress and <color=#fff568>Gold Promotion Credits</color> with this special deal!
+ID_OF_DE_ROYALSOLDIER_BOOSTER_02_c5,Stock up on <color=#fff568>Royal Soldier</color> progress and <color=#fff568>Catalysts</color> with this special deal!
+ID_OF_DE_ROYALSOLDIER_BOOSTER_01_c30,Stock up on <color=#fff568>Royal Soldier</color> progress and <color=#fff568>Armory Orbs</color> with this special deal!
+ID_OF_DE_ROYALSOLDIER_BOOSTER_03_c5,Accelerate your <color=#fff568>Royal Soldier</color> progress with these discounted <color=#fff568>Victory Flags</color>!
+ID_OF_DE_ROYALSOLDIER_BOOSTER_04_c5,Stock up on <color=#fff568>Royal Soldier</color> progress and <color=#fff568>Training Orbs</color> with this special deal!
+ID_OF_DE_ROYALSOLDIER_BOOSTER_02_c40,Take advantage of <color=#fff568>Royal Soldier</color>'s highest discount offer for fast progress and ISO upgrades!
+ID_OF_DE_ROYALSOLDIER_BOOSTER_02_c60,Stock up on <color=#fff568>Royal Soldier</color> progress and <color=#fff568>ISO Materials</color> with this special deal!
+ID_OF_DE_ROYALSOLDIER_BOOSTER_02_c20,Stock up on <color=#fff568>Royal Soldier</color> progress and <color=#fff568>Gold</color> with this special deal!
+ID_OF_DE_ROYALSOLDIER_FREEDAILY,Come back daily for more <color=#fff568>Royal Soldier</color> progress!
+ID_OF_DE_ROYALSOLDIER_CATCHUP_MEGA,"Finish strong in the milestones and leaderboards for <color=#fff568>Union Jack shards</color>, <color=#fff568>fully crafted Gear Tier 17 pieces</color> and <color=#fff568>up to 5,000,000 T2 Level 5 Ions</color>!"
+ID_OF_DE_ROYALSOLDIER_CATCHUP_SUPER,Finish strong in the milestones for <color=#fff568>Union Jack shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
+ID_OF_DE_ROYALSOLDIER_CATCHUP_LAST_CHANCE,"Catch this deal before it's too late to earn your final <color=#fff568>Union Jack shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>! "
+ID_OF_NA_ANNIV_GOLD,Anniversary Gold Deal
+ID_OF_NA_ANNIV_TRAINING,Anniversary Training Deal
+ID_OF_NA_ANNIV_ORIGINALS,Anniversary Originals Super Sale
+ID_OF_NA_ANNIV_REDSTAR,Anniversary Red Star Deal
+ID_OF_NA_ANNIV_MEGA,Anniversary Mega Orb Deal
+ID_OF_NA_ANNIV_ENERGY,Anniversary Energy Bundle
+ID_OF_NA_ANNIV_ELITE,Anniversary Elite Deal
+ID_OF_NA_ANNIV_SALE,Anniversary Special Offer
+ID_OF_NA_ANNIV_ORBS,Anniversary Orb Bundle
+ID_OF_NA_ANNIV_HORSEMEN,Anniversary Horseman Bundle
+ID_OF_NA_ANNIV_GEAR,Anniversary Augmented Catalyst Bundle
+ID_OF_NA_ANNIV_SPIDERMANNOIR,Anniversary Spider-Man (Noir) Bundle
+ID_OF_DE_5YR_GOLD,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} <color=fff500>Gold</color>!
+ID_OF_DE_5YR_TRAINING,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} <color=fff500>L4 Training Modules</color>!
+ID_OF_DE_5YR_ORIGINALS,"Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} Shards of <color=fff500>Kestrel, Deathpool, and Spider-Weaver</color>!"
+ID_OF_DE_5YR_REDSTAR,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} <color=fff500>Red Star Orbs</color>!
+ID_OF_DE_5YR_MEGA,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of a <color=fff500>Mega Orb</color>!
+ID_OF_DE_5YR_ENERGY,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of this double dose of <color=fff500>Campaign Energy</color>!
+ID_OF_DE_5YR_ELITE,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} <color=fff500>Elite 5 Credits</color>!
+ID_OF_DE_5YR_SALE,Celebrate MARVEL Strike Force's 5th Anniversary and level up your roster with this special offer!
+ID_OF_DE_5YR_ORBS,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of this special orb offer!
+ID_OF_DE_5YR_HORSEMEN,"Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} <color=fff500>Pestilence, Famine, War, and Death Orbs</color>!"
+ID_OF_DE_5YR_TEALCATS,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of <color=fff500>Augmented Catalysts</color>!
+ID_OF_DE_5YR_SPIDERMANNOIR,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} Shards of <color=fff500>Spider-Man (Noir)</color> and more!
+ID_OF_NA_ANGELSARMY_STARTER_MEGA,Angel's Army Mega Starter
+ID_OF_NA_ANGELSARMY_STARTER_SUPER,Angel's Army Super Starter
+ID_OF_NA_ANGELSARMY_STARTER,Angel's Army Starter Bundle
+ID_OF_NA_ANGELSARMY_BOOSTER_WEB_MEGA,Deadly Web Special
+ID_OF_NA_ANGELSARMY_BOOSTER_DAILY_ANCHOR,Angel's Army Daily Booster
+ID_OF_NA_ANGELSARMY_CATCHUP_CONTINGENCY,Angel's Army Mega Catch-Up
+ID_OF_NA_ANGELSARMY_CATCHUP_SUPER,Angel's Army Super Catch-Up
+ID_OF_NA_ANGELSARMY_CATCHUP,Angel's Army Catch-Up Bundle
+ID_OF_NA_ANGELSARMY_CATCHUP_LAST_CHANCE,Angel's Army Last Chance Bundle
+ID_OF_NA_ANGELSARMY_EVENT_ORB,Daily Reaper Orb
+ID_OF_NA_ANGELSARMY_CAMPAIGN_ENERGY,Daily Spectral Energy
+ID_OF_NA_ANGELSARMY_BLITZ_CREDITS,Deadly Blitzing
+ID_OF_NA_ANGELSARMY_FREE_CLAIM,Angel's Army Daily Gift
+ID_OF_NA_ANGELSARMY_INTERSTITIAL,Angel's Army Web Special
+ID_OF_DE_ANGELSARMY_STARTER_MEGA,Get ahead in the <color=#fff568>Angel's Army</color> Milestone and fast-forward your way to <color=#fff568>Death Seed shards</color> and <color=#fff568>Teal Uniques</color>!
+ID_OF_DE_ANGELSARMY_STARTER,Start off strong in the <color=#fff568>Angel's Army</color> milestone!
+ID_OF_DE_ANGELSARMY_BOOSTER_WEB_MEGA,Supercharge your Death Scourge preparation and boost your <color=#fff568>Angel's Army Milestone</color> progress!
+ID_OF_DE_ANGELSARMY_BOOSTER_DAILY_ANCHOR,Make consistent <color=#fff568>Angel's Army</color> progress with this daily milestone points supply!
+ID_OF_DE_ANGELSARMY_CATCHUP_CONTINGENCY,"Finish strong in the milestones to earn <color=#fff568>Death Seed shards</color>, <color=#fff568>Teal Uniques</color> and <color=#fff568>T4 Ability Materials</color>!"
+ID_OF_DE_ANGELSARMY_CATCHUP_LAST_CHANCE,"Complete your final Angel's Army milestones before it's too late for more <color=#fff568>Teal Uniques</color> and <color=#fff568>Death Seed shards</color>! "
+ID_OF_DE_ANGELSARMY_EVENT_ORB,Don't miss this daily <color=#fff568>Reaper Orb</color> offer to power up your roster and boost your <color=#fff568>Angel's Army Milestone</color> progress!
+ID_OF_DE_ANGELSARMY_CAMPAIGN_ENERGY,Boost your progress in campaigns and the <color=#fff568>Angel's Army Milestone</color> at once!
+ID_OF_DE_ANGELSARMY_BLITZ_CREDITS,Blitz through the <color=#fff568>Angel's Army Milestone</color>!
+ID_OF_DE_ANGELSARMY_FREE_CLAIM,Come back daily for more <color=#fff568>Angel's Army</color> progress!
+ID_OF_DE_ANGELSARMY_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Angel's Army</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_ANNIV2022_MAGIC2,Pocket Dimension: Scarlet Witch
+ID_OF_DE_ANNIV2022_MAGIC2,Pocket Dimension got you feeling stuck? Save over <color=#fff568>{var1}%</color> with this offer for <color=#fff568>Scarlet Witch!</color> Get {var2} shards as well as {var3} Superior and {var4} Augmented <color=#fff568>Promethium.</color> Conquer Pocket Dimension today with this offer!
+ID_OF_NA_ANNIV2022_MAGIC3,Pocket Dimension: Ultimus
+ID_OF_DE_ANNIV2022_MAGIC3,Pocket Dimension got you feeling stuck? Save over <color=#fff568>{var1}%</color> with this offer for <color=#fff568>Ultimus!</color> Get {var2} shards as well as {var3} Superior and {var4} Augmented <color=#fff568>Uru.</color> Conquer Pocket Dimension today with this offer!
+ID_OF_NA_ANNIV2022_MAGIC4,Pocket Dimension: Ghost Rider
+ID_OF_DE_ANNIV2022_MAGIC4,Pocket Dimension got you feeling stuck? Save over <color=#fff568>{var1}%</color> with this offer for <color=#fff568>Ghost Rider!</color> Get {var2} shards as well as {var3} Superior and {var4} Augmented <color=#fff568>Miasma.</color> Conquer Pocket Dimension today with this offer!
+ID_OF_NA_ANNIV2022_ENERGY5,Pocket Dimension: Iceman
+ID_OF_DE_ANNIV2022_ENERGY5,Pocket Dimension got you feeling stuck? Save over <color=#fff568>{var1}%</color> with this offer for <color=#fff568>Iceman!</color> Get {var2} shards as well as {var3} Superior and {var4} Augmented <color=#fff568>Astral Energy.</color> Conquer Pocket Dimension today with this offer!
+ID_OF_NA_ANNIV2022_ENERGY3,Pocket Dimension: Korath
+ID_OF_DE_ANNIV2022_ENERGY3,Pocket Dimension got you feeling stuck? Save over <color=#fff568>{var1}%</color> with this offer for <color=#fff568>Korath The Pursuer!</color> Get {var2} shards as well as {var3} Superior and {var4} Augmented <color=#fff568>Quantum Energy.</color> Conquer Pocket Dimension today with this offer!
+ID_OF_NA_ANNIV2022_CATCHUP,Cauldrons Catch-Up Offer
+ID_OF_DE_ANNIV2022_STARTER_VAR1,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Cauldrons currency</color> and more with this offer! Spend Cauldrons in the limited-time Event Store and earn additional rewards during the <color=#fff568>Celebration Incantation Event</color>.
+ID_OF_NA_ANNIV2022_STARTER_BIG,A Recipe for a Successful Brew
+ID_OF_DE_ANNIV2022_STARTER_VAR2,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Cauldrons currency</color> and more with this offer! Spend Cauldrons in the limited-time Event Store and earn additional rewards during the <color=#fff568>Celebration Incantation Event</color>.
+ID_OF_NA_ANNIV2022_DDHEALS,Pocket Dimension Offer
+ID_OF_DE_ANNIV2022_DDHEALS,Save over {var1}% on Dark Heals and progress both in Pocket Dimension and the Successful Brew milestone! You will receive {var2} points for the Successful Brew Milestone with each purchase!
+ID_OF_NA_ANNIV2022_ISOCAMPAIGN,Celebration Incantation - Iso-8 Energy Offer
+ID_OF_DE_ANNIV2022_ISOCAMPAIGN,Celebrate MARVEL Strike Force's 4th Anniversary with over {var1}% off of {var2} <color=#fff568>Iso-8 Campaign Energy</color>. This Campaign Energy and <color=#fff568>Cauldrons Currency</color> will aid you in progressing in the <color=#fff568>Successful Brew</color> Milestone!
+ID_OF_NA_H4H_EVENT_CUR,Business Cards Offer
+ID_OF_DE_H4H_EVENT_CUR,Take advantage of one of these spectacular <color=#fff568>Heroes for Hire Event</color> deals!
+ID_OF_DE_ANNIV2022_CAMPAIGN,Celebrate MARVEL Strike Force's 4th Anniversary with over {var1}% off of {var2} <color=#fff568>Campaign Energy</color>. This Campaign Energy and <color=#fff568>Cauldrons Currency</color> will aid you in progressing in the <color=#fff568>Successful Brew</color> Milestone!
+ID_OF_NA_ANNIV2022_DRAGONORB,Dragon Tooth Orb Offer
+ID_OF_DE_ANNIV2022_DRAGONORB,"Get the Dragon Tooth Orb with this offer. This Ingredient Orb guarantees <color=#fff568>{var1} character shards</color> to help grow your roster! Open {var2} Ingredient Orbs and unlock the Achievement to add <color=#fff568>Black Bolt's ""Anniversary"" Costume</color> to your collection!\nMake sure to go to the roster to equip the costume!"
+ID_OF_NA_ANNIV2022_DAILY_CURRENCY,Daily Cauldrons Offer
+ID_OF_DE_ANNIV2022_DAILY_CURRENCY,Get your daily dose of <color=#fff568>{var1} Cauldrons currency</color> to spend in the Event Store! Spend Cauldrons in the limited-time Event Store and earn additional rewards during the <color=#fff568>Celebration Incantation Event</color>.
+ID_OF_NA_2023ANNIV_MIDASORB,Midas Orb Offer
+ID_OF_DE_2023ANNIV_MIDASORB,"Get the Midas Orb with this offer. This Anniversary Orb guarantees <color#fff568>{var1} Gold</color> to help grow your roster! Open 4 Anniversary Orbs and unlock the Achievement to add <color#fff568>Kestrel's ""Anniversary"" Costume</color> to your collection!\nMake sure to go to the roster to equip the costume!"
+ID_OF_NA_STRIKECELEBRATION_STARTER,S.T.R.I.K.E. Celebration Starter Bundle
+ID_OF_DE_STRIKECELEBRATION_STARTER,"Get a head start on the <color=#fff568>S.T.R.I.K.E. Celebration Milestone</color> with this high value offer! "
+ID_OF_NA_STRIKECELEBRATION_PTS_BUNDLE,S.T.R.I.K.E. Celebration Point Pack
+ID_OF_DE_STRIKECELEBRATION_PTS_BUNDLE,Purchase this high-value pack of Event Points to propel your progress in the <color=#fff568>S.T.R.I.K.E. Celebration</color> milestone event!
+ID_OF_NA_STRIKECELEBRATION_LAST_CHANCE,S.T.R.I.K.E. Celebration Last Chance Offer
+ID_OF_DE_STRIKECELEBRATION_LAST_CHANCE,Catch this deal before it's too late and get your final <color=#fff568>S.T.R.I.K.E. Celebration</color> milestone rewards!
+ID_OF_NA_STRIKECELEBRATION_CATCHUP,S.T.R.I.K.E. Celebration Catch-Up Offer
+ID_OF_DE_STRIKECELEBRATION_CATCHUP,Take advantage of this spectacular deal to get through the end of the <color=#fff568>S.T.R.I.K.E. Celebration Milestone</color> and get your final rewards!
+ID_OF_NA_STRIKECELEBRATION_MEGA_BUNDLE,S.T.R.I.K.E. Celebration Bundle
+ID_OF_DE_STRIKECELEBRATION_MEGA_BUNDLE,Reach an all-time high in the <color=#fff568>S.T.R.I.K.E. Celebration event</color> with this historic bundle and get valuable resources to power up your roster!
+ID_OF_NA_STRIKECELEBRATION_DAILY_CLAIM,S.T.R.I.K.E. Celebration Daily Claim
+ID_OF_DE_STRIKECELEBRATION_DAILY_CLAIM,Get your free bundle for progress in the <color=#fff568>S.T.R.I.K.E. Celebration Milestone</color>. Check the website for these every day to finish the event!
+ID_OF_NA_STRIKECELEBRATION_DAILY_INTERSTITIAL,Unlocked S.T.R.I.K.E. Celebration Bundle
+ID_OF_DE_STRIKECELEBRATION_DAILY_INTERSTITIAL,You just unlocked this deal for the <color=#fff568>S.T.R.I.K.E. Celebration Milestonel</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_STRIKECELEBRATION_DAILY_RAIDENERGY,Daily S.T.R.I.K.E. Celebration Raid Energy
+ID_OF_DE_STRIKECELEBRATION_DAILY_RAIDENERGY,Bolster your Raid reserves with these Raid Energy Refill Packs and <color=#fff568>S.T.R.I.K.E. Celebration</color> milestone points with this offer!
+ID_OF_NA_STRIKECELEBRATION_DAILY_CAMPENERGY,Daily S.T.R.I.K.E. Celebration Campaign Energy
+ID_OF_DE_STRIKECELEBRATION_DAILY_CAMPENERGY,Get a big boost of Campaign Energy and <color=#fff568>S.T.R.I.K.E. Celebration</color> milestone points with this offer!

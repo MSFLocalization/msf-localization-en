@@ -179,12 +179,12 @@ ID_EVENT_CUR4_NAME,Luck of Spring Milestone Points
 ID_EVENT_CUR4_DESCRIPTION,These points earn you additional progress in the Luck of Spring Milestone. Earn them in limited offers!
 ID_EVENT_CUR5_NAME,Four Leaf Clover
 ID_EVENT_CUR5_DESCRIPTION,"Collect Four Leaf Clovers from Campaign nodes and limited offers. Spend them in the Four Leaf Clover Event Store for Teal Unique Gear Pieces, character shards, and more!"
-ID_EVENT_CUR6_NAME,Grand Theft Quantum Milestone Point
-ID_EVENT_CUR6_DESCRIPTION,These points earn you additional progress in the Grand Theft Quantum Milestone.
+ID_EVENT_CUR6_NAME,Reaper Orb Fragments
+ID_EVENT_CUR6_DESCRIPTION,Collect Reaper Orb Fragments from Campaign nodes to earn progress in the Angel's Army Milestone.
 ID_EVENT_CUR7_NAME,Kinetic Health Pack
 ID_EVENT_CUR7_DESCRIPTION,Kinetic Health Packs are used to heal and revive your characters in Gambit Raids.
-ID_EVENT_CUR8_NAME,Conqueror Orb Fragment
-ID_EVENT_CUR8_DESCRIPTION,"Collect Conqueror Orb Fragments for points in the He Who Remains Event. Earn them in the Multiverse Master Web Milestone, Free Claims, and winning Blitz!"
+ID_EVENT_CUR8_NAME,Angel's Army Milestone Points
+ID_EVENT_CUR8_DESCRIPTION,"These points earn you additional progress in the Angel's Army Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
 ID_EVENT_CUR9_NAME,Kinetic Energy Refill
 ID_EVENT_CUR9_DESCRIPTION,"Kinetic Energy Refill is used to refresh your Kinetic Energy. If you do not have enough Kinetic Energy Refills, you can use Power Cores to recharge your Kinetic Energy."
 ID_EVENT_CUR10_NAME,Historic Orb Fragment
@@ -261,3 +261,7 @@ ID_EVTA_META_MAR_E_NAME,Alliance Donation Box
 ID_EVTA_META_MAR_E_DESCRIPTION,Collect Alliance Donation Box for points in the Memory Lane Event. Earn them in the To the Moon Event!
 ID_EVTA_META_MAR_F_NAME,Iso-8 Matrix Machine
 ID_EVTA_META_MAR_F_DESCRIPTION,Collect Iso-8 Matrix Machine for points in the Memory Lane Event. Earn them in the S.T.R.I.K.E. Celebration Event!
+ID_EVTA_META_APR_A_NAME,Victory Flag
+ID_EVTA_META_APR_A_DESCRIPTION,Collect Victory Flags for points in the Royal Soldier Event. Earn them in various events throughout the month of April
+ID_EVTA_META_APR_B_NAME,Steel Dagger
+ID_EVTA_META_APR_B_DESCRIPTION,Collect the Steel Dagger for points in the Royal Soldier Event. Earn it in the Angel's Army Event!

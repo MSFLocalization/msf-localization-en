@@ -7976,31 +7976,6 @@ ID_OF_NA_ANNIV2022_CAL_IONS,T2 L1 Ions Calendar Offer
 ID_OF_DE_ANNIV2022_CAL_IONS,"Get 150,000 T2 L1 Ions over 7 days from your premium calendar!"
 ID_LOGIN_OFFER_NA_ANNIV2022_IONS,T2 L1 Ions
 ID_LOGIN_OFFER_DE_ANNIV2022_IONS,Log in 7 days to claim T2 L1 Ions from your premium calendar!
-ID_OF_NA_ANNIV2022_MAGIC2,Pocket Dimension: Scarlet Witch
-ID_OF_DE_ANNIV2022_MAGIC2,Pocket Dimension got you feeling stuck? Save over <color=#fff568>{var1}%</color> with this offer for <color=#fff568>Scarlet Witch!</color> Get {var2} shards as well as {var3} Superior and {var4} Augmented <color=#fff568>Promethium.</color> Conquer Pocket Dimension today with this offer!
-ID_OF_NA_ANNIV2022_MAGIC3,Pocket Dimension: Ultimus
-ID_OF_DE_ANNIV2022_MAGIC3,Pocket Dimension got you feeling stuck? Save over <color=#fff568>{var1}%</color> with this offer for <color=#fff568>Ultimus!</color> Get {var2} shards as well as {var3} Superior and {var4} Augmented <color=#fff568>Uru.</color> Conquer Pocket Dimension today with this offer!
-ID_OF_NA_ANNIV2022_MAGIC4,Pocket Dimension: Ghost Rider
-ID_OF_DE_ANNIV2022_MAGIC4,Pocket Dimension got you feeling stuck? Save over <color=#fff568>{var1}%</color> with this offer for <color=#fff568>Ghost Rider!</color> Get {var2} shards as well as {var3} Superior and {var4} Augmented <color=#fff568>Miasma.</color> Conquer Pocket Dimension today with this offer!
-ID_OF_NA_ANNIV2022_ENERGY5,Pocket Dimension: Iceman
-ID_OF_DE_ANNIV2022_ENERGY5,Pocket Dimension got you feeling stuck? Save over <color=#fff568>{var1}%</color> with this offer for <color=#fff568>Iceman!</color> Get {var2} shards as well as {var3} Superior and {var4} Augmented <color=#fff568>Astral Energy.</color> Conquer Pocket Dimension today with this offer!
-ID_OF_NA_ANNIV2022_ENERGY3,Pocket Dimension: Korath
-ID_OF_DE_ANNIV2022_ENERGY3,Pocket Dimension got you feeling stuck? Save over <color=#fff568>{var1}%</color> with this offer for <color=#fff568>Korath The Pursuer!</color> Get {var2} shards as well as {var3} Superior and {var4} Augmented <color=#fff568>Quantum Energy.</color> Conquer Pocket Dimension today with this offer!
-ID_OF_NA_ANNIV2022_CATCHUP,Cauldrons Catch-Up Offer
-ID_OF_DE_ANNIV2022_STARTER_VAR1,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Cauldrons currency</color> and more with this offer! Spend Cauldrons in the limited-time Event Store and earn additional rewards during the <color=#fff568>Celebration Incantation Event</color>.
-ID_OF_NA_ANNIV2022_STARTER_BIG,A Recipe for a Successful Brew
-ID_OF_DE_ANNIV2022_STARTER_VAR2,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Cauldrons currency</color> and more with this offer! Spend Cauldrons in the limited-time Event Store and earn additional rewards during the <color=#fff568>Celebration Incantation Event</color>.
-ID_OF_NA_ANNIV2022_DDHEALS,Pocket Dimension Offer
-ID_OF_DE_ANNIV2022_DDHEALS,Save over {var1}% on Dark Heals and progress both in Pocket Dimension and the Successful Brew milestone! You will receive {var2} points for the Successful Brew Milestone with each purchase!
-ID_OF_NA_ANNIV2022_ISOCAMPAIGN,Celebration Incantation - Iso-8 Energy Offer
-ID_OF_DE_ANNIV2022_ISOCAMPAIGN,Celebrate MARVEL Strike Force's 4th Anniversary with over {var1}% off of {var2} <color=#fff568>Iso-8 Campaign Energy</color>. This Campaign Energy and <color=#fff568>Cauldrons Currency</color> will aid you in progressing in the <color=#fff568>Successful Brew</color> Milestone!
-ID_OF_NA_H4H_EVENT_CUR,Business Cards Offer
-ID_OF_DE_H4H_EVENT_CUR,Take advantage of one of these spectacular <color=#fff568>Heroes for Hire Event</color> deals!
-ID_OF_DE_ANNIV2022_CAMPAIGN,Celebrate MARVEL Strike Force's 4th Anniversary with over {var1}% off of {var2} <color=#fff568>Campaign Energy</color>. This Campaign Energy and <color=#fff568>Cauldrons Currency</color> will aid you in progressing in the <color=#fff568>Successful Brew</color> Milestone!
-ID_OF_NA_ANNIV2022_DRAGONORB,Dragon Tooth Orb Offer
-ID_OF_DE_ANNIV2022_DRAGONORB,"Get the Dragon Tooth Orb with this offer. This Ingredient Orb guarantees <color=#fff568>{var1} character shards</color> to help grow your roster! Open {var2} Ingredient Orbs and unlock the Achievement to add <color=#fff568>Black Bolt's ""Anniversary"" Costume</color> to your collection!\nMake sure to go to the roster to equip the costume!"
-ID_OF_NA_ANNIV2022_DAILY_CURRENCY,Daily Cauldrons Offer
-ID_OF_DE_ANNIV2022_DAILY_CURRENCY,Get your daily dose of <color=#fff568>{var1} Cauldrons currency</color> to spend in the Event Store! Spend Cauldrons in the limited-time Event Store and earn additional rewards during the <color=#fff568>Celebration Incantation Event</color>.
 ID_OF_NA_AGATHAHARKNESS_FCO_OFFER,High Priestess
 ID_OF_DE_AGATHAHARKNESS_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Agatha Harkness</color> with this offer! Each orb has a chance to earn up to 180 shards. Double your enemies' toil and trouble by supporting allies with Deflect, Barrier, and Heals."
 ID_OF_DE_AGATHAHARKNESS_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Coven Leader Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Agatha Harkness</color> shards. Create battlefield magic by supporting allies with Deflect, Barrier, and Heals."
@@ -8352,3 +8327,23 @@ ID_GACHA_CRATE_HISTORIC_NAME,Historic Orb
 ID_GACHA_CRATE_HISTORIC_DESCRIPTION,Contains Shards needed for Apocalypse
 ID_GACHA_CRATE_HISTORIC_TOKEN_NAME,Historic Orb Fragments
 ID_GACHA_CRATE_HISTORIC_TOKEN_DESCRIPTION,Collect Historic Orb Fragments from select Campaign Nodes and limited time offers to earn progress in the Historic Encounter Milestone.
+ID_GACHA_CRATE_2023ANNIV_GOLD_NAME,Midas Orb
+ID_GACHA_CRATE_2023ANNIV_GOLD_DESCRIPTION,Contains 2 Million Gold
+ID_GACHA_CRATE_2023ANNIV_GOLD_TOKEN_NAME,Midas Orb Fragments
+ID_GACHA_CRATE_2023ANNIV_GOLD_TOKEN_DESCRIPTION,Midas Orb Fragments can be collected from a special event offer.
+ID_GACHA_CRATE_2023ANNIV_POWERCORE_NAME,Powerful Orb
+ID_GACHA_CRATE_2023ANNIV_POWERCORE_DESCRIPTION,"Contains up to 1,000 Power Cores"
+ID_GACHA_CRATE_2023ANNIV_POWERCORE_TOKEN_NAME,Powerful Orb Fragments
+ID_GACHA_CRATE_2023ANNIV_POWERCORE_TOKEN_DESCRIPTION,Powerful Orb Fragments can be collected from the 2023 Anniversary Login Calendar.
+ID_GACHA_CRATE_ANNIV2023_SHARDS_NAME,Originals Orb
+ID_GACHA_CRATE_ANNIV2023_SHARDS_DESCRIPTION,Contains up to 50 shard of three characters
+ID_GACHA_CRATE_ANNIV2023_SHARDS_TOKEN_NAME,Originals Orb Fragments
+ID_GACHA_CRATE_ANNIV2023_SHARDS_TOKEN_DESCRIPTION,Originals Orb Fragments can be collected from the S.T.R.I.K.E. Celebration milestone event.
+ID_GACHA_CRATE_ANNIV2023_CRYSTAL_NAME,Chrysalis Orb
+ID_GACHA_CRATE_ANNIV2023_CRYSTAL_DESCRIPTION,Contains up to 241 T2 Level 1 Crystals
+ID_GACHA_CRATE_ANNIV2023_CRYSTAL_TOKEN_NAME,Chrysalis Orb Fragments
+ID_GACHA_CRATE_ANNIV2023_CRYSTAL_TOKEN_DESCRIPTION,Chrysalis Orb Fragments can be collected from the S.T.R.I.K.E. Celebration milestone event.
+ID_GACHA_CRATE_ANNIV2023_ION_NAME,Ionic Orb
+ID_GACHA_CRATE_ANNIV2023_ION_DESCRIPTION,"Contains T2 L1, L4, and L5 Ions"
+ID_GACHA_CRATE_ANNIV2023_ION_TOKEN_NAME,Ionic Orb Fragments
+ID_GACHA_CRATE_ANNIV2023_ION_TOKEN_DESCRIPTION,Ionic Orb Fragments can be collected from the S.T.R.I.K.E. Salute milestone event.

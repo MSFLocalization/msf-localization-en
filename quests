@@ -2016,7 +2016,7 @@ ID_QU_S2_COMMANDERSCACHE,Spend 1 Power Core
 ID_QU_S3_COMMANDERSCACHE,Battle in War
 ID_QU_NA_STRIKESALUTE,S.T.R.I.K.E. Salute
 ID_QU_SD_STRIKESALUTE,"Spend Energy, Collect Tokens"
-ID_QU_LD_STRIKESALUTE,"We salute all Commanders! Spend Campaign Energy and collect S.T.R.I.K.E. Salute Tokens from Daily Objectives, the Care Package Web Milestone, and the Daily Free Claim on our website to earn points toward this 7-day milestone. Rewards include:\n\n- Gold\n- L4 Training Modules\n- Ikaris and Sersi character shards\n- Spider-Weaver character shards\n- Launch Party Orbs"
+ID_QU_LD_STRIKESALUTE,We salute all Commanders! Spend Campaign Energy and collect S.T.R.I.K.E. Salute Tokens from the Care Package Web Milestone and the Daily Free Claim on our website to earn points toward this 6-day milestone. Rewards include:\n\n- Gold\n- L4 Training Modules\n- Ikaris and Sersi character shards\n- Agatha Harkness character shards
 ID_QU_SM_STRIKESALUTE,"Spend Campaign Energy, Collect Tokens"
 ID_QU_SC_STRIKESALUTE,"Spend Campaign Energy, Collect Tokens"
 ID_QU_S1_STRIKESALUTE,Spend 1 Campaign Energy
@@ -2521,3 +2521,34 @@ ID_QU_SM_LUCKOFSPRING,Spend Campaign Energy and Earn Alliance Credits
 ID_QU_SC_LUCKOFSPRING,Spend Campaign Energy and Earn Alliance Credits
 ID_QU_S1_LUCKOFSPRING,Spend 1 Campaign Energy
 ID_QU_S2_LUCKOFSPRING,Earn 1 Alliance Credit
+ID_QU_NA_ROYALSOLDIER,Royal Soldier
+ID_QU_SD_ROYALSOLDIER,Participate in April Events
+ID_QU_LM_ROYALSOLDIER,Participate in various events throughout the month of April to earn milestone progress.
+ID_QU_SM_ROYALSOLDIER,Participate in April Events
+ID_QU_SC_ROYALSOLDIER,Participate in April Events
+ID_QU_S1_ROYALSOLDIER,Collect Victory Flag
+ID_QU_S2_ROYALSOLDIER,Collect 1 Steel Dagger
+ID_QU_S3_ROYALSOLDIER,Collect 1 War Medal
+ID_QU_S4_ROYALSOLDIER,Collect 1 Leather Gloves
+ID_QU_S5_ROYALSOLDIER,Collect 1 Webley Revolver
+ID_QU_S6_ROYALSOLDIER,Collect 1 Tactical Belt
+ID_QU_S7_ROYALSOLDIER,Collect 1 Commando Mask
+ID_QU_S8_ROYALSOLDIER,Collect 1 Union Jacket
+ID_QU_NA_STRIKECELEBRATION,S.T.R.I.K.E. Celebration
+ID_QU_SD_STRIKECELEBRATION,Earn Kestrel's Costume and T2 L5 Ions!
+ID_QU_LM_STRIKECELEBRATION,Earn progress by spending <color=#fff568>Power Cores</color> and completing <color=#fff568>Raid Battles</color>. Using Rebirth or Invader characters earn more points toward this 6-day milestone that rewards:\n\n- Eagle Emblems and the Iso-8 Matrix Machine\n- Armory 16 and 17 Orbs\n- T2 Level 5 Ions\n- And more!
+ID_QU_S1_STRIKECELEBRATION,Spend 1 Power Core
+ID_QU_S2_STRIKECELEBRATION,Win or Lose 1 Raid Battle
+ID_QU_S3_STRIKECELEBRATION,Use Rebirth in Raids
+ID_QU_S4_STRIKECELEBRATION,Use Rebirth in Raids at Gear Tier 14+
+ID_QU_S5_STRIKECELEBRATION,Use Rebirth in Raids at Gear Tier 16+
+ID_QU_S6_STRIKECELEBRATION,Use Rebirth in Raids at Gear Tier 17+
+ID_QU_S7_STRIKECELEBRATION,Use Invaders in Raids
+ID_QU_S8_STRIKECELEBRATION,Use Invaders in Raids at Gear Tier 14+
+ID_QU_S9_STRIKECELEBRATION,Use Invaders in Raids at Gear Tier 16+
+ID_QU_S10_STRIKECELEBRATION,Use Invaders in Raids at Gear Tier 17+
+ID_QU_NA_ANGELSARMY,Angel's Army
+ID_QU_SD_ANGELSARMY,Earn Reaper Orb Fragments And Earn Blitz Credits
+ID_QU_LM_ANGELSARMY,Battle in Blitz and earn Reaper Orb Fragments in the Campaign to earn milestone progress
+ID_QU_S1_ANGELSARMY,Earn 1 Reaper Orb Fragment
+ID_QU_S2_ANGELSARMY,Earn 1 Blitz Credit
