@@ -1758,7 +1758,7 @@ ID_OF_NA_TOTHEMOON_BUNDLE_MEGA,To the Moon Mega Bundle
 ID_OF_DE_TOTHEMOON_BUNDLE,Purchase this high-value pack to zoom past the competition in the <color=#fff568>To the Moon Leaderboards</color>!
 ID_OF_DE_TOTHEMOON_BUNDLE_MEGA,Purchase this high-value pack to zoom past the competition in the <color=#fff568>To the Moon Leaderboards</color>!
 ID_OF_NA_TOTHEMOON_LAST_CHANCE,Last Chance: To the Moon
-ID_OF_DE_TOTHEMOON_LAST_CHANCE,It's not too late! Sweep up those last<color=#fff568>To the Moon</color> milestone and leaderboard rewards!
+ID_OF_DE_TOTHEMOON_LAST_CHANCE,It's not too late! Sweep up those last <color=#fff568>To the Moon</color> milestone and leaderboard rewards!
 ID_OF_NA_TOTHEMOON_CATCHUP,To the Moon Catch-up Bundle
 ID_OF_DE_TOTHEMOON_CATCHUP,Don't fall behind in your quest in <color=#fff568>To the Moon Milestone</color> and get your final rewards!
 ID_OF_NA_TOTHEMOON_DAILY_ENERGY,To the Moon Daily Energy
@@ -1851,8 +1851,8 @@ ID_OF_DE_ROYALSOLDIER_BOOSTER_02_c5,Stock up on <color=#fff568>Royal Soldier</co
 ID_OF_DE_ROYALSOLDIER_BOOSTER_01_c30,Stock up on <color=#fff568>Royal Soldier</color> progress and <color=#fff568>Armory Orbs</color> with this special deal!
 ID_OF_DE_ROYALSOLDIER_BOOSTER_03_c5,Accelerate your <color=#fff568>Royal Soldier</color> progress with these discounted <color=#fff568>Victory Flags</color>!
 ID_OF_DE_ROYALSOLDIER_BOOSTER_04_c5,Stock up on <color=#fff568>Royal Soldier</color> progress and <color=#fff568>Training Orbs</color> with this special deal!
-ID_OF_DE_ROYALSOLDIER_BOOSTER_02_c40,Take advantage of <color=#fff568>Royal Soldier</color>'s highest discount offer for fast progress and ISO upgrades!
-ID_OF_DE_ROYALSOLDIER_BOOSTER_02_c60,Stock up on <color=#fff568>Royal Soldier</color> progress and <color=#fff568>ISO Materials</color> with this special deal!
+ID_OF_DE_ROYALSOLDIER_BOOSTER_02_c40,Take advantage of <color=#fff568>Royal Soldier</color>'s highest discount offer for fast progress and Iso-8 upgrades!
+ID_OF_DE_ROYALSOLDIER_BOOSTER_02_c60,Stock up on <color=#fff568>Royal Soldier</color> progress and <color=#fff568>Iso-8 Materials</color> with this special deal!
 ID_OF_DE_ROYALSOLDIER_BOOSTER_02_c20,Stock up on <color=#fff568>Royal Soldier</color> progress and <color=#fff568>Gold</color> with this special deal!
 ID_OF_DE_ROYALSOLDIER_FREEDAILY,Come back daily for more <color=#fff568>Royal Soldier</color> progress!
 ID_OF_DE_ROYALSOLDIER_CATCHUP_MEGA,"Finish strong in the milestones and leaderboards for <color=#fff568>Union Jack shards</color>, <color=#fff568>fully crafted Gear Tier 17 pieces</color> and <color=#fff568>up to 5,000,000 T2 Level 5 Ions</color>!"
@@ -1952,3 +1952,9 @@ ID_OF_NA_STRIKECELEBRATION_DAILY_RAIDENERGY,Daily S.T.R.I.K.E. Celebration Raid 
 ID_OF_DE_STRIKECELEBRATION_DAILY_RAIDENERGY,Bolster your Raid reserves with these Raid Energy Refill Packs and <color=#fff568>S.T.R.I.K.E. Celebration</color> milestone points with this offer!
 ID_OF_NA_STRIKECELEBRATION_DAILY_CAMPENERGY,Daily S.T.R.I.K.E. Celebration Campaign Energy
 ID_OF_DE_STRIKECELEBRATION_DAILY_CAMPENERGY,Get a big boost of Campaign Energy and <color=#fff568>S.T.R.I.K.E. Celebration</color> milestone points with this offer!
+ID_OF_NA_ACEOFRAIDS_STARTER_2023,Gambit Raid Starter Bundle
+ID_OF_DE_ACEOFRAIDS_STARTER_2023,Save <color=#fff568>over {var1}%</color> and get <color=#fff568>{var2} Kinetic Health Packs</color> and <color=#fff568>{var3} Kinetic Energy Refills</color> with this offer!
+ID_OF_NA_ACEOFRAIDS_DAILY_HEALTH,Daily Kinetic Health Packs
+ID_OF_DE_ACEOFRAIDS_DAILY_HEALTH,Push harder than ever in the <color=#fff568>Gambit Raids</color> Raid with these <color=#fff568>Kinetic Health Packs</color>!
+ID_OF_NA_ACEOFRAIDS_DAILY_ENERGY,Daily Kinetic Energy Refills
+ID_OF_DE_ACEOFRAIDS_DAILY_ENERGY,Push harder than ever in the <color=#fff568>Gambit Raids</color> Raid with these <color=#fff568>Kinetic Energy Refills</color>!
