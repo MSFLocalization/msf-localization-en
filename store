@@ -8306,7 +8306,7 @@ ID_GACHA_CRATE_VALENTINE23_TOKEN_DESCRIPTION,Collect Valentine Orb Fragments fro
 ID_GACHA_CRATE_REAPER_NAME,Reaper Orb
 ID_GACHA_CRATE_REAPER_DESCRIPTION,"Contains Bionic Avenger, Wakandan, Mutant, and Minion Shards"
 ID_GACHA_CRATE_REAPER_TOKEN_NAME,Reaper Orb Fragments
-ID_GACHA_CRATE_REAPER_TOKEN_DESCRIPTION,Collect Reaper Orb Fragments from Campaign Nodes to earn progress in the Debonair Death Milestone.
+ID_GACHA_CRATE_REAPER_TOKEN_DESCRIPTION,Collect Reaper Orb Fragments from Campaign Nodes to earn progress in the Angel's Army Milestone.
 ID_GACHA_CRATE_EVENT_WOMANOUTOFTIME_ROYALRESERVE_NAME,Royal Reserve Orb
 ID_GACHA_CRATE_EVENT_WOMANOUTOFTIME_ROYALRESERVE_DESCRIPTION,"Earn Teal Mini-Uniques and Gear for Mystic, Bio, and Mutant characters"
 ID_GACHA_CRATE_EVENT_WOMANOUTOFTIME_STRATEGICRESERVE_NAME,Strategic Reserve Orb
@@ -8335,15 +8335,15 @@ ID_GACHA_CRATE_2023ANNIV_POWERCORE_NAME,Powerful Orb
 ID_GACHA_CRATE_2023ANNIV_POWERCORE_DESCRIPTION,"Contains up to 1,000 Power Cores"
 ID_GACHA_CRATE_2023ANNIV_POWERCORE_TOKEN_NAME,Powerful Orb Fragments
 ID_GACHA_CRATE_2023ANNIV_POWERCORE_TOKEN_DESCRIPTION,Powerful Orb Fragments can be collected from the 2023 Anniversary Login Calendar.
-ID_GACHA_CRATE_ANNIV2023_SHARDS_NAME,Originals Orb
-ID_GACHA_CRATE_ANNIV2023_SHARDS_DESCRIPTION,Contains up to 50 shard of three characters
-ID_GACHA_CRATE_ANNIV2023_SHARDS_TOKEN_NAME,Originals Orb Fragments
-ID_GACHA_CRATE_ANNIV2023_SHARDS_TOKEN_DESCRIPTION,Originals Orb Fragments can be collected from the S.T.R.I.K.E. Celebration milestone event.
-ID_GACHA_CRATE_ANNIV2023_CRYSTAL_NAME,Chrysalis Orb
-ID_GACHA_CRATE_ANNIV2023_CRYSTAL_DESCRIPTION,Contains up to 241 T2 Level 1 Crystals
-ID_GACHA_CRATE_ANNIV2023_CRYSTAL_TOKEN_NAME,Chrysalis Orb Fragments
-ID_GACHA_CRATE_ANNIV2023_CRYSTAL_TOKEN_DESCRIPTION,Chrysalis Orb Fragments can be collected from the S.T.R.I.K.E. Celebration milestone event.
-ID_GACHA_CRATE_ANNIV2023_ION_NAME,Ionic Orb
-ID_GACHA_CRATE_ANNIV2023_ION_DESCRIPTION,"Contains T2 L1, L4, and L5 Ions"
-ID_GACHA_CRATE_ANNIV2023_ION_TOKEN_NAME,Ionic Orb Fragments
-ID_GACHA_CRATE_ANNIV2023_ION_TOKEN_DESCRIPTION,Ionic Orb Fragments can be collected from the S.T.R.I.K.E. Salute milestone event.
+ID_GACHA_CRATE_2023ANNIV_SHARDS_NAME,Originals Orb
+ID_GACHA_CRATE_2023ANNIV_SHARDS_DESCRIPTION,Contains up to 50 shard of three characters
+ID_GACHA_CRATE_2023ANNIV_SHARDS_TOKEN_NAME,Originals Orb Fragments
+ID_GACHA_CRATE_2023ANNIV_SHARDS_TOKEN_DESCRIPTION,Originals Orb Fragments can be collected from the S.T.R.I.K.E. Celebration milestone event.
+ID_GACHA_CRATE_2023ANNIV_CRYSTAL_NAME,Chrysalis Orb
+ID_GACHA_CRATE_2023ANNIV_CRYSTAL_DESCRIPTION,Contains up to 241 T2 Level 1 Crystals
+ID_GACHA_CRATE_2023ANNIV_CRYSTAL_TOKEN_NAME,Chrysalis Orb Fragments
+ID_GACHA_CRATE_2023ANNIV_CRYSTAL_TOKEN_DESCRIPTION,Chrysalis Orb Fragments can be collected from the S.T.R.I.K.E. Celebration milestone event.
+ID_GACHA_CRATE_2023ANNIV_ION_NAME,Ionic Orb
+ID_GACHA_CRATE_2023ANNIV_ION_DESCRIPTION,"Contains T2 L1, L4, and L5 Ions"
+ID_GACHA_CRATE_2023ANNIV_ION_TOKEN_NAME,Ionic Orb Fragments
+ID_GACHA_CRATE_2023ANNIV_ION_TOKEN_DESCRIPTION,Ionic Orb Fragments can be collected from the S.T.R.I.K.E. Salute milestone event.

@@ -5689,6 +5689,15 @@ ID_ME_BO_UNIONJACK_TEASER,"Commander,\n\n<color=#fff568>Union Jack</color> is on
 ID_ME_NA_UNIONJACK_ANNOUNCE,Ready for Battle: Union Jack
 ID_ME_DE_UNIONJACK_ANNOUNCE,The British Blaster
 ID_ME_BO_UNIONJACK_ANNOUNCE,"Commander,\n\n<color=#fff568>Team</color>: Invaders - Skill Raids\n<color=#fff568>Strengths</color>: Focus and Damage\n<color=#fff568>Specialty</color>: Inflicting Crit Damage and negative effects upon enemies\n<color=#fff568>Ability Highlights</color>: At the end of any character's turn, if he doesn't have Charged, he gains Stealth, applies Evade to all Invader allies, and increases his own Speed Bar\n<color=#fff568>Raid Bonuses</color>: Grants Invader allies additional Crit Chance\n\n<color=#fff568>How to Recruit</color>\n- Secretive Nobleman Orb\n- Limited-Time Offers\n- Royal Soldier Month-Long Event\n\n<color=#fff568>Red Stars</color>\nFor players who have unlocked the Red Star feature (Level 42), Union Jack is featured in the Red Star Orbs with an increased drop rate of 15% for a limited time.\n\nRecruit Union Jack to your Invaders Skill Raid team today!"
+ID_ME_NA_UNIONJACK_RS_ENDING,Red Star ft. Union Jack
+ID_ME_DE_UNIONJACK_RS_ENDING,1 day left!
+ID_ME_BO_UNIONJACK_RS_ENDING,"Commander,\n\n<color=#fff568>Union Jack</color> will only be featured in all Red Star Orbs for 1 more day! Hurry and open Red Star Orbs while the drop rate is still 15%. "
+ID_ME_NA_UNIONJACK_PREBAMESH,Recruit Union Jack!
+ID_ME_DE_UNIONJACK_PREBAMESH,Availability Update
+ID_ME_BO_UNIONJACK_PREBAMESH,"Commander,\n\n<color=#fff568>Union Jack</color> has been added to the Ultimus Orb, Basic Orb, Premium Orb, Mega Orb, and the Supplies section in the Store. As a result, we have removed <color=#fff568>Magik</color> from the Mega Orb to keep the orb's content exciting and up to date."
+ID_ME_NA_UNIONJACK_ELITE_STORE,Red Stars for Union Jack
+ID_ME_DE_UNIONJACK_ELITE_STORE,Elite Store Update
+ID_ME_BO_UNIONJACK_ELITE_STORE,"Commander,\n\nDirect Red Star promotions for <color=#fff568>Union Jack</color> have been added to the <color=#fff568>Elite Store</color>! You can now use <color=#fff568>Silver or Gold Promotion Credits</color> to promote <color=#fff568>Union Jack 1 Red Star higher</color> than their current rank. You can earn Promotion Credits by <color=#fff568>exchanging your Elite Credits</color> or by completing the Alliance Donation Daily Objective."
 ID_ME_NA_ROYALSOLDIER_TEASER,Coming Soon: Royal Soldier
 ID_ME_DE_ROYALSOLDIER_TEASER,Earn Union Jack shards & Teal gear
 ID_ME_BO_ROYALSOLDIER_TEASER,"Commander,\n\nTransform your roster with the upcoming <color=#fff568>Royal Soldier</color> Event!\n\nParticipate in select April events to recruit <color=#fff568>Union Jack</color> and earn spectacular rewards:\n\n- Union Jack shards\n- Fully Crafted Gear Tier 17 Gear\n- Armory 15, 16, and 17 Orbs\n- Gold Orbs\n- Orange Elite Orbs\n- T3 and T2 Ability Orbs\n\nMore details are on the way, so be on the lookout!"
@@ -5716,3 +5725,6 @@ ID_ME_BO_ANGELSARMY_ANNOUNCE,"Commander,\n\nBeckon the harbinger of death in the
 ID_ME_NA_ANGELSARMY_ENDING,Ending Soon: Angel's Army
 ID_ME_DE_ANGELSARMY_ENDING,1 day left to earn rewards!
 ID_ME_BO_ANGELSARMY_ENDING,"Commander,\n\nThe <color=#fff568>Angel's Army Milestone</color> event ends in <color=#fff568>1 day</color>. Continue earning progress and get <color=#fff568>Death Seed, Bionic Avengers, and Wakandans shards</color> before it's too late!\n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_INCURSION_RAID_HYPE,Coming Soon: Incursion Raid
+ID_ME_DE_INCURSION_RAID_HYPE,Prepare your Skill Team!
+ID_ME_BO_INCURSION_RAID_HYPE,"Commander,\n\nTime to start getting ready for the all-new <color=#fff568>Incursion Raid</color>, coming in the next major release, Version 7.1.0. This new Raid will test your roster in ways not seen before. Powering up your <color=#fff568>Invader</color> characters for the <color=#fff568>Incursion Raid</color> will be your best chance at victory and receiving the next tier of highly valuable rewards. Keep your eyes on your Inbox and the upcoming 2023 Preview blog for more details coming soon."
