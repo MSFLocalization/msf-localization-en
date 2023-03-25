@@ -27,6 +27,9 @@ ID_EVENT_ENDS_IN,Ends in
 ID_EVENT_CTA_BTN_MILESTONES,<size=60>MILESTONES</size>
 ID_EVENT_COSTUME,Costume
 ID_EVENT_TEAMUP,Team-Up
+ID_EVENT_SHOWCASE,Showcase
+ID_EVENT_FACTION,Faction
+ID_EVENT_EPIC,Epic
 ID_CHAL_GOLD_NAME,Gold Rush
 ID_CHAL_GOLD_DESC,Earn GOLD. Use GOLD to purchase supplies and improve your characters.
 ID_CHAL_GOLD_STAGE1_NAME,Tier 1
@@ -462,6 +465,7 @@ ID_ECM_NAME_TD,Test Drive
 ID_ECM_NAME_CH,Challenge
 ID_ECM_NAME_S,Story
 ID_ECM_NAME_E,Epic
+ID_ECM_NAME_BONUS,Bonus
 ID_ECM_ANTMAN_NAME,I am the Ant-Man
 ID_ECM_ANTMAN_DESC,Ant-Man must wield Pym tech and his wits to foil a new threat from Ultimus and corrupted Vision.
 ID_ECM_CHANCE_ANTMAN,Earn Ant-Man Shards
@@ -933,6 +937,14 @@ ID_EVENT_INCURSION03_DIF1_FLAVOR,Meet Bucky Barnes!
 ID_EVENT_INCURSION03_DIF1_DESC,REQUIRED: Rebirth Characters.\n\nBucky Barnes will join your team for every battle!
 ID_EVENT_INCURSION03_DIF2_FLAVOR,Earn amazing rewards!
 ID_EVENT_INCURSION03_DIF2_DESC,"REQUIRED: Captain America (WWII), Union Jack, Bucky Barnes at Gear Tier 13\n\nUse only: Invaders or Rebirth characters. All characters must be at Gear Tier 13"
+ID_SEC_INCURSION05_NAME,Incursion: Invaders
+ID_SEC_INCURSION05_DESC,"Gather a full team of Invaders to hunt down a dangerous foe, and dig deeper into the mystery of who is behind the Incursion threatening to destroy Nexus Earth."
+ID_SEC_CHANCE_INCURSION05,Prelude to Incursion V
+ID_EVENT_INCURSION05_DIF1_FLAVOR,Try the Invaders
+ID_EVENT_INCURSION05_DIF2_FLAVOR,Investigate the Incursion
+ID_EVENT_INCURSION05_DIF2_DESC,"REQUIRED: Captain America (WWII), Union Jack, Bucky Barnes, & Iron Fist (WWII) at Gear Tier 15\n\nUse only: Invaders characters."
+ID_EVENT_INCURSION05_DIF3_FLAVOR,Earn Rare Rewards!
+ID_EVENT_INCURSION05_DIF3_DESC,REQUIRED: Invaders.\n\nAll characters must be 5-stars or higher and at least Gear Tier 15.\n\nThis tier is extremely difficult.
 ID_TU_AM_WA_NAME,Back to Tiny World
 ID_TU_AM_WA_DESC,"After receiving a distress call from resistance forces, Ant-Man and Wasp must enter the tiny dimension to help liberate Earth from its overlords."
 ID_TU_AM_WA_CHANCE,Earn amazing rewards!
@@ -1673,3 +1685,9 @@ ID_INFO_BO_STRIKECELEBRATION,"<color=#fff568>S.T.R.I.K.E. Celebration Milestone<
 ID_INFO_NA_ANGELSARMY,Angel's Army
 ID_INFO_DE_ANGELSARMY,Strengthen your soul and earn Royal Soldier progress
 ID_INFO_BO_ANGELSARMY,"Beckon the harbinger of death in the <color=#fff568>Angel's Army Milestone</color>. Earn valuable rewards including <color=#fff568>Death Seed and Bionic Avengers shards, Tech and Mutant Gear, and Stat Catalysts</color>! You'll also earn points in the month-long Royal Soldier Event by collecting Victory Flags and the Steel Dagger.\n\nGain progress in this <color=#fff568>3-day</color> event by collecting Reaper Orb Fragments from Campaign Nodes and earning Blitz Credits.\n\nEach Reaper Orb contains Death Seed, Bionic Avengers, Wakandans, Minions, Non-Legendary Mutants, and Training Materials."
+ID_INFO_NA_EVILINVASION,Evil Invasion
+ID_INFO_DE_EVILINVASION,Masters of Evil shards and Royal Soldier Progress
+ID_INFO_BO_EVILINVASION,"Gain progress in this <color=#fff568>6-day</color> event by opening Gold Orbs, earning Alliance Credits from Alliance Donations, and battling in Raids (with bonuses for using Invaders).\n\nMilestone\nEarn valuable rewards including <color=#fff568>Ultron (What If?) Costume, Masters of Evil shards, Bio and Tech gear</color>. You'll also earn points towards the month-long Royal Soldier milestone by collecting Victory Flags and the War Medal.\n\nLeaderboard\nRace through the ranks for a chance to earn <color=#fff568>T2 Level 5 Ions and Elite 7 Credits</color>!"
+ID_INFO_NA_COORDINATED ASSAULT,Coordinated Assault
+ID_INFO_DE_COORDINATED_ASSAULT_APRIL2023,Earn Iso-8 Ions and Royal Soldier progress!
+ID_INFO_BO_COORDINATED_ASSAULT_APRIL2023,"Spend Iso-8 Campaign Energy to earn points towards this 7-day Alliance Milestone. Rewards include T2 Level 4 Ions, T2 Level 1 Ions, T1 Ions, and Victory Flags for progress in the month-long Royal Soldier Event.\n\nStock up on Ions and make progress toward Royal Soldier today!"

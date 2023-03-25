@@ -4804,7 +4804,7 @@ ID_ME_DE_STRIKESALUTE_TEASER,"Eternals shards, Gold, and more!"
 ID_ME_BO_STRIKESALUTE_TEASER,"Commander,\n\nWe're honoring all of our Commanders with the upcoming <color=#fff568> S.T.R.I.K.E. Salute</color> Event!\n\nCelebrate your successes with big rewards:\n\n- Gold\n- L4 Training Modules\n- Ikaris and Sersi character shards\n- Agatha Harkness character shards\n- And more!\n\nThis prize party kicks off soon, so be on the lookout!"
 ID_ME_NA_STRIKESALUTE_ANNOUNCE,LIVE: S.T.R.I.K.E. Salute
 ID_ME_DE_STRIKESALUTE_ANNOUNCE,"Eternals shards, Gold, and more!"
-ID_ME_BO_STRIKESALUTE_ANNOUNCE,"Commander,\n\nHonoring all Commanders with the <color=#fff568> S.T.R.I.K.E. Salute</color> Event! Stock up on Gold, Training Modules, and shards for battle-changing characters with this limited-time event:\n\n<color=#fff568> S.T.R.I.K.E. Salute Milestone</color>\nSpend Campaign Energy and collect S.T.R.I.K.E. Salute Tokens from Daily Objectives, the Care Package Web Milestone, and the Daily Free Claim on our website to earn points toward this 7-day milestone. Rewards include:\n\n- Gold\n- L4 Training Modules\n- Ikaris and Sersi character shards\n- Agatha Harkness character shards\n\n<color=#fff568>Care Package Web Milestone</color>\nEarn S.T.R.I.K.E. Salute Tokens from this daily milestone by collecting 300 Alliance Credits.\n\nThank you for your support and passion, Commander!"
+ID_ME_BO_STRIKESALUTE_ANNOUNCE,"Commander,\n\nHonoring all Commanders with the <color=#fff568> S.T.R.I.K.E. Salute</color> Event! Stock up on Gold, Training Modules, and shards for battle-changing characters with this limited-time event:\n\n<color=#fff568> S.T.R.I.K.E. Salute Milestone</color>\nSpend Campaign Energy and collect S.T.R.I.K.E. Salute Tokens from the Care Package Web Milestone and the Daily Free Claim on our website to earn points toward this 6-day milestone. Rewards include:\n\n- Gold\n- L4 Training Modules\n- Ikaris and Sersi character shards\n- Agatha Harkness character shards\n\n<color=#fff568>Care Package Web Milestone</color>\nEarn S.T.R.I.K.E. Salute Tokens from this daily milestone by collecting 300 Alliance Credits.\n\nThank you for your support and passion, Commander!"
 ID_ME_NA_STRIKESALUTE_ENDING,ENDING: S.T.R.I.K.E. Salute
 ID_ME_DE_STRIKESALUTE_ENDING,2 days left!
 ID_ME_BO_STRIKESALUTE_ENDING,"Commander,\n\nThe S.T.R.I.K.E. Salute Event ends in 2 days. Continue earning character shards and Gold before the event ends!\n\nGood luck, Commander!"
@@ -5725,6 +5725,48 @@ ID_ME_BO_ANGELSARMY_ANNOUNCE,"Commander,\n\nBeckon the harbinger of death in the
 ID_ME_NA_ANGELSARMY_ENDING,Ending Soon: Angel's Army
 ID_ME_DE_ANGELSARMY_ENDING,1 day left to earn rewards!
 ID_ME_BO_ANGELSARMY_ENDING,"Commander,\n\nThe <color=#fff568>Angel's Army Milestone</color> event ends in <color=#fff568>1 day</color>. Continue earning progress and get <color=#fff568>Death Seed, Bionic Avengers, and Wakandans shards</color> before it's too late!\n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_CAPTAINAMERICAWWII_ORB_ENDING,Valiant Veteran Orb
+ID_ME_DE_CAPTAINAMERICAWWII_ORB_ENDING,1 day left!
+ID_ME_BO_CAPTAINAMERICAWWII_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Valiant Veteran Orb</color> will only be available in the shop at 675 Power Cores for <color=#fff568>1 more day</color>. Don't miss this chance to power up <color=#fff568>Captain America (WWII)</color> and start your <color=#fff568>Invaders</color> team with a strong foundation!"
+ID_ME_NA_BUCKYBARNES_TEASER,Coming Soon: Bucky Barnes
+ID_ME_DE_BUCKYBARNES_TEASER,The Young Gun
+ID_ME_BO_BUCKYBARNES_TEASER,"Commander,\n\n<color=#fff568>Bucky Barnes</color> is reporting for duty soon! Clear enemy waves and Taunt with this Young Gun:\n\n<color=#fff568>Team</color>: Invaders - Skill Raids\n<color=#fff568>Strengths</color>: Focus and Damage\n<color=#fff568>Specialty</color>: High Damage attacks and clearing Taunt\n<color=#fff568>Ability Highlights</color>: In Raids, Special Ability and Ultimate Ability clear Taunt from all targets.\n<color=#fff568>Raid Bonuses</color>: Grants Invader allies additional Damage and his Basic Ability prolongs Ability Block, Stun, and Trauma.\n\nBe on the lookout for an inbox with details on how to earn Bucky Barnes character shards!"
+ID_ME_NA_BUCKYBARNES_ANNOUNCE,Battle Ready: Bucky Barnes
+ID_ME_DE_BUCKYBARNES_ANNOUNCE,The Young Gun is here!
+ID_ME_BO_BUCKYBARNES_ANNOUNCE,"Commander,\n\nBlast through enemy waves and clear Taunt with <color=#fff568>Bucky Barnes</color>:\n\n<color=#fff568>Team</color>: Invaders - Skill Raids\n<color=#fff568>Strengths</color>: Focus and Damage\n<color=#fff568>Specialty</color>: High Damage attacks and clearing Taunt\n<color=#fff568>Ability Highlights</color>: In Raids, Special Ability and Ultimate Ability clear Taunt from all targets.\n<color=#fff568>Raid Bonuses</color>: Grants Invader allies additional Damage and his Basic Ability prolongs Ability Block, Stun, and Trauma.\n\n<color=#fff568>How to Recruit</color>\nBucky Barnes required for the upcoming Invaders Showcase Events, so don't miss these opportunities to earn his shards:\n\n- Kid Commando Orb\n- Limited-time offers in the Store\n- Brother in Arms Event\n\n<color=#fff568>Red Stars</color>\nFor players who have unlocked the Red Star feature (Level 42), Bucky Barnes is featured in the Red Star Orbs with an increased drop rate of 15% for a limited time.\n\nRecruit Bucky Barnes to your Invaders team today!"
+ID_ME_NA_BUCKYBARNES_RS_ENDING,Red Star ft. Bucky Barnes
+ID_ME_DE_BUCKYBARNES_RS_ENDING,1 day left!
+ID_ME_BO_BUCKYBARNES_RS_ENDING,"Commander,\n\n<color=#fff568>Bucky Barnes</color> will only be featured in all Red Star Orbs for 1 more day! Hurry and open Red Star Orbs while the drop rate is still 15%. "
+ID_ME_NA_BUCKYBARNES_PREBAMESH,Recruit Bucky Barnes!
+ID_ME_DE_BUCKYBARNES_PREBAMESH,Availability Update
+ID_ME_BO_BUCKYBARNES_PREBAMESH,"Commander,\n\n<color=#fff568>Bucky Barnes</color> has been added to the Ultimus Orb, Basic Orb, Premium Orb, Mega Orb, and the Supplies section in the Store. As a result, we have removed <color=#fff568>Ghost Spider</color> from the Mega Orb to keep the orb's content exciting and up to date."
+ID_ME_NA_BUCKYBARNES_ELITE_STORE,Red Stars for Bucky Barnes
+ID_ME_DE_BUCKYBARNES_ELITE_STORE,Elite Store Update
+ID_ME_BO_BUCKYBARNES_ELITE_STORE,"Commander,\n\nDirect Red Star promotions for <color=#fff568>Bucky Barnes</color> have been added to the <color=#fff568>Elite Store</color>! You can now use <color=#fff568>Silver or Gold Promotion Credits</color> to promote <color=#fff568>Bucky Barnes 1 Red Star higher</color> than their current rank. You can earn Promotion Credits by <color=#fff568>exchanging your Elite Credits</color> or by completing the Alliance Donation Daily Objective."
+ID_ME_NA_BUCKYBARNES_ORB_ENDING,Kid Commando Orb
+ID_ME_DE_BUCKYBARNES_ORB_ENDING,1 day left!
+ID_ME_BO_BUCKYBARNES_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Kid Commando Orb</color> will only be available in the shop at 675 Power Cores for <color=#fff568>1 more day</color>. Don't miss this chance to blast through enemy defenses in Raids by clearing all Taunts with this high damage <color=#fff568>Invader</color>!"
 ID_ME_NA_INCURSION_RAID_HYPE,Coming Soon: Incursion Raid
 ID_ME_DE_INCURSION_RAID_HYPE,Prepare your Skill Team!
 ID_ME_BO_INCURSION_RAID_HYPE,"Commander,\n\nTime to start getting ready for the all-new <color=#fff568>Incursion Raid</color>, coming in the next major release, Version 7.1.0. This new Raid will test your roster in ways not seen before. Powering up your <color=#fff568>Invader</color> characters for the <color=#fff568>Incursion Raid</color> will be your best chance at victory and receiving the next tier of highly valuable rewards. Keep your eyes on your Inbox and the upcoming 2023 Preview blog for more details coming soon."
+ID_ME_NA_EVILINVASION_TEASER,Coming Soon: Evil Invasion
+ID_ME_DE_EVILINVASION_TEASER,Earn Masters of Evil Shards & T2 Level 5 Ions!
+ID_ME_BO_EVILINVASION_TEASER,"Commander,\n\nGain progress in this <color=#fff568>6-day</color> event by opening Gold Orbs, earning Alliance Credits from Alliance Donations, and battling in Raids (with bonuses for using Invaders).\n\nMilestone\nEarn valuable rewards including <color=#fff568>Ultron (What If?) Costume, Masters of Evil shards, Bio and Tech gear</color>. You'll also earn points towards the month-long Royal Soldier milestone by collecting Victory Flags and the War Medal.\n\nLeaderboard\nRace through the ranks for a chance to earn <color=#fff568>T2 Level 5 Ions and Elite 7 Credits</color>!\n\nGood luck, Commander!"
+ID_ME_NA_EVILINVASION_ANNOUNCE,LIVE: Evil Invasion
+ID_ME_DE_EVILINVASION_ANNOUNCE,Earn Masters of Evil Shards & T2 Level 5 Ions!
+ID_ME_BO_EVILINVASION_ANNOUNCE,"Commander,\n\nGain progress in this <color=#fff568>6-day</color> event by opening Gold Orbs, earning Alliance Credits from Alliance Donations, and battling in Raids (with bonuses for using Invaders).\n\nMilestone\nEarn valuable rewards including <color=#fff568>Ultron (What If?) Costume, Masters of Evil shards, Bio and Tech gear</color>. You'll also earn points towards the month-long Royal Soldier milestone by collecting Victory Flags and the War Medal.\n\nLeaderboard\nRace through the ranks for a chance to earn <color=#fff568>T2 Level 5 Ions and Elite 7 Credits</color>!\n\nGood luck, Commander!"
+ID_ME_NA_EVILINVASION_ENDING,Ending Soon: Evil Invasion
+ID_ME_DE_EVILINVASION_ENDING,1 day left to earn rewards!
+ID_ME_BO_EVILINVASION_ENDING,"Commander,\n\nThe <color=#fff568>Evil Invasion Milestone</color> event ends in <color=#fff568>1 day</color>. Continue earning progress and get <color=#fff568>Ultron (What If?) Costume, Masters of Evil shards, Bio and Tech gear</color> and more before it's too late!\n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_APRIL_COORDINATED_ASSAULT_ANNOUNCE,LIVE: Coordinated Assault
+ID_ME_DE_APRIL_COORDINATED_ASSAULT_ANNOUNCE,Earn Iso-8 Ions and Royal Soldier progress!
+ID_ME_BO_APRIL_COORDINATED_ASSAULT_ANNOUNCE,"Commander\n\nSpend Iso-8 Campaign Energy to earn points towards this 7-day Alliance Milestone. Rewards include T2 Level 4 Ions, T2 Level 1 Ions, T1 Ions, and Victory Flags for progress in the month-long Royal Soldier Event.\n\nStock up on Ions and make progress toward Royal Soldier today!\n\nGood luck, Commander!"
+ID_ME_NA_APRIL_COORDINATED_ASSAULT_ENDING,ENDING: Coordinated Assault
+ID_ME_DE_APRIL_COORDINATED_ASSAULT_ENDING,1 day left!
+ID_ME_BO_APRIL_COORDINATED_ASSAULT_ENDING,"Commander,\n\nThe Coordinated Assault Event ends in 1 day. Continue earning Ions and progress towards the Royal Soldier Event with Victory Flagfs before the event ends!\n\nGood luck, Commander!"
+ID_ME_NA_NEWBLOGPOST_033123,A Royal Invasion
+ID_ME_DE_NEWBLOGPOST_033123,New Blog Available
+ID_ME_BO_NEWBLOGPOST_033123,"Commander,\n\nPrepare your roster for a rewards invasion with this week's blog, which includes:\n\n- More details on the month-long Royal Soldier event\n- A returning Scourge Event\n- The Mojo's Mayhem Season 33 featured reward\n\nDon't miss out on this alongside details for Free Claim Friday!"
+ID_ME_NA_ANNIV2023_GIFT,5th Anniversary Gift
+ID_ME_DE_ANNIV2023_GIFT,Cheers to 5 Years!
+ID_ME_BO_ANNIV2023_GIFT,"Commander,\n\nThank you for playing MARVEL Strike Force!\n\nIn celebration of protecting Nexus Earth for the past five years, enjoy this gift to help you continue the fight against Ultimus."

@@ -1178,7 +1178,9 @@ ID_REQUIRES_PYM_OR_MOE_6YS,"6-star <color=#fff568>Pym Tech</color> or <color=#ff
 ID_REQUIRES_PYM_OR_MOE_7YS,"7-star <color=#fff568>Pym Tech</color> or <color=#fff568>Masters of Evil</color>\n<color=#fff568>Kang the Conqueror</color>, <color=#fff568>Absorbing Man</color>, & <color=#fff568>Titania</color> are Required"
 ID_MANDATORY_KANG,Kang the Conqueror is a mandatory character in this mission.\n\nKang can be unlocked in Events and Offers.
 ID_MANDATORY_KANG_AM_TITANIA,"Kang the Conqueror, Absorbing Man, and Titania are mandatory characters in this mission.\n\nCheck Events and Offers to unlock these characters."
-ID_UI_ONLY_REBIRTH,ONLY <color=#fff568>Rebirth</color> CHARACTERS
-ID_REQUIRES_REBIRTH,REQUIRES: <color=#fff568>Rebirth</color> CHARACTERS
-ID_REQUIRES_INVADERS_REBIRTH,ONLY <color=#fff568>INVADERS</color> or <color=#fff568>REBIRTH</color>\nRequires: <color=#fff568>CAPTAIN AMERICA (WWII)</color> at Gear Tier 13
-ID_REQUIRES_CAPWWII,<color=#fff568>Captain America (WWII)</color>
+ID_UI_ONLY_REBIRTH,ONLY <color=#fff568>REBIRTH</color> CHARACTERS
+ID_REQUIRES_REBIRTH,REQUIRES: <color=#fff568>REBIRTH</color> CHARACTERS
+ID_REQUIRES_INVADERS_REBIRTH,ONLY <color=#fff568>INVADERS</color> or <color=#fff568>REBIRTH</color>\nREQUIRES: <color=#fff568>CAPTAIN AMERICA (WWII)</color> AT GEAR TIER 13
+ID_REQUIRES_CAPWWII,<color=#fff568>CAPTAIN AMERICA (WWII)</color>
+ID_REQUIREMENT_INVADERS_EPIC_PREVIEW_CH,Requires 4 New </color>\n<color=#fff568>INVADERS</color> at Gear Tier 15
+ID_REQUIREMENT_INVADERS_EPIC_PREVIEW_BO,"Requires 5 </color>\n<color=#fff568>INVADERS</color> at Gear Tier 15, 5 Stars"

@@ -1870,18 +1870,18 @@ ID_OF_NA_ANNIV_ORBS,Anniversary Orb Bundle
 ID_OF_NA_ANNIV_HORSEMEN,Anniversary Horseman Bundle
 ID_OF_NA_ANNIV_GEAR,Anniversary Augmented Catalyst Bundle
 ID_OF_NA_ANNIV_SPIDERMANNOIR,Anniversary Spider-Man (Noir) Bundle
-ID_OF_DE_5YR_GOLD,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} <color=fff500>Gold</color>!
-ID_OF_DE_5YR_TRAINING,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} <color=fff500>L4 Training Modules</color>!
-ID_OF_DE_5YR_ORIGINALS,"Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} Shards of <color=fff500>Kestrel, Deathpool, and Spider-Weaver</color>!"
-ID_OF_DE_5YR_REDSTAR,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} <color=fff500>Red Star Orbs</color>!
-ID_OF_DE_5YR_MEGA,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of a <color=fff500>Mega Orb</color>!
-ID_OF_DE_5YR_ENERGY,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of this double dose of <color=fff500>Campaign Energy</color>!
-ID_OF_DE_5YR_ELITE,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} <color=fff500>Elite 5 Credits</color>!
+ID_OF_DE_5YR_GOLD,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} <color=#fff500>Gold</color>!
+ID_OF_DE_5YR_TRAINING,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} <color=#fff500>L4 Training Modules</color>!
+ID_OF_DE_5YR_ORIGINALS,"Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} Shards of <color=#fff500>Kestrel, Deathpool, and Spider-Weaver</color>!"
+ID_OF_DE_5YR_REDSTAR,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} <color=#fff500>Red Star Orbs</color>!
+ID_OF_DE_5YR_MEGA,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of a <color=#fff500>Mega Orb</color>!
+ID_OF_DE_5YR_ENERGY,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of this double dose of <color=#fff500>Campaign Energy</color>!
+ID_OF_DE_5YR_ELITE,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} <color=#fff500>Elite 5 Credits</color>!
 ID_OF_DE_5YR_SALE,Celebrate MARVEL Strike Force's 5th Anniversary and level up your roster with this special offer!
 ID_OF_DE_5YR_ORBS,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of this special orb offer!
-ID_OF_DE_5YR_HORSEMEN,"Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} <color=fff500>Pestilence, Famine, War, and Death Orbs</color>!"
-ID_OF_DE_5YR_TEALCATS,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of <color=fff500>Augmented Catalysts</color>!
-ID_OF_DE_5YR_SPIDERMANNOIR,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} Shards of <color=fff500>Spider-Man (Noir)</color> and more!
+ID_OF_DE_5YR_HORSEMEN,"Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} <color=#fff500>Pestilence, Famine, War, and Death Orbs</color>!"
+ID_OF_DE_5YR_TEALCATS,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of <color=#fff500>Augmented Catalysts</color>!
+ID_OF_DE_5YR_SPIDERMANNOIR,Celebrate MARVEL Strike Force's 5th Anniversary with over {var1}% off of {var2} Shards of <color=#fff500>Spider-Man (Noir)</color> and more!
 ID_OF_NA_ANGELSARMY_STARTER_MEGA,Angel's Army Mega Starter
 ID_OF_NA_ANGELSARMY_STARTER_SUPER,Angel's Army Super Starter
 ID_OF_NA_ANGELSARMY_STARTER,Angel's Army Starter Bundle
@@ -1958,3 +1958,73 @@ ID_OF_NA_ACEOFRAIDS_DAILY_HEALTH,Daily Kinetic Health Packs
 ID_OF_DE_ACEOFRAIDS_DAILY_HEALTH,Push harder than ever in the <color=#fff568>Gambit Raids</color> Raid with these <color=#fff568>Kinetic Health Packs</color>!
 ID_OF_NA_ACEOFRAIDS_DAILY_ENERGY,Daily Kinetic Energy Refills
 ID_OF_DE_ACEOFRAIDS_DAILY_ENERGY,Push harder than ever in the <color=#fff568>Gambit Raids</color> Raid with these <color=#fff568>Kinetic Energy Refills</color>!
+ID_OF_NA_APRILFOOLS23_CEREAL,Strike Force Cereal
+ID_OF_NA_APRILFOOLS23_DOGE,Much Offer So Wow
+ID_OF_NA_APRILFOOLS23_MEME,Value Good Buy Now
+ID_OF_NA_EASTER2023_GENERIC_1,Easter Gear Basket
+ID_OF_NA_EASTER2023_GENERIC_2,Easter Gear Basket
+ID_OF_NA_EASTER2023_GENERIC_3,Easter Gear Basket
+ID_OF_NA_EASTER2023_ENERGY,Easter Energizer
+ID_OF_NA_EASTER2023_GOLD,Easter Gold Galore
+ID_OF_NA_EASTER2023_SHARD,Easter Shard Hunt
+ID_OF_NA_EASTER2023_REDSTAR,Easter Red Star Bounty
+ID_OF_NA_BLASTERSHARDS_CATCHALLENGE,Catalyst Challenge Crusher
+ID_OF_NA_TEAM_SHARDS_GENERIC_1,Terrific Team Offer
+ID_OF_NA_TEAM_SHARDS_GENERIC_2,Tremendous Team Offer
+ID_OF_NA_TEAM_SHARDS_GENERIC_3,Super Squad Deal
+ID_OF_NA_TEAM_SHARDS_QUICKRUMBLE,Quick Rumble: Team Booster
+ID_OF_NA_NEWCAMPAIGN_ENERGY,Marvelous Mission Energy Offer
+ID_OF_DE_APRILFOOLS23_CEREAL,Satisfy your hunger for justice with Strike Force Cereal - a powerful breakfast that packs a flavorful punch!
+ID_OF_DE_APRILFOOLS23_DOGE,"Wow, much prank, such value, very April Fool's. Bundle of resources grab today you will. Better than Tadano MAC you will be."
+ID_OF_DE_APRILFOOLS23_MEME,offer very very good very very cheap
+ID_OF_DE_EASTER2023_GENERIC_1,Hop into Easter fun with this egg-citing offer and grab your bundle of resources today!
+ID_OF_DE_EASTER2023_GENERIC_2,Spring into the Easter spirit with this outstanding offer and crack open your competition!
+ID_OF_DE_EASTER2023_GENERIC_3,Get egg-cited for this basket of bountiful resources to supercharge your roster to take on the next challenge!
+ID_OF_DE_EASTER2023_ENERGY,Don't hop behind the competition this Easter! Spring into action with this amazing offer and fuel your game with a bunch of energy!
+ID_OF_DE_EASTER2023_GOLD,Don't let the competition hunt all the treasure this Easter! Get a golden advantage with this amazing offer and spring into action!
+ID_OF_DE_EASTER2023_SHARD,Egg-spect an exciting experience this Easter! Get a basket of character shards and energize your roster to take on any foes in your way!
+ID_OF_DE_EASTER2023_REDSTAR,Don't miss out on this egg-straordinary offer! Amp up the power of your top teams and overtake the competition with powerful Red Star upgrades!
+ID_OF_DE_BLASTERSHARDS_CATCHALLENGE,Burst through the Catalyst of Change with shards for this brilliant blaster!
+ID_OF_DE_TEAM_SHARDS_GENERIC_1,Unleash the true potential of your team! Acquire this stunning bundle of character shards and level up multiple characters simultaneously!
+ID_OF_DE_TEAM_SHARDS_GENERIC_2,Make your team shine with this incredible bundle of character shards! Boost multiple characters at once and reach new heights of power!
+ID_OF_DE_TEAM_SHARDS_GENERIC_3,Upgrade your team with ease! Get this amazing bundle of character shards and boost multiple characters simultaneously to build a legendary team!
+ID_OF_DE_TEAM_SHARDS_QUICKRUMBLE,"Smash through this week's Quick Rumble with ease with this massive bundle of character shards that will ramp your team to fantastic new levels of power! "
+ID_OF_DE_NEWCAMPAIGN_ENERGY,Supercharge your gameplay! Obtain an abundance of energy for the latest campaign missions and harvest fresh resources and character shards with every new node!
+ID_OF_NA_5THANNIVERSARY_5FOR5,5th Anniversary 5 for 5
+ID_OF_DE_5THANNIVERSARY_5FOR5,Join us in celebrating 5 years of MARVEL Strike Force! Keep an eye out for another 5 for 5 offer tomorrow.
+ID_OF_DE_5THANNIVERSARY_5FOR5_FINAL,Join us in celebrating 5 years of MARVEL Strike Force with our final 5 for 5 offer in the series.
+ID_OF_NA_BUCKYBARNES_FCO_OFFER,The Young Gun
+ID_OF_DE_BUCKYBARNES_FCO_OFFER,"Save on <color=#fff568>Kid Commando Orbs</color>, each having a chance to earn <color=#fff568>up to 180 Bucky Barnes</color> shards. Blast through enemy defenses in Raids by clearing all Taunts with this high damage <color=#fff568>Invader</color>!"
+ID_OF_NA_BUCKYBARNES_WEB_SPECIAL_OFFER,Web Special: Bucky Barnes
+ID_OF_DE_BUCKYBARNES_WEB_SPECIAL_OFFER,"Don't miss this <color=#fff568>Web Special</color> deal for <color=#fff568>Bucky Barnes</color> shards, which unlocks special release offers on your next visit! Blast through enemy defenses in Raids by clearing all Taunts with this high damage <color=#fff568>Invader</color>!"
+ID_OF_DE_BUCKYBARNES_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Bucky Barnes</color> and unlock special release offers on your next visit! Blast through enemy defenses in Raids by clearing all Taunts with this high damage <color=#fff568>Invader</color>!
+ID_OF_DE_BUCKYBARNES_OFFER_SHARD,Power up <color=#fff568>Bucky Barnes</color> with this shard offer! Blast through enemy defenses in Raids by clearing all Taunts with this high damage <color=#fff568>Invader</color>!
+ID_OF_NA_BUCKYBARNES_RS_DRAFT,Red Star Draft: Bucky Barnes
+ID_OF_DE_BUCKYBARNES_RS_DRAFT_345,"Get an equal chance of either <color=#fff568>3, 4, or 5 Red Stars</color> for <color=#fff568>Bucky Barnes</color>. Blast through enemy defenses in Raids by clearing all Taunts with this high damage <color=#fff568>Invader</color>!"
+ID_OF_DE_BUCKYBARNES_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, or 6 Red Stars</color> for <color=#fff568>Bucky Barnes</color>. Blast through enemy defenses in Raids by clearing all Taunts with this high damage <color=#fff568>Invader</color>!"
+ID_OF_DE_BUCKYBARNES_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Bucky Barnes</color>. Blast through enemy defenses in Raids by clearing all Taunts with this high damage <color=#fff568>Invader</color>!"
+ID_OF_NA_EVILINVASION_STARTER_MEGA,Evil Invasion Mega Starter
+ID_OF_NA_EVILINVASION_STARTER_SUPER,Evil Invasion Super Starter
+ID_OF_NA_EVILINVASION_STARTER,Evil Invasion Starter Bundle
+ID_OF_NA_EVILINVASION_DAILY_POINTS,Daily Point Bundle
+ID_OF_NA_EVILINVASION_POINTS_BOOSTER,Maleficent Web Special
+ID_OF_NA_EVILINVASION_CATCHUP_MEGA,Evil Invasion Mega Catch-Up
+ID_OF_NA_EVILINVASION_CATCHUP,Evil Invasion Super Catch-Up
+ID_OF_NA_EVILINVASION_CATCHUP_LAST_CHANCE,Evil Invasion Catch-Up Bundle
+ID_OF_NA_EVILINVASION_DAILY_GOLD,Golden Invasion
+ID_OF_NA_EVILINVASION_DAILY_RAID,Raid Invasion
+ID_OF_NA_EVILINVASION_DAILY_CLAIM,Evil Invasion Daily Gift
+ID_OF_NA_EVILINVASION_CATCHUP_INTERSTITIAL,Evil Invasion Web Special
+ID_OF_DE_EVILINVASION_STARTER_MEGA,Get ahead in the <color=#fff568>Evil Invasion</color> Milestone and fast-forward your way to <color=#fff568>Masters of Evil shards</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_EVILINVASION_STARTER,Start off strong in the <color=#fff568>Evil Invasion</color> milestone!
+ID_OF_DE_EVILINVASION_DAILY_POINTS,Make consistent <color=#fff568>Evil Invasion</color> progress with this daily milestone points supply!
+ID_OF_DE_EVILINVASION_POINTS_BOOSTER,Supercharge your evil master plans and boost your <color=#fff568>Evil Invasion Milestone</color> progress!
+ID_OF_DE_EVILINVASION_CATCHUP_MEGA,"Finish strong in the milestones and leaderboards for <color=#fff568>Masters of Evil shards</color>, <color=#fff568>Elite Credits</color> and <color=#fff568>up to 5,000,000 T2 Level 5 Ions</color>!"
+ID_OF_DE_EVILINVASION_CATCHUP,Finish strong in the milestones for <color=#fff568>Masters of Evil shards</color> and <color=#fff568>Elite Credits</color>!
+ID_OF_DE_EVILINVASION_CATCHUP_LAST_CHANCE,Complete your final Evil Invasion milestones before it's too late!
+ID_OF_DE_EVILINVASION_DAILY_GOLD,Stock up on <color=#fff568>Gold</color> and <color=#fff568>Evil Invasion</color> progress with this special deal!
+ID_OF_DE_EVILINVASION_DAILY_RAID,Raid your way through the <color=#fff568>Evil Invasion</color> milestones!
+ID_OF_DE_EVILINVASION_DAILY_CLAIM,Come back daily for more <color=#fff568>Evil Invasion</color> progress!
+ID_OF_DE_EVILINVASION_CATCHUP_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Evil Invasion</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_COORDINATED_ASSAULT_ISO,Daily Radioactive Energy
+ID_OF_DE_COORDINATED_ASSAULT_ISO,Stock up on Iso-8 Campaign Energy to push your Alliance forward in the <color=#fff568>Coordinated Assault</color> milestone!
