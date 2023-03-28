@@ -944,7 +944,7 @@ ID_EVENT_INCURSION05_DIF1_FLAVOR,Try the Invaders
 ID_EVENT_INCURSION05_DIF2_FLAVOR,Investigate the Incursion
 ID_EVENT_INCURSION05_DIF2_DESC,"REQUIRED: Captain America (WWII), Union Jack, Bucky Barnes, & Iron Fist (WWII) at Gear Tier 15\n\nUse only: Invaders characters."
 ID_EVENT_INCURSION05_DIF3_FLAVOR,Earn Rare Rewards!
-ID_EVENT_INCURSION05_DIF3_DESC,REQUIRED: Invaders.\n\nAll characters must be 5-stars or higher and at least Gear Tier 15.\n\nThis tier is extremely difficult.
+ID_EVENT_INCURSION05_DIF3_DESC,REQUIRED: Invaders.\n\nAll characters must be 5 Stars or higher and at least Gear Tier 15.\n\nThis tier is extremely difficult.
 ID_TU_AM_WA_NAME,Back to Tiny World
 ID_TU_AM_WA_DESC,"After receiving a distress call from resistance forces, Ant-Man and Wasp must enter the tiny dimension to help liberate Earth from its overlords."
 ID_TU_AM_WA_CHANCE,Earn amazing rewards!
@@ -1691,3 +1691,12 @@ ID_INFO_BO_EVILINVASION,"Gain progress in this <color=#fff568>6-day</color> even
 ID_INFO_NA_COORDINATED ASSAULT,Coordinated Assault
 ID_INFO_DE_COORDINATED_ASSAULT_APRIL2023,Earn Iso-8 Ions and Royal Soldier progress!
 ID_INFO_BO_COORDINATED_ASSAULT_APRIL2023,"Spend Iso-8 Campaign Energy to earn points towards this 7-day Alliance Milestone. Rewards include T2 Level 4 Ions, T2 Level 1 Ions, T1 Ions, and Victory Flags for progress in the month-long Royal Soldier Event.\n\nStock up on Ions and make progress toward Royal Soldier today!"
+ID_INFO_NA_EGGHUNT,Egg Hunt
+ID_INFO_DE_EGGHUNT,T2 Level 5 Ions and more!
+ID_INFO_BO_EGGHUNT,"Get hunting this April! Augment your roster with character shards, Red Stars, and more.\n\n<color=#33dd00>Egg Hunt Milestone</color>\nSpend Campaign Energy (excluding Iso-8 Campaign Energy) and earn Alliance Credits to earn points toward a 6-day milestone that rewards:\n\n- 5-Red Star Dazzler\n- Captain America (WWII), Moonstone, Agatha Harkness, Dazzler, and Squirrel Girl character shards\n- Armory 17 Orbs\n- Teal, Orange, and Purple Catalyst Parts\n\n<color=#33dd00>Leaderboard</color>\nRack up as many points as possible to climb the ranks of this Leaderboard that rewards <color=#33dd00>T2 Level 5 Ions</color>.\n\n<color=#33dd00>Event Store</color>\nBy spending Campaign Energy, you'll earn a limited-time event currency: <color=#33dd00>Easter Eggs</color>. Head to the limited-time Event Store to spend Easter Eggs on any of the following items:\n\n- Teal Unique Gear Pieces\n- Bionic Avengers, Wakandans, Psylocke, and Ravager Minion character shards\n- T3 and T2 Ability Materials\n- And more!\n\nGood luck, Commander!"
+ID_INFO_NA_FREEDOMFIGHTERS,Freedom Fighters
+ID_INFO_DE_FREEDOMFIGHTERS,Union Jack & Bio Gear!
+ID_INFO_BO_FREEDOMFIGHTERS,"Earn <color=#fff568>Union Jack and Rebirth character shards</color> and <color=#fff568>Bio Gear</color>!\n\n<color=#fff568>Freedom Fighters Milestone</color>\nScore points toward this milestone by battling in Blitz (bonus points for using Invaders characters) or using Power Cores. Earn progress as well by opening limited-time Battle Plan Orbs containing valuable Training Modules and T2 Level 1 & 4 Ions. These orbs are available in Free Claims on web and special Store offers!\n\n<color=#fff568>Generations Collide Web Milestone</color>\nUse Blitz Credits to earn progress in this web milestone to earn Catalyst Parts, Teal Gear Orbs and Elite 4 Credits."
+ID_INFO_NA_APRILFOOLS2023_EVENT,Breakfast of Commanders
+ID_INFO_DE_APRILFOOLS2023_EVENT,Battle the forces of hunger!
+ID_INFO_BO_APRILFOOLS2023_EVENT,"Celebrate the launch of <color=#fff568>S.T.R.I.K.E. Os</color> and join us in the fight against breakfast indecision! Today only, collect the limited-time cereal currency throughout the game to earn nutritious rewards!"

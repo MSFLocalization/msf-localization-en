@@ -2006,12 +2006,12 @@ ID_OF_DE_BUCKYBARNES_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>
 ID_OF_NA_EVILINVASION_STARTER_MEGA,Evil Invasion Mega Starter
 ID_OF_NA_EVILINVASION_STARTER_SUPER,Evil Invasion Super Starter
 ID_OF_NA_EVILINVASION_STARTER,Evil Invasion Starter Bundle
-ID_OF_NA_EVILINVASION_DAILY_POINTS,Daily Point Bundle
+ID_OF_NA_EVILINVASION_DAILY_POINTS,Daily Points Bundle
 ID_OF_NA_EVILINVASION_POINTS_BOOSTER,Maleficent Web Special
 ID_OF_NA_EVILINVASION_CATCHUP_MEGA,Evil Invasion Mega Catch-Up
 ID_OF_NA_EVILINVASION_CATCHUP,Evil Invasion Super Catch-Up
 ID_OF_NA_EVILINVASION_CATCHUP_LAST_CHANCE,Evil Invasion Catch-Up Bundle
-ID_OF_NA_EVILINVASION_DAILY_GOLD,Golden Invasion
+ID_OF_NA_EVILINVASION_DAILY_GOLD,Gold Invasion
 ID_OF_NA_EVILINVASION_DAILY_RAID,Raid Invasion
 ID_OF_NA_EVILINVASION_DAILY_CLAIM,Evil Invasion Daily Gift
 ID_OF_NA_EVILINVASION_CATCHUP_INTERSTITIAL,Evil Invasion Web Special
@@ -2028,3 +2028,53 @@ ID_OF_DE_EVILINVASION_DAILY_CLAIM,Come back daily for more <color=#fff568>Evil I
 ID_OF_DE_EVILINVASION_CATCHUP_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Evil Invasion</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_COORDINATED_ASSAULT_ISO,Daily Radioactive Energy
 ID_OF_DE_COORDINATED_ASSAULT_ISO,Stock up on Iso-8 Campaign Energy to push your Alliance forward in the <color=#fff568>Coordinated Assault</color> milestone!
+ID_OF_NA_EGGHUNT_STARTER_MEDIUM,Egg Hunt Starter Bundle
+ID_OF_DE_EGGHUNT_STARTER_VAR,Get hunting this April and save over <color=#fff568>{var1}%</color> with this bundle. Get <color=#fff568>{var2} points</color> towards the Egg Hunt Milestone!
+ID_OF_NA_EGGHUNT_STARTER_SUPER,Egg Hunt Super Starter
+ID_OF_NA_EGGHUNT_STARTER_MEGA,Egg Hunt Mega Starter
+ID_OF_NA_EGGHUNT_CATCHUP,Egg Hunt Catch Up Bundle
+ID_OF_DE_EGGHUNT_CATCHUP,Don't miss out on collecting all the Egg Hunt rewards! Save over <color=#fff568>{var1}%</color> with each purchase.
+ID_OF_NA_EGGHUNT_CATCHUP_BIG,Egg Hunt Mega Catch Up
+ID_OF_NA_EGGHUNT_EVENTCURRENCY,Easter Egg Bundle
+ID_OF_DE_EGGHUNT_EVENTCURRENCY,Want to get more from the <color=#fff568>Easter Egg Event Store</color>? Save over <color=#fff568>{var1}%</color> with each purchase of Easter Eggs!
+ID_OF_NA_EGGHUNT_HCBOOSTER,Eggcellent Cores
+ID_OF_DE_EGGHUNT_HCBOOSTER,Use Power Cores to boost your Campaign Energy spend and Alliance Donations for more <color=#fff568>Egg Hunt progress</color>!
+ID_OF_NA_EGGHUNT_DAILY_ENERGY,Egg Hunt Energy
+ID_OF_DE_EGGHUNT_DAILY_ENERGY_VAR,Progress in campaigns and the <color=#fff568>Egg Hunt Milestone</color> at once!
+ID_OF_NA_EGGHUNT_DAILY_CURRENCY,Daily Easter Egg Bundle
+ID_OF_DE_EGGHUNT_DAILY_CURRENCY,Save over <color=#fff568>{var1}%</color> and use these Easter Eggs for Teal Unique Gear and more in the <color=#fff568>Easter Egg Event Store</color>!
+ID_OF_NA_EGGHUNT_DAILY_FREE,Egg Hunt Daily Gift
+ID_OF_DE_EGGHUNT_DAILY_FREE,Come back daily to boost your <color=#fff568>Egg Hunt Milestone</color> progress!
+ID_OF_NA_EGGHUNT_DAILY_INTERSTITIAL,Egg Hunt Web Special
+ID_OF_DE_EGGHUNT_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Egg Hunt Milestone</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_EGGHUNT_LASTCHANCE,Egg Hunt Last Chance Bundle
+ID_OF_DE_EGGHUNT_LASTCHANCE,"Catch this deal before it's too late and get your final <color=#fff568>Egg Hunt</color> milestone and leaderboard rewards, including exclusive <color=#fff568>T2 Level 5 Ions</color>!"
+ID_OF_NA_FREEDOMFIGHTERS_STARTER_MEGA,Freedom Fighters Super Starter
+ID_OF_NA_FREEDOMFIGHTERS_STARTER_SUPER,Freedom Fighters Mega Starter
+ID_OF_NA_FREEDOMFIGHTERS_STARTER,Freedom Fighters Starter Bundle
+ID_OF_NA_FREEDOMFIGHTERS_CATCHUP,Freedom Fighters Catch-Up Bundle
+ID_OF_NA_FREEDOMFIGHTERS_CATCHUP_LAST_CHANCE,Freedom Fighters Last Chance Bundle
+ID_OF_NA_FREEDOMFIGHTERS_DAILY_ORB,Daily Dose of Freedom
+ID_OF_NA_FREEDOMFIGHTERS_DAILY_BLITZ,Daily Blitz Bundle
+ID_OF_NA_FREEDOMFIGHTERS_HC_BUNDLE,Freedom Cores
+ID_OF_NA_FREEDOMFIGHTERS_CLAIM_1,Freedom Fighters Daily Gift
+ID_OF_NA_FREEDOMFIGHTERS_INTERSTITIAL_2,Freedom Fighters Web Special
+ID_OF_NA_FREEDOMFIGHTERS_DIRECT,Freedom Booster
+ID_OF_DE_FREEDOMFIGHTERS_STARTER_MEGA,Get ahead in the <color=#fff568>Freedom Fighters</color> Milestone and fast-forward your way to <color=#fff568>Union Jack and Rebirth shards</color> and <color=#fff568>Augmented Bio Gear</color>!
+ID_OF_DE_FREEDOMFIGHTERS_STARTER,Start off strong in the <color=#fff568>Freedom Fighters</color> milestone!
+ID_OF_DE_FREEDOMFIGHTERS_CATCHUP,Finish strong in the milestones for <color=#fff568>Union Jack and Rebirth shards</color> and <color=#fff568>Elite Credits</color>!
+ID_OF_DE_FREEDOMFIGHTERS_CATCHUP_LAST_CHANCE,Complete your final Freedom Fighters milestones before it's too late!
+ID_OF_DE_FREEDOMFIGHTERS_DAILY_ORB,Don't miss this daily <color=#fff568>Battle Plan Orb</color> offer to power up your roster and boost your <color=#fff568>Freedom Fighters Milestone</color> progress!
+ID_OF_DE_FREEDOMFIGHTERS_DAILY_BLITZ,Blitz through the <color=#fff568>Freedom Fighters Milestone</color>!
+ID_OF_DE_FREEDOMFIGHTERS_HC_BUNDLE,Stock up on Power Cores and Battle Plan Orbs for extra progress in <color=#fff568>Freedom Fighters Milestone</color>!
+ID_OF_DE_FREEDOMFIGHTERS_CLAIM_1,Come back daily for more <color=#fff568>Freedom Fighters</color> progress!
+ID_OF_DE_FREEDOMFIGHTERS_INTERSTITIAL_2,You just unlocked the highest discount deal for <color=#fff568>Freedom Fighters</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_FREEDOMFIGHTERS_DIRECT,Spend Power Cores on this offer to progress in the <color=#fff568>Freedom Fighters</color> milestone while earning valuable items!
+ID_OF_NA_APRILFOOLS2023_EVENT_FREE,Snack Time
+ID_OF_NA_APRILFOOLS2023_EVENT_CORE,Core Nutrition
+ID_OF_DE_APRILFOOLS2023_EVENT_FREE,There is no such thing as a free lunch. But here's a free breakfast!
+ID_OF_DE_APRILFOOLS2023_EVENT_DIRECT,Not all heroes wear capes. But all S.T.R.I.K.E. Commanders eat <color=#fff568>Os</color>!
+ID_OF_NA_XMEN_TEAM,X-Men Team Offer
+ID_OF_DE_XMEN_TEAM,Limited-time for new players: Unlock a 3-Star X-Men team and a stunning Magik costume!
+ID_OF_DE_WONG_OFFER_VAR_SHARD_WITHSKIN,Get <color=#fff568>{var1} Wong </color> shards and acquire his costume! Protect allies with Taunt and attack enemies who attack Darkhold allies.
+ID_OF_BO_NU_PURCH_CAL_02,Limited-time for new players: Upgrade Gambit from 1 to 2 Stars with this special calendar that builds on the Gambit Welcome Calendar.

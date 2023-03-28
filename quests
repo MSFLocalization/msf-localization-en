@@ -2562,4 +2562,71 @@ ID_QU_S3_EVILINVASION,Earn 1 Alliance Credit
 ID_QU_S4_EVILINVASION,Play 1 Raid Battle with Nick Fury
 ID_QU_S5_EVILINVASION,Play 1 Raid Battle with Captain America [WWII]
 ID_QU_S6_EVILINVASION,Play 1 Raid Battle with Union Jack
-ID_QU_S7_EVILINVASION,Play 1 Raid Battle with Iron Fist [WWII]
+ID_QU_S7_EVILINVASION,Play 1 Raid Battle with Bucky Barnes
+ID_QU_NA_EGGHUNT,Egg Hunt
+ID_QU_SD_EGGHUNT,"Spend Campaign Energy, Earn Alliance Credits"
+ID_QU_LD_EGGHUNT,"Spend Campaign Energy (excluding Iso-8 Campaign Energy) and earn Alliance Credits to earn:\n\n- 5-Red Star Dazzler\n- Captain America (WWII), Moonstone, Agatha Harkness, Dazzler, and Squirrel Girl character shards\n- Armory 17 Orbs\n- Teal, Orange, and Purple Catalyst Parts\n\nRack up as many points as possible to climb the ranks of the Leaderboard and earn T2 Level 5 Ions!"
+ID_QU_SM_EGGHUNT,Spend Campaign Energy and Earn Alliance Credits
+ID_QU_SC_EGGHUNT,Spend Campaign Energy and Earn Alliance Credits
+ID_QU_S1_EGGHUNT,Spend 1 Campaign Energy
+ID_QU_S2_EGGHUNT,Earn 1 Alliance Credit
+ID_QU_NA_FREEDOMFIGHTERS,Freedom Fighters
+ID_QU_SD_FREEDOMFIGHTERS,Blitz and Open Battle Plan Orbs
+ID_QU_LD_FREEDOMFIGHTERS,"Battle in Blitz with Invaders characters, open Battle Plan Orbs, and use Power Cores to earn these rewards:\n\n- Union Jack and Rebirth character shards\n- Bio Gear\n- Catalyst Parts\n- Gold\n- And more!"
+ID_QU_SM_FREEDOMFIGHTERS,Blitz and Open Battle Plan Orbs
+ID_QU_SC_FREEDOMFIGHTERS,Blitz and Open Battle Plan Orbs
+ID_QU_S1_FREEDOMFIGHTERS,Battle in Blitz
+ID_QU_S2_FREEDOMFIGHTERS,Blitz with Union Jack
+ID_QU_S3_FREEDOMFIGHTERS,Blitz with Bucky Barnes
+ID_QU_S4_FREEDOMFIGHTERS,Blitz with Captain America [WWII]
+ID_QU_S5_FREEDOMFIGHTERS,Blitz with Nick Fury
+ID_QU_S6_FREEDOMFIGHTERS,Open Battle Plan Orbs
+ID_QU_S7_FREEDOMFIGHTERS,Use Power Cores
+ID_QU_NA_FREEDOMFIGHTERSWEB,Generations Collide
+ID_QU_SD_FREEDOMFIGHTERSWEB,Earn Blitz Credits
+ID_QU_LD_FREEDOMFIGHTERSWEB,"Earn Blitz Credits to complete a 4-day milestone that rewards Catalyst Parts, Teal Gear, and Elite 4 Credits."
+ID_QU_SM_FREEDOMFIGHTERSWEB,Earn Blitz Credits
+ID_QU_SC_FREEDOMFIGHTERSWEB,Earn Blitz Credits
+ID_QU_S1_FREEDOMFIGHTERSWEB,Earn 1 Blitz Credit
+ID_QU_NA_SPLASH_ARACHNIDASSAULT,Arachnid Assault
+ID_QU_SD_SPLASH_ARACHNIDASSAULT,Use Tangled Web in Blitz
+ID_QU_LM_SPLASH_ARACHNIDASSAULT,Earn points by using Tangled Web characters in Blitz Battles. Earn more points if your Tangled Web characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_ARACHNIDASSAULT,Use Tangled Web Characters in Blitz
+ID_QU_S1_SPLASH_ARACHNIDASSAULT,Win Blitz with 3-star or higher Tangled Web Character
+ID_QU_S2_SPLASH_ARACHNIDASSAULT,Win Blitz with 5-star or higher Tangled Web Character
+ID_QU_S3_SPLASH_ARACHNIDASSAULT,Win Blitz with 7-star Tangled Web Character
+ID_QU_NA_SPLASH_DEATHSIEGE,Death Siege
+ID_QU_SD_SPLASH_DEATHSIEGE,Use Death Seed in Blitz
+ID_QU_LM_SPLASH_DEATHSIEGE,Earn points by using Death Seed characters in Blitz Battles. Earn more points if your Death Seed characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_DEATHSIEGE,Use Death Seed Characters in Blitz
+ID_QU_S1_SPLASH_DEATHSIEGE,Win Blitz with 3-star or higher Death Seed Character
+ID_QU_S2_SPLASH_DEATHSIEGE,Win Blitz with 5-star or higher Death Seed Character
+ID_QU_S3_SPLASH_DEATHSIEGE,Win Blitz with 7-star Death Seed Character
+ID_QU_NA_SPLASH_WEAPONIZEDWATCHERS,Weaponized Watchers
+ID_QU_SD_SPLASH_WEAPONIZEDWATCHERS,Use Infinity Watch in Blitz
+ID_QU_LM_SPLASH_WEAPONIZEDWATCHERS,Earn points by using Infinity Watch characters in Blitz Battles. Earn more points if your Infinity Watch characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_WEAPONIZEDWATCHERS,Use Infinity Watch Characters in Blitz
+ID_QU_S1_SPLASH_WEAPONIZEDWATCHERS,Win Blitz with 3-star or higher Infinity Watch Character
+ID_QU_S2_SPLASH_WEAPONIZEDWATCHERS,Win Blitz with 5-star or higher Infinity Watch Character
+ID_QU_S3_SPLASH_WEAPONIZEDWATCHERS,Win Blitz with 7-star Infinity Watch Character
+ID_QU_NA_SPLASH_BIONICBARRAGE,Bionic Barrage
+ID_QU_SD_SPLASH_BIONICBARRAGE,Use Bionic Avenger in Blitz
+ID_QU_LM_SPLASH_BIONICBARRAGE,Earn points by using Bionic Avenger characters in Blitz Battles. Earn more points if your Bionic Avenger characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_BIONICBARRAGE,Use Bionic Avenger Characters in Blitz
+ID_QU_S1_SPLASH_BIONICBARRAGE,Win Blitz with 3-star or higher Bionic Avenger Character
+ID_QU_S2_SPLASH_BIONICBARRAGE,Win Blitz with 5-star or higher Bionic Avenger Character
+ID_QU_S3_SPLASH_BIONICBARRAGE,Win Blitz with 7-star Bionic Avenger Character
+ID_QU_NA_SPLASH_NEWRECRUITS,New Recruits
+ID_QU_SD_SPLASH_NEWRECRUITS,Use New Warriors in Blitz
+ID_QU_LM_SPLASH_NEWRECRUITS,Earn points by using New Warriors characters in Blitz Battles. Earn more points if your New Warriors characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_NEWRECRUITS,Use New Warriors Characters in Blitz
+ID_QU_S1_SPLASH_NEWRECRUITS,Win Blitz with 3-star or higher New Warriors Character
+ID_QU_S2_SPLASH_NEWRECRUITS,Win Blitz with 5-star or higher New Warriors Character
+ID_QU_S3_SPLASH_NEWRECRUITS,Win Blitz with 7-star New Warriors Character
+ID_QU_NA_APRILFOOLS2023_EVENT,Breakfast of Commanders
+ID_QU_SD_APRILFOOLS2023_EVENT,Battle the forces of hunger!
+ID_QU_LM_APRILFOOLS2023_EVENT,"Celebrate the launch of <color=#fff568>S.T.R.I.K.E. Os</color> and join us in the fight against breakfast indecision! Today only, collect the limited-time cereal currency throughout the game to earn nutritious rewards!"
+ID_QU_SM_APRILFOOLS2023_EVENT,Celebrate the launch of S.T.R.I.K.E. Os!
+ID_QU_SC_APRILFOOLS2023_EVENT,Collect Os
+ID_QU_S1_APRILFOOLS2023_EVENT,Collect 1 S.T.R.I.K.E. Os
+ID_QU_S2_APRILFOOLS2023_EVENT,Collect 1 Cereal
