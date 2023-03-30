@@ -927,9 +927,16 @@ ID_SEC_INCURSION01_NAME,Star-Spangled Man
 ID_SEC_INCURSION01_DESC,Interdimensional rifts have begun to mysteriously form across Nexus. Join forces with Captain Carter and the Rebirth team to investigate.
 ID_SEC_CHANCE_INCURSION01,Prelude to Incursion I
 ID_EVENT_INCURSION01_DIF1_FLAVOR,Meet Captain America (WWII)!
-ID_EVENT_INCURSION01_DIF1_DESC,REQUIRED: Rebirth Characters.\n\nCaptain America (WWII) will join your team for every battle!
+ID_EVENT_INCURSION01_DIF1_DESC,Use only Rebirth or Invader Characters.\n\nCaptain America (WWII) will join your team for every battle!
 ID_EVENT_INCURSION01_DIF2_FLAVOR,Earn amazing rewards!
 ID_EVENT_INCURSION01_DIF2_DESC,REQUIRED: Captain America (WWII)\n\nUse only: Invaders or Rebirth characters. All characters must be at Gear Tier 13
+ID_SEC_INCURSION02_NAME,Rule Britannia
+ID_SEC_INCURSION02_DESC,Another rift has been detected. Rescue Union Jack from A.I.M. and take down the mad scientist behind their evil plans!
+ID_SEC_CHANCE_INCURSION02,Prelude to Incursion II
+ID_EVENT_INCURSION02_DIF1_FLAVOR,Meet Union Jack!
+ID_EVENT_INCURSION02_DIF1_DESC,REQUIRED: Rebirth Characters.\n\nUnion Jack will join your team for every battle!
+ID_EVENT_INCURSION02_DIF2_FLAVOR,Earn amazing rewards!
+ID_EVENT_INCURSION02_DIF2_DESC,"REQUIRED: Captain America (WWII), Union Jack at Gear Tier 13\n\nUse only: Invaders or Rebirth characters. All characters must be at Gear Tier 13"
 ID_SEC_INCURSION03_NAME,A Guy from Brooklyn
 ID_SEC_INCURSION03_DESC,The forces behind the Incursion are beginning to show themselves. Help Bucky Barnes and his allies face these deadly foes!
 ID_SEC_CHANCE_INCURSION03,Prelude to Incursion III
@@ -937,6 +944,13 @@ ID_EVENT_INCURSION03_DIF1_FLAVOR,Meet Bucky Barnes!
 ID_EVENT_INCURSION03_DIF1_DESC,REQUIRED: Rebirth Characters.\n\nBucky Barnes will join your team for every battle!
 ID_EVENT_INCURSION03_DIF2_FLAVOR,Earn amazing rewards!
 ID_EVENT_INCURSION03_DIF2_DESC,"REQUIRED: Captain America (WWII), Union Jack, Bucky Barnes at Gear Tier 13\n\nUse only: Invaders or Rebirth characters. All characters must be at Gear Tier 13"
+ID_SEC_INCURSION04_NAME,"Hand, Meet Fist"
+ID_SEC_INCURSION04_DESC,The last Invader emerges from a rift in New York and immediately runs into some famillair enemies. Join forces with Iron Fist (WWII) and take out the trash!
+ID_SEC_CHANCE_INCURSION04,Prelude to Incursion IV
+ID_EVENT_INCURSION04_DIF1_FLAVOR,Meet Iron Fist WW2!
+ID_EVENT_INCURSION04_DIF1_DESC,REQUIRED: Rebirth Characters.\n\nIron Fist (WW2) will join your team for every battle!
+ID_EVENT_INCURSION04_DIF2_FLAVOR,Earn amazing rewards!
+ID_EVENT_INCURSION04_DIF2_DESC,"REQUIRED: Captain America (WWII), Union Jack, Bucky Barnes, & Iron First (WWII) at Gear Tier 13\n\nUse only: Invaders or Rebirth characters. All characters must be at Gear Tier 13"
 ID_SEC_INCURSION05_NAME,Incursion: Invaders
 ID_SEC_INCURSION05_DESC,"Gather a full team of Invaders to hunt down a dangerous foe, and dig deeper into the mystery of who is behind the Incursion threatening to destroy Nexus Earth."
 ID_SEC_CHANCE_INCURSION05,Prelude to Incursion V
