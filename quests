@@ -2625,8 +2625,30 @@ ID_QU_S2_SPLASH_NEWRECRUITS,Win Blitz with 5-star or higher New Warriors Charact
 ID_QU_S3_SPLASH_NEWRECRUITS,Win Blitz with 7-star New Warriors Character
 ID_QU_NA_APRILFOOLS2023_EVENT,Breakfast of Commanders
 ID_QU_SD_APRILFOOLS2023_EVENT,Battle the forces of hunger!
-ID_QU_LM_APRILFOOLS2023_EVENT,"Celebrate the launch of <color=#fff568>S.T.R.I.K.E. Os</color> and join us in the fight against breakfast indecision! Today only, collect the limited-time cereal currency throughout the game to earn nutritious rewards!"
+ID_QU_LM_APRILFOOLS2023_EVENT,"Celebrate the launch of S.T.R.I.K.E. Os and join us in the fight against breakfast indecision! Today only, collect the limited-time cereal currency throughout the game to earn nutritious rewards!"
 ID_QU_SM_APRILFOOLS2023_EVENT,Celebrate the launch of S.T.R.I.K.E. Os!
 ID_QU_SC_APRILFOOLS2023_EVENT,Collect Os
 ID_QU_S1_APRILFOOLS2023_EVENT,Collect 1 S.T.R.I.K.E. Os
 ID_QU_S2_APRILFOOLS2023_EVENT,Collect 1 Cereal
+ID_QU_NA_MASTERSOFJUDGMENT,Masters of Judgment
+ID_QU_SD_MASTERSOFJUDGMENT,Be victorious in Cosmic Crucible!
+ID_QU_LM_MASTERSOFJUDGMENT,"Gain progress in this 3-day Alliance event by winning Cosmic Crucible battles (with bonuses for using Masters of Evil).\n\nEarn valuable rewards including Dark Promotion Credits, Teal Gear Raid Orbs, and Origin Gear. You'll also earn points towards the month-long Royal Soldier milestone by collecting Victory Flags."
+ID_QU_SM_MASTERSOFJUDGMENT,Win Cosmic Crucible battles with Masters of Evil
+ID_QU_S1_MASTERSOFJUDGMENT,Win a Cosmic Crucible battle
+ID_QU_S2_MASTERSOFJUDGMENT,Win a Cosmic Crucible battle with Masters of Evil
+ID_QU_NA_BROTHERINARMS,Brother In Arms
+ID_QU_SD_BROTHERINARMS,Recruit Bucky Barnes!
+ID_QU_LM_BROTHERINARMS,"Bolster your Skill Raid team with this 7-day event!\n\nGain progress by battling in Raids (with bonuses for using Invaders), spending Campaign Energy, and opening Training Orbs.\n\nEarn valuable milestone rewards including Bucky Barnes shards, Teal Gear, and a 5-Red Star Nick Fury, as well as Royal Soldier progress with the Webley Revolver and Victory Flags.\n\nFinally, climb the ranks of the Leaderboard for T2 Level 5 Ions and more Bucky Barnes shards!"
+ID_QU_SM_BROTHERINARMS,"Raids, Spend Energy, open Training Orbs"
+ID_QU_S1_BROTHERINARMS,Raid Battle
+ID_QU_S2_BROTHERINARMS,Raid Battle with Invaders
+ID_QU_S3_BROTHERINARMS,Play 1 Raid Battle with Iron Fist [WWII]
+ID_QU_S4_BROTHERINARMS,Open 1 Training Orb
+ID_QU_S5_BROTHERINARMS,Spend 1 Campaign Energy
+ID_QU_NA_CYBERWARFARE,Cyber Warfare
+ID_QU_SD_CYBERWARFARE,"Destroy your enemies in Alliance War to earn Gold, Teal Gear and more!"
+ID_QU_LM_CYBERWARFARE,"Destroy your enemies in Alliance War to earn Gold, Teal Gear and more!"
+ID_QU_SM_CYBERWARFARE,Earn War Credits and Use Defense Boosts
+ID_QU_SC_CYBERWARFARE,Earn War Credits and Use Defense Boosts
+ID_QU_S1_CYBERWARFARE,Earn 1 War Credit
+ID_QU_S2_CYBERWARFARE,Use 1 Defense Boost in Alliance War

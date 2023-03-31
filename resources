@@ -191,8 +191,8 @@ ID_EVENT_CUR10_NAME,Evil Invasion Milestone Points
 ID_EVENT_CUR10_DESCRIPTION,"These points earn you additional progress in the Evil Invasion Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
 ID_EVENT_CUR11_NAME,S.T.R.I.K.E. Os
 ID_EVENT_CUR11_DESCRIPTION,Collect Os to earn nutritious rewards!
-ID_EVENT_CUR12_NAME,Special Offensive Milestone Points
-ID_EVENT_CUR12_DESCRIPTION,These points earn you additional progress in the Special Offensive Milestone. Earn them in Daily Free Claims on our website and in limited offers!
+ID_EVENT_CUR12_NAME,Brother In Arms Milestone Points
+ID_EVENT_CUR12_DESCRIPTION,"These points earn you additional progress in the Brother In Arms Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
 ID_EVENT_CUR13_NAME,To the Moon Milestone Points
 ID_EVENT_CUR13_DESCRIPTION,These points earn you additional progress in the To the Moon Milestone. Earn them in Daily Free Claims on our website and in limited offers!
 ID_EVENT_CUR14_NAME,Nakia's Ring
@@ -265,3 +265,15 @@ ID_EVTA_META_APR_A_NAME,Victory Flag
 ID_EVTA_META_APR_A_DESCRIPTION,Collect Victory Flags for points in the Royal Soldier Event. Earn them in various events throughout the month of April
 ID_EVTA_META_APR_B_NAME,Steel Dagger
 ID_EVTA_META_APR_B_DESCRIPTION,Collect the Steel Dagger for points in the Royal Soldier Event. Earn it in the Angel's Army Event!
+ID_EVTA_META_APR_C_NAME,War Medal
+ID_EVTA_META_APR_C_DESCRIPTION,Collect the War Medal for points in the Royal Soldier Event. Earn it in the Evil Invasion Event!
+ID_EVTA_META_APR_D_NAME,Leather Gloves
+ID_EVTA_META_APR_D_DESCRIPTION,Collect the Leather Gloves for points in the Royal Soldier Event. Earn them in the Freedom Fighters Event!
+ID_EVTA_META_APR_E_NAME,Webley Revolver
+ID_EVTA_META_APR_E_DESCRIPTION,Collect Webley Revolver for points in the Royal Soldier Event. Earn it in the Brother In Arms Event!
+ID_EVTA_META_APR_F_NAME,Tactical Belt
+ID_EVTA_META_APR_F_DESCRIPTION,Collect Tactical Belt for points in the Royal Soldier Event. Earn it in the Shopping Spree Event!
+ID_EVTA_META_APR_G_NAME,Commando Mask
+ID_EVTA_META_APR_G_DESCRIPTION,Collect Commando Mask for points in the Royal Soldier Event. Earn it in the Forces of Nature Event!
+ID_EVTA_META_APR_H_NAME,Union Jacket
+ID_EVTA_META_APR_H_DESCRIPTION,Collect Union Jacket for points in the Royal Soldier Event. Earn it in the Immortal Invader Event!

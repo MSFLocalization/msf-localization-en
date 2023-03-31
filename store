@@ -8347,3 +8347,13 @@ ID_GACHA_CRATE_2023ANNIV_ION_NAME,Ionic Orb
 ID_GACHA_CRATE_2023ANNIV_ION_DESCRIPTION,"Contains T2 L1, L4, and L5 Ions"
 ID_GACHA_CRATE_2023ANNIV_ION_TOKEN_NAME,Ionic Orb Fragments
 ID_GACHA_CRATE_2023ANNIV_ION_TOKEN_DESCRIPTION,Ionic Orb Fragments can be collected from the S.T.R.I.K.E. Salute milestone event.
+ID_OF_NA_IRONFISTORSON_FCO_OFFER,K'un-Lun Commando
+ID_OF_DE_IRONFISTORSON_FCO_OFFER,"Save on <color=#fff568>Immortal Bullet Orbs</color>, each having a chance to earn <color=#fff568>up to 180 Iron Fist (WWII)</color> shards. Sustain <color=#fff568>Invader</color> allies in Raid with Heals, Barrier, and Revive!"
+ID_OF_NA_IRONFISTORSON_WEB_SPECIAL_OFFER,Web Special: Iron Fist (WWII)
+ID_OF_DE_IRONFISTORSON_WEB_SPECIAL_OFFER,"Don't miss this <color=#fff568>Web Special</color> deal for <color=#fff568>Iron Fist (WWII)</color> shards, which unlocks special release offers on your next visit! Sustain <color=#fff568>Invader</color> allies in Raid with Heals, Barrier, and Revive!"
+ID_OF_DE_IRONFISTORSON_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Iron Fist (WWII)</color> and unlock special release offers on your next visit! Sustain <color=#fff568>Invader</color> allies in Raid with Heals, Barrier, and Revive!"
+ID_OF_DE_IRONFISTORSON_OFFER_SHARD,"Power up <color=#fff568>Iron Fist (WWII)</color> with this shard offer! Sustain <color=#fff568>Invader</color> allies in Raid with Heals, Barrier, and Revive!"
+ID_OF_NA_IRONFISTORSON_RS_DRAFT,Red Star Draft: Iron Fist (WWII)
+ID_OF_DE_IRONFISTORSON_RS_DRAFT_345,"Get an equal chance of either <color=#fff568>3, 4, or 5 Red Stars</color> for <color=#fff568>Iron Fist (WWII)</color>. Sustain <color=#fff568>Invader</color> allies in Raid with Heals, Barrier, and Revive!"
+ID_OF_DE_IRONFISTORSON_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, or 6 Red Stars</color> for <color=#fff568>Iron Fist (WWII)</color>. Sustain <color=#fff568>Invader</color> allies in Raid with Heals, Barrier, and Revive!"
+ID_OF_DE_IRONFISTORSON_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Iron Fist (WWII)</color>. Sustain <color=#fff568>Invader</color> allies in Raid with Heals, Barrier, and Revive!"

@@ -5763,7 +5763,7 @@ ID_ME_DE_APRIL_COORDINATED_ASSAULT_ANNOUNCE,Earn Iso-8 Ions and Royal Soldier pr
 ID_ME_BO_APRIL_COORDINATED_ASSAULT_ANNOUNCE,"Commander\n\nSpend Iso-8 Campaign Energy to earn points towards this 7-day Alliance Milestone. Rewards include T2 Level 4 Ions, T2 Level 1 Ions, T1 Ions, and Victory Flags for progress in the month-long Royal Soldier Event.\n\nStock up on Ions and make progress toward Royal Soldier today!\n\nGood luck, Commander!"
 ID_ME_NA_APRIL_COORDINATED_ASSAULT_ENDING,ENDING: Coordinated Assault
 ID_ME_DE_APRIL_COORDINATED_ASSAULT_ENDING,1 day left!
-ID_ME_BO_APRIL_COORDINATED_ASSAULT_ENDING,"Commander,\n\nThe Coordinated Assault Event ends in 1 day. Continue earning Ions and progress towards the Royal Soldier Event with Victory Flagfs before the event ends!\n\nGood luck, Commander!"
+ID_ME_BO_APRIL_COORDINATED_ASSAULT_ENDING,"Commander,\n\nThe Coordinated Assault Event ends in 1 day. Continue earning Ions and progress towards the Royal Soldier Event with Victory Flags before the event ends!\n\nGood luck, Commander!"
 ID_ME_NA_NEWBLOGPOST_033123,A Royal Invasion
 ID_ME_DE_NEWBLOGPOST_033123,New Blog Available
 ID_ME_BO_NEWBLOGPOST_033123,"Commander,\n\nPrepare your roster for a rewards invasion with this week's blog, which includes:\n\n- More details on the month-long Royal Soldier event\n- A returning Scourge Event\n- The Mojo's Mayhem Season 33 featured reward\n\nDon't miss out on this alongside details for Free Claim Friday!"
@@ -5809,3 +5809,30 @@ ID_ME_BO_SPLASH_NEWRECRUITS,"Commander,\n\nFor the next 48 hours, win Blitz batt
 ID_ME_NA_ANGELSARMY_TEASER,Coming Soon: Angel's Army
 ID_ME_DE_ANGELSARMY_TEASER,Earn Death Seed and Bionic Avenger Shards!
 ID_ME_BO_ANGELSARMY_TEASER,"Commander,\n\nBeckon the harbinger of death in the <color=#fff568>Angel's Army Milestone</color>. Earn valuable rewards including <color=#fff568>Death Seed and Bionic Avengers shards, Tech and Mutant Gear, and Stat Catalysts</color>! You'll also earn points in the month-long Royal Soldier Event by collecting Victory Flags and the Steel Dagger.\n\nGain progress in this <color=#fff568>3-day</color> event by collecting Reaper Orb Fragments from Campaign Nodes and earning Blitz Credits.\n\nEach Reaper Orb contains Death Seed, Bionic Avengers, Wakandans, Minions, Non-Legendary Mutants, and Training Materials.\n\nGood luck, Commander!"
+ID_ME_NA_MASTERSOFJUDGMENT_TEASER,Coming Soon: Masters of Judgment Event
+ID_ME_DE_MASTERSOFJUDGMENT_TEASER,Earn Dark Promotion Credits and Royal Soldier Progress!
+ID_ME_BO_MASTERSOFJUDGMENT_TEASER,"Commander,\n\nTest your might in the upcoming <color=#fff568>Masters of Judgment</color> Event!\n\nGain progress in this <color=#fff568>3-day</color> Alliance event by winning Cosmic Crucible battles (with bonuses for using Masters of Evil).\n\nEarn valuable rewards including <color=#fff568>Dark Promotion Credits, Teal Gear Raid Orbs, and Origin Gear</color>. You'll also earn points towards the month-long Royal Soldier milestone by collecting Victory Flags.\n\nThis event arrives soon, so be on the lookout!"
+ID_ME_NA_MASTERSOFJUDGMENT_ANNOUNCE,LIVE: Masters of Judgment
+ID_ME_DE_MASTERSOFJUDGMENT_ANNOUNCE,Earn Dark Promotion Credits and Royal Soldier Progress!
+ID_ME_BO_MASTERSOFJUDGMENT_ANNOUNCE,"Commander,\n\nGain progress in this <color=#fff568>3-day</color> Alliance event by winning Cosmic Crucible battles (with bonuses for using Masters of Evil).\n\nEarn valuable rewards including <color=#fff568>Dark Promotion Credits, Teal Gear Raid Orbs, and Origin Gear</color>. You'll also earn points towards the month-long Royal Soldier milestone by collecting Victory Flags.\n\nGood luck, Commander!"
+ID_ME_NA_MASTERSOFJUDGMENT_ENDING,ENDING: Masters of Judgment
+ID_ME_DE_MASTERSOFJUDGMENT_ENDING,1 day left!
+ID_ME_BO_MASTERSOFJUDGMENT_ENDING,"Commander,\n\nThe Masters of Judgment Event ends in <color=#fff568>1 day</color>. Continue earning Dark Promotion Credits before it's too late!\n\nGood luck, Commander!"
+ID_ME_NA_BROTHERINARMS_TEASER,Coming Soon: Brother In Arms Event
+ID_ME_DE_BROTHERINARMS_TEASER,Recruit Bucky Barnes!
+ID_ME_BO_BROTHERINARMS_TEASER,"Commander,\n\nBolster your Skill Raid team with this 7-day event!\n\nGain progress by battling in Raids (with bonuses for using Invaders), spending Campaign Energy, and opening Training Orbs.\n\nEarn valuable milestone rewards including <color=#fff568>Bucky Barnes shards, Teal Gear, and a 5-Red Star Nick Fury</color>, as well as Royal Soldier progress with the Webley Revolver and Victory Flags.\n\nFinally, climb the ranks of the Leaderboard for T2 Level 5 Ions and more Bucky Barnes shards!\n\nThis event arrives soon, so be on the lookout!"
+ID_ME_NA_BROTHERINARMS_ANNOUNCE,LIVE: Brother In Arms
+ID_ME_DE_BROTHERINARMS_ANNOUNCE,Recruit Bucky Barnes!
+ID_ME_BO_BROTHERINARMS_ANNOUNCE,"Commander,\n\nBolster your Skill Raid team with this 7-day event!\n\nGain progress by battling in Raids (with bonuses for using Invaders), spending Campaign Energy, and opening Training Orbs.\n\nEarn valuable milestone rewards including <color=#fff568>Bucky Barnes shards, Teal Gear, and a 5-Red Star Nick Fury</color>, as well as Royal Soldier progress with the Webley Revolver and Victory Flags.\n\nFinally, climb the ranks of the Leaderboard for T2 Level 5 Ions and more Bucky Barnes shards!\n\nGood luck, Commander!"
+ID_ME_NA_BROTHERINARMS_ENDING,ENDING: Brother In Arms
+ID_ME_DE_BROTHERINARMS_ENDING,1 day left!
+ID_ME_BO_BROTHERINARMS_ENDING,"Commander,\n\nThe Brother In Arms Event ends in <color=#fff568>1 day</color>. Recruit Bucky Barnes before it's too late!\n\nGood luck, Commander!"
+ID_ME_NA_UNIONJACK_SHOWCASE_TEASER,Coming Soon: Rule Britannia
+ID_ME_DE_UNIONJACK_SHOWCASE_TEASER,Union Jack's Showcase
+ID_ME_BO_UNIONJACK_SHOWCASE_TEASER,"Commander,\n\n<color=#fff568>Prepare for the Rule Britannia Showcase Event!</color>\n\nEarn valuable resources and prepare for the Invader Incursion:\n\n<color=#fff568>Requirements</color>\nStory Difficulty - Rebirth or Invader characters. No minimum number of characters required.\n\nChallenge Difficulty - Union Jack, Captain America (WWII), and any combination of 3 Invader or Rebirth characters. All characters used must be equipped with at least Gear Tier 13.\n\n<color=#fff568>Rewards</color>,\nBasic and Premium T1 Iso-8 Orb Fragments, Training Orb Fragments, Purple and Orange Raid Orbs.\n\nPrepare now by recruiting and powering up your Invader characters"
+ID_ME_NA_UNIONJACK_SHOWCASE_LIVE,LIVE: Rule Britannia
+ID_ME_DE_UNIONJACK_SHOWCASE_LIVE,Battle with Union Jack and earn rewards!
+ID_ME_BO_UNIONJACK_SHOWCASE_LIVE,"Commander,\n\n<color=#fff568>The Rule Britannia Showcase Event has begun!</color>\n\nLead Union Jack on a mission to recover valuable resources and rewards:\n\n<color=#fff568>Missions</color>\nRule Britannia has two difficulties: Story and Challenge, each with 8 Missions. Battle through Union Jack's story and earn as many rewards as you can.\n\n<color=#fff568>Requirements</color>\nStory Difficulty - Rebirth or Invader characters. No minimum number of characters required.\n\nChallenge Difficulty - Union Jack, Captain America (WWII), and any combination of 3 Invader or Rebirth characters. All characters used must be equipped with at least Gear Tier 13.\n\n<color=#fff568>Rewards</color>\nBasic and Premium T1 Iso-8 Orb Fragments, Training Orb Fragments, Purple and Orange Raid Orbs.\n\n<color=#fff568>Incursion: Invaders</color>\nContinue to power up your Invader team and prepare them for the upcoming Incursion: Invaders Epic Event!\n\nGood luck, Commander!"
+ID_ME_NA_UNIONJACK_SHOWCASE_ENDING,ENDING: Rule Britannia
+ID_ME_DE_UNIONJACK_SHOWCASE_ENDING,2 Days Left!
+ID_ME_BO_UNIONJACK_SHOWCASE_ENDING,"Commander,\n\nThe Rule Britannia Event ends in 2 days. Continue earning rewards before Union Jack's Showcase ends!\n\nGood luck, Commander!"
