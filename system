@@ -1185,10 +1185,10 @@ ID_REQUIRES_INVADERS_REBIRTH,ONLY <color=#fff568>INVADERS</color> or <color=#fff
 ID_REQUIRES_CAPWWII,Requires: <color=#fff568>CAPTAIN AMERICA (WWII)</color> at Gear Tier 13
 ID_REQUIREMENT_INVADERS_EPIC_PREVIEW_CH,Requires 4 New\n<color=#fff568>INVADERS</color> at Gear Tier 15
 ID_REQUIREMENT_INVADERS_EPIC_PREVIEW_BO,"Requires 5\n<color=#fff568>INVADERS</color> at Gear Tier 15, 5 Stars"
-ID_REQUIREMENT_STAIRSTEP_INVADERS_01,<color=#fff568>Invader</color> or <color=#fff568>Rebirth</color>\n<color=#fff568>Captain America (WW2)</color> is Required
-ID_REQUIREMENT_STAIRSTEP_INVADERS_02,<color=#fff568>Invader</color> or <color=#fff568>Rebirth</color>\n<color=#fff568>Captain America (WW2)</color> & <color=#fff568>Union Jack</color> are Required
-ID_REQUIREMENT_STAIRSTEP_INVADERS_03,"<color=#fff568>Invader</color> or <color=#fff568>Rebirth</color>\n<color=#fff568>Captain America (WW2)</color>, <color=#fff568>Union Jack</color>, & <color=#fff568>Bucky Barnes</color> are Required"
-ID_REQUIREMENT_STAIRSTEP_INVADERS_04,"<color=#fff568>Invader</color> or <color=#fff568>Rebirth</color>\n<color=#fff568>Captain America (WW2)</color>, <color=#fff568>Union Jack</color>, <color=#fff568>Bucky Barnes</color>, & <color=#fff568>Iron Fist (WW2)</color> are Required"
+ID_REQUIREMENT_STAIRSTEP_INVADERS_01,<color=#fff568>Invader</color> or <color=#fff568>Rebirth</color>\n<color=#fff568>Captain America (WWII)</color> is Required
+ID_REQUIREMENT_STAIRSTEP_INVADERS_02,<color=#fff568>Invader</color> or <color=#fff568>Rebirth</color>\n<color=#fff568>Captain America (WWII)</color> & <color=#fff568>Union Jack</color> are Required
+ID_REQUIREMENT_STAIRSTEP_INVADERS_03,"<color=#fff568>Invader</color> or <color=#fff568>Rebirth</color>\n<color=#fff568>Captain America (WWII)</color>, <color=#fff568>Union Jack</color>, & <color=#fff568>Bucky Barnes</color> are Required"
+ID_REQUIREMENT_STAIRSTEP_INVADERS_04,"<color=#fff568>Invader</color> or <color=#fff568>Rebirth</color>\n<color=#fff568>Captain America (WWII)</color>, <color=#fff568>Union Jack</color>, <color=#fff568>Bucky Barnes</color>, & <color=#fff568>Iron Fist (WWII)</color> are Required"
 ID_REQUIREMENT_STAIRSTEP_INVADERS_05," 5 <color=#fff568>Invader</color> characters"
-ID_REQUIREMENT_INVADERS_CHALLENGE,Characters must be at <color=#ffa500>Gear 13</color>+
-ID_REQUIREMENT_INVADERS_EPIC,Characters must be at <color=#ffa500>Gear 15</color>+
+ID_REQUIREMENT_INVADERS_CHALLENGE,Characters must be at <color=#ffa500>Gear Tier 13</color>+
+ID_REQUIREMENT_INVADERS_EPIC,Characters must be at <color=#ffa500>Gear Tier 15</color>+

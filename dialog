@@ -3420,127 +3420,6 @@ ID_DIALOG_DOOM_4_09_END_7,Nexus Earth is returned to its rightful place. With no
 ID_DIALOG_DOOM_4_09_END_8,Are you telling me we did it?\nWe're safe?
 ID_DIALOG_DOOM_4_09_END_9,"Possibly. But to return home, we had to open a door. If Dormammu went through it..."
 ID_DIALOG_DOOM_4_09_END_10,"It could be the end of everything. "
-ID_DIALOG_SEC_CAPWW2_01_INTRO_0,"S.T.R.I.K.E. Commander, good to finally meet you. The name's Carter. Captain Carter."
-ID_DIALOG_SEC_CAPWW2_01_INTRO_1,Fury tells me you're the one who runs point on multiversal events?
-ID_DIALOG_SEC_CAPWW2_01_INTRO_2,"Well, as you might have guessed, I'm not from around here. And I'm not the only one."
-ID_DIALOG_SEC_CAPWW2_01_INTRO_3,"Director Fury, do you want to chime in and bring the Commander up to speed?"
-ID_DIALOG_SEC_CAPWW2_01_INTRO_4,"Thanks, Captain. Commander, as you know, our world has had its fair share of problems with visitors from other realities."
-ID_DIALOG_SEC_CAPWW2_01_INTRO_5,"Ultimus opened a door, and though you managed to stop him, that business with Doom blew that door off its hinges."
-ID_DIALOG_SEC_CAPWW2_01_INTRO_6,What we're dealing with now is the start of what I'm told is called an Incursion. Captain Carter here is only the beginning.
-ID_DIALOG_SEC_CAPWW2_01_INTRO_7,"Before now, we were getting variants of heroes and villains from different realities that were pretty darn close to what we're used to."
-ID_DIALOG_SEC_CAPWW2_01_INTRO_8,Now I'm told that we're going to be seeing a lot of strange things and people we've never encountered.
-ID_DIALOG_SEC_CAPWW2_01_INTRO_9,"So I'm giving you a new mission, Commander. Together with the heroes from Project Rebirth, I want you to track down any new visitors."
-ID_DIALOG_SEC_CAPWW2_01_INTRO_10,"If they're friendly, try to recruit them. If they're unfriendly… well, you know what to do."
-ID_DIALOG_SEC_CAPWW2_01_INTRO_11,"Good luck, Commander."
-ID_DIALOG_SEC_CAPWW2_01_START_0,<color=#fff568>Captain America (WWII)</color> is a variant of Steve Rogers from another reality.
-ID_DIALOG_SEC_CAPWW2_01_START_1,He and other <color=#fff568>Invader</color> characters are a powerful <color=#fff568>Skill</color> origin raid team.
-ID_DIALOG_SEC_CAPWW2_01_START_2,Use his <color=#fff568>Special Ability</color> to flip all negative effects for himself and <color=#fff568>Invader</color> allies.
-ID_DIALOG_SEC_CAPWW2_01_START_3,Use his <color=#fff568>Ultimate Ability</color> to attack all enemies and apply <color=#fff568>Offense Down</color> and clear <color=#fff568>Defense Up</color>.
-ID_DIALOG_SEC_CAPWW2_02_INTRO_0,We're getting reports of strange activity in this area that may be connected to the Incursion.
-ID_DIALOG_SEC_CAPWW2_02_INTRO_1,"Wait, is that... it can't be!"
-ID_DIALOG_SEC_CAPWW2_02_INTRO_2,Peggy? Is that you?
-ID_DIALOG_SEC_CAPWW2_02_INTRO_3,"Steve! Oh gods, it had to be you for our first mission didn't it? It's me, Steve, but I'm not the Peggy Carter you know."
-ID_DIALOG_SEC_CAPWW2_02_INTRO_4,"Aww what a touchin' reunion. Almost makes me all weepy. You'll surrender if ya know what's good for ya, loves."
-ID_DIALOG_SEC_CAPWW2_02_END_0,Who or what was that? What is going on? Why can't I raise Allied Command on my radio?
-ID_DIALOG_SEC_CAPWW2_02_END_1,"Steve, you've been pulled across universes, you're not in your world anymore."
-ID_DIALOG_SEC_CAPWW2_02_END_2,"Across... universes? Is this some kind of Hydra trick? Who are you, really?"
-ID_DIALOG_SEC_CAPWW2_02_END_3,"Stand down, soldier. Captain Carter is the real deal. Holster that weapon, and we'll fill you in."
-ID_DIALOG_SEC_CAPWW2_03_INTRO_0,"So let me see if I got this right: the war is over, we won, and now it's decades later and I'm in another reality?"
-ID_DIALOG_SEC_CAPWW2_03_INTRO_1,"Our war was won at great cost, but yours may still be going. At least in your universe."
-ID_DIALOG_SEC_CAPWW2_03_INTRO_2,"Then how do I get back? The Allies and my team need me. Bucky, Jack, Orson... we were in the middle of a battle."
-ID_DIALOG_SEC_CAPWW2_03_INTRO_3,"If they were with you, they were probably pulled into the rift as well. Once we get to safety, we can look for them."
-ID_DIALOG_SEC_CAPWW2_03_END_0,I feel like a man out of time. These enemies are like nothing I've fought before. And their eyes... why do they all glow?
-ID_DIALOG_SEC_CAPWW2_03_END_1,"That's more difficult to explain, but they're from other universes too. This world, Nexus, has had its share of troubles."
-ID_DIALOG_SEC_CAPWW2_05_INTRO_0,Steve.
-ID_DIALOG_SEC_CAPWW2_05_INTRO_1,Yeah?
-ID_DIALOG_SEC_CAPWW2_05_INTRO_2,New Steve.
-ID_DIALOG_SEC_CAPWW2_05_INTRO_3,"Do I know you, soldier?"
-ID_DIALOG_SEC_CAPWW2_05_INTRO_4,In a manner of speaking. Who did you say you were fighting with when you got sucked to this world?
-ID_DIALOG_SEC_CAPWW2_05_INTRO_5,"A Brit called Union Jack, a crack shot named Orson Randall, and my best friend Bucky Barnes."
-ID_DIALOG_SEC_CAPWW2_05_INTRO_6,...
-ID_DIALOG_SEC_CAPWW2_05_END_0,"New Steve, you should probably know..."
-ID_DIALOG_SEC_CAPWW2_05_END_1,"You're Bucky from this world, aren't you?"
-ID_DIALOG_SEC_CAPWW2_05_END_2,How did you know?
-ID_DIALOG_SEC_CAPWW2_05_END_3,What kind of best friend would I be if I didn't?
-ID_DIALOG_SEC_CAPWW2_05_END_4,"Told ya, Buck. That'll be $5."
-ID_DIALOG_SEC_CAPWW2_06_INTRO_0,Why are there so many enemies coming after us? Is there a war going on in this world?
-ID_DIALOG_SEC_CAPWW2_06_INTRO_1,"Not exactly. When Ultimus was defeated, his control over his forces was broken, but they're still around."
-ID_DIALOG_SEC_CAPWW2_06_INTRO_2,He supposedly conquered hundreds of realities. And one of the standing orders he implanted was to investigate rifts and rift travelers.
-ID_DIALOG_SEC_CAPWW2_06_INTRO_3,"So to them, until you've been here awhile, you're like a bright shining beacon they feel compelled to investigate."
-ID_DIALOG_SEC_CAPWW2_06_INTRO_4,"That's fine, I can do this all day."
-ID_DIALOG_SEC_CAPWW2_06_END_0,"So what's the plan, Peggy?"
-ID_DIALOG_SEC_CAPWW2_06_END_1,"Once we get to safety we'll start looking for any more interdimensional rifts, and hopefully we'll find your team."
-ID_DIALOG_SEC_CAPWW2_06_END_2,"After that, we'll take you to meet our Commander, and I'm sure he'll be able to help you."
-ID_DIALOG_SEC_CAPWW2_08_START_0,"Something's different about these enemies, everyone watch your six."
-ID_DIALOG_SEC_CAPWW2_08_MID_0,"Uh, Peggy? What's with the ominous look to that one?"
-ID_DIALOG_SEC_CAPWW2_08_MID_1,I don't know. Let's find out.
-ID_DIALOG_SEC_CAPWW2_08_MID_2,Look at all this misplaced rift trash. You've been running long enough.
-ID_DIALOG_SEC_CAPWW2_08_MID_3,"You can't be allowed to interefere with our plans. Time to die, heroes."
-ID_DIALOG_SEC_CAPWW2_08_END_0,You think you've won? I'm only the first of many...
-ID_DIALOG_SEC_CAPWW2_08_END_1,You can't stop... what's coming...
-ID_DIALOG_SEC_CAPWW2_08_END_2,That definitely wasn't one of Ultimus' leftovers.
-ID_DIALOG_SEC_CAPWW2_08_END_3,"I'll put it in the report. In the meantime, let's see if we can find the rest of Steve's team."
-ID_DIALOG_SEC_CAPWW2_08_END_4,"And Steve... I know this isn't the battle you signed up for, but I know there's nobody else we'd rather be in this fight with."
-ID_DIALOG_SEC_CAPWW2_08_END_5,"When this is all over, I promise I'll help you and your team find your way back home."
-ID_DIALOG_SEC_BUCKY_01_INTRO_0,"""Mr. Walker, report."""
-ID_DIALOG_SEC_BUCKY_01_INTRO_1,"""Captain, the tech we nabbed from A.I.M. was definitely derived from Ultimus' alien tech."""
-ID_DIALOG_SEC_BUCKY_01_INTRO_2,"""The science division is still working on it, but we have a pretty substantial breakthrough already: A.I.M developed a rift tracker."""
-ID_DIALOG_SEC_BUCKY_01_INTRO_3,"""Can we make use of it to find the rest of Captain Rogers' team?"""
-ID_DIALOG_SEC_BUCKY_01_INTRO_4,"""Yes, ma'am. We've already got a solid probable location on the next rift."""
-ID_DIALOG_SEC_BUCKY_01_INTRO_5,"""You heard the man, team. Kit up!"""
-ID_DIALOG_SEC_BUCKY_01_START_0,"""This is Bucky Barnes, a member of the Invaders from another reality."""
-ID_DIALOG_SEC_BUCKY_01_START_1,He and other <color=#fff568>Invader</color> characters are a powerful <color=#fff568>Skill</color> origin raid team.
-ID_DIALOG_SEC_BUCKY_01_START_2,Use his <color=#fff568>Special Ability</color> to apply <color=#fff568>Offense Up</color> to all <color=#fff568>Invader</color> allies.
-ID_DIALOG_SEC_BUCKY_01_START_3,Use his <color=#fff568>Ultimate Ability</color> to make an unavoidable piercing attack which chains for each <color=#fff568>charge</color>.
-ID_DIALOG_SEC_BUCKY_01_MIDA_0,"""There will be no escape this time. The mutant failed. I will not."""
-ID_DIALOG_SEC_BUCKY_01_MIDA_1,"""What the... woah, big fella. I don't want any trouble. If you could just point me towards the war... I seem to have gotten a bit lost."""
-ID_DIALOG_SEC_BUCKY_01_MIDA_2,"""Your war is over."""
-ID_DIALOG_SEC_BUCKY_01_MIDB_0,"""Get away from my friend, pal."""
-ID_DIALOG_SEC_BUCKY_01_MIDB_1,"""Steve! About time you showed up."""
-ID_DIALOG_SEC_BUCKY_01_MIDB_2,"""I wouldn't want you to have all the fun."""
-ID_DIALOG_SEC_BUCKY_01_MIDB_3,"""You know me, always at the center of the action."""
-ID_DIALOG_SEC_BUCKY_01_MIDB_4,"""Ahh, the other one that got away. Good. I will bring both of your skulls to the king."""
-ID_DIALOG_SEC_BUCKY_01_END_0,"""So, what did we get ourselves into this time?"""
-ID_DIALOG_SEC_BUCKY_01_END_1,"""High stakes, fate of the world sort of stuff. You know, the usual."""
-ID_DIALOG_SEC_BUCKY_01_END_2,"""And I suppose it has something to do with that wall of meat we just knocked out?"""
-ID_DIALOG_SEC_BUCKY_01_END_3,"""Yeah. I got some friends for you to meet, Buck. There's a lot to catch you up on."""
-ID_DIALOG_SEC_BUCKY_02_START_0,"""Bucky Barnes, I'd like you to meet Captain Carter and her team. They helped Union Jack and I when we landed here."""
-ID_DIALOG_SEC_BUCKY_02_START_1,"""Ma'am. You're a bit... taller than the Margaret Carter I know. Steve says you're not her though?"""
-ID_DIALOG_SEC_BUCKY_02_START_2,"""Spot on, Mr. Barnes. We'll have time to bring you fully up to speed later. Right now, we fight."""
-ID_DIALOG_SEC_BUCKY_02_END_0,"""The red eyes really creep me out. Why do they attack us?"""
-ID_DIALOG_SEC_BUCKY_02_END_1,"""Residual mind control, I'm afraid. The one who used to give the orders is gone, so they are carrying out their basic instructions."""
-ID_DIALOG_SEC_BUCKY_02_END_2,"""And their basic instructions includes specifically attacking ME?"""
-ID_DIALOG_SEC_BUCKY_02_END_3,"""Not you exactly. When you fall through a rift, you have a kind of scent they are attracted to for awhile."""
-ID_DIALOG_SEC_BUCKY_02_END_4,"""From what I was told, their old boss didn't want any competition. He had all his brainwashed forces actively on watch for other travelers."""
-ID_DIALOG_SEC_BUCKY_04_START_0,"""Who is this ""old boss"" you keep talking about that was mind controlling all these people?"""
-ID_DIALOG_SEC_BUCKY_04_START_1,"""It's hard to explain, and I don't really understand it myself."""
-ID_DIALOG_SEC_BUCKY_04_START_2,"""Once we've rounded up your full team, I'll take you to meet my C.O. and you can ask him. He's from this world. He can explain it all."""
-ID_DIALOG_SEC_BUCKY_04_END_0,"""Really working up a sweat here."""
-ID_DIALOG_SEC_BUCKY_04_END_1,"""Push through. You're stronger than you know."""
-ID_DIALOG_SEC_BUCKY_04_END_2,"""Woah, it speaks. And sounds... kinda familiar. Do I know you?"""
-ID_DIALOG_SEC_BUCKY_04_END_3,"""No. If you're lucky, you never will."""
-ID_DIALOG_SEC_BUCKY_05_START_0,"""You were a bit harsh on Bucky."""
-ID_DIALOG_SEC_BUCKY_05_START_1,"""Seeing him reminds me of someone I barely remember. It brings back a lot- most of it bad."""
-ID_DIALOG_SEC_BUCKY_05_START_2,"""What, like that time Linda Goldstein threw her popcorn in your face at Coney Island?"""
-ID_DIALOG_SEC_BUCKY_05_START_3,"""Heh. I'd forgotten about that."""
-ID_DIALOG_SEC_BUCKY_05_END_0,"""As much as that other Bucky is you, he isn't. Same for the other Steve Rogers."""
-ID_DIALOG_SEC_BUCKY_05_END_1,"""We're men out of time, Buck. Just like them. Hell, we might be the only two guys on Earth who can relate to what they're going through."""
-ID_DIALOG_SEC_BUCKY_05_END_2,"""You're right. What worries me is WHY they're here. We both know this is only the beginning. Something bad is coming. I feel it."""
-ID_DIALOG_SEC_BUCKY_05_END_3,"""Me too, Buck. But at least when it finally goes down, we know who we'll be standing next to on the line."""
-ID_DIALOG_SEC_BUCKY_05_END_4,"""What worries me isn't who we'll be next to, but who we'll be across from."""
-ID_DIALOG_SEC_BUCKY_08_START_0,"""Stop, rift travelers. You go no further."""
-ID_DIALOG_SEC_BUCKY_08_START_1,"""And you are?"""
-ID_DIALOG_SEC_BUCKY_08_START_2,"""All you need to know is my king demands the heads of all the new visitors. We can do this the easy way, or the hard way."""
-ID_DIALOG_SEC_BUCKY_08_START_3,"""Right back at you."""
-ID_DIALOG_SEC_BUCKY_08_MID_0,"""Vibranium shields? My king was wise to target you. Come, let us end this. """
-ID_DIALOG_SEC_BUCKY_08_END_0,"""More talk of a ""king"". And variant or not, that was definitely Okoye, Shuri, and Nakia from Wakanda."""
-ID_DIALOG_SEC_BUCKY_08_END_1,"""What's a Wakanda?"""
-ID_DIALOG_SEC_BUCKY_08_END_2,"""A good question for another time. My concern is I know who the king of Wakanda is in our world."""
-ID_DIALOG_SEC_BUCKY_08_END_3,"""He's one of the wisest, strongest, and most noble men I've ever met. And if he's been corrupted in his world..."""
-ID_DIALOG_SEC_BUCKY_08_END_4,"""Then whoever is pulling the strings must be very powerful."""
-ID_DIALOG_SEC_BUCKY_08_END_5,"""Yeah."""
-ID_DIALOG_SEC_BUCKY_08_END_6,"""Sounds to me like you guys could use a few new allies."""
-ID_DIALOG_SEC_BUCKY_08_END_7,"""You know, Buck, I think they just might."""
 ID_DIALOG_ECM_ANTMAN_01_INTRO_0,"Ant-Man, S.T.R.I.K.E. needs your help."
 ID_DIALOG_ECM_ANTMAN_01_INTRO_1,"Wow, me? Seriously? What do you need me to steal?"
 ID_DIALOG_ECM_ANTMAN_01_INTRO_2,Nothing. We need a different set of skills this time around.
@@ -5358,6 +5237,127 @@ ID_DIALOG_ECM_APOCALYPSE_08_END_1,My lord... It is done... The portal has been o
 ID_DIALOG_ECM_APOCALYPSE_08_END_2,"And now you have brought my perfect soldiers to me. A world I've conquered, conquering this new one!"
 ID_DIALOG_ECM_APOCALYPSE_08_END_3,"We shall cover the Earth, and no one shall stand in our way!"
 ID_DIALOG_ECM_APOCALYPSE_08_END_4,"To me, my Army of Apocalypse! "
+ID_DIALOG_SEC_CAPWW2_01_INTRO_0,"S.T.R.I.K.E. Commander, good to finally meet you. The name's Carter. Captain Carter."
+ID_DIALOG_SEC_CAPWW2_01_INTRO_1,Fury tells me you're the one who runs point on multiversal events?
+ID_DIALOG_SEC_CAPWW2_01_INTRO_2,"Well, as you might have guessed, I'm not from around here. And I'm not the only one."
+ID_DIALOG_SEC_CAPWW2_01_INTRO_3,"Director Fury, do you want to chime in and bring the Commander up to speed?"
+ID_DIALOG_SEC_CAPWW2_01_INTRO_4,"Thanks, Captain. Commander, as you know, our world has had its fair share of problems with visitors from other realities."
+ID_DIALOG_SEC_CAPWW2_01_INTRO_5,"Ultimus opened a door, and though you managed to stop him, that business with Doom blew that door off its hinges."
+ID_DIALOG_SEC_CAPWW2_01_INTRO_6,What we're dealing with now is the start of what I'm told is called an Incursion. Captain Carter here is only the beginning.
+ID_DIALOG_SEC_CAPWW2_01_INTRO_7,"Before now, we were getting variants of heroes and villains from different realities that were pretty darn close to what we're used to."
+ID_DIALOG_SEC_CAPWW2_01_INTRO_8,Now I'm told that we're going to be seeing a lot of strange things and people we've never encountered.
+ID_DIALOG_SEC_CAPWW2_01_INTRO_9,"So I'm giving you a new mission, Commander. Together with the heroes from Project Rebirth, I want you to track down any new visitors."
+ID_DIALOG_SEC_CAPWW2_01_INTRO_10,"If they're friendly, try to recruit them. If they're unfriendly… well, you know what to do."
+ID_DIALOG_SEC_CAPWW2_01_INTRO_11,"Good luck, Commander."
+ID_DIALOG_SEC_CAPWW2_01_START_0,<color=#fff568>Captain America (WWII)</color> is a variant of Steve Rogers from another reality.
+ID_DIALOG_SEC_CAPWW2_01_START_1,He and other and other <color=#fff568>Invader</color> characters are a  powerful <color=#fff568>Skill</color> origin raid team.
+ID_DIALOG_SEC_CAPWW2_01_START_2,Use his <color=#fff568>Special Ability</color> to flip all negative effects for himself and <color=#fff568>Invader<color=#fff568> allies.
+ID_DIALOG_SEC_CAPWW2_01_START_3,Use his <color=#fff568>Ultimate Ability</color> to attack all enemies and apply <color=#fff568>Offense Down</color> and  clear <color=#fff568>Defense Up</color>.
+ID_DIALOG_SEC_CAPWW2_02_INTRO_0,We're getting reports of strange activity in this area that may be connected to the Incursion.
+ID_DIALOG_SEC_CAPWW2_02_INTRO_1,"Wait, is that... it can't be!"
+ID_DIALOG_SEC_CAPWW2_02_INTRO_2,Peggy? Is that you?
+ID_DIALOG_SEC_CAPWW2_02_INTRO_3,"Steve! Oh gods, it had to be you for our first mission didn't it? It's me, Steve, but I'm not the Peggy Carter you know."
+ID_DIALOG_SEC_CAPWW2_02_INTRO_4,"Aww what a touchin' reunion. Almost makes me all weepy. You'll surrender if ya know what's good for ya, loves."
+ID_DIALOG_SEC_CAPWW2_02_END_0,Who or what was that? What is going on? Why can't I raise Allied Command on my radio?
+ID_DIALOG_SEC_CAPWW2_02_END_1,"Steve, you've been pulled across universes, you're not in your world anymore."
+ID_DIALOG_SEC_CAPWW2_02_END_2,"Across... universes? Is this some kind of Hydra trick? Who are you, really?"
+ID_DIALOG_SEC_CAPWW2_02_END_3,"Stand down, soldier. Captain Carter is the real deal. Holster that weapon, and we'll fill you in."
+ID_DIALOG_SEC_CAPWW2_03_INTRO_0,"So let me see if I got this right: the war is over, we won, and now it's decades later and I'm in another reality?"
+ID_DIALOG_SEC_CAPWW2_03_INTRO_1,"Our war was won at great cost, but yours may still be going. At least in your universe."
+ID_DIALOG_SEC_CAPWW2_03_INTRO_2,"Then how do I get back? The Allies and my team need me. Bucky, Jack, Orson... we were in the middle of a battle."
+ID_DIALOG_SEC_CAPWW2_03_INTRO_3,"If they were with you, they were probably pulled into the rift as well. Once we get to safety, we can look for them."
+ID_DIALOG_SEC_CAPWW2_03_END_0,I feel like a man out of time. These enemies are like nothing I've fought before. And their eyes... why do they all glow?
+ID_DIALOG_SEC_CAPWW2_03_END_1,"That's more difficult to explain, but they're from other universes too. This world, Nexus, has had its share of troubles."
+ID_DIALOG_SEC_CAPWW2_05_INTRO_0,Steve.
+ID_DIALOG_SEC_CAPWW2_05_INTRO_1,Yeah?
+ID_DIALOG_SEC_CAPWW2_05_INTRO_2,New Steve.
+ID_DIALOG_SEC_CAPWW2_05_INTRO_3,"Do I know you, soldier?"
+ID_DIALOG_SEC_CAPWW2_05_INTRO_4,In a manner of speaking. Who did you say you were fighting with when you got sucked to this world?
+ID_DIALOG_SEC_CAPWW2_05_INTRO_5,"A Brit called Union Jack, a crack shot named Orson Randall, and my best friend Bucky Barnes."
+ID_DIALOG_SEC_CAPWW2_05_INTRO_6,...
+ID_DIALOG_SEC_CAPWW2_05_END_0,"New Steve, you should probably know..."
+ID_DIALOG_SEC_CAPWW2_05_END_1,"You're Bucky from this world, aren't you?"
+ID_DIALOG_SEC_CAPWW2_05_END_2,How did you know?
+ID_DIALOG_SEC_CAPWW2_05_END_3,What kind of best friend would I be if I didn't?
+ID_DIALOG_SEC_CAPWW2_05_END_4,"Told ya, Buck. That'll be $5."
+ID_DIALOG_SEC_CAPWW2_06_INTRO_0,Why are there so many enemies coming after us? Is there a war going on in this world?
+ID_DIALOG_SEC_CAPWW2_06_INTRO_1,"Not exactly. When Ultimus was defeated, his control over his forces was broken, but they're still around."
+ID_DIALOG_SEC_CAPWW2_06_INTRO_2,He supposedly conquered hundreds of realities. And one of the standing orders he implanted was to investigate rifts and rift travelers.
+ID_DIALOG_SEC_CAPWW2_06_INTRO_3,"So to them, until you've been here awhile, you're like a bright shining beacon they feel compelled to investigate."
+ID_DIALOG_SEC_CAPWW2_06_INTRO_4,"That's fine, I can do this all day."
+ID_DIALOG_SEC_CAPWW2_06_END_0,"So what's the plan, Peggy?"
+ID_DIALOG_SEC_CAPWW2_06_END_1,"Once we get to safety we'll start looking for any more interdimensional rifts, and hopefully we'll find your team."
+ID_DIALOG_SEC_CAPWW2_06_END_2,"After that, we'll take you to meet our Commander, and I'm sure he'll be able to help you."
+ID_DIALOG_SEC_CAPWW2_08_START_0,"Something's different about these enemies, everyone watch your six."
+ID_DIALOG_SEC_CAPWW2_08_MID_0,"Uh, Peggy? What's with the ominous look to that one?"
+ID_DIALOG_SEC_CAPWW2_08_MID_1,I don't know. Let's find out.
+ID_DIALOG_SEC_CAPWW2_08_MID_2,Look at all this misplaced rift trash. You've been running long enough.
+ID_DIALOG_SEC_CAPWW2_08_MID_3,"You can't be allowed to interefere with our plans. Time to die, heroes."
+ID_DIALOG_SEC_CAPWW2_08_END_0,You think you've won? I'm only the first of many...
+ID_DIALOG_SEC_CAPWW2_08_END_1,You can't stop... what's coming...
+ID_DIALOG_SEC_CAPWW2_08_END_2,That definitely wasn't one of Ultimus' leftovers.
+ID_DIALOG_SEC_CAPWW2_08_END_3,"I'll put it in the report. In the meantime, let's see if we can find the rest of Steve's team."
+ID_DIALOG_SEC_CAPWW2_08_END_4,"And Steve... I know this isn't the battle you signed up for, but I know there's nobody else we'd rather be in this fight with."
+ID_DIALOG_SEC_CAPWW2_08_END_5,"When this is all over, I promise I'll help you and your team find your way back home."
+ID_DIALOG_SEC_BUCKY_01_INTRO_0,"Mr. Walker, report."
+ID_DIALOG_SEC_BUCKY_01_INTRO_1,"Captain, the tech we nabbed from A.I.M. was definitely derived from Ultimus' alien tech."
+ID_DIALOG_SEC_BUCKY_01_INTRO_2,"The science division is still working on it, but we have a pretty substantial breakthrough already: A.I.M developed a rift tracker."
+ID_DIALOG_SEC_BUCKY_01_INTRO_3,Can we make use of it to find the rest of Captain Rogers' team?
+ID_DIALOG_SEC_BUCKY_01_INTRO_4,"Yes, ma'am. We've already got a solid probable location on the next rift."
+ID_DIALOG_SEC_BUCKY_01_INTRO_5,"You heard the man, team. Kit up!"
+ID_DIALOG_SEC_BUCKY_01_START_0,"This is Bucky Barnes, a member of the Invaders from another reality."
+ID_DIALOG_SEC_BUCKY_01_START_1,He and other <color=#fff568>Invader</color> characters are a powerful <color=#fff568>Skill</color> origin raid team.
+ID_DIALOG_SEC_BUCKY_01_START_2,Use his <color=#fff568>Special Ability</color> to apply <color=#fff568>Offense Up</color> to all <color=#fff568>Invader</color> allies.
+ID_DIALOG_SEC_BUCKY_01_START_3,Use his <color=#fff568>Ultimate Ability</color> to make an unavoidable piercing attack which chains for each <color=#fff568>charge</color>.
+ID_DIALOG_SEC_BUCKY_01_MIDA_0,There will be no escape this time. The mutant failed. I will not.
+ID_DIALOG_SEC_BUCKY_01_MIDA_1,"What the... woah, big fella. I don't want any trouble. If you could just point me towards the war... I seem to have gotten a bit lost."
+ID_DIALOG_SEC_BUCKY_01_MIDA_2,Your war is over.
+ID_DIALOG_SEC_BUCKY_01_MIDB_0,"Get away from my friend, pal."
+ID_DIALOG_SEC_BUCKY_01_MIDB_1,Steve! About time you showed up.
+ID_DIALOG_SEC_BUCKY_01_MIDB_2,I wouldn't want you to have all the fun.
+ID_DIALOG_SEC_BUCKY_01_MIDB_3,"You know me, always at the center of the action."
+ID_DIALOG_SEC_BUCKY_01_MIDB_4,"Ahh, the other one that got away. Good. I will bring both of your skulls to the king."
+ID_DIALOG_SEC_BUCKY_01_END_0,"So, what did we get ourselves into this time?"
+ID_DIALOG_SEC_BUCKY_01_END_1,"High stakes, fate of the world sort of stuff. You know, the usual."
+ID_DIALOG_SEC_BUCKY_01_END_2,And I suppose it has something to do with that wall of meat we just knocked out?
+ID_DIALOG_SEC_BUCKY_01_END_3,"Yeah. I got some friends for you to meet, Buck. There's a lot to catch you up on."
+ID_DIALOG_SEC_BUCKY_02_START_0,"Bucky Barnes, I'd like you to meet Captain Carter and her team. They helped Union Jack and I when we landed here."
+ID_DIALOG_SEC_BUCKY_02_START_1,Ma'am. You're a bit... taller than the Margaret Carter I know. Steve says you're not her though?
+ID_DIALOG_SEC_BUCKY_02_START_2,"Spot on, Mr. Barnes. We'll have time to bring you fully up to speed later. Right now, we fight."
+ID_DIALOG_SEC_BUCKY_02_END_0,The red eyes really creep me out. Why do they attack us?
+ID_DIALOG_SEC_BUCKY_02_END_1,"Residual mind control, I'm afraid. The one who used to give the orders is gone, so they are carrying out their basic instructions."
+ID_DIALOG_SEC_BUCKY_02_END_2,And their basic instructions includes specifically attacking ME?
+ID_DIALOG_SEC_BUCKY_02_END_3,"Not you exactly. When you fall through a rift, you have a kind of scent they are attracted to for awhile."
+ID_DIALOG_SEC_BUCKY_02_END_4,"From what I was told, their old boss didn't want any competition. He had all his brainwashed forces actively on watch for other travelers."
+ID_DIALOG_SEC_BUCKY_04_START_0,"Who is this ""old boss"" you keep talking about that was mind controlling all these people?"
+ID_DIALOG_SEC_BUCKY_04_START_1,"It's hard to explain, and I don't really understand it myself."
+ID_DIALOG_SEC_BUCKY_04_START_2,"Once we've rounded up your full team, I'll take you to meet my C.O. and you can ask him. He's from this world. He can explain it all."
+ID_DIALOG_SEC_BUCKY_04_END_0,Really working up a sweat here.
+ID_DIALOG_SEC_BUCKY_04_END_1,Push through. You're stronger than you know.
+ID_DIALOG_SEC_BUCKY_04_END_2,"Woah, it speaks. And sounds... kinda familiar. Do I know you?"
+ID_DIALOG_SEC_BUCKY_04_END_3,"No. If you're lucky, you never will."
+ID_DIALOG_SEC_BUCKY_05_START_0,You were a bit harsh on Bucky.
+ID_DIALOG_SEC_BUCKY_05_START_1,Seeing him reminds me of someone I barely remember. It brings back a lot- most of it bad.
+ID_DIALOG_SEC_BUCKY_05_START_2,"What, like that time Linda Goldstein threw her popcorn in your face at Coney Island?"
+ID_DIALOG_SEC_BUCKY_05_START_3,Heh. I'd forgotten about that.
+ID_DIALOG_SEC_BUCKY_05_END_0,"As much as that other Bucky is you, he isn't. Same for the other Steve Rogers."
+ID_DIALOG_SEC_BUCKY_05_END_1,"We're men out of time, Buck. Just like them. Hell, we might be the only two guys on Earth who can relate to what they're going through."
+ID_DIALOG_SEC_BUCKY_05_END_2,You're right. What worries me is WHY they're here. We both know this is only the beginning. Something bad is coming. I feel it.
+ID_DIALOG_SEC_BUCKY_05_END_3,"Me too, Buck. But at least when it finally goes down, we know who we'll be standing next to on the line."
+ID_DIALOG_SEC_BUCKY_05_END_4,"What worries me isn't who we'll be next to, but who we'll be across from."
+ID_DIALOG_SEC_BUCKY_08_START_0,"Stop, rift travelers. You go no further."
+ID_DIALOG_SEC_BUCKY_08_START_1,And you are?
+ID_DIALOG_SEC_BUCKY_08_START_2,"All you need to know is my king demands the heads of all the new visitors. We can do this the easy way, or the hard way."
+ID_DIALOG_SEC_BUCKY_08_START_3,Right back at you.
+ID_DIALOG_SEC_BUCKY_08_MID_0,"Vibranium shields? My king was wise to target you. Come, let us end this. "
+ID_DIALOG_SEC_BUCKY_08_END_0,"More talk of a ""king"". And variant or not, that was definitely Okoye, Shuri, and Nakia from Wakanda."
+ID_DIALOG_SEC_BUCKY_08_END_1,What's a Wakanda?
+ID_DIALOG_SEC_BUCKY_08_END_2,A good question for another time. My concern is I know who the king of Wakanda is in our world.
+ID_DIALOG_SEC_BUCKY_08_END_3,"He's one of the wisest, strongest, and most noble men I've ever met. And if he's been corrupted in his world..."
+ID_DIALOG_SEC_BUCKY_08_END_4,Then whoever is pulling the strings must be very powerful.
+ID_DIALOG_SEC_BUCKY_08_END_5,Yeah.
+ID_DIALOG_SEC_BUCKY_08_END_6,Sounds to me like you guys could use a few new allies.
+ID_DIALOG_SEC_BUCKY_08_END_7,"You know, Buck, I think they just might."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
@@ -9224,6 +9224,116 @@ ID_DIALOG_ROCKETRACCOON_EVENT_10_END_3,Oh yeah... I'm gettin' dizzy... This stuf
 ID_DIALOG_ROCKETRACCOON_EVENT_10_END_4,We better sleep this one off.
 ID_DIALOG_ROCKETRACCOON_EVENT_10_END_5,I'm sure everything will be fine by the morn--
 ID_DIALOG_ROCKETRACCOON_EVENT_10_END_6,I... am... Groot...
+ID_DIALOG_SCE_UJ_01_INTRO_0,"Team, get your kit and get to the jet. We've got reports of another interdimensional rift."
+ID_DIALOG_SCE_UJ_01_INTRO_1,The brain boys say it's the same frequency as the one our latest recruit came out of; might be one of his team.
+ID_DIALOG_SCE_UJ_01_INTRO_2,"But also might not, he was in the middle of a huge battle. Wheels up in 5!"
+ID_DIALOG_SCE_UJ_01_START_0,"This is Union Jack, a member of the Invaders from another reality."
+ID_DIALOG_SCE_UJ_01_START_1,Union Jack is great at controlling enemy speed and debuffing enemies to shut them down.
+ID_DIALOG_SCE_UJ_01_START_2,"Pay attention to his charge mechanic linked to bullets in his gun. Counting bullets matters, but reloading grants helpful bonuses as well."
+ID_DIALOG_SCE_UJ_01_WAVE2_0,"Wow, what a rush! Who are you gents, then? Hydra? Jerries? Both?"
+ID_DIALOG_SCE_UJ_01_WAVE2_1,Security to the Lab! Someone came out of the rift!
+ID_DIALOG_SCE_UJ_01_WAVE2_2,Yanks? What the bloody hell? Where am I?
+ID_DIALOG_SCE_UJ_01_WAVE3_0,"Halt, intruder!"
+ID_DIALOG_SCE_UJ_01_WAVE3_1,Sure are a lot of these yanks.
+ID_DIALOG_SCE_UJ_01_WAVE3_2,Hold fast! Cavalry's here!
+ID_DIALOG_SCE_UJ_01_WAVE3_3,"Music to my ears, love."
+ID_DIALOG_SCE_UJ_01_END_0,"The shield n' outfit gets you 2 minutes, love. Then I start shooting."
+ID_DIALOG_SCE_UJ_01_END_1,"Stand down, Falsworth. You're among friends."
+ID_DIALOG_SCE_UJ_01_END_2,"Rogers? Bloody hell, what's going on?"
+ID_DIALOG_SCE_UJ_01_END_3,Captain Carter here will explain. Just listen.
+ID_DIALOG_SCE_UJ_02_START_0,"Other worlds, other times. Wild. If that's all true, I only have one question."
+ID_DIALOG_SCE_UJ_02_START_1,And what's that?
+ID_DIALOG_SCE_UJ_02_START_2,"How come these two Rogers' are Captain America, but you go through the same thing and you're not Captain England?"
+ID_DIALOG_SCE_UJ_02_END_0,"You get pulled through an interdimensional rift into another universe, and that's the only question you have? My code name?"
+ID_DIALOG_SCE_UJ_02_END_1,"If Rogers, ahem, *my* Rogers says this is all on the up and up, I have no reason to doubt. But we're both wearing' the flag and you use your actual name."
+ID_DIALOG_SCE_UJ_02_END_2,"It's just odd, is all."
+ID_DIALOG_SCE_UJ_02_END_3,"Mr. Falsworth, I think we're going to get along swimmingly."
+ID_DIALOG_SCE_UJ_03_START_0,So what's the deal with these blokes in yellow? This place seems pretty high tech.
+ID_DIALOG_SCE_UJ_03_START_1,"They're a terrorist group called Advanced Idea Mechanics-- or A.I.M. Mad science, overthrow the world order. That kind of thing."
+ID_DIALOG_SCE_UJ_03_START_2,Sounds like some other group of gents Rogers and I know.
+ID_DIALOG_SCE_UJ_03_END_0,"Rogers, did you pop out in a place like this?"
+ID_DIALOG_SCE_UJ_03_END_1,"No, the 'rift' I came out of was basically in the middle of nowhere. It was a running fight all the way to the plane."
+ID_DIALOG_SCE_UJ_03_END_2,Then why did I fall out here?
+ID_DIALOG_SCE_UJ_03_END_3,Good question. A.I.M. somehow stabilized a rift in their lab. Maybe we should start asking these gentlemen how they managed that.
+ID_DIALOG_SCE_UJ_03_END_4,"Lady, I like your style."
+ID_DIALOG_SCE_UJ_04_START_0,The intruders are headed for command level. Release the prisoners!
+ID_DIALOG_SCE_UJ_04_START_1,Prisoners?
+ID_DIALOG_SCE_UJ_04_START_2,You smell... like rift!
+ID_DIALOG_SCE_UJ_04_END_0,What the bloody hell was that?
+ID_DIALOG_SCE_UJ_04_END_1,We're not the only people trapped in this world. And most of them used to be mind controlled by some kinda alien warlord.
+ID_DIALOG_SCE_UJ_04_END_2,This just keeps gettin' better and better don't it?
+ID_DIALOG_SCE_UJ_04_END_3,"I checked the computers, there's a command level a few floors down. If there's a leader, that's where they'll be."
+ID_DIALOG_SCE_UJ_04_END_4,How many more variants between us and that level?
+ID_DIALOG_SCE_UJ_04_END_5,Enough.
+ID_DIALOG_SCE_UJ_05_START_0,"I see now why my forces were so easily dispatched. Five super soldiers, a symbiote, and whatever you are. Quite the motley crew."
+ID_DIALOG_SCE_UJ_05_START_1,But you're not the only super soldiers. Ultimus left so much fascinating tech behind after he was defeated.
+ID_DIALOG_SCE_UJ_05_START_2,Surely you've heard of Superconductive Dimensional Energy? it powered Ultimus' ship as it traveled the multiverse.
+ID_DIALOG_SCE_UJ_05_START_3,"It powers this very facility, where I harness the powers of reality itself! And now... it powers... ME!"
+ID_DIALOG_SCE_UJ_05_MID_0,She's siphoning power from that device. We've got to destroy it.
+ID_DIALOG_SCE_UJ_05_END_0,"What a strange day. Is this what your world is like, Carter? High stakes danger, incredible adventure, life and death battles?"
+ID_DIALOG_SCE_UJ_05_END_1,"What, this? This is nothing, Mr. Falsworth. For me this is just another Tuesday."
+ID_DIALOG_SCE_UJ_05_END_2,"Well, color me impressed. And the name is Jack. Union Jack."
+ID_DIALOG_SCE_UJ_05_END_3,"Nice to meet you, Union Jack. Glad to have you aboard."
+ID_DIALOG_SCE_IFWW2_01_INTRO_0,"We've got another hit on the scanner, boys. Same frequency as you and your team, Steve."
+ID_DIALOG_SCE_IFWW2_01_INTRO_1,Must be Orson. We'd better get a move on. Where's he showing up.
+ID_DIALOG_SCE_IFWW2_01_INTRO_2,Just a little town on the coast you might have heard of.
+ID_DIALOG_SCE_IFWW2_01_START_0,"This is Iron Fist (WWII), a member of the Invaders from another reality."
+ID_DIALOG_SCE_IFWW2_01_START_1,He is good at XYZ.
+ID_DIALOG_SCE_IFWW2_01_START_2,[1-2 Sentences about how to play IF WWII]
+ID_DIALOG_SCE_IFWW2_01_WAVE2_0,"[What the hell was that flash of light? This isn't France. Looks like New York. Smells like it, too.]"
+ID_DIALOG_SCE_IFWW2_01_WAVE2_1,"Foolish trespasser. I don't know how you evaded our lookouts, but soon it won't matter. Hand, attack!"
+ID_DIALOG_SCE_IFWW2_01_WAVE2_2,[Hand? Hmph. Some things never change.]
+ID_DIALOG_SCE_IFWW2_01_WAVE2_3,You can't even imagine the mistake you just made.
+ID_DIALOG_SCE_IFWW2_01_WAVE3_0,So it WAS a traveler I sensed.
+ID_DIALOG_SCE_IFWW2_01_WAVE3_1,Something's not right. Look at that glow. He has the Fist.
+ID_DIALOG_SCE_IFWW2_01_WAVE3_2,"Who are you, stranger?"
+ID_DIALOG_SCE_IFWW2_01_WAVE3_3,"The name's Orson Randall, but my enemies call me... IRON FIST!"
+ID_DIALOG_SCE_IFWW2_01_WAVE4_0,"Orson, duck!"
+ID_DIALOG_SCE_IFWW2_01_WAVE4_1,"Cap? "
+ID_DIALOG_SCE_IFWW2_01_WAVE4_2,"Hey, what am I, chopped liver?"
+ID_DIALOG_SCE_IFWW2_01_WAVE4_3,"Talk later, gents. It's fightin' time!"
+ID_DIALOG_SCE_IFWW2_01_END_0,"Cap, you want to clue me in on what's going on here?"
+ID_DIALOG_SCE_IFWW2_01_END_1,"Orson, let me introduce you to Captain Carter. Trust me, we've got a lot to catch up on."
+ID_DIALOG_SCE_IFWW2_02_INTRO_0,And that's about it. Any questions?
+ID_DIALOG_SCE_IFWW2_02_INTRO_1,"Your story sounds like bull, Lady. But I trust my eyes, I trust Cap, and that imposter DID have the Fist."
+ID_DIALOG_SCE_IFWW2_02_INTRO_2,Even if I barely broke a sweat. Guess K'un-Lun's getting lax on discipline in the future.
+ID_DIALOG_SCE_IFWW2_02_START_0,"Enemies located! Hand, to me!"
+ID_DIALOG_SCE_IFWW2_02_END_0,Hmph. Looks like the city's got a garbage problem.
+ID_DIALOG_SCE_IFWW2_02_END_1,"Before we leave and meet your Commander, let's take out the trash."
+ID_DIALOG_SCE_IFWW2_02_END_2,"You know, a little workout might be just the thing."
+ID_DIALOG_SCE_IFWW2_03_START_0,"The master was right; we have rift travelers. But you aren't the only visitors, strangers."
+ID_DIALOG_SCE_IFWW2_03_START_1,The master has gifted us a bounty from worlds beyond!
+ID_DIALOG_SCE_IFWW2_03_START_2,That's a lot of ninjas.
+ID_DIALOG_SCE_IFWW2_03_MID_0,I'll take the ugly one.
+ID_DIALOG_SCE_IFWW2_03_MID_1,Which one's the ugly one?
+ID_DIALOG_SCE_IFWW2_03_END_0,Useless creatures!
+ID_DIALOG_SCE_IFWW2_03_END_1,Shall we go after him?
+ID_DIALOG_SCE_IFWW2_03_END_2,Give him a bit of a head start. He'll draw more of his guys out of the shadows. Less work to hunt 'em down later.
+ID_DIALOG_SCE_IFWW2_04_START_0,"Fools, you face the full fury of the Hand!"
+ID_DIALOG_SCE_IFWW2_04_START_1,10 of them for every one of us? Hardly seems fair... for them.
+ID_DIALOG_SCE_IFWW2_04_MID_0,It looks like you fellas could use a hand with these Hand.
+ID_DIALOG_SCE_IFWW2_04_MID_1,Who is that guy and why does it smell like rain all of a sudden?
+ID_DIALOG_SCE_IFWW2_04_END_0,"Not as fun as fighting Nazis, but it helps me remember what it's like to feel something."
+ID_DIALOG_SCE_IFWW2_04_END_1,Thanks for the assist... Spider-Man?
+ID_DIALOG_SCE_IFWW2_04_END_2,"No trouble, ma'am."
+ID_DIALOG_SCE_IFWW2_04_END_3,This world is bizarre.
+ID_DIALOG_SCE_IFWW2_04_END_4,"Randall, you don't even know the half of it."
+ID_DIALOG_SCE_IFWW2_05_INTRO_0,It looks like the gang's all here. And Captain Carter for a bonus.
+ID_DIALOG_SCE_IFWW2_05_INTRO_1,Wong? No... you're not our Wong.
+ID_DIALOG_SCE_IFWW2_05_INTRO_2,"No, I'm not. My reality was destroyed. And soon enough, yours will be too. They're too powerful to stop."
+ID_DIALOG_SCE_IFWW2_05_INTRO_3,I'm really getting tired of this pronoun game. Tell me who you work for!
+ID_DIALOG_SCE_IFWW2_05_INTRO_4,Make me.
+ID_DIALOG_SCE_IFWW2_05_START_0,Been awhile since I fought someone from Kamar-Taj.
+ID_DIALOG_SCE_IFWW2_05_START_1,"And yet, I destroyed a K'un-Lun last week. What a coincidence."
+ID_DIALOG_SCE_IFWW2_05_START_2,"Oh yeah? Double or nothing, Sorcerer!"
+ID_DIALOG_SCE_IFWW2_05_END_0,"Now are you going to tell me who you work for, or do I have to take Mr. Randall here off the leash?"
+ID_DIALOG_SCE_IFWW2_05_END_1,*cough*
+ID_DIALOG_SCE_IFWW2_05_END_2,I was ordered by... Killmonger... of the Aphelions. But even he... serves a darker master...
+ID_DIALOG_SCE_IFWW2_05_END_3,You can't win... nobody can stop them.
+ID_DIALOG_SCE_IFWW2_05_END_4,"Killmonger? Could that be the ""king"" those Wakandans were referencing?"
+ID_DIALOG_SCE_IFWW2_05_END_5,He's tried to seize the throne in our world several times. Maybe in his he succeeded?
+ID_DIALOG_SCE_IFWW2_05_END_6,"Whatever all that means, it sounds like a solid lead. Maybe it's time we met your C.O., Peggy."
+ID_DIALOG_SCE_IFWW2_05_END_7,"Right you are, Steve. And I'm sure Director Fury can't wait to meet all of you as well."
 ID_DIALOG_NUE_00_01_0,"Commander, I'm glad you're here. \nWe have a situation."
 ID_DIALOG_NUE_00_01_1,Interdimensional signatures are popping up all over New York City.
 ID_DIALOG_NUE_00_01_2,"As commander of S.T.R.I.K.E., interdimensional threats are your jurisdiction. "

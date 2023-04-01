@@ -5407,7 +5407,7 @@ ID_ME_DE_NEWBLOGPOST_020323,Weekly Blog Available
 ID_ME_BO_NEWBLOGPOST_020323,"Commander,\n\nAbsorb a Masters of Evil Protector and roster-changing resources with the events in this week's blog:\n\n- Destructive Diva Events - Including Crusher of Heroes\n- Return of a Horseman Scourge Event\n- New Hard Difficulty Chapters\n\nDon't miss out on this alongside details for Free Claim Friday!"
 ID_ME_NA_ULTRON_RS_SEVEN_UPDATE,Elite Store Update
 ID_ME_DE_ULTRON_RS_SEVEN_UPDATE,Red Stars for Ultron
-ID_ME_BO_ULTRON_RS_SEVEN_UPDATE,"Commander,\n\nThe Elite Store just got a big update!\n\nYou can now purchase the upgrade to <color=#fff568>7 Red Star Ultron</color> for 4,500 Dark Promotion Credits in the top row of the Elite Store. You'll need to have Ultron at 6 Red Stars first to see the upgrade\n\nHead to the Elite Store today and power up Ultron with Red Stars!"
+ID_ME_BO_ULTRON_RS_SEVEN_UPDATE,"Commander,\n\nThe Elite Store just got a big update!\n\nYou can now purchase the upgrade to <color=#fff568>7 Red Star Ultron</color> for 4,000 Dark Promotion Credits in the top row of the Elite Store. You'll need to have Ultron at 6 Red Stars first to see the upgrade\n\nHead to the Elite Store today and power up Ultron with Red Stars!"
 ID_ME_NA_WEBUNIFICATION2_TEASER,More Web Updates Incoming!
 ID_ME_DE_WEBUNIFICATION2_TEASER,Upcoming Maintenance
 ID_ME_BO_WEBUNIFICATION2_TEASER,"Commander,\n\nThe final phase of unifying MSF.gg and MarvelStrikeForce.com is right around the corner. You can expect our website to be down temporarily on <color=#fff568>February 7th</color> around <color=#fff568>9:00AM (PST)</color> while we transition to a unified MarvelStrikeForce.com.\n\nWe appreciate the patience and will share more when this is complete!"
@@ -5836,3 +5836,6 @@ ID_ME_BO_UNIONJACK_SHOWCASE_LIVE,"Commander,\n\n<color=#fff568>The Rule Britanni
 ID_ME_NA_UNIONJACK_SHOWCASE_ENDING,ENDING: Rule Britannia
 ID_ME_DE_UNIONJACK_SHOWCASE_ENDING,2 Days Left!
 ID_ME_BO_UNIONJACK_SHOWCASE_ENDING,"Commander,\n\nThe Rule Britannia Event ends in 2 days. Continue earning rewards before Union Jack's Showcase ends!\n\nGood luck, Commander!"
+ID_ME_NA_ADVANCEDOPTION_OPENALLORBS,New Advanced Option!
+ID_ME_DE_ADVANCEDOPTION_OPENALLORBS,Open All Orbs
+ID_ME_BO_ADVANCEDOPTION_OPENALLORBS,"To make it easier to manage your resources, we've added a setting you can enable to <color=#fff568>Open All Orbs</color> in the <color=#fff568>Advanced Options</color> menu. You can navigate to this via the gear icon in the top right of the home screen.\n\nWhen enabled, your orbs will automatically open 10 at a time until you choose to stop the process. Afterwards, the total rewards will be displayed in a summary.\n\nThis is an initial version of this option, and we will be keeping an eye on feedback to evaluate potential improvements.\n\n-MARVEL Strike Force Dev Team"
