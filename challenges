@@ -140,6 +140,8 @@ ID_CHAL_CATALYST_STAGE9_DESC,Earn a massive cache of CATALYSTS.\n\nRecommendatio
 ID_CHAL_CATALYST_STAGE10_DESC,Earn an enormous cache of CATALYSTS.\n\nRecommendations:\n- Squad Lvl 75+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly BLASTERS allowed.
 ID_CHAL_CATALYST_STAGE11_DESC,Earn a colossal cache of CATALYSTS.\n\nRecommendations:\n- Squad Lvl 76+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly BLASTERS allowed.
 ID_CHAL_CATALYST_STAGE12_DESC,Earn a spectacular supply of CATALYSTS.\n\nRecommendations:\n- Squad Lvl 80+\n- Gear Tier 15+\n- Red Stars 4+\n\nOnly BLASTERS allowed.
+ID_CHAL_CATALYST_STAGE13_DESC,Earn a hefty horde of CATALYSTS.\n\nRecommendations:\n- Squad Lvl 90+\n- Gear Tier 16+\n- Level 7 Abilities\n- Red Stars 4+\n- Stark Tech 25%+\n- Level 5 Iso-8\n\nOnly BLASTERS allowed.
+ID_CHAL_CATALYST_STAGE14_DESC,Earn a copious cache of CATALYSTS.\n\nRecommendations:\n- Squad Lvl 95+\n- Gear Tier 17+\n- Level 7 Abilities\n- Red Stars 4+\n- Stark Tech 25%+\n- Tier 2 Level 2 Iso-8\n\nOnly BLASTERS allowed.
 ID_CHAL_ABL_NAME,Ability Enhancements
 ID_CHAL_ABL_DESC,Earn ABILITY MATERIALS. Use ABILITY MATERIALS to upgrade your character's abilities.\n\nOnly CONTROLLERS & PROTECTORS allowed.
 ID_CHAL_ISO_BIO_NAME,Original Biofuel
@@ -934,21 +936,21 @@ ID_SEC_INCURSION02_NAME,Rule Britannia
 ID_SEC_INCURSION02_DESC,Another rift has been detected. Rescue Union Jack from A.I.M. and take down the mad scientist behind their evil plans!
 ID_SEC_CHANCE_INCURSION02,Prelude to Incursion II
 ID_EVENT_INCURSION02_DIF1_FLAVOR,Meet Union Jack!
-ID_EVENT_INCURSION02_DIF1_DESC,REQUIRED: Rebirth Characters.\n\nUnion Jack will join your team for every battle!
+ID_EVENT_INCURSION02_DIF1_DESC,REQUIRED: Rebirth or Invader Characters.\n\nUnion Jack will join your team for every battle!
 ID_EVENT_INCURSION02_DIF2_FLAVOR,Earn amazing rewards!
 ID_EVENT_INCURSION02_DIF2_DESC,"REQUIRED: Captain America (WWII), Union Jack at Gear Tier 13\n\nUse only: Invaders or Rebirth characters. All characters must be at Gear Tier 13"
 ID_SEC_INCURSION03_NAME,A Guy from Brooklyn
 ID_SEC_INCURSION03_DESC,The forces behind the Incursion are beginning to show themselves. Help Bucky Barnes and his allies face these deadly foes!
 ID_SEC_CHANCE_INCURSION03,Prelude to Incursion III
 ID_EVENT_INCURSION03_DIF1_FLAVOR,Meet Bucky Barnes!
-ID_EVENT_INCURSION03_DIF1_DESC,REQUIRED: Rebirth Characters.\n\nBucky Barnes will join your team for every battle!
+ID_EVENT_INCURSION03_DIF1_DESC,Use only Rebirth or Invader Characters.\n\nBucky Barnes will join your team for every battle!
 ID_EVENT_INCURSION03_DIF2_FLAVOR,Earn amazing rewards!
 ID_EVENT_INCURSION03_DIF2_DESC,"REQUIRED: Captain America (WWII), Union Jack, Bucky Barnes at Gear Tier 13\n\nUse only: Invaders or Rebirth characters. All characters must be at Gear Tier 13"
 ID_SEC_INCURSION04_NAME,"Hand, Meet Fist"
 ID_SEC_INCURSION04_DESC,The last Invader emerges from a rift in New York and immediately runs into some famillair enemies. Join forces with Iron Fist (WWII) and take out the trash!
 ID_SEC_CHANCE_INCURSION04,Prelude to Incursion IV
-ID_EVENT_INCURSION04_DIF1_FLAVOR,Meet Iron Fist WW2!
-ID_EVENT_INCURSION04_DIF1_DESC,REQUIRED: Rebirth Characters.\n\nIron Fist (WW2) will join your team for every battle!
+ID_EVENT_INCURSION04_DIF1_FLAVOR,Meet Iron Fist (WWII)!
+ID_EVENT_INCURSION04_DIF1_DESC,REQUIRED: Rebirth or Invader Characters.\n\nIron Fist (WWII) will join your team for every battle!
 ID_EVENT_INCURSION04_DIF2_FLAVOR,Earn amazing rewards!
 ID_EVENT_INCURSION04_DIF2_DESC,"REQUIRED: Captain America (WWII), Union Jack, Bucky Barnes, & Iron First (WWII) at Gear Tier 13\n\nUse only: Invaders or Rebirth characters. All characters must be at Gear Tier 13"
 ID_SEC_INCURSION05_NAME,Incursion: Invaders
@@ -1720,3 +1722,12 @@ ID_INFO_BO_MASTERSOFJUDGMENT,"Gain progress in this <color=#fff568>3-day</color>
 ID_INFO_NA_BROTHERINARMS,Brother In Arms
 ID_INFO_DE_BROTHERINARMS,Recruit Bucky Barnes!
 ID_INFO_BO_BROTHERINARMS,"Bolster your Skill Raid team with this 7-day event!\n\nGain progress by battling in Raids (with bonuses for using Invaders), spending Campaign Energy, and opening Training Orbs.\n\nEarn valuable milestone rewards including <color=#fff568>Bucky Barnes shards, Teal Gear, and a 5-Red Star Nick Fury</color>, as well as Royal Soldier progress with the Webley Revolver and Victory Flags.\n\nFinally, climb the ranks of the Leaderboard for T2 Level 5 Ions and more Bucky Barnes shards!"
+ID_INFO_NA_SHOPPINGSPREE,Shopping Spree
+ID_INFO_DE_SHOPPINGSPREE,Quicksilver Red Stars and Royal Soldier progress!
+ID_INFO_BO_SHOPPINGSPREE,"It's time to go shopping!\n\nIn this special event, Open Gold Orbs and collect milestone points from daily exclusive Offers that cost Power Cores, Gold, Raid Credits or War Credits to open. Make sure to check the store daily for these unique deals!\n\nRewards include:\n- Victory Flags\n- <color=#fff568>Tactical Belt</color>\n- Gold and Silver Promotion Credits\n- 5-Red Star Iron Man\n- Shards of famous Marvel business characters\n- and more!\n\nFinally, climb the Leaderboard ranks for T2 Level 4 Ions, Armory 17 Orbs and exclusive <color=#fff568>Quicksilver Red Stars</color> for top performers!"
+ID_INFO_NA_FORCESOFNATURE,Forces of Nature
+ID_INFO_DE_FORCESOFNATURE,Earn Training Materials and Gear!
+ID_INFO_BO_FORCESOFNATURE,"Join forces to protect our planet!\n\nEarn points by collecting Green Guardians Orb Fragments from Daily Objectives and Alliance Donations.\n\nRewards include:\n- Victory Flags\n- <color=#fff568>Commando Mask</color>\n- Training Materials\n- Elite 5 Credits\n- Gear\n- Namor's ""Talokan"" costume"
+ID_INFO_NA_IMMORTALINVADER,Immortal Invader
+ID_INFO_DE_IMMORTALINVADER,Recruit Iron Fist (WWII)!
+ID_INFO_BO_IMMORTALINVADER,Recruit the K'un-Lun Champion during the <color=#fff568>Immortal Invader</color> Event!\n\nEarn <color=#fff568>Iron Fist (WWII) character shards</color> and these exciting rewards:\n\n- Victory Flags\n- <color=#fff568>Union Jacket</color>\n- Teal Mini-Uniques\n- Gold Promotion Credits\n- T4 Ability Materials\n- 5-Red Star Cloak\n- And more!

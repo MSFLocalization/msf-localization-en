@@ -30,6 +30,8 @@ ID_SHOP_IAP_HARD_CURRENCY_3_NAME,Bundle of Power Cores
 ID_SHOP_IAP_HARD_CURRENCY_4_NAME,Case of Power Cores
 ID_SHOP_IAP_HARD_CURRENCY_5_NAME,Crate of Power Cores
 ID_SHOP_IAP_HARD_CURRENCY_6_NAME,Shipment of Power Cores
+ID_SHOP_IAP_HARD_CURRENCY_7_NAME,Vault of Power Cores
+ID_SHOP_IAP_HARD_CURRENCY_8_NAME,Mountain of Power Cores
 ID_SHOP_IAP_UNIVERSAL_CURRENCY_1_NAME,Ultra Cores
 ID_SHOP_IAP_UNIVERSAL_CURRENCY_2_NAME,Cluster of Ultra Cores
 ID_SHOP_IAP_UNIVERSAL_CURRENCY_3_NAME,Bundle of Ultra Cores
@@ -55,6 +57,10 @@ ID_SHOP_IAP_BUNDLE_THO80_100_NAME,Time Heist Level 80
 ID_SHOP_IAP_BUNDLE_THO80_100_DESCRIPTION,Made a Time Heist Jump Level 80
 ID_SHOP_IAP_BUNDLE_THO85_200_NAME,Time Heist Level 85
 ID_SHOP_IAP_BUNDLE_THO85_200_DESCRIPTION,Made a Time Heist Jump Level 85
+ID_SHOP_IAP_BUNDLE_BATTLEPASS_50A_NAME,Mojo's Premium Deal
+ID_SHOP_IAP_BUNDLE_BATTLEPASS_50A_DESCRIPTION,Added Mojo's Mayhem Pass & Rating Levels
+ID_SHOP_IAP_BUNDLE_BATTLEPASS_50B_NAME,Mojo's Deal Level 2
+ID_SHOP_IAP_BUNDLE_BATTLEPASS_50B_DESCRIPTION,Added Mojo's Mayhem Pass & Rating Levels
 ID_SHOP_MORE_REFRESHES,More Refreshes\nin {duration}
 ID_SHOP_MUST_BE_LOGGED_IN_BODY,"You're not logged into an account that can make purchases. If you want to purchase offers or Power Cores, please log in."
 ID_SHOP_MUST_BE_LOGGED_IN_TITLE,No Account Data
@@ -8357,3 +8363,11 @@ ID_OF_NA_IRONFISTORSON_RS_DRAFT,Red Star Draft: Iron Fist (WWII)
 ID_OF_DE_IRONFISTORSON_RS_DRAFT_345,"Get an equal chance of either <color=#fff568>3, 4, or 5 Red Stars</color> for <color=#fff568>Iron Fist (WWII)</color>. Sustain <color=#fff568>Invader</color> allies in Raid with Heals, Barrier, and Revive!"
 ID_OF_DE_IRONFISTORSON_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, or 6 Red Stars</color> for <color=#fff568>Iron Fist (WWII)</color>. Sustain <color=#fff568>Invader</color> allies in Raid with Heals, Barrier, and Revive!"
 ID_OF_DE_IRONFISTORSON_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Iron Fist (WWII)</color>. Sustain <color=#fff568>Invader</color> allies in Raid with Heals, Barrier, and Revive!"
+ID_GACHA_CRATE_GREENGUARDIANS_NAME,Green Guardians Orb
+ID_GACHA_CRATE_GREENGUARDIANS_DESCRIPTION,Open for shards of Earth's protectors and Forces of Nature milestone progress.
+ID_GACHA_CRATE_GREENGUARDIANS_TOKEN_NAME,Green Guardians Orb Fragments
+ID_GACHA_CRATE_GREENGUARDIANS_TOKEN_DESCRIPTION,"Contains Fragments for orbs containing shards of Earth's protectors, and granting Forces of Nature milestone progress."
+ID_GACHA_CRATE_IMMORTALALLY_NAME,Immortal Ally Orb
+ID_GACHA_CRATE_IMMORTALALLY_DESCRIPTION,"Contains Iron Fist (WWII) shards, Gold and gear!"
+ID_GACHA_CRATE_IMMORTALALLY_TOKEN_NAME,Immortal Ally Orb Fragments
+ID_GACHA_CRATE_IMMORTALALLY_TOKEN_DESCRIPTION,"Open Immortal Ally Orbs for Iron Fist (WWII) shards, Gold and gear!"

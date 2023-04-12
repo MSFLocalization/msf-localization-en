@@ -2652,3 +2652,46 @@ ID_QU_SM_CYBERWARFARE,Earn War Credits and Use Defense Boosts
 ID_QU_SC_CYBERWARFARE,Earn War Credits and Use Defense Boosts
 ID_QU_S1_CYBERWARFARE,Earn 1 War Credit
 ID_QU_S2_CYBERWARFARE,Use 1 Defense Boost in Alliance War
+ID_QU_NA_SHOPPINGSPREE,Shopping Spree
+ID_QU_SD_SHOPPINGSPREE,Open Gold Orbs and special offers!
+ID_QU_LM_SHOPPINGSPREE,"It's time to go shopping!\n\nIn this special event, Open Gold Orbs and collect milestone points from daily exclusive Offers that cost Power Cores, Gold, Raid Credits or War Credits to open. Make sure to check the store daily for these unique deals!\n\nRewards include:\n- Victory Flags\n- Tactical Belt\n- Gold and Silver Promotion Credits\n- 5-Red Star Iron Man\n- Shards of famous Marvel business characters\n- and more!\n\nFinally, climb the Leaderboard ranks for T2 Level 4 Ions, Armory 17 Orbs and exclusive Quicksilver Red Stars for top performers!"
+ID_QU_SM_SHOPPINGSPREE,Open Gold Orbs and special offers!
+ID_QU_S1_SHOPPINGSPREE,Open 1 Gold Orb
+ID_QU_S2_SHOPPINGSPREE,Collect 1 Milestone Point from a special Offer
+ID_QU_NA_FORCESOFNATURE,Forces of Nature
+ID_QU_SD_FORCESOFNATURE,Collect Green Guardians Orb Fragments
+ID_QU_LM_FORCESOFNATURE,"Join forces to protect our planet!\n\nEarn points by collecting Green Guardians Orb Fragments from Daily Objectives and Alliance Donations.\n\nRewards include:\n- Victory Flags\n- Commando Mask\n- Training Materials\n- Elite 5 Credits\n- Gear\n- Namor's ""Talokan"" costume"
+ID_QU_SM_FORCESOFNATURE,Collect Green Guardians Orb Fragments
+ID_QU_S1_FORCESOFNATURE,Collect 1 Green Guardians Orb Fragment from Daily Objectives
+ID_QU_S2_FORCESOFNATURE,Collect 1 Green Guardians Orb Fragment from Alliance Donations
+ID_QU_NA_IMMORTALINVADER,Immortal Invader
+ID_QU_SD_IMMORTALINVADER,Earn Immortal Ally Orb Fragments
+ID_QU_LD_IMMORTALINVADER,"Earn Immortal Ally Orb Fragments by battling in Blitz and from the Clips of K'un-Lun and Fists of Rage Milestones to earn points.\n\nRewards include: Iron Fist (WWII) character shards, Victory Flags, Union Jacket, Teal Mini-Uniques, Gold Promotion Credits and more! "
+ID_QU_SM_IMMORTALINVADER,Earn Immortal Ally Orb Fragments in Blitz
+ID_QU_SC_IMMORTALINVADER,Earn Immortal Ally Orb Fragments in Blitz
+ID_QU_S1_IMMORTALINVADER,Earn 1 Immortal Ally Orb Fragment
+ID_QU_NA_CLIPSOFKUNLUN,Clips of K'un-Lun
+ID_QU_SD_CLIPSOFKUNLUN,Spend Power Cores
+ID_QU_LD_CLIPSOFKUNLUN,"Spend Power Cores to earn points toward this 7-day milestone that rewards Immortal Ally Orb Fragments, Dark Promotion Credits, a 5-Red Star Cloak, Captain America (WWII) shards and more!"
+ID_QU_SM_CLIPSOFKUNLUN,Spend Power Cores
+ID_QU_SC_CLIPSOFKUNLUN,Spend Power Cores
+ID_QU_S1_CLIPSOFKUNLUN,Spend 1 Power Core
+ID_QU_NA_FISTSOFRAGE,Fists of Rage
+ID_QU_SD_FISTSOFRAGE,Spend Campaign and Iso-8 Energy
+ID_QU_LD_FISTSOFRAGE,"Spend Campaign and Iso-8 Energy to hit this daily milestone that rewards Immortal Ally Orb Fragments, Teal Catalysts and Legacy III Orbs."
+ID_QU_SM_FISTSOFRAGE,Spend Campaign and Iso-8 Energy
+ID_QU_SC_FISTSOFRAGE,Spend Campaign and Iso-8 Energy
+ID_QU_S1_FISTSOFRAGE,Spend 1 Campaign Energy
+ID_QU_S2_FISTSOFRAGE,Spend 1 Iso-8 Energy
+ID_QU_NA_SPOILSOFWAR,Spoils of War
+ID_QU_SD_SPOILSOFWAR,Battle in Alliance War for Iso-8 rewards!
+ID_QU_LM_SPOILSOFWAR,"Battle in War to earn Iso-8 Ions, Iso-8 Orbs and Royal Soldier progress!"
+ID_QU_SM_SPOILSOFWAR,Battle in War
+ID_QU_SC_SPOILSOFWAR,Battle in War
+ID_QU_S1_SPOILSOFWAR,War Battle
+ID_QU_NA_RADIOACTIVERUN,Radioactive Run
+ID_QU_SD_RADIOACTIVERUN,"Earn Gold, Teal Gear and more!"
+ID_QU_LM_RADIOACTIVERUN,"Spend Iso-8 Energy to earn Gold, Teal Gear and more!"
+ID_QU_SM_RADIOACTIVERUN,Spend Iso-8 Energy
+ID_QU_SC_RADIOACTIVERUN,Spend Iso-8 Energy
+ID_QU_S1_RADIOACTIVERUN,Spend 1 Iso-8 Energy

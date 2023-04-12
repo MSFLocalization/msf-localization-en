@@ -201,16 +201,16 @@ ID_EVENT_CUR11_NAME,S.T.R.I.K.E. Os
 ID_EVENT_CUR11_DESCRIPTION,Collect Os to earn nutritious rewards!
 ID_EVENT_CUR12_NAME,Brother In Arms Milestone Points
 ID_EVENT_CUR12_DESCRIPTION,"These points earn you additional progress in the Brother In Arms Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
-ID_EVENT_CUR13_NAME,To the Moon Milestone Points
-ID_EVENT_CUR13_DESCRIPTION,These points earn you additional progress in the To the Moon Milestone. Earn them in Daily Free Claims on our website and in limited offers!
-ID_EVENT_CUR14_NAME,Nakia's Ring
-ID_EVENT_CUR14_DESCRIPTION,Collect Nakia's Rings from Powerful Paws and Roar of Wakanda milestones and offers to earn points in the Battle Scars milestone.
-ID_EVENT_CUR15_NAME,S.T.R.I.K.E. Celebration Milestone Point
-ID_EVENT_CUR15_DESCRIPTION,These points earn you additional progress in the S.T.R.I.K.E. Celebration Milestone.
-ID_EVENT_CUR16_NAME,S.T.R.I.K.E. Salute Tokens
-ID_EVENT_CUR16_DESCRIPTION,"These points earn you additional progress in the S.T.R.I.K.E. Salute Milestone. Earn them in Daily Objectives, the Care Package Web Milestone, and the Daily Free Gifts on our website."
-ID_EVENT_CUR17_NAME,Lunar Festival Milestone Points
-ID_EVENT_CUR17_DESCRIPTION,These points earn you additional progress in the Lunar Festival Milestone. Earn them in limited offers!
+ID_EVENT_CUR13_NAME,Shopping Spree Milestone Points
+ID_EVENT_CUR13_DESCRIPTION,"These points earn you additional progress in the Shopping Spree Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EVENT_CUR14_NAME,Green Guardians Orb Fragment
+ID_EVENT_CUR14_DESCRIPTION,"Fragments for orbs containing shards of Earth's protectors, and granting Forces of Nature milestone progress."
+ID_EVENT_CUR15_NAME,Forces of Nature Milestone Points
+ID_EVENT_CUR15_DESCRIPTION,"These points earn you additional progress in the Forces of Nature Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EVENT_CUR16_NAME,Immortal Invader Milestone Points
+ID_EVENT_CUR16_DESCRIPTION,These points earn you additional progress in Immortal Invader Milestone.
+ID_EVENT_CUR17_NAME,Immortal Ally Orb Fragment
+ID_EVENT_CUR17_DESCRIPTION,"Open Immortal Ally Orbs for Iron Fist (WWII) shards, Gold and gear!"
 ID_EVENT_CUR18_NAME,Commander's Cache Milestone Points
 ID_EVENT_CUR18_DESCRIPTION,"These points earn you additional progress in the Commander's Cache Milestone, boosting your leaderboard position for a better chance at Archangel Red Stars and T2 Level 5 Ions!"
 ID_EVENT_CUR19_NAME,The Abominable Beast Milestone Points
