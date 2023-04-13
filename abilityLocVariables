@@ -171,7 +171,7 @@ ID_ABILITY_APOCALYPSE_VAR_GLOBAL_STATS_ACCURACY_NEXT,nextlevel.global_stats.0.de
 ID_ABILITY_APOCALYPSE_VAR_DYNAMIC_STATS_LOWERFOCUS,thislevel.dynamic_stats.1.delta
 ID_ABILITY_APOCALYPSE_VAR_DYNAMIC_STATS_LOWERFOCUS_NEXT,nextlevel.dynamic_stats.1.delta
 ID_ABILITY_APOCALYPSE_VAR_BASICEMPOWER_HEALTH_DAMAGE,thislevel.basic_empower.action.3.drain_pct
-ID_ABILITY_APOCALYPSE_VAR_BASICEMPOWER_DAMAGE,thislevel.basic.action.2.stat_modifier.1.delta
+ID_ABILITY_APOCALYPSE_VAR_BASICEMPOWER_DAMAGE,thislevel.basic_empower.action.2.stat_modifier.1.delta
 ID_ABILITY_APOCALYPSE_VAR_BASICEMPOWER_DAMAGE_DIFF,nextlevel.basic_empower.action.2.stat_modifier.1.delta - thislevel.basic_empower.action.2.stat_modifier.1.delta
 ID_ABILITY_APOCALYPSE_VAR_BASICEMPOWER_DRAIN,thislevel.basic.action.2.stat_modifier.0.delta
 ID_ABILITY_APOCALYPSE_VAR_BASICEMPOWER_DRAIN_DIFF,nextlevel.basic.action.2.stat_modifier.0.delta - thislevel.basic.action.2.stat_modifier.0.delta
