@@ -2695,3 +2695,10 @@ ID_QU_LM_RADIOACTIVERUN,"Spend Iso-8 Energy to earn Gold, Teal Gear and more!"
 ID_QU_SM_RADIOACTIVERUN,Spend Iso-8 Energy
 ID_QU_SC_RADIOACTIVERUN,Spend Iso-8 Energy
 ID_QU_S1_RADIOACTIVERUN,Spend 1 Iso-8 Energy
+ID_QU_NA_SPECIALOFFENSIVE3,Special Offensive
+ID_QU_SD_SPECIALOFFENSIVE3,Invaders and Masters of Evil Shards!
+ID_QU_LM_SPECIALOFFENSIVE3,"Complete the milestones and climb the leaderboards to get these amazing rewards: \n\n- Invaders, Rebirth, and Masters of Evil shards\n- Training Modules\n- Silver, Dark Promotion, and Elite Credits\n- Orange and Teal Gear\n- And More!\n"
+ID_QU_SM_SPECIALOFFENSIVE3,"Earn Raid Credits, Spend Campaign Energy"
+ID_QU_SC_SPECIALOFFENSIVE3,"Earn Raid Credits, Spend Campaign Energy"
+ID_QU_S1_SPECIALOFFENSIVE3,Earn 1 Raid Credit
+ID_QU_S2_SPECIALOFFENSIVE3,Spend 1 Campaign Energy
