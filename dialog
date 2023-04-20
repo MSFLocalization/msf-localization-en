@@ -3541,6 +3541,67 @@ ID_DIALOG_SEC_BUCKY_08_END_4,Then whoever is pulling the strings must be very po
 ID_DIALOG_SEC_BUCKY_08_END_5,Yeah.
 ID_DIALOG_SEC_BUCKY_08_END_6,Sounds to me like you guys could use a few new allies.
 ID_DIALOG_SEC_BUCKY_08_END_7,"You know, Buck, I think they just might."
+ID_DIALOG_SEC_IFWW2_01_INTRO_0,"We've got another hit on the scanner, boys. Same frequency as you and your team, Steve."
+ID_DIALOG_SEC_IFWW2_01_INTRO_1,Must be Orson. We'd better get a move on. Where's he showing up?
+ID_DIALOG_SEC_IFWW2_01_INTRO_2,Just a little town on the coast you might have heard of.
+ID_DIALOG_SEC_IFWW2_01_START_0,"This is <color=#fff568>Iron Fist (WWII)</color>, a member of the <color=#fff568>Invaders</color> from another reality."
+ID_DIALOG_SEC_IFWW2_01_START_1,He and other <color=#fff568>Invader</color> characters are a powerful <color=#fff568>Skill</color> origin raid team.
+ID_DIALOG_SEC_IFWW2_01_START_2,Use his <color=#fff568>Special Ability</color> to attack primary and adjacent targets and extend all positive effects by +1 for self and <color=#fff568>Invader</color> allies.
+ID_DIALOG_SEC_IFWW2_01_START_3,Use his <color=#fff568>Ultimate Ability</color> to to apply <color=#fff568>Stun</color> to the primary target and heal self and all <color=#fff568>Invader</color> allies.
+ID_DIALOG_SEC_IFWW2_01_WAVE2_0,"[What the hell was that flash of light? This isn't France. Looks like New York. Smells like it, too.]"
+ID_DIALOG_SEC_IFWW2_01_WAVE2_1,"Foolish trespasser. I don't know how you evaded our lookouts, but soon it won't matter. Hand, attack!"
+ID_DIALOG_SEC_IFWW2_01_WAVE2_2,[Hand? Hmph. Some things never change.]
+ID_DIALOG_SEC_IFWW2_01_WAVE2_3,You can't even imagine the mistake you just made.
+ID_DIALOG_SEC_IFWW2_01_WAVE3_0,So it WAS a traveler I sensed.
+ID_DIALOG_SEC_IFWW2_01_WAVE3_1,Something's not right. Look at that glow. He has the Fist.
+ID_DIALOG_SEC_IFWW2_01_WAVE3_2,"Who are you, stranger?"
+ID_DIALOG_SEC_IFWW2_01_WAVE3_3,"The name's Orson Randall, but my enemies call me... IRON FIST!"
+ID_DIALOG_SEC_IFWW2_01_WAVE4_0,"Orson, duck!"
+ID_DIALOG_SEC_IFWW2_01_WAVE4_1,"Cap? "
+ID_DIALOG_SEC_IFWW2_01_WAVE4_2,"Hey, what am I, chopped liver?"
+ID_DIALOG_SEC_IFWW2_01_WAVE4_3,"Talk later, gents. It's fightin' time!"
+ID_DIALOG_SEC_IFWW2_01_END_0,"Cap, you want to clue me in on what's going on here?"
+ID_DIALOG_SEC_IFWW2_01_END_1,"Orson, let me introduce you to Captain Carter. Trust me, we've got a lot to catch up on."
+ID_DIALOG_SEC_IFWW2_02_START_0,And that's about it. Any questions?
+ID_DIALOG_SEC_IFWW2_02_START_1,"Your story sounds like bull, Lady. But I trust my eyes, I trust Cap, and that imposter DID have the Fist."
+ID_DIALOG_SEC_IFWW2_02_START_2,Even if I barely broke a sweat. Guess K'un-Lun's getting lax on discipline in the future.
+ID_DIALOG_SEC_IFWW2_02_START_3,"Enemies located! Hand, to me!"
+ID_DIALOG_SEC_IFWW2_02_END_0,Hmph. Looks like the city's got a garbage problem.
+ID_DIALOG_SEC_IFWW2_02_END_1,"Before we leave and meet your Commander, let's take out the trash."
+ID_DIALOG_SEC_IFWW2_02_END_2,"You know, a little workout might be just the thing."
+ID_DIALOG_SEC_IFWW2_04_START_0,"The master was right; we have rift travelers. But you aren't the only visitors, strangers."
+ID_DIALOG_SEC_IFWW2_04_START_1,The master has gifted us a bounty from worlds beyond!
+ID_DIALOG_SEC_IFWW2_04_START_2,That's a lot of ninjas.
+ID_DIALOG_SEC_IFWW2_04_MID_0,I'll take the ugly one.
+ID_DIALOG_SEC_IFWW2_04_MID_1,Which one's the ugly one?
+ID_DIALOG_SEC_IFWW2_04_END_0,Useless creatures!
+ID_DIALOG_SEC_IFWW2_04_END_1,Shall we go after him?
+ID_DIALOG_SEC_IFWW2_04_END_2,Give him a bit of a head start. He'll draw more of his guys out of the shadows. Less work to hunt 'em down later.
+ID_DIALOG_SEC_IFWW2_06_START_0,"Fools, you face the full fury of the Hand!"
+ID_DIALOG_SEC_IFWW2_06_START_1,10 of them for every one of us? Hardly seems fair... for them.
+ID_DIALOG_SEC_IFWW2_06_MID_0,It looks like you fellas could use a hand with these Hand.
+ID_DIALOG_SEC_IFWW2_06_MID_1,Who is that guy and why does it smell like rain all of a sudden?
+ID_DIALOG_SEC_IFWW2_06_END_0,"Not as fun as fighting Nazis, but it helps me remember what it's like to feel something."
+ID_DIALOG_SEC_IFWW2_06_END_1,Thanks for the assist... Spider-Man?
+ID_DIALOG_SEC_IFWW2_06_END_2,"No trouble, ma'am."
+ID_DIALOG_SEC_IFWW2_06_END_3,This world is bizarre.
+ID_DIALOG_SEC_IFWW2_06_END_4,"Randall, you don't even know the half of it."
+ID_DIALOG_SEC_IFWW2_08_INTRO_0,It looks like the gang's all here. And Captain Carter for a bonus.
+ID_DIALOG_SEC_IFWW2_08_INTRO_1,Wong? No... you're not our Wong.
+ID_DIALOG_SEC_IFWW2_08_INTRO_2,"No, I'm not. My reality was destroyed. And soon enough, yours will be too. They're too powerful to stop."
+ID_DIALOG_SEC_IFWW2_08_INTRO_3,I'm really getting tired of this pronoun game. Tell me who you work for!
+ID_DIALOG_SEC_IFWW2_08_INTRO_4,Make me.
+ID_DIALOG_SEC_IFWW2_08_START_0,Been awhile since I fought someone from Kamar-Taj.
+ID_DIALOG_SEC_IFWW2_08_START_1,"And yet, I destroyed a K'un-Lun last week. What a coincidence."
+ID_DIALOG_SEC_IFWW2_08_START_2,"Oh yeah? Double or nothing, Sorcerer!"
+ID_DIALOG_SEC_IFWW2_08_END_0,"Now are you going to tell me who you work for, or do I have to take Mr. Randall here off the leash?"
+ID_DIALOG_SEC_IFWW2_08_END_1,*cough*
+ID_DIALOG_SEC_IFWW2_08_END_2,I was ordered by... Killmonger... of the Aphelions. But even he... serves a darker master...
+ID_DIALOG_SEC_IFWW2_08_END_3,You can't win... nobody can stop them.
+ID_DIALOG_SEC_IFWW2_08_END_4,Killmonger? Could that be the king those Wakandans were referencing?
+ID_DIALOG_SEC_IFWW2_08_END_5,He's tried to seize the throne in our world several times. Maybe in his he succeeded?
+ID_DIALOG_SEC_IFWW2_08_END_6,"Whatever all that means, it sounds like a solid lead. Maybe it's time we met your C.O., Peggy."
+ID_DIALOG_SEC_IFWW2_08_END_7,"Right you are, Steve. And I'm sure Director Fury can't wait to meet all of you as well."
 ID_DIALOG_ECM_ANTMAN_01_INTRO_0,"Ant-Man, S.T.R.I.K.E. needs your help."
 ID_DIALOG_ECM_ANTMAN_01_INTRO_1,"Wow, me? Seriously? What do you need me to steal?"
 ID_DIALOG_ECM_ANTMAN_01_INTRO_2,Nothing. We need a different set of skills this time around.

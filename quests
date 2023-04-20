@@ -2654,8 +2654,8 @@ ID_QU_S1_CYBERWARFARE,Earn 1 War Credit
 ID_QU_S2_CYBERWARFARE,Use 1 Defense Boost in Alliance War
 ID_QU_NA_SHOPPINGSPREE,Shopping Spree
 ID_QU_SD_SHOPPINGSPREE,Open Gold Orbs and special offers!
-ID_QU_LM_SHOPPINGSPREE,"It's time to go shopping!\n\nIn this special event, Open Gold Orbs and collect milestone points from daily exclusive Offers that cost Power Cores, Gold, Raid Credits or War Credits to open. Make sure to check the store daily for these unique deals!\n\nRewards include:\n- Victory Flags\n- Tactical Belt\n- Gold and Silver Promotion Credits\n- 5-Red Star Iron Man\n- Shards of famous Marvel business characters\n- and more!\n\nFinally, climb the Leaderboard ranks for T2 Level 4 Ions, Armory 17 Orbs and exclusive Quicksilver Red Stars for top performers!"
-ID_QU_SM_SHOPPINGSPREE,Open Gold Orbs and special offers!
+ID_QU_LM_SHOPPINGSPREE,"It's time to go shopping!\n\nIn this special event, Open Gold Orbs and collect milestone points from daily exclusive Offers that cost Power Cores, Gold, Raid Credits or War Credits to open. Make sure to check the store daily for these unique deals!\n\nRewards include:\n- Victory Flags\n- Tactical Belt\n- Gold and Silver Promotion Credits\n- 5-Red Star Iron Man\n- Shards of famous Marvel business characters\n- and more!\n\nFinally, climb the Leaderboard ranks for T2 Level 5 Ions, Armory 17 Orbs and exclusive Quicksilver Red Stars for top performers!"
+ID_QU_SM_SHOPPINGSPREE,Open Gold Orbs and special Offers!
 ID_QU_S1_SHOPPINGSPREE,Open 1 Gold Orb
 ID_QU_S2_SHOPPINGSPREE,Collect 1 Milestone Point from a special Offer
 ID_QU_NA_FORCESOFNATURE,Forces of Nature
@@ -2695,6 +2695,14 @@ ID_QU_LM_RADIOACTIVERUN,"Spend Iso-8 Energy to earn Gold, Teal Gear and more!"
 ID_QU_SM_RADIOACTIVERUN,Spend Iso-8 Energy
 ID_QU_SC_RADIOACTIVERUN,Spend Iso-8 Energy
 ID_QU_S1_RADIOACTIVERUN,Spend 1 Iso-8 Energy
+ID_QU_NA_FIREINTHESKY,Fire in the Sky
+ID_QU_SD_FIREINTHESKY,Unlock and Power Up Firestar
+ID_QU_SC_FIREINTHESKY,Unlock and Power Up Firestar
+ID_QU_LM_FIREINTHESKY,Ignite your roster just by powering up Firestar!\n\n<color=#fff568>How to Earn Points</color>\nScore points to blaze through this 3-day milestone when you:\n\n- Open Light It Up Orbs\n- Recruit Firestar\n- Level Up Firestar\n- Rank Up (increase Star Rank) Firestar\n\n<color=#fff568>Light It Up Orb</color>\nContains Firestar character shards and purchasable using Power Cores.
+ID_QU_S1_FIREINTHESKY,Open 1 Light It Up Orb
+ID_QU_S2_FIREINTHESKY,Unlock Firestar
+ID_QU_S3_FIREINTHESKY,Level Up Firestar
+ID_QU_S4_FIREINTHESKY,Rank Up Firestar
 ID_QU_NA_SPECIALOFFENSIVE3,Special Offensive
 ID_QU_SD_SPECIALOFFENSIVE3,Invaders and Masters of Evil Shards!
 ID_QU_LM_SPECIALOFFENSIVE3,"Complete the milestones and climb the leaderboards to get these amazing rewards: \n\n- Invaders, Rebirth, and Masters of Evil shards\n- Training Modules\n- Silver, Dark Promotion, and Elite Credits\n- Orange and Teal Gear\n- And More!\n"

@@ -1183,6 +1183,7 @@ ID_REQUIRES_REBIRTH,REQUIRES: <color=#fff568>REBIRTH</color> CHARACTERS
 ID_ONLY_INVADERS_REBIRTH,ONLY <color=#fff568>INVADERS</color> or <color=#fff568>REBIRTH</color>
 ID_REQUIRES_INVADERS_REBIRTH,ONLY <color=#fff568>INVADERS</color> or <color=#fff568>REBIRTH</color>\nREQUIRES: <color=#fff568>CAPTAIN AMERICA (WWII)</color> AT GEAR TIER 13
 ID_REQUIRES_INVADERS_REBIRTH_BUCKY,"ONLY <color=#fff568>INVADERS</color> or <color=#fff568>REBIRTH</color>\nREQUIRES: <color=#fff568>CAPTAIN AMERICA (WWII)</color>,  <color=#fff568>UNION JACK</color>, <color=#fff568>BUCKY BARNES</color> AT GEAR TIER 13"
+ID_REQUIRES_INVADERS_REBIRTH_IRONFIST,"ONLY <color=#fff568>INVADERS</color> or <color=#fff568>REBIRTH</color>\nREQUIRES: <color=#fff568>CAPTAIN AMERICA (WWII)</color>,  <color=#fff568>UNION JACK</color>, <color=#fff568>BUCKY BARNES</color>, <color=#fff568>IRON FIST (WWII)</color> AT GEAR TIER 13"
 ID_REQUIRES_CAPWWII,<color=#fff568>CAPTAIN AMERICA (WWII)</color>
 ID_REQUIREMENT_INVADERS_EPIC_PREVIEW_CH,Requires 4 New\n<color=#fff568>INVADERS</color> at Gear Tier 15
 ID_REQUIREMENT_INVADERS_EPIC_PREVIEW_BO,"Requires 5\n<color=#fff568>INVADERS</color> at Gear Tier 15, 5 Stars"
