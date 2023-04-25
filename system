@@ -1194,3 +1194,7 @@ ID_REQUIREMENT_STAIRSTEP_INVADERS_04,"<color=#fff568>Invader</color> or <color=#
 ID_REQUIREMENT_STAIRSTEP_INVADERS_05," 5 <color=#fff568>Invader</color> characters"
 ID_REQUIREMENT_INVADERS_CHALLENGE,Characters must be at <color=#ffa500>Gear Tier 13</color>+
 ID_REQUIREMENT_INVADERS_EPIC,Characters must be at <color=#ffa500>Gear Tier 15</color>+
+ID_REQUIRES_NICKFURY_MAPSCREEN,Nick Fury
+ID_REQUIRES_NICKFURY_PREBATTLE_CH,REQUIRES: Nick Fury at Gear Tier 15+
+ID_REQUIRES_NICKFURY_PREBATTLE_BO,REQUIRES: 7 Star Nick Fury at Gear Tier 15+
+ID_REQUIREMENT_INVADERS_EPIC_MAPSCREEN_CH,4 New </color>\n<color=#fff568>INVADERS</color> at Gear 15

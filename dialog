@@ -3547,7 +3547,7 @@ ID_DIALOG_SEC_IFWW2_01_INTRO_2,Just a little town on the coast you might have he
 ID_DIALOG_SEC_IFWW2_01_START_0,"This is <color=#fff568>Iron Fist (WWII)</color>, a member of the <color=#fff568>Invaders</color> from another reality."
 ID_DIALOG_SEC_IFWW2_01_START_1,He and other <color=#fff568>Invader</color> characters are a powerful <color=#fff568>Skill</color> origin raid team.
 ID_DIALOG_SEC_IFWW2_01_START_2,Use his <color=#fff568>Special Ability</color> to attack primary and adjacent targets and extend all positive effects by +1 for self and <color=#fff568>Invader</color> allies.
-ID_DIALOG_SEC_IFWW2_01_START_3,Use his <color=#fff568>Ultimate Ability</color> to to apply <color=#fff568>Stun</color> to the primary target and heal self and all <color=#fff568>Invader</color> allies.
+ID_DIALOG_SEC_IFWW2_01_START_3,Use his <color=#fff568>Ultimate Ability</color> to apply <color=#fff568>Stun</color> to the primary target and heal self and all <color=#fff568>Invader</color> allies.
 ID_DIALOG_SEC_IFWW2_01_WAVE2_0,"[What the hell was that flash of light? This isn't France. Looks like New York. Smells like it, too.]"
 ID_DIALOG_SEC_IFWW2_01_WAVE2_1,"Foolish trespasser. I don't know how you evaded our lookouts, but soon it won't matter. Hand, attack!"
 ID_DIALOG_SEC_IFWW2_01_WAVE2_2,[Hand? Hmph. Some things never change.]
@@ -3602,6 +3602,136 @@ ID_DIALOG_SEC_IFWW2_08_END_4,Killmonger? Could that be the king those Wakandans 
 ID_DIALOG_SEC_IFWW2_08_END_5,He's tried to seize the throne in our world several times. Maybe in his he succeeded?
 ID_DIALOG_SEC_IFWW2_08_END_6,"Whatever all that means, it sounds like a solid lead. Maybe it's time we met your C.O., Peggy."
 ID_DIALOG_SEC_IFWW2_08_END_7,"Right you are, Steve. And I'm sure Director Fury can't wait to meet all of you as well."
+ID_DIALOG_SCE_INVADERS_01_INTRO_0,"Gentlemen, may I introduce Nick Fury, Director of S.H.I.E.L.D."
+ID_DIALOG_SCE_INVADERS_01_INTRO_1,"Director, meet the Invaders: Captain America, Bucky Barnes, Union Jack, and Iron Fist."
+ID_DIALOG_SCE_INVADERS_01_INTRO_2,"Living legends, in the flesh. Welcome to Nexus Earth, gentlemen. Captain Carter, you and your team are dismissed for now."
+ID_DIALOG_SCE_INVADERS_01_INTRO_3,Sir.
+ID_DIALOG_SCE_INVADERS_01_INTRO_4,"Director Fury, I think I speak for my entire team when I say: How can we help?"
+ID_DIALOG_SCE_INVADERS_01_INTRO_5,"That's the kind of can-do attitude I love to hear, Captain. But first I want to see what you and your team can do."
+ID_DIALOG_SCE_INVADERS_01_INTRO_6,"Head to the Training Room, I'll join you shortly."
+ID_DIALOG_SCE_INVADERS_01_START_0,I'll be joining you boys for this exercise. I've always wanted to fight alongside the heroes of the Allies. Looks like now I get that chance.
+ID_DIALOG_SCE_INVADERS_01_START_1,"This is Agent Coulson and his team, they will be conducting the combat assessment. Coulson."
+ID_DIALOG_SCE_INVADERS_01_START_2,"Wow, I thought we were lucky when we had one Captain America. Now we have two?"
+ID_DIALOG_SCE_INVADERS_01_START_3,"Test now, fawn later, Agent."
+ID_DIALOG_SCE_INVADERS_01_START_4,"Sorry. sir, it's just I get so.. well yeah. Sorry. Don't worry about hurting my team, they're actually LMDs. So don't hold back."
+ID_DIALOG_SCE_INVADERS_01_MID_0,"Looks like they need a higher setting, Coulson. Reset the LMDs and kick it up a notch."
+ID_DIALOG_SCE_INVADERS_01_END_0,"Well color me impressed. I knew you guys could kick butt, but seeing it is something else."
+ID_DIALOG_SCE_INVADERS_01_END_1,"I don't get it, what are these things? Machines?"
+ID_DIALOG_SCE_INVADERS_01_END_2,LMD - Life Model Decoy. It's a kind of machine copy of a person and their powers. We get all the best toys.
+ID_DIALOG_SCE_INVADERS_02_INTRO_0,"So Cap, are we ever going to find out how they plan to get us back home or what?"
+ID_DIALOG_SCE_INVADERS_02_INTRO_1,"Give 'em time, Orson. This world has been through a lot. But Peggy promised me she'd help us get back, and I trust her."
+ID_DIALOG_SCE_INVADERS_02_INTRO_2,"And well you should, Captain."
+ID_DIALOG_SCE_INVADERS_02_INTRO_3,Sir.
+ID_DIALOG_SCE_INVADERS_02_INTRO_4,"At ease, gentlemen. You've all been briefed on the history of my world and the incidents relating to an alien called Ultimus."
+ID_DIALOG_SCE_INVADERS_02_INTRO_5,"As well as the situation with a megalomaniac who calls himself ""Doom""."
+ID_DIALOG_SCE_INVADERS_02_INTRO_6,So I won't repeat what you already know. But what you don't know is that all this universe hopping has caused one hell of a mess.
+ID_DIALOG_SCE_INVADERS_02_INTRO_7,"And I need you gentlemen to help me clean it up. And in doing that, we might just save both of our worlds."
+ID_DIALOG_SCE_INVADERS_02_INTRO_8,"What can we do, sir?"
+ID_DIALOG_SCE_INVADERS_02_INTRO_9,"Glad you asked, Captain. The four of you and I are going to go looking for a guy you might have heard of named ""Killmonger""."
+ID_DIALOG_SCE_INVADERS_02_START_0,Intel says our target is in the vicinity. Watch for a little girl in a big tech suit. Name is Ironheart. She's got something we need.
+ID_DIALOG_SCE_INVADERS_02_MID_0,"Sir, that little girl has some big friends."
+ID_DIALOG_SCE_INVADERS_02_MID_1,"Aww, are the big muscle men scared of me and my friends? Good, you should be!"
+ID_DIALOG_SCE_INVADERS_02_END_0,"Boss, if you don't mind me asking, what are we doing exactly."
+ID_DIALOG_SCE_INVADERS_02_END_1,"Watch and learn, Mr. Barnes. You want to hunt down a guy like Killmonger, you need specialized equipment."
+ID_DIALOG_SCE_INVADERS_03_INTRO_0,"Intel says the Killmonger we're looking for is the king of Wakanda in his world, and is sporting some juiced up magic mojo."
+ID_DIALOG_SCE_INVADERS_03_INTRO_1,"So if you want to find an extra dimensional extra magical Wakandan king who doesn't want to be found, you need three things:"
+ID_DIALOG_SCE_INVADERS_03_INTRO_2,"A vibranium detector, a magic seeking spell, and a multiversal scanner to hook those up to."
+ID_DIALOG_SCE_INVADERS_03_INTRO_3,"So, one down, two to go?"
+ID_DIALOG_SCE_INVADERS_03_INTRO_4,Bingo.
+ID_DIALOG_SCE_INVADERS_03_START_0,"I'm busy right now, Fury. Go away."
+ID_DIALOG_SCE_INVADERS_03_START_1,"I'm afraid I can't do that. I need something called the ""Seeking Scroll of Solomon"" and rumor has it you've got one."
+ID_DIALOG_SCE_INVADERS_03_START_2,"If you think you and these mere mortals can take it from me, I invite you to try."
+ID_DIALOG_SCE_INVADERS_03_END_0,"The scroll, NOW. Or I might start to think you're being uncooperative."
+ID_DIALOG_SCE_INVADERS_03_END_1,"You're too late, Fury. Morgan Le Fay took my entire collection. Even I'm not fool enough to face her."
+ID_DIALOG_SCE_INVADERS_03_END_2,That does complicate things.
+ID_DIALOG_SCE_INVADERS_04_INTRO_0,"So let me see if I got this straight. We needed a thing from a wizard, but a different wizard took it before we got there?"
+ID_DIALOG_SCE_INVADERS_04_INTRO_1,Not just some wizard. Morgan Le Fay is one of the most dangerous mystically-inclined people on the planet.
+ID_DIALOG_SCE_INVADERS_04_INTRO_2,Normally we'd get the Sorcerer Supreme to lend a hand with something like this but he's not returning my calls.
+ID_DIALOG_SCE_INVADERS_04_INTRO_3,"So what's the play, Sir?"
+ID_DIALOG_SCE_INVADERS_04_INTRO_4,"Desperate long shot, Captain."
+ID_DIALOG_SCE_INVADERS_04_START_0,"Gentlemen we need to borrow a communicator to contact Asgard. Just so happens, you are acquainted with the folks who have it."
+ID_DIALOG_SCE_INVADERS_04_START_1,It's S.H.I.E.L.D. and Captain America!
+ID_DIALOG_SCE_INVADERS_04_START_2,"Sir, it will be our pleasure."
+ID_DIALOG_SCE_INVADERS_04_MID_0,You know what they say cut off one head...
+ID_DIALOG_SCE_INVADERS_04_MID_1,and two shall grow back in its place.
+ID_DIALOG_SCE_INVADERS_04_END_0,"Good work, everyone."
+ID_DIALOG_SCE_INVADERS_05_INTRO_0,"Earth to Asgard, come in Asgard. This is the Director of S.H.I.E.L.D. I need to speak to Loki of Asgard."
+ID_DIALOG_SCE_INVADERS_05_INTRO_1,Director Fury. To what do I owe the inconvenience of your contact?
+ID_DIALOG_SCE_INVADERS_05_INTRO_2,"Stow the attitude, Loki. You owe me a favor, I'm calling to collect."
+ID_DIALOG_SCE_INVADERS_05_INTRO_3,"Fine fine, tell me where to meet and I'll be there. But after this, we're even."
+ID_DIALOG_SCE_INVADERS_05_START_0,An Asgardian and a bunch of soldiers? Do you really mean to confront me with such meager forces?
+ID_DIALOG_SCE_INVADERS_05_START_1,THIS is your favor? You want my help taking down HER?
+ID_DIALOG_SCE_INVADERS_05_START_2,That's the long and short of it.
+ID_DIALOG_SCE_INVADERS_05_END_0,"Next time you think about calling me, Fury, don't."
+ID_DIALOG_SCE_INVADERS_05_END_1,"Hey pal, there are bigger things then your ego at play here. The fabric of reality is unraveling."
+ID_DIALOG_SCE_INVADERS_05_END_2,What are you mewing on about?
+ID_DIALOG_SCE_INVADERS_05_END_3,It's an Incursion. These guys are from another universe. And not that Ultimus business.
+ID_DIALOG_SCE_INVADERS_05_END_4,"This is new, dangerous, and might just destroy our entire reality if we don't succeed."
+ID_DIALOG_SCE_INVADERS_05_END_5,"An Incursion? Preposterous. What tiny minds you feeble humans have. I am a god, I do not fear your pitiful crisis."
+ID_DIALOG_SCE_INVADERS_05_END_6,"Well you better start, because last I checked you live in the universe too."
+ID_DIALOG_SCE_INVADERS_06_INTRO_0,"So we got the vibranium detector, we got that scroll, what's the last item on the shopping list?"
+ID_DIALOG_SCE_INVADERS_06_INTRO_1,We need a multiversal scanner. Something that can scan for specific frequencies of dimensional energy.
+ID_DIALOG_SCE_INVADERS_06_INTRO_2,Didn't we nab something like that from the guys in the beekeeper outfits?
+ID_DIALOG_SCE_INVADERS_06_INTRO_3,Unfortunately that one won't do what we need. A.I.M. cobbled that together from tech they salvaged.
+ID_DIALOG_SCE_INVADERS_06_INTRO_4,"If we want to be able to scan for Killmonger, we need to go to the same source they did."
+ID_DIALOG_SCE_INVADERS_06_START_0,Are we in space?
+ID_DIALOG_SCE_INVADERS_06_START_1,Fantastic. This world just keeps getting worse.
+ID_DIALOG_SCE_INVADERS_06_START_2,This ship used to belong to Ultimus. Its permanently locked in space and time to keep its cargo secure.
+ID_DIALOG_SCE_INVADERS_06_START_3,How did that happen?
+ID_DIALOG_SCE_INVADERS_06_START_4,Ask me about Reed Richards sometime.
+ID_DIALOG_SCE_INVADERS_06_END_0,What are all these... pods?
+ID_DIALOG_SCE_INVADERS_06_END_1,"This ship was Ultimus' dirty little secret. Every reality he invaded, the first thing he did was capture himself and store that variant here."
+ID_DIALOG_SCE_INVADERS_06_END_2,"Each one of those pods has an Ultimus in stasis inside. After we defeated Ultimus, Reed Richards found this place."
+ID_DIALOG_SCE_INVADERS_06_END_3,And we locked it in a pocket of spacetime just in case. Never know when a Kree warship filled with Ultimus variants will come in handy.
+ID_DIALOG_SCE_INVADERS_07_INTRO_0,"Get ready, team. The ship's multiversal scanner is locked to Ultimus DNA. So to use it, we're going to have to wake one up."
+ID_DIALOG_SCE_INVADERS_07_INTRO_1,"This guy is a Kree Eternal. That may not mean anything to you, but trust me, he won't go down easy."
+ID_DIALOG_SCE_INVADERS_07_START_0,Warning. Warning. Stasis suspended for Ultimus 1315.
+ID_DIALOG_SCE_INVADERS_07_START_1,"Who... I remember, it was me. And who are you? Tiny humans."
+ID_DIALOG_SCE_INVADERS_07_START_2,"Calm down big blue, the version of you that put you on ice is gone. We just need..."
+ID_DIALOG_SCE_INVADERS_07_START_3,I care not what needs you have. You were supremely foolish to release me. Now I will inherit what my variant began.
+ID_DIALOG_SCE_INVADERS_07_START_4,"KNEEL BEFORE ULTIMUS, WEAKLINGS!"
+ID_DIALOG_SCE_INVADERS_07_END_0,Really? THAT's the guy who started all this? He didn't seem so bad.
+ID_DIALOG_SCE_INVADERS_07_END_1,"We've gotten a lot stronger in the five years since he showed up, Captain. Back then, we could barely stand against his forces."
+ID_DIALOG_SCE_INVADERS_07_END_2,Nowadays it feels like every hero is an order of magnitude more powerful.
+ID_DIALOG_SCE_INVADERS_07_END_3,"So, by that logic the enemies you face must be that much more powerful, too."
+ID_DIALOG_SCE_INVADERS_07_END_4,"Anyone ever tell you you're a real ray of sunshine, Randall?"
+ID_DIALOG_SCE_INVADERS_08_INTRO_0,"Okay, plug this into this, that into that, say the words on the scroll and... okay scanner is doing its thing. Now we wait."
+ID_DIALOG_SCE_INVADERS_08_INTRO_1,"Where'd you learn to work with all this random stuff, Fury?"
+ID_DIALOG_SCE_INVADERS_08_INTRO_2,"Oh, I didn't. Guy by the name of Forge lent me a hand in working out how to do it. He's the best there is at kitbashing in a pinch."
+ID_DIALOG_SCE_INVADERS_08_INTRO_3,BEEP BOOP
+ID_DIALOG_SCE_INVADERS_08_INTRO_4,"Gentlemen, we have a location on Killmonger. Let's go."
+ID_DIALOG_SCE_INVADERS_08_START_0,"Oh, so you're the one who found me. Good. That makes it easy."
+ID_DIALOG_SCE_INVADERS_08_START_1,"Killmonger, I don't know if you're aware of this but you're severely outnumbered and outgunned. I suggest you surrender."
+ID_DIALOG_SCE_INVADERS_08_START_2,"Yeah, well, you don't know what you don't know, patches. I'm not like any Killmonger's you know. I got backing."
+ID_DIALOG_SCE_INVADERS_08_START_3,"My boys and I, we got REAL power from the man in the dark. Here's a taste."
+ID_DIALOG_SCE_INVADERS_08_WAVE2_0,He hits like a train filled with trucks filled with bricks.
+ID_DIALOG_SCE_INVADERS_08_WAVE2_1,Who IS this guy?!
+ID_DIALOG_SCE_INVADERS_08_WAVE3_0,Oh is this the best you can do? I admit you didn't go down as easy as the others we found droppin' into this world.
+ID_DIALOG_SCE_INVADERS_08_WAVE3_1,"But you're still no match for the Aphelions. Your world's gonna end, just like all the others."
+ID_DIALOG_SCE_INVADERS_08_WAVE3_2,Ultimus and Doom ain't got nothing on us.
+ID_DIALOG_SCE_INVADERS_08_END_0,"Okay, this has been real, but it's time to go."
+ID_DIALOG_SCE_INVADERS_08_END_1,Where did he go? What happened?
+ID_DIALOG_SCE_INVADERS_08_END_2,I think he just CREATED a rift to escape.
+ID_DIALOG_SCE_INVADERS_08_END_3,How is that possible? I thought you said rifts were the result of worlds colliding in this Incursion thing you told us about.
+ID_DIALOG_SCE_INVADERS_08_END_4,"Everything we know says creating rifts intentionally is impossible. But, we just saw him do it."
+ID_DIALOG_SCE_INVADERS_08_END_5,"What do we do now, sir?"
+ID_DIALOG_SCE_INVADERS_08_END_6,"For now, we head back to base. I want you all to link up with Captain Carter's team again and keep finding variants."
+ID_DIALOG_SCE_INVADERS_08_END_7,"We've got the scanner on Ultimus ship going, with luck maybe we can find a way to track Killmonger and his ""Aphelions"" friends."
+ID_DIALOG_SCE_INVADERS_09_INTRO_0,"Sir, our ""contact"" is calling."
+ID_DIALOG_SCE_INVADERS_09_INTRO_1,Put him on.
+ID_DIALOG_SCE_INVADERS_09_INTRO_2,I understand you've seen the face of your enemy. I trust you believe me now?
+ID_DIALOG_SCE_INVADERS_09_INTRO_3,I believe you told me enough to get me to see what you wanted me to see. The question is why.
+ID_DIALOG_SCE_INVADERS_09_INTRO_4,"My reasons are my own, of course. Let's just say, your enemy and mine have some areas of overlap."
+ID_DIALOG_SCE_INVADERS_09_INTRO_5,"Someone I'm hunting is allied with the ones you're becoming aware of. So for now, our interests are in alignment."
+ID_DIALOG_SCE_INVADERS_09_INTRO_6,"As a... gesture of goodwill, I am sending you the location of an enemy you might actually be able to capture."
+ID_DIALOG_SCE_INVADERS_09_INTRO_7,"He is, of course, quite powerful. Good luck. I'll contact you when it's time to take the fight to our mutual enemy."
+ID_DIALOG_SCE_INVADERS_09_START_0,What the hell? Is this some kind of sick joke?
+ID_DIALOG_SCE_INVADERS_09_START_1,Looks like someone snitched.
+ID_DIALOG_SCE_INVADERS_09_START_2,You're coming with me.
+ID_DIALOG_SCE_INVADERS_09_START_3,"Funny, I was about to say the same thing."
+ID_DIALOG_SCE_INVADERS_09_END_0,"Hill, get the jet ready. We're taking the prisoner to visit someone who can help us get some answers."
+ID_DIALOG_SCE_INVADERS_09_END_1,"Where to, sir?"
+ID_DIALOG_SCE_INVADERS_09_END_2,"Westchester County, New York."
 ID_DIALOG_ECM_ANTMAN_01_INTRO_0,"Ant-Man, S.T.R.I.K.E. needs your help."
 ID_DIALOG_ECM_ANTMAN_01_INTRO_1,"Wow, me? Seriously? What do you need me to steal?"
 ID_DIALOG_ECM_ANTMAN_01_INTRO_2,Nothing. We need a different set of skills this time around.

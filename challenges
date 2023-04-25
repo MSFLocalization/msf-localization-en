@@ -957,6 +957,7 @@ ID_SEC_INCURSION05_NAME,Incursion: Invaders
 ID_SEC_INCURSION05_DESC,"Gather a full team of Invaders to hunt down a dangerous foe, and dig deeper into the mystery of who is behind the Incursion threatening to destroy Nexus Earth."
 ID_SEC_CHANCE_INCURSION05,Prelude to Incursion V
 ID_EVENT_INCURSION05_DIF1_FLAVOR,Try the Invaders
+ID_EVENT_INCURSION05_DIF1_DESC,"Experience the true skill of the Invaders!\n\nBattle different enemy teams with a full Invaders roster, including recreations of some battles found in the DOOM raid!\n\nThese missions have no rewards, cost no energy, and are just for fun."
 ID_EVENT_INCURSION05_DIF2_FLAVOR,Investigate the Incursion
 ID_EVENT_INCURSION05_DIF2_DESC,"REQUIRED: Captain America (WWII), Union Jack, Bucky Barnes, & Iron Fist (WWII) at Gear Tier 15\n\nUse only: Invaders characters."
 ID_EVENT_INCURSION05_DIF3_FLAVOR,Earn Rare Rewards!

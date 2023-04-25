@@ -2971,3 +2971,39 @@ ID_MIS_INCURSION04_07_NAME,Closing In
 ID_MIS_INCURSION04_07_DESC,"Following the Hand back to its lair, the gang faces the last of the Hand's minions."
 ID_MIS_INCURSION04_08_NAME,Who Does Wicked Wong Work With?
 ID_MIS_INCURSION04_08_DESC,A powerful variant of an old friend appears to challenge the team.
+ID_MIS_INCURSION05_01_NAME,Team Building Exercise
+ID_MIS_INCURSION05_01_DESC,Nick Fury joins up with the Invaders to test their skills.
+ID_MIS_INCURSION05_02_NAME,Specialized Equipment
+ID_MIS_INCURSION05_02_DESC,"Fury has a plan to track down Killmonger, but needs a few things first..."
+ID_MIS_INCURSION05_03_NAME,Magic vs. Muscle
+ID_MIS_INCURSION05_03_DESC,The team pays a visit to Baron Mordo looking for the next item on Fury's shopping list.
+ID_MIS_INCURSION05_04_NAME,Desperate Long Shot
+ID_MIS_INCURSION05_04_DESC,The Invaders finally get to cut loose on some familiar foes.
+ID_MIS_INCURSION05_05_NAME,Mystic Mischief
+ID_MIS_INCURSION05_05_DESC,To face Morgan Le Fay the team will need their own mystical support and Fury's got just the god for the job.
+ID_MIS_INCURSION05_06_NAME,Ultimus' Dirty Little Secret
+ID_MIS_INCURSION05_06_DESC,"Seeking a multiversal scanner, Fury leads the team to one of the most dangerous secret places in the universe."
+ID_MIS_INCURSION05_07_NAME,Variant 1315
+ID_MIS_INCURSION05_07_DESC,To operate the multiversal scanner the team needs specific DNA.
+ID_MIS_INCURSION05_08_NAME,Aphelions Ascendant
+ID_MIS_INCURSION05_08_DESC,The Invaders track down an empowered Killmonger only to find the fight of their lives.
+ID_MIS_INCURSION05_09_NAME,Intelligence Gathering
+ID_MIS_INCURSION05_09_DESC,Fury's secret contact reveals the location of a variant that may have the answers he seeks.
+ID_MIS_INCURSION05_01_NAME_TD,Invaders vs. Hydra
+ID_MIS_INCURSION05_01_DESC_TD,Battle Hydra!
+ID_MIS_INCURSION05_02_NAME_TD,Invaders vs. Inhumans
+ID_MIS_INCURSION05_02_DESC_TD,Battle Inhumans!
+ID_MIS_INCURSION05_03_NAME_TD,Doom Raid I
+ID_MIS_INCURSION05_03_DESC_TD,See how the Invaders fare in a sample Skill battle from the Doom 3 raid.
+ID_MIS_INCURSION05_04_NAME_TD,Doom Raid II
+ID_MIS_INCURSION05_04_DESC_TD,See how the Invaders fare in a sample Skill battle from the Doom 3 raid.
+ID_MIS_INCURSION05_05_NAME_TD,Doom Raid III
+ID_MIS_INCURSION05_05_DESC_TD,See how the Invaders fare in a sample Skill Boss battle from the Doom 3 raid.
+ID_MIS_INCURSION05_06_NAME_TD,Doom IV
+ID_MIS_INCURSION05_06_DESC_TD,Battle Doctor Doom!
+ID_MIS_INCURSION05_07_NAME_TD,Single Test Dummy
+ID_MIS_INCURSION05_07_DESC_TD,Test the Invaders against a single very slow enemy with massive health.
+ID_MIS_INCURSION05_08_NAME_TD,Five Test Dummies
+ID_MIS_INCURSION05_08_DESC_TD,Test the Invaders against five very slow enemies with massive health.
+ID_MIS_INCURSION05_09_NAME_TD,Invaders vs The Black Order
+ID_MIS_INCURSION05_09_DESC_TD,Battle a very powerful enemy team.
