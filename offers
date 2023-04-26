@@ -2268,9 +2268,129 @@ ID_OF_DE_FIRESTAR_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 
 ID_OF_DE_FIRESTAR_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Firestar</color>. Bring the heat to Cosmic Crucible with this <color=#fff568>New Warrior</color> by flipping enemy Speed Up."
 ID_OF_NA_NEWWARRIORS_TEAM_OFFER,New Warrior Team Bundle
 ID_OF_DE_NEWWARRIORS_TEAM_OFFER,Crush competition in the Cosmic Crucible by powering up these <color=#fff568>New Warrior</color> team members!
+ID_OF_NA_SOLARFLARE_STARTER_MEGA,Solar Flare Mega Starter Bundle
+ID_OF_NA_SOLARFLARE_STARTER_SUPER,Solar Flare Super Starter Bundle
+ID_OF_NA_SOLARFLARE_STARTER,Solar Flare Starter Bundle
+ID_OF_NA_SOLARFLARE_BOOSTER_ANCHOR_c5,Daily Solar Boost
+ID_OF_NA_SOLARFLARE_BOOSTER_01_c60,Elemental Elite
+ID_OF_NA_SOLARFLARE_BOOSTER_01_c15,Lunar Legacy
+ID_OF_NA_SOLARFLARE_BOOSTER_01_c5,Astral Abilities
+ID_OF_NA_SOLARFLARE_BOOSTER_02_c15,Molten Mega Booster
+ID_OF_NA_SOLARFLARE_BOOSTER_01_c20,Planetary Promotion
+ID_OF_NA_SOLARFLARE_BOOSTER_02_c5,Cosmic Catalyst
+ID_OF_NA_SOLARFLARE_BOOSTER_01_c30,Alien Armory
+ID_OF_NA_SOLARFLARE_BOOSTER_03_c5,Mutant Express
+ID_OF_NA_SOLARFLARE_BOOSTER_04_c5,Solar Training
+ID_OF_NA_SOLARFLARE_BOOSTER_02_c40,Astronomic Offer
+ID_OF_NA_SOLARFLARE_BOOSTER_02_c60,Radioactive Booster
+ID_OF_NA_SOLARFLARE_BOOSTER_02_c20,Golden Stardust
+ID_OF_NA_SOLARFLARE_FREEDAILY,Solar Flare Daily Gift
+ID_OF_NA_SOLARFLARE_CATCHUP_MEGA,Solar Flare Mega Catch-Up
+ID_OF_NA_SOLARFLARE_CATCHUP_SUPER,Solar Flare Super Catch-Up
+ID_OF_NA_SOLARFLARE_CATCHUP,Solar Flare Catch-Up Bundle
+ID_OF_NA_SOLARFLARE_CATCHUP_LAST_CHANCE,Solar Flare Last Chance Bundle
+ID_OF_DE_SOLARFLARE_STARTER_MEGA,"Stock up on <color=#fff568>Solar Flare</color> progress and exclusive items, and get ahead on the Solar Flare Leaderboard for <color=#fff568>up to 6 million T2 Level 5 Ions</color>!"
+ID_OF_DE_SOLARFLARE_STARTER_SUPER,Get ahead in the <color=#fff568>Solar Flare</color> milestone and fast-forward your way to the <color=#fff568>Firestar shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
+ID_OF_DE_SOLARFLARE_STARTER,Start off strong in the <color=#fff568>Solar Flare</color> milestone!
+ID_OF_DE_SOLARFLARE_BOOSTER_ANCHOR_c5,Make consistent <color=#fff568>Solar Flare</color> progress with this daily <color=#fff568>Blazing X-Genes</color> supply!
+ID_OF_DE_SOLARFLARE_BOOSTER_01_c60,Stock up on <color=#fff568>Solar Flare</color> progress and <color=#fff568>Elite Credits</color> with this special deal!
+ID_OF_DE_SOLARFLARE_BOOSTER_01_c15,Stock up on <color=#fff568>Solar Flare</color> progress and <color=#fff568>Legacy Orbs</color> with this special deal!
+ID_OF_DE_SOLARFLARE_BOOSTER_01_c5,Stock up on <color=#fff568>Solar Flare</color> progress and <color=#fff568>Ability Materials</color> with this special deal!
+ID_OF_DE_SOLARFLARE_BOOSTER_02_c15,Stock up on <color=#fff568>Solar Flare</color> progress and <color=#fff568>Mega Orbs</color> with this special deal!
+ID_OF_DE_SOLARFLARE_BOOSTER_01_c20,Stock up on <color=#fff568>Solar Flare</color> progress and <color=#fff568>Gold Promotion Credits</color> with this special deal!
+ID_OF_DE_SOLARFLARE_BOOSTER_02_c5,Stock up on <color=#fff568>Solar Flare</color> progress and <color=#fff568>Catalysts</color> with this special deal!
+ID_OF_DE_SOLARFLARE_BOOSTER_01_c30,Stock up on <color=#fff568>Solar Flare</color> progress and <color=#fff568>Armory Orbs</color> with this special deal!
+ID_OF_DE_SOLARFLARE_BOOSTER_03_c5,Accelerate your <color=#fff568>Solar Flare</color> progress with these discounted <color=#fff568>Blazing X-Genes</color>!
+ID_OF_DE_SOLARFLARE_BOOSTER_04_c5,Stock up on <color=#fff568>Solar Flare</color> progress and <color=#fff568>Training Orbs</color> with this special deal!
+ID_OF_DE_SOLARFLARE_BOOSTER_02_c40,Take advantage of <color=#fff568>Solar Flare</color>'s highest discount offer for fast progress and Iso-8 upgrades!
+ID_OF_DE_SOLARFLARE_BOOSTER_02_c60,Stock up on <color=#fff568>Solar Flare</color> progress and <color=#fff568>Iso-8 Materials</color> with this special deal!
+ID_OF_DE_SOLARFLARE_BOOSTER_02_c20,Stock up on <color=#fff568>Solar Flare</color> progress and <color=#fff568>Gold</color> with this special deal!
+ID_OF_DE_SOLARFLARE_FREEDAILY,Come back daily for more <color=#fff568>Solar Flare</color> progress!
+ID_OF_DE_SOLARFLARE_CATCHUP_MEGA,"Finish strong in the milestones and leaderboards for <color=#fff568>Firestar shards</color>, <color=#fff568>fully crafted Gear Tier 17 pieces</color> and <color=#fff568>up to 6 million T2 Level 5 Ions</color>!"
+ID_OF_DE_SOLARFLARE_CATCHUP_SUPER,Finish strong in the milestones for <color=#fff568>Firestar shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
+ID_OF_DE_SOLARFLARE_CATCHUP_LAST_CHANCE,Catch this deal before it's too late to earn your final <color=#fff568>Firestar shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
+ID_OF_NA_FEELTHEBURN_MEGA_STARTER,Feel the Burn Super Starter Bundle
+ID_OF_NA_FEELTHEBURN_BIG_STARTER,Feel the Burn Big Starter Bundle
+ID_OF_NA_FEELTHEBURN_MEDIUM_STARTER,Feel the Burn Starter Bundle
+ID_OF_NA_FEELTHEBURN_LAST_CHANCE,Feel the Burn Catch-Up
+ID_OF_NA_FEELTHEBURN_CATCHUP_BUNDLE,Feel the Burn Big Catch-Up Bundle
+ID_OF_NA_FEELTHEBURN_DAILYRAIDS,Daily Raid Bundle
+ID_OF_NA_FEELTHEBURN_DAILYTRAINING,Daily Training Bundle
+ID_OF_NA_FEELTHEBURNFREE_DAILY_WEB_CLAIM,Feel the Burn Daily Gift
+ID_OF_NA_FEELTHEBURN_DAILY_INTERSTITIAL,Feel the Burn Web Special
+ID_OF_DE_FEELTHEBURN_MEGA_STARTER,Get ahead in the <color=#fff568>Feel the Burn</color> Milestone and fast-forward your way to <color=#fff568>Invader shards</color> and more!
+ID_OF_DE_FEELTHEBURN_MEDIUM_STARTER,Start off strong in the <color=#fff568>Feel the Burn</color> milestone!
+ID_OF_DE_FEELTHEBURN_LAST_CHANCE,"Finish strong in the milestones to earn <color=#fff568>Invader shards</color>, <color=#fff568>Teal Skill Gear</color> and more!"
+ID_OF_DE_FEELTHEBURN_DAILYRAIDS,Boost your Raids and <color=#fff568>Feel the Burn Milestone</color> progress at once with this daily bundle!\n*Items ignore resource capacity
+ID_OF_DE_FEELTHEBURN_DAILYTRAINING,Bolster your roster and <color=#fff568>Feel the Burn</color> progress with this deal on Training Orbs!
+ID_OF_DE_FEELTHEBURNFREE_DAILY_WEB_CLAIM,Come back daily for more <color=#fff568>Feel the Burn</color> progress!
+ID_OF_DE_FEELTHEBURN_DAILY_INTERSTITIAL,Unlock your discount before it's gone!
 ID_OF_DE_SPIDERWEAVER_BEGINNER_OFFER_55,Limited-time for new players: Get 55 shards and upgrade Spider-Weaver from 2 to 3 Stars with this offer!
 ID_OF_DE_SPIDERWEAVER_BEGINNER_OFFER_80,Limited-time for new players: Get 80 shards and upgrade Spider-Weaver from 3 to 4 Stars with this offer!
 ID_OF_DE_MANTIS_OFFER_BEGINNER,Limited-time for new players: Get 55 shards and upgrade Mantis from 2 to 3 Stars with this offer! Optimize and sustain your Guardians team with her powerful healing abilities.
 ID_OF_DE_LE_GUARDIANS_BUNDLE_2_01,"Unlock this 4-Star Guardians team and take on the Ultimus Raids. This bundle includes 180 shards of Rocket Raccoon, Groot, Mantis, Gamora, and Drax."
 ID_OF_DE_GAMORA_BEGINNER,Limited-time for new players: Recruit a 3-Star Gamora with this offer to power up your Guardians team!
 ID_OF_DE_LE_ROCKETRACCOON_OFFER_BEGINNER,Limited-time for new players: Recruit a 3-Star Rocket Raccoon with this offer to power up your Guardians team!
+ID_OF_NA_67_RED_STAR_DRAFT_GENERIC,6-7 Red Star Draft
+ID_OF_DE_67_RED_STAR_DRAFT_GENERIC,"Get an equal chance of either a <color=#fff568>6 or 7 Red Star</color> (Minimum Red Star Level 6, Maximum Red Star Level 7) for this <color=#fff568>character</color>. (Tap the icon for details)"
+ID_OF_DE_67_RED_STAR_DRAFT_GENERIC_TEAM,"Get an equal chance of either a <color=#fff568>6 or 7 Red Star</color> (Minimum Red Star Level 6, Maximum Red Star Level 7) for one of the members of this team (Tap the icon for more details)!"
+ID_OF_NA_MAYDAY2023_GOLDTRAIN_DUAL,May Day: Gold and Training
+ID_OF_NA_MAYDAY2023_ASB5,May Day: Springtime Celebration
+ID_OF_NA_MAYDAY2023_GENERIC,May Day Special
+ID_OF_NA_MAYDAY2023_TEAL_DUAL,May Day: Teal Booster
+ID_OF_NA_MAYDAY2023_MAYQUEEN_CARTER,May Queen: A Proper Fight
+ID_OF_NA_MAYDAY2023_MAYQUEEN_MOONSTONE,May Queen: Master Manipulator
+ID_OF_NA_MAYDAY2023_MAYQUEEN_AGATHA_SCOURGE,May Queen: Agatha and Horsemen
+ID_OF_DE_MAYDAY2023_GOLDTRAIN_DUAL,Level up your roster with this special May Day bundle!
+ID_OF_DE_MAYDAY2023_ASB5,Celebrate <color=#ffda21>May Day</color> with this offer! Tap the icon to find out more information!
+ID_OF_DE_MAYDAY2023_GENERIC,Celebrate <color=#ffda21>May Day</color> with this special offer with resources to take your roster to new heights!
+ID_OF_DE_MAYDAY2023_TEAL_DUAL,Take your characters' gear tiers to the next level with this bundle!
+ID_OF_DE_MAYDAY2023_MAYQUEEN_CARTER,"Crown a <color=#ffda21>May Queen</color> with this offer! Get <color=#ffda21>Captain Carter</color> shards with this offer! Lead the charge with painful attacks and by sustaining Rebirth allies with positive effects, Heals, and Revive."
+ID_OF_DE_MAYDAY2023_MAYQUEEN_MOONSTONE,Crown a <color=#ffda21>May Queen</color> with this offer! Power up <color=#ffda21>Moonstone</color>with this shard offer! Control Cosmic Crucible with Stuns and Speed Bar manipulation and complete your <color=#ffda21>Masters of Evil</color> team!
+ID_OF_DE_MAYDAY2023_MAYQUEEN_AGATHA_SCOURGE,Crown a <color=#ffda21>May Queen</color> with this offer! Toil and trouble with this <color=#ffda21>Agatha Harkness</color> offer this May Day! Get additional Pestilence and Famine Orbs for chances at <color=#ffda21>Morgan Le Fay</color> and <color=#ffda21>Rogue</color> shards!
+ID_OF_NA_TARGETEDOFFERS_MSFSTARTER,Marvel Strike Force Starter Pack
+ID_OF_DE_TARGETEDOFFERS_MSFSTARTER,Welcome to Marvel Strike Force! Unlock this exclusive
+ID_OF_NA_TARGETEDOFFERS_REDSTAR,Red Star Essentials Bundle
+ID_OF_DE_TARGETEDOFFERS_REDSTAR,The time is NOW to level up your roster! Test your luck on a higher Red Star Rarity!
+ID_OF_NA_TARGETEDOFFERS_ISOBOOSTER,Iso-8 Booster Bundle
+ID_OF_DE_TARGETEDOFFERS_ISOBOOSTER,Boost your roster through ISO-8 crystals
+ID_OF_NA_TARGETEDOFFERS_ISOSTARTER,Iso-8 Starter Bundle
+ID_OF_DE_TARGETEDOFFERS_ISOSTARTER,Get a headstart in powering up your roster!
+ID_OF_NA_TARGETEDOFFERS_MSFBOOSTER,Marvel Strike Force Booster Bundle
+ID_OF_DE_TARGETEDOFFERS_MSFBOOSTER,All the essentials you need to boost your power!
+ID_OF_NA_TARGETEDOFFERS_REDSTARUNLOCK,Red Star Unlock Exclusive
+ID_OF_DE_TARGETEDOFFERS_REDSTARUNLOCK,You have unlocked Red Stars - take advantage of this promotion credit bundle to power up your roster!
+ID_OF_NA_TARGETEDOFFERS_ENERGY,Energy Essentials
+ID_OF_DE_TARGETEDOFFERS_ENERGY,Energy Galore! Stock up on all the energy essentials you need now!
+ID_OF_NA_TARGETEDOFFERS_BLITZUNLOCK,Blitz Unlock Exclusive
+ID_OF_DE_TARGETEDOFFERS_BLITZUNLOCK,You have unlocked Blitz! Take advantage of this exclusive unlock bundle!
+ID_OF_NA_TARGETEDOFFERS_ARENAUNLOCK,Arena Unlock
+ID_OF_DE_TARGETEDOFFERS_ARENAUNLOCK,You have unlocked Arena! Take advantage of this exclusive unlock bundle!
+ID_OF_NA_TARGETEDOFFERS_POWERBUNDLE,Power Bundle
+ID_OF_DE_TARGETEDOFFERS_POWERBUNDLE,The time to power up your roster is now! Get essentials you need to take your roster to the next level!
+ID_OF_NA_TARGETEDOFFERS_POWERUP,Power Up Pack
+ID_OF_DE_TARGETEDOFFERS_POWERUP,Looks like you need a boost. Secure this pack for essentials to power up your roster!
+ID_OF_NA_TARGETEDOFFERS_TRAIN1,"TRAIN, TRAIN, TRAIN"
+ID_OF_DE_TARGETEDOFFERS_TRAIN1,"Training Orbs Fragments, Training Modules, Gold! Stock up to power up your team now!"
+ID_OF_NA_TARGETEDOFFERS_TRAIN2,TRAIN INSANE
+ID_OF_DE_TARGETEDOFFERS_TRAIN2,Train faster and stronger with these training essentials!
+ID_OF_NA_TARGETEDOFFERS_GOLD1,"GOLD, GOLD, GOLD"
+ID_OF_DE_TARGETEDOFFERS_GOLD1,"Gold, gold, gold - get all the gold you need here!"
+ID_OF_NA_TARGETEDOFFERS_GOLD2,Golden Offer
+ID_OF_DE_TARGETEDOFFERS_GOLD2,The golden road to a stronger roster starts here. Secure all the gold you need now!
+ID_OF_NA_TARGETEDOFFERS_ULTIMATE,Ultimate Power Up
+ID_OF_DE_TARGETEDOFFERS_ULTIMATE,The ULTIMATE power up bundle is here! Get everything you need to power up your roster!
+ID_OF_NA_TARGETEDOFFERS_GEAR,"GEAR, GEAR, GEAR"
+ID_OF_DE_TARGETEDOFFERS_GEAR,"Gear orb fragments, Armory orb fragments,"
+ID_OF_NA_TARGETEDOFFERS_ORBS,ORB-A-PALOOZA
+ID_OF_DE_TARGETEDOFFERS_ORBS,"Gold orbs, training orbs, armory orbs, legacy orbs and more! Unlock this exclusive bundle for more orbs, orbs, orbs!"
+ID_OF_NA_TARGETEDOFFERS_ABMATS,Awesome Ability Mats
+ID_OF_DE_TARGETEDOFFERS_ABMATS,Get all your ability mats here for an insane value!
+ID_OF_NA_TARGETEDOFFERS_SUPREME,Supreme Special
+ID_OF_DE_TARGETEDOFFERS_SUPREME,"Stay ahead by unlocking this special bundle! Gold, orbs, gear and more!"
+ID_OF_NA_INCURSION_GENERIC,Incursion Showcase Special
+ID_OF_DE_INCURSION_GENERIC,Fight off your enemies with this special <color=#ff6622>Incursion</color> bundle! Get supplies to power up your roster to meet the requirements!
+ID_OF_NA_EARTHDAY2023_CALENDAR_A,Earth-Sized Red Star Offer
+ID_OF_DE_EARTHDAY2023_CALENDAR_A,"Once in a lifetime Red Star offer! Get <color=#fff568>2,000</color> Gold Promotion Credits, <color=#fff568>1</color> Elite 7 Orb, and <color=#fff568>3</color> Elite 6 Orbs when you buy this offer! Log in for the next 100 days to collect your rewards."
+ID_OF_NA_EARTHDAY2023_CALENDAR_B,Gold and Gear for Days
+ID_OF_DE_EARTHDAY2023_CALENDAR_B,"Once in a lifetime Gold and Gear offer! Get <color=#fff568>5,000,000</color> Gold, <color=#fff568>1,000</color> Power Cores, <color=#fff568>1,000</color> Armory 16 Orbs, and <color=#fff568>100</color> Armory 17 Orbs when you buy this offer! Log in for the next 100 days to collect your rewards."

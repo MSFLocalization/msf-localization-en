@@ -181,8 +181,8 @@ ID_EVENT_CUR1_NAME,Cold Storage Milestone Points
 ID_EVENT_CUR1_DESCRIPTION,These points earn you additional progress in the Cold Storage Milestone. Earn them in Daily Free Claims on our website and in limited offers!
 ID_EVENT_CUR2_NAME,Gear Credits
 ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
-ID_EVENT_CUR3_NAME,Return to the Shadows Milestone Points
-ID_EVENT_CUR3_DESCRIPTION,These points earn you additional progress in the Return to the Shadows Milestone. Earn them in Daily Free Claims on our website and in limited offers!
+ID_EVENT_CUR3_NAME,Feel the Burn Milestone Points
+ID_EVENT_CUR3_DESCRIPTION,These points earn you additional progress in the Feel the Burn Milestone. Earn them in the Blazing Battles Web Milestone and limited offers!
 ID_EVENT_CUR4_NAME,Egg Hunt Milestone Points
 ID_EVENT_CUR4_DESCRIPTION,These points earn you additional progress in the Egg Hunt Milestone. Earn them in limited offers!
 ID_EVENT_CUR5_NAME,Easter Egg
@@ -285,3 +285,15 @@ ID_EVTA_META_APR_G_NAME,Commando Mask
 ID_EVTA_META_APR_G_DESCRIPTION,Collect Commando Mask for points in the Royal Soldier Event. Earn it in the Forces of Nature Event!
 ID_EVTA_META_APR_H_NAME,Union Jacket
 ID_EVTA_META_APR_H_DESCRIPTION,Collect Union Jacket for points in the Royal Soldier Event. Earn it in the Immortal Invader Event!
+ID_EVTA_META_MAY_A_NAME,Blazing X-Gene
+ID_EVTA_META_MAY_A_DESCRIPTION,Collect Blazing X-Genes for points in the Solar Flare Event. Earn them in various events throughout the month of May
+ID_EVTA_META_MAY_B_NAME,Mass. Academy ID
+ID_EVTA_META_MAY_B_DESCRIPTION,Collect the Mass. Academy ID for points in the Solar Flare Event. Earn it in the Feel the Burn Event!
+ID_EVTA_META_MAY_C_NAME,Protective Suit
+ID_EVTA_META_MAY_C_DESCRIPTION,Collect the Protective Suit for points in the Solar Flare Event. Earn it in the Interstellar Ignition Event!
+ID_EVTA_META_MAY_D_NAME,Glowing Mask
+ID_EVTA_META_MAY_D_DESCRIPTION,Collect the Glowing Mask for points in the Solar Flare Event. Earn it in the Light the Crucible Event!
+ID_EVTA_META_MAY_E_NAME,Red-Hot Gloves
+ID_EVTA_META_MAY_E_DESCRIPTION,Collect the Red-Hot Gloves for points in the Solar Flare Event. Earn them in the Out of this World Event!
+ID_EVTA_META_MAY_F_NAME,Searing Boots
+ID_EVTA_META_MAY_F_DESCRIPTION,Collect the Searing Boots for points in the Solar Flare Event. Earn them in the Cosmic Canine Event!

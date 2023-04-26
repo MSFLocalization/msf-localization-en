@@ -5950,6 +5950,24 @@ ID_ME_BO_SPECIALOFFENSIVE3_ANNOUNCE,"Commander,\n\nCrush Campaigns and rumble th
 ID_ME_NA_SPECIALOFFENSIVE3_ENDING,ENDING: Special Offensive
 ID_ME_DE_SPECIALOFFENSIVE3_ENDING,Don't miss out on rewards!
 ID_ME_BO_SPECIALOFFENSIVE3_ENDING,"Commander,\n\nThe Special Offensive Event ends <color=#fff568>soon</color>. Earn character shards for <color=#fff568>Invaders</color>, <color=#fff568>Rebirth</color>, and <color=#fff568>Masters of Evil</color> alongside <color=#fff568>Orange and Teal Gear</color> as well as more amazing rewards while there is still time left.\n\nGood luck, Commander!"
+ID_ME_NA_SOLARFLARE_TEASER,Coming Soon: Solar Flare
+ID_ME_DE_SOLARFLARE_TEASER,Earn Firestar shards & Teal gear
+ID_ME_BO_SOLARFLARE_TEASER,"Commander,\n\nTransform your roster with the upcoming <color=#fff568>Solar Flare</color> Event!\n\nParticipate in select May events to recruit <color=#fff568>Firestar</color> and earn spectacular rewards:\n\n- Firestar shards\n- Fully Crafted Gear Tier 17 Gear\n- Armory 14, 15, 16, and 17 Orbs\n- Gold Orbs\n- Orange Elite Orbs\n- and more!\n\nAdditional details are on the way, so be on the lookout!"
+ID_ME_NA_SOLARFLARE_ANNOUNCE,LIVE: Solar Flare
+ID_ME_DE_SOLARFLARE_ANNOUNCE,Recruit Firestar with May Events
+ID_ME_BO_SOLARFLARE_ANNOUNCE,"Commander,\n\nRecruit <color=#fff568>Firestar</color> and create a spectacular roster by participating in May events:\n\n<color=#fff568>Events</color>\nThroughout the month of May there will be separate milestone events that earn points toward the Solar Flare Event. The first is live now!\n\n<color=#fff568>Points</color>\nEarn points by collecting <color=#fff568>Blazing X-Genes</color>, <color=#fff568>Mass. Academy ID</color>, <color=#fff568>Protective Suit</color>, <color=#fff568>Glowing Mask</color>, <color=#fff568>Red-Hot Gloves</color>, and <color=#fff568>Searing Boots</color> from May events. You can find more Blazing X-Genes in Daily Free Claims on our website.\n\n<color=#fff568>Rewards</color>\nEarn Firestar shards, Fully Crafted Gear Tier 17 Gear, Gold Orbs, and more!\n\n<color=#fff568>Leaderboard</color>\nCompete on the Leaderboard for exclusive rewards. Players reaching the top 1% rank will earn exclusive <color=#fff568>T2 Level 5 Ions</color> and Armory 17 Orb Fragments, while other competitors can earn T2 Level 4 Ions, Gold Orb Fragments and Teal Raid Orbs!\n\nGood luck, Commander!"
+ID_ME_NA_SOLARFLARE_ENDING,Ending Soon: Solar Flare
+ID_ME_DE_SOLARFLARE_ENDING,3 days left to recruit Firestar!
+ID_ME_BO_SOLARFLARE_ENDING,"Commander,\n\nThe <color=#fff568>Solar Flare</color> Event ends in <color=#fff568>3 days</color>. Continue earning progress toward the milestone and recruit Firestar before it's too late!\n\nGood luck, Commander!"
+ID_ME_NA_FEELTHEBURN_TEASER,Coming Soon: Feel the Burn
+ID_ME_DE_FEELTHEBURN_TEASER,Fan the flames and earn Solar Flare progress
+ID_ME_BO_FEELTHEBURN_TEASER,"Commander,\n\nTurn up the heat in the <color=#fff568>Feel the Burn Milestone</color>. Earn valuable rewards including <color=#fff568>Invader shards, Skill Gear, and Stat Catalysts</color>! You'll also earn points in the month-long Solar Flare Event by collecting Blazing X-Genes and the Mass. Academy ID.\n\nGain progress in this <color=#fff568>4-day</color> event by opening Training Orbs, battling in Raids (with bonuses for using Invaders), and by completing the daily web milestone, <color=#fff568>Blazing Battles</color>.\n\nGood luck, Commander!"
+ID_ME_NA_FEELTHEBURN_ANNOUNCE,LIVE: Feel the Burn
+ID_ME_DE_FEELTHEBURN_ANNOUNCE,Earn Skill Gear and Invader Shards!
+ID_ME_BO_FEELTHEBURN_ANNOUNCE,"Commander,\n\nTurn up the heat in the <color=#fff568>Feel the Burn Milestone</color>. Earn valuable rewards including <color=#fff568>Invader shards, Skill Gear, and Stat Catalysts</color>! You'll also earn points in the month-long Solar Flare Event by collecting Blazing X-Genes and the Mass. Academy ID.\n\nGain progress in this <color=#fff568>4-day</color> event by opening Training Orbs, battling in Raids (with bonuses for using Invaders), and by completing the daily web milestone, <color=#fff568>Blazing Battles</color>.\n\nGood luck, Commander!"
+ID_ME_NA_FEELTHEBURN_ENDING,Ending Soon: Feel the Burn
+ID_ME_DE_FEELTHEBURN_ENDING,1 day left to earn rewards!
+ID_ME_BO_FEELTHEBURN_ENDING,"Commander,\n\nThe <color=#fff568>Feel the Burn</color> event ends in <color=#fff568>1 day</color>. Continue earning progress and get <color=#fff568>Invader shards</color> before it's too late!\n\nDon't miss out on this opportunity, Commander!"
 ID_ME_NA_COSMICCRUCIBLE_QUICKSILVER,Cosmic Crucible Reward Update
 ID_ME_DE_COSMICCRUCIBLE_QUICKSILVER,Earn Quicksilver Shards!
 ID_ME_BO_COSMICCRUCIBLE_QUICKSILVER,"Commander,\n\nYou can now earn <color=#fff568>Quicksilver</color> character shards from weekly Tournament Rewards at <color=#fff568>Gold I League and above</color>! Top performers can earn between 15 (Gold I) and 100 (Grandmaster) shards each week. Don't miss this opportunity to power up the versatile Quick Strike Speedster!"
@@ -5977,6 +5995,15 @@ ID_ME_BO_FIRESTAR_ELITE_STORE,"Commander,\n\nDirect Red Star promotions for <col
 ID_ME_NA_WARUPDATES_T2L5TEAL,War Reward Updates
 ID_ME_DE_WARUPDATES_T2L5TEAL,"T2 Level 5 Ions, Teal Uniques, & Gold"
 ID_ME_BO_WARUPDATES_T2L5TEAL,"Commander,\n\nS.T.R.I.K.E. has recently had the following improvements to its supply chain:\n\n- <color=#fff568>T2 Level 5 Ions</color> in Platinum and higher League Rewards\n- An increase in <color=#fff568>Gold, T2 Level 1 Ions, and T2 Level 4 Ions</color> from rewards across Leagues\n- New <color=#fff568>Teal Gear War Orbs</color> in the War Store for 2,000 Elite War Credits\n- 3 new slots in the War Store containing <color=#fff568>Teal Uniques</color>\n\nContinue crushing the opposition in <color=#fff568>Alliance War</color> to keep your roster ahead of the pack with this new supply of Teal Gear!"
+ID_ME_NA_NEWBLOGPOST_042823,Solar Flare
+ID_ME_DE_NEWBLOGPOST_042823,New Blog Available
+ID_ME_BO_NEWBLOGPOST_042823,"Commander,\n\nCatch fire in May and ignite your roster with details in this week's blog, which includes:\n\n- May's month-long event\n- Cosmic Crucible's Ultimate 32 Tournament details\n- Incursion: Invader details\n\nDon't miss out on this alongside details for Free Claim Friday!"
 ID_ME_NA_ANDROID_SUPPORT_APRIL2023,Update for Android Users
 ID_ME_DE_ANDROID_SUPPORT_APRIL2023,Low Memory Device Support
 ID_ME_BO_ANDROID_SUPPORT_APRIL2023,"A blog is now available on MarvelStrikeForce.com with important information for those using low memory Android devices. This includes crucial tips on optimizing your experience while playing Marvel Strike Force, such as updating your Android OS version."
+ID_ME_NA_DARKHOLD_POLL_RESULTS,Darkhold Blitz Poll Results
+ID_ME_DE_DARKHOLD_POLL_RESULTS,And the winner is...
+ID_ME_BO_DARKHOLD_POLL_RESULTS,"Commander,\n\nThe Apocalypse Saga Darkhold Blitz Community Poll on our <color=#fff568>MARVEL Strike Force Facebook</color> page has concluded and the winner is...\n\nAgatha Harkness!\n\nDon't miss Agatha Harkness's upcoming <color=#fff568>Coven Leader Blitz</color> for a chance to earn her character shards."
+ID_ME_NA_UNLIMITED_POLL_RESULTS,Unlmited X-Men Blitz Poll Results
+ID_ME_DE_UNLIMITED_POLL_RESULTS,And the winner is...
+ID_ME_BO_UNLIMITED_POLL_RESULTS,"Commander,\n\nThe Apocalypse Saga Darkhold Blitz Community Poll on our <color=#fff568>MARVEL Strike Force Facebook</color> page has concluded and the winner is...\n\nSunfire!\n\nDon't miss Sunfire's upcoming <color=#fff568>Pure Energy Blitz</color> for a chance to earn his character shards."

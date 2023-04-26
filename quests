@@ -2710,3 +2710,28 @@ ID_QU_SM_SPECIALOFFENSIVE3,"Earn Raid Credits, Spend Campaign Energy"
 ID_QU_SC_SPECIALOFFENSIVE3,"Earn Raid Credits, Spend Campaign Energy"
 ID_QU_S1_SPECIALOFFENSIVE3,Earn 1 Raid Credit
 ID_QU_S2_SPECIALOFFENSIVE3,Spend 1 Campaign Energy
+ID_QU_NA_SOLARFLARE,Solar Flare
+ID_QU_SD_SOLARFLARE,Participate in May Events
+ID_QU_LM_SOLARFLARE,Participate in various events throughout the month of May to earn milestone progress.
+ID_QU_SM_SOLARFLARE,Participate in May Events
+ID_QU_SC_SOLARFLARE,Participate in May Events
+ID_QU_S1_SOLARFLARE,Collect Blazing X-Genes
+ID_QU_S2_SOLARFLARE,Collect the Mass. Academy ID
+ID_QU_S3_SOLARFLARE,Collect the Protective Suit
+ID_QU_S4_SOLARFLARE,Collect the Glowing Mask
+ID_QU_S5_SOLARFLARE,Collect the Red-Hot Gloves
+ID_QU_S6_SOLARFLARE,Collect the Searing Boots
+ID_QU_NA_FEELTHEBURN,Feel the Burn
+ID_QU_SD_FEELTHEBURN,Raid and Open Training Orbs
+ID_QU_LM_FEELTHEBURN,"Turn up the heat in the Feel the Burn Milestone. Earn valuable rewards including Invader shards, Skill Gear, and Stat Catalysts! You'll also earn points in the month-long Solar Flare Event by collecting Blazing X-Genes and the Mass. Academy ID.\n\nGain progress in this 4-day event by opening Training Orbs, battling in Raids (with bonuses for using Invaders), and by completing the daily web milestone, Blazing Battles."
+ID_QU_S1_FEELTHEBURN,Raid Battle
+ID_QU_S2_FEELTHEBURN,Raid Battle with Invaders
+ID_QU_S3_FEELTHEBURN,Play 1 Raid Battle with Iron Fist (WWII) at 4 Stars
+ID_QU_S4_FEELTHEBURN,Play 1 Raid Battle with Iron Fist (WWII) at 6 Stars
+ID_QU_S5_FEELTHEBURN,Open 1 Training Orb
+ID_QU_NA_BLAZINGBATTLES,Blazing Battles
+ID_QU_SD_BLAZINGBATTLES,Win Blitz Battles
+ID_QU_LD_BLAZINGBATTLES,"Win Blitz Battles to complete this daily milestone that rewards Blue, Purple, Orange, and Teal Gear, and Feel the Burn Milestone Points."
+ID_QU_SM_BLAZINGBATTLES,Win Blitz Battles
+ID_QU_SC_BLAZINGBATTLES,Win Blitz Battles
+ID_QU_S1_BLAZINGBATTLES,Win 1 Blitz Battle
