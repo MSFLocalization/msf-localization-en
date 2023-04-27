@@ -2268,6 +2268,12 @@ ID_OF_DE_FIRESTAR_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 
 ID_OF_DE_FIRESTAR_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Firestar</color>. Bring the heat to Cosmic Crucible with this <color=#fff568>New Warrior</color> by flipping enemy Speed Up."
 ID_OF_NA_NEWWARRIORS_TEAM_OFFER,New Warrior Team Bundle
 ID_OF_DE_NEWWARRIORS_TEAM_OFFER,Crush competition in the Cosmic Crucible by powering up these <color=#fff568>New Warrior</color> team members!
+ID_OF_DE_SPIDERWEAVER_BEGINNER_OFFER_55,Limited-time for new players: Get 55 shards and upgrade Spider-Weaver from 2 to 3 Stars with this offer!
+ID_OF_DE_SPIDERWEAVER_BEGINNER_OFFER_80,Limited-time for new players: Get 80 shards and upgrade Spider-Weaver from 3 to 4 Stars with this offer!
+ID_OF_DE_MANTIS_OFFER_BEGINNER,Limited-time for new players: Get 55 shards and upgrade Mantis from 2 to 3 Stars with this offer! Optimize and sustain your Guardians team with her powerful healing abilities.
+ID_OF_DE_LE_GUARDIANS_BUNDLE_2_01,"Unlock this 4-Star Guardians team and take on the Ultimus Raids. This bundle includes 180 shards of Rocket Raccoon, Groot, Mantis, Gamora, and Drax."
+ID_OF_DE_GAMORA_BEGINNER,Limited-time for new players: Recruit a 3-Star Gamora with this offer to power up your Guardians team!
+ID_OF_DE_LE_ROCKETRACCOON_OFFER_BEGINNER,Limited-time for new players: Recruit a 3-Star Rocket Raccoon with this offer to power up your Guardians team!
 ID_OF_NA_SOLARFLARE_STARTER_MEGA,Solar Flare Mega Starter Bundle
 ID_OF_NA_SOLARFLARE_STARTER_SUPER,Solar Flare Super Starter Bundle
 ID_OF_NA_SOLARFLARE_STARTER,Solar Flare Starter Bundle
@@ -2325,12 +2331,6 @@ ID_OF_DE_FEELTHEBURN_DAILYRAIDS,Boost your Raids and <color=#fff568>Feel the Bur
 ID_OF_DE_FEELTHEBURN_DAILYTRAINING,Bolster your roster and <color=#fff568>Feel the Burn</color> progress with this deal on Training Orbs!
 ID_OF_DE_FEELTHEBURNFREE_DAILY_WEB_CLAIM,Come back daily for more <color=#fff568>Feel the Burn</color> progress!
 ID_OF_DE_FEELTHEBURN_DAILY_INTERSTITIAL,Unlock your discount before it's gone!
-ID_OF_DE_SPIDERWEAVER_BEGINNER_OFFER_55,Limited-time for new players: Get 55 shards and upgrade Spider-Weaver from 2 to 3 Stars with this offer!
-ID_OF_DE_SPIDERWEAVER_BEGINNER_OFFER_80,Limited-time for new players: Get 80 shards and upgrade Spider-Weaver from 3 to 4 Stars with this offer!
-ID_OF_DE_MANTIS_OFFER_BEGINNER,Limited-time for new players: Get 55 shards and upgrade Mantis from 2 to 3 Stars with this offer! Optimize and sustain your Guardians team with her powerful healing abilities.
-ID_OF_DE_LE_GUARDIANS_BUNDLE_2_01,"Unlock this 4-Star Guardians team and take on the Ultimus Raids. This bundle includes 180 shards of Rocket Raccoon, Groot, Mantis, Gamora, and Drax."
-ID_OF_DE_GAMORA_BEGINNER,Limited-time for new players: Recruit a 3-Star Gamora with this offer to power up your Guardians team!
-ID_OF_DE_LE_ROCKETRACCOON_OFFER_BEGINNER,Limited-time for new players: Recruit a 3-Star Rocket Raccoon with this offer to power up your Guardians team!
 ID_OF_NA_67_RED_STAR_DRAFT_GENERIC,6-7 Red Star Draft
 ID_OF_DE_67_RED_STAR_DRAFT_GENERIC,"Get an equal chance of either a <color=#fff568>6 or 7 Red Star</color> (Minimum Red Star Level 6, Maximum Red Star Level 7) for this <color=#fff568>character</color>. (Tap the icon for details)"
 ID_OF_DE_67_RED_STAR_DRAFT_GENERIC_TEAM,"Get an equal chance of either a <color=#fff568>6 or 7 Red Star</color> (Minimum Red Star Level 6, Maximum Red Star Level 7) for one of the members of this team (Tap the icon for more details)!"
@@ -2391,6 +2391,7 @@ ID_OF_DE_TARGETEDOFFERS_SUPREME,"Stay ahead by unlocking this special bundle! Go
 ID_OF_NA_INCURSION_GENERIC,Incursion Showcase Special
 ID_OF_DE_INCURSION_GENERIC,Fight off your enemies with this special <color=#ff6622>Incursion</color> bundle! Get supplies to power up your roster to meet the requirements!
 ID_OF_NA_EARTHDAY2023_CALENDAR_A,Earth-Sized Red Star Offer
-ID_OF_DE_EARTHDAY2023_CALENDAR_A,"Once in a lifetime Red Star offer! Get <color=#fff568>2,000</color> Gold Promotion Credits, <color=#fff568>1</color> Elite 7 Orb, and <color=#fff568>3</color> Elite 6 Orbs when you buy this offer! Log in for the next 100 days to collect your rewards."
+ID_OF_DE_EARTHDAY2023_CALENDAR_A,"Once in a lifetime Red Star offer! Get <color=#fff568>2,000</color> Gold Promotion Credits, <color=#fff568>1</color> Elite 7 Orb, and <color=#fff568>3</color> Elite 6 Orbs when you buy this offer! Log in 100 days to collect rewards from your calendar."
 ID_OF_NA_EARTHDAY2023_CALENDAR_B,Gold and Gear for Days
-ID_OF_DE_EARTHDAY2023_CALENDAR_B,"Once in a lifetime Gold and Gear offer! Get <color=#fff568>5,000,000</color> Gold, <color=#fff568>1,000</color> Power Cores, <color=#fff568>1,000</color> Armory 16 Orbs, and <color=#fff568>100</color> Armory 17 Orbs when you buy this offer! Log in for the next 100 days to collect your rewards."
+ID_OF_DE_EARTHDAY2023_CALENDAR_B,"Once in a lifetime Gold and Gear offer! Get <color=#fff568>5,000,000</color> Gold, <color=#fff568>1,000</color> Power Cores, <color=#fff568>1,000</color> Armory 16 Orbs, and <color=#fff568>100</color> Armory 17 Orbs when you buy this offer! Log in 100 days to collect rewards from your calendar."
+ID_OF_DE_XMEN_TEAM_1,Limited-time for new players: Unlock a 3-Star X-Men team!
