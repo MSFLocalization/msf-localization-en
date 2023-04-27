@@ -221,9 +221,9 @@ ID_OF_DE_FREEGIFTWEB_FRIDAY_01,Claim this exclusive free gift on us! Check back 
 ID_OF_NA_FREEGIFTWEB_FRIDAY_OFFER_01,S.T.R.I.K.E Force Fridays Offer
 ID_OF_DE_FREEGIFTWEB_FRIDAY_OFFER_01,Don't miss this short window to purchase this one-time offer! This offer only lasts for as long as this window is open!
 ID_OF_NA_SHEHULK_COSTUME,Attorney at Law Costume
-ID_OF_DE_SHEHULK_COSTUME,"Unlock the She-Hulk <color=#0ecf42>Attorney at Law</color> Costume with this offer.\nJennifer Walters takes on the fiercest legal battles for her superpowered clients, balancing her moral conviction and superhuman strength as their attorney. As seen in Marvel Studios' She-Hulk: Attorney at Law [2022]"
+ID_OF_DE_SHEHULK_COSTUME,"Unlock the She-Hulk <color=#0ecf42>Attorney at Law</color> Costume with this offer. Jennifer Walters takes on the fiercest legal battles for her superpowered clients, balancing her moral conviction and superhuman strength as their attorney."
 ID_OF_NA_SHEHULK_COSTUME_PANTS,Attorney at Law Costume (Variant)
-ID_OF_DE_SHEHULK_COSTUME_PANTS,"Unlock the She-Hulk <color=#0ecf42>Attorney at Law</color> Costume with this offer.\nJennifer Walters takes on the fiercest legal battles for her superpowered clients, balancing her moral conviction and superhuman strength as their attorney."
+ID_OF_DE_SHEHULK_COSTUME_PANTS,"Unlock the She-Hulk <color=#0ecf42>Attorney at Law</color> Costume with this offer. Jennifer Walters takes on the fiercest legal battles for her superpowered clients, balancing her moral conviction and superhuman strength as their attorney."
 ID_OF_NA_MAGIC1,Arcane Magic Offer
 ID_OF_DE_MAGIC1,Prepare for the Pestilence Scourge Event and save over <color=#fff568>{var1}%</color> on this Arcane Magic offer and power up your roster with this offer when you buy now.
 ID_OF_NA_SERUM3,Experimental Formula Offer
@@ -2393,5 +2393,5 @@ ID_OF_DE_INCURSION_GENERIC,Fight off your enemies with this special <color=#ff66
 ID_OF_NA_EARTHDAY2023_CALENDAR_A,Earth-Sized Red Star Offer
 ID_OF_DE_EARTHDAY2023_CALENDAR_A,"Once in a lifetime Red Star offer! Get <color=#fff568>2,000</color> Gold Promotion Credits, <color=#fff568>1</color> Elite 7 Orb, and <color=#fff568>3</color> Elite 6 Orbs when you buy this offer! Log in 100 days to collect rewards from your calendar."
 ID_OF_NA_EARTHDAY2023_CALENDAR_B,Gold and Gear for Days
-ID_OF_DE_EARTHDAY2023_CALENDAR_B,"Once in a lifetime Gold and Gear offer! Get <color=#fff568>5,000,000</color> Gold, <color=#fff568>1,000</color> Power Cores, <color=#fff568>1,000</color> Armory 16 Orbs, and <color=#fff568>100</color> Armory 17 Orbs when you buy this offer! Log in 100 days to collect rewards from your calendar."
+ID_OF_DE_EARTHDAY2023_CALENDAR_B,"Get <color=#fff568>5,000,000</color> Gold, <color=#fff568>1,000</color> Power Cores, <color=#fff568>1,000</color> Armory 16 Orbs, and <color=#fff568>100</color> Armory 17 Orbs to power up your roster!"
 ID_OF_DE_XMEN_TEAM_1,Limited-time for new players: Unlock a 3-Star X-Men team!

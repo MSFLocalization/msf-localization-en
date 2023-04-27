@@ -467,6 +467,9 @@ ID_ECM_NAME_TD,Test Drive
 ID_ECM_NAME_CH,Challenge
 ID_ECM_NAME_S,Story
 ID_ECM_NAME_E,Epic
+ID_ECM_NAME_EL,Easy Listening
+ID_ECM_NAME_HR,Hard Rock
+ID_ECM_NAME_HM,Heavy Metal
 ID_ECM_NAME_BONUS,Bonus
 ID_ECM_ANTMAN_NAME,I am the Ant-Man
 ID_ECM_ANTMAN_DESC,Ant-Man must wield Pym tech and his wits to foil a new threat from Ultimus and corrupted Vision.
@@ -925,6 +928,14 @@ ID_ECM_KANG_DESC_C,Experience the full power of the Masters of Evil!\n\nBattle d
 ID_ECM_TESTDRIVE_MOE,Try the Masters of Evil!
 ID_ECM_KANG_HARD_FLAVOR,Stop Kang Variants!
 ID_ECM_KANG_HEROIC_FLAVOR,Get Amazing Rewards!
+ID_ECM_GOTGVOL3_NAME,Greatest Hits
+ID_ECM_GOTGVOL3_DESC,"Between battles, Rocket Raccoon decides to regale Cosmo with tales of the Guardians' old adventures."
+ID_ECM_GOTGVOL3_DESC_A,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 8+\n- Ability Lvl 5+\n\nBetween battles, Rocket Raccoon decides to regale Cosmo with tales of the Guardians' old adventures."
+ID_ECM_GOTGVOL3_DESC_B,"Recommendations:\n- Squad Lvl 40+\n- Gear Tier 6+\n- Ability Lvl 3+\n\nBetween battles, Rocket Raccoon decides to regale Cosmo with tales of the Guardians' old adventures."
+ID_ECM_GOTGVOL3_DESC_C,"Play through the Guardians of the Galaxy's Greatest Hits using Mission Provided characters!\n\nBetween battles, Rocket Raccoon decides to regale Cosmo with tales of the Guardians' old adventures."
+ID_ECM_GOTGVOL3_MB,"Between battles, Rocket Raccoon decides to regale Cosmo with tales of the Guardians' old adventures."
+ID_ECM_GOTGVOL3_MC,GO!
+ID_ECM_GOTGVOL3_MT,The Greatest Hits event has started!
 ID_SEC_INCURSION01_NAME,Star-Spangled Man
 ID_SEC_INCURSION01_DESC,Interdimensional rifts have begun to mysteriously form across Nexus. Join forces with Captain Carter and the Rebirth team to investigate.
 ID_SEC_CHANCE_INCURSION01,Prelude to Incursion I

@@ -9538,6 +9538,96 @@ ID_DIALOG_SCE_IFWW2_05_END_4,Killmonger? Could that be the king those Wakandans 
 ID_DIALOG_SCE_IFWW2_05_END_5,He's tried to seize the throne in our world several times. Maybe in his he succeeded?
 ID_DIALOG_SCE_IFWW2_05_END_6,"Whatever all that means, it sounds like a solid lead. Maybe it's time we met your C.O., Peggy."
 ID_DIALOG_SCE_IFWW2_05_END_7,"Right you are, Steve. And I'm sure Director Fury can't wait to meet all of you as well."
+ID_DIALOG_ECM_GOTGVOL3_01_INTRO_0,I am Groot.
+ID_DIALOG_ECM_GOTGVOL3_01_INTRO_1,I am Cosmo!
+ID_DIALOG_ECM_GOTGVOL3_01_INTRO_2,I am Groot.
+ID_DIALOG_ECM_GOTGVOL3_01_INTRO_3,"Yes, new friend Groot... I am Cosmo?"
+ID_DIALOG_ECM_GOTGVOL3_01_INTRO_4,"Hey, fleabag, you speak Groot?"
+ID_DIALOG_ECM_GOTGVOL3_01_INTRO_5,"No, but I am trying to learn! I am trying to get Groot to tell me all about your adventures!"
+ID_DIALOG_ECM_GOTGVOL3_01_INTRO_6,"He doesn't say anything else! How could you miss that? Sigh... Okay, listen up. "
+ID_DIALOG_ECM_GOTGVOL3_01_INTRO_7,The first thing about us is that we used to... Ya know... Steal things. A lot!
+ID_DIALOG_ECM_GOTGVOL3_01_START_0,The alarm sounds! Destroy the thieves before they escape!
+ID_DIALOG_ECM_GOTGVOL3_01_START_1,Drax! I told you to disable the alarm!
+ID_DIALOG_ECM_GOTGVOL3_01_START_2,"I did disable it. Right before the very loud noise started, I ripped it from the wall! Many wires dangled. "
+ID_DIALOG_ECM_GOTGVOL3_01_START_3,"Okay, new plan! We focus on the 'smash' part of smash and grab!"
+ID_DIALOG_ECM_GOTGVOL3_01_END_0,"Quill's plan went sideways as usual, but thanks to some last-minute heroics from ME, we were saved."
+ID_DIALOG_ECM_GOTGVOL3_01_END_1,Wow! What did you do?
+ID_DIALOG_ECM_GOTGVOL3_01_END_2,"Oh, I blew the Kree ship up.\nREAL good. "
+ID_DIALOG_ECM_GOTGVOL3_02_INTRO_0,What was the thing that you blew up a whole ship to steal? It must have been very valuable!
+ID_DIALOG_ECM_GOTGVOL3_02_INTRO_1,"Who knows! We stole so much stuff from so many flarkin' dinguses back then that I lost count. "
+ID_DIALOG_ECM_GOTGVOL3_02_INTRO_2,"The only problem with stealing things is that usually, someone else wants to steal them, too..."
+ID_DIALOG_ECM_GOTGVOL3_02_START_0,"Okay, Quill! You mighta beat us to the goods, but you ain't free and clear yet. Hand it over. "
+ID_DIALOG_ECM_GOTGVOL3_02_START_1,"If it were just me, I'd surrender, Yondu! Since I'm such a big coward. But Rocket's going to save me again!"
+ID_DIALOG_ECM_GOTGVOL3_02_START_2,"Wow, did Star-Lord really say that?"
+ID_DIALOG_ECM_GOTGVOL3_02_START_3,"You callin' me a liar? Now, listen up to the rest..."
+ID_DIALOG_ECM_GOTGVOL3_02_END_0,"I saved the day YET AGAIN, and afterward, they made me king of the Ravagers. "
+ID_DIALOG_ECM_GOTGVOL3_02_END_1,Wow! Truly amazing!
+ID_DIALOG_ECM_GOTGVOL3_02_END_2,I am Groot!
+ID_DIALOG_ECM_GOTGVOL3_02_END_3,I am NOT embellishing! I don't even know what embellishing is!
+ID_DIALOG_ECM_GOTGVOL3_02_END_4,"...I am Groot. "
+ID_DIALOG_ECM_GOTGVOL3_02_END_5,"Okay, okay... Maybe that wasn't EXACTLY how it went down. "
+ID_DIALOG_ECM_GOTGVOL3_02_END_6,"But what happened next when the Kree showed up again... That's totally the truth. "
+ID_DIALOG_ECM_GOTGVOL3_03_INTRO_0,"So, maybe I didn't so much beat ALL the Ravagers."
+ID_DIALOG_ECM_GOTGVOL3_03_INTRO_1,But we did at least stall long enough for the Kree to catch up to us.
+ID_DIALOG_ECM_GOTGVOL3_03_INTRO_2,"Wait, isn't that a bad thing?"
+ID_DIALOG_ECM_GOTGVOL3_03_INTRO_3,"Psh, yeah, with that attitude!"
+ID_DIALOG_ECM_GOTGVOL3_03_INTRO_4,"I, on the other hand, saw this as a chance to test out a brand new beautiful blaster..."
+ID_DIALOG_ECM_GOTGVOL3_03_START_0,HAHAHAHAHA! BLAM! DEAD! BLAM! AH HAHAHA!
+ID_DIALOG_ECM_GOTGVOL3_03_START_1,Rocket! Watch where you're firing that thing!
+ID_DIALOG_ECM_GOTGVOL3_03_START_2,I am watching! You think I'd miss this?!
+ID_DIALOG_ECM_GOTGVOL3_03_START_3,You better miss ME or I'll shave you in your sleep... AGAIN!
+ID_DIALOG_ECM_GOTGVOL3_03_END_0,"We finally made enough of a mess that the Kree and Ravagers ended up fighting each other. "
+ID_DIALOG_ECM_GOTGVOL3_03_END_1,And did you sell the stolen goods for wonderous riches?
+ID_DIALOG_ECM_GOTGVOL3_03_END_2,"Flarkin' right, we did! At least, I think we did? We must have..."
+ID_DIALOG_ECM_GOTGVOL3_04_INTRO_0,I don't understand why you and the Guardians stopped stealing things if you miss it so much.
+ID_DIALOG_ECM_GOTGVOL3_04_INTRO_1,Hey... That's a good point. Why DID we stop?
+ID_DIALOG_ECM_GOTGVOL3_04_INTRO_2,I am Groot!
+ID_DIALOG_ECM_GOTGVOL3_04_INTRO_3,To do the right thing'?!\nThat CAN'T be it.
+ID_DIALOG_ECM_GOTGVOL3_04_INTRO_4,"We did end up doing some heroics that time we got mixed up with a stuck-up golden jerk. "
+ID_DIALOG_ECM_GOTGVOL3_04_INTRO_5,You mean Adam Warlock!
+ID_DIALOG_ECM_GOTGVOL3_04_INTRO_6,"Oh, so you hate him, too?\nAnyway, it started with a simple misunderstanding..."
+ID_DIALOG_ECM_GOTGVOL3_04_START_0,"Rocket, what did you say to to make these guys so mad?!"
+ID_DIALOG_ECM_GOTGVOL3_04_START_1,I think it wasn't WHAT I said so much. It was more HOW I said it...
+ID_DIALOG_ECM_GOTGVOL3_04_START_2,How did you say it?!
+ID_DIALOG_ECM_GOTGVOL3_04_START_3,"Heh heh, I'll tell you later. But you're not gonna like it either!"
+ID_DIALOG_ECM_GOTGVOL3_04_END_0,I thought this was a story of your heroism? And yet... This is mostly a tale of your rudeness.
+ID_DIALOG_ECM_GOTGVOL3_04_END_1,I'm gettin' to the hero part!
+ID_DIALOG_ECM_GOTGVOL3_04_END_2,Warlock was about to face the biggest bad in the galaxy. And his poorly dressed clowns were gonna need our help.
+ID_DIALOG_ECM_GOTGVOL3_04_END_3,I am Groot.
+ID_DIALOG_ECM_GOTGVOL3_04_END_4,"No, I DON'T think their outfits were cool! You don't even wear clothes!"
+ID_DIALOG_ECM_GOTGVOL3_05_INTRO_0,"Warlock was about to go up against someone even scarier than a Terran with all their pink skin showing. "
+ID_DIALOG_ECM_GOTGVOL3_05_INTRO_1,"The biggest bad in the galaxy, who'd brung his whole flarkin' Black Order with him. "
+ID_DIALOG_ECM_GOTGVOL3_05_INTRO_2,Thanos!!!
+ID_DIALOG_ECM_GOTGVOL3_05_INTRO_3,*BARK! BARK! BARK!*
+ID_DIALOG_ECM_GOTGVOL3_05_INTRO_4,"Hey! Knock it off! "
+ID_DIALOG_ECM_GOTGVOL3_05_INTRO_5,"Sorry... I am simply very excited. "
+ID_DIALOG_ECM_GOTGVOL3_05_START_0,Adam Warlock... You attempt to stand against me. Now you and your minions will be destroyed.
+ID_DIALOG_ECM_GOTGVOL3_05_START_1,"Woah! We are NOT his minions. We, like, JUST met this guy. "
+ID_DIALOG_ECM_GOTGVOL3_05_START_2,"Is this really the time for clarification, Peter Quill?"
+ID_DIALOG_ECM_GOTGVOL3_05_START_3,"I just think it's important to understand who everyone is before he destroys us, is all."
+ID_DIALOG_ECM_GOTGVOL3_05_END_0,"Incredible! By banding together, you were able to defeat one of the most powerful threats in the universe!"
+ID_DIALOG_ECM_GOTGVOL3_05_END_1,"Yeah, we beat him with the power of friendship. Or maybe Drax's knives. I forget which."
+ID_DIALOG_ECM_GOTGVOL3_05_END_2,"And now storytime is done, and I need Groot back so we can, uh, do more good deeds."
+ID_DIALOG_ECM_GOTGVOL3_05_END_3,I am Groot?
+ID_DIALOG_ECM_GOTGVOL3_05_END_4,Wait! Is that the ship's proximity alarm?
+ID_DIALOG_ECM_GOTGVOL3_05_END_5,Uh oh...
+ID_DIALOG_ECM_GOTGVOL3_06_INTRO_0,"Rocket! You don't know anything about the evil versions of us from another universe about to board our ship, do you?"
+ID_DIALOG_ECM_GOTGVOL3_06_INTRO_1,You're gonna need to be more specific. WHICH evil versions of us?
+ID_DIALOG_ECM_GOTGVOL3_06_INTRO_2,The ones looking for the Primagen Crystals we stole from the Kree like... forever ago.
+ID_DIALOG_ECM_GOTGVOL3_06_INTRO_3,"But we don't have those crystals, right? Because you SOLD them when we told you to, RIGHT?"
+ID_DIALOG_ECM_GOTGVOL3_06_INTRO_4,I wasn't just going to sell them! You know how many Kree and Ravagers I had to explode to get these?
+ID_DIALOG_ECM_GOTGVOL3_06_INTRO_5,Yes! Because I was THERE!
+ID_DIALOG_ECM_GOTGVOL3_06_START_0,"Okay, uglies! Give us the crystals and we'll blow you up once instead of a buncha times. "
+ID_DIALOG_ECM_GOTGVOL3_06_START_1,"Hey, Cosmo! Want to be a part of one of those stories?"
+ID_DIALOG_ECM_GOTGVOL3_06_START_2,Grrrr...
+ID_DIALOG_ECM_GOTGVOL3_06_END_0,"And that is how we beat an evil version of the Guardians. "
+ID_DIALOG_ECM_GOTGVOL3_06_END_1,"Yes... this time I was there as well. "
+ID_DIALOG_ECM_GOTGVOL3_06_END_2,"My storytelling was so vivid. I made it feel as though it happened only yesterday. "
+ID_DIALOG_ECM_GOTGVOL3_06_END_3,"It just happened.\nLike two minutes ago. "
+ID_DIALOG_ECM_GOTGVOL3_06_END_4,Does this mean I am a member of your team now?
+ID_DIALOG_ECM_GOTGVOL3_06_END_5,"Yeah, sure, welcome aboard. Now, as your first official bit of Guardians business..."
+ID_DIALOG_ECM_GOTGVOL3_06_END_6,"Help me and Groot figure out where I left those highly volatile crystals before they blow up and kill us all. "
+ID_DIALOG_ECM_GOTGVOL3_06_END_7,I am Groot!
 ID_DIALOG_NUE_00_01_0,"Commander, I'm glad you're here. \nWe have a situation."
 ID_DIALOG_NUE_00_01_1,Interdimensional signatures are popping up all over New York City.
 ID_DIALOG_NUE_00_01_2,"As commander of S.T.R.I.K.E., interdimensional threats are your jurisdiction. "
