@@ -183,10 +183,10 @@ ID_EVENT_CUR2_NAME,Gear Credits
 ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
 ID_EVENT_CUR3_NAME,Feel the Burn Milestone Points
 ID_EVENT_CUR3_DESCRIPTION,These points earn you additional progress in the Feel the Burn Milestone. Earn them in the Blazing Battles Web Milestone and limited offers!
-ID_EVENT_CUR4_NAME,Egg Hunt Milestone Points
-ID_EVENT_CUR4_DESCRIPTION,These points earn you additional progress in the Egg Hunt Milestone. Earn them in limited offers!
-ID_EVENT_CUR5_NAME,Easter Egg
-ID_EVENT_CUR5_DESCRIPTION,"Collect Easter Eggs from Campaign nodes and limited offers. Spend them in the Easter Egg Event Store for Teal Unique Gear Pieces, character shards, and more!"
+ID_EVENT_CUR4_NAME,Interstellar Ignition Milestone Points
+ID_EVENT_CUR4_DESCRIPTION,"These points earn you additional progress in the Interstellar Ignition Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EVENT_CUR5_NAME,Interstellar Orb Fragments
+ID_EVENT_CUR5_DESCRIPTION,Collect Interstellar Orb Fragments from Campaign nodes to earn progress in the Interstellar Ignition Milestone.
 ID_EVENT_CUR6_NAME,Reaper Orb Fragments
 ID_EVENT_CUR6_DESCRIPTION,Collect Reaper Orb Fragments from Campaign nodes to earn progress in the Angel's Army Milestone.
 ID_EVENT_CUR7_NAME,Kinetic Health Pack

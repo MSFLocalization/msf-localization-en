@@ -5907,7 +5907,7 @@ ID_ME_DE_IMMORTALINVADER_ENDING,1 day left!
 ID_ME_BO_IMMORTALINVADER_ENDING,"Commander,\n\nImmortal Invader Event ends in <color=#fff568>1 day</color>. Continue earning Iron Fist (WWII) character shards and Royal Soldier progress before they're gone!\n\nGood luck, Commander!"
 ID_ME_NA_SPOILSOFWAR_ANNOUNCE,LIVE: Spoils of War
 ID_ME_DE_SPOILSOFWAR_ANNOUNCE,Battle in Alliance War for Iso-8 rewards!
-ID_ME_BO_SPOILSOFWAR_ANNOUNCE,"Commander,\n\nCollaborate with your alliance and battle in War in this 7-day milestone to earn Iso-8 Ions, Iso-8 Orbs and Royal Soldier progress.\n\nGood luck, Commander!"
+ID_ME_BO_SPOILSOFWAR_ANNOUNCE,"Commander,\n\nCollaborate with your alliance and battle in War in this 7-day milestone to earn Iso-8 Ions, Iso-8 Orbs, and Solar Flare progress.\n\nGood luck, Commander!"
 ID_ME_NA_DEVNOTEOFFERTEXT,Note from the Developer
 ID_ME_DE_DEVNOTEOFFERTEXT,Apology for Improper Offer Text
 ID_ME_BO_DEVNOTEOFFERTEXT,"On April 1st, some offers contained messages intended to be playful relating to April Fool's Day. However, the language was insensitive and made it past the review process. We deactivated the offers almost immediately and are implementing a stricter review process to ensure this doesn't happen again. We understand that some players found these messages to be offensive, and we deeply apologize for our use of language. We are a diverse group that respects people from all walks of life and we're proud to be inclusive of all cultures and perspectives. We would not intentionally seek to offend anyone and take this matter seriously. We regret publishing the messages and will not do it again.\n\n-MARVEL Strike Force Dev Team"
@@ -5988,7 +5988,7 @@ ID_ME_DE_FIRESTAR_ORB_ENDING,1 day left!
 ID_ME_BO_FIRESTAR_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Light It Up Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>1 more day</color>.\n\nDon't miss this chance to power up <color=#fff568>Firestar</color> for your <color=#fff568>New Warriors</color> Cosmic Crucible team!"
 ID_ME_NA_FIRESTAR_PREBAMESH,Recruit Firestar!
 ID_ME_DE_FIRESTAR_PREBAMESH,Availability Update
-ID_ME_BO_FIRESTAR_PREBAMESH,"Commander,\n\n<color=#fff568>Firestar</color> has been added to the Ultimus Orb, Basic Orb, Premium Orb, Mega Orb, and the Supplies section in the Store.\n\nAs a result, we have removed <color=#fff568>Scarlet Spider</color> from the Mega Orb to keep the orb's content exciting and up to date."
+ID_ME_BO_FIRESTAR_PREBAMESH,"Commander,\n\n<color=#fff568>Firestar</color> has been added to the Ultimus Orb, Basic Orb, Premium Orb, Mega Orb, and the Supplies section in the Store.\n\nAs a result, we have removed <color=#fff568>Kitty Pryde</color> from the Mega Orb to keep the orb's content exciting and up to date."
 ID_ME_NA_FIRESTAR_ELITE_STORE,Red Stars for Firestar
 ID_ME_DE_FIRESTAR_ELITE_STORE,Elite Store Update
 ID_ME_BO_FIRESTAR_ELITE_STORE,"Commander,\n\nDirect Red Star promotions for <color=#fff568>Firestar</color> have been added to the <color=#fff568>Elite Store</color>!\n\nYou can now use <color=#fff568>Silver or Gold Promotion Credits</color> to promote Firestar <color=#fff568>1 Red Star higher</color> than their current rank.\n\nEarn Promotion Credits by <color=#fff568>exchanging your Elite Credits</color> or by completing the Alliance Donation Daily Objective."
@@ -6037,3 +6037,39 @@ ID_ME_BO_COSMICCRUCIBLE_SEASON_ANNOUNCE,"Commander,\n\nThe latest Cosmic Crucibl
 ID_ME_NA_COSMICCRUCIBLE_ULTIMATE32,Cosmic Crucible Ultimate 32
 ID_ME_DE_COSMICCRUCIBLE_ULTIMATE32,Limited Tournament
 ID_ME_BO_COSMICCRUCIBLE_ULTIMATE32,"Commander,\n\nPut your <color=#fff568>Cosmic Crucible</color> skills to the test during the upcoming week-long 32-Commander tournament, <color=#fff568>Ultimate 32</color>! This tournament <color=#fff568>will last five days</color> instead of the usual three.\n\nTo help even the playing field in your respective bracket and encourage your climb to higher Leagues, the usual new season Tribunal score reduction will apply to Ultimate 32. However, the reduction won't be applied again when Season 3 begins. Hold nothing back on the battlefield during Ultimate 32 because your efforts <color=#fff568>will contribute to your Season 3 score</color>!\n\nYou can now view the <color=#fff568>special Stage Rules</color> for this tournament, so set your defenses to position yourself for victory!\n\nGood luck, Commander."
+ID_ME_NA_DORMAMMU_6REDSTAR_UPDATE,Dormammu Red Stars
+ID_ME_DE_DORMAMMU_6REDSTAR_UPDATE,Now Available: 6 Red Stars
+ID_ME_BO_DORMAMMU_6REDSTAR_UPDATE,"Commander,\n\nBeware what lurks within the Dark Dimension as <color=#fff568>Dormammu's</color> power has grown!\n\n<color=#fff568>6-Red Star Promotions</color> are now available for Dormammu in the Elite Store and are purchasable using Dark Promotion Credits.\n\nHead to the Elite Store now and devastate your foes!"
+ID_ME_NA_DORMAMMU_7REDSTAR_UPDATE,Dormammu Red Stars
+ID_ME_DE_DORMAMMU_7REDSTAR_UPDATE,Now Available: 7 Red Stars
+ID_ME_BO_DORMAMMU_7REDSTAR_UPDATE,"Commander,\n\nBeware what lurks within the Dark Dimension as <color=#fff568>Dormammu's</color> power has grown!\n\n<color=#fff568>7-Red Star Promotions</color> are now available for Dormammu in the Elite Store and are purchasable using Dark Promotion Credits.\n\nHead to the Elite Store now and devastate your foes!"
+ID_ME_NA_INTERSTELLARIGNITION_TEASER,Coming Soon: Interstellar Ignition
+ID_ME_DE_INTERSTELLARIGNITION_TEASER,Earn Cosmic Character Shards & T2 Level 5 Ions!
+ID_ME_BO_INTERSTELLARIGNITION_TEASER,"Commander,\n\nGain progress in this <color=#fff568>6-day</color> event by earning Interstellar Orb Fragments from Campaign nodes, spending Power Cores, and by participating in the Deep Space Drive Web Milestone.\n\nMilestone\nEarn valuable rewards including <color=#fff568>Dark Promotion Credits, T2 Level 5 Ions, Bio and Tech gear</color>. You'll also earn points towards the month-long Solar Flare milestone by collecting Blazing X-Genes and the Protective Suit.\n\nGood luck, Commander!"
+ID_ME_NA_INTERSTELLARIGNITION_ANNOUNCE,LIVE: Interstellar Ignition
+ID_ME_DE_INTERSTELLARIGNITION_ANNOUNCE,Earn Cosmic Character Shards & T2 Level 5 Ions!
+ID_ME_BO_INTERSTELLARIGNITION_ANNOUNCE,"Commander,\n\nGain progress in this <color=#fff568>6-day</color> event by earning Interstellar Orb Fragments from Campaign nodes, spending Power Cores, and by participating in the Deep Space Drive Web Milestone.\n\nMilestone\nEarn valuable rewards including <color=#fff568>Dark Promotion Credits, T2 Level 5 Ions, Bio and Tech gear</color>. You'll also earn points towards the month-long Solar Flare milestone by collecting Blazing X-Genes and the Protective Suit.\n\nGood luck, Commander!"
+ID_ME_NA_INTERSTELLARIGNITION_ENDING,Ending Soon: Interstellar Ignition
+ID_ME_DE_INTERSTELLARIGNITION_ENDING,1 day left to earn rewards!
+ID_ME_BO_INTERSTELLARIGNITION_ENDING,"Commander,\n\nThe <color=#fff568>Interstellar Ignition Milestone</color> event ends in <color=#fff568>1 day</color>. Continue earning progress and get <color=#fff568>Dark Promotion Credits and T2 Level 5 Ions</color> before it's too late!\n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_701PATCHNOTES_TEASER,Update Coming Soon
+ID_ME_DE_701PATCHNOTES_TEASER,Prepare yourself
+ID_ME_BO_701PATCHNOTES_TEASER,"Commander,\n\nA new MARVEL Strike Force update is coming soon, including:\n\n- 6 new playable characters\n- Character updates\n- New Costumes\n- Cosmic Crucible Ultimate 32 and Season 3\n- Additional Challenges\n- Alliance War Updates\n- And more...\n\nGet ready for these and other big changes coming soon!"
+ID_ME_NA_GWENPOOL_TEASER,Coming Soon: Gwenpool
+ID_ME_DE_GWENPOOL_TEASER,4th Wall-Breaking Brawler
+ID_ME_BO_GWENPOOL_TEASER,"Commander,\n\n<color=#fff568>Gwenpool</color> is suiting up for battle! Complete your New Warriors team with this 4th Wall-Breaking Brawler to slice through competition and untangle webs in Cosmic Crucible:\n\n<color=#fff568>Team</color>: New Warriors - Cosmic Crucible\n<color=#fff568>Strengths</color>: Health and Resistance\n<color=#fff568>Specialty</color>: High Damage attacks and providing Charged to New Warrior allies\n<color=#fff568>Ability Highlights</color>: On Crucible Offense, Special Ability flips enemy Stealth\n<color=#fff568>Cosmic Crucible Offense Bonuses</color>: Grants New Warrior allies additional Health and +50% Accuracy.\n\nCheck out our latest blog to learn more about her kit!"
+ID_ME_NA_GWENPOOL_ANNOUNCE,Ready for Battle: Gwenpool
+ID_ME_DE_GWENPOOL_ANNOUNCE,4th Wall-Breaking Brawler
+ID_ME_BO_GWENPOOL_ANNOUNCE,"Commander,\n\nComplete your New Warriors team, cut through competition, and untangle webs in Cosmic Crucible with <color=#fff568>Gwenpool</color>:\n\n<color=#fff568>Team</color>: New Warriors - Cosmic Crucible\n<color=#fff568>Strengths</color>: Health and Resistance\n<color=#fff568>Specialty</color>: High Damage attacks and providing Charged to New Warrior allies\n<color=#fff568>Ability Highlights</color>: On Crucible Offense, Special Ability flips enemy Stealth\n<color=#fff568>Cosmic Crucible Offense Bonuses</color>: Grants New Warrior allies additional Health and +50% Accuracy.\n\n<color=#fff568>How to Recruit</color>\n- Comic Fan Orb\n- Limited-Time offers in the Store\n- Out of this World event\n\n<color=#fff568>Red Stars</color>\nFor players who have unlocked the Red Star feature (Level 42), Gwenpool is featured in the Red Star Orbs with a significantly increased drop rate for a limited time.\n\nRecruit Gwenpool to your New Warriors team today!"
+ID_ME_NA_GWENPOOL_RS_ENDING,Red Star ft. Gwenpool
+ID_ME_DE_GWENPOOL_RS_ENDING,1 day left!
+ID_ME_BO_GWENPOOL_RS_ENDING,"Commander,\n\n<color=#fff568>Gwenpool</color> will only be featured in all Red Star Orbs for 1 more day! Hurry and open Red Star Orbs while the drop rate is significantly increased for a limited time."
+ID_ME_NA_GWENPOOL_ORB_ENDING,Comic Fan Orb
+ID_ME_DE_GWENPOOL_ORB_ENDING,1 day left!
+ID_ME_BO_GWENPOOL_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Comic Fan Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>1 more day</color>.\n\nDon't miss this chance to power up <color=#fff568>Gwenpool</color> for your <color=#fff568>New Warriors</color> Cosmic Crucible team!"
+ID_ME_NA_GWENPOOL_PREBAMESH,Recruit Gwenpool!
+ID_ME_DE_GWENPOOL_PREBAMESH,Availability Update
+ID_ME_BO_GWENPOOL_PREBAMESH,"Commander,\n\n<color=#fff568>Gwenpool</color> has been added to the Ultimus Orb, Basic Orb, Premium Orb, Mega Orb, and the Supplies section in the Store.\n\nAs a result, we have removed <color=#fff568>Spider-Punk</color> from the Mega Orb to keep the orb's content exciting and up to date."
+ID_ME_NA_GWENPOOL_ELITE_STORE,Red Stars for Gwenpool
+ID_ME_DE_GWENPOOL_ELITE_STORE,Elite Store Update
+ID_ME_BO_GWENPOOL_ELITE_STORE,"Commander,\n\nDirect Red Star promotions for <color=#fff568>Gwenpool</color> have been added to the <color=#fff568>Elite Store</color>!\n\nYou can now use <color=#fff568>Silver or Gold Promotion Credits</color> to promote Gwenpool <color=#fff568>1 Red Star higher</color> than their current rank.\n\nEarn Promotion Credits by <color=#fff568>exchanging your Elite Credits</color> or by completing the Alliance Donation Daily Objective."

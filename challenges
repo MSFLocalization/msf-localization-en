@@ -1755,3 +1755,6 @@ ID_INFO_BO_SOLARFLARE,"Earn points toward this month-long milestone by collectin
 ID_INFO_NA_FEELTHEBURN,Feel the Burn
 ID_INFO_DE_FEELTHEBURN,Stoke the flames and earn Solar Flare progress
 ID_INFO_BO_FEELTHEBURN,"Turn up the heat in the <color=#fff568>Feel the Burn Milestone</color>. Earn valuable rewards including <color=#fff568>Invader shards, Skill Gear, and Stat Catalysts</color>! You'll also earn points in the month-long Solar Flare Event by collecting Blazing X-Genes and the Mass. Academy ID.\n\nGain progress in this <color=#fff568>4-day</color> event by opening Training Orbs, battling in Raids (with bonuses for using Invaders), and by completing the daily web milestone, <color=#fff568>Blazing Battles</color>."
+ID_INFO_NA_INTERSTELLARIGNITION,Interstellar Ignition
+ID_INFO_DE_INTERSTELLARIGNITION,Cosmic Character Shards and Solar Flare Progress
+ID_INFO_BO_INTERSTELLARIGNITION,"Gain progress in this <color=#fff568>6-day</color> event by earning Interstellar Orb Fragments from Campaign nodes, spending Power Cores, and by participating in the Deep Space Drive Web Milestone.\n\nMilestone\nEarn valuable rewards including <color=#fff568>Dark Promotion Credits, T2 Level 5 Ions, Bio and Tech gear</color>. You'll also earn points towards the month-long Solar Flare milestone by collecting Blazing X-Genes and the Protective Suit."
