@@ -2685,7 +2685,7 @@ ID_QU_S1_FISTSOFRAGE,Spend 1 Campaign Energy
 ID_QU_S2_FISTSOFRAGE,Spend 1 Iso-8 Energy
 ID_QU_NA_SPOILSOFWAR,Spoils of War
 ID_QU_SD_SPOILSOFWAR,Battle in Alliance War for Iso-8 rewards!
-ID_QU_LM_SPOILSOFWAR,"Battle in War to earn Iso-8 Ions, Iso-8 Orbs and Royal Soldier progress!"
+ID_QU_LM_SPOILSOFWAR,"Battle in War to earn Iso-8 Ions, Iso-8 Orbs, and Solar Flare progress!"
 ID_QU_SM_SPOILSOFWAR,Battle in War
 ID_QU_SC_SPOILSOFWAR,Battle in War
 ID_QU_S1_SPOILSOFWAR,War Battle
@@ -2735,3 +2735,43 @@ ID_QU_LD_BLAZINGBATTLES,"Win Blitz Battles to complete this daily milestone that
 ID_QU_SM_BLAZINGBATTLES,Win Blitz Battles
 ID_QU_SC_BLAZINGBATTLES,Win Blitz Battles
 ID_QU_S1_BLAZINGBATTLES,Win 1 Blitz Battle
+ID_QU_NA_INTERSTELLARIGNITION,Interstellar Ignition
+ID_QU_SD_INTERSTELLARIGNITION,Earn Interstellar Orb Fragments and spend Power Cores
+ID_QU_LM_INTERSTELLARIGNITION,"Gain progress by earning Interstellar Orb Fragments from Campaign nodes, spending Power Cores, and by participating in the Deep Space Drive Web Milestone."
+ID_QU_SM_INTERSTELLARIGNITION,Earn Interstellar Orb Fragments and spend Power Cores
+ID_QU_S1_INTERSTELLARIGNITION,Earn 1 Interstellar Orb Fragment
+ID_QU_S2_INTERSTELLARIGNITION,Spend 1 Power Core
+ID_QU_NA_DEEPSPACEDRIVE,Deep Space Drive
+ID_QU_SD_DEEPSPACEDRIVE,Battle in Raids
+ID_QU_LD_DEEPSPACEDRIVE,"Battle in Raids for Gear Orbs, Iso-8 Ions, Interstellar Orb Fragments, and Interstellar Ignition Milestone Points."
+ID_QU_SM_DEEPSPACEDRIVE,Battle in Raids
+ID_QU_SC_DEEPSPACEDRIVE,Battle in Raids
+ID_QU_S1_DEEPSPACEDRIVE,Play 1 Raid Battle
+ID_QU_NA_SPLASH_KNOWHERETORUN,Knowhere to Run
+ID_QU_SD_SPLASH_KNOWHERETORUN,Use Guardian Characters in Blitz
+ID_QU_LM_SPLASH_KNOWHERETORUN,Earn points by using Guardian characters in Blitz Battles. Earn more points if your Guardian characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_KNOWHERETORUN,Use Guardian Characters in Blitz
+ID_QU_S1_SPLASH_KNOWHERETORUN,Win Blitz with 3-star or higher Guardian Character
+ID_QU_S2_SPLASH_KNOWHERETORUN,Win Blitz with 5-star or higher Guardian Character
+ID_QU_S3_SPLASH_KNOWHERETORUN,Win Blitz with 7-star Guardian Character
+ID_QU_NA_SPLASH_METEORICMERCENARIES,Meteoric Mercenaries
+ID_QU_SD_SPLASH_METEORICMERCENARIES,Use Mercenary Characters in Blitz
+ID_QU_LM_SPLASH_METEORICMERCENARIES,Earn points by using Mercenary characters in Blitz Battles. Earn more points if your Mercenary characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_METEORICMERCENARIES,Use Mercenary Characters in Blitz
+ID_QU_S1_SPLASH_METEORICMERCENARIES,Win Blitz with 3-star or higher Mercenary Character
+ID_QU_S2_SPLASH_METEORICMERCENARIES,Win Blitz with 5-star or higher Mercenary Character
+ID_QU_S3_SPLASH_METEORICMERCENARIES,Win Blitz with 7-star Mercenary Character
+ID_QU_NA_SPLASH_INTERSTELLARINVESTIGATORS,Interstellar Investigators
+ID_QU_SD_SPLASH_INTERSTELLARINVESTIGATORS,Use X-Factor Characters in Blitz
+ID_QU_LM_SPLASH_INTERSTELLARINVESTIGATORS,Earn points by using X-Factor characters in Blitz Battles. Earn more points if your X-Factor characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_INTERSTELLARINVESTIGATORS,Use X-Factor Characters in Blitz
+ID_QU_S1_SPLASH_INTERSTELLARINVESTIGATORS,Win Blitz with 3-star or higher X-Factor Character
+ID_QU_S2_SPLASH_INTERSTELLARINVESTIGATORS,Win Blitz with 5-star or higher X-Factor Character
+ID_QU_S3_SPLASH_INTERSTELLARINVESTIGATORS,Win Blitz with 7-star X-Factor Character
+ID_QU_NA_SPLASH_MILKYWAYMALEVOLENCE,Milky Way Malevolence
+ID_QU_SD_SPLASH_MILKYWAYMALEVOLENCE,Use Masters of Evil Characters in Blitz
+ID_QU_LM_SPLASH_MILKYWAYMALEVOLENCE,Earn points by using Masters of Evil characters in Blitz Battles. Earn more points if your Masters of Evil characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_MILKYWAYMALEVOLENCE,Use Masters of Evil Characters in Blitz
+ID_QU_S1_SPLASH_MILKYWAYMALEVOLENCE,Win Blitz with 3-star or higher Masters of Evil Character
+ID_QU_S2_SPLASH_MILKYWAYMALEVOLENCE,Win Blitz with 5-star or higher Masters of Evil Character
+ID_QU_S3_SPLASH_MILKYWAYMALEVOLENCE,Win Blitz with 7-star Masters of Evil Character

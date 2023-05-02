@@ -8375,3 +8375,7 @@ ID_GACHA_CRATE_APOCSAGA_DARKBEAST_NAME,Champion's Orb
 ID_GACHA_CRATE_APOCSAGA_DARKBEAST_DESCRIPTION,Guarantees 25 Dark Beast Shards
 ID_GACHA_CRATE_APOCSAGA_AGENTVENOM_NAME,Conqueror's Orb
 ID_GACHA_CRATE_APOCSAGA_AGENTVENOM_DESCRIPTION,Guarantees 25 Agent Venom Shards
+ID_GACHA_CRATE_INTERSTELLAR_NAME,Interstellar Orb
+ID_GACHA_CRATE_INTERSTELLAR_DESCRIPTION,"Contains shards of Guardians, Infinity Watch, and more"
+ID_GACHA_CRATE_INTERSTELLAR_TOKEN_NAME,Interstellar Orb Fragments
+ID_GACHA_CRATE_INTERSTELLAR_TOKEN_DESCRIPTION,Collect Interstellar Orb Fragments from Campaign Nodes to earn progress in the Interstellar Ignition Milestone
