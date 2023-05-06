@@ -2348,8 +2348,8 @@ ID_OF_DE_MAYDAY2023_TEAL_DUAL,Take your characters' gear tiers to the next level
 ID_OF_DE_MAYDAY2023_MAYQUEEN_CARTER,"Crown a <color=#ffda21>May Queen</color> with this offer! Get <color=#ffda21>Captain Carter</color> shards with this offer! Lead the charge with painful attacks and by sustaining Rebirth allies with positive effects, Heals, and Revive."
 ID_OF_DE_MAYDAY2023_MAYQUEEN_MOONSTONE,Crown a <color=#ffda21>May Queen</color> with this offer! Power up <color=#ffda21>Moonstone</color>with this shard offer! Control Cosmic Crucible with Stuns and Speed Bar manipulation and complete your <color=#ffda21>Masters of Evil</color> team!
 ID_OF_DE_MAYDAY2023_MAYQUEEN_AGATHA_SCOURGE,Crown a <color=#ffda21>May Queen</color> with this offer! Toil and trouble with this <color=#ffda21>Agatha Harkness</color> offer this May Day! Get additional Pestilence and Famine Orbs for chances at <color=#ffda21>Morgan Le Fay</color> and <color=#ffda21>Rogue</color> shards!
-ID_OF_NA_TARGETEDOFFERS_MSFSTARTER,Marvel Strike Force Starter Pack
-ID_OF_DE_TARGETEDOFFERS_MSFSTARTER,Welcome to Marvel Strike Force! Unlock this exclusive
+ID_OF_NA_TARGETEDOFFERS_MSFSTARTER,MARVEL Strike Force Starter Pack
+ID_OF_DE_TARGETEDOFFERS_MSFSTARTER,Welcome to MARVEL Strike Force! Unlock this exclusive pack with essentials needed to gain more power!
 ID_OF_NA_TARGETEDOFFERS_REDSTAR,Red Star Essentials Bundle
 ID_OF_DE_TARGETEDOFFERS_REDSTAR,The time is NOW to level up your roster! Test your luck on a higher Red Star Rarity!
 ID_OF_NA_TARGETEDOFFERS_ISOBOOSTER,Iso-8 Booster Bundle
@@ -2381,7 +2381,7 @@ ID_OF_DE_TARGETEDOFFERS_GOLD2,The golden road to a stronger roster starts here. 
 ID_OF_NA_TARGETEDOFFERS_ULTIMATE,Ultimate Power Up
 ID_OF_DE_TARGETEDOFFERS_ULTIMATE,The ULTIMATE power up bundle is here! Get everything you need to power up your roster!
 ID_OF_NA_TARGETEDOFFERS_GEAR,"GEAR, GEAR, GEAR"
-ID_OF_DE_TARGETEDOFFERS_GEAR,"Gear orb fragments, Armory orb fragments,"
+ID_OF_DE_TARGETEDOFFERS_GEAR,"Gear orb fragments, Armory orb fragments! All the orbs you need for gear level ups!"
 ID_OF_NA_TARGETEDOFFERS_ORBS,ORB-A-PALOOZA
 ID_OF_DE_TARGETEDOFFERS_ORBS,"Gold orbs, training orbs, armory orbs, legacy orbs and more! Unlock this exclusive bundle for more orbs, orbs, orbs!"
 ID_OF_NA_TARGETEDOFFERS_ABMATS,Awesome Ability Mats
@@ -2433,8 +2433,42 @@ ID_OF_DE_INTERSTELLARIGNITION_DAILY_ORB,Stock up on <color=#fff568>Interstellar 
 ID_OF_DE_INTERSTELLARIGNITION_DAILY_ENERGY,Blast through the campaign with this special <color=#fff568>Interstellar Ignition</color> Energy Bundle!
 ID_OF_DE_INTERSTELLARIGNITION_DAILY_CLAIM,Come back daily for more <color=#fff568>Interstellar Ignition</color> progress!
 ID_OF_DE_INTERSTELLARIGNITION_DAILY_INTERSTITIAL,Unlock your discount before it's gone!
+ID_OF_NA_GWENPOOL_FCO_OFFER,4th Wall-Breaking Brawler
+ID_OF_DE_GWENPOOL_FCO_OFFER,"Save on <color=#fff568>Comic Fan Orbs</color>, each having a chance to earn <color=#fff568>up to 180 Gwenpool</color> shards. Complete your <color=#fff568>New Warrior</color> team, cut through competition, and untangle webs in Cosmic Crucible!"
+ID_OF_NA_GWENPOOL_WEB_EXTRA_FCO_OFFER,Web Extra: Gwenpool
+ID_OF_NA_GWENPOOL_WEB_SPECIAL_OFFER,Web Special: Gwenpool
+ID_OF_DE_GWENPOOL_WEB_SPECIAL_OFFER,"Don't miss this <color=#fff568>Web Special</color> deal for <color=#fff568>Gwenpool</color> shards, which unlocks special release offers on your next visit! Complete your <color=#fff568>New Warrior</color> team, cut through competition, and untangle webs in Cosmic Crucible!"
+ID_OF_DE_GWENPOOL_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Gwenpool</color> and unlock special release offers on your next visit! Complete your <color=#fff568>New Warrior</color> team, cut through competition, and untangle webs in Cosmic Crucible!"
+ID_OF_DE_GWENPOOL_OFFER_SHARD,"Power up <color=#fff568>Gwenpool</color> with this shard offer! Complete your <color=#fff568>New Warrior</color> team, cut through competition, and untangle webs in Cosmic Crucible!"
+ID_OF_NA_GWENPOOL_RS_DRAFT,Red Star Draft: Gwenpool
+ID_OF_DE_GWENPOOL_RS_DRAFT_345,"Get an equal chance of either <color=#fff568>3, 4, or 5 Red Stars</color> for <color=#fff568>Gwenpool</color>. Complete your <color=#fff568>New Warrior</color> team, cut through competition, and untangle webs in Cosmic Crucible!"
+ID_OF_DE_GWENPOOL_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, or 6 Red Stars</color> for <color=#fff568>Gwenpool</color>. Complete your <color=#fff568>New Warrior</color> team, cut through competition, and untangle webs in Cosmic Crucible!"
+ID_OF_DE_GWENPOOL_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Gwenpool</color>. Complete your <color=#fff568>New Warrior</color> team, cut through competition, and untangle webs in Cosmic Crucible!"
 ID_OF_NA_DORMAMMU_RS,Dark Dimension Dealings
 ID_OF_DE_DORMAMMU_RS,Celebrate the availability of <color=#fff568>a new Red Star Promotion</color> for Dormammu with this offer to bolster his ability to rain mystic chaos down on his enemies!
+ID_OF_NA_LIGHTTHECRUCIBLE_STARTER_MEGA,Light the Crucible Super Starter Bundle
+ID_OF_NA_LIGHTTHECRUCIBLE_STARTER_SUPER,Light the Crucible Big Starter Bundle
+ID_OF_NA_LIGHTTHECRUCIBLE_STARTER,Light the Crucible Starter Bundle
+ID_OF_NA_LIGHTTHECRUCIBLE_CATCHUP_MEGA,Light the Crucible Super Catch-Up Bundle
+ID_OF_NA_LIGHTTHECRUCIBLE_CATCHUP_SUPER,Light the Crucible Big Catch-Up Bundle
+ID_OF_NA_LIGHTTHECRUCIBLE_CATCHUP,Light the Crucible Catch-Up
+ID_OF_NA_LIGHTTHECRUCIBLE_CATCHUP_LAST_CHANCE,Light the Crucible Last Chance Bundle
+ID_OF_NA_LIGHTTHECRUCIBLE_DAILY_GOLD,Cosmic Gold
+ID_OF_NA_LIGHTTHECRUCIBLE_BLITZ_CREDITS,Galactic Blitz
+ID_OF_NA_LIGHTTHECRUCIBLE_DAILY_CLAIM,Light the Crucible Daily Gift
+ID_OF_NA_LIGHTTHECRUCIBLE_DAILY_INTERSTITIAL,Light the Crucible Web Special
+ID_OF_NA_LIGHTTHECRUCIBLE_DAILY_POINTS,Daily Points Bundle
+ID_OF_NA_LIGHTTHECRUCIBLE_WEB_BOOSTER,Light the Crucible Web Special
+ID_OF_DE_LIGHTTHECRUCIBLE_STARTER_SUPER,Get ahead in the <color=#fff568>Light the Crucible</color> Milestone and fast-forward your way to <color=#fff568>Firestar and Kang shards</color>!
+ID_OF_DE_LIGHTTHECRUCIBLE_STARTER,Start off strong in the <color=#fff568>Light the Crucible</color> milestone!
+ID_OF_DE_LIGHTTHECRUCIBLE_CATCHUP,"Finish strong in the milestones and leaderboards for <color=#fff568>Firestar shards</color>, <color=#fff568>Kang shards</color> and <color=#fff568>up to a 7 Red Star Quicksilver</color>!"
+ID_OF_DE_LIGHTTHECRUCIBLE_CATCHUP_LAST_CHANCE,Complete your final Light the Crucible milestones before it's too late!
+ID_OF_DE_LIGHTTHECRUCIBLE_DAILY_GOLD,Stock up on <color=#fff568>Gold Orb Fragments</color> and <color=#fff568>Light the Crucible</color> progress with this special deal!
+ID_OF_DE_LIGHTTHECRUCIBLE_BLITZ_CREDITS,Blitz through the <color=#fff568>Galactic Goliaths Web Milestone</color>!
+ID_OF_DE_LIGHTTHECRUCIBLE_DAILY_CLAIM,Come back daily for more <color=#fff568>Light the Crucible</color> progress!
+ID_OF_DE_LIGHTTHECRUCIBLE_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Light the Crucible</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_LIGHTTHECRUCIBLE_DAILY_POINTS,Make consistent <color=#fff568>Light the Crucible</color> progress with this daily milestone points supply!
+ID_OF_DE_LIGHTTHECRUCIBLE_WEB_BOOSTER,Power up your <color=#fff568>Light the Crucible Milestone</color> progress with this incredible point offer!
 ID_OF_NA_MOTHERSDAY_CHARACTER,Mother's Day: Mother Celebration
 ID_OF_NA_MOTHERSDAY_MOTHERSGIFT,Mother's Day: Mother's Gift
 ID_OF_NA_MOTHERSDAY_BOUQUETOFRED,Mother's Day: Bouquet of Red
@@ -2445,3 +2479,31 @@ ID_OF_DE_MOTHERSDAY_MOTHERSGIFT,Raise your characters to their full potential wi
 ID_OF_DE_MOTHERSDAY_BOUQUETOFRED,Feast your eyes on this veritable bouquet of red stars! Don't miss out on this special <color=#d10000>Mother's Day</color> offer!
 ID_OF_DE_MOTHERSDAY_ENERGY,Step it up with this special <color=#d10000>Mother's Day</color> bundle! Get an amazing amount of energy to celebrate the hard work of mothers around the world!
 ID_OF_DE_MOTHERSDAY_GEAR,Stock up on much needed gear with this special <color=#d10000>Mother's Day</color> deal! Catch up on the competition with this special bundle!
+ID_OF_NA_SPRINGSALE_REBIRTH,Spring Sale: Season of Rebirth
+ID_OF_NA_SPRINGSALE_GOLD,Spring Sale: Gleaming Gold
+ID_OF_NA_SPRINGSALE_AGATHA,Spring Sale: Bewitching Hour
+ID_OF_NA_SPRINGSALE_MOE,Spring Sale: Evil Omens
+ID_OF_NA_SPRINGSALE_GEAR,Spring Sale: Gearing Up!
+ID_OF_NA_SPRINGSALE_ABM,Spring Sale: Ability Boost
+ID_OF_NA_SPRINGSALE_ENERGY,Spring Sale: Energizing Iso
+ID_OF_NA_SPRINGSALE_TRANING,Spring Sale: Training Pack
+ID_OF_NA_SPRINGSALE_SHINING,Spring Sale: Shining Sun
+ID_OF_NA_SPRINGSALE_DARKBEAST,Spring Sale: A Beast Darkly
+ID_OF_NA_SPRINGSALE_BRAWN,Spring Sale: Keep it Green!
+ID_OF_NA_SPRINGSALE_HEAT,Spring Sale: Bring the Heat!
+ID_OF_NA_SPRINGSALE_BASKET,Spring Sale: Orb Basket
+ID_OF_NA_SPRINGSALE_ELITE,Spring Sale: Elite Elation
+ID_OF_DE_SPRINGSALE_REBIRTH,"The perfect season and sale to grow your <color=#33dd00>Rebirth</color> team to take on challenging Bio raid nodes. Don't pass up this opportunity to power up and get more rewards for your Alliance in raids! "
+ID_OF_DE_SPRINGSALE_GOLD,Grab the best value on Gold in the <color=#33dd00>Spring Sale</color>! Power up your favorite characters to take on tougher challenges and opponents.
+ID_OF_DE_SPRINGSALE_AGATHA,Power up <color=#33dd00>Agatha</color> to brew up some trouble for your opponents with this limited <color=#33dd00>Spring Sale</color>!
+ID_OF_DE_SPRINGSALE_MOE,"Get your <color=#33dd00>Masters of Evil</color> team in shape to crush your opponents in Cosmic Crucible, climb to higher League ranks, and earn more shards for Quicksilver! "
+ID_OF_DE_SPRINGSALE_GEAR,Suit up your roster with an amazing <color=#33dd00>Spring Sale</color> on <color=#33dd00>Gear Tier 16 and 17</color>. Teal is IN this season!
+ID_OF_DE_SPRINGSALE_ABM,"Take this chance to boost the ability levels and Red Star ranks of your roster. Don't let this <color=#33dd00>Spring Sale</color> pass like the season, as it won't come back!"
+ID_OF_DE_SPRINGSALE_ENERGY,Cruise through campaigns and empower your roster with Iso-8 this season.
+ID_OF_DE_SPRINGSALE_TRANING,Level up your roster with this special <color=#33dd00>Spring Sale</color>!
+ID_OF_DE_SPRINGSALE_SHINING,Get a chance for <color=#33dd00>shards or Red Star Levels</color> for your favorite characters! (Tap on the icon to see more details on what is available)
+ID_OF_DE_SPRINGSALE_BRAWN,Get a chance for <color=#33dd00>shards or Red Star Levels</color> for this character! (Tap on the icon to see more details on what is available)
+ID_OF_DE_SPRINGSALE_DARKNESS,Ruin the day for your enemies in raid by bolstering <color=#33dd00>Dark Beast's</color> power with this special <color=#33dd00>Spring Sale</color> offer!
+ID_OF_DE_SPRINGSALE_BASKET,Bag a bountiful basket of boosts to your roster with this <color=#33dd00>Spring Sale</color> for a bundle of Orbs.
+ID_OF_DE_SPRINGSALE_ELITE,<color=#33dd00>Spring</color> into action on this limited offer while there's still time left!
+ID_OF_DE_SPRINGSALE_BRAWN2,Power up your <color=#33dd00>Gamma</color> team with these mean and <color=#33dd00>green</color> members!

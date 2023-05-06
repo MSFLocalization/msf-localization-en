@@ -2775,3 +2775,18 @@ ID_QU_SC_SPLASH_MILKYWAYMALEVOLENCE,Use Masters of Evil Characters in Blitz
 ID_QU_S1_SPLASH_MILKYWAYMALEVOLENCE,Win Blitz with 3-star or higher Masters of Evil Character
 ID_QU_S2_SPLASH_MILKYWAYMALEVOLENCE,Win Blitz with 5-star or higher Masters of Evil Character
 ID_QU_S3_SPLASH_MILKYWAYMALEVOLENCE,Win Blitz with 7-star Masters of Evil Character
+ID_QU_NA_LIGHTTHECRUCIBLE,Light the Crucible
+ID_QU_SD_LIGHTTHECRUCIBLE,Battle in Cosmic Crucible and Open Gold Orbs
+ID_QU_LM_LIGHTTHECRUCIBLE,"Gain progress by battling in Cosmic Crucible (with bonuses for using Gwenpool), opening Gold Orbs, and by participating in the Galactic Goliaths Web Milestone."
+ID_QU_SM_LIGHTTHECRUCIBLE,Battle in Cosmic Crucible and Open Gold Orbs
+ID_QU_S1_LIGHTTHECRUCIBLE,Play 1 Cosmic Crucible Battle
+ID_QU_S2_LIGHTTHECRUCIBLE,Play 1 Cosmic Crucible Battle with Gwenpool
+ID_QU_S3_LIGHTTHECRUCIBLE,Play 1 Cosmic Crucible Battle with Gwenpool at 4 Stars
+ID_QU_S4_LIGHTTHECRUCIBLE,Play 1 Cosmic Crucible Battle with Gwenpool at 6 Stars
+ID_QU_S5_LIGHTTHECRUCIBLE,Open 1 Gold Orb
+ID_QU_NA_GALACTICGOLIATHS,Galactic Goliaths
+ID_QU_SD_GALACTICGOLIATHS,Earn Blitz Credits
+ID_QU_LD_GALACTICGOLIATHS,Earn Blitz Credits to complete this 6-day milestone that rewards Gold Orb Fragments and Light the Crucible Milestone Points.
+ID_QU_SM_GALACTICGOLIATHS,Earn Blitz Credits
+ID_QU_SC_GALACTICGOLIATHS,Earn Blitz Credits
+ID_QU_S1_GALACTICGOLIATHS,Earn 1 Blitz Credit
