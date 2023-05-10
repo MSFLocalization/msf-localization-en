@@ -2461,7 +2461,7 @@ ID_OF_NA_LIGHTTHECRUCIBLE_DAILY_POINTS,Daily Points Bundle
 ID_OF_NA_LIGHTTHECRUCIBLE_WEB_BOOSTER,Light the Crucible Web Special
 ID_OF_DE_LIGHTTHECRUCIBLE_STARTER_SUPER,Get ahead in the <color=#fff568>Light the Crucible</color> Milestone and fast-forward your way to <color=#fff568>Firestar and Kang shards</color>!
 ID_OF_DE_LIGHTTHECRUCIBLE_STARTER,Start off strong in the <color=#fff568>Light the Crucible</color> milestone!
-ID_OF_DE_LIGHTTHECRUCIBLE_CATCHUP,"Finish strong in the milestones and leaderboards for <color=#fff568>Firestar shards</color>, <color=#fff568>Kang shards</color> and <color=#fff568>up to a 7 Red Star Quicksilver</color>!"
+ID_OF_DE_LIGHTTHECRUCIBLE_CATCHUP,"Finish strong in the milestones and leaderboards for <color=#fff568>Firestar shards</color>, <color=#fff568>Kang shards</color> and <color=#fff568>more</color>!"
 ID_OF_DE_LIGHTTHECRUCIBLE_CATCHUP_LAST_CHANCE,Complete your final Light the Crucible milestones before it's too late!
 ID_OF_DE_LIGHTTHECRUCIBLE_DAILY_GOLD,Stock up on <color=#fff568>Gold Orb Fragments</color> and <color=#fff568>Light the Crucible</color> progress with this special deal!
 ID_OF_DE_LIGHTTHECRUCIBLE_BLITZ_CREDITS,Blitz through the <color=#fff568>Galactic Goliaths Web Milestone</color>!
@@ -2479,6 +2479,27 @@ ID_OF_DE_MOTHERSDAY_MOTHERSGIFT,Raise your characters to their full potential wi
 ID_OF_DE_MOTHERSDAY_BOUQUETOFRED,Feast your eyes on this veritable bouquet of red stars! Don't miss out on this special <color=#d10000>Mother's Day</color> offer!
 ID_OF_DE_MOTHERSDAY_ENERGY,Step it up with this special <color=#d10000>Mother's Day</color> bundle! Get an amazing amount of energy to celebrate the hard work of mothers around the world!
 ID_OF_DE_MOTHERSDAY_GEAR,Stock up on much needed gear with this special <color=#d10000>Mother's Day</color> deal! Catch up on the competition with this special bundle!
+ID_OF_NA_MOTHERSDAY23_STARTER_MEDIUM,Family Hero Starter Bundle
+ID_OF_DE_MOTHERSDAY23_STARTER_VAR,Make mom proud and save over <color=#fff568>{var1}%</color> with this bundle. Get <color=#fff568>{var2} points</color> towards the Family Hero Milestone!
+ID_OF_NA_MOTHERSDAY23_STARTER_SUPER,Family Hero Super Starter
+ID_OF_NA_MOTHERSDAY23_STARTER_MEGA,Family Hero Mega Starter
+ID_OF_NA_MOTHERSDAY23_CATCHUP,Family Hero Catch Up Bundle
+ID_OF_DE_MOTHERSDAY23_CATCHUP,"Don't miss out on collecting all the Family Hero rewards! Save over <color=#fff568>{var1}%</color> with each purchase. "
+ID_OF_NA_MOTHERSDAY23_CATCHUP_BIG,Family Hero Mega Catch Up
+ID_OF_NA_MOTHERSDAY23_EVENTCURRENCY,Flower Bouquets Bundle
+ID_OF_DE_MOTHERSDAY23_EVENTCURRENCY,Want to get more from the <color=#fff568>Flower Bouquets Event Store</color>? Save over <color=#fff568>{var1}%</color> with each purchase of Flower Bouquetss!
+ID_OF_NA_MOTHERSDAY23_HCBOOSTER,Core Booster
+ID_OF_DE_MOTHERSDAY23_HCBOOSTER,Use Power Cores to boost your Campaign Energy spend and Alliance Donations for more <color=#fff568>Family Hero progress</color>!
+ID_OF_NA_MOTHERSDAY23_DAILY_ENERGY,Family Hero Energy
+ID_OF_DE_MOTHERSDAY23_DAILY_ENERGY_VAR,Progress in campaigns and the <color=#fff568>Family Hero Milestone</color> at once!
+ID_OF_NA_MOTHERSDAY23_DAILY_CURRENCY,Daily Flower Bouquets Bundle
+ID_OF_DE_MOTHERSDAY23_DAILY_CURRENCY,Save over <color=#fff568>{var1}%</color> and use these Flower Bouquets for Teal Unique Gear and more in the <color=#fff568>Flower Bouquets Event Store</color>!
+ID_OF_NA_MOTHERSDAY23_DAILY_FREE,Family Hero Daily Gift
+ID_OF_DE_MOTHERSDAY23_DAILY_FREE,Come back daily to boost your <color=#fff568>Family Hero Milestone</color> progress!
+ID_OF_NA_MOTHERSDAY23_DAILY_INTERSTITIAL,Family Hero Web Special
+ID_OF_DE_MOTHERSDAY23_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Family Hero Milestone</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_MOTHERSDAY23_LASTCHANCE,Family Hero Last Chance Bundle
+ID_OF_DE_MOTHERSDAY23_LASTCHANCE,"Catch this deal before it's too late and get your final <color=#fff568>Family Hero</color> milestone and leaderboard rewards, including exclusive <color=#fff568>T2 Level 5 Ions</color>!"
 ID_OF_NA_SPRINGSALE_REBIRTH,Spring Sale: Season of Rebirth
 ID_OF_NA_SPRINGSALE_GOLD,Spring Sale: Gleaming Gold
 ID_OF_NA_SPRINGSALE_AGATHA,Spring Sale: Bewitching Hour

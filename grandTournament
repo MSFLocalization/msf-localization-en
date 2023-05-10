@@ -1,5 +1,6 @@
 id,translation
 ID_GT_TITLE,Cosmic Crucible
+ID_GT_EVENT_TITLE,Ultimate Crucible
 ID_UI_LONG_LOCKED_DESC_GT,The Cosmic Crucible is currently locked
 ID_GT_TOURNAMENT_RULES,RULES
 ID_GT_LEAGUES,LEAGUES
@@ -45,6 +46,8 @@ ID_GT_NOT_ENTITLED_POPUP_DESC,Cosmic Crucible will unlock when you reach Player 
 ID_GT_EVENT_NAME_PRESEASON,Pre-Season
 ID_GT_EVENT_NAME_SEASON1,Season 1
 ID_GT_EVENT_NAME_SEASON2,Season 2
+ID_GT_EVENT_NAME_SEASON3,Season 3
+ID_GT_EVENT_NAME_EVENT,Ultimate 32
 ID_GT_GLOBAL_RULES_NAME,Magical Disruptions
 ID_GT_GLOBAL_RULES_DESC,"On Offense, reduce Speed and Resistance by <color=#86e619>10%</color> for all non-<color=#fff568>MASTERS OF EVIL VILLAIN MYSTICS</color>. \nOn Defense, reduce Speed and Resistance by <color=#86e619>20%</color> for all <color=#fff568>COSMIC VILLAIN MYSTICS</color>. \nOn any <color=#fff568>COSMIC VILLAIN MYSTICS</color> Turn, apply <color=#fff568>Bleed</color> to that character. \nOn Defense, all characters gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage. \n<color=#fff568>DARKHOLD</color> characters have -<color=#86e619>10%</color> Max Health, Focus, Resistance, and Damage."
 ID_GT_ROOM1_NAME,Stage 1
@@ -100,7 +103,7 @@ ID_GT_RULES_BODY_05,The Living Tribunal will judge your performance and advance 
 ID_GT_RULES_SUBHEADER_06,WIN THE CRUCIBLE
 ID_GT_RULES_BODY_06,"Once all Trials are complete, the Crucible ends and the Living Tribunal ranks all participants and delivers their just rewards. Let it be known that the Living Tribunal will not reward players who do not participate!"
 ID_GT_RULES_SUBHEADER_07,WIN THE SEASON
-ID_GT_RULES_BODY_07,"Every Trial gives you a chance to increase your Tribunal Rating (TR). The highest TR at the end of a season will receive the richest rewards. When a new season starts, the Stage Rules will be updated."
+ID_GT_RULES_BODY_07,"Every Trial gives you a chance to increase your Tribunal Rating (TR). The highest TR at the end of a season will receive the richest rewards. When a new season starts, the Stage Rules will be updated. TR will also be reduced for each player, moving players into lower leagues."
 ID_GT_RULES_SUBHEADER_08,[VP] VICTORY POINTS
 ID_GT_RULES_BODY_08A,"Victory Points are granted once you have defeated a Stage, run out of attempts, or the trial has ended. Victory Points are only used to break ties between two opponents who cleared the same number of Stages. The Living Tribunal will provide VP for the following factors:"
 ID_GT_RULES_BODY_08B,> Full Clear: 7500VP\n> Attempt Bonus: up to 800VP\n> Knockouts: 5VP\n> Healthy Characters: up to 20VP\n> Turn Bonus: up to 30VP
@@ -183,6 +186,34 @@ ID_GT_LEAGUE_RATING_RANGE_WITH_DEMOTE,"{promotion} - {max} Tribunal Rating, Demo
 ID_GT_LEAGUE_RATING_MAX,"{promotion}+ Tribunal Rating, Demotion at {demotion} TR"
 ID_GT_DIDNT_PARTICIPATE,Attack to earn rewards
 ID_GT_PER_KNOCKOUT_QUANTITY,x{qty} per KO
+ID_GT_S3_GLOBAL_RULES_NAME,Magical Disruptions
+ID_GT_S3_GLOBAL_RULES_DESC,"On Defense,\n All characters:\n> Gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage.\n \n<color=#fff568>COSMIC VILLAIN MYSTIC</color> characters:\n> Reduce Speed and Resistance by <color=#86e619>20%</color>. \n> On Turn, apply <color=#fff568>Bleed</color> to that character. \n \n<color=#fff568>DARKHOLD</color> and <color=#fff568>GAMMA</color> characters:\n> Have -<color=#86e619>10%</color> Max Health, Focus, Resistance, and Damage.\n \nOn Offense,\nnon-<color=#fff568>MASTERS OF EVIL VILLAIN MYSTIC</color> characters:\n> reduce Speed and Resistance by <color=#86e619>10%</color>.\n \n<color=#fff568>COSMIC VILLAIN MYSTIC</color> characters:\n> On Turn, apply <color=#fff568>Bleed</color> to that character.\n \n<color=#fff568>DARKHOLD</color> and <color=#fff568>GAMMA</color> characters:\n> Have -<color=#86e619>10%</color> Max Health, Focus, Resistance, and Damage."
+ID_GT_S3_ROOM1_RULES_NAME,Portable Shield Device
+ID_GT_S3_ROOM1_RULES_DESC,"On Defense,\n<color=#9055FF>FORTIFER</color> characters:\n> Use an Ultimate Ability, spreads all Positive Effects to Adjacent Allies. \n \n<color=#9055FF>STRIKER</color> characters:\n> On turn, Barrier for +<color=#86e619>5%</color> of that character's Max Health and flip <color=#fff568>Offense Down</color>."
+ID_GT_S3_ROOM2_RULES_NAME,Resurrection Protocols
+ID_GT_S3_ROOM2_RULES_DESC,"On Defense and Offense,\n <color=#fff568>HERO MUTANT</color> characters:\n> On Spawn, gain <color=#fff568>Revive Once</color> and <color=#fff568>Immunity</color>."
+ID_GT_S3_ROOM3_RULES_NAME,Creeping Spiders
+ID_GT_S3_ROOM3_RULES_DESC,"On Defense,\n<color=#fff568>TANGLED WEB</color> characters:\n> With <color=#fff568>Stealth</color>, gains +<color=#86e619>20%</color> Damage. \n> Apply <color=#fff568>Bleed</color> on hit.\n> If Sersi is an ally, gain <color=#fff568>Revive Once</color> with <color=#86e619>50%</color> Max Health, on spawn. \n> If Ikaris is an ally, gain <color=#fff568>Immunity</color> for 2 turns on Spawn.\n \n<color=#fff568>ETERNAL</color> characters: \n> Count as <color=#fff568>TANGLED WEB</color> characters. \n> Gain <color=#86e619>20%</color> Resistance and Max Health.\n \nOn Offense,\n All Characters: \n> Reduce Resistance by <color=#86e619>20%</color> for any character with <color=#fff568>Bleed</color>."
+ID_GT_S3_ROOM4_RULES_NAME,Vibranium Tuning
+ID_GT_S3_ROOM4_RULES_DESC,"On Defense,\n <color=#fff568>WAKANDAN</color> characters:\n> Gain +<color=#86e619>60%</color> Max Health, Focus, Resistance, and Damage. \nOn Turn, clear all negative effects on self and gain <color=#fff568>Speed Up</color>. \n> Clear <color=#fff568>Revive Once</color> on each successful attack. \n> With <color=#fff568>Speed Up</color>, gain +<color=#86e619>20%</color> Speed. \n> With <color=#fff568>Bleed</color>, <color=#fff568>Offense Down</color>, <color=#fff568>Trauma</color>, or <color=#fff568>Disrupted</color> gain +<color=#86e619>50%</color> Speed. \n \n<color=#fff568>MYSTIC WAKANDAN</color> characters:\n> On Spawn, gain <color=#fff568>Revive Once</color> with <color=#86e619>30%</color> Max Health.\n \nOn Offense,\n non-<color=#fff568>TECH</color> characters:\n> Clear <color=#fff568>Charged</color> at the end of Turn. If <color=#fff568>Charged</color> is removed, apply <color=#fff568>Offense Down</color> to all player characters."
+ID_GT_S3_ROOM5_RULES_NAME,Building Momentum
+ID_GT_S3_ROOM5_RULES_DESC,"On Defense and Offense,\n> Special abilities cost <color=#86e619>2</color> more Ability Energy.\n> Ultimate abilities cost <color=#86e619>2</color> less Ability Energy. \n> When An enemy Character Dies, ally characters Gain <color=#86e619>1</color> Ability Energy."
+ID_GT_S3_ROOM6_RULES_NAME,Fated Reunion
+ID_GT_S3_ROOM6_RULES_DESC,"On Defense and Offense,\n<color=#fff568>MILITARY</color> characters:\n> On turn, If <color=#86e619>1</color> <color=#fff568>REBIRTH</color> character is an ally, gain Barrier for <color=#86e619>5%</color> of that characters max health.\n \n<color=#fff568>SYMBIOTE</color> characters:\n> On hit, If <color=#86e619>1</color> <color=#fff568>REBIRTH</color> character is an ally, apply <color=#fff568>Bleed</color>.\n \n<color=#fff568>Rebirth</color> characters:\n> Gain <color=#fff568>Revive Once</color> at <color=#86e619>40%</color> health."
+ID_GT_E1_GLOBAL_RULES_NAME,Standard Rules
+ID_GT_E1_GLOBAL_RULES_DESC,"On Defense,\n> All characters gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage."
+ID_GT_E1_ROOM1_RULES_NAME,When it Rains
+ID_GT_E1_ROOM1_RULES_DESC,"On Defense and Offense,\n> When a Positive Effect is applied to Enemies, increase the duration of all Positive Effects on that enemy by <color=#86e619>1</color>, up to a Max of <color=#86e619>3</color>. \n> When a Negative Effect is applied to a Character, increase the duration of all negative effects on that Character by <color=#86e619>1</color>, up to a Max of <color=#86e619>3</color>."
+ID_GT_E1_ROOM2_RULES_NAME,Portable Shield Device
+ID_GT_E1_ROOM2_RULES_DESC,"On Defense and Offense,\n<color=#9055FF>FORTIFER</color> characters:\n> Use an Ultimate Ability, spreads all Positive Effects to Adjacent Allies."
+ID_GT_E1_ROOM3_RULES_NAME,Web of Destiny
+ID_GT_E1_ROOM3_RULES_DESC,"On Defense and Offense,\n <color=#fff568>WEB-WARRIOR</color> characters:\n> Count as <color=#fff568>TANGLED WEB</color>."
+ID_GT_E1_ROOM4_RULES_NAME,Strength in Numbers
+ID_GT_E1_ROOM4_RULES_DESC,"On Defense and Offense,\n> Every consecutive summoned character of the same summoned character on either side of the field adds <color=#86e619>20%</color> more Max Health to each future summon of that summoned character."
+ID_GT_E1_ROOM5_RULES_NAME,Health Insurance
+ID_GT_E1_ROOM5_RULES_DESC,"On Defense and Offense,\n> On turn, characters remove all positive effects from self and heal <color=#86e619>10%</color> of max heatlh for each positive effect removed."
+ID_GT_E1_ROOM6_RULES_NAME,Over Charged
+ID_GT_E1_ROOM6_RULES_DESC,"On Defense and Offense,\n> Special abilities cost <color=#86e619>3</color> more Ability Energy.\n> Ultimate abilities cost <color=#86e619>3</color> less Ability Energy."
 ID_GT_KNOCKOUT_REMAINING,Remaining: {qty}
 ID_GT_VP_HIDDEN,<color=#BDBDBD>???VP</color>
 ID_GT_STAGES_CLEARED_COUNT,<color=#F4941F>{cleared}</color>/{total}
@@ -192,3 +223,8 @@ ID_GT_HEADER_RATING_CHANGE_POSITIVE,{total} TR <color=#86E619>(+{change})</color
 ID_GT_HEADER_RATING_CHANGE_NEGATIVE,{total} TR <color=#ff0000>(-{change})</color>
 ID_GT_TOURNAMENT_PLACEMENT,Rank {rank}
 ID_GT_DEFENSE_RESULT_AFTER_TRIAL,Defense results are shown after the trial has ended
+ID_GT_SEASON_BUTTON,SEASON
+ID_GT_TOURNAMENT_RATINGS_HEADER,COSMIC CRUCIBLE TOURNAMENT
+ID_GT_SEASON_RATINGS_HEADER,COSMIC CRUCIBLE SEASON
+ID_GT_NO_PENDING_SEASON_DESC,Cosmic Crucible Season coming soon
+ID_GT_PENDING_SEASON_TIMER_TEXT,Coming soon

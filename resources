@@ -211,10 +211,10 @@ ID_EVENT_CUR16_NAME,Immortal Invader Milestone Points
 ID_EVENT_CUR16_DESCRIPTION,These points earn you additional progress in Immortal Invader Milestone.
 ID_EVENT_CUR17_NAME,Immortal Ally Orb Fragment
 ID_EVENT_CUR17_DESCRIPTION,"Open Immortal Ally Orbs for Iron Fist (WWII) shards, Gold and gear!"
-ID_EVENT_CUR18_NAME,Commander's Cache Milestone Points
-ID_EVENT_CUR18_DESCRIPTION,"These points earn you additional progress in the Commander's Cache Milestone, boosting your leaderboard position for a better chance at Archangel Red Stars and T2 Level 5 Ions!"
-ID_EVENT_CUR19_NAME,The Abominable Beast Milestone Points
-ID_EVENT_CUR19_DESCRIPTION,These points earn you additional progress in The Abominable Beast Milestone.
+ID_EVENT_CUR18_NAME,Family Hero Milestone Points
+ID_EVENT_CUR18_DESCRIPTION,These points earn you additional progress in the Family Hero Milestone. Earn them in limited offers!
+ID_EVENT_CUR19_NAME,Flower Bouquets
+ID_EVENT_CUR19_DESCRIPTION,"Collect Flower Bouquets from Campaign nodes and limited offers. Spend them in the Family Hero Event Store for Teal Unique Gear Pieces, character shards, and more!"
 ID_PROMOTION_CUR_NAME,Silver Promotion Credit
 ID_PROMOTION_CUR_DESCRIPTION,Used to promote specific characters (up to 5 Red Stars).\n\nBuy Red Star Promotions from the Supplies Store.
 ID_PROMOTION_CUR_ADV_NAME,Gold Promotion Credit

@@ -1585,3 +1585,48 @@ ID_AR_NA_SPLASH_GENERIC,Quick Rumble
 ID_AR_SM_SPLASH_GENERIC,Earn Basic Catalyst Parts
 ID_AR_LM_SPLASH_GENERIC,Face off against other players' teams to earn special rewards via the featured Quick Rumble milestone!
 ID_AR_NA_SPLASH_GENERIC_CARD,Quick Rumble
+ID_AR_NA_GWENPOOL,Comic Fan
+ID_AR_SM_GWENPOOL,Win Gwenpool Shards!
+ID_AR_LM_GWENPOOL,Face off against other players' teams to earn various milestone rewards and a chance to win Gwenpool shards!
+ID_AR_MT_GWENPOOL,LIVE: Comic Fan Blitz
+ID_AR_MS_GWENPOOL,Your chance to win Gwenpool shards!
+ID_AR_MB_GWENPOOL,"<color=#fff568>Comic Fan Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Gwenpool shards!\n\n<color=#fff568>Comic Fan Orb</color>\nFor a limited time, a new Comic Fan Orb is available in the Store. The orb contains <color=#fff568>only Gwenpool shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Gwenpool now!"
+ID_AR_ES_GWENPOOL,ENDED: Comic Fan Blitz
+ID_AR_EB_GWENPOOL,The Comic Fan Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
+ID_AR_NA_GWENPOOL_CARD,Comic Fan
+ID_AR_NA_COSMO,Space Pup
+ID_AR_SM_COSMO,Win Cosmo Shards!
+ID_AR_LM_COSMO,Face off against other players' teams to earn various milestone rewards and a chance to win Cosmo shards!
+ID_AR_MT_COSMO,LIVE: Space Pup Blitz
+ID_AR_MS_COSMO,Your chance to win Cosmo shards!
+ID_AR_MB_COSMO,"<color=#fff568>Space Pup Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Cosmo shards!\n\n<color=#fff568>Space Pup Orb</color>\nFor a limited time, a new Space Pup Orb is available in the Store. The orb contains <color=#fff568>only Cosmo shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Cosmo now!"
+ID_AR_ES_COSMO,ENDED: Space Pup Blitz
+ID_AR_EB_COSMO,The Space Pup Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
+ID_AR_NA_COSMO_CARD,Space Pup
+ID_AR_NA_KORG,Rock Warrior
+ID_AR_SM_KORG,Win Korg Shards!
+ID_AR_LM_KORG,Face off against other players' teams to earn various milestone rewards and a chance to win Korg shards!
+ID_AR_MT_KORG,LIVE: Rock Warrior Blitz
+ID_AR_MS_KORG,Your chance to win Korg shards!
+ID_AR_MB_KORG,"<color=#fff568>Rock Warrior Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Korg shards!\n\n<color=#fff568>Rock Warrior Orb</color>\nFor a limited time, a new Rock Warrior Orb is available in the Store. The orb contains <color=#fff568>only Korg shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Korg now!"
+ID_AR_ES_KORG,ENDED: Rock Warrior Blitz
+ID_AR_EB_KORG,The Rock Warrior Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
+ID_AR_NA_KORG_CARD,Rock Warrior
+ID_AR_NA_THOR_INFINITYWAR,Axe Wielder
+ID_AR_SM_THOR_INFINITYWAR,Win Thor (Infinity War) Shards!
+ID_AR_LM_THOR_INFINITYWAR,Face off against other players' teams to earn various milestone rewards and a chance to win Thor (Infinity War) shards!
+ID_AR_MT_THOR_INFINITYWAR,LIVE: Axe Wielder Blitz
+ID_AR_MS_THOR_INFINITYWAR,Your chance to win Thor (Infinity War) shards!
+ID_AR_MB_THOR_INFINITYWAR,"<color=#fff568>Axe Wielder Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Thor (Infinity War) shards!\n\n<color=#fff568>Axe Wielder Orb</color>\nFor a limited time, a new Axe Wielder Orb is available in the Store. The orb contains <color=#fff568>only Thor (Infinity War) shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Thor (Infinity War) now!"
+ID_AR_ES_THOR_INFINITYWAR,ENDED: Axe Wielder Blitz
+ID_AR_EB_THOR_INFINITYWAR,The Axe Wielder Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
+ID_AR_NA_THOR_INFINITYWAR_CARD,Axe Wielder
+ID_AR_NA_STARLORD_ANNIHILATION,Elemental Gunslinger
+ID_AR_SM_STARLORD_ANNIHILATION,Win Star-Lord (Annihilation) Shards!
+ID_AR_LM_STARLORD_ANNIHILATION,Face off against other players' teams to earn various milestone rewards and a chance to win Star-Lord (Annihilation) shards!
+ID_AR_MT_STARLORD_ANNIHILATION,LIVE: Elemental Gunslinger Blitz
+ID_AR_MS_STARLORD_ANNIHILATION,Your chance to win Star-Lord (Annihilation) shards!
+ID_AR_MB_STARLORD_ANNIHILATION,"<color=#fff568>Elemental Gunslinger Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Star-Lord (Annihilation) shards!\n\n<color=#fff568>Elemental Gunslinger Orb</color>\nFor a limited time, a new Elemental Gunslinger Orb is available in the Store. The orb contains <color=#fff568>only Star-Lord (Annihilation) shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Star-Lord (Annihilation) now!"
+ID_AR_ES_STARLORD_ANNIHILATION,ENDED: Elemental Gunslinger Blitz
+ID_AR_EB_STARLORD_ANNIHILATION,The Elemental Gunslinger Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
+ID_AR_NA_STARLORD_ANNIHILATION_CARD,Elemental Gunslinger

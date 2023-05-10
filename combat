@@ -85,6 +85,8 @@ ID_PROCS_DEFENSEUP_DESC,<b>Decrease</b> incoming damage by 50%.\n<b>Increase</b>
 ID_PROCS_DEFENSEUP_NAME,Defense Up
 ID_PROCS_MINORDEFENSEDOWN_DESC,<b>Increase</b> incoming damage by 25%.\n<b>Decrease</b> Resistance by 25%.
 ID_PROCS_MINORDEFENSEDOWN_NAME,Minor Defense Down
+ID_PROCS_EXHAUSTED_DESC,"<b>Decrease</b> Armor, Damage, Focus, and Resistance by 20% per stack.\n<b>Increase</b> incoming damage by 20% per stack."
+ID_PROCS_EXHAUSTED_NAME,Exhausted
 ID_PROCS_MINORDEFENSEUP_DESC,<b>Decrease</b> incoming damage by 25%.\n<b>Increase</b> Resistance by 25%.
 ID_PROCS_MINORDEFENSEUP_NAME,Minor Defense Up
 ID_PROCS_DEFLECT_DESC,Block the next attack.
@@ -178,6 +180,7 @@ ID_ABILITY_TOAST_CLOAK_PASSIVE,Darkforce Conduit
 ID_ABILITY_TOAST_COLLEENWING_PASSIVE,Daimyo Lineage
 ID_ABILITY_TOAST_COLOSSUS_PASSIVE,Steel Form
 ID_ABILITY_TOAST_CORVUSGLAIVE_PASSIVE,Loyal Lieutenant
+ID_ABILITY_TOAST_COSMO_PASSIVE,The Goodest Girl
 ID_ABILITY_TOAST_COULSON_PASSIVE,The Agent
 ID_ABILITY_TOAST_CROSSBONES_PASSIVE,Vengeance
 ID_ABILITY_TOAST_CRYSTAL_PASSIVE,Second Wind
@@ -220,6 +223,7 @@ ID_ABILITY_TOAST_GT_HANDDMG_BONUS_PASSIVE,Kenjutsu
 ID_ABILITY_TOAST_GT_HANDDMG_UNBUFF_PASSIVE,Archery
 ID_ABILITY_TOAST_GT_HANDSUPPORT_HEAL_PASSIVE,Way of the Shadow
 ID_ABILITY_TOAST_GT_HANDTANK_STEALTH_PASSIVE,Way of the Scorpion
+ID_ABILITY_TOAST_GWENPOOL_PASSIVE,Editorial Sight
 ID_ABILITY_TOAST_HANDCONTROL_HEALBLOCK_PASSIVE,Touch of Death
 ID_ABILITY_TOAST_HANDDMG_BONUS_PASSIVE,Kenjutsu
 ID_ABILITY_TOAST_HANDDMG_UNBUFF_PASSIVE,Archery
@@ -258,6 +262,7 @@ ID_ABILITY_TOAST_KILLMONGER_PASSIVE,Retribution
 ID_ABILITY_TOAST_KINGPIN_PASSIVE,Mastermind
 ID_ABILITY_TOAST_KITTYPRYDE_PASSIVE,Untouchable
 ID_ABILITY_TOAST_KORATH_PASSIVE,Hot Pursuit
+ID_ABILITY_TOAST_KORG_PASSIVE,Rock and Roll
 ID_ABILITY_TOAST_KREECONTROL_ASSIST_PASSIVE,Loyalist
 ID_ABILITY_TOAST_KREEDMG_OFFENSE_PASSIVE,Integrated Systems
 ID_ABILITY_TOAST_KREEDMG_SPEED_PASSIVE,Hunter-Killer
@@ -304,6 +309,7 @@ ID_ABILITY_TOAST_NICKFURY_PASSIVE,Director of S.H.I.E.L.D.
 ID_ABILITY_TOAST_NICOMINORU_PASSIVE,Blood Sorcery
 ID_ABILITY_TOAST_NIGHTNURSE_PASSIVE,Triage
 ID_ABILITY_TOAST_NOBU_PASSIVE,Secrets of Death
+ID_ABILITY_TOAST_NOVA_PASSIVE,The Human Rocket
 ID_ABILITY_TOAST_OKOYE_PASSIVE,Dora Milaje
 ID_ABILITY_TOAST_OMEGARED_PASSIVE,Death Factor
 ID_ABILITY_TOAST_PHOENIX_PASSIVE,Phoenix Rising
@@ -361,6 +367,7 @@ ID_ABILITY_TOAST_SPIDERWEAVER_PASSIVE,Weaver of Destiny
 ID_ABILITY_TOAST_SPIDERWOMAN_PASSIVE,Pheromone Fighter
 ID_ABILITY_TOAST_SQUIRRELGIRL_PASSIVE,Unbeatable
 ID_ABILITY_TOAST_STARLORD_PASSIVE,Improvisation
+ID_ABILITY_TOAST_STARLORD_ANNIHILATION_PASSIVE,Ragtag Commander
 ID_ABILITY_TOAST_STATURE_PASSIVE,Standing Tall
 ID_ABILITY_TOAST_STORM_PASSIVE,Ride the Wind
 ID_ABILITY_TOAST_STRANGESUPREME_PASSIVE,Heartless
@@ -377,6 +384,7 @@ ID_ABILITY_TOAST_THING_PASSIVE,It's Clobberin' Time
 ID_ABILITY_TOAST_THOR_PASSIVE,God of Thunder
 ID_ABILITY_TOAST_THORNPC_PASSIVE,God of Thunder
 ID_ABILITY_TOAST_TITANIA_PASSIVE,Vanity Queen
+ID_ABILITY_TOAST_THOR_INFINITYWAR_PASSIVE,Odinson's Revenge
 ID_ABILITY_TOAST_TOAD_PASSIVE,Amphibian Anatomy
 ID_ABILITY_TOAST_ULTGREENGOBLIN_PASSIVE,Cauterize
 ID_ABILITY_TOAST_ULTIMUS_PASSIVE,Kree Eternal
@@ -427,5 +435,7 @@ ID_ABILITY_TOAST_PVE_PROXIMAMIDNIGHT_GAUNTLET_PASSIVE,Embrace the Void
 ID_ABILITY_TOAST_PVE_THANOS_GAUNTLET_PASSIVE,Titan Eternal
 ID_BATTLEFIELD_BE_REDHULK_NAME,<color=#D81B1B>Gamma Radiation</color>
 ID_BATTLEFIELD_BE_REDHULK_DESC,"On enemy Turn, attack that enemy for <color=#86e619>250%</color> Piercing damage + apply <color=#86e619>3</color> <color=#fff568>Bleed</color>.\nAttacks from this Battlefield Effect are unavoidable.\nThis Battlefield Effect lasts until cleared or until the end of the match."
+ID_BATTLEFIELD_BE_NOVA_NAME,<color=#3b8dcb>Nova Force</color>
+ID_BATTLEFIELD_BE_NOVA_DESC,"On this character's or ally's Turn, that character clears <color=#86e619>1</color> negative effect, gains +<color=#86e619>2</color> <color=#fff568>Deflect</color>, up to a maximum of <color=#86e619>10</color>, and heals for <color=#86e619>5%</color> of Max Health.\nFor this character and each ally, when that character drops below <color=#86e619>50%</color> health, heal that character for <color=#86e619>50%</color> of Max Health. This can only occur once per match for self and each ally.\nThis character and all allies gain +<color=#86e619>5%</color> Damage per <color=#fff568>Deflect</color> on that character.\nThis Battlefield Effect lasts until cleared or until the end of the match."
 ID_TO_ME_MY_BOARD,"To me, my board!"
 ID_PING,PING!

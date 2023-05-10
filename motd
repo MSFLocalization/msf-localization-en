@@ -22,7 +22,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 12PM (PDT) (05/10).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PDT) (04/25).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -1854,6 +1854,16 @@ ID_MOTD_NA_SPOILSOFWAR_ANNOUNCE,LIVE: Spoils of War
 ID_MOTD_DE_SPOILSOFWAR_ANNOUNCE,Battle in Alliance War for Iso-8 rewards!
 ID_MOTD_NA_RADIOACTIVERUN_ANNOUNCE,LIVE: Radioactive Run
 ID_MOTD_DE_RADIOACTIVERUN_ANNOUNCE,"Earn Gold, Teal Gear and more!"
+ID_MOTD_NA_GWENPOOL,Comic Fan: Now Live!
+ID_MOTD_DE_GWENPOOL,Battle for a chance to win Gwenpool shards
+ID_MOTD_NA_COSMO,Space Pup: Now Live!
+ID_MOTD_DE_COSMO,Battle for a chance to win Cosmo shards
+ID_MOTD_NA_KORG,Rock Warrior: Now Live!
+ID_MOTD_DE_KORG,Battle for a chance to win Korg shards
+ID_MOTD_NA_THOR_INFINITYWAR,Axe Wielder: Now Live!
+ID_MOTD_DE_THOR_INFINITYWAR,Battle for a chance to win Thor (Infinity War) shards
+ID_MOTD_NA_STARLORD_ANNIHILATION,Elemental Gunslinger: Now Live!
+ID_MOTD_DE_STARLORD_ANNIHILATION,Battle for a chance to win Star-Lord (Annihilation) shards
 ID_MOTD_NA_FIREINTHESKY_TEASER,Coming Soon: Fire in the Sky
 ID_MOTD_DE_FIREINTHESKY_TEASER,Rewards for powering up Firestar
 ID_MOTD_NA_FIREINTHESKY_LIVE,Live: Fire in the Sky
@@ -1874,6 +1884,10 @@ ID_MOTD_NA_SPECIALOFFENSIVE3_TEASER,Coming Soon: Special Offensive
 ID_MOTD_DE_SPECIALOFFENSIVE3_TEASER,"Earn shards for Invaders, Rebirth, and Masters of Evil!"
 ID_MOTD_NA_SPECIALOFFENSIVE3_ANNOUNCE,LIVE: Special Offensive
 ID_MOTD_DE_SPECIALOFFENSIVE3_ANNOUNCE,"Earn shards for Invaders, Rebirth, and Masters of Evil!"
+ID_MOTD_NA_WAR_KNOWHERESIEGE_TEASER,Coming Soon: Knowhere Siege
+ID_MOTD_DE_WAR_KNOWHERESIEGE_TEASER,This limited-time Alliance War Event starts soon!
+ID_MOTD_NA_WAR_KNOWHERESIEGE_LIVE,Alliance War: Knowhere Siege is LIVE!
+ID_MOTD_DE_WAR_KNOWHERESIEGE_LIVE,Don't miss this special Alliance War Event!
 ID_MOTD_NA_SOLARFLARE_ANNOUNCE,LIVE: Solar Flare
 ID_MOTD_DE_SOLARFLARE_ANNOUNCE,Recruit Firestar now by participating in May Events!
 ID_MOTD_NA_SOLARFLARE_ENDING,Ending Soon: Solar Flare
@@ -1903,7 +1917,7 @@ ID_MOTD_DE_GWENPOOL_ANNOUNCE2,Open limited-time Comic Fan Orbs to start earning 
 ID_MOTD_NA_LIGHTTHECRUCIBLE_ANNOUNCE,LIVE: Light the Crucible
 ID_MOTD_DE_LIGHTTHECRUCIBLE_ANNOUNCE,Conquer the Cosmic Crucible
 ID_MOTD_NA_LIGHTTHECRUCIBLE_ENDING,Ending Soon: Light the Crucible
-ID_MOTD_DE_LIGHTTHECRUCIBLE_ENDING,Don't miss out on your chance for 7 Red Star Quicksilver!
+ID_MOTD_DE_LIGHTTHECRUCIBLE_ENDING,Don't miss out on your chance for T2 Level 5 Ions!
 ID_MOTD_NA_GALACTICGOLIATHS_ANNOUNCE,LIVE: Galactic Goliaths
 ID_MOTD_DE_GALACTICGOLIATHS_ANNOUNCE,Earn Blitz Credits then go to the web to redeem your rewards!
 ID_MOTD_NA_GALACTICGOLIATHS_ENDING,Ending Soon: Galactic Goliaths
@@ -1912,3 +1926,10 @@ ID_MOTD_NA_GREATESTHITS_TEASER,Coming Soon: Greatest Hits
 ID_MOTD_DE_GREATESTHITS_TEASER,Rock your roster with rewards and costumes
 ID_MOTD_NA_GREATESTHITS_LIVE,LIVE: Greatest Hits
 ID_MOTD_DE_GREATESTHITS_LIVE,Create a gear and costume rewards mixtape!
+ID_MOTD_NA_MOTHERSDAY23_TEASER,Coming Soon: Family Hero
+ID_MOTD_DE_MOTHERSDAY23_TEASER,T2 Level 5 Ions and more!
+ID_MOTD_NA_MOTHERSDAY23_ANNOUNCE,LIVE: Family Hero
+ID_MOTD_DE_MOTHERSDAY23_ANNOUNCE,T2 Level 5 Ions and more!
+ID_MOTD_NA_UPDATE_GENERIC,The latest update has arrived!
+ID_MOTD_DE_UPDATE_GENERIC,Tap to access the full briefing on the MARVEL Strike Force website.
+ID_MOTD_DE_UPDATE_072,"Check out Gwenpool, the new Knowhere team, and more!"

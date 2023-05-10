@@ -367,7 +367,7 @@ ID_OPTIONS_CHAT_ALLIANCE_LABEL,ALLIANCE
 ID_OPTIONS_CHAT_GLOBAL_LABEL,GLOBAL
 ID_OPTIONS_CHAT_WAR_ROOM_LABEL,WAR ROOM
 ID_OPTIONS_COOKIE,COOKIE POLICY
-ID_OPTIONS_COPYRIGHT,"&copy; MARVEL\nMARVEL Strike Force Software\n&copy; 2022 Scopely, Inc.\nDeveloped by Scopely, Inc. All rights reserved."
+ID_OPTIONS_COPYRIGHT,"&copy; MARVEL\nMARVEL Strike Force Software\n&copy; 2023 Scopely, Inc.\nDeveloped by Scopely, Inc. All rights reserved."
 ID_OPTIONS_CCPA,Do Not Sell My Info
 ID_OPTIONS_CPRA,Do Not Sell or Share My Personal Information
 ID_OPTIONS_CPRA_OPTED_IN,OPTED IN
@@ -434,6 +434,7 @@ ID_OPTIONS_PORTAL_BUTTON,GET ACCESS CODE
 ID_OPTIONS_HIGHER_RENDERING_MODE,Enable higher rendering mode(60fps)
 ID_OPTIONS_DISABLE_LARGE_HC_PURCHASE_CONFIRMATION,Disable Large Power Core Purchase Confirmation
 ID_OPTIONS_QUICK_MULTIORB_OPEN,Show 'Open All Orbs' Option
+ID_OPTIONS_VIBRATE_ON_LOAD_COMPLETE,Vibrate Device if Inactive After Loading Completes & Combat Completes (on supported devices)
 ID_PLAYER_NAME_CHANGE_CONFIRM,CONFIRM
 ID_PLAYER_NAME_CHANGE_ENTER_NAME,Enter name...
 ID_PLAYER_NAME_CHANGE_ENTER_VALID,"Please enter a valid name. Symbols (<, >, {, }) and profanity are not allowed."
@@ -665,6 +666,7 @@ ID_UI_FREE_COST,Free
 ID_UI_GACHA_REVEAL,ORB CHAMBER
 ID_UI_GEAR,GEAR
 ID_UI_GET_ORBS,GET HEROES
+ID_UI_UNKNOWN," Unknown"
 ID_UI_BEST_OFFER,BEST ONE-TIME OFFER!
 ID_UI_TIME_HEIST_INFO_LABEL,Offer Details
 ID_UI_TIME_HEIST_OFFER_DEAL,BEST ONE-TIME OFFER
@@ -677,6 +679,7 @@ ID_UI_TIME_HEIST_OFFER_TITLE,Time Heist
 ID_UI_TIME_HEIST_HUD_TITLE,TIME HEIST
 ID_UI_TIME_HEIST_HUD_BEST_OFFER,BEST OFFER
 ID_UI_TIME_HEIST_HUD_JUMP_TO,JUMP TO\nLEVEL
+ID_UI_TIME_HEIST_HUD_NO_JUMP,REWARDS FOR\nLEVEL
 ID_UI_TIME_HEIST,TIME HEIST
 ID_UI_TIME_HEIST_COMMANDER_UPGRADE,UPGRADED TO\nCOMMANDER LEVEL
 ID_UI_TIME_HEIST_REWARDS_NO_UPGRADE,REWARDS FOR\nCOMMANDER LEVEL
@@ -686,6 +689,7 @@ ID_UI_TIME_HEIST_OFFER_PROGRESS_MORE,...and +{overflow} more progress updates! <
 ID_UI_TIME_HEIST_OFFER_TAP_TO_SEE_MORE,<color=#00ffff>Tap to see more</color>
 ID_UI_TIME_HEIST_NO_UNLOCKS,All features already unlocked!
 ID_UI_TIME_HEIST_OFFER_UNLOCKED_FEATURES_HEADER,FEATURES UNLOCKED
+ID_UI_TIME_HEIST_3P_LOADING,Loading Time Heist
 ID_TIME_HEIST_DISCLAIMER_TITLE,TIME HEIST DETAILS
 ID_TIME_HEIST_DISCLAIMER_SUBHEADER,Understanding the Time Jump
 ID_TIME_HEIST_DISCLAIMER_BODY,"Time Heist Offers will upgrade your existing Commander Level, Roster Power, Campaign Progress, and Challenge Progress up to a preset point defined by each offer. Your existing progress across each of these power vectors will never be lost or reduced. Each Time Heist Offer will also grant a number of additional rewards as part of your purchase. \n\nCommander Level:\nTime Heists will instantly upgrade your Commander Level and grant all skipped level up rewards. If you purchase a Time Heist that is lower level than your current Commander Level, your Commander Level will remain the same and you will not be granted additional level up rewards.\n\nRoster Power:\nEach Time Heist will upgrade specific characters to a designated power level. Characters above the designated power level will not be reduced and additional compensation will not be granted. If a character has some power vectors above the designated power level and others that are below, the character will not lose progress and only those power vectors below the designed power levels will be upgraded. For example, if a Time Heist Offer grants a 3 Yellow Star, Gear Tier 6 Spider-Man, and you already own a 5 Yellow Star, Gear Tier 3 Spider-Man, after the Time Heist you will own a 5 Yellow Star, Gear Tier 6 Spider-Man. Comma separated Character Abilities are listed in order: Basic, Special, Ultimate, Passive.\n\nCampaign Progress:\nEach Time Heist Offer will advance your Campaign progress up to a preset point and 3 star all previous missions. Purchasing a Time Heist Offer will never reduce your Campaign progress or the number of stars earned on a particular mission. Completed Campaign Missions can always be replayed.\n\nChallenge Progress:\nEach Time Heist Offer will advance your Challenge progress up to a preset point and 3 star all previous missions. Purchasing a Time Heist Offer will never reduce your Challenge progress or the number of stars earned on a particular mission. Completed Challenge Missions can always be replayed.\n\nEach Level Time Heist Offer can only ever be purchased once, but multiple Level Time Heist Offers can be purchased as long as the minimum Commander Level is met.\n"
@@ -723,6 +727,7 @@ ID_TH_STARK_TECH,Stark Tech
 ID_TH_STARK_TECH_LVL,Stark Tech {number}
 ID_TH_STARK_TECH_LONG_DESC,Stark Tech upgrades the base stat for all characters of an origin.
 ID_TH_STARK_TECH_LVL_DESC,Stark Tech upgraded to level {number}
+ID_TH_STARK_TECH_LVL_NOT_UPGRADED_DESC,You are already at or above Stark Tech level {number}
 ID_TH_CAMPAIGN_PROGRESS_UPDATE,Update progress from Chapter {c1} to Chapter {c2}
 ID_TH_CHALLENGE_PROGRESS_UPDATE,Update progress from Tier {t1} to Tier {t2}
 ID_TH_CAMPAIGN_NO_PROGRESS,You are already on Chapter {chapter}
@@ -855,6 +860,16 @@ ID_UI_TRAINING_HELP_TEXT,Tap to add XP. Tap and hold to add or remove multiples.
 ID_UI_TRAITS,TRAITS
 ID_UI_UNITS_STORE,THE UNITS STORE ....
 ID_UI_UNREAD,UNREAD
+ID_UI_INBOX_MAIL,MESSAGES
+ID_UI_INBOX_REWARDS,REWARDS
+ID_UI_INBOX_SHOW_READ,Show Read
+ID_UI_INBOX_SHOW_CLAIMED,Show Claimed
+ID_UI_INBOX_CLAIM_ALL,CLAIM ALL
+ID_UI_INBOX_CLAIM_ALL_TITLE,CLAIM ALL REWARDS
+ID_UI_INBOX_CLAIM_ALL_BODY,Claim all rewards from <color=#FCFF00>{rewards} Messages</color>?
+ID_UI_INBOX_READ_ALL,READ ALL
+ID_UI_INBOX_READ_ALL_TITLE,READ ALL MESSAGES
+ID_UI_INBOX_READ_ALL_BODY,Read all <color=#FCFF00>{messages} Messages</color>?
 ID_UI_UTC_TIME,UTC TIME
 ID_UI_YOU_OWN,You Own:
 ID_UI_NEED_TO_LEVEL_UP,Increase your player level to unlock this feature.
@@ -946,7 +961,7 @@ ID_EVENT_CAMPAIGN_TYPE_ST,STORM
 ID_EVENT_CAMPAIGN_TYPE_VE,VENOM
 ID_NEW_PLAYER_FRAME_HEADLINE,NEW FRAME!
 ID_NEW_PLAYER_FRAME_SUBHEAD,You've unlocked a new frame!
-ID_NEW_PLAYER_FRAME_DESCRIPTION,This frame will be automatically applied to your avatar.
+ID_NEW_PLAYER_FRAME_DESCRIPTION,Would you like to equip your new frame now?
 ID_EVENT_CAMPAIGN_TYPE_JU,JUGGERNAUT
 ID_EVENT_CAMPAIGN_TYPE_SA,SABRETOOTH
 ID_EVENT_CAMPAIGN_TYPE_PY,PYRO
@@ -1217,6 +1232,41 @@ ID_MINSPEC_NA_MINSPEC_OS7_2GB,Device Update Needed!
 ID_MINSPEC_BO_MINSPEC_OS7_2GB,The minimum device requirements to play MARVEL Strike Force on Android will be OS 7 and a minimum of 2 GB RAM with the upcoming Version 6.5 Release (slated for the end of October 2022). We recommend updating as soon as possible to avoid any disruptions to your playing experience.
 ID_QUICKMULTIORBOPEN_TITLE,Open All Orbs
 ID_QUICKMULTIORBOPEN_BODY_PROMPT,Automatically open <color=#FFFF00FF>{num_orbs}</color> orbs?\nIt may take a few moments for these orbs to be opened. You may stop at any time.
+ID_QUICKMULTIORBOPEN_PURCHASE_BODY_PROMPT,Automatically purchase and open <color=#FFFF00FF>{num_orbs}</color> orbs?\nCost: <color=#FFFF00FF>{costAmount}</color> x {costType}\nIt may take a few moments for these orbs to be opened. You may stop at any time.
 ID_QUICKMULTIORBOPEN_BODY_PROGRESS,"Number of orbs opened: <color=#FFFF00FF>{num_orbs}</color>/<color=#FFFFFFFF>{total_orbs}</color> "
 ID_QUICKMULTIORBOPEN_BODY_PROGRESS_PENDING,Opening {num_orbs} orbs...
 ID_QUICKMULTIORBOPEN_BODY_STOPPING,Stopping...
+ID_UI_EQUIP_NOW," EQUIP NOW"
+ID_PLAYERPORTRAIT_HEADING," Player Portrait Settings"
+ID_PLAYERPORTRAIT_CATEGORYNAME_PORTRAIT_AVATAR," Avatar"
+ID_PLAYERPORTRAIT_CATEGORYNAME_PORTRAIT_FRAME," Frame"
+ID_PLAYERPORTRAIT_SAVED," SAVED"
+ID_PLAYERPORTRAIT_UNSAVEDCHANGES," UNSAVED CHANGES!"
+ID_PLAYERPORTRAIT_UNSAVED_POPUP," Save changes to profile portrait before closing?"
+ID_PLAYERPORTRAIT_CHANGES_SAVED," CHANGES SAVED!"
+ID_PLAYERPORTRAIT_AVATAR_LOCKED," AVATAR LOCKED!"
+ID_PLAYERPORTRAIT_FRAME_LOCKED," FRAME LOCKED!"
+ID_PLAYERPORTRAIT_UNLOCK_ACHIEVEMENTS," Found in Achievements"
+ID_PLAYERPORTRAIT_DONT_SAVE," DON'T SAVE"
+ID_AVATAR_UNLOCK_DEFAULT," Unlocked by default"
+ID_AVATAR_UNLOCK_GEAR," Get character to Gear Tier {tier}"
+ID_FRAME_0_NAME," Default Frame"
+ID_FRAME_1_NAME," Dark Dimension II - Tier 1"
+ID_FRAME_2_NAME," Dark Dimension II - Tier 2"
+ID_FRAME_3_NAME," Dark Dimension II - Tier 3"
+ID_FRAME_4_NAME," Dark Dimension II - Tier 4"
+ID_FRAME_5_NAME," Dark Dimension II - Tier 5"
+ID_FRAME_DD4_01_NAME," Dark Dimension IV - Tier 1"
+ID_FRAME_DD4_02_NAME," Dark Dimension IV - Tier 2"
+ID_FRAME_DD4_03_NAME," Dark Dimension IV - Tier 3"
+ID_FRAME_DD4_04_NAME," Dark Dimension IV - Tier 4"
+ID_FRAME_DD4_05_NAME," Dark Dimension IV - Tier 5"
+ID_FRAME_DD5_1_NAME," Dark Dimension V - Tier 1"
+ID_FRAME_DD5_2_NAME," Dark Dimension V - Tier 2"
+ID_FRAME_DD5_3_NAME," Dark Dimension V - Tier 3"
+ID_FRAME_DD5_4_NAME," Dark Dimension V - Tier 4"
+ID_FRAME_DD5_5_NAME," Dark Dimension V - Tier 5"
+ID_FRAME_APOCALYPSE_1_NAME," Apocalypse Saga"
+ID_WAR_ATTEMPTBONUS_TITLE,ATTEMPT BONUS
+ID_WAR_ATTEMPTBONUS_VALUE,<b><size=55><color=#fff798>{score}</color></size></b> of {max} PTS
+ID_WAR_ATTEMPTBONUS_VALUE_SMALL,<b><size=35><color=#f7951d>+{score}</color></size></b> PTS

@@ -59,7 +59,7 @@ ID_FATAL_MAINTENANCE_HEADLINER,SYSTEM MAINTENANCE
 ID_FATAL_MAINTENANCE_MESSAGE,Strike Force servers are currently undergoing maintenance. Thank you for your patience.
 ID_FATAL_INSUFFICIENT_DISK_SPACE,Your device does not have enough storage space to download the game. Please free up some space!
 ID_FATAL_ANDROID_PERMISSION_PLEAD_HEADLINE,Requesting Permissions
-ID_FATAL_ANDROID_PERMISSION_PLEAD_MESSAGE,Please grant permissions when prompted for proper game operation. Thank you.\n\nREAD_PHONE_STATE - required by Facebook
+ID_FATAL_ANDROID_PERMISSION_PLEAD_MESSAGE,Please grant permissions when prompted for proper game operation. Thank you.\n\nPOST_NOTIFICATIONS - required for notifications
 ID_FATAL_ANDROID_PERMISSION_MISSING_HEADLINE,Missing Permission
 ID_FATAL_ANDROID_PERMISSION_MISSING_MESSAGE,Required permission{perm_name} must be manually enabled via Android Application Settings.\n\nPlease enable permission and restart the application.
 ID_FATAL_ANDROID_PERMISSION_MISSING_GOTOSETTINGS,Settings
@@ -223,7 +223,7 @@ ID_SPARX_ERROR_GAME_KICKED,You have been kicked from the game.
 ID_SPARX_ERROR_NOFREEGAMES,All servers are full. Please try again later.
 ID_SPARX_ERROR_DUPLICATE_LOGIN,You have been logged out because you signed in on another device.
 ID_SPARX_ERROR_MUST_BE_LOGGED_IN,You must be signed in to purchase items.
-ID_SPARX_ERROR_PAYOUT_EXPIRED,This offer has expired. Refreshing...
+ID_SPARX_ERROR_PAYOUT_EXPIRED,This offer may have expired. Please retry in a moment. Refreshing your offers...
 ID_SPARX_ERROR_FAILED_TO_VERIFY_PAYMENT,Failed to verify payment. Please try again later.
 ID_SPARX_ERROR_PROFANITY,Profanity is not allowed.
 ID_SPARX_ERROR_GAME_LOST_CONNECTION,You have lost connection to the game.

@@ -366,3 +366,10 @@ ID_RAIDS_GAMBIT_NAME,Gambit Raid
 ID_RAIDS_GAMBIT_DESC,Earn Character Shards
 ID_RAIDS_GAMBIT_DETAILS,Recommendations:\n- Squad Lvl 25-85+\n- Gear Tier 4+\n- Ability Lvl 2+
 ID_RAIDS_CUMULATIVE_REWARDS_DESC,Also awards unearned rewards from lower difficulties
+ID_UI_RAID_LEADERBOARD_NOT_JOINED,Not Joined (No Rewards)
+ID_RAIDS_INCURSION_NAME,Incursion Raids
+ID_RAIDS_INCURSION_DESC,Earn Teal Epic Orbs
+ID_RAIDS_INCURSION_DETAILS,Battle interdimensional foes and seek the mastermind behind the Incursion!\n\nRecommendations:\n- Squad Lvl 90+\n- Gear Tier 15+\n- Ability Lvl 7\n- Red Stars 5+\n- Iso-8 Class T2 Level 3+
+ID_RAIDS_INCURSION_COMBAT_MODS_NAME_PLURAL,Combat Mods
+ID_MISSION_RAID_INCURSION_BLANK_DESC,
+ID_RAIDS_INCURSION_01_NAME,Incursion Raid I

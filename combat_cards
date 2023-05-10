@@ -167,3 +167,46 @@ ID_SCOURGE_CARD_127_NAME,Super Soldier Serum
 ID_SCOURGE_CARD_127_DESC,"All Minions Gain <color=#86e619>+30%</color> Focus, Health, Crit Chance, Crit Damage, Revive Health, And Active Healing"
 ID_SCOURGE_CARD_128_NAME,I Don't Need Skills
 ID_SCOURGE_CARD_128_DESC,"While <color=#fff568>Ability Blocked</color>, Enemy Characters Gain <color=#86e619>+15%</color> To Damage, Crit Damage, Crit Chance, And Speed"
+ID_INCURSION_MOD_001_NAME,Unstable Serum
+ID_INCURSION_MOD_002_NAME,Experimental Nanites
+ID_INCURSION_MOD_003_NAME,Interdimensional Combat Training
+ID_INCURSION_MOD_004_NAME,Aegis of Apocalypse
+ID_INCURSION_MOD_005_NAME,Apocalypse Now!
+ID_INCURSION_MOD_006_NAME,Unbound Dark Magicks
+ID_INCURSION_MOD_BLANK_NAME,
+ID_INCURSION_MOD_001_DESC,"\nOn Enemy Character Crit, clear <color=#86e619>2</color> <color=#fff568>Charged</color> from all Player Characters.\n\nOn Player Character dodge, Enemies gain <color=#fff568>Deathproof</color>."
+ID_INCURSION_MOD_002_DESC,"On Player Character Block, clear <color=#86e619>1</color> random negative effect that character."
+ID_INCURSION_MOD_003_DESC,"If a Player Character has any negative effect, that character's Dodge Chance is reduced by <color=#86e619>100%</color>."
+ID_INCURSION_MOD_004_DESC,"\nOn ally Assist, Heal self and all Enemy Characters for <color=#86e619>5%</color> of this character's Max Health.\n\nOn an Enemy Character's End of Turn, Clear all Barrier on all Player Characters."
+ID_INCURSION_MOD_005_DESC,"On any Player Character's Turn, clear <color=#fff568>Defense Up</color> on that character."
+ID_INCURSION_MOD_006_DESC,"\nOn Enemy Character Crit, apply <color=#fff568>Disrupted</color> to all Player Character <color=#fff568>PROTECTORS</color>.\n\nOn Enemy Character Turn, clear 2 <color=#fff568>Charged</color> from all Player Characters <color=#fff568>BLASTERS</color>."
+ID_INCURSION_MOD_007_DESC,"Enemy Characters cannot have <color=#fff568>Defense Down</color>, <color=#fff568>Minor Defense Down</color>, <color=#fff568>Offense Down</color>, or <color=#fff568>Minor Offense Down</color> applied to them."
+ID_INCURSION_MOD_008_DESC,"When an Enemy Character gains <color=#fff568>Bleed</color>, generate <color=#86e619>1</color> Ability Energy for self or a random ally.\n\nOn a Player Character Apocalypse's Turn, that Apocalypse gains <color=#fff568>Charged</color> and fills Speed Bar by <color=#86e619>20%</color>."
+ID_INCURSION_MOD_009_DESC,"\nOn Spawn, apply <color=#fff568>Offense Up</color> to all Enemy <color=#fff568>BRAWLERS</color> and <color=#fff568>BLASTERS</color>.\n\nOn Spawn, apply <color=#fff568>Taunt</color> to all Enemy <color=#fff568>PROTECTORS</color>.\n\nOn Spawn, apply <color=#fff568>Regeneration</color> for <color=#86e619>2</color> turns to all Enemy <color=#fff568>SUPPORTS</color> and <color=#fff568>CONTROLLERS</color>."
+ID_INCURSION_MOD_010_DESC,Enemy Characters cannot have <color=#fff568>Blind</color> applied to them.
+ID_INCURSION_MOD_011_DESC,\nPlayer Characters cannot have <color=#fff568>Stealth</color> applied to them.
+ID_INCURSION_MOD_012_DESC,"\nOn Enemy Character Turn, clear <color=#fff568>Revive Once</color> from all Player Characters. If <color=#fff568>Revive Once</color> was cleared, generate <color=#86e619>3</color> Ability Energy for self and all allies and clear all Barrier from Player Characters."
+ID_SCOURGE_CARD_129_NAME,On the Offensive
+ID_SCOURGE_CARD_129_DESC,"Whenever a Character Clears <color=#fff568>Taunt</color>, All Characters on the Opposite Team Gain <color=#86e619>Offense Up</color>"
+ID_SCOURGE_CARD_130_NAME,Man Vs. Machine
+ID_SCOURGE_CARD_130_DESC,"All <color=#fff568>BIO</color> Characters Gain Additional <color=#86e619>Critical Hit Chance</color>, and All <color=#86e619>TECH</color> Characters Gain Additional <color=#86e619>Dodge Chance</color>"
+ID_SCOURGE_CARD_131_NAME,Bio-Charged
+ID_SCOURGE_CARD_131_DESC,All <color=#fff568>BIO</color> Characters Spawn With Full Speed and Ability Bars
+ID_SCOURGE_CARD_132_NAME,Bio-Armor
+ID_SCOURGE_CARD_132_DESC,"When a Character Dies, All Allied <color=#fff568>BIO</color> Characters Gain <color=#fff568>Safeguard</color>"
+ID_SCOURGE_CARD_133_NAME,Warp World
+ID_SCOURGE_CARD_133_DESC,"When Any Character Drops to 50% Health, Characters on the Opposing Side Flip <color=#fff568>Negative Status Effects</color> to Positive, and Their Allied Characters Flip <color=#fff568>Positive Status Effects</color> to Negative"
+ID_SCOURGE_CARD_134_NAME,Avenging X-Factor
+ID_SCOURGE_CARD_134_DESC,"On Spawn, <color=#fff568>CITY HERO</color> Characters Gain the <color=#fff568>X-FACTOR</color> Trait, and All <color=#fff568>MUTANT</color> Characters Gain the <color=#fff568>BIONIC AVENGER</color> Trait"
+ID_SCOURGE_CARD_135_NAME,Masters of Spider-Verse
+ID_SCOURGE_CARD_135_DESC,"On Spawn, <color=#fff568>GLOBAL BIO</color> Characters Gain the <color=#fff568>MASTERS OF EVIL</color> Trait, and All <color=#fff568>SPIDER-VERSE</color> Characters Gain the <color=#fff568>TANGLED WEB</color> Trait"
+ID_SCOURGE_CARD_136_NAME,Evasive Maneuvers
+ID_SCOURGE_CARD_136_DESC,"When a Character Dies, their Allied <color=#fff568>BIO</color> Characters Gain <color=#86e619>Evade</color>"
+ID_SCOURGE_CARD_137_NAME,Power Cosmic
+ID_SCOURGE_CARD_137_DESC,All <color=#fff568>Cosmic Crucible</color> Abilities are Active During this Run
+ID_SCOURGE_CARD_138_NAME,Supernova
+ID_SCOURGE_CARD_138_DESC,"At the start of a <color=#fff568>STRIKER</color> Character's Turn, they Gain <color=#fff568>Barrier</color> Equal to 5% Their Max Health. <color=#fff568>STRIKER</color> Characters Also Gain +1 Ability Energy on Enemy Character Death"
+ID_SCOURGE_CARD_140_NAME,Snake Eyes
+ID_SCOURGE_CARD_140_DESC,"On Spawn, Player Characters Gain Increased <color=#fff568>Critical Hit Damage</color>, and Enemy Characters Gain Increased <color=#fff568>Critical Hit Chance</color>"
+ID_SCOURGE_CARD_141_NAME,Power Dynamics
+ID_SCOURGE_CARD_141_DESC,"Whenever an Player Character Removes Their Own Negative Status Effect, they gain <color=#fff568>Trauma</color>, and Enemy Characters Gain <color=#fff568>Speed Down</color> and <color=#fff568>Offense Down</color>"
