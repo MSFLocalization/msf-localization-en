@@ -5562,6 +5562,120 @@ ID_DIALOG_ECM_APOCALYPSE_09_END_1,"But it will not be the last time. "
 ID_DIALOG_ECM_APOCALYPSE_09_END_2,"No matter how many versions of myself emerge from the Multiverse, alone or at the side of S.T.R.I.K.E., I will triumph."
 ID_DIALOG_ECM_APOCALYPSE_09_END_3,"For I am the one true force of nature here, at the Nexus of realities. "
 ID_DIALOG_ECM_APOCALYPSE_09_END_4,"Now, let the Age of Apocalypse begin!"
+ID_DIALOG_ECM_COSMO_01_INTRO_0,Cosmo? What did you call us for?
+ID_DIALOG_ECM_COSMO_01_INTRO_1,Da. New survivors from Incursion increase with each passing day. It is imperative we consider accommodations.
+ID_DIALOG_ECM_COSMO_01_INTRO_2,We must clear additional space for their shelter and refuge.
+ID_DIALOG_ECM_COSMO_01_INTRO_3,"I can do that, but there's a lot of junk here. Did you bring enough moving boxes?"
+ID_DIALOG_ECM_COSMO_01_INTRO_4,*Sniff sniff* We are not alone. We will need to fight!
+ID_DIALOG_ECM_COSMO_01_INTRO_5,Hold on. Don't we get to get warmed up first?
+ID_DIALOG_ECM_COSMO_01_MID_0,I think I pulled a hammy. Who are these guys?
+ID_DIALOG_ECM_COSMO_01_MID_1,"Vermin that exploit times of hardship, taking advantage of vulnerable people."
+ID_DIALOG_ECM_COSMO_01_MID_2,Such actions must be stopped.
+ID_DIALOG_ECM_COSMO_01_END_0,"*Bzzt* Come in, Cosmo!"
+ID_DIALOG_ECM_COSMO_01_END_1,"Cosmo, here. What do you need?"
+ID_DIALOG_ECM_COSMO_01_END_2,We received an urgent distress call from an approaching ship.
+ID_DIALOG_ECM_COSMO_01_END_3,Go ahead with Korg. I'll clean up the mess here.
+ID_DIALOG_ECM_COSMO_01_END_4,"Thank you, comrade."
+ID_DIALOG_ECM_COSMO_01_END_5,Relay message to emergency pod. Cosmo will be piloting over to offer our assistance.
+ID_DIALOG_ECM_COSMO_02_INTRO_0,*Bzzt* Ready when you are.
+ID_DIALOG_ECM_COSMO_02_INTRO_1,Connect us.
+ID_DIALOG_ECM_COSMO_02_INTRO_2,"Someone's aboard the ship! All-Fathers, give me strength."
+ID_DIALOG_ECM_COSMO_02_INTRO_3,Cosmo is almost docked. Are you in secure location?
+ID_DIALOG_ECM_COSMO_02_INTRO_4,We've been able to defend the bridge.
+ID_DIALOG_ECM_COSMO_02_INTRO_5,"Having faith, comrade. Cosmo will find you, and we shall overcome this obstacle together."
+ID_DIALOG_ECM_COSMO_02_START_0,Relax everyone. It's just a dog.
+ID_DIALOG_ECM_COSMO_02_START_1,"GRRR! Cosmo is NOT ""just a dog""!"
+ID_DIALOG_ECM_COSMO_02_END_0,"Hostiles are dealt with, comrade."
+ID_DIALOG_ECM_COSMO_02_END_1,Thank you for rescuing us. We're in your debt.
+ID_DIALOG_ECM_COSMO_02_END_2,"Aw, look at us all bonding and making friends."
+ID_DIALOG_ECM_COSMO_02_END_3,Da. Cosmo will share delicious treats once we arrive at Knowhere.
+ID_DIALOG_ECM_COSMO_03_INTRO_0,"Good job, Cosmo, but we have a problem. I'll play the transmission."
+ID_DIALOG_ECM_COSMO_03_INTRO_1,"Is this thing on? Hello, Knowhere! You're probably wondering why I've stepped away from my experiments to chat with you."
+ID_DIALOG_ECM_COSMO_03_INTRO_2,"Imagine my surprise, if you can, when I scanned that ship and noticed a blank spot in the data."
+ID_DIALOG_ECM_COSMO_03_INTRO_3,"Naturally, I want to study whatever is causing it, but you see how you have us in a pickle, don't you?"
+ID_DIALOG_ECM_COSMO_03_INTRO_4,I'll do whatever it takes to get that ship. We can even be friends!
+ID_DIALOG_ECM_COSMO_03_INTRO_5,I've gone on long enough... Long enough for you to miss the sound of my team sneaking into Knowhere!
+ID_DIALOG_ECM_COSMO_03_INTRO_6,Initiate the surprise attack!!!
+ID_DIALOG_ECM_COSMO_03_START_0,Target spotted!
+ID_DIALOG_ECM_COSMO_03_START_1,Cosmo will not allow stealing of refugees.
+ID_DIALOG_ECM_COSMO_03_START_2,"Yeah! Initiating the ""Stone Wall Strategy""!"
+ID_DIALOG_ECM_COSMO_03_END_0,"Cosmo, we're receiving another call from the attackers."
+ID_DIALOG_ECM_COSMO_03_END_1,Connect us.
+ID_DIALOG_ECM_COSMO_03_END_2,What do you want?
+ID_DIALOG_ECM_COSMO_03_END_3,"Okay, so, MAYBE I didn't get our friendship off on the right foot with that sneak attack."
+ID_DIALOG_ECM_COSMO_03_END_4,And I'm not too proud to admit that maybe I wasn't as generous with your survival chance as I could have been.
+ID_DIALOG_ECM_COSMO_03_END_5,But the next group that infiltrated Knowhere? Real pros.
+ID_DIALOG_ECM_COSMO_04_INTRO_0,"*Bzzt* Come in, Cosmo! Say the word, and I'll regroup with you and Korg."
+ID_DIALOG_ECM_COSMO_04_INTRO_1,I can't wait to wreck these guys.
+ID_DIALOG_ECM_COSMO_04_INTRO_2,This is not final assault.
+ID_DIALOG_ECM_COSMO_04_INTRO_3,Please assist refugees to reinforce Knowhere's defenses.
+ID_DIALOG_ECM_COSMO_04_INTRO_4,Cosmo tends to intruders.
+ID_DIALOG_ECM_COSMO_04_START_0,You will not be proceeding further.
+ID_DIALOG_ECM_COSMO_04_START_1,I'll make a scorch mark out of ya!
+ID_DIALOG_ECM_COSMO_04_END_0,"Come in, Knowhere. I've hacked into your systems and I KNOW WHERE you're all hiding."
+ID_DIALOG_ECM_COSMO_04_END_1,...
+ID_DIALOG_ECM_COSMO_04_END_2,Nothing?? Really? That joke had a 93.76% chance of drawing a laugh.
+ID_DIALOG_ECM_COSMO_04_END_3,Never mind. This next one is going to KILL.
+ID_DIALOG_ECM_COSMO_05_INTRO_0,Nyet. It matters not what you try. Cosmo will stop you.
+ID_DIALOG_ECM_COSMO_05_INTRO_1,"In that case, I hope you won't mind if I use you to test out a li'l side project of mine."
+ID_DIALOG_ECM_COSMO_05_INTRO_2,These baddies were homegrown in my lab with all the TLC - and genetic enhancements - they could handle.
+ID_DIALOG_ECM_COSMO_05_INTRO_3,"Say ""hello,"" precious."
+ID_DIALOG_ECM_COSMO_05_INTRO_4,SKRREEEEE!
+ID_DIALOG_ECM_COSMO_05_INTRO_5,"I'm pretty sure that translates to ""hello""."
+ID_DIALOG_ECM_COSMO_05_MID_0,What's going on here?! Quit being such an anomaly!
+ID_DIALOG_ECM_COSMO_05_END_0,These chew toys are much appreciated. Very fun.
+ID_DIALOG_ECM_COSMO_05_END_1,A simple miscalculation. Imaginary numbers can be tricky.
+ID_DIALOG_ECM_COSMO_05_END_2,"Scientists should be good at math, da?"
+ID_DIALOG_ECM_COSMO_05_END_3,A dog is taunting me?! Seriously?!
+ID_DIALOG_ECM_COSMO_05_END_4,That's it. Send EVERYONE!
+ID_DIALOG_ECM_COSMO_06_INTRO_0,End of the line.
+ID_DIALOG_ECM_COSMO_06_INTRO_1,You're all out of escape routes.
+ID_DIALOG_ECM_COSMO_06_INTRO_2,It's no use! We're trapped!
+ID_DIALOG_ECM_COSMO_06_INTRO_3,"Cosmo, what do we do?"
+ID_DIALOG_ECM_COSMO_06_INTRO_4,Cosmo will protect you while you escape.
+ID_DIALOG_ECM_COSMO_06_MID_0,"Bozhe moi, there is no end to them! Stand with Cosmo and fight, comrades! Stand and defend Knowhere!"
+ID_DIALOG_ECM_COSMO_06_MID_1,Looks like you could use a hand.
+ID_DIALOG_ECM_COSMO_06_END_0,"Your help is much appreciated, comrade Heimdall."
+ID_DIALOG_ECM_COSMO_06_END_1,We can't handle them alone. We're too thinly spread.
+ID_DIALOG_ECM_COSMO_06_END_2,Da. Cosmo agrees.
+ID_DIALOG_ECM_COSMO_06_END_3,Knowhere will be needing to signal for help.
+ID_DIALOG_ECM_COSMO_06_END_4,I'll take care of these people. You get that signal out.
+ID_DIALOG_ECM_COSMO_06_END_5,Cosmo will move quickly.
+ID_DIALOG_ECM_COSMO_07_INTRO_0,Hmm... Control room is under enemy occupation.
+ID_DIALOG_ECM_COSMO_07_INTRO_1,Cosmo has trick for this.
+ID_DIALOG_ECM_COSMO_07_INTRO_2,BARK! BARK!!
+ID_DIALOG_ECM_COSMO_07_INTRO_3,What's a cute puppy doing on this dingy station? And it's dressed up as an astronaut. Adorable.
+ID_DIALOG_ECM_COSMO_07_INTRO_4,That's hardly a puppy.
+ID_DIALOG_ECM_COSMO_07_INTRO_5,GRRRR... Cosmo is cute and adorable no matter age!
+ID_DIALOG_ECM_COSMO_07_MID_0,"Irritating enemies, but Cosmo is close to the transmitter."
+ID_DIALOG_ECM_COSMO_07_END_0,Knowhere is under attack by mad scientist and requires assistance!
+ID_DIALOG_ECM_COSMO_07_END_1,Signal is out in universe now.
+ID_DIALOG_ECM_COSMO_07_END_2,Cosmo will be having faith that help arrives soon.
+ID_DIALOG_ECM_COSMO_08_INTRO_0,No! Bad girl! No barking for help. You'll wake the neighbors!
+ID_DIALOG_ECM_COSMO_08_INTRO_1,Pah! Cosmo will chase you away.
+ID_DIALOG_ECM_COSMO_08_INTRO_2,You're hardly an efficient guard dog. Knowhere's door was wide open just waiting for me to board.
+ID_DIALOG_ECM_COSMO_08_INTRO_3,"I AM going to get my hands on that crew and their ship. I'll trade you a tennis ball for them. Enticing, isn't it?"
+ID_DIALOG_ECM_COSMO_08_INTRO_4,Nyet. Cosmo has placed telekinetic barriers at exit of Control Room. You are trapped with Cosmo.
+ID_DIALOG_ECM_COSMO_08_INTRO_5,"That's powerful telekinesis. It's your lucky day, Spot. You're coming with me so I can figure out what you really are."
+ID_DIALOG_ECM_COSMO_08_MID_0,"Bzzt... Cosmo, come in. I've brought help, but we're caught in a skirmish."
+ID_DIALOG_ECM_COSMO_08_MID_1,Comrade Nova! A voice for sore ears. Cosmo leads enemy to you for to regroup.
+ID_DIALOG_ECM_COSMO_08_END_0,This is impossible odds. Cosmo is out of here!
+ID_DIALOG_ECM_COSMO_08_END_1,One of the barriers is down! Don't let that mutt escape!
+ID_DIALOG_ECM_COSMO_08_END_2,Wait... Who is that at the end of the hall?
+ID_DIALOG_ECM_COSMO_08_END_3,Oh no...
+ID_DIALOG_ECM_COSMO_09_INTRO_0,The fun has arrived.
+ID_DIALOG_ECM_COSMO_09_INTRO_1,Comrade Nova? There is something different about you.
+ID_DIALOG_ECM_COSMO_09_INTRO_2,Nevermind that. Let's help this scientist find her way back to her lab.
+ID_DIALOG_ECM_COSMO_09_INTRO_3,This would please Cosmo.
+ID_DIALOG_ECM_COSMO_09_MID_0,This is what I get for not factoring in Murphy's Law.
+ID_DIALOG_ECM_COSMO_09_MID_1,RETREAT!!
+ID_DIALOG_ECM_COSMO_09_END_0,Why were they after that crew?
+ID_DIALOG_ECM_COSMO_09_END_1,That would be due to my little visit to Asgard.
+ID_DIALOG_ECM_COSMO_09_END_2,GRRR... Who are you?
+ID_DIALOG_ECM_COSMO_09_END_3,"Easy there, dog. I was simply on my way to notify the Commander of my findings when the ship was scanned."
+ID_DIALOG_ECM_COSMO_09_END_4,Are we to be believing trickster god?
+ID_DIALOG_ECM_COSMO_09_END_5,"You know, everyone's distrust of me is getting rather dull."
+ID_DIALOG_ECM_COSMO_09_END_6,Perhaps it's best if I show you...
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
@@ -7394,7 +7508,7 @@ ID_DIALOG_TRIALS_NOVA_03_INTRO_4,"The Vortex is bad news. And you're right, I kn
 ID_DIALOG_TRIALS_NOVA_03_INTRO_5,*BARK! BARK!* Then let us not be waiting one moment more! We must get to it before Apocalypse!
 ID_DIALOG_TRIALS_NOVA_03_END_0,"Looks like we got here right in time, man. "
 ID_DIALOG_TRIALS_NOVA_03_END_1,You weren't kidding about this army. How many guys did we just take out to get planetside?
-ID_DIALOG_TRIALS_NOVA_03_END_2,I lost cout. But it looks like we're just getting started.
+ID_DIALOG_TRIALS_NOVA_03_END_2,I lost count. But it looks like we're just getting started.
 ID_DIALOG_TRIALS_NOVA_03_END_3,Set a perimeter! Don't let them escape! We get the Black Vortex for Apocalypse or lay down our lives trying!
 ID_DIALOG_TRIALS_NOVA_03_END_4,"Here comes round two. Remind me to thank you guys for getting me into this later. "
 ID_DIALOG_TRIALS_NOVA_05_INTRO_0,"Might as well give up, space man. Not that I'd be sad for a reason to give you a taste of my Soulsword. "

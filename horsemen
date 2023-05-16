@@ -78,11 +78,29 @@ ID_HORSEMEN_REWARDS_EFFICIENCY,Turn Bonus:
 ID_HORSEMEN_REWARDS_COMPLETED,COMPLETED
 ID_EVENT_HORSEMEN_EVENT,Scourge
 ID_HORSEMEN_EVENT_ENDED_COMBAT_WARNING,This mission cannot be started because the event has ended.
+ID_GAMEMODE_LEGENDARY2023,TRIALS
+ID_LEGENDARY2023_EVENT_CARD_TITLE_01,NOVA
+ID_LEGENDARY2023_EVENT_CARD_DESC_01,Earn Nova Shards
+ID_LEGENDARY2023_EVENT_CARD_INFO,Trials Event Rules
+ID_LEGENDARY2023_NO_HIGHSCORE,This is not a new high score. Increase your difficulty or select additional Pacts to score higher!
+ID_LEGENDARY2023_VICTORS_LEADERBOARD_INFO,You have already attained max stars for this character and are no longer eligible for rank rewards.
+ID_LEGENDARY2023_RULES_HEADER,Rules of the TRIALS EVENT
+ID_LEGENDARY2023_RULES_SUBHEADER_01,DEAL WITH THE DEVIL
+ID_LEGENDARY2023_RULES_BODY_01,"With our heroes in desperate need, MEPHISTO has emerged from the shadows to offer them great power... at a cost!"
+ID_LEGENDARY2023_RULES_SUBHEADER_02,STRIKE A BARGAIN
+ID_LEGENDARY2023_RULES_BODY_02,Pacts add status effects that help your team but also make your battles more difficult! They are key to getting higher scores and better rewards. Choose wisely!
+ID_LEGENDARY2023_RULES_SUBHEADER_03,EXPECTED RUN SCORE
+ID_LEGENDARY2023_RULES_BODY_03,The Pacts and Difficulty you choose combine to determine your Expected Run Score. You will score that many points if you complete every mission. A score bonus is granted for efficient play.
+ID_LEGENDARY2023_RULES_SUBHEADER_04,NO HEALING!
+ID_LEGENDARY2023_RULES_BODY_04,"Score as high as you can, but be careful! Characters cannot be healed between battles."
+ID_LEGENDARY2023_RULES_SUBHEADER_05,COMPLETE ALL OR SOME
+ID_LEGENDARY2023_RULES_BODY_05,"Complete all the missions, or reset part way through. If you choose to reset, you will be awarded a portion of your Expected Run Score."
+ID_LEGENDARY2023_RULES_SUBHEADER_06,INCREASE YOUR HIGH SCORE
+ID_LEGENDARY2023_RULES_BODY_06,"Your best score determines your leaderboard position and your milestone progress. Get higher scores to get better rewards, including Legendary character shards!"
+ID_LEGENDARY2023_PACTS,Pacts
+ID_LEGENDARY2023_METER_PACTS,PACTS
+ID_LEGENDARY2023_PACTS_SELECTED,Selected Pacts
+ID_LEGENDARY2023_SELECT_PACTS_DESC,Select Pacts to raise your scourge score modifier:
+ID_EVENT_LEGENDARY2023_EVENT,Trials
 ID_NOVA_EVENT_CARD_TITLE_01,NOVA
 ID_NOVA_EVENT_CARD_DESC_01,Earn Nova Shards
-ID_NOVA_PACT,PACT
-ID_NOVA_METER_PACT,PACT
-ID_EVENT_NOVA_EVENT,Pact
-ID_NOVA_NO_HIGHSCORE,This is not a new high score. Increase your difficulty or pacts to score higher!
-ID_NOVA_PACT_SELECTED,Selected Pacts
-ID_NOVA_SELECT_PACT_DESC,Select Pacts to raise your pact score modifier:
