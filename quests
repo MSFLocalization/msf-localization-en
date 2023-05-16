@@ -2797,3 +2797,25 @@ ID_QU_SM_MOTHERSDAY23,Spend Campaign Energy and Earn Alliance Credits
 ID_QU_SC_MOTHERSDAY23,Spend Campaign Energy and Earn Alliance Credits
 ID_QU_S1_MOTHERSDAY23,Spend 1 Campaign Energy
 ID_QU_S2_MOTHERSDAY23,Earn 1 Alliance Credit
+ID_QU_NA_OUTOFTHISWORLD,Out of this World
+ID_QU_SD_OUTOFTHISWORLD,Battle in Raids and Open Event Orbs
+ID_QU_LM_OUTOFTHISWORLD,"Gain progress by battling in Raids, opening one of the four special event orbs, and by participating in the Escape Velocity Web Milestone."
+ID_QU_SM_OUTOFTHISWORLD,Battle in Raids and Open Event Orbs
+ID_QU_S1_OUTOFTHISWORLD,Play 1 Raid Battle
+ID_QU_S2_OUTOFTHISWORLD,Open 1 Pool Party Orb
+ID_QU_S3_OUTOFTHISWORLD,Open 1 Super Radd Gear Orb
+ID_QU_S4_OUTOFTHISWORLD,Open 1 Pretty Sweet Gear Orb
+ID_QU_S5_OUTOFTHISWORLD,Open 1 Sciency Tech Stuff Orb
+ID_QU_NA_ESCAPEVELOCITY,Escape Velocity
+ID_QU_SD_ESCAPEVELOCITY,Spend Campaign Energy
+ID_QU_LD_ESCAPEVELOCITY,Spend Campaign Energy to complete this daily milestone that rewards Gold and Out of this World Milestone Points.
+ID_QU_SM_ESCAPEVELOCITY,Spend Campaign Energy
+ID_QU_SC_ESCAPEVELOCITY,Spend Campaign Energy
+ID_QU_S1_ESCAPEVELOCITY,Spend 1 Campaign Energy
+ID_QU_NA_COSMICCORPSMAN,Cosmic Corpsman
+ID_QU_SD_COSMICCORPSMAN,Earn Corpsman Orbs in Campaign
+ID_QU_LM_COSMICCORPSMAN,Gain progress by earning Corpsman Orb Fragments from Campaign nodes and by participating in the Black Hole Boogie Web Milestone.
+ID_QU_SM_COSMICCORPSMAN,Earn Corpsman Orbs in Campaign
+ID_QU_S1_COSMICCORPSMAN,Earn 1 Corpsman Orb Fragment
+ID_QU_NA_BLACKHOLEBOOGIE,Black Hole Boogie
+ID_QU_LD_BLACKHOLEBOOGIE,"Use your favorite characters in Arena, Raid and Blitz to complete this 5-day milestone that rewards Corpsman Orb Fragments and Cosmic Corpsman Milestone Points."

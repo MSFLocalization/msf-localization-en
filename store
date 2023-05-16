@@ -8409,3 +8409,27 @@ ID_GACHA_CRATE_INTERSTELLAR_NAME,Interstellar Orb
 ID_GACHA_CRATE_INTERSTELLAR_DESCRIPTION,"Contains shards of Guardians, Infinity Watch, and more"
 ID_GACHA_CRATE_INTERSTELLAR_TOKEN_NAME,Interstellar Orb Fragments
 ID_GACHA_CRATE_INTERSTELLAR_TOKEN_DESCRIPTION,Collect Interstellar Orb Fragments from Campaign Nodes to earn progress in the Interstellar Ignition Milestone
+ID_GACHA_CRATE_POOLPARTY_NAME,Pool Party Orb
+ID_GACHA_CRATE_POOLPARTY_DESCRIPTION,"Contains shards of Gwenpool, New Warriors, and Tangled Web"
+ID_GACHA_CRATE_POOLPARTY_TOKEN_NAME,Pool Party Orb Fragments
+ID_GACHA_CRATE_POOLPARTY_TOKEN_DESCRIPTION,Open Pool Party Orbs for progress in the Out of this World Milestone
+ID_GACHA_CRATE_SUPERRADDGEAR_NAME,Super Radd Gear Orb
+ID_GACHA_CRATE_SUPERRADDGEAR_DESCRIPTION,Contains Gear Tier 16 and 17 Mini-Uniques and more teal gear!
+ID_GACHA_CRATE_SUPERRADDGEAR_TOKEN_NAME,Super Radd Gear Orb Fragments
+ID_GACHA_CRATE_SUPERRADDGEAR_TOKEN_DESCRIPTION,Open Super Radd Gear Orbs for progress in the Out of this World Milestone
+ID_GACHA_CRATE_SCIENCYTECHSTUFF_NAME,Sciency Tech Stuff Orb
+ID_GACHA_CRATE_SCIENCYTECHSTUFF_DESCRIPTION,"Contains T2 Level 4 Ions, Basic T2 Iso-8 Orb Fragments, and more"
+ID_GACHA_CRATE_SCIENCYTECHSTUFF_TOKEN_NAME,Sciency Tech Stuff Orb Fragments
+ID_GACHA_CRATE_SCIENCYTECHSTUFF_TOKEN_DESCRIPTION,Open Sciency Tech Stuff Orbs for progress in the Out of this World Milestone
+ID_GACHA_CRATE_PRETTYSWEETGEAR_NAME,Pretty Sweet Gear Orb
+ID_GACHA_CRATE_PRETTYSWEETGEAR_DESCRIPTION,Contains Gear Tier 14 and 15 Mini-Uniques and more orange gear!
+ID_GACHA_CRATE_PRETTYSWEETGEAR_TOKEN_NAME,Pretty Sweet Gear Orb Fragments
+ID_GACHA_CRATE_PRETTYSWEETGEAR_TOKEN_DESCRIPTION,Open Pretty Sweet Gear Orbs for progress in the Out of this World Milestone
+ID_GACHA_CRATE_CORPSMAN_NAME,Corpsman Orb
+ID_GACHA_CRATE_CORPSMAN_DESCRIPTION,"Contains shards of Masters of Evil, X-Factor, and more"
+ID_GACHA_CRATE_CORPSMAN_TOKEN_NAME,Corpsman Orb Fragments
+ID_GACHA_CRATE_CORPSMAN_TOKEN_DESCRIPTION,Collect Corpsman Orb Fragments from Campaign Nodes to earn progress in the Cosmic Corpsman Milestone
+ID_GACHA_CRATE_DARKDIMENSIONVICOUNTDOWN_NAME,Dark Dimension VI Countdown Orb
+ID_GACHA_CRATE_DARKDIMENSIONVICOUNTDOWN_DESCRIPTION,Prepare for Dark Dimension VI with high-value Gear Tier 18 and T2 Level 5 Ions!
+ID_GACHA_CRATE_DARKDIMENSIONVICOUNTDOWN_TOKEN_NAME,Dark Dimension VI Countdown Orb Fragments
+ID_GACHA_CRATE_DARKDIMENSIONVICOUNTDOWN_TOKEN_DESCRIPTION,Open Dark Dimension VI Countdown Orbs to get Gear Tier 18 and T2 Level 5 Ions!

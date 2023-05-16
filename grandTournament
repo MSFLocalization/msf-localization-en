@@ -211,7 +211,7 @@ ID_GT_E1_ROOM3_RULES_DESC,"On Defense and Offense,\n <color=#fff568>WEB-WARRIOR<
 ID_GT_E1_ROOM4_RULES_NAME,Strength in Numbers
 ID_GT_E1_ROOM4_RULES_DESC,"On Defense and Offense,\n> Every consecutive summoned character of the same summoned character on either side of the field adds <color=#86e619>20%</color> more Max Health to each future summon of that summoned character."
 ID_GT_E1_ROOM5_RULES_NAME,Health Insurance
-ID_GT_E1_ROOM5_RULES_DESC,"On Defense and Offense,\n> On turn, characters remove all positive effects from self and heal <color=#86e619>10%</color> of max heatlh for each positive effect removed."
+ID_GT_E1_ROOM5_RULES_DESC,"On Defense and Offense,\n> On turn, characters remove all positive effects from self and heal <color=#86e619>10%</color> of max health for each positive effect removed."
 ID_GT_E1_ROOM6_RULES_NAME,Over Charged
 ID_GT_E1_ROOM6_RULES_DESC,"On Defense and Offense,\n> Special abilities cost <color=#86e619>3</color> more Ability Energy.\n> Ultimate abilities cost <color=#86e619>3</color> less Ability Energy."
 ID_GT_KNOCKOUT_REMAINING,Remaining: {qty}

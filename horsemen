@@ -78,3 +78,11 @@ ID_HORSEMEN_REWARDS_EFFICIENCY,Turn Bonus:
 ID_HORSEMEN_REWARDS_COMPLETED,COMPLETED
 ID_EVENT_HORSEMEN_EVENT,Scourge
 ID_HORSEMEN_EVENT_ENDED_COMBAT_WARNING,This mission cannot be started because the event has ended.
+ID_NOVA_EVENT_CARD_TITLE_01,NOVA
+ID_NOVA_EVENT_CARD_DESC_01,Earn Nova Shards
+ID_NOVA_PACT,PACT
+ID_NOVA_METER_PACT,PACT
+ID_EVENT_NOVA_EVENT,Pact
+ID_NOVA_NO_HIGHSCORE,This is not a new high score. Increase your difficulty or pacts to score higher!
+ID_NOVA_PACT_SELECTED,Selected Pacts
+ID_NOVA_SELECT_PACT_DESC,Select Pacts to raise your pact score modifier:

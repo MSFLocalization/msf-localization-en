@@ -7370,6 +7370,87 @@ ID_DIALOG_APOC_ARCHANGEL_10_END_7,ARGH!!!
 ID_DIALOG_APOC_ARCHANGEL_10_END_8,"Your will was strong, Archangel. But weakened, you cannot resist my power. "
 ID_DIALOG_APOC_ARCHANGEL_10_END_9,Horseman... My harbinger...
 ID_DIALOG_APOC_ARCHANGEL_10_END_10,"Arise, DEATH!"
+ID_DIALOG_TRIALS_NOVA_01_INTRO_0,DEEP SPACE...
+ID_DIALOG_TRIALS_NOVA_01_INTRO_1,"The Earth defenders have wandered into our star-net! Now, stop them!"
+ID_DIALOG_TRIALS_NOVA_01_INTRO_2,"Friend Thor, where did these very bad beings come from?! We were not expecting them."
+ID_DIALOG_TRIALS_NOVA_01_INTRO_3,"It appears to be a trap, small dog! But don't worry, there's one thing they didn't count on..."
+ID_DIALOG_TRIALS_NOVA_01_INTRO_4,"Though they've trapped us, we've also trapped them. By being in their trap. See?"
+ID_DIALOG_TRIALS_NOVA_01_INTRO_5,"Not sure that one tracks, man. And besides... There's a whole lotta them."
+ID_DIALOG_TRIALS_NOVA_01_INTRO_6,Good thing there were enough of them to draw my attention. Need some help?
+ID_DIALOG_TRIALS_NOVA_01_INTRO_7,"Nova, man! You are just in time, this was about to get gnarly."
+ID_DIALOG_TRIALS_NOVA_01_INTRO_8,"Hey, the Nova Corps is always happy to lend a hand. Let's do this."
+ID_DIALOG_TRIALS_NOVA_01_END_0,And THAT is how you turn a Kree war fleet into space junk.
+ID_DIALOG_TRIALS_NOVA_01_END_1,"Phew... Gotta say, we could have taken them, but it went a lot faster with the Nova Force on our side."
+ID_DIALOG_TRIALS_NOVA_01_END_2,"Yeah, his blasty things? Way cooler than your blasty things. "
+ID_DIALOG_TRIALS_NOVA_01_END_3,"Okay, it's not a competition..."
+ID_DIALOG_TRIALS_NOVA_01_END_4,"Thanks. But you guys are a long way from Asgard, or Knowhere, or... Wherever the rock guy is from. "
+ID_DIALOG_TRIALS_NOVA_01_END_5,"What are you doing out here, Pete?"
+ID_DIALOG_TRIALS_NOVA_01_END_6,"That's the thing, Richie. We're out here looking for you. Things have changed..."
+ID_DIALOG_TRIALS_NOVA_03_INTRO_0,"Wow, I heard Ultimus went down, but Apocalypse returning with an army... This sounds bad. "
+ID_DIALOG_TRIALS_NOVA_03_INTRO_1,"Bad is putting it lightly. And Apocalypse isn't sticking to Earth. "
+ID_DIALOG_TRIALS_NOVA_03_INTRO_2,"The villain's reach extends to the stars. His foul forces seek something called the Black Vortex. "
+ID_DIALOG_TRIALS_NOVA_03_INTRO_3,"Fury figured that if there's a piece of space contraband out here, you'd know where it is, and can help get it."
+ID_DIALOG_TRIALS_NOVA_03_INTRO_4,"The Vortex is bad news. And you're right, I know right where it is. It's on Kymellia III."
+ID_DIALOG_TRIALS_NOVA_03_INTRO_5,*BARK! BARK!* Then let us not be waiting one moment more! We must get to it before Apocalypse!
+ID_DIALOG_TRIALS_NOVA_03_END_0,"Looks like we got here right in time, man. "
+ID_DIALOG_TRIALS_NOVA_03_END_1,You weren't kidding about this army. How many guys did we just take out to get planetside?
+ID_DIALOG_TRIALS_NOVA_03_END_2,I lost cout. But it looks like we're just getting started.
+ID_DIALOG_TRIALS_NOVA_03_END_3,Set a perimeter! Don't let them escape! We get the Black Vortex for Apocalypse or lay down our lives trying!
+ID_DIALOG_TRIALS_NOVA_03_END_4,"Here comes round two. Remind me to thank you guys for getting me into this later. "
+ID_DIALOG_TRIALS_NOVA_05_INTRO_0,"Might as well give up, space man. Not that I'd be sad for a reason to give you a taste of my Soulsword. "
+ID_DIALOG_TRIALS_NOVA_05_INTRO_1,See this cool space armor? That's because I'm Nova. With the power of the Nova Force flowing throu-
+ID_DIALOG_TRIALS_NOVA_05_INTRO_2,"Hmm, bored now."
+ID_DIALOG_TRIALS_NOVA_05_INTRO_3,BOOM!
+ID_DIALOG_TRIALS_NOVA_05_INTRO_4,"Uuuugh. Okay, that one's going to leave a dent in the old helmet. "
+ID_DIALOG_TRIALS_NOVA_05_INTRO_5,How far did she knock me from the battle? I have to get back...
+ID_DIALOG_TRIALS_NOVA_05_INTRO_6,"Oh, yes, you should definitely return to your friends. They're in an AWFUL lot of trouble. "
+ID_DIALOG_TRIALS_NOVA_05_INTRO_7,Who...?
+ID_DIALOG_TRIALS_NOVA_05_INTRO_8,Someone who knows a little something about TROUBLE.
+ID_DIALOG_TRIALS_NOVA_05_INTRO_9,Mephisto!
+ID_DIALOG_TRIALS_NOVA_05_END_0,"Flying right back into the fray so quickly? Do all the Nova Corp love to lose, or is this specifically a Human thing?"
+ID_DIALOG_TRIALS_NOVA_05_END_1,I seriously don't have time for this. What do you want?
+ID_DIALOG_TRIALS_NOVA_05_END_2,"Little old me? Why, I just want to lend a helping hand. "
+ID_DIALOG_TRIALS_NOVA_05_END_3,"Yeah, you're notoriously selfless. "
+ID_DIALOG_TRIALS_NOVA_05_END_4,"Well, I didn't say I wouldn't also be helping myself. This Apocalypse business..."
+ID_DIALOG_TRIALS_NOVA_05_END_5,It's bad for me. And you and your friends are going to lose. Unless you let me lend a hand.
+ID_DIALOG_TRIALS_NOVA_05_END_6,"With no strings attached, I'm sure. We've faced bigger threats than this before."
+ID_DIALOG_TRIALS_NOVA_05_END_7,"So, if you're done, I'm going to go back and finish the fight. Without you. ""Thanks"" though. "
+ID_DIALOG_TRIALS_NOVA_05_END_8,"Well, if you change your mind, I'll be right here, watching Apocalypse's army put an end to you and your friends."
+ID_DIALOG_TRIALS_NOVA_05_END_9,"After all, I DO love a show! Hahahah!"
+ID_DIALOG_TRIALS_NOVA_8_INTRO_0,Friend Nova! You have returned!
+ID_DIALOG_TRIALS_NOVA_8_INTRO_1,"Sorry, there was a sorcerer with a magic sword and a portals... You know what, it doesn't matter."
+ID_DIALOG_TRIALS_NOVA_8_INTRO_2,What's the situation?
+ID_DIALOG_TRIALS_NOVA_8_INTRO_3,"The situation? It's, uh... Bad, man!"
+ID_DIALOG_TRIALS_NOVA_8_INTRO_4,The bad guys just got another wave of reinforcements. I don't know how much longer we're going to last.
+ID_DIALOG_TRIALS_NOVA_8_INTRO_5,"If Apocalypse gets the Black Vortex, he can power up his army with Celestial energy. We can't let that happen."
+ID_DIALOG_TRIALS_NOVA_8_INTRO_6,It's too bad we can't just blow the dang thing up.
+ID_DIALOG_TRIALS_NOVA_8_INTRO_7,Wait... Korg! That is a great idea!
+ID_DIALOG_TRIALS_NOVA_8_INTRO_8,You're welcome!
+ID_DIALOG_TRIALS_NOVA_8_END_0,Destroying the Black Vortex?\nIs that possible?
+ID_DIALOG_TRIALS_NOVA_8_END_1,"Normally, no! But Stormbreaker is unique! It could overload the vortex!"
+ID_DIALOG_TRIALS_NOVA_8_END_2,"True. It is a VERY cool weapon. "
+ID_DIALOG_TRIALS_NOVA_8_END_3,We just need to channel a big enough energy source through it!
+ID_DIALOG_TRIALS_NOVA_8_END_4,Like the Nova Force.
+ID_DIALOG_TRIALS_NOVA_8_END_5,"Precisely! "
+ID_DIALOG_TRIALS_NOVA_10_INTRO_0,Woah... That axe of yours can really take a lot of heat.
+ID_DIALOG_TRIALS_NOVA_10_INTRO_1,"Yes! It was forged in a dying star. Not a big deal. Well, kind of a big deal."
+ID_DIALOG_TRIALS_NOVA_10_INTRO_2,"Hey guys, things are getting pretty hairy out here! How's operation Blow Up The Thing going?!"
+ID_DIALOG_TRIALS_NOVA_10_INTRO_3,Friend Nova is working as fast as he can!
+ID_DIALOG_TRIALS_NOVA_10_INTRO_4,"Okay, because, you know... There's a BUNCH of angry Mutants out here!"
+ID_DIALOG_TRIALS_NOVA_10_INTRO_5,"Nova, destroying the Vortex...\nThis is possible, yes?"
+ID_DIALOG_TRIALS_NOVA_10_INTRO_6,"I can do it, but the amount of energy I'm channelling... "
+ID_DIALOG_TRIALS_NOVA_10_INTRO_7,"If we keep this up, it's going to burn out the Nova Force... Forever!"
+ID_DIALOG_TRIALS_NOVA_10_END_0,"Star-Lord needs support! We will buy you time! "
+ID_DIALOG_TRIALS_NOVA_10_END_1,Go!
+ID_DIALOG_TRIALS_NOVA_10_END_2,Great... now all that's left is for me to completely burn out one more force for good in the universe.
+ID_DIALOG_TRIALS_NOVA_10_END_3,"No more Nova Force, eh? Seems a shame..."
+ID_DIALOG_TRIALS_NOVA_10_END_4,"Not now. "
+ID_DIALOG_TRIALS_NOVA_10_END_5,"Sure, you'll stop Apocalypse... For now ... But think of all the helpless people in the galaxy you could help."
+ID_DIALOG_TRIALS_NOVA_10_END_6,Or I could give you just a taste of my power. You could destroy the Black Vortex AND keep on being a hero...
+ID_DIALOG_TRIALS_NOVA_10_END_7,And all I want in return is for you to do what you were going to do anyway.
+ID_DIALOG_TRIALS_NOVA_10_END_8,"...Fine. Do it. "
+ID_DIALOG_TRIALS_NOVA_10_END_9,"Done! I'll leave you and your newfound power to destroy the Black Vortex. "
+ID_DIALOG_TRIALS_NOVA_10_END_10,And don't worry about explaining this to your friends... It's our little secret. Hahahahaha!
 ID_DIALOG_EVENT_UNDERWORLD_1_INTRO_0,The Kree are abducting my associates and converting them to their cause.
 ID_DIALOG_EVENT_UNDERWORLD_1_INTRO_1,I'm sure whoever rescued would be willing to join S.T.R.I.K.E.
 ID_DIALOG_ELEKTRA_EVENT_1_START_0,We're getting reports of Elektra running rampant in Hell's Kitchen.

@@ -2536,3 +2536,67 @@ ID_OF_DE_KANG_STARTER_BUNDLE_OFFER,Power Up <color=#fff568>Kang the Conqueror</c
 ID_OF_DE_MOONSTONE_STARTER_BUNDLE_OFFER,Power up <color=#fff568>Moonstone</color> with this shard offer! Slow down high damage enemies with this powerful controller!
 ID_OF_DE_TITANIA_STARTER_BUNDLE_OFFER,Power Up <color=#fff568>Titania</color> with this shard offer! Apply ability block and heal block to your foes!
 ID_OF_DE_ABSORBINGMAN_STARTER_BUNDLE_OFFER,Power Up <color=#fff568>Absorbing Man</color> with this shard offer! Tank your enemies with this hardened criminal!
+ID_OF_NA_OUTOFTHISWORLD_MEGA_STARTER,Out of this World: Mega Starter Bundle
+ID_OF_NA_OUTOFTHISWORLD_SUPER_STARTER,Out of this World: Super Starter Bundle
+ID_OF_NA_OUTOFTHISWORLD_STARTER,Out of this World: Starter Bundle
+ID_OF_NA_OUTOFTHISWORLD_WEB,Out of this World: Web Special
+ID_OF_NA_OUTOFTHISWORLD_LAST_CHANCE,Out of this World: Lightspeed Last Chance Bundle
+ID_OF_NA_OUTOFTHISWORLD_DUAL_CATCHUP,Out of this World: Cosmic Catch-up Bundle
+ID_OF_NA_OUTOFTHISWORLD_ENERGY,Out of this World: Daily Energy Bundle
+ID_OF_NA_OUTOFTHISWORLD_DAILYPOINTS,Out of this World Daily Points Bundle
+ID_OF_NA_OUTOFTHISWORLD_RAID,Out of this World Daily Raid Bundle
+ID_OF_NA_OUTOFTHISWORLD_GOLD,Out of this World: Daily Gold Bundle
+ID_OF_NA_OUTOFTHISWORLD_FREECLAIM,Out of this World: Free Claim
+ID_OF_DE_OUTOFTHISWORLD_MEGA_STARTER,Get a meteoric head start in the <color=#fff568>Out of this World</color> Milestone and blast your way to <color=#fff568>Gwenpool shards</color>!
+ID_OF_DE_OUTOFTHISWORLD_SUPER_STARTER,Get a rocket boost in the <color=#fff568>Out of this World</color> Milestone and get your <color=#fff568>Gwenpool shards</color>!
+ID_OF_DE_OUTOFTHISWORLD_STARTER,Start off strong in the <color=#fff568>Out of this World</color> milestone!
+ID_OF_DE_OUTOFTHISWORLD_WEB,Power through the <color=#fff568>Out of this World Milestone</color> with this incredible offer!
+ID_OF_DE_OUTOFTHISWORLD_LAST_CHANCE,"Finish strong in the Out of this World milestone and leaderboard for <color=#fff568>Gwenpool shards</color>, <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>Dark Promotion Credits</color>!"
+ID_OF_DE_OUTOFTHISWORLD_DUAL_CATCHUP,Store up Gold and milestone points to finish <color=#fff568>Out of this World</color> and unlock Gwenpool!
+ID_OF_DE_OUTOFTHISWORLD_ENERGY,Enter the stratosphere through the <color=#fff568>Escape Velocity Web Milestone</color> and gain additional <color=#fff568>Out of this World Milestone</color> progress!
+ID_OF_DE_OUTOFTHISWORLD_DAILYPOINTS,Make consistent <color=#fff568>Out of this World</color> progress with this daily milestone points cosmic cache!
+ID_OF_DE_OUTOFTHISWORLD_RAID,Rocket through your raid battles for extra progress in the <color=#fff568>Out of this World Milestone</color>!
+ID_OF_DE_OUTOFTHISWORLD_GOLD,Daily high value meteors of gold have arrived to blast you through the <color=#fff568>Out of this World Milestone</color>!
+ID_OF_DE_OUTOFTHISWORLD_FREECLAIM,Add these  up your <color=#fff568>Out of this World Milestone</color> progress with this incredible point offer!
+ID_OF_NA_COSMICCORPSMAN_STARTER_MEGA,Cosmic Corpsman Mega Starter Bundle
+ID_OF_NA_COSMICCORPSMAN_STARTER_BIG,Cosmic Corpsman Big Starter Bundle
+ID_OF_NA_COSMICCORPSMAN_STARTER,Cosmic Corpsman Starter Bundle
+ID_OF_NA_COSMICCORPSMAN_DAILY_POINTS,Daily Cosmic Points Bundle
+ID_OF_NA_COSMICCORPSMAN_WEB_BOOSTER,Cosmic Web Special
+ID_OF_NA_COSMICCORPSMAN_CATCHUP_MEGA,Cosmic Corpsman Mega Catch-Up Bundle
+ID_OF_NA_COSMICCORPSMAN_CATCHUP_BIG,Cosmic Corpsman Big Catch-Up Bundle
+ID_OF_NA_COSMICCORPSMAN_CATCHUP,Cosmic Corpsman Catch-Up
+ID_OF_NA_COSMICCORPSMAN_CATCHUP_LAST_CHANCE,Cosmic Corpsman Last Chance Bundle
+ID_OF_NA_COSMICCORPSMAN_DAILY_ORB,Daily Corpsman Orb Offer
+ID_OF_NA_COSMICCORPSMAN_DAILY_ENERGY,Daily Energy Bundle
+ID_OF_NA_COSMICCORPSMAN_DAILY_CLAIM,Cosmic Corpsman Daily Gift
+ID_OF_NA_COSMICCORPSMAN_DAILY_INTERSTITIAL,Cosmic Corpsman Web Special
+ID_OF_DE_COSMICCORPSMAN_STARTER_MEGA,Get ahead in the <color=#fff568>Cosmic Corpsman</color> Milestone and fast-forward your way to <color=#fff568>Elite 6 Credits</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_DE_COSMICCORPSMAN_STARTER,Start off strong in the <color=#fff568>Cosmic Corpsman</color> milestone!
+ID_OF_DE_COSMICCORPSMAN_DAILY_POINTS,Make consistent <color=#fff568>Cosmic Corpsman</color> progress with this daily milestone points supply!
+ID_OF_DE_COSMICCORPSMAN_WEB_BOOSTER,Go supernova and boost your <color=#fff568>Cosmic Corpsman Milestone</color> progress!
+ID_OF_DE_COSMICCORPSMAN_CATCHUP_MEGA,"Blast through the final milestones for <color=#fff568>Elite 6 Credits</color>, <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>more</color>!"
+ID_OF_DE_COSMICCORPSMAN_CATCHUP_BUNDLE,Finish strong in the milestones for <color=#fff568>Elite 6 Credits</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_DE_COSMICCORPSMAN_CATCHUP_LAST_CHANCE,Complete your final Cosmic Corpsman milestones before it's too late!
+ID_OF_DE_COSMICCORPSMAN_DAILY_ORB,Stock up on <color=#fff568>Corpsman Orb Fragments</color> and gain <color=#fff568>Cosmic Corpsman</color> progress with this special deal!
+ID_OF_DE_COSMICCORPSMAN_DAILY_ENERGY,Blast through the campaign with this special <color=#fff568>Cosmic Corpsman</color> Energy Bundle!
+ID_OF_DE_COSMICCORPSMAN_DAILY_CLAIM,Come back daily for more <color=#fff568>Cosmic Corpsman</color> progress!
+ID_OF_DE_COSMICCORPSMAN_DAILY_INTERSTITIAL,Unlock your discount before it's gone!
+ID_OF_NA_KORG_FCO_OFFER,The Knowhere Wall
+ID_OF_DE_KORG_FCO_OFFER,"Save on <color=#fff568>Rock Warrior Orbs</color>, which contain <color=#fff568>up to 180 Korg</color> shards. Give your <color=#fff568>War</color> team a rock-solid foundation with this Protector that revives on basic attacks of <color=#fff568>Knowhere</color> allies!"
+ID_OF_NA_KORG_WEB_SPECIAL_OFFER,Web Special: Korg
+ID_OF_DE_KORG_WEB_SPECIAL_OFFER,"Don't miss this <color=#fff568>Web Special</color> deal for <color=#fff568>Korg</color> shards, which unlocks special release offers on your next visit! Give your <color=#fff568>War</color> team a rock-solid foundation with this Protector that revives on basic attacks of <color=#fff568>Knowhere</color> allies!"
+ID_OF_DE_KORG_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Korg</color> and unlock special release offers on your next visit! Give your <color=#fff568>War</color> team a rock-solid foundation with this Protector that revives on basic attacks of <color=#fff568>Knowhere</color> allies!
+ID_OF_DE_KORG_OFFER_SHARD,Power up <color=#fff568>Korg</color> with this shard offer! Give your <color=#fff568>War</color> team a rock-solid foundation with this Protector that revives on basic attacks of <color=#fff568>Knowhere</color> allies!
+ID_OF_NA_KORG_RS_DRAFT,Red Star Draft: Korg
+ID_OF_DE_KORG_RS_DRAFT_345,"Get an equal chance of either <color=#fff568>3, 4, or 5 Red Stars</color> for <color=#fff568>Korg</color>. Give your <color=#fff568>War</color> team a rock-solid foundation with this Protector that revives on basic attacks of <color=#fff568>Knowhere</color> allies!"
+ID_OF_DE_KORG_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, or 6 Red Stars</color> for <color=#fff568>Korg</color>. Give your <color=#fff568>War</color> team a rock-solid foundation with this Protector that revives on basic attacks of <color=#fff568>Knowhere</color> allies!"
+ID_OF_DE_KORG_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Korg</color>. Give your <color=#fff568>War</color> team a rock-solid foundation with this Protector that revives on basic attacks of <color=#fff568>Knowhere</color> allies!"
+ID_OF_NA_KNOWHERE_TEAM_OFFER,Knowhere Team Bundle
+ID_OF_DE_KNOWHERE_TEAM_OFFER,Crush competition in the Cosmic Crucible by powering up these <color=#fff568>New Warrior</color> team members!
+ID_OF_NA_DD6COUNTDOWN_FREECLAIM,FREE DARK DIMENSION VI COUNTDOWN ORB!
+ID_OF_DE_DD6COUNTDOWN_FREECLAIM,"Super Skrull Awaits! Dark Dimension VI goes LIVE on June 27th (PST), so prepare your roster with the Dark Dimension VI Countdown Orb! Be sure to check the website every Friday until Dark Dimension VI begins to claim more for FREE!"
+ID_OF_NA_DD6COUNTDOWN_OFFER_1,Dark Dimension VI Countdown Orb Offer
+ID_OF_DE_DD6COUNTDOWN_OFFER_1,Gear up to take on Super Skrull with this incredible offer of Dark Dimension VI Countdown Orbs! Each orb contains Gear Tier 18 Mini-Uniques and T2 Level 5 Ions!
+ID_OF_NA_DD6COUNTDOWN_OFFER_2,Dark Dimension VI Countdown Orb Bundle
+ID_OF_DE_DD6COUNTDOWN_OFFER_2,Prepare your roster with this fantastic bundle of Dark Dimension VI Countdown Orbs! Each orb contains Gear Tier 18 Mini-Uniques and T2 Level 5 Ions to help you take on Super Skrull!

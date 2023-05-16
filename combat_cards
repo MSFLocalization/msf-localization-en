@@ -209,4 +209,4 @@ ID_SCOURGE_CARD_138_DESC,"At the start of a <color=#fff568>STRIKER</color> Chara
 ID_SCOURGE_CARD_140_NAME,Snake Eyes
 ID_SCOURGE_CARD_140_DESC,"On Spawn, Player Characters Gain Increased <color=#fff568>Critical Hit Damage</color>, and Enemy Characters Gain Increased <color=#fff568>Critical Hit Chance</color>"
 ID_SCOURGE_CARD_141_NAME,Power Dynamics
-ID_SCOURGE_CARD_141_DESC,"Whenever an Player Character Removes Their Own Negative Status Effect, they gain <color=#fff568>Trauma</color>, and Enemy Characters Gain <color=#fff568>Speed Down</color> and <color=#fff568>Offense Down</color>"
+ID_SCOURGE_CARD_141_DESC,"On turn, characters remove all positive effects from self and heal <color=#86e619>10%</color> of max health for each positive effect removed."
