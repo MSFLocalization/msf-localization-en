@@ -523,6 +523,10 @@ ID_OF_DE_PROXIMA_ECO_BUNDLE_8O,Save on <color=#fff568>8 Deep Space Orbs</color> 
 ID_OF_DE_PROXIMA_ECO_BUNDLE_10O,Save on <color=#fff568>10 Deep Space Orbs</color> and a bundle of Advanced Gear with this offer! Each orb has a chance to earn <color=#fff568>up to 28 character shards</color>!
 ID_OF_NA_PROXIMAMIDNIGHT_MORB_1,Deep Space Orb Fragments
 ID_OF_DE_PROXIMAMIDNIGHT_MORB_500,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>500 Deep Space Orb Fragments</color> with this offer!
+ID_GACHA_CRATE_EVENT_CAMPAIGN_COSMO_202305_NAME,Infinity Orb
+ID_GACHA_CRATE_EVENT_CAMPAIGN_COSMO_202305_DESCRIPTION,Earn Infinity Orb Fragments in the To Infinity Event Campaign.
+ID_GACHA_CRATE_EVENT_CAMPAIGN_COSMO_202305_TOKEN_NAME,Infinity Orb Fragments
+ID_GACHA_CRATE_EVENT_CAMPAIGN_COSMO_202305_TOKEN_DESCRIPTION,Collect Infinity Orb Fragments in the To Infinity Event Campaign to earn Infinity Orbs.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_CRYSTAL_202001_NAME,Hidden Potential Orb
 ID_GACHA_CRATE_EVENT_CAMPAIGN_CRYSTAL_202001_DESCRIPTION,Earn Hidden Potential Orb Fragments in the Imperial Affairs Event Campaign.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_CRYSTAL_202001_TOKEN_NAME,Hidden Potential Orb Fragments
@@ -8433,3 +8437,7 @@ ID_GACHA_CRATE_DARKDIMENSIONVICOUNTDOWN_NAME,Dark Dimension VI Countdown Orb
 ID_GACHA_CRATE_DARKDIMENSIONVICOUNTDOWN_DESCRIPTION,Prepare for Dark Dimension VI with high-value Gear Tier 18 and T2 Level 5 Ions!
 ID_GACHA_CRATE_DARKDIMENSIONVICOUNTDOWN_TOKEN_NAME,Dark Dimension VI Countdown Orb Fragments
 ID_GACHA_CRATE_DARKDIMENSIONVICOUNTDOWN_TOKEN_DESCRIPTION,Open Dark Dimension VI Countdown Orbs to get Gear Tier 18 and T2 Level 5 Ions!
+ID_GACHA_CRATE_NOVA_OVERLOADED_NAME,Nova Overloaded Orb
+ID_GACHA_CRATE_NOVA_OVERLOADED_DESCRIPTION,Contains Awakened Ability Materials for Nova and more
+ID_GACHA_CRATE_NOVA_OVERLOADED_TOKEN_NAME,Nova Overloaded Orb Fragments
+ID_GACHA_CRATE_NOVA_OVERLOADED_TOKEN_DESCRIPTION,Collect Nova Overloaded Orb Fragments from select offers to have a chance at Nova's Awakened Ability Materials
