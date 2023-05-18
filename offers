@@ -2594,11 +2594,11 @@ ID_OF_DE_KORG_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, o
 ID_OF_DE_KORG_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Korg</color>. Give your <color=#fff568>War</color> team a rock-solid foundation with this Protector that revives on basic attacks of <color=#fff568>Knowhere</color> allies!"
 ID_OF_NA_KNOWHERE_TEAM_OFFER,Knowhere Team Bundle
 ID_OF_DE_KNOWHERE_TEAM_OFFER,Crush competition in the Cosmic Crucible by powering up these <color=#fff568>New Warrior</color> team members!
-ID_OF_NA_DD6COUNTDOWN_FREECLAIM,FREE DARK DIMENSION VI COUNTDOWN ORB!
+ID_OF_NA_DD6COUNTDOWN_FREECLAIM,DARK DIMENSION VI COUNTDOWN ORB!
 ID_OF_DE_DD6COUNTDOWN_FREECLAIM,"Super Skrull Awaits! Dark Dimension VI goes LIVE on June 27th (PST), so prepare your roster with the Dark Dimension VI Countdown Orb! Be sure to check the website every Friday until Dark Dimension VI begins to claim more for FREE!"
-ID_OF_NA_DD6COUNTDOWN_OFFER_1,Dark Dimension VI Countdown Orb Offer
+ID_OF_NA_DD6COUNTDOWN_OFFER_1,Dark Dimension VI Countdown Orb
 ID_OF_DE_DD6COUNTDOWN_OFFER_1,Gear up to take on Super Skrull with this incredible offer of Dark Dimension VI Countdown Orbs! Each orb contains Gear Tier 18 Mini-Uniques and T2 Level 5 Ions!
-ID_OF_NA_DD6COUNTDOWN_OFFER_2,Dark Dimension VI Countdown Orb Bundle
+ID_OF_NA_DD6COUNTDOWN_OFFER_2,Dark Dimension VI Countdown Orbs
 ID_OF_DE_DD6COUNTDOWN_OFFER_2,Prepare your roster with this fantastic bundle of Dark Dimension VI Countdown Orbs! Each orb contains Gear Tier 18 Mini-Uniques and T2 Level 5 Ions to help you take on Super Skrull!
 ID_OF_DE_COSMICANOMALY_GOLD,Capitalize on this supply of gold from cargo found in deep space to power up your roster for Cosmic Crucible!
 ID_OF_DE_COSMICANOMALY_DARKTRAINING,Use hidden knowledge of the universe uncovered by S.T.R.I.K.E. missions to level up your favorite characters and overcome new challenges!
@@ -2614,5 +2614,71 @@ ID_OF_DE_COSMICANOMALY_TRAINING,Give your roster a boost with knowledge that has
 ID_OF_DE_COSMICANOMALY_HORSEMANORB,Use the opportunity presented by the <color=#3366cc>Cosmic Anomaly</color> to continue powering up your Horsemen for the Apocalypse Saga. (Tap the icon for details)
 ID_OF_DE_COSMICANOMALY_GT16GT17,Don't go out into the greater dangers of the cosmos without gearing up your roster. Suit up and set yourself up to overcome challenges in Cosmic Crucible.
 ID_OF_DE_COSMICANOMALY_DEATHFAMILY,Get a chance for <color=#3366cc>shards or Red Star Ranks</color> for this deadly duo! (Tap the icon for details)
+ID_OF_NA_FATHERSDAY_DEATHPOOL,Father's Day: Death Dealers
+ID_OF_NA_FATHERSDAY_THANOS,Father's Day: Cosmic Family
+ID_OF_NA_FATHERSDAY_TCHALLA,Father's Day: Ravager Family
+ID_OF_NA_FATHERSDAY_KANG,Father's Day: Father Across Time
+ID_OF_NA_FATHERSDAY_NEMESIS,Father's Day: Son of Apocalypse
+ID_OF_NA_FATHERSDAY_FATHERSGIFT,Father's Day: Father's Gift
+ID_OF_NA_FATHERSDAY_BOUQUETOFRED,Father's Day: Bouquet of Red
+ID_OF_NA_FATHERSDAY_ENERGY,Father's Day: Energizing Bundle
+ID_OF_DE_FATHERSDAY_DEATHPOOL,"Deal out damage with this valuable bundle! Get shards of <color=#3366cc>Deathpool</color>, <color=#3366cc>Deadpool</color>, and more this <color=#3366cc>Father's Day</color>!"
+ID_OF_DE_FATHERSDAY_THANOS,"Make your name known throughout the universe with this mad deal! Get shards of <color=#3366cc>Thanos</color>, <color=#3366cc>Gamora</color>, <color=#3366cc>Nebula</color> and more this <color=#3366cc>Father's Day</color>!"
+ID_OF_DE_FATHERSDAY_TCHALLA,"Make your name known throughout the universe with this ravaging deal! Get shards of <color=#3366cc>Yondu</color>, <color=#3366cc>Starlord (T'Challa)</color>, and more this <color=#3366cc>Father's Day</color>!"
+ID_OF_DE_FATHERSDAY_KANG,"Celebrate <color=#3366cc>Father's Day</color> for all time with this timeless offer! Get shards of <color=#3366cc>Kang The Conqueror</color>, <color=#3366cc>Mister Fantastic</color>, and more this <color=#3366cc>Father's Day</color>!"
+ID_OF_DE_FATHERSDAY_NEMESIS,Power up your Deathseed team with the son of Apocalypse! Get shards of <color=#3366cc>Nemesis</color> and more this <color=#3366cc>Father's Day</color>!
+ID_OF_DE_FATHERSDAY_FATHERSGIFT,Raise your characters to their full potential with this <color=#3366cc>Father's Day</color> special! Get a selection of useful resources at a great deal!
+ID_OF_DE_FATHERSDAY_BOUQUETOFRED,Feast your eyes on this veritable bouquet of red stars! Don't miss out on this special <color=#3366cc>Father's Day</color> offer!
+ID_OF_DE_FATHERSDAY_ENERGY,Step it up with this special <color=#3366cc>Father's Day</color> bundle! Get an amazing amount of energy to celebrate the hard work of fathers around the world!
 ID_OF_NA_NOVA_OVERLOADED_ORB,Nova Overloaded Bundle
 ID_OF_DE_NOVA_OVERLOADED_ORB,200% VALUE! Get Nova's Awakened Ability materials at an incredible value for a limited time only!
+ID_OF_DE_SMILESMORALES_NU,Limited-time for new players: Get 55 shards and upgrade Miles Morales from 2 to 3 Stars to strengthen your Spider-Verse team!
+ID_OF_DE_SPIDERPUNK_SHARD_OFFER_NU,Limited-time for new players: Get 55 shards and upgrade Spider-Punk from 2 to 3 Stars with this offer!
+ID_OF_DE_MYSTIQUE_OFFER_NU,Limited-time for new players: Get 55 shards and upgrade Mystique from 2 to 3 Stars with this offer! Round out your Brotherhood team with this elusive shapeshifting assassin.
+ID_OF_DE_SMILESMORALES_NU_02,Get 80 shards and upgrade Spider-Man (Miles) from 3 to 4 stars with this offer!
+ID_OF_DE_MYSTIQUE_OFFER_NU_02,Get 80 shards and upgrade Mystique from 3 to 4 stars with this offer! Copy positive effects from enemies and trick the enemies into attacking themselves.
+ID_OF_NA_COSMO_FCO_OFFER,The Goodest Girl
+ID_OF_DE_COSMO_FCO_OFFER,"Save on <color=#fff568>Space Pup Orbs</color>, which contain <color=#fff568>up to 180 Cosmo</color> shards. Heal and clear effects from your <color=#fff568>War</color> team and grant <color=#fff568>Knowhere</color> allies Ability Energy, Resistance, and Safeguard!"
+ID_OF_NA_COSMO_WEB_SPECIAL_OFFER,Web Special: Cosmo
+ID_OF_DE_COSMO_WEB_SPECIAL_OFFER,"Don't miss this <color=#fff568>Web Special</color> deal for <color=#fff568>Cosmo</color> shards, which unlocks special release offers on your next visit! Heal and clear effects from your <color=#fff568>War</color> team and grant <color=#fff568>Knowhere</color> allies Ability Energy, Resistance, and Safeguard!"
+ID_OF_DE_COSMO_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Cosmo</color> and unlock special release offers on your next visit! Heal and clear effects from your <color=#fff568>War</color> team and grant <color=#fff568>Knowhere</color> allies Ability Energy, Resistance, and Safeguard!"
+ID_OF_DE_COSMO_OFFER_SHARD,"Power up <color=#fff568>Cosmo</color> with this shard offer! Heal and clear effects from your <color=#fff568>War</color> team and grant <color=#fff568>Knowhere</color> allies Ability Energy, Resistance, and Safeguard!"
+ID_OF_NA_COSMO_RS_DRAFT,Red Star Draft: Cosmo
+ID_OF_DE_COSMO_RS_DRAFT_345,"Get an equal chance of either <color=#fff568>3, 4, or 5 Red Stars</color> for <color=#fff568>Cosmo</color>. Heal and clear effects from your <color=#fff568>War</color> team and grant <color=#fff568>Knowhere</color> allies Ability Energy, Resistance, and Safeguard!"
+ID_OF_DE_COSMO_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, or 6 Red Stars</color> for <color=#fff568>Cosmo</color>. Heal and clear effects from your <color=#fff568>War</color> team and grant <color=#fff568>Knowhere</color> allies Ability Energy, Resistance, and Safeguard!"
+ID_OF_DE_COSMO_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Cosmo</color>. Heal and clear effects from your <color=#fff568>War</color> team and grant <color=#fff568>Knowhere</color> allies Ability Energy, Resistance, and Safeguard!"
+ID_OF_NA_GEAREDFORGLORY_MEGA_STARTER,Geared for Glory: Mega Starter Bundle
+ID_OF_NA_GEAREDFORGLORY_SUPER_STARTER,Geared for Glory: Super Starter Bundle
+ID_OF_NA_GEAREDFORGLORY_STARTER,Geared for Glory: Starter Bundle
+ID_OF_NA_GEAREDFORGLORY_LAST_CHANCE,Geared for Glory: Last Chance Bundle
+ID_OF_NA_GEAREDFORGLORY_CATCHUP,Geared for Glory: Catch-up Bundle
+ID_OF_NA_GEAREDFORGLORY_MEGA_CATCHUP,Geared for Glory: Mega Catch-up Bundle
+ID_OF_NA_GEAREDFORGLORY_DAILYPOINTS,Geared for Glory: Daily Points Bundle
+ID_OF_NA_GEAREDFORGLORY_WAR,Geared for Glory: Daily Raid
+ID_OF_NA_GEAREDFORGLORY_TRAINING_ORB,Geared for Glory: Daily Training Orbs
+ID_OF_DE_GEAREDFORGLORY_MEGA_STARTER,Get a huge head start in the <color=#fff568>Geared for Glory</color> Milestone and blast your way to <color=#fff568>Gear Tier 18</color>!
+ID_OF_DE_GEAREDFORGLORY_SUPER_STARTER,Speed through the <color=#fff568>Geared for Glory</color> Milestone and get your <color=#fff568>Armory Orbs</color>!
+ID_OF_DE_GEAREDFORGLORY_STARTER,Start off strong in the <color=#fff568>Geared for Glory</color> milestone!
+ID_OF_DE_GEAREDFORGLORY_LAST_CHANCE,Finish strong in the Geared for Glory milestone and leaderboard for <color=#fff568>Gear Tier 18</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_DE_GEAREDFORGLORY_CATCHUP,Get an incredible cache of Training Orbs and milestone points to finish <color=#fff568>Geared for Glory</color> and get through Gear Tier 18!
+ID_OF_DE_GEAREDFORGLORY_MEGA_CATCHUP,Get a massive chunk of Training Orbs and milestone points to finish <color=#fff568>Geared for Glory</color> and get through Gear Tier 18!
+ID_OF_DE_GEAREDFORGLORY_DAILYPOINTS,Make consistent <color=#fff568>Geared for Glory</color> progress with this daily milestone points supply!
+ID_OF_DE_GEAREDFORGLORY_WAR,Destroy the enemy alliance in War for extra progress in the <color=#fff568>Geared for Glory Milestone</color>!
+ID_OF_DE_GEAREDFORGLORY_TRAINING_ORB,Daily supply drops of Training Orbs are here to aid you in completing the <color=#fff568>Geared for Glory</color> Milestone!
+ID_OF_NA_DD6_C100,Dark Dimension VI Orb Exclusive!
+ID_OF_DE_DD6_C100,"Prepare for Dark Dimension VI and get a head start on your path to Super Skrull! Includes a chance for Gear Tier 18 Mini-Uniques, Tier 2 Level 5 Ions & more!"
+ID_OF_DE_STARTER_WEBWARRIORS_V3,Spider-Verse release Special! Get 310 shards for all 5 Web-Warrior characters with this exclusive deal!
+ID_OF_NA_COSMICANOMALY_GOLD,Cosmic Anomaly: Golden Gleam
+ID_OF_NA_COSMICANOMALY_DARKTRAINING,Cosmic Anomaly: Ageless Knowledge
+ID_OF_NA_COSMICANOMALY_ENERGY,Cosmic Anomaly: Raw Energy
+ID_OF_NA_COSMICANOMALY_NEWWARRIOR,Cosmic Anomaly: New Warrior Draft
+ID_OF_NA_COSMICANOMALY_MEGA,Cosmic Anomaly: Orbital Collision
+ID_OF_NA_COSMICANOMALY_IKARISSERSI,Cosmic Anomaly: Cosmic Bonds
+ID_OF_NA_COSMICANOMALY_DEATHSEED,Cosmic Anomaly: Death Seed
+ID_OF_NA_COSMICANOMALY_ABM,Cosmic Anomaly: Ability Materials
+ID_OF_NA_COSMICANOMALY_DARKMAGIC,Cosmic Anomaly: Dark Magic
+ID_OF_NA_COSMICANOMALY_ELITEDRAFT,Cosmic Anomaly: Elite Draft
+ID_OF_NA_COSMICANOMALY_TRAINING,Cosmic Anomaly: Training Boost
+ID_OF_NA_COSMICANOMALY_HORSEMANORB,Cosmic Anomaly: Horseman Orb Draft
+ID_OF_NA_COSMICANOMALY_GT16GT17,Cosmic Anomaly: Suit Up!
+ID_OF_NA_COSMICANOMALY_DEATHFAMILY,Cosmic Anomaly: Deathly Draft

@@ -511,6 +511,15 @@ ID_ECM_BT_MB,"After accidentally freeing members of a corrupted Brotherhood, Blo
 ID_ECM_BT_MC,GO!
 ID_ECM_BT_MT,The Misfit Misadventures event has started!
 ID_ECM_BT_MS,Assist Toad and Blob in redeeming themselves to Nick Fury and S.T.R.I.K.E.
+ID_ECM_COSMO_NAME,To Infinity
+ID_ECM_COSMO_DESC,"With the Incursions displacing countless people, Cosmo turns Knowhere into a safe haven and unknowingly introduces the outpost to a new threat."
+ID_ECM_CHANCE_COSMO,Earn COSMO shards
+ID_ECM_COSMO_DESC_A,"Recommendations:\n- Squad Lvl 85+\n- Gear Tier 15+\n- Ability Lvl 6+\n\nWith the Incursions displacing countless people, Cosmo turns Knowhere into a safe haven and unknowingly introduces the outpost to a new threat."
+ID_ECM_COSMO_DESC_B,"Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nWith the Incursions displacing countless people, Cosmo turns Knowhere into a safe haven and unknowingly introduces the outpost to a new threat."
+ID_ECM_COSMO_DESC_C,"Recommendations:\n- Squad Lvl 35+\n- Gear Tier 6+\n- Ability Lvl 2+\n\nWith the Incursions displacing countless people, Cosmo turns Knowhere into a safe haven and unknowingly introduces the outpost to a new threat."
+ID_ECM_COSMO_MB,"With the Incursions displacing countless people, Cosmo turns Knowhere into a safe haven and unknowingly introduces the outpost to a new threat."
+ID_ECM_COSMO_MC,GO!
+ID_ECM_COSMO_MT,The To Infinity event has started!
 ID_ECM_CRY_NAME,Imperial Affairs
 ID_ECM_CRY_DESC,"When the corrupted versions of Red Skull and Karnak combine Inhuman DNA and the Super-Soldier formula, Crystal must unite Inhumans and mutants to stop them. "
 ID_ECM_CHANCE_CRY,Earn Crystal shards
@@ -1180,6 +1189,9 @@ ID_INFO_BO_CAPTAINMARVEL_MILESTONES,"Celebrate the <color=#fff568>MARVEL Strike 
 ID_INFO_NA_EMMAFROST_MILESTONES,The White Queen
 ID_INFO_DE_EMMAFROST_MILESTONES,Recruit Emma Frost!
 ID_INFO_BO_EMMAFROST_MILESTONES,"Earn Emma Frost character shards by collecting your daily milestones rewards. Fight in battles, and spend Campaign Energy and Gold to earn character shards by hitting milestones!"
+ID_EVENT_SPIDERVERSE_NAME,Spider-Verse Under Attack
+ID_EVENT_SPIDERVERSE_DESC,"Miles Morales teams up with the Spider-Verse "
+ID_EVENT_SPIDERVERSE_FLAVOR,Miles Morales needs your help!
 ID_INFO_NA_SUPERSALESATURDAY,Super Sale Saturday
 ID_INFO_DE_SUPERSALESATURDAY,One day only
 ID_INFO_BO_SUPERSALESATURDAY,Take part in our special 24-hour event offering amazing deals you won't want to miss!
@@ -1773,3 +1785,18 @@ ID_INFO_NA_COSMICCORPSMAN,Cosmic Corpsman
 ID_INFO_DE_COSMICCORPSMAN,Earn Corpsman Orbs in Campaign
 ID_INFO_BO_COSMICCORPSMAN,"Gain progress in this <color=#fff568>5-day</color> event by earning Corpsman Orb Fragments from Campaign nodes and by participating in the Black Hole Boogie Web Milestone.\n\nMilestone\nEarn valuable rewards including <color=#fff568>Elite 6 Credits, T2 Level 5 Ions, and more</color>. You'll also earn points towards the month-long Solar Flare milestone by collecting Blazing X-Genes and the Searing Boots."
 ID_INFO_BO_COSMICCORPSMANBONUS,Earn Corpsman Orb Fragments for the Cosmic Corpsman event via select Campaign nodes for a limited time
+ID_INFO_NA_BATTLEHARDENED,Battle Hardened
+ID_INFO_DE_BATTLEHARDENED,Unlock and Power Up Korg
+ID_INFO_BO_BATTLEHARDENED,Ignite your roster just by powering up Korg!\n\n<color=#fff568>How to Earn Points</color>\nScore points to roll through this 3-day milestone when you:\n\n- Open Rock Warrior Orbs\n- Recruit Korg\n- Level Up Korg\n- Rank Up (increase Star Rank) Korg\n\n<color=#fff568>Rock Warrior Orb</color>\nContains Korg character shards and purchasable using Power Cores.
+ID_INFO_NA_DD6COUNTDOWN,Dark Dimension VI Countdown!
+ID_INFO_DE_DD6COUNTDOWN,Super Skrull Awaits!
+ID_INFO_BO_DD6COUNTDOWN,"Dark Dimension VI Countdown\nDark Dimension VI is approaching along with the chance to recruit Super Skrull! Gear Tier 18 will be needed in this new challenge, so keep an eye out for Dark Dimension VI Countdown Orbs that can contain Gear Tier 18, T2 Level 5 Ions, Gold, L4 Training Modules, and much more! S.T.R.I.K.E. has launched daily supply drops to help you prepare:\n\nDaily Login Calendar - For high-value Dark Dimension VI Countdown Orbs\nSpecial Free Claims - Check our website every Friday for a special Free Claim\nWeekly Inbox - Every Monday with a cache of Dark Dimension VI Countdown Orbs\n\nYou have until June 26 (PST) so prepare yourself and your allies! "
+ID_INFO_NA_TRIALSANDTRIBULATIONS,Trials and Tribulations
+ID_INFO_DE_TRIALSANDTRIBULATIONS,Dark Promotion Credits and Solar Flare Progress!
+ID_INFO_BO_TRIALSANDTRIBULATIONS,"Gain progress in this <color=#fff568>3-day</color> Alliance event by winning Cosmic Crucible battles (with bonuses for using New Warriors) and by spending Power Cores.\n\nEarn valuable rewards including <color=#fff568>Dark Promotion Credits, Teal Gear Raid Orbs, and Origin Gear</color>. You'll also earn points towards the month-long Solar Flare milestone by collecting Blazing X-Genes."
+ID_INFO_NA_GOODDOG,Good Dog
+ID_INFO_DE_GOODDOG,Unlock and Power Up Cosmo
+ID_INFO_BO_GOODDOG,Soar your roster to new heights just by powering up Cosmo!\n\n<color=#fff568>How to Earn Points</color>\nScore points to fly through this 3-day milestone when you:\n\n- Open Space Pup Orbs\n- Recruit Cosmo\n- Level Up Cosmo\n- Rank Up (increase Star Rank) Cosmo\n\n<color=#fff568>Space Pup Orb</color>\nContains Cosmo character shards and purchasable using Power Cores.
+ID_INFO_NA_GEAREDFORGLORY,Geared for Glory
+ID_INFO_DE_GEAREDFORGLORY,Celebrate Gear Tier 18!
+ID_INFO_BO_GEAREDFORGLORY,"Geared for Glory Milestone\nGain progress in this <color=#fff568>7-day</color> event by battling in War and opening Training Orbs. High-value rewards include <color=#fff568>Dark Dimension VI Countdown Orbs, Armory 17 Orbs, Armory 16 Orbs, Stat Catalysts, and more</color>. \n\nLeaderboard\nClimb to the top 1 percent for exclusive Mystic Gear Tear 18 Mini-Uniques and T2 Level 5 Ions!"

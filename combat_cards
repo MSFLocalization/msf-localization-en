@@ -187,7 +187,7 @@ ID_INCURSION_MOD_010_DESC,Enemy Characters cannot have <color=#fff568>Blind</col
 ID_INCURSION_MOD_011_DESC,\nPlayer Characters cannot have <color=#fff568>Stealth</color> applied to them.
 ID_INCURSION_MOD_012_DESC,"\nOn Enemy Character Turn, clear <color=#fff568>Revive Once</color> from all Player Characters. If <color=#fff568>Revive Once</color> was cleared, generate <color=#86e619>3</color> Ability Energy for self and all allies and clear all Barrier from Player Characters."
 ID_SCOURGE_CARD_129_NAME,On the Offensive
-ID_SCOURGE_CARD_129_DESC,"Whenever a Character Clears <color=#fff568>Taunt</color>, All Characters on the Opposite Team Gain <color=#86e619>Offense Up</color>"
+ID_SCOURGE_CARD_129_DESC,"Whenever a Character Gains <color=#fff568>Taunt</color>, All Characters on the Opposite Team Gain <color=#86e619>Offense Up</color>"
 ID_SCOURGE_CARD_130_NAME,Man Vs. Machine
 ID_SCOURGE_CARD_130_DESC,"All <color=#fff568>BIO</color> Characters Gain Additional <color=#86e619>Critical Hit Chance</color>, and All <color=#86e619>TECH</color> Characters Gain Additional <color=#86e619>Dodge Chance</color>"
 ID_SCOURGE_CARD_131_NAME,Bio-Charged

@@ -1945,6 +1945,10 @@ ID_MOTD_NA_BLACKHOLEBOOGIE_ANNOUNCE,LIVE: Black Hole Boogie
 ID_MOTD_DE_BLACKHOLEBOOGIE_ANNOUNCE,"Battle in Arena, Blitz, and Raids then go to the web to redeem your rewards!"
 ID_MOTD_NA_BLACKHOLEBOOGIE_ENDING,Ending Soon: Black Hole Boogie
 ID_MOTD_DE_BLACKHOLEBOOGIE_ENDING,Don't miss out on additional Cosmic Corpsman progress on the web!
+ID_MOTD_NA_BATTLEHARDENED_TEASER,Coming Soon: Battle Hardened
+ID_MOTD_DE_BATTLEHARDENED_TEASER,Rewards for powering up Korg
+ID_MOTD_NA_BATTLEHARDENED_LIVE,Live: Battle Hardened
+ID_MOTD_DE_BATTLEHARDENED_LIVE,Recruit and power up Korg to earn rewards!
 ID_MOTD_NA_OUTOFTHISWORLD_ANNOUNCE,LIVE: Out of this World
 ID_MOTD_DE_OUTOFTHISWORLD_ANNOUNCE,Recruit Firestar now by participating in the Out of this World Milestone!
 ID_MOTD_NA_OUTOFTHISWORLD_ENDING,Ending Soon: Out of this World
@@ -1955,3 +1959,10 @@ ID_MOTD_NA_DD6ORB_ANNOUNCE,The Countdown to Dark Dimension VI has begun!
 ID_MOTD_DE_DD6ORB_ANNOUNCE,"Get the brand new Gear Tier 18 to prepare your roster to take on Super Skrull! "
 ID_MOTD_NA_DD6REMIND,"The clock is ticking until Super Skrull arrives! "
 ID_MOTD_DE_DD6REMIND,Check in every day for your Dark Dimension VI Countdown Orbs to get Gear Tier 18!
+ID_MOTD_NA_KORG_TEASER,Coming Soon: Korg
+ID_MOTD_DE_KORG_TEASER,The Knowhere Wall is on the way to protect your Alliance War team!
+ID_MOTD_NA_KORG_ANNOUNCE,Ready for Battle: Korg!
+ID_MOTD_DE_KORG_ANNOUNCE,Shield your Knowhere team with a rock solid Protector that revives on ally basic attacks!
+ID_MOTD_DE_KORG_ANNOUNCE2,Open Rock Warrior Orbs to earn shards and unlock this rock solid Protector!
+ID_MOTD_NA_TRIALSANDTRIBULATIONS_ANNOUNCE,LIVE: Trials and Tribulations
+ID_MOTD_DE_TRIALSANDTRIBULATIONS_ANNOUNCE,Earn Dark Promotion Credits and Solar Flare Progress!
