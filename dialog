@@ -9823,6 +9823,21 @@ ID_DIALOG_ECM_GOTGVOL3_06_END_4,Does this mean I am a member of your team now?
 ID_DIALOG_ECM_GOTGVOL3_06_END_5,"Yeah, sure, welcome aboard. Now, as your first official bit of Guardians business..."
 ID_DIALOG_ECM_GOTGVOL3_06_END_6,"Help me and Groot figure out where I left those highly volatile crystals before they blow up and kill us all. "
 ID_DIALOG_ECM_GOTGVOL3_06_END_7,I am Groot!
+ID_DIALOG_EVENT_FL_SPIDERVERSE_01_INTRO_0,"Ugh... "
+ID_DIALOG_EVENT_FL_SPIDERVERSE_01_INTRO_1,It's never a good day when a portal opens up in your neighborhood and Doc Ock walks through it with glowing red eyes.
+ID_DIALOG_EVENT_FL_SPIDERVERSE_02_INTRO_0,"Hey Miles, have you seen a cannister containing a black sentient ooze lying around here somewhere?"
+ID_DIALOG_EVENT_FL_SPIDERVERSE_02_INTRO_1,What are you talking about?
+ID_DIALOG_EVENT_FL_SPIDERVERSE_02_INTRO_2,"Wait, you mean the symbiote?! You misplaced the symbiote sample?!"
+ID_DIALOG_EVENT_FL_SPIDERVERSE_02_INTRO_3,Guys. I think I've found it... er them.
+ID_DIALOG_EVENT_FL_SPIDERVERSE_03_INTRO_0,"I can't believe the symbiotes are actually going to help me with this one. "
+ID_DIALOG_EVENT_FL_SPIDERVERSE_03_INTRO_1,They can be a great help... as long as I don't have to get near any of them.
+ID_DIALOG_EVENT_FL_SPIDERVERSE_04_INTRO_0,"You are coming with me, Spider-Man. You are the necessary ingredient for my experimental Spider-Hex spell."
+ID_DIALOG_EVENT_FL_SPIDERVERSE_04_INTRO_1,No way! I'm not going to help you with that!
+ID_DIALOG_EVENT_FL_SPIDERVERSE_04_INTRO_2,"I am afraid he is correct, Agatha. He is not going with you. He's coming with ME! I need him for my own Spider-Incinerator experiment. "
+ID_DIALOG_EVENT_FL_SPIDERVERSE_04_INTRO_3,Wait. What?!
+ID_DIALOG_EVENT_FL_SPIDERVERSE_05_INTRO_0,"You're in danger, Miles."
+ID_DIALOG_EVENT_FL_SPIDERVERSE_05_INTRO_1,I'm from a future where portals open up all around the city and villains are hunting down Spider-Men and Spider-Women.
+ID_DIALOG_EVENT_FL_SPIDERVERSE_05_INTRO_2,I think that's already happening.
 ID_DIALOG_NUE_00_01_0,"Commander, I'm glad you're here. \nWe have a situation."
 ID_DIALOG_NUE_00_01_1,Interdimensional signatures are popping up all over New York City.
 ID_DIALOG_NUE_00_01_2,"As commander of S.T.R.I.K.E., interdimensional threats are your jurisdiction. "

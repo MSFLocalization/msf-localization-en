@@ -2611,7 +2611,7 @@ ID_OF_DE_COSMICANOMALY_ABM,Take advantage of the <color=#3366cc>Cosmic Anomaly</
 ID_OF_DE_COSMICANOMALY_DARKMAGIC,Get a chance for <color=#3366cc>shards or Red Star Ranks</color> for your favorite wielders of dark and chaotic magic! (Tap the icon for details)
 ID_OF_DE_COSMICANOMALY_ELITEDRAFT,The <color=#3366cc>Cosmic Anomaly</color> has opened an opportunity to grab valuable Red Star Promotion Credits! (Tap the icon for details)
 ID_OF_DE_COSMICANOMALY_TRAINING,Give your roster a boost with knowledge that has surfaced from the <color=#3366cc>Cosmic Anomaly</color>!
-ID_OF_DE_COSMICANOMALY_HORSEMANORB,Use the opportunity presented by the <color=#3366cc>Cosmic Anomaly</color> to continue powering up your Horsemen for the Apocalypse Saga. (Tap the icon for details)
+ID_OF_DE_COSMICANOMALY_HORSEMANORB,Use the opportunity presented by the <color=#3366cc>Cosmic Anomaly</color> to continue powering up your Horsemen for the Apocalypse Saga.
 ID_OF_DE_COSMICANOMALY_GT16GT17,Don't go out into the greater dangers of the cosmos without gearing up your roster. Suit up and set yourself up to overcome challenges in Cosmic Crucible.
 ID_OF_DE_COSMICANOMALY_DEATHFAMILY,Get a chance for <color=#3366cc>shards or Red Star Ranks</color> for this deadly duo! (Tap the icon for details)
 ID_OF_NA_FATHERSDAY_DEATHPOOL,Father's Day: Death Dealers
@@ -2682,3 +2682,57 @@ ID_OF_NA_COSMICANOMALY_TRAINING,Cosmic Anomaly: Training Boost
 ID_OF_NA_COSMICANOMALY_HORSEMANORB,Cosmic Anomaly: Horseman Orb Draft
 ID_OF_NA_COSMICANOMALY_GT16GT17,Cosmic Anomaly: Suit Up!
 ID_OF_NA_COSMICANOMALY_DEATHFAMILY,Cosmic Anomaly: Deathly Draft
+ID_OF_NA_VALOROUSVALUE_AGELESSHERO,Valorous Value: Ageless Hero
+ID_OF_NA_VALOROUSVALUE_ENERGY_SMALL,Valorous Value: Second Wind
+ID_OF_NA_VALOROUSVALUE_ABM_SMALL,Valorous Value: Skill Drill
+ID_OF_NA_VALOROUSVALUE_GEARUP,Valorous Value: Gear Up!
+ID_OF_NA_VALOROUSVALUE_IRONFISTTWOPATHS,Valorous Value: Two Paths
+ID_OF_NA_VALOROUSVALUE_ORBDROP,Valorous Value: Supply Drop
+ID_OF_NA_VALOROUSVALUE_ACROSSTIME,Valorous Value: Across Time
+ID_OF_NA_VALOROUSVALUE_ELITE6,Valorous Value: Elite Honor
+ID_OF_NA_VALOROUSVALUE_DPC,Valorous Value: Rank Up!
+ID_OF_NA_VALOROUSVALUE_CARRYTHESHIELD,Valorous Value: Legacy
+ID_OF_NA_VALOROUSVALUE_RSBUNDLE,Valorous Value: Promotion!
+ID_OF_NA_VALOROUSVALUE_FLAGBEARERS,Valorous Value: Flag-bearers
+ID_OF_NA_VALOROUSVALUE_GT17,Valorous Value: Armor Up!
+ID_OF_NA_VALOROUSVALUE_ISOENERGY,Valorous Value: Iso-8
+ID_OF_NA_VALOROUSVALUE_BROTHERSINARMS,Valorous Value: Brothers in Arms
+ID_OF_NA_VALOROUSVALUE_ABM_LARGE,Valorous Value: Combat Skills
+ID_OF_NA_VALOROUSVALUE_TRAINING_MED,Valorous Value: Next Level
+ID_OF_NA_VALOROUSVALUE_DOUBLEAGENTS,Valorous Value: Double Agents
+ID_OF_NA_VALOROUSVALUE_TRAINING_SMALL,Valorous Value: Battle Plan
+ID_OF_NA_VALOROUSVALUE_NEWWARRIOR,Valorous Value: New Warriors
+ID_OF_NA_VALOROUSVALUE_PATHTOGLORY_START,Valorous Value: Path to Glory 1
+ID_OF_NA_VALOROUSVALUE_PATHTOGLORY_ONGOING,Valorous Value: Path to Glory 2
+ID_OF_NA_VALOROUSVALUE_PATHTOGLORY_3,Valorous Value: Path to Glory 3
+ID_OF_NA_VALOROUSVALUE_PATHTOGLORY_4,Valorous Value: Path to Glory 4
+ID_OF_NA_VALOROUSVALUE_PATHTOGLORY_5,Valorous Value: Path to Glory 5
+ID_OF_NA_VALOROUSVALUE_PATHTOGLORY_6,Valorous Value: Path to Glory 6
+ID_OF_NA_VALOROUSVALUE_PATHTOGLORY_END,Valorous Value: Path to Glory 7
+ID_OF_DE_VALOROUSVALUE_AGELESSHERO,Secure shards for both versions of this battle seasoned hero to power up your <color=#ffda21>Skill and Bio raid teams</color> and ear more rewards for your Alliance!
+ID_OF_DE_VALOROUSVALUE_ENERGY_SMALL,"Get that needed boost to continue cruising through campaign missions and earn experience, gear, and more to power up your roster."
+ID_OF_DE_VALOROUSVALUE_ABM_SMALL,Secure ability materials to give your critical roster members that needed boost to overcome challenges!
+ID_OF_DE_VALOROUSVALUE_GEARUP,Suit up both of these characters with their <color=#ffda21>Unique and Mini-Uniques</color> gear to increase their battlefield presence!
+ID_OF_DE_VALOROUSVALUE_IRONFISTTWOPATHS,"Two paths, with both leading to martial prowess in Raid! Power up these characters to <color=#ffda21>take on Skill and Bio raid nodes</color> and lead your Alliance to victory!"
+ID_OF_DE_VALOROUSVALUE_ORBDROP,Take advantage of this supply drop to give your roster that needed boost to push through challenges!
+ID_OF_DE_VALOROUSVALUE_ACROSSTIME,A force on the battlefield across both times. Secure shards of each and set yourself up for <color=#ffda21>victory on Skill and Bio raid nodes</color>.
+ID_OF_DE_VALOROUSVALUE_ELITE6,A soaring boost to 6 Red Star Ranks to several members of your roster!
+ID_OF_DE_VALOROUSVALUE_DPC,"Boost the ranks of characters that need Dark Promotion Credits: <color=#ffda21>Quicksilver, Ultron, Dormammu, Iron Man (Zombie)</color> and all the Horsemen!"
+ID_OF_DE_VALOROUSVALUE_CARRYTHESHIELD,Power up the bearer of a well-deserved legacy and lead your Skill team to victory!
+ID_OF_DE_VALOROUSVALUE_RSBUNDLE,Increase the Red Star Ranks of your roster to secure victory on the battlefield.
+ID_OF_DE_VALOROUSVALUE_FLAGBEARERS,"Pick up a boost for both of these living legends to lead the way and <color=#ffda21>take down important Skill and Bio nodes</color>, opening your Alliance a path to victory!"
+ID_OF_DE_VALOROUSVALUE_GT17,No challenge should be pursued without preparation! Give your gear tier a boost with this bundle of resources.
+ID_OF_DE_VALOROUSVALUE_ISOENERGY,Earn valuable resources from the Iso-8 campaign to gear up your critical roster members for War and Raid!
+ID_OF_DE_VALOROUSVALUE_BROTHERSINARMS,Bolster these battlefield brothers to bash through challenging Skill nodes in Raids!
+ID_OF_DE_VALOROUSVALUE_ABM_LARGE,Secure this large supply drop of ability materials to give your critical roster members that needed boost to overcome challenges!
+ID_OF_DE_VALOROUSVALUE_TRAINING_MED,Grab the resources you need to run your roster through training drills and increase their level to take on new challenges!
+ID_OF_DE_VALOROUSVALUE_DOUBLEAGENTS,Bring the pain to <color=#ffda21>Bio and Skill</color> nodes in Raid to earn greater rewards for your Alliance!
+ID_OF_DE_VALOROUSVALUE_TRAINING_SMALL,Have a plan to pursue victory and boost the level of your most powerful roster members!
+ID_OF_DE_VALOROUSVALUE_NEWWARRIOR,Conquer Cosmic Crucible and untangle webs with the New Warriors team!
+ID_OF_DE_VALOROUSVALUE_PATHTOGLORY_START,Make a path to take down HYDRA. Each conquest has spoils and intel on another base to pursue on your next visit. You won't want to miss out on the vault of the final stronghold!
+ID_OF_DE_VALOROUSVALUE_PATHTOGLORY_ONGOING,The next base has been uncovered! Each conquest has spoils and intel on another base to pursue on your next visit. Keep securing more ground to earn greater spoils!
+ID_OF_DE_VALOROUSVALUE_PATHTOGLORY_END,You've made it to the final HYDRA stronghold! Conquer it to secure the greatest spoils in the Path to Glory!
+ID_OF_NA_MASTERSOFEVIL_RSDRAFT,Masters of Evil: Red Star Draft
+ID_OF_DE_MASTERSOFEVIL_RSDRAFT,"Get an equal chance of either a 5 Red Star for <color=#fff568>Kang the Conqueror</color>, or <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Moonstone, Titania, or Absorbing Man</color>."
+ID_OF_NA_MASTERSOFEVIL_SHARDDRAFT,Masters of Evil: Shard Draft
+ID_OF_DE_MASTERSOFEVIL_SHARDDRAFT,Get a chance at varying amounts of shards for Masters of Evil characters with this offer! (Tap the icon for more details)
