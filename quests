@@ -2822,7 +2822,7 @@ ID_QU_LD_BLACKHOLEBOOGIE,"Use your favorite characters in Arena, Raid and Blitz 
 ID_QU_NA_BATTLEHARDENED,Battle Hardened
 ID_QU_SD_BATTLEHARDENED,Unlock and Power Up Korg
 ID_QU_SC_BATTLEHARDENED,Unlock and Power Up Korg
-ID_QU_LM_BATTLEHARDENED,Ignite your roster just by powering up Korg!\n\n<color=#fff568>How to Earn Points</color>\nScore points to roll through this 3-day milestone when you:\n\n- Open Rock Warrior Orbs\n- Recruit Korg\n- Level Up Korg\n- Rank Up (increase Star Rank) Korg\n\n<color=#fff568>Rock Warrior Orb</color>\nContains Korg character shards and purchasable using Power Cores.
+ID_QU_LM_BATTLEHARDENED,Ignite your roster just by powering up Korg!\n\nHow to Earn Points\nScore points to roll through this 3-day milestone when you:\n\n- Open Rock Warrior Orbs\n- Recruit Korg\n- Level Up Korg\n- Rank Up (increase Star Rank) Korg\n\nRock Warrior Orb\nContains Korg character shards and purchasable using Power Cores.
 ID_QU_S1_BATTLEHARDENED,Open 1 Rock Warrior Orb
 ID_QU_S2_BATTLEHARDENED,Unlock Korg
 ID_QU_S3_BATTLEHARDENED,Level Up Korg
@@ -2834,14 +2834,6 @@ ID_QU_SM_TRIALSANDTRIBULATIONS,Win Cosmic Crucible battles with New Warriors
 ID_QU_S1_TRIALSANDTRIBULATIONS,Win a Cosmic Crucible battle
 ID_QU_S2_TRIALSANDTRIBULATIONS,Win a Cosmic Crucible battle with New Warriors
 ID_QU_S3_TRIALSANDTRIBULATIONS,Spend 1 Power Core
-ID_QU_NA_GOODDOG,Good Dog
-ID_QU_SD_GOODDOG,Unlock and Power Up Cosmo
-ID_QU_SC_GOODDOG,Unlock and Power Up Cosmo
-ID_QU_LM_GOODDOG,Soar your roster to new heights just by powering up Cosmo!\n\n<color=#fff568>How to Earn Points</color>\nScore points to fly through this 3-day milestone when you:\n\n- Open Space Pup Orbs\n- Recruit Cosmo\n- Level Up Cosmo\n- Rank Up (increase Star Rank) Cosmo\n\n<color=#fff568>Space Pup Orb</color>\nContains Cosmo character shards and purchasable using Power Cores.
-ID_QU_S1_GOODDOG,Open 1 Space Pup Orb
-ID_QU_S2_GOODDOG,Unlock Cosmo
-ID_QU_S3_GOODDOG,Level Up Cosmo
-ID_QU_S4_GOODDOG,Rank Up Cosmo
 ID_QU_NA_GEAREDFORGLORY,Geared for Glory
 ID_QU_SD_GEAREDFORGLORY,Battle in War and Open Training Orbs
 ID_QU_LM_GEAREDFORGLORY,Gain progress by battling in War and opening Training Orbs to get the elusive Gear Tier 18!
