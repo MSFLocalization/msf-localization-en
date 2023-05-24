@@ -2720,7 +2720,7 @@ ID_OF_DE_VALOROUSVALUE_ELITE6,A soaring boost to 6 Red Star Ranks to several mem
 ID_OF_DE_VALOROUSVALUE_DPC,"Boost the ranks of characters that need Dark Promotion Credits: <color=#ffda21>Quicksilver, Ultron, Dormammu, Iron Man (Zombie)</color> and all the Horsemen!"
 ID_OF_DE_VALOROUSVALUE_CARRYTHESHIELD,Power up the bearer of a well-deserved legacy and lead your Skill team to victory!
 ID_OF_DE_VALOROUSVALUE_RSBUNDLE,Increase the Red Star Ranks of your roster to secure victory on the battlefield.
-ID_OF_DE_VALOROUSVALUE_FLAGBEARERS,"Pick up a boost for both of these living legends to lead the way and <color=#ffda21>take down important Skill and Bio nodes</color>, opening your Alliance a path to victory!"
+ID_OF_DE_VALOROUSVALUE_FLAGBEARERS,"Pick up a boost for both of these living legends to lead the way and <color=#ffda21>take down important Skill and Bio nodes</color>, opening your Alliance a path to victory in Raid!"
 ID_OF_DE_VALOROUSVALUE_GT17,No challenge should be pursued without preparation! Give your gear tier a boost with this bundle of resources.
 ID_OF_DE_VALOROUSVALUE_ISOENERGY,Earn valuable resources from the Iso-8 campaign to gear up your critical roster members for War and Raid!
 ID_OF_DE_VALOROUSVALUE_BROTHERSINARMS,Bolster these battlefield brothers to bash through challenging Skill nodes in Raids!
@@ -2736,3 +2736,101 @@ ID_OF_NA_MASTERSOFEVIL_RSDRAFT,Masters of Evil: Red Star Draft
 ID_OF_DE_MASTERSOFEVIL_RSDRAFT,"Get an equal chance of either a 5 Red Star for <color=#fff568>Kang the Conqueror</color>, or <color=#fff568>5, 6, or 7 Red Star</color> (Minimum Red Star Level 5, Maximum Red Star Level 7) for <color=#fff568>Moonstone, Titania, or Absorbing Man</color>."
 ID_OF_NA_MASTERSOFEVIL_SHARDDRAFT,Masters of Evil: Shard Draft
 ID_OF_DE_MASTERSOFEVIL_SHARDDRAFT,Get a chance at varying amounts of shards for Masters of Evil characters with this offer! (Tap the icon for more details)
+ID_OF_DE_SHARD_RS_DRAFT_SINGLE,Get a chance at <color=#33dd00>shards or Red Star Ranks</color> for this character! (Tap the icon for details)
+ID_OF_DE_SHARD_RS_DRAFT_MULTIPLE,Get a chance at <color=#33dd00>shards or Red Star Ranks</color> for your favorite characters! (Tap the icon for details)
+ID_OF_NA_SHOOTINGSTARS_STARTER_MEGA,Shooting Stars Stellar Starter Bundle
+ID_OF_NA_SHOOTINGSTARS_STARTER_SUPER,Shooting Stars Big Starter Bundle
+ID_OF_NA_SHOOTINGSTARS_STARTER,Shooting Stars Starter Bundle
+ID_OF_NA_SHOOTINGSTARS_CATCHUP,Shooting Stars Cosmic Catch-up Bundle
+ID_OF_NA_SHOOTINGSTARS_CATCHUP_LAST_CHANCE,Shooting Stars Last Chance Offer
+ID_OF_NA_SHOOTINGSTARS_DAILY_ORB,Daily Shooting Stars Orb Bundle
+ID_OF_NA_SHOOTINGSTARS_DAILY_ISO,Daily Asteroid Action Iso-8 Bundle
+ID_OF_NA_SHOOTINGSTARS_DAILY_BLITZ,Daily Shooting Stars Blitz Bundle
+ID_OF_NA_SHOOTINGSTARS_DAILY_POINTS,Daily Shooting Stars Points Offer
+ID_OF_NA_SHOOTINGSTARS_HC_BUNDLE,Daily Shooting Stars Power Core Bundle
+ID_OF_NA_SHOOTINGSTARS_FREE_CLAIM,Shooting Stars Daily Gift
+ID_OF_NA_SHOOTINGSTARS_INTERSTITIAL,Shooting Stars Web Special
+ID_OF_NA_SHOOTINGSTARS_DIRECT,Shooting Stars Booster
+ID_OF_DE_SHOOTINGSTARS_STARTER_MEGA,Get ahead in the <color=#fff568>Shooting Stars</color> Milestone and fast-forward your way to <color=#fff568>Firestar and Gwenpool shards</color>!
+ID_OF_DE_SHOOTINGSTARS_STARTER_SUPER,Get ahead in the <color=#fff568>Shooting Stars</color> Milestone and fast-forward your way to <color=#fff568>Firestar and Gwenpool shards</color>!
+ID_OF_DE_SHOOTINGSTARS_STARTER,Start off strong in the <color=#fff568>Shooting Stars</color> Milestone!
+ID_OF_DE_SHOOTINGSTARS_CATCHUP,"Finish strong in the <color=#fff568>Shooting Stars</color> Milestone for <color=#fff568>Firestar shards</color>, <color=#fff568>Gwenpool shards</color> and <color=#fff568>more</color>!"
+ID_OF_DE_SHOOTINGSTARS_CATCHUP_LAST_CHANCE,Complete your final Shooting Stars milestones before it's too late!
+ID_OF_DE_SHOOTINGSTARS_DAILY_ORB,Stock up on <color=#fff568>Shooting Star Orb Fragments</color> and gain <color=#fff568>Shooting Stars</color> progress with this special deal!
+ID_OF_DE_SHOOTINGSTARS_DAILY_ISO,Blast through the Iso-8 campaign with this special <color=#fff568>Asteroid Action</color> Energy Bundle!
+ID_OF_DE_SHOOTINGSTARS_DAILY_BLITZ,Boost your Blitz and <color=#fff568>Shooting Stars</color> progress at once with this daily bundle!\n*Items ignore resource capacity
+ID_OF_DE_SHOOTINGSTARS_DAILY_POINTS,Make consistent <color=#fff568>Shooting Stars</color> progress with this daily milestone points supply!
+ID_OF_DE_SHOOTINGSTARS_HC_BUNDLE,Rocket through the <color=#fff568>Shooting Stars</color> Milestone with this powerful Power Core bundle!
+ID_OF_DE_SHOOTINGSTARS_FREE_CLAIM,Come back daily for more <color=#fff568>Shooting Stars</color> progress!
+ID_OF_DE_SHOOTINGSTARS_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Shooting Stars</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_SHOOTINGSTARS_DIRECT,Spend Power Cores on this offer to progress in the <color=#fff568>Shooting Stars</color> Milestone while earning valuable items!
+ID_OF_NA_GENERIC_ASB5,Player Favorite!
+ID_OF_DE_GENERIC_ASB5,Back by popular demand! Tap the icon to find out more information!
+ID_OF_NA_KORGSINTERGALACTICTOUR_STARTER_MEGA,Korg's Intergalactic Tour VIP Starter
+ID_OF_NA_KORGSINTERGALACTICTOUR_STARTER_SUPER,Korg's Intergalactic Tour Backstage Starter
+ID_OF_NA_KORGSINTERGALACTICTOUR_STARTER,Korg's Intergalactic Tour Starter Bundle
+ID_OF_NA_KORGSINTERGALACTICTOUR_BOOSTER_ANCHOR_c5,Daily Sound Check
+ID_OF_NA_KORGSINTERGALACTICTOUR_BOOSTER_01_c60,Headliner Offer
+ID_OF_NA_KORGSINTERGALACTICTOUR_BOOSTER_01_c15,Main Stage Offer
+ID_OF_NA_KORGSINTERGALACTICTOUR_BOOSTER_01_c5,Opening Act Offer
+ID_OF_NA_KORGSINTERGALACTICTOUR_BOOSTER_02_c15,Reserved Seating Offer
+ID_OF_NA_KORGSINTERGALACTICTOUR_BOOSTER_01_c20,Meet-and-Greet Offer
+ID_OF_NA_KORGSINTERGALACTICTOUR_BOOSTER_02_c5,Members-Only Offer
+ID_OF_NA_KORGSINTERGALACTICTOUR_BOOSTER_01_c30,Only the Hits Offer
+ID_OF_NA_KORGSINTERGALACTICTOUR_BOOSTER_03_c5,Group Package Offer
+ID_OF_NA_KORGSINTERGALACTICTOUR_BOOSTER_04_c5,Concert Practice Offer
+ID_OF_NA_KORGSINTERGALACTICTOUR_BOOSTER_02_c40,Members-Only Offer
+ID_OF_NA_KORGSINTERGALACTICTOUR_BOOSTER_02_c60,Amped Up Offer
+ID_OF_NA_KORGSINTERGALACTICTOUR_BOOSTER_02_c20,Premium Seats Offer
+ID_OF_NA_KORGSINTERGALACTICTOURFREE_DAILY_CLAIM,Korg's Intergalactic Tour Daily Gift
+ID_OF_NA_KORGSINTERGALACTICTOUR_CATCHUP_MEGA_c100,Korg's Intergalactic Tour Mega Catch-Up
+ID_OF_NA_KORGSINTERGALACTICTOUR_CATCHUP_SUPER_c40,Korg's Intergalactic Tour Super Catch-Up
+ID_OF_NA_KORGSINTERGALACTICTOUR_CATCHUP_c20,Korg's Intergalactic Tour Catch-Up Bundle
+ID_OF_NA_KORGSINTERGALACTICTOUR_CATCHUP_LAST_CHANCE_c10,Korg's Intergalactic Tour Last Chance Bundle
+ID_OF_NA_KORGSINTERGALACTICTOUR_CALENDAR_1_c30,Korg's Multi-Day Pass Offer
+ID_OF_NA_KORGSINTERGALACTICTOUR_CALENDAR_2_c30,Korg's Multi-Day Pass Offer
+ID_OF_DE_KORGSINTERGALACTICTOUR_STARTER_MEGA,"Stock up on <color=#fff568>Korg's Intergalactic Tour</color> progress and exclusive items, and get ahead on the Korg's Intergalactic Tour Leaderboard for <color=#fff568>up to 7 million T2 Level 5 Ions</color>!"
+ID_OF_DE_KORGSINTERGALACTICTOUR_STARTER_SUPER,Get ahead in the <color=#fff568>Korg's Intergalactic Tour</color> milestone and fast-forward your way to the <color=#fff568>Korg shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
+ID_OF_DE_KORGSINTERGALACTICTOUR_STARTER,Start off strong in the <color=#fff568>Korg's Intergalactic Tour</color> milestone!
+ID_OF_DE_KORGSINTERGALACTICTOUR_BOOSTER_ANCHOR_c5,Make consistent <color=#fff568>Korg's Intergalactic Tour</color> progress with this daily <color=#fff568>Rock Concert Tickets</color> supply!
+ID_OF_DE_KORGSINTERGALACTICTOUR_BOOSTER_01_c60,Stock up on <color=#fff568>Korg's Intergalactic Tour</color> progress and <color=#fff568>Elite Credits</color> with this special deal!
+ID_OF_DE_KORGSINTERGALACTICTOUR_BOOSTER_01_c15,Stock up on <color=#fff568>Korg's Intergalactic Tour</color> progress and <color=#fff568>Legacy Orbs</color> with this special deal!
+ID_OF_DE_KORGSINTERGALACTICTOUR_BOOSTER_01_c5,Stock up on <color=#fff568>Korg's Intergalactic Tour</color> progress and <color=#fff568>Ability Materials</color> with this special deal!
+ID_OF_DE_KORGSINTERGALACTICTOUR_BOOSTER_02_c15,Stock up on <color=#fff568>Korg's Intergalactic Tour</color> progress and <color=#fff568>Mega Orbs</color> with this special deal!
+ID_OF_DE_KORGSINTERGALACTICTOUR_BOOSTER_01_c20,Stock up on <color=#fff568>Korg's Intergalactic Tour</color> progress and <color=#fff568>Gold Promotion Credits</color> with this special deal!
+ID_OF_DE_KORGSINTERGALACTICTOUR_BOOSTER_02_c5,Stock up on <color=#fff568>Korg's Intergalactic Tour</color> progress and <color=#fff568>Catalysts</color> with this special deal!
+ID_OF_DE_KORGSINTERGALACTICTOUR_BOOSTER_01_c30,Stock up on <color=#fff568>Korg's Intergalactic Tour</color> progress and <color=#fff568>Armory Orbs</color> with this special deal!
+ID_OF_DE_KORGSINTERGALACTICTOUR_BOOSTER_03_c5,Accelerate your <color=#fff568>Korg's Intergalactic Tour</color> progress with these discounted <color=#fff568>Rock Concert Tickets</color>!
+ID_OF_DE_KORGSINTERGALACTICTOUR_BOOSTER_04_c5,Stock up on <color=#fff568>Korg's Intergalactic Tour</color> progress and <color=#fff568>Training Orbs</color> with this special deal!
+ID_OF_DE_KORGSINTERGALACTICTOUR_BOOSTER_02_c40,Take advantage of <color=#fff568>Korg's Intergalactic Tour</color>'s highest discount offer for fast progress and Iso-8 upgrades!
+ID_OF_DE_KORGSINTERGALACTICTOUR_BOOSTER_02_c60,Stock up on <color=#fff568>Korg's Intergalactic Tour</color> progress and <color=#fff568>Iso-8 Materials</color> with this special deal!
+ID_OF_DE_KORGSINTERGALACTICTOUR_BOOSTER_02_c20,Stock up on <color=#fff568>Korg's Intergalactic Tour</color> progress and <color=#fff568>Gold</color> with this special deal!
+ID_OF_DE_KORGSINTERGALACTICTOURFREE_DAILY_CLAIM,Come back daily for more <color=#fff568>Korg's Intergalactic Tour</color> progress!
+ID_OF_DE_KORGSINTERGALACTICTOUR_CATCHUP_MEGA_c100,"Finish strong in the milestones and leaderboards for <color=#fff568>Korg shards</color>, <color=#fff568>fully crafted Gear Tier 17 pieces</color> and <color=#fff568>up to 7,000,000 T2 Level 5 Ions</color>!"
+ID_OF_DE_KORGSINTERGALACTICTOUR_CATCHUP_SUPER_c40,Finish strong in the milestones for <color=#fff568>Korg shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
+ID_OF_DE_KORGSINTERGALACTICTOUR_CATCHUP_LAST_CHANCE_c10,"Catch this deal before it's too late to earn your final <color=#fff568>Korg shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>! "
+ID_OF_DE_KORGSINTERGALACTICTOUR_CALENDAR_1_c30,Check-in every day to get <color=#fff568>Rock Concert Tickets</color>!
+ID_OF_DE_KORGSINTERGALACTICTOUR_CALENDAR_2_c30,Check-in every day to get <color=#fff568>Rock Concert Tickets</color>!
+ID_OF_NA_STONECOLDSPIDERS_STARTER_MEGA,Stone Cold Spiders Mega Starter
+ID_OF_NA_STONECOLDSPIDERS_STARTER_SUPER,Stone Cold Spiders Super Starter
+ID_OF_NA_STONECOLDSPIDERS_STARTER,Stone Cold Spiders Starter Bundle
+ID_OF_NA_STONECOLDSPIDERS_BOOSTER_WEB_MEGA,Multiversal Web Special
+ID_OF_NA_STONECOLDSPIDERS_BOOSTER_DAILY_ANCHOR,Stone Cold Spiders Daily Booster
+ID_OF_NA_STONECOLDSPIDERS_CATCHUP_CONTINGENCY,Stone Cold Spiders Mega Catch-Up
+ID_OF_NA_STONECOLDSPIDERS_CATCHUP_SUPER,Stone Cold Spiders Super Catch-Up
+ID_OF_NA_STONECOLDSPIDERS_CATCHUP,Stone Cold Spiders Catch-Up Bundle
+ID_OF_NA_STONECOLDSPIDERS_CATCHUP_LAST_CHANCE,Stone Cold Spiders Last Chance Bundle
+ID_OF_NA_STONECOLDSPIDERS_CAMPAIGN_ENERGY,Daily Web-Spinning Energy
+ID_OF_NA_STONECOLDSPIDERS_RAID,Daily Center Stage Raid
+ID_OF_NA_STONECOLDSPIDERS_FREE_CLAIM,Stone Cold Spiders Daily Gift
+ID_OF_NA_STONECOLDSPIDERS_INTERSTITIAL,Stone Cold Spiders Web Special
+ID_OF_DE_STONECOLDSPIDERS_STARTER_MEGA,Get ahead in the <color=#fff568>Stone Cold Spiders</color> Milestone and swing your way to <color=#fff568>Spider-Verse shards</color> and <color=#fff568>Teal Mini-Uniques</color>!
+ID_OF_DE_STONECOLDSPIDERS_STARTER,Start off strong in the <color=#fff568>Stone Cold Spiders</color> milestone!
+ID_OF_DE_STONECOLDSPIDERS_BOOSTER_WEB_MEGA,Get a major leap ahead in your <color=#fff568>Stone Cold Spiders Milestone</color> progress!
+ID_OF_DE_STONECOLDSPIDERS_BOOSTER_DAILY_ANCHOR,Make consistent <color=#fff568>Stone Cold Spiders</color> progress with this daily milestone points supply!
+ID_OF_DE_STONECOLDSPIDERS_CATCHUP_CONTINGENCY,"Finish strong in the milestones to earn <color=#fff568>Spider-Verse shards</color>, <color=#fff568>Teal Mini Uniques</color> and <color=#fff568>T4 Ability Materials</color>!"
+ID_OF_DE_STONECOLDSPIDERS_CATCHUP_LAST_CHANCE,"Complete your final Stone Cold Spiders milestones before it's too late for more <color=#fff568>Teal Uniques</color> and <color=#fff568>Spider-Verse shards</color>! "
+ID_OF_DE_STONECOLDSPIDERS_CAMPAIGN_ENERGY,Boost your progress in campaigns and the <color=#fff568>Stone Cold Spiders</color> at once!
+ID_OF_DE_STONECOLDSPIDERS_RAID,Blitz through the <color=#fff568>Stone Cold Spiders Milestone</color>!
+ID_OF_DE_STONECOLDSPIDERS_FREE_CLAIM,Come back daily for more <color=#fff568>Stone Cold Spiders</color> progress!
+ID_OF_DE_STONECOLDSPIDERS_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Stone Cold Spiders</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!

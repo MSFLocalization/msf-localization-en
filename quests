@@ -2685,7 +2685,7 @@ ID_QU_S1_FISTSOFRAGE,Spend 1 Campaign Energy
 ID_QU_S2_FISTSOFRAGE,Spend 1 Iso-8 Energy
 ID_QU_NA_SPOILSOFWAR,Spoils of War
 ID_QU_SD_SPOILSOFWAR,Battle in Alliance War for Iso-8 rewards!
-ID_QU_LM_SPOILSOFWAR,"Battle in War to earn Iso-8 Ions, Iso-8 Orbs, and Solar Flare progress!"
+ID_QU_LM_SPOILSOFWAR,"Battle in War to earn Iso-8 Ions, Iso-8 Orbs, and Korg's Intergalactic Tour progress!"
 ID_QU_SM_SPOILSOFWAR,Battle in War
 ID_QU_SC_SPOILSOFWAR,Battle in War
 ID_QU_S1_SPOILSOFWAR,War Battle
@@ -2840,3 +2840,82 @@ ID_QU_LM_GEAREDFORGLORY,Gain progress by battling in War and opening Training Or
 ID_QU_SM_GEAREDFORGLORY,Battle in War and Open Training Orbs
 ID_QU_S1_GEAREDFORGLORY,Open 1 Training Orb
 ID_QU_S2_GEAREDFORGLORY,Battle in War
+ID_QU_NA_STAMPCARDSPLIT2023_FREE,Daily Free Stamp Card
+ID_QU_NA_STAMPCARDSPLIT2023_GOLD,Gold Stamp Card
+ID_QU_NA_STAMPCARDSPLIT2023_PLATINUM,Platinum Stamp Card
+ID_QU_LM_STAMPCARDSPLIT2023_FREE_GENERIC,Get a free gift each day you log in on web!
+ID_QU_NA_KORGSINTERGALACTICTOUR,Korg's Intergalactic Tour
+ID_QU_SD_KORGSINTERGALACTICTOUR,Participate in June Events
+ID_QU_LM_KORGSINTERGALACTICTOUR,Participate in various events throughout the month of June to earn milestone progress.
+ID_QU_SM_KORGSINTERGALACTICTOUR,Participate in June Events
+ID_QU_SC_KORGSINTERGALACTICTOUR,Participate in June Events
+ID_QU_S1_KORGSINTERGALACTICTOUR,Collect Rock Concert Ticket
+ID_QU_S2_KORGSINTERGALACTICTOUR,Collect 1 Stone Cold Drink Koozie
+ID_QU_S3_KORGSINTERGALACTICTOUR,Collect 1 Ghost Stompers
+ID_QU_S4_KORGSINTERGALACTICTOUR,Collect 1 Ninny Nonny Tribute
+ID_QU_S5_KORGSINTERGALACTICTOUR,Collect 1 Sakaaran Laser Rifle
+ID_QU_S6_KORGSINTERGALACTICTOUR,Collect 1 Merch Box
+ID_QU_S7_KORGSINTERGALACTICTOUR,Collect 1 Goat Boat Van
+ID_QU_NA_STONECOLDSPIDERS,Stone Cold Spiders
+ID_QU_SD_STONECOLDSPIDERS,Spend Campaign Energy and Power Cores
+ID_QU_LM_STONECOLDSPIDERS,"Swing into June with the Stone Cold Spiders Milestone. Earn valuable rewards including Spider-Verse Shards, Bio and Mystic Gear, and Stat Catalysts! You'll also earn points in the month-long Korg's Intergalactic Tour Event by collecting Rock Concert Tickets and the Stone Cold Drink Koozie.\n\nGain progress in this 5-day event by spending Campaign Energy and Power Cores and by completing the web milestone, Center Stage Spiders."
+ID_QU_S1_STONECOLDSPIDERS,Spend 1 Power Core
+ID_QU_S2_STONECOLDSPIDERS,Spend 1 Campaign Energy
+ID_QU_NA_CENTERSTAGESPIDERS,Center Stage Spiders
+ID_QU_SD_CENTERSTAGESPIDERS,Battle in Raids
+ID_QU_LD_CENTERSTAGESPIDERS,Battle in Raids to complete a 5-day milestone that rewards Stone Cold Spiders Progress
+ID_QU_SM_CENTERSTAGESPIDERS,Battle in Raids
+ID_QU_SC_CENTERSTAGESPIDERS,Battle in Raids
+ID_QU_S2_CENTERSTAGESPIDERS,Play 1 Raid Battle
+ID_QU_NA_SHOOTINGSTARS,Shooting Stars
+ID_QU_SD_SHOOTINGSTARS,Blitz and Open Shooting Star Orbs
+ID_QU_LM_SHOOTINGSTARS,"Battle in Blitz with Korg and Cosmo, open Shooting Star Orbs, spend Power Cores, and complete the daily Asteroid Action Web Milestone to earn these rewards: \n\n- New Warrior Shards\n- Bio Gear\n- Catalyst Parts\n- Elite 6 Credits\n- Gold Promotion Credits\n- And more!"
+ID_QU_SM_SHOOTINGSTARS,Blitz and Open Shooting Star Orbs
+ID_QU_S1_SHOOTINGSTARS,Play 1 Blitz Battle
+ID_QU_S2_SHOOTINGSTARS,Play 1 Blitz Battle with Cosmo
+ID_QU_S3_SHOOTINGSTARS,Play 1 Blitz Battle with Korg
+ID_QU_S4_SHOOTINGSTARS,Open 1 Shooting Star Orb
+ID_QU_S5_SHOOTINGSTARS,Spend 1 Power Core
+ID_QU_NA_ASTEROIDACTION,Asteroid Action
+ID_QU_SD_ASTEROIDACTION,Spend Iso-8 Campaign Energy
+ID_QU_LD_ASTEROIDACTION,"Spend Iso-8 Campaign Energy to complete this daily milestone that rewards Blue, Purple, Orange, and Teal Gear Orbs, Shooting Stars Milestone Points, and Shooting Star Orb Fragments."
+ID_QU_SM_ASTEROIDACTION,Spend Iso-8 Campaign Energy
+ID_QU_SC_ASTEROIDACTION,Spend Iso-8 Campaign Energy
+ID_QU_S1_ASTEROIDACTION,Spend 1 Iso-8 Campaign Energy
+ID_QU_LM_STAMPCARDSPLIT2023_10,"Earn a bonus gift each time you spend {tier10price} or more on web (excludes Ultra Core bundles), or 100 Ultra Cores or more anywhere!"
+ID_QU_LM_STAMPCARDSPLIT2023_20,"Earn a bonus gift each time you spend {tier20price} or more on web (excludes Ultra Core bundles), or 200 Ultra Cores or more anywhere!"
+ID_QU_NA_SPLASH_MULTIVERSEMICDROP,Multiverse Mic Drop
+ID_QU_SD_SPLASH_MULTIVERSEMICDROP,Use Spider-Verse in Blitz
+ID_QU_LM_SPLASH_MULTIVERSEMICDROP,Earn points by using Spider-Verse characters in Blitz Battles. Earn more points if your Spider-Verse characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_MULTIVERSEMICDROP,Use Spider-Verse Characters in Blitz
+ID_QU_S1_SPLASH_MULTIVERSEMICDROP,Win Blitz with 3-star or higher Spider-Verse Character
+ID_QU_S2_SPLASH_MULTIVERSEMICDROP,Win Blitz with 5-star or higher Spider-Verse Character
+ID_QU_S3_SPLASH_MULTIVERSEMICDROP,Win Blitz with 7-star Spider-Verse Character
+ID_QU_NA_SPLASH_MONSTERMASH,Monster Mash
+ID_QU_SD_SPLASH_MONSTERMASH,Use Dark Hunters in Blitz
+ID_QU_LM_SPLASH_MONSTERMASH,Earn points by using Dark Hunters characters in Blitz Battles. Earn more points if your Dark Hunters characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_MONSTERMASH,Use Dark Hunters Characters in Blitz
+ID_QU_S1_SPLASH_MONSTERMASH,Win Blitz with 3-star or higher Dark Hunters Character
+ID_QU_S2_SPLASH_MONSTERMASH,Win Blitz with 5-star or higher Dark Hunters Character
+ID_QU_S3_SPLASH_MONSTERMASH,Win Blitz with 7-star Dark Hunters Character
+ID_QU_NA_SPLASH_MOSHPITMADNESS,Moshpit Madness
+ID_QU_SD_SPLASH_MOSHPITMADNESS,Use New Warriors in Blitz
+ID_QU_LM_SPLASH_MOSHPITMADNESS,Earn points by using New Warriors characters in Blitz Battles. Earn more points if your New Warriors characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_MOSHPITMADNESS,Use New Warriors Characters in Blitz
+ID_QU_S1_SPLASH_MOSHPITMADNESS,Win Blitz with 3-star or higher New Warriors Character
+ID_QU_S2_SPLASH_MOSHPITMADNESS,Win Blitz with 5-star or higher New Warriors Character
+ID_QU_S3_SPLASH_MOSHPITMADNESS,Win Blitz with 7-star New Warriors Character
+ID_QU_NA_SPLASH_ELECTRICBOOGALOO,Electric Boogaloo
+ID_QU_SD_SPLASH_ELECTRICBOOGALOO,Use Pride in Blitz
+ID_QU_LM_SPLASH_ELECTRICBOOGALOO,Earn points by using Pride characters in Blitz Battles. Earn more points if your Pride characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_ELECTRICBOOGALOO,Use Pride Characters in Blitz
+ID_QU_S1_SPLASH_ELECTRICBOOGALOO,Win Blitz with 3-star or higher Pride Character
+ID_QU_S2_SPLASH_ELECTRICBOOGALOO,Win Blitz with 5-star or higher Pride Character
+ID_QU_S3_SPLASH_ELECTRICBOOGALOO,Win Blitz with 7-star Pride Character
+ID_QU_NA_SPLASH_STREETWARRIORS,Street Warriors
+ID_QU_SD_SPLASH_STREETWARRIORS,Use Pride in Blitz
+ID_QU_LM_SPLASH_STREETWARRIORS,Earn points by using Pride characters in Blitz Battles. Earn more points if your Pride characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_STREETWARRIORS,Use Pride Characters in Blitz
+ID_QU_S1_SPLASH_STREETWARRIORS,Win Blitz with 3-star or higher Pride Character
+ID_QU_S2_SPLASH_STREETWARRIORS,Win Blitz with 5-star or higher Pride Character
+ID_QU_S3_SPLASH_STREETWARRIORS,Win Blitz with 7-star Pride Character

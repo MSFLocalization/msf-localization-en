@@ -181,12 +181,12 @@ ID_EVENT_CUR1_NAME,Apocalypse Pyramids
 ID_EVENT_CUR1_DESCRIPTION,Celebrate Tadano Mac JAPAN being the first to conquer the Apocalypse Saga! Earn them in the Tadano Mac JAPAN calendar and use them to earn up to 100 character shards of either Agent Venom or Dark Beast!
 ID_EVENT_CUR2_NAME,Gear Credits
 ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
-ID_EVENT_CUR3_NAME,Feel the Burn Milestone Points
-ID_EVENT_CUR3_DESCRIPTION,These points earn you additional progress in the Feel the Burn Milestone. Earn them in the Blazing Battles Web Milestone and limited offers!
-ID_EVENT_CUR4_NAME,Interstellar Ignition Milestone Points
-ID_EVENT_CUR4_DESCRIPTION,"These points earn you additional progress in the Interstellar Ignition Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
-ID_EVENT_CUR5_NAME,Interstellar Orb Fragments
-ID_EVENT_CUR5_DESCRIPTION,Collect Interstellar Orb Fragments from Campaign nodes to earn progress in the Interstellar Ignition Milestone.
+ID_EVENT_CUR3_NAME,Stone Cold Spiders Milestone Points
+ID_EVENT_CUR3_DESCRIPTION,These points earn you additional progress in the Stone Cold Spiders Milestone. Earn them in the Center Stage Spiders Web Milestone and limited offers!
+ID_EVENT_CUR4_NAME,Ruff Riffs Milestone Points
+ID_EVENT_CUR4_DESCRIPTION,"These points earn you additional progress in the Ruff Riffs Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EVENT_CUR5_NAME,Family Bedrock Milestone Points
+ID_EVENT_CUR5_DESCRIPTION,"These points earn you additional progress in the Family Bedrock Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
 ID_EVENT_CUR6_NAME,Light the Crucible Milestone Points
 ID_EVENT_CUR6_DESCRIPTION,"These points earn you additional progress in the Light the Crucible Milestone. Earn them in Daily Free Claims on our website, the Galactic Goliaths Web Milestone, and limited time offers!"
 ID_EVENT_CUR7_NAME,Out of this World Milestone Points
@@ -199,8 +199,8 @@ ID_EVENT_CUR10_NAME,Geared for Glory Milestone Points
 ID_EVENT_CUR10_DESCRIPTION,These points earn you additional progress in the Geared for Glory Milestone. Earn them in Daily Free Claims on our website and limited time offers!
 ID_EVENT_CUR11_NAME,S.T.R.I.K.E. Os
 ID_EVENT_CUR11_DESCRIPTION,Collect Os to earn nutritious rewards!
-ID_EVENT_CUR12_NAME,Brother In Arms Milestone Points
-ID_EVENT_CUR12_DESCRIPTION,"These points earn you additional progress in the Brother In Arms Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EVENT_CUR12_NAME,Shooting Stars Milestone Points
+ID_EVENT_CUR12_DESCRIPTION,"These points earn you additional progress in the Shooting Stars Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
 ID_EVENT_CUR13_NAME,Shopping Spree Milestone Points
 ID_EVENT_CUR13_DESCRIPTION,"These points earn you additional progress in the Shopping Spree Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
 ID_EVENT_CUR14_NAME,Green Guardians Orb Fragment
@@ -297,3 +297,17 @@ ID_EVTA_META_MAY_E_NAME,Red-Hot Gloves
 ID_EVTA_META_MAY_E_DESCRIPTION,Collect the Red-Hot Gloves for points in the Solar Flare Event. Earn them in the Out of this World Event!
 ID_EVTA_META_MAY_F_NAME,Searing Boots
 ID_EVTA_META_MAY_F_DESCRIPTION,Collect the Searing Boots for points in the Solar Flare Event. Earn them in the Cosmic Canine Event!
+ID_EVTA_META_JUN_A_NAME,Rock Concert Ticket
+ID_EVTA_META_JUN_A_DESCRIPTION,Collect Rock Concert Tickets for points in the Korg's Intergalactic Tour Event. Earn them in various events throughout the month of June
+ID_EVTA_META_JUN_B_NAME,Stone Cold Drink Koozie
+ID_EVTA_META_JUN_B_DESCRIPTION,Collect the Stone Cold Drink Koozie for points in the Korg's Intergalactic Tour Event. Earn it in the Stone Cold Spiders Event!
+ID_EVTA_META_JUN_C_NAME,Ghost Stompers
+ID_EVTA_META_JUN_C_DESCRIPTION,Collect the Ghost Stompers for points in the Korg's Intergalactic Tour Event. Earn it in the Ruff Riffs Event!
+ID_EVTA_META_JUN_D_NAME,Ninny Nonny Tribute
+ID_EVTA_META_JUN_D_DESCRIPTION,Collect the Ninny Nonny Tribute for points in the Korg's Intergalactic Tour Event. Earn them in the Family Bedrock Event!
+ID_EVTA_META_JUN_E_NAME,Sakaaran Laser Rifle
+ID_EVTA_META_JUN_E_DESCRIPTION,Collect Sakaaran Laser Rifle for points in the Korg's Intergalactic Tour Event. Earn it in the Outlaw Encore Event!
+ID_EVTA_META_JUN_F_NAME,Merch Box
+ID_EVTA_META_JUN_F_DESCRIPTION,Collect Merch Box for points in the Korg's Intergalactic Tour Event. Earn it in the Intergalactic Merch Booth Event!
+ID_EVTA_META_JUN_G_NAME,Goat Boat Van
+ID_EVTA_META_JUN_G_DESCRIPTION,Collect Goat Boat Van for points in the Korg's Intergalactic Tour Event. Earn it in the Thunderous Applause Event!
