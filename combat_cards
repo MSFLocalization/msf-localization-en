@@ -141,7 +141,7 @@ ID_SCOURGE_CARD_096_DESC,"When a Positive Effect Is Applied To An Enemy Characte
 ID_SCOURGE_CARD_097_NAME,Energy Absorption
 ID_SCOURGE_CARD_097_DESC,"On An Enemy Character's Turn, Remove All Negative Effects And Heal <color=#86e619>{pass.on_turn.remove_debuff.healself.HorsemenRedHulk.combat_mods.extra_abilities.passive.0.actions.1.drain_pct}%</color> Per Negative Effect Removed"
 ID_SCOURGE_CARD_098_NAME,Unstoppable Force
-ID_SCOURGE_CARD_098_DESC,"On An Enemy <color=#9055FF>Strikers</color> Turn, They Gain <color=#86e619>5%</color> Barrier And Flip <color=#fff568>Offense Down</color>"
+ID_SCOURGE_CARD_098_DESC,"On an enemy <color=#9055FF>STRIKER'S</color> Turn, flip <color=#fff568>Offense Down</color> on that character + Barrier that character for <color=#86e619>5%</color> of that character's Max Health."
 ID_SCOURGE_CARD_099_NAME,Butterfly Effect
 ID_SCOURGE_CARD_099_DESC,"When A <color=#9055FF>Fortifier</color> Character Uses An Ultimate Ability, Spread Positive Effects On That Character To Adjacent Allied Characters"
 ID_SCOURGE_CARD_101_DESC,"When A Non-Minion Player Character Gains Ability Energy, Apply <color=#fff568>Slow</color> To Them"
@@ -205,7 +205,7 @@ ID_SCOURGE_CARD_136_DESC,"When a Character Dies, their Allied <color=#fff568>BIO
 ID_SCOURGE_CARD_137_NAME,Power Cosmic
 ID_SCOURGE_CARD_137_DESC,All <color=#fff568>Cosmic Crucible</color> Abilities are Active During this Run
 ID_SCOURGE_CARD_138_NAME,Supernova
-ID_SCOURGE_CARD_138_DESC,"At the start of a <color=#fff568>STRIKER</color> Character's Turn, they Gain <color=#fff568>Barrier</color> Equal to 5% Their Max Health. <color=#fff568>STRIKER</color> Characters Also Gain +1 Ability Energy on Enemy Character Death"
+ID_SCOURGE_CARD_138_DESC,"On Turn, <color=#9055FF>STRIKERS</color>, Barrier self for <color=#86e619>5%</color> of their Max Health and if that <color=#9055FF>STRIKER</color> kills an enemy, generate <color=#86e619>1</color> Ability Energy for self."
 ID_SCOURGE_CARD_140_NAME,Snake Eyes
 ID_SCOURGE_CARD_140_DESC,"On Spawn, Player Characters Gain Increased <color=#fff568>Critical Hit Chance</color>, and Enemy Characters Gain Increased <color=#fff568>Critical Hit Damage</color>"
 ID_SCOURGE_CARD_141_NAME,Power Dynamics
