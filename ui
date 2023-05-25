@@ -66,6 +66,12 @@ ID_CAMPAIGN_TYPE_DOOM,DOOM
 ID_CAMPAIGN_TYPE_GLOBAL,NEXUS
 ID_CAMPAIGN_TYPE_PROLOGUE,PROLOGUE
 ID_CAMPAIGN_TYPE_VILLAIN,VILLAINS
+ID_CAMPAIGN_TYPE_HERO_HARD,HEROES HARD MODE
+ID_CAMPAIGN_TYPE_VILLAIN_HARD,VILLAINS HARD MODE
+ID_CAMPAIGN_TYPE_GLOBAL_HARD,NEXUS HARD MODE
+ID_CAMPAIGN_TYPE_COSMIC_HARD,COSMIC HARD MODE
+ID_CAMPAIGN_TYPE_MYSTIC_HARD,MYSTIC HARD MODE
+ID_CAMPAIGN_TYPE_DOOM_HARD,DOOM HARD MODE
 ID_CAPPED_MILESTONES_LIMIT,Limit: {curr}/{cap}
 ID_CAPPED_MILESTONES_UNLIMITED,Unlimited
 ID_CHALLENGES_ACCESS,You have unlocked Challenges!
@@ -225,21 +231,25 @@ ID_GAMEMODE_TOWERMODE,Avengers Tower
 ID_GAMEMODE_BATTLEGROUNDS,Arena
 ID_GAMEMODE_STARK_TECH,Alliance Donations
 ID_GAMEMODE_CAMPAIGN_COSMIC,Cosmic Campaign
+ID_GAMEMODE_CAMPAIGN_COSMIC_HARD_DESC,"Revisit Cosmic Conflicts!\n\nGather a strong COSMIC team and face revised missions with stronger foes, deadlier bosses, and all-new rewards!\n\nRecommended:(PLACEHOLDER)"
 ID_GAMEMODE_CAMPAIGN_COSMIC_DESC,"An interstellar, interdimensional battle for the fate of humanity."
 ID_GAMEMODE_CAMPAIGN_COSMIC_NAME,Cosmic Conflicts
 ID_GAMEMODE_CAMPAIGN_DOOM_NAME,Doom War
 ID_GAMEMODE_CAMPAIGN_DOOM_DESC,S.T.R.I.K.E. must stand against the powers of Doctor Doom.
+ID_GAMEMODE_CAMPAIGN_DOOM_HARD_DESC,"Revisit Doom War!\n\nGather the strongest team and face revised missions with stronger foes, deadlier bosses, and all-new rewards!\n\nRecommended:(PLACEHOLDER)"
 ID_GAMEMODE_CAMPAIGN_GLOBAL,Nexus Campaign
+ID_GAMEMODE_CAMPAIGN_GLOBAL_HARD_DESC,"Revisit The Nexus!\n\nGather the strongest team and face revised missions with stronger foes, deadlier bosses, and all-new rewards!\n\nRecommended:(PLACEHOLDER)"
 ID_GAMEMODE_CAMPAIGN_GLOBAL_DESC,Assemble the S.T.R.I.K.E. team to defeat Ultimus.
 ID_GAMEMODE_CAMPAIGN_GLOBAL_NAME,The Nexus
 ID_GAMEMODE_CAMPAIGN_HEROES_DESC,Assemble HEROES to uncover an interdimensional threat.
 ID_GAMEMODE_CAMPAIGN_HEROES_NAME,Heroes Assemble
 ID_GAMEMODE_CAMPAIGN_HEROES_HARD_DESC,"Revisit Heroes Assemble!\n\nGather a strong team of HEROES and face revised missions with stronger foes. deadlier bosses. and all-new rewards!\n\nRecommended: Level 75, 7-Star, Gear 10+"
-ID_GAMEMODE_CAMPAIGN_VILLAINS_HARD_DESC,"Revisit Villains United!\n\nGather a strong team of VILLAINS and face revised missions with stronger foes. deadlier bosses. and all-new rewards!\n\nRecommended: Level 75, 7-Star, Gear 10+"
+ID_GAMEMODE_CAMPAIGN_MYSTIC_HARD_DESC,"Revisit Mystic Forces Rising!\n\nGather a strong MYSTIC team and face revised missions with stronger foes, deadlier bosses, and all-new rewards!\n\nRecommended:(PLACEHOLDER)"
 ID_GAMEMODE_CAMPAIGN_MYSTIC_DESC,Only powerful MYSTIC characters can find a way to drive back the invasion.
 ID_GAMEMODE_CAMPAIGN_MYSTIC_NAME,Mystic Forces Rising
 ID_GAMEMODE_CAMPAIGN_NUE_NAME,Prologue
 ID_GAMEMODE_CAMPAIGN_UNAVAILABLE,Campaign Unavailable
+ID_GAMEMODE_CAMPAIGN_VILLAINS_HARD_DESC,"Revisit Villains United!\n\nGather a strong team of VILLAINS and face revised missions with stronger foes. deadlier bosses. and all-new rewards!\n\nRecommended: Level 75, 7-Star, Gear 10+"
 ID_GAMEMODE_CAMPAIGN_VILLAINS_DESC,Assemble a team of VILLAINS to unite everyone against Ultimus.
 ID_GAMEMODE_CAMPAIGN_VILLAINS_NAME,Villains United
 ID_GAMEMODE_CAMPAIGNS,Campaigns
@@ -1269,7 +1279,7 @@ ID_FRAME_DD5_4_NAME,Dark Dimension V - Tier 4
 ID_FRAME_DD5_5_NAME,Dark Dimension V - Tier 5
 ID_FRAME_APOCALYPSE_1_NAME,Apocalypse Saga
 ID_FRAME_PRIDE_NAME,2023 Pride
-ID_FRAME_PRIDE_UNLOCK,Unlock via the Pride 2023 Celebration Inbox
+ID_FRAME_PRIDE_UNLOCK,Unlock via the Pride 2023 Inbox
 ID_FRAME_PRIDETRANS_NAME,2023 Transexual Pride
 ID_FRAME_PRIDENONBINARY_NAME,2023 Non-Binary Pride
 ID_FRAME_PRIDEBI_NAME,2023 Bisexual Pride

@@ -649,7 +649,9 @@ ID_ISO8_MISSION_2_08_DESC,"Returning to the Helicarrier, once again, with Iso-8 
 ID_ISO8_MISSION_2_09_DESC,Corrupted Scientist Supreme returns to reclaim the things she rightfully stole!
 ID_GAMEMODE_CAMPAIGN_ISO8_NAME,ISOTOPE-8
 ID_GAMEMODE_CAMPAIGN_ISO8_DESC,Assemble a team of characters to find Iso-8 Crystals.
+ID_GAMEMODE_CAMPAIGN_ISO8_HARD_DESC,"Revisit Isotope-8!\n\n Gather the strongest team and face revised missions with stronger foes, deadlier bosses, and all-new rewards!\n\nRecommended: Level 80, 7-Star, Gear 14+, Level 5 Iso-8"
 ID_CAMPAIGN_TYPE_ISO8,"ISOTOPE-8  "
+ID_CAMPAIGN_TYPE_ISO8_HARD,ISOTOPE-8 HARD MODE
 ID_ISO8_COMBAT_TOOLTIP_HEADER,{class} <color=yellow>T{tier}</color> LEVEL <color=yellow>{level}</color>
 ID_GACHA_CRATE_ISO8_T2_L145_NAME,T2 Iso-8 Ion Orb
 ID_GACHA_CRATE_ISO8_T2_L145_DESCRIPTION,Contains T2 Iso-8 Ions
