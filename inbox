@@ -6305,3 +6305,21 @@ ID_ME_BO_SPLASH_ELECTRICBOOGALOO,"Commander,\n\nFor the next 48 hours, win Blitz
 ID_ME_NA_SPLASH_STREETWARRIORS,LIVE: Street Warriors
 ID_ME_DE_SPLASH_STREETWARRIORS,Earn Rock Concert Tickets and Gear!
 ID_ME_BO_SPLASH_STREETWARRIORS,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Gear</color> and <color=#fff568>Rock Concert Tickets</color> for the Korg's Intergalactic Tour!\n\n<color=#fff568>Featured Trait</color>:\nPride\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_EVENT_SPIDERVERSE_TEASER,Incoming: Spider-Verse Under Attack
+ID_ME_DE_EVENT_SPIDERVERSE_TEASER,Ready your roster
+ID_ME_BO_EVENT_SPIDERVERSE_TEASER,"Commander,\n\n<color=#fff568>You're needed for these upcoming missions:</color>\nSpider-Man (Miles) will be leading the charge in five missions across the Spider-Verse, which can be completed in any order and have unlimited attempts.\n\nReady your roster for the challenge...and rewards!"
+ID_ME_NA_EVENT_SPIDERVERSE_ANNOUNCE,Live: Spider-Verse Under Attack
+ID_ME_DE_EVENT_SPIDERVERSE_ANNOUNCE,Complete missions for rewards!
+ID_ME_BO_EVENT_SPIDERVERSE_ANNOUNCE,"Commander,\n\n<color=#fff568>Your assistance needed for these missions:</color>\nSpider-Man (Miles) is leading the charge in five missions across the Spider-Verse, which can be completed in any order and have unlimited attempts.\n\nReady your roster for the challenge...and rewards!"
+ID_ME_NA_EVENT_SPIDERVERSE_ENDING,Spider-Verse Under Attack
+ID_ME_DE_EVENT_SPIDERVERSE_ENDING,Ending Soon!
+ID_ME_BO_EVENT_SPIDERVERSE_ENDING,"Commander,\n\nThe <color=#fff568>Spider-Verse Under Attack</color> missions end soon. Don't miss out on the rewards!\n\nGood luck, Commander."
+ID_ME_NA_COSMO_ECM_TEASER,Coming Soon: To Infinity
+ID_ME_DE_COSMO_ECM_TEASER,Recruit Cosmo!
+ID_ME_BO_COSMO_ECM_TEASER,"Commander,\n\nYou're needed for this upcoming mission:\nJoin <color=#fff568>Cosmo</color> as she leads Knowhere in a high-stakes standoff against a deadly threat.\n\nEach node in the To Infinity Event Campaign rewards <color=#fff568>Intergalactic Orb Fragments</color> that contain select characters with the limited-time <color=#fff568>Intergalactic</color> trait.\n\nFor a list of the characters using this trait, filter your roster using: Intergalactic."
+ID_ME_NA_COSMO_ECM_ANNOUNCE,LIVE: To Infinity
+ID_ME_DE_COSMO_ECM_ANNOUNCE,Recruit Cosmo!
+ID_ME_BO_COSMO_ECM_ANNOUNCE,"Commander,\n\nYou're needed for this important mission:\nJoin <color=#fff568>Cosmo</color> as she leads Knowhere in a high-stakes standoff against a deadly threat.\n\nEach node in the To Infinity Event Campaign rewards <color=#fff568>Intergalactic Orb Fragments</color> that contain select characters with the limited-time <color=#fff568>Intergalactic</color> trait.\n\nFor a list of the characters using this trait, filter your roster using: Intergalactic."
+ID_ME_NA_COSMO_ECM_ENDINGSOON,Ending Soon: To Infinity
+ID_ME_DE_COSMO_ECM_ENDINGSOON,2 Days Left!
+ID_ME_BO_COSMO_ECM_ENDINGSOON,"Commander,\n\nThere's only 2 more days remaining in the <color=#fff568>To Infinity</color> Event Campaign! Hurry and earn Intergalactic Orb Fragments, Gold, gear, and other rewards before the event ends.\n\nGood luck, Commander!"
