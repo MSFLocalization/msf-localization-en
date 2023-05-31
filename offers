@@ -2831,7 +2831,7 @@ ID_OF_DE_STONECOLDSPIDERS_BOOSTER_DAILY_ANCHOR,Make consistent <color=#fff568>St
 ID_OF_DE_STONECOLDSPIDERS_CATCHUP_CONTINGENCY,"Finish strong in the milestones to earn <color=#fff568>Spider-Verse shards</color>, <color=#fff568>Teal Mini Uniques</color> and <color=#fff568>T4 Ability Materials</color>!"
 ID_OF_DE_STONECOLDSPIDERS_CATCHUP_LAST_CHANCE,"Complete your final Stone Cold Spiders milestones before it's too late for more <color=#fff568>Teal Uniques</color> and <color=#fff568>Spider-Verse shards</color>! "
 ID_OF_DE_STONECOLDSPIDERS_CAMPAIGN_ENERGY,Boost your progress in campaigns and the <color=#fff568>Stone Cold Spiders</color> at once!
-ID_OF_DE_STONECOLDSPIDERS_RAID,Blitz through the <color=#fff568>Stone Cold Spiders Milestone</color>!
+ID_OF_DE_STONECOLDSPIDERS_RAID,Raid through the <color=#fff568>Center Stage Spiders Milestone</color>!
 ID_OF_DE_STONECOLDSPIDERS_FREE_CLAIM,Come back daily for more <color=#fff568>Stone Cold Spiders</color> progress!
 ID_OF_DE_STONECOLDSPIDERS_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Stone Cold Spiders</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_RUFFRIFFS_STARTER_MEGA,Ruff Riffs Mega Starter
@@ -2862,3 +2862,39 @@ ID_OF_DE_RUFFRIFFS_INTERSTITIAL,You just unlocked the highest discount deal for 
 ID_OF_NA_HC_CALENDAR,Monthly Power Pass!
 ID_OF_DE_HC_CALENDAR,Obtain a total of 1500 Power Cores across 30 days!
 ID_OF_NA_5X_T2L5_ORB_OFFER,5x Value! T2 Iso-8 Ion Orb Sale!
+ID_OF_NA_SPIDERVERSE_GOLDENERGY,Multiverse Riches
+ID_OF_NA_SPIDERVERSE_SPIDER_AB_RS1,Upgrade the Spider-Verse
+ID_OF_NA_SPIDERVERSE_TRAINING_SPIDERMAN,Friendly Neighborhood Bootcamp
+ID_OF_NA_SPIDERVERSE_NEMESIS,Son of Apocalypse
+ID_OF_NA_0SPIDERVERSE_T2L45_MILES,Radioactive Spiders
+ID_OF_NA_SPIDERVERSE_RS,Multiverse Promotions
+ID_OF_NA_SPIDERVERSE_GOLDANDGEAR,Multiversal Riches
+ID_OF_NA_SPIDERVERSE_ORBBASKET,Multiversal Orb Basket
+ID_OF_NA_0SPIDERVERSE_CINCORERUN,Spider-Verse Mega Sale
+ID_OF_NA_SPIDERVERSE_ENERGY_SPCS,Multiverse Promotions
+ID_OF_NA_SPIDERVERSE_MEGA_SPIDERPUNK,Band Practice
+ID_OF_NA_SPIDERVERSE_UNIONJACK,The British Blaster
+ID_OF_NA_SPIDERVERSE_AGATHA,High Priestess
+ID_OF_NA_SPIDERVERSE_ENERGY_ISO,Super Collider Energy
+ID_OF_NA_SPIDERVERSE_SPIDERS_AB_RS2,Upgrade the Spider-Verse
+ID_OF_NA_SPIDERVERSE_GOLD_TRAINING_DPC,Spider-Verse Starter Pack
+ID_OF_NA_SPIDERVERSE_SPIDERS_GEAR,Spider-Verse Heroes
+ID_OF_NA_SPIDERVERSE_IRONFISTWWII_ISO_A17,K'un-Lun Commando
+ID_OF_DE_SPIDERVERSE_GOLDENERGY,Upgrade characters and farm the latest campaign missions with this special deal!
+ID_OF_DE_SPIDERVERSE_SPIDER_AB_RS1,Strengthen your Tangled Web team and their <color=#ff6622>T4 abilities</color> and dominate Cosmic Crucible!
+ID_OF_DE_SPIDERVERSE_TRAINING_SPIDERMAN,Upgrade your strongest teams with this incredible bundle of <color=#ff6622>Training Modules</color> and gear!
+ID_OF_DE_SPIDERVERSE_NEMESIS,Get <color=#fff568> Nemesis</color> shards and turn foes to ash! Grant Death Seed allies additional Damage and steal enemy Health and redistribute it to Death Seed allies.
+ID_OF_DE_0SPIDERVERSE_T2L45_MILES,Upgrade your top characters' to the <color=#3366cc>highest Iso-8 tiers</color> with this mega deal!
+ID_OF_DE_SPIDERVERSE_RS,Amp up the power of your top teams with these <color=#d10000>discounted Red Stars</color> upgrades!
+ID_OF_DE_SPIDERVERSE_GOLDANDGEAR,Get a golden advantage with this amazing offer!
+ID_OF_DE_SPIDERVERSE_ORBBASKET,Use this basket of bountiful resources to supercharge your roster and take on the next challenge!
+ID_OF_DE_0SPIDERVERSE_CINCORERUN,Power up your <color=#3366cc>Masters of Evil</color> team and dominate Cosmic Crucible with this mega deal!
+ID_OF_DE_SPIDERVERSE_ENERGY_SPCS,Promote your top team's <color=#d10000>discounted Red Stars</color> and crush campaigns with this special deal!
+ID_OF_DE_SPIDERVERSE_MEGA_SPIDERPUNK,"Amp your roster with this special deal on <color=#ffda21>shards, gear and Gold</color>!"
+ID_OF_DE_SPIDERVERSE_UNIONJACK,Power up <color=#fff568>Union Jack</color> with this shard offer! Skillfully pick off enemies from the shadows with this Stealthy Blaster <color=#fff568>Invader</color>!
+ID_OF_DE_SPIDERVERSE_AGATHA,"Get <color=#fff568>{var1} Agatha Harkness</color> shards and create battlefield magic!  Support allies with Deflect, Barrier, and Heals."
+ID_OF_DE_SPIDERVERSE_ENERGY_ISO,Blast through <color=#3366cc>Iso-8</color> levels and campains with this special offer!
+ID_OF_DE_SPIDERVERSE_SPIDERS_AB_RS2,Strengthen your Spider-Army and dominate the game with this multiversal bundle!
+ID_OF_DE_SPIDERVERSE_GOLD_TRAINING_DPC,Power up your top characters with this all-in-one bundle!
+ID_OF_DE_SPIDERVERSE_SPIDERS_GEAR,<color=#3366cc>Stock up on valuable Armory Orbs</color> to take your roster and Spider-Army to the next level!
+ID_OF_DE_SPIDERVERSE_IRONFISTWWII_ISO_A17,"Power up <color=#fff568>Iron Fist (WWII)</color> with this shard offer! Sustain <color=#fff568>Invader</color> allies in Raid with Heals, Barrier, and Revive!"

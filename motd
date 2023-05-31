@@ -1965,7 +1965,7 @@ ID_MOTD_NA_KORG_ANNOUNCE,Ready for Battle: Korg!
 ID_MOTD_DE_KORG_ANNOUNCE,Shield your Knowhere team with a rock solid Protector that revives on ally basic attacks!
 ID_MOTD_DE_KORG_ANNOUNCE2,Open Rock Warrior Orbs to earn shards and unlock this rock solid Protector!
 ID_MOTD_NA_TRIALSANDTRIBULATIONS_ANNOUNCE,LIVE: Trials and Tribulations
-ID_MOTD_DE_TRIALSANDTRIBULATIONS_ANNOUNCE,Earn Dark Promotion Credits and Solar Flare Progress!
+ID_MOTD_DE_TRIALSANDTRIBULATIONS_ANNOUNCE,Earn Dark Promotion Credits and Korg's Intergalactic Tour Progress!
 ID_MOTD_NA_COSMO_TEASER,Coming Soon: Cosmo
 ID_MOTD_DE_COSMO_TEASER,Get ready to unleash Knowhere's psychic Support!
 ID_MOTD_NA_COSMO_ANNOUNCE,Cosmo is Ready for Battle!
@@ -1986,6 +1986,10 @@ ID_MOTD_DE_GEAREDFORGLORY_ANNOUNCE,Earn lots of Armory Orbs and a chance at some
 ID_MOTD_NA_GEAREDFORGLORY_ENDING,Ending Soon: Geared for Glory
 ID_MOTD_DE_GEAREDFORGLORY_ENDING,Don't miss out on tons of Teal Gear
 ID_PUSH_DE_PRIDE_2023,"Celebrate Pride Month with these special, limited time, Pride Player Frames!"
+ID_MOTD_NA_RUFFRIFFS_ANNOUNCE,LIVE: Ruff Riffs
+ID_MOTD_DE_RUFFRIFFS_ANNOUNCE,Give Cosmo and your roster the resource zoomies!
+ID_MOTD_NA_RUFFRIFFS_ENDING,Ending Soon: Ruff Riffs
+ID_MOTD_DE_RUFFRIFFS_ENDING,Earn Red Stars and gear for Cosmo!
 ID_MOTD_NA_EVENT_SPIDERVERSE_TEASER,Incoming: Spider-Verse Under Attack
 ID_MOTD_DE_EVENT_SPIDERVERSE_TEASER,Ready your roster for the challenge...and rewards!
 ID_MOTD_NA_EVENT_SPIDERVERSE_ANNOUNCE,Live: Spider-Verse Under Attack
@@ -1994,3 +1998,9 @@ ID_MOTD_NA_COSMO_ECM_PREVIEW,Coming Soon: To Infinity
 ID_MOTD_DE_COSMO_ECM_PREVIEW,Don't miss your chance to recruit Cosmo!
 ID_MOTD_NA_COSMO_ECM_LIVE,LIVE: To Infinity
 ID_MOTD_DE_COSMO_ECM_LIVE,Recruit Cosmo!
+ID_MOTD_NA_FAMILYBEDROCK_TEASER,Coming Soon: Family Bedrock
+ID_MOTD_DE_FAMILYBEDROCK_TEASER,Make dad proud with resources to grow your roster!
+ID_MOTD_NA_FAMILYBEDROCK_ANNOUNCE,LIVE: Family Bedrock
+ID_MOTD_DE_FAMILYBEDROCK_ANNOUNCE,Earn Red Stars for Quicksilver and Korg shards!
+ID_MOTD_NA_FAMILYBEDROCKWEB_ANNOUNCE,Web Milestone: Classic Rock
+ID_MOTD_DE_FAMILYBEDROCKWEB_ANNOUNCE,Link your account to earn more rewards on web!

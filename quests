@@ -2829,7 +2829,7 @@ ID_QU_S3_BATTLEHARDENED,Level Up Korg
 ID_QU_S4_BATTLEHARDENED,Rank Up Korg
 ID_QU_NA_TRIALSANDTRIBULATIONS,Trials and Tribulations
 ID_QU_SD_TRIALSANDTRIBULATIONS,Be victorious in Cosmic Crucible!
-ID_QU_LM_TRIALSANDTRIBULATIONS,"Gain progress by winning Cosmic Crucible battles (with bonuses for using New Warriors) alongside the other members of your Alliance. You can earn even more progress by spending Power Cores.\n\nRewards include Dark Promotion Credits, Teal Gear Raid Orbs, Origin Gear, and Blazing X-Genes for additional progress in the month-long Solar Flare milestone."
+ID_QU_LM_TRIALSANDTRIBULATIONS,"Gain progress by winning Cosmic Crucible battles (with bonuses for using New Warriors) alongside the other members of your Alliance. You can earn even more progress by spending Power Cores.\n\nRewards include Dark Promotion Credits, Teal Gear Raid Orbs, Origin Gear, and Rock Concert Tickets for additional progress in the month-long Korg's Intergalactic Tour milestone."
 ID_QU_SM_TRIALSANDTRIBULATIONS,Win Cosmic Crucible battles with New Warriors
 ID_QU_S1_TRIALSANDTRIBULATIONS,Win a Cosmic Crucible battle
 ID_QU_S2_TRIALSANDTRIBULATIONS,Win a Cosmic Crucible battle with New Warriors
@@ -2919,3 +2919,30 @@ ID_QU_SC_SPLASH_STREETWARRIORS,Use Pride Characters in Blitz
 ID_QU_S1_SPLASH_STREETWARRIORS,Win Blitz with 3-star or higher Pride Character
 ID_QU_S2_SPLASH_STREETWARRIORS,Win Blitz with 5-star or higher Pride Character
 ID_QU_S3_SPLASH_STREETWARRIORS,Win Blitz with 7-star Pride Character
+ID_QU_NA_RUFFRIFFS,Ruff Riffs
+ID_QU_SD_RUFFRIFFS,Open Intergalactic Orbs and Gold Orbs
+ID_QU_LM_RUFFRIFFS,"Gain progress by opening Intergalactic Orbs, Gold orbs and completing the web milestone, Battle of the Barks"
+ID_QU_SM_RUFFRIFFS,Open Intergalactic Orbs and Gold Orbs
+ID_QU_S1_RUFFRIFFS,Open 1 Intergalactic orb
+ID_QU_S2_RUFFRIFFS,Open 1 Gold Orb
+ID_QU_NA_BATTLEOFTHEBARKS,Battle of the Barks
+ID_QU_SD_BATTLEOFTHEBARKS,Earn Blitz Credits
+ID_QU_LD_BATTLEOFTHEBARKS,Earn Blitz Credits to complete a 7-day milestone that rewards Ruff Riffs Progress
+ID_QU_SM_BATTLEOFTHEBARKS,Earn Blitz Credits
+ID_QU_SC_BATTLEOFTHEBARKS,Earn Blitz Credits
+ID_QU_S1_BATTLEOFTHEBARKS,Earn 1 Blitz Credit
+ID_QU_NA_FAMILYBEDROCK,Family Bedrock
+ID_QU_SD_FAMILYBEDROCK,Open Training Orbs & War with Knowhere
+ID_QU_LD_FAMILYBEDROCK,Open Training Orbs and battle in Alliance War with Knowhere characters to earn these rewards:\n\n- Korg shards\n- Quicksilver Red Stars\n- T2 Level 5 Ions\n- T4 Ability Materials\n- And more!
+ID_QU_SM_FAMILYBEDROCK,Open Training Orbs & War with Knowhere
+ID_QU_SC_FAMILYBEDROCK,Open Training Orbs & War with Knowhere
+ID_QU_S1_FAMILYBEDROCK,Open 1 Training Orb
+ID_QU_S2_FAMILYBEDROCK,War with Knowhere at GT 16+
+ID_QU_S3_FAMILYBEDROCK,War with Knowhere
+ID_QU_S4_FAMILYBEDROCK,Battle in War
+ID_QU_NA_CLASSICROCK,Classic Rock
+ID_QU_SD_CLASSICROCK,Spend Power Cores
+ID_QU_LD_CLASSICROCK,Spend Power Cores to complete a 7-day milestone that rewards Family Bedrock progress!
+ID_QU_SM_CLASSICROCK,Spend Power Cores
+ID_QU_SC_CLASSICROCK,Spend Power Cores
+ID_QU_S1_CLASSICROCK,Spend 1 Power Core
