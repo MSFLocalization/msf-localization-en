@@ -2889,7 +2889,7 @@ ID_OF_DE_SPIDERVERSE_RS,Amp up the power of your top teams with these <color=#d1
 ID_OF_DE_SPIDERVERSE_GOLDANDGEAR,Get a golden advantage with this amazing offer!
 ID_OF_DE_SPIDERVERSE_ORBBASKET,Use this basket of bountiful resources to supercharge your roster and take on the next challenge!
 ID_OF_DE_0SPIDERVERSE_CINCORERUN,Power up your <color=#3366cc>Masters of Evil</color> team and dominate Cosmic Crucible with this mega deal!
-ID_OF_DE_SPIDERVERSE_ENERGY_SPCS,Promote your top team's <color=#d10000>discounted Red Stars</color> and crush campaigns with this special deal!
+ID_OF_DE_SPIDERVERSE_ENERGY_SPCS,Promote your top teams with <color=#d10000>discounted Red Stars</color> and crush campaigns with this special deal!
 ID_OF_DE_SPIDERVERSE_MEGA_SPIDERPUNK,"Amp your roster with this special deal on <color=#ffda21>shards, gear and Gold</color>!"
 ID_OF_DE_SPIDERVERSE_UNIONJACK,Power up <color=#fff568>Union Jack</color> with this shard offer! Skillfully pick off enemies from the shadows with this Stealthy Blaster <color=#fff568>Invader</color>!
 ID_OF_DE_SPIDERVERSE_AGATHA,"Get <color=#fff568>{var1} Agatha Harkness</color> shards and create battlefield magic!  Support allies with Deflect, Barrier, and Heals."
@@ -2898,3 +2898,60 @@ ID_OF_DE_SPIDERVERSE_SPIDERS_AB_RS2,Strengthen your Spider-Army and dominate the
 ID_OF_DE_SPIDERVERSE_GOLD_TRAINING_DPC,Power up your top characters with this all-in-one bundle!
 ID_OF_DE_SPIDERVERSE_SPIDERS_GEAR,<color=#3366cc>Stock up on valuable Armory Orbs</color> to take your roster and Spider-Army to the next level!
 ID_OF_DE_SPIDERVERSE_IRONFISTWWII_ISO_A17,"Power up <color=#fff568>Iron Fist (WWII)</color> with this shard offer! Sustain <color=#fff568>Invader</color> allies in Raid with Heals, Barrier, and Revive!"
+ID_OF_NA_STARLORD_ANNIHILATION_FCO_OFFER,Ragtag Commander
+ID_OF_DE_STARLORD_ANNIHILATION_FCO_OFFER,"Save on <color=#fff568>Elemental Gunslinger Orbs</color>, which contain <color=#fff568>up to 180 Star-Lord (Annihilation)</color> shards. This <color=#fff568>Knowhere</color> Brawler lights up <color=#fff568>War</color> opponents with powerful multi-target attacks and Blind!"
+ID_OF_NA_STARLORD_ANNIHILATION_WEB_SPECIAL_OFFER,Web Special: Star-Lord (Annihilation)
+ID_OF_DE_STARLORD_ANNIHILATION_WEB_SPECIAL_OFFER,"Don't miss this <color=#fff568>Web Special</color> deal for <color=#fff568>Star-Lord (Annihilation)</color> shards, which unlocks special release offers on your next visit! This <color=#fff568>Knowhere</color> Brawler lights up <color=#fff568>War</color> opponents with powerful multi-target attacks and Blind!"
+ID_OF_DE_STARLORD_ANNIHILATION_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Star-Lord (Annihilation)</color> and unlock special release offers on your next visit! This <color=#fff568>Knowhere</color> Brawler lights up <color=#fff568>War</color> opponents with powerful multi-target attacks and Blind!
+ID_OF_DE_STARLORD_ANNIHILATION_OFFER_SHARD,Power up <color=#fff568>Star-Lord (Annihilation)</color> with this shard offer! This <color=#fff568>Knowhere</color> Brawler lights up <color=#fff568>War</color> opponents with powerful multi-target attacks and Blind!
+ID_OF_NA_STARLORD_ANNIHILATION_RS_DRAFT,Red Star Draft: Star-Lord (Annihilation)
+ID_OF_DE_STARLORD_ANNIHILATION_RS_DRAFT_345,"Get an equal chance of either <color=#fff568>3, 4, or 5 Red Stars</color> for <color=#fff568>Star-Lord (Annihilation)</color>. This <color=#fff568>Knowhere</color> Brawler lights up <color=#fff568>War</color> opponents with powerful multi-target attacks and Blind!"
+ID_OF_DE_STARLORD_ANNIHILATION_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, or 6 Red Stars</color> for <color=#fff568>Star-Lord (Annihilation)</color>. This <color=#fff568>Knowhere</color> Brawler lights up <color=#fff568>War</color> opponents with powerful multi-target attacks and Blind!"
+ID_OF_DE_STARLORD_ANNIHILATION_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Star-Lord (Annihilation)</color>. This <color=#fff568>Knowhere</color> Brawler lights up <color=#fff568>War</color> opponents with powerful multi-target attacks and Blind!"
+ID_OF_DE_TEAM_REBIRTH,Overcome challenging Bio Raid nodes by powering up these <color=#fff568>Rebirth</color> team members!
+ID_OF_NA_GWEN_UNIQUE_GEAR,Multiversal Madness: Gear Up Gwen!
+ID_OF_NA_ORB_DROP,Multiversal Madness: Orb Overflow
+ID_OF_NA_BUNDLE_NEW_WARRIOR,Multiversal Madness: Besties
+ID_OF_NA_BUNDLE_ISO8_T2_L5_SMALL,Multiversal Madness: Essential Iso
+ID_OF_NA_DRAFT_NEW_WARRIOR,Multiversal Madness: Portal Draft
+ID_OF_NA_BUNDLE_TRAINING_SMALL,Multiversal Madness: Preparation
+ID_OF_NA_ELITE_4_SMALL,Multiversal Madness: Promotion!
+ID_OF_NA_BUNDLE_INVADER,Multiversal Madness: Invaders
+ID_OF_NA_ISO8_ENERGY,Multiversal Madness: Power Surge
+ID_OF_NA_BUNDLE_PROMOTION_CREDIT_MEDIUM,Multiversal Madness: Rank Up!
+ID_OF_NA_DARFT_IKARIS_SERSI,Multiversal Madness: Cosmic Duo
+ID_OF_NA_CAMPAIGN_ENERGY_SMALL,Multiversal Madness: Energy Burst
+ID_OF_NA_BUNDLE_ABM_SMALL,Multiversal Madness: Skill Surge
+ID_OF_NA_BUNDLE_HORSEMAN_ORB,Multiversal Madness: Harbringers
+ID_OF_NA_DRAFT_MOE,Multiversal Madness: Masters
+ID_OF_NA_SUPER_FIRESTAR_SMALL,Multiversal Madness: Light em up!
+ID_OF_NA_GOLD_SMALL,Multiversal Madness: Lost Riches
+ID_OF_NA_BUNDLE_REBIRTH,Multiversal Madness: Rebirth
+ID_OF_NA_BUNDLE_PROMOTION_CREDIT_SMALL,Multiversal Madness: Red Star Rush
+ID_OF_NA_ELITE_5_SMALL,Multiversal Madness: Elite
+ID_OF_NA_KANG_UNIQUE_GEAR,Multiversal Madness: Future Tech
+ID_OF_NA_BUNDLE_ARMORY17,Multiversal Madness: Suit Up!
+ID_OF_NA_BUNDLE_MEGA_ORB,Multiversal Madness: Mega
+ID_OF_NA_ELITE_7_LARGE,Multiversal Madness: Rank Surge
+ID_OF_NA_BUNDLE_ISO8_T2_L5_MEDIUM,Multiversal Madness: Uncovered Iso
+ID_OF_DE_GWEN_UNIQUE_GEAR,Pick up the essentials to gear up your favorite 4th Wall-Breaking Brawler for challenges from any universe in the <color=#3366cc>Cosmic Crucible</color>.
+ID_OF_DE_ORB_DROP,Some incursions present an opportunity when worlds collide. Secure these stray orbs to power up your roster!
+ID_OF_DE_BUNDLE_NEW_WARRIOR,Give this <color=#3366cc>New Warrior</color> duo a boost to be well prepared for threats from across the Multiverse in <color=#3366cc>Cosmic Crucible</color>.
+ID_OF_DE_BUNDLE_ISO8_T2_L5_SMALL,Get your top teams powered up to take on the threat of Apocalypse with this cache of Iso-8!
+ID_OF_DE_DRAFT_NEW_WARRIOR,"Many possibilities, which can only be discovered if you take the leap! <color=#3366cc>(Tap the icon for details)</color>"
+ID_OF_DE_BUNDLE_TRAINING_SMALL,Only the well prepared can survive threats present across the Multiverse. Take advantage of the chance to level up your roster!
+ID_OF_DE_ELITE_4_SMALL,Give your roster the stat boosts needed to take on whatever the Multiverse can throw at you!
+ID_OF_DE_BUNDLE_INVADER,"Get a boost to your <color=#3366cc>Invader team</color> to help power through the <color=#3366cc>Incursion Raid</color> and earn amazing rewards! "
+ID_OF_DE_ISO8_ENERGY,An overflow of energy is at the ready for you to pick up and power through campaigns!
+ID_OF_DE_BUNDLE_PROMOTION_CREDIT_MEDIUM,Boost the Red Star Rank of your roster with this limited opportunity presented by a rift between worlds.
+ID_OF_DE_DARFT_IKARIS_SERSI,"Power up this cosmic couple and position yourself for victory in <color=#3366cc>Raids, Arena, Dark Dimension,</color> and <color=#3366cc>Cosmic Crucible</color>!"
+ID_OF_DE_CAMPAIGN_ENERGY_SMALL,"Get that needed boost to complete your campaign goals to earn experience, gear, gold, and more!"
+ID_OF_DE_BUNDLE_ABM_SMALL,Level up that critical ability to bring a team together. Or just make your favorite character more of a powerhouse!
+ID_OF_DE_BUNDLE_HORSEMAN_ORB,Secure orbs that contain shards of the Horsemen while the multiversal rift stays open!
+ID_OF_DE_SUPER_FIRESTAR_SMALL,Bring the heat to your opponents in <color=#3366cc>Cosmic Crucible</color> with a boost to this high damage Blazing Blaster!
+ID_OF_DE_GOLD_SMALL,Found from the wreckage of a shattered world. Make use of it so yours doesn't suffer the same fate.
+ID_OF_DE_BUNDLE_REBIRTH,This team knows all too well that the greatest struggles bring the greatest victories. Build them up to <color=#3366cc>overcome tough Bio Raid nodes</color>!
+ID_OF_DE_KANG_UNIQUE_GEAR,There are untold stores of technology across the Multiverse. Secure some to help equip this conqueror to higher gear tiers and crush enemies in <color=#3366cc>Cosmic Crucible</color>.
+ID_OF_DE_BUNDLE_ARMORY17,Perils are around every corner when traveling the Multiverse. Don't venture out without suiting up with the proper gear!
+ID_OF_DE_ELITE_7_LARGE,Take this chance to promote one of your roster members to their highest Red Star Rank! (Duplicate Red Stars for characters at max rank will be converted)
+ID_OF_DE_BUNDLE_ISO8_T2_L5_MEDIUM,A hidden vault of Iso-8 has been uncovered! Power up the teams needed to take on Apocalypse!
