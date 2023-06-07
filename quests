@@ -2937,12 +2937,23 @@ ID_QU_LD_FAMILYBEDROCK,Open Training Orbs and battle in Alliance War with Knowhe
 ID_QU_SM_FAMILYBEDROCK,Open Training Orbs & War with Knowhere
 ID_QU_SC_FAMILYBEDROCK,Open Training Orbs & War with Knowhere
 ID_QU_S1_FAMILYBEDROCK,Open 1 Training Orb
-ID_QU_S2_FAMILYBEDROCK,War with Knowhere at GT 16+
-ID_QU_S3_FAMILYBEDROCK,War with Knowhere
-ID_QU_S4_FAMILYBEDROCK,Battle in War
+ID_QU_S2_FAMILYBEDROCK,Win/Lose 1 War Battle with Star-Lord (Annihilation) at 6-Star
+ID_QU_S3_FAMILYBEDROCK,Win/Lose 1 War Battle with Star-Lord (Annihilation)
+ID_QU_S4_FAMILYBEDROCK,Win/Lose 1 War Battle with Thor (Infinity War) at 6-Star
+ID_QU_S5_FAMILYBEDROCK,Win/Lose 1 War Battle with Thor (Infinity War)
+ID_QU_S6_FAMILYBEDROCK,Win/Lose 1 War Battle
 ID_QU_NA_CLASSICROCK,Classic Rock
 ID_QU_SD_CLASSICROCK,Spend Power Cores
 ID_QU_LD_CLASSICROCK,Spend Power Cores to complete a 7-day milestone that rewards Family Bedrock progress!
 ID_QU_SM_CLASSICROCK,Spend Power Cores
 ID_QU_SC_CLASSICROCK,Spend Power Cores
 ID_QU_S1_CLASSICROCK,Spend 1 Power Core
+ID_QU_NA_TOUGHCROWDS,Tough Crowds
+ID_QU_SD_TOUGHCROWDS,Spend Iso-8 Energy and Win in Crucible
+ID_QU_LM_TOUGHCROWDS,"Bring down the house with rare Gear Tier 18 pieces, powerful Iso-8 resources, and a slick costume during this raucous Event:\n\nTough Crowds Milestone\nRock Cosmic Crucible with New Warriors characters and spend Iso-8 Campaign Energy to rack up points toward a milestone that rewards:\n\n- Gold\n- Elite 6 Credits\n- Dark Dimension VI Countdown Orb\n- Bits to use toward Doctor Octopus's ""No Way Home"" Costume\n\nLeaderboard\nBecome a V.I.P. Commander by climbing the ranks of this Leaderboard and earning the new and very rare Gear Tier 18 Mini-Unique pieces for Skill characters as well as the coveted T2 Level 5 Ions."
+ID_QU_S1_TOUGHCROWDS,Spend 1 Iso-8 Energy
+ID_QU_S2_TOUGHCROWDS,Win with New Warriors in Crucible
+ID_QU_S3_TOUGHCROWDS,Win with New Warriors in Crucible at 5+ Star
+ID_QU_S4_TOUGHCROWDS,Win with New Warriors in Crucible at 6+ Star
+ID_QU_S5_TOUGHCROWDS,Win with New Warriors in Crucible at 7 Star
+ID_QU_S6_TOUGHCROWDS,Earn 1 Tough Crowd Milestone Point
