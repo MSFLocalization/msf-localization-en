@@ -2932,10 +2932,10 @@ ID_QU_SM_BATTLEOFTHEBARKS,Earn Blitz Credits
 ID_QU_SC_BATTLEOFTHEBARKS,Earn Blitz Credits
 ID_QU_S1_BATTLEOFTHEBARKS,Earn 1 Blitz Credit
 ID_QU_NA_FAMILYBEDROCK,Family Bedrock
-ID_QU_SD_FAMILYBEDROCK,Open Training Orbs & War with Knowhere
-ID_QU_LD_FAMILYBEDROCK,Open Training Orbs and battle in Alliance War with Knowhere characters to earn these rewards:\n\n- Korg shards\n- Quicksilver Red Stars\n- T2 Level 5 Ions\n- T4 Ability Materials\n- And more!
-ID_QU_SM_FAMILYBEDROCK,Open Training Orbs & War with Knowhere
-ID_QU_SC_FAMILYBEDROCK,Open Training Orbs & War with Knowhere
+ID_QU_SD_FAMILYBEDROCK,Open Training Orbs & Battle in War
+ID_QU_LD_FAMILYBEDROCK,Open Training Orbs and battle in Alliance War with Star-Lord (Annihilation) and Thor (Infinity War) to earn these rewards:\n\n- Korg shards\n- Quicksilver Red Stars\n- T2 Level 5 Ions\n- T4 Ability Materials\n- And more!
+ID_QU_SM_FAMILYBEDROCK,Open Training Orbs & Battle in War
+ID_QU_SC_FAMILYBEDROCK,Open Training Orbs & Battle in War
 ID_QU_S1_FAMILYBEDROCK,Open 1 Training Orb
 ID_QU_S2_FAMILYBEDROCK,Win/Lose 1 War Battle with Star-Lord (Annihilation) at 6-Star
 ID_QU_S3_FAMILYBEDROCK,Win/Lose 1 War Battle with Star-Lord (Annihilation)
@@ -2957,3 +2957,21 @@ ID_QU_S3_TOUGHCROWDS,Win with New Warriors in Crucible at 5+ Star
 ID_QU_S4_TOUGHCROWDS,Win with New Warriors in Crucible at 6+ Star
 ID_QU_S5_TOUGHCROWDS,Win with New Warriors in Crucible at 7 Star
 ID_QU_S6_TOUGHCROWDS,Earn 1 Tough Crowd Milestone Point
+ID_QU_NA_OUTLAWENCORE,Outlaw Encore
+ID_QU_SD_OUTLAWENCORE,Earn Outlaw Stash Orb Fragments
+ID_QU_LD_OUTLAWENCORE,"Earn Outlaw Stash Orb Fragments by battling in Blitz and from the Space Shredder and Infamous Front Man Milestones to earn points.\n\nRewards include: Star-Lord (Annihilation) character shards, Rock Concert Tickets, Sakaaran Laser Rifle, Teal Mini-Uniques, Gold Promotion Credits and more! "
+ID_QU_SM_OUTLAWENCORE,Earn Outlaw Stash Orb Fragments in Blitz
+ID_QU_SC_OUTLAWENCORE,Earn Outlaw Stash Orb Fragments in Blitz
+ID_QU_S1_OUTLAWENCORE,Earn 1 Outlaw Stash Orb Fragment
+ID_QU_NA_SPACESHREDDER,Space Shredder
+ID_QU_SD_SPACESHREDDER,Spend Power Cores
+ID_QU_LD_SPACESHREDDER,Spend Power Cores to earn points toward this 7-day milestone that rewards Outlaw Stash Orb Fragments and more!
+ID_QU_SM_SPACESHREDDER,Spend Power Cores
+ID_QU_SC_SPACESHREDDER,Spend Power Cores
+ID_QU_S1_SPACESHREDDER,Spend 1 Power Core
+ID_QU_NA_INFAMOUSFRONTMAN,Infamous Front Man
+ID_QU_SD_INFAMOUSFRONTMAN,Spend Campaign Energy
+ID_QU_LD_INFAMOUSFRONTMAN,Spend Campaign Energy to hit this daily milestone that rewards Outlaw Stash Orb Fragments!
+ID_QU_SM_INFAMOUSFRONTMAN,Spend Campaign Energy
+ID_QU_SC_INFAMOUSFRONTMAN,Spend Campaign Energy
+ID_QU_S1_INFAMOUSFRONTMAN,Spend 1 Campaign Energy
