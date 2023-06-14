@@ -194,6 +194,11 @@ ID_OF_NA_COSTUME_NAMOR_TALOKAN,Talokan Costume Offer
 ID_OF_DE_COSTUME_NAMOR_TALOKAN_THEATER,"Unleash the power of the ocean! Transform <color=#fff568>Namor</color> into the King of Talokan with either bundle! Black Panther: Wakanda Forever, Now in Theaters"
 ID_OF_DE_COSTUME_NAMOR_TALOKAN_DPLUS,"Unleash the power of the ocean! Transform <color=#fff568>Namor</color> into the King of Talokan with either bundle! Black Panther: Wakanda Forever, Streaming on Disney+"
 ID_OF_STOREBAR_COSTUME_NAMOR,Namor Costume Offer
+ID_OF_NA_COSTUME_VALKYRIE_KINGOFASGARD,King of Asgard Costume Offer
+ID_OF_DE_COSTUME_VALKYRIE_KINGOFASGARD,"Reign with style! Transform <color=#fff568>Valkyrie</color> into the King of Asgard with either bundle! Thor: Love and Thunder, Streaming on Disney+"
+ID_OF_STOREBAR_COSTUME_VALKYRIE_KINGOFASGARD,Valkyrie Costume Offer
+ID_OF_NA_COSTUME_DEADPOOL_XFORCE,X-Force Costume Offer
+ID_OF_DE_COSTUME_DEADPOOL_XFORCE,Take advantage of this spectacular offer and acquire Deadpool's <color=#fff568>X-Force</color> costume!
 ID_OF_NA_PEST_WEB_BUNDLE,Pestilence Orb Bundle
 ID_OF_DE_PEST_BUNDLES,"Get Morgan Le Fay to the next Star Level with this bundle! Get {var1}% off when you purchase these {var2} Pestilence Orbs! Each Orb has a chance to grant 100 shards of the Horsemen of Pestilence herself, Morgan Le Fay!"
 ID_OF_NA_PEST_EARLYBIRD,Pestilence Orb Intro Bundle
@@ -3006,3 +3011,31 @@ ID_OF_NA_TOUGHCROWDS_CATCHUP,Tough Crowds Catch-Up Bundle
 ID_OF_DE_TOUGHCROWDS_CATCHUP,"Finish strong in the <color=#fff568>Tough Crowds</color> Milestone for <color=#fff568>Elite 6 Credits</color>, <color=#fff568>Gold Promotion Credits</color> and more!"
 ID_OF_NA_TOUGHCROWDS_LASTCHANCE,Tough Crowds Last Chance Bundle
 ID_OF_DE_TOUGHCROWDS_LASTCHANCE,Complete your final Tough Crowds milestones before it's too late!
+ID_OF_DE_TRAINING_UNLOCK1,Pick up this special Training Module offer to train up your new character!
+ID_OF_NA_OUTLAWENCORE_STARTER_MEDIUM,Outlaw Encore Starter Bundle
+ID_OF_NA_OUTLAWENCORE_STARTER_SUPER,Outlaw Encore Super Starter
+ID_OF_NA_OUTLAWENCORE_STARTER_MEGA,Outlaw Encore Mega Starter
+ID_OF_NA_OUTLAWENCORE_MEGA,Outlaw Web Special Bundle
+ID_OF_NA_OUTLAWENCORE_HC_BUNDLE,Outlaw Pack Bundle
+ID_OF_NA_OUTLAWENCORE_DAILY_ORB,Daily Outlaw Stash Pack
+ID_OF_NA_OUTLAWENCORE_LASTCHANCE,Outlaw Encore Last Chance Booster
+ID_OF_NA_OUTLAWENCORE_CATCHUP_1,Outlaw Encore Catch-Up Bundle
+ID_OF_NA_OUTLAWENCORE_CATCHUP_2,Outlaw Encore Super Catch-Up
+ID_OF_NA_OUTLAWENCORE_DAILY_ENERGY,Daily Outlaw Energy
+ID_OF_NA_OUTLAWENCORE_BLITZ,Blinding Blaster Blitz Pack
+ID_OF_NA_OUTLAWENCORE_DAILYFREE,Outlaw Encore Daily Gift
+ID_OF_NA_OUTLAWENCORE_DAILYINSTERSTITIAL,Outlaw Encore Web Special
+ID_OF_NA_OUTLAWENCORE_HC,Outlaw Encore Power Pack
+ID_OF_NA_OUTLAWENCORE_DIRECTSHARDS,Renegade Recruitment
+ID_OF_DE_OUTLAWENCORE_STARTER_VAR,Hit the ground running with <color=#fff568>{var1} Outlaw Stash Orbs</color> and more with this offer! Get a head start of {var2} points in the <color=#fff568>Outlaw Encore Milestone</color> now.
+ID_OF_DE_OUTLAWENCORE_MEGA,Drum up <color=#fff568>Outlaw Encore Milestone</color> progress and extra <color=#fff568>Star-Lord (Annihilation)</color> shards with this spectacular deal!
+ID_OF_DE_OUTLAWENCORE_HC_BUNDLE,Power through the <color=#fff568>Space Shredder Milestone</color> with a bunch of extra goodies!
+ID_OF_DE_OUTLAWENCORE_DAILY_ORB,Don't miss this daily <color=#fff568>Outlaw Stash Orb</color> offer to rock your roster and roll through <color=#fff568>Outlaw Encore Milestone</color> progress!
+ID_OF_DE_OUTLAWENCORE_LASTCHANCE,Need a final boost to finish <color=#fff568>Outlaw Encore Milestone</color>? Don't miss out on this offer!
+ID_OF_DE_OUTLAWENCORE_CATCHUP,Take advantage of this spectacular deal to get through the end of <color=#fff568>Outlaw Encore Milestone</color> and get your final rewards!
+ID_OF_DE_OUTLAWENCORE_DAILY_ENERGY,Boost your progress in campaigns and the <color=#fff568>Infamous Front Man Milestone</color> at once!
+ID_OF_DE_OUTLAWENCORE_BLITZ,Supercharge your dance moves and earn more <color=#fff568>Outlaw Stash Orb Fragments</color> in Blitz!
+ID_OF_DE_OUTLAWENCORE_DAILYFREE,Claim this gift for progress in <color=#fff568>Outlaw Encore Milestone</color>. Don't miss out on the one-time offer after claiming this gift!
+ID_OF_DE_OUTLAWENCORE_DAILYINSTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Outlaw Encore Milestone</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_OUTLAWENCORE_HC,Claim this special deal with your Power Cores for more <color=#fff568>Space Shredder Milestone</color> progress!
+ID_OF_DE_OUTLAWENCORE_DIRECTSHARDS,Get additional shards for Knowhere's Blinding Blaster!
