@@ -22,7 +22,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 8:30AM (PDT) (6/8).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 12:00PM (PDT) (6/21).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -2030,8 +2030,9 @@ ID_MOTD_NA_STANDPROUDTOGETHER_TEASER,"Coming Soon: Stand Proud, Together"
 ID_MOTD_DE_STANDPROUDTOGETHER_TEASER,Dark Dimension VI Countdown Orbs and more!
 ID_MOTD_NA_STANDPROUDTOGETHER_LIVE,"LIVE: Stand Proud, Together"
 ID_MOTD_DE_STANDPROUDTOGETHER_LIVE,Stand united with your Alliance!
-ID_MOTD_NA_VAHL_TEASER,Coming Soon: Vahl
-ID_MOTD_DE_VAHL_TEASER,The Primordial Asgardian is sharpening their sword for the Incursion Raids!
-ID_MOTD_NA_VAHL_ANNOUNCE,Ready for Battle: Vahl!
-ID_MOTD_DE_VAHL_ANNOUNCE,Lead Bifrost to Incursion Raid victory with the new Exposed effect!
-ID_MOTD_DE_VAHL_ANNOUNCE2,Open Last Asgardian Orbs to earn shards for Bifrost's keystone Brawler!
+ID_MOTD_NA_THUNDEROUSAPPLAUSE_TEASER,Coming Soon: Thunderous Applause
+ID_MOTD_DE_THUNDEROUSAPPLAUSE_TEASER,"Earn the Goat Boat Van, Iso-8, and more!"
+ID_MOTD_NA_THUNDEROUSAPPLAUSE_ANNOUNCE,LIVE: Thunderous Applause
+ID_MOTD_DE_THUNDEROUSAPPLAUSE_ANNOUNCE,War with Knowhere and spend Iso-8 Campaign Energy!
+ID_MOTD_NA_THUNDEROUSAPPLAUSE_ENDING,ENDING: Thunderous Applause
+ID_MOTD_DE_THUNDEROUSAPPLAUSE_ENDING,Hurry and earn the Goat Boat Van!
