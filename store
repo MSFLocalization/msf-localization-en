@@ -8445,3 +8445,7 @@ ID_GACHA_CRATE_SHOOTINGSTAR_NAME,Shooting Star Orb
 ID_GACHA_CRATE_SHOOTINGSTAR_DESCRIPTION,"Open for Training Modules, T2 Level 1 & 4 Ions, and progress in the Shooting Stars Milestone"
 ID_GACHA_CRATE_SHOOTINGSTAR_TOKEN_NAME,Shooting Star Orb Fragments
 ID_GACHA_CRATE_SHOOTINGSTAR_TOKEN_DESCRIPTION,"Collect Fragments for orbs containing Training Modules, T2 Level 1 & 4 Ions, and progress in the Shooting Stars Milestone"
+ID_GACHA_CRATE_OUTLAW_NAME,Outlaw Stash Orb
+ID_GACHA_CRATE_OUTLAW_DESCRIPTION,"Contains Star-Lord (Annihilation) shards, Gold and gear!"
+ID_GACHA_CRATE_OUTLAW_TOKEN_NAME,Outlaw Stash Orb Fragments
+ID_GACHA_CRATE_OUTLAW_TOKEN_DESCRIPTION,"Open Outlaw Stash Orbs for Star-Lord (Annihilation) shards, Gold and gear!"

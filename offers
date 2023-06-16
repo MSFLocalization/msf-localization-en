@@ -3039,3 +3039,17 @@ ID_OF_DE_OUTLAWENCORE_DAILYFREE,Claim this gift for progress in <color=#fff568>O
 ID_OF_DE_OUTLAWENCORE_DAILYINSTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Outlaw Encore Milestone</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_OUTLAWENCORE_HC,Claim this special deal with your Power Cores for more <color=#fff568>Space Shredder Milestone</color> progress!
 ID_OF_DE_OUTLAWENCORE_DIRECTSHARDS,Get additional shards for Knowhere's Blinding Blaster!
+ID_OF_NA_WEREINTHISTOGETHER,We're In This Together Premium Miletsone
+ID_OF_DE_WEREINTHISTOGETHER,"<color=#fff568>First of its kind!</color> Unlock the <color=#fff568>We're In This Together</color> Premium Milestone with this Purchase. Donate to your Alliance and/or Spend Campaign Energy to earn rewards like: 6 Red Star Nico Minoru, Elite 4 & 5 Credits, Proud Character Shards, and 1 Million Gold!"
+ID_OF_NA_VAHL_FCO_OFFER,Primordial Asgardian
+ID_OF_DE_VAHL_FCO_OFFER,"Save on <color=#fff568>Last Asgardian Orbs</color>, containing <color=#fff568>up to 180 Vahl</color> shards. Lead <color=#fff568>Bifrost</color> to victory on Incursion Raid Mystic Nodes with their keystone Brawler and the <color=#fff568>new Exposed effect</color>!"
+ID_OF_NA_VAHL_WEB_SPECIAL_OFFER,Web Special: Vahl
+ID_OF_DE_VAHL_WEB_SPECIAL_OFFER,"Don't miss this limited deal for <color=#fff568>Vahl</color> shards, which unlocks special release offers on your next visit! Lead <color=#fff568>Bifrost</color> to Incursion Raid victory on Mystic nodes with their keystone Brawler and the <color=#fff568>new Exposed effect</color>! "
+ID_OF_DE_VAHL_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Vahl</color> and unlock special release offers on your next visit! Lead <color=#fff568>Bifrost</color> to Incursion Raid victory on Mystic nodes with their keystone Brawler and the <color=#fff568>new Exposed effect</color>! "
+ID_OF_DE_VAHL_OFFER_SHARD,"Power up <color=#fff568>Vahl</color> with this shard offer! Lead <color=#fff568>Bifrost</color> to Incursion Raid victory on Mystic nodes with their keystone Brawler and the <color=#fff568>new Exposed effect</color>! "
+ID_OF_NA_VAHL_RS_DRAFT,Red Star Draft: Vahl
+ID_OF_DE_VAHL_RS_DRAFT_345,"Get an equal chance of either <color=#fff568>3, 4, or 5 Red Stars</color> for <color=#fff568>Vahl</color>. Lead <color=#fff568>Bifrost</color> to Incursion Raid victory on Mystic nodes with their keystone Brawler and the <color=#fff568>new Exposed effect</color>! "
+ID_OF_DE_VAHL_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, or 6 Red Stars</color> for <color=#fff568>Vahl</color>. Lead <color=#fff568>Bifrost</color> to Incursion Raid victory on Mystic nodes with their keystone Brawler and the <color=#fff568>new Exposed effect</color>! "
+ID_OF_DE_VAHL_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Vahl</color>. Lead <color=#fff568>Bifrost</color> to Incursion Raid victory on Mystic nodes with their keystone Brawler and the <color=#fff568>new Exposed effect</color>! "
+ID_OF_NA_BIFROST_TEAM_OFFER,Bifrost Team Bundle
+ID_OF_DE_BIFROST_TEAM_OFFER,Power through Incursion Raid Mystic nodes by bolstering these <color=#fff568>Bifrost</color> team members!
