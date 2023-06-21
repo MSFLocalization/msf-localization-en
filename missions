@@ -3037,6 +3037,22 @@ ID_MIS_INCURSION05_08_NAME_TD,Five Test Dummies
 ID_MIS_INCURSION05_08_DESC_TD,Test the Invaders against five very slow enemies with massive health.
 ID_MIS_INCURSION05_09_NAME_TD,Invaders vs The Black Order
 ID_MIS_INCURSION05_09_DESC_TD,Battle a very powerful enemy team.
+ID_MIS_INCURSION06_01_NAME,The Last Asgardian
+ID_MIS_INCURSION06_01_DESC,In a dead universe the last Asgardian searches for vengeance.
+ID_MIS_INCURSION06_02_NAME,A Complicated Question
+ID_MIS_INCURSION06_02_DESC,An unexpected visitor leads Vahl to the next step of their revenge.
+ID_MIS_INCURSION06_03_NAME,Meanwhile on Nexus Earth...
+ID_MIS_INCURSION06_03_DESC,With variants popping up all over the world the New Warriors step in to help.
+ID_MIS_INCURSION06_04_NAME,I Want to Speak To Your Manager
+ID_MIS_INCURSION06_04_DESC,The Hellacarrier turns out to be hella crowded with enemies.
+ID_MIS_INCURSION06_05_NAME,Workin' For Fury
+ID_MIS_INCURSION06_05_DESC,Vahl and the New Warriors find themselves working for S.T.R.I.K.E.
+ID_MIS_INCURSION06_06_NAME,Variant Variability
+ID_MIS_INCURSION06_06_DESC,The team continues to track dangerous variants.
+ID_MIS_INCURSION06_07_NAME,Variant Variability II
+ID_MIS_INCURSION06_07_DESC,The last of the variants on Fury's list get introduced to the Last Asgardian...'s sword.
+ID_MIS_INCURSION06_08_NAME,Locating Loki
+ID_MIS_INCURSION06_08_DESC,Vahl has an idea. Loki's not into it.
 ID_MISSION_RAID_INCURSION_BIO01_NAME,Bio Mission 1
 ID_MISSION_RAID_INCURSION_BIO02_NAME,Bio Mission 2
 ID_MISSION_RAID_INCURSION_BIOBOSS_NAME,Bio Boss
@@ -3053,6 +3069,24 @@ ID_MISSION_RAID_INCURSION_TECH01_NAME,Tech Mission 1
 ID_MISSION_RAID_INCURSION_TECH02_NAME,Tech Mission 2
 ID_MISSION_RAID_INCURSION_TECHBOSS_NAME,Tech Boss
 ID_MISSION_RAID_INCURSION_FINALBOSS_NAME,Final Boss
+ID_MIS_INCURSION10_01_NAME_TD,Bifrost vs. Asgardians
+ID_MIS_INCURSION10_01_DESC_TD,Battle Asgardians!
+ID_MIS_INCURSION10_02_NAME_TD,Bifrost vs. Spiders
+ID_MIS_INCURSION10_02_DESC_TD,Battle Spider-People!
+ID_MIS_INCURSION10_03_NAME_TD,Doom III Raid - Mystic 1
+ID_MIS_INCURSION10_03_DESC_TD,See how the Bifrost team fares in a sample Mystic battle from the Doom III raid.
+ID_MIS_INCURSION10_04_NAME_TD,Doom III Raid - Mystic 2
+ID_MIS_INCURSION10_04_DESC_TD,See how the Bifrost team fares in a sample Mystic battle from the Doom III raid.
+ID_MIS_INCURSION10_05_NAME_TD,Doom III Raid - Mystic Boss
+ID_MIS_INCURSION10_05_DESC_TD,See how the Bifrost team fares in a sample Mystic boss battle from the Doom III raid.
+ID_MIS_INCURSION10_06_NAME_TD,Incursion Raid - Mystic 1
+ID_MIS_INCURSION10_06_DESC_TD,See how Bifrost handles a sample battle from the Incursion Raid.
+ID_MIS_INCURSION10_07_NAME_TD,Incursion Raid - Mystic 2
+ID_MIS_INCURSION10_07_DESC_TD,See how Bifrost handles a sample battle from the Incursion Raid.
+ID_MIS_INCURSION10_08_NAME_TD,Incursion Raid - Mystic Boss
+ID_MIS_INCURSION10_08_DESC_TD,See how Bifrost handles the Mystic boss from the Incursion raid.
+ID_MIS_INCURSION10_09_NAME_TD,Bifrost vs. Dark Mystics
+ID_MIS_INCURSION10_09_DESC_TD,Battle a very powerful enemy team.
 ID_FL_SPIDERVERSE_01_NAME,Sinister Mayhem
 ID_FL_SPIDERVERSE_01_DESC,Help Miles Morales take on some familiar faces.
 ID_FL_SPIDERVERSE_02_NAME,Symbiote Surprise

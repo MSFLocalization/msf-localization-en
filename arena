@@ -224,6 +224,13 @@ ID_AR_MT_BEAST,LIVE: Azure Animal Blitz
 ID_AR_MS_BEAST,Your chance to win Beast shards!
 ID_AR_MB_BEAST,"<color=#fff568>Azure Animal Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Beast shards!\n\n<color=#fff568>Azure Animal Orb</color>\nFor a limited time, a new Azure Animal Orb is available in the Store. The orb contains <color=#fff568>only Beast shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Beast now!"
 ID_AR_NA_BEAST_CARD,Azure Animal
+ID_AR_NA_BETARAYBILL,Star Master
+ID_AR_SM_BETARAYBILL,Win Beta Ray Bill Shards!
+ID_AR_LM_BETARAYBILL,Face off against other players' teams to earn various milestone rewards and a chance to win Beta Ray Bill shards!
+ID_AR_MT_BETARAYBILL,LIVE: Star Master Blitz
+ID_AR_MS_BETARAYBILL,Your chance to win Beta Ray Bill shards!
+ID_AR_MB_BETARAYBILL,"<color=#fff568>Star Master Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Beta Ray Bill shards!\n\n<color=#fff568>Star Master Orb</color>\nFor a limited time, a new Star Master Orb is available in the Store. The orb contains <color=#fff568>only Beta Ray Bill shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Beta Ray Bill now!"
+ID_AR_NA_BETARAYBILL_CARD,Star Master
 ID_AR_NA_BISHOP,Marked Man
 ID_AR_SM_BISHOP,Win Bishop Shards!
 ID_AR_LM_BISHOP,Face off against other players' teams to earn various milestone rewards and a chance to win Bishop shards!
@@ -721,6 +728,13 @@ ID_AR_MT_SYBIL,LIVE: S.T.R.I.K.E. Leader Blitz
 ID_AR_MS_SYBIL,Your chance to win Kestrel shards!
 ID_AR_MB_SYBIL,"<color=#fff568>S.T.R.I.K.E. Leader Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Kestrel shards!\n\n<color=#fff568>S.T.R.I.K.E. Leader Orb</color>\nFor a limited time, a new S.T.R.I.K.E. Leader Orb is available in the Store. The orb contains <color=#fff568>only Kestrel shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Kestrel now!"
 ID_AR_NA_SYBIL_CARD,S.T.R.I.K.E. Leader
+ID_AR_NA_LOKITEEN,Prince of Asgard
+ID_AR_SM_LOKITEEN,Win Loki (Teen) Shards!
+ID_AR_LM_LOKITEEN,Face off against other players' teams to earn various milestone rewards and a chance to win Loki (Teen) shards!
+ID_AR_MT_LOKITEEN,LIVE: Prince of Asgard Blitz
+ID_AR_MS_LOKITEEN,Your chance to win Loki (Teen) shards!
+ID_AR_MB_LOKITEEN,"<color=#fff568>Prince of Asgard Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Loki (Teen) shards!\n\n<color=#fff568>Prince of Asgard Orb</color>\nFor a limited time, a new Prince of Asgard Orb is available in the Store. The orb contains <color=#fff568>only Loki (Teen) shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Loki (Teen) now!"
+ID_AR_NA_LOKITEEN_CARD,Prince of Asgard
 ID_AR_NA_KILLMONGER,Rival King
 ID_AR_SM_KILLMONGER,Win Killmonger Shards!
 ID_AR_LM_KILLMONGER,Face off against other players' teams to earn various milestone rewards and a chance to win Killmonger shards!
@@ -1347,6 +1361,13 @@ ID_AR_MT_SWARM,LIVE: Bzzzz Blitz
 ID_AR_MS_SWARM,Your chance to win Swarm shards!
 ID_AR_MB_SWARM,"<color=#fff568>Bzzzz Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Swarm shards!\n\n<color=#fff568>Bzzzz Orb</color>\nFor a limited time, a new Bzzzz Orb is available in the Store. The orb contains <color=#fff568>only Swarm shards</color> and guarantees at least 6 shards with a chance to win <color=#fff568>up to 180</color>! Recruit Swarm now!"
 ID_AR_NA_SWARM_CARD,Bzzzz
+ID_AR_NA_SYLVIE,Enchantress
+ID_AR_SM_SYLVIE,Win Sylvie Shards!
+ID_AR_LM_SYLVIE,Face off against other players' teams to earn various milestone rewards and a chance to win Sylvie shards!
+ID_AR_MT_SYLVIE,LIVE: Enchantress Blitz
+ID_AR_MS_SYLVIE,Your chance to win Sylvie shards!
+ID_AR_MB_SYLVIE,"<color=#fff568>Enchantress Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Sylvie shards!\n\n<color=#fff568>Enchantress Orb</color>\nFor a limited time, a new Enchantress Orb is available in the Store. The orb contains <color=#fff568>only Sylvie shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Sylvie now!"
+ID_AR_NA_SYLVIE_CARD,Enchantress
 ID_AR_NA_SYMBIOTESPIDERMAN,Back In Black
 ID_AR_SM_SYMBIOTESPIDERMAN,Win Spider-Man (Symbiote) Shards!
 ID_AR_LM_SYMBIOTESPIDERMAN,Face off against other players' teams to earn various milestone rewards and a chance to win Spider-Man (Symbiote) shards!
@@ -1431,6 +1452,13 @@ ID_AR_MT_USAGENT,LIVE: American Patriot Blitz
 ID_AR_MS_USAGENT,Your chance to win U.S. Agent shards!
 ID_AR_MB_USAGENT,"<color=#fff568>American Patriot Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win U.S. Agent shards!\n\n<color=#fff568>American Patriot Orb</color>\nFor a limited time, a new American Patriot Orb is available in the Store. The orb contains <color=#fff568>only U.S. Agent shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit U.S. Agent now!"
 ID_AR_NA_USAGENT_CARD,American Patriot
+ID_AR_NA_VAHL,Last Asgardian
+ID_AR_SM_VAHL,Win Vahl Shards!
+ID_AR_LM_VAHL,Face off against other players' teams to earn various milestone rewards and a chance to win Vahl shards!
+ID_AR_MT_VAHL,LIVE: Last Asgardian Blitz
+ID_AR_MS_VAHL,Your chance to win Vahl shards!
+ID_AR_MB_VAHL,"<color=#fff568>Last Asgardian Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Vahl shards!\n\n<color=#fff568>Last Asgardian Orb</color>\nFor a limited time, a new Last Asgardian Orb is available in the Store. The orb contains <color=#fff568>only Vahl shards</color> and guarantees at least 6 shards with a chance to earn <color=#fff568>up to 180</color>! Recruit Vahl now!"
+ID_AR_NA_VAHL_CARD,Last Asgardian
 ID_AR_NA_VALKYRIE,Seer of the Slain
 ID_AR_SM_VALKYRIE,Win Valkyrie Shards!
 ID_AR_LM_VALKYRIE,Face off against other players' teams to earn various milestone rewards and a chance to win Valkyrie shards!

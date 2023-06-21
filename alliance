@@ -57,7 +57,7 @@ ID_ALLIANCE_USER_REQUESTED_JOIN,{player} has requested to join your alliance.
 ID_ALLIANCE_APPROVE,APPROVE
 ID_ALLIANCE_WELCOME,Welcome to your new alliance! Join your new allies in the war to protect Earth.
 ID_ALLIANCE_CONFIRM_JOIN_TITLE,CHANGE YOUR ALLIANCE?
-ID_ALLIANCE_CONFIRM_JOIN_BODY,"Confirm that you would like to leave {current_alliance} and join {new_alliance}.\n\nYou will not be able to claim rewards earned by your former alliance, and your raid key contributions will be paused for 24 hours."
+ID_ALLIANCE_CONFIRM_JOIN_BODY,Confirm that you would like to leave {current_alliance} and join {new_alliance}.\n\nYou will not be able to claim rewards earned by your former alliance.
 ID_ALLIANCE_CONFIRM_REQUEST_JOIN_BODY,"Confirm that you would like to request to join {new_alliance}. If approved, you will leave your current alliance, {current_alliance}."
 ID_ALLIANCE_CONFIRM_INVITE_TITLE,INVITE PLAYER?
 ID_ALLIANCE_CONFIRM_INVITE_BODY,Confirm that you would like to invite {user} to join {alliance}.
@@ -162,7 +162,7 @@ ID_ALLIANCE_RAIDS_JOIN_NOW,Join Now!
 ID_ALLIANCE_VIEW_HELICARRIER,View Helicarrier
 ID_ALLIANCE_RETURN_TO_CARRIER,RETURN TO CARRIER
 ID_ALLIANCE_RAID_KEY_POPUP_TITLE,RAID KEYS
-ID_ALLIANCE_RAID_KEY_POPUP_DESC,"Raid Keys are used to launch raids. 1 Raid Key is generated for each Campaign Energy spent, with a max amount that can be generated per day."
+ID_ALLIANCE_RAID_KEY_POPUP_DESC,"Raid Keys are used to launch raids. 14,000 Raid Keys are generated for your alliance each day."
 ID_ALLIANCE_LEVEL,Alliance Level: {level}
 ID_ALLIANCE_ROOM_MINIONS,Guard
 ID_ALLIANCE_ROOM_LEADERBOARD_SUFFIX,{room} Leaderboard
@@ -343,7 +343,7 @@ ID_ALLIANCE_CHAT_ACHIEVE_INSANITY,{nameUser} has beaten {insanityEvent}
 ID_ALLIANCE_CHAT_ACHIEVE_BLITZ,{nameUser} has placed #{rankBlitz} in Blitz!
 ID_ALLIANCE_CHAT_ACHIEVE_GOLD,{nameUser} has pulled {goldAmt} million Gold from the Gold Orb!
 ID_ALLIANCE_CHAT_ACHIEVE_LOYALTY,{nameUser} has ranked up {charName} to 7 Stars!
-ID_ALLIANCE_CHAT_ACHIEVE_ABILITY,{nameUser} has upgraded {abilityName} ability for {charName} to ability level {abilityLvl}!
+ID_ALLIANCE_CHAT_ACHIEVE_ABILITY,{nameUser} has upgraded the {abilityName} ability for {charName} to ability level {abilityLvl}!
 ID_ALLIANCE_CHAT_ACHIEVE_ISO_SKILL,{nameUser} has upgraded {treeId} for {charName} to {tierPhrase}!
 ID_ALLIANCE_CHAT_ISO_TIER,Tier {tier} Level {isoLvl}
 ID_AL_MB_NA_KICK,ALLIANCE KICK

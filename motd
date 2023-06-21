@@ -22,7 +22,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 12:00PM (PDT) (6/21).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PDT) (04/25).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -424,6 +424,8 @@ ID_MOTD_NA_BARONZEMO,Son of Evil: Now Live!
 ID_MOTD_DE_BARONZEMO,Battle for a chance to win Baron Zemo shards
 ID_MOTD_NA_BEAST,Azure Animal: Now Live!
 ID_MOTD_DE_BEAST,Battle for a chance to win Beast shards
+ID_MOTD_NA_BETARAYBILL,Star Master: Now Live!
+ID_MOTD_DE_BETARAYBILL,Battle for a chance to win Beta Ray Bill shards
 ID_MOTD_NA_BISHOP,Marked Man: Now Live!
 ID_MOTD_DE_BISHOP,Battle for a chance to win Bishop shards
 ID_MOTD_NA_BLACKPANTHER,Warrior King: Now Live!
@@ -573,6 +575,8 @@ ID_MOTD_NA_KATEBISHOP,Self Declared: Now Live!
 ID_MOTD_DE_KATEBISHOP,Battle for a chance to win Kate Bishop shards
 ID_MOTD_NA_SYBIL,S.T.R.I.K.E. Leader: Now Live!
 ID_MOTD_DE_SYBIL,Battle for a chance to win Kestrel shards
+ID_MOTD_NA_LOKITEEN,Prince of Asgard: Now Live!
+ID_MOTD_DE_LOKITEEN,Battle for a chance to win Loki (Teen) shards
 ID_MOTD_NA_KILLMONGER,Rival King: Now Live!
 ID_MOTD_DE_KILLMONGER,Battle for a chance to win Killmonger shards
 ID_MOTD_NA_KINGPIN,Kingpin of Crime: Now Live!
@@ -743,6 +747,8 @@ ID_MOTD_NA_SUNFIRE,Pure Energy: Now Live!
 ID_MOTD_DE_SUNFIRE,Battle for a chance to win Sunfire shards
 ID_MOTD_NA_SWARM,Bzzzz: Now Live!
 ID_MOTD_DE_SWARM,Battle for a chance to win Swarm shards
+ID_MOTD_NA_SYLVIE,Enchantress: Now Live!
+ID_MOTD_DE_SYLVIE,Battle for a chance to win Sylvie shards
 ID_MOTD_NA_SYMBIOTESPIDERMAN,Back In Black: Now Live!
 ID_MOTD_DE_SYMBIOTESPIDERMAN,Battle for a chance to win Spider-Man (Symbiote) shards
 ID_MOTD_NA_TASKMASTER,Mimic Master: Now Live!
@@ -767,6 +773,8 @@ ID_MOTD_NA_UNIONJACK,Secretive Nobleman: Now Live!
 ID_MOTD_DE_UNIONJACK,Battle for a chance to win Union Jack shards
 ID_MOTD_NA_USAGENT,American Patriot: Now Live!
 ID_MOTD_DE_USAGENT,Battle for a chance to win U.S. Agent shards
+ID_MOTD_NA_VAHL,Last Asgardian: Now Live!
+ID_MOTD_DE_VAHL,Battle for a chance to win Vahl shards
 ID_MOTD_NA_VALKYRIE,Seer of the Slain: Now Live!
 ID_MOTD_DE_VALKYRIE,Battle for a chance to win Valkyrie shards
 ID_MOTD_NA_VENOM,Symbiotic Terror: Now Live!
@@ -2030,9 +2038,26 @@ ID_MOTD_NA_STANDPROUDTOGETHER_TEASER,"Coming Soon: Stand Proud, Together"
 ID_MOTD_DE_STANDPROUDTOGETHER_TEASER,Dark Dimension VI Countdown Orbs and more!
 ID_MOTD_NA_STANDPROUDTOGETHER_LIVE,"LIVE: Stand Proud, Together"
 ID_MOTD_DE_STANDPROUDTOGETHER_LIVE,Stand united with your Alliance!
+ID_MOTD_NA_VAHL_TEASER,Coming Soon: Vahl
+ID_MOTD_DE_VAHL_TEASER,The Primordial Asgardian is sharpening their sword for the Incursion Raids!
+ID_MOTD_NA_VAHL_ANNOUNCE,Ready for Battle: Vahl!
+ID_MOTD_DE_VAHL_ANNOUNCE,Lead Bifrost to Incursion Raid victory with the new Exposed effect!
+ID_MOTD_DE_VAHL_ANNOUNCE2,Open Last Asgardian Orbs to earn shards for Bifrost's keystone Brawler!
 ID_MOTD_NA_THUNDEROUSAPPLAUSE_TEASER,Coming Soon: Thunderous Applause
 ID_MOTD_DE_THUNDEROUSAPPLAUSE_TEASER,"Earn the Goat Boat Van, Iso-8, and more!"
 ID_MOTD_NA_THUNDEROUSAPPLAUSE_ANNOUNCE,LIVE: Thunderous Applause
 ID_MOTD_DE_THUNDEROUSAPPLAUSE_ANNOUNCE,War with Knowhere and spend Iso-8 Campaign Energy!
 ID_MOTD_NA_THUNDEROUSAPPLAUSE_ENDING,ENDING: Thunderous Applause
 ID_MOTD_DE_THUNDEROUSAPPLAUSE_ENDING,Hurry and earn the Goat Boat Van!
+ID_MOTD_NA_HITTHELIGHTS_TEASER,Coming Soon: Hit The Lights
+ID_MOTD_DE_HITTHELIGHTS_TEASER,Prepare to face the new Dark Dimension
+ID_MOTD_NA_HITTHELIGHTS_LIVE,LIVE: Hit The Lights
+ID_MOTD_DE_HITTHELIGHTS_LIVE,Prepare to face the new Dark Dimension
+ID_MOTD_NA_DEFENDEROFVALHALLA_ANNOUNCE,LIVE: Defender of Valhalla
+ID_MOTD_DE_DEFENDEROFVALHALLA_ANNOUNCE,Recruit Vahl now by participating in July Events!
+ID_MOTD_NA_DEFENDEROFVALHALLA_ENDING,Ending Soon: Defender of Valhalla
+ID_MOTD_DE_DEFENDEROFVALHALLA_ENDING,Get Vahl now before the Defender of Valhalla ends!
+ID_MOTD_NA_APEOPLENOTAPLACE_ANNOUNCE,LIVE: A People Not a Place
+ID_MOTD_DE_APEOPLENOTAPLACE_ANNOUNCE,Earn Loki Crowns and advance in the Alliance Leaderboard!
+ID_MOTD_NA_APEOPLENOTAPLACE_ENDING,Ending Soon: A People Not a Place
+ID_MOTD_DE_APEOPLENOTAPLACE_ENDING,Get Loki Crowns and valuable Bio gear now!

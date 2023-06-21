@@ -61,11 +61,11 @@ ID_RAIDS_OBJECTIVE_NODES,Complete the objective nodes to gain 1 Medal
 ID_RAIDS_OBJECTIVE_100_PERCENT,Complete 100% of the raid to gain 1 Medal
 ID_UI_RAIDS_POINTS_NEEDED_FOR_NEXT_MILESTONE,{points} PT until next milestone
 ID_RAIDS_INSUFFICIENT_KEYS_TITLE,Insufficient Raid Keys - {keyname}
-ID_RAIDS_INSUFFICIENT_KEYS_DESC,You need to earn more {keyname}s. You and your Alliance members generate Raid Keys by spending Campaign Energy.
-ID_RAIDS_INSUFFICIENT_KEYS_EVENT01_DESC,You need to earn more {keyname}s. You and your Alliance members generate Raid Keys by spending Campaign Energy.
-ID_RAIDS_INSUFFICIENT_KEYS_EVENT02_DESC,You need to earn more Chimichangas. Spend Campaign Energy to earn Chimichangas for your alliance.
-ID_RAIDS_INSUFFICIENT_KEYS_EVENT03_DESC,You need to earn more {keyname}s. You and your Alliance members generate Raid Keys by spending Campaign Energy.
-ID_RAIDS_INSUFFICIENT_KEYS_EVENT04_DESC,You need to earn more {keyname}s. You and your Alliance members generate Raid Keys by spending Campaign Energy.
+ID_RAIDS_INSUFFICIENT_KEYS_DESC,You need to earn more {keyname}s. Your Alliance will generate Raid Keys each day.
+ID_RAIDS_INSUFFICIENT_KEYS_EVENT01_DESC,You need to earn more {keyname}s. Your Alliance will generate Raid Keys each day.
+ID_RAIDS_INSUFFICIENT_KEYS_EVENT02_DESC,You need to earn more Chimichangas. Your Alliance will generate Chimichangas each day.
+ID_RAIDS_INSUFFICIENT_KEYS_EVENT03_DESC,You need to earn more {keyname}s. Your Alliance will generate Raid Keys each day.
+ID_RAIDS_INSUFFICIENT_KEYS_EVENT04_DESC,You need to earn more {keyname}s. Your Alliance will generate Raid Keys each day.
 ID_RAIDS_EVENT_ENDED_TITLE,Raid Event Ended
 ID_RAIDS_EVENT_ENDED_DESC,The Raid event has ended.
 ID_RAIDS_NO_SEASON,There is currently no Raid Season running right now.
@@ -374,3 +374,4 @@ ID_RAIDS_INCURSIONMAIN_DETAILS,Battle interdimensional foes and seek the masterm
 ID_RAIDS_INCURSION_COMBAT_MODS_NAME_PLURAL,Combat Mods
 ID_MISSION_RAID_INCURSION_BLANK_DESC,
 ID_RAIDS_INCURSION_01_NAME,Incursion Raid I
+ID_RAIDS_NON_FATAL_ERROR,An error occurred

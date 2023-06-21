@@ -2975,6 +2975,34 @@ ID_QU_LD_INFAMOUSFRONTMAN,Spend Campaign Energy to hit this daily milestone that
 ID_QU_SM_INFAMOUSFRONTMAN,Spend Campaign Energy
 ID_QU_SC_INFAMOUSFRONTMAN,Spend Campaign Energy
 ID_QU_S1_INFAMOUSFRONTMAN,Spend 1 Campaign Energy
+ID_QU_NA_SPLASH_COSMICXPLORERS,Cosmic X-plorers
+ID_QU_SD_SPLASH_COSMICXPLORERS,Use Astonishing X-Men in Blitz
+ID_QU_LM_SPLASH_COSMICXPLORERS,Earn points by using Astonishing X-Men characters in Blitz Battles. Earn more points if your Astonishing X-Men characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_COSMICXPLORERS,Use Astonishing X-Men Characters in Blitz
+ID_QU_S1_SPLASH_COSMICXPLORERS,Win Blitz with 3-star or higher Astonishing X-Men Character
+ID_QU_S2_SPLASH_COSMICXPLORERS,Win Blitz with 5-star or higher Astonishing X-Men Character
+ID_QU_S3_SPLASH_COSMICXPLORERS,Win Blitz with 7-star Astonishing X-Men Character
+ID_QU_NA_SPLASH_VALHALLAREBORN,Valhalla Reborn
+ID_QU_SD_SPLASH_VALHALLAREBORN,Use Rebirth in Blitz
+ID_QU_LM_SPLASH_VALHALLAREBORN,Earn points by using Rebirth characters in Blitz Battles. Earn more points if your Rebirth characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_VALHALLAREBORN,Use Rebirth Characters in Blitz
+ID_QU_S1_SPLASH_VALHALLAREBORN,Win Blitz with 3-star or higher Rebirth Character
+ID_QU_S2_SPLASH_VALHALLAREBORN,Win Blitz with 5-star or higher Rebirth Character
+ID_QU_S3_SPLASH_VALHALLAREBORN,Win Blitz with 7-star Rebirth Character
+ID_QU_NA_SPLASH_AGENTSOFASGARD,Agents of Asgard
+ID_QU_SD_SPLASH_AGENTSOFASGARD,Use Young Avenger in Blitz
+ID_QU_LM_SPLASH_AGENTSOFASGARD,Earn points by using Young Avenger characters in Blitz Battles. Earn more points if your Young Avenger characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_AGENTSOFASGARD,Use Young Avenger Characters in Blitz
+ID_QU_S1_SPLASH_AGENTSOFASGARD,Win Blitz with 3-star or higher Young Avenger Character
+ID_QU_S2_SPLASH_AGENTSOFASGARD,Win Blitz with 5-star or higher Young Avenger Character
+ID_QU_S3_SPLASH_AGENTSOFASGARD,Win Blitz with 7-star Young Avenger Character
+ID_QU_NA_SPLASH_KREECONQUEST,Kree Conquest
+ID_QU_SD_SPLASH_KREECONQUEST,Use Kree in Blitz
+ID_QU_LM_SPLASH_KREECONQUEST,Earn points by using Kree characters in Blitz Battles. Earn more points if your Kree characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_KREECONQUEST,Use Kree Characters in Blitz
+ID_QU_S1_SPLASH_KREECONQUEST,Win Blitz with 3-star or higher Kree Character
+ID_QU_S2_SPLASH_KREECONQUEST,Win Blitz with 5-star or higher Kree Character
+ID_QU_S3_SPLASH_KREECONQUEST,Win Blitz with 7-star Kree Character
 ID_QU_NA_STANDPROUDTOGETHER,"Stand Proud, Together"
 ID_QU_SD_STANDPROUDTOGETHER,Celebrate Pride Month
 ID_QU_SC_STANDPROUDTOGETHER,Earn Points by Donating to your Alliance and/or Spending Campaign Energy
@@ -2984,7 +3012,8 @@ ID_QU_S2_STANDPROUDTOGETHER,Spend 1 Campaign Energy
 ID_QU_NA_WEREINTHISTOGETHER,We're In This Together
 ID_QU_SD_WEREINTHISTOGETHER,Earn Premium Rewards
 ID_QU_SC_WEREINTHISTOGETHER,Earn Points by Donating to your Alliance and/or Spending Campaign Energy
-ID_QU_LM_WEREINTHISTOGETHER,"<color=#fff568>First of its kind!</color> Unlock the <color=#fff568>We're In This Together</color> Premium Milestone with this Purchase. Donate to your Alliance and/or Spend Campaign Energy to earn rewards like: 6 Red Star Nico Minoru, Elite 4 & 5 Credits, Proud Character Shards, and 1 Million Gold!"
+ID_QU_LM_WEREINTHISTOGETHER,"First of its kind! Donate to your Alliance and/or Spend Campaign Energy to earn rewards like: 6 Red Star Nico Minoru, Elite 4 & 5 Credits, Proud Character Shards, and 1 Million Gold!"
+ID_QU_S1_WEREINTHISTOGETHER,Earn 1 Donation Point
 ID_QU_NA_THUNDEROUSAPPLAUSE,Thunderous Applause
 ID_QU_SD_THUNDEROUSAPPLAUSE,"Earn Goat Boat Van, T2 Level 5 Ions and more!"
 ID_QU_LM_THUNDEROUSAPPLAUSE,"Earn Goat Boat Van, T2 Level 5 Ions and more!"
@@ -2994,3 +3023,24 @@ ID_QU_S1_THUNDEROUSAPPLAUSE,Win/Lose War with Knowhere at 6 Stars
 ID_QU_S2_THUNDEROUSAPPLAUSE,Win/Lose War with Knowhere at 4 Stars
 ID_QU_S3_THUNDEROUSAPPLAUSE,Win/Lose War with Knowhere
 ID_QU_S4_THUNDEROUSAPPLAUSE,Spend 1 Iso-8 Campaign Energy
+ID_QU_NA_HITTHELIGHTS,Hit The Lights
+ID_QU_SD_HITTHELIGHTS,Prepare for Dark Dimension VI
+ID_QU_SC_HITTHELIGHTS,Open Gold Orb and Earn Milestone Points
+ID_QU_LM_HITTHELIGHTS,"Fortify characters with gear and resources for the ultimate roster test:\n\nHit the Lights Milestone\nEarn milestone progress by opening Gold Orbs and by collecting milestone points from the Bass Drop Orb and select offers. Flip the rewards switch by hitting milestones that reward:\n\n- Dark Dimension VI Countdown Orbs\n- Elite 6 Credits\n- Dark Promotion Credits\n- Teal, Orange, and Purple Catalyst Parts\n\nBass Drop Orb\nThe Bass Drop Orb contains Hit the Lights Milestone points of varying amounts and Gold Orb Fragments to skyrocket your progress for the Hit The Lights milestone. You can earn Bass Drop Orbs from the Hit the Lights login calendar as well as Daily Free Claims on the web.\n\nLeaderboard\nShine bright on this Leaderboard that features Gear Tier 18 Mini-Uniques and Fragments for the Armory 16 and 17 Orbs."
+ID_QU_S1_HITTHELIGHTS,Open 1 Gold Orb
+ID_QU_S2_HITTHELIGHTS,Earn 1 Milestone Point
+ID_QU_NA_DEFENDEROFVALHALLA,Defender of Valhalla
+ID_QU_SD_DEFENDEROFVALHALLA,Participate in July Events
+ID_QU_LM_DEFENDEROFVALHALLA,Participate in various events throughout the month of July to earn milestone progress.
+ID_QU_SC_DEFENDEROFVALHALLA,Participate in July Events
+ID_QU_S1_DEFENDEROFVALHALLA,Collect Gem of Cyttorak
+ID_QU_S2_DEFENDEROFVALHALLA,Collect 1 Boots of Destiny
+ID_QU_S3_DEFENDEROFVALHALLA,Collect 1 Helmet of Glory
+ID_QU_S4_DEFENDEROFVALHALLA,Collect 1 Destroyer Gauntlet
+ID_QU_S5_DEFENDEROFVALHALLA,Collect 1 Eternity's Cape
+ID_QU_S6_DEFENDEROFVALHALLA,Collect 1 Twilight Sword
+ID_QU_NA_APEOPLENOTAPLACE,A People Not a Place
+ID_QU_SD_APEOPLENOTAPLACE,Spend Campaign Energy and earn Alliance Credits
+ID_QU_LM_APEOPLENOTAPLACE,"Spend Campaign Energy, earn Alliance Credits, and complete the Valhalla Venture Web Milestone to progress in the milestone. Collect Loki Crowns from Campaign Nodes and the Trickster Orb to Participate in the Glorious Purpose Alliance Leaderboard. "
+ID_QU_S1_APEOPLENOTAPLACE,Spend 1 Campaign Energy
+ID_QU_S2_APEOPLENOTAPLACE,Earn 1 Alliance Credit

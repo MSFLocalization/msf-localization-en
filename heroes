@@ -35,6 +35,8 @@ ID_SHARD_BARONMORDO_NAME,Mordo
 ID_SHARD_BARONMORDO_DESCRIPTION,A powerful sorcerer who weakens his enemies with forbidden magic.
 ID_SHARD_BEAST_NAME,Beast
 ID_SHARD_BEAST_DESCRIPTION,Beast is a master of Mutant science who improves any X-Men team by healing and granting positive effects.
+ID_SHARD_BETARAYBILL_NAME,Beta Ray Bill
+ID_SHARD_BETARAYBILL_DESCRIPTION,"An adopted son of Asgard, Beta Ray Bill shows his enemies Stormbreaker's might by calling down lightning upon them and acting as a shield for his allies."
 ID_SHARD_BUCKYBARNES_NAME,Bucky Barnes
 ID_SHARD_BUCKYBARNES_DESCRIPTION,"The teenage best friend of Steve Rogers, Bucky Barnes, charges the front lines along with the other Invaders, unleashing multiple attacks on their foes."
 ID_SHARD_DARKBEAST_NAME,Dark Beast
@@ -257,6 +259,8 @@ ID_SHARD_LOCKJAW_NAME,Lockjaw
 ID_SHARD_LOCKJAW_DESCRIPTION,
 ID_SHARD_LOKI_NAME,Loki
 ID_SHARD_LOKI_DESCRIPTION,The Asgardian god of Mischief who misleads and confuses his foes.
+ID_SHARD_LOKITEEN_NAME,Loki (Teen)
+ID_SHARD_LOKITEEN_DESCRIPTION,A teenage version of Loki that applies regeneration to his allied Loki variants and hides a wicked bite up his sleeve.
 ID_SHARD_LOKIMINION_NAME,"Loki "
 ID_SHARD_LOKIMINION_DESCRIPTION,One of Loki's mirror images.
 ID_SHARD_LOKINPC_NAME,Loki
@@ -469,6 +473,8 @@ ID_SHARD_SPIDERMAN_NAME,Spider-Man
 ID_SHARD_SPIDERMAN_DESCRIPTION,A quick attacker that weakens opponents and evades incoming attacks.
 ID_SHARD_SPIDERMAN2099_NAME,Spider-Man 2099
 ID_SHARD_SPIDERMAN2099_DESCRIPTION,"Fighting crime in our time from the far-flung future, Miguel O'Hara uses his powers to exploit enemy weaknesses as the Spider-Man of tomorrow!"
+ID_SHARD_SPIDERMANBIGTIME_NAME,Spider-Man (Big Time)
+ID_SHARD_SPIDERMANBIGTIME_DESCRIPTION,"While working at Horizon Labs, Peter Parker developed a new suit with a Stealth Mode, making him harder to hit, and an Anti-Sound Mode to catch his opponents unaware."
 ID_SHARD_SPIDERMANNOIR_NAME,Spider-Man (Noir)
 ID_SHARD_SPIDERMANNOIR_DESCRIPTION,"Spider-Man (Noir) is a stealthy, Tommy Gun-wielding hero that grants additional damage to his allies while laying down heavy fire."
 ID_SHARD_SPIDERPUNK_NAME,Spider-Punk
@@ -491,12 +497,16 @@ ID_SHARD_STRANGESUPREME_NAME,Strange (Heartless)
 ID_SHARD_STRANGESUPREME_DESCRIPTION,"A heartbroken Doctor Strange absorbed countless otherworldly beings in a search for enough power to return his lost love, but found only the destructive might to demolish his foes."
 ID_SHARD_STRYFE_NAME,Stryfe
 ID_SHARD_STRYFE_DESCRIPTION,Stryfe uses his mutant powers and cunning to grant himself powerful defensive effects.
+ID_SHARD_SUPERSKRULL_NAME,Super Skrull
+ID_SHARD_SUPERSKRULL_DESCRIPTION,"With the combined powers of Earth's Fantastic Four, Super Skrull packs a punch and camouflages seamlessly into his team, becoming more heroic - or villainous - depending on who is around."
 ID_SHARD_SUNFIRE_NAME,Sunfire
 ID_SHARD_SUNFIRE_DESCRIPTION,"Powered by solar radiation, Sunfire channels powerful flames to unleash an explosive blow against the enemy team."
 ID_SHARD_SWARM_NAME,Swarm
 ID_SHARD_SWARM_DESCRIPTION,"A deadly member of the Sinister Six, Swarm exists as a sentient hive of killer bees controlled by one evil mind."
 ID_SHARD_SYBIL_NAME,Kestrel
 ID_SHARD_SYBIL_DESCRIPTION,"A founding member of S.T.R.I.K.E., Kestrel uses her portal gun to prevent enemies from summoning and blast the weakest target among them."
+ID_SHARD_SYLVIE_NAME,Sylvie
+ID_SHARD_SYLVIE_DESCRIPTION,"Fighting the TVA alongside Loki, Sylvie's mind-control abilities turn her enemies against each other while her swift daggers cut them into ribbons."
 ID_SHARD_SYMBIOTESPIDERMAN_NAME,Spider-Man (Symbiote)
 ID_SHARD_SYMBIOTESPIDERMAN_DESCRIPTION,"Permanently bonded with the Venom symbiote, Spider-Man brutally takes down foes while powering up his Symbiote allies."
 ID_SHARD_TASKMASTER_NAME,Taskmaster
@@ -539,6 +549,10 @@ ID_SHARD_UNIONJACK_NAME,Union Jack
 ID_SHARD_UNIONJACK_DESCRIPTION,"The first to take the mantle of Union Jack, adventurer and British superspy James Montgomery Falsworth charges up his attacks to blast away his enemies."
 ID_SHARD_USAGENT_NAME,U.S. Agent
 ID_SHARD_USAGENT_DESCRIPTION,"When the world needed a Captain America, John Walker stepped up. As the Super Soldier U.S. Agent, he helps the Project Rebirth team by blocking enemies' abilities and giving his allies bursts of speed."
+ID_SHARD_VAHL_NAME,Vahl
+ID_SHARD_VAHL_DESCRIPTION,"Allied to a fledgling Phoenix Force and the last Asgardian of their universe, Vahl utilizes Asgardian relics to revive their allies and deal devastating blows to their enemies."
+ID_SHARD_VAHL_PHOENIX_NAME,Phoenix
+ID_SHARD_VAHL_PHOENIX_DESCRIPTION,
 ID_SHARD_VALKYRIE_NAME,Valkyrie
 ID_SHARD_VALKYRIE_DESCRIPTION,"The leader of Odin's personal guard, Valkyrie boosts her fellow Hero Asgardians and deals out destructive blows to her opponents with her sword, Dragonfang."
 ID_SHARD_VENOM_NAME,Venom

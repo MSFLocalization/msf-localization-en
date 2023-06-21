@@ -28,26 +28,26 @@ ID_AVE_ATTACK_ENERGY_EVENT03_DESCRIPTION,Used to launch Gamma Raid missions.
 ID_AVE_ATTACK_ENERGY_EVENT04_DESCRIPTION,Used to launch Gambit Raid missions.
 ID_AVE_ATTACK_ENERGY_EVENT05_DESCRIPTION,Used to launch Ultimus VII Raid missions.
 ID_AVE_KEY_ALPHA_NAME,Alpha Raid Key
-ID_AVE_KEY_ALPHA_DESC,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_ALPHA_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_AVE_KEY_BETA_NAME,Beta Raid Key
-ID_AVE_KEY_BETA_DESC,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_BETA_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_AVE_KEY_GAMMA_NAME,Gamma Raid Key
-ID_AVE_KEY_GAMMA_DESC,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_GAMMA_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_AVE_KEY_DELTA_NAME,Delta Raid Key
-ID_AVE_KEY_DELTA_DESC,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_DELTA_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_AVE_KEY_EVENT01_NAME,Thanos Key
-ID_AVE_KEY_EVENT01_DESCRIPTION,Collect Thanos Keys to launch Thanos Raids and earn Infinity Orb Fragments. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_EVENT01_DESCRIPTION,Collect Thanos Keys to launch Thanos Raids and earn Infinity Orb Fragments. Your alliance will earn raid keys each day.
 ID_AVE_KEY_EVENT02_NAME,Event 02 Key
-ID_AVE_KEY_EVENT02_DESCRIPTION,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_EVENT02_DESCRIPTION,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_AVE_KEY_EVENT03_NAME,Champions' Raid Key
-ID_AVE_KEY_EVENT03_DESCRIPTION,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_EVENT03_DESCRIPTION,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_AVE_KEY_EVENT04_NAME,Gambit Raid Key
-ID_AVE_KEY_EVENT04_DESC,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
-ID_RES_CAMPAIGN_ENERGY_EVENT01,"Hand, Meet Fist Energy"
+ID_AVE_KEY_EVENT04_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
+ID_RES_CAMPAIGN_ENERGY_EVENT01,Vahl-Force Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT02,Greatest Hits Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT03,To Infinity Energy
-ID_CAMPAIGN_ENERGY_EVENT01_NAME,Invaders Energy
-ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch Incursion: Invaders missions.
+ID_CAMPAIGN_ENERGY_EVENT01_NAME,Vahl-Force Energy
+ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch The Last Asgardian missions.
 ID_CAMPAIGN_ENERGY_EVENT02_NAME,Greatest Hits Energy
 ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch Greatest Hits missions.
 ID_CAMPAIGN_ENERGY_EVENT03_NAME,To Infinity Energy
@@ -156,14 +156,14 @@ ID_HELIMAT_VERYRARE_NAME,Mk IV Helicarrier Component
 ID_CAMPAIGN_PLAYER_ENERGY_NAME,Campaign Energy
 ID_CAMPAIGN_PLAYER_ENERGY_DESCRIPTION,Used to launch Campaign missions.
 ID_AVE_KEY_HYDRA_NAME,Hydra Key
-ID_AVE_KEY_HYDRA_DESCRIPTION,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_HYDRA_DESCRIPTION,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_AVE_KEY_ULTIMUS_NAME,Ultimate Key
-ID_AVE_KEY_ULTIMUS_DESCRIPTION,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_ULTIMUS_DESCRIPTION,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_AVE_KEY_THANOS_NAME,Thanos Key
-ID_AVE_KEY_THANOS_DESCRIPTION,Collect Thanos Keys to launch Thanos Raids and earn Infinity Orb Fragments. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_THANOS_DESCRIPTION,Collect Thanos Keys to launch Thanos Raids and earn Infinity Orb Fragments. Your alliance will earn raid keys each day.
 ID_AVE_KEY_DEADPOOL_NAME,Chimichanga
-ID_AVE_KEY_DEADPOOL_DESCRIPTION,Collect Chimichangas to launch Deadpool Raids and earn Deadpool Orb Fragments. Each Campaign Energy you spend earns you one Chimichanga.
-ID_AVE_KEY_GENERIC_DESCRIPTION,Collect keys to launch raids and earn ability materials. Each Campaign Energy you spend earns you one key.
+ID_AVE_KEY_DEADPOOL_DESCRIPTION,Collect Chimichangas to launch Deadpool Raids and earn Deadpool Orb Fragments. Your alliance will earn Chimichangas each day.
+ID_AVE_KEY_GENERIC_DESCRIPTION,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_OPERATION_ATTACK_ENERGY_NAME,Campaign Energy Refill
 ID_OPERATION_ATTACK_ENERGY_DESCRIPTION,Campaign Energy Refill is used to refresh your Campaign Energy.
 ID_SHARD-CONVERSION-CUR_NAME,ULTRA CREDITS
@@ -321,3 +321,17 @@ ID_RES_NA_STANDPROUDTOGETHER,"Stand Proud, Together Milestone Point"
 ID_RES_DE_STANDPROUDTOGETHER,"These points earn you additional progress in the Stand Proud, Together Milestone. Earn them in Daily Free Claims on our website and/or limited offers!"
 ID_RES_NA_WEREINTHISTOGETHER,We're In This Together Premium Milestone
 ID_RES_DE_WEREINTHISTOGETHER,"Unlock the We're In This Together Premium Milestone from this purchase. Donate to your Alliance and/or Spend Campaign Energy to earn rewards like: 6 Red Star Nico Minoru, Elite 4 & 5 Credits, Proud Character Shards, and 1 Million Gold!"
+ID_RES_NA_HITTHELIGHTS,Hit The Lights Milestone Point
+ID_RES_DE_HITTHELIGHTS,These points earn you additional progress in the Hit The Lights Milestone. Earn them in Daily Free Claims on our website and/or limited offers!
+ID_EVTA_META_JUL_A_NAME,Gem of Cyttorak
+ID_EVTA_META_JUL_A_DESCRIPTION,Collect Gems of Cyttorak for points in the Defender of Valhalla Event. Earn them in various events throughout the month of July
+ID_EVTA_META_JUL_B_NAME,Boots of Destiny
+ID_EVTA_META_JUL_B_DESCRIPTION,Collect the Boots of Destiny for points in the Defender of Valhalla Event. Earn it in the A People Not a Place Event!
+ID_EVTA_META_JUL_C_NAME,Helmet of Glory
+ID_EVTA_META_JUL_C_DESCRIPTION,Collect the Helmet of Glory for points in the Defender of Valhalla Event. Earn it in the Mischief Returns Event!
+ID_EVTA_META_JUL_D_NAME,Destroyer Gauntlet
+ID_EVTA_META_JUL_D_DESCRIPTION,Collect the Destroyer Gauntlet for points in the Defender of Valhalla Event. Earn it in the Nine Realm War Event!
+ID_EVTA_META_JUL_E_NAME,Eternity's Cape
+ID_EVTA_META_JUL_E_DESCRIPTION,Collect Eternity's Cape for points in the Defender of Valhalla Event. Earn it in the Voyage of Scuttlebutt Event!
+ID_EVTA_META_JUL_F_NAME,Twilight Sword
+ID_EVTA_META_JUL_F_DESCRIPTION,Collect Twilight Sword for points in the Defender of Valhalla Event. Earn it in the For All Time Event!

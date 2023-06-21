@@ -270,6 +270,9 @@ ID_GEAR_NEEDED_BY,Needed by
 ID_GEAR_NOT_NEEDED,No current characters need this item
 ID_GEAR_OWNED,OWN: {count}
 ID_GEAR_TIER,GEAR TIER
+ID_GEAR_TIER_UPGRADE_HEADER,GEAR TIER UPGRADE
+ID_GEAR_TIER_UPGRADE_SELECT_TIER,SELECT DESIRED GEAR TIER
+ID_GEAR_TIER_UPGRADE_MATERIALS_USED,Materials Used:
 ID_GEARCRAFTING_CRAFT,CRAFT
 ID_GEARCRAFTING_EQUIP,EQUIP
 ID_GEARCRAFTING_GEAR_EQUIPPED,GEAR EQUIPPED
@@ -318,6 +321,7 @@ ID_INBOX_NO_READ,You have no read messages.
 ID_INBOX_NO_UNREAD,You have no unread messages.
 ID_INBOX_VIEW_ALLIANCE,VIEW ALLIANCE
 ID_INBOX_VIEW_USER,VIEW USER
+ID_INBOX_AUTO_CLAIMED,Inbox Rewards Claimed!
 ID_ITEM_UNLOCKED,{item} unlocked!
 ID_LEVEL,LEVEL
 ID_LEVEL_LABEL,Level {level}
@@ -819,7 +823,13 @@ ID_UI_REWARDS_SUBHEADLINE,"Complete battles to earn PLAYER XP and collect shards
 ID_UI_REWARDS_RAIDS_SUBHEADLINE,"Complete raid missions for a chance to earn Raid Credits, Gold, and Ability Materials."
 ID_UI_REWARDS_INSANITY_SUBHEADLINE,Congratulations! That was a hard fought battle!
 ID_UI_ROSTER,ROSTER
+ID_UI_RECOMMENDED_ISO,RECOMMENDED ISO
+ID_UI_RECOMMENDED_SQUAD,RECOMMENDED TEAM
+ID_UI_RECOMMENDED_ISO_WEB,View more iso recommendations at MarvelStrikeForce.com
+ID_UI_RECOMMENDED_SQUADS_WEB,View more squad recommendations at MarvelStrikeForce.com
 ID_UI_RECOMMENDED_SQUADS,RECOMMENDED
+ID_UI_RECOMMENDED_SQUAD_POWER,Recommended:
+ID_UI_RECOMMENDED_YOUR_SQUAD_POWER,Your Team Power:
 ID_UI_SCOPELY_LINKDESC,Sign in with <color=#FCFF00>Scopely</color> to protect your game progress and earn amazing rewards! \nAdd this <color=#FCFF00>3-star Loki</color> to your Villains team today!
 ID_UI_SCOPELY_LINKED,Thank you for signing in with <color=#FCFF00>Scopely</color>. Please enjoy these amazing rewards! \nAdd this <color=#FCFF00>3-star Loki</color> to your Villains team today!
 ID_UI_SCOPELY_LOKI,Sign up to unlock a FREE <color=#FCFF00>3-star Loki</color>!\nClaim at the bottom of the <color=#FCFF00>Offers</color> list.
@@ -880,6 +890,9 @@ ID_UI_INBOX_CLAIM_ALL_BODY,Claim all rewards from <color=#FCFF00>{rewards} Messa
 ID_UI_INBOX_READ_ALL,READ ALL
 ID_UI_INBOX_READ_ALL_TITLE,READ ALL MESSAGES
 ID_UI_INBOX_READ_ALL_BODY,Read all <color=#FCFF00>{messages} Messages</color>?
+ID_UI_INBOX_AUTO_CLAIMED_TITLE,AUTO-CLAIMED REWARDS
+ID_UI_INBOX_AUTO_CLAIMED_SUBTITLE,These new rewards were automatically claimed upon receiving them!
+ID_UI_INBOX_AUTO_CLAIMED_HEADER,All inbox rewards are automatically claimed upon receipt.
 ID_UI_UTC_TIME,UTC TIME
 ID_UI_YOU_OWN,You Own:
 ID_UI_NEED_TO_LEVEL_UP,Increase your player level to unlock this feature.
@@ -896,6 +909,7 @@ ID_UI_PLAY_WITH_MISSION_CHAR_DESC,This character is unavailable for this mission
 ID_UNLOCK_MISSION_TEASE,COMPLETE MISSION {mission} TO UNLOCK
 ID_UNLOCK_TEASE,KEEP PLAYING TO UNLOCK
 ID_UPGRADE,UPGRADE
+ID_UPGRADE_NOW,UPGRADE NOW
 ID_USER_NUMBER,User {uid}
 ID_VAULT_TITLE,STORE FULL
 ID_VICTORY,VICTORY
@@ -1241,8 +1255,8 @@ ID_MINSPEC_NA_MINSPEC_IOS13,Device Update Needed!
 ID_MINSPEC_BO_MINSPEC_IOS13,The minimum device requirements to play MARVEL Strike Force will be iOS 13 for iOS devices with the upcoming Version 6.5 Release (slated for the end of October 2022). We recommend updating as soon as possible to avoid any disruptions to your playing experience.
 ID_MINSPEC_NA_MINSPEC_OS7_2GB,Device Update Needed!
 ID_MINSPEC_BO_MINSPEC_OS7_2GB,The minimum device requirements to play MARVEL Strike Force on Android will be OS 7 and a minimum of 2 GB RAM with the upcoming Version 6.5 Release (slated for the end of October 2022). We recommend updating as soon as possible to avoid any disruptions to your playing experience.
-ID_QUICKMULTIORBOPEN_TITLE,Open All Orbs
-ID_QUICKMULTIORBOPEN_BODY_PROMPT,Automatically open <color=#FFFF00FF>{num_orbs}</color> orbs?\nIt may take a few moments for these orbs to be opened. You may stop at any time.
+ID_QUICKMULTIORBOPEN_TITLE,OPEN ALL ORBS
+ID_QUICKMULTIORBOPEN_BODY_PROMPT,Automatically open <b><color=#FFFF00FF>{num_orbs}</color></b> orbs?\nIt may take a few moments for these orbs to be opened. You may stop at any time.
 ID_QUICKMULTIORBOPEN_PURCHASE_BODY_PROMPT,Automatically purchase and open <color=#FFFF00FF>{num_orbs}</color> orbs?\nCost: <color=#FFFF00FF>{costAmount}</color> x {costType}\nIt may take a few moments for these orbs to be opened. You may stop at any time.
 ID_QUICKMULTIORBOPEN_BODY_PROGRESS,"Number of orbs opened: <color=#FFFF00FF>{num_orbs}</color>/<color=#FFFFFFFF>{total_orbs}</color> "
 ID_QUICKMULTIORBOPEN_BODY_PROGRESS_PENDING,Opening {num_orbs} orbs...
@@ -1277,9 +1291,14 @@ ID_FRAME_DD5_2_NAME,Dark Dimension V - Tier 2
 ID_FRAME_DD5_3_NAME,Dark Dimension V - Tier 3
 ID_FRAME_DD5_4_NAME,Dark Dimension V - Tier 4
 ID_FRAME_DD5_5_NAME,Dark Dimension V - Tier 5
+ID_FRAME_DD6_1_NAME,Dark Dimension VI - Tier 1
+ID_FRAME_DD6_2_NAME,Dark Dimension VI - Tier 2
+ID_FRAME_DD6_3_NAME,Dark Dimension VI - Tier 3
+ID_FRAME_DD6_4_NAME,Dark Dimension VI - Tier 4
+ID_FRAME_DD6_5_NAME,Dark Dimension VI - Tier 5
 ID_FRAME_APOCALYPSE_1_NAME,Apocalypse Saga
 ID_FRAME_PRIDE_NAME,2023 Pride
-ID_FRAME_PRIDE_UNLOCK,Unlock via the Pride 2023 Inbox
+ID_FRAME_PRIDE_UNLOCK,Via the Pride 2023 Inbox
 ID_FRAME_PRIDETRANS_NAME,2023 Transgender Pride
 ID_FRAME_PRIDENONBINARY_NAME,2023 Non-Binary Pride
 ID_FRAME_PRIDEBI_NAME,2023 Bisexual Pride
@@ -1287,7 +1306,9 @@ ID_FRAME_PRIDEPAN_NAME,2023 Pansexual Pride
 ID_FRAME_PRIDEACE_NAME,2023 Asexual Pride
 ID_FRAME_PRIDELESBIAN_NAME,2023 Lesbian Pride
 ID_FRAME_JUNETEENTH_NAME,2023 Juneteenth
-ID_FRAME_JUNETEENTH_UNLOCK,Unlock via the Juneteenth 2023 Inbox
+ID_FRAME_JUNETEENTH_UNLOCK,Via the Juneteenth 2023 Inbox
+ID_FRAME_JULY4TH_NAME,2023 July 4th
+ID_FRAME_JULY4TH_UNLOCK,Via the July 4th 2023 Inbox
 ID_WAR_ATTEMPTBONUS_TITLE,ATTEMPT BONUS
 ID_WAR_ATTEMPTBONUS_VALUE,<b><size=55><color=#fff798>{score}</color></size></b> of {max} PTS
 ID_WAR_ATTEMPTBONUS_VALUE_SMALL,<b><size=35><color=#f7951d>+{score}</color></size></b> PTS

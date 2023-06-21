@@ -982,6 +982,22 @@ ID_EVENT_INCURSION05_DIF2_FLAVOR,Investigate the Incursion
 ID_EVENT_INCURSION05_DIF2_DESC,"REQUIRED: Captain America (WWII), Union Jack, Bucky Barnes, & Iron Fist (WWII) at Gear Tier 15\n\nUse only: Invaders characters."
 ID_EVENT_INCURSION05_DIF3_FLAVOR,Earn Rare Rewards!
 ID_EVENT_INCURSION05_DIF3_DESC,REQUIRED: Invaders.\n\nAll characters must be 5 Stars or higher and at least Gear Tier 15.\n\nThis tier is extremely difficult.
+ID_SEC_INCURSION06_NAME,The Last Asgardian
+ID_SEC_INCURSION06_DESC,"Join forces with Vahl, the Last Asgardian as they seek a way to escape their dead universe and enact revenge on the one who destroyed it."
+ID_SEC_CHANCE_INCURSION06,Bifrost Showcase I
+ID_EVENT_INCURSION06_DIF1_FLAVOR,Meet Vahl!
+ID_EVENT_INCURSION06_DIF1_DESC,Use only New Warrior or Bifrost Characters.\n\nVahl will join your team for every battle!
+ID_EVENT_INCURSION06_DIF2_FLAVOR,Earn amazing rewards!
+ID_EVENT_INCURSION06_DIF2_DESC,REQUIRED: Vahl\n\nUse only: New Warrior or Bifrost Characters. All characters must be at Gear Tier 13
+ID_SEC_INCURSION10_NAME,Changing the Story
+ID_SEC_INCURSION10_DESC,Gather a full team of BIFROST and venture into the heart of the Incursion to change the story of the universe.\n\nChallenge and Bonus difficulties will unlock once all Bifrost characters are available.
+ID_SEC_CHANCE_INCURSION10,Bifrost Showcase Finale
+ID_EVENT_INCURSION10_DIF1_FLAVOR,Try Bifrost!
+ID_EVENT_INCURSION10_DIF1_DESC,"Experience the true mystic might of the Bifrost team!\n\nBattle different enemy teams with a full Bifrost roster, including recreations of some battles found in DOOM and INCURSION raids!\n\nThese missions have no rewards, cost no energy, and are just for fun."
+ID_EVENT_INCURSION10_DIF2_FLAVOR,Stop the Incursion!
+ID_EVENT_INCURSION10_DIF2_DESC,REQUIRED: Bifrost\n\n- Gear Tier 15
+ID_EVENT_INCURSION10_DIF3_FLAVOR,Earn Rare Rewards!
+ID_EVENT_INCURSION10_DIF3_DESC,REQUIRED: Bifrost\n\n- Gear Tier 15\n- 5-stars.\n\nThis tier is extremely difficult.
 ID_TU_AM_WA_NAME,Back to Tiny World
 ID_TU_AM_WA_DESC,"After receiving a distress call from resistance forces, Ant-Man and Wasp must enter the tiny dimension to help liberate Earth from its overlords."
 ID_TU_AM_WA_CHANCE,Earn amazing rewards!
@@ -1824,3 +1840,12 @@ ID_INFO_BO_STANDPROUDTOGETHER,"Unite with your Alliance during Pride Month to up
 ID_INFO_NA_THUNDEROUSAPPLAUSE,Thunderous Applause
 ID_INFO_DE_THUNDEROUSAPPLAUSE,War with Knowhere and spend Iso-8 Campaign Energy!
 ID_INFO_BO_THUNDEROUSAPPLAUSE,Join forces with your Alliance to create a rewards storm that includes Korg's Intergalactic Tour progress and valuable resources:\n\n <color=#fff568>Thunderous Applause Milestone</color>\nBattle in Alliance War with Knowhere characters and spend Iso-8 Campaign Energy to strike down milestones with your Alliance. You'll earn points with Knowhere characters in War – and even more if they're at 4+ or 6+ Stars. Don't miss these valuable rewards:\n\n- The Goat Boat Van and Rock Concert Tickets\n- T2 Level 5 and Level 4 Ions\n- Gear Tier 17 Orb Fragments\n- Gold and Silver Promotion Credits\n\nGet rewarded for taking on the new Isotope-8 Hard Campaigns and battling with the Knowhere team.\n
+ID_INFO_NA_HITTHELIGHTS,Hit The Lights
+ID_INFO_DE_HITTHELIGHTS,Prepare for Dark Dimension VI
+ID_INFO_BO_HITTHELIGHTS,"Fortify characters with gear and resources for the ultimate roster test:\n\nHit the Lights Milestone\nEarn milestone progress by opening Gold Orbs and by collecting milestone points from the Bass Drop Orb and select offers. Flip the rewards switch by hitting milestones that reward:\n\n- Dark Dimension VI Countdown Orbs\n- Elite 6 Credits\n- Dark Promotion Credits\n- Teal, Orange, and Purple Catalyst Parts\n\nBass Drop Orb\nThe Bass Drop Orb contains Hit the Lights Milestone points of varying amounts and Gold Orb Fragments to skyrocket your progress for the Hit The Lights milestone. You can earn Bass Drop Orbs from the Hit the Lights login calendar as well as Daily Free Claims on the web.\n\nLeaderboard\nShine bright on this Leaderboard that features Gear Tier 18 Mini-Uniques and Fragments for the Armory 16 and 17 Orbs."
+ID_INFO_NA_DEFENDEROFVALHALLA,Defender of Valhalla
+ID_INFO_DE_DEFENDEROFVALHALLA,Recruit Vahl throughout July!
+ID_INFO_BO_DEFENDEROFVALHALLA,"Earn points toward this month-long milestone by collecting Gems of Cyttorak, Boots of Destiny, Helmet of Glory, Destroyer Gauntlet, Eternity's Cape, and Twilight Sword from July events. Gems of Cyttorak will also be available in Daily Free Claims throughout the month.\n\nThere will be several Milestone Events that provide progress towards the <color=#fff568>Defender of Valhalla Milestone</color>. Earn <color=#fff568>Vahl</color> shards from Last Asgardian Orbs in the Defender of Valhalla Milestone Rewards!\n\nCompete on the Leaderboard for exclusive rewards. Players reaching the top 1% rank will earn exclusive <color=#fff568>T2 Level 5 Ions</color> and Armory 17 Orbs, while other competitors can earn T2 Level 4 Ions, Gold Orb Fragments and Teal Raid Orbs!"
+ID_INFO_NA_APEOPLENOTAPLACE,A People Not a Place
+ID_INFO_DE_APEOPLENOTAPLACE,Prove you are worthy and earn Defender of Valhalla progress
+ID_INFO_BO_APEOPLENOTAPLACE,"Strengthen Asgard's defenses in the <color=#fff568>A People Not a Place Milestone</color>. Earn valuable rewards including <color=#fff568 Knowhere shards, Bio Gear, and Stat Catalysts</color>! You'll also earn points in the month-long Defender of Valhalla Event by collecting Gem of Cyttoraks and the Boots of Destiny.\n\nGain progress in this <color=#fff568>5-day</color> event by spending Campaign Energy, earning Alliance Credits through Alliance Donations and the Valhalla Venture Web Milestone. \nParticipate in the Alliance Leaderboard <color=#fff568>Glorious Purpose</color> by earning Loki Crowns obtainable from all Campaign Nodes, the Valhalla Venture Web Milestone and the Trickster Orb. The worthiest competitors have a chance to receive Gems of Cyttorak for Defender of Valhalla progress, Gear Tier 18 Mini-Uniques and Dark Promotion Credits. \n\nEach Trickster Orb contains Loki Crowns and is available for purchase with Power Cores and special offers. "

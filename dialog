@@ -3732,6 +3732,129 @@ ID_DIALOG_SCE_INVADERS_09_START_3,"Funny, I was about to say the same thing."
 ID_DIALOG_SCE_INVADERS_09_END_0,"Hill, get the jet ready. We're taking the prisoner to visit someone who can help us get some answers."
 ID_DIALOG_SCE_INVADERS_09_END_1,"Where to, sir?"
 ID_DIALOG_SCE_INVADERS_09_END_2,"Westchester County, New York."
+ID_DIALOG_SCE_VAHL_01_INTRO_0,"Long have we wandered this dead universe, little one. But do you sense it? The faintest flicker."
+ID_DIALOG_SCE_VAHL_01_INTRO_1,Skree!
+ID_DIALOG_SCE_VAHL_01_INTRO_2,"No, I'm afraid not. This flicker is known to me. And it is fitting, I suppose, that she should be the last to remain."
+ID_DIALOG_SCE_VAHL_01_INTRO_3,Sakaww?
+ID_DIALOG_SCE_VAHL_01_INTRO_4,She holds a special power. With it as a catalyst I may finally be able to tear the shroud asunder and seek vengeance at last.
+ID_DIALOG_SCE_VAHL_01_INTRO_5,Let us not delay. The Goddess of Death awaits us.
+ID_DIALOG_SCE_VAHL_01_START_0,This is Vahl - The Last Asgardian.
+ID_DIALOG_SCE_VAHL_01_START_1,"When Ultimus attacked, they faced his generals in battle and collected many artifacts of power. Though, in the end, Ultimus proved too powerful."
+ID_DIALOG_SCE_VAHL_01_START_2,"Defeated but alive, Vahl wandered the Nine Realms, perfecting their skills against the endless undead left in Ultimus' wake."
+ID_DIALOG_SCE_VAHL_01_START_3,"Now, they seek the last flickering embers of power in their universe in hope of finding a way to follow Ultimus and extract vengeance upon him."
+ID_DIALOG_SCE_VAHL_01_START_4,They are good at XYZ.
+ID_DIALOG_SCE_VAHL_01_START_5,"They work best with the Bifrost mystic team, and are especially useful in raids."
+ID_DIALOG_SCE_VAHL_01_MID_0,And here I thought I was the only one left. Weren't you the one that took Ultimus' eye? I thought you were dead.
+ID_DIALOG_SCE_VAHL_01_MID_1,My story did not end that day. I am Vahl. I've come for the Odinforce.
+ID_DIALOG_SCE_VAHL_01_MID_2,Haven't you heard? Odin is dead. The Sovereign's power is mine.
+ID_DIALOG_SCE_VAHL_01_MID_3,Not for long.
+ID_DIALOG_SCE_VAHL_01_END_0,Such power... what ARE you? Could you be...
+ID_DIALOG_SCE_VAHL_01_END_1,I am the STORY of a dead people. Of a culture erased. Of a universe left barren.
+ID_DIALOG_SCE_VAHL_01_END_2,"You struck a deal, Goddess of Death. Did you truly believe a creature like Ultimus would honor your pact?"
+ID_DIALOG_SCE_VAHL_01_END_3,How was I to know he had the Entropy Cascade? He enslaved gods and left only death in his wake. I was just as betrayed as you!
+ID_DIALOG_SCE_VAHL_01_END_4,"No, it is you who betrayed Asgard! And for that you must fall."
+ID_DIALOG_SCE_VAHL_01_END_5,"Fool. I know what you are! I am the last Asgardian, you cannot strike me down."
+ID_DIALOG_SCE_VAHL_01_END_6,Wrong.
+ID_DIALOG_SCE_VAHL_01_END_7,[Screams]
+ID_DIALOG_SCE_VAHL_01_END_8,*I* am the Last Asgardian.
+ID_DIALOG_SCE_VAHL_02_INTRO_0,Skaaaa kreeee kaw?
+ID_DIALOG_SCE_VAHL_02_INTRO_1,"Indeed, little one. When I fell in battle against Ultimus, a portion of the Odinforce clung to me and kept me alive."
+ID_DIALOG_SCE_VAHL_02_INTRO_2,"Now with Hela dead, the remainder of the Sovereign's Power has become mine."
+ID_DIALOG_SCE_VAHL_02_INTRO_3,"If we journey to the place Ultimus breached the Veil, I can follow him across realities."
+ID_DIALOG_SCE_VAHL_02_START_0,Who are you? This universe has no living souls left.
+ID_DIALOG_SCE_VAHL_02_START_1,That is a complicated question. And I'm afraid I have no time for... whoever you are.
+ID_DIALOG_SCE_VAHL_02_START_2,I've come to take that Phoenix from your universe. I have plans that require it.
+ID_DIALOG_SCE_VAHL_02_START_3,Kawscarr!
+ID_DIALOG_SCE_VAHL_02_START_4,Well said!
+ID_DIALOG_SCE_VAHL_02_MID_0,Impossible. Who are you to wield such power?
+ID_DIALOG_SCE_VAHL_02_MID_1,"I am Vahl. Wielder of the Vahl-Force, Slayer of Surtur, Destroyer of the Destroyer, Maimer of Ultimus. I am the Last Asgardian."
+ID_DIALOG_SCE_VAHL_02_MID_2,"And you are not of this reality, which means you follow Ultimus."
+ID_DIALOG_SCE_VAHL_02_MID_3,Ultimus? Do not be absurd.
+ID_DIALOG_SCE_VAHL_02_END_0,I admit you are stronger than I. But I know what you do not. Your Sovereign powers only work in this reality.
+ID_DIALOG_SCE_VAHL_02_END_1,"I do not serve Ultimus, but I know of him. If you want what I know, follow me. If you dare!"
+ID_DIALOG_SCE_VAHL_02_END_2,"I sense he has slipped through the Veil. Whoever or whatever he is, if he knows of Ultimus..."
+ID_DIALOG_SCE_VAHL_02_END_3,Kareesaw!
+ID_DIALOG_SCE_VAHL_02_END_4,Indeed. We must give chase.
+ID_DIALOG_SCE_VAHL_03_INTRO_0,"Meanwhile, on Nexus Earth..."
+ID_DIALOG_SCE_VAHL_03_INTRO_1,"Firestar, what's the problem? Your message said it was urgent."
+ID_DIALOG_SCE_VAHL_03_INTRO_2,You know those rifts we've been hearing about on the news? The ones dropping new heroes and villains all over the world?
+ID_DIALOG_SCE_VAHL_03_INTRO_3,"I've heard about it, is that what you summoned the team for?"
+ID_DIALOG_SCE_VAHL_03_INTRO_4,"Yes. I can... ""sense"" them, kind of. Before they happen there's a burst of energy across the spectrum."
+ID_DIALOG_SCE_VAHL_03_INTRO_5,"Part of that is microwaves. And I'm sensing it in this area, right now!"
+ID_DIALOG_SCE_VAHL_03_START_0,"Oh look, it's the Teenage Mutant Cancer Causer herself."
+ID_DIALOG_SCE_VAHL_03_START_1,And she brought the whole after school club with her! You kids here for a selfie or just waiting for the bus?
+ID_DIALOG_SCE_VAHL_03_START_2,Nobody talks to my girl Firestar that way without getting BURNED!
+ID_DIALOG_SCE_VAHL_03_START_3,Oh it's ON Pastelpool!
+ID_DIALOG_SCE_VAHL_03_MIDA_0,The rift is opening!
+ID_DIALOG_SCE_VAHL_03_MIDA_1,"Titania, quit playing around. I've got a shadow."
+ID_DIALOG_SCE_VAHL_03_MIDA_2,Kang?
+ID_DIALOG_SCE_VAHL_03_MIDA_3,You heard him. Finish these kids off! We're going to have company.
+ID_DIALOG_SCE_VAHL_03_MIDB_0,This may be... the end...
+ID_DIALOG_SCE_VAHL_03_MIDB_1,"No fair... Kang is too OP. He's a Summer Event-level badguy, not a random-rooftop-fight badguy."
+ID_DIALOG_SCE_VAHL_03_MIDB_2,HALT.
+ID_DIALOG_SCE_VAHL_03_MIDB_3,Well hellooooo. And you are?
+ID_DIALOG_SCE_VAHL_03_MIDB_4,"If you fight the one in purple, I am an ally."
+ID_DIALOG_SCE_VAHL_03_MIDB_5,Good enough for me!
+ID_DIALOG_SCE_VAHL_03_END_0,[He fled. Where am I?]
+ID_DIALOG_SCE_VAHL_03_END_1,"Wow, you're ridiculously powerful. You could probably give Sentry a run for his money!"
+ID_DIALOG_SCE_VAHL_03_END_2,No kidding. You took out the entire Masters of Evil like they were nothing.
+ID_DIALOG_SCE_VAHL_03_END_3,I... I wield the Vahlfo-- Odinforce. The power of the Sovereign of Asgard.
+ID_DIALOG_SCE_VAHL_03_END_4,"Until the rift fully closed I was linked to my universe, and thus empowered."
+ID_DIALOG_SCE_VAHL_03_END_5,"Your... universe? It sounds like you have a story to tell, friend. What's your name?"
+ID_DIALOG_SCE_VAHL_03_END_6,I am Vahl.
+ID_DIALOG_SCE_VAHL_04_INTRO_0,Your entire universe was destroyed by Ultimus. I'm so sorry.
+ID_DIALOG_SCE_VAHL_04_INTRO_1,I knew he was dangerous. Our world barely defeated him.
+ID_DIALOG_SCE_VAHL_04_INTRO_2,Yeah and his red-eyed mind controlled minions are everywhere. They're a constant problem.
+ID_DIALOG_SCE_VAHL_04_INTRO_3,Then Ultimus is vanquished? My revenge is... denied? Did the one in purple lie?
+ID_DIALOG_SCE_VAHL_04_INTRO_4,There's rumors S.T.R.I.K.E. knows what happened to him. We can find out.
+ID_DIALOG_SCE_VAHL_04_INTRO_5,"Yeah, stick with us, Vahl! Let's take them to the Helicarrier everyone. Maybe someone there knows something."
+ID_DIALOG_SCE_VAHL_04_START_0,"Say, friends?"
+ID_DIALOG_SCE_VAHL_04_START_1,"Ah what, chum?"
+ID_DIALOG_SCE_VAHL_04_START_2,Was the Helicarrier always infested with variants who look like they want to see our manager?
+ID_DIALOG_SCE_VAHL_04_START_3,"You know, Deathy, I don't think it was."
+ID_DIALOG_SCE_VAHL_04_MID_0,These are the variants of which you spoke? They have the same red eyes as the forces Ultimus commanded in my universe.
+ID_DIALOG_SCE_VAHL_04_MID_1,"New Warriors? Not exactly what I was expecting, but I'll take what I can get. Get these variants off my helicarrier!"
+ID_DIALOG_SCE_VAHL_04_END_0,"OMG! Nick Fury, I'm such a fan!"
+ID_DIALOG_SCE_VAHL_04_END_1,You do good work for your age. And you... who or what are you? That's some major hardware you're carrying around.
+ID_DIALOG_SCE_VAHL_04_END_2,"I am Vahl, the Last Asgardian. I have come to your universe to kill the tyrant known as Ultimus."
+ID_DIALOG_SCE_VAHL_04_END_3,You don't say? I think we should all have a chat.
+ID_DIALOG_SCE_VAHL_05_INTRO_0,I'll lay it on the line for you all. What's happening across the world is nothing short of cataclysmic.
+ID_DIALOG_SCE_VAHL_05_INTRO_1,"Other realities are colliding with ours. These ""Incursions"" are the source of the rifts and all the variants we're seeing."
+ID_DIALOG_SCE_VAHL_05_INTRO_2,I've already got two teams working to track down variants and hunt for info on Earth.
+ID_DIALOG_SCE_VAHL_05_INTRO_3,"Congratulations, you all just became the third."
+ID_DIALOG_SCE_VAHL_05_INTRO_4,What of Ultimus?
+ID_DIALOG_SCE_VAHL_05_INTRO_5,"You help out with this, and I'll tell you everything. Hell, I'll personally take you to what's left of his ship if you want."
+ID_DIALOG_SCE_VAHL_05_INTRO_6,"I believe you are trustworthy, Nick Furyson. We have an accord."
+ID_DIALOG_SCE_VAHL_05_START_0,Are we sure working for Fury is the right thing to do? What can we really do about UNIVERSES COLLIDING?!
+ID_DIALOG_SCE_VAHL_05_START_1,"And besides, we promised we'd help Vahl after they laid that beatdown on the Masters of Evil."
+ID_DIALOG_SCE_VAHL_05_START_2,"I am ageless. And, for now, trapped in your universe. I cannot pursue my vengeance if the universe I inhabit is annihilated."
+ID_DIALOG_SCE_VAHL_05_START_3,This is simply a new chapter in my story. That is all.
+ID_DIALOG_SCE_VAHL_05_MID_0,"Get ready, this rift is opening!"
+ID_DIALOG_SCE_VAHL_05_MID_1,Heimdall! This isn't... wait that wasn't the Bifrost? Am I on Earth?
+ID_DIALOG_SCE_VAHL_05_MID_2,Odinson?
+ID_DIALOG_SCE_VAHL_05_MID_3,The rift traveler has emerged! Attack!
+ID_DIALOG_SCE_VAHL_05_END_0,"Who are you, why are you holding Surtur's sword, and why do you feel so oddly familiar?"
+ID_DIALOG_SCE_VAHL_05_END_1,"You are in a new land, Thor Odinson. A new universe. These humans are friends, and can explain."
+ID_DIALOG_SCE_VAHL_05_END_2,"As for I... I am Vahl. For now, that is all you need know."
+ID_DIALOG_SCE_VAHL_06_INTRO_0,"What's you your mind, big n' broody? You've making a face that says ""I have an idea"". Or maybe you're just hungry? IDK."
+ID_DIALOG_SCE_VAHL_06_INTRO_1,"Our encounter with Thor has given me an idea. If I am right, it may be able to save this universe."
+ID_DIALOG_SCE_VAHL_06_INTRO_2,"And if I can save yours, it may atone for my inability to save my own. But this plan carries considerable danger."
+ID_DIALOG_SCE_VAHL_06_INTRO_3,"We're with you, Vahl. Consider yourself an honorary New Warrior."
+ID_DIALOG_SCE_VAHL_06_INTRO_4,Not that we're giving you a costume or a tag or anything. We're not all formal like that.
+ID_DIALOG_SCE_VAHL_06_INTRO_5,So where to?
+ID_DIALOG_SCE_VAHL_06_INTRO_6,"I sense the one we need is on this world. Curiously, in the city where we first met."
+ID_DIALOG_SCE_VAHL_06_START_0,"Loki Laufyson, you are required to help save this universe from obliteration."
+ID_DIALOG_SCE_VAHL_06_START_1,Curious. How did you find me? My illusions are without equal.
+ID_DIALOG_SCE_VAHL_06_START_2,Wait a minute... why do I sense the Odinforce coming from you? Are you... you killed the old man in some other reality didn't you? I'm almost jealous.
+ID_DIALOG_SCE_VAHL_06_START_3,The Trickster sends his minions after us! To arms!
+ID_DIALOG_SCE_VAHL_06_END_0,Well whoever you are you do not disappoint. And you're obviously not from this provincial backwater. So what is it you want?
+ID_DIALOG_SCE_VAHL_06_END_1,"Hear me, Loki Laufyson. Hear the Story of Vahl, the Last Asgardian. Know me, as I knew you."
+ID_DIALOG_SCE_VAHL_06_END_2,"In my universe, you had grown beyond this mischievous persona. You were not Loki, God of Mischief."
+ID_DIALOG_SCE_VAHL_06_END_3,"You were the God of STORIES. And we were well acquainted. Allies, perhaps even friends."
+ID_DIALOG_SCE_VAHL_06_END_4,You could change a Story in the tapestry of fate as easily as you now create the illusion I speak to.
+ID_DIALOG_SCE_VAHL_06_END_5,I like where this is going. But how would I wield such... delicious power... to save this universe you claim is doomed?
+ID_DIALOG_SCE_VAHL_06_END_6,"Not you alone. Alone, you could not affect a change so great."
+ID_DIALOG_SCE_VAHL_06_END_7,"But with the OTHER 2 Lokis I sense in this universe, perhaps you can."
 ID_DIALOG_ECM_ANTMAN_01_INTRO_0,"Ant-Man, S.T.R.I.K.E. needs your help."
 ID_DIALOG_ECM_ANTMAN_01_INTRO_1,"Wow, me? Seriously? What do you need me to steal?"
 ID_DIALOG_ECM_ANTMAN_01_INTRO_2,Nothing. We need a different set of skills this time around.
@@ -9941,8 +10064,8 @@ ID_DIALOG_NUE_SIMCHALLENGE_01_0,"Commander, did you know you can <color=#fff568>
 ID_DIALOG_NUE_SIMCHALLENGE_01_1,<color=#fff568>AUTO WIN</color> allows you to automatically complete a <color=#fff568>CHALLENGE</color> and receive the <color=#fff568>REWARDS</color> immediately. Give it a try.
 ID_DIALOG_NUE_RAIDS_01_0,"Commander, we're receiving reports that Ultimus has strongholds all over the multiverse."
 ID_DIALOG_NUE_RAIDS_02_0,You will need to work together with your <color=#fff568>ALLIANCE</color> in an <color=#fff568>ALLIANCE RAID</color> to clear them out.
-ID_DIALOG_NUE_RAIDS_03_0,"To start an <color=#fff568>ALLIANCE RAID</color>, your <color=#fff568>ALLIANCE</color> will need to generate <color=#fff568>RAID KEYS</color>."
-ID_DIALOG_NUE_RAIDS_03_1,Each <color=#fff568>MEMBER</color> of your <color=#fff568>ALLIANCE</color> can generate <color=#fff568>RAID KEYS</color> by completing <color=#fff568>CAMPAIGN MISSIONS</color>.
+ID_DIALOG_NUE_RAIDS_03_0,"To start an <color=#fff568>ALLIANCE RAID</color>, your <color=#fff568>ALLIANCE</color> will need to use <color=#fff568>RAID KEYS</color>."
+ID_DIALOG_NUE_RAIDS_03_1,"Your <color=#fff568>ALLIANCE</color> will generate 14,400 <color=#fff568>RAID KEYS</color> each day."
 ID_DIALOG_NUE_RAIDS_03_2,Work together to unlock the next <color=#fff568>ALLIANCE RAID</color>.
 ID_DIALOG_NUE_RAIDS_04_0,"Welcome to your first <color=#fff568>ALLIANCE RAID</color>, Commander."
 ID_DIALOG_NUE_RAIDS_04_1,Pick a <color=#fff568>PATH</color> to follow in order to clear out the enemies.

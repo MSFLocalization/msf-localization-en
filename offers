@@ -3041,3 +3041,47 @@ ID_OF_DE_OUTLAWENCORE_HC,Claim this special deal with your Power Cores for more 
 ID_OF_DE_OUTLAWENCORE_DIRECTSHARDS,Get additional shards for Knowhere's Blinding Blaster!
 ID_OF_NA_WEREINTHISTOGETHER,We're In This Together Premium Miletsone
 ID_OF_DE_WEREINTHISTOGETHER,"<color=#fff568>First of its kind!</color> Unlock the <color=#fff568>We're In This Together</color> Premium Milestone with this Purchase. Donate to your Alliance and/or Spend Campaign Energy to earn rewards like: 6 Red Star Nico Minoru, Elite 4 & 5 Credits, Proud Character Shards, and 1 Million Gold!"
+ID_OF_NA_VAHL_FCO_OFFER,Primordial Asgardian
+ID_OF_DE_VAHL_FCO_OFFER,"Save on <color=#fff568>Last Asgardian Orbs</color>, containing <color=#fff568>up to 180 Vahl</color> shards. Lead <color=#fff568>Bifrost</color> to victory on Incursion Raid Mystic Nodes with their keystone Brawler and the <color=#fff568>new Exposed effect</color>!"
+ID_OF_NA_VAHL_WEB_SPECIAL_OFFER,Web Special: Vahl
+ID_OF_DE_VAHL_WEB_SPECIAL_OFFER,"Don't miss this limited deal for <color=#fff568>Vahl</color> shards, which unlocks special release offers on your next visit! Lead <color=#fff568>Bifrost</color> to Incursion Raid victory on Mystic nodes with their keystone Brawler and the <color=#fff568>new Exposed effect</color>! "
+ID_OF_DE_VAHL_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Vahl</color> and unlock special release offers on your next visit! Lead <color=#fff568>Bifrost</color> to Incursion Raid victory on Mystic nodes with their keystone Brawler and the <color=#fff568>new Exposed effect</color>! "
+ID_OF_DE_VAHL_OFFER_SHARD,"Power up <color=#fff568>Vahl</color> with this shard offer! Lead <color=#fff568>Bifrost</color> to Incursion Raid victory on Mystic nodes with their keystone Brawler and the <color=#fff568>new Exposed effect</color>! "
+ID_OF_NA_VAHL_RS_DRAFT,Red Star Draft: Vahl
+ID_OF_DE_VAHL_RS_DRAFT_345,"Get an equal chance of either <color=#fff568>3, 4, or 5 Red Stars</color> for <color=#fff568>Vahl</color>. Lead <color=#fff568>Bifrost</color> to Incursion Raid victory on Mystic nodes with their keystone Brawler and the <color=#fff568>new Exposed effect</color>! "
+ID_OF_DE_VAHL_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, or 6 Red Stars</color> for <color=#fff568>Vahl</color>. Lead <color=#fff568>Bifrost</color> to Incursion Raid victory on Mystic nodes with their keystone Brawler and the <color=#fff568>new Exposed effect</color>! "
+ID_OF_DE_VAHL_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Vahl</color>. Lead <color=#fff568>Bifrost</color> to Incursion Raid victory on Mystic nodes with their keystone Brawler and the <color=#fff568>new Exposed effect</color>! "
+ID_OF_NA_BIFROST_TEAM_OFFER,Bifrost Team Bundle
+ID_OF_DE_BIFROST_TEAM_OFFER,Power through Incursion Raid Mystic nodes by bolstering these <color=#fff568>Bifrost</color> team members!
+ID_OF_NA_HITTHELIGHTS_STARTER,Hit The Lights Starter
+ID_OF_DE_HITTHELIGHTS_STARTER,Get ahead in the <color=#fff568>Hit The Lights</color> Milestone and fast-forward your way to <color=#fff568>Elite 6 and Gold Promotion Credits</color>!
+ID_OF_NA_HITTHELIGHTS_SMALLSTARTER,Hit The Lights Launch Pack
+ID_OF_NA_HITTHELIGHTS_DAILYORB_BIG,Hit The Lights Daily Gold Orb
+ID_OF_DE_HITTHELIGHTS_DAILYORB,Earn stacks of gold with this special <color=#fff568>Hit The Lights</color> Gold Orb Bundle!
+ID_OF_NA_HITTHELIGHTS_DAILYORB,Daily Hit The Lights Gold Orb
+ID_OF_NA_HITTHELIGHTS_FREECLAIM,Hit The Lights Free Claim
+ID_OF_DE_HITTHELIGHTS_FREECLAIM,Come back daily for more <color=#fff568>Hit The Lights</color> progress!
+ID_OF_NA_HITTHELIGHTS_INSTERSTITIAL,Hit The Lights Web Special
+ID_OF_DE_HITTHELIGHTS_INSTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Hit The Lights</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_VAHL_FCO_OFFER_DUAL_STOREBAR,Vahl: Limited Dual Offer
+ID_OF_DE_VAHL_FCO_OFFER_DUAL_STOREBAR,Choose your path to power up this Bifrost Brawler
+ID_OF_NA_FCR_TEAL_GEAR,Unlock Special: Teal Gear
+ID_OF_DE_FCR_TEAL_GEAR,Grab the Teal gear needed to power up the latest character added to your roster.
+ID_OF_NA_FCR_TEAL_UNIQUE,Unlock Special: Uniquely Teal
+ID_OF_DE_FCR_TEAL_UNIQUE,Pick up the Unique and Mini-Unique gear for your new character to help them jump right into the greatest challenges.
+ID_OF_NA_FCR_TEAL_CATALYSTS,Unlock Special: Teal Catalysts
+ID_OF_DE_FCR_TEAL_CATALYSTS,Use these Catalysts to craft your way to Teal gear greatness for your new roster member.
+ID_OF_NA_FCR_ORANGE_SUPERSALE,Unlock Special: Gear Tier 15
+ID_OF_DE_FCR_ORANGE_SUPERSALE,"Bring your newest character to Gear Tier 15 with this massive bundle that has so much gear, you'll have to tap to see all thats included!"
+ID_OF_NA_FCR_PURPLE_SUPERSALE,Unlock Special: Gear Up!
+ID_OF_DE_FCR_PURPLE_SUPERSALE,"Bring the Gear Tier of your latest roster addition to new heights with this massive bundle including so much gear, you'll have to tap to see it all!"
+ID_OF_NA_FCR_ABMATS1,Unlock Special: Awesome Ability
+ID_OF_DE_FCR_ABMATS1,Grab this bundle to get the abilites of your new roster member up to speed!
+ID_OF_NA_FCR_GOLD1,Unlock Special: Golden Gleam
+ID_OF_DE_FCR_GOLD1,Get a boost of resources to help power up your new character!
+ID_OF_NA_FCR_GOLD2,Unlock Special: Gold Galore
+ID_OF_DE_FCR_GOLD2,Acquire massive pile of resources to help you gear and level up the latest character to join your roster!
+ID_OF_NA_FCR_TRAINING1,Unlock Special: Training Drill
+ID_OF_DE_FCR_TRAINING2,Pick up this special Training Module offer to level up your new character!
+ID_OF_NA_FCR_REDSTARS,Unlock Special: Red Star Rush
+ID_OF_DE_FCR_REDSTARS,Take advantage of the limited-time increased chance for Red Star promotions for your newest character with this bundle!

@@ -1366,6 +1366,10 @@ ID_OF_DE_BEAST_TRAINING_OFFER_40,Get this amazing bundle and level up Beast. Get
 ID_OF_NA_BEAST_OFFER_1,Azure Animal Offer
 ID_OF_DE_BEAST_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star Beast</color> with this offer! Support your X-Men allies with Heals, Regeneration, and positive effects."
 ID_OF_DE_BEAST_OFFER_VAR,"Get <color=#fff568>{var1} Beast shards</color> and use him to support your X-Men allies with Heals, Regeneration, and positive effects."
+ID_GACHA_CRATE_FCO_BETARAYBILL_SPECIAL_NAME,Star Master Orb
+ID_GACHA_CRATE_FCO_BETARAYBILL_SPECIAL_DESCRIPTION,Earn up to 180 Beta Ray Bill shards
+ID_GACHA_CRATE_FCO_BETARAYBILL_SPECIAL_TOKEN_NAME,Star Master Orb Fragments
+ID_GACHA_CRATE_FCO_BETARAYBILL_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Star Master Orbs that contain up to 180 Beta Ray Bill shards.
 ID_GACHA_CRATE_FCO_BISHOP_SPECIAL_NAME,Marked Man Orb
 ID_GACHA_CRATE_FCO_BISHOP_SPECIAL_DESCRIPTION,Earn up to 180 Bishop shards
 ID_GACHA_CRATE_FCO_BISHOP_SPECIAL_TOKEN_NAME,Marked Man Orb Fragments
@@ -2401,6 +2405,10 @@ ID_GACHA_CRATE_FCO_KESTREL_SPECIAL_NAME,S.T.R.I.K.E. Leader Orb
 ID_GACHA_CRATE_FCO_KESTREL_SPECIAL_DESCRIPTION,Earn up to 180 Kestrel shards
 ID_GACHA_CRATE_FCO_KESTREL_SPECIAL_TOKEN_NAME,S.T.R.I.K.E. Leader Orb Fragments
 ID_GACHA_CRATE_FCO_KESTREL_SPECIAL_TOKEN_DESCRIPTION,Collect S.T.R.I.K.E. Leader Orb Fragments to earn a S.T.R.I.K.E. Leader Orb.
+ID_GACHA_CRATE_FCO_LOKITEEN_SPECIAL_NAME,Prince of Asgard Orb
+ID_GACHA_CRATE_FCO_LOKITEEN_SPECIAL_DESCRIPTION,Earn up to 180 Loki (Teen) shards
+ID_GACHA_CRATE_FCO_LOKITEEN_SPECIAL_TOKEN_NAME,Prince of Asgard Orb Fragments
+ID_GACHA_CRATE_FCO_LOKITEEN_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Prince of Asgard Orbs that contain up to 180 Loki (Teen) shards.
 ID_GACHA_CRATE_FCO_KILLMONGER_SPECIAL_NAME,Rival King Orb
 ID_GACHA_CRATE_FCO_KILLMONGER_SPECIAL_DESCRIPTION,Get up to 180 Killmonger shards
 ID_GACHA_CRATE_FCO_KILLMONGER_SPECIAL_TOKEN_NAME,Rival King Orb Fragments
@@ -3635,6 +3643,10 @@ ID_OF_NA_SWARM_OFFER_1,Exterminator Offer
 ID_OF_DE_SWARM_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star Swarm</color> with this offer! Infest the battlefield with Bonus Attacks when enemies have Defense Down or Disrupted, and apply Disrupted via a rebound chain."
 ID_OF_DE_SWARM_OFFER_VAR,"Get <color=#fff568>{var1} Swarm shards</color> and use him to infest the battlefield with Bonus Attacks when enemies have Defense Down or Disrupted, and apply Disrupted via a rebound chain."
 ID_OF_DE_SWARM_FCO_OFFER_VAR_O_S,"Save on <color=#fff568>{var1} Bzzzz Orb</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Swarm shards</color>. Release the bees with this Sinister Six Controller! Sting enemies with Drain and Bonus Attacks, while healing himself each turn when Charged."
+ID_GACHA_CRATE_FCO_SYLVIE_SPECIAL_NAME,Enchantress Orb
+ID_GACHA_CRATE_FCO_SYLVIE_SPECIAL_DESCRIPTION,Earn up to 180 Sylvie shards
+ID_GACHA_CRATE_FCO_SYLVIE_SPECIAL_TOKEN_NAME,Enchantress Orb Fragments
+ID_GACHA_CRATE_FCO_SYLVIE_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Enchantress Orbs that contain up to 180 Sylvie shards.
 ID_GACHA_CRATE_FCO_SYMBIOTESPIDERMAN_SPECIAL_NAME,Back In Black Orb
 ID_GACHA_CRATE_FCO_SYMBIOTESPIDERMAN_SPECIAL_DESCRIPTION,Get up to 180 Spider-Man (Symbiote) shards
 ID_GACHA_CRATE_FCO_SYMBIOTESPIDERMAN_SPECIAL_TOKEN_NAME,Back In Black Orb Fragments
@@ -3835,6 +3847,10 @@ ID_GACHA_CRATE_FCO_USAGENT_SPECIAL_NAME,American Patriot Orb
 ID_GACHA_CRATE_FCO_USAGENT_SPECIAL_DESCRIPTION,Earn up to 180 U.S. Agent shards
 ID_GACHA_CRATE_FCO_USAGENT_SPECIAL_TOKEN_NAME,American Patriot Orb Fragments
 ID_GACHA_CRATE_FCO_USAGENT_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for American Patriot Orbs that contain up to 180 U.S. Agent shards.
+ID_GACHA_CRATE_FCO_VAHL_SPECIAL_NAME,Last Asgardian Orb
+ID_GACHA_CRATE_FCO_VAHL_SPECIAL_DESCRIPTION,Earn up to 180 Vahl shards
+ID_GACHA_CRATE_FCO_VAHL_SPECIAL_TOKEN_NAME,Last Asgardian Orb Fragments
+ID_GACHA_CRATE_FCO_VAHL_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Last Asgardian Orbs that contain up to 180 Vahl shards.
 ID_GACHA_CRATE_FCO_VALKYRIE_SPECIAL_NAME,Seer of the Slain Orb
 ID_GACHA_CRATE_FCO_VALKYRIE_SPECIAL_DESCRIPTION,Earn up to 180 Valkyrie shards
 ID_GACHA_CRATE_FCO_VALKYRIE_SPECIAL_TOKEN_NAME,Seer of the Slain Orb Fragments
@@ -8437,6 +8453,8 @@ ID_GACHA_CRATE_DARKDIMENSIONVICOUNTDOWN_NAME,Dark Dimension VI Countdown Orb
 ID_GACHA_CRATE_DARKDIMENSIONVICOUNTDOWN_DESCRIPTION,Prepare for Dark Dimension VI with high-value Gear Tier 18 and T2 Level 5 Ions!
 ID_GACHA_CRATE_DARKDIMENSIONVICOUNTDOWN_TOKEN_NAME,Dark Dimension VI Countdown Orb Fragments
 ID_GACHA_CRATE_DARKDIMENSIONVICOUNTDOWN_TOKEN_DESCRIPTION,Open Dark Dimension VI Countdown Orbs to get Gear Tier 18 and T2 Level 5 Ions!
+ID_TIMEHEIST_OFFER_LOCKED_HERO,Unlock this character.
+ID_TIMEHEIST_OFFER_NO_UPGRADES,This character is already above the preset power and will not be upgraded.
 ID_GACHA_CRATE_NOVA_OVERLOADED_NAME,Nova Overloaded Orb
 ID_GACHA_CRATE_NOVA_OVERLOADED_DESCRIPTION,Contains Awakened Ability Materials for Nova and more
 ID_GACHA_CRATE_NOVA_OVERLOADED_TOKEN_NAME,Nova Overloaded Orb Fragments
@@ -8449,3 +8467,7 @@ ID_GACHA_CRATE_OUTLAW_NAME,Outlaw Stash Orb
 ID_GACHA_CRATE_OUTLAW_DESCRIPTION,"Contains Star-Lord (Annihilation) shards, Gold and gear!"
 ID_GACHA_CRATE_OUTLAW_TOKEN_NAME,Outlaw Stash Orb Fragments
 ID_GACHA_CRATE_OUTLAW_TOKEN_DESCRIPTION,"Open Outlaw Stash Orbs for Star-Lord (Annihilation) shards, Gold and gear!"
+ID_GACHA_CRATE_BASSDROP_NAME,Bass Drop Orb
+ID_GACHA_CRATE_BASSDROP_DESCRIPTION,Contains Hit The Lights Points and more
+ID_GACHA_CRATE_BASSDROP_TOKEN_NAME,Bass Drop Orb Fragments
+ID_GACHA_CRATE_BASSDROP_TOKEN_DESCRIPTION,Collect Bass Drop Orb Fragments from the Daily Web Claim and the Hit The Lights Login Calendar. Each Orb contains Hit The Lights Milestone Points and Gold Orb Fragments.
