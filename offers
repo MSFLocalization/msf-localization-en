@@ -3120,3 +3120,32 @@ ID_OF_DE_DD6_REBIRTH,Clear <color=#ffda21>Dark Dimension VI</color> Global nodes
 ID_OF_DE_DD6_DUAL_REC_COSMIC,Clear Dark Dimension VI Cosmic nodes with this offer!
 ID_OF_DE_DD6_DUAL_REC_CITY,Clear Dark Dimension VI City nodes with this offer!
 ID_OF_DE_DD6_BOOSTER,Get ready for <color=#ffda21>Dark Dimension VI</color> with this special offer! Take advantage of this offer to get resources to supercharge your roster!
+ID_OF_NA_MERCHBOOTH_STARTER_SUPER,Intergalactic Merch Booth Super Starter
+ID_OF_NA_MERCHBOOTH_STARTER_MEGA,Intergalactic Merch Booth Mega Starter
+ID_OF_NA_MERCHBOOTH_LASTCHANCE,Intergalactic Merch Booth Last Chance Booster
+ID_OF_NA_MERCHBOOTH_CATCHUP_1,Intergalactic Merch Booth Catch-Up Bundle
+ID_OF_NA_MERCHBOOTH_CATCHUP_2,Intergalactic Merch Booth Super Catch-Up
+ID_OF_NA_MERCHBOOTH_DAILY_VOUCHER,Daily Merch Booth Voucher Pack
+ID_OF_NA_MERCHBOOTH_DAILY_ENERGY,Daily Merch Booth Energy
+ID_OF_NA_MERCHBOOTH_BLITZ,Asgardian Axe Man Blitz Pack
+ID_OF_NA_MERCHBOOTH_DAILYFREE,Intergalactic Merch Booth Daily Gift
+ID_OF_NA_MERCHBOOTH_DAILYINSTERSTITIAL,Merch Booth Web Special
+ID_OF_DE_MERCHBOOTH_STARTER,Get a pile of <color=#fff568>Merch Booth Vouchers</color> and to the front of the line in the <color=#fff568>Intergalactic Merch Booth</color> Milestone and zoom towards <color=#fff568>Thor (Infinity War) shards</color>!
+ID_OF_DE_MERCHBOOTH_STARTER_MEGA,Get a pile of <color=#fff568>Merch Booth Vouchers</color> and to the front of the line in the <color=#fff568>Intergalactic Merch Booth</color> Milestone and zoom towards <color=#fff568>Thor (Infinity War) shards</color>!
+ID_OF_DE_MERCHBOOTH_LASTCHANCE,Need a final boost to finish <color=#fff568>Intergalactic Merch Booth</color>? Don't miss out on this offer!
+ID_OF_DE_MERCHBOOTH_CATCHUP,Take advantage of this spectacular deal to get through the end of <color=#fff568>Intergalactic Merch Booth Milestone</color> and get your final rewards!
+ID_OF_DE_MERCHBOOTH_DAILY_VOUCHER,Don't miss this daily <color=#fff568>Merch Booth Voucher</color> offer to rock your roster and roll through <color=#fff568>Intergalactic Merch Booth Milestone</color> progress!
+ID_OF_DE_MERCHBOOTH_DAILY_ENERGY,Boost your progress in campaigns and the <color=#fff568>Intergalactic Merch Booth Milestone</color> at once!
+ID_OF_DE_MERCHBOOTH_BLITZ,Supercharge your Blitz and earn more <color=#fff568>Asgardian Axe Man Progress</color>!
+ID_OF_DE_MERCHBOOTH_DAILYFREE,Claim this gift for progress in <color=#fff568>Intergalactic Merch Booth Milestone</color>. Don't miss out on the one-time offer after claiming this gift!
+ID_OF_DE_MERCHBOOTH_DAILYINSTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Intergalactic Merch Booth Milestone</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_LOKITEEN_FCO_OFFER,Rascal Rogue
+ID_OF_DE_LOKITEEN_FCO_OFFER,"Save on <color=#fff568>Prince of Asgard Orbs</color>, containing <color=#fff568>up to 180 Loki (Teen)</color> shards. Support <color=#fff568>Bifrost</color> allies in the Incursion Raid with <color=#fff568>Regeneration</color> that enables <color=#fff568>Counterattacks</color>!"
+ID_OF_NA_LOKITEEN_WEB_SPECIAL_OFFER,Web Special: Loki (Teen)
+ID_OF_DE_LOKITEEN_WEB_SPECIAL_OFFER,"Don't miss this limited deal for <color=#fff568>Loki (Teen)</color> shards, which unlocks special release offers on your next visit! Support <color=#fff568>Bifrost</color> allies in the Incursion Raid with <color=#fff568>Regeneration</color> that enables <color=#fff568>Counterattacks</color>!"
+ID_OF_DE_LOKITEEN_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Loki (Teen)</color> and unlock special release offers on your next visit! Support <color=#fff568>Bifrost</color> allies in the Incursion Raid with <color=#fff568>Regeneration</color> that enables <color=#fff568>Counterattacks</color>! "
+ID_OF_DE_LOKITEEN_OFFER_SHARD,Power up <color=#fff568>Loki (Teen)</color> with this shard offer! Support <color=#fff568>Bifrost</color> allies in the Incursion Raid with <color=#fff568>Regeneration</color> that enables <color=#fff568>Counterattacks</color>!
+ID_OF_NA_LOKITEEN_RS_DRAFT,Red Star Draft: Loki (Teen)
+ID_OF_DE_LOKITEEN_RS_DRAFT_345,"Get an equal chance of either <color=#fff568>3, 4, or 5 Red Stars</color> for <color=#fff568>Loki (Teen)</color>. Support <color=#fff568>Bifrost</color> allies in the Incursion Raid with <color=#fff568>Regeneration</color> that enables <color=#fff568>Counterattacks</color>!"
+ID_OF_DE_LOKITEEN_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, or 6 Red Stars</color> for <color=#fff568>Loki (Teen)</color>. Support <color=#fff568>Bifrost</color> allies in the Incursion Raid with <color=#fff568>Regeneration</color> that enables <color=#fff568>Counterattacks</color>!"
+ID_OF_DE_LOKITEEN_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Loki (Teen)</color>. Support <color=#fff568>Bifrost</color> allies in the Incursion Raid with <color=#fff568>Regeneration</color> that enables <color=#fff568>Counterattacks</color>!"
