@@ -8471,3 +8471,11 @@ ID_GACHA_CRATE_BASSDROP_NAME,Bass Drop Orb
 ID_GACHA_CRATE_BASSDROP_DESCRIPTION,Contains Hit The Lights Points and more
 ID_GACHA_CRATE_BASSDROP_TOKEN_NAME,Bass Drop Orb Fragments
 ID_GACHA_CRATE_BASSDROP_TOKEN_DESCRIPTION,Collect Bass Drop Orb Fragments from the Daily Web Claim and the Hit The Lights Login Calendar. Each Orb contains Hit The Lights Milestone Points and Gold Orb Fragments.
+ID_GACHA_CRATE_AVENGERSTOWER_NAME,Avengers Tower Orb
+ID_GACHA_CRATE_AVENGERSTOWER_DESCRIPTION,Climb the Avengers Tower Leaderboard for this special orb
+ID_GACHA_CRATE_AVENGERSTOWER_TOKEN_NAME,Avengers Tower Orb Fragments
+ID_GACHA_CRATE_AVENGERSTOWER_TOKEN_DESCRIPTION,Collect Avengers Tower Orb Fragments from the Avengers Tower Leaderboard
+ID_GACHA_CRATE_NOVA_NAME,Nova Orb
+ID_GACHA_CRATE_NOVA_DESCRIPTION,Earn up to 100 Nova Shards
+ID_GACHA_CRATE_NOVA_TOKEN_NAME,Nova Orb Fragments
+ID_GACHA_CRATE_NOVA_TOKEN_DESCRIPTION,Collect Fragments for Nova Orbs that contain up to 100 Nova Shards.

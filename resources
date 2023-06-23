@@ -199,10 +199,10 @@ ID_EVENT_CUR7_NAME,Outlaw Stash Orb Fragment
 ID_EVENT_CUR7_DESCRIPTION,"Open Outlaw Stash Orbs for Star-Lord (Annihilation) shards, Gold and gear!"
 ID_EVENT_CUR8_NAME,Thunderous Applause Milestone Points
 ID_EVENT_CUR8_DESCRIPTION,These points earn you additional progress in the Thunderous Applause Milestone. Earn them in Daily Free Claims on our website and limited time offers!
-ID_EVENT_CUR9_NAME,Corpsman Orb Fragments
-ID_EVENT_CUR9_DESCRIPTION,Collect Corpsman Orb Fragments from Campaign nodes to earn progress in the Cosmic Corpsman Milestone.
-ID_EVENT_CUR10_NAME,Geared for Glory Milestone Points
-ID_EVENT_CUR10_DESCRIPTION,These points earn you additional progress in the Geared for Glory Milestone. Earn them in Daily Free Claims on our website and limited time offers!
+ID_EVENT_CUR9_NAME,Intergalactic Merch Booth Milestone Points
+ID_EVENT_CUR9_DESCRIPTION,These points earn you additional progress in the Intergalactic Merch Booth Milestone. Earn them in Daily Free Claims on our website and limited time offers!
+ID_EVENT_CUR10_NAME,Merch Booth Vouchers
+ID_EVENT_CUR10_DESCRIPTION,Earn Merch Booth Vouchers from Campaign nodes to earn progress in the Intergalactic Merch Booth Milestone and spend them in the limited time Event Store!
 ID_EVENT_CUR11_NAME,S.T.R.I.K.E. Os
 ID_EVENT_CUR11_DESCRIPTION,Collect Os to earn nutritious rewards!
 ID_EVENT_CUR12_NAME,Shooting Stars Milestone Points
@@ -334,4 +334,4 @@ ID_EVTA_META_JUL_D_DESCRIPTION,Collect the Destroyer Gauntlet for points in the 
 ID_EVTA_META_JUL_E_NAME,Eternity's Cape
 ID_EVTA_META_JUL_E_DESCRIPTION,Collect Eternity's Cape for points in the Defender of Valhalla Event. Earn it in the Voyage of Scuttlebutt Event!
 ID_EVTA_META_JUL_F_NAME,Twilight Sword
-ID_EVTA_META_JUL_F_DESCRIPTION,Collect Twilight Sword for points in the Defender of Valhalla Event. Earn it in the For All Time Event!
+ID_EVTA_META_JUL_F_DESCRIPTION,Collect Twilight Sword for points in the Defender of Valhalla Event. Earn it in the Realm Raiders Event!

@@ -2906,19 +2906,19 @@ ID_QU_S1_SPLASH_MOSHPITMADNESS,Win Blitz with 3-star or higher New Warriors Char
 ID_QU_S2_SPLASH_MOSHPITMADNESS,Win Blitz with 5-star or higher New Warriors Character
 ID_QU_S3_SPLASH_MOSHPITMADNESS,Win Blitz with 7-star New Warriors Character
 ID_QU_NA_SPLASH_ELECTRICBOOGALOO,Electric Boogaloo
-ID_QU_SD_SPLASH_ELECTRICBOOGALOO,Use Pride in Blitz
-ID_QU_LM_SPLASH_ELECTRICBOOGALOO,Earn points by using Pride characters in Blitz Battles. Earn more points if your Pride characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
-ID_QU_SC_SPLASH_ELECTRICBOOGALOO,Use Pride Characters in Blitz
-ID_QU_S1_SPLASH_ELECTRICBOOGALOO,Win Blitz with 3-star or higher Pride Character
-ID_QU_S2_SPLASH_ELECTRICBOOGALOO,Win Blitz with 5-star or higher Pride Character
-ID_QU_S3_SPLASH_ELECTRICBOOGALOO,Win Blitz with 7-star Pride Character
+ID_QU_SD_SPLASH_ELECTRICBOOGALOO,Use Proud in Blitz
+ID_QU_LM_SPLASH_ELECTRICBOOGALOO,Earn points by using Proud characters in Blitz Battles. Earn more points if your Proud characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_ELECTRICBOOGALOO,Use Proud Characters in Blitz
+ID_QU_S1_SPLASH_ELECTRICBOOGALOO,Win Blitz with 3-star or higher Proud Character
+ID_QU_S2_SPLASH_ELECTRICBOOGALOO,Win Blitz with 5-star or higher Proud Character
+ID_QU_S3_SPLASH_ELECTRICBOOGALOO,Win Blitz with 7-star Proud Character
 ID_QU_NA_SPLASH_STREETWARRIORS,Street Warriors
-ID_QU_SD_SPLASH_STREETWARRIORS,Use Pride in Blitz
-ID_QU_LM_SPLASH_STREETWARRIORS,Earn points by using Pride characters in Blitz Battles. Earn more points if your Pride characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
-ID_QU_SC_SPLASH_STREETWARRIORS,Use Pride Characters in Blitz
-ID_QU_S1_SPLASH_STREETWARRIORS,Win Blitz with 3-star or higher Pride Character
-ID_QU_S2_SPLASH_STREETWARRIORS,Win Blitz with 5-star or higher Pride Character
-ID_QU_S3_SPLASH_STREETWARRIORS,Win Blitz with 7-star Pride Character
+ID_QU_SD_SPLASH_STREETWARRIORS,Use Proud in Blitz
+ID_QU_LM_SPLASH_STREETWARRIORS,Earn points by using Proud characters in Blitz Battles. Earn more points if your Proud characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_STREETWARRIORS,Use Proud Characters in Blitz
+ID_QU_S1_SPLASH_STREETWARRIORS,Win Blitz with 3-star or higher Proud Character
+ID_QU_S2_SPLASH_STREETWARRIORS,Win Blitz with 5-star or higher Proud Character
+ID_QU_S3_SPLASH_STREETWARRIORS,Win Blitz with 7-star Proud Character
 ID_QU_NA_RUFFRIFFS,Ruff Riffs
 ID_QU_SD_RUFFRIFFS,Open Intergalactic Orbs and Gold Orbs
 ID_QU_LM_RUFFRIFFS,"Gain progress by opening Intergalactic Orbs, Gold orbs and completing the web milestone, Battle of the Barks"
@@ -3013,7 +3013,6 @@ ID_QU_NA_WEREINTHISTOGETHER,We're In This Together
 ID_QU_SD_WEREINTHISTOGETHER,Earn Premium Rewards
 ID_QU_SC_WEREINTHISTOGETHER,Earn Points by Donating to your Alliance and/or Spending Campaign Energy
 ID_QU_LM_WEREINTHISTOGETHER,"First of its kind! Donate to your Alliance and/or Spend Campaign Energy to earn rewards like: 6 Red Star Nico Minoru, Elite 4 & 5 Credits, Proud Character Shards, and 1 Million Gold!"
-ID_QU_S1_WEREINTHISTOGETHER,Earn 1 Donation Point
 ID_QU_NA_THUNDEROUSAPPLAUSE,Thunderous Applause
 ID_QU_SD_THUNDEROUSAPPLAUSE,"Earn Goat Boat Van, T2 Level 5 Ions and more!"
 ID_QU_LM_THUNDEROUSAPPLAUSE,"Earn Goat Boat Van, T2 Level 5 Ions and more!"
@@ -3044,3 +3043,16 @@ ID_QU_SD_APEOPLENOTAPLACE,Spend Campaign Energy and earn Alliance Credits
 ID_QU_LM_APEOPLENOTAPLACE,"Spend Campaign Energy, earn Alliance Credits, and complete the Valhalla Venture Web Milestone to progress in the milestone. Collect Loki Crowns from Campaign Nodes and the Trickster Orb to Participate in the Glorious Purpose Alliance Leaderboard. "
 ID_QU_S1_APEOPLENOTAPLACE,Spend 1 Campaign Energy
 ID_QU_S2_APEOPLENOTAPLACE,Earn 1 Alliance Credit
+ID_QU_NA_MERCHBOOTH,Intergalactic Merch Booth
+ID_QU_SD_MERCHBOOTH,Recruit Thor (Infinity War)!
+ID_QU_LD_MERCHBOOTH,"Earn Alliance Credits and Merch Booth Vouchers from campaign nodes and from the Asgardian Axe Man Milestones to earn points.\n\nRewards include: Thor (Infinity War) character shards, Rock Concert Tickets, Merch Box, Mystic Gear, Dark Promotion Credits and more! "
+ID_QU_SM_MERCHBOOTH,Earn Merch Booth Vouchers and Alliance Credits
+ID_QU_SC_MERCHBOOTH,Earn Merch Booth Vouchers and Alliance Credits
+ID_QU_S1_MERCHBOOTH,Earn 1 Merch Booth Voucher
+ID_QU_S2_MERCHBOOTH,Earn 1 Alliance Credit
+ID_QU_NA_ASGARDIANAXEMAN,Asgardian Axe Man
+ID_QU_SD_ASGARDIANAXEMAN,Earn Blitz Credits
+ID_QU_LD_ASGARDIANAXEMAN,Earn Blitz Credits and get Intergalactic Merch Booth progress!
+ID_QU_SM_ASGARDIANAXEMAN,Earn Blitz Credits
+ID_QU_SC_ASGARDIANAXEMAN,Earn Blitz Credits
+ID_QU_S1_ASGARDIANAXEMAN,Earn 1 Blitz Credit

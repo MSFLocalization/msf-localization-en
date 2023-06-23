@@ -3039,7 +3039,7 @@ ID_OF_DE_OUTLAWENCORE_DAILYFREE,Claim this gift for progress in <color=#fff568>O
 ID_OF_DE_OUTLAWENCORE_DAILYINSTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Outlaw Encore Milestone</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_OUTLAWENCORE_HC,Claim this special deal with your Power Cores for more <color=#fff568>Space Shredder Milestone</color> progress!
 ID_OF_DE_OUTLAWENCORE_DIRECTSHARDS,Get additional shards for Knowhere's Blinding Blaster!
-ID_OF_NA_WEREINTHISTOGETHER,We're In This Together Premium Miletsone
+ID_OF_NA_WEREINTHISTOGETHER,We're In This Together Premium Milestone
 ID_OF_DE_WEREINTHISTOGETHER,"<color=#fff568>First of its kind!</color> Unlock the <color=#fff568>We're In This Together</color> Premium Milestone with this Purchase. Donate to your Alliance and/or Spend Campaign Energy to earn rewards like: 6 Red Star Nico Minoru, Elite 4 & 5 Credits, Proud Character Shards, and 1 Million Gold!"
 ID_OF_NA_VAHL_FCO_OFFER,Primordial Asgardian
 ID_OF_DE_VAHL_FCO_OFFER,"Save on <color=#fff568>Last Asgardian Orbs</color>, containing <color=#fff568>up to 180 Vahl</color> shards. Lead <color=#fff568>Bifrost</color> to victory on Incursion Raid Mystic Nodes with their keystone Brawler and the <color=#fff568>new Exposed effect</color>!"
@@ -3085,3 +3085,38 @@ ID_OF_NA_FCR_TRAINING1,Unlock Special: Training Drill
 ID_OF_DE_FCR_TRAINING2,Pick up this special Training Module offer to level up your new character!
 ID_OF_NA_FCR_REDSTARS,Unlock Special: Red Star Rush
 ID_OF_DE_FCR_REDSTARS,Take advantage of the limited-time increased chance for Red Star promotions for your newest character with this bundle!
+ID_OF_NA_THUNDEROUSAPPLAUSE_DAILY_ENERGY,Daily Thunderous Energy Pack
+ID_OF_NA_THUNDEROUSAPPLAUSE_DAILY_WAR,Daily Thunderous War Pack
+ID_OF_NA_THUNDEROUSAPPLAUSE_DAILYFREE,Thunderous Applause Daily Gift
+ID_OF_NA_THUNDEROUSAPPLAUSE_DAILYINSTERSTITIAL,Thunderous Applause Web Special
+ID_OF_DE_THUNDEROUSAPPLAUSE_DAILY_ENERGY,Boost your progress in Iso-8 Campaigns and <color=#fff568>Thunderous Applause</color> at the same time!
+ID_OF_DE_THUNDEROUSAPPLAUSE_DAILY_WAR,Destroy the enemy alliance in War for extra progress in the <color=#fff568>Thunderous Applause Milestone</color>!
+ID_OF_DE_THUNDEROUSAPPLAUSE_DAILYFREE,Claim this gift for progress in <color=#fff568>Thunderous Applause Milestone</color>. Don't miss out on the one-time offer after claiming this gift!
+ID_OF_DE_THUNDEROUSAPPLAUSE_DAILYINSTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Thunderous Applause Milestone</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_NOVAORB_BUNDLE,Nova Orb Bundle
+ID_OF_NA_NOVAORB_6PAK,Nova Orb Party Pack
+ID_OF_NA_NOVAORB_SINGLE,Nova Orb
+ID_OF_DE_NOVAORB_SINGLE,"Save the galaxy and <color=#fff568>{var1}%</color> with this offer. Each Orb has a chance to grant <color=#fff568>100 shards</color> of the Cosmic Corpsman himself, <color=#fff568>Nova!</color>"
+ID_OF_DE_NOVAORB_BUNDLES,"Get Nova to the next Star Level with this bundle! Get <color=#fff568>{var1}%</color> off when you purchase these <color=#fff568>{var2}</color> Nova Orbs! Each Orb has a chance to grant <color=#fff568>100 shards</color> of the Cosmic Corpsman himself, <color=#fff568>Nova!</color>"
+ID_OF_NA_SAMWILSON,Secret Avenger Offer: Captain America (Sam)
+ID_OF_DE_SAMWILSON,Limited-time for new players: Unlock Captain America (Sam) to strengthen your Secret Avengers team!
+ID_OF_NA_SHARONCARTER_NU_OFFER,Super Spy Offer
+ID_OF_DE_SHARONCARTER_NU_OFFER,Limited-time for new players: Upgrade Sharon Carter with this offer! Hit hard with high damage attacks and synergize with Captain America (Sam).
+ID_OF_NA_MARIAHILL_NU_OFFER,Deputy Director Offer
+ID_OF_DE_MARIAHILL_NU_OFFER,Limited-time for new players: Upgrade Maria Hill with this offer! Summon S.H.I.E.L.D. Troopers for added firepower and heal allies.
+ID_OF_NA_KREEVILLIANS_NU_OFFER,Kree Villians Team Offer
+ID_OF_DE_KREEVILLIANS_NU_OFFER,Get a 5-star Kree Villians team with this exclusive deal to upgrade Nick Fury through his legendary event!
+ID_OF_NA_SECRETAVENGERS_NU_OFFER,Secret Avengers Team Offer
+ID_OF_DE_SECRETAVENGERS_NU_OFFER,Secret Invasion release Special! Get a 3-star Secret Avengers team with this exclusive deal! Rock the Blitz and Raids!
+ID_OF_NA_DD6_FOURHORSEMEN,Dark Dimension VI: Four Horsemen
+ID_OF_NA_DD6_DUAL_SPIDERWEAVERGAMBIT,Dark Dimension VI: Global Duo
+ID_OF_NA_DD6_REBIRTH,Dark Dimension VI: Globe's Greatest
+ID_OF_NA_DD6_DUAL_REC_COSMIC,Dark Dimension VI: Top Cosmic
+ID_OF_NA_DD6_DUAL_REC_CITY,Dark Dimension VI: Top City
+ID_OF_NA_DD6_BOOSTER,Dark Dimension VI Launch Special
+ID_OF_DE_DD6_FOURHORSEMEN,Get ready for <color=#ffda21>Dark Dimension VI</color> with this special offer! Get orbs for the Four Horsemen of the Apocalypse to start off your Dark Dimension VI run right!
+ID_OF_DE_DD6_DUAL_SPIDERWEAVERGAMBIT,Clear Dark Dimension VI Global nodes with this offer!
+ID_OF_DE_DD6_REBIRTH,Clear <color=#ffda21>Dark Dimension VI</color> Global nodes with this offer!
+ID_OF_DE_DD6_DUAL_REC_COSMIC,Clear Dark Dimension VI Cosmic nodes with this offer!
+ID_OF_DE_DD6_DUAL_REC_CITY,Clear Dark Dimension VI City nodes with this offer!
+ID_OF_DE_DD6_BOOSTER,Get ready for <color=#ffda21>Dark Dimension VI</color> with this special offer! Take advantage of this offer to get resources to supercharge your roster!
