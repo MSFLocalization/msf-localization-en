@@ -187,10 +187,10 @@ ID_EVENT_CUR1_NAME,Apocalypse Pyramids
 ID_EVENT_CUR1_DESCRIPTION,Celebrate Tadano Mac JAPAN being the first to conquer the Apocalypse Saga! Earn them in the Tadano Mac JAPAN calendar and use them to earn up to 100 character shards of either Agent Venom or Dark Beast!
 ID_EVENT_CUR2_NAME,Gear Credits
 ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
-ID_EVENT_CUR3_NAME,Stone Cold Spiders Milestone Points
-ID_EVENT_CUR3_DESCRIPTION,These points earn you additional progress in the Stone Cold Spiders Milestone. Earn them in the Center Stage Spiders Web Milestone and limited offers!
-ID_EVENT_CUR4_NAME,Ruff Riffs Milestone Points
-ID_EVENT_CUR4_DESCRIPTION,"These points earn you additional progress in the Ruff Riffs Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EVENT_CUR3_NAME,Loki Crown
+ID_EVENT_CUR3_DESCRIPTION,"These items earn you additional progress in the Glorious Purpose Alliance Leaderboard. Earn them in Campaign nodes, Daily Free Claims on our website, and limited offers!"
+ID_EVENT_CUR4_NAME,A People Not a Place Milestone Points
+ID_EVENT_CUR4_DESCRIPTION,"These points earn you additional progress in the A People Not a Place Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
 ID_EVENT_CUR5_NAME,Family Bedrock Milestone Points
 ID_EVENT_CUR5_DESCRIPTION,"These points earn you additional progress in the Family Bedrock Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
 ID_EVENT_CUR6_NAME,Outlaw Encore Milestone Points
@@ -203,20 +203,20 @@ ID_EVENT_CUR9_NAME,Intergalactic Merch Booth Milestone Points
 ID_EVENT_CUR9_DESCRIPTION,These points earn you additional progress in the Intergalactic Merch Booth Milestone. Earn them in Daily Free Claims on our website and limited time offers!
 ID_EVENT_CUR10_NAME,Merch Booth Vouchers
 ID_EVENT_CUR10_DESCRIPTION,Earn Merch Booth Vouchers from Campaign nodes to earn progress in the Intergalactic Merch Booth Milestone and spend them in the limited time Event Store!
-ID_EVENT_CUR11_NAME,S.T.R.I.K.E. Os
-ID_EVENT_CUR11_DESCRIPTION,Collect Os to earn nutritious rewards!
-ID_EVENT_CUR12_NAME,Shooting Stars Milestone Points
-ID_EVENT_CUR12_DESCRIPTION,"These points earn you additional progress in the Shooting Stars Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
-ID_EVENT_CUR13_NAME,Shopping Spree Milestone Points
-ID_EVENT_CUR13_DESCRIPTION,"These points earn you additional progress in the Shopping Spree Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
-ID_EVENT_CUR14_NAME,Green Guardians Orb Fragment
-ID_EVENT_CUR14_DESCRIPTION,"Fragments for orbs containing shards of Earth's protectors, and granting Forces of Nature milestone progress."
-ID_EVENT_CUR15_NAME,Tough Crowds Milestone Points
-ID_EVENT_CUR15_DESCRIPTION,"These points earn you additional progress in the Tough Crowds Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
-ID_EVENT_CUR16_NAME,Immortal Invader Milestone Points
-ID_EVENT_CUR16_DESCRIPTION,These points earn you additional progress in Immortal Invader Milestone.
-ID_EVENT_CUR17_NAME,Immortal Ally Orb Fragment
-ID_EVENT_CUR17_DESCRIPTION,"Open Immortal Ally Orbs for Iron Fist (WWII) shards, Gold and gear!"
+ID_EVENT_CUR11_NAME,Mischief Returns Milestone Points
+ID_EVENT_CUR11_DESCRIPTION,"These points earn you additional progress in the Mischief Returns Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EVENT_CUR12_NAME,Apple of Idunn
+ID_EVENT_CUR12_DESCRIPTION,"Spend Apples of Idunn in the Event Store to earn additional progress in the Bounty of Asgard Milestone. Earn them in Campaign Nodes, Daily Free Claims on our website, and limited offers!"
+ID_EVENT_CUR13_NAME,Bounty of Asgard Milestone Points
+ID_EVENT_CUR13_DESCRIPTION,"These points earn you additional progress in the Bounty of Asgard Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EVENT_CUR14_NAME,Korbinite Orb Fragment
+ID_EVENT_CUR14_DESCRIPTION,"Open Korbinite Orbs for Beta Ray Bill shards, Gold, and gear."
+ID_EVENT_CUR15_NAME,Voyage of Skuttlebutt Milestone Points
+ID_EVENT_CUR15_DESCRIPTION,"These points earn you additional progress in the Voyage of Skuttlebutt Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EVENT_CUR16_NAME,Realm Raiders Milestone Points
+ID_EVENT_CUR16_DESCRIPTION,"These points earn you additional progress in the Realm Raiders Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EVENT_CUR17_NAME,Deceiver Orb Fragments
+ID_EVENT_CUR17_DESCRIPTION,"Open Deceiver Orbs to earn character shards of Loki (Teen), Ikaris, Sersi, Kang the Conqueror, and Emma Frost!"
 ID_EVENT_CUR18_NAME,Family Hero Milestone Points
 ID_EVENT_CUR18_DESCRIPTION,These points earn you additional progress in the Family Hero Milestone. Earn them in limited offers!
 ID_EVENT_CUR19_NAME,Flower Bouquets
@@ -330,7 +330,7 @@ ID_EVTA_META_JUL_B_DESCRIPTION,Collect the Boots of Destiny for points in the De
 ID_EVTA_META_JUL_C_NAME,Helmet of Glory
 ID_EVTA_META_JUL_C_DESCRIPTION,Collect the Helmet of Glory for points in the Defender of Valhalla Event. Earn it in the Mischief Returns Event!
 ID_EVTA_META_JUL_D_NAME,Destroyer Gauntlet
-ID_EVTA_META_JUL_D_DESCRIPTION,Collect the Destroyer Gauntlet for points in the Defender of Valhalla Event. Earn it in the Nine Realm War Event!
+ID_EVTA_META_JUL_D_DESCRIPTION,Collect the Destroyer Gauntlet for points in the Defender of Valhalla Event. Earn it in the Bounty of Asgard Event!
 ID_EVTA_META_JUL_E_NAME,Eternity's Cape
 ID_EVTA_META_JUL_E_DESCRIPTION,Collect Eternity's Cape for points in the Defender of Valhalla Event. Earn it in the Voyage of Scuttlebutt Event!
 ID_EVTA_META_JUL_F_NAME,Twilight Sword

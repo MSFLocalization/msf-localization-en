@@ -989,6 +989,20 @@ ID_EVENT_INCURSION06_DIF1_FLAVOR,Meet Vahl!
 ID_EVENT_INCURSION06_DIF1_DESC,Use only New Warrior or Bifrost Characters.\n\nVahl will join your team for every battle!
 ID_EVENT_INCURSION06_DIF2_FLAVOR,Earn amazing rewards!
 ID_EVENT_INCURSION06_DIF2_DESC,REQUIRED: Vahl\n\nUse only: New Warrior or Bifrost Characters. All characters must be at Gear Tier 13
+ID_SEC_INCURSION07_NAME,"Also, An Alligator"
+ID_SEC_INCURSION07_DESC,Loki (Teen) and his Alligator sidekick emerge in a new world and look for something fun to do.
+ID_SEC_CHANCE_INCURSION07,Bifrost Showcase II
+ID_EVENT_INCURSION07_DIF1_FLAVOR,Meet Loki (Teen)!
+ID_EVENT_INCURSION07_DIF1_DESC,Use only New Warrior or Bifrost Characters.\n\nLoki (Teen) will join your team for most battles!
+ID_EVENT_INCURSION07_DIF2_FLAVOR,Earn amazing rewards!
+ID_EVENT_INCURSION07_DIF2_DESC,REQUIRED: Vahl\nLoki (Teen)\n\nUse only: New Warrior or Bifrost Characters. All characters must be at Gear Tier 13
+ID_SEC_INCURSION08_NAME,Beta Ray Beatdown
+ID_SEC_INCURSION08_DESC,Beta Ray Bill has been charged with a sacred quest by Odin. Help him bring the beatdown to his list of variants.
+ID_SEC_CHANCE_INCURSION08,Bifrost Showcase III
+ID_EVENT_INCURSION08_DIF1_FLAVOR,Meet Beta Ray Bill!
+ID_EVENT_INCURSION08_DIF1_DESC,Use only New Warrior or Bifrost Characters.\n\nBeta Ray Bill will join your team for every battle!
+ID_EVENT_INCURSION08_DIF2_FLAVOR,Earn amazing rewards!
+ID_EVENT_INCURSION08_DIF2_DESC,"REQUIRED: Vahl, Loki(Teen), Beta Ray Bill at Gear Tier 13\n\nUse only: New Warrior or Bifrost characters. All characters must be at Gear Tier 13"
 ID_SEC_INCURSION10_NAME,Changing the Story
 ID_SEC_INCURSION10_DESC,Gather a full team of BIFROST and venture into the heart of the Incursion to change the story of the universe.\n\nChallenge and Bonus difficulties will unlock once all Bifrost characters are available.
 ID_SEC_CHANCE_INCURSION10,Bifrost Showcase Finale
@@ -1852,3 +1866,6 @@ ID_INFO_BO_APEOPLENOTAPLACE,"Strengthen Asgard's defenses in the <color=#fff568>
 ID_INFO_NA_MERCHBOOTH,Intergalactic Merch Booth
 ID_INFO_DE_MERCHBOOTH,Recruit Thor (Infinity War)!
 ID_INFO_BO_MERCHBOOTH,"Bring the thunder and create a storm full of Knowhere swag and shards for a powerful new ally:\n\n<color=#fff568>Intergalactic Merch Booth Milestone</color>\nEarn Merch Booth Vouchers from select Campaign nodes and collect Alliance Credits to rack up points toward a milestone that rewards:\n\n- The Merch Box and Rock Concert Tickets\n- Thor (Infinity War) character shards\n- Mystic Gear for Thor (Infinity War)\n- Ability Materials\n- Dark Promotion Credits\n- Thor (Infinity War)'s ""Ravager"" Costume\n\n<color=#fff568>Asgardian Axe Man Web Event</color>\nEarn Blitz Credits to earn points and then head to the web to collect your milestone reward: Intergalactic Merch Booth Milestone progress\n\n<color=#fff568>Event Store</color>\nSpend your Merch Booth Vouchers in the limited-time Event Store on items to power up your roster. The Event Store refreshes daily, so check back often!"
+ID_INFO_NA_GALACTICWARZONE,Galactic Warzone
+ID_INFO_DE_GALACTICWARZONE,Battle in Alliance War for Gold rewards!
+ID_INFO_BO_GALACTICWARZONE,"Battle in War to earn Iso-8 Ions, Iso-8 Orbs and Defender of Valhalla progress!"

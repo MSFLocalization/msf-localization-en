@@ -3030,8 +3030,7 @@ ID_QU_S1_HITTHELIGHTS,Open 1 Gold Orb
 ID_QU_S2_HITTHELIGHTS,Earn 1 Milestone Point
 ID_QU_NA_DEFENDEROFVALHALLA,Defender of Valhalla
 ID_QU_SD_DEFENDEROFVALHALLA,Participate in July Events
-ID_QU_LM_DEFENDEROFVALHALLA,Participate in various events throughout the month of July to earn milestone progress.
-ID_QU_SC_DEFENDEROFVALHALLA,Participate in July Events
+ID_QU_LD_DEFENDEROFVALHALLA,Participate in various events throughout the month of July to earn milestone progress.
 ID_QU_S1_DEFENDEROFVALHALLA,Collect Gem of Cyttorak
 ID_QU_S2_DEFENDEROFVALHALLA,Collect 1 Boots of Destiny
 ID_QU_S3_DEFENDEROFVALHALLA,Collect 1 Helmet of Glory
@@ -3039,10 +3038,14 @@ ID_QU_S4_DEFENDEROFVALHALLA,Collect 1 Destroyer Gauntlet
 ID_QU_S5_DEFENDEROFVALHALLA,Collect 1 Eternity's Cape
 ID_QU_S6_DEFENDEROFVALHALLA,Collect 1 Twilight Sword
 ID_QU_NA_APEOPLENOTAPLACE,A People Not a Place
-ID_QU_SD_APEOPLENOTAPLACE,Spend Campaign Energy and earn Alliance Credits
-ID_QU_LM_APEOPLENOTAPLACE,"Spend Campaign Energy, earn Alliance Credits, and complete the Valhalla Venture Web Milestone to progress in the milestone. Collect Loki Crowns from Campaign Nodes and the Trickster Orb to Participate in the Glorious Purpose Alliance Leaderboard. "
+ID_QU_SD_APEOPLENOTAPLACE,Spend Campaign Energy and spend Power Cores
+ID_QU_LD_APEOPLENOTAPLACE,"Spend Campaign Energy, spend Power Cores, and complete the Valhalla Venture Web Milestone to progress in the milestone. Collect Loki Crowns from Campaign Nodes and the Trickster Orb to Participate in the Glorious Purpose Alliance Leaderboard. "
 ID_QU_S1_APEOPLENOTAPLACE,Spend 1 Campaign Energy
-ID_QU_S2_APEOPLENOTAPLACE,Earn 1 Alliance Credit
+ID_QU_S2_APEOPLENOTAPLACE,Spend 1 Power Core
+ID_QU_NA_GLORIOUSPURPOSE,Glorious Purpose
+ID_QU_SD_GLORIOUSPURPOSE,Earn Loki Crowns
+ID_QU_LD_GLORIOUSPURPOSE,"Collect Loki Crowns from Campaign Nodes, the Trickster Orb, and the daily Valhalla Venture Web Milestone to participate in the Glorious Purpose Alliance Leaderboard. "
+ID_QU_S1_GLORIOUSPURPOSE,Earn 1 Loki Crown
 ID_QU_NA_MERCHBOOTH,Intergalactic Merch Booth
 ID_QU_SD_MERCHBOOTH,Recruit Thor (Infinity War)!
 ID_QU_LD_MERCHBOOTH,"Earn Alliance Credits and Merch Booth Vouchers from campaign nodes and from the Asgardian Axe Man Milestones to earn points.\n\nRewards include: Thor (Infinity War) character shards, Rock Concert Tickets, Merch Box, Mystic Gear, Dark Promotion Credits and more! "
@@ -3056,3 +3059,31 @@ ID_QU_LD_ASGARDIANAXEMAN,Earn Blitz Credits and get Intergalactic Merch Booth pr
 ID_QU_SM_ASGARDIANAXEMAN,Earn Blitz Credits
 ID_QU_SC_ASGARDIANAXEMAN,Earn Blitz Credits
 ID_QU_S1_ASGARDIANAXEMAN,Earn 1 Blitz Credit
+ID_QU_NA_VALHALLAVENTURE,Valhalla Venture
+ID_QU_SD_VALHALLAVENTURE,Earn Alliance Credits
+ID_QU_LD_VALHALLAVENTURE,Earn Alliance Credits to complete this daily milestone that rewards Loki Crowns for the Glorious Purpose Leaderboard and A People Not a Place progress!
+ID_QU_S1_VALHALLAVENTURE,Earn 1 Alliance Credit
+ID_QU_NA_SECONDSON,Second Son
+ID_QU_SD_SECONDSON,Spend Power Cores
+ID_QU_LD_SECONDSON,Spend Power Cores to complete this daily milestone that rewards Gems of Cyttorak for Defender of Valhalla progress!
+ID_QU_S1_SECONDSON,Spend 1 Power Core
+ID_QU_NA_VALHALLAVANGUARD,Valhalla Vanguard
+ID_QU_SD_VALHALLAVANGUARD,Battle in Raids
+ID_QU_LD_VALHALLAVANGUARD,Battle in Raids to complete this daily milestone that rewards Apples of Idunn for Bounty of Asgard Event progress!
+ID_QU_S1_VALHALLAVANGUARD,Play 1 Raid Battle
+ID_QU_NA_WORTHYWARRIOR,Worthy Warrior
+ID_QU_SD_WORTHYWARRIOR,Spend Campaign Energy
+ID_QU_LD_WORTHYWARRIOR,Spend Campaign Energy to complete this daily milestone that rewards Korbinite Orbs for Voyage of Skuttlebutt Event progress!
+ID_QU_S1_WORTHYWARRIOR,Spend 1 Campaign Energy
+ID_QU_NA_GODLYGATHERING,Godly Gathering
+ID_QU_SD_GODLYGATHERING,Earn Alliance Credits
+ID_QU_LD_GODLYGATHERING,Earn Alliance Credits to complete this daily milestone that rewards Realm Raiders progress!
+ID_QU_S1_GODLYGATHERING,Earn 1 Alliance Credit
+ID_QU_NA_MISCHIEFRETURNS,Mischief Returns
+ID_QU_SD_MISCHIEFRETURNS,Open Deceiver Orbs by battling in Arena
+ID_QU_LD_MISCHIEFRETURNS,"Gain progress by opening Deceiver Orbs earned from Arena Ranked Rewards, completing the daily Second Son Web Milestone, and spending Arena Credits on special Milestone Point offers."
+ID_QU_S1_MISCHIEFRETURNS,Open 1 Deceiver Orb
+ID_QU_NA_GALACTICWARZONE,Galactic Warzone
+ID_QU_SD_GALACTICWARZONE,Battle in War and Earn Allied Supply Orb Fragments
+ID_QU_LD_GALACTICWARZONE,"Collaborate with your alliances to battle in War and earn Allied Supply Orb Fragments. Allied Supply Orb Fragments can be found in Alliance Donations boxes, Free Claims, and purchased for Power Cores or Offers in the store. "
+ID_QU_S1_GALACTICWARZONE,Play 1 War Battle
