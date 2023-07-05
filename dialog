@@ -3855,6 +3855,70 @@ ID_DIALOG_SCE_VAHL_06_END_4,You could change a Story in the tapestry of fate as 
 ID_DIALOG_SCE_VAHL_06_END_5,I like where this is going. But how would I wield such... delicious power... to save this universe you claim is doomed?
 ID_DIALOG_SCE_VAHL_06_END_6,"Not you alone. Alone, you could not affect a change so great."
 ID_DIALOG_SCE_VAHL_06_END_7,"But with the OTHER 2 Lokis I sense in this universe, perhaps you can."
+ID_DIALOG_SCE_TL_01_START_0,"This is Loki (Teen), a variant of Loki from another universe."
+ID_DIALOG_SCE_TL_01_START_1,"He is a strong healer that provides regeneration for himself and his allies. In raids, he provides a huge damage boost to allies with Regeneration."
+ID_DIALOG_SCE_TL_01_START_2,"Team with his Bifrost allies: Vahl, Loki, Sylvie, and Beta Ray Bill to take down the Mystic lane in the Incursion Raid!"
+ID_DIALOG_SCE_TL_01_WAVE2_0,Finally! It was so boring in that other dimension. I bet I can have some real fun in this one.
+ID_DIALOG_SCE_TL_01_END_0,Boooooring. I wonder what else this world has to offer.
+ID_DIALOG_SCE_TL_02_INTRO_0,I sense one of the Loki variants we're seeking is near.
+ID_DIALOG_SCE_TL_02_INTRO_1,Can you sense anything more specific?
+ID_DIALOG_SCE_TL_02_INTRO_2,No.
+ID_DIALOG_SCE_TL_02_INTRO_3,Just look for the most handsome godly being in the area.
+ID_DIALOG_SCE_TL_02_INTRO_4,Says the one who can create perfect illusions of whatever he wants.
+ID_DIALOG_SCE_TL_02_START_0,"So... about that whole ""look for another Loki"" thing..."
+ID_DIALOG_SCE_TL_02_START_1,We know we're in the right area at least.
+ID_DIALOG_SCE_TL_02_END_0,You must be the me from this world. What's with that form?
+ID_DIALOG_SCE_TL_02_END_1,A... Teenager? Delightful.
+ID_DIALOG_SCE_TL_02_END_2,Awww! Teen Loki! And is that Alligator Loki?! I loved that storyline!
+ID_DIALOG_SCE_TL_03_INTRO_0,Who are you? I feel like I know you somehow.
+ID_DIALOG_SCE_TL_03_INTRO_1,I am Vahl. We have never met.
+ID_DIALOG_SCE_TL_03_INTRO_2,But you're Asgardian.
+ID_DIALOG_SCE_TL_03_INTRO_3,I am.
+ID_DIALOG_SCE_TL_03_INTRO_4,"Not much for conversation, are they?"
+ID_DIALOG_SCE_TL_03_INTRO_5,"Hold that thought, enemies incoming."
+ID_DIALOG_SCE_TL_03_START_0,The variant we're after is a kid?
+ID_DIALOG_SCE_TL_03_START_1,"Idiotic mortal, I'm a god!"
+ID_DIALOG_SCE_TL_03_START_2,"God, kid, doesn't matter. The one in the dark wants you."
+ID_DIALOG_SCE_TL_03_END_0,"The one in the dark? Cloak, does that mean anything to you?"
+ID_DIALOG_SCE_TL_03_END_1,Not really. It's vague.
+ID_DIALOG_SCE_TL_03_END_2,Many things dwell in the dark. But we now know something useful: someone is hunting variants.
+ID_DIALOG_SCE_TL_03_END_3,Anyone who hunts a god will soon learn to regret that decision.
+ID_DIALOG_SCE_TL_04_INTRO_0,Are you sure we haven't met before?
+ID_DIALOG_SCE_TL_04_INTRO_1,You sense our resonance. I KEEP stories. You are the God OF Stories.
+ID_DIALOG_SCE_TL_04_INTRO_2,It is how I know where you and the other are even across universes and time. Such is the power of stories.
+ID_DIALOG_SCE_TL_04_INTRO_3,I'm the god of what now?
+ID_DIALOG_SCE_TL_04_START_0,Skreee!
+ID_DIALOG_SCE_TL_04_START_1,You have... the Phoenix?
+ID_DIALOG_SCE_TL_04_START_2,"Halt, she is warning us. She senses and enemy."
+ID_DIALOG_SCE_TL_04_START_3,Clever creature.
+ID_DIALOG_SCE_TL_04_END_0,"Why does the bird freak you out, Deathy?"
+ID_DIALOG_SCE_TL_04_END_1,We're... opposites. It's Life. I'm Death.
+ID_DIALOG_SCE_TL_04_END_2,Sawkaaaw?
+ID_DIALOG_SCE_TL_04_END_3,"She means no offense, little one."
+ID_DIALOG_SCE_TL_04_END_4,Mrrrrrrrr!
+ID_DIALOG_SCE_TL_05_INTRO_0,So where is the last me?
+ID_DIALOG_SCE_TL_05_INTRO_1,"They are elusive. But they are not on Earth, that is clear."
+ID_DIALOG_SCE_TL_05_INTRO_2,Does that mean we get to go to ASGARD?!
+ID_DIALOG_SCE_TL_05_INTRO_3,I do not sense their presence on Asgard.
+ID_DIALOG_SCE_TL_05_INTRO_4,Boo! Hiss!
+ID_DIALOG_SCE_TL_05_START_0,Enough of this. The hunter and Sinister failed. Capture the child and kill the rest.
+ID_DIALOG_SCE_TL_05_MID_0,I'm tired of getting attacked all the time. How are they finding us?
+ID_DIALOG_SCE_TL_05_MID_1,We aren't exactly inconspicuous.
+ID_DIALOG_SCE_TL_05_END_0,The verbose one has a point. We are being attacked far too often.
+ID_DIALOG_SCE_TL_05_END_1,"More of this ""one in the dark"" sending those Ultimus variants after us?"
+ID_DIALOG_SCE_TL_05_END_2,Indeed.
+ID_DIALOG_SCE_TL_05_END_3,"We count among our number two gods, a walking Asgardian armory, and whatever the one with the scythe is."
+ID_DIALOG_SCE_TL_05_END_4,We shall make short work of any who seek to defy us!
+ID_DIALOG_SCE_TL_05_END_5,It is not that simple. To do what must be done will render most of us vulnerable.
+ID_DIALOG_SCE_TL_05_END_6,Don't count the rest of us out either.
+ID_DIALOG_SCE_TL_05_END_7,"Far from it. But for this plan to work, we will need specialized aid."
+ID_DIALOG_SCE_TL_05_END_8,I suppose you have someone in mind then?
+ID_DIALOG_SCE_TL_05_END_9,I do.
+ID_DIALOG_SCE_TL_05_END_10,As long as it's not my idiot brother and his bafoonish coterie.
+ID_DIALOG_SCE_TL_05_END_11,...
+ID_DIALOG_SCE_TL_05_END_12,...
+ID_DIALOG_SCE_TL_05_END_13,"It was them, wasn't it?"
+ID_DIALOG_SCE_TL_05_END_14,I don't know what you're talking about. Summon the Bifrost. We go.
 ID_DIALOG_ECM_ANTMAN_01_INTRO_0,"Ant-Man, S.T.R.I.K.E. needs your help."
 ID_DIALOG_ECM_ANTMAN_01_INTRO_1,"Wow, me? Seriously? What do you need me to steal?"
 ID_DIALOG_ECM_ANTMAN_01_INTRO_2,Nothing. We need a different set of skills this time around.

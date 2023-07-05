@@ -3081,9 +3081,10 @@ ID_QU_LD_GODLYGATHERING,Earn Alliance Credits to complete this daily milestone t
 ID_QU_S1_GODLYGATHERING,Earn 1 Alliance Credit
 ID_QU_NA_MISCHIEFRETURNS,Mischief Returns
 ID_QU_SD_MISCHIEFRETURNS,Open Deceiver Orbs by battling in Arena
-ID_QU_LD_MISCHIEFRETURNS,"Gain progress by opening Deceiver Orbs earned from Arena Ranked Rewards, completing the daily Second Son Web Milestone, and spending Arena Credits on special Milestone Point offers."
-ID_QU_S1_MISCHIEFRETURNS,Open 1 Deceiver Orb
+ID_QU_LD_MISCHIEFRETURNS,Gain progress by earning Deceiver Orb Fragments earned from Arena Ranked Rewards and spending Arena Credits on special Milestone Point offers.
+ID_QU_S1_MISCHIEFRETURNS,Earn 1 Deceiver Orb Fragment
 ID_QU_NA_GALACTICWARZONE,Galactic Warzone
 ID_QU_SD_GALACTICWARZONE,Battle in War and Earn Allied Supply Orb Fragments
-ID_QU_LD_GALACTICWARZONE,"Collaborate with your alliances to battle in War and earn Allied Supply Orb Fragments. Allied Supply Orb Fragments can be found in Alliance Donations boxes, Free Claims, and purchased for Power Cores or Offers in the store. "
+ID_QU_LD_GALACTICWARZONE,"Collaborate with your alliances to battle in War and earn Allied Supply Orb Fragments. Allied Supply Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store. "
 ID_QU_S1_GALACTICWARZONE,Play 1 War Battle
+ID_QU_S2_GALACTICWARZONE,Earn 1 Allied Supply Orb Fragment
