@@ -1225,5 +1225,7 @@ ID_REQUIRES_SINISTER6_MILES,Only <color=#fff568>Sinister Six</color> and <color=
 ID_REQUIRES_TANGLEDWEB_MILES,Only <color=#fff568>Tangled Web</color> and<color=#fff568>Spider-Man (Miles)</color>
 ID_ONLY_BIFROST_NEWWARRIOR,ONLY <color=#fff568>BIFROST</color> or <color=#fff568>NEW WARRIOR</color>
 ID_REQUIRES_BIFROST_NEWWARRIOR,ONLY <color=#fff568>BIFROST</color> or <color=#fff568>NEW WARRIOR</color>\nREQUIRES: <color=#fff568>VAHL</color> AT GEAR TIER 13
+ID_REQUIRES_BIFROST_NEWWARRIOR_BRB,"ONLY <color=#fff568>BIFROST</color> or <color=#fff568>NEW WARRIOR</color>\nREQUIRES: <color=#fff568>VAHL</color>, <color=#fff568>LOKI (TEEN)</color>, <color=#fff568>BETA RAY BILL</color> AT GEAR TIER 13"
 ID_REQUIREMENT_BIFROST_EPIC_PREVIEW_CH,Requires 5 <color=#fff568>BIFROST</color> at Gear Tier 15
 ID_REQUIREMENT_BIFROST_EPIC_PREVIEW_BO,"Requires 5 <color=#fff568>BIFROST</color> at Gear Tier 15, 5-Stars"
+ID_REQUIRES_BIFROST_NEWWARRIOR_TL,"ONLY <color=#fff568>BIFROST</color> or <color=#fff568>NEW WARRIOR</color>\nREQUIRES: <color=#fff568>VAHL</color>, <color=#fff568>LOKI (TEEN)</color> AT GEAR TIER 13"

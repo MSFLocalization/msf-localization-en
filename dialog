@@ -3914,11 +3914,81 @@ ID_DIALOG_SCE_TL_05_END_6,Don't count the rest of us out either.
 ID_DIALOG_SCE_TL_05_END_7,"Far from it. But for this plan to work, we will need specialized aid."
 ID_DIALOG_SCE_TL_05_END_8,I suppose you have someone in mind then?
 ID_DIALOG_SCE_TL_05_END_9,I do.
-ID_DIALOG_SCE_TL_05_END_10,As long as it's not my idiot brother and his bafoonish coterie.
+ID_DIALOG_SCE_TL_05_END_10,As long as it's not my idiot brother and his buffoonish coterie.
 ID_DIALOG_SCE_TL_05_END_11,...
 ID_DIALOG_SCE_TL_05_END_12,...
 ID_DIALOG_SCE_TL_05_END_13,"It was them, wasn't it?"
 ID_DIALOG_SCE_TL_05_END_14,I don't know what you're talking about. Summon the Bifrost. We go.
+ID_DIALOG_SEC_BETARAYBILL_01_START_0,This is Beta Ray Bill. A powerful ally of Asgard he wields Stormbreaker to devastating effect.
+ID_DIALOG_SEC_BETARAYBILL_01_START_1,"Beta Ray Bill is a Protector who deals high damage and gives his Bifrost allies defensive buffs. "
+ID_DIALOG_SEC_BETARAYBILL_01_START_2,"His Ultimate deals greater and greater damage the more buffs Beta Ray Bill has. Paired with the effects he can gain from Bifrost allies, Beta Ray Bill can unleash some truly amazing damage."
+ID_DIALOG_SEC_BETARAYBILL_01_START_3,"Along with his Bifrost team allies, he is very useful in mystic lanes in raids."
+ID_DIALOG_SEC_BETARAYBILL_01_MIDA_0,"Surrender the hammer and we will spare you, Korbinite."
+ID_DIALOG_SEC_BETARAYBILL_01_MIDA_1,"You make a mockery of the Lady Sif, imposter. I will never surrender Stormbreaker."
+ID_DIALOG_SEC_BETARAYBILL_01_MIDA_2,Come and take it. If you can!
+ID_DIALOG_SEC_BETARAYBILL_01_MIDB_0,And who is this?
+ID_DIALOG_SEC_BETARAYBILL_01_MIDB_1,I am Vahl. And you are more of Ultimus' wayward minions.
+ID_DIALOG_SEC_BETARAYBILL_01_MIDB_2,"Ultimus is gone. But our new master has need of that hammer. If you stand with him, you shall fall!"
+ID_DIALOG_SEC_BETARAYBILL_01_END_0,"I thank you, stranger. I see that you are a friend to Asgard, though you travel with... odd company."
+ID_DIALOG_SEC_BETARAYBILL_01_END_1,I think he means us.
+ID_DIALOG_SEC_BETARAYBILL_01_END_2,Also what appears to be two distinct gods of mischief.
+ID_DIALOG_SEC_BETARAYBILL_01_END_3,I will explain...
+ID_DIALOG_SEC_BETARAYBILL_02_INTRO_0,"I see. You have a most worthy quest, Vahl of Asgard."
+ID_DIALOG_SEC_BETARAYBILL_02_INTRO_1,"Will you lend us your aid, Beta Ray Bill?"
+ID_DIALOG_SEC_BETARAYBILL_02_INTRO_2,"Alas, I cannot. I am sworn to hunt down several of these red-eyed ""variants"" as you call them."
+ID_DIALOG_SEC_BETARAYBILL_02_INTRO_3,"If we aid you in your quest, will you in turn aid us in ours?"
+ID_DIALOG_SEC_BETARAYBILL_02_INTRO_4,I would be honored to do so.
+ID_DIALOG_SEC_BETARAYBILL_02_INTRO_5,Then lead the way.
+ID_DIALOG_SEC_BETARAYBILL_02_START_0,Is this really necessary?
+ID_DIALOG_SEC_BETARAYBILL_02_START_1,It does seem like a rather superfluous deviation from our urgent agenda.
+ID_DIALOG_SEC_BETARAYBILL_02_END_0,"We need Bill. When we begin the ritual, you will be extremely vulnerable."
+ID_DIALOG_SEC_BETARAYBILL_02_END_1,You have forbidden me from recruiting your brother. With Bill and these humans we can hold the line when the time comes.
+ID_DIALOG_SEC_BETARAYBILL_02_END_2,"Yes, yes. Fine. Do as you will."
+ID_DIALOG_SEC_BETARAYBILL_03_INTRO_0,"Cheer up, Loki. All these variants are versions of your brother or his friends."
+ID_DIALOG_SEC_BETARAYBILL_03_INTRO_1,Shouldn't that turn that frown upside down?
+ID_DIALOG_SEC_BETARAYBILL_03_INTRO_2,"Do not speak to me, human."
+ID_DIALOG_SEC_BETARAYBILL_03_INTRO_3,I advise you to be more polite to my friend.
+ID_DIALOG_SEC_BETARAYBILL_03_MID_0,"And you, what are you anyway? You're not like anything I've come across before."
+ID_DIALOG_SEC_BETARAYBILL_03_MID_1,"I am Death, Asgardian. Perhaps you feel ill at ease because I remind you of the mortality you try so desperately to hide."
+ID_DIALOG_SEC_BETARAYBILL_03_MID_2,Did you call ME a MORTAL? The impudence!
+ID_DIALOG_SEC_BETARAYBILL_03_MID_3,"Can you two flirt later, like maybe when we're not in the middle of fighting?"
+ID_DIALOG_SEC_BETARAYBILL_03_END_0,"Thanks for holding the space for me, Deathy."
+ID_DIALOG_SEC_BETARAYBILL_03_END_1,That's what friends are for.
+ID_DIALOG_SEC_BETARAYBILL_03_END_2,I admit it's fun to see one so small humble one whose ego is so big.
+ID_DIALOG_SEC_BETARAYBILL_03_END_3,Not as fun as it was to be the one doing it.
+ID_DIALOG_SEC_BETARAYBILL_03_END_4,Ha ha! Well spoken!
+ID_DIALOG_SEC_BETARAYBILL_04_INTRO_0,"I admit, your aid has been invaluable. Were it not for you this would have taken far longer."
+ID_DIALOG_SEC_BETARAYBILL_04_INTRO_1,We have only two more variants I hunt. One is close.
+ID_DIALOG_SEC_BETARAYBILL_04_INTRO_2,Then let's not delay.
+ID_DIALOG_SEC_BETARAYBILL_04_INTRO_3,Agreed!
+ID_DIALOG_SEC_BETARAYBILL_04_START_0,Bill why are you hunting down all these variants of Thor?
+ID_DIALOG_SEC_BETARAYBILL_04_START_1,"As fun as this is, I never thought I would grow tired of killing my brother. Yet here we are."
+ID_DIALOG_SEC_BETARAYBILL_04_START_2,"It is a sacred charge from Odin himself, Little Loki!"
+ID_DIALOG_SEC_BETARAYBILL_04_START_3,"Is it, now? Curious..."
+ID_DIALOG_SEC_BETARAYBILL_04_END_0,I presume you are finding these variants thanks to the hammer?
+ID_DIALOG_SEC_BETARAYBILL_04_END_1,Indeed. How did you know?
+ID_DIALOG_SEC_BETARAYBILL_04_END_2,Because I am familiar with this plan. I thought of it not long after Ultimus arrived.
+ID_DIALOG_SEC_BETARAYBILL_04_END_3,"What are you saying, trickster?"
+ID_DIALOG_SEC_BETARAYBILL_04_END_4,"Hmm? Oh, nothing."
+ID_DIALOG_SEC_BETARAYBILL_05_INTRO_0,"Bill, are you noticing your hammer's power increase as you defeat the various variants of my idiot brother?"
+ID_DIALOG_SEC_BETARAYBILL_05_INTRO_1,"Now that you mention it, it does seem to be gaining power as you describe."
+ID_DIALOG_SEC_BETARAYBILL_05_INTRO_2,"What are you thinking, Loki?"
+ID_DIALOG_SEC_BETARAYBILL_05_INTRO_3,"Be prepared. When we defeat this final Thor, watch for a sudden ambush or attack. Someone has orchestrated this."
+ID_DIALOG_SEC_BETARAYBILL_05_START_0,That's a mighty fine hammer you have there. I think you'd better let me have a look at it.
+ID_DIALOG_SEC_BETARAYBILL_05_START_1,"Hammer envy, Thor?"
+ID_DIALOG_SEC_BETARAYBILL_05_START_2,"Even cast across universes I cannot escape your barbed tongue, brother."
+ID_DIALOG_SEC_BETARAYBILL_05_MID_0,"Well, this is unexpected."
+ID_DIALOG_SEC_BETARAYBILL_05_MID_1,Not really. I thought of this plan months ago.
+ID_DIALOG_SEC_BETARAYBILL_05_MID_2,Oh really? You thought up a plan to get muscles-for-brains to absorb the powers of variant Mjolnirs to curry favor with the Heartless One?
+ID_DIALOG_SEC_BETARAYBILL_05_MID_3,"No, don't be stupid. I thought up a plan to get him to kill a bunch of Thor variants because it would be amusing."
+ID_DIALOG_SEC_BETARAYBILL_05_MID_4,But thanks for revealing your plan. Now be a good variant and die.
+ID_DIALOG_SEC_BETARAYBILL_05_END_0,"So in the end, it was another Loki that was also our foe."
+ID_DIALOG_SEC_BETARAYBILL_05_END_1,"Pale imitation, maybe."
+ID_DIALOG_SEC_BETARAYBILL_05_END_2,"Yes, certainly nothing like the real thing."
+ID_DIALOG_SEC_BETARAYBILL_05_END_3,"And now thanks to my brilliance, we also know who our true enemy is."
+ID_DIALOG_SEC_BETARAYBILL_05_END_4,"The ""Heartless One"" ?"
+ID_DIALOG_SEC_BETARAYBILL_05_END_5,"Wait, since it was a different Loki who blabbed doesn't mean that you're also technically the one who snitched?"
+ID_DIALOG_SEC_BETARAYBILL_05_END_6,You are relentlessly annoying.
 ID_DIALOG_ECM_ANTMAN_01_INTRO_0,"Ant-Man, S.T.R.I.K.E. needs your help."
 ID_DIALOG_ECM_ANTMAN_01_INTRO_1,"Wow, me? Seriously? What do you need me to steal?"
 ID_DIALOG_ECM_ANTMAN_01_INTRO_2,Nothing. We need a different set of skills this time around.
