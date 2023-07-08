@@ -3186,7 +3186,7 @@ ID_OF_DE_DEFENDEROFVALHALLA_MEGA_POINTS,Speed through the <color=#fff568>Defende
 ID_OF_DE_DEFENDEROFVALHALLA_BOOSTER,Stock up on <color=#fff568>Defender of Valhalla</color> progress with this special deal!
 ID_OF_DE_DEFENDEROFVALHALLA_POINTS,Get accelerated progress on <color=#fff568>Defender of Valhalla</color> progress with this special deal!
 ID_OF_DE_DEFENDEROFVALHALLA_BOOSTER_MINOR,Stock up on <color=#fff568>Defender of Valhalla</color> progress with this special deal!
-ID_OF_DE_DEFENDEROFVALHALLA_CATCHUP_MEGA,"Finish strong in the milestones and leaderboards for <color=#fff568>Vahl shards</color>, <color=#fff568>fully crafted Gear Tier 18 pieces</color> and <color=#fff568>up to 8,000,000 T2 Level 5 Ions</color>!"
+ID_OF_DE_DEFENDEROFVALHALLA_CATCHUP_MEGA,"Finish strong in the milestones and leaderboards for <color=#fff568>Vahl shards</color>, <color=#fff568>fully crafted Gear Tier 17 pieces</color> and <color=#fff568>up to 8,000,000 T2 Level 5 Ions</color>!"
 ID_OF_DE_DEFENDEROFVALHALLA_CATCHUP_SUPER,Make explosive progress through milestones for <color=#fff568>Vahl shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
 ID_OF_DE_DEFENDEROFVALHALLA_CATCHUP,Finish strong in the milestones for <color=#fff568>Vahl shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
 ID_OF_DE_DEFENDEROFVALHALLA_CATCHUP_LAST_CHANCE,"Catch this deal before it's too late to earn your final <color=#fff568>Vahl shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>! "
@@ -3217,3 +3217,70 @@ ID_OF_DE_GALACTICWARZONE_FREE,Come back daily for more <color=#fff568>Galactic W
 ID_OF_DE_GALACTICWARZONE_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Galactic Warzone</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_GALACTICWARZONE_EVENTORB,Galactic Warzone: Allied Supply Orbs
 ID_OF_DE_GALACTICWARZONE_EVENTORB,"Get these orbs for <color=#fff568>Galactic Warzone</color> progress and open them for Apocalypse Bounty Orbs containing T2 L5 Ions and a slew of resources! "
+ID_OF_NA_BETARAYBILL_FCO_OFFER,Cosmic Champion
+ID_OF_DE_BETARAYBILL_FCO_OFFER,"Save on <color=#fff568>Star Master Orbs</color>, containing <color=#fff568>up to 180 Beta Ray Bill</color> shards. Give your <color=#fff568>Bifrost</color> team Deflect, Deathproof, and Defense Up and smite enemies with positive effects!"
+ID_OF_NA_BETARAYBILL_WEB_SPECIAL_OFFER,Web Special: Beta Ray Bill
+ID_OF_DE_BETARAYBILL_WEB_SPECIAL_OFFER,"Don't miss this limited deal for <color=#fff568>Beta Ray Bill</color> shards, which unlocks special release offers on your next visit! Give your <color=#fff568>Bifrost</color> team Deflect, Deathproof, and Defense Up and smite enemies with positive effects!"
+ID_OF_DE_BETARAYBILL_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Beta Ray Bill</color> and unlock special release offers on your next visit! Give your <color=#fff568>Bifrost</color> team Deflect, Deathproof, and Defense Up and smite enemies with positive effects!"
+ID_OF_DE_BETARAYBILL_OFFER_SHARD,"Power up <color=#fff568>Beta Ray Bill</color> with this shard offer! Give your <color=#fff568>Bifrost</color> team Deflect, Deathproof, and Defense Up and smite enemies with positive effects!"
+ID_OF_NA_BETARAYBILL_RS_DRAFT,Red Star Draft: Beta Ray Bill
+ID_OF_DE_BETARAYBILL_RS_DRAFT_345,"Get an equal chance of either <color=#fff568>3, 4, or 5 Red Stars</color> for <color=#fff568>Beta Ray Bill</color>. Give your <color=#fff568>Bifrost</color> team Deflect, Deathproof, and Defense Up and smite enemies with positive effects!"
+ID_OF_DE_BETARAYBILL_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, or 6 Red Stars</color> for <color=#fff568>Beta Ray Bill</color>. Give your <color=#fff568>Bifrost</color> team Deflect, Deathproof, and Defense Up and smite enemies with positive effects!"
+ID_OF_DE_BETARAYBILL_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Beta Ray Bill</color>. Give your <color=#fff568>Bifrost</color> team Deflect, Deathproof, and Defense Up and smite enemies with positive effects!"
+ID_OF_NA_BOUNTYOFASGARD_MEGASTARTER,Bounty of Asgard: Mega Starter
+ID_OF_NA_BOUNTYOFASGARD_STARTER,Bounty of Asgard: Starter
+ID_OF_NA_BOUNTYOFASGARD_CATCHUP,Bounty of Asgard: Catch-Up
+ID_OF_NA_BOUNTYOFASGARD_MEGACATCHUP,Bounty of Asgard: Mega Catch-Up
+ID_OF_NA_BOUNTYOFASGARD_EVENT_CUR,Bounty of Asgard: Apples of Idunn
+ID_OF_NA_BOUNTYOFASGARD_WAR,Bounty of Asgard: Daily Battle Bundle
+ID_OF_NA_BOUNTYOFASGARD_POINTS,Bounty of Asgard: Event Points
+ID_OF_NA_BOUNTYOFASGARD_INTERSTITIAL,Bounty of Asgard: Ultimate Treasure
+ID_OF_NA_BOUNTYOFASGARDFREE_CLAIM,Bounty of Asgard: Free Claim
+ID_OF_DE_BOUNTYOFASGARD_MEGASTARTER,Get ahead in the <color=#fff568>Bounty of Asgard</color> Milestone and one-up the competition in the leaderboard for a chance at a <color=#fff568>6-Red Star Apocalypse</color> and <color=#fff568>Gear Tier 18 Mini-Uniques</color>!
+ID_OF_DE_BOUNTYOFASGARD_STARTER,Get ahead in the <color=#fff568>Bounty of Asgard</color> Milestone and one-up the competition in the leaderboard for a chance at a <color=#fff568>6-Red Star Apocalypse</color> and <color=#fff568>Gear Tier 18 Mini-Uniques</color>!
+ID_OF_DE_BOUNTYOFASGARD_CATCHUP,Complete the <color=#fff568>Bounty of Asgard</color> milestone for Teal Tech gear and Elite 5 Credits!
+ID_OF_DE_BOUNTYOFASGARD_MEGACATCHUP,Finish strong in the <color=#fff568>Bounty of Asgard Milestone</color> and climb the leaderboard for a chance at a <color=#fff568>6-Red Star Apocalypse</color> and <color=#fff568>Gear Tier 18 Mini-Uniques</color>!
+ID_OF_DE_BOUNTYOFASGARD_EVENT_CUR,"Spend Apples of Idunn in the Event Store and progress in the <color=#fff568>Bounty of Asgard</color> Milestone for double value! "
+ID_OF_DE_BOUNTYOFASGARD_WAR,Don't miss this daily Alliance War bundle to destroy your opponents and boost your <color=#fff568>Bounty of Asgard Milestone</color> progress!
+ID_OF_DE_BOUNTYOFASGARD_POINTS,Blitz through the <color=#fff568>Bounty of Asgard Milestone</color>!
+ID_OF_DE_BOUNTYOFASGARD_INTERSTITIAL,Stock up on Apples of Idunn and Event Points for extra progress in <color=#fff568>Bounty of Asgard Milestone</color>!
+ID_OF_DE_BOUNTYOFASGARDFREE_CLAIM,Come back daily for more <color=#fff568>Bounty of Asgard</color> progress!
+ID_OF_STOREBAR_BETARAYBILL,Limited Dual: Beta Ray Bill
+ID_OF_NA_BETARAYBILL,Limited Dual: Beta Ray Bill
+ID_OF_DE_BETARAYBILL,Choose your path to power up this Bifrost Protector
+ID_OF_NA_MISCHIEFRETURNS_MEGASTARTER,Mischief Returns: Mega Starter
+ID_OF_NA_MISCHIEFRETURNS_STARTER,Mischief Returns: Starter
+ID_OF_NA_MISCHIEFRETURNS_MEGACATCHUP,Mischief Returns: Mega Catch-Up
+ID_OF_NA_MISCHIEFRETURNS_CATCHUP,Mischief Returns: Catch-Up
+ID_OF_NA_MISCHIEFRETURNS_EVENT_ORB,Mischief Returns: Deceiver Orb
+ID_OF_NA_MISCHIEFRETURNS_POINTS,Mischief Returns: Daily Points
+ID_OF_NA_MISCHIEFRETURNS_INTERSTITIAL,Mischief Returns: Trickster's Cache
+ID_OF_NA_MISCHIEFRETURNS_FREE_CLAIM,Mischief Returns: Free Claim
+ID_OF_DE_MISCHIEFRETURNS_MEGASTARTER,Speed through the <color=#fff568>Mischief Returns</color> Milestone and get <color=#fff568>Loki (Teen) shards</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_MISCHIEFRETURNS_STARTER,Get ahead in the <color=#fff568>Mischief Returns</color> Milestone and fast-forward your way to <color=#fff568>Loki (Teen) shards</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_MISCHIEFRETURNS_MEGACATCHUP,Climb the final steps of the <color=#fff568>Mischief Returns</color> Milestone and get <color=#fff568>Loki (Teen) shards</color> and <color=#fff568>Teal Gear</color> before it's too late!
+ID_OF_DE_MISCHIEFRETURNS_CATCHUP,Finish strong in the <color=#fff568>Mischief Returns</color> milestone for <color=#fff568>Loki (Teen) shards</color>!
+ID_OF_DE_MISCHIEFRETURNS_EVENT_ORB,Cast a spell of glory and get Deceiver Orbs for progress in the <color=#fff568>Mischief Returns Milestone</color> and <color=#fff568>Loki (Teen) shards</color> from opening the orb!
+ID_OF_DE_MISCHIEFRETURNS_POINTS,Make consistent <color=#fff568>Mischief Returns</color> progress with this daily milestone points supply!
+ID_OF_DE_MISCHIEFRETURNS_INTERSTITIAL,Get boosted <color=#fff568>Mischief Returns</color> progress with this daily trove of resources!
+ID_OF_DE_MISCHIEFRETURNS_FREE_CLAIM,Come back daily for more <color=#fff568>Mischief Returns</color> progress!
+ID_OF_NA_GALACTICWARZONE_MEGASTARTER,Galactic Warzone: Mega Starter
+ID_OF_NA_GALACTICWARZONE_STARTER,Galactic Warzone: Starter
+ID_OF_NA_GALACTICWARZONE_MEGACATCHUP,Galactic Warzone: Mega Catch-Up
+ID_OF_NA_GALACTICWARZONE_CATCHUP,Galactic Warzone: Catch-Up
+ID_OF_DE_GALACTICWARZONE_MEGASTARTER,Boost your alliance towards a mountain of gold in the <color=#fff568>Galactic Warzone</color> Milestone!
+ID_OF_DE_GALACTICWARZONE_STARTER,Get a head start in the <color=#fff568>Galactic Warzone</color> Milestone and get tons of gold!
+ID_OF_DE_GALACTICWARZONE_MEGACATCHUP,Support your alliance with this incredible deal for a mountain of gold in the <color=#fff568>Galactic Warzone</color> Milestone!
+ID_OF_DE_GALACTICWARZONE_CATCHUP,Finish strong in the <color=#fff568>Galactic Warzone</color> Milestone and get heaps of gold!
+ID_OF_NA_COORDINATEDASSAULT_MEGASTARTER,Coordinated Assault: Mega Starter
+ID_OF_NA_COORDINATEDASSAULT_STARTER,Coordinated Assault: Starter
+ID_OF_NA_COORDINATEDASSAULT_MEGACATCHUP,Coordinated Assault: Mega Catch-Up
+ID_OF_NA_COORDINATEDASSAULT_CATCHUP,Coordinated Assault: Catch-Up
+ID_OF_NA_COORDINATEDASSAULT_ENERGY,Coordinated Assault: Catch-Up
+ID_OF_NA_COORDINATEDASSAULT_EVENT_ORB,Coordinated Assault: Allied Supply
+ID_OF_DE_COORDINATEDASSAULT_MEGASTARTER,Rally your allies for accelerated <color=#fff568>Coordinated Assault</color> Milestone progress and get high value Iso-8 rewards!
+ID_OF_DE_COORDINATEDASSAULT_STARTER,Get a head start in the <color=#fff568>Coordinated Assault</color> Milestone and get high value Iso-8 rewards!
+ID_OF_DE_COORDINATEDASSAULT_MEGACATCHUP,Push your alliance to the finish line in <color=#fff568>Coordinated Assault</color> Milestone progress and get T2 Level 4 Ions and Apocalypse Bounty Orbs containing T2 Level 5 Ions!
+ID_OF_DE_COORDINATEDASSAULT_CATCHUP,Finish strong with your allies in the <color=#fff568>Coordinated Assault</color> Milestone and get high value Iso-8 rewards!
+ID_OF_DE_COORDINATEDASSAULT_ENERGY,Stock up on Iso-8 Campaign Energy to push your Alliance forward in the <color=#fff568>Coordinated Assault</color> milestone!
+ID_OF_DE_COORDINATEDASSAULT_EVENT_ORB,"Get Allied Supply orbs for <color=#fff568>Coordinated Assault</color> progress and open them for a heap of resources and Apocalypse Bounty Orbs containing T2 L5 Ions! "
