@@ -3283,4 +3283,54 @@ ID_OF_DE_COORDINATEDASSAULT_STARTER,Get a head start in the <color=#fff568>Coord
 ID_OF_DE_COORDINATEDASSAULT_MEGACATCHUP,Push your alliance to the finish line in <color=#fff568>Coordinated Assault</color> Milestone progress and get T2 Level 4 Ions and Apocalypse Bounty Orbs containing T2 Level 5 Ions!
 ID_OF_DE_COORDINATEDASSAULT_CATCHUP,Finish strong with your allies in the <color=#fff568>Coordinated Assault</color> Milestone and get high value Iso-8 rewards!
 ID_OF_DE_COORDINATEDASSAULT_ENERGY,Stock up on Iso-8 Campaign Energy to push your Alliance forward in the <color=#fff568>Coordinated Assault</color> milestone!
-ID_OF_DE_COORDINATEDASSAULT_EVENT_ORB,"Get Allied Supply orbs for <color=#fff568>Coordinated Assault</color> progress and open them for a heap of resources and Apocalypse Bounty Orbs containing T2 L5 Ions! "
+ID_OF_DE_COORDINATEDASSAULT_EVENT_ORB,Get Allied Supply orbs for <color=#fff568>Coordinated Assault</color> progress and open them for a heap of resources and Apocalypse Bounty Orbs containing T2 L5 Ions!
+ID_OF_DE_BETARAYBILL2,Unlock this Bifrost Protector and special offers on your next visit
+ID_OF_NA_DAILYDUAL_REDSTAR_STOREBAR,Daily Dual: Red Star Rush
+ID_OF_NA_DAILYDUAL_ABM_STOREBAR,Daily Dual: Awesome Ability
+ID_OF_NA_DAILYDUAL_BASIC_CAT_STOREBAR,Daily Dual: Catalysts of Creation
+ID_OF_NA_DAILYDUAL_GOLD_ORB_STOREBAR,Daily Dual: Golden Gleam
+ID_OF_NA_DAILYDUAL_TRAINING_STOREBAR,Daily Dual: Terrific Training
+ID_OF_NA_DAILYDUAL_REDSTAR_PROMOTION_STOREBAR,Daily Dual: Remarkable Red Stars
+ID_OF_NA_DAILYDUAL_GOLD_STOREBAR,Daily Dual: Glittering Gold
+ID_OF_NA_DAILYDUAL_REDSTAR_FREECLAIM,Free Claim: Red Star Rush
+ID_OF_NA_DAILYDUAL_REDSTAR_INTERSTITIAL,Vanishing Offer: Red Star Rush
+ID_OF_NA_DAILYDUAL_REDSTAR,Daily Dual: Red Star Rush
+ID_OF_NA_DAILYDUAL_ABM_FREECLAIM,Free Claim: Awesome Ability
+ID_OF_NA_DAILYDUAL_ABM_INTERSTITIAL,Vanishing Offer: Awesome Ability
+ID_OF_NA_DAILYDUAL_ABM,Daily Dual: Awesome Ability
+ID_OF_NA_DAILYDUAL_BASIC_CAT_FREECLAIM,Free Claim: Catalysts of Creation
+ID_OF_NA_DAILYDUAL_BASIC_CAT_INTERSTITIAL,Vanishing Offer: Catalysts of Creation
+ID_OF_NA_DAILYDUAL_BASIC_CAT,Daily Dual: Catalysts of Creation
+ID_OF_NA_DAILYDUAL_GOLD_ORB_FREECLAIM,Free Claim: Golden Gleam
+ID_OF_NA_DAILYDUAL_GOLD_ORB_INTERSTITIAL,Vanishing Offer: Golden Gleam
+ID_OF_NA_DAILYDUAL_GOLD_ORB,Daily Dual: Golden Gleam
+ID_OF_NA_DAILYDUAL_TRAINING_FREECLAIM,Free Claim: Terrific Training
+ID_OF_NA_DAILYDUAL_TRAINING_INTERSTITIAL,Vanishing Offer: Terrific Training
+ID_OF_NA_DAILYDUAL_TRAINING,Daily Dual: Terrific Training
+ID_OF_NA_DAILYDUAL_REDSTAR_PROMOTION_FREECLAIM,Free Claim: Remarkable Red Stars
+ID_OF_NA_DAILYDUAL_REDSTAR_PROMOTION_INTERSTITIAL,Vanishing Offer: Remarkable Red Stars
+ID_OF_NA_DAILYDUAL_REDSTAR_PROMOTION,Daily Dual: Remarkable Red Stars
+ID_OF_NA_DAILYDUAL_GOLD_FREECLAIM,Free Claim: Glittering Gold
+ID_OF_NA_DAILYDUAL_GOLD_INTERSTITIAL,Vanishing Offer: Glittering Gold
+ID_OF_NA_DAILYDUAL_GOLD,Daily Dual: Glittering Gold
+ID_OF_DE_DAILYDUAL_REDSTAR_FREECLAIM,Find more Red Stars in our Daily Dual: Red Star Rush!
+ID_OF_DE_DAILYDUAL_REDSTAR_INTERSTITIAL,"This offer will vanish when you close the window, don't miss out! Find more Red Stars in our Daily Dual: Red Star Rush!"
+ID_OF_DE_DAILYDUAL_REDSTAR,Power up the Red Star Ranks of your roster in today's special offer!
+ID_OF_DE_DAILYDUAL_ABM_FREECLAIM,Find more Ability Materials in our Daily Dual: Awesome Ability!
+ID_OF_DE_DAILYDUAL_ABM_INTERSTITIAL,"This offer will vanish when you close the window, don't miss out! Find more Ability Materials in our Daily Dual: Awesome Ability!"
+ID_OF_DE_DAILYDUAL_ABM,Get the materials to level critical Abilities in today's special offer!
+ID_OF_DE_DAILYDUAL_BASIC_CAT_FREECLAIM,Find more Catalysts in our Daily Dual: Catalysts of Creation!
+ID_OF_DE_DAILYDUAL_BASIC_CAT_INTERSTITIAL,"This offer will vanish when you close the window, don't miss out! Find more Catalysts in our Daily Dual: Catalysts of Creation!"
+ID_OF_DE_DAILYDUAL_BASIC_CAT,Grab essential Catalysts to craft gear in today's special offer!
+ID_OF_DE_DAILYDUAL_GOLD_ORB_FREECLAIM,Find more Gold Orbs in our Daily Dual: Golden Gleam!
+ID_OF_DE_DAILYDUAL_GOLD_ORB_INTERSTITIAL,"This offer will vanish when you close the window, don't miss out! Find more Gold Orbs in our Daily Dual: Golden Gleam!"
+ID_OF_DE_DAILYDUAL_GOLD_ORB,Get the Gold Orbs needed to power up your roster in today's special offer!
+ID_OF_DE_DAILYDUAL_TRAINING_FREECLAIM,Find more Training materials in our Daily Dual: Terrific Training!
+ID_OF_DE_DAILYDUAL_TRAINING_INTERSTITIAL,"This offer will vanish when you close the window, don't miss out! Find more Training materials in our Daily Dual: Terrific Training!"
+ID_OF_DE_DAILYDUAL_TRAINING,Pick up a training material bundle to level up characters in today's special offer!
+ID_OF_DE_DAILYDUAL_REDSTAR_PROMOTION_FREECLAIM,Find more Training materials in our Daily Dual: Remarkable Red Stars!
+ID_OF_DE_DAILYDUAL_REDSTAR_PROMOTION_INTERSTITIAL,"This offer will vanish when you close the window, don't miss out! Find more Training materials in our Daily Dual: Remarkable Red Stars!"
+ID_OF_DE_DAILYDUAL_REDSTAR_PROMOTION_,Focus on Red Star promotions of your choice with todays special offer!
+ID_OF_DE_DAILYDUAL_GOLD_FREECLAIM,Find more Gold in our Daily Dual: Glittering Gold!
+ID_OF_DE_DAILYDUAL_GOLD_INTERSTITIAL,"This offer will vanish when you close the window, don't miss out! Find more Gold in our Daily Dual: Glittering Gold!"
+ID_OF_DE_DAILYDUAL_GOLD,Get the Gold needed to power up your roster in today's special offer!

@@ -182,6 +182,8 @@ ID_ABILITY_BETARAYBILL_VAR_BASIC_DAMAGE_DIFF,nextlevel.basic.action.0.stat_modif
 ID_ABILITY_BETARAYBILL_VAR_BASIC_DAMAGE_BONUS,thislevel.basic.action.0.stat_modifier.1.delta
 ID_ABILITY_BETARAYBILL_VAR_BASIC_DAMAGE_BONUS_NEXT,nextlevel.basic.action.0.stat_modifier.1.delta
 ID_ABILITY_BETARAYBILL_VAR_BASIC_DAMAGE_BONUS_DIFF,nextlevel.basic.action.0.stat_modifier.1.delta - thislevel.basic.action.0.stat_modifier.1.delta
+ID_ABILITY_BETARAYBILL_VAR_BASIC_ABILITY_ENERGY,thislevel.basic.action.2.count
+ID_ABILITY_BETARAYBILL_VAR_BASIC_ABILITY_ENERGY_NEXT,nextlevel.basic.action.2.count
 ID_ABILITY_BETARAYBILL_VAR_SPECIAL_DAMAGE,thislevel.special.action.0.stat_modifier.0.delta
 ID_ABILITY_BETARAYBILL_VAR_SPECIAL_DAMAGE_DIFF,nextlevel.special.action.0.stat_modifier.0.delta - thislevel.special.action.0.stat_modifier.0.delta
 ID_ABILITY_BETARAYBILL_VAR_SPECIAL_STUN_CHANCE,thislevel.special.action.1.action_pct
@@ -196,21 +198,27 @@ ID_ABILITY_BETARAYBILL_VAR_SPECIAL_DEFLECT_COUNT,thislevel.special.action.4.proc
 ID_ABILITY_BETARAYBILL_VAR_SPECIAL_DEFLECT_COUNT_NEXT,nextlevel.special.action.4.procs.0.use_count
 ID_ABILITY_BETARAYBILL_VAR_SPECIAL_DEFLECT_COUNT_DIFF,nextlevel.special.action.4.procs.0.use_count - thislevel.special.action.4.procs.0.use_count
 ID_ABILITY_BETARAYBILL_VAR_ULTIMATE_DAMAGE_PERPROC_RAIDS,thislevel.ultimate.action.0.pct_per_proc
-ID_ABILITY_BETARAYBILL_VAR_ULTIMATE_DAMAGE_PERPROC,thislevel.ultimate.action.1.pct_per_proc
+ID_ABILITY_BETARAYBILL_VAR_ULTIMATE_DAMAGE_PERPROC,thislevel.ultimate.action.0.pct_per_proc
 ID_ABILITY_BETARAYBILL_VAR_ULTIMATE_DAMAGE_PERPROC_RAIDS_DIFF,nextlevel.ultimate.action.0.pct_per_proc - thislevel.ultimate.action.0.pct_per_proc
-ID_ABILITY_BETARAYBILL_VAR_ULTIMATE_DAMAGE,thislevel.ultimate.action.2.stat_modifier.0.delta
-ID_ABILITY_BETARAYBILL_VAR_ULTIMATE_DAMAGE_DIFF,nextlevel.ultimate.action.2.stat_modifier.0.delta - thislevel.ultimate.action.2.stat_modifier.0.delta
-ID_ABILITY_BETARAYBILL_VAR_ULTIMATE_DAMAGE_BONUS,thislevel.ultimate.action.2.stat_modifier.1.delta
-ID_ABILITY_BETARAYBILL_VAR_ULTIMATE_FLIP_COUNT,thislevel.ultimate.action.3.count
-ID_ABILITY_BETARAYBILL_VAR_ULTIMATE_FLIP_COUNT_NEXT,nextlevel.ultimate.action.3.count
-ID_ABILITY_BETARAYBILL_VAR_ULTIMATE_FLIP_COUNT_DIFF,nextlevel.ultimate.action.3.count - thislevel.ultimate.action.3.count
+ID_ABILITY_BETARAYBILL_VAR_ULTIMATE_DAMAGE,thislevel.ultimate.action.1.stat_modifier.0.delta
+ID_ABILITY_BETARAYBILL_VAR_ULTIMATE_DAMAGE_DIFF,nextlevel.ultimate.action.1.stat_modifier.0.delta - thislevel.ultimate.action.1.stat_modifier.0.delta
+ID_ABILITY_BETARAYBILL_VAR_ULTIMATE_DAMAGE_BONUS,thislevel.ultimate.action.1.stat_modifier.1.delta
+ID_ABILITY_BETARAYBILL_VAR_ULTIMATE_FLIP_COUNT,thislevel.ultimate.action.2.count
+ID_ABILITY_BETARAYBILL_VAR_ULTIMATE_FLIP_COUNT_NEXT,nextlevel.ultimate.action.2.count
+ID_ABILITY_BETARAYBILL_VAR_ULTIMATE_FLIP_COUNT_DIFF,nextlevel.ultimate.action.2.count - thislevel.ultimate.action.2.count
 ID_ABILITY_BETARAYBILL_VAR_PASSIVE_ASGARD_HEAL,thislevel.passive.0.action.0.heal_pct
-ID_ABILITY_BETARAYBILL_VAR_PASSIVE_DEFENSEUP_COUNT,thislevel.passive.1.action.1.procs.0.use_count
-ID_ABILITY_BETARAYBILL_VAR_PASSIVE_DEFENSEUP_COUNT_DIFF,nextlevel.passive.1.action.1.procs.0.use_count - thislevel.passive.1.action.1.procs.0.use_count
-ID_ABILITY_BETARAYBILL_VAR_PASSIVE_DEATHPROOF_COUNT,thislevel.passive.1.action.1.procs.1.use_count
-ID_ABILITY_BETARAYBILL_VAR_PASSIVE_DEATHPROOF_COUNT_DIFF,nextlevel.passive.1.action.1.procs.1.use_count - thislevel.passive.1.action.1.procs.1.use_count
-ID_ABILITY_BETARAYBILL_VAR_PASSIVE_DEFLECT_COUNT,thislevel.passive.1.action.1.procs.2.use_count
-ID_ABILITY_BETARAYBILL_VAR_PASSIVE_DEFLECT_COUNT_DIFF,nextlevel.passive.1.action.1.procs.2.use_count - thislevel.passive.1.action.1.procs.2.use_count
+ID_ABILITY_BETARAYBILL_VAR_PASSIVE_DEFENSEUP_COUNT,thislevel.passive.1.action.0.procs.0.use_count
+ID_ABILITY_BETARAYBILL_VAR_PASSIVE_DEFENSEUP_COUNT_DIFF,nextlevel.passive.1.action.0.procs.0.use_count - thislevel.passive.1.action.0.procs.0.use_count
+ID_ABILITY_BETARAYBILL_VAR_PASSIVE_DEATHPROOF_COUNT,thislevel.passive.1.action.0.procs.1.use_count
+ID_ABILITY_BETARAYBILL_VAR_PASSIVE_DEATHPROOF_COUNT_DIFF,nextlevel.passive.1.action.0.procs.1.use_count - thislevel.passive.1.action.0.procs.1.use_count
+ID_ABILITY_BETARAYBILL_VAR_PASSIVE_DEFLECT_COUNT,thislevel.passive.1.action.0.procs.2.use_count
+ID_ABILITY_BETARAYBILL_VAR_PASSIVE_DEFLECT_COUNT_DIFF,nextlevel.passive.1.action.0.procs.2.use_count - thislevel.passive.1.action.0.procs.2.use_count
+ID_ABILITY_BETARAYBILL_VAR_PASSIVE_CHARGE_GAIN,thislevel.passive.4.action.0.delta
+ID_ABILITY_BETARAYBILL_VAR_PASSIVE_CHARGE_GAIN_DIFF,nextlevel.passive.4.action.0.delta
+ID_ABILITY_BETARAYBILL_VAR_PASSIVE_DAMAGE,thislevel.passive.5.action.0.stat_modifier.0.delta
+ID_ABILITY_BETARAYBILL_VAR_PASSIVE_DAMAGE_DIFF,nextlevel.passive.5.action.0.stat_modifier.0.delta
+ID_ABILITY_BETARAYBILL_VAR_PASSIVE_LOSECHARGED,thislevel.passive.5.action.2.delta
+ID_ABILITY_BETARAYBILL_VAR_PASSIVE_LOSECHARGED_DIFF,nextlevel.passive.5.action.2.delta
 ID_ABILITY_BETARAYBILL_VAR_PASSIVE_HEALTH_THRESHOLD,thislevel.passive.2.exec_value
 ID_ABILITY_BETARAYBILL_VAR_PASSIVE_HEAL_ONE,thislevel.passive.2.action.1.heal_pct
 ID_ABILITY_BETARAYBILL_VAR_PASSIVE_STATS_ARMOR,thislevel.passive_stats.0.delta
