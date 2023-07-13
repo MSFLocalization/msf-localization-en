@@ -3069,7 +3069,7 @@ ID_QU_LD_SECONDSON,Spend Power Cores to complete this daily milestone that rewar
 ID_QU_S1_SECONDSON,Spend 1 Power Core
 ID_QU_NA_VALHALLAVANGUARD,Valhalla Vanguard
 ID_QU_SD_VALHALLAVANGUARD,Battle in Raids
-ID_QU_LD_VALHALLAVANGUARD,Battle in Raids to complete this daily milestone that rewards Apples of Idunn for Bounty of Asgard Event progress!
+ID_QU_LD_VALHALLAVANGUARD,Battle in Raids to complete this daily milestone that rewards Apples of Idunn for Bounty of Asgard Event progress and Allied Supply Orbs for Coordinated Assault Progress!
 ID_QU_S1_VALHALLAVANGUARD,Play 1 Raid Battle
 ID_QU_NA_WORTHYWARRIOR,Worthy Warrior
 ID_QU_SD_WORTHYWARRIOR,Spend Campaign Energy
@@ -3085,15 +3085,21 @@ ID_QU_LD_MISCHIEFRETURNS,Gain progress by earning Deceiver Orb Fragments earned 
 ID_QU_S1_MISCHIEFRETURNS,Earn 1 Deceiver Orb Fragment
 ID_QU_NA_GALACTICWARZONE,Galactic Warzone
 ID_QU_SD_GALACTICWARZONE,Battle in War and Earn Allied Supply Orb Fragments
-ID_QU_LD_GALACTICWARZONE,"Collaborate with your alliances to battle in War and earn Allied Supply Orb Fragments. Allied Supply Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store. "
+ID_QU_LD_GALACTICWARZONE,"Collaborate with your alliances to battle in War and earn Allied Supply Orb Fragments. Allied Supply Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store."
 ID_QU_S1_GALACTICWARZONE,Play 1 War Battle
 ID_QU_S2_GALACTICWARZONE,Earn 1 Allied Supply Orb Fragment
 ID_QU_NA_BOUNTYOFASGARD,Bounty of Asgard
 ID_QU_SD_BOUNTYOFASGARD,Spend Apples of Idunn in the Event Store
-ID_QU_LM_BOUNTYOFASGARD,"Spend Apples of Idunn in the limited time Event Store and battle in Alliance War to earn milestone progress. These items can be earned in Campaign Nodes, daily Free Claims, and the daily Valhalla Vanguard Web Milestone. \nThe Event Store will contain: \n- Select Character Shards\n- Teal Gear\n- Orange Gear\n- Elite 5 & 6 Credits\n- Dark & Silver Promotion Credits"
+ID_QU_LM_BOUNTYOFASGARD,"Spend Apples of Idunn in the limited time Event Store, earn War Credits, and battle in Alliance War with Knowhere characters to earn milestone progress. Apples of Idunn can be earned in Campaign Nodes, daily Free Claims, and the daily Valhalla Vanguard Web Milestone. \nThe Event Store will contain: \n- Select Character Shards\n- Teal Gear\n- Orange Gear\n- Elite 5 & 6 Credits\n- Dark & Silver Promotion Credits"
 ID_QU_S1_BOUNTYOFASGARD,Spend 1 Apple of Idunn
 ID_QU_S2_BOUNTYOFASGARD,Earn 1 War Credit
 ID_QU_S3_BOUNTYOFASGARD,Play 1 War Battle with Knowhere Character at Gear Tier 14+
 ID_QU_S4_BOUNTYOFASGARD,Play 1 War Battle with Knowhere Character at Gear Tier 16+
 ID_QU_S5_BOUNTYOFASGARD,Play 1 War Battle with Knowhere Character at Gear Tier 17+
 ID_QU_S6_BOUNTYOFASGARD,Play 1 War Battle with Knowhere Character at Gear Tier 18
+ID_QU_S7_BOUNTYOFASGARD,Play 1 War Battle with Knowhere Character
+ID_QU_NA_JULY2023_COORDINATEDASSAULT,Coordinated Assault
+ID_QU_SD_JULY2023_COORDINATEDASSAULT,Spend Iso-8 Energy and Earn Allied Supply Orbs
+ID_QU_LD_JULY2023_COORDINATEDASSAULT,"Coordinated Assault Milestone\nGain progress in this 5-day event by spending Iso-8 Campaign Energy and earning Allied Supply Orb fragments from daily Free Claims and the Valhalla Vanguard Web Milestone. Earn incredible rewards including Apocalypse Bounty Orbs, T2 Level 4 Ions, and T2 Level 1 Ions. Apocalypse Bounty Orbs contain up to 5,000,000 T2 Level 5 Ions! You'll also earn points towards the month-long Defender of Valhalla milestone by collecting Gems of Cyttorak.\n\nDaily Valhalla Vanguard Web Milestone\nBattle in Raids to get Allied Supply Orb fragments for additional progress in the Coordinated Assault Milestone. Keep an eye out for Free Claims containing Allied Supply Orb fragments every day!"
+ID_QU_S1_JULY2023_COORDINATEDASSAULT,Spend 1 Iso-8 Campaign Energy
+ID_QU_S2_JULY2023_COORDINATEDASSAULT,Earn 1 Allied Supply Orb Fragment

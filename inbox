@@ -6662,6 +6662,9 @@ ID_ME_BO_STRIKEPASS38_ANNOUNCE,"Commander,\n\n<color=#fff568>S.T.R.I.K.E. Pass: 
 ID_ME_NA_STRIKEPASS38_ENDING,Ending: S.T.R.I.K.E. Pass
 ID_ME_DE_STRIKEPASS38_ENDING,Don't miss Cosmo shards!
 ID_ME_BO_STRIKEPASS38_ENDING,"Commander,\n\nYou only have <color=#fff568>2 days</color> remaining to earn <color=#fff568>Cosmo</color> shards in Season 38 of S.T.R.I.K.E. Pass.\n\nHurry and complete your Daily Objectives before these rewards are gone!"
+ID_ME_NA_NEWBLOGPOST_071423,Last Run of the Horseman Scourges
+ID_ME_DE_NEWBLOGPOST_071423,New Blog Available
+ID_ME_BO_NEWBLOGPOST_071423,"Commander,\n\nScourges evolve into a new shape in this week's blog, which includes:\n\n- Updates to future Scourge Events\n- Defender of Valhalla Events\n- New Hard Campaign details\n\nDon't miss out on this alongside details for Free Claim Friday!"
 ID_ME_NA_BOUNTYOFASGARD_TEASER,Coming Soon: Bounty of Asgard
 ID_ME_NA_BOUNTYOFASGARD_ANNOUNCE,LIVE: Bounty of Asgard
 ID_ME_DE_BOUNTYOFASGARD_CORE,Choose your loot in the Event Store!
@@ -6672,6 +6675,12 @@ ID_ME_BO_BOUNTYOFASGARD_ENDING,"Commander,\n\nThe Bounty of Asgard Event ends in
 ID_ME_NA_PESTILENCE_LAST_LEADERBOARD_ANNOUNCE,Pestilence Scourge Announcement
 ID_ME_DE_PESTILENCE_LAST_LEADERBOARD_ANNOUNCE,Don't miss the final run with Rank Rewards
 ID_ME_BO_PESTILENCE_LAST_LEADERBOARD_ANNOUNCE,"Commander,\n\nWe'll soon be updating the Pestilence Scourge Event!\n\nThe last opportunity to participate before the updates will be during this upcoming run. The next time you see the Pestilence Scourge will see the following updates:\n\n<color=#fff568>New Structure</color>\nThe Pestilence Leaderboard, Rank Rewards, and Victor's Bracket will be permanently removed in favor of a new streamlined structure.\n\n<color=#fff568>Earning Morgan Le Fay Shards</color>\nMorgan Le Fay shards and additional rewards will be earned via new milestones by hitting specific Run Scores. Each milestone will reward enough shards to achieve a Star Level. Run Scores required for each Star Level can be viewed in the Rewards screen for the event.\n\nDon't miss out on your last chance to earn Ranked Rewards and the original Pestilence milestones before the updates go live.\n\nGood luck, Commander!"
+ID_ME_NA_JULY2023_COORDINATEDASSAULT_ANNOUNCE,LIVE: Coordinated Assault
+ID_ME_DE_JULY2023_COORDINATEDASSAULT_CORE,Earn Iso-8 Ions and Defender of Valhalla progress!
+ID_ME_BO_JULY2023_COORDINATEDASSAULT_CORE,"Commander\n\n<color=#fff568>Coordinated Assault Milestone</color>\nGain progress in this <color=#fff568>5-day</color> event by spending Iso-8 Campaign Energy and earning Allied Supply Orb fragments from daily Free Claims and the Valhalla Vanguard Web Milestone. Earn incredible rewards including <color=#fff568>Apocalypse Bounty Orbs, T2 Level 4 Ions, and T2 Level 1 Ions</color>. Apocalypse Bounty Orbs contain up to 5,000,000 T2 Level 5 Ions! You'll also earn points towards the month-long Defender of Valhalla milestone by collecting Gems of Cyttorak.\n\n<color=#fff568>Daily Valhalla Vanguard Web Milestone</color>\nBattle in Raids to get Allied Supply Orb fragments for additional progress in the Coordinated Assault Milestone. Keep an eye out for Free Claims containing Allied Supply Orb fragments every day!\n\nGood luck, Commander!"
+ID_ME_NA_JULY2023_COORDINATEDASSAULT_ENDING,ENDING: Coordinated Assault
+ID_ME_DE_JULY2023_COORDINATEDASSAULT_ENDING,Don't miss out on valuable Iso-8 Rewards!
+ID_ME_BO_JULY2023_COORDINATEDASSAULT_ENDING,"Commander,\n\nThe Coordinated Assault Event <color=#fff568>ends soon</color>. Continue earning Ions and progress towards the Defender of Valhalla Event with Gems of Cyttorak before the event ends!\n\nGood luck, Commander!"
 ID_ME_NA_SHOWCASE_BETARAYBILL_PREVIEW,Coming Soon: Beta Ray Beatdown
 ID_ME_DE_SHOWCASE_BETARAYBILL_PREVIEW,Beta Ray Bill's Showcase
 ID_ME_BO_SHOWCASE_BETARAYBILL_PREVIEW,"Commander,\n\n<color=#fff568>Prepare for Beta Ray Bill's Showcase Event</color>! Earn valuable resources by using Beta Ray Bill in exciting missions:\n\n<color=#fff568>Requirements</color>\nStory Difficulty - Any combination of 5 Bifrost and/or New Warrior characters.\n\nChallenge Difficulty - Beta Ray Bill, Loki (Teen), Vahl and any combination of 2 Bifrost or New Warrior characters. All characters used must be equipped with at least Gear Tier 13.\n\nRewards\nEarn <color=#fff568>Mini-Uniques for Gear Tier 14, 15 and 17, Armory 16 Orbs, Superior and Teal Origin Gear</color>, and more!\n\nGet ready, Commander!"

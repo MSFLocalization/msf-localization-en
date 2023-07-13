@@ -3328,9 +3328,59 @@ ID_OF_DE_DAILYDUAL_GOLD_ORB,Get the Gold Orbs needed to power up your roster in 
 ID_OF_DE_DAILYDUAL_TRAINING_FREECLAIM,Find more Training materials in our Daily Dual: Terrific Training!
 ID_OF_DE_DAILYDUAL_TRAINING_INTERSTITIAL,"This offer will vanish when you close the window, don't miss out! Find more Training materials in our Daily Dual: Terrific Training!"
 ID_OF_DE_DAILYDUAL_TRAINING,Pick up a training material bundle to level up characters in today's special offer!
-ID_OF_DE_DAILYDUAL_REDSTAR_PROMOTION_FREECLAIM,Find more Training materials in our Daily Dual: Remarkable Red Stars!
-ID_OF_DE_DAILYDUAL_REDSTAR_PROMOTION_INTERSTITIAL,"This offer will vanish when you close the window, don't miss out! Find more Training materials in our Daily Dual: Remarkable Red Stars!"
+ID_OF_DE_DAILYDUAL_REDSTAR_PROMOTION_FREECLAIM,Find Promotion Credits in our Daily Dual: Remarkable Red Stars!
+ID_OF_DE_DAILYDUAL_REDSTAR_PROMOTION_INTERSTITIAL,"This offer will vanish when you close the window, don't miss out! Find Promotion Credits in our Daily Dual: Remarkable Red Stars!"
 ID_OF_DE_DAILYDUAL_REDSTAR_PROMOTION_,Focus on Red Star promotions of your choice with todays special offer!
 ID_OF_DE_DAILYDUAL_GOLD_FREECLAIM,Find more Gold in our Daily Dual: Glittering Gold!
 ID_OF_DE_DAILYDUAL_GOLD_INTERSTITIAL,"This offer will vanish when you close the window, don't miss out! Find more Gold in our Daily Dual: Glittering Gold!"
 ID_OF_DE_DAILYDUAL_GOLD,Get the Gold needed to power up your roster in today's special offer!
+ID_OF_NA_SUMMER_REDSTAR,Red Hot Summer
+ID_OF_NA_SUMMER_INVADERS,Summer Invasion
+ID_OF_NA_SUMMER_TEALGEAR,Augmented Explosion
+ID_OF_NA_SUMMER_DEATHSEED,Summer Celebration: Death Seed
+ID_OF_NA_SUMMER_ELITE,Heat Elite
+ID_OF_NA_SUMMER_ENERGY,Sizzling Energy
+ID_OF_NA_SUMMER_GOLD,Golden Hour
+ID_OF_NA_SUMMER_ORBS,Orb Picnic
+ID_OF_NA_SUMMER_REDSTAR2,Sizzling Promotions
+ID_OF_NA_SUMMER_ENERGY2,Solar Energy
+ID_OF_NA_SUMMER_GENERIC,Summer Celebration Bundle
+ID_OF_NA_SUMMER_MASTERSOFEVIL,Summer Celebration: Masters of Evil
+ID_OF_NA_SUMMER_TRAINING,Summer Bootcamp
+ID_OF_DE_SUMMER_REDSTAR,Take your top characters to the next level with this mega deal on <color=#d10000>Red Stars</color>!
+ID_OF_DE_SUMMER_INVADERS,Strengthen your Invaders to crush enemies in Skill Raid nodes!
+ID_OF_DE_SUMMER_TEALGEAR,Take advantage of this mega deal on Augmented Gear to get the edge on your opponents!
+ID_OF_DE_SUMMER_DEATHSEED,Strengthen your Death Seed team to crush enemies in Mutant Raid nodes!
+ID_OF_DE_SUMMER_GOLD,Grab this mega deal for enough Gold to take two characters from level 1 to 84!
+ID_OF_DE_SUMMER_TEALGEAR2,A rare opportunity to grab Augmented unique gear pieces at a discount!
+ID_OF_DE_SUMMER_GPC_ENERGY,Fortify your roster and progress in Campaigns with this special deal!
+ID_OF_DE_SUMMER_TRAINING,Rest is for the wicked. Upgrade your strongest characters with this special deal on <color=#ff6622>Training Modules</color>!
+ID_OF_NA_BOUNTYOFASGARD_ENERGY,Bounty of Asgard: Daily Energy
+ID_OF_DE_BOUNTYOFASGARD_ENERGY,Get your daily dose of Campaign Energy to collect more Apples of Idunn to spend in the Event Store for progress in the <color=#fff568>Bounty of Asgard</color> Milestone!
+ID_OF_NA_SUMMER_7REDSTAR_DRAFT_INVADERS,Summer Celebration: Invaders Draft
+ID_OF_DE_SUMMER_7REDSTAR_DRAFT_INVADERS,A chance to bolster the rank of one Invader straight to 7 Red Stars to help power through Skill nodes! (Tap the icon for details. Duplicate Red Stars will be converted)
+ID_OF_NA_SUMMER_7REDSTAR_DRAFT_BIONIC_AVENGERS,Red Star Draft: Bionic Avengers
+ID_OF_DE_SUMMER_7REDSTAR_DRAFT_BIONIC_AVENGERS,Upgrade the rank of one Bionic Avenger straight to 7 Red Stars and dismantle Tech Raid nodes! (Tap the icon for details. Duplicate Red Stars will be converted)
+ID_OF_NA_SUMMER_7REDSTAR_DRAFT_REBIRTH,Summer Celebration: Rebirth Draft
+ID_OF_DE_SUMMER_7REDSTAR_DRAFT_REBIRTH,Raise the rank of one Invader to 7 Red Stars to dominate Bio Raid nodes! (Tap the icon for details. Duplicate Red Stars will be converted)
+ID_OF_NA_SUMMER_7REDSTAR_DRAFT_TANGLED_WEB,Red Star Draft: Tangled Web
+ID_OF_DE_SUMMER_7REDSTAR_DRAFT_TANGLED_WEB,Launch a Tangled Web member to the heights of 7 Red Stars to help secure Cosmic Crucible rooms! (Tap the icon for details. Duplicate Red Stars will be converted)
+ID_OF_NA_SUMMER_7REDSTAR_DRAFT_DEATHSEED,Summer Celebration: Death Seed Draft
+ID_OF_DE_SUMMER_7REDSTAR_DRAFT_DEATHSEED,Bring a Death Seed member to 7 Red Stars to push through challenging Mutant Raid nodes! (Tap the icon for details. Duplicate Red Stars will be converted)
+ID_OF_NA_SUMMER_7REDSTAR_DRAFT_HEROES_FOR_HIRE,Red Star Draft: Heroes for Hire
+ID_OF_DE_SUMMER_7REDSTAR_DRAFT_HEROES_FOR_HIRE,Raise the Red Star rank of a Heroes for Hire member to their...highest! Fortify your War defense to help your Alliance secure victory! (Tap the icon for details. Duplicate Red Stars will be converted)
+ID_OF_NA_SUMMER_7REDSTAR_DRAFT_NEW_WARRIORS,Summer Celebration: New Warriors Draft
+ID_OF_DE_SUMMER_7REDSTAR_DRAFT_NEW_WARRIORS,Get a chance at 7 Red Stars for one of the New Warriors to help get you through the most difficult opponents in Cosmic Crucible! (Tap the icon for details. Duplicate Red Stars will be converted)
+ID_OF_NA_SUMMER_7REDSTAR_DRAFT_YOUNG_AVENGERS,Red Star Draft: Young Avengers
+ID_OF_DE_SUMMER_7REDSTAR_DRAFT_YOUNG_AVENGERS,Take your shot at getting 7 Red Stars for one of your Young Avengers and help make this versatile team even more formidable! (Tap the icon for details. Duplicate Red Stars will be converted)
+ID_OF_NA_SUMMER_7REDSTAR_DRAFT_UNLIMITED_XMEN,Red Star Draft: Unlimited X-Men
+ID_OF_DE_SUMMER_7REDSTAR_DRAFT_UNLIMITED_XMEN,Become a massive threat in Cosmic Crucible with a 7 Red Star rank for one of your Unlimited X-Men members! (Tap the icon for details. Duplicate Red Stars will be converted)
+ID_OF_NA_SUMMER_7REDSTAR_DRAFT_INFINITY_WATCH,Red Star Draft: Infinity Watch
+ID_OF_DE_SUMMER_7REDSTAR_DRAFT_INFINITY_WATCH,Power up one of your Infinity Watch team members to 7 Red Stars and help this versatile team take down the opposition! (Tap the icon for details. Duplicate Red Stars will be converted)
+ID_OF_NA_SUMMER_GLORIOUSLY_GOLDEN,Summer Celebration: Gloriously Golden
+ID_OF_DE_SUMMER_GLORIOUSLY_GOLDEN,Take advantage of this {var1}-day calendar packed with over {var2} gold to power up your roster and bring the heat to opponents! (Tap the icon for details)
+ID_OF_NA_SUMMER_GOLDEN_GLEAM,Summer Celebration: Golden Gleam
+ID_OF_DE_SUMMER_GOLDEN_GLEAM,Keep Summer shining with this {var1}-day calendar that grants {var2} gold! Use this glettering pile of riches to take your roster to new heights! (Tap the icon for details)
+ID_OF_NA_SUMMER_IRONFISTWWII,Summer Celebration: Iron Fist (WWII)
+ID_OF_NA_SUMMER_FIRESTAR,Summer Celebration: Firestar
+ID_OF_NA_SUMMER_COSMO,Summer Celebration: Cosmo
