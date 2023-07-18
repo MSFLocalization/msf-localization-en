@@ -3362,11 +3362,11 @@ ID_OF_DE_SUMMER_7REDSTAR_DRAFT_INVADERS,A chance to bolster the rank of one Inva
 ID_OF_NA_SUMMER_7REDSTAR_DRAFT_BIONIC_AVENGERS,Red Star Draft: Bionic Avengers
 ID_OF_DE_SUMMER_7REDSTAR_DRAFT_BIONIC_AVENGERS,Upgrade the rank of one Bionic Avenger straight to 7 Red Stars and dismantle Tech Raid nodes! (Tap the icon for details. Duplicate Red Stars will be converted)
 ID_OF_NA_SUMMER_7REDSTAR_DRAFT_REBIRTH,Summer Celebration: Rebirth Draft
-ID_OF_DE_SUMMER_7REDSTAR_DRAFT_REBIRTH,Raise the rank of one Invader to 7 Red Stars to dominate Bio Raid nodes! (Tap the icon for details. Duplicate Red Stars will be converted)
+ID_OF_DE_SUMMER_7REDSTAR_DRAFT_REBIRTH,Raise the rank of one Rebirth member to 7 Red Stars to dominate Bio Raid nodes! (Tap the icon for details. Duplicate Red Stars will be converted)
 ID_OF_NA_SUMMER_7REDSTAR_DRAFT_TANGLED_WEB,Red Star Draft: Tangled Web
 ID_OF_DE_SUMMER_7REDSTAR_DRAFT_TANGLED_WEB,Launch a Tangled Web member to the heights of 7 Red Stars to help secure Cosmic Crucible rooms! (Tap the icon for details. Duplicate Red Stars will be converted)
 ID_OF_NA_SUMMER_7REDSTAR_DRAFT_DEATHSEED,Summer Celebration: Death Seed Draft
-ID_OF_DE_SUMMER_7REDSTAR_DRAFT_DEATHSEED,Bring a Death Seed member to 7 Red Stars to push through challenging Mutant Raid nodes! (Tap the icon for details. Duplicate Red Stars will be converted)
+ID_OF_DE_SUMMER_7REDSTAR_DRAFT_DEATHSEED,"Bring Dark Beast, Nemesis, Magneto, or Psylocke to 7 Red Stars and push through challenging Mutant Raid nodes! (Tap the icon for details. Duplicate Red Stars will be converted)"
 ID_OF_NA_SUMMER_7REDSTAR_DRAFT_HEROES_FOR_HIRE,Red Star Draft: Heroes for Hire
 ID_OF_DE_SUMMER_7REDSTAR_DRAFT_HEROES_FOR_HIRE,Raise the Red Star rank of a Heroes for Hire member to their...highest! Fortify your War defense to help your Alliance secure victory! (Tap the icon for details. Duplicate Red Stars will be converted)
 ID_OF_NA_SUMMER_7REDSTAR_DRAFT_NEW_WARRIORS,Summer Celebration: New Warriors Draft
@@ -3374,7 +3374,7 @@ ID_OF_DE_SUMMER_7REDSTAR_DRAFT_NEW_WARRIORS,Get a chance at 7 Red Stars for one 
 ID_OF_NA_SUMMER_7REDSTAR_DRAFT_YOUNG_AVENGERS,Red Star Draft: Young Avengers
 ID_OF_DE_SUMMER_7REDSTAR_DRAFT_YOUNG_AVENGERS,Take your shot at getting 7 Red Stars for one of your Young Avengers and help make this versatile team even more formidable! (Tap the icon for details. Duplicate Red Stars will be converted)
 ID_OF_NA_SUMMER_7REDSTAR_DRAFT_UNLIMITED_XMEN,Red Star Draft: Unlimited X-Men
-ID_OF_DE_SUMMER_7REDSTAR_DRAFT_UNLIMITED_XMEN,Become a massive threat in Cosmic Crucible with a 7 Red Star rank for one of your Unlimited X-Men members! (Tap the icon for details. Duplicate Red Stars will be converted)
+ID_OF_DE_SUMMER_7REDSTAR_DRAFT_UNLIMITED_XMEN,"Become a massive threat in Cosmic Crucible with a 7 Red Star Gambit, Sunfire, Dazzler, or Fantomex! (Tap the icon for details. Duplicate Red Stars will be converted)"
 ID_OF_NA_SUMMER_7REDSTAR_DRAFT_INFINITY_WATCH,Red Star Draft: Infinity Watch
 ID_OF_DE_SUMMER_7REDSTAR_DRAFT_INFINITY_WATCH,Power up one of your Infinity Watch team members to 7 Red Stars and help this versatile team take down the opposition! (Tap the icon for details. Duplicate Red Stars will be converted)
 ID_OF_NA_SUMMER_GLORIOUSLY_GOLDEN,Summer Celebration: Gloriously Golden
@@ -3384,3 +3384,81 @@ ID_OF_DE_SUMMER_GOLDEN_GLEAM,Keep Summer shining with this {var1}-day calendar t
 ID_OF_NA_SUMMER_IRONFISTWWII,Summer Celebration: Iron Fist (WWII)
 ID_OF_NA_SUMMER_FIRESTAR,Summer Celebration: Firestar
 ID_OF_NA_SUMMER_COSMO,Summer Celebration: Cosmo
+ID_OF_NA_DD6CELEBRATION,Dark Dimension VI Winner Celebration Gift
+ID_OF_NA_DD6CELEBRATION_10FOR10,Dark Dimension VI Winner Celebration: 10 for 10
+ID_OF_DE_DD6CELEBRATION,Celebrate <color=#fff568>BetaRayBill</color>'s monumental achievement as the first Commander to conquer Dark Dimension VI! Use Dark Dimension VI Celebration Tokens from your Inbox to claim your most desired character shards!
+ID_OF_DE_DD6CELEBRATION_10FOR10,Celebrate <color=#fff568>BetaRayBill</color>'s monumental achievement as the first Commander to conquer Dark Dimension VI!
+ID_OF_NA_SYLVIE_FCO_OFFER,Enthralling Enchanter
+ID_OF_DE_SYLVIE_FCO_OFFER,"Each <color=#fff568>Enchanting Orb</color> contains <color=#fff568>up to 180 Sylvie</color> shards. Cut through Raid waves with <color=#fff568>Bifrost</color> by increasing Speed Bar for allies, stripping enemy positive effects, and multi-target attacks!"
+ID_OF_NA_SYLVIE_WEB_SPECIAL_OFFER,Web Special: Sylvie
+ID_OF_DE_SYLVIE_WEB_SPECIAL_OFFER,"Don't miss this limited deal for <color=#fff568>Sylvie</color> shards, which unlocks special release offers on your next visit! Cut through Raid waves with <color=#fff568>Bifrost</color> by increasing Speed Bar for allies, stripping enemy positive effects, and multi-target attacks!"
+ID_OF_DE_SYLVIE_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Sylvie</color> and unlock special release offers on your next visit! Cut through Raid waves with <color=#fff568>Bifrost</color> by increasing Speed Bar for allies, stripping enemy positive effects, and multi-target attacks!"
+ID_OF_DE_SYLVIE_OFFER_SHARD,"Power up <color=#fff568>Sylvie</color> with this shard offer! Cut through Raid waves with <color=#fff568>Bifrost</color> by increasing Speed Bar for allies, stripping enemy positive effects, and multi-target attacks!"
+ID_OF_STOREBAR_SYLVIE,Limited Dual: Sylvie
+ID_OF_NA_DUAL_SYLVIE,Limited Dual: Sylvie
+ID_OF_DE_DUAL_SYLVIE,Choose your path to power up this Bifrost Controller
+ID_OF_DE_DUAL_UNLOCK_SYLVIE,Unlock this Bifrost Controller and special offers on your next visit
+ID_OF_NA_SYLVIE_RS_DRAFT,Red Star Draft: Sylvie
+ID_OF_DE_SYLVIE_RS_DRAFT_345,"Get an equal chance of either <color=#fff568>3, 4, or 5 Red Stars</color> for <color=#fff568>Sylvie</color>. Cut through Raid waves with <color=#fff568>Bifrost</color> by increasing Speed Bar for allies, stripping enemy positive effects, and multi-target attacks!"
+ID_OF_DE_SYLVIE_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, or 6 Red Stars</color> for <color=#fff568>Sylvie</color>. Cut through Raid waves with <color=#fff568>Bifrost</color> by increasing Speed Bar for allies, stripping enemy positive effects, and multi-target attacks!"
+ID_OF_DE_SYLVIE_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Sylvie</color>. Cut through Raid waves with <color=#fff568>Bifrost</color> by increasing Speed Bar for allies, stripping enemy positive effects, and multi-target attacks!"
+ID_OF_NA_STELLARSTANDOFF_EVENTORB,Stellar Standoff: Allied Supply Orbs
+ID_OF_NA_STELLARSTANDOFF_MEGA,Stellar Standoff: Mega Bundle
+ID_OF_NA_STELLARSTANDOFF_INTERSTITIAL,Stellar Standoff: Star Struck Bundle
+ID_OF_NA_STELLARSTANDOFF_FREECLAIM,Stellar Standoff: Free Claim
+ID_OF_DE_STELLARSTANDOFF_EVENTORB,"Get Allied Supply orbs for <color=#fff568>Stellar Standoff</color> progress and open them for a heap of resources and Apocalypse Bounty Orbs containing T2 L5 Ions! "
+ID_OF_DE_STELLARSTANDOFF_MEGA,Rally your allies and smash through the <color=#fff568>Stellar Standoff</color> Milestone and get high value Training Modules and Red Star rewards!
+ID_OF_DE_STELLARSTANDOFF_INTERSTITIAL,Stock up on Allied Supply Orbs for extra progress in the <color=#fff568>Stellar Standoff Milestone</color>!
+ID_OF_DE_STELLARSTANDOFF_FREECLAIM,Come back daily for more <color=#fff568>Stellar Standoff</color> progress!
+ID_OF_NA_VOYAGEOFSKUTTLEBUTT_MEGASTARTER,Voyage of Skuttlebutt: Mega Starter
+ID_OF_NA_VOYAGEOFSKUTTLEBUTT_STARTER,Voyage of Skuttlebutt: Starter
+ID_OF_NA_VOYAGEOFSKUTTLEBUTT_MEGACATCHUP,Voyage of Skuttlebutt: Mega Catch-up
+ID_OF_NA_VOYAGEOFSKUTTLEBUTT_CATCHUP,Voyage of Skuttlebutt: Catch-up
+ID_OF_NA_VOYAGEOFSKUTTLEBUTT_PANIK,"Voyage of Skuttlebutt: "
+ID_OF_NA_VOYAGEOFSKUTTLEBUTT_DAILY_ORB,Voyage of Skuttlebutt: Korbinite Orbs
+ID_OF_NA_VOYAGEOFSKUTTLEBUTT_POINTS,Voyage of Skuttlebutt: Event Points
+ID_OF_NA_VOYAGEOFSKUTTLEBUTT_ENERGY,Voyage of Skuttlebutt: Campaign Energy
+ID_OF_NA_VOYAGEOFSKUTTLEBUTT_BLITZ,Voyage of Skuttlebutt: Blitz
+ID_OF_NA_VOYAGEOFSKUTTLEBUTT_INTERSTITIAL,Voyage of Skuttlebutt: Storm Bundle
+ID_OF_NA_VOYAGEOFSKUTTLEBUTTFREE_CLAIM,Voyage of Skuttlebutt: Free Claim
+ID_OF_NA_VOYAGEOFSKUTTLEBUTTDIRECT_SPC,Voyage of Skuttlebutt: Silver Promotion Credits
+ID_OF_NA_VOYAGEOFSKUTTLEBUTTDIRECT_GT14,Voyage of Skuttlebutt: Orange Gear
+ID_OF_NA_VOYAGEOFSKUTTLEBUTTDIRECT_GT16,Voyage of Skuttlebutt: Armory 16 Orbs
+ID_OF_NA_VOYAGEOFSKUTTLEBUTTDIRECT_GT17,Voyage of Skuttlebutt: Armory 17 Orbs
+ID_OF_NA_VOYAGEOFSKUTTLEBUTTDIRECT_T2L4,Voyage of Skuttlebutt: T2 Level 4 Ions
+ID_OF_NA_VOYAGEOFSKUTTLEBUTTDIRECT_APOCBOUNTY,Voyage of Skuttlebutt: Apocalypse Bounty Orb
+ID_OF_NA_VOYAGEOFSKUTTLEBUTTDIRECT_VAHL,Voyage of Skuttlebutt: Vahl
+ID_OF_NA_VOYAGEOFSKUTTLEBUTTDIRECT_LOKITEEN,Voyage of Skuttlebutt: Loki (Teen)
+ID_OF_NA_VOYAGEOFSKUTTLEBUTTDIRECT_BETARAYBILL,Voyage of Skuttlebutt: Beta Ray Bill
+ID_OF_DE_VOYAGEOFSKUTTLEBUTT_MEGASTARTER,Get ahead in the <color=#fff568>Voyage of Skuttlebutt Milestone</color> and blast through for Elite 7 Credits and Gear Tier 17 Mini-Uniques!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTT_STARTER,Get a head start in the <color=#fff568>Voyage of Skuttlebutt Milestone</color> and speed through for Elite 7 Credits and Gear Tier 17 Mini-Uniques!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTT_MEGACATCHUP,Finish strong in the <color=#fff568>Voyage of Skuttlebutt Milestone</color> and get your hands on Teal Mystic gear and Elite 7 Credits!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTT_CATCHUP,Complete the <color=#fff568>Voyage of Skuttlebutt Milestone</color> for Teal Mystic gear and Elite 7 Credits!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTT_PANIK,"Spend Apples of Idunn in the Event Store and progress in the <color=#fff568>Bounty of Asgard</color> Milestone for double value! "
+ID_OF_DE_VOYAGEOFSKUTTLEBUTT_DAILY_ORB,"Get bonus Korbinite Orbs for Beta Ray Bill shards and <color=#fff568>Voyage of Skuttlebutt Milestone</color> progress! "
+ID_OF_DE_VOYAGEOFSKUTTLEBUTT_POINTS,Make boosted progress in the <color=#fff568>Voyage of Skuttlebutt Milestone</color> and get Elite 7 Credits and Gear Tier 17 Mystic Mini-Uniques!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTT_ENERGY,Get a daily dose of Campaign Energy to complete the <color=#fff568>Worthy Warrior Web Milestone</color> and get additional Korbinite Orbs for the <color=#fff568>Voyage of Skuttlebutt Milestone</color>!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTT_BLITZ,Blitz through the <color=#fff568>Voyage of Skuttlebutt Milestone</color>!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTT_INTERSTITIAL,Stock up on Korbinite Orbs and Event Points for extra progress in the <color=#fff568>Voyage of Skuttlebutt Milestone</color>!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTTFREE_CLAIM,Come back daily for more <color=#fff568>Voyage of Skuttlebutt</color> progress!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTTDIRECT_SPC,Spend Power Cores for progress in the <color=#fff568>Voyage of Skuttlebutt Milestone</color> and get Silver Promotion Credits!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTTDIRECT_GT14,Spend Power Cores for progress in the <color=#fff568>Voyage of Skuttlebutt Milestone</color> and get Armory 14 and Armory 15 Orbs!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTTDIRECT_GT16,Spend Power Cores for progress in the <color=#fff568>Voyage of Skuttlebutt Milestone</color> and get Armory 16 Orbs!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTTDIRECT_GT17,Spend Power Cores for progress in the <color=#fff568>Voyage of Skuttlebutt Milestone</color> and get Armory 17 Orbs!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTTDIRECT_T2L4,Spend Power Cores for progress in the <color=#fff568>Voyage of Skuttlebutt Milestone</color> and get T2 Level 4 Ions!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTTDIRECT_APOCBOUNTY,Spend Power Cores for progress in the <color=#fff568>Voyage of Skuttlebutt Milestone</color> and get an Apocalypse Bounty Orb for T2 Level 5 Ions!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTTDIRECT_VAHL,Spend Power Cores for progress in the <color=#fff568>Voyage of Skuttlebutt Milestone</color> and get Vahl shards!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTTDIRECT_LOKITEEN,Spend Power Cores for progress in the <color=#fff568>Voyage of Skuttlebutt Milestone</color> and get Loki (Teen) shards!
+ID_OF_DE_VOYAGEOFSKUTTLEBUTTDIRECT_BETARAYBILL,Spend Power Cores for progress in the <color=#fff568>Voyage of Skuttlebutt Milestone</color> and get Beta Ray Bill shards!
+ID_OF_NA_REALMRAIDERS_MEGA,Realm Raiders: Mega Bundle
+ID_OF_NA_REALMRAIDERS_SUPER,Realm Raiders: Super Bundle
+ID_OF_NA_REALMRAIDERS_RAID,Realm Raiders: Raid Bundle
+ID_OF_NA_REALMRAIDERS_POINTS,Realm Raiders: Event Points
+ID_OF_NA_REALMRAIDERS_INTERSTITIAL,Realm Raiders: Battle Bundle
+ID_OF_NA_REALMRAIDERS_FREE_CLAIM,Realm Raiders: Free Claim
+ID_OF_DE_REALMRAIDERS_MEGA,Get explosive progress in the <color=#fff568>Realm Raiders Milestone</color> and seize T4 Ability Materials and shards for Vahl and Loki (Teen)!
+ID_OF_DE_REALMRAIDERS_SUPER,Steal through the <color=#fff568>Realm Raiders Milestone</color> and capture some T4 Ability Materials and shards for Vahl and Loki (Teen)!
+ID_OF_DE_REALMRAIDERS_RAID,Get this bundle of Raid Credits for progress in the <color=#fff568>Realm Raiders Milestone</color>!
+ID_OF_DE_REALMRAIDERS_POINTS,Make consistent daily progress in the <color=#fff568>Realm Raider Milestone</color>!
+ID_OF_DE_REALMRAIDERS_INTERSTITIAL,Stock up on Event Points for extra progress in the <color=#fff568>Realm Raider Milestone</color>!
+ID_OF_DE_REALMRAIDERS_FREE_CLAIM,Come back daily for more <color=#fff568>Realm Raider</color> progress!

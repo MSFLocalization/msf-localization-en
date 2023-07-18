@@ -3071,14 +3071,6 @@ ID_QU_NA_VALHALLAVANGUARD,Valhalla Vanguard
 ID_QU_SD_VALHALLAVANGUARD,Battle in Raids
 ID_QU_LD_VALHALLAVANGUARD,Battle in Raids to complete this daily milestone that rewards Apples of Idunn for Bounty of Asgard Event progress and Allied Supply Orbs for Coordinated Assault Progress!
 ID_QU_S1_VALHALLAVANGUARD,Play 1 Raid Battle
-ID_QU_NA_WORTHYWARRIOR,Worthy Warrior
-ID_QU_SD_WORTHYWARRIOR,Spend Campaign Energy
-ID_QU_LD_WORTHYWARRIOR,Spend Campaign Energy to complete this daily milestone that rewards Korbinite Orbs for Voyage of Skuttlebutt Event progress!
-ID_QU_S1_WORTHYWARRIOR,Spend 1 Campaign Energy
-ID_QU_NA_GODLYGATHERING,Godly Gathering
-ID_QU_SD_GODLYGATHERING,Earn Alliance Credits
-ID_QU_LD_GODLYGATHERING,Earn Alliance Credits to complete this daily milestone that rewards Realm Raiders progress!
-ID_QU_S1_GODLYGATHERING,Earn 1 Alliance Credit
 ID_QU_NA_MISCHIEFRETURNS,Mischief Returns
 ID_QU_SD_MISCHIEFRETURNS,Open Deceiver Orbs by battling in Arena
 ID_QU_LD_MISCHIEFRETURNS,Gain progress by earning Deceiver Orb Fragments earned from Arena Ranked Rewards and spending Arena Credits on special Milestone Point offers.
@@ -3103,3 +3095,36 @@ ID_QU_SD_JULY2023_COORDINATEDASSAULT,Spend Iso-8 Energy and Earn Allied Supply O
 ID_QU_LD_JULY2023_COORDINATEDASSAULT,"Coordinated Assault Milestone\nGain progress in this 5-day event by spending Iso-8 Campaign Energy and earning Allied Supply Orb fragments from daily Free Claims and the Valhalla Vanguard Web Milestone. Earn incredible rewards including Apocalypse Bounty Orbs, T2 Level 4 Ions, and T2 Level 1 Ions. Apocalypse Bounty Orbs contain up to 5,000,000 T2 Level 5 Ions! You'll also earn points towards the month-long Defender of Valhalla milestone by collecting Gems of Cyttorak.\n\nDaily Valhalla Vanguard Web Milestone\nBattle in Raids to get Allied Supply Orb fragments for additional progress in the Coordinated Assault Milestone. Keep an eye out for Free Claims containing Allied Supply Orb fragments every day!"
 ID_QU_S1_JULY2023_COORDINATEDASSAULT,Spend 1 Iso-8 Campaign Energy
 ID_QU_S2_JULY2023_COORDINATEDASSAULT,Earn 1 Allied Supply Orb Fragment
+ID_QU_NA_VOYAGEOFSKUTTLEBUTT,Voyage of Skuttlebutt
+ID_QU_SD_VOYAGEOFSKUTTLEBUTT,Earn Korbinite Orbs by battling in Blitz
+ID_QU_LD_VOYAGEOFSKUTTLEBUTT,"Voyage of Skuttlebutt Milestone\nGain progress in this 7-day event by earning Korbinite Orb fragments from winning Blitz battles and a log-in calendar, completing the Worthy Warrior Web Milestone, and spending Power Cores. Earn cosmic rewards including Beta Ray Bill shards, Elite 7 Credits, and Teal Mystic gear. You'll also earn points towards the month-long Defender of Valhalla milestone by collecting Gems of Cyttorak and Eternity's Cape.\n\nDaily Worthy Warrior Web Milestone\nSpend Campaign Energy to earn Korbinite Orbs for additional progress in the Voyage of Skuttlebutt Milestone. Keep an eye out for Free Claims containing Korbinite Orb fragments every day!"
+ID_QU_S1_VOYAGEOFSKUTTLEBUTT,Earn 1 Korbinite Orb Fragment
+ID_QU_S2_VOYAGEOFSKUTTLEBUTT,Spend 1 Power Core
+ID_QU_NA_REALMRAIDERS,Realm Raiders
+ID_QU_SD_REALMRAIDERS,"Battle in Raids, War, and Iso-8 Campaign"
+ID_QU_LD_REALMRAIDERS,"Realm Raiders Milestone\nGain progress in this 3-day event by spending Iso-8 Campaign Energy, battling in War, earning Raid Credits, battling in War with Knowhere characters and battling in Raids with Bifrost characters. Earn increased progress for using Knowhere and Bifrost at higher Gear Tiers. Earn divine rewards including Bifrost shards, Elite 5 Credits, and Teal Skill gear. You'll also earn points towards the month-long Defender of Valhalla milestone by collecting Gems of Cyttorak and the Twilight Sword.\n\nDaily Godly Gathering Web Milestone\nSpend Iso-8 Energy to get Milestone Points for additional progress in the Realm Raiders Milestone. Keep an eye out for Free Claims containing Milestone Points every day!"
+ID_QU_S1_REALMRAIDERS,Earn 1 Raid Credit
+ID_QU_S2_REALMRAIDERS,Play 1 Raid Battle w/ Bifrost Characters
+ID_QU_S3_REALMRAIDERS,Play 1 Raid Battle w/ Bifrost Characters at Gear Tier 14+
+ID_QU_S4_REALMRAIDERS,Play 1 Raid Battle w/ Bifrost Characters at Gear Tier 16+
+ID_QU_S5_REALMRAIDERS,Play 1 Raid Battle w/ Bifrost Characters at Gear Tier 17+
+ID_QU_S6_REALMRAIDERS,Play 1 Raid Battle w/ Bifrost Characters at Gear Tier 18
+ID_QU_S7_REALMRAIDERS,Play 1 War Battle
+ID_QU_NA_WORTHYWARRIOR,Worthy Warrior
+ID_QU_SD_WORTHYWARRIOR,Spend Campaign Energy
+ID_QU_LD_WORTHYWARRIOR,Spend Campaign Energy to complete this daily milestone that rewards Korbinite Orbs for Voyage of Skuttlebutt Event progress!
+ID_QU_S1_WORTHYWARRIOR,Spend 1 Campaign Energy
+ID_QU_NA_GODLYGATHERING,Godly Gathering
+ID_QU_SD_GODLYGATHERING,Spend Iso-8 Campaign Energy
+ID_QU_LD_GODLYGATHERING,Spend Iso-8 Campaign Energy to complete this daily milestone that rewards Realm Raiders and Stellar Standoff progress!
+ID_QU_S1_GODLYGATHERING,Spend 1 Iso-8 Campaign Energy
+ID_QU_NA_STELLARSTANDOFF,Stellar Standoff
+ID_QU_SD_STELLARSTANDOFF,Decimate your Cosmic Crucible foes!
+ID_QU_LD_STELLARSTANDOFF,"Stellar Standoff Milestone\nGain progress in this 3-day event by winning Cosmic Crucible battles with increased progress for using New Warriors at higher Gear Tiers and earning Allied Supply Orb fragments from the Godly Gathering Web Milestone and daily Free Claims. Earn incredible rewards including L4 Training Modules, Elite Credits, and Apocalypse Bounty Orbs. Apocalypse Bounty Orbs contain up to 5,000,000 T2 Level 5 Ions! You'll also earn points towards the month-long Defender of Valhalla milestone by collecting Gems of Cyttorak.\n\nDaily Godly Gathering Web Milestone\nSpend Iso-8 Campaign Energy to get Allied Supply Orb fragments for additional progress in the Stellar Standoff Milestone. Keep an eye out for Free Claims containing Allied Supply Orb fragments every day!"
+ID_QU_S1_STELLARSTANDOFF,Earn 1 Allied Supply Orb Fragment
+ID_QU_S2_STELLARSTANDOFF,Win 1 Cosmic Crucible Battle
+ID_QU_S3_STELLARSTANDOFF,Win 1 Cosmic Crucible Battle w/ New Warrior Characters
+ID_QU_S4_STELLARSTANDOFF,Win 1 Cosmic Crucible Battle w/ New Warrior Characters at Gear Tier 14+
+ID_QU_S5_STELLARSTANDOFF,Win 1 Cosmic Crucible Battle w/ New Warrior Characters at Gear Tier 16+
+ID_QU_S6_STELLARSTANDOFF,Win 1 Cosmic Crucible Battle w/ New Warrior Characters at Gear Tier 17+
+ID_QU_S7_STELLARSTANDOFF,Win 1 Cosmic Crucible Battle w/ New Warrior Characters at Gear Tier 18

@@ -3643,10 +3643,10 @@ ID_OF_NA_SWARM_OFFER_1,Exterminator Offer
 ID_OF_DE_SWARM_OFFER_VAR_S,"Recruit a <color=#fff568>{var1}-star Swarm</color> with this offer! Infest the battlefield with Bonus Attacks when enemies have Defense Down or Disrupted, and apply Disrupted via a rebound chain."
 ID_OF_DE_SWARM_OFFER_VAR,"Get <color=#fff568>{var1} Swarm shards</color> and use him to infest the battlefield with Bonus Attacks when enemies have Defense Down or Disrupted, and apply Disrupted via a rebound chain."
 ID_OF_DE_SWARM_FCO_OFFER_VAR_O_S,"Save on <color=#fff568>{var1} Bzzzz Orb</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Swarm shards</color>. Release the bees with this Sinister Six Controller! Sting enemies with Drain and Bonus Attacks, while healing himself each turn when Charged."
-ID_GACHA_CRATE_FCO_SYLVIE_SPECIAL_NAME,Enchantress Orb
+ID_GACHA_CRATE_FCO_SYLVIE_SPECIAL_NAME,Enchanting Orb
 ID_GACHA_CRATE_FCO_SYLVIE_SPECIAL_DESCRIPTION,Earn up to 180 Sylvie shards
-ID_GACHA_CRATE_FCO_SYLVIE_SPECIAL_TOKEN_NAME,Enchantress Orb Fragments
-ID_GACHA_CRATE_FCO_SYLVIE_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Enchantress Orbs that contain up to 180 Sylvie shards.
+ID_GACHA_CRATE_FCO_SYLVIE_SPECIAL_TOKEN_NAME,Enchanting Orb Fragments
+ID_GACHA_CRATE_FCO_SYLVIE_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Enchanting Orbs that contain up to 180 Sylvie shards.
 ID_GACHA_CRATE_FCO_SYMBIOTESPIDERMAN_SPECIAL_NAME,Back In Black Orb
 ID_GACHA_CRATE_FCO_SYMBIOTESPIDERMAN_SPECIAL_DESCRIPTION,Get up to 180 Spider-Man (Symbiote) shards
 ID_GACHA_CRATE_FCO_SYMBIOTESPIDERMAN_SPECIAL_TOKEN_NAME,Back In Black Orb Fragments
