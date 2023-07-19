@@ -1229,3 +1229,10 @@ ID_REQUIRES_BIFROST_NEWWARRIOR_BRB,"ONLY <color=#fff568>BIFROST</color> or <colo
 ID_REQUIREMENT_BIFROST_EPIC_PREVIEW_CH,Requires 5 <color=#fff568>BIFROST</color> at Gear Tier 15
 ID_REQUIREMENT_BIFROST_EPIC_PREVIEW_BO,"Requires 5 <color=#fff568>BIFROST</color> at Gear Tier 15, 5-Stars"
 ID_REQUIRES_BIFROST_NEWWARRIOR_TL,"ONLY <color=#fff568>BIFROST</color> or <color=#fff568>NEW WARRIOR</color>\nREQUIRES: <color=#fff568>VAHL</color>, <color=#fff568>LOKI (TEEN)</color> AT GEAR TIER 13"
+ID_REQUIRES_BIFROST_NEWWARRIOR_SYLVIE,"ONLY <color=#fff568>BIFROST</color> or <color=#fff568>NEW WARRIOR</color>\nREQUIRES: <color=#fff568>VAHL</color>, <color=#fff568>LOKI (TEEN)</color>, <color=#fff568>BETA RAY BILL</color>, <color=#fff568>SYLVIE</color> AT GEAR TIER 13"
+ID_REQ_INCURSION10_DIF2_MIS08,"<color=#fff568>BETA RAY BILL</color>, Gear Tier 15"
+ID_REQ_INCURSION10_DIF3_MIS08,"<color=#fff568>BETA RAY BILL</color>, Gear Tier 15, 5 Stars"
+ID_REQ_INCURSION10_DIF2_MIS09,"<color=#fff568>VAHL</color>, Gear Tier 15"
+ID_REQ_INCURSION10_DIF3_MIS09,"<color=#fff568>VAHL</color>, Gear Tier 15, 5 Stars"
+ID_REQ_INCURSION10_DIF2,"5 <color=#fff568>BIFROST</color> CHARACTERS, Gear Tier 15"
+ID_REQ_INCURSION10_DIF3,"5 <color=#fff568>REBIRTH</color> CHARACTERS, Gear Tier 15, 5 Stars"

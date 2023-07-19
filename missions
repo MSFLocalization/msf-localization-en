@@ -3085,6 +3085,22 @@ ID_MIS_INCURSION08_07_NAME,A Sacred Charge from Odin
 ID_MIS_INCURSION08_07_DESC,Bill reveals who gave him his quest. Loki grows suspicious.
 ID_MIS_INCURSION08_08_NAME,To the Surprise of Nobody
 ID_MIS_INCURSION08_08_DESC,"The mastermind behind Bill's Thor-acide is revealed, and everyone saw it coming a mile away. Except Bill."
+ID_MIS_INCURSION09_01_NAME,Hammer Time
+ID_MIS_INCURSION09_01_DESC,The final Loki variant has a spot of fun.
+ID_MIS_INCURSION09_02_NAME,Sylvie Flips the Script
+ID_MIS_INCURSION09_02_DESC,"Sylvie plays mind games with the team, but only Gwen seems to notice."
+ID_MIS_INCURSION09_03_NAME,The Scope of the Problem
+ID_MIS_INCURSION09_03_DESC,"Sylvie explains what the team needs to do, and they start doing it."
+ID_MIS_INCURSION09_04_NAME,Various Variants
+ID_MIS_INCURSION09_04_DESC,"The team fights their way to Sylvie's target, but an army of variants stand in their way."
+ID_MIS_INCURSION09_05_NAME,Various Variants II: Variety
+ID_MIS_INCURSION09_05_DESC,The fight to find the Aphelions lieutenants continues.
+ID_MIS_INCURSION09_06_NAME,Various Variants III: Vicious Versions
+ID_MIS_INCURSION09_06_DESC,The team closes in on the Aphelions lieutenants.
+ID_MIS_INCURSION09_07_NAME,Asgardian Gardening Metaphors
+ID_MIS_INCURSION09_07_DESC,Vahl and Sylvie discuss horticulture in relation to strategy.
+ID_MIS_INCURSION09_08_NAME,Phoenix Hunting
+ID_MIS_INCURSION09_08_DESC,The final lieutenant to the Aphelions Kang has been found.
 ID_MISSION_RAID_INCURSION_BIO01_NAME,Bio Mission 1
 ID_MISSION_RAID_INCURSION_BIO02_NAME,Bio Mission 2
 ID_MISSION_RAID_INCURSION_BIOBOSS_NAME,Bio Boss
@@ -3119,6 +3135,24 @@ ID_MIS_INCURSION10_08_NAME_TD,Incursion Raid - Mystic Boss
 ID_MIS_INCURSION10_08_DESC_TD,See how Bifrost handles the Mystic boss from the Incursion raid.
 ID_MIS_INCURSION10_09_NAME_TD,Bifrost vs. Dark Mystics
 ID_MIS_INCURSION10_09_DESC_TD,Battle a very powerful enemy team.
+ID_MIS_INCURSION10_01_NAME,Round 2: FIGHT!
+ID_MIS_INCURSION10_01_DESC,"Looking for Kang, the team goes after the ones who are most likely to know."
+ID_MIS_INCURSION10_02_NAME,"Double the Kang, Double the Fun"
+ID_MIS_INCURSION10_02_DESC,The team gets some unexpected help in dealing with the Kang variant they're looking for.
+ID_MIS_INCURSION10_03_NAME,The Other Important Stones
+ID_MIS_INCURSION10_03_DESC,The team goes on a treasure hunt.
+ID_MIS_INCURSION10_04_NAME,A Perfectly Reasonable Reaction
+ID_MIS_INCURSION10_04_DESC,The team goes looking for the next stone.
+ID_MIS_INCURSION10_05_NAME,A Most Gracious Host
+ID_MIS_INCURSION10_05_DESC,The team closes in on the last stone while Wong silently judges them.
+ID_MIS_INCURSION10_06_NAME,Into the Breach
+ID_MIS_INCURSION10_06_DESC,"With everything needed for the ritual collected, the next stop is the heart of the Incursion itself."
+ID_MIS_INCURSION10_07_NAME,Strange Encounter
+ID_MIS_INCURSION10_07_DESC,"Deep in the shifting maelstrom of colliding realities, the team encounters an unexpected ally."
+ID_MIS_INCURSION10_08_NAME,Change the Story
+ID_MIS_INCURSION10_08_DESC,The ritual begins. A dark enemy is revealed. The next chapter is written.
+ID_MIS_INCURSION10_09_NAME,"Promises, Promises"
+ID_MIS_INCURSION10_09_DESC,"A day after the climactic battle, Vahl collects on a promise and ponders their future."
 ID_FL_SPIDERVERSE_01_NAME,Sinister Mayhem
 ID_FL_SPIDERVERSE_01_DESC,Help Miles Morales take on some familiar faces.
 ID_FL_SPIDERVERSE_02_NAME,Symbiote Surprise

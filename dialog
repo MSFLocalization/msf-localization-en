@@ -3989,6 +3989,257 @@ ID_DIALOG_SEC_BETARAYBILL_05_END_3,"And now thanks to my brilliance, we also kno
 ID_DIALOG_SEC_BETARAYBILL_05_END_4,"The ""Heartless One"" ?"
 ID_DIALOG_SEC_BETARAYBILL_05_END_5,"Wait, since it was a different Loki who blabbed doesn't mean that you're also technically the one who snitched?"
 ID_DIALOG_SEC_BETARAYBILL_05_END_6,You are relentlessly annoying.
+ID_DIALOG_SEC_SYLVIE_01_INTRO_0,"Right then, are you all ready?"
+ID_DIALOG_SEC_SYLVIE_01_INTRO_1,"Excuse me, who are you?"
+ID_DIALOG_SEC_SYLVIE_01_INTRO_2,"Is that... no, it can't be."
+ID_DIALOG_SEC_SYLVIE_01_INTRO_3,Oh but of course it can.
+ID_DIALOG_SEC_SYLVIE_01_INTRO_4,It would appear the last Loki variant has found US.
+ID_DIALOG_SEC_SYLVIE_01_INTRO_5,"Yes, I've been watching you bumble around ever since you recruited the alligator and it's pet teenager."
+ID_DIALOG_SEC_SYLVIE_01_INTRO_6,"So you already know of our need, and our plan?"
+ID_DIALOG_SEC_SYLVIE_01_INTRO_7,"Of course. But after all I've been through, I need to cut loose and have a little fun."
+ID_DIALOG_SEC_SYLVIE_01_START_0,Is anyone else extremely confused? Isn't the new character supposed to join our side?
+ID_DIALOG_SEC_SYLVIE_01_START_1,"Oh honey, I'm being mercurial. And mischievous. And, well, you know, woman's prerogative and all that."
+ID_DIALOG_SEC_SYLVIE_01_START_2,"If this is how the story unfolds, then so be it."
+ID_DIALOG_SEC_SYLVIE_01_MID_0,"Hmm, let's see. How about I take the power of those 5 Mjolnir's you're carting around, and imbue it into one human."
+ID_DIALOG_SEC_SYLVIE_01_MID_1,Hello!
+ID_DIALOG_SEC_SYLVIE_01_MID_2,"No, please. ANYONE but him."
+ID_DIALOG_SEC_SYLVIE_01_MID_3,"FIVE Mjolnir's, you say? You know what that means!"
+ID_DIALOG_SEC_SYLVIE_01_MID_4,Don't say it...
+ID_DIALOG_SEC_SYLVIE_01_MID_5,IT'S HAMMER TIME!
+ID_DIALOG_SEC_SYLVIE_01_END_0,"Great job, kid... you win..."
+ID_DIALOG_SEC_SYLVIE_01_END_1,You might say you really... nailed it.
+ID_DIALOG_SEC_SYLVIE_01_END_2,You'll pay for that.
+ID_DIALOG_SEC_SYLVIE_01_END_3,Oh? Try your best. I've been chased by the worst.
+ID_DIALOG_SEC_SYLVIE_02_INTRO_0,"Loki, cease these games."
+ID_DIALOG_SEC_SYLVIE_02_INTRO_1,"I'm not Loki, dear Vahl. I'm Sylvie. And no, I don't think I will."
+ID_DIALOG_SEC_SYLVIE_02_INTRO_2,It's time to flip the script.
+ID_DIALOG_SEC_SYLVIE_02_START_0,Why does everything look weird?
+ID_DIALOG_SEC_SYLVIE_02_START_1,"WAIT, ARE WE ON THE ENEMY SIDE?"
+ID_DIALOG_SEC_SYLVIE_02_START_2,This is Sylvie. A variant of Loki from the multiverse.
+ID_DIALOG_SEC_SYLVIE_02_START_3,"Sylvie can reduce the enemy speed bar, steal positive effects from enemies, and punish enemies with Speed Up. If a Mirror Image Loki is killed, she gives Bifrost allies positive Speed Bar."
+ID_DIALOG_SEC_SYLVIE_02_START_4,As a member of the Bifrost team she is great in Raids.
+ID_DIALOG_SEC_SYLVIE_02_END_0,I don't like being on the enemy side.
+ID_DIALOG_SEC_SYLVIE_02_END_1,How curious. All the others are completely oblivious to my enchantment.
+ID_DIALOG_SEC_SYLVIE_02_END_2,"How is it you're unaffected, human?"
+ID_DIALOG_SEC_SYLVIE_02_END_3,I know a lot of stuff I'm not supposed to. I got TRON'd.
+ID_DIALOG_SEC_SYLVIE_02_END_4,I haven't the faintest idea what that means. But I like you. Let's be friends.
+ID_DIALOG_SEC_SYLVIE_03_INTRO_0,I feel as if some peculiar magic is fading. What did you do?
+ID_DIALOG_SEC_SYLVIE_03_INTRO_1,Just a little mischief from one God of such to another.
+ID_DIALOG_SEC_SYLVIE_03_INTRO_2,"But I'm done for now. I had my fun, now we need to take care of something."
+ID_DIALOG_SEC_SYLVIE_03_INTRO_3,Of what do you speak?
+ID_DIALOG_SEC_SYLVIE_03_INTRO_4,"Our real enemies are called the ""Aphelions"", and I was brought here to help deal with one particular one."
+ID_DIALOG_SEC_SYLVIE_03_INTRO_5,We'll have to fight our way to him though.
+ID_DIALOG_SEC_SYLVIE_03_END_0,"Sylvie, you spoke of being ""brought"" here. Did you not emerge from a rift?"
+ID_DIALOG_SEC_SYLVIE_03_END_1,No. Our backstories are similarly tragic I'm afraid. My universe was also destroyed.
+ID_DIALOG_SEC_SYLVIE_03_END_2,But not by some mad Kree. My reality was annihilated in an Incursion by the same group responsible for accelerating the one affecting yours.
+ID_DIALOG_SEC_SYLVIE_03_END_3,"I was cast into the space between spaces, and saved by a traveler who called herself Kestrel."
+ID_DIALOG_SEC_SYLVIE_03_END_4,"She said my help would be needed at a pivotal moment, and having nothing better to do in a timeless infinite void, I decided to take her up on her offer."
+ID_DIALOG_SEC_SYLVIE_04_INTRO_0,"According to what Kestrel told me, the Aphelions are organized into 5 large groups each led by a general that answers to the big boss."
+ID_DIALOG_SEC_SYLVIE_04_INTRO_1,"The mystic general is some guy named ""Kang"", and he's got two lieutenants. That's who we're after."
+ID_DIALOG_SEC_SYLVIE_04_INTRO_2,And once we defeat these lieutenants you will agree to join us in our efforts?
+ID_DIALOG_SEC_SYLVIE_04_INTRO_3,"Oh Vahl, don't you realize we're all working on the same problem?"
+ID_DIALOG_SEC_SYLVIE_04_INTRO_4,You attack the leaf. My plan pulls out the root.
+ID_DIALOG_SEC_SYLVIE_04_INTRO_5,"Can't get to the root if a tangle of branches are in the way, darling."
+ID_DIALOG_SEC_SYLVIE_04_START_0,"That's him, the ostentatious one."
+ID_DIALOG_SEC_SYLVIE_04_START_1,"Be careful, he's powerful."
+ID_DIALOG_SEC_SYLVIE_04_START_2,But he is no GOD.
+ID_DIALOG_SEC_SYLVIE_04_END_0,These foes are imbued with ancient dark magic. What human could possess such power?
+ID_DIALOG_SEC_SYLVIE_04_END_1,"One that has made a foolish deal, most likely."
+ID_DIALOG_SEC_SYLVIE_04_END_2,Then you sense it as well?
+ID_DIALOG_SEC_SYLVIE_04_END_3,"Of course, you are me, after all."
+ID_DIALOG_SEC_SYLVIE_04_END_4,Do you feel like sharing with the rest of the class?
+ID_DIALOG_SEC_SYLVIE_04_END_5,"Not yet. Let's see what the next ""lieutenant"" tells us."
+ID_DIALOG_SEC_SYLVIE_05_INTRO_0,"Before we proceed, a word of warning. This last lieutenant..."
+ID_DIALOG_SEC_SYLVIE_05_INTRO_1,It is a variant of one who carries the Phoenix Force.
+ID_DIALOG_SEC_SYLVIE_05_INTRO_2,"Of course, I figured you'd know given your companion."
+ID_DIALOG_SEC_SYLVIE_05_INTRO_3,Skreee!
+ID_DIALOG_SEC_SYLVIE_05_INTRO_4,"Well said, little one. After all we have seen, after all we have faced, this is simply another foe."
+ID_DIALOG_SEC_SYLVIE_05_INTRO_5,Nothing more.
+ID_DIALOG_SEC_SYLVIE_05_START_0,"There, do you sense it?"
+ID_DIALOG_SEC_SYLVIE_05_START_1,Yes. There can be no doubt. It is the power of a pact.
+ID_DIALOG_SEC_SYLVIE_05_MID_0,You are powerful... perhaps powerful enough to stop him...
+ID_DIALOG_SEC_SYLVIE_05_MID_1,Skreekaw!
+ID_DIALOG_SEC_SYLVIE_05_MID_2,"It was the one called Kang who sent me. But he answers to another... a man who lost his heart, and in turn his soul."
+ID_DIALOG_SEC_SYLVIE_05_MID_3,Seek... AHHHH... he is... in my MIND....
+ID_DIALOG_SEC_SYLVIE_05_MID_4,Seek.... Strange... The Sorcerer.... Sup.... AHHHHHHHH!
+ID_DIALOG_SEC_SYLVIE_05_END_0,And now its done. Only Kang remains between us and the one behind this.
+ID_DIALOG_SEC_SYLVIE_05_END_1,I'm not so sure. It would seem you have not had the misfortune to be acquainted with this sort of magic.
+ID_DIALOG_SEC_SYLVIE_05_END_2,Of what do you speak?
+ID_DIALOG_SEC_SYLVIE_05_END_3,"Whoever Kang answers to, it's not the real puppet master. Just some poor fool who forged a ""pact""..."
+ID_DIALOG_SEC_SYLVIE_05_END_4,...with Mephisto.
+ID_DIALOG_SEC_SYLVIE_05_END_5,"I suspect this ""Heartless One"" is some fool wizard that made a deal with a Demon."
+ID_DIALOG_SEC_SYLVIE_05_END_6,"And now the power gained has, predictably, caused untold chaos and destruction."
+ID_DIALOG_SEC_SYLVIE_05_END_7,"That does not change the fact that if we don't stop your ""wizard"", the Incursion will destroy this reality just as mine was."
+ID_DIALOG_SEC_SYLVIE_05_END_8,"Indeed. But now we can enact the plan. With you three, each a unique Loki, we stand a chance."
+ID_DIALOG_SEC_SYLVIE_05_END_9,"Uh, question from the humans in the room. HOW?"
+ID_DIALOG_SEC_SYLVIE_05_END_10,"Call them what you will, Fates, Norns, Weavers... they are known by many names. Always three there are, and three do they number."
+ID_DIALOG_SEC_SYLVIE_05_END_11,"Their power is, ultimately, that to know the STORY of all. To tell it, to see it."
+ID_DIALOG_SEC_SYLVIE_05_END_12,"We now have 3 Gods of Stories. And by combining their powers, we will supplant the Norns, read the Story of this universe..."
+ID_DIALOG_SEC_SYLVIE_05_END_13,And change it.
+ID_DIALOG_SCE_BIFROST_01_INTRO_0,"Vahl, tell us of the plan."
+ID_DIALOG_SCE_BIFROST_01_INTRO_1,"Yeah, I'm totally in suspense over here!"
+ID_DIALOG_SCE_BIFROST_01_INTRO_2,"Very well. As I said, we will combine the powers of Loki, Teen Loki, and Sylvie to usurp the powers of the Norns."
+ID_DIALOG_SCE_BIFROST_01_INTRO_3,We shall temporarily be able to alter the story of the universe on a grand scale.
+ID_DIALOG_SCE_BIFROST_01_INTRO_4,I thought the Norns can't affect change beyond the Nine Realms?
+ID_DIALOG_SCE_BIFROST_01_INTRO_5,You are correct. And yet...
+ID_DIALOG_SCE_BIFROST_01_INTRO_6,"During the battle against Ultimus, I witnessed the All-Father attempt what we now attempt. With the Odinforce, he was able to nearly succeed."
+ID_DIALOG_SCE_BIFROST_01_INTRO_7,But he only had one Loki?
+ID_DIALOG_SCE_BIFROST_01_INTRO_8,"Yes. And so, failed."
+ID_DIALOG_SCE_BIFROST_01_INTRO_9,"But you have the Odinforce from your universe now, don't you?"
+ID_DIALOG_SCE_BIFROST_01_INTRO_10,"Indeed. And as the first step, we must find the one I followed here. The one called ""Kang""."
+ID_DIALOG_SCE_BIFROST_01_START_0,"Oh, HELL NO. I'm not doing this again."
+ID_DIALOG_SCE_BIFROST_01_START_1,"Tell us how to find Kang, and we will leave in peace."
+ID_DIALOG_SCE_BIFROST_01_START_2,"You hit hard, but I'm more afraid of Kang than I am of you. Bring it!"
+ID_DIALOG_SCE_BIFROST_01_END_0,"Tisk tisk, Vahl. You started with the stick when you should have used the carrot."
+ID_DIALOG_SCE_BIFROST_01_END_1,"Tell us how to find Kang, human. And I promise you you will never need fear him again once we are done."
+ID_DIALOG_SCE_BIFROST_01_END_2,"You're crazy. But hey, it's your funeral."
+ID_DIALOG_SCE_BIFROST_02_INTRO_0,"We're closing in on Kang. What do we do once we have him, Vahl?"
+ID_DIALOG_SCE_BIFROST_02_INTRO_1,"We need the device he uses to open rifts. If we can open a rift to my universe, the Vahlforce I carry will once again activate."
+ID_DIALOG_SCE_BIFROST_02_INTRO_2,"Not bad, you'd have the same power as the All-Father."
+ID_DIALOG_SCE_BIFROST_02_INTRO_3,"For a few crucial moments, yes."
+ID_DIALOG_SCE_BIFROST_02_START_0,"Well, well. I thought I'd seen the last of you. Now I understand why my lieutenants stopped reporting in."
+ID_DIALOG_SCE_BIFROST_02_START_1,"You're a motley bunch to be sure, but I've killed most of you more times than I can count."
+ID_DIALOG_SCE_BIFROST_02_START_2,I have other tasks at hand. Let's make this quick.
+ID_DIALOG_SCE_BIFROST_02_MID_0,This mortal is alarmingly powerful.
+ID_DIALOG_SCE_BIFROST_02_MID_1,He's buffed with the pact magic just like his minions.
+ID_DIALOG_SCE_BIFROST_02_MID_2,Then perhaps you'd like some help?
+ID_DIALOG_SCE_BIFROST_02_MID_3,YOU?! What are you doing here!
+ID_DIALOG_SCE_BIFROST_02_MID_4,Isn't it obvious? Winning.
+ID_DIALOG_SCE_BIFROST_02_END_0,"Speak quickly, or be branded our enemy."
+ID_DIALOG_SCE_BIFROST_02_END_1,"I just saved you, and that's the thanks I get? Here, with this, you can open the portal to your universe."
+ID_DIALOG_SCE_BIFROST_02_END_2,Why are you helping us?
+ID_DIALOG_SCE_BIFROST_02_END_3,"Imbued as he was, I couldn't defeat him on my own. And now that he's dead, that's one less participant in the grand game."
+ID_DIALOG_SCE_BIFROST_02_END_4,What game?
+ID_DIALOG_SCE_BIFROST_02_END_5,"Why, the only one that truly matters: Mine."
+ID_DIALOG_SCE_BIFROST_02_END_6,Good luck dealing with your little Incursion. You'll need it.
+ID_DIALOG_SCE_BIFROST_03_INTRO_0,It's finally done. My universe is one step closer to being avenged.
+ID_DIALOG_SCE_BIFROST_03_INTRO_1,"I admit, I wasn't expecting a friendly Kang to show up and help."
+ID_DIALOG_SCE_BIFROST_03_INTRO_2,"Nor I. Nevertheless, we have one part of what we need."
+ID_DIALOG_SCE_BIFROST_03_INTRO_3,"What's next, Vahl?"
+ID_DIALOG_SCE_BIFROST_03_INTRO_4,"We require a conduit to bridge the Norns power with your own. 3 Gods, 3 conduits."
+ID_DIALOG_SCE_BIFROST_03_INTRO_5,Norn Stones?
+ID_DIALOG_SCE_BIFROST_03_INTRO_6,Indeed.
+ID_DIALOG_SCE_BIFROST_03_START_0,"The stones of our universe are scattered, but there are some on earth. Humans store one in this place, oblivious to its true nature."
+ID_DIALOG_SCE_BIFROST_03_START_1,And you just left it here?
+ID_DIALOG_SCE_BIFROST_03_START_2,I had planned to retrieve it eventually.
+ID_DIALOG_SCE_BIFROST_03_START_3,Eventually is now. Fight.
+ID_DIALOG_SCE_BIFROST_03_END_0,See? Simple. You fret too much.
+ID_DIALOG_SCE_BIFROST_03_END_1,"Unlike you, I know what those are capable of. To leave one in the hands of humans knowingly? You're mad."
+ID_DIALOG_SCE_BIFROST_03_END_2,You're cute when you're furious.
+ID_DIALOG_SCE_BIFROST_03_END_3,Say that again and we shall be forced to find a fourth Loki.
+ID_DIALOG_SCE_BIFROST_04_INTRO_0,The remaining stones on earth aren't so easily retrieved unfortunately.
+ID_DIALOG_SCE_BIFROST_04_INTRO_1,Where are they?
+ID_DIALOG_SCE_BIFROST_04_INTRO_2,"One resides with a man who may be the most dangerous human alive. He calls himself ""Doom""."
+ID_DIALOG_SCE_BIFROST_04_INTRO_3,The other with the only one capable of keeping him in check. Earth's so-called Sorcerer Supreme.
+ID_DIALOG_SCE_BIFROST_04_INTRO_4,Sorcerer Supreme... OMG Dr. Strange! THAT'S who Phoenix was trying to tell us about!
+ID_DIALOG_SCE_BIFROST_04_INTRO_5,"Gwen, you're a genius! She's right!"
+ID_DIALOG_SCE_BIFROST_04_INTRO_6,"New York it is, then."
+ID_DIALOG_SCE_BIFROST_04_START_0,Hey this isn't the cool window house. What gives?
+ID_DIALOG_SCE_BIFROST_04_START_1,Who are you thinking you can just teleport into the Sanctum San-- Loki?
+ID_DIALOG_SCE_BIFROST_04_START_2,And... what is this? We're under attack!
+ID_DIALOG_SCE_BIFROST_04_MID_0,We mean you no harm. Stop fighting.
+ID_DIALOG_SCE_BIFROST_04_MID_1,You try to teleport into my Sanctum with three trickster gods and think I'm going to believe you?
+ID_DIALOG_SCE_BIFROST_04_END_0,STOP FIGHTING!
+ID_DIALOG_SCE_BIFROST_04_END_1,...
+ID_DIALOG_SCE_BIFROST_04_END_2,"We meant no disrespect or malice. We are seeking Asgardian artifacts called Norn Stones, and were told your leader held one."
+ID_DIALOG_SCE_BIFROST_04_END_3,My... leader? You mean Strange? I'm the Sorcerer Supreme now. Stephen Strange vanished without a trace weeks ago.
+ID_DIALOG_SCE_BIFROST_04_END_4,Weeks? So... right around the time the rifts started opening and the Incursion started.
+ID_DIALOG_SCE_BIFROST_04_END_5,He must have gone to investigate. The fool. Got in over his head most likely.
+ID_DIALOG_SCE_BIFROST_04_END_6,You're pretty rude for a kid.
+ID_DIALOG_SCE_BIFROST_04_END_7,"I'm the oldest ""kid"" you've ever met. Give us the Norn Stone and we'll be on our way."
+ID_DIALOG_SCE_BIFROST_04_END_8,Why should I trust any of you?
+ID_DIALOG_SCE_BIFROST_04_END_9,"I swear on my honor, if you return the stone to us we will use it to stop this Incursion."
+ID_DIALOG_SCE_BIFROST_04_END_10,"If you want the stones, that means you're going after Doom right? Tell you what, I'll tag along and if you're true to your word. Then we'll talk."
+ID_DIALOG_SCE_BIFROST_05_INTRO_0,"Your plan is ambitious, I'll give you that. Can you really pull it off?"
+ID_DIALOG_SCE_BIFROST_05_INTRO_1,"The story of this universe isn't finished yet. That is what I believe, Sorcerer Wong."
+ID_DIALOG_SCE_BIFROST_05_INTRO_2,"That's an odd answer. But if it means saving the world and stripping Victor von Doom of some of his more dangerous trinkets, I'm here for it."
+ID_DIALOG_SCE_BIFROST_05_START_0,"Ahh, right on time."
+ID_DIALOG_SCE_BIFROST_05_START_1,"If you expected us, you know why we've come. Give us the stone, human."
+ID_DIALOG_SCE_BIFROST_05_START_2,"Oh, but it's so useful. Let me show you."
+ID_DIALOG_SCE_BIFROST_05_WAVE2_0,"Doombots, attack!"
+ID_DIALOG_SCE_BIFROST_05_WAVE3_0,Bested my machines? Try these.
+ID_DIALOG_SCE_BIFROST_05_WAVE4_0,Very well. Now you face the unrestrained might of DOOM!
+ID_DIALOG_SCE_BIFROST_05_END_0,"I'm impressed. I think maybe numbers were on our side, but still. Impressive."
+ID_DIALOG_SCE_BIFROST_05_END_1,OMG guys we just defeated Doctor Doom! Do you know how badass that is?
+ID_DIALOG_SCE_BIFROST_05_END_2,I'm pretty sure those were all machines or variants.
+ID_DIALOG_SCE_BIFROST_05_END_3,"What?! Way to take the wind out of my sails, Wongie."
+ID_DIALOG_SCE_BIFROST_05_END_4,"What matters is you got the stone he had, and I'm convinced you're not enacting some evil plot. Here's the one I have."
+ID_DIALOG_SCE_BIFROST_05_END_5,"Thank you, Sorcerer Wong. You are an honorable ally."
+ID_DIALOG_SCE_BIFROST_05_END_6,"Same to you, Vahl."
+ID_DIALOG_SCE_BIFROST_06_INTRO_0,Now comes the most dangerous part of the plan.
+ID_DIALOG_SCE_BIFROST_06_INTRO_1,"Together, we must fight into the heart of the breaching universes. Deep in the heart of the Incursion we will enact the ritual."
+ID_DIALOG_SCE_BIFROST_06_INTRO_2,"So, a long series of fights against empowered variants trying to kill us, followed by a climactic showdown?"
+ID_DIALOG_SCE_BIFROST_06_INTRO_3,Do we have the VFX budget for any of that?
+ID_DIALOG_SCE_BIFROST_06_INTRO_4,"I don't know what that means, but your summary is likely true."
+ID_DIALOG_SCE_BIFROST_06_INTRO_5,"Into the breach, friends and allies! Let our stories be told from now until the end of days!"
+ID_DIALOG_SCE_BIFROST_06_START_0,They're all empowered by the same magic as Kang. Be careful.
+ID_DIALOG_SCE_BIFROST_06_END_0,PRESS ONWARD! FOR ASGARD! FOR ALL THAT LIVES!
+ID_DIALOG_SCE_BIFROST_06_END_1,SKREEEEEEE!
+ID_DIALOG_SCE_BIFROST_07_START_0,Wait a minute... is that...?
+ID_DIALOG_SCE_BIFROST_07_START_1,Help!
+ID_DIALOG_SCE_BIFROST_07_END_0,"Of all the people that could have shown up, I'd never guess it would be... a trio of Lokis and you all."
+ID_DIALOG_SCE_BIFROST_07_END_1,"What are you doing here, human?"
+ID_DIALOG_SCE_BIFROST_07_END_2,Using every last ounce of my magic to keep the Incursion from spreading.
+ID_DIALOG_SCE_BIFROST_07_END_3,And... I found out who's behind this.
+ID_DIALOG_SCE_BIFROST_07_END_4,Oh? We believe it's someone like yourself. An earthly wizard who's made a pact with Mephisto.
+ID_DIALOG_SCE_BIFROST_07_END_5,"You're more right than you know. it's not someone LIKE me, it IS me. A Stephen Strange from another world."
+ID_DIALOG_SCE_BIFROST_08_INTRO_0,"You have some explaining to do, human. What do you mean it ""is you""?"
+ID_DIALOG_SCE_BIFROST_08_INTRO_1,"Somewhere out there in the multiverse, a version of me lost everything he loved. When he lost his heart, he lost his mind."
+ID_DIALOG_SCE_BIFROST_08_INTRO_2,"He turned to dark magic, and used a forbidden tome called the Darkhold."
+ID_DIALOG_SCE_BIFROST_08_INTRO_3,"And then, in his grief and madness, he made a deal with something worse and lost his soul."
+ID_DIALOG_SCE_BIFROST_08_INTRO_4,Now in his grief he pulls his shattered reality towards others that have the one he lost.
+ID_DIALOG_SCE_BIFROST_08_INTRO_5,"And he uses the power of the Darkhold to enslave those that survive. You must have met them, he calls him his ""generals""."
+ID_DIALOG_SCE_BIFROST_08_INTRO_6,But now he has a new plan. A plan to fix everything.
+ID_DIALOG_SCE_BIFROST_08_INTRO_7,Lead us to him. We will do the rest.
+ID_DIALOG_SCE_BIFROST_08_INTRO_8,Of course...
+ID_DIALOG_SCE_BIFROST_08_START_0,What deception is this? I see no enemy.
+ID_DIALOG_SCE_BIFROST_08_START_1,Oh? Maybe that's because...
+ID_DIALOG_SCE_BIFROST_08_START_2,...I was here all along!
+ID_DIALOG_SCE_BIFROST_08_START_3,"I was so lost until I saw what you were planning. I really must thank you. With the power of these three, I can rewrite my fate!"
+ID_DIALOG_SCE_BIFROST_08_START_4,"I can go back. Make everything like it was! I can FIX IT! I'll never have made that accursed pact, never have read the book!"
+ID_DIALOG_SCE_BIFROST_08_START_5,I CAN FIX IT ALL!
+ID_DIALOG_SCE_BIFROST_08_START_6,"Foolish human. The past is set, it cannot be changed."
+ID_DIALOG_SCE_BIFROST_08_START_7,"But the future... the future is not written yet! Now! Bill! Open the rift, start the ritual!"
+ID_DIALOG_SCE_BIFROST_08_START_8,"Friends, protect us until the ritual is complete!"
+ID_DIALOG_SCE_BIFROST_08_WAVE2_0,"To me, my generals!"
+ID_DIALOG_SCE_BIFROST_08_WAVE3_0,THE RITUAL IS COMPLETE. STRIKE HIM DOWN. WE CAN CHANGE THE STORY OF THIS UNIVERSE.
+ID_DIALOG_SCE_BIFROST_08_END_0,Nooooo! The power.... I can.... I... ARRGGHHH
+ID_DIALOG_SCE_BIFROST_08_END_1,"Trying to get out of our little arrangement, hmm? I'm afraid that's not part of the... bargain."
+ID_DIALOG_SCE_BIFROST_08_END_2,ARRRRGGGHHHHHHAAAAAHHHHHHHH
+ID_DIALOG_SCE_BIFROST_08_END_3,IT IS DONE.
+ID_DIALOG_SCE_BIFROST_08_END_4,"Meanwhile, at S.T.R.I.K.E. HQ..."
+ID_DIALOG_SCE_BIFROST_08_END_5,"Sir, I have confirmation! The Asgardians actually pulled it off!"
+ID_DIALOG_SCE_BIFROST_08_END_6,Never doubted for a second. Do you have your candidates selected?
+ID_DIALOG_SCE_BIFROST_08_END_7,"Yes, sir. Dimensional coordinates locked in for all of them."
+ID_DIALOG_SCE_BIFROST_08_END_8,"Excellent. Project P.E.G.A.S.U.S is a go. Godspeed, Agent Kestrel."
+ID_DIALOG_SCE_BIFROST_08_END_9,"And what will you do, sir?"
+ID_DIALOG_SCE_BIFROST_08_END_10,I made a promise to that Asgardian that just saved our butts. I keep my promises.
+ID_DIALOG_SCE_BIFROST_09_INTRO_0,One Day After the Defeat of Strange...
+ID_DIALOG_SCE_BIFROST_09_INTRO_1,"So that's it, then? Did we stop the Incursion?"
+ID_DIALOG_SCE_BIFROST_09_INTRO_2,"This one, maybe. But these sorts of things don't start or stop on their own."
+ID_DIALOG_SCE_BIFROST_09_INTRO_3,"Indeed. Ultimus is the one truly responsible for this. As Sylvie said, this Incursion was being accelerated, but it was still coming."
+ID_DIALOG_SCE_BIFROST_09_INTRO_4,Does that mean there will be more Incursions?
+ID_DIALOG_SCE_BIFROST_09_INTRO_5,That is not for me to say.
+ID_DIALOG_SCE_BIFROST_09_INTRO_6,Sure would be nice if the Loki's had stuck around. Could use them.
+ID_DIALOG_SCE_BIFROST_09_INTRO_7,I think they have much to dwell on. They saw the tapestry as none but Fates are meant to.
+ID_DIALOG_SCE_BIFROST_09_INTRO_8,Such an experience tends to have lasting effects.
+ID_DIALOG_SCE_BIFROST_09_INTRO_9,"What about you, Vahl? What's next for the ""Last Asgardian""?"
+ID_DIALOG_SCE_BIFROST_09_INTRO_10,A promise was made. I intend to collect.
+ID_DIALOG_SCE_BIFROST_09_INTRO_11,And after that?
+ID_DIALOG_SCE_BIFROST_09_INTRO_12,I've wandered alone long enough. It would be good to spend time with new friends.
+ID_DIALOG_SCE_BIFROST_09_INTRO_13,Hell yeah!
+ID_DIALOG_SCE_BIFROST_09_START_0,"I know this isn't exactly what I promised, but the Ultimus that destroyed your universe is gone."
+ID_DIALOG_SCE_BIFROST_09_START_1,"This works. Your debt is paid, Nick Furyson."
+ID_DIALOG_SCE_BIFROST_09_START_2,"Uh, yeah. You do know that's not my... you know what nevermind. Have fun."
+ID_DIALOG_SCE_BIFROST_09_START_3,"Warning. Warning. Stasis suspended for Ultimus' 1316, 1317, 1318."
+ID_DIALOG_SCE_BIFROST_09_START_4,WHO DARES-
+ID_DIALOG_SCE_BIFROST_09_START_5,I am Vahl. Vengeance is mine.
+ID_DIALOG_SCE_BIFROST_09_END_0,I have a task for you.
+ID_DIALOG_SCE_BIFROST_09_END_1,"I am yours to command, Master."
+ID_DIALOG_SCE_BIFROST_09_END_2,Strange has failed. But I have a new soul I wish to add to my collection.
+ID_DIALOG_SCE_BIFROST_09_END_3,Speak the name and I will act.
+ID_DIALOG_SCE_BIFROST_09_END_4,"No, for now... observe. I want to know everything about the one called…"
+ID_DIALOG_SCE_BIFROST_09_END_5,Vahl.
 ID_DIALOG_ECM_ANTMAN_01_INTRO_0,"Ant-Man, S.T.R.I.K.E. needs your help."
 ID_DIALOG_ECM_ANTMAN_01_INTRO_1,"Wow, me? Seriously? What do you need me to steal?"
 ID_DIALOG_ECM_ANTMAN_01_INTRO_2,Nothing. We need a different set of skills this time around.
