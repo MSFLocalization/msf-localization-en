@@ -61,6 +61,14 @@ ID_SHOP_IAP_BUNDLE_BATTLEPASS_50A_NAME,Mojo's Premium Deal
 ID_SHOP_IAP_BUNDLE_BATTLEPASS_50A_DESCRIPTION,Added Mojo's Mayhem Pass & Rating Levels
 ID_SHOP_IAP_BUNDLE_BATTLEPASS_50B_NAME,Mojo's Deal Level 2
 ID_SHOP_IAP_BUNDLE_BATTLEPASS_50B_DESCRIPTION,Added Mojo's Mayhem Pass & Rating Levels
+ID_SHOP_IAP_BUNDLE_BATTLEPASS_20C_NAME,Battlepass Deal
+ID_SHOP_IAP_BUNDLE_BATTLEPASS_20C_DESCRIPTION,Added Battlepass & Rating Levels
+ID_SHOP_IAP_BUNDLE_BATTLEPASS_20D_NAME,Battlepass Deal L.1
+ID_SHOP_IAP_BUNDLE_BATTLEPASS_20D_DESCRIPTION,Added Battlepass & Rating Levels
+ID_SHOP_IAP_BUNDLE_BATTLEPASS_50C_NAME,Battlepass Premium Deal
+ID_SHOP_IAP_BUNDLE_BATTLEPASS_50C_DESCRIPTION,Added Battlepass & Rating Levels
+ID_SHOP_IAP_BUNDLE_BATTLEPASS_50D_NAME,Battlepass Deal L.2
+ID_SHOP_IAP_BUNDLE_BATTLEPASS_50D_DESCRIPTION,Added Battlepass & Rating Levels
 ID_SHOP_MORE_REFRESHES,More Refreshes\nin {duration}
 ID_SHOP_MUST_BE_LOGGED_IN_BODY,"You're not logged into an account that can make purchases. If you want to purchase offers or Power Cores, please log in."
 ID_SHOP_MUST_BE_LOGGED_IN_TITLE,No Account Data
