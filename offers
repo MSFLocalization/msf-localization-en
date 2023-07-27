@@ -3380,7 +3380,7 @@ ID_OF_DE_SUMMER_7REDSTAR_DRAFT_INFINITY_WATCH,Power up one of your Infinity Watc
 ID_OF_NA_SUMMER_GLORIOUSLY_GOLDEN,Summer Celebration: Gloriously Golden
 ID_OF_DE_SUMMER_GLORIOUSLY_GOLDEN,Take advantage of this {var1}-day calendar packed with over {var2} gold to power up your roster and bring the heat to opponents! (Tap the icon for details)
 ID_OF_NA_SUMMER_GOLDEN_GLEAM,Summer Celebration: Golden Gleam
-ID_OF_DE_SUMMER_GOLDEN_GLEAM,Keep Summer shining with this {var1}-day calendar that grants {var2} gold! Use this glettering pile of riches to take your roster to new heights! (Tap the icon for details)
+ID_OF_DE_SUMMER_GOLDEN_GLEAM,Keep Summer shining with this {var1}-day calendar that grants over {var2} gold! Use this glittering pile of riches to take your roster to new heights! (Tap the icon for details)
 ID_OF_NA_SUMMER_IRONFISTWWII,Summer Celebration: Iron Fist (WWII)
 ID_OF_NA_SUMMER_FIRESTAR,Summer Celebration: Firestar
 ID_OF_NA_SUMMER_COSMO,Summer Celebration: Cosmo
@@ -3474,3 +3474,19 @@ ID_OF_NA_SIF_NU_OFFER,Asgardian Offer: Sif
 ID_OF_DE_SIF_NU_OFFER,"Limited-time for new players: Unlock Sif to strengthen your <color=#fff568>Asgardian</color> team! Draw enemy fire with a Taunt fortified by Block and Deflect, then make enemies pay with Counter."
 ID_OF_NA_MIGHTYTHOR_NU_OFFER,Asgardian Offer: Mighty Thor
 ID_OF_DE_MIGHTYTHOR_NU_OFFER,Limited-time for new players: Upgrade Mighty Thor to strengthen your <color=#fff568>Asgardian</color> team! Strike down foes by providing Charged and additional Max Health to Hero Asgardians!
+ID_OF_NA_BIFROSTSHOWCASE_FINALE_MEGA,Bifrost Mega Pack
+ID_OF_NA_BIFROSTSHOWCASE_FINALE_FULL,Changing the Story: Full Completion
+ID_OF_NA_BIFROSTSHOWCASE_FINALE_POWER,Changing the Story: Power Up
+ID_OF_NA_BIFROSTSHOWCASE_FINALE_TOPUP,Changing the Story: Top Up
+ID_OF_NA_BIFROSTSHOWCASE_FINALE_POWER2,Bifrost Power Up
+ID_OF_NA_BIFROSTSHOWCASE_FINALE_TOPUP2,Bifrost Top Up
+ID_OF_DE_BIFROSTSHOWCASE_FINALE_POWER,"Power up your <color=#fff568>Bifrost</color> team to access the Bifrost Epic Event's Challenge and Bonus Difficulties! Earn <color=#fff568>1.8M T2 Level 5 Ions, 500 Teal Mini-Uniques and more</color>!"
+ID_OF_DE_BIFROSTSHOWCASE_FINALE_RANK,"Rank up your <color=#fff568>Bifrost</color> team to access the Bifrost Epic Event's Challenge and Bonus Difficulties! Earn <color=#fff568>1.8M T2 Level 5 Ions, 500 Teal Mini-Uniques and more</color>!"
+ID_OF_DE_BIFROSTSHOWCASE_FINALE_GEAR,"Gear up your <color=#fff568>Bifrost</color> team to access the Bifrost Epic Event's Challenge and Bonus Difficulties! Earn <color=#fff568>1.8M T2 Level 5 Ions, 500 Teal Mini-Uniques and more</color>!"
+ID_OF_DE_BIFROSTSHOWCASE_FINALE_GT15,"Take your <color=#fff568>Bifrost</color> team to Gear Tier 15 to access the Bifrost Epic Event's Challenge and Bonus Difficulties! Earn <color=#fff568>1.8M T2 Level 5 Ions, 500 Teal Mini-Uniques and more</color>!"
+ID_OF_DE_BIFROSTSHOWCASE_FINALE_5YS,"Take your <color=#fff568>Bifrost</color> team to 5 Yellow Stars to access the Bifrost Epic Event's Bonus Difficulty! Earn 1.8M T2 Level 5 Ions, Gear Tier 17 Mini-Uniques and more!"
+ID_OF_NA_BIFROSTSHOWCASE_FINALE_DIFF,Changing the Story: Challenge and Bonus
+ID_OF_NA_HEROASGARDIAN_NU_OFFER,Hero Asgardian Team Offer
+ID_OF_DE_HEROASGARDIAN_NU_OFFER,Get a 3-star Hero Asgardian team with this exclusive deal!
+ID_OF_NA_VALLIANASGARDIAN_NU_OFFER,Vallian Asgardian Team Offer
+ID_OF_DE_VALLIANASGARDIAN_NU_OFFER,Unlock the Vallian Asgardian team with this exclusive deal!
