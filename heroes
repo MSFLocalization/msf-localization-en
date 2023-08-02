@@ -45,6 +45,8 @@ ID_SHARD_BISHOP_NAME,Bishop
 ID_SHARD_BISHOP_DESCRIPTION,"The Astonishing X-Men's Blaster from the future, Bishop uses his mutant energy powers to deliver devastating attacks."
 ID_SHARD_BLACKBOLT_NAME,Black Bolt
 ID_SHARD_BLACKBOLT_DESCRIPTION,"The King of the Inhumans, Black Bolt is a Blaster whose voice deals massive damage and prevents enemies from reviving."
+ID_SHARD_BLACKCAT_NAME,Black Cat
+ID_SHARD_BLACKCAT_DESCRIPTION,"A master thief with nine lives and uncanny luck, Felicia Hardy's sticky fingers nab enemy buffs and distribute Charge to her allies."
 ID_SHARD_BLACKPANTHER_NAME,Black Panther
 ID_SHARD_BLACKPANTHER_DESCRIPTION,"An agile, relentless hunter who shreds his enemies with rapid attacks."
 ID_SHARD_BLACKPANTHERBC_NAME,Black Panther (1MM)
@@ -145,6 +147,8 @@ ID_SHARD_GHOST_NAME,Ghost
 ID_SHARD_GHOST_DESCRIPTION,"Originally trained by S.H.I.E.L.D. as a spy, Ghost now uses her Quantum phasing powers as an untraceable thief."
 ID_SHARD_GHOSTRIDER_NAME,Ghost Rider
 ID_SHARD_GHOSTRIDER_DESCRIPTION,"As the Spirit of Vengeance, Ghost Rider brutally inflicts damage on those who harm his allies."
+ID_SHARD_GHOSTRIDERROBBIE_NAME,Ghost Rider (Robbie)
+ID_SHARD_GHOSTRIDERROBBIE_DESCRIPTION,"Victim of gang violence and bonded to the Spirit of Vengeance, Robbie Reyes saps his enemies' health with bleed and unleashes devastating charged attacks."
 ID_SHARD_GHOSTSPIDER_NAME,Ghost-Spider
 ID_SHARD_GHOSTSPIDER_DESCRIPTION,Ghost-Spider hails from a universe where Gwen Stacy was bitten by a radioactive spider. She's an agile Web-Warrior that can prevent enemies from using their abilities.
 ID_SHARD_GRAVITON_NAME,Graviton
@@ -227,6 +231,8 @@ ID_SHARD_JUBILEE_NAME,Jubilee
 ID_SHARD_JUBILEE_DESCRIPTION,"Half mallrat, half fireworks factory, Jubilee uses her explosive plasmoid powers to blind dweebs while her allies totally strike."
 ID_SHARD_JUGGERNAUT_NAME,Juggernaut
 ID_SHARD_JUGGERNAUT_DESCRIPTION,An unstoppable tank who taunts his foes and charges for devastating damage.
+ID_SHARD_KAMALAKHAN_NAME,Ms. Marvel (Hard Light)
+ID_SHARD_KAMALAKHAN_DESCRIPTION,The teen hero Kamala Khan uses her Hard Light to barrier her allies and divert enemies' attention by taunting them.
 ID_SHARD_KANGTHECONQUEROR_NAME,Kang the Conqueror
 ID_SHARD_KANGTHECONQUEROR_DESCRIPTION,"A time-traveling mastermind from the 30th century, Kang uses his futuristic arsenal to bypass Defense Up and further his ultimate goal of conquering time itself."
 ID_SHARD_KARNAK_NAME,Karnak
@@ -297,6 +303,8 @@ ID_SHARD_MRNEGATIVE_NAME,Mister Negative
 ID_SHARD_MRNEGATIVE_DESCRIPTION,"An underworld boss whose Darkforce abilities can flip enemies' positive effects, creating openings for his gang of Inner Demons' debilitating attacks."
 ID_SHARD_MISTYKNIGHT_NAME,Misty Knight
 ID_SHARD_MISTYKNIGHT_DESCRIPTION,Misty Knight is the tough-as-nails leader of the Heroes for Hire who uses her cybernetic arm to break through her enemies' defenses.
+ID_SHARD_MOCKINGBIRD_NAME,Mockingbird
+ID_SHARD_MOCKINGBIRD_DESCRIPTION,Bobbi Morse is an agent of S.H.I.E.L.D operative known as Mockingbird. She is a master undercover operative that can use her battle stave to lethal effectiveness.
 ID_SHARD_MRFANTASTIC_NAME,Mister Fantastic
 ID_SHARD_MRFANTASTIC_DESCRIPTION,Mister Fantastic is a Controller who uses his hyper-genius to remove positive effects from foes.
 ID_SHARD_MRSINISTER_NAME,Mister Sinister
@@ -353,6 +361,8 @@ ID_SHARD_PHOENIX_NAME,Phoenix
 ID_SHARD_PHOENIX_DESCRIPTION,"Jean Grey absorbs her enemies negative status effects, being reborn as Dark Phoenix if she falls in battle."
 ID_SHARD_DARKPHOENIX_NAME,Dark Phoenix
 ID_SHARD_DARKPHOENIX_DESCRIPTION,"Risen from the ashes, the Dark Phoenix unleashes a torrent of cosmic fire on her enemies."
+ID_SHARD_PHOTON_NAME,Photon
+ID_SHARD_PHOTON_DESCRIPTION,"A Secret Defender and A-Force member, Monica Rambeau uses her electromagnetic abilities to blind her enemies and buff her allies."
 ID_SHARD_PHYLAVELL_NAME,Phyla-Vell
 ID_SHARD_PHYLAVELL_DESCRIPTION,"Phyla-Vell and her partner Moondragon help form the Infinity Watch, with Phyla-Vell's Quantum Sword crushing enemies and bolstering the team's defenses."
 ID_SHARD_POLARIS_NAME,Polaris
@@ -427,6 +437,8 @@ ID_SHARD_ROGUE_NAME,Rogue
 ID_SHARD_ROGUE_DESCRIPTION,"A Southern belle with the mutant power to drain her enemies through physical touch, Rogue tears down her foes' defenses and protects her allies."
 ID_SHARD_RONAN_NAME,Ronan the Accuser
 ID_SHARD_RONAN_DESCRIPTION,A Kree fanatic who summons Kree minions while denying the abilities of his foes with brutal strikes.
+ID_SHARD_RONIN_NAME,Ronin
+ID_SHARD_RONIN_DESCRIPTION,"After Thanos' Snap took away his family, Clint Barton renounced his role as Hawkeye and became Ronin, hunting down criminals and evil-doers that he deemed unworthy to have survived."
 ID_SHARD_SABRETOOTH_NAME,Sabretooth
 ID_SHARD_SABRETOOTH_DESCRIPTION,"A savage, regenerating brute that shreds single targets and chains to additional enemies."
 ID_SHARD_SCARLETSPIDER_NAME,Scarlet Spider

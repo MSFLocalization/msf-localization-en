@@ -22,7 +22,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 12:00 PM (PDT) (8/2).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PDT) (04/25).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -747,7 +747,7 @@ ID_MOTD_NA_SUNFIRE,Pure Energy: Now Live!
 ID_MOTD_DE_SUNFIRE,Battle for a chance to win Sunfire shards
 ID_MOTD_NA_SWARM,Bzzzz: Now Live!
 ID_MOTD_DE_SWARM,Battle for a chance to win Swarm shards
-ID_MOTD_NA_SYLVIE,Enchantress: Now Live!
+ID_MOTD_NA_SYLVIE,Nexus Dweller: Now Live!
 ID_MOTD_DE_SYLVIE,Battle for a chance to win Sylvie shards
 ID_MOTD_NA_SYMBIOTESPIDERMAN,Back In Black: Now Live!
 ID_MOTD_DE_SYMBIOTESPIDERMAN,Battle for a chance to win Spider-Man (Symbiote) shards
@@ -2158,8 +2158,22 @@ ID_MOTD_NA_STELLARSTANDOFF_TEASER,Coming Soon: Stellar Standoff
 ID_MOTD_DE_STELLARSTANDOFF_TEASER,Earn Training Modules and Defender of Valhalla Progress!
 ID_MOTD_NA_STELLARSTANDOFF_ANNOUNCE,LIVE: Stellar Standoff
 ID_MOTD_DE_STELLARSTANDOFF_ANNOUNCE,Earn Training Modules and Defender of Valhalla Progress!
+ID_MOTD_NA_PHOTON,Bright Light: Now Live!
+ID_MOTD_DE_PHOTON,Battle for a chance to win Photon shards
+ID_MOTD_NA_KAMALAKHAN,Avid Fan: Now Live!
+ID_MOTD_DE_KAMALAKHAN,Battle for a chance to win Ms. Marvel (Hard Light) shards
+ID_MOTD_NA_GHOSTRIDERROBBIE,Skeleton Driver: Now Live!
+ID_MOTD_DE_GHOSTRIDERROBBIE,Battle for a chance to win Ghost Rider (Robbie) shards
+ID_MOTD_NA_RONIN,Off the Edge: Now Live!
+ID_MOTD_DE_RONIN,Battle for a chance to win Ronin shards
+ID_MOTD_NA_MOCKINGBIRD,Copycat: Now Live!
+ID_MOTD_DE_MOCKINGBIRD,Battle for a chance to win Mockingbird shards
+ID_MOTD_NA_LAMENTIS12077_LIVE,Live: Lamentis-1 : 2077
+ID_MOTD_DE_LAMENTIS12077_LIVE,Battle in Alliance War for Gold rewards!
 ID_MOTD_NA_PHOTON_TEASER,Coming Soon: Photon
 ID_MOTD_DE_PHOTON_TEASER,This Shimmering Sentinel will blast opponents for Secret Defenders and A-Force!
 ID_MOTD_NA_PHOTON_ANNOUNCE,Photon is Here!
 ID_MOTD_DE_PHOTON_ANNOUNCE,Start building your Secret Defender team and add the fifth member of A-Force!
 ID_MOTD_DE_PHOTON_ANNOUNCE2,Open Bright Light Orbs to earn shards for this Shimmering Sentinel!
+ID_MOTD_NA_TIMELINESUPREMACY,Web Milestone: Timeline Supremacy
+ID_MOTD_DE_TIMELINESUPREMACY,Link your account to earn more rewards on web!

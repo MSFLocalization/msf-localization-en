@@ -264,6 +264,7 @@ ID_GAMEMODE_WAR,Alliance War
 ID_GAMEMODE_GRAND_TOURNAMENT,Cosmic Crucible
 ID_GAMEMODE_RED_STARS,Red Stars
 ID_GAMEMODE_EPIC_CAMPAIGNS,Epic Campaigns
+ID_GAMEMODE_BATTLEPASS,Battle Pass
 ID_GEAR_EQUIPPED,EQUIPPED
 ID_GEAR_LEVEL_REQUIREMENT,CHARACTER LEVEL {level} REQUIRED TO EQUIP
 ID_GEAR_NEEDED_BY,Needed by
@@ -323,6 +324,12 @@ ID_INBOX_VIEW_ALLIANCE,VIEW ALLIANCE
 ID_INBOX_VIEW_USER,VIEW USER
 ID_INBOX_AUTO_CLAIMED,Inbox Rewards Claimed!
 ID_ITEM_UNLOCKED,{item} unlocked!
+ID_JARVIS_NORMAL,Normal
+ID_JARVIS_NODE,Node
+ID_JARVIS_ABILITY_URL_BASE,{header}/meta/ability?characterId={character}&utm_source=device&utm_medium=jarvis&utm_campaign=abilities
+ID_JARVIS_CAMPAIGN_URL_BASE,{header}/missions/campaign/{campaignId}/{chapterId}/{missionSlot}?utm_source=device&utm_medium=jarvis&utm_campaign=campaign
+ID_JARVIS_ISO_URL_BASE,{header}/meta/iso?characterId={character}&utm_source=device&utm_medium=jarvis&utm_campaign=iso
+ID_JARVIS_RAID_URL_BASE,{header}/maps/{raidId}/{difficulty}/{roomId}?utm_source=device&utm_medium=jarvis&utm_campaign=raid
 ID_LEVEL,LEVEL
 ID_LEVEL_LABEL,Level {level}
 ID_LEVEL_LABEL_SHORT,LVL {level}
@@ -368,6 +375,8 @@ ID_NSF_SUFFIX_BUY_MISSING_AMOUNT,\n\nBuy the missing amount?
 ID_NSF_SUFFIX_LEARN_MORE,\n\nWould you like to learn more?
 ID_LEARN_MORE,LEARN MORE
 ID_NSF_SUFFIX_FIGHT_ARENA_BATTLES,\n\nFight in Blitz to earn more.
+ID_OFF,Off
+ID_ON,On
 ID_OPEN,OPEN
 ID_MULTI_OPEN,OPEN x{qty}
 ID_OPTIONS_ENABLE,ENABLE
@@ -823,12 +832,39 @@ ID_UI_REWARDS_SUBHEADLINE,"Complete battles to earn PLAYER XP and collect shards
 ID_UI_REWARDS_RAIDS_SUBHEADLINE,"Complete raid missions for a chance to earn Raid Credits, Gold, and Ability Materials."
 ID_UI_REWARDS_INSANITY_SUBHEADLINE,Congratulations! That was a hard fought battle!
 ID_UI_ROSTER,ROSTER
+ID_UI_RECOMMENDED_ISO_NONE,"This character does not have sufficient data to display a Recommended Iso-8 Class yet. Class recommendations are based on real Commander character data and can change over time. Please check back soon, Commander!"
 ID_UI_RECOMMENDED_ISO,RECOMMENDED ISO
+ID_UI_RECOMMENDED_ISO_CONTAINER_SUBTITLE,<color=#FFFFFF>{prc}% of players use this Iso Class</color>\nPlayers with {hero} at Gear Tier {level} or Higher
+ID_UI_RECOMMENDED_ISO_UNABLE_TO_EQUIP,First equip the surrounding Iso-8 Crystals to equip the J.A.R.V.I.S. Iso-8 Class
+ID_UI_RECOMMENDED_SQUAD_NONE,"There is no Recommended Team for this Mission. Please check back later, Commander."
 ID_UI_RECOMMENDED_SQUAD,RECOMMENDED TEAM
-ID_UI_RECOMMENDED_ISO_WEB,View more iso recommendations at MarvelStrikeForce.com
-ID_UI_RECOMMENDED_SQUADS_WEB,View more squad recommendations at MarvelStrikeForce.com
+ID_UI_RECOMMENDED_SQUAD_CONTAINER_SUBTITLE,"Based on mission difficulty, J.A.R.V.I.S. recommends this team at:\n"
+ID_UI_RECOMMENDED_SQUAD_CONTAINER_LEVEL,Lvl {level}+
+ID_UI_RECOMMENDED_SQUAD_CONTAINER_LOYALTY,{loyalty}+ Yellow Stars
+ID_UI_RECOMMENDED_SQUAD_CONTAINER_GEAR_TIER,Gear Tier {gear_tier}+
+ID_UI_RECOMMENDED_SQUAD_CONTAINER_ABILITY_LEVEL,Ability Lvl {ability_level}
+ID_UI_RECOMMENDED_SQUAD_CONTAINER_RED_STARS,Red Stars {redstars}+
+ID_UI_RECOMMENDED_SQUAD_CONTAINER_ISO,Iso-8 T{iso_tier} Lvl {iso_level}+
+ID_UI_RECOMMENDED_SQUAD_CONTAINER_SPACING,", "
+ID_UI_RECOMMENDED_CONTAINER_TITLE,J.A.R.V.I.S. <color=#FFE43277>RECOMMENDS</color>
+ID_UI_RECOMMENDED_ABILITIES_NONE,"This character does not have sufficient data to display Ability Priorities yet. Ability priorities are based on real Commander character data and can change over time. Please check back soon, Commander!"
+ID_UI_ABILITIES_INFO,"{basic},{special},{ultimate},{passive}"
+ID_UI_RECOMMENDED_ABILITIES,J.A.R.V.I.S. <color=#FFE43277>RECOMMENDS</color>
+ID_UI_RECOMMENDED_ABILITIES_CONTAINER_SUBTITLE,<color=#FFFFFF>Most Commonly Fully-Upgraded Abilities</color>\nPlayers with {hero} at Gear {level} or Higher
+ID_UI_ABILITY_BASIC,Basic
+ID_UI_ABILITY_SPECIAL,Special
+ID_UI_ABILITY_ULTIMATE,Ultimate
+ID_UI_ABILITY_PASSIVE,Passive
+ID_UI_THRESH_LOW,Low
+ID_UI_THRESH_MODERATE,Moderate
+ID_UI_THRESH_HIGH,High
+ID_UI_THRESH_VERY_HIGH,Very High
+ID_UI_ABILITY_HOW_COMMONLY_UPGRADED,{pct}% Overall: {threshold}
+ID_UI_RECOMMENDED_ISO_WEB,View more Iso-8 recommendations at MarvelStrikeForce.com
+ID_UI_RECOMMENDED_SQUADS_WEB,View more team recommendations at MarvelStrikeForce.com
+ID_UI_RECOMMENDED_ABILITIES_WEB,View the full Ability breakdown at MarvelStrikeForce.com
 ID_UI_RECOMMENDED_SQUADS,RECOMMENDED
-ID_UI_RECOMMENDED_SQUAD_POWER,Recommended:
+ID_UI_RECOMMENDED_SQUAD_POWER,J.A.R.V.I.S. Team:
 ID_UI_RECOMMENDED_YOUR_SQUAD_POWER,Your Team Power:
 ID_UI_SCOPELY_LINKDESC,Sign in with <color=#FCFF00>Scopely</color> to protect your game progress and earn amazing rewards! \nAdd this <color=#FCFF00>3-star Loki</color> to your Villains team today!
 ID_UI_SCOPELY_LINKED,Thank you for signing in with <color=#FCFF00>Scopely</color>. Please enjoy these amazing rewards! \nAdd this <color=#FCFF00>3-star Loki</color> to your Villains team today!
@@ -1035,10 +1071,10 @@ ID_DROPRATE_RED_STARS_TITLE,Red Star Promotion
 ID_M_CRATE_PROMOTION_LINE_DESC,{count} - Red Star Promotion
 ID_REDSTAR_CONVERSION_TITLE,Duplicate Red Star
 ID_REDSTAR_CONVERSION_MESSAGE,Duplicate Red Stars converted into <color=#ffffff><i>ELITE {num} CREDITS</i></color>.  Collect enough to open an <color=#ffffff><i>ELITE {num} STAR ORB</i></color>.
-ID_REDSTAR_BOOST_POPUP_TITLE,Red Star Promotions
-ID_REDSTAR_BOOST_POPUP_DESC,"Red Stars boost Health, Damage, Armor, Focus, and Resistance."
-ID_REDSTAR_BOOST_POPUP_HEADER_L,<color=#fff568><i>RED STARS</i></color>
-ID_REDSTAR_BOOST_POPUP_HEADER_R,<color=#fff568><i>TOTAL BONUS</i></color>
+ID_BOOST_POPUP_TITLE,Character Promotions
+ID_BOOST_POPUP_DESC_REDSTAR,"Red Stars boost Health, Damage, Armor, Focus, and Resistance."
+ID_BOOST_POPUP_HEADER_REDSTAR_L,<color=#fff568><i>RED STARS</i></color>
+ID_BOOST_POPUP_HEADER_R,<color=#fff568><i>TOTAL BONUS</i></color>
 ID_HERONOTIFY_PROMOTE_MESSAGE,You've earned a new Red Star Promotion for {name}!
 ID_PROMOTE,PROMOTE
 ID_FINDER_BANNER_SHARD,Character Shards
@@ -1107,6 +1143,7 @@ ID_EVENT_CAMPAIGN_TYPE_NEMESIS,NEMESIS
 ID_EVENT_CAMPAIGN_TYPE_APOCALYPSE,APOCALYPSE
 ID_EVENT_CAMPAIGN_TYPE_STORY,STORY
 ID_EVENT_CAMPAIGN_TYPE_CHALLENGE,CHALLENGE
+ID_EVENT_CAMPAIGN_TYPE_KAMALA,MS. MARVEL (HARD LIGHT)
 ID_OFFER_AND,AND
 ID_OFFER_OR,OR
 ID_CHAL_UNLOCK,UNLOCK
@@ -1137,6 +1174,7 @@ ID_UI_LONG_LOCKED_DESC_WAR,"Utilize your entire Roster in this high stakes Allia
 ID_UI_LONG_LOCKED_DESC_RAIDS,Battle a gauntlet of enemies with your Alliance to earn Ability materials and resources to help power up your roster. Harder difficulties have bigger rewards.
 ID_UI_LONG_LOCKED_DESC_DARKDIMENSION,"Turn back now, Commander! Only the strongest will survive these ultra powerful enemies. But your efforts will be greatly rewarded: Gold, gear, and unique characters: Ultron & Doctor Doom!"
 ID_UI_LONG_LOCKED_DESC_RTA,Fight against other Commanders in real-time battles for big rewards. Be on the lookout for the start of Mojo's Mayhem Seasons for even more rewards!
+ID_UI_LONG_LOCKED_DESC_RTA_REVAMP,Fight against other Commanders in real-time battles for big rewards.
 ID_UI_COMMUNITY,COMMUNITY
 ID_UI_TWITTER_URL,https://app.adjust.net.in/my0mwg7_cju6lkv?label=twitter&redirect=https%3A%2F%2Fwww.twitter.com%2FMarvelStrikeF
 ID_UI_FACEBOOK_URL,https://app.adjust.net.in/4g6r1fq_h58hbge?redirect=https%3A%2F%2Fwww.facebook.com%2FMarvelStrikeForce

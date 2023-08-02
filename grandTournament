@@ -47,6 +47,7 @@ ID_GT_EVENT_NAME_PRESEASON,Pre-Season
 ID_GT_EVENT_NAME_SEASON1,Season 1
 ID_GT_EVENT_NAME_SEASON2,Season 2
 ID_GT_EVENT_NAME_SEASON3,Season 3
+ID_GT_EVENT_NAME_SEASON4,Season 4
 ID_GT_EVENT_NAME_EVENT,Ultimate 32
 ID_GT_GLOBAL_RULES_NAME,Magical Disruptions
 ID_GT_GLOBAL_RULES_DESC,"On Offense, reduce Speed and Resistance by <color=#86e619>10%</color> for all non-<color=#fff568>MASTERS OF EVIL VILLAIN MYSTICS</color>. \nOn Defense, reduce Speed and Resistance by <color=#86e619>20%</color> for all <color=#fff568>COSMIC VILLAIN MYSTICS</color>. \nOn any <color=#fff568>COSMIC VILLAIN MYSTICS</color> Turn, apply <color=#fff568>Bleed</color> to that character. \nOn Defense, all characters gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage. \n<color=#fff568>DARKHOLD</color> characters have -<color=#86e619>10%</color> Max Health, Focus, Resistance, and Damage."
@@ -228,3 +229,17 @@ ID_GT_TOURNAMENT_RATINGS_HEADER,COSMIC CRUCIBLE TOURNAMENT
 ID_GT_SEASON_RATINGS_HEADER,COSMIC CRUCIBLE SEASON
 ID_GT_NO_PENDING_SEASON_DESC,Cosmic Crucible Season coming soon
 ID_GT_PENDING_SEASON_TIMER_TEXT,Coming soon
+ID_GT_S4_GLOBAL_RULES_NAME,Multiversal Warriors
+ID_GT_S4_GLOBAL_RULES_DESC,"Multiversal Warriors\nOn Defense and Offense,\n <color=#fff568>NEW WARRIOR</color> Characters:\n> Gain +<color=#86e619>10%</color> crit chance and crit damage for each <color=#fff568>Charged</color> on that character.\n> When Attacking an Enemy with <color=#fff568>Blind</color>, Gain <color=#fff568>Regeneration</color>\n \nOn Defense,\nAll Characters:\n>Gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage."
+ID_GT_S4_ROOM1_RULES_NAME,Pressure Points
+ID_GT_S4_ROOM1_RULES_DESC,"On Defense and Offense,\n<color=#9055FF>RAIDER</color> Characters:\n> On Crit, Apply <color=#fff568>Minor Defense Down</color>.\n \n<color=#9055FF>STRIKER</color> Characters:\n> While below <color=#86e619>50%</color> Health, Gain <color=#86e619>200%</color> Damage."
+ID_GT_S4_ROOM2_RULES_NAME,Raid On Crucible
+ID_GT_S4_ROOM2_RULES_DESC,"On Defense and Offense,\n> Room counts as a Raid."
+ID_GT_S4_ROOM3_RULES_NAME,Cosmic Shielding
+ID_GT_S4_ROOM3_RULES_DESC,"On Defense and Offense,\n<color=#fff568>Cosmic Hero</color> Characters:\n> On Turn, Gain <color=#fff568>Deflect</color>.\n> When attacked, Apply <color=#fff568>Defense Down</color> to the attacker."
+ID_GT_S4_ROOM4_RULES_NAME,Wrecking Ball
+ID_GT_S4_ROOM4_RULES_DESC,"On Defense and Offense,\n> On Turn, if a character has <color=#fff568>Taunt</color>, Gain <color=#fff568>Offense Up</color>.\n> On Turn, all allies with <color=#fff568>Offense Up</color> gain <color=#fff568>Assist</color>."
+ID_GT_S4_ROOM5_RULES_NAME,Mutant Spiders
+ID_GT_S4_ROOM5_RULES_DESC,"On Defense and Offense,\n<color=#fff568>Hero Mutant</color> Characters:\n> Count as <color=#fff568>Astonishing X-Men</color>, <color=#fff568>Unlimited X-Men</color>, and <color=#fff568>Uncanny X-Men</color>.\n \n<color=#fff568>Spider-Verse</color> Characters:\n> Count as <color=#fff568>Tangled Web</color> and <color=#fff568>Web-Warriors</color>."
+ID_GT_S4_ROOM6_RULES_NAME,Building Momentum
+ID_GT_S4_ROOM6_RULES_DESC,"On Defense and Offense,\n>Special abilities cost <color=#86e619>2</color> less to use.\n>Ultimate abilities cost <color=#86e619>2</color> less to use."

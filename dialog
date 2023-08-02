@@ -6184,6 +6184,73 @@ ID_DIALOG_ECM_COSMO_09_END_3,"Easy there, dog. I was simply on my way to notify 
 ID_DIALOG_ECM_COSMO_09_END_4,Are we to be believing trickster god?
 ID_DIALOG_ECM_COSMO_09_END_5,"You know, everyone's distrust of me is getting rather dull."
 ID_DIALOG_ECM_COSMO_09_END_6,Perhaps it's best if I show you...
+ID_DIALOG_ECM_KAMALA_01_INTRO_0,"Kamala Khan, you're in danger."
+ID_DIALOG_ECM_KAMALA_01_INTRO_1,Nick Fury?! The REAL Nick Fury?!
+ID_DIALOG_ECM_KAMALA_01_INTRO_2,Did you hear a word I just said?
+ID_DIALOG_ECM_KAMALA_01_INTRO_3,Yes! Okay. So I'm in danger?
+ID_DIALOG_ECM_KAMALA_01_INTRO_4,Kree forces are heading to your location now. Get ready.
+ID_DIALOG_ECM_KAMALA_01_START_0,Kamala. The Supreme Intelligence requires you. Come with us.
+ID_DIALOG_ECM_KAMALA_01_START_1,The who? Aren't you the bad guys? I'm not going with you!
+ID_DIALOG_ECM_KAMALA_01_START_2,I thought you might say that.
+ID_DIALOG_ECM_KAMALA_01_START_3,Ms. Marvel (Hard Light)'s <color=#fff568>Special Ability</color> can copy and clear positive effects from targets while removing negative effects from her allies.
+ID_DIALOG_ECM_KAMALA_01_START_4,Her <color=#fff568>Ultimate Ability</color> can flip Taunt to Defense Down on all enemies while adding Defense Up to herself.
+ID_DIALOG_ECM_KAMALA_02_INTRO_0,"The Supreme Intelligence is an AI that rules the Kree. "
+ID_DIALOG_ECM_KAMALA_02_INTRO_1,"Whatever it wants from you, it can't be good."
+ID_DIALOG_ECM_KAMALA_02_INTRO_2,"Fury, a Kree force is now closing in on Monica Rambeau's location."
+ID_DIALOG_ECM_KAMALA_02_INTRO_3,This is no coincidence. You both have light energy powers. The Kree are up to something.
+ID_DIALOG_ECM_KAMALA_02_INTRO_4,"We need to warn her! "
+ID_DIALOG_ECM_KAMALA_02_END_0,Where's Photon?
+ID_DIALOG_ECM_KAMALA_02_END_1,Don't worry. We just needed to borrow her since you were unavailable.
+ID_DIALOG_ECM_KAMALA_02_END_2,You can have her when the Supreme Intelligence has completed its mission.
+ID_DIALOG_ECM_KAMALA_03_INTRO_0,We've tracked Photon's location to one of Dark Beast's secret labs.
+ID_DIALOG_ECM_KAMALA_03_INTRO_1,"""Dark Beast""? What is that?"
+ID_DIALOG_ECM_KAMALA_03_INTRO_2,A psychopath in a lab coat. It's not a good thing.
+ID_DIALOG_ECM_KAMALA_03_INTRO_3,Let's go!
+ID_DIALOG_ECM_KAMALA_04_INTRO_0,Hand over Monica!
+ID_DIALOG_ECM_KAMALA_04_INTRO_1,But I haven't even started the examination yet. Please come back later and you can have what's left of her.
+ID_DIALOG_ECM_KAMALA_04_INTRO_2,"There will be no ""examination""!"
+ID_DIALOG_ECM_KAMALA_04_END_0,Whew! Thanks! I don't know how much more of that stench I could handle.
+ID_DIALOG_ECM_KAMALA_04_END_1,"Start talking, McCoy."
+ID_DIALOG_ECM_KAMALA_04_END_2,"Of course. I have no allegiance to the Kree or their ""leader""."
+ID_DIALOG_ECM_KAMALA_04_END_3,"I'll give it to you straight. Their Supremor is trying to access the Light Dimension. "
+ID_DIALOG_ECM_KAMALA_04_END_4,"Something about ""gaining an unprecedented advantage in their intergalactic conquests""."
+ID_DIALOG_ECM_KAMALA_04_END_5,I'm just helping them out in exchange for access to their subjects. They might already have Danvers.
+ID_DIALOG_ECM_KAMALA_05_INTRO_0,"Kamala, the Kree... <radio static>... help! "
+ID_DIALOG_ECM_KAMALA_05_INTRO_1,Nick Fury! Captain Marvel just sent me a transmission. I think she needs my help!
+ID_DIALOG_ECM_KAMALA_05_INTRO_2,She needs YOUR help?! Are you sure about that?
+ID_DIALOG_ECM_KAMALA_05_INTRO_3,No. But I'm going to find out. The transmission came from Colorado.
+ID_DIALOG_ECM_KAMALA_05_INTRO_4,Be careful.
+ID_DIALOG_ECM_KAMALA_05_END_0,She's not here. But the Kree were. Maybe we were too late.
+ID_DIALOG_ECM_KAMALA_05_END_1,"Fury, we've just spotted a Kree Warship in orbit right above us... "
+ID_DIALOG_ECM_KAMALA_06_INTRO_0,"I'm going to that warship. "
+ID_DIALOG_ECM_KAMALA_06_INTRO_1,You want to take on a Kree Warship?!
+ID_DIALOG_ECM_KAMALA_06_INTRO_2,I'm going with her.
+ID_DIALOG_ECM_KAMALA_06_INTRO_3,"If Captain Marvel needs my help, I can't ignore it."
+ID_DIALOG_ECM_KAMALA_06_END_0,Where's Captain Marvel?!
+ID_DIALOG_ECM_KAMALA_06_END_1,Don't hurt me! She's in the lab downstairs!
+ID_DIALOG_ECM_KAMALA_07_INTRO_0,So you finally changed your mind?
+ID_DIALOG_ECM_KAMALA_07_INTRO_1,Just step into the chamber right here.
+ID_DIALOG_ECM_KAMALA_07_INTRO_2,I'm not here to volunteer! I'm here to find my friend!
+ID_DIALOG_ECM_KAMALA_08_INTRO_0,There she is!
+ID_DIALOG_ECM_KAMALA_08_INTRO_1,"I'll get you out of there, Captain Marvel!"
+ID_DIALOG_ECM_KAMALA_08_INTRO_2,No you will not.
+ID_DIALOG_ECM_KAMALA_08_END_0,Carol?! Can you hear me?
+ID_DIALOG_ECM_KAMALA_08_END_1,"Yes. Kamala. Now help the Kree open the portal to the Light Dimension. "
+ID_DIALOG_ECM_KAMALA_08_END_2,What?!
+ID_DIALOG_ECM_KAMALA_09_INTRO_0,You want me to HELP them?!
+ID_DIALOG_ECM_KAMALA_09_INTRO_1,Yes. Just step over to the portal. I've already done my part.
+ID_DIALOG_ECM_KAMALA_09_INTRO_2,Um... Well... Ok...
+ID_DIALOG_ECM_KAMALA_09_INTRO_3,<FLASH!!>
+ID_DIALOG_ECM_KAMALA_09_INTRO_4,Stop!
+ID_DIALOG_ECM_KAMALA_09_INTRO_5,"Captain Marvel?! "
+ID_DIALOG_ECM_KAMALA_09_INTRO_6,Sorry I'm late. That's the Kree Supreme Intelligence you're talking to. It can take on any form in your mind.
+ID_DIALOG_ECM_KAMALA_09_INTRO_7,"And it cannot be trusted with access to the Light Dimension. "
+ID_DIALOG_ECM_KAMALA_09_INTRO_8,Then let's get out of here.
+ID_DIALOG_ECM_KAMALA_09_INTRO_9,Just after we destroy this portal.
+ID_DIALOG_ECM_KAMALA_09_END_0,"That was close. "
+ID_DIALOG_ECM_KAMALA_09_END_1,We should keep better tabs on each other. There could be others who want our powers.
+ID_DIALOG_ECM_KAMALA_09_END_2,"Are you adding me as a friend?! "
+ID_DIALOG_ECM_KAMALA_09_END_3,Sure.
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.

@@ -328,6 +328,8 @@ ID_ALLIANCE_CHAT_NOTIF_PROMOTE_IS_OWNER_INACTIVE,{nameUser} (Level {levelUser}) 
 ID_ALLIANCE_CHAT_NOTIF_DEMOTE_WAS_OWNER,{nameUser} (Level {levelUser}) has relinquished command of {nameAlliance}. Thank you for your courage!
 ID_ALLIANCE_CHAT_NOTIF_DEMOTE_WAS_OWNER_INACTIVE,{nameUser} (Level {levelUser}) has been demoted to {rankNew} for inactivity.
 ID_ALLIANCE_CHAT_RAID_START_NOTIF,{nameUser} launched the raid: {raidName}.
+ID_ALLIANCE_CHAT_RAID_START_AUTO_LAUNCH_NOTIF,The raid: {raidName} has been automatically launched.
+ID_ALLIANCE_CHAT_RAID_START_AUTO_LAUNCH_FAILED_NOTIF,The following raid failed to auto-launch due to insufficient raid keys: {raidName}
 ID_ALLIANCE_CHAT_RAID_JOIN_NOTIF,{nameUser} joined the raid: {raidName}.
 ID_ALLIANCE_CHAT_RAID_EXPIRED_NOTIF,"The raid, {raidName}, has expired."
 ID_ALLIANCE_CHAT_RAID_COMPLETED_NOTIF,"Congratulations! The raid, {raidName}, was completed!"
@@ -489,7 +491,7 @@ ID_AVA_TIMER_IN_PROGRESS,In Progress:
 ID_AVA3D_MOVEROOMS_EXIT,EXIT
 ID_ALLIANCECREATE_MANAGEMENT_LABEL,ALLIANCE MANAGEMENT RANK
 ID_ALLIANCE_MANAGE_INFO_POPUP_TITLE,ALLIANCE MANAGEMENT
-ID_ALLIANCE_MANAGE_INFO_POPUP_DESC,"Alliance managers can launch raids, move Helicarrier rooms, and remove players from room defenses."
+ID_ALLIANCE_MANAGE_INFO_POPUP_DESC,"Alliance managers can schedule and launch raids, move Helicarrier rooms, and remove players from room defenses."
 ID_AVA3D_LEAVE_PLAYER_SLOT_HEAD,LEAVE SLOT?
 ID_AVA3D_LEAVE_PLAYER_SLOT_DESC,Are you sure?
 ID_AVA3D_LEAVE,LEAVE

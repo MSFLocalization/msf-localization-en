@@ -6563,6 +6563,7 @@ ID_BP_NA_DUALOFFER_DESCRIPTION_1,Unlock Premium rewards
 ID_BP_NA_DUALOFFER_DESCRIPTION_2,Unlock Premium rewards\nand <color=#fff568>30 Ratings Levels</color>
 ID_BP_NA_DUALOFFER_TITLE,UPGRADE TO PREMIUM
 ID_BP_NA_DUALOFFER_SUBTITLE,Earn additional rewards in Mojo's Mayhem!
+ID_BP_NA_DUALOFFER_SUBTITLE_REVAMP,Unlock premium rewards by upgrading! Immediately earn half of all rewards with Premium Plus!
 ID_GBP_DE_DUALOFFER_TITLE,Earn additional S.T.R.I.K.E. Pass Rewards!
 ID_GBP_NA_DUALOFFER_DESCRIPTION_2,Unlock Premium rewards\nand <color=#fff568>20 S.T.R.I.K.E. Levels</color>
 ID_OF_NA_STATURE_ECO_BUNDLE_1,Aspirational Orb Bundle
@@ -8305,6 +8306,7 @@ ID_GACHA_CRATE_WAR_DESCRIPTION,Usher in the Horseman of War
 ID_GACHA_CRATE_WAR_TOKEN_NAME,War Orb Fragments
 ID_GACHA_CRATE_WAR_TOKEN_DESCRIPTION,Collect Fragments for War Orbs that contain up to 100 Red Hulk Shards.
 ID_BP_NA_DUALOFFER_DESCRIPTION_2_50,Unlock Premium rewards\nand <color=#fff568>50 Ratings Levels</color>
+ID_BP_NA_DUALOFFER_DESCRIPTION_2_50_REVAMP,Unlock Premium rewards\nand <color=#fff568>50 Level Tokens</color>
 ID_GACHA_CRATE_DEATH_NAME,Death Orb
 ID_GACHA_CRATE_DEATH_DESCRIPTION,Usher in the Horseman of Death
 ID_GACHA_CRATE_DEATH_TOKEN_NAME,Death Orb Fragments
@@ -8466,7 +8468,7 @@ ID_TIMEHEIST_OFFER_NO_UPGRADES,This character is already above the preset power 
 ID_GACHA_CRATE_NOVA_OVERLOADED_NAME,Nova Overloaded Orb
 ID_GACHA_CRATE_NOVA_OVERLOADED_DESCRIPTION,Contains Awakened Ability Materials for Nova and more
 ID_GACHA_CRATE_NOVA_OVERLOADED_TOKEN_NAME,Nova Overloaded Orb Fragments
-ID_GACHA_CRATE_NOVA_OVERLOADED_TOKEN_DESCRIPTION,Collect Nova Overloaded Orb Fragments from select offers to have a chance at Nova's Awakened Ability Materials
+ID_GACHA_CRATE_NOVA_OVERLOADED_TOKEN_DESCRIPTION,Collect Nova Overloaded Orb Fragments from the Nova Trials and select offers to have a chance at Nova's Awakened Ability Materials
 ID_GACHA_CRATE_SHOOTINGSTAR_NAME,Shooting Star Orb
 ID_GACHA_CRATE_SHOOTINGSTAR_DESCRIPTION,"Open for Training Modules, T2 Level 1 & 4 Ions, and progress in the Shooting Stars Milestone"
 ID_GACHA_CRATE_SHOOTINGSTAR_TOKEN_NAME,Shooting Star Orb Fragments
@@ -8515,3 +8517,43 @@ ID_GACHA_CRATE_ELITET2L5_NAME,Apocalypse Bounty Orb
 ID_GACHA_CRATE_ELITET2L5_DESCRIPTION,Earn exclusive T2 Level 5 Ions!
 ID_GACHA_CRATE_ELITET2L5_TOKEN_NAME,Apocalypse Bounty Orb Fragments
 ID_GACHA_CRATE_ELITET2L5_TOKEN_DESCRIPTION,Open Apocalypse Bounty Orbs to get T2 Level 5 Ions and T2 Level 4 Ions
+ID_GACHA_CRATE_SOULTRIBUTE_NAME,Soul Tribute Orb
+ID_GACHA_CRATE_SOULTRIBUTE_DESCRIPTION,Contains Master of Evil shards
+ID_GACHA_CRATE_SOULTRIBUTE_TOKEN_NAME,Soul Tribute Orb Fragments
+ID_GACHA_CRATE_SOULTRIBUTE_TOKEN_DESCRIPTION,Earn Soul Tribute Orb Fragments from any Campaign Node and select limited-time offers. Each Soul Tribute Orb contains Master of Evil and X-Factor character shards.
+ID_GACHA_CRATE_RESETCHARGE_NAME,Reset Charge Receptacle
+ID_GACHA_CRATE_RESETCHARGE_DESCRIPTION,Contains TVA Gift Cards
+ID_GACHA_CRATE_RESETCHARGE_TOKEN_NAME,Reset Charge Receptacle Fragments
+ID_GACHA_CRATE_RESETCHARGE_TOKEN_DESCRIPTION,Turn your Reset Charges earned from limited time milestones into the TVA and receive TVA Gift Cards in exchange. Spend TVA Gift Cards in the limited time TVA Gift Shop
+ID_GACHA_CRATE_FCO_PHOTON_SPECIAL_NAME,Bright Light Orb
+ID_GACHA_CRATE_FCO_PHOTON_SPECIAL_DESCRIPTION,Earn up to 180 Photon shards
+ID_GACHA_CRATE_FCO_PHOTON_SPECIAL_TOKEN_NAME,Bright Light Orb Fragments
+ID_GACHA_CRATE_FCO_PHOTON_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Bright Light Orbs that contain up to 180 Photon shards.
+ID_GACHA_CRATE_FCO_KAMALAKHAN_SPECIAL_NAME,Avid Fan Orb
+ID_GACHA_CRATE_FCO_KAMALAKHAN_SPECIAL_DESCRIPTION,Earn up to 180 Ms. Marvel (Hard Light) shards
+ID_GACHA_CRATE_FCO_KAMALAKHAN_SPECIAL_TOKEN_NAME,Avid Fan Orb Fragments
+ID_GACHA_CRATE_FCO_KAMALAKHAN_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Avid Fan Orbs that contain up to 180 Ms. Marvel (Hard Light) shards.
+ID_GACHA_CRATE_FCO_GHOSTRIDERROBBIE_SPECIAL_NAME,Skeleton Driver Orb
+ID_GACHA_CRATE_FCO_GHOSTRIDERROBBIE_SPECIAL_DESCRIPTION,Earn up to 180 Ghost Rider (Robbie) shards
+ID_GACHA_CRATE_FCO_GHOSTRIDERROBBIE_SPECIAL_TOKEN_NAME,Skeleton Driver Orb Fragments
+ID_GACHA_CRATE_FCO_GHOSTRIDERROBBIE_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Skeleton Driver Orbs that contain up to 180 Ghost Rider (Robbie) shards.
+ID_GACHA_CRATE_FCO_RONIN_SPECIAL_NAME,Off the Edge Orb
+ID_GACHA_CRATE_FCO_RONIN_SPECIAL_DESCRIPTION,Earn up to 180 Ronin shards
+ID_GACHA_CRATE_FCO_RONIN_SPECIAL_TOKEN_NAME,Off the Edge Orb Fragments
+ID_GACHA_CRATE_FCO_RONIN_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Off the Edge Orbs that contain up to 180 Ronin shards.
+ID_GACHA_CRATE_FCO_MOCKINGBIRD_SPECIAL_NAME,Copycat Orb
+ID_GACHA_CRATE_FCO_MOCKINGBIRD_SPECIAL_DESCRIPTION,Earn up to 180 Mockingbird shards
+ID_GACHA_CRATE_FCO_MOCKINGBIRD_SPECIAL_TOKEN_NAME,Copycat Orb Fragments
+ID_GACHA_CRATE_FCO_MOCKINGBIRD_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Copycat Orbs that contain up to 180 Mockingbird shards.
+ID_GACHA_CRATE_BLACKCAT_OVERLOADED_NAME,Black Cat Overloaded Orb
+ID_GACHA_CRATE_BLACKCAT_OVERLOADED_DESCRIPTION,Contains Awakened Ability Materials for Black Cat and more
+ID_GACHA_CRATE_BLACKCAT_OVERLOADED_TOKEN_NAME,Black Cat Overloaded Orb Fragments
+ID_GACHA_CRATE_BLACKCAT_OVERLOADED_TOKEN_DESCRIPTION,Collect Black Cat Overloaded Orb Fragments from the Black Cat Trials and select offers to have a chance at Black Cat's Awakened Ability Materials
+ID_GACHA_CRATE_BLACKCAT_NAME,Black Cat Orb
+ID_GACHA_CRATE_BLACKCAT_DESCRIPTION,Earn up to 100 Black Cat Shards
+ID_GACHA_CRATE_BLACKCAT_TOKEN_NAME,Black Cat Orb Fragments
+ID_GACHA_CRATE_BLACKCAT_TOKEN_DESCRIPTION,Collect Fragments for Black Cat Orbs that contain up to 100 Black Cat Shards.
+ID_GACHA_CRATE_GODLYPOWER_NAME,Godly Power Orb
+ID_GACHA_CRATE_GODLYPOWER_DESCRIPTION,Contains Ions and Training Modules
+ID_GACHA_CRATE_GODLYPOWER_TOKEN_NAME,Godly Power Orb Fragments
+ID_GACHA_CRATE_GODLYPOWER_TOKEN_DESCRIPTION,Earn Godly Power Orb Fragments from daily Free Claims on web and select limited-time offers. Each Godly Power Orb contains Iso-8 Ions and Training Modules.

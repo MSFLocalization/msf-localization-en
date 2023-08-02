@@ -1113,6 +1113,12 @@ ID_BP_MISSION_ABILITY_PROTECTOR,Use abilities: Protector
 ID_BP_MISSION_ABILITY_SKILL,Use abilities: Skill
 ID_BP_MISSION_ABILITY_SUPPORT,Use abilities: Support
 ID_BP_MISSION_ABILITY_VILLAIN,Use abilities: Villain
+ID_BP_BATTLEGROUNDS_PLAY,Use 1 Arena energy
+ID_BP_AVA_PLAY,Use 1 War energy
+ID_BP_DRAFT_MATCHMAKING_PLAY_COMBAT_KNOCKOUT,Get a KO in RTA
+ID_BP_GRANDTOURNAMENT_PLAY,Room attempted in Cosmic Crucible
+ID_BP_BLITZ_PLAY,Play a Blitz Match
+ID_BP_BLITZ_WIN,Win a Blitz Match
 ID_QU_NA_SYMBIOTE,Parasitic Symbiosis
 ID_QU_SD_SYMBIOTE,Use Symbiotes in combat
 ID_QU_LM_SYMBIOTE,Use Symbiote characters in all forms of combat to earn various milestone rewards.
@@ -3128,3 +3134,69 @@ ID_QU_S4_STELLARSTANDOFF,Win 1 Cosmic Crucible Battle w/ New Warrior Characters 
 ID_QU_S5_STELLARSTANDOFF,Win 1 Cosmic Crucible Battle w/ New Warrior Characters at Gear Tier 16+
 ID_QU_S6_STELLARSTANDOFF,Win 1 Cosmic Crucible Battle w/ New Warrior Characters at Gear Tier 17+
 ID_QU_S7_STELLARSTANDOFF,Win 1 Cosmic Crucible Battle w/ New Warrior Characters at Gear Tier 18
+ID_QU_NA_TVAAGENT,TVA Agent
+ID_QU_SD_TVAAGENT,Participate in August Events
+ID_QU_LM_TVAAGENT,Participate in various events throughout the month of August to earn milestone progress.
+ID_QU_SM_TVAAGENT,Participate in August Events
+ID_QU_SC_TVAAGENT,Participate in August Events
+ID_QU_S1_TVAAGENT,Collect 1 TemPad
+ID_QU_S2_TVAAGENT,Collect 1 Reset Charge
+ID_QU_NA_VORMIR2301,Vormir : 2301
+ID_QU_SD_VORMIR2301,Open Soul Tribute Orbs
+ID_QU_LM_VORMIR2301,Spend Power Cores and open Soul Tribute Orbs to progress in this milestone. You can earn Soul Tribute Orb Fragments from any Campaign Node.
+ID_QU_S1_VORMIR2301,Open 1 Soul Tribute Orb
+ID_QU_S2_VORMIR2301,Spend 1 Power Core
+ID_QU_NA_SPLASH_SINISTER60SECONDS,Sinister 60 Seconds
+ID_QU_SD_SPLASH_SINISTER60SECONDS,Use Sinister Six in Blitz
+ID_QU_LM_SPLASH_SINISTER60SECONDS,Earn points by using Sinister Six characters in Blitz Battles. Earn more points if your Sinister Six characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_SINISTER60SECONDS,Use Sinister Six Characters in Blitz
+ID_QU_S1_SPLASH_SINISTER60SECONDS,Win Blitz with 3-star or higher Sinister Six Character
+ID_QU_S2_SPLASH_SINISTER60SECONDS,Win Blitz with 5-star or higher Sinister Six Character
+ID_QU_S3_SPLASH_SINISTER60SECONDS,Win Blitz with 7-star Sinister Six Character
+ID_QU_NA_SPLASH_TIMEANDSPACE,Time and Space
+ID_QU_SD_SPLASH_TIMEANDSPACE,Use Knowhere in Blitz
+ID_QU_LM_SPLASH_TIMEANDSPACE,Earn points by using Knowhere characters in Blitz Battles. Earn more points if your Knowhere characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_TIMEANDSPACE,Use Knowhere Characters in Blitz
+ID_QU_S1_SPLASH_TIMEANDSPACE,Win Blitz with 3-star or higher Knowhere Character
+ID_QU_S2_SPLASH_TIMEANDSPACE,Win Blitz with 5-star or higher Knowhere Character
+ID_QU_S3_SPLASH_TIMEANDSPACE,Win Blitz with 7-star Knowhere Character
+ID_QU_NA_SPLASH_DARKAGES,Dark Ages
+ID_QU_SD_SPLASH_DARKAGES,Use Black Order in Blitz
+ID_QU_LM_SPLASH_DARKAGES,Earn points by using Black Order characters in Blitz Battles. Earn more points if your Black Order characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_DARKAGES,Use Black Order Characters in Blitz
+ID_QU_S1_SPLASH_DARKAGES,Win Blitz with 3-star or higher Black Order Character
+ID_QU_S2_SPLASH_DARKAGES,Win Blitz with 5-star or higher Black Order Character
+ID_QU_S3_SPLASH_DARKAGES,Win Blitz with 7-star Black Order Character
+ID_QU_NA_SPLASH_ENDLESSTIME,Endless Time
+ID_QU_SD_SPLASH_ENDLESSTIME,Use Eternal in Blitz
+ID_QU_LM_SPLASH_ENDLESSTIME,Earn points by using Eternal characters in Blitz Battles. Earn more points if your Eternal characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_ENDLESSTIME,Use Eternal Characters in Blitz
+ID_QU_S1_SPLASH_ENDLESSTIME,Win Blitz with 3-star or higher Eternal Character
+ID_QU_S2_SPLASH_ENDLESSTIME,Win Blitz with 5-star or higher Eternal Character
+ID_QU_S3_SPLASH_ENDLESSTIME,Win Blitz with 7-star Eternal Character
+ID_QU_NA_SPLASH_KILLINGTIME,Killing Time
+ID_QU_SD_SPLASH_KILLINGTIME,Use Weapon X in Blitz
+ID_QU_LM_SPLASH_KILLINGTIME,Earn points by using Weapon X characters in Blitz Battles. Earn more points if your Weapon X characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_KILLINGTIME,Use Weapon X Characters in Blitz
+ID_QU_S1_SPLASH_KILLINGTIME,Win Blitz with 3-star or higher Weapon X Character
+ID_QU_S2_SPLASH_KILLINGTIME,Win Blitz with 5-star or higher Weapon X Character
+ID_QU_S3_SPLASH_KILLINGTIME,Win Blitz with 7-star Weapon X Character
+ID_QU_NA_VARIANTHUNT,Variant Hunt
+ID_QU_SD_VARIANTHUNT,Play Raid Battles
+ID_QU_SC_VARIANTHUNT,Earn Armory Orbs by doing Raids
+ID_QU_LM_VARIANTHUNT,"Win or Lose Raid battle to complete this milestone that rewards Armory 14, 15, 16, and 17 Orbs!"
+ID_QU_NA_LAMENTIS12077,Lamentis-1 : 2077
+ID_QU_SD_LAMENTIS12077,Battle in War and Earn Allied Supply Orb Fragments
+ID_QU_LM_LAMENTIS12077,"Collaborate with your alliances to battle in War and earn Allied Supply Orb Fragments. Allied Supply Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store. "
+ID_QU_NA_ASGARD2004,Asgard : 2004
+ID_QU_SD_ASGARD2004,Win Blitz Battle and Open Godly Power Orbs
+ID_QU_LM_ASGARD2004,"Battle in Blitz with Rebirth characters, open Battle Plan Orbs, and use Power Cores to earn these rewards:\n\n- Photon character shards\n- 7 Red Star Nova\n- Nico's Runaways Costume\n- Bio Gear\n- Catalyst Parts\n- And more!"
+ID_QU_SM_ASGARD2004,Win Blitz Battle and Open Godly Power Orbs
+ID_QU_S1_ASGARD2004,Win a Blitz with Photon
+ID_QU_S2_ASGARD2004,Win a Blitz with Ms. Marvel (Hard Light)
+ID_QU_S3_ASGARD2004,Win a Blitz with Doctor Strange
+ID_QU_S4_ASGARD2004,Win a Blitz with Sylvie
+ID_QU_S5_ASGARD2004,Open 1 Godly Power Orb
+ID_QU_NA_TIMELINESUPREMACY,Timeline Supremacy
+ID_QU_SD_TIMELINESUPREMACY,Earn Blitz Credits
+ID_QU_LM_TIMELINESUPREMACY,Use Blitz Credits to complete a 7-day milestone that yields supreme rewards!

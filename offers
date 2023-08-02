@@ -3474,6 +3474,46 @@ ID_OF_NA_SIF_NU_OFFER,Asgardian Offer: Sif
 ID_OF_DE_SIF_NU_OFFER,"Limited-time for new players: Unlock Sif to strengthen your <color=#fff568>Asgardian</color> team! Draw enemy fire with a Taunt fortified by Block and Deflect, then make enemies pay with Counter."
 ID_OF_NA_MIGHTYTHOR_NU_OFFER,Asgardian Offer: Mighty Thor
 ID_OF_DE_MIGHTYTHOR_NU_OFFER,Limited-time for new players: Upgrade Mighty Thor to strengthen your <color=#fff568>Asgardian</color> team! Strike down foes by providing Charged and additional Max Health to Hero Asgardians!
+ID_OF_NA_TVAAGENT_STARTER_MEGA,TVA Agent Mega Starter
+ID_OF_NA_TVAAGENT_STARTER_SUPER,TVA Agent Super Starter
+ID_OF_NA_TVAAGENT_STARTER,TVA Agent Starter Bundle
+ID_OF_NA_TVAAGENT_BOOSTER_ANCHOR,TVA Agent Daily Points
+ID_OF_NA_TVAAGENT_MEGA_POINTS,TVA Agent: TemPad Cache
+ID_OF_NA_TVAAGENT_BOOSTER,TVA Agent: TemPad Bundle
+ID_OF_NA_TVAAGENT_BOOSTER_MINOR,TVA Agent: TemPad Pack
+ID_OF_NA_TVAAGENTFREE_DAILY_CLAIM,TVA Agent Daily Gift
+ID_OF_NA_TVAAGENT_CATCHUP_MEGA,TVA Agent Mega Catch-Up
+ID_OF_NA_TVAAGENT_CATCHUP_SUPER,TVA Agent Super Catch-Up
+ID_OF_NA_TVAAGENT_CATCHUP,TVA Agent Catch-Up Bundle
+ID_OF_NA_TVAAGENT_CATCHUP_LAST_CHANCE,TVA Agent Last Chance Bundle
+ID_OF_DE_TVAAGENT_STARTER_MEGA,"Stock up on <color=#fff568>TVA Agent</color> progress and exclusive items, and get ahead on the TVA Agent Leaderboard for <color=#fff568>up to 8 million T2 Level 5 Ions</color>!"
+ID_OF_DE_TVAAGENT_STARTER_SUPER,Get ahead in the <color=#fff568>TVA Agent</color> milestone and fast-forward your way to the <color=#fff568>Sylvie shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
+ID_OF_DE_TVAAGENT_STARTER,Start off strong in the <color=#fff568>TVA Agent</color> milestone!
+ID_OF_DE_TVAAGENT_BOOSTER_ANCHOR,Make consistent <color=#fff568>TVA Agent</color> progress with this daily <color=#fff568>TemPads</color> supply!
+ID_OF_DE_TVAAGENT_MEGA_POINTS_ELI,Stock up on <color=#fff568>TVA Agent</color> progress and <color=#fff568>Elite Credits</color> with this special deal!
+ID_OF_DE_TVAAGENT_BOOSTER_LEG,Stock up on <color=#fff568>TVA Agent</color> progress and <color=#fff568>Legacy Orbs</color> with this special deal!
+ID_OF_DE_TVAAGENT_BOOSTER_ABI,Stock up on <color=#fff568>TVA Agent</color> progress and <color=#fff568>Ability Materials</color> with this special deal!
+ID_OF_DE_TVAAGENT_MEGA_POINTS_ABI,Stock up on <color=#fff568>TVA Agent</color> progress and <color=#fff568>Ability Materials</color> with this special deal!
+ID_OF_DE_TVAAGENT_BOOSTER_MEG,Stock up on <color=#fff568>TVA Agent</color> progress and <color=#fff568>Mega Orbs</color> with this special deal!
+ID_OF_DE_TVAAGENT_BOOSTER_MINOR_GOL,Stock up on <color=#fff568>TVA Agent</color> progress and <color=#fff568>Gold Promotion Credits</color> with this special deal!
+ID_OF_DE_TVAAGENT_BOOSTER_CAT,Stock up on <color=#fff568>TVA Agent</color> progress and <color=#fff568>Catalysts</color> with this special deal!
+ID_OF_DE_TVAAGENT_BOOSTER_ARM,Stock up on <color=#fff568>TVA Agent</color> progress and <color=#fff568>Armory Orbs</color> with this special deal!
+ID_OF_DE_TVAAGENT_BOOSTER_MINOR_ARM,Stock up on <color=#fff568>TVA Agent</color> progress and <color=#fff568>Armory Orbs</color> with this special deal!
+ID_OF_DE_TVAAGENT_MEGA_POINTS,Accelerate your <color=#fff568>TVA Agent</color> progress with these discounted <color=#fff568>TemPads</color>!
+ID_OF_DE_TVAAGENT_BOOSTER_PRE,Accelerate your <color=#fff568>TVA Agent</color> progress with these discounted <color=#fff568>TemPads</color>!
+ID_OF_DE_TVAAGENT_BOOSTER_MINOR,Accelerate your <color=#fff568>TVA Agent</color> progress with these discounted <color=#fff568>TemPads</color>!
+ID_OF_DE_TVAAGENT_BOOSTER_TRA,Stock up on <color=#fff568>TVA Agent</color> progress and <color=#fff568>Training Orbs</color> with this special deal!
+ID_OF_DE_TVAAGENT_BOOSTER_HIG,Take advantage of <color=#fff568>TVA Agent</color>'s highest discount offer for fast progress and Iso-8 upgrades!
+ID_OF_DE_TVAAGENT_BOOSTER_MINOR_ISO,Stock up on <color=#fff568>TVA Agent</color> progress and <color=#fff568>Iso-8 Materials</color> with this special deal!
+ID_OF_DE_TVAAGENT_MEGA_POINTS_GOL,Stock up on <color=#fff568>TVA Agent</color> progress and <color=#fff568>Gold</color> with this special deal!
+ID_OF_DE_TVAAGENT_BOOSTER,Accelerate your <color=#fff568>TVA Agent</color> progress with these discounted <color=#fff568>TemPads</color>!
+ID_OF_DE_TVAAGENT_BOOSTER_ISO,Stock up on <color=#fff568>TVA Agent</color> progress and <color=#fff568>Iso-8 Materials</color> with this special deal!
+ID_OF_DE_TVAAGENT_BOOSTER_MINOR_LEG,Stock up on <color=#fff568>TVA Agent</color> progress and <color=#fff568>Legacy Orbs</color> with this special deal!
+ID_OF_DE_TVAAGENT_BOOSTER_GOL,Stock up on <color=#fff568>TVA Agent</color> progress and <color=#fff568>Gold Promotion Credits</color> with this special deal!
+ID_OF_DE_TVAAGENTFREE_DAILY_CLAIM,Come back daily for more <color=#fff568>TVA Agent</color> progress!
+ID_OF_DE_TVAAGENT_CATCHUP_MEGA,"Finish strong in the milestones and leaderboards for <color=#fff568>Sylvie shards</color>, <color=#fff568>fully crafted Gear Tier 17 pieces</color> and <color=#fff568>up to 5,000,000 T2 Level 5 Ions</color>!"
+ID_OF_DE_TVAAGENT_CATCHUP_SUPER,Finish strong in the milestones for <color=#fff568>Sylvie shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
+ID_OF_DE_TVAAGENT_CATCHUP_LAST_CHANCE,"Catch this deal before it's too late to earn your final <color=#fff568>Sylvie shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>! "
 ID_OF_NA_BIFROSTSHOWCASE_FINALE_MEGA,Bifrost Mega Pack
 ID_OF_NA_BIFROSTSHOWCASE_FINALE_FULL,Changing the Story: Full Completion
 ID_OF_NA_BIFROSTSHOWCASE_FINALE_POWER,Changing the Story: Power Up
@@ -3486,7 +3526,49 @@ ID_OF_DE_BIFROSTSHOWCASE_FINALE_GEAR,"Gear up your <color=#fff568>Bifrost</color
 ID_OF_DE_BIFROSTSHOWCASE_FINALE_GT15,"Take your <color=#fff568>Bifrost</color> team to Gear Tier 15 to access the Bifrost Epic Event's Challenge and Bonus Difficulties! Event rewards include: <color=#fff568>1.8M T2 Level 5 Ions, 500 Teal Mini-Uniques and more</color>!"
 ID_OF_DE_BIFROSTSHOWCASE_FINALE_5YS,"Take your <color=#fff568>Bifrost</color> team to 5 Yellow Stars to access the Bifrost Epic Event's Bonus Difficulty! Event rewards include: <color=#fff568>1.8M T2 Level 5 Ions, Gear Tier 17 Mini-Uniques and more</color>!"
 ID_OF_NA_BIFROSTSHOWCASE_FINALE_DIFF,Changing the Story: Challenge and Bonus
+ID_OF_NA_PHOTON_FCO_OFFER,Shimmering Sentinel
+ID_OF_DE_PHOTON_FCO_OFFER,Each <color=#fff568>Bright Light Orb</color> contains <color=#fff568>up to 180 Photon</color> shards. Blast enemies and stop Speed manipulation of <color=#fff568>Secret Defender</color> and <color=#fff568>A-Force</color> allies while boosting their damage!
+ID_OF_NA_PHOTON_WEB_SPECIAL_OFFER,Web Special: Photon
+ID_OF_DE_PHOTON_WEB_SPECIAL_OFFER,Don't miss this limited deal for <color=#fff568>Photon</color> shards and unlock one-time only release offers on your next visit! Blast enemies and stop Speed manipulation of <color=#fff568>Secret Defender</color> and <color=#fff568>A-Force</color> allies while boosting their damage!
+ID_OF_DE_PHOTON_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Photon</color> and unlock one-time only release offers on your next visit! Blast enemies and stop Speed manipulation of <color=#fff568>Secret Defender</color> and <color=#fff568>A-Force</color> allies while boosting their damage!
+ID_OF_DE_PHOTON_OFFER_SHARD,Power up <color=#fff568>Photon</color> with this shard offer! Blast enemies and stop Speed manipulation of <color=#fff568>Secret Defender</color> and <color=#fff568>A-Force</color> allies while boosting their damage!
+ID_OF_NA_PHOTON_RS_DRAFT,Red Star Draft: Photon
+ID_OF_DE_PHOTON_RS_DRAFT_345,"Get an equal chance of either <color=#fff568>3, 4, or 5 Red Stars</color> for <color=#fff568>Photon</color>. Blast enemies and stop Speed manipulation of <color=#fff568>Secret Defender</color> and <color=#fff568>A-Force</color> allies while boosting their damage!"
+ID_OF_DE_PHOTON_RS_DRAFT_456,"Get an equal chance of either <color=#fff568>4, 5, or 6 Red Stars</color> for <color=#fff568>Photon</color>. Blast enemies and stop Speed manipulation of <color=#fff568>Secret Defender</color> and <color=#fff568>A-Force</color> allies while boosting their damage!"
+ID_OF_DE_PHOTON_RS_DRAFT_567,"Get an equal chance of either <color=#fff568>5, 6, or 7 Red Stars</color> for <color=#fff568>Photon</color>. Blast enemies and stop Speed manipulation of <color=#fff568>Secret Defender</color> and <color=#fff568>A-Force</color> allies while boosting their damage!"
+ID_OF_NA_SECRETDEFENDER_TEAM_OFFER,Secret Defender Team Bundle
+ID_OF_DE_SECRETDEFENDER_TEAM_OFFER,Climb the ranks of Arena by powering up these <color=#fff568>Secret Defender</color> team members!
+ID_OF_STOREBAR_PHOTON,Limited Dual: Photon
+ID_OF_NA_DUAL_PHOTON,Limited Dual: Photon
+ID_OF_DE_DUAL_PHOTON,Choose your path to power up this Secret Defender
+ID_OF_DE_DUAL_UNLOCK_PHOTON,Unlock this Secret Defender and one-time release offers on your next visit
 ID_OF_NA_HEROASGARDIAN_NU_OFFER,Hero Asgardian Team Offer
 ID_OF_DE_HEROASGARDIAN_NU_OFFER,Get a 3-star Hero Asgardian team with this exclusive deal!
 ID_OF_NA_VILLAINASGARDIAN_NU_OFFER,Villain Asgardian Team Offer
 ID_OF_DE_VILLAINASGARDIAN_NU_OFFER,Unlock the Villain Asgardian team with this exclusive deal!
+ID_OF_NA_VORMIR2301_STARTER_MEGA,Vormir : 2301 Mega Starter
+ID_OF_NA_VORMIR2301_STARTER_SUPER,Vormir : 2301 Super Starter
+ID_OF_NA_VORMIR2301_STARTER,Vormir : 2301 Starter Bundle
+ID_OF_NA_VORMIR2301_BOOSTER_WEB_MEGA,Soulful Web Special
+ID_OF_NA_VORMIR2301_BOOSTER_DAILY_ANCHOR,Vormir : 2301 Daily Booster
+ID_OF_NA_VORMIR2301_CATCHUP_CONTINGENCY,Vormir : 2301 Mega Catch-Up
+ID_OF_NA_VORMIR2301_CATCHUP_SUPER,Vormir : 2301 Super Catch-Up
+ID_OF_NA_VORMIR2301_CATCHUP,Vormir : 2301 Catch-Up Bundle
+ID_OF_NA_VORMIR2301_CATCHUP_LAST_CHANCE,Vormir : 2301 Last Chance Bundle
+ID_OF_NA_VORMIR2301_EVENT_ORB,Daily Soul Tribute Orb
+ID_OF_NA_VORMIR2301_DAILY_CLAIM,Vormir : 2301 Daily Gift
+ID_OF_NA_VORMIR2301_INTERSTITIAL,Vormir : 2301 Web Special
+ID_OF_DE_VORMIR2301_STARTER_MEGA,"Get ahead in the <color=#fff568>Vormir : 2301</color> Milestone and fast-forward your way to <color=#fff568>Masters of Evil shards</color>, <color=#fff568>Elite 7 Credits</color> and <color=#fff568>Mutant Gear Tier 18 Mini-Uniques</color>!"
+ID_OF_DE_VORMIR2301_STARTER,Start off strong in the <color=#fff568>Vormir : 2301</color> milestone!
+ID_OF_DE_VORMIR2301_BOOSTER_WEB_MEGA,Supercharge your Nova Trials preparation and boost your <color=#fff568>Vormir : 2301 Milestone</color> progress!
+ID_OF_DE_VORMIR2301_BOOSTER_DAILY_ANCHOR,Make consistent <color=#fff568>Vormir : 2301</color> progress with this daily milestone points supply!
+ID_OF_DE_VORMIR2301_CATCHUP_CONTINGENCY,"Finish strong in the milestones to earn <color=#fff568>Masters of Evil shards</color>, <color=#fff568>Elite 7 Credits</color> and <color=#fff568>Mutant Gear Tier 18 Mini-Uniques</color>!"
+ID_OF_DE_VORMIR2301_CATCHUP_LAST_CHANCE,"Complete your final Vormir : 2301 milestones before it's too late for more <color=#fff568>Teal Uniques</color> and <color=#fff568>Masters of Evil shards</color>! "
+ID_OF_DE_VORMIR2301_EVENT_ORB,Don't miss this daily <color=#fff568>Soul Tribute Orb</color> offer to power up your roster and boost your <color=#fff568>Vormir : 2301 Milestone</color> progress!
+ID_OF_DE_VORMIR2301_DAILY_CLAIM,Come back daily for more <color=#fff568>Vormir : 2301</color> progress!
+ID_OF_DE_VORMIR2301_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Vormir : 2301</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_VARIANT_HUNT_WAR,Variant Hunt Daily Booster
+ID_OF_NA_VARIANT_HUNT_EVENT_ORB,Daily Allied Supply Orb Bundle
+ID_OF_NA_VARIANT_HUNT_FREE,Allied Supply Orb Free Claim
+ID_OF_DE_VARIANT_HUNT_WAR,Make consistent <color=#fff568>Vormir : 2301</color> progress with this daily milestone points supply!
+ID_OF_DE_VARIANT_HUNT_EVENT_ORB,"Get these orbs for <color=#fff568>Variant Hunt</color> progress and open them for Apocalypse Bounty Orbs containing T2 L5 Ions and a slew of resources! "

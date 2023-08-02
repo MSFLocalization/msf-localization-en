@@ -5,6 +5,8 @@ ID_UI_BATTLEPASS_REWARDS_TAB,REWARDS
 ID_UI_BATTLEPASS_TIER_NAME,OBJECTIVE
 ID_UI_BATTLEPASS_DAILY_NAME,DAILY
 ID_UI_BATTLEPASS_WEEKLY_NAME,WEEKLY
+ID_UI_BATTLEPASS_DAILY_NAME_REVAMP,"DAILY OBJECTIVES (Blitz, Arena, and RTA)"
+ID_UI_BATTLEPASS_WEEKLY_NAME_REVAMP,WEEKLY OBJECTIVES (Cosmic Crucible and War)
 ID_UI_BATTLEPASS_COMPLETED_NAME,COMPLETED
 ID_UI_BATTLEPASS_CLAIMABLE_NAME,CLAIMABLE
 ID_UI_BATTLEPASS_CLAIMED_NAME,CLAIMED
@@ -67,3 +69,22 @@ ID_UI_BATTLEPASS_ALL_REWARDS_PREMIUM_DESC,Collect Tokens to unlock these amazing
 ID_UI_BATTLEPASS_FREE_REWARDS,FREE REWARDS
 ID_UI_BATTLEPASS_PREMIUM_REWARDS,PREMIUM REWARDS
 ID_UI_BATTLEPASS_PREMIUM_ALREADY_PURCHASED,Premium pass already purchased!\nPlease check your inbox to collect and activate the pass.
+ID_UI_BATTLEPASS_EARN_POINTS,Earn points to complete objectives and collect Battle Pass rewards.
+ID_BP_MISSION_SCORE,Score {points} Points
+ID_UI_BATTLEPASS_REVAMP_INFO_BODY,"<color=#db8721><size=60>Level Tokens</size></color>\nCollect Level Tokens for Battle Pass to progress through the levels.\n\n<color=#db8721><size=60>Objectives</size></color>\nComplete objectives to earn Level Tokens. Check the Objectives tab in the Battle Pass page to see your active objective progress. When the daily or weekly timer runs out, a new set of objectives will be generated for the duration of the Battle Pass. Objectives are randomly generated, so make sure to check them regularly.\n\n<color=#fff568>NOTE:</color>\n<color=#86e619> a)</color> All the Objectives must be completed through Real-Time Arena and Blitz.\n<color=#86e619> b)</color> Progress is recorded at the end of a complete match.\n<color=#86e619> c)</color> All objectives must be completed before the objective's timer runs out to claim the objective's rewards.\n<color=#86e619> d)</color> All objectives are not required to complete the Battle Pass.\n\n<color=#db8721><size=60>Objective Types</size></color>\n<color=#86e619>Score Points:</color> Earn points through Real-Time Arena and Blitz. Earn 10 points per Knockout and 3 points per Blitz Win.\n\n<color=#db8721><size=60>Free Pass</size></color>\nCompleting objectives will earn progress through the Battle Pass and all rewards in the Free Pass can be earned without purchase.\n\n<color=#db8721><size=60>Premium Pass</size></color>\nPurchasing a Premium Pass will unlock access to the top lane of rewards. The level must still be achieved before claiming the reward. Premium Pass holders can also instantly unlock levels using Power Cores.\n\n<color=#db8721><size=60>Schedule</size></color>\nThe Battle Pass runs as a season. Once the duration expires, you will no longer make progress on that season's Battle Pass.\n\n<color=#fff568>NOTE:</color>\n Make sure to claim all your Free and Premium Rewards before the current Battle Pass season ends."
+ID_BATTLEPASS_REVAMP_RULES_SUBHEADER_01,Prepare for Battle
+ID_BATTLEPASS_REVAMP_RULES_SUBHEADER_02,Are You Game?
+ID_BATTLEPASS_REVAMP_RULES_SUBHEADER_03,Objectives
+ID_BATTLEPASS_REVAMP_RULES_SUBHEADER_04,Passes
+ID_BATTLEPASS_REVAMP_RULES_SUBHEADER_05,Schedule
+ID_BATTLEPASS_REVAMP_RULES_BODY_01,The Battle Pass gives you more opportunities to earn rewards in PvP game modes.\nJoin The Battle Pass season now and take your roster to the next level!
+ID_BATTLEPASS_REVAMP_RULES_BODY_02,"Play Cosmic Crucible, Alliance War, Arena, Blitz, and Real-Time Arena while The Battle Pass season is active to hit objectives.\nReap the rewards of conquering other Commanders with Battle Pass!"
+ID_BATTLEPASS_REVAMP_RULES_BODY_03A,Complete objectives to earn Level Tokens. New Objectives are generated when the daily or weekly timer expires and can be viewed on the objectives tab. Make sure to check regularly.
+ID_BATTLEPASS_REVAMP_RULES_BODY_03B,Progress is recorded at the end of a complete match. All objectives must be completed before the objective's timer runs out to claim the objective's rewards. All objectives are not required to complete The Battle Pass.
+ID_BATTLEPASS_REVAMP_RULES_BODY_04A,Free Pass - Completing objectives will earn progress through The Battle Pass and all rewards in the Free Pass can be earned without purchase.
+ID_BATTLEPASS_REVAMP_RULES_BODY_04B,Premium Pass - Purchasing a Premium Pass will unlock access to the top of lane rewards. The level must still be achieved before claiming the reward. Premium Pass holders can also instantly unlock levels using Power Cores
+ID_BATTLEPASS_REVAMP_RULES_BODY_05A,"The Battle Pass runs as a season. Once the duration expires, you can no longer make progress on that season's Battle Pass or claim its rewards."
+ID_BATTLEPASS_REVAMP_RULES_BODY_05B,Make sure to claim all Free and Premium rewards before the current Battle Pass season ends.
+ID_BATTLEPASS_REVAMP_CUR_DESC,Earn Level Tokens by completing The Battle Pass Objectives.
+ID_BATTLEPASS_REVAMP_CUR_NAME,Level Tokens
+ID_BATTLEPASS_REVAMP_DESC,Earn Level Tokens

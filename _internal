@@ -46,8 +46,10 @@ ID_FATAL_BUTTON_CONTINUE,Continue
 ID_FATAL_NO_NETWORK_HEADLINE,INTERNET ACCESS REQUIRED
 ID_FATAL_NO_NETWORK_MESSAGE,Unable to detect internet connection. Searching...
 ID_FATAL_BANNED_HEADLINER,BANNED ACCOUNT
+ID_FATAL_EXPIRED_HEADLINER,EXPIRED ACCOUNT
 ID_FATAL_BANNED_TEMP_HEADLINER,TEMPORARY BAN
 ID_FATAL_BANNED_MESSAGE,Your account is banned. Please contact Customer Support for assistance.
+ID_FATAL_EXPIRED_MESSAGE,Your account has expired. Please create a new account or contact Customer Support for assistance.
 ID_FATAL_UPDATE_REQUIRED_HEADLINER,UPDATE AVAILABLE
 ID_FATAL_UPDATE_REQUIRED_MESSAGE,"Commander, a new version of the game is available. Get the latest update to continue playing."
 ID_FATAL_ERROR_HEADLINER,ANOMALY DETECTED
@@ -273,3 +275,5 @@ ID_SPARX_LOCALIZER_FORMAT_DURATION_SECONDS,{num}s
 ID_SPARX_LOCALIZER_FORMAT_DURATION_SECOND,{num}s
 ID_SPARX_IAP_GOOGLE_ERROR_ACCOUNT,You must be signed in to a Google Play account on your device to purchase items.
 ID_SPARX_IAP_SAMSUNG_ERROR_ACCOUNT,Problems encountered while connecting to Samsung Galaxy Apps.
+ID_EXPIRED_CONTACT_SUPPORT,Contact Support
+ID_EXPIRED_START_NEW_PROFILE,Start New Profile

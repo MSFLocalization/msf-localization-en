@@ -945,6 +945,15 @@ ID_ECM_GOTGVOL3_DESC_C,"Play through the Guardians of the Galaxy's Greatest Hits
 ID_ECM_GOTGVOL3_MB,"Between battles, Rocket Raccoon decides to regale Cosmo with tales of the Guardians' old adventures."
 ID_ECM_GOTGVOL3_MC,GO!
 ID_ECM_GOTGVOL3_MT,The Greatest Hits event has started!
+ID_ECM_KAMALA_NAME,Light Warriors
+ID_ECM_KAMALA_DESC,Ms. Marvel (Hard Light) must fight off the Kree and save her friends to prevent a dimensional disaster.
+ID_ECM_CHANCE_KAMALA,Earn Ms. Marvel (Hard Light) shards
+ID_ECM_CHANCE_KAMALA_DIF1,Earn Ms. Marvel (Hard Light) shards
+ID_ECM_CHANCE_KAMALA_DIF2,Earn Ms. Marvel (Hard Light) shards
+ID_ECM_CHANCE_KAMALA_DIF3,Earn Ms. Marvel (Hard Light) shards
+ID_ECM_KAMALA_DESC_DIF1,Recommendations:\n- Squad Lvl 33+\n- Gear Tier 5+\n- Ability Lvl 2+\n\nMs. Marvel (Hard Light) must fight off the Kree and save her friends to prevent a dimensional disaster.
+ID_ECM_KAMALA_DESC_DIF2,Recommendations:\n- Squad Lvl 60+\n- Gear Tier 9+\n- Ability Lvl 5+\n\nMs. Marvel (Hard Light) must fight off the Kree and save her friends to prevent a dimensional disaster.
+ID_ECM_KAMALA_DESC_DIF3,Recommendations:\n- Squad Lvl 85+\n- Gear Tier 15+\n- Ability Lvl 6+\n\nMs. Marvel (Hard Light) must fight off the Kree and save her friends to prevent a dimensional disaster.
 ID_SEC_INCURSION01_NAME,Star-Spangled Man
 ID_SEC_INCURSION01_DESC,Interdimensional rifts have begun to mysteriously form across Nexus. Join forces with Captain Carter and the Rebirth team to investigate.
 ID_SEC_CHANCE_INCURSION01,Prelude to Incursion I
@@ -1897,3 +1906,15 @@ ID_INFO_BO_REALMRAIDERS,"<color=#fff568>Realm Raiders Milestone</color>\nGain pr
 ID_INFO_NA_STELLARSTANDOFF,Stellar Standoff
 ID_INFO_DE_STELLARSTANDOFF,Training Modules and Defender of Valhalla Progress!
 ID_INFO_BO_STELLARSTANDOFF,"<color=#fff568>Stellar Standoff Milestone</color>\nGain progress in this <color=#fff568>3-day</color> event by winning Cosmic Crucible battles with increased progress for winning with New Warriors at higher Gear Tiers and earning Allied Supply Orb fragments from the Godly Gathering Web Milestone and daily Free Claims. Earn incredible rewards including <color=#fff568>L4 Training Modules, Elite Credits, and Apocalypse Bounty Orbs</color>. Apocalypse Bounty Orbs contain up to 5,000,000 T2 Level 5 Ions! You'll also earn points towards the month-long Defender of Valhalla milestone by collecting Gems of Cyttorak.\n\n<color=#fff568>Daily Godly Gathering Web Milestone</color>\nSpend Iso-8 Campaign Energy to get Allied Supply Orb fragments for additional progress in the Stellar Standoff. Keep an eye out for Free Claims containing Allied Supply Orb fragments every day!"
+ID_INFO_NA_TVAAGENT,TVA Agent
+ID_INFO_DE_TVAAGENT,Participate in August Events
+ID_INFO_BO_TVAAGENT,"Create a victorious timeline with Sylvie shards and more with this month-long event:\n\nEvents\nThroughout the month of August there will be 8 separate milestone events that earn points toward the TVA Agent Event.\n\nPoints\nEarn points by collecting TemPads and Reset Charges from August events. You may find more than one Reset Charge in an event and more TemPads can be found in Daily Free Claims on our website.\n\nReset Charge Receptacle\nEach Reset Charge collected will enable you to open one Reset Charge Receptacle. This will reward TVA Gift Cards to spend in the TVA Gift Shop Event Store.\n\nTVA Gift Shop\nSpend your TVA Gift Cards here on T4 Ability Materials, character shards, and more!\n\nRewards\nHit TVA Agent milestones throughout the event to take home Sylvie character shards, fully crafted Gear Tier 17 Gear, Gold Orbs, and more!\n\nLeaderboard\nCompete on the Leaderboard for exclusive rewards! Players reaching the top 2% rank will earn exclusive T2 Level 5 Ions and Armory 17 Orb Fragments, while other competitors can earn T2 Level 4 Ions, Gold Orb Fragments, and Teal Raid Orbs."
+ID_INFO_NA_VORMIR2301,Vormir : 2301
+ID_INFO_DE_VORMIR2301,Earn and Open Soul Tribute Orbs
+ID_INFO_BO_VORMIR2301,"Prepare for the Nova Trials with the Vormir : 2301 event. Earn valuable rewards including <color=#fff568>Gear Tier 18 Mutant Mini Uniques, Gold Promotion Credits, and more</color>! You'll also earn points for the month-long TVA Agent Event by collecting <color=#fff568>TemPads and Reset Charges</color>\n\nGain progress in this <color=#fff568>6-day</color> event by spending Power Cores and opening Soul Tribute Orbs which are earned from Campaign Nodes or special limited-time offers."
+ID_INFO_NA_LAMENTIS12077,Lamentis-1 : 2077
+ID_INFO_DE_LAMENTIS12077,Battle in Alliance War for Gold rewards!
+ID_INFO_BO_LAMENTIS12077,Battle in War to earn Gold and TVA Agent progress!
+ID_INFO_NA_ASGARD2004,Asgard : 2004
+ID_INFO_DE_ASGARD2004,Win Blitz Battle and Open Godly Power Orbs
+ID_INFO_BO_ASGARD2004,"Earn <color=#fff568>Photon character shards</color> and <color=#fff568>Bio Gear</color>!\n\n<color=#fff568>Asgard : 2004 Milestone</color>\nScore points toward this milestone by battling in Blitz (bonus points for using select characters) or using Power Cores. Earn progress as well by opening limited-time Godly Power Orbs containing valuable Training Modules and T2 Level 1 & 4 Ions. These orbs are available in Free Claims on web and special Store offers!\n\n<color=#fff568>Leaderboard</color>\nClimb the ranks of the <color=#fff568>Asgard : 2004</color> leaderboard and earn rewards such as: 7-Red Star Nova, Mutant Gear Tier 18 Pieces, and more!\n\n<color=#fff568>Timeline Supremacy Web Milestone</color>\nUse Blitz Credits to earn progress in this web milestone to earn Catalyst Parts, Teal Gear Orbs and Elite 4 Credits."
