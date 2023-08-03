@@ -6876,3 +6876,9 @@ ID_ME_BO_STRIKEPASS40_ANNOUNCE,"Commander,\n\n<color=#fff568>S.T.R.I.K.E. Pass: 
 ID_ME_NA_STRIKEPASS40_ENDING,Ending: S.T.R.I.K.E. Pass
 ID_ME_DE_STRIKEPASS40_ENDING,Don't miss Vahl shards!
 ID_ME_BO_STRIKEPASS40_ENDING,"Commander,\n\nYou only have <color=#fff568>2 days</color> remaining to earn <color=#fff568>Vahl</color> shards in Season 40 of S.T.R.I.K.E. Pass.\n\nHurry and complete your Daily Objectives before these rewards are gone!"
+ID_ME_NA_NEW_CHARACTER_POLL_ANNOUNCE,New Character Poll
+ID_ME_DE_NEW_CHARACTER_POLL_ANNOUNCE,Vote Now on the Web!
+ID_ME_BO_NEW_CHARACTER_POLL_ANNOUNCE,"Something Symbiotic this way comes!\n\nFor a limited-time only, visit <color=#fff568>MarvelStrikeForce.com</color> to vote for one of four characters that you would like to see bond with a Symbiote to join an upcoming team as a brand new character!\n\nTo vote, log into MarvelStrikeForce.com with your Scopely Account and access the New Character Poll from the Home page.\n\nFor your participation in this major decision, you will also receive <color=#fff568>100 Power Cores</color> and <color=#fff568>100 Campaign Energy</color>!\n\nChoose wisely, Commander."
+ID_ME_NA_USAGENT_FOUNTAIN_UPDATE,Recruit U.S. Agent
+ID_ME_DE_USAGENT_FOUNTAIN_UPDATE,Availability Update
+ID_ME_BO_USAGENT_FOUNTAIN_UPDATE,"Commander,\n\n<color=#fff568>U.S. Agent</color> character shards are now available in the <color=#fff568>Raid Store</color> for Raid Credits and the <color=#fff568>Raid Orb</color>.\n\nHead over and power up <color=#fff568>The Dark Patriot</color> to take on challenging Bio Raid nodes!"

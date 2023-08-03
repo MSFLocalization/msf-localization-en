@@ -230,7 +230,7 @@ ID_GT_SEASON_RATINGS_HEADER,COSMIC CRUCIBLE SEASON
 ID_GT_NO_PENDING_SEASON_DESC,Cosmic Crucible Season coming soon
 ID_GT_PENDING_SEASON_TIMER_TEXT,Coming soon
 ID_GT_S4_GLOBAL_RULES_NAME,Multiversal Warriors
-ID_GT_S4_GLOBAL_RULES_DESC,"Multiversal Warriors\nOn Defense and Offense,\n <color=#fff568>NEW WARRIOR</color> Characters:\n> Gain +<color=#86e619>10%</color> crit chance and crit damage for each <color=#fff568>Charged</color> on that character.\n> When Attacking an Enemy with <color=#fff568>Blind</color>, Gain <color=#fff568>Regeneration</color>\n \nOn Defense,\nAll Characters:\n>Gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage."
+ID_GT_S4_GLOBAL_RULES_DESC,"Multiversal Warriors\nOn Defense and Offense,\n <color=#fff568>NEW WARRIOR</color> Characters:\n> Gain +<color=#86e619>10%</color> crit chance and crit damage for each <color=#fff568>Charged</color> on that character.\n> When Attacking an Enemy with <color=#fff568>Blind</color>, Gain <color=#fff568>Regeneration</color>.\n \nOn Defense,\nAll Characters:\n>Gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage."
 ID_GT_S4_ROOM1_RULES_NAME,Pressure Points
 ID_GT_S4_ROOM1_RULES_DESC,"On Defense and Offense,\n<color=#9055FF>RAIDER</color> Characters:\n> On Crit, Apply <color=#fff568>Minor Defense Down</color>.\n \n<color=#9055FF>STRIKER</color> Characters:\n> While below <color=#86e619>50%</color> Health, Gain <color=#86e619>200%</color> Damage."
 ID_GT_S4_ROOM2_RULES_NAME,Raid On Crucible
