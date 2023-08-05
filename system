@@ -866,6 +866,8 @@ ID_REQUIRES_TRAITS_HAND_KREE_RAV,"REQUIRES: <color=#fff568>HAND</color>, <color=
 ID_REQUIRES_TRAITS_PYM_KREE,REQUIRES: <color=#fff568>KREE</color> or <color=#fff568>PYM TECH</color>
 ID_REQUIRES_TRAITS_PYM_WAK,REQUIRES: <color=#fff568>PYM TECH</color> or <color=#fff568>WAKANDAN</color>
 ID_REQUIRES_TRAITS_PYM_KREE_WAK,"REQUIRES: <color=#fff568>KREE</color>, <color=#fff568>PYM TECH</color>, or <color=#fff568>WAKANDAN</color>"
+ID_REQUIRES_TRAITS_PYM_KREE_INF,"REQUIRES: <color=#fff568>KREE</color>, <color=#fff568>PYM TECH</color>, or <color=#fff568>INFESTATION</color>"
+ID_REQUIRES_TRAITS_PYM_WAK_INF,"REQUIRES: <color=#fff568>PYM TECH</color>, <color=#fff568>WAKANDAN</color>, or <color=#fff568>INFESTATION</color>"
 ID_REQUIRES_TRAITS_DEF_MERC,REQUIRES: <color=#fff568>DEFENDER</color> or <color=#fff568>MERCENARY</color>
 ID_REQUIRES_TRAITS_DEF_HYD,REQUIRES: <color=#fff568>DEFENDER</color> or <color=#fff568>HYDRA</color>
 ID_REQUIRES_TRAITS_DEF_HYD_MERC,"REQUIRES: <color=#fff568>DEFENDER</color>, <color=#fff568>HYDRA</color>, or <color=#fff568>MERCENARY</color>"
