@@ -3567,11 +3567,11 @@ ID_OF_DE_VORMIR2301_CATCHUP_LAST_CHANCE,"Complete your final Vormir : 2301 miles
 ID_OF_DE_VORMIR2301_EVENT_ORB,Don't miss this daily <color=#fff568>Soul Tribute Orb</color> offer to power up your roster and boost your <color=#fff568>Vormir : 2301 Milestone</color> progress!
 ID_OF_DE_VORMIR2301_DAILY_CLAIM,Come back daily for more <color=#fff568>Vormir : 2301</color> progress!
 ID_OF_DE_VORMIR2301_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Vormir : 2301</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
-ID_OF_NA_VARIANT_HUNT_WAR,Variant Hunt Daily Booster
+ID_OF_NA_VARIANT_HUNT_WAR,Lamentis-1 : 2077 Daily Booster
 ID_OF_NA_VARIANT_HUNT_EVENT_ORB,Daily Allied Supply Orb Bundle
 ID_OF_NA_VARIANT_HUNT_FREE,Allied Supply Orb Free Claim
-ID_OF_DE_VARIANT_HUNT_WAR,Make consistent <color=#fff568>Vormir : 2301</color> progress with this daily milestone points supply!
-ID_OF_DE_VARIANT_HUNT_EVENT_ORB,"Get these orbs for <color=#fff568>Variant Hunt</color> progress and open them for Apocalypse Bounty Orbs containing T2 L5 Ions and a slew of resources! "
+ID_OF_DE_VARIANT_HUNT_WAR,Make consistent <color=#fff568>Lamentis-1 : 2077</color> progress with this daily milestone points supply!
+ID_OF_DE_VARIANT_HUNT_EVENT_ORB,"Get these orbs for <color=#fff568>Lamentis-1 : 2077</color> progress and open them for Apocalypse Bounty Orbs containing T2 L5 Ions and a slew of resources! "
 ID_OF_NA_SKILLITARY_THS_OFFER,Time Heist Skillitary Team Offer
 ID_OF_DE_SKILLITARY_THS_OFFER,Only for Time Heist Players! Continue to upgrade your Skillitary Team with this special offer!
 ID_OF_NA_ASGARDIAN_THS_OFFER,Time Heist Asgardian Team Offer
@@ -3584,8 +3584,8 @@ ID_OF_NA_PYMTECH_THS_OFFER,Time Heist Pym Tech Team Offer
 ID_OF_DE_PYMTECH_THS_OFFER,Only for Time Heist Players! Continue to upgrade your Pym Tech Team with this special offer!
 ID_OF_NA_SYMBIOTES_THS_OFFER,Time Heist Symbiotes Team Offer
 ID_OF_DE_SYMBIOTES_THS_OFFER,Only for Time Heist Players! Continue to upgrade your Symbiotes Team with this special offer!
-ID_OF_NA_THANOSBLACK_THS_OFFER,Time Heist Thanos Black Order Team Offer
-ID_OF_DE_THANOSBLACK_THS_OFFER,Only for Time Heist Players! Continue to upgrade your Thanos Black Order Team with this special offer!
+ID_OF_NA_THANOSBLACK_THS_OFFER,Time Heist Thanos and Black Order Team Offer
+ID_OF_DE_THANOSBLACK_THS_OFFER,Only for Time Heist Players! Continue to upgrade your Thanos and Black Order Team with this special offer!
 ID_OF_NA_UNCANNYXMEN_THS_OFFER,Time Heist Uncanny X-Men Team Offer
 ID_OF_DE_UNCANNYXMEN_THS_OFFER,Only for Time Heist Players! Continue to upgrade your Uncanny X-Men Team with this special offer!
 ID_OF_NA_INFINITYWATCH_THS_OFFER,Time Heist Infinity Watch Team Offer
@@ -3652,3 +3652,29 @@ ID_OF_NA_KAMALAKHAN_WEB_SPECIAL_OFFER,Web Special: Ms. Marvel (Hard Light)
 ID_OF_DE_KAMALAKHAN_WEB_SPECIAL_OFFER,Don't miss this limited deal for <color=#fff568>Ms. Marvel (Hard Light)</color> shards and unlock one-time only release offers on your next visit! Absorb incoming attacks for <color=#fff568>Secret Defender</color> allies and grant them Safeguard as well as additional Armor in Arena!
 ID_OF_DE_KAMALAKHAN_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Ms. Marvel (Hard Light)</color> and unlock one-time only release offers on your next visit! Absorb incoming attacks for <color=#fff568>Secret Defender</color> allies and grant them Safeguard as well as additional Armor in Arena!
 ID_OF_DE_KAMALAKHAN_OFFER_SHARD,Power up <color=#fff568>Ms. Marvel (Hard Light)</color> with this shard offer! Absorb incoming attacks for <color=#fff568>Secret Defender</color> allies and grant them Safeguard as well as additional Armor in Arena!
+ID_OF_NA_ASGARD2004_STARTER_MEGA,Asgard : 2004 Mega Starter
+ID_OF_NA_ASGARD2004_STARTER_SUPER,Asgard : 2004 Super Starter
+ID_OF_NA_ASGARD2004_STARTER,Asgard : 2004 Starter Bundle
+ID_OF_NA_ASGARD2004_DAILY_POINTS,Asgard : 2004 Daily Points Bundle
+ID_OF_NA_ASGARD2004_POINTS_BOOSTER,Asgardian Web Special
+ID_OF_NA_ASGARD2004_CATCHUP_SUPER,Asgard : 2004 Catch-Up Bundle
+ID_OF_NA_ASGARD2004_CATCHUP,Asgard : 2004 Super Catch-Up
+ID_OF_NA_ASGARD2004_CATCHUP_LAST_CHANCE,Asgard : 2004 Catch-Up Bundle
+ID_OF_NA_ASGARD2004_DAILY_EVENT_ORB,Daily Godly Power Orb Bundle
+ID_OF_NA_ASGARD2004_DAILY_CLAIM,Asgard : 2004 Daily Gift
+ID_OF_NA_ASGARD2004_INTERSTITIAL,Asgard : 2004 Web Special
+ID_OF_DE_ASGARD2004_STARTER_MEGA,Get ahead in the <color=#fff568>Asgard : 2004</color> Milestone and fast-forward your way to <color=#fff568>Photon shards</color> and <color=#fff568>Dark Promotion Credits</color>!
+ID_OF_DE_ASGARD2004_STARTER,Start off strong in the <color=#fff568>Asgard : 2004</color> milestone!
+ID_OF_DE_ASGARD2004_DAILY_POINTS,Make consistent <color=#fff568>Asgard : 2004</color> progress with this daily milestone points supply!
+ID_OF_DE_ASGARD2004_POINTS_BOOSTER,Become a Secret Defender and boost your <color=#fff568>Asgard : 2004 Milestone</color> progress!
+ID_OF_DE_ASGARD2004_CATCHUP,Finish strong in the milestones for <color=#fff568>Photon shards</color> and <color=#fff568>Gear Tier 18 Mini Uniques</color>!
+ID_OF_DE_ASGARD2004_CATCHUP_LAST_CHANCE,Complete your final Asgard : 2004 milestones before it's too late!
+ID_OF_DE_ASGARD2004_DAILY_EVENT_ORB,Stock up on <color=#fff568>Isotope-8 Ions</color> and <color=#fff568>Asgard : 2004</color> progress with this special deal!
+ID_OF_DE_ASGARD2004_DAILY_CLAIM,Come back daily for more <color=#fff568>Asgard : 2004</color> progress!
+ID_OF_DE_ASGARD2004_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Asgard : 2004</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_BIFROST_NU_OFFER,Bifrost Team Offer
+ID_OF_DE_BIFROST_NU_OFFER,Unlock the Bifrost team with this exclusive deal!
+ID_OF_STOREBAR_KAMALAKHAN,Dual: Ms. Marvel (Hard Light)
+ID_OF_NA_DUAL_KAMALAKHAN,Dual: Ms. Marvel (Hard Light)
+ID_OF_DE_DUAL_KAMALAKHAN,Choose your path to power up this Secret Defender
+ID_OF_DE_DUAL_UNLOCK_KAMALAKHAN,Unlock this Secret Defender and one-time release offers on your next visit

@@ -8557,3 +8557,7 @@ ID_GACHA_CRATE_GODLYPOWER_NAME,Godly Power Orb
 ID_GACHA_CRATE_GODLYPOWER_DESCRIPTION,Contains Ions and Training Modules
 ID_GACHA_CRATE_GODLYPOWER_TOKEN_NAME,Godly Power Orb Fragments
 ID_GACHA_CRATE_GODLYPOWER_TOKEN_DESCRIPTION,Earn Godly Power Orb Fragments from daily Free Claims on web and select limited-time offers. Each Godly Power Orb contains Iso-8 Ions and Training Modules.
+ID_GACHA_CRATE_DARKALLEY_NAME,Dark Alley Orb
+ID_GACHA_CRATE_DARKALLEY_DESCRIPTION,Contains SInister 6 and Knowhere shards
+ID_GACHA_CRATE_DARKALLEY_TOKEN_NAME,Dark Alley Orb Fragments
+ID_GACHA_CRATE_DARKALLEY_TOKEN_DESCRIPTION,Earn Dark Alley Orb Fragments from any Campaign Node and select limited-time offers. Each Dark Alley Orb contains Knowhere and Sinister Six character shards.
