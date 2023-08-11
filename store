@@ -535,6 +535,10 @@ ID_GACHA_CRATE_EVENT_CAMPAIGN_COSMO_202306_NAME,Intergalactic Orb
 ID_GACHA_CRATE_EVENT_CAMPAIGN_COSMO_202306_DESCRIPTION,Earn Intergalactic Orb Fragments in the To Infinity Event Campaign.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_COSMO_202306_TOKEN_NAME,Intergalactic Orb Fragments
 ID_GACHA_CRATE_EVENT_CAMPAIGN_COSMO_202306_TOKEN_DESCRIPTION,Collect Intergalactic Orb Fragments in the To Infinity Event Campaign to earn Intergalactic Orbs.
+ID_GACHA_CRATE_EVENT_CAMPAIGN_KAMALAKHAN_202308_NAME,Energized Orb
+ID_GACHA_CRATE_EVENT_CAMPAIGN_KAMALAKHAN_202308_DESCRIPTION,Earn Energized Orb Fragments in the Light Warriors Event Campaign.
+ID_GACHA_CRATE_EVENT_CAMPAIGN_KAMALAKHAN_202308_TOKEN_NAME,Energized Orb Fragments
+ID_GACHA_CRATE_EVENT_CAMPAIGN_KAMALAKHAN_202308_TOKEN_DESCRIPTION,Collect Energized Orb Fragments in the Light Warriors Event Campaign to earn Energized Orbs.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_CRYSTAL_202001_NAME,Hidden Potential Orb
 ID_GACHA_CRATE_EVENT_CAMPAIGN_CRYSTAL_202001_DESCRIPTION,Earn Hidden Potential Orb Fragments in the Imperial Affairs Event Campaign.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_CRYSTAL_202001_TOKEN_NAME,Hidden Potential Orb Fragments
@@ -8204,10 +8208,10 @@ ID_OF_NA_STARTER_ASGARDIANS_V2,Asgardians Ultimate Team Starter Pack
 ID_OF_DE_STARTER_ASGARDIANS_V2,"Call forth the Asgardians to <color=#fff568>push deeper in Campaigns and Raids</color>! Bolster your roster for <color=#fff568>{var1}%</color> off with fan-favorites like Thor to <color=#fff568>stun all opponents</color>, Loki to <color=#fff568>play tricks on opponents</color> with the power of illusion, and Hela to <color=#fff568>summon the Undead</color> and make them fight at your side! <color=#fff568>Buy now to control this true MARVEL fan's dream team</color>!"
 ID_OF_NA_STARTER_POWER_V1,Ultimate Instant Power Pack
 ID_OF_DE_STARTER_POWER_V1,You've got the teams... Now <color=#fff568>show us your moves</color>! <color=#fff568>Rank up Spider-Man (Symbiote)</color> and <color=#fff568>instantly level up the best abilities</color> for your new teams to take your dominance to the MAX <color=#fff568>right now</color>!
-ID_OF_NA_STARTER_SINISTERSIX,Sinister 6 Ultimate Team Starter Pack
-ID_OF_DE_STARTER_SINISTERSIX,"<color=#fff568>Thrash the Campaigns now</color> and be prepared to <color=#fff568>strengthen your War Defense</color> at <color=#fff568>{var1}% off</color> by unlocking a full Sinister 6 team so you can Explode, Zap, Buzz, and Stomp your enemies into oblivion! <color=#fff568>Buy now and feel the power</color>!"
+ID_OF_NA_STARTER_SINISTERSIX,Sinister Six Ultimate Team Starter Pack
+ID_OF_DE_STARTER_SINISTERSIX,"<color=#fff568>Thrash the Campaigns now</color> and be prepared to <color=#fff568>strengthen your War Defense</color> at <color=#fff568>{var1}% off</color> by unlocking a full Sinister Six team so you can Explode, Zap, Buzz, and Stomp your enemies into oblivion! <color=#fff568>Buy now and feel the power</color>!"
 ID_OF_NA_STARTER_DOC,Doc Ock Unlock Kickoff Pack
-ID_OF_DE_STARTER_DOC,"<color=#fff568>Doctor Octopus' Legendary Event is out now</color>, so don't miss this chance to get <color=#fff568>{var1}% off</color> of <color=#fff568>the full team needed to unlock him</color> through the event! Buy now to <color=#fff568>crush opponents in war with X-force</color>, and unlock the Legendary Doc Ock during his event to <color=#fff568>complete your Sinister 6 team</color>!"
+ID_OF_DE_STARTER_DOC,"<color=#fff568>Doctor Octopus' Legendary Event is out now</color>, so don't miss this chance to get <color=#fff568>{var1}% off</color> of <color=#fff568>the full team needed to unlock him</color> through the event! Buy now to <color=#fff568>crush opponents in war with X-force</color>, and unlock the Legendary Doc Ock during his event to <color=#fff568>complete your Sinister Six team</color>!"
 ID_OF_NA_STARTER_POWER_V2,Ultimate Instant Power Pack
 ID_OF_DE_STARTER_POWER_V2,"You've got the teams... Now <color=#fff568>show us your moves</color>! <color=#fff568>Rank up Deadpool and Green Goblin</color>, and then <color=#fff568>instantly level up the best abilities</color> for your new teams to take your dominance to the MAX <color=#fff568>right now</color>!"
 ID_OF_NA_STARTER_COLLECTOR_V1,Ultimate Collector's Starter Pack
@@ -8558,6 +8562,6 @@ ID_GACHA_CRATE_GODLYPOWER_DESCRIPTION,Contains Ions and Training Modules
 ID_GACHA_CRATE_GODLYPOWER_TOKEN_NAME,Godly Power Orb Fragments
 ID_GACHA_CRATE_GODLYPOWER_TOKEN_DESCRIPTION,Earn Godly Power Orb Fragments from daily Free Claims on web and select limited-time offers. Each Godly Power Orb contains Iso-8 Ions and Training Modules.
 ID_GACHA_CRATE_DARKALLEY_NAME,Dark Alley Orb
-ID_GACHA_CRATE_DARKALLEY_DESCRIPTION,Contains SInister 6 and Knowhere shards
+ID_GACHA_CRATE_DARKALLEY_DESCRIPTION,Contains Sinister Six and Knowhere shards
 ID_GACHA_CRATE_DARKALLEY_TOKEN_NAME,Dark Alley Orb Fragments
 ID_GACHA_CRATE_DARKALLEY_TOKEN_DESCRIPTION,Earn Dark Alley Orb Fragments from any Campaign Node and select limited-time offers. Each Dark Alley Orb contains Knowhere and Sinister Six character shards.

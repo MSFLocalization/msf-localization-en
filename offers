@@ -3678,3 +3678,100 @@ ID_OF_STOREBAR_KAMALAKHAN,Dual: Ms. Marvel (Hard Light)
 ID_OF_NA_DUAL_KAMALAKHAN,Dual: Ms. Marvel (Hard Light)
 ID_OF_DE_DUAL_KAMALAKHAN,Choose your path to power up this Secret Defender
 ID_OF_DE_DUAL_UNLOCK_KAMALAKHAN,Unlock this Secret Defender and one-time release offers on your next visit
+ID_BATTLEPASS_NA_PREMONLY_DESCRIPTION,Battle Pass Catch-Up!
+ID_BATTLEPASS_DE_PREMONLY_DESCRIPTION,Get <color=#fff568>30 Ratings Levels</color> to catch up on Battle Pass progress!
+ID_OF_NA_FINDER_TEAL_BASIC_CAT,Augmented Basic Catalyst Boost
+ID_OF_DE_FINDER_TEAL_BASIC_CAT,Pick up these Augmented Basic Catalyst Parts to help craft gear and power up your roster!
+ID_OF_NA_FINDER_TEAL_STAT_CAT,Augmented Catalyst Boost
+ID_OF_DE_FINDER_TEAL_STAT_CAT,Pick up these Augmented Catalyst Parts to help craft gear and power up your roster!
+ID_OF_NA_FINDER_TEAL_ORIGIN_BIO,Augmented Bio Gear Supply
+ID_OF_DE_FINDER_TEAL_ORIGIN_BIO,Power up your roster with this Augmented Gear for Bio characters!
+ID_OF_NA_FINDER_TEAL_ORIGIN_SKILL,Augmented Skill Gear Supply
+ID_OF_DE_FINDER_TEAL_ORIGIN_SKILL,Power up your roster with this Augmented Gear for Skill characters!
+ID_OF_NA_FINDER_TEAL_ORIGIN_MUTANT,Augmented Mutant Gear Supply
+ID_OF_DE_FINDER_TEAL_ORIGIN_MUTANT,Power up your roster with this Augmented Gear for Mutant characters!
+ID_OF_NA_FINDER_TEAL_ORIGIN_MYSTIC,Augmented Mystic Gear Supply
+ID_OF_DE_FINDER_TEAL_ORIGIN_MYSTIC,Power up your roster with this Augmented Gear for Mystic characters!
+ID_OF_NA_FINDER_TEAL_ORIGIN_TECH,Augmented Tech Gear Supply
+ID_OF_DE_FINDER_TEAL_ORIGIN_TECH,Power up your roster with this Augmented Gear for Tech characters!
+ID_OF_NA_FINDER_TEAL_UNIQUE,Augmented Unique Gear Supply
+ID_OF_DE_FINDER_TEAL_UNIQUE,Power up your roster with this Augmented Unique Gear!
+ID_OF_NA_FINDER_TEAL_GT17_MINI_UNIQUE,Gear Tier 17 Mini-Unique Supply
+ID_OF_DE_FINDER_TEAL_GT17_MINI_UNIQUE,Power up your roster with these Gear Tier 17 Mini-Uniques!
+ID_OF_NA_FINDER_TEAL_GT16_MINI_UNIQUE,Gear Tier 16 Mini-Unique Supply
+ID_OF_DE_FINDER_TEAL_GT16_MINI_UNIQUE,Power up your roster with these Gear Tier 16 Mini-Uniques!
+ID_OF_NA_FINDER_ORANGE_BASIC_CAT,Superior Basic Catalyst Boost
+ID_OF_DE_FINDER_ORANGE_BASIC_CAT,Pick up these Superior Basic Catalyst Parts to help craft gear and power up your roster!
+ID_OF_NA_FINDER_ORANGE_STAT_CAT,Superior Catalyst Boost
+ID_OF_DE_FINDER_ORANGE_STAT_CAT,Pick up these Superior Catalyst Parts to help craft gear and power up your roster!
+ID_OF_NA_FINDER_ORANGE_ORIGIN_BIO,Superior Bio Gear Supply
+ID_OF_DE_FINDER_ORANGE_ORIGIN_BIO,Power up your roster with this Superior Gear for Bio characters!
+ID_OF_NA_FINDER_ORANGE_ORIGIN_TECH,Superior Tech Gear Supply
+ID_OF_DE_FINDER_ORANGE_ORIGIN_TECH,Power up your roster with this Superior Gear for Tech characters!
+ID_OF_NA_FINDER_ORANGE_ORIGIN_SKILL,Superior Skill Gear Supply
+ID_OF_DE_FINDER_ORANGE_ORIGIN_SKILL,Power up your roster with this Superior Gear for Skill characters!
+ID_OF_NA_FINDER_ORANGE_ORIGIN_MYSTIC,Superior Mystic Gear Supply
+ID_OF_DE_FINDER_ORANGE_ORIGIN_MYSTIC,Power up your roster with this Superior Gear for Mystic characters!
+ID_OF_NA_FINDER_ORANGE_ORIGIN_MUTANT,Superior Mutant Gear Supply
+ID_OF_DE_FINDER_ORANGE_ORIGIN_MUTANT,Power up your roster with this Superior Gear for Mutant characters!
+ID_OF_NA_FINDER_ORANGE_UNIQUE,Superior Unique Gear Supply
+ID_OF_DE_FINDER_ORANGE_UNIQUE,Power up your roster with this Superior Unique Gear!
+ID_OF_NA_FINDER_ORANGE_GT14_MINI_UNIQUE,Gear Tier 14 Mini-Unique Supply
+ID_OF_DE_FINDER_ORANGE_GT14_MINI_UNIQUE,Power up your roster with these Gear Tier 14 Mini-Uniques!
+ID_OF_NA_FINDER_ORANGE_GT15_MINI_UNIQUE,Gear Tier 15 Mini-Unique Supply
+ID_OF_DE_FINDER_ORANGE_GT15_MINI_UNIQUE,Power up your roster with these Gear Tier 15 Mini-Uniques!
+ID_OF_NA_FINDER_PURPLE_BASIC_CAT,Advanced Basic Catalyst Boost
+ID_OF_DE_FINDER_PURPLE_BASIC_CAT,Pick up these Advanced Basic Catalyst Parts to help craft gear and power up your roster!
+ID_OF_NA_FINDER_PURPLE_STAT_CAT,Advanced Catalyst Boost
+ID_OF_DE_FINDER_PURPLE_STAT_CAT,Pick up these Advanced Catalyst Parts to help craft gear and power up your roster!
+ID_OF_NA_FINDER_PURPLE_ORIGIN_BIO,Advanced Bio Gear Supply
+ID_OF_DE_FINDER_PURPLE_ORIGIN_BIO,Power up your roster with this Advanced Gear for Bio characters!
+ID_OF_NA_FINDER_PURPLE_ORIGIN_MUTANT,Advanced Mutant Gear Supply
+ID_OF_DE_FINDER_PURPLE_ORIGIN_MUTANT,Power up your roster with this Advanced Gear for Mutant characters!
+ID_OF_NA_FINDER_PURPLE_ORIGIN_MYSTIC,Advanced Mystic Gear Supply
+ID_OF_DE_FINDER_PURPLE_ORIGIN_MYSTIC,Power up your roster with this Advanced Gear for Mystic characters!
+ID_OF_NA_FINDER_PURPLE_ORIGIN_SKILL,Advanced Skill Gear Supply
+ID_OF_DE_FINDER_PURPLE_ORIGIN_SKILL,Power up your roster with this Advanced Gear for Skill characters!
+ID_OF_NA_FINDER_PURPLE_ORIGIN_TECH,Advanced Tech Gear Supply
+ID_OF_DE_FINDER_PURPLE_ORIGIN_TECH,Power up your roster with this Advanced Gear for Tech characters!
+ID_OF_NA_FINDER_PURPLE_UNIQUE,Advanced Unique Gear Supply
+ID_OF_DE_FINDER_PURPLE_UNIQUE,Power up your roster with this Advanced Unique Gear!
+ID_OF_NA_FINDER_BLUE_BASIC_CAT,Improved Basic Catalyst Boost
+ID_OF_DE_FINDER_BLUE_BASIC_CAT,Pick up these Improved Basic Catalyst Parts to help craft gear and power up your roster!
+ID_OF_NA_FINDER_BLUE_STAT_CAT,Improved Catalyst Boost
+ID_OF_DE_FINDER_BLUE_STAT_CAT,Pick up these Improved Catalyst Parts to help craft gear and power up your roster!
+ID_OF_NA_FINDER_BLUE_ORIGIN_BIO,Improved Bio Gear Supply
+ID_OF_DE_FINDER_BLUE_ORIGIN_BIO,Power up your roster with this Improved Gear for Bio characters!
+ID_OF_NA_FINDER_BLUE_ORIGIN_MUTANT,Improved Mutant Gear Supply
+ID_OF_DE_FINDER_BLUE_ORIGIN_MUTANT,Power up your roster with this Improved Gear for Mutant characters!
+ID_OF_NA_FINDER_BLUE_ORIGIN_MYSTIC,Improved Mystic Gear Supply
+ID_OF_DE_FINDER_BLUE_ORIGIN_MYSTIC,Power up your roster with this Improved Gear for Mystic characters!
+ID_OF_NA_FINDER_BLUE_ORIGIN_TECH,Improved Tech Gear Supply
+ID_OF_DE_FINDER_BLUE_ORIGIN_TECH,Power up your roster with this Improved Gear for Tech characters!
+ID_OF_NA_FINDER_BLUE_ORIGIN_SKILL,Improved Skill Gear Supply
+ID_OF_DE_FINDER_BLUE_ORIGIN_SKILL,Power up your roster with this Improved Gear for Skill characters!
+ID_OF_NA_BARICHARA1808_STARTER_MEGA,Barichara : 1808 Super Starter
+ID_OF_NA_BARICHARA1808_STARTER_SUPER,Barichara : 1808 Mega Starter
+ID_OF_NA_BARICHARA1808_STARTER,Barichara : 1808 Starter Bundle
+ID_OF_NA_BARICHARA1808_CATCHUP,Barichara : 1808 Catch-Up Bundle
+ID_OF_NA_BARICHARA1808_CATCHUP_LAST_CHANCE,Barichara : 1808 Last Chance Bundle
+ID_OF_NA_BARICHARA1808_DAILY_ORB,Daily Dose of Dark Alley Orbs
+ID_OF_NA_BARICHARA1808_HC_BUNDLE,Barichara : 1808 Cores
+ID_OF_NA_BARICHARA1808_CLAIM_1,Barichara : 1808 Daily Gift
+ID_OF_NA_BARICHARA1808_INTERSTITIAL_2,Barichara : 1808 Web Special
+ID_OF_NA_BARICHARA1808_DIRECT,Barichara : 1808 Booster
+ID_OF_DE_BARICHARA1808_STARTER_MEGA,"Get ahead in the <color=#fff568>Barichara : 1808</color> Milestone and fast-forward your way to <color=#fff568>TVA Agent Progress, Elite 7 Credits</color> and <color=#fff568>Augmented Skill Gear</color>!"
+ID_OF_DE_BARICHARA1808_STARTER,Start off strong in the <color=#fff568>Barichara : 1808</color> milestone!
+ID_OF_DE_BARICHARA1808_CATCHUP,Finish strong in the milestones for <color=#fff568>Augmented Skill Gear</color> and <color=#fff568>Elite 6 & 7Credits</color>!
+ID_OF_DE_BARICHARA1808_CATCHUP_LAST_CHANCE,Complete your final Barichara : 1808 milestones before it's too late!
+ID_OF_DE_BARICHARA1808_DAILY_ORB,Don't miss this daily <color=#fff568>Dark Alley Orb</color> offer to power up your roster and boost your <color=#fff568>Barichara : 1808 Milestone</color> progress!
+ID_OF_DE_BARICHARA1808_HC_BUNDLE,Stock up on Power Cores and Dark Alley Orbs for extra progress in <color=#fff568>Barichara : 1808 Milestone</color>!
+ID_OF_DE_BARICHARA1808_CLAIM_1,Come back daily for more <color=#fff568>Barichara : 1808</color> progress!
+ID_OF_DE_BARICHARA1808_INTERSTITIAL_2,You just unlocked the highest discount deal for <color=#fff568>Barichara : 1808</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_BARICHARA1808_DIRECT,Spend Power Cores on this offer to progress in the <color=#fff568>Barichara : 1808</color> milestone while earning valuable items!
+ID_OF_NA_ROME1390_ISO,Daily Gladiator Energy
+ID_OF_NA_ROME1390_FREE,Rome : 1390 Daily Free Gift
+ID_OF_NA_ROME1390_INTERSTITIAL,Rome : 1390 Web Special
+ID_OF_DE_ROME1390_ISO,Stock up on Iso-8 Campaign Energy to push your Alliance forward in the <color=#fff568>Rome : 1390</color> milestone!
+ID_OF_DE_ROME1390_FREE,Come back daily for more <color=#fff568>Rome : 1390</color> progress!
+ID_OF_DE_ROME1390_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Rome : 1390</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
