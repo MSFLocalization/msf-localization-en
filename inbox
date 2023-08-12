@@ -6956,3 +6956,9 @@ ID_ME_BO_KAMALAKHAN_ECM_ENDINGSOON,"Commander,\n\nThere's only 2 more days remai
 ID_ME_NA_RAID_AUTO_LAUNCH,Raid Auto-Launch
 ID_ME_DE_RAID_AUTO_LAUNCH,New Feature Available
 ID_ME_BO_RAID_AUTO_LAUNCH,"Commander,\n\nMembers of your Alliance capable of launching Raids can have a new feature at their disposal to start them on a schedule! If you have the ability to launch Raids, here's a quick overview:\n\nTap the <color=#fff568>Alliance Raids</color> icon on the Home screen to navigate to the <color=#fff568>Raid screen</color>. From there, tap <color=#fff568>Edit Time</color> button. You can then enable <color=#fff568>Auto-Launch</color>.\n\nThis should help ensure a Raid is always at the ready for your Alliance to challenge!"
+ID_ME_NA_ECON_UPDATE_WAR,War Rewards Update
+ID_ME_DE_ECON_UPDATE_WAR,More T2 Ions!
+ID_ME_BO_ECON_UPDATE_WAR,"Commander,\n\nAlliance Wars that begin with the new Season will have increased completion rewards! T2 Level 5 Ion rewards will be twice the amount they are now, and T2 Level 4 Ions will be increased by 50%.\n\nPower up your roster to help your Alliance earn more Ions!"
+ID_ME_NA_AGENTVENOM_FOUNTAIN_UPDATE,Recruit Agent Venom!
+ID_ME_DE_AGENTVENOM_FOUNTAIN_UPDATE,Availability Update
+ID_ME_BO_AGENTVENOM_FOUNTAIN_UPDATE,"Commander,\n\n<color=#fff568>Agent Venom</color> character shards are now featured at a higher drop rate in the <color=#fff568>Blitz Orb</color> and their shards are also available in the <color=#fff568>Blitz Store</color>.\n\n<color=#fff568>Sunfire</color> has been moved to the Common Shard Drops in the Blitz Orb.\n\nRecruit this <color=#fff568>Symbiote Super Soldier</color> today to take on challenging Bio Raid nodes!"
