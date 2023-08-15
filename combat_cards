@@ -210,3 +210,19 @@ ID_SCOURGE_CARD_140_NAME,Snake Eyes
 ID_SCOURGE_CARD_140_DESC,"On Spawn, Player Characters Gain Increased <color=#fff568>Critical Hit Chance</color>, and Enemy Characters Gain Increased <color=#fff568>Critical Hit Damage</color>"
 ID_SCOURGE_CARD_141_NAME,Power Dynamics
 ID_SCOURGE_CARD_141_DESC,"On turn, characters remove all positive effects from self and heal <color=#86e619>10%</color> of max health for each positive effect removed."
+ID_SCOURGE_CARD_142_NAME,World at War
+ID_SCOURGE_CARD_142_DESC,All <color=#fff568>War</color> Abilities are Active During this Run
+ID_SCOURGE_CARD_143_NAME,Sinister Symbiosis
+ID_SCOURGE_CARD_143_DESC,"On Spawn, non-Minion <color=#fff568>CITY VILLAIN</color> Characters Gain the <color=#fff568>SINISTER SIX</color> Trait, and <color=#fff568>CITY BIO HERO</color> Characters Gain the <color=#fff568>SYMBIOTE</color> Trait"
+ID_SCOURGE_CARD_144_NAME,Agents of Knowhere
+ID_SCOURGE_CARD_144_DESC,"On Spawn, <color=#fff568>COSMIC HERO</color> Characters Gain the <color=#fff568>KNOWHERE</color> Trait, and <color=#fff568>INVADERS</color> Characters Gain the <color=#fff568>S.H.I.E.L.D.</color> Trait"
+ID_SCOURGE_CARD_145_NAME,Brawlroom Blast
+ID_SCOURGE_CARD_145_DESC,"All <color=#fff568>BRAWLER</color> Characters Gain Additional <color=#86e619>Critical Hit Damage</color>, and All <color=#86e619>BLASTER</color> Characters Gain Additional <color=#86e619>Critical Hit Chance</color>"
+ID_SCOURGE_CARD_146_NAME,Second Wind
+ID_SCOURGE_CARD_146_DESC,"When Any Character Drops to 50% Health, generate <color=#86e619>2</color> Ability Energy for themself"
+ID_SCOURGE_CARD_147_NAME,Hired Help
+ID_SCOURGE_CARD_147_DESC,Summoned Characters Gain +<color=#86e619>{st.summoned_max_hp_base_pct.20.combat_mods.session_stats.0.Stats.0.val}%</color> Max Health
+ID_SCOURGE_CARD_148_NAME,Self Preservation
+ID_SCOURGE_CARD_148_DESC,"On Turn, <color=#9055FF>HEALERS</color>, Barrier self for <color=#86e619>5%</color> of their Max Health."
+ID_SCOURGE_CARD_149_NAME,On the Offensive
+ID_SCOURGE_CARD_149_DESC,"Whenever a Character Applies <color=#fff568>Heal Block</color> to an enemy, Heal self for <color=#86e619>15%</color> of their Max Health"

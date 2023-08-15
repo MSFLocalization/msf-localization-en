@@ -3626,7 +3626,7 @@ ID_OF_DE_BACKTOSCHOOL_MOONSTONEDRAFT,Kick off the school year right and get a 50
 ID_OF_DE_BACKTOSCHOOL_VAHL,Kick off the school year right and get a 50% chance at 7 Red Stars for Vahl when you get this offer! (Tap the icon for details. Duplicate Red Stars will be converted)
 ID_OF_DE_BACKTOSCHOOL_KANG,Kick off the school year right and get a 50% chance at 7 Red Stars for Kang when you get this offer! (Tap the icon for details. Duplicate Red Stars will be converted)
 ID_OF_DE_BACKTOSCHOOL_REDSTAREXTRACREDIT,Sign yourself up for this <color=#d10000>AMAZING</color> opportunity to get <color=#d10000>Red Stars</color> with this <color=#d10000>limited-time</color> offer! Get credits for upgrading <color=#d10000>Red Stars</color> in your roster!
-ID_OF_DE_BACKTOSCHOOL_POPQUIZ_FINANCE,"Taskmaster invests 325,000 Gold and got a 100% return. How much gold does Taskmaster have?"
+ID_OF_DE_BACKTOSCHOOL_POPQUIZ_FINANCE,"Taskmaster invests 1,000,000 Gold and got a 100% return. How much gold does Taskmaster have?"
 ID_OF_DE_BACKTOSCHOOL_POPQUIZ_ANSWER,Congratulations on acing your Pop Quiz! Here is your reward.
 ID_OF_DE_BACKTOSCHOOL_POPQUIZ_FINANCE_ANSWER,Congratulations on acing your Finance Pop Quiz! Here is your reward.
 ID_OF_DE_BACKTOSCHOOL_POPQUIZ_BIOLOGY,What set of uniques power the Rebirth team?
@@ -3679,7 +3679,7 @@ ID_OF_NA_DUAL_KAMALAKHAN,Dual: Ms. Marvel (Hard Light)
 ID_OF_DE_DUAL_KAMALAKHAN,Choose your path to power up this Secret Defender
 ID_OF_DE_DUAL_UNLOCK_KAMALAKHAN,Unlock this Secret Defender and one-time release offers on your next visit
 ID_BATTLEPASS_NA_PREMONLY_DESCRIPTION,Battle Pass Catch-Up!
-ID_BATTLEPASS_DE_PREMONLY_DESCRIPTION,Get <color=#fff568>30 Ratings Levels</color> to catch up on Battle Pass progress!
+ID_BATTLEPASS_DE_PREMONLY_DESCRIPTION,Get <color=#fff568>30 Level Tokens</color> to catch up on Battle Pass progress!
 ID_OF_NA_FINDER_TEAL_BASIC_CAT,Augmented Basic Catalyst Boost
 ID_OF_DE_FINDER_TEAL_BASIC_CAT,Pick up these Augmented Basic Catalyst Parts to help craft gear and power up your roster!
 ID_OF_NA_FINDER_TEAL_STAT_CAT,Augmented Catalyst Boost
@@ -3775,3 +3775,13 @@ ID_OF_NA_ROME1390_INTERSTITIAL,Rome : 1390 Web Special
 ID_OF_DE_ROME1390_ISO,Stock up on Iso-8 Campaign Energy to push your Alliance forward in the <color=#fff568>Rome : 1390</color> milestone!
 ID_OF_DE_ROME1390_FREE,Come back daily for more <color=#fff568>Rome : 1390</color> progress!
 ID_OF_DE_ROME1390_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Rome : 1390</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_GHOSTRIDERROBBIE_FCO_OFFER,Vengeful Visage
+ID_OF_DE_GHOSTRIDERROBBIE_FCO_OFFER,Each <color=#fff568>Skeleton Driver Orb</color> contains <color=#fff568>up to 180 Ghost Rider (Robbie)</color> shards. Apply Heal Block and prevent Revive! Grant <color=#fff568>Secret Defender</color> allies Offense Up. Deliver Trauma in Arena!
+ID_OF_NA_GHOSTRIDERROBBIE_WEB_SPECIAL_OFFER,Web Special: Ghost Rider (Robbie)
+ID_OF_DE_GHOSTRIDERROBBIE_WEB_SPECIAL_OFFER,Don't miss this limited deal for <color=#fff568>Ghost Rider (Robbie)</color> shards and unlock one-time only release offers on your next visit! Apply Heal Block and prevent Revive! Grant <color=#fff568>Secret Defender</color> allies Offense Up. Deliver Trauma in Arena!
+ID_OF_DE_GHOSTRIDERROBBIE_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Ghost Rider (Robbie)</color> and unlock one-time only release offers on your next visit! Apply Heal Block and prevent Revive! Grant <color=#fff568>Secret Defender</color> allies Offense Up. Deliver Trauma in Arena!
+ID_OF_DE_GHOSTRIDERROBBIE_OFFER_SHARD,Power up <color=#fff568>Ghost Rider (Robbie)</color> with this shard offer! Apply Heal Block and prevent Revive! Grant <color=#fff568>Secret Defender</color> allies Offense Up. Deliver Trauma in Arena!
+ID_OF_STOREBAR_GHOSTRIDERROBBIE,Dual: Ghost Rider (Robbie)
+ID_OF_NA_DUAL_GHOSTRIDERROBBIE,Dual: Ghost Rider (Robbie)
+ID_OF_DE_DUAL_GHOSTRIDERROBBIE,Choose your path to power up this Secret Defender!
+ID_OF_DE_DUAL_UNLOCK_GHOSTRIDERROBBIE,Unlock this Secret Defender and one-time release offers on your next visit!

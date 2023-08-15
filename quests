@@ -3190,7 +3190,7 @@ ID_QU_SD_LAMENTIS12077,Battle in War and Earn Allied Supply Orb Fragments
 ID_QU_LM_LAMENTIS12077,"Collaborate with your alliances to battle in War and earn Allied Supply Orb Fragments. Allied Supply Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store. "
 ID_QU_NA_ASGARD2004,Asgard : 2004
 ID_QU_SD_ASGARD2004,Win Blitz Battle and Open Godly Power Orbs
-ID_QU_LM_ASGARD2004,"Battle in Blitz with Rebirth characters, open Battle Plan Orbs, and use Power Cores to earn these rewards:\n\n- Photon character shards\n- 7 Red Star Nova\n- Nico's Runaways Costume\n- Bio Gear\n- Catalyst Parts\n- And more!"
+ID_QU_LM_ASGARD2004,"Battle in Blitz with select characters, open Battle Plan Orbs, and use Power Cores to earn these rewards:\n\n- Photon character shards\n- 7 Red Star Nova\n- Nico's Runaways Costume\n- Bio Gear\n- Catalyst Parts\n- And more!"
 ID_QU_SM_ASGARD2004,Win Blitz Battle and Open Godly Power Orbs
 ID_QU_S1_ASGARD2004,Win a Blitz with Photon
 ID_QU_S2_ASGARD2004,Win a Blitz with Ms. Marvel (Hard Light)
@@ -3207,3 +3207,6 @@ ID_QU_S1_BARICHARA1808,Open 1 Dark Alley Orb
 ID_QU_NA_ROME1390,Rome : 1390
 ID_QU_SD_ROME1390,Spend Iso-8 Energy and Earn Allied Supply Orbs
 ID_QU_LM_ROME1390,"Collaborate with your alliances to Spend Isotope-8 Campaign Energy and earn Allied Supply Orb Fragments. Allied Supply Orb Fragments can be found in the Rome : 1390 calendar, Free Claims, and Offers in the store. "
+ID_QU_NA_FEEDINGALIOTH,Feeding Alioth
+ID_QU_SD_FEEDINGALIOTH,Play Raid Battles
+ID_QU_LM_FEEDINGALIOTH,Play Raid Battles to complete a 7-day milestone that yields supreme rewards!
