@@ -8140,6 +8140,86 @@ ID_DIALOG_TRIALS_NOVA_10_END_7,And all I want in return is for you to do what yo
 ID_DIALOG_TRIALS_NOVA_10_END_8,"...Fine. Do it. "
 ID_DIALOG_TRIALS_NOVA_10_END_9,"Done! I'll leave you and your newfound power to destroy the Black Vortex. "
 ID_DIALOG_TRIALS_NOVA_10_END_10,And don't worry about explaining this to your friends... It's our little secret. Hahahahaha!
+ID_DIALOG_TRIALS_BLACKCAT_01_INTRO_0,"FISK TOWER, MANHATTAN..."
+ID_DIALOG_TRIALS_BLACKCAT_01_INTRO_1,You're bored?
+ID_DIALOG_TRIALS_BLACKCAT_01_INTRO_2,"Yeah! There's all this stuff goin' on! Intergalactic monsters, ancient mutants running around..."
+ID_DIALOG_TRIALS_BLACKCAT_01_INTRO_3,And the boss has us on guard duty? Boooooring!
+ID_DIALOG_TRIALS_BLACKCAT_01_INTRO_4,"Kid, I know you're new, but you know how many guys I seen get knocked out by Daredevil?"
+ID_DIALOG_TRIALS_BLACKCAT_01_INTRO_5,"Or webbed up by Spider-Man? Don't even get me started on what the Punisher does to guys like us. "
+ID_DIALOG_TRIALS_BLACKCAT_01_INTRO_6,Be happy Kingpin just wants us to watch his vault.
+ID_DIALOG_TRIALS_BLACKCAT_01_INTRO_7,"Fine, I get it. I just wish I had a chance to prove myself! Get a little action in!"
+ID_DIALOG_TRIALS_BLACKCAT_01_INTRO_8,"Well, I've got news, handsome... Turns out, you're in luck. "
+ID_DIALOG_TRIALS_BLACKCAT_01_END_0,"Congratulations. You've officially proven yourself. To be what, I have no idea."
+ID_DIALOG_TRIALS_BLACKCAT_01_END_1,"Now, let's see what's in this vault."
+ID_DIALOG_TRIALS_BLACKCAT_01_END_2,Just a few more seconds and I should have it open...\nAlmost... There...
+ID_DIALOG_TRIALS_BLACKCAT_01_END_3,"Felicia Hardy! Your skills are needed. "
+ID_DIALOG_TRIALS_BLACKCAT_01_END_4,"And, that's the alarm. Thanks for breaking my concentration, Doc. "
+ID_DIALOG_TRIALS_BLACKCAT_01_END_5,Leave it and meet me at my Sanctum. There's work to be done.
+ID_DIALOG_TRIALS_BLACKCAT_03_INTRO_0,"My, what a big, spooky house you have here, Strange. "
+ID_DIALOG_TRIALS_BLACKCAT_03_INTRO_1,"Thank you for coming, Ms. Hardy. Meet the rest of your team. "
+ID_DIALOG_TRIALS_BLACKCAT_03_INTRO_2,"Hey, welcome aboard. I'm Photon. This is the Ghost Rider."
+ID_DIALOG_TRIALS_BLACKCAT_03_INTRO_3,HSSSS...
+ID_DIALOG_TRIALS_BLACKCAT_03_INTRO_4,And this is Kama-
+ID_DIALOG_TRIALS_BLACKCAT_03_INTRO_5,Woah! Black Cat! This is so SO cool!
+ID_DIALOG_TRIALS_BLACKCAT_03_INTRO_6,That's... Enthusiastic. Now can someone please tell me why I'm here?
+ID_DIALOG_TRIALS_BLACKCAT_03_INTRO_7,"Norman Osborn has come into possession of an artifact, the power of which he does not fully understand."
+ID_DIALOG_TRIALS_BLACKCAT_03_INTRO_8,"So before he does... We are going to steal it. "
+ID_DIALOG_TRIALS_BLACKCAT_03_END_0,I thought Norman joined up with you guys after Ultimus invaded?
+ID_DIALOG_TRIALS_BLACKCAT_03_END_1,"Our Osborn, perhaps. But this one is from another world, and cannot be bargained with."
+ID_DIALOG_TRIALS_BLACKCAT_03_END_2,"So, tell me what he's got and I'll go in alone and take it."
+ID_DIALOG_TRIALS_BLACKCAT_03_END_3,"It's far too dangerous, even for the greatest thief in Nexus Earth. We go as a team. "
+ID_DIALOG_TRIALS_BLACKCAT_03_END_4,"Tsk, fine. I'll lead, you get your artifact thing. And we'll figure out what you owe me later. "
+ID_DIALOG_TRIALS_BLACKCAT_03_END_5,And if I find a little something for myself along the way?\nWho can say what'll happen.
+ID_DIALOG_TRIALS_BLACKCAT_03_END_6,"Don't worry... I'll keep an eye on her. "
+ID_DIALOG_TRIALS_BLACKCAT_05_INTRO_0,There it is. Oscorp HQ. Normally I'd shimmy in the vents or slice open a window but with this crew...
+ID_DIALOG_TRIALS_BLACKCAT_05_INTRO_1,VENGEANCE...
+ID_DIALOG_TRIALS_BLACKCAT_05_INTRO_2,"I don't know that stealth is an option. What's the plan, Strange?"
+ID_DIALOG_TRIALS_BLACKCAT_05_INTRO_3,"Osborn has replaced his security with members of his own Sinister Six. So, thanks to the Images of Ikonn..."
+ID_DIALOG_TRIALS_BLACKCAT_05_INTRO_4,"Wait, why do I feel tingly?"
+ID_DIALOG_TRIALS_BLACKCAT_05_INTRO_5,...we shall fit right in.
+ID_DIALOG_TRIALS_BLACKCAT_05_INTRO_6,"You made me the RHINO?! "
+ID_DIALOG_TRIALS_BLACKCAT_05_INTRO_7,"This illusion should get us inside. Once through, Ms. Hardy, the rest is up to you."
+ID_DIALOG_TRIALS_BLACKCAT_05_END_0,Guess it's time to put these illusions to the test.
+ID_DIALOG_TRIALS_BLACKCAT_05_END_1,Swarm? I thought you weren't supposed to be here for another couple hours?
+ID_DIALOG_TRIALS_BLACKCAT_05_END_2,The boss told me to come early and relieve you. Said you could use a rest.
+ID_DIALOG_TRIALS_BLACKCAT_05_END_3,"He said that? But he was just calling me ""a lazy dolt"" the other day."
+ID_DIALOG_TRIALS_BLACKCAT_05_END_4,And something's different about you...
+ID_DIALOG_TRIALS_BLACKCAT_05_END_5,Uh...Bzz Bzz Bzz?
+ID_DIALOG_TRIALS_BLACKCAT_05_END_6,Huh. Must have been my imagination. Go right in!
+ID_DIALOG_TRIALS_BLACKCAT_05_END_7,I can't believe that worked.
+ID_DIALOG_TRIALS_BLACKCAT_8_INTRO_0,"We passed those guards just in time, my illusion spell is about to..."
+ID_DIALOG_TRIALS_BLACKCAT_8_INTRO_1,Disperse.
+ID_DIALOG_TRIALS_BLACKCAT_8_INTRO_2,"Thank goodness, I've seen enough of Octavius' dreadful haircut for one lifetime. So, what am I stealing?"
+ID_DIALOG_TRIALS_BLACKCAT_8_INTRO_3,"Beyond this vault door lies the Empire Stone. "
+ID_DIALOG_TRIALS_BLACKCAT_8_INTRO_4,"Its mystic energies bend the winds of fate towards its owner, invisibly building them an unstoppable empire. "
+ID_DIALOG_TRIALS_BLACKCAT_8_INTRO_5,"Hey, um, sorry to bug you guys but... Seems like we weren't maybe in the clear?"
+ID_DIALOG_TRIALS_BLACKCAT_8_INTRO_6,"I KNEW you weren't Swarm!\nHe's usually meaner to me. "
+ID_DIALOG_TRIALS_BLACKCAT_8_INTRO_7,"Turns out Shocker's just a smidge smarter than we though. Hold them off, I'll slice my way into the vault."
+ID_DIALOG_TRIALS_BLACKCAT_8_END_0,"Ah, alone at last, inside a massive vault of riches.\nNice to be in my element."
+ID_DIALOG_TRIALS_BLACKCAT_8_END_1,And this little gem must be what all the fuss is about. Sigh.\nTime to get it back to Strange.
+ID_DIALOG_TRIALS_BLACKCAT_8_END_2,"Or... You could keep it.\nAfter all, why shouldn't you?"
+ID_DIALOG_TRIALS_BLACKCAT_8_END_3,Who...?
+ID_DIALOG_TRIALS_BLACKCAT_8_END_4,Someone who thinks maybe Osborn isn't the one who deserves an empire.
+ID_DIALOG_TRIALS_BLACKCAT_8_END_5,"With this gem you could build a crime syndicate that would make Wilson Fisk look like a petty thief. "
+ID_DIALOG_TRIALS_BLACKCAT_8_END_6,"I admit... I do like the sound of that. "
+ID_DIALOG_TRIALS_BLACKCAT_8_END_7,"All you have to do... is take it. After all, it's what you're best at."
+ID_DIALOG_TRIALS_BLACKCAT_8_END_8,Hmm...
+ID_DIALOG_TRIALS_BLACKCAT_10_INTRO_0,They're still coming! I thought there was only supposed to be six of these guys?
+ID_DIALOG_TRIALS_BLACKCAT_10_INTRO_1,Osborn pulling them from infinite other dimensions does tend to bloat the roster a bit.
+ID_DIALOG_TRIALS_BLACKCAT_10_INTRO_2,You were in there for a long time...
+ID_DIALOG_TRIALS_BLACKCAT_10_INTRO_3,"It's a big vault, lots of goodies to sort through. But I got the stone."
+ID_DIALOG_TRIALS_BLACKCAT_10_INTRO_4,"Great. Hand it over. "
+ID_DIALOG_TRIALS_BLACKCAT_10_INTRO_5,My claws are full at the moment! Maybe you can finish mistrusting me after we get out of this?
+ID_DIALOG_TRIALS_BLACKCAT_10_INTRO_6,"Oh, I absolutely will."
+ID_DIALOG_TRIALS_BLACKCAT_10_END_0,"Quickly, through the portal back to the Sanctum!"
+ID_DIALOG_TRIALS_BLACKCAT_10_END_1,"You all can head back to spook central. I'll find my own way out. "
+ID_DIALOG_TRIALS_BLACKCAT_10_END_2,Not with that stone...
+ID_DIALOG_TRIALS_BLACKCAT_10_END_3,"Oh, grow up. Of course I'm giving you the stone. But I'm a solo act, I'm done secret defending. "
+ID_DIALOG_TRIALS_BLACKCAT_10_END_4,"Thank you, Felicia. I will not forget this debt. Now, to the Sanctum!"
+ID_DIALOG_TRIALS_BLACKCAT_10_END_5,They're gone. You're sure the fake you gave me will fool\nDoctor Strange?
+ID_DIALOG_TRIALS_BLACKCAT_10_END_6,"Oh, Stephen and I have a loooong history. I know all his tricks."
+ID_DIALOG_TRIALS_BLACKCAT_10_END_7,"Enjoy the Empire Stone, Felicia Hardy. Just don't forget where you got it. Hahahaha!"
+ID_DIALOG_TRIALS_BLACKCAT_10_END_8,"Now... Let's see what kind of power the cat can drag in. "
 ID_DIALOG_EVENT_UNDERWORLD_1_INTRO_0,The Kree are abducting my associates and converting them to their cause.
 ID_DIALOG_EVENT_UNDERWORLD_1_INTRO_1,I'm sure whoever rescued would be willing to join S.T.R.I.K.E.
 ID_DIALOG_ELEKTRA_EVENT_1_START_0,We're getting reports of Elektra running rampant in Hell's Kitchen.
