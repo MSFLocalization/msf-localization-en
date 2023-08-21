@@ -7000,7 +7000,7 @@ ID_ME_DE_NEWYORK1947_ENDING,Ending Soon
 ID_ME_BO_NEWYORK1947_ENDING,"Commander,\n\nThe <color=#fff568>New York : 1947</color> Event ends soon. Continue earning Ions and progress towards the <color=#fff568>TVA Agent</color> Event with <color=#fff568>TemPads</color> before the event ends!\n\nGood luck, Commander!"
 ID_ME_NA_JARVIS_ANNOUNCE,Introducing J.A.R.V.I.S.
 ID_ME_DE_JARVIS_ANNOUNCE,Strategic Recommendations
-ID_ME_BO_JARVIS_ANNOUNCE,"You now have access to strategic recommendations from <color=#fff568>J.A.R.V.I.S.</color> Any time you see the icon featured in this inbox image, you can tap it to receive suggestions for things like:\n\n- Campaign and Raid team composition\n- Ability upgrade priority\n- Iso-8 Class\nIt's important to remember that J.A.R.V.I.S. is programmed to provide you with guidance, not requirements. Cunning commanders will continue to find creative ways to overcome challenges and unlock the hidden potential in their roster.\n\nGood luck, Commander!"
+ID_ME_BO_JARVIS_ANNOUNCE,"You now have access to strategic recommendations from <color=#fff568>J.A.R.V.I.S.</color> Any time you see the icon featured in this inbox image, you can tap it to receive suggestions for things like:\n\n- Campaign and Raid team composition\n- Ability upgrade priority\n- Iso-8 Class\n\nIt's important to remember that J.A.R.V.I.S. is programmed to provide you with guidance, not requirements. Cunning commanders will continue to find creative ways to overcome challenges and unlock the hidden potential in their roster.\n\nGood luck, Commander!"
 ID_ME_NA_BATTLEPASS_UPDATES,Revamped Battle Pass and Rewards
 ID_ME_DE_BATTLEPASS_UPDATES,Details on the updated Pass
 ID_ME_BO_BATTLEPASS_UPDATES,Mojo's Mayhem is evolving into the new Battle Pass! Battle in up to five PvP modes to score points and earn updated rewards. Visit the blog post for more details.
@@ -7016,3 +7016,6 @@ ID_ME_BO_STRIKEPASS41_ANNOUNCE,"Commander,\n\n<color=#fff568>S.T.R.I.K.E. Pass: 
 ID_ME_NA_STRIKEPASS41_ENDING,Ending: S.T.R.I.K.E. Pass
 ID_ME_DE_STRIKEPASS41_ENDING,Don't miss Ms. Marvel (Hard Light) shards!
 ID_ME_BO_STRIKEPASS41_ENDING,"Commander,\n\nYou only have <color=#fff568>2 days</color> remaining to earn <color=#fff568>Ms. Marvel (Hard Light)</color> shards in Season 41 of S.T.R.I.K.E. Pass.\n\nHurry and complete your Daily Objectives before these rewards are gone!"
+ID_ME_NA_ECON_UPDATE_AUG_01,Isotope-8 Campaign Update!
+ID_ME_DE_ECON_UPDATE_AUG_01,Improved Rewards
+ID_ME_BO_ECON_UPDATE_AUG_01,"Commander,\n\nYou can now find improved rewards for the Iso-8 Campaign:\n\n<color=#fff568>Normal Difficulty</color>\n- Double the T1 Crystals and triple the Ions!\n- Increased Orb drop amount on 12 Energy cost nodes\n- 10 more attempts per day on 12 Energy cost nodes\n\n<color=#fff568>Hard Difficulty (Level 80+)</color>\n- T1 Ions and Crystals now drop alongside current rewards!\n- Chance of T2 Crystal drops have been doubled\n- 10 more attempts per day on 12 Energy cost nodes\n\nPower up your roster with Iso-8!"
