@@ -8569,3 +8569,11 @@ ID_GACHA_CRATE_HELLRIDER_NAME,Hell Rider Orb
 ID_GACHA_CRATE_HELLRIDER_DESCRIPTION,Ghost Rider (Robbie) and Arena Character Shards
 ID_GACHA_CRATE_HELLRIDER_TOKEN_NAME,Hell Rider Orb Fragments
 ID_GACHA_CRATE_HELLRIDER_TOKEN_DESCRIPTION,"Earn Hell Rider Orb Fragments from daily Free Claims on web, select limited-time offers and Arena Ranked Rewards. Each Hell Rider Orb contains shards of Ghost Rider (Robbie), Ikaris, Sersi, Kang the Conqueror, Emma Frost, and more!"
+ID_GACHA_CRATE_SECRETDEFENDERS_NAME,Secret Defenders Orb
+ID_GACHA_CRATE_SECRETDEFENDERS_DESCRIPTION,Contains Secret Defender shards
+ID_GACHA_CRATE_SECRETDEFENDERS_TOKEN_NAME,Secret Defenders Orb Fragments
+ID_GACHA_CRATE_SECRETDEFENDERS_TOKEN_DESCRIPTION,Earn Secret Defenders Orb Fragments from the Secret Sorcery Event.
+ID_GACHA_CRATE_MYSTICALPOWER_NAME,Mystical Power Orb
+ID_GACHA_CRATE_MYSTICALPOWER_DESCRIPTION,Contains Asgardian shards and more
+ID_GACHA_CRATE_MYSTICALPOWER_TOKEN_NAME,Mystical Power Orb Fragments
+ID_GACHA_CRATE_MYSTICALPOWER_TOKEN_DESCRIPTION,Earn Mystical Power Orb Fragments from any Campaign Node and select limited-time offers. Each Mystical Power Orb Fragment grants progress in the Paranormal Preparation Event.

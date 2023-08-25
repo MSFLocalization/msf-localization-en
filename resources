@@ -209,8 +209,8 @@ ID_EVENT_CUR9_NAME,Intergalactic Merch Booth Milestone Points
 ID_EVENT_CUR9_DESCRIPTION,These points earn you additional progress in the Intergalactic Merch Booth Milestone. Earn them in Daily Free Claims on our website and limited time offers!
 ID_EVENT_CUR10_NAME,TVA Gift Shop
 ID_EVENT_CUR10_DESCRIPTION,Spend TVA Gift Cards at the TVA Gift Shop. Only for a limited time
-ID_EVENT_CUR11_NAME,Mischief Returns Milestone Points
-ID_EVENT_CUR11_DESCRIPTION,"These points earn you additional progress in the Mischief Returns Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EVENT_CUR11_NAME,Paranormal Preparation Milestone Points
+ID_EVENT_CUR11_DESCRIPTION,These points earn you additional progress in the Paranormal Preparation Milestone.
 ID_EVENT_CUR12_NAME,Apple of Idunn
 ID_EVENT_CUR12_DESCRIPTION,"Spend Apples of Idunn in the Event Store to earn additional progress in the Bounty of Asgard Milestone. Earn them in Campaign Nodes, Daily Free Claims on our website, and limited offers!"
 ID_EVENT_CUR13_NAME,Bounty of Asgard Milestone Points
@@ -359,3 +359,15 @@ ID_ASGARD2004_DESC,"These points earn you additional progress in the Asgard : 20
 ID_BARICHARA1808_DESC,"These points earn you additional progress in the Barichara : 1808 Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
 ID_HALA0051_DESC,"These points earn you additional progress in the Hala : 0051 Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
 ID_EGO1382_DESC,"These points earn you additional progress in the Ego : 1382 Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EVTA_META_SEP_A_NAME,Tarot Card
+ID_EVTA_META_SEP_A_DESCRIPTION,Collect Tarot Cards for points in the Secret Sorcery Event. Earn them in various events throughout the month of September.
+ID_EVTA_META_SEP_B_NAME,Scroll of the Vishanti
+ID_EVTA_META_SEP_B_DESCRIPTION,Collect the Scroll of the Vishanti for points in the Secret Sorcery Event. Earn it in the Paranormal Preparation Event.
+ID_EVTA_META_SEP_C_NAME,Ronin Divination Spell
+ID_EVTA_META_SEP_C_DESCRIPTION,Collect the Ronin Divination Spell for points in the Secret Sorcery Event. Earn it in the Strange Divination: Ronin Event.
+ID_EVTA_META_SEP_D_NAME,Ronin's Avengers Contract
+ID_EVTA_META_SEP_D_DESCRIPTION,Collect Ronin's Avengers Contract for points in the Secret Sorcery Event. Earn it in the Recruiting Ronin Event.
+ID_EVTA_META_SEP_E_NAME,Mockingbird Divination Spell
+ID_EVTA_META_SEP_E_DESCRIPTION,Collect the Mockingbird Divination Spell for points in the Secret Sorcery Event. Earn it in the Strange Divination: Mockingbird Event.
+ID_EVTA_META_SEP_F_NAME,Mockingbird's Avengers Contract
+ID_EVTA_META_SEP_F_DESCRIPTION,Collect Mockingbird's Avengers Contract for points in the Secret Sorcery Event. Earn it in the Recruiting Mockingbird Event.

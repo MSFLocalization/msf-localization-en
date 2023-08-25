@@ -3212,10 +3212,10 @@ ID_QU_SD_FEEDINGALIOTH,Play Raid Battles
 ID_QU_LM_FEEDINGALIOTH,Play Raid Battles to complete a 7-day milestone that yields supreme rewards!
 ID_QU_NA_NEWYORK1947,New York : 1947
 ID_QU_SD_NEWYORK1947,Use New Warriors in Cosmic Crucible
-ID_QU_LM_NEWYORK1947,"Gain progress in this 3-day event by winning Cosmic Crucible battles with increased progress for using New Warriors at higher Gear Tiers and earning Allied Supply Orb fragments from the New York : 1947 Calendar and daily Free Claims. Earn incredible rewards including L4 Training Modules, Elite Credits, and Apocalypse Bounty Orbs.\nApocalypse Bounty Orbs contain up to 5,000,000 T2 Level 5 Ions! You'll also earn points towards the month-long TVA Agent milestone by collecting TemPads."
+ID_QU_LM_NEWYORK1947,"Gain progress in this 3-day event by winning Cosmic Crucible battles with increased progress for using New Warriors at higher Gear Tiers and earning Allied Supply Orb fragments from the New York : 1947 daily Free Claims and other offers. Earn incredible rewards including L4 Training Modules, Elite Credits, and Apocalypse Bounty Orbs.\nApocalypse Bounty Orbs contain up to 5,000,000 T2 Level 5 Ions! You'll also earn points towards the month-long TVA Agent milestone by collecting TemPads."
 ID_QU_NA_TIMETWISTER,Time Twister
 ID_QU_SD_TIMETWISTER,Spend Power Cores
-ID_QU_LM_TIMETWISTER,"Spend Power Cores to hit a daily milestone with rewards that can be claimed on our website: Hala : 0051 Milestone Points, Basic Red Star Orb Fragments and Gold Orb Fragments."
+ID_QU_LM_TIMETWISTER,"Spend Power Cores to score points on this 7-day milestone with rewards that can be claimed on our website: Hala : 0051 Milestone Points, Energized Orb Fragments, and TemPads."
 ID_QU_SM_TIMETWISTER,Earn TVA Agent and Hala : 0051 Progress
 ID_QU_SC_TIMETWISTER,Spend Power Cores to earn TVA Agent and Hala : 0051 progress
 ID_QU_NA_HALA0051,Hala : 0051
@@ -3250,3 +3250,30 @@ ID_QU_NA_EGO1382,Ego : 1382
 ID_QU_SD_EGO1382,Open Hell Rider Orbs by battling in Arena
 ID_QU_LD_EGO1382,Gain progress by earning Hell Rider Orb Fragments earned from Arena Ranked Rewards and spending Arena Credits on special Milestone Point offers.
 ID_QU_S1_EGO1382,Earn 1 Hell Rider Orb Fragment
+ID_QU_NA_SECRETSORCERY,Secret Sorcery
+ID_QU_SD_SECRETSORCERY,Participate in September Events
+ID_QU_LM_SECRETSORCERY,Participate in various events throughout the month of September to earn milestone progress.
+ID_QU_SM_SECRETSORCERY,Participate in September Events
+ID_QU_SC_SECRETSORCERY,Participate in September Events
+ID_QU_S1_SECRETSORCERY,Collect Tarot Cards
+ID_QU_S2_SECRETSORCERY,Collect the Scroll of the Vishanti
+ID_QU_S3_SECRETSORCERY,Collect the Ronin Divination Spell
+ID_QU_S4_SECRETSORCERY,Collect Ronin's Avengers Contract
+ID_QU_S5_SECRETSORCERY,Collect the Mockingbird Divination Spell
+ID_QU_S6_SECRETSORCERY,Collect Mockingbird's Avengers Contract
+ID_QU_NA_PARANORMALPREPARATION,Paranormal Preparation
+ID_QU_SD_PARANORMALPREPARATION,Earn Mystical Power Orbs and Spend Power Cores
+ID_QU_LM_PARANORMALPREPARATION,Earn Mystical Power Orbs and Spend Power Cores to progress in this milestone. You can earn Mystical Power Orb Fragments from any Campaign Node.
+ID_QU_S1_PARANORMALPREPARATION,Earn 1 Mystical Power Orb Fragment
+ID_QU_S2_PARANORMALPREPARATION,Spend 1 Power Core
+ID_QU_NA_EXTRAENCHANTMENTS,Extra Enchantments
+ID_QU_SD_EXTRAENCHANTMENTS,Battle in Raids
+ID_QU_SC_EXTRAENCHANTMENTS,Earn Armory Orbs by Battling in Raids
+ID_QU_LM_EXTRAENCHANTMENTS,"Win or Lose Raid battles to complete this milestone that rewards Armory 14, 15, 16, and 17 Orbs!"
+ID_QU_S1_EXTRAENCHANTMENTS,Win or Lose 1 Raid Battle
+ID_QU_NA_WIZARDLYWARFARE,Wizardly Warfare
+ID_QU_SD_WIZARDLYWARFARE,Battle in War and Earn Allied Supply Orb Fragments
+ID_QU_SC_WIZARDLYWARFARE,Battle in War
+ID_QU_LM_WIZARDLYWARFARE,"Collaborate with your alliances to battle in War and earn Allied Supply Orb Fragments. Allied Supply Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store."
+ID_QU_S1_WIZARDLYWARFARE,Win or Lose 1 War Battle
+ID_QU_S2_WIZARDLYWARFARE,Earn 1 Allied Supply Orb Fragment
