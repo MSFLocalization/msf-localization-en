@@ -116,6 +116,7 @@ ID_OF_TAG_VALUE_07,7x VALUE
 ID_OF_TAG_VALUE_08,8x VALUE
 ID_OF_TAG_VALUE_09,9x VALUE
 ID_OF_TAG_VALUE_10,10x VALUE
+ID_OF_TAG_VALUE_02_UPPER,2X VALUE
 ID_OF_TAG_DISCOUNT_VAR_01,{dpct}% OFF
 ID_OF_TAG_BONUS_VAR_01,{bpct}% BONUS
 ID_OF_TAG_BONUS_VAR_02,{bpct}% EXTRA
@@ -6565,11 +6566,22 @@ ID_OF_NA_MYSTERIO_REDSTAR_DRAFT_OFFER_01,Red Star Draft: Mysterio
 ID_OF_DE_MYSTERIO_REDSTAR_DRAFT_OFFER_3_6,"Save <color=#fff568>over 90%</color> with this spectacular offer and get an equal chance of receiving either a <color=#fff568>3, 4, 5, or 6 Red Star</color> <color=#fff568>Mysterio</color>"
 ID_BP_NA_DUALOFFER_DESCRIPTION_1,Unlock Premium rewards
 ID_BP_NA_DUALOFFER_DESCRIPTION_2,Unlock Premium rewards\nand <color=#fff568>30 Ratings Levels</color>
+ID_BP_NA_DUALOFFER_DESCRIPTION_1_REVAMP,Activate Premium
+ID_BP_NA_DUALOFFER_DESCRIPTION_2_REVAMP,Activate Premium AND <color=#fff568>Earn 50 Rewards</color>
 ID_BP_NA_DUALOFFER_TITLE,UPGRADE TO PREMIUM
+ID_BP_NA_DUALOFFER_TITLE_REVAMP,UPGRADE YOUR BATTLE PASS
 ID_BP_NA_DUALOFFER_SUBTITLE,Earn additional rewards in Mojo's Mayhem!
 ID_BP_NA_DUALOFFER_SUBTITLE_REVAMP,Unlock premium rewards by upgrading! Immediately earn half of all rewards with Premium Plus!
+ID_BP_NA_DUALOFFER_SINGLE_TITLE_1,PREMIUM
+ID_BP_NA_DUALOFFER_SINGLE_TITLE_2,PREMIUM PLUS
+ID_BP_NA_DUALOFFER_SINGLE_SUBTITLE_1,Earn these rewards now
+ID_BP_NA_DUALOFFER_SINGLE_SUBTITLE_2,Upcoming rewards
+ID_BP_NA_DUALOFFER_DISCOUNT_2XVAL,
 ID_GBP_DE_DUALOFFER_TITLE,Earn additional S.T.R.I.K.E. Pass Rewards!
+ID_GBP_DE_DUALOFFER_TITLE_REVAMP,UPGRADE YOUR S.T.R.I.K.E. PASS!
+ID_GBP_DE_DUALOFFER_SUBTITLE_REVAMP,Unlock premium rewards by upgrading! Immediately earn 20 bonus levels with Premium Plus!
 ID_GBP_NA_DUALOFFER_DESCRIPTION_2,Unlock Premium rewards\nand <color=#fff568>20 S.T.R.I.K.E. Levels</color>
+ID_GBP_NA_DUALOFFER_DESCRIPTION_2_REVAMP,Activate Premium AND <color=#fff568>Earn 20 S.T.R.I.K.E. Levels</color>
 ID_OF_NA_STATURE_ECO_BUNDLE_1,Aspirational Orb Bundle
 ID_OF_DE_STATURE_ECO_BUNDLE_VAR_O,Save on <color=#fff568>{var1} Aspirational Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 28 character shards</color>!
 ID_OF_NA_STATURE_MORB_1,Aspirational Orb Fragments
@@ -8577,3 +8589,7 @@ ID_GACHA_CRATE_MYSTICALPOWER_NAME,Mystical Power Orb
 ID_GACHA_CRATE_MYSTICALPOWER_DESCRIPTION,Contains Asgardian shards and more
 ID_GACHA_CRATE_MYSTICALPOWER_TOKEN_NAME,Mystical Power Orb Fragments
 ID_GACHA_CRATE_MYSTICALPOWER_TOKEN_DESCRIPTION,Earn Mystical Power Orb Fragments from any Campaign Node and select limited-time offers. Each Mystical Power Orb Fragment grants progress in the Paranormal Preparation Event.
+ID_GACHA_CRATE_DIVINATION_NAME,Divination Orb
+ID_GACHA_CRATE_DIVINATION_DESCRIPTION,"Open for Training Modules, T2 Level 1 & 4 Ions, and progress in the Strange Divination: Ronin Milestone"
+ID_GACHA_CRATE_DIVINATION_TOKEN_NAME,Divination Orb Fragments
+ID_GACHA_CRATE_DIVINATION_TOKEN_DESCRIPTION,"Collect Fragments for orbs containing Training Modules, T2 Level 1 & 4 Ions, and progress in the Strange Divination: Ronin Milestone"
