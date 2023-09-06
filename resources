@@ -213,12 +213,12 @@ ID_EVENT_CUR11_NAME,Paranormal Preparation Milestone Points
 ID_EVENT_CUR11_DESCRIPTION,These points earn you additional progress in the Paranormal Preparation Milestone.
 ID_EVENT_CUR12_NAME,Apple of Idunn
 ID_EVENT_CUR12_DESCRIPTION,"Spend Apples of Idunn in the Event Store to earn additional progress in the Bounty of Asgard Milestone. Earn them in Campaign Nodes, Daily Free Claims on our website, and limited offers!"
-ID_EVENT_CUR13_NAME,Bounty of Asgard Milestone Points
-ID_EVENT_CUR13_DESCRIPTION,"These points earn you additional progress in the Bounty of Asgard Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
-ID_EVENT_CUR14_NAME,Korbinite Orb Fragment
-ID_EVENT_CUR14_DESCRIPTION,"Open Korbinite Orbs for Beta Ray Bill shards, Gold, and gear."
-ID_EVENT_CUR15_NAME,Voyage of Skuttlebutt Milestone Points
-ID_EVENT_CUR15_DESCRIPTION,"These points earn you additional progress in the Voyage of Skuttlebutt Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EVENT_CUR13_NAME,Mystical Power Orb Fragments
+ID_EVENT_CUR13_DESCRIPTION,"Open Mystical Power Orbs for Hero Asgardian shards, Training Modules, and more!"
+ID_EVENT_CUR14_NAME,Strange Divination: Ronin Milestone Points
+ID_EVENT_CUR14_DESCRIPTION,These points earn you additional progress in the Strange Divination: Ronin Milestone.
+ID_EVENT_CUR15_NAME,Divination Orb Fragments
+ID_EVENT_CUR15_DESCRIPTION,"Collect Fragments for orbs containing Training Modules, T2 Level 1 & 4 Ions, and progress in the Strange Divination: Ronin Milestone."
 ID_EVENT_CUR16_NAME,Realm Raiders Milestone Points
 ID_EVENT_CUR16_DESCRIPTION,"These points earn you additional progress in the Realm Raiders Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
 ID_EVENT_CUR17_NAME,Deceiver Orb Fragments

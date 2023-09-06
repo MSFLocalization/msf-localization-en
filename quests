@@ -3277,3 +3277,69 @@ ID_QU_SC_WIZARDLYWARFARE,Battle in War
 ID_QU_LM_WIZARDLYWARFARE,"Collaborate with your alliances to battle in War and earn Allied Supply Orb Fragments. Allied Supply Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store."
 ID_QU_S1_WIZARDLYWARFARE,Win or Lose 1 War Battle
 ID_QU_S2_WIZARDLYWARFARE,Earn 1 Allied Supply Orb Fragment
+ID_QU_NA_SPLASH_FANTASTICFORTUNE,Fantastic Fortune
+ID_QU_SD_SPLASH_FANTASTICFORTUNE,Use Fantastic Four in Blitz
+ID_QU_LM_SPLASH_FANTASTICFORTUNE,Earn points by using Fantastic Four characters in Blitz Battles. Earn more points if your Fantastic Four characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_FANTASTICFORTUNE,Use Fantastic Four Characters in Blitz
+ID_QU_S1_SPLASH_FANTASTICFORTUNE,Win Blitz with 3-star or higher Fantastic Four Character
+ID_QU_S2_SPLASH_FANTASTICFORTUNE,Win Blitz with 5-star or higher Fantastic Four Character
+ID_QU_S3_SPLASH_FANTASTICFORTUNE,Win Blitz with 7-star Fantastic Four Character
+ID_QU_NA_SPLASH_MAGICALMARAUDERS,Magical Marauders
+ID_QU_SD_SPLASH_MAGICALMARAUDERS,Use Marauder in Blitz
+ID_QU_LM_SPLASH_MAGICALMARAUDERS,Earn points by using Marauder characters in Blitz Battles. Earn more points if your Marauder characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_MAGICALMARAUDERS,Use Marauder Characters in Blitz
+ID_QU_S1_SPLASH_MAGICALMARAUDERS,Win Blitz with 3-star or higher Marauder Character
+ID_QU_S2_SPLASH_MAGICALMARAUDERS,Win Blitz with 5-star or higher Marauder Character
+ID_QU_S3_SPLASH_MAGICALMARAUDERS,Win Blitz with 7-star Marauder Character
+ID_QU_NA_SPLASH_SUPERNATURALSIGHTINGS,Supernatural Sightings
+ID_QU_SD_SPLASH_SUPERNATURALSIGHTINGS,Use Supernatural in Blitz
+ID_QU_LM_SPLASH_SUPERNATURALSIGHTINGS,Earn points by using Supernatural characters in Blitz Battles. Earn more points if your Supernatural characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_SUPERNATURALSIGHTINGS,Use Supernatural Characters in Blitz
+ID_QU_S1_SPLASH_SUPERNATURALSIGHTINGS,Win Blitz with 3-star or higher Supernatural Character
+ID_QU_S2_SPLASH_SUPERNATURALSIGHTINGS,Win Blitz with 5-star or higher Supernatural Character
+ID_QU_S3_SPLASH_SUPERNATURALSIGHTINGS,Win Blitz with 7-star Supernatural Character
+ID_QU_NA_SPLASH_MYSTICALMUTANTS,Mystical Mutants
+ID_QU_SD_SPLASH_MYSTICALMUTANTS,Use Unlimited X-Men in Blitz
+ID_QU_LM_SPLASH_MYSTICALMUTANTS,Earn points by using Unlimited X-Men characters in Blitz Battles. Earn more points if your Unlimited X-Men characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_MYSTICALMUTANTS,Use Unlimited X-Men Characters in Blitz
+ID_QU_S1_SPLASH_MYSTICALMUTANTS,Win Blitz with 3-star or higher Unlimited X-Men Character
+ID_QU_S2_SPLASH_MYSTICALMUTANTS,Win Blitz with 5-star or higher Unlimited X-Men Character
+ID_QU_S3_SPLASH_MYSTICALMUTANTS,Win Blitz with 7-star Unlimited X-Men Character
+ID_QU_NA_STRANGEDIVINATIONRONIN,Strange Divination: Ronin
+ID_QU_SD_STRANGEDIVINATIONRONIN,Earn Divination Orbs and battle in Blitz and Cosmic Crucible
+ID_QU_LM_STRANGEDIVINATIONRONIN,"Battle in Blitz (with bonuses for using Photon, Ms. Marvel (Hard Light), and Ghost Rider (Robbie) at 5 and 6 stars), win Cosmic Crucible battles, and earn Divination Orbs to progress in this milestone. You can earn Divination Orb Fragments from the Complex Conjurations Web Milestone and from special offers."
+ID_QU_SM_STRANGEDIVINATIONRONIN,Earn Divination Orbs and battle in Blitz and Cosmic Crucible
+ID_QU_S1_STRANGEDIVINATIONRONIN,Play 1 Blitz Battle
+ID_QU_S2_STRANGEDIVINATIONRONIN,Play 1 Blitz Battle with Photon at 5+ Stars
+ID_QU_S3_STRANGEDIVINATIONRONIN,Play 1 Blitz Battle with Photon at 6+ Stars
+ID_QU_S4_STRANGEDIVINATIONRONIN,Play 1 Blitz Battle with Ms. Marvel (Hard Light) at 5+ Stars
+ID_QU_S5_STRANGEDIVINATIONRONIN,Play 1 Blitz Battle with Ms. Marvel (Hard Light) at 6+ Stars
+ID_QU_S6_STRANGEDIVINATIONRONIN,Play 1 Blitz Battle with Ghost Rider (Robbie) at 5+ Stars
+ID_QU_S7_STRANGEDIVINATIONRONIN,Play 1 Blitz Battle with Ghost Rider (Robbie) at 6+ Stars
+ID_QU_S8_STRANGEDIVINATIONRONIN,Win 1 Cosmic Crucible Battle
+ID_QU_S9_STRANGEDIVINATIONRONIN,Earn 1 Divination Orb Fragment
+ID_QU_NA_COMPLEXCONJURATIONS,Complex Conjurations
+ID_QU_SD_COMPLEXCONJURATIONS,Earn Blitz Credits
+ID_QU_SC_COMPLEXCONJURATIONS,Earn Blitz Credits
+ID_QU_LM_COMPLEXCONJURATIONS,"Earn Blitz Credits to complete a 4-day milestone that rewards Catalyst Parts, Tarot Cards, and Divination Orb Fragments."
+ID_QU_S1_COMPLEXCONJURATIONS,Earn Blitz Credits
+ID_QU_NA_MEETTHENEWRECRUITS,Meet the New Recruits
+ID_QU_SD_MEETTHENEWRECRUITS,Unlock and Use New Avengers
+ID_QU_SC_MEETTHENEWRECRUITS,Unlock New Avengers and use them in War
+ID_QU_LM_MEETTHENEWRECRUITS,"Power up your Alliance War roster with New Avenger characters!\n\nHow to Earn Points\nScore points to soar through this milestone when you:\n\n- Recruit Ronin, Mockingbird, and Tigra\n- Level Up any New Avenger\n- Rank Up (increase Star Rank) any New Avenger\n- Use any New Avenger in Alliance War Offense"
+ID_QU_S1_MEETTHENEWRECRUITS,Play a War Battle with 7-Star Tigra
+ID_QU_S2_MEETTHENEWRECRUITS,Play a War Battle with 6-Star Tigra
+ID_QU_S3_MEETTHENEWRECRUITS,Play a War Battle with 4-Star Tigra
+ID_QU_S4_MEETTHENEWRECRUITS,Play a War Battle with 7-Star Mockingbird
+ID_QU_S5_MEETTHENEWRECRUITS,Play a War Battle with 6-Star Mockingbird
+ID_QU_S6_MEETTHENEWRECRUITS,Play a War Battle with 4-Star Mockingbird
+ID_QU_S7_MEETTHENEWRECRUITS,Play a War Battle with 7-Star Ronin
+ID_QU_S8_MEETTHENEWRECRUITS,Play a War Battle with 6-Star Ronin
+ID_QU_S9_MEETTHENEWRECRUITS,Play a War Battle with 4-Star Ronin
+ID_QU_S10_MEETTHENEWRECRUITS,Play a War Battle with 7-Star The Thing
+ID_QU_S11_MEETTHENEWRECRUITS,Play a War Battle with 7-Star Agent Coulson
+ID_QU_S12_MEETTHENEWRECRUITS,Level Up a New Avenger
+ID_QU_S13_MEETTHENEWRECRUITS,Rank Up a New Avenger
+ID_QU_S14_MEETTHENEWRECRUITS,Unlock Tigra
+ID_QU_S15_MEETTHENEWRECRUITS,Unlock Mockingbird
+ID_QU_S16_MEETTHENEWRECRUITS,Unlock Ronin
