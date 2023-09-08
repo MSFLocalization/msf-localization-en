@@ -8590,6 +8590,10 @@ ID_GACHA_CRATE_MYSTICALPOWER_DESCRIPTION,Contains Asgardian shards and more
 ID_GACHA_CRATE_MYSTICALPOWER_TOKEN_NAME,Mystical Power Orb Fragments
 ID_GACHA_CRATE_MYSTICALPOWER_TOKEN_DESCRIPTION,Earn Mystical Power Orb Fragments from any Campaign Node and select limited-time offers. Each Mystical Power Orb Fragment grants progress in the Paranormal Preparation Event.
 ID_GACHA_CRATE_DIVINATION_NAME,Divination Orb
-ID_GACHA_CRATE_DIVINATION_DESCRIPTION,"Open for Training Modules, T2 Level 1 & 4 Ions, and progress in the Strange Divination: Ronin Milestone"
+ID_GACHA_CRATE_DIVINATION_DESCRIPTION,Contains Ions and Training Modules
 ID_GACHA_CRATE_DIVINATION_TOKEN_NAME,Divination Orb Fragments
 ID_GACHA_CRATE_DIVINATION_TOKEN_DESCRIPTION,"Collect Fragments for orbs containing Training Modules, T2 Level 1 & 4 Ions, and progress in the Strange Divination: Ronin Milestone"
+ID_GACHA_CRATE_ALPHAELITE_NAME,Alpha Elite Orb
+ID_GACHA_CRATE_ALPHAELITE_DESCRIPTION,"Contains character shards, T2 Ions and Teal Catalysts!"
+ID_GACHA_CRATE_ALPHAELITE_TOKEN_NAME,Alpha Elite Orb Fragments
+ID_GACHA_CRATE_ALPHAELITE_TOKEN_DESCRIPTION,Collect Alpha Elite Orb Fragments in Alpha Raids V.
