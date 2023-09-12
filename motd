@@ -22,7 +22,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 9:00 AM (PDT) (8/17).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 9:30 AM (PDT) (9/13).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -2239,6 +2239,8 @@ ID_MOTD_DE_RONIN_TEASER,He's bringing his own brand of Jaded Justice to War oppo
 ID_MOTD_NA_RONIN_ANNOUNCE,Ronin is Here!
 ID_MOTD_DE_RONIN_ANNOUNCE,Deliver Trauma to War opponents and boost Speed for New Avenger allies!
 ID_MOTD_DE_RONIN_ANNOUNCE2,Open Off the Edge Orbs to earn shards for this dealer of Jaded Justice!
+ID_MOTD_NA_NEXUS_HARD_0304,New: Nexus Hard Campaigns
+ID_MOTD_DE_NEXUS_HARD_0304,Attempt these new missions for Gear Tier 17 Mini-Uniques and Union Jack and Titania shards!
 ID_MOTD_NA_STRANGEDIVINATIONRONIN_TEASER,Coming Soon: Strange Divination: Ronin
 ID_MOTD_DE_STRANGEDIVINATIONRONIN_TEASER,Seeking the silent
 ID_MOTD_NA_STRANGEDIVINATIONRONIN_LIVE,Live: Strange Divination: Ronin
@@ -2252,3 +2254,9 @@ ID_MOTD_DE_MOCKINGBIRD_TEASER,This Stave Savant is on the way to Support New Ave
 ID_MOTD_NA_MOCKINGBIRD_ANNOUNCE,Mockingbird is Here!
 ID_MOTD_DE_MOCKINGBIRD_ANNOUNCE,"Support New Avenger allies in War with Stealth, Immunity, and Speed!"
 ID_MOTD_DE_MOCKINGBIRD_ANNOUNCE2,Open Copycat Orbs to earn shards for this Stave Savant!
+ID_MOTD_NA_BATTLEPASS_SEASON4_ANNOUNCE,LIVE: Season 4 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON4_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_ALPHA5_LAUNCH_PREVIEW,Coming Soon: Alpha Raid V
+ID_MOTD_DE_ALPHA5_LAUNCH_PREVIEW,Earn the new Alpha Elite Orb!
+ID_MOTD_NA_ALPHA5_LAUNCH_LIVE,LIVE: Alpha Raid V
+ID_MOTD_DE_ALPHA5_LAUNCH_LIVE,Earn the new Alpha Elite Orb!
