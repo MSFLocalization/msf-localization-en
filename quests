@@ -3343,3 +3343,30 @@ ID_QU_S13_MEETTHENEWRECRUITS,Rank Up a New Avenger
 ID_QU_S14_MEETTHENEWRECRUITS,Unlock Tigra
 ID_QU_S15_MEETTHENEWRECRUITS,Unlock Mockingbird
 ID_QU_S16_MEETTHENEWRECRUITS,Unlock Ronin
+ID_QU_NA_RECRUITINGRONIN,Recruiting Ronin
+ID_QU_SD_RECRUITINGRONIN,Spend Campaign Energy and Battle in Raids
+ID_QU_LM_RECRUITINGRONIN,"Spend Campaign Energy, earn Alliance Credits, and battle in Raids (with a bonus for using Sylvie and Beta Ray Bill) to progress in this milestone."
+ID_QU_S1_RECRUITINGRONIN,Play 1 Raid Battle
+ID_QU_S2_RECRUITINGRONIN,Raid with Sylvie at 5+ Stars
+ID_QU_S3_RECRUITINGRONIN,Raid with Sylvie at 7 Stars
+ID_QU_S4_RECRUITINGRONIN,Raid with Beta Ray Bill at 5+ Stars
+ID_QU_S5_RECRUITINGRONIN,Raid with Beta Ray Bill at 7 Stars
+ID_QU_S6_RECRUITINGRONIN,Spend 1 Campaign Energy
+ID_QU_S7_RECRUITINGRONIN,Earn 1 Alliance Credit
+ID_QU_NA_POWERFULINCANTATIONS,Powerful Incantations
+ID_QU_SD_POWERFULINCANTATIONS,Spend Power Cores
+ID_QU_SC_POWERFULINCANTATIONS,Spend Power Cores
+ID_QU_LM_POWERFULINCANTATIONS,"Spend Power Cores to complete a 6-day milestone that rewards Legacy Orbs, Augmented Stat Catalyst Parts, and Tarot Cards."
+ID_QU_S1_POWERFULINCANTATIONS,Spend Power Cores
+ID_QU_NA_TOPPLETHETRIBUNAL,Topple the Tribunal
+ID_QU_SD_TOPPLETHETRIBUNAL,Decimate your Cosmic Crucible foes!
+ID_QU_SC_TOPPLETHETRIBUNAL,Win Cosmic Crucible battles
+ID_QU_LM_TOPPLETHETRIBUNAL,Win Cosmic Crucible battles (with a bonus for using the Masters of Evil) and earn Allied Supply II Orb fragments
+ID_QU_S1_TOPPLETHETRIBUNAL,Earn 1 Allied Supply II Orb Fragment
+ID_QU_S2_TOPPLETHETRIBUNAL,Win 1 Cosmic Crucible Battle
+ID_QU_S3_TOPPLETHETRIBUNAL,Win 1 Cosmic Crucible Battle w/ a Master of Evil
+ID_QU_S4_TOPPLETHETRIBUNAL,Win 1 Cosmic Crucible Battle w/ a Master of Evil at 5+ Stars
+ID_QU_S5_TOPPLETHETRIBUNAL,Win 1 Cosmic Crucible Battle w/ a Master of Evil at 7 Stars
+ID_QU_S6_TOPPLETHETRIBUNAL,Win 1 Cosmic Crucible Battle w/ Gwenpool
+ID_QU_S7_TOPPLETHETRIBUNAL,Win 1 Cosmic Crucible Battle w/ Gwenpool at 5+ Stars
+ID_QU_S8_TOPPLETHETRIBUNAL,Win 1 Cosmic Crucible Battle w/ Gwenpool at 7 Stars

@@ -3991,6 +3991,23 @@ ID_OF_DE_STRANGEDIVINATIONRONIN_DAILY_EVENT_ORB,Stock up on <color=#fff568>Isoto
 ID_OF_DE_STRANGEDIVINATIONRONIN_DAILY_BLITZ,Supercharge your fight and earn more <color=#fff568>Strange Divination: Ronin</color> progress in Blitz!
 ID_OF_DE_STRANGEDIVINATIONRONIN_DAILY_CLAIM,Come back daily for more <color=#fff568>Strange Divination: Ronin</color> progress!
 ID_OF_DE_STRANGEDIVINATIONRONIN_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Strange Divination: Ronin</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_RECRUITINGRONIN_STARTER_MEGA,Recruiting Ronin Super Starter
+ID_OF_NA_RECRUITINGRONIN_STARTER_SUPER,Recruiting Ronin Mega Starter
+ID_OF_NA_RECRUITINGRONIN_STARTER,Recruiting Ronin Starter Bundle
+ID_OF_NA_RECRUITINGRONIN_CATCHUP,Recruiting Ronin Catch-Up Bundle
+ID_OF_NA_RECRUITINGRONIN_CATCHUP_LAST_CHANCE,Recruiting Ronin Last Chance Bundle
+ID_OF_NA_RECRUITINGRONIN_DAILY_POINTS,Recruitment Daily Points Bundle
+ID_OF_NA_RECRUITINGRONIN_WEB_POINTS,Recruiting Ronin Web Special
+ID_OF_NA_RECRUITINGRONIN_CLAIM,Recruiting Ronin Daily Gift
+ID_OF_NA_RECRUITINGRONIN_INTERSTITIAL,Recruiting Ronin Web Special
+ID_OF_DE_RECRUITINGRONIN_STARTER_MEGA,Get ahead in the <color=#fff568>Recruiting Ronin</color> Milestone and fast-forward your way to <color=#fff568>Ronin character shards</color> and <color=#fff568>Augmented Skill Gear</color>!
+ID_OF_DE_RECRUITINGRONIN_STARTER,Start off strong in the <color=#fff568>Recruiting Ronin</color> milestone!
+ID_OF_DE_RECRUITINGRONIN_CATCHUP,Finish strong in the milestones for <color=#fff568>Ronin character shards</color> and reach the top of the leaderboard!
+ID_OF_DE_RECRUITINGRONIN_CATCHUP_LAST_CHANCE,Complete your final Recruiting Ronin milestones before it's too late!
+ID_OF_DE_RECRUITINGRONIN_DAILY_POINTS,Make consistent <color=#fff568>Recruiting Ronin</color> progress with this daily milestone points supply!
+ID_OF_DE_RECRUITINGRONIN_WEB_POINTS,Become a New Avenger and boost your <color=#fff568>Recruiting Ronin Milestone</color> progress!
+ID_OF_DE_RECRUITINGRONIN_CLAIM,Come back daily for more <color=#fff568>Recruiting Ronin</color> progress!
+ID_OF_DE_RECRUITINGRONIN_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Recruiting Ronin</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_MOCKINGBIRD_FCO_OFFER,Stave Savant
 ID_OF_DE_MOCKINGBIRD_FCO_OFFER,"Each <color=#fff568>Copycat Orb</color> contains <color=#fff568>up to 180 Mockingbird</color> shards. Support <color=#fff568>New Avenger</color> allies in War with Healing, Immunity, Ability Energy, and Speed!"
 ID_OF_NA_MOCKINGBIRD_WEB_SPECIAL_OFFER,Web Special: Mockingbird
@@ -4001,6 +4018,14 @@ ID_OF_STOREBAR_MOCKINGBIRD,Dual Offer: Mockingbird
 ID_OF_NA_DUAL_MOCKINGBIRD,Dual Offer: Mockingbird
 ID_OF_DE_DUAL_MOCKINGBIRD,Choose your path to power up this <color=#fff568>New Avenger</color>!
 ID_OF_DE_DUAL_UNLOCK_MOCKINGBIRD,Unlock this <color=#fff568>New Avenger</color> and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_TOPPLETHETRIBUNAL_EVENTORB,Topple the Tribunal: Allied Supply Orbs
+ID_OF_NA_TOPPLETHETRIBUNAL_MEGA,Topple the Tribunal: Mega Bundle
+ID_OF_NA_TOPPLETHETRIBUNAL_INTERSTITIAL,Topple the Tribunal: Star Struck Bundle
+ID_OF_NA_TOPPLETHETRIBUNAL_FREECLAIM,Topple the Tribunal: Free Claim
+ID_OF_DE_TOPPLETHETRIBUNAL_EVENTORB,Get Allied Supply II orbs for <color=#fff568>Topple the Tribunal</color> progress and open them for a heap of resources and the brand new T2 L5 Ion Orb containing <color=#fff568>guaranteed</color> T2 L5 Ions!
+ID_OF_DE_TOPPLETHETRIBUNAL_MEGA,Rally your allies and smash through the <color=#fff568>Topple the Tribunal</color> Milestone and get high value Training Modules and Red Star rewards!
+ID_OF_DE_TOPPLETHETRIBUNAL_INTERSTITIAL,Stock up on Allied Supply II Orbs for extra progress in the <color=#fff568>Topple the Tribunal Milestone</color>!
+ID_OF_DE_TOPPLETHETRIBUNAL_FREECLAIM,Come back daily for more <color=#fff568>Topple the Tribunal</color> progress!
 ID_OF_NA_ALPHA5_WEBWARRIORS_RSDRAFT,Alpha Warriors
 ID_OF_NA_ALPHA5_WEBWARRIORS_TEAL,Unique Arachnids
 ID_OF_NA_ALPHA5_AXMEN_RSDRAFT,Astonishing Power
