@@ -8593,10 +8593,6 @@ ID_GACHA_CRATE_DIVINATION_NAME,Divination Orb
 ID_GACHA_CRATE_DIVINATION_DESCRIPTION,Contains Ions and Training Modules
 ID_GACHA_CRATE_DIVINATION_TOKEN_NAME,Divination Orb Fragments
 ID_GACHA_CRATE_DIVINATION_TOKEN_DESCRIPTION,"Collect Fragments for orbs containing Training Modules, T2 Level 1 & 4 Ions, and progress in the Strange Divination: Ronin Milestone"
-ID_GACHA_CRATE_ALPHAELITE_NAME,Alpha Elite Orb
-ID_GACHA_CRATE_ALPHAELITE_DESCRIPTION,"Contains character shards, T2 Ions and Teal Catalysts!"
-ID_GACHA_CRATE_ALPHAELITE_TOKEN_NAME,Alpha Elite Orb Fragments
-ID_GACHA_CRATE_ALPHAELITE_TOKEN_DESCRIPTION,Collect Alpha Elite Orb Fragments in Alpha Raids V.
 ID_GACHA_CRATE_EVENTT2L5_NAME,T2 Level 5 Ion Orb
 ID_GACHA_CRATE_EVENTT2L5_DESCRIPTION,Contains T2 Level 5 Ions
 ID_GACHA_CRATE_EVENTT2L5_TOKEN_NAME,T2 Level 5 Ion Orb Fragments
