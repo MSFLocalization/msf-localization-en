@@ -4028,6 +4028,37 @@ ID_OF_DE_TOPPLETHETRIBUNAL_EVENTORB,Get Allied Supply II orbs for <color=#fff568
 ID_OF_DE_TOPPLETHETRIBUNAL_MEGA,Rally your allies and smash through the <color=#fff568>Topple the Tribunal</color> Milestone and get high value Training Modules and Red Star rewards!
 ID_OF_DE_TOPPLETHETRIBUNAL_INTERSTITIAL,Stock up on Allied Supply II Orbs for extra progress in the <color=#fff568>Topple the Tribunal Milestone</color>!
 ID_OF_DE_TOPPLETHETRIBUNAL_FREECLAIM,Come back daily for more <color=#fff568>Topple the Tribunal</color> progress!
+ID_OF_NA_BLACKCATORB_EARLYBIRD,Black Cat Orb Sneak Peak
+ID_OF_NA_BLACKCATORB_BUNDLE,Black Cat Orb Bundle
+ID_OF_NA_BLACKCATORB_6PAK,Black Cat Orb Party Pack
+ID_OF_NA_BLACKCATORB_SINGLE,Black Cat Orb
+ID_OF_DE_BLACKCATORB_SINGLE,"Defend your city and <color=#fff568>{var1}%</color> with this offer. Each Orb has a chance to grant <color=#fff568>100 shards</color> of the Legendary Secret Defender herself, <color=#fff568>Black Cat!</color>"
+ID_OF_DE_BLACKCATORB_BUNDLES,"Get Black Cat to the next Star Level with this bundle! Get <color=#fff568>{var1}%</color> off when you purchase these <color=#fff568>{var2}</color> Black Cat Orbs! Each Orb has a chance to grant <color=#fff568>100 shards</color> of the Legendary Secret Defender herself, <color=#fff568>Black Cat!</color>"
+ID_OF_DE_BLACKCATORB_EARLYBIRD,"Get the biggest discount on <color=#fff568>1 Black Cat Orb</color> with this offer! Each <color=#fff568>Black Cat Orb</color> has a chance to grant <color=#fff568>100 shards</color> of the Legendary Secret Defender herself, <color=#fff568>Black Cat!</color>"
+ID_OF_NA_STRANGEDIVINATIONMOCKINGBIRD_STARTER_MEGA,Strange Divination Mega Starter
+ID_OF_NA_STRANGEDIVINATIONMOCKINGBIRD_STARTER_SUPER,Strange Divination Super Starter
+ID_OF_NA_STRANGEDIVINATIONMOCKINGBIRD_STARTER,Strange Divination Starter Bundle
+ID_OF_NA_STRANGEDIVINATIONMOCKINGBIRD_DAILY_POINTS,Strange Divination Daily Points Bundle
+ID_OF_NA_STRANGEDIVINATIONMOCKINGBIRD_POINTS_BOOSTER,Strange Divination Web Special
+ID_OF_NA_STRANGEDIVINATIONMOCKINGBIRD_CATCHUP_MEGA,Strange Divination Catch-Up Bundle
+ID_OF_NA_STRANGEDIVINATIONMOCKINGBIRD_CATCHUP_SUPER,Strange Divination Catch-Up Bundle
+ID_OF_NA_STRANGEDIVINATIONMOCKINGBIRD_CATCHUP,Strange Divination Super Catch-Up
+ID_OF_NA_STRANGEDIVINATIONMOCKINGBIRD_CATCHUP_LAST_CHANCE,Strange Divination Catch-Up Bundle
+ID_OF_NA_STRANGEDIVINATIONMOCKINGBIRD_DAILY_EVENT_ORB,Daily Conjuration Orb Bundle
+ID_OF_NA_STRANGEDIVINATIONMOCKINGBIRD_DAILY_BLITZ,Daily Divination Blitz
+ID_OF_NA_STRANGEDIVINATIONMOCKINGBIRD_DAILY_CLAIM,Daily Divination Daily Gift
+ID_OF_NA_STRANGEDIVINATIONMOCKINGBIRD_INTERSTITIAL,Daily Divination Web Special
+ID_OF_DE_STRANGEDIVINATIONMOCKINGBIRD_STARTER_MEGA,Get ahead in the <color=#fff568>Strange Divination: Mockingbird</color> Milestone and fast-forward your way to <color=#fff568>Elite 7 Credits</color>!
+ID_OF_DE_STRANGEDIVINATIONMOCKINGBIRD_STARTER,Start off strong in the <color=#fff568>Strange Divination: Mockingbird</color> milestone!
+ID_OF_DE_STRANGEDIVINATIONMOCKINGBIRD_DAILY_POINTS,Make consistent <color=#fff568>Strange Divination: Mockingbird</color> progress with this daily milestone points supply!
+ID_OF_DE_STRANGEDIVINATIONMOCKINGBIRD_POINTS_BOOSTER,Become a Secret Defender and boost your <color=#fff568>Strange Divination: Mockingbird Milestone</color> progress!
+ID_OF_DE_STRANGEDIVINATIONMOCKINGBIRD_CATCHUP_MEGA,Finish strong in the milestones for <color=#fff568>Elite 7 Credits</color> and <color=#fff568>Gear Tier 18 Mini Uniques</color>!
+ID_OF_DE_STRANGEDIVINATIONMOCKINGBIRD_CATCHUP,Finish strong in the milestones for <color=#fff568>Elite 7 Credits</color> and <color=#fff568>Gear Tier 18 Mini Uniques</color>!
+ID_OF_DE_STRANGEDIVINATIONMOCKINGBIRD_CATCHUP_LAST_CHANCE,Complete your final Strange Divination: Mockingbird milestones before it's too late!
+ID_OF_DE_STRANGEDIVINATIONMOCKINGBIRD_DAILY_EVENT_ORB,Stock up on <color=#fff568>Iso-8 Ions</color> and <color=#fff568>Strange Divination: Mockingbird</color> progress with this special deal!
+ID_OF_DE_STRANGEDIVINATIONMOCKINGBIRD_DAILY_BLITZ,Supercharge your fight and earn more <color=#fff568>Strange Divination: Mockingbird</color> progress in Blitz!
+ID_OF_DE_STRANGEDIVINATIONMOCKINGBIRD_DAILY_CLAIM,Come back daily for more <color=#fff568>Strange Divination: Mockingbird</color> progress!
+ID_OF_DE_STRANGEDIVINATIONMOCKINGBIRD_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Strange Divination: Mockingbird</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_FALL_THORIW_RS_GOLD,Fall Celebration - Red Thunder
 ID_OF_NA_FALL_LOKITEEN_RS_TRAINING,Fall Celebration - Mischievous Power
 ID_OF_NA_FALL_COSMO_A18_DPC,Fall Celebration - Space Armory
@@ -4044,3 +4075,45 @@ ID_OF_DE_FALL_MOCKINGBIRD_RS,Amp up the power of your top teams with these <colo
 ID_OF_DE_FALL_RONIN_GOLD,The ultimate treasure trove of Gold is ready for you! Take advantage of this extraordinary deal now!
 ID_OF_DE_FALL_TEALCATS_BETARAY,Upgrade your <color=#3366cc>Bifrost</color> team with this premium bundle of <color=#3366cc>Augmented Catalysts</color> and <color=#3366cc>Beta Ray Bill shards</color>!
 ID_OF_DE_FALL_TEALCATS_VAHL,Upgrade your <color=#3366cc>Bifrost</color> team with this premium bundle of <color=#3366cc>Augmented Catalysts</color> and <color=#3366cc>Vahl shards</color>!
+ID_OF_NA_RECRUITINGMOCKINGBIRD_SUPERIOR_STARTER,Recruiting Mockingbird Superior Starter
+ID_OF_NA_RECRUITINGMOCKINGBIRD_BIG_STARTER,Recruiting Mockingbird Big Starter
+ID_OF_NA_RECRUITINGMOCKINGBIRD_STARTER,Recruiting Mockingbird Starter Bundle
+ID_OF_NA_RECRUITINGMOCKINGBIRD_CATCHUP_MEGA,Recruiting Mockingbird Mega Bundle
+ID_OF_NA_RECRUITINGMOCKINGBIRD_CATCHUP,Recruiting Mockingbird Catch-Up Bundle
+ID_OF_NA_RECRUITINGMOCKINGBIRD_CATCHUP_LAST_CHANCE,Last Chance Recruitment Catch-Up
+ID_OF_NA_RECRUITINGMOCKINGBIRD_DAILY_POINTS,Daily Recruitment Points Bundle
+ID_OF_NA_RECRUITINGMOCKINGBIRD_DAILY_WAR,Daily Recruitment Battle Bundle
+ID_OF_NA_RECRUITINGMOCKINGBIRD_DAILY_EVENT_CUR,Daily Mystical Energy
+ID_OF_NA_RECRUITINGMOCKINGBIRD_DAILY_ENERGY,Daily Campaign Energy
+ID_OF_NA_RECRUITINGMOCKINGBIRD_WEB_POINTS,Recruiting Mockingbird Web Special
+ID_OF_NA_RECRUITINGMOCKINGBIRD_CLAIM,Recruiting Mockingbird Daily Gift
+ID_OF_NA_RECRUITINGMOCKINGBIRD_INTERSTITIAL,Recruiting Mockingbird Web Special
+ID_OF_DE_RECRUITINGMOCKINGBIRD_SUPERIOR_STARTER,Get ahead in the <color=#fff568>Recruiting Mockingbird</color> Milestone and one-up the competition in the leaderboard for a chance at a <color=#fff568>7-Red Star Black Cat</color> and <color=#fff568>Gear Tier 18 Mini-Uniques</color>!
+ID_OF_DE_RECRUITINGMOCKINGBIRD_STARTER,Start off strong in the <color=#fff568>Recruiting Mockingbird</color> Milestone!
+ID_OF_DE_RECRUITINGMOCKINGBIRD_CATCHUP_MEGA,Finish strong in the <color=#fff568>Recruiting Mockingbird</color> Milestone and climb the leaderboard for a chance at a <color=#fff568>7-Red Star Black Cat</color> and <color=#fff568>Gear Tier 18 Mini-Uniques</color>!
+ID_OF_DE_RECRUITINGMOCKINGBIRD_CATCHUP,Complete the <color=#fff568>Recruiting Mockingbird</color> Milestone for Teal Skill gear and Elite 7 Credits!
+ID_OF_DE_RECRUITINGMOCKINGBIRD_CATCHUP_LAST_CHANCE,Complete your final <color=#fff568>Recruiting Mockingbird</color> milestones before it's too late!
+ID_OF_DE_RECRUITINGMOCKINGBIRD_DAILY_POINTS,Make consistent <color=#fff568>Recruiting Mockingbird</color> progress with this daily milestone points supply!
+ID_OF_DE_RECRUITINGMOCKINGBIRD_DAILY_WAR,Battle through the <color=#fff568>Recruiting Mockingbird Milestone</color>!
+ID_OF_DE_RECRUITINGMOCKINGBIRD_DAILY_EVENT_CUR,Spend Mystical Energies in the Event Store and progress in the <color=#fff568>Recruiting Mockingbird</color> Milestone for double the value!
+ID_OF_DE_RECRUITINGMOCKINGBIRD_DAILY_ENERGY,Conjure this coveted Campaign Energy and harness the <color=#fff568>Mystical Energies</color> found across the Campaign!
+ID_OF_DE_RECRUITINGMOCKINGBIRD_WEB_POINTS,Become a New Avenger and boost your <color=#fff568>Recruiting Ronin Milestone</color> progress!
+ID_OF_DE_RECRUITINGMOCKINGBIRD_CLAIM,Come back daily for more <color=#fff568>Recruiting Ronin</color> progress!
+ID_OF_DE_RECRUITINGMOCKINGBIRD_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Recruiting Ronin</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_ALCHEMICAL_ASSAULT_MEGA_STARTER,Alchemical Assault Mega Starter
+ID_OF_NA_ALCHEMICAL_ASSAULT_STARTER,Alchemical Assault Starter Bundle
+ID_OF_NA_ALCHEMICAL_ASSAULT_MEGA_CATCHUP,Alchemical Assault Mega Catch-Up
+ID_OF_NA_ALCHEMICAL_ASSAULT_CATCHUP,Alchemical Assault Catch-Up Bundle
+ID_OF_NA_ALCHEMICAL_ASSAULT_ISO_ENERGY,Alchemical Assault Daily Booster
+ID_OF_NA_ALCHEMICAL_ASSAULT_EVENT_ORB,Daily Allied Supply II Orb Bundle
+ID_OF_NA_ALCHEMICAL_ASSAULT_INTERSTITIAL,Alchemical Assault Web Special
+ID_OF_NA_ALCHEMICAL_ASSAULT_FREE,Daily Allied Supply
+ID_OF_DE_ALCHEMICAL_ASSAULT_MEGA_STARTER,Rally your allies for accelerated <color=#fff568>Alchemical Assault</color> Milestone progress and get high value Iso-8 rewards!
+ID_OF_DE_ALCHEMICAL_ASSAULT_STARTER,Get a head start in the <color=#fff568>Alchemical Assault</color> Milestone and get high value Iso-8 rewards!
+ID_OF_DE_ALCHEMICAL_ASSAULT_CATCHUP,Push your alliance to the finish line in <color=#fff568>Alchemical Assault</color> Milestone progress and get T2 Level 4 Ions and the brand new T2 Level 5 Ion Orb!
+ID_OF_DE_ALCHEMICAL_ASSAULT_ISO_ENERGY,Stock up on Iso-8 Campaign Energy to push your Alliance forward in the <color=#fff568>Alchemical Assault</color> milestone!
+ID_OF_DE_ALCHEMICAL_ASSAULT_EVENT_ORB,Get Allied Supply II Orbs for <color=#fff568>Alchemical Assault</color> progress and open them for a heap of resources and T2 L5 Orbs!
+ID_OF_DE_ALCHEMICAL_ASSAULT_INTERSTITIAL,Get Allied Supply II Orbs for <color=#fff568>Alchemical Assault</color> progress and open them for a heap of resources and T2 L5 Orbs!
+ID_OF_DE_ALCHEMICAL_ASSAULT_FREE,Get Allied Supply II Orbs for <color=#fff568>Alchemical Assault</color> progress and open them for a heap of resources and T2 L5 Orbs!
+ID_OF_NA_ARCHANGEL_FIRSTAPPEARANCE_ORBS,Archangel Anniversary Orbs
+ID_OF_DE_ARCHANGEL_FIRSTAPPEARANCE_ORBS,On this day in Marvel: Warren Worthington III was transformed from Angel to Archangel in the pages of X-Factor back in 1987.

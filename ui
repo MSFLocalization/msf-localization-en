@@ -72,6 +72,7 @@ ID_CAMPAIGN_TYPE_GLOBAL_HARD,NEXUS HARD MODE
 ID_CAMPAIGN_TYPE_COSMIC_HARD,COSMIC HARD MODE
 ID_CAMPAIGN_TYPE_MYSTIC_HARD,MYSTIC HARD MODE
 ID_CAMPAIGN_TYPE_DOOM_HARD,DOOM HARD MODE
+ID_CAMPAIGN_TYPE_INCURSION,INCURSION
 ID_CAPPED_MILESTONES_LIMIT,Limit: {curr}/{cap}
 ID_CAPPED_MILESTONES_UNLIMITED,Unlimited
 ID_CHALLENGES_ACCESS,You have unlocked Challenges!
@@ -252,6 +253,8 @@ ID_GAMEMODE_CAMPAIGN_UNAVAILABLE,Campaign Unavailable
 ID_GAMEMODE_CAMPAIGN_VILLAINS_HARD_DESC,"Revisit Villains United!\n\nGather a strong team of VILLAINS and face revised missions with stronger foes. deadlier bosses. and all-new rewards!\n\nRecommended: Level 75, 7-Star, Gear 10+"
 ID_GAMEMODE_CAMPAIGN_VILLAINS_DESC,Assemble a team of VILLAINS to unite everyone against Ultimus.
 ID_GAMEMODE_CAMPAIGN_VILLAINS_NAME,Villains United
+ID_GAMEMODE_CAMPAIGN_INCURSION_NAME,Incursion
+ID_GAMEMODE_CAMPAIGN_INCURSION_DESC,Colliding realities and a sinister cabal threaten to destroy the universe.\n\nGather powerful characters with RED STARS and face this mysterious new threat.
 ID_GAMEMODE_CAMPAIGNS,Campaigns
 ID_GAMEMODE_CHALLENGES,Challenges
 ID_GAMEMODE_DAILYMISSIONS,Daily Objectives
@@ -670,6 +673,7 @@ ID_UI_CURRENT_RANK_LABEL,CURRENT RANK
 ID_UI_DAILY_LOGIN,DAILY LOGIN
 ID_UI_DAILY_REWARDS,DAILY REWARDS
 ID_UI_DAILYMISSIONS,DAILY OBJECTIVES
+ID_UI_DND_RETURN_TO_ROSTER,BACK TO ROSTER
 ID_UI_DOES_NOT_MEET_CLAIM_CONDITION_DESC,You do not meet the requirements to claim this free offer.
 ID_UI_DOES_NOT_MEET_CLAIM_CONDITION_HEAD,Unable to claim
 ID_UI_FEATURED_CHAMPION,FEATURED CHARACTER
@@ -691,6 +695,9 @@ ID_UI_GEAR,GEAR
 ID_UI_GET_ORBS,GET HEROES
 ID_UI_UNKNOWN," Unknown"
 ID_UI_BEST_OFFER,BEST ONE-TIME OFFER!
+ID_UI_TIME_HEIST_CLAIM_TITLE,Claim Your Time Heist
+ID_UI_TIME_HEIST_CLAIM_BODY,You have purchased a Time Heist offer. Please go to your inbox to claim and activate your rewards.
+ID_UI_TIME_HEIST_CLAIM_BUTTON,GO TO INBOX
 ID_UI_TIME_HEIST_INFO_LABEL,Offer Details
 ID_UI_TIME_HEIST_OFFER_DEAL,BEST ONE-TIME OFFER
 ID_UI_TIME_HEIST_OFFER_PROGRESS_UPDATE,PROGRESS UPDATE!
@@ -980,9 +987,15 @@ ID_EVENT_CAMPAIGN_TIER_UNLOCKED,UNLOCKED
 ID_EVENT_CAMPAIGN_AUTOWIN_TIER_1,Clear a mission to\n<b><color=#ffffff>AUTO WIN</color></b> it on <color=#fff568>{tier0}</color>
 ID_EVENT_CAMPAIGN_AUTOWIN_TIER_2,Clear a mission to <b><color=#ffffff>AUTO WIN</color></b>\nit on <color=#fff568>{tier0}/{tier1}</color>
 ID_EVENT_CAMPAIGN_AUTOWIN_TIER_3,Clear a mission to\n<b><color=#ffffff>AUTO WIN</color></b> it on <color=#fff568>{tier0}</color>
+ID_EVENT_CAMPAIGN_AUTOWIN_NUMTIERS_1,Clear a mission to\n<b><color=#ffffff>AUTO WIN</color></b> it on <color=#fff568>{tier0}</color>
+ID_EVENT_CAMPAIGN_AUTOWIN_NUMTIERS_2,Clear a mission to <b><color=#ffffff>AUTO WIN</color></b>\nit on <color=#fff568>{tier0}/{tier1}</color>
+ID_EVENT_CAMPAIGN_AUTOWIN_NUMTIERS_3,Clear a mission to <b><color=#ffffff>AUTO WIN</color></b>\nit on <color=#fff568>{tier0}/{tier1}/{tier2}</color>
 ID_EVENT_CAMPAIGN_AUTOWIN_COLORIZED_VICTORY_1,<b><color=#0E86FFFF>AUTO WIN</color></b> unlocked for this mission on <color=#FFEA00FF>{tier0}</color>
 ID_EVENT_CAMPAIGN_AUTOWIN_COLORIZED_VICTORY_2,<b><color=#0E86FFFF>AUTO WIN</color></b> unlocked for this mission on <color=#FFEA00FF>{tier0}</color> and <color=#FFEA00FF>{tier1}</color>
 ID_EVENT_CAMPAIGN_AUTOWIN_COLORIZED_VICTORY_3,<b><color=#0E86FFFF>AUTO WIN</color></b> unlocked for this mission on <color=#FFEA00FF>{tier0}</color> and <color=#FFEA00FF>{tier1}</color>
+ID_EVENT_CAMPAIGN_AUTOWIN_COLORIZED_VICTORY_NUMTIERS_1,<b><color=#0E86FFFF>AUTO WIN</color></b> unlocked for this mission on <color=#FFEA00FF>{tier0}</color>
+ID_EVENT_CAMPAIGN_AUTOWIN_COLORIZED_VICTORY_NUMTIERS_2,<b><color=#0E86FFFF>AUTO WIN</color></b> unlocked for this mission on <color=#FFEA00FF>{tier0}</color> and <color=#FFEA00FF>{tier1}</color>
+ID_EVENT_CAMPAIGN_AUTOWIN_COLORIZED_VICTORY_NUMTIERS_3,"<b><color=#0E86FFFF>AUTO WIN</color></b> unlocked for this mission on <color=#FFEA00FF>{tier0}</color>, <color=#FFEA00FF>{tier1}</color> and <color=#FFEA00FF>{tier2}</color>"
 ID_EVENT_CAMPAIGN_TYPE_ANTMAN,ANT-MAN
 ID_EVENT_CAMPAIGN_TYPE_WASP,WASP
 ID_BONUS_REWARD_QUANTITY_LEFT,<size=45><i>{qty}</i></size>\n<size=40>left</size>
@@ -1164,6 +1177,7 @@ ID_UI_EQUIPPED,EQUIPPED
 ID_UI_UNEQUIPPABLE,UNEQUIPPABLE
 ID_UI_UNAVAILABLE,UNAVAILABLE
 ID_UI_PURCHASE_SKIN_DESC,Would you like to purchase this Costume?
+ID_UI_MORE_AMOUNT,+{amount}\nMORE!
 ID_UI_LONG_LOCKED_DESC_ARENA,Earn Power Cores and Arena Credits by battling other Commanders' teams and climbing the Arena Ranks.
 ID_UI_LONG_LOCKED_DESC_CHALLENGES,Stock up on vital resources by defeating escalating daily challenges that test your roster and your skill. Come back daily to collect your rewards!
 ID_UI_LONG_LOCKED_DESC_MILESTONES,"Earn resources by spending Energy, Gold, and playing the game with your alliance. Look out for limited-time events with boosted rewards and unique items."
@@ -1181,6 +1195,10 @@ ID_UI_FACEBOOK_URL,https://app.adjust.net.in/4g6r1fq_h58hbge?redirect=https%3A%2
 ID_UI_YOUTUBE_URL,https://app.adjust.net.in/tyi2n81_3l2rshy?redirect=https%3A%2F%2Fwww.youtube.com%2Fmarvelstrikeforce
 ID_UI_INSTAGRAM_URL,https://app.adjust.net.in/9jqpfwu_6dt81yp?redirect=https%3A%2F%2Fwww.instagram.com%2Fmarvelstrikeforce%2F
 ID_UI_DISCORD_URL,https://app.adjust.net.in/mfgo61o_w7d6dio?label=discord&redirect=https%3A%2F%2Fdiscord.gg%2Fmarvelstrikeforce
+ID_UI_MSF_WEB_BUTTON,TAKE ME THERE
+ID_UI_MSF_WEB_TITLE,Join the Web Experience
+ID_UI_MSF_WEB_DESC,"- Iso-8 and T4 Ability Guides\n- Blog Updates\n- Alliance, raid, and roster tools"
+ID_UI_MSF_WEB_URL,https://www.marvelstrikeforce.com?source=device&content=inbox_community
 ID_EVENT_CURRENCY_UNLOCK_MESSAGE,The Event Store is currently locked
 ID_UI_WATCH,WATCH
 ID_UI_ENTERNOW,ENTER NOW
@@ -1352,3 +1370,11 @@ ID_FRAME_MYSTICARTS_UNLOCK,Via the Secret Sorcery Event
 ID_WAR_ATTEMPTBONUS_TITLE,ATTEMPT BONUS
 ID_WAR_ATTEMPTBONUS_VALUE,<b><size=55><color=#fff798>{score}</color></size></b> of {max} PTS
 ID_WAR_ATTEMPTBONUS_VALUE_SMALL,<b><size=35><color=#f7951d>+{score}</color></size></b> PTS
+ID_BOOKMARKS,BOOKMARKS
+ID_BOOKMARKS_MODAL_TITLE,BOOKMARKED ITEMS
+ID_BOOKMARKS_MAXED,BOOKMARKS MAXED
+ID_BOOKMARKS_MAXED_DESC,All of your bookmark slots have been filled. Please remove items from the list to add new ones.
+ID_BOOKMARKS_INVALID_ITEM,INVALID ITEM
+ID_BOOKMARKS_NO_BOOKMARKS,No bookmarks added
+ID_REDEEM_GIFT,REDEEM GIFT
+ID_LOGIN_TO_REDEEM_GIFT,"To claim your NEW PLAYER GIFT, you need a Scopely account"

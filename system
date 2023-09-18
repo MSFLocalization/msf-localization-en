@@ -562,9 +562,7 @@ ID_UI_ONLY_DIAMONDS_SPADES,ONLY <color=#fff568>DIAMONDS</color> AND <color=#fff5
 ID_UI_ONLY_HEARTS_CLUBS,ONLY <color=#fff568>HEARTS</color> AND <color=#fff568>CLUBS</color> CHARACTERS
 ID_UI_ONLY_GALACTIC_WARRIORS,ONLY <color=#fff568>GALACTIC WARRIOR</color> CHARACTERS
 ID_UI_ONLY_VIGILANT,ONLY <color=#fff568>VIGILANT</color> CHARACTERS
-ID_UI_ONLY_WW,ONLY <color=#fff568>WEB-WARRIOR</color> CHARACTERS
-ID_UI_ONLY_AXM,ONLY <color=#fff568>ASTONISHING X-MEN</color> CHARACTERS
-ID_UI_ONLY_AXM_WW,ONLY <color=#fff568>ASTONISHING X-MEN</color> or <color=#fff568>WEB-WARRIOR</color> CHARACTERS
+ID_REQUIRES_TRAITS_KREE_SV_GOTG_INF,"REQUIRES: <color=#fff568>KREE</color>, <color=#fff568>SPIDER-VERSE</color>, <color=#fff568>GUARDIANS</color>, or <color=#fff568>INFESTATION</color>"
 ID_REQUIRES_TRAITS_HEARTS,ONLY <color=#fff568>HEARTS</color> CHARACTERS
 ID_REQUIRES_TRAITS_DIAMONDS,ONLY <color=#fff568>DIAMONDS</color> CHARACTERS
 ID_REQUIRES_TRAITS_SPADES,ONLY <color=#fff568>SPADES</color> CHARACTERS
@@ -672,7 +670,7 @@ ID_SUGGESTED_LEVEL_72,FOR <color=#fff568>LEVEL 72+</color>
 ID_SUGGESTED_LEVEL_73,FOR <color=#fff568>LEVEL 73+</color>
 ID_SUGGESTED_LEVEL_74,FOR <color=#fff568>LEVEL 74+</color>
 ID_SUGGESTED_LEVEL_75,FOR <color=#fff568>LEVEL 75+</color>
-ID_MAINTENANCE_TOASTER_SCHEDULED,We will undergo maintenance starting at 12:00 PM (PDT) (9/18).
+ID_MAINTENANCE_TOASTER_SCHEDULED,We will undergo maintenance starting at 11AM (PST) (02/19).
 ID_MAINTENANCE_TOASTER_EMERGENCY,We will be undergoing emergency maintenance shortly.
 ID_MAINTENANCE_TOASTER_EVENT01,We will be undergoing maintenance shortly.
 ID_MAINTENANCE_TOASTER_EVENT02,Update available. Get the latest app version now.
@@ -1249,3 +1247,8 @@ ID_REQ_INCURSION10_DIF2,"5 <color=#fff568>BIFROST</color> CHARACTERS, Gear Tier 
 ID_REQ_INCURSION10_DIF3,"5 <color=#fff568>BIFROST</color> CHARACTERS, Gear Tier 15, 5 Stars"
 ID_UI_ONLY_ENERGIZED,ONLY <color=#fff568>ENERGIZED</color> CHARACTERS
 ID_REQUIRES_EC_ENERGIZED_5,5 <color=#fff568>ENERGIZED</color> Characters REQUIRED
+ID_REQUIRES_PEGASUS_REBIRTH,ONLY <color=#fff568>PEGASUS</color> or <color=#fff568>REBIRTH</color>
+ID_REQUIRES_PEGASUS_REBIRTH_GT13,ONLY <color=#fff568>PEGASUS</color> or <color=#fff568>REBIRTH</color> at Gear Tier 13
+ID_REQUIREMENT_INCURSION_CAMPAIGN_CH1,4 <color=#ff0000>RED</color> Stars
+ID_REQUIREMENT_INCURSION_CAMPAIGN_CH2,"5 <color=#ff0000>RED</color> Stars, <color=#fff568>BIO</color> or <color=#fff568>SKILL</color> Characters Only"
+ID_REQUIREMENT_INCURSION_CAMPAIGN_CH3,"6 <color=#ff0000>RED</color> Stars, <color=#fff568>BIO</color> or <color=#fff568>SKILL</color> Characters Only"

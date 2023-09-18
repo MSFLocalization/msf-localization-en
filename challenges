@@ -1028,6 +1028,17 @@ ID_EVENT_INCURSION10_DIF2_FLAVOR,Stop the Incursion!
 ID_EVENT_INCURSION10_DIF2_DESC,REQUIRED: Bifrost\n\n- Gear Tier 15
 ID_EVENT_INCURSION10_DIF3_FLAVOR,Earn Rare Rewards!
 ID_EVENT_INCURSION10_DIF3_DESC,REQUIRED: Bifrost\n\n- Gear Tier 15\n- 5-stars.\n\nThis tier is extremely difficult.
+ID_SEC_INCURSION11_NAME,Across Infinity
+ID_SEC_INCURSION11_DESC,Kestrel leads the heroes from Project Rebirth on a dangerous mission across multiple alternate realities to recruit for a new team in hopes of stopping further Incursions.
+ID_SEC_CHANCE_INCURSION11,Pegasus Showcase
+ID_EVENT_INCURSION11_DIF1_FLAVOR,Try Pegasus!
+ID_EVENT_INCURSION11_DIF1_DESC,"Experience the new hottest tech team, P.E.G.A.S.U.S.!\n\nBattle different enemy teams with a P.E.G.A.S.U.S. roster, including recreations of some battles found in DOOM and INCURSION raids!"
+ID_EVENT_INCURSION11_DIF2_FLAVOR,Stop the Incursion!
+ID_EVENT_INCURSION11_DIF2_DESC,REQUIRED: Rebirth
+ID_EVENT_INCURSION11_DIF3_FLAVOR,Earn Rare Rewards!
+ID_EVENT_INCURSION11_DIF3_DESC,REQUIRED: Rebirth or Pegasus
+ID_EVENT_INCURSION11_DIF4_FLAVOR,Earn Rare Rewards!
+ID_EVENT_INCURSION11_DIF4_DESC,REQUIRED: Rebirth or Pegasus\n\n- Gear Tier 13
 ID_TU_AM_WA_NAME,Back to Tiny World
 ID_TU_AM_WA_DESC,"After receiving a distress call from resistance forces, Ant-Man and Wasp must enter the tiny dimension to help liberate Earth from its overlords."
 ID_TU_AM_WA_CHANCE,Earn amazing rewards!
@@ -1954,3 +1965,12 @@ ID_INFO_BO_RECRUITINGRONIN,"Now that you've successfully powered Doctor Strange'
 ID_INFO_NA_TOPPLETHETRIBUNAL,Topple the Tribunal
 ID_INFO_DE_TOPPLETHETRIBUNAL,Training Modules and Secret Sorcery Progress!
 ID_INFO_BO_TOPPLETHETRIBUNAL,"Gain progress in this <color=#fff568>3-day</color> milestone by winning Cosmic Crucible battles with increased progress for using the Masters of Evil and earning Allied Supply Orb II fragments from limited time offers and daily Free Claims. Earn incredible rewards including <color=#fff568>L4 Training Modules, Elite Credits, and new T2L5 Iso-8 Orbs</color>. You'll also earn points towards the month-long Secret Sorcery milestone by collecting Tarot Cards."
+ID_INFO_NA_STRANGEDIVINATIONMOCKINGBIRD,Strange Divination: Mockingbird
+ID_INFO_DE_STRANGEDIVINATIONMOCKINGBIRD,Battle in Blitz for Big Rewards
+ID_INFO_BO_STRANGEDIVINATIONMOCKINGBIRD,"Doctor Strange needs your help to prepare a special divination spell capable of locating the next potential member of the New Avengers, Mockingbird. Thanks to the powers of the Eye of Agomotto, he's been able to accelerate Blitz, cutting the cooldown time on characters in half!\n\nBattle in Blitz (with bonuses for using the Horseman of Death, Archangel, Dark Beast, and Nemesis), spend Power Cores, and earn special <color=#fff568>Conjuration Orbs</color> found in limited time offers and the Complex Conjurations Web Milestone.\n\nComplete these tasks and the Sorcerer Supreme will see you rewarded with <color=#fff568>X-Men character shards, Elite 7 Credits, and a special new costume for Cyclops.</color> You'll also earn points for the month-long Secret Sorcery Event by collecting <color=#fff568> Tarot Cards and the Mockingbird Divination Spell.</color>"
+ID_INFO_NA_RECRUITINGMOCKINGBIRD,Recruiting Mockingbird
+ID_INFO_DE_RECRUITINGMOCKINGBIRD,A Legendary Leaderboard
+ID_INFO_BO_RECRUITINGMOCKINGBIRD,"With Mockingbird located, it's finally time to impress Agent 19 enough to become a New Avenger. Show what you're made of by completing Alliance War battles with bonuses for using the whole New Avenger crew. \n\nDoctor Strange's spectacular spellcasting throughout September has caused Mystical Energies to spring up throughout the Campaign. Collect enough of them and you'll be able to summon additional rewards in the Mystical Energy Shop.\n\nProgress through this mystical milestone and you'll be richly rewarded with <color=#fff568>Mockingbird character shards</color>, Elite 7 Credits, and points for the month-long Secret Sorcery Event via <color=#fff568> Tarot Cards and Mockingbird's Avengers Contract.</color>\n\nBut wait, there's more!\n\nClimb the ranks of the <color=#fff568>Recruiting Mockingbird</color> leaderboard and earn up to 7 Red Stars for the Secret Defenders' legendary brawler, <color=#fff568>Black Cat</color>!"
+ID_INFO_NA_ALCHEMICALASSAULT,Alchemical Assault
+ID_INFO_DE_ALCHEMICALASSAULT,Earn Iso-8 Ions and Secret Sorcery progress!
+ID_INFO_BO_ALCHEMICALASSAULT,"<color=#fff568>Alchemical Assault Milestone</color>\nGain progress in this <color=#fff568>5-day</color> event by spending Iso-8 Campaign Energy and earning Allied Supply II Orb Fragments from daily Free Claims and special offers. Earn incredible rewards including <color=#fff568>T2 Level 5 Ion Orbs, T2 Level 4 Ions, and T2 Level 1 Ions</color>. T2 Level 5 Ion Orbs contain up to 5,000,000 T2 Level 5 Ions! You'll also earn points towards the month-long Secret Sorcery milestone by collecting Tarot Cards."

@@ -4240,6 +4240,162 @@ ID_DIALOG_SCE_BIFROST_09_END_2,Strange has failed. But I have a new soul I wish 
 ID_DIALOG_SCE_BIFROST_09_END_3,Speak the name and I will act.
 ID_DIALOG_SCE_BIFROST_09_END_4,"No, for now... observe. I want to know everything about the one called…"
 ID_DIALOG_SCE_BIFROST_09_END_5,Vahl.
+ID_DIALOG_SCE_PEGASUS_01_INTRO_0,"Good to work with you again, Commander. I trust you remember Captain Carter and her team?"
+ID_DIALOG_SCE_PEGASUS_01_INTRO_1,Commander. Ma'am.
+ID_DIALOG_SCE_PEGASUS_01_INTRO_2,The Asgardians have dealt a crippling blow to the enemy group known as the Aphelions and taken out a variant of Stephen Strange.
+ID_DIALOG_SCE_PEGASUS_01_INTRO_3,"That means the work he was doing to accelerate the Incursion has stopped, but the event itself hasn't."
+ID_DIALOG_SCE_PEGASUS_01_INTRO_4,"However, we have a plan for that. Together with Captain Carter and her team, we're going to recruit for a new initiative."
+ID_DIALOG_SCE_PEGASUS_01_INTRO_5,"It's called Project P.E.G.A.S.U.S. Everything will make sense soon enough. But for now, we need to head to New York and recruit our first member."
+ID_DIALOG_SCE_PEGASUS_01_START_0,"Rescue, come in. This is S.T.R.I.K.E calling Rescue, over."
+ID_DIALOG_SCE_PEGASUS_01_START_1,I'm a bit busy here at the moment.
+ID_DIALOG_SCE_PEGASUS_01_START_2,"Commander, let's lend the lady a hand, shall we?"
+ID_DIALOG_SCE_PEGASUS_01_MID_0,"Didn't think you could take me yourself, Pepper?"
+ID_DIALOG_SCE_PEGASUS_01_MID_1,That's enough out of you.
+ID_DIALOG_SCE_PEGASUS_01_END_0,Thanks for the assist...?
+ID_DIALOG_SCE_PEGASUS_01_END_1,"The name's Carter, Captain Carter."
+ID_DIALOG_SCE_PEGASUS_01_END_2,"The Captain here is a ""variant"" from another reality, Rescue. Much like the War Machine you just defeated."
+ID_DIALOG_SCE_PEGASUS_01_END_3,"But unlike him, she isn't one of Ultimus' leftovers."
+ID_DIALOG_SCE_PEGASUS_01_END_4,"And now that he's out of the way, I have a proposition I'd like to discuss with you."
+ID_DIALOG_SCE_PEGASUS_01_END_5,I'm listening…
+ID_DIALOG_SCE_PEGASUS_02_INTRO_0,"Colliding realities, Incursions, this is a lot to take in."
+ID_DIALOG_SCE_PEGASUS_02_INTRO_1,I know. It's serious stuff. But you see now why I need your help?
+ID_DIALOG_SCE_PEGASUS_02_INTRO_2,"I get the gravity of the situation. But it sounds more like you need Tony, not me."
+ID_DIALOG_SCE_PEGASUS_02_INTRO_3,"In a manner of speaking, yes. I'm recruiting for a new team called P.E.G.A.S.U.S. Specific individuals from across the multiverse…"
+ID_DIALOG_SCE_PEGASUS_02_INTRO_4,People with a certain skillset and talent. We're going to build a device to stabilize reality.
+ID_DIALOG_SCE_PEGASUS_02_INTRO_5,"And our first recruit is Tony Stark, or I should say, ""A"" Tony Stark."
+ID_DIALOG_SCE_PEGASUS_02_START_0,"Dimensional coordinates locked in. Welcome to what remains of Earth-468625, team."
+ID_DIALOG_SCE_PEGASUS_02_START_1,Be on the lookout for...
+ID_DIALOG_SCE_PEGASUS_02_START_2,More invaders? We had a deal. But it looks like your Baron needs to be taught a little lesson.
+ID_DIALOG_SCE_PEGASUS_02_MID_0,"Tony, stop this!"
+ID_DIALOG_SCE_PEGASUS_02_MID_1,"Pepper? That's low. Whoever your Baron is, they should know that sending you is only going to piss me off."
+ID_DIALOG_SCE_PEGASUS_02_MID_2,"Stark, stop this, this isn't what you think!"
+ID_DIALOG_SCE_PEGASUS_02_MID_3,"Yeah, heard that one before."
+ID_DIALOG_SCE_PEGASUS_02_END_0,Okay... you got me…
+ID_DIALOG_SCE_PEGASUS_02_END_1,"We're not your enemy, Stark. We're not from this place. We're from another reality, true, but we're friends."
+ID_DIALOG_SCE_PEGASUS_02_END_2,"I'm Kestrel, and I represent an organization dedicated to defending my world from the same sort of things that happened to yours."
+ID_DIALOG_SCE_PEGASUS_02_END_3,"And if you'll just let me talk, I'll explain everything."
+ID_DIALOG_SCE_PEGASUS_02_END_4,...
+ID_DIALOG_SCE_PEGASUS_02_END_5,"Tony, I don't know what happened to you or your world, but you can trust her."
+ID_DIALOG_SCE_PEGASUS_03_INTRO_0,"Okay, start talking."
+ID_DIALOG_SCE_PEGASUS_03_INTRO_1,"So you're the world that finally defeated Ultimus, eh? I'm glad to hear someone put him down."
+ID_DIALOG_SCE_PEGASUS_03_INTRO_2,But that doesn't explain what you want with me.
+ID_DIALOG_SCE_PEGASUS_03_INTRO_3,After we defeated Ultimus we started combing through his data in his flagship. We learned a lot.
+ID_DIALOG_SCE_PEGASUS_03_INTRO_4,"His tech formed the basis for my suit, among other things. And we also uncovered designs for something called the Equilibrium Cascade."
+ID_DIALOG_SCE_PEGASUS_03_INTRO_5,A device that can stabilize any universe its activated in and even halt Incursions.
+ID_DIALOG_SCE_PEGASUS_03_INTRO_6,And we need your help to build it.
+ID_DIALOG_SCE_PEGASUS_03_START_0,"And this ""Equilibrium Cascade"" can save your reality? What about mine? I'm not from this place either, you know."
+ID_DIALOG_SCE_PEGASUS_03_START_1,"One minute Thanos is dropping a moon on me, and the next thing I know I'm here fighting for my life in the Baron Wars."
+ID_DIALOG_SCE_PEGASUS_03_START_2,"Your reality was already colliding with another. But if you help me, I'll help you find your world again. I promise."
+ID_DIALOG_SCE_PEGASUS_03_START_3,"Sister, you got yourself a deal."
+ID_DIALOG_SCE_PEGASUS_03_END_0,"Glad to have you onboard, Iron Man."
+ID_DIALOG_SCE_PEGASUS_03_END_1,"You know, you look like someone my dad had a picture of in his office, Captain."
+ID_DIALOG_SCE_PEGASUS_03_END_2,"In my world, Howard is a good friend. I'm glad to see his son keeps his spirit alive."
+ID_DIALOG_SCE_PEGASUS_03_END_3,Yeah.
+ID_DIALOG_SCE_PEGASUS_03_END_4,Something like that.
+ID_DIALOG_SCE_PEGASUS_04_INTRO_0,All three of the recruits we're looking for are somewhere in this broken amalgamated reality.
+ID_DIALOG_SCE_PEGASUS_04_INTRO_1,"According to scans, the next one isn't too far now."
+ID_DIALOG_SCE_PEGASUS_04_INTRO_2,Why don't we just use your fancy suit to go there directly?
+ID_DIALOG_SCE_PEGASUS_04_INTRO_3,"Whatever this fractured reality is, my suit can only operate in pockets of it."
+ID_DIALOG_SCE_PEGASUS_04_INTRO_4,It's like a soup of hundreds of different realities all merged together. I can't lock onto any specific energy when immersed in it.
+ID_DIALOG_SCE_PEGASUS_04_INTRO_5,This just keeps getting better.
+ID_DIALOG_SCE_PEGASUS_04_START_0,"Is this what will happen to our world, Kestrel?"
+ID_DIALOG_SCE_PEGASUS_04_START_1,"I don't know. Ultimus left a lot of destruction in his wake. In universes where he couldn't win, he would deploy his ultimate weapon."
+ID_DIALOG_SCE_PEGASUS_04_START_2,"It was called the ""Entropy Cascade"" and it would do the opposite of what we're trying to do."
+ID_DIALOG_SCE_PEGASUS_04_START_3,It would consume all the energy in the universe tearing holes in the fabric of reality. Nothing could survive.
+ID_DIALOG_SCE_PEGASUS_04_START_4,"But sometimes, things would fall through those tears first. It seems like this is where they'd end up."
+ID_DIALOG_SCE_PEGASUS_04_END_0,So this place is just the remnants of countless universes Ultimus destroyed?
+ID_DIALOG_SCE_PEGASUS_04_END_1,Basically.
+ID_DIALOG_SCE_PEGASUS_04_END_2,Can we do anything for them?
+ID_DIALOG_SCE_PEGASUS_04_END_3,"Right now we need to stay focused on our reality, Captain. After that we can turn our attention elsewhere."
+ID_DIALOG_SCE_PEGASUS_05_INTRO_0,"Our next recruit is nearby. He's called ""Darkhawk""."
+ID_DIALOG_SCE_PEGASUS_05_INTRO_1,"He operates, or IS an android of Shi'ar origin that can manipulate mystical energy."
+ID_DIALOG_SCE_PEGASUS_05_INTRO_2,"This ability is key to the goals of Project P.E.G.A.S.U.S. and operating the Equilibrium Cascade, once we build it."
+ID_DIALOG_SCE_PEGASUS_05_INTRO_3,Is it a bird shaped android?
+ID_DIALOG_SCE_PEGASUS_05_INTRO_4,Only one way to find out.
+ID_DIALOG_SCE_PEGASUS_05_START_0,"Time's up, Darkhawk. Where's the amulet? The Baron's run out of patience."
+ID_DIALOG_SCE_PEGASUS_05_START_1,What a pity.
+ID_DIALOG_SCE_PEGASUS_05_START_2,Looks like you could use a hand.
+ID_DIALOG_SCE_PEGASUS_05_MID_0,And you are?
+ID_DIALOG_SCE_PEGASUS_05_MID_1,"Helping you, so maybe ask questions later?"
+ID_DIALOG_SCE_PEGASUS_05_MID_2,Fair enough!
+ID_DIALOG_SCE_PEGASUS_05_END_0,"Thanks for the help, who are you?"
+ID_DIALOG_SCE_PEGASUS_05_END_1,"I'm Kestrel, this is Captain Carter and her team. "
+ID_DIALOG_SCE_PEGASUS_05_END_2,The name's Iron Man.
+ID_DIALOG_SCE_PEGASUS_05_END_3,I'm Rescue.
+ID_DIALOG_SCE_PEGASUS_05_END_4,"We're here to make you an offer, Mr...?"
+ID_DIALOG_SCE_PEGASUS_05_END_5,Darkhawk will do for now.
+ID_DIALOG_SCE_PEGASUS_06_INTRO_0,And you want ME to join this little team of yours?
+ID_DIALOG_SCE_PEGASUS_06_INTRO_1,"Precisely. "
+ID_DIALOG_SCE_PEGASUS_06_INTRO_2,"Why, exactly?"
+ID_DIALOG_SCE_PEGASUS_06_INTRO_3,The Equilibrium Cascade needs a unique kind of power source. That's all I can say for now.
+ID_DIALOG_SCE_PEGASUS_06_INTRO_4,"I see... I think I know what you're alluding to, but this isn't a safe place to talk. I'll tag along for now. Where to?"
+ID_DIALOG_SCE_PEGASUS_06_START_0,Why do you keep looking at me like that?
+ID_DIALOG_SCE_PEGASUS_06_START_1,"You don't know me, do you?"
+ID_DIALOG_SCE_PEGASUS_06_START_2,Should I?
+ID_DIALOG_SCE_PEGASUS_06_START_3,"Where I'm from, we have a history. I find it hard to believe you work on the side of good in your world."
+ID_DIALOG_SCE_PEGASUS_06_START_4,"[THIS ONE IS ANNOYING, FLASH. CAN I EAT HIM? I HAVE NEVER EATEN ANDROID.]"
+ID_DIALOG_SCE_PEGASUS_06_START_5,No! No eating!
+ID_DIALOG_SCE_PEGASUS_06_START_6,What was that?
+ID_DIALOG_SCE_PEGASUS_06_START_7,"Uh, nothing."
+ID_DIALOG_SCE_PEGASUS_06_END_0,"The parasite speaks in your mind, doesn't it?"
+ID_DIALOG_SCE_PEGASUS_06_END_1,"[I AM HUNGRY, FLASH. FIND FOOD. OOH, IS THAT A CAT? I LOVE CAT! MOVE CLOSER I WANT TO EAT THE CAT.]"
+ID_DIALOG_SCE_PEGASUS_06_END_2,"Uh, you could say that."
+ID_DIALOG_SCE_PEGASUS_06_END_3,"[FLASH, I DEMAND YOU MOVE CLOSE ENOUGH FOR ME TO CONSUME THAT CAT.]"
+ID_DIALOG_SCE_PEGASUS_06_END_4,What is it saying?
+ID_DIALOG_SCE_PEGASUS_06_END_5,[I WANT CAT. I WANT CAT NOW!]
+ID_DIALOG_SCE_PEGASUS_06_END_6,"He, uh, likes cats."
+ID_DIALOG_SCE_PEGASUS_06_END_7,That's... unexpected.
+ID_DIALOG_SCE_PEGASUS_07_INTRO_0,We need to be careful here. This area is the territory of a Baron I've crossed before...
+ID_DIALOG_SCE_PEGASUS_07_INTRO_1,Well what do we have here? Looks like this time the bounty came to me.
+ID_DIALOG_SCE_PEGASUS_07_END_0,They're... regenerating?
+ID_DIALOG_SCE_PEGASUS_07_END_1,That's kind of his thing. Move fast. He won't chase us outside his territory.
+ID_DIALOG_SCE_PEGASUS_08_INTRO_0,"Whose the final recruit, Kestrel?"
+ID_DIALOG_SCE_PEGASUS_08_INTRO_1,"She goes by ""Ironheart"". A genius and someone who knows vibranium like almost nobody else."
+ID_DIALOG_SCE_PEGASUS_08_INTRO_2,Riri? I know her in our world. Is this one different?
+ID_DIALOG_SCE_PEGASUS_08_INTRO_3,Yes. This one has skills and knowledge ours doesn't. In her reality Tony Stark and Princess Shuri died.
+ID_DIALOG_SCE_PEGASUS_08_INTRO_4,"This Riri Williams stepped up and helped fight Ultimus, forcing him to destroy her universe. She has... unique skills we need."
+ID_DIALOG_SCE_PEGASUS_08_START_0,Ms. Williams? My name is --
+ID_DIALOG_SCE_PEGASUS_08_START_1,"Kestrel. Yeah, I know. Took you long enough! Get ready. I set the beacon like five minutes ago, they'll be here any second."
+ID_DIALOG_SCE_PEGASUS_08_START_2,What?!
+ID_DIALOG_SCE_PEGASUS_08_START_3,TARGET IDENTIFIED. ENGAGE.
+ID_DIALOG_SCE_PEGASUS_08_END_0,I'm confused. Do you mind filling us in?
+ID_DIALOG_SCE_PEGASUS_08_END_1,"Yeah, I knew you were coming. I got this entire region under observation."
+ID_DIALOG_SCE_PEGASUS_08_END_2,Heard everything you've been saying too.
+ID_DIALOG_SCE_PEGASUS_08_END_3,Does that mean you'll help us?
+ID_DIALOG_SCE_PEGASUS_08_END_4,"Why do you think I'm putting up a flare for these tin cans? You wanna leave this place, you're going to need some vibranium."
+ID_DIALOG_SCE_PEGASUS_08_END_5,"Well, more like I'M gonna need some. But you can help collect."
+ID_DIALOG_SCE_PEGASUS_09_INTRO_0,"So, here's the deal. You want to use your suit to leave, and don't want to backtrack to where you first appeared, right?"
+ID_DIALOG_SCE_PEGASUS_09_INTRO_1,"That would be nice, yes."
+ID_DIALOG_SCE_PEGASUS_09_INTRO_2,"Okay, so we need vibranium; a lot of it. I can use it to, like you said, stir the soup a bit. Bring the flavor to the top for a bit."
+ID_DIALOG_SCE_PEGASUS_09_INTRO_3,"And in this analogy, flavor is?"
+ID_DIALOG_SCE_PEGASUS_09_INTRO_4,"Temporary Quantum Coherence leading to Momentary Dimensional Stability. Try to keep up, girl."
+ID_DIALOG_SCE_PEGASUS_09_INTRO_5,Right.
+ID_DIALOG_SCE_PEGASUS_09_MID_0,"So, we're collecting scraps of vibranium from the Ultron bots to build a Quantum Resonator?"
+ID_DIALOG_SCE_PEGASUS_09_MID_1,Nice to see at least one of y'all has a working brain. Guess I shouldn't be surprised it's you.
+ID_DIALOG_SCE_PEGASUS_09_MID_2,Nice kid.
+ID_DIALOG_SCE_PEGASUS_09_END_0,You know this would just go a lot faster if we took out the big kahuna himself. His whole body is made out of vibranium.
+ID_DIALOG_SCE_PEGASUS_09_END_1,"What do you think we're doing, genius? He ain't going to come by himself unless we're a threat he has to deal with personally."
+ID_DIALOG_SCE_PEGASUS_09_END_2,We don't qualify as a threat?
+ID_DIALOG_SCE_PEGASUS_09_END_3,"You really don't know the first thing about this place, do you?"
+ID_DIALOG_SCE_PEGASUS_10_INTRO_0,A few more bots scrapped and the big bot himself will be coming. Get ready.
+ID_DIALOG_SCE_PEGASUS_10_INTRO_1,And then what?
+ID_DIALOG_SCE_PEGASUS_10_INTRO_2,We return to my world and the real work starts.
+ID_DIALOG_SCE_PEGASUS_10_INTRO_3,"The ""Project P.E.G.A.S.U.S."" you were talking about?"
+ID_DIALOG_SCE_PEGASUS_10_INTRO_4,That's the one.
+ID_DIALOG_SCE_PEGASUS_10_INTRO_5,You S.H.I.E.L.D. types sure do love your acronyms.
+ID_DIALOG_SCE_PEGASUS_10_START_0,THREAT LEVEL NINE TARGETS LOCATED. INITIATE PROTOCOL TAU.
+ID_DIALOG_SCE_PEGASUS_10_MID_0,THREAT LEVEL UPGRADED TO LEVEL 10. INITIATE OMEGA PROTOCOL.
+ID_DIALOG_SCE_PEGASUS_10_MID_1,This is it.
+ID_DIALOG_SCE_PEGASUS_10_MID_2,"Ahh, I was wondering who was playing with my toys. Riri Williams... and do my eyes deceive me?"
+ID_DIALOG_SCE_PEGASUS_10_MID_3,"Another Tony Stark? My, how I do love ending you. I never tire of it."
+ID_DIALOG_SCE_PEGASUS_10_MID_4,"Be careful what you wish for, Ultron. Where I come from, you're the one on my bookshelf."
+ID_DIALOG_SCE_PEGASUS_10_END_0,"Whew, worked up a sweat there. Give me an hour and I'll be ready. You'll have two or three minutes to work your suit."
+ID_DIALOG_SCE_PEGASUS_10_END_1,"That's enough time, right?"
+ID_DIALOG_SCE_PEGASUS_10_END_2,Plenty.
+ID_DIALOG_SCE_PEGASUS_10_END_3,Great.
+ID_DIALOG_SCE_PEGASUS_10_END_4,I can't believe we'll be free of this place.
+ID_DIALOG_SCE_PEGASUS_10_END_5,"Yeah, I'm looking forward to it."
+ID_DIALOG_SCE_PEGASUS_10_END_6,"Me too. Everyone, welcome to Project P.E.G.A.S.U.S."
 ID_DIALOG_ECM_ANTMAN_01_INTRO_0,"Ant-Man, S.T.R.I.K.E. needs your help."
 ID_DIALOG_ECM_ANTMAN_01_INTRO_1,"Wow, me? Seriously? What do you need me to steal?"
 ID_DIALOG_ECM_ANTMAN_01_INTRO_2,Nothing. We need a different set of skills this time around.

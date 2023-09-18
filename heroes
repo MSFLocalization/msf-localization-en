@@ -219,8 +219,12 @@ ID_SHARD_IRONFISTORSON_NAME,Iron Fist (WWII)
 ID_SHARD_IRONFISTORSON_DESCRIPTION,Orson Randall uses his Chi to heal allies and empower his guns to fight the AXIS in WWII.
 ID_SHARD_IRONHEART_NAME,Ironheart
 ID_SHARD_IRONHEART_DESCRIPTION,Ironheart is a teen super-genius who hinders enemies while enhancing Power Armor and Tech allies.
+ID_SHARD_IRONHEARTMCU_NAME,Ironheart (MKII)
+ID_SHARD_IRONHEARTMCU_DESCRIPTION,"An MIT student and engineering prodigy, Riri Williams creates openings with Status Effects and keeps her enemies squirming by prolonging them."
 ID_SHARD_IRONMAN_NAME,Iron Man
 ID_SHARD_IRONMAN_DESCRIPTION,A versatile damage dealer with high armor and low health.
+ID_SHARD_IRONMANINFINITYWAR_NAME,Iron Man (Infinity War)
+ID_SHARD_IRONMANINFINITYWAR_DESCRIPTION,"Determined to save the Earth and those he loves, Tony Stark pulls out all the stops, granting positive Status Effects to his allies and dealing blows to those that would harm them."
 ID_SHARD_ZOMBIEIRONMAN_NAME,Iron Man (Zombie)
 ID_SHARD_ZOMBIEIRONMAN_DESCRIPTION,"After being infected with a mysterious zombifying virus, Tony Stark became a shadow of his former self who sates his hunger for flesh by inflicting Bleed on his enemies."
 ID_SHARD_JANETHOR_NAME,Mighty Thor
@@ -231,6 +235,8 @@ ID_SHARD_JUBILEE_NAME,Jubilee
 ID_SHARD_JUBILEE_DESCRIPTION,"Half mallrat, half fireworks factory, Jubilee uses her explosive plasmoid powers to blind dweebs while her allies totally strike."
 ID_SHARD_JUGGERNAUT_NAME,Juggernaut
 ID_SHARD_JUGGERNAUT_DESCRIPTION,An unstoppable tank who taunts his foes and charges for devastating damage.
+ID_SHARD_ZOMBIEJUGGERNAUT_NAME,Juggernaut (Zombie)
+ID_SHARD_ZOMBIEJUGGERNAUT_DESCRIPTION,"Still empowered by the Crimson Gem of Cyttorak while infected with the zombie virus, Cain Marko became an unstoppable, undead Juggernaut capable of dealing massive damage to his enemies."
 ID_SHARD_KAMALAKHAN_NAME,Ms. Marvel (Hard Light)
 ID_SHARD_KAMALAKHAN_DESCRIPTION,The teen hero Kamala Khan uses her Hard Light to barrier her allies and divert enemies' attention by taunting them.
 ID_SHARD_KANGTHECONQUEROR_NAME,Kang the Conqueror
@@ -359,6 +365,8 @@ ID_SHARD_OMEGARED_NAME,Omega Red
 ID_SHARD_OMEGARED_DESCRIPTION,"Omega Red uses his Mutant Death Aura to apply the Trauma status to foes, preventing their negative effects from being removed or flipped."
 ID_SHARD_PHOENIX_NAME,Phoenix
 ID_SHARD_PHOENIX_DESCRIPTION,"Jean Grey absorbs her enemies negative status effects, being reborn as Dark Phoenix if she falls in battle."
+ID_SHARD_DARKHAWK_NAME,Darkhawk
+ID_SHARD_DARKHAWK_DESCRIPTION,"After finding an alien amulet, Chris Powell joins the fight as the android Darkhawk, generating energy for his allies and slowing his enemies."
 ID_SHARD_DARKPHOENIX_NAME,Dark Phoenix
 ID_SHARD_DARKPHOENIX_DESCRIPTION,"Risen from the ashes, the Dark Phoenix unleashes a torrent of cosmic fire on her enemies."
 ID_SHARD_PHOTON_NAME,Photon
@@ -525,8 +533,6 @@ ID_SHARD_TASKMASTER_NAME,Taskmaster
 ID_SHARD_TASKMASTER_DESCRIPTION,"A master of combat mimicry, Taskmaster uses his skill to steal positive effects from enemies."
 ID_SHARD_TCHALLA_NAME,Star-Lord (T'Challa)
 ID_SHARD_TCHALLA_DESCRIPTION,"Star-Lord (T'Challa) is the idealistic Ravager outlaw who uses gadgets, charm, and fancy footwork to embolden his allies, take power from the powerful, and stylishly defeat those who threaten his friends."
-ID_SHARD_TESTCHARACTERC_NAME,Test Character C
-ID_SHARD_TESTCHARACTERC_DESCRIPTION,"The leader of Test Character Prime's personal guard, Test Character C boosts her fellow Test Characters and deals out destructive blows to her opponents with her sword, Testfang."
 ID_SHARD_THANOS_NAME,Thanos
 ID_SHARD_THANOS_DESCRIPTION,A Titan Eternal who delivers crushing blows that drain his foes and taunt his enemies.
 ID_SHARD_THING_NAME,The Thing
@@ -535,10 +541,12 @@ ID_SHARD_THOR_NAME,Thor
 ID_SHARD_THOR_DESCRIPTION,The God of Thunder who deals great damage and weakens multiple foes.
 ID_SHARD_THORNPC_NAME,Thor
 ID_SHARD_THORNPC_DESCRIPTION,The God of Thunder who deals great damage and weakens multiple foes.
+ID_SHARD_TIGRA_NAME,Tigra
+ID_SHARD_TIGRA_DESCRIPTION,"Protector of the Cat People, Tigra ferociously defends her allies and uses her razor-sharp claws to rend her opponents."
 ID_SHARD_TITANIA_NAME,Titania
+ID_SHARD_TITANIA_DESCRIPTION,"Social media maven, bombshell brawler, and Master of Evil, Titania is quick with a block - whether it's Ability Block, Heal Block, or online."
 ID_SHARD_THOR_INFINITYWAR_NAME,Thor (Infinity War)
 ID_SHARD_THOR_INFINITYWAR_DESCRIPTION,"Thor, the God of Thunder, wields Stormbreaker to face cosmic threats, dealing heavy damage and breaking down enemy Protectors."
-ID_SHARD_TITANIA_DESCRIPTION,"Social media maven, bombshell brawler, and Master of Evil, Titania is quick with a block - whether it's Ability Block, Heal Block, or online."
 ID_SHARD_TOAD_NAME,Toad
 ID_SHARD_TOAD_DESCRIPTION,"A sniveling sidekick, Toad manipulates enemy Status Effects while striking from behind his allies."
 ID_SHARD_ULTIMUS_NAME,Ultimus

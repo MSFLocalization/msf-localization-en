@@ -22,7 +22,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 12:00 PM (PDT) (9/18).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PDT) (04/25).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -480,9 +480,11 @@ ID_MOTD_DE_CYCLOPS,Battle for a chance to win Cyclops shards
 ID_MOTD_NA_DAGGER,Light of Hope: Now Live!
 ID_MOTD_DE_DAGGER,Battle for a chance to win Dagger shards
 ID_MOTD_NA_DAREDEVIL,Man Without Fear: Now Live!
-ID_MOTD_DE_DAREDEVIL,Battle for a chance to win DAREDEVIL shards
+ID_MOTD_DE_DAREDEVIL,Battle for a chance to win Daredevil shards
 ID_MOTD_NA_DARKBEAST,Dark Doctor: Now Live!
 ID_MOTD_DE_DARKBEAST,Battle for a chance to win Dark Beast shards
+ID_MOTD_NA_DARKHAWK,Edgelord: Now Live!
+ID_MOTD_DE_DARKHAWK,Battle for a chance to win Darkhawk shards
 ID_MOTD_NA_DAZZLER,Razzle Dazzle: Now Live!
 ID_MOTD_DE_DAZZLER,Battle for a chance to win Dazzler shards
 ID_MOTD_NA_DEADPOOL,Merc with a Mouth: Now Live!
@@ -563,10 +565,16 @@ ID_MOTD_NA_IRONFISTORSON,Immortal Bullet: Now Live!
 ID_MOTD_DE_IRONFISTORSON,Battle for a chance to win Iron Fist (WWII) shards
 ID_MOTD_NA_IRONHEART,Tech Prodigy: Now Live!
 ID_MOTD_DE_IRONHEART,Battle for a chance to win Ironheart shards
+ID_MOTD_NA_IRONHEARTMCU,Next in Line: Now Live!
+ID_MOTD_DE_IRONHEARTMCU,Battle for a chance to win Ironheart (MKII) shards
+ID_MOTD_NA_IRONMANINFINITYWAR,Timeline Protector: Now Live!
+ID_MOTD_DE_IRONMANINFINITYWAR,Battle for a chance to win Iron Man (Infinity War) shards
 ID_MOTD_NA_JESSICAJONES,Alias: Now Live!
 ID_MOTD_DE_JESSICAJONES,Battle for a chance to win JESSICA JONES shards
 ID_MOTD_NA_JUGGERNAUT,I'm the Juggernaut: Now Live!
 ID_MOTD_DE_JUGGERNAUT,Battle for a chance to win Juggernaut shards
+ID_MOTD_NA_ZOMBIEJUGGERNAUT,Deadhead: Now Live!
+ID_MOTD_DE_ZOMBIEJUGGERNAUT,Battle for a chance to win Juggernaut (Zombie) shards
 ID_MOTD_NA_KANGTHECONQUEROR,For All Time: Now Live!
 ID_MOTD_DE_KANGTHECONQUEROR,Battle for a chance to win Kang shards
 ID_MOTD_NA_KARNAK,The Shatterer: Now Live!
@@ -727,6 +735,8 @@ ID_MOTD_NA_SPIDERMAN,Web-Slinger: Now Live!
 ID_MOTD_DE_SPIDERMAN,Battle for a chance to win Spider-Man shards
 ID_MOTD_NA_SPIDERMAN2099,Future Byte: Now Live!
 ID_MOTD_DE_SPIDERMAN2099,Battle for a chance to win Spider-Man 2099 shards
+ID_MOTD_NA_BIGTIMESPIDERMAN,Spidey-Sense: Now Live!
+ID_MOTD_DE_BIGTIMESPIDERMAN,Battle for a chance to win Spider-Man (Big Time) shards
 ID_MOTD_NA_SPIDERMANNOIR,Monochromatic: Now Live!
 ID_MOTD_DE_SPIDERMANNOIR,Battle for a chance to win Spider-Man (Noir) shards
 ID_MOTD_NA_SPIDERPUNK,Rockin Arachnid: Now Live!
@@ -761,6 +771,8 @@ ID_MOTD_NA_THING,Clobberin' Time: Now Live!
 ID_MOTD_DE_THING,Battle for a chance to win The Thing shards
 ID_MOTD_NA_THOR,God of Thunder: Now Live!
 ID_MOTD_DE_THOR,Battle for a chance to win THOR shards
+ID_MOTD_NA_TIGRA,Fang and Claws: Now Live!
+ID_MOTD_DE_TIGRA,Battle for a chance to win Tigra shards
 ID_MOTD_NA_TITANIA,Glow-Up: Now Live!
 ID_MOTD_DE_TITANIA,Battle for a chance to win Titania shards
 ID_MOTD_NA_TOAD,Sticky Situation: Now Live!
@@ -2264,5 +2276,21 @@ ID_MOTD_NA_TOPPLETHETRIBUNAL_LIVE,Live: Topple the Tribunal
 ID_MOTD_DE_TOPPLETHETRIBUNAL_LIVE,Training Modules and Secret Sorcery Progress!
 ID_MOTD_NA_BATTLEPASS_SEASON4_ANNOUNCE,LIVE: Season 4 of Battle Pass
 ID_MOTD_DE_BATTLEPASS_SEASON4_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_STRANGEDIVINATIONMOCKINGBIRD_TEASER,Coming Soon: Strange Divination: Mockingbird
+ID_MOTD_DE_STRANGEDIVINATIONMOCKINGBIRD_TEASER,Set your sorcerous sights
+ID_MOTD_NA_STRANGEDIVINATIONMOCKINGBIRD_LIVE,Live: Strange Divination: Mockingbird
+ID_MOTD_DE_STRANGEDIVINATIONMOCKINGBIRD_LIVE,Battle in Blitz for Big Rewards
 ID_MOTD_NA_MSFDOTCOM_HOMEPAGE1,Visit MarvelStrikeForce.com!
 ID_MOTD_DE_MSFDOTCOM_HOMEPAGE1,"Connect your account and log in daily for rewards, updates, and more!"
+ID_MOTD_NA_RECRUITINGMOCKINGBIRD_TEASER,Coming Soon: Recruiting Mockingbird
+ID_MOTD_DE_RECRUITINGMOCKINGBIRD_TEASER,This Mockingbird don't sing
+ID_MOTD_NA_RECRUITINGMOCKINGBIRD_LIVE,Live: Recruiting Mockingbird
+ID_MOTD_DE_RECRUITINGMOCKINGBIRD_LIVE,A Legendary Leaderboard
+ID_MOTD_NA_SPECTACULARSPELLCASTING_LIVE,Live: Spectacular Spellcasting
+ID_MOTD_DE_SPECTACULARSPELLCASTING_LIVE,Battle in Raids and go to the web to redeem your rewards!
+ID_MOTD_NA_ALCHEMICALASSAULT_ANNOUNCE,LIVE: Alchemical Assault
+ID_MOTD_DE_ALCHEMICALASSAULT_ANNOUNCE,Get Iso-8 Ions and Secret Sorcery progress!
+ID_MOTD_NA_ALCHEMICALASSAULT_ENDING,Ending Soon: Alchemical Assault
+ID_MOTD_DE_ALCHEMICALASSAULT_ENDING,Get Iso-8 Ions and Secret Sorcery progress now!
+ID_MOTD_NA_ARCHANGELFIRSTAPPEARANCE_ANNOUNCE,On this day in Marvel
+ID_MOTD_DE_ARCHANGELFIRSTAPPEARANCE_ANNOUNCE,Archangel's first appearance in 1987!

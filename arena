@@ -419,6 +419,13 @@ ID_AR_MB_DARKBEAST,<color=#fff568>Dark Doctor Blitz</color>\nFace off against ot
 ID_AR_ES_DARKBEAST,ENDED: Dark Doctor Blitz
 ID_AR_EB_DARKBEAST,The Dark Doctor Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
 ID_AR_NA_DARKBEAST_CARD,Dark Doctor
+ID_AR_NA_DARKHAWK,Edgelord
+ID_AR_SM_DARKHAWK,Win Darkhawk Shards!
+ID_AR_LM_DARKHAWK,Face off against other players' teams to earn various milestone rewards and a chance to win Darkhawk shards!
+ID_AR_MT_DARKHAWK,LIVE: Edgelord Blitz
+ID_AR_MS_DARKHAWK,Your chance to win Darkhawk shards!
+ID_AR_MB_DARKHAWK,<color=#fff568>Edgelord Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Darkhawk shards!\n\n<color=#fff568>Edgelord Orb</color>\nRecruit Darkhawk now!
+ID_AR_NA_DARKHAWK_CARD,Edgelord
 ID_AR_NA_DAZZLER,Razzle Dazzle
 ID_AR_SM_DAZZLER,Win Dazzler Shards!
 ID_AR_LM_DAZZLER,Face off against other players' teams to earn various milestone rewards and a chance to win Dazzler shards!
@@ -686,6 +693,20 @@ ID_AR_MT_IRONHEART,LIVE: Tech Prodigy Blitz
 ID_AR_MS_IRONHEART,Your chance to win Ironheart shards!
 ID_AR_MB_IRONHEART,<color=#fff568>Tech Prodigy Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Ironheart shards! Recruit Ironheart now!
 ID_AR_NA_IRONHEART_CARD,Tech Prodigy
+ID_AR_NA_IRONHEARTMCU,Next in Line
+ID_AR_SM_IRONHEARTMCU,Win Ironheart (MKII) Shards!
+ID_AR_LM_IRONHEARTMCU,Face off against other players' teams to earn various milestone rewards and a chance to win Ironheart (MKII) shards!
+ID_AR_MT_IRONHEARTMCU,LIVE: Next in Line Blitz
+ID_AR_MS_IRONHEARTMCU,Your chance to win Ironheart (MKII) shards!
+ID_AR_MB_IRONHEARTMCU,<color=#fff568>Next in Line Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Ironheart (MKII) shards!\n\n<color=#fff568>Next in Line Orb</color>\nRecruit Ironheart (MKII) now!
+ID_AR_NA_IRONHEARTMCU_CARD,Next in Line
+ID_AR_NA_IRONMANINFINITYWAR,Timeline Protector
+ID_AR_SM_IRONMANINFINITYWAR,Win Iron Man (Infinity War) Shards!
+ID_AR_LM_IRONMANINFINITYWAR,Face off against other players' teams to earn various milestone rewards and a chance to win Iron Man (Infinity War) shards!
+ID_AR_MT_IRONMANINFINITYWAR,LIVE: Timeline Protector Blitz
+ID_AR_MS_IRONMANINFINITYWAR,Your chance to win Iron Man (Infinity War) shards!
+ID_AR_MB_IRONMANINFINITYWAR,<color=#fff568>Timeline Protector Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Iron Man (Infinity War) shards!\n\n<color=#fff568>Timeline Protector Orb</color>\nRecruit Iron Man (Infinity War) now!
+ID_AR_NA_IRONMANINFINITYWAR_CARD,Timeline Protector
 ID_AR_NA_JESSICAJONES,Alias
 ID_AR_SM_JESSICAJONES,Win Jessica Jones Shards!
 ID_AR_LM_JESSICAJONES,Face off against other players' teams to earn various milestone rewards and a chance to win JESSICA JONES shards!
@@ -700,6 +721,13 @@ ID_AR_MT_JUGGERNAUT,LIVE: I'm the Juggernaut Blitz
 ID_AR_MS_JUGGERNAUT,Your chance to win Juggernaut shards!
 ID_AR_MB_JUGGERNAUT,<color=#fff568>I'm the Juggernaut Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Juggernaut shards! Recruit Juggernaut now!
 ID_AR_NA_JUGGERNAUT_CARD,I'm the Juggernaut
+ID_AR_NA_ZOMBIEJUGGERNAUT,Deadhead
+ID_AR_SM_ZOMBIEJUGGERNAUT,Win Juggernaut (Zombie) Shards!
+ID_AR_LM_ZOMBIEJUGGERNAUT,Face off against other players' teams to earn various milestone rewards and a chance to win Juggernaut (Zombie) shards!
+ID_AR_MT_ZOMBIEJUGGERNAUT,LIVE: Deadhead Blitz
+ID_AR_MS_ZOMBIEJUGGERNAUT,Your chance to win Juggernaut (Zombie) shards!
+ID_AR_MB_ZOMBIEJUGGERNAUT,<color=#fff568>Deadhead Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Juggernaut (Zombie) shards!\n\n<color=#fff568>Deadhead Orb</color>\nRecruit Juggernaut (Zombie) now!
+ID_AR_NA_ZOMBIEJUGGERNAUT_CARD,Deadhead
 ID_AR_NA_KANGTHECONQUEROR,For All Time
 ID_AR_SM_KANGTHECONQUEROR,Win Kang Shards!
 ID_AR_LM_KANGTHECONQUEROR,Face off against other players' teams to earn various milestone rewards and a chance to win Kang shards!
@@ -1289,6 +1317,13 @@ ID_AR_MT_SPIDERMAN2099,LIVE: Future Byte Blitz
 ID_AR_MS_SPIDERMAN2099,Your chance to win Spider-Man 2099 shards!
 ID_AR_MB_SPIDERMAN2099,<color=#fff568>Future Byte Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Spider-Man 2099 shards! Recruit Spider-Man 2099 now!
 ID_AR_NA_SPIDERMAN2099_CARD,Future Byte
+ID_AR_NA_SPIDERMANBIGTIME,Spidey-Sense
+ID_AR_SM_SPIDERMANBIGTIME,Win Spider-Man (Big Time) Shards!
+ID_AR_LM_SPIDERMANBIGTIME,Face off against other players' teams to earn various milestone rewards and a chance to win Spider-Man (Big Time) shards!
+ID_AR_MT_SPIDERMANBIGTIME,LIVE: Spidey-Sense Blitz
+ID_AR_MS_SPIDERMANBIGTIME,Your chance to win Spider-Man (Big Time) shards!
+ID_AR_MB_SPIDERMANBIGTIME,<color=#fff568>Spidey-Sense Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Spider-Man (Big Time) shards!\n\n<color=#fff568>Spidey-Sense Orb</color>\nRecruit Spider-Man (Big Time) now!
+ID_AR_NA_SPIDERMANBIGTIME_CARD,Spidey-Sense
 ID_AR_NA_SPIDERMANNOIR,Monochromatic
 ID_AR_SM_SPIDERMANNOIR,Win Spider-Man (Noir) Shards!
 ID_AR_LM_SPIDERMANNOIR,Face off against other players' teams to earn various milestone rewards and a chance to win Spider-Man (Noir) shards!
@@ -1410,6 +1445,13 @@ ID_AR_MT_THOR,LIVE: God of Thunder Blitz
 ID_AR_MS_THOR,Your chance to win THOR shards.
 ID_AR_MB_THOR,<color=#fff568>God of Thunder Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Thor shards! Recruit Thor now!
 ID_AR_NA_THOR_CARD,God of Thunder
+ID_AR_NA_TIGRA,Fang and Claws
+ID_AR_SM_TIGRA,Win Tigra Shards!
+ID_AR_LM_TIGRA,Face off against other players' teams to earn various milestone rewards and a chance to win Tigra shards!
+ID_AR_MT_TIGRA,LIVE: Fang and Claws Blitz
+ID_AR_MS_TIGRA,Your chance to win Tigra shards!
+ID_AR_MB_TIGRA,<color=#fff568>Fang and Claws Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Tigra shards!\n\n<color=#fff568>Fang and Claws Orb</color>\nRecruit Tigra now!
+ID_AR_NA_TIGRA_CARD,Fang and Claws
 ID_AR_NA_TITANIA,Glow-Up
 ID_AR_SM_TITANIA,Win Titania Shards!
 ID_AR_LM_TITANIA,Face off against other players' teams to earn various milestone rewards and a chance to win Titania shards!

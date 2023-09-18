@@ -215,7 +215,7 @@ ID_RAIDS_GEN_02_C_DESC,Earn Character Shards
 ID_RAIDS_GEN_02_C_DETAILS,Recommendations:\n- Squad Lvl 60-65+\n- Gear Tier 10+\n- Ability Lvl 5+
 ID_RAIDS_ALPHA_RAIDS_NAME,Alpha Raid
 ID_RAIDS_ALPHA_RAIDS_DESC,Earn Character Shards
-ID_RAIDS_ALPHA_RAIDS_DETAILS,"Cooperate with your Alliance, take on Raid Missions, and win various rewards!\n\nRaid Keys needed:\nAlpha I: 14,000\nAlpha II: 14,200\nAlpha III: 14,400\nAlpha IV: 14,400\nAlpha V: 14,400"
+ID_RAIDS_ALPHA_RAIDS_DETAILS,"Cooperate with your Alliance, take on Raid Missions, and win various rewards!\n\nRaid Keys needed:\nAlpha I: 14,000\nAlpha II: 14,200\nAlpha III: 14,400\nAlpha IV: 14,400"
 ID_RAIDS_ALPHA_A_NAME,Alpha Raid I
 ID_RAIDS_ALPHA_A_DESC,Earn Character Shards
 ID_RAIDS_ALPHA_A_DETAILS,Recommendations:\n- Squad Lvl 35-50+\n- Gear Tier 6+\n- Ability Lvl 3+
@@ -228,9 +228,6 @@ ID_RAIDS_ALPHA_C_DETAILS,Recommendations:\n- Squad Lvl 60-65+\n- Gear Tier 10+\n
 ID_RAIDS_ALPHA_D_NAME,Alpha Raid IV
 ID_RAIDS_ALPHA_D_DESC,Earn Character Shards
 ID_RAIDS_ALPHA_D_DETAILS,Recommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n- Ability Lvl 5+\n- Red Stars 3+
-ID_RAIDS_ALPHA_E_NAME,Alpha Raid V
-ID_RAIDS_ALPHA_E_DESC,Earn Character Shards
-ID_RAIDS_ALPHA_E_DETAILS,Recommendations:\n- Squad Lvl 85+\n- Gear Tier 14+\n- Ability Lvl 5+\n- Red Stars 4+
 ID_RAIDS_BETA_RAIDS_NAME,Beta Raid
 ID_RAIDS_BETA_RAIDS_DESC,Earn Character Shards
 ID_RAIDS_BETA_RAIDS_DETAILS,"Cooperate with your Alliance, take on Raid Missions, and win various rewards!\n\nRaid Keys needed:\nBeta I: 14,000\nBeta II: 14,200\nBeta III: 14,400\nBeta IV: 14,400"
@@ -394,3 +391,5 @@ ID_RAID_AUTO_LAUNCH_EDIT,EDIT
 ID_RAIDS_STANDARD,STANDARD
 ID_RAIDS_GREEK,GREEK
 ID_RAID_AUTO_LAUNCH_TIME_DESCRIPTION,LAUNCHES DAILY LOCAL TIME
+ID_RAID_AUTO_LAUNCH_CONFIRMATION_HEADLINE,RAIDS AUTO-LAUNCH
+ID_RAID_AUTO_LAUNCH_CONFIRMATION_DESC,Save changes to Auto-Launch Schedule?

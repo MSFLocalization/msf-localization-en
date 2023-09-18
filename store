@@ -769,6 +769,10 @@ ID_OF_NA_JUGGERNAUT_ENERGY_OFFER_1,Unstoppable Energy Offer
 ID_OF_DE_JUGGERNAUT_ENERGY_OFFER_1,Save on <color=#fff568>Unstoppable Energy</color> with this offer! Play in the Unstoppable Campaign and recruit the Juggernaut!
 ID_OF_NA_MORB_JUGGERNAUT_1,Juggernaut Orb Fragment Offer
 ID_OF_DE_MORB_JUGGERNAUT_500,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>500 Juggernaut Orb Fragments</color> with this offer.
+ID_GACHA_CRATE_FCO_ZOMBIEJUGGERNAUT_SPECIAL_NAME,Deadhead Orb
+ID_GACHA_CRATE_FCO_ZOMBIEJUGGERNAUT_SPECIAL_DESCRIPTION,Earn up to 180 Juggernaut (Zombie) shards
+ID_GACHA_CRATE_FCO_ZOMBIEJUGGERNAUT_SPECIAL_TOKEN_NAME,Deadhead Orb Fragments
+ID_GACHA_CRATE_FCO_ZOMBIEJUGGERNAUT_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Deadhead Orbs that contain up to 180 Juggernaut (Zombie) shards.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_MINERVA_201902_NAME,Starforce Orb
 ID_GACHA_CRATE_EVENT_CAMPAIGN_MINERVA_201902_DESCRIPTION,Earn Starforce Orb Fragments in the Kree Commandos Event Campaign.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_MINERVA_201902_TOKEN_NAME,Starforce Orb Fragments
@@ -1780,6 +1784,10 @@ ID_GACHA_CRATE_FCO_DARKBEAST_SPECIAL_NAME,Dark Doctor Orb
 ID_GACHA_CRATE_FCO_DARKBEAST_SPECIAL_DESCRIPTION,Earn up to 180 Dark Beast shards
 ID_GACHA_CRATE_FCO_DARKBEAST_SPECIAL_TOKEN_NAME,Dark Doctor Orb Fragments
 ID_GACHA_CRATE_FCO_DARKBEAST_SPECIAL_TOKEN_DESCRIPTION,Collect Dark Doctor Orb Fragments to earn a Dark Doctor Orb.
+ID_GACHA_CRATE_FCO_DARKHAWK_SPECIAL_NAME,Edgelord Orb
+ID_GACHA_CRATE_FCO_DARKHAWK_SPECIAL_DESCRIPTION,Earn up to 180 Darkhawk shards
+ID_GACHA_CRATE_FCO_DARKHAWK_SPECIAL_TOKEN_NAME,Edgelord Orb Fragments
+ID_GACHA_CRATE_FCO_DARKHAWK_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Edgelord Orbs that contain up to 180 Darkhawk shards.
 ID_GACHA_CRATE_FCO_DARKSORCERERS_450HC_NAME,Dark Sorcerers Orb
 ID_GACHA_CRATE_FCO_DARKSORCERERS_450HC_DESCRIPTION,Get up to 145 character shards
 ID_GACHA_CRATE_FCO_DARKSORCERERS_450HC_TOKEN_NAME,Dark Sorcerers Orb Fragments
@@ -2317,6 +2325,14 @@ ID_OF_NA_IRONHEART_GOLD_OFFER_1,Ironheart: Gold
 ID_OF_DE_IRONHEART_GOLD_OFFER_50,Get this amazing bundle and level up Ironheart. Get over <color=#fff568>50%</color> off when you buy now!
 ID_OF_NA_IRONHEART_TRAINING_OFFER_1,Ironheart: Training
 ID_OF_DE_IRONHEART_TRAINING_OFFER_50,Get this amazing bundle and level up Ironheart. Get over <color=#fff568>50%</color> off when you buy now!
+ID_GACHA_CRATE_FCO_IRONHEARTMCU_SPECIAL_NAME,Next in Line Orb
+ID_GACHA_CRATE_FCO_IRONHEARTMCU_SPECIAL_DESCRIPTION,Earn up to 180 Ironheart (MKII) shards
+ID_GACHA_CRATE_FCO_IRONHEARTMCU_SPECIAL_TOKEN_NAME,Next in Line Orb Fragments
+ID_GACHA_CRATE_FCO_IRONHEARTMCU_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Next in Line Orbs that contain up to 180 Ironheart (MKII) shards.
+ID_GACHA_CRATE_FCO_IRONMANINFINITYWAR_SPECIAL_NAME,Timeline Protector Orb
+ID_GACHA_CRATE_FCO_IRONMANINFINITYWAR_SPECIAL_DESCRIPTION,Earn up to 180 Iron Man (Infinity War) shards
+ID_GACHA_CRATE_FCO_IRONMANINFINITYWAR_SPECIAL_TOKEN_NAME,Timeline Protector Orb Fragments
+ID_GACHA_CRATE_FCO_IRONMANINFINITYWAR_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Timeline Protector Orbs that contain up to 180 Iron Man (Infinity War) shards.
 ID_GACHA_CRATE_FCO_JESSICAJONES_SPECIAL_NAME,Alias Orb
 ID_GACHA_CRATE_FCO_JESSICAJONES_SPECIAL_DESCRIPTION,Get up to 180 Jessica Jones shards
 ID_GACHA_CRATE_FCO_JESSICAJONES_SPECIAL_TOKEN_NAME,Alias Orb Fragments
@@ -3531,6 +3547,10 @@ ID_OF_DE_SPIDERMAN_OFFER_75,Get this exclusive <color=#fff568>75 shard Spider-Ma
 ID_OF_DE_SPIDERMAN_OFFER_100,Get this exclusive <color=#fff568>100 shard Spider-Man</color> offer and save! Lower your opponents' defense and evade their attacks with this quick Brawler.
 ID_OF_DE_SPIDERMAN_OFFER_125,Get this exclusive <color=#fff568>125 shard Spider-Man</color> offer and save! Lower your opponents' defense and evade their attacks with this quick Brawler.
 ID_OF_DE_SPIDERMAN_OFFER_150,Get this exclusive <color=#fff568>150 shard Spider-Man</color> offer and save! Lower your opponents' defense and evade their attacks with this quick Brawler.
+ID_GACHA_CRATE_FCO_SPIDERMANBIGTIME_SPECIAL_NAME,Spidey-Sense Orb
+ID_GACHA_CRATE_FCO_SPIDERMANBIGTIME_SPECIAL_DESCRIPTION,Earn up to 180 Spider-Man (Big Time) shards
+ID_GACHA_CRATE_FCO_SPIDERMANBIGTIME_SPECIAL_TOKEN_NAME,Spidey-Sense Orb Fragments
+ID_GACHA_CRATE_FCO_SPIDERMANBIGTIME_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Spidey-Sense Orbs that contain up to 180 Spider-Man (Big Time) shards.
 ID_GACHA_CRATE_FCO_SPIDERMAN2099_SPECIAL_NAME,Future Byte Orb
 ID_GACHA_CRATE_FCO_SPIDERMAN2099_SPECIAL_DESCRIPTION,Earn up to 180 Spider-Man 2099 shards
 ID_GACHA_CRATE_FCO_SPIDERMAN2099_SPECIAL_TOKEN_NAME,Future Byte Orb Fragments
@@ -3773,6 +3793,10 @@ ID_OF_DE_THOR_OFFER_75,Upgrade your Blaster team with this Mystic Avenger. Get <
 ID_OF_DE_THOR_OFFER_125,Upgrade your Blaster team with this Mystic Avenger. Get <color=#fff568>125 Thor shards</color> and use his Hammer Throw to chain attack enemies and use his ultimate ability to stun enemies.
 ID_OF_DE_THOR_OFFER_150,Upgrade your Blaster team with this Mystic Avenger. Get <color=#fff568>150 Thor shards</color> and use his Hammer Throw to chain attack enemies and use his ultimate ability to stun enemies.
 ID_OF_DE_THOR_OFFER_VAR,Upgrade your Blaster team with this Mystic Avenger. Get <color=#fff568>{var1} Thor shards</color> and use his Hammer Throw to chain attack enemies and use his ultimate ability to stun enemies.
+ID_GACHA_CRATE_FCO_TIGRA_SPECIAL_NAME,Fang and Claws Orb
+ID_GACHA_CRATE_FCO_TIGRA_SPECIAL_DESCRIPTION,Earn up to 180 Tigra shards
+ID_GACHA_CRATE_FCO_TIGRA_SPECIAL_TOKEN_NAME,Fang and Claws Orb Fragments
+ID_GACHA_CRATE_FCO_TIGRA_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Fang and Claws Orbs that contain up to 180 Tigra shards.
 ID_GACHA_CRATE_FCO_TITANIA_SPECIAL_NAME,Glow-Up Orb
 ID_GACHA_CRATE_FCO_TITANIA_SPECIAL_DESCRIPTION,Earn up to 180 Titania shards
 ID_GACHA_CRATE_FCO_TITANIA_SPECIAL_TOKEN_NAME,Glow-Up Orb Fragments
@@ -8601,3 +8625,7 @@ ID_GACHA_CRATE_ALLIEDSUPPLYII_NAME,Allied Supply II Orb
 ID_GACHA_CRATE_ALLIEDSUPPLYII_DESCRIPTION,Score critical points for your Alliance
 ID_GACHA_CRATE_ALLIEDSUPPLYII_TOKEN_NAME,Allied Supply II Orb Fragments
 ID_GACHA_CRATE_ALLIEDSUPPLYII_TOKEN_DESCRIPTION,Open Allied Supply II Orbs to get T2 Level 5 Ion Orbs for guaranteed T2 Level 5 Ions and Alliance Event Progress. Earn them in limited offers!
+ID_GACHA_CRATE_CONJURATION_NAME,Conjuration Orb
+ID_GACHA_CRATE_CONJURATION_DESCRIPTION,Contains Training Modules and Iso-8 Ions
+ID_GACHA_CRATE_CONJURATION_TOKEN_NAME,Conjuration Orb Fragments
+ID_GACHA_CRATE_CONJURATION_TOKEN_DESCRIPTION,"Collect Fragments for orbs containing Training Modules, T2 Level 1 & 4 Ions, and progress in the Strange Divination: Mockingbird Milestone"

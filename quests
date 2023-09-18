@@ -3370,3 +3370,36 @@ ID_QU_S5_TOPPLETHETRIBUNAL,Win 1 Cosmic Crucible Battle w/ a Master of Evil at 7
 ID_QU_S6_TOPPLETHETRIBUNAL,Win 1 Cosmic Crucible Battle w/ Gwenpool
 ID_QU_S7_TOPPLETHETRIBUNAL,Win 1 Cosmic Crucible Battle w/ Gwenpool at 5+ Stars
 ID_QU_S8_TOPPLETHETRIBUNAL,Win 1 Cosmic Crucible Battle w/ Gwenpool at 7 Stars
+ID_QU_NA_STRANGEDIVINATIONMOCKINGBIRD,Strange Divination: Mockingbird
+ID_QU_SD_STRANGEDIVINATIONMOCKINGBIRD,"Earn Conjuration Orbs, battle in Blitz, and spend Power Cores"
+ID_QU_LM_STRANGEDIVINATIONMOCKINGBIRD,"Score points in this 4 day event by:\n\n-Battling in Blitz (with bonuses for using Archangel, Dark Beast, and Nemesis at 5+ and 7 stars)\n-Spending Power Cores\n-Earning Conjuration Orbs (found in the Complex Conjurations Web Milestone, special offers, and daily free claims on the Web)"
+ID_QU_SM_STRANGEDIVINATIONMOCKINGBIRD,"Earn Conjuration Orbs, battle in Blitz, and spend Power Cores"
+ID_QU_S1_STRANGEDIVINATIONMOCKINGBIRD,Play 1 Blitz Battle
+ID_QU_S2_STRANGEDIVINATIONMOCKINGBIRD,Play 1 Blitz Battle with Archangel at 5+ Stars
+ID_QU_S3_STRANGEDIVINATIONMOCKINGBIRD,Play 1 Blitz Battle with Archangel at 7 Stars
+ID_QU_S4_STRANGEDIVINATIONMOCKINGBIRD,Play 1 Blitz Battle with Dark Beast at 5+Stars
+ID_QU_S5_STRANGEDIVINATIONMOCKINGBIRD,Play 1 Blitz Battle with Dark Beast at 7 Stars
+ID_QU_S6_STRANGEDIVINATIONMOCKINGBIRD,Play 1 Blitz Battle with Nemesis at 5+Stars
+ID_QU_S7_STRANGEDIVINATIONMOCKINGBIRD,Play 1 Blitz Battle with Nemesis at 7 Stars
+ID_QU_S8_STRANGEDIVINATIONMOCKINGBIRD,Spend 1 Power Core
+ID_QU_S9_STRANGEDIVINATIONMOCKINGBIRD,Earn 1 Conjuration Orb Fragment
+ID_QU_LM_COMPLEXCONJURATIONS_2,"Earn Blitz Credits to complete a 4-day milestone that rewards Catalyst Parts, Tarot Cards, and Conjuration Orb Fragments."
+ID_QU_NA_RECRUITINGMOCKINGBIRD,Recruiting Mockingbird
+ID_QU_SD_RECRUITINGMOCKINGBIRD,Battle in War and spend Mystical Energies
+ID_QU_LM_RECRUITINGMOCKINGBIRD,Score points in this 7-day event by:\n\n-Battling in War (with bonuses for using the New Avengers)\n-Spending Mystical Energies (found on each Campaign Node)\n\nEarn more Mystical Energies by completing the daily Spectacular Spellcasting Web Milestone
+ID_QU_SM_RECRUITINGMOCKINGBIRD,Battle in War and spend Mystical Energy found in Campaign
+ID_QU_S1_RECRUITINGMOCKINGBIRD,Win/Lose 1 War Battle
+ID_QU_S2_RECRUITINGMOCKINGBIRD,Win/Lose 1 War Battle with a New Avenger
+ID_QU_S3_RECRUITINGMOCKINGBIRD,Win/Lose 1 War Battle with Tigra at 5+ Stars
+ID_QU_S4_RECRUITINGMOCKINGBIRD,Win/Lose 1 War Battle with Tigra at 7 Stars
+ID_QU_S5_RECRUITINGMOCKINGBIRD,Spend 1 Mystical Energy
+ID_QU_NA_SPECTACULARSPELLCASTING,Spectacular Spellcasting
+ID_QU_SD_SPECTACULARSPELLCASTING,Win or Lose Raid Battles
+ID_QU_SC_SPECTACULARSPELLCASTING,Earn Armory Orbs by Battling in Raids
+ID_QU_LM_SPECTACULARSPELLCASTING,"Win or Lose Raid battles to complete this daily milestone that rewards Armory Orbs, Tarot Cards, and Mystical Energies!"
+ID_QU_S1_SPECTACULARSPELLCASTING,Win or Lose 1 Raid Battle
+ID_QU_NA_ALCHEMICALASSAULT,Alchemical Assault
+ID_QU_SD_ALCHEMICALASSAULT,Spend Iso-8 Energy and Earn Allied Supply II Orbs
+ID_QU_LD_ALCHEMICALASSAULT,"Alchemical Assault Milestone\nGain progress in this 5-day event by spending Iso-8 Campaign Energy and earning Allied Supply II Orb Fragments from daily Free Claims and special offers. Earn incredible rewards including T2 Level 5 Ion Orbs, T2 Level 4 Ions, and T2 Level 1 Ions. T2 Level 5 Ion Orbs contain up to 5,000,000 T2 Level 5 Ions! You'll also earn points towards the month-long Secret Sorcery milestone by collecting Tarot Cards."
+ID_QU_S1_ALCHEMICALASSAULT,Spend 1 Iso-8 Campaign Energy
+ID_QU_S2_ALCHEMICALASSAULT,Earn 1 Allied Supply II Orb Fragment
