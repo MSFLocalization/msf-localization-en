@@ -4117,3 +4117,15 @@ ID_OF_DE_ALCHEMICAL_ASSAULT_INTERSTITIAL,Get Allied Supply II Orbs for <color=#f
 ID_OF_DE_ALCHEMICAL_ASSAULT_FREE,Get Allied Supply II Orbs for <color=#fff568>Alchemical Assault</color> progress and open them for a heap of resources and T2 L5 Orbs!
 ID_OF_NA_ARCHANGEL_FIRSTAPPEARANCE_ORBS,Archangel Anniversary Orbs
 ID_OF_DE_ARCHANGEL_FIRSTAPPEARANCE_ORBS,On this day in Marvel: Warren Worthington III was transformed from Angel to Archangel in the pages of X-Factor back in 1987.
+ID_OF_NA_TIGRA_FCO_OFFER,Feral Fury
+ID_OF_DE_TIGRA_FCO_OFFER,Each <color=#fff568>Fang and Claws Orb</color> contains <color=#fff568>up to 180 Tigra</color> shards. Inflict Trauma and additional Bleed in War while granting <color=#fff568>New Avenger<color=#fff568> allies Speed Up and more Evade!
+ID_OF_DE_TIGRA_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Tigra</color> and unlock one-time only release offers on your next visit! Inflict Trauma and additional Bleed in War while granting <color=#fff568>New Avenger<color=#fff568> allies Speed Up and more Evade!
+ID_OF_DE_TIGRA_OFFER_SHARD,Power up <color=#fff568>Tigra</color> with this shard offer! Inflict Trauma and additional Bleed in War while granting <color=#fff568>New Avenger<color=#fff568> allies Speed Up and more Evade!
+ID_OF_STOREBAR_TIGRA,Dual Offer: Tigra
+ID_OF_NA_DUAL_TIGRA,Dual Offer: Tigra
+ID_OF_DE_DUAL_TIGRA,Choose your path to power up this <color=#fff568>New Avenger</color>!
+ID_OF_DE_DUAL_UNLOCK_TIGRA,Unlock this <color=#fff568>New Avenger</color> and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_HISTORIC_DEAL_ARCHANGEL,Historic Deal: Archangel
+ID_OF_DE_HISTORIC_DEAL_ARCHANGEL,"Make this fallen Angel rise with a power up! This week in 1987, <color=#fff568>X-FACTOR #24</color> introduced his first ascension to the Legendary Horseman of Death, Archangel."
+ID_OF_NA_HISTORIC_DEAL_THING,Historic Deal: The Thing
+ID_OF_DE_HISTORIC_DEAL_THING,"Recent changes and addition to the <color=#fff568>New Avengers</color> wasn't his first boost in strength! In 1961's <color=#fff568>FANTASTIC FOUR #310</color>, another bombardment of cosmic rays granted some upgraded Clobberin'!"
