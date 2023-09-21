@@ -4097,9 +4097,9 @@ ID_OF_DE_RECRUITINGMOCKINGBIRD_DAILY_POINTS,Make consistent <color=#fff568>Recru
 ID_OF_DE_RECRUITINGMOCKINGBIRD_DAILY_WAR,Battle through the <color=#fff568>Recruiting Mockingbird Milestone</color>!
 ID_OF_DE_RECRUITINGMOCKINGBIRD_DAILY_EVENT_CUR,Spend Mystical Energies in the Event Store and progress in the <color=#fff568>Recruiting Mockingbird</color> Milestone for double the value!
 ID_OF_DE_RECRUITINGMOCKINGBIRD_DAILY_ENERGY,Conjure this coveted Campaign Energy and harness the <color=#fff568>Mystical Energies</color> found across the Campaign!
-ID_OF_DE_RECRUITINGMOCKINGBIRD_WEB_POINTS,Become a New Avenger and boost your <color=#fff568>Recruiting Ronin Milestone</color> progress!
-ID_OF_DE_RECRUITINGMOCKINGBIRD_CLAIM,Come back daily for more <color=#fff568>Recruiting Ronin</color> progress!
-ID_OF_DE_RECRUITINGMOCKINGBIRD_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Recruiting Ronin</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_RECRUITINGMOCKINGBIRD_WEB_POINTS,Become a New Avenger and boost your <color=#fff568>Recruiting Mockingbird Milestone</color> progress!
+ID_OF_DE_RECRUITINGMOCKINGBIRD_CLAIM,Come back daily for more <color=#fff568>Recruiting Mockingbird</color> progress!
+ID_OF_DE_RECRUITINGMOCKINGBIRD_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Recruiting Mockingbird</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_ALCHEMICAL_ASSAULT_MEGA_STARTER,Alchemical Assault Mega Starter
 ID_OF_NA_ALCHEMICAL_ASSAULT_STARTER,Alchemical Assault Starter Bundle
 ID_OF_NA_ALCHEMICAL_ASSAULT_MEGA_CATCHUP,Alchemical Assault Mega Catch-Up
@@ -4116,7 +4116,7 @@ ID_OF_DE_ALCHEMICAL_ASSAULT_EVENT_ORB,Get Allied Supply II Orbs for <color=#fff5
 ID_OF_DE_ALCHEMICAL_ASSAULT_INTERSTITIAL,Get Allied Supply II Orbs for <color=#fff568>Alchemical Assault</color> progress and open them for a heap of resources and T2 L5 Orbs!
 ID_OF_DE_ALCHEMICAL_ASSAULT_FREE,Get Allied Supply II Orbs for <color=#fff568>Alchemical Assault</color> progress and open them for a heap of resources and T2 L5 Orbs!
 ID_OF_NA_ARCHANGEL_FIRSTAPPEARANCE_ORBS,Archangel Anniversary Orbs
-ID_OF_DE_ARCHANGEL_FIRSTAPPEARANCE_ORBS,On this day in Marvel: Warren Worthington III was transformed from Angel to Archangel in the pages of X-Factor back in 1987.
+ID_OF_DE_ARCHANGEL_FIRSTAPPEARANCE_ORBS,On this day in Marvel: Warren Worthington III was transformed from Angel to Archangel in the pages of X-Factor #24 back in 1987.
 ID_OF_NA_TIGRA_FCO_OFFER,Feral Fury
 ID_OF_DE_TIGRA_FCO_OFFER,Each <color=#fff568>Fang and Claws Orb</color> contains <color=#fff568>up to 180 Tigra</color> shards. Inflict Trauma and additional Bleed in War while granting <color=#fff568>New Avenger<color=#fff568> allies Speed Up and more Evade!
 ID_OF_DE_TIGRA_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Tigra</color> and unlock one-time only release offers on your next visit! Inflict Trauma and additional Bleed in War while granting <color=#fff568>New Avenger<color=#fff568> allies Speed Up and more Evade!
@@ -4129,3 +4129,41 @@ ID_OF_NA_HISTORIC_DEAL_ARCHANGEL,Historic Deal: Archangel
 ID_OF_DE_HISTORIC_DEAL_ARCHANGEL,"Make this fallen Angel rise with a power up! This week in 1987, <color=#fff568>X-FACTOR #24</color> introduced his first ascension to the Legendary Horseman of Death, Archangel."
 ID_OF_NA_HISTORIC_DEAL_THING,Historic Deal: The Thing
 ID_OF_DE_HISTORIC_DEAL_THING,"Recent changes and addition to the <color=#fff568>New Avengers</color> wasn't his first boost in strength! In 1961's <color=#fff568>FANTASTIC FOUR #310</color>, another bombardment of cosmic rays granted some upgraded Clobberin'!"
+ID_OF_NA_HISTORIC_DEAL_EMMAFROST,Historic Deal: Emma Frost
+ID_OF_DE_HISTORIC_DEAL_EMMAFROST,Teach your opponents a lesson with this villainous instructor! She first appeared this week in 1979's <color=#fff568>UNCANNY X-MEN #129</color>
+ID_OF_NA_HISTORIC_DEAL_NEWWARRIORS,Historic Deal: New Warriors
+ID_OF_DE_HISTORIC_DEAL_NEWWARRIORS,"Power up the new New Warriors, but don't forget where they started! The original team and founding member Firestar debuted this week in 1989's <color=#fff568>THOR #411</color>."
+ID_OF_NA_HISTORIC_DEAL_ECHO,Historic Deal: Echo
+ID_OF_DE_HISTORIC_DEAL_ECHO,This mimetic maven is a force with the other Young Avengers! Maya Lopez was originally introduced this week in 1999's <color=#fff568>DAREDEVIL #9</color>
+ID_OF_NA_SCARLETSPECIAL_REDSTARRUSH,Scarlet Special: Red Star Rush
+ID_OF_NA_SCARLETSPECIAL_ULTIMATEELITE,Scarlet Special: Ultimate Elite
+ID_OF_NA_SCARLETSPECIAL_OUTSTANDINGELITE,Scarlet Special: Outstanding Elite
+ID_OF_NA_SCARLETSPECIAL_ELITEELATION,Scarlet Special: Elite Elation
+ID_OF_NA_SCARLETSPECIAL_PROMOTION,Scarlet Special: Promotion
+ID_OF_NA_SCARLETSPECIAL_RANKUP,Scarlet Special: Rank Up!
+ID_OF_NA_SCARLETSPECIAL_DARKDEALINGS,Scarlet Special: Dark Dealings
+ID_OF_NA_SCARLETSPECIAL_INVADERSDRAFT,Scarlet Special: Invaders Draft
+ID_OF_NA_SCARLETSPECIAL_REBIRTHDRAFT,Scarlet Special: Rebirth Draft
+ID_OF_NA_INCURSION_INVADER,Incursion: Invader Bundle
+ID_OF_NA_INCURSION_REBIRTH,Incursion: Rebirth Bundle
+ID_OF_DE_SCARLETSPECIAL_REDSTARRUSH,Raise the Red Star ranks of your roster with this bundle of orbs to take on greater challenges!
+ID_OF_DE_SCARLETSPECIAL_ULTIMATEELITE,Bring the Red Star rank of a character to their maximum! (Duplicate Red Star ranks for characters at max rank will be converted)
+ID_OF_DE_SCARLETSPECIAL_OUTSTANDINGELITE,A soaring boost to 6 Red Star Ranks for a character! (Duplicate Red Star ranks for characters at this rank or higher will be converted)
+ID_OF_DE_SCARLETSPECIAL_ELITEELATION,Multiple opportunities to boost the Red Star ranks for several characters! (Duplicate Red Star ranks for characters at this rank or higher will be converted)
+ID_OF_DE_SCARLETSPECIAL_PROMOTION,Focus on the Red Star rank for characters of your choice that appear in the Elite Store!
+ID_OF_DE_SCARLETSPECIAL_RANKUP,Focus on the Red Star rank for characters of your choice that appear in the Elite Store!
+ID_OF_DE_SCARLETSPECIAL_DARKDEALINGS,"Boost the Red Star Ranks for powerhouses like: <color=#fff568>Black Cat</color>, <color=#fff568>Nova</color>, and <color=#fff568>Spider-Man (Big Time)</color> with this cache of Dark Promotion Credits!"
+ID_OF_DE_SCARLETSPECIAL_INVADERSDRAFT,Power up one of the <color=#fff568>Invader</color> team members to 7 Red Stars to help take on the latest challenges!
+ID_OF_DE_SCARLETSPECIAL_REBIRTHDRAFT,Bring one of the <color=#fff568>Rebirth</color> team members to 7 Red Stars to take down multiversal threats!
+ID_OF_DE_INCURSION_INVADER,Bolster the <color=#fff568>Invaders</color> to push through Skill Raid nodes and the latest campaign!
+ID_OF_DE_INCURSION_REBIRTH,Strengthen your <color=#fff568>Rebirth</color> members to clear through Bio Raid nodes and take on the next chapter of challenges!
+ID_OF_NA_SCARLETSPECIAL_STARCHART_START,Scarlet Special: Star Chart 1
+ID_OF_NA_SCARLETSPECIAL_STARCHART_2,Scarlet Special: Star Chart 2
+ID_OF_NA_SCARLETSPECIAL_STARCHART_3,Scarlet Special: Star Chart 3
+ID_OF_NA_SCARLETSPECIAL_STARCHART_4,Scarlet Special: Star Chart 4
+ID_OF_NA_SCARLETSPECIAL_STARCHART_5,Scarlet Special: Star Chart 5
+ID_OF_NA_SCARLETSPECIAL_STARCHART_6,Scarlet Special: Star Chart 6
+ID_OF_NA_SCARLETSPECIAL_STARCHART_END,Scarlet Special: Star Chart 7
+ID_OF_DE_SCARLETSPECIAL_STARCHART_START,Chart a path through the scarlet stars! Each discovery has rewards and clues to a new one on your next visit. You won't want to miss out on mapping them all!
+ID_OF_DE_SCARLETSPECIAL_STARCHART_ONGOING,The next star has been charted! Each discovery has rewards and clues to a new one on your next visit. Keep charting to earn greater spoils!
+ID_OF_DE_SCARLETSPECIAL_STARCHART_END,You've made it to the final star chart and the greatest rewards of this final discovery!
