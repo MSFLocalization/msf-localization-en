@@ -3384,6 +3384,29 @@ ID_QU_S7_STRANGEDIVINATIONMOCKINGBIRD,Play 1 Blitz Battle with Nemesis at 7 Star
 ID_QU_S8_STRANGEDIVINATIONMOCKINGBIRD,Spend 1 Power Core
 ID_QU_S9_STRANGEDIVINATIONMOCKINGBIRD,Earn 1 Conjuration Orb Fragment
 ID_QU_LM_COMPLEXCONJURATIONS_2,"Earn Blitz Credits to complete a 4-day milestone that rewards Catalyst Parts, Tarot Cards, and Conjuration Orb Fragments."
+ID_QU_NA_NIGHTOFTHEWERETIGRESS,Night of the Were-Tigress
+ID_QU_SD_NIGHTOFTHEWERETIGRESS,Participate in October Events
+ID_QU_LM_NIGHTOFTHEWERETIGRESS,Participate in various events throughout the month of October to earn milestone progress.
+ID_QU_S1_NIGHTOFTHEWERETIGRESS,Collect 1 Cat's Head Amulet
+ID_QU_S2_NIGHTOFTHEWERETIGRESS,Collect 1 Beast Gloves
+ID_QU_S3_NIGHTOFTHEWERETIGRESS,Collect 1 Trophy Necklace
+ID_QU_S4_NIGHTOFTHEWERETIGRESS,Collect 1 Chaos Claws
+ID_QU_S5_NIGHTOFTHEWERETIGRESS,Collect 1 Jungle Jacket
+ID_QU_S6_NIGHTOFTHEWERETIGRESS,Collect 1 Fanged Anklet
+ID_QU_S7_NIGHTOFTHEWERETIGRESS,Collect 1 Cat Suit
+ID_QU_NA_DARKDEFENDERS,Dark Defenders
+ID_QU_SD_DARKDEFENDERS,Earn Defender Pumpkins from Iso-8 Campaign and win Cosmic Crucible battles
+ID_QU_LD_DARKDEFENDERS,"Earn Defender Pumpkins from Iso-8 Campaign nodes, win Cosmic Crucible battles, use Masters of Evil at higher Gear Tiers in Cosmic Crucible, and complete the Moonlit Mayhem Web Milestone to progress in the milestone."
+ID_QU_S1_DARKDEFENDERS,Earn 1 Defender Pumpkin
+ID_QU_S2_DARKDEFENDERS,Win 1 Cosmic Crucible Battle
+ID_QU_S3_DARKDEFENDERS,Win 1 Cosmic Crucible Battle w/ a Master of Evil
+ID_QU_S4_DARKDEFENDERS,Win 1 Cosmic Crucible Battle w/ a Master of Evil at Gear Tier 16+
+ID_QU_S5_DARKDEFENDERS,Win 1 Cosmic Crucible Battle w/ a Master of Evil at Gear Tier 17+
+ID_QU_S6_DARKDEFENDERS,Win 1 Cosmic Crucible Battle w/ a Master of Evil at Gear Tier 18
+ID_QU_NA_MOONLITMAYHEM,Moonlit Mayhem
+ID_QU_SD_MOONLITMAYHEM,Earn Blitz Credits
+ID_QU_LD_MOONLITMAYHEM,Earn Blitz Credits to complete this daily milestone that rewards Defender Pumpkins for the Dark Defender Milestone!
+ID_QU_S1_MOONLITMAYHEM,Earn 1 Blitz Credit
 ID_QU_NA_RECRUITINGMOCKINGBIRD,Recruiting Mockingbird
 ID_QU_SD_RECRUITINGMOCKINGBIRD,Battle in War and spend Mystical Energies
 ID_QU_LM_RECRUITINGMOCKINGBIRD,Score points in this 7-day event by:\n\n-Battling in War (with bonuses for using the New Avengers)\n-Spending Mystical Energies (found on each Campaign Node)\n\nEarn more Mystical Energies by completing the daily Spectacular Spellcasting Web Milestone

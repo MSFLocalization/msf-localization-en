@@ -46,7 +46,7 @@ ID_AVE_KEY_EVENT04_NAME,Gambit Raid Key
 ID_AVE_KEY_EVENT04_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_RES_CAMPAIGN_ENERGY_EVENT01,Enchanting Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT02,Bifrost Energy
-ID_RES_CAMPAIGN_ENERGY_EVENT03,Light Warriors Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT03,Across Infinity Energy
 ID_CAMPAIGN_ENERGY_EVENT01_NAME,Enchanting Energy
 ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch Call Me Sylvie missions.
 ID_CAMPAIGN_ENERGY_EVENT02_NAME,Bifrost Energy
@@ -194,8 +194,8 @@ ID_ELITE_6_CUR_NAME,Elite 6 Credit
 ID_ELITE_6_CUR_DESCRIPTION,Used to buy Elite 6 Star Orbs or Silver Promotion Credits.\n\nEarn Elite 6 Credits by collecting duplicate Red Stars from an Elite 5 Star Orb or better.
 ID_ELITE_7_CUR_NAME,Elite 7 Credit
 ID_ELITE_7_CUR_DESCRIPTION,Used to buy Elite 7 Star Orbs or Gold Promotion Credits.\n\nEarn Elite 7 Credits by collecting duplicate Red Stars from an Elite 6 Star Orb or better.
-ID_EVENT_CUR1_NAME,Apocalypse Pyramids
-ID_EVENT_CUR1_DESCRIPTION,Celebrate Tadano Mac JAPAN being the first to conquer the Apocalypse Saga! Earn them in the Tadano Mac JAPAN calendar and use them to earn up to 100 character shards of either Agent Venom or Dark Beast!
+ID_EVENT_CUR1_NAME,Defender Pumpkins
+ID_EVENT_CUR1_DESCRIPTION,Collect Defender Pumpkins from any Iso-8 Campaign Node to earn progress in the Dark Defenders Milestone. Earn them in Daily Free Claims and the Moonlit Mayhem Web Milestone as well!
 ID_EVENT_CUR2_NAME,Gear Credits
 ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
 ID_EVENT_CUR3_NAME,Strange Divination: Mockingbird Milestone Points
@@ -376,3 +376,17 @@ ID_EVTA_META_SEP_E_NAME,Mockingbird Divination Spell
 ID_EVTA_META_SEP_E_DESCRIPTION,Collect the Mockingbird Divination Spell for points in the Secret Sorcery Event. Earn it in the Strange Divination: Mockingbird Event.
 ID_EVTA_META_SEP_F_NAME,Mockingbird's Avengers Contract
 ID_EVTA_META_SEP_F_DESCRIPTION,Collect Mockingbird's Avengers Contract for points in the Secret Sorcery Event. Earn it in the Recruiting Mockingbird Event.
+ID_EVTA_META_OCT_A_NAME,Cat's Head Amulet
+ID_EVTA_META_OCT_A_DESCRIPTION,Collect Cat's Head Amulets for points in the Night of the Were-Tigress Event. Earn them in various events throughout the month of October
+ID_EVTA_META_OCT_B_NAME,Beast Glove
+ID_EVTA_META_OCT_B_DESCRIPTION,Collect the Beast Glove for points in the Night of the Were-Tigress Event. Earn it in the Dark Defenders Event!
+ID_EVTA_META_OCT_C_NAME,Trophy Necklace
+ID_EVTA_META_OCT_C_DESCRIPTION,Collect the Trophy Necklace for points in the Night of the Were-Tigress Event. Earn it in the Vengeful Spirits Event!
+ID_EVTA_META_OCT_D_NAME,Chaos Claw
+ID_EVTA_META_OCT_D_DESCRIPTION,Collect the Chaos Claw for points in the Night of the Were-Tigress Event. Earn them in the Spectral Emporium Event!
+ID_EVTA_META_OCT_E_NAME,Jungle Jacket
+ID_EVTA_META_OCT_E_DESCRIPTION,Collect the Jungle Jacket for points in the Night of the Were-Tigress Event. Earn it in the Technology Terror Event!
+ID_EVTA_META_OCT_F_NAME,Fanged Anklet
+ID_EVTA_META_OCT_F_DESCRIPTION,Collect the Fanged Anklet for points in the Night of the Were-Tigress Event. Earn it in the Fight or Flight Event!
+ID_EVTA_META_OCT_G_NAME,Cat Suit
+ID_EVTA_META_OCT_G_DESCRIPTION,Collect the Cat Suit for points in the Night of the Were-Tigress Event. Earn it in the Unkillable Force Event!

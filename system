@@ -1247,8 +1247,14 @@ ID_REQ_INCURSION10_DIF2,"5 <color=#fff568>BIFROST</color> CHARACTERS, Gear Tier 
 ID_REQ_INCURSION10_DIF3,"5 <color=#fff568>BIFROST</color> CHARACTERS, Gear Tier 15, 5 Stars"
 ID_UI_ONLY_ENERGIZED,ONLY <color=#fff568>ENERGIZED</color> CHARACTERS
 ID_REQUIRES_EC_ENERGIZED_5,5 <color=#fff568>ENERGIZED</color> Characters REQUIRED
-ID_REQUIRES_PEGASUS_REBIRTH,ONLY <color=#fff568>PEGASUS</color> or <color=#fff568>REBIRTH</color>
-ID_REQUIRES_PEGASUS_REBIRTH_GT13,ONLY <color=#fff568>PEGASUS</color> or <color=#fff568>REBIRTH</color> at Gear Tier 13
+ID_REQUIRES_PEGASUS_REBIRTH,ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color>
+ID_REQUIRES_PEGASUS_REBIRTH_IM,"ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color>. Required: <color=#fff568>Iron Man (Infinity War)</color> "
+ID_REQUIRES_PEGASUS_REBIRTH_IM_DH,ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color>. Required: <color=#fff568>Iron Man (Infinity War)</color> and <color=#fff568>Darkhawk</color>
+ID_REQUIRES_PEGASUS_REBIRTH_IM_DH_IH,"ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color>. Required: <color=#fff568>Iron Man (Infinity War)</color>, <color=#fff568>Darkhawk</color>, and <color=#fff568>Ironheart (MKII)</color>"
+ID_REQUIRES_PEGASUS_REBIRTH_GT13,ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color> at Gear Tier 13
+ID_REQUIRES_PEGASUS_REBIRTH_GT13_IM,ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color> at Gear Tier 13. Required: <color=#fff568>Iron Man (Infinity War)</color>
+ID_REQUIRES_PEGASUS_REBIRTH_GT13_IM_DH,ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color> at Gear Tier 13. Required: <color=#fff568>Iron Man (Infinity War)</color> and <color=#fff568>Darkhawk</color>
+ID_REQUIRES_PEGASUS_REBIRTH_GT13_IM_DH_IH,"ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color> at Gear Tier 13. Required: <color=#fff568>Iron Man (Infinity War)</color>, <color=#fff568>Darkhawk</color>, and <color=#fff568>Ironheart (MKII)</color>"
 ID_REQUIREMENT_INCURSION_CAMPAIGN_CH1,4 <color=#ff0000>RED</color> Stars
 ID_REQUIREMENT_INCURSION_CAMPAIGN_CH2,"5 <color=#ff0000>RED</color> Stars, <color=#fff568>BIO</color> or <color=#fff568>SKILL</color> Characters Only"
 ID_REQUIREMENT_INCURSION_CAMPAIGN_CH3,"6 <color=#ff0000>RED</color> Stars, <color=#fff568>BIO</color> or <color=#fff568>SKILL</color> Characters Only"
