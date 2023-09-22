@@ -4396,6 +4396,155 @@ ID_DIALOG_SCE_PEGASUS_10_END_3,Great.
 ID_DIALOG_SCE_PEGASUS_10_END_4,I can't believe we'll be free of this place.
 ID_DIALOG_SCE_PEGASUS_10_END_5,"Yeah, I'm looking forward to it."
 ID_DIALOG_SCE_PEGASUS_10_END_6,"Me too. Everyone, welcome to Project P.E.G.A.S.U.S."
+ID_DIALOG_SCE_PEGASUS2_01_INTRO_0,"Commander Kestrel, I see you've got your team assembled. Good work."
+ID_DIALOG_SCE_PEGASUS2_01_INTRO_1,"Thank you, sir."
+ID_DIALOG_SCE_PEGASUS2_01_INTRO_2,"Everyone, welcome to the Potential Energy Group/Alternate Sources United States, or P.E.G.A.S.U.S."
+ID_DIALOG_SCE_PEGASUS2_01_INTRO_3,"Although just between us, those last two may as well stand for ""Ultimus Sourced"". I'll let our lead scientist fill you in."
+ID_DIALOG_SCE_PEGASUS2_01_INTRO_4,"Greetings, team. I'll get right to the point, our universe is beginning to fall apart thanks to Ultimus, Doctor Doom, the Incursion, etc."
+ID_DIALOG_SCE_PEGASUS2_01_INTRO_5,"But in digging through the data recovered from Ultimus, we know a way to fix it."
+ID_DIALOG_SCE_PEGASUS2_01_INTRO_6,"The ""Equilibrium Cascade""?"
+ID_DIALOG_SCE_PEGASUS2_01_INTRO_7,Right you are. Commander Kestrel has the details. Good luck.
+ID_DIALOG_SCE_PEGASUS2_01_START_0,So we're back in the fractured world?
+ID_DIALOG_SCE_PEGASUS2_01_START_1,Yes. Mister. Fantastic is building the device according to the plans we recovered from Ultimus.
+ID_DIALOG_SCE_PEGASUS2_01_START_2,"The thing is, it needs a unique kind of power source. And the only place we know to find it... is here."
+ID_DIALOG_SCE_PEGASUS2_01_START_3,"I knew it. You're after ""it"", aren't you? The energy from destroyed universes!"
+ID_DIALOG_SCE_PEGASUS2_01_START_4,"It has a lot of names, but we call it ""Potential"" energy. It's what the P in P.E.G.A.S.U.S. stands for."
+ID_DIALOG_SCE_PEGASUS2_01_MID_0,See that? The enemies we defeat here are suffused with micro amounts of Potential Energy.
+ID_DIALOG_SCE_PEGASUS2_01_MID_1,"Darkhawk, we need you to capture it. And Stark, you and Ms. Williams will contain it."
+ID_DIALOG_SCE_PEGASUS2_01_END_0,"I don't get it, why do you need us? Why not recruit your own Iron Man and Ironheart?"
+ID_DIALOG_SCE_PEGASUS2_01_END_1,"I thought you were smart, genius. They need us because we have Potential Energy inside us. We're attractors."
+ID_DIALOG_SCE_PEGASUS2_01_END_2,"Like the two poles of a magnet. Darkhawk keeps it from floating away, and we contain it so it can be stored."
+ID_DIALOG_SCE_PEGASUS2_02_INTRO_0,"So we're just going to go around fighting, randomly collecting energy to power this device?"
+ID_DIALOG_SCE_PEGASUS2_02_INTRO_1,"Basically. And once we have enough, we stabilize our reality."
+ID_DIALOG_SCE_PEGASUS2_02_INTRO_2,And after that?
+ID_DIALOG_SCE_PEGASUS2_02_INTRO_3,"I promised you I'd help you all return to your universes. If that's what you want, I'll do it."
+ID_DIALOG_SCE_PEGASUS2_02_INTRO_4,And if we want to build one of these Equilibrium Cascade machines to fix our realities too?
+ID_DIALOG_SCE_PEGASUS2_02_INTRO_5,That's... complicated.
+ID_DIALOG_SCE_PEGASUS2_02_START_0,"What do you mean ""complicated""?"
+ID_DIALOG_SCE_PEGASUS2_02_START_1,"The device is difficult to build, I'm not at liberty to explain how or why. But suffice to say, there can only be one and it has to be left on."
+ID_DIALOG_SCE_PEGASUS2_02_START_2,That's interesting.
+ID_DIALOG_SCE_PEGASUS2_02_END_0,"What're you thinking, kid?"
+ID_DIALOG_SCE_PEGASUS2_02_END_1,"Watch who you call kid, old man."
+ID_DIALOG_SCE_PEGASUS2_02_END_2,Fair enough. Question stands.
+ID_DIALOG_SCE_PEGASUS2_02_END_3,"I've got an idea or two, I'll let you know when I figure it out."
+ID_DIALOG_SCE_PEGASUS2_03_INTRO_0,"P.E.G.A.S.U.S. Leader calling S.T.R.I.K.E. Actual. Fury, you there? Over."
+ID_DIALOG_SCE_PEGASUS2_03_INTRO_1,"Your signal isn't coming in great, Commander. What do you need?"
+ID_DIALOG_SCE_PEGASUS2_03_INTRO_2,"Sir, I need permission to disclose the nature of the device to the team. They're asking questions."
+ID_DIALOG_SCE_PEGASUS2_03_INTRO_3,Permission denied. Collect the energy and get out of that broken dimension before you attract the wrong kind of attention.
+ID_DIALOG_SCE_PEGASUS2_03_INTRO_4,"Yes, sir."
+ID_DIALOG_SCE_PEGASUS2_03_START_0,I am uncomfortable with my role in this team. The masters of this world hunted me to do this for them.
+ID_DIALOG_SCE_PEGASUS2_03_START_1,"If there was any other way, Darkhawk, BELIEVE me we'd take it."
+ID_DIALOG_SCE_PEGASUS2_03_START_2,But time isn't on our side.
+ID_DIALOG_SCE_PEGASUS2_03_END_0,I don't trust our new allies. They're holding back.
+ID_DIALOG_SCE_PEGASUS2_03_END_1,You don't say?
+ID_DIALOG_SCE_PEGASUS2_03_END_2,I've got it worked out. Let's confront her. Follow my lead.
+ID_DIALOG_SCE_PEGASUS2_04_INTRO_0,"Kestrel, we need to talk."
+ID_DIALOG_SCE_PEGASUS2_04_INTRO_1,About?
+ID_DIALOG_SCE_PEGASUS2_04_INTRO_2,Whatever you're not telling us about the Cascade device.
+ID_DIALOG_SCE_PEGASUS2_04_INTRO_3,I've told you everything I'm authorized to say.
+ID_DIALOG_SCE_PEGASUS2_04_INTRO_4,That's not good enough.
+ID_DIALOG_SCE_PEGASUS2_04_START_0,"""Potential Energy"" is dangerous! You don't know the fire you're playing with!"
+ID_DIALOG_SCE_PEGASUS2_04_START_1,"Believe me, if there was another choice..."
+ID_DIALOG_SCE_PEGASUS2_04_START_2,Halt.
+ID_DIALOG_SCE_PEGASUS2_04_START_3,You have been siphoning energy that is the rightful property of my master. You will surrender and relinquish immediately.
+ID_DIALOG_SCE_PEGASUS2_04_START_4,To be continued!
+ID_DIALOG_SCE_PEGASUS2_04_MID_0,"Enough, I will deal with you myself!"
+ID_DIALOG_SCE_PEGASUS2_04_END_0,"We need to leave the area. If his master is who I think it is, this place isn't safe."
+ID_DIALOG_SCE_PEGASUS2_04_END_1,"No, we resolve this NOW!"
+ID_DIALOG_SCE_PEGASUS2_04_END_2,I...
+ID_DIALOG_SCE_PEGASUS2_04_END_3,"You expect us to trust YOU, when you won't trust US?"
+ID_DIALOG_SCE_PEGASUS2_04_END_4,"Okay, okay, let's find someplace safe to talk and I'll tell you everything."
+ID_DIALOG_SCE_PEGASUS2_05_INTRO_0,"Are you ready to tell us what's really going on, Kestrel?"
+ID_DIALOG_SCE_PEGASUS2_05_INTRO_1,"You all need to understand I'm not authorized to tell you this, so what I'm about to say doesn't leave this conversation."
+ID_DIALOG_SCE_PEGASUS2_05_INTRO_2,"As you know, Ultimus conquered or destroyed countless realities. And you may know he had an ultimate weapon called the ""Entropy Cascade""."
+ID_DIALOG_SCE_PEGASUS2_05_INTRO_3,"You've mentioned it before, yeah. It's interesting both his weapon and your miracle machine are some sort of ""cascade""."
+ID_DIALOG_SCE_PEGASUS2_05_INTRO_4,"It's not a coincidence, is it, Kestrel?"
+ID_DIALOG_SCE_PEGASUS2_05_INTRO_5,No. They are the same machine. Think of it like a motor that has forward and reverse. That is why I couldn't tell you the truth.
+ID_DIALOG_SCE_PEGASUS2_05_INTRO_6,"The very device that can save my universe, and all of yours, is the same device that if misused could destroy everything."
+ID_DIALOG_SCE_PEGASUS2_05_START_0,"So you didn't build the device, did you? Your Reed Richards found it when your universe defeated Ultimus?"
+ID_DIALOG_SCE_PEGASUS2_05_START_1,"Yes. And he deduced, based on data recovered from Ultimus' database, that it could work in reverse to stop Incursions."
+ID_DIALOG_SCE_PEGASUS2_05_START_2,"But it needs Potential Energy to function, and if it can't extract it from the universe its in, it has to come from somewhere."
+ID_DIALOG_SCE_PEGASUS2_05_START_3,And so you decided to take it from this broken conglomeration of worlds?
+ID_DIALOG_SCE_PEGASUS2_05_START_4,More or less.
+ID_DIALOG_SCE_PEGASUS2_05_END_0,But that's not all. Our estimates say it will take YEARS of running the device before our universe can be stabilized.
+ID_DIALOG_SCE_PEGASUS2_05_END_1,My orders were to keep this from you because we feared if you knew the timeline we were working under you'd refuse to help.
+ID_DIALOG_SCE_PEGASUS2_05_END_2,Your fear is valid. But you forgot something important.
+ID_DIALOG_SCE_PEGASUS2_05_END_3,"We are HEROES. Saving life, any life, especially a universe's worth -- that matters. That is worth doing."
+ID_DIALOG_SCE_PEGASUS2_05_END_4,"I don't like that you lied to us, but you told the truth when it mattered. And your universe is filled with innocents worth saving."
+ID_DIALOG_SCE_PEGASUS2_05_END_5,So I will help save them.
+ID_DIALOG_SCE_PEGASUS2_05_END_6,Me too.
+ID_DIALOG_SCE_PEGASUS2_05_END_7,"Yeah, same here."
+ID_DIALOG_SCE_PEGASUS2_05_END_8,"And AFTER that, we'll see how we can save our universes. Deal?"
+ID_DIALOG_SCE_PEGASUS2_05_END_9,You've got my word.
+ID_DIALOG_SCE_PEGASUS2_06_INTRO_0,"So, now that we know the real stakes, I think we should stop with the small fries and go after some larger sources of energy."
+ID_DIALOG_SCE_PEGASUS2_06_INTRO_1,"What's going through your head, Tony?"
+ID_DIALOG_SCE_PEGASUS2_06_INTRO_2,The warlords who control this world hoard the energy we need. They've got stockpiles of the stuff.
+ID_DIALOG_SCE_PEGASUS2_06_INTRO_3,"So I say, who's up for a heist?"
+ID_DIALOG_SCE_PEGASUS2_06_END_0,A heist sounds dangerous when we're trying to fly under the radar with our operation here.
+ID_DIALOG_SCE_PEGASUS2_06_END_1,"Sure, but if we can get a large amount of Potential Energy we can cut the time you need to run the gizmo, right?"
+ID_DIALOG_SCE_PEGASUS2_06_END_2,Maybe? I don't know. The device was created by Celestials in Ultimus' home universe. I don't know if more gas increases the speed.
+ID_DIALOG_SCE_PEGASUS2_06_END_3,"Frankly, only Richards knows anything about it beyond what I've told you. It's too dangerous to let ANY data about it get out."
+ID_DIALOG_SCE_PEGASUS2_06_END_4,I still think going after the motherload is a better use of our time.
+ID_DIALOG_SCE_PEGASUS2_06_END_5,I'm willing to give it a try. You all know this world better than I do.
+ID_DIALOG_SCE_PEGASUS2_07_INTRO_0,"So who we hittin', Stark?"
+ID_DIALOG_SCE_PEGASUS2_07_INTRO_1,We're not far from Goblinville.
+ID_DIALOG_SCE_PEGASUS2_07_INTRO_2,I like it. Hawk?
+ID_DIALOG_SCE_PEGASUS2_07_INTRO_3,"Goblin consolidated the forces of A.I.M. from several worlds under his banner. So his forces are numerous, but manageable."
+ID_DIALOG_SCE_PEGASUS2_07_INTRO_4,His enforcers will be a problem though.
+ID_DIALOG_SCE_PEGASUS2_07_INTRO_5,We can take 'em.
+ID_DIALOG_SCE_PEGASUS2_07_INTRO_6,Sounds like we have a plan forming. Let's head out.
+ID_DIALOG_SCE_PEGASUS2_07_START_0,Who're the enforcers you guys mentioned?
+ID_DIALOG_SCE_PEGASUS2_07_START_1,Goblin has a device that lets him control symbiotes. He's got a dozen or so of them I think.
+ID_DIALOG_SCE_PEGASUS2_07_START_2,Wonderful.
+ID_DIALOG_SCE_PEGASUS2_07_END_0,"So, what, we face off against a dozen symbiote powered enemies? How's that going to work?"
+ID_DIALOG_SCE_PEGASUS2_07_END_1,"We split 'em up. Shake the right tree, deal with what falls out. Rinse, repeat."
+ID_DIALOG_SCE_PEGASUS2_08_INTRO_0,"Go over the plan one last time, Stark. I want a clear picture of the risk we're taking."
+ID_DIALOG_SCE_PEGASUS2_08_INTRO_1,Sure. Goblin keeps his enforcers in two groups patrolling his territory. We take them out then move on Goblin's base before they can react.
+ID_DIALOG_SCE_PEGASUS2_08_INTRO_2,"Then after we take down Goblin, we permanently borrow his Potential Energy reserves and retreat back to your reality."
+ID_DIALOG_SCE_PEGASUS2_08_INTRO_3,"And the rest of you, how feasible does this plan sound? You're familiar with this world, I'm relying on your assessment here."
+ID_DIALOG_SCE_PEGASUS2_08_INTRO_4,"Risky, but doable."
+ID_DIALOG_SCE_PEGASUS2_08_INTRO_5,We got this.
+ID_DIALOG_SCE_PEGASUS2_08_INTRO_6,Okay. Mission approved. Let's get started.
+ID_DIALOG_SCE_PEGASUS2_08_START_0,We're under attack!
+ID_DIALOG_SCE_PEGASUS2_08_WAVE2_0,Call for backup!
+ID_DIALOG_SCE_PEGASUS2_08_WAVE3_0,YOU WORTHLESS MINIONS! YOU CAN'T EVEN DEAL WITH 5 ENEMIES?!
+ID_DIALOG_SCE_PEGASUS2_08_WAVE4_0,I think the talking space slime is mad.
+ID_DIALOG_SCE_PEGASUS2_08_END_0,One group of sentient slime parasites down. One to go.
+ID_DIALOG_SCE_PEGASUS2_09_START_0,"Well, well, well, what do we have here? Thought you'd catch us by surprise, Iron Idiots?"
+ID_DIALOG_SCE_PEGASUS2_09_START_1,Attack!
+ID_DIALOG_SCE_PEGASUS2_09_END_0,They were waiting for us.
+ID_DIALOG_SCE_PEGASUS2_09_END_1,Way to be captain obvious.
+ID_DIALOG_SCE_PEGASUS2_09_END_2,"Goblin must be trackin' us. Big and buff or not, he IS an OSBORN."
+ID_DIALOG_SCE_PEGASUS2_09_END_3,You know what that means. We walkin' into his base is going to be a trap.
+ID_DIALOG_SCE_PEGASUS2_09_END_4,Is it really a trap if you know it's a trap?
+ID_DIALOG_SCE_PEGASUS2_09_END_5,"Stark, for someone so smart sometimes you're real dumb."
+ID_DIALOG_SCE_PEGASUS2_10_INTRO_0,So any guesses what the trap will be?
+ID_DIALOG_SCE_PEGASUS2_10_INTRO_1,"Let's speculate less, and focus more on the goal. IF it's a trap, we beat it."
+ID_DIALOG_SCE_PEGASUS2_10_INTRO_2,"And whatever happens, we take down this Goblin and get what we came here for. Right, team?"
+ID_DIALOG_SCE_PEGASUS2_10_INTRO_3,"You need to work on your motivational speeches a little more. But yeah, what the hell. Let's spring this trap."
+ID_DIALOG_SCE_PEGASUS2_10_START_0,"Welcome, fools! You've walked right into my trap!"
+ID_DIALOG_SCE_PEGASUS2_10_START_1,Called it.
+ID_DIALOG_SCE_PEGASUS2_10_START_2,"You may have bested my symbiotes, but I have a NEW and IMPROVED control device. Say hello to my newest enforcer..."
+ID_DIALOG_SCE_PEGASUS2_10_START_3,HULK SMASH!
+ID_DIALOG_SCE_PEGASUS2_10_START_4,"Oh, great. He has a Hulk."
+ID_DIALOG_SCE_PEGASUS2_10_MID_0,"Is that all you got, Goblin? I thought you were supposed to be some kind of warlord?"
+ID_DIALOG_SCE_PEGASUS2_10_MID_1,"That's BARON OSBORN to you, metal moron!"
+ID_DIALOG_SCE_PEGASUS2_10_MID_2,"You want the Goblin? FINE, YOU GET THE GOBLIN!"
+ID_DIALOG_SCE_PEGASUS2_10_END_0,"Did he really shout ""you get the goblin"" at us? What kind of weird-ass world did this guy come from?"
+ID_DIALOG_SCE_PEGASUS2_10_END_1,"He wasn't technically wrong, we did ""get the goblin""... it's just we then kicked his ass."
+ID_DIALOG_SCE_PEGASUS2_10_END_2,"Tony, can we focus for a second here? Wasn't this supposed to be a heist?"
+ID_DIALOG_SCE_PEGASUS2_10_END_3,"Right you are, Not My Pepper. Ms. Williams?"
+ID_DIALOG_SCE_PEGASUS2_10_END_4,On it.
+ID_DIALOG_SCE_PEGASUS2_10_END_5,"Good job, everyone. Ironheart, activate that stabilizer so we can get out of there. We've got more energy than we'd planned to get in a year."
+ID_DIALOG_SCE_PEGASUS2_10_END_6,Let's see what Richards can do with it.
+ID_DIALOG_SCE_PEGASUS2_10_END_7,THE NEXT DAY
+ID_DIALOG_SCE_PEGASUS2_10_END_8,"Great work, Commander Kestrel and S.T.R.I.K.E. Commander. Richards says we'll still need a lot more energy, but a few more ops like that one and we'll be in a good way."
+ID_DIALOG_SCE_PEGASUS2_10_END_9,"Thank you, sir. But what about my team? They know the truth."
+ID_DIALOG_SCE_PEGASUS2_10_END_10,Nothing we can do about that now accept trust that they really are the heroes they say they are.
+ID_DIALOG_SCE_PEGASUS2_10_END_11,"If you'll forgive me, sir, that doesn't sound like you. You wouldn't let me go out there without mental blocks from Xavier preventing me from being read."
+ID_DIALOG_SCE_PEGASUS2_10_END_12,"And neither will they, Commander. Trust... But not too much. I'm a spy, not a fool."
+ID_DIALOG_SCE_PEGASUS2_10_END_13,"As for now, the Incursion is halted. This crisis is over."
+ID_DIALOG_SCE_PEGASUS2_10_END_14,"And once again, I, and the world, are in your debt, S.T.R.I.K.E. Commander. Someday I hope I can repay it."
 ID_DIALOG_ECM_ANTMAN_01_INTRO_0,"Ant-Man, S.T.R.I.K.E. needs your help."
 ID_DIALOG_ECM_ANTMAN_01_INTRO_1,"Wow, me? Seriously? What do you need me to steal?"
 ID_DIALOG_ECM_ANTMAN_01_INTRO_2,Nothing. We need a different set of skills this time around.

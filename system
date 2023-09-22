@@ -1258,3 +1258,9 @@ ID_REQUIRES_PEGASUS_REBIRTH_GT13_IM_DH_IH,"ONLY <color=#fff568>P.E.G.A.S.U.S.</c
 ID_REQUIREMENT_INCURSION_CAMPAIGN_CH1,4 <color=#ff0000>RED</color> Stars
 ID_REQUIREMENT_INCURSION_CAMPAIGN_CH2,"5 <color=#ff0000>RED</color> Stars, <color=#fff568>BIO</color> or <color=#fff568>SKILL</color> Characters Only"
 ID_REQUIREMENT_INCURSION_CAMPAIGN_CH3,"6 <color=#ff0000>RED</color> Stars, <color=#fff568>BIO</color> or <color=#fff568>SKILL</color> Characters Only"
+ID_REQUIRES_PEGASUS_CH_CAM,5 <color=#fff568>P.E.G.A.S.U.S.</color> at Gear Tier 15
+ID_REQUIRES_PEGASUS_LE_CAM,"5 <color=#fff568>P.E.G.A.S.U.S.</color> at Gear Tier 15, 4 stars"
+ID_REQUIRES_PEGASUS_BO_CAM,"5 <color=#fff568>P.E.G.A.S.U.S.</color> at Gear Tier 15, 6 stars"
+ID_REQUIRES_PEGASUS_CH_MIS,Required: 5 <color=#fff568>P.E.G.A.S.U.S.</color> at Gear Tier 15
+ID_REQUIRES_PEGASUS_LE_MIS,"Reduired: 5 <color=#fff568>P.E.G.A.S.U.S.</color> at Gear Tier 15, 4 Yellow Stars"
+ID_REQUIRES_PEGASUS_BO_MIS,"Required: 5 <color=#fff568>P.E.G.A.S.U.S.</color> at Gear Tier 15, 6 Yellow Stars"

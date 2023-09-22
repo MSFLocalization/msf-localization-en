@@ -4157,13 +4157,15 @@ ID_OF_DE_SCARLETSPECIAL_INVADERSDRAFT,Power up one of the <color=#fff568>Invader
 ID_OF_DE_SCARLETSPECIAL_REBIRTHDRAFT,Bring one of the <color=#fff568>Rebirth</color> team members to 7 Red Stars to take down multiversal threats!
 ID_OF_DE_INCURSION_INVADER,Bolster the <color=#fff568>Invaders</color> to push through Skill Raid nodes and the latest campaign!
 ID_OF_DE_INCURSION_REBIRTH,Strengthen your <color=#fff568>Rebirth</color> members to clear through Bio Raid nodes and take on the next chapter of challenges!
-ID_OF_NA_SCARLETSPECIAL_STARCHART_START,Scarlet Special: Star Chart 1
-ID_OF_NA_SCARLETSPECIAL_STARCHART_2,Scarlet Special: Star Chart 2
-ID_OF_NA_SCARLETSPECIAL_STARCHART_3,Scarlet Special: Star Chart 3
-ID_OF_NA_SCARLETSPECIAL_STARCHART_4,Scarlet Special: Star Chart 4
-ID_OF_NA_SCARLETSPECIAL_STARCHART_5,Scarlet Special: Star Chart 5
-ID_OF_NA_SCARLETSPECIAL_STARCHART_6,Scarlet Special: Star Chart 6
-ID_OF_NA_SCARLETSPECIAL_STARCHART_END,Scarlet Special: Star Chart 7
+ID_OF_NA_SCARLETSPECIAL_STARCHART_START,Scarlet Special: Star Charting 1
+ID_OF_NA_SCARLETSPECIAL_STARCHART_2,Scarlet Special: Star Charting 2
+ID_OF_NA_SCARLETSPECIAL_STARCHART_3,Scarlet Special: Star Charting 3
+ID_OF_NA_SCARLETSPECIAL_STARCHART_4,Scarlet Special: Star Charting 4
+ID_OF_NA_SCARLETSPECIAL_STARCHART_5,Scarlet Special: Star Charting 5
+ID_OF_NA_SCARLETSPECIAL_STARCHART_6,Scarlet Special: Star Charting 6
+ID_OF_NA_SCARLETSPECIAL_STARCHART_END,Scarlet Special: Star Charting 7
 ID_OF_DE_SCARLETSPECIAL_STARCHART_START,Chart a path through the scarlet stars! Each discovery has rewards and clues to a new one on your next visit. You won't want to miss out on mapping them all!
 ID_OF_DE_SCARLETSPECIAL_STARCHART_ONGOING,The next star has been charted! Each discovery has rewards and clues to a new one on your next visit. Keep charting to earn greater spoils!
 ID_OF_DE_SCARLETSPECIAL_STARCHART_END,You've made it to the final star chart and the greatest rewards of this final discovery!
+ID_OF_NA_2X_28000XP_Offer,2X XPlosion
+ID_OF_DE_2X_28000XP_Offer,"14,000 -> <color=#33dd00>2X BONUS 28,000</color>. XP Bonus from Event Already Applied."

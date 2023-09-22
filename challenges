@@ -1039,6 +1039,15 @@ ID_EVENT_INCURSION11_DIF3_FLAVOR,Earn Rare Rewards!
 ID_EVENT_INCURSION11_DIF3_DESC,REQUIRED: P.E.G.A.S.U.S. or Rebirth
 ID_EVENT_INCURSION11_DIF4_FLAVOR,Earn Rare Rewards!
 ID_EVENT_INCURSION11_DIF4_DESC,REQUIRED: P.E.G.A.S.U.S. or Rebirth\n- Gear Tier 13
+ID_SEC_INCURSION12_NAME,Project P.E.G.A.S.U.S.
+ID_SEC_INCURSION12_DESC,Kestrel and the newly formed P.E.G.A.S.U.S. team embark on their mission to stop further Incursions.
+ID_SEC_CHANCE_INCURSION12,P.E.G.A.S.U.S. Showcase Finale
+ID_EVENT_INCURSION12_DIF1_FLAVOR,Gather Potential Energy
+ID_EVENT_INCURSION12_DIF1_DESC,Requirements:\n\n- 5 P.E.G.A.S.U.S. characters\n- Gear Tier 15
+ID_EVENT_INCURSION12_DIF2_FLAVOR,Gather Potential Energy
+ID_EVENT_INCURSION12_DIF2_DESC,Requirements:\n\n- 5 P.E.G.A.S.U.S. characters\n- Gear Tier 15\n- 4 Yellow Stars
+ID_EVENT_INCURSION12_DIF3_FLAVOR,Earn Rare Rewards!
+ID_EVENT_INCURSION12_DIF3_DESC,Requirements:\n\n- 5 P.E.G.A.S.U.S. characters\n- Gear Tier 15\n- 6 Yellow Stars
 ID_TU_AM_WA_NAME,Back to Tiny World
 ID_TU_AM_WA_DESC,"After receiving a distress call from resistance forces, Ant-Man and Wasp must enter the tiny dimension to help liberate Earth from its overlords."
 ID_TU_AM_WA_CHANCE,Earn amazing rewards!
