@@ -2304,6 +2304,10 @@ ID_MOTD_NA_ALCHEMICALASSAULT_ENDING,Ending Soon: Alchemical Assault
 ID_MOTD_DE_ALCHEMICALASSAULT_ENDING,Get Iso-8 Ions and Secret Sorcery progress now!
 ID_MOTD_NA_ARCHANGELFIRSTAPPEARANCE_ANNOUNCE,On this day in Marvel
 ID_MOTD_DE_ARCHANGELFIRSTAPPEARANCE_ANNOUNCE,Archangel's first appearance in the pages of X-Factor #24 in 1987!
+ID_MOTD_NA_GOLDENDIMENSION_TEASER,Coming Soon: Golden Dimension
+ID_MOTD_DE_GOLDENDIMENSION_TEASER,"Spend Gold to unlock Dormammu's ""Golden"" Costume!"
+ID_MOTD_NA_GOLDENDIMENSION_LIVE,Live: Golden Dimension
+ID_MOTD_DE_GOLDENDIMENSION_LIVE,"Climb the daily leaderboard to unlock Dormammu's ""Golden"" Costume"
 ID_MOTD_NA_TIGRA_ANNOUNCE,Tigra is Here!
 ID_MOTD_DE_TIGRA_ANNOUNCE,Inflict Bleed and Trauma and give New Avenger allies Evade!
 ID_MOTD_DE_TIGRA_ANNOUNCE2,Open Fang and Claws Orbs to earn shards for this Feral Fury!
@@ -2313,3 +2317,22 @@ ID_MOTD_NA_SHOWCASE_PEGASUS_TEASER,"Coming Soon: Across Infinity "
 ID_MOTD_DE_SHOWCASE_PEGASUS_TEASER,Battle with P.E.G.A.S.U.S. and Rebirth to earn rewards!
 ID_MOTD_NA_SHOWCASE_PEGASUS_LIVE,LIVE: Across Infinity
 ID_MOTD_DE_SHOWCASE_PEGASUS_LIVE,Battle with P.E.G.A.S.U.S. and Rebirth to earn rewards!
+ID_MOTD_NA_VENGEFULSPIRITS_ANNOUNCE,LIVE: Vengeful Spirits
+ID_MOTD_DE_VENGEFULSPIRITS_ANNOUNCE,Get your New Avenger shards and Teal Skill Gear!
+ID_MOTD_NA_VENGEFULSPIRITS_ENDING,Ending Soon: Vengeful Spirits
+ID_MOTD_DE_VENGEFULSPIRITS_ENDING,Earn New Avenger shards and Teal Skill Gear now!
+ID_MOTD_NA_TWILIGHTTRIALS_ANNOUNCE,Web Milestone: Twilight Trials
+ID_MOTD_DE_TWILIGHTTRIALS_ANNOUNCE,Link your account to earn more rewards on web!
+ID_MOTD_NA_SPECTRALEMPORIUM_ANNOUNCE,LIVE: Spectral Emporium
+ID_MOTD_DE_SPECTRALEMPORIUM_ANNOUNCE,Choose Event Store loot with Ebony Treats!
+ID_MOTD_NA_SPECTRALEMPORIUM_ENDING,Ending Soon: Spectral Emporium
+ID_MOTD_DE_SPECTRALEMPORIUM_ENDING,Choose Event Store loot with Ebony Treats!
+ID_MOTD_NA_FERALFESTIVAL_ANNOUNCE,Web Milestone: Feral Festival
+ID_MOTD_DE_FERALFESTIVAL_ANNOUNCE,Link your account to earn more rewards on web!
+ID_MOTD_NA_WEREWOLFWARZONE_ANNOUNCE,LIVE: Werewolf Warzone
+ID_MOTD_DE_WEREWOLFWARZONE_ANNOUNCE,Battle in Alliance War for Gold rewards!
+ID_MOTD_NA_IRONMANINFINITYWAR_TEASER,Soon: Iron Man (Infinity War)
+ID_MOTD_DE_IRONMANINFINITYWAR_TEASER,This Nanotech Knight is coming to bolster P.E.G.A.S.U.S. allies in Raids!
+ID_MOTD_NA_IRONMANINFINITYWAR_ANNOUNCE,Iron Man (Infinity War) is Here!
+ID_MOTD_DE_IRONMANINFINITYWAR_ANNOUNCE,Melt waves of enemies on Tech Raid nodes with P.E.G.A.S.U.S. allies!
+ID_MOTD_DE_IRONMANINFINITYWAR_ANNOUNCE2,Open Timeline Protector Orb to earn shards for this Nanotech Knight!

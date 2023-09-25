@@ -8620,7 +8620,7 @@ ID_GACHA_CRATE_DIVINATION_TOKEN_DESCRIPTION,"Collect Fragments for orbs containi
 ID_GACHA_CRATE_EVENTT2L5_NAME,T2 Level 5 Ion Orb
 ID_GACHA_CRATE_EVENTT2L5_DESCRIPTION,Contains T2 Level 5 Ions
 ID_GACHA_CRATE_EVENTT2L5_TOKEN_NAME,T2 Level 5 Ion Orb Fragments
-ID_GACHA_CRATE_EVENTT2L5_TOKEN_DESCRIPTION,Collect T2 Level 5 Ion Orb Fragments to earn a T2 Level 5 Ion Orb.
+ID_GACHA_CRATE_EVENTT2L5_TOKEN_DESCRIPTION,Collect T2 Level 5 Ion Orb Fragments from special events and offers for guaranteed T2 Level 5 Ions
 ID_GACHA_CRATE_ALLIEDSUPPLYII_NAME,Allied Supply II Orb
 ID_GACHA_CRATE_ALLIEDSUPPLYII_DESCRIPTION,Score critical points for your Alliance
 ID_GACHA_CRATE_ALLIEDSUPPLYII_TOKEN_NAME,Allied Supply II Orb Fragments
@@ -8629,3 +8629,11 @@ ID_GACHA_CRATE_CONJURATION_NAME,Conjuration Orb
 ID_GACHA_CRATE_CONJURATION_DESCRIPTION,Contains Training Modules and Iso-8 Ions
 ID_GACHA_CRATE_CONJURATION_TOKEN_NAME,Conjuration Orb Fragments
 ID_GACHA_CRATE_CONJURATION_TOKEN_DESCRIPTION,"Collect Fragments for orbs containing Training Modules, T2 Level 1 & 4 Ions, and progress in the Strange Divination: Mockingbird Milestone"
+ID_GACHA_CRATE_VINDICATOR_NAME,Vindicator Orb
+ID_GACHA_CRATE_VINDICATOR_DESCRIPTION,Earn New Avenger and Bifrost Character Shards
+ID_GACHA_CRATE_VINDICATOR_TOKEN_NAME,Vindicator Orb Fragments
+ID_GACHA_CRATE_VINDICATOR_TOKEN_DESCRIPTION,Earn Vindicator Orb Fragments from Campaign nodes to earn progress in the Vengeful Spirits Milestone
+ID_GACHA_CRATE_ARCREACTOR_NAME,Arc Reactor Orb
+ID_GACHA_CRATE_ARCREACTOR_DESCRIPTION,Earn Iron Man (Infinity War) Character Shards
+ID_GACHA_CRATE_ARCREACTOR_TOKEN_NAME,Arc Reactor Orb Fragments
+ID_GACHA_CRATE_ARCREACTOR_TOKEN_DESCRIPTION,Open Arc Reactor Orbs to earn character shards of Secret Defenders and earn Technology Terror Milestone progress

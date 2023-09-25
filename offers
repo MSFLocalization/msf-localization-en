@@ -188,7 +188,7 @@ ID_OF_DE_COSTUME_VENOM,Take advantage of this spectacular offer and acquire Veno
 ID_OF_DE_COSTUME_SHANGCHI_VAR,Save over <color=#fff568>{var1}% off</color> on this spectacular offer and acquire Shang-Chi's <color=#fff568>Battle Armor</color> costume! Take on Alliance War with this Heroes For Hire Brawler!
 ID_OF_NA_COSTUME_EMMAFROST,Dawn of X Costume Offer
 ID_OF_DE_COSTUME_EMMAFROST_VAR,Save over <color=#fff568>{var1}% off</color> on this spectacular offer and acquire Emma Frost's <color=#fff568>Dawn of X</color> costume! Take on Alliance War with this Diamond in the Rough Controller!
-ID_OF_NA_COSTUME_IRONMAN,SIlver Centurion Costume Offer
+ID_OF_NA_COSTUME_IRONMAN,Silver Centurion Costume Offer
 ID_OF_DE_COSTUME_IRONMAN,Take advantage of this spectacular offer and acquire Iron Man's <color=#fff568>Silver Centurion</color> costume!
 ID_OF_NA_COSTUME_NAMOR_TALOKAN,Talokan Costume Offer
 ID_OF_DE_COSTUME_NAMOR_TALOKAN_THEATER,"Unleash the power of the ocean! Transform <color=#fff568>Namor</color> into the King of Talokan with either bundle! Black Panther: Wakanda Forever, Now in Theaters"
@@ -199,6 +199,8 @@ ID_OF_DE_COSTUME_VALKYRIE_KINGOFASGARD,"Reign with style! Transform <color=#fff5
 ID_OF_STOREBAR_COSTUME_VALKYRIE_KINGOFASGARD,Valkyrie Costume Offer
 ID_OF_NA_COSTUME_DEADPOOL_XFORCE,X-Force Costume Offer
 ID_OF_DE_COSTUME_DEADPOOL_XFORCE,Take advantage of this spectacular offer and acquire Deadpool's <color=#fff568>X-Force</color> costume!
+ID_OF_NA_COSTUME_THORINFINITYWAR_RAVAGER,Ravager Costume Offer
+ID_OF_DE_COSTUME_THORINFINITYWAR_RAVAGER,Take advantage of this spectacular offer and acquire Thor (Infinity War)'s <color=#fff568>Ravager</color> costume!
 ID_OF_NA_PEST_WEB_BUNDLE,Pestilence Orb Bundle
 ID_OF_DE_PEST_BUNDLES,"Get Morgan Le Fay to the next Star Level with this bundle! Get {var1}% off when you purchase these {var2} Pestilence Orbs! Each Orb has a chance to grant 100 shards of the Horsemen of Pestilence herself, Morgan Le Fay!"
 ID_OF_NA_PEST_EARLYBIRD,Pestilence Orb Intro Bundle
@@ -4129,6 +4131,14 @@ ID_OF_NA_HISTORIC_DEAL_ARCHANGEL,Historic Deal: Archangel
 ID_OF_DE_HISTORIC_DEAL_ARCHANGEL,"Make this fallen Angel rise with a power up! This week in 1987, <color=#fff568>X-FACTOR #24</color> introduced his first ascension to the Legendary Horseman of Death, Archangel."
 ID_OF_NA_HISTORIC_DEAL_THING,Historic Deal: The Thing
 ID_OF_DE_HISTORIC_DEAL_THING,"Recent changes and addition to the <color=#fff568>New Avengers</color> wasn't his first boost in strength! In 1961's <color=#fff568>FANTASTIC FOUR #310</color>, another bombardment of cosmic rays granted some upgraded Clobberin'!"
+ID_OF_NA_WEREWOLFWARZONE_FREE,Werewolf Warzone: Daily Free Claim
+ID_OF_NA_WEREWOLFWARZONE_INTERSTITIAL,Werewolf Warzone: Web Special
+ID_OF_NA_WEREWOLFWARZONE_WAR,Werewolf Warzone: Military Upgrades
+ID_OF_DE_WEREWOLFWARZONE_WAR,Take advantage of this special deal to get the edge in Alliance War and progress in the <color=#fff568>Werewolf Warzone</color> milestone!
+ID_OF_DE_WEREWOLFWARZONE_FREE,Come back daily for more <color=#fff568>Werewolf Warzone</color> progress!
+ID_OF_DE_WEREWOLFWARZONE_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Werewolf Warzone</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_WEREWOLFWARZONE_EVENTORB,Werewolf Warzone: Allied Supply Orbs
+ID_OF_DE_WEREWOLFWARZONE_EVENTORB,"Get these orbs for <color=#fff568>Werewolf Warzone</color> progress and open them for Apocalypse Bounty Orbs containing T2 L5 Ions and a slew of resources! "
 ID_OF_NA_HISTORIC_DEAL_EMMAFROST,Historic Deal: Emma Frost
 ID_OF_DE_HISTORIC_DEAL_EMMAFROST,Teach your opponents a lesson with this villainous instructor! She first appeared this week in 1979's <color=#fff568>UNCANNY X-MEN #129</color>
 ID_OF_NA_HISTORIC_DEAL_NEWWARRIORS,Historic Deal: New Warriors
@@ -4169,3 +4179,13 @@ ID_OF_DE_SCARLETSPECIAL_STARCHART_ONGOING,The next star has been charted! Each d
 ID_OF_DE_SCARLETSPECIAL_STARCHART_END,You've made it to the final star chart and the greatest rewards of this final discovery!
 ID_OF_NA_2X_28000XP_Offer,2X XPlosion
 ID_OF_DE_2X_28000XP_Offer,"14,000 -> <color=#33dd00>2X BONUS 28,000</color>. XP Bonus from Event Already Applied."
+ID_OF_NA_IRONMANINFINITYWAR_FCO_OFFER,Nanotech Knight
+ID_OF_DE_IRONMANINFINITYWAR_FCO_OFFER,Each <color=#fff568>Timeline Protector Orb</color> contains <color=#fff568>up to 180 Iron Man (Infinity War)</color> shards. Spread positive effects and sustain <color=#fff568>P.E.G.A.S.U.S.</color> allies while melting Raid waves with high damage and negative effects!
+ID_OF_DE_IRONMANINFINITYWAR_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Iron Man (Infinity War)</color> and unlock one-time only release offers on your next visit! Spread positive effects and sustain <color=#fff568>P.E.G.A.S.U.S.</color> allies while melting Raid waves with high damage and negative effects!
+ID_OF_DE_IRONMANINFINITYWAR_OFFER_SHARD,Power up <color=#fff568>Iron Man (Infinity War)</color> with this shard offer! Spread positive effects and sustain <color=#fff568>P.E.G.A.S.U.S.</color> allies while melting Raid waves with high damage and negative effects!
+ID_OF_STOREBAR_IRONMANINFINITYWAR,Dual Offer: Iron Man (Infinity War)
+ID_OF_NA_DUAL_IRONMANINFINITYWAR,Dual Offer: Iron Man (Infinity War)
+ID_OF_DE_DUAL_IRONMANINFINITYWAR,Choose your path to power up this <color=#fff568>P.E.G.A.S.U.S.</color>!
+ID_OF_DE_DUAL_UNLOCK_IRONMANINFINITYWAR,Unlock this <color=#fff568>P.E.G.A.S.U.S.</color> and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_PEGASUS_TEAM_OFFER,P.E.G.A.S.U.S. Team Bundle
+ID_OF_DE_PEGASUS_TEAM_OFFER,Melt through Tech Raid nodes with these <color=#fff568>P.E.G.A.S.U.S.</color> team members!

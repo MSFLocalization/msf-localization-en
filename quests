@@ -3426,3 +3426,35 @@ ID_QU_SD_ALCHEMICALASSAULT,Spend Iso-8 Energy and Earn Allied Supply II Orbs
 ID_QU_LD_ALCHEMICALASSAULT,"Alchemical Assault Milestone\nGain progress in this 5-day event by spending Iso-8 Campaign Energy and earning Allied Supply II Orb Fragments from daily Free Claims and special offers. Earn incredible rewards including T2 Level 5 Ion Orbs, T2 Level 4 Ions, and T2 Level 1 Ions. T2 Level 5 Ion Orbs contain up to 5,000,000 T2 Level 5 Ions! You'll also earn points towards the month-long Secret Sorcery milestone by collecting Tarot Cards."
 ID_QU_S1_ALCHEMICALASSAULT,Spend 1 Iso-8 Campaign Energy
 ID_QU_S2_ALCHEMICALASSAULT,Earn 1 Allied Supply II Orb Fragment
+ID_QU_NA_GOLDENDIMENSION,Golden Dimension
+ID_QU_SD_GOLDENDIMENSION,Spend Gold
+ID_QU_SC_GOLDENDIMENSION,Spend Gold
+ID_QU_LM_GOLDENDIMENSION,"Introducing: The Golden Dimension Milestone\n\nFor a limited-time, this new daily milestone replaces the previous Golden Opportunity Milestone, and features Dormammu's ""Golden"" Costume.\n\nYou'll have 31 days to earn enough Gold Flash Bits to purchase Dormammu's ""Golden"" Costume!\n\nHow To Earn Gold Flash Bits:\nScore 6,000,000 Points in the Golden Dimension Milestone to unlock access to Rank Rewards. Ranks 25% and higher will contain Gold Flash Bits. You will need 40,000 Gold Flash Bits to purchase Dormammu's ""Golden"" Costume\n\nStart earning these rewards today by spending Gold!"
+ID_QU_S1_GOLDENDIMENSION,Spend 1 Gold
+ID_QU_NA_VENGEFULSPIRITS,Vengeful Spirits
+ID_QU_SD_VENGEFULSPIRITS,Earn Vindicator Orbs from Campaign nodes
+ID_QU_LD_VENGEFULSPIRITS,Gain progress by earning Vindicator Orb Fragments earned from Campaign Nodes and battling in Raids with additional points for using select Bifrost characters
+ID_QU_S1_VENGEFULSPIRITS,Earn 1 Vindicator Orb Fragment
+ID_QU_S2_VENGEFULSPIRITS,Play 1 Raid Battle
+ID_QU_S3_VENGEFULSPIRITS,"Play 1 Raid Battle w/ Loki (Teen), Beta Ray Bill, Sylvie"
+ID_QU_S4_VENGEFULSPIRITS,"Play 1 Raid Battle w/ Loki (Teen), Beta Ray Bill, Sylvie at Gear Tier 16+"
+ID_QU_S5_VENGEFULSPIRITS,"Play 1 Raid Battle w/ Loki (Teen), Beta Ray Bill, Sylvie at Gear Tier 17+"
+ID_QU_S6_VENGEFULSPIRITS,"Play 1 Raid Battle w/ Loki (Teen), Beta Ray Bill, Sylvie at Gear Tier 18"
+ID_QU_NA_TWILIGHTTRIALS,Twilight Trials
+ID_QU_SD_TWILIGHTTRIALS,Spend Power Cores
+ID_QU_LD_TWILIGHTTRIALS,Spend Power Cores to complete this daily milestone that rewards Vindicator Orb Fragments for Vengeful Spirits Milestone progress!
+ID_QU_S1_TWILIGHTTRIALS,Spend 1 Power Core
+ID_QU_NA_SPECTRALEMPORIUM,Spectral Emporium
+ID_QU_SD_SPECTRALEMPORIUM,Spend Ebony Treats in the Event Store
+ID_QU_LD_SPECTRALEMPORIUM,"Spend Ebony Treats in the limited time Event Store and spend Power Cores to earn milestone progress. Ebony Treats can be obtained from Campaign Nodes, daily Free Claims, and the daily Feral Festival Web Milestone. "
+ID_QU_S1_SPECTRALEMPORIUM,Spend 1 Ebony Treat
+ID_QU_S2_SPECTRALEMPORIUM,Spend 1 Power Core
+ID_QU_NA_FERALFESTIVAL,Feral Festival
+ID_QU_SD_FERALFESTIVAL,Battle in Raids
+ID_QU_LD_FERALFESTIVAL,Battle in Raids to complete this daily milestone that rewards Ebony Treats for Spectral Emporium Event progress!
+ID_QU_S1_FERALFESTIVAL,Play 1 Raid Battle
+ID_QU_NA_WEREWOLFWARZONE,Werewolf Warzone
+ID_QU_SD_WEREWOLFWARZONE,Battle in War and Earn Allied Supply II Orb Fragments
+ID_QU_LD_WEREWOLFWARZONE,"Collaborate with your alliances to battle in War and earn Allied Supply II Orb Fragments. Allied Supply II Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store. "
+ID_QU_S1_WEREWOLFWARZONE,Play 1 War Battle
+ID_QU_S2_WEREWOLFWARZONE,Earn 1 Allied Supply II Orb Fragments

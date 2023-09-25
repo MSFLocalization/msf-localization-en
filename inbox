@@ -7239,6 +7239,15 @@ ID_ME_BO_ALCHEMICALASSAULTANNOUNCE,"Commander\n\n<color=#fff568>Alchemical Assau
 ID_ME_NA_ALCHEMICALASSAULTENDING,ENDING: Alchemical Assault
 ID_ME_DE_ALCHEMICALASSAULTENDING,Don't miss out on valuable Iso-8 Rewards!
 ID_ME_BO_ALCHEMICALASSAULTENDING,"Commander,\n\nThe Alchemical Assault Event <color=#fff568>ends soon</color>. Continue earning Ions and progress towards the Secret Sorcery Event with Tarot Cards before the event ends!\n\nGood luck, Commander!"
+ID_ME_NA_GOLDENDIMENSION_TEASER,Coming Soon: Golden Dimension
+ID_ME_DE_GOLDENDIMENSION_TEASER,A New Dimension is coming
+ID_ME_BO_GOLDENDIMENSION_TEASER,"Commander,\n\nBrighten up your roster with Dormammu's ""Golden"" Costume with the upcoming <color=#fff568>Golden Dimension</color> Milestone!\n\nFor a limited time, Gold Flash Bits will be available in the daily leaderboard for those who rank 25% and higher. Use those Gold Flash Bits to purchase Dormammu's ""Golden"" Costume.\n\nThis dimension opens soon, so be on the lookout!"
+ID_ME_NA_GOLDENDIMENSION_ANNOUNCE,Live: Golden Dimension
+ID_ME_DE_GOLDENDIMENSION_ANNOUNCE,Unlock the power of Gold
+ID_ME_BO_GOLDENDIMENSION_ANNOUNCE,"Commander,\n\nIntroducing: The <color=#fff568>Golden Dimension </color>Milestone\n\nFor a limited-time, this new <color=#fff568>daily</color> milestone <color=#fff568>replaces</color> the previous Golden Opportunity Milestone, and features Dormammu's ""Golden"" Costume.\n\nYou'll have 31 days to earn enough <color=#fbd303>Gold Flash Bits</color> to purchase Dormammu's ""Golden"" Costume!\n\n<color=#fff568>How To Earn Gold Flash Bits:</color>\nScore 6,000,000 Points in the Golden Dimension Milestone to unlock access to Rank Rewards. Ranks 25% and higher will contain <color=#fbd303>Gold Flash Bits</color>. You will need 40,000 Gold Flash Bits to purchase Dormammu's ""Golden"" Costume\n\nStart earning these rewards today by spending Gold!"
+ID_ME_NA_GOLDENDIMENSION_ENDING,Ending: Golden Dimension
+ID_ME_DE_GOLDENDIMENSION_ENDING,Dimension is closing
+ID_ME_BO_GOLDENDIMENSION_ENDING,"Time is running out on the <color=#fff568>Golden Dimension</color> Milestone.\n\nClimb the leaderboard daily to earn Gold Flash Bits. Use Golden Flash Bits to purchse the ""Golden"" Costume for Dormammu in the Supplies Section of the Costume Store or in Dormammu's Character Page.\n\nGood Luck, Commander!"
 ID_ME_NA_TIGRA_TEASER,Coming Soon: Tigra
 ID_ME_DE_TIGRA_TEASER,Feral Fury
 ID_ME_BO_TIGRA_TEASER,"Commander,\n\nTigra is on the prowl with New Avengers in Alliance War!\n\n<color=#fff568>Ability Highlights</color>\nApply Bleed and Slow to all enemies and strip their Immunity. Gain Taunt, Immunity, and Evade.\n\n\n<color=#fff568>New Avenger Bonuses</color>\nEnhance your allies' Damage and Health while also granting Evade.\n\n<color=#fff568>Alliance War Bonuses</color>\nApply Trauma and additional Bleed to all enemies. Tigra gains Speed Up, additional Evade and Safeguard. New Avenger Allies also gain additional Evade.\n\nBe on the lookout for details on how to earn their character shards!"
@@ -7269,3 +7278,38 @@ ID_ME_BO_SHOWCASE_PEGASUS_LIVE,"Commander,\n\nLead the P.E.G.A.S.U.S. and Rebirt
 ID_ME_NA_SHOWCASE_PEGASUS_ENDING,ENDING: Across Infinity
 ID_ME_DE_SHOWCASE_PEGASUS_ENDING,2 Days Left!
 ID_ME_BO_SHOWCASE_PEGASUS_ENDING,"Commander,\n\nThe P.E.G.A.S.U.S. Showcase Event ends in 2 days. Continue earning rewards before this Showcase ends!\n\nGood luck, Commander!\n"
+ID_ME_NA_VENGEFULSPIRITS_TEASER,Coming Soon: Vengeful Spirits
+ID_ME_DE_VENGEFULSPIRITS_CORE,Earn New Avenger shards!
+ID_ME_BO_VENGEFULSPIRITS_CORE,"Commander,\n\n<color=#fff568>Vengeful Spirits Milestone</color>\nGain progress in this <color=#fff568>4-day</color> event by earning Vindicator Orb Fragments earned from Campaign nodes, battling in Raids, and using Loki (Teen), Beta Ray Bill, or Sylvie in Raids with increased points for having them at Gear Tier 16 or higher. Earn fantastic rewards including <color=#fff568>Tigra and Ronin shards, Elite 6 Credits, Gear Tier 17 and 18 Skill Mini-Uniques, and other Teal Skill gear</color>. You'll also earn points towards the month-long Night of the Were-Tigress milestone by collecting Cat's Head Amulets and the Trophy Necklace. Keep an eye out for Free Claims containing Vindicator Orb Fragments every day!\n\n<color=#fff568>Daily Twilight Trials Web Milestone</color>\nSpend Power Cores to earn Vindicator Orb Fragments containing New Avenger and Bifrost shards and make progress in the Vengeful Spirits Milestone.\n\nGood luck, Commander!"
+ID_ME_NA_VENGEFULSPIRITS_ANNOUNCE,LIVE: Vengeful Spirits
+ID_ME_NA_VENGEFULSPIRITS_ENDING,ENDING: Vengeful Spirits
+ID_ME_DE_VENGEFULSPIRITS_ENDING,Don't miss out on New Avenger shards and Skill gear!
+ID_ME_BO_VENGEFULSPIRITS_ENDING,"Commander,\n\nThe Vengeful Spirits Milestone <color=#fff568>ends soon</color>. Continue earning New Avenger shards and Teal Skill Gear!\n\nGood luck, Commander!"
+ID_ME_NA_SPECTRALEMPORIUM_TEASER,Coming Soon: Spectral Emporium
+ID_ME_NA_SPECTRALEMPORIUM_ANNOUNCE,LIVE: Spectral Emporium
+ID_ME_DE_SPECTRALEMPORIUM_CORE,Choose your treats in the Event Store!
+ID_ME_BO_SPECTRALEMPORIUM_CORE,"Commander,\n\n<color=#fff568>Spectral Emporium Milestone</color>\nScore points toward this milestone by spending Ebony Treats in the Event Store and spending Power Cores! The Event Store will contain <color=#fff568>select character shards, Teal gear, T4 Ability Materials, Elite 7 Credits</color> and much more! Collect Ebony Treats from Campaign Nodes and the Feral Festival Web Milestone every day to participate in the milestone and compete in the leaderboard. Leaderboard rewards will vary for players depending on their Commander Level, however all players in the event will have a chance to hunt down a <color=#fff568>7-Red Star Spider-Man (Big-Time), Mystic Mini-Uniques, and Promotion Credits</color>. \n\n<color=#fff568>Daily Feral Festival Web Milestone</color>\nBattle in Raids to earn progress in this web milestone to earn Ebony Treats for additional Spectral Emporium milestone progress.\n\nGood luck, Commander!"
+ID_ME_NA_SPECTRALEMPORIUM_ENDING,ENDING: Spectral Emporium
+ID_ME_DE_SPECTRALEMPORIUM_ENDING,"Don't miss out on Event Store rewards! "
+ID_ME_BO_SPECTRALEMPORIUM_ENDING,"Commander,\n\nThe Spectral Emporium Milestone <color=#fff568>ends soon</color>. Continue spending Ebony Treats on your choice of rewards before it's too late! Push to the top of the leaderboard for a <color=#fff568>7-Red Star Spider-Man (Big Time)</color>!\n\nGood luck, Commander!"
+ID_ME_NA_WEREWOLFWARZONE_ANNOUNCE,LIVE: Werewolf Warzone
+ID_ME_DE_WEREWOLFWARZONE_ANNOUNCE,Battle in Alliance War for Gold rewards!
+ID_ME_BO_WEREWOLFWARZONE_ANNOUNCE,"Commander,\n\nCollaborate with your alliance and battle in War in this 4-day milestone to earn Gold and Night of the Were-Tigress progress.\n\nGood luck, Commander!"
+ID_ME_NA_IRONMANINFINITYWAR_TEASER,Soon: Iron Man (Infinity War)
+ID_ME_DE_IRONMANINFINITYWAR_TEASER,Nanotech Knight
+ID_ME_BO_IRONMANINFINITYWAR_TEASER,"Commander,\n\n<color=#fff568>Iron Man (Infinity War)</color> is soaring in to brawl through waves on Tech Raid nodes!\n\n<color=#fff568>Ability Highlights</color>\nOutput strong multi-target damage, Bleed, and Defense Down while clearing positive effects\n\n<color=#fff568>P.E.G.A.S.U.S. Bonuses</color>\nApply Speed Up and spread Positive effects to allies while providing healing, damage, and health.\n\n<color=#fff568>Raid Bonuses</color>\nWeaken Raid waves by reducing their Speed Bar, lowering Resistance, and applying Blind.\n\nBe on the lookout for details on how to earn their character shards!"
+ID_ME_NA_IRONMANINFINITYWAR_ANNOUNCE,Iron Man (Infinity War) is here!
+ID_ME_DE_IRONMANINFINITYWAR_ANNOUNCE,Nanotech Knight
+ID_ME_BO_IRONMANINFINITYWAR_ANNOUNCE,"Commander,\n\n<color=#fff568>Iron Man (Infinity War)</color> has arrived to brawl through waves on Tech Raid nodes!\n\nRecruit him now and update your saved squads on MarvelStrikeForce.com with Rescue and Kestrel to start building your <color=#fff568>P.E.G.A.S.U.S.</color> team.\n\n<color=#fff568>Ability Highlights</color>\nOutput strong multi-target damage, Bleed, and Defense Down while clearing positive effects\n\n<color=#fff568>P.E.G.A.S.U.S. Bonuses</color>\nApply Speed Up and spread Positive effects to allies while providing healing, damage, and health.\n\n<color=#fff568>Raid Bonuses</color>\nWeaken Raid waves by reducing their Speed Bar, lowering Resistance, and applying Blind.\n\n<color=#fff568>How to Recruit</color>\nDon't miss these opportunities to earn their shards\n\n- Timeline Protector Orb\n- Limited-time offers in the Store\n- An upcoming event\n\n<color=#fff568>Red Stars</color>\nFor players who have unlocked the Red Stars feature (Level 42), Iron Man (Infinity War) is featured in Red Star Orbs with an increased drop rate for a limited time.\n\nRecruit this Nanotech Knight to melt through waves of enemies on Tech Raid nodes!"
+ID_ME_NA_IRONMANINFINITYWAR_RS_ENDING,Red Stars: Iron Man (Infinity War)
+ID_ME_DE_IRONMANINFINITYWAR_RS_ENDING,Featuring Ends Soon!
+ID_ME_BO_IRONMANINFINITYWAR_RS_ENDING,"Commander,\n\n<color=#fff568>Iron Man (Infinity War)</color> will only be featured in all Red Star Orbs for 2 more days!\n\nHurry and open Red Star Orbs while the drop rate is still increased."
+ID_ME_NA_IRONMANINFINITYWAR_ORB_ENDING,Timeline Protector Orb
+ID_ME_DE_IRONMANINFINITYWAR_ORB_ENDING,2 days left!
+ID_ME_BO_IRONMANINFINITYWAR_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Timeline Protector Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Iron Man (Infinity War)</color> for your <color=#fff568>P.E.G.A.S.U.S.</color> team and melt through waves of enemies on Tech Raid nodes!"
+ID_ME_NA_NEWBLOGPOST_092923,Nanotech Roster Upgrade
+ID_ME_DE_NEWBLOGPOST_092923,New Blog Available
+ID_ME_BO_NEWBLOGPOST_092923,"Commander,\n\nHarness the power of nano tech in this week's blog, which includes:\n\n- Iron Man (Infinity War)'s upcoming release\n- Night of the Were-Tigress Overview\n- Incursion Details\n\nDon't miss out on this alongside details for Free Claim Friday!"
+ID_ME_NA_MOCKINGBIRD_SPOTLIGHT,Prepare for Mockingbird
+ID_ME_DE_MOCKINGBIRD_SPOTLIGHT,See this New Avenger in Action
+ID_ME_BO_MOCKINGBIRD_SPOTLIGHT,"Commander,\n\nPrepare for the <color=#fff568>Recruiting Mockingbird</color> Event and discover the strategy behind this New Avenger.\nWatch her spotlight video now!"

@@ -208,18 +208,18 @@ ID_EVENT_CUR6_NAME,Mystical Energy
 ID_EVENT_CUR6_DESCRIPTION,Spend this magical currency in the Mystical Energy Shop
 ID_EVENT_CUR7_NAME,Outlaw Stash Orb Fragment
 ID_EVENT_CUR7_DESCRIPTION,"Open Outlaw Stash Orbs for Star-Lord (Annihilation) shards, Gold and gear!"
-ID_EVENT_CUR8_NAME,Thunderous Applause Milestone Points
-ID_EVENT_CUR8_DESCRIPTION,These points earn you additional progress in the Thunderous Applause Milestone. Earn them in Daily Free Claims on our website and limited time offers!
-ID_EVENT_CUR9_NAME,Intergalactic Merch Booth Milestone Points
-ID_EVENT_CUR9_DESCRIPTION,These points earn you additional progress in the Intergalactic Merch Booth Milestone. Earn them in Daily Free Claims on our website and limited time offers!
-ID_EVENT_CUR10_NAME,TVA Gift Shop
-ID_EVENT_CUR10_DESCRIPTION,Spend TVA Gift Cards at the TVA Gift Shop. Only for a limited time
-ID_EVENT_CUR11_NAME,Paranormal Preparation Milestone Points
-ID_EVENT_CUR11_DESCRIPTION,These points earn you additional progress in the Paranormal Preparation Milestone.
-ID_EVENT_CUR12_NAME,Apple of Idunn
-ID_EVENT_CUR12_DESCRIPTION,"Spend Apples of Idunn in the Event Store to earn additional progress in the Bounty of Asgard Milestone. Earn them in Campaign Nodes, Daily Free Claims on our website, and limited offers!"
-ID_EVENT_CUR13_NAME,Mystical Power Orb Fragments
-ID_EVENT_CUR13_DESCRIPTION,"Open Mystical Power Orbs for Hero Asgardian shards, Training Modules, and more!"
+ID_EVENT_CUR8_NAME,Vindicator Orb Fragment
+ID_EVENT_CUR8_DESCRIPTION,Earn Vindicator Orb Fragments from Campaign nodes to earn progress in the Vengeful Spirits Milestone. Each orb contains New Avenger and Bifrost character shards!
+ID_EVENT_CUR9_NAME,Vengeful Spirits Milestone Points
+ID_EVENT_CUR9_DESCRIPTION,These points earn you additional progress in the Vengeful Spirits Milestone. Earn them in Daily Free Claims on our website and limited time offers!
+ID_EVENT_CUR10_NAME,Ebony Treat
+ID_EVENT_CUR10_DESCRIPTION,"Spend Ebony Treats in the Event Store to earn additional progress in the Spectral Emporium Milestone. Earn them in Campaign Nodes, Feral Festival Web Milestone, Daily Free Claims on our website, and limited offers!"
+ID_EVENT_CUR11_NAME,Spectral Emporium Milestone Points
+ID_EVENT_CUR11_DESCRIPTION,These points earn you additional progress in the Spectral Emporium Milestone. Earn them in Daily Free Claims on our website and limited time offers!
+ID_EVENT_CUR12_NAME,Arc Reactor Orb Fragment
+ID_EVENT_CUR12_DESCRIPTION,Earn Arc Reactor Orb Fragments from Arena Payout rewards and the Machine Menace Web Milestone to earn progress in the Technology Terror Milestone. Each orb contains Iron Man (Infinity War) character shards!
+ID_EVENT_CUR13_NAME,Technology Terror Milestone Points
+ID_EVENT_CUR13_DESCRIPTION,These points earn you additional progress in the Technology Terror Milestone. Earn them in Daily Free Claims on our website and limited time offers!
 ID_EVENT_CUR14_NAME,Strange Divination: Ronin Milestone Points
 ID_EVENT_CUR14_DESCRIPTION,These points earn you additional progress in the Strange Divination: Ronin Milestone.
 ID_EVENT_CUR15_NAME,Divination Orb Fragments
@@ -383,7 +383,7 @@ ID_EVTA_META_OCT_B_DESCRIPTION,Collect the Beast Glove for points in the Night o
 ID_EVTA_META_OCT_C_NAME,Trophy Necklace
 ID_EVTA_META_OCT_C_DESCRIPTION,Collect the Trophy Necklace for points in the Night of the Were-Tigress Event. Earn it in the Vengeful Spirits Event!
 ID_EVTA_META_OCT_D_NAME,Chaos Claw
-ID_EVTA_META_OCT_D_DESCRIPTION,Collect the Chaos Claw for points in the Night of the Were-Tigress Event. Earn them in the Spectral Emporium Event!
+ID_EVTA_META_OCT_D_DESCRIPTION,Collect the Chaos Claw for points in the Night of the Were-Tigress Event. Earn it in the Spectral Emporium Event!
 ID_EVTA_META_OCT_E_NAME,Jungle Jacket
 ID_EVTA_META_OCT_E_DESCRIPTION,Collect the Jungle Jacket for points in the Night of the Were-Tigress Event. Earn it in the Technology Terror Event!
 ID_EVTA_META_OCT_F_NAME,Fanged Anklet
