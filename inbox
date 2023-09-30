@@ -7295,6 +7295,12 @@ ID_ME_BO_SPECTRALEMPORIUM_ENDING,"Commander,\n\nThe Spectral Emporium Milestone 
 ID_ME_NA_WEREWOLFWARZONE_ANNOUNCE,LIVE: Werewolf Warzone
 ID_ME_DE_WEREWOLFWARZONE_ANNOUNCE,Battle in Alliance War for Gold rewards!
 ID_ME_BO_WEREWOLFWARZONE_ANNOUNCE,"Commander,\n\nCollaborate with your alliance and battle in War in this 4-day milestone to earn Gold and Night of the Were-Tigress progress.\n\nGood luck, Commander!"
+ID_ME_NA_STRIKEPASS44_ANNOUNCE,S.T.R.I.K.E. Pass: Season 44
+ID_ME_DE_STRIKEPASS44_ANNOUNCE,Earn Iron Man (Zombie) shards!
+ID_ME_BO_STRIKEPASS44_ANNOUNCE,"Commander,\n\n<color=#fff568>S.T.R.I.K.E. Pass: Season 44 is live!</color>\n\nFeatured Character Shards: <color=#fff568>Iron Man (Zombie)</color>\n<color=#fff568>How it Works</color>\n- Certain Daily Objectives reward S.T.R.I.K.E. Tokens\n- Earn S.T.R.I.K.E. Tokens to hit Season-long milestone rewards\n- You can also spend Power Cores to immediately reach the next S.T.R.I.K.E. Level\n- Your S.T.R.I.K.E. Level resets each Season\n\n<color=#fff568>Reward Tiers</color>\n- Commander Level determines your S.T.R.I.K.E. Pass Tier & Rewards\n- S.T.R.I.K.E. I: Commander Levels 10-49\n- S.T.R.I.K.E. II: Commander Levels 50-69\n- S.T.R.I.K.E. III: Commander Levels 70+\n- Your Commander Level at the START of the season determines which S.T.R.I.K.E. Pass Tier you get for the duration of the Season\n\n<color=#fff568>Premium S.T.R.I.K.E. Pass</color>\nUpgrade to the <color=#fff568>Premium S.T.R.I.K.E. Pass</color> to earn additional rewards for reaching each S.T.R.I.K.E. Level."
+ID_ME_NA_STRIKEPASS44_ENDING,Ending: S.T.R.I.K.E. Pass
+ID_ME_DE_STRIKEPASS44_ENDING,Don't miss Iron Man (Zombie) shards!
+ID_ME_BO_STRIKEPASS44_ENDING,"Commander,\n\nYou only have <color=#fff568>2 days</color> remaining to earn <color=#fff568>Iron Man (Zombie)</color> shards in Season 44 of S.T.R.I.K.E. Pass.\n\nHurry and complete your Daily Objectives before these rewards are gone!"
 ID_ME_NA_IRONMANINFINITYWAR_TEASER,Soon: Iron Man (Infinity War)
 ID_ME_DE_IRONMANINFINITYWAR_TEASER,Nanotech Knight
 ID_ME_BO_IRONMANINFINITYWAR_TEASER,"Commander,\n\n<color=#fff568>Iron Man (Infinity War)</color> is soaring in to brawl through waves on Tech Raid nodes!\n\n<color=#fff568>Ability Highlights</color>\nOutput strong multi-target damage, Bleed, and Defense Down while clearing positive effects\n\n<color=#fff568>P.E.G.A.S.U.S. Bonuses</color>\nApply Speed Up and spread Positive effects to allies while providing healing, damage, and health.\n\n<color=#fff568>Raid Bonuses</color>\nWeaken Raid waves by reducing their Speed Bar, lowering Resistance, and applying Blind.\n\nBe on the lookout for details on how to earn their character shards!"
@@ -7313,3 +7319,30 @@ ID_ME_BO_NEWBLOGPOST_092923,"Commander,\n\nHarness the power of nano tech in thi
 ID_ME_NA_MOCKINGBIRD_SPOTLIGHT,Prepare for Mockingbird
 ID_ME_DE_MOCKINGBIRD_SPOTLIGHT,See this New Avenger in Action
 ID_ME_BO_MOCKINGBIRD_SPOTLIGHT,"Commander,\n\nPrepare for the <color=#fff568>Recruiting Mockingbird</color> Event and discover the strategy behind this New Avenger.\nWatch her spotlight video now!"
+ID_ME_NA_CAMPAIGN_INCURSION_1_3_LIVE,Live: Incursion Campaign
+ID_ME_DE_CAMPAIGN_INCURSION_1_3_LIVE,Earn Red Star Promotions!
+ID_ME_BO_CAMPAIGN_INCURSION_1_3_LIVE,"Commander,\n\nThe <color=#fff568>Incursion Campaign</color> is here! This brand-new campaign unlocks at Commander Level 70 and consists of three chapters. Rewards include a chance for <color=#fff568>Silver Promotion Credits, Gold Promotion Credits, Dark Promotion Credits, Red Star Orb Fragments and 5-7 Red Stars</color> for a variety of characters.\n\nHere are each chapter's entry requirements:\n\n<color=#fff568>Chapter 1:</color> No requirements.\n<color=#fff568>Chapter 2:</color> 5 Red Stars, Only Bio or Skill characters.\n<color=#fff568>Chapter 3:</color> Required: 6 Red Stars, Only Bio or Skill characters\n\nEnter the Incursion Campaign now to earn these exciting rewards!"
+ID_ME_NA_BATTLEPASS_SEASON5_ANNOUNCE,Battle Pass: Season 5
+ID_ME_DE_BATTLEPASS_SEASON5_ANNOUNCE,Earn Sylvie shards & Teal gear!
+ID_ME_BO_BATTLEPASS_SEASON5_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle Pass: Season 5 is LIVE</color>!\n\nComplete this Season's Daily and Weekly Objectives to win these <color=#fff568>Featured Prizes</color>:\n- Sylvie character shards\n- Teal Gear\n\nUpgrade to the <color=#fff568>Premium Pass</color> to earn even more rewards.\n\nCharge into Battle Pass: Season 5 today!"
+ID_ME_NA_BATTLEPASS_SEASON5_ENDING,Season 5 Ending Soon
+ID_ME_DE_BATTLEPASS_SEASON5_ENDING,Battle Pass: 2 more days!
+ID_ME_BO_BATTLEPASS_SEASON5_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Sylvie shards and Teal Gear before the Season ends!"
+ID_ME_NA_SPLASH_INVADEORTREAT,LIVE: Invade or Treat
+ID_ME_DE_SPLASH_INVADEORTREAT,Earn Cat's Head Amulets and Orbs!
+ID_ME_BO_SPLASH_INVADEORTREAT,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Orbs</color> and <color=#fff568>Cat's Head Amulets</color> for the Night of the Were-Tigress!\n\n<color=#fff568>Featured Trait</color>:\nInvader\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_HAUNTINGHUNTERS,LIVE: Haunting Hunters
+ID_ME_DE_SPLASH_HAUNTINGHUNTERS,Earn Cat's Head Amulets and Iso-8!
+ID_ME_BO_SPLASH_HAUNTINGHUNTERS,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Iso-8</color> and <color=#fff568>Cat's Head Amulets</color> for the Night of the Were-Tigress!\n\n<color=#fff568>Featured Trait</color>:\nDark Hunter\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_DEATHLYSHADOWS,LIVE: Deathly Shadows
+ID_ME_DE_SPLASH_DEATHLYSHADOWS,Earn Cat's Head Amulets and Gear!
+ID_ME_BO_SPLASH_DEATHLYSHADOWS,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Gear</color> and <color=#fff568>Cat's Head Amulets</color> for the Night of the Were-Tigress!\n\n<color=#fff568>Featured Trait</color>:\nShadowland\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_SPOOKYSYMBIOTES,LIVE: Spooky Symbiotes
+ID_ME_DE_SPLASH_SPOOKYSYMBIOTES,Earn Cat's Head Amulets and Ability Materials!
+ID_ME_BO_SPLASH_SPOOKYSYMBIOTES,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Ability Materials</color> and <color=#fff568>Cat's Head Amulets</color> for the Night of the Were-Tigress!\n\n<color=#fff568>Featured Trait</color>:\nSymbiote\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_HEROICHORRORS,LIVE: Heroic Horrors
+ID_ME_DE_SPLASH_HEROICHORRORS,Earn Cat's Head Amulets and Orbs!
+ID_ME_BO_SPLASH_HEROICHORRORS,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Orbs</color> and <color=#fff568>Cat's Head Amulets</color> for the Night of the Were-Tigress!\n\n<color=#fff568>Featured Trait</color>:\nA-Force\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_LOKIALLTHETIME_ANNOUNCE,LIVE: Loki All the Time
+ID_ME_DE_LOKIALLTHETIME_ANNOUNCE,Spend Campaign Energy for Multiversal Rewards!
+ID_ME_BO_LOKIALLTHETIME_ANNOUNCE,"Commander,\n\nCelebrate Loki Season 2 with this fantastic event! Spend Campaign Energy for incredible rewards including Armory 18 Orb Fragments, T4 Ability Materials, and characters shards for Loki, Sylvie, and Kang the Conqueror!\n\nGood luck, Commander!"

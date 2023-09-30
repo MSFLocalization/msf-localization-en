@@ -4347,6 +4347,13 @@ ID_DIALOG_SCE_PEGASUS_06_END_6,"He, uh, likes cats."
 ID_DIALOG_SCE_PEGASUS_06_END_7,That's... unexpected.
 ID_DIALOG_SCE_PEGASUS_07_INTRO_0,We need to be careful here. This area is the territory of a Baron I've crossed before...
 ID_DIALOG_SCE_PEGASUS_07_INTRO_1,Well what do we have here? Looks like this time the bounty came to me.
+ID_DIALOG_SCE_PEGASUS_07_START_0,We're just passing through.
+ID_DIALOG_SCE_PEGASUS_07_START_1,"You know the rules, bub. You cross the Baron, you get the claws."
+ID_DIALOG_SCE_PEGASUS_07_START_2,Move or be moved.
+ID_DIALOG_SCE_PEGASUS_07_START_3,"Let's dance, lady."
+ID_DIALOG_SCE_PEGASUS_07_MID_0,C'mon boys. We got our orders.
+ID_DIALOG_SCE_PEGASUS_07_MID_1,"How many versions of this guy does this ""Baron"" employ?"
+ID_DIALOG_SCE_PEGASUS_07_MID_2,Too many!
 ID_DIALOG_SCE_PEGASUS_07_END_0,They're... regenerating?
 ID_DIALOG_SCE_PEGASUS_07_END_1,That's kind of his thing. Move fast. He won't chase us outside his territory.
 ID_DIALOG_SCE_PEGASUS_08_INTRO_0,"Whose the final recruit, Kestrel?"
@@ -4405,7 +4412,7 @@ ID_DIALOG_SCE_PEGASUS2_01_INTRO_5,"But in digging through the data recovered fro
 ID_DIALOG_SCE_PEGASUS2_01_INTRO_6,"The ""Equilibrium Cascade""?"
 ID_DIALOG_SCE_PEGASUS2_01_INTRO_7,Right you are. Commander Kestrel has the details. Good luck.
 ID_DIALOG_SCE_PEGASUS2_01_START_0,So we're back in the fractured world?
-ID_DIALOG_SCE_PEGASUS2_01_START_1,Yes. Mister. Fantastic is building the device according to the plans we recovered from Ultimus.
+ID_DIALOG_SCE_PEGASUS2_01_START_1,Yes. Mister Fantastic is building the device according to the plans we recovered from Ultimus.
 ID_DIALOG_SCE_PEGASUS2_01_START_2,"The thing is, it needs a unique kind of power source. And the only place we know to find it... is here."
 ID_DIALOG_SCE_PEGASUS2_01_START_3,"I knew it. You're after ""it"", aren't you? The energy from destroyed universes!"
 ID_DIALOG_SCE_PEGASUS2_01_START_4,"It has a lot of names, but we call it ""Potential"" energy. It's what the P in P.E.G.A.S.U.S. stands for."

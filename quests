@@ -3458,3 +3458,42 @@ ID_QU_SD_WEREWOLFWARZONE,Battle in War and Earn Allied Supply II Orb Fragments
 ID_QU_LD_WEREWOLFWARZONE,"Collaborate with your alliances to battle in War and earn Allied Supply II Orb Fragments. Allied Supply II Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store. "
 ID_QU_S1_WEREWOLFWARZONE,Play 1 War Battle
 ID_QU_S2_WEREWOLFWARZONE,Earn 1 Allied Supply II Orb Fragments
+ID_QU_NA_SPLASH_INVADEORTREAT,Invade or Treat
+ID_QU_SD_SPLASH_INVADEORTREAT,Use Invader in Blitz
+ID_QU_LM_SPLASH_INVADEORTREAT,Earn points by using Invader characters in Blitz Battles. Earn more points if your Invader characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_INVADEORTREAT,Use Invader Characters in Blitz
+ID_QU_S1_SPLASH_INVADEORTREAT,Win Blitz with 3-star or higher Invader Character
+ID_QU_S2_SPLASH_INVADEORTREAT,Win Blitz with 5-star or higher Invader Character
+ID_QU_S3_SPLASH_INVADEORTREAT,Win Blitz with 7-star Invader Character
+ID_QU_NA_SPLASH_HAUNTINGHUNTERS,Haunting Hunters
+ID_QU_SD_SPLASH_HAUNTINGHUNTERS,Use Dark Hunter in Blitz
+ID_QU_LM_SPLASH_HAUNTINGHUNTERS,Earn points by using Dark Hunter characters in Blitz Battles. Earn more points if your Dark Hunter characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_HAUNTINGHUNTERS,Use Dark Hunter Characters in Blitz
+ID_QU_S1_SPLASH_HAUNTINGHUNTERS,Win Blitz with 3-star or higher Dark Hunter Character
+ID_QU_S2_SPLASH_HAUNTINGHUNTERS,Win Blitz with 5-star or higher Dark Hunter Character
+ID_QU_S3_SPLASH_HAUNTINGHUNTERS,Win Blitz with 7-star Dark Hunter Character
+ID_QU_NA_SPLASH_DEATHLYSHADOWS,Deathly Shadows
+ID_QU_SD_SPLASH_DEATHLYSHADOWS,Use Shadowland in Blitz
+ID_QU_LM_SPLASH_DEATHLYSHADOWS,Earn points by using Shadowland characters in Blitz Battles. Earn more points if your Shadowland characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_DEATHLYSHADOWS,Use Shadowland Characters in Blitz
+ID_QU_S1_SPLASH_DEATHLYSHADOWS,Win Blitz with 3-star or higher Shadowland Character
+ID_QU_S2_SPLASH_DEATHLYSHADOWS,Win Blitz with 5-star or higher Shadowland Character
+ID_QU_S3_SPLASH_DEATHLYSHADOWS,Win Blitz with 7-star  Character
+ID_QU_NA_SPLASH_SPOOKYSYMBIOTES,Spooky Symbiotes
+ID_QU_SD_SPLASH_SPOOKYSYMBIOTES,Use Symbiote in Blitz
+ID_QU_LM_SPLASH_SPOOKYSYMBIOTES,Earn points by using Symbiote characters in Blitz Battles. Earn more points if your Symbiote characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_SPOOKYSYMBIOTES,Use Symbiote Characters in Blitz
+ID_QU_S1_SPLASH_SPOOKYSYMBIOTES,Win Blitz with 3-star or higher Symbiote Character
+ID_QU_S2_SPLASH_SPOOKYSYMBIOTES,Win Blitz with 5-star or higher Symbiote Character
+ID_QU_S3_SPLASH_SPOOKYSYMBIOTES,Win Blitz with 7-star Symbiote Character
+ID_QU_NA_SPLASH_HEROICHORRORS,Heroic Horrors
+ID_QU_SD_SPLASH_HEROICHORRORS,Use A-Force in Blitz
+ID_QU_LM_SPLASH_HEROICHORRORS,Earn points by using A-Force characters in Blitz Battles. Earn more points if your A-Force characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_HEROICHORRORS,Use A-Force Characters in Blitz
+ID_QU_S1_SPLASH_HEROICHORRORS,Win Blitz with 3-star or higher A-Force Character
+ID_QU_S2_SPLASH_HEROICHORRORS,Win Blitz with 5-star or higher A-Force Character
+ID_QU_S3_SPLASH_HEROICHORRORS,Win Blitz with 7-star A-Force Character
+ID_QU_NA_LOKIALLTHETIME,Loki All the Time
+ID_QU_SD_LOKIALLTHETIME,Spend Campaign Energy for Multiversal Rewards!
+ID_QU_LD_LOKIALLTHETIME,"Celebrate Loki Season 2 with this fantastic event! Spend Campaign Energy for incredible rewards including Armory 18 Orb Fragments, T4 Ability Materials, and characters shards for Loki, Sylvie, and Kang the Conqueror!"
+ID_QU_S1_LOKIALLTHETIME,Spend 1 Campaign Energy

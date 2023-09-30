@@ -4180,12 +4180,72 @@ ID_OF_DE_SCARLETSPECIAL_STARCHART_END,You've made it to the final star chart and
 ID_OF_NA_2X_28000XP_Offer,2X XPlosion
 ID_OF_DE_2X_28000XP_Offer,"14,000 -> <color=#33dd00>2X BONUS 28,000</color>. XP Bonus from Event Already Applied."
 ID_OF_NA_IRONMANINFINITYWAR_FCO_OFFER,Nanotech Knight
-ID_OF_DE_IRONMANINFINITYWAR_FCO_OFFER,Each <color=#fff568>Timeline Protector Orb</color> contains <color=#fff568>up to 180 Iron Man (Infinity War)</color> shards. Spread positive effects and sustain <color=#fff568>P.E.G.A.S.U.S.</color> allies while melting Raid waves with high damage and negative effects!
-ID_OF_DE_IRONMANINFINITYWAR_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Iron Man (Infinity War)</color> and unlock one-time only release offers on your next visit! Spread positive effects and sustain <color=#fff568>P.E.G.A.S.U.S.</color> allies while melting Raid waves with high damage and negative effects!
-ID_OF_DE_IRONMANINFINITYWAR_OFFER_SHARD,Power up <color=#fff568>Iron Man (Infinity War)</color> with this shard offer! Spread positive effects and sustain <color=#fff568>P.E.G.A.S.U.S.</color> allies while melting Raid waves with high damage and negative effects!
+ID_OF_DE_IRONMANINFINITYWAR_FCO_OFFER,Each <color=#fff568>Timeline Protector Orb</color> contains <color=#fff568>up to 180 Iron Man (Infinity War)</color> shards. Spread positive effects and sustain <color=#fff568>P.E.G.A.S.U.S.</color> allies while melting Raid waves with high damage!
+ID_OF_DE_IRONMANINFINITYWAR_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Iron Man (Infinity War)</color> and unlock one-time only release offers on your next visit! Spread positive effects and sustain <color=#fff568>P.E.G.A.S.U.S.</color> allies while melting Raid waves with high damage!
+ID_OF_DE_IRONMANINFINITYWAR_OFFER_SHARD,Power up <color=#fff568>Iron Man (Infinity War)</color> with this shard offer! Spread positive effects and sustain <color=#fff568>P.E.G.A.S.U.S.</color> allies while melting Raid waves with high damage!
 ID_OF_STOREBAR_IRONMANINFINITYWAR,Dual Offer: Iron Man (Infinity War)
 ID_OF_NA_DUAL_IRONMANINFINITYWAR,Dual Offer: Iron Man (Infinity War)
-ID_OF_DE_DUAL_IRONMANINFINITYWAR,Choose your path to power up this <color=#fff568>P.E.G.A.S.U.S.</color>!
-ID_OF_DE_DUAL_UNLOCK_IRONMANINFINITYWAR,Unlock this <color=#fff568>P.E.G.A.S.U.S.</color> and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_DE_DUAL_IRONMANINFINITYWAR,Choose your path to power up this <color=#fff568>P.E.G.A.S.U.S.</color> member!
+ID_OF_DE_DUAL_UNLOCK_IRONMANINFINITYWAR,Unlock this <color=#fff568>P.E.G.A.S.U.S.</color> member and <color=#fff568>one-time release offers</color> on your next visit!
 ID_OF_NA_PEGASUS_TEAM_OFFER,P.E.G.A.S.U.S. Team Bundle
 ID_OF_DE_PEGASUS_TEAM_OFFER,Melt through Tech Raid nodes with these <color=#fff568>P.E.G.A.S.U.S.</color> team members!
+ID_OF_NA_NIGHTOFTHEWERETIGRESS_STARTER_MEGA,Night of the Were-Tigress: Mega Starter
+ID_OF_NA_NIGHTOFTHEWERETIGRESS_STARTER_SUPER,Night of the Were-Tigress: Super Starter
+ID_OF_NA_NIGHTOFTHEWERETIGRESS_STARTER_CAL,Night of the Were-Tigress: Starter
+ID_OF_NA_NIGHTOFTHEWERETIGRESS_BOOSTER_ANCHOR,Night of the Were-Tigress: Daily Points
+ID_OF_NA_NIGHTOFTHEWERETIGRESS_MEGA_POINTS,Night of the Were-Tigress: Daily Points
+ID_OF_NA_NIGHTOFTHEWERETIGRESS_BOOSTER,Night of the Were-Tigress: Feral Bundle
+ID_OF_NA_NIGHTOFTHEWERETIGRESS_POINTS,Night of the Were-Tigress Points Bundle
+ID_OF_NA_NIGHTOFTHEWERETIGRESS_BOOSTER_MINOR,Night of the Were-Tigress: Jungle Chest
+ID_OF_NA_NIGHTOFTHEWERETIGRESS_CATCHUP_MEGA,Night of the Were-Tigress: Mega Catch-Up
+ID_OF_NA_NIGHTOFTHEWERETIGRESS_CATCHUP_SUPER,Night of the Were-Tigress: Super Catch-Up
+ID_OF_NA_NIGHTOFTHEWERETIGRESS_CATCHUP,Night of the Were-Tigress: Catch-Up Bundle
+ID_OF_NA_NIGHTOFTHEWERETIGRESS_CATCHUP_LAST_CHANCE,Night of the Were-Tigress: Last Chance
+ID_OF_NA_NIGHTOFTHEWERETIGRESS_FREEDAILY,Night of the Were-Tigress: Free Claim
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_STARTER_MEGA,"Stock up on <color=#fff568>Night of the Were-Tigress</color> progress and exclusive items, and get ahead on the Night of the Were-Tigress Leaderboard for <color=#fff568>up to 9 million T2 Level 5 Ions</color>!"
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_STARTER_SUPER,Get ahead in the <color=#fff568>Night of the Were-Tigress</color> milestone and fast-forward your way to the <color=#fff568>Tigra shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_STARTER_CAL,Start off strong in the <color=#fff568>Night of the Were-Tigress</color> milestone!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER_ANCHOR,Make consistent <color=#fff568>Night of the Were-Tigress</color> progress with this daily <color=#fff568>Cat's Head Amulet</color> supply!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_MEGA_POINTS,Stock up on <color=#fff568>Defender of Valhalla</color> progress and <color=#fff568></color> with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER_LEGACYORBS,Stock up on <color=#fff568>Defender of Valhalla</color> progress and <color=#fff568>Legacy Orbs</color> with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress and <color=#fff568></color> with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_POINTS,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER_MEGAORBS,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress and <color=#fff568>Mega Orbs</color> with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER_MINOR,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER_CATALYSTS,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress and <color=#fff568>Catalysts</color> with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER_ARMORYORBS,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress and <color=#fff568>Armory Orbs</color> with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER_ABILITYMATERIALS,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress and <color=#fff568>Ability Materials</color> with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER_TRAININGORBS,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress and <color=#fff568>Training Orbs</color> with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER_ISO-8MATERIALS,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress and <color=#fff568>Iso-8 Materials</color> with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER_GOLD,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress and <color=#fff568>Gold</color> with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_CATCHUP_MEGA,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_CATCHUP_SUPER,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_CATCHUP,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_CATCHUP_LAST_CHANCE,"Catch this deal before it's too late to earn your final <color=#fff568>Tigra shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>! "
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_FREEDAILY,Come back daily for more <color=#fff568>Night of the Were-Tigress</color> progress!
+ID_OF_NA_DARKDEFENDERS_MEGASTARTER,Dark Defenders: Mega Starter
+ID_OF_NA_DARKDEFENDERS_STARTER,Dark Defenders: Starter
+ID_OF_NA_DARKDEFENDERS_MEGACATCHUP,Dark Defenders: Catch-Up
+ID_OF_NA_DARKDEFENDERS_CATCHUP,Dark Defenders: Mega Catch-Up
+ID_OF_NA_DARKDEFENDERS_DAILY_CUR,Dark Defenders: Defender Pumpkins
+ID_OF_NA_DARKDEFENDERS_DAILY_ISO_ENERGY,Dark Defenders: Iso-8 Energy
+ID_OF_NA_DARKDEFENDERS_DAILY_BLITZ,Dark Defenders: Daily Points
+ID_OF_NA_DARKDEFENDERS_CHARACTER,Dark Defenders: Masters of Evil
+ID_OF_NA_DARKDEFENDERS_TECH_GEAR,Dark Defenders: Tech Bundle
+ID_OF_NA_DARKDEFENDERS_BIO_GEAR,Dark Defenders: Bio Bundle
+ID_OF_NA_DARKDEFENDERS_MYSTIC_GEAR,Dark Defenders: Mystic Bundle
+ID_OF_NA_DARKDEFENDERS_DAILY_INTERSTITIAL,Dark Defenders: Hidden Trove
+ID_OF_NA_DARKDEFENDERS_FREECLAIM,Dark Defenders: Free Claim
+ID_OF_DE_DARKDEFENDERS_MEGASTARTER,Get ahead in the <color=#fff568>Dark Defenders</color> Milestone and fast-forward your way to <color=#fff568>Secret Defender shards</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_DARKDEFENDERS_STARTER,Get a head start in the <color=#fff568>Dark Defenders</color> Milestone and speed your way to <color=#fff568>Secret Defender shards</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_DARKDEFENDERS_MEGACATCHUP,Finish your milestone progress and get the last batch of <color=#fff568>Secret Defender shards</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_DARKDEFENDERS_CATCHUP,Finish strong in the milestones to earn <color=#fff568>Secret Defender shards</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_DARKDEFENDERS_DAILY_CUR,Make consistent <color=#fff568>Dark Defenders</color> progress with this daily bundle of Defender Pumpkins!
+ID_OF_DE_DARKDEFENDERS_DAILY_ISO_ENERGY,Collect extra Defender Pumpkins with this pack of Iso-8 Campaign Energy and get bonus progress in the <color=#fff568>Dark Defenders</color> milestone!
+ID_OF_DE_DARKDEFENDERS_DAILY_BLITZ,Skip the Blitz in the Moonlit Mayhem Daily Web Milestone to earn additional Defender Pumpkins for progress in the <color=#fff568>Dark Defenders</color> milestone!
+ID_OF_DE_DARKDEFENDERS_CHARACTER,Power up your Masters of Evil team to fighting shape for additional progress in the <color=#fff568>Dark Defenders</color> milestone!
+ID_OF_DE_DARKDEFENDERS_TECH_GEAR,Get this high value bundle of Teal gear to amp up your Masters of Evil for bonus progress in the <color=#fff568>Dark Defenders</color> milestone!
+ID_OF_DE_DARKDEFENDERS_BIO_GEAR,Get this high value bundle of Teal gear to amp up your Masters of Evil for bonus progress in the <color=#fff568>Dark Defenders</color> milestone!
+ID_OF_DE_DARKDEFENDERS_MYSTIC_GEAR,Get this high value bundle of Teal gear to amp up your Masters of Evil for bonus progress in the <color=#fff568>Dark Defenders</color> milestone!
+ID_OF_DE_DARKDEFENDERS_DAILY_INTERSTITIAL,Get boosted <color=#fff568>Dark Defenders</color> progress with this daily trove of resources!
+ID_OF_DE_DARKDEFENDERS_FREECLAIM,Come back daily for more <color=#fff568>Dark Defenders</color> progress!
