@@ -1034,11 +1034,11 @@ ID_SEC_CHANCE_INCURSION11,P.E.G.A.S.U.S. Showcase
 ID_EVENT_INCURSION11_DIF1_FLAVOR,Try P.E.G.A.S.U.S.!
 ID_EVENT_INCURSION11_DIF1_DESC,"Experience the new hottest tech team, P.E.G.A.S.U.S.!\n\nBattle different enemy teams with a P.E.G.A.S.U.S. roster, including recreations of some battles found in DOOM and INCURSION raids!"
 ID_EVENT_INCURSION11_DIF2_FLAVOR,Stop the Incursion!
-ID_EVENT_INCURSION11_DIF2_DESC,REQUIRED: P.E.G.A.S.U.S. or Rebirth
+ID_EVENT_INCURSION11_DIF2_DESC,REQUIRED: 5 P.E.G.A.S.U.S. or Rebirth characters
 ID_EVENT_INCURSION11_DIF3_FLAVOR,Earn Rare Rewards!
-ID_EVENT_INCURSION11_DIF3_DESC,REQUIRED: P.E.G.A.S.U.S. or Rebirth
+ID_EVENT_INCURSION11_DIF3_DESC,REQUIRED: 5 P.E.G.A.S.U.S. or Rebirth characters
 ID_EVENT_INCURSION11_DIF4_FLAVOR,Earn Rare Rewards!
-ID_EVENT_INCURSION11_DIF4_DESC,REQUIRED: P.E.G.A.S.U.S. or Rebirth\n- Gear Tier 13
+ID_EVENT_INCURSION11_DIF4_DESC,REQUIRED: 5 P.E.G.A.S.U.S. or Rebirth characters\n- Gear Tier 13
 ID_SEC_INCURSION12_NAME,Project P.E.G.A.S.U.S.
 ID_SEC_INCURSION12_DESC,Kestrel and the newly formed P.E.G.A.S.U.S. team embark on their mission to stop further Incursions.
 ID_SEC_CHANCE_INCURSION12,P.E.G.A.S.U.S. Showcase Finale
