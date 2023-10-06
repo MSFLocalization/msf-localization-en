@@ -4137,8 +4137,8 @@ ID_OF_NA_WEREWOLFWARZONE_WAR,Werewolf Warzone: Military Upgrades
 ID_OF_DE_WEREWOLFWARZONE_WAR,Take advantage of this special deal to get the edge in Alliance War and progress in the <color=#fff568>Werewolf Warzone</color> milestone!
 ID_OF_DE_WEREWOLFWARZONE_FREE,Come back daily for more <color=#fff568>Werewolf Warzone</color> progress!
 ID_OF_DE_WEREWOLFWARZONE_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Werewolf Warzone</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
-ID_OF_NA_WEREWOLFWARZONE_EVENTORB,Werewolf Warzone: Allied Supply Orbs
-ID_OF_DE_WEREWOLFWARZONE_EVENTORB,"Get these orbs for <color=#fff568>Werewolf Warzone</color> progress and open them for Apocalypse Bounty Orbs containing T2 L5 Ions and a slew of resources! "
+ID_OF_NA_WEREWOLFWARZONE_EVENTORB,Werewolf Warzone: Allied Supply II Orbs
+ID_OF_DE_WEREWOLFWARZONE_EVENTORB,Get these orbs for <color=#fff568>Werewolf Warzone</color> progress and open them for T2 Level 5 Ion Orbs containing T2 L5 Ions and a slew of resources!
 ID_OF_NA_HISTORIC_DEAL_EMMAFROST,Historic Deal: Emma Frost
 ID_OF_DE_HISTORIC_DEAL_EMMAFROST,Teach your opponents a lesson with this villainous instructor! She first appeared this week in 1979's <color=#fff568>UNCANNY X-MEN #129</color>
 ID_OF_NA_HISTORIC_DEAL_NEWWARRIORS,Historic Deal: New Warriors
@@ -4206,9 +4206,9 @@ ID_OF_DE_NIGHTOFTHEWERETIGRESS_STARTER_MEGA,"Stock up on <color=#fff568>Night of
 ID_OF_DE_NIGHTOFTHEWERETIGRESS_STARTER_SUPER,Get ahead in the <color=#fff568>Night of the Were-Tigress</color> milestone and fast-forward your way to the <color=#fff568>Tigra shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
 ID_OF_DE_NIGHTOFTHEWERETIGRESS_STARTER_CAL,Start off strong in the <color=#fff568>Night of the Were-Tigress</color> milestone!
 ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER_ANCHOR,Make consistent <color=#fff568>Night of the Were-Tigress</color> progress with this daily <color=#fff568>Cat's Head Amulet</color> supply!
-ID_OF_DE_NIGHTOFTHEWERETIGRESS_MEGA_POINTS,Stock up on <color=#fff568>Defender of Valhalla</color> progress and <color=#fff568></color> with this special deal!
-ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER_LEGACYORBS,Stock up on <color=#fff568>Defender of Valhalla</color> progress and <color=#fff568>Legacy Orbs</color> with this special deal!
-ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress and <color=#fff568></color> with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_MEGA_POINTS,Stock up on accelerated <color=#fff568>Night of the Were-Tigress</color> progress with this incredible deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER_LEGACYORBS,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress and <color=#fff568>Legacy Orbs</color> with this special deal!
+ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress with this special deal!
 ID_OF_DE_NIGHTOFTHEWERETIGRESS_POINTS,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress with this special deal!
 ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER_MEGAORBS,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress and <color=#fff568>Mega Orbs</color> with this special deal!
 ID_OF_DE_NIGHTOFTHEWERETIGRESS_BOOSTER_MINOR,Stock up on <color=#fff568>Night of the Were-Tigress</color> progress with this special deal!
@@ -4249,3 +4249,29 @@ ID_OF_DE_DARKDEFENDERS_BIO_GEAR,Get this high value bundle of Teal gear to amp u
 ID_OF_DE_DARKDEFENDERS_MYSTIC_GEAR,Get this high value bundle of Teal gear to amp up your Masters of Evil for bonus progress in the <color=#fff568>Dark Defenders</color> milestone!
 ID_OF_DE_DARKDEFENDERS_DAILY_INTERSTITIAL,Get boosted <color=#fff568>Dark Defenders</color> progress with this daily trove of resources!
 ID_OF_DE_DARKDEFENDERS_FREECLAIM,Come back daily for more <color=#fff568>Dark Defenders</color> progress!
+ID_OF_NA_VENGEFULSPIRITS_MEGASTARTER,Vengeful Spirits: Mega Starter
+ID_OF_NA_VENGEFULSPIRITS_STARTER,Vengeful Spirits: Starter
+ID_OF_NA_VENGEFULSPIRITS_MEGACATCHUP,Vengeful Spirits: Mega Catch-Up
+ID_OF_NA_VENGEFULSPIRITS_CATCHUP,Vengeful Spirits: Catch-Up
+ID_OF_NA_VENGEFULSPIRITS_DAILY_ORB,Vengeful Spirits: Vindicator Orb
+ID_OF_NA_VENGEFULSPIRITS_DAILY_POINTS,Vengeful Spirits: Daily Points
+ID_OF_NA_VENGEFULSPIRITS_RAID,Vengeful Spirits: Raid Booster
+ID_OF_NA_VENGEFULSPIRITS_DAILY_ENERGY,Vengeful Spirits: Daily Points
+ID_OF_NA_VENGEFULSPIRITS_BIFROST_TRIO,Vengeful Spirits: Bifrost Trio
+ID_OF_NA_VENGEFULSPIRITS_MYSTIC_GEAR,Vengeful Spirits: Mystic Gear
+ID_OF_NA_VENGEFULSPIRITS_DAILY_INTERSTITIAL,Vengeful Spirits: Vindicator's Stash
+ID_OF_NA_VENGEFULSPIRITSFREE_CLAIM,Vengeful Spirits: Free Claim
+ID_OF_DE_VENGEFULSPIRITS_MEGASTARTER,Speed through the <color=#fff568>Vengeful Spirits</color> Milestone and get <color=#fff568>New Avengers shards</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_VENGEFULSPIRITS_STARTER,Get ahead in the <color=#fff568>Vengeful Spirits</color> Milestone and fast-forward your way to <color=#fff568>New Avengers shards</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_VENGEFULSPIRITS_MEGACATCHUP,Climb the final steps of the <color=#fff568>Vengeful Spirits</color> Milestone and get <color=#fff568>New Avengers shards</color> and <color=#fff568>Teal Gear</color> before it's too late!
+ID_OF_DE_VENGEFULSPIRITS_CATCHUP,Finish strong in the <color=#fff568>Vengeful Spirits</color> milestone for <color=#fff568>New Avengers shards</color>!
+ID_OF_DE_VENGEFULSPIRITS_DAILY_ORB,Get Vindicator Orbs for progress in the <color=#fff568>Vengeful Spirits</color> Milestone! Each orb contains both <color=#fff568>New Avengers and Bifrost shards</color>!
+ID_OF_DE_VENGEFULSPIRITS_DAILY_POINTS,Make consistent <color=#fff568>Vengeful Spirits</color> progress with this daily milestone points supply!
+ID_OF_DE_VENGEFULSPIRITS_RAID,Blast through Raids with this Raid bundle for daily <color=#fff568>Vengeful Spirits</color> Milestone progress!
+ID_OF_DE_VENGEFULSPIRITS_DAILY_ENERGY,Earn additional Vindicator Orb Fragments with this daily bundle of Campaign Energy for <color=#fff568>Vengeful Spirits</color> milestone progress!
+ID_OF_DE_VENGEFULSPIRITS_BIFROST_TRIO,Power up your Bifrost team to fighting shape for additional progress in the <color=#fff568>Vengeful Spirits</color> Milestone!
+ID_OF_DE_VENGEFULSPIRITS_MYSTIC_GEAR,Upgrade your Bifrost team to for bonus progress in the <color=#fff568>Vengeful Spirits</color> Milestone!
+ID_OF_DE_VENGEFULSPIRITS_DAILY_INTERSTITIAL,Get boosted <color=#fff568>Vengeful Spirits</color> progress with this daily trove of resources!
+ID_OF_DE_VENGEFULSPIRITSFREE_CLAIM,Come back daily for more <color=#fff568>Vengeful Spirits</color> progress!
+ID_OF_NA_HISTORIC_DEAL_CAPTAINMARVEL,Historic Deal: Captain Marvel
+ID_OF_DE_HISTORIC_DEAL_CAPTAINMARVEL,Power up this Star Pilot to lead <color=#fff568>A-Force</color> to victory in Alliance War! She was first front and center this week in 1976's <color=#fff568>MS. MARVEL #1</color>!

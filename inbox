@@ -7328,6 +7328,9 @@ ID_ME_BO_BATTLEPASS_SEASON5_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle Pass: 
 ID_ME_NA_BATTLEPASS_SEASON5_ENDING,Season 5 Ending Soon
 ID_ME_DE_BATTLEPASS_SEASON5_ENDING,Battle Pass: 2 more days!
 ID_ME_BO_BATTLEPASS_SEASON5_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Sylvie shards and Teal Gear before the Season ends!"
+ID_ME_NA_WAR_SEASON_REWARDSUPDATE_02,War Season Reward Update
+ID_ME_DE_WAR_SEASON_REWARDSUPDATE_02,Earn Up to 20 Million Gold!
+ID_ME_BO_WAR_SEASON_REWARDSUPDATE_02,"Commander,\n\nIn the upcoming War Season Rewards you'll find <color=#fff568>double the Gold</color>, allowing you to earn up to 20 million! <color=#fff568>More Elite War Credits</color> are also available in rewards to spend on more gear or War Orbs.\n\nGet ahead of the competition by powering up your War teams and planning with your Alliance to maximize your rewards!\n\nGood Luck Commander"
 ID_ME_NA_SPLASH_INVADEORTREAT,LIVE: Invade or Treat
 ID_ME_DE_SPLASH_INVADEORTREAT,Earn Cat's Head Amulets and Orbs!
 ID_ME_BO_SPLASH_INVADEORTREAT,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Orbs</color> and <color=#fff568>Cat's Head Amulets</color> for the Night of the Were-Tigress!\n\n<color=#fff568>Featured Trait</color>:\nInvader\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
@@ -7355,3 +7358,25 @@ ID_ME_BO_FINALE_PEGASUS_LIVE,"Commander,\n\n<color=#fff568>The P.E.G.A.S.U.S. Ep
 ID_ME_NA_FINALE_PEGASUS_ENDING,ENDING: Project P.E.G.A.S.U.S.
 ID_ME_DE_FINALE_PEGASUS_ENDING,2 Days Left!
 ID_ME_BO_FINALE_PEGASUS_ENDING,"Commander,\n\nThe P.E.G.A.S.U.S. Epic Event ends in 2 days. Continue earning rewards before it ends!\n\nGood luck, Commander!"
+ID_ME_NA_THANOS_BLACKORDER_UPDATE,Thanos and Black Order Updates
+ID_ME_DE_THANOS_BLACKORDER_UPDATE,Ability and Stat Improvements
+ID_ME_BO_THANOS_BLACKORDER_UPDATE,"Commander,\n\nThanos and the Black Order have been updated!\n\nThe Mad Titan and his Black Order generals have all received upgrades to their stats and abilities to help them terrorize the battlefield.\n\nCheck out their updated kits in our recent blog to see the full extent of their power.\n\nGood luck, Commander!"
+ID_ME_NA_CREATOR_SPOTLIGHT_003,Creator Spotlight: ValleyFlyin
+ID_ME_DE_CREATOR_SPOTLIGHT_003,Player Guide
+ID_ME_BO_CREATOR_SPOTLIGHT_003,"Commander,\n\nLooking for more information on a specific team? ValleyFlyin has the answer right here!\n\nCheck out this ValleyFlyin video with his take on all the MARVEL Strike Force teams.\n<color=#fff568>Let's go smash it!</color>\n\nWatch the <color=#fff568>YouTube</color> video now and subscribe!"
+ID_ME_NA_DARKHAWK_TEASER,Coming Soon: Darkhawk
+ID_ME_DE_DARKHAWK_TEASER,Robotic Raptor
+ID_ME_BO_DARKHAWK_TEASER,"Commander,\n\n<color=#fff568>Darkhawk</color> is taking flight to blast through enemies on Tech Raid nodes!\n\n<color=#fff568>Ability Highlights</color>\nSpread Negative Effects on enemies while giving allies Offense Up\n\n<color=#fff568>P.E.G.A.S.U.S. Bonuses</color>\nGrant allies Ability Energy, Crit Chance, Crit Damage, and Counter\n\n<color=#fff568>Raid Bonuses</color>\nFills Darkhawk and P.E.G.A.S.U.S ally Speed Bars. Weakens Raid waves by reducing their Speed Bar, and Crit, while granting allies Crit Chance.\n\nBe on the lookout for details on how to earn this Robotic Raptor!"
+ID_ME_NA_DARKHAWK_ANNOUNCE,Darkhawk is here!
+ID_ME_DE_DARKHAWK_ANNOUNCE,Robotic Raptor
+ID_ME_BO_DARKHAWK_ANNOUNCE,"Commander,\n\n<color=#fff568>Darkhawk</color> has landed to blast through enemies on Tech Raid nodes!\n\n<color=#fff568>Ability Highlights</color>\nSpread Negative Effects on enemies while giving allies Offense Up\n\n<color=#fff568>P.E.G.A.S.U.S. Bonuses</color>\nGrant allies Ability Energy, Crit Chance, Crit Damage, and Counter\n\n<color=#fff568>Raid Bonuses</color>\nFills Darkhawk and P.E.G.A.S.U.S ally Speed Bars. Weakens Raid waves by reducing their Speed Bar, and Crit, while granting allies Crit Chance.\n\n<color=#fff568>How to Recruit</color>\nDon't miss these opportunities to earn their shards\n\n- Edgelord Orb\n- Limited-time offers in the Store\n- An upcoming event\n\n<color=#fff568>Red Stars</color>\nFor players who have unlocked the Red Stars feature (Level 42), Darkhawk is featured in Red Star Orbs with an increased drop rate for a limited time.\n\nRecruit this Robotic Raptor to blast through waves of enemies on Tech Raid nodes!"
+ID_ME_NA_DARKHAWK_RS_ENDING,Red Stars: Darkhawk
+ID_ME_DE_DARKHAWK_RS_ENDING,Featuring Ends Soon!
+ID_ME_BO_DARKHAWK_RS_ENDING,"Commander,\n\n<color=#fff568>Darkhawk</color> will only be featured in all Red Star Orbs for 2 more days!\n\nHurry and open Red Star Orbs while the drop rate is still increased."
+ID_ME_NA_DARKHAWK_ORB_ENDING,Timeline Protector Orb
+ID_ME_DE_DARKHAWK_ORB_ENDING,2 days left!
+ID_ME_BO_DARKHAWK_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Edgelord Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Darkhawk</color> for your <color=#fff568>P.E.G.A.S.U.S.</color> team and blast through waves of enemies on Tech Raid nodes!"
+ID_ME_NA_NEW_PLAYER_GIFT1,Welcome to MARVEL S.T.R.I.K.E. Force!
+ID_ME_NA_NEW_PLAYER_GIFT1A,Welcome S.T.R.I.K.E. Commander!
+ID_ME_DE_NEW_PLAYER_GIFT1,Redeem your Free Gift
+ID_ME_BO_NEW_PLAYER_GIFT1,"Commander,\n\nWelcome to MARVEL Strike Force!\n\nTo celebrate the start of your journey, please redeem your new player reward of 10 Legacy I, II, and III Orbs by entering <color=#fff568>""welcome""</color> on the New Player Gift page of MarvelStrikeForce.com.\n\nTo access the page, go to the Options Menu, select <color=#fff568>""Sign in with Scopely""</color>, and follow the steps to connect your account Scopely ID. Once complete, log into MarvelStrikeForce.com to redeem your gift.\n\nGood luck, Commander!"
