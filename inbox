@@ -7316,6 +7316,12 @@ ID_ME_BO_IRONMANINFINITYWAR_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Timelin
 ID_ME_NA_NEWBLOGPOST_092923,Nanotech Roster Upgrade
 ID_ME_DE_NEWBLOGPOST_092923,New Blog Available
 ID_ME_BO_NEWBLOGPOST_092923,"Commander,\n\nHarness the power of nano tech in this week's blog, which includes:\n\n- Iron Man (Infinity War)'s upcoming release\n- Night of the Were-Tigress Overview\n- Incursion Details\n\nDon't miss out on this alongside details for Free Claim Friday!"
+ID_ME_NA_IRONMANINFINITYWAR_PREBAMESH,Recruit Iron Man (Infinity War)!
+ID_ME_DE_IRONMANINFINITYWAR_PREBAMESH,Availability Update
+ID_ME_BO_IRONMANINFINITYWAR_PREBAMESH,"Commander,\n\n<color=#fff568>Iron Man (Infinity War)</color> has been added to the Ultimus Orb, Basic Orb, Premium Orb, Mega Orb, and the Supplies section in the Store. As a result, we have removed <color=#fff568>Spider-Woman</color> from the Mega Orb to keep the orb's content exciting and up to date."
+ID_ME_NA_IRONMANINFINITYWAR_ELITE_STORE,Red Stars: Iron Man (Infinity War)
+ID_ME_DE_IRONMANINFINITYWAR_ELITE_STORE,Elite Store Update
+ID_ME_BO_IRONMANINFINITYWAR_ELITE_STORE,"Commander,\n\nDirect Red Star promotions for <color=#fff568>Iron Man (Infinity War)</color> have been added to the <color=#fff568>Elite Store</color>!\n\nYou can now use <color=#fff568>Silver or Gold Promotion Credits</color> to promote them <color=#fff568>1 Red Star higher</color> than their current rank.\n\nEarn Promotion Credits by <color=#fff568>exchanging your Elite Credits</color> or by completing the Alliance Donation Daily Objective."
 ID_ME_NA_MOCKINGBIRD_SPOTLIGHT,Prepare for Mockingbird
 ID_ME_DE_MOCKINGBIRD_SPOTLIGHT,See this New Avenger in Action
 ID_ME_BO_MOCKINGBIRD_SPOTLIGHT,"Commander,\n\nPrepare for the <color=#fff568>Recruiting Mockingbird</color> Event and discover the strategy behind this New Avenger.\nWatch her spotlight video now!"
@@ -7364,6 +7370,28 @@ ID_ME_BO_THANOS_BLACKORDER_UPDATE,"Commander,\n\nThanos and the Black Order have
 ID_ME_NA_CREATOR_SPOTLIGHT_003,Creator Spotlight: ValleyFlyin
 ID_ME_DE_CREATOR_SPOTLIGHT_003,Player Guide
 ID_ME_BO_CREATOR_SPOTLIGHT_003,"Commander,\n\nLooking for more information on a specific team? ValleyFlyin has the answer right here!\n\nCheck out this ValleyFlyin video with his take on all the MARVEL Strike Force teams.\n<color=#fff568>Let's go smash it!</color>\n\nWatch the <color=#fff568>YouTube</color> video now and subscribe!"
+ID_ME_NA_TECHNOLOGYTERROR_TEASER,Coming Soon: Technology Terror
+ID_ME_DE_TECHNOLOGYTERROR_CORE,Recruit Iron Man (Infinity War)!
+ID_ME_BO_TECHNOLOGYTERROR_CORE,"Commander,\n\n<color=#fff568>Technology Terror Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by earning Arc Reactor Orb fragments from Arena Ranked Rewards, completing the Machine Menace Web Milestone, spending Arena Credits on special milestone point offers, and daily Free Claims. Earn cosmic rewards including <color=#fff568>Iron Man (Infinity War) shards, Elite 7 Credits, 7 Red Star Rescue, and Teal Tech gear</color>. You'll also earn points towards the month-long Night of the Were-Tigress milestone by collecting Cat's Head Amulets and the Jungle Jacket.\n\n<color=#fff568>Daily Machine Menace Web Milestone</color>\nSpend Campaign Energy to earn Arc Reactor Orbs for additional progress in the Technology Terror Milestone. Keep an eye out for Free Claims containing Arc Reactor Orb fragments every day!\n\nGood luck, Commander!"
+ID_ME_NA_TECHNOLOGYTERROR_ANNOUNCE,LIVE: Technology Terror
+ID_ME_NA_TECHNOLOGYTERROR_ENDING,ENDING: Technology Terror
+ID_ME_DE_TECHNOLOGYTERROR_ENDING,Don't miss out on unlocking Iron Man (Infinity War)!
+ID_ME_BO_TECHNOLOGYTERROR_ENDING,"Commander,\n\nThe Technology Terror Event <color=#fff568>ends soon</color>. Continue earning Iron Man (Infinity War) Shards and Teal Tech Gear!\n\nGood luck, Commander!"
+ID_ME_NA_BUCKYBARNES_FOUNTAIN_UPDATE,Recruit Bucky Barnes
+ID_ME_DE_BUCKYBARNES_FOUNTAIN_UPDATE,Availability Update
+ID_ME_BO_BUCKYBARNES_FOUNTAIN_UPDATE,"Commander,\n\n<color=#fff568>Bucky Barnes</color> character shards are now available in the <color=#fff568>Raid Orb and Raid Store</color> for <color=#fff568>Raid Credits</color>.\n\nHead over and power up the <color=#fff568>Young Gun</color> to take on challenging Skill Raid Nodes!"
+ID_ME_NA_MOONSTONE_FOUNTAIN_UPDATE,Recruit Moonstone
+ID_ME_DE_MOONSTONE_FOUNTAIN_UPDATE,Availability Update
+ID_ME_BO_MOONSTONE_FOUNTAIN_UPDATE,"Commander,\n\n<color=#fff568>Moonstone</color> character shards are now available in the <color=#fff568>Raid Orb and Raid Store</color> for <color=#fff568>Raid Credits</color>.\n\nHead over and power up the <color=#fff568>Master Manipulator</color> to take on powerful Cosmic Crucible opponents!"
+ID_ME_NA_APOCALYPSE_REDSTAR_UPDATE,Apocalypse Red Stars
+ID_ME_DE_APOCALYPSE_REDSTAR_UPDATE,Now Available: 5-7 Red Stars
+ID_ME_BO_APOCALYPSE_REDSTAR_UPDATE,"Commander,\n\n<color=#fff568>5, 6, and 7-Red Star Promotions</color> are now available for Apocalypse in the Elite Store and are purchasable using Dark Promotion Credits.\n\nHead to the Elite Store now and devastate your foes!"
+ID_ME_NA_NOVA_REDSTAR_UPDATE,Nova Red Stars
+ID_ME_DE_NOVA_REDSTAR_UPDATE,Now Available: 6-7 Red Stars
+ID_ME_BO_NOVA_REDSTAR_UPDATE,"Commander,\n\n<color=#fff568>6 and 7-Red Star Promotions</color> are now available for Nova in the Elite Store and are purchasable using Dark Promotion Credits.\n\nHead to the Elite Store now and devastate your foes!"
+ID_ME_NA_CAPTAINAMERICAWW2_FOUNTAIN_UPDATE,Recruit Captain America (WWII)
+ID_ME_DE_CAPTAINAMERICAWW2_FOUNTAIN_UPDATE,Availability Update
+ID_ME_BO_CAPTAINAMERICAWW2_FOUNTAIN_UPDATE,"Commander,\n\n<color=#fff568>Captain America (WWII)</color> character shards are now available in the <color=#fff568>Cosmic Crucible Store</color> for <color=#fff568>Elite Cosmic Crucible Credits</color>.\n\nHead over and power up the <color=#fff568>Patriot Powerhouse</color> to take on challenging Skill Raid Nodes!"
 ID_ME_NA_DARKHAWK_TEASER,Coming Soon: Darkhawk
 ID_ME_DE_DARKHAWK_TEASER,Robotic Raptor
 ID_ME_BO_DARKHAWK_TEASER,"Commander,\n\n<color=#fff568>Darkhawk</color> is taking flight to blast through enemies on Tech Raid nodes!\n\n<color=#fff568>Ability Highlights</color>\nSpread Negative Effects on enemies while giving allies Offense Up\n\n<color=#fff568>P.E.G.A.S.U.S. Bonuses</color>\nGrant allies Ability Energy, Crit Chance, Crit Damage, and Counter\n\n<color=#fff568>Raid Bonuses</color>\nFills Darkhawk and P.E.G.A.S.U.S ally Speed Bars. Weakens Raid waves by reducing their Speed Bar, and Crit, while granting allies Crit Chance.\n\nBe on the lookout for details on how to earn this Robotic Raptor!"
@@ -7379,4 +7407,4 @@ ID_ME_BO_DARKHAWK_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Edgelord Orb</col
 ID_ME_NA_NEW_PLAYER_GIFT1,Welcome to MARVEL S.T.R.I.K.E. Force!
 ID_ME_NA_NEW_PLAYER_GIFT1A,Welcome S.T.R.I.K.E. Commander!
 ID_ME_DE_NEW_PLAYER_GIFT1,Redeem your Free Gift
-ID_ME_BO_NEW_PLAYER_GIFT1,"Commander,\n\nWelcome to MARVEL Strike Force!\n\nTo celebrate the start of your journey, please redeem your new player reward of 10 Legacy I, II, and III Orbs by entering <color=#fff568>""welcome""</color> on the New Player Gift page of MarvelStrikeForce.com.\n\nTo access the page, go to the Options Menu, select <color=#fff568>""Sign in with Scopely""</color>, and follow the steps to connect your account Scopely ID. Once complete, log into MarvelStrikeForce.com to redeem your gift.\n\nGood luck, Commander!"
+ID_ME_BO_NEW_PLAYER_GIFT1,"Commander,\n\nWelcome to MARVEL Strike Force!\n\nTo celebrate the start of your journey, please redeem your gift of 10 Legacy I, II, and III Orbs by entering <color=#fff568>""welcome""</color> on the New Player Gift page of MarvelStrikeForce.com.\n\nTo access the page, go to the Options Menu, select <color=#fff568>""Sign in with Scopely""</color>, and follow the steps to connect your account Scopely ID. Once complete, log into MarvelStrikeForce.com to redeem your gift.\n\nGood luck, Commander!"

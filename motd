@@ -22,7 +22,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PDT) (04/25).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 9:00 AM (PDT) (10/11).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -2351,3 +2351,9 @@ ID_MOTD_DE_DARKHAWK_TEASER,This P.E.G.A.S.U.S. Robotic Raptor is coming to blast
 ID_MOTD_NA_DARKHAWK_ANNOUNCE,Darkhawk is Here!
 ID_MOTD_DE_DARKHAWK_ANNOUNCE,Blast through Tech Raid nodes while speeding up P.E.G.A.S.U.S. allies!
 ID_MOTD_DE_DARKHAWK_ANNOUNCE2,Open Edgelord Orbs to earn shards for this Robotic Raptor!
+ID_MOTD_NA_TECHNOLOGYTERROR_ANNOUNCE,LIVE: Technology Terror
+ID_MOTD_DE_TECHNOLOGYTERROR_ANNOUNCE,Unlock Iron Man (Infinity War) and earn Teal Tech gear!
+ID_MOTD_NA_TECHNOLOGYTERROR_ENDING,Ending Soon: Technology Terror
+ID_MOTD_DE_TECHNOLOGYTERROR_ENDING,Unlock Iron Man (Infinity War) and earn Teal Tech gear now!
+ID_MOTD_NA_MACHINEMENACE_ANNOUNCE,Web Milestone: Machine Menace
+ID_MOTD_DE_MACHINEMENACE_ANNOUNCE,Link your account to earn more rewards on web!

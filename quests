@@ -3436,23 +3436,22 @@ ID_QU_SD_VENGEFULSPIRITS,Earn Vindicator Orbs from Campaign nodes
 ID_QU_LD_VENGEFULSPIRITS,Gain progress by earning Vindicator Orb Fragments earned from Campaign Nodes and battling in Raids with additional points for using select Bifrost characters
 ID_QU_S1_VENGEFULSPIRITS,Earn 1 Vindicator Orb Fragment
 ID_QU_S2_VENGEFULSPIRITS,Play 1 Raid Battle
-ID_QU_S3_VENGEFULSPIRITS,"Play 1 Raid Battle w/ Loki (Teen), Beta Ray Bill, Sylvie"
-ID_QU_S4_VENGEFULSPIRITS,"Play 1 Raid Battle w/ Loki (Teen), Beta Ray Bill, Sylvie at Gear Tier 16+"
-ID_QU_S5_VENGEFULSPIRITS,"Play 1 Raid Battle w/ Loki (Teen), Beta Ray Bill, Sylvie at Gear Tier 17+"
-ID_QU_S6_VENGEFULSPIRITS,"Play 1 Raid Battle w/ Loki (Teen), Beta Ray Bill, Sylvie at Gear Tier 18"
+ID_QU_S3_VENGEFULSPIRITS,Play 1 Raid Battle w/ Loki (Teen)
+ID_QU_S4_VENGEFULSPIRITS,Play 1 Raid Battle w/ Loki (Teen) at Gear Tier 16+
+ID_QU_S5_VENGEFULSPIRITS,Play 1 Raid Battle w/ Loki (Teen) at Gear Tier 17+
+ID_QU_S6_VENGEFULSPIRITS,Play 1 Raid Battle w/ Loki (Teen) at Gear Tier 18
+ID_QU_S7_VENGEFULSPIRITS,Play 1 Raid Battle w/ Beta Ray Bill
+ID_QU_S8_VENGEFULSPIRITS,Play 1 Raid Battle w/ Beta Ray Bill at Gear Tier 16+
+ID_QU_S9_VENGEFULSPIRITS,Play 1 Raid Battle w/ Beta Ray Bill at Gear Tier 17+
+ID_QU_S10_VENGEFULSPIRITS,Play 1 Raid Battle w/ Beta Ray Bill at Gear Tier 18
+ID_QU_S11_VENGEFULSPIRITS,Play 1 Raid Battle w/ Sylvie
+ID_QU_S12_VENGEFULSPIRITS,Play 1 Raid Battle w/ Sylvie at Gear Tier 16+
+ID_QU_S13_VENGEFULSPIRITS,Play 1 Raid Battle w/ Sylvie at Gear Tier 17+
+ID_QU_S14_VENGEFULSPIRITS,Play 1 Raid Battle w/ Sylvie at Gear Tier 18
 ID_QU_NA_TWILIGHTTRIALS,Twilight Trials
 ID_QU_SD_TWILIGHTTRIALS,Spend Power Cores
 ID_QU_LD_TWILIGHTTRIALS,Spend Power Cores to complete this daily milestone that rewards Vindicator Orb Fragments for Vengeful Spirits Milestone progress!
 ID_QU_S1_TWILIGHTTRIALS,Spend 1 Power Core
-ID_QU_NA_SPECTRALEMPORIUM,Spectral Emporium
-ID_QU_SD_SPECTRALEMPORIUM,Spend Ebony Treats in the Event Store
-ID_QU_LD_SPECTRALEMPORIUM,"Spend Ebony Treats in the limited time Event Store and spend Power Cores to earn milestone progress. Ebony Treats can be obtained from Campaign Nodes, daily Free Claims, and the daily Feral Festival Web Milestone. "
-ID_QU_S1_SPECTRALEMPORIUM,Spend 1 Ebony Treat
-ID_QU_S2_SPECTRALEMPORIUM,Spend 1 Power Core
-ID_QU_NA_FERALFESTIVAL,Feral Festival
-ID_QU_SD_FERALFESTIVAL,Battle in Raids
-ID_QU_LD_FERALFESTIVAL,Battle in Raids to complete this daily milestone that rewards Ebony Treats for Spectral Emporium Event progress!
-ID_QU_S1_FERALFESTIVAL,Play 1 Raid Battle
 ID_QU_NA_WEREWOLFWARZONE,Werewolf Warzone
 ID_QU_SD_WEREWOLFWARZONE,Battle in War and Earn Allied Supply II Orb Fragments
 ID_QU_LD_WEREWOLFWARZONE,"Collaborate with your alliances to battle in War and earn Allied Supply II Orb Fragments. Allied Supply II Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store. "
@@ -3497,3 +3496,21 @@ ID_QU_NA_LOKIALLTHETIME,Loki All the Time
 ID_QU_SD_LOKIALLTHETIME,Spend Campaign Energy for Multiversal Rewards!
 ID_QU_LD_LOKIALLTHETIME,"Celebrate Loki Season 2 with this fantastic event! Spend Campaign Energy for incredible rewards including Armory 18 Orb Fragments, T4 Ability Materials, and characters shards for Loki, Sylvie, and Kang the Conqueror!"
 ID_QU_S1_LOKIALLTHETIME,Spend 1 Campaign Energy
+ID_QU_NA_SPECTRALEMPORIUM,Spectral Emporium
+ID_QU_SD_SPECTRALEMPORIUM,Spend Ebony Treats in the Event Store
+ID_QU_LD_SPECTRALEMPORIUM,"Spend Ebony Treats in the limited time Event Store and spend Power Cores to earn milestone progress. Ebony Treats can be obtained from Campaign Nodes, daily Free Claims, and the daily Feral Festival Web Milestone. "
+ID_QU_S1_SPECTRALEMPORIUM,Spend 1 Ebony Treat
+ID_QU_S2_SPECTRALEMPORIUM,Spend 1 Power Core
+ID_QU_NA_FERALFESTIVAL,Feral Festival
+ID_QU_SD_FERALFESTIVAL,Battle in Raids
+ID_QU_LD_FERALFESTIVAL,Battle in Raids to complete this daily milestone that rewards Ebony Treats for Spectral Emporium Event progress!
+ID_QU_S1_FERALFESTIVAL,Play 1 Raid Battle
+ID_QU_NA_TECHNOLOGYTERROR,Technology Terror
+ID_QU_SD_TECHNOLOGYTERROR,Earn Arc Reactor Orbs from Arena Rewards
+ID_QU_LD_TECHNOLOGYTERROR,"Technology Terror Milestone\nGain progress in this 7-day event by earning Arc Reactor Orb fragments from Arena Ranked Rewards, completing the Machine Menace Web Milestone, spending Arena Credits on special milestone point offers, and daily Free Claims. Earn cosmic rewards including Iron Man (Infinity War) shards, Elite 7 Credits, 7 Red Star Rescue, and Teal Tech gear. You'll also earn points towards the month-long Night of the Were-Tigress milestone by collecting Cat's Head Amulets and the Jungle Jacket.\n\nDaily Machine Menace Web Milestone\nSpend Campaign Energy to earn Arc Reactor Orbs for additional progress in the Technology Terror Milestone. Keep an eye out for Free Claims containing Arc Reactor Orb fragments every day!"
+ID_QU_S1_TECHNOLOGYTERROR,Earn 1 Arc Reactor Orb Fragment
+ID_QU_S2_TECHNOLOGYTERROR,Spend 1 Power Core
+ID_QU_NA_MACHINEMENACE,Machine Menace
+ID_QU_SD_MACHINEMENACE,Spend Power Cores
+ID_QU_LD_MACHINEMENACE,Spend Power Cores to complete this daily milestone that rewards Arc Reactor Orbs for Technology Terror Event progress!
+ID_QU_S1_MACHINEMENACE,Spend 1 Power Core
