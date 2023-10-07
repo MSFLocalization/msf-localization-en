@@ -4286,3 +4286,47 @@ ID_OF_DE_DUAL_DARKHAWK,Choose your path to power up this <color=#fff568>P.E.G.A.
 ID_OF_DE_DUAL_UNLOCK_DARKHAWK,Unlock this <color=#fff568>P.E.G.A.S.U.S.</color> member and <color=#fff568>one-time release offers</color> on your next visit!
 ID_OF_NA_INCURSION_ENERGY_DAILY,Daily Incursion Energy
 ID_OF_DE_INCURSION_ENERGY_DAILY,Conquer the Incursion Campaign with this daily dose of <color=#fff568>Incursion Campaign Energy</color> and earn powerful Red Star upgrades for your whole roster!
+ID_OF_NA_SPECTRALEMPORIUM_MEGASTARTER,Spectral Emporium: Mega Starter
+ID_OF_NA_SPECTRALEMPORIUM_STARTER,Spectral Emporium: Starter
+ID_OF_NA_SPECTRALEMPORIUM_MEGACATCHUP,Spectral Emporium: Mega Catch-Up
+ID_OF_NA_SPECTRALEMPORIUM_CATCHUP,Spectral Emporium: Catch-Up
+ID_OF_NA_SPECTRALEMPORIUM_DAILY_CUR,Spectral Emporium: Ebony Treats
+ID_OF_NA_SPECTRALEMPORIUM_DAILY_RAID,Spectral Emporium: Daily Battle Bundle
+ID_OF_NA_SPECTRALEMPORIUM_DAILY_POINTS,Spectral Emporium: Event Points
+ID_OF_NA_SPECTRALEMPORIUM_DAILY_ENERGY,Spectral Emporium: Event Points
+ID_OF_NA_SPECTRALEMPORIUM_DAILY_INTERSTITIAL,Spectral Emporium: Treat Bag
+ID_OF_NA_SPECTRALEMPORIUMFREE_CLAIM,Spectral Emporium: Free Claim
+ID_OF_DE_SPECTRALEMPORIUM_MEGASTARTER,Get ahead in the <color=#fff568>Spectral Emporium</color> Milestone and one-up the competition in the leaderboard for a chance at a <color=#fff568>7-Red Star Spider-Man (Big Time)</color> and <color=#fff568>Gear Tier 18 Mini-Uniques</color>!
+ID_OF_DE_SPECTRALEMPORIUM_STARTER,Get a head start in the <color=#fff568>Spectral Emporium</color> Milestone and speed through the leaderboard for a chance at a <color=#fff568>7-Red Star Spider-Man (Big Time)</color> and <color=#fff568>Gear Tier 18 Mini-Uniques</color>!
+ID_OF_DE_SPECTRALEMPORIUM_MEGACATCHUP,Finish strong in the <color=#fff568>Spectral Emporium</color> Milestone and climb the leaderboard for a chance at a <color=#fff568>7-Red Star Spider-Man (Big Time)</color> and <color=#fff568>Gear Tier 18 Mini-Uniques</color>!
+ID_OF_DE_SPECTRALEMPORIUM_CATCHUP,Complete the <color=#fff568>Spectral Emporium</color> milestone for Teal Mutant Gear and Elite 7 Credits!
+ID_OF_DE_SPECTRALEMPORIUM_DAILY_CUR,"Spend Ebony Treats in the Event Store and progress in the <color=#fff568>Spectral Emporium</color> Milestone for double value! "
+ID_OF_DE_SPECTRALEMPORIUM_DAILY_RAID,Don't miss this daily Raid bundle to speed through the <color=#fff568>Feral Festival</color> Web Milestone and get even more Ebony Treats!
+ID_OF_DE_SPECTRALEMPORIUM_DAILY_POINTS,Power through the <color=#fff568>Spectral Emporium</color> Milestone and get to the top of the leaderboard!
+ID_OF_DE_SPECTRALEMPORIUM_DAILY_ENERGY,Earn additional Ebony Treats with this daily bundle of Campaign Energy for <color=#fff568>Spectral Emporium</color> milestone progress!
+ID_OF_DE_SPECTRALEMPORIUM_DAILY_INTERSTITIAL,Stock up on Ebony Treats and Milestone Points for extra progress in <color=#fff568>Spectral Emporium</color> Milestone!
+ID_OF_DE_SPECTRALEMPORIUMFREE_CLAIM,Come back daily for more <color=#fff568>Spectral Emporium</color> Milestone progress!
+ID_OF_NA_Offer_LokiS2_Chain1,Sacred Timeline: Nexus Event 1
+ID_OF_NA_Offer_LokiS2_Chain2,Sacred Timeline: Nexus Event 2
+ID_OF_NA_Offer_LokiS2_Chain3,Sacred Timeline: Nexus Event 3
+ID_OF_NA_Offer_LokiS2_Chain4,Sacred Timeline: Nexus Event 4
+ID_OF_NA_Offer_LokiS2_Chain5,Sacred Timeline: Nexus Event 5
+ID_OF_NA_Offer_LokiS2_Chain6,Sacred Timeline: Nexus Event 6
+ID_OF_NA_Offer_LokiS2_Chain7,Sacred Timeline: Nexus Event 7
+ID_OF_NA_Offer_LokiS2_Title,Deals at the End of Time
+ID_OF_DE_Offer_LokiS2_Chain1,Nexus Offers are appearing throughout the Sacred Timeline! Each event you track down has rewards and clues to an event on your next visit. Keep tracking down Nexus Events for more rewards!
+ID_OF_DE_Offer_LokiS2_Chain2,The next Nexus Event has appeared! Each Nexus Event you track down has rewards and clues to an event on your next visit. Keep tracking down Nexus Events for more rewards!
+ID_OF_DE_Offer_LokiS2_Chain3,The next Nexus Event has appeared! Each Nexus Event you track down has rewards and clues to an event on your next visit. Keep tracking down Nexus Events for more rewards!
+ID_OF_DE_Offer_LokiS2_Chain4,The next Nexus Event has appeared! Each Nexus Event you track down has rewards and clues to an event on your next visit. Keep tracking down Nexus Events for more rewards!
+ID_OF_DE_Offer_LokiS2_Chain5,The next Nexus Event has appeared! Each Nexus Event you track down has rewards and clues to an event on your next visit. Keep tracking down Nexus Events for more rewards!
+ID_OF_DE_Offer_LokiS2_Chain6,The next Nexus Event has appeared! Each Nexus Event you track down has rewards and clues to an event on your next visit. Keep tracking down Nexus Events for more rewards!
+ID_OF_DE_Offer_LokiS2_Chain7,The final Nexus Event has appeared!
+ID_OF_DE_Offer_LokiS2_Sylvie10,Celebrate the launch of Loki Season 2 with this Sylvie shard offer!
+ID_OF_DE_Offer_LokiS2_Kang5,Celebrate the launch of Loki Season 2 with this Kang the Conqueror shard offer!
+ID_OF_DE_Offer_LokiS2_SylvieUni15,Celebrate the launch of Loki Season 2 and power up Sylvie today!
+ID_OF_DE_Offer_LokiS2_KangUni15,Celebrate the launch of Loki Season 2 and power up Kang the Conqueror today!
+ID_OF_DE_Offer_LokiS2_TealGearOrb20,Celebrate the launch of Loki Season 2 with this Teal Gear offer!
+ID_OF_DE_Offer_LokiS2_LokiUni15,Celebrate the launch of Loki Season 2 and power up Loki today!
+ID_OF_DE_Offer_LokiS2_TeenLokiUni15,Celebrate the launch of Loki Season 2 and power up Loki (Teen) today!
+ID_OF_DE_Offer_LokiS2_TeenLoki5,Celebrate the launch of Loki Season 2 with this Loki (Teen) shard offer!
+ID_OF_DE_Offer_LokiS2_Loki10,Celebrate the launch of Loki Season 2 with this Loki shard offer!
