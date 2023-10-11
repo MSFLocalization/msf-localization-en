@@ -4306,6 +4306,9 @@ ID_OF_DE_SPECTRALEMPORIUM_DAILY_POINTS,Power through the <color=#fff568>Spectral
 ID_OF_DE_SPECTRALEMPORIUM_DAILY_ENERGY,Earn additional Ebony Treats with this daily bundle of Campaign Energy for <color=#fff568>Spectral Emporium</color> milestone progress!
 ID_OF_DE_SPECTRALEMPORIUM_DAILY_INTERSTITIAL,Stock up on Ebony Treats and Milestone Points for extra progress in <color=#fff568>Spectral Emporium</color> Milestone!
 ID_OF_DE_SPECTRALEMPORIUMFREE_CLAIM,Come back daily for more <color=#fff568>Spectral Emporium</color> Milestone progress!
+ID_OF_NA_GOLDENDIMENSION_REPEAT,Golden Dimension Booster
+ID_OF_DE_GOLDENDIMENSION_REPEAT_GOLD,Reach new heights in the <color=#fbb903>Golden Dimension</color> Milestone Event with this bundle of <color=#fbb903>Gold</color>!
+ID_OF_DE_GOLDENDIMENSION_REPEAT_ORBS,Reach new heights in the <color=#fbb903>Golden Dimension</color> Milestone Event with this bundle of <color=#fbb903>Gold Orbs</color>!
 ID_OF_NA_Offer_LokiS2_Chain1,Sacred Timeline: Nexus Event 1
 ID_OF_NA_Offer_LokiS2_Chain2,Sacred Timeline: Nexus Event 2
 ID_OF_NA_Offer_LokiS2_Chain3,Sacred Timeline: Nexus Event 3
@@ -4330,3 +4333,51 @@ ID_OF_DE_Offer_LokiS2_LokiUni15,Celebrate the launch of Loki Season 2 and power 
 ID_OF_DE_Offer_LokiS2_TeenLokiUni15,Celebrate the launch of Loki Season 2 and power up Loki (Teen) today!
 ID_OF_DE_Offer_LokiS2_TeenLoki5,Celebrate the launch of Loki Season 2 with this Loki (Teen) shard offer!
 ID_OF_DE_Offer_LokiS2_Loki10,Celebrate the launch of Loki Season 2 with this Loki shard offer!
+ID_OF_NA_FRIDAYTHE13TH_INCURSION,Incursion into Terror
+ID_OF_NA_FRIDAYTHE13TH_CHARACTER_SECRETDEFENDERS1,Terrifying Deals: Secret Defenders
+ID_OF_NA_FRIDAYTHE13TH_A18,Gruesome Armory
+ID_OF_NA_FRIDAYTHE13TH_T2L5,Night of the Ions
+ID_OF_NA_FRIDAYTHE13TH_GENERIC1,Horror Bootcamp
+ID_OF_NA_FRIDAYTHE13TH_GOLD,Golden Fortune
+ID_OF_NA_FRIDAYTHE13TH_GENERIC2,Black Cat Fortune
+ID_OF_NA_FRIDAYTHE13TH_GENERIC3,Golden Fortune
+ID_OF_NA_FRIDAYTHE13TH_CHARACTER_TOPSOLOS,Terrifying Duo
+ID_OF_NA_FRIDAYTHE13TH_CHARACTER_HORSEMEN1,Terrifying Horsemen
+ID_OF_NA_FRIDAYTHE13TH_CHARACTER_HORSEMEN2,Terrifying Horsemen
+ID_OF_NA_FRIDAYTHE13TH_CHARACTER_SECRETDEFENDERS2,Terrifying Defenders
+ID_OF_NA_FRIDAYTHE13TH_CHARACTER_SECRETDEFENDERS3,Terrifying Defenders
+ID_OF_NA_FRIDAYTHE13TH_CHARACTER_HORSEMEN3,Roster Powergeist: Rogue
+ID_OF_NA_FRIDAYTHE13TH_CHARACTER_HORSEMEN4,Roster Powergeist: Red Hulk
+ID_OF_NA_FRIDAYTHE13TH_CHARACTER_HORSEMEN5,Roster Powergeist: Archangel
+ID_OF_NA_FRIDAYTHE13TH_CHARACTER_TOPSOLOS1,Roster Powergeist: Vahl
+ID_OF_NA_FRIDAYTHE13TH_CHARACTER_TOPSOLOS2,Roster Powergeist: Kang
+ID_OF_NA_FRIDAYTHE13TH_CHARACTER_SECRETDEFENDERS4,Roster Powergeist: Ms. Marvel (Hard Light)
+ID_OF_NA_FRIDAYTHE13TH_CHARACTER_SECRETDEFENDERS5,Roster Powergeist: Ghost Rider (Robbie Reyes)
+ID_OF_NA_FRIDAYTHE13TH_CHARACTER_SECRETDEFENDERS6,Roster Powergeist: Photon
+ID_OF_NA_FRIDAYTHE13TH_REDSTARS,Red Moon
+ID_OF_NA_FRIDAYTHE13TH_GENERIC4,Terrific Promotions
+ID_OF_NA_FRIDAYTHE13TH_GENERIC5,Night of the Mockingbird
+ID_OF_DE_FRIDAYTHE13TH_INCURSION,Use this discounted <color=#d10000>Incursion Energy</color> in the Incursion Campaign for more <color=#d10000>Red Stars</color> rewards!
+ID_OF_DE_FRIDAYTHE13TH_CHARACTER_SECRETDEFENDERS1,Enchant your <color=#ffda21>Secret Defenders</color> with this special deal on character shards!
+ID_OF_DE_FRIDAYTHE13TH_A18,Increase your characters' Power and terrorize enemies on the battlefield with this mega deal on <color=#fff568>Armory 18 Orbs</color>!
+ID_OF_DE_FRIDAYTHE13TH_T2L5,Transform your top characters with this limited-time deal on <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_DE_FRIDAYTHE13TH_GENERIC1,Reach terrifying Power Levels with this special deal on <color=#ffda21>Gold</color> and <color=#ffda21>Training Materials</color>!
+ID_OF_DE_FRIDAYTHE13TH_GOLD,Reverse bad luck by taking advantage of this mega deal on <color=#ffda21>Gold</color>!
+ID_OF_DE_FRIDAYTHE13TH_GENERIC2,Transform your top characters with this mega deal!
+ID_OF_DE_FRIDAYTHE13TH_GENERIC3,Reverse bad luck by taking advantage of this mega deal on <color=#ffda21>Gold</color>!
+ID_OF_DE_FRIDAYTHE13TH_CHARACTER_TOPSOLOS,Transform <color=#ffda21>Vahl</color> and <color=#ffda21>Kang</color> with this special deal on character shards!
+ID_OF_DE_FRIDAYTHE13TH_CHARACTER_HORSEMEN1,Transform your <color=#ffda21>Horsemen</color> characters with this special deal!
+ID_OF_DE_FRIDAYTHE13TH_CHARACTER_HORSEMEN2,Transform your <color=#ffda21>Horsemen</color> characters with this special deal!
+ID_OF_DE_FRIDAYTHE13TH_CHARACTER_SECRETDEFENDERS2,Transform your <color=#ffda21>Secret Defenders</color> team with this special deal on shards!
+ID_OF_DE_FRIDAYTHE13TH_CHARACTER_SECRETDEFENDERS3,Transform your <color=#ffda21>Secret Defenders</color> team with this special deal on shards!
+ID_OF_DE_FRIDAYTHE13TH_CHARACTER_HORSEMEN3,Curse the competition by powering up <color=#ffda21>Rogue</color>!
+ID_OF_DE_FRIDAYTHE13TH_CHARACTER_HORSEMEN4,Curse the competition by powering up <color=#d10000>Red Hulk</color>!
+ID_OF_DE_FRIDAYTHE13TH_CHARACTER_HORSEMEN5,Curse the competition by powering up <color=#fff568>Archangel</color>!
+ID_OF_DE_FRIDAYTHE13TH_CHARACTER_TOPSOLOS1,Curse the competition by powering up <color=#fff568>Vahl</color>!
+ID_OF_DE_FRIDAYTHE13TH_CHARACTER_TOPSOLOS2,Curse the competition by powering up <color=#fff568>Kang</color>!
+ID_OF_DE_FRIDAYTHE13TH_CHARACTER_SECRETDEFENDERS4,Curse the competition by powering up <color=#ffda21>Ms. Marvel (Hard Light)</color>!
+ID_OF_DE_FRIDAYTHE13TH_CHARACTER_SECRETDEFENDERS5,Curse the competition by powering up <color=#ffda21>Ghost Rider (Robbie Reyes)</color>!
+ID_OF_DE_FRIDAYTHE13TH_CHARACTER_SECRETDEFENDERS6,Curse the competition by powering up <color=#ffda21>Photon</color>!
+ID_OF_DE_FRIDAYTHE13TH_REDSTARS,Infuse your characters with <color=#d10000>Red Stars</color> and drag enemies to the grave!
+ID_OF_DE_FRIDAYTHE13TH_GENERIC4,Increase your characters' Power and terrorize enemies on the battlefield with this mega deal!
+ID_OF_DE_FRIDAYTHE13TH_GENERIC5,Take <color=#ffda21>Mockingbird</color> to new heights with this limited-time deal!
