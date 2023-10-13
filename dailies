@@ -311,6 +311,10 @@ ID_LOGIN_OFFER_DE_TRAINING_ORB_5D,Log in 5 days to claim Training Orbs from your
 ID_LOGIN_OFFER_DE_TRAINING_ORB_7D,Log in 7 days to claim Training Orbs from your premium calendar!
 ID_LOGIN_OFFER_NA_GOLD_PROMO_28D,Gold Promotion Credits
 ID_LOGIN_OFFER_DE_GOLD_PROMO_28D,Log in 28 days to claim Gold Promotion Credits from your premium calendar!
+ID_LOGIN_NA_MYSTIC_CAL,Teal Mystic Gear Calendar
+ID_LOGIN_BO_MYSTIC_CAL,Log in 14 days to claim Teal Mystic Gear from your premium calendar!
+ID_LOGIN_OFFER_NA_MYSTIC_14D_CALENDAR,Mystical Gear Calendar
+ID_LOGIN_OFFER_DE_MYSTIC_14D_CALENDAR,Get <color=#fff568>Teal Mystic Gear</color> over {var1} days to help power up your Roster! Log in for the next {var1} days to collect your rewards.
 ID_LOGIN_VALUABLELESSONS_NA,Valuable Lessons
 ID_LOGIN_VALUABLELESSONS_DE,Log in every day to earn wonderful rewards in celebration of Valuable Lessons event!
 ID_LOGIN_CATALYSTBLAST_NA,Catalyst Blast

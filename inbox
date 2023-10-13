@@ -7451,3 +7451,9 @@ ID_ME_NA_FRIGHTORFLIGHT_ANNOUNCE,LIVE: Fright or Flight
 ID_ME_NA_FRIGHTORFLIGHT_ENDING,ENDING: Fright or Flight
 ID_ME_DE_FRIGHTORFLIGHT_ENDING,Don't miss out on Darkhawk Shards and Teal Tech Gear
 ID_ME_BO_FRIGHTORFLIGHT_ENDING,"Commander,\n\nThe Fright or Flight Event <color=#fff568>ends soon</color>. Continue earning Darkhawk Shards and Teal Tech Gear!\n\nGood luck, Commander!"
+ID_ME_NA_STRIKEPASS45_ANNOUNCE,S.T.R.I.K.E. Pass: Season 45
+ID_ME_DE_STRIKEPASS45_ANNOUNCE,Earn Iron Man (Infinity War) shards!
+ID_ME_BO_STRIKEPASS45_ANNOUNCE,"Commander,\n\n<color=#fff568>S.T.R.I.K.E. Pass: Season 45 is live!</color>\n\nFeatured Character Shards: <color=#fff568>Iron Man (Infinity War)</color>\n<color=#fff568>How it Works</color>\n- Certain Daily Objectives reward S.T.R.I.K.E. Tokens\n- Earn S.T.R.I.K.E. Tokens to hit Season-long milestone rewards\n- You can also spend Power Cores to immediately reach the next S.T.R.I.K.E. Level\n- Your S.T.R.I.K.E. Level resets each Season\n\n<color=#fff568>Reward Tiers</color>\n- Commander Level determines your S.T.R.I.K.E. Pass Tier & Rewards\n- S.T.R.I.K.E. I: Commander Levels 10-49\n- S.T.R.I.K.E. II: Commander Levels 50-79\n- S.T.R.I.K.E. III: Commander Levels 80+\n- Your Commander Level at the START of the season determines which S.T.R.I.K.E. Pass Tier you get for the duration of the Season\n\n<color=#fff568>Premium S.T.R.I.K.E. Pass</color>\nUpgrade to the <color=#fff568>Premium S.T.R.I.K.E. Pass</color> to earn additional rewards for reaching each S.T.R.I.K.E. Level."
+ID_ME_NA_STRIKEPASS45_ENDING,Ending: S.T.R.I.K.E. Pass
+ID_ME_DE_STRIKEPASS45_ENDING,Don't miss Iron Man (Infinity War) shards!
+ID_ME_BO_STRIKEPASS45_ENDING,"Commander,\n\nYou only have <color=#fff568>2 days</color> remaining to earn <color=#fff568>Iron Man (Infinity War)</color> shards in Season 45 of S.T.R.I.K.E. Pass.\n\nHurry and complete your Daily Objectives before these rewards are gone!"
