@@ -1193,20 +1193,20 @@ ID_GACHA_CRATE_EVENT_DARKDIMENSIONVLAUNCH_CITY_DESCRIPTION,Earn Dark Dimension C
 ID_GACHA_CRATE_EVENT_DARKDIMENSIONVLAUNCH_CITY_TOKEN_NAME,Dark Dimension City Orb Fragments
 ID_GACHA_CRATE_EVENT_DARKDIMENSIONVLAUNCH_CITY_TOKEN_DESCRIPTION,Collect Dark Dimension City Orb Fragments to open Dark Dimension City Orbs.
 ID_OF_NA_DARKDIMENSIONVLAUNCH_CITY_OFFER,Dark Dimension City Orb Offer
-ID_OF_DE_DARKDIMENSIONVLAUNCH_CITY_OFFER_VAR,Save over {var1}% on <color=#fff568>{var2} Dark Dimension City Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to {var3} character shards</color> for characters helpful in Dark Dimension V
+ID_OF_DE_DARKDIMENSIONVLAUNCH_CITY_OFFER_VAR,"Save over {var1}% on <color=#fff568>{var2} Dark Dimension City Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to {var3} character shards</color> for characters helpful in Dark Dimension V, along with Teal Gear to help level your characters to GT16!"
 ID_GACHA_CRATE_EVENT_DARKDIMENSIONVLAUNCH_GLOBAL_NAME,Dark Dimension Global Orb
 ID_GACHA_CRATE_EVENT_DARKDIMENSIONVLAUNCH_GLOBAL_DESCRIPTION,Earn Dark Dimension Global Orb Fragments to open a Dark Dimension Global Orb.
 ID_GACHA_CRATE_EVENT_DARKDIMENSIONVLAUNCH_GLOBAL_TOKEN_NAME,Dark Dimension Global Orb Fragments
 ID_GACHA_CRATE_EVENT_DARKDIMENSIONVLAUNCH_GLOBAL_TOKEN_DESCRIPTION,Collect Dark Dimension Global Orb Fragments to open Dark Dimension Global Orbs.
 ID_OF_NA_DARKDIMENSIONVLAUNCH_GLOBAL_OFFER,Dark Dimension Global Orb Offer
-ID_OF_DE_DARKDIMENSIONVLAUNCH_GLOBAL_OFFER_VAR,Save over {var1}% on <color=#fff568>{var2} Dark Dimension Global Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to {var3} character shards</color> for characters helpful in Dark Dimension V
+ID_OF_DE_DARKDIMENSIONVLAUNCH_GLOBAL_OFFER_VAR,"Save over {var1}% on <color=#fff568>{var2} Dark Dimension Global Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to {var3} character shards</color> for characters helpful in Dark Dimension V, along with Teal Gear to help level your characters to GT16!"
 ID_GACHA_CRATE_EVENT_DARKDIMENSIONVLAUNCH_COSMIC_NAME,Dark Dimension Cosmic Orb
 ID_GACHA_CRATE_EVENT_DARKDIMENSIONVLAUNCH_COSMIC_DESCRIPTION,Earn Dark Dimension Cosmic Orb Fragments to open a Dark Dimension Cosmic Orb.
 ID_GACHA_CRATE_EVENT_DARKDIMENSIONVLAUNCH_COSMIC_TOKEN_NAME,Dark Dimension Cosmic Orb Fragments
 ID_GACHA_CRATE_EVENT_DARKDIMENSIONVLAUNCH_COSMIC_TOKEN_DESCRIPTION,Collect Dark Dimension Cosmic Orb Fragments to open Dark Dimension Cosmic Orbs.
 ID_OF_NA_DARKDIMENSIONVLAUNCH_COSMIC_OFFER,Dark Dimension Cosmic Orb Offer
-ID_OF_DE_DARKDIMENSIONVLAUNCH_COSMIC_OFFER_VAR,Save over {var1}% on <color=#fff568>{var2} Dark Dimension Cosmic Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to {var3} character shards</color> for characters helpful in Dark Dimension V
-ID_OF_DE_DARKDIMENSIONVLAUNCH_OFFERS_VAR,Save over {var1}% on <color=#fff568>{var2} Dark Dimension Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to {var3} character shards</color> for characters helpful in Dark Dimension V
+ID_OF_DE_DARKDIMENSIONVLAUNCH_COSMIC_OFFER_VAR,"Save over {var1}% on <color=#fff568>{var2} Dark Dimension Cosmic Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to {var3} character shards</color> for characters helpful in Dark Dimension V, along with Teal Gear to help level your characters to GT16!"
+ID_OF_DE_DARKDIMENSIONVLAUNCH_OFFERS_VAR,"Save over {var1}% on <color=#fff568>{var2} Dark Dimension Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to {var3} character shards</color> for characters helpful in Dark Dimension V, along with Teal Gear to help level your characters to GT16!"
 ID_OF_NA_MAGIK_FCO_OFFER,Limbo Ruler Orb Offer
 ID_OF_NA_MAGIK_SHARD_OFFER,The Mutant Sorceress
 ID_OF_DE_MAGIK_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Magik</color> with this offer! Each orb has a chance to earn up to 180 shards. Cast a spell over the battlefield with hard-hitting attacks and aggressive support for Uncanny X-Men allies.
@@ -8636,4 +8636,8 @@ ID_GACHA_CRATE_VINDICATOR_TOKEN_DESCRIPTION,Earn Vindicator Orb Fragments from C
 ID_GACHA_CRATE_ARCREACTOR_NAME,Arc Reactor Orb
 ID_GACHA_CRATE_ARCREACTOR_DESCRIPTION,Earn Iron Man (Infinity War) Character Shards
 ID_GACHA_CRATE_ARCREACTOR_TOKEN_NAME,Arc Reactor Orb Fragments
-ID_GACHA_CRATE_ARCREACTOR_TOKEN_DESCRIPTION,Open Arc Reactor Orbs to earn character shards of Secret Defenders and earn Technology Terror Milestone progress
+ID_GACHA_CRATE_ARCREACTOR_TOKEN_DESCRIPTION,Open Arc Reactor Orbs to earn character shards of Darkhold and earn Technology Terror Milestone progress
+ID_GACHA_CRATE_CELESTIALTALON_NAME,Celestial Talon Orb
+ID_GACHA_CRATE_CELESTIALTALON_DESCRIPTION,Earn Darkhawk Character Shards
+ID_GACHA_CRATE_CELESTIALTALON_TOKEN_NAME,Celestial Talon Orb Fragments
+ID_GACHA_CRATE_CELESTIALTALON_TOKEN_DESCRIPTION,Earn Celestial Talon Orb Fragments from winning Blitz battles to earn Darkhawk Shards

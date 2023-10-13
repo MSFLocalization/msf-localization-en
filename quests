@@ -3514,3 +3514,17 @@ ID_QU_NA_MACHINEMENACE,Machine Menace
 ID_QU_SD_MACHINEMENACE,Spend Power Cores
 ID_QU_LD_MACHINEMENACE,Spend Power Cores to complete this daily milestone that rewards Arc Reactor Orbs for Technology Terror Event progress!
 ID_QU_S1_MACHINEMENACE,Spend 1 Power Core
+ID_QU_NA_ABYSSALASSAULT,Abyssal Assault
+ID_QU_SD_ABYSSALASSAULT,Spend Iso-8 Energy and Earn Allied Supply II Orbs
+ID_QU_LD_ABYSSALASSAULT,"Abyssal Assault Milestone\nGain progress in this 6-day event by spending Iso-8 Campaign Energy and earning Allied Supply II Orb fragments from daily Free Claims and a login calendar. Earn incredible rewards including T2 Level 5 Ion Orbs, T2 Level 4 Ions, and T2 Level 1 Ions. You'll also earn points towards the month-long Night of the Were-Tigress milestone by collecting Cat's Head Amulets."
+ID_QU_S1_ABYSSALASSAULT,Spend 1 Iso-8 Campaign Energy
+ID_QU_S2_ABYSSALASSAULT,Earn 1 Allied Supply II Orb Fragment
+ID_QU_NA_FRIGHTORFLIGHT,Fright or Flight
+ID_QU_SD_FRIGHTORFLIGHT,Win Blitz Battles and Spend Power Cores
+ID_QU_LD_FRIGHTORFLIGHT,"Fright or Flight Milestone\nGain progress in this 7-day event by earning Celestial Talon Orb Fragments from winning Blitz battles, spending Power Cores, and completing the Shi'ar Shriek Daily Web Milestone. Earn incredible rewards including Darkhawk shards, Elite 7 Credits, and Teal Tech gear. You'll also earn points towards the month-long Night of the Were-Tigress milestone by collecting Cat's Head Amulets and the Fanged Anklet.\n\nDaily Shi'ar Shriek Web Milestone\nEarn Alliance Credits to get Milestone Points for additional progress in the Fright or Flight Milestone. Keep an eye out for Free Claims containing Milestone Points every day!"
+ID_QU_S1_FRIGHTORFLIGHT,Earn 1 Celestial Talon Orb Fragment
+ID_QU_S2_FRIGHTORFLIGHT,Spend 1 Power Core
+ID_QU_NA_SHIARSHRIEK,Shi'ar Shriek
+ID_QU_SD_SHIARSHRIEK,Earn Alliance Credits
+ID_QU_LD_SHIARSHRIEK,Earn Alliance Credits to complete this daily milestone that rewards Fright or Flight progress!
+ID_QU_S1_SHIARSHRIEK,Earn 1 Alliance Credit

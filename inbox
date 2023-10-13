@@ -7401,10 +7401,53 @@ ID_ME_BO_DARKHAWK_ANNOUNCE,"Commander,\n\n<color=#fff568>Darkhawk</color> has la
 ID_ME_NA_DARKHAWK_RS_ENDING,Red Stars: Darkhawk
 ID_ME_DE_DARKHAWK_RS_ENDING,Featuring Ends Soon!
 ID_ME_BO_DARKHAWK_RS_ENDING,"Commander,\n\n<color=#fff568>Darkhawk</color> will only be featured in all Red Star Orbs for 2 more days!\n\nHurry and open Red Star Orbs while the drop rate is still increased."
-ID_ME_NA_DARKHAWK_ORB_ENDING,Timeline Protector Orb
+ID_ME_NA_DARKHAWK_ORB_ENDING,Edgelord Orb
 ID_ME_DE_DARKHAWK_ORB_ENDING,2 days left!
 ID_ME_BO_DARKHAWK_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Edgelord Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Darkhawk</color> for your <color=#fff568>P.E.G.A.S.U.S.</color> team and blast through waves of enemies on Tech Raid nodes!"
 ID_ME_NA_NEW_PLAYER_GIFT1,Welcome to MARVEL S.T.R.I.K.E. Force!
 ID_ME_NA_NEW_PLAYER_GIFT1A,Welcome S.T.R.I.K.E. Commander!
 ID_ME_DE_NEW_PLAYER_GIFT1,Redeem your Free Gift
 ID_ME_BO_NEW_PLAYER_GIFT1,"Commander,\n\nWelcome to MARVEL Strike Force!\n\nTo celebrate the start of your journey, please redeem your gift of 10 Legacy I, II, and III Orbs by entering <color=#fff568>""welcome""</color> on the New Player Gift page of MarvelStrikeForce.com.\n\nTo access the page, go to the Options Menu, select <color=#fff568>""Sign in with Scopely""</color>, and follow the steps to connect your account Scopely ID. Once complete, log into MarvelStrikeForce.com to redeem your gift.\n\nGood luck, Commander!"
+ID_ME_NA_DARKHAWK_PREBAMESH,Recruit Darkhawk!
+ID_ME_DE_DARKHAWK_PREBAMESH,Availability Update
+ID_ME_BO_DARKHAWK_PREBAMESH,"Commander,\n\n<color=#fff568>Darkhawk</color> has been added to the Ultimus Orb, Basic Orb, Premium Orb, Mega Orb, and the Supplies section in the Store. As a result, we have removed <color=#fff568>Nico Minoru</color> from the Mega Orb to keep the orb's content exciting and up to date."
+ID_ME_NA_DARKHAWK_ELITE_STORE,Red Stars: Darkhawk
+ID_ME_DE_DARKHAWK_ELITE_STORE,Elite Store Update
+ID_ME_BO_DARKHAWK_ELITE_STORE,"Commander,\n\nDirect Red Star promotions for <color=#fff568>Darkhawk</color> have been added to the <color=#fff568>Elite Store</color>!\n\nYou can now use <color=#fff568>Silver or Gold Promotion Credits</color> to promote them <color=#fff568>1 Red Star higher</color> than their current rank.\n\nEarn Promotion Credits by <color=#fff568>exchanging your Elite Credits</color> or by completing the Alliance Donation Daily Objective."
+ID_ME_NA_IRONHEARTMCU_TEASER,Soon: Ironheart (MKII)
+ID_ME_DE_IRONHEARTMCU_TEASER,Ingenious Inventor
+ID_ME_BO_IRONHEARTMCU_TEASER,"Commander,\n\n<color=#fff568>Ironheart (MKII)</color> makes a heroic landing to control the enemy in Tech Raid nodes!\n\n<color=#fff568>Ability Highlights</color>\nApply Vulnerable, Slow, Defense Down and Stun to enemies while avoiding counter attacks.\n\n\n<color=#fff568>P.E.G.A.S.U.S. Bonuses</color>\nApply Immunity, Deflect and generate Ability Energy on Spawn. Ironheart also extends these positive effects to the team.\n\n<color=#fff568>Raid Bonuses</color>\nFill Speed Bar on Spawn for Ironheart (MKII) and P.E.G.A.S.U.S. allies on Spawn and control the enemies on Tech nodes by applying Trauma, additional Stun, and lowering the armor of enemies with Vulnerable.\n\nBe on the lookout for details on how to earn their character shards!\n"
+ID_ME_NA_IRONHEARTMCU_ANNOUNCE,Ironheart (MKII) is here!
+ID_ME_DE_IRONHEARTMCU_ANNOUNCE,Ingenious Inventor
+ID_ME_BO_IRONHEARTMCU_ANNOUNCE,"Commander,\n\n<color=#fff568>Ironheart (MKII)</color> makes a heroic landing to control the enemy in Tech Raid nodes!\n\nRecruit her now and update your saved squads on MarvelStrikeForce.com with Rescue and Kestrel to start building your <color=#fff568>P.E.G.A.S.U.S.</color> team.\n\n<color=#fff568>Ability Highlights</color>\nApply Vulnerable, Slow, Defense Down and Stun to enemies while avoiding counter attacks.\n\n\n<color=#fff568>P.E.G.A.S.U.S. Bonuses</color>\nApply Immunity, Deflect and generate Ability Energy on spawn. Ironheart also extends these positive effects to the team.\n\n<color=#fff568>Raid Bonuses</color>\nFill Speed Bar on Spawn for Ironheart (MKII) and P.E.G.A.S.U.S. allies on Spawn and control the enemies on Tech nodes by applying Trauma, additional Stun, and lowering the armor of enemies with Vulnerable.\n\n<color=#fff568>How to Recruit</color>\nDon't miss these opportunities to earn their shards:\n\n- Next in Line Orb\n- Limited-time offers in the Store\n- An upcoming event\n\n<color=#fff568>Red Stars</color>\nFor players who have unlocked the Red Stars feature (Level 42), Ironheart (MKII) is featured in Red Star Orbs with an increased drop rate for a limited time.\n\nRecruit this Ingenious Inventor to control the enemy on Tech Raid nodes!"
+ID_ME_NA_IRONHEARTMCU_RS_ENDING,Red Stars: Ironheart (MKII)
+ID_ME_DE_IRONHEARTMCU_RS_ENDING,Featuring Ends Soon!
+ID_ME_BO_IRONHEARTMCU_RS_ENDING,"Commander,\n\n<color=#fff568>Ironheart (MKII)</color> will only be featured in all Red Star Orbs for 2 more days!\n\nHurry and open Red Star Orbs while the drop rate is still increased."
+ID_ME_NA_IRONHEARTMCU_ORB_ENDING,Next in Line Orb
+ID_ME_DE_IRONHEARTMCU_ORB_ENDING,2 days left!
+ID_ME_BO_IRONHEARTMCU_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Next in Line Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Ironheart (MKII)</color> for your <color=#fff568>P.E.G.A.S.U.S.</color> team and melt through waves of enemies on Tech Raid nodes!"
+ID_ME_NA_IRONHEARTMCU_PREBAMESH,Recruit Ironheart (MKII)!!
+ID_ME_DE_IRONHEARTMCU_PREBAMESH,Availability Update
+ID_ME_BO_IRONHEARTMCU_PREBAMESH,"Commander,\n\n<color=#fff568>Ironheart (MKII)</color> has been added to the Ultimus Orb, Basic Orb, Premium Orb, Mega Orb, and the Supplies section in the Store. As a result, we have removed <color=#fff568>Fantomex</color> from the Mega Orb to keep the orb's content exciting and up to date."
+ID_ME_NA_IRONHEARTMCU_ELITE_STORE,Red Stars: Recruit Ironheart (MKII)!
+ID_ME_DE_IRONHEARTMCU_ELITE_STORE,Elite Store Update
+ID_ME_BO_IRONHEARTMCU_ELITE_STORE,"Commander,\n\nDirect Red Star promotions for <color=#fff568>Ironheart (MKII)!</color> have been added to the <color=#fff568>Elite Store</color>!\n\nYou can now use <color=#fff568>Silver or Gold Promotion Credits</color> to promote them <color=#fff568>1 Red Star higher</color> than their current rank.\n\nEarn Promotion Credits by <color=#fff568>exchanging your Elite Credits</color> or by completing the Alliance Donation Daily Objective."
+ID_ME_NA_BATTLEPASS_SEASON6_ANNOUNCE,Battle Pass: Season 6
+ID_ME_DE_BATTLEPASS_SEASON6_ANNOUNCE,Earn Ghost Rider (Robbie) shards & Elsa Bloodstone's Monster Hunter Skin!
+ID_ME_BO_BATTLEPASS_SEASON6_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle pass: Season 6 is LIVE</color>!\n\nComplete this Season's Daily and Weekly Objectives to win these <color=#fff568>Featured Prizes</color>:\n- Ghost Rider (Robbie) character shards\n- Elsa Bloodstone's Monster Hunter skin\n- Teal Gear\n\nUpgrade to the <color=#fff568>Premium Pass</color> to earn even more rewards.\n\nCharge into Battle Pass: Season 6 today!"
+ID_ME_NA_BATTLEPASS_SEASON6_ENDING,Season 6 Ending Soon
+ID_ME_DE_BATTLEPASS_SEASON6_ENDING,Battle Pass: 2 more days!
+ID_ME_BO_BATTLEPASS_SEASON6_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Ghost Rider (Robbie) shards, Elsa Bloodstone's Monster Hunter skin and Teal Gear before the Season ends!"
+ID_ME_NA_ABYSSALASSAULT_ANNOUNCE,LIVE: Abyssal Assault
+ID_ME_DE_ABYSSALASSAULT_CORE,Earn Iso-8 Ions and Night of the Were-Tigress progress!
+ID_ME_BO_ABYSSALASSAULT_CORE,"Commander,\n\n<color=#fff568>Abyssal Assault Milestone</color>\nGain progress in this <color=#fff568>6-day</color> event by spending Iso-8 Campaign Energy and earning Allied Supply II Orb fragments from daily Free Claims and a login calendar. Earn incredible rewards including <color=#fff568>T2 Level 5 Ion Orbs, T2 Level 4 Ions, and T2 Level 1 Ions</color>. You'll also earn points towards the month-long Night of the Were-Tigress milestone by collecting Cat's Head Amulets.\n\nGood luck, Commander!"
+ID_ME_NA_ABYSSALASSAULT_ENDING,ENDING: Abyssal Assault
+ID_ME_DE_ABYSSALASSAULT_ENDING,Don't miss out on valuable Iso-8 Rewards!
+ID_ME_BO_ABYSSALASSAULT_ENDING,"Commander,\n\nThe Abyssal Assault Event <color=#fff568>ends soon</color>. Continue earning Ions and progress towards the Night of the Were-Tigress Event with Cat's Head Amulets before the event ends!\n\nGood luck, Commander!"
+ID_ME_NA_FRIGHTORFLIGHT_TEASER,Coming Soon: Fright or Flight
+ID_ME_DE_FRIGHTORFLIGHT_CORE,Earn Bifrost Shards and Teal Skill Gear
+ID_ME_BO_FRIGHTORFLIGHT_CORE,"Commander,\n\n<color=#fff568>Fright or Flight Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by earning Celestial Talon Orb Fragments from winning Blitz battles, spending Power Cores, and completing the Shi'ar Shriek Daily Web Milestone. Earn incredible rewards including <color=#fff568>Darkhawk shards, Elite 7 Credits, and Teal Tech gear</color>. You'll also earn points towards the month-long Night of the Were-Tigress milestone by collecting Cat's Head Amulets and the Fanged Anklet.\n\n<color=#fff568>Daily Shi'ar Shriek Web Milestone</color>\nEarn Alliance Credits to get Milestone Points for additional progress in the Fright or Flight Milestone. Keep an eye out for Free Claims containing Milestone Points every day!\n\nGood luck, Commander!"
+ID_ME_NA_FRIGHTORFLIGHT_ANNOUNCE,LIVE: Fright or Flight
+ID_ME_NA_FRIGHTORFLIGHT_ENDING,ENDING: Fright or Flight
+ID_ME_DE_FRIGHTORFLIGHT_ENDING,Don't miss out on Darkhawk Shards and Teal Tech Gear
+ID_ME_BO_FRIGHTORFLIGHT_ENDING,"Commander,\n\nThe Fright or Flight Event <color=#fff568>ends soon</color>. Continue earning Darkhawk Shards and Teal Tech Gear!\n\nGood luck, Commander!"
