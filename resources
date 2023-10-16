@@ -44,11 +44,11 @@ ID_AVE_KEY_EVENT03_NAME,Champions' Raid Key
 ID_AVE_KEY_EVENT03_DESCRIPTION,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_AVE_KEY_EVENT04_NAME,Gambit Raid Key
 ID_AVE_KEY_EVENT04_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
-ID_RES_CAMPAIGN_ENERGY_EVENT01,Enchanting Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT01,Infectious Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT02,Potential Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT03,Across Infinity Energy
-ID_CAMPAIGN_ENERGY_EVENT01_NAME,Enchanting Energy
-ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch Call Me Sylvie missions.
+ID_CAMPAIGN_ENERGY_EVENT01_NAME,Infectious Energy
+ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch Unstoppable Undead missions.
 ID_CAMPAIGN_ENERGY_EVENT02_NAME,Potential Energy
 ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch Project P.E.G.A.S.U.S. missions.
 ID_CAMPAIGN_ENERGY_EVENT03_NAME,Across Infinity Energy

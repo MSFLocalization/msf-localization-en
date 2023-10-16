@@ -8035,6 +8035,10 @@ ID_OF_NA_WONG_FCO_OFFER,Protector Supreme
 ID_OF_DE_WONG_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Wong</color> with this offer! Each orb has a chance to earn up to 180 shards. Protect allies with Taunt and attack enemies who attack Darkhold allies.
 ID_OF_DE_WONG_FCO_OFFER_VAR,"Save on <color=#fff568>{var1} Mystic Protector Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 180 Wong</color> shards. Protect with Taunt, attack enemies who attack Darhold allies, and grant Defense Up to Darkhold allies."
 ID_OF_DE_WONG_OFFER_VAR_SHARD,Get <color=#fff568>{var1} Wong</color> shards and open a portal to victory! Protect allies with Taunt and attack enemies who attack Darkhold allies.
+ID_GACHA_CRATE_EVENT_CAMPAIGN_HALLOWEEN_202310_NAME,Viral Orb
+ID_GACHA_CRATE_EVENT_CAMPAIGN_HALLOWEEN_202310_DESCRIPTION,Earn Viral Orb Fragments in the Unstoppable Undead Event Campaign.
+ID_GACHA_CRATE_EVENT_CAMPAIGN_HALLOWEEN_202310_TOKEN_NAME,Viral Orb Fragments
+ID_GACHA_CRATE_EVENT_CAMPAIGN_HALLOWEEN_202310_TOKEN_DESCRIPTION,Collect Viral Orb Fragments in the Unstoppable Undead Event Campaign to earn Viral Orbs.
 ID_GACHA_CRATE_ANNIV2022_NEWT_NAME,Eye of Newt Orb
 ID_GACHA_CRATE_ANNIV2022_NEWT_DESCRIPTION,"Guarantees valuable Purple, Orange, and Teal Unique Gear Pieces"
 ID_GACHA_CRATE_ANNIV2022_NEWT_TOKEN_NAME,Eye of Newt Orb Fragments

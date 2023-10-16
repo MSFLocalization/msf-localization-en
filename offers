@@ -4309,6 +4309,14 @@ ID_OF_DE_SPECTRALEMPORIUMFREE_CLAIM,Come back daily for more <color=#fff568>Spec
 ID_OF_NA_GOLDENDIMENSION_REPEAT,Golden Dimension Booster
 ID_OF_DE_GOLDENDIMENSION_REPEAT_GOLD,Reach new heights in the <color=#fbb903>Golden Dimension</color> Milestone Event with this bundle of <color=#fbb903>Gold</color>!
 ID_OF_DE_GOLDENDIMENSION_REPEAT_ORBS,Reach new heights in the <color=#fbb903>Golden Dimension</color> Milestone Event with this bundle of <color=#fbb903>Gold Orbs</color>!
+ID_OF_NA_IRONHEARTMCU_FCO_OFFER,Ingenious Inventor
+ID_OF_DE_IRONHEARTMCU_FCO_OFFER,Each <color=#fff568>Next in Line Orb</color> contains <color=#fff568>up to 180 Ironheart (MKII)</color> shards. Spread and prolong negative effects on enemies and apply Immunity to <color=#fff568>P.E.G.A.S.U.S.</color> allies!
+ID_OF_DE_IRONHEARTMCU_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Ironheart (MKII)</color> and unlock one-time only release offers on your next visit! Spread and prolong negative effects on enemies and apply Immunity to <color=#fff568>P.E.G.A.S.U.S.</color> allies!
+ID_OF_DE_IRONHEARTMCU_OFFER_SHARD,Power up <color=#fff568>Ironheart (MKII)</color> with this shard offer! Spread and prolong negative effects on enemies and apply Immunity to <color=#fff568>P.E.G.A.S.U.S.</color> allies!
+ID_OF_STOREBAR_IRONHEARTMCU,Dual Offer: Ironheart (MKII)
+ID_OF_NA_DUAL_IRONHEARTMCU,Dual Offer: Ironheart (MKII)
+ID_OF_DE_DUAL_IRONHEARTMCU,Choose your path to power up this <color=#fff568>P.E.G.A.S.U.S.</color> member!
+ID_OF_DE_DUAL_UNLOCK_IRONHEARTMCU,Unlock this <color=#fff568>P.E.G.A.S.U.S.</color> member and <color=#fff568>one-time release offers</color> on your next visit!
 ID_OF_NA_Offer_LokiS2_Chain1,Sacred Timeline: Nexus Event 1
 ID_OF_NA_Offer_LokiS2_Chain2,Sacred Timeline: Nexus Event 2
 ID_OF_NA_Offer_LokiS2_Chain3,Sacred Timeline: Nexus Event 3
@@ -4333,6 +4341,18 @@ ID_OF_DE_Offer_LokiS2_LokiUni15,Celebrate the launch of Loki Season 2 and power 
 ID_OF_DE_Offer_LokiS2_TeenLokiUni15,Celebrate the launch of Loki Season 2 and power up Loki (Teen) today!
 ID_OF_DE_Offer_LokiS2_TeenLoki5,Celebrate the launch of Loki Season 2 with this Loki (Teen) shard offer!
 ID_OF_DE_Offer_LokiS2_Loki10,Celebrate the launch of Loki Season 2 with this Loki shard offer!
+ID_OF_NA_ABYSSALASSAULT_STARTER,Abyssal Assault: Starter
+ID_OF_DE_ABYSSALASSAULT_STARTER,Give your alliance a huge head start in the <color=#fff568>Abyssal Assault</color> milestone with this high value offer!
+ID_OF_NA_ABYSSALASSAULT_CATCHUP,Abyssal Assault: Catch-Up
+ID_OF_DE_ABYSSALASSAULT_CATCHUP,Smash through the end of the <color=#fff568>Abyssal Assault</color> milestone and get your Alliance Iso-8 rewards!
+ID_OF_NA_ABYSSALASSAULT_FREE,Abyssal Assault: Daily Free Claim
+ID_OF_DE_ABYSSALASSAULT_FREE,Come back daily for more <color=#fff568>Abyssal Assault</color> progress!
+ID_OF_NA_ABYSSALASSAULT_INTERSTITIAL,Abyssal Assault: Midnight Crate
+ID_OF_DE_ABYSSALASSAULT_INTERSTITIAL,Check back daily for this fantastic offer to speed your Alliance forward in the <color=#fff568>Abyssal Assault</color> milestone!
+ID_OF_NA_ABYSSALASSAULT_EVENTORB,Abyssal Assault: Allied Supply II Orb
+ID_OF_DE_ABYSSALASSAULT_EVENTORB,Get a heap of Allied Supply II Orb Fragments to push your Alliance forward in the <color=#fff568>Abyssal Assault</color> milestone!
+ID_OF_NA_ABYSSALASSAULT_ENERGY,Abyssal Assault: Daily Iso-8 Energy
+ID_OF_DE_ABYSSALASSAULT_ENERGY,Stock up on Iso-8 Campaign Energy to push your Alliance forward in the <color=#fff568>Abyssal Assault</color> milestone!
 ID_OF_NA_FRIDAYTHE13TH_INCURSION,Incursion into Terror
 ID_OF_NA_FRIDAYTHE13TH_CHARACTER_SECRETDEFENDERS1,Terrifying Deals: Secret Defenders
 ID_OF_NA_FRIDAYTHE13TH_A18,Gruesome Armory
@@ -4381,7 +4401,69 @@ ID_OF_DE_FRIDAYTHE13TH_CHARACTER_SECRETDEFENDERS6,Curse the competition by power
 ID_OF_DE_FRIDAYTHE13TH_REDSTARS,Infuse your characters with <color=#d10000>Red Stars</color> and drag enemies to the grave!
 ID_OF_DE_FRIDAYTHE13TH_GENERIC4,Increase your characters' Power and terrorize enemies on the battlefield with this mega deal!
 ID_OF_DE_FRIDAYTHE13TH_GENERIC5,Take <color=#ffda21>Mockingbird</color> to new heights with this limited-time deal!
+ID_OF_NA_TECHNOLOGYTERROR_MEGASTARTER,Technology Terror: Mega Starter
+ID_OF_NA_TECHNOLOGYTERROR_STARTER,Technology Terror: Starter
+ID_OF_NA_TECHNOLOGYTERROR_MEGACATCHUP,Technology Terror: Mega Catch-Up
+ID_OF_NA_TECHNOLOGYTERROR_CATCHUP,Technology Terror: Catch-Up
+ID_OF_NA_TECHNOLOGYTERROR_DAILY_ORB,Technology Terror: Arc Reactor Orbs
+ID_OF_NA_TECHNOLOGYTERROR_DAILY_POINTS,Technology Terror: Event Points
+ID_OF_NA_TECHNOLOGYTERROR_DAILY_INTERSTITIAL,Technology Terror: Genius Cache
+ID_OF_NA_TECHNOLOGYTERRORFREE_CLAIM,Technology Terror: Free Claim
+ID_OF_DE_TECHNOLOGYTERROR_MEGASTARTER,Get ahead in the <color=#fff568>Technology Terror Milestone</color> and blast through for Elite 7 Credits and Gear Tier 17 Mini-Uniques!
+ID_OF_DE_TECHNOLOGYTERROR_STARTER,Get a head start in the <color=#fff568>Technology Terror Milestone</color> and speed through for Elite 7 Credits and Gear Tier 17 Mini-Uniques!
+ID_OF_DE_TECHNOLOGYTERROR_MEGACATCHUP,Finish strong in the <color=#fff568>Technology Terror Milestone</color> and get your hands on Teal Tech gear and Elite 7 Credits!
+ID_OF_DE_TECHNOLOGYTERROR_CATCHUP,Complete the <color=#fff568>Technology Terror Milestone</color> for Teal Tech gear and Elite 7 Credits!
+ID_OF_DE_TECHNOLOGYTERROR_DAILY_ORB,"Get bonus Arc Reactor Orbs for Iron Man (Infinity War) shards and <color=#fff568>Technology Terror Milestone</color> progress! "
+ID_OF_DE_TECHNOLOGYTERROR_DAILY_POINTS,Make boosted progress in the <color=#fff568>Technology Terror Milestone</color> and get Elite 7 Credits and Gear Tier 17 Tech Mini-Uniques!
+ID_OF_DE_TECHNOLOGYTERROR_DAILY_INTERSTITIAL,Stock up on Arc Reactor Orbs and Event Points for extra progress in the <color=#fff568>Technology Terror Milestone</color>!
+ID_OF_DE_TECHNOLOGYTERRORFREE_CLAIM,Come back daily for more <color=#fff568>Technology Terror</color> progress!
+ID_OF_NA_FRIGHTORFLIGHT_MEGASTARTER,Fright or Flight: Mega Starter
+ID_OF_NA_FRIGHTORFLIGHT_STARTER,Fright or Flight: Starter
+ID_OF_NA_FRIGHTORFLIGHT_CATCHUP,Fright or Flight: Mega Catch-Up
+ID_OF_NA_FRIGHTORFLIGHT_MEGA,Fright or Flight: Catch-Up
+ID_OF_NA_FRIGHTORFLIGHT_DAILY_ORB,Fright or Flight: Celestial Talon Orbs
+ID_OF_NA_FRIGHTORFLIGHT_DAILY_BLITZ,Fright or Flight: Blitz
+ID_OF_NA_FRIGHTORFLIGHT_DAILY_POINTS,Fright or Flight: Event Points
+ID_OF_NA_FRIGHTORFLIGHT_DAILY_INTERSTITIAL,Fright or Flight: Shi'ar Stash
+ID_OF_NA_FRIGHTORFLIGHTFREE_CLAIM,Fright or Flight: Free Claim
+ID_OF_NA_FRIGHTORFLIGHT_HC_ALLIANCECREDITS,Fright or Flight: Campaign Energy
+ID_OF_NA_FRIGHTORFLIGHT_HC_GPC,Fright or Flight: Gold Promotion Credits
+ID_OF_NA_FRIGHTORFLIGHT_HC_GT18,Fright or Flight: Armory 18 Orbs
+ID_OF_NA_FRIGHTORFLIGHT_HC_GT16,Fright or Flight: Armory 16 Orbs
+ID_OF_NA_FRIGHTORFLIGHT_HC_GT17,Fright or Flight: Armory 17 Orbs
+ID_OF_NA_FRIGHTORFLIGHT_HC_T2L4,Fright or Flight: T2 Level 4 Ions
+ID_OF_NA_FRIGHTORFLIGHT_HC_TIGRA,Fright or Flight: Tigra
+ID_OF_NA_FRIGHTORFLIGHT_HC_IRONMANIW,Fright or Flight: Iron Man (Infinity War)
+ID_OF_NA_FRIGHTORFLIGHT_HC_DARKHAWK,Fright or Flight: Darkhawk
+ID_OF_DE_FRIGHTORFLIGHT_MEGASTARTER,Get ahead in the <color=#fff568>Fright or Flight Milestone</color> and blast through for Elite 7 Credits and Gear Tier 17 Mini-Uniques!
+ID_OF_DE_FRIGHTORFLIGHT_STARTER,Get a head start in the <color=#fff568>Fright or Flight Milestone</color> and speed through for Elite 7 Credits and Gear Tier 17 Mini-Uniques!
+ID_OF_DE_FRIGHTORFLIGHT_CATCHUP,Finish strong in the <color=#fff568>Fright or Flight Milestone</color> and get your hands on Teal Tech gear and Elite 7 Credits!
+ID_OF_DE_FRIGHTORFLIGHT_MEGA,Complete the <color=#fff568>Fright or Flight Milestone</color> for Teal Tech gear and Elite 7 Credits!
+ID_OF_DE_FRIGHTORFLIGHT_DAILY_ORB,"Get bonus Celestial Talon Orbs for Darkhawk shards and <color=#fff568>Fright or Flight Milestone</color> progress! "
+ID_OF_DE_FRIGHTORFLIGHT_DAILY_BLITZ,Blitz through the <color=#fff568>Fright or Flight Milestone</color>!
+ID_OF_DE_FRIGHTORFLIGHT_DAILY_POINTS,Make boosted progress in the <color=#fff568>Fright or Flight Milestone</color> and get Elite 7 Credits and Gear Tier 18 Tech Mini-Uniques!
+ID_OF_DE_FRIGHTORFLIGHT_DAILY_INTERSTITIAL,Stock up on Celestial Talon Orbs and Event Points for extra progress in the <color=#fff568>Fright or Flight Milestone</color>!
+ID_OF_DE_FRIGHTORFLIGHTFREE_CLAIM,Come back daily for more <color=#fff568>Fright or Flight</color> progress!
+ID_OF_DE_FRIGHTORFLIGHT_HC_ALLIANCECREDITS,Skip through the <color=#fff568>Shi'ar Shriek Web Milestone</color> and get additional Celestial Talon Orbs for the <color=#fff568>Fright or Flight Milestone</color>!
+ID_OF_DE_FRIGHTORFLIGHT_HC_GPC,Spend Power Cores for progress in the <color=#fff568>Fright or Flight Milestone</color> and get Gold Promotion Credits!
+ID_OF_DE_FRIGHTORFLIGHT_HC_GT18,Spend Power Cores for progress in the <color=#fff568>Fright or Flight Milestone</color> and get Armory 18 Orbs!
+ID_OF_DE_FRIGHTORFLIGHT_HC_GT16,Spend Power Cores for progress in the <color=#fff568>Fright or Flight Milestone</color> and get Armory 16 Orbs!
+ID_OF_DE_FRIGHTORFLIGHT_HC_GT17,Spend Power Cores for progress in the <color=#fff568>Fright or Flight Milestone</color> and get Armory 17 Orbs!
+ID_OF_DE_FRIGHTORFLIGHT_HC_T2L4,Spend Power Cores for progress in the <color=#fff568>Fright or Flight Milestone</color> and get T2 Level 4 Ions!
+ID_OF_DE_FRIGHTORFLIGHT_HC_TIGRA,Spend Power Cores for progress in the <color=#fff568>Fright or Flight Milestone</color> and get Tigra shards!
+ID_OF_DE_FRIGHTORFLIGHT_HC_IRONMANIW,Spend Power Cores for progress in the <color=#fff568>Fright or Flight Milestone</color> and get Iron Man (Infinity War) shards!
+ID_OF_DE_FRIGHTORFLIGHT_HC_DARKHAWK,Spend Power Cores for progress in the <color=#fff568>Fright or Flight Milestone</color> and get Darkhawk shards!
 ID_OF_NA_NU_ENERGY,S.T.R.I.K.E. Surplus: Energy
 ID_OF_DE_NU_ENERGY,"Crush more Campaigns and earn Character Shards, Gear, and more to grow the power of your roster!\n*This <color=#fff568>Campaign Energy</color> ignores resource capacity"
 ID_OF_NA_HISTORIC_DEAL_YELLOWJACKET,Historic Deal: Yellowjacket
 ID_OF_DE_HISTORIC_DEAL_YELLOWJACKET,Power up this Deadly Drone with these Tech <color=#fff568>Gear Tier 16 and 17 Mini-Uniques</color>! The original Yellowjacket made his first appearance this week in 1963's <color=#fff568>AVENGERS #59</color>.
+ID_OF_NA_PEGASUS_SHOWCASE_FINALE_MEGA,P.E.G.A.S.U.S. Mega Pack
+ID_OF_NA_PEGASUS_SHOWCASE_FINALE_DIFF,Project P.E.G.A.S.U.S.: Legendary and Bonus
+ID_OF_NA_PEGASUS_SHOWCASE_FINALE_FULL,Project P.E.G.A.S.U.S.: Full Completion
+ID_OF_NA_PEGASUS_SHOWCASE_FINALE_POWER,Project P.E.G.A.S.U.S.: Power Up
+ID_OF_NA_PEGASUS_SHOWCASE_FINALE_TOPUP,Project P.E.G.A.S.U.S.: Top Up
+ID_OF_DE_PEGASUS_SHOWCASE_FINALE_POWER,"Power up your <color=#fff568>P.E.G.A.S.U.S.</color> team to access the P.E.G.A.S.U.S. Epic Event's Legendary and Bonus Difficulties! From there, earn <color=#fff568>220 Gear Tier 18 Mini-Uniques and more</color>!"
+ID_OF_DE_PEGASUS_SHOWCASE_FINALE_RANK,"Rank up your <color=#fff568>P.E.G.A.S.U.S.</color> team to access the P.E.G.A.S.U.S. Epic Event's Legendary and Bonus Difficulties! From there, earn <color=#fff568>220 Gear Tier 18 Mini-Uniques and more</color>!"
+ID_OF_DE_PEGASUS_SHOWCASE_FINALE_GEAR,"Gear up your <color=#fff568>P.E.G.A.S.U.S.</color> team to access the P.E.G.A.S.U.S. Epic Event's Legendary and Bonus Difficulties! From there, earn <color=#fff568>220 Gear Tier 18 Mini-Uniques and more</color>!"
+ID_OF_DE_PEGASUS_SHOWCASE_FINALE_GT15,Take your <color=#fff568>P.E.G.A.S.U.S.</color> team to Gear Tier 15 to access the P.E.G.A.S.U.S. Epic Event's Legendary and Bonus Difficulties! Earn <color=#fff568>220 Gear Tier 18 Mini-Uniques and more</color>!
+ID_OF_DE_PEGASUS_SHOWCASE_FINALE_6YS,"Take your <color=#fff568>P.E.G.A.S.U.S.</color> team to 6 Yellow Stars to access the P.E.G.A.S.U.S. Epic Event's Bonus Difficulty! From there, earn <color=#fff568>220 Gear Tier 18 Mini-Uniques, 2M T2 Level 5 Ions</color> and more!"
