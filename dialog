@@ -6563,6 +6563,47 @@ ID_DIALOG_ECM_KAMALA_09_END_0,"That was close. "
 ID_DIALOG_ECM_KAMALA_09_END_1,We should keep better tabs on each other. There could be others who want our powers.
 ID_DIALOG_ECM_KAMALA_09_END_2,"Are you adding me as a friend?! "
 ID_DIALOG_ECM_KAMALA_09_END_3,Sure.
+ID_DIALOG_ECM_JUGZ_01_INTRO_0,ON THE REMNANTS OF A WORLD DESTROYED DURING AN INCURSION...
+ID_DIALOG_ECM_JUGZ_01_INTRO_1,Stay away from me!
+ID_DIALOG_ECM_JUGZ_01_INTRO_2,I've come to deliver you from this wasteland and welcome you to my glorious undead army.
+ID_DIALOG_ECM_JUGZ_01_INTRO_3,"Lady, I survived the world endin'. You think you're gonna take me down?"
+ID_DIALOG_ECM_JUGZ_01_INTRO_4,Me? <b>I</b> don't have to do a thing.
+ID_DIALOG_ECM_JUGZ_01_INTRO_5,Food...
+ID_DIALOG_ECM_JUGZ_01_INTRO_6,Get away from me! AAARGH!
+ID_DIALOG_ECM_JUGZ_01_INTRO_7,Need... BRAINS!
+ID_DIALOG_ECM_JUGZ_01_INTRO_8,"Welcome to the team. Now, let's get you a suitable meal."
+ID_DIALOG_ECM_JUGZ_01_START_0,Juggernaut! 'Bout time you got back.
+ID_DIALOG_ECM_JUGZ_01_START_1,*SNIFF* That ain't him. Not anymore. Somebody better start talkin'.
+ID_DIALOG_ECM_JUGZ_01_START_2,BRAINNSS!!
+ID_DIALOG_ECM_JUGZ_01_END_0,"Yes, I think you'll do quite nicely - a hidden gem, as it were."
+ID_DIALOG_ECM_JUGZ_01_END_1,So... Hungry...
+ID_DIALOG_ECM_JUGZ_01_END_2,"Oh, fine. Another snack, then? Some will say I'm spoiling you rotten."
+ID_DIALOG_ECM_JUGZ_02_INTRO_0,Hela. You've overstepped your bounds.
+ID_DIALOG_ECM_JUGZ_02_INTRO_1,Doom has plans for this dimension. Your trail of destruction will impede them no longer.
+ID_DIALOG_ECM_JUGZ_02_INTRO_2,Those monstrosities are coming with me.
+ID_DIALOG_ECM_JUGZ_02_INTRO_3,You speak as though you already won.
+ID_DIALOG_ECM_JUGZ_02_INTRO_4,None can withstand the might of Doom.
+ID_DIALOG_ECM_JUGZ_02_MID_0,"Struggle all you like. If I cannot take them, I'll trap you all here."
+ID_DIALOG_ECM_JUGZ_02_END_0,He thought he could stand against the goddess of death?
+ID_DIALOG_ECM_JUGZ_02_END_1,The arrogance of humans with even a sliver of power is staggering.
+ID_DIALOG_ECM_JUGZ_02_END_2,F... ollow...?
+ID_DIALOG_ECM_JUGZ_02_END_3,No. Let this sad king rule over nothing. We'll return to the Nexus.
+ID_DIALOG_ECM_JUGZ_03_INTRO_0,Doom's drones... searching...
+ID_DIALOG_ECM_JUGZ_03_INTRO_1,Then we must find a place where they can't follow our escape.
+ID_DIALOG_ECM_JUGZ_03_INTRO_2,There...
+ID_DIALOG_ECM_JUGZ_03_INTRO_3,That location is sufficient.
+ID_DIALOG_ECM_JUGZ_03_INTRO_4,Make haste before...
+ID_DIALOG_ECM_JUGZ_03_INTRO_5,Subjects located!
+ID_DIALOG_ECM_JUGZ_03_MID_0,Too late.
+ID_DIALOG_ECM_JUGZ_03_MID_1,More... drones... coming
+ID_DIALOG_ECM_JUGZ_03_END_0,Enough of this! Our window of success shrinks with every passing moment!
+ID_DIALOG_ECM_JUGZ_03_END_1,We are free of that desolate rock.
+ID_DIALOG_ECM_JUGZ_03_END_2,And Doom is none the wiser.
+ID_DIALOG_ECM_JUGZ_03_END_3,Where... now?
+ID_DIALOG_ECM_JUGZ_03_END_4,Somewhere we can really let loose and play.
+ID_DIALOG_ECM_JUGZ_03_END_5,PLANETSIDE...
+ID_DIALOG_ECM_JUGZ_03_END_6,B-Buh...
+ID_DIALOG_ECM_JUGZ_03_END_7,BRAINNSS!!
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
