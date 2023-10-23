@@ -22,7 +22,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 9:00 AM (PDT) (10/11).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 9:00 AM (PDT) (10/25).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -2371,6 +2371,16 @@ ID_MOTD_DE_ABYSSALASSAULT_ENDING,Get Iso-8 Ions and Night of the Were-Tigress pr
 ID_MOTD_NA_SHIARSHRIEK_ANNOUNCE,Web Milestone: Shi'ar Shriek
 ID_MOTD_DE_SHIARSHRIEK_ANNOUNCE,Link your account to earn more rewards on web!
 ID_MOTD_NA_FRIGHTORFLIGHT_ANNOUNCE,LIVE: Fright or Flight
-ID_MOTD_DE_FRIGHTORFLIGHT_ANNOUNCE,"Get Darkhawk Shards and Teal Tech gear now! "
+ID_MOTD_DE_FRIGHTORFLIGHT_ANNOUNCE,Get Darkhawk Shards and Teal Tech gear now!
 ID_MOTD_NA_FRIGHTORFLIGHT_ENDING,Ending Soon: Fright or Flight
-ID_MOTD_DE_FRIGHTORFLIGHT_ENDING,"Get Darkhawk Shards and Teal Tech gear now! "
+ID_MOTD_DE_FRIGHTORFLIGHT_ENDING,Get Darkhawk Shards and Teal Tech gear now!
+ID_MOTD_NA_SKELETONSTANDOFF_TEASER,Coming Soon: Skeleton Standoff
+ID_MOTD_DE_SKELETONSTANDOFF_TEASER,Earn Training Modules and Night of the Were-Tigress Progress!
+ID_MOTD_NA_SKELETONSTANDOFF_ANNOUNCE,LIVE: Skeleton Standoff
+ID_MOTD_DE_SKELETONSTANDOFF_ANNOUNCE,Earn Training Modules and Night of the Were-Tigress Progress!
+ID_MOTD_NA_UNKILLABLEFORCE_ANNOUNCE,LIVE: Unkillable Force
+ID_MOTD_DE_UNKILLABLEFORCE_ANNOUNCE,"Get Juggernaut (Zombie) Shards and Teal Bio gear now! "
+ID_MOTD_NA_UNKILLABLEFORCE_ENDING,Ending Soon: Unkillable Force
+ID_MOTD_DE_UNKILLABLEFORCE_ENDING,"Get Juggernaut (Zombie) Shards and Teal Bio gear now! "
+ID_MOTD_NA_IMMOVABLEDEAD_ANNOUNCE,Web Milestone: Immovable Dead
+ID_MOTD_DE_IMMOVABLEDEAD_ANNOUNCE,Link your account to earn more rewards on web!

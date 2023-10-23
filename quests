@@ -3528,3 +3528,33 @@ ID_QU_NA_SHIARSHRIEK,Shi'ar Shriek
 ID_QU_SD_SHIARSHRIEK,Earn Alliance Credits
 ID_QU_LD_SHIARSHRIEK,Earn Alliance Credits to complete this daily milestone that rewards Fright or Flight progress!
 ID_QU_S1_SHIARSHRIEK,Earn 1 Alliance Credit
+ID_QU_NA_SKELETONSTANDOFF,Skeleton Standoff
+ID_QU_SD_SKELETONSTANDOFF,Decimate your Cosmic Crucible foes!
+ID_QU_LD_SKELETONSTANDOFF,"Skeleton Standoff Milestone\nGain progress in this 4-day event by winning Cosmic Crucible battles with increased progress for using New Warriors at higher Gear Tiers and earning Allied Supply II Orb fragments from Alliance Donations and daily Free Claims. Earn incredible rewards including L4 Training Modules, Elite Credits, and T2 Level 5 Ion Orbs. You'll also earn points towards the month-long Night of the Were-Tigress milestone by collecting Cat's Head Amulets."
+ID_QU_S1_SKELETONSTANDOFF,Earn 1 Allied Supply II Orb Fragment
+ID_QU_S2_SKELETONSTANDOFF,Win 1 Cosmic Crucible Battle
+ID_QU_S3_SKELETONSTANDOFF,Win 1 Cosmic Crucible Battle w/ New Warrior Characters
+ID_QU_S4_SKELETONSTANDOFF,Win 1 Cosmic Crucible Battle w/ New Warrior Characters at Gear Tier 16+
+ID_QU_S5_SKELETONSTANDOFF,Win 1 Cosmic Crucible Battle w/ New Warrior Characters at Gear Tier 17+
+ID_QU_S6_SKELETONSTANDOFF,Win 1 Cosmic Crucible Battle w/ New Warrior Characters at Gear Tier 18
+ID_QU_NA_UNKILLABLEFORCE,Unkillable Force
+ID_QU_SD_UNKILLABLEFORCE,Earn Crimson Tombstones and Battle in War
+ID_QU_LD_UNKILLABLEFORCE,"Unkillable Force Milestone\nGain progress in this 7-day event by earning Crimson Tombstones from the first time rewards of the Heroic Difficulty of Unstoppable Undead, daily Free Claims, and from Viral Orbs found in the Hard Difficulty of Unstoppable Undead. Also earn progress from battling in Alliance War with additional points for using Undying characters at higher Star Unlock levels and completing the Immovable Dead Daily Web Milestone. Earn incredible rewards including Juggernaut (Zombie) shards, Elite 7 Credits, and Teal Bio gear. Compete in the leaderboard for a 7 Red Star Juggernaut (Zombie), Gear Tier 18 Bio Mini-Uniques, and T2 Level 5 Ions. You'll also earn points towards the month-long Night of the Were-Tigress milestone by collecting Cat's Head Amulets and the Cat Suit.\n\nDaily Immovable Dead Web Milestone\nSpend Power Cores to get Crimson Tombstones for additional progress in the Unkillable Force Milestone. Keep an eye out for Free Claims containing Milestone Points every day!"
+ID_QU_S1_UNKILLABLEFORCE,Earn 1 Crimson Tombstone
+ID_QU_S2_UNKILLABLEFORCE,Win or Lose 1 War Battle
+ID_QU_S3_UNKILLABLEFORCE,Win or Lose 1 War Battle w/ Juggernaut (Zombie)
+ID_QU_S4_UNKILLABLEFORCE,Win or Lose 1 War Battle w/ Juggernaut (Zombie) at 5 Yellow Stars
+ID_QU_S5_UNKILLABLEFORCE,Win or Lose 1 War Battle w/ Juggernaut (Zombie) at 6 Yellow Stars
+ID_QU_S6_UNKILLABLEFORCE,Win or Lose 1 War Battle w/ Juggernaut (Zombie) at 7 Yellow Stars
+ID_QU_S7_UNKILLABLEFORCE,Win or Lose 1 War Battle w/ Iron Man (Zombie)
+ID_QU_S8_UNKILLABLEFORCE,Win or Lose 1 War Battle w/ Iron Man (Zombie) at 5 Yellow Stars
+ID_QU_S9_UNKILLABLEFORCE,Win or Lose 1 War Battle w/ Iron Man (Zombie) at 6 Yellow Stars
+ID_QU_S10_UNKILLABLEFORCE,Win or Lose 1 War Battle w/ Iron Man (Zombie) at 7 Yellow Stars
+ID_QU_S11_UNKILLABLEFORCE,Win or Lose 1 War Battle w/ Hela
+ID_QU_S12_UNKILLABLEFORCE,Win or Lose 1 War Battle w/ Hela at 5 Yellow Stars
+ID_QU_S13_UNKILLABLEFORCE,Win or Lose 1 War Battle w/ Hela at 6 Yellow Stars
+ID_QU_S14_UNKILLABLEFORCE,Win or Lose 1 War Battle w/ Hela at 7 Yellow Stars
+ID_QU_NA_IMMOVABLEDEAD,Immovable Dead
+ID_QU_SD_IMMOVABLEDEAD,Spend Power Cores
+ID_QU_LD_IMMOVABLEDEAD,Earn Alliance Credits to complete this daily milestone that rewards Unkillable Force progress!
+ID_QU_S1_IMMOVABLEDEAD,Spend 1 Power Core

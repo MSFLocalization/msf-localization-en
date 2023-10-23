@@ -670,7 +670,7 @@ ID_SUGGESTED_LEVEL_72,FOR <color=#fff568>LEVEL 72+</color>
 ID_SUGGESTED_LEVEL_73,FOR <color=#fff568>LEVEL 73+</color>
 ID_SUGGESTED_LEVEL_74,FOR <color=#fff568>LEVEL 74+</color>
 ID_SUGGESTED_LEVEL_75,FOR <color=#fff568>LEVEL 75+</color>
-ID_MAINTENANCE_TOASTER_SCHEDULED,We will undergo maintenance starting at 9:00 AM (PDT) (10/11).
+ID_MAINTENANCE_TOASTER_SCHEDULED,We will undergo maintenance starting at 9:00 AM (PDT) (10/25).
 ID_MAINTENANCE_TOASTER_EMERGENCY,We will be undergoing emergency maintenance shortly.
 ID_MAINTENANCE_TOASTER_EVENT01,We will be undergoing maintenance shortly.
 ID_MAINTENANCE_TOASTER_EVENT02,Update available. Get the latest app version now.
@@ -871,6 +871,7 @@ ID_REQUIRES_TRAITS_HAND_KREE_RAV,"REQUIRES: <color=#fff568>HAND</color>, <color=
 ID_REQUIRES_TRAITS_PYM_KREE,REQUIRES: <color=#fff568>KREE</color> or <color=#fff568>PYM TECH</color>
 ID_REQUIRES_TRAITS_PYM_WAK,REQUIRES: <color=#fff568>PYM TECH</color> or <color=#fff568>WAKANDAN</color>
 ID_REQUIRES_TRAITS_PYM_KREE_WAK,"REQUIRES: <color=#fff568>KREE</color>, <color=#fff568>PYM TECH</color>, or <color=#fff568>WAKANDAN</color>"
+ID_REQUIRES_TRAITS_PYM_KREE_WAK_INF,"REQUIRES: <color=#fff568>KREE</color>, <color=#fff568>PYM TECH</color>, <color=#fff568>WAKANDAN</color> or <color=#fff568>INFESTATION</color>"
 ID_REQUIRES_TRAITS_PYM_KREE_INF,"REQUIRES: <color=#fff568>KREE</color>, <color=#fff568>PYM TECH</color>, or <color=#fff568>INFESTATION</color>"
 ID_REQUIRES_TRAITS_PYM_WAK_INF,"REQUIRES: <color=#fff568>PYM TECH</color>, <color=#fff568>WAKANDAN</color>, or <color=#fff568>INFESTATION</color>"
 ID_REQUIRES_TRAITS_DEF_MERC,REQUIRES: <color=#fff568>DEFENDER</color> or <color=#fff568>MERCENARY</color>
