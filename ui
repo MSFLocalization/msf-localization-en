@@ -1371,6 +1371,10 @@ ID_FRAME_MYSTICARTS_NAME,Mystic Arts
 ID_FRAME_MYSTICARTS_UNLOCK,Via the Secret Sorcery Event
 ID_FRAME_OCTTIGRA_NAME,Jungle Cat
 ID_FRAME_OCTTIGRA_UNLOCK,Via the Night of the Were-Tigress Event
+ID_FRAME_HALLOWEEN2023_NAME,Corny Candy
+ID_FRAME_HALLOWEEN2023_UNLOCK,Via the Unstoppable Undead Event
+ID_FRAME_DAYOFTHEDEAD_NAME,Muertos
+ID_FRAME_DAYOFTHEDEAD_UNLOCK,Via the Unstoppable Undead Event
 ID_WAR_ATTEMPTBONUS_TITLE,ATTEMPT BONUS
 ID_WAR_ATTEMPTBONUS_VALUE,<b><size=55><color=#fff798>{score}</color></size></b> of {max} PTS
 ID_WAR_ATTEMPTBONUS_VALUE_SMALL,<b><size=35><color=#f7951d>+{score}</color></size></b> PTS
