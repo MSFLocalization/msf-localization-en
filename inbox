@@ -7493,7 +7493,7 @@ ID_ME_NA_GENERIC_UPDATE_TEASER,Update Coming Soon
 ID_ME_DE_GENERIC_UPDATE_TEASER,Prepare yourself
 ID_ME_BO_GENERIC_UPDATE_TEASER,"Commander,\n\nA new MARVEL Strike Force update is coming soon, including:\n\n- New Content\n- Improvements\n- And more...\n\nKeep an eye out for a message alerting when the game will undergo maintenance. During the downtime, you can stay posted on the update on our website."
 ID_ME_NA_HW23_POLL_LIVE,"Social Poll: Trick or Treat! "
-ID_ME_DE_HW23_POLL_LIVE,Zombie Iron Man vs Vahl Social Poll
+ID_ME_DE_HW23_POLL_LIVE,Iron Man (Zombie) vs Vahl Social Poll
 ID_ME_BO_HW23_POLL_LIVE,"Choose between Iron Man (Zombie) and Vahl on our official Facebook Trick or Treat poll! When the poll ends, check your inbox for character shards of the winner and more seasonal rewards just in time for the arrival of Juggernaut (Zombie)."
 ID_ME_NA_HW23_POLL_LASTCHANCE,Last Chance: Trick or Treat!
 ID_ME_DE_HW23_POLL_LASTCHANCE,Your last day to vote for player rewards!
@@ -7525,3 +7525,9 @@ ID_ME_BO_ZOMBIEJUGGERNAUT_ELITE_STORE,"Commander,\n\nDirect Red Star promotions 
 ID_ME_NA_NEXUS_HARD_0506,New Hard Campaign Chapters
 ID_ME_DE_NEXUS_HARD_0506,The Nexus: Chapters 5 & 6
 ID_ME_BO_NEXUS_HARD_0506,"Commander,\n\nIntroducing The Nexus <color=#fff568>Difficulty: Hard - Chapters 5 & 6</color>!\n\nPlayers <color=#fff568>Level 80+</color> can attempt these new Hard Missions, which reward <color=#fff568>Gear Tier 17 Mini-Uniques</color> and the following character shards:\n\n- Thor (Infinity War)\n- Loki (Teen)\n\nStart earning rewards today, Commander!"
+ID_ME_NA_HW23_POLLWINNER_ZIM,Trick or Treat Social Poll Winner
+ID_ME_DE_HW23_POLLWINNER_ZIM,The community has spoken!
+ID_ME_BO_HW23_POLLWINNER_ZIM,"Commander,\n\nThe Trick or Treat Social Poll on the <color=#fff568>MARVEL Strike Force Facebook</color> page has concluded, and the winner is...\n\n<color=#fff568>Iron Man (Zombie)</color>\n\nClaim your Iron Man (Zombie) shards below and bolster your Undying team by recruiting Juggernaut (Zombie) from the <color=#fff568>Unstoppable Undead event</color>!"
+ID_ME_NA_HW23_POLLWINNER_VAHL,Trick or Treat Social Poll Winner
+ID_ME_DE_HW23_POLLWINNER_VAHL,The community has spoken!
+ID_ME_BO_HW23_POLLWINNER_VAHL,"Commander,\n\nThe Trick or Treat Social Poll on the <color=#fff568>MARVEL Strike Force Facebook</color> page has concluded, and the winner is...\n\n<color=#fff568>Vahl</color>\n\nClaim your Vahl shards below and continue celebrating spooky season by recruiting Juggernaut (Zombie) from the <color=#fff568>Unstoppable Undead event</color>!"
