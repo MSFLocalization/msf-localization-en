@@ -4574,7 +4574,15 @@ ID_OF_DE_ZOMBIEJUGGERNAUT_GENERIC,Become an unstoppable force in War and benefit
 ID_OF_NA_ZOMBIEJUGGERNAUT_FCO_OFFER,I'm the Zombienaut!
 ID_OF_NA_ZOMBIEJUGGERNAUT_FCO_SHARDS,Immovable Monster
 ID_OF_NA_ZOMBIEJUGGERNAUT_FCO_LASTCHANCE,Last Chance!
-ID_OF_DE_ZOMBIEJUGGERNAUT_OFFER_UNLOCK,Recruit <color=#fff568>Juggernaut (Zombie)</color> with this offer! Each Viral Orb has a chance to earn up to 100 Juggernaut (Zombie) shards. Eat up attacks with <color=#fff568>Taunt</color> and spread <color=#fff568>Bleed</color> across enemy teams with this monster Undying Protector!
+ID_OF_DE_ZOMBIEJUGGERNAUT_OFFER_UNLOCK,Recruit <color=#fff568>Juggernaut (Zombie)</color> with this offer! Each Viral Orb has a chance to earn up to 30 Juggernaut (Zombie) shards. Eat up attacks with <color=#fff568>Taunt</color> and spread <color=#fff568>Bleed</color> across enemy teams with this monster Undying Protector!
 ID_OF_DE_ZOMBIEJUGGERNAUT_OFFER_SHARD,Get <color=#fff568>Juggernaut (Zombie)</color> shards and feast on the opposition! Drag War enemies six feet under with an <color=#fff568>on-Spawn Taunt</color> abilities that grow deadlier with <color=#fff568>Charged</color>.
 ID_OF_DE_ZOMBIEJUGGERNAUT_FCO_OFFER,Save on <color=#fff568>Juggernaut (Zombie) shards</color> with this offer! Take a bite out of top War teams with this monster Protector who chews through enemy attacks and spreads <color=#fff568>Bleed</color>!
 ID_OF_DE_ZOMBIEJUGGERNAUT_FCO_LASTCHANCE,"Take advantage of this <color=#fff568>Halloween Exclusive</color> before Juggernaut (Zombie) disappears into the vault, and is no longer available for recruitment!"
+ID_OF_NA_CYBERSALE_2023_GT16_GT17_ORBS,Cyber Sneak Peek: Orbital Gear
+ID_OF_DE_CYBERSALE_2023_GT16_GT17_ORBS,Don't miss this opportunity to suit up to Gear Tier 16 and 17. Each week leading to Cyber Monday will have a sneak peek at the best deals this year!
+ID_OF_NA_CYBERSALE_2023_TEAL_STAT_CATS,Cyber Sneak Peek: Catalyst Drop
+ID_OF_DE_CYBERSALE_2023_TEAL_STAT_CATS,Pick up this high value drop of Augmented Catalysts to craft powerful gear! Check back each week leading to Cyber Monday for a new sneak peek!
+ID_OF_NA_BLACKFRIDAY_2023_MASTERS,Black Friday Peek: Masters!
+ID_OF_DE_BLACKFRIDAY_2023_MASTERS,"Empower Kang the Conqueror, Moonstone, Titania, and Absorbing Man with shards and a chance to promote one of them to 6 Red Stars!"
+ID_OF_NA_BLACKFRIDAY_2023_INVADERS,Black Friday Peek: Invasion!
+ID_OF_DE_BLACKFRIDAY_2023_INVADERS,"Rank up Captain America (WWII), Iron Fist (WWII), Bucky Barnes, and Union Jack with shards and a chance to promote one of them to 6 Red Stars!"
