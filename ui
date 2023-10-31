@@ -1386,3 +1386,7 @@ ID_BOOKMARKS_INVALID_ITEM,INVALID ITEM
 ID_BOOKMARKS_NO_BOOKMARKS,No bookmarks added
 ID_REDEEM_GIFT,REDEEM GIFT
 ID_LOGIN_TO_REDEEM_GIFT,"To claim your NEW PLAYER GIFT, you need a Scopely account"
+ID_ANDROID14_CHECK_TITLE,Notice
+ID_ANDROID14_CHECK_DESC,"Pixel owners running Android 14 may experience crashing, which might be helped by manually clearing your cache."
+ID_ANDROID14_CHECK_MOREINFO,More Information
+ID_ANDROID14_CHECK_IGNORE,Ignore
