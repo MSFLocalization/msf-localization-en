@@ -46,13 +46,13 @@ ID_AVE_KEY_EVENT04_NAME,Gambit Raid Key
 ID_AVE_KEY_EVENT04_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_RES_CAMPAIGN_ENERGY_EVENT01,Infectious Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT02,Potential Energy
-ID_RES_CAMPAIGN_ENERGY_EVENT03,Across Infinity Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT03,The Last Hunt Energy
 ID_CAMPAIGN_ENERGY_EVENT01_NAME,Infectious Energy
 ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch Unstoppable Undead missions.
 ID_CAMPAIGN_ENERGY_EVENT02_NAME,Potential Energy
 ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch Project P.E.G.A.S.U.S. missions.
-ID_CAMPAIGN_ENERGY_EVENT03_NAME,Across Infinity Energy
-ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Across Infinity missions.
+ID_CAMPAIGN_ENERGY_EVENT03_NAME,The Last Hunt Energy
+ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch The Last Hunt missions.
 ID_HC_NAME,Power Cores
 ID_HC_DESCRIPTION,"Use Power Cores to purchase Orbs, Energy Refills, Health Packs, Supplies, and Blitz Charges."
 ID_AVA-CUR_NAME,War Credits
@@ -85,6 +85,8 @@ ID_ENERGY-CAMPAIGN-CUR_NAME,Campaign Energy Refill
 ID_ENERGY-CAMPAIGN-CUR_DESCRIPTION,"Campaign Energy Refill is used to refresh your Campaign Energy. If you do not have enough Campaign Energy Refills, you can use Power Cores to recharge your Campaign Energy."
 ID_ENERGY-CAMPAIGN-ISO8-CUR_NAME,Iso-8 Campaign Energy Refill
 ID_ENERGY-CAMPAIGN-ISO8-CUR_DESCRIPTION,"Iso-8 Campaign Energy Refill is used to refresh your Iso-8 Campaign Energy. If you do not have enough Iso-8 Campaign Energy Refills, you can use Power Cores to recharge your Iso-8 Campaign Energy."
+ID_ENERGY-CAMPAIGN-ELDER-CUR_NAME,Incursion Energy Refill
+ID_ENERGY-CAMPAIGN-ELDER-CUR_DESCRIPTION,"Incursion Energy Refill is used to refresh your Incursion Energy. If you do not have enough Incursion Energy Refills, you can use Power Cores to recharge your Incursion Energy."
 ID_ENERGY-WAR-CUR_NAME,War Energy Refill
 ID_ENERGY-WAR-CUR_DESCRIPTION,"War Energy Refill is used to refresh your War Energy. If you do not have enough War Energy Refills, you can use Power Cores to recharge your War Energy."
 ID_ENERGY-RAID-CUR_NAME,Raid Energy Refill
@@ -148,6 +150,12 @@ ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLACKCAT_ULTIMATE_NAME,Black Cat's Ultima
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLACKCAT_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLACKCAT_PASSIVE_NAME,Black Cat's Passive Awakened Ability Material
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLACKCAT_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_GREENGOBLINGLIDER_BASIC_NAME,Green Goblin (Classic)'s Basic Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_GREENGOBLINGLIDER_BASIC_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_GREENGOBLINGLIDER_ULTIMATE_NAME,Green Goblin (Classic)'s Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_GREENGOBLINGLIDER_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_GREENGOBLINGLIDER_PASSIVE_NAME,Green Goblin (Classic)'s Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_GREENGOBLINGLIDER_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
 ID_HELIMAT_ARMORY_NAME,Stark Tech Helicarrier Component
 ID_HELIMAT_ARMORY_DESCRIPTION,Used to upgrade the Stark Tech in the Helicarrier.
 ID_HELIMAT_BARRACKS_NAME,Barracks Helicarrier Component
@@ -177,7 +185,7 @@ ID_AVE_KEY_DEADPOOL_DESCRIPTION,Collect Chimichangas to launch Deadpool Raids an
 ID_AVE_KEY_GENERIC_DESCRIPTION,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_OPERATION_ATTACK_ENERGY_NAME,Campaign Energy Refill
 ID_OPERATION_ATTACK_ENERGY_DESCRIPTION,Campaign Energy Refill is used to refresh your Campaign Energy.
-ID_SHARD-CONVERSION-CUR_NAME,ULTRA CREDITS
+ID_SHARD-CONVERSION-CUR_NAME,Ultra Credit
 ID_SHARD-CONVERSION-CUR_DESCRIPTION,"When you receive shards of a character who is at 7 stars, they convert to <color=#ffffff><i>ULTRA CREDITS</i></color>. Use <color=#ffffff><i>ULTRA CREDITS</i></color> Ultimus Orbs or Gear."
 ID_AVE_ATTACK_ENERGY,Raid Energy
 ID_AVE_ATTACK_ENERGY_NAME,Raid Energy
@@ -238,6 +246,10 @@ ID_PROMOTION_CUR_ADV_NAME,Gold Promotion Credit
 ID_PROMOTION_CUR_ADV_DESCRIPTION,Used to promote specific characters (to 6 and 7 Red Stars).\n\nBuy Red Star Promotions from the Supplies Store.
 ID_PROMOTION_CUR_ULT_NAME,Dark Promotion Credit
 ID_PROMOTION_CUR_ULT_DESCRIPTION,Used to promote characters whose red stars may be unavailable in other ways.\n\nBuy Red Star Promotions from the Supplies Store.
+ID_DIAMOND_PROMOTION_CUR_NAME,Silver Diamond Credit
+ID_DIAMOND_PROMOTION_CUR_DESCRIPTION,Used to promote specific characters (up to 3 Diamonds).\n\nBuy Diamond Promotions from the Supplies Store.
+ID_DIAMOND_PROMOTION_CUR_ULT_NAME,Dark Diamond Credit
+ID_DIAMOND_PROMOTION_CUR_ULT_DESCRIPTION,Used to promote characters whose Diamonds may be unavailable in other ways.\n\nBuy Diamond Promotions from the Supplies Store.
 ID_BATTLEPASS_5_1_GENERAL_CUR_NAME,S.T.R.I.K.E. Tokens
 ID_BATTLEPASS_5_1_GENERAL_CUR_DESC,Earn S.T.R.I.K.E. Tokens by completing Daily Objectives. S.T.R.I.K.E. Tokens earn progress towards a S.T.R.I.K.E. Pass.
 ID_RESOURCE_CONVERSION_TITLE,CONVERT EXPIRED BITS
@@ -390,3 +402,19 @@ ID_EVTA_META_OCT_F_NAME,Fanged Anklet
 ID_EVTA_META_OCT_F_DESCRIPTION,Collect the Fanged Anklet for points in the Night of the Were-Tigress Event. Earn it in the Fight or Flight Event!
 ID_EVTA_META_OCT_G_NAME,Cat Suit
 ID_EVTA_META_OCT_G_DESCRIPTION,Collect the Cat Suit for points in the Night of the Were-Tigress Event. Earn it in the Unkillable Force Event!
+ID_EVTA_META_NOV_A_NAME,Vibranium Slab
+ID_EVTA_META_NOV_A_DESCRIPTION,Collect Vibranium Slabs for points in the Reverse-Engineer Event. Earn them in various events throughout the month of November
+ID_EVTA_META_NOV_B_NAME,Stark Grant Check
+ID_EVTA_META_NOV_B_DESCRIPTION,Collect the Stark Grant Check for points in the Reverse-Engineer Event. Earn it in the Patent Pending Event!
+ID_EVTA_META_NOV_C_NAME,Wireframe Blueprint
+ID_EVTA_META_NOV_C_DESCRIPTION,Collect the Wireframe Blueprint for points in the Reverse-Engineer Event. Earn it in the Back to Formula Event!
+ID_EVTA_META_NOV_D_NAME,Jet Engine Parts
+ID_EVTA_META_NOV_D_DESCRIPTION,Collect the Jet Engine Parts for points in the Reverse-Engineer Event. Earn them in the Animal Armature Event!
+ID_EVTA_META_NOV_E_NAME,Arc Reactor MKII
+ID_EVTA_META_NOV_E_DESCRIPTION,Collect Arc Reactor MKII for points in the Reverse-Engineer Event. Earn it in the Stark Grant Event!
+ID_EVTA_META_NOV_F_NAME,Indestructible Paint
+ID_EVTA_META_NOV_F_DESCRIPTION,Collect Indestructible Paint for points in the Reverse-Engineer Event. Earn it in the Weapons Online Event!
+ID_PATENTPENDING_NAME,Patent Pending Milestone Points
+ID_PATENTPENDING_DESC,"These points earn you additional progress in the Patent Pending Milestone. Earn them in the Eureka Moment Web Milestone, Daily Free Claims on our website, and limited offers!"
+ID_BACKTOFORMULA_NAME,Back to Formula Milestone Points
+ID_BACKTOFORMULA_DESC,"These points earn you additional progress in the Back to Formula Milestone. Earn them in the Ruthless Ambition Web Milestone, Daily Free Claims on our website, and limited offers!"

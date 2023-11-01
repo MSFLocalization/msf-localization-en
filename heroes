@@ -153,6 +153,8 @@ ID_SHARD_GHOSTSPIDER_NAME,Ghost-Spider
 ID_SHARD_GHOSTSPIDER_DESCRIPTION,Ghost-Spider hails from a universe where Gwen Stacy was bitten by a radioactive spider. She's an agile Web-Warrior that can prevent enemies from using their abilities.
 ID_SHARD_GRAVITON_NAME,Graviton
 ID_SHARD_GRAVITON_DESCRIPTION,Graviton is an A.I.M. Controller who extends negative status effects on enemies.
+ID_SHARD_GREENGOBLINGLIDER_NAME,Green Goblin (Classic)
+ID_SHARD_GREENGOBLINGLIDER_DESCRIPTION,"After taking the Goblin Formula, Norman Osborn's mind broke, creating the Glider riding, Pumpkin bomb throwing menace, Green Goblin."
 ID_SHARD_GREG_NAME,Undead Asgardian
 ID_SHARD_GREG_DESCRIPTION,Hela's Undead Asgardian pierces armor with his attacks and heals an Asgardian when defeated.
 ID_SHARD_GROOT_NAME,Groot
@@ -265,10 +267,14 @@ ID_SHARD_KREESUPPORT_HOT_NAME,Kree Oracle
 ID_SHARD_KREESUPPORT_HOT_DESCRIPTION,A purifier who utilizes Kree technology to regenerate and cleanse his allies.
 ID_SHARD_KREETANK_COUNTER_NAME,Kree Royal Guard
 ID_SHARD_KREETANK_COUNTER_DESCRIPTION,A heavily armored Kree warrior who intercepts attackers with brutal counterattacks.
+ID_SHARD_KRAVENTHEHUNTER_NAME,Kraven the Hunter
+ID_SHARD_KRAVENTHEHUNTER_DESCRIPTION,"A relentlessly dedicated hunter, Kraven hunts only the most dangerous game, tearing through his enemies and breaking their will to fight."
 ID_SHARD_LADYDEATHSTRIKE_NAME,Lady Deathstrike
 ID_SHARD_LADYDEATHSTRIKE_DESCRIPTION,"Lady Deathstrike uses her cybernetics to slice at enemies, applying Bleed and making them susceptible to negative effects that the rest of Weapon X can take advantage of."
 ID_SHARD_LOCKJAW_NAME,Lockjaw
 ID_SHARD_LOCKJAW_DESCRIPTION,
+ID_SHARD_LIZARD_NAME,Lizard
+ID_SHARD_LIZARD_DESCRIPTION,"Hoping to create a regenerative serum using reptile DNA, Doctor Curtis Connors accidentally turns himself into the villain, Lizard, and uses his newfound abilities to shed negative Status Effects."
 ID_SHARD_LOKI_NAME,Loki
 ID_SHARD_LOKI_DESCRIPTION,The Asgardian god of Mischief who misleads and confuses his foes.
 ID_SHARD_LOKITEEN_NAME,Loki (Teen)
@@ -499,6 +505,8 @@ ID_SHARD_SPIDERMANNOIR_NAME,Spider-Man (Noir)
 ID_SHARD_SPIDERMANNOIR_DESCRIPTION,"Spider-Man (Noir) is a stealthy, Tommy Gun-wielding hero that grants additional damage to his allies while laying down heavy fire."
 ID_SHARD_SPIDERPUNK_NAME,Spider-Punk
 ID_SHARD_SPIDERPUNK_DESCRIPTION,Spider-Punk is a spider-powered rock star who uses his electric guitar together with his web abilities to deal big damage and disable groups of bad guys.
+ID_SHARD_SPIDERSLAYER_NAME,Spider-Slayer
+ID_SHARD_SPIDERSLAYER_DESCRIPTION,J. Jonah Jameson leaves his desk behind to operate the Spider-Slayer robot and trades hard-hitting investigative journalism for decimating blows against his more evasive enemies.
 ID_SHARD_SPIDERWEAVER_NAME,Spider-Weaver
 ID_SHARD_SPIDERWEAVER_DESCRIPTION,"A Navajo weaver, Ajei Benally was chosen to safeguard the Web of Life and Destiny, pulling the threads of fate to protect herself and her allies."
 ID_SHARD_SPIDERWOMAN_NAME,Spider-Woman
@@ -533,6 +541,10 @@ ID_SHARD_TASKMASTER_NAME,Taskmaster
 ID_SHARD_TASKMASTER_DESCRIPTION,"A master of combat mimicry, Taskmaster uses his skill to steal positive effects from enemies."
 ID_SHARD_TCHALLA_NAME,Star-Lord (T'Challa)
 ID_SHARD_TCHALLA_DESCRIPTION,"Star-Lord (T'Challa) is the idealistic Ravager outlaw who uses gadgets, charm, and fancy footwork to embolden his allies, take power from the powerful, and stylishly defeat those who threaten his friends."
+ID_SHARD_TESTCHARACTERC_NAME,Test Character C
+ID_SHARD_TESTCHARACTERC_DESCRIPTION,"The leader of Test Character Prime's personal guard, Test Character C boosts her fellow Test Characters and deals out destructive blows to her opponents with her sword, Testfang."
+ID_SHARD_TESTCHARACTERD_NAME,Test Character D
+ID_SHARD_TESTCHARACTERD_DESCRIPTION,"The leader of Test Character Prime's personal guard, Test Character D boosts her fellow Test Characters and deals out destructive blows to her opponents with her sword, Testfang."
 ID_SHARD_THANOS_NAME,Thanos
 ID_SHARD_THANOS_DESCRIPTION,A Titan Eternal who delivers crushing blows that drain his foes and taunt his enemies.
 ID_SHARD_THING_NAME,The Thing

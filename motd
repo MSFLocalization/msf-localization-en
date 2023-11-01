@@ -22,7 +22,7 @@ ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing yo
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 12:00 PM (PDT) (11/1).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PDT) (04/25).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -583,8 +583,6 @@ ID_MOTD_NA_KATEBISHOP,Self Declared: Now Live!
 ID_MOTD_DE_KATEBISHOP,Battle for a chance to win Kate Bishop shards
 ID_MOTD_NA_SYBIL,S.T.R.I.K.E. Leader: Now Live!
 ID_MOTD_DE_SYBIL,Battle for a chance to win Kestrel shards
-ID_MOTD_NA_LOKITEEN,Prince of Asgard: Now Live!
-ID_MOTD_DE_LOKITEEN,Battle for a chance to win Loki (Teen) shards
 ID_MOTD_NA_KILLMONGER,Rival King: Now Live!
 ID_MOTD_DE_KILLMONGER,Battle for a chance to win Killmonger shards
 ID_MOTD_NA_KINGPIN,Kingpin of Crime: Now Live!
@@ -593,12 +591,18 @@ ID_MOTD_NA_KITTYPRYDE,Into the Shadow: Now Live!
 ID_MOTD_DE_KITTYPRYDE,Battle for a chance to win Kitty Pryde shards
 ID_MOTD_NA_KORATH,Pursuer: Now Live!
 ID_MOTD_DE_KORATH,Battle for a chance to win KORATH shards
+ID_MOTD_NA_KRAVENTHEHUNTER,Grim Hunter: Now Live!
+ID_MOTD_DE_KRAVENTHEHUNTER,Battle for a chance to win Kraven the Hunter shards
 ID_MOTD_NA_KREESUPPORT_HOT,Farseer: Now Live!
 ID_MOTD_DE_KREESUPPORT_HOT,Battle for a chance to win Kree Oracle shards
 ID_MOTD_NA_LADYDEATHSTRIKE,Tough as Nails: Now Live!
 ID_MOTD_DE_LADYDEATHSTRIKE,Battle for a chance to win Lady Deathstrike shards
+ID_MOTD_NA_LIZARD,Anthropomorphic: Now Live!
+ID_MOTD_DE_LIZARD,Battle for a chance to win Lizard shards
 ID_MOTD_NA_LOKI,God of Mischief: Now Live!
 ID_MOTD_DE_LOKI,Battle for a chance to win LOKI shards
+ID_MOTD_NA_LOKITEEN,Prince of Asgard: Now Live!
+ID_MOTD_DE_LOKITEEN,Battle for a chance to win Loki (Teen) shards
 ID_MOTD_NA_LONGSHOT,Probability Master: Now Live!
 ID_MOTD_DE_LONGSHOT,Battle for a chance to win Longshot shards
 ID_MOTD_NA_LUKECAGE,Power Man: Now Live!
@@ -741,6 +745,8 @@ ID_MOTD_NA_SPIDERMANNOIR,Monochromatic: Now Live!
 ID_MOTD_DE_SPIDERMANNOIR,Battle for a chance to win Spider-Man (Noir) shards
 ID_MOTD_NA_SPIDERPUNK,Rockin Arachnid: Now Live!
 ID_MOTD_DE_SPIDERPUNK,Battle for a chance to win Spider-Punk shards
+ID_MOTD_NA_SPIDERSLAYER,Exterminator: Now Live!
+ID_MOTD_DE_SPIDERSLAYER,Battle for a chance to win Spider-Slayer shards
 ID_MOTD_NA_SPIDERWEAVER,Woven Destiny: Now Live!
 ID_MOTD_DE_SPIDERWEAVER,Battle for a chance to win Spider-Weaver shards
 ID_MOTD_NA_SPIDERWOMAN,Arachne: Now Live!
@@ -2261,6 +2267,8 @@ ID_MOTD_NA_COMPLEXCONJURATIONS_LIVE,Live: Complex Conjurations
 ID_MOTD_DE_COMPLEXCONJURATIONS_LIVE,Earn Blitz Credits and go to the web to redeem your rewards!
 ID_MOTD_NA_BATTLEPASS_SEASON3_ANNOUNCE,LIVE: Season 3 of Battle Pass
 ID_MOTD_DE_BATTLEPASS_SEASON3_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_DIAMONDS_ANNOUNCE,Introducing: Diamonds!
+ID_MOTD_DE_DIAMONDS_ANNOUNCE,Infuse more power into your roster!
 ID_MOTD_NA_RECRUITINGRONIN_TEASER,Coming Soon: Recruiting Ronin
 ID_MOTD_DE_RECRUITINGRONIN_TEASER,Recruit the elusive Ronin
 ID_MOTD_NA_RECRUITINGRONIN_LIVE,LIVE: Recruiting Ronin
@@ -2323,12 +2331,6 @@ ID_MOTD_NA_VENGEFULSPIRITS_ENDING,Ending Soon: Vengeful Spirits
 ID_MOTD_DE_VENGEFULSPIRITS_ENDING,Earn New Avenger shards and Teal Skill Gear now!
 ID_MOTD_NA_TWILIGHTTRIALS_ANNOUNCE,Web Milestone: Twilight Trials
 ID_MOTD_DE_TWILIGHTTRIALS_ANNOUNCE,Link your account to earn more rewards on web!
-ID_MOTD_NA_SPECTRALEMPORIUM_ANNOUNCE,LIVE: Spectral Emporium
-ID_MOTD_DE_SPECTRALEMPORIUM_ANNOUNCE,Choose Event Store loot with Ebony Treats!
-ID_MOTD_NA_SPECTRALEMPORIUM_ENDING,Ending Soon: Spectral Emporium
-ID_MOTD_DE_SPECTRALEMPORIUM_ENDING,Choose Event Store loot with Ebony Treats!
-ID_MOTD_NA_FERALFESTIVAL_ANNOUNCE,Web Milestone: Feral Festival
-ID_MOTD_DE_FERALFESTIVAL_ANNOUNCE,Link your account to earn more rewards on web!
 ID_MOTD_NA_WEREWOLFWARZONE_ANNOUNCE,LIVE: Werewolf Warzone
 ID_MOTD_DE_WEREWOLFWARZONE_ANNOUNCE,Battle in Alliance War for Gold rewards!
 ID_MOTD_NA_IRONMANINFINITYWAR_TEASER,Soon: Iron Man (Infinity War)
@@ -2346,17 +2348,23 @@ ID_MOTD_NA_FINALE_PEGASUS_TEASER,Coming Soon: Project P.E.G.A.S.U.S.
 ID_MOTD_DE_FINALE_PEGASUS_TEASER,Power up P.E.G.A.S.U.S. for epic rewards!
 ID_MOTD_NA_FINALE_PEGASUS_LIVE,LIVE: Project P.E.G.A.S.U.S.
 ID_MOTD_DE_FINALE_PEGASUS_LIVE,Use the mighty P.E.G.A.S.U.S. team for epic rewards!
-ID_MOTD_NA_DARKHAWK_TEASER,Coming Soon: Darkhawk
-ID_MOTD_DE_DARKHAWK_TEASER,This P.E.G.A.S.U.S. Robotic Raptor is coming to blast Tech Raid nodes!
-ID_MOTD_NA_DARKHAWK_ANNOUNCE,Darkhawk is Here!
-ID_MOTD_DE_DARKHAWK_ANNOUNCE,Blast through Tech Raid nodes while speeding up P.E.G.A.S.U.S. allies!
-ID_MOTD_DE_DARKHAWK_ANNOUNCE2,Open Edgelord Orbs to earn shards for this Robotic Raptor!
+ID_MOTD_NA_SPECTRALEMPORIUM_ANNOUNCE,LIVE: Spectral Emporium
+ID_MOTD_DE_SPECTRALEMPORIUM_ANNOUNCE,Choose Event Store loot with Ebony Treats!
+ID_MOTD_NA_SPECTRALEMPORIUM_ENDING,Ending Soon: Spectral Emporium
+ID_MOTD_DE_SPECTRALEMPORIUM_ENDING,Choose Event Store loot with Ebony Treats!
+ID_MOTD_NA_FERALFESTIVAL_ANNOUNCE,Web Milestone: Feral Festival
+ID_MOTD_DE_FERALFESTIVAL_ANNOUNCE,Link your account to earn more rewards on web!
 ID_MOTD_NA_TECHNOLOGYTERROR_ANNOUNCE,LIVE: Technology Terror
 ID_MOTD_DE_TECHNOLOGYTERROR_ANNOUNCE,Unlock Iron Man (Infinity War) and earn Teal Tech gear!
 ID_MOTD_NA_TECHNOLOGYTERROR_ENDING,Ending Soon: Technology Terror
 ID_MOTD_DE_TECHNOLOGYTERROR_ENDING,Unlock Iron Man (Infinity War) and earn Teal Tech gear now!
 ID_MOTD_NA_MACHINEMENACE_ANNOUNCE,Web Milestone: Machine Menace
 ID_MOTD_DE_MACHINEMENACE_ANNOUNCE,Link your account to earn more rewards on web!
+ID_MOTD_NA_DARKHAWK_TEASER,Coming Soon: Darkhawk
+ID_MOTD_DE_DARKHAWK_TEASER,This P.E.G.A.S.U.S. Robotic Raptor is coming to blast Tech Raid nodes!
+ID_MOTD_NA_DARKHAWK_ANNOUNCE,Darkhawk is Here!
+ID_MOTD_DE_DARKHAWK_ANNOUNCE,Blast through Tech Raid nodes while speeding up P.E.G.A.S.U.S. allies!
+ID_MOTD_DE_DARKHAWK_ANNOUNCE2,Open Edgelord Orbs to earn shards for this Robotic Raptor!
 ID_MOTD_NA_IRONHEARTMCU_TEASER,Soon: Ironheart (MKII)
 ID_MOTD_DE_IRONHEARTMCU_TEASER,This Ingenious Inventor makes a heroic landing to control the enemy Raids!
 ID_MOTD_NA_IRONHEARTMCU_ANNOUNCE,Ironheart (MKII) is here!
@@ -2384,6 +2392,24 @@ ID_MOTD_NA_UNKILLABLEFORCE_ENDING,Ending Soon: Unkillable Force
 ID_MOTD_DE_UNKILLABLEFORCE_ENDING,"Get Juggernaut (Zombie) Shards and Teal Bio gear now! "
 ID_MOTD_NA_IMMOVABLEDEAD_ANNOUNCE,Web Milestone: Immovable Dead
 ID_MOTD_DE_IMMOVABLEDEAD_ANNOUNCE,Link your account to earn more rewards on web!
+ID_MOTD_NA_PATENTPENDING_ANNOUNCE,LIVE: Patent Pending
+ID_MOTD_DE_PATENTPENDING_ANNOUNCE,Earn Bio Gear and Reverse-Engineer Progress
+ID_MOTD_NA_PATENTPENDING_ENDING,Ending Soon: Patent Pending
+ID_MOTD_DE_PATENTPENDING_ENDING,Don't miss out on Dark Promotion Credits!
+ID_MOTD_NA_EUREKAMOMENT_ANNOUNCE,Web Milestone: Eureka Moment
+ID_MOTD_DE_EUREKAMOMENT_ANNOUNCE,Link your account to earn more rewards on web!
+ID_MOTD_NA_REVERSEENGINEER_ANNOUNCE,LIVE: Reverse-Engineer
+ID_MOTD_DE_REVERSEENGINEER_ANNOUNCE,Recruit Ironheart (MKII) now by participating in November Events!
+ID_MOTD_NA_REVERSEENGINEER_ENDING,Ending Soon: Reverse-Engineer
+ID_MOTD_DE_REVERSEENGINEER_ENDING,Get Ironheart (MKII) now before the Reverse-Engineer ends!
+ID_MOTD_NA_BUILTINTHELAB_ANNOUNCE,LIVE: Built in the Lab
+ID_MOTD_DE_BUILTINTHELAB_ANNOUNCE,Get Iso-8 Ions and Reverse-Engineer progress!
+ID_MOTD_NA_BUILTINTHELAB_ENDING,ENDING: Built in the Lab
+ID_MOTD_DE_BUILTINTHELAB_ENDING,Get Iso-8 Ions and Reverse-Engineer progress now!
+ID_MOTD_NA_GOLDENTIMELINE_TEASER,Coming Soon: Golden Timeline
+ID_MOTD_DE_GOLDENTIMELINE_TEASER,"Spend Gold to unlock Kang the Conqueror's ""Golden"" Costume!"
+ID_MOTD_NA_GOLDENTIMELINE_LIVE,Live: Golden Timeline
+ID_MOTD_DE_GOLDENTIMELINE_LIVE,"Climb the daily leaderboard to unlock Kang the Conqueror's ""Golden"" Costume"
 ID_MOTD_NA_HW23POLL_LIVE,Trick or Treat Social Poll
 ID_MOTD_DE_HW23POLL_LIVE,Vote now for your seasonal rewards!
 ID_MOTD_NA_HW23_EVENT_TEASER,Coming Soon: Unstoppable Undead
@@ -2398,3 +2424,15 @@ ID_MOTD_NA_ZOMBIEJUGGERNAUT_ANNOUNCE,Juggernaut (Zombie) is here!
 ID_MOTD_DE_ZOMBIEJUGGERNAUT_ANNOUNCE,Eat up enemy attacks in Alliance War!
 ID_MOTD_NA_NEXUS_HARD_0506,New: Nexus Hard Campaigns
 ID_MOTD_DE_NEXUS_HARD_0506,Attempt these new missions for Gear Tier 17 Mini-Uniques and Thor (Infinity War) and Loki (Teen) shards!
+ID_MOTD_NA_SWORDSATELLITE_TEASER,Coming Soon: S.W.O.R.D. Satellite
+ID_MOTD_DE_SWORDSATELLITE_TEASER,Earn exclusive Diamond Dawn Orbs!
+ID_MOTD_NA_SWORDSATELLITE_LIVE,LIVE: S.W.O.R.D. Satellite
+ID_MOTD_DE_SWORDSATELLITE_LIVE,Earn exclusive Diamond Dawn Orbs!
+ID_MOTD_NA_WAKANDANWARRIORS_ANNOUNCE,LIVE: Wakandan Warriors
+ID_MOTD_DE_WAKANDANWARRIORS_ANNOUNCE,Battle in Cosmic Crucible for Training Modules!
+ID_MOTD_NA_BACKTOFORMULA_ANNOUNCE,LIVE: Back to Formula
+ID_MOTD_DE_BACKTOFORMULA_ANNOUNCE,Prepare for Green Goblin Trials
+ID_MOTD_NA_BACKTOFORMULA_ENDING,Ending Soon: Back to Formula
+ID_MOTD_DE_BACKTOFORMULA_ENDING,Earn New Avenger and Rebirth character shards!
+ID_MOTD_NA_RUTHLESSAMBITION_ANNOUNCE,Web Milestone: Ruthless Ambition
+ID_MOTD_DE_RUTHLESSAMBITION_ANNOUNCE,Link your account to earn more rewards on web!

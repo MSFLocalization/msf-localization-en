@@ -6604,6 +6604,79 @@ ID_DIALOG_ECM_JUGZ_03_END_4,Somewhere we can really let loose and play.
 ID_DIALOG_ECM_JUGZ_03_END_5,PLANETSIDE...
 ID_DIALOG_ECM_JUGZ_03_END_6,B-Buh...
 ID_DIALOG_ECM_JUGZ_03_END_7,BRAINNSS!!
+ID_DIALOG_SCE_KRAVEN_01_INTRO_0,(Rykers Island - New York State Prison)
+ID_DIALOG_SCE_KRAVEN_01_INTRO_1,"Hey, ""Craving""! You got a visitor. A real ugly one."
+ID_DIALOG_SCE_KRAVEN_01_INTRO_2,"It's ""Kraven"". And when I get out of here, you will be my first prey."
+ID_DIALOG_SCE_KRAVEN_01_INTRO_3,"Yeah, whatever. Loser."
+ID_DIALOG_SCE_KRAVEN_01_INTRO_4,"I have a proposition for you. "
+ID_DIALOG_SCE_KRAVEN_01_INTRO_5,I'm listening.
+ID_DIALOG_SCE_KRAVEN_01_INTRO_6,I need your help hunting someone. A very special someone.
+ID_DIALOG_SCE_KRAVEN_01_INTRO_7,I like this. But how?
+ID_DIALOG_SCE_KRAVEN_01_INTRO_8,<CLACK!>
+ID_DIALOG_SCE_KRAVEN_01_INTRO_9,I've just unlocked all the prison doors. Meet me at the docks when you're done with these guards.
+ID_DIALOG_SCE_KRAVEN_01_START_0,Kraven the Hunter is a vicious brawler for the Superior Six who applies Offense Down and other negative effects for all his attacks.
+ID_DIALOG_SCE_KRAVEN_01_START_1,"His Special ability will chain to multiple targets, applying Offense Down and flipping positive effects on each target."
+ID_DIALOG_SCE_KRAVEN_01_START_2,"For his Ultimate ability, he attacks all enemies, applying Offense Down, Slow, and flips Deathproof and Stealth for each target."
+ID_DIALOG_SCE_KRAVEN_01_START_3,"When battling in Cosmic Crucible, he imposes additional damage and negative effects upon his enemies."
+ID_DIALOG_SCE_KRAVEN_02_INTRO_0,I'm working on a project that will help us hunt down Spider-Man.
+ID_DIALOG_SCE_KRAVEN_02_INTRO_1,I don't need any help hunting down my prey.
+ID_DIALOG_SCE_KRAVEN_02_INTRO_2,Of course. But this won't help you just hunt Spider-Man...
+ID_DIALOG_SCE_KRAVEN_02_INTRO_3,This will help you hunt down ALL the Spiders.
+ID_DIALOG_SCE_KRAVEN_02_INTRO_4,What are you talking about?
+ID_DIALOG_SCE_KRAVEN_02_INTRO_5,"Ugh. We have visitors. "
+ID_DIALOG_SCE_KRAVEN_02_INTRO_6,Your friends from the Rykers Island must have followed you here.
+ID_DIALOG_SCE_KRAVEN_02_END_0,I'm building a portal that is specifically designed to find every Spider-Man in existence throughout the multiverse.
+ID_DIALOG_SCE_KRAVEN_02_END_1,"But I need your help first. The portal needs to be tuned with Spider-Man's DNA. "
+ID_DIALOG_SCE_KRAVEN_02_END_2,Hunt down our own Spider-Man here in New York and get a sample.
+ID_DIALOG_SCE_KRAVEN_02_END_3,How about some of his blood?
+ID_DIALOG_SCE_KRAVEN_02_END_4,That will work.
+ID_DIALOG_SCE_KRAVEN_03_INTRO_0,Where's Spider-Man?
+ID_DIALOG_SCE_KRAVEN_03_INTRO_1,Probably somewhere putting away more bad guys like you. Why?
+ID_DIALOG_SCE_KRAVEN_03_INTRO_2,I need his blood... and to repay him for getting me locked up.
+ID_DIALOG_SCE_KRAVEN_03_INTRO_3,"You're ""The Hunter"". Go find him yourself."
+ID_DIALOG_SCE_KRAVEN_03_INTRO_4,Perhaps YOUR blood will get his attention.
+ID_DIALOG_SCE_KRAVEN_03_END_0,Ok! Ok! I will help you! As long as you don't hurt Spider-Man!
+ID_DIALOG_SCE_KRAVEN_03_END_1,I'll consider it.
+ID_DIALOG_SCE_KRAVEN_03_END_2,"S.H.I.E.L.D. has vials of his blood. They are being transported on a Helicarrier launching from the Upper Bay. "
+ID_DIALOG_SCE_KRAVEN_03_END_3,"It's heavily defended, but you might get to it."
+ID_DIALOG_SCE_KRAVEN_03_END_4,I'll get to it.
+ID_DIALOG_SCE_KRAVEN_04_INTRO_0,(Helicarrier Flight Deck- Upper Bay)
+ID_DIALOG_SCE_KRAVEN_04_INTRO_1,"Fury, we've got some prisoners on the loose after that Ryker's Island sabotage event. "
+ID_DIALOG_SCE_KRAVEN_04_INTRO_2,I've heard. Anybody we should worried about?
+ID_DIALOG_SCE_KRAVEN_04_INTRO_3,"There's one kook. He wears fur around his neck and considers himself a big game hunter. "
+ID_DIALOG_SCE_KRAVEN_04_INTRO_4,Where do these people come from?!
+ID_DIALOG_SCE_KRAVEN_04_INTRO_5,Russia.
+ID_DIALOG_SCE_KRAVEN_04_INTRO_6,"I am Kraven the Hunter. And if you stand in my way, you will go down like all of my prey before you."
+ID_DIALOG_SCE_KRAVEN_04_INTRO_7,Somebody please escort this man off my Helicarrier!
+ID_DIALOG_SCE_KRAVEN_04_START_0,Hand over Spider-Man's blood sample. I know you have it.
+ID_DIALOG_SCE_KRAVEN_04_START_1,"I'm not handing anything over to you. "
+ID_DIALOG_SCE_KRAVEN_05_INTRO_0,Mockingbird! Kraven is heading your way. He's going for the lab samples!
+ID_DIALOG_SCE_KRAVEN_05_INTRO_1,On it!
+ID_DIALOG_SCE_KRAVEN_05_INTRO_2,"I don't normally take down little birds, but today I will make an exception."
+ID_DIALOG_SCE_KRAVEN_06_INTRO_0,"I have the blood sample. "
+ID_DIALOG_SCE_KRAVEN_06_INTRO_1,"Splendid. I will need some time to prepare the Spider Serum. "
+ID_DIALOG_SCE_KRAVEN_06_INTRO_2,"Do not let any intruders in. If I am interrupted, it could spoil the whole batch."
+ID_DIALOG_SCE_KRAVEN_06_INTRO_3,Nobody will get by me.
+ID_DIALOG_SCE_KRAVEN_06_END_0,"Well done. The Spider Serum is ready. "
+ID_DIALOG_SCE_KRAVEN_06_END_1,How do you know it will work?
+ID_DIALOG_SCE_KRAVEN_06_END_2,"My calculations have all been tested already. If something goes wrong, it is the blood sample."
+ID_DIALOG_SCE_KRAVEN_07_INTRO_0,Everything is set.
+ID_DIALOG_SCE_KRAVEN_07_INTRO_1,"3...2...1... "
+ID_DIALOG_SCE_KRAVEN_07_INTRO_2,<Bzztt ka-chonk!>
+ID_DIALOG_SCE_KRAVEN_07_INTRO_3,"What?! "
+ID_DIALOG_SCE_KRAVEN_07_INTRO_4,Is it supposed to be smoking like that?
+ID_DIALOG_SCE_KRAVEN_07_INTRO_5,That blood was a fake! Did you get it from Spider-Man?
+ID_DIALOG_SCE_KRAVEN_07_INTRO_6,I pulled it from a S.H.I.E.L.D. containment facility. The Ghost Spider lied! She set me up!
+ID_DIALOG_SCE_KRAVEN_07_INTRO_7,You fool! Where are we going to get fresh Spider-Man blood from now?!
+ID_DIALOG_SCE_KRAVEN_07_INTRO_8,Looking for me?
+ID_DIALOG_SCE_KRAVEN_07_INTRO_9,Spider-Man!
+ID_DIALOG_SCE_KRAVEN_07_INTRO_10,That's right. No more people will get hurt from your little science project.
+ID_DIALOG_SCE_KRAVEN_07_INTRO_11,"Say goodbye to your machine, Osborn."
+ID_DIALOG_SCE_KRAVEN_08_INTRO_0,"Ah, finally! Spider-Man DNA. Pure and fresh. "
+ID_DIALOG_SCE_KRAVEN_08_INTRO_1,Stand back while I form the true Spider-Serum.
+ID_DIALOG_SCE_KRAVEN_08_INTRO_2,More of his friends are approaching. I'll take care of them.
+ID_DIALOG_SCE_KRAVEN_08_END_0,"That's it! We have it! "
+ID_DIALOG_SCE_KRAVEN_08_END_1,Let the hunt begin.
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
@@ -10846,6 +10919,56 @@ ID_DIALOG_EVENT_FL_SPIDERVERSE_04_INTRO_3,Wait. What?!
 ID_DIALOG_EVENT_FL_SPIDERVERSE_05_INTRO_0,"You're in danger, Miles."
 ID_DIALOG_EVENT_FL_SPIDERVERSE_05_INTRO_1,I'm from a future where portals open up all around the city and villains are hunting down Spider-Men and Spider-Women.
 ID_DIALOG_EVENT_FL_SPIDERVERSE_05_INTRO_2,I think that's already happening.
+ID_DIALOG_EVENT_FL_MARVELS_01_INTRO_0,"FISK TOWER, NEW YORK CITY..."
+ID_DIALOG_EVENT_FL_MARVELS_01_INTRO_1,"We have Kingpin on the ropes. As soon as he shows his ugly mug, that's when we take him in."
+ID_DIALOG_EVENT_FL_MARVELS_01_INTRO_2,"O.M.G., this is so exciting! Taking down THE Kingpin with THE Defenders!"
+ID_DIALOG_EVENT_FL_MARVELS_01_INTRO_3,Look alive! Here he comes!
+ID_DIALOG_EVENT_FL_MARVELS_01_START_0,You people are a nuisance. I'll have to deal with you myself.
+ID_DIALOG_EVENT_FL_MARVELS_01_START_1,"We can do this the easy way or the hard way, Kingpin! ...I've always wanted to say that."
+ID_DIALOG_EVENT_FL_MARVELS_01_START_2,"I think he prefers the hard way. Luckily, so do we."
+ID_DIALOG_EVENT_FL_MARVELS_01_MID_0,"Kamala Khan! Come with me. Urgent S.T.R.I.K.E. business. "
+ID_DIALOG_EVENT_FL_MARVELS_01_MID_1,"Nick Fury?! I'll be right there, we need to finish beating up some bad guys first."
+ID_DIALOG_EVENT_FL_MARVELS_01_END_0,"Woah, the real Nick Fury! I think? You're not a Skrull, are you...?"
+ID_DIALOG_EVENT_FL_MARVELS_01_END_1,"No, I'm not a damn Skrull. There's a cosmic threat that we're dealing with, and you're getting called in."
+ID_DIALOG_EVENT_FL_MARVELS_01_END_2,Sounds fun! But why me?
+ID_DIALOG_EVENT_FL_MARVELS_01_END_3,Someone's working with the Kree to make a new kind of bio-enhanced alien super-soldier.
+ID_DIALOG_EVENT_FL_MARVELS_01_END_4,They're tough. And so far we've only been able to damage them with light-based powers. Like yours.
+ID_DIALOG_EVENT_FL_MARVELS_02_INTRO_0,"Happy to help out! …Wait. Light-based powers? Does that mean Captain Marvel is on this mission, too?"
+ID_DIALOG_EVENT_FL_MARVELS_02_INTRO_1,"Captain Danvers is already on the front lines. The space shuttle we're on is headed to her location now. "
+ID_DIALOG_EVENT_FL_MARVELS_02_INTRO_2,"AHHHH! Okay, Kamala... Just keep your cool... You're only meeting your biggest hero... Wait, what was that sound?"
+ID_DIALOG_EVENT_FL_MARVELS_02_START_0,"Alright you stupid humans, hand over the good stuff and nobody gets hurt."
+ID_DIALOG_EVENT_FL_MARVELS_02_START_1,Space pirates?! That's so cool!
+ID_DIALOG_EVENT_FL_MARVELS_02_END_0,They didn't seem too tough. I guess I always imagined pirates would be stronger.
+ID_DIALOG_EVENT_FL_MARVELS_02_END_1,"Sorry to disappoint you. But if you want a challenge, we're arriving at Captain Marvel's locale now. "
+ID_DIALOG_EVENT_FL_MARVELS_03_INTRO_0,"Tell me who's creating the enhanced soldiers, Ronan. I won't ask again."
+ID_DIALOG_EVENT_FL_MARVELS_03_INTRO_1,"The time for talking is done, betrayer. Not even you can stop the empire's new soldiers."
+ID_DIALOG_EVENT_FL_MARVELS_03_INTRO_2,"You will be crushed under the heel of the might of the... Wait, is that a teenager?"
+ID_DIALOG_EVENT_FL_MARVELS_03_START_0,"I'm her backup! Hi, Captain Marvel!"
+ID_DIALOG_EVENT_FL_MARVELS_03_START_1,Uh... Hi?
+ID_DIALOG_EVENT_FL_MARVELS_03_END_0,"Thanks for the help back there, kid. It could have gotten rough if it wasn't for you."
+ID_DIALOG_EVENT_FL_MARVELS_03_END_1,"Nick of time rescues is what we do. What's the sit rep, Captain? "
+ID_DIALOG_EVENT_FL_MARVELS_03_END_2,"I got hung up taking out Ronan and his platoon, but Photon somehow made it through the first few waves."
+ID_DIALOG_EVENT_FL_MARVELS_03_END_3,"She's inside their base, and cut a path for us to follow. "
+ID_DIALOG_EVENT_FL_MARVELS_03_END_4,What are we waiting for?! Let's go!
+ID_DIALOG_EVENT_FL_MARVELS_04_INTRO_0,Rambeau! Glad to see you're still in one piece. Did you find the source of these new Kree soldiers?
+ID_DIALOG_EVENT_FL_MARVELS_04_INTRO_1,"Carol. I did, there's a lab behind this vault door. We should be able to... Sorry, who's the kid? "
+ID_DIALOG_EVENT_FL_MARVELS_04_INTRO_2,"Oh, hi! I'm Kamala... Sorry, I mean, I'm Ms. Marvel. "
+ID_DIALOG_EVENT_FL_MARVELS_04_INTRO_3,"Kid, we've all been Ms. Marvel. Let's get through that door and see what's behind it. "
+ID_DIALOG_EVENT_FL_MARVELS_04_INTRO_4,"Oh, I can tell you what's behind it. Only death. "
+ID_DIALOG_EVENT_FL_MARVELS_04_START_0,Minn-Erva's behind these soldiers! We've got to stop them before they do more damage elsewhere.
+ID_DIALOG_EVENT_FL_MARVELS_04_END_0,"Ok, that was DEFINITELY tougher to handle than space pirates. Its over now, right?"
+ID_DIALOG_EVENT_FL_MARVELS_04_END_1,"That'd be nice, but, we've got incoming!"
+ID_DIALOG_EVENT_FL_MARVELS_04_END_2,"Marvels. Perfect. Lets put these new powers to the test, shall we?"
+ID_DIALOG_EVENT_FL_MARVELS_05_INTRO_0,An enhanced Thanos?! How are we supposed to beat that.
+ID_DIALOG_EVENT_FL_MARVELS_05_INTRO_1,"Together. They're weak to our light powers, right? Let's see if he can handle all three at once."
+ID_DIALOG_EVENT_FL_MARVELS_05_START_0,Bow to the power of Thanos!
+ID_DIALOG_EVENT_FL_MARVELS_05_START_1,"Sorry, pal. You're not the first Thanos we've beat, and I wasn't impressed with him, either. "
+ID_DIALOG_EVENT_FL_MARVELS_05_END_0,"Great work everyone, Thanos is down and Minn-Erva's on the run. "
+ID_DIALOG_EVENT_FL_MARVELS_05_END_1,"With these new soldiers out of the picture we don't need to worry about a Kree invasion, for a little bit anyway."
+ID_DIALOG_EVENT_FL_MARVELS_05_END_2,"Good job, recruit. We could use your help in the future, not just everyone can go toe-to-toe with Thanos."
+ID_DIALOG_EVENT_FL_MARVELS_05_END_3,"No problem! I mean, beating him was a snap! ...get it? A SNAP? "
+ID_DIALOG_EVENT_FL_MARVELS_05_END_4,"Uh, we'll call you, okay? Gotta go. "
+ID_DIALOG_EVENT_FL_MARVELS_05_END_5,...Wow. She's. So. COOL.
 ID_DIALOG_NUE_00_01_0,"Commander, I'm glad you're here. \nWe have a situation."
 ID_DIALOG_NUE_00_01_1,Interdimensional signatures are popping up all over New York City.
 ID_DIALOG_NUE_00_01_2,"As commander of S.T.R.I.K.E., interdimensional threats are your jurisdiction. "

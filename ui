@@ -459,7 +459,6 @@ ID_OPTIONS_PORTAL_DESC,Get an access code that will let you log into our website
 ID_OPTIONS_PORTAL_BUTTON,GET ACCESS CODE
 ID_OPTIONS_HIGHER_RENDERING_MODE,Enable higher rendering mode(60fps)
 ID_OPTIONS_DISABLE_LARGE_HC_PURCHASE_CONFIRMATION,Disable Large Power Core Purchase Confirmation
-ID_OPTIONS_QUICK_MULTIORB_OPEN,Show 'Open All Orbs' Option
 ID_OPTIONS_VIBRATE_ON_LOAD_COMPLETE,Vibrate Device if Inactive After Loading Completes & Combat Completes (on supported devices)
 ID_PLAYER_NAME_CHANGE_CONFIRM,CONFIRM
 ID_PLAYER_NAME_CHANGE_ENTER_NAME,Enter name...
@@ -584,6 +583,7 @@ ID_SUBSCRIPTION_PRIZE_GRID_SUBTITLE,Rewards received while away!
 ID_SUBSCRIPTION_TAB_NAME,Premium
 ID_SYNERGY_ACTIVATED_TRAITS,ACTIVATED TRAITS:
 ID_SYNERGY_SYNERGIES_ACTIVATED,Synergies Activated
+ID_SQUAD_SELECT_ISO_SWITCH,Switch ISO-8 Class
 ID_TIER,TIER
 ID_TIER_LABEL,Tier {tier}
 ID_TIER_LABEL_MAX,<color={tierColor}>Tier {tier}</color> (<color={maxColor}>MAX</color> Tier reached)
@@ -700,6 +700,9 @@ ID_UI_BEST_OFFER,BEST ONE-TIME OFFER!
 ID_UI_TIME_HEIST_CLAIM_TITLE,Claim Your Time Heist
 ID_UI_TIME_HEIST_CLAIM_BODY,You have purchased a Time Heist offer. Please go to your inbox to claim and activate your rewards.
 ID_UI_TIME_HEIST_CLAIM_BUTTON,GO TO INBOX
+ID_UI_TIME_HEIST_FINDER_MORE,PLUS SO MUCH MORE!
+ID_UI_TIME_HEIST_FINDER_FOUND_IN,FOUND IN
+ID_UI_TIME_HEIST_FINDER_HEADER,TIME HEIST <color=white>LVL. {lvl}</color>
 ID_UI_TIME_HEIST_INFO_LABEL,Offer Details
 ID_UI_TIME_HEIST_OFFER_DEAL,BEST ONE-TIME OFFER
 ID_UI_TIME_HEIST_OFFER_PROGRESS_UPDATE,PROGRESS UPDATE!
@@ -710,6 +713,7 @@ ID_UI_TIME_HEIST_OFFER_TCP_NO_CHANGE,No change to total collection power
 ID_UI_TIME_HEIST_OFFER_TITLE,Time Heist
 ID_UI_TIME_HEIST_HUD_TITLE,TIME HEIST
 ID_UI_TIME_HEIST_HUD_BEST_OFFER,BEST OFFER
+ID_UI_TIME_HEIST_HUD_MOST_POPULAR,MOST POPULAR
 ID_UI_TIME_HEIST_HUD_JUMP_TO,JUMP TO\nLEVEL
 ID_UI_TIME_HEIST_HUD_NO_JUMP,REWARDS FOR\nLEVEL
 ID_UI_TIME_HEIST,TIME HEIST
@@ -722,6 +726,9 @@ ID_UI_TIME_HEIST_OFFER_TAP_TO_SEE_MORE,<color=#00ffff>Tap to see more</color>
 ID_UI_TIME_HEIST_NO_UNLOCKS,All features already unlocked!
 ID_UI_TIME_HEIST_OFFER_UNLOCKED_FEATURES_HEADER,FEATURES UNLOCKED
 ID_UI_TIME_HEIST_3P_LOADING,Loading Time Heist
+ID_UI_TIME_HEIST_OFFER_INFO,Ends in
+ID_UI_TIME_HEIST_BONUS_VALUE,20X\n<size=60%>MORE
+ID_UI_TIME_HEIST_LIGHTNING_OFFER,LIGHTNING OFFER
 ID_TIME_HEIST_DISCLAIMER_TITLE,TIME HEIST DETAILS
 ID_TIME_HEIST_DISCLAIMER_SUBHEADER,Understanding the Time Jump
 ID_TIME_HEIST_DISCLAIMER_BODY,"Time Heist Offers will upgrade your existing Commander Level, Roster Power, Campaign Progress, and Challenge Progress up to a preset point defined by each offer. Your existing progress across each of these power vectors will never be lost or reduced. Each Time Heist Offer will also grant a number of additional rewards as part of your purchase. \n\nCommander Level:\nTime Heists will instantly upgrade your Commander Level and grant all skipped level up rewards. If you purchase a Time Heist that is lower level than your current Commander Level, your Commander Level will remain the same and you will not be granted additional level up rewards.\n\nRoster Power:\nEach Time Heist will upgrade specific characters to a designated power level. Characters above the designated power level will not be reduced and additional compensation will not be granted. If a character has some power vectors above the designated power level and others that are below, the character will not lose progress and only those power vectors below the designed power levels will be upgraded. For example, if a Time Heist Offer grants a 3 Yellow Star, Gear Tier 6 Spider-Man, and you already own a 5 Yellow Star, Gear Tier 3 Spider-Man, after the Time Heist you will own a 5 Yellow Star, Gear Tier 6 Spider-Man. Comma separated Character Abilities are listed in order: Basic, Special, Ultimate, Passive.\n\nCampaign Progress:\nEach Time Heist Offer will advance your Campaign progress up to a preset point and 3 star all previous missions. Purchasing a Time Heist Offer will never reduce your Campaign progress or the number of stars earned on a particular mission. Completed Campaign Missions can always be replayed.\n\nChallenge Progress:\nEach Time Heist Offer will advance your Challenge progress up to a preset point and 3 star all previous missions. Purchasing a Time Heist Offer will never reduce your Challenge progress or the number of stars earned on a particular mission. Completed Challenge Missions can always be replayed.\n\nEach Level Time Heist Offer can only ever be purchased once, but multiple Level Time Heist Offers can be purchased as long as the minimum Commander Level is met.\n"
@@ -1376,6 +1383,8 @@ ID_FRAME_HALLOWEEN2023_NAME,Corny Candy
 ID_FRAME_HALLOWEEN2023_UNLOCK,Via the Unstoppable Undead Event
 ID_FRAME_DAYOFTHEDEAD_NAME,Muertos
 ID_FRAME_DAYOFTHEDEAD_UNLOCK,Via the Unstoppable Undead Event
+ID_FRAME_NOVMETA23_NAME,Vibranium Plated
+ID_FRAME_NOVMETA23_UNLOCK,Via the Reverse-Engineer Event
 ID_WAR_ATTEMPTBONUS_TITLE,ATTEMPT BONUS
 ID_WAR_ATTEMPTBONUS_VALUE,<b><size=55><color=#fff798>{score}</color></size></b> of {max} PTS
 ID_WAR_ATTEMPTBONUS_VALUE_SMALL,<b><size=35><color=#f7951d>+{score}</color></size></b> PTS
@@ -1387,6 +1396,21 @@ ID_BOOKMARKS_INVALID_ITEM,INVALID ITEM
 ID_BOOKMARKS_NO_BOOKMARKS,No bookmarks added
 ID_REDEEM_GIFT,REDEEM GIFT
 ID_LOGIN_TO_REDEEM_GIFT,"To claim your NEW PLAYER GIFT, you need a Scopely account"
+ID_PURPLE_DIAMONDS,Diamonds
+ID_BOOST_POPUP_DESC_PURPLEDIAMOND,Diamonds are the ultimate progression for a character and can only be applied on top of fully maxed Red and Yellow Star characters.
+ID_BOOST_POPUP_HEADER_PURPLEDIAMOND_L,<color=#fff568><i>DIAMONDS</i></color>
+ID_PURPLEDIAMOND_CONVERSION_UPGRADE_HEADER,Diamond Upgraded
+ID_PURPLEDIAMOND_CONVERSION_TITLE,Duplicate Diamond
+ID_PURPLEDIAMOND_CONVERSION_UPGRADE_MESSAGE,Upgraded Diamonds converted into <color=#ffffff><i>DIAMOND CREDITS</i></color>.
+ID_PURPLEDIAMOND_CONVERSION_MESSAGE,Duplicate Diamonds converted into <color=#ffffff><i>DIAMOND CREDITS</i></color>.
+ID_PURPLEDIAMOND_PROMOTION_DESCRIPTION_SINGULAR,"Diamonds boost Health, Damage, Armor, Focus, and Resistance.\n\n<color=#ffff00>{diamonds} Diamond boosts stats by +{boost_value}%.</color>"
+ID_PURPLEDIAMOND_PROMOTION_DESCRIPTION_PLURAL,"Diamonds boost Health, Damage, Armor, Focus, and Resistance.\n\n<color=#ffff00>{diamonds} Diamonds boost stats by +{boost_value}%.</color>"
+ID_DROPRATE_PURPLE_DIAMONDS_TITLE,Diamond Promotion
+ID_DROPRATE_ELEMENT_DROP_PURPLEDIAMOND_TITLE,{num} - DIAMOND PROMOTION
+ID_DROPRATE_PROMOTION_TITLE,Diamond or Red Star Promotion
+ID_DROPRATE_DIAMOND_PROMOTION_ELITE_TITLE,Diamond Promotion or Elite Credits
+ID_HERONOTIFY_PROMOTE_PURPLEDIAMOND_MESSAGE,You've earned a new Diamond Promotion for {name}!
+ID_REDSTAR_DIAMONDS_POPUP_DESC_UNLOCK,Red Star and Diamond Promotions unlock at level 42.
 ID_ANDROID14_CHECK_TITLE,Notice
 ID_ANDROID14_CHECK_DESC,"Pixel owners running Android 14 may experience crashing, which might be helped by manually clearing your cache."
 ID_ANDROID14_CHECK_MOREINFO,More Information

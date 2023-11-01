@@ -2622,13 +2622,6 @@ ID_QU_SC_SPLASH_BIONICBARRAGE,Use Bionic Avenger Characters in Blitz
 ID_QU_S1_SPLASH_BIONICBARRAGE,Win Blitz with 3-star or higher Bionic Avenger Character
 ID_QU_S2_SPLASH_BIONICBARRAGE,Win Blitz with 5-star or higher Bionic Avenger Character
 ID_QU_S3_SPLASH_BIONICBARRAGE,Win Blitz with 7-star Bionic Avenger Character
-ID_QU_NA_SPLASH_NEWRECRUITS,New Recruits
-ID_QU_SD_SPLASH_NEWRECRUITS,Use New Warriors in Blitz
-ID_QU_LM_SPLASH_NEWRECRUITS,Earn points by using New Warriors characters in Blitz Battles. Earn more points if your New Warriors characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
-ID_QU_SC_SPLASH_NEWRECRUITS,Use New Warriors Characters in Blitz
-ID_QU_S1_SPLASH_NEWRECRUITS,Win Blitz with 3-star or higher New Warriors Character
-ID_QU_S2_SPLASH_NEWRECRUITS,Win Blitz with 5-star or higher New Warriors Character
-ID_QU_S3_SPLASH_NEWRECRUITS,Win Blitz with 7-star New Warriors Character
 ID_QU_NA_APRILFOOLS2023_EVENT,Breakfast of Commanders
 ID_QU_SD_APRILFOOLS2023_EVENT,Battle the forces of hunger!
 ID_QU_LM_APRILFOOLS2023_EVENT,"Celebrate the launch of S.T.R.I.K.E. Os and join us in the fight against breakfast indecision! Today only, collect the limited-time cereal currency throughout the game to earn nutritious rewards! Search the Offers page and you might find a nutritious deal that is core to being the best Commander you can be!"
@@ -3558,3 +3551,75 @@ ID_QU_NA_IMMOVABLEDEAD,Immovable Dead
 ID_QU_SD_IMMOVABLEDEAD,Spend Power Cores
 ID_QU_LD_IMMOVABLEDEAD,Spend Power Cores to complete this daily milestone that rewards Unkillable Force progress!
 ID_QU_S1_IMMOVABLEDEAD,Spend 1 Power Core
+ID_QU_NA_REVERSEENGINEER,Reverse-Engineer
+ID_QU_SD_REVERSEENGINEER,Participate in November Events
+ID_QU_LM_REVERSEENGINEER,Participate in various events throughout the month of November to earn milestone progress.
+ID_QU_S1_REVERSEENGINEER,Collect 1 Vibranium Slab
+ID_QU_S2_REVERSEENGINEER,Collect 1 Stark Grant Check
+ID_QU_S3_REVERSEENGINEER,Collect 1 Wireframe Blueprint
+ID_QU_S4_REVERSEENGINEER,Collect 1 Jet Engine Parts
+ID_QU_S5_REVERSEENGINEER,Collect 1 Arc Reactor MKII
+ID_QU_S6_REVERSEENGINEER,Collect 1 Indestructible Paint
+ID_QU_NA_PATENTPENDING,Patent Pending
+ID_QU_SD_PATENTPENDING,Spend Campaign Energy use Kraven the Hunter
+ID_QU_LD_PATENTPENDING,"Spend Campaign Energy, use Kraven in Cosmic Crucible and progress in the Eureka Moment Web Milestone. The worthiest competitors have a chance to receive Vibranium Slabs for Reverse-Engineer progress, Gear Tier 18 Mini-Uniques and Elite 7 Credits."
+ID_QU_S1_PATENTPENDING,Use Kraven the Hunter in Cosmic Crucible
+ID_QU_S2_PATENTPENDING,Use Kraven the Hunter in Cosmic Crucible at 4+ Yellow Stars
+ID_QU_S3_PATENTPENDING,Use Kraven the Hunter in Cosmic Crucible at 6+ Yellow Stars
+ID_QU_NA_BUILTINTHELAB,Built in the Lab
+ID_QU_SD_BUILTINTHELAB,Spend Iso-8 Energy and Earn Allied Supply II Orbs
+ID_QU_LD_BUILTINTHELAB,"Built in the Lab Milestone\nGain progress in this 5-day event by spending Iso-8 Campaign Energy and earning Allied Supply II Orb fragments from daily Free Claims and the Alliance Donations. Earn incredible rewards including T2 Level 5 Ion Orbs, T2 Level 4 and 5 Ions, and Armory 16, 17, and 18 Orbs. T2 Level 5 Ion Orbs contain up to 5,000,000 T2 Level 5 Ions! You'll also earn points towards the month-long Reverse-Engineer milestone by collecting Vibranium Slabs."
+ID_QU_S1_BUILTINTHELAB,Spend 1 Iso-8 Campaign Energy
+ID_QU_S2_BUILTINTHELAB,Earn 1 Allied Supply II Orb Fragment
+ID_QU_NA_EUREKAMOMENT,Eureka Moment
+ID_QU_SD_EUREKAMOMENT,Play Alliance Raid
+ID_QU_LD_EUREKAMOMENT,"Play Alliance Raid battles to complete this daily milestone that rewards Vibranium Slabs for the Reverse-Engineed Event as well as Gold, Elite 4 Credits, and Patent Pending progress!"
+ID_QU_NA_GOLDENTIMELINE,Golden Timeline
+ID_QU_SD_GOLDENTIMELINE,Spend Gold
+ID_QU_SC_GOLDENTIMELINE,Spend Gold
+ID_QU_LM_GOLDENTIMELINE,"Introducing: The Golden Timeline Milestone\n\nFor a limited-time, this new daily milestone replaces the previous Golden Opportunity Milestone, and features Kang the Conqueror's ""Golden"" Costume.\n\nYou'll have 31 days to earn enough Gold Phase Bits to purchase Kang the Conqueror's ""Golden"" Costume!\n\nHow To Earn Gold Phase Bits:\nScore 6,000,000 Points in the Golden Timeline Milestone to unlock access to Rank Rewards. Ranks 25% and higher will contain Gold Phase Bits. You will need 40,000 Gold Phase Bits to purchase Kang the Conqueror's ""Golden"" Costume\n\nStart earning these rewards today by spending Gold!"
+ID_QU_S1_GOLDENTIMELINE,Spend 1 Gold
+ID_QU_NA_SPLASH_RAISETHESHIELD,Raise the Shield
+ID_QU_SD_SPLASH_RAISETHESHIELD,Use S.H.I.E.L.D. in Blitz
+ID_QU_LM_SPLASH_RAISETHESHIELD,Earn points by using S.H.I.E.L.D. characters in Blitz Battles. Earn more points if your S.H.I.E.L.D. characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_RAISETHESHIELD,Use S.H.I.E.L.D. Characters in Blitz
+ID_QU_S1_SPLASH_RAISETHESHIELD,Win Blitz with 3-star or higher S.H.I.E.L.D. Character
+ID_QU_S2_SPLASH_RAISETHESHIELD,Win Blitz with 5-star or higher S.H.I.E.L.D. Character
+ID_QU_S3_SPLASH_RAISETHESHIELD,Win Blitz with 7-star S.H.I.E.L.D. Character
+ID_QU_NA_SPLASH_NEWRECRUITS,New Recruits
+ID_QU_SD_SPLASH_NEWRECRUITS,Use New Avenger in Blitz
+ID_QU_LM_SPLASH_NEWRECRUITS,Earn points by using New Avenger characters in Blitz Battles. Earn more points if your New Avenger characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_NEWRECRUITS,Use New Avenger Characters in Blitz
+ID_QU_S1_SPLASH_NEWRECRUITS,Win Blitz with 3-star or higher New Avenger Character
+ID_QU_S2_SPLASH_NEWRECRUITS,Win Blitz with 5-star or higher New Avenger Character
+ID_QU_S3_SPLASH_NEWRECRUITS,Win Blitz with 7-star New Avenger Character
+ID_QU_NA_SPLASH_SHADOWHEROICS,Shadow Heroics
+ID_QU_SD_SPLASH_SHADOWHEROICS,Use Secret Defenders in Blitz
+ID_QU_LM_SPLASH_SHADOWHEROICS,Earn points by using Secret Defenders characters in Blitz Battles. Earn more points if your Secret Defenders characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_SHADOWHEROICS,Use Secret Defenders Characters in Blitz
+ID_QU_S1_SPLASH_SHADOWHEROICS,Win Blitz with 3-star or higher Secret Defenders Character
+ID_QU_S2_SPLASH_SHADOWHEROICS,Win Blitz with 5-star or higher Secret Defenders Character
+ID_QU_S3_SPLASH_SHADOWHEROICS,Win Blitz with 7-star Secret Defenders Character
+ID_QU_NA_SPLASH_MEANDTHEBOYS,Me and the Boys
+ID_QU_SD_SPLASH_MEANDTHEBOYS,Use Sinister Six in Blitz
+ID_QU_LM_SPLASH_MEANDTHEBOYS,Earn points by using Sinister Six characters in Blitz Battles. Earn more points if your Sinister Six characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_MEANDTHEBOYS,Use Sinister Six Characters in Blitz
+ID_QU_S1_SPLASH_MEANDTHEBOYS,Win Blitz with 3-star or higher Sinister Six Character
+ID_QU_S2_SPLASH_MEANDTHEBOYS,Win Blitz with 5-star or higher Sinister Six Character
+ID_QU_S3_SPLASH_MEANDTHEBOYS,Win Blitz with 7-star Sinister Six Character
+ID_QU_NA_WAKANDANWARRIORS,Wakandan Warriors
+ID_QU_SD_WAKANDANWARRIORS,Battle in Crucible and Earn Allied Supply II Orb Fragments
+ID_QU_LD_WAKANDANWARRIORS,"Collaborate with your alliances to battle in Cosmic Crucible and earn Allied Supply II Orb Fragments. Allied Supply II Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store. "
+ID_QU_S1_WAKANDANWARRIORS,Win with New Warrior or Wakanda in Crucible
+ID_QU_S2_WAKANDANWARRIORS,Win with New Warrior or Wakanda in Crucible at 4+ Star
+ID_QU_S3_WAKANDANWARRIORS,Win with New Warrior or Wakanda in Crucible at 5+ Star
+ID_QU_S4_WAKANDANWARRIORS,Win with New Warrior or Wakanda in Crucible at 6+ Star
+ID_QU_S5_WAKANDANWARRIORS,Win with New Warrior or Wakanda in Crucible at 7 Star
+ID_QU_NA_BACKTOFORMULA,Back to Formula
+ID_QU_SD_BACKTOFORMULA,Open Got the Skills orbs
+ID_QU_LD_BACKTOFORMULA,Gain progress by spending Power Cores and earning Got the Skills Orb Fragments earned from Campaign nodes and limited-time offers. Keep an eye out for Free Claims containing Got the Skills Orbs every day!
+ID_QU_S1_BACKTOFORMULA,Earn 1 Got the Skills Orb Fragment
+ID_QU_NA_RUTHLESSAMBITION,Ruthless Ambition
+ID_QU_SD_RUTHLESSAMBITION,Earn War Credits
+ID_QU_LD_RUTHLESSAMBITION,Earn War Credits to complete this 7-day milestone that rewards Back to Formula milestone points as well as Vibranium Slabs for the Reverse-Engineer milestone!
+ID_QU_S1_RUTHLESSAMBITION,Earn 1 War Credit

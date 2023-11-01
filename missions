@@ -3163,6 +3163,16 @@ ID_FL_SPIDERVERSE_04_NAME,Spider Experiments
 ID_FL_SPIDERVERSE_04_DESC,Doc Ock joins Miles Morales to extinguish some mystical fires.
 ID_FL_SPIDERVERSE_05_NAME,Present Danger
 ID_FL_SPIDERVERSE_05_DESC,"Spider friends from across the Multiverse help Miles Morales defend Earth from cosmic invaders. "
+ID_FL_MARVELS_01_NAME,A Sudden Request
+ID_FL_MARVELS_01_DESC,Ms. Marvel (Hard Light) is helping the Defenders take down Kingpin when she's asked to help with a special mission.
+ID_FL_MARVELS_02_NAME,Ravagers Attack!
+ID_FL_MARVELS_02_DESC,"On their way to meet up with Captain Marvel, Ms. Marvel (Hard Light) and and Fury are attacked by Ravagers."
+ID_FL_MARVELS_03_NAME,Rendezvous Showdown
+ID_FL_MARVELS_03_DESC,Ms. Marvel (Hard Light) and Fury arrive to help Captain Marvel take down the first waves alien super soldiers.
+ID_FL_MARVELS_04_NAME,A Marvelous Trio
+ID_FL_MARVELS_04_DESC,"The group meets up with Photon to confront the mastermind behind the alien super soldier operation, Minn-Erva."
+ID_FL_MARVELS_05_NAME,Light vs. Dark
+ID_FL_MARVELS_05_DESC,"Captain Marvel, Ms. Marvel (Hard Light), and Photon must team up to face the Kree's latest ultimate weapon, a bio-enhanced Thanos."
 ID_ECM_KAMALA_01_NAME,Danger Arrives
 ID_ECM_KAMALA_01_DESC,Ms. Marvel (Hard Light) has visitors.
 ID_ECM_KAMALA_02_NAME,Supreme Intelligence
@@ -3237,3 +3247,19 @@ ID_ECM_HALLOWEEN23_04_NAME,The Zed-Word
 ID_ECM_HALLOWEEN23_04_DESC,"A new toy in tow, Hela looks for some fun."
 ID_ECM_HALLOWEEN23_05_NAME,Full of Plans
 ID_ECM_HALLOWEEN23_05_DESC,"Hela carves a path across the planet, leaving hordes of destroyed drones in her wake."
+ID_MIS_KRAVEN_01_NAME,Prison Break
+ID_MIS_KRAVEN_01_DESC,Kraven the Hunter gets a visitor who has a plan.
+ID_MIS_KRAVEN_02_NAME,Webs of Destiny
+ID_MIS_KRAVEN_02_DESC,Why hunt one when you can hunt them all?
+ID_MIS_KRAVEN_03_NAME,Hunt for Blood
+ID_MIS_KRAVEN_03_DESC,Kraven the Hunter gets a lead on his hunt.
+ID_MIS_KRAVEN_04_NAME,Unwanted Visitor
+ID_MIS_KRAVEN_04_DESC,Nick Fury is introduced to Kraven the Hunter.
+ID_MIS_KRAVEN_05_NAME,Helicarrier Heist
+ID_MIS_KRAVEN_05_DESC,Kraven the Hunter works his way through the Helicarrier.
+ID_MIS_KRAVEN_06_NAME,No Interruptions
+ID_MIS_KRAVEN_06_DESC,Green Goblin attempts to create Spider Serum.
+ID_MIS_KRAVEN_07_NAME,Along Came A Spider
+ID_MIS_KRAVEN_07_DESC,Green Goblin's plan comes to halt.
+ID_MIS_KRAVEN_08_NAME,Take Two
+ID_MIS_KRAVEN_08_DESC,Kraven the Hunter fends off the last of Spider-Man's allies.

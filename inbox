@@ -5803,9 +5803,6 @@ ID_ME_BO_SPLASH_WEAPONIZEDWATCHERS,"Commander,\n\nFor the next 48 hours, win Bli
 ID_ME_NA_SPLASH_BIONICBARRAGE,LIVE: Bionic Barrage
 ID_ME_DE_SPLASH_BIONICBARRAGE,Earn Victory Flags and Orbs!
 ID_ME_BO_SPLASH_BIONICBARRAGE,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Orbs</color> and <color=#fff568>Victory Flags</color> for the Royal Soldier!\n\n<color=#fff568>Featured Trait</color>:\nBionic Avenger\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
-ID_ME_NA_SPLASH_NEWRECRUITS,LIVE: New Recruits
-ID_ME_DE_SPLASH_NEWRECRUITS,Earn Victory Flags and Iso-8!
-ID_ME_BO_SPLASH_NEWRECRUITS,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Iso-8</color> and <color=#fff568>Victory Flags</color> for the Royal Soldier!\n\n<color=#fff568>Featured Trait</color>:\nNew Warriors\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
 ID_ME_NA_ANGELSARMY_TEASER,Coming Soon: Angel's Army
 ID_ME_DE_ANGELSARMY_TEASER,Earn Death Seed and Bionic Avenger Shards!
 ID_ME_BO_ANGELSARMY_TEASER,"Commander,\n\nBeckon the harbinger of death in the <color=#fff568>Angel's Army Milestone</color>. Earn valuable rewards including <color=#fff568>Death Seed and Bionic Avengers shards, Tech and Mutant Gear, and Stat Catalysts</color>! You'll also earn points in the month-long Royal Soldier Event by collecting Victory Flags and the Steel Dagger.\n\nGain progress in this <color=#fff568>3-day</color> event by collecting Reaper Orb Fragments from Campaign Nodes and earning Blitz Credits.\n\nEach Reaper Orb contains Death Seed, Bionic Avengers, Wakandans, Minions, Non-Legendary Mutants, and Training Materials.\n\nGood luck, Commander!"
@@ -7145,6 +7142,9 @@ ID_ME_BO_STRIKEPASS42_ANNOUNCE,"Commander,\n\n<color=#fff568>S.T.R.I.K.E. Pass: 
 ID_ME_NA_STRIKEPASS42_ENDING,Ending: S.T.R.I.K.E. Pass
 ID_ME_DE_STRIKEPASS42_ENDING,Don't miss Ghost Rider (Robbie) shards!
 ID_ME_BO_STRIKEPASS42_ENDING,"Commander,\n\nYou only have <color=#fff568>2 days</color> remaining to earn <color=#fff568>Ghost Rider (Robbie)</color> shards in Season 42 of S.T.R.I.K.E. Pass.\n\nHurry and complete your Daily Objectives before these rewards are gone!"
+ID_ME_NA_DIAMONDS_ANNOUNCE,Introducing: Diamonds!
+ID_ME_DE_DIAMONDS_ANNOUNCE,Infuse more power into your roster
+ID_ME_BO_DIAMONDS_ANNOUNCE,"Commander,\n\nInfuse more power into your roster with <color=#fff568>Diamonds</color>!\n\n<color=#fff568>The Power of Diamonds</color>\nDiamonds grant characters stat bonuses after they've reached 7 Red Stars - starting at 1 Diamond and currently maxing out at 3 Diamonds.\n\nAfter a character has been promoted to 7 Red Stars and 7 Yellow Stars, they'll be eligible for promotion to Diamond Level 1. Diamonds are available for all characters, including Legendary and Horsemen.\n\n<color=#fff568>Acquiring Diamonds</color>\nAt launch, Diamonds can be earned by conquering the new roster-challenging <color=#fff568>S.W.O.R.D. Satellite</color> event. You'll then be able to consistently earn Diamonds or Diamond currency from <color=#fff568>Battle Pass</color>, the <color=#fff568>Diamond Orb</color>, the <color=#fff568>Diamond Dawn Orb</color>, <color=#fff568>Cosmic Crucible</color>, events, and more. You can also promote characters one Diamond higher than their current rank using <color=#fff568>Diamond Credit</color> currency in the Supplies section.\n\n<color=#fff568>Diamond Orbs</color>\nThe Diamond Orb guarantees 20 Silver Diamond Credits per open while the Diamond Dawn Orb guarantees 8. Both orbs contain non-minion characters that don't require Dark Promotion Credits for Red Stars and can be found in the Orb section of the Main Store.\n\n<color=#fff568>Diamond Credits</color>\nSilver Diamond Credits and Dark Diamond Credits can be acquired through various game modes, and are used in the Elite Store. Dark Diamond Credits are needed for any character that requires Dark Promotion Credits for Red Star promotions.\n\nStart powering up your roster with Diamonds!"
 ID_ME_NA_740PATCHNOTES_TEASER,Update Coming Soon
 ID_ME_DE_740PATCHNOTES_TEASER,Prepare yourself
 ID_ME_BO_740PATCHNOTES_TEASER,"Commander,\n\nA new MARVEL Strike Force update is coming soon, including:\n\n- New playable characters\n- Character updates\n- A New Costume\n- Additional Hard Campaign Chapters\n- And more...\n\nGet ready for these and other changes coming soon!"
@@ -7474,9 +7474,52 @@ ID_ME_NA_UNKILLABLEFORCE_ANNOUNCE,LIVE: Unkillable Force
 ID_ME_NA_UNKILLABLEFORCE_ENDING,ENDING: Unkillable Force
 ID_ME_DE_UNKILLABLEFORCE_ENDING,Don't miss out on Juggernaut (Zombie) Shards and Teal Bio Gear
 ID_ME_BO_UNKILLABLEFORCE_ENDING,"Commander,\n\nThe Unkillable Force Event <color=#fff568>ends soon</color>. Continue earning Juggernaut (Zombie) Shards and Teal Bio Gear!\n\nGood luck, Commander!"
+ID_ME_NA_BUILTINTHELAB_ANNOUNCE,LIVE: Built in the Lab
+ID_ME_DE_BUILTINTHELAB_ANNOUNCE,Earn Iso-8 Ions and Reverse-Engineer progress!
+ID_ME_BO_BUILTINTHELAB_ANNOUNCE,"Commander\n\n<color=#fff568>Built in the Lab Milestone</color>\nGain progress in this <color=#fff568>5-day</color> event by spending Iso-8 Campaign Energy and earning Allied Supply II Orb fragments from daily Free Claims and the Alliance Donations. Earn incredible rewards including <color=#fff568>T2 Level 5 Ion Orbs, T2 Level 4 and 5 Ions, and Armory 16, 17, and 18 Orbs</color>. T2 Level 5 Ion Orbs contain up to 5,000,000 T2 Level 5 Ions! You'll also earn points towards the month-long Reverse-Engineer milestone by collecting Vibranium Slabs.\n\nGood luck, Commander!"
+ID_ME_NA_BUILTINTHELAB_ENDING,ENDING: Built in the Lab
+ID_ME_DE_BUILTINTHELAB_ENDING,Don't miss out on valuable Iso-8 Rewards!
+ID_ME_BO_BUILTINTHELAB_ENDING,"Commander,\n\nThe Built in the Lab Event <color=#fff568>ends soon</color>. Continue earning Ions and progress towards the Reverse-Engineer Event with Vibranium Slabs before the event ends!\n\nGood luck, Commander!"
+ID_ME_NA_REVERSEENGINEER_TEASER,Coming Soon: Reverse-Engineer
+ID_ME_DE_REVERSEENGINEER_TEASER,Earn Ironheart (MKII) shards & Teal gear!
+ID_ME_BO_REVERSEENGINEER_TEASER,"Commander,\n\nTransform your roster with the upcoming <color=#fff568>Reverse-Engineer</color> Event!\n\nParticipate in select November events to recruit <color=#fff568>Ironheart (MKII)</color> and earn spectacular rewards:\n\n- Ironheart (MKII) shards\n- Fully Crafted Gear Tier 17 Gear\n- Armory 15, 16, and 17 Orbs\n- Gold Orbs\n- Orange Elite Orbs\n- T3 and T2 Ability Orbs\n\nMore details are on the way, so be on the lookout!"
+ID_ME_NA_REVERSEENGINEER_ANNOUNCE,LIVE: Reverse-Engineer
+ID_ME_DE_REVERSEENGINEER_ANNOUNCE,Recruit Ironheart (MKII) with November Events
+ID_ME_BO_REVERSEENGINEER_ANNOUNCE,"Commander,\n\nRecruit <color=#fff568>Ironheart (MKII)</color> and create a spectacular roster by participating in November events:\n\n<color=#fff568>Events</color>\nThroughout the month of November there will be separate milestone events that earn points toward the Reverse-Engineer Event. The first is live now!\n\n<color=#fff568>Points</color>\nEarn points by collecting <color=#fff568>Vibranium Slabs</color>, <color=#fff568>Stark Grant Check</color>, <color=#fff568>Wireframe Blueprint</color>, <color=#fff568>Jet Engine Parts</color>, <color=#fff568>Arc Reactor MKII</color>, and <color=#fff568>Indestructible Paint</color> from November events. You can find more Vibranium Slabs in Daily Free Claims on our website.\n\n<color=#fff568>Rewards</color>\nEarn Ironheart (MKII) shards, Fully Crafted Gear Tier 17 Gear, Gold Orbs, and more!\n\n<color=#fff568>Leaderboard</color>\nCompete on the Leaderboard for exclusive rewards. Players reaching the top 1% rank will earn exclusive <color=#fff568>T2 Level 5 Ions</color> and Armory 17 Orb Fragments, while other competitors can earn T2 Level 4 Ions, Gold Orb Fragments and Teal Raid Orbs!\n\nGood luck, Commander!"
+ID_ME_NA_REVERSEENGINEER_ENDING,Ending Soon: Reverse-Engineer
+ID_ME_DE_REVERSEENGINEER_ENDING,3 days left to recruit Ironheart (MKII)!
+ID_ME_BO_REVERSEENGINEER_ENDING,"Commander,\n\nThe <color=#fff568>Reverse-Engineer</color> Event ends in <color=#fff568>3 days</color>. Continue earning progress toward the milestone and recruit Ironheart (MKII) before it's too late!\n\nGood luck, Commander!"
+ID_ME_NA_PATENTPENDING_TEASER,Coming Soon: Patent Pending
+ID_ME_DE_PATENTPENDING_CORE,Earn Bio Gear and Reverse-Engineer Progress
+ID_ME_BO_PATENTPENDING_CORE,"Commander,\n\nEarn Bio Gear and Reverse-Engineer Progress!\n\n<color=#fff568>Patent Pending Milestone</color>\nGain progress in this <color=#fff568>4-day</color> event by spending Campaign Energy, using Kraven the Hunter in Cosmic Crucible and the Eureka Moment Web Milestone. The worthiest competitors have a chance to receive Vibranium Slabs for Reverse-Engineer progress, Gear Tier 18 Mini-Uniques and Elite 7 Credits.\n\n<color=#fff568>Daily Eureka Moment Web Milestone</color>\nDo Alliance Raid Battles to earn Vibranium Slabs for additional progress in the Reverse-Engineer Milestone as well as Gold and Elite 4 Credits.\n\nGood luck, Commander!"
+ID_ME_NA_PATENTPENDING_ANNOUNCE,LIVE: Patent Pending
+ID_ME_NA_PATENTPENDING_ENDING,Ending Soon: Patent Pending
+ID_ME_DE_PATENTPENDING_ENDING,Don't miss out on Dark Promotion Credits!
+ID_ME_BO_PATENTPENDING_ENDING,"Commander,\n\nThe <color=#fff568>Patent Pending Milestone</color> event <color=#fff568>ends soon</color>. Continue earning progress to earn <color=#fff568>Gear Tier 18 Mini-Uniques, Dark Promotion Credits, and Vibranium Slabs</color>! \n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_GOLDENTIMELINE_TEASER,Coming Soon: Golden Timeline
+ID_ME_DE_GOLDENTIMELINE_TEASER,A New Timeline is coming
+ID_ME_BO_GOLDENTIMELINE_TEASER,"Commander,\n\nBrighten up your roster with Kang the Conqueror's ""Golden"" Costume with the upcoming <color=#fff568>Golden Timeline</color> Milestone!\n\nFor a limited time, Gold Phase Bits will be available in the daily leaderboard for those who rank 25% and higher. Use those Gold Phase Bits to purchase Kang the Conqueror's ""Golden"" Costume.\n\nThis dimension opens soon, so be on the lookout!"
+ID_ME_NA_GOLDENTIMELINE_ANNOUNCE,Live: Golden Timeline
+ID_ME_DE_GOLDENTIMELINE_ANNOUNCE,Unlock the power of Gold
+ID_ME_BO_GOLDENTIMELINE_ANNOUNCE,"Commander,\n\nIntroducing: The <color=#fff568>Golden Timeline </color>Milestone\n\nFor a limited-time, this new <color=#fff568>daily</color> milestone <color=#fff568>replaces</color> the previous Golden Opportunity Milestone, and features Kang the Conqueror's ""Golden"" Costume.\n\nYou'll have 31 days to earn enough <color=#fbd303>Gold Phase Bits</color> to purchase Kang the Conqueror's ""Golden"" Costume!\n\n<color=#fff568>How To Earn Gold Phase Bits:</color>\nScore 6,000,000 Points in the Golden Timeline Milestone to unlock access to Rank Rewards. Ranks 25% and higher will contain <color=#fbd303>Gold Phase Bits</color>. You will need 40,000 Gold Phase Bits to purchase Kang the Conqueror's ""Golden"" Costume\n\nStart earning these rewards today by spending Gold!"
+ID_ME_NA_GOLDENTIMELINE_ENDING,Ending: Golden Timeline
+ID_ME_DE_GOLDENTIMELINE_ENDING,Timeline is closing
+ID_ME_BO_GOLDENTIMELINE_ENDING,"Time is running out on the <color=#fff568>Golden Timeline</color> Milestone.\n\nClimb the leaderboard daily to earn Gold Phase Bits. Use Golden Phase Bits to purchse the ""Golden"" Costume for Kang the Conqueror in the Supplies Section of the Costume Store or in Kang the Conqueror's Character Page.\n\nGood Luck, Commander!"
 ID_ME_NA_COSMO_FOUNTAIN_UPDATE,Recruit Cosmo
 ID_ME_DE_COSMO_FOUNTAIN_UPDATE,Availability Update
 ID_ME_BO_COSMO_FOUNTAIN_UPDATE,"Commander,\n\n<color=#fff568>Cosmo</color> character shards are now available in the <color=#fff568>Cosmic Crucible Store</color> for <color=#fff568>Elite Cosmic Crucible Credits</color>.\n\nHead over and power up the <color=#fff568>Goodest Girl</color> to support the Knowhere War team!"
+ID_ME_NA_SPLASH_RAISETHESHIELD,LIVE: Raise the Shield
+ID_ME_DE_SPLASH_RAISETHESHIELD,Earn Vibranium Slabs and Iso-8!
+ID_ME_BO_SPLASH_RAISETHESHIELD,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Iso-8</color> and <color=#fff568>Vibranium Slabs</color> for the Reverse-Engineer!\n\n<color=#fff568>Featured Trait</color>:\nS.H.I.E.L.D.\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_NEWRECRUITS,LIVE: New Recruits
+ID_ME_DE_SPLASH_NEWRECRUITS,Earn Vibranium Slabs and Gear!
+ID_ME_BO_SPLASH_NEWRECRUITS,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Gear</color> and <color=#fff568>Vibranium Slabs</color> for the Reverse-Engineer!\n\n<color=#fff568>Featured Trait</color>:\nNew Avenger\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_SHADOWHEROICS,LIVE: Shadow Heroics
+ID_ME_DE_SPLASH_SHADOWHEROICS,Earn Vibranium Slabs and Ability Materials!
+ID_ME_BO_SPLASH_SHADOWHEROICS,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Ability Materials</color> and <color=#fff568>Vibranium Slabs</color> for the Reverse-Engineer!\n\n<color=#fff568>Featured Trait</color>:\nSecret Defenders\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_MEANDTHEBOYS,LIVE: Me and the Boys
+ID_ME_DE_SPLASH_MEANDTHEBOYS,Earn Vibranium Slabs and Orbs!
+ID_ME_BO_SPLASH_MEANDTHEBOYS,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Orbs</color> and <color=#fff568>Vibranium Slabs</color> for the Reverse-Engineer!\n\n<color=#fff568>Featured Trait</color>:\nSinister Six\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
 ID_ME_NA_HW23_EVENT_TEASER,Coming Soon: Unstoppable Undead
 ID_ME_DE_HW23_EVENT_TEASER,Recruit Juggernaut (Zombie)!
 ID_ME_BO_HW23_EVENT_TEASER,"Commander,\n\nA second zombie invasion is closing in on S.T.R.I.K.E. with the <color=#ffda21>Unstoppable Undead Event</color> and this year, a new undead ally can be recruited in <color=#ffda21>Juggernaut (Zombie)</color>. Along with offers in the Store, Unstoppable Undead will be your main source of Juggernaut (Zombie) shards.\n\nThis event will have three difficulties. \n\n- First, witness the true power of the Undying team's new member in the <color=#ffda21>Story</color> Difficulty. \n\n- Then, battle in the <color=#ffda21>Challenge</color> Difficulty to earn <color=#ffda21>Viral Orbs</color> containing shards for <color=#ffda21>Juggernaut (Zombie)</color> and Iron Man (Zombie), and more. \n\n- Finally, head to the <color=#ffda21>Bonus</color> Difficulty for gigantic rewards based on your Juggernaut (Zombie) Yellow Star Level. Rewards include <color=#ffda21>2,600 Dark Promotion Credits, 132 Gear Tier 18 Mini-Uniques, 7 million Gold</color>, and more!\n\nTake advantage of every opportunity to increase your Juggernaut (Zombie) shard intake in order to maximize your event rewards.\n\nGood luck, Commander!"
@@ -7489,15 +7532,6 @@ ID_ME_BO_HW23_EVENT_REMINDER,"Commander,\nThe Unstoppable Undead Event will end 
 ID_ME_NA_HW23_EVENT_ENDINGSOON,Ending Soon: Unstoppable Undead
 ID_ME_DE_HW23_EVENT_ENDINGSOON,Earn Juggernaut (Zombie) shards before it's too late!
 ID_ME_BO_HW23_EVENT_ENDINGSOON,"Commander,\nThe Unstoppable Undead Event will end in 2 days. Shortly after, <color=#ffda21>Juggernaut (Zombie) shards will remain six feet under for the remainder of 2023</color>. Don't hold back during this limited-time opportunity to recruit and power up Juggernaut (Zombie).\n\nGood luck, Commander!\n"
-ID_ME_NA_GENERIC_UPDATE_TEASER,Update Coming Soon
-ID_ME_DE_GENERIC_UPDATE_TEASER,Prepare yourself
-ID_ME_BO_GENERIC_UPDATE_TEASER,"Commander,\n\nA new MARVEL Strike Force update is coming soon, including:\n\n- New Content\n- Improvements\n- And more...\n\nKeep an eye out for a message alerting when the game will undergo maintenance. During the downtime, you can stay posted on the update on our website."
-ID_ME_NA_HW23_POLL_LIVE,"Social Poll: Trick or Treat! "
-ID_ME_DE_HW23_POLL_LIVE,Iron Man (Zombie) vs Vahl Social Poll
-ID_ME_BO_HW23_POLL_LIVE,"Choose between Iron Man (Zombie) and Vahl on our official Facebook Trick or Treat poll! When the poll ends, check your inbox for character shards of the winner and more seasonal rewards just in time for the arrival of Juggernaut (Zombie)."
-ID_ME_NA_HW23_POLL_LASTCHANCE,Last Chance: Trick or Treat!
-ID_ME_DE_HW23_POLL_LASTCHANCE,Your last day to vote for player rewards!
-ID_ME_BO_HW23_POLL_LASTCHANCE,"The vote between Iron Man (Zombie) and Vahl on our official Trick or Treat poll will close on October 31st at 12:00AM! \n\nThis is your last chance to share your voice before the poll ends. Once the winner is confirmed, check your inbox for that Character's shards and other seasonal rewards just in time for the arrival of Juggernaut (Zombie)."
 ID_ME_NA_BATTLEPASS_SEASON7_ANNOUNCE,Battle Pass: Season 7
 ID_ME_DE_BATTLEPASS_SEASON7_ANNOUNCE,Earn Photon shards & Teal gear!
 ID_ME_BO_BATTLEPASS_SEASON7_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle pass: Season 7 is LIVE</color>!\n\nComplete this Season's Daily and Weekly Objectives to win these <color=#fff568>Featured Prizes</color>:\n- Sylvie character shards\n- Teal Gear\n\nUpgrade to the <color=#fff568>Premium Pass</color> to earn even more rewards.\n\nCharge into Battle Pass: Season 7 today!"
@@ -7510,6 +7544,18 @@ ID_ME_BO_STRIKEPASS46_ANNOUNCE,"Commander,\n\n<color=#fff568>S.T.R.I.K.E. Pass: 
 ID_ME_NA_STRIKEPASS46_ENDING,Ending: S.T.R.I.K.E. Pass
 ID_ME_DE_STRIKEPASS46_ENDING,"Don't miss Ronin, Mockingbird and Tigra shards!"
 ID_ME_BO_STRIKEPASS46_ENDING,"Commander,\n\nYou only have <color=#fff568>2 days</color> remaining to earn <color=#fff568>Ronin, Mockingbird and Tigra</color> shards in Season 46 of S.T.R.I.K.E. Pass.\n\nHurry and complete your Daily Objectives before these rewards are gone!"
+ID_ME_NA_GENERIC_UPDATE_TEASER,Update Coming Soon
+ID_ME_DE_GENERIC_UPDATE_TEASER,Prepare yourself
+ID_ME_BO_GENERIC_UPDATE_TEASER,"Commander,\n\nA new MARVEL Strike Force update is coming soon, including:\n\n- New Content\n- Improvements\n- And more...\n\nKeep an eye out for a message alerting when the game will undergo maintenance. During the downtime, you can stay posted on the update on our website."
+ID_ME_NA_750PATCHNOTES_ANNOUNCE,The Latest Update has Arrived!
+ID_ME_DE_750PATCHNOTES_ANNOUNCE,7.5.0 Release Notes
+ID_ME_BO_750PATCHNOTES_ANNOUNCE,"Commander,\n\nSmash and grab Cosmic Crucible wins with the upcoming Legendary Green Goblin (Classic) and the Superior Six!\n\nNew over the course of this release:\n- New playable characters: Green Goblin (Classic), Kraven the Hunter, Lizard, and Spider-Slayer\n- Ability and Stat Improvements for: Doctor Octopus, Rhino, Shocker, Vulture, Mysterio, and Electro\n- New Costumes: Captain Marvel's ""The Marvels"", Photon's ""The Marvels"", Dormammu's ""Golden""\n- And more!\n\nAccess the full briefing on the MARVEL Strike Force website."
+ID_ME_NA_HW23_POLL_LIVE,"Social Poll: Trick or Treat! "
+ID_ME_DE_HW23_POLL_LIVE,Iron Man (Zombie) vs Vahl Social Poll
+ID_ME_BO_HW23_POLL_LIVE,"Choose between Iron Man (Zombie) and Vahl on our official Facebook Trick or Treat poll! When the poll ends, check your inbox for character shards of the winner and more seasonal rewards just in time for the arrival of Juggernaut (Zombie)."
+ID_ME_NA_HW23_POLL_LASTCHANCE,Last Chance: Trick or Treat!
+ID_ME_DE_HW23_POLL_LASTCHANCE,Your last day to vote for player rewards!
+ID_ME_BO_HW23_POLL_LASTCHANCE,"The vote between Iron Man (Zombie) and Vahl on our official Trick or Treat poll will close on October 31st at 12:00AM! \n\nThis is your last chance to share your voice before the poll ends. Once the winner is confirmed, check your inbox for that Character's shards and other seasonal rewards just in time for the arrival of Juggernaut (Zombie)."
 ID_ME_NA_ZOMBIEJUGGERNAUT_TEASER,Coming Soon: Juggernaut (Zombie)
 ID_ME_DE_ZOMBIEJUGGERNAUT_TEASER,Unstoppable Undead
 ID_ME_BO_ZOMBIEJUGGERNAUT_TEASER,"Commander,\n\n<color=#fff568>Juggernaut (Zombie)</color> charging toward the battlefield! Chew through enemies with this undead Protector:\n\n<color=#fff568>Ability Highlights</color>\nSpread Bleed while flipping Taunt and Immunity on enemies! Juggernaut (Zombie) cannot be stunned, Basic attack is Unavoidable and Ultimate attack cannot be blocked.\n\n\n<color=#fff568>Undying Bonuses</color>\nUndying allies gain additional Resistance. When any Undying ally is summoned or Revived, Juggernaut (Zombie) gains Charged.\n\n<color=#fff568>War Bonuses</color>\nGains Charged on Spawn and gains Drain per Charged he possesses. If his Health is greater than or equal to 50%, lower enemy Resistance by 75% and enemies can't gain Speed Up. All Juggernaut (Zombie) attacks are Unavoidable and cannot be blocked.\n\nBe on the lookout for details on how to earn their character shards!"
@@ -7531,3 +7577,22 @@ ID_ME_BO_HW23_POLLWINNER_ZIM,"Commander,\n\nThe Trick or Treat Social Poll on th
 ID_ME_NA_HW23_POLLWINNER_VAHL,Trick or Treat Social Poll Winner
 ID_ME_DE_HW23_POLLWINNER_VAHL,The community has spoken!
 ID_ME_BO_HW23_POLLWINNER_VAHL,"Commander,\n\nThe Trick or Treat Social Poll on the <color=#fff568>MARVEL Strike Force Facebook</color> page has concluded, and the winner is...\n\n<color=#fff568>Vahl</color>\n\nClaim your Vahl shards below and continue celebrating spooky season by recruiting Juggernaut (Zombie) from the <color=#fff568>Unstoppable Undead event</color>!"
+ID_ME_NA_SWORDSATELLITE_TEASER,Coming Soon: S.W.O.R.D. Satellite
+ID_ME_DE_SWORDSATELLITE_TEASER,Earn exclusive Diamond Dawn Orbs!
+ID_ME_BO_SWORDSATELLITE_TEASER,"Commander,\n\nIn just a few days you'll be able to challenge your strongest teams in the <color=#ffda21>S.W.O.R.D. Satellite</color>. \n\nTraverse the Satellite's 40 floors, with boss challenges every 5 floors. Complete as many floors as possible to unlock milestones and compete for leaderboard rewards, which include <color=#fff568>Diamond Dawn Orbs, Teal Epic Orbs</color>, Teal Elite Orbs, and more.\n\nPrepare your roster, Commander!\n"
+ID_ME_NA_SWORDSATELLITE_LIVE,LIVE: S.W.O.R.D. Satellite
+ID_ME_DE_SWORDSATELLITE_LIVE,Earn exclusive Diamond Dawn Orbs!
+ID_ME_BO_SWORDSATELLITE_LIVE,"Commander,\n\nPower up your roster to traverse the <color=#ffda21>S.W.O.R.D. Satellite</color> and earn Diamond Dawn Orbs and more!\n\nClimb up to 40 floors. Every 5th floor has a boss that will challenge even your toughest teams, and each floor is even harder than the last.\n\nProgress as far as you can to unlock milestones and compete for leaderboard rewards, which include <color=#fff568>Diamond Dawn Orbs, Teal Epic Orbs</color>, Teal Elite Orbs, and more.\n\nTake on the Satellite now!\n"
+ID_ME_NA_SWORDSATELLITE_ENDING,Ending Soon: S.W.O.R.D. Satellite
+ID_ME_DE_SWORDSATELLITE_ENDING,Earn Diamond Dawn Orbs before it's too late!
+ID_ME_BO_SWORDSATELLITE_ENDING,"Commander,\n\nThe S.W.O.R.D. Satellite Event ends in 2 days. Continue earning rewards before it ends!\n\nGood luck, Commander!"
+ID_ME_NA_WAKANDANWARRIORS_ANNOUNCE,LIVE: Wakandan Warriors
+ID_ME_DE_WAKANDANWARRIORS_ANNOUNCE,Battle in Cosmic Crucible for Training Modules!
+ID_ME_BO_WAKANDANWARRIORS_ANNOUNCE,"Commander,\n\nCollaborate with your alliance and battle in Cosmic Crucible in this 3-day milestone to earn Training Modules and Reverse-Engineer progress.\n\nGood luck, Commander!"
+ID_ME_NA_BACKTOFORMULA_TEASER,Coming Soon: Back to Formula
+ID_ME_DE_BACKTOFORMULA_CORE,Prepare for Green Goblin Trials
+ID_ME_BO_BACKTOFORMULA_CORE,"Commander,\n\nPrepare for Green Goblin Trials\n\n<color=#fff568>Back to Formula Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by spending Power Cores and earning Got the Skills Orb Fragments earned from Campaign nodes and limited-time offers. Earn core rewards including <color=#fff568>Teal Mini-Uniques, Elite 7 Credits, and Wakandan character shards</color>. You'll also earn points towards the month-long Reverse-Engineer milestone by collecting Vibranium Slabs and the Wireframe Blueprint. Keep an eye out for Free Claims containing Got the Skills Orbs every day!\n\n<color=#fff568>Daily Ruthless Ambition Web Milestone</color>\nEarn War Credits to earn Vibranium Slabs for additional progress in the Reverse-Engineer Milestone.\n\nGood luck, Commander!"
+ID_ME_NA_BACKTOFORMULA_ANNOUNCE,LIVE: Back to Formula
+ID_ME_NA_BACKTOFORMULA_ENDING,ENDING: Back to Formula
+ID_ME_DE_BACKTOFORMULA_ENDING,Don't miss out on New Avenger shards!
+ID_ME_BO_BACKTOFORMULA_ENDING,"Commander,\n\nThe Back to Formula Event <color=#fff568>ends soon</color>. Continue earning Teal Bio Gear!\n\nGood luck, Commander!"

@@ -348,6 +348,8 @@ ID_ALLIANCE_CHAT_ACHIEVE_LOYALTY,{nameUser} has ranked up {charName} to 7 Stars!
 ID_ALLIANCE_CHAT_ACHIEVE_ABILITY,{nameUser} has upgraded the {abilityName} ability for {charName} to ability level {abilityLvl}!
 ID_ALLIANCE_CHAT_ACHIEVE_ISO_SKILL,{nameUser} has upgraded {treeId} for {charName} to {tierPhrase}!
 ID_ALLIANCE_CHAT_ISO_TIER,Tier {tier} Level {isoLvl}
+ID_ALLIANCE_CHAT_ACHIEVE_PURPLEDIAMOND_PROMOTE_SINGULAR,{nameUser} has promoted {charName} to {PurpleDiamondPromote} Diamond!
+ID_ALLIANCE_CHAT_ACHIEVE_PURPLEDIAMOND_PROMOTE_PLURAL,{nameUser} has promoted {charName} to {PurpleDiamondPromote} Diamonds!
 ID_AL_MB_NA_KICK,ALLIANCE KICK
 ID_AL_MB_DE_KICK,You have been kicked
 ID_AL_MB_BO_KICK,You have been kicked from your alliance.

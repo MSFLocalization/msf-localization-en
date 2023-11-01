@@ -670,7 +670,7 @@ ID_SUGGESTED_LEVEL_72,FOR <color=#fff568>LEVEL 72+</color>
 ID_SUGGESTED_LEVEL_73,FOR <color=#fff568>LEVEL 73+</color>
 ID_SUGGESTED_LEVEL_74,FOR <color=#fff568>LEVEL 74+</color>
 ID_SUGGESTED_LEVEL_75,FOR <color=#fff568>LEVEL 75+</color>
-ID_MAINTENANCE_TOASTER_SCHEDULED,We will undergo maintenance starting at 12:00 PM (PDT) (11/1).
+ID_MAINTENANCE_TOASTER_SCHEDULED,We will undergo maintenance starting at 11AM (PST) (02/19).
 ID_MAINTENANCE_TOASTER_EMERGENCY,We will be undergoing emergency maintenance shortly.
 ID_MAINTENANCE_TOASTER_EVENT01,We will be undergoing maintenance shortly.
 ID_MAINTENANCE_TOASTER_EVENT02,Update available. Get the latest app version now.
@@ -1233,6 +1233,8 @@ ID_REQUIRES_WEBWARRIORS,Only <color=#fff568>Web-Warriors</color>
 ID_REQUIRES_SYBMIOTES_MILES,Only <color=#fff568>Symbiotes</color> and <color=#fff568>Spider-Man (Miles)</color>
 ID_REQUIRES_SINISTER6_MILES,Only <color=#fff568>Sinister Six</color> and <color=#fff568>Spider-Man (Miles)</color>
 ID_REQUIRES_TANGLEDWEB_MILES,Only <color=#fff568>Tangled Web</color> and<color=#fff568>Spider-Man (Miles)</color>
+ID_REQUIRES_MSMARVELS,Only <color=#fff568>Ms. Marvel</color> or <color=#fff568>Ms. Marvel (Hard Light)</color>
+ID_REQUIRES_MSMARVELS_CAPTAINMARVEL,Only <color=#fff568>Captain Marvel</color> and <color=#fff568>Ms. Marvel</color> or <color=#fff568>Ms. Marvel (Hard Light)</color>
 ID_ONLY_BIFROST_NEWWARRIOR,ONLY <color=#fff568>BIFROST</color> or <color=#fff568>NEW WARRIOR</color>
 ID_REQUIRES_BIFROST_NEWWARRIOR,ONLY <color=#fff568>BIFROST</color> or <color=#fff568>NEW WARRIOR</color>\nREQUIRES: <color=#fff568>VAHL</color> AT GEAR TIER 13
 ID_REQUIRES_BIFROST_NEWWARRIOR_BRB,"ONLY <color=#fff568>BIFROST</color> or <color=#fff568>NEW WARRIOR</color>\nREQUIRES: <color=#fff568>VAHL</color>, <color=#fff568>LOKI (TEEN)</color>, <color=#fff568>BETA RAY BILL</color> AT GEAR TIER 13"
@@ -1270,3 +1272,6 @@ ID_REQUIRES_EC_ZJUGG_YS4,<color=#fff568>4+ STAR</color> JUGGERNAUT (ZOMBIE) REQU
 ID_REQUIRES_EC_ZJUGG_YS5,<color=#fff568>5+ STAR</color> JUGGERNAUT (ZOMBIE) REQUIRED
 ID_REQUIRES_EC_ZJUGG_YS6,<color=#fff568>6+ STAR</color> JUGGERNAUT (ZOMBIE) REQUIRED
 ID_REQUIRES_EC_ZJUGG_YS7,<color=#fff568>7 STAR</color> JUGGERNAUT (ZOMBIE) REQUIRED
+ID_UI_ONLY_INVADERS,ONLY <color=#fff568>INVADERS</color> CHARACTERS
+ID_REQUIRES_INVADERS,ONLY <color=#fff568>INVADERS</color> CHARACTERS
+ID_REQUIRES_INVADERS_KRAVEN,ONLY <color=#fff568>INVADERS</color> and <color=#fff568>KRAVEN THE HUNTER</color> at Gear Tier 13

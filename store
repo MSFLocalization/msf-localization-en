@@ -261,6 +261,14 @@ ID_GACHA_M_CRATE_PROMOTION_ADVANCED_7_NAME,Elite 7 Star Orb
 ID_GACHA_M_CRATE_PROMOTION_ADVANCED_7_DESCRIPTION,Guarantees 7-Red Star Promotion
 ID_GACHA_M_CRATE_PROMOTION_ADVANCED_7_TOKEN_NAME,Elite 7 Star Orb Fragments
 ID_GACHA_M_CRATE_PROMOTION_ADVANCED_7_TOKEN_DESCRIPTION,Collect Elite 7 Credits to buy the Elite 7 Orb
+ID_GACHA_CRATE_DIAMOND_BASIC_NAME,Diamond Orb
+ID_GACHA_CRATE_DIAMOND_BASIC_DESCRIPTION,Get Diamond promotions to boost your characters' stats
+ID_GACHA_CRATE_DIAMOND_BASIC_TOKEN_NAME,Diamond Orb Fragments
+ID_GACHA_CRATE_DIAMOND_BASIC_TOKEN_DESCRIPTION,Collect Diamond Orb Fragments to earn a Diamond Orb
+ID_GACHA_CRATE_DIAMOND_LAUNCH_NAME,Diamond Dawn Orb
+ID_GACHA_CRATE_DIAMOND_LAUNCH_DESCRIPTION,Embrace the power of Diamonds with this limited-time Orb
+ID_GACHA_CRATE_DIAMOND_LAUNCH_TOKEN_NAME,Diamond Dawn Orb Fragments
+ID_GACHA_CRATE_DIAMOND_LAUNCH_TOKEN_DESCRIPTION,Collect Diamond Dawn Orb Fragments to earn a Diamond Dawn Orb
 ID_GACHA_M_CRATE_DD3_REWARD_NAME,Valiant Red Star Orb
 ID_GACHA_M_CRATE_DD3_REWARD_DESCRIPTION,Get a guaranteed 7 Red Star for the strongest characters!
 ID_GACHA_M_CRATE_DD3_REWARD_TOKEN_NAME,Valiant Red Star Orb Fragments
@@ -269,12 +277,18 @@ ID_GACHA_M_CRATE_TOKEN_NAME,Silver Promotion Credit
 ID_GACHA_M_CRATE_TOKEN_DESCRIPTION,Used to promote specific characters up to 5 Red Stars
 ID_GACHA_M_CRATE_TOKEN_5_NAME,5 Silver Promotion Credits
 ID_GACHA_M_CRATE_TOKEN_5_DESCRIPTION,Used to promote specific characters up to 5 Red Stars
+ID_GACHA_M_CRATE_TOKEN_10_NAME,10 Silver Promotion Credits
+ID_GACHA_M_CRATE_TOKEN_10_DESCRIPTION,Used to promote specific characters up to 5 Red Stars
 ID_GACHA_M_CRATE_TOKEN_50_NAME,50 Promotion Credits
 ID_GACHA_M_CRATE_TOKEN_50_DESCRIPTION,Used to promote specific characters up to 5 Red Stars
 ID_GACHA_M_CRATE_TOKEN_ADVANCED_NAME,Gold Promotion Credit
 ID_GACHA_M_CRATE_TOKEN_ADVANCED_DESCRIPTION,Used to promote specific characters to 6 & 7 Red Stars
 ID_GACHA_M_CRATE_TOKEN_ADVANCED_20_NAME,20 Gold Promotion Credits
 ID_GACHA_M_CRATE_TOKEN_ADVANCED_20_DESCRIPTION,Used to promote specific characters to 6 & 7 Red Stars
+ID_GACHA_M_CRATE_TOKEN_ADVANCED_25_NAME,25 Gold Promotion Credits
+ID_GACHA_M_CRATE_TOKEN_ADVANCED_25_DESCRIPTION,Used to promote specific characters to 6 & 7 Red Stars
+ID_GACHA_M_CRATE_TOKEN_DIAMOND_5_NAME,5 Silver Diamond Credits
+ID_GACHA_M_CRATE_TOKEN_DIAMOND_5_DESCRIPTION,Used to promote specific characters up to 3 Diamonds
 ID_GACHA_CRATE_RAID_BLUE_GEARMATS_NAME,Blue Gear Raid Orb
 ID_GACHA_CRATE_RAID_BLUE_GEARMATS_DESCRIPTION,Contains blue gear and blue gear materials
 ID_GACHA_CRATE_RAID_BLUE_GEARMATS_TOKEN_DESCRIPTION,Collect Blue Gear Raid Orb Fragments to earn a Blue Gear Raid Orb.
@@ -780,9 +794,9 @@ ID_OF_DE_JUGGERNAUT_ENERGY_OFFER_1,Save on <color=#fff568>Unstoppable Energy</co
 ID_OF_NA_MORB_JUGGERNAUT_1,Juggernaut Orb Fragment Offer
 ID_OF_DE_MORB_JUGGERNAUT_500,Take advantage of this limited time deal and complete your orb! Get <color=#fff568>500 Juggernaut Orb Fragments</color> with this offer.
 ID_GACHA_CRATE_FCO_ZOMBIEJUGGERNAUT_SPECIAL_NAME,Deadhead Orb
-ID_GACHA_CRATE_FCO_ZOMBIEJUGGERNAUT_SPECIAL_DESCRIPTION,Earn up to 180 Juggernaut (Zombie) shards
+ID_GACHA_CRATE_FCO_ZOMBIEJUGGERNAUT_SPECIAL_DESCRIPTION,Earn up to 100 Juggernaut (Zombie) shards
 ID_GACHA_CRATE_FCO_ZOMBIEJUGGERNAUT_SPECIAL_TOKEN_NAME,Deadhead Orb Fragments
-ID_GACHA_CRATE_FCO_ZOMBIEJUGGERNAUT_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Deadhead Orbs that contain up to 180 Juggernaut (Zombie) shards.
+ID_GACHA_CRATE_FCO_ZOMBIEJUGGERNAUT_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Deadhead Orbs that contain up to 100 Juggernaut (Zombie) shards.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_MINERVA_201902_NAME,Starforce Orb
 ID_GACHA_CRATE_EVENT_CAMPAIGN_MINERVA_201902_DESCRIPTION,Earn Starforce Orb Fragments in the Kree Commandos Event Campaign.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_MINERVA_201902_TOKEN_NAME,Starforce Orb Fragments
@@ -2502,6 +2516,10 @@ ID_OF_DE_KORATH_OFFER_50,Grab <color=#fff568>50 Korath shards</color> and utiliz
 ID_OF_DE_KORATH_OFFER_70,Grab <color=#fff568>70 Korath shards</color> and utilize his taunt marking and heavy damage to take down single targets with deadly efficiency.
 ID_OF_DE_KORATH_OFFER_100,Grab <color=#fff568>100 Korath shards</color> and utilize his taunt marking and heavy damage to take down single targets with deadly efficiency.
 ID_OF_DE_KORATH_OFFER_150,Grab <color=#fff568>150 Korath shards</color> and utilize his taunt marking and heavy damage to take down single targets with deadly efficiency.
+ID_GACHA_CRATE_FCO_KRAVENTHEHUNTER_SPECIAL_NAME,Grim Hunter Orb
+ID_GACHA_CRATE_FCO_KRAVENTHEHUNTER_SPECIAL_DESCRIPTION,Earn up to 180 Kraven the Hunter shards
+ID_GACHA_CRATE_FCO_KRAVENTHEHUNTER_SPECIAL_TOKEN_NAME,Grim Hunter Orb Fragments
+ID_GACHA_CRATE_FCO_KRAVENTHEHUNTER_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Grim Hunter Orbs that contain up to 180 Kraven the Hunter shards.
 ID_GACHA_CRATE_FCO_KREE_SPECIAL_NAME,Kree Minion Orb
 ID_GACHA_CRATE_FCO_KREE_SPECIAL_DESCRIPTION,Get up to 180 Kree minion shards
 ID_GACHA_CRATE_FCO_KREE_SPECIAL_TOKEN_NAME,Kree Minion Orb Fragments
@@ -2529,6 +2547,10 @@ ID_GACHA_CRATE_FCO_LADYDEATHSTRIKE_SPECIAL_NAME,Tough as Nails Orb
 ID_GACHA_CRATE_FCO_LADYDEATHSTRIKE_SPECIAL_DESCRIPTION,Earn up to 180 Lady Deathstrike shards
 ID_GACHA_CRATE_FCO_LADYDEATHSTRIKE_SPECIAL_TOKEN_NAME,Tough as Nails Orb Fragments
 ID_GACHA_CRATE_FCO_LADYDEATHSTRIKE_SPECIAL_TOKEN_DESCRIPTION,Collect Tough as Nails Orb Fragments to earn a Tough as Nails Orb.
+ID_GACHA_CRATE_FCO_LIZARD_SPECIAL_NAME,Anthropomorphic Orb
+ID_GACHA_CRATE_FCO_LIZARD_SPECIAL_DESCRIPTION,Earn up to 180 Lizard shards
+ID_GACHA_CRATE_FCO_LIZARD_SPECIAL_TOKEN_NAME,Anthropomorphic Orb Fragments
+ID_GACHA_CRATE_FCO_LIZARD_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Anthropomorphic Orbs that contain up to 180 Lizard shards.
 ID_GACHA_CRATE_FCO_LOKI_SPECIAL_NAME,God of Mischief Orb
 ID_GACHA_CRATE_FCO_LOKI_SPECIAL_DESCRIPTION,Get up to 180 Loki shards
 ID_GACHA_CRATE_FCO_LOKI_SPECIAL_TOKEN_NAME,God of Mischief Orb Fragments
@@ -3573,6 +3595,10 @@ ID_GACHA_CRATE_FCO_SPIDERPUNK_SPECIAL_NAME,Rockin Arachnid Orb
 ID_GACHA_CRATE_FCO_SPIDERPUNK_SPECIAL_DESCRIPTION,Earn up to 180 Spider-Punk shards
 ID_GACHA_CRATE_FCO_SPIDERPUNK_SPECIAL_TOKEN_NAME,Rockin Arachnid Orb Fragments
 ID_GACHA_CRATE_FCO_SPIDERPUNK_SPECIAL_TOKEN_DESCRIPTION,Collect Rockin Arachnid Orb Fragments to earn a Rockin Arachnid Orb.
+ID_GACHA_CRATE_FCO_SPIDERSLAYER_SPECIAL_NAME,Exterminator Orb
+ID_GACHA_CRATE_FCO_SPIDERSLAYER_SPECIAL_DESCRIPTION,Earn up to 180 Spider-Slayer shards
+ID_GACHA_CRATE_FCO_SPIDERSLAYER_SPECIAL_TOKEN_NAME,Exterminator Orb Fragments
+ID_GACHA_CRATE_FCO_SPIDERSLAYER_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Exterminator Orbs that contain up to 180 Spider-Slayer shards.
 ID_GACHA_CRATE_FCO_SPIDERWEAVER_SPECIAL_NAME,Woven Destiny Orb
 ID_GACHA_CRATE_FCO_SPIDERWEAVER_SPECIAL_DESCRIPTION,Earn up to 180 Spider-Weaver shards
 ID_GACHA_CRATE_FCO_SPIDERWEAVER_SPECIAL_TOKEN_NAME,Woven Destiny Orb Fragments
@@ -8655,3 +8681,19 @@ ID_GACHA_CRATE_CELESTIALTALON_NAME,Celestial Talon Orb
 ID_GACHA_CRATE_CELESTIALTALON_DESCRIPTION,Earn Darkhawk Character Shards
 ID_GACHA_CRATE_CELESTIALTALON_TOKEN_NAME,Celestial Talon Orb Fragments
 ID_GACHA_CRATE_CELESTIALTALON_TOKEN_DESCRIPTION,Earn Celestial Talon Orb Fragments from winning Blitz battles to earn Darkhawk Shards
+ID_GACHA_CRATE_GOTTHESKILLS_NAME,Got the Skills Orb
+ID_GACHA_CRATE_GOTTHESKILLS_DESCRIPTION,Contains Rebirth and New Avenger shards
+ID_GACHA_CRATE_GOTTHESKILLS_TOKEN_NAME,Got the Skills Orb Fragments
+ID_GACHA_CRATE_GOTTHESKILLS_TOKEN_DESCRIPTION,Collect Got the Skills Orb Fragments from the Daily Web Claim and the Campaign Nodes. Each Orb contains New Avenger and Rebirth character shards.
+ID_FILTER_ALL,ALL
+ID_FILTER_CHARACTERS,CHARACTERS
+ID_FILTER_GOLD,GOLD
+ID_FILTER_TRAINING_MATS,TRAINING MATERIALS
+ID_FILTER_GEAR,GEAR
+ID_FILTER_ISO8,ISO-8
+ID_FILTER_CAMPAIGN_ENERGY,ENERGY
+ID_OCAT_GENERAL,GENERAL
+ID_OCAT_DUAL_OFFERS,DUAL OFFERS
+ID_OCAT_NEW_CHARACTERS,NEW CHARACTERS
+ID_OCAT_CHARACTER_UNLOCK,CHARACTER UNLOCK
+ID_OCAT_EVENTS,EVENTS
