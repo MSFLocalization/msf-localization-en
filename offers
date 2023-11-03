@@ -3087,6 +3087,8 @@ ID_OF_NA_FCR_TRAINING1,Unlock Special: Training Drill
 ID_OF_DE_FCR_TRAINING2,Pick up this special Training Module offer to level up your new character!
 ID_OF_NA_FCR_REDSTARS,Unlock Special: Red Star Rush
 ID_OF_DE_FCR_REDSTARS,Take advantage of the limited-time increased chance for Red Star promotions for your newest character with this bundle!
+ID_OF_NA_FCR_DIAMONDS,Unlock Special: Diamond Authority
+ID_OF_DE_FCR_DIAMONDS,More Diamonds means MORE POWER! Power up with this Diamond Bundle!
 ID_OF_NA_THUNDEROUSAPPLAUSE_DAILY_ENERGY,Daily Thunderous Energy Pack
 ID_OF_NA_THUNDEROUSAPPLAUSE_DAILY_WAR,Daily Thunderous War Pack
 ID_OF_NA_THUNDEROUSAPPLAUSE_DAILYFREE,Thunderous Applause Daily Gift
@@ -4682,3 +4684,65 @@ ID_OF_DE_SWORDSATELLITELAUNCH_GENERIC3,Celebrate the launch of <color=#ffda21>S.
 ID_OF_DE_SWORDSATELLITELAUNCH_TOPUP_SECRETDEFENDERS,"Power up your <color=#ffda21>Secret Defenders</color> team to defeat the strongest enemies in S.W.O.R.D. Satellite! Climb to the top to earn even more <color=#fff568>exclusive Diamond Dawn Orbs</color>, Teal Gear Orbs, and more!"
 ID_OF_DE_SWORDSATELLITELAUNCH_TOPUP_HORSEMEN,"Power up your <color=#ffda21>Horsemen</color> team to defeat the strongest enemies in S.W.O.R.D. Satellite! Climb to the top to earn even more <color=#fff568>exclusive Diamond Dawn Orbs</color>, Teal Gear Orbs, and more!"
 ID_OF_DE_SWORDSATELLITELAUNCH_TOPUP_SOLOS,"Power up these exceptional warriors to defeat the strongest enemies in S.W.O.R.D. Satellite! Climb to the top to earn even more <color=#fff568>exclusive Diamond Dawn Orbs</color>, Teal Gear Orbs, and more!"
+ID_OF_NA_KRAVENTHEHUNTER_FCO_OFFER,Trophy Hunter
+ID_OF_DE_KRAVENTHEHUNTER_FCO_OFFER,Each <color=#fff568>Grim Hunter Orb</color> contains <color=#fff568>up to 180 Kraven the Hunter</color> shards. Stalk your prey in the Cosmic Crucible with <color=#fff568>Superior Six</color> allies!
+ID_OF_DE_KRAVENTHEHUNTER_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Kraven the Hunter</color> and unlock one-time only release offers on your next visit! Stalk your prey in the Cosmic Crucible with <color=#fff568>Superior Six</color> allies!
+ID_OF_DE_KRAVENTHEHUNTER_OFFER_SHARD,Power up <color=#fff568>Kraven the Hunter</color> with this shard offer! Stalk your prey in the Cosmic Crucible with <color=#fff568>Superior Six</color> allies!
+ID_OF_STOREBAR_KRAVENTHEHUNTER,Dual Offer: Kraven the Hunter
+ID_OF_NA_DUAL_KRAVENTHEHUNTER,Dual Offer: Kraven the Hunter
+ID_OF_DE_DUAL_KRAVENTHEHUNTER,Choose your path to power up this <color=#fff568>Superior Six</color> member!
+ID_OF_DE_DUAL_UNLOCK_KRAVENTHEHUNTER,Unlock this <color=#fff568>Superior Six</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_SUPERIORSIX_TEAM_OFFER,Superior Six Team Bundle
+ID_OF_DE_SUPERIORSIX_TEAM_OFFER,Pounce on your prey in the Cosmic Crucible with <color=#fff568>Superior Six</color> team members!
+ID_OF_NA_VALOROUSVALUE_02_GEARDROP,Valorous Value: Gear Drop!
+ID_OF_NA_VALOROUSVALUE_02_COVERTPROMOTION,Valorous Value: Covert Promotion
+ID_OF_NA_VALOROUSVALUE_02_HONEDABILITY,Valorous Value: Honed Ability
+ID_OF_NA_VALOROUSVALUE_02_GOLDENGLORY,Valorous Value: Golden Glory
+ID_OF_NA_VALOROUSVALUE_02_SECONDWIND,Valorous Value: Second Wind
+ID_OF_NA_VALOROUSVALUE_02_BATTLEPLAN,Valorous Value: Battle Plan
+ID_OF_NA_VALOROUSVALUE_02_RANKUP,Valorous Value: Rank Up!
+ID_OF_NA_VALOROUSVALUE_02_INVADERS,Valorous Value: Invaders
+ID_OF_NA_VALOROUSVALUE_02_MORALEBOOST,Valorous Value: Morale Boost
+ID_OF_NA_VALOROUSVALUE_02_VAHLOROUS,Valorous Value: Vahl-orous!
+ID_OF_NA_VALOROUSVALUE_02_GOLDENCACHE,Valorous Value: Golden Cache
+ID_OF_NA_VALOROUSVALUE_02_NEWAVENGERS,Valorous Value: New Avengers
+ID_OF_NA_VALOROUSVALUE_02_WARRIORS,Valorous Value: Warriors
+ID_OF_NA_VALOROUSVALUE_02_TRAININGDRILL,Valorous Value: Training Drill
+ID_OF_NA_VALOROUSVALUE_02_SYMBIOTESOLDIER,Valorous Value: Symbiote Soldier
+ID_OF_NA_VALOROUSVALUE_02_PROMOTION,Valorous Value: Promotion!
+ID_OF_NA_VALOROUSVALUE_02_MERCPAYOUT,Valorous Value: Merc Payout
+ID_OF_NA_VALOROUSVALUE_02_CONQUEST,Valorous Value: Conqueror
+ID_OF_DE_VALOROUSVALUE_02_GEARDROP,Armor up your team with these <color=#ffda21>Armory 18 Orbs</color> that contain valuable <color=#ffda21>Gear Tier 18 Mini-Uniques</color> needed for Dark Dimension VI!
+ID_OF_DE_VALOROUSVALUE_02_COVERTPROMOTION,"Boost the Red Star Ranks of characters that need Dark Promotion Credits, like <color=#ffda21>Nova, Black Cat, Iron Man (Zombie), Juggernaut (Zombie)</color> and all the Horsemen!"
+ID_OF_DE_VALOROUSVALUE_02_HONEDABILITY,Secure these rare <color=#ffda21>Ability Materials</color> to sharpen your characters abilities to new levels!
+ID_OF_DE_VALOROUSVALUE_02_GOLDENGLORY,A bounty of <color=#ffda21>Gold</color> and <color=#ffda21>Promotion Credits</color> to take the power and Red Star Ranks of your roster to new heights!
+ID_OF_DE_VALOROUSVALUE_02_SECONDWIND,"Get a burst of energy to help you push through the <color=#ffda21>Incursion Campaign</color> and earn amazing rewards of Red Star Ranks, Dark Promotion Credits, and more!"
+ID_OF_DE_VALOROUSVALUE_02_BATTLEPLAN,Proper training and planning are needed to be successful on the battlefield! Pick up these <color=#ffda21>Training Modules</color> to prepare your roster for the next challenge.
+ID_OF_DE_VALOROUSVALUE_02_RANKUP,Increase the Red Star Ranks of your roster with this bundle of resources to help take on any threats to Nexus Earth!
+ID_OF_DE_VALOROUSVALUE_02_INVADERS,"Rank up Captain America (WWII), Iron Fist (WWII), Bucky Barnes, and Union Jack with shards and a chance to promote one of them to 7 Red Stars!"
+ID_OF_DE_VALOROUSVALUE_02_MORALEBOOST,"Unlock this calendar for daily boosts of <color=#ffda21>Incursion Energy</color> to increase your inflow of rewards of Red Star Ranks, Dark Promotion Credits, and more!"
+ID_OF_DE_VALOROUSVALUE_02_VAHLOROUS,"Strengthen this Primordial Asgardian and take on challenging Mystic Raid nodes with the Bifrost team! "
+ID_OF_DE_VALOROUSVALUE_02_GOLDENCACHE,Secure this overflowing cache of <color=#ffda21>Gold</color> and boost power of your roster to help overcome any challenge!
+ID_OF_DE_VALOROUSVALUE_02_NEWAVENGERS,Bolster these New Avengers and <color=#ffda21>crush War opponents</color> to help your Alliance earn even greater rewards!
+ID_OF_DE_VALOROUSVALUE_02_WARRIORS,Build up the latest recruits to the New Warriors to take on stronger opponents in Cosmic Crucible with these shards and Unique Gear!
+ID_OF_DE_VALOROUSVALUE_02_TRAININGDRILL,Grab the resources you need to run your roster through training drills and increase their level to take on new challenges!
+ID_OF_DE_VALOROUSVALUE_02_SYMBIOTESOLDIER,Give a boost of power to <color=#ffda21>Agent Venom</color> to help prepare your Rebirth team for upcoming Trials!
+ID_OF_DE_VALOROUSVALUE_02_PROMOTION,Increase the Red Star Ranks of your roster with this bundle of resources to help take on any threats to Nexus Earth!
+ID_OF_DE_VALOROUSVALUE_02_GOLD!,A boost of <color=#ffda21>Gold</color> to get your favorite character to the next level of power!
+ID_OF_DE_VALOROUSVALUE_02_CONQUEST,Embolden the Master of Time to subjugate more realms with these shards and <color=#ffda21>Unique Gear</color>!
+ID_OF_NA_CYBERSALE_2023_GT18,Cyber Sneak Peek: Suit Up!
+ID_OF_NA_CYBERSALE_2023_TEAL_BASIC_CATS,Cyber Sneak Peek: Not Basic
+ID_OF_NA_CYBERSALE_2023_GT17_MINI,Cyber Sneak Peek: Mini Mayhem
+ID_OF_NA_CYBERSALE_2023_GT16_MINI,Cyber Sneak Peek: Mini Madness
+ID_OF_DE_CYBERSALE_2023_GT18,Don't miss this opportunity to suit up to with Gear Tier 18. Each week leading to Cyber Monday will have a sneak peek at the best deals this year!
+ID_OF_DE_CYBERSALE_2023_TEAL_BASIC_CATS,Pick up this high value drop of Basic Catalysts to craft powerful gear! Check back each week leading to Cyber Monday for a new sneak peek!
+ID_OF_DE_CYBERSALE_2023_GT17_MINI,An amazing chance to suit up to Gear Tier 17! Each week leading to Cyber Monday will have a sneak peek at the best deals this year!
+ID_OF_DE_CYBERSALE_2023_GT16_MINI,A massive bundle of Mini-Uniques for Gear Tier 16! Check back each week leading to Cyber Monday for a new sneak peek!
+ID_OF_NA_BLACKFRIDAY_2023_KNOWHERE,Black Friday Peek: Knowhere!
+ID_OF_NA_BLACKFRIDAY_2023_SECRETS,Black Friday Peek: Secretive!
+ID_OF_NA_BLACKFRIDAY_2023_NEWCREW,Black Friday Peek: New Crew!
+ID_OF_NA_BLACKFRIDAY_2023_PEGASUS,Black Friday Peek: P.E.G.A.S.U.S.
+ID_OF_DE_BLACKFRIDAY_2023_KNOWHERE,"Empower Cosmo, Korg, Thor (InfinityWar), and Star-Lord (Annihilation) with shards and a chance to promote one of them to 6 Red Stars!"
+ID_OF_DE_BLACKFRIDAY_2023_SECRETS,"Rank up Ghost Rider (Robbie), Ms. Marvel (Hard Light), and Photon with shards and a chance to promote one of them to 6 Red Stars!"
+ID_OF_DE_BLACKFRIDAY_2023_NEWCREW,"Empower Tigra, Ronin, and Mockingbird with shards and a chance to promote one of them to 6 Red Stars!"
+ID_OF_DE_BLACKFRIDAY_2023_PEGASUS,"Rank up Iron Man (Infinity War), Darkhawk, and Ironheart (MKII) with shards and a chance to promote one of them to 6 Red Stars!"

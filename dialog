@@ -8646,6 +8646,88 @@ ID_DIALOG_TRIALS_BLACKCAT_10_END_5,They're gone. You're sure the fake you gave m
 ID_DIALOG_TRIALS_BLACKCAT_10_END_6,"Oh, Stephen and I have a loooong history. I know all his tricks."
 ID_DIALOG_TRIALS_BLACKCAT_10_END_7,"Enjoy the Empire Stone, Felicia Hardy. Just don't forget where you got it. Hahahaha!"
 ID_DIALOG_TRIALS_BLACKCAT_10_END_8,"Now... Let's see what kind of power the cat can drag in. "
+ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_0,A SECRET ROXXON FACILITY...
+ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_1,"I'm through the laser grid, and..."
+ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_2,"We're in. Welcome to Roxxon's secret weapons lab. "
+ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_3,"The boss wasn't kidding, Bobbi. These prototypes are way beyond what S.T.R.I.K.E.'s got. "
+ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_4,"Do they have a really big gun? I love a really big gun. "
+ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_5,If this stuff gets on the streets... We need to blow this place sky high before that happens.
+ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_6,"I'll set the charges. "
+ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_7,*INTRUDERS DETECTED. INITIATE HARD LIGHT HOLOGRAM DEFENSES*
+ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_8,"Uh, and we'll handle those. Work fast, Coulson. "
+ID_DIALOG_TRIALS_GREENGOBLIN_01_END_0,"I gotta tell you guys, beating up Holograms isn't half as satisfying as real bad guys. "
+ID_DIALOG_TRIALS_GREENGOBLIN_01_END_1,Plus they just keep getting up. What's the status of those explosives?
+ID_DIALOG_TRIALS_GREENGOBLIN_01_END_2,Ready to blow. Just needed to make sure my 'cool guy' sunglasses were on.
+ID_DIALOG_TRIALS_GREENGOBLIN_01_END_3,Seriously?
+ID_DIALOG_TRIALS_GREENGOBLIN_01_END_4,It's all about the details. Now let's go!
+ID_DIALOG_TRIALS_GREENGOBLIN_01_END_5,*BOOM!*
+ID_DIALOG_TRIALS_GREENGOBLIN_01_END_6,"Mockingbird to S.T.R.I.K.E. Mission accomplished, the Roxxon lab is rubble. "
+ID_DIALOG_TRIALS_GREENGOBLIN_01_END_7,"Great work, team. Now, return to S.T.R.I.K.E. Headquarters. I have a new mission for you."
+ID_DIALOG_TRIALS_GREENGOBLIN_01_END_8,"On our way, Director Osborn."
+ID_DIALOG_TRIALS_GREENGOBLIN_03_INTRO_0,Outstanding work destroying Roxxon. They'll never think to endanger the good people of the Nexus again.
+ID_DIALOG_TRIALS_GREENGOBLIN_03_INTRO_1,"I'm afraid you can't rest yet. Alechemax is developing a new formula of M.G.H. - Mutant Growth Hormone. "
+ID_DIALOG_TRIALS_GREENGOBLIN_03_INTRO_2,"Head to their lab and raze it to the ground. With prejudice. "
+ID_DIALOG_TRIALS_GREENGOBLIN_03_INTRO_3,We're on it.
+ID_DIALOG_TRIALS_GREENGOBLIN_03_INTRO_4,Clint... Does this feel right to you?
+ID_DIALOG_TRIALS_GREENGOBLIN_03_INTRO_5,"Taking down bad guys? It's basically the only time I DO feel right. "
+ID_DIALOG_TRIALS_GREENGOBLIN_03_INTRO_6,"Every time I talk to Director Osborn, I can't help but feel like something's... Off."
+ID_DIALOG_TRIALS_GREENGOBLIN_03_INTRO_7,"I mean, he's dressed like a goblin. But we're teammates with a pile of rocks and a Norse god. "
+ID_DIALOG_TRIALS_GREENGOBLIN_03_INTRO_8,"Probably just pre-mission jitters. Come on, Quinjet's leaving. "
+ID_DIALOG_TRIALS_GREENGOBLIN_03_END_0,"Touching down at Alchemax now, Boss. We'll update you when the mission is done. "
+ID_DIALOG_TRIALS_GREENGOBLIN_03_END_1,"See that you do. "
+ID_DIALOG_TRIALS_GREENGOBLIN_03_END_2,"S.T.R.I.K.E. under my control, the Avengers running my errands and taking out my competitors."
+ID_DIALOG_TRIALS_GREENGOBLIN_03_END_3,"I've made a lot of deals as the head of Oscorp, but this one..."
+ID_DIALOG_TRIALS_GREENGOBLIN_03_END_4,"The power I've always dreamed of, for one measly soul? "
+ID_DIALOG_TRIALS_GREENGOBLIN_03_END_5,"A bargain at twice the price, Mephisto."
+ID_DIALOG_TRIALS_GREENGOBLIN_03_END_6,"Always happy to see a satisfied customer, Norman! HAHAHAHA!"
+ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_0,WEEKS LATER...
+ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_1,Quinjet Autopilot is telling me our destination is coming up. Lock and load.
+ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_2,(I've always wanted to say that.)
+ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_3,"Gather round, kids. I've got updated orders from Director Osborn. "
+ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_4,"Updated orders? We're about to take on a bunch of rogue ex-S.H.I.E.L.D. Agents, and he's changing the play?"
+ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_5,There's new intel and boss says capture isn't an option. We're supposed to take out their leader.
+ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_6,"I read the guy's file, I'm not sure why he's so important. "
+ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_7,Just some Cold War fossil. Name's Nick Fury.
+ID_DIALOG_TRIALS_GREENGOBLIN_05_END_0,"Okay, pal. End of the line."
+ID_DIALOG_TRIALS_GREENGOBLIN_05_END_1,"""Pal""? Barton, I don't know what you and your crew think you're doing... But you're way off the mark. "
+ID_DIALOG_TRIALS_GREENGOBLIN_05_END_2,"Okay, you know my name. So you also I know I don't miss. "
+ID_DIALOG_TRIALS_GREENGOBLIN_05_END_3,"Say goodbye to the other eye. And everything else. "
+ID_DIALOG_TRIALS_GREENGOBLIN_05_END_4,"Clint, wait. This isn't right."
+ID_DIALOG_TRIALS_GREENGOBLIN_05_END_5,"We're heroes, we're spies... We're not assassins. Think about it. Why are you even in your Ronin gear? "
+ID_DIALOG_TRIALS_GREENGOBLIN_05_END_6,"Listen to the woman, Barton. She knows what's really happening."
+ID_DIALOG_TRIALS_GREENGOBLIN_05_END_7,"Says the guy with a sword pointed at him. Bobbi, I trust you more than anyone - what's the play here?"
+ID_DIALOG_TRIALS_GREENGOBLIN_05_END_8,"We hear him out. "
+ID_DIALOG_TRIALS_GREENGOBLIN_8_INTRO_0,"Ah, my best team, returned triumphant. Status report."
+ID_DIALOG_TRIALS_GREENGOBLIN_8_INTRO_1,Target's eliminated. Ready for the next mission.
+ID_DIALOG_TRIALS_GREENGOBLIN_8_INTRO_2,"Wonderful. At ease, soldiers. Get some rest, you've earned it. "
+ID_DIALOG_TRIALS_GREENGOBLIN_8_INTRO_3,"...Okay, he's gone. Make it quick, though - Osborn's not exactly predictable."
+ID_DIALOG_TRIALS_GREENGOBLIN_8_INTRO_4,We got you in. Time to show us whatever it was you promised would clear this up.
+ID_DIALOG_TRIALS_GREENGOBLIN_8_INTRO_5,"It's the least I could do after you so kindly chose not to assassinate me. "
+ID_DIALOG_TRIALS_GREENGOBLIN_8_INTRO_6,"Hellicarrier? Level 10 Access - Fury, Nicholas J. Unlock all files related to Norman Osborn."
+ID_DIALOG_TRIALS_GREENGOBLIN_8_END_0,"Here you go, all the files on Osborn. Take a look."
+ID_DIALOG_TRIALS_GREENGOBLIN_8_END_1,"There's... Nothing? There's not a single scrap of information about Director Osborn here. "
+ID_DIALOG_TRIALS_GREENGOBLIN_8_END_2,"That's because he's not real. Not ""Director Osborn"" anyway. "
+ID_DIALOG_TRIALS_GREENGOBLIN_8_END_3,"Three months ago I woke up and I wasn't in charge anymore and the Green Goblin was sitting in my chair. "
+ID_DIALOG_TRIALS_GREENGOBLIN_8_END_4,"Why can't we remember that? And why can you? "
+ID_DIALOG_TRIALS_GREENGOBLIN_8_END_5,"Sadly, those are questions you'll take with you to the grave. "
+ID_DIALOG_TRIALS_GREENGOBLIN_8_END_6,"You see, the punishment for treason is DEATH!"
+ID_DIALOG_TRIALS_GREENGOBLIN_10_INTRO_0,"I'm not sure how you still remember, Fury, but it's nothing a few pumpkin bombs can't knock out of your skull!"
+ID_DIALOG_TRIALS_GREENGOBLIN_10_INTRO_1,"You think you're the first megalomaniac to try and re-write history? We have a Thanos on the payroll. "
+ID_DIALOG_TRIALS_GREENGOBLIN_10_INTRO_2,"My memory's protected by mutant psychics, mystical wards, and by being the smartest man in the room. "
+ID_DIALOG_TRIALS_GREENGOBLIN_10_INTRO_3,"I can't believe I was taking orders? Just, like, in general. Extremely not me. "
+ID_DIALOG_TRIALS_GREENGOBLIN_10_INTRO_4,"Maybe next time you'll listen to me. Now, though, we get to work our frustrations out on Osborn. "
+ID_DIALOG_TRIALS_GREENGOBLIN_10_INTRO_5,Mephisto! This was not part of the plan!
+ID_DIALOG_TRIALS_GREENGOBLIN_10_INTRO_6,"Oh, I think this is going EXACTLY according to plan."
+ID_DIALOG_TRIALS_GREENGOBLIN_10_END_0,"We had a deal! I give you my soul, you give me power!"
+ID_DIALOG_TRIALS_GREENGOBLIN_10_END_1,"We did. And you got exactly as much as your soul was worth. The entire blackened, withered thing. "
+ID_DIALOG_TRIALS_GREENGOBLIN_10_END_2,"It's not my fault if your sins got in the way of my perfectly good spell. Sorry, Norman! No refunds."
+ID_DIALOG_TRIALS_GREENGOBLIN_10_END_3,"I will find you, devil. I will have my revenge!"
+ID_DIALOG_TRIALS_GREENGOBLIN_10_END_4,"Well, if you're so unhappy, I'll just set things back to how they were."
+ID_DIALOG_TRIALS_GREENGOBLIN_10_END_5,No!!!
+ID_DIALOG_TRIALS_GREENGOBLIN_10_END_6,*SNAP*
+ID_DIALOG_TRIALS_GREENGOBLIN_10_END_7,"I... I remember everything! Uh, sorry about the sword thing, Fury. "
+ID_DIALOG_TRIALS_GREENGOBLIN_10_END_8,Get the Goblin and we'll call it even.
+ID_DIALOG_TRIALS_GREENGOBLIN_10_END_9,"Too late, he's gone. Mephisto too. But I know for sure... This isn't over."
 ID_DIALOG_EVENT_UNDERWORLD_1_INTRO_0,The Kree are abducting my associates and converting them to their cause.
 ID_DIALOG_EVENT_UNDERWORLD_1_INTRO_1,I'm sure whoever rescued would be willing to join S.T.R.I.K.E.
 ID_DIALOG_ELEKTRA_EVENT_1_START_0,We're getting reports of Elektra running rampant in Hell's Kitchen.

@@ -7534,7 +7534,7 @@ ID_ME_DE_HW23_EVENT_ENDINGSOON,Earn Juggernaut (Zombie) shards before it's too l
 ID_ME_BO_HW23_EVENT_ENDINGSOON,"Commander,\nThe Unstoppable Undead Event will end in 2 days. Shortly after, <color=#ffda21>Juggernaut (Zombie) shards will remain six feet under for the remainder of 2023</color>. Don't hold back during this limited-time opportunity to recruit and power up Juggernaut (Zombie).\n\nGood luck, Commander!\n"
 ID_ME_NA_BATTLEPASS_SEASON7_ANNOUNCE,Battle Pass: Season 7
 ID_ME_DE_BATTLEPASS_SEASON7_ANNOUNCE,Earn Photon shards & Teal gear!
-ID_ME_BO_BATTLEPASS_SEASON7_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle pass: Season 7 is LIVE</color>!\n\nComplete this Season's Daily and Weekly Objectives to win these <color=#fff568>Featured Prizes</color>:\n- Sylvie character shards\n- Teal Gear\n\nUpgrade to the <color=#fff568>Premium Pass</color> to earn even more rewards.\n\nCharge into Battle Pass: Season 7 today!"
+ID_ME_BO_BATTLEPASS_SEASON7_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle pass: Season 7 is LIVE</color>!\n\nComplete this Season's Daily and Weekly Objectives to win these <color=#fff568>Featured Prizes</color>:\n- Photon character shards\n- Teal Gear\n\nUpgrade to the <color=#fff568>Premium Pass</color> to earn even more rewards.\n\nCharge into Battle Pass: Season 7 today!"
 ID_ME_NA_BATTLEPASS_SEASON7_ENDING,Season 7 Ending Soon
 ID_ME_DE_BATTLEPASS_SEASON7_ENDING,Battle Pass: 2 more days!
 ID_ME_BO_BATTLEPASS_SEASON7_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Photon shards and Teal Gear before the Season ends!"
@@ -7596,3 +7596,24 @@ ID_ME_NA_BACKTOFORMULA_ANNOUNCE,LIVE: Back to Formula
 ID_ME_NA_BACKTOFORMULA_ENDING,ENDING: Back to Formula
 ID_ME_DE_BACKTOFORMULA_ENDING,Don't miss out on New Avenger shards!
 ID_ME_BO_BACKTOFORMULA_ENDING,"Commander,\n\nThe Back to Formula Event <color=#fff568>ends soon</color>. Continue earning Teal Bio Gear!\n\nGood luck, Commander!"
+ID_ME_NA_KRAVENTHEHUNTER_TEASER,Soon: Kraven the Hunter
+ID_ME_DE_KRAVENTHEHUNTER_TEASER,Trophy Hunter
+ID_ME_BO_KRAVENTHEHUNTER_TEASER,"Commander,\n\n<color=#fff568>Kraven the Hunter</color> has chosen the Cosmic Crucible as his new hunting ground! Stalk your prey with this vicious brawler:\n\n<color=#fff568>Ability Highlights</color>\nFlips Immunity and Stealth, applies Ability Block, Offense Down, and Bleed. When he gains Charged, he flips Stealth to Disrupted on all enemies.\n\n\n<color=#fff568>Superior Six Bonuses</color>\nOn spawn, apply Safeguard to self and Sinister Six allies.\n\n<color=#fff568>Cosmic Crucible Bonuses</color>\nApply Ability Block on Controller enemies, gain additional Crit Chance against Support Enemies. Attack cannot be dodged or counterattacked.\n\nBe on the lookout for details on how to earn their character shards!"
+ID_ME_NA_KRAVENTHEHUNTER_ANNOUNCE,Kraven the Hunter is here!
+ID_ME_DE_KRAVENTHEHUNTER_ANNOUNCE,Trophy Hunter
+ID_ME_BO_KRAVENTHEHUNTER_ANNOUNCE,"Commander,\n\n<color=#fff568>Kraven the Hunter</color> has chosen the Cosmic Crucible as his new hunting ground! Stalk your prey with this vicious brawler:\n\n<color=#fff568>Ability Highlights</color>\nFlips Immunity and Stealth, applies Ability Block, Offense Down, and Bleed. When he gains Charged, he flips Stealth to Disrupted on all enemies.\n\n\n<color=#fff568>Superior Six Bonuses</color>\nOn spawn, apply Safeguard to self and Sinister Six allies.\n\n<color=#fff568>Cosmic Crucible Bonuses</color>\nApply Ability Block on Controller enemies, gain additional Crit Chance against Support Enemies. Attack cannot be dodged or counterattacked.\n\n<color=#fff568>How to Recruit</color>\n- Grim Hunter Orb\n- Limited-time offers\n- An upcoming event\n\n<color=#fff568>Red Stars</color>\nFor players who have unlocked the Red Stars feature (Level 42), Kraven the Hunter is featured in Red Star Orbs with an increased drop rate for a limited time.\n\nRecruit this Trophy Hunter to pounce on your prey in the Cosmic Crucible!"
+ID_ME_NA_KRAVENTHEHUNTER_RS_ENDING,Red Stars: Kraven the Hunter
+ID_ME_DE_KRAVENTHEHUNTER_RS_ENDING,Featuring Ends Soon!
+ID_ME_BO_KRAVENTHEHUNTER_RS_ENDING,"Commander,\n\n<color=#fff568>Kraven the Hunter</color> will only be featured in all Red Star Orbs for 2 more days!\n\nHurry and open Red Star Orbs while the drop rate is still increased."
+ID_ME_NA_KRAVENTHEHUNTER_ORB_ENDING,Grim Hunter Orb
+ID_ME_DE_KRAVENTHEHUNTER_ORB_ENDING,2 days left!
+ID_ME_BO_KRAVENTHEHUNTER_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Grim Hunter Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Kraven the Hunter</color> for your <color=#fff568>Superior Six</color> team and stalk your prey in the Cosmic Crucible!"
+ID_ME_NA_KRAVENTHEHUNTER_PREBAMESH,Recruit Kraven the Hunter!
+ID_ME_DE_KRAVENTHEHUNTER_PREBAMESH,Availability Update
+ID_ME_BO_KRAVENTHEHUNTER_PREBAMESH,"Commander,\n\n<color=#fff568>Kraven the Hunter</color> has been added to the Ultimus Orb, Basic Orb, Premium Orb, Mega Orb, and the Supplies section in the Store. As a result, we have removed <color=#fff568>Sunfire</color> from the Mega Orb to keep the orb's content exciting and up to date."
+ID_ME_NA_KRAVENTHEHUNTER_ELITE_STORE,Red Stars: Recruit Kraven the Hunter!
+ID_ME_DE_KRAVENTHEHUNTER_ELITE_STORE,Elite Store Update
+ID_ME_BO_KRAVENTHEHUNTER_ELITE_STORE,"Commander,\n\nDirect Red Star promotions for <color=#fff568>Kraven the Hunter</color> have been added to the <color=#fff568>Elite Store</color>!\n\nYou can now use <color=#fff568>Dark Promotion Credits</color> to promote them <color=#fff568>1 Red Star higher</color> than their current rank.\n\nEarn Promotion Credits by <color=#fff568>exchanging your Elite Credits</color> or by completing the Alliance Donation Daily Objective."
+ID_ME_NA_SHURI_4STAR,Shuri Update
+ID_ME_DE_SHURI_4STAR,Now Unlocks at 4 Stars
+ID_ME_BO_SHURI_4STAR,"Commander,\n\nShuri now unlocks at 4 Stars!\n\nYou can unlock her in the Princess and the Symbiote Legendary Event, which requires 5 Symbiote characters.\n\nShuri will help maximize your rewards during the Wakandan Warriors Alliance Event, where you'll need Wakandan and/or New Warrior characters to score points.\n\nRecruit Shuri today!"
