@@ -2055,6 +2055,16 @@ ID_EVENT_KRAVEN_DIF1_FLAVOR,Meet Kraven the Hunter!
 ID_EVENT_KRAVEN_DIF1_DESC,Requirements: 5 Invader Characters.\n\nKraven the Hunter will join your team for every battle!
 ID_EVENT_KRAVEN_DIF2_FLAVOR,Earn amazing rewards!
 ID_EVENT_KRAVEN_DIF2_DESC,Requirements: 4 Invader Characters and Kraven the Hunter.\n\nAll characters must be Gear Tier 13
+ID_EVENT_S6EE_DIF1_DESC,Play with a full team of Superior Six characters in battles against various Cosmic Crucible teams.\n\nCosmic Crucible-specific bonuses and effects are enabled in these missions.
+ID_EVENT_S6EE_DIF1_FLAVOR,Try the Superior Six!
+ID_EVENT_S6EE_DIF2_DESC,Requirements:\n- 4 Superior Six Characters\n- Gear Tier 15
+ID_EVENT_S6EE_DIF2_FLAVOR,Superior Six vs. Spiders
+ID_EVENT_S6EE_DIF3_DESC,Requirements:\n- 5 Superior Six characters\n- Gear Tier 15\n- 5 Yellow Stars
+ID_EVENT_S6EE_DIF3_FLAVOR,Earn Awesome Rewards!
+ID_EVENT_S6EE_DESC,"With the Superior Six finally assembled, Green Goblin (Classic) enacts a plan to purge the world of spider-themed heroes once and for all."
+ID_EVENT_S6EE_SUBTITLE,Superior Six Showcase Finale
+ID_EVENT_S6EE_NAME,Superior Schemes
+ID_INFO_NA_WAKANDANWARRIORS,Wakandan Warriors
 ID_INFO_DE_WAKANDANWARRIORS,Battle in Cosmic Crucible for Training Modules!
 ID_INFO_BO_WAKANDANWARRIORS,Battle in Cosmic Crucible to earn Training Modules and Reverse-Engineer progress! Earn even more points when you use Wakanda and New Warrior characters
 ID_INFO_NA_BACKTOFORMULA,Back to Formula
