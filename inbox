@@ -6326,6 +6326,15 @@ ID_ME_BO_EVENT_SPIDERVERSE_ANNOUNCE,"Commander,\n\n<color=#fff568>Your assistanc
 ID_ME_NA_EVENT_SPIDERVERSE_ENDING,Spider-Verse Under Attack
 ID_ME_DE_EVENT_SPIDERVERSE_ENDING,Ending Soon!
 ID_ME_BO_EVENT_SPIDERVERSE_ENDING,"Commander,\n\nThe <color=#fff568>Spider-Verse Under Attack</color> missions end soon. Don't miss out on the rewards!\n\nGood luck, Commander."
+ID_ME_NA_EVENT_MARVELS_TEASER,Incoming: Assemble the Marvels
+ID_ME_DE_EVENT_MARVELS_TEASER,Ready your roster
+ID_ME_BO_EVENT_MARVELS_TEASER,"Commander,\n\n<color=#fff568>You're needed for these upcoming missions:</color>\nMs. Marvel (Hard Light) and Nick Fury will need your help in five missions across the galaxy; you'll have unlimited attempts.\n\nUpgrade your Captain Marvel, Ms. Marvel, and Ms. Marvel (Hard Light) for the challenge...and rewards!"
+ID_ME_NA_EVENT_MARVELS_ANNOUNCE,Live: Assemble the Marvels
+ID_ME_DE_EVENT_MARVELS_ANNOUNCE,Complete missions for rewards!
+ID_ME_BO_EVENT_MARVELS_ANNOUNCE,"Commander,\n\n<color=#fff568>You're needed for these upcoming missions:</color>\nMs. Marvel (Hard Light) and Nick Fury will need your help in five missions across the galaxy; you'll have unlimited attempts.\n\nUpgrade your Captain Marvel, Ms. Marvel, and Ms. Marvel (Hard Light) for the challenge...and rewards!"
+ID_ME_NA_EVENT_MARVELS_ENDING,Assemble the Marvels
+ID_ME_DE_EVENT_MARVELS_ENDING,Ending Soon!
+ID_ME_BO_EVENT_MARVELS_ENDING,"Commander,\n\nThe <color=#fff568>Assemble the Marvels</color> missions end soon. Don't miss out on the rewards!\n\nGood luck, Commander!"
 ID_ME_NA_COSMO_ECM_TEASER,Coming Soon: To Infinity
 ID_ME_DE_COSMO_ECM_TEASER,Recruit Cosmo!
 ID_ME_BO_COSMO_ECM_TEASER,"Commander,\n\nYou're needed for this upcoming mission:\nJoin <color=#fff568>Cosmo</color> as she leads Knowhere in a high-stakes standoff against a deadly threat.\n\nEach node in the To Infinity Event Campaign rewards <color=#fff568>Intergalactic Orb Fragments</color> that contain select characters with the limited-time <color=#fff568>Intergalactic</color> trait.\n\nFor a list of the characters using this trait, filter your roster using: Intergalactic."
@@ -7617,3 +7626,24 @@ ID_ME_BO_KRAVENTHEHUNTER_ELITE_STORE,"Commander,\n\nDirect Red Star promotions f
 ID_ME_NA_SHURI_4STAR,Shuri Update
 ID_ME_DE_SHURI_4STAR,Now Unlocks at 4 Stars
 ID_ME_BO_SHURI_4STAR,"Commander,\n\nShuri now unlocks at 4 Stars!\n\nYou can unlock her in the Princess and the Symbiote Legendary Event, which requires 5 Symbiote characters.\n\nShuri will help maximize your rewards during the Wakandan Warriors Alliance Event, where you'll need Wakandan and/or New Warrior characters to score points.\n\nRecruit Shuri today!"
+ID_ME_NA_KRAVENTHEHUNTER_SPOTLIGHT,Who is Kraven the Hunter?
+ID_ME_DE_KRAVENTHEHUNTER_SPOTLIGHT,New Character Spotlight
+ID_ME_BO_KRAVENTHEHUNTER_SPOTLIGHT,"Commander,\n\nHunting for more Kraven the Hunter info?\n\nWatch the latest Spotlight Video featuring this big trophy hunter and see for yourself how he'll complement your roster of Sinister and Superior Six!"
+ID_ME_NA_PREVIEW_KRAVEN,Coming Soon: The Last Hunt
+ID_ME_DE_PREVIEW_KRAVEN,Kraven The Hunter's Showcase
+ID_ME_BO_PREVIEW_KRAVEN,"Commander,\n\n<color=#fff568>KRAVEN THE HUNTER</color>'s Showcase Event is coming soon! Earn valuable resources by using Kraven in exciting missions!\n\nRequirements\nStory Difficulty - Any combination of 5 <color=#fff568>INVADER</color> and/or <color=#fff568>SUPERIOR SIX</color> characters.\n\nChallenge Difficulty - Kraven is required, and bring any Invader or Superior Six characters to fill the other spots on the team. All characters used must be equipped with at least Gear Tier 13.\n\nGet ready, Commander!"
+ID_ME_NA_LIVE_KRAVEN,LIVE: The Last Hunt
+ID_ME_DE_LIVE_KRAVEN,Battle with Kraven the Hunter and earn rewards!
+ID_ME_BO_LIVE_KRAVEN,"Commander,\n\nKraven the Hunter's Showcase Event has begun!\n\nMissions\nThis event has two difficulties: Story and Challenge, each with 8 Missions. Battle through Kraven's story and earn as many rewards as you can.\n\nRequirements\nStory Difficulty - Any combination of 5 <color=#fff568>INVADER</color> and/or <color=#fff568>SUPERIOR SIX</color> characters.\n\nChallenge Difficulty - Kraven is required, and bring any Invader or Superior Six characters to fill the other spots on the team. All characters used must be equipped with at least Gear Tier 13.\n\nGood luck, Commander!"
+ID_ME_NA_ENDING_KRAVEN,ENDING: The Last Hunt
+ID_ME_DE_ENDING_KRAVEN,2 Days Left!
+ID_ME_BO_ENDING_KRAVEN,"Commander,\n\nKraven the Hunter's Showcase Event ends in 2 days. Continue earning rewards before this Showcase ends!\n\nGood luck, Commander!"
+ID_ME_NA_PREVIEW_SUPERIOR6FINALE,Coming Soon: Superior Schemes
+ID_ME_DE_PREVIEW_SUPERIOR6FINALE,Superior Six Epic Finale!
+ID_ME_BO_PREVIEW_SUPERIOR6FINALE,"Commander,\n\nThe epic finale to the SUPERIOR SIX showcase events is coming soon! Curious to see the Superior Six in action? Take the full team for a spin in the Test Drive missions! Then gather a team of Superior Six and battle for epic rewards!\n\nRequirements\nTest Drive - No requirements here! Play with the full Superior Six team and see how they work. Since they are a Cosmic Crucible team, these missions are set up so bonuses specific to that mode are active.\n\nChallenge Difficulty - You will need 4 SUPERIOR SIX characters. All five are recommended if you have them. All characters used must be equipped with at least Gear Tier 15.\n\nBonus Difficulty - All 5 Superior Six characters are required. Additionally all characters used must be equipped with at least Gear Tier 15 and must be at least 5 Yellow Stars.\n\nGet ready, Commander!"
+ID_ME_NA_LIVE_SUPERIOR6FINALE,LIVE: Superior Schemes
+ID_ME_DE_LIVE_SUPERIOR6FINALE,Battle with the Superior Six and earn rewards!
+ID_ME_BO_LIVE_SUPERIOR6FINALE,"Commander,\n\nThe Superior Six epic finale event has begun!\n\nMissions\nThis event has three difficulties: Test Drive, Challenge, and Bonus. Battle through missions and earn as many rewards as you can!\n\nRequirements\nTest Drive - No requirements here! Play with the full Superior Six team and see how they work. Since they are a Cosmic Crucible team, these missions are set up so bonuses specific to that mode are active.\n\nChallenge Difficulty - You will need 4 SUPERIOR SIX characters. All five are recommended if you have them. All characters used must be equipped with at least Gear Tier 15.\n\nBonus Difficulty - All 5 Superior Six characters are required. Additionally all characters used must be equipped with at least Gear Tier 15 and must be at least 5 Yellow Stars.\n\nGood luck, Commander!"
+ID_ME_NA_ENDING_SUPERIOR6FINALE,ENDING: Superior Schemes
+ID_ME_DE_ENDING_SUPERIOR6FINALE,2 Days Left!
+ID_ME_BO_ENDING_SUPERIOR6FINALE,"Commander,\n\nThe Superior Schemes event ends in 2 days. Continue earning rewards before this epic finale for the Superior Six ends!\n\nGood luck, Commander!"

@@ -2020,6 +2020,10 @@ ID_MOTD_NA_EVENT_SPIDERVERSE_TEASER,Incoming: Spider-Verse Under Attack
 ID_MOTD_DE_EVENT_SPIDERVERSE_TEASER,Ready your roster for the challenge...and rewards!
 ID_MOTD_NA_EVENT_SPIDERVERSE_ANNOUNCE,Live: Spider-Verse Under Attack
 ID_MOTD_DE_EVENT_SPIDERVERSE_ANNOUNCE,Spider-Man (Miles) is leading the charge in missions across the Spider-Verse
+ID_MOTD_NA_EVENT_MARVELS_TEASER,Incoming: Assemble the Marvels
+ID_MOTD_DE_EVENT_MARVELS_TEASER,Ready your roster for the challenge...and rewards!
+ID_MOTD_NA_EVENT_MARVELS_ANNOUNCE,Live: Assemble the Marvels
+ID_MOTD_DE_EVENT_MARVELS_ANNOUNCE,Ms. Marvel (Hard Light) and Nick Fury need your help with missions throughout the galaxy
 ID_MOTD_NA_COSMO_ECM_PREVIEW,Coming Soon: To Infinity
 ID_MOTD_DE_COSMO_ECM_PREVIEW,Don't miss your chance to recruit Cosmo!
 ID_MOTD_NA_COSMO_ECM_LIVE,LIVE: To Infinity
@@ -2443,3 +2447,13 @@ ID_MOTD_DE_KRAVENTHEHUNTER_ANNOUNCE,Stalk your prey in the Cosmic Crucible!
 ID_MOTD_DE_KRAVENTHEHUNTER_ANNOUNCE2,Open the Grim Hunter Orb to earn shards for this Savage Stalker!
 ID_MOTD_NA_DAILYDIAMONDFREECLAIM_ANNOUNCE,Daily Diamonds!
 ID_MOTD_DE_DAILYDIAMONDFREECLAIM_ANNOUNCE,Go to the web every day for free Diamond Dawn Orb Fragments!
+ID_MOTD_NA_KRAVEN_PREVIEW,Coming Soon: The Last Hunt
+ID_MOTD_DE_KRAVEN_PREVIEW,Battle with Kraven the Hunter and earn rewards!
+ID_MOTD_NA_KRAVEN_LIVE,LIVE: The Last Hunt
+ID_MOTD_DE_KRAVEN_LIVE,Battle with Kraven the Hunter and earn rewards!
+ID_MOTD_NA_KRAVEN_ENDING,ENDING SOON: The Last Hunt!
+ID_MOTD_DE_KRAVEN_ENDING,The Last Hunt event is ending soon!
+ID_MOTD_NA_SUPERIOR6FINALE_PREVIEW,Coming Soon: Superior Schemes
+ID_MOTD_DE_SUPERIOR6FINALE_PREVIEW,Battle with the Superior Six and earn rewards!
+ID_MOTD_NA_SUPERIOR6FINALE_LIVE,LIVE: Superior Schemes
+ID_MOTD_DE_SUPERIOR6FINALE_LIVE,Battle with the Superior Six and earn rewards!

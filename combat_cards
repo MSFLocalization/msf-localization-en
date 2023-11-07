@@ -226,3 +226,7 @@ ID_SCOURGE_CARD_148_NAME,Self Preservation
 ID_SCOURGE_CARD_148_DESC,"On Turn, <color=#9055FF>HEALERS</color>, Barrier self for <color=#86e619>5%</color> of their Max Health."
 ID_SCOURGE_CARD_149_NAME,On the Offensive
 ID_SCOURGE_CARD_149_DESC,"Whenever a Character Applies <color=#fff568>Heal Block</color> to an enemy, Heal self for <color=#86e619>15%</color> of their Max Health"
+ID_SCOURGE_CARD_152_NAME,Science Bros
+ID_SCOURGE_CARD_152_DESC,"On Spawn, <color=#fff568>P.E.G.A.S.U.S.</color> Characters Gain the <color=#fff568>NEW AVENGERS</color> Trait, and <color=#fff568>HYDRA</color> Characters Gain the <color=#fff568>MASTERS OF EVIL</color> Trait"
+ID_SCOURGE_CARD_153_NAME,Next Generation
+ID_SCOURGE_CARD_153_DESC,"On Spawn, <color=#fff568>NEW WARRIORS</color> Characters Gain the <color=#fff568>REBIRTH</color> Trait, and <color=#fff568>YOUNG AVENGERS</color> Characters Gain the <color=#fff568>HEROES FOR HIRE</color> Trait"

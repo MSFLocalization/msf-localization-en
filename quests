@@ -3610,11 +3610,16 @@ ID_QU_S3_SPLASH_MEANDTHEBOYS,Win Blitz with 7-star Sinister Six Character
 ID_QU_NA_WAKANDANWARRIORS,Wakandan Warriors
 ID_QU_SD_WAKANDANWARRIORS,Battle in Crucible and Earn Allied Supply II Orb Fragments
 ID_QU_LD_WAKANDANWARRIORS,"Collaborate with your alliances to battle in Cosmic Crucible and earn Allied Supply II Orb Fragments. Allied Supply II Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store. "
-ID_QU_S1_WAKANDANWARRIORS,Win with New Warrior or Wakanda in Crucible
-ID_QU_S2_WAKANDANWARRIORS,Win with New Warrior or Wakanda in Crucible at 4+ Star
-ID_QU_S3_WAKANDANWARRIORS,Win with New Warrior or Wakanda in Crucible at 5+ Star
-ID_QU_S4_WAKANDANWARRIORS,Win with New Warrior or Wakanda in Crucible at 6+ Star
-ID_QU_S5_WAKANDANWARRIORS,Win with New Warrior or Wakanda in Crucible at 7 Star
+ID_QU_S1_WAKANDANWARRIORS,Win Cosmic Crucible with New Warrior Character
+ID_QU_S2_WAKANDANWARRIORS,Win Cosmic Crucible with 4-star or higher New Warrior Character
+ID_QU_S3_WAKANDANWARRIORS,Win Cosmic Crucible with 5-star or higher New Warrior Character
+ID_QU_S4_WAKANDANWARRIORS,Win Cosmic Crucible with 6-star or higher New Warrior Character
+ID_QU_S5_WAKANDANWARRIORS,Win Cosmic Crucible with 7-star New Warrior Character
+ID_QU_S6_WAKANDANWARRIORS,Win Cosmic Crucible with Wakandan Character
+ID_QU_S7_WAKANDANWARRIORS,Win Cosmic Crucible with 4-star or higher Wakandan Character
+ID_QU_S8_WAKANDANWARRIORS,Win Cosmic Crucible with 5-star or higher Wakandan Character
+ID_QU_S9_WAKANDANWARRIORS,Win Cosmic Crucible with 6-star or higher Wakandan Character
+ID_QU_S10_WAKANDANWARRIORS,Win Cosmic Crucible with 7-star Wakandan Character
 ID_QU_NA_BACKTOFORMULA,Back to Formula
 ID_QU_SD_BACKTOFORMULA,Open Got the Skills orbs
 ID_QU_LD_BACKTOFORMULA,Gain progress by spending Power Cores and earning Got the Skills Orb Fragments earned from Campaign nodes and limited-time offers. Keep an eye out for Free Claims containing Got the Skills Orbs every day!
