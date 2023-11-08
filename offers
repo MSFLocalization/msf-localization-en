@@ -4570,7 +4570,7 @@ ID_OF_DE_REVERSEENGINEER_STARTER,Start off strong in the <color=#fff568>Reverse-
 ID_OF_DE_REVERSEENGINEER_BOOSTER_ANCHOR,Make consistent <color=#fff568>Reverse-Engineer</color> progress with this daily <color=#fff568>Vibranium Slab</color> supply!
 ID_OF_DE_REVERSEENGINEER_MEGA_POINTS,Stock up on <color=#fff568>Reverse-Engineer</color> progress and <color=#fff568>Ironheart (MKII) shards</color> with this special deal!
 ID_OF_DE_REVERSEENGINEER_BOOSTER,Stock up on <color=#fff568>Reverse-Engineer</color> progress and <color=#fff568>Legacy Orbs</color> with this special deal!
-ID_OF_DE_REVERSEENGINEER_POINTS,Stock up on <color=#fff568>Reverse-Engineer</color> progress and <color=#fff568></color> with this special deal!
+ID_OF_DE_REVERSEENGINEER_POINTS,Stock up on <color=#fff568>Reverse-Engineer</color> progress with this special deal!
 ID_OF_DE_REVERSEENGINEER_BOOSTER_MINOR,Stock up on <color=#fff568>Reverse-Engineer</color> progress and <color=#fff568></color> with this special deal!
 ID_OF_DE_REVERSEENGINEER_CATCHUP_MEGA,"Finish strong in the milestones and leaderboards for <color=#fff568>Ironheart (MKII) shards</color>, <color=#fff568>fully crafted Gear Tier 17 pieces</color> and <color=#fff568>up to 8,000,000 T2 Level 5 Ions</color>!"
 ID_OF_DE_REVERSEENGINEER_CATCHUP_SUPER,Finish strong in the milestones for <color=#fff568>Ironheart (MKII) shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
@@ -4748,3 +4748,69 @@ ID_OF_DE_BLACKFRIDAY_2023_NEWCREW,"Empower Tigra, Ronin, and Mockingbird with sh
 ID_OF_DE_BLACKFRIDAY_2023_PEGASUS,"Rank up Iron Man (Infinity War), Darkhawk, and Ironheart (MKII) with shards and a chance to promote one of them to 6 Red Stars!"
 ID_OF_NA_NEXUSHARD0506_LAUNCH,Nexus Hard Mode 5 & 6 - Launch Special
 ID_OF_DE_NEXUSHARD0506_LAUNCH,"Claim this limited-time discount on Campaign Energy and spend it on Nexus Hard Mode 5 & 6 nodes to earn Gear Tier 17 Mini-Uniques, Thor (Infinity War) and Loki (Teen) shards!"
+ID_OF_NA_WAKANDANWARRIORS_DAILY_ORB,Wakandan Warriors: Daily Allied Supply II Orb
+ID_OF_NA_WAKANDANWARRIORS_STARTER,Wakandan Warriors: Starter Pack
+ID_OF_NA_WAKANDANWARRIORS_DAILY_INTERSTITIAL,Wakandan Warriors: Supply Bundle
+ID_OF_NA_WAKANDANWARRIORS_FREE_CLAIM,Wakandan Warriors Free Claim
+ID_OF_NA_WAKANDANWARRIORS_CHARACTER_TEAM,Wakandan Warriors: Character Bundle
+ID_OF_DE_WAKANDANWARRIORS_DAILY_ORB,Get these orbs for <color=#fff568>Wakandan Warriors</color> progress and open them for T2 Level 5 Orbs containing T2 L5 Ions and a slew of resources!
+ID_OF_DE_WAKANDANWARRIORS_STARTER,Give your alliance a huge head start in the <color=#fff568>Wakandan Warriors</color> milestone with this high value offer!
+ID_OF_DE_WAKANDANWARRIORS_DAILY_INTERSTITIAL,Stock up on Allied Supply II Orbs for extra progress in the <color=#fff568>Wakandan Warriors Milestone</color>!
+ID_OF_DE_WAKANDANWARRIORS_FREE_CLAIM,Come back daily for more <color=#fff568>Wakandan Warriors</color> progress!
+ID_OF_DE_WAKANDANWARRIORS_CHARACTER_TEAM,Save big and gain additional progress on the <color=#fff568>Wakandan Warriors</color> milestone with these featured characters for a limited time!
+ID_OF_DE_BACKTOFORMULA_STARTER,Speed through the <color=#fff568>Back to Formula</color> Milestone and get <color=#fff568>Got the Skills Orbs</color> and <color=#fff568>Teal Gear</color> with this offer!
+ID_OF_DE_BACKTOFORMULA_CATCHUP,Climb the final steps of the <color=#fff568>Back to Formula</color> Milestone and get <color=#fff568>New Avenger and Rebirth</color> character shards and <color=#fff568>Teal Gear</color> before it's too late!
+ID_OF_DE_BACKTOFORMULA_DAILY_ORB,Continue training and get Got the Skills Orbs for progress in the <color=#fff568>Back to Formula Milestone</color> and <color=#fff568>New Avenger and Rebirth shards</color> from opening the orb!
+ID_OF_DE_BACKTOFORMULA_DAILY_ENERGY,Make consistent <color=#fff568>Back to Formula</color> progress with this daily campaign energy supply!
+ID_OF_DE_BACKTOFORMULA_SPECIAL_POINTS,Need something a little extra? Get an edge on the competition with this bundle of <color=#fff568>Back to Formula</color> milestone points and Training and Gold orbs!
+ID_OF_DE_BACKTOFORMULA_DAILY_POINTS,Make consistent <color=#fff568>Back to Formula</color> progress with this daily milestone points supply!
+ID_OF_DE_BACKTOFORMULA_DAILY_INTERSTITIAL,Get boosted <color=#fff568>Back to Formula</color> progress with this daily trove of resources!
+ID_OF_DE_BACKTOFORMULA_FREE_CLAIM,Come back daily for a special Free Claim! Remember to visit the web every Friday for an even more special Free Claim!
+ID_OF_DE_BACKTOFORMULA_FREE_CLAIM_FRIDAY,Come back every Friday for special Free Claim! Remember to visit the web each day for the daily Free Claim!
+ID_OF_DE_BACKTOFORMULA_IRON_MAN_INFINITY_WAR,Earn progress in the <color=#fff568>Back to Formula</color> Milestone event as well as save on <color=#fff568>Iron Man (Infinity War)</color> character shards with this offer!
+ID_OF_DE_BACKTOFORMULA_DARKHAWK,Earn progress in the <color=#fff568>Back to Formula</color> Milestone event as well as save on <color=#fff568>Darkhawk</color> character shards with this offer!
+ID_OF_DE_BACKTOFORMULA_IRONHEART_MKII,Earn progress in the <color=#fff568>Back to Formula</color> Milestone event as well as save on <color=#fff568>Ironheart (MKII)</color> character shards with this offer!
+ID_OF_DE_BACKTOFORMULADIRECT_800_HC_ENERGY,Get a daily dose of Campaign Energy to complete the <color=#fff568>Worthy Warrior Web Milestone</color> and get additional Korbinite Orbs for the <color=#fff568>Back to Formula Milestone</color>!
+ID_OF_DE_BACKTOFORMULADIRECT_600_HC_SPC,Spend Power Cores for progress in the <color=#fff568>Back to Formula Milestone</color> and get Silver Promotion Credits!
+ID_OF_DE_BACKTOFORMULADIRECT_200_HC_GT14,Spend Power Cores for progress in the <color=#fff568>Back to Formula Milestone</color> and get Armory 14 and Armory 15 Orbs!
+ID_OF_DE_BACKTOFORMULADIRECT_350_HC_GT16,Spend Power Cores for progress in the <color=#fff568>Back to Formula Milestone</color> and get Armory 16 Orbs!
+ID_OF_DE_BACKTOFORMULADIRECT_600_HC_GT17,Spend Power Cores for progress in the <color=#fff568>Back to Formula Milestone</color> and get Armory 17 Orbs!
+ID_OF_DE_BACKTOFORMULADIRECT_800_HC_T2L4,Spend Power Cores for progress in the <color=#fff568>Back to Formula Milestone</color> and get T2 Level 4 Ions!
+ID_OF_DE_BACKTOFORMULADIRECT_1200_HC_T2L5,Spend Power Cores for progress in the <color=#fff568>Back to Formula Milestone</color> and get a T2 Level 5 Ion Orb!
+ID_OF_DE_BACKTOFORMULADIRECT_600_HC_IRON_MAN_INFINITY_WAR,Spend Power Cores for progress in the <color=#fff568>Back to Formula Milestone</color> and get Iron Man (Infinity War) shards!
+ID_OF_DE_BACKTOFORMULADIRECT_600_HC_DARKHAWK,Spend Power Cores for progress in the <color=#fff568>Back to Formula Milestone</color> and get Darkhawk shards!
+ID_OF_DE_BACKTOFORMULADIRECT_600_HC_KESTREL_AND_RESCUE,Spend Power Cores for progress in the <color=#fff568>Back to Formula Milestone</color> and get Kestrel and Rescue shards!
+ID_OF_NA_BACKTOFORMULA_STARTER,Back to Formula: Starter
+ID_OF_NA_BACKTOFORMULA_CATCHUP,Back to Formula: Catch-Up
+ID_OF_NA_BACKTOFORMULA_DAILY_ORB,Back to Formula: Got the Skills Orb
+ID_OF_NA_BACKTOFORMULA_DAILY_ENERGY,Back to Formula: Campaign Energy
+ID_OF_NA_BACKTOFORMULA_SPECIAL_POINTS,Back to Formula: Point Bundle
+ID_OF_NA_BACKTOFORMULA_DAILY_POINTS,Back to Formula: Daily Points
+ID_OF_NA_BACKTOFORMULA_DAILY_INTERSTITIAL,Back to Formula: Supply Cache
+ID_OF_NA_BACKTOFORMULA_FREE_CLAIM,Back to Formula: Free Claim
+ID_OF_NA_BACKTOFORMULA_FREE_CLAIM_FRIDAY,Free Claim Friday Gift
+ID_OF_NA_BACKTOFORMULA_IRON_MAN_INFINITY_WAR,Back to Formula: Iron Man (Infinity War)
+ID_OF_NA_BACKTOFORMULA_DARKHAWK,Back to Formula: Darkhawk
+ID_OF_NA_BACKTOFORMULA_IRONHEART_MKII,Back to Formula: Ironheart (MKII)
+ID_OF_NA_BACKTOFORMULADIRECT_800_HC_ENERGY,Back to Formula: Campaign Energy
+ID_OF_NA_BACKTOFORMULADIRECT_600_HC_SPC,Back to Formula: Silver Promotion Credits
+ID_OF_NA_BACKTOFORMULADIRECT_200_HC_GT14,Back to Formula: Orange Gear
+ID_OF_NA_BACKTOFORMULADIRECT_350_HC_GT16,Back to Formula: Armory 16 Orbs
+ID_OF_NA_BACKTOFORMULADIRECT_600_HC_GT17,Back to Formula: Armory 17 Orbs
+ID_OF_NA_BACKTOFORMULADIRECT_800_HC_T2L4,Back to Formula: T2 Level 4 Ions
+ID_OF_NA_BACKTOFORMULADIRECT_1200_HC_T2L5,Back to Formula: T2 Level 5 Ions
+ID_OF_NA_BACKTOFORMULADIRECT_600_HC_IRON_MAN_INFINITY_WAR,Back to Formula: Iron Man (Infinity War)
+ID_OF_NA_BACKTOFORMULADIRECT_600_HC_DARKHAWK,Back to Formula: Darkhawk
+ID_OF_NA_BACKTOFORMULADIRECT_600_HC_KESTREL_AND_RESCUE,Back to Formula: Kestrel and Rescue
+ID_OF_NA_THEMARVELS_TOPUPTRAIN,Fight Like A Marvel
+ID_OF_NA_THEMARVELS_TOPUPGOLD,Team Funding
+ID_OF_NA_THEMARVELS_TEAMUPRS,Super-Stars
+ID_OF_NA_THEMARVELS_POWERUPGOLD,Team Funding
+ID_OF_NA_THEMARVELS_POWERUPTRAIN,Superhero Bootcamp
+ID_OF_NA_THEMARVELS_POWERUPA18,"Marvels, Gear Up!"
+ID_OF_DE_THEMARVELS_TOPUPTRAIN,Take on greater foes in the <color=#ffda21>Assemble the Marvels</color> event with this special offer!
+ID_OF_DE_THEMARVELS_TOPUPGOLD,Take on greater foes in the <color=#ffda21>Assemble the Marvels</color> event with this special offer!
+ID_OF_DE_THEMARVELS_TEAMUPRS,Rank up and promote <color=#ffda21>The Marvels</color> with this limited-time discount!
+ID_OF_DE_THEMARVELS_POWERUPGOLD,Assemble and power up <color=#ffda21>The Marvels</color> with this limited-time discount!
+ID_OF_DE_THEMARVELS_POWERUPTRAIN,Assemble and level up <color=#ffda21>The Marvels</color> with this limited-time discount!
+ID_OF_DE_THEMARVELS_POWERUPA18,Assemble and gear up <color=#ffda21>The Marvels</color> with this limited-time discount!
