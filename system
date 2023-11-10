@@ -1231,6 +1231,8 @@ ID_REQUIRES_TRAITS_5_CITY_HERO,REQUIRES: <color=#fff568>5 CITY HERO</color>
 ID_REQUIRES_TRAITS_5_GLOBAL_BIO,REQUIRES: <color=#fff568>5 GLOBAL BIO</color>
 ID_REQUIRES_TRAITS_5_COSMIC,REQUIRES: <color=#fff568>5 COSMIC</color>
 ID_REQUIRES_TRAITS_5_CONTROLLER,REQUIRES: <color=#fff568>5 CONTROLLER</color>
+ID_REQUIRES_TRAITS_5_NEWAVENGERS,REQUIRES: <color=#fff568>5 NEW AVENGERS</color>
+ID_REQUIRES_TRAITS_5_REBIRTH,REQUIRES: <color=#fff568>5 REBIRTH</color>
 ID_REQUIRES_SPIDERVERSE,"Only <color=#fff568>Spider-Verse</color> "
 ID_REQUIRES_WEBWARRIORS,Only <color=#fff568>Web-Warriors</color>
 ID_REQUIRES_SYBMIOTES_MILES,Only <color=#fff568>Symbiotes</color> and <color=#fff568>Spider-Man (Miles)</color>
@@ -1282,3 +1284,5 @@ ID_REQUIREMENT_S6EE_CHALLENGE,"Requires: 4 <color=#fff568>SUPERIOR SIX</color>, 
 ID_REQUIREMENT_S6EE_BONUS,"Requires: 5 <color=#fff568>SUPERIOR SIX</color>, Gear Tier 15, 5 Yellow Stars"
 ID_REQ_S6EE_DIF2,"4 <color=#fff568>SUPERIOR SIX</color>, Gear Tier 15"
 ID_REQ_S6EE_DIF3,"5 <color=#fff568>SUPERIOR SIX</color>, Gear Tier 15, 5 Yellow Stars"
+ID_ONLY_INVADERS_SUPERIORSIX,ONLY <color=#fff568>INVADERS</color> or <color=#fff568>SUPERIOR SIX</color>
+ID_REQUIRES_INVADERS_SPIDERSLAYER,ONLY <color=#fff568>INVADERS</color> or <color=#fff568>SUPERIOR SIX</color>\nREQUIRES: <color=#fff568>KRAVEN</color> and <color=#fff568>SPIDER-SLAYER</color> AT GEAR TIER 13

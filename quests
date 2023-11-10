@@ -3628,3 +3628,18 @@ ID_QU_NA_RUTHLESSAMBITION,Ruthless Ambition
 ID_QU_SD_RUTHLESSAMBITION,Earn War Credits
 ID_QU_LD_RUTHLESSAMBITION,Earn War Credits to complete this 7-day milestone that rewards Back to Formula milestone points as well as Vibranium Slabs for the Reverse-Engineer milestone!
 ID_QU_S1_RUTHLESSAMBITION,Earn 1 War Credit
+ID_QU_NA_DIAMOND_LAUNCH_STAMPCARD,Diamond Launch Stamp Card
+ID_QU_LM_DIAMOND_LAUNCH_STAMPCARD,Earn a stamp every time you spend at least {tier50price} in a single transaction on web or at least 500 Ultra Cores anywhere!
+ID_QU_NA_ENGINEOFWAR,Engine of War
+ID_QU_SD_ENGINEOFWAR,Battle in War and Earn Allied Supply II Orb Fragments
+ID_QU_LD_ENGINEOFWAR,"Collaborate with your alliances to battle in War and earn Allied Supply II Orb Fragments. Allied Supply II Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store."
+ID_QU_NA_STATEOFTHEART,State of the Art
+ID_QU_SD_STATEOFTHEART,Earn Blitz Credits
+ID_QU_LD_STATEOFTHEART,"Earn Blitz Credits to earn Stark Grant milestone points, Gold, and Elite 4 Credits. Keep an eye out for Free Claims containing Galvanized Orb fragments every day!"
+ID_QU_NA_STARKGRANT,Stark Grant
+ID_QU_SD_STARKGRANT,Earn Galvanized Orbs and win Blitz battles
+ID_QU_LD_STARKGRANT,"Stark Grant Milestone\nGain progress in this 5-day event by earning Galvanized Orb fragments, winning Blitz battles, a log-in calendar, completing the State of the Art Web Milestone, and spending Power Cores. Earn rewards worthy of Tony Stark including Kang the Conqueror shards, 7-Red Star Dagger, and Teal Tech gear. You'll also earn points towards the month-long Reverse-Engineer milestone by collecting Vibranium Slabs and Arc Reactor MKII.\n\nState of the Art Web Milestone\nEarn Blitz Credits to earn Stark Grant milestone points, Gold, and Elite 4 Credits. Keep an eye out for Free Claims containing Galvanized Orb fragments every day!"
+ID_MILESTONE_BLITZ_KRAVENTHEHUNTER,Win a Blitz battle with: Kraven the Hunter
+ID_MILESTONE_BLITZ_GREENGOBLINGLIDER,Win a Blitz battle with: Green Goblin (Classic)
+ID_MILESTONE_BLITZ_IRONHEARTMCU,Win a Blitz battle with: Ironheart (MKII)
+ID_QU_S1_STARKGRANT,Open 1 Galvanized Orb

@@ -6677,6 +6677,122 @@ ID_DIALOG_SCE_KRAVEN_08_INTRO_1,Stand back while I form the true Spider-Serum.
 ID_DIALOG_SCE_KRAVEN_08_INTRO_2,More of his friends are approaching. I'll take care of them.
 ID_DIALOG_SCE_KRAVEN_08_END_0,"That's it! We have it! "
 ID_DIALOG_SCE_KRAVEN_08_END_1,Let the hunt begin.
+ID_DIALOG_SCE_S6EE_01_INTRO_0,"This has been fun, Norman, but you've hinted at something greater for gathering us together."
+ID_DIALOG_SCE_S6EE_01_INTRO_1,"Indeed. What's your end-game, Osborn?"
+ID_DIALOG_SCE_S6EE_01_INTRO_2,"My plan is simple. I've gathered we ""Superior Six"" for the sole purpose of defeating the scourge of spiders once and for all."
+ID_DIALOG_SCE_S6EE_01_INTRO_3,Within this city are ten unique spider heroes from across space and time.
+ID_DIALOG_SCE_S6EE_01_INTRO_4,"Their genetic profiles are the key to understanding the very creation of the ""Spider Verse"" and its idiot inhabitants!"
+ID_DIALOG_SCE_S6EE_01_INTRO_5,"By capturing them and mapping their genetics, we can unlock the ability to be rid of these spider heroes once and for all!"
+ID_DIALOG_SCE_S6EE_01_START_0,What the heck? Who are you?
+ID_DIALOG_SCE_S6EE_01_START_1,"Fool, you face the might of the Superior Six!"
+ID_DIALOG_SCE_S6EE_01_START_2,Six? I only count five of you.
+ID_DIALOG_SCE_S6EE_01_START_3,Silence!
+ID_DIALOG_SCE_S6EE_01_END_0,What is that what are you doing?!
+ID_DIALOG_SCE_S6EE_01_END_1,"Don't be afraid, little spider. You're just one piece of a far greater puzzle..."
+ID_DIALOG_SCE_S6EE_01_END_2,"And soon, when that puzzle is completed your kind will be nothing more than a footnote in the history of my triumph!"
+ID_DIALOG_SCE_S6EE_02_INTRO_0,"How exactly does the genetics of a bunch of spider heroes allow us to ""be rid of them""?"
+ID_DIALOG_SCE_S6EE_02_INTRO_1,"Patience, Otto. You'll see the greatness of my plan in the fullness of time!"
+ID_DIALOG_SCE_S6EE_02_START_0,Is it Halloween already?
+ID_DIALOG_SCE_S6EE_02_START_1,We'll see if you're so glib when you're trapped in MY web!
+ID_DIALOG_SCE_S6EE_02_START_2,You have webs now?
+ID_DIALOG_SCE_S6EE_02_END_0,"Restrain him, Kraven. Lizard, get the sample."
+ID_DIALOG_SCE_S6EE_03_INTRO_0,"What progress, Lizard?"
+ID_DIALOG_SCE_S6EE_03_INTRO_1,Promissssing! Your theory isss valid!
+ID_DIALOG_SCE_S6EE_03_INTRO_2,Muhahahahaha! Excellent!
+ID_DIALOG_SCE_S6EE_03_START_0,Spider sense... woah!
+ID_DIALOG_SCE_S6EE_03_END_0,Extracting sssample...
+ID_DIALOG_SCE_S6EE_03_END_1,"Facing children is no test of my skill, Goblin. When do I get a real challenge?"
+ID_DIALOG_SCE_S6EE_03_END_2,"Soon, Kraven, soon!"
+ID_DIALOG_SCE_S6EE_04_INTRO_0,"One of the spiders is close, but this one has an odd... scent. Like rain."
+ID_DIALOG_SCE_S6EE_04_START_0,You fellas look lost. And dastardly.
+ID_DIALOG_SCE_S6EE_04_START_1,"Hot off the presses, black and white Spider Man is about to be black and blue!"
+ID_DIALOG_SCE_S6EE_04_START_2,I reject that headline!
+ID_DIALOG_SCE_S6EE_04_END_0,"Curious, even in our dimension this one somehow remains monochromatic."
+ID_DIALOG_SCE_S6EE_04_END_1,What quirk of science can possibly explain that?
+ID_DIALOG_SCE_S6EE_04_END_2,"Write a paper on it later, Octavius. We have mayhem to do!"
+ID_DIALOG_SCE_S6EE_05_INTRO_0,"Goblin, I think it's time you let the rest of us in on how this plan of yours works."
+ID_DIALOG_SCE_S6EE_05_INTRO_1,"Ahahahaha! It's so SIMPLE. First, we fully map the genetics of the ten spiders."
+ID_DIALOG_SCE_S6EE_05_INTRO_2,NEXT we create the ultimate BUG BOMB!
+ID_DIALOG_SCE_S6EE_05_INTRO_3,It will seek out and destroy EVERY SPIDER! Then we unleash it!
+ID_DIALOG_SCE_S6EE_05_START_0,I don't have time for you chumps today.
+ID_DIALOG_SCE_S6EE_05_END_0,"Five ssspiders down, five ssspiders to go!"
+ID_DIALOG_SCE_S6EE_06_INTRO_0,"So this ""bug bomb"", how does it work?"
+ID_DIALOG_SCE_S6EE_06_INTRO_1,"The fine details are too much for anyone but I to grasp, Octavius."
+ID_DIALOG_SCE_S6EE_06_INTRO_2,"But suffice to say it will rid us of not just the Spider-People of our world, but all the ones imported by that alien warlord too!"
+ID_DIALOG_SCE_S6EE_06_INTRO_3,Your explanation seems overly simplistic.
+ID_DIALOG_SCE_S6EE_06_INTRO_4,Silence! Who else has the brilliance required?! Who else has the MASTERY of genetics and technology?!
+ID_DIALOG_SCE_S6EE_06_INTRO_5,"I DO, and that is why my plan CANNOT FAIL! MUHAHAHAHA!"
+ID_DIALOG_SCE_S6EE_06_START_0,All five of you together? That can't be good.
+ID_DIALOG_SCE_S6EE_06_END_0,"Lizard, you're a geneticist. Certainly you find Goblin's plan lacking in... fine details, do you not?"
+ID_DIALOG_SCE_S6EE_06_END_1,What we ssstole from the mutantsss wasss the key. Thisss plan can work.
+ID_DIALOG_SCE_S6EE_06_END_2,The mutants are what concern me. The one called Apocalypse I've heard of. We should not have bested him so easily.
+ID_DIALOG_SCE_S6EE_07_INTRO_0,"Your concerns are warranted, Doctor. We defeated that mutant far too easily."
+ID_DIALOG_SCE_S6EE_07_INTRO_1,We need to find out more about who he was. Perhaps he had some ulterior motive for allowing us to steal his research?
+ID_DIALOG_SCE_S6EE_07_INTRO_2,I'll see what dirt I can dig up on him.
+ID_DIALOG_SCE_S6EE_07_END_0,"[I won't let you do this, Goblin!]"
+ID_DIALOG_SCE_S6EE_07_END_1,"[Shut Up, Norman! You were too WEAK to do what needs to be done! But I'm not.]"
+ID_DIALOG_SCE_S6EE_07_END_2,"[This plan is madness, even for you. Something's not right!]"
+ID_DIALOG_SCE_S6EE_07_END_3,"[ENOUGH! Back in your box, Osborn!]"
+ID_DIALOG_SCE_S6EE_07_END_4,[No! If I can just... connect my mind to the mainframe...]
+ID_DIALOG_SCE_S6EE_07_END_5,[Naughty Norman! I said BACK IN YOUR BOX!]
+ID_DIALOG_SCE_S6EE_08_INTRO_0,Apocalypse is some kind of ancient mutant. What I've learned is that he is a master of manipulation and mind control!
+ID_DIALOG_SCE_S6EE_08_INTRO_1,Do you think he is manipulating Goblin?
+ID_DIALOG_SCE_S6EE_08_INTRO_2,"To what end? As far as we know Spider Man and his ilk aren't mutants, but genetic aberrations of science."
+ID_DIALOG_SCE_S6EE_08_INTRO_3,"Apocalypse once attempted to develop a virus that killed all non-mutants. Maybe the ""bug bomb"" is something similar?"
+ID_DIALOG_SCE_S6EE_08_INTRO_4,"Lizard, we are in need of your expertise."
+ID_DIALOG_SCE_S6EE_08_INTRO_5,I will analysssse. Give me the data...
+ID_DIALOG_SCE_S6EE_08_START_0,"YES! YES! We are nearly ready! Step into my parlor, said the Goblin to the Spider!"
+ID_DIALOG_SCE_S6EE_08_START_1,"You're deranged, Goblin. Your reign of terror ends now!"
+ID_DIALOG_SCE_S6EE_08_START_2,"AH, HAHAHAHAHAHA!"
+ID_DIALOG_SCE_S6EE_08_END_0,"It isss asss thought. The ""bug bomb"" is basssed on the anti-human virusss. It will not do what Goblin thinksss."
+ID_DIALOG_SCE_S6EE_08_END_1,"What WILl it do, once unleashed?"
+ID_DIALOG_SCE_S6EE_08_END_2,Unclear. It rewrites geneticsss and isss very cleverly disguisssed.
+ID_DIALOG_SCE_S6EE_08_END_3,"Goblin must be under Apocalypse's control somehow. Lizard, if we subdue him can you purge the mutant's control?"
+ID_DIALOG_SCE_S6EE_08_END_4,Possibly? Testsss must be run. Samplesss taken. Osborn'sss condition isss complex.
+ID_DIALOG_SCE_S6EE_08_END_5,"So, we know what we must do."
+ID_DIALOG_SCE_S6EE_09_INTRO_0,"Goblin, we have a problem."
+ID_DIALOG_SCE_S6EE_09_INTRO_1,WHAT PROBLEM?!
+ID_DIALOG_SCE_S6EE_09_INTRO_2,Your plan will fail. You're being manipulated by that mutant we stole the research from--the one called Apocalypse.
+ID_DIALOG_SCE_S6EE_09_INTRO_3,Stand down and let Lizard analyze you so we can break the mutant's hold on your mind.
+ID_DIALOG_SCE_S6EE_09_INTRO_4,WHAT TREACHERY IS THIS? I WILL DESTROY YOU ALL FOR THIS!
+ID_DIALOG_SCE_S6EE_09_START_0,I don't need you traitorous minions anymore! I can complete the weapon myself!
+ID_DIALOG_SCE_S6EE_09_START_1,Restrain him!
+ID_DIALOG_SCE_S6EE_09_MID_0,Uh... no... what... what am I doing?!
+ID_DIALOG_SCE_S6EE_09_MID_1,"[DO NOT RESIST, HUMAN. DO AS I HAVE COMMANDED!]"
+ID_DIALOG_SCE_S6EE_09_MID_2,"No No No No NO! No More Osborn, no more! I AM IN CONTROL!"
+ID_DIALOG_SCE_S6EE_09_MID_3,I believe we are seeing Goblin's personalities vie for control. Perhaps Apocalypse is only able to manipulate the Goblin persona?
+ID_DIALOG_SCE_S6EE_09_MID_4,How does that help us right now?
+ID_DIALOG_SCE_S6EE_09_MID_5,"It doesn't, take him down!"
+ID_DIALOG_SCE_S6EE_09_END_0,I have found the key... foreign machinesss in his blood.
+ID_DIALOG_SCE_S6EE_09_END_1,"The anti-human virus was partly nanotechnological in nature. Your theory was right, Octavius. Can we purge it?"
+ID_DIALOG_SCE_S6EE_09_END_2,This technology is beyond even I...
+ID_DIALOG_SCE_S6EE_09_END_3,But... not...ME!
+ID_DIALOG_SCE_S6EE_09_END_4,AHHHHHRRRRGGGHHHH!
+ID_DIALOG_SCE_S6EE_09_END_5,[CEASE YOUR RESISTANCE. OBEY!]
+ID_DIALOG_SCE_S6EE_09_END_6,You will... NEVER control... NORMAN OSBORN!
+ID_DIALOG_SCE_S6EE_09_END_7,ARGGGHHH UGHHH UH.....
+ID_DIALOG_SCE_S6EE_09_END_8,The Goblin suit is... countering the nanomachines somehow.
+ID_DIALOG_SCE_S6EE_10_INTRO_0,"Is it you, Osborn? Are you back?"
+ID_DIALOG_SCE_S6EE_10_INTRO_1,Yes... barely. I'm free of that insufferable mutant in my mind.
+ID_DIALOG_SCE_S6EE_10_INTRO_2,"Even as he controlled my actions as Green Goblin, he couldn't override the mental link I have with my OsCorp tech."
+ID_DIALOG_SCE_S6EE_10_INTRO_3,I willed my companion AI to access all OsCorp's nanotech and genetics research to find a cure. And once you stopped me I found a moment to act.
+ID_DIALOG_SCE_S6EE_10_INTRO_4,What was the mutant's goal? Why gather us and why target spider heroes?
+ID_DIALOG_SCE_S6EE_10_INTRO_5,"I don't know. But what I DO know is, it's time for some good old fashioned PAYBACK!"
+ID_DIALOG_SCE_S6EE_10_START_0,"Sugar, the boss man don't want no visitors right now. Why don't y'all skedaddle before one of you gets hurt?"
+ID_DIALOG_SCE_S6EE_10_MID_0,APOCALYPSE!
+ID_DIALOG_SCE_S6EE_10_MID_1,Where are you hiding? I've come for revenge!
+ID_DIALOG_SCE_S6EE_10_MID_2,FOOLISH HUMAN. DO YOU THINK YOU CAN TRULY FACE THE MIGHT OF APOCALYPSE?
+ID_DIALOG_SCE_S6EE_10_MID_3,"We took down your lackys, you're next!"
+ID_DIALOG_SCE_S6EE_10_MID_4,INSOLENT WORM. I AM AS FAR BEYOND THEM AS THEY ARE BEYOND YOU.
+ID_DIALOG_SCE_S6EE_10_MID_5,"I HAVE LIVED THROUGH EPOCHS AND AGES, THROUGH TERROR AND TIMULT."
+ID_DIALOG_SCE_S6EE_10_MID_6,YOU COULD HAVE BEEN THE INSTRUMENT OF GLORIOUS CHANGE AND PROGRESS.
+ID_DIALOG_SCE_S6EE_10_MID_7,"INSTEAD, YOU WILL BE A LESSON TO THOSE THAT FAIL TO SERVE THEIR SUPERIORS."
+ID_DIALOG_SCE_S6EE_10_END_0,"LITTLE HUMANS, THIS DEFEAT CHANGES NOTHING. YOU HAVE MERELY WON A BATTLE IN A WAR YOU CANNOT COMPREHEND."
+ID_DIALOG_SCE_S6EE_10_END_1,SAVOR YOUR FLEETING VICTORY BUT KNOW THAT YOU ARE NOT FIT TO CHALLENGE APOCALYPSE.
+ID_DIALOG_SCE_S6EE_10_END_2,What just happened?
+ID_DIALOG_SCE_S6EE_10_END_3,Some kind of teleportation tech. If he really is as old as he claims it makes sense he'd have contingencies.
+ID_DIALOG_SCE_S6EE_10_END_4,Let's blow this place up just to be spiteful. And after that...
+ID_DIALOG_SCE_S6EE_10_END_5,Gentlemen I think we have a lot of opportunities ahead of us.
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
@@ -8650,22 +8766,22 @@ ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_0,A SECRET ROXXON FACILITY...
 ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_1,"I'm through the laser grid, and..."
 ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_2,"We're in. Welcome to Roxxon's secret weapons lab. "
 ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_3,"The boss wasn't kidding, Bobbi. These prototypes are way beyond what S.T.R.I.K.E.'s got. "
-ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_4,"Do they have a really big gun? I love a really big gun. "
+ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_4,"Do they have a really big gun?\nI love a really big gun. "
 ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_5,If this stuff gets on the streets... We need to blow this place sky high before that happens.
 ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_6,"I'll set the charges. "
 ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_7,*INTRUDERS DETECTED. INITIATE HARD LIGHT HOLOGRAM DEFENSES*
 ID_DIALOG_TRIALS_GREENGOBLIN_01_INTRO_8,"Uh, and we'll handle those. Work fast, Coulson. "
 ID_DIALOG_TRIALS_GREENGOBLIN_01_END_0,"I gotta tell you guys, beating up Holograms isn't half as satisfying as real bad guys. "
 ID_DIALOG_TRIALS_GREENGOBLIN_01_END_1,Plus they just keep getting up. What's the status of those explosives?
-ID_DIALOG_TRIALS_GREENGOBLIN_01_END_2,Ready to blow. Just needed to make sure my 'cool guy' sunglasses were on.
+ID_DIALOG_TRIALS_GREENGOBLIN_01_END_2,Ready to blow. Just needed to make sure my 'cool guy' sunglasses\nwere on.
 ID_DIALOG_TRIALS_GREENGOBLIN_01_END_3,Seriously?
-ID_DIALOG_TRIALS_GREENGOBLIN_01_END_4,It's all about the details. Now let's go!
+ID_DIALOG_TRIALS_GREENGOBLIN_01_END_4,It's all about the details.\nNow let's go!
 ID_DIALOG_TRIALS_GREENGOBLIN_01_END_5,*BOOM!*
-ID_DIALOG_TRIALS_GREENGOBLIN_01_END_6,"Mockingbird to S.T.R.I.K.E. Mission accomplished, the Roxxon lab is rubble. "
-ID_DIALOG_TRIALS_GREENGOBLIN_01_END_7,"Great work, team. Now, return to S.T.R.I.K.E. Headquarters. I have a new mission for you."
+ID_DIALOG_TRIALS_GREENGOBLIN_01_END_6,"Mockingbird to S.T.R.I.K.E.! Mission accomplished, the Roxxon lab is rubble. "
+ID_DIALOG_TRIALS_GREENGOBLIN_01_END_7,"Great work, team. Now, return to S.T.R.I.K.E. Headquarters.\nI have a new mission for you."
 ID_DIALOG_TRIALS_GREENGOBLIN_01_END_8,"On our way, Director Osborn."
 ID_DIALOG_TRIALS_GREENGOBLIN_03_INTRO_0,Outstanding work destroying Roxxon. They'll never think to endanger the good people of the Nexus again.
-ID_DIALOG_TRIALS_GREENGOBLIN_03_INTRO_1,"I'm afraid you can't rest yet. Alechemax is developing a new formula of M.G.H. - Mutant Growth Hormone. "
+ID_DIALOG_TRIALS_GREENGOBLIN_03_INTRO_1,"I'm afraid you can't rest yet. Alchemax is developing a new formula of M.G.H.\n- Mutant Growth Hormone. "
 ID_DIALOG_TRIALS_GREENGOBLIN_03_INTRO_2,"Head to their lab and raze it to the ground. With prejudice. "
 ID_DIALOG_TRIALS_GREENGOBLIN_03_INTRO_3,We're on it.
 ID_DIALOG_TRIALS_GREENGOBLIN_03_INTRO_4,Clint... Does this feel right to you?
@@ -8681,13 +8797,13 @@ ID_DIALOG_TRIALS_GREENGOBLIN_03_END_4,"The power I've always dreamed of, for one
 ID_DIALOG_TRIALS_GREENGOBLIN_03_END_5,"A bargain at twice the price, Mephisto."
 ID_DIALOG_TRIALS_GREENGOBLIN_03_END_6,"Always happy to see a satisfied customer, Norman! HAHAHAHA!"
 ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_0,WEEKS LATER...
-ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_1,Quinjet Autopilot is telling me our destination is coming up. Lock and load.
+ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_1,Quinjet Autopilot is telling me our destination is coming up.\nLock and load.
 ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_2,(I've always wanted to say that.)
 ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_3,"Gather round, kids. I've got updated orders from Director Osborn. "
 ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_4,"Updated orders? We're about to take on a bunch of rogue ex-S.H.I.E.L.D. Agents, and he's changing the play?"
 ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_5,There's new intel and boss says capture isn't an option. We're supposed to take out their leader.
 ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_6,"I read the guy's file, I'm not sure why he's so important. "
-ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_7,Just some Cold War fossil. Name's Nick Fury.
+ID_DIALOG_TRIALS_GREENGOBLIN_05_INTRO_7,Just some Cold War fossil.\nName's Nick Fury.
 ID_DIALOG_TRIALS_GREENGOBLIN_05_END_0,"Okay, pal. End of the line."
 ID_DIALOG_TRIALS_GREENGOBLIN_05_END_1,"""Pal""? Barton, I don't know what you and your crew think you're doing... But you're way off the mark. "
 ID_DIALOG_TRIALS_GREENGOBLIN_05_END_2,"Okay, you know my name. So you also I know I don't miss. "
@@ -8707,21 +8823,21 @@ ID_DIALOG_TRIALS_GREENGOBLIN_8_INTRO_6,"Hellicarrier? Level 10 Access - Fury, Ni
 ID_DIALOG_TRIALS_GREENGOBLIN_8_END_0,"Here you go, all the files on Osborn. Take a look."
 ID_DIALOG_TRIALS_GREENGOBLIN_8_END_1,"There's... Nothing? There's not a single scrap of information about Director Osborn here. "
 ID_DIALOG_TRIALS_GREENGOBLIN_8_END_2,"That's because he's not real. Not ""Director Osborn"" anyway. "
-ID_DIALOG_TRIALS_GREENGOBLIN_8_END_3,"Three months ago I woke up and I wasn't in charge anymore and the Green Goblin was sitting in my chair. "
+ID_DIALOG_TRIALS_GREENGOBLIN_8_END_3,"Three months ago I woke up and I wasn't in charge anymore. And the Green Goblin was sitting in my chair. "
 ID_DIALOG_TRIALS_GREENGOBLIN_8_END_4,"Why can't we remember that? And why can you? "
 ID_DIALOG_TRIALS_GREENGOBLIN_8_END_5,"Sadly, those are questions you'll take with you to the grave. "
 ID_DIALOG_TRIALS_GREENGOBLIN_8_END_6,"You see, the punishment for treason is DEATH!"
 ID_DIALOG_TRIALS_GREENGOBLIN_10_INTRO_0,"I'm not sure how you still remember, Fury, but it's nothing a few pumpkin bombs can't knock out of your skull!"
 ID_DIALOG_TRIALS_GREENGOBLIN_10_INTRO_1,"You think you're the first megalomaniac to try and re-write history? We have a Thanos on the payroll. "
 ID_DIALOG_TRIALS_GREENGOBLIN_10_INTRO_2,"My memory's protected by mutant psychics, mystical wards, and by being the smartest man in the room. "
-ID_DIALOG_TRIALS_GREENGOBLIN_10_INTRO_3,"I can't believe I was taking orders? Just, like, in general. Extremely not me. "
+ID_DIALOG_TRIALS_GREENGOBLIN_10_INTRO_3,"I can't believe I was taking orders! Just, like, in general.\nExtremely not me. "
 ID_DIALOG_TRIALS_GREENGOBLIN_10_INTRO_4,"Maybe next time you'll listen to me. Now, though, we get to work our frustrations out on Osborn. "
-ID_DIALOG_TRIALS_GREENGOBLIN_10_INTRO_5,Mephisto! This was not part of the plan!
+ID_DIALOG_TRIALS_GREENGOBLIN_10_INTRO_5,Mephisto!\nThis was not part of the plan!
 ID_DIALOG_TRIALS_GREENGOBLIN_10_INTRO_6,"Oh, I think this is going EXACTLY according to plan."
 ID_DIALOG_TRIALS_GREENGOBLIN_10_END_0,"We had a deal! I give you my soul, you give me power!"
 ID_DIALOG_TRIALS_GREENGOBLIN_10_END_1,"We did. And you got exactly as much as your soul was worth. The entire blackened, withered thing. "
 ID_DIALOG_TRIALS_GREENGOBLIN_10_END_2,"It's not my fault if your sins got in the way of my perfectly good spell. Sorry, Norman! No refunds."
-ID_DIALOG_TRIALS_GREENGOBLIN_10_END_3,"I will find you, devil. I will have my revenge!"
+ID_DIALOG_TRIALS_GREENGOBLIN_10_END_3,"I will find you, devil.\nI will have my revenge!"
 ID_DIALOG_TRIALS_GREENGOBLIN_10_END_4,"Well, if you're so unhappy, I'll just set things back to how they were."
 ID_DIALOG_TRIALS_GREENGOBLIN_10_END_5,No!!!
 ID_DIALOG_TRIALS_GREENGOBLIN_10_END_6,*SNAP*
