@@ -7681,3 +7681,42 @@ ID_ME_NA_STARKGRANT_ANNOUNCE,LIVE: Stark Grant
 ID_ME_NA_STARKGRANT_ENDING,ENDING: Stark Grant
 ID_ME_DE_STARKGRANT_ENDING,Make Tony Stark proud!
 ID_ME_BO_STARKGRANT_ENDING,"Commander,\n\nThe Stark Grant Event <color=#fff568>ends soon</color>. Continue earning game changing rewards like Teal Tech Gear!\n\nGood luck, Commander!"
+ID_ME_NA_PREVIEW_SPIDERSLAYER,Coming Soon: Web-Head Hunters
+ID_ME_DE_PREVIEW_SPIDERSLAYER,Spider-Slayer's Showcase
+ID_ME_BO_PREVIEW_SPIDERSLAYER,"Commander,\n\n<color=#fff568>SPIDER-SLAYER</color>'s Showcase Event is coming soon! Earn valuable resources by using Spider-Slayer in exciting missions!\n\nRequirements\nStory Difficulty - Any combination of 5 <color=#fff568>INVADER</color> and/or <color=#fff568>SUPERIOR SIX</color> characters.\n\nChallenge Difficulty - Spider-Slayer is required, and bring any Invader or Superior Six characters to fill the other spots on the team. All characters must be equipped with at least Gear Tier 13.\n\nGet ready, Commander!"
+ID_ME_NA_LIVE_SPIDERSLAYER,LIVE: Web-Head Hunters
+ID_ME_DE_LIVE_SPIDERSLAYER,Battle with Spider-Slayer and earn rewards!
+ID_ME_BO_LIVE_SPIDERSLAYER,"Commander,\n\nSpider-Slayer's Showcase Event has begun!\n\nMissions\nThis event has two difficulties: Story and Challenge, each with 8 Missions. Battle through Spider-Slayer's story and earn as many rewards as you can.\n\nRequirements\nStory Difficulty - Any combination of 5 <color=#fff568>INVADER</color> and/or <color=#fff568>SUPERIOR SIX</color> characters.\n\nChallenge Difficulty - Spider-Slayer is required, and bring any Invader or Superior Six characters to fill the other spots on the team. All characters must be equipped with at least Gear Tier 13.\n\nGood luck, Commander!"
+ID_ME_NA_ENDING_SPIDERSLAYER,ENDING: Web-Head Hunters
+ID_ME_DE_ENDING_SPIDERSLAYER,2 Days Left!
+ID_ME_BO_ENDING_SPIDERSLAYER,"Commander,\n\nSpider-Slayer's Showcase Event ends in 2 days. Continue earning rewards before this Showcase ends!\n\nGood luck, Commander!"
+ID_ME_NA_SPIDERSLAYER_TEASER,Soon: Spider-Slayer
+ID_ME_DE_SPIDERSLAYER_TEASER,Arachno-Annihilator
+ID_ME_BO_SPIDERSLAYER_TEASER,"Commander,\n\n<color=#fff568>Spider-Slayer</color> reporting in! Time for some hard-hitting journalistic beatdowns in the Cosmic Crucible:\n\n<color=#fff568>Ability Highlights</color>\nApply Offense Up to self and Sinister Six allies. Attack all enemies while flipping Offense Up, Evade and Speed Up and even attack Spider-Verse enemies for extra Piercing. Call in Sinister Six allies with the highest Damage to attack with you.\n\n\n<color=#fff568>Sinister Six Bonuses</color>\nSinister Six allies gain extra Armor and Damage and, on Spawn, gain Offense Up.\n\n<color=#fff568>Cosmic Crucible Bonuses</color>\nAll Sinister Six allies, including this character, gain +100% Accuracy when they have Offense Up.\n\nBe on the lookout for details on how to earn their character shards!"
+ID_ME_NA_SPIDERSLAYER_ANNOUNCE,Spider-Slayer is here!
+ID_ME_DE_SPIDERSLAYER_ANNOUNCE,Arachno-Annihilator
+ID_ME_BO_SPIDERSLAYER_ANNOUNCE,"Commander,\n\n<color=#fff568>Spider-Slayer</color> reporting in! Time for some hard-hitting journalistic beatdowns in the Cosmic Crucible:\n\n<color=#fff568>Ability Highlights</color>\nApply Offense Up to self and Sinister Six allies. Attack enemies and flip their positive effects to negative effects. Gain extra Piercing when attacking Spider-Verse enemies. Call in Sinister Six allies with the highest Damage to attack with you.\n\n\n<color=#fff568>Sinister Six Bonuses</color>\nSinister Six allies gain extra Armor and Damage and, on Spawn, gain Offense Up.\n\n<color=#fff568>Cosmic Crucible Bonuses</color>\nAll Sinister Six allies, including this character, gain +100% Accuracy when they have Offense Up.\n\n<color=#fff568>How to Recruit</color>\n- Exterminator Orb\n- Limited-time offers\n- An upcoming event\n\n<color=#fff568>Red Stars</color>\nFor players who have unlocked the Red Stars feature (Level 42), Spider-Slayer is featured in Red Star Orbs with an increased drop rate for a limited time.\n\nRecruit this Cosmic Crucible victory machine today!"
+ID_ME_NA_SPIDERSLAYER_RS_ENDING,Red Stars: Spider-Slayer
+ID_ME_DE_SPIDERSLAYER_RS_ENDING,Featuring Ends Soon!
+ID_ME_BO_SPIDERSLAYER_RS_ENDING,"Commander,\n\n<color=#fff568>Spider-Slayer</color> will only be featured in all Red Star Orbs for 2 more days!\n\nHurry and open Red Star Orbs while the drop rate is still increased."
+ID_ME_NA_SPIDERSLAYER_ORB_ENDING,Exterminator Orb
+ID_ME_DE_SPIDERSLAYER_ORB_ENDING,2 days left!
+ID_ME_BO_SPIDERSLAYER_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Exterminator Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Spider-Slayer</color> for your <color=#fff568>Superior Six</color> team and report in from the Cosmic Crucible!"
+ID_ME_NA_SPIDERSLAYER_PREBAMESH,Recruit Spider-Slayer!
+ID_ME_DE_SPIDERSLAYER_PREBAMESH,Availability Update
+ID_ME_BO_SPIDERSLAYER_PREBAMESH,"Commander,\n\n<color=#fff568>Spider-Slayer</color> has been added to the Ultimus Orb, Basic Orb, Premium Orb, Mega Orb, and the Supplies section in the Store. As a result, we have removed <color=#fff568>Captain Carter</color> from the Mega Orb to keep the orb's content exciting and up to date."
+ID_ME_NA_SPIDERSLAYER_ELITE_STORE,Red Stars: Recruit Spider-Slayer!
+ID_ME_DE_SPIDERSLAYER_ELITE_STORE,Elite Store Update
+ID_ME_BO_SPIDERSLAYER_ELITE_STORE,"Commander,\n\nDirect Red Star promotions for <color=#fff568>Spider-Slayer</color> have been added to the <color=#fff568>Elite Store</color>!\n\nYou can now use <color=#fff568>Dark Promotion Credits</color> to promote them <color=#fff568>1 Red Star higher</color> than their current rank.\n\nEarn Promotion Credits by <color=#fff568>exchanging your Elite Credits</color> or by completing the Alliance Donation Daily Objective."
+ID_ME_NA_BATTLEPASS_SEASON8_ANNOUNCE,Battle Pass: Season 8
+ID_ME_DE_BATTLEPASS_SEASON8_ANNOUNCE,Earn Ironheart (MKII) shards & Teal gear!
+ID_ME_BO_BATTLEPASS_SEASON8_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle pass: Season 8 is LIVE</color>!\n\nComplete this Season's Daily and Weekly Objectives to win these <color=#fff568>Featured Prizes</color>:\n- Ironheart (MKII) character shards\n- Teal Gear\n\nUpgrade to the <color=#fff568>Premium Pass</color> to earn even more rewards.\n\nCharge into Battle Pass: Season 8 today!"
+ID_ME_NA_BATTLEPASS_SEASON8_ENDING,Season 8 Ending Soon
+ID_ME_DE_BATTLEPASS_SEASON8_ENDING,Battle Pass: 2 more days!
+ID_ME_BO_BATTLEPASS_SEASON8_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Ironheart (MKII) shards and Teal Gear before the Season ends!"
+ID_ME_NA_STRIKEPASS47_ANNOUNCE,S.T.R.I.K.E. Pass: Season 47
+ID_ME_DE_STRIKEPASS47_ANNOUNCE,Earn Darkhawk shards!
+ID_ME_BO_STRIKEPASS47_ANNOUNCE,"Commander,\n\n<color=#fff568>S.T.R.I.K.E. Pass: Season 47 is live!</color>\n\nFeatured Character Shards: <color=#fff568>Darkhawk</color>\n<color=#fff568>How it Works</color>\n- Certain Daily Objectives reward S.T.R.I.K.E. Tokens\n- Earn S.T.R.I.K.E. Tokens to hit Season-long milestone rewards\n- You can also spend Power Cores to immediately reach the next S.T.R.I.K.E. Level\n- Your S.T.R.I.K.E. Level resets each Season\n\n<color=#fff568>Reward Tiers</color>\n- Commander Level determines your S.T.R.I.K.E. Pass Tier & Rewards\n- S.T.R.I.K.E. I: Commander Levels 10-49\n- S.T.R.I.K.E. II: Commander Levels 50-79\n- S.T.R.I.K.E. III: Commander Levels 80+\n- Your Commander Level at the START of the season determines which S.T.R.I.K.E. Pass Tier you get for the duration of the Season\n\n<color=#fff568>Premium S.T.R.I.K.E. Pass</color>\nUpgrade to the <color=#fff568>Premium S.T.R.I.K.E. Pass</color> to earn additional rewards for reaching each S.T.R.I.K.E. Level."
+ID_ME_NA_STRIKEPASS47_ENDING,Ending: S.T.R.I.K.E. Pass
+ID_ME_DE_STRIKEPASS47_ENDING,Don't miss Darkhawk shards!
+ID_ME_BO_STRIKEPASS47_ENDING,"Commander,\n\nYou only have <color=#fff568>2 days</color> remaining to earn <color=#fff568>Darkhawk</color> shards in Season 47 of S.T.R.I.K.E. Pass.\n\nHurry and complete your Daily Objectives before these rewards are gone!"

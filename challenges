@@ -2076,3 +2076,10 @@ ID_INFO_BO_STARKGRANT,"<color=#fff568>Stark Grant Milestone</color>\nGain progre
 ID_INFO_NA_ENGINEOFWAR,Engine of War
 ID_INFO_DE_ENGINEOFWAR,Battle in Alliance War for Gold rewards!
 ID_INFO_BO_ENGINEOFWAR,Battle in War to earn Gold and Reverse-Engineer progress!
+ID_SCE_SPIDERSLAYER_NAME,Web-Head Hunters
+ID_SCE_SPIDERSLAYER_DESC,Spider-Slayer forms an uneasy alliance with Kraven the Hunter and declare Spider season open!
+ID_SCE_CHANCE_SPIDERSLAYER,Spider-Slayer Showcase
+ID_EVENT_SPIDERSLAYER_DIF1_FLAVOR,Meet Spider-Slayer!
+ID_EVENT_SPIDERSLAYER_DIF1_DESC,Requirements: Invader or Superior Six Characters.\n\nSpider-Slayer will join your team for every battle!
+ID_EVENT_SPIDERSLAYER_DIF2_FLAVOR,Earn amazing rewards!
+ID_EVENT_SPIDERSLAYER_DIF2_DESC,"Requirements: 3 Invader Characters, Kraven the Hunter, and Spider-Slayer.\n\nAll characters must be Gear Tier 13"
