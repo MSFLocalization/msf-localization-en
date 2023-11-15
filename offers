@@ -4558,7 +4558,7 @@ ID_OF_NA_REVERSEENGINEER_BOOSTER_ANCHOR,Reverse-Engineer: Daily Points
 ID_OF_NA_REVERSEENGINEER_MEGA_POINTS,Reverse-Engineer: Daily Points
 ID_OF_NA_REVERSEENGINEER_BOOSTER,Reverse-Engineer: Victory Bundle
 ID_OF_NA_REVERSEENGINEER_POINTS,Reverse-Engineer Points Bundle
-ID_OF_NA_REVERSEENGINEER_BOOSTER_MINOR,Reverse-Engineer: Gem Chest
+ID_OF_NA_REVERSEENGINEER_BOOSTER_MINOR,Reverse-Engineer: Vibranium Cache
 ID_OF_NA_REVERSEENGINEER_CATCHUP_MEGA,Reverse-Engineer: Mega Catch-Up
 ID_OF_NA_REVERSEENGINEER_CATCHUP_SUPER,Reverse-Engineer: Super Catch-Up
 ID_OF_NA_REVERSEENGINEER_CATCHUP,Reverse-Engineer: Catch-Up Bundle
@@ -4571,7 +4571,7 @@ ID_OF_DE_REVERSEENGINEER_BOOSTER_ANCHOR,Make consistent <color=#fff568>Reverse-E
 ID_OF_DE_REVERSEENGINEER_MEGA_POINTS,Stock up on <color=#fff568>Reverse-Engineer</color> progress and <color=#fff568>Ironheart (MKII) shards</color> with this special deal!
 ID_OF_DE_REVERSEENGINEER_BOOSTER,Stock up on <color=#fff568>Reverse-Engineer</color> progress and <color=#fff568>Legacy Orbs</color> with this special deal!
 ID_OF_DE_REVERSEENGINEER_POINTS,Stock up on <color=#fff568>Reverse-Engineer</color> progress with this special deal!
-ID_OF_DE_REVERSEENGINEER_BOOSTER_MINOR,Stock up on <color=#fff568>Reverse-Engineer</color> progress and <color=#fff568></color> with this special deal!
+ID_OF_DE_REVERSEENGINEER_BOOSTER_MINOR,Stock up on <color=#fff568>Reverse-Engineer</color> progress with this special deal!
 ID_OF_DE_REVERSEENGINEER_CATCHUP_MEGA,"Finish strong in the milestones and leaderboards for <color=#fff568>Ironheart (MKII) shards</color>, <color=#fff568>fully crafted Gear Tier 17 pieces</color> and <color=#fff568>up to 8,000,000 T2 Level 5 Ions</color>!"
 ID_OF_DE_REVERSEENGINEER_CATCHUP_SUPER,Finish strong in the milestones for <color=#fff568>Ironheart (MKII) shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
 ID_OF_DE_REVERSEENGINEER_CATCHUP,Finish strong in the milestones for <color=#fff568>Ironheart (MKII) shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
@@ -4877,3 +4877,43 @@ ID_OF_STOREBAR_SPIDERSLAYER,Dual Offer: Spider-Slayer
 ID_OF_NA_DUAL_SPIDERSLAYER,Dual Offer: Spider-Slayer
 ID_OF_DE_DUAL_SPIDERSLAYER,Choose your path to power up this <color=#fff568>Superior Six</color> member!
 ID_OF_DE_DUAL_UNLOCK_SPIDERSLAYER,Unlock this <color=#fff568>Superior Six</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_ANIMALARMATURE_STARTER,Animal Armature: Starter
+ID_OF_NA_ANIMALARMATURE_CATCHUP,Animal Armature: Catch-up
+ID_OF_NA_ANIMALARMATURE_DAILY_ORB,Animal Armature: Superior Seeker Orbs
+ID_OF_NA_ANIMALARMATURE_DAILY_POINTS,Animal Armature: Event Points
+ID_OF_NA_ANIMALARMATURE_INCURSION_ENERGY,Animal Armature: Incursion Energy
+ID_OF_NA_ANIMALARMATURE_DAILY_INTERSTITIAL,Animal Armature: HIdden Cache
+ID_OF_NA_ANIMALARMATURE_FREE_CLAIM,Animal Armature: Free Claim
+ID_OF_DE_ANIMALARMATURE_STARTER,Get ahead in the <color=#fff568>Animal Armature</color> Milestone and sneak your way toward <color=#fff568>Kraven the Hunter</color> shards and Gear Tier 18 Mini-Uniques!
+ID_OF_DE_ANIMALARMATURE_CATCHUP,Finish strong in the <color=#fff568>Animal Armature Milestone</color> and get your hands on <color=#fff568>Kraven the Hunter shards</color> and <color=#fff568>Gear Tier 18 Mini-Uniques</color>!
+ID_OF_DE_ANIMALARMATURE_DAILY_ORB,"Get bonus Superior Seeker Orbs for <color=#fff568>Animal Armature Milestone</color> progress! "
+ID_OF_DE_ANIMALARMATURE_DAILY_POINTS,Claim your daily dose of <color=#fff568>Animal Armature</color> milestone points with this offer!
+ID_OF_DE_ANIMALARMATURE_INCURSION_ENERGY,Get a daily dose of Incursion Energy to complete the <color=#fff568>Big Armor Hunter Web Milestone</color> and get additional Superior Seeker Orbs for the <color=#fff568>Animal Armature Milestone</color>!
+ID_OF_DE_ANIMALARMATURE_DAILY_INTERSTITIAL,Get boosted <color=#fff568>Animal Armature</color> progress with this daily cache of resources!
+ID_OF_DE_ANIMALARMATURE_FREE_CLAIM,Come back daily for more <color=#fff568>Animal Armature</color> progress!
+ID_OF_NA_ENGINEOFWAR_STARTER,Engine of War: Starter
+ID_OF_NA_ENGINEOFWAR_CATCHUP,Engine of War: Catch-Up
+ID_OF_NA_ENGINEOFWAR_DAILY_WAR,Engine of War: Military Upgrades
+ID_OF_NA_ENGINEOFWAR_DAILY_ORB,Engine Of War: Allied Supply II Orbs
+ID_OF_NA_ENGINEOFWAR_INTERSTITIAL,Engine of War: Supply Bundle
+ID_OF_NA_ENGINEOFWAR_FREE_CLAIM,Engine of War: Free Claim
+ID_OF_DE_ENGINEOFWAR_STARTER,Give your alliance a huge head start in the <color=#fff568>Engine of War</color> milestone with this high value offer!
+ID_OF_DE_ENGINEOFWAR_CATCHUP,Smash through the end of the <color=#fff568>Engine of War</color> milestone and get your Alliance Iso-8 rewards!
+ID_OF_DE_ENGINEOFWAR_DAILY_WAR,Take advantage of this special deal to get the edge in Alliance War and progress in the <color=#fff568>Engine of War</color> milestone!
+ID_OF_DE_ENGINEOFWAR_DAILY_ORB,"Get Allied Supply orbs for <color=#fff568>Engine of War</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs containing T2 L5 Ions! "
+ID_OF_DE_ENGINEOFWAR_INTERSTITIAL,Stock up on Allied Supply Orbs for extra progress in the <color=#fff568>Engine of War Milestone</color>!
+ID_OF_DE_ENGINEOFWAR_FREE_CLAIM,Come back daily for more <color=#fff568>Engine of War</color> progress!
+ID_OF_NA_STARKGRANT_STARTER,Stark Grant: Starter
+ID_OF_NA_STARKGRANT_CATCHUP,Stark Grant: Mega Catch-up
+ID_OF_NA_STARKGRANT_DAILY_ORB,Stark Grant: Galvanized Orbs
+ID_OF_NA_STARKGRANT_DAILY_POINTS,Stark Grant: Event Points
+ID_OF_NA_STARKGRANT_DAILY_BLITZ,Stark Grant: Blitz Credits
+ID_OF_NA_STARKGRANT_INTERSTITIAL,Stark Grant: Storm Bundle
+ID_OF_NA_STARKGRANT_FREE_CLAIM,Stark Grant: Free Claim
+ID_OF_DE_STARKGRANT_STARTER,Get ahead in the <color=#fff568>Stark Grant</color> Milestone and one-up the competition in the leaderboard for a chance at a <color=#fff568>3-Diamond Dormammu</color> and <color=#fff568>Armory 18 Orbs</color>!
+ID_OF_DE_STARKGRANT_CATCHUP,Finish strong in the <color=#fff568>Stark Grant Milestone</color> and get your hands on Teal Tech gear and Diamond Dawn Orb Fragments!
+ID_OF_DE_STARKGRANT_DAILY_ORB,"Get bonus Galvanized Orbs for Iso-8 Ions and <color=#fff568>Stark Grant Milestone</color> progress! "
+ID_OF_DE_STARKGRANT_DAILY_POINTS,Make boosted progress in the <color=#fff568>Stark Grant Milestone</color> and get Diamond Dawn Orb Fragments and Gear Tier 18 Tech Mini-Uniques!
+ID_OF_DE_STARKGRANT_DAILY_BLITZ,Make boosted progress in the <color=#fff568>State of the Art Web Milestone</color> which rewards Galvanized Orbs and Vibranium Slabs!
+ID_OF_DE_STARKGRANT_INTERSTITIAL,Stock up on Galvanized Orbs and Event Points for extra progress in the <color=#fff568>Stark Grant Milestone</color>!
+ID_OF_DE_STARKGRANT_FREE_CLAIM,Come back daily for more <color=#fff568>Stark Grant</color> progress!

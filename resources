@@ -61,6 +61,8 @@ ID_AVA-ELITE-CUR_NAME,Elite War Credits
 ID_AVA-ELITE-CUR_DESCRIPTION,Use Elite War Credits to purchase Orbs and Supplies in the War Store.
 ID_AVE-CUR_NAME,Raid Credits
 ID_AVE-CUR_DESCRIPTION,Use Raid Credits to purchase Orbs and Supplies in the Raid Store.
+ID_AVE-ELITE-CUR_NAME,Elite Raid Credits
+ID_AVE-ELITE-CUR_DESCRIPTION,Use Elite Raid Credits to purchase Awakened Ability Material in the Raid Store.
 ID_EVTA_SEASON_POINTS_NAME,Raid Season Points
 ID_EVTA_SEASON_POINTS_DESCRIPTION,Collect Raid Season Points to complete Raid Season Milestones.
 ID_EVTA_UNSPECIFIED_NAME,Milestone Points
