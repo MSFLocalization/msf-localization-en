@@ -2083,3 +2083,12 @@ ID_EVENT_SPIDERSLAYER_DIF1_FLAVOR,Meet Spider-Slayer!
 ID_EVENT_SPIDERSLAYER_DIF1_DESC,Requirements: Invader or Superior Six Characters.\n\nSpider-Slayer will join your team for every battle!
 ID_EVENT_SPIDERSLAYER_DIF2_FLAVOR,Earn amazing rewards!
 ID_EVENT_SPIDERSLAYER_DIF2_DESC,"Requirements: 3 Invader Characters, Kraven the Hunter, and Spider-Slayer.\n\nAll characters must be Gear Tier 13"
+ID_INFO_NA_ANIMALARMATURE,Animal Armature
+ID_INFO_DE_ANIMALARMATURE,Unlock Kraven the Hunter and earn Teal Mystic Gear
+ID_INFO_BO_ANIMALARMATURE,"<color=#fff568>Animal Armature Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by earning Superior Seeker Orb fragments from Arena Ranked Rewards, completing the Big Armor Hunter Web Milestone, spending Arena Credits on special milestone point offers, and daily Free Claims. Earn fantastic rewards including <color=#fff568>Kraven the Hunter shards, Gold Promotion Credits, Elite 6 Credits, and Teal Mystic gear</color>. You'll also earn points towards the month-long Reverse-Engineer milestone by collecting Vibranium Slabs and the Jet Engine Parts.\n\n<color=#fff568>Daily Big Armor Hunter Web Milestone</color>\nSpend Campaign and Incursion Energy to earn Superior Seeker Orb Fragments for Animal Armature Event progress! Keep an eye out for Free Claims containing Superior Seeker Orb fragments every day!"
+ID_INFO_NA_SUPERIORSINISTER,Superior Sinister
+ID_INFO_DE_SUPERIORSINISTER,Battle in Cosmic Crucible for Training Modules!
+ID_INFO_BO_SUPERIORSINISTER,Battle in Cosmic Crucible to earn Training Modules and Reverse-Engineer progress! Earn even more points when you use Sinister Six characters
+ID_INFO_NA_WEAPONSONLINE,Weapons Online
+ID_INFO_DE_WEAPONSONLINE,Put in the work and earn Reverse-Engineer progress
+ID_INFO_BO_WEAPONSONLINE,"<color=#fff568>Weapons Online Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by spending Power Cores and earning Pack-A-Punch Orb Fragments earned from Campaign nodes and limited-time offers. Earn core rewards including <color=#fff568>Diamond Dawn Orb, Elite 7 Credits, and Teal Mystic Gear Tier 18 Mini-Uniques</color>. You'll also earn points towards the month-long Reverse-Engineer milestone by collecting Vibranium Slabs and the Indestructible Paint. Keep an eye out for Free Claims containing Pack-A-Punch Orb Fragments every day!\n\n<color=#fff568>Daily Architect of Desctruction Web Milestone</color>\nEarn Raid Credits to earn Vibranium Slabs for additional progress in the Reverse-Engineer Milestone."

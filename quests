@@ -3643,3 +3643,25 @@ ID_MILESTONE_BLITZ_KRAVENTHEHUNTER,Win a Blitz battle with: Kraven the Hunter
 ID_MILESTONE_BLITZ_GREENGOBLINGLIDER,Win a Blitz battle with: Green Goblin (Classic)
 ID_MILESTONE_BLITZ_IRONHEARTMCU,Win a Blitz battle with: Ironheart (MKII)
 ID_QU_S1_STARKGRANT,Open 1 Galvanized Orb
+ID_QU_NA_ANIMALARMATURE,Animal Armature
+ID_QU_SD_ANIMALARMATURE,Earn Superior Seeker Orbs from Arena Rewards
+ID_QU_LM_ANIMALARMATURE,"Animal Armature Milestone\nGain progress in this 7-day event by earning Superior Seeker Orb fragments from Arena Ranked Rewards, completing the Big Armor Hunter Web Milestone, spending Arena Credits on special milestone point offers, and daily Free Claims. Earn fantastic rewards including Kraven the Hunter shards, Gold Promotion Credits, Elite 6 Credits, and Teal Mystic gear. You'll also earn points towards the month-long Reverse-Engineer milestone by collecting Vibranium Slabs and the Jet Engine Parts.\n\nDaily Big Armor Hunter Web Milestone\nSpend Campaign and Incursion Energy to earn Superior Seeker Orb Fragments for Animal Armature Event progress! Keep an eye out for Free Claims containing Superior Seeker Orb fragments every day!"
+ID_QU_S1_ANIMALARMATURE,Earn 1 Superior Seeker Orb Fragment
+ID_QU_NA_BIGARMORHUNTER,Big Armor Hunter
+ID_QU_SD_BIGARMORHUNTER,Spend Campaign Energy
+ID_QU_LD_BIGARMORHUNTER,Spend Campaign and Incursion Energy to complete this milestone that rewards Superior Seeker Orb Fragments for Animal Armature Event progress!
+ID_QU_NA_SUPERIORSINISTER,Superior Sinister
+ID_QU_SD_SUPERIORSINISTER,Battle in Crucible and Earn Allied Supply II Orb Fragments
+ID_QU_LD_SUPERIORSINISTER,"Collaborate with your alliances to battle in Cosmic Crucible and earn Allied Supply II Orb Fragments. Allied Supply II Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store. "
+ID_QU_S1_SUPERIORSINISTER,Play Cosmic Crucible with Sinister Six Character
+ID_QU_S2_SUPERIORSINISTER,Play Cosmic Crucible with 4-star or higher Sinister Six Character
+ID_QU_S3_SUPERIORSINISTER,Play Cosmic Crucible with 5-star or higher Sinister Six Character
+ID_QU_S4_SUPERIORSINISTER,Play Cosmic Crucible with 6-star or higher Sinister Six Character
+ID_QU_S5_SUPERIORSINISTER,Play Cosmic Crucible with 7-star Sinister Six Character
+ID_QU_NA_ARCHITECTOFDESTRUCTION,Architect of Destruction
+ID_QU_SD_ARCHITECTOFDESTRUCTION,Earn Raid Credits
+ID_QU_LD_ARCHITECTOFDESTRUCTION,"Earn Raid Credits to complete this daily milestone that rewards Vibranium Slabs for the Reverse-Engineed Event as well as Gold,  Elite 4 Credits, and Weapons Online progress!"
+ID_QU_NA_WEAPONSONLINE,Weapons Online
+ID_QU_SD_WEAPONSONLINE,Earn Pack-A-Punch Orb Fragments
+ID_QU_LD_WEAPONSONLINE,Gain progress by spending Power Cores and earning Pack-A-Punch Orb Fragments earned from Campaign nodes and limited-time offers. Keep an eye out for Free Claims containing Pack-A-Punch Orb Fragments every day!
+ID_QU_S1_WEAPONSONLINE,Earn 1 Pack-A-Punch Orb Fragment

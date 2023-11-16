@@ -4900,8 +4900,8 @@ ID_OF_NA_ENGINEOFWAR_FREE_CLAIM,Engine of War: Free Claim
 ID_OF_DE_ENGINEOFWAR_STARTER,Give your alliance a huge head start in the <color=#fff568>Engine of War</color> milestone with this high value offer!
 ID_OF_DE_ENGINEOFWAR_CATCHUP,Smash through the end of the <color=#fff568>Engine of War</color> milestone and get your Alliance Iso-8 rewards!
 ID_OF_DE_ENGINEOFWAR_DAILY_WAR,Take advantage of this special deal to get the edge in Alliance War and progress in the <color=#fff568>Engine of War</color> milestone!
-ID_OF_DE_ENGINEOFWAR_DAILY_ORB,"Get Allied Supply orbs for <color=#fff568>Engine of War</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs containing T2 L5 Ions! "
-ID_OF_DE_ENGINEOFWAR_INTERSTITIAL,Stock up on Allied Supply Orbs for extra progress in the <color=#fff568>Engine of War Milestone</color>!
+ID_OF_DE_ENGINEOFWAR_DAILY_ORB,"Get Allied Supply II Orbs for <color=#fff568>Engine of War</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs containing T2 L5 Ions! "
+ID_OF_DE_ENGINEOFWAR_INTERSTITIAL,Stock up on Allied Supply II Orbs for extra progress in the <color=#fff568>Engine of War Milestone</color>!
 ID_OF_DE_ENGINEOFWAR_FREE_CLAIM,Come back daily for more <color=#fff568>Engine of War</color> progress!
 ID_OF_NA_STARKGRANT_STARTER,Stark Grant: Starter
 ID_OF_NA_STARKGRANT_CATCHUP,Stark Grant: Mega Catch-up
@@ -4939,3 +4939,27 @@ ID_OF_DE_INCURSION2_DEATHSEED_UNIQUES,Give your <color=#ffda21>Death Seed</color
 ID_OF_DE_INCURSION2_REBIRTH_UNIQUES,Give your <color=#ffda21>Rebirth</color> team the <color=#fff568>Teal Gear Uniques</color> they need with this Incursion Raid II Launch Special!
 ID_OF_DE_INCURSION2_BIFROST_UNIQUES,Give your <color=#ffda21>Bifrost</color> team the <color=#fff568>Teal Gear Uniques</color> they need and reach new heights in the new <color=#ffda21>Incursion Raid II</color>!!
 ID_OF_DE_INCURSION2_PEGASUS_UNIQUES,Give your <color=#ffda21>P.E.G.A.S.U.S.</color> team the <color=#fff568>Teal Gear Uniques</color> they need and reach new heights in the new <color=#ffda21>Incursion Raid II</color>!!
+ID_OF_DE_WEAPONSONLINE_STARTER,Speed through the <color=#fff568>Weapons Online</color> Milestone and get <color=#fff568>Pack-A-Punch Orbs</color> and <color=#fff568>Teal Gear</color> with this offer!
+ID_OF_DE_WEAPONSONLINE_CATCHUP,Finish strong in the <color=#fff568>Weapons Online Milestone</color> and get your hands on Teal Skill gear and Diamond Dawn Orb Fragments!
+ID_OF_DE_WEAPONSONLINE_DAILY_POINTS,Stock up on Event Points for extra progress in the <color=#fff568>Weapons Online Milestone</color>!
+ID_OF_DE_WEAPONSONLINE_DAILY_ORBS,Come back daily for more Pack-A-Punch Orbs and <color=#fff568>Weapons Online</color> progress!
+ID_OF_DE_WEAPONSONLINE_DAILY_ENERGY,Make consistent <color=#fff568>Weapons Online</color> progress with this daily campaign energy supply!
+ID_OF_DE_WEAPONSONLINE_INTERSTITIAL,Stock up on Pack-A-Punch Orbs and Event Points for extra progress in the <color=#fff568>Weapons Online Milestone</color>!
+ID_OF_DE_WEAPONSONLINE_FREE_CLAIM,Come back daily for more <color=#fff568>Weapons Online</color> progress!
+ID_OF_NA_WEAPONSONLINE_STARTER,Weapons Online: Mega Bundle
+ID_OF_NA_WEAPONSONLINE_CATCHUP,Weapons Online: Raid Bundle
+ID_OF_NA_WEAPONSONLINE_DAILY_POINTS,Weapons Online: Event Points
+ID_OF_NA_WEAPONSONLINE_DAILY_ORBS,Weapons Online: Pack-A-Punch Orbs
+ID_OF_NA_WEAPONSONLINE_DAILY_ENERGY,Weapons Online: Campaign Energy
+ID_OF_NA_WEAPONSONLINE_INTERSTITIAL,Weapons Online: Weapons Cache
+ID_OF_NA_WEAPONSONLINE_FREE_CLAIM,Weapons Online: Free Claim
+ID_OF_DE_SUPERIORSINISTER_DAILY_ORB,"Get these orbs for <color=#fff568>Galactic Warzone</color> progress and open them for Apocalypse Bounty Orbs containing T2 L5 Ions and a slew of resources! "
+ID_OF_DE_SUPERIORSINISTER_STARTER,Give your alliance a huge head start in the <color=#fff568>Superior Sinister</color> milestone with this high value offer!
+ID_OF_DE_SUPERIORSINISTER_DAILY_INTERSTITIAL,Stock up on Allied Supply II Orbs for extra progress in the <color=#fff568>Superior Sinister Milestone</color>!
+ID_OF_DE_SUPERIORSINISTER_FREE_CLAIM,Come back daily for more <color=#fff568>Superior Sinister</color> progress!
+ID_OF_DE_SUPERIORSINISTER_CHARACTER_TEAM,Save big and gain additional progress on the <color=#fff568>Superior Sinister</color> milestone with these featured characters for a limited time!
+ID_OF_NA_SUPERIORSINISTER_DAILY_ORB,Superior Sinister: Allied Supply II Orbs
+ID_OF_NA_SUPERIORSINISTER_STARTER,Superior Sinister: Starter
+ID_OF_NA_SUPERIORSINISTER_DAILY_INTERSTITIAL,Superior Sinister: Allied Supply II Orbs
+ID_OF_NA_SUPERIORSINISTER_FREE_CLAIM,Superior Sinister: Free Claim
+ID_OF_NA_SUPERIORSINISTER_CHARACTER_TEAM,Superior Sinister: Character Bundle
