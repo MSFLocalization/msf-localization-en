@@ -2226,7 +2226,7 @@ ID_QU_SD_BESTOF2022,Collect Year's Best Orbs!
 ID_QU_LM_BESTOF2022,Make progress by collecting Year's Best Orbs to earn Gilded Champion Orbs and double up on rewards!
 ID_QU_S1_BESTOF2022,Collect 1 Year's Best Orb Fragment
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_6,Get a stamp every time you spend at least {tier30price} in a single transaction on web!
-ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_7,Get a stamp every time you spend at least {tier50price} in a single transaction on web!
+ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_7,Earn a stamp every time you spend at least {tier30price} in a single transaction on web (excluding Ultra Core purchases) or at least 300 Ultra Cores anywhere!
 ID_QU_LM_STAMPCARDLAUNCH2022_GENERIC_8,Get a stamp every time you spend at least {tierHprice} in a single transaction on web!
 ID_QU_NA_PROGENYOFAPOCALYPSE,Progeny of Apocalypse
 ID_QU_SD_PROGENYOFAPOCALYPSE,"Open Chosen Orbs, Spend Gold"
@@ -3629,7 +3629,7 @@ ID_QU_SD_RUTHLESSAMBITION,Earn War Credits
 ID_QU_LD_RUTHLESSAMBITION,Earn War Credits to complete this 7-day milestone that rewards Back to Formula milestone points as well as Vibranium Slabs for the Reverse-Engineer milestone!
 ID_QU_S1_RUTHLESSAMBITION,Earn 1 War Credit
 ID_QU_NA_DIAMOND_LAUNCH_STAMPCARD,Diamond Launch Stamp Card
-ID_QU_LM_DIAMOND_LAUNCH_STAMPCARD,Earn a stamp every time you spend at least {tier50price} in a single transaction on web or at least 500 Ultra Cores anywhere!
+ID_QU_LM_DIAMOND_LAUNCH_STAMPCARD,Earn a stamp every time you spend at least {tier50price} in a single transaction on web (excluding Ultra Core purchases) or at least 500 Ultra Cores anywhere!
 ID_QU_NA_ENGINEOFWAR,Engine of War
 ID_QU_SD_ENGINEOFWAR,Battle in War and Earn Allied Supply II Orb Fragments
 ID_QU_LD_ENGINEOFWAR,"Collaborate with your alliances to battle in War and earn Allied Supply II Orb Fragments. Allied Supply II Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store."
@@ -3650,6 +3650,7 @@ ID_QU_S1_ANIMALARMATURE,Earn 1 Superior Seeker Orb Fragment
 ID_QU_NA_BIGARMORHUNTER,Big Armor Hunter
 ID_QU_SD_BIGARMORHUNTER,Spend Campaign Energy
 ID_QU_LD_BIGARMORHUNTER,Spend Campaign and Incursion Energy to complete this milestone that rewards Superior Seeker Orb Fragments for Animal Armature Event progress!
+ID_QU_S1_BIGARMORHUNTER,Spend 1 Incursion Energy
 ID_QU_NA_SUPERIORSINISTER,Superior Sinister
 ID_QU_SD_SUPERIORSINISTER,Battle in Crucible and Earn Allied Supply II Orb Fragments
 ID_QU_LD_SUPERIORSINISTER,"Collaborate with your alliances to battle in Cosmic Crucible and earn Allied Supply II Orb Fragments. Allied Supply II Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store. "
@@ -3665,3 +3666,7 @@ ID_QU_NA_WEAPONSONLINE,Weapons Online
 ID_QU_SD_WEAPONSONLINE,Earn Pack-A-Punch Orb Fragments
 ID_QU_LD_WEAPONSONLINE,Gain progress by spending Power Cores and earning Pack-A-Punch Orb Fragments earned from Campaign nodes and limited-time offers. Keep an eye out for Free Claims containing Pack-A-Punch Orb Fragments every day!
 ID_QU_S1_WEAPONSONLINE,Earn 1 Pack-A-Punch Orb Fragment
+ID_QU_NA_STRIKESALUTE2023,S.T.R.I.K.E. Salute
+ID_QU_SD_STRIKESALUTE2023,Spend Campaign Energy
+ID_QU_LD_STRIKESALUTE2023,"S.T.R.I.K.E. Salute Milestone\nGain progress in this 7-day event by spending Campaign Energy and earn rewards including L4 Training Modules, Gold, and Legacy Orbs."
+ID_QU_S1_STRIKESALUTE2023,Spend 1 Campaign Energy

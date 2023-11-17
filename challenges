@@ -2092,3 +2092,6 @@ ID_INFO_BO_SUPERIORSINISTER,Battle in Cosmic Crucible to earn Training Modules a
 ID_INFO_NA_WEAPONSONLINE,Weapons Online
 ID_INFO_DE_WEAPONSONLINE,Put in the work and earn Reverse-Engineer progress
 ID_INFO_BO_WEAPONSONLINE,"<color=#fff568>Weapons Online Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by spending Power Cores and earning Pack-A-Punch Orb Fragments earned from Campaign nodes and limited-time offers. Earn core rewards including <color=#fff568>Diamond Dawn Orb, Elite 7 Credits, and Teal Mystic Gear Tier 18 Mini-Uniques</color>. You'll also earn points towards the month-long Reverse-Engineer milestone by collecting Vibranium Slabs and the Indestructible Paint. Keep an eye out for Free Claims containing Pack-A-Punch Orb Fragments every day!\n\n<color=#fff568>Daily Architect of Desctruction Web Milestone</color>\nEarn Raid Credits to earn Vibranium Slabs for additional progress in the Reverse-Engineer Milestone."
+ID_INFO_NA_STRIKESALUTE2023,S.T.R.I.K.E. Salute
+ID_INFO_DE_STRIKESALUTE2023,"Earn Gold, Training Modules, and more!"
+ID_INFO_BO_STRIKESALUTE2023,"<color=#fff568>S.T.R.I.K.E. Salute Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by spending Campaign Energy and earn rewards including <color=#fff568>L4 Training Modules, Gold, and Legacy Orbs</color>."
