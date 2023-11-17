@@ -6793,6 +6793,100 @@ ID_DIALOG_SCE_S6EE_10_END_2,What just happened?
 ID_DIALOG_SCE_S6EE_10_END_3,Some kind of teleportation tech. If he really is as old as he claims it makes sense he'd have contingencies.
 ID_DIALOG_SCE_S6EE_10_END_4,Let's blow this place up just to be spiteful. And after that...
 ID_DIALOG_SCE_S6EE_10_END_5,Gentlemen I think we have a lot of opportunities ahead of us.
+ID_DIALOG_SCE_SPIDERSLAYER_01_INTRO_0,"NEW YORK CITY, A DISTANT UNIVERSE..."
+ID_DIALOG_SCE_SPIDERSLAYER_01_INTRO_1,"Nowhere to hide, you masked menace!"
+ID_DIALOG_SCE_SPIDERSLAYER_01_INTRO_2,"Anywhere you can go, I can go too!"
+ID_DIALOG_SCE_SPIDERSLAYER_01_INTRO_3,Aren't you a journalist? Where did you even get... Whatever that is?
+ID_DIALOG_SCE_SPIDERSLAYER_01_INTRO_4,A good reporter keeps his sources close. Now stop moving so I can pop you like the pimple you are!
+ID_DIALOG_SCE_SPIDERSLAYER_01_MID_0,Kraven? Never thought I'd be glad to see him.
+ID_DIALOG_SCE_SPIDERSLAYER_01_MID_1,"Talk about a lucky break! I'm getting out of here before you can say ""friendly neighborhood Spider-Man."" See ya, lovebirds!"
+ID_DIALOG_SCE_SPIDERSLAYER_01_MID_2,You! Where is Spider-Man?
+ID_DIALOG_SCE_SPIDERSLAYER_01_MID_3,"You just let him escape, fur for brains! I had him right where I wanted him!"
+ID_DIALOG_SCE_SPIDERSLAYER_01_END_0,You expect me to believe an oversized tin can stood a chance against my most elusive prey?
+ID_DIALOG_SCE_SPIDERSLAYER_01_END_1,This baby is upgraded up the wazoo!
+ID_DIALOG_SCE_SPIDERSLAYER_01_END_2,"If he manages to alert his friends, it won't matter what upgrades you have. We have a common enemy."
+ID_DIALOG_SCE_SPIDERSLAYER_01_END_3,HA! That freak has no friends.
+ID_DIALOG_SCE_SPIDERSLAYER_01_END_4,But I see where you're going with this.
+ID_DIALOG_SCE_SPIDERSLAYER_02_START_0,"I bet you thought you got away clean, didn't you?"
+ID_DIALOG_SCE_SPIDERSLAYER_02_START_1,"If anyone is going to land the final blow, it will be me."
+ID_DIALOG_SCE_SPIDERSLAYER_02_START_2,"Let's call it a day, guys. I have better stuff to do."
+ID_DIALOG_SCE_SPIDERSLAYER_02_END_0,I can read the headline now: Handsome and powerful Chief of the Daily Bugle puts an end to the wall crawler's reign of terror!
+ID_DIALOG_SCE_SPIDERSLAYER_02_END_1,"Not such a smart aleck anymore, eh Web-Head?"
+ID_DIALOG_SCE_SPIDERSLAYER_02_END_2,"Why the long face, Kraven? We finally took him down."
+ID_DIALOG_SCE_SPIDERSLAYER_02_END_3,"I was promised all manner of Spiders, and still I get this... boy."
+ID_DIALOG_SCE_SPIDERSLAYER_02_END_4,You're telling me there are more of these things crawling around out there?
+ID_DIALOG_SCE_SPIDERSLAYER_02_END_5,Many versions infest the Multiverse.
+ID_DIALOG_SCE_SPIDERSLAYER_02_END_6,Enough talk. How do we track these troublemakers down? Give me answers and give 'em fast!
+ID_DIALOG_SCE_SPIDERSLAYER_03_INTRO_0,"You've been using portal technology, huh?"
+ID_DIALOG_SCE_SPIDERSLAYER_03_INTRO_1,The Spider-Man DNA in this machine makes my tracking state-of-the-art.
+ID_DIALOG_SCE_SPIDERSLAYER_03_INTRO_2,Is that why we've only been able to hunt Spider-Man?
+ID_DIALOG_SCE_SPIDERSLAYER_03_INTRO_3,Perhaps we can properly tune the machine using the robot.
+ID_DIALOG_SCE_SPIDERSLAYER_03_INTRO_4,"Look, pal, I'm tellin' you now: you break it, you're payin' for it."
+ID_DIALOG_SCE_SPIDERSLAYER_03_INTRO_5,This won't hurt a bit.
+ID_DIALOG_SCE_SPIDERSLAYER_03_INTRO_6,HEY!\nLook at that. I got the details on different Spiders.
+ID_DIALOG_SCE_SPIDERSLAYER_03_INTRO_7,One of their threads could connect this portal to every Spider in existence.
+ID_DIALOG_SCE_SPIDERSLAYER_03_START_0,"Hold the front page! Spider-Slayer's on the scene to handle your pesky bug problem. No need to panic, just leave it to the professionals."
+ID_DIALOG_SCE_SPIDERSLAYER_03_START_1,You've got to be kidding...
+ID_DIALOG_SCE_SPIDERSLAYER_03_START_2,You're cornered.
+ID_DIALOG_SCE_SPIDERSLAYER_03_START_3,Hagoshii. Let's do this!
+ID_DIALOG_SCE_SPIDERSLAYER_03_MID_0,Spider-Weaver! There's been a significant reading of power destabilizing the Web. You're needed.
+ID_DIALOG_SCE_SPIDERSLAYER_03_MID_1,"I'd love to stay and play, but there's work to do."
+ID_DIALOG_SCE_SPIDERSLAYER_03_MID_2,NO!
+ID_DIALOG_SCE_SPIDERSLAYER_03_MID_3,"Calm down, Kraven, you animal! We got what we needed."
+ID_DIALOG_SCE_SPIDERSLAYER_03_END_0,This is truly a remarkable component.
+ID_DIALOG_SCE_SPIDERSLAYER_03_END_1,Enough mumbling! Is the portal working or not?
+ID_DIALOG_SCE_SPIDERSLAYER_03_END_2,I'm connecting to their Web of Life and Destiny. This requires finesse. Something you'd know nothing about.
+ID_DIALOG_SCE_SPIDERSLAYER_03_END_3,It's like fish in a barrel.
+ID_DIALOG_SCE_SPIDERSLAYER_04_START_0,The portal is finally useful!
+ID_DIALOG_SCE_SPIDERSLAYER_04_START_1,"Whoa, you're retro. You sure you belong here, gramps?"
+ID_DIALOG_SCE_SPIDERSLAYER_04_START_2,Listen up people! You've got a new hero looking out for you!
+ID_DIALOG_SCE_SPIDERSLAYER_04_START_3,Someone that's going to rid this universe of its web-headed menace!
+ID_DIALOG_SCE_SPIDERSLAYER_04_START_4,"Okay, got it. You're nuts."
+ID_DIALOG_SCE_SPIDERSLAYER_04_END_0,You've let this hunt go to your head.
+ID_DIALOG_SCE_SPIDERSLAYER_04_END_1,"Don't let going obsolete get to you, Kraven. I'm sure there's a big sewer gator somewhere you can hunt."
+ID_DIALOG_SCE_SPIDERSLAYER_04_END_2,Obsolete?! You should be grateful I've let you indulge yourself with this toy.
+ID_DIALOG_SCE_SPIDERSLAYER_04_END_3,Enough! Where is the next target?
+ID_DIALOG_SCE_SPIDERSLAYER_04_END_4,On tour.
+ID_DIALOG_SCE_SPIDERSLAYER_04_END_5,"Oi! We're gearing up to stick it to the fascist, capitalistic fatcats of the world with a proper sonic punk assault!"
+ID_DIALOG_SCE_SPIDERSLAYER_05_START_0,"Taking the stage, it's SPIDER-SLAYER!"
+ID_DIALOG_SCE_SPIDERSLAYER_05_START_1,"Didn't I bloody warn ya that they were programming us with the telly? Time to smash the screen, innit?"
+ID_DIALOG_SCE_SPIDERSLAYER_05_END_0,"I'm telling you, something's not right! Hobie had a gig tonight."
+ID_DIALOG_SCE_SPIDERSLAYER_05_END_1,It's way too dead here in that case.
+ID_DIALOG_SCE_SPIDERSLAYER_05_END_2,"Well, well, maybe you wall-crawlers aren't as dimwitted as you appear."
+ID_DIALOG_SCE_SPIDERSLAYER_06_INTRO_0,You? You're the one attacking our friends?
+ID_DIALOG_SCE_SPIDERSLAYER_06_INTRO_1,I'm doing the Multiverse a favor in taking out you freaks.
+ID_DIALOG_SCE_SPIDERSLAYER_06_INTRO_2,We're drawing the line here. You're not hurting anyone else.
+ID_DIALOG_SCE_SPIDERSLAYER_06_INTRO_3,You brats don't know what you're up against.
+ID_DIALOG_SCE_SPIDERSLAYER_06_END_0,Crushing these spiders has been a piece of cake! This really highlights the incompetence of you so-called villains.
+ID_DIALOG_SCE_SPIDERSLAYER_06_END_1,How did you all have so much trouble with some itsy bitsy Spiders?
+ID_DIALOG_SCE_SPIDERSLAYER_06_END_2,"You grow too comfortable behind that screen, Jameson."
+ID_DIALOG_SCE_SPIDERSLAYER_06_END_3,Even you managed to let one escape.
+ID_DIALOG_SCE_SPIDERSLAYER_06_END_4,"That's defamation, Kraven!"
+ID_DIALOG_SCE_SPIDERSLAYER_06_END_5,Am I misremembering the Weaver's escape?
+ID_DIALOG_SCE_SPIDERSLAYER_06_END_6,I was just making sure you're up to par to join me in nabbing her.\n\nCongrats. You passed.
+ID_DIALOG_SCE_SPIDERSLAYER_07_INTRO_0,She's... in the sky?
+ID_DIALOG_SCE_SPIDERSLAYER_07_INTRO_1,The Weaver has fled to a Helicarrier. That could make this challenging.
+ID_DIALOG_SCE_SPIDERSLAYER_07_INTRO_2,"Don't get cold feet on me now, Kraven! Let's go!"
+ID_DIALOG_SCE_SPIDERSLAYER_07_START_0,This helicarrier is a ghost town. Did you portal us to the wrong spot?
+ID_DIALOG_SCE_SPIDERSLAYER_07_START_1,No. You're exactly where we want you.
+ID_DIALOG_SCE_SPIDERSLAYER_07_START_2,I'm never going to hear the end of this.
+ID_DIALOG_SCE_SPIDERSLAYER_07_END_0,We need to regroup. The Goblin should have an idea for dealing with these annoyances.
+ID_DIALOG_SCE_SPIDERSLAYER_07_END_1,Err... One problem. Something's mucking with this blasted portal!
+ID_DIALOG_SCE_SPIDERSLAYER_07_END_2,We need to find a clear signal to portal out of here.
+ID_DIALOG_SCE_SPIDERSLAYER_08_INTRO_0,Great. What part of the ship are we in now?
+ID_DIALOG_SCE_SPIDERSLAYER_08_INTRO_1,Do I look like an engineer to you?
+ID_DIALOG_SCE_SPIDERSLAYER_08_INTRO_2,"Trust me, Kraven. You don't want me to tell you what you look like."
+ID_DIALOG_SCE_SPIDERSLAYER_08_INTRO_3,I think you both look ridiculous. But I still can't let you leave with that tracking tech.
+ID_DIALOG_SCE_SPIDERSLAYER_08_INTRO_4,What a world it is when your prey comes to you.
+ID_DIALOG_SCE_SPIDERSLAYER_08_MID_0,Kestrel! NOW!
+ID_DIALOG_SCE_SPIDERSLAYER_08_MID_1,"Get away from me, you buzzard!"
+ID_DIALOG_SCE_SPIDERSLAYER_08_END_0,You two play nice in these cells while we figure out if you were the source of the Web of Life and Destiny's disruption.
+ID_DIALOG_SCE_SPIDERSLAYER_08_END_1,I'm right back where I started!
+ID_DIALOG_SCE_SPIDERSLAYER_08_END_2,Quiet! I've got an idea.
+ID_DIALOG_SCE_SPIDERSLAYER_08_END_3,Ideas do not open cell doors.
+ID_DIALOG_SCE_SPIDERSLAYER_08_END_4,"Maybe not, but the robot is locked up, not me."
+ID_DIALOG_SCE_SPIDERSLAYER_08_END_5,I'll find the Goblin and get us back on track to knock Spider-Weaver off her high horse.
+ID_DIALOG_SCE_SPIDERSLAYER_08_END_6,*OPERATOR OFFLINE*
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
