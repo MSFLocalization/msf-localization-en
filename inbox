@@ -47,6 +47,7 @@ ID_ME_BO_ARMORY,"Commander,\n\nStark Industries is now dedicating all of its res
 ID_ME_NA_DARKDIMENSION_ANNOUNCEMENT,Dark Dimension is Here
 ID_ME_DE_DARKDIMENSION_ANNOUNCEMENT,This is your final warning
 ID_ME_BO_DARKDIMENSION_ANNOUNCEMENT,"Commander,\n\n Your demise is upon you and its form is the Dark Dimension. Enter the Darkness is the preliminary challenge. Fear the Darkness is the challenge to end all challenges\n\n Only the most qualified may embark on this journey:\n - Enter the Darkness requires a 6 star squad\n - Fear the Darkness requires Gear Tier 13\n - YOU will require determination\n\n Inside the Dark Dimension, your squad revives once a day, and the damage to your enemies is persistent. A king's ransom in Orange Gear materials will be your reward. Completing Fear the Darkness will win you a powerful new ally: Ultron.\n If you're unsure if you should enter the Dark Dimension, don't. Turn back. For those that choose to enter...\n\n Godspeed, Commander"
+ID_ME_NA_GENERIC_FOUNTAIN_UPDATE,Availability Update
 ID_ME_NA_GENERIC_GIFT,Just for You
 ID_ME_DE_GENERIC_GIFT,A Free Gift!
 ID_ME_BO_GENERIC_GIFT,"Commander,\n\nThank you for playing MARVEL Strike Force! Here is a gift to show our appreciation for your passion and support."
@@ -5749,6 +5750,9 @@ ID_ME_BO_BUCKYBARNES_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Kid Commando O
 ID_ME_NA_INCURSION_RAID_HYPE,Coming Soon: Incursion Raid
 ID_ME_DE_INCURSION_RAID_HYPE,Prepare your Skill Team!
 ID_ME_BO_INCURSION_RAID_HYPE,"Commander,\n\nTime to start getting ready for the all-new <color=#fff568>Incursion Raid</color>, coming in the next major release, Version 7.1.0. This new Raid will test your roster in ways not seen before. Powering up your <color=#fff568>Invader</color> characters for the <color=#fff568>Incursion Raid</color> will be your best chance at victory and receiving the next tier of highly valuable rewards. Keep your eyes on your Inbox and the upcoming 2023 Preview blog for more details coming soon."
+ID_ME_NA_INCURSIONII_RAID_HYPE,Coming Soon: Incursion Raid II
+ID_ME_DE_INCURSIONII_RAID_HYPE,Prepare your Tech Team!
+ID_ME_BO_INCURSIONII_RAID_HYPE,"Commander,\n\nTime to start getting ready for <color=#fff568>Incursion Raid II</color>. Powering up your <color=#fff568>P.E.G.A.S.U.S.</color> characters for the <color=#fff568>Incursion Raid II</color> will be your best chance at victory and receiving the next tier of highly valuable rewards."
 ID_ME_NA_EVILINVASION_TEASER,Coming Soon: Evil Invasion
 ID_ME_DE_EVILINVASION_TEASER,Earn Masters of Evil Shards & T2 Level 5 Ions!
 ID_ME_BO_EVILINVASION_TEASER,"Commander,\n\nGain progress in this <color=#fff568>6-day</color> event by opening Gold Orbs, earning Alliance Credits from Alliance Donations, and battling in Raids (with bonuses for using Invaders).\n\nMilestone\nEarn valuable rewards including <color=#fff568>Ultron (What If?) Costume, Masters of Evil shards, Bio and Tech gear</color>. You'll also earn points towards the month-long Royal Soldier milestone by collecting Victory Flags and the War Medal.\n\nLeaderboard\nRace through the ranks for a chance to earn <color=#fff568>T2 Level 5 Ions and Elite 7 Credits</color>!\n\nGood luck, Commander!"
@@ -7337,6 +7341,9 @@ ID_ME_BO_MOCKINGBIRD_SPOTLIGHT,"Commander,\n\nPrepare for the <color=#fff568>Rec
 ID_ME_NA_CAMPAIGN_INCURSION_1_3_LIVE,Live: Incursion Campaign
 ID_ME_DE_CAMPAIGN_INCURSION_1_3_LIVE,Earn Red Star Promotions!
 ID_ME_BO_CAMPAIGN_INCURSION_1_3_LIVE,"Commander,\n\nThe <color=#fff568>Incursion Campaign</color> is here! This brand-new campaign unlocks at Commander Level 70 and consists of three chapters. Rewards include a chance for <color=#fff568>Silver Promotion Credits, Gold Promotion Credits, Dark Promotion Credits, Red Star Orb Fragments and 5-7 Red Stars</color> for a variety of characters.\n\nHere are each chapter's entry requirements:\n\n<color=#fff568>Chapter 1:</color> No requirements.\n<color=#fff568>Chapter 2:</color> 5 Red Stars, Only Bio or Skill characters.\n<color=#fff568>Chapter 3:</color> Required: 6 Red Stars, Only Bio or Skill characters\n\nEnter the Incursion Campaign now to earn these exciting rewards!"
+ID_ME_NA_RAID_INCURSIONII_LIVE,Live: Incursion Raid II
+ID_ME_DE_RAID_INCURSIONII_LIVE,Earn Teal Epic Orbs!
+ID_ME_BO_RAID_INCURSIONII_LIVE,"Commander,\n\nThe <color=#fff568>Incursion Raid II</color> is here! This raid is challenging so build up your characters to help your Alliance take on the event."
 ID_ME_NA_BATTLEPASS_SEASON5_ANNOUNCE,Battle Pass: Season 5
 ID_ME_DE_BATTLEPASS_SEASON5_ANNOUNCE,Earn Sylvie shards & Teal gear!
 ID_ME_BO_BATTLEPASS_SEASON5_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle Pass: Season 5 is LIVE</color>!\n\nComplete this Season's Daily and Weekly Objectives to win these <color=#fff568>Featured Prizes</color>:\n- Sylvie character shards\n- Teal Gear\n\nUpgrade to the <color=#fff568>Premium Pass</color> to earn even more rewards.\n\nCharge into Battle Pass: Season 5 today!"
@@ -7671,9 +7678,16 @@ ID_ME_BO_GREENGOBLINGLIDER_TRIALS_ENDING,"Commander\n\nThe Green Goblin (Classic
 ID_ME_NA_GREENGOBLINGLIDER_ELITESTORE,Get Red Stars for Green Goblin (Classic)
 ID_ME_DE_GREENGOBLINGLIDER_ELITESTORE,Purchase with Dark Promotion Credits
 ID_ME_BO_GREENGOBLINGLIDER_ELITESTORE,"Commander,\n\nDirect Red Star Promotions for <color=#fff568>Green Goblin (Classic)</color> have been added to the <color=#fff568>Elite Store</color>!\n\nYou can now use <color=#fff568>Dark Promotion Credits</color> to promote Green Goblin (Classic) 1 Red Star higher than their current rank, up to a maximum of 5 Red Stars.\n\nHead to the Elite Store today and power up Green Goblin (Classic)!"
+ID_ME_NA_KANGTHECONQUEROR_FOUNTAIN_UPDATE,Recruit Kang and Iron Man (Zombie)!
+ID_ME_DE_KANGTHECONQUEROR_FOUNTAIN_UPDATE,Availability Update
+ID_ME_BO_KANGTHECONQUEROR_FOUNTAIN_UPDATE,"Commander,\n\nYou can now collect Character Shards for <color=#fff568>Spider-Weaver</color>, <color=#fff568>Kang the Conqueror</color>, and <color=#fff568>Iron Man (Zombie)</color> in the <color=#fff568>Incursion Campaign</color>. Reach Incursion 3-7, 3-8, and 3-9 to recruit these powerful characters!"
+ID_ME_NA_PHOTON_FOUNTAIN_UPDATE,Recruit Photon!
+ID_ME_BO_PHOTON_FOUNTAIN_UPDATE,"Commander,\n\n<color=#fff568>Photon</color> character shards are now available in <color=#fff568>Hard Villains 7-6</color>, replacing She-Hulk.\n\nRecruit the <color=#fff568>Shimmering Sentinel</color> to power up your <color=#fff568>Arena</color> and <color=#fff568>War</color> teams today!"
+ID_ME_NA_KAMALAKHAN_FOUNTAIN_UPDATE,Recruit Ms. Marvel (Hard Light)!
+ID_ME_BO_KAMALAKHAN_FOUNTAIN_UPDATE,"Commander,\n\n<color=#fff568>Ms. Marvel (Hard Light)</color> character shards are now available in <color=#fff568>Raid Orb</color> and <color=#fff568>Raid Store</color> for <color=#fff568>Raid Credits</color>.\n\nRecruit the <color=#fff568>Radiant Guardian</color> to power up your <color=#fff568>Arena</color> team today!"
 ID_ME_NA_ENGINEOFWAR_ANNOUNCE,Engine of War
-ID_ME_DE_ENGINEOFWAR_ANNOUNCE,Battle in Alliance War for Gold rewards!
-ID_ME_BO_ENGINEOFWAR_ANNOUNCE,"Commander,\n\nCollaborate with your alliance and battle in War in this 4-day milestone to earn Gold and Reverse-Engineer progress.\n\nGood luck, Commander!"
+ID_ME_DE_ENGINEOFWAR_ANNOUNCE,Battle in Alliance War for Armory Orb rewards!
+ID_ME_BO_ENGINEOFWAR_ANNOUNCE,"Commander,\n\nCollaborate with your alliance and battle in War in this 6-day milestone to earn Armory Orbs and Reverse-Engineer progress.\n\nGood luck, Commander!"
 ID_ME_NA_STARKGRANT_TEASER,Coming Soon: Stark Grant
 ID_ME_DE_STARKGRANT_CORE,Climb the Ranks for Dormammu Diamonds!
 ID_ME_BO_STARKGRANT_CORE,"Commander,\n\n<color=#fff568>Stark Grant Milestone</color>\nGain progress in this <color=#fff568>5-day</color> event by earning Galvanized Orb fragments, winning Blitz battles, a log-in calendar, completing the State of the Art Web Milestone, and spending Power Cores. Earn rewards worthy of Tony Stark including <color=#fff568>Kang the Conqueror shards, 7-Red Star Dagger, and Teal Tech gear</color>. You'll also earn points towards the month-long Reverse-Engineer milestone by collecting Vibranium Slabs and Arc Reactor MKII.\n\n<color=#fff568>State of the Art Web Milestone</color>\nEarn Blitz Credits to earn Stark Grant milestone points, Gold, and Elite 4 Credits. Keep an eye out for Free Claims containing Galvanized Orb fragments every day!\n\nGood luck, Commander!"
@@ -7727,6 +7741,9 @@ ID_ME_BO_ANIMALARMATURE_CORE,"Commander,\n\n<color=#fff568>Animal Armature Miles
 ID_ME_NA_ANIMALARMATURE_ENDING,ENDING: Animal Armature
 ID_ME_DE_ANIMALARMATURE_ENDING,Don't miss out on Kraven the Hunter shards
 ID_ME_BO_ANIMALARMATURE_ENDING,"Commander,\n\nThe Animal Armature Event <color=#fff568>ends soon</color>. Continue earning Kraven the Hunter Shards and Teal Mystic Gear!\n\nGood luck, Commander!"
+ID_ME_NA_WAR_SUPERIORITYCOMPLEX_LIVE,LIVE: Superiority Complex
+ID_ME_DE_WAR_SUPERIORITYCOMPLEX_LIVE,Special rule details inside
+ID_ME_BO_WAR_SUPERIORITYCOMPLEX_LIVE,"Commander,\n\nYou're urgently needed for Alliance War: <color=#fff568>Superiority Complex</color>!\n\nGreen Goblin (Classic) and the Superior Six are beginning their siege on S.T.R.I.K.E.'s Helicarriers with a bang! Here are the details, including <color=#fff568>limited-time updates</color> to Alliance War during Superiority Complex:\n\n<color=#fff568>War Energy</color>\nYou'll still start with all 10 War Energy at the start of War and no longer accumulate energy over time. You can still purchase an additional 4 War Energy for each War.\n\n<color=#fff568>Room Updates</color>\nThe following rooms have new and/or updated bonuses: Cargo Bay, Hangar, Medbay, Barracks, and Armory. Global rules have also been updated. See the rooms for the full bonus details to optimize your attacks and defenses.\n\n<color=#fff568>Attack Efficiency</color>\nAttempt Bonus will award points for clearing a room with the fewest attempts possible. Canceled combat will decrease the Attempt Bonus and will consume the spent War Energy.\n\n<color=#fff568>Global and Room Bonuses</color>\nChoose your Defenses and attacks wisely with these powerful bonuses to the following characters: Superior Six, Spider-Verse, and Rebirth.\n\nCoordinate with your Alliance to make sure you earn the most rewards possible during Alliance War: Superiority Complex.\n\nGood luck, Commander!"
 ID_ME_NA_SUPERIORSINISTER_ANNOUNCE,Superior Sinister
 ID_ME_DE_SUPERIORSINISTER_ANNOUNCE,Battle in Cosmic Crucible for Training Modules!
 ID_ME_BO_SUPERIORSINISTER_ANNOUNCE,"Commander,\n\nCollaborate with your alliance and battle in Cosmic Crucible in this 3-day milestone to earn Training Modules and Reverse-Engineer progress.\n\nGood luck, Commander!"
@@ -7750,3 +7767,6 @@ ID_ME_BO_STRIKESALUTE2023_ENDING,"Commander,\n\nThe S.T.R.I.K.E. Salute Event <c
 ID_ME_NA_KANSGIVING,Happy Kangsgiving!
 ID_ME_DE_KANSGIVING,Thank you for playing!
 ID_ME_BO_KANSGIVING,"Commander,\n\nThank you for an amazing year of MARVEL Strike Force!\n\nTo show our appreciation for your continued passion and support, here is a very special Kangsgiving gift to help turn forward the hands of time on your roster:\n\n150 Kang the Conqueror character shards!\n\nCheers to a great year, and be on the lookout for upcoming fun events to ring in the holidays.\n\n- MARVEL Strike Force Dev Team"
+ID_ME_NA_HORSEMEN_DIAMOND_UPDATE,Diamonds for Horsemen!
+ID_ME_DE_HORSEMEN_DIAMOND_UPDATE,Dark Promotion Update
+ID_ME_BO_HORSEMEN_DIAMOND_UPDATE,"Commander,\n\n<color=#fff568>Diamond</color> promotions for <color=#fff568>Morgan Le Fay</color>, <color=#fff568>Rogue</color>, <color=#fff568>Red Hulk</color>, and <color=#fff568>Archangel</color> have been added to the <color=#fff568>Elite Store</color>!\n\nYou can now use <color=#fff568>Dark Diamond Credits</color> to promote these characters from 7 Red Stars to a maximum of <color=#fff568>3 Diamonds</color>.\n\nIn addition, <color=#fff568>Ultimus</color>, <color=#fff568>Ultron</color>, and <color=#fff568>Doctor Doom</color> have received reductions to their <color=#fff568>Dark Diamond Credit</color> costs; <color=#fff568>Black Cat</color> and <color=#fff568>Spider-Man (Big Time)</color> can now be promoted up to <color=#fff568>7 Red Stars</color>.\n\nHead over to the <color=#fff568>Elite Store</color> to check out these updates!"

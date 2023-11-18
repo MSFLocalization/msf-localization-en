@@ -6829,14 +6829,14 @@ ID_DIALOG_SCE_SPIDERSLAYER_03_START_0,"Hold the front page! Spider-Slayer's on t
 ID_DIALOG_SCE_SPIDERSLAYER_03_START_1,You've got to be kidding...
 ID_DIALOG_SCE_SPIDERSLAYER_03_START_2,You're cornered.
 ID_DIALOG_SCE_SPIDERSLAYER_03_START_3,Hagoshii. Let's do this!
-ID_DIALOG_SCE_SPIDERSLAYER_03_MID_0,Spider-Weaver! There's been a significant reading of power destabilizing the Web. You're needed.
-ID_DIALOG_SCE_SPIDERSLAYER_03_MID_1,"I'd love to stay and play, but there's work to do."
-ID_DIALOG_SCE_SPIDERSLAYER_03_MID_2,NO!
-ID_DIALOG_SCE_SPIDERSLAYER_03_MID_3,"Calm down, Kraven, you animal! We got what we needed."
-ID_DIALOG_SCE_SPIDERSLAYER_03_END_0,This is truly a remarkable component.
-ID_DIALOG_SCE_SPIDERSLAYER_03_END_1,Enough mumbling! Is the portal working or not?
-ID_DIALOG_SCE_SPIDERSLAYER_03_END_2,I'm connecting to their Web of Life and Destiny. This requires finesse. Something you'd know nothing about.
-ID_DIALOG_SCE_SPIDERSLAYER_03_END_3,It's like fish in a barrel.
+ID_DIALOG_SCE_SPIDERSLAYER_03_END_0,Spider-Weaver! There's been a significant reading of power destabilizing the Web. You're needed.
+ID_DIALOG_SCE_SPIDERSLAYER_03_END_1,"I'd love to stay and play, but there's work to do."
+ID_DIALOG_SCE_SPIDERSLAYER_03_END_2,NO!
+ID_DIALOG_SCE_SPIDERSLAYER_03_END_3,"Calm down, Kraven, you animal! We got what we needed."
+ID_DIALOG_SCE_SPIDERSLAYER_03_END_4,This is truly a remarkable component.
+ID_DIALOG_SCE_SPIDERSLAYER_03_END_5,Enough mumbling! Is the portal working or not?
+ID_DIALOG_SCE_SPIDERSLAYER_03_END_6,I'm connecting to their Web of Life and Destiny. This requires finesse. Something you'd know nothing about.
+ID_DIALOG_SCE_SPIDERSLAYER_03_END_7,It's like fish in a barrel.
 ID_DIALOG_SCE_SPIDERSLAYER_04_START_0,The portal is finally useful!
 ID_DIALOG_SCE_SPIDERSLAYER_04_START_1,"Whoa, you're retro. You sure you belong here, gramps?"
 ID_DIALOG_SCE_SPIDERSLAYER_04_START_2,Listen up people! You've got a new hero looking out for you!
@@ -6878,15 +6878,15 @@ ID_DIALOG_SCE_SPIDERSLAYER_08_INTRO_1,Do I look like an engineer to you?
 ID_DIALOG_SCE_SPIDERSLAYER_08_INTRO_2,"Trust me, Kraven. You don't want me to tell you what you look like."
 ID_DIALOG_SCE_SPIDERSLAYER_08_INTRO_3,I think you both look ridiculous. But I still can't let you leave with that tracking tech.
 ID_DIALOG_SCE_SPIDERSLAYER_08_INTRO_4,What a world it is when your prey comes to you.
-ID_DIALOG_SCE_SPIDERSLAYER_08_MID_0,Kestrel! NOW!
-ID_DIALOG_SCE_SPIDERSLAYER_08_MID_1,"Get away from me, you buzzard!"
-ID_DIALOG_SCE_SPIDERSLAYER_08_END_0,You two play nice in these cells while we figure out if you were the source of the Web of Life and Destiny's disruption.
-ID_DIALOG_SCE_SPIDERSLAYER_08_END_1,I'm right back where I started!
-ID_DIALOG_SCE_SPIDERSLAYER_08_END_2,Quiet! I've got an idea.
-ID_DIALOG_SCE_SPIDERSLAYER_08_END_3,Ideas do not open cell doors.
-ID_DIALOG_SCE_SPIDERSLAYER_08_END_4,"Maybe not, but the robot is locked up, not me."
-ID_DIALOG_SCE_SPIDERSLAYER_08_END_5,I'll find the Goblin and get us back on track to knock Spider-Weaver off her high horse.
-ID_DIALOG_SCE_SPIDERSLAYER_08_END_6,*OPERATOR OFFLINE*
+ID_DIALOG_SCE_SPIDERSLAYER_08_END_0,Kestrel! NOW!
+ID_DIALOG_SCE_SPIDERSLAYER_08_END_1,"Get away from me, you buzzard!"
+ID_DIALOG_SCE_SPIDERSLAYER_08_END_2,You two play nice in these cells while we figure out if you were the source of the Web of Life and Destiny's disruption.
+ID_DIALOG_SCE_SPIDERSLAYER_08_END_3,I'm right back where I started!
+ID_DIALOG_SCE_SPIDERSLAYER_08_END_4,Quiet! I've got an idea.
+ID_DIALOG_SCE_SPIDERSLAYER_08_END_5,Ideas do not open cell doors.
+ID_DIALOG_SCE_SPIDERSLAYER_08_END_6,"Maybe not, but the robot is locked up, not me."
+ID_DIALOG_SCE_SPIDERSLAYER_08_END_7,I'll find the Goblin and get us back on track to knock Spider-Weaver off her high horse.
+ID_DIALOG_SCE_SPIDERSLAYER_08_END_8,*OPERATOR OFFLINE*
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.

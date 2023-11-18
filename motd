@@ -2344,6 +2344,8 @@ ID_MOTD_DE_IRONMANINFINITYWAR_ANNOUNCE,Melt waves of enemies on Tech Raid nodes 
 ID_MOTD_DE_IRONMANINFINITYWAR_ANNOUNCE2,Open Timeline Protector Orb to earn shards for this Nanotech Knight!
 ID_MOTD_NA_CAMPAIGN_INCURSION_1_3_LIVE,Live: Incursion Campaign
 ID_MOTD_DE_CAMPAIGN_INCURSION_1_3_LIVE,Earn Red Star Promotions!
+ID_MOTD_NA_RAID_INCURSIONII_LIVE,Live: Incursion Raid II
+ID_MOTD_DE_RAID_INCURSIONII_LIVE,Earn Teal Epic Orbs!
 ID_MOTD_NA_BATTLEPASS_SEASON5_ANNOUNCE,LIVE: Season 5 of Battle Pass
 ID_MOTD_DE_BATTLEPASS_SEASON5_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
 ID_MOTD_NA_LOKIALLTHETIME_ANNOUNCE,LIVE: Loki All the Time
@@ -2467,7 +2469,7 @@ ID_MOTD_NA_STARKGRANT_ENDING,Ending Soon: Stark Grant
 ID_MOTD_DE_STARKGRANT_ENDING,Climb the Ranks for Dormammu Diamonds!
 ID_MOTD_NA_STATEOFTHEART_ANNOUNCE,Web Milestone: State of the Art
 ID_MOTD_NA_ENGINEOFWAR_ANNOUNCE,LIVE: Engine of War
-ID_MOTD_DE_ENGINEOFWAR_ANNOUNCE,Battle in Alliance War for Gold rewards!
+ID_MOTD_DE_ENGINEOFWAR_ANNOUNCE,Battle in Alliance War for Armory Orb rewards!
 ID_MOTD_NA_SPIDERSLAYER_PREVIEW,Coming Soon: Web-Head Hunters
 ID_MOTD_DE_SPIDERSLAYER_PREVIEW,Battle with Spider-Slayer and earn rewards!
 ID_MOTD_NA_SPIDERSLAYER_LIVE,LIVE: Web-Head Hunters
@@ -2486,6 +2488,8 @@ ID_MOTD_DE_ANIMALARMATURE_ANNOUNCE,Unlock Kraven the Hunter and earn Teal Mystic
 ID_MOTD_NA_ANIMALARMATURE_ENDING,Ending Soon: Animal Armature
 ID_MOTD_DE_ANIMALARMATURE_ENDING,Don't miss out on Kraven the Hunter shards
 ID_MOTD_NA_BIGARMORHUNTER_ANNOUNCE,Web Milestone: Big Armor Hunter
+ID_MOTD_NA_WAR_SUPERIORITYCOMPLEX_LIVE,Alliance War: Superiority Complex is LIVE!
+ID_MOTD_DE_WAR_SUPERIORITYCOMPLEX_LIVE,Don't miss this special Alliance War Event!
 ID_MOTD_NA_SUPERIORSINISTER_ANNOUNCE,LIVE: Superior Sinister
 ID_MOTD_DE_SUPERIORSINISTER_ANNOUNCE,Battle in Cosmic Crucible for Training Modules!
 ID_MOTD_NA_ARCHITECTOFDESTRUCTION_ANNOUNCE,Web Milestone: Architect of Destruction
