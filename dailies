@@ -315,6 +315,8 @@ ID_LOGIN_NA_MYSTIC_CAL,Teal Mystic Gear Calendar
 ID_LOGIN_BO_MYSTIC_CAL,Log in 14 days to claim Teal Mystic Gear from your premium calendar!
 ID_LOGIN_OFFER_NA_MYSTIC_14D_CALENDAR,Mystical Gear Calendar
 ID_LOGIN_OFFER_DE_MYSTIC_14D_CALENDAR,Get <color=#fff568>Teal Mystic Gear</color> over {var1} days to help power up your Roster! Log in for the next {var1} days to collect your rewards.
+ID_LOGIN_NA_TECH_CAL,Teal Tech Gear Calendar
+ID_LOGIN_BO_TECH_CAL,Log in 14 days to claim Teal Tech Gear from your premium calendar!
 ID_LOGIN_VALUABLELESSONS_NA,Valuable Lessons
 ID_LOGIN_VALUABLELESSONS_DE,Log in every day to earn wonderful rewards in celebration of Valuable Lessons event!
 ID_LOGIN_CATALYSTBLAST_NA,Catalyst Blast
@@ -678,3 +680,5 @@ ID_LOGIN_DE_GREENGOBLINGLIDER_FIRST,The Superior Six Legendary has arrived! Log 
 ID_LOGIN_DE_GREENGOBLINGLIDER,Log in 7 days to claim character shards to help you recruit the Legendary Green Goblin (Classic)
 ID_LOGIN_NA_STARKGRANT,Stark Grant
 ID_LOGIN_DE_STARKGRANT,Log in Daily to earn Galvanized Orb Fragments and more!
+ID_LOGIN_NA_BF23_DPC_CAL,Promotion Explosion Calendar
+ID_LOGIN_BO_BF23_DPC_CAL,Log in 10 days to claim Dark Promotion Credits from your premium calendar!

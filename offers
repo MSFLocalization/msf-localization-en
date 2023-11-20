@@ -4939,6 +4939,7 @@ ID_OF_DE_INCURSION2_DEATHSEED_UNIQUES,Give your <color=#ffda21>Death Seed</color
 ID_OF_DE_INCURSION2_REBIRTH_UNIQUES,Give your <color=#ffda21>Rebirth</color> team the <color=#fff568>Teal Gear Uniques</color> they need with this Incursion Raid II Launch Special!
 ID_OF_DE_INCURSION2_BIFROST_UNIQUES,Give your <color=#ffda21>Bifrost</color> team the <color=#fff568>Teal Gear Uniques</color> they need and reach new heights in the new <color=#ffda21>Incursion Raid II</color>!!
 ID_OF_DE_INCURSION2_PEGASUS_UNIQUES,Give your <color=#ffda21>P.E.G.A.S.U.S.</color> team the <color=#fff568>Teal Gear Uniques</color> they need and reach new heights in the new <color=#ffda21>Incursion Raid II</color>!!
+ID_OF_DE_SPIDERSLAYER_AWAKENEDGG_OFFER_UNLOCK,Unlock <color=#fff568>Spider-Slayer</color> and deliver some hard-hitting journalistic beatdowns! Power up Green Goblin (Classic) with <color=#fff568>Basic Awakened Ability Materials</color>!
 ID_OF_DE_WEAPONSONLINE_STARTER,Speed through the <color=#fff568>Weapons Online</color> Milestone and get <color=#fff568>Pack-A-Punch Orbs</color> and <color=#fff568>Teal Gear</color> with this offer!
 ID_OF_DE_WEAPONSONLINE_CATCHUP,Finish strong in the <color=#fff568>Weapons Online Milestone</color> and get your hands on Teal Skill gear and Diamond Dawn Orb Fragments!
 ID_OF_DE_WEAPONSONLINE_DAILY_POINTS,Stock up on Event Points for extra progress in the <color=#fff568>Weapons Online Milestone</color>!
@@ -4966,7 +4967,6 @@ ID_OF_NA_SUPERIORSINISTER_CHARACTER_TEAM,Superior Sinister: Character Bundle
 ID_OF_NA_DIAMONDSLAUNCH_40,Diamond Orb Launch Special
 ID_OF_NA_DIAMONDSLAUNCH_100,Diamond Orb Mega Launch Special
 ID_OF_NA_DIAMONDS_BLACKFRIDAY,Black Friday Diamonds Celebration
-ID_OF_NA_DIAMONDS_CYBERMONDAY,Cyber Monday Diamonds Celebration
 ID_OF_DE_DIAMONDSLAUNCH_40,Harness the power of Diamonds! Earn 20 Silver Diamond Credits and a <color=#ffda21>guaranteed Diamond Promotion</color> with each orb!
 ID_OF_DE_DIAMONDSLAUNCH_100,Take your roster to the next level with this deal on multiple <color=#ffda21>Diamonds Orbs</color> and Elite 7 Credits!
 ID_OF_DE_DIAMONDS_BLACKFRIDAY,"This shopping season only, take advantage of this amazing deal on <color=#ffda21>Diamond Orbs</color> and Red Stars!"
@@ -4993,3 +4993,56 @@ ID_OF_DE_BF23_INCURSIONRED,Double-up on Red Star rewards with this rare deal on 
 ID_OF_DE_BF23_TEALCATS_WEB,Reap a bountiful harvest of <color=#fff568>Teal Gear Catalysts</color> with this exceptional deal!
 ID_OF_DE_BF23_CAL_MYSTICGEAR,Unlock this calendar for enough <color=#fff568>Gear Tier 17 & 18 Mini-Uniques</color> to upgrade any character's last two gear tiers!
 ID_OF_DE_BF23_GENERIC1,Take advantage of this mega deal to take your roster to the next level!
+ID_OF_NA_CM23_GOLDGPC,Cyber Monday: Digital Gold
+ID_OF_NA_CM23_TOPUP_ZIM,Saaaaaaales
+ID_OF_NA_CM23_TRAININGCATS,Cyber Monday: Teal Bootcamp
+ID_OF_NA_CM23_TRAINING,Cyber Monday: Training Drill
+ID_OF_NA_CM23_GOLDARMORY,Cyber Monday: Golden Blessings
+ID_OF_NA_CM23_ISOMADNESS,Cyber Monday: Iso-8 Madness
+ID_OF_NA_CM23_EVERYTHING_WEB,Cyber Monday: Ultimate Power
+ID_OF_NA_CM23_NOVA,Cyber Monday: Mega Nova
+ID_OF_NA_CM23_TOPUP_DARKHAWK,Cyber Monday: Robot Power
+ID_OF_NA_CM23_NEWAVENGERS,Cyber Warriors
+ID_OF_NA_CM23_BIFROSTMEGA,Cyber Monday: Bifrost Mega Pack
+ID_OF_NA_CM23_GOLDCORES,Cyber Monday: Golden Fortune
+ID_OF_NA_CM23_GOLDARMORYTRAIN_WEB,Cyber Monday: Infinite Power
+ID_OF_NA_CM23_ELITE7,Cyber Monday: Elite For All
+ID_OF_NA_DIAMONDS_CYBERMONDAY,Cyber Monday Diamonds Celebration
+ID_OF_NA_CM23_GOLDTRAINA18,Cyber Monday: Total Domination
+ID_OF_NA_CM23_GEARGOLD,Cyber Monday: Health and Power
+ID_OF_NA_CM23_ABGOLDDPC,Cyber Monday: Boundless Ability
+ID_OF_NA_CM23_GOLD,Cyber Monday: Power Boost
+ID_OF_NA_CM23_ISOAB,Cyber Monday: Radioactive Abilities
+ID_OF_NA_CM23_GEARAB,Cyber Catalysts
+ID_OF_NA_BF23_GEARISO,Black Friday: Radioactive Focus
+ID_OF_NA_BF23_KANG,Black Friday: He Who Remains
+ID_OF_NA_CM23_GENERIC,Cyber Monday Special Bundle
+ID_OF_NA_BF_CAL_MYSTICGEAR,Black Friday: Mystic Bonanza
+ID_OF_NA_CM23_CAL_TECHGEAR,Cyber Monday: Tech Explosion
+ID_OF_NA_CM23_CAL_DPC,Cyber Monday: Dark Promotion Galore
+ID_OF_DE_CM23_GOLDGPC,<color=#ffda21>Gold</color> is limitless in the digital world. Stock up now with this mega deal and push your roster's power to the next level!
+ID_OF_DE_CM23_TOPUP_ZIM,Take <color=#ffda21>Iron Man (Zombie)</color> shopping and supply him with incredible power with this <color=#ffda21>Cyber Monday special</color>!
+ID_OF_DE_CM23_TRAININGCATS,Train and armor up your team with these discounted <color=#ffda21>Training Modules</color> and <color=#fff568>Augmented Basic Catalyst Parts</color>!
+ID_OF_DE_CM23_TRAINING,Make your top team unbeatable with this special deal on <color=#ffda21>Training Modules</color>!
+ID_OF_DE_CM23_GOLDARMORY,Secure this overflowing cache of <color=#ffda21>Gold</color> and boost your roster's power to the next level!
+ID_OF_DE_CM23_ISOMADNESS,Claim this mega deal on <color=#fff568>T2 Ions</color> and get your top Raid Teams up to the <color=#ffda21>Incursion Raid II</color> Iso-8 requirements!
+ID_OF_DE_CM23_EVERYTHING_WEB,Give your top characters everything they need with this special bundle!
+ID_OF_DE_CM23_NOVA,Take advantage of this rare deal on <color=#ffda21>Nova</color> character shards and lead your Alliance to War victory!
+ID_OF_DE_CM23_TOPUP_DARKHAWK,Power up <color=#ffda21>Darkhawk</color> and lead your P.E.G.A.S.U.S. team to new heights in Raids!
+ID_OF_DE_CM23_NEWAVENGERS,Defend against all threats and win the War with this mega discount on <color=#ffda21>New Avengers</color> character shards!
+ID_OF_DE_CM23_BIFROSTMEGA,Power up <color=#ffda21>Bifrost</color> to conquer the new <color=#ffda21>Incursion Raid II</color>!
+ID_OF_DE_CM23_GOLDCORES,Seize this mountain of <color=#ffda21>Gold</color> and boost your roster's power to help overcome any challenge!
+ID_OF_DE_CM23_GOLDARMORYTRAIN_WEB,Blast past your fiercest competitors with the power contained in this bundle!
+ID_OF_DE_CM23_ELITE7,Take your top character to the ultimate Red Star rank with this mega deal on <color=#d10000>Elite 7 Credits</color>!
+ID_OF_DE_CM23_GOLDTRAINA18,"Crush the competition with this mega deal on <color=#ffda21>Gold, Training and Gear</color>!"
+ID_OF_DE_CM23_GEARGOLD,Complete your favorite character's final gear tier with this special deal on <color=#fff568>Augmented Catalysts</color>!
+ID_OF_DE_CM23_ABGOLDDPC,Upgrade your top character's best abilities with this special deal on <color=#ffda21>T4 Ability Materials</color>!
+ID_OF_DE_CM23_GOLD,A boost of <color=#ffda21>Gold</color> and <color=#ffda21>Dark Promotion Credits</color> to take your roster's power and Red Star ranks to new heights!
+ID_OF_DE_CM23_ISOAB,Claim this mega deal on <color=#fff568>T2 Ions</color> and get your top Raid Teams up to the <color=#ffda21>Incursion Raid II</color> Iso-8 requirements!
+ID_OF_DE_CM23_GEARAB,Complete your favorite character's final gear tier with this special deal on <color=#fff568>Augmented Catalyst Parts</color>!
+ID_OF_DE_BF23_GEARISO,Complete your favorite character's final gear tier with this special deal on <color=#fff568>Augmented Catalyst Parts</color>!
+ID_OF_DE_BF23_KANG,Power up <color=#ffda21>Kang</color> and let no one stand in your way with this shopping season special!
+ID_OF_DE_CM23_GENERIC,Take advantage of this mega deal to take your roster to the next level!
+ID_OF_DE_BF_CAL_MYSTICGEAR,Seize this calendar for enough <color=#fff568>Gear Tier 17 & 18 Mini-Uniques</color> to upgrade any <color=#fff568>Mystic</color> character's final two gear tiers!
+ID_OF_DE_CM23_CAL_TECHGEAR,Seize this calendar for enough <color=#fff568>Gear Tier 17 & 18 Mini-Uniques</color> to upgrade any <color=#fff568>Tech</color> character's final two gear tiers!
+ID_OF_DE_CM23_CAL_DPC,"A mega boost of <color=#d10000>Dark Promotion Credits</color> to help you raise the Red Star ranks of Nova, Black Cat, Iron Man (Zombie), and more!"

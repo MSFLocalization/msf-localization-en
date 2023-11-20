@@ -3670,3 +3670,21 @@ ID_QU_NA_STRIKESALUTE2023,S.T.R.I.K.E. Salute
 ID_QU_SD_STRIKESALUTE2023,Spend Campaign Energy
 ID_QU_LD_STRIKESALUTE2023,"S.T.R.I.K.E. Salute Milestone\nGain progress in this 7-day event by spending Campaign Energy and earn rewards including L4 Training Modules, Gold, and Legacy Orbs."
 ID_QU_S1_STRIKESALUTE2023,Spend 1 Campaign Energy
+ID_QU_NA_FROZENFESTIVAL,Frozen Festival
+ID_QU_SD_FROZENFESTIVAL,Participate in December Events
+ID_QU_LM_FROZENFESTIVAL,Participate in various events throughout the month of December to earn milestone progress.
+ID_QU_S1_FROZENFESTIVAL,Collect Spectacular Snowflakes throughout December
+ID_QU_S2_FROZENFESTIVAL,Collect the Spider-Scarf from the Snowy Spider Spectacle event
+ID_QU_S3_FROZENFESTIVAL,Collect Sled Pool from the X-Force Frostbite event
+ID_QU_S4_FROZENFESTIVAL,Collect the Superior Sweater from the Sinister Snowstorm event
+ID_QU_S5_FROZENFESTIVAL,Collect the Uncanny X-Cap from the Frosty Family Gathering event
+ID_QU_S6_FROZENFESTIVAL,Collect the Ruby Snow Goggles from the Icy X-Travaganza event
+ID_QU_NA_SNOWYSPIDERSPECTACLE,Snowy Spider Spectacle
+ID_QU_SD_SNOWYSPIDERSPECTACLE,Spend Incursion Campaign Energy and Earn Event Orbs
+ID_QU_LD_SNOWYSPIDERSPECTACLE,"Gain progress by spending Incursion Campaign Energy, participating in the Campaign Cold Snap Web Milestone, and opening Frozen Orbs."
+ID_QU_S1_SNOWYSPIDERSPECTACLE,Spend 1 Incursion Campaign Energy
+ID_QU_S2_SNOWYSPIDERSPECTACLE,Open 1 Frozen Orb
+ID_QU_NA_CAMPAIGNCOLDSNAP,Campaign Cold Snap
+ID_QU_SD_CAMPAIGNCOLDSNAP,Spend Campaign Energy
+ID_QU_LD_CAMPAIGNCOLDSNAP,Spend Campaign Energy to complete this milestone that rewards Cold Hard Cash for the Frozen Festival Event Store and Snowy Spider Spectacle progress!
+ID_QU_S1_CAMPAIGNCOLDSNAP,Spend 1 Campaign Energy

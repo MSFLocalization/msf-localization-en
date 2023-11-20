@@ -8713,3 +8713,19 @@ ID_GACHA_CRATE_PACKAPUNCH_NAME,Pack-A-Punch Orb
 ID_GACHA_CRATE_PACKAPUNCH_DESCRIPTION,Contains up to 30 character shards!
 ID_GACHA_CRATE_PACKAPUNCH_TOKEN_NAME,Pack-A-Punch Orb Fragments
 ID_GACHA_CRATE_PACKAPUNCH_TOKEN_DESCRIPTION,Collect Pack-A-Punch Orb Fragments from the Daily Web Claim and the Campaign Nodes. Each Orb contains up to 30 character shards!
+ID_GACHA_CRATE_SUPERIORFROZENGEAR_NAME,Superior Frozen Gear Orb
+ID_GACHA_CRATE_SUPERIORFROZENGEAR_DESCRIPTION,Contains Gear Tier 14 and 15 Mini-Uniques and more Superior gear!
+ID_GACHA_CRATE_SUPERIORFROZENGEAR_TOKEN_NAME,Superior Frozen Gear Orb Fragments
+ID_GACHA_CRATE_SUPERIORFROZENGEAR_TOKEN_DESCRIPTION,Open Frozen Orbs for progress in the Snowy Spider Spectacle Milestone
+ID_GACHA_CRATE_AUGMENTEDFROZENGEAR_NAME,Augmented Frozen Gear Orb
+ID_GACHA_CRATE_AUGMENTEDFROZENGEAR_DESCRIPTION,Contains Gear Tier 16 and 17 Mini-Uniques and more Augmented gear!
+ID_GACHA_CRATE_AUGMENTEDFROZENGEAR_TOKEN_NAME,Augmented Frozen Gear Orb Fragments
+ID_GACHA_CRATE_AUGMENTEDFROZENGEAR_TOKEN_DESCRIPTION,Open Frozen Orbs for progress in the Snowy Spider Spectacle Milestone
+ID_GACHA_CRATE_FROZENISO_NAME,Frozen Iso Orb
+ID_GACHA_CRATE_FROZENISO_DESCRIPTION,"Contains T2 Level 4 Ions, Basic T2 Iso-8 Orb Fragments, and more"
+ID_GACHA_CRATE_FROZENISO_TOKEN_NAME,Frozen Iso Orb Fragments
+ID_GACHA_CRATE_FROZENISO_TOKEN_DESCRIPTION,Open Frozen Orbs for progress in the Snowy Spider Spectacle Milestone
+ID_GACHA_CRATE_FROZENSHARD_NAME,Frozen Shard Orb
+ID_GACHA_CRATE_FROZENSHARD_DESCRIPTION,"Contains character shards for Spider-Slayer, Sinister Six, and more"
+ID_GACHA_CRATE_FROZENSHARD_TOKEN_NAME,Frozen Shard Orb Fragments
+ID_GACHA_CRATE_FROZENSHARD_TOKEN_DESCRIPTION,Open Frozen Orbs for progress in the Snowy Spider Spectacle Milestone
