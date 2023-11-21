@@ -4954,7 +4954,7 @@ ID_OF_NA_WEAPONSONLINE_DAILY_ORBS,Weapons Online: Pack-A-Punch Orbs
 ID_OF_NA_WEAPONSONLINE_DAILY_ENERGY,Weapons Online: Campaign Energy
 ID_OF_NA_WEAPONSONLINE_INTERSTITIAL,Weapons Online: Weapons Cache
 ID_OF_NA_WEAPONSONLINE_FREE_CLAIM,Weapons Online: Free Claim
-ID_OF_DE_SUPERIORSINISTER_DAILY_ORB,"Get these orbs for <color=#fff568>Galactic Warzone</color> progress and open them for Apocalypse Bounty Orbs containing T2 L5 Ions and a slew of resources! "
+ID_OF_DE_SUPERIORSINISTER_DAILY_ORB,Get these orbs for <color=#fff568>Superior Sinister</color> progress and open them for T2 Level 5 Ion Orbs containing guaranteed T2 Level 5 Ions!
 ID_OF_DE_SUPERIORSINISTER_STARTER,Give your alliance a huge head start in the <color=#fff568>Superior Sinister</color> milestone with this high value offer!
 ID_OF_DE_SUPERIORSINISTER_DAILY_INTERSTITIAL,Stock up on Allied Supply II Orbs for extra progress in the <color=#fff568>Superior Sinister Milestone</color>!
 ID_OF_DE_SUPERIORSINISTER_FREE_CLAIM,Come back daily for more <color=#fff568>Superior Sinister</color> progress!
@@ -5046,3 +5046,4 @@ ID_OF_DE_CM23_GENERIC,Take advantage of this mega deal to take your roster to th
 ID_OF_DE_BF_CAL_MYSTICGEAR,Seize this calendar for enough <color=#fff568>Gear Tier 17 & 18 Mini-Uniques</color> to upgrade any <color=#fff568>Mystic</color> character's final two gear tiers!
 ID_OF_DE_CM23_CAL_TECHGEAR,Seize this calendar for enough <color=#fff568>Gear Tier 17 & 18 Mini-Uniques</color> to upgrade any <color=#fff568>Tech</color> character's final two gear tiers!
 ID_OF_DE_CM23_CAL_DPC,"A mega boost of <color=#d10000>Dark Promotion Credits</color> to help you raise the Red Star ranks of Nova, Black Cat, Iron Man (Zombie), and more!"
+ID_OF_DE_SPIDERSLAYER_AWAKENEDGG_PASSIVE_OFFER_UNLOCK,Unlock <color=#fff568>Spider-Slayer</color> and deliver some hard-hitting journalistic beatdowns! Power up Green Goblin (Classic) with <color=#fff568>Passive Awakened Ability Materials</color>!
