@@ -5047,3 +5047,15 @@ ID_OF_DE_BF_CAL_MYSTICGEAR,Seize this calendar for enough <color=#fff568>Gear Ti
 ID_OF_DE_CM23_CAL_TECHGEAR,Seize this calendar for enough <color=#fff568>Gear Tier 17 & 18 Mini-Uniques</color> to upgrade any <color=#fff568>Tech</color> character's final two gear tiers!
 ID_OF_DE_CM23_CAL_DPC,"A mega boost of <color=#d10000>Dark Promotion Credits</color> to help you raise the Red Star ranks of Nova, Black Cat, Iron Man (Zombie), and more!"
 ID_OF_DE_SPIDERSLAYER_AWAKENEDGG_PASSIVE_OFFER_UNLOCK,Unlock <color=#fff568>Spider-Slayer</color> and deliver some hard-hitting journalistic beatdowns! Power up Green Goblin (Classic) with <color=#fff568>Passive Awakened Ability Materials</color>!
+ID_OF_NA_LIZARD_FCO_OFFER,Reptilian Wrecking Ball
+ID_OF_DE_LIZARD_FCO_OFFER,Each <color=#fff568>Anthropomorphic Orb</color> contains <color=#fff568>up to 180 Lizard</color> shards. Shed negative effects and spread positive effects from enemies to <color=#fff568>Sinister Six</color> allies.
+ID_OF_DE_LIZARD_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Lizard</color> and unlock one-time only release offers on your next visit! Shed negative effects and spread positive effects from enemies to <color=#fff568>Sinister Six</color> allies.
+ID_OF_DE_LIZARD_OFFER_SHARD,Power up <color=#fff568>Lizard</color> with this shard offer! Shed negative effects and spread positive effects from enemies to <color=#fff568>Sinister Six</color> allies.
+ID_OF_STOREBAR_LIZARD,Dual Offer: Lizard
+ID_OF_NA_DUAL_LIZARD,Dual Offer: Lizard
+ID_OF_DE_DUAL_LIZARD,Choose your path to power up this <color=#fff568>Superior Six</color> member!
+ID_OF_DE_DUAL_UNLOCK_LIZARD,Unlock this <color=#fff568>Superior Six</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_LIZARD_FCO_OFFER_SPECIAL_1,Secret Formula: Lizard and Goblin
+ID_OF_NA_LIZARD_FCO_OFFER_SPECIAL_2,Awakened Monster Offer
+ID_OF_DE_LIZARD_AWAKENEDGG_PASSIVE_OFFER_UNLOCK,Unlock <color=#fff568>Lizard</color> and wreak havoc on your enemies! Power up Green Goblin (Classic) with <color=#fff568>Passive Awakened Ability Materials</color>!
+ID_OF_DE_LIZARD_AWAKENEDGG_BASIC_OFFER_UNLOCK,Unlock <color=#fff568>Lizard</color> and devour your enemies! Power up Green Goblin (Classic) with <color=#fff568>Basic Awakened Ability Materials</color>!
