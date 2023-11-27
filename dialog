@@ -6887,6 +6887,90 @@ ID_DIALOG_SCE_SPIDERSLAYER_08_END_5,Ideas do not open cell doors.
 ID_DIALOG_SCE_SPIDERSLAYER_08_END_6,"Maybe not, but the robot is locked up, not me."
 ID_DIALOG_SCE_SPIDERSLAYER_08_END_7,I'll find the Goblin and get us back on track to knock Spider-Weaver off her high horse.
 ID_DIALOG_SCE_SPIDERSLAYER_08_END_8,*OPERATOR OFFLINE*
+ID_DIALOG_SCE_LIZARD_01_INTRO_0,"Lizard, I've come to recruit you. I'm in need of your... unique skills."
+ID_DIALOG_SCE_LIZARD_01_INTRO_1,"And why ssshould I help you, Goblin?"
+ID_DIALOG_SCE_LIZARD_01_INTRO_2,My plan revolves around finally ridding the world of Spider-Man and his arachnid allies!
+ID_DIALOG_SCE_LIZARD_01_INTRO_3,I'm lissstening....
+ID_DIALOG_SCE_LIZARD_01_START_0,"This is Lizard. Once a brilliant geneticist named Curt Connors, he transformed into the villainous Lizard in an experiment gone wrong."
+ID_DIALOG_SCE_LIZARD_01_START_1,"As part of the Superior Six team, he excels in Cosmic Crucible."
+ID_DIALOG_SCE_LIZARD_01_START_2,He is a Protector that consistently clears negative effects from Superior and Sinister Six allies.
+ID_DIALOG_SCE_LIZARD_01_START_3,Lizard is also very fast and can gain Taunt from both his Special and Ultimate abilities.
+ID_DIALOG_SCE_LIZARD_01_END_0,"I'll join you, Goblin. For now..."
+ID_DIALOG_SCE_LIZARD_02_INTRO_0,Ssso what's the plan?
+ID_DIALOG_SCE_LIZARD_02_INTRO_1,We are going to steal some of the most cutting edge genetics research from some of the most advanced geneticists alive...
+ID_DIALOG_SCE_LIZARD_02_INTRO_2,Mutants!
+ID_DIALOG_SCE_LIZARD_02_START_0,I don't remember seeing your enrollment forms.
+ID_DIALOG_SCE_LIZARD_02_START_1,We're the onesss who've come to do the ssschooling!
+ID_DIALOG_SCE_LIZARD_02_END_0,"Yes, yes! Quickly, search their database! We're looking for two mutants: One called Sinister and another called Apocalypse."
+ID_DIALOG_SCE_LIZARD_03_INTRO_0,Excellent work. Sinister and Apocalypse are two of the greatest geneticists on the planet. With their research on mutations and genetics...
+ID_DIALOG_SCE_LIZARD_03_INTRO_1,"and our brains, Lizard, we shall create a solution to the spider problem once and for all!"
+ID_DIALOG_SCE_LIZARD_03_INTRO_2,The one called Sssininster is based in... Antarctica?
+ID_DIALOG_SCE_LIZARD_03_INTRO_3,"I don't like the cold, Goblin!"
+ID_DIALOG_SCE_LIZARD_03_END_0,Isss that... a jungle over the cliff?
+ID_DIALOG_SCE_LIZARD_03_END_1,"It's called the ""Savage Land"", I believe. I've heard of it."
+ID_DIALOG_SCE_LIZARD_03_END_2,The coordinatesss for Sinister'sss lab we stole from the X-Men is deep within that land.
+ID_DIALOG_SCE_LIZARD_04_INTRO_0,From freezing cold so ssswealtering jungle... this is a ssstrange land.
+ID_DIALOG_SCE_LIZARD_04_INTRO_1,No time for sightseeing! Find the mutant's lab!
+ID_DIALOG_SCE_LIZARD_04_INTRO_2,"Perimeter alarms were right, looks like we've got unwelcome guests."
+ID_DIALOG_SCE_LIZARD_04_MID_0,Ssso many... they must be clonessss!
+ID_DIALOG_SCE_LIZARD_04_MID_1,But why of only these two?
+ID_DIALOG_SCE_LIZARD_04_END_0,"Goblin, are you sure thisss mutant is what you sssay?"
+ID_DIALOG_SCE_LIZARD_04_END_1,"Trust your eyes, Lizard! His cloning skills are obviously far superior, imagine what else we'll find once we're inside."
+ID_DIALOG_SCE_LIZARD_05_START_0,It would seem the security team outside failed. Who are you and what do you want here?
+ID_DIALOG_SCE_LIZARD_05_START_1,We want.. IT ALL! BWAHAHAHAHA!
+ID_DIALOG_SCE_LIZARD_05_MID_0,Who dares?!
+ID_DIALOG_SCE_LIZARD_05_MID_1,I know who you are... Norman Osborn and Curt Connors. Why are you breaking into my laboratory?
+ID_DIALOG_SCE_LIZARD_05_MID_2,"We need your research, Sssinister! To destroy Spider-Man, ALL Spidersss infesting the world, forever!"
+ID_DIALOG_SCE_LIZARD_05_MID_3,"Fascinating. I'll make you a deal, defeat my latest creation and I'll give you all my research complete with my notes."
+ID_DIALOG_SCE_LIZARD_05_MID_4,Oh this will be FUN!
+ID_DIALOG_SCE_LIZARD_05_MID_5,"Computer, release clone Sigma twenty seven!"
+ID_DIALOG_SCE_LIZARD_05_END_0,"Incredible. Alas, it seems I have much work to do with that particular experiment."
+ID_DIALOG_SCE_LIZARD_05_END_1,Luckily that alien invader left us with plenty of suitable test subjects.
+ID_DIALOG_SCE_LIZARD_05_END_2,Give usss what was promised!
+ID_DIALOG_SCE_LIZARD_05_END_3,"Yes, yes. A deal is a deal. I'm eager to see what your results are, Doctor."
+ID_DIALOG_SCE_LIZARD_06_INTRO_0,"Now for the next target. This mutant calls himself ""Apocalypse""."
+ID_DIALOG_SCE_LIZARD_06_INTRO_1,What did we learn about him from the files we stole from the X-Men?
+ID_DIALOG_SCE_LIZARD_06_INTRO_2,The data on him wasss encrypted. We haven't been able to break it.
+ID_DIALOG_SCE_LIZARD_06_INTRO_3,WHAT?!
+ID_DIALOG_SCE_LIZARD_06_INTRO_4,"I'm a doctor, Osssborn. Not a hacker!"
+ID_DIALOG_SCE_LIZARD_06_INTRO_5,Very well... I know who can break any encryption...
+ID_DIALOG_SCE_LIZARD_06_START_0,I'm going to break into their systems and use S.H.I.E.L.D.'s cryptography programs to decrypt the files.
+ID_DIALOG_SCE_LIZARD_06_START_1,"While I'm doing that, see if you can find those two idiots that got themselves captured. We'll need them later."
+ID_DIALOG_SCE_LIZARD_06_START_2,"It's nice when the bad guys come to you, makes capturing them so much easier."
+ID_DIALOG_SCE_LIZARD_04_WAVE2_0,"Security, repel the invaders!"
+ID_DIALOG_SCE_LIZARD_04_WAVE2_1,Osssborn!
+ID_DIALOG_SCE_LIZARD_06_WAVE3_0,"Okay boys, that's enough of that. Stand down!"
+ID_DIALOG_SCE_LIZARD_06_WAVE3_1,Newsflash! Superior Six free Spider Slayer from Helicarrier!
+ID_DIALOG_SCE_LIZARD_06_WAVE4_0,Awww nobody invited me to the party?
+ID_DIALOG_SCE_LIZARD_06_WAVE4_1,"About time, get me out of here!"
+ID_DIALOG_SCE_LIZARD_06_WAVE4_2,OSSBORN?!
+ID_DIALOG_SCE_LIZARD_06_WAVE4_3,Almost done!
+ID_DIALOG_SCE_LIZARD_06_END_0,"Files decrypted! Lizard, did you break out the others?"
+ID_DIALOG_SCE_LIZARD_06_END_1,Yesss.
+ID_DIALOG_SCE_LIZARD_06_END_2,Time to go!
+ID_DIALOG_SCE_LIZARD_07_INTRO_0,"Ssso tell me all that wasss worth it, Goblin."
+ID_DIALOG_SCE_LIZARD_07_INTRO_1,BWAHAHAHA! OF COURSE!
+ID_DIALOG_SCE_LIZARD_07_INTRO_2,We got everything. Apocalypse's lab is in Japan. Let's go.
+ID_DIALOG_SCE_LIZARD_07_START_0,Is thisss the place?
+ID_DIALOG_SCE_LIZARD_07_START_1,HOW AMUSING. HAVE YOU COME TO DIE?
+ID_DIALOG_SCE_LIZARD_07_START_2,This is the place.
+ID_DIALOG_SCE_LIZARD_07_END_0,That was... a little too easy.
+ID_DIALOG_SCE_LIZARD_07_END_1,"What do you think, Norman?"
+ID_DIALOG_SCE_LIZARD_07_END_2,...
+ID_DIALOG_SCE_LIZARD_07_END_3,Norman?
+ID_DIALOG_SCE_LIZARD_07_END_4,...
+ID_DIALOG_SCE_LIZARD_07_END_5,GOBLIN?!
+ID_DIALOG_SCE_LIZARD_07_END_6,...
+ID_DIALOG_SCE_LIZARD_07_END_7,"The lab's below, let's go."
+ID_DIALOG_SCE_LIZARD_08_INTRO_0,"Osssborn, you are acting strangely."
+ID_DIALOG_SCE_LIZARD_08_INTRO_1,[TELL THEM NOTHING. YOU SERVE ME NOW.]
+ID_DIALOG_SCE_LIZARD_08_INTRO_2,"It's nothing, Lizard. Destroy the remaining defenders and find the research data we need."
+ID_DIALOG_SCE_LIZARD_08_END_0,Odd... the computersss are unlocked and all research is unencrypted.
+ID_DIALOG_SCE_LIZARD_08_END_1,It isss... very complicated. This mutant knows far more about genetics than imagined.
+ID_DIALOG_SCE_LIZARD_08_END_2,"Don't look a gift goblin in the mouth, Lizard. Copy it all!"
+ID_DIALOG_SCE_LIZARD_08_END_3,"SOON, BWAHAHAHA! SOON SPIDER-MAN, AND ALL SPIDER-HEROES, WILL BE DESTROYED!"
+ID_DIALOG_SCE_LIZARD_08_END_4,HAHAHAHAHAHAHAHAHA!
+ID_DIALOG_SCE_LIZARD_08_END_5,"As you sssay, Osssborn..."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
