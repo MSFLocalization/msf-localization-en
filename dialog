@@ -6905,7 +6905,7 @@ ID_DIALOG_SCE_LIZARD_02_END_0,"Yes, yes! Quickly, search their database! We're l
 ID_DIALOG_SCE_LIZARD_03_INTRO_0,Excellent work. Sinister and Apocalypse are two of the greatest geneticists on the planet. With their research on mutations and genetics...
 ID_DIALOG_SCE_LIZARD_03_INTRO_1,"and our brains, Lizard, we shall create a solution to the spider problem once and for all!"
 ID_DIALOG_SCE_LIZARD_03_INTRO_2,The one called Sssininster is based in... Antarctica?
-ID_DIALOG_SCE_LIZARD_03_INTRO_3,"I don't like the cold, Goblin!"
+ID_DIALOG_SCE_LIZARD_03_START_0,"I don't like the cold, Goblin!"
 ID_DIALOG_SCE_LIZARD_03_END_0,Isss that... a jungle over the cliff?
 ID_DIALOG_SCE_LIZARD_03_END_1,"It's called the ""Savage Land"", I believe. I've heard of it."
 ID_DIALOG_SCE_LIZARD_03_END_2,The coordinatesss for Sinister'sss lab we stole from the X-Men is deep within that land.
@@ -6937,8 +6937,8 @@ ID_DIALOG_SCE_LIZARD_06_INTRO_5,Very well... I know who can break any encryption
 ID_DIALOG_SCE_LIZARD_06_START_0,I'm going to break into their systems and use S.H.I.E.L.D.'s cryptography programs to decrypt the files.
 ID_DIALOG_SCE_LIZARD_06_START_1,"While I'm doing that, see if you can find those two idiots that got themselves captured. We'll need them later."
 ID_DIALOG_SCE_LIZARD_06_START_2,"It's nice when the bad guys come to you, makes capturing them so much easier."
-ID_DIALOG_SCE_LIZARD_04_WAVE2_0,"Security, repel the invaders!"
-ID_DIALOG_SCE_LIZARD_04_WAVE2_1,Osssborn!
+ID_DIALOG_SCE_LIZARD_06_WAVE2_0,"Security, repel the invaders!"
+ID_DIALOG_SCE_LIZARD_06_WAVE2_1,Osssborn!
 ID_DIALOG_SCE_LIZARD_06_WAVE3_0,"Okay boys, that's enough of that. Stand down!"
 ID_DIALOG_SCE_LIZARD_06_WAVE3_1,Newsflash! Superior Six free Spider Slayer from Helicarrier!
 ID_DIALOG_SCE_LIZARD_06_WAVE4_0,Awww nobody invited me to the party?

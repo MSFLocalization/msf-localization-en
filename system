@@ -1267,6 +1267,9 @@ ID_REQUIRES_PEGASUS_REBIRTH_GT13_IM_DH_IH,"ONLY <color=#fff568>P.E.G.A.S.U.S.</c
 ID_REQUIREMENT_INCURSION_CAMPAIGN_CH1,4 <color=#ff0000>RED</color> Stars
 ID_REQUIREMENT_INCURSION_CAMPAIGN_CH2,"5 <color=#ff0000>RED</color> Stars, <color=#fff568>BIO</color> or <color=#fff568>SKILL</color> Characters Only"
 ID_REQUIREMENT_INCURSION_CAMPAIGN_CH3,"6 <color=#ff0000>RED</color> Stars, <color=#fff568>BIO</color> or <color=#fff568>SKILL</color> Characters Only"
+ID_REQUIREMENT_INCURSION_CAMPAIGN_CH4,"5 <color=#ff0000>RED</color> Stars, <color=#fff568>MYSTIC</color> or <color=#fff568>TECH</color> Characters Only"
+ID_REQUIREMENT_INCURSION_CAMPAIGN_CH5,"6 <color=#ff0000>RED</color> Stars, <color=#fff568>MYSTIC</color> or <color=#fff568>TECH</color> Characters Only"
+ID_REQUIREMENT_INCURSION_CAMPAIGN_CH6,"7 <color=#ff0000>RED</color> Stars, <color=#fff568>MYSTIC</color> or <color=#fff568>TECH</color> Characters Only"
 ID_REQUIRES_PEGASUS_CH_CAM,5 <color=#fff568>P.E.G.A.S.U.S.</color> at Gear Tier 15
 ID_REQUIRES_PEGASUS_LE_CAM,"5 <color=#fff568>P.E.G.A.S.U.S.</color> at Gear Tier 15, 4 Yellow Stars"
 ID_REQUIRES_PEGASUS_BO_CAM,"5 <color=#fff568>P.E.G.A.S.U.S.</color> at Gear Tier 15, 6 Yellow Stars"
@@ -1287,3 +1290,4 @@ ID_REQ_S6EE_DIF2,"4 <color=#fff568>SUPERIOR SIX</color>, Gear Tier 15"
 ID_REQ_S6EE_DIF3,"5 <color=#fff568>SUPERIOR SIX</color>, Gear Tier 15, 5 Yellow Stars"
 ID_ONLY_INVADERS_SUPERIORSIX,ONLY <color=#fff568>INVADERS</color> or <color=#fff568>SUPERIOR SIX</color>
 ID_REQUIRES_INVADERS_SPIDERSLAYER,ONLY <color=#fff568>INVADERS</color> or <color=#fff568>SUPERIOR SIX</color>\nREQUIRES: <color=#fff568>KRAVEN</color> and <color=#fff568>SPIDER-SLAYER</color> AT GEAR TIER 13
+ID_REQUIRES_INVADERS_LIZARD,"ONLY <color=#fff568>INVADERS</color> or <color=#fff568>SUPERIOR SIX</color>\nREQUIRES: <color=#fff568>KRAVEN</color>, <color=#fff568>SPIDER-SLAYER</color>, and <color=#fff568>LIZARD</color> AT GEAR TIER 13"

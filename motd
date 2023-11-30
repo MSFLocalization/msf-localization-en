@@ -2455,6 +2455,12 @@ ID_MOTD_NA_KRAVEN_LIVE,LIVE: The Last Hunt
 ID_MOTD_DE_KRAVEN_LIVE,Battle with Kraven the Hunter and earn rewards!
 ID_MOTD_NA_KRAVEN_ENDING,ENDING SOON: The Last Hunt!
 ID_MOTD_DE_KRAVEN_ENDING,The Last Hunt event is ending soon!
+ID_MOTD_NA_LIZARD_PREVIEW,Coming Soon: Gathering Genetics
+ID_MOTD_DE_LIZARD_PREVIEW,Battle with Lizard and earn rewards!
+ID_MOTD_NA_LIZARD_LIVE,LIVE: Gathering Genetics
+ID_MOTD_DE_LIZARD_LIVE,Battle with Lizard and earn rewards!
+ID_MOTD_NA_LIZARD_ENDING,ENDING SOON: Gathering Genetics!
+ID_MOTD_DE_LIZARD_ENDING,The Gathering Genetics event is ending soon!
 ID_MOTD_NA_SUPERIOR6FINALE_PREVIEW,Coming Soon: Superior Schemes
 ID_MOTD_DE_SUPERIOR6FINALE_PREVIEW,Battle with the Superior Six and earn rewards!
 ID_MOTD_NA_SUPERIOR6FINALE_LIVE,LIVE: Superior Schemes
@@ -2510,3 +2516,9 @@ ID_MOTD_DE_LIZARD_TEASER,The Reptilian Wrecking Ball slithers in to wreak havoc!
 ID_MOTD_NA_LIZARD_ANNOUNCE,Lizard is here!
 ID_MOTD_DE_LIZARD_ANNOUNCE,Wreak havoc on your enemies with this Reptilian Wrecking Ball!
 ID_MOTD_DE_LIZARD_ANNOUNCE2,Open the Anthropomorphic Orb to earn shards for this Reptilian Wrecking Ball!
+ID_MOTD_NA_CAMPAIGN_INCURSION_4_6_LIVE,Live: Incursion Campaign Update
+ID_MOTD_DE_CAMPAIGN_INCURSION_4_6_LIVE,Earn Red Star Promotions!
+ID_MOTD_NA_BATTLEPASS_SEASON10_ANNOUNCE,LIVE: Season 10 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON10_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_BATTLEPASS_SEASON11_ANNOUNCE,LIVE: Season 11 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON11_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!

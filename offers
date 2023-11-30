@@ -4939,7 +4939,6 @@ ID_OF_DE_INCURSION2_DEATHSEED_UNIQUES,Give your <color=#ffda21>Death Seed</color
 ID_OF_DE_INCURSION2_REBIRTH_UNIQUES,Give your <color=#ffda21>Rebirth</color> team the <color=#fff568>Teal Gear Uniques</color> they need with this Incursion Raid II Launch Special!
 ID_OF_DE_INCURSION2_BIFROST_UNIQUES,Give your <color=#ffda21>Bifrost</color> team the <color=#fff568>Teal Gear Uniques</color> they need and reach new heights in the new <color=#ffda21>Incursion Raid II</color>!!
 ID_OF_DE_INCURSION2_PEGASUS_UNIQUES,Give your <color=#ffda21>P.E.G.A.S.U.S.</color> team the <color=#fff568>Teal Gear Uniques</color> they need and reach new heights in the new <color=#ffda21>Incursion Raid II</color>!!
-ID_OF_DE_SPIDERSLAYER_AWAKENEDGG_OFFER_UNLOCK,Unlock <color=#fff568>Spider-Slayer</color> and deliver some hard-hitting journalistic beatdowns! Power up Green Goblin (Classic) with <color=#fff568>Basic Awakened Ability Materials</color>!
 ID_OF_DE_WEAPONSONLINE_STARTER,Speed through the <color=#fff568>Weapons Online</color> Milestone and get <color=#fff568>Pack-A-Punch Orbs</color> and <color=#fff568>Teal Gear</color> with this offer!
 ID_OF_DE_WEAPONSONLINE_CATCHUP,Finish strong in the <color=#fff568>Weapons Online Milestone</color> and get your hands on Teal Skill gear and Diamond Dawn Orb Fragments!
 ID_OF_DE_WEAPONSONLINE_DAILY_POINTS,Stock up on Event Points for extra progress in the <color=#fff568>Weapons Online Milestone</color>!
@@ -4964,9 +4963,11 @@ ID_OF_NA_SUPERIORSINISTER_STARTER,Superior Sinister: Starter
 ID_OF_NA_SUPERIORSINISTER_DAILY_INTERSTITIAL,Superior Sinister: Allied Supply II Orbs
 ID_OF_NA_SUPERIORSINISTER_FREE_CLAIM,Superior Sinister: Free Claim
 ID_OF_NA_SUPERIORSINISTER_CHARACTER_TEAM,Superior Sinister: Character Bundle
+ID_OF_DE_SPIDERSLAYER_AWAKENEDGG_OFFER_UNLOCK,Unlock <color=#fff568>Spider-Slayer</color> and deliver some hard-hitting journalistic beatdowns! Power up Green Goblin (Classic) with <color=#fff568>Basic Awakened Ability Materials</color>!
 ID_OF_NA_DIAMONDSLAUNCH_40,Diamond Orb Launch Special
 ID_OF_NA_DIAMONDSLAUNCH_100,Diamond Orb Mega Launch Special
 ID_OF_NA_DIAMONDS_BLACKFRIDAY,Black Friday Diamonds Celebration
+ID_OF_NA_DIAMONDS_CYBERMONDAY,Cyber Monday Diamonds Celebration
 ID_OF_DE_DIAMONDSLAUNCH_40,Harness the power of Diamonds! Earn 20 Silver Diamond Credits and a <color=#ffda21>guaranteed Diamond Promotion</color> with each orb!
 ID_OF_DE_DIAMONDSLAUNCH_100,Take your roster to the next level with this deal on multiple <color=#ffda21>Diamonds Orbs</color> and Elite 7 Credits!
 ID_OF_DE_DIAMONDS_BLACKFRIDAY,"This shopping season only, take advantage of this amazing deal on <color=#ffda21>Diamond Orbs</color> and Red Stars!"
@@ -5007,7 +5008,6 @@ ID_OF_NA_CM23_BIFROSTMEGA,Cyber Monday: Bifrost Mega Pack
 ID_OF_NA_CM23_GOLDCORES,Cyber Monday: Golden Fortune
 ID_OF_NA_CM23_GOLDARMORYTRAIN_WEB,Cyber Monday: Infinite Power
 ID_OF_NA_CM23_ELITE7,Cyber Monday: Elite For All
-ID_OF_NA_DIAMONDS_CYBERMONDAY,Cyber Monday Diamonds Celebration
 ID_OF_NA_CM23_GOLDTRAINA18,Cyber Monday: Total Domination
 ID_OF_NA_CM23_GEARGOLD,Cyber Monday: Health and Power
 ID_OF_NA_CM23_ABGOLDDPC,Cyber Monday: Boundless Ability
@@ -5073,3 +5073,43 @@ ID_OF_DE_MEGAGOLDORB3,Claim this exclusive deal on the new <color=#ffda21>Mega G
 ID_OF_DE_MEGAGOLDORB4,Take a chance at this new orb's <color=#ffda21>100M Gold jackpot</color>. Enough Gold to level up an entire team from level 1 to 95!
 ID_OF_DE_MEGAGOLDORB5,Claim this special deal on the new <color=#ffda21>Mega Gold Orb</color>!
 ID_OF_DE_MEGAGOLDORB6,Pick your path to riches with this exclusive <color=#ffda21>Mega Gold Orb</color>Dual Offer!
+ID_OF_NA_FROZENFESTIVAL_BIG_STARTER,Frozen Festival: Mega Starter
+ID_OF_NA_FROZENFESTIVAL_STARTER,Frozen Festival: Starter Bundle
+ID_OF_NA_FROZENFESTIVAL_ANCHOR,Frozen Festival: Daily Points
+ID_OF_NA_FROZENFESTIVAL_MEGA_BOOSTER,Frozen Festival: Avalanche Bundle
+ID_OF_NA_FROZENFESTIVAL_BOOSTER,Frozen Festival: Chilly Bundle
+ID_OF_NA_FROZENFESTIVAL_BIG_BOOSTER,Frozen Festival: Icy Bundle
+ID_OF_NA_FROZENFESTIVAL_CATCHUP_MEGA,Frozen Festival: Mega Catch-Up
+ID_OF_NA_FROZENFESTIVAL_CATCHUP_SUPER,Frozen Festival: Super Catch-Up
+ID_OF_NA_FROZENFESTIVAL_CATCHUP,Frozen Festival: Catch-Up Bundle
+ID_OF_NA_FROZENFESTIVAL_CATCHUP_LAST_CHANCE,Frozen Festival: Last Chance
+ID_OF_DE_FROZENFESTIVAL_BIG_STARTER,"Stock up on <color=#fff568>Frozen Festival</color> progress and exclusive items, and get ahead on the Frozen Festival Leaderboard for an <color=#fff568>avalanche of T2 Level 5 Ions</color>!"
+ID_OF_DE_FROZENFESTIVAL_STARTER,Get ahead in the <color=#fff568>Frozen Festival</color> milestone and fast-forward your way to stacks of <color=#fff568>Cold Hard Cash</color> for the Frozen Festival Event Store!
+ID_OF_DE_FROZENFESTIVAL_ANCHOR,Make consistent <color=#fff568>Frozen Festival</color> progress with this daily <color=#fff568>Spectacular Snowflake</color> supply!
+ID_OF_DE_FROZENFESTIVAL_MEGA_BOOSTER,Stock up on <color=#fff568>Frozen Festival</color> progress and <color=#fff568>Cold Hard Cash</color> with this special deal!
+ID_OF_DE_FROZENFESTIVAL_BOOSTER,Boost your <color=#fff568>Frozen Festival</color> progress with this special offer!
+ID_OF_DE_FROZENFESTIVAL_BIG_BOOSTER,Make big <color=#fff568>Frozen Festival</color> progress and climb the leaderboard with this special deal!
+ID_OF_DE_FROZENFESTIVAL_CATCHUP_MEGA,"Finish strong in the milestones and leaderboards for <color=#fff568>Diamond Dawn Orbs</color>, <color=#fff568>Cold Hard Cash</color> and an exclusive <color=#fff568>Player Portrait Frame</color>!"
+ID_OF_DE_FROZENFESTIVAL_CATCHUP,Finish strong in the milestones for <color=#fff568>Cold Hard Cash</color> and an exclusive <color=#fff568>Player Portrait Frame</color>!
+ID_OF_DE_FROZENFESTIVAL_CATCHUP_LAST_CHANCE,"Catch this deal before it's too late to earn your final stacks of <color=#fff568>Cold Hard Cash</color> for the Frozen Festival Event Store! "
+ID_OF_NA_FROZENFESTIVAL_FREEDAILY,Frozen Festival: Free Claim
+ID_OF_DE_FROZENFESTIVAL_FREEDAILY,Come back daily for more <color=#fff568>Frozen Festival</color> progress!
+ID_OF_NA_SNOWYSPIDERSPECTACLE_MEGA_STARTER,Snowy Spider Spectacle: Mega Starter
+ID_OF_NA_SNOWYSPIDERSPECTACLE_BIG_STARTER,Snowy Spider Spectacle: Big Starter
+ID_OF_NA_SNOWYSPIDERSPECTACLE_STARTER,Snowy Spider Spectacle: Starter
+ID_OF_NA_SNOWYSPIDERSPECTACLE_MEGA_CATCHUP,Snowy Spider Spectacle: Mega Catch-up
+ID_OF_NA_SNOWYSPIDERSPECTACLE_CATCHUP,Snowy Spider Spectacle: Catch-up
+ID_OF_NA_SNOWYSPIDERSPECTACLE_DAILY_CAMPAIGN_ENERGY,Campaign Cold Snap: Daily Energy
+ID_OF_NA_SNOWYSPIDERSPECTACLE_DAILY_INCURSION_ENERGY,Snowy Spider Spectacle: Daily Incursion Energy
+ID_OF_NA_SNOWYSPIDERSPECTACLE_DAILY_GOLD,Snowy Spider Spectacle: Daily Gold
+ID_OF_NA_SNOWYSPIDERSPECTACLE_DAILY_INTERSTITIAL,Snowy Spider Spectacle: Web Special
+ID_OF_NA_SNOWYSPIDERSPECTACLE_FREECLAIM,Snowy Spider Spectacle: Free Claim
+ID_OF_DE_SNOWYSPIDERSPECTACLE_MEGA_STARTER,Get ahead in the <color=#fff568>Snowy Spider Spectacle</color> Milestone and fast-forward your way to <color=#fff568>Spider-Slayer shards</color> and <color=#fff568>Apocalypse Diamonds</color>!
+ID_OF_DE_SNOWYSPIDERSPECTACLE_STARTER,Start strong in the <color=#fff568>Snowy Spider Spectacle</color> Milestone and spring to the top of the leaderboard!
+ID_OF_DE_SNOWYSPIDERSPECTACLE_MEGA_CATCHUP,Finish strong in the milestones to earn <color=#fff568>Spider-Slayer shards</color> and reach the top of the leaderboard for <color=#fff568>Apocalypse Diamonds</color>!
+ID_OF_DE_SNOWYSPIDERSPECTACLE_CATCHUP,Finish your milestone progress and get the last batch of <color=#fff568>Spider-Slayer shards</color> and <color=#fff568>Diamond Dawn Orb Fragments</color>!
+ID_OF_DE_SNOWYSPIDERSPECTACLE_DAILY_CAMPAIGN_ENERGY,Earn more Cold Hard Cash and Snowy Spider Spectacle progress with this daily bundle of Campaign Energy for <color=#fff568>Campaign Cold Snap</color> web milestone progress!
+ID_OF_DE_SNOWYSPIDERSPECTACLE_DAILY_INCURSION_ENERGY,Make more <color=#fff568>Snowy Spider Spectacle</color> progress with this daily infusion of Incursion Campaign Energy!
+ID_OF_DE_SNOWYSPIDERSPECTACLE_DAILY_GOLD,Power up your favorite characters and gain <color=#fff568>Snowy Spider Spectacle</color> progress with this daily Gold Orb supply!
+ID_OF_DE_SNOWYSPIDERSPECTACLE_DAILY_INTERSTITIAL,Get boosted <color=#fff568>Snowy Spider Spectacle</color> progress with this daily trove of resources!
+ID_OF_DE_SNOWYSPIDERSPECTACLE_FREECLAIM,Come back daily for more <color=#fff568>Snowy Spider Spectacle</color> progress!

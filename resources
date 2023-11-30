@@ -44,15 +44,15 @@ ID_AVE_KEY_EVENT03_NAME,Champions' Raid Key
 ID_AVE_KEY_EVENT03_DESCRIPTION,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_AVE_KEY_EVENT04_NAME,Gambit Raid Key
 ID_AVE_KEY_EVENT04_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
-ID_RES_CAMPAIGN_ENERGY_EVENT01,Infectious Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT01,Superior Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT02,Correspondent Energy
-ID_RES_CAMPAIGN_ENERGY_EVENT03,The Last Hunt Energy
-ID_CAMPAIGN_ENERGY_EVENT01_NAME,Infectious Energy
-ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch Unstoppable Undead missions.
+ID_RES_CAMPAIGN_ENERGY_EVENT03,Lizard Energy
+ID_CAMPAIGN_ENERGY_EVENT01_NAME,Superior Energy
+ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch Superior Schemes missions.
 ID_CAMPAIGN_ENERGY_EVENT02_NAME,Correspondent Energy
 ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch Web-Head Hunters missions.
-ID_CAMPAIGN_ENERGY_EVENT03_NAME,The Last Hunt Energy
-ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch The Last Hunt missions.
+ID_CAMPAIGN_ENERGY_EVENT03_NAME,Lizard Energy
+ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Gathering Genetics missions.
 ID_HC_NAME,Power Cores
 ID_HC_DESCRIPTION,"Use Power Cores to purchase Orbs, Energy Refills, Health Packs, Supplies, and Blitz Charges."
 ID_AVA-CUR_NAME,War Credits
