@@ -426,15 +426,15 @@ ID_ANIMALARMATURE_NAME,Animal Armature Milestone Points
 ID_ANIMALARMATURE_DESC,"These points earn you additional progress in the Animal Armature Milestone. Earn them in the Big Armor Hunter Web Milestone, Daily Free Claims on our website, and limited offers!"
 ID_WEAPONSONLINE_NAME,Weapons Online Milestone Points
 ID_WEAPONSONLINE_DESC,"These points earn you additional progress in the Weapons Online Milestone. Earn them in the Eureka Moment Web Milestone, Daily Free Claims on our website, and limited offers!"
-ID_EVTA_META_DEC_A_NAME,Spectacular Snowflakes
-ID_EVTA_META_DEC_A_DESCRIPTION,Collect Spectacular Snowflakes for points in the Frozen Festival Event. Ear them in events and offers throughout DEC!
-ID_EVTA_META_DEC_B_NAME,Spider-Scarf
-ID_EVTA_META_DEC_B_DESCRIPTION,Collect the Spider-Scarf for points in the Frozen Festival Event. Earn it in the Snowy Spider Spectacle event!
-ID_EVTA_META_DEC_C_NAME,Sled Pool
-ID_EVTA_META_DEC_C_DESCRIPTION,Collect Sled Pool for points in the Frozen Festival Event. Earn it in the X-Force Frostbite event!
-ID_EVTA_META_DEC_D_NAME,Superior Sweater
-ID_EVTA_META_DEC_D_DESCRIPTION,Collect the Superior Sweater for points in the Frozen Festival Event. Earn it in the Sinister Snowstorm event!
-ID_EVTA_META_DEC_E_NAME,Uncanny X-Cap
-ID_EVTA_META_DEC_E_DESCRIPTION,Collect the Uncanny X-Cap for points in the Frozen Festival Event. Earn it in the Frosty Family Gathering event!
-ID_EVTA_META_DEC_F_NAME,Ruby Snow Goggles
-ID_EVTA_META_DEC_F_DESCRIPTION,Collect the Ruby Snow Goggles for points in the Frozen Festival Event. Earn it in the Icy X-Travaganza event!
+ID_EVTA_META_DEV_A_NAME,Spectacular Snowflakes
+ID_EVTA_META_DEV_A_DESCRIPTION,Collect Spectacular Snowflakes for points in the Frozen Festival Event. Ear them in events and offers throughout DEC!
+ID_EVTA_META_DEV_B_NAME,Spider-Scarf
+ID_EVTA_META_DEV_B_DESCRIPTION,Collect the Spider-Scarf for points in the Frozen Festival Event. Earn it in the Snowy Spider Spectacle event!
+ID_EVTA_META_DEV_C_NAME,Sled Pool
+ID_EVTA_META_DEV_C_DESCRIPTION,Collect Sled Pool for points in the Frozen Festival Event. Earn it in the X-Force Frostbite event!
+ID_EVTA_META_DEV_D_NAME,Superior Sweater
+ID_EVTA_META_DEV_D_DESCRIPTION,Collect the Superior Sweater for points in the Frozen Festival Event. Earn it in the Sinister Snowstorm event!
+ID_EVTA_META_DEV_E_NAME,Uncanny X-Cap
+ID_EVTA_META_DEV_E_DESCRIPTION,Collect the Uncanny X-Cap for points in the Frozen Festival Event. Earn it in the Frosty Family Gathering event!
+ID_EVTA_META_DEV_F_NAME,Ruby Snow Goggles
+ID_EVTA_META_DEV_F_DESCRIPTION,Collect the Ruby Snow Goggles for points in the Frozen Festival Event. Earn it in the Icy X-Travaganza event!

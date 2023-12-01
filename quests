@@ -3683,7 +3683,9 @@ ID_QU_NA_SNOWYSPIDERSPECTACLE,Snowy Spider Spectacle
 ID_QU_SD_SNOWYSPIDERSPECTACLE,Spend Incursion Campaign Energy and Earn Event Orbs
 ID_QU_LD_SNOWYSPIDERSPECTACLE,"Gain progress by spending Incursion Campaign Energy, participating in the Campaign Cold Snap Web Milestone, and opening Frozen Orbs."
 ID_QU_S1_SNOWYSPIDERSPECTACLE,Spend 1 Incursion Campaign Energy
-ID_QU_S2_SNOWYSPIDERSPECTACLE,Open 1 Frozen Orb
+ID_QU_S2_SNOWYSPIDERSPECTACLE,Open 1 Superior Frozen Gear Orb
+ID_QU_S3_SNOWYSPIDERSPECTACLE,Open 1 Augmented Frozen Gear Orb
+ID_QU_S4_SNOWYSPIDERSPECTACLE,Open 1 Frozen Iso Orb
 ID_QU_NA_CAMPAIGNCOLDSNAP,Campaign Cold Snap
 ID_QU_SD_CAMPAIGNCOLDSNAP,Spend Campaign Energy
 ID_QU_LD_CAMPAIGNCOLDSNAP,Spend Campaign Energy to complete this milestone that rewards Cold Hard Cash for the Frozen Festival Event Store and Snowy Spider Spectacle progress!
