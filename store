@@ -139,6 +139,8 @@ ID_GACHA_CRATE_ABILITY_TOKEN_NAME,Ability Orb Fragments
 ID_GACHA_CRATE_ABILITY_TOKEN_DESCRIPTION,Collect Ability Orb Fragments to earn an Ability Orb.
 ID_GACHA_CRATE_BASIC_NAME,Basic Orb
 ID_GACHA_CRATE_BASIC_DESCRIPTION,"Get character shards, gear, and Gold"
+ID_GACHA_CRATE_BASIC_SWAP_NAME,Basic Orb
+ID_GACHA_CRATE_BASIC_SWAP_DESCRIPTION,"Get character shards, gear, and Gold"
 ID_GACHA_CRATE_BASIC_TOKEN_NAME,Basic Orb Fragments
 ID_GACHA_CRATE_BASIC_TOKEN_DESCRIPTION,Collect Basic Orb Fragments to earn a Basic Orb.
 ID_GACHA_CRATE_ARENA_SMALL_NAME,Blitz Orb
@@ -171,6 +173,8 @@ ID_GACHA_CRATE_LEGACY_03_TOKEN_NAME,Legacy III Orb Fragments
 ID_GACHA_CRATE_LEGACY_03_TOKEN_DESCRIPTION,Collect Legacy III Orb Fragments to earn a Legacy III Orb.
 ID_GACHA_CRATE_MEGA_NAME,Mega Orb
 ID_GACHA_CRATE_MEGA_DESCRIPTION,Contains 50-100 shards of select marquee characters
+ID_GACHA_CRATE_MEGA_SWAP_NAME,Mega Orb
+ID_GACHA_CRATE_MEGA_SWAP_DESCRIPTION,Contains 50-100 shards of select marquee characters
 ID_GACHA_CRATE_MEGA_TOKEN_NAME,Mega Orb Fragments
 ID_GACHA_CRATE_MEGA_TOKEN_DESCRIPTION,Collect Mega Orb Fragments to earn a Mega Orb.
 ID_GACHA_CRATE_MEGA_DESCRIPTION_2,Contains 50-100 shards of select marquee characters
@@ -190,6 +194,8 @@ ID_GACHA_CRATE_MILESTONE_2022_TOKEN_NAME,Milestone III Orb Fragments
 ID_GACHA_CRATE_MILESTONE_2022_TOKEN_DESCRIPTION,Collect Milestone III Orb Fragments to earn a Milestone III Orb.
 ID_GACHA_CRATE_PREMIUM_NAME,Premium Orb
 ID_GACHA_CRATE_PREMIUM_DESCRIPTION,Guarantees at least 15 character shards
+ID_GACHA_CRATE_PREMIUM_SWAP_NAME,Premium Orb
+ID_GACHA_CRATE_PREMIUM_SWAP_DESCRIPTION,Guarantees at least 15 character shards
 ID_GACHA_CRATE_PREMIUM_TOKEN_NAME,Premium Orb Fragments
 ID_GACHA_CRATE_PREMIUM_TOKEN_DESCRIPTION,Collect Premium Orb Fragments to earn a Premium Orb.
 ID_GACHA_M_CRATE_PROMOTION_NAME,Red Star Orb
@@ -293,6 +299,10 @@ ID_GACHA_M_CRATE_TOKEN_ADVANCED_25_NAME,25 Gold Promotion Credits
 ID_GACHA_M_CRATE_TOKEN_ADVANCED_25_DESCRIPTION,Used to promote specific characters to 6 & 7 Red Stars
 ID_GACHA_M_CRATE_TOKEN_DIAMOND_5_NAME,5 Silver Diamond Credits
 ID_GACHA_M_CRATE_TOKEN_DIAMOND_5_DESCRIPTION,Used to promote specific characters up to 3 Diamonds
+ID_GACHA_CRATE_RAID_GREEN_GEARMATS_NAME,Green Gear Raid Orb
+ID_GACHA_CRATE_RAID_GREEN_GEARMATS_DESCRIPTION,Contains green gear materials
+ID_GACHA_CRATE_RAID_GREEN_GEARMATS_TOKEN_DESCRIPTION,Collect Green Gear Raid Orb Fragments to earn a Green Gear Raid Orb.
+ID_GACHA_CRATE_RAID_GREEN_GEARMATS_TOKEN_NAME,Green Gear Raid Orb Fragments
 ID_GACHA_CRATE_RAID_BLUE_GEARMATS_NAME,Blue Gear Raid Orb
 ID_GACHA_CRATE_RAID_BLUE_GEARMATS_DESCRIPTION,Contains blue gear and blue gear materials
 ID_GACHA_CRATE_RAID_BLUE_GEARMATS_TOKEN_DESCRIPTION,Collect Blue Gear Raid Orb Fragments to earn a Blue Gear Raid Orb.
@@ -353,6 +363,38 @@ ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_2_DESCRIPTION,Contains Superior gear materia
 ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_2_NAME,Superior Gear Orb
 ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_2_TOKEN_DESCRIPTION,Collect Superior Gear Orb Fragments to earn an Superior Gear Orb
 ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_2_TOKEN_NAME,Superior Gear Orb Fragments
+ID_GACHA_CRATE_GREEN_GEARMATS_NAME,Green Gear Orb
+ID_GACHA_CRATE_GREEN_GEARMATS_DESCRIPTION,Contains only green gear materials
+ID_GACHA_CRATE_GREEN_GEARMATS_TOKEN_DESCRIPTION,Collect Green Gear Orb Fragments to earn a Green Gear Orb.
+ID_GACHA_CRATE_GREEN_GEARMATS_TOKEN_NAME,Green Gear Orb Fragments
+ID_GACHA_CRATE_GREEN_CATS_NAME,Green Catalyst Orb
+ID_GACHA_CRATE_GREEN_CATS_DESCRIPTION,Contains only green catalyst materials
+ID_GACHA_CRATE_GREEN_CATS_TOKEN_DESCRIPTION,Collect Green Catalyst Orb Fragments to earn a Green Catalyst Orb.
+ID_GACHA_CRATE_GREEN_CATS_TOKEN_NAME,Green Catalyst Orb Fragments
+ID_GACHA_CRATE_BIO_BLUE_GEARMATS_NAME,Blue Bio Gear Orb
+ID_GACHA_CRATE_BIO_BLUE_GEARMATS_DESCRIPTION,Contains only blue Bio gear materials
+ID_GACHA_CRATE_BIO_BLUE_GEARMATS_TOKEN_DESCRIPTION,Collect Blue Bio Gear Orb Fragments to earn a Blue Bio Gear Orb.
+ID_GACHA_CRATE_BIO_BLUE_GEARMATS_TOKEN_NAME,Blue Bio Gear Orb Fragments
+ID_GACHA_CRATE_MYSTIC_BLUE_GEARMATS_NAME,Blue Mystic Gear Orb
+ID_GACHA_CRATE_MYSTIC_BLUE_GEARMATS_DESCRIPTION,Contains only blue Mystic gear materials
+ID_GACHA_CRATE_MYSTIC_BLUE_GEARMATS_TOKEN_DESCRIPTION,Collect Blue Mystic Gear Orb Fragments to earn a Blue Mystic Gear Orb.
+ID_GACHA_CRATE_MYSTIC_BLUE_GEARMATS_TOKEN_NAME,Blue Mystic Gear Orb Fragments
+ID_GACHA_CRATE_MUTANT_BLUE_GEARMATS_NAME,Blue Mutant Gear Orb
+ID_GACHA_CRATE_MUTANT_BLUE_GEARMATS_DESCRIPTION,Contains only blue Mutant gear materials
+ID_GACHA_CRATE_MUTANT_BLUE_GEARMATS_TOKEN_DESCRIPTION,Collect Blue Mutant Gear Orb Fragments to earn a Blue Mutant Gear Orb.
+ID_GACHA_CRATE_MUTANT_BLUE_GEARMATS_TOKEN_NAME,Blue Mutant Gear Orb Fragments
+ID_GACHA_CRATE_SKILL_BLUE_GEARMATS_NAME,Blue Skill Gear Orb
+ID_GACHA_CRATE_SKILL_BLUE_GEARMATS_DESCRIPTION,Contains only blue Skill gear materials
+ID_GACHA_CRATE_SKILL_BLUE_GEARMATS_TOKEN_DESCRIPTION,Collect Blue Skill Gear Orb Fragments to earn a Blue Skill Gear Orb.
+ID_GACHA_CRATE_SKILL_BLUE_GEARMATS_TOKEN_NAME,Blue Skill Gear Orb Fragments
+ID_GACHA_CRATE_TECH_BLUE_GEARMATS_NAME,Blue Tech Gear Orb
+ID_GACHA_CRATE_TECH_BLUE_GEARMATS_DESCRIPTION,Contains only blue Tech gear materials
+ID_GACHA_CRATE_TECH_BLUE_GEARMATS_TOKEN_DESCRIPTION,Collect Blue Tech Gear Orb Fragments to earn a Blue Tech Gear Orb.
+ID_GACHA_CRATE_TECH_BLUE_GEARMATS_TOKEN_NAME,Blue Tech Gear Orb Fragments
+ID_GACHA_CRATE_BLUE_CATS_NAME,Blue Catalyst Orb
+ID_GACHA_CRATE_BLUE_CATS_DESCRIPTION,Contains only blue catalyst materials
+ID_GACHA_CRATE_BLUE_CATS_TOKEN_DESCRIPTION,Collect Blue Catalyst Orb Fragments to earn a Blue Catalyst Orb.
+ID_GACHA_CRATE_BLUE_CATS_TOKEN_NAME,Blue Catalyst Orb Fragments
 ID_GACHA_CRATE_BIO_PURPLE_GEARMATS_NAME,Purple Bio Gear Orb
 ID_GACHA_CRATE_BIO_PURPLE_GEARMATS_DESCRIPTION,Contains only purple Bio gear materials
 ID_GACHA_CRATE_BIO_PURPLE_GEARMATS_TOKEN_DESCRIPTION,Collect Purple Bio Gear Orb Fragments to earn a Purple Bio Gear Orb.

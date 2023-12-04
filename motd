@@ -2518,6 +2518,14 @@ ID_MOTD_DE_LIZARD_ANNOUNCE,Wreak havoc on your enemies with this Reptilian Wreck
 ID_MOTD_DE_LIZARD_ANNOUNCE2,Open the Anthropomorphic Orb to earn shards for this Reptilian Wrecking Ball!
 ID_MOTD_NA_CAMPAIGN_INCURSION_4_6_LIVE,Live: Incursion Campaign Update
 ID_MOTD_DE_CAMPAIGN_INCURSION_4_6_LIVE,Earn Red Star Promotions!
+ID_MOTD_NA_X-FORCEFROSTBITE_ANNOUNCE,LIVE: X-Force Frostbite
+ID_MOTD_DE_X-FORCEFROSTBITE_ANNOUNCE,Earn a mountain of Mutant Gear!
+ID_MOTD_NA_X-FORCEFROSTBITE_ENDING,Ending Soon: X-Force Frostbite
+ID_MOTD_DE_X-FORCEFROSTBITE_ENDING,Don't miss out on Deadpool's treasure trove!
+ID_MOTD_NA_BLIZZARDBLITZ_ANNOUNCE,Web Milestone: Blizzard Blitz
+ID_MOTD_DE_BLIZZARDBLITZ_ANNOUNCE,Win Blitz battles and earn more rewards on web!
+ID_MOTD_NA_SUBZEROWARFARE_ANNOUNCE,LIVE: Sub-Zero Warfare
+ID_MOTD_DE_SUBZEROWARFARE_ANNOUNCE,Battle in Alliance War for glorious rewards!
 ID_MOTD_NA_BATTLEPASS_SEASON10_ANNOUNCE,LIVE: Season 10 of Battle Pass
 ID_MOTD_DE_BATTLEPASS_SEASON10_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
 ID_MOTD_NA_BATTLEPASS_SEASON11_ANNOUNCE,LIVE: Season 11 of Battle Pass

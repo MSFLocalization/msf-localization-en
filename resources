@@ -210,14 +210,14 @@ ID_EVENT_CUR2_NAME,Gear Credits
 ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
 ID_EVENT_CUR3_NAME,Snowy Spider Spectacle Milestone Points
 ID_EVENT_CUR3_DESCRIPTION,These points earn you additional progress in the Snowy Spider Spectacle Milestone. Earn them in the Campaign Cold Snap Web Milestone and limited offers!
-ID_EVENT_CUR4_NAME,Conjuration Orb Fragments
-ID_EVENT_CUR4_DESCRIPTION,"Collect Fragments for orbs containing Training Modules, T2 Level 1 & 4 Ions, and progress in the Strange Divination: Mockingbird Milestone"
-ID_EVENT_CUR5_NAME,Recruiting Mockingbird Milestone Points
-ID_EVENT_CUR5_DESCRIPTION,These points earn you additional progress in the Recruiting Mockingbird Milestone.
-ID_EVENT_CUR6_NAME,Mystical Energy
-ID_EVENT_CUR6_DESCRIPTION,Spend this magical currency in the Mystical Energy Shop
-ID_EVENT_CUR7_NAME,Outlaw Stash Orb Fragment
-ID_EVENT_CUR7_DESCRIPTION,"Open Outlaw Stash Orbs for Star-Lord (Annihilation) shards, Gold and gear!"
+ID_EVENT_CUR4_NAME,X-Force Frostbite Milestone Points
+ID_EVENT_CUR4_DESCRIPTION,These points earn you additional progress in the X-Force Frostbite Milestone. Earn them in the Blizzard Blitz Daily Web Milestone and limited offers!
+ID_EVENT_CUR5_NAME,Sinister Snowstorm Milestone Points
+ID_EVENT_CUR5_DESCRIPTION,These points earn you additional progress in the Sinister Snowstorm Milestone. Earn them in the Rime Ice Raiders Web Milestone and limited offers!
+ID_EVENT_CUR6_NAME,Frosty Family Gathering Milestone Points
+ID_EVENT_CUR6_DESCRIPTION,These points earn you additional progress in the Frosty Family Gathering Milestone. Earn them in the Winter Whirlwind Web Milestone and limited offers!
+ID_EVENT_CUR7_NAME,Icy X-Travaganza Milestone Points
+ID_EVENT_CUR7_DESCRIPTION,These points earn you additional progress in the Icy X-Travaganza Milestone. Earn them in the Polar Power Web Milestone and limited offers!
 ID_EVENT_CUR8_NAME,Vindicator Orb Fragment
 ID_EVENT_CUR8_DESCRIPTION,Earn Vindicator Orb Fragments from Campaign nodes to earn progress in the Vengeful Spirits Milestone. Each orb contains New Avenger and Bifrost character shards!
 ID_EVENT_CUR9_NAME,Vengeful Spirits Milestone Points

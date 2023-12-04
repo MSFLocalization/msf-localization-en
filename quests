@@ -3690,3 +3690,57 @@ ID_QU_NA_CAMPAIGNCOLDSNAP,Campaign Cold Snap
 ID_QU_SD_CAMPAIGNCOLDSNAP,Spend Campaign Energy
 ID_QU_LD_CAMPAIGNCOLDSNAP,Spend Campaign Energy to complete this milestone that rewards Cold Hard Cash for the Frozen Festival Event Store and Snowy Spider Spectacle progress!
 ID_QU_S1_CAMPAIGNCOLDSNAP,Spend 1 Campaign Energy
+ID_QU_NA_X-FORCEFROSTBITE,X-Force Frostbite
+ID_QU_SD_X-FORCEFROSTBITE,Spend Iso-8 Campaign Energy and win Cosmic Crucible battles
+ID_QU_LD_X-FORCEFROSTBITE,Gain progress by earning Deceiver Orb Fragments earned from Arena Ranked Rewards and spending Arena Credits on special Milestone Point offers.
+ID_QU_S1_X-FORCEFROSTBITE,Spend 1 Iso-8 Campaign Energy
+ID_QU_S2_X-FORCEFROSTBITE,Win 1 Cosmic Crucible Battle
+ID_QU_S3_X-FORCEFROSTBITE,Play 1 Cosmic Crucible Battle w/ Superior Six
+ID_QU_S4_X-FORCEFROSTBITE,Play 1 Cosmic Crucible Battle w/ Superior Six at Gear Tier 16+
+ID_QU_S5_X-FORCEFROSTBITE,Play 1 Cosmic Crucible Battle w/ Superior Six at Gear Tier 17+
+ID_QU_S6_X-FORCEFROSTBITE,Play 1 Cosmic Crucible Battle w/ Superior Six at Gear Tier 18
+ID_QU_NA_BLIZZARDBLITZ,Blizzard Blitz
+ID_QU_SD_BLIZZARDBLITZ,Win Blitz Battles
+ID_QU_LD_BLIZZARDBLITZ,Win Blitz battles to earn Cold Hard Cash for the Frozen Festival Event Store and progress in the X-Force Frostbite Milestone.
+ID_QU_S1_BLIZZARDBLITZ,Win 1 Blitz Battle
+ID_QU_NA_SUBZEROWARFARE,Sub-Zero Warfare
+ID_QU_SD_SUBZEROWARFARE,Battle in War and Earn Allied Supply II Orb Fragments
+ID_QU_LD_SUBZEROWARFARE,"Collaborate with your alliances to battle in War, earn Allied Supply II Orb Fragments, and earn Alliance Credits. Allied Supply II Orb Fragments can be found in Free Claims and Offers in the store."
+ID_QU_S1_SUBZEROWARFARE,Play 1 War Battle
+ID_QU_S2_SUBZEROWARFARE,Earn 1 Allied Supply II Orb Fragment
+ID_QU_S3_SUBZEROWARFARE,Earn 1 Alliance Credit
+ID_QU_NA_SPLASH_MUTANTFRATERNITY,Mutant Fraternity
+ID_QU_SD_SPLASH_MUTANTFRATERNITY,Use Brotherhood in Blitz
+ID_QU_LM_SPLASH_MUTANTFRATERNITY,Earn points by using Brotherhood characters in Blitz Battles. Earn more points if your Brotherhood characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_MUTANTFRATERNITY,Use Brotherhood Characters in Blitz
+ID_QU_S1_SPLASH_MUTANTFRATERNITY,Win Blitz with 3-star or higher Brotherhood Character
+ID_QU_S2_SPLASH_MUTANTFRATERNITY,Win Blitz with 5-star or higher Brotherhood Character
+ID_QU_S3_SPLASH_MUTANTFRATERNITY,Win Blitz with 7-star Brotherhood Character
+ID_QU_NA_SPLASH_OVERTHERAINBOWBRIDGE,Over the Rainbow Bridge
+ID_QU_SD_SPLASH_OVERTHERAINBOWBRIDGE,Use Bifrost in Blitz
+ID_QU_LM_SPLASH_OVERTHERAINBOWBRIDGE,Earn points by using Bifrost characters in Blitz Battles. Earn more points if your Bifrost characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_OVERTHERAINBOWBRIDGE,Use Bifrost Characters in Blitz
+ID_QU_S1_SPLASH_OVERTHERAINBOWBRIDGE,Win Blitz with 3-star or higher Bifrost Character
+ID_QU_S2_SPLASH_OVERTHERAINBOWBRIDGE,Win Blitz with 5-star or higher Bifrost Character
+ID_QU_S3_SPLASH_OVERTHERAINBOWBRIDGE,Win Blitz with 7-star Bifrost Character
+ID_QU_NA_SPLASH_PESTCONTROL,Pest Control
+ID_QU_SD_SPLASH_PESTCONTROL,Use Infestation in Blitz
+ID_QU_LM_SPLASH_PESTCONTROL,Earn points by using Infestation characters in Blitz Battles. Earn more points if your Infestation characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_PESTCONTROL,Use Infestation Characters in Blitz
+ID_QU_S1_SPLASH_PESTCONTROL,Win Blitz with 3-star or higher Infestation Character
+ID_QU_S2_SPLASH_PESTCONTROL,Win Blitz with 5-star or higher Infestation Character
+ID_QU_S3_SPLASH_PESTCONTROL,Win Blitz with 7-star Infestation Character
+ID_QU_NA_SPLASH_AROUNDTHEGLOBE,Around the Globe
+ID_QU_SD_SPLASH_AROUNDTHEGLOBE,Use Global in Blitz
+ID_QU_LM_SPLASH_AROUNDTHEGLOBE,Earn points by using Global characters in Blitz Battles. Earn more points if your Global characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_AROUNDTHEGLOBE,Use Global Characters in Blitz
+ID_QU_S1_SPLASH_AROUNDTHEGLOBE,Win Blitz with 3-star or higher Global Character
+ID_QU_S2_SPLASH_AROUNDTHEGLOBE,Win Blitz with 5-star or higher Global Character
+ID_QU_S3_SPLASH_AROUNDTHEGLOBE,Win Blitz with 7-star Global Character
+ID_QU_NA_SPLASH_MUTANTMARVELS,Mutant Marvels
+ID_QU_SD_SPLASH_MUTANTMARVELS,Use Uncanny X-Men in Blitz
+ID_QU_LM_SPLASH_MUTANTMARVELS,Earn points by using Uncanny X-Men characters in Blitz Battles. Earn more points if your Uncanny X-Men characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_MUTANTMARVELS,Use Uncanny X-Men Characters in Blitz
+ID_QU_S1_SPLASH_MUTANTMARVELS,Win Blitz with 3-star or higher Uncanny X-Men Character
+ID_QU_S2_SPLASH_MUTANTMARVELS,Win Blitz with 5-star or higher Uncanny X-Men Character
+ID_QU_S3_SPLASH_MUTANTMARVELS,Win Blitz with 7-star Uncanny X-Men Character
