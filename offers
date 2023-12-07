@@ -5124,6 +5124,14 @@ ID_OF_NA_XFORCEFROSTBITE_DAILY_POINTS,X-Force Frostbite: Daily Points
 ID_OF_NA_XFORCEFROSTBITE_DAILY_INTERSTITIAL,X-Force Frostbite: Mutant Cache
 ID_OF_NA_XFORCEFROSTBITEFREE_CLAIM,X-Force Frostbite: Free Claim
 ID_OF_NA_XFORCEFROSTBITE_SUPERIOR_SIX,X-Force Frostbite: Superior Special
+ID_OF_NA_XFORCEFROSTBITE_DAILY_BLITZ,X-Force Frostbite: Daily Blitz
+ID_OF_NA_XFORCEFROSTBITE_SKILL_GEAR,X-Force Frostbite: Superior Skill
+ID_OF_NA_XFORCEFROSTBITE_TECH_GEAR,X-Force Frostbite: Superior Tech
+ID_OF_NA_XFORCEFROSTBITE_BIO_GEAR,X-Force Frostbite: Superior Bio
+ID_OF_DE_XFORCEFROSTBITE_DAILY_BLITZ,Tackle the <color=#fff568>Blizzard Blitz Web Milestoine</color> with this daily resource drop!
+ID_OF_DE_XFORCEFROSTBITE_SKILL_GEAR,Crush the Crucible and empower the <color=#fff568>Superior Six</color> with this special Augmented Skill Gear supply!
+ID_OF_DE_XFORCEFROSTBITE_TECH_GEAR,Crush the Crucible and empower the <color=#fff568>Superior Six</color> with this special Augmented Tech Gear supply!
+ID_OF_DE_XFORCEFROSTBITE_BIO_GEAR,Crush the Crucible and empower the <color=#fff568>Superior Six</color> with this special Augmented Bio Gear supply!
 ID_OF_DE_XFORCEFROSTBITE_MEGA_STARTER,Speed through the <color=#fff568>X-Force Frostbite</color> Milestone and get a mountain of <color=#fff568>Mutant Gear</color> and <color=#fff568>Deadpool shards and Red Stars</color>!
 ID_OF_DE_XFORCEFROSTBITE_STARTER,Speed through the <color=#fff568>X-Force Frostbite</color> Milestone and get a mountain of <color=#fff568>Mutant Gear</color> and <color=#fff568>Deadpool shards and Red Stars</color>!
 ID_OF_DE_XFORCEFROSTBITE_MEGA_CATCHUP,Climb the final steps of the <color=#fff568>X-Force Frostbite</color> Milestone and get all the <color=#fff568>Mutant Gear</color> Deadpool's been hoarding before it's too late!

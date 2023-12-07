@@ -3691,18 +3691,22 @@ ID_QU_SD_CAMPAIGNCOLDSNAP,Spend Campaign Energy
 ID_QU_LD_CAMPAIGNCOLDSNAP,Spend Campaign Energy to complete this milestone that rewards Cold Hard Cash for the Frozen Festival Event Store and Snowy Spider Spectacle progress!
 ID_QU_S1_CAMPAIGNCOLDSNAP,Spend 1 Campaign Energy
 ID_QU_NA_X-FORCEFROSTBITE,X-Force Frostbite
-ID_QU_SD_X-FORCEFROSTBITE,Spend Iso-8 Campaign Energy and win Cosmic Crucible battles
-ID_QU_LD_X-FORCEFROSTBITE,Gain progress by earning Deceiver Orb Fragments earned from Arena Ranked Rewards and spending Arena Credits on special Milestone Point offers.
+ID_QU_SD_X-FORCEFROSTBITE,Spend Iso-8 Campaign Energy and play Cosmic Crucible battles
+ID_QU_LD_X-FORCEFROSTBITE,Gain progress by spending Iso-8 Campaign Energy and playing Cosmic Crucible battles.
 ID_QU_S1_X-FORCEFROSTBITE,Spend 1 Iso-8 Campaign Energy
-ID_QU_S2_X-FORCEFROSTBITE,Win 1 Cosmic Crucible Battle
+ID_QU_S2_X-FORCEFROSTBITE,Play 1 Cosmic Crucible Battle
 ID_QU_S3_X-FORCEFROSTBITE,Play 1 Cosmic Crucible Battle w/ Superior Six
 ID_QU_S4_X-FORCEFROSTBITE,Play 1 Cosmic Crucible Battle w/ Superior Six at Gear Tier 16+
-ID_QU_S5_X-FORCEFROSTBITE,Play 1 Cosmic Crucible Battle w/ Superior Six at Gear Tier 17+
-ID_QU_S6_X-FORCEFROSTBITE,Play 1 Cosmic Crucible Battle w/ Superior Six at Gear Tier 18
+ID_QU_S5_X-FORCEFROSTBITE,Play 1 Cosmic Crucible Battle w/ Kraven the Hunter at Gear Tier 17+
+ID_QU_S6_X-FORCEFROSTBITE,Play 1 Cosmic Crucible Battle w/ Kraven the Hunter at Gear Tier 18
+ID_QU_S7_X-FORCEFROSTBITE,Play 1 Cosmic Crucible Battle w/ Spider-Slayer at Gear Tier 17+
+ID_QU_S8_X-FORCEFROSTBITE,Play 1 Cosmic Crucible Battle w/ Spider-Slayer at Gear Tier 18
+ID_QU_S9_X-FORCEFROSTBITE,Play 1 Cosmic Crucible Battle w/ Lizard at Gear Tier 17+
+ID_QU_S10_X-FORCEFROSTBITE,Play 1 Cosmic Crucible Battle w/ Lizard at Gear Tier 18
 ID_QU_NA_BLIZZARDBLITZ,Blizzard Blitz
-ID_QU_SD_BLIZZARDBLITZ,Win Blitz Battles
-ID_QU_LD_BLIZZARDBLITZ,Win Blitz battles to earn Cold Hard Cash for the Frozen Festival Event Store and progress in the X-Force Frostbite Milestone.
-ID_QU_S1_BLIZZARDBLITZ,Win 1 Blitz Battle
+ID_QU_SD_BLIZZARDBLITZ,Earn Blitz Credits
+ID_QU_LD_BLIZZARDBLITZ,Earn Blitz credits and get rewarded with Cold Hard Cash for the Frozen Festival Event Store and progress in the X-Force Frostbite Milestone.
+ID_QU_S1_BLIZZARDBLITZ,Earn 1 Blitz Credit
 ID_QU_NA_SUBZEROWARFARE,Sub-Zero Warfare
 ID_QU_SD_SUBZEROWARFARE,Battle in War and Earn Allied Supply II Orb Fragments
 ID_QU_LD_SUBZEROWARFARE,"Collaborate with your alliances to battle in War, earn Allied Supply II Orb Fragments, and earn Alliance Credits. Allied Supply II Orb Fragments can be found in Free Claims and Offers in the store."
