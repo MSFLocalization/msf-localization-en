@@ -48,6 +48,7 @@ ID_ME_NA_DARKDIMENSION_ANNOUNCEMENT,Dark Dimension is Here
 ID_ME_DE_DARKDIMENSION_ANNOUNCEMENT,This is your final warning
 ID_ME_BO_DARKDIMENSION_ANNOUNCEMENT,"Commander,\n\n Your demise is upon you and its form is the Dark Dimension. Enter the Darkness is the preliminary challenge. Fear the Darkness is the challenge to end all challenges\n\n Only the most qualified may embark on this journey:\n - Enter the Darkness requires a 6 star squad\n - Fear the Darkness requires Gear Tier 13\n - YOU will require determination\n\n Inside the Dark Dimension, your squad revives once a day, and the damage to your enemies is persistent. A king's ransom in Orange Gear materials will be your reward. Completing Fear the Darkness will win you a powerful new ally: Ultron.\n If you're unsure if you should enter the Dark Dimension, don't. Turn back. For those that choose to enter...\n\n Godspeed, Commander"
 ID_ME_NA_GENERIC_FOUNTAIN_UPDATE,Availability Update
+ID_ME_DE_GENERIC_FOUNTAIN_UPDATE,Availability Update
 ID_ME_NA_GENERIC_GIFT,Just for You
 ID_ME_DE_GENERIC_GIFT,A Free Gift!
 ID_ME_BO_GENERIC_GIFT,"Commander,\n\nThank you for playing MARVEL Strike Force! Here is a gift to show our appreciation for your passion and support."
@@ -7874,3 +7875,24 @@ ID_ME_BO_BATTLEPASS_SEASON11_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle pass:
 ID_ME_NA_BATTLEPASS_SEASON11_ENDING,Season 11 Ending Soon
 ID_ME_DE_BATTLEPASS_SEASON11_ENDING,Battle Pass: 2 more days!
 ID_ME_BO_BATTLEPASS_SEASON11_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Vahl, Beta Ray Bill, Loki (Teen) and Sylvie shards and Teal Gear before the Season ends!"
+ID_ME_NA_NEW_CHARACTER_POLL_ANNOUNCE2,New Character Poll
+ID_ME_DE_NEW_CHARACTER_POLL_ANNOUNCE2,Vote Now on the Web!
+ID_ME_BO_NEW_CHARACTER_POLL_ANNOUNCE2,"You decide the Mercs for Money!\n\nFor a limited-time only, visit <color=#fff568>MarvelStrikeForce.com</color> to vote for one of three Deadpool characters that you would like to see join an upcoming team as a new character.\n\nTo vote, log into MarvelStrikeForce.com with your Scopely Account and access the New Character Poll from the Home page.\n\nFor your participation in this major decision, you will also receive <color=#fff568>100 Power Cores</color> and <color=#fff568>100 Campaign Energy</color>!\n\nChoose wisely, Commander."
+ID_ME_NA_REWARDCOMP_DD1,Dark Dimension I Reward Update
+ID_ME_NA_REWARDCOMP_DD2,Dark Dimension II Reward Update
+ID_ME_NA_REWARDCOMP_DD3,Dark Dimension III Reward Update
+ID_ME_DE_REWARDCOMP_DD_FIRST,First Run Rewards
+ID_ME_DE_REWARDCOMP_DD_TIMED,Timed Run Rewards
+ID_ME_BO_REWARDCOMP_DD1,"Commander,\n\nWith the upcoming update, <color=#fff568>Kestrel</color> character shards and <color=#fff568>Red Stars</color> for <color=#fff568>Kestrel</color> will be added to Dark Dimension I rewards.\n\nSince you have already completed this challenge, here are the additional rewards that you would have earned.\n\nThank you for your dedication to MARVEL Strike Force!"
+ID_ME_BO_REWARDCOMP_DD2,"Commander,\n\nWith the upcoming update, <color=#fff568>Red Stars</color> for <color=#fff568>Ultron</color> will be added to Dark Dimension II rewards.\n\nSince you have already completed this challenge, here are the additional rewards that you would have earned.\n\nThank you for your dedication to MARVEL Strike Force!"
+ID_ME_BO_REWARDCOMP_DD3,"Commander,\n\nWith the upcoming update, <color=#fff568>Ultimus</color> character shards and <color=#fff568>Red Stars</color> for <color=#fff568>Ultimus</color> will be added to Dark Dimension III rewards.\n\nSince you have already completed this challenge, here are the additional rewards that you would have earned.\n\nThank you for your dedication to MARVEL Strike Force!"
+ID_ME_NA_SINISTERSNOWSTORM_TEASER,Coming Soon: Sinister Snowstorm
+ID_ME_NA_SINISTERSNOWSTORM_ANNOUNCE,LIVE: Sinister Snowstorm
+ID_ME_DE_SINISTERSNOWSTORM_CORE,Recruit Lizard!
+ID_ME_BO_SINISTERSNOWSTORM_CORE,"Commander,\n\n<color=#fff568>Sinister Snowstorm Milestone</color>\nGain progress in this <color=#fff568>8-day</color> event by earning Supremely Sinister Orb Fragments from Arena Ranked Rewards, completing the Rime Ice Raiders Web Milestone, spending Arena Credits on special milestone point offers, and daily Free Claims. Earn superior rewards including <color=#fff568>Lizard shards, Diamond Dawn Orb fragments, Teal Bio gear, and more shards for the Sinister Six</color>. You'll also earn points towards the month-long Frozen Festival milestone by collecting Spectacular Snowflakes and the Superior Sweater.\n\n<color=#fff568>Rime Ice Raiders Web Milestone</color>\nPlay Raid Battles to earn Cold Hard Cash for the Frozen Festival Event Store and progress in the Sinister Snowstorm Milestone.\n\nGood luck, Commander!"
+ID_ME_NA_SINISTERSNOWSTORM_ENDING,ENDING: Sinister Snowstorm
+ID_ME_DE_SINISTERSNOWSTORM_ENDING,Don't miss out on unlocking Lizard!
+ID_ME_BO_SINISTERSNOWSTORM_ENDING,"Commander,\n\nSinister Snowstorm <color=#fff568>ends soon</color>. Continue earning Lizard Shards and Teal Bio Gear!\n\nGood luck, Commander!"
+ID_ME_NA_ICECOLDCRUCIBLE_ANNOUNCE,Live: Ice Cold Crucible
+ID_ME_DE_ICECOLDCRUCIBLE_ANNOUNCE,Battle in Cosmic Crucible for golden rewards!
+ID_ME_BO_ICECOLDCRUCIBLE_ANNOUNCE,"Commander,\n\nCollaborate with your alliance and battle in Cosmic Crucible in this 3-day milestone to earn Gold and Frozen Festival progress.\n\nGood luck, Commander!"

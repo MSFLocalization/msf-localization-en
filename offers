@@ -5128,10 +5128,6 @@ ID_OF_NA_XFORCEFROSTBITE_DAILY_BLITZ,X-Force Frostbite: Daily Blitz
 ID_OF_NA_XFORCEFROSTBITE_SKILL_GEAR,X-Force Frostbite: Superior Skill
 ID_OF_NA_XFORCEFROSTBITE_TECH_GEAR,X-Force Frostbite: Superior Tech
 ID_OF_NA_XFORCEFROSTBITE_BIO_GEAR,X-Force Frostbite: Superior Bio
-ID_OF_DE_XFORCEFROSTBITE_DAILY_BLITZ,Tackle the <color=#fff568>Blizzard Blitz Web Milestoine</color> with this daily resource drop!
-ID_OF_DE_XFORCEFROSTBITE_SKILL_GEAR,Crush the Crucible and empower the <color=#fff568>Superior Six</color> with this special Augmented Skill Gear supply!
-ID_OF_DE_XFORCEFROSTBITE_TECH_GEAR,Crush the Crucible and empower the <color=#fff568>Superior Six</color> with this special Augmented Tech Gear supply!
-ID_OF_DE_XFORCEFROSTBITE_BIO_GEAR,Crush the Crucible and empower the <color=#fff568>Superior Six</color> with this special Augmented Bio Gear supply!
 ID_OF_DE_XFORCEFROSTBITE_MEGA_STARTER,Speed through the <color=#fff568>X-Force Frostbite</color> Milestone and get a mountain of <color=#fff568>Mutant Gear</color> and <color=#fff568>Deadpool shards and Red Stars</color>!
 ID_OF_DE_XFORCEFROSTBITE_STARTER,Speed through the <color=#fff568>X-Force Frostbite</color> Milestone and get a mountain of <color=#fff568>Mutant Gear</color> and <color=#fff568>Deadpool shards and Red Stars</color>!
 ID_OF_DE_XFORCEFROSTBITE_MEGA_CATCHUP,Climb the final steps of the <color=#fff568>X-Force Frostbite</color> Milestone and get all the <color=#fff568>Mutant Gear</color> Deadpool's been hoarding before it's too late!
@@ -5141,6 +5137,10 @@ ID_OF_DE_XFORCEFROSTBITE_DAILY_POINTS,Make consistent <color=#fff568>X-Force Fro
 ID_OF_DE_XFORCEFROSTBITE_DAILY_INTERSTITIAL,Get boosted <color=#fff568>X-Force Frostbite</color> progress with this daily trove of resources!
 ID_OF_DE_XFORCEFROSTBITEFREE_CLAIM,Come back daily for more <color=#fff568>X-Force Frostbite</color> progress!
 ID_OF_DE_XFORCEFROSTBITE_SUPERIOR_SIX,Crush the Crucible with this squad of crucial comic book combatants! Enlist the aid of the <color=#fff568>Superior Six</color> for Cosmic Crucible conquest and make more <color=#fff568>X-Force Frostbite</color> progress!
+ID_OF_DE_XFORCEFROSTBITE_DAILY_BLITZ,Tackle the <color=#fff568>Blizzard Blitz Web Milestoine</color> with this daily resource drop!
+ID_OF_DE_XFORCEFROSTBITE_SKILL_GEAR,Crush the Crucible and empower the <color=#fff568>Superior Six</color> with this special Augmented Skill Gear supply!
+ID_OF_DE_XFORCEFROSTBITE_TECH_GEAR,Crush the Crucible and empower the <color=#fff568>Superior Six</color> with this special Augmented Tech Gear supply!
+ID_OF_DE_XFORCEFROSTBITE_BIO_GEAR,Crush the Crucible and empower the <color=#fff568>Superior Six</color> with this special Augmented Bio Gear supply!
 ID_OF_NA_SUBZEROWARFARE_FREE,Sub-Zero Warfare: Daily Free Claim
 ID_OF_NA_SUBZEROWARFARE_INTERSTITIAL,Sub-Zero Warfare: Web Special
 ID_OF_NA_SUBZEROWARFARE_WAR,Sub-Zero Warfare: Military Upgrades
@@ -5159,3 +5159,34 @@ ID_OF_DE_SUP6_SHOWCASE_FINALE_RANK,"Rank up your <color=#fff568>Superior Six</co
 ID_OF_DE_SUP6_SHOWCASE_FINALE_GEAR,"Gear up your <color=#fff568>Superior Six</color> team to access their Epic Event's Bonus Difficulty! From there, earn <color=#fff568>Green Goblin (Classic)'s Ultimate Awakened Ability Materials, 132 Gear Tier 18 Mini-Uniques, and more</color>!"
 ID_OF_DE_SUP6_SHOWCASE_FINALE_GT15,"Take your <color=#fff568>Superior Six</color> team to Gear Tier 15 to access their Epic Event's Bonus Difficulty! Earn <color=#fff568>Green Goblin (Classic)'s Ultimate Awakened Ability Materials, 132 Gear Tier 18 Mini-Uniques, and more</color>!"
 ID_OF_DE_SUP6_SHOWCASE_FINALE_6YS,"Take your <color=#fff568>Superior Six</color> team to 5 Yellow Stars to access their Epic Event's Bonus Difficulty! From there, earn <color=#fff568>Green Goblin (Classic)'s Awakened Ability Materials, 132 Gear Tier 18 Mini-Uniques</color>, and more!"
+ID_OF_NA_GREENGOBLINGLIDERORB_BUNDLE,Green Goblin (Classic) Orb Bundle
+ID_OF_NA_GREENGOBLINGLIDERORB_7PAK,Green Goblin (Classic) Orb Party Pack
+ID_OF_NA_GREENGOBLINGLIDERORB_SINGLE,Green Goblin (Classic) Orb
+ID_OF_DE_GREENGOBLINGLIDERORB_SINGLE,"Save the galaxy and <color=#fff568>{var1}%</color> with this offer. Each Orb has a chance to grant <color=#fff568>100 shards</color> of the Gliding Villian himself, <color=#fff568>Green Goblin (Classic)!</color>"
+ID_OF_DE_GREENGOBLINGLIDERORB_BUNDLES,"Get Green Goblin (Classic) to the next Star Level with this bundle! Get <color=#fff568>{var1}%</color> off when you purchase these <color=#fff568>{var2}</color> Green Goblin (Classic) Orbs! Each Orb has a chance to grant <color=#fff568>100 shards</color> of the Gliding Villian himself, <color=#fff568>Green Goblin (Classic)!</color>"
+ID_OF_NA_ICECOLDCRUCIBLE_EVENTORB,Ice Cold Crucible: Allied Supply II Orbs
+ID_OF_NA_ICECOLDCRUCIBLE_MEGA,Ice Cold Crucible: Mega Bundle
+ID_OF_NA_ICECOLDCRUCIBLE_INTERSTITIAL,Ice Cold Crucible: Refreshing Bundle
+ID_OF_NA_ICECOLDCRUCIBLE_FREECLAIM,Ice Cold Crucible: Free Claim
+ID_OF_DE_ICECOLDCRUCIBLE_EVENTORB,Get Allied Supply II Orbs for <color=#fff568>Ice Cold Crucible</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs featuring guaranteed T2 L5 Ions!
+ID_OF_DE_ICECOLDCRUCIBLE_MEGA,Rally your allies and smash through the <color=#fff568>Ice Cold Crucible</color> Milestone for Gold and Gold Promotion Credits!
+ID_OF_DE_ICECOLDCRUCIBLE_INTERSTITIAL,Stock up on Allied Supply II Orbs for extra progress in the <color=#fff568>Ice Cold Crucible Milestone</color>!
+ID_OF_DE_ICECOLDCRUCIBLE_FREECLAIM,Come back daily for more <color=#fff568>Ice Cold Crucible</color> progress!
+ID_OF_NA_SINISTERSNOWSTORM_MEGA_STARTER,Sinister Snowstorm: Mega Starter
+ID_OF_NA_SINISTERSNOWSTORM_STARTER,Sinister Snowstorm: Starter
+ID_OF_NA_SINISTERSNOWSTORM_MEGA_CATCHUP,Sinister Snowstorm: Mega Catch-Up
+ID_OF_NA_SINISTERSNOWSTORM_CATCHUP,Sinister Snowstorm: Catch-Up
+ID_OF_NA_SINISTERSNOWSTORM_DAILY_ORB,Sinister Snowstorm: Supremely Sinister Orbs
+ID_OF_NA_SINISTERSNOWSTORM_WEB_SPECIAL,Sinister Snowstorm: Web Special
+ID_OF_NA_SINISTERSNOWSTORM_DAILY_INTERSTITIAL,Sinister Snowstorm: Reptilian Cache
+ID_OF_NA_SINISTERSNOWSTORMFREE_CLAIM,Sinister Snowstorm: Free Claim
+ID_OF_NA_SINISTERSNOWSTORM_ARENAPOINTS,Sinister Snowstorm: Arena Bonus
+ID_OF_DE_SINISTERSNOWSTORM_MEGA_STARTER,Get ahead in the <color=#fff568>Sinister Snowstorm Milestone</color> and blast through for Diamond Dawn Orb Fragments and Gear Tier 18 Mini-Uniques!
+ID_OF_DE_SINISTERSNOWSTORM_STARTER,Get a head start in the <color=#fff568>Sinister Snowstorm Milestone</color> and speed through for Diamond Dawn Orb Fragments and Gear Tier 18 Mini-Uniques!
+ID_OF_DE_SINISTERSNOWSTORM_MEGA_CATCHUP,Finish strong in the <color=#fff568>Sinister Snowstorm Milestone</color> and get your hands on Teal Bio gear and Diamond Dawn Orb Fragments!
+ID_OF_DE_SINISTERSNOWSTORM_CATCHUP,Complete the <color=#fff568>Sinister Snowstorm Milestone</color> for Teal Bio gear and Diamond Dawn Orb Fragments!
+ID_OF_DE_SINISTERSNOWSTORM_DAILY_ORB,Get bonus Supremely Sinister Orbs for Lizard shards and <color=#fff568>Sinister Snowstorm Milestone</color> progress!
+ID_OF_DE_SINISTERSNOWSTORM_WEB_SPECIAL,Make double progress in <color=#fff568>Sinister Snowstorm</color> and the <color=#fff568>Winter Solstice Gala</color> with this sinister bundle!
+ID_OF_DE_SINISTERSNOWSTORM_DAILY_INTERSTITIAL,Stock up on Supremely Sinister Orbs and Event Points for extra progress in the <color=#fff568>Sinister Snowstorm Milestone</color>!
+ID_OF_DE_SINISTERSNOWSTORMFREE_CLAIM,Come back daily for more <color=#fff568>Sinister Snowstorm</color> progress!
+ID_OF_DE_SINISTERSNOWSTORM_ARENAPOINTS,Make more daily progress in <color=#fff568>Sinister Snowstorm</color> with this special offer!

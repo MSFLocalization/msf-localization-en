@@ -8775,3 +8775,7 @@ ID_GACHA_CRATE_FROZENSHARD_NAME,Frozen Shard Orb
 ID_GACHA_CRATE_FROZENSHARD_DESCRIPTION,"Contains character shards for Spider-Slayer, Sinister Six, and more"
 ID_GACHA_CRATE_FROZENSHARD_TOKEN_NAME,Frozen Shard Orb Fragments
 ID_GACHA_CRATE_FROZENSHARD_TOKEN_DESCRIPTION,Open Frozen Orbs for progress in the Snowy Spider Spectacle Milestone
+ID_GACHA_CRATE_SUPREMELYSINISTER_NAME,Supremely Sinister Orb
+ID_GACHA_CRATE_SUPREMELYSINISTER_DESCRIPTION,Earn Lizard Character Shards
+ID_GACHA_CRATE_SUPREMELYSINISTER_TOKEN_NAME,Supremely Sinister Orb Fragment
+ID_GACHA_CRATE_SUPREMELYSINISTER_TOKEN_DESCRIPTION,"Open Supremely Sinister Orbs to earn character shards of Lizard, Sinister Six, and more"
