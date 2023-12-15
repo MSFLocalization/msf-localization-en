@@ -375,7 +375,10 @@ ID_RAIDS_INCURSION_COMBAT_MODS_NAME_PLURAL,Combat Mods
 ID_MISSION_RAID_INCURSION_BLANK_DESC,
 ID_RAIDS_INCURSION_01_NAME,Incursion Raid I
 ID_RAIDS_INCURSIONII_DETAILS,Battle interdimensional foes and seek the mastermind behind the Incursion!\n\nRecommendations:\n- Squad Lvl 95+\n- Gear Tier 16+\n- Ability Lvl 7\n- Red Stars 6+\n- Iso-8 Class T2 Level 3+
+ID_RAIDS_INCURSION_02_FS_DETAILS,Battle interdimensional foes and seek the mastermind behind the Incursion!\n\nRecommendations:\n- Squad Lvl 95+\n- Gear Tier 16+\n- Ability Lvl 7\n- Red Stars 6+\n- Iso-8 Class T2 Level 3+
+ID_RAIDS_INCURSION_02_DETAILS,Battle interdimensional foes and seek the mastermind behind the Incursion!\n\nRecommendations:\n- Squad Lvl 95+\n- Gear Tier 18+\n- Ability Lvl 7\n- Red Stars 6+\n- Iso-8 Class T2 Level 4+
 ID_RAIDS_INCURSION_02_NAME,Incursion Raid II
+ID_RAIDS_INCURSION_02_FS_NAME,Incursion Raid II - First Strike
 ID_RAIDS_NON_FATAL_ERROR,An error occurred
 ID_RAID_AUTO_LAUNCH_EDIT_TIME,EDIT TIME
 ID_RAID_AUTO_LAUNCH_VIEW_TIME,VIEW SCHEDULE
