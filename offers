@@ -5171,6 +5171,120 @@ ID_OF_NA_NIGHTCRAWLER_FCO_SHARDS,Circus Swashbuckler
 ID_OF_NA_NIGHTCRAWLER_FCO_LASTCHANCE,Last Chance: Nightcrawler
 ID_OF_DE_NIGHTCRAWLER_FCO_OFFER_1,"BAMF! Nightcrawler teleports in to apply Speed Up and Evade to <color=#fff568>X-Men</color>, give Speed Bar to <color=#fff568>X-Treme X-Men</color>, and prolong positive effects for all allies!"
 ID_OF_DE_NIGHTCRAWLER_FCO_LASTCHANCE,"Last Chance to recruit Nightcrawler! Apply Speed Up and Evade to <color=#fff568>X-Men</color>, give Speed Bar to <color=#fff568>X-Treme X-Men</color>, and prolong positive effects for all allies!"
+ID_OF_NA_WINTER23_GOLDGORB,Abundant Wealth
+ID_OF_NA_WINTER23_GOLDROBBIE,Thaw and Prosper
+ID_OF_NA_WINTER23_IRONHEARTTRAIN,Train with Ironheart
+ID_OF_NA_WINTER23_ISO8IONS,Winter Ion Bundle
+ID_OF_NA_WINTER23_ELITEPROMO,Seeing Stars
+ID_OF_NA_WINTER23_TEALCATS,Chilling Catalysts
+ID_OF_NA_WINTER23_GOLDIMIWTECH,Billionaire Wealth and Tech
+ID_OF_NA_WINTER23_TRAIN,Snowy Training!
+ID_OF_NA_WINTER23_INVADERTEAM,Seasonal Invasion!
+ID_OF_NA_WINTER23_TEALSKILL,Skillful Armory
+ID_OF_NA_WINTER23_HARDLIGHT7RED,Radiant Guardian
+ID_OF_NA_WINTER23_GOLDIONS,Glittering Isotopes
+ID_OF_NA_WINTER23_MYSTICMINIS,Mystical Armory
+ID_OF_NA_WINTER23_TRAININGISOION,Frozen Training Drill
+ID_OF_NA_WINTER23_COSMOTHORELITE,Protectors of Knowhere
+ID_OF_NA_WINTER23_PHOTONTRAINELITE,Cosmic Bootcamp
+ID_OF_NA_WINTER23_GOLDTRAINGORB,Growth and Prosperity
+ID_OF_NA_WINTER23_BIFROSTTEALUNIQUES7VAHL,Unique Bifrost
+ID_OF_NA_WINTER23_DPCMOONKANG,Become a Master
+ID_OF_NA_WINTER23_STARLORDCATS,Commanding Catalysts
+ID_OF_NA_WINTER23_HARDLIGHTBUCKY,Season of Shards
+ID_OF_NA_WINTER23_ABMGOLD,Immense Ability
+ID_OF_NA_WINTER23_NOVAGOLDIONS,Nova's Frosty Special!
+ID_OF_NA_WINTER23_KNOWUNIQUEABM,Greetings from Knowhere!
+ID_OF_NA_WINTER23_TRAINGORB,Affluent Development
+ID_OF_NA_WINTER23_ROBBIE7RED,Fight the Frost
+ID_OF_NA_WINTER23_CHILLINGORBS,Orbs Galore!
+ID_OF_NA_WINTER23_TITANIAABSORBTRAIN,Train like a Master!
+ID_OF_NA_WINTER23_GOLDBIOT18MINIIONS,Bio Bundle!
+ID_OF_NA_WINTER23_REBIRTHT18MINIS,Blast From The Past!
+ID_OF_NA_WINTER23_KORG7REDIONS,Cosmic Protector
+ID_OF_NA_WINTER23_TRAINBRBMYSTIC,Growth of the Asgardian Cyborg
+ID_OF_NA_WINTER23_TIGRAGEAR,Tigra's Armory!
+ID_OF_NA_WINTER23_REDSTARBUNDLE,Season of Stars
+ID_OF_NA_WINTER23_PHOTONNOIRTRAIN,Seasonal Shards
+ID_OF_NA_WINTER23_GOLDORBSIONS,Seasonal Growth and Prosperity
+ID_OF_NA_WINTER23_TECHT18T17T16MINIS,Time to Be Technical!
+ID_OF_NA_WINTER23_TRAINGEAR,Wealth and Protection
+ID_OF_NA_WINTER23_GOLDIHDARKDIAMOND,Holiday Cache
+ID_OF_NA_WINTER23_TEALCATGEAR,Seasonal Catalysts
+ID_OF_NA_WINTER23_IMIWDARKHAWKELITETRAIN,Cyber Raiders!
+ID_OF_NA_WINTER23_HARDLIGHTGORB,Shining Guardian
+ID_OF_NA_WINTER23_GOLDA18ION,Gold and Gear Galore!
+ID_OF_NA_WINTER23_TRAINDARKDIAMOND,Promotion Bootcamp
+ID_OF_NA_WINTER23_LEGENDORBS,Season of Legends
+ID_OF_NA_WINTER23_GOLDDARKHAWKIHIONS,Armory of the Android
+ID_OF_NA_WINTER23_A18A17GEAR,Armory Extravaganza
+ID_OF_NA_WINTER23_ROBBIEIONS,Icy Ion Bundle!
+ID_OF_NA_WINTER23_TRAINING,Training Drill!
+ID_OF_NA_WINTER23_ELITECREDITGORB,Seeing Stars
+ID_OF_NA_WINTER23_TEALCAT,Holiday Season of Catalysts
+ID_OF_NA_WINTER23_MUTANTGEAR,Mutant Mini Madness
+ID_OF_NA_WINTER23_GOLDDDCPROMO,Fill your Bag to the Brim!
+ID_OF_NA_WINTER23_MOCKRONINELITE,Holiday Helpers
+ID_OF_NA_WINTER23_ABMAT2K,Holiday Ability Bundle
+ID_OF_NA_WINTER23_PHOTON7RED,Cosmic Care Package
+ID_OF_NA_WINTER23_GOLDNRG,Energize the Season
+ID_OF_DE_WINTER23_GOLDGORB,A bounty of <color=#ffda21>Gold</color> to level up your favorite characters to their max! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_GOLDROBBIE,Power up <color=#ffda21>Ghost Rider (Robbie)</color> and dominate the Arena with this seasonal special! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_IRONHEARTTRAIN,Bolster your P.E.G.A.S.U.S. Raid team with this rare deal on <color=#ffda21>Ironheart (MKII)</color> and <color=#ffda21>Training Modules</color>! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_ISO8IONS,Claim this mega deal on <color=#fff568>T2 Ions</color> and get your top Raid Teams up to the <color=#ffda21>Incursion Raid II</color> Iso-8 requirements! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_ELITEPROMO,Raise the Red Star ranks of your roster with this boost of Gold Promotion Credits! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_TEALCATS,Give the gift of <color=#fff568>Teal Gear Catalysts</color> to yourself with this exceptional deal! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_GOLDIMIWTECH,Use the wealth of Iron Man (Infinity War) to power up your roster! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_TRAIN,Proper training and planning are needed to be successful on the battlefield! Pick up these <color=#ffda21>Training Modules</color> to prepare your roster for the next challenge. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_INVADERTEAM,"Rank up Captain America (WWII), Union Jack, Iron Fist (WWII), and Bucky Barnes in this Season of Shards! <color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_WINTER23_TEALSKILL,Power up your <color=#ffda21>Skill</color> characters with this special seasonal offer! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_HARDLIGHT7RED,Give a boost of power to <color=#ffda21>Ms. Marvel (Hard Light)</color> and help strengthen your Secret Defenders for the Arena! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_GOLDIONS,Seize this mountain of <color=#ffda21>Gold</color> and boost your roster's power to help overcome any challenge! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_MYSTICMINIS,The mystics have deemed you worthy! Take your favorite Mystic characters to new Gear Tier levels with this special holiday bundle! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_TRAININGISOION,Level up your top characters with this special seasonal deal! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_COSMOTHORELITE,Cosmo and Thor (Infinity War) fetched a pile of Elite 6 Credits to help boost the Red Star ranks of your roster! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_PHOTONTRAINELITE,Power up <color=#ffda21>Photon</color> and dominate the Arena with this seasonal special! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_GOLDTRAINGORB,Reach chilling Power Levels with this special deal on <color=#ffda21>Gold</color> and <color=#ffda21>Training Materials</color>! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_BIFROSTTEALUNIQUES7VAHL,Give your <color=#ffda21>Bifrost</color> team the <color=#fff568>Teal Gear Uniques</color> they need and continue your progression in Raids!! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_DPCMOONKANG,"A mega boost of <color=#ffda21>Dark Promotion Credits</color> to help you raise the Red Star ranks of Ultron, Nova, Black Cat, Spider-Man (Big Time), Iron Man (Zombie), and more! <color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_WINTER23_STARLORDCATS,Strengthen Star-Lord (Annihilation) to power him up and take on the cosmos! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_HARDLIGHTBUCKY,Take your roster to the next level with this special seasonal deal! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_ABMGOLD,Power up your top character with this special deal on <color=#ffda21>Gold</color> and <color=#ffda21>T4 Ability Materials</color>! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_NOVAGOLDIONS,Power up <color=#ffda21>Nova</color> and flip the battlefield in your favor! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_KNOWUNIQUEABM,Give your <color=#ffda21>Knowhere</color> team the <color=#fff568>Teal Gear Uniques</color> they've been asking for! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_TRAINGORB,Freeze your enemies in their tracks with this bone-chilling offer on <color=#ffda21>Training Materials</color> and <color=#ffda21>Gold Orbs</color>! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_ROBBIE7RED,Ignite <color=#ffda21>Ghost Rider (Robbie)</color> to roast your enemies in the Arena! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_CHILLINGORBS,Don't miss out on a glorious amount of orbs to power up your roster and take on new challenges! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_TITANIAABSORBTRAIN,Take advantage of these <color=#ffda21>Training Materials</color> to upgrade your Masters of Evil and dominate in Cosmic Crucible! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_GOLDBIOT18MINIIONS,Bring your chilling power to enemies in Dark Dimension VI with this bundle of <color=#ffda21>Gold</color> and crucial <color=#fff568>Gear Tier 18 Mini-Uniques</color> to upgrade your top Bio character! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_REBIRTHT18MINIS,Give your <color=#ffda21>Rebirth</color> team the <color=#fff568>Gear Tier 18 Mini-Uniques</color> they need for Raiding! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_KORG7REDIONS,Power up Knowhere's crystalline protector and protect your allies in War! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_TRAINBRBMYSTIC,Bolster your top Mystic Raid team with this rare deal on <color=#ffda21>Training Modules</color> and <color=#ffda21>Beta Ray Bill</color> shards! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_TIGRAGEAR,"Armor up with this great Gear offer, and power up your favorite BIO characters! <color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_WINTER23_REDSTARBUNDLE,Give the gift of Red Stars to your favorite characters by promoting them to the next level! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_PHOTONNOIRTRAIN,Take your roster to the next level with this special seasonal deal! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_GOLDORBSIONS,Claim this mega deal on <color=#ffda21>Gold</color> and <color=#fff568>T2 Ions</color> and get your top Raid Teams up to the <color=#ffda21>Incursion Raid II</color> Iso-8 requirements! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_TECHT18T17T16MINIS,"Take your favorite Tech characters from Gear Tier 16 to Gear Tier 17, and one lucky character to Gear Tier 18! <color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_WINTER23_TRAINGEAR,Take your roster to the next level with this special seasonal deal! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_GOLDIHDARKDIAMOND,<color=#ffda21>Gold</color> is limitless in the digital world. Stock up now with this mega deal and push your roster's power to the next level! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_TEALCATGEAR,Share this gift of <color=#fff568>Teal Gear Catalysts</color> with your characters through this exceptional deal! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_IMIWDARKHAWKELITETRAIN,Power up your <color=#ffda21>P.E.G.A.S.U.S.</color> team with this seasonal deal and conquer the Raids! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_HARDLIGHTGORB,Power up <color=#ffda21>Ms. Marvel (Hard Light)</color> and protect your allies in the Arena! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_GOLDA18ION,Give your top characters everything they need with this seasonal mega bundle! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_TRAINDARKDIAMOND,Level up your roster to take advantage of the increased power of these Dark Diamond Credits and Dark Promotion Credits! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_LEGENDORBS,Rank up your Legendary characters with this one-time Offer and lead your top teams to victory! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_GOLDDARKHAWKIHIONS,Give your <color=#ffda21>P.E.G.A.S.U.S.</color> team the <color=#fff568>Teal Gear Uniques</color> they need to reach new heights!! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_A18A17GEAR,Increase your characters' Power and freeze your enemies in fear with this mega deal on <color=#fff568>Armory 18 Orbs</color>! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_ROBBIEIONS,<color=#ffda21>Ghost Rider (Robbie)</color> is collecting Ions for the Secret Defenders and wants your help! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_TRAINING,Grab the resources you need to run your roster through training drills and increase their level to take on new challenges! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_ELITECREDITGORB,Raise the Red Star ranks of your roster with this boost of Gold and Silver Promotion Credits. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_TEALCAT,Pick up this high value drop of Augmented Catalysts to craft powerful gear! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_MUTANTGEAR,Seize this offer for enough <color=#fff568>Gear Tier 17 & 18 Mini-Uniques</color> to upgrade any Mutant character's gear tier! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_GOLDDDCPROMO,"A bounty of <color=#ffda21>Gold</color>, <color=#ffda21>Dark Promotion Credits</color> and Gold Promotion Credits to power up your roster! <color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_WINTER23_MOCKRONINELITE,Take <color=#ffda21>Mockingbird</color> and <color=#ffda21>Ronin</color> to new heights with this limited-time deal! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_ABMAT2K,Power up your characters with this special deal on <color=#ffda21>T4 Ability Materials</color>! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_PHOTON7RED,Embrace the full power of <color=#ffda21>Photon</color> at maximum Red Stars and obliterate your enemies! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_WINTER23_GOLDNRG,Parade your wealth across the cosmos with this sudden influx of <color=#ffda21>Gold</color> and Campaign Energy! <color=#ffda21>Greater than {var1}x value</color>!
 ID_OF_NA_NIGHTCRAWLER_WEB_EXTRA_FCO_OFFER,Web Special: Nightcrawler
 ID_OF_DE_NIGHTCRAWLER_WEB_EXTRA_FCO_OFFER,"<color=#fff568>Web Special!</color> Dazzle opponents with acrobatic antics in Raids with<color=#fff568>Nightcrawler</color>leading the way! "
 ID_OF_NA_GREENGOBLINGLIDERORB_BUNDLE,Green Goblin (Classic) Orb Bundle
