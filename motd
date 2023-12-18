@@ -21,8 +21,10 @@ ID_MOTD_NA_ACHIEVEMENTS_ADDITION,More Achievements Added
 ID_MOTD_DE_ACHIEVEMENTS_ADDITION,Earn more rewards by leveling up and growing your roster!
 ID_MOTD_NA_CHALLENGES_TIER_UPDATE,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to earn more rewards
+ID_MOTD_NA_CHALLENGES_TIER_18,New Challenge Tiers have Arrived!
+ID_MOTD_DE_CHALLENGES_TIER_18,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 9:30 PM (PST) (12/7).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 11AM (PDT) (04/25).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -2516,6 +2518,16 @@ ID_MOTD_DE_LIZARD_TEASER,The Reptilian Wrecking Ball slithers in to wreak havoc!
 ID_MOTD_NA_LIZARD_ANNOUNCE,Lizard is here!
 ID_MOTD_DE_LIZARD_ANNOUNCE,Wreak havoc on your enemies with this Reptilian Wrecking Ball!
 ID_MOTD_DE_LIZARD_ANNOUNCE2,Open the Anthropomorphic Orb to earn shards for this Reptilian Wrecking Ball!
+ID_MOTD_NA_FORGE,The Creator: Now Live!
+ID_MOTD_DE_FORGE,Battle for a chance to win Forge shards
+ID_MOTD_NA_GWENOM,Grudge: Now Live!
+ID_MOTD_DE_GWENOM,Battle for a chance to win Gwenom shards
+ID_MOTD_NA_NIGHTCRAWLER,BAMF!: Now Live!
+ID_MOTD_DE_NIGHTCRAWLER,Battle for a chance to win Nightcrawler shards
+ID_MOTD_NA_SUNSPOT,Vitamin D: Now Live!
+ID_MOTD_DE_SUNSPOT,Battle for a chance to win Sunspot shards
+ID_MOTD_NA_SYMBIOTESILVERSURFER,Living Corruption: Now Live!
+ID_MOTD_DE_SYMBIOTESILVERSURFER,Battle for a chance to win Void Knight shards
 ID_MOTD_NA_CAMPAIGN_INCURSION_4_6_LIVE,Live: Incursion Campaign Update
 ID_MOTD_DE_CAMPAIGN_INCURSION_4_6_LIVE,Earn Red Star Promotions!
 ID_MOTD_NA_X-FORCEFROSTBITE_ANNOUNCE,LIVE: X-Force Frostbite
@@ -2537,6 +2549,32 @@ ID_MOTD_DE_NIGHTCRAWLER_TEASER,Dazzle opponents with acrobatic antics in Raids!
 ID_MOTD_NA_NIGHTCRAWLER_ANNOUNCE,Nightcrawler is here!
 ID_MOTD_DE_NIGHTCRAWLER_ANNOUNCE,Dazzle opponents with acrobatic antics in Raid!
 ID_MOTD_DE_NIGHTCRAWLER_ANNOUNCE2,Open the Bamf! Orb to earn shards for this Brawling Bamf!
+ID_MOTD_NA_XTXM_PREVIEW,COMING SOON: X-Tremely Sinister
+ID_MOTD_DE_XTXM_PREVIEW,Earn rewards by battling with the X-Treme X-Men!
+ID_MOTD_NA_XTXM_LIVE,LIVE: X-Tremely Sinister
+ID_MOTD_DE_XTXM_LIVE,Earn rewards by battling with the X-Treme X-Men!
+ID_MOTD_NA_XTXM_ENDING,ENDING SOON: X-Tremely Sinister!
+ID_MOTD_DE_XTXM_ENDING,X-Tremely Sinister event is ending soon!
+ID_MOTD_NA_LEGENDARY_IRONMAN_LIVE_V2,UNLOCKED: I am Iron Man
+ID_MOTD_DE_LEGENDARY_IRONMAN_LIVE_V2,Recruit the Legendary Iron Man to complete your Avenger team!
+ID_MOTD_NA_LEGENDARY_DOCTOROCTOPUS_LIVE_V2,UNLOCKED: Surgical S.T.R.I.K.E.
+ID_MOTD_DE_LEGENDARY_DOCTOROCTOPUS_LIVE_V2,Support your Villain team with the Legendary Doctor Octopus!
+ID_MOTD_NA_LEGENDARY_NICKFURY_LIVE_V2,UNLOCKED: Chasing Fury
+ID_MOTD_DE_LEGENDARY_NICKFURY_LIVE_V2,Recruit the Legendary Nick Fury to lead the charge through Raids!
+ID_MOTD_NA_LEGENDARY_MAGNETO_LIVE_V2,UNLOCKED: Asteroid M
+ID_MOTD_DE_LEGENDARY_MAGNETO_LIVE_V2,Add the Legendary Magneto to your Arena team!
+ID_MOTD_NA_LEGENDARY_STARLORD_LIVE_V2,UNLOCKED: Space Ace
+ID_MOTD_DE_LEGENDARY_STARLORD_LIVE_V2,Don't miss this chance to recruit the Legendary Star-Lord!
+ID_MOTD_NA_LEGENDARY_PHOENIX_LIVE_V2,UNLOCKED: Phoenix Rising
+ID_MOTD_DE_LEGENDARY_PHOENIX_LIVE_V2,Recruit the Legendary Phoenix to bolster your Uncanny X-Men!
+ID_MOTD_NA_LEGENDARY_SHURI_LIVE_V2,UNLOCKED: Princess and the Symbiote
+ID_MOTD_DE_LEGENDARY_SHURI_LIVE_V2,Support your Wakandan team with the Legendary Shuri!
+ID_MOTD_NA_LEGENDARY_INVISIBLEWOMAN_LIVE_V2,UNLOCKED: Now You See Me
+ID_MOTD_DE_LEGENDARY_INVISIBLEWOMAN_LIVE_V2,Recruit the Legendary Invisible Woman for Knowhere Heist!
+ID_MOTD_NA_LEGENDARY_JUBILEE_LIVE_V2,"UNLOCKED: Like, Totally Jubilee"
+ID_MOTD_DE_LEGENDARY_JUBILEE_LIVE_V2,Complete your Astonishing X-Men team with the Legendary Jubilee!
+ID_MOTD_NA_LEGENDARY_BLACKBOLT_LIVE_V2,UNLOCKED: Unite the Kingdoms
+ID_MOTD_DE_LEGENDARY_BLACKBOLT_LIVE_V2,Add the Legendary Inhuman King Black Bolt to your roster!
 ID_MOTD_NA_SINISTERSNOWSTORM_ANNOUNCE,LIVE: Sinister Snowstorm
 ID_MOTD_DE_SINISTERSNOWSTORM_ANNOUNCE,Unlock Lizard and earn Teal Bio Gear
 ID_MOTD_NA_SINISTERSNOWSTORM_ENDING,Ending Soon: Sinister Snowstorm
@@ -2545,3 +2583,41 @@ ID_MOTD_NA_RIMEICERAIDERS_ANNOUNCE,Web Milestone: Rime Ice Raiders
 ID_MOTD_DE_RIMEICERAIDERS_ANNOUNCE,Battle in Raids and reap more rewards on the web!
 ID_MOTD_NA_ICECOLDCRUCIBLE_ANNOUNCE,Live: Ice Cold Crucible
 ID_MOTD_DE_ICECOLDCRUCIBLE_ANNOUNCE,Battle in Cosmic Crucible for golden rewards!
+ID_MOTD_NA_FORGE_TEASER,Soon: Forge
+ID_MOTD_DE_FORGE_TEASER,Support allies with a newly tinkered arsenal!
+ID_MOTD_NA_FORGE_ANNOUNCE,Forge is here!
+ID_MOTD_DE_FORGE_ANNOUNCE,Support allies with a newly tinkered arsenal
+ID_MOTD_DE_FORGE_ANNOUNCE2,Open The Creator Orb to earn shards for this Mechanical Maestro!
+ID_MOTD_NA_SUNSPOT_TEASER,Soon: Sunspot
+ID_MOTD_DE_SUNSPOT_TEASER,Sunspot harnesses the sun to generate Ability Energy!
+ID_MOTD_NA_SUNSPOT_ANNOUNCE,Sunspot is here!
+ID_MOTD_DE_SUNSPOT_ANNOUNCE,Sunspot harnesses the sun to generate Ability Energy!
+ID_MOTD_DE_SUNSPOT_ANNOUNCE2,Open the Vitamin D Orb to earn shards for this Solar Battery!
+ID_MOTD_NA_FROSTYFAMILYGATHERING_ANNOUNCE,LIVE: Frosty Family Gathering
+ID_MOTD_DE_FROSTYFAMILYGATHERING_ANNOUNCE,Unlock Nightcrawler and earn Teal Mutant gear!
+ID_MOTD_NA_FROSTYFAMILYGATHERING_ENDING,Ending Soon: Frosty Family Gathering
+ID_MOTD_DE_FROSTYFAMILYGATHERING_ENDING,Unlock Nightcrawler and earn Teal Mutant gear now!
+ID_MOTD_NA_WINTERWHIRLWIND_ANNOUNCE,Web Milestone: Winter Whirlwind
+ID_MOTD_DE_WINTERWHIRLWIND_ANNOUNCE,Earn Blitz Credits and reap more rewards on the web!
+ID_MOTD_NA_ARCTICASSAULT_ANNOUNCE,LIVE: Arctic Assault
+ID_MOTD_DE_ARCTICASSAULT_ANNOUNCE,Get Iso-8 Ions and Frozen Festival progress!
+ID_MOTD_NA_ARCTICASSAULT_ENDING,Ending Soon: Arctic Assault
+ID_MOTD_DE_ARCTICASSAULT_ENDING,Get Iso-8 Ions and Frozen Festival progress now!
+ID_MOTD_NA_ICYX-TRAVAGANZA_ANNOUNCE,LIVE: Icy X-Travaganza
+ID_MOTD_DE_ICYX-TRAVAGANZA_ANNOUNCE,Get X-Men Shards and Teal Mutant gear now!
+ID_MOTD_NA_ICYX-TRAVAGANZA_ENDING,Ending Soon: Icy X-Travaganza
+ID_MOTD_DE_ICYX-TRAVAGANZA_ENDING,Get X-Men Shards and Teal Mutant gear now!
+ID_MOTD_NA_POLARPOWER_ANNOUNCE,Web Milestone: Polar Power
+ID_MOTD_DE_POLARPOWER_ANNOUNCE,Link your account to earn more rewards on web!
+ID_MOTD_NA_MECHANICALMARVEL_ANNOUNCE,LIVE: Mechanical Marvel
+ID_MOTD_DE_MECHANICALMARVEL_ANNOUNCE,Recruit Forge now by participating in January Events!
+ID_MOTD_NA_MECHANICALMARVEL_ENDING,Ending Soon: Defender of Valhalla
+ID_MOTD_DE_MECHANICALMARVEL_ENDING,Get Forge now before the Mechanical Marvel event ends!
+ID_MOTD_NA_SONICJUDGEMENT_ANNOUNCE,LIVE: Sonic Judgement
+ID_MOTD_DE_SONICJUDGEMENT_ANNOUNCE,Earn a 3-Diamond Quicksilver!
+ID_MOTD_NA_SONICJUDGEMENT_ENDING,Ending Soon: Sonic Judgement
+ID_MOTD_DE_SONICJUDGEMENT_ENDING,Earn a 3-Diamond Quicksilver!
+ID_MOTD_NA_MIDNIGHTMAYHEM_ANNOUNCE,Web Milestone: Midnight Mayhem
+ID_MOTD_DE_MIDNIGHTMAYHEM_ANNOUNCE,Link your account to earn more rewards on web!
+ID_MOTD_NA_WINTERGALA_ANNOUNCE,LIVE: Winter Solstice Gala
+ID_MOTD_DE_WINTERGALA_ANNOUNCE,Earn Diamonds in this premium milestone!

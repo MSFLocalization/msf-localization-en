@@ -52,6 +52,10 @@ ID_CHAL_GOLD_STAGE11_DESC,Earn a massive cache of GOLD.\n\nRecommendations:\n- S
 ID_CHAL_GOLD_STAGE12_DESC,Earn an enormous cache of GOLD.\n\nRecommendations:\n- Squad Lvl 75+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly CITY allowed.
 ID_CHAL_GOLD_STAGE13_DESC,Earn a colossal cache of GOLD.\n\nRecommendations:\n- Squad Lvl 76+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly CITY allowed.
 ID_CHAL_GOLD_STAGE14_DESC,Earn a spectacular supply of GOLD.\n\nRecommendations:\n- Squad Lvl 80+\n- Gear Tier 15+\n- Red Stars 4+\n\nOnly CITY allowed.
+ID_CHAL_GOLD_STAGE15_DESC,Earn a stupendous supply of GOLD.\n\nRecommendations:\n- Squad Lvl 85+\n- Gear Tier 16+\n- Red Stars 5+\n\nOnly CITY allowed.
+ID_CHAL_GOLD_STAGE16_DESC,Earn a stupendous supply of GOLD.\n\nRecommendations:\n- Squad Lvl 90+\n- Gear Tier 17+\n- Red Stars 6+\n\nOnly CITY allowed.
+ID_CHAL_GOLD_STAGE17_DESC,Earn a tremendous supply of GOLD.\n\nRecommendations:\n- Squad Lvl 95+\n- Gear Tier 18+\n- Red Stars 7\n\nOnly CITY allowed.
+ID_CHAL_GOLD_STAGE18_DESC,Earn a tremendous supply of GOLD.\n\nRecommendations:\n- Squad Lvl 100+\n- Gear Tier 18+\n- Red Stars 7\n\nOnly CITY allowed.
 ID_CHAL_XP_NAME,Training Day
 ID_CHAL_XP_DESC,Earn TRAINING MODULES. Use TRAINING MODULES to level up your characters.
 ID_CHAL_XP_STAGE1_NAME,Tier 1
@@ -74,6 +78,10 @@ ID_CHAL_XP_STAGE11_DESC,Earn a massive cache of TRAINING MODULES.\n\nRecommendat
 ID_CHAL_XP_STAGE12_DESC,Earn an enormous cache of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 75+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly COSMIC allowed.
 ID_CHAL_XP_STAGE13_DESC,Earn a colossal cache of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 76+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly COSMIC allowed.
 ID_CHAL_XP_STAGE14_DESC,Earn a spectacular supply of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 80+\n- Gear Tier 15+\n- Red Stars 4+\n\nOnly COSMIC allowed.
+ID_CHAL_XP_STAGE15_DESC,Earn a stupendous supply of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 85+\n- Gear Tier 16+\n- Red Stars 5+\n\nOnly CITY allowed.
+ID_CHAL_XP_STAGE16_DESC,Earn a stupendous supply of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 90+\n- Gear Tier 17+\n- Red Stars 6+\n\nOnly CITY allowed.
+ID_CHAL_XP_STAGE17_DESC,Earn a tremendous supply of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 95+\n- Gear Tier 18+\n- Red Stars 7\n\nOnly CITY allowed.
+ID_CHAL_XP_STAGE18_DESC,Earn a tremendous supply of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 100+\n- Gear Tier 18+\n- Red Stars 7\n\nOnly CITY allowed.
 ID_CHAL_HEALTHBUCKS_NAME,Medical Supply Run
 ID_CHAL_HEALTHBUCKS_DESC,Earn HEALTH PACKS and BLITZ CHARGES. Use HEALTH PACKS to heal injured characters and BLITZ CHARGES to bypass their recovery time for battles in Blitz.\n\nOnly BRAWLERS & SUPPORT allowed.
 ID_CHAL_CHANCE_HEALTHBUCKS,Earn Health Packs/Blitz Charges
@@ -224,6 +232,8 @@ ID_CHAL_STAGE13_NAME,Tier 13
 ID_CHAL_STAGE14_NAME,Tier 14
 ID_CHAL_STAGE15_NAME,Tier 15
 ID_CHAL_STAGE16_NAME,Tier 16
+ID_CHAL_STAGE17_NAME,Tier 17
+ID_CHAL_STAGE18_NAME,Tier 18
 ID_CHAL_ABILITYMATS_STAGE1_NAME,Tier 1
 ID_CHAL_ABILITYMATS_STAGE1_DESC,Earn ABILITY MATERIALS.\n\nRecommendations:\n- Squad Lvl 9+\n\nOnly CONTROLLERS & PROTECTORS allowed.
 ID_CHAL_ABILITYMATS_STAGE2_NAME,Tier 2
@@ -2093,9 +2103,6 @@ ID_EVENT_LIZARD_DIF2_DESC,"Requirements: \n- SUPERIOR SIX or INVADERS\n- Lizard,
 ID_INFO_NA_ANIMALARMATURE,Animal Armature
 ID_INFO_DE_ANIMALARMATURE,Unlock Kraven the Hunter and earn Teal Mystic Gear
 ID_INFO_BO_ANIMALARMATURE,"<color=#fff568>Animal Armature Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by earning Superior Seeker Orb fragments from Arena Ranked Rewards, completing the Big Armor Hunter Web Milestone, spending Arena Credits on special milestone point offers, and daily Free Claims. Earn fantastic rewards including <color=#fff568>Kraven the Hunter shards, Gold Promotion Credits, Elite 6 Credits, and Teal Mystic gear</color>. You'll also earn points towards the month-long Reverse-Engineer milestone by collecting Vibranium Slabs and the Jet Engine Parts.\n\n<color=#fff568>Daily Big Armor Hunter Web Milestone</color>\nSpend Campaign and Incursion Energy to earn Superior Seeker Orb Fragments for Animal Armature Event progress! Keep an eye out for Free Claims containing Superior Seeker Orb fragments every day!"
-ID_INFO_NA_SURVIVALTOWER,Kyln Cracker
-ID_INFO_DE_SURVIVALTOWER,Escape from Kyln to earn rewards
-ID_INFO_BO_SURVIVALTOWER,This should be a long description of how to earn points (Temp)
 ID_INFO_NA_SUPERIORSINISTER,Superior Sinister
 ID_INFO_DE_SUPERIORSINISTER,Battle in Cosmic Crucible for Training Modules!
 ID_INFO_BO_SUPERIORSINISTER,Battle in Cosmic Crucible to earn Training Modules and Reverse-Engineer progress! Earn even more points when you use Sinister Six characters
@@ -2117,15 +2124,44 @@ ID_INFO_BO_X-FORCEFROSTBITE,<color=#fff568>X-Force Frostbite Milestone</color>\n
 ID_INFO_NA_SUBZEROWARFARE,Sub-Zero Warfare
 ID_INFO_DE_SUBZEROWARFARE,Battle in Alliance War for glorious rewards!
 ID_INFO_BO_SUBZEROWARFARE,Battle in War to earn Frozen Festival progress!
+ID_SSE_XTXM_NAME,X-Tremely Sinister
+ID_SSE_XTXM_SUBTITLE,X-Treme X-Men Showcase
+ID_SSE_XTXM_DESC,"When powerful clones of mutants begin to attack the world, the X-Treme X-men join forces with the Secret Defenders to stop this deadly threat."
+ID_EVENT_XTXM_DIF1_TD_FLAVOR,Try the X-Treme X-Men
+ID_EVENT_XTXM_DIF2_ST_FLAVOR,Stop Mister Sinister!
+ID_EVENT_XTXM_DIF3_CH_FLAVOR,Challenge Your Skills!
+ID_EVENT_XTXM_DIF4_TH_FLAVOR,Use Your X-Treme X-Men!
+ID_EVENT_XTXM_DIF5_BO_FLAVOR,Get Awesome Rewards!
+ID_EVENT_XTXM_DIF1_TD_DESC,Play with a full team of X-Treme X-Men characters in sample battles from the Incursion Raid II.\n\nRaid specific bonuses and effects are enabled in these missions.
+ID_EVENT_XTXM_DIF2_ST_DESC,Requirements:\n- X-Treme X-Men or Secret Defender characters
+ID_EVENT_XTXM_DIF3_CH_DESC,"Requirements:\n- X-Treme X-Men or Secret Defender characters\n- Requires Nightcrawler, Forge, and Sunspot to complete all missions"
+ID_EVENT_XTXM_DIF4_TH_DESC,Requirements:\n- 5 X-Treme X-Men characters\n- Gear Tier 14\n- 4 Yellow Stars
+ID_EVENT_XTXM_DIF5_BO_DESC,Requirements:\n- 5 X-Treme X-Men characters\n- Gear Tier 16\n- 6 Yellow Stars
+ID_EVENT_XTXM_DIF4_TH_LABEL,X-Treme
+ID_INFO_NA_WINTER_BFYB,Holiday Tidings
+ID_INFO_DE_WINTER_BFYB,Earn Rewards through Web UPCs!
+ID_INFO_BO_WINTER_BFYB,"For a limited time, this milestone will replace the Bang for Your Buck milestone on our website. Score points in this week-long milestone to earn rewards such as: Gold, Armory 18 Orb Fragments, T2 Level 4 Ions, and more! This limited-time milestone is exclusively on our website, so head on over and start generating some holiday cheer today!"
 ID_INFO_NA_SINISTERSNOWSTORM,Sinister Snowstorm
 ID_INFO_DE_SINISTERSNOWSTORM,Unlock Lizard and earn Teal Bio Gear
 ID_INFO_BO_SINISTERSNOWSTORM,"<color=#fff568>Sinister Snowstorm Milestone</color>\nGain progress in this <color=#fff568>8-day</color> event by earning Supremely Sinister Orb Fragments from Arena Ranked Rewards, completing the Rime Ice Raiders Web Milestone, spending Arena Credits on special milestone point offers, and daily Free Claims. Earn superior rewards including <color=#fff568>Lizard shards, Diamond Dawn Orb fragments, Teal Bio gear, and more shards for the Sinister Six</color>. You'll also earn points towards the month-long Frozen Festival milestone by collecting Spectacular Snowflakes and the Superior Sweater.\n\n<color=#fff568>Rime Ice Raiders Web Milestone</color>\nPlay Raid Battles to earn Cold Hard Cash for the Frozen Festival Event Store and progress in the Sinister Snowstorm Milestone."
 ID_INFO_NA_ICECOLDCRUCIBLE,Ice Cold Crucible
 ID_INFO_DE_ICECOLDCRUCIBLE,Battle in Cosmic Crucible for golden rewards!
 ID_INFO_BO_ICECOLDCRUCIBLE,Battle in Cosmic Crucible to earn Gold and Frozen Festival progress!
+ID_INFO_NA_FROSTYFAMILYGATHERING,Frosty Family Gathering
+ID_INFO_DE_FROSTYFAMILYGATHERING,Unlock Nightcrawler and earn Teal Mutant Gear
+ID_INFO_BO_FROSTYFAMILYGATHERING,"<color=#fff568>Frosty Family Gathering Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by battling in Blitz battles (with bonuses for using Superior Six and Nightcrawler), spending Power Cores, and earning special X-Treme Orbs found in limited time offers and the web. Earn X-cellent rewards including <color=#fff568>Nightcrawler shards, Diamond Dawn Orb Fragments, and Teal Mutant gear</color>. You'll also earn points towards the month-long Frozen Festival milestone by collecting Spectacular Snowflakes and the Uncanny X-Cap.\n\n<color=#fff568>Learderboard</color>\nReach the top of the leaderboard for X-clusive rewards including a 3 Diamond promotion for Nightcrawler!\n\n<color=#fff568>Daily Winter Whirlwind Web Milestone</color>\nEarn Blitz Credits and get rewarded with Cold Hard Cash for the Frozen Festival Event Store and progress in the Frosty Family Gathering."
+ID_INFO_NA_ARCTICASSAULT,Arctic Assault
+ID_INFO_DE_ARCTICASSAULT,Earn Iso-8 Ions and Frozen Festival progress!
+ID_INFO_BO_ARCTICASSAULT,"<color=#fff568>Arctic Assault Milestone</color>\nGain progress in this <color=#fff568>6-day</color> event by spending Iso-8 Campaign Energy, earning Alliance Credits, and earning Allied Supply II Orb fragments from daily Free Claims and special offers. Help your Alliance earn incredible rewards including <color=#fff568>T2 Level 5 Ion Orbs, T2 Level 4 Ions, and T2 Level 1 Ions</color>. T2 Level 5 Ion Orbs contain up to 5,000,000 T2 Level 5 Ions! You'll also earn points towards the month-long Frozen Festival milestone by collecting Spectacular Snowflakes."
+ID_INFO_NA_ICYX-TRAVAGANZA,Icy X-Travaganza
+ID_INFO_DE_ICYX-TRAVAGANZA,Earn X-Cellent Rewards
+ID_INFO_BO_ICYX-TRAVAGANZA,"<color=#fff568>Icy X-Travaganza Milestone</color>\nGain progress in this <color=#fff568>6-day</color> event by spending Campaign Energy and playing Raid battles (with a bonus for using the X-Treme X-men). Earn increased progress for using the X-Treme X-Men at higher Gear Tiers. Earn X-citing rewards including <color=#fff568>X-Men shards, Diamond Dawn Orb Fragments, and Teal Mutant gear</color>. You'll also earn points towards the month-long Frozen Festival milestone by collecting Spectacular Snowflakes and the Ruby Snow Goggles.\n\n<color=#fff568>Polar Power Web Milestone</color>\nSpend Power Cores to power up your roster and get Milestone Points for additional progress in the Icy X-Travaganza Milestone and Cold Hard Cash for the Frozen Festival Event Store!"
+ID_INFO_NA_MECHANICALMARVEL,Mechanical Marvel
+ID_INFO_DE_MECHANICALMARVEL,Recruit Forge throughout January!
+ID_INFO_BO_MECHANICALMARVEL,"Earn points toward this month-long milestone by collecting X-Batteries, Red Bandana, Scanalyzer, Bandolier, Scanner, and Neutralizer from January events. X-Batteries will also be available in Daily Free Claims throughout the month.\n\nThere will be several Milestone Events that provide progress towards the <color=#fff568>Mechanical Marvel Milestone</color>. Earn <color=#fff568>Forge</color> shards from the Mechanical Marvel Milestone Rewards!\n\nCompete on the Leaderboard for exclusive rewards. Players reaching the top 1% rank will earn exclusive <color=#fff568>Diamond Orbs</color>, T2 Level 5 Ions and Armory 18 Orbs, while other competitors can earn T2 Level 4 Ions, Gold Orb Fragments and Teal Gear Raid Orbs!"
+ID_INFO_NA_SONICJUDGEMENT,Sonic Judgement
+ID_INFO_DE_SONICJUDGEMENT,Prove you are worthy and earn a 3-Diamond Quicksilver!
+ID_INFO_BO_SONICJUDGEMENT,"<color=#fff568>Sonic Judgement Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by spending Campaign Energy, collecting Crucible Champions Orb Fragments, playing Cosmic Crucible Battles with Superior Six characters and via the Midnight Mayhem Web Milestone. Milestone rewards include Teal Mutant Gear, Forge shards, X-Batteries and the Red Bandana!\n\n<color=#fff568>Sonic Judgement Leaderboard</color>\nCompete on the Leaderboards for up to a 3-Diamond Quicksilver, Dark Promotion Credits and T2 Level 5 Ions!\n\n<color=#fff568>Crucible Champions orb</color>\nCollect this limited-time event orb in special offers for the following rewards:\n- Shards for top Superior Six, New Warriors and Masters of Evil characters\n- T2 Iso-8 Ions\n\n<color=#fff568>Midnight Mayhem Web Milestone</color>\nSpend Incursion Energy to earn X-Batteries, Teal Catalysts and Elite 4 Credits."
 ID_SSE_XTXM_NAME_PREVIEW,X-Tremely Sinister
 ID_SSE_XTXM_SUBTITLE_PREVIEW,X-Treme X-Men Showcase
 ID_SSE_XTXM_DESC_PREVIEW,"When powerful clones of mutants begin to attack the world, the X-Treme X-men join forces with the Secret Defenders to stop this deadly threat."
-ID_INFO_NA_WINTER_BFYB,Holiday Tidings
-ID_INFO_DE_WINTER_BFYB,Earn Rewards through Web UPCs!
-ID_INFO_BO_WINTER_BFYB,"For a limited time, this milestone will replace the Bang for Your Buck milestone on our website. Score points in this week-long milestone to earn rewards such as: Gold, Armory 18 Orb Fragments, T2 Level 4 Ions, and more! This limited-time milestone is exclusively on our website, so head on over and start generating some holiday cheer today!"

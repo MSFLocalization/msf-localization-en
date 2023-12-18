@@ -218,6 +218,7 @@ ID_ABILITY_TOAST_EMMAFROST_PASSIVE,The White Queen
 ID_ABILITY_TOAST_FALCON_PASSIVE,EXO-7 Wingsuit
 ID_ABILITY_TOAST_FANTOMEX_PASSIVE,Two Guns Three Brains
 ID_ABILITY_TOAST_FIRESTAR_PASSIVE,Red Hot
+ID_ABILITY_TOAST_FORGE_PASSIVE,Improvised Inventions
 ID_ABILITY_TOAST_GAMBIT_PASSIVE,Pick a Card
 ID_ABILITY_TOAST_GAMORA_PASSIVE,Deadly Methods
 ID_ABILITY_TOAST_GAMORA_EMPOWER_PASSIVE,Deadliest Woman
@@ -234,6 +235,7 @@ ID_ABILITY_TOAST_GT_HANDDMG_BONUS_PASSIVE,Kenjutsu
 ID_ABILITY_TOAST_GT_HANDDMG_UNBUFF_PASSIVE,Archery
 ID_ABILITY_TOAST_GT_HANDSUPPORT_HEAL_PASSIVE,Way of the Shadow
 ID_ABILITY_TOAST_GT_HANDTANK_STEALTH_PASSIVE,Way of the Scorpion
+ID_ABILITY_TOAST_GWENOM_PASSIVE,Symbiote Ghost
 ID_ABILITY_TOAST_GWENPOOL_PASSIVE,Editorial Sight
 ID_ABILITY_TOAST_HANDCONTROL_HEALBLOCK_PASSIVE,Touch of Death
 ID_ABILITY_TOAST_HANDDMG_BONUS_PASSIVE,Kenjutsu
@@ -405,10 +407,12 @@ ID_ABILITY_TOAST_STORM_PASSIVE,Ride the Wind
 ID_ABILITY_TOAST_STRANGESUPREME_PASSIVE,Heartless
 ID_ABILITY_TOAST_STRYFE_PASSIVE,Grandeur
 ID_ABILITY_TOAST_SUNFIRE_PASSIVE,Fierce Loyalty
+ID_ABILITY_TOAST_SUNSPOT_PASSIVE,Solar Champion
 ID_ABILITY_TOAST_SUPERSKRULL_PASSIVE,Fantastic One
 ID_ABILITY_TOAST_SWARM_PASSIVE,Buzzkill
 ID_ABILITY_TOAST_SYBIL_PASSIVE,Dimension Hopper
 ID_ABILITY_TOAST_SYLVIE_PASSIVE,Goddess of Mischief
+ID_ABILITY_TOAST_SYMBIOTESILVERSURFER_PASSIVE,Enter the Void
 ID_ABILITY_TOAST_SYMBIOTESPIDERMAN_PASSIVE,Perfect Host
 ID_ABILITY_TOAST_TASKMASTER_PASSIVE,Copycat Criminal
 ID_ABILITY_TOAST_TCHALLA_PASSIVE,Rousing Ravager
@@ -476,4 +480,5 @@ ID_BATTLEFIELD_BE_REDHULK_DESC,"On enemy Turn, attack that enemy for <color=#86e
 ID_BATTLEFIELD_BE_NOVA_NAME,<color=#3b8dcb>Nova Force</color>
 ID_BATTLEFIELD_BE_NOVA_DESC,"On this character's or ally's Turn, that character clears <color=#86e619>1</color> negative effect, gains +<color=#86e619>2</color> <color=#fff568>Deflect</color>, up to a maximum of <color=#86e619>10</color>, and heals for <color=#86e619>5%</color> of Max Health.\nFor this character and each ally, when that character drops below <color=#86e619>50%</color> health, heal that character for <color=#86e619>50%</color> of Max Health. This can only occur once per match for self and each ally.\nThis character and all allies gain +<color=#86e619>5%</color> Damage per <color=#fff568>Deflect</color> on that character.\nThis Battlefield Effect lasts until cleared or until the end of the match."
 ID_TO_ME_MY_BOARD,"To me, my board!"
+ID_TO_US_OUR_BOARD,"To us, our board!"
 ID_PING,PING!

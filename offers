@@ -5287,6 +5287,59 @@ ID_OF_DE_WINTER23_PHOTON7RED,Embrace the full power of <color=#ffda21>Photon</co
 ID_OF_DE_WINTER23_GOLDNRG,Parade your wealth across the cosmos with this sudden influx of <color=#ffda21>Gold</color> and Campaign Energy! <color=#ffda21>Greater than {var1}x value</color>!
 ID_OF_NA_NIGHTCRAWLER_WEB_EXTRA_FCO_OFFER,Web Special: Nightcrawler
 ID_OF_DE_NIGHTCRAWLER_WEB_EXTRA_FCO_OFFER,"<color=#fff568>Web Special!</color> Dazzle opponents with acrobatic antics in Raids with<color=#fff568>Nightcrawler</color>leading the way! "
+ID_OF_NA_FROSTYFAMILYGATHERING_MEGASTARTER,Frosty Family Gathering: Mega Starter
+ID_OF_NA_FROSTYFAMILYGATHERING_STARTER,Frosty Family Gathering: Starter
+ID_OF_NA_FROSTYFAMILYGATHERING_MEGACATCHUP,Frosty Family Gathering: Mega Catch-up
+ID_OF_NA_FROSTYFAMILYGATHERING_CATCHUP,Frosty Family Gathering: Catch-up
+ID_OF_NA_FROSTYFAMILYGATHERING_WEB_SPECIAL,Frosty Family Gathering: Web Special
+ID_OF_NA_FROSTYFAMILYGATHERING_DAILY_ORB,Frosty Family Gathering: X-Treme Orbs
+ID_OF_NA_FROSTYFAMILYGATHERING_POINTS,Frosty Family Gathering: Event Points
+ID_OF_NA_FROSTYFAMILYGATHERING_BLITZ,Frosty Family Gathering: Blitz Bundle
+ID_OF_NA_FROSTYFAMILYGATHERING_INTERSTITIAL,Frosty Family Gathering: X-Treme Bundle
+ID_OF_NA_FROSTYFAMILYGATHERINGFREE_CLAIM,Frosty Family Gathering: Free Claim
+ID_OF_DE_FROSTYFAMILYGATHERING_MEGASTARTER,Get ahead in the <color=#fff568>Frosty Family Gathering Milestone</color> and blast through for Nightcrawler shards and Diamond rewards!
+ID_OF_DE_FROSTYFAMILYGATHERING_STARTER,Get a head start in the <color=#fff568>Frosty Family Gathering Milestone</color> and start earning Nightcrawler shards!
+ID_OF_DE_FROSTYFAMILYGATHERING_MEGACATCHUP,Finish strong in the <color=#fff568>Frosty Family Gathering Milestone</color> and climb the leaderboard for Nightcrawler Diamonds!
+ID_OF_DE_FROSTYFAMILYGATHERING_CATCHUP,Complete the <color=#fff568>Frosty Family Gathering Milestone</color> for Nightcrawler shards!
+ID_OF_DE_FROSTYFAMILYGATHERING_WEB_SPECIAL,Earn bonus <color=#fff568>X-Treme Orbs</color> and <color=#fff568>Frosty Family Gathering Milestone</color> progress with this exclusive web offer!
+ID_OF_DE_FROSTYFAMILYGATHERING_DAILY_ORB,Pick up powerful Diamond upgrades and <color=#fff568>Frosty Family Gathering</color> progress with this daily X-Treme Orb supply!
+ID_OF_DE_FROSTYFAMILYGATHERING_POINTS,Land on top of the leaderboard with this daily <color=#fff568>Frosty Family Gathering</color> points bundle!
+ID_OF_DE_FROSTYFAMILYGATHERING_BLITZ,Blitz through the <color=#fff568>Frosty Family Gathering Milestone</color>!
+ID_OF_DE_FROSTYFAMILYGATHERING_INTERSTITIAL,Stock up on X-Treme Orb Fragments and Event Points for extra progress in the <color=#fff568>Frosty Family Gathering Milestone</color>!
+ID_OF_DE_FROSTYFAMILYGATHERINGFREE_CLAIM,Come back daily for more <color=#fff568>Frosty Family Gathering</color> progress!
+ID_OF_NA_ARCTICASSAULT_MEGASTARTER,Arctic Assault: Mega Starter
+ID_OF_NA_ARCTICASSAULT_STARTER,Arctic Assault: Starter
+ID_OF_NA_ARCTICASSAULT_MEGACATCHUP,Arctic Assault: Mega Catch-Up
+ID_OF_NA_ARCTICASSAULT_CATCHUP,Arctic Assault: Catch-Up
+ID_OF_NA_ARCTICASSAULT_ENERGY,Arctic Assault: Daily Energy
+ID_OF_NA_ARCTICASSAULT_EVENT_ORB,Arctic Assault: Daily Allied Supply
+ID_OF_NA_ARCTICASSAULT_INTERSTITIAL,Arctic Assault: Supply Drop
+ID_OF_NA_ARCTICASSAULT_FREE,Arctic Assault: Free Claim
+ID_OF_DE_ARCTICASSAULT_MEGASTARTER,Rally your allies for accelerated <color=#fff568>Arctic Assault</color> Milestone progress and get high value Iso-8 rewards!
+ID_OF_DE_ARCTICASSAULT_STARTER,Get a head start in the <color=#fff568>Arctic Assault</color> Milestone and get high value Iso-8 rewards!
+ID_OF_DE_ARCTICASSAULT_MEGACATCHUP,Push your alliance to the finish line in <color=#fff568>Arctic Assault</color> Milestone progress for tremendous T2 Level 5 Ion rewards!
+ID_OF_DE_ARCTICASSAULT_ENERGY,Stock up on Iso-8 Campaign Energy to push your Alliance forward in the <color=#fff568>Arctic Assault</color> milestone!
+ID_OF_DE_ARCTICASSAULT_EVENT_ORB,Get Allied Supply II orbs for <color=#fff568>Arctic Assault</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs featuring guaranteed T2 L5 Ions!
+ID_OF_DE_ARCTICASSAULT_INTERSTITIAL,Stock up on Allied Supply II Orbs for extra progress in the <color=#fff568>Arctic Assault Milestone</color>!
+ID_OF_DE_ARCTICASSAULT_FREE,Come back daily for more <color=#fff568>Arctic Assault</color> progress!
+ID_OF_NA_ICYXTRAVAGANZA_MEGA_STARTER,Icy X-Travaganza: Mega Starter
+ID_OF_NA_ICYXTRAVAGANZA_STARTER,Icy X-Travaganza: Starter Bundle
+ID_OF_NA_ICYXTRAVAGANZA_RAID,Icy X-Travaganza: Raid Bundle
+ID_OF_NA_ICYXTRAVAGANZA_ENERGY,Icy X-Travaganza: Energy Bundle
+ID_OF_NA_ICYXTRAVAGANZA_INTERSTITIAL,Icy X-Travaganza: X-Bundle
+ID_OF_NA_ICYXTRAVAGANZA_CLAIM,Icy X-Travaganza: Free Claim
+ID_OF_NA_ICYXTRAVAGANZA_MEGA_CATCHUP,Icy X-Travaganza: Mega Catch-up
+ID_OF_NA_ICYXTRAVAGANZA_CATCHUP,Icy X-Travaganza: Catch-up Bundle
+ID_OF_NA_ICYXTRAVAGANZA_WEB_SPECIAL,Icy X-Travaganza: Web Special
+ID_OF_DE_ICYXTRAVAGANZA_MEGA_STARTER,Speed through the <color=#fff568>Icy X-Travaganza</color> Milestone and get a mountain of <color=#fff568>Mutant Gear</color> and <color=#fff568>X-Men shards and Red Stars</color>!
+ID_OF_DE_ICYXTRAVAGANZA_STARTER,Speed through the <color=#fff568>Icy X-Travaganza</color> Milestone and get a mountain of <color=#fff568>Mutant Gear</color> and <color=#fff568>X-Men shards and Red Stars</color>!
+ID_OF_DE_ICYXTRAVAGANZA_RAID,Rally for Raids in the <color=#fff568>Icy X-Travaganza</color> Milestone with this daily Raid resource drop!
+ID_OF_DE_ICYXTRAVAGANZA_ENERGY,Make more <color=#fff568>Icy X-Travaganza</color> progress with this daily infusion of Campaign Energy!
+ID_OF_DE_ICYXTRAVAGANZA_INTERSTITIAL,Get boosted <color=#fff568>Icy X-Travaganza</color> progress with this daily trove of resources!
+ID_OF_DE_ICYXTRAVAGANZA_CLAIM,Come back daily for more <color=#fff568>Icy X-Travaganza</color> progress!
+ID_OF_DE_ICYXTRAVAGANZA_MEGA_CATCHUP,Climb the final steps of the <color=#fff568>Icy X-Travaganza</color> Milestone and finish strong in the <color=#fff568>Frozen Festival</color> before it's too late!
+ID_OF_DE_ICYXTRAVAGANZA_CATCHUP,Finish strong in the <color=#fff568>Icy X-Travaganza</color> milestone!
+ID_OF_DE_ICYXTRAVAGANZA_WEB_SPECIAL,Earn bonus <color=#fff568>Icy X-Travaganza Milestone</color> progress with this exclusive web offer!
 ID_OF_NA_GREENGOBLINGLIDERORB_BUNDLE,Green Goblin (Classic) Orb Bundle
 ID_OF_NA_GREENGOBLINGLIDERORB_7PAK,Green Goblin (Classic) Orb Party Pack
 ID_OF_NA_GREENGOBLINGLIDERORB_SINGLE,Green Goblin (Classic) Orb
@@ -5318,3 +5371,201 @@ ID_OF_DE_SINISTERSNOWSTORM_WEB_SPECIAL,Make double progress in <color=#fff568>Si
 ID_OF_DE_SINISTERSNOWSTORM_DAILY_INTERSTITIAL,Stock up on Supremely Sinister Orbs and Event Points for extra progress in the <color=#fff568>Sinister Snowstorm Milestone</color>!
 ID_OF_DE_SINISTERSNOWSTORMFREE_CLAIM,Come back daily for more <color=#fff568>Sinister Snowstorm</color> progress!
 ID_OF_DE_SINISTERSNOWSTORM_ARENAPOINTS,Make more daily progress in <color=#fff568>Sinister Snowstorm</color> with this special offer!
+ID_OF_NA_SUNSPOT_FCO_OFFER,Solar Battery
+ID_OF_DE_SUNSPOT_FCO_OFFER,Each <color=#fff568>Vitamin D Orb</color> contains <color=#fff568>up to 180 Sunspot</color> shards. Sunspot harnesses the sun to generate Ability Energy for <color=#fff568>X-Men</color> allies!
+ID_OF_DE_SUNSPOT_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Sunspot</color> and unlock one-time only release offers on your next visit! Sunspot harnesses the sun to generate Ability Energy for <color=#fff568>X-Men</color> allies!
+ID_OF_DE_SUNSPOT_OFFER_SHARD,Power up <color=#fff568>Sunspot</color> with this shard offer! Sunspot harnesses the sun to generate Ability Energy for <color=#fff568>X-Men</color> allies!
+ID_OF_STOREBAR_SUNSPOT,Dual Offer: Sunspot
+ID_OF_NA_DUAL_SUNSPOT,Dual Offer: Sunspot
+ID_OF_DE_DUAL_SUNSPOT,Choose your path to power up this <color=#fff568>X-Treme X-Men</color> member!
+ID_OF_DE_DUAL_UNLOCK_SUNSPOT,Unlock this <color=#fff568>X-Treme X-Men</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_FORGE_FCO_OFFER,Mechanical Maestro
+ID_OF_DE_FORGE_FCO_OFFER,Each <color=#fff568>The Creator Orb</color> contains <color=#fff568>up to 180 Forge</color> shards. Forge has tinkered with his arsenal and is ready to support <color=#fff568>X-Men</color> allies!
+ID_OF_DE_FORGE_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Forge</color> and unlock one-time only release offers on your next visit! Forge has tinkered with his arsenal and is ready to support <color=#fff568>X-Men</color> allies!
+ID_OF_DE_FORGE_OFFER_SHARD,Power up <color=#fff568>Forge</color> with this shard offer! Forge has tinkered with his arsenal and is ready to support <color=#fff568>X-Men</color> allies!
+ID_OF_STOREBAR_FORGE,Dual Offer: Forge
+ID_OF_NA_DUAL_FORGE,Dual Offer: Forge
+ID_OF_DE_DUAL_FORGE,Choose your path to power up this <color=#fff568>X-Treme X-Men</color> member!
+ID_OF_DE_DUAL_UNLOCK_FORGE,Unlock this <color=#fff568>X-Treme X-Men</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_XTXMEN_SHOWCASE_FINALE_MEGA,X-Treme X-Men Mega Pack
+ID_OF_NA_XTXMEN_SHOWCASE_FINALE_DIFF,X-tremely Sinister: X-treme and Bonus
+ID_OF_NA_XTXMEN_SHOWCASE_FINALE_FULL,X-tremely Sinister: Full Completion
+ID_OF_NA_XTXMEN_SHOWCASE_FINALE_POWER,X-tremely Sinister: Power Up
+ID_OF_NA_XTXMEN_SHOWCASE_FINALE_TOPUP,X-tremely Sinister: Top Up
+ID_OF_DE_XTXMEN_SHOWCASE_FINALE_POWER,Power up your <color=#fff568>X-Treme X-Men</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>5M T2 Level 5 Ions and 384 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_XTXMEN_SHOWCASE_FINALE_RANK,Rank up your <color=#fff568>X-Treme X-Men</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>5M T2 Level 5 Ions and 384 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_XTXMEN_SHOWCASE_FINALE_GEAR,Gear up your <color=#fff568>X-Treme X-Men</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>5M T2 Level 5 Ions and 384 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_XTXMEN_SHOWCASE_FINALE_GT15,Take your <color=#fff568>X-Treme X-Men</color> team to Gear Tier 16 to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>5M T2 Level 5 Ions and 384 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_XTXMEN_SHOWCASE_FINALE_6YS,Take your <color=#fff568>X-Treme X-Men</color> team to 6 Yellow Stars to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>5M T2 Level 5 Ions and 384 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_NA_NY2024_LIM7DLOGINCATADPC,Celebration Countdown
+ID_OF_NA_NY2024_LIM3COMBOORBNOVA,Marvelous Year: Orb Force
+ID_OF_NA_NY2024_LIM412WKFCDARKHAWKTRAINING,Marvelous Year: Null Space Training
+ID_OF_NA_NY2024_LIM10WEBTEALCATA18,Marvelous Year: Catalytic Combo
+ID_OF_NA_NY2024_LIM412WKFCTIGRAT17MINI,Marvelous Year: Feline Avenger
+ID_OF_NA_NY2024_LIM5BOOSTTRAINING,Marvelous Year: Training Boost
+ID_OF_NA_NY2024_LIM5GPCGOLDABMATS,Marvelous Year: Golden Finish
+ID_OF_NA_NY2024_LIM39WKRAIDPEGASUSTRAINING,Marvelous Year: P.E.G.A.S.U.S
+ID_OF_NA_NY2024_LIM3COMBOORBBLACKCAT,Marvelous Year: Steal of a Deal
+ID_OF_NA_NY2024_LIM15DLOGINMUTANTGEAR,Augmented Mutations
+ID_OF_NA_NY2024_LIM7DLOGINHOLIDAYBLACKCATORB,Black Cat's Call
+ID_OF_NA_NY2024_LIM4MSMARVELHLGOLDELITE7,Marvelous Year: Djinn's Deal
+ID_OF_NA_NY2024_LIM2HOLIDAYGEARA18,New Horizon: Golden Armory
+ID_OF_NA_NY2024_LIM2BOOSTGOLD,New Horizon: Fortune's Favor
+ID_OF_NA_NY2024_LIM29WKRAIDIRONHEARTMKIITRAINING,New Horizon: Heartfelt Training
+ID_OF_NA_NY2024_LIM212WKFCDARKHAWKT17MINI,New Horizon: Android Tune Up
+ID_OF_NA_NY2024_LIM3BOOSTISOGOLD,New Horizon: Essential Boost
+ID_OF_NA_NY2024_LIM5BOOSTELITE7ISO,New Horizon: Ionic Promotion
+ID_OF_NA_NY2024_LIM10COMBOTRAINE7CREDIT,New Horizon: Training Promotion
+ID_OF_NA_NY2024_LIM10DUAL1ASECRETDEFA17TRAINING,Dual Special: Secret Defenders
+ID_OF_NA_NY2024_LIM10DUAL1BSECRETDEF,Dual Special: Secret Defenders
+ID_OF_NA_NY2024_LIM7DLOGINNIGHTCRAWLERXMEN,X-treme Value
+ID_OF_NA_NY2024_LIM5COMBOMUTANTMINIST2L5,New Horizon: Radiation Therapy
+ID_OF_NA_NY2024_LIM5KRAVENGOLDREDSTAR,New Horizon: Apex Predator
+ID_OF_NA_NY2024_LIM3HOLIDAYSTREAKDIAMONDORB,New Year 2024: Marvelous Thank You!
+ID_OF_NA_NY2024_LIM1HOLIDAYSTREAKDIAMONDORB,New Year 2024: Super Thank You!
+ID_OF_NA_NY2024_LIM1HOLIDAYSTREAKDDAWNORB,New Year 2024: Dawn Special!
+ID_OF_NA_NY2024_LIM1HOLIDAYSTREAKGPC,New Year 2024: Celebration Special!
+ID_OF_NA_NY2024_LIM1HOLIDAYSTREAKSTARTGPC,New Year 2024 Special!
+ID_OF_NA_NY2024_LIM10TRAININGTEALBASICCATS,New Year 2024: Catalytic Training
+ID_OF_NA_NY2024_LIM5A1817GOLDTRAIN,New Year 2024: Suit Up Special!
+ID_OF_NA_NY2024_LIM5COMBOORBBLACKCATNOVAMEGA,New Year 2024: Mega Celebration
+ID_OF_NA_NY2024_LIM10GOLDGPC,New Year 2024: Golden Promotion
+ID_OF_NA_NY2024_LIM109WKFCCOMBOKRAVEN,New Year 2024: Hunter's Training
+ID_OF_NA_NY2024_LIM7DLOGINHOLIDAYTRAINING,Training Resolution
+ID_OF_NA_NY2024_LIM10BOOSTGOLDABMATS,New Year 2024: Golden Ability
+ID_OF_NA_NY2024_LIM5NIGHTCRAWLERISOTRAIN,New Year 2024: Indigo Shadow
+ID_OF_NA_NY2024_LIM3CATCHUPXMENTRAIN,New Year 2024: Unlimited XMEN
+ID_OF_NA_NY2024_LIM59WKFCSUPERIOR6COMBO,Superior Resolution: Pest Control
+ID_OF_NA_NY2024_LIM49WKFCSUPERIOR6UNIQUES,Superior Resolution: Crafter's Eye
+ID_OF_NA_NY2024_LIM5BOOSTA18ELITE7,New Resolutions: Armor Up
+ID_OF_NA_NY2024_LIM3CATCHUPDISCOUNTELITE7,New Resolutions: Red Star Journey
+ID_OF_NA_NY2024_LIM10TRAININGABMAT,New Resolutions: Expert Training
+ID_OF_NA_NY2024_LIM10GOLDGPCA17,New Resolutions: Gold Foundation
+ID_OF_NA_NY2024_LIM4BOOSTTRAININGGOLD,New Resolutions: Health & Wealth
+ID_OF_NA_NY2024_LIM39WKFCSPIDERSLAYERTRAINING,New Resolutions: Slay The Spider
+ID_OF_NA_NY2024_LIM10WEBTEALCATA18RERUN,New Resolutions: Catalyze Growth
+ID_OF_NA_NY2024_LIM5DUAL3AMUTANTMINIS,Dual Special: Mutant Gear
+ID_OF_NA_NY2024_LIM5DUAL3BMUTANTUNIQUES,Dual Special: Mutant Gear
+ID_OF_NA_NY2024_LIM3DUAL2AA18DPC,Dual Special: Armored Choice
+ID_OF_NA_NY2024_LIM3DUAL2BA18GPC,Dual Special: Armored Choice
+ID_OF_NA_NY2024_LIM5INVADERSGPC,New Resolutions: Invade The Year
+ID_OF_NA_NY2024_LIM5GWENFIRESTARUNIQ,New Resolutions: New Warriors
+ID_OF_NA_NY2024_LIM4ISORS,New Resolutions: ISO-8 Promotion
+ID_OF_NA_NY2024_LIM39WKFCSUPERIOR6LIZARD,Superior Resolution: Sssteady Gains
+ID_OF_NA_NY2024_LIM5BOOSTORBTRAINING,New Resolutions: ISO-8 Training
+ID_OF_NA_NY2024_LIM4GOLDABMAT,New Resolutions: Cultivate Skills
+ID_OF_NA_NY2024_LIM5KNOWHEREGPC,New Resolutions: Knowhere To Go
+ID_OF_NA_NY2024_LIM1DIAMONDDAWNGOLD,New Resolutions: New Dawn
+ID_OF_DE_NY2024_LIM7DLOGINCATADPC,Celebrate the end of the year with a daily shipment of <color=#ffda21>Augmented Catalysts</color>! <color=#ffda21>{var1}x value</color>!
+ID_OF_DE_NY2024_LIM3COMBOORBNOVA,Blast into the new year with <color=#ffda21>Nova</color> using this special orb offer! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM412WKFCDARKHAWKTRAINING,Upgrade <color=#ffda21>Darkhawk</color> and push their gear tier up to empower your P.E.G.A.S.U.S. team to victory! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM10WEBTEALCATA18,Gear up and craft your way to victory to celebrate the end of a marvelous year! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM412WKFCTIGRAT17MINI,Make consistent <color=#ffda21>Gear Tier 17 & Yellow Stars</color> progress for this <color=#ffda21>New Avenger</color> with a combo offer! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM5BOOSTTRAINING,Celebrate the end of the year with a <color=#ffda21>Training & Gold</color> holiday offer! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM5GPCGOLDABMATS,"Time to promote, skill up, and more with this holiday offer to finish off the year strong! <color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_NY2024_LIM39WKRAIDPEGASUSTRAINING,Boost your P.E.G.A.S.U.S into the stratosphere with this end of year special. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM3COMBOORBBLACKCAT,Snag this offer like Felicia would to gain more <color=#ffda21>Shards</color> for her and your roster as we celebrate the end of the year! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM15DLOGINMUTANTGEAR,Get <color=#fff568>Mutant Gear Tier 17 & 18 Mini-Uniques</color> with this calendar special! <color=#ffda21>{var1}x value</color>!
+ID_OF_DE_NY2024_LIM7DLOGINHOLIDAYBLACKCATORB,Bolster your arena ranking with a calendar offer for <color=#fff568>Black Cat Orbs</color> and more! <color=#ffda21>{var1}x value</color>!
+ID_OF_DE_NY2024_LIM4MSMARVELHLGOLDELITE7,Power up this Jersey City protector with a limited time holiday deal! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM2HOLIDAYGEARA18,Break through your limits with a huge <color=#fff568>Armory 18 & Gold</color> holiday offer! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM2BOOSTGOLD,Fill up your reserves of <color=#ffda21>Gold</color> with a special offer. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM29WKRAIDIRONHEARTMKIITRAINING,Train Ironheart MKII to reach new levlels of tech suit mastery with a limited time combo offer. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM212WKFCDARKHAWKT17MINI,Pick up Darkhawk <color=#fff568>Gear Tier 17</color> essentials to continue improving your P.E.G.A.S.U.S. android! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM3BOOSTISOGOLD,"Give anyone a super human boost with a triple combo offer of the essentials like <color=#fff568>Gold, T4 Training Modules, and T2 Level 5 Ions</color>! <color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_NY2024_LIM5BOOSTELITE7ISO,Bring your roster into the multiverse elite with a huge <color=#fff568>T2 Level 5 Ions and Elite 7 Credit</color> limited time offer. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM10COMBOTRAINE7CREDIT,Promote and train up your roster with this limited time offer. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM10DUAL1ASECRETDEFA17TRAINING,Solidify your arena rank with this <color=#fff568>Secret Defender</color> offer! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM10DUAL1BSECRETDEF,Solidify your arena rank with this <color=#fff568>Secret Defender</color> offer! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM7DLOGINNIGHTCRAWLERXMEN,Get <color=#fff568>Nightcrawler</color> along with <color=#fff568>Dark & Gold Promotion Credits</color>! <color=#ffda21>{var1}x value</color>!
+ID_OF_DE_NY2024_LIM5COMBOMUTANTMINIST2L5,Gain essential <color=#fff568>Mutant</color> gear and raise the ISO level of your <color=#fff568>Mutant</color> roster today! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM5KRAVENGOLDREDSTAR,The perfect prey has appeared! Empower <color=#fff568>Kraven</color> to become the apex predator he yearns to be and capture this huge offer before it springs away!<color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM3HOLIDAYSTREAKDIAMONDORB,Thank you for the marvelous year as we move into the next! Please enjoy this maximum value special offer (5/5)! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM1HOLIDAYSTREAKDIAMONDORB,You are a super hero and deserve a super thank you offer! 10% bonus value has been added (4/5)!10% bonus value added per Step. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM1HOLIDAYSTREAKDDAWNORB,You've reached the Diamond Dawn Orb step! 10% bonus value has been added (3/5)! Next step includes a Diamond Orb! 10% bonus value added per Step. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM1HOLIDAYSTREAKGPC,Thank you for your support! 10% bonus value has been added (2/5)! Reach Step 3 for a Diamond Dawn Orb special offer. 10% bonus value added per Step. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM1HOLIDAYSTREAKSTARTGPC,"Enjoy Power Cores, Gold, and Training Orbs in this New Year-only combo offer (1/5)! Reach Step 3 for a Diamond Dawn Orb special offer. 10% bonus value added per Step.<color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_NY2024_LIM10TRAININGTEALBASICCATS,Make the update to your roster that you've always wanted with this <color=#fff568>Catalyst and L4 Training Module</color> combo only available now during the New Year transition. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM5A1817GOLDTRAIN,"Suit up and gear up for the New Year with a <color=#fff568>Armory 18, Gold, & Training Orb</color> combo along with tons of T2 Level 5 Ions!"
+ID_OF_DE_NY2024_LIM5COMBOORBBLACKCATNOVAMEGA,Celebrate on a mega scale with this combo orb offer available only during New Year! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM10GOLDGPC,Capitalize on this huge <color=#fff568>Gold & Gold Promotion Credit</color> offer to celebrate the New Year! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM109WKFCCOMBOKRAVEN,"Give The Hunter, <color=#fff568>Kraven</color>, the training boost he needs to take down his next prey! <color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_NY2024_LIM7DLOGINHOLIDAYTRAINING,Embrace the new year spirit with a high value training reward calendar! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM10BOOSTGOLDABMATS,Improve your best units to their maximum potential with this legendary offer to welcome in the New Year. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM5NIGHTCRAWLERISOTRAIN,BAMF! into the New Year with <color=#fff568>Nightcrawler</color> and get what you need to bring this teleporter on your strike teams today! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM3CATCHUPXMENTRAIN,Break through your XMEN's limits and take this strong Cosmic Crucible team to new heights of power! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM59WKFCSUPERIOR6COMBO,Help the Superior 6 achieve their not so new promise to exterminate Spider-Man with this <color=#fff568>Shard & Promotion Credit offer</color>! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM49WKFCSUPERIOR6UNIQUES,Craft your way into the top of 2024 competitions with <color=#fff568>Gear Tier 17 uniques</color> for the Superior Six! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM5BOOSTA18ELITE7,<color=#fff568>Armory 18 Orbs</color> and tons of <color=#fff568>Dark Promotion Credits</color> await you in this super savings offer. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM3CATCHUPDISCOUNTELITE7,Take advantage of this offer for a spectacular boost on your journey to the heights of <color=#fff568>Red Star Promotions!</color> <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM10TRAININGABMAT,Be a pro at training and grow your abilities with this high value offer in celebration of the New Year! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM10GOLDGPCA17,Boost <color=#fff568>Gold</color> reserves while increasing collection power with this combo offer. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM4BOOSTTRAININGGOLD,Build up your reserves of <color=#fff568>Gold and L4 Training Modules</color> using this mega savings offer. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM39WKFCSPIDERSLAYERTRAINING,Spider Slayer's obsessive pilot will stop at nothing to do what his name says and this time-limited offer can help speed that up! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM10WEBTEALCATA18RERUN,Grow above your obstacles with this high value catalyst offer to celebrate entry into the New Year! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM5DUAL3AMUTANTMINIS,"Evolve XMEN like <color=#fff568>Nightcrawler, Rogue, Phoenix, Jubilee</color> & more! <color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_NY2024_LIM5DUAL3BMUTANTUNIQUES,"Evolve XMEN like <color=#fff568>Nightcrawler, Rogue, Phoenix, Jubilee</color> & more! <color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_NY2024_LIM3DUAL2AA18DPC,Choose bonus <color=#fff568>Armory Orbs or Promotion Credits</color> in this special offer! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM3DUAL2BA18GPC,Choose bonus <color=#fff568>Armory Orbs or Promotion Credits</color> in this special offer! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM5INVADERSGPC,Build up or finish off your Invader team to crush raids and make a difference in your guild activities! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM5GWENFIRESTARUNIQ,"Break all walls and barriers with more <color=#fff568>Shards, Unique Gear, and more</color> for <color=#fff568>Gwenpool & Firestar</color> with a limited time special offer. <color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_NY2024_LIM4ISORS,"Get an overload of <color=#fff568>T2 Ions</color>, along with <color=#fff568>Dark & Gold Promotion Credits</color>, to bring your collection power through the multiversal planar barrier today! <color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_NY2024_LIM39WKFCSUPERIOR6LIZARD,Advancement of science is steady progress like what you can experience with this limited time <color=#fff568>Lizard training</color> offer. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM5BOOSTORBTRAINING,"Fuse, train, & bolster your roster with a limited time combo orb offer! <color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_NY2024_LIM4GOLDABMAT,Advance your roster's ability along with tons of <color=#fff568>Gold</color> using this limited time combo offer. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM5KNOWHEREGPC,Take this top tier war team to their max with a huge <color=#fff568>Shard and Gold Promotion</color> offer!. <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM1DIAMONDDAWNGOLD,Enjoy this <color=#fff568>Diamond Orb & Diamond Dawn Orb</color> special as we journey into the New Year! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_NA_WINTER23_CAL_CHAR,Winter Shard Special!
+ID_OF_NA_WINTER23_CAL_SKILLGEAR,Winter Skill Celebration!
+ID_OF_NA_MECHANICALMARVEL_STARTER_MEGA,Mechanical Marvel: Mega Starter
+ID_OF_NA_MECHANICALMARVEL_STARTER_SUPER,Mechanical Marvel: Super Starter
+ID_OF_NA_MECHANICALMARVEL_STARTER,Mechanical Marvel: Starter
+ID_OF_NA_MECHANICALMARVEL_BOOSTER_ANCHOR,Mechanical Marvel: Daily Points
+ID_OF_NA_MECHANICALMARVEL_MEGA_POINTS,Mechanical Marvel: Daily Points
+ID_OF_NA_MECHANICALMARVEL_BOOSTER_SHARD,Mechanical Marvel: Victory Bundle
+ID_OF_NA_MECHANICALMARVEL_BOOSTER_A18,Mechanical Marvel: Victory Bundle
+ID_OF_NA_MECHANICALMARVEL_POINTS,Mechanical Marvel Points Bundle
+ID_OF_NA_MECHANICALMARVEL_BOOSTER,Mechanical Marvel: Victory Bundle
+ID_OF_NA_MECHANICALMARVEL_BOOSTER_MINOR,Mechanical Marvel: Battery Supply
+ID_OF_NA_MECHANICALMARVEL_CATCHUP_MEGA,Mechanical Marvel: Mega Catch-Up
+ID_OF_NA_MECHANICALMARVEL_CATCHUP_SUPER,Mechanical Marvel: Super Catch-Up
+ID_OF_NA_MECHANICALMARVEL_CATCHUP,Mechanical Marvel: Catch-Up Bundle
+ID_OF_NA_MECHANICALMARVEL_CATCHUP_LAST_CHANCE,Mechanical Marvel: Last Chance
+ID_OF_NA_MECHANICALMARVEL_FREEDAILY,Mechanical Marvel: Free Claim
+ID_OF_DE_MECHANICALMARVEL_STARTER_MEGA,"Stock up on <color=#fff568>Mechanical Marvel</color> progress and exclusive items, and get ahead on the Mechanical Marvel Leaderboard for <color=#fff568>Diamond Orbs</color>!"
+ID_OF_DE_MECHANICALMARVEL_STARTER_SUPER,Get ahead in the <color=#fff568>Mechanical Marvel</color> milestone and fast-forward your way to the <color=#fff568>Forge shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
+ID_OF_DE_MECHANICALMARVEL_STARTER,Start off strong in the <color=#fff568>Mechanical Marvel</color> milestone!
+ID_OF_DE_MECHANICALMARVEL_BOOSTER_ANCHOR,Make consistent <color=#fff568>Mechanical Marvel</color> progress with this daily <color=#fff568>X-Batteries</color> supply!
+ID_OF_DE_MECHANICALMARVEL_MEGA_POINTS,Stock up on <color=#fff568>Mechanical Marvel</color> progress and <color=#fff568>Dark Promotion Credits</color> with this special deal!
+ID_OF_DE_MECHANICALMARVEL_BOOSTER_SHARD,Stock up on <color=#fff568>Mechanical Marvel</color> progress and <color=#fff568>character shards</color> with this special deal!
+ID_OF_DE_MECHANICALMARVEL_BOOSTER_A18,Stock up on <color=#fff568>Mechanical Marvel</color> progress and <color=#fff568>Armory 18 Orbs</color> with this special deal!
+ID_OF_DE_MECHANICALMARVEL_POINTS,Stock up on <color=#fff568>Mechanical Marvel</color> progress and <color=#fff568>Training Modules</color> with this special deal!
+ID_OF_DE_MECHANICALMARVEL_BOOSTER,Stock up on <color=#fff568>Mechanical Marvel</color> progress and <color=#fff568>Mega Orbs</color> with this special deal!
+ID_OF_DE_MECHANICALMARVEL_BOOSTER_MINOR,Stock up on <color=#fff568>Mechanical Marvel</color> progress and <color=#fff568>Teal Catalysts</color> with this special deal!
+ID_OF_DE_MECHANICALMARVEL_CATCHUP_MEGA,"Finish strong in the milestones and leaderboards for <color=#fff568>Forge shards</color>, <color=#fff568>fully crafted Gear Tier 17 pieces</color> and <color=#fff568>Diamond Orbs</color>!"
+ID_OF_DE_MECHANICALMARVEL_CATCHUP_SUPER,Finish strong in the milestones for <color=#fff568>Forge shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
+ID_OF_DE_MECHANICALMARVEL_CATCHUP,Finish strong in the milestones for <color=#fff568>Forge shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
+ID_OF_DE_MECHANICALMARVEL_CATCHUP_LAST_CHANCE,"Catch this deal before it's too late to earn your final <color=#fff568>Forge shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>! "
+ID_OF_DE_MECHANICALMARVEL_FREEDAILY,Come back daily for more <color=#fff568>Mechanical Marvel</color> progress!
+ID_OF_NA_SONICJUDGEMENT_MEGA_STARTER,Sonic Judgement: Mega Starter
+ID_OF_NA_SONICJUDGEMENT_STARTER,Sonic Judgement: Starter
+ID_OF_NA_SONICJUDGEMENT_MEGA_CATCHUP,Sonic Judgement: Mega Catch-up
+ID_OF_NA_SONICJUDGEMENT_CATCHUP,Sonic Judgement: Catch-up
+ID_OF_NA_SONICJUDGEMENT_DAILY_ORB,Sonic Judgement: Daily Orb
+ID_OF_NA_SONICJUDGEMENT_DAILY_POINTS,Sonic Judgement: Daily Points
+ID_OF_NA_SONICJUDGEMENT_DAILY_INTERSTITIAL,Sonic Judgement: Hidden Trove
+ID_OF_NA_SONICJUDGEMENT_FREECLAIM,Sonic Judgement: Free Claim
+ID_OF_DE_SONICJUDGEMENT_MEGA_STARTER,Get ahead in the <color=#fff568>Sonic Judgement</color> Milestone and Leaderboard and fast-forward your way to <color=#fff568>Quicksilver Diamonds</color> and <color=#fff568>Teal Mutant Gear</color>!
+ID_OF_DE_SONICJUDGEMENT_STARTER,Get ahead in the <color=#fff568>Sonic Judgement</color> Milestone and Leaderboard and fast-forward your way to <color=#fff568>Quicksilver Diamonds</color> and <color=#fff568>Teal Mutant Gear</color>!
+ID_OF_DE_SONICJUDGEMENT_MEGA_CATCHUP,Finish strong in the milestones and leaderboard to earn <color=#fff568>Quicksilver Diamonds</color> and <color=#fff568>Teal Mutant Gear</color>!
+ID_OF_DE_SONICJUDGEMENT_CATCHUP,Finish strong in the milestones and leaderboard to earn <color=#fff568>Quicksilver Diamonds</color> and <color=#fff568>Teal Mutant Gear</color>!
+ID_OF_DE_SONICJUDGEMENT_DAILY_ORB,Earn Superior Six shards and make progress in the Sonic Judgement milestone by collecting more <color=#fff568>Crucible Champion Orbs</color>!
+ID_OF_DE_SONICJUDGEMENT_DAILY_POINTS,Make consistent <color=#fff568>Sonic Judgement</color> progress with this daily milestone points supply!
+ID_OF_DE_SONICJUDGEMENT_DAILY_INTERSTITIAL,Get boosted <color=#fff568>Sonic Judgement</color> progress with this daily trove of resources!
+ID_OF_DE_SONICJUDGEMENT_FREECLAIM,Come back daily for more <color=#fff568>Sonic Judgement</color> progress!
+ID_OF_DE_WINTER23_CAL_CHAR,Seize this calendar for even more Character Shards this Season!
+ID_OF_DE_WINTER23_CAL_SKILLGEAR,Seize this calendar for enough <color=#fff568>Gear Tier 17 & 18 Mini-Uniques</color> to upgrade any <color=#fff568>Skill</color> character's final two gear tiers!
+ID_OF_NA_WINTERGALA_ANCHOR,Daily Snowglobe Offer
+ID_OF_DE_WINTERGALA_ANCHOR,"Refill on Snowglobes to make progress in the premium <color=#fff568>Winter Solstice Gala Milestone</color>! Earn Diamond rewards, T4 Ability Materials and more!"
+ID_OF_NA_WINTERGALA_LASTCHANCE,Winter Solstice Gala: Last Chance
+ID_OF_DE_WINTERGALA_LASTCHANCE,Finish strong in the premium <color=#fff568>Winter Solstice Gala Milestone</color> for Diamond rewards and more!

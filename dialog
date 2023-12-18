@@ -3836,7 +3836,7 @@ ID_DIALOG_SCE_VAHL_05_MID_3,The rift traveler has emerged! Attack!
 ID_DIALOG_SCE_VAHL_05_END_0,"Who are you, why are you holding Surtur's sword, and why do you feel so oddly familiar?"
 ID_DIALOG_SCE_VAHL_05_END_1,"You are in a new land, Thor Odinson. A new universe. These humans are friends, and can explain."
 ID_DIALOG_SCE_VAHL_05_END_2,"As for I... I am Vahl. For now, that is all you need know."
-ID_DIALOG_SCE_VAHL_06_INTRO_0,"What's you your mind, big n' broody? You've making a face that says ""I have an idea"". Or maybe you're just hungry? IDK."
+ID_DIALOG_SCE_VAHL_06_INTRO_0,"What's on your mind, big n' broody? You're making a face that says ""I have an idea"". Or maybe you're just hungry? IDK."
 ID_DIALOG_SCE_VAHL_06_INTRO_1,"Our encounter with Thor has given me an idea. If I am right, it may be able to save this universe."
 ID_DIALOG_SCE_VAHL_06_INTRO_2,"And if I can save yours, it may atone for my inability to save my own. But this plan carries considerable danger."
 ID_DIALOG_SCE_VAHL_06_INTRO_3,"We're with you, Vahl. Consider yourself an honorary New Warrior."
@@ -6971,6 +6971,157 @@ ID_DIALOG_SCE_LIZARD_08_END_2,"Don't look a gift goblin in the mouth, Lizard. Co
 ID_DIALOG_SCE_LIZARD_08_END_3,"SOON, BWAHAHAHA! SOON SPIDER-MAN, AND ALL SPIDER-HEROES, WILL BE DESTROYED!"
 ID_DIALOG_SCE_LIZARD_08_END_4,HAHAHAHAHAHAHAHAHA!
 ID_DIALOG_SCE_LIZARD_08_END_5,"As you sssay, Osssborn..."
+ID_DIALOG_SSE_XTXM_01_INTRO_0,Sabretooth? What are you doing here?
+ID_DIALOG_SSE_XTXM_01_INTRO_1,"Surrender, and we'll make this quick."
+ID_DIALOG_SSE_XTXM_01_INTRO_2,"Nein, have you forgotten I can be anywhere?"
+ID_DIALOG_SSE_XTXM_01_INTRO_3,... !
+ID_DIALOG_SSE_XTXM_01_INTRO_4,What have you done?!
+ID_DIALOG_SSE_XTXM_01_INTRO_5,You're not going anywhere until we get what we came for.
+ID_DIALOG_SSE_XTXM_01_START_0,"This is Kurt Wagner, aka Nightcrawler. His mutant power allows him to teleport anywhere he can see."
+ID_DIALOG_SSE_XTXM_01_START_1,As an integral member of the X-treme X-men he is extremely powerful in Incursion raids.
+ID_DIALOG_SSE_XTXM_01_START_2,"Nightcrawler fills Speed Bar for himself and his X-MEN allies, can Rebound Chain with infinite range, and clears all positive effects from all enemies while dealing tons of damage."
+ID_DIALOG_SSE_XTXM_01_WAVE2_0,"Back off, mon ami!"
+ID_DIALOG_SSE_XTXM_01_WAVE2_1,"Looks like we got here just in time, oui?"
+ID_DIALOG_SSE_XTXM_01_WAVE2_2,You two feel like taking out the trash?
+ID_DIALOG_SSE_XTXM_01_WAVE2_3,"Bring it, X-chumps!"
+ID_DIALOG_SSE_XTXM_01_END_0,"Kurt, what was that about?"
+ID_DIALOG_SSE_XTXM_01_END_1,"I confess I have no idea, Scott. They attacked without warning."
+ID_DIALOG_SSE_XTXM_01_END_2,Why didn't you teleport away?
+ID_DIALOG_SSE_XTXM_01_END_3,"I tried, but somehow I was prevented."
+ID_DIALOG_SSE_XTXM_01_END_4,Wasn't Sabretooth locked up in that ocean prison?
+ID_DIALOG_SSE_XTXM_01_END_5,"Actually, you're right. Who is this then?"
+ID_DIALOG_SSE_XTXM_01_END_6,Look at this mark on his arm... I seen dis before. Mark of Sinister.
+ID_DIALOG_SSE_XTXM_01_END_7,So he's a clone?
+ID_DIALOG_SSE_XTXM_01_END_8,Great.
+ID_DIALOG_SSE_XTXM_02_INTRO_0,So we've got Sinister making clones again. But what are they after?
+ID_DIALOG_SSE_XTXM_02_INTRO_1,Sure could use the Professor and Cerebro right now.
+ID_DIALOG_SSE_XTXM_02_INTRO_2,You know that isn't going to happen right now. But maybe someone else local could help.
+ID_DIALOG_SSE_XTXM_02_START_0,X-Men?
+ID_DIALOG_SSE_XTXM_02_START_1,"Looks like you could use some help, Herr Doctor!"
+ID_DIALOG_SSE_XTXM_02_END_0,"Hmm. So let me get this straight, this Mister Sinister person is making clones and sending them to attack you?"
+ID_DIALOG_SSE_XTXM_02_END_1,Ja.
+ID_DIALOG_SSE_XTXM_02_END_2,"It's not the first time he's done this, but it's been awhile since we heard from him."
+ID_DIALOG_SSE_XTXM_02_END_3,Why don't you get Charles to help? Why come to me?
+ID_DIALOG_SSE_XTXM_02_END_4,The Professor is... indisposed. We can't rely on him or Cerebro at the moment.
+ID_DIALOG_SSE_XTXM_02_END_5,"In that case, I'll do what I can."
+ID_DIALOG_SSE_XTXM_03_INTRO_0,"According to the divination spell I cast, we should be in the vicinity of where your clone came from."
+ID_DIALOG_SSE_XTXM_03_INTRO_1,"So 37 failed? No matter, the master will have what he desires one way or another."
+ID_DIALOG_SSE_XTXM_03_INTRO_2,Looks like dis the spot after all.
+ID_DIALOG_SSE_XTXM_03_START_0,You're not Emma Frost; are you another clone?
+ID_DIALOG_SSE_XTXM_03_START_1,"Thanks to my master, I am far more than my base template. Observe!"
+ID_DIALOG_SSE_XTXM_03_END_0,She was a lot more powerful than Emma. Could Sinister be perfecting his plans to make super clones?
+ID_DIALOG_SSE_XTXM_03_END_1,Perhaps that is why they attacked me? To steal my blood?
+ID_DIALOG_SSE_XTXM_03_END_2,"Makes sense, but what I don't get is how he can control them."
+ID_DIALOG_SSE_XTXM_03_END_3,"Emma is too powerful to be controlled by someone like Sinister, clone or not."
+ID_DIALOG_SSE_XTXM_03_END_4,Did you see her eyes? It's like the mind-controled forces Ultimus used to invade.
+ID_DIALOG_SSE_XTXM_03_END_5,So Mister Sinister somehow got his hands on Ultimus tech?
+ID_DIALOG_SSE_XTXM_03_END_6,That don't sound so good.
+ID_DIALOG_SSE_XTXM_04_INTRO_0,This must be one of Sinister's labs.
+ID_DIALOG_SSE_XTXM_04_INTRO_1,Let's see if we can find anything that might reveal his location.
+ID_DIALOG_SSE_XTXM_04_START_0,Uninvited guests. Luckily you don't need to be alive to extract your DNA...
+ID_DIALOG_SSE_XTXM_04_END_0,I can't fathom the purpose of these machines.
+ID_DIALOG_SSE_XTXM_04_END_1,We're going to need some specialized help with this.
+ID_DIALOG_SSE_XTXM_04_END_2,"Cyclops calling Forge. Come in, Forge."
+ID_DIALOG_SSE_XTXM_04_END_3,"I hear you, Cyclops. What do you need?"
+ID_DIALOG_SSE_XTXM_04_END_4,Get to my location as fast as you can. We need your help to unravel a mystery.
+ID_DIALOG_SSE_XTXM_04_END_5,I'll be there as soon as I can.
+ID_DIALOG_SSE_XTXM_05_INTRO_0,"You were right to call me. If I'm right, this is a hodgepodge of Ultimus tech and some other exotic cloning tech."
+ID_DIALOG_SSE_XTXM_05_INTRO_1,"Frankly, I'm amazed it works. I have no idea how Sinister could create anything like this."
+ID_DIALOG_SSE_XTXM_05_INTRO_2,What does it do?
+ID_DIALOG_SSE_XTXM_05_INTRO_3,"I'm not exactly sure yet, but I think these are prototypes. They increase the power of a clone's X-Gene."
+ID_DIALOG_SSE_XTXM_05_INTRO_4,"And this one is similar to Ultimus' Conversion Device, but it's been modified."
+ID_DIALOG_SSE_XTXM_05_INTRO_5,"I did get something useful though, coordinates for several of the active clones."
+ID_DIALOG_SSE_XTXM_05_INTRO_6,"Sounds like we have a job to do, mon ami."
+ID_DIALOG_SSE_XTXM_05_START_0,"This is Forge. A genius inventor, his mutant ability allows him to build fantastic tech and understand any tech he encounters."
+ID_DIALOG_SSE_XTXM_05_START_1,"As part of the X-Treme X-Men team, he excels in raids."
+ID_DIALOG_SSE_XTXM_05_START_2,"Forge provides tons of healing, positive effects, and Charged for X-MEN allies. In Raids, he also Revives X-TREME X-MEN allies."
+ID_DIALOG_SSE_XTXM_05_END_0,Thanks for the assist.
+ID_DIALOG_SSE_XTXM_05_END_1,"Bobby, what are you doing here?"
+ID_DIALOG_SSE_XTXM_05_END_2,I was following a lead about the Professor.
+ID_DIALOG_SSE_XTXM_05_END_3,Oh? And any luck?
+ID_DIALOG_SSE_XTXM_05_END_4,"No, I think the whole thing was a trap set by these guys."
+ID_DIALOG_SSE_XTXM_05_END_5,Head back home and report in; Tell everyone no more solo-ops until we stop Sinister.
+ID_DIALOG_SSE_XTXM_06_INTRO_0,"Guten tag, friends. Perhaps you could use some help?"
+ID_DIALOG_SSE_XTXM_06_INTRO_1,"Logan, look, it's Nightcrawler! We're going to win this fight by the sheer power of popularity!"
+ID_DIALOG_SSE_XTXM_06_INTRO_2,"Wade, shut up and fight."
+ID_DIALOG_SSE_XTXM_06_END_0,"Logan, any luck with your mission?"
+ID_DIALOG_SSE_XTXM_06_END_1,Gettin' attacked by a lot of these clones you warned us about.
+ID_DIALOG_SSE_XTXM_06_END_2,No leads on Sinister or the Professor yet. You think the two are connected?
+ID_DIALOG_SSE_XTXM_06_END_3,"Not sure, the timing doesn't match up, but keep searching and if you find anything let us know."
+ID_DIALOG_SSE_XTXM_07_INTRO_0,The tracker on the clones near here is reading different. Let's be careful.
+ID_DIALOG_SSE_XTXM_07_START_0,"We've been looking for you, Mr. Wagner. The master requires a sample of your X-Gene for his collection."
+ID_DIALOG_SSE_XTXM_07_MID_0,How is she so fast?
+ID_DIALOG_SSE_XTXM_07_END_0,I think we just witnessed an attempt at a hybrid. A clone of Psylocke with a hint of Quicksilver's speed.
+ID_DIALOG_SSE_XTXM_07_END_1,"Pas bien, les amis. Sinister is getting closer to the perfect blend of spices."
+ID_DIALOG_SSE_XTXM_07_END_2,Looks that way.
+ID_DIALOG_SSE_XTXM_08_INTRO_0,I think we're closing in on another laboratory.
+ID_DIALOG_SSE_XTXM_08_INTRO_1,Let's be ready for anything.
+ID_DIALOG_SSE_XTXM_08_START_0,"Okay, I admit I should have been ready for this."
+ID_DIALOG_SSE_XTXM_08_START_1,"I'm detecting incredible power from that clone of you, Scott. Off the charts."
+ID_DIALOG_SSE_XTXM_08_START_2,Try not to get hit by his optic blasts.
+ID_DIALOG_SSE_XTXM_08_MID_0,Must... destroy... the master... commands...
+ID_DIALOG_SSE_XTXM_08_MID_1,Please... stop me...
+ID_DIALOG_SSE_XTXM_08_MID_2,The clone is fighting the effect of the Conversion Machine somehow.
+ID_DIALOG_SSE_XTXM_08_MID_3,"It's slowing him down, stop him before he can attack!"
+ID_DIALOG_SSE_XTXM_08_END_0,I think I figured out how he was so powerful. Let's open that containment capsule over there.
+ID_DIALOG_SSE_XTXM_08_END_1,"Uhhhh, my head..."
+ID_DIALOG_SSE_XTXM_08_END_2,"Sunspot? Forge, is this a clone?"
+ID_DIALOG_SSE_XTXM_08_END_3,I don't think so. The machine was charging him up somehow and letting the clone of you tap into that power.
+ID_DIALOG_SSE_XTXM_08_END_4,"Like a... power washer attached to a hose, if you will."
+ID_DIALOG_SSE_XTXM_08_END_5,"The clone was hyper-focusing Sunspot's energy, giving him those supercharged blasts."
+ID_DIALOG_SSE_XTXM_08_END_6,Let's get Sunspot back on his feet. We could use his help with the rest of the mission.
+ID_DIALOG_SSE_XTXM_09_INTRO_0,"How are you feeling, Sunspot?"
+ID_DIALOG_SSE_XTXM_09_INTRO_1,Getting better. Mind filling me in on what's going on?
+ID_DIALOG_SSE_XTXM_09_INTRO_2,"Mister Sinister is making clones again, but this time he's got access to some tech he definitely shouldn't."
+ID_DIALOG_SSE_XTXM_09_INTRO_3,"If you're going after him, I want in."
+ID_DIALOG_SSE_XTXM_09_INTRO_4,I was thinking the same thing. Welcome to the team.
+ID_DIALOG_SSE_XTXM_09_START_0,This is Sunspot. His mutant powers allow him to absorb energy to increase his strength to incredible levels.
+ID_DIALOG_SSE_XTXM_09_START_1,"Along with his X-treme X-men teammates, he is very powerful in the Incursion raids."
+ID_DIALOG_SSE_XTXM_09_START_2,"Sunspot generates Ability Energy for all X-MEN, and provides a passive Damage boost for all X-TREME X-MEN. Both of these effects are amplified in Raids. "
+ID_DIALOG_SSE_XTXM_09_START_3,"His abilities apply many negative effects, and his Ultimate clears 1 Charged from all enemies."
+ID_DIALOG_SSE_XTXM_09_END_0,That felt good.
+ID_DIALOG_SSE_XTXM_09_END_1,"Mon Ami, we gonna bring some big hurt to Mister Sinister with you on board."
+ID_DIALOG_SSE_XTXM_09_END_2,"Ja, einverstanden!"
+ID_DIALOG_SSE_XTXM_09_END_3,I've narrowed down the possible sites and I've got a location on what I think is Sinister's main lab.
+ID_DIALOG_SSE_XTXM_09_END_4,Where are we headed?
+ID_DIALOG_SSE_XTXM_09_END_5,Antarctica.
+ID_DIALOG_SSE_XTXM_10_INTRO_0,What is zat?
+ID_DIALOG_SSE_XTXM_10_INTRO_1,"That, Kurt, is the Savage Land. We can't land the jet there, we've got to set down in the snow and head in on foot."
+ID_DIALOG_SSE_XTXM_10_INTRO_2,Why?
+ID_DIALOG_SSE_XTXM_10_INTRO_3,"Last time we left the jet unattended here, we had problems with a territorial T-Rex."
+ID_DIALOG_SSE_XTXM_10_INTRO_4,A what?
+ID_DIALOG_SSE_XTXM_10_START_0,Did you say T-Rex?
+ID_DIALOG_SSE_XTXM_10_START_1,It's hard to explain.
+ID_DIALOG_SSE_XTXM_11_INTRO_0,We're closing in on the coordinates.
+ID_DIALOG_SSE_XTXM_11_INTRO_1,We've got company!
+ID_DIALOG_SSE_XTXM_11_START_0,Time to die!
+ID_DIALOG_SSE_XTXM_11_START_1,What the?! They're not mutants.
+ID_DIALOG_SSE_XTXM_11_START_2,Looks like Mister Sinister been branching out.
+ID_DIALOG_SSE_XTXM_11_END_0,Sinister's making clones of non-mutants now?
+ID_DIALOG_SSE_XTXM_11_END_1,"Maybe they are another experiment, ja?"
+ID_DIALOG_SSE_XTXM_11_END_2,"Forge, were they modified somehow?"
+ID_DIALOG_SSE_XTXM_11_END_3,I don't think so. My guess is they were meant to slow us down. I'm detecting a huge power spike in the lab ahead of us.
+ID_DIALOG_SSE_XTXM_12_INTRO_0,"Ahh, welcome gentlemen! You have been quite the thorn in my side."
+ID_DIALOG_SSE_XTXM_12_INTRO_1,But those inferior prototypes are nothing compared to what I have prepared for you here.
+ID_DIALOG_SSE_XTXM_12_INTRO_2,"Save it, Sinister. You're done. Where is the Professor?!"
+ID_DIALOG_SSE_XTXM_12_INTRO_3,"Why Mr. Summers, I don't have the faintest idea what you're talking about. I don't have your precious Professor."
+ID_DIALOG_SSE_XTXM_12_INTRO_4,I've got... something else!
+ID_DIALOG_SSE_XTXM_12_START_0,I... AM... POWER!
+ID_DIALOG_SSE_XTXM_12_START_1,How is he controlling a Phoenix?
+ID_DIALOG_SSE_XTXM_12_START_2,"It must be a Conversion Device, watch out she's fully powered!"
+ID_DIALOG_SSE_XTXM_12_MID_0,"Give it up, Sinister!"
+ID_DIALOG_SSE_XTXM_12_MID_1,"Never! First I'll destroy you, then I'll use your X-Genes to make the perfect chimaera!"
+ID_DIALOG_SSE_XTXM_12_MID_2,I'll be UNSTOPPABLE!
+ID_DIALOG_SSE_XTXM_12_END_0,It's over. Yield!
+ID_DIALOG_SSE_XTXM_12_END_1,"You may have won this battle, Summers, but there will be others!"
+ID_DIALOG_SSE_XTXM_12_END_2,Not while you're sitting in S.H.I.E.L.D.'s jail.
+ID_DIALOG_SSE_XTXM_12_END_3,"Where did you get this Ultimus tech, Sinister? This is way beyond you."
+ID_DIALOG_SSE_XTXM_12_END_4,"Oh, Scott, the ""Devil"" is in the details... HAHAHAHA!"
+ID_DIALOG_SSE_XTXM_12_END_5,"We not goin' get anything out of him, mon ami."
+ID_DIALOG_SSE_XTXM_12_END_6,"We need to find Xavier, dat be the only way we find out what's in his head."
+ID_DIALOG_SSE_XTXM_12_END_7,I think Gambit's right.
+ID_DIALOG_SSE_XTXM_12_END_8,Let's give him to S.H.I.E.L.D. to hold onto for now.
+ID_DIALOG_SSE_XTXM_12_END_9,"Alright. Forge, make the call."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.

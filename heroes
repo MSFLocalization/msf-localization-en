@@ -139,6 +139,8 @@ ID_SHARD_FANTOMEX_NAME,Fantomex
 ID_SHARD_FANTOMEX_DESCRIPTION,"An artificially engineered mutant with three brains and a removable nervous system named E.V.A., Fantomex rains bullets down on his enemies. Lots of bullets."
 ID_SHARD_FIRESTAR_NAME,Firestar
 ID_SHARD_FIRESTAR_DESCRIPTION,"A mutant with Amazing Friends, Firestar generates scorching heat and flames using microwaves to pierce enemy defenses."
+ID_SHARD_FORGE_NAME,Forge
+ID_SHARD_FORGE_DESCRIPTION,Forge uses his Mutant gift to make the impossible real and create amazing inventions that boost the power of his X-Men allies.
 ID_SHARD_GAMBIT_NAME,Gambit
 ID_SHARD_GAMBIT_DESCRIPTION,"With a dash of Cajun charm, Gambit fights alongside the X-Men using his mutant ability to charge objects with kinetic energy, transforming them into deadly explosives."
 ID_SHARD_GAMORA_NAME,Gamora
@@ -169,6 +171,8 @@ ID_SHARD_GT_HANDSUPPORT_HEAL_NAME,Hand Sorceress
 ID_SHARD_GT_HANDSUPPORT_HEAL_DESCRIPTION,A mystical healer who drains health when attacking.
 ID_SHARD_GT_HANDTANK_STEALTH_NAME,Hand Sentry
 ID_SHARD_GT_HANDTANK_STEALTH_DESCRIPTION,An expert martial artist who conceals his allies with smoke bombs.
+ID_SHARD_GWENOM_NAME,Gwenom
+ID_SHARD_GWENOM_DESCRIPTION,"Fueled by alien power, Gwen Stacy bonded with the Venom symbiote to become Gwenom, who uses deadly precision to lash out at her foes."
 ID_SHARD_GWENPOOL_NAME,Gwenpool
 ID_SHARD_GWENPOOL_DESCRIPTION,"Hey, Commander, Gwendolyn Poole here! First of all? Huge fan! Second, you can count on me to charge up my New Warrior buddies and unleash mayhem on the battlefield!"
 ID_SHARD_HANDCONTROL_HEALBLOCK_NAME,Hand Assassin
@@ -531,6 +535,8 @@ ID_SHARD_SUPERSKRULL_NAME,Super Skrull
 ID_SHARD_SUPERSKRULL_DESCRIPTION,"With the combined powers of Earth's Fantastic Four, Super Skrull packs a punch and camouflages seamlessly into his team, becoming more heroic - or villainous - depending on who is around."
 ID_SHARD_SUNFIRE_NAME,Sunfire
 ID_SHARD_SUNFIRE_DESCRIPTION,"Powered by solar radiation, Sunfire channels powerful flames to unleash an explosive blow against the enemy team."
+ID_SHARD_SUNSPOT_NAME,Sunspot
+ID_SHARD_SUNSPOT_DESCRIPTION,"The hot-headed Sunspot possesses the ability to absorb and redirect the sun's power, letting him deal massive damage and grant ability energy to his X-Men allies."
 ID_SHARD_SWARM_NAME,Swarm
 ID_SHARD_SWARM_DESCRIPTION,"A deadly member of the Sinister Six, Swarm exists as a sentient hive of killer bees controlled by one evil mind."
 ID_SHARD_SYBIL_NAME,Kestrel
@@ -539,6 +545,8 @@ ID_SHARD_SYLVIE_NAME,Sylvie
 ID_SHARD_SYLVIE_DESCRIPTION,"Fighting the TVA alongside Loki, Sylvie's mind-control abilities turn her enemies against each other while her swift daggers cut them into ribbons."
 ID_SHARD_SYMBIOTESPIDERMAN_NAME,Spider-Man (Symbiote)
 ID_SHARD_SYMBIOTESPIDERMAN_DESCRIPTION,"Permanently bonded with the Venom symbiote, Spider-Man brutally takes down foes while powering up his Symbiote allies."
+ID_SHARD_SYMBIOTESILVERSURFER_NAME,Void Knight
+ID_SHARD_SYMBIOTESILVERSURFER_DESCRIPTION,"Formerly the heroic Silver Surfer, Void Knight attempts to satisfy the hunger of his symbiote by sapping the energy of his enemies, draining them like a black hole until they're no more."
 ID_SHARD_TASKMASTER_NAME,Taskmaster
 ID_SHARD_TASKMASTER_DESCRIPTION,"A master of combat mimicry, Taskmaster uses his skill to steal positive effects from enemies."
 ID_SHARD_TCHALLA_NAME,Star-Lord (T'Challa)
