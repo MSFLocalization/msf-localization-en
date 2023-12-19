@@ -548,13 +548,6 @@ ID_AR_MT_FIRESTAR,LIVE: Light It Up Blitz
 ID_AR_MS_FIRESTAR,Your chance to win Firestar shards!
 ID_AR_MB_FIRESTAR,<color=#fff568>Light It Up Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Firestar shards! Recruit Firestar now!
 ID_AR_NA_FIRESTAR_CARD,Light It Up
-ID_AR_NA_FORGE,The Creator
-ID_AR_SM_FORGE,Win Forge Shards!
-ID_AR_LM_FORGE,Face off against other players' teams to earn various milestone rewards and a chance to win Forge shards!
-ID_AR_MT_FORGE,LIVE: The Creator Blitz
-ID_AR_MS_FORGE,Your chance to win Forge shards!
-ID_AR_MB_FORGE,<color=#fff568>The Creator Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Forge shards!\n\n<color=#fff568>The Creator Orb</color>\nRecruit Forge now!
-ID_AR_NA_FORGE_CARD,The Creator
 ID_AR_NA_GAMBIT,Deck Dealer
 ID_AR_SM_GAMBIT,Win Gambit Shards!
 ID_AR_LM_GAMBIT,Face off against other players' teams to earn various milestone rewards and a chance to win Gambit shards!
@@ -610,13 +603,6 @@ ID_AR_MC_GROOT,GO!
 ID_AR_ES_GROOT,ENDED: Gentle Giant Blitz
 ID_AR_EB_GROOT,The Gentle Giant Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
 ID_AR_NA_GROOT_CARD,Gentle Giant
-ID_AR_NA_GWENOM,Grudge
-ID_AR_SM_GWENOM,Win Gwenom Shards!
-ID_AR_LM_GWENOM,Face off against other players' teams to earn various milestone rewards and a chance to win Gwenom shards!
-ID_AR_MT_GWENOM,LIVE: Grudge Blitz
-ID_AR_MS_GWENOM,Your chance to win Gwenom shards!
-ID_AR_MB_GWENOM,<color=#fff568>Grudge Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Gwenom shards!\n\n<color=#fff568>Grudge Orb</color>\nRecruit Gwenom now!
-ID_AR_NA_GWENOM_CARD,Grudge
 ID_AR_NA_HANDDMG_BONUS,Crimson Edge
 ID_AR_SM_HANDDMG_BONUS,Win Hand Blademaster Shards!
 ID_AR_LM_HANDDMG_BONUS,Face off against other players' teams to earn various milestone rewards and a chance to win HAND BLADEMASTER shards!
@@ -806,13 +792,6 @@ ID_AR_MT_KORATH,LIVE: Pursuer Blitz
 ID_AR_MS_KORATH,Your chance to win KORATH shards.
 ID_AR_MB_KORATH,<color=#fff568>Pursuer Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Korath the Pursuer shards! Recruit Korath the Pursuer now!
 ID_AR_NA_KORATH_CARD,Pursuer
-ID_AR_NA_KRAVENTHEHUNTER,Grim Hunter
-ID_AR_SM_KRAVENTHEHUNTER,Win Kraven the Hunter Shards!
-ID_AR_LM_KRAVENTHEHUNTER,Face off against other players' teams to earn various milestone rewards and a chance to win Kraven the Hunter shards!
-ID_AR_MT_KRAVENTHEHUNTER,LIVE: Grim Hunter Blitz
-ID_AR_MS_KRAVENTHEHUNTER,Your chance to win Kraven the Hunter shards!
-ID_AR_MB_KRAVENTHEHUNTER,<color=#fff568>Grim Hunter Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Kraven the Hunter shards!\n\n<color=#fff568>Grim Hunter Orb</color>\nRecruit Kraven the Hunter now!
-ID_AR_NA_KRAVENTHEHUNTER_CARD,Grim Hunter
 ID_AR_NA_KREESUPPORT_HOT,Farseer
 ID_AR_SM_KREESUPPORT_HOT,Win Kree Oracle Shards!
 ID_AR_LM_KREESUPPORT_HOT,Face off against other players' teams to earn various milestone rewards and a chance to win Kree Oracle shards!
@@ -827,19 +806,15 @@ ID_AR_MT_LADYDEATHSTRIKE,LIVE: Tough as Nails Blitz
 ID_AR_MS_LADYDEATHSTRIKE,Your chance to win Lady Deathstrike shards!
 ID_AR_MB_LADYDEATHSTRIKE,<color=#fff568>Tough as Nails Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Lady Deathstrike shards! Recruit Lady Deathstrike now!
 ID_AR_NA_LADYDEATHSTRIKE_CARD,Tough as Nails
-ID_AR_NA_LIZARD,Anthropomorphic
-ID_AR_SM_LIZARD,Win Lizard Shards!
-ID_AR_LM_LIZARD,Face off against other players' teams to earn various milestone rewards and a chance to win Lizard shards!
-ID_AR_MT_LIZARD,LIVE: Anthropomorphic Blitz
-ID_AR_MS_LIZARD,Your chance to win Lizard shards!
-ID_AR_MB_LIZARD,<color=#fff568>Anthropomorphic Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Lizard shards!\n\n<color=#fff568>Anthropomorphic Orb</color>\nRecruit Lizard now!
-ID_AR_NA_LIZARD_CARD,Anthropomorphic
 ID_AR_NA_LOKI,God of Mischief
 ID_AR_SM_LOKI,Win Loki Shards!
 ID_AR_LM_LOKI,Face off against other players' teams to earn various milestone rewards and a chance to win LOKI shards!
 ID_AR_MT_LOKI,LIVE: God of Mischief Blitz
 ID_AR_MS_LOKI,Your chance to win LOKI shards.
 ID_AR_MB_LOKI,Face off against other players' teams to earn various milestone rewards and a chance to win <color=#fff568>LOKI</color> shards!
+ID_AR_MC_LOKI,GO!
+ID_AR_ES_LOKI,ENDED: God of Mischief Blitz
+ID_AR_EB_LOKI,The God of Mischief Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
 ID_AR_NA_LOKI_CARD,God of Mischief
 ID_AR_NA_LONGSHOT,Probability Master
 ID_AR_SM_LONGSHOT,Win Longshot Shards!
@@ -1040,13 +1015,6 @@ ID_AR_MT_NICOMINORU,LIVE: Sister Grimm Blitz
 ID_AR_MS_NICOMINORU,Your chance to win Nico Minoru shards!
 ID_AR_MB_NICOMINORU,<color=#fff568>Sister Grimm Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Nico Minoru shards! Recruit Nico Minoru now!
 ID_AR_NA_NICOMINORU_CARD,Sister Grimm
-ID_AR_NA_NIGHTCRAWLER,BAMF!
-ID_AR_SM_NIGHTCRAWLER,Win Nightcrawler Shards!
-ID_AR_LM_NIGHTCRAWLER,Face off against other players' teams to earn various milestone rewards and a chance to win Nightcrawler shards!
-ID_AR_MT_NIGHTCRAWLER,LIVE: BAMF! Blitz
-ID_AR_MS_NIGHTCRAWLER,Your chance to win Nightcrawler shards!
-ID_AR_MB_NIGHTCRAWLER,<color=#fff568>BAMF! Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Nightcrawler shards!\n\n<color=#fff568>BAMF! Orb</color>\nRecruit Nightcrawler now!
-ID_AR_NA_NIGHTCRAWLER_CARD,BAMF!
 ID_AR_NA_NIGHTNURSE,First Responder
 ID_AR_SM_NIGHTNURSE,Win Night Nurse Shards!
 ID_AR_LM_NIGHTNURSE,Face off against other players' teams to earn various milestone rewards and a chance to win Night Nurse shards!
@@ -1370,13 +1338,6 @@ ID_AR_MT_SPIDERPUNK,LIVE: Rockin Arachnid Blitz
 ID_AR_MS_SPIDERPUNK,Your chance to win Spider-Punk shards!
 ID_AR_MB_SPIDERPUNK,<color=#fff568>Rockin Arachnid Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Spider-Punk shards! Recruit Spider-Punk now!
 ID_AR_NA_SPIDERPUNK_CARD,Rockin Arachnid
-ID_AR_NA_SPIDERSLAYER,Exterminator
-ID_AR_SM_SPIDERSLAYER,Win Spider-Slayer Shards!
-ID_AR_LM_SPIDERSLAYER,Face off against other players' teams to earn various milestone rewards and a chance to win Spider-Slayer shards!
-ID_AR_MT_SPIDERSLAYER,LIVE: Exterminator Blitz
-ID_AR_MS_SPIDERSLAYER,Your chance to win Spider-Slayer shards!
-ID_AR_MB_SPIDERSLAYER,<color=#fff568>Exterminator Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Spider-Slayer shards!\n\n<color=#fff568>Exterminator Orb</color>\nRecruit Spider-Slayer now!
-ID_AR_NA_SPIDERSLAYER_CARD,Exterminator
 ID_AR_NA_SPIDERWEAVER,Woven Destiny
 ID_AR_SM_SPIDERWEAVER,Win Spider-Weaver Shards!
 ID_AR_LM_SPIDERWEAVER,Face off against other players' teams to earn various milestone rewards and a chance to win Spider-Weaver shards!
@@ -1428,13 +1389,6 @@ ID_AR_MT_SUNFIRE,LIVE: Pure Energy Blitz
 ID_AR_MS_SUNFIRE,Your chance to win Sunfire shards!
 ID_AR_MB_SUNFIRE,<color=#fff568>Pure Energy Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Sunfire shards! Recruit Sunfire now!
 ID_AR_NA_SUNFIRE_CARD,Pure Energy
-ID_AR_NA_SUNSPOT,Vitamin D
-ID_AR_SM_SUNSPOT,Win Sunspot Shards!
-ID_AR_LM_SUNSPOT,Face off against other players' teams to earn various milestone rewards and a chance to win Sunspot shards!
-ID_AR_MT_SUNSPOT,LIVE: Vitamin D Blitz
-ID_AR_MS_SUNSPOT,Your chance to win Sunspot shards!
-ID_AR_MB_SUNSPOT,<color=#fff568>Vitamin D Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Sunspot shards!\n\n<color=#fff568>Vitamin D Orb</color>\nRecruit Sunspot now!
-ID_AR_NA_SUNSPOT_CARD,Vitamin D
 ID_AR_NA_SWARM,Bzzzz
 ID_AR_SM_SWARM,Win Swarm Shards!
 ID_AR_LM_SWARM,Face off against other players' teams to earn various milestone rewards and a chance to win Swarm shards!
@@ -1449,13 +1403,6 @@ ID_AR_MT_SYLVIE,LIVE: Nexus Dweller Blitz
 ID_AR_MS_SYLVIE,Your chance to win Sylvie shards!
 ID_AR_MB_SYLVIE,<color=#fff568>Nexus Dweller Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Sylvie shards!\n\n<color=#fff568>Nexus Dweller Orb</color>\nRecruit Sylvie now!
 ID_AR_NA_SYLVIE_CARD,Nexus Dweller
-ID_AR_NA_SYMBIOTESILVERSURFER,Living Corruption
-ID_AR_SM_SYMBIOTESILVERSURFER,Win Void Knight Shards!
-ID_AR_LM_SYMBIOTESILVERSURFER,Face off against other players' teams to earn various milestone rewards and a chance to win Void Knight shards!
-ID_AR_MT_SYMBIOTESILVERSURFER,LIVE: Living Corruption Blitz
-ID_AR_MS_SYMBIOTESILVERSURFER,Your chance to win Void Knight shards!
-ID_AR_MB_SYMBIOTESILVERSURFER,<color=#fff568>Living Corruption Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Void Knight shards!\n\n<color=#fff568>Living Corruption Orb</color>\nRecruit Void Knight now!
-ID_AR_NA_SYMBIOTESILVERSURFER_CARD,Living Corruption
 ID_AR_NA_SYMBIOTESPIDERMAN,Back In Black
 ID_AR_SM_SYMBIOTESPIDERMAN,Win Spider-Man (Symbiote) Shards!
 ID_AR_LM_SYMBIOTESPIDERMAN,Face off against other players' teams to earn various milestone rewards and a chance to win Spider-Man (Symbiote) shards!

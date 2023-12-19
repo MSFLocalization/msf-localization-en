@@ -5507,7 +5507,7 @@ ID_OF_DE_NY2024_LIM5DUAL3AMUTANTMINIS,"Evolve XMEN like <color=#fff568>Nightcraw
 ID_OF_DE_NY2024_LIM5DUAL3BMUTANTUNIQUES,"Evolve XMEN like <color=#fff568>Nightcrawler, Rogue, Phoenix, Jubilee</color> & more! <color=#ffda21>Greater than {var1}x value</color>!"
 ID_OF_DE_NY2024_LIM3DUAL2AA18DPC,Choose bonus <color=#fff568>Armory Orbs or Promotion Credits</color> in this special offer! <color=#ffda21>Greater than {var1}x value</color>!
 ID_OF_DE_NY2024_LIM3DUAL2BA18GPC,Choose bonus <color=#fff568>Armory Orbs or Promotion Credits</color> in this special offer! <color=#ffda21>Greater than {var1}x value</color>!
-ID_OF_DE_NY2024_LIM5INVADERSGPC,Build up or finish off your Invader team to crush raids and make a difference in your guild activities! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM5INVADERSGPC,Build up or finish off your Invader team to crush raids and make a difference in your alliance activities! <color=#ffda21>Greater than {var1}x value</color>!
 ID_OF_DE_NY2024_LIM5GWENFIRESTARUNIQ,"Break all walls and barriers with more <color=#fff568>Shards, Unique Gear, and more</color> for <color=#fff568>Gwenpool & Firestar</color> with a limited time special offer. <color=#ffda21>Greater than {var1}x value</color>!"
 ID_OF_DE_NY2024_LIM4ISORS,"Get an overload of <color=#fff568>T2 Ions</color>, along with <color=#fff568>Dark & Gold Promotion Credits</color>, to bring your collection power through the multiversal planar barrier today! <color=#ffda21>Greater than {var1}x value</color>!"
 ID_OF_DE_NY2024_LIM39WKFCSUPERIOR6LIZARD,Advancement of science is steady progress like what you can experience with this limited time <color=#fff568>Lizard training</color> offer. <color=#ffda21>Greater than {var1}x value</color>!
@@ -5547,22 +5547,22 @@ ID_OF_DE_MECHANICALMARVEL_CATCHUP_SUPER,Finish strong in the milestones for <col
 ID_OF_DE_MECHANICALMARVEL_CATCHUP,Finish strong in the milestones for <color=#fff568>Forge shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>!
 ID_OF_DE_MECHANICALMARVEL_CATCHUP_LAST_CHANCE,"Catch this deal before it's too late to earn your final <color=#fff568>Forge shards</color> and <color=#fff568>fully crafted Gear Tier 17 pieces</color>! "
 ID_OF_DE_MECHANICALMARVEL_FREEDAILY,Come back daily for more <color=#fff568>Mechanical Marvel</color> progress!
-ID_OF_NA_SONICJUDGEMENT_MEGA_STARTER,Sonic Judgement: Mega Starter
-ID_OF_NA_SONICJUDGEMENT_STARTER,Sonic Judgement: Starter
-ID_OF_NA_SONICJUDGEMENT_MEGA_CATCHUP,Sonic Judgement: Mega Catch-up
-ID_OF_NA_SONICJUDGEMENT_CATCHUP,Sonic Judgement: Catch-up
-ID_OF_NA_SONICJUDGEMENT_DAILY_ORB,Sonic Judgement: Daily Orb
-ID_OF_NA_SONICJUDGEMENT_DAILY_POINTS,Sonic Judgement: Daily Points
-ID_OF_NA_SONICJUDGEMENT_DAILY_INTERSTITIAL,Sonic Judgement: Hidden Trove
-ID_OF_NA_SONICJUDGEMENT_FREECLAIM,Sonic Judgement: Free Claim
-ID_OF_DE_SONICJUDGEMENT_MEGA_STARTER,Get ahead in the <color=#fff568>Sonic Judgement</color> Milestone and Leaderboard and fast-forward your way to <color=#fff568>Quicksilver Diamonds</color> and <color=#fff568>Teal Mutant Gear</color>!
-ID_OF_DE_SONICJUDGEMENT_STARTER,Get ahead in the <color=#fff568>Sonic Judgement</color> Milestone and Leaderboard and fast-forward your way to <color=#fff568>Quicksilver Diamonds</color> and <color=#fff568>Teal Mutant Gear</color>!
-ID_OF_DE_SONICJUDGEMENT_MEGA_CATCHUP,Finish strong in the milestones and leaderboard to earn <color=#fff568>Quicksilver Diamonds</color> and <color=#fff568>Teal Mutant Gear</color>!
-ID_OF_DE_SONICJUDGEMENT_CATCHUP,Finish strong in the milestones and leaderboard to earn <color=#fff568>Quicksilver Diamonds</color> and <color=#fff568>Teal Mutant Gear</color>!
-ID_OF_DE_SONICJUDGEMENT_DAILY_ORB,Earn Superior Six shards and make progress in the Sonic Judgement milestone by collecting more <color=#fff568>Crucible Champion Orbs</color>!
-ID_OF_DE_SONICJUDGEMENT_DAILY_POINTS,Make consistent <color=#fff568>Sonic Judgement</color> progress with this daily milestone points supply!
-ID_OF_DE_SONICJUDGEMENT_DAILY_INTERSTITIAL,Get boosted <color=#fff568>Sonic Judgement</color> progress with this daily trove of resources!
-ID_OF_DE_SONICJUDGEMENT_FREECLAIM,Come back daily for more <color=#fff568>Sonic Judgement</color> progress!
+ID_OF_NA_SONICJUDGMENT_MEGA_STARTER,Sonic Judgment: Mega Starter
+ID_OF_NA_SONICJUDGMENT_STARTER,Sonic Judgment: Starter
+ID_OF_NA_SONICJUDGMENT_MEGA_CATCHUP,Sonic Judgment: Mega Catch-up
+ID_OF_NA_SONICJUDGMENT_CATCHUP,Sonic Judgment: Catch-up
+ID_OF_NA_SONICJUDGMENT_DAILY_ORB,Sonic Judgment: Daily Orb
+ID_OF_NA_SONICJUDGMENT_DAILY_POINTS,Sonic Judgment: Daily Points
+ID_OF_NA_SONICJUDGMENT_DAILY_INTERSTITIAL,Sonic Judgment: Hidden Trove
+ID_OF_NA_SONICJUDGMENT_FREECLAIM,Sonic Judgment: Free Claim
+ID_OF_DE_SONICJUDGMENT_MEGA_STARTER,Get ahead in the <color=#fff568>Sonic Judgment</color> Milestone and Leaderboard and fast-forward your way to <color=#fff568>Quicksilver Diamonds</color> and <color=#fff568>Teal Mutant Gear</color>!
+ID_OF_DE_SONICJUDGMENT_STARTER,Get ahead in the <color=#fff568>Sonic Judgment</color> Milestone and Leaderboard and fast-forward your way to <color=#fff568>Quicksilver Diamonds</color> and <color=#fff568>Teal Mutant Gear</color>!
+ID_OF_DE_SONICJUDGMENT_MEGA_CATCHUP,Finish strong in the milestones and leaderboard to earn <color=#fff568>Quicksilver Diamonds</color> and <color=#fff568>Teal Mutant Gear</color>!
+ID_OF_DE_SONICJUDGMENT_CATCHUP,Finish strong in the milestones and leaderboard to earn <color=#fff568>Quicksilver Diamonds</color> and <color=#fff568>Teal Mutant Gear</color>!
+ID_OF_DE_SONICJUDGMENT_DAILY_ORB,Earn Superior Six shards and make progress in the Sonic Judgment milestone by collecting more <color=#fff568>Crucible Champion Orbs</color>!
+ID_OF_DE_SONICJUDGMENT_DAILY_POINTS,Make consistent <color=#fff568>Sonic Judgment</color> progress with this daily milestone points supply!
+ID_OF_DE_SONICJUDGMENT_DAILY_INTERSTITIAL,Get boosted <color=#fff568>Sonic Judgment</color> progress with this daily trove of resources!
+ID_OF_DE_SONICJUDGMENT_FREECLAIM,Come back daily for more <color=#fff568>Sonic Judgment</color> progress!
 ID_OF_DE_WINTER23_CAL_CHAR,Seize this calendar for even more Character Shards this Season!
 ID_OF_DE_WINTER23_CAL_SKILLGEAR,Seize this calendar for enough <color=#fff568>Gear Tier 17 & 18 Mini-Uniques</color> to upgrade any <color=#fff568>Skill</color> character's final two gear tiers!
 ID_OF_NA_WINTERGALA_ANCHOR,Daily Snowglobe Offer

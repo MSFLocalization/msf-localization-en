@@ -3819,20 +3819,20 @@ ID_QU_S3_MECHANICALMARVEL,Collect 1 Scanalyzer
 ID_QU_S4_MECHANICALMARVEL,Collect 1 Bandolier
 ID_QU_S5_MECHANICALMARVEL,Collect 1 Scanner
 ID_QU_S6_MECHANICALMARVEL,Collect 1 Neutralizer
-ID_QU_NA_SONICJUDGEMENT,Sonic Judgement
-ID_QU_SD_SONICJUDGEMENT,"Campaign, Cosmic Crucible and Event Orbs"
-ID_QU_LD_SONICJUDGEMENT,"Spend Campaign Energy, earn Crucible Champions Orb Fragments and battle in Cosmic Crucible with Superior Six characters.\n\nRewards include: 3-Diamond Quicksilver, Dark Promotion Credits, Teal Mutant gear, Forge shards, and more!"
-ID_QU_S1_SONICJUDGEMENT,Spend 1 Campaign Energy
-ID_QU_S2_SONICJUDGEMENT,Collect 1 Crucible Champions Orb Fragment
-ID_QU_S3_SONICJUDGEMENT,Battle in Cosmic Crucible
-ID_QU_S4_SONICJUDGEMENT,Battle in Cosmic Crucible with Superior Six
-ID_QU_S5_SONICJUDGEMENT,Battle in Cosmic Crucible with Superior Six at 4YS
-ID_QU_S6_SONICJUDGEMENT,Battle in Cosmic Crucible with Superior Six at 5YS
-ID_QU_S7_SONICJUDGEMENT,Battle in Cosmic Crucible with Superior Six at 6YS
-ID_QU_S8_SONICJUDGEMENT,Battle in Cosmic Crucible with Superior Six at 7YS
+ID_QU_NA_SONICJUDGMENT,Sonic Judgment
+ID_QU_SD_SONICJUDGMENT,"Campaign, Cosmic Crucible and Event Orbs"
+ID_QU_LD_SONICJUDGMENT,"Spend Campaign Energy, earn Crucible Champions Orb Fragments and battle in Cosmic Crucible with Superior Six characters.\n\nRewards include: 3-Diamond Quicksilver, Dark Promotion Credits, Teal Mutant gear, Forge shards, and more!"
+ID_QU_S1_SONICJUDGMENT,Spend 1 Campaign Energy
+ID_QU_S2_SONICJUDGMENT,Collect 1 Crucible Champions Orb Fragment
+ID_QU_S3_SONICJUDGMENT,Battle in Cosmic Crucible
+ID_QU_S4_SONICJUDGMENT,Battle in Cosmic Crucible with Superior Six
+ID_QU_S5_SONICJUDGMENT,Battle in Cosmic Crucible with Superior Six at 4YS
+ID_QU_S6_SONICJUDGMENT,Battle in Cosmic Crucible with Superior Six at 5YS
+ID_QU_S7_SONICJUDGMENT,Battle in Cosmic Crucible with Superior Six at 6YS
+ID_QU_S8_SONICJUDGMENT,Battle in Cosmic Crucible with Superior Six at 7YS
 ID_QU_NA_MIDNIGHTMAYHEM,Midnight Mayhem
 ID_QU_SD_MIDNIGHTMAYHEM,Spend Incursion Energy
-ID_QU_LD_MIDNIGHTMAYHEM,"Spend Incursion Energy to complete this daily milestone that rewards Teal Catalysts, Elite Credits and Sonic Judgement progress!"
+ID_QU_LD_MIDNIGHTMAYHEM,"Spend Incursion Energy to complete this daily milestone that rewards Teal Catalysts, Elite Credits and Sonic Judgment progress!"
 ID_QU_S1_MIDNIGHTMAYHEM,Spend 1 Incursion Energy
 ID_QU_NA_WINTERGALA,Winter Solstice Gala
 ID_QU_SD_WINTERGALA,Collect Snowglobes to earn Diamonds rewards!

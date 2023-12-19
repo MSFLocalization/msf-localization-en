@@ -268,7 +268,6 @@ ID_GAMEMODE_GRAND_TOURNAMENT,Cosmic Crucible
 ID_GAMEMODE_RED_STARS,Red Stars
 ID_GAMEMODE_EPIC_CAMPAIGNS,Epic Campaigns
 ID_GAMEMODE_BATTLEPASS,BATTLE PASS
-ID_GAMEMODE_SURVIVALTOWER,Survival Tower
 ID_GEAR_EQUIPPED,EQUIPPED
 ID_GEAR_LEVEL_REQUIREMENT,CHARACTER LEVEL {level} REQUIRED TO EQUIP
 ID_GEAR_NEEDED_BY,Needed by
@@ -589,7 +588,6 @@ ID_TIER,TIER
 ID_TIER_LABEL,Tier {tier}
 ID_TIER_LABEL_MAX,<color={tierColor}>Tier {tier}</color> (<color={maxColor}>MAX</color> Tier reached)
 ID_TIME_REMAINING,Time Remaining: {duration}
-ID_TIME_LEFT_SIMPLE," Time left:"
 ID_TITLE_TIME_LEFT_BRACKET,<size={size}><color=#{color}>({duration} left)</color></size>
 ID_TITLE_TIME_START_BRACKET,<size={size}><color=#{color}>(Starts in {duration})</color></size>
 ID_TIME_LEFT_BRACKET,({duration} left)
@@ -1389,39 +1387,6 @@ ID_FRAME_NOVMETA23_NAME,Vibranium Plated
 ID_FRAME_NOVMETA23_UNLOCK,Via the Reverse-Engineer Event
 ID_FRAME_DECEMBER2023_NAME,Snowflake
 ID_FRAME_DECMETA23_UNLOCK,Via the Frozen Festival Event
-ID_EVENT_SURVIVAL_EVENT,Survival
-ID_SURVIVAL_TITLE,Escape from Kyln
-ID_SURVIVAL_FLOOR,<size=65%><voffset=.385em>CELL</size></voffset> {floor}
-ID_SURVIVAL_FLOOR_POINTS,{score}pts
-ID_SURVIVAL_FLOOR_POWER,<size=80%>Power</size> <color=#fff568>{power}</color>
-ID_SURVIVAL_FLOOR_CLEARED,CLEARED
-ID_SURVIVAL_SCORE_CURRENT,TOTAL: <b>{floors} Cells</b> {score}pts
-ID_SURVIVAL_SCORE_CURRENT_SINGULAR,TOTAL: <b>{floors} Cell</b> {score}pts
-ID_SURVIVAL_SCORE_BEST,BEST: <b>{floors} Cells</b> {score}pts
-ID_SURVIVAL_SCORE_BEST_SINGULAR,BEST: <b>{floors} Cell</b> {score}pts
-ID_SURVIVAL_REWARDS_HIGH_SCORE,High Score:
-ID_SURVIVAL_RUN_COMPLETED,ESCAPE COMPLETE!
-ID_SURVIVAL_NEW_HIGHSCORE,NEW HIGH SCORE!
-ID_SURVIVAL_HIGHSCORE_FLOORS,{floors} Cells:
-ID_SURVIVAL_HIGHSCORE_FLOORS_SINGULAR,{floors} Cell:
-ID_SURVIVAL_HIGHSCORE_POINTS,{score}pts
-ID_SURVIVAL_NEW_RUN,New Run
-ID_SURVIVAL_NEW_RUN_SCORE,Your score: <color=#f7941d>{floors} Cells - {score}pts</color>
-ID_SURVIVAL_NEW_RUN_SCORE_SINGULAR,Your score: <color=#f7941d>{floors} Cell - {score}pts</color>
-ID_SURVIVAL_NEW_RUN_NEW_HIGHSCORE,This is a <color=#f7941d>NEW HIGH SCORE</color>
-ID_SURVIVAL_NEW_RUN_NO_HIGHSCORE,This is not a new high score and will not be recorded
-ID_SURVIVAL_RULES_HEADER,RULES
-ID_SURVIVAL_RULES_SUBHEADER,Escape from Kyln
-ID_SURVIVAL_RULES_SUBHEADER2,
-ID_SURVIVAL_RULES_BODY,<color=#fff568>Rules to Escape Kyln</color>:\n\n1) Squads are made up of <color=#fff568>only 3 characters</color>.\n2) There's <color=#fff568>no Cooldown period</color> for characters after a battle.\n3) Character's <color=#fff568>Health</color> and <color=#fff568>Abilities</color> persist between battles.\n4) Characters can't be healed between battles.\n5) Enemy <color=#fff568>Health</color> and <color=#fff568>Ability Energy</color> in each Cell persists between battles.\n6) Completing a Cell earns a milestone reward.
-ID_SURVIVAL_VICTORY_BEST_RUN,BEST RUN
-ID_SURVIVAL_VICTORY_RUN_SCORE,RUN SCORE
-ID_SURVIVAL_VICTORY_SCORE_FLOOR,CELL {floor}:
-ID_SURVIVAL_BATTLE,BATTLE
-ID_SURVIVAL_CURRENT_FLOOR,Current Floor
-ID_SURVIVAL_EVENT_CARD_TITLE_01,ESCAPE FROM KYLN
-ID_SURVIVAL_EVENT_CARD_DESC_01,Battle through the inescapable prison!
-ID_SURVIVAL_EVENT_POPUP_DESC_01,"They say that Kyln is the ""inescapable"" intergalactic prison. It's time to find out!\n\n Select a 3-character team based on a Cell's requirements and then fight through 40 Cells of the most ruthless enemies in the galaxy to escape with rewards and freedom!"
 ID_WAR_ATTEMPTBONUS_TITLE,ATTEMPT BONUS
 ID_WAR_ATTEMPTBONUS_VALUE,<b><size=55><color=#fff798>{score}</color></size></b> of {max} PTS
 ID_WAR_ATTEMPTBONUS_VALUE_SMALL,<b><size=35><color=#f7951d>+{score}</color></size></b> PTS
@@ -1452,6 +1417,5 @@ ID_ANDROID14_CHECK_TITLE,Notice
 ID_ANDROID14_CHECK_DESC,"Pixel owners running Android 14 may experience crashing, which might be helped by manually clearing your cache."
 ID_ANDROID14_CHECK_MOREINFO,More Information
 ID_ANDROID14_CHECK_IGNORE,Ignore
-ID_NODEBOOST_GENERICDESC,This is a boost for your campaign rewards
 ID_AUDIO_RESTART_TITLE,Game Audio
 ID_AUDIO_RESTART_DESC,Audio changes will apply after restart.

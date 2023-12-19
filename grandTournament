@@ -251,7 +251,7 @@ ID_GT_S5_ROOM1_RULES_DESC,"On Defense and Offense,\n<color=#9055FF>STRIKER</colo
 ID_GT_S5_ROOM2_RULES_NAME,Temporal Shielding
 ID_GT_S5_ROOM2_RULES_DESC,"On Defense and Offense,\n<color=#fff568>Tech</color> and <color=#fff568>Skill</color> Characters: \n> When Basic is used, Gain <color=#fff568>Speed Up</color>.\n> With <color=#fff568>Speed Up</color> at the end of turn, Barrier self for <color=#86e619>20%</color> of that character's Max Health."
 ID_GT_S5_ROOM3_RULES_NAME,Corrupting Power
-ID_GT_S5_ROOM3_RULES_DESC,"On Defense and Offense,\n> Ultimate abilities cost <color=#86e619>2</color> less to use.\n> After using an Ultimate Ability, spreads all Negative Effects, excluding <color=#fff568>Bleed</color>, from self to Adjacent Allies."
+ID_GT_S5_ROOM3_RULES_DESC,"On Defense and Offense,\n> Ultimate abilities cost <color=#86e619>2</color> less to use.\n> After using an Ultimate Ability, spreads all Negative Effects from self to Adjacent Allies."
 ID_GT_S5_ROOM4_RULES_NAME,Spec Ops
 ID_GT_S5_ROOM4_RULES_DESC,"On Defense and Offense,\n> On successful Dodge, Gain <color=#fff568>Stealth</color>.\n> Characters with <color=#fff568>Stealth</color> gain +<color=#86e619>20%</color> Damage."
 ID_GT_S5_ROOM5_RULES_NAME,Mutant Immune System
