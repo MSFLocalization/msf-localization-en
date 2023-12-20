@@ -3768,7 +3768,7 @@ ID_QU_S2_ICECOLDCRUCIBLE,Earn 1 Allied Supply II Orb Fragment
 ID_QU_S3_ICECOLDCRUCIBLE,Earn 1 Alliance Credit
 ID_QU_NA_FROSTYFAMILYGATHERING,Frosty Family Gathering
 ID_QU_SD_FROSTYFAMILYGATHERING,"Earn X-Treme Orbs, Battle in Blitz, and spend Power Cores"
-ID_QU_LD_FROSTYFAMILYGATHERING,"Frosty Family Gathering Milestone\nGain progress in this 7-day event by battling in Blitz battles (with bonuses for using Superior Six and Nightcrawler), spending Power Cores, and earning special X-Treme Orbs found in limited time offers and the web. Earn X-cellent rewards including Nightcrawler shards, Diamond Dawn Orb Fragments, and Teal Mutant gear. You'll also earn points towards the month-long Frozen Festival milestone by collecting Spectacular Snowflakes and the Uncanny X-Cap.\n\nLearderboard\nReach the top of the leaderboard for X-clusive rewards including a 3 Diamond promotion for Nightcrawler!\n\nDaily Winter Whirlwind Web Milestone\nEarn Blitz Credits and get rewarded with Cold Hard Cash for the Frozen Festival Event Store and progress in the Frosty Family Gathering."
+ID_QU_LD_FROSTYFAMILYGATHERING,"Frosty Family Gathering Milestone\nGain progress in this 7-day event by battling in Blitz battles (with bonuses for using Superior Six), spending Power Cores, and earning special X-Treme Orbs found in limited time offers and the web. Earn X-cellent rewards including Nightcrawler shards, Diamond Dawn Orb Fragments, and Teal Mutant gear. You'll also earn points towards the month-long Frozen Festival milestone by collecting Spectacular Snowflakes and the Uncanny X-Cap.\n\nLearderboard\nReach the top of the leaderboard for X-clusive rewards including a 3 Diamond promotion for Nightcrawler!\n\nWinter Whirlwind Web Milestone\nEarn Blitz Credits and get rewarded with Cold Hard Cash for the Frozen Festival Event Store and progress in the Frosty Family Gathering."
 ID_QU_S1_FROSTYFAMILYGATHERING,Play 1 Blitz Battle
 ID_QU_S2_FROSTYFAMILYGATHERING,Play 1 Blitz Battle with a Superior Six character
 ID_QU_S3_FROSTYFAMILYGATHERING,Play 1 Blitz Battle with Kraven the Hunter at 6+ Stars
@@ -3778,9 +3778,9 @@ ID_QU_S6_FROSTYFAMILYGATHERING,Play 1 Blitz Battle with Spider-Slayer at 7 Stars
 ID_QU_S7_FROSTYFAMILYGATHERING,Play 1 Blitz Battle with Lizard at 6+ Stars
 ID_QU_S8_FROSTYFAMILYGATHERING,Play 1 Blitz Battle with Lizard at 7 Stars
 ID_QU_S9_FROSTYFAMILYGATHERING,Play 1 Blitz Battle with Nightcrawler
-ID_QU_S10_FROSTYFAMILYGATHERING,Play 1 Blitz Battle with Nightcrawler at 5+ Stars
-ID_QU_S11_FROSTYFAMILYGATHERING,Play 1 Blitz Battle with Nightcrawler at 6+ Stars
-ID_QU_S12_FROSTYFAMILYGATHERING,Play 1 Blitz Battle with Nightcrawler at 7 Stars
+ID_QU_S10_FROSTYFAMILYGATHERING,Play 1 Blitz Battle with Green Goblin (Classic) at 5+ Stars
+ID_QU_S11_FROSTYFAMILYGATHERING,Play 1 Blitz Battle with Green Goblin (Classic) at 6+ Stars
+ID_QU_S12_FROSTYFAMILYGATHERING,Play 1 Blitz Battle with Green Goblin (Classic) at 7 Stars
 ID_QU_S13_FROSTYFAMILYGATHERING,Spend 1 Power Core
 ID_QU_S14_FROSTYFAMILYGATHERING,Earn 1 X-Treme Orb Fragment
 ID_QU_NA_WINTERWHIRLWIND,Winter Whirlwind
@@ -3795,21 +3795,21 @@ ID_QU_S2_ARCTICASSAULT,Earn 1 Allied Supply II Orb Fragment
 ID_QU_S3_ARCTICASSAULT,Earn 1 Alliance Credit
 ID_QU_NA_ICYX-TRAVAGANZA,Icy X-Travaganza
 ID_QU_SD_ICYX-TRAVAGANZA,Spend Campaign Energy and Battle in Raids
-ID_QU_LD_ICYX-TRAVAGANZA,"Icy X-Travaganza Milestone\nGain progress in this 6-day event by spending Campaign Energy and playing Raid battles (with a bonus for using the X-Treme X-men). Earn increased progress for using the X-Treme X-Men at higher Gear Tiers. Earn X-citing rewards including X-Men shards, Diamond Dawn Orb Fragments, and Teal Mutant gear. You'll also earn points towards the month-long Frozen Festival milestone by collecting Spectacular Snowflakes and the Ruby Snow Goggles.\n\nPolar Power Web Milestone\nSpend Power Cores to power up your roster and get Milestone Points for additional progress in the Icy X-Travaganza Milestone and Cold Hard Cash for the Frozen Festival Event Store!"
+ID_QU_LD_ICYX-TRAVAGANZA,"Icy X-Travaganza Milestone\nGain progress in this 6-day event by spending Campaign Energy and playing Raid battles (with a bonus for using the X-Treme X-men). Earn increased progress for using the X-Treme X-Men at higher Gear Tiers. Earn X-citing rewards including Cyclops shards, Diamond Dawn Orb Fragments, and Teal Mutant gear. You'll also earn points towards the month-long Frozen Festival milestone by collecting Spectacular Snowflakes and the Ruby Snow Goggles.\n\nPolar Power Daily Web Milestone\nEarn Alliance Credits to gain Milestone Points for additional progress in the Icy X-Travaganza Milestone and Cold Hard Cash for the Frozen Festival Event Store!"
 ID_QU_S1_ICYX-TRAVAGANZA,Spend 1 Campaign Energy
 ID_QU_S2_ICYX-TRAVAGANZA,Play 1 Raid Battle
 ID_QU_S3_ICYX-TRAVAGANZA,Play 1 Raid Battle w/ X-Treme X-Men
-ID_QU_S4_ICYX-TRAVAGANZA,Play 1 Raid Battle w/ Nightcrawler at Gear Tier 16+
+ID_QU_S4_ICYX-TRAVAGANZA,Play 1 Raid Battle w/ Nightcrawler at Gear Tier 17+
 ID_QU_S5_ICYX-TRAVAGANZA,Play 1 Raid Battle w/ Nightcrawler at Gear Tier 18
-ID_QU_S6_ICYX-TRAVAGANZA,Play 1 Raid Battle w/ Forge at Gear Tier 16+
+ID_QU_S6_ICYX-TRAVAGANZA,Play 1 Raid Battle w/ Forge at Gear Tier 17+
 ID_QU_S7_ICYX-TRAVAGANZA,Play 1 Raid Battle w/ Forge at Gear Tier 18
-ID_QU_S8_ICYX-TRAVAGANZA,Play 1 Raid Battle w/ Sunspot at Gear Tier 16+
+ID_QU_S8_ICYX-TRAVAGANZA,Play 1 Raid Battle w/ X-Treme X-Men at Gear Tier 16+
 ID_QU_S9_ICYX-TRAVAGANZA,Play 1 Raid Battle w/ Sunspot at Gear Tier 18
 ID_QU_S10_ICYX-TRAVAGANZA,Earn 1 Raid Credit
 ID_QU_NA_POLARPOWER,Polar Power
-ID_QU_SD_POLARPOWER,Spend Power Cores
-ID_QU_LD_POLARPOWER,Spend Power Cores to complete this milestone that rewards Icy X-Travaganza progress and Cold Hard Cash for the Frozen Festival Event Store!
-ID_QU_S1_POLARPOWER,Spend 1 Power Core
+ID_QU_SD_POLARPOWER,Earn Alliance Credits
+ID_QU_LD_POLARPOWER,Earn Alliance Credits to complete this daily milestone that rewards Icy X-Travaganza progress and Cold Hard Cash for the Frozen Festival Event Store!
+ID_QU_S1_POLARPOWER,Earn 1 Alliance Credit
 ID_QU_NA_MECHANICALMARVEL,Mechanical Marvel
 ID_QU_SD_MECHANICALMARVEL,Participate in January Events
 ID_QU_LM_MECHANICALMARVEL,Participate in various events throughout the month of January to earn milestone progress.
