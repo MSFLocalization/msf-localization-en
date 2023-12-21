@@ -326,7 +326,7 @@ ID_LOGIN_DE_NY2024_CATALYSTDPC_CAL,Celebrate the end of the year with a daily sh
 ID_LOGIN_NA_NY2024_MUTANTGEAR_CAL,Augmented Mutations
 ID_LOGIN_DE_NY2024_MUTANTGEAR_CAL,Login daily to collect <color=#fff568>Mutant Gear Tier 17 & 18 Mini-Uniques</color> with this calendar special!
 ID_LOGIN_NA_NY2024_BLACKCATORB_CAL,Black Cat's Call
-ID_LOGIN_DE_NY2024_BLACKCATORB_CAL,Bolster your arena ranking with login rewards like <color=#fff568>Black Cat Orbs</color> and <color=#fff568>Promotion Credits</color!
+ID_LOGIN_DE_NY2024_BLACKCATORB_CAL,Bolster your arena ranking with login rewards like <color=#fff568>Black Cat Orbs</color> and <color=#fff568>Promotion Credits</color>!
 ID_LOGIN_NA_NY2024_NIGHTCRAWLER_CAL,X-treme Value
 ID_LOGIN_DE_NY2024_NIGHTCRAWLER_CAL,Login daily for shards of <color=#fff568>Nightcrawler</color> along with <color=#fff568>Dark & Gold Promotion Credits</color>!
 ID_LOGIN_NA_NY2024_TRAININGGOLD_CAL,Training Resolution
@@ -701,3 +701,5 @@ ID_LOGIN_WINTER_2023_DE,Log in every day to earn seasonal rewards!
 ID_LOGIN_DE_WELCOME_V2_VAR1,"Log in daily to unlock Deadpool, Thor, and Daredevil!"
 ID_LOGIN_DE_WELCOME_V2_VAR2,"Log in daily to unlock Deadpool, Thor, Iron Fist, Daredevil, and Jessica Jones!"
 ID_LOGIN_DE_WELCOME_V2_VAR3,"Log in daily to unlock Deadpool, Thor, and Iron Fist!"
+ID_LOGIN_NA_CAMPAIGNECHO,Echo Welcome Calendar!
+ID_LOGIN_DE_CAMPAIGNECHO,Log in every day to recruit Echo!!
