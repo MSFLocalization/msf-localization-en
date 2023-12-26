@@ -5475,8 +5475,8 @@ ID_OF_DE_NY2024_LIM212WKFCDARKHAWKT17MINI,Pick up Darkhawk <color=#fff568>Gear T
 ID_OF_DE_NY2024_LIM3BOOSTISOGOLD,"Give anyone a super human boost with a triple combo offer of the essentials like <color=#fff568>Gold, T4 Training Modules, and T2 Level 5 Ions</color>! <color=#ffda21>Greater than {var1}x value</color>!"
 ID_OF_DE_NY2024_LIM5BOOSTELITE7ISO,Bring your roster into the multiverse elite with a huge <color=#fff568>T2 Level 5 Ions and Elite 7 Credit</color> limited time offer. <color=#ffda21>Greater than {var1}x value</color>!
 ID_OF_DE_NY2024_LIM10COMBOTRAINE7CREDIT,Promote and train up your roster with this limited time offer. <color=#ffda21>Greater than {var1}x value</color>!
-ID_OF_DE_NY2024_LIM10DUAL1ASECRETDEFA17TRAINING,Solidify your arena rank with this <color=#fff568>Secret Defender</color> offer! <color=#ffda21>Greater than {var1}x value</color>!
-ID_OF_DE_NY2024_LIM10DUAL1BSECRETDEF,Solidify your arena rank with this <color=#fff568>Secret Defender</color> offer! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM10DUAL1ASECRETDEFA17TRAINING,Solidify your arena rank with this <color=#fff568>Secret Defender</color> offer! <color=#ffda21>Greater than 3x value</color>!
+ID_OF_DE_NY2024_LIM10DUAL1BSECRETDEF,Solidify your arena rank with this <color=#fff568>Secret Defender</color> offer! <color=#ffda21>Greater than 3x value</color>!
 ID_OF_DE_NY2024_LIM7DLOGINNIGHTCRAWLERXMEN,Get <color=#fff568>Nightcrawler</color> along with <color=#fff568>Dark & Gold Promotion Credits</color>! <color=#ffda21>{var1}x value</color>!
 ID_OF_DE_NY2024_LIM5COMBOMUTANTMINIST2L5,Gain essential <color=#fff568>Mutant</color> gear and raise the ISO level of your <color=#fff568>Mutant</color> roster today! <color=#ffda21>Greater than {var1}x value</color>!
 ID_OF_DE_NY2024_LIM5KRAVENGOLDREDSTAR,The perfect prey has appeared! Empower <color=#fff568>Kraven</color> to become the apex predator he yearns to be and capture this huge offer before it springs away!<color=#ffda21>Greater than {var1}x value</color>!
@@ -5503,10 +5503,10 @@ ID_OF_DE_NY2024_LIM10GOLDGPCA17,Boost <color=#fff568>Gold</color> reserves while
 ID_OF_DE_NY2024_LIM4BOOSTTRAININGGOLD,Build up your reserves of <color=#fff568>Gold and L4 Training Modules</color> using this mega savings offer. <color=#ffda21>Greater than {var1}x value</color>!
 ID_OF_DE_NY2024_LIM39WKFCSPIDERSLAYERTRAINING,Spider Slayer's obsessive pilot will stop at nothing to do what his name says and this time-limited offer can help speed that up! <color=#ffda21>Greater than {var1}x value</color>!
 ID_OF_DE_NY2024_LIM10WEBTEALCATA18RERUN,Grow above your obstacles with this high value catalyst offer to celebrate entry into the New Year! <color=#ffda21>Greater than {var1}x value</color>!
-ID_OF_DE_NY2024_LIM5DUAL3AMUTANTMINIS,"Evolve XMEN like <color=#fff568>Nightcrawler, Rogue, Phoenix, Jubilee</color> & more! <color=#ffda21>Greater than {var1}x value</color>!"
-ID_OF_DE_NY2024_LIM5DUAL3BMUTANTUNIQUES,"Evolve XMEN like <color=#fff568>Nightcrawler, Rogue, Phoenix, Jubilee</color> & more! <color=#ffda21>Greater than {var1}x value</color>!"
-ID_OF_DE_NY2024_LIM3DUAL2AA18DPC,Choose bonus <color=#fff568>Armory Orbs or Promotion Credits</color> in this special offer! <color=#ffda21>Greater than {var1}x value</color>!
-ID_OF_DE_NY2024_LIM3DUAL2BA18GPC,Choose bonus <color=#fff568>Armory Orbs or Promotion Credits</color> in this special offer! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_NY2024_LIM5DUAL3AMUTANTMINIS,"Evolve XMEN like <color=#fff568>Nightcrawler, Rogue, Phoenix, Jubilee</color> & more! <color=#ffda21>Greater than 3x value</color>!"
+ID_OF_DE_NY2024_LIM5DUAL3BMUTANTUNIQUES,"Evolve XMEN like <color=#fff568>Nightcrawler, Rogue, Phoenix, Jubilee</color> & more! <color=#ffda21>Greater than 3x value</color>!"
+ID_OF_DE_NY2024_LIM3DUAL2AA18DPC,Choose bonus <color=#fff568>Armory Orbs or Promotion Credits</color> in this special offer! <color=#ffda21>Greater than 3x value</color>!
+ID_OF_DE_NY2024_LIM3DUAL2BA18GPC,Choose bonus <color=#fff568>Armory Orbs or Promotion Credits</color> in this special offer! <color=#ffda21>Greater than 3x value</color>!
 ID_OF_DE_NY2024_LIM5INVADERSGPC,Build up or finish off your Invader team to crush raids and make a difference in your alliance activities! <color=#ffda21>Greater than {var1}x value</color>!
 ID_OF_DE_NY2024_LIM5GWENFIRESTARUNIQ,"Break all walls and barriers with more <color=#fff568>Shards, Unique Gear, and more</color> for <color=#fff568>Gwenpool & Firestar</color> with a limited time special offer. <color=#ffda21>Greater than {var1}x value</color>!"
 ID_OF_DE_NY2024_LIM4ISORS,"Get an overload of <color=#fff568>T2 Ions</color>, along with <color=#fff568>Dark & Gold Promotion Credits</color>, to bring your collection power through the multiversal planar barrier today! <color=#ffda21>Greater than {var1}x value</color>!"
@@ -5569,3 +5569,15 @@ ID_OF_NA_WINTERGALA_ANCHOR,Daily Snowglobe Offer
 ID_OF_DE_WINTERGALA_ANCHOR,"Refill on Snowglobes to make progress in the premium <color=#fff568>Winter Solstice Gala Milestone</color>! Earn Diamond rewards, T4 Ability Materials and more!"
 ID_OF_NA_WINTERGALA_LASTCHANCE,Winter Solstice Gala: Last Chance
 ID_OF_DE_WINTERGALA_LASTCHANCE,Finish strong in the premium <color=#fff568>Winter Solstice Gala Milestone</color> for Diamond rewards and more!
+ID_OF_NA_COUNTDOWNEXTRAVAGANZA_ANCHOR,Daily Sparkler Offer
+ID_OF_DE_COUNTDOWNEXTRAVAGANZA_ANCHOR,"Refill on Sparklers to make progress in the premium <color=#fff568>Grand Countdown Milestone</color>! Earn Diamond rewards, T4 Ability Materials and more!"
+ID_OF_NA_COUNTDOWNEXTRAVAGANZA_LASTCHANCE,Grand Countdown: Last Chance
+ID_OF_DE_COUNTDOWNEXTRAVAGANZA_LASTCHANCE,Finish strong in the premium <color=#fff568>Grand Countdown Milestone</color> for Diamond rewards and more!
+ID_OF_NA_SONICJUDGMENT_WEB_SPECIAL,Sonic Judgment Web Special
+ID_OF_NA_SONICJUDGMENT_SUP6,Sonic Judgment: Superior Six
+ID_OF_NA_SONICJUDGMENT_DAILY_ENERGY,Sonic Judgment: Daily Energy
+ID_OF_NA_SONICJUDGMENT_W1_INCURSION_ENERGY,Sonic Judgment: Daily Incursion Energy
+ID_OF_NA_SONICJUDGMENT_FCF,Free Claim Friday!
+ID_OF_NA_SONICJUDGMENT_FCF_INTERSTITIAL,Friday Mega Deal
+ID_OF_DE_SONICJUDGMENT_GENERIC,"Claim this mega deal to get ahead in the <color=#fff568>Sonic Judgment</color> Milestone and Leaderboard, and fast-forward your way to <color=#fff568>Quicksilver Diamonds</color> and <color=#fff568>Teal Mutant Gear</color>!"
+ID_OF_DE_SONICJUDGMENT_DAILY_ENERGY,Get your daily energy fix to get ahead in the <color=#fff568>Sonic Judgment</color> Milestone!
