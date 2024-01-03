@@ -8024,6 +8024,18 @@ ID_ME_BO_SONICJUDGMENT_CORE,"Commander,\n\nGet ready for the ultimate Cosmic Cru
 ID_ME_NA_SONICJUDGMENT_ANNOUNCE,LIVE: Sonic Judgment
 ID_ME_NA_SONICJUDGMENT_ENDING,Ending Soon: Sonic Judgment
 ID_ME_DE_SONICJUDGMENT_ENDING,Don't miss out on a 3-Diamond Quicksilver!
+ID_ME_NA_STRIKEPASS50_ANNOUNCE,S.T.R.I.K.E. Pass: Season 50
+ID_ME_DE_STRIKEPASS50_ANNOUNCE,"Earn Iron Man (Infinity War), Tigra and Star-Lord (Annihilation) shards!"
+ID_ME_BO_STRIKEPASS50_ANNOUNCE,"Commander,\n\n<color=#fff568>S.T.R.I.K.E. Pass: Season 50 is live!</color>\n\nFeatured Character Shards: <color=#fff568>Iron Man (Infinity War), Tigra and Star-Lord (Annihilation)</color>\n<color=#fff568>How it Works</color>\n- Certain Daily Objectives reward S.T.R.I.K.E. Tokens\n- Earn S.T.R.I.K.E. Tokens to hit Season-long milestone rewards\n- You can also spend Power Cores to immediately reach the next S.T.R.I.K.E. Level\n- Your S.T.R.I.K.E. Level resets each Season\n\n<color=#fff568>Reward Tiers</color>\n- Commander Level determines your S.T.R.I.K.E. Pass Tier & Rewards\n- S.T.R.I.K.E. I: Commander Levels 10-49\n- S.T.R.I.K.E. II: Commander Levels 50-79\n- S.T.R.I.K.E. III: Commander Levels 80+\n- Your Commander Level at the START of the season determines which S.T.R.I.K.E. Pass Tier you get for the duration of the Season\n\n<color=#fff568>Premium S.T.R.I.K.E. Pass</color>\nUpgrade to the <color=#fff568>Premium S.T.R.I.K.E. Pass</color> to earn additional rewards for reaching each S.T.R.I.K.E. Level."
+ID_ME_NA_STRIKEPASS50_ENDING,Ending: S.T.R.I.K.E. Pass
+ID_ME_DE_STRIKEPASS50_ENDING,"Don't miss Iron Man (Infinity War), Tigra and Star-Lord (Annihilation) shards!"
+ID_ME_BO_STRIKEPASS50_ENDING,"Commander,\n\nYou only have <color=#fff568>2 days</color> remaining to earn <color=#fff568>Iron Man (Infinity War), Tigra and Star-Lord (Annihilation)</color> shards in Season 50 of S.T.R.I.K.E. Pass.\n\nHurry and complete your Daily Objectives before these rewards are gone!"
+ID_ME_NA_BATTLEPASS_SEASON12_ANNOUNCE,Battle Pass: Season 12
+ID_ME_DE_BATTLEPASS_SEASON12_ANNOUNCE,Earn Darkhawk shards & Teal gear!
+ID_ME_BO_BATTLEPASS_SEASON12_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle pass: Season 12 is LIVE</color>!\n\nComplete this Season's Daily and Weekly Objectives to win these <color=#fff568>Featured Prizes</color>:\n- Darkhawk shards\n- Teal Gear\n\nUpgrade to the <color=#fff568>Premium Pass</color> to earn even more rewards.\n\nCharge into Battle Pass: Season 11 today!"
+ID_ME_NA_BATTLEPASS_SEASON12_ENDING,Season 12 Ending Soon
+ID_ME_DE_BATTLEPASS_SEASON12_ENDING,Battle Pass: 2 more days!
+ID_ME_BO_BATTLEPASS_SEASON12_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Darkhawk shards and Teal Gear before the Season ends!"
 ID_ME_BO_SONICJUDGMENT_ENDING,"Commander,\n\nThe <color=#fff568>Sonic Judgment Milestone</color> event <color=#fff568>ends soon</color>. Continue making progress to earn <color=#fff568>a 3-Diamond Quicksilver, Dark Promotion Credits, and X-Batteries</color>! \n\nDon't miss out on this opportunity, Commander!"
 ID_ME_NA_WINTERGALA_ANNOUNCE,LIVE: Winter Solstice Gala
 ID_ME_DE_WINTERGALA_ANNOUNCE,Claim holiday deals to earn bonus rewards!
