@@ -3834,6 +3834,18 @@ ID_QU_NA_MIDNIGHTMAYHEM,Midnight Mayhem
 ID_QU_SD_MIDNIGHTMAYHEM,Spend Incursion Energy
 ID_QU_LD_MIDNIGHTMAYHEM,"Spend Incursion Energy to complete this daily milestone that rewards Teal Catalysts, Elite Credits and Sonic Judgment progress!"
 ID_QU_S1_MIDNIGHTMAYHEM,Spend 1 Incursion Energy
+ID_QU_NA_SOLARSCHEMATICS,Solar Schematics
+ID_QU_SD_SOLARSCHEMATICS,Earn Solar Schematic Orbs and play War Battles
+ID_QU_LD_SOLARSCHEMATICS,"Earn Solar Schematic Orb Fragments from Iso-8 Campaign nodes, battle in War, use Superior Six characters in War, and complete the X-Treme Heat Web Milestone."
+ID_QU_S1_SOLARSCHEMATICS,Earn 1 Solar Schematic Orb Fragment
+ID_QU_S2_SOLARSCHEMATICS,Win/Lose 1 War Battle
+ID_QU_S3_SOLARSCHEMATICS,Win/Lose 1 War Battle with Superior Six
+ID_QU_S4_SOLARSCHEMATICS,Win/Lose 1 War Battle with Superior Six at Gear Tier 17+
+ID_QU_S5_SOLARSCHEMATICS,Win/Lose 1 War Battle with Superior Six at Gear Tier 18
+ID_QU_NA_X-TREMEHEAT,X-Treme Heat
+ID_QU_SD_X-TREMEHEAT,Earn Blitz Credits
+ID_QU_LD_X-TREMEHEAT,Earn Blitz Credits to complete this milestone that rewards Solar Schematic Orb Fragments and bonus progress in the Solar Schematics milestone!
+ID_QU_S1_X-TREMEHEAT,Earn 1 Blitz Credit
 ID_QU_NA_WINTERGALA,Winter Solstice Gala
 ID_QU_SD_WINTERGALA,Collect Snowglobes to earn Diamonds rewards!
 ID_QU_LD_WINTERGALA,"To progress in this premium milestone, collect Snowglobes in special holiday offers and spend Ultra Cores.\n\nRewards include:\n- Diamond Champions Orb (guaranteed top 3-Diamond character)\n- Silver Diamond Credits\n- Diamond Orbs\n- Character Shards for Superior Six, Secret Defenders and New Avengers\n- T4 Ability Materials\n- Gold\n- L4 Training Modules\n- And more!"
