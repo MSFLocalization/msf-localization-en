@@ -2549,6 +2549,8 @@ ID_MOTD_DE_NIGHTCRAWLER_TEASER,Dazzle opponents with acrobatic antics in Raids!
 ID_MOTD_NA_NIGHTCRAWLER_ANNOUNCE,Nightcrawler is here!
 ID_MOTD_DE_NIGHTCRAWLER_ANNOUNCE,Dazzle opponents with acrobatic antics in Raid!
 ID_MOTD_DE_NIGHTCRAWLER_ANNOUNCE2,Open the Bamf! Orb to earn shards for this Brawling Bamf!
+ID_MOTD_NA_ESCAPEFROMKYLN_LIVE,LIVE: Escape from Kyln
+ID_MOTD_DE_ESCAPEFROMKYLN_LIVE,"Battle through 40 Cells for Mini-Uniques, Diamonds, and more!"
 ID_MOTD_NA_XTXM_PREVIEW,COMING SOON: X-Tremely Sinister
 ID_MOTD_DE_XTXM_PREVIEW,Earn rewards by battling with the X-Treme X-Men!
 ID_MOTD_NA_XTXM_LIVE,LIVE: X-Tremely Sinister
@@ -2583,6 +2585,10 @@ ID_MOTD_NA_RIMEICERAIDERS_ANNOUNCE,Web Milestone: Rime Ice Raiders
 ID_MOTD_DE_RIMEICERAIDERS_ANNOUNCE,Battle in Raids and reap more rewards on the web!
 ID_MOTD_NA_ICECOLDCRUCIBLE_ANNOUNCE,Live: Ice Cold Crucible
 ID_MOTD_DE_ICECOLDCRUCIBLE_ANNOUNCE,Battle in Cosmic Crucible for golden rewards!
+ID_MOTD_NA_WINTERGALA_ANNOUNCE,LIVE: Winter Solstice Gala
+ID_MOTD_DE_WINTERGALA_ANNOUNCE,Earn Diamonds in this premium milestone!
+ID_MOTD_NA_COUNTDOWNEXTRAVAGANZA_ANNOUNCE,LIVE: Grand Countdown
+ID_MOTD_DE_COUNTDOWNEXTRAVAGANZA_ANNOUNCE,Earn Diamonds in this premium milestone!
 ID_MOTD_NA_FORGE_TEASER,Soon: Forge
 ID_MOTD_DE_FORGE_TEASER,Support allies with a newly tinkered arsenal!
 ID_MOTD_NA_FORGE_ANNOUNCE,Forge is here!
@@ -2627,7 +2633,3 @@ ID_MOTD_NA_SOLARSCHEMATICS_ENDING,Ending Soon: Solar Schematics
 ID_MOTD_DE_SOLARSCHEMATICS_ENDING,Unlock Sunspot and earn Teal Mutant gear now!
 ID_MOTD_NA_X-TREMEHEAT_ANNOUNCE,Web Milestone: X-Treme Heat
 ID_MOTD_DE_X-TREMEHEAT_ANNOUNCE,Link your account to earn more rewards on web!
-ID_MOTD_NA_WINTERGALA_ANNOUNCE,LIVE: Winter Solstice Gala
-ID_MOTD_DE_WINTERGALA_ANNOUNCE,Earn Diamonds in this premium milestone!
-ID_MOTD_NA_COUNTDOWNEXTRAVAGANZA_ANNOUNCE,LIVE: Grand Countdown
-ID_MOTD_DE_COUNTDOWNEXTRAVAGANZA_ANNOUNCE,Earn Diamonds in this premium milestone!

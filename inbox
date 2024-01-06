@@ -7899,6 +7899,15 @@ ID_ME_BO_NIGHTCRAWLER_RS_ENDING,"Commander,\n\n<color=#fff568>Nightcrawler</colo
 ID_ME_NA_NIGHTCRAWLER_ORB_ENDING,Bamf! Orb
 ID_ME_DE_NIGHTCRAWLER_ORB_ENDING,2 days left!
 ID_ME_BO_NIGHTCRAWLER_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Bamf! Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Nightcrawler</color> for your <color=#fff568>X-Treme X-Men</color> team and Dazzle opponents with acrobatic antics in Raid!"
+ID_ME_NA_ESCAPEFROMKYLN_TEASER,Coming Soon: Escape from Kyln
+ID_ME_DE_ESCAPEFROMKYLN_TEASER,Can you escape the inescapable prison?
+ID_ME_BO_ESCAPEFROMKYLN_TEASER,"Commander,\n\nYou're urgently needed for this upcoming mission: \n\n<color=#fff568>Escape from Kyln</color>!\n\nBattle through 40 Cells of this intergalactic prison that houses the most ruthless enemies in the galaxy and <color=#fff568>roster-changing resources</color>.\n\nYou'll be using squads composed of only <color=#fff568>3 characters</color>, so begin strategizing teams!"
+ID_ME_NA_ESCAPEFROMKYLN_ANNOUNCE,LIVE: Escape from Kyln
+ID_ME_DE_ESCAPEFROMKYLN_ANNOUNCE,Battle through 40 Cells for rewards!
+ID_ME_BO_ESCAPEFROMKYLN_ANNOUNCE,"Commander,\n\nIt's time to <color=#fff568>Escape from Kyln</color>!\n\nDon't miss this epic prison break:\n\n<color=#fff568>Escape Plan</color>\nBattle through <color=#fff568>40 Cells</color> using <color=#fff568>3-character squads</color> that are based on a Cell's <color=#fff568>requirements</color>.\n\n<color=#fff568>Prison Rules</color>\n1) Squads are made up of only 3 characters.\n2) No Cooldown period for characters after a battle.\n3) Health and Abilities persist between battles for players and enemies.\n4) Characters can't be healed between battles.\n5) You'll remain in the same Cell after losing a battle (not drop down).\n6) Completing a Cell earns a milestone reward.\n\n<color=#fff568>Rewards for Escaping</color>\nBreak free from as many Cells as possible to earn Mini-Uniques for Gear Tiers 16, 17, and 18, Gold, L4 Training Modules, and character shards, Red Sars, and Diamonds for Gambit!\n\nGood luck, Commander!"
+ID_ME_NA_ESCAPEFROMKYLN_ENDING,Ending: Escape from Kyln
+ID_ME_DE_ESCAPEFROMKYLN_ENDING,3 days left
+ID_ME_BO_ESCAPEFROMKYLN_ENDING,"Commander,\n\nThe <color=#fff568>Escape from Kyln</color> event ends in <color=#fff568>3 days</color>. Continue battling through Cells and earning rewards before it's too late!\n\nGood luck, Commander!\n"
 ID_ME_NA_PREVIEW_XTXM,COMING SOON: X-Tremely Sinister
 ID_ME_DE_PREVIEW_XTXM,X-Treme X-men Showcase
 ID_ME_BO_PREVIEW_XTXM,"Commander,\n\nThe <color=#fff568>X-TREME X-MEN</color>'s Showcase Event is coming soon! Learn about this exciting new raid team that includes all-new characters <color=#fff568>NIGHTCRAWLER</color>, <color=#fff568>FORGE</color>,and <color=#fff568>SUNSPOT</color>, as well as <color=#fff568>CYCLOPS</color> and <color=#fff568>GAMBIT</color> who have been updated. Participate in the <color=#fff568>X-TREMELY SINISTER</color> event to earn amazing rewards and unravel the mystery of who is sending super-powered clones to attack X-Men teams across the world.\n\nThis event is a new type of Showcase that runs for a longer time and includes a new difficulty tier thematically named after the team to provide even more opportunities to earn rewards. See the requirements below!\n\nRequirements\nStory Difficulty - Any combination of 5 <color=#fff568>X-TREME X-MEN</color> and/or <color=#fff568>SECRET DEFENDER</color> characters.\n\nChallenge Difficulty - Nightcrawler, Forge, and Sunspot are required to complete all missions, and bring any X-Treme X-men or Secret Defender characters to fill the other spots on the team. .\n\nX-Treme Difficulty - Requires 5 X-Treme X-men at Gear Tier 14, 4 Yellow Stars\n\nBonus Difficulty - Requires 5 X-Treme X-men characters at Gear Tier 16, 6 Yellow Stars\n\nGet ready, Commander!"
@@ -7962,6 +7971,18 @@ ID_ME_BO_HOLIDAYGIFT2023,"Seasons Greetings Commander,\n\nThank you for playing 
 ID_ME_NA_760PATCHNOTES_ANNOUNCE,The Latest Update has Arrived!
 ID_ME_DE_760PATCHNOTES_ANNOUNCE,7.6.0 Release Notes
 ID_ME_BO_760PATCHNOTES_ANNOUNCE,"Commander,\n\nSmash and grab Raid completions with the upcoming X-Treme X-Men and Hive Mind teams!\n\nNew over the course of this release:\n- New playable characters: Nightcrawler, Sunspot, Forge, Gwenom, and Void Knight\n- Ability and Stat Improvements for: Gambit, Cyclops, Venom, and Carnage\n- New Costume: Echo's ""Family Legacy""\n- And more!\n\nAccess the full briefing on the MARVEL Strike Force website."
+ID_ME_NA_WINTERGALA_ANNOUNCE,LIVE: Winter Solstice Gala
+ID_ME_DE_WINTERGALA_ANNOUNCE,Claim holiday deals to earn bonus rewards!
+ID_ME_BO_WINTERGALA_ANNOUNCE,"Commander,\n\nIt's time for the <color=#fff568>Winter Solstice Gala</color>!\n\nScore points toward this 8-day premium milestone by collecting <color=#fff568>Snowglobes</color> in special holiday offers.\n\nRewards include:\n- Diamond Champions Orb (guaranteed top 3-Diamond character)\n- Silver Diamond Credits\n- Diamond Orbs\n- Character Shards for Superior Six, Secret Defenders and New Avengers\n- T4 Ability Materials\n- Gold\n- L4 Training Modules\n- And more!\n\nGood luck on your journey and stay frosty!"
+ID_ME_NA_WINTERGALA_ENDING,Ending Soon: Winter Solstice Gala
+ID_ME_DE_WINTERGALA_ENDING,2 days left to unwrap rewards!
+ID_ME_BO_WINTERGALA_ENDING,"Commander,\n\nThe Winter Solstice Gala premium milestone ends in <color=#fff568>2 days</color>. Continue collecting Snowglobes and finish the milestone before it's too late!\n\nGood luck, Commander!"
+ID_ME_NA_COUNTDOWNEXTRAVAGANZA_ANNOUNCE,LIVE: Grand Countdown
+ID_ME_DE_COUNTDOWNEXTRAVAGANZA_ANNOUNCE,Claim holiday deals to earn extra rewards!
+ID_ME_BO_COUNTDOWNEXTRAVAGANZA_ANNOUNCE,"Commander,\n\nIt's time to count down to the New Year with the <color=#fff568>Grand Countdown</color> event!\n\nScore points toward this 12-day premium milestone by collecting <color=#fff568>Sparklers</color> in special holiday offers.\n\nRewards include:\n- Diamond Champions Orb (guaranteed top 3-Diamond character)\n- Silver Diamond Credits\n- Diamond Orbs\n- T4 Ability Materials\n- Gold\n- L4 Training Modules\n- And more!\n\nGood luck, Commander!"
+ID_ME_NA_COUNTDOWNEXTRAVAGANZA_ENDING,Ending Soon: Grand Countdown
+ID_ME_DE_COUNTDOWNEXTRAVAGANZA_ENDING,2 days left to earn rewards!
+ID_ME_BO_COUNTDOWNEXTRAVAGANZA_ENDING,"Commander,\n\nThe Grand Countdown premium milestone ends in <color=#fff568>2 days</color>. Continue collecting Sparklers and finish the milestone before it's too late!\n\nGood luck, Commander!"
 ID_ME_NA_FORGE_TEASER,Soon: Forge
 ID_ME_DE_FORGE_TEASER,Mechanical Maestro
 ID_ME_BO_FORGE_TEASER,"Commander,\n\n<color=#fff568>Forge</color> has refined his armory and is ready to support allies with his inventions:\n\n<color=#fff568>Ability Highlights</color>\nHeals and spreads positive effects copied from his targets to himself and X-Men allies. Clears positive effects from enemies and negative effects from himself and his X-Men allies. He gains random Inventions that provide special bonuses.\n\n\n<color=#fff568>X-Men Bonuses</color>\nProvides X-Men allies with consistent healing and lots of positive effects, including Immunity, Counter, Deflect, and Deathproof as well as any positive effect he copies from enemies and spreads to his X-Men allies. All X-Men allies gain extra Armor and Resistance. When X-Men allies are knocked to half health, he provides Barrier and gains Speed Bar to help them stay in the fight.\n\n<color=#fff568>X-Treme X-Men Bonuses</color>\nRevive 1 X-Treme X-Men ally, or if there are no X-Treme X-Men allies to revive, generates Ability Energy\n\n<color=#fff568>Raid Bonuses</color>\nApplies Safeguard and Evade to X-Treme X-Men allies. Self and X-Treme X-Men allies gain additional Armor and Resistance.\n\nBe on the lookout for details on how to earn their character shards!"
@@ -8044,18 +8065,21 @@ ID_ME_NA_SOLARSCHEMATICS_ANNOUNCE,LIVE: Solar Schematics
 ID_ME_NA_SOLARSCHEMATICS_ENDING,ENDING: Solar Schematics
 ID_ME_DE_SOLARSCHEMATICS_ENDING,Don't miss out on unlocking Sunspot!
 ID_ME_BO_SOLARSCHEMATICS_ENDING,"Commander,\n\nThe Solar Schematic Event <color=#fff568>ends soon</color>. Continue earning Sunspot Shards and Teal Mutant Gear!\n\nGood luck, Commander!"
-ID_ME_NA_WINTERGALA_ANNOUNCE,LIVE: Winter Solstice Gala
-ID_ME_DE_WINTERGALA_ANNOUNCE,Claim holiday deals to earn bonus rewards!
-ID_ME_BO_WINTERGALA_ANNOUNCE,"Commander,\n\nIt's time for the <color=#fff568>Winter Solstice Gala</color>!\n\nScore points toward this 8-day premium milestone by collecting <color=#fff568>Snowglobes</color> in special holiday offers.\n\nRewards include:\n- Diamond Champions Orb (guaranteed top 3-Diamond character)\n- Silver Diamond Credits\n- Diamond Orbs\n- Character Shards for Superior Six, Secret Defenders and New Avengers\n- T4 Ability Materials\n- Gold\n- L4 Training Modules\n- And more!\n\nGood luck on your journey and stay frosty!"
-ID_ME_NA_WINTERGALA_ENDING,Ending Soon: Winter Solstice Gala
-ID_ME_DE_WINTERGALA_ENDING,2 days left to unwrap rewards!
-ID_ME_BO_WINTERGALA_ENDING,"Commander,\n\nThe Winter Solstice Gala premium milestone ends in <color=#fff568>2 days</color>. Continue collecting Snowglobes and finish the milestone before it's too late!\n\nGood luck, Commander!"
-ID_ME_NA_COUNTDOWNEXTRAVAGANZA_ANNOUNCE,LIVE: Grand Countdown
-ID_ME_DE_COUNTDOWNEXTRAVAGANZA_ANNOUNCE,Claim holiday deals to earn extra rewards!
-ID_ME_BO_COUNTDOWNEXTRAVAGANZA_ANNOUNCE,"Commander,\n\nIt's time to count down to the New Year with the <color=#fff568>Grand Countdown</color> event!\n\nScore points toward this 12-day premium milestone by collecting <color=#fff568>Sparklers</color> in special holiday offers.\n\nRewards include:\n- Diamond Champions Orb (guaranteed top 3-Diamond character)\n- Silver Diamond Credits\n- Diamond Orbs\n- T4 Ability Materials\n- Gold\n- L4 Training Modules\n- And more!\n\nGood luck, Commander!"
-ID_ME_NA_COUNTDOWNEXTRAVAGANZA_ENDING,Ending Soon: Grand Countdown
-ID_ME_DE_COUNTDOWNEXTRAVAGANZA_ENDING,2 days left to earn rewards!
-ID_ME_BO_COUNTDOWNEXTRAVAGANZA_ENDING,"Commander,\n\nThe Grand Countdown premium milestone ends in <color=#fff568>2 days</color>. Continue collecting Sparklers and finish the milestone before it's too late!\n\nGood luck, Commander!"
-ID_ME_NA_SUPERSKRULL_REDSTAR_UPDATE,Super Skrull Red Star Update
-ID_ME_DE_SUPERSKRULL_REDSTAR_UPDATE,Maximum Red Stars increased to 7!
-ID_ME_BO_SUPERSKRULL_REDSTAR_UPDATE,"Commander,\n\n<color=#fff568>Super Skrull</color> and <color=#fff568>Juggernaught (Zombie)</color> can now be promoted up to <color=#fff568>7 Red Stars</color>.\n\nIn addition, <color=#fff568>Iron Man (Zombie)</color> can now be promoted up to <color=#fff568>3 Diamonds</color>.\n\nCheck out these newly available promotions in the <color=#fff568>Elite Store</color> today!"
+ID_ME_NA_SPLASH_NEWGENERATION,LIVE: New Generation
+ID_ME_DE_SPLASH_NEWGENERATION,Earn X-Batteries and Gear!
+ID_ME_BO_SPLASH_NEWGENERATION,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Gear</color> and <color=#fff568>X-Batteries</color> for the Mechanical Marvel!\n\n<color=#fff568>Featured Trait</color>:\nNew Warrior\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_SYSTEMSONLINE,LIVE: Systems Online
+ID_ME_DE_SPLASH_SYSTEMSONLINE,Earn X-Batteries and Ability Materials!
+ID_ME_BO_SPLASH_SYSTEMSONLINE,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Ability Materials</color> and <color=#fff568>X-Batteries</color> for the Mechanical Marvel!\n\n<color=#fff568>Featured Trait</color>:\nP.E.G.A.S.U.S.\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_PERFECTHOSTS,LIVE: Perfect Hosts
+ID_ME_DE_SPLASH_PERFECTHOSTS,Earn X-Batteries and Orbs!
+ID_ME_BO_SPLASH_PERFECTHOSTS,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Orbs</color> and <color=#fff568>X-Batteries</color> for the Mechanical Marvel!\n\n<color=#fff568>Featured Trait</color>:\nSymbiote\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_TECHWIZARDRY,LIVE: Tech Wizardry
+ID_ME_DE_SPLASH_TECHWIZARDRY,Earn X-Batteries and Iso-8!
+ID_ME_BO_SPLASH_TECHWIZARDRY,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Iso-8</color> and <color=#fff568>X-Batteries</color> for the Mechanical Marvel!\n\n<color=#fff568>Featured Trait</color>:\nDarkhold\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_CYBERSECURITY,LIVE: Cyber Security
+ID_ME_DE_SPLASH_CYBERSECURITY,Earn X-Batteries and Gear!
+ID_ME_BO_SPLASH_CYBERSECURITY,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Gear</color> and <color=#fff568>X-Batteries</color> for the Mechanical Marvel!\n\n<color=#fff568>Featured Trait</color>:\nHeroes for Hire\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_ZIM_DIAMOND_UPDATE,Iron Man (Zombie) Diamond Update
+ID_ME_DE_ZIM_DIAMOND_UPDATE,Promote to 3 Diamonds!
+ID_ME_BO_ZIM_DIAMOND_UPDATE,"Commander,\n\n<color=#fff568>Iron Man (Zombie)</color> can now be promoted up to <color=#fff568>3 Diamonds</color>.\n\nCheck out the newly available promotion in the <color=#fff568>Elite Store</color> today!"
