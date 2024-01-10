@@ -3392,3 +3392,39 @@ ID_MISSION_SURVIVALTOWER_01_38_NAME,CELL 38
 ID_MISSION_SURVIVALTOWER_01_39_NAME,CELL 39
 ID_MISSION_SURVIVALTOWER_01_40_NAME,CELL 40
 ID_MISSION_SURVIVALTOWER_BLANK_DESC,Clear each cell to escape from Kyln!
+ID_MIS_HIVEMIND_01_NAME,A Familiar Voice
+ID_MIS_HIVEMIND_01_DESC,A whisper in the minds of Symbiotes compulses them to turn on their allies.
+ID_MIS_HIVEMIND_02_NAME,"Old Dogs, New Tricks"
+ID_MIS_HIVEMIND_02_DESC,Carnage and Venom are given a new set of orders.
+ID_MIS_HIVEMIND_03_NAME,Baxter Blitz
+ID_MIS_HIVEMIND_03_DESC,The Symbiotes lay siege on the Baxter Building to portal into Asgard.
+ID_MIS_HIVEMIND_04_NAME,Attack on Asgard
+ID_MIS_HIVEMIND_04_DESC,An exertion of power is all that's needed to ensure compliance.
+ID_MIS_HIVEMIND_05_NAME,The Three Amigos
+ID_MIS_HIVEMIND_05_DESC,"A new target has been identified, but allies surround them."
+ID_MIS_HIVEMIND_06_NAME,Noise Complaint
+ID_MIS_HIVEMIND_06_DESC,The Symbiotes crash a party and pick a fight.
+ID_MIS_HIVEMIND_07_NAME,Kids These Days
+ID_MIS_HIVEMIND_07_DESC,An inexperienced kid bites off more than he can chew.
+ID_MIS_HIVEMIND_08_NAME,Ghosted
+ID_MIS_HIVEMIND_08_DESC,A spider gets lured into a trap.
+ID_MIS_HIVEMIND_09_NAME,Order of Operations
+ID_MIS_HIVEMIND_09_DESC,The Symbiotes need to gather intelligence for their next move.
+ID_MIS_HIVEMIND_10_NAME,"Location, Location"
+ID_MIS_HIVEMIND_10_DESC,"After sneaking into an A.I.M. facility, the Symbiotes need to locate the sample."
+ID_MIS_HIVEMIND_11_NAME,Secure the Goods
+ID_MIS_HIVEMIND_11_DESC,The Symbiotes find that this is a heavily guarded sample.
+ID_MIS_HIVEMIND_12_NAME,On the Move
+ID_MIS_HIVEMIND_12_DESC,The team moves onto the second objective.
+ID_MIS_HIVEMIND_13_NAME,Jailbreak
+ID_MIS_HIVEMIND_13_DESC,"With the Symbiotes' sights set on the far reaches of the galaxy, Red Goblin has plans for their ride."
+ID_MIS_HIVEMIND_14_NAME,Burning Bridges
+ID_MIS_HIVEMIND_14_DESC,Red Goblin's blueprints require tech from former allies.
+ID_MIS_HIVEMIND_15_NAME,Tinker Time
+ID_MIS_HIVEMIND_15_DESC,The Hive-Mind gets attacked as the construction begins on their ship.
+ID_MIS_HIVEMIND_16_NAME,Final Frontier
+ID_MIS_HIVEMIND_16_DESC,There's only one group standing in the way of the Hive-Mind's voyage into deep space.
+ID_MIS_HIVEMIND_1TD_NAME,Incursion Raid II - Bio 1
+ID_MIS_HIVEMIND_TD_DESC,See the power and potential of the Hive-Mind in a sample battle from the Incursion Raid II.
+ID_MIS_HIVEMIND_2TD_NAME,Incursion Raid II - Bio 2
+ID_MIS_HIVEMIND_3TD_NAME,Incursion Raid II - Bio Boss

@@ -1386,3 +1386,10 @@ ID_REQUIRES_TRAITS_LE_JUBILEE_L4,REQUIRES: 4-Star PYM TECH OR TECH HERO
 ID_REQUIRES_TRAITS_LE_JUBILEE_L5,REQUIRES: 5-Star PYM TECH OR TECH HERO
 ID_REQUIRES_TRAITS_LE_JUBILEE_L6,REQUIRES: 6-Star PYM TECH OR TECH HERO
 ID_REQUIRES_TRAITS_LE_JUBILEE_L7,REQUIRES: 7-Star PYM TECH OR TECH HERO
+ID_REQUIRES_HIVEMIND_STORY,ONLY <color=#fff568>HIVE-MIND</color> or <color=#fff568>SYMBIOTE</color>
+ID_REQUIRES_HIVEMIND_CH,"ONLY <color=#fff568>HIVE-MIND</color> or <color=#fff568>SYMBIOTE</color>\nREQUIRES: <color=#fff568>CARNAGE</color>, <color=#fff568>VENOM</color>"
+ID_REQUIRES_HIVEMIND_CH_VK,"ONLY <color=#fff568>HIVE-MIND</color> or <color=#fff568>SYMBIOTE</color>\nREQUIRES: <color=#fff568>CARNAGE</color>, <color=#fff568>VENOM</color>, and <color=#fff568>VOID KNIGHT</color>"
+ID_REQUIRES_HIVEMIND_CH_GM,"ONLY <color=#fff568>HIVE-MIND</color> or <color=#fff568>SYMBIOTE</color>\nREQUIRES: <color=#fff568>CARNAGE</color>, <color=#fff568>VENOM</color>, <color=#fff568>VOID KNIGHT</color>, and <color=#fff568>GWENOM</color>"
+ID_REQUIRES_HIVEMIND_CH_RG,"ONLY <color=#fff568>HIVE-MIND</color> or <color=#fff568>SYMBIOTE</color>\nREQUIRES: <color=#fff568>CARNAGE</color>, <color=#fff568>VENOM</color>, <color=#fff568>VOID KNIGHT</color>, <color=#fff568>GWENOM</color>, and <color=#fff568>RED GOBLIN</color>"
+ID_REQUIRES_HIVEMIND_THM,"ONLY <color=#fff568>HIVE-MIND</color>\nREQUIRES: Gear Tier 14, 4 Yellow Stars"
+ID_REQUIRES_HIVEMIND_BONUS,"ONLY <color=#fff568>HIVE-MIND</color>\nREQUIRES: Gear Tier 16, 6 Yellow Stars"

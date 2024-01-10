@@ -5666,6 +5666,29 @@ ID_OF_DE_DIAMONDA18_LC_KYLN24,Last chance for this huge <color=#ffda21>Diamond O
 ID_OF_DE_CATALYSTS_LC_KYLN24,Last chance to get the all the catalysts you want from this special offer! This offer will no longer repeat after this.
 ID_OF_DE_TRAIN_ISO_RS_DIAMOND_LC_KYLN24,"Last chance to raise your collective power today with this huge <color=#ffda21>Diamond Orb, Dark Diamond Credit, & Training Orb</color> special deal! This offer won't last long!"
 ID_OF_DE_DPC_DDC_LC_KYLN24,"Last chance to promote the best of your roster with this special offer of <color=#ffda21>Dark Diamond Credit, Dark Promotion Credit, & Gold Promotion Credits</color>!"
+ID_OF_NA_SYMBIOTESILVERSURFER_FCO_OFFER,Symbiote Sentinel
+ID_OF_DE_SYMBIOTESILVERSURFER_FCO_OFFER,Each <color=#fff568>Living Corruption Orb</color> contains <color=#fff568>up to 180 Void Knight</color> shards. <color=#fff568>Void Knight</color> inflicts cosmic despair on foes and bonds <color=#fff568>Hive-Mind</color> allies with symbiotic energy!
+ID_OF_DE_SYMBIOTESILVERSURFER_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Void Knight</color> and unlock one-time only release offers on your next visit! <color=#fff568>Void Knight</color> inflicts cosmic despair on foes and bonds <color=#fff568>Hive-Mind</color> allies with symbiotic energy!
+ID_OF_DE_SYMBIOTESILVERSURFER_OFFER_SHARD,Power up <color=#fff568>Void Knight</color> with this shard offer! <color=#fff568>Void Knight</color> inflicts cosmic despair on foes and bonds <color=#fff568>Hive-Mind</color> allies with symbiotic energy!
+ID_OF_STOREBAR_SYMBIOTESILVERSURFER,Dual Offer: Void Knight
+ID_OF_NA_DUAL_SYMBIOTESILVERSURFER,Dual Offer: Void Knight
+ID_OF_DE_DUAL_SYMBIOTESILVERSURFER,Choose your path to power up this <color=#fff568>Hive Mind</color> member!
+ID_OF_DE_DUAL_UNLOCK_SYMBIOTESILVERSURFER,Unlock this <color=#fff568>Hive Mind</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_SYMBIOTESILVERSURFER_WEB_EXTRA_FCO_OFFER,Web Extra: Void Knight
+ID_OF_NA_SYMBIOTESILVERSURFER_WEB_SPECIAL_OFFER,Web Special: Void Knight
+ID_OF_DE_SYMBIOTESILVERSURFER_WEB_EXTRA_FCO_OFFER,"<color=#fff568>Web Extra!</color> The Symbiote Sentinel,<color=#fff568>Void Knight</color>, soars in to inflict despair on foes!"
+ID_OF_DE_SYMBIOTESILVERSURFER_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> Atomize enemies with big attacks and steal ability energy with <color=#fff568>Void Knight</color> leading the way!
+ID_OF_STOREBAR1_SYMBIOTESILVERSURFER,Rare Opportunity: Void Knight Frame Choice
+ID_OF_STOREBAR2_SYMBIOTESILVERSURFER,Void of Choice: Limited-Time Frame
+ID_OF_STOREBAR3_SYMBIOTESILVERSURFER,Gone Soon: Void Knight Frame Dual Choice
+ID_OF_STOREBAR4_SYMBIOTESILVERSURFER,Choose Your Fate: Void Knight Frame
+ID_OF_NA_DUAL1_SYMBIOTESILVERSURFER,Rare Opportunity: Void Knight Frame Choice
+ID_OF_NA_DUAL2_SYMBIOTESILVERSURFER,Void of Choice: Limited-Time Frame
+ID_OF_NA_DUAL3_SYMBIOTESILVERSURFER,Gone Soon: Void Knight Frame Dual Choice
+ID_OF_NA_DUAL4_SYMBIOTESILVERSURFER,Choose Your Fate: Void Knight Frame
+ID_OF_DE_DUAL1_SYMBIOTESILVERSURFER,Bond with Void Knight's special frame and Pact of Wrath milestone progress!
+ID_OF_DE_DUAL2_SYMBIOTESILVERSURFER,Gone Soon: Void Knight's special frame and Pact of Wrath progress!
+ID_OF_DE_DUAL3_SYMBIOTESILVERSURFER,Get Void Knight's limited-time frame and Pact of Wrath milestone progress!
 ID_OF_NA_TRAINDDC_JANJUBILATION,January Jubilation: Promotion Bootcamp
 ID_OF_NA_GOLDDPC_JANJUBILATION,January Jubilation: Golden Promotion
 ID_OF_NA_TRAINORBE7_JANJUBILATION,January Jubilation: Training Boost
@@ -5722,3 +5745,19 @@ ID_OF_DE_GOLDXTREMEMINI_JANJUBILATION,A bounty of <color=#ffda21>Gold</color> an
 ID_OF_DE_TRAINGOLDABM_JANJUBILATION,Take your roster to the next level with this special seasonal deal! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_CATALYSTGOLD_JANJUBILATION,Reap a bountiful harvest of <color=#fff568>Teal Gear Catalysts</color> with this exceptional deal! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_D7PROMODPC_JANJUBILATION,Raise the Red Star ranks of your roster with this boost of <color=#ffda21>Dark Promotion Credits</color>! <color=#ffda21>A {var1}x value</color>!
+ID_OF_NA_ALLIEDENGINES_STARTER,Allied Engines: Starter
+ID_OF_NA_ALLIEDENGINES_CATCHUP,Allied Engines: Catch-up
+ID_OF_NA_ALLIEDENGINES_DAILY_ORB,Daily Teamwork
+ID_OF_NA_ALLIEDENGINES_DAILY_POINTS,Allied Engines: Daily Points
+ID_OF_NA_ALLIEDENGINES_XTR,X-Treme Allies
+ID_OF_NA_ALLIEDENGINES_FREECLAIM,Allied Engines: Free Claim
+ID_OF_NA_ALLIEDENGINES_INTERSTITIAL,Allied Engines: Web Special
+ID_OF_NA_ALLIEDENGINES_GENERIC,Allied Engines Event Pack
+ID_OF_DE_ALLIEDENGINES_STARTER,Get ahead in the <color=#fff568>Allied Engines</color> Milestone and Leaderboard and propel your Alliance to <color=#fff568>Venom Diamonds</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_ALLIEDENGINES_CATCHUP,Finish strong in the <color=#fff568>Allied Engines</color> Milestone and Leaderboard and propel your Alliance to <color=#fff568>Venom Diamonds</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_ALLIEDENGINES_DAILY_ORB,"Collect these event orbs for <color=#fff568>T2 Level 5 Ion Orb Fragments, Gold, Training Materials and Teal Origin Gear</color>, as well as <color=#fff568>Allied Engines</color> Milestone progress!"
+ID_OF_DE_ALLIEDENGINES_DAILY_POINTS,Come back daily for more <color=#fff568>Allied Engines</color> progress!
+ID_OF_DE_ALLIEDENGINES_XTR,Rank up your X-Treme X-Men to maximize your <color=#fff568>Allied Engines</color> Milestone progress!
+ID_OF_DE_ALLIEDENGINES_FREECLAIM,Come back daily for more <color=#fff568>Allied Engines</color> progress!
+ID_OF_DE_ALLIEDENGINES_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Allied Engines</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_ALLIEDENGINES_GENERIC,Get ahead in the <color=#fff568>Allied Engines</color> Milestone and Leaderboard and propel your Alliance to <color=#fff568>Venom Diamonds</color> and <color=#fff568>Teal Gear</color>!

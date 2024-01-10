@@ -2149,7 +2149,7 @@ ID_QU_S2_SUPERPATRIOT,Collect 1 Convincer
 ID_QU_S3_SUPERPATRIOT,Collect 1 Battle Boots
 ID_QU_S4_SUPERPATRIOT,Collect 1 Bulletproof Uniform
 ID_QU_S5_SUPERPATRIOT,Collect 1 Walker's Shield
-ID_QU_S1_BLITZ_WIN,Win Blitz
+ID_QU_S1_BLITZ_WIN,Win a BLITZ Battle
 ID_QU_SM_SPLASH_BLITZ,Use Featured Characters in Blitz to earn rewards
 ID_QU_NA_SPLASH_ARACHNIDAMBUSH,Arachnid Ambush
 ID_QU_SD_SPLASH_ARACHNIDAMBUSH,Use Web-Warriors in Blitz
@@ -3895,3 +3895,19 @@ ID_QU_SC_SPLASH_CYBERSECURITY,Use Heroes for Hire Characters in Blitz
 ID_QU_S1_SPLASH_CYBERSECURITY,Win Blitz with a 3-star or higher Heroes for Hire Character
 ID_QU_S2_SPLASH_CYBERSECURITY,Win Blitz with a 5-star or higher Heroes for Hire Character
 ID_QU_S3_SPLASH_CYBERSECURITY,Win Blitz with a 7-star Heroes for Hire Character
+ID_QU_NA_ALLIEDENGINES,Allied Engines
+ID_QU_SD_ALLIEDENGINES,Raids with X-Treme X-Men and collect Event Orbs
+ID_QU_LD_ALLIEDENGINES,"Battle in Raids with X-Treme X-Men and collect Allied Supply III Orb Fragments.\n\nMilestone rewards include 1-Diamond Venom, Armory 17 Orbs, T2 Level 5 Ions and more!\n\nCompete on the Leaderboards for up to a 3-Diamond Venom, Mega Gold Orbs and Armory 18 Orbs!"
+ID_QU_S1_ALLIEDENGINES,Collect 1 Allied Supply III Orb Fragment
+ID_QU_S2_ALLIEDENGINES,Battle in Raids
+ID_QU_S3_ALLIEDENGINES,Battle in Raids with X-Treme X-Men
+ID_QU_S4_ALLIEDENGINES,Battle in Raids with X-Treme X-Men at 5 Yellow Stars
+ID_QU_S5_ALLIEDENGINES,Battle in Raids with X-Treme X-Men at 6 Yellow Stars
+ID_QU_S6_ALLIEDENGINES,Battle in Raids with X-Treme X-Men at 7 Yellow Stars
+ID_QU_NA_PACTOFWRATH,Pact of Wrath
+ID_QU_SD_PACTOFWRATH,Unlock Nova's Costume
+ID_QU_SC_PACTOFWRATH,Earn corrupted items from limited time offers
+ID_QU_LM_PACTOFWRATH,Hive Mind character offers contain corrupted items in them. Earn one of each corrupted item to unlock Nova's Wrath costume!
+ID_QU_S1_PACTOFWRATH,Earn 1 Corrupted Helmet
+ID_QU_S2_PACTOFWRATH,Earn 1 Corrupted Armor
+ID_QU_S3_PACTOFWRATH,Earn 1 Corrupted Gauntlets

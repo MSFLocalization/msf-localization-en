@@ -7122,6 +7122,170 @@ ID_DIALOG_SSE_XTXM_12_END_6,"We need to find Xavier, dat be the only way we find
 ID_DIALOG_SSE_XTXM_12_END_7,I think Gambit's right.
 ID_DIALOG_SSE_XTXM_12_END_8,Let's give him to S.H.I.E.L.D. to hold onto for now.
 ID_DIALOG_SSE_XTXM_12_END_9,"Alright. Forge, make the call."
+ID_DIALOG_SSE_HIVEMIND_01_INTRO_0,"Venom, grab that last tech bag, and let's get moving before the guards come!"
+ID_DIALOG_SSE_HIVEMIND_01_INTRO_1,"Venom?\nHey, I'm talking to you!"
+ID_DIALOG_SSE_HIVEMIND_01_INTRO_2,Quiet! We can hear something.
+ID_DIALOG_SSE_HIVEMIND_01_INTRO_3,What are you talking about?\nWe're the only one's here!
+ID_DIALOG_SSE_HIVEMIND_01_INTRO_4,"I hear it, too."
+ID_DIALOG_SSE_HIVEMIND_01_INTRO_5,Where's it coming from?
+ID_DIALOG_SSE_HIVEMIND_01_INTRO_6,"Our minds. If we clear out these losers, I bet we'd hear it again."
+ID_DIALOG_SSE_HIVEMIND_01_START_0,You thinkin' what I'm thinkin'?
+ID_DIALOG_SSE_HIVEMIND_01_START_1,Chow time!
+ID_DIALOG_SSE_HIVEMIND_01_MID_0,Welcome to the party.
+ID_DIALOG_SSE_HIVEMIND_01_MID_1,"Did you hear it, too?"
+ID_DIALOG_SSE_HIVEMIND_01_MID_2,We're all just getting a taste of the fun to come.
+ID_DIALOG_SSE_HIVEMIND_01_END_0,"Spill it, Carnage. What do you know?"
+ID_DIALOG_SSE_HIVEMIND_01_END_1,I've heard this voice before. A delicious little whisper in a past steeped in black and red.
+ID_DIALOG_SSE_HIVEMIND_01_END_2,It feels like something is slithering around in the back of my mind.
+ID_DIALOG_SSE_HIVEMIND_01_END_3,It's controlling my body!
+ID_DIALOG_SSE_HIVEMIND_01_END_4,We have no choice. We must obey!
+ID_DIALOG_SSE_HIVEMIND_02_INTRO_0,Why is it making us go east?
+ID_DIALOG_SSE_HIVEMIND_02_INTRO_1,Weren't you paying attention?\nIt wants us to prove ourselves.
+ID_DIALOG_SSE_HIVEMIND_02_INTRO_2,We need the right warm-up match.
+ID_DIALOG_SSE_HIVEMIND_02_START_0,"What is it, Viv?"
+ID_DIALOG_SSE_HIVEMIND_02_START_1,I have detected Symbiote lifeforms rapidly approaching.
+ID_DIALOG_SSE_HIVEMIND_02_START_2,Now look at this. A family picnic.\nHow sweet.
+ID_DIALOG_SSE_HIVEMIND_02_END_0,It speaks again!
+ID_DIALOG_SSE_HIVEMIND_02_END_1,Go to that spot in space?\nWhat could be out there? It's a wasteland.
+ID_DIALOG_SSE_HIVEMIND_02_END_2,We need more power?\nOminous much?
+ID_DIALOG_SSE_HIVEMIND_02_END_3,This will be tricky.
+ID_DIALOG_SSE_HIVEMIND_03_INTRO_0,THE BAXTER BUILDING...
+ID_DIALOG_SSE_HIVEMIND_03_INTRO_1,"Welcome to the penthouse, baby! This is where the science is made."
+ID_DIALOG_SSE_HIVEMIND_03_INTRO_2,What is that thing?!
+ID_DIALOG_SSE_HIVEMIND_03_INTRO_3,"Hey, be nice. Benny's very sensitive about his hideous looks since he became a rock."
+ID_DIALOG_SSE_HIVEMIND_03_INTRO_4,"No, I mean that!"
+ID_DIALOG_SSE_HIVEMIND_03_START_0,"For once, Sue can't blame me for letting in trouble."
+ID_DIALOG_SSE_HIVEMIND_03_MID_0,"Johnny, what's going on?!"
+ID_DIALOG_SSE_HIVEMIND_03_MID_1,"No idea, but I'm pretty sure this is all Reed's fault."
+ID_DIALOG_SSE_HIVEMIND_03_END_0,"It says we passed, but this doesn't feel like something I want to celebrate."
+ID_DIALOG_SSE_HIVEMIND_03_END_1,This terminal is hooked up to a portal generator. We can use it to get to the new host.
+ID_DIALOG_SSE_HIVEMIND_03_END_2,It was set to Asgard. Let's check there first.
+ID_DIALOG_SSE_HIVEMIND_04_INTRO_0,There he is.
+ID_DIALOG_SSE_HIVEMIND_04_INTRO_1,How can you tell which one he is?
+ID_DIALOG_SSE_HIVEMIND_04_INTRO_2,Silver Surfer doesn't spell it out for you?
+ID_DIALOG_SSE_HIVEMIND_04_INTRO_3,He's surrounded by Asgardians.
+ID_DIALOG_SSE_HIVEMIND_04_INTRO_4,A bloodbath is a bloodbath. The donors are irrelevant.
+ID_DIALOG_SSE_HIVEMIND_04_INTRO_5,Point taken.
+ID_DIALOG_SSE_HIVEMIND_04_MID_0,"I know not what your motivations are, foul creatures, but you will not succeed!"
+ID_DIALOG_SSE_HIVEMIND_04_MID_1,Any harm that befalls my friends will be returned upon you.
+ID_DIALOG_SSE_HIVEMIND_04_END_0,No more struggling. Time to listen.\nAnd obey.
+ID_DIALOG_SSE_HIVEMIND_04_END_1,I can hear it.
+ID_DIALOG_SSE_HIVEMIND_04_END_2,"Like a black hole in my mind, exerting its pressure on me."
+ID_DIALOG_SSE_HIVEMIND_04_END_3,*SQUELCH*
+ID_DIALOG_SSE_HIVEMIND_04_END_4,There is no escaping the inevitable darkness.
+ID_DIALOG_SSE_HIVEMIND_05_INTRO_0,Looks like you are already proving useful.\nWho is the next one on the list?
+ID_DIALOG_SSE_HIVEMIND_05_INTRO_1,The voice demands we capture a Spider.
+ID_DIALOG_SSE_HIVEMIND_05_INTRO_2,Not this again. They're everywhere.
+ID_DIALOG_SSE_HIVEMIND_05_INTRO_3,"We must return to Earth and find them in New York, but they have many allies to defend them."
+ID_DIALOG_SSE_HIVEMIND_05_START_0,This guy? What's so good about him?
+ID_DIALOG_SSE_HIVEMIND_05_START_1,Not him. He is a means to an end.
+ID_DIALOG_SSE_HIVEMIND_05_START_2,"You know I can hear you, right? That stings."
+ID_DIALOG_SSE_HIVEMIND_05_END_0,Let's just hit them all at once.
+ID_DIALOG_SSE_HIVEMIND_05_END_1,"Together, they are formidable. Separated, they are easily provoked into mistakes."
+ID_DIALOG_SSE_HIVEMIND_05_END_2,This flyer was in the Spider kid's pocket.
+ID_DIALOG_SSE_HIVEMIND_05_END_3,"Come, time is of the essence."
+ID_DIALOG_SSE_HIVEMIND_06_START_0,"Oi, uglies! This is an invite-only function!"
+ID_DIALOG_SSE_HIVEMIND_06_START_1,This will be quick.
+ID_DIALOG_SSE_HIVEMIND_06_END_0,"I thought that one would draw her out.\nNo matter. This next one is a guarantee. "
+ID_DIALOG_SSE_HIVEMIND_06_END_1,These better not be random shots in the dark.
+ID_DIALOG_SSE_HIVEMIND_07_START_0,I heard there was another attack at Hobie's show.\nBut it just had to be you guys.
+ID_DIALOG_SSE_HIVEMIND_07_START_1,"No offense, but you all give me the major creeps."
+ID_DIALOG_SSE_HIVEMIND_07_END_0,Their bark is always worse than their bite.
+ID_DIALOG_SSE_HIVEMIND_07_END_1,Just wait until you get a load of me!
+ID_DIALOG_SSE_HIVEMIND_08_START_0,You possess unique potential. We can unlock it.
+ID_DIALOG_SSE_HIVEMIND_08_START_1,There's no way I'm letting you get away with this!
+ID_DIALOG_SSE_HIVEMIND_08_MID_0,Don't tell me these are more anomalies.
+ID_DIALOG_SSE_HIVEMIND_08_MID_1,"No, they're much worse."
+ID_DIALOG_SSE_HIVEMIND_08_END_0,Get everyone! We're not going to be able to stop them alone.
+ID_DIALOG_SSE_HIVEMIND_08_END_1,The voice teaches us.\nWe give you a piece of Venom.
+ID_DIALOG_SSE_HIVEMIND_08_END_2,No! Get this thing off of me!!
+ID_DIALOG_SSE_HIVEMIND_08_END_3,My skull feels like it's being ripped apart!
+ID_DIALOG_SSE_HIVEMIND_08_END_4,Whose voice is that? I can't stand listening to it whisper!\nI'll fight you for as long as I can.
+ID_DIALOG_SSE_HIVEMIND_08_END_5,*SQUELCH*
+ID_DIALOG_SSE_HIVEMIND_08_END_6,Now this feels amazing!
+ID_DIALOG_SSE_HIVEMIND_09_INTRO_0,We need one more before we can leave this planet.
+ID_DIALOG_SSE_HIVEMIND_09_INTRO_1,"As much as I love watchin' people fight the bond, we need someone willing."
+ID_DIALOG_SSE_HIVEMIND_09_INTRO_2,I know the perfect target.
+ID_DIALOG_SSE_HIVEMIND_09_INTRO_3,He was caught trying to break into an A.I.M. facility to grab a Symbiote sample.
+ID_DIALOG_SSE_HIVEMIND_09_INTRO_4,We'll need to find out where they moved him to and the location of the facility.
+ID_DIALOG_SSE_HIVEMIND_09_INTRO_5,I have an idea of who has the info.
+ID_DIALOG_SSE_HIVEMIND_09_START_0,"The sooner we get what we want, the sooner we'll leave."
+ID_DIALOG_SSE_HIVEMIND_09_START_1,Nothing's free in life. You gotta pay like everyone else.
+ID_DIALOG_SSE_HIVEMIND_09_START_2,We'll see how you feel about that when we're done.
+ID_DIALOG_SSE_HIVEMIND_09_END_0,"Ok, ok. I'll tell you."
+ID_DIALOG_SSE_HIVEMIND_09_END_1,"The Symbiote sample is still at the lab, but security has been increased."
+ID_DIALOG_SSE_HIVEMIND_09_END_2,A heavily armored escort took off with your buddy. He's likely still being held by them.
+ID_DIALOG_SSE_HIVEMIND_09_END_3,Tell me where they are.
+ID_DIALOG_SSE_HIVEMIND_10_INTRO_0,INSIDE THE A.I.M. FACILITY...
+ID_DIALOG_SSE_HIVEMIND_10_INTRO_1,"The closer we get, the more I can sense the sample."
+ID_DIALOG_SSE_HIVEMIND_10_INTRO_2,"That's not totally surprising. It is a sample of the Carnage Symbiote, after all."
+ID_DIALOG_SSE_HIVEMIND_10_INTRO_3,I'll take us straight to it.
+ID_DIALOG_SSE_HIVEMIND_10_INTRO_4,No we have to be-
+ID_DIALOG_SSE_HIVEMIND_10_INTRO_5,INTRUDERS!
+ID_DIALOG_SSE_HIVEMIND_10_INTRO_6,- careful. Great.
+ID_DIALOG_SSE_HIVEMIND_10_END_0,"Carnage, you're triggering every alarm as we go!"
+ID_DIALOG_SSE_HIVEMIND_10_END_1,I'm just tryin' to keep this party goin'.
+ID_DIALOG_SSE_HIVEMIND_10_END_2,They had to have figured out what we were after. This won't be easy.
+ID_DIALOG_SSE_HIVEMIND_10_END_3,I'm countin' on it.
+ID_DIALOG_SSE_HIVEMIND_11_END_0,"Come to papa, little fella!"
+ID_DIALOG_SSE_HIVEMIND_11_END_1,I'm not even going to say anything about that.
+ID_DIALOG_SSE_HIVEMIND_11_END_2,We need to move to the next location before they can enter lockdown.
+ID_DIALOG_SSE_HIVEMIND_11_END_3,"Where's your heart, kid?\nInterrupting such a beautiful moment. "
+ID_DIALOG_SSE_HIVEMIND_11_END_4,*sob* Beautiful.
+ID_DIALOG_SSE_HIVEMIND_11_END_5,"See, he gets it."
+ID_DIALOG_SSE_HIVEMIND_12_INTRO_0,This time we AREN'T attracting the attention of every person in the building!
+ID_DIALOG_SSE_HIVEMIND_12_INTRO_1,What a waste!\nThis place looks really fun.
+ID_DIALOG_SSE_HIVEMIND_12_INTRO_2,Stay close.\nAnd stay out of sight!
+ID_DIALOG_SSE_HIVEMIND_12_START_0,See. There are barely any guards.
+ID_DIALOG_SSE_HIVEMIND_12_START_1,I assure you we are enough.
+ID_DIALOG_SSE_HIVEMIND_12_END_0,It's your lucky day. We're going to make your dream come true.
+ID_DIALOG_SSE_HIVEMIND_12_END_1,What's the catch? What are you getting out of it?
+ID_DIALOG_SSE_HIVEMIND_12_END_2,You'll see.
+ID_DIALOG_SSE_HIVEMIND_12_END_3,"The sample?! Hello, again, friend."
+ID_DIALOG_SSE_HIVEMIND_12_END_4,*SQUELCH*
+ID_DIALOG_SSE_HIVEMIND_12_END_5,A ship to go into deep space?
+ID_DIALOG_SSE_HIVEMIND_12_END_6,"Let me think. Yes, I know exactly what we need for that."
+ID_DIALOG_SSE_HIVEMIND_13_INTRO_0,There are some blueprints here and a ship that we'll need before we leave.
+ID_DIALOG_SSE_HIVEMIND_13_INTRO_1,It's all experimental tech to reach new areas of space that few have traveled to.
+ID_DIALOG_SSE_HIVEMIND_13_INTRO_2,"We grab those blueprints, and we're halfway to... wherever that voice is telling us to go."
+ID_DIALOG_SSE_HIVEMIND_13_INTRO_3,We may have to get our hands a little dirty.
+ID_DIALOG_SSE_HIVEMIND_13_INTRO_4,Count me in.
+ID_DIALOG_SSE_HIVEMIND_13_START_0,It was around here somewhere.
+ID_DIALOG_SSE_HIVEMIND_13_START_1,The Goblin's escaped! Sound the alarm!
+ID_DIALOG_SSE_HIVEMIND_13_END_0,There's gotta be a Components list... Ah! Here it is!
+ID_DIALOG_SSE_HIVEMIND_13_END_1,"Let's see, ""Biometric Tracking System""? I guess it's time for a little reunion."
+ID_DIALOG_SSE_HIVEMIND_14_INTRO_0,A SINISTER HIDEOUT...
+ID_DIALOG_SSE_HIVEMIND_14_INTRO_1,"I heard Lizard set him up. They say he is being held in a special facility, too. "
+ID_DIALOG_SSE_HIVEMIND_14_INTRO_2,No way. Weren't they just working together?
+ID_DIALOG_SSE_HIVEMIND_14_INTRO_3,You could say that.
+ID_DIALOG_SSE_HIVEMIND_14_INTRO_4,Osborn?! What happened to you?
+ID_DIALOG_SSE_HIVEMIND_14_INTRO_5,You should be more worried about what's going to happen to you.
+ID_DIALOG_SSE_HIVEMIND_14_END_0,Did you really have to take down that whole building?
+ID_DIALOG_SSE_HIVEMIND_14_END_1,It's the best invitation I could've sent him.
+ID_DIALOG_SSE_HIVEMIND_14_END_2,Hot off the press! Web-Heads causing mass amounts of property damage!
+ID_DIALOG_SSE_HIVEMIND_14_END_3,"Wait, you're not..."
+ID_DIALOG_SSE_HIVEMIND_14_END_4,I always wanted to take you apart and see what made you tick.
+ID_DIALOG_SSE_HIVEMIND_15_INTRO_0,That was hardly worth the build-up. Anyway...
+ID_DIALOG_SSE_HIVEMIND_15_INTRO_1,Plug this in here. Connect these wires.
+ID_DIALOG_SSE_HIVEMIND_15_INTRO_2,This should be enough to get us going in the right direction.
+ID_DIALOG_SSE_HIVEMIND_15_INTRO_3,You won't be going anywhere.\nWe're culling this Symbiote outbreak.
+ID_DIALOG_SSE_HIVEMIND_15_MID_0,Ping Weaver! They're going to get away.
+ID_DIALOG_SSE_HIVEMIND_15_END_0,Weaver? I know that name.
+ID_DIALOG_SSE_HIVEMIND_15_END_1,We got word from your friends that you were taken.
+ID_DIALOG_SSE_HIVEMIND_15_END_2,AH! My head! Get this thing off me!
+ID_DIALOG_SSE_HIVEMIND_15_END_3,She is ours.\nShe is one with the collective.
+ID_DIALOG_SSE_HIVEMIND_15_END_4,I was able to keep you chattering long enough.
+ID_DIALOG_SSE_HIVEMIND_15_END_5,Your friends can take it from here.
+ID_DIALOG_SSE_HIVEMIND_16_INTRO_0,"We'll get you out of there, kid!"
+ID_DIALOG_SSE_HIVEMIND_16_INTRO_1,Hold on!
+ID_DIALOG_SSE_HIVEMIND_16_INTRO_2,There's something out in space. It's calling us to it!
+ID_DIALOG_SSE_HIVEMIND_16_INTRO_3,You need to run! Get out of here and make sure you're ready to fight it!
+ID_DIALOG_SSE_HIVEMIND_16_INTRO_4,Because I can't fight it anymore.\nI'm sorry.
+ID_DIALOG_SSE_HIVEMIND_16_END_0,I couldn't stop them.\nThey still got away with her.
+ID_DIALOG_SSE_HIVEMIND_16_END_1,Maybe we just haven't tapped every resource at our disposal.
+ID_DIALOG_SSE_HIVEMIND_16_END_2,"No, no, no. I know what you're thinking."
+ID_DIALOG_SSE_HIVEMIND_16_END_3,Something big is coming. You know we aren't going to be enough to stop it.
+ID_DIALOG_SSE_HIVEMIND_16_END_4,"Ay, ok, I'll call them. I'm starting to get my own headache."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
