@@ -1,0 +1,152 @@
+id,translation
+ID_DRAFT_CHALLENGE,VS Battle
+ID_DRAFT_CHALLENGE_MODE_TITLE,CHALLENGE PLAYER
+ID_DRAFT_MODE_STANDARD,Classic Draft
+ID_DRAFT_MODE_STANDARD_DESC,Test <color=#fff568>your roster</color> against an opponent
+ID_DRAFT_MODE_STANDARD_REQ,Player Level 64+\n16+ Characters
+ID_DRAFT_MODE_STANDARD_DETAIL,Details
+ID_DRAFT_RULES_HEADER,RULES
+ID_DRAFT_RULES_SUBHEADER,Welcome to {modeName}!
+ID_DRAFT_RULES_BODY_STANDARD,"<color=#db8721><size=60>Draft</size></color>\n\nThe draft consists of three different phases. The players take alternating turns and have a limited time to make their selection(s) for each phase. If the timer expires during a player's turn, the game automatically selects the highest-powered character. If a character is highlighted when the player's timer expires, the highlighted character is selected.\n\n<color=#db8721><i>BAN</i></color>\nDuring the BAN phase, you view your opponent's roster. The character you choose here is globally unavailable during the PICK phase.\n\n<color=#db8721><i>PICK</i></color>\nDuring the PICK phase, you view your own roster. Choose a character to place into the active slot in your squad. Chosen characters are locked into the positions in which they were placed and are unavailable to your opponent.\n\n<color=#db8721><i>REJECT</i></color>\nDuring the REJECT phase, you choose a character to remove from your opponent's squad. A rejected character is globally unavailable during the PICK phase.\n\n<color=#db8721><size=60>Combat</size></color>\n\n<color=#db8721><i>TURN TIMER</i></color>\nThe timer for each player's first turn is 75 seconds. Each subsequent turn is 10 seconds. Players must confirm their action before their turn timer expires. If the turn timer expires before a player is able to confirm an action, the auto AI makes a move for the character. If a player misses three actions, the player automatically forfeits the match and the battle ends.\n\n<color=#db8721><i>WIN CONDITION</i></color>\nEliminating all of the opponent's characters results in a victory. If the battle timer expires, the players have 8 moves to complete combat. Afterwards, if both players have surviving characters, the player with the most surviving characters is deemed the victor. If both players have an equal number of surviving characters, the player with the most damage dealt is deemed the victor. If both players have the same damage dealt, the player with the highest single attack damage is deemed the victor.\n\n"
+ID_DRAFT_RULES_BODY_BALANCED,"<color=#db8721><size=60>Balanced Draft Character Power</size></color>\n\nAny character at or above <color=#86e619>Gear Tier 9</color> will have their power modified to:\n	Level: <color=#86e619>75</color>\n	Gear Tier: <color=#86e619>13</color>\n	Yellow Stars: <color=#86e619>7</color>\n	Red Stars: <color=#86e619>0</color>\n	Ability Levels: <color=#86e619>7 / 7 / 7 / 5</color>\nNOTE: Any character under <color=#86e619>Gear Tier 9</color> will not be playable.\n\n<color=#db8721><size=60>Draft</size></color>\n\nThe draft consists of three different phases. The players take alternating turns and have a limited time to make their selection(s) for each phase. If the timer runs out during DRAFT, the auto-pick will randomly select a character from the player's VS Battle Favorites. If there are no VS Battle Favorites, the highest-powered character from the player's original roster will be chosen.\n\n<color=#db8721><i>BAN</i></color>\nDuring the BAN phase, you view your opponent's roster. The character you choose here is globally unavailable during the PICK phase.\n\n<color=#db8721><i>PICK</i></color>\nDuring the PICK phase, you view your own roster. Choose a character to place into the active slot in your squad. Chosen characters are locked into the positions in which they were placed and are unavailable to your opponent.\n\n<color=#db8721><i>REJECT</i></color>\nDuring the REJECT phase, you choose a character to remove from your opponent's squad. A rejected character is globally unavailable during the PICK phase.\n\n<color=#db8721><size=60>Combat</size></color>\n\n<color=#db8721><i>TURN TIMER</i></color>\nThe timer for each player's first turn is 75 seconds. Each subsequent turn is 10 seconds. Players must confirm their action before their turn timer expires. If the turn timer expires before a player is able to confirm an action, the auto AI makes a move for the character. If a player misses three actions, the player automatically forfeits the match and the battle ends.\n\n<color=#db8721><i>WIN CONDITION</i></color>\nEliminating all of the opponent's characters results in a victory. If the battle timer expires, the players have 8 moves to complete combat. Afterwards, if both players have surviving characters, the player with the most surviving characters is deemed the victor. If both players have an equal number of surviving characters, the player with the most damage dealt is deemed the victor. If both players have the same damage dealt, the player with the highest single attack damage is deemed the victor.\n\n"
+ID_DRAFT_RULES_BODY_LIMITED,"<color=#db8721><size=60>Draft</size></color>\n\nThe draft consists of three different phases. The players take alternating turns and have a limited time to make their selection(s) for each phase. If the timer expires during a player's turn, the game automatically selects the highest-powered character. If a character is highlighted when the player's timer expires, the highlighted character is selected.\n\n<color=#db8721><i>BAN</i></color>\nDuring the BAN phase, you view your opponent's roster. The character you choose here is globally unavailable during the PICK phase.\n\n<color=#db8721><i>PICK</i></color>\nDuring the PICK phase, you view your own roster. Choose a character to place into the active slot in your squad. Chosen characters are locked into the positions in which they were placed and are unavailable to your opponent.\n\n<color=#db8721><i>REJECT</i></color>\nDuring the REJECT phase, you choose a character to remove from your opponent's squad. A rejected character is globally unavailable during the PICK phase.\n\n<color=#db8721><size=60>Combat</size></color>\n\n<color=#db8721><i>TURN TIMER</i></color>\nThe timer for each player's first turn is 75 seconds. Each subsequent turn is 10 seconds. Players must confirm their action before their turn timer expires. If the turn timer expires before a player is able to confirm an action, the auto AI makes a move for the character. If a player misses three actions, the player automatically forfeits the match and the battle ends.\n\n<color=#db8721><i>WIN CONDITION</i></color>\nEliminating all of the opponent's characters results in a victory. If the battle timer expires, the players have 8 moves to complete combat. Afterwards, if both players have surviving characters, the player with the most surviving characters is deemed the victor. If both players have an equal number of surviving characters, the player with the most damage dealt is deemed the victor. If both players have the same damage dealt, the player with the highest single attack damage is deemed the victor.\n\n"
+ID_DRAFT_RULES_BODY_QUICKPICK,"<color=#db8721><size=60>Squad Select</size></color>\n\nSelect up to 5 characters and search to match up against another player in real-time!\n\n<color=#db8721><size=60>Combat</size></color>\n\n<color=#db8721><i>TURN TIMER</i></color>\nEach player has 75 seconds to load into combat on their first turn. Each subsequent turn is 10 seconds. Players must confirm their action before their turn timer expires. If the turn timer expires before a player is able to confirm an action, the auto AI makes a move for the character. If a player misses three actions, the player automatically forfeits the match, and the battle ends.\n\n<color=#db8721><i>WIN CONDITION</i></color>\nEliminating all of the opponent's characters results in a victory. If the battle timer expires, the players have 8 moves to complete combat. If after this both players have surviving characters, the player with the most surviving characters is deemed the victor. If both players have an equal number of surviving characters, the player with the most damage dealt is deemed the victor. If both players have the same damage dealt, the player with the highest single attack damage is deemed the victor.\n\n"
+ID_DRAFT_RULES_BODY_QUICKPICK_HYBRID,"<color=#db8721><size=60>Squad Select</size></color>\n\nSelect up to 5 characters and search to match up against another player in real-time with balanced characters! Once matched with an opponent, you will enter draft, where each player will then REJECT a character from their opponent's team and then PICK a character to complete the team of 5.\n\n<color=#db8721><size=60>Balanced Draft Character Power</size></color>\n\nAny character at or above <color=#86e619>Gear Tier 9</color> will have their power modified to:\n	Level: <color=#86e619>75</color>\n	Gear Tier: <color=#86e619>13</color>\n	Yellow Stars: <color=#86e619>7</color>\n	Red Stars: <color=#86e619>0</color>\n	Ability Levels: <color=#86e619>7 / 7 / 7 / 5</color>\nNOTE: Any character under <color=#86e619>Gear Tier 9</color> will not be playable.\n\n<color=#db8721><size=60>Combat</size></color>\n\n<color=#db8721><i>TURN TIMER</i></color>\nThe timer for each player's first turn is 75 seconds. Each subsequent turn is 10 seconds. Players must confirm their action before their turn timer expires. If the turn timer expires before a player is able to confirm an action, the auto AI makes a move for the character. If a player misses three actions, the player automatically forfeits the match, and the battle ends.\n\n<color=#db8721><i>WIN CONDITION</i></color>\nEliminating all of the opponent's characters results in a victory. If the battle timer expires, the players have 8 moves to complete combat. If after this both players have surviving characters, the player with the most surviving characters is deemed the victor. If both players have an equal number of surviving characters, the player with the most damage dealt is deemed the victor. If both players have the same damage dealt, the player with the highest single attack damage is deemed the victor.\n\n"
+ID_DRAFT_RULES_BODY_QUICKPICK_HYBRID_CLASSIC,"<color=#db8721><size=60>Squad Select</size></color>\n\nSelect up to 5 characters and search to match up against another player in real-time using your roster! Once matched with an opponent, you will enter draft, where each player will then REJECT a character from their opponent's team and then PICK a character to complete the team of 5.\n\n<color=#db8721><size=60>Combat</size></color>\n\n<color=#db8721><i>TURN TIMER</i></color>\nThe timer for each player's first turn is 75 seconds. Each subsequent turn is 10 seconds. Players must confirm their action before their turn timer expires. If the turn timer expires before a player is able to confirm an action, the auto AI makes a move for the character. If a player misses three actions, the player automatically forfeits the match, and the battle ends.\n\n<color=#db8721><i>WIN CONDITION</i></color>\nEliminating all of the opponent's characters results in a victory. If the battle timer expires, the players have 8 moves to complete combat. If after this both players have surviving characters, the player with the most surviving characters is deemed the victor. If both players have an equal number of surviving characters, the player with the most damage dealt is deemed the victor. If both players have the same damage dealt, the player with the highest single attack damage is deemed the victor.\n\n"
+ID_DRAFT_MODE_BALANCEDROSTER,Balanced Draft
+ID_DRAFT_MODE_BALANCEDROSTER_DESC,Play against an opponent with <color=#fff568>evenly powered</color> characters
+ID_DRAFT_MODE_BALANCEDROSTER_REQ,Player Level 64+\n16+ Characters at Gear Tier 9+
+ID_DRAFT_MODE_BALANCEDROSTER_DETAIL,Details
+ID_DRAFT_MODE_LIMITEDROSTER,Limited Draft
+ID_DRAFT_MODE_LIMITEDROSTER_DESC,Battle with character power limits
+ID_DRAFT_MODE_LIMITEDROSTER_REQ,Max Level 65\nMax Gear Tier 11
+ID_DRAFT_MODE_LIMITEDROSTER_DETAIL,Details
+ID_DRAFT_MODE_QUICKPICK,Quick Match
+ID_DRAFT_MODE_QUICKPICK_DESC,Choose 5 characters and play a random opponent
+ID_DRAFT_MODE_QUICKPICK_REQ,Player Level 64+
+ID_DRAFT_MODE_QUICKPICK_DETAIL,Details
+ID_DRAFT_MODE_QUICKPICK_HYBRID,Quick Draft Balanced
+ID_DRAFT_MODE_QUICKPICK_HYBRID_DESC,Choose 5 characters. Reject 1. Pick 1.
+ID_DRAFT_MODE_QUICKPICK_HYBRID_REQ,Player Level 64+\n16+ Characters at Gear Tier 9+
+ID_DRAFT_MODE_QUICKPICK_HYBRID_DETAIL,Details
+ID_DRAFT_MODE_QUICKPICK_HYBRID_CLASSIC,Quick Draft Classic
+ID_DRAFT_MODE_QUICKPICK_HYBRID_CLASSIC_DESC,Choose 5 characters. Reject 1. Pick 1.
+ID_DRAFT_MODE_QUICKPICK_HYBRID_CLASSIC_REQ,Player Level 64+
+ID_DRAFT_MODE_QUICKPICK_HYBRID_CLASSIC_DETAIL,Details
+ID_DRAFT_DECLINE,{nameUser} has declined {nameChallenger}'s challenge.
+ID_DRAFT_ACCEPT,{nameUser} has accepted {nameChallenger}'s challenge.
+ID_DRAFT_COMBAT_COMPLETE,{nameUser} has defeated {nameChallenger} in VS Battle [{modeName}].
+ID_DRAFT_CHALLENGE_MESSAGE,{player} has challenged {opponent} to a VS Battle [{modeName}].
+ID_DRAFT_CHALLENGE_SENT,You have challenged {opponent} to a VS Battle [{modeName}].
+ID_DRAFT_CHALLENGE_RECEIVED,You have been challenged by {opponent} to a VS Battle [{modeName}].
+ID_DRAFT_CHALLENGE_ACCEPTED,CHALLENGE ACCEPTED
+ID_DRAFT_CHALLENGE_MATCH_FOUND,MATCH FOUND
+ID_DRAFT_BUTTON_ACCEPT,ACCEPT
+ID_DRAFT_BUTTON_REJOIN,REJOIN
+ID_DRAFT_BUTTON_FORFEIT,FORFEIT
+ID_DRAFT_CHALLENGE_TAKEOVER_PLAYER,VS Battle [{modeName}] challenge against {opponent}! Cancel through chat.
+ID_DRAFT_CHALLENGE_TAKEOVER_OPPONENT,{opponent} has challenged you to a VS Battle [{modeName}]! Open chat to respond.
+ID_DRAFT_CHALLENGE_TAKEOVER_DRAFTING," Currently in VS Battle [{modeName}] draft with {opponent}! Open chat to rejoin."
+ID_DRAFT_CHALLENGE_TAKEOVER_COMBAT,Currently in VS Battle [{modeName}] combat with {opponent}! Open chat to rejoin.
+ID_DRAFT_CHALLENGE_MESSAGE_CANCELED,VS Battle [{modeName}] challenge with {opponent} has been canceled.
+ID_DRAFT_CHALLENGE_MESSAGE_COMBAT,Currently in VS Battle [{modeName}] combat with {opponent}.
+ID_DRAFT_CHALLENGE_MESSAGE_COMPLETED,VS Battle [{modeName}] combat has completed.
+ID_DRAFT_CHALLENGE_MESSAGE_DRAFTING,Currently in VS Battle [{modeName}] draft with {opponent}.
+ID_DRAFT_CHALLENGE_MESSAGE_READY,"VS Battle [{modeName}] draft complete, starting combat with {opponent}..."
+ID_DRAFT_CHALLENGE_MESSAGE_EXPIRED,VS Battle [{modeName}] challenge has expired.
+ID_DRAFT_CHALLENGE_EXPIRED,Challenge Expired
+ID_DRAFT_CHALLENGE_EXPIRES_IN,Expires in {time}
+ID_DRAFT_CHALLENGE_FORFEITED_PLAYER,You have forfeited the VS Battle [{modeName}] with {opponent}.
+ID_DRAFT_CHALLENGE_FORFEITED_OPPONENT,{opponent} has forfeited the VS Battle [{modeName}].
+ID_DRAFT_CHALLENGE_CONFIRM_HEADER,Abandon Challenge
+ID_DRAFT_CHALLENGE_CONFIRM_DESC,Are you sure you want to abandon the VS Battle [{modeName}] challenge?
+ID_DRAFT_REQUIREMENT_LOCK_TITLE,Requirement Lock
+ID_DRAFT_REQUIREMENT_LOCK_MSG_PLAYER_LEVEL,You must be at least level {level} to initiate a challenge.
+ID_DRAFT_REQUIREMENT_LOCK_MSG_OPPONENT_LEVEL,Opponent must be at least level {level} to participate in a challenge.
+ID_DRAFT_REQUIREMENT_LOCK_MSG_FRIEND_ALLIANCE,Must be in the same alliance or friends to initiate challenges.
+ID_DRAFT_REQUIREMENT_QUEUE_TITLE,Already in Queue
+ID_DRAFT_REQUIREMENT_QUEUE_MSG,You may only have one active challenge at a time. Would you like to abandon the current queue and send a new challenge?
+ID_DRAFT_REQUIREMENT_QUEUE_MSG_OPPONENT,Opponent is already in a pending challenge.
+ID_DRAFT_REQUIREMENT_QUEUE_MSG_OPPONENT_FAILED,"Could not challenge opponent at this time, please try again later."
+ID_DRAFT_REQUIREMENT_LOCK_MSG_CHARACTER,{nameUser} must have at least {heroes} characters unlocked to VS Battle [{modeName}].
+ID_DRAFT_REQUIREMENT_LOCK_MSG_CHARACTER_TIER,{nameUser} must be at least level {level} with {heroes}+ characters unlocked at gear tier {tier} to play [{modeName}].
+ID_DRAFT_REQUIREMENT_INVALID_TITLE,Invalid Draft
+ID_DRAFT_REQUIREMENT_INVALID_MSG,Draft in invalid state for being accepted.
+ID_DRAFT_REQUIREMENT_VERSION_MISMATCH,Both players must be on the same game version to play VS Battle!
+ID_DRAFT_REQUIREMENT_VERSION_MISMATCH_PLAYER,{player} is running an older game version and must update to play VS Battle!
+ID_DRAFT_TOASTER_MESSAGE_ACCEPTED,CHALLENGE\nACCEPTED!
+ID_DRAFT_TOP_BAR_CLASSIC,Classic Draft
+ID_DRAFT_TOP_BAR_BALANCED,Balanced Draft
+ID_DRAFT_TOP_BAR_LIMITED,Limited Draft
+ID_DRAFT_TOP_BAR_QUICKPICK,Quick Match
+ID_DRAFT_TOP_BAR_QUICKPICK_HYBRID,Quick Draft Balanced
+ID_DRAFT_TOP_BAR_QUICKPICK_HYBRID_CLASSIC,Quick Draft Classic
+ID_DRAFT_BAN,Ban
+ID_DRAFT_PICK,Pick
+ID_DRAFT_REJECT,Reject
+ID_DRAFT_REORDER,Reorder
+ID_DRAFT_PLAYER,Your
+ID_DRAFT_OPPONENT,Opponent
+ID_DRAFT_OPPONENT_ROSTER,Opponent Roster
+ID_DRAFT_MY_ROSTER,My Roster
+ID_DRAFT_TIME_TO_FIGHT,Time to fight!
+ID_DRAFT_FIGHT,Fight
+ID_DRAFT_BEGIN,Begin
+ID_DRAFT_WAITING,Waiting
+ID_DRAFT_CONFIRM,Confirm
+ID_DRAFT_BANNED,Banned
+ID_ROSTER_DRAFT_REJECT_CTA,Reject a character from the opponent's squad
+ID_ROSTER_DRAFT_REJECT_OPPONENT,Opponent is rejecting a character
+ID_ROSTER_DRAFT_BATTLE_START,Battle starts in:
+ID_ROSTER_DRAFT_BATTLE_WAITING,Waiting for battle to start
+ID_DRAFT_CONFIRM_HEADER,Quit Draft
+ID_DRAFT_CONFIRM_DESC,Are you sure you want to forfeit this match?
+ID_DRAFT_CANCEL_HEADER,Draft Canceled
+ID_DRAFT_CANCEL_DESC,This draft has been canceled.
+ID_SYNC_TIMER_OVERTIME_TURNS_LEFT,Turns Left
+ID_ROSTER_DRAFT_FAVORITED_TOAST,VS BATTLE FAVORITED
+ID_DRAFT_COMBAT_RESUME_HEADLINE,Restoring Combat
+ID_DRAFT_COMBAT_RESUME_BODY,Please wait while this match is being restored.
+ID_DRAFT_WAITING_ON_OPPONENT,Waiting on opponent
+ID_DRAFT_COMBAT_PAUSEMENU_TITLE,VS Battle
+ID_DRAFT_COMBAT_PAUSEMENU_BODY,Defeat all enemies to prove your worth.
+ID_DRAFT_BETA,<i>[BETA]</i>
+ID_DRAFT_PICK_NUM,Picking {num}
+ID_DRAFT_BAN_NUM,Banning {num}
+ID_DRAFT_REJECT_NUM,Rejecting {num}
+ID_DRAFT_PICK_INTRO,First Pick
+ID_DRAFT_BAN_INTRO,First Ban
+ID_DRAFT_REJECT_INTRO,First Reject
+ID_DRAFT_PICK_FIRST,First Pick
+ID_DRAFT_PICK_SECOND,Second Pick
+ID_DRAFT_PICK_THIRD,Third Pick
+ID_DRAFT_PICK_FOURTH,Fourth Pick
+ID_DRAFT_PICK_LAST,Last Pick
+ID_DRAFT_BAN_FIRST,First Ban
+ID_DRAFT_BAN_SECOND,Second Ban
+ID_DRAFT_BAN_LAST,Last Ban
+ID_DRAFT_REJECT_FIRST,First Reject
+ID_DRAFT_REJECT_SECOND,Second Reject
+ID_DRAFT_REJECT_LAST,Last Reject
+ID_DRAFT_REORDER_CTA,Reorder your characters and confirm when ready
+ID_DRAFT_SEARCHING,Searching
+ID_DRAFT_MATCH_FOUND,Match Found
+ID_DRAFT_MATCH_ACCEPTED,Match Accepted
+ID_DRAFT_WAITING_FOR_OPPONENT,Waiting for opponent
+ID_DRAFT_OK,OK
+ID_DRAFT_OPPONENT_DECLINED,Opponent Declined
+ID_DRAFT_MATCH_IN_PROGRESS,Match in progress
+ID_DRAFT_MATCHMAKING_DESCRIPTION,Play against an opponent with evenly-powered characters
+ID_DRAFT_MATCHMAKING_RETRY_DESCRIPTION,There was an error in matchmaking. Please try again.\n\nPlay against an opponent with evenly-powered characters.
+ID_DRAFT_MATCHMAKING_HEADLINE,Real-Time Arena
+ID_DRAFT_PREVIOUS_MATCH_INVALID,Previous match no longer exists
+ID_DRAFT_SEARCHING_FOR_OPPONENT,Searching for opponent
+ID_DRAFT_MATCH_ACTIVE,You are currently in Draft / Combat
+ID_DRAFT_OPPONENT_UNAVAILABLE,Opponent Unavailable
+ID_DRAFT_CARD_INFO_NA_VSBATTLE_MATCH,VS Battle Match
+ID_DRAFT_CARD_INFO_DE_VSBATTLE_MATCH,Battle against evenly-powered characters
+ID_DRAFT_CARD_INFO_BO_VSBATTLE_MATCH,"Commander,\n\nHave fun playing with your roster like never before by testing your might in the new upcoming game mode: <color=#fff568>VS Battle Match</color>\n\n- Challenge friends and Alliance members\n- Engage in a strategic live draft from your roster to build your team\n- Face-off in epic real-time battles\n\nThe battle begins soon, so start preparing your Roster!"
+ID_DRAFT_POPUP_COOLDOWN_TIMER,On matchmaking cooldown for: {num}
+ID_DRAFT_POPUP_COOLDOWN_NOTIFICATION,On matchmaking cooldown!
+ID_DRAFT_NOT_ENOUGH_FAVORITES_TITLE,Not Enough VS Favorites!
+ID_DRAFT_NOT_ENOUGH_FAVORITES_DESC,Select {num}+ VS Favorites to use Auto Draft
