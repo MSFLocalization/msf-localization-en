@@ -394,6 +394,10 @@ ID_MOTD_NA_BONUS_XP,XP Throttle
 ID_MOTD_DE_BONUS_XP,Doubled Commander XP from Campaigns!
 ID_MOTD_NA_BONUS_ISO_XP,XP Overdrive
 ID_MOTD_DE_BONUS_ISO_XP,Commander XP added to the Isotope-8 Campaign!
+ID_MOTD_NA_BONUS_3XP,XP Throttle
+ID_MOTD_DE_BONUS_3XP,Tripled Commander XP from Campaigns!
+ID_MOTD_NA_BONUS_4XP,XP Throttle
+ID_MOTD_DE_BONUS_5XP,Quadrupled Commander XP from Campaigns!
 ID_MOTD_NA_ABOMINATION,Gamma Obsessed: Now Live!
 ID_MOTD_DE_ABOMINATION,Battle for a chance to win Abomination shards
 ID_MOTD_NA_ABSORBINGMAN,Materialistic: Now Live!
@@ -2658,3 +2662,5 @@ ID_MOTD_NA_ALLIEDENGINES_ANNOUNCE,LIVE: Allied Engines
 ID_MOTD_DE_ALLIEDENGINES_ANNOUNCE,Earn a 3-Diamond Venom!
 ID_MOTD_NA_ALLIEDENGINES_ENDING,Ending Soon: Allied Engines
 ID_MOTD_DE_ALLIEDENGINES_ENDING,Earn a 3-Diamond Venom!
+ID_MOTD_NA_MACHINESOFWAR_ANNOUNCE,LIVE: Machines of War
+ID_MOTD_DE_MACHINESOFWAR_ANNOUNCE,Battle in Alliance War for glorious rewards!

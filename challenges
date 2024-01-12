@@ -1211,6 +1211,12 @@ ID_INFO_BO_BONUS_XP,The amount of Commander XP earned from all Campaign nodes ha
 ID_INFO_NA_BONUS_ISO_XP,XP Overdrive
 ID_INFO_DE_BONUS_ISO_XP,Bonus Commander XP
 ID_INFO_BO_BONUS_ISO_XP,Commander XP has been added to all Isotope-8 Campaign nodes.
+ID_INFO_NA_BONUS_3XP,XP Throttle
+ID_INFO_DE_BONUS_3XP,3x Commander XP
+ID_INFO_BO_BONUS_3XP,The amount of Commander XP earned from all Campaign nodes have been tripled.
+ID_INFO_NA_BONUS_4XP,XP Throttle
+ID_INFO_DE_BONUS_4XP,4x Commander XP
+ID_INFO_BO_BONUS_4XP,The amount of Commander XP earned from all Campaign nodes have been quadrupled.
 ID_INFO_NA_VS_BATTLE_MATCHMAKING,VS Battle Match
 ID_INFO_DE_VS_BATTLE_MATCHMAKING_CLASSIC,Classic Draft
 ID_INFO_DE_VS_BATTLE_MATCHMAKING_BALANCED,Balanced Draft
@@ -2172,7 +2178,7 @@ ID_SSE_HIVEMIND_NAME,Symbiotic Collective
 ID_SSE_HIVEMIND_DESC,"Unable to disobey the commands of a mysterious voice in their heads, the Symbiotes begin expanding the reach of the Hive-Mind."
 ID_SSE_CHANCE_HIVEMIND,Hive-Mind Showcase
 ID_EVENT_HIVEMIND_TD_FLAVOR,Try the Hive-Mind
-ID_EVENT_HIVEMIND_TD_DESC,Play with a full team of Hive-Mind characters in sample battles from the Incursion Raid II.\n\nRaid specific bonuses and effects are enabled in these missions.
+ID_EVENT_HIVEMIND_TD_DESC,Play with a team of Hive-Mind characters in sample battles from the Incursion Raid II.\n\nRaid specific bonuses and effects are enabled in these missions.
 ID_EVENT_HIVEMIND_STORY_FLAVOR,Earn amazing rewards!
 ID_EVENT_HIVEMIND_STORY_DESC,Requirements:\n- Hive-Mind or Symbiote characters
 ID_EVENT_HIVEMIND_CH_FLAVOR,Challenge Your Skills!
@@ -2191,3 +2197,6 @@ ID_INFO_BO_BLASTOFFTO100,"<color=#fff568>Blastoff to 100 Milestone</color>\nScor
 ID_INFO_NA_ALLIEDENGINES,Allied Engines
 ID_INFO_DE_ALLIEDENGINES,Win this Alliance event for a 3-Diamond Venom!
 ID_INFO_BO_ALLIEDENGINES,"<color=#fff568>Allied Engines Milestone</color>\nScore points by battling in Raids with X-Treme X-Men and by collecting Allied Supply III Orb Fragments. Rewards include 1-Diamond Venom, Armory 17 Orbs, T2 Level 5 Ions and more!\n\n<color=#fff568>Allied Engines Leaderboard</color>\nCompete on the Leaderboards for up to a 3-Diamond Venom, Mega Gold Orbs and Armory 18 Orbs!\n\n<color=#fff568>Allied Supply III orb</color>\nYour favorite alliance event orb has been upgraded! This new version of the Allied Supply Orb features increased value and jackpots on all pillars, more than 3x the amount of Gold and higher rarity Elite Credits.\nCollect it in special offers for Gold, Training Materials, T2 Level 5 Ion Orb Fragments and more!\n\nGood luck, Commander!"
+ID_INFO_NA_MACHINESOFWAR,Machines of War
+ID_INFO_DE_MACHINESOFWAR,Battle in Alliance War for glorious rewards!
+ID_INFO_BO_MACHINESOFWAR,"<color=#fff568>Machines of War Milestone</color>\nGain progress in this <color=#fff568>4-day</color> event by battling in Alliance War and earning Allied Supply III Orb fragments from daily Free Claims and special offers. Earn incredible rewards including <color=#fff568>Elite Credits, and T2 Level 5 Ion Orbs</color>. You'll also earn points towards the month-long Mechanical Marvel milestone by collecting X-Batteries."

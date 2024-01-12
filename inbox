@@ -873,6 +873,12 @@ ID_ME_BO_BONUS_XP,"Commander,\n\nFor a limited time earn <color=#fff568>2x</colo
 ID_ME_NA_BONUS_ISO_XP,XP Overdrive
 ID_ME_DE_BONUS_ISO_XP,Bonus Commander XP added to Isotope-8 Campaign!
 ID_ME_BO_BONUS_ISO_XP,"Commander,\n\nFor a limited time, earn <color=#fff568>Commander XP</color> from Isotope-8 Campaign nodes.\n\nEarn more Commander XP to level up faster!"
+ID_ME_NA_BONUS_3XP,XP Throttle
+ID_ME_DE_BONUS_3XP,Tripled Commander XP from Campaigns!
+ID_ME_BO_BONUS_3XP,"Commander,\n\nFor a limited time earn <color=#fff568>3x</color> Commander XP from Campaigns.\n\nEarn more Commander XP to level up faster!"
+ID_ME_NA_BONUS_4XP,XP Throttle
+ID_ME_DE_BONUS_4XP,Quadrupled Commander XP from Campaigns!
+ID_ME_BO_BONUS_4XP,"Commander,\n\nFor a limited time earn <color=#fff568>4x</color> Commander XP from Campaigns.\n\nEarn more Commander XP to level up faster!"
 ID_ME_NA_10FOR10_TEASER,Coming Soon: 10 for 10
 ID_ME_DE_10FOR10_TEASER,Limited time only!
 ID_ME_BO_10FOR10_TEASER,"Commander,\n\nBe on the lookout for a limited time deal where you will be able to spend <color=#fff568>10 Power Cores</color> to get <color=#fff568>10 shards</color> of a character currently available in Campaign Missions.\n\nCheck back soon for this limited time deal!"
@@ -8126,3 +8132,6 @@ ID_ME_BO_BLASTOFFTO100_CORE,"Commander,\n\n<color=#fff568>Blastoff to 100 Milest
 ID_ME_NA_BLASTOFFTO100_ENDING,ENDING: Blastoff to 100
 ID_ME_DE_BLASTOFFTO100_ENDING,Don't miss out on Event Store rewards!
 ID_ME_BO_BLASTOFFTO100_ENDING,"Commander,\n\nThe Blastoff to 100 Event <color=#fff568>ends soon</color>. Continue spending Century Credits on your choice of rewards before it's too late! Push to the top of the leaderboard for a <color=#fff568>3-Diamond Nova</color>!\n\nGood luck, Commander!"
+ID_ME_NA_MACHINESOFWAR_ANNOUNCE,LIVE: Machines of War
+ID_ME_DE_MACHINESOFWAR_ANNOUNCE,Battle in Alliance War for glorious rewards!
+ID_ME_BO_MACHINESOFWAR_ANNOUNCE,"Commander,\n\nCollaborate with your alliance and battle in War in this 4-day milestone to earn Mechanical Marvel progress.\n\nGood luck, Commander!"

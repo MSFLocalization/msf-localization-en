@@ -5787,8 +5787,34 @@ ID_OF_NA_LEVEL100_XPSMALLPOST,Level 100: Power Up
 ID_OF_DE_LEVEL100_ENERGYBIGPRE,Get supercharged with this Campaign Energy special! Get to level 95 and prepare for your climb to level 100!
 ID_OF_DE_LEVEL100_ENERGYSMALLPRE,Bring your roster to higher levels with this pack of Campaign Energy!
 ID_OF_DE_LEVEL100_XPBIGPRE,Accelerate your way to new levels with this XP pack! Don't miss out on this limited time opportunity to boost your progress! <color=#ffda21>This offer is not impacted by the XP Throttle event.</color>
-ID_OF_DE_LEVEL100_XPSMALLPRE,Experience the new levels faster with this limited time XP pack! Prepeare your roster for the challenges ahead. <color=#ffda21>This offer is not impacted by the XP Throttle event.</color>
+ID_OF_DE_LEVEL100_XPSMALLPRE,Experience the new levels faster with this limited time XP pack! Prepare your roster for the challenges ahead. <color=#ffda21>This offer is not impacted by the XP Throttle event.</color>
 ID_OF_DE_LEVEL100_ENERGYBIGPOST,Start your surge to Level 100 with this Campaign Energy special!
 ID_OF_DE_LEVEL100_ENERGYSMALLPOST,Bring your roster to higher levels with this pack of Campaign Energy!
 ID_OF_DE_LEVEL100_XPBIGPOST,Level 100 Is Here! Get instant progress with this special XP pack!
 ID_OF_DE_LEVEL100_XPSMALLPOST,Don't Delay! Progress immediately towards Level 100 with this limited time offer!
+ID_OF_NA_MACHINESOFWAR_STARTER,Machines of War: Starter Bundle
+ID_OF_NA_MACHINESOFWAR_CATCHUP,Machines of War: Catch-Up Bundle
+ID_OF_NA_MACHINESOFWAR_WAR,Machines of War: Battle Supply
+ID_OF_NA_MACHINESOFWAR_EVENTORB,Machines of War: Orb Supply
+ID_OF_NA_MACHINESOFWAR_INTERSTITIAL,Machines of War: Supply Special
+ID_OF_NA_MACHINESOFWAR_FREE,Machines of War: Daily Orb Drop
+ID_OF_DE_MACHINESOFWAR_STARTER,Get a head start in the <color=#fff568>Machines of War</color> Milestone and get high value Iso-8 rewards!
+ID_OF_DE_MACHINESOFWAR_CATCHUP,Push your alliance to the finish line in the <color=#fff568>Machines of War</color> Milestone and get T2 Level 4 Ions and Iso-8 Orbs containing guaranteed T2 Level 5 Ions!
+ID_OF_DE_MACHINESOFWAR_WAR,Take advantage of this special deal to get the edge in War and help your Alliance progress in the <color=#fff568>Machines of War</color> milestone!
+ID_OF_DE_MACHINESOFWAR_EVENTORB,"Get these orbs for <color=#fff568>Machines of War</color> progress and open them for special Iso-8 Orbs containing T2 Level 5 Ions guaranteed! "
+ID_OF_DE_MACHINESOFWAR_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Machines of War</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_MACHINESOFWAR_FREE,Come back daily for more <color=#fff568>Machines of War</color> progress!
+ID_OF_NA_MONTHLYSPECIAL_LIZARD,January Web Special: Reptilian Wrecking Ball
+ID_OF_NA_MONTHLYSPECIAL_IMIWDARKHAWK,January Web Special: Cyber Raiders
+ID_OF_NA_WEEKLY_WED_MUTANTORIGIN,Wednesday Web: Teal Mutant Origin
+ID_OF_NA_WEEKLY_WED_SKILLORIGIN,Wednesday Web: Teal Skill Origin
+ID_OF_NA_WEEKLY_WED_BIOORIGIN,Wednesday Web: Teal Bio Origin
+ID_OF_NA_WEEKLY_WED_TECHORIGIN,Wednesday Web: Teal Tech Origin
+ID_OF_NA_WEEKLY_WED_MYSTICORIGIN,Wednesday Web: Teal Mystic Origin
+ID_OF_DE_MONTHLYSPECIAL_LIZARD,Power up <color=#fff568>Lizard</color> and devour your enemies!
+ID_OF_DE_MONTHLYSPECIAL_IMIWDARKHAWK,Reach new heights by powering up <color=#ffda21>Iron Man (Infinity War) and Darkhawk</color> with this special Monthly Web special!
+ID_OF_DE_WEEKLY_WED_MUTANTORIGIN,Gear up your <color=#ffda21>Mutant</color> characters with this special Wednesday Web special!
+ID_OF_DE_WEEKLY_WED_SKILLORIGIN,Gear up your <color=#ffda21>Skill</color> characters with this special Wednesday Web special!
+ID_OF_DE_WEEKLY_WED_BIOORIGIN,Gear up your <color=#ffda21>Bio</color> characters with this special Wednesday Web special!
+ID_OF_DE_WEEKLY_WED_TECHORIGIN,Gear up your <color=#ffda21>Tech</color> characters with this special Wednesday Web special!
+ID_OF_DE_WEEKLY_WED_MYSTICORIGIN,Gear up your <color=#ffda21>Mystic</color> characters with this special Wednesday Web special!

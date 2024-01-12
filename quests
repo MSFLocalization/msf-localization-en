@@ -3919,3 +3919,8 @@ ID_QU_NA_LEVELLIFTOFF,Level Liftoff
 ID_QU_SD_LEVELLIFTOFF,Battle in Raids
 ID_QU_LD_LEVELLIFTOFF,Battle in Raids to complete this daily milestone that rewards Century Credits for Blastoff to 100 Event progress!
 ID_QU_S1_LEVELLIFTOFF,Play 1 Raid Battle
+ID_QU_NA_MACHINESOFWAR,Machines of War
+ID_QU_SD_MACHINESOFWAR,Battle in War and Earn Allied Supply III Orb Fragments
+ID_QU_LD_MACHINESOFWAR,"Machines of War Milestone\nGain progress in this 4-day event by battling in Alliance War and earning Allied Supply III Orb fragments from daily Free Claims and special offers. Earn incredible rewards including Elite Credits, and T2 Level 5 Ion Orbs. You'll also earn points towards the month-long Mechanical Marvel milestone by collecting X-Batteries."
+ID_QU_S1_MACHINESOFWAR,Play 1 War Battle
+ID_QU_S2_MACHINESOFWAR,Earn 1 Allied Supply III Orb Fragment
