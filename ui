@@ -1389,6 +1389,8 @@ ID_FRAME_NOVMETA23_NAME,Vibranium Plated
 ID_FRAME_NOVMETA23_UNLOCK,Via the Reverse-Engineer Event
 ID_FRAME_DECEMBER2023_NAME,Snowflake
 ID_FRAME_DECMETA23_UNLOCK,Via the Frozen Festival Event
+ID_FRAME_SYMBIOTE_NAME,Symbiote Ooze
+ID_FRAME_SYMBIOTE_UNLOCK,Via specific Void Knight limited time offer
 ID_EVENT_SURVIVAL_EVENT,Survival
 ID_SURVIVAL_TITLE,Escape from Kyln
 ID_SURVIVAL_FLOOR,<size=65%><voffset=.385em>CELL</size></voffset> {floor}

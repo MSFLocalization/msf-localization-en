@@ -3907,7 +3907,15 @@ ID_QU_S6_ALLIEDENGINES,Battle in Raids with X-Treme X-Men at 7 Yellow Stars
 ID_QU_NA_PACTOFWRATH,Pact of Wrath
 ID_QU_SD_PACTOFWRATH,Unlock Nova's Costume
 ID_QU_SC_PACTOFWRATH,Earn corrupted items from limited time offers
-ID_QU_LM_PACTOFWRATH,Hive Mind character offers contain corrupted items in them. Earn one of each corrupted item to unlock Nova's Wrath costume!
+ID_QU_LM_PACTOFWRATH,Hive-Mind character offers contain corrupted items in them. Earn one of each corrupted item to unlock Nova's Wrath costume!
 ID_QU_S1_PACTOFWRATH,Earn 1 Corrupted Helmet
 ID_QU_S2_PACTOFWRATH,Earn 1 Corrupted Armor
 ID_QU_S3_PACTOFWRATH,Earn 1 Corrupted Gauntlets
+ID_QU_NA_BLASTOFFTO100,Blastoff to 100
+ID_QU_SD_BLASTOFFTO100,Earn Century Credits for the Event Store
+ID_QU_LM_BLASTOFFTO100,"Earn Century Credits for the limited time Event Store to earn milestone progress. Century Credits can be found in Campaign Nodes, daily Free Claims, and the daily Level Liftoff Web Milestone. \nThe Event Store will contain: \n- Select Character Shards\n- Teal Gear\n- Orange Gear\n- Elite 5, 6, and 7 Credits\n- Silver, Gold, and Dark Promotion Credits"
+ID_QU_S1_BLASTOFFTO100,Earn 1 Century Credit
+ID_QU_NA_LEVELLIFTOFF,Level Liftoff
+ID_QU_SD_LEVELLIFTOFF,Battle in Raids
+ID_QU_LD_LEVELLIFTOFF,Battle in Raids to complete this daily milestone that rewards Century Credits for Blastoff to 100 Event progress!
+ID_QU_S1_LEVELLIFTOFF,Play 1 Raid Battle

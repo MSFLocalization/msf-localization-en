@@ -5745,6 +5745,21 @@ ID_OF_DE_GOLDXTREMEMINI_JANJUBILATION,A bounty of <color=#ffda21>Gold</color> an
 ID_OF_DE_TRAINGOLDABM_JANJUBILATION,Take your roster to the next level with this special seasonal deal! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_CATALYSTGOLD_JANJUBILATION,Reap a bountiful harvest of <color=#fff568>Teal Gear Catalysts</color> with this exceptional deal! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_D7PROMODPC_JANJUBILATION,Raise the Red Star ranks of your roster with this boost of <color=#ffda21>Dark Promotion Credits</color>! <color=#ffda21>A {var1}x value</color>!
+ID_OF_NA_BLASTOFFTO100_MEGA_STARTER,Blastoff to 100: Mega Starter
+ID_OF_NA_BLASTOFFTO100_STARTER,Blastoff to 100: Starter
+ID_OF_NA_BLASTOFFTO100_MEGA_CATCHUP,Blastoff to 100: Mega Catch-Up
+ID_OF_NA_BLASTOFFTO100_CATCHUP,Blastoff to 100: Catch-Up
+ID_OF_NA_BLASTOFFTO100_DAILY_CUR,Blastoff to 100: Daily Credit Cache
+ID_OF_NA_BLASTOFFTO100_DAILY_POINTS,Blastoff to 100: Daily Blastoff Bundle
+ID_OF_NA_BLASTOFFTO100_DAILY_ENERGY,Blastoff to 100: Daily Energy Bundle
+ID_OF_NA_BLASTOFFTO100FREE_CLAIM,Blastoff to 100: Free Claim
+ID_OF_DE_BLASTOFFTO100_STARTER,Get ahead in the <color=#fff568>Blastoff to 100</color> Milestone and one-up the competition in the leaderboard for a chance at a <color=#fff568>3-Diamond Nova</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_DE_BLASTOFFTO100_CATCHUP,Finish strong in the <color=#fff568>Blastoff to 100 Milestone</color> and climb the leaderboard for a chance at a <color=#fff568>3-Diamond Nova</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_DE_BLASTOFFTO100_DAILY_CUR,Spend Century Credits in the Event Store and progress in the <color=#fff568>Blastoff to 100</color> Milestone for double value!
+ID_OF_DE_BLASTOFFTO100_DAILY_POINTS,Blast through the <color=#fff568>Blastoff to 100 Milestone</color> with this big point offer!
+ID_OF_DE_BLASTOFFTO100_DAILY_ENERGY,Battle through the <color=#fff568>Blastoff to 100 Milestone</color> with this Campaign Energy bundle!
+ID_OF_DE_BLASTOFFTO100_INTERSTITIAL,Stock up on Century Credits and Event Points for extra progress in <color=#fff568>Blastoff to 100 Milestone</color>!
+ID_OF_DE_BLASTOFFTO100FREE_CLAIM,Come back daily for more <color=#fff568>Blastoff to 100</color> progress!
 ID_OF_NA_ALLIEDENGINES_STARTER,Allied Engines: Starter
 ID_OF_NA_ALLIEDENGINES_CATCHUP,Allied Engines: Catch-up
 ID_OF_NA_ALLIEDENGINES_DAILY_ORB,Daily Teamwork
@@ -5761,3 +5776,19 @@ ID_OF_DE_ALLIEDENGINES_XTR,Rank up your X-Treme X-Men to maximize your <color=#f
 ID_OF_DE_ALLIEDENGINES_FREECLAIM,Come back daily for more <color=#fff568>Allied Engines</color> progress!
 ID_OF_DE_ALLIEDENGINES_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Allied Engines</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_ALLIEDENGINES_GENERIC,Get ahead in the <color=#fff568>Allied Engines</color> Milestone and Leaderboard and propel your Alliance to <color=#fff568>Venom Diamonds</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_NA_LEVEL100_ENERGYBIGPRE,Overwhelming Energy
+ID_OF_NA_LEVEL100_ENERGYSMALLPRE,Energy Charge
+ID_OF_NA_LEVEL100_XPBIGPRE,XP Overdrive
+ID_OF_NA_LEVEL100_XPSMALLPRE,Energizing XP
+ID_OF_NA_LEVEL100_ENERGYBIGPOST,Surge to Level 100
+ID_OF_NA_LEVEL100_ENERGYSMALLPOST,Stunning Energy Bundle
+ID_OF_NA_LEVEL100_XPBIGPOST,Experience Level 100
+ID_OF_NA_LEVEL100_XPSMALLPOST,Level 100: Power Up
+ID_OF_DE_LEVEL100_ENERGYBIGPRE,Get supercharged with this Campaign Energy special! Get to level 95 and prepare for your climb to level 100!
+ID_OF_DE_LEVEL100_ENERGYSMALLPRE,Bring your roster to higher levels with this pack of Campaign Energy!
+ID_OF_DE_LEVEL100_XPBIGPRE,Accelerate your way to new levels with this XP pack! Don't miss out on this limited time opportunity to boost your progress! <color=#ffda21>This offer is not impacted by the XP Throttle event.</color>
+ID_OF_DE_LEVEL100_XPSMALLPRE,Experience the new levels faster with this limited time XP pack! Prepeare your roster for the challenges ahead. <color=#ffda21>This offer is not impacted by the XP Throttle event.</color>
+ID_OF_DE_LEVEL100_ENERGYBIGPOST,Start your surge to Level 100 with this Campaign Energy special!
+ID_OF_DE_LEVEL100_ENERGYSMALLPOST,Bring your roster to higher levels with this pack of Campaign Energy!
+ID_OF_DE_LEVEL100_XPBIGPOST,Level 100 Is Here! Get instant progress with this special XP pack!
+ID_OF_DE_LEVEL100_XPSMALLPOST,Don't Delay! Progress immediately towards Level 100 with this limited time offer!
