@@ -5818,3 +5818,16 @@ ID_OF_DE_WEEKLY_WED_SKILLORIGIN,Gear up your <color=#ffda21>Skill</color> charac
 ID_OF_DE_WEEKLY_WED_BIOORIGIN,Gear up your <color=#ffda21>Bio</color> characters with this special Wednesday Web special!
 ID_OF_DE_WEEKLY_WED_TECHORIGIN,Gear up your <color=#ffda21>Tech</color> characters with this special Wednesday Web special!
 ID_OF_DE_WEEKLY_WED_MYSTICORIGIN,Gear up your <color=#ffda21>Mystic</color> characters with this special Wednesday Web special!
+ID_OF_NA_GWENOM_FCO_OFFER,Arachna-Symbiote
+ID_OF_DE_GWENOM_FCO_OFFER,Each <color=#fff568>Grudge Orb</color> contains <color=#fff568>up to 180 Gwenom</color> shards. <color=#fff568>Gwenom</color> swings in to deliver symbiotic mayhem and imbues <color=#fff568>Hive-Mind</color> allies with ability energy!
+ID_OF_DE_GWENOM_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Gwenom</color> and unlock one-time only release offers on your next visit! <color=#fff568>Gwenom</color> swings in to deliver symbiotic mayhem and imbues <color=#fff568>Hive-Mind</color> allies with ability energy!
+ID_OF_DE_GWENOM_OFFER_SHARD,Power up <color=#fff568>Gwenom</color> with this shard offer! <color=#fff568>Gwenom</color> swings in to deliver symbiotic mayhem and imbues <color=#fff568>Hive-Mind</color> allies with ability energy!
+ID_OF_STOREBAR_GWENOM,Dual Offer: Gwenom
+ID_OF_NA_DUAL_GWENOM,Dual Offer: Gwenom
+ID_OF_DE_DUAL_GWENOM,Choose your path to power up this <color=#fff568>Hive-Mind</color> member!
+ID_OF_DE_DUAL_UNLOCK_GWENOM,Unlock this <color=#fff568>Hive-Mind</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_GWENOM_WEB_EXTRA_FCO_OFFER,Web Extra: Gwenom
+ID_OF_NA_GWENOM_WEB_SPECIAL_OFFER,Web Special: Gwenom
+ID_OF_DE_GWENOM_WEB_EXTRA_FCO_OFFER,"<color=#fff568>Web Extra!</color> The Arachna-Symbiote, <color=#fff568>Gwenom</color>, swings in to spread anarchy to foes!"
+ID_OF_DE_GWENOM_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> Deliver symbiotic mayhem and generate ability energy with<color=#fff568>Gwenom</color>leading the way!
+ID_OF_DE_ECHO_OFFER_SKIN,"Get 80 Echo shards and acquire her costume! Prevent enemy Assists, boost damage for Young Avengers, and retaliate against enemies who attack Young Avenger allies."

@@ -8132,6 +8132,22 @@ ID_ME_BO_BLASTOFFTO100_CORE,"Commander,\n\n<color=#fff568>Blastoff to 100 Milest
 ID_ME_NA_BLASTOFFTO100_ENDING,ENDING: Blastoff to 100
 ID_ME_DE_BLASTOFFTO100_ENDING,Don't miss out on Event Store rewards!
 ID_ME_BO_BLASTOFFTO100_ENDING,"Commander,\n\nThe Blastoff to 100 Event <color=#fff568>ends soon</color>. Continue spending Century Credits on your choice of rewards before it's too late! Push to the top of the leaderboard for a <color=#fff568>3-Diamond Nova</color>!\n\nGood luck, Commander!"
+ID_ME_NA_XTXM_PREBAMESH,Recruit the X-Treme X-Men!
+ID_ME_BO_XTXM_PREBAMESH,"Commander,\n\n<color=#fff568>Nightcrawler</color>, <color=#fff568>Forge</color>, and <color=#fff568>Sunspot</color> have been added to the Ultimus, Basic, Premium, and Mega Orbs, and to the Supplies section of the Ultra and Main Stores.\n\nIn addition, direct <color=#fff568>Red Star</color> and <color=#fff568>Diamond</color> Promotions for these characters are now available in the Supplies section of the Elite Store.\n\n<color=#fff568>Titania</color>, <color=#fff568>Absorbing Man</color>, and <color=#fff568>Moonstone</color> have been removed from the Mega Orb and Main Supplies to keep the store content exciting and up to date."
 ID_ME_NA_MACHINESOFWAR_ANNOUNCE,LIVE: Machines of War
 ID_ME_DE_MACHINESOFWAR_ANNOUNCE,Battle in Alliance War for glorious rewards!
 ID_ME_BO_MACHINESOFWAR_ANNOUNCE,"Commander,\n\nCollaborate with your alliance and battle in War in this 4-day milestone to earn Mechanical Marvel progress.\n\nGood luck, Commander!"
+ID_ME_NA_PEGASUS_FOUNTAIN,Recruit P.E.G.A.S.U.S.!
+ID_ME_BO_PEGASUS_FOUNTAIN,"Commander,\n\n<color=#fff568>Iron Man (Infinity War)</color> character shards are now available in the <color=#fff568>Cosmic Crucible Store</color> for Elite Crucible Credits.\n\n<color=#fff568>Darkhawk</color> character shards are now available in <color=#fff568>Hard Heroes 7-6</color>, replacing Morbius who remains available in the Blitz Store.\n\n<color=#fff568>Ironheart (MKII)</color> character shards now available in the <color=#fff568>War Store</color> for War Credits."
+ID_ME_NA_GWENOM_TEASER,Coming Soon: Gwenom
+ID_ME_DE_GWENOM_TEASER,Arachna-Symbiote
+ID_ME_BO_GWENOM_TEASER,"Commander,\n\nControl the battle using powerful negative effects with<color=#fff568>Gwenom</color>!\n\n<color=#fff568>A Symbiotic Cacophony </color>\nGwenom's devastating attacks clear Barrier and Stuns enemies. On top of beating enemies like a drum, Gwenom provides healing, Barrier, and spreads positive effects to herself and all her Hive Mind allies.\n\n<color=#fff568>Gwenom Raid Bonuses</color> \nFeed Hive-Mind Allies by generating additional ability energy and more positive effects!\n\n\n\nBe on the lookout for details on how to earn their character shards!"
+ID_ME_NA_GWENOM_ANNOUNCE,Gwenom is here!
+ID_ME_DE_GWENOM_ANNOUNCE,Arachna-Symbiote
+ID_ME_BO_GWENOM_ANNOUNCE,"Commander,\n\nControl the battle using powerful negative effects with<color=#fff568>Gwenom</color>!\n\n<color=#fff568>A Symbiotic Cacophony </color>\nGwenom's devastating attacks clear Barrier and Stuns enemies. On top of beating enemies like a drum, Gwenom provides healing, Barrier, and spreads positive effects to herself and all her Hive Mind allies.\n\n<color=#fff568>Gwenom Raid Bonuses</color> \nFeed Hive-Mind Allies by generating additional ability energy and more positive effects!\n\n<color=#fff568>How to Recruit</color>\n- Grudge Orb\n- Limited-time offers\n- An upcoming event\n\nRecruit this Arachna-Symbiote today!"
+ID_ME_NA_GWENOM_RS_ENDING,Red Stars: Gwenom
+ID_ME_DE_GWENOM_RS_ENDING,Featuring Ends Soon!
+ID_ME_BO_GWENOM_RS_ENDING,"Commander,\n\n<color=#fff568>Gwenom</color> will only be featured in all Red Star Orbs for 2 more days!\n\nHurry and open Red Star Orbs while the drop rate is still increased."
+ID_ME_NA_GWENOM_ORB_ENDING,Grudge Orb
+ID_ME_DE_GWENOM_ORB_ENDING,2 days left!
+ID_ME_BO_GWENOM_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Grudge Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Gwenom</color> for your <color=#fff568>Hive-Mind</color> team for Raids!"

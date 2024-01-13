@@ -277,9 +277,9 @@ ID_EVTA_META_JAN_F_DESCRIPTION,Collect Neutralizer for points in the Mechanical 
 ID_EVTA_META_JAN_X_NAME,Corrupted Helmet
 ID_EVTA_META_JAN_X_DESCRIPTION,Collect the Corrupted Helmet for points in the Pact of Wrath Event. Earn it from limited time offers.
 ID_EVTA_META_JAN_Y_NAME,Corrupted Armor
-ID_EVTA_META_JAN_Y_DESCRIPTION,Collect the Corrupted Helmet for points in the Pact of Wrath Event. Earn it from limited time offers.
-ID_EVTA_META_JAN_Z_NAME,Corrupted Guantlets
-ID_EVTA_META_JAN_Z_DESCRIPTION,Collect the Corrupted Guantlets for points in the Pact of Wrath Event. Earn it from limited time offers.
+ID_EVTA_META_JAN_Y_DESCRIPTION,Collect the Corrupted Armor for points in the Pact of Wrath Event. Earn it from limited time offers.
+ID_EVTA_META_JAN_Z_NAME,Corrupted Gauntlets
+ID_EVTA_META_JAN_Z_DESCRIPTION,Collect the Corrupted Gauntlets for points in the Pact of Wrath Event. Earn it from limited time offers.
 ID_EVTA_META_FEB_A_NAME,Carnage Symbiote Vial
 ID_EVTA_META_FEB_A_DESCRIPTION,Collect Carnage Symbiote Vials for points in the Seeing Red Event. Earn them in various events throughout the month of February
 ID_EVTA_META_FEB_B_NAME,Valentine's Card
