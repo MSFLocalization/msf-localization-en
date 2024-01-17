@@ -78,10 +78,10 @@ ID_CHAL_XP_STAGE11_DESC,Earn a massive cache of TRAINING MODULES.\n\nRecommendat
 ID_CHAL_XP_STAGE12_DESC,Earn an enormous cache of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 75+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly COSMIC allowed.
 ID_CHAL_XP_STAGE13_DESC,Earn a colossal cache of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 76+\n- Gear Tier 14+\n- Red Stars 4+\n\nOnly COSMIC allowed.
 ID_CHAL_XP_STAGE14_DESC,Earn a spectacular supply of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 80+\n- Gear Tier 15+\n- Red Stars 4+\n\nOnly COSMIC allowed.
-ID_CHAL_XP_STAGE15_DESC,Earn a stupendous supply of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 85+\n- Gear Tier 16+\n- Red Stars 5+\n\nOnly CITY allowed.
-ID_CHAL_XP_STAGE16_DESC,Earn a stupendous supply of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 90+\n- Gear Tier 17+\n- Red Stars 6+\n\nOnly CITY allowed.
-ID_CHAL_XP_STAGE17_DESC,Earn a tremendous supply of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 95+\n- Gear Tier 18+\n- Red Stars 7\n\nOnly CITY allowed.
-ID_CHAL_XP_STAGE18_DESC,Earn a tremendous supply of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 100+\n- Gear Tier 18+\n- Red Stars 7\n\nOnly CITY allowed.
+ID_CHAL_XP_STAGE15_DESC,Earn a stupendous supply of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 85+\n- Gear Tier 16+\n- Red Stars 5+\n\nOnly COSMIC allowed.
+ID_CHAL_XP_STAGE16_DESC,Earn a stupendous supply of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 90+\n- Gear Tier 17+\n- Red Stars 6+\n\nOnly COSMIC allowed.
+ID_CHAL_XP_STAGE17_DESC,Earn a tremendous supply of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 95+\n- Gear Tier 18+\n- Red Stars 7\n\nOnly COSMIC allowed.
+ID_CHAL_XP_STAGE18_DESC,Earn a tremendous supply of TRAINING MODULES.\n\nRecommendations:\n- Squad Lvl 100+\n- Gear Tier 18+\n- Red Stars 7\n\nOnly COSMIC allowed.
 ID_CHAL_HEALTHBUCKS_NAME,Medical Supply Run
 ID_CHAL_HEALTHBUCKS_DESC,Earn HEALTH PACKS and BLITZ CHARGES. Use HEALTH PACKS to heal injured characters and BLITZ CHARGES to bypass their recovery time for battles in Blitz.\n\nOnly BRAWLERS & SUPPORT allowed.
 ID_CHAL_CHANCE_HEALTHBUCKS,Earn Health Packs/Blitz Charges
