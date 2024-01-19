@@ -280,16 +280,20 @@ ID_EVTA_META_JAN_Y_NAME,Corrupted Armor
 ID_EVTA_META_JAN_Y_DESCRIPTION,Collect the Corrupted Armor for points in the Pact of Wrath Event. Earn it from limited time offers.
 ID_EVTA_META_JAN_Z_NAME,Corrupted Gauntlets
 ID_EVTA_META_JAN_Z_DESCRIPTION,Collect the Corrupted Gauntlets for points in the Pact of Wrath Event. Earn it from limited time offers.
-ID_EVTA_META_FEB_A_NAME,Carnage Symbiote Vial
-ID_EVTA_META_FEB_A_DESCRIPTION,Collect Carnage Symbiote Vials for points in the Seeing Red Event. Earn them in various events throughout the month of February
-ID_EVTA_META_FEB_B_NAME,Valentine's Card
-ID_EVTA_META_FEB_B_DESCRIPTION,Collect the Valentine's Card for points in the Seeing Red Event. Earn it in the Roses are Red Event!
-ID_EVTA_META_FEB_C_NAME,Cupid's Bow & Arrow
-ID_EVTA_META_FEB_C_DESCRIPTION,Collect the Cupid's Bow & Arrow for points in the Seeing Red Event. Earn it in the Paint the Town Red Event!
-ID_EVTA_META_FEB_D_NAME,Tulip Bouquet
-ID_EVTA_META_FEB_D_DESCRIPTION,Collect the Tulip Bouquet for points in the Seeing Red Event. Earn them in the Red Letter Day Event!
-ID_EVTA_META_FEB_E_NAME,Chocolate Covered Strawberry
-ID_EVTA_META_FEB_E_DESCRIPTION,Collect Chocolate Covered Strawberry for points in the Seeing Red Event. Earn it in the Red Carpet Treatment Event!
+ID_EVTA_META_FEB_B_NAME,Rival's Mask
+ID_EVTA_META_FEB_B_DESCRIPTION,Collect the Rival's Mask for points in the Destructive Diva Event. Earn them in the Trial of Strength Event!
+ID_EVTA_META_FEB_C_NAME,Beauty Belt
+ID_EVTA_META_FEB_C_DESCRIPTION,Collect the Beauty Belt for points in the Destructive Diva Event. Earn them in the Rage of the Past Event!
+ID_EVTA_META_FEB_D_NAME,Cosmetic Case
+ID_EVTA_META_FEB_D_DESCRIPTION,Collect the Cosmetic Case for points in the Destructive Diva Event. Earn them in the Crusher of Heroes Event!
+ID_EVTA_META_FEB_E_NAME,Dominator's Boots
+ID_EVTA_META_FEB_E_DESCRIPTION,Collect Dominator's Boots for points in the Destructive Diva Event. Earn them in the Atrocious Attraction Event!
+ID_EVTA_META_FEB_F_NAME,Diva Necklace
+ID_EVTA_META_FEB_F_DESCRIPTION,Collect Diva Necklace for points in the Destructive Diva Event. Earn them in the Grand Theft Quantum Event!
+ID_EVTA_META_FEB_G_NAME,Crusher Gloves
+ID_EVTA_META_FEB_G_DESCRIPTION,Collect Crusher Gloves for points in the Destructive Diva Event. Earn them in the Debonair Death Event!
+ID_EVTA_META_FEB_H_NAME,Killer Leather Jacket
+ID_EVTA_META_FEB_H_DESCRIPTION,Collect Killer Leather Jacket for points in the Destructive Diva Event. Earn them in the He Who Remains Event!
 ID_EVTA_META_MAR_A_NAME,Eagle Emblem
 ID_EVTA_META_MAR_A_DESCRIPTION,Collect Eagle Emblem for points in the Memory Lane Event. Earn them in various events throughout the month of March
 ID_EVTA_META_MAR_B_NAME,Milestone PDA
@@ -440,3 +444,5 @@ ID_EVTA_META_DEV_E_NAME,Uncanny X-Cap
 ID_EVTA_META_DEV_E_DESCRIPTION,Collect the Uncanny X-Cap for points in the Frozen Festival Event. Earn it in the Frosty Family Gathering event!
 ID_EVTA_META_DEV_F_NAME,Ruby Snow Goggles
 ID_EVTA_META_DEV_F_DESCRIPTION,Collect the Ruby Snow Goggles for points in the Frozen Festival Event. Earn it in the Icy X-Travaganza event!
+ID_RES_NA_RACETOTHETOP,Race to the Top Milestone Point
+ID_RES_DE_RACETOTHETOP,These points earn you additional progress in the Race to the Top Milestone. Earn them in Daily Free Claims on our website and/or limited offers!

@@ -5586,7 +5586,7 @@ ID_OF_NA_SOLARSCHEMATICS_MEGASTARTER,Solar Schematics: Mega Starter
 ID_OF_NA_SOLARSCHEMATICS_STARTER,Solar Schematics: Starter
 ID_OF_NA_SOLARSCHEMATICS_MEGACATCHUP,Solar Schematics: Mega Catch-Up
 ID_OF_NA_SOLARSCHEMATICS_CATCHUP,Solar Schematics: Catch-Up
-ID_OF_NA_SOLARSCHEMATICS_DAILY_ORB,Solar Schematics: Deceiver Orb
+ID_OF_NA_SOLARSCHEMATICS_DAILY_ORB,Solar Schematics: Daily Orb
 ID_OF_NA_SOLARSCHEMATICS_DAILY_BLITZ,Solar Schematics: Daily Points
 ID_OF_NA_SOLARSCHEMATICS_DAILY_ENERGY,Solar Schematics: Daily Energy
 ID_OF_NA_SOLARSCHEMATICS_DAILY_INTERSTITIAL,Solar Schematics: Solar Corona Cache
@@ -5831,7 +5831,7 @@ ID_OF_DE_DUAL_UNLOCK_GWENOM,Unlock this <color=#fff568>Hive-Mind</color> member 
 ID_OF_NA_GWENOM_WEB_EXTRA_FCO_OFFER,Web Extra: Gwenom
 ID_OF_NA_GWENOM_WEB_SPECIAL_OFFER,Web Special: Gwenom
 ID_OF_DE_GWENOM_WEB_EXTRA_FCO_OFFER,"<color=#fff568>Web Extra!</color> The Arachna-Symbiote, <color=#fff568>Gwenom</color>, swings in to spread anarchy to foes!"
-ID_OF_DE_GWENOM_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> Deliver symbiotic mayhem and generate ability energy with<color=#fff568>Gwenom</color>leading the way!
+ID_OF_DE_GWENOM_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> Deliver symbiotic mayhem and generate ability energy with <color=#fff568>Gwenom</color> leading the way!
 ID_OF_DE_ECHO_OFFER_SKIN,"Get 80 Echo shards and acquire her costume! Prevent enemy Assists, boost damage for Young Avengers, and retaliate against enemies who attack Young Avenger allies."
 ID_OF_NA_DAILYDUAL_DIAMONDS_STOREBAR,Daily Dual: Dazzling Diamond
 ID_OF_NA_DAILYDUAL_DIAMONDS_FREECLAIM,Free Claim: Dazzling Diamond
@@ -5847,3 +5847,18 @@ ID_OF_NA_DAILYDUAL_STATCATS,Daily Dual: Catalysts of Development
 ID_OF_DE_DAILYDUAL_STATCATS_FREECLAIM,Find more Stat Catalysts in our Daily Dual: Catalysts of Development!
 ID_OF_DE_DAILYDUAL_STATCATS_INTERSTITIAL,"This offer will vanish when you close the window, don't miss out! Find more Stat Catalysts in our Daily Dual: Catalysts of Development!"
 ID_OF_DE_DAILYDUAL_STATCATS,Get the Stat Catalysts needed to power up your roster in today's special offer!
+ID_OF_NA_RACETOTHETOP_STARTER,Race to the Top: Starter
+ID_OF_DE_RACETOTHETOP_STARTER,Get ahead in the <color=#fff568>Race to the Top</color> Milestone and fast-forward your way to <color=#fff568>Player Level 100</color>!
+ID_OF_NA_RACETOTHETOP_SMALLSTARTER,Race to the Top: Launch Pack
+ID_OF_NA_RACETOTHETOP_CATCHUP_MEGA,Race to the Top: Mega Catch-Up
+ID_OF_NA_RACETOTHETOP_CATCHUP,Race to the Top: Catch-Up
+ID_OF_DE_RACETOTHETOP_CATCHUP,Finish strong in the Race to the Top milestone to earn 3-Diamond Sunspot and Golden Apocalypse Costume!
+ID_OF_NA_RACETOTHETOP_WEB,Race to the Top: Web Special
+ID_OF_DE_RACETOTHETOP_WEB,Race to the Top: Web Special
+ID_OF_NA_RACETOTHETOP_DAILYENERGY_BIG,Race to the Top: Daily Energy
+ID_OF_DE_RACETOTHETOP_DAILYENERGY,Revitalize with this special <color=#fff568>Race to the Top</color> Energy Bundle!
+ID_OF_NA_RACETOTHETOP_DAILYENERGY,Daily Race to the Top Energy
+ID_OF_NA_RACETOTHETOP_FREECLAIM,Race to the Top: Free Claim
+ID_OF_DE_RACETOTHETOP_FREECLAIM,Come back daily for more <color=#fff568>Race to the Top</color> progress!
+ID_OF_NA_RACETOTHETOP_INSTERSTITIAL,Race to the Top: Web Special
+ID_OF_DE_RACETOTHETOP_INSTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Race to the Top</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
