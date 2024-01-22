@@ -5862,3 +5862,79 @@ ID_OF_NA_RACETOTHETOP_FREECLAIM,Race to the Top: Free Claim
 ID_OF_DE_RACETOTHETOP_FREECLAIM,Come back daily for more <color=#fff568>Race to the Top</color> progress!
 ID_OF_NA_RACETOTHETOP_INSTERSTITIAL,Race to the Top: Web Special
 ID_OF_DE_RACETOTHETOP_INSTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Race to the Top</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_HIVEMIND24_STREAK_GOLD_TRAIN_DPC_DDC_5,Symbiotic Growth Pact: Mutualism
+ID_OF_NA_HIVEMIND24_STREAK_GOLD_TRAIN_DPC_DDC_4,Symbiotic Growth Pact: Commensalism
+ID_OF_NA_HIVEMIND24_STREAK_GOLD_TRAIN_DPC_DDC_3,Symbiotic Growth Pact: Amensalism
+ID_OF_NA_HIVEMIND24_STREAK_GOLD_TRAIN_DPC_2,Symbiotic Growth Pact: Competition
+ID_OF_NA_HIVEMIND24_STREAK_GOLD_TRAIN_DPC_1,Symbiotic Growth Pact: Parasitism
+ID_OF_NA_HIVEMIND24_TRAIN_GOLD_A18_A17_T2L5,Collective Power Up
+ID_OF_NA_HIVEMIND24_VOIDKNIGHT,Void Knight Growth
+ID_OF_NA_HIVEMIND24_SYMBIOTE_TEAM,Symbiote Family
+ID_OF_NA_HIVEMIND24_TEAL_UNIQUES,Hive-Mind Experimentation
+ID_OF_NA_HIVEMIND24_VOIDKNIGHT_A18_DPC,Void Knight Evolution
+ID_OF_NA_HIVEMIND24_TEAL_MINI-UNIQUES,Hive-Mind Augmentation
+ID_OF_NA_HIVEMIND24_VENOM_CARNAGE,Symbiote Progenitors
+ID_OF_NA_HIVEMIND24_VOIDKNIGHT_GWENOM_A18_DPC,Hive-Mind Super Pack
+ID_OF_NA_HIVEMIND24_GWENOM,Gwenom Growth
+ID_OF_NA_HIVEMIND24_VOIDKNIGHT_GWENOM_A18_GOLD_E7,Hive-Mind Ultimate Pack
+ID_OF_NA_HIVEMIND24_GWENOM_TRAIN_GPC,Gwenom Evolution
+ID_OF_NA_HIVEMIND24_VOIDKNIGHT_GWENOM_TRAIN,Hive-Mind Capability
+ID_OF_NA_HIVEMIND24_VOIDKNIGHT_GWENOM_A18_TRAIN,Hive-Mind Transformation
+ID_OF_NA_HIVEMIND24_VOIDKNIGHT_GWENOM_GOLD,Hive-Mind Adaptability
+ID_OF_NA_HIVEMIND24_REDGOBLIN,Red Goblin Growth
+ID_OF_NA_HIVEMIND24_FULL_HIVEMIND_TEAM_TRAIN,Hive-Mind Team Pack
+ID_OF_NA_HIVEMIND24_REDGOBLIN_GPC,Red Goblin Evolution
+ID_OF_DE_HIVEMIND24_STREAK_GOLD_TRAIN_DPC_DDC_5,The symbiotic offer is now enthralled with you! Good luck separating from it. Enjoy this final form of a <color=#fff568>{var1}x value offer </color>! You've reached <color=#fff568>maximum value</color>! (Step 5/5)
+ID_OF_DE_HIVEMIND24_STREAK_GOLD_TRAIN_DPC_DDC_4,Your symbiotic offer is enamored with you. You've grown it into a <color=#fff568>{var1}x value offer</color>! The next purchase will double the growth with a value increase of <color=#fff568>20%</color>! (Step 4/5)
+ID_OF_DE_HIVEMIND24_STREAK_GOLD_TRAIN_DPC_DDC_3,Your symbiotic offer would call you a friend. You've now unlocked this <color=#fff568>{var1}x value step</color>! Purchase this offer to grow the next step's value by <color=#fff568>10%</color>! (Step 3/5)
+ID_OF_DE_HIVEMIND24_STREAK_GOLD_TRAIN_DPC_2,Your symbiotic offer likes you. It has now grown into a <color=#fff568>{var1}x value offer</color>! Purchase this to grow the next step's value by <color=#fff568>10%</color>! (Step 2/5)
+ID_OF_DE_HIVEMIND24_STREAK_GOLD_TRAIN_DPC_1,The Symbiote Hive-Mind have detected your thirst for power. Purchase this <color=#fff568>{var1}x value offer</color> & start growing your symbiotic pact today! Each purchase of this offer increases the next step's value by 10%. (Step 1/5)
+ID_OF_DE_HIVEMIND24_TRAIN_GOLD_A18_A17_T2L5,Power up your <color=#fff568>Hive-Mind</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_HIVEMIND24_VOIDKNIGHT,Rank up your <color=#fff568>Hive-Mind</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_HIVEMIND24_SYMBIOTE_TEAM,Progress your symbiote team towards perfection with this fantastic team shard offer today!
+ID_OF_DE_HIVEMIND24_TEAL_UNIQUES,Gear up your <color=#fff568>Hive-Mind</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_HIVEMIND24_VOIDKNIGHT_A18_DPC,Power up your <color=#fff568>Hive-Mind</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_HIVEMIND24_TEAL_MINI-UNIQUES,Gear up your <color=#fff568>Hive-Mind</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_HIVEMIND24_VENOM_CARNAGE,"Empower the newly updated Hive-Mind members,<color=#fff568>Venom & Carnage</color>, with this special offer today!"
+ID_OF_DE_HIVEMIND24_VOIDKNIGHT_GWENOM_A18_DPC,Take your <color=#fff568>Hive-Mind</color> team to 6 Yellow Stars to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_HIVEMIND24_GWENOM,Rank up your <color=#fff568>Hive-Mind</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_HIVEMIND24_VOIDKNIGHT_GWENOM_A18_GOLD_E7,Power up your <color=#fff568>Hive-Mind</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_HIVEMIND24_GWENOM_TRAIN_GPC,Power up your <color=#fff568>Hive-Mind</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_HIVEMIND24_VOIDKNIGHT_GWENOM_TRAIN,Power up your <color=#fff568>Hive-Mind</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_HIVEMIND24_VOIDKNIGHT_GWENOM_A18_TRAIN,Take your <color=#fff568>Hive-Mind</color> team to 6 Yellow Stars to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_HIVEMIND24_VOIDKNIGHT_GWENOM_GOLD,Power up your <color=#fff568>Hive-Mind</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_HIVEMIND24_REDGOBLIN,Rank up your <color=#fff568>Hive-Mind</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_HIVEMIND24_FULL_HIVEMIND_TEAM_TRAIN,Improve your entire <color=#fff568>Hive-Mind</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_HIVEMIND24_REDGOBLIN_GPC,Power up your <color=#fff568>Hive-Mind</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_NA_ISOTOPEINNOVATION_STARTER,Isotope Innovation: Starter
+ID_OF_NA_ISOTOPEINNOVATION_CATCHUP,Isotope Innovation: Catch-Up
+ID_OF_NA_ISOTOPEINNOVATION_ENERGY,Isotope Innovation: Daily Energy
+ID_OF_NA_ISOTOPEINNOVATION_EVENTORB,Isotope Innovation: Daily Allied Supply
+ID_OF_NA_ISOTOPEINNOVATION_INTERSTITIAL,Isotope Innovation: Supply Drop
+ID_OF_NA_ISOTOPEINNOVATION_FREE,Isotope Innovation: Free Claim
+ID_OF_DE_ISOTOPEINNOVATION_STARTER,Help your alliance start off strong in the <color=#fff568>Isotope Innovation</color> Milestone and earn tremendous golden rewards!
+ID_OF_DE_ISOTOPEINNOVATION_CATCHUP,Push your alliance to the finish line with this <color=#fff568>Isotope Innovation</color> Milestone bundle for tremendous golden rewards!
+ID_OF_DE_ISOTOPEINNOVATION_ENERGY,Stock up on Iso-8 Campaign Energy to push your Alliance forward in the <color=#fff568>Isotope Innovation</color> milestone!
+ID_OF_DE_ISOTOPEINNOVATION_EVENTORB,Get Allied Supply III orbs for <color=#fff568>Isotope Innovation</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs featuring guaranteed T2 L5 Ions!
+ID_OF_DE_ISOTOPEINNOVATION_INTERSTITIAL,Stock up on Allied Supply III Orbs for extra progress in the <color=#fff568>Isotope Innovation Milestone</color>!
+ID_OF_DE_ISOTOPEINNOVATION_FREE,Come back daily for more <color=#fff568>Isotope Innovation</color> progress!
+ID_OF_NA_SYMBIOTEOFTHESPACEWAYS_MEGASTARTER,Symbiote of the Spaceways: Mega Starter
+ID_OF_NA_SYMBIOTEOFTHESPACEWAYS_STARTER,Symbiote of the Spaceways: Starter
+ID_OF_NA_SYMBIOTEOFTHESPACEWAYS_MEGACATCHUP,Symbiote of the Spaceways: Mega Catch-up
+ID_OF_NA_SYMBIOTEOFTHESPACEWAYS_CATCHUP,Symbiote of the Spaceways: Catch-up
+ID_OF_NA_SYMBIOTEOFTHESPACEWAYS_SPECIAL,Symbiote of the Spaceways: Web Special
+ID_OF_NA_SYMBIOTEOFTHESPACEWAYS_DAILY_ORB,Symbiote of the Spaceways: Symbiote Surfer Orbs
+ID_OF_NA_SYMBIOTEOFTHESPACEWAYS_DAILY_ENERGY,Symbiote of the Spaceways: Daily Energy
+ID_OF_NA_SYMBIOTEOFTHESPACEWAYS_DAILY_BLITZ,Symbiote of the Spaceways: Daily Blitz
+ID_OF_NA_SYMBIOTEOFTHESPACEWAYS_DAILY_INTERSTITIAL,Symbiote of the Spaceways: Symbiote Special
+ID_OF_NA_SYMBIOTEOFTHESPACEWAYS_FREE,Symbiote of the Spaceways: Free Claim
+ID_OF_DE_SYMBIOTEOFTHESPACEWAYS_MEGASTARTER,Get ahead in the <color=#fff568>Symbiote of the Spaceways Milestone</color> and blast through for Void Knight shards and Dark Promotion Credits!
+ID_OF_DE_SYMBIOTEOFTHESPACEWAYS_STARTER,Get a head start in the <color=#fff568>Symbiote of the Spaceways Milestone</color> and speed through for Void Knight shards and Dark Promotion Credits!
+ID_OF_DE_SYMBIOTEOFTHESPACEWAYS_MEGACATCHUP,Finish strong in the <color=#fff568>Symbiote of the Spaceways Milestone</color> and get your hands on Teal Bio gear and Void Knight shards!
+ID_OF_DE_SYMBIOTEOFTHESPACEWAYS_CATCHUP,Complete the <color=#fff568>Symbiote of the Spaceways Milestone</color> for Teal Bio gear and Void Knight shards!
+ID_OF_DE_SYMBIOTEOFTHESPACEWAYS_SPECIAL,Surf the skies with this <color=#fff568>Symbiote of the Spaceways</color> special web bundle!
+ID_OF_DE_SYMBIOTEOFTHESPACEWAYS_DAILY_ORB,Get bonus Symbiote Surfer Orbs for Void Knight shards and <color=#fff568>Symbiote of the Spaceways Milestone</color> progress!
+ID_OF_DE_SYMBIOTEOFTHESPACEWAYS_DAILY_ENERGY,Get a daily dose of Campaign Energy to complete the <color=#fff568>Symbiote of the Spaceways Milestone</color>!
+ID_OF_DE_SYMBIOTEOFTHESPACEWAYS_DAILY_BLITZ,Blitz through the <color=#fff568>Herald of Klyntar Web Milestone</color> for bonus Symbiote Surfer orbs and <color=#fff568>Symbiote of the Spaceways Milestone</color> progress!
+ID_OF_DE_SYMBIOTEOFTHESPACEWAYS_DAILY_INTERSTITIAL,Stock up on Symbiote Surfer Orbs and Event Points for extra progress in the <color=#fff568>Symbiote of the Spaceways Milestone</color>!
+ID_OF_DE_SYMBIOTEOFTHESPACEWAYS_FREE,Come back daily for more <color=#fff568>Symbiote of the Spaceways</color> progress!
