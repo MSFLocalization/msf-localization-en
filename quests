@@ -3975,3 +3975,14 @@ ID_QU_SD_ISOTOPEINNOVATION,Spend Iso-8 Energy and Earn Allied Supply III Orbs
 ID_QU_LD_ISOTOPEINNOVATION,Collaborate with your alliance to battle through the Iso-8 Campaign and earn Allied Supply III Orb Fragments. Allied Supply III Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
 ID_QU_S1_ISOTOPEINNOVATION,Spend 1 Iso-8 Campaign Energy
 ID_QU_S2_ISOTOPEINNOVATION,Earn 1 Allied Supply III Orb Fragment
+ID_QU_NA_INTOTHEGWENOMVERSE,Into the Gwenomverse
+ID_QU_DE_INTOTHEGWENOMVERSE,Unlock Gwenom!
+ID_QU_LD_INTOTHEGWENOMVERSE,"Into the Gwenomverse Milestone\nGain progress in this 7-day event by earning Ghost Host Orb Fragments from Arena Ranked Rewards, battling in War, completing the Klyntar Drum Kit Web Milestone, and daily Free Claims. \n\nEarn symbiotic rewards including Gwenom shards, Diamond Orb Fragments, Teal Bio gear, T4 Ability Materials. You'll also earn points towards the month-long Mechanical Marvel milestone by collecting X-Batteries and the Neutralizer.\n\nKlyntar Drum Kit Web Milestone\nSpend Incursion Campaign Energy to earn Ghost Host Orb Fragments and Teal Catalysts, and progress in the Into the Gwenomverse Milestone."
+ID_QU_SD_INTOTHEGWENOMVERSE,Earn event Orbs in Arena and battle in War
+ID_QU_S1_INTOTHEGWENOMVERSE,Earn 1 Ghost Host Orb Fragment
+ID_QU_S2_INTOTHEGWENOMVERSE,Play 1 War Battle
+ID_QU_S3_INTOTHEGWENOMVERSE,Earn 1 Into The Gwenomverse Milestone Point
+ID_QU_NA_KLYNTARDRUMKIT,Klyntar Drum Kit
+ID_QU_SD_KLYNTARDRUMKIT,Spend Incursion Energy
+ID_QU_LD_KLYNTARDRUMKIT,"Spend Incursion Energy and get rewarded with Ghost Host Orb Fragments, Teal Catalysts, and Into the Gwenomverse milestone progress."
+ID_QU_S1_KLYNTARDRUMKIT,Spend 1 Incursion Energy
