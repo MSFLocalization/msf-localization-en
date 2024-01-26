@@ -3986,3 +3986,9 @@ ID_QU_NA_KLYNTARDRUMKIT,Klyntar Drum Kit
 ID_QU_SD_KLYNTARDRUMKIT,Spend Incursion Energy
 ID_QU_LD_KLYNTARDRUMKIT,"Spend Incursion Energy and get rewarded with Ghost Host Orb Fragments, Teal Catalysts, and Into the Gwenomverse milestone progress."
 ID_QU_S1_KLYNTARDRUMKIT,Spend 1 Incursion Energy
+ID_QU_NA_FIRSTSTRIKENU,First S.T.R.I.K.E.
+ID_QU_SD_FIRSTSTRIKENU,"Campaign, use Power Cores, Raid"
+ID_QU_LD_FIRSTSTRIKENU,"Spend Campaign Energy, Use Power Cores, and engage in Raids (at Player Level 25).\n\nRewards include new characters for your roster, and more!"
+ID_QU_S1_FIRSTSTRIKENU,Spend 1 Campaign Energy
+ID_QU_S2_FIRSTSTRIKENU,Use 1 Power Core
+ID_QU_S3_FIRSTSTRIKENU,Battle in Raid

@@ -674,7 +674,7 @@ ID_SUGGESTED_LEVEL_72,FOR <color=#fff568>LEVEL 72+</color>
 ID_SUGGESTED_LEVEL_73,FOR <color=#fff568>LEVEL 73+</color>
 ID_SUGGESTED_LEVEL_74,FOR <color=#fff568>LEVEL 74+</color>
 ID_SUGGESTED_LEVEL_75,FOR <color=#fff568>LEVEL 75+</color>
-ID_MAINTENANCE_TOASTER_SCHEDULED,We will undergo maintenance starting at 9:30 PM (PST) (01/11).
+ID_MAINTENANCE_TOASTER_SCHEDULED,We will undergo maintenance starting at 9:30 PM (PST) (02/01).
 ID_MAINTENANCE_TOASTER_EMERGENCY,We will be undergoing emergency maintenance shortly.
 ID_MAINTENANCE_TOASTER_EVENT01,We will be undergoing maintenance shortly.
 ID_MAINTENANCE_TOASTER_EVENT02,Update available. Get the latest app version now.
@@ -1041,9 +1041,9 @@ ID_UI_ONLY_HERO_MUTANT_INHUMAN,ONLY <color=#fff568>HERO</color> <color=#fff568>M
 ID_UI_ONLY_HERO_MYSTIC_GOTG,ONLY <color=#fff568>HERO MYSTIC</color> or <color=#fff568>GUARDIANS</color> CHARACTERS
 ID_UI_ONLY_SHIELD_FF_W1AVENGERS,"ONLY <color=#fff568>S.H.I.E.L.D.</color>, <color=#fff568>WAVE I AVENGER</color>, or <color=#fff568>FANTASTIC FOUR</color> CHARACTERS"
 ID_REQUIRES_NEXUS_COMPLETE,Complete NEXUS Chapter 8
-ID_REQUIRES_DOOM_1," ""Complete Doom War Chapter 1 and Player Level 75"""
-ID_REQUIRES_DOOM_2," ""Complete Doom War Chapter 2 and Player Level 75"""
-ID_REQUIRES_DOOM_3," ""Complete Doom War Chapter 3 and Player Level 75"""
+ID_REQUIRES_DOOM_1,"""Complete Doom War Chapter 1 and Player Level 75"""
+ID_REQUIRES_DOOM_2,"""Complete Doom War Chapter 2 and Player Level 75"""
+ID_REQUIRES_DOOM_3,"""Complete Doom War Chapter 3 and Player Level 75"""
 ID_UI_ONLY_AVENGERS_FANTASTICFOUR,"ONLY <color=#fff568>AVENGERS</color>, or <color=#fff568>FANTASTIC FOUR</color> CHARACTERS"
 ID_UI_ONLY_HERO_TECH_SUPERNATURAL,"ONLY <color=#fff568>HERO TECH</color>, or <color=#fff568>HERO SUPERNATURAL</color> CHARACTERS"
 ID_UI_ONLY_SPIDERVERSE_NEWWARRIORS_HEROESFORHIRE,"ONLY <color=#fff568>SPIDER-VERSE</color>, <color=#fff568>NEW WARRIORS</color>, OR <color=#fff568>HEROES FOR HIRE</color> CHARACTERS"
@@ -1185,7 +1185,7 @@ ID_REQUIRES_TRAITS_MINION,REQUIRES: <color=#fff568>MINION</color>
 ID_REQUIRES_TRAITS_MINION_VILLAIN,REQUIRES: <color=#fff568>MINION OR VILLAIN</color>
 ID_REQUIRES_TRAITS_MUTANT_NONLEGEND,REQUIRES: <color=#fff568>NON-LEGENDARY MUTANT</color>
 ID_REQUIRES_NAKIA,REQUIRES: <color=#fff568>NAKIA</color>
-ID_REQUIRES_EC_NAKIA,"<color=#fff568>NAKIA</color> REQUIRED "
+ID_REQUIRES_EC_NAKIA,<color=#fff568>NAKIA</color> REQUIRED
 ID_REQUIRES_NAKIA_WARDOG,REQUIRES: <color=#fff568>NAKIA</color> and <color=#fff568>WAR DOGS</color>
 ID_REQUIRES_WARDOG,REQUIRES: <color=#fff568>WAR DOG</color>
 ID_UI_ONLY_NAKIA,REQUIRES: <color=#fff568>NAKIA</color>
@@ -1218,7 +1218,7 @@ ID_REQUIREMENT_STAIRSTEP_INVADERS_01,<color=#fff568>Invader</color> or <color=#f
 ID_REQUIREMENT_STAIRSTEP_INVADERS_02,<color=#fff568>Invader</color> or <color=#fff568>Rebirth</color>\n<color=#fff568>Captain America (WWII)</color> & <color=#fff568>Union Jack</color> are Required
 ID_REQUIREMENT_STAIRSTEP_INVADERS_03,"<color=#fff568>Invader</color> or <color=#fff568>Rebirth</color>\n<color=#fff568>Captain America (WWII)</color>, <color=#fff568>Union Jack</color>, & <color=#fff568>Bucky Barnes</color> are Required"
 ID_REQUIREMENT_STAIRSTEP_INVADERS_04,"<color=#fff568>Invader</color> or <color=#fff568>Rebirth</color>\n<color=#fff568>Captain America (WWII)</color>, <color=#fff568>Union Jack</color>, <color=#fff568>Bucky Barnes</color>, & <color=#fff568>Iron Fist (WWII)</color> are Required"
-ID_REQUIREMENT_STAIRSTEP_INVADERS_05," 5 <color=#fff568>Invader</color> characters"
+ID_REQUIREMENT_STAIRSTEP_INVADERS_05,5 <color=#fff568>Invader</color> characters
 ID_REQUIREMENT_INVADERS_CHALLENGE,Characters must be at <color=#ffa500>Gear Tier 13</color>+
 ID_REQUIREMENT_INVADERS_EPIC,Characters must be at <color=#ffa500>Gear Tier 15</color>+
 ID_REQUIRES_5_CHARACTERS_ONLY,REQUIRES: <color=#fff568>5 CHARACTERS</color>
@@ -1243,7 +1243,7 @@ ID_REQUIRES_TRAITS_5_COSMIC,REQUIRES: <color=#fff568>5 COSMIC</color>
 ID_REQUIRES_TRAITS_5_CONTROLLER,REQUIRES: <color=#fff568>5 CONTROLLER</color>
 ID_REQUIRES_TRAITS_5_NEWAVENGERS,REQUIRES: <color=#fff568>5 NEW AVENGERS</color>
 ID_REQUIRES_TRAITS_5_REBIRTH,REQUIRES: <color=#fff568>5 REBIRTH</color>
-ID_REQUIRES_SPIDERVERSE,"Only <color=#fff568>Spider-Verse</color> "
+ID_REQUIRES_SPIDERVERSE,Only <color=#fff568>Spider-Verse</color>
 ID_REQUIRES_WEBWARRIORS,Only <color=#fff568>Web-Warriors</color>
 ID_REQUIRES_SYBMIOTES_MILES,Only <color=#fff568>Symbiotes</color> and <color=#fff568>Spider-Man (Miles)</color>
 ID_REQUIRES_SINISTER6_MILES,Only <color=#fff568>Sinister Six</color> and <color=#fff568>Spider-Man (Miles)</color>
@@ -1266,7 +1266,7 @@ ID_REQ_INCURSION10_DIF3,"5 <color=#fff568>BIFROST</color> CHARACTERS, Gear Tier 
 ID_UI_ONLY_ENERGIZED,ONLY <color=#fff568>ENERGIZED</color> CHARACTERS
 ID_REQUIRES_EC_ENERGIZED_5,5 <color=#fff568>ENERGIZED</color> Characters REQUIRED
 ID_REQUIRES_PEGASUS_REBIRTH,ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color>
-ID_REQUIRES_PEGASUS_REBIRTH_IM,"ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color>. Required: <color=#fff568>Iron Man (Infinity War)</color> "
+ID_REQUIRES_PEGASUS_REBIRTH_IM,ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color>. Required: <color=#fff568>Iron Man (Infinity War)</color>
 ID_REQUIRES_PEGASUS_REBIRTH_IM_DH,ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color>. Required: <color=#fff568>Iron Man (Infinity War)</color> and <color=#fff568>Darkhawk</color>
 ID_REQUIRES_PEGASUS_REBIRTH_IM_DH_IH,"ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color>. Required: <color=#fff568>Iron Man (Infinity War)</color>, <color=#fff568>Darkhawk</color>, and <color=#fff568>Ironheart (MKII)</color>"
 ID_REQUIRES_PEGASUS_REBIRTH_GT13,ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color> at Gear Tier 13

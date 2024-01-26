@@ -24,7 +24,7 @@ ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to
 ID_MOTD_NA_CHALLENGES_TIER_18,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_18,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 9:30 PM (PST) (01/11).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 9:30 PM (PST) (02/01).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -1988,7 +1988,7 @@ ID_MOTD_DE_OUTOFTHISWORLD_ENDING,Get Gwenpool now before Out of this World ends!
 ID_MOTD_NA_ESCAPEVELOCITY_ANNOUNCE,LIVE: Escape Velocity
 ID_MOTD_DE_ESCAPEVELOCITY_ANNOUNCE,Get extra progress in the Out of this World Milestone by spending Campaign Energy!
 ID_MOTD_NA_DD6ORB_ANNOUNCE,The Countdown to Dark Dimension VI has begun!
-ID_MOTD_DE_DD6ORB_ANNOUNCE,"Get the brand new Gear Tier 18 to prepare your roster to take on Super Skrull! "
+ID_MOTD_DE_DD6ORB_ANNOUNCE,Get the brand new Gear Tier 18 to prepare your roster to take on Super Skrull!
 ID_MOTD_NA_DD6REMIND,"The clock is ticking until Super Skrull arrives! "
 ID_MOTD_DE_DD6REMIND,Check in every day for your Dark Dimension VI Countdown Orbs to get Gear Tier 18!
 ID_MOTD_NA_KORG_TEASER,Coming Soon: Korg
@@ -2689,3 +2689,5 @@ ID_MOTD_NA_INTOTHEGWENOMVERSE_ENDING,Ending Soon: Into the Gwenomverse
 ID_MOTD_DE_INTOTHEGWENOMVERSE_ENDING,Unlock Gwenom and earn Teal Bio Gear now!
 ID_MOTD_NA_KLYNTARDRUMKIT_ANNOUNCE,Web Milestone: Klyntar Drum Kit
 ID_MOTD_DE_KLYNTARDRUMKIT_ANNOUNCE,Spend Incursion Energy and reap more rewards on the web!
+ID_MOTD_NA_FIRSTSTRIKENU_ANNOUNCE,LIVE: First S.T.R.I.K.E.
+ID_MOTD_DE_FIRSTSTRIKENU_ANNOUNCE,Unlock powerful characters in your first Milestone!
