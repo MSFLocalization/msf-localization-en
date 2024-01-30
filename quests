@@ -3992,3 +3992,8 @@ ID_QU_LD_FIRSTSTRIKENU,"Spend Campaign Energy, Use Power Cores, and engage in Ra
 ID_QU_S1_FIRSTSTRIKENU,Spend 1 Campaign Energy
 ID_QU_S2_FIRSTSTRIKENU,Use 1 Power Core
 ID_QU_S3_FIRSTSTRIKENU,Battle in Raid
+ID_QU_NA_TRIBUNALTECH,Tribunal Tech
+ID_QU_SD_TRIBUNALTECH,Battle in Cosmic Crucible and Earn Allied Supply III Orb Fragments
+ID_QU_LD_TRIBUNALTECH,Battle in Cosmic Crucible and earn Allied Supply III Orb Fragments to earn Training Modules and Mechanical Marvel progress for your whole Alliance! Allied Supply III Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
+ID_QU_S1_TRIBUNALTECH,Win or Lose 1 Cosmic Crucible Battle
+ID_QU_S2_TRIBUNALTECH,Earn 1 Allied Supply III Orb Fragment
