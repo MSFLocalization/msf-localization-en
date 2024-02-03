@@ -6065,3 +6065,81 @@ ID_OF_DE_LUNAR24_PHOTON_7R_ISO,Empower the light within your roster by making ma
 ID_OF_DE_LUNAR24_SUPER_SALE_LC,Last chance to pick up this amazing holiday offer before it leaves the store. Empower your teams today. <color=#e5c41d>Contributes towards Lunar Dragon Festival event milestone.</color> <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_LUNAR24_WONG_UNIQUES_7R,Take this sorcerer to his full potential with this special time-limited holiday offer! <color=#e5c41d>Contributes towards Lunar Dragon Festival event milestone.</color> <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_LUNAR24_BLACKCATORB_SECRETDEF,Rank up the <color=#ffda21>Secret Defenders</color> with the shards they need and dominate in the arena today! <color=#e5c41d>Contributes towards Lunar Dragon Festival event milestone.</color> <color=#ffda21>A {var1}x value</color>!
+ID_OF_NA_VDAY24_A18TRAINGOLD,Valentine's Day: Golden Development
+ID_OF_NA_VDAY24_PEGASUSUNIQUE,Valentine's Day: Unique Machines
+ID_OF_NA_VDAY24_ORBSTRAVAGANZA,Valentine's Day: Orbstravaganza
+ID_OF_NA_VDAY24_ELITEGOLDTRAIN,Valentine's Day: Glitter and Gold
+ID_OF_NA_VDAY24_BIFROSTABM,Valentine's Day: Across the Rainbow Bridge
+ID_OF_NA_VDAY24_XTXMTRAIN,Valentine's Day: X-Treme Training Drills
+ID_OF_NA_VDAY24_TRAINELITE,Valentine's Day: Elite Bootcamp
+ID_OF_NA_VDAY24_ALLDIAMONDS,Valentine's Day: Diamonds are Forever
+ID_OF_NA_VDAY24_GOLDABMA18,Valentine's Day: Glittering Ability Materials
+ID_OF_NA_VDAY24_MOEVIL,Valentine's Day: Mastering Evil
+ID_OF_NA_VDAY24_ELITECREDITS,Valentine's Day: Crazy Credits
+ID_OF_NA_VDAY24_TRAINA18,Valentine's Day: Gear Up and Train
+ID_OF_NA_VDAY24_GOLDABM,Valentine's Day: Affluent Ability
+ID_OF_NA_VDAY24_CATALYSTS,Valentine's Day: Cherished Catalysts
+ID_OF_NA_VDAY24_FINDERUNIQUES,Valentine's Day: Appreciation Armory
+ID_OF_NA_VDAY24_XTXMUNIQUE,Valentine's Day: X-Tremely Unique
+ID_OF_NA_VDAY24_SUPERIORUNIQUE,Valentine's Day: Supremely Sweet
+ID_OF_NA_VDAY24_HIVEUNIQUE,Valentine's Day: Intellectually Intertwined
+ID_OF_NA_VDAY24_THORS,Valentine's Day: Asgardian Affection
+ID_OF_NA_VDAY24_HARDLIGHTNOVA,Valentine's Day: Electric Embrace
+ID_OF_NA_VDAY24_UNCANNYLOVE,Valentine's Day: Uncanny Love
+ID_OF_NA_VDAY24_VARIANTS,Valentine's Day: Valued Variants
+ID_OF_NA_VDAY24_NEWAVENGERCOUPLE,Valentine's Day: Second Chance for Love
+ID_OF_NA_VDAY24_BOC1,Valentine's Day: Dark Assortment
+ID_OF_NA_VDAY24_BOC2,Valentine's Day: Dark Gift Box
+ID_OF_NA_VDAY24_BOC3,Valentine's Day: Dark Sample
+ID_OF_NA_VDAY24_BOC4,Valentine's Day: Dark Variety
+ID_OF_NA_VDAY24_SUPERIORCAL,Valentine's Day: Superior Timeline
+ID_OF_NA_VDAY24_XTXMCAL,Valentine's Day: X-Tremely Enchanting
+ID_OF_NA_VDAY24_50RONIN,5 for 50: Hawkeye's Second Chance
+ID_OF_NA_VDAY24_50MOCKING,5 for 50: S.H.I.E.L.D. Super Soldier
+ID_OF_NA_VDAY24_50TIGRA,5 for 50: Feline Ability
+ID_OF_NA_VDAY24_50IMIW,5 for 50: Billionaire's Bounty
+ID_OF_NA_VDAY24_50DARKHAWK,5 for 50: Dark Raptor
+ID_OF_NA_VDAY24_50IRONHEART,5 for 50: Vibranium Valentine
+ID_OF_NA_VDAY24_MEGABUNDLE,Valentine's Day Mega Bundle
+ID_OF_NA_VDAY24_COUPLESCAL,Valentine's Day: Couples Calendar
+ID_OF_NA_VDAY24_GREENISOBIG,Valentine's Day Ionic Iso Bundle
+ID_OF_NA_VDAY24_GREENISOLIMIT,Valentine's Day Iso Special
+ID_OF_DE_VDAY24_A18TRAINGOLD,Pick up these <color=#ffda21>Training Modules</color> to prepare your roster for the next challenge. <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_VDAY24_PEGASUSUNIQUE,Give your <color=#ffda21>P.E.G.A.S.U.S.</color> team the <color=#fff568>Teal Gear Uniques</color> they need to reach new heights!! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_ORBSTRAVAGANZA,Don't miss out on a glorious amount of orbs to power up your roster and take on new challenges! <color=#fc03d7>Greater than {var1}x value</color>!
+ID_OF_DE_VDAY24_ELITEGOLDTRAIN,Make the update to your roster that you've always wanted with this <color=#fff568>Gold and Training Module</color> combo! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_VDAY24_BIFROSTABM,Show off your Ability and take your crush across the rainbow bridge! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_XTXMTRAIN,Keep your <color=#ffda21>X-Treme X-Men</color> leveled up with this special offer! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_TRAINELITE,Claim this mega deal on <color=#ffda21>Training Modules</color> and Red Stars and power up your top Teams! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_VDAY24_ALLDIAMONDS,"Bring your team collective power higher with this huge <color=#ffda21>Diamond Orb, T4 Ability Materials, & Teal Uniques</color> special deal! <color=#fc03d7>A {var1}x value</color>!"
+ID_OF_DE_VDAY24_GOLDABMA18,Take your roster to the next level with this special seasonal deal! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_VDAY24_MOEVIL,Take advantage of these <color=#ffda21>Dark Promotion Credits</color> to upgrade your Masters of Evil and dominate in Cosmic Crucible! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_ELITECREDITS,Be tickled pink with more Red Stars for your favorite characters! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_TRAINA18,Don't miss these <color=#ffda21>Training Modules</color> and <color=#fff568>Armory 18 Orbs</color> to bring your roster to new power levels. <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_GOLDABM,Upgrade your top character's best abilities with this special deal on <color=#ffda21>T4 Ability Materials</color>! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_CATALYSTS,Pick up this high value drop of Augmented Catalysts to craft powerful gear! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_FINDERUNIQUES,Seize this offer for more <color=#fff568>Gear Tier 17 & 18 Mini-Uniques</color>! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_XTXMUNIQUE,Ensure your <color=#ffda21>X-Treme X-Men</color> team have the <color=#ffda21>Teal Uniques</color> they need to reach <color=#ffda21>Gear Tier 18</color> with this special offer! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_SUPERIORUNIQUE,Ensure your Superior Six characters have the <color=#ffda21>Teal Uniques</color> they need to reach <color=#ffda21>Gear Tier 18</color> with this special offer! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_HIVEUNIQUE,The <color=#fff568>Hive-Mind</color> team is looking to gear up and reach <color=#ffda21>Gear Tier 18</color>! Don't let them down! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_THORS,All of Asgard is behind this <color=#fff568>Electrifying</color> couple! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_VDAY24_HARDLIGHTNOVA,Ms. Marvel (Hard Light) and Nova are out of this world! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_VDAY24_UNCANNYLOVE,This X-Men couple is X-Treme and Uncanny! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_VDAY24_VARIANTS,The TVA has been searching the timeline for these two vanishing variants! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_VDAY24_NEWAVENGERCOUPLE,This elite New Avenger couple's romance is taking flight! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_VDAY24_BOC1,Prepare for Valentine's Day with some Dark Diamond and Dark Promotion Credits! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_VDAY24_BOC2,Don't let your Valentine be forgotten! Grab a large box of Dark Diamond Credits! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_BOC3,Get something sweet for your crush! Try this sample of Dark Diamond and Dark Promotion Credits! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_VDAY24_BOC4,Don't wait until next year to show your crush how you feel! Try this variety pack of promotion credits! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_VDAY24_SUPERIORCAL,Kang-quer the timeline with the help of the Superior Six! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_XTXMCAL,Power up your <color=#ffda21>X-Treme X-Men</color> and watch them dominate the battlefield! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_50RONIN,Sharpen your blade and ransack the armory with Ronin! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_50MOCKING,Take to new heights with this limited time offer! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_VDAY24_50TIGRA,Stalk and pounce on your enemies with Tigra! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_50IMIW,"Iron Man has amassed a huge amount of weath, and has decided to share some with you! <color=#fc03d7>A {var1}x value</color>!"
+ID_OF_DE_VDAY24_50DARKHAWK,Darkhawk and <color=#ffda21>Dark Promotion Credits</color> is an unlikely pair this Valentine's Day! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_50IRONHEART,Ironheart (MKII) needs some practice with the new suit of armor! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_MEGABUNDLE,Shower your valentine with this lavish bundle! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_VDAY24_COUPLESCAL,Help these power-couples reach their maximum Red Star potential!
+ID_OF_DE_VDAY24_GREENISOBIG,<color=#22d11f>Ionize</color> your characters and turn the tides of battle in your favor! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_VDAY24_GREENISOLIMIT,One Time Only! Take your characters to the next level with <color=#22d11f>T1 Level 5 Crystals</color>! <color=#fc03d7>Greater than a {var1}x value</color>!
