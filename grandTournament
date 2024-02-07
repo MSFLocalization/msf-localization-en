@@ -49,6 +49,7 @@ ID_GT_EVENT_NAME_SEASON2,Season 2
 ID_GT_EVENT_NAME_SEASON3,Season 3
 ID_GT_EVENT_NAME_SEASON4,Season 4
 ID_GT_EVENT_NAME_SEASON5,Season 5
+ID_GT_EVENT_NAME_SEASON6,Season 6
 ID_GT_EVENT_NAME_EVENT,Ultimate 32
 ID_GT_GLOBAL_RULES_NAME,Magical Disruptions
 ID_GT_GLOBAL_RULES_DESC,"On Offense, reduce Speed and Resistance by <color=#86e619>10%</color> for all non-<color=#fff568>MASTERS OF EVIL VILLAIN MYSTICS</color>. \nOn Defense, reduce Speed and Resistance by <color=#86e619>20%</color> for all <color=#fff568>COSMIC VILLAIN MYSTICS</color>. \nOn any <color=#fff568>COSMIC VILLAIN MYSTICS</color> Turn, apply <color=#fff568>Bleed</color> to that character. \nOn Defense, all characters gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage. \n<color=#fff568>DARKHOLD</color> characters have -<color=#86e619>10%</color> Max Health, Focus, Resistance, and Damage."
@@ -258,3 +259,17 @@ ID_GT_S5_ROOM5_RULES_NAME,Mutant Immune System
 ID_GT_S5_ROOM5_RULES_DESC,"On Defense and Offense,\n<color=#fff568>Mutant</color> Characters:\n> On Turn, clear all negative effects from self. Heal self <color=#86e619>10%</color> of Max Health for each negative effect cleared.\n \nAll Characters:\n> On Turn End, Gain <color=#fff568>Defense Down</color>."
 ID_GT_S5_ROOM6_RULES_NAME,Rules of Combat
 ID_GT_S5_ROOM6_RULES_DESC,"On Defense and Offense,\n<color=#fff568>Villain</color> Characters:\n> On successful attack, Apply <color=#fff568>Defense Down</color> to each target attacked.\n \n<color=#fff568>Hero</color> Characters:\n>On successful attack, Apply <color=#fff568>Offense Down</color> to each target attacked."
+ID_GT_S6_GLOBAL_RULES_NAME,Symbiotic Six
+ID_GT_S6_GLOBAL_RULES_DESC,"Symbiotic Six\nOn Defense and Offense,\n <color=#fff568>SYMBIOTE</color> Characters:\n> Count as <color=#fff568>SUPERIOR SIX</color> and <color=#fff568>SINISTER SIX</color>\n \n<color=#fff568>SUPERIOR SIX</color> Characters:\n> On Successful attack, Barrier self for +<color=#86e619>15%</color> of Max Health.\n>When Successfully attacked remove <color=#fff568>Revive Once</color> from the attacker.\n> On Spawn, gain <color=#fff568>Defense Up</color>.\n \nOn Defense,\nAll Characters:\n> Gain +<color=#86e619>20%</color> Max Health and +<color=#86e619>10%</color> Damage.\n> After each completed attempt, gain +<color=#86e619>1</color> <color=#fff568>Exhausted</color>. Canceled combats do not gain +<color=#86e619>1</color> <color=#fff568>Exhausted</color>."
+ID_GT_S6_ROOM1_RULES_NAME,Invulnerable
+ID_GT_S6_ROOM1_RULES_DESC,"On Defense and Offense,\n<color=#9055FF>RAIDER</color> and <color=#9055FF>SKIRMISHER</color> Characters:\n> Gain +<color=#86e619>200%</color> extra damage when under <color=#86e619>50%</color> health."
+ID_GT_S6_ROOM2_RULES_NAME,Mystic Healthcare
+ID_GT_S6_ROOM2_RULES_DESC,"On Defense and Offense,\n<color=#fff568>Mystic</color> Characters: \n> Gain +<color=#86e619>20%</color> drain per Negative Effect: <color=#fff568>Bleed</color>, <color=#fff568>Offense Down</color>, <color=#fff568>Trauma</color>, or <color=#fff568>Disrupted</color>."
+ID_GT_S6_ROOM3_RULES_NAME,When It Rains
+ID_GT_S6_ROOM3_RULES_DESC,"On Defense and Offense,\n All Characters:\n> When a Positive Effect is applied to a character, increase the duration of all Positive Effects on allies of that character by +<color=#86e619>1</color>, up to a Max of <color=#86e619>3</color>\n \n> When a Negative Effect is applied to a character, increase the duration of all Negative Effects on allies of that character by +<color=#86e619>1</color>, up to a Max of <color=#86e619>3</color>"
+ID_GT_S6_ROOM4_RULES_NAME,Spiritual Energy
+ID_GT_S6_ROOM4_RULES_DESC,"On Defense and Offense,\n All Characters:\n> Any time a character gains energy from an active ability they gain +<color=#86e619>1</color> extra energy.\n> When an enemy character dies, ally characters Gain +<color=#86e619>1</color> Ability Energy.\n> Ultimate abilities cost +<color=#86e619>3</color> more Ability Energy."
+ID_GT_S6_ROOM5_RULES_NAME,Robotic Double
+ID_GT_S6_ROOM5_RULES_DESC,"On Defense and Offense,\n<color=#fff568>Tech</color> Characters:\n> Whenever a <color=#fff568>Tech</color> character uses an Ultimate ability, revive an ally <color=#fff568>Tech</color> character at <color=#86e619>100%</color> Health."
+ID_GT_S6_ROOM6_RULES_NAME,Health Insurance
+ID_GT_S6_ROOM6_RULES_DESC,"On Defense and Offense,\n All Characters:\n> On turn, characters remove all positive effects from self and heal +<color=#86e619>10%</color> of max health for each positive effect removed."

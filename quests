@@ -3651,6 +3651,11 @@ ID_QU_NA_BIGARMORHUNTER,Big Armor Hunter
 ID_QU_SD_BIGARMORHUNTER,Spend Campaign Energy
 ID_QU_LD_BIGARMORHUNTER,Spend Campaign and Incursion Energy to complete this milestone that rewards Superior Seeker Orb Fragments for Animal Armature Event progress!
 ID_QU_S1_BIGARMORHUNTER,Spend 1 Incursion Energy
+ID_QU_NA_SURVIVALTOWER,Kyln Cracker
+ID_QU_SD_SURVIVALTOWER,Escape from Kyln to earn rewards
+ID_QU_SM_SURVIVALTOWER,Earn points by battling in Escape from Kyln
+ID_QU_LM_SURVIVALTOWER,This should be a long description of how to earn points (Temp)
+ID_QU_S1_SURVIVALTOWER,Clear 1 Cell
 ID_QU_NA_SUPERIORSINISTER,Superior Sinister
 ID_QU_SD_SUPERIORSINISTER,Battle in Crucible and Earn Allied Supply II Orb Fragments
 ID_QU_LD_SUPERIORSINISTER,"Collaborate with your alliances to battle in Cosmic Crucible and earn Allied Supply II Orb Fragments. Allied Supply II Orb Fragments can be found in Alliance Donations boxes, Free Claims, and Offers in the store. "
@@ -3895,15 +3900,14 @@ ID_QU_SC_SPLASH_CYBERSECURITY,Use Heroes for Hire Characters in Blitz
 ID_QU_S1_SPLASH_CYBERSECURITY,Win Blitz with a 3-star or higher Heroes for Hire Character
 ID_QU_S2_SPLASH_CYBERSECURITY,Win Blitz with a 5-star or higher Heroes for Hire Character
 ID_QU_S3_SPLASH_CYBERSECURITY,Win Blitz with a 7-star Heroes for Hire Character
-ID_QU_NA_ALLIEDENGINES,Allied Engines
-ID_QU_SD_ALLIEDENGINES,Raids with X-Treme X-Men and collect Event Orbs
-ID_QU_LD_ALLIEDENGINES,"Battle in Raids with X-Treme X-Men and collect Allied Supply III Orb Fragments.\n\nMilestone rewards include 1-Diamond Venom, Armory 17 Orbs, T2 Level 5 Ions and more!\n\nCompete on the Leaderboards for up to a 3-Diamond Venom, Mega Gold Orbs and Armory 18 Orbs!"
-ID_QU_S1_ALLIEDENGINES,Collect 1 Allied Supply III Orb Fragment
-ID_QU_S2_ALLIEDENGINES,Battle in Raids
-ID_QU_S3_ALLIEDENGINES,Battle in Raids with X-Treme X-Men
-ID_QU_S4_ALLIEDENGINES,Battle in Raids with X-Treme X-Men at 5 Yellow Stars
-ID_QU_S5_ALLIEDENGINES,Battle in Raids with X-Treme X-Men at 6 Yellow Stars
-ID_QU_S6_ALLIEDENGINES,Battle in Raids with X-Treme X-Men at 7 Yellow Stars
+ID_QU_NA_SEEINGRED,Seeing Red
+ID_QU_SD_SEEINGRED,Participate in February Events
+ID_QU_LM_SEEINGRED,Participate in various events throughout the month of February to earn milestone progress.
+ID_QU_S1_SEEINGRED,Collect 1 Carnage Symbiote Vial
+ID_QU_S2_SEEINGRED,Collect 1 Valentine's Card
+ID_QU_S3_SEEINGRED,Collect 1 Cupid's Bow & Arrow
+ID_QU_S4_SEEINGRED,Collect 1 Tulip Bouquet
+ID_QU_S5_SEEINGRED,Collect 1 Chocolate Covered Strawberry
 ID_QU_NA_PACTOFWRATH,Pact of Wrath
 ID_QU_SD_PACTOFWRATH,Unlock Nova's Costume
 ID_QU_SC_PACTOFWRATH,Earn corrupted items from limited time offers
@@ -3919,6 +3923,15 @@ ID_QU_NA_LEVELLIFTOFF,Level Liftoff
 ID_QU_SD_LEVELLIFTOFF,Battle in Raids
 ID_QU_LD_LEVELLIFTOFF,Battle in Raids to complete this daily milestone that rewards Century Credits for Blastoff to 100 Event progress!
 ID_QU_S1_LEVELLIFTOFF,Play 1 Raid Battle
+ID_QU_NA_ALLIEDENGINES,Allied Engines
+ID_QU_SD_ALLIEDENGINES,Raids with X-Treme X-Men and collect Event Orbs
+ID_QU_LD_ALLIEDENGINES,"Battle in Raids with X-Treme X-Men and collect Allied Supply III Orb Fragments.\n\nMilestone rewards include 1-Diamond Venom, Armory 17 Orbs, T2 Level 5 Ions and more!\n\nCompete on the Leaderboards for up to a 3-Diamond Venom, Mega Gold Orbs and Armory 18 Orbs!"
+ID_QU_S1_ALLIEDENGINES,Collect 1 Allied Supply III Orb Fragment
+ID_QU_S2_ALLIEDENGINES,Battle in Raids
+ID_QU_S3_ALLIEDENGINES,Battle in Raids with X-Treme X-Men
+ID_QU_S4_ALLIEDENGINES,Battle in Raids with X-Treme X-Men at 5 Yellow Stars
+ID_QU_S5_ALLIEDENGINES,Battle in Raids with X-Treme X-Men at 6 Yellow Stars
+ID_QU_S6_ALLIEDENGINES,Battle in Raids with X-Treme X-Men at 7 Yellow Stars
 ID_QU_NA_MACHINESOFWAR,Machines of War
 ID_QU_SD_MACHINESOFWAR,Battle in War and Earn Allied Supply III Orb Fragments
 ID_QU_LD_MACHINESOFWAR,"Machines of War Milestone\nGain progress in this 4-day event by battling in Alliance War and earning Allied Supply III Orb fragments from daily Free Claims and special offers. Earn incredible rewards including Elite Credits, and T2 Level 5 Ion Orbs. You'll also earn points towards the month-long Mechanical Marvel milestone by collecting X-Batteries."
@@ -3975,6 +3988,41 @@ ID_QU_SD_ISOTOPEINNOVATION,Spend Iso-8 Energy and Earn Allied Supply III Orbs
 ID_QU_LD_ISOTOPEINNOVATION,Collaborate with your alliance to battle through the Iso-8 Campaign and earn Allied Supply III Orb Fragments. Allied Supply III Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
 ID_QU_S1_ISOTOPEINNOVATION,Spend 1 Iso-8 Campaign Energy
 ID_QU_S2_ISOTOPEINNOVATION,Earn 1 Allied Supply III Orb Fragment
+ID_QU_NA_SPLASH_CATWARRIORS,Cat Warriors
+ID_QU_SD_SPLASH_CATWARRIORS,Use War Dog in Blitz
+ID_QU_LM_SPLASH_CATWARRIORS,Earn points by using War Dog characters in Blitz Battles. Earn more points if your War Dog characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_CATWARRIORS,Use War Dog Characters in Blitz
+ID_QU_S1_SPLASH_CATWARRIORS,Win Blitz with 3-star or higher War Dog Character
+ID_QU_S2_SPLASH_CATWARRIORS,Win Blitz with 5-star or higher War Dog Character
+ID_QU_S3_SPLASH_CATWARRIORS,Win Blitz with 7-star War Dog Character
+ID_QU_NA_SPLASH_HIDDENRETRIBUTION,Hidden Retribution
+ID_QU_SD_SPLASH_HIDDENRETRIBUTION,Use Secret Avenger in Blitz
+ID_QU_LM_SPLASH_HIDDENRETRIBUTION,Earn points by using Secret Avenger characters in Blitz Battles. Earn more points if your Secret Avenger characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_HIDDENRETRIBUTION,Use Secret Avenger Characters in Blitz
+ID_QU_S1_SPLASH_HIDDENRETRIBUTION,Win Blitz with 3-star or higher Secret Avenger Character
+ID_QU_S2_SPLASH_HIDDENRETRIBUTION,Win Blitz with 5-star or higher Secret Avenger Character
+ID_QU_S3_SPLASH_HIDDENRETRIBUTION,Win Blitz with 7-star Secret Avenger Character
+ID_QU_NA_SPLASH_RADIATEDPHYSIOLOGY,Radiated Physiology
+ID_QU_SD_SPLASH_RADIATEDPHYSIOLOGY,Use Gamma in Blitz
+ID_QU_LM_SPLASH_RADIATEDPHYSIOLOGY,Earn points by using Gamma characters in Blitz Battles. Earn more points if your Gamma characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_RADIATEDPHYSIOLOGY,Use Gamma Characters in Blitz
+ID_QU_S1_SPLASH_RADIATEDPHYSIOLOGY,Win Blitz with 3-star or higher Gamma Character
+ID_QU_S2_SPLASH_RADIATEDPHYSIOLOGY,Win Blitz with 5-star or higher Gamma Character
+ID_QU_S3_SPLASH_RADIATEDPHYSIOLOGY,Win Blitz with 7-star Gamma Character
+ID_QU_NA_SPLASH_AFTERSCHOOLPROGRAM,After School Program
+ID_QU_SD_SPLASH_AFTERSCHOOLPROGRAM,Use Young Avenger in Blitz
+ID_QU_LM_SPLASH_AFTERSCHOOLPROGRAM,Earn points by using Young Avenger characters in Blitz Battles. Earn more points if your Young Avenger characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_AFTERSCHOOLPROGRAM,Use Young Avenger Characters in Blitz
+ID_QU_S1_SPLASH_AFTERSCHOOLPROGRAM,Win Blitz with 3-star or higher Young Avenger Character
+ID_QU_S2_SPLASH_AFTERSCHOOLPROGRAM,Win Blitz with 5-star or higher Young Avenger Character
+ID_QU_S3_SPLASH_AFTERSCHOOLPROGRAM,Win Blitz with 7-star Young Avenger Character
+ID_QU_NA_REDINTHEFACE,Red in the Face
+ID_QU_SD_REDINTHEFACE,Earn War Credits
+ID_QU_LD_REDINTHEFACE,"Earn War Credits to complete this milestone that rewards Carnage Symbiote Vials for the Seeing Red Event as well as Gold, Elite 4 and 5 Credits, and Roses are Red progress!"
+ID_QU_NA_ROSESARERED,Roses are Red
+ID_QU_SD_ROSESARERED,Earn Heart Candy from Campaign
+ID_QU_LD_ROSESARERED,"Earn Heart Candy from Campaign Nodes and in the Red in the Face Web Milestone. The worthiest competitors have a chance to receive Carnage Symbiote Vials for Seeing Red progress, Gear Tier 18 Mini-Uniques and Diamond Orbs"
+ID_QU_S1_ROSESARERED,Earn 1 Heart Candy
 ID_QU_NA_INTOTHEGWENOMVERSE,Into the Gwenomverse
 ID_QU_DE_INTOTHEGWENOMVERSE,Unlock Gwenom!
 ID_QU_LD_INTOTHEGWENOMVERSE,"Into the Gwenomverse Milestone\nGain progress in this 7-day event by earning Ghost Host Orb Fragments from Arena Ranked Rewards, battling in War, completing the Klyntar Drum Kit Web Milestone, and daily Free Claims. \n\nEarn symbiotic rewards including Gwenom shards, Diamond Orb Fragments, Teal Bio gear, T4 Ability Materials. You'll also earn points towards the month-long Mechanical Marvel milestone by collecting X-Batteries and the Neutralizer.\n\nKlyntar Drum Kit Web Milestone\nSpend Incursion Campaign Energy to earn Ghost Host Orb Fragments and Teal Catalysts, and progress in the Into the Gwenomverse Milestone."
@@ -3987,11 +4035,12 @@ ID_QU_SD_KLYNTARDRUMKIT,Spend Incursion Energy
 ID_QU_LD_KLYNTARDRUMKIT,"Spend Incursion Energy and get rewarded with Ghost Host Orb Fragments, Teal Catalysts, and Into the Gwenomverse milestone progress."
 ID_QU_S1_KLYNTARDRUMKIT,Spend 1 Incursion Energy
 ID_QU_NA_FIRSTSTRIKENU,First S.T.R.I.K.E.
-ID_QU_SD_FIRSTSTRIKENU,"Campaign, use Power Cores, Raid"
-ID_QU_LD_FIRSTSTRIKENU,"Spend Campaign Energy, Use Power Cores, and engage in Raids (at Player Level 25).\n\nRewards include new characters for your roster, and more!"
+ID_QU_SD_FIRSTSTRIKENU,"Campaign, Battle in Raid and Arena"
+ID_QU_LD_FIRSTSTRIKENU,"Spend Campaign Energy, Use Power Cores, unlock and battle in Raids (Player Level 25) and Arena (Player Level 30).\n\nRewards include new characters for your roster, and more!"
 ID_QU_S1_FIRSTSTRIKENU,Spend 1 Campaign Energy
 ID_QU_S2_FIRSTSTRIKENU,Use 1 Power Core
-ID_QU_S3_FIRSTSTRIKENU,Battle in Raid
+ID_QU_S3_FIRSTSTRIKENU,Battle in Raid (Player Level 25)
+ID_QU_S4_FIRSTSTRIKENU,Battle in Arena (Player Level 30)
 ID_QU_NA_TRIBUNALTECH,Tribunal Tech
 ID_QU_SD_TRIBUNALTECH,Battle in Cosmic Crucible and Earn Allied Supply III Orb Fragments
 ID_QU_LD_TRIBUNALTECH,Battle in Cosmic Crucible and earn Allied Supply III Orb Fragments to earn Training Modules and Mechanical Marvel progress for your whole Alliance! Allied Supply III Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
@@ -4002,3 +4051,22 @@ ID_QU_SD_LUNARDRAGONFESTIVAL,Earn a new Player Frame
 ID_QU_SC_LUNARDRAGONFESTIVAL,Earn Red Envelopes
 ID_QU_LM_LUNARDRAGONFESTIVAL,"Celebrate Year of the Dragon with a brand-new Player Frame!\n\nYear of the Dragon Milestone\nScore points toward this 8-day premium milestone by collecting Red Envelopes in limited-time offers. \n\nOnce you earn 10 Red Envelopes, you will earn the exclusive Lunar Celebration Player Frame!"
 ID_QU_S1_LUNARDRAGONFESTIVAL,Earn 1 Red Envelope
+ID_QU_NA_REDBLOODED,Red Blooded
+ID_QU_SD_REDBLOODED,Spend Iso-8 Energy and Earn Allied Supply III Orbs
+ID_QU_LD_REDBLOODED,"Red Blooded Milestone\nGain progress in this 5-day alliance event by spending Incursion Energy and Iso-8 Campaign Energy and earning Allied Supply III Orb fragments from daily Free Claims. Earn incredible rewards including Teal Catalyst Packs, Gold, and Armory 16, 17, and 18 Orbs. Teal Catalyst Packs contain 50 of each Augmented Catalyst Parts! You'll also earn points towards the month-long Seeing Red milestone by collecting Carnage Symbiote Vials."
+ID_QU_NA_PAINTTHETOWNRED,Paint the Town Red
+ID_QU_SD_PAINTTHETOWNRED,Open Ruby Red Orbs
+ID_QU_LD_PAINTTHETOWNRED,Gain progress by spending Power Cores and opening Ruby Red Orbs earned from the Red Handed milestone and limited-time offers. Keep an eye out for Free Claims containing Ruby Red Orbs every day!
+ID_QU_S1_PAINTTHETOWNRED,Open 1 Ruby Red Orb
+ID_QU_NA_REDHANDED,Red Handed
+ID_QU_SD_REDHANDED,Use Hive-Mind in Raids
+ID_QU_LD_REDHANDED,"Play in Alliance Raids to complete this daily milestone that rewards Ruby Red Orbs, Paint the Town Red milestone points as well as Carnage Symbiote Vials for the Seeing Red milestone! Earn more points when using the newest Hive-Mind characters!"
+ID_QU_S1_REDHANDED,Use Void Knight in a Raid Battle
+ID_QU_S2_REDHANDED,Use Void Knight in a Raid Battle at 5 Yellow Stars
+ID_QU_S3_REDHANDED,Use Void Knight in a Raid Battle at 7 Yellow Stars
+ID_QU_S4_REDHANDED,Use Gwenom in a Raid Battle
+ID_QU_S5_REDHANDED,Use Gwenom in a Raid Battle at 5 Yellow Stars
+ID_QU_S6_REDHANDED,Use Gwenom in a Raid Battle at 7 Yellow Stars
+ID_QU_S7_REDHANDED,Use Red Goblin in a Raid Battle
+ID_QU_S8_REDHANDED,Use Red Goblin in a Raid Battle at 5 Yellow Stars
+ID_QU_S9_REDHANDED,Use Red Goblin in a Raid Battle at 7 Yellow Stars

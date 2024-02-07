@@ -96,7 +96,6 @@ ID_CONFIRMDIALOG_CURRENCY_SWITCH_COUNT,"Commander, you're out of orbs. Do you wa
 ID_CONFIRM_RATE_HEADLINE,Rate MARVEL Strike Force
 ID_CONFIRM_RATE_BODY,Having fun? Let others know by rating our app.
 ID_CONFIRM_RATE_RATE,RATE
-ID_CONTINUE,CONTINUE
 ID_CURRENCY_CONVERSION_REQUIRED,You lack the primary currency required. The cost will be converted to Power Cores.
 ID_CURRENT,CURRENT:
 ID_DAILY_COLLECT,CLAIM
@@ -394,7 +393,7 @@ ID_OPTIONS_CHAT_ALLIANCE_LABEL,ALLIANCE
 ID_OPTIONS_CHAT_GLOBAL_LABEL,GLOBAL
 ID_OPTIONS_CHAT_WAR_ROOM_LABEL,WAR ROOM
 ID_OPTIONS_COOKIE,COOKIE POLICY
-ID_OPTIONS_COPYRIGHT,"&copy; MARVEL\nMARVEL Strike Force Software\n&copy; 2023 Scopely, Inc.\nDeveloped by Scopely, Inc. All rights reserved."
+ID_OPTIONS_COPYRIGHT,"&copy; 2024 MARVEL\nMARVEL Strike Force Software\n&copy; 2024 Scopely, Inc.\nDeveloped by Scopely, Inc. All rights reserved."
 ID_OPTIONS_CCPA,Do Not Sell My Info
 ID_OPTIONS_CPRA,Do Not Sell or Share My Personal Information
 ID_OPTIONS_CPRA_OPTED_IN,OPTED IN
@@ -843,10 +842,8 @@ ID_UI_RANK_UP,RANK UP
 ID_UI_READ,READ
 ID_UI_REVIVE_HEADLINE,GET BACK IN THE FIGHT!
 ID_UI_REWARD_MORE_TITLE,Guaranteed Items
-ID_UI_REWARDS,REWARDS
 ID_UI_REWARDS_ARENA,BLITZ REWARDS
 ID_UI_REWARDS_EVENT,REWARDS
-ID_UI_REWARDS_SUBHEADLINE,"Complete battles to earn PLAYER XP and collect shards, Power Cores, and other items."
 ID_UI_REWARDS_RAIDS_SUBHEADLINE,"Complete raid missions for a chance to earn Raid Credits, Gold, and Ability Materials."
 ID_UI_REWARDS_INSANITY_SUBHEADLINE,Congratulations! That was a hard fought battle!
 ID_UI_ROSTER,ROSTER
@@ -966,7 +963,6 @@ ID_UPGRADE,UPGRADE
 ID_UPGRADE_NOW,UPGRADE NOW
 ID_USER_NUMBER,User {uid}
 ID_VAULT_TITLE,STORE FULL
-ID_VICTORY,VICTORY
 ID_VIP_LIMIT_REACHED,You have reached the daily limit of refreshes. Please try again tomorrow.
 ID_WAR_GO,Go to War
 ID_WAR_SELECTION_VAULT,WAR STORE
@@ -1107,7 +1103,7 @@ ID_DROPRATE_ELEMENT_DROP_REDSTAR_TITLE,{num} - RED STAR PROMOTION
 ID_STAR_PROMOTION_DESCRIPTION_SINGULAR,"Red Stars boost Health, Damage, Armor, Focus, and Resistance.\n\n<color=#ffff00>{stars} Red Star boosts stats by +{boost_value}%.</color>\n\nFill in empty Red Stars by ranking up."
 ID_STAR_PROMOTION_DESCRIPTION_PLURAL,"Red Stars boost Health, Damage, Armor, Focus, and Resistance.\n\n<color=#ffff00>{stars} Red Stars boost stats by +{boost_value}%.</color>\n\nFill in empty Red Stars by ranking up."
 ID_STAR_PROMOTION_ACHIEVEMENT,Red Star Promotions Unlocked
-ID_REDSTAR_ACCESS,You have unlocked Red Star Promotions!
+ID_REDSTAR_ACCESS,You have unlocked Red Star and Diamond Promotions!
 ID_REDSTAR_CONVERSION_UPGRADE_HEADER,Red Star Upgraded
 ID_REDSTAR_CONVERSION_UPGRADE_MESSAGE,Upgraded Red Stars converted into <color=#ffffff><i>ELITE {num} CREDITS</i></color>.  Collect enough to open an <color=#ffffff><i>ELITE {num} STAR ORB</i></color>.
 ID_REDSTAR_POPUP_DESC_UNLOCK,Red Star Promotions unlock at level 42.
@@ -1202,11 +1198,12 @@ ID_UI_LONG_LOCKED_DESC_DARKDIMENSION,"Turn back now, Commander! Only the stronge
 ID_UI_LONG_LOCKED_DESC_RTA,Fight against other Commanders in real-time battles for big rewards. Be on the lookout for the start of Mojo's Mayhem Seasons for even more rewards!
 ID_UI_LONG_LOCKED_DESC_RTA_REVAMP,Fight against other Commanders in real-time battles for big rewards.
 ID_UI_COMMUNITY,COMMUNITY
-ID_UI_TWITTER_URL,https://app.adjust.net.in/my0mwg7_cju6lkv?label=twitter&redirect=https%3A%2F%2Fwww.twitter.com%2FMarvelStrikeF
-ID_UI_FACEBOOK_URL,https://app.adjust.net.in/4g6r1fq_h58hbge?redirect=https%3A%2F%2Fwww.facebook.com%2FMarvelStrikeForce
-ID_UI_YOUTUBE_URL,https://app.adjust.net.in/tyi2n81_3l2rshy?redirect=https%3A%2F%2Fwww.youtube.com%2Fmarvelstrikeforce
-ID_UI_INSTAGRAM_URL,https://app.adjust.net.in/9jqpfwu_6dt81yp?redirect=https%3A%2F%2Fwww.instagram.com%2Fmarvelstrikeforce%2F
-ID_UI_DISCORD_URL,https://app.adjust.net.in/mfgo61o_w7d6dio?label=discord&redirect=https%3A%2F%2Fdiscord.gg%2Fmarvelstrikeforce
+ID_UI_TWITTER_URL,https://twitter.com/MarvelStrikeF
+ID_UI_FACEBOOK_URL,https://www.facebook.com/MarvelStrikeForce
+ID_UI_YOUTUBE_URL,https://www.youtube.com/marvelstrikeforce
+ID_UI_INSTAGRAM_URL,https://www.instagram.com/marvelstrikeforce
+ID_UI_DISCORD_URL,https://discord.gg/marvelstrikeforce
+ID_UI_TIKTOK_URL,https://www.tiktok.com/@marvelstrikeforce
 ID_UI_MSF_WEB_BUTTON,TAKE ME THERE
 ID_UI_MSF_WEB_TITLE,Join the Web Experience
 ID_UI_MSF_WEB_DESC,"- Iso-8 and T4 Ability Guides\n- Blog Updates\n- Alliance, raid, and roster tools"
@@ -1390,9 +1387,17 @@ ID_FRAME_NOVMETA23_UNLOCK,Via the Reverse-Engineer Event
 ID_FRAME_DECEMBER2023_NAME,Snowflake
 ID_FRAME_DECMETA23_UNLOCK,Via the Frozen Festival Event
 ID_FRAME_SYMBIOTE_NAME,Symbiote Ooze
-ID_FRAME_SYMBIOTE_UNLOCK,Via specific Void Knight limited time offer
+ID_FRAME_SYMBIOTE_UNLOCK,Via limited Void Knight offers
+ID_FRAME_FEBRUARY2024_NAME,Crimson Glider
+ID_FRAME_FEBRUARY2024_UNLOCK,Via the Seeing Red Event
 ID_FRAME_YEAROFTHEDRAGON_NAME,Lunar Celebration
 ID_FRAME_LUNAR24_UNLOCK,Via 2024 Lunar Festival special offers
+ID_FRAME_WRATH_NAME,Wrath
+ID_FRAME_WRATH_UNLOCK,Via free claim from costume unlock
+ID_FRAME_ENVY_NAME,Envy
+ID_FRAME_ENVY_UNLOCK,Via free claim from costume unlock
+ID_FRAME_GREED_NAME,Greed
+ID_FRAME_GREED_UNLOCK,Via free claim from costume unlock
 ID_EVENT_SURVIVAL_EVENT,Survival
 ID_SURVIVAL_TITLE,Escape from Kyln
 ID_SURVIVAL_FLOOR,<size=65%><voffset=.385em>CELL</size></voffset> {floor}
@@ -1426,6 +1431,8 @@ ID_SURVIVAL_CURRENT_FLOOR,Current Floor
 ID_SURVIVAL_EVENT_CARD_TITLE_01,ESCAPE FROM KYLN
 ID_SURVIVAL_EVENT_CARD_DESC_01,Battle through the inescapable prison!
 ID_SURVIVAL_EVENT_POPUP_DESC_01,"They say that Kyln is the ""inescapable"" intergalactic prison. It's time to find out!\n\n Select a 3-character team based on a Cell's requirements and then fight through 40 Cells of the most ruthless enemies in the galaxy to escape with rewards and freedom!"
+ID_SURVIVAL_INVALID_DATA_TITLE,EVENT ERROR
+ID_SURVIVAL_INVALID_DATA_DESC,"An error has occurred for this event. Please restart the game, or contact Customer Support for further assistance."
 ID_WAR_ATTEMPTBONUS_TITLE,ATTEMPT BONUS
 ID_WAR_ATTEMPTBONUS_VALUE,<b><size=55><color=#fff798>{score}</color></size></b> of {max} PTS
 ID_WAR_ATTEMPTBONUS_VALUE_SMALL,<b><size=35><color=#f7951d>+{score}</color></size></b> PTS

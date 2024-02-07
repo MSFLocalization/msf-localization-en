@@ -36,6 +36,10 @@ ID_CONSENT_TRACKING_ALLOW,Continue
 ID_CONSENT_TRACKING_ASK_LATER,Ask me Later
 ID_CONSENT_TRACKING_DONT_ASK,Don't Allow
 ID_CONSENT_TRACKING_MSG,Allowing the permissions on the next screen better enables us to recruit more Commanders like you and improve the game.
+ID_CONTINUE,CONTINUE
+ID_VICTORY,VICTORY
+ID_UI_REWARDS_SUBHEADLINE,"Complete battles to earn PLAYER XP and collect shards, Power Cores, and other items."
+ID_UI_REWARDS,REWARDS
 ID_ASSET_BUNDLE_PROGRESS_DOWNLOADING,Downloading
 ID_DEFAULT_PLAYER_NAME,Commander
 ID_FATAL_BUTTON_NONE,None
@@ -105,6 +109,63 @@ ID_NOTIFICATIONS_FREE_CAMPAIGN_ENERGY_AVAILABLE,Your free Campaign Energy expire
 ID_NOTIFICATIONS_FREE_CAMPAIGN_ENERGY_AVAILABLE_ACTION,OK
 ID_NOTIFICATIONS_RESOURCE_RECHARGED,Your {resourceName} has fully recharged!
 ID_NOTIFICATIONS_RESOURCE_RECHARGED_ACTION,OK
+ID_NUELITE_HEAL,HEAL
+ID_NUELITE_EVADE,EVADE
+ID_NUELITE_CRITICAL,CRITICAL
+ID_NUELITE_ENEMIES,ENEMIES REMAINING
+ID_NUELITE_SPEAKER_NICKFURY,Nick Fury
+ID_NUELITE_SPEAKER_SPIDERMAN,Spider-Man
+ID_NUELITE_DIALOGUE_01_01,"Commander, I'm glad you're here. We have a situation."
+ID_NUELITE_DIALOGUE_01_02,Interdimensional signatures are popping up all over New York City.
+ID_NUELITE_DIALOGUE_01_03,"As Commander of S.T.R.I.K.E., interdimensional threats are your jurisdiction."
+ID_NUELITE_DIALOGUE_01_04,Our latest intel confirms that Kingpin is helping smuggle interdimensional ORBS into the city.
+ID_NUELITE_DIALOGUE_01_05,Let's start by intercepting his shipment.
+ID_NUELITE_DIALOGUE_01_06,I've taken the liberty of assigning you two agents.
+ID_NUELITE_DIALOGUE_02_01,No one knows New York City like Spider-Man.
+ID_NUELITE_DIALOGUE_03_01,Hey Commander! I've got eyes on Kingpin's guys transporting the interdimensional glowing things.
+ID_NUELITE_DIALOGUE_03_02,"But Kingpin's mercs won't hand the ORBS over. I even said ""please!"""
+ID_NUELITE_DIALOGUE_03_03,I've also transferred my top medic to S.T.R.I.K.E. for additional support.
+ID_NUELITE_DIALOGUE_04_01,And I'll try not to take that personally...
+ID_NUELITE_DIALOGUE_04_02,"Alright Commander, you point, I'll web!"
+ID_NUELITE_DIALOGUE_05_01,"Ha, you'd think Kingpin could afford some goons who know how to shoot!"
+ID_NUELITE_DIALOGUE_06_01,Well that's embarrassing!
+ID_NUELITE_DIALOGUE_06_02,"Hey Medic, little help?"
+ID_NUELITE_DIALOGUE_07_01,"Now that's the good green stuff! Okay, let's wrap this up."
+ID_NUELITE_DIALOGUE_08_01,"Good work, but hopefully in the future we can keep the chatter to a minimum."
+ID_NUELITE_DIALOGUE_08_02,"I think he means you, Medic."
+ID_NUELITE_DIALOGUE_08_03,Now bring those POWER CORES back to base. We can use them to open one of the orbs your team recovered.
+ID_NUELITE_SPIDERMAN_BASIC_NAME,Agile Attack
+ID_NUELITE_SPIDERMAN_SPECIAL_NAME,Web Slinger
+ID_NUELITE_SHIELDSUPPORT_HEAL_SPECIAL_NAME,Emergency Treatment
+ID_NUELITE_SPIDERMAN_BASIC_DESC,Attack primary target for <color=#86e619>80%</color> damage + <color=#86e619>50%</color> chance to Chain for <color=#86e619>45%</color> damage to up to <color=#86e619>1</color> adjacent target. <color=#86e619>30%</color> chance to gain <color=#fff568>Evade</color> against <color=#86e619>1</color> attack.
+ID_NUELITE_SPIDERMAN_SPECIAL_DESC,Attack primary target for <color=#86e619>80%</color> damage and up to <color=#86e619>{thislevel.special.action.2.target.limit.t}</color> adjacent targets for <color=#86e619>70%</color> damage.  <color=#86e619>25%</color> chance to apply <color=#fff568>Defense Down</color> to each target.
+ID_NUELITE_SHIELDSUPPORT_HEAL_SPECIAL_DESC,"Heal the <color=#86e619>{thislevel.special.action.2.target.limit}</color> most injured allies for <color=#86e619>{thislevel.special.action.2.heal_amt}</color> Health + <color=#86e619>{thislevel.special.action.2.heal_pct}%</color> of this character's Max Health.\n\nIf allies are <color=#fff568>S.H.I.E.L.D.</color>, then heal for an additional <color=#86e619>{thislevel.special.action.3.heal_pct}%</color> of this character's Max Health."
+ID_NUELITE_TUTORIAL_SPIDERMAN_BASIC_DESC,Use Spider-Man's <color=#fff568>BASIC ABILITY</color>.
+ID_NUELITE_TUTORIAL_SPIDERMAN_SPECIAL_DESC,Use Spider-Man's <color=#fff568>SPECIAL ABILITY</color> to defeat the remaining mercenaries.
+ID_NUELITE_TUTORIAL_SHIELDSUPPORT_HEAL_SPECIAL_DESC,Use the S.H.I.E.L.D. Medic's <color=#fff568>SPECIAL ABILITY</color> to heal your squad.
+ID_INTRO_TAPTOCONTINUE,TAP TO CONTINUE
+ID_INTRO_SQ1_LEFTGROUP,Avengers...
+ID_INTRO_SQ1_MIDDLEGROUP,Defenders...
+ID_INTRO_SQ1_RIGHTGROUP,Guardians...
+ID_INTRO_SQ1_BOTTOM,I have defeated them time and again...
+ID_INTRO_SQ2_BOTTOM,...and bent their wills to my own.
+ID_INTRO_SQ3_TOP,I have conquered hundreds of Earths...
+ID_INTRO_SQ4_TOP,Corrupting their heroes to make my army stronger.
+ID_INTRO_SQ5_TOPLEFT,But this Earth is a Nexus to a...\n<i><size=150>MILLION WORLDS.</size></i>
+ID_INTRO_SQ5_BOTTOMRIGHT,"And when it falls,\nall worlds will belong to <i><size=95>ULTIMUS.</size></i>\nALL REALITIES WILL BE MINE!"
+ID_INTRO_SQ6_TOPHEADERLOCATION,S.H.I.E.L.D. Command Helicarrier
+ID_INTRO_SQ6_TOPHEADERCOUNTRY,"New York, United States of America"
+ID_INTRO_SQ6_TOPHEADERWORLD,Earth
+ID_INTRO_SQ7_TOPLEFT,"Director Fury, interdimensional signatures confirmed."
+ID_INTRO_SQ7_BOTTOMLEFT,<size=100>It's Ultimus.</size>\nHe's here.
+ID_INTRO_SQ7_BOTTOMRIGHT,How should we proceed?
+ID_INTRO_SQ8_TOPLEFT,Activate\n<size=120>S.T.R.I.K.E.</size>
+ID_INTRO_SQ8_BOTTOMRIGHT,...And get me\n<size=120>THE COMMANDER</size>.
+ID_INTRO_SKIP_BUTTON,SKIP INTRO
+ID_INTRO_SKIP_CONFIRMATION_HEADER,SKIP
+ID_INTRO_SKIP_CONFIRMATION_DESC,Are you sure you want to skip the intro?
+ID_INTRO_SKIP_CONFIRMATION_YES_BUTTON,YES
+ID_INTRO_SKIP_CONFIRMATION_NO_BUTTON,NO
 ID_LOADINGSCREEN_01,Challenges provide a variety of resources and change every day.
 ID_LOADINGSCREEN_02,Raids challenge your entire alliance to work cooperatively to complete a series of missions before time runs out.
 ID_LOADINGSCREEN_03,Only VILLAIN characters can participate in the Villains Campaign.

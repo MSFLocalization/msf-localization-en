@@ -7162,7 +7162,7 @@ ID_DIALOG_SSE_HIVEMIND_03_END_1,This terminal is hooked up to a portal generator
 ID_DIALOG_SSE_HIVEMIND_03_END_2,It was set to Asgard. Let's check there first.
 ID_DIALOG_SSE_HIVEMIND_04_INTRO_0,There he is.
 ID_DIALOG_SSE_HIVEMIND_04_INTRO_1,How can you tell which one he is?
-ID_DIALOG_SSE_HIVEMIND_04_INTRO_2,Silver Surfer doesn't spell it out for you?
+ID_DIALOG_SSE_HIVEMIND_04_INTRO_2,"""Silver Surfer"" doesn't spell it out for you?"
 ID_DIALOG_SSE_HIVEMIND_04_INTRO_3,He's surrounded by Asgardians.
 ID_DIALOG_SSE_HIVEMIND_04_INTRO_4,A bloodbath is a bloodbath. The donors are irrelevant.
 ID_DIALOG_SSE_HIVEMIND_04_INTRO_5,Point taken.
@@ -7286,6 +7286,308 @@ ID_DIALOG_SSE_HIVEMIND_16_END_1,Maybe we just haven't tapped every resource at o
 ID_DIALOG_SSE_HIVEMIND_16_END_2,"No, no, no. I know what you're thinking."
 ID_DIALOG_SSE_HIVEMIND_16_END_3,Something big is coming. You know we aren't going to be enough to stop it.
 ID_DIALOG_SSE_HIVEMIND_16_END_4,"Ay, ok, I'll call them. I'm starting to get my own headache."
+ID_DIALOG_SSE_CABAL_01_INTRO_0,"Mysterio, I'm in need of your services."
+ID_DIALOG_SSE_CABAL_01_INTRO_1,...Osborn? Is that you? Your suit looks like Stark-tech. What's going on?
+ID_DIALOG_SSE_CABAL_01_INTRO_2,"This armor? It's a fusion of the best of Stark's ideas with my own. Recent events have allowed me to do something of a ""rebranding""."
+ID_DIALOG_SSE_CABAL_01_INTRO_3,You may now call me the Iron Patriot!
+ID_DIALOG_SSE_CABAL_01_INTRO_4,You see S.T.R.I.K.E. and S.H.I.E.L.D. have fallen out of favor in Washington. Now it's H.A.M.M.E.R. time!
+ID_DIALOG_SSE_CABAL_01_INTRO_5,"You're looking at the head of the new Homeland Agency for Monitoring, Managing, and Engaging Risk."
+ID_DIALOG_SSE_CABAL_01_INTRO_6,"You really wanted that acronym, huh? What do you want from me?"
+ID_DIALOG_SSE_CABAL_01_INTRO_7,"H.A.M.M.E.R. is only one part of my much larger plan. Gather the others, and listen close..."
+ID_DIALOG_SSE_CABAL_01_START_0,You dare attack me? You won't live to regret this!
+ID_DIALOG_SSE_CABAL_01_START_1,Kill King of Atlantis. P.E.G.A.S.U.S. fight!
+ID_DIALOG_SSE_CABAL_01_WAVE2_0,"Hold fast, help is here!"
+ID_DIALOG_SSE_CABAL_01_WAVE2_1,And you are?
+ID_DIALOG_SSE_CABAL_01_WAVE2_2,A friend. I'll explain after we win...
+ID_DIALOG_SSE_CABAL_01_WAVE2_3,This is Iron Patriot. As a member of the Cabal is is useful in Cosmic Crucible.
+ID_DIALOG_SSE_CABAL_01_WAVE2_4,"He helps the Cabal deal damage not only with his own abilities, but by debilitating the enemy team."
+ID_DIALOG_SSE_CABAL_01_WAVE2_5,"He has synergy with villains as a whole, so you can fill a Cabal team in with 2 members of your choosing to face different kinds of threats."
+ID_DIALOG_SSE_CABAL_01_END_0,Explain yourself.
+ID_DIALOG_SSE_CABAL_01_END_1,"My name is Norman Osborn, you may have heard of me."
+ID_DIALOG_SSE_CABAL_01_END_2,Surface-dweller politics do not concern me. What do you want?
+ID_DIALOG_SSE_CABAL_01_END_3,"I'm forming something of an... alliance, if you will."
+ID_DIALOG_SSE_CABAL_01_END_4,For too long groups of heroes like the Avengers and those ones we just defeated have been a thorn in all our sides.
+ID_DIALOG_SSE_CABAL_01_END_5,"It's long past time we combined forces. And with the ""heroes"" reeling from the latest interdimensional calamity the time is now to do so."
+ID_DIALOG_SSE_CABAL_01_END_6,I'm listening...
+ID_DIALOG_SSE_CABAL_02_INTRO_0,Your plan seems to have worked. The Atlantean is a powerful ally.
+ID_DIALOG_SSE_CABAL_02_INTRO_1,"Merely the first of what will be a secret Cabal of untold power and influence, I assure you."
+ID_DIALOG_SSE_CABAL_02_INTRO_2,"Your illusionary P.E.G.A.S.U.S. team served its purpose, though your dialog could use work."
+ID_DIALOG_SSE_CABAL_02_INTRO_3,"I couldn't find any decent reference material. I'm an illusionist, Norman, not a magician."
+ID_DIALOG_SSE_CABAL_02_INTRO_4,"Indeed, speaking of which, I have more recruiting to do and you have your payment. Time for your disappearing act."
+ID_DIALOG_SSE_CABAL_02_INTRO_5,If you need my services again you know how to contact me.
+ID_DIALOG_SSE_CABAL_02_START_0,Our next stop is Latveria.
+ID_DIALOG_SSE_CABAL_02_START_1,You intend to recruit Victor Von Doom?
+ID_DIALOG_SSE_CABAL_02_START_2,"I do. What good is a secret cabal of the world's most powerful individuals without the one that has the audacity to simply call himself ""DOOM""?"
+ID_DIALOG_SSE_CABAL_02_END_0,"We're nearly there. Be ready, Namor. Doom is known for using robot body doubles. We want to make sure we're interacting with the right one."
+ID_DIALOG_SSE_CABAL_02_END_1,And how would you determine that?
+ID_DIALOG_SSE_CABAL_02_END_2,"Last I checked, robots can't wield magic. Find the one casting spells, and we've found the Doom we came for."
+ID_DIALOG_SSE_CABAL_03_START_0,Norman Osborn cosplaying as Iron Man? The livery of American jingoism is suited to a self-serving business tycoon. You wear it well.
+ID_DIALOG_SSE_CABAL_03_START_1,But what brings you do the house of Doom?
+ID_DIALOG_SSE_CABAL_03_START_2,I've come to recruit you.
+ID_DIALOG_SSE_CABAL_03_START_3,"Or, should I say, I've come to recruit Victor Von Doom, not his robot doppelganger. Fetch your master."
+ID_DIALOG_SSE_CABAL_03_MID_0,You are a fool to face me in my own domain!
+ID_DIALOG_SSE_CABAL_03_MID_1,"If you're the real Doom prove it, cast a spell!"
+ID_DIALOG_SSE_CABAL_03_MID_2,Insolence!
+ID_DIALOG_SSE_CABAL_03_END_0,So it was a machine after all. For a toy it put up a fight.
+ID_DIALOG_SSE_CABAL_03_END_1,If DOOM's so-called toys were so easy to detect or defeat we wouldn't be here. He's around somewhere.
+ID_DIALOG_SSE_CABAL_03_END_2,S.T.R.I.K.E. tracked his movements ever since he began to cause interdimensional problems. And H.A.M.M.E.R. has access to all their feeds now.
+ID_DIALOG_SSE_CABAL_03_END_3,He's here. We just have to find him.
+ID_DIALOG_SSE_CABAL_04_INTRO_0,You bested my servants and came through much for an audience with Doom.
+ID_DIALOG_SSE_CABAL_04_INTRO_1,"Before I obliterate you, tell me why."
+ID_DIALOG_SSE_CABAL_04_INTRO_2,"Surely one so well-versed in worldly affairs as yourself has heard of the secret alliance of our mutual enemies that called themselves the ""Illuminati""?"
+ID_DIALOG_SSE_CABAL_04_INTRO_3,I am aware they are no more.
+ID_DIALOG_SSE_CABAL_04_INTRO_4,"Indeed. Some have vanished, and the others have gone their own ways. The time is right for a new secret alliance."
+ID_DIALOG_SSE_CABAL_04_INTRO_5,"A... ""Cabal"" of the most powerful, most ambitious, most cunning."
+ID_DIALOG_SSE_CABAL_04_INTRO_6,"Prove to me you are any of those. Prove to me, you are worth Doom's valuable time."
+ID_DIALOG_SSE_CABAL_04_START_0,I have collected scores of these interdimensional cast-offs left behind by Ultimus' invasion.
+ID_DIALOG_SSE_CABAL_04_START_1,"Prove your power, ambition, and cunning by defeating them all and perhaps I will entertain your proposal."
+ID_DIALOG_SSE_CABAL_04_END_0,"Well done. Your Cabal shall have Doom, for now."
+ID_DIALOG_SSE_CABAL_04_END_1,"But know this: I expect your betrayal, Osborn. And when it comes, and you fail, I will annihilate you and seize this Cabal for myself."
+ID_DIALOG_SSE_CABAL_04_END_2,"I could say the same thing about you, Doom. Our reputations precede us."
+ID_DIALOG_SSE_CABAL_04_END_3,"Which is exactly why we have never had such an alliance before. And why nobody would ever expect it to happen, or succeed."
+ID_DIALOG_SSE_CABAL_04_END_4,"Yet I know you've peered out across the infinite. You've seen worlds beyond imagining and in all those worlds, have you ever seen one where we WIN?"
+ID_DIALOG_SSE_CABAL_04_END_5,Or do our egos and unwillingness to cooperate condemn us to a lifetime of failure and defeat at the hands of an ever-increasing number of heroes?
+ID_DIALOG_SSE_CABAL_04_END_6,"Because I've seen the data. Numbers don't lie. Every year, there are more of them. Eventually, this will come to a climax."
+ID_DIALOG_SSE_CABAL_04_END_7,I intend to win. And if I must scede the spoils of that victory to ensure it happens... I will.
+ID_DIALOG_SSE_CABAL_05_INTRO_0,Norman's speech in Latveria was impressive. But do you truly believe any of it?
+ID_DIALOG_SSE_CABAL_05_INTRO_1,"I do not. I said I expect betrayal, and I do. But I expect it from Osborn. Not you. You and I shall forge an accord, Sub Mariner."
+ID_DIALOG_SSE_CABAL_05_INTRO_2,I'm listening...
+ID_DIALOG_SSE_CABAL_05_INTRO_3,"When Osborn's treachery inevitably is revealed, we shall destroy him, seize his assets, subjugate the others, and conquer the world."
+ID_DIALOG_SSE_CABAL_05_INTRO_4,"You, Namor, shall have dominion over the waters of the world as you rightfully should. And Doom shall rule the lands of the earth unopposed."
+ID_DIALOG_SSE_CABAL_05_START_0,"This is The Leader. As a member of the Cabal, he is powerful in Cosmic Crucible."
+ID_DIALOG_SSE_CABAL_05_START_1,"As The Leader gains charge, your Cabal team will become more powerful. "
+ID_DIALOG_SSE_CABAL_05_START_2,He also has stong synergy will villains as a whole to allow maximum theorycrafting!
+ID_DIALOG_SSE_CABAL_05_END_0,"Samuel Sterns, I am Norman Osborn. I've come to make you an offer."
+ID_DIALOG_SSE_CABAL_05_END_1,I know who you are. The Iron Patriot moniker and your control of the latest alphabet agency don't fool me.
+ID_DIALOG_SSE_CABAL_05_END_2,"You're as well informed as I'd hoped. Good, that will make the recruiting pitch simpler..."
+ID_DIALOG_SSE_CABAL_06_INTRO_0,So you want me to be Spymaster for this so-called Cabal? Why should I work with any of you?
+ID_DIALOG_SSE_CABAL_06_INTRO_1,This collection of egos will never be able to function as a unit.
+ID_DIALOG_SSE_CABAL_06_INTRO_2,That is precisely why it WILL work.
+ID_DIALOG_SSE_CABAL_06_INTRO_3,I see the rumors of your mental health situation weren't exaggerated.
+ID_DIALOG_SSE_CABAL_06_INTRO_4,Hear me out. The four of us can collectively rule from the shadows if we only work together.
+ID_DIALOG_SSE_CABAL_06_INTRO_5,You believe the four of us can cooperate? I don't need to be a super genius to see the flaws in that plan.
+ID_DIALOG_SSE_CABAL_06_INTRO_6,"Come with us, and let me prove you wrong."
+ID_DIALOG_SSE_CABAL_06_START_0,"You all doubt we can work together. As you should. Words are meaningless, only actions matter."
+ID_DIALOG_SSE_CABAL_06_START_1,So together we will defeat each of our nemeses. Something that each of us has failed to do alone.
+ID_DIALOG_SSE_CABAL_06_START_2,"And we start here, with yours, Sterns.."
+ID_DIALOG_SSE_CABAL_06_MID_0,BIG BRAIN? HULK SMASH YOU AGAIN!
+ID_DIALOG_SSE_CABAL_06_MID_1,Not this time. Alone you couldn't hope to defeat the Hulk. But together? Observe!
+ID_DIALOG_SSE_CABAL_06_END_0,"I admit I am impressed, Osborn. This was an... apt demonstration."
+ID_DIALOG_SSE_CABAL_06_END_1,And we are only just getting started...
+ID_DIALOG_SSE_CABAL_07_INTRO_0,"Each of us has failed, in our own ways, to defeat our nemesis. But I've brought us to New York today to rectify that."
+ID_DIALOG_SSE_CABAL_07_INTRO_1,"With the help of my new agency, I've arranged for all our enemies to be centrally located today. They're all in this city. Now is our time."
+ID_DIALOG_SSE_CABAL_07_START_0,"Hey pal, that's a copyrighted look. And it's ugly too."
+ID_DIALOG_SSE_CABAL_07_START_1,"Tony, whoever this guy is he's brought friends."
+ID_DIALOG_SSE_CABAL_07_START_2,"Cap, I think we've been brought here under false pretenses."
+ID_DIALOG_SSE_CABAL_07_MID_0,Anyone seen Banner? We could use some smash right about now!
+ID_DIALOG_SSE_CABAL_07_MID_1,"Hey guys, sorry I'm late-----WOAH What the heck!"
+ID_DIALOG_SSE_CABAL_07_MID_2,"Watch out, kid!"
+ID_DIALOG_SSE_CABAL_07_END_0,The Avengers are defeated...
+ID_DIALOG_SSE_CABAL_07_END_1,And now H.A.M.M.E.R. will keep them contained. That is the power of legitimacy. I've declared them a threat.
+ID_DIALOG_SSE_CABAL_07_END_2,"And now, that threat is neutralized and contained."
+ID_DIALOG_SSE_CABAL_07_END_3,"And what do we face next, Iron ""Patriot""? What foe do you propose we best to convince Doom of this plan?"
+ID_DIALOG_SSE_CABAL_07_END_4,"I've got an idea, and it's pretty fantastic..."
+ID_DIALOG_SSE_CABAL_08_INTRO_0,You mean to face and defeat Reed Richards to prove the value of this alliance to me? Richards disappeared years ago.
+ID_DIALOG_SSE_CABAL_08_INTRO_1,"Not disappeared. When Ultimus was defeated, they got Richards to help figure out all his tech and secrets."
+ID_DIALOG_SSE_CABAL_08_INTRO_2,"He's been spending a lot of time on Ultimus' mother ship. And since I know what S.T.R.I.K.E. knows, I know how to get there!"
+ID_DIALOG_SSE_CABAL_08_START_0,Victor? Namor? What's going on here?
+ID_DIALOG_SSE_CABAL_08_END_0,"And there you have it, Doom. Do you see it now? Do you see the power of us working together?"
+ID_DIALOG_SSE_CABAL_08_END_1,"What Doom sees is what he has long sought, now achieved."
+ID_DIALOG_SSE_CABAL_08_END_2,"Exactly! Just as with the Avengers, we will lock up the Fantastic Four and throw away the key! Legitimacy to the world. But the Cabal will rule in secret!"
+ID_DIALOG_SSE_CABAL_08_END_3,"No, fool! Doom does not cower in the shadows!"
+ID_DIALOG_SSE_CABAL_08_END_4,"I have sought access to this ship and its secrets, and you have finally delivered what many schemes could not!"
+ID_DIALOG_SSE_CABAL_08_END_5,"Oh, shocking. Doom is turning on us. If only a certain gamma irradiated super genius had seen this coming from the very beginning."
+ID_DIALOG_SSE_CABAL_09_START_0,With the secrets aboard this ship I will be unstoppable!
+ID_DIALOG_SSE_CABAL_09_START_1,It's him or us!
+ID_DIALOG_SSE_CABAL_09_WAVE2_0,I have an idea! If we activate the ship's interdimensional drive we can toss Doom into the void between universes!
+ID_DIALOG_SSE_CABAL_09_WAVE2_1,"We'll keep him busy, get on it!"
+ID_DIALOG_SSE_CABAL_09_WAVE3_0,Fools! You think you can defeat ME?!
+ID_DIALOG_SSE_CABAL_09_WAVE3_1,"We don't have to, all I need to do is attune the ship to your unique energy frequency..."
+ID_DIALOG_SSE_CABAL_09_WAVE3_2,What?!
+ID_DIALOG_SSE_CABAL_09_END_0,"Not a bad plan, Osborn."
+ID_DIALOG_SSE_CABAL_09_END_1,Oh?
+ID_DIALOG_SSE_CABAL_09_END_2,In one move you've rid yourself of a powerful potential rival and given the rest of us cause to truly ally against a common foe.
+ID_DIALOG_SSE_CABAL_09_END_3,"And in turn, demonstrated far better that we are more powerful together then apart. Bravo."
+ID_DIALOG_SSE_CABAL_09_END_4,But perhaps we should cap membership of The Cabal as it stands. We can use others as pawns as necessary...
+ID_DIALOG_SSE_CABAL_09_END_5,Doom's betrayal highlights the danger of bringing in more... unstable allies.
+ID_DIALOG_SSE_CABAL_09_END_6,I couldn't have said it better myself.
+ID_DIALOG_SSE_CABAL_09_END_7,One problem remains though. Doom isn't defeated. The void between universes isn't empty.
+ID_DIALOG_SSE_CABAL_09_END_8,"We have plenty of time to prepare for that. If he comes back, we'll be ready..."
+ID_DIALOG_SSE_OOT_01_INTRO_0,"BRITAIN, THE 14TH CENTURY..."
+ID_DIALOG_SSE_OOT_01_INTRO_1,"Hark, Demons! I've slain many of you this day. Lay down your arms and you shall be spared."
+ID_DIALOG_SSE_OOT_01_INTRO_2,"You have the word of Sir Percy, of the Round Table."
+ID_DIALOG_SSE_OOT_01_INTRO_3,You got any idea what this talkin' tin can is saying?
+ID_DIALOG_SSE_OOT_01_INTRO_4,"Brother, I don't even know where we are. Let's fill him full of lead and figure it out later."
+ID_DIALOG_SSE_OOT_01_INTRO_5,Then you've chosen the Ebony Blade! Have at thee!
+ID_DIALOG_SSE_OOT_01_START_0,BLACK KNIGHT IS A NOBLE PROTECTOR WHO FIGHTS BACK AGAINST ENEMIES THAT THREATEN HIM AND HIS ALLIES.
+ID_DIALOG_SSE_OOT_01_START_1,"BLACK KNIGHT'S <color=#fff568>PASSIVE ABILITIY</color> IS A POWERFUL RETALIATE ATTACK, WHICH USES <color=#fff568>CHARGED</color>  TO DEAL DAMAGE BASED ON HIS MAXIUM HEALTH."
+ID_DIALOG_SSE_OOT_01_WAVE2_0,What pit hath you beasts climbed from?!
+ID_DIALOG_SSE_OOT_01_WAVE2_1,"Ha, didn't expect so many of us, did ya?"
+ID_DIALOG_SSE_OOT_01_WAVE2_2,"Oh, I was just about to say that to YOU."
+ID_DIALOG_SSE_OOT_01_WAVE2_3,"You don't know us, Knight, but we're here to help."
+ID_DIALOG_SSE_OOT_01_END_0,Noble knights with shields and no blades? These are strange days indeed.
+ID_DIALOG_SSE_OOT_01_END_1,"Verily, though, I am grateful for thine help."
+ID_DIALOG_SSE_OOT_01_END_2,This guy is just as longwinded as Thor. What century do they start speaking English in England?
+ID_DIALOG_SSE_OOT_01_END_3,"Hey, aren't ninja supposed to be SILENT, Clint?"
+ID_DIALOG_SSE_OOT_01_END_4,"Like those invaders you've been fighting off, we're not from around here. "
+ID_DIALOG_SSE_OOT_01_END_5,And we need your help getting home.
+ID_DIALOG_SSE_OOT_02_INTRO_0,"After we discovered Osborn struck a deal and altered reality, we went after Mephisto."
+ID_DIALOG_SSE_OOT_02_INTRO_1,"He was ready for us, though, and before we even had a chance to strike he threw us through time. "
+ID_DIALOG_SSE_OOT_02_INTRO_2,"Whatta revoltin' development. "
+ID_DIALOG_SSE_OOT_02_INTRO_3,"I agree, my stone-skinned friend. But how can I, a knight, help you fight off the devil himself?"
+ID_DIALOG_SSE_OOT_02_INTRO_4,"Your sword is a powerful mystical artifact, Sir Percy. Well, the mystical is exactly what we're dealing with. "
+ID_DIALOG_SSE_OOT_02_INTRO_5,"My Ebony Blade is yours, but if it's the mystical you seek... It's Merlin to whom we should speak."
+ID_DIALOG_SSE_OOT_02_INTRO_6,"Great, he's RHYMING now. "
+ID_DIALOG_SSE_OOT_02_START_0,"Wha... Camelot in flames?! And monsters through the ramparts?! "
+ID_DIALOG_SSE_OOT_02_START_1,"We've got your back, Knight!"
+ID_DIALOG_SSE_OOT_02_START_2,RAAAAGH!
+ID_DIALOG_SSE_OOT_03_INTRO_0,"If the walls were breached, Merlin may be in danger. We must get to his chambers."
+ID_DIALOG_SSE_OOT_03_INTRO_1,"Uh, guys? Merlin's chambers wouldn't happen to be that way would it? Just past..."
+ID_DIALOG_SSE_OOT_03_INTRO_2,Your DOOM.
+ID_DIALOG_SSE_OOT_03_START_0,"You seek to... Inconvenience... Doom. Surrender and be destroyed quickly. "
+ID_DIALOG_SSE_OOT_03_START_1,"Vic, no matter what century it is, I tell ya... As soon as I see yer ugly mug?"
+ID_DIALOG_SSE_OOT_03_START_2,IT'S CLOBBERIN' TIME!
+ID_DIALOG_SSE_OOT_03_END_0,"Wow, we defeated Doctor Doom... Kind of easily?"
+ID_DIALOG_SSE_OOT_03_END_1,Defeat? This was but a minor setback.
+ID_DIALOG_SSE_OOT_03_END_2,"Grimm, I will find you and your friends soon, and there will be a reckoning."
+ID_DIALOG_SSE_OOT_03_END_3,"Hey! Get back here, ya no good bag a' bolts!"
+ID_DIALOG_SSE_OOT_03_END_4,"Weaker, and he didn't seem to recognize us... "
+ID_DIALOG_SSE_OOT_03_END_5,A younger version of Doom?
+ID_DIALOG_SSE_OOT_03_END_6,"Time travel, ugh! See, this is why I never touch the stuff."
+ID_DIALOG_SSE_OOT_03_END_7,But why would a young Doom be in Camelot?
+ID_DIALOG_SSE_OOT_03_END_8,He was here serving his mistress... Morgan Le Fay!
+ID_DIALOG_SSE_OOT_04_INTRO_0,Le Fay! Befouling Merlin's chambers with your dark magic? Attacking Camelot itself!
+ID_DIALOG_SSE_OOT_04_INTRO_1,"Even for you, this ambition extends beyond your ability."
+ID_DIALOG_SSE_OOT_04_INTRO_2,"Oh, dear Sir Percy. Always so short sighted. I'm hardly alone. I've got friends..."
+ID_DIALOG_SSE_OOT_04_INTRO_3,"In LOW places. "
+ID_DIALOG_SSE_OOT_04_START_0,Mephisto!
+ID_DIALOG_SSE_OOT_04_START_1,"Oh, you sound so surprised! Did you think I sent you back here by mistake?"
+ID_DIALOG_SSE_OOT_04_START_2,"I'm busy with plans you can't comprehend, so I'll let Morgan here handle you."
+ID_DIALOG_SSE_OOT_04_START_3,"With a power little boost from me! Hahaha! Good luck, heroes!"
+ID_DIALOG_SSE_OOT_04_END_0,"You are bested, Morgan! Surrender, your siege is at its end."
+ID_DIALOG_SSE_OOT_04_END_1,Oh... You think... This is the end?
+ID_DIALOG_SSE_OOT_04_END_2,"Hey, should that big terrifying book be glowing quite so much?"
+ID_DIALOG_SSE_OOT_04_END_3,"Mephisto gave me one last spell in case of this outcome. If this is the end, then I banish you to the very beginning!"
+ID_DIALOG_SSE_OOT_04_END_4,"To before history itself!\n\nGoodbye, heroes!"
+ID_DIALOG_SSE_OOT_04_END_5,"Hold on, everyone!"
+ID_DIALOG_SSE_OOT_04_END_6,[FWOOOSH!]
+ID_DIALOG_SSE_OOT_05_INTRO_0,Ugh. Where are we?
+ID_DIALOG_SSE_OOT_05_INTRO_1,I think you mean...
+ID_DIALOG_SSE_OOT_05_INTRO_2,Don't say it.
+ID_DIALOG_SSE_OOT_05_INTRO_3,...'WHEN are we?'
+ID_DIALOG_SSE_OOT_05_INTRO_4,"Well, WHENever it is... Why do they have a Hulk?!"
+ID_DIALOG_SSE_OOT_05_INTRO_5,RAAARGH!!!
+ID_DIALOG_SSE_OOT_05_START_0,Shouldn't he be green?
+ID_DIALOG_SSE_OOT_05_START_1,"I'm just glad he's not attacking US. Time to lend him a hand, Avengers."
+ID_DIALOG_SSE_OOT_05_START_2,"A PREHISTORIC BRAWLER WITH A COSMIC POWER, STARBRAND DEALS BRUTAL <color=#fff568>BONUS ATTACKS</color> WITH ALL THREE OF HIS ACTIVE ABILITIES."
+ID_DIALOG_SSE_OOT_05_START_3,"HIS UNSTOPPABLE <color=#fff568>SPECIAL ABILITY</color> IGNORE ENEMY <color=#fff568>STEALTH</color> AND <color=#fff568>TAUNT</color> EFFECTS, LEAVING NOWHERE TO HIDE."
+ID_DIALOG_SSE_OOT_05_END_0,"So, do you speak, big fella?"
+ID_DIALOG_SSE_OOT_05_END_1,...
+ID_DIALOG_SSE_OOT_05_END_2,"That answers that. I guess we're not going to get a lot of answers out of you, eh?"
+ID_DIALOG_SSE_OOT_05_END_3,"The Starbrand prefers action. I, the Black Panther, speak for him."
+ID_DIALOG_SSE_OOT_06_INTRO_0,"Starbrand, myself, and others like us were thrown together through circumstance."
+ID_DIALOG_SSE_OOT_06_INTRO_1,"Now we stand for those in our world who cannot stand for each other. "
+ID_DIALOG_SSE_OOT_06_INTRO_2,"Sounds familiar. "
+ID_DIALOG_SSE_OOT_06_INTRO_3,My home is under siege. The Starbrand is helping me defend it.
+ID_DIALOG_SSE_OOT_06_INTRO_4,...
+ID_DIALOG_SSE_OOT_06_INTRO_5,"Sounds like Avengers business to me. Lead the way, Panther."
+ID_DIALOG_SSE_OOT_07_INTRO_0,Stranded from the future?
+ID_DIALOG_SSE_OOT_07_INTRO_1,"Not long ago I would think you mad. But we have had dealings with this devil. "
+ID_DIALOG_SSE_OOT_07_INTRO_2,Then you know we need to stop him.
+ID_DIALOG_SSE_OOT_07_END_0,"Unfortunately, this is beyond even my knowledge. You may be trapped here. "
+ID_DIALOG_SSE_OOT_07_END_1,...
+ID_DIALOG_SSE_OOT_07_END_2,Something stirs in the goliath. What doth he want?
+ID_DIALOG_SSE_OOT_07_END_3,He's not... Hungry... Is he?
+ID_DIALOG_SSE_OOT_07_END_4,"He seems interested, friend. In the black blade you carry. "
+ID_DIALOG_SSE_OOT_08_INTRO_0,"The Ebony Blade... I feel it drawn to him. "
+ID_DIALOG_SSE_OOT_08_INTRO_1,"The Star Brand is an ancient power. We do not know its origin, or its limits."
+ID_DIALOG_SSE_OOT_08_INTRO_2,The blade and the brand... They seem to be conversing?
+ID_DIALOG_SSE_OOT_08_INTRO_3,"If their power combined could get us out of here, let's give them time to talk."
+ID_DIALOG_SSE_OOT_08_INTRO_4,[HORNS BLARE]
+ID_DIALOG_SSE_OOT_08_INTRO_5,"We may have less than you thought, my friend. That alarm comes from the Panther Tribe! "
+ID_DIALOG_SSE_OOT_08_INTRO_6,"We save them, then ourselves. We're with you, Panther."
+ID_DIALOG_SSE_OOT_08_START_0,"You have chosen the wrong land to attack, invaders!"
+ID_DIALOG_SSE_OOT_08_START_1,Wakanda forever!
+ID_DIALOG_SSE_OOT_08_START_2,"I suppose some things never change, eh?"
+ID_DIALOG_SSE_OOT_08_END_0,"The Star Brand and the Ebony Blade... They crackle with power! "
+ID_DIALOG_SSE_OOT_08_END_1,A lot of sound and fury... But we're still here?
+ID_DIALOG_SSE_OOT_08_END_2,We're missing something. We need another power source?
+ID_DIALOG_SSE_OOT_08_END_3,Or a wizard?
+ID_DIALOG_SSE_OOT_08_END_4,We need a miracle.
+ID_DIALOG_SSE_OOT_08_END_5,Seems like what you really need...
+ID_DIALOG_SSE_OOT_08_END_6,[VROOOOOM]
+ID_DIALOG_SSE_OOT_08_END_7,...is a lift. 'Sup.
+ID_DIALOG_SSE_OOT_09_INTRO_0,Ghost Rider?
+ID_DIALOG_SSE_OOT_09_INTRO_1,This ain't no Ghost Rider I ever seen.
+ID_DIALOG_SSE_OOT_09_INTRO_2,"Yeah, Grimm. That's 'cause I'm from the way future. "
+ID_DIALOG_SSE_OOT_09_INTRO_3,"Big deal. This is the stone age, we're also from the future."
+ID_DIALOG_SSE_OOT_09_INTRO_4,"I said WAY future! "
+ID_DIALOG_SSE_OOT_09_INTRO_5,"I'm gathering Avengers to stop Mephisto. If we have a chance, you gotta come with me now."
+ID_DIALOG_SSE_OOT_09_INTRO_6,To where?
+ID_DIALOG_SSE_OOT_09_INTRO_7,"To the edge of the Multiverse... "
+ID_DIALOG_SSE_OOT_09_INTRO_8,"To Infinity's End. "
+ID_DIALOG_SSE_OOT_09_START_0,"This is it... Where every dimension bleeds together. "
+ID_DIALOG_SSE_OOT_09_START_1,Looks like we're not alone.
+ID_DIALOG_SSE_OOT_09_START_2,"Cosmic castaways. They ain't friendly! Dukes up, everyone!"
+ID_DIALOG_SSE_OOT_09_START_3,"FLUNG BACK FROM THE FAR FUTURE, COSMIC GHOST RIDER IS A TERRIFYING CONTROLLER, READY TO PUNISH ENEMY STATUS EFFECTS."
+ID_DIALOG_SSE_OOT_09_START_4,"HIS ACTIVE ABILITIES DEAL EXTRA DAMAGE FOR EACH POSITIVE STATUS EFFECT ON HIS TARGET, WHILE HIS <color=#fff568>PASSIVE ABILITY</color> PUNISHES ENEMIES WHO ATTACK BEFORE HIS TEAM IN <color=#fff568>WAR</color>."
+ID_DIALOG_SSE_OOT_09_END_0,"You were pretty quick to trust me there, Cap."
+ID_DIALOG_SSE_OOT_09_END_1,"Well, despite everything, I've always known you to be a decent man deep down... Lt. Castle."
+ID_DIALOG_SSE_OOT_09_END_2,What?! How the hell'd you know it was me?
+ID_DIALOG_SSE_OOT_09_END_3,"I might be at the end of everything, but I can still recognize a Marine. "
+ID_DIALOG_SSE_OOT_09_END_4,"Heh. You're all right, Cap.\n\nSemper freakin' fi. "
+ID_DIALOG_SSE_OOT_10_INTRO_0,"INFINITY'S END, THE EDGE OF EVERYTHING..."
+ID_DIALOG_SSE_OOT_10_INTRO_1,Soon... No longer bound to just the hell of Nexus... I'll possess the power of ALL HELLS in the multiverse!
+ID_DIALOG_SSE_OOT_10_INTRO_2,"I can't say I like the sound of that. "
+ID_DIALOG_SSE_OOT_10_INTRO_3,Wha...?!\n\nHow did you escape the past?!
+ID_DIALOG_SSE_OOT_10_INTRO_4,"Good, old-fashioned American determination."
+ID_DIALOG_SSE_OOT_10_INTRO_5,"And a magic motorcycle. You're going down, Mephisto."
+ID_DIALOG_SSE_OOT_10_INTRO_6,"Well, well, Frank Castle, the prodigal rider! Come back to do my bidding? "
+ID_DIALOG_SSE_OOT_10_INTRO_7,"Nah, that's over. And soon, you're gonna be too. Lock and load, Avengers."
+ID_DIALOG_SSE_OOT_10_START_0,"You gathered Avengers from across time, eh?"
+ID_DIALOG_SSE_OOT_10_START_1,Not a bad trick! Let's try it... With some of MY friends! HAHAHAHA!
+ID_DIALOG_SSE_OOT_10_END_0,"Merging all the hells, becoming basically a god... He can't ACTUALLY do that, can he?"
+ID_DIALOG_SSE_OOT_10_END_1,"He's the literal Devil and we're fighting him in the future in between multiverses. "
+ID_DIALOG_SSE_OOT_10_END_2,You really want to find out?
+ID_DIALOG_SSE_OOT_10_END_3,Fair point.
+ID_DIALOG_SSE_OOT_11_INTRO_0,"Mephisto! We're sending you back to the pit! "
+ID_DIALOG_SSE_OOT_11_INTRO_1,"Of all the souls I've had the displeasure to meet, Rogers, your incorruptible one is the most BORING."
+ID_DIALOG_SSE_OOT_11_INTRO_2,"Your friends, though... Now THEY'RE interesting."
+ID_DIALOG_SSE_OOT_11_INTRO_3,HISSSS!
+ID_DIALOG_SSE_OOT_11_INTRO_4,FOR MEPHISTO.
+ID_DIALOG_SSE_OOT_11_INTRO_5,"I'm POWERED by souls! Some of you costumed idiots were nice enough to trade me theirs. "
+ID_DIALOG_SSE_OOT_11_INTRO_6,Good luck!
+ID_DIALOG_SSE_OOT_11_START_0,HAHAHAHahahahaHAHA!
+ID_DIALOG_SSE_OOT_11_START_1,"Is it wrong that I like Osborn MORE now? "
+ID_DIALOG_SSE_OOT_11_END_0,"Nova, Black Cat... Listen to us."
+ID_DIALOG_SSE_OOT_11_END_1,"Yer a good guy, Richie. I know you wouldn't have delt with this jamoke if it wasn't the only way to save lives."
+ID_DIALOG_SSE_OOT_11_END_2,"And whatever ambition drove you to do this, Felicia... You're better than this. You're not the worst part of you."
+ID_DIALOG_SSE_OOT_11_END_3,"No matter what, you're heroes. And when every fiber of your being is pulling you away from what's right?"
+ID_DIALOG_SSE_OOT_11_END_4,You do the right thing instead. Because that's what heroes do.
+ID_DIALOG_SSE_OOT_11_END_5,"AAAAAARGH... "
+ID_DIALOG_SSE_OOT_11_END_6,"Ugh. Sorry, Cap. We're with you now."
+ID_DIALOG_SSE_OOT_11_END_7,"Let's turn Mephisto into a scratching post. "
+ID_DIALOG_SSE_OOT_12_INTRO_0,"Oh, boo. Only Osborn's black soul withstood your little rallying cry?"
+ID_DIALOG_SSE_OOT_12_INTRO_1,"How... PREDICTABLE. "
+ID_DIALOG_SSE_OOT_12_INTRO_2,"But you're too late! An endless rank of the damned are at my disposal! "
+ID_DIALOG_SSE_OOT_12_INTRO_3,"Soon, I'll be the ruler of EVERYTHING! What do you say to that?!"
+ID_DIALOG_SSE_OOT_12_INTRO_4,"Just one thing, I suppose."
+ID_DIALOG_SSE_OOT_12_INTRO_5,Avengers...
+ID_DIALOG_SSE_OOT_12_START_0,ASSEMBLE!
+ID_DIALOG_SSE_OOT_12_END_0,"Avengers gathered from across time, across dimensions! And all you managed to do was ANNOY me. "
+ID_DIALOG_SSE_OOT_12_END_1,"Heh, we weren't ever going to completely defeat your army. "
+ID_DIALOG_SSE_OOT_12_END_2,OBVIOUSLY! What did you think you  WERE you doing?
+ID_DIALOG_SSE_OOT_12_END_3,"Buying time. For THEM. "
+ID_DIALOG_SSE_OOT_12_END_4,"Hello, Brother. Time for us to have a TALK... "
+ID_DIALOG_SSE_OOT_12_END_5,"What... Wait, no! NO!"
+ID_DIALOG_SSE_OOT_12_END_6,"I figured they weren't gonna be too pleased about you trying to take over their turf. "
+ID_DIALOG_SSE_OOT_12_END_7,"So, I made a deal with the devils. "
+ID_DIALOG_SSE_OOT_12_END_8,NOOOOOOOOO!
+ID_DIALOG_SSE_OOT_12_END_9,"Have fun in the Dark Dimension, pal. I'll see you in hell. "
+ID_DIALOG_SSE_OOT_12_END_10,"Heh, always wanted to say that. "
+ID_DIALOG_SSE_OOT_12_END_11,"Great, now just gotta keep an eye out for INFINITY other Mephistos runnin' around."
+ID_DIALOG_SSE_OOT_12_END_12,"We kept the world out of the hands of the devil. That's a clear a win as you get in my book. "
+ID_DIALOG_SSE_OOT_12_END_13,Avengers... Let's go home.
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.

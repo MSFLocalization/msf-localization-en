@@ -47,6 +47,8 @@ ID_SHARD_BLACKBOLT_NAME,Black Bolt
 ID_SHARD_BLACKBOLT_DESCRIPTION,"The King of the Inhumans, Black Bolt is a Blaster whose voice deals massive damage and prevents enemies from reviving."
 ID_SHARD_BLACKCAT_NAME,Black Cat
 ID_SHARD_BLACKCAT_DESCRIPTION,"A master thief with nine lives and uncanny luck, Felicia Hardy's sticky fingers nab enemy buffs and distribute Charge to her allies."
+ID_SHARD_BLACKKNIGHT_NAME,Black Knight
+ID_SHARD_BLACKKNIGHT_DESCRIPTION,"Thrown forward in time, the Black Knight has arrived to bring the legendary Ebony Blade to bear against enemies that attack him or his allies."
 ID_SHARD_BLACKPANTHER_NAME,Black Panther
 ID_SHARD_BLACKPANTHER_DESCRIPTION,"An agile, relentless hunter who shreds his enemies with rapid attacks."
 ID_SHARD_BLACKPANTHERBC_NAME,Black Panther (1MM)
@@ -81,6 +83,8 @@ ID_SHARD_COLOSSUS_NAME,Colossus
 ID_SHARD_COLOSSUS_DESCRIPTION,Colossus uses his organic steel skin to protect the X-Men and harm enemies who attack him.
 ID_SHARD_CORVUSGLAIVE_NAME,Corvus Glaive
 ID_SHARD_CORVUSGLAIVE_DESCRIPTION,Corvus Glaive uses Stealth and Piercing to infiltrate and eliminate the Black Order's enemies.
+ID_SHARD_COSMICGHOSTRIDER_NAME,Cosmic Ghost Rider
+ID_SHARD_COSMICGHOSTRIDER_DESCRIPTION,"Spirit of Vengeance, Herald of Galactus, and intergalactic biker, Frank Castle rides across the universe seeking a Thanos who turned his Earth into a wasteland."
 ID_SHARD_COSMO_NAME,Cosmo
 ID_SHARD_COSMO_DESCRIPTION,"A once ordinary dog that gained powers from cosmic rays and became an animal astronaut, Cosmo proves herself to be a Commander's best friend by clearing enemy buffs and ally debuffs."
 ID_SHARD_COULSON_NAME,Agent Coulson
@@ -303,6 +307,8 @@ ID_SHARD_MARIAHILL_NAME,Maria Hill
 ID_SHARD_MARIAHILL_DESCRIPTION,Maria Hill is the Secret Avengers' Support who backs up her allies by calling in S.H.I.E.L.D. care packages and special agents to take out high priority targets.
 ID_SHARD_MBAKU_NAME,M'Baku
 ID_SHARD_MBAKU_DESCRIPTION,The noble leader of the Jabari tribe who protects his own and relentlessly assaults his enemies.
+ID_SHARD_MEPHISTO_NAME,Mephisto
+ID_SHARD_MEPHISTO_DESCRIPTION,
 ID_SHARD_MERCDMG_GENERAL_NAME,Mercenary Soldier
 ID_SHARD_MERCDMG_GENERAL_DESCRIPTION,A versatile soldier who can inflict area damage with grenades.
 ID_SHARD_MERCDMG_SINGLE_NAME,Mercenary Sniper
@@ -439,6 +445,8 @@ ID_SHARD_RAVAGERSUPPORT_HEAL_NAME,Ravager Stitcher
 ID_SHARD_RAVAGERSUPPORT_HEAL_DESCRIPTION,A spacefaring doctor who prioritizes healing the most severe wounds over those that will merely leave a cool scar.
 ID_SHARD_RAVAGERTANK_TAUNT_NAME,Ravager Bruiser
 ID_SHARD_RAVAGERTANK_TAUNT_DESCRIPTION,A boarding expert who uses an energy shield to deflect attacks.
+ID_SHARD_REDGOBLIN_NAME,Red Goblin
+ID_SHARD_REDGOBLIN_DESCRIPTION,"Bonded with the Carnage symbiote, Norman Osborn became the deadly Red Goblin, a blood-thirsty villain who happily puts allies in harm's way so he can land massive hits."
 ID_SHARD_REDGUARDIAN_NAME,Red Guardian
 ID_SHARD_REDGUARDIAN_DESCRIPTION,"Russian warrior of the Cold War, Red Guardian uses his boldness and military tactics to steal positive effects from enemies and grant them to his allies."
 ID_SHARD_REDHULK_NAME,Red Hulk
@@ -519,6 +527,8 @@ ID_SHARD_SPIDERWOMAN_NAME,Spider-Woman
 ID_SHARD_SPIDERWOMAN_DESCRIPTION,"Spider-Woman is a formidable Blaster that uses pheromone powers to sap her enemy's strength, leaving them open to devastating attacks."
 ID_SHARD_SQUIRRELGIRL_NAME,Squirrel Girl
 ID_SHARD_SQUIRRELGIRL_DESCRIPTION,Squirrel Girl is a Young Avenger who uses her unbeatable squirrel powers to eat nuts and kick butts!
+ID_SHARD_STARBRAND_NAME,Starbrand
+ID_SHARD_STARBRAND_DESCRIPTION,"The first human to wield the intergalactic power of the Star Brand, Vnn saved the world of 10,000 BC as a member of a prehistoric group of Avengers."
 ID_SHARD_STARLORD_NAME,Star-Lord
 ID_SHARD_STARLORD_DESCRIPTION,A charismatic leader who generates ability energy for allies and distracts enemies.
 ID_SHARD_STARLORD_ANNIHILATION_NAME,Star-Lord (Annihilation)

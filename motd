@@ -24,7 +24,7 @@ ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to
 ID_MOTD_NA_CHALLENGES_TIER_18,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_18,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 9:30 PM (PST) (02/01).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 9:30 PM (PST) (01/11).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -434,6 +434,8 @@ ID_MOTD_NA_BETARAYBILL,Star Master: Now Live!
 ID_MOTD_DE_BETARAYBILL,Battle for a chance to win Beta Ray Bill shards
 ID_MOTD_NA_BISHOP,Marked Man: Now Live!
 ID_MOTD_DE_BISHOP,Battle for a chance to win Bishop shards
+ID_MOTD_NA_BLACKKNIGHT,Knight of the Round: Now Live!
+ID_MOTD_DE_BLACKKNIGHT,Battle for a chance to win Black Knight shards
 ID_MOTD_NA_BLACKPANTHER,Warrior King: Now Live!
 ID_MOTD_DE_BLACKPANTHER,Battle for a chance to win BLACK PANTHER shards
 ID_MOTD_NA_BLACKPANTHERBC,Panther God: Now Live!
@@ -473,6 +475,8 @@ ID_MOTD_NA_COLOSSUS,Heavy Metal: Now Live!
 ID_MOTD_DE_COLOSSUS,Battle for a chance to win Colossus shards
 ID_MOTD_NA_CORVUSGLAIVE,Backstab: Now Live!
 ID_MOTD_DE_CORVUSGLAIVE,Battle for a chance to win Corvus Glaive shards
+ID_MOTD_NA_COSMICGHOSTRIDER,Undying Rider: Now Live!
+ID_MOTD_DE_COSMICGHOSTRIDER,Battle for a chance to win Cosmic Ghost Rider shards
 ID_MOTD_NA_COULSON,Project Tahiti: Now Live!
 ID_MOTD_DE_COULSON,Battle for a chance to win Coulson shards
 ID_MOTD_NA_CROSSBONES_BLITZ,Skeleton Leader: Now Live!
@@ -575,6 +579,8 @@ ID_MOTD_NA_IRONHEARTMCU,Next in Line: Now Live!
 ID_MOTD_DE_IRONHEARTMCU,Battle for a chance to win Ironheart (MKII) shards
 ID_MOTD_NA_IRONMANINFINITYWAR,Timeline Protector: Now Live!
 ID_MOTD_DE_IRONMANINFINITYWAR,Battle for a chance to win Iron Man (Infinity War) shards
+ID_MOTD_NA_IRONPATRIOT,Dark Leader: Now Live!
+ID_MOTD_DE_IRONPATRIOT,Battle for a chance to win Iron Patriot shards
 ID_MOTD_NA_JESSICAJONES,Alias: Now Live!
 ID_MOTD_DE_JESSICAJONES,Battle for a chance to win JESSICA JONES shards
 ID_MOTD_NA_JUGGERNAUT,I'm the Juggernaut: Now Live!
@@ -687,6 +693,8 @@ ID_MOTD_NA_QUAKE,Tremors: Now Live!
 ID_MOTD_DE_QUAKE,Battle for a chance to win Quake shards
 ID_MOTD_NA_QUICKSILVER,Silver Speedster: Now Live!
 ID_MOTD_DE_QUICKSILVER,Battle for a chance to win Quicksilver shards
+ID_MOTD_NA_REDGOBLIN,Go Down Swinging: Now Live!
+ID_MOTD_DE_REDGOBLIN,Battle for a chance to win Red Goblin shards
 ID_MOTD_NA_REDGUARDIAN,Soviet Shield: Now Live!
 ID_MOTD_DE_REDGUARDIAN,Battle for a chance to win Red Guardian shards
 ID_MOTD_NA_REDSKULL,Hail Hydra: Now Live!
@@ -759,6 +767,8 @@ ID_MOTD_NA_SPIDERWOMAN,Arachne: Now Live!
 ID_MOTD_DE_SPIDERWOMAN,Battle for a chance to win Spider-Woman shards
 ID_MOTD_NA_SQUIRRELGIRL,SQUIRREL!: Now Live!
 ID_MOTD_DE_SQUIRRELGIRL,Battle for a chance to win Squirrel Girl shards
+ID_MOTD_NA_STARBRAND,In the Stars: Now Live!
+ID_MOTD_DE_STARBRAND,Battle for a chance to win Starbrand shards
 ID_MOTD_NA_STATURE,Big Shoes: Now Live!
 ID_MOTD_DE_STATURE,Battle for a chance to win Stature shards
 ID_MOTD_NA_STORM,Weather Goddess: Now Live!
@@ -779,6 +789,8 @@ ID_MOTD_NA_TCHALLA,Mistaken Identity: Now Live!
 ID_MOTD_DE_TCHALLA,Battle for a chance to win Star-Lord (T'Challa) shards
 ID_MOTD_NA_THANOS,Mad Titan: Now Live!
 ID_MOTD_DE_THANOS,Battle for a chance to win Thanos shards
+ID_MOTD_NA_THELEADER,Gammbitious: Now Live!
+ID_MOTD_DE_THELEADER,Battle for a chance to win The Leader shards
 ID_MOTD_NA_THING,Clobberin' Time: Now Live!
 ID_MOTD_DE_THING,Battle for a chance to win The Thing shards
 ID_MOTD_NA_THOR,God of Thunder: Now Live!
@@ -2643,11 +2655,21 @@ ID_MOTD_NA_HIVEMIND_LIVE,LIVE: Symbiotic Collective
 ID_MOTD_DE_HIVEMIND_LIVE,Battle with Hive-Mind and earn rewards!
 ID_MOTD_NA_HIVEMIND_ENDING,ENDING SOON: Symbiotic Collective!
 ID_MOTD_DE_HIVEMIND_ENDING,Symbiotic Collective event is ending soon!
+ID_MOTD_NA_CABAL_PREVIEW,COMING SOON: Rise of the Cabal!
+ID_MOTD_DE_CABAL_PREVIEW,Earn rewards by battling with The Cabal!
+ID_MOTD_NA_CABAL_LIVE,LIVE: Rise of the Cabal
+ID_MOTD_DE_CABAL_LIVE,Earn rewards by battling with The Cabal!
+ID_MOTD_NA_CABAL_ENDING,ENDING SOON: Rise of the Cabal
+ID_MOTD_DE_CABAL_ENDING,Rise of the Cabal event is ending soon!
 ID_MOTD_NA_VOIDKNIGHT_TEASER,Soon: Void Knight
 ID_MOTD_DE_VOIDKNIGHT_TEASER,Embrace the Darkness with Void Knight!
 ID_MOTD_NA_VOIDKNIGHT_ANNOUNCE,Void Knight is here!
 ID_MOTD_DE_VOIDKNIGHT_ANNOUNCE,Void Knight inflicts cosmic despair on foes and bonds Hive-Mind allies with symbiotic energy!
 ID_MOTD_DE_VOIDKNIGHT_ANNOUNCE2,Open the Living Corruption Orb to earn shards for this Symbiote Sentinel!
+ID_MOTD_NA_SEEINGRED_ANNOUNCE,LIVE: Seeing Red
+ID_MOTD_DE_SEEINGRED_ANNOUNCE,Recruit Red Goblin now by participating in February Events!
+ID_MOTD_NA_SEEINGRED_ENDING,Ending Soon: Seeing Red
+ID_MOTD_DE_SEEINGRED_ENDING,Get Red Goblin now before the Seeing Red ends!
 ID_MOTD_NA_PACTOFWRATH_TEASER,Coming Soon: Pact of Wrath
 ID_MOTD_DE_PACTOFWRATH_TEASER,Nova made a deal...
 ID_MOTD_NA_PACTOFWRATH_LIVE,LIVE: Pact of Wrath
@@ -2683,15 +2705,43 @@ ID_MOTD_NA_HERALDOFKLYNTAR_ANNOUNCE,Web Milestone: Herald of Klyntar
 ID_MOTD_DE_HERALDOFKLYNTAR_ANNOUNCE,Earn Blitz Credits and reap more rewards on the web!
 ID_MOTD_NA_ISOTOPEINNOVATION_ANNOUNCE,LIVE: Isotope Innovation
 ID_MOTD_DE_ISOTOPEINNOVATION_ANNOUNCE,Earn Gold and Mechanical Marvel progress!
+ID_MOTD_NA_REDINTHEFACE_ANNOUNCE,Web Milestone: Red in the Face
+ID_MOTD_DE_REDINTHEFACE_ANNOUNCE,Link your account to earn more rewards on web!
+ID_MOTD_NA_ROSESARERED_ANNOUNCE,LIVE: Roses are Red
+ID_MOTD_DE_ROSESARERED_ANNOUNCE,Earn Skill Gear and Seeing Red Progress
+ID_MOTD_NA_ROSESARERED_ENDING,Ending Soon: Roses are Red
+ID_MOTD_DE_ROSESARERED_ENDING,Don't miss out on Diamond Orbs!
 ID_MOTD_NA_INTOTHEGWENOMVERSE_ANNOUNCE,LIVE: Into the Gwenomverse
 ID_MOTD_DE_INTOTHEGWENOMVERSE_ANNOUNCE,Unlock Gwenom and earn Teal Bio Gear
 ID_MOTD_NA_INTOTHEGWENOMVERSE_ENDING,Ending Soon: Into the Gwenomverse
 ID_MOTD_DE_INTOTHEGWENOMVERSE_ENDING,Unlock Gwenom and earn Teal Bio Gear now!
 ID_MOTD_NA_KLYNTARDRUMKIT_ANNOUNCE,Web Milestone: Klyntar Drum Kit
 ID_MOTD_DE_KLYNTARDRUMKIT_ANNOUNCE,Spend Incursion Energy and reap more rewards on the web!
+ID_MOTD_NA_REDGOBLIN_ANNOUNCE,Red Goblin is here!
+ID_MOTD_DE_REDGOBLIN_ANNOUNCE,Embrace the carnage with Red Goblin!
+ID_MOTD_DE_REDGOBLIN_ANNOUNCE2,Open the Go Down Swinging Orb to earn shards for this Crimson Chaos
+ID_MOTD_NA_REDGOBLIN_TEASER,Soon: Red Goblin
+ID_MOTD_DE_REDGOBLIN_TEASER,Embrace the carnage with Red Goblin!
 ID_MOTD_NA_FIRSTSTRIKENU_ANNOUNCE,LIVE: First S.T.R.I.K.E.
 ID_MOTD_DE_FIRSTSTRIKENU_ANNOUNCE,Unlock powerful characters in your first Milestone!
 ID_MOTD_NA_TRIBUNALTECH_ANNOUNCE,LIVE: Tribunal Tech
 ID_MOTD_DE_TRIBUNALTECH_ANNOUNCE,Battle in Cosmic Crucible for tremendous rewards
 ID_MOTD_NA_LUNARDRAGONFESTIVAL_LIVE,LIVE: Lunar Dragon Festival
 ID_MOTD_DE_LUNARDRAGONFESTIVAL_LIVE,Earn a new Player Frame
+ID_MOTD_NA_BATTLEPASS_SEASON14_ANNOUNCE,LIVE: Season 14 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON14_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_BLACKKNIGHT_TEASER,Soon: Black Knight
+ID_MOTD_DE_BLACKKNIGHT_TEASER,Cut down enemies with brutal retaliation and by denying Revive!
+ID_MOTD_NA_BLACKKNIGHT_ANNOUNCE,Black Knight is here!
+ID_MOTD_DE_BLACKKNIGHT_ANNOUNCE,Cut down enemies with brutal retaliation and by denying Revive!
+ID_MOTD_DE_BLACKKNIGHT_ANNOUNCE2,Open the Knight of the Round Orb to earn shards for Ye Olde Protector!
+ID_MOTD_NA_REDBLOODED_ANNOUNCE,LIVE: Red Blooded
+ID_MOTD_DE_REDBLOODED_ANNOUNCE,Earn Gold and Seeing Red progress
+ID_MOTD_NA_REDBLOODED_ENDING,ENDING: Red Blooded
+ID_MOTD_DE_REDBLOODED_ENDING,Earn Gold and Seeing Red progress now!
+ID_MOTD_NA_PAINTTHETOWNRED_ANNOUNCE,LIVE: Paint the Town Red
+ID_MOTD_DE_PAINTTHETOWNRED_ANNOUNCE,Open Orbs and win in Crucible
+ID_MOTD_NA_PAINTTHETOWNRED_ENDING,Ending Soon: Paint the Town Red
+ID_MOTD_DE_PAINTTHETOWNRED_ENDING,Earn Dark Diamond Credits and Superior Six character shards!
+ID_MOTD_NA_REDHANDED_ANNOUNCE,LIVE: Red Handed
+ID_MOTD_DE_REDHANDED_ANNOUNCE,Use the newest Hive-Mind characters in Raids to score big points

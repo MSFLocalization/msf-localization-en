@@ -1469,6 +1469,10 @@ ID_GACHA_CRATE_FCO_BISHOP_SPECIAL_NAME,Marked Man Orb
 ID_GACHA_CRATE_FCO_BISHOP_SPECIAL_DESCRIPTION,Earn up to 180 Bishop shards
 ID_GACHA_CRATE_FCO_BISHOP_SPECIAL_TOKEN_NAME,Marked Man Orb Fragments
 ID_GACHA_CRATE_FCO_BISHOP_SPECIAL_TOKEN_DESCRIPTION,Collect Marked Man Orb Fragments to earn a Marked Man Orb.
+ID_GACHA_CRATE_FCO_BLACKKNIGHT_SPECIAL_NAME,Knight of the Round Orb
+ID_GACHA_CRATE_FCO_BLACKKNIGHT_SPECIAL_DESCRIPTION,Earn up to 180 Black Knight shards
+ID_GACHA_CRATE_FCO_BLACKKNIGHT_SPECIAL_TOKEN_NAME,Knight of the Round Orb Fragments
+ID_GACHA_CRATE_FCO_BLACKKNIGHT_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Knight of the Round Orbs that contain up to 180 Black Knight shards.
 ID_GACHA_CRATE_FCO_BLACKPANTHER_SPECIAL_NAME,Warrior King Orb
 ID_GACHA_CRATE_FCO_BLACKPANTHER_SPECIAL_DESCRIPTION,Get up to 180 Black Panther shards
 ID_GACHA_CRATE_FCO_BLACKPANTHER_SPECIAL_TOKEN_NAME,Warrior King Orb Fragments
@@ -1727,6 +1731,10 @@ ID_OF_DE_CORVUSGLAIVE_OFFER_55,"Get <color=#fff568>55 Corvus Glaive shards</colo
 ID_OF_DE_CORVUSGLAIVE_OFFER_75,"Get <color=#fff568>75 Corvus Glaive shards</color> and use him to grant Thanos the Mind Stone, ignore Taunt and Stealth, and inflict Piercing damage!"
 ID_OF_DE_CORVUSGLAIVE_OFFER_125,"Get <color=#fff568>125 Corvus Glaive shards</color> and use him to grant Thanos the Mind Stone, ignore Taunt and Stealth, and inflict Piercing damage!"
 ID_OF_DE_CORVUSGLAIVE_OFFER_150,"Get <color=#fff568>150 Corvus Glaive shards</color> and use him to grant Thanos the Mind Stone, ignore Taunt and Stealth, and inflict Piercing damage!"
+ID_GACHA_CRATE_FCO_COSMICGHOSTRIDER_SPECIAL_NAME,Undying Rider Orb
+ID_GACHA_CRATE_FCO_COSMICGHOSTRIDER_SPECIAL_DESCRIPTION,Earn up to 180 Cosmic Ghost Rider shards
+ID_GACHA_CRATE_FCO_COSMICGHOSTRIDER_SPECIAL_TOKEN_NAME,Undying Rider Orb Fragments
+ID_GACHA_CRATE_FCO_COSMICGHOSTRIDER_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Undying Rider Orbs that contain up to 180 Cosmic Ghost Rider shards.
 ID_GACHA_CRATE_FCO_CROSSBONES_SPECIAL_NAME,Skeleton Leader Orb
 ID_GACHA_CRATE_FCO_CROSSBONES_SPECIAL_DESCRIPTION,Get up to 180 Crossbones shards
 ID_GACHA_CRATE_FCO_CROSSBONES_SPECIAL_TOKEN_NAME,Skeleton Leader Orb Fragments
@@ -2411,6 +2419,10 @@ ID_GACHA_CRATE_FCO_IRONMANINFINITYWAR_SPECIAL_NAME,Timeline Protector Orb
 ID_GACHA_CRATE_FCO_IRONMANINFINITYWAR_SPECIAL_DESCRIPTION,Earn up to 180 Iron Man (Infinity War) shards
 ID_GACHA_CRATE_FCO_IRONMANINFINITYWAR_SPECIAL_TOKEN_NAME,Timeline Protector Orb Fragments
 ID_GACHA_CRATE_FCO_IRONMANINFINITYWAR_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Timeline Protector Orbs that contain up to 180 Iron Man (Infinity War) shards.
+ID_GACHA_CRATE_FCO_IRONPATRIOT_SPECIAL_NAME,Dark Leader Orb
+ID_GACHA_CRATE_FCO_IRONPATRIOT_SPECIAL_DESCRIPTION,Earn up to 180 Iron Patriot shards
+ID_GACHA_CRATE_FCO_IRONPATRIOT_SPECIAL_TOKEN_NAME,Dark Leader Orb Fragments
+ID_GACHA_CRATE_FCO_IRONPATRIOT_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Dark Leader Orbs that contain up to 180 Iron Patriot shards.
 ID_GACHA_CRATE_FCO_JESSICAJONES_SPECIAL_NAME,Alias Orb
 ID_GACHA_CRATE_FCO_JESSICAJONES_SPECIAL_DESCRIPTION,Get up to 180 Jessica Jones shards
 ID_GACHA_CRATE_FCO_JESSICAJONES_SPECIAL_TOKEN_NAME,Alias Orb Fragments
@@ -3231,6 +3243,10 @@ ID_GACHA_CRATE_FCO_QUICKSILVER_SPECIAL_NAME,Silver Speedster Orb
 ID_GACHA_CRATE_FCO_QUICKSILVER_SPECIAL_DESCRIPTION,Earn up to 180 Quicksilver shards
 ID_GACHA_CRATE_FCO_QUICKSILVER_SPECIAL_TOKEN_NAME,Silver Speedster Orb Fragments
 ID_GACHA_CRATE_FCO_QUICKSILVER_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Silver Speedster Orbs that contain up to 180 Quicksilver shards.
+ID_GACHA_CRATE_FCO_REDGOBLIN_SPECIAL_NAME,Go Down Swinging Orb
+ID_GACHA_CRATE_FCO_REDGOBLIN_SPECIAL_DESCRIPTION,Earn up to 180 Red Goblin shards
+ID_GACHA_CRATE_FCO_REDGOBLIN_SPECIAL_TOKEN_NAME,Go Down Swinging Orb Fragments
+ID_GACHA_CRATE_FCO_REDGOBLIN_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Go Down Swinging Orbs that contain up to 180 Red Goblin shards.
 ID_GACHA_CRATE_FCO_REDGUARDIAN_SPECIAL_NAME,Soviet Shield Orb
 ID_GACHA_CRATE_FCO_REDGUARDIAN_SPECIAL_DESCRIPTION,Earn up to 180 Red Guardian shards
 ID_GACHA_CRATE_FCO_REDGUARDIAN_SPECIAL_TOKEN_NAME,Soviet Shield Orb Fragments
@@ -3840,6 +3856,10 @@ ID_GACHA_CRATE_FCO_THANOS_SPECIAL_NAME,Mad Titan Orb
 ID_GACHA_CRATE_FCO_THANOS_SPECIAL_DESCRIPTION,Earn up to 180 Thanos shards
 ID_GACHA_CRATE_FCO_THANOS_SPECIAL_TOKEN_NAME,Mad Titan Orb Fragments
 ID_GACHA_CRATE_FCO_THANOS_SPECIAL_TOKEN_DESCRIPTION,Collect Mad Titan Orb Fragments to earn a Mad Titan Orb.
+ID_GACHA_CRATE_FCO_THELEADER_SPECIAL_NAME,Gammbitious Orb
+ID_GACHA_CRATE_FCO_THELEADER_SPECIAL_DESCRIPTION,Earn up to 180 The Leader shards
+ID_GACHA_CRATE_FCO_THELEADER_SPECIAL_TOKEN_NAME,Gammbitious Orb Fragments
+ID_GACHA_CRATE_FCO_THELEADER_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Gammbitious Orbs that contain up to 180 The Leader shards.
 ID_GACHA_CRATE_FCO_THING_SPECIAL_NAME,Clobberin' Time Orb
 ID_GACHA_CRATE_FCO_THING_SPECIAL_DESCRIPTION,Get up to 180 The Thing shards
 ID_GACHA_CRATE_FCO_THING_SPECIAL_TOKEN_NAME,Clobberin' Time Orb Fragments
@@ -6694,7 +6714,7 @@ ID_BP_NA_DUALOFFER_DISCOUNT_2XVAL,
 ID_GBP_DE_DUALOFFER_TITLE,Earn additional S.T.R.I.K.E. Pass Rewards!
 ID_GBP_DE_DUALOFFER_TITLE_REVAMP,UPGRADE YOUR S.T.R.I.K.E. PASS!
 ID_GBP_DE_DUALOFFER_SUBTITLE_REVAMP,Unlock premium rewards by upgrading! Immediately earn 20 bonus levels with Premium Plus!
-ID_GBP_NA_DUALOFFER_DESCRIPTION_2,Unlock Premium rewards\nand <color=#fff568>20 S.T.R.I.K.E. Levels</color>
+ID_GBP_NA_DUALOFFER_DESCRIPTION_2,Unlock Premium Rewards and <color=#fff568>20 S.T.R.I.K.E. Levels</color>
 ID_GBP_NA_DUALOFFER_DESCRIPTION_2_REVAMP,Activate Premium AND <color=#fff568>Earn 20 S.T.R.I.K.E. Levels</color>
 ID_OF_NA_STATURE_ECO_BUNDLE_1,Aspirational Orb Bundle
 ID_OF_DE_STATURE_ECO_BUNDLE_VAR_O,Save on <color=#fff568>{var1} Aspirational Orbs</color> with this offer! Each orb has a chance to earn <color=#fff568>up to 28 character shards</color>!
@@ -8561,6 +8581,10 @@ ID_GACHA_CRATE_FCO_THOR_INFINITYWAR_SPECIAL_NAME,Axe Wielder Orb
 ID_GACHA_CRATE_FCO_THOR_INFINITYWAR_SPECIAL_DESCRIPTION,Earn up to 180 Thor (Infinity War) shards
 ID_GACHA_CRATE_FCO_THOR_INFINITYWAR_SPECIAL_TOKEN_NAME,Axe Wielder Orb Fragments
 ID_GACHA_CRATE_FCO_THOR_INFINITYWAR_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Axe Wielder Orbs that contain up to 180 Thor (Infinity War) shards.
+ID_GACHA_CRATE_FCO_STARBRAND_SPECIAL_NAME,In the Stars Orb
+ID_GACHA_CRATE_FCO_STARBRAND_SPECIAL_DESCRIPTION,Earn up to 180 Starbrand shards
+ID_GACHA_CRATE_FCO_STARBRAND_SPECIAL_TOKEN_NAME,In the Stars Orb Fragments
+ID_GACHA_CRATE_FCO_STARBRAND_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for In the Stars Orbs that contain up to 180 Starbrand shards.
 ID_GACHA_CRATE_FCO_STARLORD_ANNIHILATION_SPECIAL_NAME,Elemental Gunslinger Orb
 ID_GACHA_CRATE_FCO_STARLORD_ANNIHILATION_SPECIAL_DESCRIPTION,Earn up to 180 Star-Lord (Annihilation) shards
 ID_GACHA_CRATE_FCO_STARLORD_ANNIHILATION_SPECIAL_TOKEN_NAME,Elemental Gunslinger Orb Fragments
@@ -8829,12 +8853,16 @@ ID_GACHA_CRATE_ALLIEDSUPPLY3_NAME,Allied Supply III Orb
 ID_GACHA_CRATE_ALLIEDSUPPLY3_DESCRIPTION,Score critical points for your Alliance
 ID_GACHA_CRATE_ALLIEDSUPPLY3_TOKEN_NAME,Allied Supply III Orb Fragments
 ID_GACHA_CRATE_ALLIEDSUPPLY3_TOKEN_DESCRIPTION,"Open Allied Supply III Orbs to get Gold, Training Materials, T2 Level 5 Ion Orb Fragments and more!"
-ID_GACHA_CRATE_TEAL_CATALYST_PACK_NAME,Teal Catalyst Pack
 ID_GACHA_CRATE_SYMBIOTESURFER_NAME,Symbiote Surfer Orb
 ID_GACHA_CRATE_SYMBIOTESURFER_DESCRIPTION,Earn Void Knight shards!
 ID_GACHA_CRATE_SYMBIOTESURFER_TOKEN_NAME,Symbiote Surfer Orb Fragment
 ID_GACHA_CRATE_SYMBIOTESURFER_TOKEN_DESCRIPTION,Earn progress in the Symbiote of the Spaceways Milestone and open Symbiote Surfer Orbs for Void Knight shards!
+ID_GACHA_CRATE_TEAL_CATALYST_PACK_NAME,Teal Catalyst Pack
 ID_GACHA_CRATE_GHOSTHOST_NAME,Ghost Host Orb
 ID_GACHA_CRATE_GHOSTHOST_DESCRIPTION,Earn Gwenom shards and event progress!
 ID_GACHA_CRATE_GHOSTHOST_TOKEN_NAME,Ghost Host Orb Fragment
 ID_GACHA_CRATE_GHOSTHOST_TOKEN_DESCRIPTION,"Open Ghost Host Orbs to earn shards for Gwenom, X-Treme X-Men and other top Raid characters, and progress in the Into the Gwenomverse milestone"
+ID_GACHA_CRATE_RUBYRED_NAME,Ruby Red Orb
+ID_GACHA_CRATE_RUBYRED_DESCRIPTION,Earn up to 400 Dark Diamond Credits
+ID_GACHA_CRATE_RUBYRED_TOKEN_NAME,Ruby Red Orb Fragments
+ID_GACHA_CRATE_RUBYRED_TOKEN_DESCRIPTION,"Collect Ruby Red Orb Fragments from the Daily Web Claim, limited time offers, and the Red Handed Milestone. Each Orb contains Dark Diamond and Promotion Credits, and Superior Six character shards."

@@ -5745,6 +5745,34 @@ ID_OF_DE_GOLDXTREMEMINI_JANJUBILATION,A bounty of <color=#ffda21>Gold</color> an
 ID_OF_DE_TRAINGOLDABM_JANJUBILATION,Take your roster to the next level with this special seasonal deal! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_CATALYSTGOLD_JANJUBILATION,Reap a bountiful harvest of <color=#fff568>Teal Gear Catalysts</color> with this exceptional deal! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_D7PROMODPC_JANJUBILATION,Raise the Red Star ranks of your roster with this boost of <color=#ffda21>Dark Promotion Credits</color>! <color=#ffda21>A {var1}x value</color>!
+ID_OF_NA_SEEINGRED_STARTER_MEGA,Seeing Red: Mega Starter
+ID_OF_NA_SEEINGRED_STARTER_SUPER,Seeing Red: Super Starter
+ID_OF_NA_SEEINGRED_STARTER,Seeing Red: Starter
+ID_OF_NA_SEEINGRED_STARTER_CAL,Seeing Red: Points Calendar
+ID_OF_NA_SEEINGRED_BOOSTER_ANCHOR,Seeing Red: Daily Points
+ID_OF_NA_SEEINGRED_MEGA_POINTS,Ultimate Villain's Bundle
+ID_OF_NA_SEEINGRED_BOOSTER,Seeing Red: Victory Bundle
+ID_OF_NA_SEEINGRED_CATCHUP_MEGA,Seeing Red: Mega Catch-Up
+ID_OF_NA_SEEINGRED_CATCHUP_SUPER,Seeing Red: Super Catch-Up
+ID_OF_NA_SEEINGRED_CATCHUP_LAST_CHANCE,Seeing Red: Last Chance
+ID_OF_NA_SEEINGRED_FREEDAILY,Seeing Red: Free Claim
+ID_OF_DE_SEEINGRED_STARTER_MEGA,"Stock up on <color=#f12603>Seeing Red</color> progress and exclusive items, and get ahead on the Seeing Red Leaderboard for <color=#f12603>up to 3,900 Dark Diamond Credits</color> and <color=#f12603>up to 6 Diamond Orbs</color>!"
+ID_OF_DE_SEEINGRED_STARTER_SUPER,Get ahead in the <color=#f12603>Seeing Red</color> milestone and fast-forward your way to the <color=#f12603>Red Goblin shards</color> and <color=#f12603>fully crafted Gear Tier 17 pieces</color>!
+ID_OF_DE_SEEINGRED_STARTER,Start off strong in the <color=#f12603>Seeing Red</color> milestone!
+ID_OF_DE_SEEINGRED_STARTER_CAL,"Earn daily <color=#f12603>Carnage Symbiote Vials</color> with this 25-day premium calendar. Earn a total of 225,000 Carnage Symbiote Vials!"
+ID_OF_DE_SEEINGRED_BOOSTER_ANCHOR,Make consistent <color=#f12603>Seeing Red</color> progress with this daily <color=#f12603>Carnage Symbiote Vial</color> supply!
+ID_OF_DE_SEEINGRED_MEGA_POINTS,Stock up on <color=#f12603>Seeing Red</color> progress with this special deal!
+ID_OF_DE_SEEINGRED_BOOSTER_LEGACYORBS,Stock up on <color=#f12603>Seeing Red</color> progress and <color=#f12603>Legacy Orbs</color> with this special deal!
+ID_OF_DE_SEEINGRED_BOOSTER_GOLDPROMOTIONCREDIT,Stock up on <color=#f12603>Seeing Red</color> progress and <color=#f12603>Gold Promotion Credits</color> with this special deal!
+ID_OF_DE_SEEINGRED_BOOSTER_MEGAORB,Stock up on <color=#f12603>Seeing Red</color> progress and <color=#f12603>Mega Orbs</color> with this special deal!
+ID_OF_DE_SEEINGRED_BOOSTER_CATALYSTPARTS,Stock up on <color=#f12603>Seeing Red</color> progress and <color=#f12603>Catalyst Parts</color> with this special deal!
+ID_OF_DE_SEEINGRED_BOOSTER_ABILITYMATERIALS,Stock up on <color=#f12603>Seeing Red</color> progress and <color=#f12603>Ability Materials</color> with this special deal!
+ID_OF_DE_SEEINGRED_BOOSTER_TRAININGORBS,Stock up on <color=#f12603>Seeing Red</color> progress and <color=#f12603>Training Orbs</color> with this special deal!
+ID_OF_DE_SEEINGRED_BOOSTER_GOLD,Stock up on <color=#f12603>Seeing Red</color> progress and <color=#f12603>Gold</color> with this special deal!
+ID_OF_DE_SEEINGRED_CATCHUP_MEGA,"Finish strong in the milestones and leaderboards for <color=#f12603>Red Goblin shards</color>, <color=#f12603>fully crafted Gear Tier 17 pieces</color> and <color=#f12603>up to 3,900 Dark Diamond Credits</color>!"
+ID_OF_DE_SEEINGRED_CATCHUP_SUPER,Finish strong in the milestones for <color=#f12603>Red Goblin shards</color> and <color=#f12603>fully crafted Gear Tier 17 pieces</color>!
+ID_OF_DE_SEEINGRED_CATCHUP_LAST_CHANCE,"Catch this deal before it's too late to earn your final <color=#f12603>Red Goblin shards</color> and <color=#f12603>fully crafted Gear Tier 17 pieces</color>! "
+ID_OF_DE_SEEINGRED_FREEDAILY,Come back daily for more <color=#f12603>Seeing Red</color> progress!
 ID_OF_NA_BLASTOFFTO100_MEGA_STARTER,Blastoff to 100: Mega Starter
 ID_OF_NA_BLASTOFFTO100_STARTER,Blastoff to 100: Starter
 ID_OF_NA_BLASTOFFTO100_MEGA_CATCHUP,Blastoff to 100: Mega Catch-Up
@@ -5938,6 +5966,34 @@ ID_OF_DE_SYMBIOTEOFTHESPACEWAYS_DAILY_ENERGY,Get a daily dose of Campaign Energy
 ID_OF_DE_SYMBIOTEOFTHESPACEWAYS_DAILY_BLITZ,Blitz through the <color=#fff568>Herald of Klyntar Web Milestone</color> for bonus Symbiote Surfer orbs and <color=#fff568>Symbiote of the Spaceways Milestone</color> progress!
 ID_OF_DE_SYMBIOTEOFTHESPACEWAYS_DAILY_INTERSTITIAL,Stock up on Symbiote Surfer Orbs and Event Points for extra progress in the <color=#fff568>Symbiote of the Spaceways Milestone</color>!
 ID_OF_DE_SYMBIOTEOFTHESPACEWAYS_FREE,Come back daily for more <color=#fff568>Symbiote of the Spaceways</color> progress!
+ID_OF_NA_ROSESARERED_MEGA_STARTER,Roses are Red: Mega Starter
+ID_OF_NA_ROSESARERED_STARTER,Roses are Red: Starter
+ID_OF_NA_ROSESARERED_WEB_POINTS,Roses are Red Booster
+ID_OF_NA_ROSESARERED_CATCHUP,Roses are Red: Catch-up
+ID_OF_NA_ROSESARERED_MEGA_CATCHUP,Roses are Red: Mega Catch-up
+ID_OF_NA_ROSESARERED_DAILY_CURRENCY,Roses are Red: Daily Heart Candy
+ID_OF_NA_ROSESARERED_DAILY_ENERGY,Roses are Red: Campaign Energy
+ID_OF_NA_ROSESARERED_DAILY_WAR,Red in the Face: Daily War Bundle
+ID_OF_NA_ROSESARERED_DAILY_INTERSTITIAL,Roses are Red Point Pack
+ID_OF_NA_ROSESARERED_FREE_CLAIM,Roses are Red: Free Claim
+ID_OF_DE_ROSESARERED_MEGA_STARTER,Get ahead in the <color=#f12603>Roses are Red</color> Milestone and fast-forward your way to <color=#f12603>Diamond Orbs</color> and <color=#f12603>Gear Tier 18 Mini-Uniques</color>!
+ID_OF_DE_ROSESARERED_STARTER,Get a head start in the <color=#f12603>Roses are Red</color> Milestone and speed your way to <color=#f12603>Diamond Orbs</color> and <color=#f12603>Gear Tier 18 Mini-Uniques</color>!
+ID_OF_DE_ROSESARERED_WEB_POINTS,Continue progressing in the <color=#f12603>Roses are Red</color> Milestone and speed your way to <color=#f12603>Diamond Orbs</color> and <color=#f12603>Gear Tier 18 Mini-Uniques</color>!
+ID_OF_DE_ROSESARERED_CATCHUP,Finish strong in the milestones to earn <color=#f12603>Diamond Orbs</color> and <color=#f12603>Gear Tier 18 Mini-Uniques</color>!
+ID_OF_DE_ROSESARERED_MEGA_CATCHUP,Finish your milestone progress and get the last batch of <color=#f12603>Diamond Orbs</color> and <color=#f12603>Gear Tier 18 Mini-Uniques</color>!
+ID_OF_DE_ROSESARERED_DAILY_CURRENCY,"Get your daily stash of <color=#f12603>Heart Candy</color> with this deal. Don't tell your dentist! "
+ID_OF_DE_ROSESARERED_DAILY_ENERGY,"Compete in the <color=#f12603>Glorious Purpose</color> Alliance Leaderboard for a shot at Dark Promotion Credits, T2 Level 5 Ions and Gear Tier 18 Mini-Uniques!"
+ID_OF_DE_ROSESARERED_DAILY_WAR,Take advantage of this special deal to get the edge in Alliance War and progress in the <color=#fff568>Red in the Face</color> milestone!
+ID_OF_DE_ROSESARERED_DAILY_INTERSTITIAL,Get boosted <color=#f12603>Roses are Red</color> progress with this daily trove of resources!
+ID_OF_DE_ROSESARERED_FREE_CLAIM,Come back daily for more <color=#f12603>Roses are Red</color> progress!
+ID_OF_DE_CATWARRIORS_WAR_DOG,Pounce on your prey in Alliance War with <color=#fff568>War Dog</color> team members!
+ID_OF_NA_CATWARRIORS_WAR_DOG,Cat Warriors: War Dog Team
+ID_OF_DE_HIDDENRETRIBUTION_SECRET_AVENGER,Progress in Alliance Raids with ease with <color=#fff568>Secret Avenger</color> team members!
+ID_OF_NA_HIDDENRETRIBUTION_SECRET_AVENGER,Hidden Retribution: Secret Avenger Team
+ID_OF_DE_RADIATEDPHYSIOLOGY_GAMMA,Dominate in Alliance War with <color=#fff568>Gamma</color> team members!
+ID_OF_NA_RADIATEDPHYSIOLOGY_GAMMA,Radiated Physiology: Gamma Team
+ID_OF_DE_AFTERSCHOOLPROGRAM_YOUNG_AVENGER,Keep your helicarrier well defended with <color=#fff568>Young Avenger</color> team members!
+ID_OF_NA_AFTERSCHOOLPROGRAM_YOUNG_AVENGER,After School Program: Young Avenger Team
 ID_OF_NA_INTOTHEGWENOMVERSE_MEGA_STARTER,Into the Gwenomverse: Mega Starter
 ID_OF_NA_INTOTHEGWENOMVERSE_STARTER,Into the Gwenomverse: Starter Pack
 ID_OF_NA_INTOTHEGWENOMVERSE_MEGA_CATCHUP,Into the Gwenomverse: Mega Catch-up
@@ -5959,6 +6015,18 @@ ID_OF_DE_INTOTHEGWENOMVERSE_GENERIC,"Claim this mega deal to get ahead in the <c
 ID_OF_DE_KLYNTARDRUMKIT_DAILY_ENERGY,Get your daily Incursion Energy fix to progress in the <color=#fff568>Klyntar Drum Kit</color> Milestone!
 ID_OF_DE_INTOTHEGWENOMVERSE_FREECLAIM,Come back daily for more <color=#fff568>Into the Gwenomverse</color> progress!
 ID_OF_DE_INTOTHEGWENOMVERSE_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Into the Gwenomverse</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_REDGOBLIN_FCO_OFFER,Crimson Chaos
+ID_OF_DE_REDGOBLIN_FCO_OFFER,Each <color=#fff568>Go Down Swinging Orb</color> contains <color=#fff568>up to 180 Red Goblin</color> shards. <color=#fff568>Red Goblin</color> embraces the carnage against foes and revives <color=#fff568>Symbiote</color> allies!
+ID_OF_DE_REDGOBLIN_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Red Goblin</color> and unlock one-time only release offers on your next visit! <color=#fff568>Red Goblin</color> embraces the carnage against foes and revives <color=#fff568>Symbiote</color> allies!
+ID_OF_DE_REDGOBLIN_OFFER_SHARD,Power up <color=#fff568>Red Goblin</color> with this shard offer! <color=#fff568>Red Goblin</color> embraces the carnage against foes and revives <color=#fff568>Symbiote</color> allies!
+ID_OF_STOREBAR_REDGOBLIN,Dual Offer: Red Goblin
+ID_OF_NA_DUAL_REDGOBLIN,Dual Offer: Red Goblin
+ID_OF_DE_DUAL_REDGOBLIN,Choose your path to power up this <color=#fff568>Hive-Mind</color> member!
+ID_OF_DE_DUAL_UNLOCK_REDGOBLIN,Unlock this <color=#fff568>Hive-Mind</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_REDGOBLIN_WEB_EXTRA_FCO_OFFER,Web Extra: Red Goblin
+ID_OF_NA_REDGOBLIN_WEB_SPECIAL_OFFER,Web Special: Red Goblin
+ID_OF_DE_REDGOBLIN_WEB_EXTRA_FCO_OFFER,"<color=#fff568>Web Extra!</color> The Crimson Chaos, <color=#fff568>Red Goblin</color>, soars in to spread fear to foes!"
+ID_OF_DE_REDGOBLIN_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> Disperse chaos and revive Symbiote allies with <color=#fff568>Red Goblin</color> leading the way!
 ID_OF_NA_MONTHLYSPECIAL_NIGHTCRAWLER,February Special: BAMF
 ID_OF_NA_MONTHLYSPECIAL_KRAVENSPIDERSLAYER,February Superior Special
 ID_OF_NA_WEEKLY_WED_TEALUNIQUE,Wednesday Web: Teal Uniques
@@ -6065,6 +6133,61 @@ ID_OF_DE_LUNAR24_PHOTON_7R_ISO,Empower the light within your roster by making ma
 ID_OF_DE_LUNAR24_SUPER_SALE_LC,Last chance to pick up this amazing holiday offer before it leaves the store. Empower your teams today. <color=#e5c41d>Contributes towards Lunar Dragon Festival event milestone.</color> <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_LUNAR24_WONG_UNIQUES_7R,Take this sorcerer to his full potential with this special time-limited holiday offer! <color=#e5c41d>Contributes towards Lunar Dragon Festival event milestone.</color> <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_LUNAR24_BLACKCATORB_SECRETDEF,Rank up the <color=#ffda21>Secret Defenders</color> with the shards they need and dominate in the arena today! <color=#e5c41d>Contributes towards Lunar Dragon Festival event milestone.</color> <color=#ffda21>A {var1}x value</color>!
+ID_OF_NA_BLACKKNIGHT_FCO_OFFER,Ye Olde Protector
+ID_OF_DE_BLACKKNIGHT_FCO_OFFER,Each <color=#fff568>Knight of the Round Orb</color> contains <color=#fff568>up to 180 Black Knight</color> shards. None shall pass <color=#fff568>Black Knight</color> with his devastating attack retaliation and Revive denial!
+ID_OF_DE_BLACKKNIGHT_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Black Knight</color> and unlock one-time only release offers on your next visit! None shall pass <color=#fff568>Black Knight</color> with his devastating attack retaliation and Revive denial!
+ID_OF_DE_BLACKKNIGHT_OFFER_SHARD,Power up <color=#fff568>Black Knight</color> with this shard offer! None shall pass <color=#fff568>Black Knight</color> with his devastating attack retaliation and Revive denial!
+ID_OF_DE_BLACKKNIGHT_UNLOCK_OFFER,Unlock <color=#fff568>Black Knight</color> now! None shall pass <color=#fff568>Black Knight</color> with his devastating attack retaliation and Revive denial!
+ID_OF_STOREBAR_BLACKKNIGHT,Dual Offer: Black Knight
+ID_OF_NA_DUAL_BLACKKNIGHT,Dual Offer: Black Knight
+ID_OF_DE_DUAL_BLACKKNIGHT,Choose your path to power up this <color=#fff568>Out of Time</color> member!
+ID_OF_DE_DUAL_UNLOCK_BLACKKNIGHT,Unlock this <color=#fff568>Out of Time</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_BLACKKNIGHT_WEB_EXTRA_FCO_OFFER,Black Knight Unlock Offer
+ID_OF_DE_BLACKKNIGHT_WEB_EXTRA_FCO_OFFER,"The Ye Olde Protector, <color=#fff568>Black Knight</color>, has arrived!"
+ID_OF_NA_PAINTTHETOWNRED_STARTER,Paint the Town Red: Starter
+ID_OF_NA_PAINTTHETOWNRED_CATCHUP,Paint the Town Red: Catch-Up
+ID_OF_NA_PAINTTHETOWNRED_DAILY_ORB,Paint the Town Red: Ruby Red Orb
+ID_OF_NA_PAINTTHETOWNRED_DAILY_POINTS,Paint the Town Red: Point Bundle
+ID_OF_NA_PAINTTHETOWNRED_KRAVEN,Paint the Town Red: Kraven The Hunter
+ID_OF_NA_PAINTTHETOWNRED_SPIDER_SLAYER,Paint the Town Red: Spider-Slayer
+ID_OF_NA_PAINTTHETOWNRED_LIZARD,Paint the Town Red: Lizard
+ID_OF_NA_PAINTTHETOWNRED_DAILY_INTERSTITIAL,Paint the Town Red: Supply Cache
+ID_OF_NA_PAINTTHETOWNRED_FREE_CLAIM,Paint the Town Red: Free Claim
+ID_OF_NA_PAINTTHETOWNRED100_HC_TEAL_GEAR_ORB,Paint the Town Red: Teal Gear Raid Orb
+ID_OF_NA_PAINTTHETOWNRED200_HC_GEAR,Paint the Town Red: Armory 17 Orb
+ID_OF_NA_PAINTTHETOWNRED500_HC_GEAR,Paint the Town Red: Armory 18 Orb
+ID_OF_NA_PAINTTHETOWNRED750_HC_EVENT_ORB,Paint the Town Red: Ruby Red Orb
+ID_OF_NA_PAINTTHETOWNRED1000_HC_GOLD,Paint the Town Red: Gold
+ID_OF_DE_PAINTTHETOWNRED_STARTER,Speed through the <color=#f12603>Paint the Town Red</color> Milestone and get <color=#f12603>Ruby Red Orbs</color> and <color=#f12603>Teal Gear</color> with this offer!
+ID_OF_DE_PAINTTHETOWNRED_CATCHUP,Climb the final steps of the <color=#f12603>Paint the Town Red</color> Milestone and get <color=#f12603>Red Goblin</color> character shards and <color=#f12603>Dark Diamond Credits</color> before it's too late!
+ID_OF_DE_PAINTTHETOWNRED_DAILY_ORB,Continue training and get Ruby Red Orbs for progress in the <color=#f12603>Paint the Town Red Milestone</color> and <color=#f12603>Dark Diamond Credits shards</color> from opening the orb!
+ID_OF_DE_PAINTTHETOWNRED_DAILY_POINTS,Need something a little extra? Get an edge on the competition with this bundle of <color=#f12603>Paint the Town Red</color> milestone points and Training and Gold orbs!
+ID_OF_DE_PAINTTHETOWNRED_KRAVEN,Earn progress in the <color=#f12603>Paint the Town Red</color> Milestone event as well as save on <color=#f12603>Kraven The Hunter</color> character shards with this offer!
+ID_OF_DE_PAINTTHETOWNRED_SPIDER_SLAYER,Earn progress in the <color=#f12603>Paint the Town Red</color> Milestone event as well as save on <color=#f12603>Spider-Slayer</color> character shards with this offer!
+ID_OF_DE_PAINTTHETOWNRED_LIZARD,Earn progress in the <color=#f12603>Paint the Town Red</color> Milestone event as well as save on <color=#f12603>Lizard</color> character shards with this offer!
+ID_OF_DE_PAINTTHETOWNRED_DAILY_INTERSTITIAL,Get boosted <color=#f12603>Paint the Town Red</color> progress with this daily trove of resources!
+ID_OF_DE_PAINTTHETOWNRED_FREE_CLAIM,Come back daily for a special Free Claim! Remember to visit the web every Friday for an even more special Free Claim!
+ID_OF_DE_PAINTTHETOWNRED100_HC_TEAL_GEAR_ORB,Spend Power Cores for progress in the <color=#fff568>Paint the Town Red Milestone</color> and get Teal Gear Raid Orb Fragments!
+ID_OF_DE_PAINTTHETOWNRED200_HC_GEAR,Spend Power Cores for progress in the <color=#fff568>Paint the Town Red Milestone</color> and get Armory 17 Orb Fragments!
+ID_OF_DE_PAINTTHETOWNRED500_HC_GEAR,Spend Power Cores for progress in the <color=#fff568>Paint the Town Red Milestone</color> and get Armory 18 Orb Fragments!
+ID_OF_DE_PAINTTHETOWNRED750_HC_EVENT_ORB,Spend Power Cores for progress in the <color=#fff568>Paint the Town Red Milestone</color> and get Ruby Red Orb Fragments!
+ID_OF_DE_PAINTTHETOWNRED1000_HC_GOLD,Spend Power Cores for progress in the <color=#fff568>Paint the Town Red Milestone</color> and get Gold!
+ID_OF_NA_REDBLOODED_STARTER,Red Blooded: Starter Pack
+ID_OF_NA_REDBLOODED_DAILY_ORB,Red Blooded: Daily Allied Supply III Orb
+ID_OF_NA_REDBLOODED_DAILY_ISO_ENERGY,Red Blooded: Daily Iso-8 Energy
+ID_OF_NA_REDBLOODED_DAILY_INCURSION_ENERGY,Red Blooded: Daily Incursion Energy
+ID_OF_NA_REDBLOODED_CATCHUP,Red Blooded: Catch-Up
+ID_OF_NA_REDBLOODED_DAILY_INTERSTITIAL,Red Blooded: Supply Bundle
+ID_OF_NA_REDBLOODED_FREE_CLAIM,Red Blooded Free Claim
+ID_OF_DE_REDBLOODED_STARTER,Give your alliance a huge head start in the <color=#f12603>Red Blooded</color> milestone with this high value offer!
+ID_OF_DE_REDBLOODED_DAILY_ORB,"Get these orbs for <color=#f12603>Red Blooded</color> progress and open them for T2 Level 5 Orbs containing T2 L5 Ions and a slew of resources! "
+ID_OF_DE_REDBLOODED_DAILY_ISO_ENERGY,Stock up on Iso-8 Campaign Energy to push your Alliance forward in the <color=#f12603>Red Blooded</color> milestone!
+ID_OF_DE_REDBLOODED_DAILY_INCURSION_ENERGY,Stock up on Incursion Energy to push your Alliance forward in the <color=#f12603>Red Blooded</color> milestone!
+ID_OF_DE_REDBLOODED_CATCHUP,Smash through the end of the <color=#f12603>Red Blooded</color> milestone and get your Alliance Teal Gear rewards!
+ID_OF_DE_REDBLOODED_DAILY_INTERSTITIAL,Stock up on Allied Supply III Orbs for extra progress in the <color=#f12603>Red Blooded Milestone</color>!
+ID_OF_DE_REDBLOODED_FREE_CLAIM,Come back daily for more <color=#f12603>Red Blooded</color> progress!
+ID_OF_NA_BLACKKNIGHT_WEB_SPECIAL_OFFER,Ye Olde Protector Special
+ID_OF_DE_BLACKKNIGHT_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> None shall pass <color=#fff568>Black Knight</color> with his devastating attack retaliation and Revive denial!
 ID_OF_NA_VDAY24_A18TRAINGOLD,Valentine's Day: Golden Development
 ID_OF_NA_VDAY24_PEGASUSUNIQUE,Valentine's Day: Unique Machines
 ID_OF_NA_VDAY24_ORBSTRAVAGANZA,Valentine's Day: Orbstravaganza
@@ -6143,3 +6266,13 @@ ID_OF_DE_VDAY24_MEGABUNDLE,Shower your valentine with this lavish bundle! <color
 ID_OF_DE_VDAY24_COUPLESCAL,Help these power-couples reach their maximum Red Star potential!
 ID_OF_DE_VDAY24_GREENISOBIG,<color=#22d11f>Ionize</color> your characters and turn the tides of battle in your favor! <color=#fc03d7>Greater than a {var1}x value</color>!
 ID_OF_DE_VDAY24_GREENISOLIMIT,One Time Only! Take your characters to the next level with <color=#22d11f>T1 Level 5 Crystals</color>! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_NA_VDAY24_DIAMONDTRAIN,Valentine's Day: Polishing Practice
+ID_OF_NA_VDAY24_GOLDA18GORB,Valentine's Day: Wealthy Armory
+ID_OF_NA_VDAY24_SECRETDEF,Valentine's Day: Secret Crushes
+ID_OF_NA_VDAY24_TRAININGE7,Valentine's Day: Elite Training Camp
+ID_OF_NA_VDAY24_A17ABM,Valentine's Day: Armory of Abilities
+ID_OF_DE_VDAY24_DIAMONDTRAIN,Make sure your roster is shining like a diamond before Valentine's Day! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_GOLDA18GORB,Hoard all of these <color=#ffda21>Armory 18 Orbs and Gold</color> for new challenges! <color=#fc03d7>A {var1}x value</color>!
+ID_OF_DE_VDAY24_SECRETDEF,It's no secret that everyone has a crush on the <color=#ffda21>Secret Defenders</color>! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_VDAY24_TRAININGE7,Claim this sweet deal on <color=#ffda21>Training Modules</color> and Red Stars and power up your top Teams! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_VDAY24_A17ABM,Pick up some <color=#ffda21>Armory 17 Orbs</color> and more <color=#ffda21>T4 Ability Materials</color>! <color=#fc03d7>Greater than a {var1}x value</color>!

@@ -2109,6 +2109,9 @@ ID_EVENT_LIZARD_DIF2_DESC,"Requirements: \n- SUPERIOR SIX or INVADERS\n- Lizard,
 ID_INFO_NA_ANIMALARMATURE,Animal Armature
 ID_INFO_DE_ANIMALARMATURE,Unlock Kraven the Hunter and earn Teal Mystic Gear
 ID_INFO_BO_ANIMALARMATURE,"<color=#fff568>Animal Armature Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by earning Superior Seeker Orb fragments from Arena Ranked Rewards, completing the Big Armor Hunter Web Milestone, spending Arena Credits on special milestone point offers, and daily Free Claims. Earn fantastic rewards including <color=#fff568>Kraven the Hunter shards, Gold Promotion Credits, Elite 6 Credits, and Teal Mystic gear</color>. You'll also earn points towards the month-long Reverse-Engineer milestone by collecting Vibranium Slabs and the Jet Engine Parts.\n\n<color=#fff568>Daily Big Armor Hunter Web Milestone</color>\nSpend Campaign and Incursion Energy to earn Superior Seeker Orb Fragments for Animal Armature Event progress! Keep an eye out for Free Claims containing Superior Seeker Orb fragments every day!"
+ID_INFO_NA_SURVIVALTOWER,Kyln Cracker
+ID_INFO_DE_SURVIVALTOWER,Escape from Kyln to earn rewards
+ID_INFO_BO_SURVIVALTOWER,This should be a long description of how to earn points (Temp)
 ID_INFO_NA_SUPERIORSINISTER,Superior Sinister
 ID_INFO_DE_SUPERIORSINISTER,Battle in Cosmic Crucible for Training Modules!
 ID_INFO_BO_SUPERIORSINISTER,Battle in Cosmic Crucible to earn Training Modules and Reverse-Engineer progress! Earn even more points when you use Sinister Six characters
@@ -2188,6 +2191,23 @@ ID_EVENT_HIVEMIND_THM_FLAVOR,Use Your Hive-Mind!
 ID_EVENT_HIVEMIND_THM_DESC,Requirements: \n- 5 Hive-Mind characters\n- Gear Tier 14\n- 4 Yellow Stars
 ID_EVENT_HIVEMIND_BONUS_FLAVOR,Get Awesome Rewards!
 ID_EVENT_HIVEMIND_BONUS_DESC,Requirements:\n- 5 HIVE-MIND characters\n- Gear Tier 16\n- 6 Yellow Stars
+ID_EVENT_CABAL_NAME,Rise of the Cabal
+ID_EVENT_CABAL_SUBTITLE,Cabal Showcase
+ID_EVENT_CABAL_DESC,Norman Osborn enacts a sinister plan to form an all-star alliance of the worlds most dangerous super villains.
+ID_EVENT_CABAL_DIF1_TD_FLAVOR,Try the Cabal
+ID_EVENT_CABAL_DIF2_ST_FLAVOR,Form the Cabal!
+ID_EVENT_CABAL_DIF3_CH_FLAVOR,Challenge Your Skills!
+ID_EVENT_CABAL_DIF4_TH_FLAVOR,Use Your Cabal!
+ID_EVENT_CABAL_DIF5_BO_FLAVOR,Get Awesome Rewards!
+ID_EVENT_CABAL_DIF4_TH_LABEL,Cabal
+ID_EVENT_CABAL_DIF1_TD_DESC,Play with a full team of Cabal characters in sample battles designed to show their true power!\n\nCosmic Crucible specific bonuses and effects are enabled in these missions.
+ID_EVENT_CABAL_DIF2_ST_DESC,Requirements:\n- Cabal or Sinister Six characters
+ID_EVENT_CABAL_DIF3_CH_DESC,Requirements: \n- Cabal or Sinister Six characters\n- Requires The Leader and Iron Patriot to complete all missions
+ID_EVENT_CABAL_DIF4_TH_DESC,Requirements: \n- 3 Cabal characters\n- 2 Villain characters\n- Gear Tier 14\n- 4 Yellow Stars
+ID_EVENT_CABAL_DIF5_BO_DESC,Requirements: \n- 3 Cabal characters\n- 2 Villain characters\n- Gear Tier 16\n- 6 Yellow Stars
+ID_INFO_NA_SEEINGRED,Seeing Red
+ID_INFO_DE_SEEINGRED,Recruit Red Goblin throughout February!
+ID_INFO_BO_SEEINGRED,"Earn points toward this month-long milestone by collecting Carnage Symbiote Vials, Valentine's Card, Cupid's Bow & Arrow, and Tulip Bouquet from February events. Carnage Symbiote Vials will also be available in Daily Free Claims throughout the month.\n\nThere will be several Milestone Events that provide progress towards the <color=#fff568>Seeing Red Milestone</color>. Earn <color=#fff568>Red Goblin</color> shards from the Seeing Red Milestone Rewards!\n\nCompete on the Leaderboard for exclusive rewards. Players reaching the top 50 rank will earn <color=#fff568>Diamond Champion Orb Fragments</color>, while other competitors can earn Diamond Orb Fragments, T2 Level 5 Ions, Elite 6 or 7 Credits and Armory 18 Orbs!"
 ID_INFO_NA_PACTOFWRATH,Pact of Wrath
 ID_INFO_DE_PACTOFWRATH,Unlock Nova's Costume
 ID_INFO_BO_PACTOFWRATH,"\n\nUnlock the power of Hive-Mind and earn a new costume for Nova along the way with this new premium milestone\n\n<color=#fff568>Pact of Wrath Milestone</color>\nEarn progress toward this premium Milestone by obtaining three key items. Each unique item will be available within character offers that contain enough character shards to instantly unlock each of the new Hive-Mind characters:\n\n- Corrupted Helmet - Found in Void Knight offers\n- Corrupted Armor - Found in upcoming Gwenom offers\n- Corrupted Gauntlets - Found in upcoming Red Goblin offers \n\nOnly one of each item is required to complete this milestone, so if you purchase multiple offers and obtain multiple of the same items, you will not receive more points."
@@ -2209,6 +2229,9 @@ ID_INFO_BO_SYMBIOTEOFTHESPACEWAYS,"<color=#fff568>Symbiote of the Spaceways Mile
 ID_INFO_NA_ISOTOPEINNOVATION,Isotope Innovation
 ID_INFO_DE_ISOTOPEINNOVATION,Earn Gold and Mechanical Marvel progress!
 ID_INFO_BO_ISOTOPEINNOVATION,Collaborate with your alliance to battle through the Iso-8 Campaign and earn Allied Supply III Orb Fragments. Allied Supply III Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
+ID_INFO_NA_ROSESARERED,Roses are Red
+ID_INFO_DE_ROSESARERED,Take a trip to the Candy Shop
+ID_INFO_BO_ROSESARERED,"<color=#fff568>Roses are Red Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by earning Heart Candy from campaign nodes and in the Red in the Face Web Milestone. The worthiest competitors have a chance to receive Carnage Symbiote Vials for Seeing Red progress, Gear Tier 18 Mini-Uniques and Diamond Orbs.\n\n<color=#fff568>Red in the Face Web Milestone</color>\nEarn War Credits to complete this milestone that rewards Carnage Symbiote Vials for the Seeing Red Event as well as Gold, Elite 4 and 5 Credits, and Roses are Red progress!"
 ID_INFO_NA_INTOTHEGWENOMVERSE,Into the Gwenomverse
 ID_INFO_DE_INTOTHEGWENOMVERSE,Unlock Gwenom!
 ID_INFO_BO_INTOTHEGWENOMVERSE,"<color=#fff568>Into the Gwenomverse Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by earning Ghost Host Orb Fragments from Arena Ranked Rewards, battling in War, completing the Klyntar Drum Kit Web Milestone, and daily Free Claims. \n\nEarn symbiotic rewards including <color=#fff568>Gwenom shards, Diamond Orb Fragments, Teal Bio gear, T4 Ability Materials</color>. You'll also earn points towards the month-long Mechanical Marvel milestone by collecting X-Batteries and the Neutralizer.\n\n<color=#fff568>Klyntar Drum Kit Web Milestone</color>\nSpend Incursion Campaign Energy to earn Ghost Host Orb Fragments and Teal Catalysts, and progress in the Into the Gwenomverse Milestone."
@@ -2217,10 +2240,30 @@ ID_INFO_DE_SYMBIOTEOFTHESPACEWAYS_BONUS,Earn more Symbiote Surfer Orbs!
 ID_INFO_BO_SYMBIOTEOFTHESPACEWAYS_BONUS,"Void Knight's intergalactic travels have taken him to the Isotope-8 Campaign. For a limited time, earn additional <color=#fff568>Symbiote Surfer Orb Fragments</color> on the following campaign nodes:\n- Isotope-8 Hard Mode 1-4\n- Isotope-8 Hard Mode 1-7\n- Isotope-8 Hard Mode 1-10\n- Isotope-8 Hard Mode 2-3\n- Isotope-8 Hard Mode 2-6\n- Isotope-8 Hard Mode 2-9"
 ID_INFO_NA_FIRSTSTRIKENU,First S.T.R.I.K.E.
 ID_INFO_DE_FIRSTSTRIKENU,Unlock more characters!
-ID_INFO_BO_FIRSTSTRIKENU,"Unlock more characters to join your roster in your first Milestone! Earn progress by spending Campaign Energy, using Power Cores, and an even bigger boost of progress by battling in Raids when you unlock the feature (Player Level 25)!\n\nMore Milestones will be available over time that give you bonus rewards for performing certain tasks, be on the lookout! Good luck, Commander."
+ID_INFO_BO_FIRSTSTRIKENU,"Unlock more characters to join your roster in your first Milestone! Earn progress initially by spending Campaign Energy and using Power Cores. As you increase your Player Level, you'll be able to gain more progress through new features you'll unlock like Raid (Level 25) and Arena (Level 30)!\n\nMore Milestones will be available over time that give you essential rewards for performing certain tasks, so be on the lookout! Good luck, Commander."
 ID_INFO_NA_TRIBUNALTECH,Tribunal Tech
 ID_INFO_DE_TRIBUNALTECH,Battle in Cosmic Crucible for tremendous rewards
 ID_INFO_BO_TRIBUNALTECH,Battle in Cosmic Crucible and earn Allied Supply III Orb Fragments to earn Training Modules and Mechanical Marvel progress for your whole Alliance! Allied Supply III Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
+ID_SSE_OOT_NAME,Hell and Back
+ID_SSE_OOT_SUBTITLE,Out of Time Showcase
+ID_SSE_OOT_DESC,"When Captain America, Captain Carter, and the New Avengers discover Mephisto's plot, their quest to stop him will take them to the very edges of time itself."
+ID_EVENT_OOT_DIF1_TD_FLAVOR,Try the Out of Time team!
+ID_EVENT_OOT_DIF2_ST_FLAVOR,Stop Mephisto's grand scheme!
+ID_EVENT_OOT_DIF3_CH_FLAVOR,Challenge Your Skills!
+ID_EVENT_OOT_DIF4_TH_FLAVOR,Use Your Out of Time characters!
+ID_EVENT_OOT_DIF5_BO_FLAVOR,Get Awesome Rewards!
+ID_EVENT_OOT_DIF1_TD_DESC,Play with a full team of Out of Time characters in sample battles against powerful enemies!\n\nWar specific bonuses and effects are enabled in some missions.
+ID_EVENT_OOT_DIF2_ST_DESC,Requirements:\n- Out of Time or New Avengers characters
+ID_EVENT_OOT_DIF3_CH_DESC,"Requirements: \n- Out of Time or New Avengers characters\n- Requires Black Knight, Star Brand, and Cosmic Ghost Rider to complete all missions"
+ID_EVENT_OOT_DIF4_TH_DESC,Requirements: \n- 5 Out of Time characters\n- Gear Tier 14\n- 4 Yellow Stars
+ID_EVENT_OOT_DIF5_BO_DESC,Requirements: \n- 5 Out of Time characters\n- Gear Tier 16\n- 6 Yellow Stars
+ID_EVENT_OOT_DIF4_TH_LABEL,Timeless
 ID_INFO_NA_LUNARDRAGONFESTIVAL,Lunar Dragon Festival
 ID_INFO_DE_LUNARDRAGONFESTIVAL,Earn a new Player Frame
 ID_INFO_BO_LUNARDRAGONFESTIVAL,"Celebrate Year of the Dragon with a brand-new Player Frame!\n\nYear of the Dragon Milestone\nScore points toward this 8-day premium milestone by collecting Red Envelopes in limited-time offers. \n\nOnce you earn 10 Red Envelopes, you will earn the exclusive Lunar Celebration Player Frame!"
+ID_INFO_NA_REDBLOODED,Red Blooded
+ID_INFO_DE_REDBLOODED,Earn Gold and Seeing Red progress
+ID_INFO_BO_REDBLOODED,"<color=#fff568>Red Blooded Milestone</color>\nGain progress in this <color=#fff568>5-day</color> alliance event by spending Incursion Energy and Iso-8 Campaign Energy and earning Allied Supply III Orb fragments from daily Free Claims. Earn incredible rewards including <color=#fff568>Teal Catalyst Packs, Gold, and Armory 16, 17, and 18 Orbs</color>. Teal Catalyst Packs contain 50 of each Augmented Catalyst Parts! You'll also earn points towards the month-long Seeing Red milestone by collecting Carnage Symbiote Vials."
+ID_INFO_NA_PAINTTHETOWNRED,Paint the Town Red
+ID_INFO_DE_PAINTTHETOWNRED,Wireframe Blueprint for the win
+ID_INFO_BO_PAINTTHETOWNRED,"<color=#fff568>Paint the Town Red Milestone</color>\nGain progress by spending Power Cores and opening Ruby Red Orbs earned from the Red Handed milestone and limited-time offers. Earn core rewards including <color=#fff568>Red Goblin Shards, Diamond Orb, and Dark Promotion Credits</color>. You'll also earn points towards the month-long Seeing Red milestone by collecting Carnage Symbiote Vials and the Cupid's Bow & Arrow. Keep an eye out for Free Claims containing Ruby Red Orbs every day!\n\n<color=#fff568>Ruby Red Orb</color>\nEarned from the Red Handed milestone, each orb contains Superior Six character shards, Dark Diamond Credits, and Dark Promotion Credits\n\n<color=#fff568>Daily Red Handed Milestone</color>\nEarn War Credits to earn Ruby Red Orbs, Paint the Town Red Milestone Points, and Carnage Symbiote Vials for additional progress in the Seeing Red Milestone."

@@ -46,13 +46,13 @@ ID_AVE_KEY_EVENT04_NAME,Gambit Raid Key
 ID_AVE_KEY_EVENT04_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_RES_CAMPAIGN_ENERGY_EVENT01,Superior Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT02,X-Treme Energy
-ID_RES_CAMPAIGN_ENERGY_EVENT03,Primordial Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT03,Out of Time Energy
 ID_CAMPAIGN_ENERGY_EVENT01_NAME,Superior Energy
 ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch Superior Schemes missions.
 ID_CAMPAIGN_ENERGY_EVENT02_NAME,X-Treme Energy
 ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch X-Tremely Sinister missions.
-ID_CAMPAIGN_ENERGY_EVENT03_NAME,Primordial Energy
-ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Symbiotic Collective missions.
+ID_CAMPAIGN_ENERGY_EVENT03_NAME,Hell and Back
+ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Hell and Back missions.
 ID_HC_NAME,Power Cores
 ID_HC_DESCRIPTION,"Use Power Cores to purchase Orbs, Energy Refills, Health Packs, Supplies, and Blitz Charges."
 ID_AVA-CUR_NAME,War Credits
@@ -204,12 +204,12 @@ ID_ELITE_6_CUR_NAME,Elite 6 Credit
 ID_ELITE_6_CUR_DESCRIPTION,Used to buy Elite 6 Star Orbs or Silver Promotion Credits.\n\nEarn Elite 6 Credits by collecting duplicate Red Stars from an Elite 5 Star Orb or better.
 ID_ELITE_7_CUR_NAME,Elite 7 Credit
 ID_ELITE_7_CUR_DESCRIPTION,Used to buy Elite 7 Star Orbs or Gold Promotion Credits.\n\nEarn Elite 7 Credits by collecting duplicate Red Stars from an Elite 6 Star Orb or better.
-ID_EVENT_CUR1_NAME,Cold Hard Cash
-ID_EVENT_CUR1_DESCRIPTION,"Collect Cold Hard Cash to spend in the Frozen Festival Event Store. Earn them in the Frozen Festival Milestone, Web Milestones throughout December, and in special offers!"
+ID_EVENT_CUR1_NAME,Candy Shop
+ID_EVENT_CUR1_DESCRIPTION,Spend Heart Candy at the Candy Shop. Only for a limited time.
 ID_EVENT_CUR2_NAME,Gear Credits
 ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
-ID_EVENT_CUR3_NAME,Snowy Spider Spectacle Milestone Points
-ID_EVENT_CUR3_DESCRIPTION,These points earn you additional progress in the Snowy Spider Spectacle Milestone. Earn them in the Campaign Cold Snap Web Milestone and limited offers!
+ID_EVENT_CUR3_NAME,Candy Shop
+ID_EVENT_CUR3_DESCRIPTION,Spend Heart Candy at the Candy Shop. Only for a limited time.
 ID_EVENT_CUR4_NAME,Blastoff to 100 Milestone Points
 ID_EVENT_CUR4_DESCRIPTION,"These points earn you additional progress in the Blastoff to 100 Milestone. Earn them in Daily Free Claims on our website, the Level Liftoff Web Milestone, and limited offers!"
 ID_EVENT_CUR5_NAME,Century Credit
@@ -280,20 +280,20 @@ ID_EVTA_META_JAN_Y_NAME,Corrupted Armor
 ID_EVTA_META_JAN_Y_DESCRIPTION,Collect the Corrupted Armor for points in the Pact of Wrath Event. Earn it from limited time offers.
 ID_EVTA_META_JAN_Z_NAME,Corrupted Gauntlets
 ID_EVTA_META_JAN_Z_DESCRIPTION,Collect the Corrupted Gauntlets for points in the Pact of Wrath Event. Earn it from limited time offers.
-ID_EVTA_META_FEB_B_NAME,Rival's Mask
-ID_EVTA_META_FEB_B_DESCRIPTION,Collect the Rival's Mask for points in the Destructive Diva Event. Earn them in the Trial of Strength Event!
-ID_EVTA_META_FEB_C_NAME,Beauty Belt
-ID_EVTA_META_FEB_C_DESCRIPTION,Collect the Beauty Belt for points in the Destructive Diva Event. Earn them in the Rage of the Past Event!
-ID_EVTA_META_FEB_D_NAME,Cosmetic Case
-ID_EVTA_META_FEB_D_DESCRIPTION,Collect the Cosmetic Case for points in the Destructive Diva Event. Earn them in the Crusher of Heroes Event!
-ID_EVTA_META_FEB_E_NAME,Dominator's Boots
-ID_EVTA_META_FEB_E_DESCRIPTION,Collect Dominator's Boots for points in the Destructive Diva Event. Earn them in the Atrocious Attraction Event!
-ID_EVTA_META_FEB_F_NAME,Diva Necklace
-ID_EVTA_META_FEB_F_DESCRIPTION,Collect Diva Necklace for points in the Destructive Diva Event. Earn them in the Grand Theft Quantum Event!
-ID_EVTA_META_FEB_G_NAME,Crusher Gloves
-ID_EVTA_META_FEB_G_DESCRIPTION,Collect Crusher Gloves for points in the Destructive Diva Event. Earn them in the Debonair Death Event!
-ID_EVTA_META_FEB_H_NAME,Killer Leather Jacket
-ID_EVTA_META_FEB_H_DESCRIPTION,Collect Killer Leather Jacket for points in the Destructive Diva Event. Earn them in the He Who Remains Event!
+ID_EVTA_META_FEB_A_NAME,Carnage Symbiote Vial
+ID_EVTA_META_FEB_A_DESCRIPTION,Collect Carnage Symbiote Vials for points in the Seeing Red Event. Earn them in various events throughout the month of February
+ID_EVTA_META_FEB_B_NAME,Valentine's Card
+ID_EVTA_META_FEB_B_DESCRIPTION,Collect the Valentine's Card for points in the Seeing Red Event. Earn it in the Roses are Red Event!
+ID_EVTA_META_FEB_C_NAME,Cupid's Bow & Arrow
+ID_EVTA_META_FEB_C_DESCRIPTION,Collect the Cupid's Bow & Arrow for points in the Seeing Red Event. Earn it in the Paint the Town Red Event!
+ID_EVTA_META_FEB_D_NAME,Tulip Bouquet
+ID_EVTA_META_FEB_D_DESCRIPTION,Collect the Tulip Bouquet for points in the Seeing Red Event. Earn them in the Red Letter Day Event!
+ID_EVTA_META_FEB_E_NAME,Chocolate Covered Strawberry
+ID_EVTA_META_FEB_E_DESCRIPTION,Collect Chocolate Covered Strawberry for points in the Seeing Red Event. Earn it in the Red Carpet Treatment Event!
+ID_EVTA_META_FEB_F_NAME,Roses are Red Milestone Points
+ID_EVTA_META_FEB_F_DESCRIPTION,"These points earn you additional progress in the Roses are Red Milestone. Earn them in the Red in the Face Web Milestone, Daily Free Claims on our website, and limited offers!"
+ID_EVTA_META_FEB_G_NAME,Paint the Town Red Milestone Points
+ID_EVTA_META_FEB_G_DESCRIPTION,These points earn you additional progress in the Paint the Town Red Milestone. Earn them in the Red Handed Milestone and limited offers!
 ID_EVTA_META_FEB_Z_NAME,Red Envelope
 ID_EVTA_META_FEB_Z_DESCRIPTION,These items earn you progress in the Lunar Dragon Festival Milestone. Earn them in limited seasonal offers!
 ID_EVTA_META_MAR_A_NAME,Eagle Emblem
@@ -448,3 +448,7 @@ ID_EVTA_META_DEV_F_NAME,Ruby Snow Goggles
 ID_EVTA_META_DEV_F_DESCRIPTION,Collect the Ruby Snow Goggles for points in the Frozen Festival Event. Earn it in the Icy X-Travaganza event!
 ID_RES_NA_RACETOTHETOP,Race to the Top Milestone Point
 ID_RES_DE_RACETOTHETOP,These points earn you additional progress in the Race to the Top Milestone. Earn them in Daily Free Claims on our website and/or limited offers!
+ID_EVENT_HEARTCANDY_NAME,Heart Candy
+ID_EVENT_HEARTCANDY_DESC,"Collect Heart Candy to spend in the Candy Shop Event Store. Earn them from Campaign nodes, Daily Free Claims on our website, and in special offers!"
+ID_EVENT_CANDYSHOP_NAME,Candy Shop
+ID_EVENT_CANDYSHOP_DESC,Spend Heart Candy at the Candy Shop. Only for a limited time.

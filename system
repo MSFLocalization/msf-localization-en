@@ -674,7 +674,7 @@ ID_SUGGESTED_LEVEL_72,FOR <color=#fff568>LEVEL 72+</color>
 ID_SUGGESTED_LEVEL_73,FOR <color=#fff568>LEVEL 73+</color>
 ID_SUGGESTED_LEVEL_74,FOR <color=#fff568>LEVEL 74+</color>
 ID_SUGGESTED_LEVEL_75,FOR <color=#fff568>LEVEL 75+</color>
-ID_MAINTENANCE_TOASTER_SCHEDULED,We will undergo maintenance starting at 9:30 PM (PST) (02/01).
+ID_MAINTENANCE_TOASTER_SCHEDULED,We will undergo maintenance starting at 9:30 PM (PST) (01/11).
 ID_MAINTENANCE_TOASTER_EMERGENCY,We will be undergoing emergency maintenance shortly.
 ID_MAINTENANCE_TOASTER_EVENT01,We will be undergoing maintenance shortly.
 ID_MAINTENANCE_TOASTER_EVENT02,Update available. Get the latest app version now.
@@ -1041,9 +1041,9 @@ ID_UI_ONLY_HERO_MUTANT_INHUMAN,ONLY <color=#fff568>HERO</color> <color=#fff568>M
 ID_UI_ONLY_HERO_MYSTIC_GOTG,ONLY <color=#fff568>HERO MYSTIC</color> or <color=#fff568>GUARDIANS</color> CHARACTERS
 ID_UI_ONLY_SHIELD_FF_W1AVENGERS,"ONLY <color=#fff568>S.H.I.E.L.D.</color>, <color=#fff568>WAVE I AVENGER</color>, or <color=#fff568>FANTASTIC FOUR</color> CHARACTERS"
 ID_REQUIRES_NEXUS_COMPLETE,Complete NEXUS Chapter 8
-ID_REQUIRES_DOOM_1,"""Complete Doom War Chapter 1 and Player Level 75"""
-ID_REQUIRES_DOOM_2,"""Complete Doom War Chapter 2 and Player Level 75"""
-ID_REQUIRES_DOOM_3,"""Complete Doom War Chapter 3 and Player Level 75"""
+ID_REQUIRES_DOOM_1," ""Complete Doom War Chapter 1 and Player Level 75"""
+ID_REQUIRES_DOOM_2," ""Complete Doom War Chapter 2 and Player Level 75"""
+ID_REQUIRES_DOOM_3," ""Complete Doom War Chapter 3 and Player Level 75"""
 ID_UI_ONLY_AVENGERS_FANTASTICFOUR,"ONLY <color=#fff568>AVENGERS</color>, or <color=#fff568>FANTASTIC FOUR</color> CHARACTERS"
 ID_UI_ONLY_HERO_TECH_SUPERNATURAL,"ONLY <color=#fff568>HERO TECH</color>, or <color=#fff568>HERO SUPERNATURAL</color> CHARACTERS"
 ID_UI_ONLY_SPIDERVERSE_NEWWARRIORS_HEROESFORHIRE,"ONLY <color=#fff568>SPIDER-VERSE</color>, <color=#fff568>NEW WARRIORS</color>, OR <color=#fff568>HEROES FOR HIRE</color> CHARACTERS"
@@ -1185,7 +1185,7 @@ ID_REQUIRES_TRAITS_MINION,REQUIRES: <color=#fff568>MINION</color>
 ID_REQUIRES_TRAITS_MINION_VILLAIN,REQUIRES: <color=#fff568>MINION OR VILLAIN</color>
 ID_REQUIRES_TRAITS_MUTANT_NONLEGEND,REQUIRES: <color=#fff568>NON-LEGENDARY MUTANT</color>
 ID_REQUIRES_NAKIA,REQUIRES: <color=#fff568>NAKIA</color>
-ID_REQUIRES_EC_NAKIA,<color=#fff568>NAKIA</color> REQUIRED
+ID_REQUIRES_EC_NAKIA,"<color=#fff568>NAKIA</color> REQUIRED "
 ID_REQUIRES_NAKIA_WARDOG,REQUIRES: <color=#fff568>NAKIA</color> and <color=#fff568>WAR DOGS</color>
 ID_REQUIRES_WARDOG,REQUIRES: <color=#fff568>WAR DOG</color>
 ID_UI_ONLY_NAKIA,REQUIRES: <color=#fff568>NAKIA</color>
@@ -1218,7 +1218,7 @@ ID_REQUIREMENT_STAIRSTEP_INVADERS_01,<color=#fff568>Invader</color> or <color=#f
 ID_REQUIREMENT_STAIRSTEP_INVADERS_02,<color=#fff568>Invader</color> or <color=#fff568>Rebirth</color>\n<color=#fff568>Captain America (WWII)</color> & <color=#fff568>Union Jack</color> are Required
 ID_REQUIREMENT_STAIRSTEP_INVADERS_03,"<color=#fff568>Invader</color> or <color=#fff568>Rebirth</color>\n<color=#fff568>Captain America (WWII)</color>, <color=#fff568>Union Jack</color>, & <color=#fff568>Bucky Barnes</color> are Required"
 ID_REQUIREMENT_STAIRSTEP_INVADERS_04,"<color=#fff568>Invader</color> or <color=#fff568>Rebirth</color>\n<color=#fff568>Captain America (WWII)</color>, <color=#fff568>Union Jack</color>, <color=#fff568>Bucky Barnes</color>, & <color=#fff568>Iron Fist (WWII)</color> are Required"
-ID_REQUIREMENT_STAIRSTEP_INVADERS_05,5 <color=#fff568>Invader</color> characters
+ID_REQUIREMENT_STAIRSTEP_INVADERS_05," 5 <color=#fff568>Invader</color> characters"
 ID_REQUIREMENT_INVADERS_CHALLENGE,Characters must be at <color=#ffa500>Gear Tier 13</color>+
 ID_REQUIREMENT_INVADERS_EPIC,Characters must be at <color=#ffa500>Gear Tier 15</color>+
 ID_REQUIRES_5_CHARACTERS_ONLY,REQUIRES: <color=#fff568>5 CHARACTERS</color>
@@ -1243,7 +1243,7 @@ ID_REQUIRES_TRAITS_5_COSMIC,REQUIRES: <color=#fff568>5 COSMIC</color>
 ID_REQUIRES_TRAITS_5_CONTROLLER,REQUIRES: <color=#fff568>5 CONTROLLER</color>
 ID_REQUIRES_TRAITS_5_NEWAVENGERS,REQUIRES: <color=#fff568>5 NEW AVENGERS</color>
 ID_REQUIRES_TRAITS_5_REBIRTH,REQUIRES: <color=#fff568>5 REBIRTH</color>
-ID_REQUIRES_SPIDERVERSE,Only <color=#fff568>Spider-Verse</color>
+ID_REQUIRES_SPIDERVERSE,"Only <color=#fff568>Spider-Verse</color> "
 ID_REQUIRES_WEBWARRIORS,Only <color=#fff568>Web-Warriors</color>
 ID_REQUIRES_SYBMIOTES_MILES,Only <color=#fff568>Symbiotes</color> and <color=#fff568>Spider-Man (Miles)</color>
 ID_REQUIRES_SINISTER6_MILES,Only <color=#fff568>Sinister Six</color> and <color=#fff568>Spider-Man (Miles)</color>
@@ -1266,7 +1266,7 @@ ID_REQ_INCURSION10_DIF3,"5 <color=#fff568>BIFROST</color> CHARACTERS, Gear Tier 
 ID_UI_ONLY_ENERGIZED,ONLY <color=#fff568>ENERGIZED</color> CHARACTERS
 ID_REQUIRES_EC_ENERGIZED_5,5 <color=#fff568>ENERGIZED</color> Characters REQUIRED
 ID_REQUIRES_PEGASUS_REBIRTH,ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color>
-ID_REQUIRES_PEGASUS_REBIRTH_IM,ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color>. Required: <color=#fff568>Iron Man (Infinity War)</color>
+ID_REQUIRES_PEGASUS_REBIRTH_IM,"ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color>. Required: <color=#fff568>Iron Man (Infinity War)</color> "
 ID_REQUIRES_PEGASUS_REBIRTH_IM_DH,ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color>. Required: <color=#fff568>Iron Man (Infinity War)</color> and <color=#fff568>Darkhawk</color>
 ID_REQUIRES_PEGASUS_REBIRTH_IM_DH_IH,"ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color>. Required: <color=#fff568>Iron Man (Infinity War)</color>, <color=#fff568>Darkhawk</color>, and <color=#fff568>Ironheart (MKII)</color>"
 ID_REQUIRES_PEGASUS_REBIRTH_GT13,ONLY <color=#fff568>P.E.G.A.S.U.S.</color> or <color=#fff568>REBIRTH</color> at Gear Tier 13
@@ -1279,6 +1279,9 @@ ID_REQUIREMENT_INCURSION_CAMPAIGN_CH3,"6 <color=#ff0000>RED</color> Stars, <colo
 ID_REQUIREMENT_INCURSION_CAMPAIGN_CH4,"5 <color=#ff0000>RED</color> Stars, <color=#fff568>MYSTIC</color> or <color=#fff568>TECH</color> Characters Only"
 ID_REQUIREMENT_INCURSION_CAMPAIGN_CH5,"6 <color=#ff0000>RED</color> Stars, <color=#fff568>MYSTIC</color> or <color=#fff568>TECH</color> Characters Only"
 ID_REQUIREMENT_INCURSION_CAMPAIGN_CH6,"7 <color=#ff0000>RED</color> Stars, <color=#fff568>MYSTIC</color> or <color=#fff568>TECH</color> Characters Only"
+ID_REQUIREMENT_INCURSION_CAMPAIGN_CH7,"6 <color=#ff0000>RED</color> Stars, <color=#fff568>MUTANT</color> or <color=#fff568>TECH</color> Characters Only"
+ID_REQUIREMENT_INCURSION_CAMPAIGN_CH8,"7 <color=#ff0000>RED</color> Stars, <color=#fff568>MUTANT</color> Characters Only"
+ID_REQUIREMENT_INCURSION_CAMPAIGN_CH8_P2,7 <color=#ff0000>RED</color> Stars
 ID_REQUIRES_PEGASUS_CH_CAM,5 <color=#fff568>P.E.G.A.S.U.S.</color> at Gear Tier 15
 ID_REQUIRES_PEGASUS_LE_CAM,"5 <color=#fff568>P.E.G.A.S.U.S.</color> at Gear Tier 15, 4 Yellow Stars"
 ID_REQUIRES_PEGASUS_BO_CAM,"5 <color=#fff568>P.E.G.A.S.U.S.</color> at Gear Tier 15, 6 Yellow Stars"
@@ -1342,6 +1345,13 @@ ID_REQ_XTXM_DIF3_CH_STAIRSTEP_3_CAMP,"<color=#fff568>X-TREME X-MEN</color> or <c
 ID_REQ_XTXM_DIF3_CH_STAIRSTEP_1_BAT,Required: <color=#fff568>X-TREME X-MEN</color> or <color=#fff568>SECRET DEFENDERS</color>\n<color=#fff568>NIGHTCRAWLER</color>
 ID_REQ_XTXM_DIF3_CH_STAIRSTEP_2_BAT,Required: <color=#fff568>X-TREME X-MEN</color> or <color=#fff568>SECRET DEFENDERS</color>\n<color=#fff568>NIGHTCRAWLER</color> and <color=#fff568>FORGE</color>
 ID_REQ_XTXM_DIF3_CH_STAIRSTEP_3_BAT,"Required: <color=#fff568>X-TREME X-MEN</color> or <color=#fff568>SECRET DEFENDERS</color>\n<color=#fff568>NIGHTCRAWLER</color>, <color=#fff568>FORGE</color>, and <color=#fff568>SUNSPOT</color>"
+ID_REQUIRES_HIVEMIND_STORY,ONLY <color=#fff568>HIVE-MIND</color> or <color=#fff568>SYMBIOTE</color>
+ID_REQUIRES_HIVEMIND_CH,"ONLY <color=#fff568>HIVE-MIND</color> or <color=#fff568>SYMBIOTE</color>\nREQUIRES: <color=#fff568>CARNAGE</color>, <color=#fff568>VENOM</color>"
+ID_REQUIRES_HIVEMIND_CH_VK,"ONLY <color=#fff568>HIVE-MIND</color> or <color=#fff568>SYMBIOTE</color>\nREQUIRES: <color=#fff568>CARNAGE</color>, <color=#fff568>VENOM</color>, and <color=#fff568>VOID KNIGHT</color>"
+ID_REQUIRES_HIVEMIND_CH_GM,"ONLY <color=#fff568>HIVE-MIND</color> or <color=#fff568>SYMBIOTE</color>\nREQUIRES: <color=#fff568>CARNAGE</color>, <color=#fff568>VENOM</color>, <color=#fff568>VOID KNIGHT</color>, and <color=#fff568>GWENOM</color>"
+ID_REQUIRES_HIVEMIND_CH_RG,"ONLY <color=#fff568>HIVE-MIND</color> or <color=#fff568>SYMBIOTE</color>\nREQUIRES: <color=#fff568>CARNAGE</color>, <color=#fff568>VENOM</color>, <color=#fff568>VOID KNIGHT</color>, <color=#fff568>GWENOM</color>, and <color=#fff568>RED GOBLIN</color>"
+ID_REQUIRES_HIVEMIND_THM,"ONLY <color=#fff568>HIVE-MIND</color>\nREQUIRES: Gear Tier 14, 4 Yellow Stars"
+ID_REQUIRES_HIVEMIND_BONUS,"ONLY <color=#fff568>HIVE-MIND</color>\nREQUIRES: Gear Tier 16, 6 Yellow Stars"
 ID_REQUIRES_TRAITS_LE_DROCK_L1,"REQUIRES: X-FORCE, WAVE I - AVENGER, OR DEFENDER"
 ID_REQUIRES_TRAITS_LE_DROCK_L2,"REQUIRES: 2-Star X-FORCE, WAVE I - AVENGER, OR DEFENDER"
 ID_REQUIRES_TRAITS_LE_DROCK_L3,"REQUIRES: 3-Star X-FORCE, WAVE I - AVENGER, OR DEFENDER"
@@ -1391,10 +1401,27 @@ ID_REQUIRES_TRAITS_LE_JUBILEE_L4,REQUIRES: 4-Star PYM TECH OR TECH HERO
 ID_REQUIRES_TRAITS_LE_JUBILEE_L5,REQUIRES: 5-Star PYM TECH OR TECH HERO
 ID_REQUIRES_TRAITS_LE_JUBILEE_L6,REQUIRES: 6-Star PYM TECH OR TECH HERO
 ID_REQUIRES_TRAITS_LE_JUBILEE_L7,REQUIRES: 7-Star PYM TECH OR TECH HERO
-ID_REQUIRES_HIVEMIND_STORY,ONLY <color=#fff568>HIVE-MIND</color> or <color=#fff568>SYMBIOTE</color>
-ID_REQUIRES_HIVEMIND_CH,"ONLY <color=#fff568>HIVE-MIND</color> or <color=#fff568>SYMBIOTE</color>\nREQUIRES: <color=#fff568>CARNAGE</color>, <color=#fff568>VENOM</color>"
-ID_REQUIRES_HIVEMIND_CH_VK,"ONLY <color=#fff568>HIVE-MIND</color> or <color=#fff568>SYMBIOTE</color>\nREQUIRES: <color=#fff568>CARNAGE</color>, <color=#fff568>VENOM</color>, and <color=#fff568>VOID KNIGHT</color>"
-ID_REQUIRES_HIVEMIND_CH_GM,"ONLY <color=#fff568>HIVE-MIND</color> or <color=#fff568>SYMBIOTE</color>\nREQUIRES: <color=#fff568>CARNAGE</color>, <color=#fff568>VENOM</color>, <color=#fff568>VOID KNIGHT</color>, and <color=#fff568>GWENOM</color>"
-ID_REQUIRES_HIVEMIND_CH_RG,"ONLY <color=#fff568>HIVE-MIND</color> or <color=#fff568>SYMBIOTE</color>\nREQUIRES: <color=#fff568>CARNAGE</color>, <color=#fff568>VENOM</color>, <color=#fff568>VOID KNIGHT</color>, <color=#fff568>GWENOM</color>, and <color=#fff568>RED GOBLIN</color>"
-ID_REQUIRES_HIVEMIND_THM,"ONLY <color=#fff568>HIVE-MIND</color>\nREQUIRES: Gear Tier 14, 4 Yellow Stars"
-ID_REQUIRES_HIVEMIND_BONUS,"ONLY <color=#fff568>HIVE-MIND</color>\nREQUIRES: Gear Tier 16, 6 Yellow Stars"
+ID_REQ_CABAL_DIF2_ST_CAMP,<color=#fff568>CABAL</color> or <color=#fff568>SINISTER SIX</color>
+ID_REQ_CABAL_DIF4_TH_CAMP,"3 <color=#fff568>CABAL</color>, Gear Tier: <color=#fff568>14</color>, Yellow Stars: <color=#fff568>4</color>"
+ID_REQ_CABAL_DIF5_BO_CAMP,"3 <color=#fff568>CABAL</color>, Gear Tier: <color=#fff568>16</color>, Yellow Stars: <color=#fff568>6</color>"
+ID_REQ_CABAL_DIF2_ST_BAT,Required: <color=#fff568>CABAL</color> or <color=#fff568>SINISTER SIX</color>
+ID_REQ_CABAL_DIF4_TH_BAT,"Required: 3 <color=#fff568>CABAL</color>, Gear Tier: <color=#fff568>14</color>, Yellow Stars: <color=#fff568>4</color>"
+ID_REQ_CABAL_DIF5_BO_BAT,"Required: 3 <color=#fff568>CABAL</color>, Gear Tier: <color=#fff568>16</color>, Yellow Stars: <color=#fff568>6</color>"
+ID_REQ_CABAL_DIF3_CH_STAIRSTEP_1_CAMP,<color=#fff568>CABAL</color> or <color=#fff568>SINISTER SIX</color>\n<color=#fff568>IRON PATRIOT</color>
+ID_REQ_CABAL_DIF3_CH_STAIRSTEP_2_CAMP,<color=#fff568>CABAL</color> or <color=#fff568>SINISTER SIX</color>\n<color=#fff568>IRON PATRIOT</color> and <color=#fff568>THE LEADER</color>
+ID_REQ_CABAL_DIF3_CH_STAIRSTEP_3_CAMP,"<color=#fff568>CABAL</color> or <color=#fff568>SINISTER SIX</color>\n<color=#fff568>IRON PATRIOT</color>, <color=#fff568>THE LEADER</color>, and <color=#fff568>NAMOR</color>"
+ID_REQ_CABAL_DIF3_CH_STAIRSTEP_1_BAT,Required: <color=#fff568>CABAL</color> or <color=#fff568>SINISTER SIX</color>\n<color=#fff568>IRON PATRIOT</color>
+ID_REQ_CABAL_DIF3_CH_STAIRSTEP_2_BAT,Required: <color=#fff568>CABAL</color> or <color=#fff568>SINISTER SIX</color>\n<color=#fff568>IRON PATRIOT</color> and <color=#fff568>THE LEADER</color>
+ID_REQ_CABAL_DIF3_CH_STAIRSTEP_3_BAT,"Required: <color=#fff568>CABAL</color> or <color=#fff568>SINISTER SIX</color>\n<color=#fff568>IRON PATRIOT</color>, <color=#fff568>THE LEADER</color>, and <color=#fff568>NAMOR</color>"
+ID_REQ_OOT_DIF2_ST_CAMP,<color=#fff568>OUT OF TIME</color> or <color=#fff568>NEW AVENGERS</color>
+ID_REQ_OOT_DIF4_TH_CAMP,"5 <color=#fff568>OUT OF TIME</color>, Gear Tier: <color=#fff568>14</color>, Yellow Stars: <color=#fff568>4</color>"
+ID_REQ_OOT_DIF5_BO_CAMP,"5 <color=#fff568>OUT OF TIME</color>, Gear Tier: <color=#fff568>16</color>, Yellow Stars: <color=#fff568>6</color>"
+ID_REQ_OOT_DIF2_ST_BAT,Required: <color=#fff568>OUT OF TIME</color> or <color=#fff568>NEW AVENGERS</color>
+ID_REQ_OOT_DIF4_TH_BAT,"Required: 5 <color=#fff568>OUT OF TIME</color>, Gear Tier: <color=#fff568>14</color>, Yellow Stars: <color=#fff568>4</color>"
+ID_REQ_OOT_DIF5_BO_BAT,"Required: 5 <color=#fff568>OUT OF TIME</color>, Gear Tier: <color=#fff568>16</color>, Yellow Stars: <color=#fff568>6</color>"
+ID_REQ_OOT_DIF3_CH_STAIRSTEP_1_CAMP,<color=#fff568>OUT OF TIME</color> or <color=#fff568>NEW AVENGERS</color>\n<color=#fff568>BLACK KNIGHT</color>
+ID_REQ_OOT_DIF3_CH_STAIRSTEP_2_CAMP,<color=#fff568>OUT OF TIME</color> or <color=#fff568>NEW AVENGERS</color>\n<color=#fff568>BLACK KNIGHT</color> and <color=#fff568>STARBRAND</color>
+ID_REQ_OOT_DIF3_CH_STAIRSTEP_3_CAMP,"<color=#fff568>OUT OF TIME</color> or <color=#fff568>NEW AVENGERS</color>\n<color=#fff568>BLACK KNIGHT</color>, <color=#fff568>STARBRAND</color>, and <color=#fff568>COSMIC GHOST RIDER</color>"
+ID_REQ_OOT_DIF3_CH_STAIRSTEP_1_BAT,Required: <color=#fff568>OUT OF TIME</color> or <color=#fff568>NEW AVENGERS</color>\n<color=#fff568>BLACK KNIGHT</color>
+ID_REQ_OOT_DIF3_CH_STAIRSTEP_2_BAT,Required: <color=#fff568>OUT OF TIME</color> or <color=#fff568>NEW AVENGERS</color>\n<color=#fff568>BLACK KNIGHT</color> and <color=#fff568>STARBRAND</color>
+ID_REQ_OOT_DIF3_CH_STAIRSTEP_3_BAT,"Required: <color=#fff568>OUT OF TIME</color> or <color=#fff568>NEW AVENGERS</color>\n<color=#fff568>BLACK KNIGHT</color>, <color=#fff568>STARBRAND</color>, and <color=#fff568>COSMIC GHOST RIDER</color>"

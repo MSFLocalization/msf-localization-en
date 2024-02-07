@@ -238,6 +238,13 @@ ID_AR_MT_BISHOP,LIVE: Marked Man Blitz
 ID_AR_MS_BISHOP,Your chance to win Bishop shards!
 ID_AR_MB_BISHOP,<color=#fff568>Marked Man Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Bishop shards! Recruit Bishop now!
 ID_AR_NA_BISHOP_CARD,Marked Man
+ID_AR_NA_BLACKKNIGHT,Knight of the Round
+ID_AR_SM_BLACKKNIGHT,Win Black Knight Shards!
+ID_AR_LM_BLACKKNIGHT,Face off against other players' teams to earn various milestone rewards and a chance to win Black Knight shards!
+ID_AR_MT_BLACKKNIGHT,LIVE: Knight of the Round Blitz
+ID_AR_MS_BLACKKNIGHT,Your chance to win Black Knight shards!
+ID_AR_MB_BLACKKNIGHT,<color=#fff568>Knight of the Round Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Black Knight shards!\n\n<color=#fff568>Knight of the Round Orb</color>\nRecruit Black Knight now!
+ID_AR_NA_BLACKKNIGHT_CARD,Knight of the Round
 ID_AR_NA_BLACKPANTHER,Warrior King
 ID_AR_SM_BLACKPANTHER,Win Black Panther Shards!
 ID_AR_LM_BLACKPANTHER,Face off against other players' teams to earn various milestone rewards and a chance to win BLACK PANTHER shards!
@@ -721,6 +728,13 @@ ID_AR_MT_IRONMANINFINITYWAR,LIVE: Timeline Protector Blitz
 ID_AR_MS_IRONMANINFINITYWAR,Your chance to win Iron Man (Infinity War) shards!
 ID_AR_MB_IRONMANINFINITYWAR,<color=#fff568>Timeline Protector Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Iron Man (Infinity War) shards!\n\n<color=#fff568>Timeline Protector Orb</color>\nRecruit Iron Man (Infinity War) now!
 ID_AR_NA_IRONMANINFINITYWAR_CARD,Timeline Protector
+ID_AR_NA_IRONPATRIOT,Dark Leader
+ID_AR_SM_IRONPATRIOT,Win Iron Patriot Shards!
+ID_AR_LM_IRONPATRIOT,Face off against other players' teams to earn various milestone rewards and a chance to win Iron Patriot shards!
+ID_AR_MT_IRONPATRIOT,LIVE: Dark Leader Blitz
+ID_AR_MS_IRONPATRIOT,Your chance to win Iron Patriot shards!
+ID_AR_MB_IRONPATRIOT,<color=#fff568>Dark Leader Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Iron Patriot shards!\n\n<color=#fff568>Dark Leader Orb</color>\nRecruit Iron Patriot now!
+ID_AR_NA_IRONPATRIOT_CARD,Dark Leader
 ID_AR_NA_JESSICAJONES,Alias
 ID_AR_SM_JESSICAJONES,Win Jessica Jones Shards!
 ID_AR_LM_JESSICAJONES,Face off against other players' teams to earn various milestone rewards and a chance to win JESSICA JONES shards!
@@ -1137,6 +1151,13 @@ ID_AR_MT_QUICKSILVER,LIVE: Silver Speedster Blitz
 ID_AR_MS_QUICKSILVER,Your chance to win Quicksilver shards!
 ID_AR_MB_QUICKSILVER,<color=#fff568>Silver Speedster Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Quicksilver shards! Recruit Quicksilver now!
 ID_AR_NA_QUICKSILVER_CARD,Silver Speedster
+ID_AR_NA_REDGOBLIN,Go Down Swinging
+ID_AR_SM_REDGOBLIN,Win Red Goblin Shards!
+ID_AR_LM_REDGOBLIN,Face off against other players' teams to earn various milestone rewards and a chance to win Red Goblin shards!
+ID_AR_MT_REDGOBLIN,LIVE: Go Down Swinging Blitz
+ID_AR_MS_REDGOBLIN,Your chance to win Red Goblin shards!
+ID_AR_MB_REDGOBLIN,<color=#fff568>Go Down Swinging Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Red Goblin shards!\n\n<color=#fff568>Go Down Swinging Orb</color>\nRecruit Red Goblin now!
+ID_AR_NA_REDGOBLIN_CARD,Go Down Swinging
 ID_AR_NA_REDGUARDIAN,Soviet Shield
 ID_AR_SM_REDGUARDIAN,Win Red Guardian Shards!
 ID_AR_LM_REDGUARDIAN,Face off against other players' teams to earn various milestone rewards and a chance to win Red Guardian shards!
@@ -1398,6 +1419,13 @@ ID_AR_MT_SQUIRRELGIRL,LIVE: SQUIRREL! Blitz
 ID_AR_MS_SQUIRRELGIRL,Your chance to win Squirrel Girl shards!
 ID_AR_MB_SQUIRRELGIRL,<color=#fff568>SQUIRREL! Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Squirrel Girl shards! Recruit Squirrel Girl now!
 ID_AR_NA_SQUIRRELGIRL_CARD,SQUIRREL!
+ID_AR_NA_STARBRAND,In the Stars
+ID_AR_SM_STARBRAND,Win Starbrand Shards!
+ID_AR_LM_STARBRAND,Face off against other players' teams to earn various milestone rewards and a chance to win Starbrand shards!
+ID_AR_MT_STARBRAND,LIVE: In the Stars Blitz
+ID_AR_MS_STARBRAND,Your chance to win Starbrand shards!
+ID_AR_MB_STARBRAND,<color=#fff568>In the Stars Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Starbrand shards!\n\n<color=#fff568>In the Stars Orb</color>\nRecruit Starbrand now!
+ID_AR_NA_STARBRAND_CARD,In the Stars
 ID_AR_NA_STATURE,Big Shoes
 ID_AR_SM_STATURE,Win Stature Shards!
 ID_AR_LM_STATURE,Face off against other players' teams to earn various milestone rewards and a chance to win Stature shards!
@@ -1484,6 +1512,13 @@ ID_AR_MT_THANOS,LIVE: Mad Titan Blitz
 ID_AR_MS_THANOS,Your chance to win Thanos shards!
 ID_AR_MB_THANOS,<color=#fff568>Mad Titan Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Thanos shards! Recruit Thanos now!
 ID_AR_NA_THANOS_CARD,Mad Titan
+ID_AR_NA_THELEADER,Gammbitious
+ID_AR_SM_THELEADER,Win The Leader Shards!
+ID_AR_LM_THELEADER,Face off against other players' teams to earn various milestone rewards and a chance to win The Leader shards!
+ID_AR_MT_THELEADER,LIVE: Gammbitious Blitz
+ID_AR_MS_THELEADER,Your chance to win The Leader shards!
+ID_AR_MB_THELEADER,<color=#fff568>Gammbitious Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win The Leader shards!\n\n<color=#fff568>Gammbitious Orb</color>\nRecruit The Leader now!
+ID_AR_NA_THELEADER_CARD,Gammbitious
 ID_AR_NA_THING,Clobberin' Time
 ID_AR_SM_THING,Win The Thing Shards!
 ID_AR_LM_THING,Face off against other players' teams to earn various milestone rewards and a chance to win The Thing shards!
@@ -1717,6 +1752,13 @@ ID_AR_MB_GWENPOOL,<color=#fff568>Comic Fan Blitz</color>\nFace off against other
 ID_AR_ES_GWENPOOL,ENDED: Comic Fan Blitz
 ID_AR_EB_GWENPOOL,The Comic Fan Blitz has ended; visit <color=#fff568>BLITZ</color> to collect your rewards.
 ID_AR_NA_GWENPOOL_CARD,Comic Fan
+ID_AR_NA_COSMICGHOSTRIDER,Undying Rider
+ID_AR_SM_COSMICGHOSTRIDER,Win Cosmic Ghost Rider Shards!
+ID_AR_LM_COSMICGHOSTRIDER,Face off against other players' teams to earn various milestone rewards and a chance to win Cosmic Ghost Rider shards!
+ID_AR_MT_COSMICGHOSTRIDER,LIVE: Undying Rider Blitz
+ID_AR_MS_COSMICGHOSTRIDER,Your chance to win Cosmic Ghost Rider shards!
+ID_AR_MB_COSMICGHOSTRIDER,<color=#fff568>Undying Rider Blitz</color>\nFace off against other players' teams to earn various milestone rewards and a chance to win Cosmic Ghost Rider shards!\n\n<color=#fff568>Undying Rider Orb</color>\nRecruit Cosmic Ghost Rider now!
+ID_AR_NA_COSMICGHOSTRIDER_CARD,Undying Rider
 ID_AR_NA_COSMO,Space Pup
 ID_AR_SM_COSMO,Win Cosmo Shards!
 ID_AR_LM_COSMO,Face off against other players' teams to earn various milestone rewards and a chance to win Cosmo shards!
