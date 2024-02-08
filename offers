@@ -201,6 +201,8 @@ ID_OF_NA_COSTUME_DEADPOOL_XFORCE,X-Force Costume Offer
 ID_OF_DE_COSTUME_DEADPOOL_XFORCE,Take advantage of this spectacular offer and acquire Deadpool's <color=#fff568>X-Force</color> costume!
 ID_OF_NA_COSTUME_THORINFINITYWAR_RAVAGER,Ravager Costume Offer
 ID_OF_DE_COSTUME_THORINFINITYWAR_RAVAGER,Take advantage of this spectacular offer and acquire Thor (Infinity War)'s <color=#fff568>Ravager</color> costume!
+ID_OF_NA_COSTUME_ECHO_FAMILYLEGACY,Family Legacy Costume Offer
+ID_OF_DE_COSTUME_ECHO_FAMILYLEGACY,Take advantage of this spectacular offer and acquire Echo's <color=#fff568>Family Legacy</color> costume!
 ID_OF_NA_PEST_WEB_BUNDLE,Pestilence Orb Bundle
 ID_OF_DE_PEST_BUNDLES,"Get Morgan Le Fay to the next Star Level with this bundle! Get {var1}% off when you purchase these {var2} Pestilence Orbs! Each Orb has a chance to grant 100 shards of the Horsemen of Pestilence herself, Morgan Le Fay!"
 ID_OF_NA_PEST_EARLYBIRD,Pestilence Orb Intro Bundle
@@ -6144,6 +6146,8 @@ ID_OF_DE_DUAL_BLACKKNIGHT,Choose your path to power up this <color=#fff568>Out o
 ID_OF_DE_DUAL_UNLOCK_BLACKKNIGHT,Unlock this <color=#fff568>Out of Time</color> member and <color=#fff568>one-time release offers</color> on your next visit!
 ID_OF_NA_BLACKKNIGHT_WEB_EXTRA_FCO_OFFER,Black Knight Unlock Offer
 ID_OF_DE_BLACKKNIGHT_WEB_EXTRA_FCO_OFFER,"The Ye Olde Protector, <color=#fff568>Black Knight</color>, has arrived!"
+ID_OF_NA_BLACKKNIGHT_WEB_SPECIAL_OFFER,Ye Olde Protector Special
+ID_OF_DE_BLACKKNIGHT_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> None shall pass <color=#fff568>Black Knight</color> with his devastating attack retaliation and Revive denial!
 ID_OF_NA_PAINTTHETOWNRED_STARTER,Paint the Town Red: Starter
 ID_OF_NA_PAINTTHETOWNRED_CATCHUP,Paint the Town Red: Catch-Up
 ID_OF_NA_PAINTTHETOWNRED_DAILY_ORB,Paint the Town Red: Ruby Red Orb
@@ -6160,7 +6164,7 @@ ID_OF_NA_PAINTTHETOWNRED750_HC_EVENT_ORB,Paint the Town Red: Ruby Red Orb
 ID_OF_NA_PAINTTHETOWNRED1000_HC_GOLD,Paint the Town Red: Gold
 ID_OF_DE_PAINTTHETOWNRED_STARTER,Speed through the <color=#f12603>Paint the Town Red</color> Milestone and get <color=#f12603>Ruby Red Orbs</color> and <color=#f12603>Teal Gear</color> with this offer!
 ID_OF_DE_PAINTTHETOWNRED_CATCHUP,Climb the final steps of the <color=#f12603>Paint the Town Red</color> Milestone and get <color=#f12603>Red Goblin</color> character shards and <color=#f12603>Dark Diamond Credits</color> before it's too late!
-ID_OF_DE_PAINTTHETOWNRED_DAILY_ORB,Continue training and get Ruby Red Orbs for progress in the <color=#f12603>Paint the Town Red Milestone</color> and <color=#f12603>Dark Diamond Credits shards</color> from opening the orb!
+ID_OF_DE_PAINTTHETOWNRED_DAILY_ORB,Continue training and get Ruby Red Orbs for progress in the <color=#f12603>Paint the Town Red Milestone</color> and <color=#f12603>Dark Diamond Credits</color> from opening the orb!
 ID_OF_DE_PAINTTHETOWNRED_DAILY_POINTS,Need something a little extra? Get an edge on the competition with this bundle of <color=#f12603>Paint the Town Red</color> milestone points and Training and Gold orbs!
 ID_OF_DE_PAINTTHETOWNRED_KRAVEN,Earn progress in the <color=#f12603>Paint the Town Red</color> Milestone event as well as save on <color=#f12603>Kraven The Hunter</color> character shards with this offer!
 ID_OF_DE_PAINTTHETOWNRED_SPIDER_SLAYER,Earn progress in the <color=#f12603>Paint the Town Red</color> Milestone event as well as save on <color=#f12603>Spider-Slayer</color> character shards with this offer!
@@ -6180,14 +6184,12 @@ ID_OF_NA_REDBLOODED_CATCHUP,Red Blooded: Catch-Up
 ID_OF_NA_REDBLOODED_DAILY_INTERSTITIAL,Red Blooded: Supply Bundle
 ID_OF_NA_REDBLOODED_FREE_CLAIM,Red Blooded Free Claim
 ID_OF_DE_REDBLOODED_STARTER,Give your alliance a huge head start in the <color=#f12603>Red Blooded</color> milestone with this high value offer!
-ID_OF_DE_REDBLOODED_DAILY_ORB,"Get these orbs for <color=#f12603>Red Blooded</color> progress and open them for T2 Level 5 Orbs containing T2 L5 Ions and a slew of resources! "
+ID_OF_DE_REDBLOODED_DAILY_ORB,"Get these orbs for <color=#f12603>Red Blooded</color> progress and open them for T2 Level 5 Ion Orbs containing T2 L5 Ions and a slew of resources! "
 ID_OF_DE_REDBLOODED_DAILY_ISO_ENERGY,Stock up on Iso-8 Campaign Energy to push your Alliance forward in the <color=#f12603>Red Blooded</color> milestone!
 ID_OF_DE_REDBLOODED_DAILY_INCURSION_ENERGY,Stock up on Incursion Energy to push your Alliance forward in the <color=#f12603>Red Blooded</color> milestone!
 ID_OF_DE_REDBLOODED_CATCHUP,Smash through the end of the <color=#f12603>Red Blooded</color> milestone and get your Alliance Teal Gear rewards!
 ID_OF_DE_REDBLOODED_DAILY_INTERSTITIAL,Stock up on Allied Supply III Orbs for extra progress in the <color=#f12603>Red Blooded Milestone</color>!
 ID_OF_DE_REDBLOODED_FREE_CLAIM,Come back daily for more <color=#f12603>Red Blooded</color> progress!
-ID_OF_NA_BLACKKNIGHT_WEB_SPECIAL_OFFER,Ye Olde Protector Special
-ID_OF_DE_BLACKKNIGHT_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> None shall pass <color=#fff568>Black Knight</color> with his devastating attack retaliation and Revive denial!
 ID_OF_NA_VDAY24_A18TRAINGOLD,Valentine's Day: Golden Development
 ID_OF_NA_VDAY24_PEGASUSUNIQUE,Valentine's Day: Unique Machines
 ID_OF_NA_VDAY24_ORBSTRAVAGANZA,Valentine's Day: Orbstravaganza
@@ -6276,3 +6278,41 @@ ID_OF_DE_VDAY24_GOLDA18GORB,Hoard all of these <color=#ffda21>Armory 18 Orbs and
 ID_OF_DE_VDAY24_SECRETDEF,It's no secret that everyone has a crush on the <color=#ffda21>Secret Defenders</color>! <color=#fc03d7>Greater than a {var1}x value</color>!
 ID_OF_DE_VDAY24_TRAININGE7,Claim this sweet deal on <color=#ffda21>Training Modules</color> and Red Stars and power up your top Teams! <color=#fc03d7>Greater than a {var1}x value</color>!
 ID_OF_DE_VDAY24_A17ABM,Pick up some <color=#ffda21>Armory 17 Orbs</color> and more <color=#ffda21>T4 Ability Materials</color>! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_NA_REDLETTERDAY_STARTER,Red Letter Day: Starter
+ID_OF_NA_REDLETTERDAY_CATCHUP,Red Letter Day: Catch-up
+ID_OF_NA_REDLETTERDAY_DAILY_ORB,Red Letter Day: Orb Pack
+ID_OF_NA_REDLETTERDAY_DAILY_POINTS,Red Letter Day: Event Points
+ID_OF_NA_REDLETTERDAY_BLITZ,Red Letter Day: Blitz Pack
+ID_OF_NA_REDLETTERDAY_DAILY_INTERSTITIAL,Red Letter Day: Hidden Cache
+ID_OF_NA_REDLETTERDAY_FREE_CLAIM,Red Letter Day: Free Claim
+ID_OF_DE_REDLETTERDAY_STARTER,Get ahead in the <color=#f12603>Red Letter Day</color> Milestone and sneak your way toward <color=#f12603>Black Knight</color> shards and Gear Tier 18 Mini-Uniques!
+ID_OF_DE_REDLETTERDAY_CATCHUP,Finish strong in the <color=#f12603>Red Letter Day Milestone</color> and get your hands on <color=#f12603>Black Knight shards</color> and <color=#f12603>Gear Tier 18 Mini-Uniques</color>!
+ID_OF_DE_REDLETTERDAY_DAILY_ORB,"Get bonus Cold Blooded Orbs for <color=#f12603>Red Letter Day Milestone</color> progress! "
+ID_OF_DE_REDLETTERDAY_DAILY_POINTS,Claim your daily dose of <color=#f12603>Red Letter Day</color> milestone points with this offer!
+ID_OF_DE_REDLETTERDAY_BLITZ,Boost your Blitzing to power through the <color=#fff568>Red Letter Day Milestone</color> progress with this special offer!
+ID_OF_DE_REDLETTERDAY_DAILY_INTERSTITIAL,Get boosted <color=#f12603>Red Letter Day</color> progress with this daily cache of resources!
+ID_OF_DE_REDLETTERDAY_FREE_CLAIM,Come back daily for more <color=#f12603>Red Letter Day</color> progress!
+ID_OF_NA_REDALERT_STARTER,Red Alert: Starter
+ID_OF_NA_REDALERT_CATCHUP,Red Alert: Catch-up Bundle
+ID_OF_NA_REDALERT_DAILY_RAID,Red Alert: Daily Raid Bundle
+ID_OF_NA_REDALERT_DAILY_ORB,Red Alert Daily Allied Supply III Orb
+ID_OF_NA_REDALERT_VOID_KNIGHT,Red Alert: Void Knight
+ID_OF_NA_REDALERT_GWENOM,Red Alert: Gwenom
+ID_OF_NA_REDALERT_RED_GOBLIN,Red Alert: Red Goblin
+ID_OF_NA_REDALERT_DAILY_INTERSTITIAL,Red Alert: Supply Bundle
+ID_OF_NA_REDALERT_FREE_CLAIM,Red Alert: Free Claim
+ID_OF_DE_REDALERT_STARTER,Give your alliance a huge head start in the <color=#f12603>Red Alert</color> milestone with this high value offer!
+ID_OF_DE_REDALERT_CATCHUP,Smash through the end of the <color=#f12603>Red Alert</color> milestone and get your Alliance Training Module rewards!
+ID_OF_DE_REDALERT_DAILY_RAID,Raid your way through the <color=#f12603>Red Alert</color> miletones with this special deal!
+ID_OF_DE_REDALERT_DAILY_ORB,"Get Allied Supply III Orbs for <color=#f12603>Red Alert</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs containing T2 L5 Ions! "
+ID_OF_DE_REDALERT_HIVEMIND,Power up your <color=#f12603>Hive-Mind</color> team and and earn <color=#f12603>Red Alert</color> progress with this special deal!
+ID_OF_DE_REDALERT_DAILY_INTERSTITIAL,Stock up on Allied Supply III Orbs for extra progress in the <color=#f12603>Red Alert Milestone</color>!
+ID_OF_DE_REDALERT_FREE_CLAIM,Come back daily for more <color=#f12603>Red Alert</color> progress!
+ID_OF_NA_NOVA_WRATH,Wrath Player Frame Free Claim
+ID_OF_DE_NOVA_WRATH,Congratulations on unlocking Nova's <color=#fff568>Wrath</color> costume!
+ID_OF_NA_GREENGOBLINGLIDER_GREED,Greed Player Frame Free Claim
+ID_OF_DE_GREENGOBLINGLIDER_GREED,Congratulations on unlocking Green Goblin (Classic)'s <color=#fff568>Greed</color> costume!
+ID_OF_NA_BLACKCAT_ENVY,Envy Player Frame Free Claim
+ID_OF_DE_BLACKCAT_ENVY,Congratulations on unlocking Black Cat's <color=#fff568>Envy</color> costume!
+ID_OF_NA_VDAY24_ASGARDIANS,Valentine's Day: Romance after Ragnarok
+ID_OF_DE_VDAY24_ASGARDIANS,The destruction of Asgard has brought these two even closer! <color=#fc03d7>Greater than a {var1}x value</color>!

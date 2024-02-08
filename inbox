@@ -7914,6 +7914,15 @@ ID_ME_BO_LIVE_XTXM,"Commander,\n\nThe <color=#fff568>X-TREME X-MEN</color>'s Sho
 ID_ME_NA_ENDING_XTXM,ENDING: X-Tremely Sinister
 ID_ME_DE_ENDING_XTXM,2 Days Left!
 ID_ME_BO_ENDING_XTXM,"Commander,\n\nthe X-Tremely Sinister Event ends in <color=#fff568>2 DAYS</color>. Continue earning rewards before this Showcase ends!\n\nGood luck, Commander!"
+ID_ME_NA_PREVIEW_OOT,COMING SOON: Hell and Back
+ID_ME_DE_PREVIEW_OOT,Out of Time Showcase
+ID_ME_BO_PREVIEW_OOT,"Commander,\n\nThe <color=#fff568>OUT OF TIME</color> team's Showcase Event is coming soon! Learn about this exciting new team that includes all-new characters <color=#fff568>BLACK KNIGHT</color>, <color=#fff568>STARBRAND</color>,and <color=#fff568>COSMIC GHOST RIDER</color>, as well as <color=#fff568>CAPTAIN AMERICA</color> and <color=#fff568>CAPTAIN CARTER</color> who have been updated. Participate in the <color=#fff568>HELL AND BACK</color> event to earn amazing rewards and unravel the mystery of Mephisto's master plan.\n\nRequirements:\nStory Difficulty - Any combination of 5 <color=#fff568>OUT OF TIME</color> and/or <color=#fff568>NEW AVENGERS</color> characters.\n\nChallenge Difficulty - Black Knight, Starbrand, and Cosmic Ghost Rider are required to complete all missions, and bring any Out of Time or New Avenger characters to fill the other spots on the team.\n\nTimeless Difficulty - Requires 5 Out of Time at Gear Tier 14, 4 Yellow Stars\n\nBonus Difficulty - Requires 5 Out of Time characters at Gear Tier 16, 6 Yellow Stars\n\nGet ready, Commander!"
+ID_ME_NA_LIVE_OOT,LIVE: Hell and Back
+ID_ME_DE_LIVE_OOT,Earn rewards by battling with the Out of Time team!
+ID_ME_BO_LIVE_OOT,"Commander,\n\nThe <color=#fff568>OUT OF TIME</color> team's Showcase Event is live! Participate in the <color=#fff568>HELL AND BACK</color> event to earn amazing rewards and unravel the mystery Mephisto's master plan!\n\nRequirements:\nStory Difficulty - Any combination of 5 <color=#fff568>OUT OF TIME</color> and/or <color=#fff568>NEW AVENGER</color> characters.\n\nChallenge Difficulty - Black Knight, Starbrand, and Cosmic Ghost Rider are required to complete all missions, and bring any Out of Time or New Avenger characters to fill the other spots on the team.\n\nTimeless Difficulty - Requires 5 Out of Time at Gear Tier 14, 4 Yellow Stars\n\nBonus Difficulty - Requires 5 Out of Time characters at Gear Tier 16, 6 Yellow Stars\n\nGet ready, Commander!"
+ID_ME_NA_ENDING_OOT,ENDING: Hell and Back
+ID_ME_DE_ENDING_OOT,2 Days Left!
+ID_ME_BO_ENDING_OOT,"Commander,\n\nthe Hell and Back Event ends in <color=#fff568>2 DAYS</color>. Continue earning rewards before this Showcase ends!\n\nGood luck, Commander!"
 ID_ME_NA_REWARDCOMP_DD1,Dark Dimension I Reward Update
 ID_ME_NA_REWARDCOMP_DD2,Dark Dimension II Reward Update
 ID_ME_NA_REWARDCOMP_DD3,Dark Dimension III Reward Update
@@ -8246,6 +8255,9 @@ ID_ME_NA_FIRSTSTRIKENU_ANNOUNCE,"Commander,\n\nMilestones are now available, whi
 ID_ME_NA_TRIBUNALTECH_ANNOUNCE,LIVE: Tribunal Tech
 ID_ME_DE_TRIBUNALTECH_ANNOUNCE,Battle in Cosmic Crucible for tremendous rewards
 ID_ME_BO_TRIBUNALTECH_ANNOUNCE,"Commander\n\nBattle in Cosmic Crucible and earn Allied Supply III Orb Fragments to earn Training Modules and Mechanical Marvel progress for your whole Alliance! Allied Supply III Orb Fragments can be found in daily Free Claims on the web and special offers in the store. \n\nGood luck, Commander!"
+ID_ME_NA_WAR_TEMPORALTURMOIL_LIVE,LIVE: Temporal Turmoil
+ID_ME_DE_WAR_TEMPORALTURMOIL_LIVE,Special rule details inside
+ID_ME_BO_WAR_TEMPORALTURMOIL_LIVE,"Commander,\n\nYou're urgently needed for Alliance War: <color=#fff568>Temporal Turmoil</color>\n\nBlack Knight and the rest of the Out Of Time team have been displaced in time and have agreed to join S.T.R.I.K.E. in Alliance War. Here are the details, including <color=#fff568>limited-time updates</color> to Alliance War during Temporal Turmoil:\n\n<color=#fff568>War Energy</color>\nYou'll still start with all 10 War Energy at the start of War and no longer accumulate energy over time. You can still purchase an additional 4 War Energy for each War.\n\n<color=#fff568>Room Updates</color>\nThe following rooms have new and/or updated bonuses: Cargo Bay, Hangar, Medbay, Barracks, and Armory. Global rules have also been updated. See the rooms for the full bonus details to optimize your attacks and defenses.\n\n<color=#fff568>Attack Efficiency</color>\nAttempt Bonus will award points for clearing a room with the fewest attempts possible. Canceled combat will decrease the Attempt Bonus and will consume the spent War Energy.\n\n<color=#fff568>Global and Room Bonuses</color>\nChoose your Defenses and attacks wisely with these powerful bonuses to the following characters: Out Of Time, Cosmic Hero, and New Warriors.\n\nCoordinate with your Alliance to make sure you earn the most rewards possible during Alliance War: Temporal Turmoil.\n\nGood luck, Commander!"
 ID_ME_NA_LUNARDRAGONFESTIVAL_TEASER,Coming Soon: Lunar Dragon Festival
 ID_ME_DE_LUNARDRAGONFESTIVAL_TEASER,"New Year, new Frame"
 ID_ME_NA_LUNARDRAGONFESTIVAL_ANNOUNCE,Live: Lunar Dragon Festival
@@ -8292,6 +8304,9 @@ ID_ME_NA_PAINTTHETOWNRED_ANNOUNCE,LIVE: Paint the Town Red
 ID_ME_NA_PAINTTHETOWNRED_ENDING,ENDING: Paint the Town Red
 ID_ME_DE_PAINTTHETOWNRED_ENDING,Don't miss out on Dark Diamond Credits!
 ID_ME_BO_PAINTTHETOWNRED_ENDING,"Commander,\n\nThe Paint the Town Red Milestone <color=#fff568>ends soon</color>. Continue earning Red Goblin shards and Teal Tech Gear!\n\nGood luck, Commander!"
+ID_ME_NA_CREATOR_SPOTLIGHT_006,Creator Spotlight: MrHartgrave
+ID_ME_DE_CREATOR_SPOTLIGHT_006,Cosmic Ghost Rider interview
+ID_ME_BO_CREATOR_SPOTLIGHT_006,"Commander,\n\nCheck out <color=#fff568>MrHartgrave's</color> exclusive interview with <color=#fff568>Matt Sheets</color>, MARVEL Strike Force's Director of Characters and Combat! They discuss all the details surrounding the new upcoming character: <color=#fff568>Cosmic Ghost Rider</color>, the stellar member of the <color=#fff568>Out of Time</color> team.\n\nWatch the <color=#fff568>YouTube</color> video now and subscribe!"
 ID_ME_NA_CAMPAIGN_INCURSION_7_8_LIVE,LIVE: Incursion Campaign Update
 ID_ME_DE_CAMPAIGN_INCURSION_7_8_LIVE,Earn Red Star Promotions!
 ID_ME_BO_CAMPAIGN_INCURSION_7_8_LIVE,"Commander,\n\nThe <color=#fff568>Incursion Campaign</color> update is here and consists of two new chapters! Rewards include a chance for <color=#fff568>Silver Promotion Credits, Gold Promotion Credits, Dark Promotion Credits, Red Star Orb Fragments</color> and <color=#fff568>6 to 7 Red Stars</color> for a variety of characters.\n\nHere are each chapter's entry requirements:\n\n<color=#fff568>Chapter 7</color>: 6 Red Stars, Only Mutant or Tech characters.\n<color=#fff568>Chapter 8</color> first half: 7 Red Stars, Only Mutant characters.\n<color=#fff568>Chapter 8</color> second half: 7 Red Stars, any characters.\n\nEnter the Incursion Campaign now to earn these exciting rewards!"

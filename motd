@@ -2655,6 +2655,12 @@ ID_MOTD_NA_HIVEMIND_LIVE,LIVE: Symbiotic Collective
 ID_MOTD_DE_HIVEMIND_LIVE,Battle with Hive-Mind and earn rewards!
 ID_MOTD_NA_HIVEMIND_ENDING,ENDING SOON: Symbiotic Collective!
 ID_MOTD_DE_HIVEMIND_ENDING,Symbiotic Collective event is ending soon!
+ID_MOTD_NA_OOT_PREVIEW,COMING SOON: Hell and Back
+ID_MOTD_DE_OOT_PREVIEW,Earn rewards by battling with the Out of Time team!
+ID_MOTD_NA_OOT_LIVE,LIVE: Hell and Back
+ID_MOTD_DE_OOT_LIVE,Earn rewards by battling with the the Out of Time team!!
+ID_MOTD_NA_OOT_ENDING,ENDING SOON: Hell and Back!
+ID_MOTD_DE_OOT_ENDING,The Hell and Back event is ending soon!
 ID_MOTD_NA_CABAL_PREVIEW,COMING SOON: Rise of the Cabal!
 ID_MOTD_DE_CABAL_PREVIEW,Earn rewards by battling with The Cabal!
 ID_MOTD_NA_CABAL_LIVE,LIVE: Rise of the Cabal
@@ -2726,6 +2732,8 @@ ID_MOTD_NA_FIRSTSTRIKENU_ANNOUNCE,LIVE: First S.T.R.I.K.E.
 ID_MOTD_DE_FIRSTSTRIKENU_ANNOUNCE,Unlock powerful characters in your first Milestone!
 ID_MOTD_NA_TRIBUNALTECH_ANNOUNCE,LIVE: Tribunal Tech
 ID_MOTD_DE_TRIBUNALTECH_ANNOUNCE,Battle in Cosmic Crucible for tremendous rewards
+ID_MOTD_NA_WAR_TEMPORALTURMOIL_LIVE,Alliance War: Temporal Turmoil is LIVE!
+ID_MOTD_DE_WAR_TEMPORALTURMOIL_LIVE,Don't miss this special Alliance War Event!
 ID_MOTD_NA_LUNARDRAGONFESTIVAL_LIVE,LIVE: Lunar Dragon Festival
 ID_MOTD_DE_LUNARDRAGONFESTIVAL_LIVE,Earn a new Player Frame
 ID_MOTD_NA_BATTLEPASS_SEASON14_ANNOUNCE,LIVE: Season 14 of Battle Pass
