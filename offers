@@ -6295,7 +6295,7 @@ ID_OF_DE_REDLETTERDAY_FREE_CLAIM,Come back daily for more <color=#f12603>Red Let
 ID_OF_NA_REDALERT_STARTER,Red Alert: Starter
 ID_OF_NA_REDALERT_CATCHUP,Red Alert: Catch-up Bundle
 ID_OF_NA_REDALERT_DAILY_RAID,Red Alert: Daily Raid Bundle
-ID_OF_NA_REDALERT_DAILY_ORB,Red Alert Daily Allied Supply III Orb
+ID_OF_NA_REDALERT_DAILY_ORB,Red Alert: Daily Allied Supply III Orb
 ID_OF_NA_REDALERT_VOID_KNIGHT,Red Alert: Void Knight
 ID_OF_NA_REDALERT_GWENOM,Red Alert: Gwenom
 ID_OF_NA_REDALERT_RED_GOBLIN,Red Alert: Red Goblin
@@ -6303,7 +6303,7 @@ ID_OF_NA_REDALERT_DAILY_INTERSTITIAL,Red Alert: Supply Bundle
 ID_OF_NA_REDALERT_FREE_CLAIM,Red Alert: Free Claim
 ID_OF_DE_REDALERT_STARTER,Give your alliance a huge head start in the <color=#f12603>Red Alert</color> milestone with this high value offer!
 ID_OF_DE_REDALERT_CATCHUP,Smash through the end of the <color=#f12603>Red Alert</color> milestone and get your Alliance Training Module rewards!
-ID_OF_DE_REDALERT_DAILY_RAID,Raid your way through the <color=#f12603>Red Alert</color> miletones with this special deal!
+ID_OF_DE_REDALERT_DAILY_RAID,Raid your way through the <color=#f12603>Red Alert</color> milestones with this special deal!
 ID_OF_DE_REDALERT_DAILY_ORB,"Get Allied Supply III Orbs for <color=#f12603>Red Alert</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs containing T2 L5 Ions! "
 ID_OF_DE_REDALERT_HIVEMIND,Power up your <color=#f12603>Hive-Mind</color> team and and earn <color=#f12603>Red Alert</color> progress with this special deal!
 ID_OF_DE_REDALERT_DAILY_INTERSTITIAL,Stock up on Allied Supply III Orbs for extra progress in the <color=#f12603>Red Alert Milestone</color>!
@@ -6316,3 +6316,42 @@ ID_OF_NA_BLACKCAT_ENVY,Envy Player Frame Free Claim
 ID_OF_DE_BLACKCAT_ENVY,Congratulations on unlocking Black Cat's <color=#fff568>Envy</color> costume!
 ID_OF_NA_VDAY24_ASGARDIANS,Valentine's Day: Romance after Ragnarok
 ID_OF_DE_VDAY24_ASGARDIANS,The destruction of Asgard has brought these two even closer! <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_NA_PRESLOKI24_SUPERSALE,President Loki Day: Re-Elected Again
+ID_OF_NA_PRESLOKI24_GOLDABM,President Loki Day: Greed is Good
+ID_OF_NA_PRESLOKI24_TRAININGABM,President Loki Day: Rebuilt Nation
+ID_OF_NA_PRESLOKI24_SUP6SHARDSTRAINGOLD,President Loki Day: Superior Smile
+ID_OF_NA_PRESLOKI24_PEGASUSSHARDSTRAINGOLD,President Loki Day: Top Secret Tech
+ID_OF_NA_PRESLOKI24_GOLDORB,President Loki Day: National Vault
+ID_OF_NA_PRESLOKI24_PREMIUMORBRSORB,President Loki Day: Premium Promotion
+ID_OF_NA_PRESLOKI24_CENERGYGOLD,President Loki Day: Shining Sun
+ID_OF_NA_PRESLOKI24_REDWHITEBLUEORBS,President Loki Day: Flag Bearer
+ID_OF_NA_PRESLOKI24_DORBDPCGEAR,President Loki Day: Diamond Office
+ID_OF_NA_PRESLOKI24_TEALCATPACKSUP6UNIQUES,President Loki Day: Secret Lab
+ID_OF_NA_PRESLOKI24_PREMORBTRAININGORBA18A17,President Loki Day: Mega Opportunity
+ID_OF_NA_PRESLOKI24_TEALCATPACKA18A17A16,President Loki Day: New Roads
+ID_OF_NA_PRESLOKI24_DPCGPCABM,President Loki Day: New Jobs
+ID_OF_NA_PRESLOKI24_DUAL_COSTUMECREDORBVSPRESLOKISKINSHARDS_C10_C10,Dual Offer Special: Vote Loki
+ID_OF_NA_PRESLOKI24_TRAINING,President Loki Day: Troop Visit
+ID_OF_NA_PRESLOKI24_XTXMENSHARDSTRAINGOLD,President Loki Day: Mutant Policies
+ID_OF_NA_PRESLOKI24_TEALCATPACKXTXMENUNIQUES,President Loki Day: Medical Advances
+ID_OF_NA_PRESLOKI24_BIFROSTSHARDSTRAINGOLD,President Loki Day: Expected Actions
+ID_OF_NA_PRESLOKI24_PREMORBGOLDORBA18A17,President Loki Day: Election Promises
+ID_OF_NA_PRESLOKI24_TRAININGORBA18A17,President Loki Day: Area-51 Tour
+ID_OF_NA_PRESLOKI24_DARKHAWKSHARDS7RRSORB,President Loki Day: Secret Android
+ID_OF_NA_PRESLOKI24_GOLDGPC,President Loki Day: Leader's Favor
+ID_OF_NA_PRESLOKI24_ABMGACHAORB,President Loki Day: Capable Leader
+ID_OF_NA_PRESLOKI24_TRAININGABM2,President Loki Day: Nation's Progress
+ID_OF_NA_PRESLOKI24_TRAINCENERGYHC,President Loki Day: Vacation Trip
+ID_OF_NA_PRESLOKI24_T1ISO8ORBSGOLD,President Loki Day: ISO Advancement
+ID_OF_NA_PRESLOKI24_RSORBE7E6,President Loki Day: Elite Promotions
+ID_OF_NA_PRESLOKI24_GEARTRAININGRS,President Loki Day: Uniquely Tricky
+ID_OF_NA_PRESLOKI24_GOLDABM2,President Loki Day: Bank Audit
+ID_OF_NA_PRESLOKI24_LIZARDSHARDS7RRSORB,President Loki Day: Pet Lizard
+ID_OF_NA_PRESLOKI24_TRAININGORB,President Loki Day: Gym Workout
+ID_OF_NA_PRESLOKI24_TECHMYSTICMINIUNIQUEBUNDLE,President Loki Day: Nation's Bundle
+ID_OF_NA_PRESLOKI24_TRAININGORBT1ISO8,President Loki Day: Technology Race
+ID_OF_NA_PRESLOKI24_COSTUMECREDORBHC,President Loki Day: Cosplay Fan
+ID_OF_NA_PRESLOKI24_SUPERSALELC,Last Chance: Re-Elected Again
+ID_OF_NA_PRESLOKI24_DORBDPCGEARLC,Last Chance: Diamond Office
+ID_OF_NA_PRESLOKI24_KRAVENSHARDS7RRSORB,President Loki Day: Hunting Trip
+ID_OF_NA_PRESLOKI24_GOLDORB2,President Loki Day: Re-Election Funds
