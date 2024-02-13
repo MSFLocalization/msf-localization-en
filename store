@@ -8866,3 +8866,7 @@ ID_GACHA_CRATE_RUBYRED_NAME,Ruby Red Orb
 ID_GACHA_CRATE_RUBYRED_DESCRIPTION,Earn up to 400 Dark Diamond Credits
 ID_GACHA_CRATE_RUBYRED_TOKEN_NAME,Ruby Red Orb Fragments
 ID_GACHA_CRATE_RUBYRED_TOKEN_DESCRIPTION,"Collect Ruby Red Orb Fragments from the Daily Web Claim, limited time offers, and the Red Handed Milestone. Each Orb contains Dark Diamond and Promotion Credits, and Superior Six character shards."
+ID_GACHA_CRATE_COLDBLOODED_NAME,Cold Blooded Orb
+ID_GACHA_CRATE_COLDBLOODED_DESCRIPTION,Contains up to 10 Black Knight shards
+ID_GACHA_CRATE_COLDBLOODED_TOKEN_NAME,Cold Blooded Orb Fragments
+ID_GACHA_CRATE_COLDBLOODED_TOKEN_DESCRIPTION,"Collect Cold Blooded Orb Fragments from S.W.O.R.D. Satellite Rewards, and select Blitz Wins. Each Orb contains Black Knight shards and more!"

@@ -294,12 +294,16 @@ ID_EVTA_META_FEB_F_NAME,Roses are Red Milestone Points
 ID_EVTA_META_FEB_F_DESCRIPTION,"These points earn you additional progress in the Roses are Red Milestone. Earn them in the Red in the Face Web Milestone, Daily Free Claims on our website, and limited offers!"
 ID_EVTA_META_FEB_G_NAME,Paint the Town Red Milestone Points
 ID_EVTA_META_FEB_G_DESCRIPTION,These points earn you additional progress in the Paint the Town Red Milestone. Earn them in the Red Handed Milestone and limited offers!
-ID_EVTA_META_FEB_X_NAME,Corrupted Helmet
-ID_EVTA_META_FEB_X_DESCRIPTION,Collect the Corrupted Helmet for points in the Pact of Wrath Event. Earn it from limited time offers.
-ID_EVTA_META_FEB_Y_NAME,Corrupted Armor
-ID_EVTA_META_FEB_Y_DESCRIPTION,Collect the Corrupted Helmet for points in the Pact of Wrath Event. Earn it from limited time offers.
-ID_EVTA_META_FEB_Z_NAME,Corrupted Guantlets
-ID_EVTA_META_FEB_Z_DESCRIPTION,Collect the Corrupted Guantlets for points in the Pact of Wrath Event. Earn it from limited time offers.
+ID_EVTA_META_FEB_H_NAME,Red Letter Day Milestone Points
+ID_EVTA_META_FEB_H_DESCRIPTION,"These points earn you additional progress in the Red Letter Day Milestone. Earn them in the Jam Sandwich Web Milestone, Daily Free Claims on our website, and limited offers!"
+ID_EVTA_META_FEB_I_NAME,Red Alert Milestone Points
+ID_EVTA_META_FEB_I_DESCRIPTION,These points earn you additional progress in the Red Alert Milestone. Earn them in limited time offers!
+ID_EVTA_META_FEB_X_NAME,Corrupted Mask
+ID_EVTA_META_FEB_X_DESCRIPTION,Collect the Corrupted Mask for points in the Pact of Greed Event. Earn it from limited time offers.
+ID_EVTA_META_FEB_Y_NAME,Corrupted Glider
+ID_EVTA_META_FEB_Y_DESCRIPTION,Collect the Corrupted Glider for points in the Pact of Greed Event. Earn it from limited time offers.
+ID_EVTA_META_FEB_Z_NAME,Corrupted Bombs
+ID_EVTA_META_FEB_Z_DESCRIPTION,Collect the Corrupted Bombs for points in the Pact of Greed Event. Earn it from limited time offers.
 ID_EVTA_META_MAR_A_NAME,Eagle Emblem
 ID_EVTA_META_MAR_A_DESCRIPTION,Collect Eagle Emblem for points in the Memory Lane Event. Earn them in various events throughout the month of March
 ID_EVTA_META_MAR_B_NAME,Milestone PDA

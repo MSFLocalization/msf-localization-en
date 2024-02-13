@@ -4070,6 +4070,26 @@ ID_QU_S6_REDHANDED,Use Gwenom in a Raid Battle at 7 Yellow Stars
 ID_QU_S7_REDHANDED,Use Red Goblin in a Raid Battle
 ID_QU_S8_REDHANDED,Use Red Goblin in a Raid Battle at 5 Yellow Stars
 ID_QU_S9_REDHANDED,Use Red Goblin in a Raid Battle at 7 Yellow Stars
+ID_QU_NA_REDALERT,Red Alert
+ID_QU_SD_REDALERT,Battle in Raids and Earn Allied Supply III Orb Fragments
+ID_QU_LD_REDALERT,"Collaborate with your alliances to battle in Alliance Raids and earn Allied Supply III Orb Fragments. Allied Supply III Orb Fragments can be found in daily Free Claims and Offers in the store. "
+ID_QU_S1_REDALERT,Play 1 Raid Battle with a Hive-Mind Character
+ID_QU_S2_REDALERT,Play 1 Raid Battle with Void Knight at 5 Yellow Stars
+ID_QU_S3_REDALERT,Play 1 Raid Battle with Void Knight at 6 Yellow Stars
+ID_QU_S4_REDALERT,Play 1 Raid Battle with Void Knight at 7 Yellow Stars
+ID_QU_S5_REDALERT,Play 1 Raid Battle with Gwenom at 5 Yellow Stars
+ID_QU_S6_REDALERT,Play 1 Raid Battle with Gwenom at 6 Yellow Stars
+ID_QU_S7_REDALERT,Play 1 Raid Battle with Gwenom at 7 Yellow Stars
+ID_QU_S8_REDALERT,Play 1 Raid Battle with Red Goblin at 5 Yellow Stars
+ID_QU_S9_REDALERT,Play 1 Raid Battle with Red Goblin at 6 Yellow Stars
+ID_QU_S10_REDALERT,Play 1 Raid Battle with Red Goblin at 7 Yellow Stars
+ID_QU_NA_JAMSANDWICH,Jam Sandwich
+ID_QU_SD_JAMSANDWICH,Spend Incursion Energy
+ID_QU_LD_JAMSANDWICH,Spend Incursion Energy to complete this milestone that rewards Cold Blooded Orb Fragments for Red Letter Day Milestone progress!
+ID_QU_NA_REDLETTERDAY,Red Letter Day
+ID_QU_SD_REDLETTERDAY,Earn Cold Blooded Orbs
+ID_QU_LM_REDLETTERDAY,"Red Letter Day Milestone\nGain progress in this 7-day event by earning Cold Blooded Orb fragments from S.W.O.R.D. Satellite Rewards, completing the Jam Sandwich Web Milestone, winning Blitz Battles in the Gear Strike: Orange Blitz, and daily Free Claims. Earn fantastic rewards including Black Knight shards, Gold Promotion Credits, Elite 7 Credits, and Teal Bio gear. You'll also earn points towards the month-long Seeing Red milestone by collecting Carnage Symbiote Vials and the valuable Tulip Bouquet.\n\nCold Blooded Orb\nEarned from S.W.O.R.D. Satellite Milestones & Ranked Rewards, Blitz wins in the Gear Strike: Orange Blitz, daily web Free Claims, and select offers. Each Orb contains up to 10 Black Knight shards\n\nDaily Jam Sandwich Web Milestone\nSpend Incursion Energy to earn Cold Blooded Orb Fragments and Points for Red Letter Day Milestone progress! Keep an eye out for Free Claims containing milestone points every day!"
+ID_QU_S1_REDLETTERDAY,Earn 1 Cold Blooded Orb Fragment
 ID_QU_NA_PACTOFGREED,Pact of Greed
 ID_QU_SD_PACTOFGREED,Unlock Green Goblin (Classic)'s Costume
 ID_QU_SC_PACTOFGREED,Earn corrupted items from limited time offers
