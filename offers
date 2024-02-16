@@ -6394,3 +6394,17 @@ ID_OF_DE_PRESLOKI24_SUPERSALELC,Last chance to make mischief great again! This o
 ID_OF_DE_PRESLOKI24_DORBDPCGEARLC,"Last chance to pick up this holiday offer of <color=#ffda21>Diamond Orb, Dark Promotion Credit, and more</color>! <color=#fc03d7>Greater than a {var1}x value</color>!"
 ID_OF_DE_PRESLOKI24_KRAVENSHARDS7RRSORB,Mark this offer as your prey & power up <color=#ffda21>Kraven The Hunter</color> today. <color=#fc03d7>A {var1}x value</color>!
 ID_OF_DE_PRESLOKI24_GOLDORB2,Take advantage of this special offer of <color=#ffda21>Gold & T2 Iso-8 Ion Orbs</color>. <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_NA_STARBRAND_FCO_OFFER,Primordial Emblem
+ID_OF_DE_STARBRAND_FCO_OFFER,Each <color=#fff568>In the Stars Orb</color> contains <color=#fff568>up to 180 Starbrand</color> shards.  <color=#fff568>Starbrand</color> delivers prehistoric punishment with massive attacks and devastating Bonus Attacks with unique targeting!
+ID_OF_DE_STARBRAND_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Starbrand</color> and unlock one-time only release offers on your next visit!  <color=#fff568>Starbrand</color> delivers prehistoric punishment with massive attacks and devastating Bonus Attacks with unique targeting!
+ID_OF_DE_STARBRAND_OFFER_SHARD,Power up <color=#fff568>Starbrand</color> with this shard offer!  <color=#fff568>Starbrand</color> delivers prehistoric punishment with massive attacks and devastating Bonus Attacks with unique targeting!
+ID_OF_DE_STARBRAND_UNLOCK_OFFER,Unlock <color=#fff568>Starbrand</color> now!  <color=#fff568>Starbrand</color> delivers prehistoric punishment with massive attacks and devastating Bonus Attacks with unique targeting!
+ID_OF_STOREBAR_STARBRAND,Dual Offer: Starbrand
+ID_OF_NA_DUAL_STARBRAND,Dual Offer: Starbrand
+ID_OF_DE_DUAL_STARBRAND,Choose your path to power up this <color=#fff568>Out of Time</color> member!
+ID_OF_DE_DUAL_UNLOCK_STARBRAND,Unlock this <color=#fff568>Out of Time</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_STARBRAND_FCO_OFFER_BASIC,Starbrand Release Offer
+ID_OF_NA_STARBRAND_WEB_EXTRA_FCO_OFFER,Starbrand Unlock Offer
+ID_OF_DE_STARBRAND_WEB_EXTRA_FCO_OFFER,"The Primordial Emblem, <color=#fff568>Starbrand</color>, has arrived!"
+ID_OF_NA_STARBRAND_WEB_SPECIAL_OFFER,Primordial Emblem Special
+ID_OF_DE_STARBRAND_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> <color=#fff568>Starbrand</color> delivers prehistoric punishment with massive attacks and devastating Bonus Attacks with unique targeting!
