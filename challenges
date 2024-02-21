@@ -2191,6 +2191,15 @@ ID_EVENT_HIVEMIND_THM_FLAVOR,Use Your Hive-Mind!
 ID_EVENT_HIVEMIND_THM_DESC,Requirements: \n- 5 Hive-Mind characters\n- Gear Tier 14\n- 4 Yellow Stars
 ID_EVENT_HIVEMIND_BONUS_FLAVOR,Get Awesome Rewards!
 ID_EVENT_HIVEMIND_BONUS_DESC,Requirements:\n- 5 HIVE-MIND characters\n- Gear Tier 16\n- 6 Yellow Stars
+ID_ECM_6YA_NAME,Sixth Time to Strike
+ID_ECM_6YA_DESC,"Celebrate the 6th year anniversary of MARVEL Strike Force by helping Deadpool, Kestrel, Deathpool, Spider-Weaver, and Vahl correct the timeline that has been ruined by a mischievous jokester."
+ID_ECM_CHANCE_6YA,Celebrate 6 Years of MSF by Earning tons of Gear!
+ID_EVENT_6YA_STORY_DESC,"Requirements: \n- None\n Recommended: \n- Gear Tier 6+, Level 30+"
+ID_EVENT_6YA_STORY_FLAVOR,Earn Blue and Purple Gear!
+ID_EVENT_6YA_HARD_DESC,"Requirements: \n- Hero, City, Global, and Cosmic Characters\n- Recommended: Gear Tier 15+, Level 65+, Green ISO-8 Level 4"
+ID_EVENT_6YA_HARD_FLAVOR,Earn Purple and Orange Gear!
+ID_EVENT_6YA_BONUS_DESC,"Requirements: \n- Kestrel, Deathpool, Spider-Weaver, and Vahl,\n- as well as Hero, City, Global, and Cosmic Characters\n Recommended: /n- Gear Tier 17+, Level 90+, Blue ISO-8 Level 3"
+ID_EVENT_6YA_BONUS_FLAVOR,Earn Teal Gear!
 ID_EVENT_CABAL_NAME,Rise of the Cabal
 ID_EVENT_CABAL_SUBTITLE,Cabal Showcase
 ID_EVENT_CABAL_DESC,Norman Osborn enacts a sinister plan to form an all-star alliance of the worlds most dangerous super villains.

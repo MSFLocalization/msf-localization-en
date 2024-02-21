@@ -137,6 +137,8 @@ ID_GACHA_CRATE_ABILITY_NAME,Ability Orb
 ID_GACHA_CRATE_ABILITY_DESCRIPTION,Guarantees 3 tiers of Ability Materials
 ID_GACHA_CRATE_ABILITY_TOKEN_NAME,Ability Orb Fragments
 ID_GACHA_CRATE_ABILITY_TOKEN_DESCRIPTION,Collect Ability Orb Fragments to earn an Ability Orb.
+ID_GACHA_CRATE_FREE_NAME,Free Orb
+ID_GACHA_CRATE_FREE_DESCRIPTION,"Get character shards, gear, and Gold"
 ID_GACHA_CRATE_BASIC_NAME,Basic Orb
 ID_GACHA_CRATE_BASIC_DESCRIPTION,"Get character shards, gear, and Gold"
 ID_GACHA_CRATE_BASIC_SWAP_NAME,Basic Orb

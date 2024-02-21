@@ -3428,6 +3428,38 @@ ID_MIS_HIVEMIND_1TD_NAME,Incursion Raid II - Bio 1
 ID_MIS_HIVEMIND_TD_DESC,See the power and potential of the Hive-Mind in a sample battle from the Incursion Raid II.
 ID_MIS_HIVEMIND_2TD_NAME,Incursion Raid II - Bio 2
 ID_MIS_HIVEMIND_3TD_NAME,Incursion Raid II - Bio Boss
+ID_ECM_6YA_01_01_NAME,Let the Party Begin!
+ID_ECM_6YA_01_01_DESC,"Deadpool, Domino, and a S.T.R.I.K.E. team go out on a routine mission, when they're interrupted by a group of rogue Deadpools."
+ID_ECM_6YA_01_02_NAME,A Blast from the Past
+ID_ECM_6YA_01_02_DESC,"Ultimus, Doom, and other villains from S.T.R.I.K.E.'s past once thought defeated have returned to attack the hellicarrier."
+ID_ECM_6YA_01_03_NAME,Familiar Wings
+ID_ECM_6YA_01_03_DESC,Deadpool and Fury travel back in time to the original recruitment of Kestrel to ask her help in cleaning up the timeline.
+ID_ECM_6YA_01_04_NAME,An Earlier Ultimus
+ID_ECM_6YA_01_04_DESC,"Kestrel leads the team to battle Ultimus in the past, but not everything goes according to plan."
+ID_ECM_6YA_02_01_NAME,The Return of Death
+ID_ECM_6YA_02_01_DESC,"To solve the Director Deadpool situation, Kestrel and the team travel back in time to team up with a master Thanos tracker."
+ID_ECM_6YA_02_02_NAME,Restrained Revenge
+ID_ECM_6YA_02_02_DESC,"In order to convince Deathpool of their intentions, Kestrel and the team track down and defeat the Thanos that killed Deathpool's dad."
+ID_ECM_6YA_02_03_NAME,An Unfamiliar Past
+ID_ECM_6YA_02_03_DESC,"Deathpool has tracked what she believes to be the Thanos working with an evil Deadpool, but the world around them is not as they expected."
+ID_ECM_6YA_02_04_NAME,Return of Dooms
+ID_ECM_6YA_02_04_DESC,"Kestrel, Deathpool, and the team fight against the three Dooms ruling this world to look for info on the evil Deadpool."
+ID_ECM_6YA_03_01_NAME,The Web Rewound
+ID_ECM_6YA_03_01_DESC,The team tracks down Spider-Weaver from the past to have her locate evil Deadpool's whereabouts.
+ID_ECM_6YA_03_02_NAME,Herald of the Dark Dimension
+ID_ECM_6YA_03_02_DESC,The team's search is interrupted by a minion of the Dark Dimension.
+ID_ECM_6YA_03_03_NAME,The Gates of Fire and Fear
+ID_ECM_6YA_03_03_DESC,"Spider-Weaver, Kestrel, Deathpool, and the team track their lead to the Dark Dimension."
+ID_ECM_6YA_03_04_NAME,An Unruly Interruption
+ID_ECM_6YA_03_04_DESC,The team interrupts a disagreement between the evil Deadpool and Dormammu when Dormammu attacks the group.
+ID_ECM_6YA_04_01_NAME,The Last Resort
+ID_ECM_6YA_04_01_DESC,"To track evil Deadpool's next moves and break into an Asgard, they reach out to the last Asgardian."
+ID_ECM_6YA_04_02_NAME,An Unfamiliar Asgard
+ID_ECM_6YA_04_02_DESC,"Vahl leads the team into an Asgard where they nearly catch the evil Deadpool, but are instead confronted by Symbiotes."
+ID_ECM_6YA_04_03_NAME,Stop those Deadpools!
+ID_ECM_6YA_04_03_DESC,The team attempts to undo all the changes to the timeline by stopping the original Deadpool from ever getting the time machine.
+ID_ECM_6YA_04_04_NAME,A Mix-up Mishap
+ID_ECM_6YA_04_04_DESC,"The team faces of against Deadpool, Domino, and their S.T.R.I.K.E. team before they can destroy the time machine."
 ID_MIS_CABAL_01_NAME_TD,The Cabal vs. Spiders
 ID_MIS_CABAL_01_DESC_TD,See the power and potential of The Cabal against a team of Spider Heroes.
 ID_MIS_CABAL_02_NAME_TD,The Cabal vs Young Avengers
