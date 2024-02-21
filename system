@@ -1401,10 +1401,10 @@ ID_REQUIRES_TRAITS_LE_JUBILEE_L4,REQUIRES: 4-Star PYM TECH OR TECH HERO
 ID_REQUIRES_TRAITS_LE_JUBILEE_L5,REQUIRES: 5-Star PYM TECH OR TECH HERO
 ID_REQUIRES_TRAITS_LE_JUBILEE_L6,REQUIRES: 6-Star PYM TECH OR TECH HERO
 ID_REQUIRES_TRAITS_LE_JUBILEE_L7,REQUIRES: 7-Star PYM TECH OR TECH HERO
-ID_REQ_CABAL_DIF2_ST_CAMP,<color=#fff568>CABAL</color> or <color=#fff568>SINISTER SIX</color>
+ID_REQ_CABAL_DIF2_ST_CAMP,5 <color=#fff568>CABAL</color> or <color=#fff568>SINISTER SIX</color>
 ID_REQ_CABAL_DIF4_TH_CAMP,"3 <color=#fff568>CABAL</color>, Gear Tier: <color=#fff568>14</color>, Yellow Stars: <color=#fff568>4</color>"
 ID_REQ_CABAL_DIF5_BO_CAMP,"3 <color=#fff568>CABAL</color>, Gear Tier: <color=#fff568>16</color>, Yellow Stars: <color=#fff568>6</color>"
-ID_REQ_CABAL_DIF2_ST_BAT,Required: <color=#fff568>CABAL</color> or <color=#fff568>SINISTER SIX</color>
+ID_REQ_CABAL_DIF2_ST_BAT,Required: 5 <color=#fff568>CABAL</color> or <color=#fff568>SINISTER SIX</color>
 ID_REQ_CABAL_DIF4_TH_BAT,"Required: 3 <color=#fff568>CABAL</color>, Gear Tier: <color=#fff568>14</color>, Yellow Stars: <color=#fff568>4</color>"
 ID_REQ_CABAL_DIF5_BO_BAT,"Required: 3 <color=#fff568>CABAL</color>, Gear Tier: <color=#fff568>16</color>, Yellow Stars: <color=#fff568>6</color>"
 ID_REQ_CABAL_DIF3_CH_STAIRSTEP_1_CAMP,<color=#fff568>CABAL</color> or <color=#fff568>SINISTER SIX</color>\n<color=#fff568>IRON PATRIOT</color>

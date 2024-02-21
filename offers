@@ -6395,10 +6395,10 @@ ID_OF_DE_PRESLOKI24_DORBDPCGEARLC,"Last chance to pick up this holiday offer of 
 ID_OF_DE_PRESLOKI24_KRAVENSHARDS7RRSORB,Mark this offer as your prey & power up <color=#ffda21>Kraven The Hunter</color> today. <color=#fc03d7>A {var1}x value</color>!
 ID_OF_DE_PRESLOKI24_GOLDORB2,Take advantage of this special offer of <color=#ffda21>Gold & T2 Iso-8 Ion Orbs</color>. <color=#fc03d7>Greater than a {var1}x value</color>!
 ID_OF_NA_STARBRAND_FCO_OFFER,Primordial Emblem
-ID_OF_DE_STARBRAND_FCO_OFFER,Each <color=#fff568>In the Stars Orb</color> contains <color=#fff568>up to 180 Starbrand</color> shards.  <color=#fff568>Starbrand</color> delivers prehistoric punishment with massive attacks and devastating Bonus Attacks with unique targeting!
-ID_OF_DE_STARBRAND_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Starbrand</color> and unlock one-time only release offers on your next visit!  <color=#fff568>Starbrand</color> delivers prehistoric punishment with massive attacks and devastating Bonus Attacks with unique targeting!
-ID_OF_DE_STARBRAND_OFFER_SHARD,Power up <color=#fff568>Starbrand</color> with this shard offer!  <color=#fff568>Starbrand</color> delivers prehistoric punishment with massive attacks and devastating Bonus Attacks with unique targeting!
-ID_OF_DE_STARBRAND_UNLOCK_OFFER,Unlock <color=#fff568>Starbrand</color> now!  <color=#fff568>Starbrand</color> delivers prehistoric punishment with massive attacks and devastating Bonus Attacks with unique targeting!
+ID_OF_DE_STARBRAND_FCO_OFFER,Each <color=#fff568>In the Stars Orb</color> contains <color=#fff568>up to 180 Starbrand</color> shards. <color=#fff568>Starbrand</color> delivers prehistoric punishment with massive attacks and devastating Bonus Attacks with unique targeting!
+ID_OF_DE_STARBRAND_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Starbrand</color> and unlock one-time only release offers on your next visit! <color=#fff568>Starbrand</color> delivers prehistoric punishment with massive attacks and devastating Bonus Attacks with unique targeting!
+ID_OF_DE_STARBRAND_OFFER_SHARD,Power up <color=#fff568>Starbrand</color> with this shard offer! <color=#fff568>Starbrand</color> delivers prehistoric punishment with massive attacks and devastating Bonus Attacks with unique targeting!
+ID_OF_DE_STARBRAND_UNLOCK_OFFER,Unlock <color=#fff568>Starbrand</color> now! <color=#fff568>Starbrand</color> delivers prehistoric punishment with massive attacks and devastating Bonus Attacks with unique targeting!
 ID_OF_STOREBAR_STARBRAND,Dual Offer: Starbrand
 ID_OF_NA_DUAL_STARBRAND,Dual Offer: Starbrand
 ID_OF_DE_DUAL_STARBRAND,Choose your path to power up this <color=#fff568>Out of Time</color> member!
@@ -6408,3 +6408,39 @@ ID_OF_NA_STARBRAND_WEB_EXTRA_FCO_OFFER,Starbrand Unlock Offer
 ID_OF_DE_STARBRAND_WEB_EXTRA_FCO_OFFER,"The Primordial Emblem, <color=#fff568>Starbrand</color>, has arrived!"
 ID_OF_NA_STARBRAND_WEB_SPECIAL_OFFER,Primordial Emblem Special
 ID_OF_DE_STARBRAND_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> <color=#fff568>Starbrand</color> delivers prehistoric punishment with massive attacks and devastating Bonus Attacks with unique targeting!
+ID_OF_NA_OOT24_TRAIN_GOLD_A18_A17_T2L5,Out of Time Power Up
+ID_OF_NA_OOT24_BLACKKNIGHT,Black Knight Devotion
+ID_OF_NA_OOT24_NEWAVENGER_TEAM,New Avengers Assembled
+ID_OF_NA_OOT24_TEAL_UNIQUES,Out of Time Memorabilia
+ID_OF_NA_OOT24_BLACKKNIGHT_A18_DPC,Black Knight Promotion
+ID_OF_NA_OOT24_TEAL_MINIUNIQUES,Out of Time Artifacts
+ID_OF_NA_OOT24_CAPTCARTER_CAPTAMERICA,Captains Out of Time
+ID_OF_NA_OOT24_BLACKKNIGHT_STARBRAND_A18_DPC,Out of Time Super Pack
+ID_OF_NA_OOT24_STARBRAND,Starbrand Omnipotence
+ID_OF_NA_OOT24_BLACKKNIGHT_STARBRAND_A18_GOLD_E7,Out of Time Ultimate Pack
+ID_OF_NA_OOT24_STARBRAND_TRAIN_GPC,Starbrand Promotion
+ID_OF_NA_OOT24_BLACKKNIGHT_STARBRAND_TRAIN,Out of Time Preparation
+ID_OF_NA_OOT24_BLACKKNIGHT_STARBRAND_A18_TRAIN,Out of Time Enlightenment
+ID_OF_NA_OOT24_BLACKKNIGHT_STARBRAND_GOLD,Out of Time Loop Hole
+ID_OF_NA_OOT24_COSMICGHOSTRIDER,Cosmic Ghost Rider Vengeance
+ID_OF_NA_OOT24_FULL_HIVEMIND_TEAM_TRAIN,Out of Time Team Pack
+ID_OF_NA_OOT24_COSMICGHOSTRIDER_E7_GPC,Cosmic Ghost Rider Promotion
+ID_OF_DE_OOT24_TRAIN_GOLD_A18_A17_T2L5,Power up your <color=#fff568>Out of Time</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_OOT24_BLACKKNIGHT,Rank up your <color=#fff568>Out of Time</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_OOT24_NEWAVENGER_TEAM,Advance your <color=#fff568>New Avengers</color> towards their peak potential with this fantastic team shard offer today!
+ID_OF_DE_OOT24_TEAL_UNIQUES,Gear up your <color=#fff568>Out of Time</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_OOT24_BLACKKNIGHT_A18_DPC,Power up your <color=#fff568>Out of Time</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_OOT24_TEAL_MINIUNIQUES,Gear up your <color=#fff568>Out of Time</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_OOT24_CAPTCARTER_CAPTAMERICA,"Empower the newly updated Out of Time members, <color=#fff568>Captain America & Captain Carter</color>, with this special offer today!"
+ID_OF_DE_OOT24_BLACKKNIGHT_STARBRAND_A18_DPC,Take your <color=#fff568>Out of Time</color> team to 6 Yellow Stars to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_OOT24_STARBRAND,Rank up your <color=#fff568>Out of Time</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_OOT24_BLACKKNIGHT_STARBRAND_A18_GOLD_E7,Power up your <color=#fff568>Out of Time</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_OOT24_STARBRAND_TRAIN_GPC,Power up your <color=#fff568>Out of Time</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_OOT24_BLACKKNIGHT_STARBRAND_TRAIN,Power up your <color=#fff568>Out of Time</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_OOT24_BLACKKNIGHT_STARBRAND_A18_TRAIN,Take your <color=#fff568>Out of Time</color> team to 6 Yellow Stars to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_OOT24_BLACKKNIGHT_STARBRAND_GOLD,Power up your <color=#fff568>Out of Time</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_OOT24_COSMICGHOSTRIDER,Rank up your <color=#fff568>Out of Time</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_OOT24_FULL_HIVEMIND_TEAM_TRAIN,Improve your entire <color=#fff568>Out of Time</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_OOT24_COSMICGHOSTRIDER_E7_GPC,Power up your <color=#fff568>Out of Time</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_NA_MONTHLYSPECIAL_REDGOBLIN,March Special: Crimson Chaos
+ID_OF_DE_MONTHLYSPECIAL_REDGOBLIN,Power up <color=#fff568>Red Goblin</color> with this web-only offer! <color=#fff568>Red Goblin</color> embraces the carnage against foes and revives <color=#fff568>Symbiote</color> allies!
