@@ -1425,3 +1425,21 @@ ID_REQ_OOT_DIF3_CH_STAIRSTEP_3_CAMP,"<color=#fff568>OUT OF TIME</color> or <colo
 ID_REQ_OOT_DIF3_CH_STAIRSTEP_1_BAT,Required: <color=#fff568>OUT OF TIME</color> or <color=#fff568>NEW AVENGERS</color>\n<color=#fff568>BLACK KNIGHT</color>
 ID_REQ_OOT_DIF3_CH_STAIRSTEP_2_BAT,Required: <color=#fff568>OUT OF TIME</color> or <color=#fff568>NEW AVENGERS</color>\n<color=#fff568>BLACK KNIGHT</color> and <color=#fff568>STARBRAND</color>
 ID_REQ_OOT_DIF3_CH_STAIRSTEP_3_BAT,"Required: <color=#fff568>OUT OF TIME</color> or <color=#fff568>NEW AVENGERS</color>\n<color=#fff568>BLACK KNIGHT</color>, <color=#fff568>STARBRAND</color>, and <color=#fff568>COSMIC GHOST RIDER</color>"
+ID_REQ_6YA_NORESTRICTION_CAMP,NO RESTRICTION
+ID_REQ_6YA_NORESTRICTION_BAT,Required: 5 ANY TRAIT
+ID_REQ_6YA_DIF2_CH1_CAMP,ONLY <color=#fff568>HERO</color>
+ID_REQ_6YA_DIF2_CH2_CAMP,ONLY <color=#fff568>CITY</color>
+ID_REQ_6YA_DIF2_CH3_CAMP,ONLY <color=#fff568>GLOBAL</color>
+ID_REQ_6YA_DIF2_CH4_CAMP,ONLY <color=#fff568>COSMIC</color>
+ID_REQ_6YA_DIF2_CH1_BAT,Required: 5 <color=#fff568>HERO</color>
+ID_REQ_6YA_DIF2_CH2_BAT,Required: 5 <color=#fff568>CITY</color>
+ID_REQ_6YA_DIF2_CH3_BAT,Required: 5 <color=#fff568>GLOBAL</color>
+ID_REQ_6YA_DIF2_CH4_BAT,Required: 5 <color=#fff568>COSMIC</color>
+ID_REQ_6YA_DIF3_CH1_CAMP,"ONLY <color=#fff568>KESTREL</color>, <color=#fff568>NICK FURY</color>, and 3 <color=#fff568>HERO</color>"
+ID_REQ_6YA_DIF3_CH2_CAMP,"ONLY <color=#fff568>KESTREL</color>, <color=#fff568>NICK FURY</color>, <color=#fff568>DEATHPOOL</color>, and 2 <color=#fff568>CITY</color>"
+ID_REQ_6YA_DIF3_CH3_CAMP,"ONLY <color=#fff568>KESTREL</color>, <color=#fff568>DEATHPOOL</color>, <color=#fff568>SPIDER-WEAVER</color>, and 2 <color=#fff568>GLOBAL</color>"
+ID_REQ_6YA_DIF3_CH4_CAMP,"ONLY <color=#fff568>KESTREL</color>, <color=#fff568>DEATHPOOL</color>, <color=#fff568>SPIDER-WEAVER</color>, and <color=#fff568>VAHL</color>"
+ID_REQ_6YA_DIF3_CH1_BAT,"Required: <color=#fff568>KESTREL</color>, <color=#fff568>NICK FURY</color>, and 3 <color=#fff568>HERO</color>"
+ID_REQ_6YA_DIF3_CH2_BAT,"Required: <color=#fff568>KESTREL</color>, <color=#fff568>NICK FURY</color>, <color=#fff568>DEATHPOOL</color>, and 2 <color=#fff568>CITY</color>"
+ID_REQ_6YA_DIF3_CH3_BAT,"Required: <color=#fff568>KESTREL</color>, <color=#fff568>DEATHPOOL</color>, <color=#fff568>SPIDER-WEAVER</color>, and 2 <color=#fff568>GLOBAL</color>"
+ID_REQ_6YA_DIF3_CH4_BAT,"Required: <color=#fff568>KESTREL</color>, <color=#fff568>DEATHPOOL</color>, <color=#fff568>SPIDER-WEAVER</color>, and <color=#fff568>VAHL</color>"
