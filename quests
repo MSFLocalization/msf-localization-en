@@ -3924,14 +3924,14 @@ ID_QU_SD_LEVELLIFTOFF,Battle in Raids
 ID_QU_LD_LEVELLIFTOFF,Battle in Raids to complete this daily milestone that rewards Century Credits for Blastoff to 100 Event progress!
 ID_QU_S1_LEVELLIFTOFF,Play 1 Raid Battle
 ID_QU_NA_ALLIEDENGINES,Allied Engines
-ID_QU_SD_ALLIEDENGINES,Raids with X-Treme X-Men and collect Event Orbs
-ID_QU_LD_ALLIEDENGINES,"Battle in Raids with X-Treme X-Men and collect Allied Supply III Orb Fragments.\n\nMilestone rewards include 1-Diamond Venom, Armory 17 Orbs, T2 Level 5 Ions and more!\n\nCompete on the Leaderboards for up to a 3-Diamond Venom, Mega Gold Orbs and Armory 18 Orbs!"
-ID_QU_S1_ALLIEDENGINES,Collect 1 Allied Supply III Orb Fragment
+ID_QU_SD_ALLIEDENGINES,Raids with Hive-Mind and collect Event Orbs
+ID_QU_LD_ALLIEDENGINES,"Battle in Raids with Hive-Mind characters and collect Allied Supply IV Orb Fragments.\n\nMilestone rewards include a Diamond Orb, Training Modules, Dark Promotion Credits and more!"
+ID_QU_S1_ALLIEDENGINES,Collect 1 Allied Supply IV Orb Fragment
 ID_QU_S2_ALLIEDENGINES,Battle in Raids
-ID_QU_S3_ALLIEDENGINES,Battle in Raids with X-Treme X-Men
-ID_QU_S4_ALLIEDENGINES,Battle in Raids with X-Treme X-Men at 5 Yellow Stars
-ID_QU_S5_ALLIEDENGINES,Battle in Raids with X-Treme X-Men at 6 Yellow Stars
-ID_QU_S6_ALLIEDENGINES,Battle in Raids with X-Treme X-Men at 7 Yellow Stars
+ID_QU_S3_ALLIEDENGINES,Battle in Raids with Hive-Mind
+ID_QU_S4_ALLIEDENGINES,Battle in Raids with Hive-Mind at 5 Yellow Stars
+ID_QU_S5_ALLIEDENGINES,Battle in Raids with Hive-Mind at 6 Yellow Stars
+ID_QU_S6_ALLIEDENGINES,Battle in Raids with Hive-Mind at 7 Yellow Stars
 ID_QU_NA_MACHINESOFWAR,Machines of War
 ID_QU_SD_MACHINESOFWAR,Battle in War and Earn Allied Supply III Orb Fragments
 ID_QU_LD_MACHINESOFWAR,"Machines of War Milestone\nGain progress in this 4-day event by battling in Alliance War and earning Allied Supply III Orb fragments from daily Free Claims and special offers. Earn incredible rewards including Elite Credits, and T2 Level 5 Ion Orbs. You'll also earn points towards the month-long Mechanical Marvel milestone by collecting X-Batteries."
@@ -4097,3 +4097,11 @@ ID_QU_LD_PACTOFGREED,Out of Time character offers contain corrupted items in the
 ID_QU_S1_PACTOFGREED,Earn 1 Corrupted Mask
 ID_QU_S2_PACTOFGREED,Earn 1 Corrupted Glider
 ID_QU_S3_PACTOFGREED,Earn 1 Corrupted Bombs
+ID_QU_NA_DAWNOFTIME,Dawn of Time
+ID_QU_SD_DAWNOFTIME,Participate in March Events
+ID_QU_LM_DAWNOFTIME,Participate in various events throughout the month of March to earn milestone progress.
+ID_QU_S1_DAWNOFTIME,Collect 1 Hourglass
+ID_QU_S2_DAWNOFTIME,Collect 1 T-Rex Tooth
+ID_QU_S3_DAWNOFTIME,Collect 1 Astral Meteorite
+ID_QU_S4_DAWNOFTIME,Collect 1 Cosmic Tire
+ID_QU_S5_DAWNOFTIME,Collect 1 Patriot Coin

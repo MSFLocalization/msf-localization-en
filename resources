@@ -224,10 +224,10 @@ ID_EVENT_CUR9_NAME,Allied Engines Milestone Points
 ID_EVENT_CUR9_DESCRIPTION,These points earn you additional progress in the Allied Engines Milestone. Earn them in limited offers!
 ID_EVENT_CUR10_NAME,Allied Supply III Orb Fragments
 ID_EVENT_CUR10_DESCRIPTION,"Open Allied Supply III Orbs to get Gold, Training Materials, T2 Level 5 Ion Orb Fragments and more!"
-ID_EVENT_CUR11_NAME,Into the Gwenomverse Milestone Points
-ID_EVENT_CUR11_DESCRIPTION,"These points earn you additional progress in the Into the Gwenomverse Milestone. Earn them in Arena Ranked Rewards, Daily Free Claims on our website, and limited offers!"
-ID_EVENT_CUR12_NAME,Ghost Host Orb Fragment
-ID_EVENT_CUR12_DESCRIPTION,"Open Ghost Host Orbs to earn shards for Gwenom, X-Treme X-Men and other top Raid characters, and progress in the Into the Gwenomverse milestone"
+ID_EVENT_CUR11_NAME,Allied Engines Milestone Points
+ID_EVENT_CUR11_DESCRIPTION,These points earn you additional progress in the Allied Engines Milestone. Earn them in limited offers!
+ID_EVENT_CUR12_NAME,Allied Supply IV Orb Fragments
+ID_EVENT_CUR12_DESCRIPTION,"Open Allied Supply IV Orbs to get Gold, Training Materials, T2 Level 5 Ion Orb Fragments and more!"
 ID_EVENT_CUR13_NAME,Sonic Judgment Milestone Points
 ID_EVENT_CUR13_DESCRIPTION,"These points earn you additional progress in the Sonic Judgment Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
 ID_EVENT_CUR14_NAME,Crucible Champions Orb Fragment
@@ -304,16 +304,16 @@ ID_EVTA_META_FEB_Y_NAME,Corrupted Glider
 ID_EVTA_META_FEB_Y_DESCRIPTION,Collect the Corrupted Glider for points in the Pact of Greed Event. Earn it from limited time offers.
 ID_EVTA_META_FEB_Z_NAME,Corrupted Bombs
 ID_EVTA_META_FEB_Z_DESCRIPTION,Collect the Corrupted Bombs for points in the Pact of Greed Event. Earn it from limited time offers.
-ID_EVTA_META_MAR_A_NAME,Eagle Emblem
-ID_EVTA_META_MAR_A_DESCRIPTION,Collect Eagle Emblem for points in the Memory Lane Event. Earn them in various events throughout the month of March
-ID_EVTA_META_MAR_B_NAME,Milestone PDA
-ID_EVTA_META_MAR_B_DESCRIPTION,Collect the Milestone PDA for points in the Memory Lane Event. Earn them in the Return to the Shadows Event!
-ID_EVTA_META_MAR_C_NAME,Challenge X-Ray
-ID_EVTA_META_MAR_C_DESCRIPTION,Collect the Challenge X-Ray for points in the Memory Lane Event. Earn them in the Cold Storage Event!
-ID_EVTA_META_MAR_D_NAME,War Helicarrier
-ID_EVTA_META_MAR_D_DESCRIPTION,Collect the War Helicarrier for points in the Memory Lane Event. Earn them in the Historic Encounter Event!
-ID_EVTA_META_MAR_E_NAME,Alliance Donation Box
-ID_EVTA_META_MAR_E_DESCRIPTION,Collect Alliance Donation Box for points in the Memory Lane Event. Earn them in the To the Moon Event!
+ID_EVTA_META_MAR_A_NAME,Hourglass
+ID_EVTA_META_MAR_A_DESCRIPTION,Collect Hourglasses for points in the Dawn of Time Event. Earn them in various events throughout the month of March
+ID_EVTA_META_MAR_B_NAME,T-Rex Tooth
+ID_EVTA_META_MAR_B_DESCRIPTION,Collect the T-Rex Tooth for points in the Dawn of Time Event. Earn it in the Primordial Avenger Event!
+ID_EVTA_META_MAR_C_NAME,Astral Meteorite
+ID_EVTA_META_MAR_C_DESCRIPTION,Collect the Astral Meteorite for points in the Dawn of Time Event. Earn it in the Historic Heist Event!
+ID_EVTA_META_MAR_D_NAME,Cosmic Tire
+ID_EVTA_META_MAR_D_DESCRIPTION,Collect the Cosmic Tire for points in the Dawn of Time Event. Earn it in the Eternal Vengeance Event!
+ID_EVTA_META_MAR_E_NAME,Patriot Coin
+ID_EVTA_META_MAR_E_DESCRIPTION,Collect the Patriot Coin for points in the Dawn of Time Event. Earn it in the Forever Patriot Event!
 ID_EVTA_META_MAR_F_NAME,Iso-8 Matrix Machine
 ID_EVTA_META_MAR_F_DESCRIPTION,Collect Iso-8 Matrix Machine for points in the Memory Lane Event. Earn them in the S.T.R.I.K.E. Celebration Event!
 ID_EVTA_META_APR_A_NAME,Victory Flag

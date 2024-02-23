@@ -5794,18 +5794,18 @@ ID_OF_NA_ALLIEDENGINES_STARTER,Allied Engines: Starter
 ID_OF_NA_ALLIEDENGINES_CATCHUP,Allied Engines: Catch-up
 ID_OF_NA_ALLIEDENGINES_DAILY_ORB,Daily Teamwork
 ID_OF_NA_ALLIEDENGINES_DAILY_POINTS,Allied Engines: Daily Points
-ID_OF_NA_ALLIEDENGINES_XTR,X-Treme Allies
+ID_OF_NA_ALLIEDENGINES_HIVE,Symbiote Alliance
 ID_OF_NA_ALLIEDENGINES_FREECLAIM,Allied Engines: Free Claim
 ID_OF_NA_ALLIEDENGINES_INTERSTITIAL,Allied Engines: Web Special
 ID_OF_NA_ALLIEDENGINES_GENERIC,Allied Engines Event Pack
-ID_OF_DE_ALLIEDENGINES_STARTER,Get ahead in the <color=#fff568>Allied Engines</color> Milestone and Leaderboard and propel your Alliance to <color=#fff568>Venom Diamonds</color> and <color=#fff568>Teal Gear</color>!
-ID_OF_DE_ALLIEDENGINES_CATCHUP,Finish strong in the <color=#fff568>Allied Engines</color> Milestone and Leaderboard and propel your Alliance to <color=#fff568>Venom Diamonds</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_ALLIEDENGINES_STARTER,Get ahead in the <color=#fff568>Allied Engines</color> Milestone and propel your Alliance to <color=#fff568>Dark Promotion Credits</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_ALLIEDENGINES_CATCHUP,Finish strong in the <color=#fff568>Allied Engines</color> Milestone and propel your Alliance to <color=#fff568>Dark Promotion Credits</color> and <color=#fff568>Teal Gear</color>!
 ID_OF_DE_ALLIEDENGINES_DAILY_ORB,"Collect these event orbs for <color=#fff568>T2 Level 5 Ion Orb Fragments, Gold, Training Materials and Teal Origin Gear</color>, as well as <color=#fff568>Allied Engines</color> Milestone progress!"
 ID_OF_DE_ALLIEDENGINES_DAILY_POINTS,Come back daily for more <color=#fff568>Allied Engines</color> progress!
-ID_OF_DE_ALLIEDENGINES_XTR,Rank up your X-Treme X-Men to maximize your <color=#fff568>Allied Engines</color> Milestone progress!
+ID_OF_DE_ALLIEDENGINES_HIVE,Rank up your Hive-Mind characters to maximize your <color=#fff568>Allied Engines</color> Milestone progress!
 ID_OF_DE_ALLIEDENGINES_FREECLAIM,Come back daily for more <color=#fff568>Allied Engines</color> progress!
 ID_OF_DE_ALLIEDENGINES_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Allied Engines</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
-ID_OF_DE_ALLIEDENGINES_GENERIC,Get ahead in the <color=#fff568>Allied Engines</color> Milestone and Leaderboard and propel your Alliance to <color=#fff568>Venom Diamonds</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_ALLIEDENGINES_GENERIC,Get ahead in the <color=#fff568>Allied Engines</color> Milestone and propel your Alliance to <color=#fff568>Dark Promotion Credits</color> and <color=#fff568>Teal Gear</color>!
 ID_OF_NA_LEVEL100_ENERGYBIGPRE,Overwhelming Energy
 ID_OF_NA_LEVEL100_ENERGYSMALLPRE,Energy Charge
 ID_OF_NA_LEVEL100_XPBIGPRE,XP Overdrive
@@ -6448,3 +6448,67 @@ ID_OF_NA_NU_PURCH_CAL_VENOM,Starter Venom Calendar
 ID_OF_DE_NU_PURCH_CAL_VENOM,Limited Chance offer to get 55 shards of Venom and more in this special 7-day calendar!
 ID_OF_NA_NU_PURCH_CAL_CARNAGE,Starter Carnage Calendar
 ID_OF_DE_NU_PURCH_CAL_CARNAGE,Limited Chance offer to get 55 shards of Carnage and more in this special 7-day calendar!
+ID_OF_NA_COSMICGHOSTRIDER_FCO_OFFER,Interstellar Reaper
+ID_OF_DE_COSMICGHOSTRIDER_FCO_OFFER,"Each <color=#fff568>Undying Rider Orb</color> contains <color=#fff568>up to 180 Cosmic Ghost Rider</color> shards.  <color=#fff568>Cosmic Ghost Rider</color> removes Battlefield Effects, be it friend or foe!"
+ID_OF_DE_COSMICGHOSTRIDER_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Cosmic Ghost Rider</color> and unlock one-time only release offers on your next visit!  <color=#fff568>Cosmic Ghost Rider</color> removes Battlefield Effects, be it friend or foe!"
+ID_OF_DE_COSMICGHOSTRIDER_OFFER_SHARD,"Power up <color=#fff568>Cosmic Ghost Rider</color> with this shard offer!  <color=#fff568>Cosmic Ghost Rider</color> removes Battlefield Effects, be it friend or foe!"
+ID_OF_DE_COSMICGHOSTRIDER_UNLOCK_OFFER,"Unlock <color=#fff568>Cosmic Ghost Rider</color> now!  <color=#fff568>Cosmic Ghost Rider</color> removes Battlefield Effects, be it friend or foe!"
+ID_OF_STOREBAR_COSMICGHOSTRIDER,Dual Offer: Cosmic Ghost Rider
+ID_OF_NA_DUAL_COSMICGHOSTRIDER,Dual Offer: Cosmic Ghost Rider
+ID_OF_DE_DUAL_COSMICGHOSTRIDER,Choose your path to power up this <color=#fff568>Out of Time</color> member!
+ID_OF_DE_DUAL_UNLOCK_COSMICGHOSTRIDER,Unlock this <color=#fff568>Out of Time</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_COSMICGHOSTRIDER_FCO_OFFER_BASIC,Cosmic Ghost Rider Release Offer
+ID_OF_NA_COSMICGHOSTRIDER_WEB_EXTRA_FCO_OFFER,Cosmic Ghost Rider Unlock Offer
+ID_OF_DE_COSMICGHOSTRIDER_WEB_EXTRA_FCO_OFFER,"The Interstellar Reaper, <color=#fff568>Cosmic Ghost Rider</color>, has arrived!"
+ID_OF_NA_COSMICGHOSTRIDER_WEB_SPECIAL_OFFER,Interstellar Reaper Special
+ID_OF_DE_COSMICGHOSTRIDER_WEB_SPECIAL_OFFER,"<color=#fff568>Web Special!</color> <color=#fff568>Cosmic Ghost Rider</color> removes Battlefield Effects, be it friend or foe!"
+ID_OF_NA_MONTHLYSPECIAL_FORGESUNSPOT,X-Treme March Special
+ID_OF_NA_WEBEXCLUSIVE_GOLD5P,Bankroll your Roster
+ID_OF_NA_WEBEXCLUSIVE_TRAINING5P,Train with the Best
+ID_OF_NA_WEBEXCLUSIVE_GT1810P,Amazing Armory
+ID_OF_NA_WEBEXCLUSIVE_T2L5ISO10P,Electrify and Ionize
+ID_OF_NA_WEBEXCLUSIVE_ENERGY10P,Limitless Energy
+ID_OF_DE_MONTHLYSPECIAL_FORGESUNSPOT,Take your raids to the <color=#ffda21>X-Treme</color> with this special Web-Exclusive offer!
+ID_OF_DE_WEBEXCLUSIVE_GOLD5P,Expand your roster's potential with more Gold to develop and power up your roster with this Web-Exclusive offer!
+ID_OF_DE_WEBEXCLUSIVE_TRAINING5P,Reward yourself with more Training Modules to power up your roster with this Web-Exclusive offer!
+ID_OF_DE_WEBEXCLUSIVE_GT1810P,Open the armory of gear needed for your characters to reach new tiers of power with this Web-Exclusive offer!
+ID_OF_DE_WEBEXCLUSIVE_T2L5ISO10P,Get your top teams powered up to take on the threat of Apocalypse with this Web-Exclusive offer!
+ID_OF_DE_WEBEXCLUSIVE_ENERGY10P,Advance in your campaigns and earn more items with this amazing Web-Exclusive energy offer!
+ID_OF_DE_6YR_NU_SALE,Celebrate MARVEL Strike Force's 6th Anniversary and level up your roster with this special offer!
+ID_OF_NA_XFORCE_OFFER_1,X-Force Team Bundle
+ID_OF_DE_XFORCE_OFFER_VAR,Build your X-Force team by teaming up Deadpool with these X-Force team members!
+ID_OF_DE_SPIDERMAN2099_SPIDERMANNOIR_OFFER,Build your Tangled Web team by teaming up Spider Weaver with Spider-Man (Noir) and Spider-Man 2099!
+ID_OF_NA_DAWNOFTIME_STARTER_MEGA,Before The Dawn
+ID_OF_NA_DAWNOFTIME_STARTER_SUPER,Early Riser
+ID_OF_NA_DAWNOFTIME_STARTER,One Step Ahead
+ID_OF_NA_DAWNOFTIME_BOOSTER_ANCHOR,Daily Acceleration
+ID_OF_NA_DAWNOFTIME_MEGA,Time Dilation
+ID_OF_NA_DAWNOFTIME_LEGACY,Past and Present
+ID_OF_NA_DAWNOFTIME_SYMBIOTE,Dawn of the Symbiotes
+ID_OF_NA_DAWNOFTIME_FORGE,Like Clockwork
+ID_OF_NA_DAWNOFTIME_CATS,Event Catalysts
+ID_OF_NA_DAWNOFTIME_TRAINING,Early Risers Only
+ID_OF_NA_DAWNOFTIME_GOLD,Golden Hour
+ID_OF_NA_DAWNOFTIME_DPC,Power and Speed
+ID_OF_NA_DAWNOFTIME_AB,Dawn of Time: Special Bundle
+ID_OF_NA_DAWNOFTIME_CATCHUP_MEGA,Dawn of Time: Mega Catch-Up
+ID_OF_NA_DAWNOFTIME_CATCHUP_SUPER,Dawn of Time: Super Catch-Up
+ID_OF_NA_DAWNOFTIME_CATCHUP_LAST_CHANCE,Time is Running Out
+ID_OF_NA_DAWNOFTIME_FREEDAILY,Dawn of Time: Free Claim
+ID_OF_DE_DAWNOFTIME_STARTER_MEGA,"Stock up on <color=#fff568>Dawn of Time</color> progress and exclusive items, and get ahead on the Dawn of Time Leaderboard for <color=#fff568>up to 6 Diamond Orbs</color> and <color=#fff568>up to 2 Diamond Champions Orbs</color>!"
+ID_OF_DE_DAWNOFTIME_STARTER_SUPER,Get ahead in the <color=#fff568>Dawn of Time</color> milestone and fast-forward your way to the <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>fully crafted Gear Tier 18 pieces</color>!
+ID_OF_DE_DAWNOFTIME_STARTER,Start off strong in the <color=#fff568>Dawn of Time</color> milestone!
+ID_OF_DE_DAWNOFTIME_BOOSTER_ANCHOR,Make consistent <color=#fff568>Dawn of Time</color> progress with this daily <color=#fff568>Hourglasses</color> supply!
+ID_OF_DE_DAWNOFTIME_MEGA,Stock up on <color=#fff568>Dawn of Time event progress</color> and <color=#fff568>Mega Orbs</color> with this special deal!
+ID_OF_DE_DAWNOFTIME_LEGACY,Stock up on <color=#fff568>Dawn of Time event progress</color> and <color=#fff568>Legacy Orbs</color> with this special deal!
+ID_OF_DE_DAWNOFTIME_SYMBIOTE,Stock up on <color=#fff568>Dawn of Time event progress</color> and <color=#fff568>Symbiotes shards</color> with this special deal!
+ID_OF_DE_DAWNOFTIME_FORGE,Stock up on <color=#fff568>Dawn of Time event progress</color> and <color=#fff568>Forge shards</color> with this special deal!
+ID_OF_DE_DAWNOFTIME_CATS,Stock up on <color=#fff568>Dawn of Time event progress</color> and <color=#fff568>Catalyst Parts</color> with this special deal!
+ID_OF_DE_DAWNOFTIME_TRAINING,Stock up on <color=#fff568>Dawn of Time event progress</color> and <color=#fff568>Training Modules</color> with this special deal!
+ID_OF_DE_DAWNOFTIME_GOLD,Stock up on <color=#fff568>Dawn of Time event progress</color> and <color=#fff568>Gold</color> with this special deal!
+ID_OF_DE_DAWNOFTIME_DPC,Stock up on <color=#fff568>Dawn of Time event progress</color> and <color=#fff568>Dark Promotion Credits</color> with this special deal!
+ID_OF_DE_DAWNOFTIME_AB,Stock up on <color=#fff568>Dawn of Time event progress</color> and <color=#fff568>Ability Materials</color> with this special deal!
+ID_OF_DE_DAWNOFTIME_CATCHUP_MEGA,"Finish strong in the milestones and leaderboards for <color=#fff568>T2 Level 5 Ions</color>, <color=#fff568>fully crafted Gear Tier 18 pieces</color> and <color=#fff568>up to 6 Diamond Orbs</color>!"
+ID_OF_DE_DAWNOFTIME_CATCHUP_SUPER,Finish strong in the milestones for <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>fully crafted Gear Tier 18 pieces</color>!
+ID_OF_DE_DAWNOFTIME_CATCHUP_LAST_CHANCE,"Catch this deal before it's too late to earn your final <color=#fff568>fully crafted Gear Tier 18 pieces</color> and <color=#fff568>Diamond Orbs</color>! "
+ID_OF_DE_DAWNOFTIME_FREEDAILY,Come back daily for more <color=#fff568>Dawn of Time</color> progress!

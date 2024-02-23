@@ -2687,9 +2687,9 @@ ID_MOTD_DE_BLASTOFFTO100_ENDING,Choose Event Store loot with Century Credits!
 ID_MOTD_NA_LEVELLIFTOFF_ANNOUNCE,Web Milestone: Level Liftoff
 ID_MOTD_DE_LEVELLIFTOFF_ANNOUNCE,Battle in Raids and head to the web for more rewards!
 ID_MOTD_NA_ALLIEDENGINES_ANNOUNCE,LIVE: Allied Engines
-ID_MOTD_DE_ALLIEDENGINES_ANNOUNCE,Earn a 3-Diamond Venom!
+ID_MOTD_DE_ALLIEDENGINES_ANNOUNCE,Earn Training Modules!
 ID_MOTD_NA_ALLIEDENGINES_ENDING,Ending Soon: Allied Engines
-ID_MOTD_DE_ALLIEDENGINES_ENDING,Earn a 3-Diamond Venom!
+ID_MOTD_DE_ALLIEDENGINES_ENDING,Earn Training Modules!
 ID_MOTD_NA_MACHINESOFWAR_ANNOUNCE,LIVE: Machines of War
 ID_MOTD_DE_MACHINESOFWAR_ANNOUNCE,Battle in Alliance War for glorious rewards!
 ID_MOTD_NA_GWENOM_TEASER,Soon: Gwenom
@@ -2796,3 +2796,7 @@ ID_MOTD_NA_BATTLEPASS_SEASON16_ANNOUNCE,LIVE: Season 16 of Battle Pass
 ID_MOTD_DE_BATTLEPASS_SEASON16_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
 ID_MOTD_NA_MSF6_PUSH,Free Vahlcome Back Gift!
 ID_MOTD_DE_MSF6_PUSH,"Tap now for our biggest calendar yet: Free Vahl, Bifrost team, and big resources!"
+ID_MOTD_NA_DAWNOFTIME_ANNOUNCE,LIVE: Dawn of Time
+ID_MOTD_DE_DAWNOFTIME_ANNOUNCE,Earn fully crafted Gear Tier 18 Gear!
+ID_MOTD_NA_DAWNOFTIME_ENDING,Ending Soon: Dawn of Time
+ID_MOTD_DE_DAWNOFTIME_ENDING,Earn Teal Gear before the event ends!
