@@ -5758,6 +5758,8 @@ ID_OF_NA_SEEINGRED_CATCHUP_MEGA,Seeing Red: Mega Catch-Up
 ID_OF_NA_SEEINGRED_CATCHUP_SUPER,Seeing Red: Super Catch-Up
 ID_OF_NA_SEEINGRED_CATCHUP_LAST_CHANCE,Seeing Red: Last Chance
 ID_OF_NA_SEEINGRED_FREEDAILY,Seeing Red: Free Claim
+ID_OF_NA_SEEINGRED_LEAPYEAR_FREE,Seeing Red: Leap Year Free Claim
+ID_OF_DE_SEEINGRED_LEAPYEAR_FREE,Get more <color=#f12603>Seeing Red</color> progress on this additional day in February!
 ID_OF_DE_SEEINGRED_STARTER_MEGA,"Stock up on <color=#f12603>Seeing Red</color> progress and exclusive items, and get ahead on the Seeing Red Leaderboard for <color=#f12603>up to 3,900 Dark Diamond Credits</color> and <color=#f12603>up to 6 Diamond Orbs</color>!"
 ID_OF_DE_SEEINGRED_STARTER_SUPER,Get ahead in the <color=#f12603>Seeing Red</color> milestone and fast-forward your way to the <color=#f12603>Red Goblin shards</color> and <color=#f12603>fully crafted Gear Tier 17 pieces</color>!
 ID_OF_DE_SEEINGRED_STARTER,Start off strong in the <color=#f12603>Seeing Red</color> milestone!
@@ -6496,7 +6498,7 @@ ID_OF_NA_DAWNOFTIME_CATCHUP_SUPER,Dawn of Time: Super Catch-Up
 ID_OF_NA_DAWNOFTIME_CATCHUP_LAST_CHANCE,Time is Running Out
 ID_OF_NA_DAWNOFTIME_FREEDAILY,Dawn of Time: Free Claim
 ID_OF_DE_DAWNOFTIME_STARTER_MEGA,"Stock up on <color=#fff568>Dawn of Time</color> progress and exclusive items, and get ahead on the Dawn of Time Leaderboard for <color=#fff568>up to 6 Diamond Orbs</color> and <color=#fff568>up to 2 Diamond Champions Orbs</color>!"
-ID_OF_DE_DAWNOFTIME_STARTER_SUPER,Get ahead in the <color=#fff568>Dawn of Time</color> milestone and fast-forward your way to the <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>fully crafted Gear Tier 18 pieces</color>!
+ID_OF_DE_DAWNOFTIME_STARTER_SUPER,Get ahead in the <color=#fff568>Dawn of Time</color> milestone and fast-forward your way to the <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>fully crafted Gear Tier 17 gear</color>!
 ID_OF_DE_DAWNOFTIME_STARTER,Start off strong in the <color=#fff568>Dawn of Time</color> milestone!
 ID_OF_DE_DAWNOFTIME_BOOSTER_ANCHOR,Make consistent <color=#fff568>Dawn of Time</color> progress with this daily <color=#fff568>Hourglasses</color> supply!
 ID_OF_DE_DAWNOFTIME_MEGA,Stock up on <color=#fff568>Dawn of Time event progress</color> and <color=#fff568>Mega Orbs</color> with this special deal!
@@ -6508,9 +6510,9 @@ ID_OF_DE_DAWNOFTIME_TRAINING,Stock up on <color=#fff568>Dawn of Time event progr
 ID_OF_DE_DAWNOFTIME_GOLD,Stock up on <color=#fff568>Dawn of Time event progress</color> and <color=#fff568>Gold</color> with this special deal!
 ID_OF_DE_DAWNOFTIME_DPC,Stock up on <color=#fff568>Dawn of Time event progress</color> and <color=#fff568>Dark Promotion Credits</color> with this special deal!
 ID_OF_DE_DAWNOFTIME_AB,Stock up on <color=#fff568>Dawn of Time event progress</color> and <color=#fff568>Ability Materials</color> with this special deal!
-ID_OF_DE_DAWNOFTIME_CATCHUP_MEGA,"Finish strong in the milestones and leaderboards for <color=#fff568>T2 Level 5 Ions</color>, <color=#fff568>fully crafted Gear Tier 18 pieces</color> and <color=#fff568>up to 6 Diamond Orbs</color>!"
-ID_OF_DE_DAWNOFTIME_CATCHUP_SUPER,Finish strong in the milestones for <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>fully crafted Gear Tier 18 pieces</color>!
-ID_OF_DE_DAWNOFTIME_CATCHUP_LAST_CHANCE,"Catch this deal before it's too late to earn your final <color=#fff568>fully crafted Gear Tier 18 pieces</color> and <color=#fff568>Diamond Orbs</color>! "
+ID_OF_DE_DAWNOFTIME_CATCHUP_MEGA,"Finish strong in the milestones and leaderboards for <color=#fff568>T2 Level 5 Ions</color>, <color=#fff568>fully crafted Gear Tier 17 gear</color> and <color=#fff568>up to 6 Diamond Orbs</color>!"
+ID_OF_DE_DAWNOFTIME_CATCHUP_SUPER,Finish strong in the milestones for <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>fully crafted Gear Tier 17 gear</color>!
+ID_OF_DE_DAWNOFTIME_CATCHUP_LAST_CHANCE,"Catch this deal before it's too late to earn your final <color=#fff568>fully crafted Gear Tier 17 gear</color> and <color=#fff568>Diamond Orbs</color>! "
 ID_OF_DE_DAWNOFTIME_FREEDAILY,Come back daily for more <color=#fff568>Dawn of Time</color> progress!
 ID_OF_NA_ANNIV24_KESTRELCHAIN1,Kestrel's S.T.R.I.K.E. Package 1/4
 ID_OF_NA_ANNIV24_KESTRELCHAIN2,Kestrel's S.T.R.I.K.E. Package 2/4
@@ -6536,7 +6538,7 @@ ID_OF_NA_ANNIV24_GOLDISO,Glimmer of Ions
 ID_OF_DE_ANNIV24_KESTRELCHAIN1,Thank you for purchasing an Anniversary offer! Please enjoy this free claim! Continue through this chain to unlock a free claim with <color=#ffda21>Diamond Orb Fragments</color> at the end!
 ID_OF_DE_ANNIV24_KESTRELCHAIN2,Continue through this chain to unlock a free claim with <color=#ffda21>Diamond Orb Fragments</color> at the end!
 ID_OF_DE_ANNIV24_KESTRELCHAIN3,Continue through this chain to unlock a free claim with <color=#ffda21>Diamond Orb Fragments</color> at the end!
-ID_OF_DE_ANNIV24_KESTRELCHAIN4,You've exhaused Kestrel's special package. Stay tuned for future S.T.R.I.K.E. packages!
+ID_OF_DE_ANNIV24_KESTRELCHAIN4,You've exhausted Kestrel's special package. Stay tuned for future S.T.R.I.K.E. packages!
 ID_OF_DE_ANNIV24_A18TRAINE7CATPACK,Seize this cache of supplies to strengthen your roster! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_ANNIV24_PROMOCAL7D,Let your roster give in to the darkness with a week's worth of <color=#d10000>Dark Promotion Credits and Dark Diamond Credits</color>! <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_ANNIV24_GOLDABM,Upgrade your top character's best abilities with this special deal on <color=#ffda21>T4 Ability Materials</color>! <color=#ffda21>Greater than a {var1}x value</color>!
