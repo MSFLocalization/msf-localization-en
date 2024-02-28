@@ -8162,7 +8162,7 @@ ID_ME_DE_STRIKEPASS51_ENDING,Don't miss Nightcrawler shards!
 ID_ME_BO_STRIKEPASS51_ENDING,"Commander,\n\nYou only have <color=#fff568>2 days</color> remaining to earn <color=#fff568>Nightcrawler</color> shards in Season 51 of S.T.R.I.K.E. Pass.\n\nHurry and complete your Daily Objectives before these rewards are gone!"
 ID_ME_NA_MACHINESOFWAR_ANNOUNCE,LIVE: Machines of War
 ID_ME_DE_MACHINESOFWAR_ANNOUNCE,Battle in Alliance War for glorious rewards!
-ID_ME_BO_MACHINESOFWAR_ANNOUNCE,"Commander,\n\nCollaborate with your alliance and battle in War in this 4-day milestone to earn Mechanical Marvel progress.\n\nGood luck, Commander!"
+ID_ME_BO_MACHINESOFWAR_ANNOUNCE,"Commander,\n\nCollaborate with your alliance and battle in War in this 7-day milestone to earn Dawn of Time progress.\n\nGood luck, Commander!"
 ID_ME_NA_PEGASUS_FOUNTAIN,Recruit P.E.G.A.S.U.S.!
 ID_ME_BO_PEGASUS_FOUNTAIN,"Commander,\n\n<color=#fff568>Iron Man (Infinity War)</color> character shards are now available in the <color=#fff568>Cosmic Crucible Store</color> for Elite Crucible Credits.\n\n<color=#fff568>Darkhawk</color> character shards are now available in <color=#fff568>Hard Heroes 7-6</color>, replacing Morbius who remains available in the Blitz Store.\n\n<color=#fff568>Ironheart (MKII)</color> character shards now available in the <color=#fff568>War Store</color> for War Credits."
 ID_ME_NA_GWENOM_TEASER,Coming Soon: Gwenom
@@ -8417,3 +8417,10 @@ ID_ME_BO_DAWNOFTIME_ANNOUNCE,"Commander,\n\nEarn spectacular rewards by particip
 ID_ME_NA_DAWNOFTIME_ENDING,Ending Soon: Dawn of Time
 ID_ME_DE_DAWNOFTIME_ENDING,3 days left to earn rewards!
 ID_ME_BO_DAWNOFTIME_ENDING,"Commander,\n\nThe <color=#fff568>Dawn of Time</color> Event ends in <color=#fff568>3 days</color>. Continue earning progress toward the milestone before it's too late!\n\nGood luck, Commander!"
+ID_ME_NA_HISTORICHEIST_TEASER,Coming Soon: Historic Heist
+ID_ME_DE_HISTORICHEIST_CORE,Earn Black Cat Diamonds and Bio Gear!
+ID_ME_BO_HISTORICHEIST_CORE,"Commander,\n\nGet ready for the heist of a lifetime!\n\n<color=#fff568>Historic Heist</color>\nGain progress in this <color=#fff568>7-day</color> event by earning Anniversary Orb Fragments from Campaign nodes, Free Claims and special Offers, and by playing Cosmic Crucible battles. \n\nEarn shining rewards including <color=#fff568>Void Knight shards, Diamond Orb Fragments, and Teal Bio gear</color>. You'll also earn points towards the Dawn of Time milestone by collecting Hourglasses and the Astral Meteorite. Keep an eye on the web for Free Claims containing Anniversary Orb Fragments every day!\n\n<color=#fff568>Timeless Treasures Web Milestone</color>\nEarn Alliance Credits and be rewarded with Teal Catalysts and progress in the Historic Heist Milestone.\n\nGood luck, Commander!"
+ID_ME_NA_HISTORICHEIST_ANNOUNCE,LIVE: Historic Heist
+ID_ME_NA_HISTORICHEIST_ENDING,ENDING: Historic Heist
+ID_ME_DE_HISTORICHEIST_ENDING,Don't miss out on Black Cat Diamonds!
+ID_ME_BO_HISTORICHEIST_ENDING,"Commander,\n\nThe Historic Heist Event <color=#fff568>ends soon</color>. Continue making progress to earn Black Cat Diamonds, Dark Promotion Credits, and Hourglasses! \n\nGood luck, Commander!"

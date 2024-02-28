@@ -3933,10 +3933,10 @@ ID_QU_S4_ALLIEDENGINES,Battle in Raids with Hive-Mind at 5 Yellow Stars
 ID_QU_S5_ALLIEDENGINES,Battle in Raids with Hive-Mind at 6 Yellow Stars
 ID_QU_S6_ALLIEDENGINES,Battle in Raids with Hive-Mind at 7 Yellow Stars
 ID_QU_NA_MACHINESOFWAR,Machines of War
-ID_QU_SD_MACHINESOFWAR,Battle in War and Earn Allied Supply III Orb Fragments
-ID_QU_LD_MACHINESOFWAR,"Machines of War Milestone\nGain progress in this 4-day event by battling in Alliance War and earning Allied Supply III Orb fragments from daily Free Claims and special offers. Earn incredible rewards including Elite Credits, and T2 Level 5 Ion Orbs. You'll also earn points towards the month-long Mechanical Marvel milestone by collecting X-Batteries."
+ID_QU_SD_MACHINESOFWAR,Battle in War and Earn Allied Supply IV Orb Fragments
+ID_QU_LD_MACHINESOFWAR,"Machines of War Milestone\nGain progress in this 7-day event by battling in Alliance War and earning Allied Supply IV Orb fragments from daily Free Claims and special offers. Earn incredible rewards including Origin gear, Gold and Armory Orbs. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses."
 ID_QU_S1_MACHINESOFWAR,Play 1 War Battle
-ID_QU_S2_MACHINESOFWAR,Earn 1 Allied Supply III Orb Fragment
+ID_QU_S2_MACHINESOFWAR,Earn 1 Allied Supply IV Orb Fragment
 ID_QU_NA_RACETOTHETOP,Race to the Top
 ID_QU_SD_RACETOTHETOP,Level your Characters to 100
 ID_QU_SC_RACETOTHETOP,Level up Characters from 95 to 100
@@ -4105,3 +4105,14 @@ ID_QU_S2_DAWNOFTIME,Collect 1 T-Rex Tooth
 ID_QU_S3_DAWNOFTIME,Collect 1 Astral Meteorite
 ID_QU_S4_DAWNOFTIME,Collect 1 Cosmic Tire
 ID_QU_S5_DAWNOFTIME,Collect 1 Patriot Coin
+ID_QU_NA_HISTORICHEIST,Historic Heist
+ID_QU_SD_HISTORICHEIST,Earn Black Cat Diamonds!
+ID_QU_LM_HISTORICHEIST,"Historic Heist\nGain progress in this 7-day event by earning Anniversary Orb Fragments from Campaign nodes, Free Claims and special Offers, and by playing Cosmic Crucible battles. \n\nEarn shining rewards including Void Knight shards, Diamond Orb Fragments, and Teal Bio gear. You'll also earn points towards the Dawn of Time milestone by collecting Hourglasses and the Astral Meteorite. Keep an eye on the web for Free Claims containing Anniversary Orb Fragments every day!\n\nTimeless Treasures Web Milestone\nEarn Alliance Credits and be rewarded with Teal Catalysts and progress in the Historic Heist Milestone."
+ID_QU_SM_HISTORICHEIST,"Collect Orbs, Battle in Cosmic Crucible"
+ID_QU_SC_HISTORICHEIST,Collect Anniversary Orbs and Battle in Cosmic Crucible
+ID_QU_S1_HISTORICHEIST,Earn 1 Anniversary Orb Fragment
+ID_QU_S2_HISTORICHEIST,Battle in Cosmic Crucible
+ID_QU_NA_TIMELESSTREASURES,Timeless Treasures
+ID_QU_SD_TIMELESSTREASURES,Earn Alliance Credits
+ID_QU_LD_TIMELESSTREASURES,Earn Alliance Credits to complete this milestone that rewards Teal Catalysts and progress in the Historic Heist milestone!
+ID_QU_S1_TIMELESSTREASURES,Earn 1 Alliance Credit

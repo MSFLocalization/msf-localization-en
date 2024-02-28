@@ -210,10 +210,10 @@ ID_EVENT_CUR2_NAME,Gear Credits
 ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
 ID_EVENT_CUR3_NAME,Candy Shop
 ID_EVENT_CUR3_DESCRIPTION,Spend Heart Candy at the Candy Shop. Only for a limited time.
-ID_EVENT_CUR4_NAME,Blastoff to 100 Milestone Points
-ID_EVENT_CUR4_DESCRIPTION,"These points earn you additional progress in the Blastoff to 100 Milestone. Earn them in Daily Free Claims on our website, the Level Liftoff Web Milestone, and limited offers!"
-ID_EVENT_CUR5_NAME,Century Credit
-ID_EVENT_CUR5_DESCRIPTION,"Collect Century Credits to spend in the Century Credit Event Store. Earn them from Campaign nodes, the Level Liftoff Web Milestone, Daily Free Claims on our website, and in special offers!"
+ID_EVENT_CUR4_NAME,Historic Heist Milestone Points
+ID_EVENT_CUR4_DESCRIPTION,These points earn you additional progress in the Historic Heist Milestone. Earn them in limited offers!
+ID_EVENT_CUR5_NAME,Allied Engines Milestone Points
+ID_EVENT_CUR5_DESCRIPTION,These points earn you additional progress in the Allied Engines Milestone. Earn them in limited offers!
 ID_EVENT_CUR6_NAME,Machines of War Milestone Points
 ID_EVENT_CUR6_DESCRIPTION,These points earn you additional progress in the Machines of War Milestone. Earn them in limited offers!
 ID_EVENT_CUR7_NAME,Symbiote of the Spaceways Milestone Points

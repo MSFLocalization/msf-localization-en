@@ -5826,16 +5826,16 @@ ID_OF_DE_LEVEL100_XPBIGPOST,Level 100 Is Here! Get instant progress with this sp
 ID_OF_DE_LEVEL100_XPSMALLPOST,Don't Delay! Progress immediately towards Level 100 with this limited time offer!
 ID_OF_NA_BLASTOFFTO100_WEBSPECIAL,Blastoff to 100: Web Special
 ID_OF_DE_BLASTOFFTO100_WEBSPECIAL,Reach new heights in the <color=#fff568>Blastoff to 100 leaderboard</color> with this special web bundle!
-ID_OF_NA_MACHINESOFWAR_STARTER,Machines of War: Starter Bundle
-ID_OF_NA_MACHINESOFWAR_CATCHUP,Machines of War: Catch-Up Bundle
-ID_OF_NA_MACHINESOFWAR_WAR,Machines of War: Battle Supply
-ID_OF_NA_MACHINESOFWAR_EVENTORB,Machines of War: Orb Supply
+ID_OF_NA_MACHINESOFWAR_STARTER,Prepare for War
+ID_OF_NA_MACHINESOFWAR_CATCHUP,Final Offensive
+ID_OF_NA_MACHINESOFWAR_WAR,Warfare Fuel
+ID_OF_NA_MACHINESOFWAR_EVENTORB,Allied Supplies
 ID_OF_NA_MACHINESOFWAR_INTERSTITIAL,Machines of War: Supply Special
 ID_OF_NA_MACHINESOFWAR_FREE,Machines of War: Daily Orb Drop
-ID_OF_DE_MACHINESOFWAR_STARTER,Get a head start in the <color=#fff568>Machines of War</color> Milestone and get high value Iso-8 rewards!
-ID_OF_DE_MACHINESOFWAR_CATCHUP,Push your alliance to the finish line in the <color=#fff568>Machines of War</color> Milestone and get T2 Level 4 Ions and Iso-8 Orbs containing guaranteed T2 Level 5 Ions!
+ID_OF_DE_MACHINESOFWAR_STARTER,"Get a head start in the <color=#fff568>Machines of War</color> Milestone to earn gear, Gold and Armory Orbs!"
+ID_OF_DE_MACHINESOFWAR_CATCHUP,"Push your alliance to the finish line in the <color=#fff568>Machines of War</color> Milestone to earn gear, Gold and Armory Orbs!"
 ID_OF_DE_MACHINESOFWAR_WAR,Take advantage of this special deal to get the edge in War and help your Alliance progress in the <color=#fff568>Machines of War</color> milestone!
-ID_OF_DE_MACHINESOFWAR_EVENTORB,"Get these orbs for <color=#fff568>Machines of War</color> progress and open them for special Iso-8 Orbs containing T2 Level 5 Ions guaranteed! "
+ID_OF_DE_MACHINESOFWAR_EVENTORB,"Get these orbs for <color=#fff568>Machines of War</color> progress and open them for Gold, T2 Level 5 Ion Orb Fragments and more! "
 ID_OF_DE_MACHINESOFWAR_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Machines of War</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_MACHINESOFWAR_FREE,Come back daily for more <color=#fff568>Machines of War</color> progress!
 ID_OF_NA_MONTHLYSPECIAL_LIZARD,January Web Special: Reptilian Wrecking Ball
@@ -6556,3 +6556,29 @@ ID_OF_DE_ANNIV24_TRAINSTATCATS,Claim a bundle of <color=#fff568>Teal Gear Cataly
 ID_OF_DE_ANNIV24_NIGHTCRAWLERUNIQUE,Help <color=#ffda21>Nightcrawler</color> wreak havoc on your enemies with this special deal! <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_ANNIV24_KRAVEND7RS,Mark this offer as your prey & power up <color=#ffda21>Kraven The Hunter</color> today. <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_ANNIV24_GOLDISO,Take advantage of this special offer of <color=#ffda21>Gold & T2 Iso-8 Ion Orbs</color>! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_NA_HISTORICHEIST_MEGA_STARTER,Historic Heist: Mega Starter
+ID_OF_NA_HISTORICHEIST_STARTER,Historic Heist: Starter
+ID_OF_NA_HISTORICHEIST_MEGA_CATCHUP,Historic Heist: Mega Catch-up
+ID_OF_NA_HISTORICHEIST_CATCHUP,Historic Heist: Catch-up
+ID_OF_NA_HISTORICHEIST_DAILY_ORB,Historic Heist: Daily Orb
+ID_OF_NA_HISTORICHEIST_WEB_SPECIAL,Historic Heist Web Special
+ID_OF_NA_HISTORICHEIST_DAILY_ENERGY,Historic Heist: Daily Energy
+ID_OF_NA_HISTORICHEIST_DAILY_POINTS,Historic Heist: Daily Points
+ID_OF_NA_HISTORICHEIST_FREECLAIM,Historic Heist: Free Claim
+ID_OF_NA_HISTORICHEIST_DAILY_INTERSTITIAL,Historic Heist: Hidden Trove
+ID_OF_NA_HISTORICHEIST_FCF,Free Claim Friday!
+ID_OF_NA_HISTORICHEIST_FCF_INTERSTITIAL,Friday Mega Deal
+ID_OF_NA_HISTORICHEIST_GENERIC,Historic Heist: Special Bundle
+ID_OF_DE_HISTORICHEIST_MEGA_STARTER,Get ahead in the <color=#fff568>Historic Heist</color> Milestone and Leaderboard and fast-forward your way to <color=#fff568>Black Cat Diamonds</color> and <color=#fff568>Teal Bio Gear</color>!
+ID_OF_DE_HISTORICHEIST_STARTER,Get ahead in the <color=#fff568>Historic Heist</color> Milestone and Leaderboard and fast-forward your way to <color=#fff568>Black Cat Diamonds</color> and <color=#fff568>Teal Bio Gear</color>!
+ID_OF_DE_HISTORICHEIST_MEGA_CATCHUP,Finish strong in the milestones and leaderboard to earn <color=#fff568>Black Cat Diamonds</color> and <color=#fff568>Teal Bio Gear</color>!
+ID_OF_DE_HISTORICHEIST_CATCHUP,Finish strong in the milestones and leaderboard to earn <color=#fff568>Black Cat Diamonds</color> and <color=#fff568>Teal Bio Gear</color>!
+ID_OF_DE_HISTORICHEIST_DAILY_ORB,Make progress in the Historic Heist milestone by collecting more <color=#fff568>Anniversary Orbs</color>!
+ID_OF_DE_HISTORICHEIST_WEB_SPECIAL,"Claim this mega deal to get ahead in the <color=#fff568>Historic Heist</color> Milestone and Leaderboard, and fast-forward your way to <color=#fff568>Black Cat Diamonds</color> and <color=#fff568>Teal Bio Gear</color>!"
+ID_OF_DE_HISTORICHEIST_DAILY_ENERGY,Get your daily energy fix to get ahead in the <color=#fff568>Historic Heist</color> Milestone!
+ID_OF_DE_HISTORICHEIST_DAILY_POINTS,Come back daily for more <color=#fff568>Historic Heist</color> progress!
+ID_OF_DE_HISTORICHEIST_FREECLAIM,Come back daily for more <color=#fff568>Historic Heist</color> progress!
+ID_OF_DE_HISTORICHEIST_DAILY_INTERSTITIAL,Get boosted <color=#fff568>Historic Heist</color> progress with this daily trove of resources!
+ID_OF_DE_HISTORICHEIST_FCF,Get ahead in the <color=#fff568>Historic Heist</color> Milestone and Leaderboard and fast-forward your way to <color=#fff568>Black Cat Diamonds</color> and <color=#fff568>Teal Bio Gear</color>!
+ID_OF_DE_HISTORICHEIST_FCF_INTERSTITIAL,Finish strong in the milestones and leaderboard to earn <color=#fff568>Black Cat Diamonds</color> and <color=#fff568>Teal Bio Gear</color>!
+ID_OF_DE_HISTORICHEIST_GENERIC,Make progress in the Historic Heist milestone!
