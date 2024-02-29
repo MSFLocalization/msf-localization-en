@@ -2799,6 +2799,11 @@ ID_MOTD_DE_MSF6_PUSH,"Tap now for our biggest calendar yet: Free Vahl, Bifrost t
 ID_MOTD_NA_DAWNOFTIME_ANNOUNCE,LIVE: Dawn of Time
 ID_MOTD_DE_DAWNOFTIME_ANNOUNCE,Earn fully crafted Gear Tier 17 gear!
 ID_MOTD_NA_DAWNOFTIME_ENDING,Ending Soon: Dawn of Time
+ID_MOTD_NA_PRIMORDIALAVENGER_ANNOUNCE,LIVE: Primordial Avenger
+ID_MOTD_DE_PRIMORDIALAVENGER_ANNOUNCE,Unlock Starbrand and earn Mutant Gear
+ID_MOTD_NA_PRIMORDIALAVENGER_ENDING,Ending Soon: Primordial Avenger
+ID_MOTD_DE_PRIMORDIALAVENGER_ENDING,Don't miss out on unlocking Starbrand!
+ID_MOTD_NA_WILDGENESIS_ANNOUNCE,Web Milestone: Wild Genesis
 ID_MOTD_DE_DAWNOFTIME_ENDING,Earn Teal Gear before the event ends!
 ID_MOTD_NA_HISTORICHEIST_ANNOUNCE,LIVE: Historic Heist
 ID_MOTD_DE_HISTORICHEIST_ANNOUNCE,Earn Black Cat Diamonds!
@@ -2806,3 +2811,5 @@ ID_MOTD_NA_HISTORICHEIST_ENDING,Ending Soon: Historic Heist
 ID_MOTD_DE_HISTORICHEIST_ENDING,Earn Black Cat Diamonds!
 ID_MOTD_NA_TIMELESSTREASURES_ANNOUNCE,Web Milestone: Timeless Treasures
 ID_MOTD_DE_TIMELESSTREASURES_ANNOUNCE,Link your account to earn more rewards on web!
+ID_MOTD_NA_LEGACYREEL_ANNOUNCE,#MSF6 Legacy Reel
+ID_MOTD_DE_LEGACYREEL_ANNOUNCE,Watch your Legacy Reel - celebrate six years of MARVEL Strike Force!

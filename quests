@@ -4105,6 +4105,26 @@ ID_QU_S2_DAWNOFTIME,Collect 1 T-Rex Tooth
 ID_QU_S3_DAWNOFTIME,Collect 1 Astral Meteorite
 ID_QU_S4_DAWNOFTIME,Collect 1 Cosmic Tire
 ID_QU_S5_DAWNOFTIME,Collect 1 Patriot Coin
+ID_QU_NA_WILDGENESIS,Wild Genesis
+ID_QU_SD_WILDGENESIS,Earn Blitz Credits
+ID_QU_LD_WILDGENESIS,Earn Blitz Credits to complete this 7-day milestone that rewards Silver and Gold Promotion Credits and Primordial Avenger progress!
+ID_QU_NA_PRIMORDIALAVENGER,Primordial Avenger
+ID_QU_SD_PRIMORDIALAVENGER,"War, Iso-8 Campaign, and Event Orbs"
+ID_QU_LD_PRIMORDIALAVENGER,"Earn Ancient Rage Orb Fragments from Iso-8 Campaign and battle in War with Out of Time characters.\n\nRewards include: Diamond Orbs, Gold Promotion Credits, Mutant gear, Starbrand shards, and more!"
+ID_QU_S1_PRIMORDIALAVENGER,Earn 1 Ancient Rage Orb Fragment
+ID_QU_S2_PRIMORDIALAVENGER,Play 1 War Battle with an Out of Time Character
+ID_QU_S3_PRIMORDIALAVENGER,Use Black Knight in War
+ID_QU_S4_PRIMORDIALAVENGER,Use Black Knight in War at 5 Yellow Stars
+ID_QU_S5_PRIMORDIALAVENGER,Use Black Knight in War at 6 Yellow Stars
+ID_QU_S6_PRIMORDIALAVENGER,Use Black Knight in War at 7 Yellow Stars
+ID_QU_S7_PRIMORDIALAVENGER,Use Starbrand in War
+ID_QU_S8_PRIMORDIALAVENGER,Use Starbrand in War at 5 Yellow Stars
+ID_QU_S9_PRIMORDIALAVENGER,Use Starbrand in War at 6 Yellow Stars
+ID_QU_S10_PRIMORDIALAVENGER,Use Starbrand in War at 7 Yellow Stars
+ID_QU_S11_PRIMORDIALAVENGER,Use Cosmic Ghost Rider in War
+ID_QU_S12_PRIMORDIALAVENGER,Use Cosmic Ghost Rider in War at 5 Yellow Stars
+ID_QU_S13_PRIMORDIALAVENGER,Use Cosmic Ghost Rider in War at 6 Yellow Stars
+ID_QU_S14_PRIMORDIALAVENGER,Use Cosmic Ghost Rider in War at 7 Yellow Stars
 ID_QU_NA_HISTORICHEIST,Historic Heist
 ID_QU_SD_HISTORICHEIST,Earn Black Cat Diamonds!
 ID_QU_LM_HISTORICHEIST,"Historic Heist\nGain progress in this 7-day event by earning Anniversary Orb Fragments from Campaign nodes, Free Claims and special Offers, and by playing Cosmic Crucible battles. \n\nEarn shining rewards including Void Knight shards, Diamond Orb Fragments, and Teal Bio gear. You'll also earn points towards the Dawn of Time milestone by collecting Hourglasses and the Astral Meteorite. Keep an eye on the web for Free Claims containing Anniversary Orb Fragments every day!\n\nTimeless Treasures Web Milestone\nEarn Alliance Credits and be rewarded with Teal Catalysts and progress in the Historic Heist Milestone."
@@ -4116,3 +4136,17 @@ ID_QU_NA_TIMELESSTREASURES,Timeless Treasures
 ID_QU_SD_TIMELESSTREASURES,Earn Alliance Credits
 ID_QU_LD_TIMELESSTREASURES,Earn Alliance Credits to complete this milestone that rewards Teal Catalysts and progress in the Historic Heist milestone!
 ID_QU_S1_TIMELESSTREASURES,Earn 1 Alliance Credit
+ID_QU_NA_SPLASH_DEATHSEED,Death Seed
+ID_QU_SD_SPLASH_DEATHSEED,Use Death Seed in Blitz
+ID_QU_LM_SPLASH_DEATHSEED,Earn points by using Death Seed characters in Blitz Battles. Earn more points if your Death Seed characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_DEATHSEED,Use Death Seed Characters in Blitz
+ID_QU_S1_SPLASH_DEATHSEED,Win Blitz with a 3-star or higher Death Seed Character
+ID_QU_S2_SPLASH_DEATHSEED,Win Blitz with a 5-star or higher Death Seed Character
+ID_QU_S3_SPLASH_DEATHSEED,Win Blitz with a 7-star Death Seed Character
+ID_QU_NA_SPLASH_MSFORIGINAL,MSF Original
+ID_QU_SD_SPLASH_MSFORIGINAL,Use MSF Originals in Blitz
+ID_QU_LM_SPLASH_MSFORIGINAL,Earn points by using MSF Original characters in Blitz Battles. Earn more points if your MSF Original characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_MSFORIGINAL,Use MSF Original Characters in Blitz
+ID_QU_S1_SPLASH_MSFORIGINAL,Win Blitz with a 3-star or higher MSF Original Character
+ID_QU_S2_SPLASH_MSFORIGINAL,Win Blitz with a 5-star or higher MSF Original Character
+ID_QU_S3_SPLASH_MSFORIGINAL,Win Blitz with a 7-star MSF Original Character

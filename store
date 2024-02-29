@@ -8892,3 +8892,7 @@ ID_GACHA_CRATE_ALLIEDSUPPLY4_NAME,Allied Supply IV Orb
 ID_GACHA_CRATE_ALLIEDSUPPLY4_DESCRIPTION,Score critical points for your Alliance
 ID_GACHA_CRATE_ALLIEDSUPPLY4_TOKEN_NAME,Allied Supply IV Orb Fragments
 ID_GACHA_CRATE_ALLIEDSUPPLY4_TOKEN_DESCRIPTION,"Open Allied Supply IV Orbs to get Gold, Training Materials, T2 Level 5 Ion Orb Fragments and more!"
+ID_GACHA_CRATE_ANCIENTRAGE_NAME,Ancient Rage Orb
+ID_GACHA_CRATE_ANCIENTRAGE_DESCRIPTION,Contains up to 25 Starbrand Shards
+ID_GACHA_CRATE_ANCIENTRAGE_TOKEN_NAME,Ancient Rage Orb Fragments
+ID_GACHA_CRATE_ANCIENTRAGE_TOKEN_DESCRIPTION,"Collect Ancient Rage Orb Fragments from Wild Genesis Rewards, Daily Web Free Claims, and select offers. Each orb contains up to 25 Starbrand Shards."

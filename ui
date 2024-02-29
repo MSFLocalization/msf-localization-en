@@ -1398,6 +1398,8 @@ ID_FRAME_ENVY_NAME,Envy
 ID_FRAME_ENVY_UNLOCK,Via free claim from costume unlock
 ID_FRAME_GREED_NAME,Greed
 ID_FRAME_GREED_UNLOCK,Via free claim from costume unlock
+ID_FRAME_2024ANNIVERSARY_NAME,Sixth Anniversary
+ID_FRAME_2024ANNIVERSARY_UNLOCK,Via the Sixth Anniversary event
 ID_EVENT_SURVIVAL_EVENT,Survival
 ID_SURVIVAL_TITLE,Escape from Kyln
 ID_SURVIVAL_FLOOR,<size=65%><voffset=.385em>CELL</size></voffset> {floor}
