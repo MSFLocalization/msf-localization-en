@@ -8385,6 +8385,22 @@ ID_ME_BO_BATTLEPASS_SEASON15_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle pass:
 ID_ME_NA_BATTLEPASS_SEASON15_ENDING,Season 15 Ending Soon
 ID_ME_DE_BATTLEPASS_SEASON15_ENDING,Battle Pass: 2 more days!
 ID_ME_BO_BATTLEPASS_SEASON15_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Sunspot shards and Teal Gear before the Season ends!"
+ID_ME_NA_SIXTHANNIVERSARY_TEASER,Coming Soon: Sixth Anniversary
+ID_ME_DE_SIXTHANNIVERSARY_TEASER,Earn Deathpool's S.T.R.I.K.E. Anniversary Costume and 1 Diamond for Deathpool!
+ID_ME_BO_SIXTHANNIVERSARY_TEASER,"Commander,\n\nLet's celebrate together with the upcoming <color=#fff568>Sixth Anniversary</color> Event!\n\nParticipate in select Anniversary events to collect special items to earn spectacular rewards:\n\n- Deathpool's S.T.R.I.K.E. Anniversary costume\n- Sixth Anniversary Avatar Frame\n- 1 Diamond for Deathpool\n\nMore details are on the way, so be on the lookout!"
+ID_ME_NA_SIXTHANNIVERSARY_ANNOUNCE,LIVE: Sixth Anniversary
+ID_ME_DE_SIXTHANNIVERSARY_ANNOUNCE,Earn Deathpool's S.T.R.I.K.E. Anniversary Costume with Anniversary Events
+ID_ME_BO_SIXTHANNIVERSARY_ANNOUNCE,"Commander,\n\nCome celebrate with us by participating in Anniversary events:\n\n<color=#fff568>Events</color>\nThroughout the month of March there will be separate milestone events that earn points toward the Sixth Anniversary Event. The first is live now!\n\n<color=#fff568>Points</color>\nEarn points by collecting <color=#fff568>Nick Fury's Eyepatch</color>, <color=#fff568>Kestrel's Helmet</color>, <color=#fff568>Infernal Contract</color>, and <color=#fff568>Hero's Mask</color> from Anniversary events. \n\n<color=#fff568>Rewards</color>\nDeathpool's S.T.R.I.K.E. Anniversary costume, Sixth Anniversary Avatar Frame, and 1 Diamond for Deathpool\n\nGood luck, Commander!"
+ID_ME_NA_SIXTHANNIVERSARY_ENDING,Ending Soon: Sixth Anniversary
+ID_ME_DE_SIXTHANNIVERSARY_ENDING,3 days left to Earn Deathpool's S.T.R.I.K.E. Anniversary Costume!
+ID_ME_BO_SIXTHANNIVERSARY_ENDING,"Commander,\n\nThe <color=#fff568>Sixth Anniversary</color> Event ends in <color=#fff568>3 days</color>. Continue earning progress toward the milestone and Earn Deathpool's S.T.R.I.K.E. Anniversary Costume before it's too late!\n\nGood luck, Commander!"
+ID_ME_NA_2192DAYSOFSTRIKE_TEASER,"Coming Soon: 2,192 Days of S.T.R.I.K.E."
+ID_ME_DE_2192DAYSOFSTRIKE_CORE,Earn Nick Fury's Eyepatch and character shards!
+ID_ME_BO_2192DAYSOFSTRIKE_CORE,"Commander,\n\nCome celebrate with us in the first of our Sixth Anniversary Events!\n\n<color=#fff568>2,192 Days of S.T.R.I.K.E.</color>\nGain progress in this <color=#fff568>7-day</color> event by collecting Anniversary Coins from Daily Objectives and spending ""Sixth Time to Strike"" Event Energy. Milestone rewards include Teal Skill Gear, Photon and Ms. Marvel (Hard Light) shards, and Nick Fury's Eyepatch!\n\nGood luck, Commander!"
+ID_ME_NA_2192DAYSOFSTRIKE_ANNOUNCE,"LIVE: 2,192 Days of S.T.R.I.K.E."
+ID_ME_NA_2192DAYSOFSTRIKE_ENDING,"Ending Soon: 2,192 Days of S.T.R.I.K.E."
+ID_ME_DE_2192DAYSOFSTRIKE_ENDING,Don't miss out on Nick Fury's Eyepatch!
+ID_ME_BO_2192DAYSOFSTRIKE_ENDING,"Commander,\n\nThe <color=#fff568>2,192 Days of S.T.R.I.K.E. Milestone</color> event <color=#fff568>ends soon</color>. Continue making progress to earn <color=#fff568>Teal Skill Gear, Photon and Ms. Marvel (Hard Light) shards, and Nick Fury's Eyepatch</color>! \n\nDon't miss out on this opportunity, Commander!"
 ID_ME_NA_COSMICGHOSTRIDER_TEASER,Soon: Cosmic Ghost Rider
 ID_ME_DE_COSMICGHOSTRIDER_TEASER,Interstellar Reaper
 ID_ME_BO_COSMICGHOSTRIDER_TEASER,"Commander,\n\nDeliver intergalactic punishment with <color=#fff568>Cosmic Ghost Rider</color>!\n\n<color=#fff568>Spiteful Specter</color>\nNone shall escape judgment! Cosmic Ghost Rider is the first character to remove Battlefield Effects for your enemies! And yourself! Wait... Oh well, after spending millennia alone, you're bound to be a few hollow points short of a magazine, amirite?! Be sure to stack positive effects on Cosmic Ghost Rider to deal additional damage.\n\n<color=#fff568>War Bonuses</color> \nBring along Out of Time allies to gain additional Ability Energy! Out of Time allies also gain additional Focus.\n\nBe on the lookout for details on how to earn their character shards!"
@@ -8447,6 +8463,9 @@ ID_ME_NA_HISTORICHEIST_ANNOUNCE,LIVE: Historic Heist
 ID_ME_NA_HISTORICHEIST_ENDING,ENDING: Historic Heist
 ID_ME_DE_HISTORICHEIST_ENDING,Don't miss out on Black Cat Diamonds!
 ID_ME_BO_HISTORICHEIST_ENDING,"Commander,\n\nThe Historic Heist Event <color=#fff568>ends soon</color>. Continue making progress to earn Black Cat Diamonds, Dark Promotion Credits, and Hourglasses! \n\nGood luck, Commander!"
+ID_ME_NA_6THANNIVERSARYBLOGINBOX,Sixth Anniversary Extravaganza!
+ID_ME_DE_6THANNIVERSARYBLOGINBOX,New Blog Available
+ID_ME_BO_6THANNIVERSARYBLOGINBOX,"Commander,\n\nGet a complete rundown of our <color=#fff568>6th Anniversary Celebration</color> and see why this will be our biggest birthday yet! Inside this blog you'll learn about:\n\n- Special Anniversary Campaign and events\n- Rewards and costumes you can't miss\n- The <color=#fff568>BIG gift</color>\n\nCheck out this special Anniversary Blog today!"
 ID_ME_NA_LEGACYREEL_ANNOUNCE,#MSF6 Legacy Reel
 ID_ME_DE_LEGACYREEL_ANNOUNCE,Thank You Commander
 ID_ME_BO_LEGACYREEL_ANNOUNCE,"Commander,\n\nCelebrate the past six years of MARVEL Strike Force with this <color=#fff568>Legacy Reel</color>! Thank you all for the support and the journey.\n\n-The MARVEL Strike Force Dev Team"

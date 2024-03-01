@@ -4097,6 +4097,18 @@ ID_QU_LD_PACTOFGREED,Out of Time character offers contain corrupted items in the
 ID_QU_S1_PACTOFGREED,Earn 1 Corrupted Mask
 ID_QU_S2_PACTOFGREED,Earn 1 Corrupted Glider
 ID_QU_S3_PACTOFGREED,Earn 1 Corrupted Bombs
+ID_QU_NA_SIXTHANNIVERSARY,Sixth Anniversary
+ID_QU_SD_SIXTHANNIVERSARY,Participate in Anniversary Events
+ID_QU_LM_SIXTHANNIVERSARY,Participate in various Anniversary events throughout the month of March to earn milestone progress.
+ID_QU_S1_SIXTHANNIVERSARY,Collect 1 Nick Fury's Eyepatch
+ID_QU_S2_SIXTHANNIVERSARY,Collect 1 Kestrel's Helmet
+ID_QU_S3_SIXTHANNIVERSARY,Collect 1 Infernal Contract
+ID_QU_S4_SIXTHANNIVERSARY,Collect 1 Hero's Mask
+ID_QU_NA_2192DAYSOFSTRIKE,"2,192 Days of S.T.R.I.K.E."
+ID_QU_SD_2192DAYSOFSTRIKE,"Daily Objectives and ""Sixth Time to Strike"" Event"
+ID_QU_LD_2192DAYSOFSTRIKE,"Collect Anniversary Coins from Daily Objectives and spend ""Sixth Time to Strike"" Event Energy.\n\nRewards include: Photon and Ms. Marvel (Hard Light) shards, Teal gear, Catalysts, Gold, Training Modules, and more!"
+ID_QU_S1_2192DAYSOFSTRIKE,Collect Anniversary Coins from Daily Objectives
+ID_QU_S2_2192DAYSOFSTRIKE,"Spend 1 ""Sixth Time to Strike"" Event Energy"
 ID_QU_NA_DAWNOFTIME,Dawn of Time
 ID_QU_SD_DAWNOFTIME,Participate in March Events
 ID_QU_LM_DAWNOFTIME,Participate in various events throughout the month of March to earn milestone progress.

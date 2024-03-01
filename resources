@@ -462,3 +462,13 @@ ID_EVENT_HEARTCANDY_NAME,Heart Candy
 ID_EVENT_HEARTCANDY_DESC,"Collect Heart Candy to spend in the Candy Shop Event Store. Earn them from Campaign nodes, Daily Free Claims on our website, and in special offers!"
 ID_EVENT_CANDYSHOP_NAME,Candy Shop
 ID_EVENT_CANDYSHOP_DESC,Spend Heart Candy at the Candy Shop. Only for a limited time.
+ID_EVTA_META_MAR_V_NAME,Anniversary Coin
+ID_EVTA_META_MAR_V_DESCRIPTION,"Collect Anniversary Coins for points in the 2,192 Days of S.T.R.I.K.E. Event. Earn them in Daily Objectives!"
+ID_EVTA_META_MAR_W_NAME,Hero's Mask
+ID_EVTA_META_MAR_W_DESCRIPTION,Collect Hero's Mask for points in the Sixth Anniversary Event. Earn it in the We Stand Together Event!
+ID_EVTA_META_MAR_X_NAME,Infernal Contract
+ID_EVTA_META_MAR_X_DESCRIPTION,Collect the Infernal Contract for points in the Sixth Anniversary Event. Earn it in the Well May You Tremble Event!
+ID_EVTA_META_MAR_Y_NAME,Kestrel's Helmet
+ID_EVTA_META_MAR_Y_DESCRIPTION,Collect the Kestrel's Helmet for points in the Sixth Anniversary Event. Earn it in the Legacy of S.T.R.I.K.E. Event!
+ID_EVTA_META_MAR_Z_NAME,Nick Fury's Eyepatch
+ID_EVTA_META_MAR_Z_DESCRIPTION,"Collect the Nick Fury's Eyepatch for points in the Sixth Anniversary Event. Earn it in the 2,192 Days of S.T.R.I.K.E. Event!"
