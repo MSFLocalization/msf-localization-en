@@ -2291,6 +2291,9 @@ ID_INFO_BO_SIXTHANNIVERSARY,"Earn points toward this month-long milestone by col
 ID_INFO_NA_2192DAYSOFSTRIKE,"2,192 Days of S.T.R.I.K.E."
 ID_INFO_DE_2192DAYSOFSTRIKE,Celebrate with us and earn Nick Fury's Eyepatch!
 ID_INFO_BO_2192DAYSOFSTRIKE,"<color=#fff568>2,192 Days of S.T.R.I.K.E. Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by collecting Anniversary Coins from Daily Objectives and spending ""Sixth Time to Strike"" Event Energy. Milestone rewards include Teal Gear, Photon and Ms. Marvel (Hard Light) shards, and Nick Fury's Eyepatch!"
+ID_INFO_NA_BFYB2024ANNIVERSARY,Bang for your Buck Anniversary Edition
+ID_INFO_DE_BFYB2024ANNIVERSARY,Earn special rewards through Web UPCs!
+ID_INFO_BO_BFYB2024ANNIVERSARY,Rack up points in this special Sixth Anniversary Edition of the Bang for your Buck Milestone by earning Web UPCs from purchases on the web!
 ID_INFO_NA_DAWNOFTIME,Dawn of Time
 ID_INFO_DE_DAWNOFTIME,Earn fantastic rewards throughout March!
 ID_INFO_BO_DAWNOFTIME,"Earn points toward this month-long milestone by collecting the following items from March events and Daily Free Claims: Hourglasses, T-Rex Tooth, Astral Meteorite, Cosmic Tire and Patriot Coin.\n\nThere will be several Milestone Events that provide progress towards the <color=#fff568>Dawn of Time Milestone</color>. As you progress, earn valuable character shards and <color=#fff568>fully crafted Mystic Gear Tier 17 gear</color>!\n\nCompete on the Leaderboard for exclusive rewards. Players reaching the top 1% rank will earn exclusive <color=#fff568>Diamond Champions Orbs</color>, <color=#fff568>Diamond Orbs</color>, T2 Level 5 Ions and Armory 18 Orbs!"
@@ -2300,3 +2303,6 @@ ID_INFO_BO_PRIMORDIALAVENGER,"<color=#fff568>Primordial Avenger Milestone</color
 ID_INFO_NA_HISTORICHEIST,Historic Heist
 ID_INFO_DE_HISTORICHEIST,Earn Black Cat Diamonds!
 ID_INFO_BO_HISTORICHEIST,"<color=#fff568>Historic Heist</color>\nGain progress in this <color=#fff568>7-day</color> event by earning Anniversary Orb Fragments from Campaign nodes, Free Claims and special Offers, and by playing Cosmic Crucible battles. \n\nEarn shining rewards including <color=#fff568>Void Knight shards, Diamond Orb Fragments, and Teal Bio gear</color>. You'll also earn points towards the Dawn of Time milestone by collecting Hourglasses and the Astral Meteorite. Keep an eye on the web for Free Claims containing Anniversary Orb Fragments every day!\n\n<color=#fff568>Timeless Treasures Web Milestone</color>\nEarn Alliance Credits and be rewarded with Teal Catalysts and progress in the Historic Heist Milestone."
+ID_INFO_NA_LEGACYOFSTRIKE,Legacy of S.T.R.I.K.E.
+ID_INFO_DE_LEGACYOFSTRIKE,Celebrate with us and earn Kestrel's Helmet!
+ID_INFO_BO_LEGACYOFSTRIKE,"<color=#fff568>Legacy of S.T.R.I.K.E. Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by Battling with Marvel Strike Force original characters in Raids, War, Cosmic Crucible, Arena, and Blitz, as well as spending """"Sixth Time to Strike"""" Event Energy. Milestone rewards include Teal Gear, Vahl and Spider-Weaver shards, and Kestrel's Helmet!"

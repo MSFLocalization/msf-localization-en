@@ -6600,9 +6600,9 @@ ID_OF_NA_ANNIV24_DEATHPOOLCHAIN1,Deathpool's S.T.R.I.K.E. Package 1/4
 ID_OF_NA_ANNIV24_DEATHPOOLCHAIN2,Deathpool's S.T.R.I.K.E. Package 2/4
 ID_OF_NA_ANNIV24_DEATHPOOLCHAIN3,Deathpool's S.T.R.I.K.E. Package 3/4
 ID_OF_NA_ANNIV24_DEATHPOOLCHAIN4,Deathpool's Final S.T.R.I.K.E. Package
-ID_OF_DE_ANNIV24_DEATHPOOLCHAIN1,Continue through this chain to unlock a free claim with <color=#ffda21>Diamond Orb Fragments</color> at the end!
-ID_OF_DE_ANNIV24_DEATHPOOLCHAIN2,Continue through this chain to unlock a free claim with <color=#ffda21>Diamond Orb Fragments</color> at the end!
-ID_OF_DE_ANNIV24_DEATHPOOLCHAIN3,Continue through this chain to unlock a free claim with <color=#ffda21>Diamond Orb Fragments</color> at the end!
+ID_OF_DE_ANNIV24_DEATHPOOLCHAIN1,"Continue through this chain to unlock a free claim with <color=#ffda21>1,000 Diamond Orb Fragments</color> at the end!"
+ID_OF_DE_ANNIV24_DEATHPOOLCHAIN2,"Continue through this chain to unlock a free claim with <color=#ffda21>1,000 Diamond Orb Fragments</color> at the end!"
+ID_OF_DE_ANNIV24_DEATHPOOLCHAIN3,"Continue through this chain to unlock a free claim with <color=#ffda21>1,000 Diamond Orb Fragments</color> at the end!"
 ID_OF_DE_ANNIV24_DEATHPOOLCHAIN4,You've exhausted Deathpool's special package. Stay tuned for future S.T.R.I.K.E. packages!
 ID_OF_NA_ANNIV24_GOLDTRAINE7,Anniversary Party Pack
 ID_OF_NA_ANNIV24_TRAINORBABM,Develop New Skills
@@ -6624,7 +6624,7 @@ ID_OF_NA_ANNIV24_5REDBC,Bad Luck Charm
 ID_OF_NA_ANNIV24_STATCATABM,High Gear Anniversary
 ID_OF_NA_ANNIV24_GOLDGEARORB,Golden Cache
 ID_OF_DE_ANNIV24_GOLDTRAINE7,Make the update to your roster that you've always wanted with this <color=#fff568>Gold and Training Module</color> combo! <color=#0071a6>Greater than a {var1}x value</color>!
-ID_OF_DE_ANNIV24_TRAINORBABM,Continue honing your roster everyday with this anniversary offer of <color=#ffda21>T4 Ability Material and Training Orbs!</color>. <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_TRAINORBABM,Continue honing your roster everyday with this anniversary offer of <color=#ffda21>T4 Ability Material and Training Orbs!</color> <color=#0071a6>Greater than a {var1}x value</color>!
 ID_OF_DE_ANNIV24_BKIONSUNIQUE,Slay top teams with a historic retaliate mechanic and keep your boot on their neck by denying Revive! <color=#0071a6>Greater than a {var1}x value</color>!
 ID_OF_DE_ANNIV24_4UNIQUES,Seize this offer for more <color=#fff568>Teal Mini-Uniques</color>! <color=#0071a6>A {var1}x value</color>!
 ID_OF_DE_ANNIV24_PROMODPC,"Embrace all opportunities you can to improve yourself, starting with this anniversary offer of <color=#ffda21>Elite 7 Credits</color> and more! <color=#0071a6>Greater than a {var1}x value</color>!"
@@ -6642,3 +6642,67 @@ ID_OF_DE_ANNIV24_TRAINPROMO,Make the update to your roster that you've always wa
 ID_OF_DE_ANNIV24_5REDBC,Take Black Cat to 5 Red Stars with this anniversary special! Power up the not-so-secret defender of your roster! <color=#0071a6>A {var1}x value</color>!
 ID_OF_DE_ANNIV24_STATCATABM,Pick up this high value drop of Augmented Catalysts to craft powerful gear! <color=#0071a6>Greater than a {var1}x value</color>!
 ID_OF_DE_ANNIV24_GOLDGEARORB,Take advantage of this anniversary offer of <color=#ffda21>Gold & Armory Orbs</color>! <color=#0071a6>A {var1}x value</color>!
+ID_OF_NA_ANNIV24_STREAK7,Rainbow Candy: Sweet Pink
+ID_OF_NA_ANNIV24_STREAK6,Rainbow Candy: Plum Purple
+ID_OF_NA_ANNIV24_STREAK5,Rainbow Candy: Bittersweet Blue
+ID_OF_NA_ANNIV24_STREAK4,Rainbow Candy: Sour Green
+ID_OF_NA_ANNIV24_STREAK3,Rainbow Candy: Salty Yellow
+ID_OF_NA_ANNIV24_STREAK2,Rainbow Candy: Tart Orange
+ID_OF_NA_ANNIV24_STREAK1,Rainbow Candy: Tangy Red
+ID_OF_NA_ANNIV24_STREAK0,Rainbow Candy: First Taste
+ID_OF_NA_ANNIV24_WEB_DAILYFREE,Free Claim: Pots Of Gold
+ID_OF_NA_ANNIV24_TRAINGPCGOLD,Lucky Clover: Golden Glow
+ID_OF_NA_ANNIV24_E7DPC,Lucky Clover: Verdant Promotion
+ID_OF_NA_ANNIV24_MEGAORBCENERGY,Lucky Clover: Mega Opportunity
+ID_OF_NA_ANNIV24_HORSEMENORBGOLD,Lucky Clover: Colorful Orbs
+ID_OF_NA_ANNIV24_TEALGEARABM,Lucky Clover: Teal Tools
+ID_OF_NA_ANNIV24_GAMMATEAM,Lucky Clover: Green With Gamma
+ID_OF_NA_ANNIV24_VOIDKNIGHTABM,Lucky Clover: Color of the Void
+ID_OF_NA_ANNIV24_NIGHTCRAWLERISO,Lucky Clover: Power of Blue
+ID_OF_NA_ANNIV24_SUNSPOTUNIQUESABM,Lucky Clover: Prismatic Halo
+ID_OF_NA_ANNIV24_E7GPC,Lucky Clover: Rain of Credits
+ID_OF_NA_ANNIV24_ISOT2L5,Lucky Clover: Ion Glow
+ID_OF_NA_ANNIV24_ABMTRAIN,Lucky Clover: Charmed Training
+ID_OF_NA_ANNIV24_FORGEMEGAORB,Lucky Clover: Forging Luck
+ID_OF_NA_ANNIV24_ABMDPCT2L5,Lucky Clover: Untapped Ability
+ID_OF_NA_ANNIV24_GWENOMUNIQUES,Lucky Clover: Frolicking Symbiote
+ID_OF_NA_ANNIV24_REDGOBLINABM,Lucky Clover: Tune Up
+ID_OF_NA_ANNIV24_A18A17A16,Lucky Clover: Unlocked Armory
+ID_OF_NA_ANNIV24_PESTORBDPC,Lucky Clover: Dark Green
+ID_OF_NA_ANNIV24_GGORBLIZARD,Lucky Clover: Experimental Success
+ID_OF_NA_ANNIV24_DPCRSORBGPCA18,Lucky Clover: Diamond Sky
+ID_OF_NA_ANNIV24_ABMGOLD,Lucky Clover: Golden Ability
+ID_OF_NA_ANNIV24_BLACKCATRSTRAINGOLDORB,Lucky Clover: Cat's Favor
+ID_OF_NA_ANNIV24_SECRETDEFBLACKCATORB,Lucky Clover: Cryptic Trust
+ID_OF_DE_ANNIV24_STREAK7,"Thank you for your support! The sweetest taste of <color=#ffda21>Dark Diamond Credit, Dark Promotion Credit</color> & more can be found in this special offer for you! <color=#ff00ff>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_STREAK6,Plumpest flavor you'll find is here with <color=#ffda21>Training Orbs</color> plus more in this special offer. Next step has <color=#ffda21>Dark Diamond Credit & more</color>! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_STREAK5,A unique taste is the best with this offer of a <color=#ffda21>Diamond Orb</color> plus more! Next step has loads of <color=#800080>Training Orbs & more</color>! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_STREAK4,Feed the hunger for <color=#ffda21>Green Goblin (Classic) Orbs</color> plus more in this special offer. Next step has <color=#0000ff>Diamond Orb & more</color>! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_STREAK3,Satisfy your taste for <color=#ffda21>Gold & Elite 7 Credit</color> with this special offer. Next step has <color=#00ff00>Green Goblin (Classic) Orbs & more</color>! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_STREAK2,"Enjoy a tarty aftertaste with <color=#ffda21>Mega Orb, T4 Ability Materials</color> & more in this special offer. Next step has <color=#ffff00>Gold & more</color>! <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_STREAK1,"Tangy flavor abounds with <color=#ffda21>Dark Promotion Credit, Red Goblin shards</color> & more in this special offer. Next step has a <color=#ffa500>Mega Orb & more</color>! <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_STREAK0,Start your journey of flavorful offers with this FREE special! Check the store after claiming to see what's next in the offer series!
+ID_OF_DE_ANNIV24_WEB_DAILYFREE,Start your journey of flavorful offers with this FREE special!
+ID_OF_DE_ANNIV24_TRAINGPCGOLD,"Bask in the glow of progression today with <color=#ffda21>Training Orbs, Gold Promotion Credit</color> & more in this limited time offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_E7DPC,Progress your roster with <color=#ffda21>Elite 7 Credit & Dark Promotion Credit</color> in this limited time offer. <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_MEGAORBCENERGY,"Take advantage of this offer for a <color=#ffda21>Mega Orb, Campaign Energy</color> & more in this special opportunity. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_HORSEMENORBGOLD,"Soak in the colors of the rainbow with <color=#ffda21>Gold, Horsemen Orbs</color> & more in this special holiday offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_TEALGEARABM,"Break your limits with <color=#ffda21>T4 Ability Materials, Armory 18 Orbs</color> & more in this special holiday offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_GAMMATEAM,"Be lean, mean, and green with this <color=#ffda21>Gamma Team</color> special holiday offer! <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_VOIDKNIGHTABM,"Paint a new hue of experience with <color=#ffda21>Void Knight shards, T4 Ability Materials</color> & more in this special holiday offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_NIGHTCRAWLERISO,Dance to the blue hue with <color=#ffda21>Nightcrawler shards & T2 Iso-8 Ion Orbs</color> in this special holiday offer. <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_SUNSPOTUNIQUESABM,"Shine bright with <color=#ffda21>Sunspot shards, T4 Ability Materials</color> & more in this special holiday offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_E7GPC,"No umbrella needed for this special holiday offer of <color=#ffda21>Elite 7 Credit, L4 Training Modules</color> & more. <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_ANNIV24_ISOT2L5,"Glow fluorescently with <color=#ffda21>T2 Level 5 Ions, Gold</color> & more in this special holiday offer. <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_ANNIV24_ABMTRAIN,"Only those with max charisma can resist this holiday special of <color=#ffda21>T4 Ability Materials, L4 Training Modules</color> & more! <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_ANNIV24_FORGEMEGAORB,"Build your own lucky charm with <color=#ffda21>Forge shards, a Mega Orb</color> & more in this limited time offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_ABMDPCT2L5,"Unleash your roster's potential with <color=#ffda21>T4 Ability Materials, Dark Promotion Credit</color> & more in this limited time offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_GWENOMUNIQUES,Have a good time with the Hive-Mind by picking up <color=#ffda21>Gwenom shards along with her teal gear</color> in this limited time offer. <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_REDGOBLINABM,"Boost yourself up with <color=#ffda21>Spider-Slayer, T4 Ability Materials</color> & more in this limited time offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_A18A17A16,"Open the door to <color=#ffda21>Armory 18 Orbs, Armory 17 Orbs</color> & more in this limited time offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_PESTORBDPC,Continue progressing towards Apocalypse with <color=#ffda21>Pestilence Orbs & Dark Promotion Credit</color> in this limited time offer. <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_GGORBLIZARD,"Research towards your success with <color=#ffda21>Green Goblin (Classic) Orbs, Lizard shards</color> & more in this limited time offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_DPCRSORBGPCA18,"Power up with <color=#ffda21>Dark Diamond Credit, Armory 18 Orbs</color> & more in this limited time offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_ABMGOLD,Polish your best characters with <color=#ffda21>T4 Ability Materials & Gold</color> in this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_BLACKCATRSTRAINGOLDORB,"Enjoy this rare holiday deal of <color=#ffda21>Black Cat Orbs, Training Orbs</color> & more. <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_ANNIV24_SECRETDEFBLACKCATORB,Defend your arena rank with <color=#ffda21>Secret Defender team shards</color> in this limited time offer. <color=#ffda21>A {var1}x value</color>!

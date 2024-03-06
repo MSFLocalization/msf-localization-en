@@ -8151,7 +8151,7 @@ ID_ME_BO_ALLIEDENGINES_CORE,"Commander,\n\nGet ready for the ultimate Alliance R
 ID_ME_NA_ALLIEDENGINES_ANNOUNCE,LIVE: Allied Engines
 ID_ME_NA_ALLIEDENGINES_ENDING,Ending Soon: Allied Engines
 ID_ME_DE_ALLIEDENGINES_ENDING,Don't miss out on Dark Promotion Credits!
-ID_ME_BO_ALLIEDENGINES_ENDING,"Commander,\n\nThe <color=#fff568>Allied Engines Milestone</color> event <color=#fff568>ends soon</color>. Continue making progress to earn <color=#fff568>a 3-Diamond Venom, Dark Promotion Credits, and X-Batteries</color>! \n\nDon't miss out on this opportunity, Commander!"
+ID_ME_BO_ALLIEDENGINES_ENDING,"Commander,\n\nThe <color=#fff568>Allied Engines Milestone</color> event <color=#fff568>ends soon</color>. Continue making progress to earn <color=#fff568>Dark Promotion Credits and Hourglasses</color>! \n\nDon't miss out on this opportunity, Commander!"
 ID_ME_NA_XTXM_PREBAMESH,Recruit the X-Treme X-Men!
 ID_ME_BO_XTXM_PREBAMESH,"Commander,\n\n<color=#fff568>Nightcrawler</color>, <color=#fff568>Forge</color>, and <color=#fff568>Sunspot</color> have been added to the Ultimus, Basic, Premium, and Mega Orbs, and to the Supplies section of the Ultra and Main Stores.\n\nIn addition, direct <color=#fff568>Red Star</color> and <color=#fff568>Diamond</color> Promotions for these characters are now available in the Supplies section of the Elite Store.\n\nPromotions to 6 Red Stars and higher for <color=#fff568>Sunspot</color> are available in the <color=#fff568>Race to the Top</color> event, therefore, direct Promotions for <color=#fff568>Sunspot</color> will be capped at <color=#fff568>5 Red Stars</color> until after the event ends.\n\n<color=#fff568>Titania</color>, <color=#fff568>Absorbing Man</color>, and <color=#fff568>Moonstone</color> have been removed from the Mega Orb and Main Supplies to keep the store content exciting and up to date."
 ID_ME_NA_STRIKEPASS51_ANNOUNCE,S.T.R.I.K.E. Pass: Season 51
@@ -8466,6 +8466,13 @@ ID_ME_BO_HISTORICHEIST_ENDING,"Commander,\n\nThe Historic Heist Event <color=#ff
 ID_ME_NA_6THANNIVERSARYBLOGINBOX,Sixth Anniversary Extravaganza!
 ID_ME_DE_6THANNIVERSARYBLOGINBOX,New Blog Available
 ID_ME_BO_6THANNIVERSARYBLOGINBOX,"Commander,\n\nGet a complete rundown of our <color=#fff568>6th Anniversary Celebration</color> and see why this will be our biggest birthday yet! Inside this blog you'll learn about:\n\n- Special Anniversary Campaign and events\n- Rewards and costumes you can't miss\n- The <color=#fff568>BIG gift</color>\n\nCheck out this special Anniversary Blog today!"
+ID_ME_NA_LEGACYOFSTRIKE_TEASER,Coming Soon: Legacy of S.T.R.I.K.E.
+ID_ME_DE_LEGACYOFSTRIKE_CORE,Earn Kestrel's Helmet and character shards!
+ID_ME_BO_LEGACYOFSTRIKE_CORE,"Commander,\n\nEarn Kestrel's Helmet and character shards!\n\n<color=#fff568>Legacy of S.T.R.I.K.E. Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by Battling with Marvel Strike Force original characters in Raids, War, Cosmic Crucible, Arena, and Blitz, as well as spending """"Sixth Time to Strike"""" Event Energy. Milestone rewards include Teal Gear, Vahl and Spider-Weaver shards, and Kestrel's Helmet!\n\nGood luck, Commander!"
+ID_ME_NA_LEGACYOFSTRIKE_ANNOUNCE,LIVE: Legacy of S.T.R.I.K.E.
+ID_ME_NA_LEGACYOFSTRIKE_ENDING,ENDING: Legacy of S.T.R.I.K.E.
+ID_ME_DE_LEGACYOFSTRIKE_ENDING,Don't miss out on Kestrel's Helmet!
+ID_ME_BO_LEGACYOFSTRIKE_ENDING,"Commander,\n\nThe <color=#fff568>Legacy of S.T.R.I.K.E. Milestone</color> event <color=#fff568>ends soon</color>. Continue making progress to earn <color=#fff568>Teal Skill Gear, Vahl and Spider-Weaver shards, and Kestrel's Helmet</color>! \n\nDon't miss out on this opportunity, Commander!"
 ID_ME_NA_LEGACYREEL_ANNOUNCE,#MSF6 Legacy Reel
 ID_ME_DE_LEGACYREEL_ANNOUNCE,Thank You Commander
 ID_ME_BO_LEGACYREEL_ANNOUNCE,"Commander,\n\nCelebrate the past six years of MARVEL Strike Force with this <color=#fff568>Legacy Reel</color>! Thank you all for the support and the journey.\n\n-The MARVEL Strike Force Dev Team"
