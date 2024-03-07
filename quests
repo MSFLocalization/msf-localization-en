@@ -4177,3 +4177,26 @@ ID_QU_LD_MACHINESOFWAR_V2,Machines of War Milestone\nGain progress in this 6-day
 ID_QU_S1_MACHINESOFWAR_V2,Play 1 War Battle
 ID_QU_S2_MACHINESOFWAR_V2,Use a Out of Time character in War
 ID_QU_S3_MACHINESOFWAR_V2,Earn 1 Allied Supply IV Orb Fragment
+ID_QU_NA_DEMONICORIGINS,Demonic Origins
+ID_QU_SD_DEMONICORIGINS,Earn Demonic Gear!
+ID_QU_LM_DEMONICORIGINS,"Prepare for Mephisto's arrival in Dark Dimension 7 by stocking up on Crimson Gear!\n\nDemonic Origins\nGain progress in this 7-day event by earning Anniversary Orb Fragments from Campaign nodes, Free Claims and special Offers, and by playing Cosmic Crucible battles. \n\nEarn fiendish rewards including Demonic Gear, Void Knight shards, Diamond Orb Fragments, and Augmented Bio gear. You'll also earn points towards the Dawn of Time milestone by collecting Hourglasses and the Astral Meteorite. Keep an eye on the web for Free Claims containing Anniversary Orb Fragments every day!\n\nInfernal Prelude Web Milestone\nEarn Alliance Credits and be rewarded with Teal Catalysts and progress in the Demonic Origins Milestone."
+ID_QU_SM_DEMONICORIGINS,Collect Orbs and Battle in Cosmic Crucible
+ID_QU_SC_DEMONICORIGINS,Collect Anniversary Orbs and Battle in Cosmic Crucible
+ID_QU_S1_DEMONICORIGINS,Earn 1 Anniversary Orb Fragment from Campaign Nodes and Free Claims
+ID_QU_S2_DEMONICORIGINS,Battle in Cosmic Crucible
+ID_QU_NA_INFERNALPRELUDE,Infernal Prelude
+ID_QU_SD_INFERNALPRELUDE,Earn Alliance Credits
+ID_QU_LD_INFERNALPRELUDE,Earn Alliance Credits to complete this milestone that rewards Teal Catalysts and progress in the Demonic Origins milestone!
+ID_QU_S1_INFERNALPRELUDE,Earn 1 Alliance Credit
+ID_QU_NA_ETERNALVENGEANCE,Eternal Vengeance
+ID_QU_DE_ETERNALVENGEANCE,Unlock Cosmic Ghost Rider!
+ID_QU_LD_ETERNALVENGEANCE,"Eternal Vengeance Milestone\nGain progress in this 7-day event by earning Stellar Specter Orb Fragments from Arena Ranked Rewards, battling in War, completing the Galactic Ghost Web Milestone, and daily Free Claims. \n\nEarn celestial rewards including Cosmic Ghost Rider shards, Void Knight shards and Augmented Mystic gear. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses and the Cosmic Tire.\n\nEternal Vengeance Leaderboard\nCompete on the Leaderboards for Demonic Gear and more!\n\nGalactic Ghost Web Milestone\nSpend Incursion Campaign Energy and earn Blitz Credits to earn Stellar Specter Orb Fragments and Teal Catalysts, and progress in the Eternal Vengeance Milestone."
+ID_QU_SD_ETERNALVENGEANCE,"Earn Orbs in Arena, battle in War"
+ID_QU_S1_ETERNALVENGEANCE,Earn 1 Stellar Specter Orb Fragment from Arena and Daily Free Claims
+ID_QU_S2_ETERNALVENGEANCE,Play 1 War Battle
+ID_QU_S3_ETERNALVENGEANCE,Earn 1 Eternal Vengeance Milestone Point
+ID_QU_NA_GALACTICGHOST,Galactic Ghost
+ID_QU_SD_GALACTICGHOST,Spend Incursion Energy and Earn Blitz Credits
+ID_QU_LD_GALACTICGHOST,"Spend Incursion Energy and Earn Blitz Credits and get rewarded with Stellar Specter Orb Fragments, Augmented Catalysts, and Eternal Vengeance milestone progress."
+ID_QU_S1_GALACTICGHOST,Spend 1 Incursion Energy
+ID_QU_S2_GALACTICGHOST,Earn 1 Blitz Credit

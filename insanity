@@ -1,12 +1,13 @@
 id,translation
 ID_GAMEMODE_INSANITY,DARK DIMENSION
 ID_INSANITY_FIRST_TIME_REWARDS,Possible Rewards
-ID_INSANITY_EVENT_CARD_INFO_01,"Earn 1,320 Orange Gear Materials and 6 pieces of Orange Gear from the rewards below on your first completion!"
-ID_INSANITY_EVENT_CARD_INFO_02,"Earn 3,960 Orange Gear Materials and 18 pieces of Orange Gear from the rewards below on your first completion, as well as the ultra-powerful Ultron!"
-ID_INSANITY_EVENT_CARD_INFO_03,"Earn 9,768 Orange Gear Materials and 27 pieces of Orange Gear from the rewards below on your first completion, and unlock a 5 Red Star Ultimus on your Timed Run!"
-ID_INSANITY_EVENT_CARD_INFO_04,"Earn 9,800 Orange Gear Materials and 20 pieces of Orange Gear from the rewards below on your first completion as well as unlocking a 5-star Doctor Doom and a 2-Red Star Doctor Doom! Earn an additional 14,650 Orange Gear Materials and 30 pieces of Orange Gear from the rewards below on your Timed Run as well as unlocking a maxed out 7-star Doctor Doom and a 4-Red Star Doctor Doom!"
-ID_INSANITY_EVENT_CARD_INFO_05,"Earn 9,232 Teal Gear Materials and 10 pieces of Teal Gear from the rewards below on your first completion as well as unlocking a 5-star Dormammu and a 2-Red Star Dormammu! Earn an additional 7,552 Teal Gear Materials and 15 pieces of Teal Gear from the rewards below on your Timed Run as well as unlocking a maxed out 7-star Dormammu and a 4-Red Star Dormammu!"
-ID_INSANITY_EVENT_CARD_INFO_06,"Earn 14,220 Teal Gear Materials and 10 pieces of fully crafted Tier 18 Gear from the rewards below on your first completion, as well as a 5-star Super Skrull and a 2-Red Star Super Skrull! Earn an additional 28,300 Teal Gear Materials and 15 pieces of fully crafted Tier 18 Gear from the rewards below on your Timed Run, as well as a maxed out 7-star Super Skrull, a 4-Red Star Super Skrull, and Nick Fury's Skrull Costume!"
+ID_INSANITY_EVENT_CARD_INFO_01,"Earn 5 Stars and 2 Red Stars for Kestrel, 1,320 Superior Gear Materials, and 6 pieces of fully crafted Tier 13 Superior Gear on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 4 Red Stars for Kestrel, 1,980 Superior Gear Materials, and 9 pieces of fully crafted Tier 13 Superior Gear!"
+ID_INSANITY_EVENT_CARD_INFO_02,"Earn 5 Stars and 2 Red Stars for Ultron, 3,960 Superior Gear Materials, and 27 pieces of fully crafted Tier 13 Superior Gear on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 4 Red Stars for Ultron, 3,960 Superior Gear Materials, and 18 pieces of fully crafted Tier 13 Superior Gear!"
+ID_INSANITY_EVENT_CARD_INFO_03,"Earn 5 Stars and 2 Red Stars for Ultimus, 9,768 Superior Gear Materials, and 27 fully crafted Tier 14 Superior Gear on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 5 Red Stars for Ultimus, 14,676 Superior Gear Materials, and 36 pieces of fully crafted Tier 14 Superior Gear!"
+ID_INSANITY_EVENT_CARD_INFO_04,"Earn 5 Stars and 2 Red Stars for Doctor Doom, 9,800 Superior Gear Materials, and 20 fully crafted Tier 15 Superior Gear on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 4 Red Stars for Doctor Doom, 14,650 Superior Gear Materials, and 30 pieces of fully crafted Tier 15 Superior Gear!"
+ID_INSANITY_EVENT_CARD_INFO_05,"Earn 5 Stars and 2 Red Stars for Dormammu, 9,232 Augmented Gear Materials, and 10 fully crafted Tier 16 Augmented Gear on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 4 Red Stars for Dormammu, 7,552 Augmented Gear Materials, and 30 fully crafted Tier 16 Augmented Gear!"
+ID_INSANITY_EVENT_CARD_INFO_06,"Earn 5 Stars and 2 Red Stars for Super Skrull, 14,220 Augmented Gear Materials, and 10 fully crafted Tier 18 Augmented Gear on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 4 Red Stars for Super Skrull, Nick Fury's Skrull Costume, 28,300 Augmented Gear Materials, and 15 fully crafted Tier 18 Augmented Gear!"
+ID_INSANITY_EVENT_CARD_INFO_07,"Earn 5 Stars and 2 Red Stars for Mephisto, 5,126 Augmented Gear Materials, and 10 fully crafted Tier 19 Demonic Gear on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 5 Red Stars for Mephisto, 10,051 Augmented Gear Materials, and 15 fully crafted Tier 19 Demonic Gear!"
 ID_INSANITY_TIMELEFT,TIME LEFT
 ID_INSANITY_PROGRESS,PROGRESS
 ID_INSANITY_PERCENT,{percent}%
@@ -53,6 +54,7 @@ ID_INSANITY_NAME_03,DARK DIMENSION III
 ID_INSANITY_NAME_04,DARK DIMENSION IV
 ID_INSANITY_NAME_05,DARK DIMENSION V
 ID_INSANITY_NAME_06,DARK DIMENSION VI
+ID_INSANITY_NAME_07,DARK DIMENSION VII
 ID_INSANITY_NAME_10,POCKET DIMENSION
 ID_INSANITY_DESC_01,Enter the Darkness
 ID_INSANITY_DESC_02,Fear the Darkness
@@ -60,6 +62,7 @@ ID_INSANITY_DESC_03,Dread the Darkness
 ID_INSANITY_DESC_04,Embrace Your Doom
 ID_INSANITY_DESC_05,Escape the Darkness
 ID_INSANITY_DESC_06,Shifting Darkness
+ID_INSANITY_DESC_07,Dark Dealings
 ID_DDLIVE_010_NAME,Pocket Dimension
 ID_DDLIVE_010_DESC,Earn Limited Time Rewards
 ID_DDLIVE_040_NAME,Pocket Dimension
@@ -104,6 +107,8 @@ ID_MISSION_INSANITY_050_01_DESC,Complete the fifteen trials of Dark Dimension V 
 ID_MISSION_INSANITY_050_15_DESC,"Defeat Dormammu's ultimate agent of destruction, Doctor Doom, to escape the Dark Dimension."
 ID_MISSION_INSANITY_060_01_DESC,"Complete the fifteen trials of Dark Dimension VI before you can challenge Dormammu, ruler of the Dark Dimension."
 ID_MISSION_INSANITY_060_15_DESC,"Defeat Dormammu, ruler of the Dark Dimension."
+ID_MISSION_INSANITY_070_01_DESC,"Complete the thirteen trials of Dark Dimension VII before you can challenge Mephisto, ruler of the Dark Dimension."
+ID_MISSION_INSANITY_070_13_DESC,"Defeat Mephisto, ruler of the Dark Dimension."
 ID_MISSION_DDLIVE_010_01_DESC,Complete the ten trials of the Pocket Dimension to earn a vast amounts of valuable gear and resources.
 ID_MISSION_DDLIVE_010_10_DESC,Complete the final trial in this Pocket Dimension to earn a vast amount of valuable gear and resources.
 ID_INSANITY_TIMED_RUN_UNLOCKED,TIMED RUN UNLOCKED
@@ -137,6 +142,10 @@ ID_INSANITY_06_REWARD_FTC_GEAR_FULL,10 RANDOM ITEMS:
 ID_INSANITY_06_REWARD_FTT_GEAR_FULL,15 RANDOM ITEMS:
 ID_INSANITY_06_REWARD_FTC_GEAR_MAT,14220 ITEMS:
 ID_INSANITY_06_REWARD_FTT_GEAR_MAT,28300 ITEMS:
+ID_INSANITY_07_REWARD_FTC_GEAR_FULL,10 ITEMS:
+ID_INSANITY_07_REWARD_FTT_GEAR_FULL,15 ITEMS:
+ID_INSANITY_07_REWARD_FTC_GEAR_MAT,5126 ITEMS:
+ID_INSANITY_07_REWARD_FTT_GEAR_MAT,10051 ITEMS:
 ID_INSANITY_REWARD_DESC_FTC,Reach 100% Completion in <color=#f7941d>{title}</color> to receive these rewards:
 ID_INSANITY_REWARD_DESC_FTT,100% a timed run of <color=#f7941d>{title}</color> to receive these rewards:
 ID_INSANITY_REWARD_DESC_COMPLETE,You have already earned these rewards.

@@ -2787,6 +2787,8 @@ ID_MOTD_DE_STARBRAND_ANNOUNCE,Unleash Ancient Fury with Starbrand!
 ID_MOTD_DE_STARBRAND_ANNOUNCE2,Open the In the Stars Orb to earn shards for this Primordial Emblem!
 ID_MOTD_NA_BATTLEPASS_SEASON15_ANNOUNCE,LIVE: Season 15 of Battle Pass
 ID_MOTD_DE_BATTLEPASS_SEASON15_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_RAID_DARKDIMENSIONVII_LIVE,Live: Dark Dimension VII
+ID_MOTD_DE_RAID_DARKDIMENSIONVII_LIVE,Unlock <color=#fff568>Mephisto</color> and other valuable rewards!
 ID_MOTD_NA_SIXTHANNIVERSARY_ANNOUNCE,LIVE: Sixth Anniversary
 ID_MOTD_DE_SIXTHANNIVERSARY_ANNOUNCE,Earn Deathpool's S.T.R.I.K.E. Anniversary Costume by participating in Anniversary Events!
 ID_MOTD_NA_SIXTHANNIVERSARY_ENDING,Ending Soon: Sixth Anniversary
@@ -2827,3 +2829,17 @@ ID_MOTD_NA_LEGACYREEL_ANNOUNCE,#MSF6 Legacy Reel
 ID_MOTD_DE_LEGACYREEL_ANNOUNCE,Watch your Legacy Reel - celebrate six years of MARVEL Strike Force!
 ID_MOTD_NA_MACHINESOFWAR_V2_ANNOUNCE,LIVE: Machines of War
 ID_MOTD_DE_MACHINESOFWAR_V2_ANNOUNCE,Battle in Alliance War for glorious rewards!
+ID_MOTD_NA_BATTLEPASS_SEASON17_ANNOUNCE,LIVE: Season 17 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON17_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
+ID_MOTD_NA_DEMONICORIGINS_ANNOUNCE,LIVE: Demonic Origins
+ID_MOTD_DE_DEMONICORIGINS_ANNOUNCE,Earn Demonic Gear!
+ID_MOTD_NA_DEMONICORIGINS_ENDING,Ending Soon: Demonic Origins
+ID_MOTD_DE_DEMONICORIGINS_ENDING,Earn Demonic Gear!
+ID_MOTD_NA_INFERNALPRELUDE_ANNOUNCE,Web Milestone: Infernal Prelude
+ID_MOTD_DE_INFERNALPRELUDE_ANNOUNCE,Link your account to earn more rewards on web!
+ID_MOTD_NA_ETERNALVENGEANCE_ANNOUNCE,LIVE: Eternal Vengeance
+ID_MOTD_DE_ETERNALVENGEANCE_ANNOUNCE,Unlock Cosmic Ghost Rider and earn Demonic Gear
+ID_MOTD_NA_ETERNALVENGEANCE_ENDING,Ending Soon: Eternal Vengeance
+ID_MOTD_DE_ETERNALVENGEANCE_ENDING,Unlock Cosmic Ghost Rider and earn Demonic Gear now!
+ID_MOTD_NA_GALACTICGHOST_ANNOUNCE,Web Milestone: Galactic Ghost
+ID_MOTD_DE_GALACTICGHOST_ANNOUNCE,Spend Incursion Energy and Earn Blitz Credits and reap more rewards on the web!
