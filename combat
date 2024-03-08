@@ -268,6 +268,7 @@ ID_ABILITY_TOAST_IRONHEARTMCU_PASSIVE,Heart of Iron
 ID_ABILITY_TOAST_IRONMAN_PASSIVE,Stark Upgrades
 ID_ABILITY_TOAST_IRONMANINFINITYWAR_PASSIVE,Nanotech Upgrades
 ID_ABILITY_TOAST_ZOMBIEIRONMAN_PASSIVE,Undead Upgrades
+ID_ABILITY_TOAST_IRONPATRIOT_PASSIVE,Iron Osborn
 ID_ABILITY_TOAST_JANETHOR_PASSIVE,Goddess of Thunder
 ID_ABILITY_TOAST_JESSICAJONES_PASSIVE,Denial
 ID_ABILITY_TOAST_JUBILEE_PASSIVE,Mall Rat
@@ -302,6 +303,7 @@ ID_ABILITY_TOAST_MAGNETO_PASSIVE,Brotherhood of Mutants
 ID_ABILITY_TOAST_MANTIS_PASSIVE,Will to Power
 ID_ABILITY_TOAST_MARIAHILL_PASSIVE,Fury's Right Hand
 ID_ABILITY_TOAST_MBAKU_PASSIVE,Ancestral Might
+ID_ABILITY_TOAST_MEPHISTO_PASSIVE,... In The Details
 ID_ABILITY_TOAST_MERCDMG_GENERAL_PASSIVE,Tactical Loadout
 ID_ABILITY_TOAST_MERCDMG_SINGLE_PASSIVE,High Velocity
 ID_ABILITY_TOAST_MERCSUPPORT_BUFFS_PASSIVE,Squad Coherency
@@ -424,6 +426,7 @@ ID_ABILITY_TOAST_TESTCHARACTERC_PASSIVE,Battle Maiden C
 ID_ABILITY_TOAST_TESTCHARACTERD_PASSIVE,Battle Maiden D
 ID_ABILITY_TOAST_THANOS_PASSIVE,Titan Eternal
 ID_ABILITY_TOAST_THANOS_EMPOWER_PASSIVE,Ultimate Power
+ID_ABILITY_TOAST_THELEADER_PASSIVE,Two Steps Ahead
 ID_ABILITY_TOAST_THING_PASSIVE,It's Clobberin' Time
 ID_ABILITY_TOAST_THOR_PASSIVE,God of Thunder
 ID_ABILITY_TOAST_THORNPC_PASSIVE,God of Thunder
@@ -483,6 +486,8 @@ ID_BATTLEFIELD_BE_REDHULK_NAME,<color=#D81B1B>Gamma Radiation</color>
 ID_BATTLEFIELD_BE_REDHULK_DESC,"On enemy Turn, attack that enemy for <color=#86e619>250%</color> Piercing damage + apply <color=#86e619>3</color> <color=#fff568>Bleed</color>.\nAttacks from this Battlefield Effect are unavoidable.\nThis Battlefield Effect lasts until cleared or until the end of the match."
 ID_BATTLEFIELD_BE_NOVA_NAME,<color=#3b8dcb>Nova Force</color>
 ID_BATTLEFIELD_BE_NOVA_DESC,"On this character's or ally's Turn, that character clears <color=#86e619>1</color> negative effect, gains +<color=#86e619>2</color> <color=#fff568>Deflect</color>, up to a maximum of <color=#86e619>10</color>, and heals for <color=#86e619>5%</color> of Max Health.\nFor this character and each ally, when that character drops below <color=#86e619>50%</color> health, heal that character for <color=#86e619>50%</color> of Max Health. This can only occur once per match for self and each ally.\nThis character and all allies gain +<color=#86e619>5%</color> Damage per <color=#fff568>Deflect</color> on that character.\nThis Battlefield Effect lasts until cleared or until the end of the match."
+ID_BATTLEFIELD_BE_MEPHISTO_NAME,<color=#FF5D00>Mark of Mephisto</color>
+ID_BATTLEFIELD_BE_MEPHISTO_DESC,"On any Turn, Barrier all allies for <color=#86e619>5%</color> of that character's Max Health.\nAllies gain <color=#86e619>+50%</color> Drain and Armor.\nAllies cannot gain <color=#fff568>Trauma</color>.\nAllies cannot have their Speed Bar reduced.\nThis Battlefield Effect lasts until cleared or until the end of the match."
 ID_TO_ME_MY_BOARD,"To me, my board!"
 ID_TO_US_OUR_BOARD,"To us, our board!"
 ID_PING,PING!

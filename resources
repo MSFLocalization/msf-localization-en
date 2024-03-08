@@ -309,7 +309,7 @@ ID_EVTA_META_MAR_A_DESCRIPTION,Collect Hourglasses for points in the Dawn of Tim
 ID_EVTA_META_MAR_B_NAME,T-Rex Tooth
 ID_EVTA_META_MAR_B_DESCRIPTION,Collect the T-Rex Tooth for points in the Dawn of Time Event. Earn it in the Primordial Avenger Event!
 ID_EVTA_META_MAR_C_NAME,Astral Meteorite
-ID_EVTA_META_MAR_C_DESCRIPTION,Collect the Astral Meteorite for points in the Dawn of Time Event. Earn it in the Historic Heist Event!
+ID_EVTA_META_MAR_C_DESCRIPTION,Collect the Astral Meteorite for points in the Dawn of Time Event. Earn it in the Demonic Origins Event!
 ID_EVTA_META_MAR_D_NAME,Cosmic Tire
 ID_EVTA_META_MAR_D_DESCRIPTION,Collect the Cosmic Tire for points in the Dawn of Time Event. Earn it in the Eternal Vengeance Event!
 ID_EVTA_META_MAR_E_NAME,Patriot Coin
@@ -318,6 +318,10 @@ ID_EVTA_META_MAR_F_NAME,Iso-8 Matrix Machine
 ID_EVTA_META_MAR_F_DESCRIPTION,Collect Iso-8 Matrix Machine for points in the Memory Lane Event. Earn them in the S.T.R.I.K.E. Celebration Event!
 ID_EVTA_META_MAR_J_NAME,Primordial Avenger Milestone Point
 ID_EVTA_META_MAR_J_DESCRIPTION,These points earn you additional progress in the Primordial Avenger Milestone. Earn them in limited time offers and the Wild Genesis Milestone!
+ID_EVTA_META_MAR_S_NAME,Corrupted Horns
+ID_EVTA_META_MAR_S_DESCRIPTION,Collect the Corrupted Horns for points in the Pact of Envy Event. Earn it from limited time offers.
+ID_EVTA_META_MAR_T_NAME,Corrupted Armor
+ID_EVTA_META_MAR_T_DESCRIPTION,Collect the Corrupted Armor for points in the Pact of Envy Event. Earn it from limited time offers.
 ID_EVTA_META_APR_A_NAME,Victory Flag
 ID_EVTA_META_APR_A_DESCRIPTION,Collect Victory Flags for points in the Royal Soldier Event. Earn them in various events throughout the month of April
 ID_EVTA_META_APR_B_NAME,Steel Dagger

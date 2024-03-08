@@ -237,6 +237,8 @@ ID_SHARD_IRONMANINFINITYWAR_NAME,Iron Man (Infinity War)
 ID_SHARD_IRONMANINFINITYWAR_DESCRIPTION,"Determined to save the Earth and those he loves, Tony Stark pulls out all the stops, granting positive Status Effects to his allies and dealing blows to those that would harm them."
 ID_SHARD_ZOMBIEIRONMAN_NAME,Iron Man (Zombie)
 ID_SHARD_ZOMBIEIRONMAN_DESCRIPTION,"After being infected with a mysterious zombifying virus, Tony Stark became a shadow of his former self who sates his hunger for flesh by inflicting Bleed on his enemies."
+ID_SHARD_IRONPATRIOT_NAME,Iron Patriot
+ID_SHARD_IRONPATRIOT_DESCRIPTION,"Creating his own Iron Man suit after the fall of S.H.I.E.L.D., Norman Osborn takes on the Iron Patriot persona and batters his opponents into a vulnerable state, slowing them down for his allies."
 ID_SHARD_JANETHOR_NAME,Mighty Thor
 ID_SHARD_JANETHOR_DESCRIPTION,"Deemed worthy by Mjolnir, Jane Foster, also known as the Mighty Thor, attacks her foes with blinding lightning and charges up her ally Hero Asgardians."
 ID_SHARD_JESSICAJONES_NAME,Jessica Jones
@@ -308,7 +310,7 @@ ID_SHARD_MARIAHILL_DESCRIPTION,Maria Hill is the Secret Avengers' Support who ba
 ID_SHARD_MBAKU_NAME,M'Baku
 ID_SHARD_MBAKU_DESCRIPTION,The noble leader of the Jabari tribe who protects his own and relentlessly assaults his enemies.
 ID_SHARD_MEPHISTO_NAME,Mephisto
-ID_SHARD_MEPHISTO_DESCRIPTION,
+ID_SHARD_MEPHISTO_DESCRIPTION,"The wheelin', dealin' ruler of Hell, Mephisto exploits human weakness to bring out the evil in them, tempting them into infernal contracts that make their wildest dreams come true. But the devil always takes his due, and any who come across him are left scarred, unable to Heal from his influence."
 ID_SHARD_MERCDMG_GENERAL_NAME,Mercenary Soldier
 ID_SHARD_MERCDMG_GENERAL_DESCRIPTION,A versatile soldier who can inflict area damage with grenades.
 ID_SHARD_MERCDMG_SINGLE_NAME,Mercenary Sniper
@@ -569,6 +571,8 @@ ID_SHARD_THANOS_NAME,Thanos
 ID_SHARD_THANOS_DESCRIPTION,A Titan Eternal who delivers crushing blows that drain his foes and taunt his enemies.
 ID_SHARD_THING_NAME,The Thing
 ID_SHARD_THING_DESCRIPTION,The Thing is a rocky Brawler who deals massive damage to single targets.
+ID_SHARD_THELEADER_NAME,The Leader
+ID_SHARD_THELEADER_DESCRIPTION,"After being exposed to gamma radiation, Samuel Sterns became a hyper-intelligent mastermind who exploits enemy weaknesses and empowers his nefarious allies."
 ID_SHARD_THOR_NAME,Thor
 ID_SHARD_THOR_DESCRIPTION,The God of Thunder who deals great damage and weakens multiple foes.
 ID_SHARD_THORNPC_NAME,Thor

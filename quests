@@ -3932,6 +3932,11 @@ ID_QU_S3_ALLIEDENGINES,Battle in Raids with Hive-Mind
 ID_QU_S4_ALLIEDENGINES,Battle in Raids with Hive-Mind at 5 Yellow Stars
 ID_QU_S5_ALLIEDENGINES,Battle in Raids with Hive-Mind at 6 Yellow Stars
 ID_QU_S6_ALLIEDENGINES,Battle in Raids with Hive-Mind at 7 Yellow Stars
+ID_QU_NA_WELLMAYYOUTREMBLE,Well May You Tremble
+ID_QU_SD_WELLMAYYOUTREMBLE,"Battle with Archenemies and ""Sixth Time to Strike"" Event"
+ID_QU_LM_WELLMAYYOUTREMBLE,"Battle with villains in the special Archenemies category in Raids, War, Cosmic Crucible, Arena, and Blitz, and spend Campaign Energy.\n\nRewards include: 6 Red Stars for Spider-Slayer, Kang the Conqueror and Lizard shards, all new Crimson Gear, and more!"
+ID_QU_S1_WELLMAYYOUTREMBLE,"Battle with Archenemies in Raids, War, Cosmic Crucible, Arena, and Blitz"
+ID_QU_S2_WELLMAYYOUTREMBLE,Spend 1 Campaign Energy
 ID_QU_NA_MACHINESOFWAR,Machines of War
 ID_QU_SD_MACHINESOFWAR,Battle in War and Earn Allied Supply IV Orb Fragments
 ID_QU_LD_MACHINESOFWAR,"Machines of War Milestone\nGain progress in this 7-day event by battling in Alliance War and earning Allied Supply IV Orb fragments from daily Free Claims and special offers. Earn incredible rewards including Origin gear, Gold and Armory Orbs. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses."
@@ -4141,6 +4146,12 @@ ID_QU_S11_PRIMORDIALAVENGER,Use Cosmic Ghost Rider in War
 ID_QU_S12_PRIMORDIALAVENGER,Use Cosmic Ghost Rider in War at 5 Yellow Stars
 ID_QU_S13_PRIMORDIALAVENGER,Use Cosmic Ghost Rider in War at 6 Yellow Stars
 ID_QU_S14_PRIMORDIALAVENGER,Use Cosmic Ghost Rider in War at 7 Yellow Stars
+ID_QU_NA_PACTOFENVY,Pact of Envy
+ID_QU_SD_PACTOFENVY,Unlock Black Cat's Costume
+ID_QU_SC_PACTOFENVY,Earn corrupted items from limited time offers
+ID_QU_LD_PACTOFENVY,Cabal character offers contain corrupted items in them. Earn one of each corrupted item to unlock Black Cat's Envy costume!
+ID_QU_S1_PACTOFENVY,Earn 1 Corrupted Horns
+ID_QU_S2_PACTOFENVY,Earn 1 Corrupted Armor
 ID_QU_NA_HISTORICHEIST,Historic Heist
 ID_QU_SD_HISTORICHEIST,Earn Black Cat Diamonds!
 ID_QU_LM_HISTORICHEIST,"Historic Heist\nGain progress in this 7-day event by earning Anniversary Orb Fragments from Campaign nodes, Free Claims and special Offers, and by playing Cosmic Crucible battles. \n\nEarn shining rewards including Void Knight shards, Diamond Orb Fragments, and Teal Bio gear. You'll also earn points towards the Dawn of Time milestone by collecting Hourglasses and the Astral Meteorite. Keep an eye on the web for Free Claims containing Anniversary Orb Fragments every day!\n\nTimeless Treasures Web Milestone\nEarn Alliance Credits and be rewarded with Teal Catalysts and progress in the Historic Heist Milestone."
@@ -4155,7 +4166,7 @@ ID_QU_S1_TIMELESSTREASURES,Earn 1 Alliance Credit
 ID_QU_NA_LEGACYOFSTRIKE,Legacy of S.T.R.I.K.E.
 ID_QU_SD_LEGACYOFSTRIKE,"Battle with MSF Originals and ""Sixth Time to Strike"" Event"
 ID_QU_LD_LEGACYOFSTRIKE,"Battle with Marvel Strike Force original characters in Raids, War, Cosmic Crucible, Arena, and Blitz, and spend ""Sixth Time to Strike"" Event Energy.\n\nRewards include: Vahl and Spider-Weaver shards, Teal gear, Catalysts, Gold, Training Modules, and more!"
-ID_QU_S1_LEGACYOFSTRIKE,"Battle with Marvel Strike Force original characters in Raids, War, Cosmic Crucible, Arena, and Blitz"
+ID_QU_S1_LEGACYOFSTRIKE,"Battle with MSF Originals in Raids, War, Cosmic Crucible, Arena, and Blitz"
 ID_QU_S2_LEGACYOFSTRIKE,"Spend 1 ""Sixth Time to Strike"" Event Energy"
 ID_QU_NA_SPLASH_DEATHSEED,Death Seed
 ID_QU_SD_SPLASH_DEATHSEED,Use Death Seed in Blitz
@@ -4178,8 +4189,8 @@ ID_QU_S1_MACHINESOFWAR_V2,Play 1 War Battle
 ID_QU_S2_MACHINESOFWAR_V2,Use a Out of Time character in War
 ID_QU_S3_MACHINESOFWAR_V2,Earn 1 Allied Supply IV Orb Fragment
 ID_QU_NA_DEMONICORIGINS,Demonic Origins
-ID_QU_SD_DEMONICORIGINS,Earn Demonic Gear!
-ID_QU_LM_DEMONICORIGINS,"Prepare for Mephisto's arrival in Dark Dimension 7 by stocking up on Crimson Gear!\n\nDemonic Origins\nGain progress in this 7-day event by earning Anniversary Orb Fragments from Campaign nodes, Free Claims and special Offers, and by playing Cosmic Crucible battles. \n\nEarn fiendish rewards including Demonic Gear, Void Knight shards, Diamond Orb Fragments, and Augmented Bio gear. You'll also earn points towards the Dawn of Time milestone by collecting Hourglasses and the Astral Meteorite. Keep an eye on the web for Free Claims containing Anniversary Orb Fragments every day!\n\nInfernal Prelude Web Milestone\nEarn Alliance Credits and be rewarded with Teal Catalysts and progress in the Demonic Origins Milestone."
+ID_QU_SD_DEMONICORIGINS,Earn Crimson Gear!
+ID_QU_LM_DEMONICORIGINS,"Prepare for Mephisto's arrival in Dark Dimension 7 by stocking up on Crimson Gear!\n\nDemonic Origins\nGain progress in this 7-day event by earning Anniversary Orb Fragments from Campaign nodes, Free Claims and special Offers, and by playing Cosmic Crucible battles. \n\nEarn fiendish rewards including Crimson Gear, Void Knight shards, Diamond Orb Fragments, and Augmented Bio gear. You'll also earn points towards the Dawn of Time milestone by collecting Hourglasses and the Astral Meteorite. Keep an eye on the web for Free Claims containing Anniversary Orb Fragments every day!\n\nInfernal Prelude Web Milestone\nEarn Alliance Credits and be rewarded with Teal Catalysts and progress in the Demonic Origins Milestone."
 ID_QU_SM_DEMONICORIGINS,Collect Orbs and Battle in Cosmic Crucible
 ID_QU_SC_DEMONICORIGINS,Collect Anniversary Orbs and Battle in Cosmic Crucible
 ID_QU_S1_DEMONICORIGINS,Earn 1 Anniversary Orb Fragment from Campaign Nodes and Free Claims
@@ -4190,7 +4201,7 @@ ID_QU_LD_INFERNALPRELUDE,Earn Alliance Credits to complete this milestone that r
 ID_QU_S1_INFERNALPRELUDE,Earn 1 Alliance Credit
 ID_QU_NA_ETERNALVENGEANCE,Eternal Vengeance
 ID_QU_DE_ETERNALVENGEANCE,Unlock Cosmic Ghost Rider!
-ID_QU_LD_ETERNALVENGEANCE,"Eternal Vengeance Milestone\nGain progress in this 7-day event by earning Stellar Specter Orb Fragments from Arena Ranked Rewards, battling in War, completing the Galactic Ghost Web Milestone, and daily Free Claims. \n\nEarn celestial rewards including Cosmic Ghost Rider shards, Void Knight shards and Augmented Mystic gear. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses and the Cosmic Tire.\n\nEternal Vengeance Leaderboard\nCompete on the Leaderboards for Demonic Gear and more!\n\nGalactic Ghost Web Milestone\nSpend Incursion Campaign Energy and earn Blitz Credits to earn Stellar Specter Orb Fragments and Teal Catalysts, and progress in the Eternal Vengeance Milestone."
+ID_QU_LD_ETERNALVENGEANCE,"Eternal Vengeance Milestone\nGain progress in this 7-day event by earning Stellar Specter Orb Fragments from Arena Ranked Rewards, battling in War, completing the Galactic Ghost Web Milestone, and daily Free Claims. \n\nEarn celestial rewards including Cosmic Ghost Rider shards, Void Knight shards and Augmented Mystic gear. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses and the Cosmic Tire.\n\nEternal Vengeance Leaderboard\nCompete on the Leaderboards for Crimson Gear and more!\n\nGalactic Ghost Web Milestone\nSpend Incursion Campaign Energy and earn Blitz Credits to earn Stellar Specter Orb Fragments and Teal Catalysts, and progress in the Eternal Vengeance Milestone."
 ID_QU_SD_ETERNALVENGEANCE,"Earn Orbs in Arena, battle in War"
 ID_QU_S1_ETERNALVENGEANCE,Earn 1 Stellar Specter Orb Fragment from Arena and Daily Free Claims
 ID_QU_S2_ETERNALVENGEANCE,Play 1 War Battle

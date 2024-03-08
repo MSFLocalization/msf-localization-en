@@ -6730,15 +6730,15 @@ ID_OF_NA_DEMONICORIGINS_DAILY_FREE_CLAIM,Free Devil's Advice
 ID_OF_NA_DEMONICORIGINS_DAILY_INTERSTITIAL,Diabolical Deal
 ID_OF_NA_DEMONICORIGINS_FCF,Free Claim Friday!
 ID_OF_NA_DEMONICORIGINS_FCF_INTERSTITIAL,Friday Mega Deal
-ID_OF_DE_DEMONICORIGINS_MEGA_STARTER,Get ahead in the <color=#fff568>Demonic Origins</color> Milestone and fast-forward your way to <color=#f12603>Demonic Gear</color> and <color=#fff568>Augmented Bio Gear</color>!
-ID_OF_DE_DEMONICORIGINS_STARTER,Get ahead in the <color=#fff568>Demonic Origins</color> Milestone and fast-forward your way to <color=#f12603>Demonic Gear</color> and <color=#fff568>Augmented Bio Gear</color>!
-ID_OF_DE_DEMONICORIGINS_MEGA_CATCHUP,Finish strong in the milestones to earn <color=#f12603>Demonic Gear</color> and <color=#fff568>Augmented Bio Gear</color>!
-ID_OF_DE_DEMONICORIGINS_CATCHUP,Finish strong in the milestones to earn <color=#f12603>Demonic Gear</color> and <color=#fff568>Augmented Bio Gear</color>!
+ID_OF_DE_DEMONICORIGINS_MEGA_STARTER,Get ahead in the <color=#fff568>Demonic Origins</color> Milestone and fast-forward your way to <color=#f12603>Crimson Gear</color> and <color=#fff568>Augmented Bio Gear</color>!
+ID_OF_DE_DEMONICORIGINS_STARTER,Get ahead in the <color=#fff568>Demonic Origins</color> Milestone and fast-forward your way to <color=#f12603>Crimson Gear</color> and <color=#fff568>Augmented Bio Gear</color>!
+ID_OF_DE_DEMONICORIGINS_MEGA_CATCHUP,Finish strong in the milestones to earn <color=#f12603>Crimson Gear</color> and <color=#fff568>Augmented Bio Gear</color>!
+ID_OF_DE_DEMONICORIGINS_CATCHUP,Finish strong in the milestones to earn <color=#f12603>Crimson Gear</color> and <color=#fff568>Augmented Bio Gear</color>!
 ID_OF_DE_DEMONICORIGINS_DAILY_ORB,Make progress in the Demonic Origins milestone by collecting more <color=#fff568>Anniversary Orbs</color>!
 ID_OF_DE_DEMONICORIGINS_DAILY_ENERGY,Get your daily energy fix to get ahead in the <color=#fff568>Demonic Origins</color> Milestone!
-ID_OF_DE_DEMONICORIGINS_WEB_SPECIAL,"Claim this mega deal to get ahead in the <color=#fff568>Demonic Origins</color> Milestone, and fast-forward your way to <color=#f12603>Demonic Gear</color> and <color=#fff568>Augmented Bio Gear</color>!"
-ID_OF_DE_DEMONICORIGINS_DAILY_POINTS,Get ahead in the <color=#fff568>Demonic Origins</color> Milestone and fast-forward your way to <color=#f12603>Demonic Gear</color> and <color=#fff568>Augmented Bio Gear</color>!
-ID_OF_DE_DEMONICORIGINS_DAILY_FREE_CLAIM,Finish strong in the milestones to earn <color=#f12603>Demonic Gear</color> and <color=#fff568>Augmented Bio Gear</color>!
+ID_OF_DE_DEMONICORIGINS_WEB_SPECIAL,"Claim this mega deal to get ahead in the <color=#fff568>Demonic Origins</color> Milestone, and fast-forward your way to <color=#f12603>Crimson Gear</color> and <color=#fff568>Augmented Bio Gear</color>!"
+ID_OF_DE_DEMONICORIGINS_DAILY_POINTS,Get ahead in the <color=#fff568>Demonic Origins</color> Milestone and fast-forward your way to <color=#f12603>Crimson Gear</color> and <color=#fff568>Augmented Bio Gear</color>!
+ID_OF_DE_DEMONICORIGINS_DAILY_FREE_CLAIM,Finish strong in the milestones to earn <color=#f12603>Crimson Gear</color> and <color=#fff568>Augmented Bio Gear</color>!
 ID_OF_DE_DEMONICORIGINS_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Demonic Origins</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_DEMONICORIGINS_FCF,Come back every Friday for special Free Claim! Remember to visit the web each day for the daily Free Claim!
 ID_OF_DE_DEMONICORIGINS_FCF_INTERSTITIAL,Make progress in the Demonic Origins milestone!
@@ -6801,11 +6801,27 @@ ID_OF_NA_ETERNALVENGEANCE_DAILY_INTERSTITIAL,Eternal Vengeance: Hidden Trove
 ID_OF_NA_ETERNALVENGEANCE_GENERIC,Eternal Vengeance: Special Bundle
 ID_OF_NA_ETERNALVENGEANCE_FCF,Free Claim Friday!
 ID_OF_NA_ETERNALVENGEANCE_FCF_INTERSTITIAL,Friday Mega Deal
-ID_OF_DE_ETERNALVENGEANCE_STARTER,Get ahead in the <color=#fff568>Eternal Vengeance</color> Milestone and Leaderboard and fast-forward your way to <color=#fff568>Cosmic Ghost Rider Shards</color> and <color=#f12603>Demonic Gear</color>!
-ID_OF_DE_ETERNALVENGEANCE_MEGA_CATCHUP,Finish strong in the milestones and leaderboard to earn <color=#fff568>Cosmic Ghost Rider Shards</color> and <color=#f12603>Demonic Gear</color>!
-ID_OF_DE_ETERNALVENGEANCE_CATCHUP,Finish strong in the milestones and leaderboard to earn <color=#fff568>Cosmic Ghost Rider Shards</color> and <color=#f12603>Demonic Gear</color>!
+ID_OF_DE_ETERNALVENGEANCE_STARTER,Get ahead in the <color=#fff568>Eternal Vengeance</color> Milestone and Leaderboard and fast-forward your way to <color=#fff568>Cosmic Ghost Rider Shards</color> and <color=#f12603>Crimson Gear</color>!
+ID_OF_DE_ETERNALVENGEANCE_MEGA_CATCHUP,Finish strong in the milestones and leaderboard to earn <color=#fff568>Cosmic Ghost Rider Shards</color> and <color=#f12603>Crimson Gear</color>!
+ID_OF_DE_ETERNALVENGEANCE_CATCHUP,Finish strong in the milestones and leaderboard to earn <color=#fff568>Cosmic Ghost Rider Shards</color> and <color=#f12603>Crimson Gear</color>!
 ID_OF_DE_ETERNALVENGEANCE_DAILY_ORB,"Earn shards for Cosmic Ghost Rider and top War characters, and make progress in the Eternal Vengeance milestone by collecting more <color=#fff568>Stellar Specter Orbs</color>!"
-ID_OF_DE_ETERNALVENGEANCE_GENERIC,"Claim this mega deal to get ahead in the <color=#fff568>Eternal Vengeance</color> Milestone and Leaderboard, and fast-forward your way to <color=#fff568>Cosmic Ghost Rider Shards</color> and <color=#f12603>Demonic Gear</color>!"
+ID_OF_DE_ETERNALVENGEANCE_GENERIC,"Claim this mega deal to get ahead in the <color=#fff568>Eternal Vengeance</color> Milestone and Leaderboard, and fast-forward your way to <color=#fff568>Cosmic Ghost Rider Shards</color> and <color=#f12603>Crimson Gear</color>!"
 ID_OF_DE_ETERNALVENGEANCE_DAILY_ENERGY,Get your daily Incursion Energy fix to progress in the <color=#fff568>Galactic Ghost</color> Web Milestone!
 ID_OF_DE_ETERNALVENGEANCE_FREECLAIM,Come back daily for more <color=#fff568>Eternal Vengeance</color> progress!
 ID_OF_DE_ETERNALVENGEANCE_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Eternal Vengeance</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_IRONPATRIOT_FCO_OFFER,Dark Avenger
+ID_OF_DE_IRONPATRIOT_FCO_OFFER,"Each <color=#fff568>Dark Leader Orb</color> contains <color=#fff568>up to 180 Iron Patriot</color> shards. <color=#fff568>Iron Patriot</color> applies <color=#800080>Vulnerable</color> to all enemies on spawn, ensuring a strong start towards victory!"
+ID_OF_DE_IRONPATRIOT_OFFER_VAR_SU,"Unlock Iron Patriot and get the Iron Patriot ""Classic"" Costume via FREE in-game claim! Recruit a <color=#fff568>{var1}-star Iron Patriot</color> and unlock one-time only release offers on your next visit! <color=#fff568>Iron Patriot</color> applies <color=#800080>Vulnerable</color> to all enemies on spawn, ensuring a strong start towards victory!"
+ID_OF_DE_IRONPATRIOT_OFFER_SHARD,"Power up <color=#fff568>Iron Patriot</color> with this shard offer! <color=#fff568>Iron Patriot</color> applies <color=#800080>Vulnerable</color> to all enemies on spawn, ensuring a strong start towards victory!"
+ID_OF_DE_IRONPATRIOT_UNLOCK_OFFER,"Unlock Iron Patriot and get the Iron Patriot ""Classic"" Costume via FREE in-game claim! <color=#fff568>Iron Patriot</color> applies <color=#800080>Vulnerable</color> to all enemies on spawn, ensuring a strong start towards victory!"
+ID_OF_STOREBAR_IRONPATRIOT,Dual Offer: Iron Patriot
+ID_OF_NA_DUAL_IRONPATRIOT,Dual Offer: Iron Patriot
+ID_OF_DE_DUAL_IRONPATRIOT,Choose your path to power up this <color=#fff568>Cabal</color> member!
+ID_OF_DE_DUAL_UNLOCK_IRONPATRIOT,Unlock this <color=#fff568>Cabal</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_IRONPATRIOT_FCO_OFFER_BASIC,Iron Patriot Release Offer
+ID_OF_NA_IRONPATRIOT_WEB_EXTRA_FCO_OFFER,Iron Patriot Unlock Offer
+ID_OF_DE_IRONPATRIOT_WEB_EXTRA_FCO_OFFER,"Unlock Iron Patriot and get the Iron Patriot ""Classic"" Costume via FREE in-game claim! The Dark Avenger, <color=#fff568>Iron Patriot</color>, has arrived!"
+ID_OF_NA_IRONPATRIOT_WEB_SPECIAL_OFFER,Dark Avenger Special
+ID_OF_DE_IRONPATRIOT_WEB_SPECIAL_OFFER,"<color=#fff568>Web Special!</color> Unlock Iron Patriot and get the Iron Patriot ""Classic"" Costume via FREE in-game claim! <color=#fff568>Iron Patriot</color> applies <color=#800080>Vulnerable</color> to all enemies on spawn, ensuring a strong start towards victory!"
+ID_OF_NA_BFYB_HONOR_FREE,Event Issue Resolved
+ID_OF_DE_BFYB_HONOR_FREE,"To the players in Nexus Earth who missed out on potential advantages, thank you for sticking with us through thick and thin. Here is a gift to show our gratitude for your patience and passion."
