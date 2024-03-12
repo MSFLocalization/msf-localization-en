@@ -6723,7 +6723,7 @@ ID_OF_NA_DEMONICORIGINS_STARTER,Anticipate the Darkness
 ID_OF_NA_DEMONICORIGINS_MEGA_CATCHUP,Diabolical Catch-Up
 ID_OF_NA_DEMONICORIGINS_CATCHUP,Infernal Catch-Up
 ID_OF_NA_DEMONICORIGINS_DAILY_ORB,Demonic Origins: Daily Orb
-ID_OF_NA_DEMONICORIGINS_DAILY_ENERGY,Daily Demonic Energy
+ID_OF_NA_DEMONICORIGINS_DAILY_ENERGY,Daily Infernal Energy
 ID_OF_NA_DEMONICORIGINS_WEB_SPECIAL,Demonic Origins: Web Special
 ID_OF_NA_DEMONICORIGINS_DAILY_POINTS,Demonic Origins: Daily Points
 ID_OF_NA_DEMONICORIGINS_DAILY_FREE_CLAIM,Free Devil's Advice
@@ -6758,10 +6758,10 @@ ID_OF_NA_ANNIV24_BIGA18DDC,Happy Birthday MSF
 ID_OF_NA_ANNIV24_WEAVERSPECIAL,Symbiote Whisperer
 ID_OF_NA_ANNIV24_GOLDABMW3,Extraordinary Talent
 ID_OF_NA_ANNIV24_TRAINISO,Built for Battle
-ID_OF_NA_ANNIV24_SYLVIEBRB,Asguardian Anniversary
+ID_OF_NA_ANNIV24_SYLVIEBRB,Asgardian Anniversary
 ID_OF_NA_ANNIV24_CATCHUPPROMOGEAR,Anniversary Party Pack
 ID_OF_NA_ANNIV24_GOLDTRAINORB,Golden Boost
-ID_OF_DE_ANNIV24_DIAMONDCATWEB,Take advantage of this amazing web-only special on <color=#ffda21>Diamond Orbs and Gear Tier 18 Orbs</color>! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_DIAMONDCATWEB,Take advantage of this amazing web-only special on <color=#ffda21>Diamond Orbs and Armory 18 Orbs</color>! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_ANNIV24_GOLDISOW3,Build up a strong foundation towards longevity with this essential <color=#ffda21>Gold and ISO-8</color> combo offer. <color=#0071a6>A {var1}x value</color>!
 ID_OF_DE_ANNIV24_VKGWEN,"Satiate your endless hunger with this bundle of Void Knight, Gwenpool, and promotions! <color=#0071a6>A {var1}x value</color>!"
 ID_OF_DE_ANNIV24_A18ABM,Get more <color=#fff568>Armory 18 Orbs</color> to get your roster closer to their maximum potential! <color=#0071a6>A {var1}x value</color>!
@@ -6773,7 +6773,7 @@ ID_OF_DE_ANNIV24_DDUNIQUE,Seize this offer for more <color=#fff568>Teal Uniques 
 ID_OF_DE_ANNIV24_DPCPROMOTRAINORB,"Embrace all opportunities you can to improve yourself, starting with this anniversary offer of <color=#ffda21>Dark Promotion Credits</color> and more! <color=#0071a6>Greater than a {var1}x value</color>!"
 ID_OF_DE_ANNIV24_GOLDA18,Take advantage of this anniversary offer of <color=#ffda21>Gold & Armory Orbs</color>! <color=#0071a6>A {var1}x value</color>!
 ID_OF_DE_ANNIV24_A18GOLDORB,Pick up these <color=#fff568>Armory 18 Orbs</color> and Gold Orbs to prepare your roster for the next challenge. <color=#ffda21>A {var1}x value</color>!
-ID_OF_DE_ANNIV24_BIGA18DDC,"Unwrap this Anniversary offer full of <color=#ffda21>Gear Tier 18 Orbs, Dark Diamond Credits and Ability Materials</color>! <color=#0071a6>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_BIGA18DDC,"Unwrap this Anniversary offer full of <color=#ffda21>Armory 18 Orbs, Dark Diamond Credits and Ability Materials</color>! <color=#0071a6>A {var1}x value</color>!"
 ID_OF_DE_ANNIV24_WEAVERSPECIAL,Celebrate the 6th anniversary with Spider-Weaver and her new Symbiote Friends! <color=#0071a6>Greater than a {var1}x value</color>!
 ID_OF_DE_ANNIV24_GOLDABMW3,Upgrade your top character's best abilities with this special deal on <color=#ffda21>T4 Ability Materials</color>! <color=#0071a6>Greater than a {var1}x value</color>!
 ID_OF_DE_ANNIV24_TRAINISO,Keep pace with a special offer of <color=#ffda21>Training Orbs and T2 Iso-8 Ion Orbs</color>. <color=#0071a6>A {var1}x value</color>!
