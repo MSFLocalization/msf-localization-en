@@ -3932,11 +3932,6 @@ ID_QU_S3_ALLIEDENGINES,Battle in Raids with Hive-Mind
 ID_QU_S4_ALLIEDENGINES,Battle in Raids with Hive-Mind at 5 Yellow Stars
 ID_QU_S5_ALLIEDENGINES,Battle in Raids with Hive-Mind at 6 Yellow Stars
 ID_QU_S6_ALLIEDENGINES,Battle in Raids with Hive-Mind at 7 Yellow Stars
-ID_QU_NA_WELLMAYYOUTREMBLE,Well May You Tremble
-ID_QU_SD_WELLMAYYOUTREMBLE,"Battle with Archenemies and ""Sixth Time to Strike"" Event"
-ID_QU_LM_WELLMAYYOUTREMBLE,"Battle with villains in the special Archenemies category in Raids, War, Cosmic Crucible, Arena, and Blitz, and spend Campaign Energy.\n\nRewards include: 6 Red Stars for Spider-Slayer, Kang the Conqueror and Lizard shards, all new Crimson Gear, and more!"
-ID_QU_S1_WELLMAYYOUTREMBLE,"Battle with Archenemies in Raids, War, Cosmic Crucible, Arena, and Blitz"
-ID_QU_S2_WELLMAYYOUTREMBLE,Spend 1 Campaign Energy
 ID_QU_NA_MACHINESOFWAR,Machines of War
 ID_QU_SD_MACHINESOFWAR,Battle in War and Earn Allied Supply IV Orb Fragments
 ID_QU_LD_MACHINESOFWAR,"Machines of War Milestone\nGain progress in this 7-day event by battling in Alliance War and earning Allied Supply IV Orb fragments from daily Free Claims and special offers. Earn incredible rewards including Origin gear, Gold and Armory Orbs. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses."
@@ -4182,6 +4177,11 @@ ID_QU_SC_SPLASH_MSFORIGINAL,Use MSF Original Characters in Blitz
 ID_QU_S1_SPLASH_MSFORIGINAL,Win Blitz with a 3-star or higher MSF Original Character
 ID_QU_S2_SPLASH_MSFORIGINAL,Win Blitz with a 5-star or higher MSF Original Character
 ID_QU_S3_SPLASH_MSFORIGINAL,Win Blitz with a 7-star MSF Original Character
+ID_QU_NA_WELLMAYYOUTREMBLE,Well May You Tremble
+ID_QU_SD_WELLMAYYOUTREMBLE,Battle with Archenemies and spend Campaign Energy
+ID_QU_LM_WELLMAYYOUTREMBLE,"Battle with villains in the special Archenemies category in Raids, War, Cosmic Crucible, Arena, and Blitz, and spend Campaign Energy.\n\nRewards include: 6 Red Stars for Spider-Slayer, Kang the Conqueror and Lizard shards, all new Crimson Gear, and more!"
+ID_QU_S1_WELLMAYYOUTREMBLE,"Battle with Archenemies in Raids, War, Cosmic Crucible, Arena, and Blitz"
+ID_QU_S2_WELLMAYYOUTREMBLE,Spend 1 Campaign Energy
 ID_QU_NA_MACHINESOFWAR_V2,Machines of War
 ID_QU_SD_MACHINESOFWAR_V2,"War with Out of Time, Collect Event Orbs"
 ID_QU_LD_MACHINESOFWAR_V2,Machines of War Milestone\nGain progress in this 6-day event by battling in Alliance War (bonus points when using Out of Time characters) and earning Allied Supply IV Orb fragments from daily Free Claims and special offers. \n\nEarn incredible rewards including Mega Gold Orbs and Armory Orbs. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses.
@@ -4207,7 +4207,21 @@ ID_QU_S1_ETERNALVENGEANCE,Earn 1 Stellar Specter Orb Fragment from Arena and Dai
 ID_QU_S2_ETERNALVENGEANCE,Play 1 War Battle
 ID_QU_S3_ETERNALVENGEANCE,Earn 1 Eternal Vengeance Milestone Point
 ID_QU_NA_GALACTICGHOST,Galactic Ghost
-ID_QU_SD_GALACTICGHOST,Spend Incursion Energy and Earn Blitz Credits
+ID_QU_SD_GALACTICGHOST,Spend Incursion Energy and Play Blitz Battles
 ID_QU_LD_GALACTICGHOST,"Spend Incursion Energy and Earn Blitz Credits and get rewarded with Stellar Specter Orb Fragments, Augmented Catalysts, and Eternal Vengeance milestone progress."
 ID_QU_S1_GALACTICGHOST,Spend 1 Incursion Energy
-ID_QU_S2_GALACTICGHOST,Earn 1 Blitz Credit
+ID_QU_S2_GALACTICGHOST,Play 1 Blitz Battle
+ID_QU_NA_SPLASH_MUTANTMENACE,Mutant Menace
+ID_QU_SD_SPLASH_MUTANTMENACE,Use Death Seed in Blitz
+ID_QU_LM_SPLASH_MUTANTMENACE,Earn points by using Death Seed characters in Blitz Battles. Earn more points if your Death Seed characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_MUTANTMENACE,Use Death Seed Characters in Blitz
+ID_QU_S1_SPLASH_MUTANTMENACE,Win Blitz with a 3-star or higher Death Seed Character
+ID_QU_S2_SPLASH_MUTANTMENACE,Win Blitz with a 5-star or higher Death Seed Character
+ID_QU_S3_SPLASH_MUTANTMENACE,Win Blitz with a 7-star Death Seed Character
+ID_QU_NA_SPLASH_S.T.R.I.K.E.SUMMIT,S.T.R.I.K.E. Summit
+ID_QU_SD_SPLASH_S.T.R.I.K.E.SUMMIT,Use MSF Originals in Blitz
+ID_QU_LM_SPLASH_S.T.R.I.K.E.SUMMIT,Earn points by using MSF Original characters in Blitz Battles. Earn more points if your MSF Original characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_S.T.R.I.K.E.SUMMIT,Use MSF Original Characters in Blitz
+ID_QU_S1_SPLASH_S.T.R.I.K.E.SUMMIT,Win Blitz with a 3-star or higher MSF Original Character
+ID_QU_S2_SPLASH_S.T.R.I.K.E.SUMMIT,Win Blitz with a 5-star or higher MSF Original Character
+ID_QU_S3_SPLASH_S.T.R.I.K.E.SUMMIT,Win Blitz with a 7-star MSF Original Character
