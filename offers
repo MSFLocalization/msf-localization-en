@@ -5800,14 +5800,14 @@ ID_OF_NA_ALLIEDENGINES_HIVE,Symbiote Alliance
 ID_OF_NA_ALLIEDENGINES_FREECLAIM,Allied Engines: Free Claim
 ID_OF_NA_ALLIEDENGINES_INTERSTITIAL,Allied Engines: Web Special
 ID_OF_NA_ALLIEDENGINES_GENERIC,Allied Engines Event Pack
-ID_OF_DE_ALLIEDENGINES_STARTER,Get ahead in the <color=#fff568>Allied Engines</color> Milestone and propel your Alliance to <color=#fff568>Dark Promotion Credits</color> and <color=#fff568>Teal Gear</color>!
-ID_OF_DE_ALLIEDENGINES_CATCHUP,Finish strong in the <color=#fff568>Allied Engines</color> Milestone and propel your Alliance to <color=#fff568>Dark Promotion Credits</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_ALLIEDENGINES_STARTER,Get ahead in the <color=#fff568>Allied Engines</color> Milestone and propel your Alliance to <color=#fff568>Crimson Gear Catalysts</color> and <color=#fff568>Armory 18 Orbs</color>!
+ID_OF_DE_ALLIEDENGINES_CATCHUP,Finish strong in the <color=#fff568>Allied Engines</color> Milestone and propel your Alliance to <color=#fff568>Crimson Gear Catalysts</color> and <color=#fff568>Armory 18 Orbs</color>!
 ID_OF_DE_ALLIEDENGINES_DAILY_ORB,"Collect these event orbs for <color=#fff568>T2 Level 5 Ion Orb Fragments, Gold, Training Materials and Teal Origin Gear</color>, as well as <color=#fff568>Allied Engines</color> Milestone progress!"
 ID_OF_DE_ALLIEDENGINES_DAILY_POINTS,Come back daily for more <color=#fff568>Allied Engines</color> progress!
 ID_OF_DE_ALLIEDENGINES_HIVE,Rank up your Hive-Mind characters to maximize your <color=#fff568>Allied Engines</color> Milestone progress!
 ID_OF_DE_ALLIEDENGINES_FREECLAIM,Come back daily for more <color=#fff568>Allied Engines</color> progress!
 ID_OF_DE_ALLIEDENGINES_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Allied Engines</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
-ID_OF_DE_ALLIEDENGINES_GENERIC,Get ahead in the <color=#fff568>Allied Engines</color> Milestone and propel your Alliance to <color=#fff568>Dark Promotion Credits</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_ALLIEDENGINES_GENERIC,Get ahead in the <color=#fff568>Allied Engines</color> Milestone and propel your Alliance to <color=#fff568>Crimson Gear Catalysts</color> and <color=#fff568>Armory 18 Orbs</color>!
 ID_OF_NA_LEVEL100_ENERGYBIGPRE,Overwhelming Energy
 ID_OF_NA_LEVEL100_ENERGYSMALLPRE,Energy Charge
 ID_OF_NA_LEVEL100_XPBIGPRE,XP Overdrive
@@ -6682,7 +6682,7 @@ ID_OF_DE_STPATRICK24_STREAK3,Satisfy your taste for <color=#ffda21>Gold & Elite 
 ID_OF_DE_STPATRICK24_STREAK2,"Enjoy a tarty aftertaste with <color=#ffda21>Mega Orb, T4 Ability Materials</color> & more in this special offer. Next step has <color=#ffff00>Gold & more</color>! <color=#ffda21>A {var1}x value</color>!"
 ID_OF_DE_STPATRICK24_STREAK1,"Tangy flavor abounds with <color=#ffda21>Dark Promotion Credit, Red Goblin shards</color> & more in this special offer. Next step has a <color=#ffa500>Mega Orb & more</color>! <color=#ffda21>A {var1}x value</color>!"
 ID_OF_DE_STPATRICK24_STREAK0,Start your journey of flavorful offers with this FREE special! Check the store after claiming to see what's next in the offer series!
-ID_OF_DE_STPATRICK24_WEB_DAILYFREE,Start your journey of flavorful offers with this FREE special!
+ID_OF_DE_STPATRICK24_WEB_DAILYFREE,Claim free gold daily from the web store with this holiday special!
 ID_OF_DE_STPATRICK24_TRAINGPCGOLD,"Bask in the glow of progression today with <color=#ffda21>Training Orbs, Gold Promotion Credit</color> & more in this limited time offer. <color=#ffda21>A {var1}x value</color>!"
 ID_OF_DE_STPATRICK24_E7DPC,Progress your roster with <color=#ffda21>Elite 7 Credit & Dark Promotion Credit</color> in this limited time offer. <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_STPATRICK24_MEGAORBCENERGY,"Take advantage of this offer for a <color=#ffda21>Mega Orb, Campaign Energy</color> & more in this special opportunity. <color=#ffda21>A {var1}x value</color>!"
@@ -6829,3 +6829,35 @@ ID_OF_NA_IRONPATRIOT_FREE_COSTUME_OFFER,"Iron Patriot ""Classic"" Costume"
 ID_OF_DE_IRONPATRIOT_FREE_COSTUME_OFFER,"Congratulations on unlocking Iron Patriot! Claim your Iron Patriot ""Classic"" Costume."
 ID_OF_NA_BFYB_MAKEGOOD,BFYB Make Good Offer
 ID_OF_DE_BFYB_MAKEGOOD,Celebrate 6 Years of MSF and take advantage of this once in a lifetime deal on Augmented and Superior Gear!
+ID_OF_NA_COSTUME_IRONPATRIOT_FCO_CLASSIC,Classic Iron Patriot Costume Claim
+ID_OF_DE_COSTUME_IRONPATRIOT_FCO_CLASSIC,Congratulations on unlocking the <color=#fff568>Classic Iron Patriot</color> costume!
+ID_OF_NA_FOREVERPATRIOT_MEGASTARTER,Forever Patriot: Mega Starter
+ID_OF_NA_6THANNIVERSARY_6FOR66,6th Anniversary 6 for 66
+ID_OF_DE_6THANNIVERSARY_6FOR66,Join us in celebrating 6 years of MARVEL Strike Force! Keep an eye out for another 6 for 66 offer tomorrow.
+ID_OF_NA_7DLS_A,CLAIM NOW: 7 Day Login Streak Token
+ID_OF_NA_7DLS_A2,CLAIM NOW: Login Streak Token
+ID_OF_DE_7DLS_A,Reactivate your 7 Day Login Streak by claiming the token for FREE! Fill your streak bar and activate the streak benefits instantly!
+ID_OF_NA_7DLS_B,FREE CLAIM: 7 Day Login Streak Token
+ID_OF_NA_7DLS_B2,FREE CLAIM: Login Streak Token
+ID_OF_DE_7DLS_B,Claim your FREE 7 Day Login Streak to instantly fill your streak bar and activate your streak benefits!
+ID_OF_NA_7DLS_C,7 Day Login Token!
+ID_OF_DE_7DLS_C,Reactivate your 7 Day Login Streak and activate your streak benefits INSTANTLY!
+ID_OF_NA_7DLS_D,Reactivate Your Streak Now!
+ID_OF_DE_7DLS_D,Losing your 7 Day Login Streak is no fun! Get a 7 Day Login Streak Token to reactivate your streak instantly! Think of all the streak benefits!
+ID_OF_NA_FOREVERPATRIOT_STARTER,Forever Patriot: Starter
+ID_OF_NA_FOREVERPATRIOT_MEGACATCHUP,Forever Patriot: Mega Catch-up
+ID_OF_NA_FOREVERPATRIOT_CATCHUP,Forever Patriot: Catch-up
+ID_OF_NA_FOREVERPATRIOT_SPECIAL,Forever Patriot: Web Special
+ID_OF_NA_FOREVERPATRIOT_DAILY_ORB,Daily Pledge of Allegiance
+ID_OF_NA_FOREVERPATRIOT_DAILY_ENERGY,Daily Patriotic Energy
+ID_OF_NA_FOREVERPATRIOT_DAILY_INTERSTITIAL,Forever Patriot: Web Special
+ID_OF_NA_FOREVERPATRIOTFREE_CLAIM,Forever Patriot: Free Claim
+ID_OF_DE_FOREVERPATRIOT_MEGASTARTER,Get ahead in the <color=#fff568>Forever Patriot Milestone</color> and blast through for Iron Patriot shards and <color=#f12603>Crimson Gear</color>!
+ID_OF_DE_FOREVERPATRIOT_STARTER,Get a head start in the <color=#fff568>Forever Patriot Milestone</color> and speed through for Iron Patriot shards and <color=#f12603>Crimson Gear</color>!
+ID_OF_DE_FOREVERPATRIOT_MEGACATCHUP,Finish strong in the <color=#fff568>Forever Patriot Milestone</color> and get your hands on <color=#f12603>Crimson Gear</color> and Iron Patriot shards!
+ID_OF_DE_FOREVERPATRIOT_CATCHUP,Complete the <color=#fff568>Forever Patriot Milestone</color> for <color=#f12603>Crimson Gear</color> and Iron Patriot shards!
+ID_OF_DE_FOREVERPATRIOT_SPECIAL,Reign with an iron fist with this <color=#fff568>Forever Patriot</color> special web bundle!
+ID_OF_DE_FOREVERPATRIOT_DAILY_ORB,Restock on Patriot Corp Orbs for Iron Patriot shards and <color=#fff568>Forever Patriot Milestone</color> progress!
+ID_OF_DE_FOREVERPATRIOT_DAILY_ENERGY,Get a daily dose of Iso-8 Campaign Energy to complete the <color=#fff568>Dark Reign Web Milestone</color>!
+ID_OF_DE_FOREVERPATRIOT_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Forever Patriot</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_FOREVERPATRIOTFREE_CLAIM,Come back daily for more <color=#fff568>Forever Patriot</color> progress!

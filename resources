@@ -209,7 +209,7 @@ ID_EVENT_CUR1_DESCRIPTION,Spend Heart Candy at the Candy Shop. Only for a limite
 ID_EVENT_CUR2_NAME,Gear Credits
 ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
 ID_EVENT_CUR3_NAME,Stellar Specter Orb Fragment
-ID_EVENT_CUR3_DESCRIPTION,"Open Stellar Specter Orbs to earn shards for Cosmic Ghost Rider, top War characters, and progress in the Eternal Vengeance milestone"
+ID_EVENT_CUR3_DESCRIPTION,"Open Stellar Specter Orbs to earn shards for Cosmic Ghost Rider, Hive-Mind characters, and progress in the Eternal Vengeance milestone"
 ID_EVENT_CUR4_NAME,Demonic Origins Milestone Points
 ID_EVENT_CUR4_DESCRIPTION,These points earn you additional progress in the Demonic Origins Milestone. Earn them in limited offers!
 ID_EVENT_CUR5_NAME,Anniversary Orb Fragments
@@ -218,10 +218,10 @@ ID_EVENT_CUR6_NAME,Machines of War Milestone Points
 ID_EVENT_CUR6_DESCRIPTION,These points earn you additional progress in the Machines of War Milestone. Earn them in limited offers!
 ID_EVENT_CUR7_NAME,Eternal Vengeance Milestone Points
 ID_EVENT_CUR7_DESCRIPTION,These points earn you additional progress in the Eternal Vengeance Milestone. Earn them in the Galactic Ghost Web Milestone and special Offers!
-ID_EVENT_CUR8_NAME,Symbiote Surfer Orb Fragments
-ID_EVENT_CUR8_DESCRIPTION,Earn progress in the Symbiote of the Spaceways Milestone and open Symbiote Surfer Orbs for Void Knight shards!
-ID_EVENT_CUR9_NAME,Allied Engines Milestone Points
-ID_EVENT_CUR9_DESCRIPTION,These points earn you additional progress in the Allied Engines Milestone. Earn them in limited offers!
+ID_EVENT_CUR8_NAME,Forever Patriot Milestone Points
+ID_EVENT_CUR8_DESCRIPTION,These points earn you additional progress in the Forever Patriot Milestone. Earn them in the Dark Reign Web Milestone and special Offers!
+ID_EVENT_CUR9_NAME,Patriot Corp Orb Fragment
+ID_EVENT_CUR9_DESCRIPTION,Open Patriot Corp Orbs to earn shards for Iron Patriot and progress in the Forever Patriot milestone
 ID_EVENT_CUR10_NAME,Allied Supply III Orb Fragments
 ID_EVENT_CUR10_DESCRIPTION,"Open Allied Supply III Orbs to get Gold, Training Materials, T2 Level 5 Ion Orb Fragments and more!"
 ID_EVENT_CUR11_NAME,Allied Engines Milestone Points

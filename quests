@@ -3925,7 +3925,7 @@ ID_QU_LD_LEVELLIFTOFF,Battle in Raids to complete this daily milestone that rewa
 ID_QU_S1_LEVELLIFTOFF,Play 1 Raid Battle
 ID_QU_NA_ALLIEDENGINES,Allied Engines
 ID_QU_SD_ALLIEDENGINES,Raids with Hive-Mind and collect Event Orbs
-ID_QU_LD_ALLIEDENGINES,"Battle in Raids with Hive-Mind characters and collect Allied Supply IV Orb Fragments.\n\nMilestone rewards include a Diamond Orb, Training Modules, Dark Promotion Credits and more!"
+ID_QU_LD_ALLIEDENGINES,"Battle in Raids with Hive-Mind characters and collect Allied Supply IV Orb Fragments.\n\nMilestone rewards include Armory 18 Orbs, T2 Level 5 Ions, Crimson Gear Catalysts, and more!"
 ID_QU_S1_ALLIEDENGINES,Collect 1 Allied Supply IV Orb Fragment
 ID_QU_S2_ALLIEDENGINES,Battle in Raids
 ID_QU_S3_ALLIEDENGINES,Battle in Raids with Hive-Mind
@@ -4201,14 +4201,14 @@ ID_QU_LD_INFERNALPRELUDE,Earn Alliance Credits to complete this milestone that r
 ID_QU_S1_INFERNALPRELUDE,Earn 1 Alliance Credit
 ID_QU_NA_ETERNALVENGEANCE,Eternal Vengeance
 ID_QU_DE_ETERNALVENGEANCE,Unlock Cosmic Ghost Rider!
-ID_QU_LD_ETERNALVENGEANCE,"Eternal Vengeance Milestone\nGain progress in this 7-day event by earning Stellar Specter Orb Fragments from Arena Ranked Rewards, battling in War, completing the Galactic Ghost Web Milestone, and daily Free Claims. \n\nEarn celestial rewards including Cosmic Ghost Rider shards, Void Knight shards and Augmented Mystic gear. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses and the Cosmic Tire.\n\nEternal Vengeance Leaderboard\nCompete on the Leaderboards for Crimson Gear and more!\n\nGalactic Ghost Web Milestone\nSpend Incursion Campaign Energy and earn Blitz Credits to earn Stellar Specter Orb Fragments and Teal Catalysts, and progress in the Eternal Vengeance Milestone."
+ID_QU_LD_ETERNALVENGEANCE,"Eternal Vengeance Milestone\nGain progress in this 7-day event by earning Stellar Specter Orb Fragments from Arena Ranked Rewards, battling in War, completing the Galactic Ghost Web Milestone, and daily Free Claims. \n\nEarn celestial rewards including Cosmic Ghost Rider shards, Void Knight shards and Augmented Mystic gear. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses and the Cosmic Tire.\n\nEternal Vengeance Leaderboard\nCompete on the Leaderboards for Crimson Gear and more!\n\nGalactic Ghost Web Milestone\nSpend Incursion Campaign Energy and play Blitz battles to earn Stellar Specter Orb Fragments and Teal Catalysts, and progress in the Eternal Vengeance Milestone."
 ID_QU_SD_ETERNALVENGEANCE,"Earn Orbs in Arena, battle in War"
 ID_QU_S1_ETERNALVENGEANCE,Earn 1 Stellar Specter Orb Fragment from Arena and Daily Free Claims
 ID_QU_S2_ETERNALVENGEANCE,Play 1 War Battle
 ID_QU_S3_ETERNALVENGEANCE,Earn 1 Eternal Vengeance Milestone Point
 ID_QU_NA_GALACTICGHOST,Galactic Ghost
 ID_QU_SD_GALACTICGHOST,Spend Incursion Energy and Play Blitz Battles
-ID_QU_LD_GALACTICGHOST,"Spend Incursion Energy and Earn Blitz Credits and get rewarded with Stellar Specter Orb Fragments, Augmented Catalysts, and Eternal Vengeance milestone progress."
+ID_QU_LD_GALACTICGHOST,"Spend Incursion Energy and Play Blitz battles and get rewarded with Stellar Specter Orb Fragments, Augmented Catalysts, and Eternal Vengeance milestone progress."
 ID_QU_S1_GALACTICGHOST,Spend 1 Incursion Energy
 ID_QU_S2_GALACTICGHOST,Play 1 Blitz Battle
 ID_QU_NA_SPLASH_MUTANTMENACE,Mutant Menace
@@ -4225,3 +4225,13 @@ ID_QU_SC_SPLASH_S.T.R.I.K.E.SUMMIT,Use MSF Original Characters in Blitz
 ID_QU_S1_SPLASH_S.T.R.I.K.E.SUMMIT,Win Blitz with a 3-star or higher MSF Original Character
 ID_QU_S2_SPLASH_S.T.R.I.K.E.SUMMIT,Win Blitz with a 5-star or higher MSF Original Character
 ID_QU_S3_SPLASH_S.T.R.I.K.E.SUMMIT,Win Blitz with a 7-star MSF Original Character
+ID_QU_NA_FOREVERPATRIOT,Forever Patriot
+ID_QU_SD_FOREVERPATRIOT,Recruit Iron Patriot!
+ID_QU_LD_FOREVERPATRIOT,"Forever Patriot Milestone\nGain progress in this 7-day event by spending Campaign Energy, battling in Cosmic Crucible, collecting Patriot Corp Orb Fragments from Free Claims and special Offers, and completing the Dark Reign Web Milestone. \n\nEarn mischievous rewards including Iron Patriot shards and Crimson Gear. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses and the Patriot Coin.\n\nDark Reign Web Milestone\nSpend Iso-8 Campaign Energy and be rewarded with even more Patriot Corp Orbs for additional progress in the Forever Patriot Milestone. Keep an eye out for Free Claims containing Patriot Corp Orb fragments every day!"
+ID_QU_S1_FOREVERPATRIOT,Spend 1 Campaign Energy
+ID_QU_S2_FOREVERPATRIOT,Battle in Cosmic Crucible
+ID_QU_S3_FOREVERPATRIOT,Earn Patriot Corp Orb Fragments from Free Claims and special Offers
+ID_QU_NA_DARKREIGN,Dark Reign
+ID_QU_SD_DARKREIGN,Spend Iso-8 Campaign Energy
+ID_QU_LD_DARKREIGN,Spend Iso-8 Campaign Energy and be rewarded with Patriot Corp Orbs for progress in the Forever Patriot Milestone.
+ID_QU_S1_DARKREIGN,Spend 1 Iso-8 Campaign Energy
