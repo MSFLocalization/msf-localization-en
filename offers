@@ -6861,3 +6861,47 @@ ID_OF_DE_FOREVERPATRIOT_DAILY_ORB,Restock on Patriot Corp Orbs for Iron Patriot 
 ID_OF_DE_FOREVERPATRIOT_DAILY_ENERGY,Get a daily dose of Iso-8 Campaign Energy to complete the <color=#fff568>Dark Reign Web Milestone</color>!
 ID_OF_DE_FOREVERPATRIOT_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Forever Patriot</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_FOREVERPATRIOTFREE_CLAIM,Come back daily for more <color=#fff568>Forever Patriot</color> progress!
+ID_OF_NA_ANNIV24_DIAMONDGOLDW4,Vahl-iant Value
+ID_OF_NA_ANNIV24_TRAINA18W4,Lightweight Leveling
+ID_OF_NA_ANNIV24_XMENABMW4,Uncanny Ability
+ID_OF_NA_ANNIV24_GOLDTRAINASTRALW4,Six Year Celebration
+ID_OF_NA_ANNIV24_TRAININGOSMIUMW4,Successful Training
+ID_OF_NA_ANNIV24_PROMODPCW4,Dark Side of Promotion
+ID_OF_NA_ANNIV24_GOLDABMW4,Cheers to 6 Years
+ID_OF_NA_ANNIV24_BKDDCW4,Sinister Slayer
+ID_OF_NA_ANNIV24_A18GOLDW4,Golden Anniversary
+ID_OF_NA_ANNIV24_VILLAINSHARDW4,Villainous Offer
+ID_OF_NA_ANNIV24_XMENUNIQUESW4,Uncanny and Unique
+ID_OF_NA_ANNIV24_GOLDISOW4,Solid Gold Offer
+ID_OF_NA_ANNIV24_GOLDTRAINE7W4,Anniversary Party Pack
+ID_OF_NA_ANNIV24_DPCTRAINW4,Continued Success
+ID_OF_NA_ANNIV24_BAMFABMISOW4,Uniquely BAMF
+ID_OF_NA_ANNIV24_DARKDIMUNIQUEW4,Anniversary Armory
+ID_OF_NA_ANNIV24_GOLDE7W4,Rank up Revolution
+ID_OF_NA_ANNIV24_ISOABMW4,Iso Advancement
+ID_OF_DE_ANNIV24_DIAMONDGOLDW4,"Pick up Vahl's special offer of <color=#ffda21>Gold, Diamond Orbs and more</color>! <color=#0071a6>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_TRAINA18W4,Make the update to your roster that you've always wanted with this <color=#fff568>Training Module and Gear Tier 18</color> combo! <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_XMENABMW4,The <color=#ffda21>Uncanny X-Men</color> are prepared to power up. Give them the <color=#ffda21>T4 Ability Materials</color> they need! <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_GOLDTRAINASTRALW4,Build up a strong foundation towards longevity with this essential <color=#ffda21>Training & Gold</color> combo offer. <color=#0071a6>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_TRAININGOSMIUMW4,Train up your roster with this special offer of <color=#ffda21>L4 Training Modules & Augmented Tempered Osmium</color>. <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_PROMODPCW4,"Embrace all opportunities you can to improve yourself, starting with this anniversary offer of <color=#ffda21>Elite 7 Credits</color> and more! <color=#0071a6>Greater than a {var1}x value</color>!"
+ID_OF_DE_ANNIV24_GOLDABMW4,Upgrade your top character's best abilities with this special deal on <color=#ffda21>T4 Ability Materials</color>! <color=#0071a6>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_BKDDCW4,Slay top teams with a historic retaliate mechanic and keep your boot on their neck by denying Revive! <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_A18GOLDW4,Take advantage of this anniversary offer of <color=#ffda21>Gold & Armory 18 Orbs</color>! <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_VILLAINSHARDW4,Let the Villians loose with this special anniversary offer! <color=#0071a6>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_XMENUNIQUESW4,Don some new gear with the <color=#ffda21>Uncanny X-Men's</color> new abilities! <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_GOLDISOW4,Build up a strong foundation towards longevity with this essential <color=#ffda21>Gold and ISO-8</color> combo offer. <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_GOLDTRAINE7W4,Make the update to your roster that you've always wanted with this <color=#fff568>Gold and Training Module</color> combo! <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_DPCTRAINW4,Build your roster towards perfection with <color=#ffda21>L4 Training Modules and Dark Promotion Credits</color>. <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_BAMFABMISOW4,Help <color=#ffda21>Nightcrawler</color> wreak havoc on your enemies with this special deal! <color=#0071a6>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_DARKDIMUNIQUEW4,Seize this offer for more <color=#fff568>Teal Uniques</color>! <color=#0071a6>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_GOLDE7W4,Make the update to your roster that you've always wanted with this <color=#fff568>Gold and Promotion</color> combo! <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_ISOABMW4,Advance your roster's ISO-8 status with this special offer of <color=#ffda21>Ions and T4 Ability Materials</color>. <color=#0071a6>A {var1}x value</color>!
+ID_OF_NA_ANNIV24_VAHLCHAIN1,Vahl's S.T.R.I.K.E. Package 1/4
+ID_OF_NA_ANNIV24_VAHLCHAIN2,Vahl's S.T.R.I.K.E. Package 2/4
+ID_OF_NA_ANNIV24_VAHLCHAIN3,Vahl's S.T.R.I.K.E. Package 3/4
+ID_OF_NA_ANNIV24_VAHLCHAIN4,Vahl's Final S.T.R.I.K.E. Package
+ID_OF_DE_ANNIV24_VAHLCHAIN1,"Continue through this chain to unlock a free claim with <color=#ffda21>1,000 Diamond Orb Fragments</color> and <color=#ffda21>300 L4 Training Modules</color> at the end!"
+ID_OF_DE_ANNIV24_VAHLCHAIN2,"Continue through this chain to unlock a free claim with <color=#ffda21>1,000 Diamond Orb Fragments</color> and <color=#ffda21>300 L4 Training Modules</color> at the end!"
+ID_OF_DE_ANNIV24_VAHLCHAIN3,"Continue through this chain to unlock a free claim with <color=#ffda21>1,000 Diamond Orb Fragments</color> and <color=#ffda21>300 L4 Training Modules</color> at the end!"
+ID_OF_DE_ANNIV24_VAHLCHAIN4,You've exhausted Vahl's special package. Stay tuned for future S.T.R.I.K.E. packages!
