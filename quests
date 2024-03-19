@@ -4232,11 +4232,11 @@ ID_QU_S2_SPLASH_S.T.R.I.K.E.SUMMIT,Win Blitz with a 5-star or higher MSF Origina
 ID_QU_S3_SPLASH_S.T.R.I.K.E.SUMMIT,Win Blitz with a 7-star MSF Original Character
 ID_QU_NA_FOREVERPATRIOT,Forever Patriot
 ID_QU_SD_FOREVERPATRIOT,Recruit Iron Patriot!
-ID_QU_LD_FOREVERPATRIOT,"Forever Patriot Milestone\nGain progress in this 7-day event by spending Campaign Energy, battling in Cosmic Crucible, collecting Patriot Corp Orb Fragments from Free Claims and special Offers, and completing the Dark Reign Web Milestone. \n\nEarn mischievous rewards including Iron Patriot shards and Crimson Gear. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses and the Patriot Coin.\n\nDark Reign Web Milestone\nSpend Iso-8 Campaign Energy and be rewarded with even more Patriot Corp Orbs for additional progress in the Forever Patriot Milestone. Keep an eye out for Free Claims containing Patriot Corp Orb fragments every day!"
-ID_QU_S1_FOREVERPATRIOT,Spend 1 Campaign Energy
+ID_QU_LD_FOREVERPATRIOT,"Forever Patriot Milestone\nGain progress in this 7-day event by spending Iso-8 Campaign Energy, battling in Cosmic Crucible, collecting Patriot Corp Orb Fragments from Free Claims and special Offers, and completing the Dark Reign Web Milestone. \n\nEarn mischievous rewards including Iron Patriot shards and Crimson Gear. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses and the Patriot Coin.\n\nDark Reign Web Milestone\nEarn Alliance Credits and be rewarded with even more Patriot Corp Orbs for additional progress in the Forever Patriot Milestone. Keep an eye out for Free Claims containing Patriot Corp Orb fragments every day!"
+ID_QU_S1_FOREVERPATRIOT,Spend 1 Iso-8 Campaign Energy
 ID_QU_S2_FOREVERPATRIOT,Battle in Cosmic Crucible
 ID_QU_S3_FOREVERPATRIOT,Earn Patriot Corp Orb Fragments from Free Claims and special Offers
 ID_QU_NA_DARKREIGN,Dark Reign
-ID_QU_SD_DARKREIGN,Spend Iso-8 Campaign Energy
-ID_QU_LD_DARKREIGN,Spend Iso-8 Campaign Energy and be rewarded with Patriot Corp Orbs for progress in the Forever Patriot Milestone.
-ID_QU_S1_DARKREIGN,Spend 1 Iso-8 Campaign Energy
+ID_QU_SD_DARKREIGN,Earn Alliance Credits
+ID_QU_LD_DARKREIGN,Earn Alliance Credits and be rewarded with Patriot Corp Orbs for progress in the Forever Patriot Milestone.
+ID_QU_S1_DARKREIGN,Earn 1 Alliance Credit
