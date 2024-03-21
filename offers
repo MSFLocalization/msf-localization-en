@@ -6936,16 +6936,64 @@ ID_OF_DE_CABAL24_IRONPATRIOT_THELEADER_TRAIN,Power up your <color=#fff568>Cabal<
 ID_OF_DE_CABAL24_IRONPATRIOT_THELEADER_A18_TRAIN,Take your <color=#fff568>Cabal</color> team to 6 Yellow Stars to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>2.8M T2 Level 5 Ions and 250 Gear Tier 18 Mini-Uniques</color> in the entire event!
 ID_OF_DE_CABAL24_FULL_HIVEMIND_TEAM_TRAIN,Improve your entire <color=#fff568>Cabal</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>2.8M T2 Level 5 Ions and 250 Gear Tier 18 Mini-Uniques</color> in the entire event!
 ID_OF_NA_THELEADER_FCO_OFFER,Cabal Mastermind
-ID_OF_DE_THELEADER_FCO_OFFER,"Each <color=#fff568>Gammbitious Orb</color> contains <color=#fff568>up to 180 The Leader</color> shards. The Leader�s strength comes from the <color=#fff568>Barrier</color> applied to his Villain allies, positive Spawn effects like <color=#fff568>Safeguard & Defense Up</color>, and the <color=#fff568>Max Health plus Armor</color> boosts for Villains in <color=#fff568>Cosmic Crucible</color>!"
-ID_OF_DE_THELEADER_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star The Leader</color> and unlock one-time only release offers on your next visit! The Leader�s strength comes from the <color=#fff568>Barrier</color> applied to his Villain allies, positive Spawn effects like <color=#fff568>Safeguard & Defense Up</color>, and the <color=#fff568>Max Health plus Armor</color> boosts for Villains in <color=#fff568>Cosmic Crucible</color>!"
-ID_OF_DE_THELEADER_OFFER_SHARD,"Power up <color=#fff568>The Leader</color> with this shard offer! The Leader�s strength comes from the <color=#fff568>Barrier</color> applied to his Villain allies, positive Spawn effects like <color=#fff568>Safeguard & Defense Up</color>, and the <color=#fff568>Max Health plus Armor</color> boosts for Villains in <color=#fff568>Cosmic Crucible</color>!"
-ID_OF_DE_THELEADER_UNLOCK_OFFER,"Unlock <color=#fff568>The Leader</color> now! The Leader�s strength comes from the <color=#fff568>Barrier</color> applied to his Villain allies, positive Spawn effects like <color=#fff568>Safeguard & Defense Up</color>, and the <color=#fff568>Max Health plus Armor</color> boosts for Villains in <color=#fff568>Cosmic Crucible</color>!"
+ID_OF_DE_THELEADER_FCO_OFFER,"Each <color=#fff568>Gammbitious Orb</color> contains <color=#fff568>up to 180 The Leader</color> shards. The Leader's strength comes from the Barrier applied to his <color=#fff568>VILLAIN</color> allies, positive Spawn effects like <color=#fff568>Safeguard</color> & <color=#fff568>Defense Up</color>, and the Max Health and Armor boosts for <color=#fff568>VILLAIN</color> allies in <color=#fff568>Cosmic Crucible</color>!"
+ID_OF_DE_THELEADER_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star The Leader</color> and unlock one-time only release offers on your next visit! The Leader's strength comes from the Barrier applied to his <color=#fff568>VILLAIN</color> allies, positive Spawn effects like <color=#fff568>Safeguard</color> & <color=#fff568>Defense Up</color>, and the Max Health and Armor boosts for <color=#fff568>VILLAIN</color> allies in <color=#fff568>Cosmic Crucible</color>!"
+ID_OF_DE_THELEADER_OFFER_SHARD,"Power up <color=#fff568>The Leader</color> with this shard offer! The Leader's strength comes from the Barrier applied to his <color=#fff568>VILLAIN</color> allies, positive Spawn effects like <color=#fff568>Safeguard</color> & <color=#fff568>Defense Up</color>, and the Max Health and Armor boosts for <color=#fff568>VILLAIN</color> allies in <color=#fff568>Cosmic Crucible</color>!"
+ID_OF_DE_THELEADER_UNLOCK_OFFER,"Unlock <color=#fff568>The Leader</color> now! The Leader's strength comes from the Barrier applied to his <color=#fff568>VILLAIN</color> allies, positive Spawn effects like <color=#fff568>Safeguard</color> & <color=#fff568>Defense Up</color>, and the Max Health and Armor boosts for <color=#fff568>VILLAIN</color> allies in <color=#fff568>Cosmic Crucible</color>!"
 ID_OF_STOREBAR_THELEADER,Dual Offer: The Leader
 ID_OF_NA_DUAL_THELEADER,Dual Offer: The Leader
 ID_OF_DE_DUAL_THELEADER,Choose your path to power up this <color=#fff568>Cabal</color> member!
 ID_OF_DE_DUAL_UNLOCK_THELEADER,Unlock this <color=#fff568>Cabal</color> member and <color=#fff568>one-time release offers</color> on your next visit!
 ID_OF_NA_THELEADER_FCO_OFFER_BASIC,The Leader Release Offer
+ID_OF_NA_CABAL_TEAM_OFFER,Superior Six Team Bundle
+ID_OF_DE_CABAL_TEAM_OFFER," <color=#fff568>Cabal</color> team members!"
 ID_OF_NA_THELEADER_WEB_EXTRA_FCO_OFFER,The Leader Unlock Offer
 ID_OF_DE_THELEADER_WEB_EXTRA_FCO_OFFER,"The Cabal Mastermind, <color=#fff568>The Leader</color>, has arrived!"
 ID_OF_NA_THELEADER_WEB_SPECIAL_OFFER,Cabal Mastermind Special
-ID_OF_DE_THELEADER_WEB_SPECIAL_OFFER,"<color=#fff568>Web Special!</color>The Leader�s strength comes from the <color=#fff568>Barrier</color> applied to his Villain allies, positive Spawn effects like <color=#fff568>Safeguard & Defense Up</color>, and the <color=#fff568>Max Health plus Armor</color> boosts for Villains in <color=#fff568>Cosmic Crucible</color>!"
+ID_OF_DE_THELEADER_WEB_SPECIAL_OFFER,"<color=#fff568>Web Special!</color>The Leader's strength comes from the Barrier applied to his <color=#fff568>VILLAIN</color> allies, positive Spawn effects like <color=#fff568>Safeguard</color> & <color=#fff568>Defense Up</color>, and the Max Health and Armor boosts for <color=#fff568>VILLAIN</color> allies in <color=#fff568>Cosmic Crucible</color>!"
+ID_OF_NA_ANNIV24_FINALECHAIN1,S.T.R.I.K.E. Package 1/4
+ID_OF_NA_ANNIV24_FINALECHAIN2,S.T.R.I.K.E. Package 2/4
+ID_OF_NA_ANNIV24_FINALECHAIN3,S.T.R.I.K.E. Package 3/4
+ID_OF_NA_ANNIV24_FINALECHAIN4,Final S.T.R.I.K.E. Package
+ID_OF_NA_ANNIV24_STRIKESPECIALW5,S.T.R.I.K.E. Special
+ID_OF_NA_ANNIV24_STRIKEUNIQUEW5,S.T.R.I.K.E. Gear
+ID_OF_NA_ANNIV24_GOLDABMW5,Extraordinary Talent
+ID_OF_NA_ANNIV24_TRAINE7W5,Rank up Revolution
+ID_OF_NA_ANNIV24_GOLDTRAINUNIQUEW5,Six Year Celebration
+ID_OF_NA_ANNIV24_BAMFTRAINW5,BAMF Training
+ID_OF_NA_ANNIV24_GOLDTRAINE7W5,Anniversary Party Pack
+ID_OF_NA_ANNIV24_UNIQUEGOLDTRAINW5,Augmented Anniversary
+ID_OF_NA_ANNIV24_BKDPCW5,Knight of the Darkness
+ID_OF_NA_ANNIV24_GOLDISOW5,Solid Gold Offer
+ID_OF_NA_ANNIV24_GOLDDPCW5,Rank up Revolution
+ID_OF_NA_ANNIV24_TRAINGOLDW5,Level Climber
+ID_OF_NA_ANNIV24_STRIKEDAWNW5,Dawn of S.T.R.I.K.E.
+ID_OF_NA_ANNIV24_ORBSABMW5,Happy Birthday MSF
+ID_OF_NA_ANNIV24_VKUNIQUEW5,Symbiotic Surfer
+ID_OF_NA_ANNIV24_GOLDDPCORBW5,Wealth of Promotions
+ID_OF_NA_ANNIV24_DARKPROMOE7W5,Elite Opportunity
+ID_OF_NA_ANNIV24_DDUNIQUEW5,Dimensional Dealings
+ID_OF_NA_ANNIV24_BAMFUNIQUEW5,Circus Swashbuckler
+ID_OF_DE_ANNIV24_FINALECHAIN1,"Continue through this chain to unlock a free claim with <color=#ffda21>2,000 Diamond Orb Fragments</color> at the end!"
+ID_OF_DE_ANNIV24_FINALECHAIN2,"Continue through this chain to unlock a free claim with <color=#ffda21>2,000 Diamond Orb Fragments</color> at the end!"
+ID_OF_DE_ANNIV24_FINALECHAIN3,"Continue through this chain to unlock a free claim with <color=#ffda21>2,000 Diamond Orb Fragments</color> at the end!"
+ID_OF_DE_ANNIV24_FINALECHAIN4,You've exhausted the final S.T.R.I.K.E. package. Happy Anniversary Commander!
+ID_OF_DE_ANNIV24_STRIKESPECIALW5,"Pick up S.T.R.I.K.E.'s special offer of <color=#ffda21>Gold, Training Modules and more</color>! <color=#0071a6>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_STRIKEUNIQUEW5,Seize this offer for more <color=#fff568>Teal Uniques</color> that S.T.R.I.K.E. needs! <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_GOLDABMW5,Upgrade your top character's best abilities with this special deal on <color=#ffda21>T4 Ability Materials</color>! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_TRAINE7W5,Make the update to your roster that you've always wanted with this <color=#fff568>Training Module and Promotion</color> combo! <color=#0071a6>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_GOLDTRAINUNIQUEW5,Build up a strong foundation towards longevity with this essential <color=#ffda21>Training & Gold</color> combo offer. <color=#0071a6>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_BAMFTRAINW5,Power up <color=#fff568>Nightcrawler</color> with this special anniversary offer! BAMF! <color=#0071a6>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_GOLDTRAINE7W5,Make the update to your roster that you've always wanted with this <color=#fff568>Gold and Training Module</color> combo! <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_UNIQUEGOLDTRAINW5,Take advantage of this anniversary offer of <color=#ffda21>Gold & Teal Uniques</color>! <color=#0071a6>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_BKDPCW5,None shall pass up on this offer for <color=#fff568>Black Knight</color> and more <color=#d10000>Dark Promotion Credits</color>! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_GOLDISOW5,Build up a strong foundation towards longevity with this essential <color=#ffda21>Gold and ISO-8</color> combo offer. <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_GOLDDPCW5,Make the update to your roster that you've always wanted with this <color=#fff568>Gold and Dark Promotion</color> combo! <color=#0071a6>A {var1}x value</color>!
+ID_OF_DE_ANNIV24_TRAINGOLDW5,Train up your roster with this special offer of <color=#ffda21>L4 Training Modules & Gold Orbs</color>. <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_STRIKEDAWNW5,"Pick up this anniversary offer of <color=#ffda21>Diamond Dawn Orbs, Training Modules and more</color>! <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_ORBSABMW5,"Unwrap this Anniversary offer full of <color=#ffda21>Gold Orbs, Training Orbs and Ability Materials</color>! <color=#0071a6>A {var1}x value</color>!"
+ID_OF_DE_ANNIV24_VKUNIQUEW5,Help <color=#ffda21>Void Knight</color> wreak havoc on your enemies with this special deal! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_GOLDDPCORBW5,A bounty of <color=#ffda21>Gold</color> and Dark Promotion Credits to power up your roster! <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_DARKPROMOE7W5,"Embrace all opportunities you can to improve yourself, starting with this anniversary offer of <color=#ffda21>Elite 7 Credits</color> and more! <color=#0071a6>Greater than a {var1}x value</color>!"
+ID_OF_DE_ANNIV24_DDUNIQUEW5,Seize this offer for more <color=#fff568>Teal Uniques</color>! <color=#0071a6>Greater than a {var1}x value</color>!
+ID_OF_DE_ANNIV24_BAMFUNIQUEW5,Gear up <color=#fff568>Nightcrawler</color> with this special anniversary offer! BAMF! <color=#0071a6>A {var1}x value</color>!
