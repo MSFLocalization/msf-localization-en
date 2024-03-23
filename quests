@@ -400,6 +400,27 @@ ID_QU_SC_SPLASH_BIONICAVENGERS,Use Bionic Avengers Characters in Blitz
 ID_QU_S1_SPLASH_BIONICAVENGERS,Win a Blitz battle with any 3-star or higher Bionic Avengers Character
 ID_QU_S2_SPLASH_BIONICAVENGERS,Win a Blitz battle with any 5-star or higher Bionic Avengers Character
 ID_QU_S3_SPLASH_BIONICAVENGERS,Win a Blitz battle with any 7-star Bionic Avengers Character
+ID_QU_NA_SPLASH_ARCPOWERED,Arc Powered
+ID_QU_SD_SPLASH_ARCPOWERED,Use P.E.G.A.S.U.S. in Blitz
+ID_QU_LM_SPLASH_ARCPOWERED,Earn points by using P.E.G.A.S.U.S. characters in Blitz Battles. Earn more points if your P.E.G.A.S.U.S. characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_ARCPOWERED,Use P.E.G.A.S.U.S. Characters in Blitz
+ID_QU_S1_SPLASH_ARCPOWERED,Win Blitz with a 3-star or higher P.E.G.A.S.U.S. Character
+ID_QU_S2_SPLASH_ARCPOWERED,Win Blitz with a 5-star or higher P.E.G.A.S.U.S. Character
+ID_QU_S3_SPLASH_ARCPOWERED,Win Blitz with a 7-star P.E.G.A.S.U.S. Character
+ID_QU_NA_SPLASH_ANIMALSIXPACK,Animal Six-Pack
+ID_QU_SD_SPLASH_ANIMALSIXPACK,Use Superior Six in Blitz
+ID_QU_LM_SPLASH_ANIMALSIXPACK,Earn points by using Superior Six characters in Blitz Battles. Earn more points if your Superior Six characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_ANIMALSIXPACK,Use Superior Six Characters in Blitz
+ID_QU_S1_SPLASH_ANIMALSIXPACK,Win Blitz with a 3-star or higher Superior Six Character
+ID_QU_S2_SPLASH_ANIMALSIXPACK,Win Blitz with a 5-star or higher Superior Six Character
+ID_QU_S3_SPLASH_ANIMALSIXPACK,Win Blitz with a 7-star Superior Six Character
+ID_QU_NA_SPLASH_HYDRAHUNTERS,Hydra Hunters
+ID_QU_SD_SPLASH_HYDRAHUNTERS,Use Invaders in Blitz
+ID_QU_LM_SPLASH_HYDRAHUNTERS,Earn points by using Invader characters in Blitz Battles. Earn more points if your Invader characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_HYDRAHUNTERS,Use Invader Characters in Blitz
+ID_QU_S1_SPLASH_HYDRAHUNTERS,Win Blitz with a 3-star or higher Invader Character
+ID_QU_S2_SPLASH_HYDRAHUNTERS,Win Blitz with a 5-star or higher Invader Character
+ID_QU_S3_SPLASH_HYDRAHUNTERS,Win Blitz with a 7-star Invader Character
 ID_QUEST_KNOCKOUT_GENERIC,Knock out any enemy with any character
 ID_QUEST_DAMAGE_GENERIC,Do damage with any character
 ID_QUEST_ABILITY_GENERIC,Use any ability with any character
@@ -4232,7 +4253,7 @@ ID_QU_S2_SPLASH_S.T.R.I.K.E.SUMMIT,Win Blitz with a 5-star or higher MSF Origina
 ID_QU_S3_SPLASH_S.T.R.I.K.E.SUMMIT,Win Blitz with a 7-star MSF Original Character
 ID_QU_NA_FOREVERPATRIOT,Forever Patriot
 ID_QU_SD_FOREVERPATRIOT,Recruit Iron Patriot!
-ID_QU_LD_FOREVERPATRIOT,"Forever Patriot Milestone\nGain progress in this 7-day event by spending Iso-8 Campaign Energy, battling in Cosmic Crucible, collecting Patriot Corp Orb Fragments from Free Claims and special Offers, and completing the Dark Reign Web Milestone. \n\nEarn mischievous rewards including Iron Patriot shards and Crimson Gear. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses and the Patriot Coin.\n\nDark Reign Web Milestone\nEarn Alliance Credits and be rewarded with even more Patriot Corp Orbs for additional progress in the Forever Patriot Milestone. Keep an eye out for Free Claims containing Patriot Corp Orb fragments every day!"
+ID_QU_LD_FOREVERPATRIOT,"Forever Patriot Milestone\nGain progress in this 8-day event by spending Iso-8 Campaign Energy, battling in Cosmic Crucible, collecting Patriot Corp Orb Fragments from Free Claims and special Offers, and completing the Dark Reign Web Milestone. \n\nEarn mischievous rewards including Iron Patriot shards and Crimson Gear. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses and the Patriot Coin.\n\nDark Reign Web Milestone\nEarn Alliance Credits and be rewarded with even more Patriot Corp Orbs for additional progress in the Forever Patriot Milestone. Keep an eye out for Free Claims containing Patriot Corp Orb fragments every day!"
 ID_QU_S1_FOREVERPATRIOT,Spend 1 Iso-8 Campaign Energy
 ID_QU_S2_FOREVERPATRIOT,Battle in Cosmic Crucible
 ID_QU_S3_FOREVERPATRIOT,Earn Patriot Corp Orb Fragments from Free Claims and special Offers
