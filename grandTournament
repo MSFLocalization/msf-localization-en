@@ -50,6 +50,7 @@ ID_GT_EVENT_NAME_SEASON3,Season 3
 ID_GT_EVENT_NAME_SEASON4,Season 4
 ID_GT_EVENT_NAME_SEASON5,Season 5
 ID_GT_EVENT_NAME_SEASON6,Season 6
+ID_GT_EVENT_NAME_SEASON7,Season 7
 ID_GT_EVENT_NAME_EVENT,Ultimate 32
 ID_GT_GLOBAL_RULES_NAME,Magical Disruptions
 ID_GT_GLOBAL_RULES_DESC,"On Offense, reduce Speed and Resistance by <color=#86e619>10%</color> for all non-<color=#fff568>MASTERS OF EVIL VILLAIN MYSTICS</color>. \nOn Defense, reduce Speed and Resistance by <color=#86e619>20%</color> for all <color=#fff568>COSMIC VILLAIN MYSTICS</color>. \nOn any <color=#fff568>COSMIC VILLAIN MYSTICS</color> Turn, apply <color=#fff568>Bleed</color> to that character. \nOn Defense, all characters gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage. \n<color=#fff568>DARKHOLD</color> characters have -<color=#86e619>10%</color> Max Health, Focus, Resistance, and Damage."
@@ -273,3 +274,17 @@ ID_GT_S6_ROOM5_RULES_NAME,Robotic Double
 ID_GT_S6_ROOM5_RULES_DESC,"On Defense and Offense,\n<color=#fff568>Tech</color> Characters:\n> Whenever a <color=#fff568>Tech</color> character uses an Ultimate ability, revive an ally <color=#fff568>Tech</color> character at <color=#86e619>100%</color> Health."
 ID_GT_S6_ROOM6_RULES_NAME,Health Insurance
 ID_GT_S6_ROOM6_RULES_DESC,"On Defense and Offense,\n All Characters:\n> On turn, characters remove all positive effects from self and heal +<color=#86e619>10%</color> of max health for each positive effect removed."
+ID_GT_S7_GLOBAL_RULES_NAME,The Cabal
+ID_GT_S7_GLOBAL_RULES_DESC,"The Cabal\nOn Defense and Offense,\n<color=#fff568>Cabal</color> Characters:\n> With <color=#9055FF>vulnerable</color>, on a successful hit, apply <color=#9055FF>vulnerable</color> up to a max of <color=#86e619>5</color>.\n> When below <color=#86e619>25%</color> Health, gain +<color=#86e619>200%</color> extra damage and lower armor by <color=#86e619>50%</color>.\n\n<color=#fff568>Villain</color> Characters: \n> On turn, if any <color=#fff568>Cabal</color> characters are allies, barrier +<color=#86e619>10%</color> of Max Health.\n \nOn Defense,\nAll Characters:\n> Gain +<color=#86e619>20%</color> Max Health and +<color=#86e619>10%</color> Damage.\n> After each completed attempt, gain +<color=#86e619>1</color> <color=#fff568>Exhausted</color>. Canceled combats do not gain +<color=#86e619>1</color> <color=#fff568>Exhausted</color>."
+ID_GT_S7_ROOM1_RULES_NAME,Full House
+ID_GT_S7_ROOM1_RULES_DESC,"On Defense and Offense,\n<color=#9055FF>Striker</color> characters:\n> With <color=#fff568>Ability Block</color> gain +<color=#86e619>50%</color> damage.\n \n<color=#9055FF>Raider</color> characters:\n> On Turn, if character has <color=#fff568>Ability Block</color>, clear <color=#fff568>Ability Block</color> and heal self for <color=#86e619>10%</color> of Max Health.\n \n<color=#9055FF>Skirmisher</color> characters:\n> On successful attack, apply <color=#fff568>Ability Block</color>."
+ID_GT_S7_ROOM2_RULES_NAME,Raid on Crucible
+ID_GT_S7_ROOM2_RULES_DESC,"On Defense and Offense,\nAll characters:\n> Room counts as a <color=#fff568>RAID</color>.\n> Lower Resistance and Healing by <color=#86e619>50%</color>."
+ID_GT_S7_ROOM3_RULES_NAME,Aggroed
+ID_GT_S7_ROOM3_RULES_DESC,"On Defense and Offense,\nAll characters:\n> On Turn, if character has <color=#fff568>Taunt</color>, Gain <color=#fff568>Offense Up</color>.\n> On Turn, apply <color=#fff568>Assist Now</color> to all allies with <color=#fff568>Offense Up</color>."
+ID_GT_S7_ROOM4_RULES_NAME,Unstable Energy
+ID_GT_S7_ROOM4_RULES_DESC,"On Defense and Offense,\n<color=#fff568>Villain</color> Characters: \n> Ultimate Abilites cost <color=#86e619>2</color> less Ability Energy.\n> Lower Max Health by <color=#86e619>25%</color>."
+ID_GT_S7_ROOM5_RULES_NAME,Flash Bang
+ID_GT_S7_ROOM5_RULES_DESC,"On Defense and Offense,\nAll characters:\n> With <color=#fff568>Blind</color>, lower that character's speed by <color=#86e619>5%</color> and Armor by <color=#86e619>25%</color>.\n> Ultimate Abilites apply <color=#fff568>Blind</color> to primary target."
+ID_GT_S7_ROOM6_RULES_NAME,Crossroads
+ID_GT_S7_ROOM6_RULES_DESC,"On Defense and Offense,\nAll Characters:\n> On Crit, apply <color=#fff568>Bleed</color> to primary target.\n> If Ghost Rider, Ghost Rider (Robbie), or Cosmic Ghost Rider is an ally, and if character has <color=#fff568>Bleed</color>, gain +<color=#86e619>20%</color> Armor.\n \n<color=#fff568>Ghost Rider</color>, <color=#fff568>Ghost Rider (Robbie)</color>, and <color=#fff568>Cosmic Ghost Rider</color>:\n> Apply +<color=#86e619>20%</color> Crit Chance to allies."

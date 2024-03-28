@@ -24,7 +24,7 @@ ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to
 ID_MOTD_NA_CHALLENGES_TIER_18,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_18,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 9:30 PM (PDT) (03/21).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 9:30 PM (PST) (02/01).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -679,6 +679,10 @@ ID_MOTD_NA_NOBU,Master of Ninjas: Now Live!
 ID_MOTD_DE_NOBU,Battle for a chance to win NOBU shards
 ID_MOTD_NA_OKOYE,Dora Milaje: Now Live!
 ID_MOTD_DE_OKOYE,Battle for a chance to win OKOYE shards
+ID_MOTD_NA_PENIPARKER,SP//dr Sensei: Now Live!
+ID_MOTD_DE_PENIPARKER,Battle for a chance to win Peni Parker shards
+ID_MOTD_NA_PETERBPARKER,Family Affair: Now Live!
+ID_MOTD_DE_PETERBPARKER,Battle for a chance to win Peter B Parker shards
 ID_MOTD_NA_PHYLAVELL,Quantum Prodigy: Now Live!
 ID_MOTD_DE_PHYLAVELL,Battle for a chance to win Phyla-Vell shards
 ID_MOTD_NA_POLARIS,Mutant Queen: Now Live!
@@ -759,6 +763,8 @@ ID_MOTD_NA_SPIDERMANBIGTIME,Spidey-Sense: Now Live!
 ID_MOTD_DE_SPIDERMANBIGTIME,Battle for a chance to win Spider-Man (Big Time) shards
 ID_MOTD_NA_SPIDERMANNOIR,Monochromatic: Now Live!
 ID_MOTD_DE_SPIDERMANNOIR,Battle for a chance to win Spider-Man (Noir) shards
+ID_MOTD_NA_SPIDERMANPAVITR,Mumbattan Motion: Now Live!
+ID_MOTD_DE_SPIDERMANPAVITR,Battle for a chance to win Spider-Man (Pavitr) shards
 ID_MOTD_NA_SPIDERPUNK,Rockin Arachnid: Now Live!
 ID_MOTD_DE_SPIDERPUNK,Battle for a chance to win Spider-Punk shards
 ID_MOTD_NA_SPIDERSLAYER,Exterminator: Now Live!
@@ -2791,6 +2797,12 @@ ID_MOTD_NA_BATTLEPASS_SEASON15_ANNOUNCE,LIVE: Season 15 of Battle Pass
 ID_MOTD_DE_BATTLEPASS_SEASON15_ANNOUNCE,Turn Ratings into Augmented Gear pieces and big rewards!
 ID_MOTD_NA_RAID_DARKDIMENSIONVII_LIVE,Live: Dark Dimension VII
 ID_MOTD_DE_RAID_DARKDIMENSIONVII_LIVE,Unlock Mephisto and other valuable rewards!
+ID_MOTD_NA_SPIDERSOCIETY_PREVIEW,Coming Soon: Loose Threads
+ID_MOTD_DE_SPIDERSOCIETY_PREVIEW,Battle with Spider-Society and earn rewards!
+ID_MOTD_NA_SPIDERSOCIETY_LIVE,LIVE: Loose Threads
+ID_MOTD_DE_SPIDERSOCIETY_LIVE,Battle with Spider-Society and earn rewards!
+ID_MOTD_NA_SPIDERSOCIETY_ENDING,ENDING SOON: Loose Threads!
+ID_MOTD_DE_SPIDERSOCIETY_ENDING,Loose Threads event is ending soon!
 ID_MOTD_NA_SIXTHANNIVERSARY_ANNOUNCE,LIVE: Sixth Anniversary
 ID_MOTD_DE_SIXTHANNIVERSARY_ANNOUNCE,Earn Deathpool's S.T.R.I.K.E. Anniversary Costume by participating in Anniversary Events!
 ID_MOTD_NA_SIXTHANNIVERSARY_ENDING,Ending Soon: Sixth Anniversary
@@ -2811,6 +2823,7 @@ ID_MOTD_DE_MSF6_PUSH,"Tap now for our biggest calendar yet: Free Vahl, Bifrost t
 ID_MOTD_NA_DAWNOFTIME_ANNOUNCE,LIVE: Dawn of Time
 ID_MOTD_DE_DAWNOFTIME_ANNOUNCE,Earn fully crafted Gear Tier 17 gear!
 ID_MOTD_NA_DAWNOFTIME_ENDING,Ending Soon: Dawn of Time
+ID_MOTD_DE_DAWNOFTIME_ENDING,Earn Teal Gear before the event ends!
 ID_MOTD_NA_PRIMORDIALAVENGER_ANNOUNCE,LIVE: Primordial Avenger
 ID_MOTD_DE_PRIMORDIALAVENGER_ANNOUNCE,Unlock Starbrand and earn Mutant Gear
 ID_MOTD_NA_PRIMORDIALAVENGER_ENDING,Ending Soon: Primordial Avenger
@@ -2820,7 +2833,6 @@ ID_MOTD_NA_PACTOFENVY_TEASER,Coming Soon: Pact of Envy
 ID_MOTD_DE_PACTOFENVY_TEASER,Black Cat made a deal...
 ID_MOTD_NA_PACTOFENVY_LIVE,LIVE: Pact of Envy
 ID_MOTD_DE_PACTOFENVY_LIVE,Unlock Black Cat's Costume
-ID_MOTD_DE_DAWNOFTIME_ENDING,Earn Teal Gear before the event ends!
 ID_MOTD_NA_HISTORICHEIST_ANNOUNCE,LIVE: Historic Heist
 ID_MOTD_DE_HISTORICHEIST_ANNOUNCE,Earn Black Cat Diamonds!
 ID_MOTD_NA_HISTORICHEIST_ENDING,Ending Soon: Historic Heist
@@ -2852,12 +2864,22 @@ ID_MOTD_DE_ETERNALVENGEANCE_ANNOUNCE,Unlock Cosmic Ghost Rider and earn Crimson 
 ID_MOTD_NA_ETERNALVENGEANCE_ENDING,Ending Soon: Eternal Vengeance
 ID_MOTD_DE_ETERNALVENGEANCE_ENDING,Unlock Cosmic Ghost Rider and earn Crimson Gear now!
 ID_MOTD_NA_GALACTICGHOST_ANNOUNCE,Web Milestone: Galactic Ghost
-ID_MOTD_DE_GALACTICGHOST_ANNOUNCE,Spend Incursion Energy and play Blitz battles and reap more rewards on the web!
+ID_MOTD_NA_AGEOFX_CH0_PREVIEW,Coming Soon: Enter the Age of X!
+ID_MOTD_DE_AGEOFX_CH0_PREVIEW,Experience the dawning of the Age of X and earn rewards!
+ID_MOTD_NA_AGEOFX_CH0_LIVE,LIVE: Enter the Age of X!
+ID_MOTD_DE_AGEOFX_CH0_LIVE,Experience the dawning of the Age of X and earn rewards
+ID_MOTD_NA_AGEOFX_CH0_ENDING,ENDING SOON: Enter the Age of X!
+ID_MOTD_DE_AGEOFX_CH0_ENDING,Enter the Age of X event is ending soon!
 ID_MOTD_NA_IRONPATRIOT_TEASER,Soon: Iron Patriot
 ID_MOTD_DE_IRONPATRIOT_TEASER,Spread peace and democracy with Iron Patriot!
 ID_MOTD_NA_IRONPATRIOT_ANNOUNCE,Iron Patriot is here!
 ID_MOTD_DE_IRONPATRIOT_ANNOUNCE,Spread peace and democracy with Iron Patriot!
 ID_MOTD_DE_IRONPATRIOT_ANNOUNCE2,Open the Dark Leader Orb to earn shards for this Dark Avenger!
+ID_MOTD_DE_GALACTICGHOST_ANNOUNCE,Spend Incursion Energy and play Blitz battles and reap more rewards on the web!
+ID_MOTD_NA_NATURENURTURE_ANNOUNCE,LIVE: Nature/Nurture
+ID_MOTD_DE_NATURENURTURE_ANNOUNCE,Earn fully crafted Gear Tier 18 gear!
+ID_MOTD_NA_NATURENURTURE_ENDING,Ending Soon: Nature/Nurture
+ID_MOTD_DE_NATURENURTURE_ENDING,Earn Teal Gear before the event ends!
 ID_MOTD_DE_REACTIVATION_PUSH1,We miss you! Come back and check out the latest events!
 ID_MOTD_NA_REACTIVATION_PUSH2,Free Welcome Back Gift!
 ID_MOTD_DE_REACTIVATION_PUSH2,Tap now and get free rewards!
@@ -2873,6 +2895,28 @@ ID_MOTD_NA_FOREVERPATRIOT_ENDING,Ending Soon: Forever Patriot
 ID_MOTD_DE_FOREVERPATRIOT_ENDING,Unlock Iron Patriot and earn Tech gear now!
 ID_MOTD_NA_DARKREIGN_ANNOUNCE,Web Milestone: Dark Reign
 ID_MOTD_DE_DARKREIGN_ANNOUNCE,Earn Alliance Credits and reap more rewards on the web!
+ID_MOTD_NA_ATOMICFALLOUT_ANNOUNCE,LIVE: Atomic Fallout
+ID_MOTD_DE_ATOMICFALLOUT_ANNOUNCE,Entering the fallout shelter
+ID_MOTD_NA_ATOMICFALLOUT_ENDING,Ending Soon: Atomic Fallout
+ID_MOTD_DE_ATOMICFALLOUT_ENDING,Don't miss out on Skill Gear!
+ID_MOTD_NA_HUNKERDOWN_ANNOUNCE,Web Milestone: Hunker Down
+ID_MOTD_NA_BATTLEPASS_SEASON18_ANNOUNCE,LIVE: Season 18 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON18_ANNOUNCE,Complete Objectives to earn Juggernaut (Zombie) shards and more!
+ID_MOTD_NA_NATUREWARS_ANNOUNCE,LIVE: Nature Wars
+ID_MOTD_DE_NATUREWARS_ANNOUNCE,Earn Crimson and Teal Gear!
+ID_MOTD_NA_NATUREWARS_ENDING,Ending Soon: Nature Wars
+ID_MOTD_DE_NATUREWARS_ENDING,Earn Crimson and Teal Gear!
+ID_MOTD_NA_PETERBPARKER_TEASER,Soon: Peter B. Parker
+ID_MOTD_DE_PETERBPARKER_TEASER,Your Friendly Neighborhood Father Swings In!
+ID_MOTD_NA_PETERBPARKER_ANNOUNCE,Peter B. Parker is here!
+ID_MOTD_DE_PETERBPARKER_ANNOUNCE,Your Friendly Neighborhood Father Swings In!
+ID_MOTD_DE_PETERBPARKER_ANNOUNCE2,Open the Family Affair Orb to earn shards for this Friendly Neighborhood Father!
+ID_MOTD_NA_CSAT_SURVEY_INTERSTITIAL,WE WANT YOUR FEEDBACK!
+ID_MOTD_DE_CSAT_SURVEY_INTERSTITIAL,Help us improve MARVEL Strike Force by taking a quick survey.
+ID_MOTD_NA_RISEOFTHEBEES_ANNOUNCE,Web Milestone: Rise of the Bees
+ID_MOTD_NA_SLICKOUTBREAK_ANNOUNCE,LIVE: Slick Outbreak
+ID_MOTD_NA_SLICKOUTBREAK_ENDING,Ending Soon: Slick Outbreak
+ID_MOTD_DE_SLICKOUTBREAK_CORE,Earn Mutant Gear and Juggernaut (Zombie) Diamonds!
 ID_MOTD_NA_THELEADER_TEASER,Soon: The Leader
 ID_MOTD_DE_THELEADER_TEASER,Dominate the world with The Leader!
 ID_MOTD_NA_THELEADER_ANNOUNCE,The Leader is here!

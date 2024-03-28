@@ -4203,12 +4203,6 @@ ID_QU_SD_WELLMAYYOUTREMBLE,Battle with Archenemies and spend Campaign Energy
 ID_QU_LM_WELLMAYYOUTREMBLE,"Battle with villains in the special Archenemies category in Raids, War, Cosmic Crucible, Arena, and Blitz, and spend Campaign Energy.\n\nRewards include: 6 Red Stars for Spider-Slayer, Kang the Conqueror and Lizard shards, all new Crimson Gear, and more!"
 ID_QU_S1_WELLMAYYOUTREMBLE,"Battle with Archenemies in Raids, War, Cosmic Crucible, Arena, and Blitz"
 ID_QU_S2_WELLMAYYOUTREMBLE,Spend 1 Campaign Energy
-ID_QU_NA_MACHINESOFWAR_V2,Machines of War
-ID_QU_SD_MACHINESOFWAR_V2,"War with Out of Time, Collect Event Orbs"
-ID_QU_LD_MACHINESOFWAR_V2,Machines of War Milestone\nGain progress in this 6-day event by battling in Alliance War (bonus points when using Out of Time characters) and earning Allied Supply IV Orb fragments from daily Free Claims and special offers. \n\nEarn incredible rewards including Mega Gold Orbs and Armory Orbs. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses.
-ID_QU_S1_MACHINESOFWAR_V2,Play 1 War Battle
-ID_QU_S2_MACHINESOFWAR_V2,Use a Out of Time character in War
-ID_QU_S3_MACHINESOFWAR_V2,Earn 1 Allied Supply IV Orb Fragment
 ID_QU_NA_DEMONICORIGINS,Demonic Origins
 ID_QU_SD_DEMONICORIGINS,Earn Crimson Gear!
 ID_QU_LM_DEMONICORIGINS,"Prepare for Mephisto's arrival in Dark Dimension 7 by stocking up on Crimson Gear!\n\nDemonic Origins\nGain progress in this 7-day event by earning Anniversary Orb Fragments from Campaign nodes, Free Claims and special Offers, and by playing Cosmic Crucible battles. \n\nEarn fiendish rewards including Crimson Gear, Void Knight shards, Diamond Orb Fragments, and Augmented Bio gear. You'll also earn points towards the Dawn of Time milestone by collecting Hourglasses and the Astral Meteorite. Keep an eye on the web for Free Claims containing Anniversary Orb Fragments every day!\n\nInfernal Prelude Web Milestone\nEarn Alliance Credits and be rewarded with Teal Catalysts and progress in the Demonic Origins Milestone."
@@ -4232,6 +4226,14 @@ ID_QU_SD_GALACTICGHOST,Spend Incursion Energy and Play Blitz Battles
 ID_QU_LD_GALACTICGHOST,"Spend Incursion Energy and Play Blitz battles and get rewarded with Stellar Specter Orb Fragments, Augmented Catalysts, and Eternal Vengeance milestone progress."
 ID_QU_S1_GALACTICGHOST,Spend 1 Incursion Energy
 ID_QU_S2_GALACTICGHOST,Play 1 Blitz Battle
+ID_QU_NA_NATURENURTURE,Nature/Nurture
+ID_QU_SD_NATURENURTURE,Participate in April Events
+ID_QU_LM_NATURENURTURE,Participate in various events throughout the month of April to earn milestone progress.
+ID_QU_S1_NATURENURTURE,Collect 1 Gamma Rays
+ID_QU_S2_NATURENURTURE,Collect 1 Toxic Waste Barrel
+ID_QU_S3_NATURENURTURE,Collect 1 Oil Tanker
+ID_QU_S4_NATURENURTURE,Collect 1 Flower Patch
+ID_QU_S5_NATURENURTURE,Collect 1 Sun Rays
 ID_QU_NA_WESTANDTOGETHER,We Stand Together
 ID_QU_SD_WESTANDTOGETHER,"Battle with United and ""Sixth Time to Strike"" Event"
 ID_QU_LD_WESTANDTOGETHER,"We Stand Together Milestone\nGain progress in this 7-day event by Battling with heroes in the special United category in Raids, War, Cosmic Crucible, Arena, and Blitz, as well as spending ""Sixth Time to Strike"" Event Energy. Milestone rewards include Iron Man (Infinity War) and Sunspot shards, 6 Red Stars for Forge, all-new Crimson Gear, and the Hero's Mask!"
@@ -4261,3 +4263,21 @@ ID_QU_NA_DARKREIGN,Dark Reign
 ID_QU_SD_DARKREIGN,Earn Alliance Credits
 ID_QU_LD_DARKREIGN,Earn Alliance Credits and be rewarded with Patriot Corp Orbs for progress in the Forever Patriot Milestone.
 ID_QU_S1_DARKREIGN,Earn 1 Alliance Credit
+ID_QU_NA_ATOMICFALLOUT,Atomic Fallout
+ID_QU_SD_ATOMICFALLOUT,"Raid, Campaign, and Blitz"
+ID_QU_LD_ATOMICFALLOUT,"Earn points by participating in Raids with Void Knight, Gwenom, or Red Goblin, Blitz, and spending Campaign Energy.\n\nRewards include: Crimson Gear, Diamond Orbs, Gold Promotion Credits, The Leader shards, and more!"
+ID_QU_S1_ATOMICFALLOUT,Play 1 Blitz Battle with Peter B. Parker
+ID_QU_NA_HUNKERDOWN,Hunker Down
+ID_QU_SD_HUNKERDOWN,Spend Incursion and Enter Age of X Energy
+ID_QU_LD_HUNKERDOWN,Spend Incursion and Enter Age of X Energy to complete this recurring 2-day milestone that rewards Silver and Gold Promotion Credits and more!
+ID_QU_S1_HUNKERDOWN,Spend 1 Enter Age of X Energy
+ID_QU_SD_NATUREWARS,"War, Earn Allied Supply IV Orb Fragments"
+ID_QU_LD_NATUREWARS,"Battle in War and Earn Allied Supply IV Orb Fragments.\n\nMilestone rewards include Crimson Gear, Crimson Raid Orbs, Teal Gear, Silver Promotion Credits and more!"
+ID_QU_S1_NATUREWARS,Collect 1 Allied Supply IV Orb Fragment
+ID_QU_S2_NATUREWARS,Battle in Wars
+ID_QU_NA_RISEOFTHEBEES,Rise of the Bees
+ID_QU_SD_RISEOFTHEBEES,Spend Power Cores and Play in Crucible
+ID_QU_LD_RISEOFTHEBEES,Spend Power Cores and compete in Cosmic Crucible and be rewarded with Promotion Credits and progress in the Slick Outbreak and Nature/Nurture Milestones.
+ID_QU_NA_SLICKOUTBREAK,Slick Outbreak
+ID_QU_SD_SLICKOUTBREAK,Earn Mutant Gear and Gamma Rays!
+ID_QU_LD_SLICKOUTBREAK,"Slick Outbreak\nGain progress in this 8-day event by earning Crimson Tombstones from the first time rewards of the Heroic Difficulty of Unstoppable Undead, daily Free Claims, and from Viral Orbs found in the Hard Difficulty of Unstoppable Undead. Also earn progress from battling in Alliance War with additional points for using Undying characters at higher Star Levels and completing the Rise of the Bees Web Milestone. Earn incredible rewards including Teal Catalyst Packs, L4 Training Modules, and Teal Mutant gear. Compete in the leaderboard for a 3 Diamond Juggernaut (Zombie), Gear Tier 19 Mutant Mini-Uniques, and T2 Level 5 Ions. You'll also earn points towards the month-long Nature/Nurture milestone by collecting Gamma Rays and the Oil Tanker.\n\nRise of the Bees Web Milestone\nSpend Power Cores and compete in Cosmic Crucible and be rewarded with Promotion Credits and progress in the Slick Outbreak and Nature/Nurture Milestones."

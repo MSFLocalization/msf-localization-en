@@ -307,6 +307,8 @@ ID_HERO_UNLOCK_TEASE,Collect {num} more shard(s) to recruit this character!
 ID_HERO_UPGRADE_MAX,This character is at maximum Star Rank!
 ID_HERO_UPGRADE_READY,This character can now be ranked up!
 ID_HERO_UPGRADE_TEASE,Collect {num} more shard(s) to rank up this character!
+ID_HERO_UPGRADE_TITLE,CHARACTER UPGRADED!
+ID_HERO_UPGRADE_PREVIOUS,PREVIOUS
 ID_HERONOTIFY_MESSAGE,You've recruited a new character for your S.T.R.I.K.E. Force!
 ID_HERONOTIFY_RECRUIT,RECRUIT
 ID_HERONOTIFY_TITLE,NEW RECRUIT
@@ -1405,6 +1407,9 @@ ID_FRAME_GREED_NAME,Greed
 ID_FRAME_GREED_UNLOCK,Via free claim from costume unlock
 ID_FRAME_2024ANNIVERSARY_NAME,Sixth Anniversary
 ID_FRAME_2024ANNIVERSARY_UNLOCK,Via the Sixth Anniversary event
+ID_FRAME_APRIL2024_NAME,Gamma Growth
+ID_FRAME_APRIL2024_UNLOCK,Via the Nature/Nurture Event
+ID_FRAME_XMEN97_NAME,Gifted Student
 ID_EVENT_SURVIVAL_EVENT,Survival
 ID_SURVIVAL_TITLE,Escape from Kyln
 ID_SURVIVAL_FLOOR,<size=65%><voffset=.385em>CELL</size></voffset> {floor}
@@ -1474,3 +1479,5 @@ ID_NODEBOOST_GENERICDESC,This is a boost for your campaign rewards
 ID_AUDIO_RESTART_TITLE,Game Audio
 ID_AUDIO_RESTART_DESC,Audio changes will apply after restart.
 ID_EVENT_CAMPAIGN_TYPE_HIVEMIND,HIVE-MIND
+ID_EVENT_CAMPAIGN_TYPE_SPIDERSOCIETY,SPIDER-SOCIETY
+ID_UPGRADETOKEN_CAP_WARNING,This token requires Commander level {level}. Your character will receive less than the stats shown.

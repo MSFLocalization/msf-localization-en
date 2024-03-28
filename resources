@@ -44,15 +44,15 @@ ID_AVE_KEY_EVENT03_NAME,Champions' Raid Key
 ID_AVE_KEY_EVENT03_DESCRIPTION,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_AVE_KEY_EVENT04_NAME,Gambit Raid Key
 ID_AVE_KEY_EVENT04_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
-ID_RES_CAMPAIGN_ENERGY_EVENT01,Anniversary Energy
-ID_RES_CAMPAIGN_ENERGY_EVENT02,Out of Time Energy
-ID_RES_CAMPAIGN_ENERGY_EVENT03,Cabal Energy
-ID_CAMPAIGN_ENERGY_EVENT01_NAME,Anniversary Energy
-ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch Sixth Time to Strike missions.
-ID_CAMPAIGN_ENERGY_EVENT02_NAME,Hell and Back
-ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch Hell and Back missions.
-ID_CAMPAIGN_ENERGY_EVENT03_NAME,Cabal Energy
-ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Rise of the Cabal missions.
+ID_RES_CAMPAIGN_ENERGY_EVENT01,Arachnid Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT02,Enter Age of X Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT03,Infectious Energy
+ID_CAMPAIGN_ENERGY_EVENT01_NAME,Arachnid Energy
+ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch Loose Threads missions.
+ID_CAMPAIGN_ENERGY_EVENT02_NAME,Enter Age of X Energy
+ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch Enter the Age of X missions.
+ID_CAMPAIGN_ENERGY_EVENT03_NAME,Infectious Energy
+ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Unstoppable Undead missions.
 ID_HC_NAME,Power Cores
 ID_HC_DESCRIPTION,"Use Power Cores to purchase Orbs, Energy Refills, Health Packs, Supplies, and Blitz Charges."
 ID_AVA-CUR_NAME,War Credits
@@ -322,22 +322,22 @@ ID_EVTA_META_MAR_S_NAME,Corrupted Horns
 ID_EVTA_META_MAR_S_DESCRIPTION,Collect the Corrupted Horns for points in the Pact of Envy Event. Earn it from limited time offers.
 ID_EVTA_META_MAR_T_NAME,Corrupted Armor
 ID_EVTA_META_MAR_T_DESCRIPTION,Collect the Corrupted Armor for points in the Pact of Envy Event. Earn it from limited time offers.
-ID_EVTA_META_APR_A_NAME,Victory Flag
-ID_EVTA_META_APR_A_DESCRIPTION,Collect Victory Flags for points in the Royal Soldier Event. Earn them in various events throughout the month of April
-ID_EVTA_META_APR_B_NAME,Steel Dagger
-ID_EVTA_META_APR_B_DESCRIPTION,Collect the Steel Dagger for points in the Royal Soldier Event. Earn it in the Angel's Army Event!
-ID_EVTA_META_APR_C_NAME,War Medal
-ID_EVTA_META_APR_C_DESCRIPTION,Collect the War Medal for points in the Royal Soldier Event. Earn it in the Evil Invasion Event!
-ID_EVTA_META_APR_D_NAME,Leather Gloves
-ID_EVTA_META_APR_D_DESCRIPTION,Collect the Leather Gloves for points in the Royal Soldier Event. Earn them in the Freedom Fighters Event!
-ID_EVTA_META_APR_E_NAME,Webley Revolver
-ID_EVTA_META_APR_E_DESCRIPTION,Collect Webley Revolver for points in the Royal Soldier Event. Earn it in the Brother In Arms Event!
+ID_EVTA_META_APR_A_NAME,Gamma Rays
+ID_EVTA_META_APR_A_DESCRIPTION,Collect Gamma Rays for points in the Nature/Nurture Event. Earn them in various events throughout the month of April
+ID_EVTA_META_APR_B_NAME,Toxic Waste Barrel
+ID_EVTA_META_APR_B_DESCRIPTION,Collect the Toxic Waste Barrel for points in the Nature/Nurture Event. Earn it in the Atomic Fallout Event!
+ID_EVTA_META_APR_C_NAME,Oil Tanker
+ID_EVTA_META_APR_C_DESCRIPTION,Collect the Oil Tanker for points in the Nature/Nurture Event. Earn it in the Slick Outbreak Event!
+ID_EVTA_META_APR_D_NAME,Flower Patch
+ID_EVTA_META_APR_D_DESCRIPTION,Collect the Flower Patch for points in the Nature/Nurture Event. Earn it in the Earthlings Needed Event!
+ID_EVTA_META_APR_E_NAME,Sun Rays
+ID_EVTA_META_APR_E_DESCRIPTION,Collect the Sun Rays for points in the Nature/Nurture Event. Earn it in the Golden Hour Event!
 ID_EVTA_META_APR_F_NAME,Tactical Belt
 ID_EVTA_META_APR_F_DESCRIPTION,Collect Tactical Belt for points in the Royal Soldier Event. Earn it in the Shopping Spree Event!
-ID_EVTA_META_APR_G_NAME,Commando Mask
-ID_EVTA_META_APR_G_DESCRIPTION,Collect Commando Mask for points in the Royal Soldier Event. Earn it in the Forces of Nature Event!
-ID_EVTA_META_APR_H_NAME,Union Jacket
-ID_EVTA_META_APR_H_DESCRIPTION,Collect Union Jacket for points in the Royal Soldier Event. Earn it in the Immortal Invader Event!
+ID_EVTA_META_APR_G_NAME,Atomic Fallout Milestone Point
+ID_EVTA_META_APR_G_DESCRIPTION,These points earn you additional progress in the Atomic Fallout Milestone. Earn them in limited time offers and the Hunker Down Milestone!
+ID_EVTA_META_APR_H_NAME,Slick Outbreak Milestone Points
+ID_EVTA_META_APR_H_DESCRIPTION,These points earn you additional progress in the Slick Outbreak Milestone. Earn them in limited offers and in the Rise of the Bees Web Milestone!
 ID_EVTA_META_MAY_A_NAME,Blazing X-Gene
 ID_EVTA_META_MAY_A_DESCRIPTION,Collect Blazing X-Genes for points in the Solar Flare Event. Earn them in various events throughout the month of May
 ID_EVTA_META_MAY_B_NAME,Mass. Academy ID

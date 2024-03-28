@@ -674,7 +674,7 @@ ID_SUGGESTED_LEVEL_72,FOR <color=#fff568>LEVEL 72+</color>
 ID_SUGGESTED_LEVEL_73,FOR <color=#fff568>LEVEL 73+</color>
 ID_SUGGESTED_LEVEL_74,FOR <color=#fff568>LEVEL 74+</color>
 ID_SUGGESTED_LEVEL_75,FOR <color=#fff568>LEVEL 75+</color>
-ID_MAINTENANCE_TOASTER_SCHEDULED,We will undergo maintenance starting at 9:30 PM (PDT) (03/21).
+ID_MAINTENANCE_TOASTER_SCHEDULED,We will undergo maintenance starting at 9:30 PM (PST) (02/01).
 ID_MAINTENANCE_TOASTER_EMERGENCY,We will be undergoing emergency maintenance shortly.
 ID_MAINTENANCE_TOASTER_EVENT01,We will be undergoing maintenance shortly.
 ID_MAINTENANCE_TOASTER_EVENT02,Update available. Get the latest app version now.
@@ -1471,3 +1471,10 @@ ID_REQ_6YA_DIF3_CH1_BAT,"Required: <color=#fff568>KESTREL</color>, <color=#fff56
 ID_REQ_6YA_DIF3_CH2_BAT,"Required: <color=#fff568>KESTREL</color>, <color=#fff568>NICK FURY</color>, <color=#fff568>DEATHPOOL</color>, and 2 <color=#fff568>CITY</color>"
 ID_REQ_6YA_DIF3_CH3_BAT,"Required: <color=#fff568>KESTREL</color>, <color=#fff568>DEATHPOOL</color>, <color=#fff568>SPIDER-WEAVER</color>, and 2 <color=#fff568>GLOBAL</color>"
 ID_REQ_6YA_DIF3_CH4_BAT,"Required: <color=#fff568>KESTREL</color>, <color=#fff568>DEATHPOOL</color>, <color=#fff568>SPIDER-WEAVER</color>, and <color=#fff568>VAHL</color>"
+ID_REQUIRES_SPIDERSOCIETY_STORY,ONLY <color=#fff568>SPIDER-SOCIETY</color> or <color=#fff568>WEB-SLINGER</color>
+ID_REQUIRES_SPIDERSOCIETY_CH,"ONLY <color=#fff568>SPIDER-SOCIETY</color> or <color=#fff568>WEB-SLINGER</color>\nREQUIRES: <color=#fff568>SPIDER-MAN (NOIR)</color>, <color=#fff568>GHOST-SPIDER</color>"
+ID_REQUIRES_SPIDERSOCIETY_CH_PETERBPARKER,"ONLY <color=#fff568>SPIDER-SOCIETY</color> or <color=#fff568>WEB-SLINGER</color>\nREQUIRES: <color=#fff568>SPIDER-MAN (NOIR)</color>, <color=#fff568>GHOST-SPIDER</color>, <color=#fff568>PETER B. PARKER</color>"
+ID_REQUIRES_SPIDERSOCIETY_CH_SPIDERMANPAVITR,"ONLY <color=#fff568>SPIDER-SOCIETY</color> or <color=#fff568>WEB-SLINGER</color>\nREQUIRES: <color=#fff568>SPIDER-MAN (NOIR)</color>, <color=#fff568>GHOST-SPIDER</color>, <color=#fff568>PETER B. PARKER</color>, <color=#fff568>SPIDER-MAN (PAVITR)</color>"
+ID_REQUIRES_SPIDERSOCIETY_CH_PENIPARKER,ONLY <color=#fff568>SPIDER-SOCIETY</color>
+ID_REQUIRES_SPIDERSOCIETY_THM,"ONLY <color=#fff568>SPIDER-SOCIETY</color>\nREQUIRES: Gear Tier 14, 4 Yellow Stars"
+ID_REQUIRES_SPIDERSOCIETY_BONUS,"ONLY <color=#fff568>SPIDER-SOCIETY</color>\nREQUIRES: Gear Tier 16, 6 Yellow Stars"

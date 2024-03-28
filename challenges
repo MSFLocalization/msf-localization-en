@@ -2226,6 +2226,9 @@ ID_INFO_BO_BLASTOFFTO100,"<color=#fff568>Blastoff to 100 Milestone</color>\nScor
 ID_INFO_NA_ALLIEDENGINES,Allied Engines
 ID_INFO_DE_ALLIEDENGINES,Battle in Raids for valuable Gear!
 ID_INFO_BO_ALLIEDENGINES,"<color=#fff568>Allied Engines Milestone</color>\nTo progress in this milestone, battle in Raids (bonus points when using Hive-Mind characters) and collect Allied Supply IV Orbs from Free Claims. \nEarn Armory 18 Orbs, T2 Level 5 Ions, Crimson Gear Catalysts, and Dawn of Time progress!"
+ID_INFO_NA_WELLMAYYOUTREMBLE,Well May You Tremble
+ID_INFO_DE_WELLMAYYOUTREMBLE,Celebrate with us and earn the Infernal Contract!
+ID_INFO_BO_WELLMAYYOUTREMBLE,"<color=#fff568>Well May You Tremble Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by Battling with villains in the special Archenemies category in Raids, War, Cosmic Crucible, Arena, and Blitz, as well as spending Campaign Energy. Milestone rewards include Kang the Conqueror and Lizard shards, 6 Red Stars for Spider-Slayer, all-new Crimson Gear, and the Infernal Contract!"
 ID_INFO_NA_MACHINESOFWAR,Machines of War
 ID_INFO_DE_MACHINESOFWAR,Battle in Alliance War for glorious rewards!
 ID_INFO_BO_MACHINESOFWAR,"<color=#fff568>Machines of War Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by battling in Alliance War and earning Allied Supply IV Orb fragments from daily Free Claims and special offers. Earn incredible rewards including <color=#fff568>Origin gear, Gold and Armory Orbs</color>. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses."
@@ -2309,21 +2312,44 @@ ID_INFO_BO_HISTORICHEIST,"<color=#fff568>Historic Heist</color>\nGain progress i
 ID_INFO_NA_LEGACYOFSTRIKE,Legacy of S.T.R.I.K.E.
 ID_INFO_DE_LEGACYOFSTRIKE,Celebrate with us and earn Kestrel's Helmet!
 ID_INFO_BO_LEGACYOFSTRIKE,"<color=#fff568>Legacy of S.T.R.I.K.E. Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by Battling with Marvel Strike Force original characters in Raids, War, Cosmic Crucible, Arena, and Blitz, as well as spending """"Sixth Time to Strike"""" Event Energy. Milestone rewards include Teal Gear, Vahl and Spider-Weaver shards, and Kestrel's Helmet!"
-ID_INFO_NA_WELLMAYYOUTREMBLE,Well May You Tremble
-ID_INFO_DE_WELLMAYYOUTREMBLE,Celebrate with us and earn the Infernal Contract!
-ID_INFO_BO_WELLMAYYOUTREMBLE,"<color=#fff568>Well May You Tremble Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by Battling with villains in the special Archenemies category in Raids, War, Cosmic Crucible, Arena, and Blitz, as well as spending Campaign Energy. Milestone rewards include Kang the Conqueror and Lizard shards, 6 Red Stars for Spider-Slayer, all-new Crimson Gear, and the Infernal Contract!"
-ID_INFO_NA_MACHINESOFWAR_V2,Machines of War
-ID_INFO_DE_MACHINESOFWAR_V2,Battle in Alliance War for glorious rewards!
-ID_INFO_BO_MACHINESOFWAR_V2,<color=#fff568>Machines of War Milestone</color>\nGain progress in this <color=#fff568>6-day</color> event by battling in Alliance War (bonus points when using Out of Time characters) and earning Allied Supply IV Orb fragments from daily Free Claims and special offers. \n\nEarn incredible rewards including <color=#fff568>Mega Gold Orbs and Armory Orbs</color>. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses.
 ID_INFO_NA_DEMONICORIGINS,Demonic Origins
 ID_INFO_DE_DEMONICORIGINS,Earn Crimson Gear!
 ID_INFO_BO_DEMONICORIGINS,"Prepare for Mephisto's arrival in Dark Dimension 7 by stocking up on Crimson Gear!\n\n<color=#fff568>Demonic Origins</color>\nGain progress in this <color=#fff568>7-day</color> event by earning Anniversary Orb Fragments from Campaign nodes, Free Claims and special Offers, and by playing Cosmic Crucible battles. \n\nEarn fiendish rewards including <color=#fff568>Crimson Gear, Void Knight shards, Diamond Orb Fragments, and Augmented Bio gear</color>. You'll also earn points towards the Dawn of Time milestone by collecting Hourglasses and the Astral Meteorite. Keep an eye on the web for Free Claims containing Anniversary Orb Fragments every day!\n\n<color=#fff568>Infernal Prelude Web Milestone</color>\nEarn Alliance Credits and be rewarded with Teal Catalysts and progress in the Demonic Origins Milestone."
 ID_INFO_NA_ETERNALVENGEANCE,Eternal Vengeance
 ID_INFO_DE_ETERNALVENGEANCE,Unlock Cosmic Ghost Rider!
 ID_INFO_BO_ETERNALVENGEANCE,"<color=#fff568>Eternal Vengeance Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by earning Stellar Specter Orb Fragments from Arena Ranked Rewards, battling in War, completing the Galactic Ghost Web Milestone, and daily Free Claims. \n\nEarn celestial rewards including <color=#fff568>Cosmic Ghost Rider shards, Black Knight shards and Augmented Mystic gear</color>. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses and the Cosmic Tire.\n\n<color=#fff568>Eternal Vengeance Leaderboard</color>\nCompete on the Leaderboards for <color=#f12603>Crimson Gear</color> and more!\n\n<color=#fff568>Galactic Ghost Web Milestone</color>\nSpend Incursion Campaign Energy and play Blitz battles to earn Stellar Specter Orb Fragments and Teal Catalysts, and progress in the Eternal Vengeance Milestone."
+ID_INFO_NA_NATURENURTURE,Nature/Nurture
+ID_INFO_DE_NATURENURTURE,Earn rejuvenating rewards throughout April!
+ID_INFO_BO_NATURENURTURE,"Earn points toward this month-long milestone by collecting the following items from April events and Daily Free Claims: Gamma Rays, Toxic Waste Barrel, Oil Tanker, Flower Patch and Sun Rays.\n\nThere will be several Milestone Events that provide progress towards the <color=#fff568>Nature/Nurture Milestone</color>. As you progress, earn valuable The Leader character shards and <color=#fff568>fully crafted Bio Gear Tier 18 gear</color>!\n\nCompete on the Leaderboard for exclusive rewards. Players reaching the top 2% rank will earn exclusive <color=#fff568>Crimson Raid Orbs</color>, <color=#fff568>Diamond Orbs</color>, T2 Level 5 Ions and more!"
 ID_INFO_NA_WESTANDTOGETHER,We Stand Together
 ID_INFO_DE_WESTANDTOGETHER,Celebrate with us and earn the Hero's Mask!
 ID_INFO_BO_WESTANDTOGETHER,"<color=#fff568>We Stand Together Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by Battling with heroes in the special United category in Raids, War, Cosmic Crucible, Arena, and Blitz, as well as spending ""Sixth Time to Strike"" Event Energy. Milestone rewards include Iron Man (Infinity War) and Sunspot shards, 6 Red Stars for Forge, all-new Crimson Gear, and the Hero's Mask!"
 ID_INFO_NA_FOREVERPATRIOT,Forever Patriot
 ID_INFO_DE_FOREVERPATRIOT,Unlock Iron Patriot and earn Crimson Gear!
 ID_INFO_BO_FOREVERPATRIOT,"<color=#fff568>Forever Patriot Milestone</color>\nGain progress in this <color=#fff568>8-day</color> event by spending Iso-8 Campaign Energy, battling in Cosmic Crucible, collecting Patriot Corp Orb Fragments from Free Claims and special Offers, and completing the Dark Reign Web Milestone. \n\nEarn mischievous rewards including <color=#fff568>Iron Patriot shards and Crimson Gear</color>. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses and the Patriot Coin.\n\n<color=#fff568>Dark Reign Web Milestone</color>\nEarn Alliance Credits and be rewarded with even more Patriot Corp Orbs for additional progress in the Forever Patriot Milestone. Keep an eye out for Free Claims containing Patriot Corp Orb fragments every day!"
+ID_INFO_NA_ATOMICFALLOUT,Atomic Fallout
+ID_INFO_DE_ATOMICFALLOUT,Entering the fallout shelter
+ID_INFO_BO_ATOMICFALLOUT,"<color=#fff568>Atomic Fallout Milestone</color>\nGain progress in this <color=#fff568>6-day</color> event by playing Raids, Blitz, spending Campaign Energy, and the Hunker Down Web Milestone. The Mightiest Survivors have a chance to receive Crimson Gear, Dark Promotion Credits, and Diamond Orbs. You'll also earn points towards the Nature/Nurture milestone by collecting Gamma Rays and the Toxic Waste Barrel. \n\n<color=#fff568>Hunker Down Web Milestone</color>\nSpend Incursion and Enter Age of X Energy to complete this recurring 2-day milestone that rewards Atomic Fallout Milestone Points as well as Silver and Gold Promotion Credits, Elite 4 and 5 Credits!"
+ID_SSE_SPIDERSOCIETY_NAME,Loose Threads
+ID_SSE_SPIDERSOCIETY_DESC,"The Spider-Society travels from dimension to dimension, chasing down the Symbiotes and freeing Ghost-Spider from the Hive-Mind, but find themselves trapped in hostile territory."
+ID_SSE_CHANCE_SPIDERSOCIETY,Spider-Society Showcase
+ID_EVENT_SPIDERSOCIETY_TD_FLAVOR,Try the Spider-Society
+ID_EVENT_SPIDERSOCIETY_TD_DESC,Play with a team of Spider-Society characters in sample battles from the Incursion Raid.\n\nRaid specific bonuses and effects are enabled in these missions.
+ID_EVENT_SPIDERSOCIETY_STORY_FLAVOR,Earn amazing rewards!
+ID_EVENT_SPIDERSOCIETY_STORY_DESC,Requirements:\n- Spider-Society or Web-Slinger characters
+ID_EVENT_SPIDERSOCIETY_CH_FLAVOR,Challenge Your Skills!
+ID_EVENT_SPIDERSOCIETY_CH_DESC,"Requirements: \n- Spider-Society or Web-Slinger characters\n- Requires Peter B. Parker, Spider-Man (Pavitr), and Peni Parker to complete all missions"
+ID_ECM_NAME_SPIDERSOCIETY,Spider-Society
+ID_EVENT_SPIDERSOCIETY_THM_FLAVOR,Use Your Spider-Society!
+ID_EVENT_SPIDERSOCIETY_THM_DESC,Requirements: \n- 5 Spider-Society characters\n- Gear Tier 14\n- 4 Yellow Stars
+ID_EVENT_SPIDERSOCIETY_BONUS_FLAVOR,Get Awesome Rewards!
+ID_EVENT_SPIDERSOCIETY_BONUS_DESC,Requirements:\n- 5 Spider-Society characters\n- Gear Tier 16\n- 6 Yellow Stars
+ID_ECM_AGEOFX_CH0_NAME,Enter the Age of X
+ID_ECM_AGEOFX_CH0_DESC,"When Jean Grey is awoken by a strange voice, she and her husband Cyclops use the Danger Room go looking through their history for answers to its mystery."
+ID_ECM_AGEOFX_CH0_FLAV,Special Event
+ID_INFO_NA_NATUREWARS,Nature Wars
+ID_INFO_DE_NATUREWARS,Battle in War for Crimson and Teal Gear!
+ID_INFO_BO_NATUREWARS,"<color=#fff568>Nature Wars Milestone</color>\nBattle in War to earn a Crimson Gear, Crimson Raid Orbs, Teal Gear, Silver Promotion Credits and Nature/Nurture progress.\n\n<color=#fff568>Allied Supply IV orb</color>\nCollect alliance event orbs to earn progress in Nature Wars! Collect the Alliance Supply Orb in special offers for Gold, Training Materials, T2 Level 5 Ion Orb Fragments and more!"
+ID_INFO_NA_SLICKOUTBREAK,Slick Outbreak
+ID_INFO_DE_SLICKOUTBREAK,Earn Mutant Gear and Gamma Rays!
+ID_INFO_BO_SLICKOUTBREAK,"<color=#fff568>Slick Outbreak</color>\nGain progress in this <color=#fff568>8-day</color> event by earning Crimson Tombstones from the first time rewards of the Heroic Difficulty of Unstoppable Undead, daily Free Claims, and from Viral Orbs found in the Hard Difficulty of Unstoppable Undead. Also earn progress from battling in Alliance War with additional points for using Undying characters at higher Star Levels and completing the Rise of the Bees Web Milestone. Earn incredible rewards including <color=#fff568>Teal Catalyst Packs, L4 Training Modules, and Teal Mutant gear</color>. Compete in the leaderboard for a 3 Diamond Juggernaut (Zombie), Gear Tier 19 Mutant Mini-Uniques, and T2 Level 5 Ions. You'll also earn points towards the month-long Nature/Nurture milestone by collecting Gamma Rays and the Oil Tanker.\n\n<color=#fff568>Rise of the Bees Web Milestone</color>\nSpend Power Cores and compete in Cosmic Crucible and be rewarded with Promotion Credits and progress in the Slick Outbreak and Nature/Nurture Milestones."

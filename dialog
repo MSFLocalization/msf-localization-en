@@ -7818,6 +7818,256 @@ ID_DIALOG_ECM_6YA_04_04_END_6,You just weren't very good at it. All you focused 
 ID_DIALOG_ECM_6YA_04_04_END_7,"It would have been a really sweet party... "
 ID_DIALOG_ECM_6YA_04_04_END_8,"Well, let's get back to the Helicarrier in our time. I hear it's S.H.I.E.L.D. Medic's birthday! Maybe there'll be cake in the break room?"
 ID_DIALOG_ECM_6YA_04_04_END_9,It's not the same...
+ID_DIALOG_SSE_SPIDERSOCIETY_01_INTRO_0,The Spiders followed us again!
+ID_DIALOG_SSE_SPIDERSOCIETY_01_INTRO_1,There's nowhere you can go that we can't follow.
+ID_DIALOG_SSE_SPIDERSOCIETY_01_INTRO_2,No more runnin'! They need a lesson in blood.
+ID_DIALOG_SSE_SPIDERSOCIETY_01_INTRO_3,You wanna dance?
+ID_DIALOG_SSE_SPIDERSOCIETY_01_START_0,Get this thing off of me!
+ID_DIALOG_SSE_SPIDERSOCIETY_01_START_1,SHUT UP!\nI'm in control here!
+ID_DIALOG_SSE_SPIDERSOCIETY_01_START_2,"Not for long, leech."
+ID_DIALOG_SSE_SPIDERSOCIETY_01_MID_0,"I have opened another portal, but we do not have much time."
+ID_DIALOG_SSE_SPIDERSOCIETY_01_MID_1,Leave her behind! She's not worth slowin' down over.
+ID_DIALOG_SSE_SPIDERSOCIETY_01_END_0,I'm never letting go!
+ID_DIALOG_SSE_SPIDERSOCIETY_01_END_1,We figured you would say that.
+ID_DIALOG_SSE_SPIDERSOCIETY_01_END_2,This doodad emits a high-frequency pitch that you symbiotes seem to hate.
+ID_DIALOG_SSE_SPIDERSOCIETY_01_END_3,*CLICK*
+ID_DIALOG_SSE_SPIDERSOCIETY_01_END_4,SKREEE!!
+ID_DIALOG_SSE_SPIDERSOCIETY_01_END_5,Got ya!
+ID_DIALOG_SSE_SPIDERSOCIETY_01_END_6,We can't let them reach their goal.
+ID_DIALOG_SSE_SPIDERSOCIETY_01_END_7,Catch your breath first. We can give chase when you're ready.
+ID_DIALOG_SSE_SPIDERSOCIETY_02_INTRO_0,The Venom sample has been contained. Where are they going?
+ID_DIALOG_SSE_SPIDERSOCIETY_02_INTRO_1,"A dead planet, I think. I fought the voice too much to be given any more information."
+ID_DIALOG_SSE_SPIDERSOCIETY_02_INTRO_2,"Weaver, where did they go?"
+ID_DIALOG_SSE_SPIDERSOCIETY_02_INTRO_3,Not far. They jumped right into the city.
+ID_DIALOG_SSE_SPIDERSOCIETY_02_INTRO_4,Perfecto. I'll send the location out with a call for backup.
+ID_DIALOG_SSE_SPIDERSOCIETY_02_START_0,Got the jump on ya!
+ID_DIALOG_SSE_SPIDERSOCIETY_02_START_1,Cute. You're making friends.
+ID_DIALOG_SSE_SPIDERSOCIETY_02_END_0,Make another portal! NOW!
+ID_DIALOG_SSE_SPIDERSOCIETY_02_END_1,They will follow-
+ID_DIALOG_SSE_SPIDERSOCIETY_02_END_2,GET. US. OUT. OF. HERE.
+ID_DIALOG_SSE_SPIDERSOCIETY_02_END_3,Heh. Sounds like there's trouble in paradise.
+ID_DIALOG_SSE_SPIDERSOCIETY_02_END_4,The Surfer wasn't lying. We can follow as long as they jump into a universe with a Spider person.
+ID_DIALOG_SSE_SPIDERSOCIETY_03_INTRO_0,The Symbiotes were right. You couldn't help yourselves from chasing them.
+ID_DIALOG_SSE_SPIDERSOCIETY_03_INTRO_1,Okay. They're making too many friends.
+ID_DIALOG_SSE_SPIDERSOCIETY_03_END_0,This is odd. The portal distances are getting further apart.
+ID_DIALOG_SSE_SPIDERSOCIETY_03_END_1,That doesn't sound good.
+ID_DIALOG_SSE_SPIDERSOCIETY_03_END_2,It's not. We have to move fast.
+ID_DIALOG_SSE_SPIDERSOCIETY_04_INTRO_0,Why is that portal so huge?
+ID_DIALOG_SSE_SPIDERSOCIETY_04_INTRO_1,No idea.
+ID_DIALOG_SSE_SPIDERSOCIETY_04_INTRO_2,The voice lent its power-
+ID_DIALOG_SSE_SPIDERSOCIETY_04_INTRO_3,IDIOT! DON'T TELL THEM!!
+ID_DIALOG_SSE_SPIDERSOCIETY_04_MID_0,We're out of here!
+ID_DIALOG_SSE_SPIDERSOCIETY_04_END_0,HA! Miguel's gonna hate this.
+ID_DIALOG_SSE_SPIDERSOCIETY_04_END_1,Dios mio. Hate what?
+ID_DIALOG_SSE_SPIDERSOCIETY_04_END_2,We get to have a playdate.
+ID_DIALOG_SSE_SPIDERSOCIETY_04_END_3,"Please, anyone but him."
+ID_DIALOG_SSE_SPIDERSOCIETY_05_INTRO_0,"Listen, Peter, we really need your help right now."
+ID_DIALOG_SSE_SPIDERSOCIETY_05_INTRO_1,There's no telling what havoc the Symbiotes can kick up if they're universe-hopping.
+ID_DIALOG_SSE_SPIDERSOCIETY_05_INTRO_2,Hm. MJ won't be back for another few hours.
+ID_DIALOG_SSE_SPIDERSOCIETY_05_INTRO_3,We might be burning daylight here.
+ID_DIALOG_SSE_SPIDERSOCIETY_05_INTRO_4,"No, no. This is fine. We're fine."
+ID_DIALOG_SSE_SPIDERSOCIETY_05_INTRO_5,"Mask on, kiddo. Secret adventure time!"
+ID_DIALOG_SSE_SPIDERSOCIETY_05_START_0,"See, I told you we'd pick up on their trail of destruction."
+ID_DIALOG_SSE_SPIDERSOCIETY_05_END_0,"So, let me get this straight."
+ID_DIALOG_SSE_SPIDERSOCIETY_05_END_1,The Symbiotes are being called off to who knows where by... a whisper?
+ID_DIALOG_SSE_SPIDERSOCIETY_05_END_2,"It's more than that. Whatever that thing is, it can force them to obey."
+ID_DIALOG_SSE_SPIDERSOCIETY_05_END_3,And there's no telling what will happen when the Symbiotes get there.
+ID_DIALOG_SSE_SPIDERSOCIETY_05_END_4,IF the Symbiotes get there.
+ID_DIALOG_SSE_SPIDERSOCIETY_06_INTRO_0,"You're gonna love this. That was sarcasm, by the way."
+ID_DIALOG_SSE_SPIDERSOCIETY_06_INTRO_1,Mayday's getting a little worn out and we do NOT want a cranky baby on our hands.
+ID_DIALOG_SSE_SPIDERSOCIETY_06_INTRO_2,"We can't stop, or the Symbiotes will get away."
+ID_DIALOG_SSE_SPIDERSOCIETY_06_INTRO_3,"Not the best time, I know. But there it is."
+ID_DIALOG_SSE_SPIDERSOCIETY_06_END_0,"*GASP* She's yawning. This is not a drill, people."
+ID_DIALOG_SSE_SPIDERSOCIETY_06_END_1,"If we're going to keep kicking bad guy butt, we'll need to keep the noise down."
+ID_DIALOG_SSE_SPIDERSOCIETY_06_END_2,Mayday can be a real... Handful when her nap is interrupted.
+ID_DIALOG_SSE_SPIDERSOCIETY_06_END_3,"Don't worry, handsome. Think of me like a thief in the night."
+ID_DIALOG_SSE_SPIDERSOCIETY_06_END_4,I'm so glad Mayday's gonna be asleep for this one.
+ID_DIALOG_SSE_SPIDERSOCIETY_07_INTRO_0,Zzzz...
+ID_DIALOG_SSE_SPIDERSOCIETY_07_INTRO_1,This is perfect! She's still out like a light.
+ID_DIALOG_SSE_SPIDERSOCIETY_07_INTRO_2,Go back home. We can't risk this mission on a missed nap.
+ID_DIALOG_SSE_SPIDERSOCIETY_07_INTRO_3,"Such hostility! If I remember correctly, you used my DNA to get powers."
+ID_DIALOG_SSE_SPIDERSOCIETY_07_INTRO_4,"That kind of makes me your dad, so..."
+ID_DIALOG_SSE_SPIDERSOCIETY_07_INTRO_5,"Watch your tongue, Mister, or you'll get grounded."
+ID_DIALOG_SSE_SPIDERSOCIETY_07_INTRO_6,And we'll dish out the punishment.
+ID_DIALOG_SSE_SPIDERSOCIETY_07_INTRO_7,"For the record, I did NOT call them."
+ID_DIALOG_SSE_SPIDERSOCIETY_07_END_0,I'm going on ahead.
+ID_DIALOG_SSE_SPIDERSOCIETY_07_END_1,"Be safe! Don't stay out too late, and don't talk to strangers!"
+ID_DIALOG_SSE_SPIDERSOCIETY_07_END_2,"Ugh, they grow up so fast."
+ID_DIALOG_SSE_SPIDERSOCIETY_08_INTRO_0,Check out the roof of that building.\n\nIs that another portal?
+ID_DIALOG_SSE_SPIDERSOCIETY_08_INTRO_1,Looks like it! At least we know the Symbiotes' jumping point.
+ID_DIALOG_SSE_SPIDERSOCIETY_08_INTRO_2,THIS JUST IN...\n\nWEB-HEAD TAKES BABY ON A CRIME SPREE!
+ID_DIALOG_SSE_SPIDERSOCIETY_08_INTRO_3,HE'S A MENACE TO NEW YORK... AND A BAD DAD?!
+ID_DIALOG_SSE_SPIDERSOCIETY_08_INTRO_4,"Hey! Keep it down, tin-can! You're going to wake..."
+ID_DIALOG_SSE_SPIDERSOCIETY_08_INTRO_5,WAAHHH!
+ID_DIALOG_SSE_SPIDERSOCIETY_08_INTRO_6,"The baby. Well, now you've done it."
+ID_DIALOG_SSE_SPIDERSOCIETY_08_START_0,You won't like Mayday when she's angry.
+ID_DIALOG_SSE_SPIDERSOCIETY_08_END_0,"That's not a healthy outlet for frustration, but I'll let it slide this time."
+ID_DIALOG_SSE_SPIDERSOCIETY_08_END_1,This universe hop will distract her.
+ID_DIALOG_SSE_SPIDERSOCIETY_08_END_2,She's traveled through portals before.
+ID_DIALOG_SSE_SPIDERSOCIETY_08_END_3,Not like this.\n\nWe're traversing the Web.
+ID_DIALOG_SSE_SPIDERSOCIETY_08_END_4,This is new for both of us! I'll get a ton of pictures!
+ID_DIALOG_SSE_SPIDERSOCIETY_09_START_0,Pav!
+ID_DIALOG_SSE_SPIDERSOCIETY_09_START_1,"Whoa, what are you all doing here?"
+ID_DIALOG_SSE_SPIDERSOCIETY_09_START_2,I swear I'm not struggling as much as it looks.
+ID_DIALOG_SSE_SPIDERSOCIETY_09_END_0,No Miles or Hobie?
+ID_DIALOG_SSE_SPIDERSOCIETY_09_END_1,They were hurt. That's why we're here.
+ID_DIALOG_SSE_SPIDERSOCIETY_09_END_2,My bros? Hurt?! Say less!
+ID_DIALOG_SSE_SPIDERSOCIETY_09_END_3,What do you need me to do?
+ID_DIALOG_SSE_SPIDERSOCIETY_10_INTRO_0,Each jump is getting the Symbiotes closer to the source of their power.
+ID_DIALOG_SSE_SPIDERSOCIETY_10_INTRO_1,We need to stop them before Void Knight has enough time to recharge.
+ID_DIALOG_SSE_SPIDERSOCIETY_10_INTRO_2,No problem. I know all the ways around the traffic.
+ID_DIALOG_SSE_SPIDERSOCIETY_10_START_0,Typical traffic jam.
+ID_DIALOG_SSE_SPIDERSOCIETY_10_END_0,"See, Mayday, that's why we don't get physical to release our frustrations."
+ID_DIALOG_SSE_SPIDERSOCIETY_10_END_1,Road rage. It gets the better of everyone.
+ID_DIALOG_SSE_SPIDERSOCIETY_10_END_2,Come on. The Symbiotes are kicking up a hornet's nest behind them.
+ID_DIALOG_SSE_SPIDERSOCIETY_11_START_0,"These guys? Yeah, this will be quick."
+ID_DIALOG_SSE_SPIDERSOCIETY_11_MID_0,Clones. Why is it always more clones?
+ID_DIALOG_SSE_SPIDERSOCIETY_12_INTRO_0,"Okay, enough running. I've been skipping cardio, and all this chasing is killing me."
+ID_DIALOG_SSE_SPIDERSOCIETY_12_INTRO_1,You're too late. No stoppin' us now.
+ID_DIALOG_SSE_SPIDERSOCIETY_12_INTRO_2,"Wait, that portal looks different."
+ID_DIALOG_SSE_SPIDERSOCIETY_12_MID_0,Try tailin' us now! HAHAHA!
+ID_DIALOG_SSE_SPIDERSOCIETY_12_END_0,We have a problem.\n\nThere's no thread to follow.
+ID_DIALOG_SSE_SPIDERSOCIETY_12_END_1,What do you mean? Is there really a universe out there without a Spider-Man?
+ID_DIALOG_SSE_SPIDERSOCIETY_12_END_2,We'll need to find someone with the ability to trace their location.
+ID_DIALOG_SSE_SPIDERSOCIETY_12_END_3,I know the kid for the job.
+ID_DIALOG_SSE_SPIDERSOCIETY_13_INTRO_0,EARTH-14512...
+ID_DIALOG_SSE_SPIDERSOCIETY_13_INTRO_1,"Long time no see, kiddo."
+ID_DIALOG_SSE_SPIDERSOCIETY_13_INTRO_2,GOSH! My FRIENDS!\n\nWhat brings the whole gang here?!
+ID_DIALOG_SSE_SPIDERSOCIETY_13_INTRO_3,We need your help to track symbiotes.
+ID_DIALOG_SSE_SPIDERSOCIETY_13_INTRO_4,"Ooooh, cool! I confiscated a teleporter-tracker thing from the Sinister Six a while ago, but..."
+ID_DIALOG_SSE_SPIDERSOCIETY_13_INTRO_5,But?
+ID_DIALOG_SSE_SPIDERSOCIETY_13_INTRO_6,But sadly your hands are gonna be full for the moment!
+ID_DIALOG_SSE_SPIDERSOCIETY_13_END_0,"Like I was saying, I already have tracking tech modded into SP//dr, but it needs to be tuned."
+ID_DIALOG_SSE_SPIDERSOCIETY_13_END_1,Can you use this thing?
+ID_DIALOG_SSE_SPIDERSOCIETY_13_END_2,Is that a Venom sample? ...Gross!
+ID_DIALOG_SSE_SPIDERSOCIETY_13_END_3,"But yeah, that would be perfect."
+ID_DIALOG_SSE_SPIDERSOCIETY_14_INTRO_0,"By the way, what did you think of that series I sent you?!"
+ID_DIALOG_SSE_SPIDERSOCIETY_14_INTRO_1,"I was on the edge of my seat. A regular white knuckle read, I'm tellin' ya!"
+ID_DIALOG_SSE_SPIDERSOCIETY_14_INTRO_2,Wait... You read a manga?
+ID_DIALOG_SSE_SPIDERSOCIETY_14_INTRO_3,What can I say? Mr. Shimada gets the nitty gritty of putting the pieces together.
+ID_DIALOG_SSE_SPIDERSOCIETY_14_INTRO_4,"There you are, you little brat!"
+ID_DIALOG_SSE_SPIDERSOCIETY_14_INTRO_5,Yikes!
+ID_DIALOG_SSE_SPIDERSOCIETY_14_END_0,"Geez, kid, what did you do to get on her bad side?"
+ID_DIALOG_SSE_SPIDERSOCIETY_14_END_1,I may have redirected her powers to create a laser firework display over the city last night.
+ID_DIALOG_SSE_SPIDERSOCIETY_14_END_2,"Please, tell me you recorded it."
+ID_DIALOG_SSE_SPIDERSOCIETY_14_END_3,"Tch, duh! Hee-hee!"
+ID_DIALOG_SSE_SPIDERSOCIETY_14_END_4,"More importantly, that gave SP//dr enough time to calibrate its tracker!"
+ID_DIALOG_SSE_SPIDERSOCIETY_15_INTRO_0,That's exactly what I want to hear.
+ID_DIALOG_SSE_SPIDERSOCIETY_15_INTRO_1,You and your robot will be coming with me now.
+ID_DIALOG_SSE_SPIDERSOCIETY_15_INTRO_2,You got another thing comin' if you think I'm lettin' you get the kid.
+ID_DIALOG_SSE_SPIDERSOCIETY_15_INTRO_3,"Believe me, I'd rather just have the bot, but she's necessary."
+ID_DIALOG_SSE_SPIDERSOCIETY_15_INTRO_4,My fists havin' a meet and greet with your face is necessary.
+ID_DIALOG_SSE_SPIDERSOCIETY_15_INTRO_5,I know dad rage. And that's dad rage.
+ID_DIALOG_SSE_SPIDERSOCIETY_15_INTRO_6,Aww.
+ID_DIALOG_SSE_SPIDERSOCIETY_15_END_0,Hahaha.
+ID_DIALOG_SSE_SPIDERSOCIETY_15_END_1,"Still hungry for another knuckle sandwich, punk?"
+ID_DIALOG_SSE_SPIDERSOCIETY_15_END_2,I'm not the only one after that bot.
+ID_DIALOG_SSE_SPIDERSOCIETY_15_END_3,We have multiple hostiles moving in!
+ID_DIALOG_SSE_SPIDERSOCIETY_16_START_0,Bad children get punished.
+ID_DIALOG_SSE_SPIDERSOCIETY_16_START_1,Spinning up this bad bot now!
+ID_DIALOG_SSE_SPIDERSOCIETY_16_MID_0,Keep your arms and legs in the ride at all times! Here we go!
+ID_DIALOG_SSE_SPIDERSOCIETY_16_MID_1,"Peni, are these flashing lights interior decor?"
+ID_DIALOG_SSE_SPIDERSOCIETY_16_MID_2,Stabilizer's busted! Hold on tight. Our landing is going to be rough!
+ID_DIALOG_SSE_SPIDERSOCIETY_16_END_0,SOMEWHERE...
+ID_DIALOG_SSE_SPIDERSOCIETY_16_END_1,"Ow, my back."
+ID_DIALOG_SSE_SPIDERSOCIETY_16_END_2,Deadpool?
+ID_DIALOG_SSE_SPIDERSOCIETY_16_END_3,Spidey! You're ALIVE!\n\nHEART EYES!
+ID_DIALOG_SSE_SPIDERSOCIETY_16_END_4,"Bad news, everyone. SP//dr's upgrade is going to need replacement parts."
+ID_DIALOG_SSE_SPIDERSOCIETY_16_END_5,"In the Wasteland, anything can be a replacement part if you try hard enough."
+ID_DIALOG_SSE_SPIDERSOCIETY_16_END_6,"But I got my thumb on the pulse for good parts, ya dig?"
+ID_DIALOG_SSE_SPIDERSOCIETY_16_END_7,This is going to take longer than I thought... M.J. is SO gonna notice we're gone.
+ID_DIALOG_ECM_AGEOFX_CH0_01_INTRO_0,THE X-MANSION...
+ID_DIALOG_ECM_AGEOFX_CH0_01_INTRO_1,"Jean? It's the middle of the night, what are you doing in the Danger Room?"
+ID_DIALOG_ECM_AGEOFX_CH0_01_INTRO_2,"I couldn't sleep. A voice, in my head... I didn't recognize it, but it felt familiar."
+ID_DIALOG_ECM_AGEOFX_CH0_01_INTRO_3,I learned a long time ago to take your instincts seriously. What was it saying?
+ID_DIALOG_ECM_AGEOFX_CH0_01_INTRO_4,"I couldn't tell. But the more I tried to focus in on it, the blurrier it got. "
+ID_DIALOG_ECM_AGEOFX_CH0_01_INTRO_5,"But I felt like I was being pointed to our past. "
+ID_DIALOG_ECM_AGEOFX_CH0_01_INTRO_6,"So, that's why you're in the Danger Room. To relive the past. Smart. "
+ID_DIALOG_ECM_AGEOFX_CH0_01_INTRO_7,"Danger Room! Bring up our first mission. When the X-Men first met Magneto. "
+ID_DIALOG_ECM_AGEOFX_CH0_01_START_0,"THERE he is! I've FOUND him!! X-MEN, ATTACK!"
+ID_DIALOG_ECM_AGEOFX_CH0_01_START_1,"Ahhh! NOW I see my antagonists! Five costumed youths! "
+ID_DIALOG_ECM_AGEOFX_CH0_01_START_2,Surely all their powers put together can be no match for MINE!
+ID_DIALOG_ECM_AGEOFX_CH0_01_END_0,Everything seemed so much simpler then. Just the five of us against the Brotherhood...
+ID_DIALOG_ECM_AGEOFX_CH0_01_END_1,"Simpler, but lonelier. Growing up in that orphanage, I never thought I'd be around so many people like me. "
+ID_DIALOG_ECM_AGEOFX_CH0_01_END_2,"The orphanage... Scott, how did the school find you? How did it find any of us?"
+ID_DIALOG_ECM_AGEOFX_CH0_01_END_3,"What do you mean? The Institute... Cerebro... This brought us together to save humanity. "
+ID_DIALOG_ECM_AGEOFX_CH0_01_END_4,All on its own.
+ID_DIALOG_ECM_AGEOFX_CH0_02_INTRO_0,As much as I tried to keep the X-Men focused on mutant affairs...
+ID_DIALOG_ECM_AGEOFX_CH0_02_INTRO_1,"The world's too small for that, Scott. "
+ID_DIALOG_ECM_AGEOFX_CH0_02_INTRO_2,"I didn't realize that how big mutant problems would be, and how quickly they'd become global threats."
+ID_DIALOG_ECM_AGEOFX_CH0_02_START_0,"BEHOLD MY COMING, INFERIOR BEINGS. "
+ID_DIALOG_ECM_AGEOFX_CH0_02_START_1,THE WEAK SHALL BE CULLED AND ALL SHALL KNEEL BEFORE YOUR NEW MASTER.
+ID_DIALOG_ECM_AGEOFX_CH0_02_START_2,EN SABAH NUR... YOUR APOCALYPSE!
+ID_DIALOG_ECM_AGEOFX_CH0_02_END_0,"Apocalypse is sealed away... "
+ID_DIALOG_ECM_AGEOFX_CH0_02_END_1,"Thanks to our combined mystic powers and expertise on mutation, we may have stopped him forever. "
+ID_DIALOG_ECM_AGEOFX_CH0_02_END_2,"Thank you, X-Men."
+ID_DIALOG_ECM_AGEOFX_CH0_02_END_3,"There... Did you see that? Doctor Strange mentioned our expertise... But who did he mean? "
+ID_DIALOG_ECM_AGEOFX_CH0_02_END_4,"Hank, maybe? Who knows what Strange is talking about half the time."
+ID_DIALOG_ECM_AGEOFX_CH0_02_END_5,I remember Bobby just being excited to make new friends. Even if they weren't all  friends for long...
+ID_DIALOG_ECM_AGEOFX_CH0_03_START_0,C'mon Cap... This is all over if you just sign the paper. Register. Let's go back to fighting bad guys.
+ID_DIALOG_ECM_AGEOFX_CH0_03_START_1,"Register, and then what? Who gets to say what happens to that information? To those heroes?"
+ID_DIALOG_ECM_AGEOFX_CH0_03_START_2,"Mutants aren't registering just because of who we are. We can't take our powers off when we're done playing hero, Stark."
+ID_DIALOG_ECM_AGEOFX_CH0_03_START_3,"Okay, I'm not going to be lectured on morality by a man in 'transitions' lenses. We're bringing you in."
+ID_DIALOG_ECM_AGEOFX_CH0_03_END_0,The Civil War really felt like it was going to be the end of everything. I can't believe Tony and Steve got past it.
+ID_DIALOG_ECM_AGEOFX_CH0_03_END_1,"That's because you, my love, hold a grudge like no one else. Just ask Logan..."
+ID_DIALOG_ECM_AGEOFX_CH0_03_END_2,"Heh, what can I say? I have a long memory."
+ID_DIALOG_ECM_AGEOFX_CH0_03_END_3,"But a strong moral compass... Which we learned here, at the school... Hm..."
+ID_DIALOG_ECM_AGEOFX_CH0_04_INTRO_0,"My fellow Mutants... I come to you now, no longer your enemy. But as your new leader."
+ID_DIALOG_ECM_AGEOFX_CH0_04_INTRO_1,"You think yer just gonna walk in and take over? No way, buckethead. "
+ID_DIALOG_ECM_AGEOFX_CH0_04_INTRO_2,"Wait, this memory... This is from when Magneto became the new Headmaster. "
+ID_DIALOG_ECM_AGEOFX_CH0_04_INTRO_3,"Something odd occurred to me. I wanted to see it again. "
+ID_DIALOG_ECM_AGEOFX_CH0_04_INTRO_4,Any chance to see Wolverine get taught a lesson the hard way. I should have brought popcorn.
+ID_DIALOG_ECM_AGEOFX_CH0_04_START_0,"Ah, Magneto! You are a guest, ya? Let us give you an official X-Men welcome!"
+ID_DIALOG_ECM_AGEOFX_CH0_04_START_1,"A guest? More... An instructor. And your first lesson begins NOW. "
+ID_DIALOG_ECM_AGEOFX_CH0_04_END_0,"Fine work, children. We've had our differences in the past, but in this new role, I can serve all mutantkind. "
+ID_DIALOG_ECM_AGEOFX_CH0_04_END_1,"Wait, he was the NEW Headmaster..."
+ID_DIALOG_ECM_AGEOFX_CH0_04_END_2,"Don't you find it odd that, before Magneto, we never had a Headmaster?"
+ID_DIALOG_ECM_AGEOFX_CH0_04_END_3,"You know, I never thought about it. "
+ID_DIALOG_ECM_AGEOFX_CH0_04_END_4,That's just the way it always was. Huh.
+ID_DIALOG_ECM_AGEOFX_CH0_05_INTRO_0,"You know, there were plenty of times Logan was in the right. "
+ID_DIALOG_ECM_AGEOFX_CH0_05_INTRO_1,"Don't remind me. "
+ID_DIALOG_ECM_AGEOFX_CH0_05_INTRO_2,"Scott, honey, that's the whole point of what we're doing here. "
+ID_DIALOG_ECM_AGEOFX_CH0_05_INTRO_3,"Then let's get it over with. Let's see the time Wolverine was in the right and I... I could not have been more wrong. "
+ID_DIALOG_ECM_AGEOFX_CH0_05_INTRO_4,"The time the Avengers took on the X-Men... And I lost. "
+ID_DIALOG_ECM_AGEOFX_CH0_05_START_0,"You've gone too far, Slim. Whatever you think you're doin', whatever you're tryin' to gain... The price was too high. "
+ID_DIALOG_ECM_AGEOFX_CH0_05_START_1,"What I'm DOING?! I'm saving all of mutantkind, Wolverine. I'm using the Phoenix Force to let our people WIN."
+ID_DIALOG_ECM_AGEOFX_CH0_05_START_2,"You sanctimonious son of a... You don't sound like you. You sound like Magneto. "
+ID_DIALOG_ECM_AGEOFX_CH0_05_START_3,And I got one way I deal with Magneto. RAAAARGH!!
+ID_DIALOG_ECM_AGEOFX_CH0_05_END_0,"I always think five steps ahead. With these powers, this burden of responsibility... I have to."
+ID_DIALOG_ECM_AGEOFX_CH0_05_END_1,"But for a guy with one big eye, I lost sight of everything. I owe Wolverine for pulling me back."
+ID_DIALOG_ECM_AGEOFX_CH0_05_END_2,Pulling you back from what?
+ID_DIALOG_ECM_AGEOFX_CH0_05_END_3,From... From... I'm not sure...
+ID_DIALOG_ECM_AGEOFX_CH0_05_END_4,"What did you actually do, Scott? Why can't we remember?"
+ID_DIALOG_ECM_AGEOFX_CH0_06_INTRO_0,"Someone, something... It's missing."
+ID_DIALOG_ECM_AGEOFX_CH0_06_INTRO_1,"Maybe that's why this feels familiar. The whole world had to live with that missing feeling. "
+ID_DIALOG_ECM_AGEOFX_CH0_06_INTRO_2,This feels smaller scale. This feels localized.
+ID_DIALOG_ECM_AGEOFX_CH0_06_INTRO_3,"But maybe we can learn something if we just take a look. Danger Room, let's see the battle we fought right after the..."
+ID_DIALOG_ECM_AGEOFX_CH0_06_INTRO_4,SNAP!
+ID_DIALOG_ECM_AGEOFX_CH0_06_START_0,"Earth's heroes. Look at you. Beaten and bloody. You've lost half of everything. "
+ID_DIALOG_ECM_AGEOFX_CH0_06_START_1,"I could leave you in balance, but if you insist... I will collect the rest. "
+ID_DIALOG_ECM_AGEOFX_CH0_06_START_2,"Thanos... You talk too much. And that's coming from me. "
+ID_DIALOG_ECM_AGEOFX_CH0_06_START_3,"Avengers, get the Gauntlet, take him down! Get everyone back!"
+ID_DIALOG_ECM_AGEOFX_CH0_06_END_0,"Tony put everything back. Everyone back. "
+ID_DIALOG_ECM_AGEOFX_CH0_06_END_1,"Psychics and heroes spent years repairing the world. I don't think this is related to the Snap. "
+ID_DIALOG_ECM_AGEOFX_CH0_06_END_2,"Thanos mentioned balance, though... What if what you're feeling is things being OUT of balance? "
+ID_DIALOG_ECM_AGEOFX_CH0_07_INTRO_0,"We were asking if this voice was someone missing, but what if it's TOO MANY thoughts. "
+ID_DIALOG_ECM_AGEOFX_CH0_07_INTRO_1,"Our dimension is overrun by corrupted and duplicated people from other worlds. A lot of extra minds.  "
+ID_DIALOG_ECM_AGEOFX_CH0_07_INTRO_2,"It's been a long time since I was a scared student fighting to shut out voices. "
+ID_DIALOG_ECM_AGEOFX_CH0_07_INTRO_3,"Jean, you are the most powerful telepath on earth. I know that. But no one knows what havoc the invasion caused."
+ID_DIALOG_ECM_AGEOFX_CH0_07_INTRO_4,"Let's see that day. The day Ultimus Invaded. "
+ID_DIALOG_ECM_AGEOFX_CH0_07_START_0,"Nick Fury. You know, across different dimensions, I never get bored of ripping your one good eye from your head. "
+ID_DIALOG_ECM_AGEOFX_CH0_07_START_1,"Surrender the Nexus. Or don't. Either way this will be fast. "
+ID_DIALOG_ECM_AGEOFX_CH0_07_START_2,"Oh, do you think this is our first alien invasion? One more and we get a new ring on Saturn. "
+ID_DIALOG_ECM_AGEOFX_CH0_07_START_3,S.T.R.I.K.E. force? ATTACK!
+ID_DIALOG_ECM_AGEOFX_CH0_07_END_0,"And after the Invasion, things only got crazier. "
+ID_DIALOG_ECM_AGEOFX_CH0_07_END_1,You imprisoned a Kree Demi-God inside a dimension made of M'Kraan Crystal! That would mess with anyone's powers.
+ID_DIALOG_ECM_AGEOFX_CH0_07_END_2,"I hope you're right, Scott. And trying to find that feeling, that voice... It's only gotten fainter."
+ID_DIALOG_ECM_AGEOFX_CH0_07_END_3,"Maybe it's nothing. "
+ID_DIALOG_ECM_AGEOFX_CH0_07_END_4,"If it isn't? We'll handle it, together. All of us. The X-Men, united. "
+ID_DIALOG_ECM_AGEOFX_CH0_07_END_5,FAR ACROSS THE ASTRAL PLANE...
+ID_DIALOG_ECM_AGEOFX_CH0_07_END_6,"Jean... Find me... "
+ID_DIALOG_ECM_AGEOFX_CH0_07_END_7,Bring my family... My students...
+ID_DIALOG_ECM_AGEOFX_CH0_07_END_8,"To me, my X-Men..."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
