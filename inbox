@@ -7550,10 +7550,10 @@ ID_ME_DE_HW23_EVENT_LIVE,Recruit Juggernaut (Zombie)!
 ID_ME_BO_HW23_EVENT_LIVE,"Commander,\n\nRecruit Juggernaut (Zombie) now in the <color=#ffda21>Unstoppable Undead Event</color>!\n\nThis event has three difficulties:\n\n- First, witness the true power of the Undying team's new member in the <color=#ffda21>Story</color> Difficulty. \n\n- Then, battle in the <color=#ffda21>Challenge</color> Difficulty and finally head to the <color=#ffda21>Bonus</color> Difficulty for gigantic rewards based on your Juggernaut (Zombie) Yellow Star Level.\n\nGood luck, Commander!"
 ID_ME_NA_HW23_EVENT_REMINDER,Reminder: Unstoppable Undead
 ID_ME_DE_HW23_EVENT_REMINDER,Earn Juggernaut (Zombie) shards before it's too late!
-ID_ME_BO_HW23_EVENT_REMINDER,"Commander,\nThe Unstoppable Undead Event will end soon. Don't miss your chance to recruit <color=#ffda21>Juggernaut (Zombie)</color> while you can!.\n\nGood luck, Commander!"
+ID_ME_BO_HW23_EVENT_REMINDER,"Commander,\nThe Unstoppable Undead Event will end soon. Don't miss your chance to recruit <color=#ffda21>Juggernaut (Zombie)</color> while you can!\n\nGood luck, Commander!"
 ID_ME_NA_HW23_EVENT_ENDINGSOON,Ending Soon: Unstoppable Undead
 ID_ME_DE_HW23_EVENT_ENDINGSOON,Earn Juggernaut (Zombie) shards before it's too late!
-ID_ME_BO_HW23_EVENT_ENDINGSOON,"Commander,\nThe Unstoppable Undead Event will end soon!. Don't hold back during this limited-time opportunity to recruit and power up Juggernaut (Zombie).\n\nGood luck, Commander!\n"
+ID_ME_BO_HW23_EVENT_ENDINGSOON,"Commander,\nThe Unstoppable Undead Event will end soon! Don't hold back during this limited-time opportunity to recruit and power up Juggernaut (Zombie).\n\nGood luck, Commander!\n"
 ID_ME_NA_BATTLEPASS_SEASON7_ANNOUNCE,Battle Pass: Season 7
 ID_ME_DE_BATTLEPASS_SEASON7_ANNOUNCE,Earn Photon shards & Teal gear!
 ID_ME_BO_BATTLEPASS_SEASON7_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle pass: Season 7 is LIVE</color>!\n\nComplete this Season's Daily and Weekly Objectives to win these <color=#fff568>Featured Prizes</color>:\n- Photon character shards\n- Teal Gear\n\nUpgrade to the <color=#fff568>Premium Pass</color> to earn even more rewards.\n\nCharge into Battle Pass: Season 7 today!"
@@ -8674,6 +8674,9 @@ ID_ME_NA_SLICKOUTBREAK_ANNOUNCE,LIVE: Slick Outbreak
 ID_ME_NA_SLICKOUTBREAK_ENDING,ENDING: Slick Outbreak
 ID_ME_DE_SLICKOUTBREAK_ENDING,Don't miss out on Mutant Gear!
 ID_ME_BO_SLICKOUTBREAK_ENDING,"Commander,\n\nThe Slick Outbreak Event <color=#fff568>ends soon</color>. Continue making progress to earn Juggernaut (Zombie) Diamonds, Mutant Gear, and Gamma Rays! \n\nGood luck, Commander!"
+ID_ME_NA_ATTACKOFTHEPLANTS_ANNOUNCE,LIVE: Attack of the Plants
+ID_ME_DE_ATTACKOFTHEPLANTS_ANNOUNCE,Spend Iso-8 Campaign Energy for glorious rewards!
+ID_ME_BO_ATTACKOFTHEPLANTS_ANNOUNCE,"Commander,\n\nCollaborate with your alliance and spend Iso-8 Campaign Energy and collect Allied Supply IV Orb Fragments in this 5-day milestone to earn Nature/Nurture progress.\n\nGood luck, Commander!"
 ID_ME_DE_BATTLEPASS_SEASON17_ANNOUNCE,Earn Starbrand & Teal gear!
 ID_ME_BO_BATTLEPASS_SEASON17_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle pass: Season 17 is LIVE</color>!\n\nComplete this Season's Daily and Weekly Objectives to win these <color=#fff568>Featured Prizes</color>:\n- Starbrand shards\n- Teal Gear\n\nUpgrade to the <color=#fff568>Premium Pass</color> to earn even more rewards.\n\nCharge into Battle Pass: Season 17 today!"
 ID_ME_NA_BATTLEPASS_SEASON17_ENDING,Season 17 Ending Soon

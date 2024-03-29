@@ -6774,7 +6774,7 @@ ID_DIALOG_SCE_S6EE_09_END_7,ARGGGHHH UGHHH UH.....
 ID_DIALOG_SCE_S6EE_09_END_8,The Goblin suit is... countering the nanomachines somehow.
 ID_DIALOG_SCE_S6EE_10_INTRO_0,"Is it you, Osborn? Are you back?"
 ID_DIALOG_SCE_S6EE_10_INTRO_1,Yes... barely. I'm free of that insufferable mutant in my mind.
-ID_DIALOG_SCE_S6EE_10_INTRO_2,"Even as he controlled my actions as Green Goblin, he couldn't override the mental link I have with my OsCorp tech."
+ID_DIALOG_SCE_S6EE_10_INTRO_2,"Even as he controlled my actions as GreenGoblin, he couldn't override the mental link I have with my OsCorp tech."
 ID_DIALOG_SCE_S6EE_10_INTRO_3,I willed my companion AI to access all OsCorp's nanotech and genetics research to find a cure. And once you stopped me I found a moment to act.
 ID_DIALOG_SCE_S6EE_10_INTRO_4,What was the mutant's goal? Why gather us and why target spider heroes?
 ID_DIALOG_SCE_S6EE_10_INTRO_5,"I don't know. But what I DO know is, it's time for some good old fashioned PAYBACK!"
@@ -8068,6 +8068,146 @@ ID_DIALOG_ECM_AGEOFX_CH0_07_END_5,FAR ACROSS THE ASTRAL PLANE...
 ID_DIALOG_ECM_AGEOFX_CH0_07_END_6,"Jean... Find me... "
 ID_DIALOG_ECM_AGEOFX_CH0_07_END_7,Bring my family... My students...
 ID_DIALOG_ECM_AGEOFX_CH0_07_END_8,"To me, my X-Men..."
+ID_DIALOG_SSE_MFM_01_INTRO_0,"""THE DOUBLE DEATHLOK"", THE DINGIEST DIVE BAR IN THE WASTELAND..."
+ID_DIALOG_SSE_MFM_01_INTRO_1,"Wade, we need replacement parts for a giant Japanese robot... What exactly are we doing in a bar basement?"
+ID_DIALOG_SSE_MFM_01_INTRO_2,"Why, looking for a member of our merry crew of course!"
+ID_DIALOG_SSE_MFM_01_INTRO_3,"Wait, is that... a fighting pit?! You brought me to a cage fight while I'm carrying my daughter?"
+ID_DIALOG_SSE_MFM_01_INTRO_4,"Hey, I'm here with my daughter too! She's having a blast."
+ID_DIALOG_SSE_MFM_01_INTRO_5,Please don't include me in this.
+ID_DIALOG_SSE_MFM_01_INTRO_6,"Oh! There's our friend now. The guy in the middle of the fighting pit! Hey, buddy!"
+ID_DIALOG_SSE_MFM_01_INTRO_7,ROAAAAAR!
+ID_DIALOG_SSE_MFM_01_START_0,Is that a PANDA BEAR?
+ID_DIALOG_SSE_MFM_01_START_1,And WHAT a panda bear!
+ID_DIALOG_SSE_MFM_01_START_2,Meet Pandapool! This Mutant Protector draws attention to defends his team.
+ID_DIALOG_SSE_MFM_01_START_3,"An integral member of the Mercs for Money team, he is extremely powerful in War."
+ID_DIALOG_SSE_MFM_01_START_4,"When teamed up with his human counterpart, Pandapool can revive as long as Deadpool hasn't been defeated."
+ID_DIALOG_SSE_MFM_01_WAVE2_0,RAWR!?
+ID_DIALOG_SSE_MFM_01_WAVE2_1,"Well funny you ask, I ran into some spiders."
+ID_DIALOG_SSE_MFM_01_WAVE2_2,GRRRRGNK?
+ID_DIALOG_SSE_MFM_01_WAVE2_3,I'll explain later but for now... TO BATTLE!
+ID_DIALOG_SSE_MFM_01_END_0,"Okay, so your teammate is a spray-painted panda?"
+ID_DIALOG_SSE_MFM_01_END_1,"Spideys, meet Pandapool - the species that endangers YOU!"
+ID_DIALOG_SSE_MFM_01_END_2,So... Cute...
+ID_DIALOG_SSE_MFM_01_END_3,RAWR!
+ID_DIALOG_SSE_MFM_01_END_4,"He says thank you! And he ALSO says his fur color is all-natural, baby!"
+ID_DIALOG_SSE_MFM_01_END_5,You can understand him!?
+ID_DIALOG_SSE_MFM_01_END_6,"Oh yeah! A Deadpool can understand another Deadpool, all throughout the multiverse."
+ID_DIALOG_SSE_MFM_01_END_7,I guess in all the multiverse SOMEONE has to understand you guys.
+ID_DIALOG_SSE_MFM_01_END_8,"Okay, great, we have a big bear... How does this help us fix Sp//dr and get home?"
+ID_DIALOG_SSE_MFM_01_END_9,"The wasteland is dangerous, we needed MUSCLE! And now that we've got him... ROAD TRIP!"
+ID_DIALOG_SSE_MFM_02_INTRO_0,A WAREHOUSE JUST OUTSIDE NEW OSBORN CITY...
+ID_DIALOG_SSE_MFM_02_INTRO_1,Osborn has a whole town in this dimension?
+ID_DIALOG_SSE_MFM_02_INTRO_2,"Oh yeah, the groovy ghoulie owns most of the East Coast ever since Red Skull got SNIKT-ed by Wolvie."
+ID_DIALOG_SSE_MFM_02_INTRO_3,"But we need to get out of town quick and I figured you guys wanted to ride in STYLE, so I knew EXACTLY what to steal..."
+ID_DIALOG_SSE_MFM_02_INTRO_4,"Oh my goodness, is that..."
+ID_DIALOG_SSE_MFM_02_INTRO_5,The SPIDER-MOBILE!
+ID_DIALOG_SSE_MFM_02_START_0,I'm so excited to drive the Spider-Mobile! Bet it can really cut through traffic!
+ID_DIALOG_SSE_MFM_02_START_1,"Traffic, skyscrapers, you name it! And it's great for the beach. Now if you will EXCUSE me, time to get to hotwirin'..."
+ID_DIALOG_SSE_MFM_02_END_0,Did I hear you right when you said that a SPIDER-MAN stole from MY facility?!
+ID_DIALOG_SSE_MFM_02_END_1,"Security footage shows four different spider-themed individuals, breaking and stealing a vehicle."
+ID_DIALOG_SSE_MFM_02_END_2,"FOUR?! Why, that's a regular INFESTATION."
+ID_DIALOG_SSE_MFM_02_END_3,Now get out of my office before I show you how I squashed the original spiders... I have EXTERMINATORS to call! HAHAHAHAHA!
+ID_DIALOG_SSE_MFM_03_INTRO_0,"Come on, you've been behind the wheel for hours! Let me drive a bit!"
+ID_DIALOG_SSE_MFM_03_INTRO_1,"Too bad, kid! You're on board the Deadpool Express, and if you check the bumper sticker you'll see I only ""Brake For Iso-8""."
+ID_DIALOG_SSE_MFM_03_INTRO_2,Come on! I promise to be real careful.
+ID_DIALOG_SSE_MFM_03_INTRO_3,RAWR!
+ID_DIALOG_SSE_MFM_03_INTRO_4,Pandapool says he's got next! If you want to argue with him...
+ID_DIALOG_SSE_MFM_03_INTRO_5,"No, he said LOOK OUT!"
+ID_DIALOG_SSE_MFM_03_INTRO_6,CRASH!
+ID_DIALOG_SSE_MFM_03_START_0,Who dares crash into my caravan of electric vehicles?!
+ID_DIALOG_SSE_MFM_03_START_1,SPIDERS?! I thought Osborn was joking!
+ID_DIALOG_SSE_MFM_03_START_2,Destroy them!
+ID_DIALOG_SSE_MFM_03_END_0,I thought this was a world without heroes? There were a lot of familiar faces working for Electro.
+ID_DIALOG_SSE_MFM_03_END_1,"Oh, yeah. I forgot to mention. Clones, baby! You spider-nerds love clones, right? I could be getting that wrong..."
+ID_DIALOG_SSE_MFM_03_END_2,"Yeah, that's DEFINITELY wrong. Where did S.H.I.E.L.D. get clones?"
+ID_DIALOG_SSE_MFM_03_END_3,Some nerd named Miles Warren? My pal Ben told me about him before... You know... Dead!
+ID_DIALOG_SSE_MFM_03_END_4,"Ugh, the Jackal... No mater what universe it is, that guy's a huge pain. Let's keep moving."
+ID_DIALOG_SSE_MFM_04_INTRO_0,RRNFF?
+ID_DIALOG_SSE_MFM_04_INTRO_1,What's he saying?
+ID_DIALOG_SSE_MFM_04_INTRO_2,If I know anything about bears... He's asking about food.
+ID_DIALOG_SSE_MFM_04_INTRO_3,"No, he was actually pointing out that big storm of black and white energy coming towards us!"
+ID_DIALOG_SSE_MFM_04_INTRO_4,I am PRETTY sure it's nothing. I've never been wrong. Don't ask anyone to confirm that.
+ID_DIALOG_SSE_MFM_04_START_0,"Wilson. Step aside, we're on the hunt for spiders tonight, not you."
+ID_DIALOG_SSE_MFM_04_START_1,RAWR!
+ID_DIALOG_SSE_MFM_04_START_2,Yeah! What he said!
+ID_DIALOG_SSE_MFM_04_END_0,"You know, I've never had a good experience with that guy. Wait... I just got his name."
+ID_DIALOG_SSE_MFM_04_END_1,"Well, again thanks for protecting us."
+ID_DIALOG_SSE_MFM_04_END_2,GRMPH.
+ID_DIALOG_SSE_MFM_04_END_3,"He says, ""No problem, Petey! We protect our clients."""
+ID_DIALOG_SSE_MFM_05_INTRO_0,"Okay, we just crossed into the Midwest. This is where things get REALLY dangerous. Did you know they put chili on SPAGETTI out here?"
+ID_DIALOG_SSE_MFM_05_INTRO_1,"Luckily, I've got backup waiting... Red Leader to Claw Leader! What's your 20? Over!"
+ID_DIALOG_SSE_MFM_05_INTRO_2,"Wilson, where the hell have you been?! I'm outside the meeting point, it's swarming with Osborn's pawns."
+ID_DIALOG_SSE_MFM_05_INTRO_3,Pawns are no problem! We'll be right there... Also say 'over' when you're done talking. Over!
+ID_DIALOG_SSE_MFM_05_INTRO_4,Get your ass down here! We're burning daylight and I'm not getting caught with my claws out here.
+ID_DIALOG_SSE_MFM_05_INTRO_5,...I'm waiting.\nOVER.
+ID_DIALOG_SSE_MFM_05_INTRO_6,"SERIOUSLY, GET OVER HERE!"
+ID_DIALOG_SSE_MFM_05_INTRO_7,"You said 'over'! That counts! On our way, Claw Leader!"
+ID_DIALOG_SSE_MFM_05_START_0,"This is Daken, aka Fang. His mutant power allows him to heal fast and hit hard adding to his stealth."
+ID_DIALOG_SSE_MFM_05_START_1,Daken is useful in war and taking down enemies clouded with stealth when working with the Mercs for Money.
+ID_DIALOG_SSE_MFM_05_START_2,Alongside being anti-stealth his ultimate attack can slow down an entire teams speed.
+ID_DIALOG_SSE_MFM_05_END_0,Finally! What took you?
+ID_DIALOG_SSE_MFM_05_END_1,"Sorry about that, bossman! We're here now, with our cargo. Say hi, Cargo!"
+ID_DIALOG_SSE_MFM_05_END_2,"Uh, hi. Deadpool says you can help us get back to our home dimension. Do your claws open portals, or...?"
+ID_DIALOG_SSE_MFM_05_END_3,"Sorry, they just slice stuff. But if you need help hopping dimensions, my old man, Logan, can help."
+ID_DIALOG_SSE_MFM_05_END_4,"Wait, like... LOGAN Logan?! Your dad is Wolverine?"
+ID_DIALOG_SSE_MFM_05_END_5,"No, the Adamantium claws and healing factor are a coincidence. Yeesh, is everyone from your dimension this dense?"
+ID_DIALOG_SSE_MFM_05_END_6,"Hear that, May? That's called SARCASM and it's just for jerks like this guy with the bad haircut."
+ID_DIALOG_SSE_MFM_06_INTRO_0,"Last I heard, the old man was dug in outside Phoenix. So that's where we gotta go. There's only one problem..."
+ID_DIALOG_SSE_MFM_06_INTRO_1,No childseat in the Spider-Buggy?
+ID_DIALOG_SSE_MFM_06_INTRO_2,...Our path goes right through Lizard territory.
+ID_DIALOG_SSE_MFM_06_INTRO_3,"Great, I've beaten the Lizard plenty of times! His tail pops right off - it's gross, you'll love it."
+ID_DIALOG_SSE_MFM_06_INTRO_4,"Great, then it's just his army of Hulks that we'll have to deal with."
+ID_DIALOG_SSE_MFM_06_INTRO_5,RAAAWWR?
+ID_DIALOG_SSE_MFM_06_INTRO_6,That's right. YOU get to smash THEM.
+ID_DIALOG_SSE_MFM_06_INTRO_7,"Wait, how do YOU understand him?!"
+ID_DIALOG_SSE_MFM_06_END_0,HOURS LATER...
+ID_DIALOG_SSE_MFM_06_END_1,"Well, I certainly hope Connors can regrow from this. How in the hell have they been beating so many of the Sinisters?!"
+ID_DIALOG_SSE_MFM_06_END_2,"Your mistake, Osborn, was to let them come to us. As always, I shall be the hunter... And a hunter needs a pack."
+ID_DIALOG_SSE_MFM_06_END_3,"I hate to admit it, Sergei... But you're right. Let's get the old gang back together."
+ID_DIALOG_SSE_MFM_06_END_4,Let's see if they're ready for a whole lot more than SIX! HAHAHAHAHA!
+ID_DIALOG_SSE_MFM_07_INTRO_0,"Ah, the famous West Texas Fog! Thick as barbecue sauce and a local sherriff's middle section!"
+ID_DIALOG_SSE_MFM_07_INTRO_1,"I know I'm not from here, but there's no way that's a thing, right?"
+ID_DIALOG_SSE_MFM_07_INTRO_2,"Yeah, this isn't normal. The fact that the fog is green should have been your first clue. Somethin's up."
+ID_DIALOG_SSE_MFM_07_INTRO_3,"Aw, man, I should have known. If it's green fog, it's got to be..."
+ID_DIALOG_SSE_MFM_07_INTRO_4,"MUH-HAHAHA! Welcome to my wasteland of illusions, fools!"
+ID_DIALOG_SSE_MFM_07_INTRO_5,I hate this guy.
+ID_DIALOG_SSE_MFM_07_START_0,"Well, I wasn't able to get the jump on you like I did your father all those years ago! Too bad."
+ID_DIALOG_SSE_MFM_07_START_1,"Yeah, he's the old model. Let me show you what the new one can do."
+ID_DIALOG_SSE_MFM_07_END_0,The twerp ran away! What a coward.
+ID_DIALOG_SSE_MFM_07_END_1,Yeah... He does that. It's annoying.
+ID_DIALOG_SSE_MFM_07_END_2,ROOWR!
+ID_DIALOG_SSE_MFM_07_END_3,"That's true, the fog DID clear up!"
+ID_DIALOG_SSE_MFM_08_INTRO_0,You know what? We're making record time. I apologize for doubting your driving skills.
+ID_DIALOG_SSE_MFM_08_INTRO_1,NNGHF.
+ID_DIALOG_SSE_MFM_08_INTRO_2,The bear... Is DRIVING! I need to get a picture!!!
+ID_DIALOG_SSE_MFM_08_INTRO_3,RAURGH.
+ID_DIALOG_SSE_MFM_08_INTRO_4,"Uh, is anyone else's Spider-Sense is going CRAZY right now?!"
+ID_DIALOG_SSE_MFM_08_INTRO_5,I don't have one but I can see that buggy-tracking rocket headed our way! Everyone GET DOWN!
+ID_DIALOG_SSE_MFM_08_START_0,Sound off! Is everyone okay?!
+ID_DIALOG_SSE_MFM_08_START_1,"We're unhurt, but Peni is trapped under wreckage! It will take time to get her out."
+ID_DIALOG_SSE_MFM_08_START_2,Enemies incoming. Webheads focus on getting the kid out. We've got this.
+ID_DIALOG_SSE_MFM_08_END_0,How's the kid?
+ID_DIALOG_SSE_MFM_08_END_1,"They got her out. Any more incoming, boss?"
+ID_DIALOG_SSE_MFM_08_END_2,Oh yeah. I can smell them coming. And I can't see a way out.
+ID_DIALOG_SSE_MFM_08_END_3,"True. Unlike the fool in the fishbowl, you will not find MY so easy to escape."
+ID_DIALOG_SSE_MFM_08_END_4,"Welcome, weaklings, to our Sinister Surprise!\nAH-HAHAHA!"
+ID_DIALOG_SSE_MFM_09_INTRO_0,"Aw, Gobby! Even across dimensions, we found each other. I'm glad my wife isn't here, she'd be jealous!"
+ID_DIALOG_SSE_MFM_09_INTRO_1,"I've always hated your jokes, Parker. But I have to admit, I'm excited to hear you choke on them one! Last! Time!"
+ID_DIALOG_SSE_MFM_09_INTRO_2,"Sorry, Osborn. The spiders are getting safe passage, whether you like it or not."
+ID_DIALOG_SSE_MFM_09_INTRO_3,"The son of Wolverine, caring for strays? What happened, Daken? Did you get soft?"
+ID_DIALOG_SSE_MFM_09_INTRO_4,GRRRRGNK!
+ID_DIALOG_SSE_MFM_09_INTRO_5,"It's like the bear said - THEY'RE CLIENTS! You're goin' down, Greenie!"
+ID_DIALOG_SSE_MFM_09_START_0,"I have many beasts above my mantle... But you shall be my finest prize. A rug, perhaps?"
+ID_DIALOG_SSE_MFM_09_START_1,ROOOAWR!
+ID_DIALOG_SSE_MFM_09_START_2,"He says, ""BACK ATCHA PAL!"""
+ID_DIALOG_SSE_MFM_09_END_0,"Satisfying as it is to slice and dice your goons, Osborn, we've got a job to finish. Get out of our way."
+ID_DIALOG_SSE_MFM_09_END_1,RAWR!!!
+ID_DIALOG_SSE_MFM_09_END_2,You idiots! I've spent years in a world where I SQUASHED every spider! I won!
+ID_DIALOG_SSE_MFM_09_END_3,SNIKT!
+ID_DIALOG_SSE_MFM_09_END_4,ARGH!!!
+ID_DIALOG_SSE_MFM_09_END_5,"Pipe down, Osborn. Kids, today. Too damned noisy."
+ID_DIALOG_SSE_MFM_09_END_6,Now... All of you punks that came with Osborn... Get off my lawn.
+ID_DIALOG_SSE_MFM_09_END_7,"Hey, old man. We could use your help."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.

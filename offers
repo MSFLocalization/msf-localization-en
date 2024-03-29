@@ -6963,7 +6963,18 @@ ID_OF_DE_ANNIV24_GOLDDPCORBW5,A bounty of <color=#ffda21>Gold</color> and Dark P
 ID_OF_DE_ANNIV24_DARKPROMOE7W5,"Embrace all opportunities you can to improve yourself, starting with this anniversary offer of <color=#ffda21>Elite 7 Credits</color> and more! <color=#0071a6>Greater than a {var1}x value</color>!"
 ID_OF_DE_ANNIV24_DDUNIQUEW5,Seize this offer for more <color=#fff568>Teal Uniques</color>! <color=#0071a6>Greater than a {var1}x value</color>!
 ID_OF_DE_ANNIV24_BAMFUNIQUEW5,Gear up <color=#fff568>Nightcrawler</color> with this special anniversary offer! BAMF! <color=#0071a6>A {var1}x value</color>!
+ID_OF_NA_NATUREWARS_STARTER,Nature Wars: Starter
+ID_OF_NA_NATUREWARS_CATCHUP,Nature Wars: Catch-up
+ID_OF_NA_NATUREWARS_DAILY_ORB,Nature Wars:Daily Teamwork
+ID_OF_NA_NATUREWARS_DAILY_WAR,Nature Wars: Military Upgrades
+ID_OF_NA_NATUREWARS_FREECLAIM,Nature Wars: Free Claim
+ID_OF_NA_NATUREWARS_INTERSTITIAL,Nature Wars: Web Special
+ID_OF_DE_NATUREWARS_STARTER,Get ahead in the <color=#fff568>Nature Wars</color> Milestone and propel your Alliance to <color=#fff568>Crimson Gear</color> and <color=#fff568>Teal Gear</color>!
+ID_OF_DE_NATUREWARS_CATCHUP,Finish strong in the <color=#fff568>Nature Wars</color> Milestone and propel your Alliance to <color=#fff568>Crimson Gear</color> and <color=#fff568>Teal Gear</color>!
 ID_OF_DE_NATUREWARS_DAILY_ORB,"Collect these event orbs for <color=#fff568>T2 Level 5 Ion Orb Fragments, Gold, Training Materials and Teal Origin Gear</color>, as well as <color=#fff568>Nature Wars</color> Milestone progress!"
+ID_OF_DE_NATUREWARS_DAILY_WAR,Take advantage of this special deal to get the edge in Alliance War and progress in the <color=#f12603>Nature Wars</color> milestone!
+ID_OF_DE_NATUREWARS_FREECLAIM,Come back daily for more <color=#fff568>Nature Wars</color> progress!
+ID_OF_DE_NATUREWARS_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Nature Wars</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_MONTHLYSPECIAL_COSMICGR,April Special: Interstellar Reaper
 ID_OF_NA_MONTHLYSPECIAL_GWENOMVOIDKNIGHT,April Special: Symbiote Family
 ID_OF_DE_MONTHLYSPECIAL_COSMICGR,"Power up <color=#fff568>Cosmic Ghost Rider</color> with this web-only offer! <color=#fff568>Cosmic Ghost Rider</color> removes Battlefield Effects, be it friend or foe!"
@@ -7067,3 +7078,15 @@ ID_OF_DE_SLICKOUTBREAK_TEAM_HELA,Save on <color=#fff568>Hela shards</color> with
 ID_OF_DE_SLICKOUTBREAK_TEAM_UNDYING,Save on <color=#fff568>Hela and Iron Man (Zombie) shards</color> with this bundle. Earn progress in the <color=#fff568>Slick Outbreak Milestone</color> when you use Undying characters in Alliance War
 ID_OF_DE_SLICKOUTBREAKDAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Slick Outbreak</color> progress!
 ID_OF_DE_SLICKOUTBREAK_DAILY_INTERSTITIAL,Get boosted <color=#fff568>Slick Outbreak</color> progress with this daily trove of resources!
+ID_OF_NA_ATTACKOFTHEPLANTS_STARTER,Attack of the Plants: Starter Bundle
+ID_OF_NA_ATTACKOFTHEPLANTS_CATCHUP,Attack of the Plants: Catch-Up Bundle
+ID_OF_NA_ATTACKOFTHEPLANTS_DAILY_ENERGY,Attack of the Plants: Daily Energy
+ID_OF_NA_ATTACKOFTHEPLANTS_EVENTORB,Attack of the Plants: Daily Allied Supply
+ID_OF_NA_ATTACKOFTHEPLANTS_INTERSTITIAL,Attack of the Plants: Supply Special
+ID_OF_NA_ATTACKOFTHEPLANTS_FREE,Attack of the Plants: Free Claim
+ID_OF_DE_ATTACKOFTHEPLANTS_STARTER,Help your alliance start off strong in the <color=#fff568>Attack of the Plants</color> Milestone and earn tremendous golden rewards!
+ID_OF_DE_ATTACKOFTHEPLANTS_CATCHUP,Push your alliance to the finish line with this <color=#fff568>Attack of the Plants</color> Milestone bundle for tremendous golden rewards!
+ID_OF_DE_ATTACKOFTHEPLANTS_DAILY_ENERGY,Stock up on Iso-8 Campaign Energy to push your Alliance forward in the <color=#fff568>Attack of the Plants</color> milestone!
+ID_OF_DE_ATTACKOFTHEPLANTS_EVENTORB,Get Allied Supply IV orbs for <color=#fff568>Attack of the Plants</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs featuring guaranteed T2 L5 Ions!
+ID_OF_DE_ATTACKOFTHEPLANTS_INTERSTITIAL,Stock up on Allied Supply IV Orbs for extra progress in the <color=#fff568>Attack of the Plants Milestone</color>!
+ID_OF_DE_ATTACKOFTHEPLANTS_FREE,Come back daily for more <color=#fff568>Attack of the Plants</color> progress!
