@@ -1246,6 +1246,7 @@ ID_OPTIONS_AUTOPLAY_IDLE_RAIDS,Combat inactivity triggers Autoplay in Raids afte
 ID_OPTIONS_AUTOPLAY_BASIC_ONLY_IDLE_RAIDS,"When triggering Autoplay from inactivity (in Raids), use Basic-Only Autoplay"
 ID_OPTIONS_AUTOPLAY_IDLE_BATTLEGROUNDS,Combat inactivity triggers Autoplay in Arena after {idleThresholdSeconds} seconds
 ID_OPTIONS_AUTOPLAY_IDLE_AVA,Combat inactivity triggers Autoplay in War after {idleThresholdSeconds} seconds
+ID_OPTIONS_MODOK_MODE,"""Suspicious"" Toggle"
 ID_CAMPAIGN_FTR_REWARDS_INCLUDED,Includes First Time Rewards from Lower Difficulties
 ID_SELECT_GT_MESSAGE,EACH CHARACTER CAN BE USED ONLY <color=#fff568>ONCE</color> TO ATTACK
 ID_UI_COPY,Copy
@@ -1408,6 +1409,7 @@ ID_FRAME_GREED_UNLOCK,Via free claim from costume unlock
 ID_FRAME_2024ANNIVERSARY_NAME,Sixth Anniversary
 ID_FRAME_2024ANNIVERSARY_UNLOCK,Via the Sixth Anniversary event
 ID_FRAME_APRIL2024_NAME,Gamma Growth
+ID_FRAME_GAMMAGROWTH_NAME,Gamma Growth
 ID_FRAME_APRIL2024_UNLOCK,Via the Nature/Nurture Event
 ID_FRAME_XMEN97_NAME,Gifted Student
 ID_EVENT_SURVIVAL_EVENT,Survival

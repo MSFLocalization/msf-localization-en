@@ -2900,12 +2900,19 @@ ID_MOTD_DE_ATOMICFALLOUT_ANNOUNCE,Entering the fallout shelter
 ID_MOTD_NA_ATOMICFALLOUT_ENDING,Ending Soon: Atomic Fallout
 ID_MOTD_DE_ATOMICFALLOUT_ENDING,Don't miss out on Skill Gear!
 ID_MOTD_NA_HUNKERDOWN_ANNOUNCE,Web Milestone: Hunker Down
-ID_MOTD_NA_BATTLEPASS_SEASON18_ANNOUNCE,LIVE: Season 18 of Battle Pass
-ID_MOTD_DE_BATTLEPASS_SEASON18_ANNOUNCE,Complete Objectives to earn Juggernaut (Zombie) shards and more!
+ID_MOTD_NA_THELEADER_TEASER,Soon: The Leader
+ID_MOTD_DE_THELEADER_TEASER,Dominate the world with The Leader!
+ID_MOTD_NA_THELEADER_ANNOUNCE,The Leader is here!
+ID_MOTD_DE_THELEADER_ANNOUNCE,Dominate the world with The Leader!
+ID_MOTD_DE_THELEADER_ANNOUNCE2,Open the Gammbitious Orb to earn shards for this Cabal Mastermind!
+ID_MOTD_NA_MODOK,AVERT YOUR EYES
+ID_MOTD_DE_MODOK,Ignore any new advanced options you may see...
 ID_MOTD_NA_NATUREWARS_ANNOUNCE,LIVE: Nature Wars
 ID_MOTD_DE_NATUREWARS_ANNOUNCE,Earn Crimson and Teal Gear!
 ID_MOTD_NA_NATUREWARS_ENDING,Ending Soon: Nature Wars
 ID_MOTD_DE_NATUREWARS_ENDING,Earn Crimson and Teal Gear!
+ID_MOTD_NA_BATTLEPASS_SEASON18_ANNOUNCE,LIVE: Season 18 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON18_ANNOUNCE,Complete Objectives to earn Juggernaut (Zombie) shards and more!
 ID_MOTD_NA_PETERBPARKER_TEASER,Soon: Peter B. Parker
 ID_MOTD_DE_PETERBPARKER_TEASER,Your Friendly Neighborhood Father Swings In!
 ID_MOTD_NA_PETERBPARKER_ANNOUNCE,Peter B. Parker is here!
@@ -2919,8 +2926,3 @@ ID_MOTD_NA_SLICKOUTBREAK_ENDING,Ending Soon: Slick Outbreak
 ID_MOTD_DE_SLICKOUTBREAK_CORE,Earn Mutant Gear and Juggernaut (Zombie) Diamonds!
 ID_MOTD_NA_ATTACKOFTHEPLANTS_ANNOUNCE,LIVE: Attack of the Plants
 ID_MOTD_DE_ATTACKOFTHEPLANTS_ANNOUNCE,Spend Iso-8 Energy for glorious rewards and earn Allied Supply IV Orb Fragments!
-ID_MOTD_NA_THELEADER_TEASER,Soon: The Leader
-ID_MOTD_DE_THELEADER_TEASER,Dominate the world with The Leader!
-ID_MOTD_NA_THELEADER_ANNOUNCE,The Leader is here!
-ID_MOTD_DE_THELEADER_ANNOUNCE,Dominate the world with The Leader!
-ID_MOTD_DE_THELEADER_ANNOUNCE2,Open the Gammbitious Orb to earn shards for this Cabal Mastermind!
