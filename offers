@@ -6797,6 +6797,20 @@ ID_OF_DE_ETERNALVENGEANCE_GENERIC,"Claim this mega deal to get ahead in the <col
 ID_OF_DE_ETERNALVENGEANCE_DAILY_ENERGY,Get your daily Incursion Energy fix to progress in the <color=#fff568>Galactic Ghost</color> Web Milestone!
 ID_OF_DE_ETERNALVENGEANCE_FREECLAIM,Come back daily for more <color=#fff568>Eternal Vengeance</color> progress!
 ID_OF_DE_ETERNALVENGEANCE_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Eternal Vengeance</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_IRONPATRIOT_FCO_OFFER,Dark Avenger
+ID_OF_DE_IRONPATRIOT_FCO_OFFER,"Each <color=#fff568>Dark Leader Orb</color> contains <color=#fff568>up to 180 Iron Patriot</color> shards. <color=#fff568>Iron Patriot</color> applies <color=#800080>Vulnerable</color> to all enemies on spawn, ensuring a strong start towards victory!"
+ID_OF_DE_IRONPATRIOT_OFFER_VAR_SU,"Unlock Iron Patriot and get the Iron Patriot ""Classic"" Costume via FREE in-game claim! Recruit a <color=#fff568>{var1}-star Iron Patriot</color> and unlock one-time only release offers on your next visit! <color=#fff568>Iron Patriot</color> applies <color=#800080>Vulnerable</color> to all enemies on spawn, ensuring a strong start towards victory!"
+ID_OF_DE_IRONPATRIOT_OFFER_SHARD,"Power up <color=#fff568>Iron Patriot</color> with this shard offer! <color=#fff568>Iron Patriot</color> applies <color=#800080>Vulnerable</color> to all enemies on spawn, ensuring a strong start towards victory!"
+ID_OF_DE_IRONPATRIOT_UNLOCK_OFFER,"Unlock Iron Patriot and get the Iron Patriot ""Classic"" Costume via FREE in-game claim! <color=#fff568>Iron Patriot</color> applies <color=#800080>Vulnerable</color> to all enemies on spawn, ensuring a strong start towards victory!"
+ID_OF_STOREBAR_IRONPATRIOT,Dual Offer: Iron Patriot
+ID_OF_NA_DUAL_IRONPATRIOT,Dual Offer: Iron Patriot
+ID_OF_DE_DUAL_IRONPATRIOT,Choose your path to power up this <color=#fff568>Cabal</color> member!
+ID_OF_DE_DUAL_UNLOCK_IRONPATRIOT,Unlock this <color=#fff568>Cabal</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_IRONPATRIOT_FCO_OFFER_BASIC,Iron Patriot Release Offer
+ID_OF_NA_IRONPATRIOT_WEB_EXTRA_FCO_OFFER,Iron Patriot Unlock Offer
+ID_OF_DE_IRONPATRIOT_WEB_EXTRA_FCO_OFFER,"Unlock Iron Patriot and get the Iron Patriot ""Classic"" Costume via FREE in-game claim! The Dark Avenger, <color=#fff568>Iron Patriot</color>, has arrived!"
+ID_OF_NA_IRONPATRIOT_WEB_SPECIAL_OFFER,Dark Avenger Special
+ID_OF_DE_IRONPATRIOT_WEB_SPECIAL_OFFER,"<color=#fff568>Web Special!</color> Unlock Iron Patriot and get the Iron Patriot ""Classic"" Costume via FREE in-game claim! <color=#fff568>Iron Patriot</color> applies <color=#800080>Vulnerable</color> to all enemies on spawn, ensuring a strong start towards victory!"
 ID_OF_NA_BFYB_HONOR_FREE,Event Issue Resolved
 ID_OF_DE_BFYB_HONOR_FREE,"To the players in Nexus Earth who missed out on potential advantages, thank you for sticking with us through thick and thin. Here is a gift to show our gratitude for your patience and passion."
 ID_OF_NA_NATURENURTURE_STARTER_MEGA,Nature's Treasure
@@ -7045,11 +7059,19 @@ ID_OF_DE_MONTHLYSPECIAL_COSMICGR,"Power up <color=#fff568>Cosmic Ghost Rider</co
 ID_OF_DE_MONTHLYSPECIAL_GWENOMVOIDKNIGHT,The Symbiote Hive-Mind have detected your thirst for power. Conquer the Bio Raids with this special Web-Exclusive offer!
 ID_OF_NA_NU_PURCH_CAL_CYCLOPS,Starter Cyclops Calendar
 ID_OF_DE_NU_PURCH_CAL_CYCLOPS,Limited Chance offer to get 45 shards of Cyclops and more in this special 7-day calendar!
+ID_OF_NA_PETERBPARKER_FCO_OFFER,Friendly Neighborhood Father
 ID_OF_DE_PETERBPARKER_FCO_OFFER,"Each <color=#fff568>Family Affair Orb</color> contains <color=#fff568>up to 180 Peter B. Parker</color> shards. THWIP! <color=#fff568>Peter B. Parker</color> swings in to support Spider-Society and Spider-Verse Heroes in Raids! Also, baby on board… Get ready for some Daddy Daughter time!"
 ID_OF_DE_PETERBPARKER_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Peter B. Parker</color> and unlock one-time only release offers on your next visit! THWIP! <color=#fff568>Peter B. Parker</color> swings in to support Spider-Society and Spider-Verse Heroes in Raids! Also, baby on board… Get ready for some Daddy Daughter time!"
 ID_OF_DE_PETERBPARKER_OFFER_SHARD,"Power up <color=#fff568>Peter B. Parker</color> with this shard offer! THWIP! <color=#fff568>Peter B. Parker</color> swings in to support Spider-Society and Spider-Verse Heroes in Raids! Also, baby on board… Get ready for some Daddy Daughter time!"
 ID_OF_DE_PETERB.PARKER_UNLOCK_OFFER,"Unlock <color=#fff568>Peter B. Parker</color> now! THWIP! <color=#fff568>Peter B. Parker</color> swings in to support Spider-Society and Spider-Verse Heroes in Raids! Also, baby on board… Get ready for some Daddy Daughter time!"
+ID_OF_STOREBAR_PETERBPARKER,Dual Offer: Peter B. Parker
+ID_OF_NA_DUAL_PETERBPARKER,Dual Offer: Peter B. Parker
+ID_OF_DE_DUAL_PETERBPARKER,Choose your path to power up this <color=#fff568>Spider Society</color> member!
+ID_OF_DE_DUAL_UNLOCK_PETERBPARKER,Unlock this <color=#fff568>Spider Society</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_PETERB.PARKER_FCO_OFFER_BASIC,Peter B. Parker Release Offer
+ID_OF_NA_PETERBPARKER_WEB_EXTRA_FCO_OFFER,Peter B. Parker Unlock Offer
 ID_OF_DE_PETERBPARKER_WEB_EXTRA_FCO_OFFER,"The Friendly Neighborhood Father, <color=#fff568>Peter B. Parker</color>, has arrived!"
+ID_OF_NA_PETERBPARKER_WEB_SPECIAL_OFFER,Friendly Neighborhood Father Special
 ID_OF_DE_PETERBPARKER_WEB_SPECIAL_OFFER,"<color=#fff568>Web Special!</color>THWIP! <color=#fff568>Peter B. Parker</color> swings in to support Spider-Society and Spider-Verse Heroes in Raids! Also, baby on board… Get ready for some Daddy Daughter time!"
 ID_OF_NA_APRILFOOLS24_GOLD,Genius's Gold
 ID_OF_NA_APRILFOOLS24_TRAININGORBS,Training Intensifies
@@ -7171,3 +7193,137 @@ ID_OF_DE_ZOMBIEJUGG24_ZJUGG_DPC,Progress your <color=#ffda21>Juggernaut (Zombie)
 ID_OF_DE_ZOMBIEJUGG24_ZJUGG_ABM,Who needs a soul to increase their skills? Improve your <color=#ffda21>Juggernaut (Zombie)</color> today with this limited time offer.
 ID_OF_DE_ZOMBIEJUGG24_ZJUGG_TRAIN_GOLD,"Feast on your enemies with <color=#ffda21>Juggernaut (Zombie), L4 Training Modules, and more</color> using this limited time offer!"
 ID_OF_DE_ZOMBIEJUGG24_ZIM_ABM,"Brains are an important part of a zombie's diet, so don't ignore this <color=#ffda21>Iron Man(Zombie) & T4 Ability Material</color> limited time offer."
+ID_OF_NA_EARTHLINGSNEEDED_MEGASTARTER,Earthlings Needed: Mega Starter
+ID_OF_NA_EARTHLINGSNEEDED_STARTER,Earthlings Needed: Starter
+ID_OF_NA_EARTHLINGSNEEDED_MEGACATCHUP,Earthlings Needed: Mega Catch-up
+ID_OF_NA_EARTHLINGSNEEDED_CATCHUP,Earthlings Needed: Catch-up
+ID_OF_NA_EARTHLINGSNEEDED_SPECIAL,Earthlings Needed: Web Special
+ID_OF_NA_EARTHLINGSNEEDED_DAILY_ORB,Earthlings Needed: Symbiote Surfer Orbs
+ID_OF_NA_EARTHLINGSNEEDED_DAILY_ENERGY,Earthlings Needed: Daily Energy
+ID_OF_NA_EARTHLINGSNEEDED_DAILY_BLITZ,Earthlings Needed: Daily Blitz
+ID_OF_NA_EARTHLINGSNEEDED_DAILY_INTERSTITIAL,Earthlings Needed: Symbiote Special
+ID_OF_NA_EARTHLINGSNEEDED_FREE,Earthlings Needed: Free Claim
+ID_OF_DE_EARTHLINGSNEEDED_MEGASTARTER,Get ahead in the <color=#fff568>Earthlings Needed Milestone</color> and blast through for Peter B. Parker shards and Crimson Gear!
+ID_OF_DE_EARTHLINGSNEEDED_STARTER,Get a head start in the <color=#fff568>Earthlings Needed Milestone</color> and speed through for Peter B. Parker shards and Crimson Gear!
+ID_OF_DE_EARTHLINGSNEEDED_MEGACATCHUP,Finish strong in the <color=#fff568>Earthlings Needed Milestone</color> and get your hands on Crimson Gear and Peter B. Parker shards!
+ID_OF_DE_EARTHLINGSNEEDED_CATCHUP,Complete the <color=#fff568>Earthlings Needed Milestone</color> for Crimson Gear and Peter B. Parker shards!
+ID_OF_DE_EARTHLINGSNEEDED_SPECIAL,Help the planet with this <color=#fff568>Earthlings Needed</color> special web bundle!
+ID_OF_DE_EARTHLINGSNEEDED_DAILY_ORB,Get bonus Planetary Orbs for Peter B. Parker shards and <color=#fff568>Earthlings Needed Milestone</color> progress!
+ID_OF_DE_EARTHLINGSNEEDED_DAILY_ENERGY,Get a daily dose of Campaign Energy to complete the <color=#fff568>Earthlings Needed Milestone</color>!
+ID_OF_DE_EARTHLINGSNEEDED_DAILY_BLITZ,Blitz through the <color=#fff568>Revenge of the Blitz Web Milestone</color> for bonus Planetary orbs and <color=#fff568>Earthlings Needed Milestone</color> progress!
+ID_OF_DE_EARTHLINGSNEEDED_DAILY_INTERSTITIAL,Stock up on Planetary Orbs and Event Points for extra progress in the <color=#fff568>Earthlings Needed Milestone</color>!
+ID_OF_DE_EARTHLINGSNEEDED_FREE,Come back daily for more <color=#fff568>Earthlings Needed</color> progress!
+ID_OF_NA_TAXDAY24_BIGTRAINING,Tax Day: Training Drill
+ID_OF_NA_TAXDAY24_HIGHGOLD,Tax Day: Roster Essentials
+ID_OF_NA_TAXDAY24_VKGWENOM,Tax Day: Symbiote Savings
+ID_OF_NA_TAXDAY24_PESTILENCE,Tax Day: Wealth and Witchcraft
+ID_OF_NA_TAXDAY24_ZIMGOLDTRAIN,Tax Day: Zombie Care Package
+ID_OF_NA_TAXDAY24_ISOORBS,Tax Day: Crystalline Cache
+ID_OF_NA_TAXDAY24_ORBSTRAVAGANZA,Tax Day: Orb Bonanza
+ID_OF_NA_TAXDAY24_NOVATRAIN,Tax Day: Rank up Revolution
+ID_OF_NA_TAXDAY24_GOLDDAILY,Tax Day: Daily Gold
+ID_OF_NA_TAXDAY24_ZIMDAILY,Tax Day: Zombie Gear
+ID_OF_NA_TAXDAY24_SUB80ABM,Spring of Ability
+ID_OF_NA_TAXDAY24_SUB80GEAR,Spring Suit of Armor
+ID_OF_NA_TAXDAY24_REDGOBLINCOMBO,Tax Day: Goblin's Garrison
+ID_OF_NA_TAXDAY24_DARKCRED,Tax Day: Dark Promotion
+ID_OF_NA_TAXDAY24_DAWNCOMBO,Tax Day: Spring Special
+ID_OF_NA_TAXDAY24_FAMINE,Tax Day: Unlimited Upgrade
+ID_OF_NA_TAXDAY24_GOLDTRAINUNIQUE,Tax Day: Spring Celebration
+ID_OF_NA_TAXDAY24_ALLCATS,Tax Day: Catalyst Craze
+ID_OF_NA_TAXDAY24_CGRBUNDLE,Tax Day: Out of this World
+ID_OF_NA_TAXDAY24_TEALGEAR,Tax Day: Terrific Teals
+ID_OF_NA_TAXDAY24_TRAINGOLD,Tax Day: Successful Training
+ID_OF_NA_TAXDAY24_GOLDENDIAMOND,Tax Day: Spring Bounty
+ID_OF_NA_TAXDAY24_SUPSIXTEAM,Tax Day: Superior Spring
+ID_OF_NA_TAXDAY24_WAR,Tax Day: Radiation Warriors
+ID_OF_NA_TAXDAY24_LEADERWAR,Tax Day: Lead the Charge
+ID_OF_NA_TAXDAY24_GOLDABM,Tax Day: Extraordinary Talent
+ID_OF_NA_TAXDAY24_ZIMGEARORB,Tax Day: Zombified Orbs
+ID_OF_NA_TAXDAY24_VKCOMBO,Tax Day: Surfing Symbiote
+ID_OF_NA_TAXDAY24_ZIMHELA,Tax Day: Undying Upgrade
+ID_OF_NA_TAXDAY24_E7TRAIN,Tax Day: Promotional Prep
+ID_OF_NA_TAXDAY24_GOLDIRONPAT,Tax Day: Osborn's Armor
+ID_OF_NA_TAXDAY24_UNIQUES,Tax Day: Armory of Honor
+ID_OF_NA_TAXDAY24_OOTCOMBO,Tax Day: Shoot for the Stars
+ID_OF_NA_TAXDAY24_DEATH,Tax Day: Pushing up Daisies
+ID_OF_NA_TAXDAY24_BKCOMBO,Tax Day: Dark Protector
+ID_OF_NA_TAXDAY24_TRAININGDARK,Tax Day: Continued Success
+ID_OF_NA_TAXDAY24_LEGGOORB,Tax Day: Legendary Orbs
+ID_OF_NA_TAXDAY24_GOLDGEAR,Tax Day: Golden Cache
+ID_OF_NA_TAXDAY24_ZIMDPC,Tax Day: Promote the Undead
+ID_OF_NA_TAXDAY24_BAMFCOMBO,Tax Day: BAMF is Back
+ID_OF_DE_TAXDAY24_BIGTRAINING,Build your roster towards perfection with <color=#ffda21>L4 Training Modules and more</color>. <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_TAXDAY24_HIGHGOLD,Build up a strong foundation towards longevity with this essential <color=#ffda21>Gold and Training Modules</color> combo offer. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_TAXDAY24_VKGWENOM,"Satiate your endless hunger with this bundle of Void Knight, Gwenpool, and Elite 7 Credits! <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_TAXDAY24_PESTILENCE,Take advantage of this special offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_TAXDAY24_ZIMGOLDTRAIN,Take a bite out of this care package for an influx of <color=#ffda21>Gold</color>! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_TAXDAY24_ISOORBS,Advance your roster's ISO-8 status with this special offer of <color=#ffda21>Ions and Crystals</color>. <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_TAXDAY24_ORBSTRAVAGANZA,Don't miss out on a glorious amount of orbs to power up your roster and take on new challenges! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_TAXDAY24_NOVATRAIN,Make the update to your roster that you've always wanted with this <color=#fff568>Training Module</color> combo! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_TAXDAY24_GOLDDAILY,A bounty of <color=#ffda21>Gold</color> power up your roster! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_TAXDAY24_ZIMDAILY,Iron Man (Zombie) is looking for more gear! Point him in the right direction. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_TAXDAY24_SUB80ABM,Don't miss out on developing your top abilities!
+ID_OF_DE_TAXDAY24_SUB80GEAR,Your roster will thank your for giving a special gift of armor!
+ID_OF_DE_TAXDAY24_REDGOBLINCOMBO,You've stumbled onto a bounty of <color=#ffda21>Gear and Dark Promotion Credits</color> to power up your roster! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_TAXDAY24_DARKCRED,"New chances to improve yourself surround you, like this special offer of <color=#ffda21>Dark Promotion Credits</color>! <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_TAXDAY24_DAWNCOMBO,Usher is Spring with this special offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_TAXDAY24_FAMINE,Feed your roster more Dark Promotion Credits for success! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_TAXDAY24_GOLDTRAINUNIQUE,Build up a strong foundation towards longevity with this essential <color=#ffda21>Training & Gold</color> combo offer. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_TAXDAY24_ALLCATS,Pick up this high value drop of Augmented Catalysts to craft powerful gear! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_TAXDAY24_CGRBUNDLE,Mephisto has been waiting for his Cosmic ally to help fulfil his contract! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_TAXDAY24_TEALGEAR,Seize this offer for more <color=#fff568>Teal Gear</color>! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_TAXDAY24_TRAINGOLD,Train up your roster with this special offer of <color=#ffda21>L4 Training Modules & Gold</color>. <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_TAXDAY24_GOLDENDIAMOND,Take advantage of this amazing spring special on <color=#ffda21>Diamond Orbs and Gold</color>! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_TAXDAY24_SUPSIXTEAM,The Superior Six are chomping at the bit to catch Spider-Man! Help them with this special offer! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_TAXDAY24_WAR,Exposure to the Radiation has made this offer stronger than ever! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_TAXDAY24_LEADERWAR,Train up your roster with this special big-brained offer. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_TAXDAY24_GOLDABM,Upgrade your top character's best abilities with this special deal on <color=#ffda21>T4 Ability Materials</color>! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_TAXDAY24_ZIMGEARORB,Take advantage of this offer of <color=#ffda21>Armory Orbs</color>! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_TAXDAY24_VKCOMBO,Help <color=#ffda21>Void Knight</color> wreak havoc on your enemies with this special deal! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_TAXDAY24_ZIMHELA,Satiate your endless hunger with this bundle! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_TAXDAY24_E7TRAIN,"Embrace all opportunities you can to improve yourself, starting with this offer of <color=#ffda21>Elite 7 Credits and Training Modules</color>! <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_TAXDAY24_GOLDIRONPAT,"He's not Tony Stark, but Norman Osborn's wealth is a marvel to behold. Take some for yourself! <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_TAXDAY24_UNIQUES,Seize this offer for more <color=#fff568>Teal Mini-Uniques</color>! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_TAXDAY24_OOTCOMBO,"This bundle is Out of Time, but you aren't! Grab this Spring special before it's too late! <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_TAXDAY24_DEATH,Don't let the zombies get to you! Power up your Death Seed with this bundle! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_TAXDAY24_BKCOMBO,None shall pass up on this offer for <color=#fff568>Black Knight</color> and more <color=#d10000>Dark Promotion Credits</color>! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_TAXDAY24_TRAININGDARK,Build your roster towards perfection with <color=#ffda21>L4 Training Modules and Dark Diamond Credits</color>. <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_TAXDAY24_LEGGOORB,Don't miss this special bundle of Legendary Orbs! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_TAXDAY24_GOLDGEAR,Take advantage of this offer of <color=#ffda21>Gold & Armory Orbs</color>! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_TAXDAY24_ZIMDPC,Pick up this high value drop of Dark Promotion Credits to power up your favorite characters! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_TAXDAY24_BAMFCOMBO,Power up <color=#fff568>Nightcrawler</color> with this special offer! BAMF! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_NA_SOCIETY24_TRAIN_GOLD_A18_A17_T2L5,Spider-Society Power Up
+ID_OF_NA_SOCIETY24_PETERBPARKER,Peter B. Parker's Protection
+ID_OF_NA_SOCIETY24_WEBSLINGER_TEAM,Web-Slinger's Party
+ID_OF_NA_SOCIETY24_TEAL_UNIQUES,Spider-Society's Web Tech
+ID_OF_NA_SOCIETY24_PETERBPARKER_A18_DPC,Peter B. Parker's Fatherhood
+ID_OF_NA_SOCIETY24_TEAL_MINIUNIQUES,Spider-Society Custom Equipment
+ID_OF_NA_SOCIETY24_GHOSTSPIDER_SPIDERMANNOIR,Spider-Society Membership
+ID_OF_NA_SOCIETY24_PETERBPARKER_PAVITR_A18_DPC,Spider-Society Super Pack
+ID_OF_NA_SOCIETY24_PAVITR,Spider-man Pavitr's Duty
+ID_OF_NA_SOCIETY24_PETERBPARKER_PAVITR_A18_GOLD_E7,Spider-Society Ultimate Pack
+ID_OF_NA_SOCIETY24_PAVITR_TRAIN_GPC,Spider-man Pavitr's Flair
+ID_OF_NA_SOCIETY24_PETERBPARKER_PAVITR_TRAIN,Spider-Society Preparation
+ID_OF_NA_SOCIETY24_PETERBPARKER_PAVITR_A18_TRAIN,Spider-Society Network
+ID_OF_NA_SOCIETY24_PETERBPARKER_PAVITR_GOLD,Spider-Society Connections
+ID_OF_NA_SOCIETY24_PENIPARKER,Peni Parker's Genius Intellect
+ID_OF_NA_SOCIETY24_FULL_TEAM_TRAIN,Spider-Society Team Pack
+ID_OF_NA_SOCIETY24_PENIPARKER_E7_GPC,Peni Parker's Psychic Bond
+ID_OF_DE_SOCIETY24_TRAIN_GOLD_A18_A17_T2L5,Power up your <color=#fff568>Spider-Society</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_SOCIETY24_PETERBPARKER,Rank up your <color=#fff568>Spider-Society</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_SOCIETY24_WEBSLINGER_TEAM,Advance your <color=#fff568>Web Slingers</color> towards their peak potential with this fantastic team shard offer today!
+ID_OF_DE_SOCIETY24_TEAL_UNIQUES,Gear up your <color=#fff568>Spider-Society</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_SOCIETY24_PETERBPARKER_A18_DPC,Power up your <color=#fff568>Spider-Society</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_SOCIETY24_TEAL_MINIUNIQUES,Gear up your <color=#fff568>Spider-Society</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_SOCIETY24_GHOSTSPIDER_SPIDERMANNOIR,"Empower the newly updated Spider-Society members, <color=#fff568>Captain America & Captain Carter</color>, with this special offer today!"
+ID_OF_DE_SOCIETY24_PETERBPARKER_PAVITR_A18_DPC,Take your <color=#fff568>Spider-Society</color> team to 6 Yellow Stars to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_SOCIETY24_PAVITR,Rank up your <color=#fff568>Spider-Society</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_SOCIETY24_PETERBPARKER_PAVITR_A18_GOLD_E7,Power up your <color=#fff568>Spider-Society</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_SOCIETY24_PAVITR_TRAIN_GPC,Power up your <color=#fff568>Spider-Society</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_SOCIETY24_PETERBPARKER_PAVITR_TRAIN,Power up your <color=#fff568>Spider-Society</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_SOCIETY24_PETERBPARKER_PAVITR_A18_TRAIN,Take your <color=#fff568>Spider-Society</color> team to 6 Yellow Stars to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_SOCIETY24_PETERBPARKER_PAVITR_GOLD,Power up your <color=#fff568>Spider-Society</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_SOCIETY24_PENIPARKER,Rank up your <color=#fff568>Spider-Society</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_SOCIETY24_FULL_TEAM_TRAIN,Improve your entire <color=#fff568>Spider-Society</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_DE_SOCIETY24_PENIPARKER_E7_GPC,Power up your <color=#fff568>Spider-Society</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!

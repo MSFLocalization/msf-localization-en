@@ -4271,6 +4271,7 @@ ID_QU_NA_HUNKERDOWN,Hunker Down
 ID_QU_SD_HUNKERDOWN,Spend Incursion and Enter Age of X Energy
 ID_QU_LD_HUNKERDOWN,Spend Incursion and Enter Age of X Energy to complete this recurring 2-day milestone that rewards Silver and Gold Promotion Credits and more!
 ID_QU_S1_HUNKERDOWN,Spend 1 Enter Age of X Energy
+ID_QU_NA_NATUREWARS,Nature Wars
 ID_QU_SD_NATUREWARS,"War, Earn Allied Supply IV Orb Fragments"
 ID_QU_LD_NATUREWARS,"Battle in War and Earn Allied Supply IV Orb Fragments.\n\nMilestone rewards include Crimson Gear, Crimson Raid Orbs, Teal Gear, Silver Promotion Credits and more!"
 ID_QU_S1_NATUREWARS,Collect 1 Allied Supply IV Orb Fragment
@@ -4284,3 +4285,21 @@ ID_QU_LD_SLICKOUTBREAK,"Slick Outbreak\nGain progress in this 8-day event by ear
 ID_QU_NA_ATTACKOFTHEPLANTS,Attack of the Plants
 ID_QU_SD_ATTACKOFTHEPLANTS,Spend Iso-8 Campaign Energy for glorious rewards!
 ID_QU_LD_ATTACKOFTHEPLANTS,"Attack of the Plants Milestone\nGain progress in this 5-day event by battling in Iso Campaign and earning Allied Supply IV Orb fragments from daily Free Claims and special offers. Earn incredible rewards including Mystic Origin gear, Gold and Armory Orbs. You'll also earn points towards the month-long Nature/Nurture milestone by collecting Gamma Rays."
+ID_QU_NA_SECONDSTRIKENU,Second S.T.R.I.K.E.
+ID_QU_SD_SECONDSTRIKENU,"Battle in Campaigns, Raids, & War"
+ID_QU_LD_SECONDSTRIKENU,"Spend Campaign Energy, battle in Raids, conquer Arena, and use Power Cores. Unlock and engage in new features: Alliance War (Alliance Level 20) and the Iso-8 Campaign (Player Level 55).\n\nRewards include new characters for your roster, and more!"
+ID_QU_S1_SECONDSTRIKENU,Spend 1 Campaign Energy
+ID_QU_S2_SECONDSTRIKENU,Use 1 Power Core
+ID_QU_S3_SECONDSTRIKENU,Battle in Raid
+ID_QU_S4_SECONDSTRIKENU,Battle in Arena
+ID_QU_S5_SECONDSTRIKENU,Battle in War (Alliance Level 20)
+ID_QU_S6_SECONDSTRIKENU,Battle in Arena (Player level 55)
+ID_QU_NA_EARTHLINGSNEEDED,Earthlings Needed
+ID_QU_SD_EARTHLINGSNEEDED,Earn Planetary Orbs and spend Campaign Energy
+ID_QU_LM_EARTHLINGSNEEDED,Earthlings Needed Milestone\nGain progress in this 7-day event by earning Planetary Orb fragments and spending Campaign Energy. Earn cosmic rewards including Peter B. Parker shards and Crimson Gear. You'll also earn points towards the month-long Nature/Nurture milestone by collecting Gamma Rays and the Flower Patch.\n\nPlanetary Orbs\nPower up your Void Knight with shards from the limited time Symbiote Surfer Orb. You can find them in:\n- Daily Revenge of the Blitz Web Milestone\n- Daily log-in calendar\n- Daily Free Claims on the web\n- Limited Iso-8 Hard Campaign Nodes for 48 hours beginning Apr 17th at 2pm PST\n- Blitz Battles for 48 hours beginning Apr 19th at 2pm PST\n\nRevenge of the Blitz Web Milestone\nEarn Blitz Credits and be rewarded with even more Planetary Orbs and additional progress in the Earthlings Needed Milestone.
+ID_QU_S1_EARTHLINGSNEEDED,Spend 1 Campaign Energy
+ID_QU_S2_EARTHLINGSNEEDED,Earn 1 Planetary Orb Fragment
+ID_QU_NA_REVENGEOFTHEBLITZ,Revenge of the Blitz
+ID_QU_SD_REVENGEOFTHEBLITZ,Earn Blitz Credits
+ID_QU_LD_REVENGEOFTHEBLITZ,Earn Blitz credits and be rewarded with Planetary Orbs for progress in the Earthlings Needed Milestone.
+ID_QU_S1_REVENGEOFTHEBLITZ,Earn 1 Blitz Credit
