@@ -728,8 +728,10 @@ ID_LOGIN_DE_REACTIVATIONTEST1,Log in every day to get 50 shards of Gambit and gl
 ID_LOGIN_NA_ANNIV6W4,Happy Anniversary
 ID_LOGIN_DE_ANNIV6W4,Thank you for celebrating the Sixth Anniversary of MARVEL Strike Force with us!
 ID_LOGIN_NA_CAMPAIGNWELCOME,New Recruit's Rewards
-ID_LOGIN_DE_CAMPAIGNWELCOME,Log in every day to unlock your favorite character(s)!
+ID_LOGIN_DE_CAMPAIGNWELCOME,Log in daily to unlock a new character!
 ID_LOGIN_NA_EARTHDAY2024,Guardians of the Environment
 ID_LOGIN_DE_EARTHDAY2024,Recruit the Guardians and save Mother Nexus Earth!
 ID_LOGIN_NA_CYCLOPS,Cyclops
 ID_LOGIN_DE_PURCAL_CYCLOPS,Log in every day for 7 days to get Cyclops with this special calendar!
+ID_LOGIN_NA_EARTHLINGSNEEDED,Earthlings Needed: Calendar
+ID_LOGIN_DE_EARTHLINGSNEEDED,Earn Planetary Orbs to progress in the milestone!

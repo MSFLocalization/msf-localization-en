@@ -24,7 +24,7 @@ ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to
 ID_MOTD_NA_CHALLENGES_TIER_18,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_18,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 9:30 PM (PST) (02/01).
+ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 9:30 PM (PDT) (04/09).
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -2926,3 +2926,9 @@ ID_MOTD_NA_SLICKOUTBREAK_ENDING,Ending Soon: Slick Outbreak
 ID_MOTD_DE_SLICKOUTBREAK_CORE,Earn Mutant Gear and Juggernaut (Zombie) Diamonds!
 ID_MOTD_NA_ATTACKOFTHEPLANTS_ANNOUNCE,LIVE: Attack of the Plants
 ID_MOTD_DE_ATTACKOFTHEPLANTS_ANNOUNCE,Spend Iso-8 Energy for glorious rewards and earn Allied Supply IV Orb Fragments!
+ID_MOTD_NA_EARTHLINGSNEEDED_ANNOUNCE,LIVE: Earthlings Needed
+ID_MOTD_DE_EARTHLINGSNEEDED_ANNOUNCE,Unlock Peter B. Parker and earn Crimson Gear!
+ID_MOTD_NA_EARTHLINGSNEEDED_ENDING,Ending Soon: Earthlings Needed
+ID_MOTD_DE_EARTHLINGSNEEDED_ENDING,Unlock Peter B. Parker and earn Crimson Gear now!
+ID_MOTD_NA_REVENGEOFTHEBLITZ_ANNOUNCE,Web Milestone: Revenge of the Blitz
+ID_MOTD_DE_REVENGEOFTHEBLITZ_ANNOUNCE,Earn Blitz Credits and reap more rewards on the web!
