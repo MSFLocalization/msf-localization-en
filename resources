@@ -103,7 +103,11 @@ ID_HEAL-WAR-CUR_DESCRIPTION,War Health Pack is used to heal and revive your char
 ID_HEAL-RAID-CUR_NAME,Raid Health Pack
 ID_HEAL-RAID-CUR_DESCRIPTION,Raid Health Pack is used to heal and revive your characters in Raids.
 ID_HEAL-INSANITY-CUR-01_NAME,Dark Health Pack
-ID_HEAL-INSANITY-CUR-01_DESCRIPTION,Dark Health Pack is used to heal and revive your characters in Dark Dimension.
+ID_HEAL-INSANITY-CUR-01_DESCRIPTION,Dark Health Pack is used to heal and revive your characters in Dark Dimensions.
+ID_HEAL-INSANITY-CUR-02_NAME,Temporal Health Pack
+ID_HEAL-INSANITY-CUR-02_DESCRIPTION,Temporal Health Pack is used to heal and revive your characters in some Pocket Dimensions.
+ID_HEAL-INSANITY-CUR-03_NAME,Dimensional Health Pack
+ID_HEAL-INSANITY-CUR-03_DESCRIPTION,Dimensional Health Pack is used to heal and revive characters in some Pocket Dimensions.
 ID_CHALLENGE_ATTEMPT_INFO_TITLE,Attempts
 ID_CHALLENGE_ATTEMPT_INFO_DESC,Attempts are refilled at the start of an event or challenge. They are only consumed upon successfully completing a mission.
 ID_ABILITY_MATERIAL_GREEN_ABILITY_MAT_NAME,T1 Ability Material
