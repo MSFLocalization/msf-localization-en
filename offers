@@ -7198,10 +7198,10 @@ ID_OF_NA_EARTHLINGSNEEDED_STARTER,Earthlings Needed: Starter
 ID_OF_NA_EARTHLINGSNEEDED_MEGACATCHUP,Earthlings Needed: Mega Catch-up
 ID_OF_NA_EARTHLINGSNEEDED_CATCHUP,Earthlings Needed: Catch-up
 ID_OF_NA_EARTHLINGSNEEDED_SPECIAL,Earthlings Needed: Web Special
-ID_OF_NA_EARTHLINGSNEEDED_DAILY_ORB,Earthlings Needed: Symbiote Surfer Orbs
+ID_OF_NA_EARTHLINGSNEEDED_DAILY_ORB,Earthlings Needed: Planetary Orbs
 ID_OF_NA_EARTHLINGSNEEDED_DAILY_ENERGY,Earthlings Needed: Daily Energy
 ID_OF_NA_EARTHLINGSNEEDED_DAILY_BLITZ,Earthlings Needed: Daily Blitz
-ID_OF_NA_EARTHLINGSNEEDED_DAILY_INTERSTITIAL,Earthlings Needed: Symbiote Special
+ID_OF_NA_EARTHLINGSNEEDED_DAILY_INTERSTITIAL,Earthlings Needed: Planetary Special
 ID_OF_NA_EARTHLINGSNEEDED_FREE,Earthlings Needed: Free Claim
 ID_OF_DE_EARTHLINGSNEEDED_MEGASTARTER,Get ahead in the <color=#fff568>Earthlings Needed Milestone</color> and blast through for Peter B. Parker shards and Crimson Gear!
 ID_OF_DE_EARTHLINGSNEEDED_STARTER,Get a head start in the <color=#fff568>Earthlings Needed Milestone</color> and speed through for Peter B. Parker shards and Crimson Gear!
@@ -7327,3 +7327,19 @@ ID_OF_DE_SOCIETY24_PETERBPARKER_PAVITR_GOLD,Power up your <color=#fff568>Spider-
 ID_OF_DE_SOCIETY24_PENIPARKER,Rank up your <color=#fff568>Spider-Society</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
 ID_OF_DE_SOCIETY24_FULL_TEAM_TRAIN,Improve your entire <color=#fff568>Spider-Society</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
 ID_OF_DE_SOCIETY24_PENIPARKER_E7_GPC,Power up your <color=#fff568>Spider-Society</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>4M T2 Level 5 Ions and 380 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_NA_SPIDERMANPAVITR_FCO_OFFER,Mumbattan Marvel
+ID_OF_DE_SPIDERMANPAVITR_FCO_OFFER,Each <color=#fff568>Mumbattan Motion Orb</color> contains <color=#fff568>up to 180 Spider-Man (Pavitr)</color> shards. <color=#fff568>Spider-Man (Pavitr)</color> is a MYSTIC & SKILL brawler with all Rebound Chain attacks for applying Slow to enemies and Speed Up to allies! Get in the lead and stay there!
+ID_OF_DE_SPIDERMANPAVITR_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Spider-Man (Pavitr)</color> and unlock one-time only release offers on your next visit! <color=#fff568>Spider-Man (Pavitr)</color> is a MYSTIC & SKILL brawler with all Rebound Chain attacks for applying Slow to enemies and Speed Up to allies! Get in the lead and stay there!
+ID_OF_DE_SPIDERMANPAVITR_OFFER_SHARD,Power up <color=#fff568>Spider-Man (Pavitr)</color> with this shard offer! <color=#fff568>Spider-Man (Pavitr)</color> is a MYSTIC & SKILL brawler with all Rebound Chain attacks for applying Slow to enemies and Speed Up to allies! Get in the lead and stay there!
+ID_OF_DE_SPIDER-MAN(PAVITR)_UNLOCK_OFFER,Unlock <color=#fff568>Spider-Man (Pavitr)</color> now! <color=#fff568>Spider-Man (Pavitr)</color> is a MYSTIC & SKILL brawler with all Rebound Chain attacks for applying Slow to enemies and Speed Up to allies! Get in the lead and stay there!
+ID_OF_STOREBAR_SPIDERMANPAVITR,Dual Offer: Spider-Man (Pavitr)
+ID_OF_NA_DUAL_SPIDERMANPAVITR,Dual Offer: Spider-Man (Pavitr)
+ID_OF_DE_DUAL_SPIDERMANPAVITR,Choose your path to power up this <color=#fff568>Spider-Society</color> member!
+ID_OF_DE_DUAL_UNLOCK_SPIDERMANPAVITR,Unlock this <color=#fff568>Spider-Society</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_SPIDER-MAN(PAVITR)_FCO_OFFER_BASIC,Spider-Man (Pavitr) Release Offer
+ID_OF_NA_SPIDER-SOCIETY_TEAM_OFFER,Spider-Society Team Bundle
+ID_OF_DE_SPIDER-SOCIETY_TEAM_OFFER," <color=#fff568>Spider-Society</color> team members!"
+ID_OF_NA_SPIDERMANPAVITR_WEB_EXTRA_FCO_OFFER,Spider-Man (Pavitr) Unlock Offer
+ID_OF_DE_SPIDERMANPAVITR_WEB_EXTRA_FCO_OFFER,"The Mumbattan Marvel, <color=#fff568>Spider-Man (Pavitr)</color>, has arrived!"
+ID_OF_NA_SPIDERMANPAVITR_WEB_SPECIAL_OFFER,Mumbattan Marvel Special
+ID_OF_DE_SPIDERMANPAVITR_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color><color=#fff568>Spider-Man (Pavitr)</color> is a MYSTIC & SKILL brawler with all Rebound Chain attacks for applying Slow to enemies and Speed Up to allies! Get in the lead and stay there!
