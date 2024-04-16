@@ -342,19 +342,19 @@ ID_GACHA_M_CRATE_TOKEN_ADVANCED_25_DESCRIPTION,Used to promote specific characte
 ID_GACHA_M_CRATE_TOKEN_DIAMOND_5_NAME,5 Silver Diamond Credits
 ID_GACHA_M_CRATE_TOKEN_DIAMOND_5_DESCRIPTION,Used to promote specific characters up to 3 Diamonds
 ID_GACHA_CRATE_RAID_GREEN_GEARMATS_NAME,Green Gear Raid Orb
-ID_GACHA_CRATE_RAID_GREEN_GEARMATS_DESCRIPTION,Contains basic gear materials
+ID_GACHA_CRATE_RAID_GREEN_GEARMATS_DESCRIPTION,Contains Green gear materials
 ID_GACHA_CRATE_RAID_GREEN_GEARMATS_TOKEN_DESCRIPTION,Collect Green Gear Raid Orb Fragments to earn a Green Gear Raid Orb.
 ID_GACHA_CRATE_RAID_GREEN_GEARMATS_TOKEN_NAME,Green Gear Raid Orb Fragments
 ID_GACHA_CRATE_RAID_BLUE_GEARMATS_NAME,Blue Gear Raid Orb
-ID_GACHA_CRATE_RAID_BLUE_GEARMATS_DESCRIPTION,Contains Improved gear materials
+ID_GACHA_CRATE_RAID_BLUE_GEARMATS_DESCRIPTION,Contains Blue gear materials
 ID_GACHA_CRATE_RAID_BLUE_GEARMATS_TOKEN_DESCRIPTION,Collect Blue Gear Raid Orb Fragments to earn a Blue Gear Raid Orb.
 ID_GACHA_CRATE_RAID_BLUE_GEARMATS_TOKEN_NAME,Blue Gear Raid Orb Fragments
 ID_GACHA_CRATE_RAID_PURPLE_GEARMATS_NAME,Purple Gear Raid Orb
-ID_GACHA_CRATE_RAID_PURPLE_GEARMATS_DESCRIPTION,Contains Advanced gear materials
+ID_GACHA_CRATE_RAID_PURPLE_GEARMATS_DESCRIPTION,Contains Purple gear materials
 ID_GACHA_CRATE_RAID_PURPLE_GEARMATS_TOKEN_DESCRIPTION,Collect Purple Gear Raid Orb Fragments to earn a Purple Gear Raid Orb.
 ID_GACHA_CRATE_RAID_PURPLE_GEARMATS_TOKEN_NAME,Purple Gear Raid Orb Fragments
 ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_NAME,Orange Gear Raid Orb
-ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_DESCRIPTION,Contains Superior gear materials
+ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_DESCRIPTION,Contains Orange gear materials
 ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Gear Raid Orb Fragments to earn an Orange Gear Raid Orb
 ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_TOKEN_NAME,Orange Gear Raid Orb Fragments
 ID_GACHA_CRATE_RAID_ELITE_ORANGE_GEARMATS_NAME,Orange Elite Orb
@@ -362,7 +362,7 @@ ID_GACHA_CRATE_RAID_ELITE_ORANGE_GEARMATS_DESCRIPTION,Contains Mini-Uniques for 
 ID_GACHA_CRATE_RAID_ELITE_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Elite Orb Fragments to earn an Orange Elite Orb.
 ID_GACHA_CRATE_RAID_ELITE_ORANGE_GEARMATS_TOKEN_NAME,Orange Elite Orb Fragments
 ID_GACHA_CRATE_RAID_TEAL_GEARMATS_NAME,Teal Gear Raid Orb
-ID_GACHA_CRATE_RAID_TEAL_GEARMATS_DESCRIPTION,Contains Augmented gear materials
+ID_GACHA_CRATE_RAID_TEAL_GEARMATS_DESCRIPTION,Contains Teal gear materials
 ID_GACHA_CRATE_RAID_TEAL_GEARMATS_TOKEN_NAME,Teal Gear Raid Orb Fragments
 ID_GACHA_CRATE_RAID_TEAL_GEARMATS_TOKEN_DESCRIPTION,Collect Teal Gear Raid Orb Fragments to earn a Teal Gear Raid Orb
 ID_GACHA_CRATE_RAID_ELITE_TEAL_GEARMATS_NAME,Teal Elite Orb
@@ -409,24 +409,24 @@ ID_GACHA_CRATE_ORANGE_UNIQUES_NAME,Orange Uniques Orb
 ID_GACHA_CRATE_ORANGE_UNIQUES_DESCRIPTION,Contains orange Unique gear materials
 ID_GACHA_CRATE_ORANGE_UNIQUES_TOKEN_NAME,Orange Uniques Orb Fragment
 ID_GACHA_CRATE_ORANGE_UNIQUES_TOKEN_DESCRIPTION,Collect Orange Uniques Orb Fragments to earn an Orange Uniques Orb
-ID_GACHA_CRATE_RAID_BLUE_GEARMATS_2_NAME,Improved Gear Orb
-ID_GACHA_CRATE_RAID_BLUE_GEARMATS_2_DESCRIPTION,Contains Improved gear and Improved gear materials
-ID_GACHA_CRATE_RAID_BLUE_GEARMATS_2_TOKEN_DESCRIPTION,Collect Improved Gear Orb Fragments to earn a Improved Gear Orb.
-ID_GACHA_CRATE_RAID_BLUE_GEARMATS_2_TOKEN_NAME,Improved Gear Orb Fragments
-ID_GACHA_CRATE_RAID_PURPLE_GEARMATS_2_DESCRIPTION,Contains Advanced gear and Unique gear materials
-ID_GACHA_CRATE_RAID_PURPLE_GEARMATS_2_NAME,Advanced Gear Orb
-ID_GACHA_CRATE_RAID_PURPLE_GEARMATS_2_TOKEN_DESCRIPTION,Collect Advanced Gear Orb Fragments to earn a Advanced Gear Orb.
-ID_GACHA_CRATE_RAID_PURPLE_GEARMATS_2_TOKEN_NAME,Advanced Gear Orb Fragments
-ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_2_DESCRIPTION,Contains Superior gear materials
-ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_2_NAME,Superior Gear Orb
-ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_2_TOKEN_DESCRIPTION,Collect Superior Gear Orb Fragments to earn an Superior Gear Orb
-ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_2_TOKEN_NAME,Superior Gear Orb Fragments
+ID_GACHA_CRATE_RAID_BLUE_GEARMATS_2_NAME,Blue Gear Orb
+ID_GACHA_CRATE_RAID_BLUE_GEARMATS_2_DESCRIPTION,Contains Blue gear and Blue gear materials
+ID_GACHA_CRATE_RAID_BLUE_GEARMATS_2_TOKEN_DESCRIPTION,Collect Blue Gear Orb Fragments to earn a Blue Gear Orb.
+ID_GACHA_CRATE_RAID_BLUE_GEARMATS_2_TOKEN_NAME,Blue Gear Orb Fragments
+ID_GACHA_CRATE_RAID_PURPLE_GEARMATS_2_DESCRIPTION,Contains Purple gear and Unique materials
+ID_GACHA_CRATE_RAID_PURPLE_GEARMATS_2_NAME,Purple Gear Orb
+ID_GACHA_CRATE_RAID_PURPLE_GEARMATS_2_TOKEN_DESCRIPTION,Collect Purple Gear Orb Fragments to earn a Purple Gear Orb.
+ID_GACHA_CRATE_RAID_PURPLE_GEARMATS_2_TOKEN_NAME,Purple Gear Orb Fragments
+ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_2_DESCRIPTION,Contains Orange gear materials
+ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_2_NAME,Orange Gear Orb
+ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_2_TOKEN_DESCRIPTION,Collect Orange Gear Orb Fragments to earn an Orange Gear Orb
+ID_GACHA_CRATE_RAID_ORANGE_GEARMATS_2_TOKEN_NAME,Orange Gear Orb Fragments
 ID_GACHA_CRATE_GREEN_GEARMATS_NAME,Green Gear Orb
-ID_GACHA_CRATE_GREEN_GEARMATS_DESCRIPTION,Contains only green gear materials
+ID_GACHA_CRATE_GREEN_GEARMATS_DESCRIPTION,Contains only Green gear materials
 ID_GACHA_CRATE_GREEN_GEARMATS_TOKEN_DESCRIPTION,Collect Green Gear Orb Fragments to earn a Green Gear Orb.
 ID_GACHA_CRATE_GREEN_GEARMATS_TOKEN_NAME,Green Gear Orb Fragments
 ID_GACHA_CRATE_GREEN_CATS_NAME,Green Catalyst Orb
-ID_GACHA_CRATE_GREEN_CATS_DESCRIPTION,Contains only green catalyst materials
+ID_GACHA_CRATE_GREEN_CATS_DESCRIPTION,Contains only Green Catalyst materials
 ID_GACHA_CRATE_GREEN_CATS_TOKEN_DESCRIPTION,Collect Green Catalyst Orb Fragments to earn a Green Catalyst Orb.
 ID_GACHA_CRATE_GREEN_CATS_TOKEN_NAME,Green Catalyst Orb Fragments
 ID_GACHA_CRATE_BIO_BLUE_GEARMATS_NAME,Blue Bio Gear Orb
@@ -479,32 +479,52 @@ ID_GACHA_CRATE_PURPLE_CATS_TOKEN_DESCRIPTION,Collect Purple Catalyst Orb Fragmen
 ID_GACHA_CRATE_PURPLE_CATS_TOKEN_NAME,Purple Catalyst Orb Fragments
 ID_GACHA_CRATE_BIO_ORANGE_GEARMATS_NAME,Orange Bio Gear Orb
 ID_GACHA_CRATE_BIO_ORANGE_GEARMATS_DESCRIPTION,Contains only orange Bio gear materials
-ID_GACHA_CRATE_BIO_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Bio Gear Orb Fragments to earn a Orange Bio Gear Orb.
+ID_GACHA_CRATE_BIO_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Bio Gear Orb Fragments to earn an Orange Bio Gear Orb.
 ID_GACHA_CRATE_BIO_ORANGE_GEARMATS_TOKEN_NAME,Orange Bio Gear Orb Fragments
 ID_GACHA_CRATE_MYSTIC_ORANGE_GEARMATS_NAME,Orange Mystic Gear Orb
 ID_GACHA_CRATE_MYSTIC_ORANGE_GEARMATS_DESCRIPTION,Contains only orange Mystic gear materials
-ID_GACHA_CRATE_MYSTIC_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Mystic Gear Orb Fragments to earn a Orange Mystic Gear Orb.
+ID_GACHA_CRATE_MYSTIC_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Mystic Gear Orb Fragments to earn an Orange Mystic Gear Orb.
 ID_GACHA_CRATE_MYSTIC_ORANGE_GEARMATS_TOKEN_NAME,Orange Mystic Gear Orb Fragments
 ID_GACHA_CRATE_MUTANT_ORANGE_GEARMATS_NAME,Orange Mutant Gear Orb
 ID_GACHA_CRATE_MUTANT_ORANGE_GEARMATS_DESCRIPTION,Contains only orange Mutant gear materials
-ID_GACHA_CRATE_MUTANT_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Mutant Gear Orb Fragments to earn a Orange Mutant Gear Orb.
+ID_GACHA_CRATE_MUTANT_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Mutant Gear Orb Fragments to earn an Orange Mutant Gear Orb.
 ID_GACHA_CRATE_MUTANT_ORANGE_GEARMATS_TOKEN_NAME,Orange Mutant Gear Orb Fragments
 ID_GACHA_CRATE_SKILL_ORANGE_GEARMATS_NAME,Orange Skill Gear Orb
 ID_GACHA_CRATE_SKILL_ORANGE_GEARMATS_DESCRIPTION,Contains only orange Skill gear materials
-ID_GACHA_CRATE_SKILL_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Skill Gear Orb Fragments to earn a Orange Skill Gear Orb.
+ID_GACHA_CRATE_SKILL_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Skill Gear Orb Fragments to earn an Orange Skill Gear Orb.
 ID_GACHA_CRATE_SKILL_ORANGE_GEARMATS_TOKEN_NAME,Orange Skill Gear Orb Fragments
 ID_GACHA_CRATE_TECH_ORANGE_GEARMATS_NAME,Orange Tech Gear Orb
 ID_GACHA_CRATE_TECH_ORANGE_GEARMATS_DESCRIPTION,Contains only orange Tech gear materials
-ID_GACHA_CRATE_TECH_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Tech Gear Orb Fragments to earn a Orange Tech Gear Orb.
+ID_GACHA_CRATE_TECH_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Tech Gear Orb Fragments to earn an Orange Tech Gear Orb.
 ID_GACHA_CRATE_TECH_ORANGE_GEARMATS_TOKEN_NAME,Orange Tech Gear Orb Fragments
 ID_GACHA_CRATE_CATS_ORANGE_GEARMATS_NAME,Orange Catalyst Orb
 ID_GACHA_CRATE_CATS_ORANGE_GEARMATS_DESCRIPTION,Contains only orange catalyst materials
-ID_GACHA_CRATE_CATS_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Catalyst Orb Fragments to earn a Orange Catalyst Orb.
+ID_GACHA_CRATE_CATS_ORANGE_GEARMATS_TOKEN_DESCRIPTION,Collect Orange Catalyst Orb Fragments to earn an Orange Catalyst Orb.
 ID_GACHA_CRATE_CATS_ORANGE_GEARMATS_TOKEN_NAME,Orange Catalyst Orb Fragments
+ID_GACHA_CRATE_BIO_ORANGE_MINIS_NAME,Orange Bio Mini-Unique Orb
+ID_GACHA_CRATE_BIO_ORANGE_MINIS_DESCRIPTION,Contains only orange Bio Mini-Uniques
+ID_GACHA_CRATE_BIO_ORANGE_MINIS_TOKEN_DESCRIPTION,Collect Orange Bio Mini-Unique Orb Fragments to earn an Orange Bio Mini-Unique Orb.
+ID_GACHA_CRATE_BIO_ORANGE_MINIS_TOKEN_NAME,Orange Bio Mini-Unique Orb Fragments
+ID_GACHA_CRATE_MYSTIC_ORANGE_MINIS_NAME,Orange Mystic Mini-Unique Orb
+ID_GACHA_CRATE_MYSTIC_ORANGE_MINIS_DESCRIPTION,Contains only orange Mystic Mini-Uniques
+ID_GACHA_CRATE_MYSTIC_ORANGE_MINIS_TOKEN_DESCRIPTION,Collect Orange Mystic Mini-Unique Orb Fragments to earn an Orange Mystic Mini-Unique Orb.
+ID_GACHA_CRATE_MYSTIC_ORANGE_MINIS_TOKEN_NAME,Orange Mystic Mini-Unique Orb Fragments
+ID_GACHA_CRATE_MUTANT_ORANGE_MINIS_NAME,Orange Mutant Mini-Unique Orb
+ID_GACHA_CRATE_MUTANT_ORANGE_MINIS_DESCRIPTION,Contains only orange Mutant Mini-Uniques
+ID_GACHA_CRATE_MUTANT_ORANGE_MINIS_TOKEN_DESCRIPTION,Collect Orange Mutant Mini-Unique Orb Fragments to earn an Orange Mutant Mini-Unique Orb.
+ID_GACHA_CRATE_MUTANT_ORANGE_MINIS_TOKEN_NAME,Orange Mutant Mini-Unique Orb Fragments
+ID_GACHA_CRATE_SKILL_ORANGE_MINIS_NAME,Orange Skill Mini-Unique Orb
+ID_GACHA_CRATE_SKILL_ORANGE_MINIS_DESCRIPTION,Contains only orange Skill Mini-Uniques
+ID_GACHA_CRATE_SKILL_ORANGE_MINIS_TOKEN_DESCRIPTION,Collect Orange Skill Mini-Unique Orb Fragments to earn an Orange Skill Mini-Unique Orb.
+ID_GACHA_CRATE_SKILL_ORANGE_MINIS_TOKEN_NAME,Orange Skill Mini-Unique Orb Fragments
+ID_GACHA_CRATE_TECH_ORANGE_MINIS_NAME,Orange Tech Mini-Unique Orb
+ID_GACHA_CRATE_TECH_ORANGE_MINIS_DESCRIPTION,Contains only orange Tech Mini-Uniques
+ID_GACHA_CRATE_TECH_ORANGE_MINIS_TOKEN_DESCRIPTION,Collect Orange Tech Mini-Unique Orb Fragments to earn an Orange Tech Mini-Unique Orb.
+ID_GACHA_CRATE_TECH_ORANGE_MINIS_TOKEN_NAME,Orange Tech Mini-Unique Orb Fragments
 ID_GACHA_CRATE_W_ORANGE_LV75_NAME,Orange Gear War Orb II
 ID_GACHA_CRATE_W_ORANGE_LV75_DESCRIPTION,Contains orange gear and Unique gear materials
 ID_GACHA_CRATE_W_ORANGE_LV75_TOKEN_NAME,Orange Gear War Orb II Fragments
-ID_GACHA_CRATE_W_ORANGE_LV75_TOKEN_DESCRIPTION,Collect Orange Gear War Orb II Fragments to earn a Orange Gear War Orb II.
+ID_GACHA_CRATE_W_ORANGE_LV75_TOKEN_DESCRIPTION,Collect Orange Gear War Orb II Fragments to earn an Orange Gear War Orb II.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_BLACKPANTHER_201905_NAME,Alpha Raid Orb
 ID_GACHA_CRATE_EVENT_CAMPAIGN_BLACKPANTHER_201905_DESCRIPTION,Earn Alpha Raid Orb Fragments by completing Alpha Raids.
 ID_GACHA_CRATE_EVENT_CAMPAIGN_BLACKPANTHER_201905_TOKEN_NAME,Alpha Raid Orb Fragments
