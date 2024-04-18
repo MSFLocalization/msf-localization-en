@@ -4293,7 +4293,7 @@ ID_QU_S2_SECONDSTRIKENU,Use 1 Power Core
 ID_QU_S3_SECONDSTRIKENU,Battle in Raid
 ID_QU_S4_SECONDSTRIKENU,Battle in Arena
 ID_QU_S5_SECONDSTRIKENU,Battle in War (Alliance Level 20)
-ID_QU_S6_SECONDSTRIKENU,Battle in Arena (Player level 55)
+ID_QU_S6_SECONDSTRIKENU,Spend 1 Iso-8 Campaign Energy (Player level 55)
 ID_QU_NA_EARTHLINGSNEEDED,Earthlings Needed
 ID_QU_SD_EARTHLINGSNEEDED,Earn Planetary Orbs and spend Campaign Energy
 ID_QU_LM_EARTHLINGSNEEDED,Earthlings Needed Milestone\nGain progress in this 7-day event by earning Planetary Orb fragments and spending Campaign Energy. Earn cosmic rewards including Peter B. Parker shards and Crimson Gear. You'll also earn points towards the month-long Nature/Nurture milestone by collecting Gamma Rays and the Flower Patch.\n\nPlanetary Orbs\nPower up your Peter B. Parker with shards from the limited time Planetary Orb. You can find them in:\n- Daily Revenge of the Blitz Web Milestone\n- Daily log-in calendar\n- Daily Free Claims on the web\n- Limited Iso-8 Hard Campaign Nodes for 48 hours beginning Apr 17th at 2pm PST\n- Blitz Battles for 48 hours beginning Apr 19th at 2pm PST\n\nRevenge of the Blitz Web Milestone\nEarn Blitz Credits and be rewarded with even more Planetary Orbs and additional progress in the Earthlings Needed Milestone.
@@ -4303,3 +4303,28 @@ ID_QU_NA_REVENGEOFTHEBLITZ,Revenge of the Blitz
 ID_QU_SD_REVENGEOFTHEBLITZ,Earn Blitz Credits
 ID_QU_LD_REVENGEOFTHEBLITZ,Earn Blitz credits and be rewarded with Planetary Orbs for progress in the Earthlings Needed Milestone.
 ID_QU_S1_REVENGEOFTHEBLITZ,Earn 1 Blitz Credit
+ID_QU_NA_GOLDENHOUR,Golden Hour
+ID_QU_SD_GOLDENHOUR,Earn Shiny Coins and Battle in Raids
+ID_QU_LD_GOLDENHOUR,"Golden Hour Milestone\nGain progress in this 8-day event by collecting Shiny Coins or battling through Raids with Peter B. Parker, Spider-Man [Pavitr] or Peni Parker. Earn cosmic rewards including Spider-man [Pavitr] shards and Crimson Gear. Compete in the leaderboard for a 3 Diamond Black Cat, Gear Tier 19 Tech Mini-Uniques, and T2 Level 5 Ions. You'll also earn points towards the month-long Nature/Nurture milestone by collecting Gamma Rays and the Sun Rays.\n\nPeace and Love Web Milestone\nSpend Shiny Coins and be rewarded with Gamma Rays, Gold Promotion Credits and Rise of the Planet Milestone Points. Keep an eye out for Free Claims containing Shiny Coins every day!"
+ID_QU_S1_GOLDENHOUR,Play 1 Raid Battle with Peter B. Parker
+ID_QU_S2_GOLDENHOUR,Play 1 Raid Battle with Peter B. Parker at 5 Yellow Star
+ID_QU_S3_GOLDENHOUR,Play 1 Raid Battle with Peter B. Parker at 6 Yellow Star
+ID_QU_S4_GOLDENHOUR,Play 1 Raid Battle with Peter B. Parker at 7 Yellow Star
+ID_QU_S5_GOLDENHOUR,Play 1 Raid Battle with Spider-Man (Pavitr)
+ID_QU_S6_GOLDENHOUR,Play 1 Raid Battle with Spider-Man (Pavitr) at 5 Yellow Star
+ID_QU_S7_GOLDENHOUR,Play 1 Raid Battle with Spider-Man (Pavitr) at 6 Yellow Star
+ID_QU_S8_GOLDENHOUR,Play 1 Raid Battle with Spider-Man (Pavitr) at 7 Yellow Star
+ID_QU_S9_GOLDENHOUR,Play 1 Raid Battle with Peni Parker
+ID_QU_S10_GOLDENHOUR,Play 1 Raid Battle with Peni Parker at 5 Yellow Star
+ID_QU_S11_GOLDENHOUR,Play 1 Raid Battle with Peni Parker at 6 Yellow Star
+ID_QU_S12_GOLDENHOUR,Play 1 Raid Battle with Peni Parker at 7 Yellow Star
+ID_QU_S13_GOLDENHOUR,Earn 1 Shiny Coin
+ID_QU_NA_RISEOFTHEPLANET,Rise of the Planet
+ID_QU_SD_RISEOFTHEPLANET,Earn Shiny Coins and Nature/Nurture progress!
+ID_QU_LD_RISEOFTHEPLANET,"Collaborate with your alliance to battle through Raids and earn Allied Supply IV Orb Fragments. Allied Supply IV Orb Fragments can be found in daily Free Claims on the web and special offers in the store. "
+ID_QU_S1_RISEOFTHEPLANET,Play 1 Raid Battle
+ID_QU_S2_RISEOFTHEPLANET,Earn 1 Allied Supply IV Orb Fragment
+ID_QU_NA_PEACEANDLOVE,Peace and Love
+ID_QU_SD_PEACEANDLOVE,Spend Shiny Coins
+ID_QU_LD_PEACEANDLOVE,Spend Shiny Coins and be rewarded progress in the Rise of the Planet Milestone.
+ID_QU_S1_PEACEANDLOVE,Spend 1 Shiny Coin

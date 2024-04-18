@@ -6966,7 +6966,7 @@ ID_OF_NA_CABAL24_IRONPATRIOT_THELEADER_A18_TRAIN,Cabal Empowerment
 ID_OF_NA_CABAL24_FULL_HIVEMIND_TEAM_TRAIN,Cabal Team Pack
 ID_OF_DE_CABAL24_TRAIN_GOLD_A18_A17_T2L5,Power up your <color=#fff568>Cabal</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>2.8M T2 Level 5 Ions and 250 Gear Tier 18 Mini-Uniques</color> in the entire event!
 ID_OF_DE_CABAL24_IRONPATRIOT,Rank up your <color=#fff568>Cabal</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>2.8M T2 Level 5 Ions and 250 Gear Tier 18 Mini-Uniques</color> in the entire event!
-ID_OF_DE_CABAL24_SINISTERSIX_TEAM,Advance your <color=#fff568>New Avengers</color> towards their peak potential with this fantastic team shard offer today!
+ID_OF_DE_CABAL24_SINISTERSIX_TEAM,Advance your <color=#fff568>Sinister Six</color> towards their peak potential with this fantastic team shard offer today!
 ID_OF_DE_CABAL24_TEAL_UNIQUES,Gear up your <color=#fff568>Cabal</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>2.8M T2 Level 5 Ions and 250 Gear Tier 18 Mini-Uniques</color> in the entire event!
 ID_OF_DE_CABAL24_IRONPATRIOT_A18_DPC,Power up your <color=#fff568>Cabal</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>2.8M T2 Level 5 Ions and 250 Gear Tier 18 Mini-Uniques</color> in the entire event!
 ID_OF_DE_CABAL24_TEAL_MINIUNIQUES,Gear up your <color=#fff568>Cabal</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>2.8M T2 Level 5 Ions and 250 Gear Tier 18 Mini-Uniques</color> in the entire event!
@@ -7407,3 +7407,124 @@ ID_OF_DE_KYLNAPR24_DPCDDCTRAIN,"Promote the best of your roster with this offer 
 ID_OF_DE_KYLNAPR24_GOLDABMDPC,"Sharpen all the skills you need to reach new heights of power with this <color=#ffda21>T4 Ability Material, Dark Promotion Credit, and Gold</color> combo offer!"
 ID_OF_DE_KYLNAPR24_GOLDISO,Break down the walls with this essential <color=#ffda21>Gold and ISO-8</color> combo offer.
 ID_OF_DE_KYLNAPR24_GOLDTRAINING,Enjoy the fruits of your labor of solitude with a load of <color=#ffda21>Gold & L4 Training Modules</color> in this offer!
+ID_OF_NA_GOLDENHOUR_STARTER,Golden Hour: Starter
+ID_OF_NA_GOLDENHOUR_CATCHUP,Golden Hour: Catch-up
+ID_OF_NA_GOLDENHOUR_WEB_POINTS,Golden Hour: Treasure
+ID_OF_NA_GOLDENHOUR_DAILY_CURRENCY,Golden Hour: Shiny Coin
+ID_OF_NA_GOLDENHOUR_DAILY_POINTS,Golden Hour: Daily Boost
+ID_OF_NA_GOLDENHOUR_DAILY_ENERGY,Golden Hour: Daily Energy
+ID_OF_NA_GOLDENHOUR_DAILY_INTERSTITIAL,Golden Hour: Shiny Special
+ID_OF_NA_GOLDENHOURDAILY_FREE_CLAIM,Golden Hour: Free Claim
+ID_OF_DE_GOLDENHOUR_STARTER,Get ahead in the <color=#fff568>Golden Hour</color> Milestone and Leaderboard and fast-forward your way to <color=#fff568>Black Cat Diamonds</color> and <color=#fff568>Crimson Tech Mini-Uniques</color>!
+ID_OF_DE_GOLDENHOUR_CATCHUP,Finish strong in the milestones and leaderboard to earn <color=#fff568>Black Cat Diamonds</color> and <color=#fff568>Crimson Tech Mini-Uniques</color>!
+ID_OF_DE_GOLDENHOUR_WEB_POINTS,Take a leap of faith with this <color=#fff568>Golden Hour</color> special web bundle!
+ID_OF_DE_GOLDENHOUR_DAILY_CURRENCY,"Get bonus Shiny Coins for <color=#fff568>Golden Hour Milestone</color> progress! "
+ID_OF_DE_GOLDENHOUR_DAILY_POINTS,Come back daily for more <color=#fff568>Golden Hour</color> progress!
+ID_OF_DE_GOLDENHOUR_DAILY_ENERGY,Get a daily dose of Campaign Energy!
+ID_OF_DE_GOLDENHOUR_DAILY_INTERSTITIAL,Get boosted <color=#fff568>Golden Hour</color> progress with this daily trove of resources!
+ID_OF_DE_GOLDENHOURDAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Golden Hour</color> progress!
+ID_OF_NA_RISEOFTHEPLANET_STARTER,Rise of the Planet: Starter Bundle
+ID_OF_NA_RISEOFTHEPLANET_CATCHUP,Rise of the Planet: Catch-Up Bundle
+ID_OF_NA_RISEOFTHEPLANET_EVENT_ORB,Rise of the Planet: Daily Allied Supply
+ID_OF_NA_RISEOFTHEPLANET_TEAM_PETER_B_PARKER,Rise of the Planet: Peter B. Parker
+ID_OF_NA_RISEOFTHEPLANET_TEAM_SPIDER_MAN_PAVITR,Rise of the Planet: Spider-Man (Pavitr)
+ID_OF_NA_RISEOFTHEPLANET_DAILY_RAID,Rise of the Planet: Daily Raid
+ID_OF_NA_RISEOFTHEPLANET_INTERSTITIAL,Rise of the Planet: Rising Special
+ID_OF_NA_RISEOFTHEPLANET_FREE,Rise of the Planet: Free Claim
+ID_OF_DE_RISEOFTHEPLANET_STARTER,Help your alliance start off strong in the <color=#fff568>Rise Of the Planet </color> Milestone and earn tremendous golden rewards!
+ID_OF_DE_RISEOFTHEPLANET_CATCHUP,Push your alliance to the finish line with this <color=#fff568>Rise Of the Planet </color> Milestone bundle for tremendous golden rewards!
+ID_OF_DE_RISEOFTHEPLANET_EVENT_ORB,Get Allied Supply IV orbs for <color=#fff568>Rise Of the Planet </color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs featuring guaranteed T2 L5 Ions!
+ID_OF_DE_RISEOFTHEPLANET_TEAM_PETER_B_PARKER,Stock up on <color=#fff568>Rise Of the Planet event progress</color> and <color=#fff568>Peter B. Parker shards</color> with this special deal!
+ID_OF_DE_RISEOFTHEPLANET_TEAM_SPIDER_MAN_PAVITR,Stock up on <color=#fff568>Rise Of the Planet event progress</color> and <color=#fff568>Spider-Man (Pavitr) shards</color> with this special deal!
+ID_OF_DE_RISEOFTHEPLANET_DAILY_RAID,Get your daily raid refills to get ahead in the <color=#fff568>Rise of The Planet</color> Milestone!
+ID_OF_DE_RISEOFTHEPLANET_INTERSTITIAL,Stock up on Allied Supply IV Orbs for extra progress in the <color=#fff568>Rise of the Planet Milestone</color>!
+ID_OF_DE_RISEOFTHEPLANET_FREE,Come back daily for more <color=#fff568>Rise of the Planet</color> progress!
+ID_OF_NA_PENIPARKER_FCO_OFFER,Mecha Arachnid
+ID_OF_DE_PENIPARKER_FCO_OFFER,Each <color=#fff568>SP//dr Sensei Orb</color> contains <color=#fff568>up to 180 Peni Parker</color> shards. SP//dr online! <color=#fff568>Peni Parker</color> generates Ability Energy for your Spider-Society Allies!
+ID_OF_DE_PENIPARKER_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Peni Parker</color> and unlock one-time only release offers on your next visit! SP//dr online! <color=#fff568>Peni Parker</color> generates Ability Energy for your Spider-Society Allies!
+ID_OF_DE_PENIPARKER_OFFER_SHARD,Power up <color=#fff568>Peni Parker</color> with this shard offer! SP//dr online! <color=#fff568>Peni Parker</color> generates Ability Energy for your Spider-Society Allies!
+ID_OF_DE_PENIPARKER_UNLOCK_OFFER,Unlock <color=#fff568>Peni Parker</color> now! SP//dr online! <color=#fff568>Peni Parker</color> generates Ability Energy for your Spider-Society Allies!
+ID_OF_STOREBAR_PENIPARKER,Dual Offer: Peni Parker
+ID_OF_NA_DUAL_PENIPARKER,Dual Offer: Peni Parker
+ID_OF_DE_DUAL_PENIPARKER,Choose your path to power up this <color=#fff568>Spider-Society</color> member!
+ID_OF_DE_DUAL_UNLOCK_PENIPARKER,Unlock this <color=#fff568>Spider-Society</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_PENIPARKER_FCO_OFFER_BASIC,Peni Parker Release Offer
+ID_OF_NA_PENIPARKER_WEB_EXTRA_FCO_OFFER,Peni Parker Unlock Offer
+ID_OF_DE_PENIPARKER_WEB_EXTRA_FCO_OFFER,"The Mecha Arachnid, <color=#fff568>Peni Parker</color>, has arrived!"
+ID_OF_NA_PENIPARKER_WEB_SPECIAL_OFFER,Mecha Arachnid Special
+ID_OF_DE_PENIPARKER_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color>SP//dr online! <color=#fff568>Peni Parker</color> generates Ability Energy for your Spider-Society Allies!
+ID_OF_NA_DD7SPECIAL_CITY,Champions of Darkness: City
+ID_OF_NA_DD7SPECIAL_GLOBAL,Champions of Darkness: Global
+ID_OF_NA_DD7SPECIAL_COSMIC,Champions of Darkness: Cosmic
+ID_OF_NA_DD7SPECIAL_GENERIC1,Champions of Darkness
+ID_OF_NA_DD7SPECIAL_GENERIC2,Crimson Champions
+ID_OF_NA_DD7SPECIAL_GENERIC3,Dark Dimension VII: Launch Special
+ID_OF_NA_DD7SPECIAL_CATS_FOCUS,Catalysts of Darkness: Focus
+ID_OF_NA_DD7SPECIAL_CATS_DAMAGE,Catalysts of Darkness: Damage
+ID_OF_NA_DD7SPECIAL_CATS_ARMOR,Catalysts of Darkness: Armor
+ID_OF_NA_DD7SPECIAL_CATS_RES,Catalysts of Darkness: Resistance
+ID_OF_NA_DD7SPECIAL_CATS_HEALTH,Catalysts of Darkness: Focus
+ID_OF_NA_DD7SPECIAL_CATS_GENERIC,Catalysts of Darkness
+ID_OF_NA_DD7SPECIAL_GENERIC4,Crimson Gear Special
+ID_OF_NA_FINDERS_CRIMSON_UNIQUE,Crimson Unique Gear Supply
+ID_OF_DE_DD7SPECIAL_ROBBIE,<color=#f12603>Dark Dimension VII Launch Special!</color> Take Ghost Rider (Robbie) into Dark Dimension VII with this exclusive opportunity to purchase <color=#f12603>Crimson Mystic Gear</color>!
+ID_OF_DE_DD7SPECIAL_BLACKNIGHT,<color=#f12603>Dark Dimension VII Launch Special!</color> Take Black Knight into Dark Dimension VII with this exclusive opportunity to purchase <color=#f12603>Crimson Skill Gear</color>!
+ID_OF_DE_DD7SPECIAL_VULTURE,<color=#f12603>Dark Dimension VII Launch Special!</color> Take Vulture into Dark Dimension VII with this exclusive opportunity to purchase <color=#f12603>Crimson Tech Gear</color>!
+ID_OF_DE_DD7SPECIAL_VAHL,<color=#f12603>Dark Dimension VII Launch Special!</color> Take Vahl into Dark Dimension VII with this exclusive opportunity to purchase <color=#f12603>Crimson Mystic Gear</color>!
+ID_OF_DE_DD7SPECIAL_MSMARVEL,<color=#f12603>Dark Dimension VII Launch Special!</color> Take Ms. Marvel (Hard Light) into Dark Dimension VII with this exclusive opportunity to purchase <color=#f12603>Crimson Mutant Gear</color>!
+ID_OF_DE_DD7SPECIAL_GENERIC1,<color=#f12603>Dark Dimension VII Launch Special!</color> Take your top characters into Dark Dimension VII with this exclusive opportunity to purchase <color=#f12603>Crimson Mini-Uniques</color>!
+ID_OF_DE_DD7SPECIAL_CATS_GENERIC,<color=#f12603>Dark Dimension VII Launch Special!</color> Take your top characters into Dark Dimension VII with this exclusive opportunity to purchase <color=#f12603>Crimson Catalyst Parts</color>!
+ID_OF_DE_DD7SPECIAL_GENERIC4,<color=#f12603>Dark Dimension VII Launch Special!</color> Take your top characters into Dark Dimension VII with this exclusive opportunity to purchase <color=#f12603>Crimson Gear</color>!
+ID_OF_DE_FINDERS_CRIMSON_UNIQUE,Power up your roster with this Crimson Unique Gear!
+ID_OF_NA_EARTHDAY24_DIAMOND_GOLD_TRAIN_DDC_DPC,Planet Power: Diamond Flow
+ID_OF_NA_EARTHDAY24_GOLD_TRAIN_E7,Planet Power: Abundant Growth
+ID_OF_NA_EARTHDAY24_TRAIN_MYTHICUNIQUES,Planet Power: Mythic Horizon
+ID_OF_NA_EARTHDAY24_BLACKKNIGHT_DPC_E7,Planet Power: Gaia's Guardian
+ID_OF_NA_EARTHDAY24_GOLD_E7,Planet Power: Elite Resources
+ID_OF_NA_EARTHDAY24_IRONPATRIOT_GOLD_UNIQUES,Planet Power: Patriotic Cleansing
+ID_OF_NA_EARTHDAY24_GOLD_DPC,Planet Power: Nature's Glory
+ID_OF_NA_EARTHDAY24_VOIDKNIGHTUNIQUE_A18_ISO,Planet Power: Foreign Substances
+ID_OF_NA_EARTHDAY24_VOIDKNIGHT_TRAIN_RSORB,Planet Power: Maelstrom's Might
+ID_OF_NA_EARTHDAY24_DIAMOND_GOLD_ABM,Planet Power: Crystalline Aura
+ID_OF_NA_EARTHDAY24_XTREMEXMEN,Planet Power: Evolutionary Edge
+ID_OF_NA_EARTHDAY24_GWENOMUNIQUE_A18_ISO,Planet Power: Collective's Spores
+ID_OF_NA_EARTHDAY24_GWENOM_TRAIN_RSORB,Planet Power: Symbiotic Web
+ID_OF_NA_EARTHDAY24_GOLD_TEALCAT_A18,Planet Power: Teal Star
+ID_OF_NA_EARTHDAY24_THELEADER_GOLD_UNIQUES,Planet Power: Instinctual Intellect
+ID_OF_NA_EARTHDAY24_REDGOBLINUNIQUE_A18_ISO,Planet Power: Crimson Visitor
+ID_OF_NA_EARTHDAY24_REDGOBLIN_TRAIN_RSORB,Planet Power: Maniacal Mess
+ID_OF_NA_EARTHDAY24_GOLD_E7_1,Planet Power: Bountiful Beauty
+ID_OF_NA_EARTHDAY24_GOLD_TRAINING_A18_T2L5_ISO,Planet Power: Golden Spring
+ID_OF_NA_EARTHDAY24_BLACKKNIGHT_UNIQUE_GOLD_TRAIN,Planet Power: Protector of Peace
+ID_OF_NA_EARTHDAY24_GOLD_ISO_T2L5,Planet Power: Natural Evolution
+ID_OF_NA_EARTHDAY24_DORB_GOLD_ABM_MEGAORB_DDORB_5,Planet Power: Marvelous Thank You!
+ID_OF_NA_EARTHDAY24_DORB_GOLD_ABM_MEGAORB_DDORB_4,Planet Power: Monumental Thank You!
+ID_OF_NA_EARTHDAY24_TRAIN_GOLD_ABM_PREMORBS_3,Planet Power: Massive Thank You!
+ID_OF_NA_EARTHDAY24_TRAIN_GOLD_HC_ENERGY_2,Planet Power: Mighty Thank You!
+ID_OF_NA_EARTHDAY24_TRAIN_GOLD_HC_ENERGY_1,Planet Power: Growth Special!
+ID_OF_DE_EARTHDAY24_DIAMOND_GOLD_TRAIN_DDC_DPC,"Empower your roster with <color=#ffda21>Diamond Orb, Gold</color> & more in this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_GOLD_TRAIN_E7,"Continue your growth with <color=#ffda21>Gold, L4 Training Modules</color> & more in this special offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_TRAIN_MYTHICUNIQUES,"Look ahead with <color=#ffda21>L4 Training Modules, Teal Uniques</color> & more in this special offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_BLACKKNIGHT_DPC_E7,Protect the world with <color=#ffda21>Black Knight shards & Dark Promotion Credits</color> in this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_EARTHDAY24_GOLD_E7,"Stock up on <color=#ffda21>Gold, Elite 7 Credits</color> & more in this special offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_IRONPATRIOT_GOLD_UNIQUES,"Enforce global control with <color=#ffda21>Iron Patriot shards, Augmented Titanium Alloy</color> & more in this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_GOLD_DPC,"Bask in nature's splendor with <color=#ffda21>Gold, Dark Promotion Credits</color> & more in this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_VOIDKNIGHTUNIQUE_A18_ISO,"Synthesize unique substances with <color=#ffda21>Augmented Alien Spores, Armory 18 Orbs</color> & more in this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_VOIDKNIGHT_TRAIN_RSORB,"Make use of circular force with <color=#ffda21>Void Knight shards, L4 Training Modules</color> & more in this special offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_DIAMOND_GOLD_ABM,"Fine tune your roster with a <color=#ffda21>Diamond Orb, Gold</color> & more in this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_XTREMEXMEN,Get the edge on the competition with <color=#ffda21>X-Treme X-Men shards</color> & more in this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_EARTHDAY24_GWENOMUNIQUE_A18_ISO,"Bring up your Gwenom to modern standards with <color=#ffda21>Augmented Experimental Formula, Armory 18 Orbs,</color> & more in this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_GWENOM_TRAIN_RSORB,"Power up your Gwenom with <color=#ffda21>Gwenom shards, L4 Training Modules</color> & more in this special offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_GOLD_TEALCAT_A18,"Shine bright with <color=#ffda21>Gold, Teal Catalyst Packs</color> & more in this special offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_THELEADER_GOLD_UNIQUES,"Make the best moves with <color=#ffda21>The Leader shards, Augmented Gamma Radiation</color> & more in this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_REDGOBLINUNIQUE_A18_ISO,"Give your favorite red symbiote a gift with <color=#ffda21>Augmented H.A.M.M.E.R. Tech, Armory 18 Orbs</color> & more from this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_REDGOBLIN_TRAIN_RSORB,"Dive into chaos with <color=#ffda21>Red Goblin, L4 Training Modules</color> & more in this special offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_GOLD_E7_1,"Behold nature's wonder with <color=#ffda21>Gold, Elite 7 Credits</color> & more in this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_GOLD_TRAINING_A18_T2L5_ISO,"Drink from the well of abundance of <color=#ffda21>Gold, L4 Training Modules</color> & more from this special offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_BLACKKNIGHT_UNIQUE_GOLD_TRAIN,"Ensure peace prevails with <color=#ffda21>Black Knight shards, Augmented Arcane Magic</color> & more in this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_GOLD_ISO_T2L5,"Transform your roster into it's best form with <color=#ffda21>Gold, T2 Level 5 Ions</color> & more in this special offer. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_DORB_GOLD_ABM_MEGAORB_DDORB_5,Marvelous! Please enjoy this maximum value special offer (5/5)! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_EARTHDAY24_DORB_GOLD_ABM_MEGAORB_DDORB_4,"Thank you for your enthusiastic support! 20% bonus sale value has been added (4/5)! Next step features <color=#800080>Diamond Orbs, Gold, T4 Ability Material</color> & more with 20% bonus value added in total! <color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_TRAIN_GOLD_ABM_PREMORBS_3,"Thank you for your massive support! 10% bonus sale value has been added (3/5)! Next step features a <color=#800080>Diamond Orb, Gold, T4 Ability Material</color> & more with 20% bonus value added in total! <color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_TRAIN_GOLD_HC_ENERGY_2,"Thank you for your support! 10% bonus value has been added (2/5)! Next step features <color=#800080>Gold, T4 Ability Material</color> & more with 10% bonus value added in total! <color=#ffda21>Greater than {var1}x value</color>!"
+ID_OF_DE_EARTHDAY24_TRAIN_GOLD_HC_ENERGY_1,"Enjoy <color=#ffda21>Gold, Power Cores</color> & more in this limited time chain offer (1/5)! Next step features <color=#800080>Gold, L4 Training Modules</color> & more with 10% bonus value added in total! <color=#ffda21>A {var1}x value</color>!"

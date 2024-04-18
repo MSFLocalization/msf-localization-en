@@ -2365,3 +2365,9 @@ ID_INFO_BO_EARTHLINGSNEEDED,<color=#fff568>Earthlings Needed Milestone</color>\n
 ID_INFO_NA_EARTHLINGSNEEDED_BONUS,Planetary Bonus
 ID_INFO_DE_EARTHLINGSNEEDED_BONUS,Earn more Planetary Orbs!
 ID_INFO_BO_EARTHLINGSNEEDED_BONUS,"Peter B. Parker is swinging into the Isotope-8 Campaign. For a limited time, earn additional <color=#fff568>Planetary Orb Fragments</color> on the following campaign nodes:\n- Isotope-8 Hard Mode 1-4\n- Isotope-8 Hard Mode 1-7\n- Isotope-8 Hard Mode 1-10\n- Isotope-8 Hard Mode 2-3\n- Isotope-8 Hard Mode 2-6\n- Isotope-8 Hard Mode 2-9"
+ID_INFO_NA_GOLDENHOUR,Golden Hour
+ID_INFO_DE_GOLDENHOUR,Unlock Spider-Man (Pavitr)!
+ID_INFO_BO_GOLDENHOUR,"<color=#fff568>Golden Hour Milestone</color>\nGain progress in this <color=#fff568>8-day</color> event by collecting Shiny Coins or battling through Raids with Peter B. Parker, Spider-Man [Pavitr] or Peni Parker. Earn cosmic rewards including <color=#fff568>Spider-man [Pavitr] shards and Crimson Gear</color>. Compete in the leaderboard for a 3 Diamond Black Cat, Gear Tier 19 Tech Mini-Uniques, and T2 Level 5 Ions. You'll also earn points towards the month-long Nature/Nurture milestone by collecting Gamma Rays and the Sun Rays.\n\n<color=#fff568>Peace and Love Web Milestone</color>\nSpend Shiny Coins and be rewarded with Gamma Rays, Gold Promotion Credits and Rise of the Planet Milestone Points. Keep an eye out for Free Claims containing Shiny Coins every day!"
+ID_INFO_NA_RISEOFTHEPLANET,Rise of the Planet
+ID_INFO_DE_RISEOFTHEPLANET,Earn Shiny Coins and Nature/Nurture progress!
+ID_INFO_BO_RISEOFTHEPLANET,"Collaborate with your alliance to battle through Raids and earn Allied Supply IV Orb Fragments. Allied Supply IV Orb Fragments can be found in daily Free Claims on the web and special offers in the store. "

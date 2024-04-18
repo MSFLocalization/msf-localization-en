@@ -242,8 +242,8 @@ ID_EVENT_CUR16_NAME,Crimson Tombstone
 ID_EVENT_CUR16_DESCRIPTION,"Collect Crimson Tombstones for additional progress in the Slick Outbreak Milestone. Earn them via Viral Orbs from the Unstoppable Undead Event, Daily Free Claims on our website and limited time offers!"
 ID_EVENT_CUR17_NAME,Planetary Orb Fragment
 ID_EVENT_CUR17_DESCRIPTION,Open Planetary Orbs for Peter B. Parker shards!
-ID_EVENT_CUR18_NAME,Allied Supply Orb Fragments
-ID_EVENT_CUR18_DESCRIPTION,Open Allied Supply Orbs to get Apocalypse Bounty Orbs for T2 Level 5 Ions and Alliance Event Progress. Earn them in limited offers!
+ID_EVENT_CUR18_NAME,Shiny Coin
+ID_EVENT_CUR18_DESCRIPTION,Collect Shiny Coin to spend in the Shiny Coin Event Store.
 ID_EVENT_CUR19_NAME,TVA Gift Shop
 ID_EVENT_CUR19_DESCRIPTION,Spend TVA Gift Cards at the TVA Gift Shop. Only for a limited time
 ID_PROMOTION_CUR_NAME,Silver Promotion Credit
@@ -482,3 +482,7 @@ ID_EVTA_META_MAR_Y_NAME,Kestrel's Helmet
 ID_EVTA_META_MAR_Y_DESCRIPTION,Collect the Kestrel's Helmet for points in the Sixth Anniversary Event. Earn it in the Legacy of S.T.R.I.K.E. Event!
 ID_EVTA_META_MAR_Z_NAME,Nick Fury's Eyepatch
 ID_EVTA_META_MAR_Z_DESCRIPTION,"Collect the Nick Fury's Eyepatch for points in the Sixth Anniversary Event. Earn it in the 2,192 Days of S.T.R.I.K.E. Event!"
+ID_EVTA_META_APR_J_NAME,Golden Hour Milestone Points
+ID_EVTA_META_APR_J_DESCRIPTION,These points earn you additional progress in the Golden Hour Milestone. Earn them in limited offers!
+ID_EVTA_META_APR_K_NAME,Rise of the Planet Milestone Points
+ID_EVTA_META_APR_K_DESCRIPTION,These points earn you additional progress in the Rise of the Planet Milestone. Earn them in limited offers and in the Peace and Love Web Milestone!
