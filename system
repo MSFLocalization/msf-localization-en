@@ -1361,6 +1361,12 @@ ID_REQUIRES_SURVIVALTOWER_LEGENDARY_SHORT,REQUIRES:\n<color=#fff568>LEGENDARY</c
 ID_REQUIRES_SURVIVALTOWER_LEGENDARY,<size=80%>REQUIRES:</size>\n<color=#fff568>LEGENDARY</color>\n<color=#fff568>GEAR TIER 18</color>
 ID_REQUIRES_SURVIVALTOWER_VILLAIN_BIO_SHORT,REQUIRES:\n<color=#fff568>VILLAIN BIO</color> at Gear Tier 18
 ID_REQUIRES_SURVIVALTOWER_VILLAIN_BIO,<size=80%>REQUIRES:</size>\n<color=#fff568>VILLAIN BIO</color>\n<color=#fff568>GEAR TIER 18</color>
+ID_REQUIRES_SURVIVALTOWER_VILLAIN_BIO_UNDYING_SHORT,REQUIRES:\n<color=#fff568>VILLAIN BIO</color> or <color=#fff568>UNDYING</color> at Gear Tier 18
+ID_REQUIRES_SURVIVALTOWER_VILLAIN_BIO_UNDYING,<size=80%>REQUIRES:</size>\n<nobr><color=#fff568>VILLAIN BIO</color></nobr> or\n<nobr><color=#fff568>UNDYING</color></nobr>\n<nobr><color=#fff568>GEAR TIER 18</color></nobr>
+ID_REQUIRES_SURVIVALTOWER_SPIDERVERSE_SKILL_SHORT,REQUIRES:\n<color=#fff568>SPIDER-VERSE SKILL</color> at Gear Tier 18
+ID_REQUIRES_SURVIVALTOWER_SPIDERVERSE_SKILL,<size=80%>REQUIRES:</size>\n<nobr><color=#fff568>SPIDER-VERSE SKILL</color></nobr>\n<nobr><color=#fff568>GEAR TIER 18</color></nobr>
+ID_REQUIRES_SURVIVALTOWER_CABAL_UNDERWORLD_SHORT,REQUIRES:\n<color=#fff568>CABAL</color> or <color=#fff568>UNDERWORLD</color> at Gear Tier 18
+ID_REQUIRES_SURVIVALTOWER_CABAL_UNDERWORLD,<size=80%>REQUIRES:</size>\n<nobr><color=#fff568>CABAL</color></nobr> or\n<nobr><color=#fff568>UNDERWORLD</color></nobr>\n<nobr><color=#fff568>GEAR TIER 18</color></nobr>
 ID_REQ_XTXM_DIF2_ST_CAMP,5 <color=#fff568>X-TREME X-MEN</color> or <color=#fff568>SECRET DEFENDERS</color>
 ID_REQ_XTXM_DIF4_TH_CAMP,"5 <color=#fff568>X-TREME X-MEN</color>, Gear Tier: <color=#fff568>14</color>, Yellow Stars: <color=#fff568>4</color>"
 ID_REQ_XTXM_DIF5_BO_CAMP,"5 <color=#fff568>X-TREME X-MEN</color>, Gear Tier: <color=#fff568>16</color>, Yellow Stars: <color=#fff568>6</color>"
