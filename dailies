@@ -337,6 +337,10 @@ ID_LOGIN_BO_VDAY24,"Commander,\n\nThank you for playing MARVEL Strike Force!\n\n
 ID_LOGIN_BO_VDAY24_BACKUP,"Commander,\n\nThank you for playing MARVEL Strike Force!\n\nTo show our appreciation for your continued passion and support, here is a very special Valentine's Day gift to share with your favorite characters!\n\nBe on the lookout for more upcoming fun events.\n\n- MARVEL Strike Force Dev Team"
 ID_LOGIN_NA_ANNIV24_PROMOCAL7D_CAL,Anniversary
 ID_LOGIN_DE_ANNIV24_PROMOCAL7D_CAL,Login daily for high value promotional materials to celebrate!
+ID_LOGIN_NA_GOLDENWEEK24_CAL,Golden Week
+ID_LOGIN_DE_GOLDENWEEK24_CALDPCDDC7D_CAL,Login daily for high value dark promotional credits to celebrate!
+ID_LOGIN_DE_GOLDENWEEK24_CALUNIQUES7D_CAL,Login daily for more Teal Uniques to celebrate!
+ID_LOGIN_DE_GOLDENWEEK24_CALHOLIDAYSHARD7D_CAL,Login daily for the newest shards to celebrate!
 ID_LOGIN_VALUABLELESSONS_NA,Valuable Lessons
 ID_LOGIN_VALUABLELESSONS_DE,Log in every day to earn wonderful rewards in celebration of Valuable Lessons event!
 ID_LOGIN_CATALYSTBLAST_NA,Catalyst Blast
@@ -737,3 +741,5 @@ ID_LOGIN_NA_EARTHLINGSNEEDED,Earthlings Needed: Calendar
 ID_LOGIN_DE_EARTHLINGSNEEDED,Earn Planetary Orbs to progress in the milestone!
 ID_LOGIN_NA_REACTIVATIONTEST2,Extra Rewards!
 ID_LOGIN_DE_REACTIVATIONTEST2,Continue to play every day and get glorious resources with this calendar!
+ID_LOGIN_NA_XMEN97,X-Men '97
+ID_LOGIN_DE_XMEN97,Log in 7 days to get Wolverine's new costume inspired by the show!

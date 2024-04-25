@@ -8976,6 +8976,10 @@ ID_GACHA_CRATE_PLANETARY_NAME,Planetary Orb
 ID_GACHA_CRATE_PLANETARY_DESCRIPTION,Earn Peter B. Parker shards!
 ID_GACHA_CRATE_PLANETARY_TOKEN_NAME,Planetary Orb Fragment
 ID_GACHA_CRATE_PLANETARY_TOKEN_DESCRIPTION,Earn progress in the Earthlings Needed Milestone and open Planetary Orbs for Peter B. Parker shards!
+ID_GACHA_CRATE_GLITTERINGGOLD_NAME,Glittering Gold Orb
+ID_GACHA_CRATE_GLITTERINGGOLD_DESCRIPTION,"Contains Gold, Shiny Coins, and the Golden Kang Costume"
+ID_GACHA_CRATE_GLITTERINGGOLD_TOKEN_NAME,Glittering Gold Orb Fragments
+ID_GACHA_CRATE_GLITTERINGGOLD_TOKEN_DESCRIPTION,Find Glittering Gold Orb Fragments in a special offer
 ID_GACHA_CRATE_DD7COUNTDOWN_NAME,Dark Dimension VII Booster Orb
 ID_GACHA_CRATE_DD7COUNTDOWN_DESCRIPTION,Conquer the Darkness with Crimson Gear and more!
 ID_GACHA_CRATE_DD7COUNTDOWN_TOKEN_NAME,Dark Dimension VII Booster Orb Fragments
