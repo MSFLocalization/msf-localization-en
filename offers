@@ -7528,9 +7528,164 @@ ID_OF_DE_EARTHDAY24_DORB_GOLD_ABM_MEGAORB_DDORB_4,"Thank you for your enthusiast
 ID_OF_DE_EARTHDAY24_TRAIN_GOLD_ABM_PREMORBS_3,"Thank you for your massive support! 10% bonus sale value has been added (3/5)! Next step features a <color=#800080>Diamond Orb, Gold, T4 Ability Material</color> & more with 20% bonus value added in total! <color=#ffda21>Greater than {var1}x value</color>!"
 ID_OF_DE_EARTHDAY24_TRAIN_GOLD_HC_ENERGY_2,"Thank you for your support! 10% bonus value has been added (2/5)! Next step features <color=#800080>Gold, T4 Ability Material</color> & more with 10% bonus value added in total! <color=#ffda21>Greater than {var1}x value</color>!"
 ID_OF_DE_EARTHDAY24_TRAIN_GOLD_HC_ENERGY_1,"Enjoy <color=#ffda21>Gold, Power Cores</color> & more in this limited time chain offer (1/5)! Next step features <color=#800080>Gold, L4 Training Modules</color> & more with 10% bonus value added in total! <color=#ffda21>A {var1}x value</color>!"
+ID_OF_NA_MISFORMERCS_STARTER_MEGA,Red Hot Start
+ID_OF_NA_MISFORMERCS_STARTER_SUPER,Early Merc Special
+ID_OF_NA_MISFORMERCS_STARTER,One Step Ahead
+ID_OF_NA_MISFORMERCS_BOOSTER_ANCHOR,Daily Supply Drop
+ID_OF_NA_MISFORMERCS_MEGA,Mega Merc
+ID_OF_NA_MISFORMERCS_LEGACY,Legacy Special
+ID_OF_NA_MISFORMERCS_SHARDS,Recruitment Special
+ID_OF_NA_MISFORMERCS_CATS,Event Catalysts
+ID_OF_NA_MISFORMERCS_TRAINING,Training Camp
+ID_OF_NA_MISFORMERCS_GOLD,Strike Gold
+ID_OF_NA_MISFORMERCS_DPC,Dark Power
+ID_OF_NA_MISFORMERCS_AB,Amazing Abilities
+ID_OF_NA_MISFORMERCS_CATCHUP_MEGA,M is for Mercs: Mega Catch-Up
+ID_OF_NA_MISFORMERCS_CATCHUP_SUPER,M is for Mercs: Super Catch-Up
+ID_OF_NA_MISFORMERCS_CATCHUP_LAST_CHANCE,Time is Running Out
+ID_OF_NA_MISFORMERCS_FREEDAILY,M is for Mercs: Free Claim
+ID_OF_DE_MISFORMERCS_STARTER_MEGA,"Stock up on <color=#fff568>M is for Mercs</color> progress and exclusive items, and get ahead on the M is for Mercs Leaderboard for <color=#fff568>Diamond Orbs</color> and <color=#fff568>Diamond Champions Orbs</color>!"
+ID_OF_DE_MISFORMERCS_STARTER_SUPER,Get ahead in the <color=#fff568>M is for Mercs</color> milestone and fast-forward your way to the <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_MISFORMERCS_STARTER,Start off strong in the <color=#fff568>M is for Mercs</color> milestone!
+ID_OF_DE_MISFORMERCS_BOOSTER_ANCHOR,Make consistent <color=#fff568>M is for Mercs</color> progress with this daily <color=#fff568>Mission Supplies</color> drop!
+ID_OF_DE_MISFORMERCS_MEGA,Stock up on <color=#fff568>M is for Mercs event progress</color> and <color=#fff568>Mega Orbs</color> with this special deal!
+ID_OF_DE_MISFORMERCS_LEGACY,Stock up on <color=#fff568>M is for Mercs event progress</color> and <color=#fff568>Legacy Orbs</color> with this special deal!
+ID_OF_DE_MISFORMERCS_SHARDS,Stock up on <color=#fff568>M is for Mercs event progress</color> and <color=#fff568>character shards</color> with this special deal!
+ID_OF_DE_MISFORMERCS_CATS,Stock up on <color=#fff568>M is for Mercs event progress</color> and <color=#fff568>Catalyst Parts</color> with this special deal!
+ID_OF_DE_MISFORMERCS_TRAINING,Stock up on <color=#fff568>M is for Mercs event progress</color> and <color=#fff568>Training Modules</color> with this special deal!
+ID_OF_DE_MISFORMERCS_GOLD,Stock up on <color=#fff568>M is for Mercs event progress</color> and <color=#fff568>Gold</color> with this special deal!
+ID_OF_DE_MISFORMERCS_DPC,Stock up on <color=#fff568>M is for Mercs event progress</color> and <color=#fff568>Dark Promotion Credits</color> with this special deal!
+ID_OF_DE_MISFORMERCS_AB,Stock up on <color=#fff568>M is for Mercs event progress</color> and <color=#fff568>Ability Materials</color> with this special deal!
+ID_OF_DE_MISFORMERCS_CATCHUP_MEGA,Finish strong in the milestones and leaderboards for <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_MISFORMERCS_CATCHUP_LAST_CHANCE,Catch this deal before it's too late to earn your final <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_MISFORMERCS_FREEDAILY,Come back daily for more <color=#fff568>M is for Mercs</color> progress!
+ID_OF_NA_ALLTHATGLITTERS_STARTER,All That Glitters: Starter
+ID_OF_NA_ALLTHATGLITTERS_CATCHUP,All That Glitters: Catch-up
+ID_OF_NA_ALLTHATGLITTERS_ORB_SPECIAL,All That Glitters: Glittering Gold
+ID_OF_NA_ALLTHATGLITTERS_DAILY_CURRENCY,All That Glitters: Daily Coins
+ID_OF_NA_ALLTHATGLITTERS_DAILY_BLITZ,Stashed Cache: Daily Blitz
+ID_OF_NA_ALLTHATGLITTERS_DAILY_ENERGY,All That Glitters: Daily Energy
+ID_OF_NA_ALLTHATGLITTERS_DAILY_INTERSTITIAL,All That Glitters: Hidden Trove
+ID_OF_NA_ALLTHATGLITTERS_DAILY_FREE_CLAIM,All That Glitters: Free Claim
+ID_OF_DE_ALLTHATGLITTERS_STARTER,Get ahead in the <color=#fff568>All That Glitters</color> Milestone and start making your way toward <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Skill Gear</color>!
+ID_OF_DE_ALLTHATGLITTERS_CATCHUP,Finish strong in the <color=#fff568>All That Glitters</color> Milestone to earn <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Skill Gear</color>!
+ID_OF_DE_ALLTHATGLITTERS_ORB_SPECIAL,"One time special! Open the Glittering Gold Orb and earn the Golden Kang Costume, <var1> Gold, and <var2> Shiny Coins!"
+ID_OF_DE_ALLTHATGLITTERS_DAILY_CURRENCY,Make progress in the <color=#fff568>All That Glitters</color> Milestone by collecting more <color=#fff568>Shiny Coins</color>!
+ID_OF_DE_ALLTHATGLITTERS_DAILY_BLITZ,Get your daily Blitz Credits and Charges to progress in the daily <color=#fff568>Stashed Cache</color> Web Milestone!
+ID_OF_DE_ALLTHATGLITTERS_DAILY_ENERGY,Get your daily Incursion energy fix to get ahead in the <color=#fff568>All That Glitters</color> Milestone!
+ID_OF_DE_ALLTHATGLITTERS_DAILY_INTERSTITIAL,Get boosted <color=#fff568>All That Glitters</color> progress with this daily trove of resources!
+ID_OF_DE_ALLTHATGLITTERS_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>All That Glitters</color> progress!
 ID_OF_NA_MONTHLYSPECIAL_THELEADER,May Special: The Mastermind
 ID_OF_DE_MONTHLYSPECIAL_THELEADER,Power up <color=#fff568>The Leader</color> with this web-only offer! <color=#fff568>The Leader</color> gives boosts to his <color=#fff568>Villan</color> allies in Cosmic Crucible!
 ID_OF_NA_MONTHLYSPECIAL_OUTOFTIME,"May Special: Out Of Time "
-ID_OF_DE_MONTHLYSPECIAL_OUTOFTIME,Power up these characters before your Out of Time! Get <color=#fff568>Cosmic Ghost Rider & Starbrand</color> shards with this special offer!
+ID_OF_DE_MONTHLYSPECIAL_OUTOFTIME,Power up these characters before you're Out of Time! Get <color=#fff568>Cosmic Ghost Rider & Starbrand</color> shards with this special offer!
 ID_OF_NA_DD7COUNTDOWNORB,Conquer the Darkness
 ID_OF_DE_DD7COUNTDOWNORB,"<color=#f12603>Dark Dimension VII Launch Special!</color> Take your top characters into Dark Dimension VII with this exclusive opportunity to purchase <color=#f12603>Dark Dimension VII Booster Orbs</color>! Each orb contains <color=#f12603>Crimson Gear</color>, Armory 18 Orb Fragments and more!"
+ID_OF_NA_GOLDENWEEK24_PETERBPAVITR,Society Special
+ID_OF_NA_GOLDENWEEK24_CALDPCDDC7D,Promotional Party
+ID_OF_NA_GOLDENWEEK24_PENIPARKERGOLD,Golden SP//dr
+ID_OF_NA_GOLDENWEEK24_LEADERTRAIN,Most Valuable Brain
+ID_OF_NA_GOLDENWEEK24_TRAINABM,Appreciated Ability
+ID_OF_NA_GOLDENWEEK24_DPCE7,Profitable Promos
+ID_OF_NA_GOLDENWEEK24_GOLDSTATCAT,Treasured Catalysts
+ID_OF_NA_GOLDENWEEK24_TRAINCGR,Ghostly Gathering
+ID_OF_NA_GOLDENWEEK24_CALUNIQUES7D,Equip and Excel
+ID_OF_NA_GOLDENWEEK24_DAWNABMTRAIN,Shining Upgrade
+ID_OF_NA_GOLDENWEEK24_NIGHTCRAWLERUNIQUETRAIN,BAMF Bonanza
+ID_OF_NA_GOLDENWEEK24_GOLDA18,Armory Acquisition
+ID_OF_NA_GOLDENWEEK24_GOLDTRAINDDCTEST,Brilliant Bundle
+ID_OF_NA_GOLDENWEEK24_DPCDDCE7,Delightfully Dark
+ID_OF_NA_GOLDENWEEK24_CALHOLIDAYSHARD7D,Shard Spectacular
+ID_OF_NA_GOLDENWEEK24_TOPUNIQUES,Uplifting Uniques
+ID_OF_NA_GOLDENWEEK24_GOLDDPC,Golden Greatness
+ID_OF_NA_GOLDENWEEK24_TRAININGISO,Charged Bootcamp
+ID_OF_NA_GOLDENWEEK24_GOLDTRAINBC,Skillful Savings
+ID_OF_NA_GOLDENWEEK24_ORBABM,Opulent Orbs
+ID_OF_NA_GOLDENWEEK24_BKSTARUNIQUE,Timeless Protection
+ID_OF_NA_GOLDENWEEK24_GOLDTRAINDDCTEST2,Powerful Performance
+ID_OF_NA_GOLDENWEEK24_DPCPROMO,Posh Promotions
+ID_OF_NA_GOLDENWEEK24_GEARGOLDORB,Affluent Armory
+ID_OF_NA_GOLDENWEEK24_TRAINGOLDABM,Cherished Cache
+ID_OF_NA_GOLDENWEEK24_UNIQUEGOLDORB,Coveted Treasure
+ID_OF_NA_GOLDENWEEK24_DAWNORBTRAIN,Delightful Dawn
+ID_OF_NA_GOLDENWEEK24_IRONPATGOLD,Patriotic Pack
+ID_OF_NA_GOLDENWEEK24_GOLDE7,Pompous Promotion
+ID_OF_NA_GOLDENWEEK24_VKREDGOBLIN,Helpful Hive-Mind
+ID_OF_NA_GOLDENWEEK24_DIAMONDCOMBO,Gracious Combo
+ID_OF_NA_GOLDENWEEK24_GOLDISOION,Glittering Ions
+ID_OF_NA_GOLDENWEEK24_TRAINDDCE7,Invaluable Leveling
+ID_OF_NA_GOLDENWEEK24_DDCDPCGOLD,Dark Promotion
+ID_OF_NA_GOLDENWEEK24_STATCATABM,Catalyst of Change
+ID_OF_NA_GOLDENWEEK24_TRAINGOLDORB,Valuable Cache
+ID_OF_NA_GOLDENWEEK24_GOLDDPCGOLDORB,Promotional Powerhouse
+ID_OF_NA_GOLDENWEEK24_LEADERIRONPAT,Cabal Combo
+ID_OF_NA_GOLDENWEEK24_TRAININGABM,Developed Ability
+ID_OF_NA_GOLDENWEEK24_CABALUNIQUEGOLDORB,Equip the Cabal
+ID_OF_NA_GOLDENWEEK24_GOLDT2L5,Golden Charge
+ID_OF_NA_GOLDENWEEK24_E7DPC,Elite Promotions
+ID_OF_DE_GOLDENWEEK24_PETERBPAVITR,Swing into action and level up the Spider-Society for future raids! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_CALDPCDDC7D,Don't miss this massive value on Dark Diamond and Dark Promotion Credits! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_PENIPARKERGOLD,Send your allies even more Ability Energy to dominate for the future raids! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_LEADERTRAIN,Power up your Villians with special offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_TRAINABM,Continue your progression with this special offer of Training Modules and T4 Ability Materials! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_DPCE7,Raid the Supplies Store with more Dark Promotion Credits! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_GOLDSTATCAT,Stock up on Gold and Stat Catalysts with this special offer! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_TRAINCGR,Train up your roster with this special offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_CALUNIQUES7D,Grab this Calendar of <color=#fff568>Teal Mini-Uniques</color>! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_DAWNABMTRAIN,Take advantage of this special offer on a Diamond Dawn Orb and more! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_NIGHTCRAWLERUNIQUETRAIN,Power up <color=#fff568>Nightcrawler</color> with this special offer! BAMF! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_GOLDA18,Develop your teams further with this special offer of Gold and Armory 18 Orbs! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_GOLDTRAINDDCTEST,"Power up your roster with this special offer of Gold, Training Modules and Dark Diamond Credits! <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_GOLDENWEEK24_DPCDDCE7,Promote your favorite characters with this exclusive offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_CALHOLIDAYSHARD7D,The most recent characters are lined up to join your roster with this Calendar! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_TOPUNIQUES,Seize this offer for more <color=#fff568>Teal Mini-Uniques</color>! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_GOLDDPC,Boost your roster fast with this special offer of Gold and Dark Promotion Credits! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_TRAININGISO,Push your roster to the top with more Training Modules in this exclusive offer! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_GOLDTRAINBC,Grab more Gold Orbs and Training Orbs to level up your roster! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_ORBABM,Don't miss out on a glorious amount of orbs to power up your roster and take on new challenges! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_BKSTARUNIQUE,Hold your ground and don't pass up on this exclusive offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_GOLDTRAINDDCTEST2,"Power up your roster with this special offer of Gold, Training Modules and Dark Diamond Credits! <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_GOLDENWEEK24_DPCPROMO,There's more red stars to be had! Don't let your roster fall behind! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_GEARGOLDORB,Grab a hoard of Armory 18 orbs to prepare your roster for Armory 19!! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_TRAINGOLDABM,"Train up your roster with this special offer of Training Modules, Gold, and T4 Ability Materials! <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_GOLDENWEEK24_UNIQUEGOLDORB,Seize this offer for more <color=#fff568>Teal Mini-Uniques</color>! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_DAWNORBTRAIN,Take advantage of this special offer on a Diamond Dawn Orb and more! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_IRONPATGOLD,Show off the pride of the Cabal with this special offer! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_GOLDE7,Keep your coffers full with this special Gold offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_VKREDGOBLIN,Stay in sync with this special Hive-Mind offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_DIAMONDCOMBO,Take advantage of this amazing spring special on <color=#ffda21>Diamond Orbs and Gold</color>!
+ID_OF_DE_GOLDENWEEK24_GOLDISOION,Build up a strong foundation towards longevity with this essential combo offer! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_TRAINDDCE7,Only way is up with this exclusive offer on Training Materials and Dark Promotion Credits! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_DDCDPCGOLD,Continue on your path to excellence with a high value offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_STATCATABM,Kick start the change you need to advance your roster with this special time limited offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_TRAINGOLDORB,Train up your roster with this special offer of Training Modules and Gold! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_GOLDDPCGOLDORB,Build your roster towards perfection with <color=#ffda21>Gold and Dark Diamond Credits</color>! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_LEADERIRONPAT,Build your IQ and your suit of armor with this powerful special offer! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_TRAININGABM,Improve your skills with the <color=#fff568>T4 Ability Material & L4 Training Modules</color> from this special offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_CABALUNIQUEGOLDORB,Seize this offer for more <color=#fff568>Teal Mini-Uniques</color> for your Cabal! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GOLDENWEEK24_GOLDT2L5,"Super charge your treasury and roster with <color=#fff568>Gold, Tier 2 Level 5 Ions</color> and more! <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_GOLDENWEEK24_E7DPC,Take control of your own destiny and promote only the best with this high value holiday special! <color=#ffda21>A {var1}x value</color>!
+ID_OF_NA_DRAFT_DIAMONDS_XTR,Diamonds Draft: X-Treme X-Men
+ID_OF_NA_DRAFT_DIAMONDS_PEGASUS,Diamonds Draft: P.E.G.A.S.U.S.
+ID_OF_NA_DRAFT_DIAMONDS_GLOBALMYSTIC,Diamonds Draft: Global Mystics
+ID_OF_NA_DRAFT_DIAMONDS_VILLAINBIO,Diamonds Draft: Sinister 6
+ID_OF_NA_DRAFT_DIAMONDS_VILLAINMUTANT,Diamonds Draft: Mutant Villains
+ID_OF_DE_DRAFT_DIAMONDS_XTR,Blast through <color=#fff568>Kyln Tower's Cells 32-34</color> with this exclusive Diamonds Draft! Purchase this Offer for a chance to earn up to {var1}-Diamonds for a <color=#fff568>X-Treme X-Men</color> character!
+ID_OF_DE_DRAFT_DIAMONDS_PEGASUS,Blast through <color=#fff568>Kyln Tower's Cells 30-31</color> with this exclusive Diamonds Draft! Purchase this Offer for a chance to earn up to {var1}-Diamonds for a <color=#fff568>P.E.G.A.S.U.S.</color> character!
+ID_OF_DE_DRAFT_DIAMONDS_GLOBALMYSTIC,Blast through <color=#fff568>Kyln Tower's Cells 23-25</color> with this exclusive Diamonds Draft! Purchase this Offer for a chance to earn up to {var1}-Diamonds for a <color=#fff568>Global Mystic</color> character!
+ID_OF_DE_DRAFT_DIAMONDS_VILLAINBIO,Blast through <color=#fff568>Kyln Tower's Cells 38-40</color> with this exclusive Diamonds Draft! Purchase this Offer for a chance to earn up to {var1}-Diamonds for a <color=#fff568>Sinister 6</color> character!
+ID_OF_DE_DRAFT_DIAMONDS_VILLAINMUTANT,Blast through <color=#fff568>Kyln Tower's Cells 26-28</color> with this exclusive Diamonds Draft! Purchase this Offer for a chance to earn up to {var1}-Diamonds for a <color=#fff568>Mutant Villain</color> character!
+ID_OF_NA_PANDAPOOL_FCO_OFFER,The Panda with the Mouth
+ID_OF_DE_PANDAPOOL_FCO_OFFER,Each <color=#fff568>Clawed Cuddler Orb</color> contains <color=#fff568>up to 180 Pandapool</color> shards. <color=#fff568>Pandapool</color> has the power to deny his own extinction! Pandapool endangers you!
+ID_OF_DE_PANDAPOOL_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Pandapool</color> and unlock one-time only release offers on your next visit! <color=#fff568>Pandapool</color> has the power to deny his own extinction! Pandapool endangers you!
+ID_OF_DE_PANDAPOOL_OFFER_SHARD,Power up <color=#fff568>Pandapool</color> with this shard offer! <color=#fff568>Pandapool</color> has the power to deny his own extinction! Pandapool endangers you!
+ID_OF_DE_PANDAPOOL_UNLOCK_OFFER,Unlock <color=#fff568>Pandapool</color> now! <color=#fff568>Pandapool</color> has the power to deny his own extinction! Pandapool endangers you!
+ID_OF_STOREBAR_PANDAPOOL,Dual Offer: Pandapool
+ID_OF_NA_DUAL_PANDAPOOL,Dual Offer: Pandapool
+ID_OF_DE_DUAL_PANDAPOOL,Choose your path to power up this <color=#fff568>Mercs for Money</color> member!
+ID_OF_DE_DUAL_UNLOCK_PANDAPOOL,Unlock this <color=#fff568>Mercs for Money</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_PANDAPOOL_FCO_OFFER_BASIC,Pandapool Release Offer
+ID_OF_NA_PANDAPOOL_WEB_EXTRA_FCO_OFFER,Pandapool Unlock Offer
+ID_OF_DE_PANDAPOOL_WEB_EXTRA_FCO_OFFER,"The The Panda with the Mouth, <color=#fff568>Pandapool</color>, has arrived!"
+ID_OF_NA_PANDAPOOL_WEB_SPECIAL_OFFER,The Panda with the Mouth Special
+ID_OF_DE_PANDAPOOL_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color><color=#fff568>Pandapool</color> has the power to deny his own extinction! Pandapool endangers you!

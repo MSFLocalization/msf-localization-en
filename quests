@@ -3608,19 +3608,19 @@ ID_QU_S1_SPLASH_RAISETHESHIELD,Win Blitz with 3-star or higher S.H.I.E.L.D. Char
 ID_QU_S2_SPLASH_RAISETHESHIELD,Win Blitz with 5-star or higher S.H.I.E.L.D. Character
 ID_QU_S3_SPLASH_RAISETHESHIELD,Win Blitz with 7-star S.H.I.E.L.D. Character
 ID_QU_NA_SPLASH_NEWRECRUITS,New Recruits
-ID_QU_SD_SPLASH_NEWRECRUITS,Use New Avenger in Blitz
+ID_QU_SD_SPLASH_NEWRECRUITS,Use New Avengers in Blitz
 ID_QU_LM_SPLASH_NEWRECRUITS,Earn points by using New Avenger characters in Blitz Battles. Earn more points if your New Avenger characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
 ID_QU_SC_SPLASH_NEWRECRUITS,Use New Avenger Characters in Blitz
-ID_QU_S1_SPLASH_NEWRECRUITS,Win Blitz with 3-star or higher New Avenger Character
-ID_QU_S2_SPLASH_NEWRECRUITS,Win Blitz with 5-star or higher New Avenger Character
-ID_QU_S3_SPLASH_NEWRECRUITS,Win Blitz with 7-star New Avenger Character
+ID_QU_S1_SPLASH_NEWRECRUITS,Win Blitz with a 3-star or higher New Avenger Character
+ID_QU_S2_SPLASH_NEWRECRUITS,Win Blitz with a 5-star or higher New Avenger Character
+ID_QU_S3_SPLASH_NEWRECRUITS,Win Blitz with a 7-star New Avenger Character
 ID_QU_NA_SPLASH_SHADOWHEROICS,Shadow Heroics
 ID_QU_SD_SPLASH_SHADOWHEROICS,Use Secret Defenders in Blitz
-ID_QU_LM_SPLASH_SHADOWHEROICS,Earn points by using Secret Defenders characters in Blitz Battles. Earn more points if your Secret Defenders characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
-ID_QU_SC_SPLASH_SHADOWHEROICS,Use Secret Defenders Characters in Blitz
-ID_QU_S1_SPLASH_SHADOWHEROICS,Win Blitz with 3-star or higher Secret Defenders Character
-ID_QU_S2_SPLASH_SHADOWHEROICS,Win Blitz with 5-star or higher Secret Defenders Character
-ID_QU_S3_SPLASH_SHADOWHEROICS,Win Blitz with 7-star Secret Defenders Character
+ID_QU_LM_SPLASH_SHADOWHEROICS,Earn points by using Secret Defender characters in Blitz Battles. Earn more points if your Secret Defender characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_SHADOWHEROICS,Use Secret Defender Characters in Blitz
+ID_QU_S1_SPLASH_SHADOWHEROICS,Win Blitz with a 3-star or higher Secret Defender Character
+ID_QU_S2_SPLASH_SHADOWHEROICS,Win Blitz with a 5-star or higher Secret Defender Character
+ID_QU_S3_SPLASH_SHADOWHEROICS,Win Blitz with a 7-star Secret Defender Character
 ID_QU_NA_SPLASH_MEANDTHEBOYS,Me and the Boys
 ID_QU_SD_SPLASH_MEANDTHEBOYS,Use Sinister Six in Blitz
 ID_QU_LM_SPLASH_MEANDTHEBOYS,Earn points by using Sinister Six characters in Blitz Battles. Earn more points if your Sinister Six characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
@@ -4328,3 +4328,39 @@ ID_QU_NA_PEACEANDLOVE,Peace and Love
 ID_QU_SD_PEACEANDLOVE,Spend Shiny Coins
 ID_QU_LD_PEACEANDLOVE,Spend Shiny Coins and be rewarded progress in the Rise of the Planet Milestone.
 ID_QU_S1_PEACEANDLOVE,Spend 1 Shiny Coin
+ID_QU_NA_MISFORMERCS,M is for Mercs
+ID_QU_SD_MISFORMERCS,Participate in May Events
+ID_QU_LM_MISFORMERCS,Participate in various events throughout the month of May to earn milestone progress.
+ID_QU_S1_MISFORMERCS,Collect Mission Supplies
+ID_QU_S2_MISFORMERCS,Collect 1 Mercenary Contract
+ID_QU_NA_ALLTHATGLITTERS,All That Glitters
+ID_QU_SD_ALLTHATGLITTERS,Earn Shiny Coins and spend Incursion Energy
+ID_QU_LD_ALLTHATGLITTERS,"Earn Shiny Coins from the Golden Blitz and spend Incursion Campaign Energy.\n\nRewards include: Dark Diamond Credits, Diamond Orb Fragments, Crimson Skill Gear, and more!"
+ID_QU_S1_ALLTHATGLITTERS,Spend 1 Incursion Campaign Energy
+ID_QU_S2_ALLTHATGLITTERS,Earn 1 Shiny Coin
+ID_QU_S3_ALLTHATGLITTERS,Open the Glittering Gold Orb
+ID_QU_NA_STASHEDCACHE,Stashed Cache
+ID_QU_SD_STASHEDCACHE,Earn Blitz Credits
+ID_QU_LD_STASHEDCACHE,"Earn Blitz Credits to complete this daily milestone that rewards Mission Supplies, Shiny Coins, and bonus All that Glitters progress!"
+ID_QU_S1_STASHEDCACHE,Earn 1 Blitz Credit
+ID_QU_NA_SPLASH_BORROWEDTIME,Borrowed Time
+ID_QU_SD_SPLASH_BORROWEDTIME,Use Out of Time in Blitz
+ID_QU_LM_SPLASH_BORROWEDTIME,Earn points by using Out of Time characters in Blitz Battles. Earn more points if your Out of Time characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_BORROWEDTIME,Use Out of Time Characters in Blitz
+ID_QU_S1_SPLASH_BORROWEDTIME,Win Blitz with a 3-star or higher Out of Time Character
+ID_QU_S2_SPLASH_BORROWEDTIME,Win Blitz with a 5-star or higher Out of Time Character
+ID_QU_S3_SPLASH_BORROWEDTIME,Win Blitz with a 7-star Out of Time Character
+ID_QU_NA_SPLASH_MARVELOUSMOTHERS,Marvelous Mothers
+ID_QU_SD_SPLASH_MARVELOUSMOTHERS,Use Marvel Moms in Blitz
+ID_QU_LM_SPLASH_MARVELOUSMOTHERS,Earn points by using Marvel Moms characters in Blitz Battles. Earn more points if your Marvel Moms characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_MARVELOUSMOTHERS,Use Marvel Moms Characters in Blitz
+ID_QU_S1_SPLASH_MARVELOUSMOTHERS,Win Blitz with a 3-star or higher Marvel Moms Character
+ID_QU_S2_SPLASH_MARVELOUSMOTHERS,Win Blitz with a 5-star or higher Marvel Moms Character
+ID_QU_S3_SPLASH_MARVELOUSMOTHERS,Win Blitz with a 7-star Marvel Moms Character
+ID_QU_NA_SPLASH_SYMBIOTICSABOTAGE,Symbiotic Sabotage
+ID_QU_SD_SPLASH_SYMBIOTICSABOTAGE,Use Hive-Mind in Blitz
+ID_QU_LM_SPLASH_SYMBIOTICSABOTAGE,Earn points by using Hive-Mind characters in Blitz Battles. Earn more points if your Hive-Mind characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_SYMBIOTICSABOTAGE,Use Hive-Mind Characters in Blitz
+ID_QU_S1_SPLASH_SYMBIOTICSABOTAGE,Win Blitz with a 3-star or higher Hive-Mind Character
+ID_QU_S2_SPLASH_SYMBIOTICSABOTAGE,Win Blitz with a 5-star or higher Hive-Mind Character
+ID_QU_S3_SPLASH_SYMBIOTICSABOTAGE,Win Blitz with a 7-star Hive-Mind Character
