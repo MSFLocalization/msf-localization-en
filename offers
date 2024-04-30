@@ -7569,7 +7569,7 @@ ID_OF_NA_ALLTHATGLITTERS_DAILY_INTERSTITIAL,All That Glitters: Hidden Trove
 ID_OF_NA_ALLTHATGLITTERS_DAILY_FREE_CLAIM,All That Glitters: Free Claim
 ID_OF_DE_ALLTHATGLITTERS_STARTER,Get ahead in the <color=#fff568>All That Glitters</color> Milestone and start making your way toward <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Skill Gear</color>!
 ID_OF_DE_ALLTHATGLITTERS_CATCHUP,Finish strong in the <color=#fff568>All That Glitters</color> Milestone to earn <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Skill Gear</color>!
-ID_OF_DE_ALLTHATGLITTERS_ORB_SPECIAL,"One time special! Open the Glittering Gold Orb and earn the Golden Kang Costume, <var1> Gold, and <var2> Shiny Coins!"
+ID_OF_DE_ALLTHATGLITTERS_ORB_SPECIAL,"One time special! Open the Glittering Gold Orb and earn the Golden Kang Costume, {var1} Gold, and {var2} Shiny Coins!"
 ID_OF_DE_ALLTHATGLITTERS_DAILY_CURRENCY,Make progress in the <color=#fff568>All That Glitters</color> Milestone by collecting more <color=#fff568>Shiny Coins</color>!
 ID_OF_DE_ALLTHATGLITTERS_DAILY_BLITZ,Get your daily Blitz Credits and Charges to progress in the daily <color=#fff568>Stashed Cache</color> Web Milestone!
 ID_OF_DE_ALLTHATGLITTERS_DAILY_ENERGY,Get your daily Incursion energy fix to get ahead in the <color=#fff568>All That Glitters</color> Milestone!
@@ -7686,7 +7686,7 @@ ID_OF_DE_DUAL_PANDAPOOL,Choose your path to power up this <color=#fff568>Mercs f
 ID_OF_DE_DUAL_UNLOCK_PANDAPOOL,Unlock this <color=#fff568>Mercs for Money</color> member and <color=#fff568>one-time release offers</color> on your next visit!
 ID_OF_NA_PANDAPOOL_FCO_OFFER_BASIC,Pandapool Release Offer
 ID_OF_NA_PANDAPOOL_WEB_EXTRA_FCO_OFFER,Pandapool Unlock Offer
-ID_OF_DE_PANDAPOOL_WEB_EXTRA_FCO_OFFER,"The The Panda with the Mouth, <color=#fff568>Pandapool</color>, has arrived!"
+ID_OF_DE_PANDAPOOL_WEB_EXTRA_FCO_OFFER,"The Panda with the Mouth, <color=#fff568>Pandapool</color>, has arrived!"
 ID_OF_NA_PANDAPOOL_WEB_SPECIAL_OFFER,The Panda with the Mouth Special
 ID_OF_DE_PANDAPOOL_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color><color=#fff568>Pandapool</color> has the power to deny his own extinction! Pandapool endangers you!
 ID_OF_NA_CINCODEMAYO24_DORB_MORB_ABM_DDC_DPC_STREAK3,Ultimate 5-Pepper Carnitas Combo
@@ -7762,7 +7762,7 @@ ID_OF_DE_CINCODEMAYO24_DPC_TRAIN_GOLD_BK_VK_ABM,"Take the best steps towards suc
 ID_OF_DE_CINCODEMAYO24_ABM_GHOSTSPIDER_NOIR,"Empower your Spider-Society team with <color=#ffda21>T4 Ability Material, Ghost-Spider shards, Spider-Man (Noir) shards</color> & more from this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!"
 ID_OF_DE_CINCODEMAYO24_TRAIN_PREMORB,"Train up your skills and meet new dance partners with <color=#ffda21>L4 Training Modules, Training Orbs</color> & more from this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!"
 ID_OF_DE_CINCODEMAYO24_GRR_MSMARVELHL_GPC_TRAIN,"March to your own music with <color=#ffda21>Ghost Rider (Robbie) shards, Ms. Marvel (Hard Light) shards</color> & more from this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!"
-ID_OF_DE_CINCODEMAYO24_METAUNIQUES_ABM,"Have a taste of the your roster with <color=#ffda21>T4 Ability Material, Augmented Uniques</color> & more from this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_CINCODEMAYO24_METAUNIQUES_ABM,"Start upgrading your roster today with <color=#ffda21>T4 Ability Material, Augmented Uniques</color> & more from this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!"
 ID_OF_DE_CINCODEMAYO24_TEALCATS_OOTUNIQUES,Empower your war capabilities with <color=#ffda21>Teal Catalyst Pack & Augmented Out of Time Uniques</color> from this limited time offer. <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_CINCODEMAYO24_STARBRAND_TRAIN,Soak in the power of the stars with <color=#ffda21>Starbrand shards & Training Orbs</color> from this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_CINCODEMAYO24_BLACKKNIGHT_PREMORBS_MORB,"Protect your arena rank with <color=#ffda21>Black Knight, Premium Orbs</color> & more from this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!"
