@@ -7688,7 +7688,7 @@ ID_OF_NA_PANDAPOOL_FCO_OFFER_BASIC,Pandapool Release Offer
 ID_OF_NA_PANDAPOOL_WEB_EXTRA_FCO_OFFER,Pandapool Unlock Offer
 ID_OF_DE_PANDAPOOL_WEB_EXTRA_FCO_OFFER,"The Panda with the Mouth, <color=#fff568>Pandapool</color>, has arrived!"
 ID_OF_NA_PANDAPOOL_WEB_SPECIAL_OFFER,The Panda with the Mouth Special
-ID_OF_DE_PANDAPOOL_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color><color=#fff568>Pandapool</color> has the power to deny his own extinction! Pandapool endangers you!
+ID_OF_DE_PANDAPOOL_WEB_SPECIAL_OFFER,<color=#fff568>Web Special! </color><color=#fff568>Pandapool</color> has the power to deny his own extinction! Pandapool endangers you!
 ID_OF_NA_CINCODEMAYO24_DORB_MORB_ABM_DDC_DPC_STREAK3,Ultimate 5-Pepper Carnitas Combo
 ID_OF_NA_CINCODEMAYO24_DORB_MORB_ABM_DDC_DPC_STREAK2,Loaded 5-Pepper Carnitas Combo
 ID_OF_NA_CINCODEMAYO24_DORB_MORB_ABM_DDC_DPC_STREAK1,5-Pepper Carnitas Combo
@@ -7789,3 +7789,5 @@ ID_OF_DE_CINCODEMAYO24_MORB_PORB,Get the best <color=#ffda21>Mega Orb & Premium 
 ID_OF_DE_CINCODEMAYO24_TEAL_META_UNIQUES,Improve the gear of popular characters with this holiday Calendar! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_CINCODEMAYO24_TRAINING,Improve the level of your favorite characters with this holiday Calendar! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_CINCODEMAYO24_TEALVSCRIMSON_DUAL,Choose the deal best for you with this limited time dual offer!
+ID_OF_NA_DD7_CELEBRATION,Dark Dimension VII Winner Celebration: 10 for 10
+ID_OF_DE_DD7_CELEBRATION,Celebrate <color=#fff568>BetaRayBill</color>'s monumental achievement as the first Commander to conquer Dark Dimension VII!
