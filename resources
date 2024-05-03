@@ -208,8 +208,8 @@ ID_ELITE_6_CUR_NAME,Elite 6 Credit
 ID_ELITE_6_CUR_DESCRIPTION,Used to buy Elite 6 Star Orbs or Silver Promotion Credits.\n\nEarn Elite 6 Credits by collecting duplicate Red Stars from an Elite 5 Star Orb or better.
 ID_ELITE_7_CUR_NAME,Elite 7 Credit
 ID_ELITE_7_CUR_DESCRIPTION,Used to buy Elite 7 Star Orbs or Gold Promotion Credits.\n\nEarn Elite 7 Credits by collecting duplicate Red Stars from an Elite 6 Star Orb or better.
-ID_EVENT_CUR1_NAME,Candy Shop
-ID_EVENT_CUR1_DESCRIPTION,Spend Heart Candy at the Candy Shop. Only for a limited time.
+ID_EVENT_CUR1_NAME,Spider Tech Orb Fragments
+ID_EVENT_CUR1_DESCRIPTION,Open Spider Tech Orbs for Peni Parker shards
 ID_EVENT_CUR2_NAME,Gear Credits
 ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
 ID_EVENT_CUR3_NAME,Stellar Specter Orb Fragment
@@ -349,9 +349,9 @@ ID_EVTA_META_MAY_A_DESCRIPTION,Collect Mission Supplies for points in the M is f
 ID_EVTA_META_MAY_B_NAME,Mercenary Contract
 ID_EVTA_META_MAY_B_DESCRIPTION,Collect the Mercenary Contract for points in the M is for Mercs Event. Earn it in various events throughout the month of May!
 ID_EVTA_META_MAY_C_NAME,All That Glitters Milestone Points
-ID_EVTA_META_MAY_C_DESCRIPTION,"These points earn you additional progress in the All That Glitters Milestone. Earn them in the Golden Blitz, Daily Free Claims on our website, the daily Stashed Cache Web Milestone, and limited offers!"
-ID_EVTA_META_MAY_D_NAME,Glowing Mask
-ID_EVTA_META_MAY_D_DESCRIPTION,Collect the Glowing Mask for points in the Solar Flare Event. Earn it in the Light the Crucible Event!
+ID_EVTA_META_MAY_C_DESCRIPTION,"These points earn you additional progress in the All That Glitters Milestone. Earn them in the Golden Blitz, Daily Free Claims on our website, the Stashed Cache Web Milestone, and limited offers!"
+ID_EVTA_META_MAY_D_NAME,Along Came a SP//dr Milestone Points
+ID_EVTA_META_MAY_D_DESCRIPTION,"These points earn you additional progress in the Along Came a SP//dr Milestone. Earn them in Daily Free Claims on our website, the After School Projects Web Milestone, and limited offers!"
 ID_EVTA_META_MAY_E_NAME,Red-Hot Gloves
 ID_EVTA_META_MAY_E_DESCRIPTION,Collect the Red-Hot Gloves for points in the Solar Flare Event. Earn them in the Out of this World Event!
 ID_EVTA_META_MAY_F_NAME,Searing Boots

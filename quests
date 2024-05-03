@@ -4343,6 +4343,22 @@ ID_QU_NA_STASHEDCACHE,Stashed Cache
 ID_QU_SD_STASHEDCACHE,Earn Blitz Credits
 ID_QU_LD_STASHEDCACHE,"Earn Blitz Credits to complete this daily milestone that rewards Mission Supplies, Shiny Coins, and bonus All that Glitters progress!"
 ID_QU_S1_STASHEDCACHE,Earn 1 Blitz Credit
+ID_QU_NA_ALONGCAMEASPIDER,Along Came a SP//dr
+ID_QU_SD_ALONGCAMEASPIDER,Earn Peni Parker and Crimson Tech Gear!
+ID_QU_LM_ALONGCAMEASPIDER,"Peni Parker is here to upgrade the Spider Society team!\n\nAlong Came a SP//dr\nGain progress in this 8-day event by earning Spider Tech Orb Fragments from Iso-8 Campaign nodes, Free Claims and special Offers, and by using the Spider Society in Raids. \n\nEarn rewards including Crimson Tech Gear, Peni Parker shards, Diamond Orb Fragments, and more. You'll also earn points towards the M is for Mercs milestone by collecting Mission Supplies and a Mercenary Contract. Keep an eye on the web for Free Claims every day!\n\nLeaderboard\nCompete on the Leaderboard for Peni Parker Diamonds, Crimson Mini-Uniques, and Crimson Gear Raid Orbs!\n\nAfter School Projects Web Milestone\nEarn Alliance Credits and be rewarded with Spider Tech Orb Fragments and progress in the Along Came a SP//dr Milestone."
+ID_QU_SM_ALONGCAMEASPIDER,Collect Orbs and Battle in Raids
+ID_QU_SC_ALONGCAMEASPIDER,Collect Spider Tech Orbs and Battle in Raids with Spider Society
+ID_QU_S1_ALONGCAMEASPIDER,Earn 1 Spider Tech Orb Fragment from Iso-8 Campaign
+ID_QU_S2_ALONGCAMEASPIDER,Play 1 Raid Battle with Spider Society
+ID_QU_NA_AFTERSCHOOLPROJECTS,After School Projects
+ID_QU_SD_AFTERSCHOOLPROJECTS,Earn Alliance Credits
+ID_QU_LD_AFTERSCHOOLPROJECTS,Earn Alliance Credits to complete this milestone that rewards Spider Tech Orb Fragments and progress in the Along Came a SP//dr milestone!
+ID_QU_S1_AFTERSCHOOLPROJECTS,Earn 1 Alliance Credit
+ID_QU_NA_COORDINATEDCATASTROPHE,Coordinated Catastrophe
+ID_QU_SD_COORDINATEDCATASTROPHE,Spend Iso-8 Campaign Energy for glorious rewards!
+ID_QU_LD_COORDINATEDCATASTROPHE,Coordinated Catastrophe Milestone\nGain progress in this 4-day event by battling in Iso-8 Campaign and earning Allied Supply IV Orb fragments from daily Free Claims and special offers. Earn rewards including L4 Training Modules and Armory Orbs. You'll also earn points towards the month-long M is for Mercs milestone by collecting Mission Supplies.
+ID_QU_S1_COORDINATEDCATASTROPHE,Spend 1 Iso-8 Campaign Energy
+ID_QU_S2_COORDINATEDCATASTROPHE,Earn 1 Allied Supply IV Orb Fragment
 ID_QU_NA_SPLASH_BORROWEDTIME,Borrowed Time
 ID_QU_SD_SPLASH_BORROWEDTIME,Use Out of Time in Blitz
 ID_QU_LM_SPLASH_BORROWEDTIME,Earn points by using Out of Time characters in Blitz Battles. Earn more points if your Out of Time characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
@@ -4364,3 +4380,8 @@ ID_QU_SC_SPLASH_SYMBIOTICSABOTAGE,Use Hive-Mind Characters in Blitz
 ID_QU_S1_SPLASH_SYMBIOTICSABOTAGE,Win Blitz with a 3-star or higher Hive-Mind Character
 ID_QU_S2_SPLASH_SYMBIOTICSABOTAGE,Win Blitz with a 5-star or higher Hive-Mind Character
 ID_QU_S3_SPLASH_SYMBIOTICSABOTAGE,Win Blitz with a 7-star Hive-Mind Character
+ID_QU_NA_ALLIEDARACHNIDS,Allied Arachnids
+ID_QU_SD_ALLIEDARACHNIDS,Battle in Raids for M is for Mercs progress!
+ID_QU_LD_ALLIEDARACHNIDS,Collaborate with your alliance to battle through Raids and earn Allied Supply IV Orb Fragments. Allied Supply IV Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
+ID_QU_S1_ALLIEDARACHNIDS,Play 1 Raid Battle
+ID_QU_S2_ALLIEDARACHNIDS,Earn 1 Allied Supply IV Orb Fragment

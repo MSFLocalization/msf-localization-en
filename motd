@@ -24,7 +24,7 @@ ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to
 ID_MOTD_NA_CHALLENGES_TIER_18,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_18,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 9:30 PM (PDT) (04/09).
+ID_MOTD_DE_MAINTENANCE_GENERAL,Upcoming Maintenance: 5/9 9:30PM (PDT)
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -2976,10 +2976,26 @@ ID_MOTD_NA_ALLTHATGLITTERS_ENDING,Ending Soon: All That Glitters
 ID_MOTD_DE_ALLTHATGLITTERS_ENDING,Don't miss out on Crimson Skill Gear!
 ID_MOTD_NA_STASHEDCACHE_ANNOUNCE,Web Milestone: Stashed Cache
 ID_MOTD_DE_STASHEDCACHE_ANNOUNCE,Link your account to earn more rewards on web!
+ID_MOTD_NA_ALONGCAMEASPIDER_ANNOUNCE,LIVE: Along Came a SP//dr
+ID_MOTD_DE_ALONGCAMEASPIDER_ANNOUNCE,Earn Peni Parker and Crimson Tech Gear!
+ID_MOTD_NA_ALONGCAMEASPIDER_ENDING,Ending Soon: Along Came a SP//dr
+ID_MOTD_DE_ALONGCAMEASPIDER_ENDING,Don't miss out on Peni Parker shards!
+ID_MOTD_NA_AFTERSCHOOLPROJECTS_ANNOUNCE,Web Milestone: After School Projects
+ID_MOTD_DE_AFTERSCHOOLPROJECTS_ANNOUNCE,Link your account to earn more rewards on web!
+ID_MOTD_NA_COORDINATEDCATASTROPHE_ANNOUNCE,LIVE: Coordinated Catastrophe
+ID_MOTD_DE_COORDINATEDCATASTROPHE_ANNOUNCE,Earn Training Modules and Mission Supplies!
 ID_MOTD_NA_BATTLEPASS_SEASON20_ANNOUNCE,LIVE: Season 20 of Battle Pass
 ID_MOTD_DE_BATTLEPASS_SEASON20_ANNOUNCE,Complete Objectives to earn Peter B. Parker shards and more!
+ID_MOTD_NA_BATTLEPASS_SEASON21_ANNOUNCE,LIVE: Season 21 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON21_ANNOUNCE,Complete Objectives to earn Black Knight and Iron Patriot shards and more!
 ID_MOTD_NA_PANDAPOOL_TEASER,Soon: Pandapool
 ID_MOTD_DE_PANDAPOOL_TEASER,Deliver Pandamonium! Pandapool is the species that endangers you!
 ID_MOTD_NA_PANDAPOOL_ANNOUNCE,Pandapool is here!
 ID_MOTD_DE_PANDAPOOL_ANNOUNCE,Deliver Pandamonium! Pandapool is the species that endangers you!
 ID_MOTD_DE_PANDAPOOL_ANNOUNCE2,Open the Clawed Cuddler Orb to earn shards for The Panda with the Mouth!
+ID_MOTD_NA_ALLIEDARACHNIDS_ANNOUNCE,LIVE: Allied Arachnids
+ID_MOTD_DE_ALLIEDARACHNIDS_ANNOUNCE,Battle in Raids for M is for Mercs progress!
+ID_MOTD_NA_PANDAPOOL,Clawed Cuddler: Now Live!
+ID_MOTD_DE_PANDAPOOL,Battle for a chance to win Pandapool shards
+ID_MOTD_NA_DAKEN,Mutant Heir: Now Live!
+ID_MOTD_DE_DAKEN,Battle for a chance to win Daken shards

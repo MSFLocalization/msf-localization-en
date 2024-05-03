@@ -7675,6 +7675,36 @@ ID_OF_DE_DRAFT_DIAMONDS_PEGASUS,Blast through <color=#fff568>Kyln Tower's Cells 
 ID_OF_DE_DRAFT_DIAMONDS_GLOBALMYSTIC,Blast through <color=#fff568>Kyln Tower's Cells 23-25</color> with this exclusive Diamonds Draft! Purchase this Offer for a chance to earn up to {var1}-Diamonds for a <color=#fff568>Global Mystic</color> character!
 ID_OF_DE_DRAFT_DIAMONDS_VILLAINBIO,Blast through <color=#fff568>Kyln Tower's Cells 38-40</color> with this exclusive Diamonds Draft! Purchase this Offer for a chance to earn up to {var1}-Diamonds for a <color=#fff568>Sinister 6</color> character!
 ID_OF_DE_DRAFT_DIAMONDS_VILLAINMUTANT,Blast through <color=#fff568>Kyln Tower's Cells 26-28</color> with this exclusive Diamonds Draft! Purchase this Offer for a chance to earn up to {var1}-Diamonds for a <color=#fff568>Mutant Villain</color> character!
+ID_OF_NA_ALONGCAMEASPIDER_MEGA_STARTER,Along Came a SP//dr: Mega Starter
+ID_OF_NA_ALONGCAMEASPIDER_STARTER,Along Came a SP//dr: Starter
+ID_OF_NA_ALONGCAMEASPIDER_MEGA_CATCHUP,Along Came a SP//dr: Mega Catch-up
+ID_OF_NA_ALONGCAMEASPIDER_CATCHUP,Along Came a SP//dr: Catch-up
+ID_OF_NA_ALONGCAMEASPIDER_DAILY_ORB,Along Came a SP//dr: Daily Orb
+ID_OF_NA_ALONGCAMEASPIDER_DAILY_ENERGY,Along Came a SP//dr: Daily Energy
+ID_OF_NA_ALONGCAMEASPIDER_WEB_SPECIAL,Along Came a SP//dr: Web Special
+ID_OF_NA_ALONGCAMEASPIDER_DAILY_POINTS,Along Came a SP//dr: Daily Points
+ID_OF_NA_ALONGCAMEASPIDER_DAILY_FREE_CLAIM,Along Came a SP//dr: Free Claim
+ID_OF_NA_ALONGCAMEASPIDER_DAILY_INTERSTITIAL,Along Came a SP//dr: Secret Stash
+ID_OF_DE_ALONGCAMEASPIDER_MEGA_STARTER,Get ahead in the <color=#fff568>Along Came a SP//dr</color> Milestone and fast-forward your way to <color=#f12603>Crimson Gear</color> and <color=#fff568>Peni Parker shards</color>!
+ID_OF_DE_ALONGCAMEASPIDER_MEGA_CATCHUP,Finish strong in the milestones to earn <color=#f12603>Crimson Tech Gear</color> and <color=#fff568>Peni Parker shards</color>!
+ID_OF_DE_ALONGCAMEASPIDER_DAILY_ORB,Make progress in the Along Came a SP//dr milestone by collecting more <color=#fff568>Spider Tech Orbs</color>!
+ID_OF_DE_ALONGCAMEASPIDER_DAILY_ENERGY,Get your daily Iso-8 energy fix to earn more <color=#fff568>Spider Tech Orbs</color> and get ahead in the <color=#fff568>Along Came a SP//dr</color> Milestone!
+ID_OF_DE_ALONGCAMEASPIDER_WEB_SPECIAL,Claim this mega deal leap to the top of the leaderboard in the <color=#fff568>Along Came a SP//dr</color> Milestone for <color=#fff568>Peni Parker Diamonds and Crimson Tech Mini-Uniques</color>!
+ID_OF_DE_ALONGCAMEASPIDER_DAILY_POINTS,Get more daily progress in the <color=#fff568>Along Came a SP//dr</color> Milestone and climb the leaderboard for <color=#fff568>Peni Parker Diamonds and Crimson Tech Mini-Uniques</color>!
+ID_OF_DE_ALONGCAMEASPIDER_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Along Came a SP//dr</color> progress!
+ID_OF_DE_ALONGCAMEASPIDER_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Along Came a SP//dr</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_COORDINATEDCATASTROPHE_STARTER,Coordinated Catastrophe: Starter Bundle
+ID_OF_NA_COORDINATEDCATASTROPHE_CATCHUP,Coordinated Catastrophe: Catch-Up Bundle
+ID_OF_NA_COORDINATEDCATASTROPHE_DAILY_ENERGY,Coordinated Catastrophe: Daily Energy
+ID_OF_NA_COORDINATEDCATASTROPHE_EVENTORB,Coordinated Catastrophe: Daily Allied Supply
+ID_OF_NA_COORDINATEDCATASTROPHE_INTERSTITIAL,Coordinated Catastrophe: Supply Special
+ID_OF_NA_COORDINATEDCATASTROPHE_FREE,Coordinated Catastrophe: Free Claim
+ID_OF_DE_COORDINATEDCATASTROPHE_STARTER,Help your alliance start off strong in the <color=#fff568>Coordinated Catastrophe</color> Milestone and earn tremendous training rewards!
+ID_OF_DE_COORDINATEDCATASTROPHE_CATCHUP,Push your alliance to the finish line with this <color=#fff568>Coordinated Catastrophe</color> Milestone bundle for tremendous training rewards!
+ID_OF_DE_COORDINATEDCATASTROPHE_DAILY_ENERGY,Stock up on Iso-8 Campaign Energy to push your Alliance forward in the <color=#fff568>Coordinated Catastrophe</color> milestone!
+ID_OF_DE_COORDINATEDCATASTROPHE_EVENTORB,Get Allied Supply IV orbs for <color=#fff568>Coordinated Catastrophe</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs featuring guaranteed T2 L5 Ions!
+ID_OF_DE_COORDINATEDCATASTROPHE_INTERSTITIAL,Stock up on Allied Supply IV Orbs for extra progress in the <color=#fff568>Coordinated Catastrophe Milestone</color>!
+ID_OF_DE_COORDINATEDCATASTROPHE_FREE,Come back daily for more <color=#fff568>Coordinated Catastrophe</color> progress!
 ID_OF_NA_PANDAPOOL_FCO_OFFER,The Panda with the Mouth
 ID_OF_DE_PANDAPOOL_FCO_OFFER,Each <color=#fff568>Clawed Cuddler Orb</color> contains <color=#fff568>up to 180 Pandapool</color> shards. <color=#fff568>Pandapool</color> has the power to deny his own extinction! Pandapool endangers you!
 ID_OF_DE_PANDAPOOL_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Pandapool</color> and unlock one-time only release offers on your next visit! <color=#fff568>Pandapool</color> has the power to deny his own extinction! Pandapool endangers you!
@@ -7789,5 +7819,17 @@ ID_OF_DE_CINCODEMAYO24_MORB_PORB,Get the best <color=#ffda21>Mega Orb & Premium 
 ID_OF_DE_CINCODEMAYO24_TEAL_META_UNIQUES,Improve the gear of popular characters with this holiday Calendar! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_CINCODEMAYO24_TRAINING,Improve the level of your favorite characters with this holiday Calendar! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_CINCODEMAYO24_TEALVSCRIMSON_DUAL,Choose the deal best for you with this limited time dual offer!
+ID_OF_NA_ALLIEDARACHNIDS_STARTER,Allied Arachnids: Starter Bundle
+ID_OF_NA_ALLIEDARACHNIDS_CATCHUP,Allied Arachnids: Catch-Up Bundle
+ID_OF_NA_ALLIEDARACHNIDS_RAID,Allied Arachnids: Daily Raid
+ID_OF_NA_ALLIEDARACHNIDS_EVENTORB,Allied Arachnids: Daily Allied Supply
+ID_OF_NA_ALLIEDARACHNIDS_INTERSTITIAL,Allied Arachnids: Spider Special
+ID_OF_NA_ALLIEDARACHNIDS_FREE,Allied Arachnids: Free Claim
+ID_OF_DE_ALLIEDARACHNIDS_STARTER,Help your alliance start off strong in the <color=#fff568>Allied Arachnids</color> Milestone for Iso-8 rewards and <color=#fff568>M is for Mercs</color> progress!
+ID_OF_DE_ALLIEDARACHNIDS_CATCHUP,Push your alliance to the finish line with this <color=#fff568>Allied Arachnids</color> Milestone bundle for Iso-8 rewards and <color=#fff568>M is for Mercs</color> progress!
+ID_OF_DE_ALLIEDARACHNIDS_RAID,Get your daily raid refills to get ahead in the <color=#fff568>Allied Arachnids</color> Milestone!
+ID_OF_DE_ALLIEDARACHNIDS_EVENTORB,Get Allied Supply IV orbs for <color=#fff568>Allied Arachnids</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs featuring guaranteed T2 L5 Ions!
+ID_OF_DE_ALLIEDARACHNIDS_INTERSTITIAL,Stock up on Allied Supply IV Orbs for extra progress in the <color=#fff568>Allied Arachnids</color> Milestone!
+ID_OF_DE_ALLIEDARACHNIDS_FREE,Come back daily for more <color=#fff568>Allied Arachnids</color> progress!
 ID_OF_NA_DD7_CELEBRATION,Dark Dimension VII Winner Celebration: 10 for 10
 ID_OF_DE_DD7_CELEBRATION,Celebrate <color=#fff568>BetaRayBill</color>'s monumental achievement as the first Commander to conquer Dark Dimension VII!

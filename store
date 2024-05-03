@@ -8988,6 +8988,10 @@ ID_GACHA_CRATE_DIAMONDCHAMPIONSII_NAME,Diamond Champions II Orb
 ID_GACHA_CRATE_DIAMONDCHAMPIONSII_DESCRIPTION,Contains 3-Diamond Promotion for one of 12 select characters
 ID_GACHA_CRATE_DIAMONDCHAMPIONSII_TOKEN_NAME,Diamond Champions II Orb Fragment
 ID_GACHA_CRATE_DIAMONDCHAMPIONSII_TOKEN_DESCRIPTION,Collect Fragments for Orbs containing 20 Silver Promotion Credits and a 3-Diamond Promotion for one of 12 select characters
+ID_GACHA_CRATE_SPIDERTECH_NAME,Spider Tech Orb
+ID_GACHA_CRATE_SPIDERTECH_DESCRIPTION,Earn Peni Parker shards!
+ID_GACHA_CRATE_SPIDERTECH_TOKEN_NAME,Spider Tech Orb Fragments
+ID_GACHA_CRATE_SPIDERTECH_TOKEN_DESCRIPTION,Open Spider Tech Orbs for Peni Parker shards
 ID_GACHA_CRATE_DD7CELEBRATEVOIDKNIGHT_NAME,Dark Dimension VII Void Knight Orb
 ID_GACHA_CRATE_DD7CELEBRATEVOIDKNIGHT_DESCRIPTION,Spend your Dark Dimension VII Celebration Tokens to choose Void Knight!
 ID_GACHA_CRATE_DD7CELEBRATEVOIDKNIGHT_TOKEN_NAME,Dark Dimension VII Celebration Tokens
@@ -8996,3 +9000,11 @@ ID_GACHA_CRATE_DD7CELEBRATEREDGOBLIN_NAME,Dark Dimension VII Red Goblin Orb
 ID_GACHA_CRATE_DD7CELEBRATEREDGOBLIN_DESCRIPTION,Spend your Dark Dimension VII Celebration Tokens to choose Red Goblin!
 ID_GACHA_CRATE_DD7CELEBRATEREDGOBLIN_TOKEN_NAME,Dark Dimension VII Celebration Tokens
 ID_GACHA_CRATE_DD7CELEBRATEREDGOBLIN_TOKEN_DESCRIPTION,"Use these points to select either 100 shards of Void Knight and a 7-red star Void Knight promotion, or 100 shards of Red Goblin and a 7-red star Red Goblin promotion!"
+ID_GACHA_CRATE_FCO_PANDAPOOL_SPECIAL_NAME,Clawed Cuddler Orb
+ID_GACHA_CRATE_FCO_PANDAPOOL_SPECIAL_DESCRIPTION,Earn up to 180 Pandapool shards
+ID_GACHA_CRATE_FCO_PANDAPOOL_SPECIAL_TOKEN_NAME,Clawed Cuddler Orb Fragments
+ID_GACHA_CRATE_FCO_PANDAPOOL_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Clawed Cuddler Orbs that contain up to 180 Pandapool shards.
+ID_GACHA_CRATE_FCO_DAKEN_SPECIAL_NAME,Mutant Heir Orb
+ID_GACHA_CRATE_FCO_DAKEN_SPECIAL_DESCRIPTION,Earn up to 180 Daken shards
+ID_GACHA_CRATE_FCO_DAKEN_SPECIAL_TOKEN_NAME,Mutant Heir Orb Fragments
+ID_GACHA_CRATE_FCO_DAKEN_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Mutant Heir Orbs that contain up to 180 Daken shards.
