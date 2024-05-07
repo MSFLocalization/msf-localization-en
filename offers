@@ -7833,3 +7833,123 @@ ID_OF_DE_ALLIEDARACHNIDS_INTERSTITIAL,Stock up on Allied Supply IV Orbs for extr
 ID_OF_DE_ALLIEDARACHNIDS_FREE,Come back daily for more <color=#fff568>Allied Arachnids</color> progress!
 ID_OF_NA_DD7_CELEBRATION,Dark Dimension VII Winner Celebration: 10 for 10
 ID_OF_DE_DD7_CELEBRATION,Celebrate <color=#fff568>BetaRayBill</color>'s monumental achievement as the first Commander to conquer Dark Dimension VII!
+ID_OF_NA_MD24_WANDA,Decade of Love: Mom's Anniversary
+ID_OF_NA_MD24_GOLD_TRAINING,Decade of Love: Golden Training
+ID_OF_NA_MD24_GOLD_ABM,Decade of Love: Golden Training
+ID_OF_NA_MD24_CABAL_UNIQUE,Decade of Love: Gear Cache
+ID_OF_NA_MD24_DIAMOND_TRAINING_GOLD_ORB,Decade of Love: Orb Essence Bundle
+ID_OF_NA_MD24_ABM_TRAIN_GOLD,Decade of Love: Golden Training
+ID_OF_NA_MD24_DPC_E7,Decade of Love: Iso-8 Enhancement
+ID_OF_NA_MD24_ELITE_CREDIT,Decade of Love: Elite Credit Surge
+ID_OF_NA_MD24_PETERB_TRAINING,Decade of Love: Spider Essentials
+ID_OF_NA_MD24_DAILYGOLD,"Decade of Love: Gold Rush "
+ID_OF_NA_MD24_MEGAGOLD,Decade of Love: Gold Vault
+ID_OF_NA_MD24_GOLD_DPC,Decade of Love: Legendary Set
+ID_OF_NA_MD24_TRAINING_UNIQUE,"Decade of Love: Elite Training "
+ID_OF_NA_MD24_TRAINING_GOLD,Decade of Love: Golden Training
+ID_OF_NA_MD24_RED_UNIQUE,Decade of Love: Crimson Spider
+ID_OF_NA_MD24_NIGHTCRAWLER,Decade of Love: BAMF!
+ID_OF_NA_MD24_VOIDKNIGHT,Decade of Love: Into the Void
+ID_OF_NA_MD24_BLACKKNIGHT,Decade of Love: Knight's Valor
+ID_OF_NA_MD24_GEAR_UNIQUE,Decade of Love: Gear Cache
+ID_OF_NA_MD24_ISO8_ORBS,Decade of Love: Iso-8 Enhancement
+ID_OF_NA_MD24_E7_DPC,Decade of Love: Red Star Rush
+ID_OF_NA_MD24_RSO_E67,Decade of Love: Orb Connection
+ID_OF_NA_MD24_GOLDDIAMONDPACK,Decade of Love: Golden Diamond Pack
+ID_OF_NA_MD24_GOLD_ORBS,Decade of Love: Golden Opportunity
+ID_OF_NA_MD24_GEAR_UNIQUE2,Decade of Love: Gear Cache
+ID_OF_NA_MD24_GACHA_ORBS,Decade of Love: Ultimate Collection
+ID_OF_NA_MD24_TRAINING_ABM,Decade of Love: Elite Training
+ID_OF_NA_MD24_GOLD_ORBS2,Decade of Love: Golden Opportunity
+ID_OF_NA_MD24_ORB_ABM,Decade of Love: Orb Connection
+ID_OF_NA_MD24_CATALYST,Decade of Love: Teal Catalyst
+ID_OF_NA_MD24_DPC,Decade of Love: Red Star Rush
+ID_OF_NA_MD24_ISO8_T2,Decade of Love: Iso-8 Enhancement
+ID_OF_DE_MD24_WANDA,Celebrate Mother's Day and honor Scarlet Witch's decade of heroism with a special anniversary skin. Show your support and admiration for her courage and love as both a hero and a mother!
+ID_OF_DE_MD24_GOLD_TRAINING,Boost your training regimen with a bundle of <color=#fff568>Gold and Training Modules</color>. Elevate your heroes' skills and conquer every challenge. <color=#ffda21>Greater than {var1}x value</color>.
+ID_OF_DE_MD24_GOLD_ABM,Boost your training regimen with a bundle of <color=#fff568>Gold and Ability Material</color>. Elevate your heroes' skills and conquer every challenge. <color=#ffda21>Greater than {var1}x value</color>.
+ID_OF_DE_MD24_CABAL_UNIQUE,"Enhance your heroes' capabilities with elite gear enhancements, giving them the edge they need to succeed. <color=#ffda21>Greater than {var1}x value</color>."
+ID_OF_DE_MD24_DIAMOND_TRAINING_GOLD_ORB,Harness the essence of <color=#ffda21>Diamond Orbs and multiple orbs</color> to empower your heroes with a surge of strength and resources.
+ID_OF_DE_MD24_ABM_TRAIN_GOLD,Boost your training regimen with a bundle of <color=#fff568>Gold and Ability Material</color>. Elevate your heroes' skills and conquer every challenge.
+ID_OF_DE_MD24_DPC_E7,"Power up your heroes with a pack of <color=#fff568>Iso-8</color> upgrades, unleashing their full potential on the battlefield. <color=#ffda21>Greater than {var1}x value</color>."
+ID_OF_DE_MD24_ELITE_CREDIT,Experience a surge of power with essential <color=#fff568>Elite Credits</color>. <color=#ffda21>Greater than {var1}x value</color>
+ID_OF_DE_MD24_PETERB_TRAINING,Empower the dynamic duo of Peter B. Parker and Mayday with a pack of specialized gear upgrades. <color=#ffda21>Greater than {var1}x value</color>.
+ID_OF_DE_MD24_DAILYGOLD,Embark on a rush for riches with essential <color=#fff568>Gold</color>.
+ID_OF_DE_MD24_MEGAGOLD,Unlock the treasures of wealth with the <color=#fff568>Golden Vault</color>
+ID_OF_DE_MD24_GOLD_DPC,Seize this golden opportunity to acquire <color=#fff568>Gold Orbs</color> and other essential resources. Accelerate your journey to greatness now. <color=#ffda21>Greater than {var1}x value</color>.
+ID_OF_DE_MD24_TRAINING_UNIQUE,Master your heroes' skills with the ultimate unique gear and training combo. Ascend to the pinnacle of power and dominance. <color=#ffda21>Greater than {var1}x value</color>.
+ID_OF_DE_MD24_TRAINING_GOLD,Boost your training regimen with a bundle of <color=#fff568>Gold and Training Modules</color>. Elevate your heroes' skills and conquer every challenge. <color=#ffda21>Greater than {var1}x value</color>.
+ID_OF_DE_MD24_RED_UNIQUE,"Dominate the battlefield with the <color=#ff2c2c>Crimson Gear</color>, ensuring victory with its formidable enhancements. <color=#ffda21>Greater than {var1}x value</color>."
+ID_OF_DE_MD24_NIGHTCRAWLER,Help <color=#ffda21>Nightcrawler</color> wreak havoc on your enemies with this special deal! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_MD24_VOIDKNIGHT,Help <color=#ffda21>Void Knight</color> wreak havoc on your enemies with this special deal! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_MD24_BLACKKNIGHT,Protect the world with <color=#ffda21>Black Knight</color> in this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_MD24_GEAR_UNIQUE,"Enhance your heroes' capabilities with elite gear enhancements, giving them the edge they need to succeed. <color=#ffda21>Greater than {var1}x value</color>."
+ID_OF_DE_MD24_ISO8_ORBS,"Power up your heroes with a pack of <color=#fff568>Iso-8</color> upgrades, unleashing their full potential on the battlefield. <color=#ffda21>Greater than {var1}x value</color>."
+ID_OF_DE_MD24_E7_DPC,Experience a surge of power with essential <color=#fff568>Elite Credits</color>. <color=#ffda21>Greater than {var1}x value</color>
+ID_OF_DE_MD24_RSO_E67,"Connect your heroes to a world of possibilities with this combo of diverse orbs, offering a range of resources to fuel their adventures. <color=#ffda21>Greater than {var1}x value</color>."
+ID_OF_DE_MD24_GOLDDIAMONDPACK,Unlock the riches with this exclusive <color=#fff568>Golden Diamond Pack</color>. <color=#ffda21>Greater than {var1}x value</color>
+ID_OF_DE_MD24_GOLD_ORBS,Seize this golden opportunity to acquire <color=#fff568>Gold Orbs</color> and other essential resources. Accelerate your journey to greatness now. <color=#ffda21>Greater than {var1}x value</color>.
+ID_OF_DE_MD24_GEAR_UNIQUE2,"Enhance your heroes' capabilities with elite gear enhancements, giving them the edge they need to succeed. <color=#ffda21>Greater than {var1}x value</color>."
+ID_OF_DE_MD24_GACHA_ORBS,"Connect your heroes to a world of possibilities with this collection of diverse orbs, offering a range of resources to fuel their adventures. <color=#ffda21>Greater than {var1}x value</color>."
+ID_OF_DE_MD24_TRAINING_ABM,Master your heroes' skills with the ultimate training combo. Ascend to the pinnacle of power and dominance. <color=#ffda21>Greater than {var1}x value</color>.
+ID_OF_DE_MD24_GOLD_ORBS2,Seize this golden opportunity to acquire <color=#fff568>Gold Orbs</color> and other essential resources. Accelerate your journey to greatness now. <color=#ffda21>Greater than {var1}x value</color>.
+ID_OF_DE_MD24_ORB_ABM,"Connect your heroes to a world of possibilities with this combo of diverse orbs, offering a range of resources to fuel their adventures. <color=#ffda21>Greater than {var1}x value</color>."
+ID_OF_DE_MD24_CATALYST,Seize this offer for more <color=#fff568>Teal Gear</color>! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_MD24_DPC,Experience a surge of power with essential <color=#fff568>Dark Diamond Credit and Dark Promotion Credit</color>. <color=#ffda21>Greater than {var1}x value</color>
+ID_OF_DE_MD24_ISO8_T2,"Power up your heroes with a pack of <color=#fff568>Iso-8</color> upgrades, unleashing their full potential on the battlefield. <color=#ffda21>Greater than {var1}x value</color>."
+ID_OF_NA_XMEN24_TEAM_UNCANNY,Uncanny X-Men Team Pack
+ID_OF_NA_XMEN24_TEAM_ASTONISHING,Astonishing X-Men Team Pack
+ID_OF_NA_XMEN24_TEAM_XTREME,X-Treme X-Men Team Pack
+ID_OF_NA_XMEN24_TEAM_UNLIMITED,Unlimited X-Men Team Pack
+ID_OF_NA_XMEN24_COSTUME_CYCLOPS,Cyclops: Astonishing Costume Offer
+ID_OF_NA_XMEN24_COSTUME_BISHOP,Bishop: Marauders Costume Offer
+ID_OF_NA_XMEN24_COSTUME_STORM,Storm: Classic Costume Offer
+ID_OF_NA_XMEN24_COSTUME_WOLVERINE,Wolverine: Uncanny Costume Offer
+ID_OF_NA_XMEN24_COSTUME_PHOENIX,Phoenix: Endsong Costume Offer
+ID_OF_NA_XMEN24_COSTUME_JUBILEE,Jubilee: Year of the Tiger Offer
+ID_OF_NA_XMEN24_ROGUE,Rogue Booster Pack
+ID_OF_NA_XMEN24_TEAL_NIGHTCRAWLER,The Popular Brawling Bamf
+ID_OF_NA_XMEN24_CRIMSON_LEGENDARY,Legendary Uniques
+ID_OF_NA_XMEN24_CRIMSON_XTREME_UNIQUES,Too Xtreme Uniques
+ID_OF_NA_XMEN24_CRIMSON_UNCANNY_UNIQUES,Uncanny Uniques
+ID_OF_NA_XMEN24_CRIMSON_ASTONISHING_UNIQUES,Uniques so Astonishing
+ID_OF_NA_XMEN24_CRIMSON_UNLIMITED_UNIQUES,Limited Uniques
+ID_OF_NA_XMEN24_CRIMSON_MUTANT,Mutant Takeover
+ID_OF_NA_XMEN24_CRIMSON_STATS,Crimson Catalysts Bundle
+ID_OF_NA_XMEN24_RAINBOW_MUTANT,Mutant Gear Top Up
+ID_OF_NA_XMEN24_DARKCREDITS,Dark Credits Combo
+ID_OF_NA_XMEN24_LEVEL5_CONTROLLER,Controllers Power Up
+ID_OF_NA_XMEN24_LEVEL5_BLASTER,Blasters Power Up
+ID_OF_NA_XMEN24_LEVEL5_BRAWLER_NIGHTCRAWLER,Nightcrawler & Brawler Power Up
+ID_OF_NA_XMEN24_LEVELUP,Uplifting Greatness
+ID_OF_DE_XMEN24_TEAM_GENERIC,The X-Men are back and in full effect! Get this X-Men bundle and boost multiple characters to build one of the most iconic teams!
+ID_OF_DE_XMEN24_COSTUME_GENERIC,Style on your enemies by taking advantage of this spectacular costume offer!
+ID_OF_DE_XMEN24_ROGUE,Take advantage of this special offer of Famine Orbs and more!
+ID_OF_DE_XMEN24_TEAL_NIGHTCRAWLER,"Seize this offer for more <color=#fff568>Teal Mutant Gear</color> for your Nightcrawler! Use Nightcrawler to apply Speed Up and Evade to <color=#fff568>X-Men</color>, give Speed Bar to <color=#fff568>X-Treme X-Men</color>, and prolong positive effects for all allies!"
+ID_OF_DE_XMEN24_CRIMSON_LEGENDARY,Take the <color=#ffda21>Legendary</color> Mutants to a whole new gear level with this bundle of <color=#f12603>Crimson Uniques</color>.
+ID_OF_DE_XMEN24_CRIMSON_XTREME_UNIQUES,Make the X-Men even more unique with this group of <color=#f12603>Crimson Uniques</color>! Empower the <color=#ffda21>X-Treme X-Men</color> with this bundle.
+ID_OF_DE_XMEN24_CRIMSON_UNCANNY_UNIQUES,Make the X-Men even more unique with this group of <color=#f12603>Crimson Uniques</color>! Empower the <color=#ffda21>Uncanny X-Men</color> with this bundle.
+ID_OF_DE_XMEN24_CRIMSON_ASTONISHING_UNIQUES,Make the X-Men even more unique with this group of <color=#f12603>Crimson Uniques</color>! Empower the <color=#ffda21>Astonishing X-Men</color> with this bundle.
+ID_OF_DE_XMEN24_CRIMSON_UNLIMITED_UNIQUES,"This bundle might be limited, but the X-Men are not! Get this group of <color=#f12603>Crimson Uniques</color> to help power the Unlimited X-Men."
+ID_OF_DE_XMEN24_CRIMSON_MUTANT,Get this X-clusive deal of <color=#f12603>Crimson Mutant Gear</color> for the X-Men!
+ID_OF_DE_XMEN24_CRIMSON_STATS,Up the stats of the X-Men with this deal of  <color=#f12603>Crimson Gear Catalysts</color>.
+ID_OF_DE_XMEN24_RAINBOW_MUTANT,"Low on mutant gear? No worries, get this special assortment of mutant gear to help gear up the X-Men!"
+ID_OF_DE_XMEN24_DARKCREDITS,"Stock up on <color=#ffda21>Dark Diamond Credit & Dark Promotion Credit</color> with this limited time offer and take the X-Men to the next level! "
+ID_OF_DE_XMEN24_LEVEL5_CONTROLLER,It's time to elevate your X-Men to new heights! Get Level 5 ISO-8 Gems for Controller characters with this amazing deal.
+ID_OF_DE_XMEN24_LEVEL5_BLASTER,It's time to elevate your X-Men to new heights! Get Level 5 ISO-8 Gems for Blaster characters with this amazing deal.
+ID_OF_DE_XMEN24_LEVEL5_BRAWLER_NIGHTCRAWLER,Upgrade <color=#ffda21>Nightcrawler</color> and other Brawlers with this special ISO-8 offer!
+ID_OF_DE_XMEN24_LEVELUP,"Boost the X-Men with this <color=#ffda21>Diamond orb, T4 Ability Material, & L4 Training Modules</color> bundle!"
+ID_OF_NA_DAKEN_FCO_OFFER,SNIKT! off the old Block
+ID_OF_DE_DAKEN_FCO_OFFER,Each <color=#fff568>Mutant Heir Orb</color> contains <color=#fff568>up to 180 Daken</color> shards. SNIKT! You can't run and you can't hide from <color=#fff568>Daken.</color> Chase enemies down with bloodthirsty precision!
+ID_OF_DE_DAKEN_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Daken</color> and unlock one-time only release offers on your next visit! SNIKT! You can't run and you can't hide from <color=#fff568>Daken.</color> Chase enemies down with bloodthirsty precision!
+ID_OF_DE_DAKEN_OFFER_SHARD,Power up <color=#fff568>Daken</color> with this shard offer! SNIKT! You can't run and you can't hide from <color=#fff568>Daken.</color> Chase enemies down with bloodthirsty precision!
+ID_OF_DE_DAKEN_UNLOCK_OFFER,Unlock <color=#fff568>Daken</color> now! SNIKT! You can't run and you can't hide from <color=#fff568>Daken.</color> Chase enemies down with bloodthirsty precision!
+ID_OF_STOREBAR_DAKEN,Dual Offer: Daken
+ID_OF_NA_DUAL_DAKEN,Dual Offer: Daken
+ID_OF_DE_DUAL_DAKEN,Choose your path to power up this <color=#fff568>Mercs for Money</color> member!
+ID_OF_DE_DUAL_UNLOCK_DAKEN,Unlock this <color=#fff568>Mercs for Money</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_DAKEN_FCO_OFFER_BASIC,Daken Release Offer
+ID_OF_NA_DAKEN_WEB_EXTRA_FCO_OFFER,Daken Unlock Offer
+ID_OF_DE_DAKEN_WEB_EXTRA_FCO_OFFER,"The SNIKT! off the old Block, <color=#fff568>Daken</color>, has arrived!"
+ID_OF_NA_DAKEN_WEB_SPECIAL_OFFER,SNIKT! off the old Block Special
+ID_OF_DE_DAKEN_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color>SNIKT! You can't run and you can't hide from <color=#fff568>Daken.</color> Chase enemies down with bloodthirsty precision!

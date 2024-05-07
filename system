@@ -1488,5 +1488,5 @@ ID_REQUIRES_MERCSFORMONEY_STORY,ONLY <color=#fff568>MERCS FOR MONEY</color> or <
 ID_REQUIRES_MERCSFORMONEY_CH,"ONLY <color=#fff568>MERCS FOR MONEY</color> or <color=#fff568>SPIDER-VERSE</color>\nREQUIRES: <color=#fff568>DEADPOOL</color>, <color=#fff568>DEATHPOOL</color>"
 ID_REQUIRES_MERCSFORMONEY_CH_PANDAPOOL,"ONLY <color=#fff568>MERCS FOR MONEY</color> or <color=#fff568>SPIDER-VERSE</color>\nREQUIRES: <color=#fff568>DEADPOOL</color>, <color=#fff568>DEATHPOOL</color>, <color=#fff568>PANDAPOOL</color>"
 ID_REQUIRES_MERCSFORMONEY_CH_DAKEN,"ONLY <color=#fff568>MERCS FOR MONEY</color> or <color=#fff568>SPIDER-VERSE</color>\nREQUIRES: <color=#fff568>DEADPOOL</color>, <color=#fff568>DEATHPOOL</color>, <color=#fff568>PANDAPOOL</color>, <color=#fff568>DAKEN</color>"
-ID_REQUIRES_MERCSFORMONEY_THM,"ONLY <color=#fff568>MERCS FOR MONEY</color> or <color=#fff568>SPIDER-VERSE</color>\nREQUIRES: Gear Tier 14, 4 Yellow Stars"
-ID_REQUIRES_MERCSFORMONEY_BONUS,"ONLY <color=#fff568>MERCS FOR MONEY</color> or <color=#fff568>SPIDER-VERSE</color>\nREQUIRES: Gear Tier 16, 6 Yellow Stars"
+ID_REQUIRES_MERCSFORMONEY_THM,"ONLY <color=#fff568>MERCS FOR MONEY</color> and <color=#fff568>SPIDER-VERSE</color>\nREQUIRES: Gear Tier 14, 4 Yellow Stars"
+ID_REQUIRES_MERCSFORMONEY_BONUS,"ONLY <color=#fff568>MERCS FOR MONEY</color> and <color=#fff568>SPIDER-VERSE</color>\nREQUIRES: Gear Tier 16, 6 Yellow Stars"
