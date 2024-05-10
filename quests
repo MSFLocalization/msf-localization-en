@@ -4385,3 +4385,24 @@ ID_QU_SD_ALLIEDARACHNIDS,Battle in Raids for M is for Mercs progress!
 ID_QU_LD_ALLIEDARACHNIDS,Collaborate with your alliance to battle through Raids and earn Allied Supply IV Orb Fragments. Allied Supply IV Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
 ID_QU_S1_ALLIEDARACHNIDS,Play 1 Raid Battle
 ID_QU_S2_ALLIEDARACHNIDS,Earn 1 Allied Supply IV Orb Fragment
+ID_QU_NA_REDINTOOTHANDCLAW,Red in Tooth and Claw
+ID_QU_DE_REDINTOOTHANDCLAW,Earn Mission Supplies and a Mercenary Contract!
+ID_QU_LD_REDINTOOTHANDCLAW,"Red in Tooth and Claw\nGain progress in this 6-day event by battling in Cosmic Crucible, collecting Aged Adamantium Orb Fragments from Campaign nodes, Free Claims, and special Offers, and completing the Adamantium Power web milestone.\n\nEarn incredible rewards including Gold, Crimson Bio Gear, L4 Training Modules, and Diamond Orbs. You'll also earn points towards the month-long M is for Mercs milestone by collecting Mission Supplies and a Mercenary Contract.\n\nAdamantium Power Web Milestone\nSpend Power Cores and be rewarded with Aged Adamantium Orb Fragments and bonus progress in the Red in Tooth and Claw and M is for Mercs Milestones."
+ID_QU_SD_REDINTOOTHANDCLAW,"Earn Orbs in Campaign, battle in Cosmic Crucible"
+ID_QU_S1_REDINTOOTHANDCLAW,Battle in Cosmic Crucible with The Leader
+ID_QU_S2_REDINTOOTHANDCLAW,Battle in Cosmic Crucible with The Leader at 5 Yellow Star
+ID_QU_S3_REDINTOOTHANDCLAW,Battle in Cosmic Crucible with The Leader at 6 Yellow Star
+ID_QU_S4_REDINTOOTHANDCLAW,Battle in Cosmic Crucible with The Leader at 7 Yellow Star
+ID_QU_S5_REDINTOOTHANDCLAW,Battle in Cosmic Crucible with Iron Patriot
+ID_QU_S6_REDINTOOTHANDCLAW,Battle in Cosmic Crucible with Iron Patriot at 5 Yellow Star
+ID_QU_S7_REDINTOOTHANDCLAW,Battle in Cosmic Crucible with Iron Patriot at 6 Yellow Star
+ID_QU_S8_REDINTOOTHANDCLAW,Battle in Cosmic Crucible with Iron Patriot at 7 Yellow Star
+ID_QU_S9_REDINTOOTHANDCLAW,Battle in Cosmic Crucible with Namor
+ID_QU_S10_REDINTOOTHANDCLAW,Battle in Cosmic Crucible with Namor at 5 Yellow Star
+ID_QU_S11_REDINTOOTHANDCLAW,Battle in Cosmic Crucible with Namor at 6 Yellow Star
+ID_QU_S12_REDINTOOTHANDCLAW,Battle in Cosmic Crucible with Namor at 7 Yellow Star
+ID_QU_S13_REDINTOOTHANDCLAW,Earn 1 Aged Adamantium Orb Fragment
+ID_QU_NA_ADAMANTIUMPOWER,Adamantium Power
+ID_QU_SD_ADAMANTIUMPOWER,Spend Power Cores
+ID_QU_LD_ADAMANTIUMPOWER,"Spend Power Cores and get rewarded with Aged Adamantium Orb Fragments, Mission Supplies, and Red in Tooth and Claw milestone progress."
+ID_QU_S1_ADAMANTIUMPOWER,Spend 1 Power Core

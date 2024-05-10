@@ -7833,6 +7833,22 @@ ID_OF_DE_ALLIEDARACHNIDS_INTERSTITIAL,Stock up on Allied Supply IV Orbs for extr
 ID_OF_DE_ALLIEDARACHNIDS_FREE,Come back daily for more <color=#fff568>Allied Arachnids</color> progress!
 ID_OF_NA_DD7_CELEBRATION,Dark Dimension VII Winner Celebration: 10 for 10
 ID_OF_DE_DD7_CELEBRATION,Celebrate <color=#fff568>BetaRayBill</color>'s monumental achievement as the first Commander to conquer Dark Dimension VII!
+ID_OF_NA_REDINTOOTHANDCLAW_MEGA_STARTER,Red in Tooth and Claw: Mega Starter
+ID_OF_NA_REDINTOOTHANDCLAW_STARTER,Red in Tooth and Claw: Starter Pack
+ID_OF_NA_REDINTOOTHANDCLAW_MEGA_CATCHUP,Red in Tooth and Claw: Mega Catch-up
+ID_OF_NA_REDINTOOTHANDCLAW_CATCHUP,Red in Tooth and Claw: Catch-up Bundle
+ID_OF_NA_REDINTOOTHANDCLAW_WEB_SPECIAL,Red in Tooth and Claw: Web Special
+ID_OF_NA_REDINTOOTHANDCLAW_DAILY_ORB,Red in Tooth and Claw: Daily Orb
+ID_OF_NA_REDINTOOTHANDCLAW_DAILY_ENERGY,Red in Tooth and Claw: Daily Energy
+ID_OF_NA_REDINTOOTHANDCLAW_FREE_CLAIM,Red in Tooth and Claw: Free Claim
+ID_OF_NA_REDINTOOTHANDCLAW_DAILY_INTERSTITIAL,Red in Tooth and Claw: Hidden Trove
+ID_OF_DE_REDINTOOTHANDCLAW_STARTER,Get ahead in the <color=#fff568>Red in Tooth and Claw</color> Milestone and fast-forward your way to <color=#f12603>Crimson Gear</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_REDINTOOTHANDCLAW_CATCHUP,Finish strong in the milestones to earn <color=#f12603>Crimson Bio Gear</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_REDINTOOTHANDCLAW_WEB_SPECIAL,Take a leap of faith with this Red in Tooth and Claw special web bundle!
+ID_OF_DE_REDINTOOTHANDCLAW_DAILY_ORB,Make progress in the Red In Tooth and Claw milestone by collecting more <color=#fff568>Aged Adamantium Orb Fragments</color>!
+ID_OF_DE_REDINTOOTHANDCLAW_DAILY_ENERGY,Get a daily dose of Campaign Energy to complete the <color=#fff568>Red in Tooth and Claw Milestone</color>!
+ID_OF_DE_REDINTOOTHANDCLAW_FREE_CLAIM,Come back daily for more <color=#fff568>Red In Tooth and Claw</color> progress!
+ID_OF_DE_REDINTOOTHANDCLAW_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Red In Tooth and Claw</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_MD24_WANDA,Decade of Love: Mom's Anniversary
 ID_OF_NA_MD24_GOLD_TRAINING,Decade of Love: Golden Training
 ID_OF_NA_MD24_GOLD_ABM,Decade of Love: Golden Training
@@ -7953,3 +7969,84 @@ ID_OF_NA_DAKEN_WEB_EXTRA_FCO_OFFER,Daken Unlock Offer
 ID_OF_DE_DAKEN_WEB_EXTRA_FCO_OFFER,"The SNIKT! off the old Block, <color=#fff568>Daken</color>, has arrived!"
 ID_OF_NA_DAKEN_WEB_SPECIAL_OFFER,SNIKT! off the old Block Special
 ID_OF_DE_DAKEN_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color>SNIKT! You can't run and you can't hide from <color=#fff568>Daken.</color> Chase enemies down with bloodthirsty precision!
+ID_OF_NA_OMLCNTDWN_BKUNIQUEDUAL,Black Knight Choice
+ID_OF_NA_OMLCNTDWN_IRONPATUNIQUEDUAL,Iron Patriot Choice
+ID_OF_NA_OMLCNTDWN_STARBRANDUNIQUEDUAL,Starbrand Choice
+ID_OF_NA_OMLCNTDWN_LOKIUNIQUEDUAL,Loki Choice
+ID_OF_NA_OMLCNTDWN_LEADERUNIQUEDUAL,The Leader Choice
+ID_OF_NA_OMLCNTDWN_CAPAMERICAUNIQUEDUAL,Captain America Choice
+ID_OF_NA_OMLCNTDWN_CGRUNIQUEDUAL,Cosmic Choice
+ID_OF_NA_OMLCNTDWN_NAMORUNIQUEDUAL,Namor Choice
+ID_OF_NA_OMLCNTDWN_EMMAUNIQUEDUAL,Emma Frost Choice
+ID_OF_NA_OMLCNTDWN_CAPCARTERUNIQUEDUAL,Captain Carter Choice
+ID_OF_NA_OMLCNTDWN_CRIMCATDUAL,Choose Your Catalysts
+ID_OF_NA_OMLCNTDWN_CRIMBIODUAL,Bio Choice
+ID_OF_NA_OMLCNTDWN_CRIMMUTANTDUAL,Mutant Choice
+ID_OF_NA_OMLCNTDWN_CRIMMYSTICDUAL,Mystic Choice
+ID_OF_NA_OMLCNTDWN_CRIMSKILLDUAL,Skill Choice
+ID_OF_NA_OMLCNTDWN_CRIMTECHDUAL,Tech Choice
+ID_OF_NA_OMLCNTDWN_CABALCALSHARD,Calendar of Cabal
+ID_OF_NA_OMLCNTDWN_OOTCALSHARD,Timeless Calendar
+ID_OF_NA_OMLCNTDWN_CABALCALGEAR,Uniquely Cabal
+ID_OF_NA_OMLCNTDWN_OOTCALGEAR,Uniquely Out Of Time
+ID_OF_NA_OMLCNTDWN_BKEMMA,Knight of the Frost
+ID_OF_NA_OMLCNTDWN_LEADERCARTER,Lead the Charge
+ID_OF_NA_OMLCNTDWN_PATRIOTAMERICA,Patriotic Combo
+ID_OF_NA_OMLCNTDWN_STARLOKI,Mystical Powers
+ID_OF_NA_OMLCNTDWN_CGRNAMOR,Elemental Advantage
+ID_OF_NA_OMLCNTDWN_IPDIAMOND,Iron Patriot Special
+ID_OF_NA_OMLCNTDWN_IPLOW,Iron Patriot Combo
+ID_OF_NA_OMLCNTDWN_LEADERDIAMOND,The Leader Special
+ID_OF_NA_OMLCNTDWN_LEADERLOW,The Leader Combo
+ID_OF_NA_OMLCNTDWN_STARBRANDDIAMOND,Starbrand Special
+ID_OF_NA_OMLCNTDWN_STARBRANDLOW,Starbrand Combo
+ID_OF_NA_OMLCNTDWN_BLACKKNIGHTDPC,Black Knight Special
+ID_OF_NA_OMLCNTDWN_BLACKKNIGHTLOW,Black Knight Combo
+ID_OF_NA_OMLCNTDWN_CGRDIAMOND,Cosmic Ghost Rider Special
+ID_OF_NA_OMLCNTDWN_CGRLOW,Cosmic Ghost Rider Combo
+ID_OF_NA_OMLCNTDWN_NAMOR,Namor Special
+ID_OF_NA_OMLCNTDWN_EMMAFROST,Emma Frost Special
+ID_OF_NA_OMLCNTDWN_LOKI,Loki Special
+ID_OF_NA_OMLCNTDWN_CAPTAINCARTER,Captain Carter Special
+ID_OF_NA_OMLCNTDWN_CAPTAINAMERICA,Captain America Special
+ID_OF_NA_OMLCNTDWN_IPDIAMONDORB,Iron Patriot Draft
+ID_OF_NA_OMLCNTDWN_LEADERDIAMONDORB,The Leader Draft
+ID_OF_NA_OMLCNTDWN_EMMADIAMONDORB,Emma Frost Draft
+ID_OF_NA_OMLCNTDWN_NAMORDIAMONDORB,Namor Draft
+ID_OF_NA_OMLCNTDWN_LOKIDIAMONDORB,Loki Draft
+ID_OF_NA_OMLCNTDWN_STARBRANDDIAMONDORB,Starbrand Draft
+ID_OF_NA_OMLCNTDWN_CGRDIAMONDORB,Cosmic Ghost Rider Draft
+ID_OF_NA_OMLCNTDWN_CARTERDIAMONDORB,Captain Carter Draft
+ID_OF_NA_OMLCNTDWN_AMERICADIAMONDORB,Captain America Draft
+ID_OF_DE_OMLCNTDWN_UNIQUEDUAL,Choose your path forward to prepare for the Old Man Logan Trials!
+ID_OF_DE_OMLCNTDWN_CRIMGEARDUAL,The power is in your hands to prepare for the Old Man Logan Trials ahead!
+ID_OF_DE_OMLCNTDWN_CABALCALSHARD,5 days of Cabal shards to strengthen your roster!
+ID_OF_DE_OMLCNTDWN_OOTCALSHARD,5 days of Out Of Time shards to strengthen your roster!
+ID_OF_DE_OMLCNTDWN_CABALCALGEAR,5 days of the Crimson Uniques to take your Cabal team to the next level!
+ID_OF_DE_OMLCNTDWN_OOTCALGEAR,5 days of the Crimson Uniques to take your Out Of Time team to the next level!
+ID_OF_DE_OMLCNTDWN_COMBO,Power up your roster for the upcoming Old Man Logan Trials!
+ID_OF_DE_OMLCNTDWN_IPDIAMOND,Excel in the Pocket Dimension and future Trials with a Diamond Iron Patriot!
+ID_OF_DE_OMLCNTDWN_IPLOW,Get more health packs to utilize Iron Patriot in the Pocket Dimension!
+ID_OF_DE_OMLCNTDWN_LEADERDIAMOND,Excel in the Pocket Dimension and future Trials with a Diamond The Leader!
+ID_OF_DE_OMLCNTDWN_LEADERLOW,Get more health packs to utilize The Leader in the Pocket Dimension!
+ID_OF_DE_OMLCNTDWN_STARBRANDDIAMOND,Excel in the Pocket Dimension and future Trials with a Diamond Starbrand!
+ID_OF_DE_OMLCNTDWN_STARBRANDLOW,Get more health packs to utilize Starbrand in the Pocket Dimension!
+ID_OF_DE_OMLCNTDWN_BLACKKNIGHTDPC,Excel in the Pocket Dimension and future Trials with a powered up Black Knight!
+ID_OF_DE_OMLCNTDWN_BLACKKNIGHTLOW,Get more health packs to utilize Black Knight in the Pocket Dimension!
+ID_OF_DE_OMLCNTDWN_CGRDIAMOND,Excel in the Pocket Dimension and future Trials with a Diamond Cosmic Ghost Rider!
+ID_OF_DE_OMLCNTDWN_CGRLOW,Get more health packs to utilize Cosmic Ghost Rider in the Pocket Dimension!
+ID_OF_DE_OMLCNTDWN_NAMOR,Get more health packs to utilize Namor in the Pocket Dimension!
+ID_OF_DE_OMLCNTDWN_EMMAFROST,Get more health packs to utilize Emma Frost in the Pocket Dimension!
+ID_OF_DE_OMLCNTDWN_LOKI,Get more health packs to utilize Loki in the Pocket Dimension!
+ID_OF_DE_OMLCNTDWN_CAPTAINCARTER,Get more health packs to utilize Captain Carter in the Pocket Dimension!
+ID_OF_DE_OMLCNTDWN_CAPTAINAMERICA,Get more health packs to utilize Captain America in the Pocket Dimension!
+ID_OF_DE_OMLCNTDWN_IPDIAMONDORB,Guarantee yourself a Diamond Iron Patriot with a chance to get 3 Diamonds!
+ID_OF_DE_OMLCNTDWN_LEADERDIAMONDORB,Guarantee yourself a Diamond The Leader with a chance to get 3 Diamonds!
+ID_OF_DE_OMLCNTDWN_EMMADIAMONDORB,Guarantee yourself a Diamond Emma Frost with a chance to get 3 Diamonds!
+ID_OF_DE_OMLCNTDWN_NAMORDIAMONDORB,Guarantee yourself a Diamond Namor with a chance to get 3 Diamonds!
+ID_OF_DE_OMLCNTDWN_LOKIDIAMONDORB,Guarantee yourself a Diamond Loki with a chance to get 3 Diamonds!
+ID_OF_DE_OMLCNTDWN_STARBRANDDIAMONDORB,Guarantee yourself a Diamond Starbrand with a chance to get 3 Diamonds!
+ID_OF_DE_OMLCNTDWN_CGRDIAMONDORB,Guarantee yourself a Diamond Cosmic Ghost Rider with a chance to get 3 Diamonds!
+ID_OF_DE_OMLCNTDWN_CARTERDIAMONDORB,Guarantee yourself a Diamond Captain Carter with a chance to get 3 Diamonds!
+ID_OF_DE_OMLCNTDWN_AMERICADIAMONDORB,Guarantee yourself a Diamond Captain America with a chance to get 3 Diamonds!
+ID_OF_DE_POCKETDIMAPR24_ENERGYPACKSMALL,Heal or revive your team and continue the fight with this Pocket Dimension bundle!

@@ -212,8 +212,8 @@ ID_EVENT_CUR1_NAME,Spider Tech Orb Fragments
 ID_EVENT_CUR1_DESCRIPTION,Open Spider Tech Orbs for Peni Parker shards
 ID_EVENT_CUR2_NAME,Gear Credits
 ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
-ID_EVENT_CUR3_NAME,Stellar Specter Orb Fragment
-ID_EVENT_CUR3_DESCRIPTION,"Open Stellar Specter Orbs to earn shards for Cosmic Ghost Rider, Hive-Mind characters, and progress in the Eternal Vengeance milestone"
+ID_EVENT_CUR3_NAME,Aged Adamantium Orb Fragment
+ID_EVENT_CUR3_DESCRIPTION,"Open Aged Adamantium Orbs to earn shards for Out of Time characters, Cabal characters, Emma Frost, Loki and progress in the Red in Tooth and Claw milestone"
 ID_EVENT_CUR4_NAME,Demonic Origins Milestone Points
 ID_EVENT_CUR4_DESCRIPTION,These points earn you additional progress in the Demonic Origins Milestone. Earn them in limited offers!
 ID_EVENT_CUR5_NAME,Anniversary Orb Fragments
@@ -352,8 +352,8 @@ ID_EVTA_META_MAY_C_NAME,All That Glitters Milestone Points
 ID_EVTA_META_MAY_C_DESCRIPTION,"These points earn you additional progress in the All That Glitters Milestone. Earn them in the Golden Blitz, Daily Free Claims on our website, the Stashed Cache Web Milestone, and limited offers!"
 ID_EVTA_META_MAY_D_NAME,Along Came a SP//dr Milestone Points
 ID_EVTA_META_MAY_D_DESCRIPTION,"These points earn you additional progress in the Along Came a SP//dr Milestone. Earn them in Daily Free Claims on our website, the After School Projects Web Milestone, and limited offers!"
-ID_EVTA_META_MAY_E_NAME,Red-Hot Gloves
-ID_EVTA_META_MAY_E_DESCRIPTION,Collect the Red-Hot Gloves for points in the Solar Flare Event. Earn them in the Out of this World Event!
+ID_EVTA_META_MAY_E_NAME,Red in Tooth and Claw Milestone Points
+ID_EVTA_META_MAY_E_DESCRIPTION,These points earn you additional progress in the Red in Tooth and Claw Milestone. Earn them in the Adamantium Power Web Milestone and Special Offers!
 ID_EVTA_META_MAY_F_NAME,Searing Boots
 ID_EVTA_META_MAY_F_DESCRIPTION,Collect the Searing Boots for points in the Solar Flare Event. Earn them in the Cosmic Canine Event!
 ID_EVTA_META_JUN_A_NAME,Rock Concert Ticket

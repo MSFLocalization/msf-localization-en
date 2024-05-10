@@ -9000,6 +9000,10 @@ ID_GACHA_CRATE_DD7CELEBRATEREDGOBLIN_NAME,Dark Dimension VII Red Goblin Orb
 ID_GACHA_CRATE_DD7CELEBRATEREDGOBLIN_DESCRIPTION,Spend your Dark Dimension VII Celebration Tokens to choose Red Goblin!
 ID_GACHA_CRATE_DD7CELEBRATEREDGOBLIN_TOKEN_NAME,Dark Dimension VII Celebration Tokens
 ID_GACHA_CRATE_DD7CELEBRATEREDGOBLIN_TOKEN_DESCRIPTION,"Use these points to select either 100 shards of Void Knight and a 7-red star Void Knight promotion, or 100 shards of Red Goblin and a 7-red star Red Goblin promotion!"
+ID_GACHA_CRATE_AGEDADAMANTIUM_NAME,Aged Adamantium Orb
+ID_GACHA_CRATE_AGEDADAMANTIUM_DESCRIPTION,Earn Black Knight shards and event progress!
+ID_GACHA_CRATE_AGEDADAMANTIUM_TOKEN_NAME,Aged Adamantium Orb Fragment
+ID_GACHA_CRATE_AGEDADAMANTIUM_TOKEN_DESCRIPTION,"Open Aged Adamantium Orbs to earn shards for Out of Time characters, Cabal characters, Emma Frost, Loki and progress in the Red in Tooth and Claw milestone"
 ID_GACHA_CRATE_FCO_PANDAPOOL_SPECIAL_NAME,Clawed Cuddler Orb
 ID_GACHA_CRATE_FCO_PANDAPOOL_SPECIAL_DESCRIPTION,Earn up to 180 Pandapool shards
 ID_GACHA_CRATE_FCO_PANDAPOOL_SPECIAL_TOKEN_NAME,Clawed Cuddler Orb Fragments
@@ -9008,3 +9012,21 @@ ID_GACHA_CRATE_FCO_DAKEN_SPECIAL_NAME,Mutant Heir Orb
 ID_GACHA_CRATE_FCO_DAKEN_SPECIAL_DESCRIPTION,Earn up to 180 Daken shards
 ID_GACHA_CRATE_FCO_DAKEN_SPECIAL_TOKEN_NAME,Mutant Heir Orb Fragments
 ID_GACHA_CRATE_FCO_DAKEN_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Mutant Heir Orbs that contain up to 180 Daken shards.
+ID_GACHA_CRATE_DMNDDRAFT_NAMOR_NAME,Namor Diamond Draft
+ID_GACHA_CRATE_DMNDDRAFT_LOKI_NAME,Loki Diamond Draft
+ID_GACHA_CRATE_DMNDDRAFT_CAPTAINAMERICA_NAME,Captain America Diamond Draft
+ID_GACHA_CRATE_DMNDDRAFT_CAPTAINCARTER_NAME,Captain Carter Diamond Draft
+ID_GACHA_CRATE_DMNDDRAFT_EMMAFROST_NAME,Emma Frost Diamond Draft
+ID_GACHA_CRATE_DMNDDRAFT_IRONPATRIOT_NAME,Iron Patriot Diamond Draft
+ID_GACHA_CRATE_DMNDDRAFT_THELEADER_NAME,The Leader Diamond Draft
+ID_GACHA_CRATE_DMNDDRAFT_COSMICGHOSTRIDER_NAME,Cosmic Ghost Rider Diamond Draft
+ID_GACHA_CRATE_DMNDDRAFT_STARBRAND_NAME,Starbrand Diamond Draft
+ID_GACHA_CRATE_DMNDDRAFT_NAMOR_DESCRIPTION,Get guaranteed diamond(s) of Namor and 10 Silver Diamond Credits!
+ID_GACHA_CRATE_DMNDDRAFT_LOKI_DESCRIPTION,Get guaranteed diamond(s) of Loki and 10 Silver Diamond Credits!
+ID_GACHA_CRATE_DMNDDRAFT_CAPTAINAMERICA_DESCRIPTION,Get guaranteed diamond(s) of Captain America and 10 Silver Diamond Credits!
+ID_GACHA_CRATE_DMNDDRAFT_CAPTAINCARTER_DESCRIPTION,Get guaranteed diamond(s) of Captain Carter and 10 Silver Diamond Credits!
+ID_GACHA_CRATE_DMNDDRAFT_EMMAFROST_DESCRIPTION,Get guaranteed diamond(s) of Emma Frost and 10 Silver Diamond Credits!
+ID_GACHA_CRATE_DMNDDRAFT_IRONPATRIOT_DESCRIPTION,Get guaranteed diamond(s) of Iron Patriot and 10 Silver Diamond Credits!
+ID_GACHA_CRATE_DMNDDRAFT_THELEADER_DESCRIPTION,Get guaranteed diamond(s) of The Leader and 10 Silver Diamond Credits!
+ID_GACHA_CRATE_DMNDDRAFT_COSMICGHOSTRIDER_DESCRIPTION,Get guaranteed diamond(s) of Cosmic Ghost Rider and 10 Silver Diamond Credits!
+ID_GACHA_CRATE_DMNDDRAFT_STARBRAND_DESCRIPTION,Get guaranteed diamond(s) of Starbrand and 10 Silver Diamond Credits!
