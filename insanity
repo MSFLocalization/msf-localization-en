@@ -231,3 +231,37 @@ ID_MISSION_GREENGOBLINTRIALS_01_08_NAME,Mission 8
 ID_MISSION_GREENGOBLINTRIALS_01_09_NAME,Mission 9
 ID_MISSION_GREENGOBLINTRIALS_01_10_NAME,Mission 10
 ID_MISSION_GREENGOBLINTRIALS_BLANK_DESC,
+ID_PD_SL_TEMPORAL,Temporal Dimension
+ID_PD_SL_LOST,Lost Dimension
+ID_PD_SL_PROTO,Proto Dimension
+ID_PD_SL_SHATTERED,Shattered Dimension
+ID_PD_SL_ENTROPIC,Entropic Dimension
+ID_PL_SL_ELDRITCH,Eldritch Dimension
+ID_MIS_PD_SL_CI_01_NAME,Cabal Normal I
+ID_MIS_PD_SL_CI_02_NAME,Cabal Normal II
+ID_MIS_PD_SL_CI_03_NAME,Cabal Normal III
+ID_MIS_PD_SL_CI_04_NAME,Cabal Normal IV
+ID_MIS_PD_SL_CI_05_NAME,Cabal Hard I
+ID_MIS_PD_SL_CI_06_NAME,Cabal Hard II
+ID_MIS_PD_SL_CI_07_NAME,Cabal Hard III
+ID_MIS_PD_SL_CI_08_NAME,Cabal Hard IV
+ID_MIS_PD_SL_CI_09_NAME,Cabal Master I
+ID_MIS_PD_SL_CI_10_NAME,Cabal Master II
+ID_MIS_PD_SL_CI_21_NAME,Final Mission
+ID_MIS_PD_SL_CABAL_HINT_01,"<color=#fff568>Temporal Dimension</color> Hints\n- If you need Temporal Health Packs you can find them in a special login calendar, milestones, events, and some special offers."
+ID_MIS_PD_SL_CABAL_HINT_02,<color=#fff568>Temporal Dimension</color> Hints\n- Some missions grant allies. Use them to your advantage.
+ID_MIS_PD_SL_CABAL_HINT_03,"<color=#fff568>Temporal Dimension</color> Hints\n- If you need Temporal Health Packs you can find them in a special login calendar, milestones, events, and some special offers."
+ID_MIS_PD_SL_CABAL_HINT_04,<color=#fff568>Temporal Dimension</color> Hints\n- Pay close attention to enemies that have unusual visual effects...
+ID_MIS_PD_SL_CABAL_HINT_05,<color=#fff568>Temporal Dimension</color> Hints\n- Some enemies in the Temporal Dimension have atypical effects active when they spawn.
+ID_MIS_PD_SL_CABAL_HINT_06,<color=#fff568>Temporal Dimension</color> Hints\n- It seems another secretive group has its eyes on the future of the Temporal Dimension...
+ID_MIS_PD_SL_CABAL_HINT_07,<color=#fff568>Temporal Dimension</color> Hints\n- Don't you know? He's the JUGGERNAUT!
+ID_MIS_PD_SL_CABAL_HINT_08,"<color=#fff568>Temporal Dimension</color> Hints\n- When fully upgraded, Iron Patriot's basic can chain up to 3 adjacent targets, making it ideal for taking out clusters of weak enemies."
+ID_PD_SL_CI_RECLVL,Recommended Player Level <color=#fff568>75+</color>
+ID_PD_SL_REQ_CABAL_NORMAL,Required:\n3 <color=#fff568>CABAL</color> at Gear Tier 14
+ID_PD_SL_REQ_CABAL_HARD,Required:\n3 <color=#fff568>CABAL</color> at Gear Tier 14
+ID_PD_SL_REQ_CABAL_MASTER,Required:\n3 <color=#fff568>CABAL</color> at Gear Tier 14
+ID_PD_SL_REQ_CABAL_NODE_NORMAL,Requires 3 <color=#fff568>CABAL</color> at GT 14
+ID_PD_SL_REQ_CABAL_NODE_HARD,Requires 3 <color=#fff568>CABAL</color> at GT 14
+ID_PD_SL_REQ_CABAL_NODE_MASTER,Requires 3 <color=#fff568>CABAL</color> at GT 14
+ID_PD_SL_CABAL_DESC,Featuring The CABAL
+ID_PD_SL_CABAL_DETAILS,"A <color=#fff568>Pocket Dimension</color> with unusual energies has been detected. For a limited time, the <color=#fff568>CABAL</color> is attempting to secure the resources of this fleeting realm.\n\n<b>Details</b>\n- Minimum Requirements: 3 CABAL characters at Gear Tier 14\n-  3 Yellow Star, Gear Tier 15 or higher characters are recommended\n- This event is very challenging\n- This event uses <color=#fff568>Temporal Health Packs</color> to heal and revive characters."
