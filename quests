@@ -4406,3 +4406,21 @@ ID_QU_NA_ADAMANTIUMPOWER,Adamantium Power
 ID_QU_SD_ADAMANTIUMPOWER,Spend Power Cores
 ID_QU_LD_ADAMANTIUMPOWER,"Spend Power Cores and get rewarded with Aged Adamantium Orb Fragments, Mission Supplies, and Red in Tooth and Claw milestone progress."
 ID_QU_S1_ADAMANTIUMPOWER,Spend 1 Power Core
+ID_QU_NA_MERCSGOLDRUSH,Mercs' Golden Bounty
+ID_QU_DE_MERCSGOLDRUSH,Blitz with Mercs for Money
+ID_QU_SD_MERCSGOLDRUSH,Blitz with Mercs for Money at high Yellow Star levels for massive Gold rewards!
+ID_QU_LD_MERCSGOLDRUSH,"Send your Mercs for Money characters out on a mission to load up on a major payload of Gold and acquire Ultimate Awakened Ability Materials for Old Man Logan!\n\nMercs' Golden Bounty Milestone\nEvery Saturday and Sunday until July 8 (PDT), take the Mercs' for Money team for a 1-day spin in Blitz. With only 5 daily Blitz battles with each character at 3 Yellow Stars, you can earn more than 2.5M Gold per weekend. Should you want even more Gold, Blitz with those characters at up to 7 Yellow Stars to complete the Premium Milestones and earn up to 25M Gold per weekend, every weekend until July 8 (PDT)!\n\nInvest in your Mercs for Money characters now to reap the maximum cummulative rewards!"
+ID_QU_S1_MERCSGOLDRUSH,Blitz with Deadpool at 3+ Yellow Stars
+ID_QU_S2_MERCSGOLDRUSH,Blitz with Deathpool at 3+ Yellow Stars
+ID_QU_S3_MERCSGOLDRUSH,Blitz with Pandapool at 3+ Yellow Stars
+ID_QU_S4_MERCSGOLDRUSH,Blitz with Pandapool at 4+ Yellow Stars
+ID_QU_S5_MERCSGOLDRUSH,Blitz with Pandapool at 5+ Yellow Stars
+ID_QU_S6_MERCSGOLDRUSH,Blitz with Pandapool at 6+ Yellow Stars
+ID_QU_S7_MERCSGOLDRUSH,Blitz with Pandapool at 7 Yellow Stars
+ID_QU_S8_MERCSGOLDRUSH,Blitz with Daken at 3+ Yellow Stars
+ID_QU_S9_MERCSGOLDRUSH,Blitz with Daken at 4+ Yellow Stars
+ID_QU_S10_MERCSGOLDRUSH,Blitz with Daken at 5+ Yellow Stars
+ID_QU_S11_MERCSGOLDRUSH,Blitz with Daken at 6+ Yellow Stars
+ID_QU_S12_MERCSGOLDRUSH,Blitz with Daken at 7 Yellow Stars
+ID_QU_S13_MERCSGOLDRUSH,Blitz with Old Man Logan (launches May 24) at 4+ Yellow Stars
+ID_QU_S14_MERCSGOLDRUSH,Blitz with Old Man Logan (launches May 24) at 5+ Yellow Stars
