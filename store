@@ -9030,5 +9030,10 @@ ID_GACHA_CRATE_DMNDDRAFT_IRONPATRIOT_DESCRIPTION,Get guaranteed diamond(s) of Ir
 ID_GACHA_CRATE_DMNDDRAFT_THELEADER_DESCRIPTION,Get guaranteed diamond(s) of The Leader and 10 Silver Diamond Credits!
 ID_GACHA_CRATE_DMNDDRAFT_COSMICGHOSTRIDER_DESCRIPTION,Get guaranteed diamond(s) of Cosmic Ghost Rider and 10 Silver Diamond Credits!
 ID_GACHA_CRATE_DMNDDRAFT_STARBRAND_DESCRIPTION,Get guaranteed diamond(s) of Starbrand and 10 Silver Diamond Credits!
-ID_INSANITY_AL_REWARD_FTC_GEAR_MAT,
+ID_GACHA_CRATE_BAMBOO_NAME,Bamboo Orb
+ID_GACHA_CRATE_BAMBOO_DESCRIPTION,Earn Pandapool shards and event progress!
+ID_GACHA_CRATE_BAMBOO_TOKEN_NAME,Bamboo Orb Fragment
+ID_GACHA_CRATE_BAMBOO_TOKEN_DESCRIPTION,Open Bamboo Orbs to earn shards for Pandapool and progress in the Black White and Red All Over milestone
+ID_GACHA_CRATE_DMNDDRAFT_BLACKKNIGHT_NAME,Black Knight Diamond Draft
+ID_GACHA_CRATE_DMNDDRAFT_BLACKKNIGHT_DESCRIPTION,Get guaranteed diamond(s) of Black Knight
 ID_INSANITY_AL_REWARD_FTT_GEAR_MAT,

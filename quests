@@ -4406,6 +4406,19 @@ ID_QU_NA_ADAMANTIUMPOWER,Adamantium Power
 ID_QU_SD_ADAMANTIUMPOWER,Spend Power Cores
 ID_QU_LD_ADAMANTIUMPOWER,"Spend Power Cores and get rewarded with Aged Adamantium Orb Fragments, Mission Supplies, and Red in Tooth and Claw milestone progress."
 ID_QU_S1_ADAMANTIUMPOWER,Spend 1 Power Core
+ID_QU_NA_BLACKWHITEANDREDALLOVER,Black White and Red All Over
+ID_QU_DE_BLACKWHITEANDREDALLOVER,Rank up in Arena and Raid with Spider-Society
+ID_QU_SD_BLACKWHITEANDREDALLOVER,Rank up in Arena and Raid with Spider-Society
+ID_QU_LD_BLACKWHITEANDREDALLOVER,"Black White and Red All Over\nGain progress in this 7-day event by earning Bamboo Orb Fragments from Arena Ranked Rewards, battling in Raid, completing the Sinister Strike Web Milestone, and daily Free Claims.\n\nEarn plentiful panda rewards including Pandapool shards and Crimson Mutant Gear. You'll also earn points towards the month-long M is for Mercs milestone by collecting Mission Supplies and the Mercenary Contract.\n\nLeaderboard\nCompete on the Leaderboard for Pandapool Diamonds, Crimson Mutant Mini-Uniques, and Crimson Gear Raid Orbs!\n\nSinister Strike Web Milestone\nBlitz and spend Incursion Campaign Energy and be rewarded with even more Bamboo Orb Fragements for additional progress in the Black White and Red All Over Milestone. Keep an eye out for Free Claims containing Bamboo Orb fragments every day!"
+ID_QU_S1_BLACKWHITEANDREDALLOVER,Earn 1 Bamboo Orb Fragment
+ID_QU_NA_MACHINESOFWAR_V3,Machines of War
+ID_QU_SD_MACHINESOFWAR_V3,"Battle in War for Gold, Gear, and Glory"
+ID_QU_LD_MACHINESOFWAR_V3,"Battle in War and collect Allied Supply IV Orb Fragments to earn a Gold, Gear, and M is for Mercs progress.\n\nMilestone rewards include Armory 18 Orbs, Crimson Catalysts, and more!"
+ID_QU_NA_SINISTERSTRIKE,Sinister Strike
+ID_QU_SD_SINISTERSTRIKE,Blitz and Spend Incursion Campaign Energy
+ID_QU_LD_SINISTERSTRIKE,Participate in Blitz Battles and spend Incursion Campaign Energy and be rewarded with Mission Supplies for M is for Mercs progress and Bamboo Orb Fragments for progress in the Black White and Red All Over Milestone.
+ID_QU_S1_SINISTERSTRIKE,Play 1 Blitz Battle
+ID_QU_S2_SINISTERSTRIKE,Spend 1 Incursion Campaign Energy
 ID_QU_NA_MERCSGOLDRUSH,Mercs' Golden Bounty
 ID_QU_DE_MERCSGOLDRUSH,Blitz with Mercs for Money
 ID_QU_SD_MERCSGOLDRUSH,Blitz with Mercs for Money at high Yellow Star levels for massive Gold rewards!
