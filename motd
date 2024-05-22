@@ -2864,18 +2864,12 @@ ID_MOTD_DE_ETERNALVENGEANCE_ANNOUNCE,Unlock Cosmic Ghost Rider and earn Crimson 
 ID_MOTD_NA_ETERNALVENGEANCE_ENDING,Ending Soon: Eternal Vengeance
 ID_MOTD_DE_ETERNALVENGEANCE_ENDING,Unlock Cosmic Ghost Rider and earn Crimson Gear now!
 ID_MOTD_NA_GALACTICGHOST_ANNOUNCE,Web Milestone: Galactic Ghost
-ID_MOTD_NA_AGEOFX_CH0_PREVIEW,Coming Soon: Enter the Age of X!
-ID_MOTD_DE_AGEOFX_CH0_PREVIEW,Experience the dawning of the Age of X and earn rewards!
-ID_MOTD_NA_AGEOFX_CH0_LIVE,LIVE: Enter the Age of X!
-ID_MOTD_DE_AGEOFX_CH0_LIVE,Experience the dawning of the Age of X and earn rewards
-ID_MOTD_NA_AGEOFX_CH0_ENDING,ENDING SOON: Enter the Age of X!
-ID_MOTD_DE_AGEOFX_CH0_ENDING,Enter the Age of X event is ending soon!
+ID_MOTD_DE_GALACTICGHOST_ANNOUNCE,Spend Incursion Energy and play Blitz battles and reap more rewards on the web!
 ID_MOTD_NA_IRONPATRIOT_TEASER,Soon: Iron Patriot
 ID_MOTD_DE_IRONPATRIOT_TEASER,Spread peace and democracy with Iron Patriot!
 ID_MOTD_NA_IRONPATRIOT_ANNOUNCE,Iron Patriot is here!
 ID_MOTD_DE_IRONPATRIOT_ANNOUNCE,Spread peace and democracy with Iron Patriot!
 ID_MOTD_DE_IRONPATRIOT_ANNOUNCE2,Open the Dark Leader Orb to earn shards for this Dark Avenger!
-ID_MOTD_DE_GALACTICGHOST_ANNOUNCE,Spend Incursion Energy and play Blitz battles and reap more rewards on the web!
 ID_MOTD_NA_NATURENURTURE_ANNOUNCE,LIVE: Nature/Nurture
 ID_MOTD_DE_NATURENURTURE_ANNOUNCE,Earn fully crafted Gear Tier 18 gear!
 ID_MOTD_NA_NATURENURTURE_ENDING,Ending Soon: Nature/Nurture
@@ -2900,6 +2894,12 @@ ID_MOTD_DE_ATOMICFALLOUT_ANNOUNCE,Entering the fallout shelter
 ID_MOTD_NA_ATOMICFALLOUT_ENDING,Ending Soon: Atomic Fallout
 ID_MOTD_DE_ATOMICFALLOUT_ENDING,Don't miss out on Skill Gear!
 ID_MOTD_NA_HUNKERDOWN_ANNOUNCE,Web Milestone: Hunker Down
+ID_MOTD_NA_AGEOFX_CH0_PREVIEW,Coming Soon: Enter the Age of X!
+ID_MOTD_DE_AGEOFX_CH0_PREVIEW,Experience the dawning of the Age of X and earn rewards!
+ID_MOTD_NA_AGEOFX_CH0_LIVE,LIVE: Enter the Age of X!
+ID_MOTD_DE_AGEOFX_CH0_LIVE,Experience the dawning of the Age of X and earn rewards
+ID_MOTD_NA_AGEOFX_CH0_ENDING,ENDING SOON: Enter the Age of X!
+ID_MOTD_DE_AGEOFX_CH0_ENDING,Enter the Age of X event is ending soon!
 ID_MOTD_NA_THELEADER_TEASER,Soon: The Leader
 ID_MOTD_DE_THELEADER_TEASER,Dominate the world with The Leader!
 ID_MOTD_NA_THELEADER_ANNOUNCE,The Leader is here!
@@ -2984,15 +2984,13 @@ ID_MOTD_NA_AFTERSCHOOLPROJECTS_ANNOUNCE,Web Milestone: After School Projects
 ID_MOTD_DE_AFTERSCHOOLPROJECTS_ANNOUNCE,Link your account to earn more rewards on web!
 ID_MOTD_NA_COORDINATEDCATASTROPHE_ANNOUNCE,LIVE: Coordinated Catastrophe
 ID_MOTD_DE_COORDINATEDCATASTROPHE_ANNOUNCE,Earn Training Modules and Mission Supplies!
-ID_MOTD_NA_BATTLEPASS_SEASON20_ANNOUNCE,LIVE: Season 20 of Battle Pass
-ID_MOTD_DE_BATTLEPASS_SEASON20_ANNOUNCE,Complete Objectives to earn Peter B. Parker shards and more!
-ID_MOTD_NA_BATTLEPASS_SEASON21_ANNOUNCE,LIVE: Season 21 of Battle Pass
-ID_MOTD_DE_BATTLEPASS_SEASON21_ANNOUNCE,Complete Objectives to earn Black Knight and Iron Patriot shards and more!
 ID_MOTD_NA_PANDAPOOL_TEASER,Soon: Pandapool
 ID_MOTD_DE_PANDAPOOL_TEASER,Deliver Pandamonium! Pandapool is the species that endangers you!
 ID_MOTD_NA_PANDAPOOL_ANNOUNCE,Pandapool is here!
 ID_MOTD_DE_PANDAPOOL_ANNOUNCE,Deliver Pandamonium! Pandapool is the species that endangers you!
 ID_MOTD_DE_PANDAPOOL_ANNOUNCE2,Open the Clawed Cuddler Orb to earn shards for The Panda with the Mouth!
+ID_MOTD_NA_BATTLEPASS_SEASON20_ANNOUNCE,LIVE: Season 20 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON20_ANNOUNCE,Complete Objectives to earn Peter B. Parker shards and more!
 ID_MOTD_NA_ALLIEDARACHNIDS_ANNOUNCE,LIVE: Allied Arachnids
 ID_MOTD_DE_ALLIEDARACHNIDS_ANNOUNCE,Battle in Raids for M is for Mercs progress!
 ID_MOTD_NA_REDINTOOTHANDCLAW_ANNOUNCE,LIVE: Red in Tooth and Claw
@@ -3001,6 +2999,8 @@ ID_MOTD_NA_REDINTOOTHANDCLAW_ENDING,Ending Soon: Red in Tooth and Claw
 ID_MOTD_DE_REDINTOOTHANDCLAW_ENDING,Earn Mission Supplies and a Mercenary Contract!
 ID_MOTD_NA_ADAMANTIUMPOWER_ANNOUNCE,Web Milestone: Adamantium Power
 ID_MOTD_DE_ADAMANTIUMPOWER_ANNOUNCE,Spend Power Cores and reap more rewards on the web!
+ID_MOTD_NA_BATTLEPASS_SEASON21_ANNOUNCE,LIVE: Season 21 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON21_ANNOUNCE,Complete Objectives to earn Black Knight and Iron Patriot shards and more!
 ID_MOTD_NA_PANDAPOOL,Clawed Cuddler: Now Live!
 ID_MOTD_DE_PANDAPOOL,Battle for a chance to win Pandapool shards
 ID_MOTD_NA_DAKEN,Mutant Heir: Now Live!
@@ -3018,5 +3018,21 @@ ID_MOTD_NA_MACHINESOFWAR_V3_ANNOUNCE,LIVE: Machines of War
 ID_MOTD_DE_MACHINESOFWAR_V3_ANNOUNCE,"Battle in War for Gold, Gear, and Glory"
 ID_MOTD_NA_SINISTERSTRIKE_ANNOUNCE,Web Milestone: Sinister Strike
 ID_MOTD_DE_SINISTERSTRIKE_ANNOUNCE,Battle in Blitz and Incursion Campaign for more rewards on the web!
+ID_MOTD_NA_MYSTICMERCENARY_ANNOUNCE,LIVE: Mystic Mercenary
+ID_MOTD_DE_MYSTICMERCENARY_ANNOUNCE,Unlock Daken and Deathpool!
+ID_MOTD_NA_MYSTICMERCENARY_ENDING,Ending Soon: Mystic Mercenary
+ID_MOTD_DE_MYSTICMERCENARY_ENDING,Don't miss out on Daken and Crimson Mystic Gear!
+ID_MOTD_NA_RUNNINGRAMPANT_ANNOUNCE,Web Milestone: Running Rampant
+ID_MOTD_DE_RUNNINGRAMPANT_ANNOUNCE,Spend Wasteland Road Trip Energy and earn more rewards on the web!
 ID_MOTD_NA_MERCSGOLDRUSH_ANNOUNCE,LIVE: Mercs' Golden Bounty
 ID_MOTD_DE_MERCSGOLDRUSH_ANNOUNCE,Earn Gold and Awakened Ability Materials!
+ID_MOTD_NA_ALPHAFLIGHT_PREVIEW,Coming Soon: X Marks the Spot
+ID_MOTD_DE_ALPHAFLIGHT_PREVIEW,Battle with Alpha Flight and earn rewards!
+ID_MOTD_NA_ALPHAFLIGHT_LIVE,LIVE: X Marks the Spot
+ID_MOTD_DE_ALPHAFLIGHT_LIVE,Battle with Alpha Flight and earn rewards!
+ID_MOTD_NA_ALPHAFLIGHT_ENDING,ENDING SOON: X Marks the Spot!
+ID_MOTD_DE_ALPHAFLIGHT_ENDING,X Marks the Spot event is ending soon!
+ID_MOTD_NA_OLDMANLOGAN_TRIALS_TEASER,Coming Soon: Old Man Logan Trials
+ID_MOTD_DE_OLDMANLOGAN_TRIALS_TEASER,"Prepare now by powering up Out of Time, Cabal, Loki and Emma Frost!"
+ID_MOTD_NA_OLDMANLOGAN_TRIALS_LIVE,LIVE: Old Man Logan Trials
+ID_MOTD_DE_OLDMANLOGAN_TRIALS_LIVE,Reach a high Run Score and unlock the Legendary Old Man Logan!

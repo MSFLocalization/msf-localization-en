@@ -51,6 +51,7 @@ ID_GT_EVENT_NAME_SEASON4,Season 4
 ID_GT_EVENT_NAME_SEASON5,Season 5
 ID_GT_EVENT_NAME_SEASON6,Season 6
 ID_GT_EVENT_NAME_SEASON7,Season 7
+ID_GT_EVENT_NAME_SEASON8,Season 8
 ID_GT_EVENT_NAME_EVENT,Ultimate 32
 ID_GT_GLOBAL_RULES_NAME,Magical Disruptions
 ID_GT_GLOBAL_RULES_DESC,"On Offense, reduce Speed and Resistance by <color=#86e619>10%</color> for all non-<color=#fff568>MASTERS OF EVIL VILLAIN MYSTICS</color>. \nOn Defense, reduce Speed and Resistance by <color=#86e619>20%</color> for all <color=#fff568>COSMIC VILLAIN MYSTICS</color>. \nOn any <color=#fff568>COSMIC VILLAIN MYSTICS</color> Turn, apply <color=#fff568>Bleed</color> to that character. \nOn Defense, all characters gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage. \n<color=#fff568>DARKHOLD</color> characters have -<color=#86e619>10%</color> Max Health, Focus, Resistance, and Damage."
@@ -288,3 +289,17 @@ ID_GT_S7_ROOM5_RULES_NAME,Flash Bang
 ID_GT_S7_ROOM5_RULES_DESC,"On Defense and Offense,\nAll characters:\n> With <color=#fff568>Blind</color>, lower that character's speed by <color=#86e619>5%</color> and Armor by <color=#86e619>25%</color>.\n> Ultimate Abilites apply <color=#fff568>Blind</color> to primary target."
 ID_GT_S7_ROOM6_RULES_NAME,Crossroads
 ID_GT_S7_ROOM6_RULES_DESC,"On Defense and Offense,\nAll Characters:\n> On Crit, apply <color=#fff568>Bleed</color> to primary target.\n> If Ghost Rider, Ghost Rider (Robbie), or Cosmic Ghost Rider is an ally, and if character has <color=#fff568>Bleed</color>, gain +<color=#86e619>20%</color> Armor.\n \n<color=#fff568>Ghost Rider</color>, <color=#fff568>Ghost Rider (Robbie)</color>, and <color=#fff568>Cosmic Ghost Rider</color>:\n> Apply +<color=#86e619>20%</color> Crit Chance to allies."
+ID_GT_S8_GLOBAL_RULES_NAME,The Cabal Of Evil
+ID_GT_S8_GLOBAL_RULES_DESC,"The Cabal Of Evil\nOn Defense and Offense,\n<color=#fff568>Cabal</color> characters:\n> Count as <color=#fff568>Masters of Evil</color>.\n \nOn Defense,\nAll characters:\n> Gain +<color=#86e619>20%</color> Max Health and +<color=#86e619>10%</color> Damage.\n> After each completed attempt, gain +<color=#86e619>1</color> <color=#fff568>Exhausted</color>. Canceled combats do not gain +<color=#86e619>1</color> <color=#fff568>Exhausted</color>."
+ID_GT_S8_ROOM1_RULES_NAME,Field Medic
+ID_GT_S8_ROOM1_RULES_DESC,"On Defense and Offense,\nAll characters:\n> On turn, clear <color=#9055FF>Vulnerable</color> from self and heals +<color=#86e619>20%</color> of Max Health for each <color=#9055FF>Vulnerable</color> effect removed this way.\n> Characters with <color=#9055FF>Vulnerable</color>, gain -<color=#86e619>25%</color> Resistance."
+ID_GT_S8_ROOM2_RULES_NAME,Blood Transfusion
+ID_GT_S8_ROOM2_RULES_DESC,"On Defense and Offense,\nAll characters:\n> On turn, gain <color=#fff568>Bleed</color>.\n>With <color=#fff568>Bleed</color>, gain +<color=#86e619>5%</color> Damage per <color=#fff568>Bleed</color>.\n>When applying <color=#fff568>Bleed</color>, gain <color=#fff568>Defense Up</color>."
+ID_GT_S8_ROOM3_RULES_NAME,Double Tap
+ID_GT_S8_ROOM3_RULES_DESC,"On Defense and Offense,\nAll characters:\n> On successful hit, if target has <color=#fff568>Exposed</color> perform a basic attack against that target.\n> Characters with <color=#fff568>Exposed</color> have -<color=#86e619>20%</color> Resistance."
+ID_GT_S8_ROOM4_RULES_NAME,Under The Weather
+ID_GT_S8_ROOM4_RULES_DESC,"On Defense and Offense,\nAll characters:\n> On turn, clear all Negative Effects from character.\n> On turn end, gain <color=#fff568>Defense Down</color>, <color=#fff568>Offense Down</color>, <color=#fff568>Slow</color>, and <color=#fff568>Disrupted</color>."
+ID_GT_S8_ROOM5_RULES_NAME,I'll Be Back
+ID_GT_S8_ROOM5_RULES_DESC,"On Defense and Offense,\n<color=#fff568>Villian</color> characters:\n> On Spawn, gain <color=#fff568>Revive Once</color> at <color=#86e619>50%</color> Max Health."
+ID_GT_S8_ROOM6_RULES_NAME,Super Charged
+ID_GT_S8_ROOM6_RULES_DESC,"On Defense and Offense,\nAll Characters:\n> After using an Ultimate Ability, spread all Positive Effects to Adjacent Allies.\n> Ultimate abilities cost <color=#86e619>2</color> less Ability Energy."

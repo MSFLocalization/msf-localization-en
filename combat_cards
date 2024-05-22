@@ -230,3 +230,19 @@ ID_SCOURGE_CARD_152_NAME,Science Bros
 ID_SCOURGE_CARD_152_DESC,"On Spawn, <color=#fff568>P.E.G.A.S.U.S.</color> Characters Gain the <color=#fff568>NEW AVENGERS</color> Trait, and <color=#fff568>HYDRA</color> Characters Gain the <color=#fff568>MASTERS OF EVIL</color> Trait"
 ID_SCOURGE_CARD_153_NAME,Next Generation
 ID_SCOURGE_CARD_153_DESC,"On Spawn, <color=#fff568>NEW WARRIORS</color> Characters Gain the <color=#fff568>REBIRTH</color> Trait, and <color=#fff568>YOUNG AVENGERS</color> Characters Gain the <color=#fff568>HEROES FOR HIRE</color> Trait"
+ID_SCOURGE_CARD_154_NAME,"Godspeed, Spider-Man"
+ID_SCOURGE_CARD_154_DESC,<color=#86e619>SPIDER-SOCIETY</color> characters gain +<color=#86e619>15% Damage</color> and <color=#86e619>SINISTER-SIX</color> characters gain +<color=#86e619>10% Max Health</color>
+ID_SCOURGE_CARD_155_NAME,Forged in Fire
+ID_SCOURGE_CARD_155_DESC,All <color=#86e619>Cosmic Crucible</color> Abilities are active during this run
+ID_SCOURGE_CARD_156_NAME,Berserker Barrage
+ID_SCOURGE_CARD_156_DESC,"When any Character defeats an enemy, fill their Speed Bar by <color=#9055FF>20%</color>"
+ID_SCOURGE_CARD_157_NAME,I See You...
+ID_SCOURGE_CARD_157_DESC,"On Spawn, <color=#fff568>CONTROLLER</color> Characters gain <color=#86e619>Taunt</color>"
+ID_SCOURGE_CARD_158_NAME,Cosmic Balance
+ID_SCOURGE_CARD_158_DESC,All <color=#fff568>COSMIC HERO</color> Characters gain +<color=#fff568>15% Critical Hit Chance</color> and +<color=#fff568>10% Critical Hit Damage</color> but <color=#fff568>the player's COSMIC VILLAIN</color> Characters lose -<color=#fff568>20% Damage</color> and -<color=#fff568>20% Max Health</color>
+ID_SCOURGE_CARD_159_NAME,Mysterio's Triumph
+ID_SCOURGE_CARD_159_DESC,<color=#fff568>HERO</color> Characters deal an additional +<color=#fff568>10% Damage</color> to other <color=#fff568>HERO</color> Characters
+ID_SCOURGE_CARD_160_NAME,Hard as Diamond
+ID_SCOURGE_CARD_160_DESC,<color=#fff568>VILLAIN CONTROLLER</color> Characters gain an additional +<color=#fff568>20% Health</color> and +<color=#fff568>10% Block Chance</color>
+ID_SCOURGE_CARD_161_NAME,Glorious Purpose
+ID_SCOURGE_CARD_161_DESC,"When a Character heals themself, they recover an additional +<color=#fff568>10% Health</color>"

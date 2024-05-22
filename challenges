@@ -2226,9 +2226,6 @@ ID_INFO_BO_BLASTOFFTO100,"<color=#fff568>Blastoff to 100 Milestone</color>\nScor
 ID_INFO_NA_ALLIEDENGINES,Allied Engines
 ID_INFO_DE_ALLIEDENGINES,Battle in Raids for valuable Gear!
 ID_INFO_BO_ALLIEDENGINES,"<color=#fff568>Allied Engines Milestone</color>\nTo progress in this milestone, battle in Raids (bonus points when using Hive-Mind characters) and collect Allied Supply IV Orbs from Free Claims. \nEarn Armory 18 Orbs, T2 Level 5 Ions, Crimson Gear Catalysts, and Dawn of Time progress!"
-ID_INFO_NA_WELLMAYYOUTREMBLE,Well May You Tremble
-ID_INFO_DE_WELLMAYYOUTREMBLE,Celebrate with us and earn the Infernal Contract!
-ID_INFO_BO_WELLMAYYOUTREMBLE,"<color=#fff568>Well May You Tremble Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by Battling with villains in the special Archenemies category in Raids, War, Cosmic Crucible, Arena, and Blitz, as well as spending Campaign Energy. Milestone rewards include Kang the Conqueror and Lizard shards, 6 Red Stars for Spider-Slayer, all-new Crimson Gear, and the Infernal Contract!"
 ID_INFO_NA_MACHINESOFWAR,Machines of War
 ID_INFO_DE_MACHINESOFWAR,Battle in Alliance War for glorious rewards!
 ID_INFO_BO_MACHINESOFWAR,"<color=#fff568>Machines of War Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by battling in Alliance War and earning Allied Supply IV Orb fragments from daily Free Claims and special offers. Earn incredible rewards including <color=#fff568>Origin gear, Gold and Armory Orbs</color>. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses."
@@ -2312,6 +2309,12 @@ ID_INFO_BO_HISTORICHEIST,"<color=#fff568>Historic Heist</color>\nGain progress i
 ID_INFO_NA_LEGACYOFSTRIKE,Legacy of S.T.R.I.K.E.
 ID_INFO_DE_LEGACYOFSTRIKE,Celebrate with us and earn Kestrel's Helmet!
 ID_INFO_BO_LEGACYOFSTRIKE,"<color=#fff568>Legacy of S.T.R.I.K.E. Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by Battling with Marvel Strike Force original characters in Raids, War, Cosmic Crucible, Arena, and Blitz, as well as spending """"Sixth Time to Strike"""" Event Energy. Milestone rewards include Teal Gear, Vahl and Spider-Weaver shards, and Kestrel's Helmet!"
+ID_INFO_NA_WELLMAYYOUTREMBLE,Well May You Tremble
+ID_INFO_DE_WELLMAYYOUTREMBLE,Celebrate with us and earn the Infernal Contract!
+ID_INFO_BO_WELLMAYYOUTREMBLE,"<color=#fff568>Well May You Tremble Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by Battling with villains in the special Archenemies category in Raids, War, Cosmic Crucible, Arena, and Blitz, as well as spending Campaign Energy. Milestone rewards include Kang the Conqueror and Lizard shards, 6 Red Stars for Spider-Slayer, all-new Crimson Gear, and the Infernal Contract!"
+ID_INFO_NA_MACHINESOFWAR_V2,Machines of War
+ID_INFO_DE_MACHINESOFWAR_V2,Battle in Alliance War for glorious rewards!
+ID_INFO_BO_MACHINESOFWAR_V2,<color=#fff568>Machines of War Milestone</color>\nGain progress in this <color=#fff568>6-day</color> event by battling in Alliance War (bonus points when using Out of Time characters) and earning Allied Supply IV Orb fragments from daily Free Claims and special offers. \n\nEarn incredible rewards including <color=#fff568>Mega Gold Orbs and Armory Orbs</color>. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses.
 ID_INFO_NA_DEMONICORIGINS,Demonic Origins
 ID_INFO_DE_DEMONICORIGINS,Earn Crimson Gear!
 ID_INFO_BO_DEMONICORIGINS,"Prepare for Mephisto's arrival in Dark Dimension 7 by stocking up on Crimson Gear!\n\n<color=#fff568>Demonic Origins</color>\nGain progress in this <color=#fff568>7-day</color> event by earning Anniversary Orb Fragments from Campaign nodes, Free Claims and special Offers, and by playing Cosmic Crucible battles. \n\nEarn fiendish rewards including <color=#fff568>Crimson Gear, Void Knight shards, Diamond Orb Fragments, and Augmented Bio gear</color>. You'll also earn points towards the Dawn of Time milestone by collecting Hourglasses and the Astral Meteorite. Keep an eye on the web for Free Claims containing Anniversary Orb Fragments every day!\n\n<color=#fff568>Infernal Prelude Web Milestone</color>\nEarn Alliance Credits and be rewarded with Teal Catalysts and progress in the Demonic Origins Milestone."
@@ -2348,7 +2351,7 @@ ID_SSE_MERCSFORMONEY_NAME,Wasteland Road Trip!
 ID_SSE_MERCSFORMONEY_DESC,"The Spider Society is trapped in the Wasteland, join the Mercs for Money to guide and travel the Sinister Wasteland looking for a way back home!"
 ID_SSE_CHANCE_MERCSFORMONEY,Mercs for Money Showcase
 ID_EVENT_MERCSFORMONEY_TD_FLAVOR,Try the Mercs for Money
-ID_EVENT_MERCSFORMONEY_TD_DESC,Play with a team of Mercs for Money characters in sample battles from Alliance War.
+ID_EVENT_MERCSFORMONEY_TD_DESC,Play with a team of Spider-Verse characters in sample battles from War.
 ID_EVENT_MERCSFORMONEY_STORY_FLAVOR,Travel the Wasteland!
 ID_EVENT_MERCSFORMONEY_STORY_DESC,Requirements:\n- Mercs for Money or Spider-Verse characters
 ID_EVENT_MERCSFORMONEY_CH_FLAVOR,Challenge Your Skills!
@@ -2412,3 +2415,20 @@ ID_INFO_BO_MACHINESOFWAR_V3,"<color=#fff568>Machines of War Milestone</color>\nB
 ID_INFO_NA_MERCSGOLDRUSH,Mercs' Golden Bounty
 ID_INFO_DE_MERCSGOLDRUSH,Earn Gold and Awakened Ability Materials!
 ID_INFO_BO_MERCSGOLDRUSH,"Send your Mercs for Money characters out on a mission to load up on a major payload of <color=#fff568>Gold</color> and acquire <color=#fff568>Ultimate Awakened Ability Materials for Old Man Logan</color>!\n\n<color=#fff568>Mercs' Golden Bounty Milestone</color>\nEvery Saturday and Sunday until July 8 (PDT), take the Mercs' for Money team for a 1-day spin in Blitz. With only 5 daily Blitz battles with each character at 3 Yellow Stars, you can earn more than 2.5M Gold per weekend. Should you want even more Gold, Blitz with those characters at up to 7 Yellow Stars to complete the Premium Milestones and earn up to 25M Gold per weekend, every weekend until July 8 (PDT)!\n\nInvest in your Mercs for Money characters now to reap the maximum cummulative rewards!"
+ID_SSE_ALPHAFLIGHT_NAME,X Marks the Spot
+ID_SSE_ALPHAFLIGHT_DESC,"Disturbed by Professor Xavier's absence, Old Man Logan searches for answers in the only place he knows that has successfully altered his memories."
+ID_SSE_CHANCE_ALPHAFLIGHT,Alpha Flight Showcase
+ID_EVENT_ALPHAFLIGHT_TD_FLAVOR,Try Alpha Flight
+ID_EVENT_ALPHAFLIGHT_TD_DESC,Play with a team of Alpha Flight characters in sample battles from Spotlight Raid I.\n\nRaid-specific bonuses and effects are enabled in these missions.
+ID_EVENT_ALPHAFLIGHT_STORY_FLAVOR,Earn amazing rewards!
+ID_EVENT_ALPHAFLIGHT_STORY_DESC,Requirements:\n- Alpha Flight or X-Men characters
+ID_EVENT_ALPHAFLIGHT_CH_FLAVOR,Challenge Your Skills!
+ID_EVENT_ALPHAFLIGHT_CH_DESC,"Requirements: \n- Alpha Flight or X-Men characters\n- Requires Northstar, Guardian, and Sasquatch to complete all missions"
+ID_ECM_NAME_ALPHAFLIGHT,Alpha Flight
+ID_EVENT_ALPHAFLIGHT_THM_FLAVOR,Use Your Alpha Flight!
+ID_EVENT_ALPHAFLIGHT_THM_DESC,Requirements: \n- 5 Alpha Flight characters\n- Gear Tier 14\n- 4 Yellow Stars
+ID_EVENT_ALPHAFLIGHT_BONUS_FLAVOR,Get Awesome Rewards!
+ID_EVENT_ALPHAFLIGHT_BONUS_DESC,Requirements:\n- 5 Alpha Flight characters\n- Gear Tier 16\n- 6 Yellow Stars
+ID_INFO_NA_MYSTICMERCENARY,Mystic Mercenary
+ID_INFO_DE_MYSTICMERCENARY,Battle in War and Iso-8 Campaign
+ID_INFO_BO_MYSTICMERCENARY,"<color=#fff568>Mystic Mercenary Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by spending Iso-8 Campaign Energy and battling in War with a bonus for using Mercs for Money characters. Earn mystic rewards including <color=#fff568>Daken shards, Deathpool shards, and Crimson Mystic gear</color>. You'll also earn points towards the month-long M is for Mercs milestone by collecting Mission Supplies and the final Mercenary Contract.\n\n<color=#fff568>Running Rampant Web Milestone</color>\nSpend Energy in the Wasteland Road Trip event to get Milestone Points for additional progress in the Mystic Mercenary Milestone. Keep an eye out for Free Claims containing Milestone Points every day!"

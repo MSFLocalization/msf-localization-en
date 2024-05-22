@@ -177,6 +177,8 @@ ID_SHARD_GT_HANDSUPPORT_HEAL_NAME,Hand Sorceress
 ID_SHARD_GT_HANDSUPPORT_HEAL_DESCRIPTION,A mystical healer who drains health when attacking.
 ID_SHARD_GT_HANDTANK_STEALTH_NAME,Hand Sentry
 ID_SHARD_GT_HANDTANK_STEALTH_DESCRIPTION,An expert martial artist who conceals his allies with smoke bombs.
+ID_SHARD_GUARDIAN_NAME,Guardian
+ID_SHARD_GUARDIAN_DESCRIPTION,"Founder of the Alpha Flight, James Hudson uses his Battle-suit to dish out punishing attacks to anyone who threatens Canada."
 ID_SHARD_GWENOM_NAME,Gwenom
 ID_SHARD_GWENOM_DESCRIPTION,"Fueled by alien power, Gwen Stacy bonded with the Venom symbiote to become Gwenom, who uses deadly precision to lash out at her foes."
 ID_SHARD_GWENPOOL_NAME,Gwenpool
@@ -379,6 +381,8 @@ ID_SHARD_NIGHTNURSE_NAME,Night Nurse
 ID_SHARD_NIGHTNURSE_DESCRIPTION,An excellent healer who is able to deploy a wide variety of health restoration abilities.
 ID_SHARD_NOBU_NAME,Nobu
 ID_SHARD_NOBU_DESCRIPTION,A mysterious ninja master who summons Hand Ninjas and specializes in ambushing his opponents.
+ID_SHARD_NORTHSTAR_NAME,Northstar
+ID_SHARD_NORTHSTAR_DESCRIPTION,Jean-Paul Beaubier brings his mutant powers of super speed and light generation (as well as an abrasive personality) to Alpha Flight as Northstar!
 ID_SHARD_NOVA_NAME,Nova
 ID_SHARD_NOVA_DESCRIPTION,"Last of the Nova Corps, Richard Rider uses the Nova Force to clear away enemy defenses and keeps his allies healed through the fight."
 ID_SHARD_OKOYE_NAME,Okoye
@@ -481,6 +485,8 @@ ID_SHARD_RONIN_NAME,Ronin
 ID_SHARD_RONIN_DESCRIPTION,"After Thanos' Snap took away his family, Clint Barton renounced his role as Hawkeye and became Ronin, hunting down criminals and evil-doers that he deemed unworthy to have survived."
 ID_SHARD_SABRETOOTH_NAME,Sabretooth
 ID_SHARD_SABRETOOTH_DESCRIPTION,"A savage, regenerating brute that shreds single targets and chains to additional enemies."
+ID_SHARD_SASQUATCH_NAME,Sasquatch
+ID_SHARD_SASQUATCH_DESCRIPTION,"Dr. Walter Langkowski attempts to replicate Bruce Banner's Gamma Radiation experiments led to him transforming into the gigantic, furry, super powered Sasquatch!"
 ID_SHARD_SCARLETSPIDER_NAME,Scarlet Spider
 ID_SHARD_SCARLETSPIDER_DESCRIPTION,"Scarlet Spider, a clone of Peter Parker that goes by Ben Reilly, uses his spider powers to debilitate enemies and strip them of their defenses."
 ID_SHARD_SCARLETWITCH_NAME,Scarlet Witch

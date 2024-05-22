@@ -3592,3 +3592,49 @@ ID_MIS_MERCSFORMONEY_1TD_NAME,Wasteland War - Mercs 1
 ID_MIS_MERCSFORMONEYY_TD_DESC,See the power and potential of the Mercs for Money in a sample battle from War.
 ID_MIS_MERCSFORMONEY_2TD_NAME,Wasteland War - Mercs 2
 ID_MIS_MERCSFORMONEY_3TD_NAME,Wasteland War - Mercs Boss
+ID_MISSION_RAID_SPOTLIGHTI_NONMYTHIC01_NAME,Non-Mythic Mission 1
+ID_MISSION_RAID_SPOTLIGHTI_NONMYTHICBOSS_NAME,Non-Mythic Boss
+ID_MISSION_RAID_SPOTLIGHTI_SPIDERSOCIETY01_NAME,Spider-Society Mission 1
+ID_MISSION_RAID_SPOTLIGHTI_SPIDERSOCIETY02_NAME,Spider-Society Mission 2
+ID_MISSION_RAID_SPOTLIGHTI_SPIDERSOCIETYBOSS_NAME,Spider-Society Boss
+ID_MISSION_RAID_SPOTLIGHTI_AF01_NAME,Alpha Flight Mission 1
+ID_MISSION_RAID_SPOTLIGHTI_AF02_NAME,Alpha Flight Mission 2
+ID_MISSION_RAID_SPOTLIGHTI_AF03_NAME,Alpha Flight Mission 3
+ID_MISSION_RAID_SPOTLIGHTI_AFBOSS_NAME,Alpha Flight Boss
+ID_MISSION_RAID_SPOTLIGHTI_FINALBOSS_NAME,Final Boss
+ID_MIS_ALPHAFLIGHT_01_NAME,Assault on Weapon X
+ID_MIS_ALPHAFLIGHT_01_DESC,Sunfire infiltrates a Weapon X facility to free his allies and makes a new one along the way.
+ID_MIS_ALPHAFLIGHT_02_NAME,Bad Memories
+ID_MIS_ALPHAFLIGHT_02_DESC,"Sunfire and Old Man Logan find Wolverine, but old scars are reopened."
+ID_MIS_ALPHAFLIGHT_03_NAME,Loose Cannon
+ID_MIS_ALPHAFLIGHT_03_DESC,"With the Weapon X facility now on high alert, the journey forward is slowed."
+ID_MIS_ALPHAFLIGHT_04_NAME,Turncoats
+ID_MIS_ALPHAFLIGHT_04_DESC,"Everyone has a price, but even henchmen need incentives."
+ID_MIS_ALPHAFLIGHT_05_NAME,Walking Doomsday
+ID_MIS_ALPHAFLIGHT_05_DESC,The Weapon X program lives up to its nefarious reputation.
+ID_MIS_ALPHAFLIGHT_06_NAME,"All Questions, No Answers"
+ID_MIS_ALPHAFLIGHT_06_DESC,The group try to piece together why their team was targeted.
+ID_MIS_ALPHAFLIGHT_07_NAME,Speedy Sabotage
+ID_MIS_ALPHAFLIGHT_07_DESC,The path forward is open thanks to quick thinking.
+ID_MIS_ALPHAFLIGHT_08_NAME,Connection Severed
+ID_MIS_ALPHAFLIGHT_08_DESC,The trio finds their friend in a dire situation.
+ID_MIS_ALPHAFLIGHT_09_NAME,Not the First
+ID_MIS_ALPHAFLIGHT_09_DESC,"Freed from the mind manipulator, Guardian reveals urgent information."
+ID_MIS_ALPHAFLIGHT_10_NAME,Jigsaw Pieces
+ID_MIS_ALPHAFLIGHT_10_DESC,The team thinks about the information they have.
+ID_MIS_ALPHAFLIGHT_11_NAME,Obstacles Galore
+ID_MIS_ALPHAFLIGHT_11_DESC,Stragglers slow the group's progress.
+ID_MIS_ALPHAFLIGHT_12_NAME,"New Problems, Old Solutions"
+ID_MIS_ALPHAFLIGHT_12_DESC,Sometimes violence IS the answer!
+ID_MIS_ALPHAFLIGHT_13_NAME,Reliving the Past
+ID_MIS_ALPHAFLIGHT_13_DESC,Old Man Logan offers himself as a guinea pig.
+ID_MIS_ALPHAFLIGHT_14_NAME,Deja Vu
+ID_MIS_ALPHAFLIGHT_14_DESC,Wolverine takes a turn and finds troubling news.
+ID_MIS_ALPHAFLIGHT_15_NAME,Operation Escape
+ID_MIS_ALPHAFLIGHT_15_DESC,"With their leads causing more confusion than clarity, the team calls in a favor."
+ID_MIS_ALPHAFLIGHT_16_NAME,Brightest Minds
+ID_MIS_ALPHAFLIGHT_16_DESC,The team is granted aid from a mysterious source.
+ID_MIS_ALPHAFLIGHT_1TD_NAME,Spotlight Raid I - Alpha Flight Mission 1
+ID_MIS_ALPHAFLIGHT_TD_DESC,See Alpha Flight fly into action in a sample battle from the Spotlight Raid I.
+ID_MIS_ALPHAFLIGHT_2TD_NAME,Spotlight Raid I - Alpha Flight Mission 2
+ID_MIS_ALPHAFLIGHT_3TD_NAME,Spotlight Raid I - Alpha Flight Boss

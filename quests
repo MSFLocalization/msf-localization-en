@@ -4203,6 +4203,12 @@ ID_QU_SD_WELLMAYYOUTREMBLE,Battle with Archenemies and spend Campaign Energy
 ID_QU_LM_WELLMAYYOUTREMBLE,"Battle with villains in the special Archenemies category in Raids, War, Cosmic Crucible, Arena, and Blitz, and spend Campaign Energy.\n\nRewards include: 6 Red Stars for Spider-Slayer, Kang the Conqueror and Lizard shards, all new Crimson Gear, and more!"
 ID_QU_S1_WELLMAYYOUTREMBLE,"Battle with Archenemies in Raids, War, Cosmic Crucible, Arena, and Blitz"
 ID_QU_S2_WELLMAYYOUTREMBLE,Spend 1 Campaign Energy
+ID_QU_NA_MACHINESOFWAR_V2,Machines of War
+ID_QU_SD_MACHINESOFWAR_V2,"War with Out of Time, Collect Event Orbs"
+ID_QU_LD_MACHINESOFWAR_V2,Machines of War Milestone\nGain progress in this 6-day event by battling in Alliance War (bonus points when using Out of Time characters) and earning Allied Supply IV Orb fragments from daily Free Claims and special offers. \n\nEarn incredible rewards including Mega Gold Orbs and Armory Orbs. You'll also earn points towards the month-long Dawn of Time milestone by collecting Hourglasses.
+ID_QU_S1_MACHINESOFWAR_V2,Play 1 War Battle
+ID_QU_S2_MACHINESOFWAR_V2,Use a Out of Time character in War
+ID_QU_S3_MACHINESOFWAR_V2,Earn 1 Allied Supply IV Orb Fragment
 ID_QU_NA_DEMONICORIGINS,Demonic Origins
 ID_QU_SD_DEMONICORIGINS,Earn Crimson Gear!
 ID_QU_LM_DEMONICORIGINS,"Prepare for Mephisto's arrival in Dark Dimension 7 by stocking up on Crimson Gear!\n\nDemonic Origins\nGain progress in this 7-day event by earning Anniversary Orb Fragments from Campaign nodes, Free Claims and special Offers, and by playing Cosmic Crucible battles. \n\nEarn fiendish rewards including Crimson Gear, Void Knight shards, Diamond Orb Fragments, and Augmented Bio gear. You'll also earn points towards the Dawn of Time milestone by collecting Hourglasses and the Astral Meteorite. Keep an eye on the web for Free Claims containing Anniversary Orb Fragments every day!\n\nInfernal Prelude Web Milestone\nEarn Alliance Credits and be rewarded with Teal Catalysts and progress in the Demonic Origins Milestone."
@@ -4437,3 +4443,27 @@ ID_QU_S11_MERCSGOLDRUSH,Blitz with Daken at 6+ Yellow Stars
 ID_QU_S12_MERCSGOLDRUSH,Blitz with Daken at 7 Yellow Stars
 ID_QU_S13_MERCSGOLDRUSH,Blitz with Old Man Logan (launches May 24) at 4+ Yellow Stars
 ID_QU_S14_MERCSGOLDRUSH,Blitz with Old Man Logan (launches May 24) at 5+ Yellow Stars
+ID_QU_NA_MYSTICMERCENARY,Mystic Mercenary
+ID_QU_SD_MYSTICMERCENARY,Battle in War and Iso-8 Campaign
+ID_QU_LD_MYSTICMERCENARY,"Mystic Mercenary Milestone\nGain progress in this 7-day event by spending Iso-8 Campaign Energy and battling in War with a bonus for using Mercs for Money characters. Earn mystic rewards including Daken shards, Deathpool shards, and Crimson Mystic gear. You'll also earn points towards the month-long M is for Mercs milestone by collecting Mission Supplies and the final Mercenary Contract.\n\nRunning Rampant Web Milestone\nSpend Energy in the Wasteland Road Trip event to get Milestone Points for additional progress in the Mystic Mercenary Milestone. Keep an eye out for Free Claims containing Milestone Points every day!"
+ID_QU_S1_MYSTICMERCENARY,Spend 1 Iso-8 Campaign Energy
+ID_QU_S2_MYSTICMERCENARY,Play 1 War Battle
+ID_QU_S3_MYSTICMERCENARY,Play 1 War Battle with a Merc for Money Character
+ID_QU_S4_MYSTICMERCENARY,Use Pandapool in War
+ID_QU_S5_MYSTICMERCENARY,Use Pandapool in War at 5 Yellow Stars
+ID_QU_S6_MYSTICMERCENARY,Use Pandapool in War at 6 Yellow Stars
+ID_QU_S7_MYSTICMERCENARY,Use Pandapool in War at 7 Yellow Stars
+ID_QU_S8_MYSTICMERCENARY,Use Daken in War
+ID_QU_S9_MYSTICMERCENARY,Use Daken in War at 5 Yellow Stars
+ID_QU_S10_MYSTICMERCENARY,Use Daken in War at 6 Yellow Stars
+ID_QU_S11_MYSTICMERCENARY,Use Daken in War at 7 Yellow Stars
+ID_QU_S12_MYSTICMERCENARY,Use Old Man Logan in War
+ID_QU_S13_MYSTICMERCENARY,Use Old Man Logan in War at 3 Yellow Stars
+ID_QU_S14_MYSTICMERCENARY,Use Old Man Logan in War at 4 Yellow Stars
+ID_QU_S15_MYSTICMERCENARY,Use Old Man Logan in War at 5 Yellow Stars
+ID_QU_S16_MYSTICMERCENARY,Use Old Man Logan in War at 6 Yellow Stars
+ID_QU_S17_MYSTICMERCENARY,Use Old Man Logan in War at 7 Yellow Stars
+ID_QU_NA_RUNNINGRAMPANT,Running Rampant
+ID_QU_SD_RUNNINGRAMPANT,Spend Wasteland Road Trip Energy
+ID_QU_LD_RUNNINGRAMPANT,Spend Wasteland Road Trip Energy to complete this milestone that rewards Mystic Mercenary and M is for Mercs progress!
+ID_QU_S1_RUNNINGRAMPANT,Spend 1 Wasteland Road Trip Energy

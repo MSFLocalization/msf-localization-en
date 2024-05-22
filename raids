@@ -368,7 +368,7 @@ ID_RAIDS_GAMBIT_DETAILS,Recommendations:\n- Squad Lvl 25-85+\n- Gear Tier 4+\n- 
 ID_RAIDS_CUMULATIVE_REWARDS_DESC,Also awards unearned rewards from lower difficulties
 ID_UI_RAID_LEADERBOARD_NOT_JOINED,Not Joined (No Rewards)
 ID_RAIDS_INCURSION_NAME,Incursion Raids
-ID_RAIDS_INCURSION_DESC,Earn Teal Epic Orbs
+ID_RAIDS_INCURSION_DESC,Earn Teal to Crimson Gear
 ID_RAIDS_INCURSION_DETAILS,Battle interdimensional foes and seek the mastermind behind the Incursion!\n\nRecommendations:\n- Squad Lvl 90+\n- Gear Tier 15+\n- Ability Lvl 7\n- Red Stars 5+\n- Iso-8 Class T2 Level 3+
 ID_RAIDS_INCURSIONMAIN_DETAILS,Battle interdimensional foes and seek the mastermind behind the Incursion!
 ID_RAIDS_INCURSION_COMBAT_MODS_NAME_PLURAL,Combat Mods
@@ -376,7 +376,7 @@ ID_MISSION_RAID_INCURSION_BLANK_DESC,
 ID_RAIDS_INCURSION_01_NAME,Incursion Raid I
 ID_RAIDS_INCURSIONII_DETAILS,Battle interdimensional foes and seek the mastermind behind the Incursion!\n\nRecommendations:\n- Squad Lvl 95+\n- Gear Tier 16+\n- Ability Lvl 7\n- Red Stars 6+\n- Iso-8 Class T2 Level 3+
 ID_RAIDS_INCURSION_02_FS_DETAILS,Battle interdimensional foes and seek the mastermind behind the Incursion!\n\nRecommendations:\n- Squad Lvl 95+\n- Gear Tier 16+\n- Ability Lvl 7\n- Red Stars 6+\n- Iso-8 Class T2 Level 3+
-ID_RAIDS_INCURSION_02_DETAILS,Battle interdimensional foes and seek the mastermind behind the Incursion!\n\nRecommendations:\n- Squad Lvl 95+\n- Gear Tier 18+\n- Ability Lvl 7\n- Red Stars 6+\n- Iso-8 Class T2 Level 4+
+ID_RAIDS_INCURSION_02_DETAILS,Battle interdimensional foes and earn Crimson Gear!\n\nRecommendations:\n- Squad Lvl 95+\n- Gear Tier 18+\n- Ability Lvl 7\n- Red Stars 6+\n- Iso-8 Class T2 Level 4+
 ID_RAIDS_INCURSION_02_NAME,Incursion Raid II
 ID_RAIDS_INCURSION_02_DESC,Earn Crimson Gear
 ID_RAIDS_INCURSION_02_FS_NAME,Incursion Raid II - First Strike
@@ -400,3 +400,10 @@ ID_RAID_AUTO_LAUNCH_TIME_DESCRIPTION,LAUNCHES DAILY LOCAL TIME
 ID_RAID_AUTO_LAUNCH_CONFIRMATION_HEADLINE,RAIDS AUTO-LAUNCH
 ID_RAID_AUTO_LAUNCH_CONFIRMATION_DESC,Save changes to Auto-Launch Schedule?
 ID_RAIDS_TEAMS_ACTIVE,TEAMS ACTIVE   {teamsActive}
+ID_RAIDS_SPOTLIGHT_NAME,Spotlight Raids
+ID_RAIDS_SPOTLIGHTI_NAME,Spotlight I
+ID_RAIDS_SPOTLIGHT_DESC,Earn Crimson Gear
+ID_RAIDS_SPOTLIGHT_DETAILS,Collaborate with your alliance to earn Ability Materials and Crimson Gear!\n\nRecommendations:\n- Squad Lvl 95+\n- Gear Tier 16+\n- Ability Lvl 7\n- Red Stars 5+\n- Iso-8 Class T1 Level 5+
+ID_RAIDS_SPOTLIGHTMAIN_DETAILS,Collaborate with your alliance to earn Ability Materials and Crimson Gear!
+ID_MISSION_RAID_SPOTLIGHT_BLANK_DESC,
+ID_RAIDS_SPOTLIGHTI_DESC,Earn Crimson Gear

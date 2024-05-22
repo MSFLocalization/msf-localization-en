@@ -1,16 +1,16 @@
 id,translation
 ID_SKIN_LTC_NAME,Costume Credits
 ID_SKIN_LTC_DESCRIPTION,Use Costume Credits to purchase Costumes.
-ID_SKIN_STC_NAME,Yellow Phase Bits
-ID_SKIN_STC2_NAME,Yellow Flash Bits
-ID_SKIN_STC3_NAME,Pink Phase Bits
-ID_SKIN_STC4_NAME,Pink Flash Bits
-ID_SKIN_STC5_NAME,Purple Phase Bits
-ID_SKIN_STC6_NAME,Purple Flash Bits
-ID_SKIN_STC7_NAME,Silver Phase Bits
-ID_SKIN_STC8_NAME,Silver Flash Bits
-ID_SKIN_STC9_NAME,Gold Phase Bits
-ID_SKIN_STC10_NAME,Gold Flash Bits
+ID_SKIN_STC_NAME,Silver Bits
+ID_SKIN_STC2_NAME,Gold Bits
+ID_SKIN_STC3_NAME,Blue Bits
+ID_SKIN_STC4_NAME,Red Bits
+ID_SKIN_STC5_NAME,Dark Blue Bits
+ID_SKIN_STC6_NAME,Teal Bits
+ID_SKIN_STC7_NAME,Purple Bits
+ID_SKIN_STC8_NAME,Green Bits
+ID_SKIN_STC9_NAME,Pink Bits
+ID_SKIN_STC10_NAME,Orange Bits
 ID_SKIN_STC_DESCRIPTION,Use {stcName} to purchase Costumes. These will expire in <color=#FF0000>{time}</color>\n\n<color=#7578AD>Expired Bits will be converted to {ltcName}</color>
 ID_SKIN_STC_DESCRIPTION2,Use {stcName} to purchase Costumes.
 ID_SKIN_OWNED,Owned

@@ -6706,6 +6706,18 @@ ID_OF_DE_STPATRICK24_DPCRSORBGPCA18,"Power up with <color=#ffda21>Dark Diamond C
 ID_OF_DE_STPATRICK24_ABMGOLD,Polish your best characters with <color=#ffda21>T4 Ability Materials & Gold</color> in this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_STPATRICK24_BLACKCATRSTRAINGOLDORB,"Enjoy this rare holiday deal of <color=#ffda21>Black Cat Orbs, Training Orbs</color> & more. <color=#ffda21>Greater than a {var1}x value</color>!"
 ID_OF_DE_STPATRICK24_SECRETDEFBLACKCATORB,Defend your arena rank with <color=#ffda21>Secret Defender team shards</color> in this limited time offer. <color=#ffda21>A {var1}x value</color>!
+ID_OF_NA_MACHINESOFWAR_V2_STARTER,Prepare for War
+ID_OF_NA_MACHINESOFWAR_V2_CATCHUP,Final Offensive
+ID_OF_NA_MACHINESOFWAR_V2_WAR,Warfare Fuel
+ID_OF_NA_MACHINESOFWAR_V2_EVENTORB,Allied Supplies
+ID_OF_NA_MACHINESOFWAR_V2_INTERSTITIAL,Machines of War: Supply Special
+ID_OF_NA_MACHINESOFWAR_V2_FREE,Machines of War: Daily Orb Drop
+ID_OF_DE_MACHINESOFWAR_V2_STARTER,Get a head start in the <color=#fff568>Machines of War</color> Milestone to earn Armory Orbs and Mega Gold Orbs!
+ID_OF_DE_MACHINESOFWAR_V2_CATCHUP,Push your alliance to the finish line in the <color=#fff568>Machines of War</color> Milestone to earn Armory Orbs and Mega Gold Orbs!
+ID_OF_DE_MACHINESOFWAR_V2_WAR,Take advantage of this special deal to get the edge in War and help your Alliance progress in the <color=#fff568>Machines of War</color> milestone!
+ID_OF_DE_MACHINESOFWAR_V2_EVENTORB,"Get these orbs for <color=#fff568>Machines of War</color> progress and open them for Gold, T2 Level 5 Ion Orb Fragments and more! "
+ID_OF_DE_MACHINESOFWAR_V2_INTERSTITIAL,You just unlocked the highest discount deal for <color=#fff568>Machines of War</color>! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_MACHINESOFWAR_V2_FREE,Come back daily for more <color=#fff568>Machines of War</color> progress!
 ID_OF_NA_DEMONICORIGINS_MEGA_STARTER,Prepare for Darkness
 ID_OF_NA_DEMONICORIGINS_STARTER,Anticipate the Darkness
 ID_OF_NA_DEMONICORIGINS_MEGA_CATCHUP,Diabolical Catch-Up
@@ -6851,6 +6863,8 @@ ID_OF_NA_IRONPATRIOT_FREE_COSTUME_OFFER,"Iron Patriot ""Classic"" Costume"
 ID_OF_DE_IRONPATRIOT_FREE_COSTUME_OFFER,"Congratulations on unlocking Iron Patriot! Claim your Iron Patriot ""Classic"" Costume."
 ID_OF_NA_BFYB_MAKEGOOD,BFYB Make Good Offer
 ID_OF_DE_BFYB_MAKEGOOD,Celebrate 6 Years of MSF and take advantage of this once in a lifetime deal on Augmented and Superior Gear!
+ID_OF_NA_COSTUME_IRONPATRIOT_FCO_CLASSIC,Classic Iron Patriot Costume Claim
+ID_OF_DE_COSTUME_IRONPATRIOT_FCO_CLASSIC,Congratulations on unlocking the <color=#fff568>Classic Iron Patriot</color> costume!
 ID_OF_NA_6THANNIVERSARY_6FOR66,6th Anniversary 6 for 66
 ID_OF_DE_6THANNIVERSARY_6FOR66,Join us in celebrating 6 years of MARVEL Strike Force! Keep an eye out for another 6 for 66 offer tomorrow.
 ID_OF_NA_7DLS_A,CLAIM NOW: 7 Day Login Streak Token
@@ -7043,7 +7057,7 @@ ID_OF_DE_ANNIV24_DDUNIQUEW5,Seize this offer for more <color=#fff568>Teal Unique
 ID_OF_DE_ANNIV24_BAMFUNIQUEW5,Gear up <color=#fff568>Nightcrawler</color> with this special anniversary offer! BAMF! <color=#0071a6>A {var1}x value</color>!
 ID_OF_NA_NATUREWARS_STARTER,Nature Wars: Starter
 ID_OF_NA_NATUREWARS_CATCHUP,Nature Wars: Catch-up
-ID_OF_NA_NATUREWARS_DAILY_ORB,Nature Wars:Daily Teamwork
+ID_OF_NA_NATUREWARS_DAILY_ORB,Daily Teamwork
 ID_OF_NA_NATUREWARS_DAILY_WAR,Nature Wars: Military Upgrades
 ID_OF_NA_NATUREWARS_FREECLAIM,Nature Wars: Free Claim
 ID_OF_NA_NATUREWARS_INTERSTITIAL,Nature Wars: Web Special
@@ -7831,15 +7845,83 @@ ID_OF_DE_ALLIEDARACHNIDS_RAID,Get your daily raid refills to get ahead in the <c
 ID_OF_DE_ALLIEDARACHNIDS_EVENTORB,Get Allied Supply IV orbs for <color=#fff568>Allied Arachnids</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs featuring guaranteed T2 L5 Ions!
 ID_OF_DE_ALLIEDARACHNIDS_INTERSTITIAL,Stock up on Allied Supply IV Orbs for extra progress in the <color=#fff568>Allied Arachnids</color> Milestone!
 ID_OF_DE_ALLIEDARACHNIDS_FREE,Come back daily for more <color=#fff568>Allied Arachnids</color> progress!
+ID_OF_NA_REDINTOOTHANDCLAW_MEGA_STARTER,Red in Tooth and Claw: Mega Starter
+ID_OF_NA_REDINTOOTHANDCLAW_STARTER,Red in Tooth and Claw: Starter Pack
+ID_OF_NA_REDINTOOTHANDCLAW_MEGA_CATCHUP,Red in Tooth and Claw: Mega Catch-up
+ID_OF_NA_REDINTOOTHANDCLAW_CATCHUP,Red in Tooth and Claw: Catch-up Bundle
+ID_OF_NA_REDINTOOTHANDCLAW_WEB_SPECIAL,Red in Tooth and Claw: Web Special
+ID_OF_NA_REDINTOOTHANDCLAW_DAILY_ORB,Red in Tooth and Claw: Daily Orb
+ID_OF_NA_REDINTOOTHANDCLAW_DAILY_ENERGY,Red in Tooth and Claw: Daily Energy
+ID_OF_NA_REDINTOOTHANDCLAW_FREE_CLAIM,Red in Tooth and Claw: Free Claim
+ID_OF_NA_REDINTOOTHANDCLAW_DAILY_INTERSTITIAL,Red in Tooth and Claw: Hidden Trove
+ID_OF_DE_REDINTOOTHANDCLAW_STARTER,Get ahead in the <color=#fff568>Red in Tooth and Claw</color> Milestone and fast-forward your way to <color=#f12603>Crimson Gear</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_REDINTOOTHANDCLAW_CATCHUP,Finish strong in the milestones to earn <color=#f12603>Crimson Bio Gear</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_REDINTOOTHANDCLAW_WEB_SPECIAL,Take a leap of faith with this Red in Tooth and Claw special web bundle!
+ID_OF_DE_REDINTOOTHANDCLAW_DAILY_ORB,Make progress in the Red In Tooth and Claw milestone by collecting more <color=#fff568>Aged Adamantium Orb Fragments</color>!
+ID_OF_DE_REDINTOOTHANDCLAW_DAILY_ENERGY,Get a daily dose of Campaign Energy to complete the <color=#fff568>Red in Tooth and Claw Milestone</color>!
+ID_OF_DE_REDINTOOTHANDCLAW_FREE_CLAIM,Come back daily for more <color=#fff568>Red In Tooth and Claw</color> progress!
+ID_OF_DE_REDINTOOTHANDCLAW_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Red In Tooth and Claw</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_BLACKWHITEANDREDALLOVER_MEGA_STARTER,Black White and Red All Over: Mega Starter
+ID_OF_NA_BLACKWHITEANDREDALLOVER_STARTER,Black White and Red All Over: Starter Pack
+ID_OF_NA_BLACKWHITEANDREDALLOVER_MEGA_CATCHUP,Black White and Red All Over: Mega Catch-up
+ID_OF_NA_BLACKWHITEANDREDALLOVER_CATCHUP,Black White and Red All Over: Catch-up Bundle
+ID_OF_NA_BLACKWHITEANDREDALLOVER_WEB_SPECIAL,Black White and Red All Over: Web Special
+ID_OF_NA_BLACKWHITEANDREDALLOVER_DAILY_ORB,Black White and Red All Over: Daily Orb
+ID_OF_NA_BLACKWHITEANDREDALLOVER_DAILY_ENERGY,Sinister Strike: Daily Energy
+ID_OF_NA_BLACKWHITEANDREDALLOVER_DAILY_RAID,Black White and Red All Over: Daily Raid
+ID_OF_NA_BLACKWHITEANDREDALLOVER_FREE_CLAIM,Black White and Red All Over: Free Claim
+ID_OF_NA_BLACKWHITEANDREDALLOVER_DAILY_INTERSTITIAL,Black White and Red All Over: Bamboo Grove
+ID_OF_DE_BLACKWHITEANDREDALLOVER_MEGA_STARTER,Get a jump start in the <color=#fff568>Black White and Red All Over</color> Leaderboard for <color=#f12603>Crimson Mutant Mini-Uniques</color> and <color=#fff568>Pandapool's 3 Diamond upgrade</color>!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_MEGA_CATCHUP,Launch to the top of the <color=#fff568>Black White and Red All Over</color> Leaderboard for <color=#f12603>Crimson Mutant Mini-Uniques</color> and <color=#fff568>Pandapool's 3 Diamond upgrade</color>!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_STARTER,Get ahead in the <color=#fff568>Black White and Red All Over</color> Milestone and fast-forward your way to <color=#f12603>Crimson Mutant Gear</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_CATCHUP,Finish strong in the <color=#fff568>Black White and Red All Over</color> Milestone to earn <color=#f12603>Crimson Mutant Gear</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_WEB_SPECIAL,Venture into the bamboo forrest and emerge at the top of the leaderboard with this <color=#fff568>Web Exclusive</color> offer!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_DAILY_ORB,Make progress in the Black White and Red All Over milestone by collecting more <color=#fff568>Bamboo Orb Fragments</color>!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_DAILY_ENERGY,Get your daily dose of Incursion Campaign Energy for progress in the Sinister Strike web milestone and earn more <color=#fff568>Bamboo Orb Fragments</color>!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_DAILY_RAID,Get your daily raid refills to complete the <color=#fff568>Black White and Red All Over Milestone</color>!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_FREE_CLAIM,Come back daily for more <color=#fff568>Black White and Red All Over</color> progress!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Black White and Red All Over</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_MACHINESOFWARV3_STARTER,Machines of War: Starter Bundle
+ID_OF_NA_MACHINESOFWARV3_CATCHUP,Machines of War: Catch-Up Bundle
+ID_OF_NA_MACHINESOFWARV3_EVENTORB,Machines of War: Daily Allied Supply
+ID_OF_NA_MACHINESOFWARV3_WAR,Machines of War: Daily Battle Bundle
+ID_OF_NA_MACHINESOFWARV3_FREE,Machines of War: Free Claim
+ID_OF_NA_MACHINESOFWARV3_INTERSTITIAL,Machines of War: Battle Resupply
+ID_OF_DE_MACHINESOFWARV3_STARTER,"Help your alliance start off strong in the <color=#fff568>Machines of War</color> Milestone and earn Gold, Gear, and <color=#fff568>M is for Mercs</color> progress!"
+ID_OF_DE_MACHINESOFWARV3_CATCHUP,"Push your alliance to the finish line with this <color=#fff568>Machines of War</color> Milestone bundle and earn Gold, Gear, and <color=#fff568>M is for Mercs</color> progress!"
+ID_OF_DE_MACHINESOFWARV3_EVENTORB,Get Allied Supply IV orbs for <color=#fff568>Machines of War</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs featuring guaranteed T2 L5 Ions!
+ID_OF_DE_MACHINESOFWARV3_WAR,Take advantage of this special deal to get the edge in Alliance War and progress in the <color=#f12603>Machines of War</color> milestone!
+ID_OF_DE_MACHINESOFWARV3_FREE,Come back daily for more <color=#fff568>Machines of War</color> progress!
+ID_OF_DE_MACHINESOFWARV3_INTERSTITIAL,Stock up on Allied Supply IV Orbs for extra progress in the <color=#fff568>Machines of War</color> Milestone!
+ID_OF_NA_MYSTICMERCENARY_MEGA_STARTER,Mystic Mercenary: Mega Starter
+ID_OF_NA_MYSTICMERCENARY_STARTER,Mystic Mercenary: Starter Pack
+ID_OF_NA_MYSTICMERCENARY_MEGA_CATCHUP,Mystic Mercenary: Mega Catch-up
+ID_OF_NA_MYSTICMERCENARY_CATCHUP,Mystic Mercenary: Catch-up Bundle
+ID_OF_NA_MYSTICMERCENARY_WEB_SPECIAL,Mystic Mercenary: Web Special
+ID_OF_NA_MYSTICMERCENARY_DAILY_ISO8_ENERGY,Mystic Mercenary: Daily Iso-8 Energy
+ID_OF_NA_MYSTICMERCENARY_DAILY_ECM_ENERGY,Mystic Mercenary: Daily Wasteland Energy
+ID_OF_NA_MYSTICMERCENARY_DAILY_WAR,Mystic Mercenary: Daily Raid
+ID_OF_NA_MYSTICMERCENARY_FREE_CLAIM,Mystic Mercenary: Free Claim
+ID_OF_NA_MYSTICMERCENARY_DAILY_INTERSTITIAL,Mystic Mercenary: Hidden Cache
+ID_OF_DE_MYSTICMERCENARY_MEGA_STARTER,Get a jump start in the <color=#fff568>Mystic Mercenary</color> Milestone for <color=#f12603>Crimson Mystic Mini-Uniques</color> and <color=#fff568>Daken shards</color>!
+ID_OF_DE_MYSTICMERCENARY_STARTER,Get ahead in the <color=#fff568>Mystic Mercenary</color> Milestone and fast-forward your way to <color=#f12603>Crimson Mystic Gear</color> and <color=#fff568>Daken shards</color>!
+ID_OF_DE_MYSTICMERCENARY_MEGA_CATCHUP,Make up ground in the <color=#fff568>Mystic Mercenary</color> Milestone to earn <color=#f12603>Crimson Mystic Mini-Uniques</color> and <color=#fff568>Daken shards</color>!
+ID_OF_DE_MYSTICMERCENARY_CATCHUP,Finish strong in the <color=#fff568>Mystic Mercenary</color> Milestone to earn <color=#f12603>Crimson Mystic Gear</color> and <color=#fff568>Daken shards</color>!
+ID_OF_DE_MYSTICMERCENARY_WEB_SPECIAL,Make more progress in the <color=#fff568>Mystic Mercenary</color> Milestone with this <color=#fff568>Web Exclusive</color> offer!
+ID_OF_DE_MYSTICMERCENARY_DAILY_ISO8_ENERGY,Get your daily Iso-8 energy fix to earn more <color=#fff568>Mystic Mercenary</color> Milestone progress!
+ID_OF_DE_MYSTICMERCENARY_DAILY_ECM_ENERGY,Hit the road with this daily <color=#fff568>Wasteland Road Trip</color> energy bundle and drive by our website for <color=#fff568>Running Rampant</color> Milestone progress!
+ID_OF_DE_MYSTICMERCENARY_DAILY_WAR,Take advantage of this special deal to get the edge in Alliance War and progress in the <color=#f12603>Mystic Mercenary</color> milestone!
+ID_OF_DE_MYSTICMERCENARY_FREE_CLAIM,Come back daily for more <color=#fff568>Mystic Mercenary</color> progress!
+ID_OF_DE_MYSTICMERCENARY_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Mystic Mercenary</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_DD7_CELEBRATION,Dark Dimension VII Winner Celebration: 10 for 10
 ID_OF_DE_DD7_CELEBRATION,Celebrate <color=#fff568>BetaRayBill</color>'s monumental achievement as the first Commander to conquer Dark Dimension VII!
 ID_OF_NA_MERCS4MONEY24_TRAIN_GOLD_A18_A17_T2L5,Mercs For Money Power Up
-ID_OF_NA_MERCS4MONEY24_PANDAPOOL,Panda Pool's Protection Fee
+ID_OF_NA_MERCS4MONEY24_PANDAPOOL,Pandapool's Protection Fee
 ID_OF_NA_MERCS4MONEY24_SUP6_PACK,Superior Mercenaries
 ID_OF_NA_MERCS4MONEY24_HIVEMIND_PACK,Symbiotes For Hire
 ID_OF_NA_MERCS4MONEY24_SOCIETY_PACK,Spider-Society Reinforcements
 ID_OF_NA_MERCS4MONEY24_TEAL_UNIQUES,Essential Equipment
-ID_OF_NA_MERCS4MONEY24_PANDAPOOL_A18_DPC,Panda Pool's Entrance
+ID_OF_NA_MERCS4MONEY24_PANDAPOOL_A18_DPC,Pandapool's Entrance
 ID_OF_NA_MERCS4MONEY24_TEAL_MINI-UNIQUES,Top-Tier Equipment
 ID_OF_NA_MERCS4MONEY24_DEATHPOOL_DEADPOOL,Father & Daughter Team Quips
 ID_OF_NA_MERCS4MONEY24_PANDAPOOL_DAKEN_A18_DPC,Mercs For Money Super Pack
@@ -7867,22 +7949,6 @@ ID_OF_DE_MERCS4MONEY24_PANDAPOOL_DAKEN_TRAIN,Power up your <color=#fff568>Mercs 
 ID_OF_DE_MERCS4MONEY24_PANDAPOOL_DAKEN_A18_TRAIN,Take your <color=#fff568>Mercs For Money</color> team to 6 Yellow Stars to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>2.8M T2 Level 5 Ions and 256 Gear Tier 18 Mini-Uniques</color> in the entire event!
 ID_OF_DE_MERCS4MONEY24_PANDAPOOL_DAKEN_GOLD,Power up your <color=#fff568>Mercs For Money</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>2.8M T2 Level 5 Ions and 256 Gear Tier 18 Mini-Uniques</color> in the entire event!
 ID_OF_DE_MERCS4MONEY24_FULL_TEAM_TRAIN,Improve your entire <color=#fff568>Mercs For Money</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>2.8M T2 Level 5 Ions and 256 Gear Tier 18 Mini-Uniques</color> in the entire event!
-ID_OF_NA_REDINTOOTHANDCLAW_MEGA_STARTER,Red in Tooth and Claw: Mega Starter
-ID_OF_NA_REDINTOOTHANDCLAW_STARTER,Red in Tooth and Claw: Starter Pack
-ID_OF_NA_REDINTOOTHANDCLAW_MEGA_CATCHUP,Red in Tooth and Claw: Mega Catch-up
-ID_OF_NA_REDINTOOTHANDCLAW_CATCHUP,Red in Tooth and Claw: Catch-up Bundle
-ID_OF_NA_REDINTOOTHANDCLAW_WEB_SPECIAL,Red in Tooth and Claw: Web Special
-ID_OF_NA_REDINTOOTHANDCLAW_DAILY_ORB,Red in Tooth and Claw: Daily Orb
-ID_OF_NA_REDINTOOTHANDCLAW_DAILY_ENERGY,Red in Tooth and Claw: Daily Energy
-ID_OF_NA_REDINTOOTHANDCLAW_FREE_CLAIM,Red in Tooth and Claw: Free Claim
-ID_OF_NA_REDINTOOTHANDCLAW_DAILY_INTERSTITIAL,Red in Tooth and Claw: Hidden Trove
-ID_OF_DE_REDINTOOTHANDCLAW_STARTER,Get ahead in the <color=#fff568>Red in Tooth and Claw</color> Milestone and fast-forward your way to <color=#f12603>Crimson Gear</color> and <color=#fff568>Diamond Orbs</color>!
-ID_OF_DE_REDINTOOTHANDCLAW_CATCHUP,Finish strong in the milestones to earn <color=#f12603>Crimson Bio Gear</color> and <color=#fff568>Diamond Orbs</color>!
-ID_OF_DE_REDINTOOTHANDCLAW_WEB_SPECIAL,Take a leap of faith with this Red in Tooth and Claw special web bundle!
-ID_OF_DE_REDINTOOTHANDCLAW_DAILY_ORB,Make progress in the Red In Tooth and Claw milestone by collecting more <color=#fff568>Aged Adamantium Orb Fragments</color>!
-ID_OF_DE_REDINTOOTHANDCLAW_DAILY_ENERGY,Get a daily dose of Campaign Energy to complete the <color=#fff568>Red in Tooth and Claw Milestone</color>!
-ID_OF_DE_REDINTOOTHANDCLAW_FREE_CLAIM,Come back daily for more <color=#fff568>Red In Tooth and Claw</color> progress!
-ID_OF_DE_REDINTOOTHANDCLAW_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Red In Tooth and Claw</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_MD24_WANDA,Decade of Love: Mom's Anniversary
 ID_OF_NA_MD24_GOLD_TRAINING,Decade of Love: Golden Training
 ID_OF_NA_MD24_GOLD_ABM,Decade of Love: Golden Training
@@ -8084,39 +8150,95 @@ ID_OF_DE_OMLCNTDWN_CGRDIAMONDORB,Guarantee yourself a Diamond Cosmic Ghost Rider
 ID_OF_DE_OMLCNTDWN_CARTERDIAMONDORB,Guarantee yourself a Diamond Captain Carter with a chance to get 3 Diamonds!
 ID_OF_DE_OMLCNTDWN_AMERICADIAMONDORB,Guarantee yourself a Diamond Captain America with a chance to get 3 Diamonds!
 ID_OF_DE_POCKETDIMAPR24_ENERGYPACKSMALL,Heal or revive your team and continue the fight with this Pocket Dimension bundle!
-ID_OF_NA_BLACKWHITEANDREDALLOVER_MEGA_STARTER,Black White and Red All Over: Mega Starter
-ID_OF_NA_BLACKWHITEANDREDALLOVER_STARTER,Black White and Red All Over: Starter Pack
-ID_OF_NA_BLACKWHITEANDREDALLOVER_MEGA_CATCHUP,Black White and Red All Over: Mega Catch-up
-ID_OF_NA_BLACKWHITEANDREDALLOVER_CATCHUP,Black White and Red All Over: Catch-up Bundle
-ID_OF_NA_BLACKWHITEANDREDALLOVER_WEB_SPECIAL,Black White and Red All Over: Web Special
-ID_OF_NA_BLACKWHITEANDREDALLOVER_DAILY_ORB,Black White and Red All Over: Daily Orb
-ID_OF_NA_BLACKWHITEANDREDALLOVER_DAILY_ENERGY,Sinister Strike: Daily Energy
-ID_OF_NA_BLACKWHITEANDREDALLOVER_DAILY_RAID,Black White and Red All Over: Daily Raid
-ID_OF_NA_BLACKWHITEANDREDALLOVER_FREE_CLAIM,Black White and Red All Over: Free Claim
-ID_OF_NA_BLACKWHITEANDREDALLOVER_DAILY_INTERSTITIAL,Black White and Red All Over: Bamboo Grove
-ID_OF_DE_BLACKWHITEANDREDALLOVER_MEGA_STARTER,Get a jump start in the <color=#fff568>Black White and Red All Over</color> Leaderboard for <color=#f12603>Crimson Mutant Mini-Uniques</color> and <color=#fff568>Pandapool's 3 Diamond upgrade</color>!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_MEGA_CATCHUP,Launch to the top of the <color=#fff568>Black White and Red All Over</color> Leaderboard for <color=#f12603>Crimson Mutant Mini-Uniques</color> and <color=#fff568>Pandapool's 3 Diamond upgrade</color>!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_STARTER,Get ahead in the <color=#fff568>Black White and Red All Over</color> Milestone and fast-forward your way to <color=#f12603>Crimson Mutant Gear</color> and <color=#fff568>Diamond Orbs</color>!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_CATCHUP,Finish strong in the <color=#fff568>Black White and Red All Over</color> Milestone to earn <color=#f12603>Crimson Mutant Gear</color> and <color=#fff568>Diamond Orbs</color>!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_WEB_SPECIAL,Venture into the bamboo forrest and emerge at the top of the leaderboard with this <color=#fff568>Web Exclusive</color> offer!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_DAILY_ORB,Make progress in the Black White and Red All Over milestone by collecting more <color=#fff568>Bamboo Orb Fragments</color>!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_DAILY_ENERGY,Get your daily dose of Incursion Campaign Energy for progress in the Sinister Strike web milestone and earn more <color=#fff568>Bamboo Orb Fragments</color>!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_DAILY_RAID,Get your daily raid refills to complete the <color=#fff568>Black White and Red All Over Milestone</color>!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_FREE_CLAIM,Come back daily for more <color=#fff568>Black White and Red All Over</color> progress!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Black White and Red All Over</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
-ID_OF_NA_MACHINESOFWARV3_STARTER,Machines of War: Starter Bundle
-ID_OF_NA_MACHINESOFWARV3_CATCHUP,Machines of War: Catch-Up Bundle
-ID_OF_NA_MACHINESOFWARV3_EVENTORB,Machines of War: Daily Allied Supply
-ID_OF_NA_MACHINESOFWARV3_WAR,Machines of War: Daily Battle Bundle
-ID_OF_NA_MACHINESOFWARV3_FREE,Machines of War: Free Claim
-ID_OF_NA_MACHINESOFWARV3_INTERSTITIAL,Machines of War: Battle Resupply
-ID_OF_DE_MACHINESOFWARV3_STARTER,"Help your alliance start off strong in the <color=#fff568>Machines of War</color> Milestone and earn Gold, Gear, and <color=#fff568>M is for Mercs</color> progress!"
-ID_OF_DE_MACHINESOFWARV3_CATCHUP,"Push your alliance to the finish line with this <color=#fff568>Machines of War</color> Milestone bundle and earn Gold, Gear, and <color=#fff568>M is for Mercs</color> progress!"
-ID_OF_DE_MACHINESOFWARV3_EVENTORB,Get Allied Supply IV orbs for <color=#fff568>Machines of War</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs featuring guaranteed T2 L5 Ions!
-ID_OF_DE_MACHINESOFWARV3_WAR,Take advantage of this special deal to get the edge in Alliance War and progress in the <color=#f12603>Machines of War</color> milestone!
-ID_OF_DE_MACHINESOFWARV3_FREE,Come back daily for more <color=#fff568>Machines of War</color> progress!
-ID_OF_DE_MACHINESOFWARV3_INTERSTITIAL,Stock up on Allied Supply IV Orbs for extra progress in the <color=#fff568>Machines of War</color> Milestone!
 ID_OF_DE_DAKEN_AWAKENED_OFFER_UNLOCK,<color=#fff568>SNIKT!</color> Power up Old Man Logan with <color=#fff568>Awakened Ability Materials!</color> Unlock Daken and chase enemies down with bloodthirsty precision!
+ID_OF_NA_OMLSHOW24_ISO,OML Trials: ISO Therapy
+ID_OF_NA_OMLSHOW24_TRAINING,OML Trials: Quick Train Up
+ID_OF_NA_OMLSHOW24_GOLD,OML Trials: Breakfast Heist
+ID_OF_NA_OMLSHOW24_ABM_GOLD,OML Trials: Skills & Knowledge
+ID_OF_NA_OMLSHOW24_GOLD_A19,OML Trials: Crimson Money Bags
+ID_OF_NA_OMLSHOW24_TRAIN_A19,OML Trials: Crimson Dumbbells
+ID_OF_NA_OMLSHOW24_CABAL_TEAM_RECRUIT_NONOWN,OML Trials: Cabal Conspiracy Buy-In
+ID_OF_NA_OMLSHOW24_OUTOFTIME_TEAM_RECRUIT_NONOWN,OML Trials: Recruiting Out of Time
+ID_OF_NA_OMLSHOW24_3STAR_THELEADER_RECRUIT__NONOWN,OML Trials: Recruit The Leader
+ID_OF_NA_OMLSHOW24_4STAR_THELEADER_GUARANTEE_3STAR_TARGET,OML Trials: 4-Star The Leader
+ID_OF_NA_OMLSHOW24_5STAR_THELEADER_GUARANTEE_4STAR_TARGET,OML Trials: 5-Star The Leader
+ID_OF_NA_OMLSHOW24_6STAR_THELEADER_TOPOFF_5STARPLUS_TARGET,OML Trials: World Domination
+ID_OF_NA_OMLSHOW24_6STAR_THELEADER_TOPOFF,OML Trials: Steps Towards World Domination
+ID_OF_NA_OMLSHOW24_3STAR_IRONPATRIOT_RECRUIT_NONOWN,OML Trials: Recruit Iron Patriot
+ID_OF_NA_OMLSHOW24_4STAR_IRONPATRIOT_GUARANTEE_3STAR_TARGET,OML Trials: 4-Star Iron Patriot
+ID_OF_NA_OMLSHOW24_5STAR_IRONPATRIOT_GUARANTEE_4STAR_TARGET,OML Trials: 5-Star Iron Patriot
+ID_OF_NA_OMLSHOW24_6STAR_IRONPATRIOT_TOPOFF_5STARPLUS_TARGET,OML Trials: Flying Towards Democracy
+ID_OF_NA_OMLSHOW24_6STAR_IRONPATRIOT_TOPOFF,OML Trials: Steps Towards Democracy
+ID_OF_NA_OMLSHOW24_3STAR_COSMICGHOSTRIDER_RECRUIT_NONOWN,OML Trials: Recruit Cosmic Ghost Rider
+ID_OF_NA_OMLSHOW24_4STAR_COSMICGHOSTRIDER_GUARANTEE_3STAR_TARGET,OML Trials: 4-Star Cosmic Ghost Rider
+ID_OF_NA_OMLSHOW24_5STAR_COSMICGHOSTRIDER_GUARANTEE_4STAR_TARGET,OML Trials: 5-Star Cosmic Ghost Rider
+ID_OF_NA_OMLSHOW24_6STAR_COSMICGHOSTRIDER_TOPOFF_5STARPLUS_TARGET,OML Trials: Full Throttle
+ID_OF_NA_OMLSHOW24_6STAR_COSMICGHOSTRIDER_TOPOFF,OML Trials: Steps Towards Cosmic Vengeance
+ID_OF_NA_OMLSHOW24_2STAR_STARBRAND_RECRUIT_NONOWN,OML Trials: Recruit Starbrand
+ID_OF_NA_OMLSHOW24_3STAR_STARBRAND_GUARANTEE_2STAR_TARGET,OML Trials: 3-Star Starbrand
+ID_OF_NA_OMLSHOW24_4STAR_STARBRAND_GUARANTEE_3STAR_TARGET,OML Trials: 4-Star Starbrand
+ID_OF_NA_OMLSHOW24_5STAR_STARBRAND_GUARANTEE_4STAR_TARGET,OML Trials: 5-Star Starbrand
+ID_OF_NA_OMLSHOW24_6STAR_STARBRAND_TOPOFF_5STARPLUS_TARGET,OML Trials: Primal Dominance
+ID_OF_NA_OMLSHOW24_6STAR_STARBRAND_TOPOFF,OML Trials: Steps Towards Primal Dominance
+ID_OF_NA_OMLSHOW24_3STAR_BLACKKNIGHT_RECRUIT_NONOWN,OML Trials: Recruit Black Knight
+ID_OF_NA_OMLSHOW24_4STAR_BLACKKNIGHT_GUARANTEE_3STAR_TARGET,OML Trials: 4-Star Black Knight
+ID_OF_NA_OMLSHOW24_5STAR_BLACKKNIGHT_GUARANTEE_4STAR_TARGET,OML Trials: 5-Star Black Knight
+ID_OF_NA_OMLSHOW24_6STAR_BLACKKNIGHT_TOPOFF_5STARPLUS_TARGET,OML Trials: Knighthood
+ID_OF_NA_OMLSHOW24_6STAR_BLACKKNIGHT_TOPOFF,OML Trials: Steps Towards Knighthood
+ID_OF_NA_OMLSHOW24_CABAL_DIAMOND_DRAFT,OML Trials: Diamond Conspiracy
+ID_OF_NA_OMLSHOW24_OUTOFTIME_DIAMOND_DRAFT,OML Trials: Diamonds Through Time
+ID_OF_NA_OMLSHOW24_CABAL_CRIMSON_UNIQUES,OML Trials: Cabal Crimson Innovation
+ID_OF_NA_OMLSHOW24_CABAL_CRIMSON_MINIUNIQUES,OML Trials: Cabal Crimson Technology
+ID_OF_NA_OMLSHOW24_OOT_CRIMSON_UNIQUES,OML Trials: Displaced Crimson Artifacts
+ID_OF_NA_OMLSHOW24_OOT_CRIMSON_MINIUNIQUES,OML Trials: Displaced Crimson Antiquities
+ID_OF_NA_OMLSHOW24_CABAL_TEAL_UNIQUES,OML Trials: Cabal Teal Innovation
+ID_OF_NA_OMLSHOW24_CABAL_TEAL_MINIUNIQUES,OML Trials: Cabal Teal Technology
+ID_OF_NA_OMLSHOW24_OOT_TEAL_UNIQUES,OML Trials: Displaced Teal Artifacts
+ID_OF_NA_OMLSHOW24_OOT_TEAL_MINIUNIQUES,OML Trials: Displaced Teal Antiquities
+ID_OF_DE_OMLSHOW24_ISO,Help your push for Old Man Logan! Give your roster the boost they need today with this offer today!
+ID_OF_DE_OMLSHOW24_TRAINING,Get a boost in the Old Man Logan Trials! Stock up on <color=#fff568>T4 Training Modules</color> with this great offer!
+ID_OF_DE_OMLSHOW24_GOLD,Boost your momentum towards Old Man Logan! Fill up your <color=#fff568>Gold</color> reserves with this great offer!
+ID_OF_DE_OMLSHOW24_ABM_GOLD,Grab a helping claw for the Old Man Logan Trials! Fill up your <color=#fff568>Gold</color> reserves and stock up on <color=#fff568>T4 Ability Material</color> with this supreme value offer!
+ID_OF_DE_OMLSHOW24_GOLD_A19,Help yourself during the Old Man Logan Trials! Empower your roster with the capital needed to succeed in the future with this limited time offer!
+ID_OF_DE_OMLSHOW24_TRAIN_A19,Grab a helping claw for the Old Man Logan Trials! Train up your roster towards succeed for the future with this limited time offer!
+ID_OF_DE_OMLSHOW24_CABAL_TEAM_RECRUIT_NONOWN,Help your push towards Old Man Logan! Lead your own conspiracy by recruiting the entire <color=#fff568>Cabal team</color> right now with this special offer! Only available for a limited time so get it now before it's gone!
+ID_OF_DE_OMLSHOW24_OUTOFTIME_TEAM_RECRUIT_NONOWN,Rip and shred your way to Old Man Logan! Pick up this out-of-the-world extremely rare offer for the entire <color=#fff568>Out of Time team</color> today! Only available for a limited time so get it now before it's gone!
+ID_OF_DE_OMLSHOW24_3STAR_THELEADER_RECRUIT__NONOWN,Boost your momentum towards Old Man Logan! Dominate the world! <color=#fff568>Recruit The Leader</color> right now with this special offer! Only available for a limited time so get it now before it's gone!
+ID_OF_DE_OMLSHOW24_4STAR_THELEADER_GUARANTEE_3STAR_TARGET,Help yourself during the Old Man Logan Trials! Your master plan is here with a <color=#fff568>guaranteed 4-star The Leader</color> special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_5STAR_THELEADER_GUARANTEE_4STAR_TARGET,Grab a helping claw for the Old Man Logan Trials! Capture the world with this <color=#fff568>guaranteed 5-star The Leader</color> special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_6STAR_THELEADER_TOPOFF_5STARPLUS_TARGET,Get a boost in the Old Man Logan Trials! Take huge strides in progress for <color=#fff568>The Leader</color> special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_6STAR_THELEADER_TOPOFF,Get a boost in the Old Man Logan Trials! Take a step forward in progress for <color=#fff568>The Leader</color> with this special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_3STAR_IRONPATRIOT_RECRUIT_NONOWN,Help your push towards Old Man Logan! It's time to call in the Dark Avenger!<color=#fff568>Recruit Iron Patriot</color> right now with this special offer! Only available for a limited time so get it now before it's gone!
+ID_OF_DE_OMLSHOW24_4STAR_IRONPATRIOT_GUARANTEE_3STAR_TARGET,Rip and shred your way to Old Man Logan! Upgrade the H.A.M.M.E.R.'s commander with a <color=#fff568>guaranteed 4-star Iron Patriot</color> special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_5STAR_IRONPATRIOT_GUARANTEE_4STAR_TARGET,Boost your momentum towards Old Man Logan! Secure the nation with a <color=#fff568>guaranteed 5-star Iron Patriot</color> special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_6STAR_IRONPATRIOT_TOPOFF_5STARPLUS_TARGET,Help yourself during the Old Man Logan Trials! Fly towards progress for <color=#fff568>Iron Patriot</color> with this special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_6STAR_IRONPATRIOT_TOPOFF,Get a boost in the Old Man Logan Trials! Take steps towards progress for <color=#fff568>Iron Patriot</color> with this special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_3STAR_COSMICGHOSTRIDER_RECRUIT_NONOWN,Grab a helping claw for the Old Man Logan Trials! Vengeance will be yours! <color=#fff568>Recruit Cosmic Ghost Rider</color> right now with this special offer! Only available for a limited time so get it now before it's gone!
+ID_OF_DE_OMLSHOW24_4STAR_COSMICGHOSTRIDER_GUARANTEE_3STAR_TARGET,Get a boost in the Old Man Logan Trials! Catch this cosmic opportunity for a <color=#fff568>guaranteed 4-star Cosmic Ghost Rider</color>! This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_5STAR_COSMICGHOSTRIDER_GUARANTEE_4STAR_TARGET,Help your push towards Old Man Logan! Roam the cosmos with a <color=#fff568>guaranteed 5-star Cosmic Ghost Rider</color> using this special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_6STAR_COSMICGHOSTRIDER_TOPOFF_5STARPLUS_TARGET,Rip and shred your way to Old Man Logan! Go full throttle towards progress for <color=#fff568>Cosmic Ghost Rider</color> with this special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_6STAR_COSMICGHOSTRIDER_TOPOFF,Rip and shred your way to Old Man Logan! Take steps towards progress for <color=#fff568>Cosmic Ghost Rider</color> with this special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_2STAR_STARBRAND_RECRUIT_NONOWN,Boost your momentum towards Old Man Logan! Slay the Deviants! <color=#fff568>Recruit Starbrand</color> right now with this special offer! Only available for a limited time so get it now before it's gone!
+ID_OF_DE_OMLSHOW24_3STAR_STARBRAND_GUARANTEE_2STAR_TARGET,Help yourself during the Old Man Logan Trials! Improve your Stone Age Avenger today with a <color=#fff568>guaranteed 3-star Starbrand</color> using this special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_4STAR_STARBRAND_GUARANTEE_3STAR_TARGET,Grab a helping claw for the Old Man Logan Trials! Power up your Out of Time team with a <color=#fff568>guaranteed 4-star Starbrand</color> special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_5STAR_STARBRAND_GUARANTEE_4STAR_TARGET,Get a boost in the Old Man Logan Trials! Continue towards prehistoric perfection with a <color=#fff568>guaranteed 5-star Starbrand</color> special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_6STAR_STARBRAND_TOPOFF_5STARPLUS_TARGET,Help your push towards Old Man Logan! Stomp your way towards progress for <color=#fff568>Starbrand</color> with this special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_6STAR_STARBRAND_TOPOFF,Help your push towards Old Man Logan! Take steps towards progress for <color=#fff568>Starbrand</color> with this special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_3STAR_BLACKKNIGHT_RECRUIT_NONOWN,Rip and shred your way to Old Man Logan! Call the Ebony Blade wielder to your side! <color=#fff568>Recruit Black Knight</color> right now with this special offer! Only available for a limited time so get it now before it's gone!
+ID_OF_DE_OMLSHOW24_4STAR_BLACKKNIGHT_GUARANTEE_3STAR_TARGET,Boost your momentum towards Old Man Logan! Slay evil today with a <color=#fff568>guaranteed 4-star Black Knight</color> special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_5STAR_BLACKKNIGHT_GUARANTEE_4STAR_TARGET,Help yourself during the Old Man Logan Trials! Defeat all evil with this <color=#fff568>guaranteed 5-star Black Knight</color> special offer! This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_6STAR_BLACKKNIGHT_TOPOFF_5STARPLUS_TARGET,Grab a helping claw for the Old Man Logan Trials! Sweep away your obstacles in progress for <color=#fff568>Black Knight</color> with this special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_6STAR_BLACKKNIGHT_TOPOFF,Grab a helping claw for the Old Man Logan Trials! Take steps towards progress for <color=#fff568>Black Knight</color> with this special offer. This offer won't be returning so don't miss your chance!
+ID_OF_DE_OMLSHOW24_CABAL_DIAMOND_DRAFT,Get a boost in the Old Man Logan Trials! Guarantee yourself Diamonds for the <color=#fff568>Cabal along with Emma Frost</color>! Also provides chance to get 3 Diamonds!
+ID_OF_DE_OMLSHOW24_OUTOFTIME_DIAMOND_DRAFT,"Boost your momentum towards Old Man Logan! Guarantee yourself Diamonds for <color=#fff568>Starbrand, Cosmic Ghost Rider, Captain Carter, and Captain America</color>! Also provides chance to get 3 Diamonds!"
+ID_OF_DE_OMLSHOW24_CABAL_CRIMSON_UNIQUES,Help yourself during the Old Man Logan Trials! Boost your progress towards Gear Tier 19 with this <color=#fff568>Cabal Crimson Uniques</color> offer!
+ID_OF_DE_OMLSHOW24_CABAL_CRIMSON_MINIUNIQUES,Grab a helping claw for the Old Man Logan Trials! Get help on your path towards Gear Tier 19 with this <color=#fff568>Cabal Crimson Mini-Uniques</color> offer!
+ID_OF_DE_OMLSHOW24_OOT_CRIMSON_UNIQUES,Get a boost in the Old Man Logan Trials! Expedite your journey towards Gear Tier 19 with this <color=#fff568>Out of Time Crimson Uniques</color> offer!
+ID_OF_DE_OMLSHOW24_OOT_CRIMSON_MINIUNIQUES,Boost your momentum towards Old Man Logan! Improve your path towards Gear Tier 19 with this <color=#fff568>Out of Time Crimson Mini-Uniques</color> offer!
+ID_OF_DE_OMLSHOW24_CABAL_TEAL_UNIQUES,Help your push towards Old Man Logan! Boost your progress towards Gear Tier 18 with this <color=#fff568>Cabal Teal Uniques</color> offer!
+ID_OF_DE_OMLSHOW24_CABAL_TEAL_MINIUNIQUES,Get a boost in the Old Man Logan Trials! Get help on your path towards Gear Tier 18 with this <color=#fff568>Cabal Teal Mini-Uniques</color> offer!
+ID_OF_DE_OMLSHOW24_OOT_TEAL_UNIQUES,Help your push towards Old Man Logan! Expedite your journey towards Gear Tier 18 with this <color=#fff568>Out of Time Teal Uniques</color> offer!
+ID_OF_DE_OMLSHOW24_OOT_TEAL_MINIUNIQUES,Get a boost in the Old Man Logan Trials! Improve your path towards Gear Tier 18 with this <color=#fff568>Out of Time Teal Mini-Uniques</color> offer!
 ID_OF_NA_MERCSGOLDRUSH_PANDA,Pandapool's Golden Bounty
 ID_OF_DE_MERCSGOLDRUSH_PANDA,Take Pandapool to the next Yellow Star level to earn even more <color=#fff568>Gold</color> every weekend in the <color=#fff568>Mercs' Golden Bounty Milestone</color>!
 ID_OF_NA_MERCSGOLDRUSH_DAKEN,Daken's Golden Bounty
@@ -8201,3 +8323,93 @@ ID_OF_DE_ALPHA24_TEAL_MINIUNIQUES,"Seize this offer for more <color=#fff568>Teal
 ID_OF_DE_ALPHA24_DARKGOLD,"<color=#fff568>3x Value!</color> Not all that glitters is Gold! Dark Diamond Credits and Dark Promotion credits shine just as brightly. "
 ID_OF_DE_ALPHA24_DAILYGOLD,<color=#fff568>Greater than 3x Value!</color> Take advantage of this Daily Gold Pack to get ahead!
 ID_OF_DE_ALPHA24_ORBSPACK,"Take advantage of this offer of <color=#ffda21>Diamond orb, Armory 18 orbs, Training orbs, and T3 Ability orbs</color> today!"
+ID_OF_NA_FINDER_CRIMSON_GT19_MINI_UNIQUE,Gear Tier 19 Mini-Unique Supply
+ID_OF_DE_FINDER_CRIMSON_GT19_MINI_UNIQUE,Power up your roster with these Gear Tier 19 Mini-Uniques!
+ID_OF_NA_FINDER_CRIMSON_ORIGIN_BIO,Crimson Bio Gear Supply
+ID_OF_DE_FINDER_CRIMSON_ORIGIN_BIO,Power up your roster with this Crimson Gear for Bio characters!
+ID_OF_NA_FINDER_CRIMSON_ORIGIN_SKILL,Crimson Skill Gear Supply
+ID_OF_DE_FINDER_CRIMSON_ORIGIN_SKILL,Power up your roster with this Crimson Gear for Skill characters!
+ID_OF_NA_FINDER_CRIMSON_ORIGIN_MUTANT,Crimson Mutant Gear Supply
+ID_OF_DE_FINDER_CRIMSON_ORIGIN_MUTANT,Power up your roster with this Crimson Gear for Mutant characters!
+ID_OF_NA_FINDER_CRIMSON_ORIGIN_MYSTIC,Crimson Mystic Gear Supply
+ID_OF_DE_FINDER_CRIMSON_ORIGIN_MYSTIC,Power up your roster with this Crimson Gear for Mystic characters!
+ID_OF_NA_FINDER_CRIMSON_ORIGIN_TECH,Crimson Tech Gear Supply
+ID_OF_DE_FINDER_CRIMSON_ORIGIN_TECH,Power up your roster with this Crimson Gear for Tech characters!
+ID_OF_NA_FINDER_CRIMSON_BASIC_CAT,Crimson Basic Catalyst Boost
+ID_OF_DE_FINDER_CRIMSON_BASIC_CAT,Pick up these Crimson Basic Catalyst Parts to help craft gear and power up your roster!
+ID_OF_NA_FINDER_CRIMSON_STAT_CAT,Crimson Catalyst Boost
+ID_OF_DE_FINDER_CRIMSON_STAT_CAT,Pick up these Crimson Catalyst Parts to help craft gear and power up your roster!
+ID_OF_NA_FINDER_TEAL_GT18_MINI_UNIQUE,Gear Tier 18 Mini-Unique Supply
+ID_OF_DE_FINDER_TEAL_GT18_MINI_UNIQUE,Power up your roster with these Gear Tier 18 Mini-Uniques!
+ID_OF_NA_MEMORIAL24_INVADERS_TEAM_E7,Honor Week: Army Veterans
+ID_OF_NA_MEMORIAL24_VOID_KNIGHT_TRAIN_E7,Honor Week: Symbiote Knight
+ID_OF_NA_MEMORIAL24_GWENOM_TRAIN_E7,Honor Week: Gwenom's Workout
+ID_OF_NA_MEMORIAL24_RED_GOBLIN_TRAIN_E7,Honor Week: Cackling Symbiote
+ID_OF_NA_MEMORIAL24_IRONPATRIOT_TRAIN_GOLD,Honor Week: Patriot's Salute
+ID_OF_NA_MEMORIAL24_FORGE_E7,Honor Week: D.A.R.P.A Veteran
+ID_OF_NA_MEMORIAL24_CAPTAINAMERICA_E7,Honor Week: Captain's Pack
+ID_OF_NA_MEMORIAL24_SAM_E7,Honor Week: Veteran Sam
+ID_OF_NA_MEMORIAL24_FORGE_GT19_MINIS,Forge's Crimson Mini Uniques
+ID_OF_NA_MEMORIAL24_IRONPATRIOT_GT19_MINIS,Iron Patriot's Crimson Mini Uniques
+ID_OF_NA_MEMORIAL24_CAPTAINAMERICA_GT19_MINIS,Captain America's Crimson Mini Uniques
+ID_OF_NA_MEMORIAL24_SAM_GT19_MINIS,Sam Wilson's Crimson Mini Uniques
+ID_OF_NA_MEMORIAL24_GOLDORB_GACHAORBS,Honor Week: Legacy Pride
+ID_OF_NA_MEMORIAL24_DPC_TRAIN_GOLD_BLACKKNIGHT_VOIDKNIGHT,Honor Week: Dark Knights
+ID_OF_NA_MEMORIAL24_TRAINING_CALENDAR,Honor Week: Training Calendar
+ID_OF_NA_MEMORIAL24_GOLD_DPC,Honor Week: Credit & Gold Restock
+ID_OF_NA_MEMORIAL24_GOLD_DDC_,Honor Week: Golden Dark Diamonds
+ID_OF_NA_MEMORIAL24_DORB_GOLD_ABM_,Honor Week: Diamond Combo Pack
+ID_OF_NA_MEMORIAL24_ABM_E7,Honor Week: Elite Ability
+ID_OF_NA_MEMORIAL24_GOLD_MORB_ABM,Honor Week: Mega Opportunity
+ID_OF_NA_MEMORIAL24_A18_TEALCAT_GOLD,Honor Week: Armory Pack
+ID_OF_NA_MEMORIAL24_DDC,Honor Week: Dark Diamond Special
+ID_OF_NA_MEMORIAL24_DORB_GOLD,Honor Week: Diamond Gold Combo
+ID_OF_NA_MEMORIAL24_DDC_DPC,Honor Week: Sunset Promotion
+ID_OF_NA_MEMORIAL24_GOLD_ABM,Honor Week: Golden Ability
+ID_OF_NA_MEMORIAL24_TRAIN_ISO,Honor Week: Training Evolution
+ID_OF_NA_MEMORIAL24_DORB_DDORB_DPC_TYSTREAK2_TY,Honor Week: Diamond Thank You!
+ID_OF_NA_MEMORIAL24_DDORB_DPC_STREAK1,Honor Week: New Dawn Special
+ID_OF_NA_MEMORIAL24_MORB_PREMORB_TYSTREAK2_TY,Honor Week: Mega Thank You!
+ID_OF_NA_MEMORIAL24_MORB_PREMORB_STREAK1,Honor Week: Mega Orb Special
+ID_OF_NA_MEMORIAL24_TRAIN_GOLD_HC_CE_TYSTREAK2_TY,Honor Week: Trainer's Thank You!
+ID_OF_NA_MEMORIAL24_TRAIN_GOLD_HC_STREAK1,Honor Week: Trainer's Special
+ID_OF_NA_MEMORIAL24_GOLD_E7_TYSTREAK2,Honor Week: Golden Elite Thank You!
+ID_OF_NA_MEMORIAL24_GOLD_STREAK1,Honor Week: Gold Heart Special
+ID_OF_NA_MEMORIAL24_ISO_GOLD_STREAK2_TY,Honor Week: Researcher's Thank You!
+ID_OF_NA_MEMORIAL24_ISO_GOLD_STREAK1,Honor Week: Researcher's Gold Special
+ID_OF_DE_MEMORIAL24_INVADERS_TEAM_E7,Catch up with tons of shards for the <color=#ffda21>Invaders Team</color> & more from this limited time offer.
+ID_OF_DE_MEMORIAL24_VOID_KNIGHT_TRAIN_E7,Improve your favorite symbiote with this limited time offer!
+ID_OF_DE_MEMORIAL24_GWENOM_TRAIN_E7,Improve your favorite symbiote with this limited time offer!
+ID_OF_DE_MEMORIAL24_RED_GOBLIN_TRAIN_E7,Improve your favorite symbiote with this limited time offer!
+ID_OF_DE_MEMORIAL24_IRONPATRIOT_TRAIN_GOLD,Take this veteran to new heights with this limited time offer!
+ID_OF_DE_MEMORIAL24_FORGE_E7,Take this veteran to new heights with this limited time offer!
+ID_OF_DE_MEMORIAL24_CAPTAINAMERICA_E7,Take this veteran to new heights with this limited time offer!
+ID_OF_DE_MEMORIAL24_SAM_E7,Take this veteran to new heights with this limited time offer!
+ID_OF_DE_MEMORIAL24_FORGE_GT19_MINIS,Take advantage of this limited time offer to continue progress towards Gear Tier 19!
+ID_OF_DE_MEMORIAL24_IRONPATRIOT_GT19_MINIS,Take advantage of this limited time offer to continue progress towards Gear Tier 19!
+ID_OF_DE_MEMORIAL24_CAPTAINAMERICA_GT19_MINIS,Take advantage of this limited time offer to continue progress towards Gear Tier 19!
+ID_OF_DE_MEMORIAL24_SAM_GT19_MINIS,Take advantage of this limited time offer to continue progress towards Gear Tier 19!
+ID_OF_DE_MEMORIAL24_GOLDORB_GACHAORBS,Shower yourself in shards with this super valuable limited time offer!
+ID_OF_DE_MEMORIAL24_DPC_TRAIN_GOLD_BLACKKNIGHT_VOIDKNIGHT,Don't miss out on this super combo offer! Only available for a limited time!
+ID_OF_DE_MEMORIAL24_TRAINING_CALENDAR,Get a daily drop of L4 Training Modules from logging in over 7 days! Huge value!
+ID_OF_DE_MEMORIAL24_GOLD_DPC,Restock on the essential resources to continue powering up your roster today with this limited time offer!
+ID_OF_DE_MEMORIAL24_GOLD_DDC_,Restock on the essential resources to continue powering up your roster today with this limited time offer!
+ID_OF_DE_MEMORIAL24_DORB_GOLD_ABM_,Restock on the essential resources to continue powering up your roster today with this limited time offer!
+ID_OF_DE_MEMORIAL24_ABM_E7,Boost the ability and capability of your roster with this limited time offer!
+ID_OF_DE_MEMORIAL24_GOLD_MORB_ABM,Don't miss out on this super combo offer! Only available for a limited time!
+ID_OF_DE_MEMORIAL24_A18_TEALCAT_GOLD,Progress the gear tier of your roster today with this limited time offer!
+ID_OF_DE_MEMORIAL24_DDC,Start promoting your roster with a special limited time offer today!
+ID_OF_DE_MEMORIAL24_DORB_GOLD,Take your roster to higher power levels this limited time offer.
+ID_OF_DE_MEMORIAL24_DDC_DPC,Take your roster to higher power levels this limited time offer.
+ID_OF_DE_MEMORIAL24_GOLD_ABM,Take your roster to higher power levels this limited time offer.
+ID_OF_DE_MEMORIAL24_TRAIN_ISO,Take your roster to higher power levels this limited time offer.
+ID_OF_DE_MEMORIAL24_DORB_DDORB_DPC_TYSTREAK2_TY,Thank you for your support! Please enjoy this ultimate value special offer!
+ID_OF_DE_MEMORIAL24_DDORB_DPC_STREAK1,Take your roster to higher power levels this limited time offer.
+ID_OF_DE_MEMORIAL24_MORB_PREMORB_TYSTREAK2_TY,Thank you for your support! Please enjoy this ultimate value special offer!
+ID_OF_DE_MEMORIAL24_MORB_PREMORB_STREAK1,Open orbs for a chance at the most recent characters with this limited time high value offer!
+ID_OF_DE_MEMORIAL24_TRAIN_GOLD_HC_CE_TYSTREAK2_TY,Thank you for your support! Please enjoy this ultimate value special offer!
+ID_OF_DE_MEMORIAL24_TRAIN_GOLD_HC_STREAK1,Get a boost for your account with all the items from this limited time high value offer!
+ID_OF_DE_MEMORIAL24_GOLD_E7_TYSTREAK2,Thank you for your support! Please enjoy this ultimate value special offer!
+ID_OF_DE_MEMORIAL24_GOLD_STREAK1,Add more Gold to your reserves from this limited time high value offer!
+ID_OF_DE_MEMORIAL24_ISO_GOLD_STREAK2_TY,Thank you for your support! Please enjoy this ultimate value special offer!
+ID_OF_DE_MEMORIAL24_ISO_GOLD_STREAK1,Boost your reserves of the items you need from this limited time high value offer!

@@ -74,6 +74,21 @@ ID_HORSEMEN_RDD_HINT_7,Suggested Gear: <color=#d5d7f7>16+</color>
 ID_HORSEMEN_RDD_HINT_8,Suggested Gear: <color=#d5d7f7>17+</color>
 ID_HORSEMEN_RDD_HINT_9,Suggested Gear: <color=#d5d7f7>18+</color>
 ID_HORSEMEN_RDD_HINT_10,Suggested Gear: <color=#d5d7f7>19+</color>
+ID_TRIALS_NEW_RDD_HINT_1,Suggested Gear: <color=#d5d7f7>6+</color>
+ID_TRIALS_NEW_RDD_HINT_2,Suggested Gear: <color=#d5d7f7>8+</color>
+ID_TRIALS_NEW_RDD_HINT_3,Suggested Gear: <color=#d5d7f7>9+</color>
+ID_TRIALS_NEW_RDD_HINT_4,Suggested Gear: <color=#d5d7f7>11+</color>
+ID_TRIALS_NEW_RDD_HINT_5,Suggested Gear: <color=#d5d7f7>13+</color>
+ID_TRIALS_NEW_RDD_HINT_6,Suggested Gear: <color=#d5d7f7>14+</color>
+ID_TRIALS_NEW_RDD_HINT_7,Suggested Gear: <color=#d5d7f7>14+</color>
+ID_TRIALS_NEW_RDD_HINT_8,Suggested Gear: <color=#d5d7f7>15+</color>
+ID_TRIALS_NEW_RDD_HINT_9,Suggested Gear: <color=#d5d7f7>15+</color>
+ID_TRIALS_NEW_RDD_HINT_10,Suggested Gear: <color=#d5d7f7>16+</color>
+ID_TRIALS_NEW_RDD_HINT_11,"Gear: <color=#d5d7f7>16+</color>, REQUIRES: <color=#fff568>5-STAR CHARACTERS</color>"
+ID_TRIALS_NEW_RDD_HINT_12,"Gear: <color=#d5d7f7>16+</color>, REQUIRES: <color=#fff568>5-STAR CHARACTERS</color>"
+ID_TRIALS_NEW_RDD_HINT_13,"Gear: <color=#d5d7f7>17+</color>, REQUIRES: <color=#fff568>6-STAR CHARACTERS</color>"
+ID_TRIALS_NEW_RDD_HINT_14,"Gear: <color=#d5d7f7>18+</color>, REQUIRES: <color=#fff568>6-STAR CHARACTERS</color>"
+ID_TRIALS_NEW_RDD_HINT_15,"Gear: <color=#d5d7f7>19+</color>, REQUIRES: <color=#fff568>7-STAR CHARACTERS</color>"
 ID_HORSEMEN_REWARDS_EFFICIENCY,Turn Bonus:
 ID_HORSEMEN_REWARDS_COMPLETED,COMPLETED
 ID_EVENT_HORSEMEN_EVENT,Scourge
@@ -112,3 +127,25 @@ ID_GREENGOBLIN_EVENT_CARD_DESC_01,Earn Green Goblin (Classic) Shards
 ID_GREENGOBLIN_EVENT_CARD_TITLE_01_LEADERBOARD,GREEN GOBLIN (CLASSIC) - LEADERBOARD
 ID_HORSEMEN_ALL_SHARDS_TITLE,All Character Shards Collected
 ID_HORSEMEN_ALL_SHARDS_DESC,Congratulations! You have earned all character shards for this event
+ID_OLDMANLOGAN_EVENT_CARD_TITLE_01,OLD MAN LOGAN
+ID_OLDMANLOGAN_EVENT_CARD_DESC_01,Earn Old Man Logan Shards
+ID_OLDMANLOGAN_EVENT_CARD_TITLE_01_LEADERBOARD,OLD MAN LOGAN - LEADERBOARD
+ID_LEGENDARY2024_NO_HIGHSCORE,This is not a new high score. Increase your difficulty or select additional Mods to score higher!
+ID_LEGENDARY2024_VICTORS_LEADERBOARD_INFO,You have already attained max stars for this character and are no longer eligible for rank rewards.
+ID_LEGENDARY2024_RULES_HEADER,Rules of the OLD MAN LOGAN EVENT
+ID_LEGENDARY2024_RULES_SUBHEADER_01,THE BEST THERE IS
+ID_LEGENDARY2024_RULES_BODY_01,"Survive the Wasteland with the help of the berserker Ronin... Wolverine, Old Man Logan!"
+ID_LEGENDARY2024_RULES_SUBHEADER_02,MOD YOUR WAY TO VICTORY
+ID_LEGENDARY2024_RULES_BODY_02,"Mods add effects that help your team, but could also make your battles more difficult! They're the key to getting higher scores and better rewards. Choose your Mods wisely!"
+ID_LEGENDARY2024_RULES_SUBHEADER_03,EXPECTED RUN SCORE
+ID_LEGENDARY2024_RULES_BODY_03,The Mods and Difficulty you choose combine to determine your Expected Run Score. You will score that many points if you complete every mission. A score bonus is granted for efficient play.
+ID_LEGENDARY2024_RULES_SUBHEADER_04,NO HEALING!
+ID_LEGENDARY2024_RULES_BODY_04,"Score as high as you can, but be careful! Characters cannot be healed between battles."
+ID_LEGENDARY2024_RULES_SUBHEADER_05,COMPLETE ALL OR SOME
+ID_LEGENDARY2024_RULES_BODY_05,"Complete all the missions, or reset part way through. If you choose to reset, you will be awarded a portion of your Expected Run Score."
+ID_LEGENDARY2024_RULES_SUBHEADER_06,INCREASE YOUR HIGH SCORE
+ID_LEGENDARY2024_RULES_BODY_06,"Your best score determines your leaderboard position and your milestone progress. Get higher scores to get better rewards, including Legendary character shards!"
+ID_LEGENDARY2024_PACTS,Mods
+ID_LEGENDARY2024_METER_PACTS,MODS
+ID_LEGENDARY2024_PACTS_SELECTED,Selected Mods
+ID_LEGENDARY2024_SELECT_PACTS_DESC,Select Mods to raise your score modifier:

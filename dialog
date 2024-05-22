@@ -8210,6 +8210,177 @@ ID_DIALOG_SSE_MFM_09_END_5,ARGH!!!
 ID_DIALOG_SSE_MFM_09_END_6,"Pipe down, Osborn. Kids, today.\nToo damned noisy."
 ID_DIALOG_SSE_MFM_09_END_7,Now... All of you punks that came with Osborn... Get off my lawn.
 ID_DIALOG_SSE_MFM_09_END_8,"Hey, old man.\nWe could use your help."
+ID_DIALOG_SSE_ALPHAFLIGHT_01_INTRO_0,"A WEAPON X FACILITY, DEEP IN THE CANADIAN WILDERNESS..."
+ID_DIALOG_SSE_ALPHAFLIGHT_01_INTRO_1,"So this is the famous ""Weapon X"".\nCan't say I'm impressed."
+ID_DIALOG_SSE_ALPHAFLIGHT_01_INTRO_2,Should be simple work to find where they're keeping Wolverine and the others...
+ID_DIALOG_SSE_ALPHAFLIGHT_01_INTRO_3,"*SNIKT* Turn around nice and easy, bub."
+ID_DIALOG_SSE_ALPHAFLIGHT_01_INTRO_4,Wolverine? I was just about to bust you out. How did you get free?
+ID_DIALOG_SSE_ALPHAFLIGHT_01_INTRO_5,"I ain't yer Wolverine. But I'm here lookin' for answers, and he might have 'em."
+ID_DIALOG_SSE_ALPHAFLIGHT_01_INTRO_6,"Tsk, multiversal nonsense. Exhausting."
+ID_DIALOG_SSE_ALPHAFLIGHT_01_INTRO_7,"I'll take the help, though. They have Wolverine in maximum security. Come on, it's just up ahead."
+ID_DIALOG_SSE_ALPHAFLIGHT_01_START_0,There he is! We've got to get those machines off of him.
+ID_DIALOG_SSE_ALPHAFLIGHT_01_START_1,The IVs... the restraints...
+ID_DIALOG_SSE_ALPHAFLIGHT_01_START_2,RRAAAHH!!
+ID_DIALOG_SSE_ALPHAFLIGHT_01_START_3,Whoa! Watch the claws!
+ID_DIALOG_SSE_ALPHAFLIGHT_01_MID_0,"Logan? Meet, uh, Logan."
+ID_DIALOG_SSE_ALPHAFLIGHT_01_END_0,Thanks. Don't know how much more of that I could take.
+ID_DIALOG_SSE_ALPHAFLIGHT_01_END_1,No problem. Now maybe ya can lend me a hand.
+ID_DIALOG_SSE_ALPHAFLIGHT_01_END_2,I need to know where Professor Xavier is.
+ID_DIALOG_SSE_ALPHAFLIGHT_01_END_3,"Bub, never heard of him."
+ID_DIALOG_SSE_ALPHAFLIGHT_01_END_4,"You've forgotten Chuck too, huh? No one here remembers the man."
+ID_DIALOG_SSE_ALPHAFLIGHT_01_END_5,"If there's one thing I can't stand, it's having my head messed with."
+ID_DIALOG_SSE_ALPHAFLIGHT_01_END_6,I'll look into it - one of the brainiacs I was brought here with might.
+ID_DIALOG_SSE_ALPHAFLIGHT_01_END_7,"Alright, find yer buddies. I'll get the rest of the captive mutants outta here."
+ID_DIALOG_SSE_ALPHAFLIGHT_02_INTRO_0,"""Professor Xavier""? Another Wolverine? Does any of this make sense to you?"
+ID_DIALOG_SSE_ALPHAFLIGHT_02_INTRO_1,"Not a word, but it's makin' my claws itch. If this guy's any help, we should figure it out."
+ID_DIALOG_SSE_ALPHAFLIGHT_02_INTRO_2,AAHHH!!
+ID_DIALOG_SSE_ALPHAFLIGHT_02_INTRO_3,"Sounds like he's havin' fun, at least."
+ID_DIALOG_SSE_ALPHAFLIGHT_02_INTRO_4,"True, but the stragglers are coming our way!"
+ID_DIALOG_SSE_ALPHAFLIGHT_02_START_0,"Oh, come on! Not you!"
+ID_DIALOG_SSE_ALPHAFLIGHT_02_START_1,"Oh, I'm gonna enjoy this."
+ID_DIALOG_SSE_ALPHAFLIGHT_02_END_0,"Ok, ok, I give up! I'll tell you everything I know, but I don't have high clearance."
+ID_DIALOG_SSE_ALPHAFLIGHT_02_END_1,"My pay sucks, the hours are horrible. Don't even get me started on the ""benefits."""
+ID_DIALOG_SSE_ALPHAFLIGHT_02_END_2,"Start singin', birdie. Where's the group I was brought in with?"
+ID_DIALOG_SSE_ALPHAFLIGHT_02_END_3,All I know is that one is in the next sector. The others were taken further into the compound.
+ID_DIALOG_SSE_ALPHAFLIGHT_02_END_4,Can I go now?
+ID_DIALOG_SSE_ALPHAFLIGHT_02_END_5,"Not a chance, bub."
+ID_DIALOG_SSE_ALPHAFLIGHT_03_INTRO_0,He better not have given us bad intel.
+ID_DIALOG_SSE_ALPHAFLIGHT_03_INTRO_1,"No, we're close. It's faint, but I can smell 'em."
+ID_DIALOG_SSE_ALPHAFLIGHT_03_START_0,More guards. Logan really kicked the hornet's nest!
+ID_DIALOG_SSE_ALPHAFLIGHT_03_END_0,They're in one of these rooms.
+ID_DIALOG_SSE_ALPHAFLIGHT_03_END_1,It looks like most of them were already evacuated.
+ID_DIALOG_SSE_ALPHAFLIGHT_03_END_2,Seems like they forgot to tell these guys.
+ID_DIALOG_SSE_ALPHAFLIGHT_04_INTRO_0,Radio for backup! Wolverine is loose!
+ID_DIALOG_SSE_ALPHAFLIGHT_04_INTRO_1,*BZZT* We know! He's tearing through Medical!
+ID_DIALOG_SSE_ALPHAFLIGHT_04_INTRO_2,There's TWO of them?!
+ID_DIALOG_SSE_ALPHAFLIGHT_04_START_0,I'm givin' ya one chance to make this easy and let our buddy there go.
+ID_DIALOG_SSE_ALPHAFLIGHT_04_START_1,WHERE'S THAT BACKUP?!
+ID_DIALOG_SSE_ALPHAFLIGHT_04_START_2,Have it your way. *SNIKT*
+ID_DIALOG_SSE_ALPHAFLIGHT_04_END_0,I'll cut ya loose.
+ID_DIALOG_SSE_ALPHAFLIGHT_04_END_1,"Northstar? Wake up, buddy!"
+ID_DIALOG_SSE_ALPHAFLIGHT_04_END_2,Their data suggests they were trying to hypercharge his photokinesis.
+ID_DIALOG_SSE_ALPHAFLIGHT_04_END_3,They woulda made him a walkin' nuke!
+ID_DIALOG_SSE_ALPHAFLIGHT_04_END_4,Shhhh... I have a killer migraine and you both are SO loud.
+ID_DIALOG_SSE_ALPHAFLIGHT_04_END_5,I ain't got time to baby ya. We gotta find the others.
+ID_DIALOG_SSE_ALPHAFLIGHT_04_END_6,They're still trapped?! What are we standing around for then?
+ID_DIALOG_SSE_ALPHAFLIGHT_05_INTRO_0,Where are the others?
+ID_DIALOG_SSE_ALPHAFLIGHT_05_INTRO_1,All we know is that they're further in the facility.
+ID_DIALOG_SSE_ALPHAFLIGHT_05_INTRO_2,"That's hardly useful intel. Give me a minute, I'll find them."
+ID_DIALOG_SSE_ALPHAFLIGHT_05_INTRO_3,Just because he has superspeed doesn't mean he has to be a super jerk.
+ID_DIALOG_SSE_ALPHAFLIGHT_05_INTRO_4,I thought you of all people would be able to take a little hit.
+ID_DIALOG_SSE_ALPHAFLIGHT_05_INTRO_5,Cool it. Did ya find 'em?
+ID_DIALOG_SSE_ALPHAFLIGHT_05_INTRO_6,"I did. Guardian is nearby, but we have company incoming."
+ID_DIALOG_SSE_ALPHAFLIGHT_05_START_0,"They've released Northstar! Sir, shouldn't we fall back?"
+ID_DIALOG_SSE_ALPHAFLIGHT_05_START_1,"You have your orders, soldier!"
+ID_DIALOG_SSE_ALPHAFLIGHT_05_END_0,"This place is a giant, constantly changing maze."
+ID_DIALOG_SSE_ALPHAFLIGHT_05_END_1,What's worse is that some of the sectors are self-destructing.
+ID_DIALOG_SSE_ALPHAFLIGHT_05_END_2,We'll need to move quickly if we want to find Guardian.
+ID_DIALOG_SSE_ALPHAFLIGHT_06_INTRO_0,I thought the Weapon X program went under.
+ID_DIALOG_SSE_ALPHAFLIGHT_06_INTRO_1,"Weapon X, Orchis, groups like these never stop."
+ID_DIALOG_SSE_ALPHAFLIGHT_06_INTRO_2,But why us? Not all of us are mutants.
+ID_DIALOG_SSE_ALPHAFLIGHT_06_INTRO_3,No clue. I was separated early when they brought us here.
+ID_DIALOG_SSE_ALPHAFLIGHT_06_INTRO_4,"Honestly, let's just tear them apart and not ask. I'd rather not think about it."
+ID_DIALOG_SSE_ALPHAFLIGHT_06_INTRO_5,"Good news - you won't have to think about anything, ever again."
+ID_DIALOG_SSE_ALPHAFLIGHT_06_START_0,Good timin'. I needa work off some frustrations.
+ID_DIALOG_SSE_ALPHAFLIGHT_06_END_0,"Did any of the scientists say anything about you, Northstar?"
+ID_DIALOG_SSE_ALPHAFLIGHT_06_END_1,They said I'd be a catalyst. That I'd be the one to show the world how dangerous mutants are.
+ID_DIALOG_SSE_ALPHAFLIGHT_06_END_2,It wouldn't be the first time they tried to make weapons out of us.
+ID_DIALOG_SSE_ALPHAFLIGHT_06_END_3,*BOOM!!*
+ID_DIALOG_SSE_ALPHAFLIGHT_06_END_4,That's not a good sound.
+ID_DIALOG_SSE_ALPHAFLIGHT_06_END_5,"If the place is self-destructin', we're wastin' time standin' around."
+ID_DIALOG_SSE_ALPHAFLIGHT_06_END_6,"Pick up the pace, you two - we need to move, NOW!"
+ID_DIALOG_SSE_ALPHAFLIGHT_07_INTRO_0,I'm surprised this sector hasn't self-destructed.
+ID_DIALOG_SSE_ALPHAFLIGHT_07_INTRO_1,I sabotaged some of the blast doors on my way back.
+ID_DIALOG_SSE_ALPHAFLIGHT_07_INTRO_2,"That'll keep some of the rooms from blowin', but these facilities have their own floodin' system."
+ID_DIALOG_SSE_ALPHAFLIGHT_07_INTRO_3,"If we don't find the others fast, we'll get caught underwater."
+ID_DIALOG_SSE_ALPHAFLIGHT_07_INTRO_4,CALL IT IN! THE INTRUDERS ARE HERE!
+ID_DIALOG_SSE_ALPHAFLIGHT_07_INTRO_5,We don't need this right now!
+ID_DIALOG_SSE_ALPHAFLIGHT_08_INTRO_0,Here's the room they're keeping Guardian in!
+ID_DIALOG_SSE_ALPHAFLIGHT_08_INTRO_1,"Of course, he's still surrounded and hooked up to that... thing."
+ID_DIALOG_SSE_ALPHAFLIGHT_08_INTRO_2,That's not just any machine. I've seen this before... been IN it.
+ID_DIALOG_SSE_ALPHAFLIGHT_08_INTRO_3,Weapon X uses it to brainwash their experiments into obedience.
+ID_DIALOG_SSE_ALPHAFLIGHT_08_INTRO_4,Sounds to me like this machine needs to be put out of commission.
+ID_DIALOG_SSE_ALPHAFLIGHT_08_START_0,Protect the subject! We can't lose our progress!
+ID_DIALOG_SSE_ALPHAFLIGHT_08_END_0,Guardian is still unresponsive.
+ID_DIALOG_SSE_ALPHAFLIGHT_08_END_1,"I'm working on it, but these switches, dials, and buttons aren't exactly labeled for outsiders."
+ID_DIALOG_SSE_ALPHAFLIGHT_08_END_2,"My claws got a message that'll come in loud an' clear. Move aside, bub!"
+ID_DIALOG_SSE_ALPHAFLIGHT_08_END_3,No! We don't know what consequences an abrupt interruption will--
+ID_DIALOG_SSE_ALPHAFLIGHT_08_END_4,*SLICE*
+ID_DIALOG_SSE_ALPHAFLIGHT_08_END_5,"-cause. Too late, I guess."
+ID_DIALOG_SSE_ALPHAFLIGHT_08_END_6,He's waking up! Be ready for anything.
+ID_DIALOG_SSE_ALPHAFLIGHT_09_INTRO_0,Where... Where am I?
+ID_DIALOG_SSE_ALPHAFLIGHT_09_INTRO_1,Some of my systems are offline. What's going on?
+ID_DIALOG_SSE_ALPHAFLIGHT_09_INTRO_2,We're in a Weapon X bunker goin' through its death throes.
+ID_DIALOG_SSE_ALPHAFLIGHT_09_INTRO_3,"They were poking around in your head, Jim."
+ID_DIALOG_SSE_ALPHAFLIGHT_09_INTRO_4,Do you remember anything?
+ID_DIALOG_SSE_ALPHAFLIGHT_09_INTRO_5,"Yes...\nWhen they dragged me in, someone else was being taken out... I think it was Walter."
+ID_DIALOG_SSE_ALPHAFLIGHT_09_INTRO_6,We can't let Sasquatch's mind fall into Weapon X's hands.
+ID_DIALOG_SSE_ALPHAFLIGHT_09_START_0,I should've known better than to leave that peabrain Octavius guarding you!
+ID_DIALOG_SSE_ALPHAFLIGHT_09_START_1,"Tell us where our friend Sasquatch is, or face my wrath."
+ID_DIALOG_SSE_ALPHAFLIGHT_09_END_0,I don't suppose we'll get much information out of him now.
+ID_DIALOG_SSE_ALPHAFLIGHT_09_END_1,That won't be a problem. I'll hack into their security system and check the remaining live feeds.
+ID_DIALOG_SSE_ALPHAFLIGHT_09_END_2,Being a cyborg has its perks.
+ID_DIALOG_SSE_ALPHAFLIGHT_09_END_3,Maybe that's why they put Sasquatch through that machine before me.
+ID_DIALOG_SSE_ALPHAFLIGHT_09_END_4,The mechanical side of my brain has firewalls that make mind manipulation difficult.
+ID_DIALOG_SSE_ALPHAFLIGHT_09_END_5,Wait... I've located Sasquatch.
+ID_DIALOG_SSE_ALPHAFLIGHT_10_INTRO_0,There's an R&D room housing new brainwashing technology up ahead.
+ID_DIALOG_SSE_ALPHAFLIGHT_10_INTRO_1,They have Sasquatch working on getting into a working state.
+ID_DIALOG_SSE_ALPHAFLIGHT_10_INTRO_2,Thinkin' about what they did to you and Northstar... Not sure I want to know what they're plannin'.
+ID_DIALOG_SSE_ALPHAFLIGHT_10_INTRO_3,Good thing you'll never make it far enough to figure it out anyway.
+ID_DIALOG_SSE_ALPHAFLIGHT_10_START_0,That room has the only escape route this far into the facility.
+ID_DIALOG_SSE_ALPHAFLIGHT_10_START_1,"Even if you beat us, you'll be overrun! HAHAHA!!"
+ID_DIALOG_SSE_ALPHAFLIGHT_11_START_0,Red Goblin wasn't kidding about the number of guards coming this way.
+ID_DIALOG_SSE_ALPHAFLIGHT_11_END_0,We're made it! And it looks like we're just in time for the big brawl.
+ID_DIALOG_SSE_ALPHAFLIGHT_11_END_1,Is that?
+ID_DIALOG_SSE_ALPHAFLIGHT_11_END_2,"Yeah, it's me. Kind of. It's a long story."
+ID_DIALOG_SSE_ALPHAFLIGHT_11_END_3,He's fighting Sasquatch - we can't let them kill each other.
+ID_DIALOG_SSE_ALPHAFLIGHT_12_START_0,STOP! Sasquatch is being controlled.
+ID_DIALOG_SSE_ALPHAFLIGHT_12_START_1,Then it sounds like I need to knock a wake-up call into his fuzzy head!
+ID_DIALOG_SSE_ALPHAFLIGHT_12_END_0,"Easy, he's with us."
+ID_DIALOG_SSE_ALPHAFLIGHT_12_END_1,Didn't look that way to me.
+ID_DIALOG_SSE_ALPHAFLIGHT_12_END_2,We know better than most what it's like to have someone scramble our brains.
+ID_DIALOG_SSE_ALPHAFLIGHT_12_END_3,He's still with us.
+ID_DIALOG_SSE_ALPHAFLIGHT_12_END_4,"Either way, no one's heard of one of the most important mutants in history."
+ID_DIALOG_SSE_ALPHAFLIGHT_12_END_5,This machine and that overgrown furball are my tickets to finding out why.
+ID_DIALOG_SSE_ALPHAFLIGHT_13_INTRO_0,Sasquatch? Are you with us? What do you remember?
+ID_DIALOG_SSE_ALPHAFLIGHT_13_INTRO_1,"Everything. I wasn't in control, but I could see it all... This machine must be destroyed!"
+ID_DIALOG_SSE_ALPHAFLIGHT_13_INTRO_2,"Not so fast, bub. I need to see why I'm the only one that knows about Xavier."
+ID_DIALOG_SSE_ALPHAFLIGHT_13_INTRO_3,"Of course. As a show of gratitude for freeing me, even as violently as you did, let me help."
+ID_DIALOG_SSE_ALPHAFLIGHT_13_INTRO_4,"Strap in, and I'll get you an answer."
+ID_DIALOG_SSE_ALPHAFLIGHT_13_START_0,Keep these interlopers off our backs. These results are fascinating.
+ID_DIALOG_SSE_ALPHAFLIGHT_13_END_0,"So, what's the damage, Doc?"
+ID_DIALOG_SSE_ALPHAFLIGHT_13_END_1,"None whatsoever. Your memories haven't been altered, Logan."
+ID_DIALOG_SSE_ALPHAFLIGHT_13_END_2,"Maybe this guy doesn't exist on our world. You're from another dimension, bub."
+ID_DIALOG_SSE_ALPHAFLIGHT_13_END_3,Then who formed the X-Men? Why ain't Apocalypse or Magneto running the planet?
+ID_DIALOG_SSE_ALPHAFLIGHT_13_END_4,I... Ugh... I can't remember. Wait a sec... You gotta hook ME up.
+ID_DIALOG_SSE_ALPHAFLIGHT_13_END_5,Are you sure?
+ID_DIALOG_SSE_ALPHAFLIGHT_13_END_6,Something's up. And if this Xavier guy is so important to you... He's probably important to me.
+ID_DIALOG_SSE_ALPHAFLIGHT_14_INTRO_0,What's this thing do anyway?
+ID_DIALOG_SSE_ALPHAFLIGHT_14_INTRO_1,It's meant to alter memories. Key events in our growth shape how we use our powers.
+ID_DIALOG_SSE_ALPHAFLIGHT_14_INTRO_2,This would give Weapon X's benefactors the power to pick and choose which memories to give someone.
+ID_DIALOG_SSE_ALPHAFLIGHT_14_INTRO_3,Some memories aren't meant for others to have.
+ID_DIALOG_SSE_ALPHAFLIGHT_14_INTRO_4,Precisely why this machine needs to be destroyed.
+ID_DIALOG_SSE_ALPHAFLIGHT_14_INTRO_5,"Wolverine, are you ready?"
+ID_DIALOG_SSE_ALPHAFLIGHT_14_INTRO_6,Get to it already.
+ID_DIALOG_SSE_ALPHAFLIGHT_14_START_0,"Out of the way, peons! Let me show you how a REAL Osborn handles these gnats."
+ID_DIALOG_SSE_ALPHAFLIGHT_14_START_1,"If we're interrupted now, we won't get answers! We must stop them!"
+ID_DIALOG_SSE_ALPHAFLIGHT_14_MID_0,The device is almost there.
+ID_DIALOG_SSE_ALPHAFLIGHT_14_END_0,"Rrrrr... Hurry it up, I feel like I'm gonna hurl."
+ID_DIALOG_SSE_ALPHAFLIGHT_14_END_1,Done! Fascinating...
+ID_DIALOG_SSE_ALPHAFLIGHT_14_END_2,What did you find out?
+ID_DIALOG_SSE_ALPHAFLIGHT_14_END_3,"Using your mind as a map to the memories of your Professor, I found interesting gaps."
+ID_DIALOG_SSE_ALPHAFLIGHT_14_END_4,"It's strange... Rather than new, altered memories, it's as if there's a dense fog over old ones."
+ID_DIALOG_SSE_ALPHAFLIGHT_14_END_5,"Well, ain't that just grand."
+ID_DIALOG_SSE_ALPHAFLIGHT_14_END_6,"Guardian, radio Fury. We're going to need a lift, and more research."
+ID_DIALOG_SSE_ALPHAFLIGHT_15_INTRO_0,I established a connection with S.T.R.I.K.E. - Fury's on his way.
+ID_DIALOG_SSE_ALPHAFLIGHT_15_INTRO_1,"Good. If I never see another Weapon X facility, it'll be too soon."
+ID_DIALOG_SSE_ALPHAFLIGHT_15_INTRO_2,"Never say never, Wolverine. Any time traveller can tell you that. I won't let you all get away so easily."
+ID_DIALOG_SSE_ALPHAFLIGHT_16_END_0,"Good work in shutting down this facility, gentlemen."
+ID_DIALOG_SSE_ALPHAFLIGHT_16_END_1,"Fury, I assume ya know what's goin' on?"
+ID_DIALOG_SSE_ALPHAFLIGHT_16_END_2,"Dr. Langkowski over there gave me a sit rep, though I don't have answers for you."
+ID_DIALOG_SSE_ALPHAFLIGHT_16_END_3,"Someone's messin' with our heads, Fury. I need answers."
+ID_DIALOG_SSE_ALPHAFLIGHT_16_END_4,That's why I brought one of the smartest people I know.
+ID_DIALOG_SSE_ALPHAFLIGHT_16_END_5,"Hello, little angry men. I heard you could use a hand in finding your friend."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
@@ -10261,6 +10432,90 @@ ID_DIALOG_TRIALS_GREENGOBLIN_10_END_6,*SNAP*
 ID_DIALOG_TRIALS_GREENGOBLIN_10_END_7,"I... I remember everything! Uh, sorry about the sword thing, Fury. "
 ID_DIALOG_TRIALS_GREENGOBLIN_10_END_8,Get the Goblin and we'll call it even.
 ID_DIALOG_TRIALS_GREENGOBLIN_10_END_9,"Too late, he's gone. Mephisto too. But I know for sure... This isn't over."
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_INTRO_0,THE WASTELAND...
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_INTRO_1,"Okay, kid, make it quick. Why'd you drag these strays to my doorstep?"
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_INTRO_2,"They're not strays, they're CLIENTS. They need a way off world, and we said you can help."
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_INTRO_3,"Well, give 'em a refund, 'cause I'm not goin' anywhere. I'm retired. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_INTRO_4,I'm planning on sitting on this ranch and drinking until I forget we ever had this conversation.
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_INTRO_5,"Wow, Logan, you've changed. Wait, no... This is exactly how I remember you. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_INTRO_6,"Change is for people with somethin' to change for, kid. But, this debate club's gonna have to wait..."
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_INTRO_7,*sniff sniff*
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_INTRO_8,You led raiders right to me!
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_END_0,"Well, I'm definitely not telling M.J. that May was around that level of violence."
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_END_1,"My advice? Tell the kid to get used to it - violence is the one thing this place has got in spades.  "
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_END_2,"Wow, you know, I said you're the same, but I guess I was wrong. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_END_3,"The Logan I knew was a drunk, and had a temper, and, sure, didn't smell GREAT..."
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_END_4,You gettin' to a point any time soon?
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_END_5,"But he'd never turn down people who needed his help. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_END_6,"Grr... I forgot how much your speeches bugged me. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_01_END_7,"Fine. I'll help. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_INTRO_0,"I can repair Sp//dr's tech to get us home! But we haven't been able to find an energy source strong enough. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_INTRO_1,:-(
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_INTRO_2,"Energy... Yeah, there's a place out in Utah that's got plenty of that. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_INTRO_3,Nowhere in this wasteland's got plenty of ANYTHING without a catch. What's between us and the payday?
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_INTRO_4,"The energy? It's Gamma. And you know what that means. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_INTRO_5,"Banners. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_INTRO_6,Wait... BannerS? PLURAL?
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_INTRO_7,"Yeah, the Hulk's kids. Some smart, some... Less so. If there's a Gamma Plant, it's probably the smart ones."
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_INTRO_8,"You wanted my help, kid? Well, you're gonna need it. Grab your gear, we're leavin' now."
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_END_0,"Hey, Logan... I'm sorry if I was a little harsh back there. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_END_1,"The smell thing was a little over the line, I mean I've got someone in a diaper strapped to my chest. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_END_2,"I've got enhanced senses, bub - you don't gotta remind me."
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_END_3,So... Do you want to talk about it? Whatever happened to you?
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_END_4,Nope.
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_END_5,"Ooookay, well, good talk. I see the Parker Charm works no matter what universe I'm in..."
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_END_6,"All you need to know is that a long time ago, some bad guys used me to hurt a lot of people I love. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_END_7,I'm never letting that happen again.
+ID_DIALOG_TRIALS_OLDMANLOGAN_03_END_8,And I ain't gonna let that happen to any of you. Let's go.
+ID_DIALOG_TRIALS_OLDMANLOGAN_05_INTRO_0,"We're here... All the Gamma energy you need, just behind those concrete walls. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_05_INTRO_1,*RUMBLE*
+ID_DIALOG_TRIALS_OLDMANLOGAN_05_INTRO_2,"Oooh, thunder! Or is that the Wasteland rest stop Mexican food I had on the way here..."
+ID_DIALOG_TRIALS_OLDMANLOGAN_05_INTRO_3,"There ain't a cloud in the sky, Wade."
+ID_DIALOG_TRIALS_OLDMANLOGAN_05_INTRO_4,Please tell me it's not his stomach...
+ID_DIALOG_TRIALS_OLDMANLOGAN_05_INTRO_5,Worse. Footsteps. Belonging to...
+ID_DIALOG_TRIALS_OLDMANLOGAN_05_INTRO_6,"Well, well, well. Looks like we've got some TRESSPASSERS. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_05_END_0,*WHAM*
+ID_DIALOG_TRIALS_OLDMANLOGAN_05_END_1,This is the guy that gave dad all that trouble back in the day? He's so... Small.
+ID_DIALOG_TRIALS_OLDMANLOGAN_05_END_2,"*spit* Heh... Yer pop used to slug me ten times harder, and was smart enough to know he needed to."
+ID_DIALOG_TRIALS_OLDMANLOGAN_05_END_3,"No brains or brawn... Tough luck ending up with just his looks, bub. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_05_END_4,"Hey, are we sure making them ANGRIER is the right move? Are Hulks different on your world or something?"
+ID_DIALOG_TRIALS_OLDMANLOGAN_05_END_5,"We're going to pick our teeth with your metal bones, old man!\nRAAAGH-- "
+ID_DIALOG_TRIALS_OLDMANLOGAN_05_END_6,*PEW PEW PEW*
+ID_DIALOG_TRIALS_OLDMANLOGAN_05_END_7,ARGH!
+ID_DIALOG_TRIALS_OLDMANLOGAN_05_END_8,"Hands off the little hairy guy! Not the raccoon, I mean... The little GUY... You get it!"
+ID_DIALOG_TRIALS_OLDMANLOGAN_8_INTRO_0,"Thanks for the assist, Quill. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_8_INTRO_1,"Yeah, well, next time you call in a favor, you could mention that it's green and can lift ten tons."
+ID_DIALOG_TRIALS_OLDMANLOGAN_8_INTRO_2,"And ruin the surprise? "
+ID_DIALOG_TRIALS_OLDMANLOGAN_8_INTRO_3,"Spidey, you're a sight for sore eyes. It's been a few light years since we've seen a hero like you around here."
+ID_DIALOG_TRIALS_OLDMANLOGAN_8_INTRO_4,"It's funny you say that, light years are ACTUALLY a measurement of distance!"
+ID_DIALOG_TRIALS_OLDMANLOGAN_8_INTRO_5,"...Still a nerd, huh?"
+ID_DIALOG_TRIALS_OLDMANLOGAN_8_INTRO_6,"You don't know the half of it. Quill, you and Rocket keep 'em occupied. I'm getting these spiders a ride home."
+ID_DIALOG_TRIALS_OLDMANLOGAN_8_END_0,"Hate to admit it, but it's good to see you up and back in action. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_8_END_1,"Heh, I didn't think you gave a damn about your old man, kid."
+ID_DIALOG_TRIALS_OLDMANLOGAN_8_END_2,I don't... Not the one who sits in his shack moping about the old days.
+ID_DIALOG_TRIALS_OLDMANLOGAN_8_END_3,"But when you have something to fight for again, keeping your old friends alive..."
+ID_DIALOG_TRIALS_OLDMANLOGAN_8_END_4,"I'm seeing a little of The Wolverine everyone's always telling me about. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_INTRO_0,"Mr. Wolverine! I'm connecting Sp//dr to the Gamma Core now! Once he's powered up, we're good to go."
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_INTRO_1,:-)
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_INTRO_2,"You really helped us out, Logan. We'll always owe you our duck. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_INTRO_3,"Pete, you're making less sense than normal."
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_INTRO_4,"No, DUCK!"
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_INTRO_5,*WHAM!*
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_INTRO_6,"You should have stayed retired, pipsqueak. My idiot brothers couldn't handle you... "
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_INTRO_7,...Let's see how you do against ME!
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_END_0,Sp//dr's portal is open! We can go!
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_END_1,"Make it quick! She-Hulk's getting back up. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_END_2,We need to stop her before she talks to the camera again! That's my thing!
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_END_3,"You don't need to tell me twice. Spiders, let's go!"
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_END_4,"S.T.R.I.K.E. HQ, NEXUS EARTH..."
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_END_5,They're back! Close up that portal and get some damned support in here ASAP.
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_END_6,Fury! I can't tell you how good it is to see myself reflected in that shiny head again!
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_END_7,"Please don't make me consider sending you back. "
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_END_8,"No way, bub. They did enough damage."
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_END_9,Logan! You came with us?!
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_END_10,Felt good fighting for something. I remembered what Charles Xavier's dream meant. Figure I'll lend a hand.
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_END_11,"I can always use another set of claws. One question, though..."
+ID_DIALOG_TRIALS_OLDMANLOGAN_10_END_12,Who the hell is Charles Xavier?
 ID_DIALOG_EVENT_UNDERWORLD_1_INTRO_0,The Kree are abducting my associates and converting them to their cause.
 ID_DIALOG_EVENT_UNDERWORLD_1_INTRO_1,I'm sure whoever rescued would be willing to join S.T.R.I.K.E.
 ID_DIALOG_ELEKTRA_EVENT_1_START_0,We're getting reports of Elektra running rampant in Hell's Kitchen.
@@ -12663,7 +12918,7 @@ ID_DIALOG_NUE_FIRSTTIME_ALLIANCE_02_1,"Create your own <color=#fff568>ALLIANCE</
 ID_DIALOG_NUE_FIRSTTIME_EVENTS_01_0,You have unlocked <color=#fff568>EVENTS</color>.
 ID_DIALOG_NUE_FIRSTTIME_EVENTS_02_0,Here you will find <color=#fff568>SPECIAL EVENTS</color> with unique and valuable rewards.
 ID_DIALOG_NUE_FIRSTTIME_EVENTS_02_1,Most <color=#fff568>EVENTS</color> only last for a <color=#fff568>LIMITED TIME</color>. Be sure to complete them before they expire.
-ID_DIALOG_NUE_FIRSTTIME_EVENTS_03_0,Try completing these <color=#fff568>EVENTS</color> to obtain more <color=#fff568>VILLAINS</color>!
+ID_DIALOG_NUE_FIRSTTIME_EVENTS_03_0,Try completing the <color=#fff568>ELEKTRA EVENT</color> to obtain <color=#fff568>ELEKTRA</color>!
 ID_DIALOG_NUE_SIM_01_0,"Commander, you have been making excellent progress. Are you aware we can simulate your past missions?"
 ID_DIALOG_NUE_SIM_01_1,"After completing a <color=#fff568>MISSION</color> with <color=#fff568>3 MEDALS</color>, you can <color=#fff568>AUTO WIN</color> the battle instantly."
 ID_DIALOG_NUE_SIM_01_2,Tap <color=#fff568>AUTO WIN</color> to collect <color=#fff568>GEAR</color> for your characters and earn more <color=#fff568>CHARACTER SHARDS</color>.
