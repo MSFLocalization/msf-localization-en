@@ -1070,6 +1070,12 @@ ID_ME_BO_STRIKE_GAMMARAIDS_ANNOUNCE,"Commander,\n\nGamma Raid has launched!\n\nC
 ID_ME_NA_STRIKE_GAMMARAIDS_ENDING,Gamma Cosmic Brawler & Protector Orb Leaving Soon
 ID_ME_DE_STRIKE_GAMMARAIDS_ENDING,3 Days Left!
 ID_ME_BO_STRIKE_GAMMARAIDS_ENDING,"Commander,\n\nThe Gamma Raid Orb featuring select <color=#fff568>Cosmic Brawler & Protector</color> characters will be leaving soon! Be sure to continue opening your Gamma Raid Orbs to earn character shards before they're gone."
+ID_ME_NA_SPOTLIGHTI_RAID_HYPE,Coming Soon: Spotlight Raid I
+ID_ME_DE_SPOTLIGHTI_RAID_HYPE,Prepare yourself... Spotlight Raid I is almost here!
+ID_ME_BO_SPOTLIGHTI_RAID_HYPE,"Commander,\n\nTime to start getting ready for <color=#fff568>Spotlight Raid I</color>! Power up your best characters in order to tackle this heroic challenge. S.T.R.I.K.E. teams that are able to complete these gruelling nodes will earn next level rewards such as <color=#fff568>Crimson Gear and T4 Ability Materials</color>!"
+ID_ME_NA_RAID_SPOTLIGHTI_LIVE,Live: Spotlight Raid I
+ID_ME_DE_RAID_SPOTLIGHTI_LIVE,Come tackle this new raid to receive <color=#fff568>Crimson Gear and T4 Ability Materials</color> along with other valuable rewards!
+ID_ME_BO_RAID_SPOTLIGHTI_LIVE,"Commander,\n\n <color=#fff568>Spotlight Raid I</color> is here! Battle through this grueling raid of tough and menacing foes to earn valuable rewards such as Crimson Gear and T4 Ability Materials."
 ID_ME_NA_EMMAFROST_MILESTONES_ANNOUNCE,Recurring Milestones
 ID_ME_DE_EMMAFROST_MILESTONES_ANNOUNCE,Recruit Emma Frost!
 ID_ME_BO_EMMAFROST_MILESTONES_ANNOUNCE,"Commander,\n\nBegin earning <color=#fff568>Emma Frost</color> character shards by collecting your <color=#fff568>daily milestones rewards</color>. Fight in battles, and spend Campaign Energy and Gold to earn character shards by hitting milestones!\n\nBe sure to catch Emma Frost while you can, as she'll be leaving the Milestone rewards after about <color=#fff568>4 weeks</color>."
@@ -8977,3 +8983,12 @@ ID_ME_NA_SINSOFTHEFATHER_ANNOUNCE,LIVE: Sins of the Father
 ID_ME_NA_SINSOFTHEFATHER_ENDING,Ending Soon: Sins of the Father
 ID_ME_DE_SINSOFTHEFATHER_ENDING,Don't miss out on Crimson Bio Gear!
 ID_ME_BO_SINSOFTHEFATHER_ENDING,"Commander,\n\nThe <color=#fff568>Sins of the Father Milestone</color> event <color=#fff568>ends soon</color>. Continue making progress to earn <color=#fff568>Crimson Bio Gear, Daken Shards, and Dog Tags</color>! \n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_NEW_CHARACTER_POLL_ANNOUNCE_KAREN2,Character Poll
+ID_ME_DE_NEW_CHARACTER_POLL_ANNOUNCE_KAREN2,Vote Now on the Web!
+ID_ME_BO_NEW_CHARACTER_POLL_ANNOUNCE_KAREN2,"For a limited-time only, visit <color=#fff568>MarvelStrikeForce.com</color> daily to cast your vote for the existing character that you want to join Karen Page's team in an upcoming MARVEL Strike Force release!\n\nTo vote, log into MarvelStrikeForce.com with your Scopely Account and access the New Character Poll from the Home page.\n\nChoose between Morbius or Moon Knight and the character with the most votes will join Karen!\n\nFor each vote, you will also receive valuable rewards!\n\nChoose wisely,Commander."
+ID_ME_NA_NEW_CHARACTER_POLL_REMINDER_KAREN2,Character Poll Still Live!
+ID_ME_DE_NEW_CHARACTER_POLL_REMINDER_KAREN2,Vote Now on the Web!
+ID_ME_BO_NEW_CHARACTER_POLL_REMINDER_KAREN2,"Don't forget to visit <color=#fff568>MarvelStrikeForce.com</color> daily to cast your vote for the existing character that you want to join Karen Page's team in an upcoming MARVEL Strike Force release!\n\nTo vote, log into MarvelStrikeForce.com with your Scopely Account and access the Character Poll from the Home page.\n\nHelp decide if Morbius or Moon Knight will join Karen on the next step of her journey!\n\nFor each vote, you will also receive valuable rewards!\n\nChoose wisely, Commander."
+ID_ME_NA_NEW_CHARACTER_POLL_LASTCHANCE_KAREN2,Last Chance: Character Poll
+ID_ME_DE_NEW_CHARACTER_POLL_LASTCHANCE_KAREN2,Vote Now on the Web!
+ID_ME_BO_NEW_CHARACTER_POLL_LASTCHANCE_KAREN2,"This is your last chance to visit <color=#fff568>MarvelStrikeForce.com</color> and cast your vote for the existing character that you want to join Karen Page's team in an upcoming MARVEL Strike Force release!\n\nTo vote, log into MarvelStrikeForce.com with your Scopely Account and access the Character Poll from the Home page.\n\nHelp decide if Morbius or Moon Knight will join Karen on the next step of her journey!\n\nYou will also receive valuable rewards for your final vote!\n\nChoose wisely, Commander."
