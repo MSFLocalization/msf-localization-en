@@ -8346,7 +8346,7 @@ ID_OF_NA_MEMORIAL24_VOID_KNIGHT_TRAIN_E7,Honor Week: Symbiote Knight
 ID_OF_NA_MEMORIAL24_GWENOM_TRAIN_E7,Honor Week: Gwenom's Workout
 ID_OF_NA_MEMORIAL24_RED_GOBLIN_TRAIN_E7,Honor Week: Cackling Symbiote
 ID_OF_NA_MEMORIAL24_IRONPATRIOT_TRAIN_GOLD,Honor Week: Patriot's Salute
-ID_OF_NA_MEMORIAL24_FORGE_E7,Honor Week: D.A.R.P.A Veteran
+ID_OF_NA_MEMORIAL24_FORGE_E7,Honor Week: D.A.R.P.A. Veteran
 ID_OF_NA_MEMORIAL24_CAPTAINAMERICA_E7,Honor Week: Captain's Pack
 ID_OF_NA_MEMORIAL24_SAM_E7,Honor Week: Veteran Sam
 ID_OF_NA_MEMORIAL24_FORGE_GT19_MINIS,Forge's Crimson Mini Uniques
@@ -8399,12 +8399,12 @@ ID_OF_DE_MEMORIAL24_ABM_E7,Boost the ability and capability of your roster with 
 ID_OF_DE_MEMORIAL24_GOLD_MORB_ABM,Don't miss out on this super combo offer! Only available for a limited time!
 ID_OF_DE_MEMORIAL24_A18_TEALCAT_GOLD,Progress the gear tier of your roster today with this limited time offer!
 ID_OF_DE_MEMORIAL24_DDC,Start promoting your roster with a special limited time offer today!
-ID_OF_DE_MEMORIAL24_DORB_GOLD,Take your roster to higher power levels this limited time offer.
-ID_OF_DE_MEMORIAL24_DDC_DPC,Take your roster to higher power levels this limited time offer.
-ID_OF_DE_MEMORIAL24_GOLD_ABM,Take your roster to higher power levels this limited time offer.
-ID_OF_DE_MEMORIAL24_TRAIN_ISO,Take your roster to higher power levels this limited time offer.
+ID_OF_DE_MEMORIAL24_DORB_GOLD,Take your roster to higher power levels with this limited time offer.
+ID_OF_DE_MEMORIAL24_DDC_DPC,Take your roster to higher power levels with this limited time offer.
+ID_OF_DE_MEMORIAL24_GOLD_ABM,Take your roster to higher power levels with this limited time offer.
+ID_OF_DE_MEMORIAL24_TRAIN_ISO,Take your roster to higher power levels with this limited time offer.
 ID_OF_DE_MEMORIAL24_DORB_DDORB_DPC_TYSTREAK2_TY,Thank you for your support! Please enjoy this ultimate value special offer!
-ID_OF_DE_MEMORIAL24_DDORB_DPC_STREAK1,Take your roster to higher power levels this limited time offer.
+ID_OF_DE_MEMORIAL24_DDORB_DPC_STREAK1,Take your roster to higher power levels with this limited time offer.
 ID_OF_DE_MEMORIAL24_MORB_PREMORB_TYSTREAK2_TY,Thank you for your support! Please enjoy this ultimate value special offer!
 ID_OF_DE_MEMORIAL24_MORB_PREMORB_STREAK1,Open orbs for a chance at the most recent characters with this limited time high value offer!
 ID_OF_DE_MEMORIAL24_TRAIN_GOLD_HC_CE_TYSTREAK2_TY,Thank you for your support! Please enjoy this ultimate value special offer!
@@ -8413,3 +8413,71 @@ ID_OF_DE_MEMORIAL24_GOLD_E7_TYSTREAK2,Thank you for your support! Please enjoy t
 ID_OF_DE_MEMORIAL24_GOLD_STREAK1,Add more Gold to your reserves from this limited time high value offer!
 ID_OF_DE_MEMORIAL24_ISO_GOLD_STREAK2_TY,Thank you for your support! Please enjoy this ultimate value special offer!
 ID_OF_DE_MEMORIAL24_ISO_GOLD_STREAK1,Boost your reserves of the items you need from this limited time high value offer!
+ID_OF_NA_NORTHSTAR_FCO_OFFER,True North Speedster
+ID_OF_DE_NORTHSTAR_FCO_OFFER,Each <color=#fff568>Proud Canuck Orb</color> contains <color=#fff568>up to 180 Northstar</color> shards. Take Flight! <color=#fff568>Northstar</color> zooms in to deliver blinding barrages to foes!
+ID_OF_DE_NORTHSTAR_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Northstar</color> and unlock one-time only release offers on your next visit! Take Flight! <color=#fff568>Northstar</color> zooms in to deliver blinding barrages to foes!
+ID_OF_DE_NORTHSTAR_OFFER_SHARD,Power up <color=#fff568>Northstar</color> with this shard offer! Take Flight! <color=#fff568>Northstar</color> zooms in to deliver blinding barrages to foes!
+ID_OF_DE_NORTHSTAR_UNLOCK_OFFER,Unlock <color=#fff568>Northstar</color> now! Take Flight! <color=#fff568>Northstar</color> zooms in to deliver blinding barrages to foes!
+ID_OF_STOREBAR_NORTHSTAR,Dual Offer: Northstar
+ID_OF_NA_DUAL_NORTHSTAR,Dual Offer: Northstar
+ID_OF_DE_DUAL_NORTHSTAR,Choose your path to power up this <color=#fff568>Alpha Flight</color> member!
+ID_OF_DE_DUAL_UNLOCK_NORTHSTAR,Unlock this <color=#fff568>Alpha Flight</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_NORTHSTAR_FCO_OFFER_BASIC,Northstar Release Offer
+ID_OF_NA_NORTHSTAR_WEB_EXTRA_FCO_OFFER,Northstar Unlock Offer
+ID_OF_DE_NORTHSTAR_WEB_EXTRA_FCO_OFFER,"The True North Speedster, <color=#fff568>Northstar</color>, has arrived!"
+ID_OF_NA_NORTHSTAR_WEB_SPECIAL_OFFER,True North Speedster Special
+ID_OF_DE_NORTHSTAR_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color>Take Flight! <color=#fff568>Northstar</color> zooms in to deliver blinding barrages to foes!
+ID_OF_NA_MONTHLYSPECIAL_PENIPARKER,June Special: Peni Parker
+ID_OF_NA_MONTHLYSPECIAL_SPIDERSOCIETY,June Special: Spider-Society
+ID_OF_DE_MONTHLYSPECIAL_SPIDERSOCIETY,New challenges are on the way so pick up these new heroes from Spider-Society with this limited time offer!
+ID_OF_NA_HOMEWARDBOUND_STARTER_MEGA,Rising Sun
+ID_OF_NA_HOMEWARDBOUND_STARTER_SUPER,Early Riser
+ID_OF_NA_HOMEWARDBOUND_STARTER,One Step At A Time
+ID_OF_NA_HOMEWARDBOUND_BOOSTER_ANCHOR,Daily Hike
+ID_OF_NA_HOMEWARDBOUND_MEGA,Bittersweet Discovery
+ID_OF_NA_HOMEWARDBOUND_LEGACY,Secrets of the Past
+ID_OF_NA_HOMEWARDBOUND_PATRIOT,Avenging Patriot
+ID_OF_NA_HOMEWARDBOUND_STARBRAND,Primordial Progress
+ID_OF_NA_HOMEWARDBOUND_CATS,Event Catalysts
+ID_OF_NA_HOMEWARDBOUND_TRAINING,Measuring Up
+ID_OF_NA_HOMEWARDBOUND_GOLD,Unexpected Inheritance
+ID_OF_NA_HOMEWARDBOUNDE_DPC,Inheritor Of Earth
+ID_OF_NA_HOMEWARDBOUND_AB,Homeward Bound: Special Bundle
+ID_OF_NA_HOMEWARDBOUND_CATCHUP_MEGA,Homeward Bound: Mega Catch-Up
+ID_OF_NA_HOMEWARDBOUND_CATCHUP_SUPER,Homeward Bound: Super Catch-Up
+ID_OF_NA_HOMEWARDBOUND_CATCHUP_LAST_CHANCE,End Of The Road
+ID_OF_NA_HOMEWARDBOUND_FREEDAILY,Homeward Bound: Free Claim
+ID_OF_DE_HOMEWARDBOUND_STARTER_MEGA,"Stock up on <color=#fff568>Homeward Bound</color> progress and exclusive items, and get ahead on the Homeward Bound Leaderboard for <color=#fff568>up to 6 Diamond Orbs</color> and <color=#fff568>up to 2 Diamond Champions Orbs</color>!"
+ID_OF_DE_HOMEWARDBOUND_STARTER_SUPER,Get ahead in the <color=#fff568>Homeward Bound</color> milestone and fast-forward your way to the <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>fully crafted Gear Tier 18 gear</color>!
+ID_OF_DE_HOMEWARDBOUND_STARTER,Start off strong in the <color=#fff568>Homeward Bound</color> milestone!
+ID_OF_DE_HOMEWARDBOUND_BOOSTER_ANCHOR,Make consistent <color=#fff568>Homeward Bound</color> progress with this daily <color=#fff568>Dog Tag</color> supply!
+ID_OF_DE_HOMEWARDBOUND_MEGA,Stock up on <color=#fff568>Homeward Bound event progress</color> and <color=#fff568>Mega Orbs</color> with this special deal!
+ID_OF_DE_HOMEWARDBOUND_LEGACY,Stock up on <color=#fff568>Homeward Bound event progress</color> and <color=#fff568>Legacy Orbs</color> with this special deal!
+ID_OF_DE_HOMEWARDBOUND_PATRIOT,Stock up on <color=#fff568>Homeward Bound event progress</color> and <color=#fff568>Iron Patriot shards</color> with this special deal!
+ID_OF_DE_HOMEWARDBOUND_STARBRAND,Stock up on <color=#fff568>Homeward Bound event progress</color> and <color=#fff568>Starbrand</color> with this special deal!
+ID_OF_DE_HOMEWARDBOUND_CATS,Stock up on <color=#fff568>Homeward Bound event progress</color> and <color=#fff568>Catalyst Parts</color> with this special deal!
+ID_OF_DE_HOMEWARDBOUND_TRAINING,Stock up on <color=#fff568>Homeward Bound event progress</color> and <color=#fff568>Training Modules</color> with this special deal!
+ID_OF_DE_HOMEWARDBOUND_GOLD,Stock up on <color=#fff568>Homeward Bound event progress</color> and <color=#fff568>Gold</color> with this special deal!
+ID_OF_DE_HOMEWARDBOUNDE_DPC,Stock up on <color=#fff568>Homeward Bound event progress</color> and <color=#fff568>Dark Promotion Credits</color> with this special deal!
+ID_OF_DE_HOMEWARDBOUND_AB,Stock up on <color=#fff568>Homeward Bound event progress</color> and <color=#fff568>Ability Materials</color> with this special deal!
+ID_OF_DE_HOMEWARDBOUND_CATCHUP_MEGA,"Finish strong in the Homeward Bound milestones and leaderboards for <color=#fff568>T2 Level 5 Ions</color>, <color=#fff568>fully crafted Gear Tier 18 gear</color> and <color=#fff568>up to 6 Diamond Orbs</color>!"
+ID_OF_DE_HOMEWARDBOUND_CATCHUP_SUPER,Finish strong in the Homeward Bound milestones for <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>fully crafted Gear Tier 18 gear</color>!
+ID_OF_DE_HOMEWARDBOUND_CATCHUP_LAST_CHANCE,Catch this deal before it's too late to earn your final <color=#fff568>fully crafted Gear Tier 18 gear</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_HOMEWARDBOUND_FREEDAILY,Come back daily for more <color=#fff568>Homeward Bound</color> progress!
+ID_OF_NA_SINSOFTHEFATHER_STARTER,Sins of the Father: Starter
+ID_OF_NA_SINSOFTHEFATHER_CATCHUP,Sins of the Father: Catch-up
+ID_OF_NA_SINSOFTHEFATHER_DAILY_ORB,Sins of the Father: Daily Orb
+ID_OF_NA_SINSOFTHEFATHER_WEB_SPECIAL,Sins of the Father: Web Special
+ID_OF_NA_SINSOFTHEFATHER_SPIDERSOC,Sins of the Father: Spider Society
+ID_OF_NA_SINSOFTHEFATHER_DAILY_POINTS,Sins of the Father: Daily Energy
+ID_OF_NA_SINSOFTHEFATHER_DAILY_ENERGY,Sins of the Father: Hidden Trove
+ID_OF_NA_SINSOFTHEFATHER_W1_INCURSION_ENERGY,In His Shadow: Daily Incursion Energy
+ID_OF_NA_SINSOFTHEFATHER_DAILY_INTERSTITIAL,Sins of the Father: Free Claim
+ID_OF_DE_SINSOFTHEFATHER_STARTER,Get ahead in the <color=#fff568>Sins of the Father</color> Milestone and retrace your steps to <color=#fff568>Dark Diamond Credit</color> and <color=#fff568>Crimson Bio Gear</color>!
+ID_OF_DE_SINSOFTHEFATHER_CATCHUP,Finish strong in the <color=#fff568>Sins of the Father</color> Milestone to earn <color=#fff568>Dark Diamond Credit</color> and <color=#fff568>Crimson Bio Gear</color>!
+ID_OF_DE_SINSOFTHEFATHER_DAILY_ORB,Earn top Raid character shards and make progress in the Sins of the Father milestone by collecting more <color=#fff568>Raid Champion Orbs</color>!
+ID_OF_DE_SINSOFTHEFATHER_WEB_SPECIAL,"Claim this mega deal to get ahead in the <color=#fff568>Sins of the Father</color> Milestone and Leaderboard, and fast-forward your way to <color=#fff568>Dark Diamond Credit</color> and <color=#fff568>Crimson Bio Gear</color>!"
+ID_OF_DE_SINSOFTHEFATHER_DAILY_POINTS,Get your daily energy fix to get ahead in the <color=#fff568>Sins of the Father</color> Milestone!
+ID_OF_DE_SINSOFTHEFATHER_DAILY_ENERGY,Get boosted <color=#fff568>Sins of the Father</color> progress with this daily trove of resources!
+ID_OF_DE_SINSOFTHEFATHER_W1_INCURSION_ENERGY,Get your daily Incursion Energy fix to progress in the <color=#fff568>In HIs Shadow</color> Milestone!
+ID_OF_DE_SINSOFTHEFATHER_DAILY_INTERSTITIAL,Come back daily for more <color=#fff568>Sins of the Father</color> progress!

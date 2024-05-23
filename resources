@@ -366,20 +366,6 @@ ID_EVTA_META_MAY_E_NAME,Red in Tooth and Claw Milestone Points
 ID_EVTA_META_MAY_E_DESCRIPTION,These points earn you additional progress in the Red in Tooth and Claw Milestone. Earn them in the Adamantium Power Web Milestone and Special Offers!
 ID_EVTA_META_MAY_F_NAME,Black White and Red All Over Milestone Points
 ID_EVTA_META_MAY_F_DESCRIPTION,These points earn you additional progress in the Black White and Red All Over Milestone. Earn them in the Sinister Strike Web Milestone and special Offers!
-ID_EVTA_META_JUN_A_NAME,Rock Concert Ticket
-ID_EVTA_META_JUN_A_DESCRIPTION,Collect Rock Concert Tickets for points in the Korg's Intergalactic Tour Event. Earn them in various events throughout the month of June
-ID_EVTA_META_JUN_B_NAME,Stone Cold Drink Koozie
-ID_EVTA_META_JUN_B_DESCRIPTION,Collect the Stone Cold Drink Koozie for points in the Korg's Intergalactic Tour Event. Earn it in the Stone Cold Spiders Event!
-ID_EVTA_META_JUN_C_NAME,Ghost Stompers
-ID_EVTA_META_JUN_C_DESCRIPTION,Collect the Ghost Stompers for points in the Korg's Intergalactic Tour Event. Earn it in the Ruff Riffs Event!
-ID_EVTA_META_JUN_D_NAME,Ninny Nonny Tribute
-ID_EVTA_META_JUN_D_DESCRIPTION,Collect the Ninny Nonny Tribute for points in the Korg's Intergalactic Tour Event. Earn them in the Family Bedrock Event!
-ID_EVTA_META_JUN_E_NAME,Sakaaran Laser Rifle
-ID_EVTA_META_JUN_E_DESCRIPTION,Collect Sakaaran Laser Rifle for points in the Korg's Intergalactic Tour Event. Earn it in the Outlaw Encore Event!
-ID_EVTA_META_JUN_F_NAME,Merch Box
-ID_EVTA_META_JUN_F_DESCRIPTION,Collect Merch Box for points in the Korg's Intergalactic Tour Event. Earn it in the Intergalactic Merch Booth Event!
-ID_EVTA_META_JUN_G_NAME,Goat Boat Van
-ID_EVTA_META_JUN_G_DESCRIPTION,Collect Goat Boat Van for points in the Korg's Intergalactic Tour Event. Earn it in the Thunderous Applause Event!
 ID_RES_NA_STANDPROUDTOGETHER,"Stand Proud, Together Milestone Point"
 ID_RES_DE_STANDPROUDTOGETHER,"These points earn you additional progress in the Stand Proud, Together Milestone. Earn them in Daily Free Claims on our website and/or limited offers!"
 ID_RES_NA_WEREINTHISTOGETHER,We're In This Together Premium Milestone
@@ -498,3 +484,15 @@ ID_EVTA_META_APR_K_NAME,Rise of the Planet Milestone Points
 ID_EVTA_META_APR_K_DESCRIPTION,These points earn you additional progress in the Rise of the Planet Milestone. Earn them in limited offers and in the Peace and Love Web Milestone!
 ID_EVTA_META_MAY_G_NAME,Mystic Mercenary Milestone Points
 ID_EVTA_META_MAY_G_DESCRIPTION,These points earn you additional progress in the Mystic Mercenary Milestone. Earn them in the Running Rampant Web Milestone and Special Offers!
+ID_EVTA_META_JUN_N_NAME,Sins of the Father Milestone Point
+ID_EVTA_META_JUN_N_DESCRIPTION,These points earn you additional progress in the Sins of the Father Milestone. Earn them in limited time offers and the In His Shadow Milestone!
+ID_EVTA_META_JUN_A_NAME,Dog Tags
+ID_EVTA_META_JUN_A_DESCRIPTION,Collect Dog Tagses for points in the Homeward Bound Event. Earn them in various events throughout the month of June
+ID_EVTA_META_JUN_B_NAME,Weapon X Helmet
+ID_EVTA_META_JUN_B_DESCRIPTION,Collect the Weapon X Helmet for points in the Homeward Bound Event. Earn it in the Sins of the Father Event!
+ID_EVTA_META_JUN_C_NAME,Cracked Picture Frame
+ID_EVTA_META_JUN_C_DESCRIPTION,Collect the Cracked Picture Frame for points in the Homeward Bound Event. Earn it in the The Great White North Event!
+ID_EVTA_META_JUN_D_NAME,Empty Root Beer
+ID_EVTA_META_JUN_D_DESCRIPTION,Collect the Empty Root Beer for points in the Homeward Bound Event. Earn it in the Guiding Light Event!
+ID_EVTA_META_JUN_E_NAME,Pickup Truck Keys
+ID_EVTA_META_JUN_E_DESCRIPTION,Collect the Pickup Truck Keys for points in the Homeward Bound Event. Earn it in the On Guard for Thee Event!

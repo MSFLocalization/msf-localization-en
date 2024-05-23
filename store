@@ -9037,3 +9037,19 @@ ID_GACHA_CRATE_BAMBOO_TOKEN_NAME,Bamboo Orb Fragment
 ID_GACHA_CRATE_BAMBOO_TOKEN_DESCRIPTION,Open Bamboo Orbs to earn shards for Pandapool and progress in the Black White and Red All Over milestone
 ID_GACHA_CRATE_DMNDDRAFT_BLACKKNIGHT_NAME,Black Knight Diamond Draft
 ID_GACHA_CRATE_DMNDDRAFT_BLACKKNIGHT_DESCRIPTION,Get guaranteed diamond(s) of Black Knight
+ID_GACHA_CRATE_FCO_NORTHSTAR_SPECIAL_NAME,Proud Canuck Orb
+ID_GACHA_CRATE_FCO_NORTHSTAR_SPECIAL_DESCRIPTION,Earn up to 180 Northstar shards
+ID_GACHA_CRATE_FCO_NORTHSTAR_SPECIAL_TOKEN_NAME,Proud Canuck Orb Fragments
+ID_GACHA_CRATE_FCO_NORTHSTAR_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Proud Canuck Orbs that contain up to 180 Northstar shards.
+ID_GACHA_CRATE_FCO_GUARDIAN_SPECIAL_NAME,Alpha Leader Orb
+ID_GACHA_CRATE_FCO_GUARDIAN_SPECIAL_DESCRIPTION,Earn up to 180 Guardian shards
+ID_GACHA_CRATE_FCO_GUARDIAN_SPECIAL_TOKEN_NAME,Alpha Leader Orb Fragments
+ID_GACHA_CRATE_FCO_GUARDIAN_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Alpha Leader Orbs that contain up to 180 Guardian shards.
+ID_GACHA_CRATE_FCO_SASQUATCH_SPECIAL_NAME,Spirit of the North Orb
+ID_GACHA_CRATE_FCO_SASQUATCH_SPECIAL_DESCRIPTION,Earn up to 180 Sasquatch shards
+ID_GACHA_CRATE_FCO_SASQUATCH_SPECIAL_TOKEN_NAME,Spirit of the North Orb Fragments
+ID_GACHA_CRATE_FCO_SASQUATCH_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Spirit of the North Orbs that contain up to 180 Sasquatch shards.
+ID_GACHA_CRATE_RAIDCHAMPIONS_NAME,Raid Champions Orb
+ID_GACHA_CRATE_RAIDCHAMPIONS_DESCRIPTION,Earn shards for top Raid characters!
+ID_GACHA_CRATE_RAIDCHAMPIONS_TOKEN_NAME,Raid Champions Orb Fragments
+ID_GACHA_CRATE_RAIDCHAMPIONS_TOKEN_DESCRIPTION,"Collect Raid Champions Orb Fragments from In His Shadow Rewards, Daily Web Free Claims, and select offers. Earn shards for top Raid characters!"
