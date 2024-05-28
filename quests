@@ -4473,11 +4473,11 @@ ID_QU_LM_HOMEWARDBOUND,Participate in various events throughout the month of Jun
 ID_QU_S1_HOMEWARDBOUND,Collect 1 Dog Tags
 ID_QU_S2_HOMEWARDBOUND,Collect 1 Weapon X Helmet
 ID_QU_S3_HOMEWARDBOUND,Collect 1 Cracked Picture Frame
-ID_QU_S4_HOMEWARDBOUND,Collect 1 Empty Root Beer
+ID_QU_S4_HOMEWARDBOUND,Collect 1 Empty Root Beer Bottle
 ID_QU_S5_HOMEWARDBOUND,Collect 1 Pickup Truck Keys
 ID_QU_NA_SINSOFTHEFATHER,Sins of the Father
-ID_QU_SD_SINSOFTHEFATHER,"Campaign, Raids, and Raid Champion Orbs"
-ID_QU_LD_SINSOFTHEFATHER,"Spend Campaign Energy, Raid with Spider Societ, and earn Raid Champion Orb Fragments from the In His Shadow Web Milestone.\n\nRewards include: Diamond Orb Fragments, Dark Diamond Credit, Crimson Bio Gear, Daken shards, and more!"
+ID_QU_SD_SINSOFTHEFATHER,"Campaign, Raids, and Raid Champions Orb Fragments"
+ID_QU_LD_SINSOFTHEFATHER,"Spend Campaign Energy, Raid with Spider Society, and earn Raid Champions Orb Fragments from the In His Shadow Web Milestone.\n\nRewards include: Diamond Orb Fragments, Dark Diamond Credit, Crimson Bio Gear, Daken shards, and more!"
 ID_QU_S1_SINSOFTHEFATHER,Spend 1 Campaign Energy
 ID_QU_S2_SINSOFTHEFATHER,Use Spider Society in Raids
 ID_QU_S3_SINSOFTHEFATHER,Use Spider-Man (Pavitr) in Raid at 5 Yellow Stars
@@ -4489,7 +4489,7 @@ ID_QU_S8_SINSOFTHEFATHER,Use Peter B. Parker in Raid at 7 Yellow Stars
 ID_QU_S9_SINSOFTHEFATHER,Use Peni Parker in Raid at 5 Yellow Stars
 ID_QU_S10_SINSOFTHEFATHER,Use Peni Parker in Raid at 6 Yellow Stars
 ID_QU_S11_SINSOFTHEFATHER,Use Peni Parker in Raid at 7 Yellow Stars
-ID_QU_S12_SINSOFTHEFATHER,Earn 1 Raid Champion Orb Fragment
+ID_QU_S12_SINSOFTHEFATHER,Earn 1 Raid Champions Orb Fragment
 ID_QU_NA_INHISSHADOW,In His Shadow
 ID_QU_SD_INHISSHADOW,Play Raids and spend Incursion Energy
 ID_QU_LD_INHISSHADOW,Play Raid battles and spend Incursion Energy to complete this 7-day milestone that rewards Raid Champion Orb Fragments and Sins of the Father progress!

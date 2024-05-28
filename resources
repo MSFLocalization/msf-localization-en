@@ -10,7 +10,7 @@ ID_ISO8-TIER-1-B-CURRENCY_DESCRIPTION,Use T2 Level 4 Ions to fuse T2 Iso-8 Cryst
 ID_ISO8-TIER-1-C-CURRENCY_NAME,T2 Level 5 Ions
 ID_ISO8-TIER-1-C-CURRENCY_DESCRIPTION,Use T2 Level 5 Ions to fuse T2 Iso-8 Crystals from Level 4 to Level 5 or to upgrade Classes from Level 4 to Level 5.
 ID_RES_AVA_ATTACK_ENERGY,War Energy
-ID_RES_AVE_ATTACK_ENERGY,Raid Energy
+ID_RES_AVE_ATTACK_ENERGY,Green Raid Energy
 ID_RES_AVE_ATTACK_ENERGY_EVENT01,Alpha Raid Energy
 ID_RES_AVE_ATTACK_ENERGY_EVENT02,Beta Raid Energy
 ID_RES_AVE_ATTACK_ENERGY_EVENT03,Gamma Raid Energy
@@ -47,7 +47,7 @@ ID_AVE_KEY_EVENT03_DESCRIPTION,Collect keys to launch raids and earn ability mat
 ID_AVE_KEY_EVENT04_NAME,Gambit Raid Key
 ID_AVE_KEY_EVENT04_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_AVE_KEY_PURPLE_NAME,Purple Raid Key
-ID_AVE_KEY_PURPLE_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
+ID_AVE_KEY_PURPLE_DESC,Collect keys to launch raids and earn Ability Materials and Character Shards. Your alliance will earn raid keys each day.
 ID_RES_CAMPAIGN_ENERGY_EVENT01,Experimental Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT02,Wasteland Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT03,Infectious Energy
@@ -192,8 +192,8 @@ ID_CAMPAIGN_PLAYER_ENERGY_ELDER_NAME,Incursion Energy
 ID_CAMPAIGN_PLAYER_ENERGY_ELDER_DESCRIPTION,Used to launch Incursion Campaign missions
 ID_AVE_KEY_HYDRA_NAME,Hydra Key
 ID_AVE_KEY_HYDRA_DESCRIPTION,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
-ID_AVE_KEY_ULTIMUS_NAME,Ultimate Key
-ID_AVE_KEY_ULTIMUS_DESCRIPTION,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
+ID_AVE_KEY_ULTIMUS_NAME,Green Raid Key
+ID_AVE_KEY_ULTIMUS_DESCRIPTION,Collect keys to launch raids and earn Raid Credits and Gear. Your alliance will earn raid keys each day.
 ID_AVE_KEY_THANOS_NAME,Thanos Key
 ID_AVE_KEY_THANOS_DESCRIPTION,Collect Thanos Keys to launch Thanos Raids and earn Infinity Orb Fragments. Your alliance will earn raid keys each day.
 ID_AVE_KEY_DEADPOOL_NAME,Chimichanga
@@ -487,12 +487,12 @@ ID_EVTA_META_MAY_G_DESCRIPTION,These points earn you additional progress in the 
 ID_EVTA_META_JUN_N_NAME,Sins of the Father Milestone Point
 ID_EVTA_META_JUN_N_DESCRIPTION,These points earn you additional progress in the Sins of the Father Milestone. Earn them in limited time offers and the In His Shadow Milestone!
 ID_EVTA_META_JUN_A_NAME,Dog Tags
-ID_EVTA_META_JUN_A_DESCRIPTION,Collect Dog Tagses for points in the Homeward Bound Event. Earn them in various events throughout the month of June
+ID_EVTA_META_JUN_A_DESCRIPTION,Collect Dog Tags for points in the Homeward Bound Event. Earn them in various events throughout the month of June
 ID_EVTA_META_JUN_B_NAME,Weapon X Helmet
 ID_EVTA_META_JUN_B_DESCRIPTION,Collect the Weapon X Helmet for points in the Homeward Bound Event. Earn it in the Sins of the Father Event!
 ID_EVTA_META_JUN_C_NAME,Cracked Picture Frame
 ID_EVTA_META_JUN_C_DESCRIPTION,Collect the Cracked Picture Frame for points in the Homeward Bound Event. Earn it in the The Great White North Event!
-ID_EVTA_META_JUN_D_NAME,Empty Root Beer
-ID_EVTA_META_JUN_D_DESCRIPTION,Collect the Empty Root Beer for points in the Homeward Bound Event. Earn it in the Guiding Light Event!
+ID_EVTA_META_JUN_D_NAME,Empty Root Beer Bottle
+ID_EVTA_META_JUN_D_DESCRIPTION,Collect the Empty Root Beer Bottle for points in the Homeward Bound Event. Earn it in the Guiding Light Event!
 ID_EVTA_META_JUN_E_NAME,Pickup Truck Keys
 ID_EVTA_META_JUN_E_DESCRIPTION,Collect the Pickup Truck Keys for points in the Homeward Bound Event. Earn it in the On Guard for Thee Event!
