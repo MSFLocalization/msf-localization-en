@@ -4441,8 +4441,8 @@ ID_QU_S9_MERCSGOLDRUSH,Blitz with Daken at 4+ Yellow Stars
 ID_QU_S10_MERCSGOLDRUSH,Blitz with Daken at 5+ Yellow Stars
 ID_QU_S11_MERCSGOLDRUSH,Blitz with Daken at 6+ Yellow Stars
 ID_QU_S12_MERCSGOLDRUSH,Blitz with Daken at 7 Yellow Stars
-ID_QU_S13_MERCSGOLDRUSH,Blitz with Old Man Logan (launches May 24) at 4+ Yellow Stars
-ID_QU_S14_MERCSGOLDRUSH,Blitz with Old Man Logan (launches May 24) at 5+ Yellow Stars
+ID_QU_S13_MERCSGOLDRUSH,Blitz with Old Man Logan at 4+ Yellow Stars
+ID_QU_S14_MERCSGOLDRUSH,Blitz with Old Man Logan at 5+ Yellow Stars
 ID_QU_NA_MYSTICMERCENARY,Mystic Mercenary
 ID_QU_SD_MYSTICMERCENARY,Battle in War and Iso-8 Campaign
 ID_QU_LD_MYSTICMERCENARY,"Mystic Mercenary Milestone\nGain progress in this 7-day event by spending Iso-8 Campaign Energy and battling in War with a bonus for using Mercs for Money characters. Earn mystic rewards including Daken shards, Deathpool shards, and Crimson Mystic gear. You'll also earn points towards the month-long M is for Mercs milestone by collecting Mission Supplies and the final Mercenary Contract.\n\nRunning Rampant Web Milestone\nSpend Energy in the Wasteland Road Trip event to get Milestone Points for additional progress in the Mystic Mercenary Milestone. Keep an eye out for Free Claims containing Milestone Points every day!"
@@ -4497,9 +4497,71 @@ ID_QU_S1_INHISSHADOW,Play 1 Raid Battle
 ID_QU_S2_INHISSHADOW,Spend 1 Incursion Energy
 ID_QU_NA_THIRDSTRIKENU,Third S.T.R.I.K.E.
 ID_QU_SD_THIRDSTRIKENU,"Battle in Cosmic Crucible, War, & Arena"
-ID_QU_LD_THIRDSTRIKENU,"Conquer Cosmic Crucible, engage in Alliance War, ascend in Arena, spend Iso-8 Campaign Energy, and use Power Cores to gain progress.\n\nRewards include new characters for your roster, and more!"
+ID_QU_LD_THIRDSTRIKENU,"Conquer Cosmic Crucible, engage in Alliance War, ascend in Arena, and spend Iso-8 Campaign Energy to gain progress.\n\nRewards include new characters for your roster, and more!"
 ID_QU_S1_THIRDSTRIKENU,Battle in Cosmic Crucible
 ID_QU_S2_THIRDSTRIKENU,Battle in War (Alliance Level 20)
 ID_QU_S3_THIRDSTRIKENU,Battle in Arena
 ID_QU_S4_THIRDSTRIKENU,Spend 1 Iso-8 Campaign Energy
 ID_QU_S6_THIRDSTRIKENU,Use 1 Power Core
+ID_QU_NA_GREATWHITENORTH,The Great White North
+ID_QU_SD_GREATWHITENORTH,Earn Crimson Skill Gear!
+ID_QU_LM_GREATWHITENORTH,"The Great White North Milestone\nGain progress in this 7-day event by spending Iso8 Campaign Energy, using the Cabal team in Cosmic Crucible battles, and by spending Power Cores. Earn cool rewards including Crimson Skill Gear, Diamond Orb Fragments, and lots of Gold. You'll also earn points towards the Homeward Bound milestone by collecting Dog Tags and the Cracked Picture Frame.\n\nWInter in June Web Milestone\nEarn Blitz Credits and be rewarded with Dog Tags, Promotion Credits and progress in The Great White North Milestone."
+ID_QU_SM_GREATWHITENORTH,Spend Iso8 Energy and use Cabal in Cosmic Crucible
+ID_QU_SC_GREATWHITENORTH,Collect Anniversary Orbs and Battle in Cosmic Crucible
+ID_QU_S1_GREATWHITENORTH,Spend 1 Iso8 Campaign Energy
+ID_QU_S2_GREATWHITENORTH,Battle with Cabal in Cosmic Crucible
+ID_QU_S3_GREATWHITENORTH,Use Iron Patriot in CC at 5 Yellow Stars
+ID_QU_S4_GREATWHITENORTH,Use Iron Patriot in CC at 6 Yellow Stars
+ID_QU_S5_GREATWHITENORTH,Use Iron Patriot in CC at 7 Yellow Stars
+ID_QU_S6_GREATWHITENORTH,Use The Leader in CC at 5 Yellow Stars
+ID_QU_S7_GREATWHITENORTH,Use The Leader in CC at 6 Yellow Stars
+ID_QU_S8_GREATWHITENORTH,Use The Leader in CC at 7 Yellow Stars
+ID_QU_S9_GREATWHITENORTH,Spend 1 Power Core
+ID_QU_NA_WINTERINJUNE,Winter In June
+ID_QU_SD_WINTERINJUNE,Earn Blitz Credits
+ID_QU_LD_WINTERINJUNE,Earn Blitz Credits to complete this milestone that rewards Promotion Credit and progress in The Great White North milestone!
+ID_QU_S1_WINTERINJUNE,Earn 1 Blitz Credit
+ID_QU_NA_COMINGOUT,Coming Out!
+ID_QU_SD_COMINGOUT,Find the Pride Items
+ID_QU_LD_COMINGOUT,"Coming Out! Milestone\nGain progress in this 3-day scavenger hunt event by locating and collecting two unique items hidden throughout the game. Some items might be connected to missions and events that feature notable LGBTQ+ characters, so its time to test your Marvel Pride knowledge. Earn a variety of rewards including Augmented and Crimson Gear, Ions, LGBTQ+ Character Shards, and the Coming Out Orb. Check back every weekend in June for more. Happy hunting! ."
+ID_QU_S1_COMINGOUT,Find the Red Pride Stone
+ID_QU_S2_COMINGOUT,Find the Yellow Pride Stone
+ID_QU_S3_COMINGOUT,Find the Green Pride Stone
+ID_QU_S4_COMINGOUT,Find the Black Pride Stone
+ID_QU_S5_COMINGOUT,Find the Teal Pride Stone
+ID_QU_S6_COMINGOUT,Find the Blue Pride Stone
+ID_QU_S7_COMINGOUT,Find the Purple Pride Stone
+ID_QU_S8_COMINGOUT,Find the Pink Pride Stone
+ID_QU_NA_WHITEOUT,Whiteout
+ID_QU_SD_WHITEOUT,Play War battles and collect Event Orbs
+ID_QU_LD_WHITEOUT,"Battle in Alliance War and collect Allied Supply V Orb Fragments.\n\nMilestone rewards include Crimson Catalysts, T2 Iso-8 Crystals, T2 L5 Ions and more!"
+ID_QU_S1_WHITEOUT,Play 1 Alliance War battle
+ID_QU_S2_WHITEOUT,Collect 1 Allied Supply V Orb Fragment
+ID_QU_NA_SPLASH_GIRLPOWER,Girl Power
+ID_QU_SD_SPLASH_GIRLPOWER,Use A-Force in Blitz
+ID_QU_LM_SPLASH_GIRLPOWER,Earn points by using A-Force characters in Blitz Battles. Earn more points if your A-Force characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_GIRLPOWER,Use A-Force Characters in Blitz
+ID_QU_S1_SPLASH_GIRLPOWER,Win Blitz with a 3-star or higher A-Force Character
+ID_QU_S2_SPLASH_GIRLPOWER,Win Blitz with a 5-star or higher A-Force Character
+ID_QU_S3_SPLASH_GIRLPOWER,Win Blitz with a 7-star A-Force Character
+ID_QU_NA_SPLASH_DIRTYWORK,Dirty Work
+ID_QU_SD_SPLASH_DIRTYWORK,Use X-Force Characters in Blitz
+ID_QU_LM_SPLASH_DIRTYWORK,Earn points by using X-Force characters in Blitz Battles. Earn more points if your X-Force characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_DIRTYWORK,Use X-Force Characters in Blitz
+ID_QU_S1_SPLASH_DIRTYWORK,Win Blitz with a 3-star or higher X-Force Character
+ID_QU_S2_SPLASH_DIRTYWORK,Win Blitz with a 5-star or higher X-Force Character
+ID_QU_S3_SPLASH_DIRTYWORK,Win Blitz with a 7-star X-Force Character
+ID_QU_NA_SPLASH_GREETYOURANCESTORS,Greet Your Ancestors
+ID_QU_SD_SPLASH_GREETYOURANCESTORS,Use Wakandan Characters in Blitz
+ID_QU_LM_SPLASH_GREETYOURANCESTORS,Earn points by using Wakandan characters in Blitz Battles. Earn more points if your Wakandan characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_GREETYOURANCESTORS,Use Wakandan Characters in Blitz
+ID_QU_S1_SPLASH_GREETYOURANCESTORS,Win Blitz with a 3-star or higher Wakandan Character
+ID_QU_S2_SPLASH_GREETYOURANCESTORS,Win Blitz with a 5-star or higher Wakandan Character
+ID_QU_S3_SPLASH_GREETYOURANCESTORS,Win Blitz with a 7-star Wakandan Character
+ID_QU_NA_SPLASH_FLUID,Fluid
+ID_QU_SD_SPLASH_FLUID,Use Bifrost Characters in Blitz
+ID_QU_LM_SPLASH_FLUID,Earn points by using Bifrost characters in Blitz Battles. Earn more points if your Bifrost characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_FLUID,Use Bifrost Characters in Blitz
+ID_QU_S1_SPLASH_FLUID,Win Blitz with a 3-star or higher Bifrost Character
+ID_QU_S2_SPLASH_FLUID,Win Blitz with a 5-star or higher Bifrost Character
+ID_QU_S3_SPLASH_FLUID,Win Blitz with a 7-star Bifrost Character

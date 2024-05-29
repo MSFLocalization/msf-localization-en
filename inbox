@@ -8994,4 +8994,39 @@ ID_ME_DE_NEW_CHARACTER_POLL_LASTCHANCE_KAREN2,Vote Now on the Web!
 ID_ME_BO_NEW_CHARACTER_POLL_LASTCHANCE_KAREN2,"This is your last chance to visit <color=#fff568>MarvelStrikeForce.com</color> and cast your vote for the existing character that you want to join Karen Page's team in an upcoming MARVEL Strike Force release!\n\nTo vote, log into MarvelStrikeForce.com with your Scopely Account and access the Character Poll from the Home page.\n\nHelp decide if Morbius or Moon Knight will join Karen on the next step of her journey!\n\nYou will also receive valuable rewards for your final vote!\n\nChoose wisely, Commander."
 ID_ME_NA_THIRDSTRIKENU_ANNOUNCE,LIVE: Third S.T.R.I.K.E.
 ID_ME_DE_THIRDSTRIKENU_ANNOUNCE,Earn More Characters!
-ID_ME_BO_THIRDSTRIKENU_ANNOUNCE,"Commander,\n\nThe <color=#fff568>Third S.T.R.I.K.E. Milestone</color> is now available! Earn progress in this special Milestone for new Commanders to unlock even more characters to aid you in the fight against Ultimus.\n\nGain points by conquering Cosmic Crucible, engaging in Alliance War, ascending in Arena, spending Iso-8 Campaign Energy, and using Power Cores.\n\nGood luck, Commander."
+ID_ME_BO_THIRDSTRIKENU_ANNOUNCE,"Commander,\n\nThe <color=#fff568>Third S.T.R.I.K.E. Milestone</color> is now available! Earn progress in this special Milestone for new Commanders to unlock even more characters to aid you in the fight against Ultimus.\n\nGain points by conquering Cosmic Crucible, engaging in Alliance War, ascending in Arena, and spending Iso-8 Campaign Energy.\n\nGood luck, Commander."
+ID_ME_NA_LIVEMAINTENANCEMSG,Upcoming Live Maintenance
+ID_ME_DE_LIVEMAINTENANCEMSG,Some game systems may be affected
+ID_ME_BO_LIVEMAINTENANCEMSG,"We'll be conducting <color=#fff568>live maintenance</color> on our systems this week.\n\nDuring this period you can still play MARVEL Strike Force, but be advised that some game systems may be negatively affected, such as combat and in-game purchases.\n\nPlease reach out to <color=#fff568>Customer Support</color> for any questions or assistance.\n\nThank you for your patience!\n\nMARVEL Strike Force Dev Team"
+ID_ME_NA_GREATWHITENORTH_TEASER,Coming Soon: The Great White North
+ID_ME_DE_GREATWHITENORTH_CORE,Earn Crimson Skill Gear!
+ID_ME_BO_GREATWHITENORTH_CORE,"Commander,\n\n<color=#fff568>The Great White North Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by spending Iso8 Campaign Energy, using the Cabal team in Cosmic Crucible battles, and by spending Power Cores. Earn cool rewards including <color=#fff568>Crimson Skill Gear, Diamond Orb Fragments, and lots of Gold</color>. You'll also earn points towards the Homeward Bound milestone by collecting Dog Tags and the Cracked Picture Frame.\n\n<color=#fff568>WInter in June Web Milestone</color>\nEarn Blitz Credits and be rewarded with Dog Tags, Promotion Credits and progress in The Great White North Milestone.\n\nGood luck, Commander!"
+ID_ME_NA_GREATWHITENORTH_ANNOUNCE,LIVE: The Great White North
+ID_ME_NA_GREATWHITENORTH_ENDING,ENDING: The Great White North
+ID_ME_DE_GREATWHITENORTH_ENDING,Don't miss out on Crimson Skill Gear!
+ID_ME_BO_GREATWHITENORTH_ENDING,"Commander,\n\nThe Great White North Event <color=#fff568>ends soon</color>. Continue making progress to earn Crimson Skill Gear, Diamond Orb Fragments, and Dog Tags! \n\nGood luck, Commander!"
+ID_ME_DE_COMINGOUT_CORE,Earn LGBTQ+ Character Shards and more!
+ID_ME_BO_COMINGOUT_CORE,"Commander,\n\n<color=#fff568>Coming Out! Milestone</color>\nGain progress in this <color=#fff568>3-day</color> scavenger hunt event by locating and collecting two unique items hidden throughout the game. Some items might be connected to missions and events that feature notable LGBTQ+ characters, so its time to test your Marvel Pride knowledge. Earn a variety of rewards including <color=#fff568>Augmented and Crimson Gear, Ions, LGBTQ+ Character Shards, and the Coming Out Orb. Check back every weekend in June for more. Happy hunting! </color>.\n\nGood luck, Commander!"
+ID_ME_NA_COMINGOUT_ANNOUNCE,LIVE: Coming Out!
+ID_ME_NA_COMINGOUT_ENDING,ENDING: Coming Out!
+ID_ME_DE_COMINGOUT_ENDING,Dont miss out on LGBTQ+ Character Shards and more!
+ID_ME_BO_COMINGOUT_ENDING,"Commander,\n\nThe Coming Out! Event <color=#fff568>ends soon</color>. Continue earning LGBTQ+ Character Shards and more!\n\nGood luck, Commander!"
+ID_ME_NA_WHITEOUT_TEASER,Coming Soon: Whiteout
+ID_ME_DE_WHITEOUT_CORE,Earn Crimson Catalysts and Iso-8!
+ID_ME_BO_WHITEOUT_CORE,"Commander,\n\nGet ready for the ultimate Alliance War Event!\n\n<color=#fff568>Whiteout Milestone</color>\nBattle in Alliance War to earn Crimson Catalysts, T2 Iso-8 Crystals, T2 L5 Ions, and Homeward Bound progress.\n\n<color=#fff568>Allied Supply V Orb</color>\nYour favorite alliance event orb has been upgraded! Collect it in special offers for Gold, Training Materials, T2 Level 5 Ion Orb Fragments and more!\n\nGood luck, Commander!"
+ID_ME_NA_WHITEOUT_ANNOUNCE,LIVE: Whiteout
+ID_ME_NA_WHITEOUT_ENDING,Ending Soon: Whiteout
+ID_ME_DE_WHITEOUT_ENDING,Don't miss out on Crimson Catalysts and Iso-8!
+ID_ME_BO_WHITEOUT_ENDING,"Commander,\n\nThe <color=#fff568>Whiteout Milestone</color> event <color=#fff568>ends soon</color>. Continue making progress to earn <color=#fff568>Iso-8 Crystals and Ions!</color>! \n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_SPLASH_GIRLPOWER,LIVE: Girl Power
+ID_ME_DE_SPLASH_GIRLPOWER,Earn Dog Tags and Iso-8!
+ID_ME_BO_SPLASH_GIRLPOWER,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Iso-8</color> and <color=#fff568>Dog Tags</color> for the Homeward Bound!\n\n<color=#fff568>Featured Trait</color>:\nA-Force\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_DIRTYWORK,LIVE: Dirty Work
+ID_ME_DE_SPLASH_DIRTYWORK,Earn Dog Tags and Gear!
+ID_ME_BO_SPLASH_DIRTYWORK,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Gear</color> and <color=#fff568>Dog Tags</color> for the Homeward Bound!\n\n<color=#fff568>Featured Trait</color>:\nX-Force\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_GREETYOURANCESTORS,LIVE: Greet Your Ancestors
+ID_ME_DE_SPLASH_GREETYOURANCESTORS,Earn Dog Tags and Ability Materials!
+ID_ME_BO_SPLASH_GREETYOURANCESTORS,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Ability Materials</color> and <color=#fff568>Dog Tags</color> for the Homeward Bound!\n\n<color=#fff568>Featured Trait</color>:\nWakandan\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_FLUID,LIVE: Fluid
+ID_ME_DE_SPLASH_FLUID,Earn Dog Tags and Orbs!
+ID_ME_BO_SPLASH_FLUID,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Orbs</color> and <color=#fff568>Dog Tags</color> for the Homeward Bound!\n\n<color=#fff568>Featured Trait</color>:\nBifrost\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
