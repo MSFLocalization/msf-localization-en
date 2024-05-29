@@ -242,12 +242,6 @@ ID_EVENT_CUR11_NAME,Allied Engines Milestone Points
 ID_EVENT_CUR11_DESCRIPTION,These points earn you additional progress in the Allied Engines Milestone. Earn them in limited offers!
 ID_EVENT_CUR12_NAME,Allied Supply IV Orb Fragments
 ID_EVENT_CUR12_DESCRIPTION,"Open Allied Supply IV Orbs to get Gold, Training Materials, T2 Level 5 Ion Orb Fragments and more!"
-ID_EVENT_CUR13_NAME,Dark Dimension VII Celebration Tokens
-ID_EVENT_CUR13_DESCRIPTION,"Use these points to select either 100 shards of Void Knight and a 7-red star Void Knight promotion, or 100 shards of Red Goblin and a 7-red star Red Goblin promotion!"
-ID_EVENT_CUR14_NAME,Crucible Champions Orb Fragment
-ID_EVENT_CUR14_DESCRIPTION,"Open Crucible Champions Orbs for Superior Six, New Warriors and Masters of Evil character shards!"
-ID_EVENT_CUR15_NAME,Solar Schematics Milestone Points
-ID_EVENT_CUR15_DESCRIPTION,"These points earn you additional progress in the Solar Schematics Milestone. Earn them in Daily Free Claims on our website, the X-Treme Heat Web Milestone, and special offers!"
 ID_EVENT_CUR16_NAME,Crimson Tombstone
 ID_EVENT_CUR16_DESCRIPTION,"Collect Crimson Tombstones for additional progress in the Slick Outbreak Milestone. Earn them via Viral Orbs from the Unstoppable Undead Event, Daily Free Claims on our website and limited time offers!"
 ID_EVENT_CUR17_NAME,Planetary Orb Fragment
@@ -496,3 +490,29 @@ ID_EVTA_META_JUN_D_NAME,Empty Root Beer Bottle
 ID_EVTA_META_JUN_D_DESCRIPTION,Collect the Empty Root Beer Bottle for points in the Homeward Bound Event. Earn it in the Guiding Light Event!
 ID_EVTA_META_JUN_E_NAME,Pickup Truck Keys
 ID_EVTA_META_JUN_E_DESCRIPTION,Collect the Pickup Truck Keys for points in the Homeward Bound Event. Earn it in the On Guard for Thee Event!
+ID_EVTA_META_JUN_O_NAME,The Great White North Milestone Points
+ID_EVTA_META_JUN_O_DESCRIPTION,These points earn you additional progress in The Great White NOrth Milestone. Earn them in limited time offers and the Winter In June Milestone!
+ID_EVTA_META_JUN_P_NAME,Whiteout Milestone Points
+ID_EVTA_META_JUN_P_DESCRIPTION,These points earn you additional progress in the Whiteout Milestone. Earn them in limited offers!
+ID_EVENT_CUR13_NAME,Allied Supply V Orb Fragments
+ID_EVENT_CUR13_DESCRIPTION,"Open Allied Supply V Orbs to get Gold, Training Materials, T2 Level 5 Ion Orb Fragments and more!"
+ID_EVTA_META_JUN_F_NAME,Red Pride Stone
+ID_EVTA_META_JUN_F_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_G_NAME,Yellow Pride Stone
+ID_EVTA_META_JUN_G_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_H_NAME,Green Pride Stone
+ID_EVTA_META_JUN_H_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_I_NAME,Black Pride Stone
+ID_EVTA_META_JUN_I_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_J_NAME,Teal Pride Stone
+ID_EVTA_META_JUN_J_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_K_NAME,Blue Pride Stone
+ID_EVTA_META_JUN_K_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_L_NAME,Purple Pride Stone
+ID_EVTA_META_JUN_L_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_M_NAME,Pink Pride Stone
+ID_EVTA_META_JUN_M_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVENT_CUR14_NAME,Coming Out Orb Fragments
+ID_EVENT_CUR14_DESCRIPTION,"Earn new LGBTQ+ Character Shards, Gold, and Training Modules!"
+ID_EVENT_CUR15_NAME,Raid Champions Orb Fragment
+ID_EVENT_CUR15_DESCRIPTION,Earn shards for top Raid characters!

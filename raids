@@ -105,32 +105,32 @@ ID_RAIDS_THANOS_RAIDS,Thanos Raids
 ID_RAIDS_THANOS_RAIDS_DESC,Earn Thanos Shards
 ID_RAIDS_THANOS_RAIDS_DETAILS,Work with your alliance to defeat corrupted Thanos to earn Thanos Shards
 ID_RAIDS_ULTIMUS_RAIDS,Ultimus Raids
-ID_RAIDS_ULTIMUS_RAIDS_DESC,Earn Ability Materials
+ID_RAIDS_ULTIMUS_RAIDS_DESC,Earn Gear
 ID_RAIDS_ULTIMUS_RAIDS_DETAILS,Work with your alliance to defeat Ultimus for rare rewards
 ID_RAIDS_DOOM_RAIDS_DETAILS,Compete with your Alliance against the forces of Doom to earn powerful Teal Gear pieces and Tier 2 Iso-8 Crystals
-ID_RAIDS_DOOM_RAIDS_DESC,Earn Ability Materials
+ID_RAIDS_DOOM_RAIDS_DESC,Earn Gear and Iso-8
 ID_RAIDS_DOOMI_RAIDS_DESC,Earn T2 Iso-8
-ID_RAIDS_DOOMI_FS_RAIDS_DESC,Earn Ability Materials
+ID_RAIDS_DOOMI_FS_RAIDS_DESC,Earn Orange Gear
 ID_RAIDS_LEVEL_25_NAME,Ultimus I
-ID_RAIDS_LEVEL_25_DESC,Earn Ability Materials
+ID_RAIDS_LEVEL_25_DESC,Earn Blue Gear
 ID_RAIDS_LEVEL_25_DETAILS,Take down the minions of Ultimus!\n\nRecommendations:\n- Squad Lvl 20-25+\n- Gear Tier 4+\n- Ability Lvl 2+
 ID_RAIDS_LEVEL_30_NAME,Ultimus II
-ID_RAIDS_LEVEL_30_DESC,Earn Ability Materials
+ID_RAIDS_LEVEL_30_DESC,Earn Blue Gear
 ID_RAIDS_LEVEL_30_DETAILS,Take down Ultimus's minions!\n\nRecommendations:\n- Squad Lvl 25-30+\n- Gear Tier 4+\n- Ability Lvl 3+
 ID_RAIDS_LEVEL_35_NAME,Ultimus III
-ID_RAIDS_LEVEL_35_DESC,Earn Ability Materials
+ID_RAIDS_LEVEL_35_DESC,Earn Blue Gear
 ID_RAIDS_LEVEL_35_DETAILS,Fight your way to the Raid Bosses!\n\nRecommendations:\n- Squad Lvl 30-35+\n- Gear Tier 5+\n- Ability Lvl 3+
 ID_RAIDS_LEVEL_40_NAME,Ultimus IV
-ID_RAIDS_LEVEL_40_DESC,Earn Ability Materials
+ID_RAIDS_LEVEL_40_DESC,Earn Purple Gear
 ID_RAIDS_LEVEL_40_DETAILS,Ronan is prepared for you. Push past ambushes to take him down.\n\nRecommendations:\n- Squad Lvl 35-45+\n- Gear Tier 6+\n- Ability Lvl 4+
 ID_RAIDS_LEVEL_50_NAME,Ultimus V
-ID_RAIDS_LEVEL_50_DESC,Earn Ability Materials
+ID_RAIDS_LEVEL_50_DESC,Earn Purple Gear
 ID_RAIDS_LEVEL_50_DETAILS,Take on tougher enemies than in any previous Raid!\n\nRecommendations:\n- Squad Lvl 45-60+\n- Gear Tier 7+\n- Ability Lvl 5+
 ID_RAIDS_LEVEL_65_NAME,Ultimus VI
-ID_RAIDS_LEVEL_65_DESC,Earn Ability Materials
+ID_RAIDS_LEVEL_65_DESC,Earn Purple Gear
 ID_RAIDS_LEVEL_65_DETAILS,Take on tougher enemies than in any previous Raid!\n\nRecommendations:\n- Squad Lvl 65+\n- Gear Tier 10+\n- Ability Lvl 5+
 ID_RAIDS_LEVEL_70_NAME,Ultimus VII
-ID_RAIDS_LEVEL_70_DESC,Earn Ability Materials
+ID_RAIDS_LEVEL_70_DESC,Earn Orange Gear
 ID_RAIDS_LEVEL_70_DETAILS,Take on the toughest enemies yet!\n\nRecommendations:\n- Squad Lvl 75+\n- Gear Tier 12+\n- Ability Lvl 7+\n- Red Stars 4+
 ID_RAIDS_LEVEL_80_DETAILS,Fight your way through the minions of Doom!\n\nRecommendations:\n- Squad Lvl 80+\n- Gear Tier 15+\n- Ability Lvl 7\n- Red Stars 5+\n- Iso-8 Class T1 Level 5+
 ID_RAIDS_LEVEL_85_DETAILS,Fight your way through the minions of Doom!\n\nRecommendations:\n- Squad Lvl 85+\n- Gear Tier 15+\n- Ability Lvl 7\n- Red Stars 5+\n- Iso-8 Class T2 Level 1+
@@ -213,20 +213,20 @@ ID_RAIDS_GEN_02_B_DETAILS,Recommendations:\n- Squad Lvl 50-60+\n- Gear Tier 8+\n
 ID_RAIDS_GEN_02_C_NAME,Beta Raid III
 ID_RAIDS_GEN_02_C_DESC,Earn Character Shards
 ID_RAIDS_GEN_02_C_DETAILS,Recommendations:\n- Squad Lvl 60-65+\n- Gear Tier 10+\n- Ability Lvl 5+
-ID_RAIDS_ALPHA_RAIDS_NAME,Alpha Raid
-ID_RAIDS_ALPHA_RAIDS_DESC,Earn Character Shards
-ID_RAIDS_ALPHA_RAIDS_DETAILS,"Cooperate with your Alliance, take on Raid Missions, and win various rewards!\n\nRaid Keys needed:\nAlpha I: 14,000\nAlpha II: 14,200\nAlpha III: 14,400\nAlpha IV: 14,400"
-ID_RAIDS_ALPHA_A_NAME,Alpha Raid I
-ID_RAIDS_ALPHA_A_DESC,Earn Character Shards
+ID_RAIDS_ALPHA_RAIDS_NAME,Greek Raids
+ID_RAIDS_ALPHA_RAIDS_DESC,Earn Ability Materials
+ID_RAIDS_ALPHA_RAIDS_DETAILS,"Cooperate with your Alliance, take on Raid Missions, and win Ability Materials and Character Shards!"
+ID_RAIDS_ALPHA_A_NAME,Greek I
+ID_RAIDS_ALPHA_A_DESC,Earn T3 Ability Material
 ID_RAIDS_ALPHA_A_DETAILS,Recommendations:\n- Squad Lvl 35-50+\n- Gear Tier 6+\n- Ability Lvl 3+
-ID_RAIDS_ALPHA_B_NAME,Alpha Raid II
-ID_RAIDS_ALPHA_B_DESC,Earn Character Shards
+ID_RAIDS_ALPHA_B_NAME,Greek II
+ID_RAIDS_ALPHA_B_DESC,Earn T3 Ability Material
 ID_RAIDS_ALPHA_B_DETAILS,Recommendations:\n- Squad Lvl 50-60+\n- Gear Tier 8+\n- Ability Lvl 4+
-ID_RAIDS_ALPHA_C_NAME,Alpha Raid III
-ID_RAIDS_ALPHA_C_DESC,Earn Character Shards
+ID_RAIDS_ALPHA_C_NAME,Greek III
+ID_RAIDS_ALPHA_C_DESC,Earn T3 Ability Material
 ID_RAIDS_ALPHA_C_DETAILS,Recommendations:\n- Squad Lvl 60-65+\n- Gear Tier 10+\n- Ability Lvl 5+
-ID_RAIDS_ALPHA_D_NAME,Alpha Raid IV
-ID_RAIDS_ALPHA_D_DESC,Earn Character Shards
+ID_RAIDS_ALPHA_D_NAME,Greek IV
+ID_RAIDS_ALPHA_D_DESC,Earn T4 Ability Material
 ID_RAIDS_ALPHA_D_DETAILS,Recommendations:\n- Squad Lvl 65+\n- Gear Tier 11+\n- Ability Lvl 5+\n- Red Stars 3+
 ID_RAIDS_BETA_RAIDS_NAME,Beta Raid
 ID_RAIDS_BETA_RAIDS_DESC,Earn Character Shards
@@ -373,13 +373,15 @@ ID_RAIDS_INCURSION_DETAILS,Battle interdimensional foes and seek the mastermind 
 ID_RAIDS_INCURSIONMAIN_DETAILS,Battle interdimensional foes and seek the mastermind behind the Incursion!
 ID_RAIDS_INCURSION_COMBAT_MODS_NAME_PLURAL,Combat Mods
 ID_MISSION_RAID_INCURSION_BLANK_DESC,
-ID_RAIDS_INCURSION_01_NAME,Incursion Raid I
+ID_RAIDS_INCURSION_01_NAME,Incursion I
+ID_RAIDS_INCURSION_01_DESC,Earn Teal Gear
 ID_RAIDS_INCURSIONII_DETAILS,Battle interdimensional foes and seek the mastermind behind the Incursion!\n\nRecommendations:\n- Squad Lvl 95+\n- Gear Tier 16+\n- Ability Lvl 7\n- Red Stars 6+\n- Iso-8 Class T2 Level 3+
 ID_RAIDS_INCURSION_02_FS_DETAILS,Battle interdimensional foes and seek the mastermind behind the Incursion!\n\nRecommendations:\n- Squad Lvl 95+\n- Gear Tier 16+\n- Ability Lvl 7\n- Red Stars 6+\n- Iso-8 Class T2 Level 3+
 ID_RAIDS_INCURSION_02_DETAILS,Battle interdimensional foes and earn Crimson Gear!\n\nRecommendations:\n- Squad Lvl 95+\n- Gear Tier 18+\n- Ability Lvl 7\n- Red Stars 6+\n- Iso-8 Class T2 Level 4+
-ID_RAIDS_INCURSION_02_NAME,Incursion Raid II
+ID_RAIDS_INCURSION_02_NAME,Incursion II
 ID_RAIDS_INCURSION_02_DESC,Earn Crimson Gear
-ID_RAIDS_INCURSION_02_FS_NAME,Incursion Raid II - First Strike
+ID_RAIDS_INCURSION_02_FS_NAME,Incursion II - First Strike
+ID_RAIDS_INCURSION_02_FS_DESC,Earn Elite Raid Credits
 ID_RAIDS_NON_FATAL_ERROR,An error occurred
 ID_RAID_AUTO_LAUNCH_EDIT_TIME,EDIT TIME
 ID_RAID_AUTO_LAUNCH_VIEW_TIME,VIEW SCHEDULE
@@ -394,8 +396,8 @@ ID_RAID_AUTO_LAUNCH_OFF,Disabled
 ID_RAID_TIME_DESC,Set Local Auto-Launch Time
 ID_RAID_SCHEDULE_BUTTON_DESC,LAUNCHES DAILY LOCAL TIME
 ID_RAID_AUTO_LAUNCH_EDIT,EDIT
-ID_RAIDS_STANDARD,STANDARD
-ID_RAIDS_GREEK,GREEK
+ID_RAIDS_STANDARD,GREEN RAIDS
+ID_RAIDS_GREEK,PURPLE RAIDS
 ID_RAID_AUTO_LAUNCH_TIME_DESCRIPTION,LAUNCHES DAILY LOCAL TIME
 ID_RAID_AUTO_LAUNCH_CONFIRMATION_HEADLINE,RAIDS AUTO-LAUNCH
 ID_RAID_AUTO_LAUNCH_CONFIRMATION_DESC,Save changes to Auto-Launch Schedule?
