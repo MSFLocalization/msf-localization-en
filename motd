@@ -6,7 +6,7 @@ ID_MOTD_DE_WFH_CARE_PACKAGE,Log in each day to receive special supply drops!
 ID_MOTD_NA_GEAR,Remember to EQUIP GEAR
 ID_MOTD_DE_GEAR,Gear greatly boosts your characters' stats!
 ID_MOTD_NA_RAID,You've unlocked Alliance Raids!
-ID_MOTD_DE_RAID,Participate in raids to earn rare Ability Materials
+ID_MOTD_DE_RAID,Participate in raids to earn more gear
 ID_MOTD_NA_REDSTAR,Red Star Promotions
 ID_MOTD_DE_REDSTAR,Transform your roster into an elite squad with Red Star Promotions!
 ID_MOTD_NA_ISO8,You've unlocked Iso-8!
@@ -3071,3 +3071,8 @@ ID_MOTD_NA_WHITEOUT_ANNOUNCE,LIVE: Whiteout
 ID_MOTD_DE_WHITEOUT_ANNOUNCE,Earn Iso-8 Crystals and Ions!
 ID_MOTD_NA_WHITEOUT_ENDING,Ending Soon: Whiteout
 ID_MOTD_DE_WHITEOUT_ENDING,Earn Iso-8 Crystals and Ions!
+ID_MOTD_NA_GUARDIAN_TEASER,Soon: Guardian
+ID_MOTD_DE_GUARDIAN_TEASER,Charge ahead! Guardian stands fast in the face of the enemy!
+ID_MOTD_NA_GUARDIAN_ANNOUNCE,Guardian is here!
+ID_MOTD_DE_GUARDIAN_ANNOUNCE,Charge ahead! Guardian stands fast in the face of the enemy!
+ID_MOTD_DE_GUARDIAN_ANNOUNCE2,Open the Alpha Leader Orb to earn shards for Weapon Alpha
