@@ -9008,6 +9008,7 @@ ID_ME_NA_GREATWHITENORTH_ANNOUNCE,LIVE: The Great White North
 ID_ME_NA_GREATWHITENORTH_ENDING,ENDING: The Great White North
 ID_ME_DE_GREATWHITENORTH_ENDING,Don't miss out on Crimson Skill Gear!
 ID_ME_BO_GREATWHITENORTH_ENDING,"Commander,\n\nThe Great White North Event <color=#fff568>ends soon</color>. Continue making progress to earn Crimson Skill Gear, Diamond Orb Fragments, and Dog Tags! \n\nGood luck, Commander!"
+ID_ME_NA_COMINGOUT_TEASER,Coming Soon: Coming Out!
 ID_ME_DE_COMINGOUT_CORE,Earn LGBTQ+ Character Shards and more!
 ID_ME_BO_COMINGOUT_CORE,"Commander,\n\n<color=#fff568>Coming Out! Milestone</color>\nGain progress in this <color=#fff568>3-day</color> scavenger hunt event by locating and collecting two unique items hidden throughout the game. Some items might be connected to missions and events that feature notable LGBTQ+ characters, so its time to test your Marvel Pride knowledge. Earn a variety of rewards including <color=#fff568>Augmented and Crimson Gear, Ions, LGBTQ+ Character Shards, and the Coming Out Orb. Check back every weekend in June for more. Happy hunting! </color>.\n\nGood luck, Commander!"
 ID_ME_NA_COMINGOUT_ANNOUNCE,LIVE: Coming Out!
@@ -9045,3 +9046,6 @@ ID_ME_BO_GUARDIAN_RS_ENDING,"Commander,\n\n<color=#fff568>Guardian</color> will 
 ID_ME_NA_GUARDIAN_ORB_ENDING,Alpha Leader Orb
 ID_ME_DE_GUARDIAN_ORB_ENDING,2 days left!
 ID_ME_BO_GUARDIAN_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Alpha Leader Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Guardian</color> for your <color=#fff568>Alpha Flight</color> team in Raids and War Defense!"
+ID_ME_NA_SHININGSTAR_V2_ANNOUNCE,LIVE: Shining Star
+ID_ME_DE_SHININGSTAR_V2_ANNOUNCE,Spend Iso-8 Campaign Energy for glorious rewards!
+ID_ME_BO_SHININGSTAR_V2_ANNOUNCE,"Commander,\n\nCollaborate with your alliance and spend Iso-8 Energy in this 5-day milestone to earn Homeward Bound progress.\n\nGood luck, Commander!"
