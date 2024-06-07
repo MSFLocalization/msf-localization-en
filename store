@@ -9065,3 +9065,7 @@ ID_GACHA_CRATE_ALLIEDSUPPLY5_NAME,Allied Supply V Orb
 ID_GACHA_CRATE_ALLIEDSUPPLY5_DESCRIPTION,Score critical points for your Alliance
 ID_GACHA_CRATE_ALLIEDSUPPLY5_TOKEN_NAME,Allied Supply V Orb Fragments
 ID_GACHA_CRATE_ALLIEDSUPPLY5_TOKEN_DESCRIPTION,"Open Allied Supply V Orbs to get Gold, Training Materials, T2 Level 5 Ion Orb Fragments and more!"
+ID_GACHA_CRATE_RADIANTFLIGHT_NAME,Radiant Flight Orb
+ID_GACHA_CRATE_RADIANTFLIGHT_DESCRIPTION,Earn Northstar shards and event progress!
+ID_GACHA_CRATE_RADIANTFLIGHT_TOKEN_NAME,Radiant Flight Orb Fragment
+ID_GACHA_CRATE_RADIANTFLIGHT_TOKEN_DESCRIPTION,"Open Radiant Flight Orbs to earn shards for Northstar, Spider Society characters, progress in the Guiding Light Milestone and more!"
