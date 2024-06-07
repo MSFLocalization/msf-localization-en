@@ -4565,3 +4565,22 @@ ID_QU_SC_SPLASH_FLUID,Use Bifrost Characters in Blitz
 ID_QU_S1_SPLASH_FLUID,Win Blitz with a 3-star or higher Bifrost Character
 ID_QU_S2_SPLASH_FLUID,Win Blitz with a 5-star or higher Bifrost Character
 ID_QU_S3_SPLASH_FLUID,Win Blitz with a 7-star Bifrost Character
+ID_QU_NA_GUIDINGLIGHT,Guiding Light
+ID_QU_DE_GUIDINGLIGHT,Unlock Northstar!
+ID_QU_LD_GUIDINGLIGHT,"Guiding Light Milestone\nGain progress in this 7-day event by earning Radiant Flight Orb Fragments from Campaign nodes, battling in War, battling in Blitz with Alpha Flight characters, completing the Wayfinder Web Milestone, and from Daily Free Claims.\n\nEarn celestial rewards including Northstar shards, Dark Diamond Credits and Crimson Mutant gear. You'll also earn points towards the month-long Homeward Bound milestone by collecting Dog Tags and the Empty Root Beer.\n\nGuiding Light Leaderboard\nCompete on the Leaderboards for Crimson Gear and Diamond Promotions for Northstar!\n\nWayfinder Web Milestone\nEarn Alliance Credits to earn Radiant Flight Orb Fragments and progress in the Guiding Light Milestone."
+ID_QU_SD_GUIDINGLIGHT,"Earn Orbs in Campaigns, battle in War"
+ID_QU_S1_GUIDINGLIGHT,"Earn 1 Radiant Flight Orb Fragment from Campaigns, Free Claims and special Offers"
+ID_QU_S2_GUIDINGLIGHT,Play 1 War Battle
+ID_QU_S3_GUIDINGLIGHT,Earn 1 Guiding Light Milestone Point from the Wayfinder Web Milestone and special Offers
+ID_QU_S4_GUIDINGLIGHT,Battle in Blitz with Northstar
+ID_QU_S5_GUIDINGLIGHT,Battle in Blitz with Northstar at 5 Yellow Stars
+ID_QU_S6_GUIDINGLIGHT,Battle in Blitz with Northstar at 6 Yellow Stars
+ID_QU_S7_GUIDINGLIGHT,Battle in Blitz with Northstar at 7 Yellow Stars
+ID_QU_S8_GUIDINGLIGHT,Battle in Blitz with Guardian
+ID_QU_S9_GUIDINGLIGHT,Battle in Blitz with Guardian at 5 Yellow Stars
+ID_QU_S10_GUIDINGLIGHT,Battle in Blitz with Guardian at 6 Yellow Stars
+ID_QU_S11_GUIDINGLIGHT,Battle in Blitz with Guardian at 7 Yellow Stars
+ID_QU_S12_GUIDINGLIGHT,Battle in Blitz with Sasquatch
+ID_QU_S13_GUIDINGLIGHT,Battle in Blitz with Sasquatch at 5 Yellow Stars
+ID_QU_S14_GUIDINGLIGHT,Battle in Blitz with Sasquatch at 6 Yellow Stars
+ID_QU_S15_GUIDINGLIGHT,Battle in Blitz with Sasquatch at 7 Yellow Stars
