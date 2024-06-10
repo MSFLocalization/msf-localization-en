@@ -4584,3 +4584,12 @@ ID_QU_S12_GUIDINGLIGHT,Battle in Blitz with Sasquatch
 ID_QU_S13_GUIDINGLIGHT,Battle in Blitz with Sasquatch at 5 Yellow Stars
 ID_QU_S14_GUIDINGLIGHT,Battle in Blitz with Sasquatch at 6 Yellow Stars
 ID_QU_S15_GUIDINGLIGHT,Battle in Blitz with Sasquatch at 7 Yellow Stars
+ID_QU_NA_WAYFINDER,Wayfinder
+ID_QU_SD_WAYFINDER,Earn Alliance Credits
+ID_QU_LD_WAYFINDER,"Earn Alliance Credits and get rewarded with Radiant Flight Orb Fragments, Augmented Catalysts, and Guiding Light milestone progress."
+ID_QU_S1_WAYFINDER,Earn 1 Alliance Credit
+ID_QU_NA_TAKEFLIGHT,Take Flight
+ID_QU_SD_TAKEFLIGHT,Earn Alpha Flight Shards
+ID_QU_LD_TAKEFLIGHT,"Gain progress in this 22-day event by opening Alpha Flight Orbs or by collecting Take Flight Milestone Points found in special offers.\n\nRewards include Northstar, Guardian, and Sasquatch shards, Crimson Gear Raid Orbs, and Diamond upgrades for Wolverine and Sunfire.\n\nAlpha Flight Orb\nEach orb contains character shards Northstar, Guardian, and Sasquatch!"
+ID_QU_S1_TAKEFLIGHT,Open 1 Alpha Flight Orb
+ID_QU_S2_TAKEFLIGHT,Earn Milestone Points from Special Offers

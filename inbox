@@ -9059,7 +9059,7 @@ ID_ME_DE_SASQUATCH_RS_ENDING,Featuring Ends Soon!
 ID_ME_BO_SASQUATCH_RS_ENDING,"Commander,\n\n<color=#fff568>Sasquatch</color> will only be featured in all Red Star Orbs for 2 more days!\n\nHurry and open Red Star Orbs while the drop rate is still increased."
 ID_ME_NA_SASQUATCH_ORB_ENDING,Spirit of the North Orb
 ID_ME_DE_SASQUATCH_ORB_ENDING,2 days left!
-ID_ME_BO_SASQUATCH_ORB_ENDING,"Commander,\n\nThe <color=#fff568>ASpirit of the North Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Sasquatch</color> for your <color=#fff568>Alpha Flight</color> team in Raids and War Defense!"
+ID_ME_BO_SASQUATCH_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Spirit of the North Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Sasquatch</color> for your <color=#fff568>Alpha Flight</color> team in Raids and War Defense!"
 ID_ME_NA_GUIDINGLIGHT_TEASER,Coming Soon: Guiding Light
 ID_ME_DE_GUIDINGLIGHT_CORE,Unlock Northstar!
 ID_ME_BO_GUIDINGLIGHT_CORE,"Commander,\n\nUnlock Northstar and earn Crimson Gear in this exciting event!\n\n<color=#fff568>Guiding Light Milestone</color>\nGain progress in this 7-day event by earning Radiant Flight Orb Fragments from Campaign nodes, battling in War, battling in Blitz with Alpha Flight characters, completing the Wayfinder Web Milestone, and from Daily Free Claims.\n\nEarn celestial rewards including <color=#fff568>Northstar shards, Dark Diamond Credits and Crimson Mutant gear</color>. You'll also earn points towards the month-long Homeward Bound milestone by collecting Dog Tags and the Empty Root Beer.\n\n<color=#fff568>Guiding Light Leaderboard</color>\nCompete on the Leaderboards for <color=#f12603>Crimson Gear</color> and <color=#f12603>Northstar Diamond Promotions</color>!\n\n<color=#fff568>Wayfinder Web Milestone</color>\nEarn Alliance Credits to earn Radiant Flight Orb Fragments and progress in the Guiding Light Milestone.\n\nGood luck, Commander!"
@@ -9067,3 +9067,16 @@ ID_ME_NA_GUIDINGLIGHT_ANNOUNCE,LIVE: Guiding Light
 ID_ME_NA_GUIDINGLIGHT_ENDING,ENDING: Guiding Light
 ID_ME_DE_GUIDINGLIGHT_ENDING,Don't miss out on unlocking Northstar!
 ID_ME_BO_GUIDINGLIGHT_ENDING,"Commander,\n\nGuiding Light <color=#fff568>ends soon</color>. Continue earning Northstar Shards and Crimson Mutant Gear!\n\nGood luck, Commander!"
+ID_ME_NA_BATTLEPASS_SEASON23_ANNOUNCE,Battle Pass: Season 23
+ID_ME_DE_BATTLEPASS_SEASON23_ANNOUNCE,"Earn Peni Parker, Spider-Man (Pavitr) shards & Dark Promotion Credits!"
+ID_ME_BO_BATTLEPASS_SEASON23_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle Pass: Season 23 is LIVE</color>!\n\nComplete this Season's Daily and Weekly Objectives to win these <color=#fff568>Featured Prizes</color>:\n- Peni Parker shards\n- Spider-Man (Pavitr) shards\n- Dark Promotion Credits\n\nUpgrade to the <color=#fff568>Premium Pass</color> to earn even more rewards.\n\nCharge into Battle Pass: Season 23 today!"
+ID_ME_NA_BATTLEPASS_SEASON23_ENDING,Season 23 Ending Soon
+ID_ME_DE_BATTLEPASS_SEASON23_ENDING,Battle Pass: 2 more days!
+ID_ME_BO_BATTLEPASS_SEASON23_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Peni Parker shards, Spider-Man (Pavitr) shards and Dark Promotion Credits before the Season ends!"
+ID_ME_NA_TAKEFLIGHT_TEASER,Coming Soon: Take Flight
+ID_ME_DE_TAKEFLIGHT_CORE,Earn Alpha Flight Shards
+ID_ME_BO_TAKEFLIGHT_CORE,"Gain progress in this 22-day event by opening Alpha Flight Orbs or by collecting Take Flight Milestone Points found in special offers.\n\nRewards include Northstar, Guardian, and Sasquatch shards, Crimson Gear Raid Orbs, and Diamond upgrades for Wolverine and Sunfire.\n\nAlpha Flight Orb\nEach orb contains character shards Northstar, Guardian, and Sasquatch!"
+ID_ME_NA_TAKEFLIGHT_ANNOUNCE,Live: Take Flight
+ID_ME_NA_TAKEFLIGHT_ENDING,Ending Soon: Take Flight
+ID_ME_DE_TAKEFLIGHT_ENDING,Don't miss out on bonus Alpha Flight Shards!
+ID_ME_BO_TAKEFLIGHT_ENDING,"Commander,\n\nThe <color=#fff568>Take Flight Milestone</color> event <color=#fff568>ends soon</color>. Continue making progress to earn <color=#fff568>Alpha Flight shards, Crimson Gear, and Diamond Upgrades for Wolverine and Sunfire</color>! \n\nDon't miss out on this opportunity, Commander!"
