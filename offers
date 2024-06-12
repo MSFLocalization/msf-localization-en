@@ -8723,3 +8723,54 @@ ID_OF_NA_TAKEFLIGHT_EVENTORB_MEGA,Take Flight: Alpha Flight Orb Special
 ID_OF_NA_TAKEFLIGHT_EVENTORB_DAILY,Take Flight: Daily Orb
 ID_OF_DE_TAKEFLIGHT_EVENTORB_MEGA,Stock up on <color=#fff568>Alpha Flight character shards</color> and <color=#fff568>Take Flight</color> milestone progress with this special offer with an <color=#fff568>Alpha Flight Orb Bonus</color>!
 ID_OF_DE_TAKEFLIGHT_EVENTORB_DAILY,"Earn shards for Northstar, Guardian, and Sasquatch, and make progress in the <color=#fff568>Take Flight</color> milestone by collecting more <color=#fff568>Alpha Flight Orbs</color>!"
+ID_OF_NA_FATHERSDAY24_DORB_DDC_GOLD_TY,Father's Day Combo Thank You!
+ID_OF_NA_FATHERSDAY24_DORB_DDC_GOLD,Father's Day Combo Special
+ID_OF_NA_FATHERSDAY24_OML_DAKEN_TEAL_UNIQUES_STREAKA2,Teal Claw Upgrade Thank You!
+ID_OF_NA_FATHERSDAY24_OML_DAKEN_CRIMSON_UNIQUES_STREAKB2,Crimson Claw Upgrade Thank You!
+ID_OF_NA_FATHERSDAY24_OML_DAKEN_TEAL_UNIQUES_DUALA1,Claw Upgrade Dual Offer
+ID_OF_NA_FATHERSDAY24_T1T2_ISO_GOLD_STREAK3,Summers' Eyes Special (3/3)
+ID_OF_NA_FATHERSDAY24_T1T2_ISO_GOLD_STREAK2,Summers' Eyes Special (2/3)
+ID_OF_NA_FATHERSDAY24_T1T2_ISO_GOLD_STREAK1,Summers' Eyes Special (1/3)
+ID_OF_NA_FATHERSDAY24_CRIMSON_CATALAYSTS_STREAK3,Polarizing Family Special (3/3)
+ID_OF_NA_FATHERSDAY24_CRIMSON_CATALAYSTS_STREAK2,Polarizing Family Special (2/3)
+ID_OF_NA_FATHERSDAY24_CRIMSON_CATALAYSTS_STREAK1,Polarizing Family Special (1/3)
+ID_OF_NA_FATHERSDAY24_DAKEN_TRAIN_GOLD_OML_UNIQUES_TY,Spiky Relationship Thank You!
+ID_OF_NA_FATHERSDAY24_DAKEN_TRAIN_GOLD_OML_UNIQUES,Spiky Relationship
+ID_OF_NA_FATHERSDAY24_FATHER'S_DAY_HC_CALENDAR_7D,Father's Day Value Calendar
+ID_OF_NA_FATHERSDAY24_E7_DPC_GOLD_STREAK3_,Poolside Barbeque (3/3)
+ID_OF_NA_FATHERSDAY24_E7_DPC_GOLD_STREAK2,Poolside Barbeque (1/2)
+ID_OF_NA_FATHERSDAY24_E7_DPC_GOLD_STREAK1,Poolside Barbeque (1/3)
+ID_OF_NA_FATHERSDAY24_PETERBPARKER_TRAIN_GOLD_TY,Inseparable Web of Love Thank You!
+ID_OF_NA_FATHERSDAY24_PETERBPARKER_TRAIN_GOLD,Inseparable Web of Love
+ID_OF_NA_FATHERSDAY24_TRAIN_ISO_STREAK3,Quantum Connections (3/3)
+ID_OF_NA_FATHERSDAY24_TRAIN_ISO_STREAK2,Quantum Connections (2/3)
+ID_OF_NA_FATHERSDAY24_TRAIN_ISO_STREAK1,Quantum Connections (1/3)
+ID_OF_NA_FATHERSDAY24_CRIMSON_SKILL_CALENDAR_10D,Father's Day Skill Calendar
+ID_OF_NA_FATHERSDAY24_DORB_DDORB_STREAK3,"Best Dad, Best Offer! (3/3)"
+ID_OF_NA_FATHERSDAY24_DORB_DDORB_STREAK2,"Best Dad, Best Offer! (2/3)"
+ID_OF_NA_FATHERSDAY24_DORB_DDORB_STREAK1,"Best Dad, Best Offer! (1/3)"
+ID_OF_NA_FATHERSDAY24_PANDAPOOL_DORB_DPC_TY,Secret Adventure For Dad Thank You!
+ID_OF_NA_FATHERSDAY24_PANDAPOOL_DORB,Hiking For Dad
+ID_OF_NA_FATHERSDAY24_IRONPATRIOT_TRAIN_GOLD_TY,Armored Parent TY
+ID_OF_NA_FATHERSDAY24_IRONPATRIOT_TRAIN_GOLD,Armored Parent
+ID_OF_NA_FATHERSDAY24_VOIDKNIGHT_E7_TRAIN_TY,Child of the Hive Thank You!
+ID_OF_NA_FATHERSDAY24_VOIDKNIGHT_E7,Child of the Hive
+ID_OF_DE_FATHERSDAY24_DORB_DDC_GOLD,Don't pass up on this holiday combo offer full of the essentials! Unlocks a special offer after purchase!
+ID_OF_DE_FATHERSDAY24_OML_DAKEN_TEAL_UNIQUES_DUALA1,Choose what you need most! You may find additional offer(s) unlocked after purchase have content based on the choice. Keep an eye out!
+ID_OF_DE_FATHERSDAY24_T1T2_ISO_GOLD_STREAK2,Empowered offer unlocked! Purchase and unlock the final highest value offer!
+ID_OF_DE_FATHERSDAY24_T1T2_ISO_GOLD_STREAK1,Evolve your roster today with this limited holiday special! Unlocks a special offer after purchase!
+ID_OF_DE_FATHERSDAY24_CRIMSON_CATALAYSTS_STREAK2,Empowered offer unlocked! Purchase and unlock the final highest value offer!
+ID_OF_DE_FATHERSDAY24_CRIMSON_CATALAYSTS_STREAK1,You attracted this offer to break through to your next goal! Unlocks a special offer after purchase!
+ID_OF_DE_FATHERSDAY24_DAKEN_TRAIN_GOLD_OML_UNIQUES,Take on your challenges head on with this Daken and Old Man Logan augmented gear special! Receive a special value offer upon purchase limit!
+ID_OF_DE_FATHERSDAY24_FATHER'S_DAY_HC_CALENDAR_7D,Get a daily drop of Power Cores from logging in over {var1} days! Huge value!
+ID_OF_DE_FATHERSDAY24_E7_DPC_GOLD_STREAK2,Empowered offer unlocked! Purchase and unlock the final highest value offer!
+ID_OF_DE_FATHERSDAY24_E7_DPC_GOLD_STREAK1,Eat up this special holiday offer with the essentials while you can! Unlocks a special offer after purchase!
+ID_OF_DE_FATHERSDAY24_PETERBPARKER_TRAIN_GOLD,The ultimate father and daughter shard offer! Receive a special value offer upon purchase limit!
+ID_OF_DE_FATHERSDAY24_TRAIN_ISO_STREAK2,Empowered offer unlocked! Purchase and unlock the final highest value offer!
+ID_OF_DE_FATHERSDAY24_TRAIN_ISO_STREAK1,Train up and improve your teams today with this limited holiday special! Unlocks a special offer after purchase!
+ID_OF_DE_FATHERSDAY24_CRIMSON_SKILL_CALENDAR_10D,Get a daily drop of Crimson Skill gear from logging in over {var1} days! Huge value!
+ID_OF_DE_FATHERSDAY24_DORB_DDORB_STREAK2,Empowered offer unlocked! Purchase and unlock the final highest value offer!
+ID_OF_DE_FATHERSDAY24_DORB_DDORB_STREAK1,Improve with the power of diamonds today with this limited holiday special! Unlocks a special offer after purchase!
+ID_OF_DE_FATHERSDAY24_PANDAPOOL_DORB,Take a walk alongside Pandapool with limited time offer! Purchase the limit and receive a special value offer!
+ID_OF_DE_FATHERSDAY24_IRONPATRIOT_TRAIN_GOLD,Get ready for your conversation with this special Iron Patriot shard offer! Receive a special value offer upon purchase limit!
+ID_OF_DE_FATHERSDAY24_VOIDKNIGHT_E7,Connect with your hive using this special holiday offer! Receive a special value offer upon purchase limit!
