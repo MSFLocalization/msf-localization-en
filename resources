@@ -246,8 +246,6 @@ ID_EVENT_CUR16_NAME,Crimson Tombstone
 ID_EVENT_CUR16_DESCRIPTION,"Collect Crimson Tombstones for additional progress in the Slick Outbreak Milestone. Earn them via Viral Orbs from the Unstoppable Undead Event, Daily Free Claims on our website and limited time offers!"
 ID_EVENT_CUR17_NAME,Planetary Orb Fragment
 ID_EVENT_CUR17_DESCRIPTION,Open Planetary Orbs for Peter B. Parker shards!
-ID_EVENT_CUR18_NAME,Shiny Coin
-ID_EVENT_CUR18_DESCRIPTION,Collect Shiny Coin to spend in the Shiny Coin Event Store.
 ID_EVENT_CUR19_NAME,TVA Gift Shop
 ID_EVENT_CUR19_DESCRIPTION,Spend TVA Gift Cards at the TVA Gift Shop. Only for a limited time
 ID_PROMOTION_CUR_NAME,Silver Promotion Credit
@@ -520,5 +518,9 @@ ID_EVTA_META_JUN_Q_NAME,Shining Star Milestone Points
 ID_EVTA_META_JUN_Q_DESCRIPTION,These points earn you additional progress in the Shining Star Milestone. Earn them in limited offers!
 ID_EVTA_META_JUN_R_NAME,Guiding Light Milestone Point
 ID_EVTA_META_JUN_R_DESCRIPTION,These points earn you additional progress in the Guiding Light Milestone. Earn them in the Wayfinder Web Milestone and special Offers!
-ID_EVTA_META_JUN_Z_NAME,Take Flight Milestone Point
-ID_EVTA_META_JUN_Z_DESCRIPTION,Gain additional progress in the Take Flight Milestone. Earn them in limited time offers!
+ID_EVTA_META_JUN_Z_NAME,Take Flight: Guardian Milestone Point
+ID_EVTA_META_JUN_Z_DESCRIPTION,Gain additional progress in the Take Flight: Guardian Milestone. Earn them in limited time Guardian offers!
+ID_EVTA_META_JUN_S_NAME,On Guard For Thee Milestone Points
+ID_EVTA_META_JUN_S_DESCRIPTION,These points earn you additional progress in the On Guard For Thee Milestone. Earn them in the Glorious And Free Web Milestone and special Offers!
+ID_EVENT_CUR18_NAME,Am-Can Orb Fragment
+ID_EVENT_CUR18_DESCRIPTION,"Collect to progress in the On Guard For Thee milestone, and open Am-Can Orbs to earn Guardian shards!"

@@ -3091,7 +3091,16 @@ ID_MOTD_NA_WAYFINDER_ANNOUNCE,Web Milestone: Wayfinder
 ID_MOTD_DE_WAYFINDER_ANNOUNCE,Earn Alliance Credits and reap more rewards on the web!
 ID_MOTD_NA_BATTLEPASS_SEASON23_ANNOUNCE,LIVE: Season 23 of Battle Pass
 ID_MOTD_DE_BATTLEPASS_SEASON23_ANNOUNCE,"Complete Objectives to earn Peni Parker shards, Spider-Man (Pavitr) shards and more!"
-ID_MOTD_NA_TAKEFLIGHT_ANNOUNCE,Live: Take Flight
-ID_MOTD_DE_TAKEFLIGHT_ANNOUNCE,Earn Alpha Flight Shards
-ID_MOTD_NA_TAKEFLIGHT_ENDING,Ending Soon: Take Flight
+ID_MOTD_NA_TAKEFLIGHT_ANNOUNCE,Live: Take Flight: Guardian
+ID_MOTD_DE_TAKEFLIGHT_ANNOUNCE,Earn points from special offers
+ID_MOTD_NA_TAKEFLIGHT_ENDING,Ending Soon: Take Flight: Guardian
 ID_MOTD_DE_TAKEFLIGHT_ENDING,Don't miss out on bonus Alpha Flight Shards!
+ID_MOTD_NA_ONGUARDFORTHEE_ANNOUNCE,LIVE: On Guard for Thee
+ID_MOTD_DE_ONGUARDFORTHEE_ANNOUNCE,Unlock Guardian and earn Crimson Tech Gear!
+ID_MOTD_NA_ONGUARDFORTHEE_ENDING,Ending Soon: On Guard for Thee
+ID_MOTD_DE_ONGUARDFORTHEE_ENDING,Unlock Guardian and earn Crimson Tech gear now!
+ID_MOTD_NA_GLORIOUSANDFREE_ANNOUNCE,Web Milestone: Glorious And Free
+ID_MOTD_DE_GLORIOUSANDFREE_ANNOUNCE,"Spend X Marks The Spot Event Energy and Incursion Energy, and reap more rewards on the web!"
+ID_MOTD_NA_WEEKEND_PUSH1,Weekend Free Claim!
+ID_MOTD_DE_WEEKEND_PUSH1,Tap now and get exclusive calendar reward!
+ID_MOTD_DE_WEEKEND_PUSH2,Last chance for today's free reward!

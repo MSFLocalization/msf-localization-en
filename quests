@@ -4565,6 +4565,11 @@ ID_QU_SC_SPLASH_FLUID,Use Bifrost Characters in Blitz
 ID_QU_S1_SPLASH_FLUID,Win Blitz with a 3-star or higher Bifrost Character
 ID_QU_S2_SPLASH_FLUID,Win Blitz with a 5-star or higher Bifrost Character
 ID_QU_S3_SPLASH_FLUID,Win Blitz with a 7-star Bifrost Character
+ID_QU_NA_SHININGSTAR_V2,Shining Star
+ID_QU_SD_SHININGSTAR_V2,"Spend Iso-8 Energy, Collect Event Orbs"
+ID_QU_LD_SHININGSTAR_V2,Shining Star\nGain progress in this 5-day event by spending Iso-8 Campaign Energy and earning Allied Supply V Orb fragments from daily Free Claims and special offers. \n\nEarn incredible rewards including tons of Gold and Promotinon Credits. You'll also earn points towards the month-long Homeward Bound milestone by collecting Dog Tags.
+ID_QU_S1_SHININGSTAR_V2,Spend 1 Iso-8 Energy
+ID_QU_S2_SHININGSTAR_V2,Earn 1 Allied Supply V Orb Fragment
 ID_QU_NA_GUIDINGLIGHT,Guiding Light
 ID_QU_DE_GUIDINGLIGHT,Unlock Northstar!
 ID_QU_LD_GUIDINGLIGHT,"Guiding Light Milestone\nGain progress in this 7-day event by earning Radiant Flight Orb Fragments from Campaign nodes, battling in War, battling in Blitz with Alpha Flight characters, completing the Wayfinder Web Milestone, and from Daily Free Claims.\n\nEarn celestial rewards including Northstar shards, Dark Diamond Credits and Crimson Mutant gear. You'll also earn points towards the month-long Homeward Bound milestone by collecting Dog Tags and the Empty Root Beer.\n\nGuiding Light Leaderboard\nCompete on the Leaderboards for Crimson Gear and Diamond Promotions for Northstar!\n\nWayfinder Web Milestone\nEarn Alliance Credits to earn Radiant Flight Orb Fragments and progress in the Guiding Light Milestone."
@@ -4588,8 +4593,19 @@ ID_QU_NA_WAYFINDER,Wayfinder
 ID_QU_SD_WAYFINDER,Earn Alliance Credits
 ID_QU_LD_WAYFINDER,"Earn Alliance Credits and get rewarded with Radiant Flight Orb Fragments, Augmented Catalysts, and Guiding Light milestone progress."
 ID_QU_S1_WAYFINDER,Earn 1 Alliance Credit
-ID_QU_NA_TAKEFLIGHT,Take Flight
+ID_QU_NA_TAKEFLIGHT,Take Flight: Guardian
 ID_QU_SD_TAKEFLIGHT,Earn Alpha Flight Shards
-ID_QU_LD_TAKEFLIGHT,"Gain progress in this special event by opening Alpha Flight Orbs or by collecting Take Flight Milestone Points found in special offers.\n\nRewards include Northstar, Guardian, and Sasquatch shards, Crimson Gear Raid Orbs, and Diamond upgrades for Wolverine and Sunfire.\n\nAlpha Flight Orb\nEach orb contains character shards Northstar, Guardian, and Sasquatch!"
-ID_QU_S1_TAKEFLIGHT,Open 1 Alpha Flight Orb
+ID_QU_SM_TAKEFLIGHT,Earn points from special offers
+ID_QU_LD_TAKEFLIGHT,"Gain progress in this special event by collecting Take Flight: Guardian Milestone Points found in special Guardian offers.\n\nRewards include Northstar and Guardian shards, Crimson Gear, and Diamond upgrades for Sunfire."
+ID_QU_S1_TAKEFLIGHT,Earn Milestone Points from Guardian Offers
 ID_QU_S2_TAKEFLIGHT,Earn Milestone Points from Special Offers
+ID_QU_NA_ONGUARDFORTHEE,On Guard for Thee
+ID_QU_SD_ONGUARDFORTHEE,Recruit Guardian!
+ID_QU_LD_ONGUARDFORTHEE,"On Guard For Thee Milestone\nGain progress in this 7-day event by battling in Cosmic Crucible, collecting Am-Can Orb Fragments from Arena Battles, Free Claims and special Offers, and completing the Glorious And Free Web Milestone. \n\nEarn glorious rewards including Guardian shards, Crimson Tech Gear, and Diamond Orb Fragments. You'll also earn points towards the month-long Homeward Bound milestone by collecting Dog Tags and the Pickup Truck Keys.\n\nGlorious And Free Web Milestone\nSpend X Marks The Spot Event Energy and Incursion Energy, and be rewarded with even more Am-Can Orbs for additional progress in the On Guard For Thee Milestone. Keep an eye out for Free Claims containing An-Cam Orb Fragments every day!"
+ID_QU_S1_ONGUARDFORTHEE,Battle in Cosmic Crucible
+ID_QU_S2_ONGUARDFORTHEE,Earn Am-Can Orb Fragments
+ID_QU_NA_GLORIOUSANDFREE,Glorious And Free
+ID_QU_SD_GLORIOUSANDFREE,Spend X Marks The Spot Event Energy and Incursion Energy
+ID_QU_LD_GLORIOUSANDFREE,"Spend X Marks The Spot Event Energy and Incursion Energy, and be rewarded with Am-Can Orb Fragments for progress in the On Guard For Thee Milestone."
+ID_QU_S1_GLORIOUSANDFREE,Spend 1 X Marks The Spot Event Energy
+ID_QU_S2_GLORIOUSANDFREE,Spend 1 Incursion Energy

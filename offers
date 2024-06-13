@@ -8714,7 +8714,7 @@ ID_OF_DE_GUIDINGLIGHT_CATCHUP,Finish strong in the milestones and leaderboard to
 ID_OF_DE_GUIDINGLIGHT_DAILY_ORB,"Earn shards for Northstar and top Raid characters, and make progress in the Guiding Light milestone by collecting more <color=#fff568>Radiant Flight Orbs</color>!"
 ID_OF_DE_GUIDINGLIGHT_GENERIC,"Claim this mega deal to get ahead in the <color=#fff568>Guiding Light</color> Milestone and Leaderboard, and fast-forward your way to <color=#fff568>Northstar Shards</color> and <color=#f12603>Crimson Gear</color>!"
 ID_OF_DE_GUIDINGLIGHT_DAILY_POINTS,Get ahead in the <color=#fff568>Guiding Light</color> Leaderboards and earn <color=#fff568>Northstar Diamond Promotions</color> and <color=#f12603>Crimson Gear</color>!
-ID_OF_DE_GUIDINGLIGHT_ENERGY,Get your daily dose of Campaign Energy to progress in the <color=#fff568>Radiant Flight</color> Milestone!
+ID_OF_DE_GUIDINGLIGHT_ENERGY,Get your daily dose of Campaign Energy to progress in the <color=#fff568>Guiding Light</color> Milestone!
 ID_OF_DE_GUIDINGLIGHT_FREECLAIM,Come back daily for more <color=#fff568>Guiding Light</color> progress!
 ID_OF_DE_GUIDINGLIGHT_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Guiding Light</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_GUIDINGLIGHT_FCF,Come back every Friday for special Free Claim! Remember to visit the web each day for the daily Free Claim!
@@ -8738,7 +8738,7 @@ ID_OF_NA_FATHERSDAY24_DAKEN_TRAIN_GOLD_OML_UNIQUES_TY,Spiky Relationship Thank Y
 ID_OF_NA_FATHERSDAY24_DAKEN_TRAIN_GOLD_OML_UNIQUES,Spiky Relationship
 ID_OF_NA_FATHERSDAY24_FATHER'S_DAY_HC_CALENDAR_7D,Father's Day Value Calendar
 ID_OF_NA_FATHERSDAY24_E7_DPC_GOLD_STREAK3_,Poolside Barbeque (3/3)
-ID_OF_NA_FATHERSDAY24_E7_DPC_GOLD_STREAK2,Poolside Barbeque (1/2)
+ID_OF_NA_FATHERSDAY24_E7_DPC_GOLD_STREAK2,Poolside Barbeque (2/3)
 ID_OF_NA_FATHERSDAY24_E7_DPC_GOLD_STREAK1,Poolside Barbeque (1/3)
 ID_OF_NA_FATHERSDAY24_PETERBPARKER_TRAIN_GOLD_TY,Inseparable Web of Love Thank You!
 ID_OF_NA_FATHERSDAY24_PETERBPARKER_TRAIN_GOLD,Inseparable Web of Love
@@ -8753,24 +8753,70 @@ ID_OF_NA_FATHERSDAY24_PANDAPOOL_DORB_DPC_TY,Secret Adventure For Dad Thank You!
 ID_OF_NA_FATHERSDAY24_PANDAPOOL_DORB,Hiking For Dad
 ID_OF_NA_FATHERSDAY24_IRONPATRIOT_TRAIN_GOLD_TY,Armored Parent TY
 ID_OF_NA_FATHERSDAY24_IRONPATRIOT_TRAIN_GOLD,Armored Parent
-ID_OF_NA_FATHERSDAY24_VOIDKNIGHT_E7_TRAIN_TY,Child of the Hive Thank You!
-ID_OF_NA_FATHERSDAY24_VOIDKNIGHT_E7,Child of the Hive
+ID_OF_NA_FATHERSDAY24_VOIDKNIGHT_E7_TRAIN_TY,Child of the Hive-Mind Thank You!
+ID_OF_NA_FATHERSDAY24_VOIDKNIGHT_E7,Child of the Hive-Mind
 ID_OF_DE_FATHERSDAY24_DORB_DDC_GOLD,Don't pass up on this holiday combo offer full of the essentials! Unlocks a special offer after purchase!
 ID_OF_DE_FATHERSDAY24_OML_DAKEN_TEAL_UNIQUES_DUALA1,Choose what you need most! You may find additional offer(s) unlocked after purchase have content based on the choice. Keep an eye out!
 ID_OF_DE_FATHERSDAY24_T1T2_ISO_GOLD_STREAK2,Empowered offer unlocked! Purchase and unlock the final highest value offer!
 ID_OF_DE_FATHERSDAY24_T1T2_ISO_GOLD_STREAK1,Evolve your roster today with this limited holiday special! Unlocks a special offer after purchase!
 ID_OF_DE_FATHERSDAY24_CRIMSON_CATALAYSTS_STREAK2,Empowered offer unlocked! Purchase and unlock the final highest value offer!
 ID_OF_DE_FATHERSDAY24_CRIMSON_CATALAYSTS_STREAK1,You attracted this offer to break through to your next goal! Unlocks a special offer after purchase!
-ID_OF_DE_FATHERSDAY24_DAKEN_TRAIN_GOLD_OML_UNIQUES,Take on your challenges head on with this Daken and Old Man Logan augmented gear special! Receive a special value offer upon purchase limit!
+ID_OF_DE_FATHERSDAY24_DAKEN_TRAIN_GOLD_OML_UNIQUES,Take on your challenges head on with this Daken and Old Man Logan augmented gear special! Receive a special value offer upon reaching the purchase limit!
 ID_OF_DE_FATHERSDAY24_FATHER'S_DAY_HC_CALENDAR_7D,Get a daily drop of Power Cores from logging in over {var1} days! Huge value!
 ID_OF_DE_FATHERSDAY24_E7_DPC_GOLD_STREAK2,Empowered offer unlocked! Purchase and unlock the final highest value offer!
 ID_OF_DE_FATHERSDAY24_E7_DPC_GOLD_STREAK1,Eat up this special holiday offer with the essentials while you can! Unlocks a special offer after purchase!
-ID_OF_DE_FATHERSDAY24_PETERBPARKER_TRAIN_GOLD,The ultimate father and daughter shard offer! Receive a special value offer upon purchase limit!
+ID_OF_DE_FATHERSDAY24_PETERBPARKER_TRAIN_GOLD,The ultimate father and daughter shard offer! Receive a special value offer upon reaching the purchase limit!
 ID_OF_DE_FATHERSDAY24_TRAIN_ISO_STREAK2,Empowered offer unlocked! Purchase and unlock the final highest value offer!
 ID_OF_DE_FATHERSDAY24_TRAIN_ISO_STREAK1,Train up and improve your teams today with this limited holiday special! Unlocks a special offer after purchase!
 ID_OF_DE_FATHERSDAY24_CRIMSON_SKILL_CALENDAR_10D,Get a daily drop of Crimson Skill gear from logging in over {var1} days! Huge value!
 ID_OF_DE_FATHERSDAY24_DORB_DDORB_STREAK2,Empowered offer unlocked! Purchase and unlock the final highest value offer!
 ID_OF_DE_FATHERSDAY24_DORB_DDORB_STREAK1,Improve with the power of diamonds today with this limited holiday special! Unlocks a special offer after purchase!
 ID_OF_DE_FATHERSDAY24_PANDAPOOL_DORB,Take a walk alongside Pandapool with limited time offer! Purchase the limit and receive a special value offer!
-ID_OF_DE_FATHERSDAY24_IRONPATRIOT_TRAIN_GOLD,Get ready for your conversation with this special Iron Patriot shard offer! Receive a special value offer upon purchase limit!
-ID_OF_DE_FATHERSDAY24_VOIDKNIGHT_E7,Connect with your hive using this special holiday offer! Receive a special value offer upon purchase limit!
+ID_OF_DE_FATHERSDAY24_IRONPATRIOT_TRAIN_GOLD,Get ready for your conversation with this special Iron Patriot shard offer! Receive a special value offer upon reaching the purchase limit!
+ID_OF_DE_FATHERSDAY24_VOIDKNIGHT_E7,Connect with your hive using this special holiday offer! Receive a special value offer upon reaching the purchase limit!
+ID_OF_DE_GENERIC_ULTIMATE_VALUE2,Thank you for your support! Please enjoy this ultimate value special offer!
+ID_OF_DE_GENERIC_HOLIDAY_COMBO_CHAIN,Don't pass up on this holiday combo offer full of the essentials! Unlocks a special offer after purchase!
+ID_OF_DE_GENERIC_DUAL_CHOICE,Choose what you need most! You may find additional offer(s) unlocked after purchase have content based on the choice. Keep an eye out!
+ID_OF_DE_GENERIC_EMPOWERED_CHAIN,Empowered offer unlocked! Purchase and unlock the final highest value offer!
+ID_OF_DE_GENERIC_LIMITED_CHAIN,Evolve your roster today with this limited holiday special! Unlocks a special offer after purchase!
+ID_OF_DE_GENERIC_HC_CALENDAR,Get a daily drop of Power Cores from logging in over {var1} days! Huge value!
+ID_OF_DE_GENERIC_ULTIMATE_VALUE2_CHAIN,Eat up this special holiday offer with the essentials while you can! Unlocks a special offer after purchase!
+ID_OF_DE_GENERIC_HOLIDAY_TRAIN_CHAIN,Train up and improve your teams today with this limited holiday special! Unlocks a special offer after purchase!
+ID_OF_DE_GENERIC_HOLIDAY_DIAMOND_CHAIN,Improve with the power of diamonds today with this limited holiday special! Unlocks a special offer after purchase!
+ID_OF_DE_GENERIC_VALUE_GOLD,Add more Gold to your reserves from this limited time high value offer!
+ID_OF_DE_GENERIC_LIMITED_CRIMSON_GEAR,Take advantage of this limited time offer to continue progress towards Gear Tier 19!
+ID_OF_DE_GENERIC_LIMITED_RESTOCK,Restock on the essential resources to continue powering up your roster today with this limited time offer!
+ID_OF_DE_GENERIC_LIMITED_ROSTER,Start promoting your roster with a special limited time offer today!
+ID_OF_DE_GENERIC_VALUE_BOOST,Get a boost for your account with all the items from this limited time high value offer!
+ID_OF_DE_GENERIC_LIMITED_POWER,Take your roster to higher power levels with this limited time offer.
+ID_OF_DE_GENERIC_TRAIN_CALENDAR,Get a daily drop of L4 Training Modules from logging in over {var1} days! Huge value!
+ID_OF_DE_GENERIC_BOOST_RESERVES,Boost your reserves of the items you need from this limited time high value offer!
+ID_OF_DE_GENERIC_SUPER_COMBO,Don't miss out on this super combo offer! Only available for a limited time!
+ID_OF_DE_GENERIC_VALUE_ORB,Open orbs for a chance at the most recent characters with this limited time high value offer!
+ID_OF_DE_GENERIC_ABILITY_BOOST,Boost the ability and capability of your roster with this limited time offer!
+ID_OF_NA_FATHERSDAY_HERODADS,Father's Day: Hero Dads
+ID_OF_DE_FATHERSDAY_HERODADS,"Deal out damage with this valuable bundle! Get shards of <color=#3366cc>Luke Cage</color>, <color=#3366cc>Deadpool</color>, and more this <color=#3366cc>Father's Day</color>!"
+ID_OF_NA_FATHERSDAY_COSMICDADS,Father's Day: Cosmic Dads
+ID_OF_DE_FATHERSDAY_COSMICDADS,"Deal out damage with this valuable bundle! Get shards of <color=#3366cc>Drax</color>, <color=#3366cc>Yondu</color>, and more this <color=#3366cc>Father's Day</color>!"
+ID_OF_NA_ONGUARDFORTHEE_MEGA_STARTER,On Guard For Thee: Mega Starter
+ID_OF_NA_ONGUARDFORTHEE_STARTER,On Guard For Thee: Starter Pack
+ID_OF_NA_ONGUARDFORTHEE_MEGA_CATCHUP,On Guard For Thee: Mega Catch-up
+ID_OF_NA_ONGUARDFORTHEE_CATCHUP,On Guard For Thee: Catch-up Bundle
+ID_OF_NA_ONGUARDFORTHEE_MID-EVENT_SPECIAL,On Guard For Thee: Web Special
+ID_OF_NA_ONGUARDFORTHEE_DAILY_ORB,On Guard For Thee: Daily Orb
+ID_OF_NA_ONGUARDFORTHEE_DAILY_INCURSION,Glorious and Free: Daily Energy
+ID_OF_NA_ONGUARDFORTHEE_DAILY_FREE_CLAIM,On Guard For Thee: Free Claim
+ID_OF_NA_ONGUARDFORTHEE_DAILY_INTERSTITAL,On Guard For Thee: Hidden Trove
+ID_OF_NA_ONGUARDFORTHEE_FCF,S.T.R.I.K.E Force Fridays Gift
+ID_OF_NA_ONGUARDFORTHEE_FCF_INTERSTITIAL,S.T.R.I.K.E Force Fridays Offer
+ID_OF_DE_ONGUARDFORTHEE_MEGA_STARTER,Get ahead in the <color=#fff568>On Guard For Thee</color> Milestone and fast-forward your way to <color=#f12603>Guardian Shards</color> and <color=#fff568>Crimson Tech Gear</color>!
+ID_OF_DE_ONGUARDFORTHEE_STARTER,Get ahead in the <color=#fff568>On Guard For Thee</color> Milestone and fast-forward your way to <color=#f12603>Guardian Shards</color> and <color=#fff568>Crimson Tech Gear</color>!
+ID_OF_DE_ONGUARDFORTHEE_MEGA_CATCHUP,Finish strong in the milestones to earn <color=#fff568>On Guard For Thee</color> milestone for <color=#f12603>Guardian Shards</color> and <color=#fff568>Crimson Tech Gear</color>!
+ID_OF_DE_ONGUARDFORTHEE_CATCHUP,Finish strong in the milestones to earn <color=#fff568>On Guard For Thee</color> milestone for <color=#f12603>Guardian Shards</color> and <color=#fff568>Crimson Tech Gear</color>!
+ID_OF_DE_ONGUARDFORTHEE_MID-EVENT_SPECIAL,"Claim this mega deal to get ahead in the <color=#fff568>On Guard For Thee</color> Milestone, and fast-forward your way to <color=#f12603>Guardian Shards</color> and <color=#fff568>Crimson Tech Gear</color>!"
+ID_OF_DE_ONGUARDFORTHEE_DAILY_ORB,Make progress in the <color=#fff568>On Guard For Thee</color> milestone by collecting more <color=#fff568>Am-Can Orb Fragments</color>!
+ID_OF_DE_ONGUARDFORTHEE_DAILY_INCURSION,Get your daily dose of Incursion Campaign Energy for progress in the <color=#fff568>Glorious And Free</color> web milestone and earn more <color=#fff568>Am-Can Fragments</color>!
+ID_OF_DE_ONGUARDFORTHEE_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>On Guard For Thee</color> progress!
+ID_OF_DE_ONGUARDFORTHEE_DAILY_INTERSTITAL,You just unlocked the highest discount deal for the <color=#fff568>On Guard For Thee</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_ONGUARDFORTHEE_FCF,Claim this exclusive free gift on us! Check back often to find more exclusive gifts! Don't miss out on the one-time offer after claiming this gift!
+ID_OF_DE_ONGUARDFORTHEE_FCF_INTERSTITIAL,Don't miss this short window to purchase this one-time offer! This offer only lasts for as long as this window is open!
