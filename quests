@@ -4567,7 +4567,7 @@ ID_QU_S2_SPLASH_FLUID,Win Blitz with a 5-star or higher Bifrost Character
 ID_QU_S3_SPLASH_FLUID,Win Blitz with a 7-star Bifrost Character
 ID_QU_NA_SHININGSTAR_V2,Shining Star
 ID_QU_SD_SHININGSTAR_V2,"Spend Iso-8 Energy, Collect Event Orbs"
-ID_QU_LD_SHININGSTAR_V2,Shining Star\nGain progress in this 5-day event by spending Iso-8 Campaign Energy and earning Allied Supply V Orb fragments from daily Free Claims and special offers. \n\nEarn incredible rewards including tons of Gold and Promotinon Credits. You'll also earn points towards the month-long Homeward Bound milestone by collecting Dog Tags.
+ID_QU_LD_SHININGSTAR_V2,Shining Star\nGain progress in this 5-day event by spending Iso-8 Campaign Energy and earning Allied Supply V Orb fragments from daily Free Claims and special offers. \n\nEarn incredible rewards including tons of Gold and Promotion Credits. You'll also earn points towards the month-long Homeward Bound milestone by collecting Dog Tags.
 ID_QU_S1_SHININGSTAR_V2,Spend 1 Iso-8 Energy
 ID_QU_S2_SHININGSTAR_V2,Earn 1 Allied Supply V Orb Fragment
 ID_QU_NA_GUIDINGLIGHT,Guiding Light
@@ -4601,7 +4601,7 @@ ID_QU_S1_TAKEFLIGHT,Earn Milestone Points from Guardian Offers
 ID_QU_S2_TAKEFLIGHT,Earn Milestone Points from Special Offers
 ID_QU_NA_ONGUARDFORTHEE,On Guard for Thee
 ID_QU_SD_ONGUARDFORTHEE,Recruit Guardian!
-ID_QU_LD_ONGUARDFORTHEE,"On Guard For Thee Milestone\nGain progress in this 7-day event by battling in Cosmic Crucible, collecting Am-Can Orb Fragments from Arena Battles, Free Claims and special Offers, and completing the Glorious And Free Web Milestone. \n\nEarn glorious rewards including Guardian shards, Crimson Tech Gear, and Diamond Orb Fragments. You'll also earn points towards the month-long Homeward Bound milestone by collecting Dog Tags and the Pickup Truck Keys.\n\nGlorious And Free Web Milestone\nSpend X Marks The Spot Event Energy and Incursion Energy, and be rewarded with even more Am-Can Orbs for additional progress in the On Guard For Thee Milestone. Keep an eye out for Free Claims containing An-Cam Orb Fragments every day!"
+ID_QU_LD_ONGUARDFORTHEE,"On Guard For Thee Milestone\nGain progress in this 7-day event by battling in Cosmic Crucible, collecting Am-Can Orb Fragments from Arena Battles, Free Claims and special Offers, and completing the Glorious And Free Web Milestone. \n\nEarn glorious rewards including Guardian shards, Crimson Tech Gear, and Diamond Orb Fragments. You'll also earn points towards the month-long Homeward Bound milestone by collecting Dog Tags and the Pickup Truck Keys.\n\nGlorious And Free Web Milestone\nSpend X Marks The Spot Event Energy and Incursion Energy, and be rewarded with even more Am-Can Orbs for additional progress in the On Guard For Thee Milestone. Keep an eye out for Free Claims containing Am-Can Orb Fragments every day!"
 ID_QU_S1_ONGUARDFORTHEE,Battle in Cosmic Crucible
 ID_QU_S2_ONGUARDFORTHEE,Earn Am-Can Orb Fragments
 ID_QU_NA_GLORIOUSANDFREE,Glorious And Free
@@ -4609,3 +4609,6 @@ ID_QU_SD_GLORIOUSANDFREE,Spend X Marks The Spot Event Energy and Incursion Energ
 ID_QU_LD_GLORIOUSANDFREE,"Spend X Marks The Spot Event Energy and Incursion Energy, and be rewarded with Am-Can Orb Fragments for progress in the On Guard For Thee Milestone."
 ID_QU_S1_GLORIOUSANDFREE,Spend 1 X Marks The Spot Event Energy
 ID_QU_S2_GLORIOUSANDFREE,Spend 1 Incursion Energy
+ID_QU_NA_FROMFARANDWIDE,From Far and Wide
+ID_QU_SD_FROMFARANDWIDE,"Battle in Raids, Collect Event Orbs"
+ID_QU_LD_FROMFARANDWIDE,"To earn points, Battle in Raids, collect Milestone Points on Spotlight Raids nodes and collect Allied Supply V Orbs from Free Claims. \nEarn Armory 18 Orbs, T2 Level 5 Ions, Crimson Gear Catalysts, and Homeward Bound progress!\n\nLeaderboard\nCompete on the Leaderboard for Sasquatch Diamond Promotions, Mega Gold Orbs and Armory 19 Orbs!"

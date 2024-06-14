@@ -8811,12 +8811,126 @@ ID_OF_NA_ONGUARDFORTHEE_FCF,S.T.R.I.K.E Force Fridays Gift
 ID_OF_NA_ONGUARDFORTHEE_FCF_INTERSTITIAL,S.T.R.I.K.E Force Fridays Offer
 ID_OF_DE_ONGUARDFORTHEE_MEGA_STARTER,Get ahead in the <color=#fff568>On Guard For Thee</color> Milestone and fast-forward your way to <color=#f12603>Guardian Shards</color> and <color=#fff568>Crimson Tech Gear</color>!
 ID_OF_DE_ONGUARDFORTHEE_STARTER,Get ahead in the <color=#fff568>On Guard For Thee</color> Milestone and fast-forward your way to <color=#f12603>Guardian Shards</color> and <color=#fff568>Crimson Tech Gear</color>!
-ID_OF_DE_ONGUARDFORTHEE_MEGA_CATCHUP,Finish strong in the milestones to earn <color=#fff568>On Guard For Thee</color> milestone for <color=#f12603>Guardian Shards</color> and <color=#fff568>Crimson Tech Gear</color>!
-ID_OF_DE_ONGUARDFORTHEE_CATCHUP,Finish strong in the milestones to earn <color=#fff568>On Guard For Thee</color> milestone for <color=#f12603>Guardian Shards</color> and <color=#fff568>Crimson Tech Gear</color>!
+ID_OF_DE_ONGUARDFORTHEE_MEGA_CATCHUP,Finish strong in the <color=#fff568>On Guard For Thee</color> milestone for <color=#f12603>Guardian Shards</color> and <color=#fff568>Crimson Tech Gear</color>!
+ID_OF_DE_ONGUARDFORTHEE_CATCHUP,Finish strong in the <color=#fff568>On Guard For Thee</color> milestone for <color=#f12603>Guardian Shards</color> and <color=#fff568>Crimson Tech Gear</color>!
 ID_OF_DE_ONGUARDFORTHEE_MID-EVENT_SPECIAL,"Claim this mega deal to get ahead in the <color=#fff568>On Guard For Thee</color> Milestone, and fast-forward your way to <color=#f12603>Guardian Shards</color> and <color=#fff568>Crimson Tech Gear</color>!"
 ID_OF_DE_ONGUARDFORTHEE_DAILY_ORB,Make progress in the <color=#fff568>On Guard For Thee</color> milestone by collecting more <color=#fff568>Am-Can Orb Fragments</color>!
-ID_OF_DE_ONGUARDFORTHEE_DAILY_INCURSION,Get your daily dose of Incursion Campaign Energy for progress in the <color=#fff568>Glorious And Free</color> web milestone and earn more <color=#fff568>Am-Can Fragments</color>!
+ID_OF_DE_ONGUARDFORTHEE_DAILY_INCURSION,Get your daily dose of Incursion Campaign Energy for progress in the <color=#fff568>Glorious And Free</color> web milestone and earn more <color=#fff568>Am-Can Orb Fragments</color>!
 ID_OF_DE_ONGUARDFORTHEE_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>On Guard For Thee</color> progress!
 ID_OF_DE_ONGUARDFORTHEE_DAILY_INTERSTITAL,You just unlocked the highest discount deal for the <color=#fff568>On Guard For Thee</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_ONGUARDFORTHEE_FCF,Claim this exclusive free gift on us! Check back often to find more exclusive gifts! Don't miss out on the one-time offer after claiming this gift!
 ID_OF_DE_ONGUARDFORTHEE_FCF_INTERSTITIAL,Don't miss this short window to purchase this one-time offer! This offer only lasts for as long as this window is open!
+ID_OF_NA_SUMMERSOL24_DAILY_GOLD,Summer Solstice: Daily Gold
+ID_OF_NA_SUMMERSOL24_DAKEN_REDORIGIN,Summer Solstice: Daken Rises
+ID_OF_NA_SUMMERSOL24_PANDAPOOL_DAKEN_A18_TRAIN,Summer Solstice: Rise of the Mercs
+ID_OF_NA_SUMMERSOL24_DAKEN_PANDAPOOL_CRIMSON,Summer Solstice: Mercs Awakens
+ID_OF_NA_SUMMERSOL24_TRAINING_DPC_T2ION,Summer Solstice: Boost Up Bundle
+ID_OF_NA_SUMMERSOL24_TRAIN_ISO,"Summer Solstice: Train, Train, Train"
+ID_OF_NA_SUMMERSOL24_BLACKKNIGHT_VOIDKNIGHT_DPC,Summer Solstice: Dark Nights
+ID_OF_NA_SUMMERSOL24_HIVEMIND_E7,Summer Solstice: Into the Hive
+ID_OF_NA_SUMMERSOL24_BLACKKNIGHT_CRIMSON_T4ABM,Summer Solstice: Black Knight Awakens
+ID_OF_NA_SUMMERSOL24_BLACKKNIGHT_TEALUNIQUES,Summer Solstice: Black Knight Rises
+ID_OF_NA_SUMMERSOL24_DIAMONDORBS,Summer Solstice: Shine
+ID_OF_NA_SUMMERSOL24_PENI_GT18,Summer Solstice: Spidey Senses
+ID_OF_NA_SUMMERSOL24_PETER_PENI_PAVTR,Summer Solstice: Spider Society Starter Kit
+ID_OF_NA_SUMMERSOL24_PETER_PAVITR_CRIMSON,Summer Solstice: Spider Society Awakens
+ID_OF_NA_SUMMERSOL24_DAILY_TRAIN_GOLD_DPC,Summer Solstice: Train Daily
+ID_OF_NA_SUMMERSOL24_ABM_GHOSTSPIDER_SPIDERNOIR,Summer Solstice: Train Your Spideys
+ID_OF_NA_SUMMERSOL24_CLASSICGOBLIN_CRIMSON,Summer Solstice: Old School
+ID_OF_NA_SUMMERSOL24_SUPERIOR6_GOLD,Summer Solstice: Superior Pack
+ID_OF_NA_SUMMERSOL24_IONS_GOLD,Summer Solstice: Ion Insanity
+ID_OF_NA_SUMMERSOL24_DIAMONDS_GOLD_ABM,Summer Solstice: Shine Repacked
+ID_OF_NA_SUMMERSOL24_MUTANT_CRIMSON,Summer Solstice: Mutants Awaken
+ID_OF_NA_SUMMERSOL24_ABM_TRAINING,Summer Solstice: All You Can Train
+ID_OF_NA_SUMMERSOL24_IRONPATRIOT_CRIMSON,Summer Solstice: Patriot's Awakening
+ID_OF_NA_SUMMERSOL24_IRONPATRIOT_LEADER_GT18,Summer Solstice: Cabal Rises
+ID_OF_NA_SUMMERSOL24_NAMOR_CRIMSON,Summer Solstice: Namor's Awakening
+ID_OF_NA_SUMMERSOL24_CRIMSON_CAT,Summer Solstice: Crimson Night
+ID_OF_NA_SUMMERSOL24_BLACKCAT_CRIMSON,Summer Solstice: Crimson Cat
+ID_OF_NA_SUMMERSOL24_SECRETDEFENDERS_A19_DPC,Summer Solstice: Secret Defenders
+ID_OF_NA_SUMMERSOL24_T2ISO_ABM,Summer Solstice: Iso Insanity
+ID_OF_NA_SUMMERSOL24_T1ION_GOLD,Summer Solstice: Ion Insanity Repacked
+ID_OF_NA_SUMMERSOL24_ORBS_COMBO,Summer Solstice: Ultimate Orbs Combo
+ID_OF_NA_SUMMERSOL24_OOT_CABAL,Summer Solstice: Night and Day
+ID_OF_NA_SUMMERSOL24_DIAMOND_TRAINING_ABM,Summer Solstice: Level Up
+ID_OF_DE_SUMMERSOL24_DAILY_GOLD,All the <color=#ffda21>Gold</color> you need. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_DAKEN_REDORIGIN,Strengthen <color=#ffda21>Daken</color> with his <color=#ffda21>Shards & Crimson Gear.</color>. <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_PANDAPOOL_DAKEN_A18_TRAIN,Level Up and Train your Mercs now! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_DAKEN_PANDAPOOL_CRIMSON,Claim these <color=#ffda21>Tier 19 Gears</color> for your Mercs now!.
+ID_OF_DE_SUMMERSOL24_TRAINING_DPC_T2ION,Train and power up your squad with this sweet deal. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_TRAIN_ISO,Train and power up your squad with this sweet deal. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_BLACKKNIGHT_VOIDKNIGHT_DPC,Don't miss out on this chance to Max Out your Two Knights. <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_HIVEMIND_E7,Exit Light. Enter Hive Mind. Max Out Your Stars & Diamonds. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_BLACKKNIGHT_CRIMSON_T4ABM,Max out your <color=#ffda21>Black Knight</color> and equip him with the best gear. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_BLACKKNIGHT_TEALUNIQUES,Max out your <color=#ffda21>Black Knight</color> and equip him with the best gear. <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_DIAMONDORBS,Need more <color=#ffda21>diamonds</color> for your roster? Come get it. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_PENI_GT18,Max out <color=#ffda21>Peni</color> and equip her with the best gear. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_PETER_PENI_PAVTR,Don't miss out on this chance to <color=#ffda21>Max Out your Spider-Society</color>. <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_PETER_PAVITR_CRIMSON,Equip your <color=#ffda21>Spider Society</color> heroes with the best gear.
+ID_OF_DE_SUMMERSOL24_DAILY_TRAIN_GOLD_DPC,Here's a little discount to help you train your squad. <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_ABM_GHOSTSPIDER_SPIDERNOIR,Train and level up <color=#ffda21>Ghost-Spider & Spider-Man (Noir)</color> with this great deal. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_CLASSICGOBLIN_CRIMSON,Kickin' it old school with this sweet deal of <color=#ffda21>Green Goblin (Classic) Orbs & his Crimson Gear</color>. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_SUPERIOR6_GOLD,"Don't miss this one and only chance to <color=#ffda21>Max Out Kraven, Spider-Slayer & Lizard</color>. <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_SUMMERSOL24_IONS_GOLD,"A budget combo of <color=#ffda21>Gold, T2 Level 5 Ions & T2 Iso-8 Credit</color>!"
+ID_OF_DE_SUMMERSOL24_DIAMONDS_GOLD_ABM,Need more <color=#ffda21>diamonds</color> for your roster? Come get it. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_MUTANT_CRIMSON,<color=#ffda21>Crimson</color> equipment for your <color=#ffda21>Mutants</color>!
+ID_OF_DE_SUMMERSOL24_ABM_TRAINING,A budget combo of <color=#ffda21>Ability Materials & Training Modules</color>. <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_IRONPATRIOT_CRIMSON,Max out <color=#ffda21>Iron Patriot</color> and equip him with the finest gear! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_IRONPATRIOT_LEADER_GT18,"Max out <color=#ffda21>Iron Patriot & The Leader</color>, and equip them with the finest gear! <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_SUMMERSOL24_NAMOR_CRIMSON,Max out <color=#ffda21>Namor</color> and equip him with the finest gear! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_CRIMSON_CAT,Get this combo of <color=#ffda21>Crimson Catalyst</color> equipment now!
+ID_OF_DE_SUMMERSOL24_BLACKCAT_CRIMSON,Max out <color=#ffda21>Black Cat</color> and equip her with the finest gear! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_SECRETDEFENDERS_A19_DPC,Max out <color=#ffda21>Secret Defenders</color> and equip them with the finest gear! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_T2ISO_ABM,A budget combo of <color=#ffda21>Basic T2 Iso-8 Orbs & T4 Ability Material</color>!
+ID_OF_DE_SUMMERSOL24_T1ION_GOLD,A budget combo of <color=#ffda21>T1 Ion Orbs & Gold</color>.
+ID_OF_DE_SUMMERSOL24_ORBS_COMBO,The Ultimate <color=#ffda21>4x value of All the Best Orbs</color>.
+ID_OF_DE_SUMMERSOL24_OOT_CABAL,Get this sweet deal of both Heroes & Villains. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_DIAMOND_TRAINING_ABM,Need to level up your squad while on a budget? This is for you. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_NA_FROMFARANDWIDE_STARTER,From Far and Wide: Starter
+ID_OF_NA_FROMFARANDWIDE_CATCHUP,From Far and Wide: Catchup Bundle
+ID_OF_NA_FROMFARANDWIDE_DAILY_ORB,Daily Teamwork
+ID_OF_NA_FROMFARANDWIDE_DAILY_POINTS,From Far and Wide: Daily Points
+ID_OF_NA_FROMFARANDWIDE_ALPHA,From Far and Wide: Alpha Flight
+ID_OF_NA_FROMFARANDWIDE_FREECLAIM,From Far and Wide: Free Claim
+ID_OF_NA_FROMFARANDWIDE_INTERSTITIAL,From Far and Wide: Treasure Trove
+ID_OF_NA_FROMFARANDWIDE_GENERIC,From Far and Wide: Special Bundle
+ID_OF_DE_FROMFARANDWIDE_STARTER,Get ahead in the <color=#fff568>From Far and Wide</color> Milestone and propel your Alliance to <color=#fff568>Crimson Gear Catalysts</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_DE_FROMFARANDWIDE_CATCHUP,Finish strong in the <color=#fff568>From Far and Wide</color> Milestone and propel your Alliance to <color=#fff568>Crimson Gear Catalysts</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_DE_FROMFARANDWIDE_DAILY_ORB,"Collect these event orbs for <color=#fff568>T2 Level 5 Ions, Gold and Training Materials</color>, as well as <color=#fff568>From Far and Wide</color> Milestone progress!"
+ID_OF_DE_FROMFARANDWIDE_DAILY_POINTS,Get ahead in the <color=#fff568>From Far and Wide</color> Leaderboards and earn <color=#fff568>Sasquatch Diamond Promotions</color> and <color=#f12603>Armory 19 Orbs</color>!
+ID_OF_DE_FROMFARANDWIDE_ALPHA,Power up your Alpha Flight characters and participate in Spotlight Raids to maximize your <color=#fff568>From Far and Wide</color> Milestone progress!
+ID_OF_DE_FROMFARANDWIDE_FREECLAIM,Come back daily for more <color=#fff568>From Far and Wide</color> progress!
+ID_OF_DE_FROMFARANDWIDE_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>From Far and Wide</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_FROMFARANDWIDE_GENERIC,Get ahead in the <color=#fff568>From Far and Wide</color> Milestone and propel your Alliance to <color=#fff568>Crimson Gear Catalysts</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_DE_PRIDE24_WEEK4STEP1,Claim this first step in the Love of Loki streak! The final step is Free and contains 300 T4 Ability Materials!
+ID_OF_DE_PRIDE24_WEEK4STEP2,Surge through this chain for 300 T4 Ability Materials in the final step!
+ID_OF_NA_PRIDE24_GOLDDPCISOBIG_W4,Brilliant Bundle
+ID_OF_NA_PRIDE24_DIAMONDGOLD_W4,Glorious Wealth
+ID_OF_NA_PRIDE24_CRIMMYSTIC_W4,Mystic Mania
+ID_OF_NA_PRIDE24_VKRGTRAIN_W4,Symbiote Supply
+ID_OF_NA_PRIDE24_GOLDNIGHTCRAWLER_W4,X-Treme Value
+ID_OF_NA_PRIDE24_DIAMONDTRAIN_W4,Shining Training
+ID_OF_NA_PRIDE24_CRIMSTATCAT_W4,Crimson Stats Cats Bundle
+ID_OF_NA_PRIDE24_CABALTRAINIONS_W4,Logan's Lieutenants
+ID_OF_NA_PRIDE24_TRAINPETERB_W4,Mayday's Muscles
+ID_OF_NA_PRIDE24_BKTOPUP_W4,Ye Olde Protector
+ID_OF_NA_PRIDE24_TRAINABM_W4,Training Evolution
+ID_OF_NA_PRIDE24_GOLDDPCISOSMALL_W4,Powerful Performance
+ID_OF_NA_PRIDE24_PANDATRAINUNIQUE_W4,Son of a Wolverine
+ID_OF_NA_PRIDE24_PROMOTRAIN_W4,Elite Bootcamp
+ID_OF_NA_PRIDE24_BRAWLERCRYSTALS_W4,Ion Insanity
+ID_OF_DE_PRIDE24_GOLDDPCISOBIG_W4,"Power up your roster with this special offer of Gold, Dark Diamond Credits and Ions!"
+ID_OF_DE_PRIDE24_DIAMONDGOLD_W4,Open more Diamond Orbs for Diamond Promotions for your roster with this special offer!
+ID_OF_DE_PRIDE24_CRIMMYSTIC_W4,Get this exclusive offer of <color=#f12603>Crimson Mystic Gear</color> for your next challenge!
+ID_OF_DE_PRIDE24_VKRGTRAIN_W4,Power up your Hive-Mind characters to power through Raids!
+ID_OF_DE_PRIDE24_GOLDNIGHTCRAWLER_W4,Don't miss this special offer of Gold and Nightcrawler!
+ID_OF_DE_PRIDE24_DIAMONDTRAIN_W4,Open more Diamond Orbs for Diamond Promotions for your roster with this special offer!
+ID_OF_DE_PRIDE24_CRIMSTATCAT_W4,Boost the stats of your roster with this deal of <color=#f12603>Crimson Gear Catalysts</color>.
+ID_OF_DE_PRIDE24_CABALTRAINIONS_W4,Rank up your Out Of Time and Cabal teams with this limited time offer!
+ID_OF_DE_PRIDE24_TRAINPETERB_W4,Buff up your roster with more Training Materials!
+ID_OF_DE_PRIDE24_BKTOPUP_W4,None shall pass up on this offer for <color=#fff568>Black Knight</color>!
+ID_OF_DE_PRIDE24_TRAINABM_W4,Level up your roster and unlock their highest tiered abilities with this limited time offer!
+ID_OF_DE_PRIDE24_GOLDDPCISOSMALL_W4,"Power up your roster with this special offer of Gold, Dark Diamond Credits and Ions!"
+ID_OF_DE_PRIDE24_PANDATRAINUNIQUE_W4,Rank up Daken and power through your War enemies with this special offer!
+ID_OF_DE_PRIDE24_PROMOTRAIN_W4,Get more promotions for your roster to take them to the next level!
+ID_OF_DE_PRIDE24_BRAWLERCRYSTALS_W4,Supercharge your Brawlers in all game modes with this limited time special!
