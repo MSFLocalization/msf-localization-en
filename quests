@@ -4601,12 +4601,12 @@ ID_QU_S1_TAKEFLIGHT,Earn Milestone Points from Guardian Offers
 ID_QU_S2_TAKEFLIGHT,Earn Milestone Points from Special Offers
 ID_QU_NA_ONGUARDFORTHEE,On Guard for Thee
 ID_QU_SD_ONGUARDFORTHEE,Recruit Guardian!
-ID_QU_LD_ONGUARDFORTHEE,"On Guard For Thee Milestone\nGain progress in this 7-day event by battling in Cosmic Crucible, collecting Am-Can Orb Fragments from Arena Battles, Free Claims and special Offers, and completing the Glorious And Free Web Milestone. \n\nEarn glorious rewards including Guardian shards, Crimson Tech Gear, and Diamond Orb Fragments. You'll also earn points towards the month-long Homeward Bound milestone by collecting Dog Tags and the Pickup Truck Keys.\n\nGlorious And Free Web Milestone\nSpend X Marks The Spot Event Energy and Incursion Energy, and be rewarded with even more Am-Can Orbs for additional progress in the On Guard For Thee Milestone. Keep an eye out for Free Claims containing Am-Can Orb Fragments every day!"
+ID_QU_LD_ONGUARDFORTHEE,"On Guard For Thee Milestone\nGain progress in this 7-day event by battling in Cosmic Crucible, collecting Am-Can Orb Fragments from Arena Battles, Free Claims and special Offers, and completing the Glorious And Free Web Milestone. \n\nEarn glorious rewards including Guardian shards, Crimson Tech Gear, and Diamond Orb Fragments. You'll also earn points towards the month-long Homeward Bound milestone by collecting Dog Tags and the Pickup Truck Keys.\n\nGlorious And Free Web Milestone\nSpend X Marks The Spot Event Energy and be rewarded with even more Am-Can Orbs for additional progress in the On Guard For Thee Milestone. Keep an eye out for Free Claims containing Am-Can Orb Fragments every day!"
 ID_QU_S1_ONGUARDFORTHEE,Battle in Cosmic Crucible
 ID_QU_S2_ONGUARDFORTHEE,Earn Am-Can Orb Fragments
 ID_QU_NA_GLORIOUSANDFREE,Glorious And Free
 ID_QU_SD_GLORIOUSANDFREE,Spend X Marks The Spot Event Energy and Incursion Energy
-ID_QU_LD_GLORIOUSANDFREE,"Spend X Marks The Spot Event Energy and Incursion Energy, and be rewarded with Am-Can Orb Fragments for progress in the On Guard For Thee Milestone."
+ID_QU_LD_GLORIOUSANDFREE,Spend X Marks The Spot Event Energy and be rewarded with Am-Can Orb Fragments for progress in the On Guard For Thee Milestone.
 ID_QU_S1_GLORIOUSANDFREE,Spend 1 X Marks The Spot Event Energy
 ID_QU_S2_GLORIOUSANDFREE,Spend 1 Incursion Energy
 ID_QU_NA_FROMFARANDWIDE,From Far and Wide

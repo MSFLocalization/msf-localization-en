@@ -8815,7 +8815,7 @@ ID_OF_DE_ONGUARDFORTHEE_MEGA_CATCHUP,Finish strong in the <color=#fff568>On Guar
 ID_OF_DE_ONGUARDFORTHEE_CATCHUP,Finish strong in the <color=#fff568>On Guard For Thee</color> milestone for <color=#f12603>Guardian Shards</color> and <color=#fff568>Crimson Tech Gear</color>!
 ID_OF_DE_ONGUARDFORTHEE_MID-EVENT_SPECIAL,"Claim this mega deal to get ahead in the <color=#fff568>On Guard For Thee</color> Milestone, and fast-forward your way to <color=#f12603>Guardian Shards</color> and <color=#fff568>Crimson Tech Gear</color>!"
 ID_OF_DE_ONGUARDFORTHEE_DAILY_ORB,Make progress in the <color=#fff568>On Guard For Thee</color> milestone by collecting more <color=#fff568>Am-Can Orb Fragments</color>!
-ID_OF_DE_ONGUARDFORTHEE_DAILY_INCURSION,Get your daily dose of Incursion Campaign Energy for progress in the <color=#fff568>Glorious And Free</color> web milestone and earn more <color=#fff568>Am-Can Orb Fragments</color>!
+ID_OF_DE_ONGUARDFORTHEE_DAILY_INCURSION,Get your daily dose of X Marks The Spot Event Energy for progress in the <color=#fff568>Glorious And Free</color> web milestone and earn more <color=#fff568>Am-Can Orb Fragments</color>!
 ID_OF_DE_ONGUARDFORTHEE_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>On Guard For Thee</color> progress!
 ID_OF_DE_ONGUARDFORTHEE_DAILY_INTERSTITAL,You just unlocked the highest discount deal for the <color=#fff568>On Guard For Thee</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_ONGUARDFORTHEE_FCF,Claim this exclusive free gift on us! Check back often to find more exclusive gifts! Don't miss out on the one-time offer after claiming this gift!
@@ -8854,13 +8854,13 @@ ID_OF_NA_SUMMERSOL24_ORBS_COMBO,Summer Solstice: Ultimate Orbs Combo
 ID_OF_NA_SUMMERSOL24_OOT_CABAL,Summer Solstice: Night and Day
 ID_OF_NA_SUMMERSOL24_DIAMOND_TRAINING_ABM,Summer Solstice: Level Up
 ID_OF_DE_SUMMERSOL24_DAILY_GOLD,All the <color=#ffda21>Gold</color> you need. <color=#ffda21>Greater than a {var1}x value</color>!
-ID_OF_DE_SUMMERSOL24_DAKEN_REDORIGIN,Strengthen <color=#ffda21>Daken</color> with his <color=#ffda21>Shards & Crimson Gear.</color>. <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_DAKEN_REDORIGIN,Strengthen <color=#ffda21>Daken</color> with his <color=#ffda21>Shards & Crimson Gear</color>. <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_SUMMERSOL24_PANDAPOOL_DAKEN_A18_TRAIN,Level Up and Train your Mercs now! <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_SUMMERSOL24_DAKEN_PANDAPOOL_CRIMSON,Claim these <color=#ffda21>Tier 19 Gears</color> for your Mercs now!.
 ID_OF_DE_SUMMERSOL24_TRAINING_DPC_T2ION,Train and power up your squad with this sweet deal. <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_SUMMERSOL24_TRAIN_ISO,Train and power up your squad with this sweet deal. <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_SUMMERSOL24_BLACKKNIGHT_VOIDKNIGHT_DPC,Don't miss out on this chance to Max Out your Two Knights. <color=#ffda21>A {var1}x value</color>!
-ID_OF_DE_SUMMERSOL24_HIVEMIND_E7,Exit Light. Enter Hive Mind. Max Out Your Stars & Diamonds. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_SUMMERSOL24_HIVEMIND_E7,Exit Light. Enter Hive-Mind. Max Out Your Stars & Diamonds. <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_SUMMERSOL24_BLACKKNIGHT_CRIMSON_T4ABM,Max out your <color=#ffda21>Black Knight</color> and equip him with the best gear. <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_SUMMERSOL24_BLACKKNIGHT_TEALUNIQUES,Max out your <color=#ffda21>Black Knight</color> and equip him with the best gear. <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_SUMMERSOL24_DIAMONDORBS,Need more <color=#ffda21>diamonds</color> for your roster? Come get it. <color=#ffda21>Greater than a {var1}x value</color>!
@@ -8878,7 +8878,7 @@ ID_OF_DE_SUMMERSOL24_ABM_TRAINING,A budget combo of <color=#ffda21>Ability Mater
 ID_OF_DE_SUMMERSOL24_IRONPATRIOT_CRIMSON,Max out <color=#ffda21>Iron Patriot</color> and equip him with the finest gear! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_SUMMERSOL24_IRONPATRIOT_LEADER_GT18,"Max out <color=#ffda21>Iron Patriot & The Leader</color>, and equip them with the finest gear! <color=#ffda21>A {var1}x value</color>!"
 ID_OF_DE_SUMMERSOL24_NAMOR_CRIMSON,Max out <color=#ffda21>Namor</color> and equip him with the finest gear! <color=#ffda21>A {var1}x value</color>!
-ID_OF_DE_SUMMERSOL24_CRIMSON_CAT,Get this combo of <color=#ffda21>Crimson Catalyst</color> equipment now!
+ID_OF_DE_SUMMERSOL24_CRIMSON_CAT,Get this combo of <color=#ffda21>Crimson Catalysts</color> now!
 ID_OF_DE_SUMMERSOL24_BLACKCAT_CRIMSON,Max out <color=#ffda21>Black Cat</color> and equip her with the finest gear! <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_SUMMERSOL24_SECRETDEFENDERS_A19_DPC,Max out <color=#ffda21>Secret Defenders</color> and equip them with the finest gear! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_SUMMERSOL24_T2ISO_ABM,A budget combo of <color=#ffda21>Basic T2 Iso-8 Orbs & T4 Ability Material</color>!
