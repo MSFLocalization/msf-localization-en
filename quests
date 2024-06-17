@@ -4612,3 +4612,6 @@ ID_QU_S2_GLORIOUSANDFREE,Spend 1 Incursion Energy
 ID_QU_NA_FROMFARANDWIDE,From Far and Wide
 ID_QU_SD_FROMFARANDWIDE,"Battle in Raids, Collect Event Orbs"
 ID_QU_LD_FROMFARANDWIDE,"To earn points, Battle in Raids, collect Milestone Points on Spotlight Raids nodes and collect Allied Supply V Orbs from Free Claims. \nEarn Armory 18 Orbs, T2 Level 5 Ions, Crimson Gear Catalysts, and Homeward Bound progress!\n\nLeaderboard\nCompete on the Leaderboard for Sasquatch Diamond Promotions, Mega Gold Orbs and Armory 19 Orbs!"
+ID_QU_S1_FROMFARANDWIDE,Earn Allied Supply V Orb Fragments from Free Claims and special Offers
+ID_QU_S2_FROMFARANDWIDE,Battle in Raids
+ID_QU_S3_FROMFARANDWIDE,Earn Milestone Points from Spotlight Raids nodes and special Offers
