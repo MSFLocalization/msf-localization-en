@@ -3104,7 +3104,19 @@ ID_MOTD_DE_GLORIOUSANDFREE_ANNOUNCE,Spend X Marks The Spot Event Energy and reap
 ID_MOTD_NA_WEEKEND_PUSH1,Weekend Free Claim!
 ID_MOTD_DE_WEEKEND_PUSH1,Tap now and get exclusive calendar reward!
 ID_MOTD_DE_WEEKEND_PUSH2,Last chance for today's free reward!
+ID_MOTD_NA_TAKEFLIGHTSASQUATCH_ANNOUNCE,Live: Take Flight: Sasquatch
+ID_MOTD_DE_TAKEFLIGHTSASQUATCH_ANNOUNCE,Earn Alpha Flight Shards
+ID_MOTD_NA_TAKEFLIGHTSASQUATCH_ENDING,Ending Soon: Take Flight: Sasquatch
+ID_MOTD_DE_TAKEFLIGHTSASQUATCH_ENDING,Don't miss out on bonus Alpha Flight Shards!
 ID_MOTD_NA_FROMFARANDWIDE_ANNOUNCE,LIVE: From Far and Wide
 ID_MOTD_DE_FROMFARANDWIDE_ANNOUNCE,Earn Dog Tags and Sasquatch Diamonds!
 ID_MOTD_NA_FROMFARANDWIDE_ENDING,Ending Soon: From Far and Wide
 ID_MOTD_DE_FROMFARANDWIDE_ENDING,Earn Dog Tags and Sasquatch Diamonds!
+ID_MOTD_NA_WILDERNESSEXPEDITION_ANNOUNCE,LIVE: Wilderness Expedition
+ID_MOTD_DE_WILDERNESSEXPEDITION_ANNOUNCE,Earn marvelous July rewards!
+ID_MOTD_NA_WILDERNESSEXPEDITION_ENDING,Ending Soon: Wilderness Expedition
+ID_MOTD_DE_WILDERNESSEXPEDITION_ENDING,Earn Teal Gear before the event ends!
+ID_MOTD_NA_MAPPINGTHEWILDERNESS_ANNOUNCE,LIVE: Mapping the Wilderness
+ID_MOTD_DE_MAPPINGTHEWILDERNESS_ANNOUNCE,Earn Lab Supplies and a chance at Crimson Mystic Gear
+ID_MOTD_NA_MAPPINGTHEWILDERNESS_ENDING,Ending Soon: Mapping the Wilderness
+ID_MOTD_DE_MAPPINGTHEWILDERNESS_ENDING,Don't miss out on Lab Supplies and a chance at Crimson Mystic Gear!

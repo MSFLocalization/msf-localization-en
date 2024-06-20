@@ -9095,6 +9095,13 @@ ID_ME_NA_ONGUARDFORTHEE_ANNOUNCE,LIVE: On Guard for Thee
 ID_ME_NA_ONGUARDFORTHEE_ENDING,ENDING: On Guard for Thee
 ID_ME_DE_ONGUARDFORTHEE_ENDING,Don't miss out on unlocking Guardian!
 ID_ME_BO_ONGUARDFORTHEE_ENDING,"Commander,\n\nThe On Guard For Thee Event <color=#fff568>ends soon</color>. Continue earning Guardian Shards and Crimson Tech Gear!\n\nGood luck, Commander!"
+ID_ME_NA_TAKEFLIGHTSASQUATCH_TEASER,Coming Soon: Take Flight: Sasquatch
+ID_ME_DE_TAKEFLIGHTSASQUATCH_CORE,Earn Alpha Flight Shards
+ID_ME_BO_TAKEFLIGHTSASQUATCH_CORE,"Gain progress in this special event by collecting Take Flight: Sasquatch Milestone Points found in special Sasquatch offers.\n\nRewards include Northstar and Sasquatch shards, Crimson Gear, and Diamond upgrades for Wolverine."
+ID_ME_NA_TAKEFLIGHTSASQUATCH_ANNOUNCE,Live: Take Flight: Sasquatch
+ID_ME_NA_TAKEFLIGHTSASQUATCH_ENDING,Ending Soon: Take Flight: Sasquatch
+ID_ME_DE_TAKEFLIGHTSASQUATCH_ENDING,Don't miss out on bonus Alpha Flight Shards!
+ID_ME_BO_TAKEFLIGHTSASQUATCH_ENDING,"Commander,\n\nThe <color=#fff568>Take Flight: Sasquatch Milestone</color> event <color=#fff568>ends soon</color>. Continue making progress to earn <color=#fff568>Alpha Flight shards, Crimson Gear, and Diamond Upgrades for Wolverine</color>! \n\nDon't miss out on this opportunity, Commander!"
 ID_ME_NA_STRIKEPASS62_ANNOUNCE,S.T.R.I.K.E. Pass: Season 62
 ID_ME_DE_STRIKEPASS62_ANNOUNCE,Earn Daken shards!
 ID_ME_BO_STRIKEPASS62_ANNOUNCE,"Commander,\n\n<color=#fff568>S.T.R.I.K.E. Pass: Season 62 is live!</color>\n\nFeatured Character Shards: <color=#fff568>Daken</color>\n<color=#fff568>How it Works</color>\n- Certain Daily Objectives reward S.T.R.I.K.E. Tokens\n- Earn S.T.R.I.K.E. Tokens to hit Season-long milestone rewards\n- You can also spend Power Cores to immediately reach the next S.T.R.I.K.E. Level\n- Your S.T.R.I.K.E. Level resets each Season\n\n<color=#fff568>Reward Tiers</color>\n- Commander Level determines your S.T.R.I.K.E. Pass Tier & Rewards\n- S.T.R.I.K.E. I: Commander Levels 10-49\n- S.T.R.I.K.E. II: Commander Levels 50-79\n- S.T.R.I.K.E. III: Commander Levels 80+\n- Your Commander Level at the START of the season determines which S.T.R.I.K.E. Pass Tier you get for the duration of the Season\n\n<color=#fff568>Premium S.T.R.I.K.E. Pass</color>\nUpgrade to the <color=#fff568>Premium S.T.R.I.K.E. Pass</color> to earn additional rewards for reaching each S.T.R.I.K.E. Level."
@@ -9111,3 +9118,19 @@ ID_ME_BO_FROMFARANDWIDE_ENDING,"Commander,\n\nThe <color=#fff568>From Far and Wi
 ID_ME_NA_WEEKENDFREECLAIM,Weekend Surprise
 ID_ME_DE_WEEKENDFREECLAIM,Log in Saturday for a special 2-day treat!
 ID_ME_BO_WEEKENDFREECLAIM,"Commander,\n\nEnjoy a <color=#fff568>weekend</color> burst of <color=#fff568>rewards</color> just for logging in!\n\nWhen you log in Saturday, you'll unlock a special 2-day calendar to enjoy Saturday and Sunday.\n\nDon't forget to login to enjoy this treat!"
+ID_ME_NA_WILDERNESSEXPEDITION_TEASER,Coming Soon: Wilderness Expedition
+ID_ME_DE_WILDERNESSEXPEDITION_TEASER,Earn marvelous July rewards!
+ID_ME_BO_WILDERNESSEXPEDITION_TEASER,"Commander,\n\nTransform your roster with the upcoming <color=#fff568>Wilderness Expedition</color> Event!\n\nParticipate in select July events to earn spectacular rewards:\n\n- Diamond Orbs\n- Augmented Gear\n- Gold\n- T2 Iso-8 Orbs\n- Augmented Catalyst Parts\n\nMore details are on the way, so be on the lookout!"
+ID_ME_NA_WILDERNESSEXPEDITION_ANNOUNCE,LIVE: Wilderness Expedition
+ID_ME_DE_WILDERNESSEXPEDITION_ANNOUNCE,Earn marvelous rewards throughout July!
+ID_ME_BO_WILDERNESSEXPEDITION_ANNOUNCE,"Commander,\n\nEarn marvelous rewards by participating in July events:\n\n<color=#fff568>Events</color>\nThroughout the month of July there will be separate milestone events that earn points toward the Wilderness Expedition Event. The first is live now!\n\n<color=#fff568>Points</color>\nEarn points by collecting <color=#fff568>Lab Supplies</color> and <color=#fff568>Map Fragment #1,Map Fragment #2,and Map Fragment #3</color> from July events. You can find more Lab Supplies in Daily Free Claims on our website.\n\n<color=#fff568>Leaderboard</color>\nCompete on the Leaderboard for exclusive <color=#fff568>Diamond Orbs and Diamond Champions II Orbs</color>, T2 Level 5 Ions and Armory 18 Orbs!\n\nGood luck, Commander!"
+ID_ME_NA_WILDERNESSEXPEDITION_ENDING,Ending Soon: Wilderness Expedition
+ID_ME_DE_WILDERNESSEXPEDITION_ENDING,3 days left to earn rewards!
+ID_ME_BO_WILDERNESSEXPEDITION_ENDING,"Commander,\n\nThe <color=#fff568>Wilderness Expedition</color> Event ends in <color=#fff568>3 days</color>. Continue earning progress toward the milestone before it's too late!\n\nGood luck, Commander!"
+ID_ME_NA_MAPPINGTHEWILDERNESS_TEASER,Coming Soon: Mapping the Wilderness
+ID_ME_DE_MAPPINGTHEWILDERNESS_CORE,Earn Lab Supplies and a chance at Crimson Mystic Gear
+ID_ME_BO_MAPPINGTHEWILDERNESS_CORE,"Commander,\n\nEarn Mystic Gear in this exciting event!\n\n<color=#fff568>Mapping the Wilderness Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by earning Wilderness Orb fragments from S.W.O.R.D. Satellite Rewards, battling through Raids with Sasquatch, Guardian, or Northstar at 5+ yellow star, completing the Scientific Breakthrough Web Milestone, 4th of July Calendar, and daily web Free Claims. Earn fantastic rewards including <color=#fff568> Dark Promotion Credits, Elite 7 Credits, and Mystic gear</color>. You'll also earn points towards the month-long Wilderness Expedition milestone by collecting Lab Supplies and the valuable Map Fragment #1.\n\n<color=#fff568>Wilderness Orb</color>\nEarned from S.W.O.R.D. Satellite Milestones  4th of July Calendar, and daily web Free Claims, and select offers.\n\n<color=#fff568>Scientific Breakthrough Web Milestone</color>\nSpend Incursion Energy, or battle in Raids to earn Wilderness Orb Fragments and Points for Mapping the Wilderness Milestone progress! Keep an eye out for Free Claims containing milestone points every day!\n\nGood luck, Commander!"
+ID_ME_NA_MAPPINGTHEWILDERNESS_ANNOUNCE,LIVE: Mapping the Wilderness
+ID_ME_NA_MAPPINGTHEWILDERNESS_ENDING,Ending Soon: Mapping the Wilderness
+ID_ME_DE_MAPPINGTHEWILDERNESS_ENDING,Don't miss out on Lab Supplies and a chance at Crimson Mystic Gear!
+ID_ME_BO_MAPPINGTHEWILDERNESS_ENDING,"Commander,\n\nThe <color=#fff568>Mapping the Wilderness Milestone</color> event <color=#fff568>ends soon</color>. Continue making progress to earn <color=#fff568>Dark Diamond Credits, Diamond Orb Fragments, and Crimson Skill Gear</color>! \n\nDon't miss out on this opportunity, Commander!"

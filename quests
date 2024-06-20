@@ -4609,9 +4609,40 @@ ID_QU_SD_GLORIOUSANDFREE,Spend X Marks The Spot Event Energy and Incursion Energ
 ID_QU_LD_GLORIOUSANDFREE,Spend X Marks The Spot Event Energy and be rewarded with Am-Can Orb Fragments for progress in the On Guard For Thee Milestone.
 ID_QU_S1_GLORIOUSANDFREE,Spend 1 X Marks The Spot Event Energy
 ID_QU_S2_GLORIOUSANDFREE,Spend 1 Incursion Energy
+ID_QU_NA_TAKEFLIGHTSASQUATCH,Take Flight: Sasquatch
+ID_QU_SD_TAKEFLIGHTSASQUATCH,Earn Alpha Flight Shards
+ID_QU_SM_TAKEFLIGHTSASQUATCH,Earn points from special offers
+ID_QU_LD_TAKEFLIGHTSASQUATCH,"Gain progress in this special event by collecting Take Flight: Sasquatch Milestone Points found in special Sasquatch offers.\n\nRewards include Northstar and Sasquatch shards, Crimson Gear, and Diamond upgrades for Wolverine."
+ID_QU_S1_TAKEFLIGHTSASQUATCH,Earn Milestone Points from Sasquatch Offers
 ID_QU_NA_FROMFARANDWIDE,From Far and Wide
 ID_QU_SD_FROMFARANDWIDE,"Battle in Raids, Collect Event Orbs"
 ID_QU_LD_FROMFARANDWIDE,"To earn points, Battle in Raids, collect Milestone Points on Spotlight Raids nodes and collect Allied Supply V Orbs from Free Claims. \nEarn Armory 18 Orbs, T2 Level 5 Ions, Crimson Gear Catalysts, and Homeward Bound progress!\n\nLeaderboard\nCompete on the Leaderboard for Sasquatch Diamond Promotions, Mega Gold Orbs and Armory 19 Orbs!"
 ID_QU_S1_FROMFARANDWIDE,Earn Allied Supply V Orb Fragments from Free Claims and special Offers
 ID_QU_S2_FROMFARANDWIDE,Battle in Raids
 ID_QU_S3_FROMFARANDWIDE,Earn Milestone Points from Spotlight Raids nodes and special Offers
+ID_QU_NA_WILDERNESSEXPEDITION,Wilderness Expedition
+ID_QU_SD_WILDERNESSEXPEDITION,Participate in July Events
+ID_QU_LM_WILDERNESSEXPEDITION,Participate in various events throughout the month of July to earn milestone progress.
+ID_QU_S1_WILDERNESSEXPEDITION,Collect Lab Supplies
+ID_QU_S2_WILDERNESSEXPEDITION,Collect 1 Map Fragment #1
+ID_QU_S3_WILDERNESSEXPEDITION,Collect 1 Map Fragment #2
+ID_QU_S4_WILDERNESSEXPEDITION,Collect 1 Map Fragment #3
+ID_QU_NA_MAPPINGTHEWILDERNESS,Mapping the Wilderness
+ID_QU_SD_MAPPINGTHEWILDERNESS,Earn Wilderness Orbs
+ID_QU_LD_MAPPINGTHEWILDERNESS,"Mapping the Wilderness Milestone\nGain progress in this 7-day event by earning Wilderness Orb fragments from S.W.O.R.D. Satellite Rewards, battling through Raids with Sasquatch, Guardian, or Northstar at 5+ yellow star, completing the Scientific Breakthrough Web Milestone, 4th of July Calendar, and daily web Free Claims. Earn fantastic rewards including  Dark Promotion Credits, Elite 7 Credits, and Mystic gear. You'll also earn points towards the month-long Wilderness Expedition milestone by collecting Lab Supplies and the valuable Map Fragment #1.\n\nWilderness Orb\nEarned from S.W.O.R.D. Satellite Milestones  4th of July Calendar, and daily web Free Claims, and select offers.\n\nScientific Breakthrough Web Milestone\nSpend Incursion Energy, or battle in Raids to earn Wilderness Orb Fragments and Points for Mapping the Wilderness Milestone progress! Keep an eye out for Free Claims containing milestone points every day!"
+ID_QU_S1_MAPPINGTHEWILDERNESS,Earn 1 Wilderness Orb Fragment
+ID_QU_S2_MAPPINGTHEWILDERNESS,Play 1 Raid Battle with Alpha Flight Team
+ID_QU_S3_MAPPINGTHEWILDERNESS,Play 1 Raid Battle with Sasquatch at 5 Yellow Star
+ID_QU_S4_MAPPINGTHEWILDERNESS,Play 1 Raid Battle with Sasquatch at 6 Yellow Star
+ID_QU_S5_MAPPINGTHEWILDERNESS,Play 1 Raid Battle with Sasquatch at 7 Yellow Star
+ID_QU_S6_MAPPINGTHEWILDERNESS,Play 1 Raid Battle with Guardian at 5 Yellow Star
+ID_QU_S7_MAPPINGTHEWILDERNESS,Play 1 Raid Battle with Guardian at 6 Yellow Star
+ID_QU_S8_MAPPINGTHEWILDERNESS,Play 1 Raid Battle with Guardian at 7 Yellow Star
+ID_QU_S9_MAPPINGTHEWILDERNESS,Play 1 Raid Battle with Northstar at 5 Yellow Star
+ID_QU_S10_MAPPINGTHEWILDERNESS,Play 1 Raid Battle with Northstar at 6 Yellow Star
+ID_QU_S11_MAPPINGTHEWILDERNESS,Play 1 Raid Battle with Northstar at 7 Yellow Star
+ID_QU_NA_SCIENTIFICBREAKTHROUGH,Scientific Breakthrough
+ID_QU_SD_SCIENTIFICBREAKTHROUGH,Raid and Spend Incursion Campaign Energy
+ID_QU_LD_SCIENTIFICBREAKTHROUGH,"Raid and Spend Incursion Campaign Energy to complete this 7 day milestone that rewards Lab Supplies, Wilderness Orb Fragments, and bonus Mapping The Wilderness progress!"
+ID_QU_S1_SCIENTIFICBREAKTHROUGH,Play 1 Raid Battle
+ID_QU_S2_SCIENTIFICBREAKTHROUGH,Spend 1 Incursion Campaign Energy
