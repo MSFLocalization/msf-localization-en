@@ -4605,7 +4605,7 @@ ID_QU_LD_ONGUARDFORTHEE,"On Guard For Thee Milestone\nGain progress in this 7-da
 ID_QU_S1_ONGUARDFORTHEE,Battle in Cosmic Crucible
 ID_QU_S2_ONGUARDFORTHEE,Earn Am-Can Orb Fragments
 ID_QU_NA_GLORIOUSANDFREE,Glorious And Free
-ID_QU_SD_GLORIOUSANDFREE,Spend X Marks The Spot Event Energy and Incursion Energy
+ID_QU_SD_GLORIOUSANDFREE,Spend X Marks The Spot Event Energy
 ID_QU_LD_GLORIOUSANDFREE,Spend X Marks The Spot Event Energy and be rewarded with Am-Can Orb Fragments for progress in the On Guard For Thee Milestone.
 ID_QU_S1_GLORIOUSANDFREE,Spend 1 X Marks The Spot Event Energy
 ID_QU_S2_GLORIOUSANDFREE,Spend 1 Incursion Energy
@@ -4646,3 +4646,24 @@ ID_QU_SD_SCIENTIFICBREAKTHROUGH,Raid and Spend Incursion Campaign Energy
 ID_QU_LD_SCIENTIFICBREAKTHROUGH,"Raid and Spend Incursion Campaign Energy to complete this 7 day milestone that rewards Lab Supplies, Wilderness Orb Fragments, and bonus Mapping The Wilderness progress!"
 ID_QU_S1_SCIENTIFICBREAKTHROUGH,Play 1 Raid Battle
 ID_QU_S2_SCIENTIFICBREAKTHROUGH,Spend 1 Incursion Campaign Energy
+ID_QU_NA_SPLASH_INDEPENDANCEASSEMBLE,Independance Assemble
+ID_QU_SD_SPLASH_INDEPENDANCEASSEMBLE,Use Avengers in Blitz
+ID_QU_LM_SPLASH_INDEPENDANCEASSEMBLE,Earn points by using Avenger characters in Blitz Battles. Earn more points if your Avenger characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_INDEPENDANCEASSEMBLE,Use Avenger Characters in Blitz
+ID_QU_S1_SPLASH_INDEPENDANCEASSEMBLE,Win Blitz with a 3-star or higher Avenger Character
+ID_QU_S2_SPLASH_INDEPENDANCEASSEMBLE,Win Blitz with a 5-star or higher Avenger Character
+ID_QU_S3_SPLASH_INDEPENDANCEASSEMBLE,Win Blitz with a 7-star Avenger Character
+ID_QU_NA_SPLASH_SUPERIORCAMP,Superior Camp
+ID_QU_SD_SPLASH_SUPERIORCAMP,Use Superior Six in Blitz
+ID_QU_LM_SPLASH_SUPERIORCAMP,Earn points by using Superior Six characters in Blitz Battles. Earn more points if your Superior Six characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_SUPERIORCAMP,Use Superior Six Characters in Blitz
+ID_QU_S1_SPLASH_SUPERIORCAMP,Win Blitz with a 3-star or higher Superior Six Character
+ID_QU_S2_SPLASH_SUPERIORCAMP,Win Blitz with a 5-star or higher Superior Six Character
+ID_QU_S3_SPLASH_SUPERIORCAMP,Win Blitz with a 7-star Superior Six Character
+ID_QU_NA_SPLASH_XTREMEHEAT,X-treme Heat
+ID_QU_SD_SPLASH_XTREMEHEAT,Use X-Treme X-Men in Blitz
+ID_QU_LM_SPLASH_XTREMEHEAT,Earn points by using X-Treme X-Men characters in Blitz Battles. Earn more points if your X-Treme X-Men characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_XTREMEHEAT,Use X-Treme X-Men Characters in Blitz
+ID_QU_S1_SPLASH_XTREMEHEAT,Win Blitz with a 3-star or higher X-Treme X-Men Character
+ID_QU_S2_SPLASH_XTREMEHEAT,Win Blitz with a 5-star or higher X-Treme X-Men Character
+ID_QU_S3_SPLASH_XTREMEHEAT,Win Blitz with a 7-star X-Treme X-Men Character

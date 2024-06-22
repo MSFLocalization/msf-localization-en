@@ -9134,3 +9134,12 @@ ID_ME_NA_MAPPINGTHEWILDERNESS_ANNOUNCE,LIVE: Mapping the Wilderness
 ID_ME_NA_MAPPINGTHEWILDERNESS_ENDING,Ending Soon: Mapping the Wilderness
 ID_ME_DE_MAPPINGTHEWILDERNESS_ENDING,Don't miss out on Lab Supplies and a chance at Crimson Mystic Gear!
 ID_ME_BO_MAPPINGTHEWILDERNESS_ENDING,"Commander,\n\nThe <color=#fff568>Mapping the Wilderness Milestone</color> event <color=#fff568>ends soon</color>. Continue making progress to earn <color=#fff568>Dark Diamond Credits, Diamond Orb Fragments, and Crimson Skill Gear</color>! \n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_SPLASH_INDEPENDANCEASSEMBLE,LIVE: Independance Assemble
+ID_ME_DE_SPLASH_INDEPENDANCEASSEMBLE,Earn Lab Supplies and Iso-8!
+ID_ME_BO_SPLASH_INDEPENDANCEASSEMBLE,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Iso-8</color> and <color=#fff568>Lab Supplies</color> for the Wilderness Expedition!\n\n<color=#fff568>Featured Trait</color>:\nAvenger\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_SUPERIORCAMP,LIVE: Superior Camp
+ID_ME_DE_SPLASH_SUPERIORCAMP,Earn Lab Supplies and Gear!
+ID_ME_BO_SPLASH_SUPERIORCAMP,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Gear</color> and <color=#fff568>Lab Supplies</color> for the Wilderness Expedition!\n\n<color=#fff568>Featured Trait</color>:\nSuperior Six\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_XTREMEHEAT,LIVE: X-treme Heat
+ID_ME_DE_SPLASH_XTREMEHEAT,Earn Lab Supplies and Ability Materials!
+ID_ME_BO_SPLASH_XTREMEHEAT,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Ability Materials</color> and <color=#fff568>Lab Supplies</color> for the Wilderness Expedition!\n\n<color=#fff568>Featured Trait</color>:\nX-Treme X-Men\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
