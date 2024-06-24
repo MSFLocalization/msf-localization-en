@@ -7607,15 +7607,15 @@ ID_ME_BO_HW23_POLLWINNER_ZIM,"Commander,\n\nThe Trick or Treat Social Poll on th
 ID_ME_NA_HW23_POLLWINNER_VAHL,Trick or Treat Social Poll Winner
 ID_ME_DE_HW23_POLLWINNER_VAHL,The community has spoken!
 ID_ME_BO_HW23_POLLWINNER_VAHL,"Commander,\n\nThe Trick or Treat Social Poll on the <color=#fff568>MARVEL Strike Force Facebook</color> page has concluded, and the winner is...\n\n<color=#fff568>Vahl</color>\n\nClaim your Vahl shards below and continue celebrating spooky season by recruiting Juggernaut (Zombie) from the <color=#fff568>Unstoppable Undead event</color>!"
-ID_ME_NA_SWORDSATELLITE_TEASER,Coming Soon: S.W.O.R.D. Satellite
-ID_ME_DE_SWORDSATELLITE_TEASER,Earn exclusive Diamond Dawn Orbs!
-ID_ME_BO_SWORDSATELLITE_TEASER,"Commander,\n\nIn just a few days you'll be able to challenge your strongest teams in the <color=#ffda21>S.W.O.R.D. Satellite</color>. \n\nTraverse the Satellite's 40 floors, with boss challenges every 5 floors. Complete as many floors as possible to unlock milestones and compete for leaderboard rewards, which include <color=#fff568>Diamond Dawn Orbs, Teal Epic Orbs</color>, Teal Elite Orbs, and more.\n\nPrepare your roster, Commander!\n"
-ID_ME_NA_SWORDSATELLITE_LIVE,LIVE: S.W.O.R.D. Satellite
-ID_ME_DE_SWORDSATELLITE_LIVE,Earn exclusive Diamond Dawn Orbs!
-ID_ME_BO_SWORDSATELLITE_LIVE,"Commander,\n\nPower up your roster to traverse the <color=#ffda21>S.W.O.R.D. Satellite</color> and earn Diamond Dawn Orbs and more!\n\nClimb up to 40 floors. Every 5th floor has a boss that will challenge even your toughest teams, and each floor is even harder than the last.\n\nProgress as far as you can to unlock milestones and compete for leaderboard rewards, which include <color=#fff568>Diamond Dawn Orbs, Teal Epic Orbs</color>, Teal Elite Orbs, and more.\n\nTake on the Satellite now!\n"
-ID_ME_NA_SWORDSATELLITE_ENDING,Ending Soon: S.W.O.R.D. Satellite
-ID_ME_DE_SWORDSATELLITE_ENDING,Earn Diamond Dawn Orbs before it's too late!
-ID_ME_BO_SWORDSATELLITE_ENDING,"Commander,\n\nThe S.W.O.R.D. Satellite Event ends in 2 days. Continue earning rewards before it ends!\n\nGood luck, Commander!"
+ID_ME_NA_PREVIEW_SWORDSATELLITE,Coming Soon: S.W.O.R.D. Satellite
+ID_ME_DE_PREVIEW_SWORDSATELLITE,S.W.O.R.D. Satellite
+ID_ME_BO_PREVIEW_SWORDSATELLITE,"Commander,\n\nThe <color=#fff568>S.W.O.R.D. Satellite</color> Event is coming soon! Prepare your toughest allies so they can battle their way up through 10 new challenging floors!"
+ID_ME_NA_LIVE_SWORDSATELLITE,LIVE: S.W.O.R.D. Satellite
+ID_ME_DE_LIVE_SWORDSATELLITE,"Battle through 50 floors, including 10 new floors and earn Crimson Gear!"
+ID_ME_BO_LIVE_SWORDSATELLITE,"Commander,\n\nThe <color=#fff568>S.W.O.R.D. Satellite</color> Event is live! Participate in the <color=#fff568>S.W.O.R.D. Satellite</color> Event to earn Crimson Gear.\n\nThis event has 50 total floors including 10 new challenging floors.\n\nGet ready, Commander!"
+ID_ME_NA_ENDING_SWORDSATELLITE,ENDING: S.W.O.R.D. Satellite
+ID_ME_DE_ENDING_SWORDSATELLITE,2 Days Left!
+ID_ME_BO_ENDING_SWORDSATELLITE,"Commander,\n\nS.W.O.R.D. Satellite Event ends in 2 days. Continue earning rewards before this Event ends!\n\nGood luck, Commander!"
 ID_ME_NA_WAKANDANWARRIORS_ANNOUNCE,LIVE: Wakandan Warriors
 ID_ME_DE_WAKANDANWARRIORS_ANNOUNCE,Battle in Cosmic Crucible for Training Modules!
 ID_ME_BO_WAKANDANWARRIORS_ANNOUNCE,"Commander,\n\nCollaborate with your alliance and battle in Cosmic Crucible in this 3-day milestone to earn Training Modules and Reverse-Engineer progress.\n\nGood luck, Commander!"
