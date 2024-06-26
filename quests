@@ -4646,13 +4646,13 @@ ID_QU_SD_SCIENTIFICBREAKTHROUGH,Raid and Spend Incursion Campaign Energy
 ID_QU_LD_SCIENTIFICBREAKTHROUGH,"Raid and Spend Incursion Campaign Energy to complete this 7 day milestone that rewards Lab Supplies, Wilderness Orb Fragments, and bonus Mapping The Wilderness progress!"
 ID_QU_S1_SCIENTIFICBREAKTHROUGH,Play 1 Raid Battle
 ID_QU_S2_SCIENTIFICBREAKTHROUGH,Spend 1 Incursion Campaign Energy
-ID_QU_NA_SPLASH_INDEPENDANCEASSEMBLE,Independance Assemble
-ID_QU_SD_SPLASH_INDEPENDANCEASSEMBLE,Use Avengers in Blitz
-ID_QU_LM_SPLASH_INDEPENDANCEASSEMBLE,Earn points by using Avenger characters in Blitz Battles. Earn more points if your Avenger characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
-ID_QU_SC_SPLASH_INDEPENDANCEASSEMBLE,Use Avenger Characters in Blitz
-ID_QU_S1_SPLASH_INDEPENDANCEASSEMBLE,Win Blitz with a 3-star or higher Avenger Character
-ID_QU_S2_SPLASH_INDEPENDANCEASSEMBLE,Win Blitz with a 5-star or higher Avenger Character
-ID_QU_S3_SPLASH_INDEPENDANCEASSEMBLE,Win Blitz with a 7-star Avenger Character
+ID_QU_NA_SPLASH_INDEPENDENCEASSEMBLE,Independence Assemble
+ID_QU_SD_SPLASH_INDEPENDENCEASSEMBLE,Use Avengers in Blitz
+ID_QU_LM_SPLASH_INDEPENDENCEASSEMBLE,Earn points by using Avenger characters in Blitz Battles. Earn more points if your Avenger characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_INDEPENDENCEASSEMBLE,Use Avenger Characters in Blitz
+ID_QU_S1_SPLASH_INDEPENDENCEASSEMBLE,Win Blitz with a 3-star or higher Avenger Character
+ID_QU_S2_SPLASH_INDEPENDENCEASSEMBLE,Win Blitz with a 5-star or higher Avenger Character
+ID_QU_S3_SPLASH_INDEPENDENCEASSEMBLE,Win Blitz with a 7-star Avenger Character
 ID_QU_NA_SPLASH_SUPERIORCAMP,Superior Camp
 ID_QU_SD_SPLASH_SUPERIORCAMP,Use Superior Six in Blitz
 ID_QU_LM_SPLASH_SUPERIORCAMP,Earn points by using Superior Six characters in Blitz Battles. Earn more points if your Superior Six characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
