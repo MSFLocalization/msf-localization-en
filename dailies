@@ -345,6 +345,12 @@ ID_LOGIN_NA_OMLCNTDWN_CABALCAL_CAL,Cabal
 ID_LOGIN_DE_OMLCNTDWN_CALSHARD_CAL,Login daily for high value shards!
 ID_LOGIN_NA_OMLCNTDWN_OOTCAL_CAL,Out Of Time
 ID_LOGIN_DE_OMLCNTDWN_CALGEAR_CAL,Login daily for high value Crimson Gear!
+ID_LOGIN_NA_JULY4TH_REDCALENDAR_CAL,Red
+ID_LOGIN_DE_JULY4TH_REDCALENDAR_CAL,Login daily for high value promotional materials and Crimson Gear to celebrate!
+ID_LOGIN_NA_JULY4TH_WHITECALENDAR_CAL,White
+ID_LOGIN_DE_JULY4TH_WHITECALENDAR_CAL,Login daily for high value promotional materials and Gold to celebrate!
+ID_LOGIN_NA_JULY4TH_BLUECALENDAR_CAL,Blue
+ID_LOGIN_DE_JULY4TH_BLUECALENDAR_CAL,Login daily for high value Ions and Armory 18 orbs to celebrate!
 ID_LOGIN_VALUABLELESSONS_NA,Valuable Lessons
 ID_LOGIN_VALUABLELESSONS_DE,Log in every day to earn wonderful rewards in celebration of Valuable Lessons event!
 ID_LOGIN_CATALYSTBLAST_NA,Catalyst Blast
@@ -760,3 +766,7 @@ ID_LOGIN_NA_JULY4TH2024,4th of July 2024: Calendar
 ID_LOGIN_DE_JULY4TH2024,Celebrate Independence for all with these iconic Captain America heroes!
 ID_LOGIN_NA_JULY_E1_APCAL_CAL,Alpha Flight: Calendar
 ID_LOGIN_DE_JULY_E1_APCAL_CAL,Login daily for high value Alpha Flight Shards!
+ID_LOGIN_NA_SUMMER24,Summer Celebration!
+ID_LOGIN_DE_SUMMER24,Celebrate summer with Captain America!
+ID_LOGIN_NA_GENERAL_REACTIVATION,Welcome Back
+ID_LOGIN_DE_GENERAL_REACTIVATION,Unlock glorious resources with this calendar!
