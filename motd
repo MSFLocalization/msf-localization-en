@@ -3121,7 +3121,12 @@ ID_MOTD_DE_MAPPINGTHEWILDERNESS_ANNOUNCE,Earn Lab Supplies and a chance at Crims
 ID_MOTD_NA_MAPPINGTHEWILDERNESS_ENDING,Ending Soon: Mapping the Wilderness
 ID_MOTD_DE_MAPPINGTHEWILDERNESS_ENDING,Don't miss out on Lab Supplies and a chance at Crimson Mystic Gear!
 ID_MOTD_NA_BATTLEPASS_SEASON24_ANNOUNCE,LIVE: Season 24 of Battle Pass
-ID_MOTD_DE_BATTLEPASS_SEASON24_ANNOUNCE,"Complete Objectives to earn Iron Patriot shards, Captain America Classic shards and more!"
+ID_MOTD_DE_BATTLEPASS_SEASON24_ANNOUNCE,"Complete Objectives to earn Iron Patriot shards, Captain America Classic Costume and more!"
+ID_MOTD_NA_BLACKPANTHERSHURI_TEASER,Soon: Black Panther (Shuri)
+ID_MOTD_DE_BLACKPANTHERSHURI_TEASER,Take up the mantle with <color=#fff568>Black Panther (Shuri)</color>!
+ID_MOTD_NA_BLACKPANTHERSHURI_ANNOUNCE,Black Panther (Shuri) is here!
+ID_MOTD_DE_BLACKPANTHERSHURI_ANNOUNCE,Take up the mantle with <color=#fff568>Black Panther (Shuri)</color>!
+ID_MOTD_DE_BLACKPANTHERSHURI_ANNOUNCE2,Open the Feline Legacy Orb to earn shards for this Wakandan Queen!
 ID_MOTD_NA_CBUNLOCK_ANNOUNCE,LIVE: Her Magesty's Finest
 ID_MOTD_DE_CBUNLOCK_ANNOUNCE,Unlock Captain Britain!
 ID_MOTD_NA_SHURIORB_ANNOUNCE,LIVE: Panther's Legacy

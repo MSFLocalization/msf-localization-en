@@ -8934,8 +8934,6 @@ ID_OF_DE_PRIDE24_GOLDDPCISOSMALL_W4,"Power up your roster with this special offe
 ID_OF_DE_PRIDE24_PANDATRAINUNIQUE_W4,Rank up Daken and power through your War enemies with this special offer!
 ID_OF_DE_PRIDE24_PROMOTRAIN_W4,Get more promotions for your roster to take them to the next level!
 ID_OF_DE_PRIDE24_BRAWLERCRYSTALS_W4,Supercharge your Brawlers in all game modes with this limited time special!
-ID_ON_NA_ONGUARDFORTHEE_METAPOINTS,On Guard For Thee: Almost Home
-ID_ON_DE_ONGUARDFORTHEE_METAPOINTS,"Claim this mega deal to wrap up the <color=#fff568>On Guard For Thee</color> milestone, and finish strong in the <color=#fff568>Homeward Bound</color> event!"
 ID_OF_NA_WILDERNESSEXPEDITION_STARTER_MEGA,Adventure Begins
 ID_OF_NA_WILDERNESSEXPEDITION_STARTER_SUPER,Wilderness Starter
 ID_OF_NA_WILDERNESSEXPEDITION_STARTER,Survival Kit
@@ -8955,7 +8953,7 @@ ID_OF_NA_WILDERNESSEXPEDITION_FREEDAILY,Wilderness Expedition: Free Claim
 ID_OF_DE_WILDERNESSEXPEDITION_STARTER_MEGA,"Stock up on <color=#fff568>Wilderness Expedition</color> progress and exclusive items, and get ahead on the Wilderness Expedition Leaderboard for <color=#fff568>Diamond Orbs</color> and <color=#fff568>Diamond Champions II Orbs</color>!"
 ID_OF_DE_WILDERNESSEXPEDITION_STARTER_SUPER,Get ahead in the <color=#fff568>Wilderness Expedition</color> milestone and fast-forward your way to the <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>Diamond Orbs</color>!
 ID_OF_DE_WILDERNESSEXPEDITION_STARTER,Start off strong in the <color=#fff568>Wilderness Expedition</color> milestone!
-ID_OF_DE_WILDERNESSEXPEDITION_BOOSTER_ANCHOR,Make consistent <color=#fff568>Wilderness Expedition</color> progress with this daily <color=#fff568>Mission Supplies</color> drop!
+ID_OF_DE_WILDERNESSEXPEDITION_BOOSTER_ANCHOR,Make consistent <color=#fff568>Wilderness Expedition</color> progress with this daily <color=#fff568>Lab Supplies</color> drop!
 ID_OF_DE_WILDERNESSEXPEDITION_MEGA,Stock up on <color=#fff568>Wilderness Expedition event progress</color> and <color=#fff568>Mega Orbs</color> with this special deal!
 ID_OF_DE_WILDERNESSEXPEDITION_LEGACY,Stock up on <color=#fff568>Wilderness Expedition event progress</color> and <color=#fff568>Legacy Orbs</color> with this special deal!
 ID_OF_DE_WILDERNESSEXPEDITION_SHARDS,Stock up on <color=#fff568>Wilderness Expedition event progress</color> and <color=#fff568>character shards</color> with this special deal!
@@ -8966,33 +8964,36 @@ ID_OF_DE_WILDERNESSEXPEDITION_GOLD,Stock up on <color=#fff568>Wilderness Expedit
 ID_OF_DE_WILDERNESSEXPEDITION_AB,Stock up on <color=#fff568>Wilderness Expedition event progress</color> and <color=#fff568>Ability Materials</color> with this special deal!
 ID_OF_DE_WILDERNESSEXPEDITION_CATCHUP_MEGA,Finish strong in the milestones and leaderboards for <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>Diamond Orbs</color>!
 ID_OF_DE_WILDERNESSEXPEDITION_CATCHUP_SUPER,Finish strong in the milestones and leaderboards for <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>Diamond Orbs</color>!
-ID_OF_DE_WILDERNESSEXPEDITION_CATCHUP_LAST_CHANCE,"Catch this deal before it's too late to earn your final <color=#fff568>T2 Level 5 Ionsr</color> and <color=#fff568>Diamond Orbs</color>! "
+ID_OF_DE_WILDERNESSEXPEDITION_CATCHUP_LAST_CHANCE,"Catch this deal before it's too late to earn your final <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>Diamond Orbs</color>! "
 ID_OF_DE_WILDERNESSEXPEDITION_FREEDAILY,Come back daily for more <color=#fff568>Wilderness Expedition</color> progress!
 ID_OF_NA_MAPPINGTHEWILDERNESS_STARTER,Mapping the Wilderness: Starter
 ID_OF_NA_MAPPINGTHEWILDERNESS_CATCHUP,Mapping the Wilderness: Catch-up
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_ORB,Mapping the Wilderness: Daily Orb
 ID_OF_NA_MAPPINGTHEWILDERNESS_CALENDAR,4th of July Calendar
 ID_OF_NA_MAPPINGTHEWILDERNESS_WEB_SPECIAL,Mapping the Wilderness: Web Special
+ID_OF_NA_MAPPINGTHEWILDERNESS_MID_EVENT_SPECIAL,Mapping the Wilderness: Special Bundle
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_POINTS,Mapping the Wilderness: Daily Points
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_RAID,Mapping the Wilderness: Daily Raid
 ID_OF_NA_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_TEAM,Mapping the Wilderness: Alpha Flight
-ID_OF_NA_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_GUARDIAN,Mapping the Wilderness: Guardian
-ID_OF_NA_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_NORTHSTAR,Mapping the Wilderness: Northstar
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_INCURSION_ENERGY,Mapping the Wilderness :Daily Incursion Energy
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_INTERSTITIAL,Mapping the Wilderness: Hidden Treasure
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_FREE_CLAIM,Mapping the Wilderness: Free Claim
-ID_OF_DE_MAPPINGTHEWILDERNESS_STARTER,Get ahead in the <color=#fff568>Mapping the Wilderness</color> Milestone and start making your way toward <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Mystic Gear</color>!
-ID_OF_DE_MAPPINGTHEWILDERNESS_CATCHUP,Finish strong in the <color=#fff568>Mapping the Wilderness</color> Milestone to earn <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Mystic Gear</color>!
+ID_OF_DE_MAPPINGTHEWILDERNESS_STARTER,Get ahead in the <color=#fff568>Mapping the Wilderness</color> Milestone and start making your way toward <color=#fff568>Super Skrull Diamond Promotions</color> and <color=#fff568>Crimson Mystic Gear</color>!
+ID_OF_DE_MAPPINGTHEWILDERNESS_STARTER_2,Get ahead in the <color=#fff568>Mapping the Wilderness</color> Milestone and start making your way toward <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Mystic Gear</color>!
+ID_OF_DE_MAPPINGTHEWILDERNESS_CATCHUP,Finish strong in the <color=#fff568>Mapping the Wilderness</color> Milestone to earn <color=#fff568>Super Skrull Diamond Promotions</color> and <color=#fff568>Crimson Mystic Gear</color>!
+ID_OF_DE_MAPPINGTHEWILDERNESS_CATCHUP_2,Finish strong in the <color=#fff568>Mapping the Wilderness</color> Milestone to earn <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Mystic Gear</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_ORB,Make progress in the <color=#fff568>Mapping the Wilderness</color> Milestone by collecting more <color=#fff568>Wilderness Orb Fragments</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_CALENDAR,Strengthen your Alpha Flight characters with this holiday Calendar! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_WEB_SPECIAL,Take a leap of faith with this Mapping the Wilderness special web bundle!
+ID_OF_DE_MAPPINGTHEWILDERNESS_MID_EVENT_SPECIAL,Adventure into the Wilderness and dominate the leaderboard for <color=#fff568>Super Skrull Diamond Promotions</color>
+ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_POINTS,Get ahead in the <color=#fff568>Mapping the Wilderness</color> Leaderboards and earn <color=#fff568>Super Skrull Diamond Promotions</color> and <color=#f12603>Crimson Gear</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_RAID,Get your daily raid refills to complete the <color=#fff568>Scientific Breakthrough web Milestone</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_TEAM,Level up your Alpha Flight team for future raids!
-ID_OF_DE_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_GUARDIAN,Power up Guardian with this shard offer!
-ID_OF_DE_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_NORTHSTAR,Power up Northstar with this shard offer!
 ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_INCURSION_ENERGY,Get your daily dose of Incursion Campaign Energy for progress in the Scientific Breakthrough web milestone and earn more <color=#fff568>Wilderness Orb Fragments</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Mapping the Wilderness</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Mapping the Wilderness</color> progress!
+ID_ON_NA_ONGUARDFORTHEE_METAPOINTS,On Guard For Thee: Almost Home
+ID_ON_DE_ONGUARDFORTHEE_METAPOINTS,"Claim this mega deal to wrap up the <color=#fff568>On Guard For Thee</color> milestone, and finish strong in the <color=#fff568>Homeward Bound</color> event!"
 ID_OF_DE_PRIDE24_WEEK5STEP1,Claim this first step in the Love of Loki streak! The final step is Free and contains 2 Diamond Orbs!
 ID_OF_DE_PRIDE24_WEEK5STEP2,Surge through this chain for 2 Diamond Orbs in the final step!
 ID_OF_NA_PRIDE24_GOLDBK_W5,Knight's Hoard
@@ -9029,6 +9030,70 @@ ID_OF_NA_WEEKLYWED_GENERIC,Happy Wednesday Deals
 ID_OF_DE_WEEKLYWED_GENERIC,Get over the hump by treating yourself with this exclusive Wednesday deal!
 ID_OF_NA_MONTHLYSPECIAL_NORTHSTAR,July Special: Northstar
 ID_OF_NA_MONTHLYSPECIAL_SSJULY,July Special: Spider-Society
+ID_OF_NA_BLACKPANTHERSHURI_FCO_OFFER,Wakandan Queen
+ID_OF_DE_BLACKPANTHERSHURI_FCO_OFFER,Each <color=#fff568>Feline Legacy Orb</color> contains <color=#fff568>up to 180 Black Panther (Shuri)</color> shards. <color=#fff568>Black Panther (Shuri)</color> is a MYSTIC Controller that excels in applying debuffs such as Ability & Heal Block while also gaining huge Cosmic Crucible advantages! Wakanda forever!
+ID_OF_DE_BLACKPANTHERSHURI_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Black Panther (Shuri)</color> and unlock one-time only release offers on your next visit! <color=#fff568>Black Panther (Shuri)</color> is a MYSTIC Controller that excels in applying debuffs such as Ability & Heal Block while also gaining huge Cosmic Crucible advantages! Wakanda forever!
+ID_OF_DE_BLACKPANTHERSHURI_OFFER_SHARD,Power up <color=#fff568>Black Panther (Shuri)</color> with this shard offer! <color=#fff568>Black Panther (Shuri)</color> is a MYSTIC Controller that excels in applying debuffs such as Ability & Heal Block while also gaining huge Cosmic Crucible advantages! Wakanda forever!
+ID_OF_DE_BLACKPANTHERSHURI_UNLOCK_OFFER,Unlock <color=#fff568>Black Panther (Shuri)</color> now! <color=#fff568>Black Panther (Shuri)</color> is a MYSTIC Controller that excels in applying debuffs such as Ability & Heal Block while also gaining huge Cosmic Crucible advantages! Wakanda forever!
+ID_OF_STOREBAR_BLACKPANTHERSHURI,Dual Offer: Black Panther (Shuri)
+ID_OF_NA_DUAL_BLACKPANTHERSHURI,Dual Offer: Black Panther (Shuri)
+ID_OF_DE_DUAL_BLACKPANTHERSHURI,Choose your path to power up this <color=#fff568>Illuminati</color> member!
+ID_OF_DE_DUAL_UNLOCK_BLACKPANTHERSHURI,Unlock this <color=#fff568>Illuminati</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_BLACKPANTHERSHURI_FCO_OFFER_BASIC,Black Panther (Shuri) Release Offer
+ID_OF_NA_ILLUMINATI_TEAM_OFFER,Illuminati Team Bundle
+ID_OF_DE_ILLUMINATI_TEAM_OFFER,<color=#fff568>Illuminati</color> team members!
+ID_OF_NA_BLACKPANTHERSHURI_WEB_EXTRA_FCO_OFFER,Black Panther (Shuri) Unlock Offer
+ID_OF_DE_BLACKPANTHERSHURI_WEB_EXTRA_FCO_OFFER,"The Wakandan Queen, <color=#fff568>Black Panther (Shuri)</color>, has arrived!"
+ID_OF_NA_BLACKPANTHERSHURI_WEB_SPECIAL_OFFER,Wakandan Queen Special
+ID_OF_DE_BLACKPANTHERSHURI_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color><color=#fff568>Black Panther (Shuri)</color> is a MYSTIC Controller that excels in applying debuffs such as Ability & Heal Block while also gaining huge Cosmic Crucible advantages! Wakanda forever!
+ID_OF_NA_ILLUMINATI24_TRAIN_GOLD_A18_A17_T2L5,Illuminati Power Up
+ID_OF_NA_ILLUMINATI24_BPSHURI,Illuminati Black Panther Power
+ID_OF_NA_ILLUMINATI24_IIRONMAN_BLACKBOLT_TEALUNIQUES_GOLD,Illuminati Leaders
+ID_OF_NA_ILLUMINATI24_TEAL_UNIQUES,Illuminati's High Tech
+ID_OF_NA_ILLUMINATI24_MISTERFANTASTIC,Illuminati Genius Intellect
+ID_OF_NA_ILLUMINATI24_BPSHURI_A18_DPC,Illuminati Wakanda Power
+ID_OF_NA_ILLUMINATI24_TEAL_MINIUNIQUES,Illuminati Custom Equipment
+ID_OF_NA_ILLUMINATI24_BPSHURI_HANKPYM_A19_DPC,Illuminati Super Pack
+ID_OF_NA_ILLUMINATI24_HANKPYM,Illuminati Pym Tech
+ID_OF_NA_ILLUMINATI24_BPSHURI_HANKPYM_A19_GOLD_E7,Illuminati Ultimate Pack
+ID_OF_NA_ILLUMINATI24_BPSHURI_HANKPYM_TRAIN,Illuminati Elite Training
+ID_OF_NA_ILLUMINATI24_HANKPYM_TRAIN_DPC,Illuminati Master Scientist
+ID_OF_NA_ILLUMINATI24_BPSHURI_HANKPYM_A19_TRAIN,Illuminati Secret Alliance
+ID_OF_NA_ILLUMINATI24_BPSHURI_HANKPYM_GOLD,Illuminati Dominance
+ID_OF_NA_ILLUMINATI24_A19_GOLD_TRAIN,Illuminati Crimson Power Up
+ID_OF_NA_ILLUMINATI24_BPSHURI_A19,Panther's Crimson Fur
+ID_OF_NA_ILLUMINATI24_CRIMSON_UNIQUES,Illuminati Crimson Uniques
+ID_OF_NA_ILLUMINATI24_CRIMSON_MINIUNIQUES,Illuminati Crimson Mini-Uniques
+ID_OF_NA_ILLUMINATI24_HANKPYM_A19,Crimson Pym Particles
+ID_OF_NA_ILLUMINATI24_SHURI_CH2_CLEAR,Black Panther (Shuri) Showcase Special
+ID_OF_NA_ILLUMINATI24_HANK_CH2_CLEAR,Hank Pym Showcase Special
+ID_OF_NA_ILLUMINATI24_TEAM_CH2_CLEAR,Illuminati Team Showcase Special
+ID_OF_DE_ILLUMINATI24_TRAIN_GOLD_A18_A17_T2L5,Power up your <color=#fff568>Illuminati</color> team to unlock all of their Showcases' Chapter 2 missions! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_BPSHURI,Rank up your <color=#fff568>Black Panther (Shuri)</color> to overcome all of their Showcase's Chapter 2 missions! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_IIRONMAN_BLACKBOLT_TEALUNIQUES_GOLD,Gear up the newly updated Illuminati members and take on their Showcase missions for progress towards unlocking Captain Britain!
+ID_OF_DE_ILLUMINATI24_TEAL_UNIQUES,Gear up your <color=#fff568>Illuminati</color> team to overcome all of their Showcases' Chapter 2 missions! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_MISTERFANTASTIC,"Empower the newly updated Illuminati member, <color=#fff568>Mr. Fantastic</color>, with this special offer today!"
+ID_OF_DE_ILLUMINATI24_BPSHURI_A18_DPC,Power up your <color=#fff568>Illuminati</color> team to overcome all of their Showcases' Chapter 2 missions! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_TEAL_MINIUNIQUES,Upgrade your <color=#fff568>Illuminati</color> team to overcome all of their Showcases' Chapter 2 missions! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_BPSHURI_HANKPYM_A19_DPC,Rank up your <color=#fff568>Illuminati</color> team to 5 Yellow Stars to overcome all of their Showcases' Chapter 2 missions! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_HANKPYM,Recruit <color=#fff568>Hank Pym</color> to your <color=#fff568>Illuminati</color> team to overcome all of their Showcase's Chapter 2 missions! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_BPSHURI_HANKPYM_A19_GOLD_E7,Power up your <color=#fff568>Illuminati</color> team to overcome all of their Showcases' Chapter 2 missions! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_BPSHURI_HANKPYM_TRAIN,Train your <color=#fff568>Illuminati</color> team to conquer all the missions in their Showcase Event! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_HANKPYM_TRAIN_DPC,Power up your <color=#fff568>Illuminati</color> team to overcome all of their Showcases' Chapter 2 missions! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_BPSHURI_HANKPYM_A19_TRAIN,Boost up your <color=#fff568>Illuminati</color> team to 5 Yellow Stars to overcome all of their Showcases' Chapter 2 missions! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_BPSHURI_HANKPYM_GOLD,Enhance your <color=#fff568>Illuminati</color> team to overcome all of their Showcase's Chapter 2 missions! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_A19_GOLD_TRAIN,Boost up your <color=#fff568>Illuminati</color> team's power to overcome all of their Showcases' Chapter 2 missions! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_BPSHURI_A19,Improve your <color=#fff568>Black Panther (Shuri)</color> for your <color=#fff568>Illuminati</color> team to overcome all of their Showcases' Chapter 2 missions! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_CRIMSON_UNIQUES,Gear up your <color=#fff568>Illuminati</color> team to overcome all of their Showcases' Chapter 2 missions! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_CRIMSON_MINIUNIQUES,Upgrade your <color=#fff568>Illuminati</color> team to overcome all of their Showcases' Chapter 2 missions! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_HANKPYM_A19,Improve your <color=#fff568>Hank Pym</color> for your <color=#fff568>Illuminati</color> team to overcome all of their Showcases' Chapter 2 missions! Complete them to earn great rewards and 4 shields to unlock <color=#fff568>Captain Britain!</color>
+ID_OF_DE_ILLUMINATI24_SHURI_CH2_CLEAR,Congratulations! You've acquired at least 1 of 4 shields required to recruit Captain Britain. Please enjoy this time limited special offer in celebration of your achievement!
+ID_OF_DE_ILLUMINATI24_HANK_CH2_CLEAR,Congratulations! You've acquired at least 2 of 4 shields required to recruit Captain Britain. Please enjoy this time limited special offer in celebration of your achievement!
+ID_OF_DE_ILLUMINATI24_TEAM_CH2_CLEAR,Congratulations! You've acquired at least 3 of 4 shields required to recruit Captain Britain. Please enjoy this time limited special offer in celebration of your achievement!
+ID_OF_DE_ILLUMINATI24_DAILY_WEB_BPSHURI_TEAMORB_OFFER,Bring your crew together with this limited time orb special featuring Black Panther (Shuri)! Open for progress in the Shuri: Panther's Legacy event!
+ID_OF_DE_ILLUMINATI24_DAILY_WEB_HANKPYM_TEAMORB_OFFER,Grow your squad with this limited time orb special featuring Hank Pym! Open for progress in the Hank: Particle Professor event!
+ID_OF_DE_ILLUMINATI24_FREE_WEB_BPSHURI_TEAMORB_1,Please enjoy this FREE claim for Queen's Entourage Orbs before it's gone! Open for progress in the Shuri: Panther's Legacy event! Limit 1 per account.
+ID_OF_DE_ILLUMINATI24_FREE_WEB_HANK_TEAMORB_1,Please enjoy this FREE claim for Pym's Pals Orbs before it's gone! Open for progress in the Hank: Particle Professor event! Limit 1 per account.
 ID_OF_NA_JULY4TH_GOLDABM,Golden Ability
 ID_OF_NA_JULY4TH_DAILYGOLD,Daily Gold
 ID_OF_NA_JULY4TH_GUARDIANTRAIN,Canadian Captain
