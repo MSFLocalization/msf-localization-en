@@ -3131,3 +3131,11 @@ ID_MOTD_NA_CBUNLOCK_ANNOUNCE,LIVE: Her Majesty's Finest
 ID_MOTD_DE_CBUNLOCK_ANNOUNCE,Unlock Captain Britain!
 ID_MOTD_NA_SHURIORB_ANNOUNCE,LIVE: Panther's Legacy
 ID_MOTD_DE_SHURIORB_ANNOUNCE,Get additional shards for Black Panther (Shuri)!
+ID_MOTD_NA_SUMMERCAMPDISCOVERY_ANNOUNCE,LIVE: Summer Camp Discovery
+ID_MOTD_DE_SUMMERCAMPDISCOVERY_ANNOUNCE,Earn Sasquatch shards and a chance at Crimson Bio Gear
+ID_MOTD_NA_SUMMERCAMPDISCOVERY_ENDING,Ending Soon: Summer Camp Discovery
+ID_MOTD_DE_SUMMERCAMPDISCOVERY_ENDING,Don't miss out on Sasquatch Shards shards!
+ID_MOTD_NA_INTERNALTENSIONS_ANNOUNCE,Web Milestone: Internal Tensions
+ID_MOTD_DE_INTERNALTENSIONS_ANNOUNCE,Link your account to earn more rewards on web!
+ID_MOTD_NA_COORDINATEDADVENTURE_ANNOUNCE,LIVE: Coordinated Adventure
+ID_MOTD_DE_COORDINATEDADVENTURE_ANNOUNCE,Earn Training Modules and Mission Supplies!

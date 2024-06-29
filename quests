@@ -4675,3 +4675,17 @@ ID_QU_NA_SHURIORB,Panther's Legacy
 ID_QU_SD_SHURIORB,Get additional shards for Black Panther (Shuri)!
 ID_QU_LD_SHURIORB,Open Queen's Entourage Orbs and receive guaranteed additional shards for this fierce and brilliant inheritor of the Black Panther mantle!
 ID_QU_S1_SHURIORB,Open 1 Queen's Entourage Orb
+ID_QU_NA_SUMMERCAMPDISCOVERY,Summer Camp Discovery
+ID_QU_SD_SUMMERCAMPDISCOVERY,Earn Sasquatch shards and a chance at Crimson Bio Gear
+ID_QU_LM_SUMMERCAMPDISCOVERY,"Summer Camp Discovery\nDon't miss out on Double XP on campaign nodes and gain progress in this 7-day event by collecting Summer Camp tickets from Campaign nodes, Free Claims, and special Offers, and completing the Internal Tensions web milestone. Spend your Summer Camp Tickets on any Summer Camp Treat Orbs that contain amazing rewards! \n\nEarn incredible rewards including Gold, Crimson Bio Gear, L4 Training Modules, and Diamond Orbs. You'll also earn points towards the Wilderness Expedition milestone by collecting Lab Supplies and a Map Fragment #2.\n\nInternal Tensions Milestone\nSpend Summer Camp tickets be rewarded with Aged Adamantium Orb Fragments and bonus progress in the Summer Camp Discovery and Wilderness Expedition."
+ID_QU_SC_SUMMERCAMPDISCOVERY,Collect Summer Camp tickets from Campaign nodes
+ID_QU_S1_SUMMERCAMPDISCOVERY,Earn 1 Summer Camp tickets from Campaign
+ID_QU_NA_INTERNALTENSIONS,Internal Tensions
+ID_QU_SD_INTERNALTENSIONS,Spend Summer Camp tickets
+ID_QU_LD_INTERNALTENSIONS,Spend Summer Camp tickets to complete this milestone that rewards Summer Camp tickets and progress in the Summer Camp Discovery and Wilderness Expedition milestone!
+ID_QU_S1_INTERNALTENSIONS,Spend 1 Summer Camp ticket
+ID_QU_NA_COORDINATEDADVENTURE,Coordinated Adventure
+ID_QU_SD_COORDINATEDADVENTURE,Spend Iso-8 Campaign Energy for glorious rewards!
+ID_QU_LD_COORDINATEDADVENTURE,Coordinated Adventure Milestone\nGain progress in this 5-day event by battling in Iso Campaign and earning Allied Supply V Orb fragments from daily Free Claims and special offers. Earn rewards including L4 Training Modules and T2 Level 5 Ions. You'll also earn points towards the month-long Wilderness Expedition milestone by collecting Lab Supplies.
+ID_QU_S1_COORDINATEDADVENTURE,Spend 1 Iso-8 Campaign Energy
+ID_QU_S2_COORDINATEDADVENTURE,Earn 1 Allied Supply V Orb Fragment
