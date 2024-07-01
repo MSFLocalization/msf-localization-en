@@ -53,6 +53,8 @@ ID_SHARD_BLACKPANTHER_NAME,Black Panther
 ID_SHARD_BLACKPANTHER_DESCRIPTION,"An agile, relentless hunter who shreds his enemies with rapid attacks."
 ID_SHARD_BLACKPANTHERBC_NAME,Black Panther (1MM)
 ID_SHARD_BLACKPANTHERBC_DESCRIPTION,"Discovering Wakanda's Vibranium meteor and combining it with the Heart-Shaped Herb in the year 1,000,000 B.C., Bashenga became the first Black Panther."
+ID_SHARD_BLACKPANTHERSHURI_NAME,Black Panther (Shuri)
+ID_SHARD_BLACKPANTHERSHURI_DESCRIPTION,"Following the untimely death of her brother, T'Challa, Shuri synthesized the heart-shaped herb to become the new defender of Wakanda."
 ID_SHARD_BLACKWIDOW_NAME,Black Widow
 ID_SHARD_BLACKWIDOW_DESCRIPTION,A stealthy saboteur who steals enemy advantages and delivers disabling attacks.
 ID_SHARD_BLOB_NAME,Blob
@@ -69,6 +71,8 @@ ID_SHARD_CAPTAINAMERICAWW2_NAME,Captain America (WWII)
 ID_SHARD_CAPTAINAMERICAWW2_DESCRIPTION,A tanky Captain America generates ability energy and applies buffs to his team while rallying them to perform devastating assists.
 ID_SHARD_SAMWILSON_NAME,Captain America (Sam)
 ID_SHARD_SAMWILSON_DESCRIPTION,"Taking up the mantle of Captain America, Sam Wilson uses his legendary shield to protect and inspire others, granting bonuses to Avenger and Skill allies."
+ID_SHARD_CAPTAINBRITAIN_NAME,Captain Britain
+ID_SHARD_CAPTAINBRITAIN_DESCRIPTION,"With mystical abilities granted to him by Merlin, Brian Braddock channels his self-confidence and multiversal energy to protect the British Isles and his allies."
 ID_SHARD_CAPTAINCARTER_NAME,Captain Carter
 ID_SHARD_CAPTAINCARTER_DESCRIPTION,"When Steve Rogers was injured before he could take the Super Soldier Serum, Agent Peggy Carter took his place, becoming a sentinel of liberty and healer of the Project Rebirth team."
 ID_SHARD_CAPTAINMARVEL_NAME,Captain Marvel
@@ -193,6 +197,8 @@ ID_SHARD_HANDSUPPORT_HEAL_NAME,Hand Sorceress
 ID_SHARD_HANDSUPPORT_HEAL_DESCRIPTION,A mystical healer who drains health when attacking.
 ID_SHARD_HANDTANK_STEALTH_NAME,Hand Sentry
 ID_SHARD_HANDTANK_STEALTH_DESCRIPTION,An expert martial artist who conceals his allies with smoke bombs.
+ID_SHARD_HANKPYM_NAME,Hank Pym
+ID_SHARD_HANKPYM_DESCRIPTION,"Founding member of the Avengers and the original Ant-Man, Hank Pym uses his genius to change size, command armies of ants, and support his allies."
 ID_SHARD_HAWKEYE_NAME,Hawkeye
 ID_SHARD_HAWKEYE_DESCRIPTION,An expert archer who delivers unavoidable attacks to disable his foes.
 ID_SHARD_HEIMDALL_NAME,Heimdall
