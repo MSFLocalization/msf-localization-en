@@ -50,13 +50,13 @@ ID_AVE_KEY_PURPLE_NAME,Purple Raid Key
 ID_AVE_KEY_PURPLE_DESC,Collect keys to launch raids and earn Ability Materials and Character Shards. Your alliance will earn raid keys each day.
 ID_RES_CAMPAIGN_ENERGY_EVENT01,Experimental Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT02,Wasteland Energy
-ID_RES_CAMPAIGN_ENERGY_EVENT03,Infectious Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT03,Illuminating Energy
 ID_CAMPAIGN_ENERGY_EVENT01_NAME,Experimental Energy
 ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch X Marks the Spot missions.
 ID_CAMPAIGN_ENERGY_EVENT02_NAME,Wasteland Energy
 ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch Wasteland Road Trip! missions.
-ID_CAMPAIGN_ENERGY_EVENT03_NAME,Infectious Energy
-ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Unstoppable Undead missions.
+ID_CAMPAIGN_ENERGY_EVENT03_NAME,Illuminating Energy
+ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Illuminating Assault missions.
 ID_HC_NAME,Power Cores
 ID_HC_DESCRIPTION,"Use Power Cores to purchase Orbs, Energy Refills, Health Packs, Supplies, and Blitz Charges."
 ID_AVA-CUR_NAME,War Credits
@@ -537,4 +537,4 @@ ID_EVTA_META_JUL_E_DESCRIPTION,These points earn you additional progress in the 
 ID_EVTA_META_JUL_F_NAME,Summer Camp Discovery Milestone Points
 ID_EVTA_META_JUL_F_DESCRIPTION,These points earn you additional progress in the Summer Camp Discovery Milestone. Earn them in the Internal Tensions Web Milestone and Special Offers!
 ID_EVTA_META_JUL_H_NAME,Captain Britain's Shield
-ID_EVTA_META_JUL_H_DESCRIPTION,Collect this symbol of British valour four times to unlock Captain Britain himself!
+ID_EVTA_META_JUL_H_DESCRIPTION,Collect this symbol of British valour three times to unlock Captain Britain himself!

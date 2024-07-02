@@ -3036,6 +3036,12 @@ ID_MOTD_NA_ALPHAFLIGHT_LIVE,LIVE: X Marks the Spot
 ID_MOTD_DE_ALPHAFLIGHT_LIVE,Battle with Alpha Flight and earn rewards!
 ID_MOTD_NA_ALPHAFLIGHT_ENDING,ENDING SOON: X Marks the Spot!
 ID_MOTD_DE_ALPHAFLIGHT_ENDING,X Marks the Spot event is ending soon!
+ID_MOTD_NA_ILLUMINATI_PREVIEW,COMING SOON: Illuminating Assault
+ID_MOTD_DE_ILLUMINATI_PREVIEW,Earn rewards by battling with the Illuminati!
+ID_MOTD_NA_ILLUMINATI_LIVE,LIVE: Illuminating Assault
+ID_MOTD_DE_ILLUMINATI_LIVE,Earn rewards by battling with the Illuminati!
+ID_MOTD_NA_ILLUMINATI_ENDING,ENDING SOON: Illuminating Assault
+ID_MOTD_DE_ILLUMINATI_ENDING,Illuminating Assault event is ending soon!
 ID_MOTD_NA_OLDMANLOGAN_TRIALS_TEASER,Coming Soon: Old Man Logan Trials
 ID_MOTD_DE_OLDMANLOGAN_TRIALS_TEASER,"Prepare now by powering up Out of Time, Cabal, Loki and Emma Frost!"
 ID_MOTD_NA_OLDMANLOGAN_TRIALS_LIVE,LIVE: Old Man Logan Trials
@@ -3141,3 +3147,5 @@ ID_MOTD_NA_INTERNALTENSIONS_ANNOUNCE,Web Milestone: Internal Tensions
 ID_MOTD_DE_INTERNALTENSIONS_ANNOUNCE,Link your account to earn more rewards on web!
 ID_MOTD_NA_COORDINATEDADVENTURE_ANNOUNCE,LIVE: Coordinated Adventure
 ID_MOTD_DE_COORDINATEDADVENTURE_ANNOUNCE,Earn Training Modules and Mission Supplies!
+ID_MOTD_NA_BATTLEPASS_SEASON25_ANNOUNCE,LIVE: Season 25 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON25_ANNOUNCE,Complete Objectives to earn Guardian shards and more!

@@ -8381,6 +8381,259 @@ ID_DIALOG_SSE_ALPHAFLIGHT_16_END_2,"Dr. Langkowski over there gave me a sit rep,
 ID_DIALOG_SSE_ALPHAFLIGHT_16_END_3,"Someone's messin' with our heads, Fury. I need answers."
 ID_DIALOG_SSE_ALPHAFLIGHT_16_END_4,That's why I brought one of the smartest people I know.
 ID_DIALOG_SSE_ALPHAFLIGHT_16_END_5,"Hello, little angry men. I heard you could use a hand in finding your friend."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_INTRO_0,"AN UNDISCLOSED LOCATION, DEEP WITHIN THE JUNGLES OF WAKANDA..."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_INTRO_1,Let me get this straight. You eggheads get together and what... Make secret plans for the world?
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_INTRO_2,"Alone, we stopped crises as they arose. Together we can actively guide the world towards betterment."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_INTRO_3,"Hm, where've I heard that before? So, what makes you think Professor Xavier was a part of this?"
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_INTRO_4,"Well, each of us represent a different group of heroes. Yet, we don't have a mutant representitve."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_INTRO_5,"If this Charles Xavier was who you say, he'd be the perfect representative for your people."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_INTRO_6,"It's the negative space. If he'd never existed, someone else would represent mutants. Instead... "
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_INTRO_7,"There's nobody, which means there musta been somebody. You guys have got brains, I'll give ya that."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_INTRO_8,ALERT! PERIMETER BREACH! PERIMETER BREACH!
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_INTRO_9,"It appears we will have to continue this conversation later! "
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_START_0,"Meet Black Panther (Shuri), The Illuminati's Controller."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_START_1,"She assists allies and stops enemies from gaining speed, and is an integral member of the team in Cosmic Crucible."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_START_2,"A powerful combatant, Black Panther stops enemies from having full access to their abilities."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_WAVE1_0,They just keep comin'. Thought this was supposed to be a secure location?
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_WAVE1_1,"Do you want to help resecure it, or continue to complain? "
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_WAVE1_2,"Yes, ma'am."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_END_0,"Doctor Pym, Logan and I are moving to check the rest of the perimeter. I doubt those invaders were alone."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_END_1,"Make it quick. Comms are blocked, so we couldn't call for backup even if we wanted to. "
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_END_2,"Your bedside manner needs work, Henry. But we will report back shortly."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_END_3,Is this how you recruit poor saps? Promise answers and enlist them in a fight?
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_END_4,"We're grateful for your help, Logan. "
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_END_5,...
+ID_DIALOG_SSE_ILLUMINATI_SHURI_01_END_6,I think Black Bolt says 'thank you' as well.
+ID_DIALOG_SSE_ILLUMINATI_SHURI_02_INTRO_0,"The building appears secure, for now. But this felt less like an invasion and more like..."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_02_INTRO_1,BOOM!
+ID_DIALOG_SSE_ILLUMINATI_SHURI_02_INTRO_2,"A scouting party! Dr. Pym, Dr. Richards, we have new arrivals!"
+ID_DIALOG_SSE_ILLUMINATI_SHURI_02_INTRO_3,We're entering the facility now. I'll let you know when we get access to their security system.
+ID_DIALOG_SSE_ILLUMINATI_SHURI_02_INTRO_4,Taskmaster. You have chosen the wrong enemies today. Why are you attacking us?
+ID_DIALOG_SSE_ILLUMINATI_SHURI_02_INTRO_5,Cause that's how I get paid.
+ID_DIALOG_SSE_ILLUMINATI_SHURI_02_END_0,"Taskmaster escaped, but I managed to acquire one of his communication devices."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_02_END_1,Perfect. I assume you're hacking it to locate him?
+ID_DIALOG_SSE_ILLUMINATI_SHURI_02_END_2,"I already have. Though I am troubled by how sophisticated the technology is. "
+ID_DIALOG_SSE_ILLUMINATI_SHURI_02_END_3,He seemed equipped far better than normal. Someone's helping him. Who even knows we're here?
+ID_DIALOG_SSE_ILLUMINATI_SHURI_02_END_4,"That is not the question that troubles me, Dr. Richards. That question is... Who is smart enough to find us?"
+ID_DIALOG_SSE_ILLUMINATI_SHURI_03_INTRO_0,"I have hijacked their radio - if we acquire more, we can boost the signal and track them to their origin."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_03_INTRO_1,Time to go on the offensive.
+ID_DIALOG_SSE_ILLUMINATI_SHURI_03_INTRO_2,...
+ID_DIALOG_SSE_ILLUMINATI_SHURI_03_INTRO_3,"Black Bolt says, ""After you."""
+ID_DIALOG_SSE_ILLUMINATI_SHURI_04_INTRO_0,"We have located their base. Certaintly, the leader of this assault lies within."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_04_INTRO_1,And perhaps their technology can help determine how they found us to begin with.
+ID_DIALOG_SSE_ILLUMINATI_SHURI_04_INTRO_2,...
+ID_DIALOG_SSE_ILLUMINATI_SHURI_04_INTRO_3,"You are right, Black Bolt - the time to strike is now! Attack!"
+ID_DIALOG_SSE_ILLUMINATI_SHURI_04_START_0,INTRUDER ALERT! INTRUDER ALERT!
+ID_DIALOG_SSE_ILLUMINATI_SHURI_04_START_1,"Well, well, well. Nice of you to drop by, 'cuz. "
+ID_DIALOG_SSE_ILLUMINATI_SHURI_04_START_2,Killmonger. Of course you are here. Defend yourself!
+ID_DIALOG_SSE_ILLUMINATI_SHURI_04_END_0,"You are a mercenary, not a mastermind. Tell me who hired you to find us!"
+ID_DIALOG_SSE_ILLUMINATI_SHURI_04_END_1,"No can do, cuz. It was a blind hire, so I couldn't tell you even if I wanted to. Which I don't."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_04_END_2,"Maybe your technology knows more than you do, Killmonger. "
+ID_DIALOG_SSE_ILLUMINATI_SHURI_04_END_3,"I've gained access to their system, but I need Hank. I'll patch him in and see what he can find."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_04_END_4,Do it.
+ID_DIALOG_SSE_ILLUMINATI_SHURI_05_INTRO_0,"Tik-tock, Shuri. Better hurry up with that tech check..."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_05_INTRO_1,"What have you done? "
+ID_DIALOG_SSE_ILLUMINATI_SHURI_05_INTRO_2,"Tsk, y'all supposed to be the smart ones, too. If someone could afford me, they can afford backup."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_05_INTRO_3,"Reed, Dr. Pym, we have incoming!"
+ID_DIALOG_SSE_ILLUMINATI_SHURI_05_INTRO_4,"I've just connected to their system! Keep them out until I've got the answers we need. "
+ID_DIALOG_SSE_ILLUMINATI_SHURI_05_END_0,"That's the last of them. Hank, what did you find? "
+ID_DIALOG_SSE_ILLUMINATI_SHURI_05_END_1,"Decrypting the last transmission now. When I find out who did this, I'll make sure they... Oh. Oh NO."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_05_END_2,What? What have you discovered?
+ID_DIALOG_SSE_ILLUMINATI_SHURI_05_END_3,"HELLO, FATHER."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_05_END_4,"It's Ultron! And... My god, connecting to his systems, it's a two way street... He's got full access to our files."
+ID_DIALOG_SSE_ILLUMINATI_SHURI_05_END_5,"We have played right into his hands. "
+ID_DIALOG_SSE_ILLUMINATI_HANK_01_INTRO_0,"Ultron, back again... Outsmarting me... This is like a nightmare. "
+ID_DIALOG_SSE_ILLUMINATI_HANK_01_INTRO_1,What did he get?
+ID_DIALOG_SSE_ILLUMINATI_HANK_01_INTRO_2,"Impossible to tell. I locked him out for now, but it's only a matter of time before he gets back in."
+ID_DIALOG_SSE_ILLUMINATI_HANK_01_INTRO_3,What do we do in the meantime?
+ID_DIALOG_SSE_ILLUMINATI_HANK_01_INTRO_4,We can't risk another trace. Who knows what damage Ultron has done already.
+ID_DIALOG_SSE_ILLUMINATI_HANK_01_INTRO_5,"Then we find more of these mercenaries and get the info from them. The hard way. "
+ID_DIALOG_SSE_ILLUMINATI_HANK_01_START_0,"Meet Hank Pym, the Illuminati team's Support."
+ID_DIALOG_SSE_ILLUMINATI_HANK_01_START_1,Hank heals his allies and provides them a Barrier. He's an integral member of the team within Cosmic Crucible.
+ID_DIALOG_SSE_ILLUMINATI_HANK_01_START_2,"Alongside any two Illuminati members, Hank blocks enemy regeneration and prevents Slow on his allies. "
+ID_DIALOG_SSE_ILLUMINATI_HANK_01_END_0,"I got some info off of Ultron's hired goons before they lost consciousness. "
+ID_DIALOG_SSE_ILLUMINATI_HANK_01_END_1,"Dr. Pym, Hank... You need to take a breath. I understand Ultron brings up some bad memories…"
+ID_DIALOG_SSE_ILLUMINATI_HANK_01_END_2,"Bad memories?! Did you create an artificial intelligence that constantly threatens the world, Reed?"
+ID_DIALOG_SSE_ILLUMINATI_HANK_01_END_3,"Ultron is my responsibility, and every microsecond he's online, he's scheming. I don't have time to breathe. "
+ID_DIALOG_SSE_ILLUMINATI_HANK_01_END_4,Then we'll have to make time.
+ID_DIALOG_SSE_ILLUMINATI_HANK_02_INTRO_0,"Uh, bad news science bros. Long range sensors have picked up another wave of robo-goons."
+ID_DIALOG_SSE_ILLUMINATI_HANK_02_INTRO_1,Another direct attack... That's not like Ultron. He's too smart. Something's off.
+ID_DIALOG_SSE_ILLUMINATI_HANK_02_INTRO_2,"Do we think it has anything to do with our short, smelly, multiversal pal showing up?"
+ID_DIALOG_SSE_ILLUMINATI_HANK_02_INTRO_3,"Smelly? I got super senses, Stark. When's the last time you washed that suit?"
+ID_DIALOG_SSE_ILLUMINATI_HANK_02_INTRO_4,"Anything could be related. Or not. Ultron's playing Nth dimensional chess. "
+ID_DIALOG_SSE_ILLUMINATI_HANK_02_INTRO_5,For now we just need to move our pieces and hope we see his plan.
+ID_DIALOG_SSE_ILLUMINATI_HANK_03_INTRO_0,"These attacks... They're a disctraction. Finally, some good news."
+ID_DIALOG_SSE_ILLUMINATI_HANK_03_INTRO_1,What do you mean?
+ID_DIALOG_SSE_ILLUMINATI_HANK_03_INTRO_2,"Ultron's brilliant but single-minded. He wants one thing - world domination and humanity's extinction. "
+ID_DIALOG_SSE_ILLUMINATI_HANK_03_INTRO_3,"If his plans were inevitable, he wouldn't bother with us - he'd destroy us with the rest of the world."
+ID_DIALOG_SSE_ILLUMINATI_HANK_03_INTRO_4,"Hank, you're even worse at ""some good news"" than Reed is. What are you saying?"
+ID_DIALOG_SSE_ILLUMINATI_HANK_03_INTRO_5,"I'm saying that for some reason, Ultron doesn't want us to interfere. He's scared. "
+ID_DIALOG_SSE_ILLUMINATI_HANK_03_END_0,If Ultron keeps sending bots I'm going to have to buy a junkyard in Wakanda just to store these things.
+ID_DIALOG_SSE_ILLUMINATI_HANK_03_END_1,Damn! We're the smartest people on Earth. If we just had a moment to think...
+ID_DIALOG_SSE_ILLUMINATI_HANK_03_END_2,"Unfortunately, this base is too valuable. Who knows what damage our enemies could do with our data."
+ID_DIALOG_SSE_ILLUMINATI_HANK_03_END_3,"Wait... Maybe that's what Ultron's counting on. So, we do something he never would expect."
+ID_DIALOG_SSE_ILLUMINATI_HANK_04_INTRO_0,"Tony, are the charges planted?"
+ID_DIALOG_SSE_ILLUMINATI_HANK_04_INTRO_1,"Repulsor mines all over the place. You sure about this? "
+ID_DIALOG_SSE_ILLUMINATI_HANK_04_INTRO_2,"Ultron's playing chess with us? Well, I'm willing to to sacrifice a valuable piece to win."
+ID_DIALOG_SSE_ILLUMINATI_HANK_04_INTRO_3,"If he's keeping us distracted defending our base... No more base, no more distraction."
+ID_DIALOG_SSE_ILLUMINATI_HANK_04_INTRO_4,EXPLOSIVES DETECTED! DISARM! DESTROY!
+ID_DIALOG_SSE_ILLUMINATI_HANK_04_INTRO_5,"Of course, we need to actually detonate the base for this to work. Take out the drones, now!"
+ID_DIALOG_SSE_ILLUMINATI_HANK_04_END_0,"Reed! Did the remaining drones get to the sub-basement? "
+ID_DIALOG_SSE_ILLUMINATI_HANK_04_END_1,Sensors are showing they've gathered right where we herded them. No way out.
+ID_DIALOG_SSE_ILLUMINATI_HANK_04_END_2,"Then it's now or never. "
+ID_DIALOG_SSE_ILLUMINATI_HANK_04_END_3,ELIMINATE THE CREATOR! DESTROY! DESTR-
+ID_DIALOG_SSE_ILLUMINATI_HANK_04_END_4,BOOM!
+ID_DIALOG_SSE_ILLUMINATI_HANK_04_END_5,So much for our fancy clubhouse...
+ID_DIALOG_SSE_ILLUMINATI_HANK_04_END_6,"You'll buy us a new one. Now, it's time to find Ultron."
+ID_DIALOG_SSE_ILLUMINATI_HANK_05_INTRO_0,"Without a target, Ultron's drones are scrambling like hornets that've had their nest kicked. "
+ID_DIALOG_SSE_ILLUMINATI_HANK_05_INTRO_1,Perfect. I've got an algorithm that can analize their flight patterns and lead us right to him.
+ID_DIALOG_SSE_ILLUMINATI_HANK_05_INTRO_2,"Did the algorithm detect the ones headed right towards our Quinjet landing pad? "
+ID_DIALOG_SSE_ILLUMINATI_HANK_05_INTRO_3,The last stragglers! We take them out and we can go after the source.
+ID_DIALOG_SSE_ILLUMINATI_HANK_05_END_0,BOOM!
+ID_DIALOG_SSE_ILLUMINATI_HANK_05_END_1,"Well, there goes another Quinjet."
+ID_DIALOG_SSE_ILLUMINATI_HANK_05_END_2,"Hello, friends! Do you need a lift?"
+ID_DIALOG_SSE_ILLUMINATI_HANK_05_END_3,"Perfect timing, Shuri. Glad to see your team made it."
+ID_DIALOG_SSE_ILLUMINATI_HANK_05_END_4,You as well! Things will be much easier with us together.
+ID_DIALOG_SSE_ILLUMINATI_HANK_05_END_5,"Except for all of us crammed in here. Stark ain't exactly small in that armor, neither."
+ID_DIALOG_SSE_ILLUMINATI_HANK_05_END_6,"Tony, do you mind flying alongside? You can keep an eye out for extra drones."
+ID_DIALOG_SSE_ILLUMINATI_HANK_05_END_7,"And I was about to call shotgun, too."
+ID_DIALOG_SSE_ILLUMINATI_TEAM_01_INTRO_0,THE ARCTIC CIRCLE...
+ID_DIALOG_SSE_ILLUMINATI_TEAM_01_INTRO_1,"Sentries guard every entrance. I will give Ultron credit, he is thorough."
+ID_DIALOG_SSE_ILLUMINATI_TEAM_01_INTRO_2,"Okay, so the direct approach is out. How do we get in without having to fight every drone in this base?"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_01_INTRO_3,...
+ID_DIALOG_SSE_ILLUMINATI_TEAM_01_INTRO_4,What'd big mouth over there say?
+ID_DIALOG_SSE_ILLUMINATI_TEAM_01_INTRO_5,"He said, ""We can make our own entrance."""
+ID_DIALOG_SSE_ILLUMINATI_TEAM_01_END_0,We're in. Black Bolt wasn't subtle - Ultron definitely knows we're inside.
+ID_DIALOG_SSE_ILLUMINATI_TEAM_01_END_1,"I might not be an egghead like all of you, but am I the only one thinking this is a trap?"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_01_END_2,"Anything could be a trap, Logan. There are multiple levels of thought at play."
+ID_DIALOG_SSE_ILLUMINATI_TEAM_01_END_3,Does Ultron think that we think that he thinks it's a trap? And so on. It'll give you a headache.
+ID_DIALOG_SSE_ILLUMINATI_TEAM_01_END_4,He can process infinite levels of that. So we act on the base level - attack and see what happens.
+ID_DIALOG_SSE_ILLUMINATI_TEAM_02_INTRO_0,"Another door with a multi-phasal combination lock. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_02_INTRO_1,"Sophisticated, but with our combined calculations we should be able to open it in 8.27 minutes. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_02_INTRO_2,"Or I could use these six universal locks I got right here. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_02_INTRO_3,SLICE!
+ID_DIALOG_SSE_ILLUMINATI_TEAM_02_INTRO_4,...
+ID_DIALOG_SSE_ILLUMINATI_TEAM_02_INTRO_5,"I take it that was a 'nice work, Logan'?"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_02_INTRO_6,"Please, Black Bolt... Don't encourage the Canadian. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_02_END_0,"Shuri, come in. We've reached another sub-basem- *EEEEEEEEE!*"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_02_END_1,Ahhh! Something's wrong with our comms!
+ID_DIALOG_SSE_ILLUMINATI_TEAM_02_END_2,"GREETINGS, FATHER. YOU'VE COME FURTHER THAN I ANTICIPATED. I'LL HAVE TO UPDATE MY DATA ON YOU. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_02_END_3,"So, there's something even the great A.I. doesn't know. Encouraging. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_02_END_4,"YOUR SUCCESS IS A ROUNDING ERROR. SOON, I WILL BE RID OF HUMANITY. THANKS TO ALL OF YOU. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_02_END_5,"Stop being cryptic with me, I didn't program you to be a coward. What's your scheme?!"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_02_END_6,"DON'T WORRY. YOU WILL LIVE TO SEE MY TRIUMPH, FATHER. BUT NOT FOR VERY LONG. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_03_INTRO_0,What are we waiting for?! Let's get a move on!
+ID_DIALOG_SSE_ILLUMINATI_TEAM_03_INTRO_1,"Woof, hey! Hank! Take a beat."
+ID_DIALOG_SSE_ILLUMINATI_TEAM_03_INTRO_2,"You take a beat, Tony! I founded the Avengers, I invented a new particle, but what's my legacy going to be?"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_03_INTRO_3,"THIS! Creating a murderous robot that may end the world! "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_03_INTRO_4,"Gentlemen, if you could table this argument for the moment, we are still under attack!"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_03_END_0,"Hey, you don't need to tell me about the founding of the Avengers. I was there, remember?"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_03_END_1,"I mean, I was in a 2-ton gold suit, kind of hard to forget me."
+ID_DIALOG_SSE_ILLUMINATI_TEAM_03_END_2,"Do you have a point, Tony?"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_03_END_3,"Yeah, time for some real talk. Ultron isn't your cross to bear, Hank. It's your temper."
+ID_DIALOG_SSE_ILLUMINATI_TEAM_03_END_4,"Every decision driven by anger and ego is one more mistake that Ultron can use against us. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_03_END_5,"You've got to keep it in check. And trust me, I know about inner demons."
+ID_DIALOG_SSE_ILLUMINATI_TEAM_03_END_6,"You're right, Tony. I'm a genius. Time to start thinking like one."
+ID_DIALOG_SSE_ILLUMINATI_TEAM_04_INTRO_0,"Good news. The mainframe of this base uses Ultron tech, which gives him near total control. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_04_INTRO_1,"Gotta be honest, none of what you said sounds good to me. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_04_INTRO_2,"I INVENTED Ultron tech. I hacked in and located where he's transmitting data to. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_04_INTRO_3,"Then let's go there? Like, now?"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_04_INTRO_4,"Could be a trick. Tony, you're the fastest here - I'll upload coordinates to J.A.R.V.I.S. Scout it out."
+ID_DIALOG_SSE_ILLUMINATI_TEAM_04_INTRO_5,So we split up?
+ID_DIALOG_SSE_ILLUMINATI_TEAM_04_INTRO_6,"OH, I'll make sure you're split up alright! Into as many pieces as it takes! HAHAHAHA!"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_04_START_0,"Still want me to take off? "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_04_START_1,BOOM!
+ID_DIALOG_SSE_ILLUMINATI_TEAM_04_START_2,"Cheers, Iron Man. I believe I can handle these cads. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_04_END_0,"Welcome to the fight, Brian. Annoyingly perfect timing, as usual. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_04_END_1,"Would have been here faster, but Ultron had unleashed an attack on England as well."
+ID_DIALOG_SSE_ILLUMINATI_TEAM_04_END_2,"No disrespect, Captain, but that seems like an odd target. Why England?"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_04_END_3,"Could be to keep me busy? It seems he knows quite a bit of our little club, eh?"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_04_END_4,"Yes, and that carelessness with our secrets has cost us a base. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_04_END_5,"There will be time for blame later. For now, we press on."
+ID_DIALOG_SSE_ILLUMINATI_TEAM_05_INTRO_0,"Iron Man, any news from those coordinates? We could use a sit rep."
+ID_DIALOG_SSE_ILLUMINATI_TEAM_05_INTRO_1,"En route now, but my sensors are detecting something big. And absolutely bursting with power."
+ID_DIALOG_SSE_ILLUMINATI_TEAM_05_INTRO_2,"I take it that it's rather bad, then?"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_05_INTRO_3,"There's that dry British sense of humor. Say, I've been meaning to ask - what's Benny Hill really like?"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_05_INTRO_4,"Wait, I have visual on the site... It's... Oh my god. Ultron's buil--- *SKKKKKTT!*"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_05_INTRO_5,"Tony? Tony, what is it, come in?"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_05_START_0,Iron Man's been cut off! We need to get to him.
+ID_DIALOG_SSE_ILLUMINATI_TEAM_05_START_1,"We can attend to him shortly! For now, we must defend ourselves!"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_05_END_0,"Iron Man, come in! Tony, are you there?"
+ID_DIALOG_SSE_ILLUMINATI_TEAM_05_END_1,"I HAVE CUT THE STRINGS OF YOUR LITTLE METAL PUPPET, FATHER. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_05_END_2,"HE FOUND MY LOCATION, BUT YOU CANNOT STOP MY DESIGNS. AFTER ALL... THEY ARE YOUR OWN."
+ID_DIALOG_SSE_ILLUMINATI_TEAM_05_END_3,What the hell is that supposed to mean?
+ID_DIALOG_SSE_ILLUMINATI_TEAM_05_END_4,"COME AND SEE, CREATOR. COME AND SEE. HA. HA. HA. HA."
+ID_DIALOG_SSE_ILLUMINATI_CB_01_INTRO_0,"THE QUINJET, EN ROUTE TO ULTRON'S BASE..."
+ID_DIALOG_SSE_ILLUMINATI_CB_01_INTRO_1,"Ten minutes out from Iron Man's last known location. "
+ID_DIALOG_SSE_ILLUMINATI_CB_01_INTRO_2,"What did Ultron mean, about these plans being ours?"
+ID_DIALOG_SSE_ILLUMINATI_CB_01_INTRO_3,It could be anything. Perhaps just a lie to confuse us?
+ID_DIALOG_SSE_ILLUMINATI_CB_01_INTRO_4,"Ultron is spiteful but he isn't a liar. If he's getting inside our heads, he'd use a kernel of truth to do it."
+ID_DIALOG_SSE_ILLUMINATI_CB_01_INTRO_5,"I don't care what he's sayin', get me within claw sharpening range and I'll shut him up. "
+ID_DIALOG_SSE_ILLUMINATI_CB_01_INTRO_6,"You may get to do it sooner than expected - drones en route. I'm landing this bird. "
+ID_DIALOG_SSE_ILLUMINATI_CB_01_START_0,"Meet Captain Britain, the Illuminati team's Protector."
+ID_DIALOG_SSE_ILLUMINATI_CB_01_START_1,"The team's heavy hitter, he's an integral part of their success in Cosmic Crucible."
+ID_DIALOG_SSE_ILLUMINATI_CB_01_START_2,Captain Britain helps keep his team immune to negative status effects and stops enemies from manipulating his ally's speed bar.
+ID_DIALOG_SSE_ILLUMINATI_CB_01_END_0,"That's as far as this old girl's going to get us, I'm afraid. I can fly, but as for the rest of you..."
+ID_DIALOG_SSE_ILLUMINATI_CB_01_END_1,"You try and carry me and I'm gonna reenact the War of 1812. "
+ID_DIALOG_SSE_ILLUMINATI_CB_01_END_2,Logan that is... a particularly surprising reference.
+ID_DIALOG_SSE_ILLUMINATI_CB_01_END_3,"Just because I don't go around calling myself Mr. Fantastic doesn't mean I can't pick up a book. "
+ID_DIALOG_SSE_ILLUMINATI_CB_01_END_4,"C'mon, we're wasting time. "
+ID_DIALOG_SSE_ILLUMINATI_CB_02_INTRO_0,"There! A crater up ahead. "
+ID_DIALOG_SSE_ILLUMINATI_CB_02_INTRO_1,"Repulsor burns. This must have been where Tony went down. "
+ID_DIALOG_SSE_ILLUMINATI_CB_02_INTRO_2,"Iron Man, come in! Can you read us?"
+ID_DIALOG_SSE_ILLUMINATI_CB_02_INTRO_3,"IRON MAN IS NO MORE. SOON, YOU WILL JOIN HIM. "
+ID_DIALOG_SSE_ILLUMINATI_CB_02_END_0,There's too many drones! We're getting overwhelmed.
+ID_DIALOG_SSE_ILLUMINATI_CB_02_END_1,ZZAT!
+ID_DIALOG_SSE_ILLUMINATI_CB_02_END_2,A few repulsor blasts should help even the odds.
+ID_DIALOG_SSE_ILLUMINATI_CB_02_END_3,"Tony! Thank god, how'd you survive?"
+ID_DIALOG_SSE_ILLUMINATI_CB_02_END_4,"Ultron hacked the suit once I got too close. I bailed out, but when he detonated it, he thought I was in it. "
+ID_DIALOG_SSE_ILLUMINATI_CB_02_END_5,"I could call in a backup suit, but you know what? Still PRETTY rude. "
+ID_DIALOG_SSE_ILLUMINATI_CB_02_END_6,"Your transmission cut out. What did you find just before you went down? "
+ID_DIALOG_SSE_ILLUMINATI_CB_02_END_7,"It's bad. The designs he's using to end the world? "
+ID_DIALOG_SSE_ILLUMINATI_CB_02_END_8,"They're ours. "
+ID_DIALOG_SSE_ILLUMINATI_CB_03_INTRO_0,"StarkTech, Vibranium, Unstable Molecules, Pym Particles... Even your interdimensional energy, Cap."
+ID_DIALOG_SSE_ILLUMINATI_CB_03_INTRO_1,"Ultron saw us combine forces to take on the world and I guess thought, ""Hey! Good idea."""
+ID_DIALOG_SSE_ILLUMINATI_CB_03_INTRO_2,"That's what he built here. A machine to end the world, using the Illuminati as a blueprint."
+ID_DIALOG_SSE_ILLUMINATI_CB_03_INTRO_3,"Good god... Okay, so what do we do about this?"
+ID_DIALOG_SSE_ILLUMINATI_CB_03_INTRO_4,"Isn't it obvious? No one knows the tech better than us. We're the only ones here. And, we're heroes."
+ID_DIALOG_SSE_ILLUMINATI_CB_03_INTRO_5,We stop him.
+ID_DIALOG_SSE_ILLUMINATI_CB_03_END_0,This base... It's not just a facility for him to build his doomsday device. It IS the device.
+ID_DIALOG_SSE_ILLUMINATI_CB_03_END_1,"CORRECT. THIS KNOWLEDGE WILL DO YOU NO GOOD. "
+ID_DIALOG_SSE_ILLUMINATI_CB_03_END_2,"You made a crucial mistake taking us on, Ultron. We invented this tech, we can disarm it. "
+ID_DIALOG_SSE_ILLUMINATI_CB_03_END_3,"INCORRECT. "
+ID_DIALOG_SSE_ILLUMINATI_CB_03_END_4,"I AM ALSO YOUR INVENTION, FATHER. AND YOU HAVE NEVER BEEN ABLE TO FULLY DEFEAT ME. "
+ID_DIALOG_SSE_ILLUMINATI_CB_04_INTRO_0,This place is drawing a frankly impressive amount of power. When it gathers enough...
+ID_DIALOG_SSE_ILLUMINATI_CB_04_INTRO_1,It's all over. How do we stop it?
+ID_DIALOG_SSE_ILLUMINATI_CB_04_INTRO_2,"Vibranium's specific frequency CAN be disrupted, but we need power and a way to channel it."
+ID_DIALOG_SSE_ILLUMINATI_CB_04_INTRO_3,"If it's power you need, I have that in spades."
+ID_DIALOG_SSE_ILLUMINATI_CB_04_INTRO_4,"Of course! Brian, if we patch you into Tony's suit…"
+ID_DIALOG_SSE_ILLUMINATI_CB_04_INTRO_5,The repulsor tech should be able to negate the vibranium engine Ultron built and shut this thing down!
+ID_DIALOG_SSE_ILLUMINATI_CB_04_INTRO_6,"Great call. Big Brains 1, murderous robots 0. "
+ID_DIALOG_SSE_ILLUMINATI_CB_04_INTRO_7,"YOU HAVE NOT WON YET! MY DRONES HAVE DELAYED YOU LONG ENOUGH. "
+ID_DIALOG_SSE_ILLUMINATI_CB_04_INTRO_8,"NOW, I WILL DESTROY YOU MYSELF!"
+ID_DIALOG_SSE_ILLUMINATI_CB_04_START_0,"We've got Ultron! Tony, get Britain's powers hooked up, now."
+ID_DIALOG_SSE_ILLUMINATI_CB_04_START_1,"Well, since you asked SO nicely, Hank. Just buy me time."
+ID_DIALOG_SSE_ILLUMINATI_CB_04_END_0,Done! Captain Britain's powers are hooked into my repulsor array.
+ID_DIALOG_SSE_ILLUMINATI_CB_04_END_1," Suddenly I'm craving a few centuries of imperialism and a nice cup of tea."
+ID_DIALOG_SSE_ILLUMINATI_CB_04_END_2,HALT. HALT!
+ID_DIALOG_SSE_ILLUMINATI_CB_04_END_3,"I can hold this metal cad, but only for so long! Whatever you need to do, Iron Man, do it now!"
+ID_DIALOG_SSE_ILLUMINATI_CB_04_END_4,Pressing the button and thinking of England!
+ID_DIALOG_SSE_ILLUMINATI_CB_04_END_5,RUUUUUUUUMBLE!!!!
+ID_DIALOG_SSE_ILLUMINATI_CB_05_INTRO_0,"Vibrainum engine neutralized... We have destroyed your engine of death, android. "
+ID_DIALOG_SSE_ILLUMINATI_CB_05_INTRO_1,"YOU HAVE DESTROYED NOTHING. ONLY DELAYED ME. "
+ID_DIALOG_SSE_ILLUMINATI_CB_05_INTRO_2,THE VIBRANIUM WOULD ALLOW MY MACHINE TO WIPE OUT ALL LIFE ON EARTH.
+ID_DIALOG_SSE_ILLUMINATI_CB_05_INTRO_3,THE ENGINE INSTEAD WILL SIMPLY WIPE OUT ALL LIFE... IN THIS BASE!
+ID_DIALOG_SSE_ILLUMINATI_CB_05_END_0,HKKZT... THIS IS NOT DEFEAT... I WILL RECALIBATE. REFORM. RETURN.
+ID_DIALOG_SSE_ILLUMINATI_CB_05_END_1,He's right. He's a danger to everyone on Earth. Unless he's not on Earth.
+ID_DIALOG_SSE_ILLUMINATI_CB_05_END_2,"Hank, what are you doing? "
+ID_DIALOG_SSE_ILLUMINATI_CB_05_END_3,"He's gathered our tech to end us? I'm going use it to end him. I'm flinging Ultron across the universe. "
+ID_DIALOG_SSE_ILLUMINATI_CB_05_END_4,And where's he gonna end up? You're dropping a damn bomb on some other civilization!
+ID_DIALOG_SSE_ILLUMINATI_CB_05_END_5,"The universe is huge. The odds he lands anywhere inhabited are infinitesimally small. "
+ID_DIALOG_SSE_ILLUMINATI_CB_05_END_6,"He's right. The math works, and we have to think of humanity first."
+ID_DIALOG_SSE_ILLUMINATI_CB_05_END_7,FATHER... FATHER!
+ID_DIALOG_SSE_ILLUMINATI_CB_05_END_8,"So long, Ultron. I will not miss you."
+ID_DIALOG_SSE_ILLUMINATI_CB_05_END_9,"You smug sons a... Playing god, making decisions in the shadows..."
+ID_DIALOG_SSE_ILLUMINATI_CB_05_END_10,Yer no better than the damned robot. Wherever Xavier is... I'm glad he ain't here for this.
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
