@@ -9210,3 +9210,22 @@ ID_ME_NA_BATTLEPASS_SEASON25_ENDING,Season 25 Ending Soon
 ID_ME_DE_BATTLEPASS_SEASON25_ENDING,Battle Pass: 2 more days!
 ID_ME_BO_BATTLEPASS_SEASON25_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Guardian shards and Dark Promotion Credits before the Season ends!"
 ID_ME_BO_TOWER_COMP,"Commander,\n\nWe have resolved an issue with the <color=#fff568>S.W.O.R.D. Satellite</color> event. To make the rewards fair for everyone, we have made the Milestones easier to achieve and replaced the original Leaderboard rewards with Gold. The removed rewards will be allocated to other events in the future. Thank you for your patience!"
+ID_ME_NA_HANKORB_TEASER,Coming Soon: Particle Professor
+ID_ME_DE_HANKORB_CORE,Get additional shards for Hank Pym!
+ID_ME_BO_HANKORB_CORE,"Commander,\n\n<color=#fff568>Particle Professor Milestone</color>\nOpen Particle Party Orbs and receive guaranteed additional shards for this groundbreaking original Ant-Man!\n\nGood luck, Commander!"
+ID_ME_NA_HANKORB_ANNOUNCE,LIVE: Particle Professor
+ID_ME_NA_HANKORB_ENDING,Ending Soon: Particle Professor
+ID_ME_DE_HANKORB_ENDING,Don't miss out on additional Hank Pym shards!
+ID_ME_BO_HANKORB_ENDING,"Commander,\n\nThe Particle Professor Milestone <color=#fff568>ends soon</color>. Continue opening Pym's Pals Orbs to receive even more guaranteed additional shards for this groundbreaking original Ant-Man!\n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_HANKPYM_TEASER,Soon: Hank Pym
+ID_ME_DE_HANKPYM_TEASER,The Doctor Pym
+ID_ME_BO_HANKPYM_TEASER,"Commander,\n\nSuper size your roster with <color=#fff568>Hank Pym</color>!\n\n<color=#fff568>Doctor Pym</color>\nThis pioneer in particle physics keeps his Hero & Illuminati allies protected with Barrier, Healing, and Safeguard. Pair him with at least 2 Illuminati allies to prevent Hero allies from gaining Slow and prevent enemies from gaining Regeneration!\n\n<color=#fff568>Cosmic Crucible Bonuses</color>\nIn Cosmic Crucible, his Passive grants himself and Hero allies strong Drain, while also applying Speed Up to himself and Illuminati allies.\n\nBe on the lookout for details on how to earn their character shards!"
+ID_ME_NA_HANKPYM_ANNOUNCE,Hank Pym is here!
+ID_ME_DE_HANKPYM_ANNOUNCE,Doctor Pym
+ID_ME_BO_HANKPYM_ANNOUNCE,"Commander,\n\nSuper size your roster with <color=#fff568>Hank Pym</color>!\n\n<color=#fff568>Doctor Pym</color>\nThis pioneer in particle physics keeps his Hero & Illuminati allies protected with Barrier, Healing, as well as Safeguard. Pair him with at least 2 Illuminati allies and he'll keep prevent HERO allies from gaining Slow while also preventing enemies from gaining Regeneration!\n\n<color=#fff568>Cosmic Crucible Bonuses</color>\nIn Cosmic Crucible, his Passive gives himself and HERO allies strong Drain, while also applying Speed Up to himself plus Illuminati allies.\n\n<color=#fff568>How to Recruit</color>\n- Particle Party Orb\n- Limited-time offers\n- An upcoming event\n\nRecruit Doctor Pym today!"
+ID_ME_NA_HANKPYM_RS_ENDING,Red Stars: Hank Pym
+ID_ME_DE_HANKPYM_RS_ENDING,Featuring Ends Soon!
+ID_ME_BO_HANKPYM_RS_ENDING,"Commander,\n\n<color=#fff568>Hank Pym</color> will only be featured in all Red Star Orbs for 2 more days!\n\nHurry and open Red Star Orbs while the drop rate is still increased."
+ID_ME_NA_HANKPYM_ORB_ENDING,Particle Party Orb
+ID_ME_DE_HANKPYM_ORB_ENDING,2 days left!
+ID_ME_BO_HANKPYM_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Particle Party Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Hank Pym</color> for your <color=#fff568>Illuminati</color> team for Cosmic Crucible!"

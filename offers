@@ -9198,3 +9198,127 @@ ID_OF_DE_COORDINATEDADVENTURE_DAILY_ENERGY,Stock up on Iso-8 Campaign Energy to 
 ID_OF_DE_COORDINATEDADVENTURE_EVENTORB,Get Allied Supply V orbs for <color=#fff568>Coordinated Adventure</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs featuring guaranteed T2 L5 Ions!
 ID_OF_DE_COORDINATEDADVENTURE_INTERSTITIAL,Stock up on Allied Supply V Orbs for extra progress in the <color=#fff568>Coordinated Adventure Milestone</color>!
 ID_OF_DE_COORDINATEDADVENTURE_FREE,Come back daily for more <color=#fff568>Coordinated Adventure</color> progress!
+ID_OF_NA_EVENT_HANKORB_STARTER,Particle Professor: Starter Bundle
+ID_OF_NA_EVENT_HANKORB_BOOSTER,Particle Professor: Booster Bundle
+ID_OF_NA_EVENT_HANKORB_CATCHUP,Particle Professor: Finisher Bundle
+ID_OF_DE_EVENT_HANKORB_STARTER,Kick off your Hank Pym ant-venture with this cache of Pym's Pals Orbs!
+ID_OF_DE_EVENT_HANKORB_BOOSTER,Strengthen Hank Pym and his colony with this cache of Pym's Pals Orbs!
+ID_OF_DE_EVENT_HANKORB_CATCHUP,Last chance to reinforce your Illuminati team with this cache of Pym's Pals Orbs!
+ID_OF_NA_HANKPYM_FCO_OFFER,Doctor Pym
+ID_OF_DE_HANKPYM_FCO_OFFER,"Each <color=#fff568>Particle Party Orb</color> contains <color=#fff568>up to 180 Hank Pym</color> shards. <color=#fff568>Hank Pym</color> is the TECH Support you need to Safeguard, Barrier, and Heal your Illuminati team while giving them Drain in Cosmic Crucible!"
+ID_OF_DE_HANKPYM_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Hank Pym</color> and unlock one-time only release offers on your next visit! <color=#fff568>Hank Pym</color> is the TECH Support you need to Safeguard, Barrier, and Heal your Illuminati team while giving them Drain in Cosmic Crucible!"
+ID_OF_DE_HANKPYM_OFFER_SHARD,"Power up <color=#fff568>Hank Pym</color> with this shard offer! <color=#fff568>Hank Pym</color> is the TECH Support you need to Safeguard, Barrier, and Heal your Illuminati team while giving them Drain in Cosmic Crucible!"
+ID_OF_DE_HANKPYM_UNLOCK_OFFER,"Unlock <color=#fff568>Hank Pym</color> now! <color=#fff568>Hank Pym</color> is the TECH Support you need to Safeguard, Barrier, and Heal your Illuminati team while giving them Drain in Cosmic Crucible!"
+ID_OF_STOREBAR_HANKPYM,Dual Offer: Hank Pym
+ID_OF_NA_DUAL_HANKPYM,Dual Offer: Hank Pym
+ID_OF_DE_DUAL_HANKPYM,Choose your path to power up this <color=#fff568>Illuminati</color> member!
+ID_OF_DE_DUAL_UNLOCK_HANKPYM,Unlock this <color=#fff568>Illuminati</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_HANKPYM_FCO_OFFER_BASIC,Hank Pym Release Offer
+ID_OF_NA_FCR_CRIMSON_UNIQUE,Unlock Special: Crimson Gear
+ID_OF_NA_FCR_CRIMSON_GEAR,Grab the Crimson gear needed to power up the latest character added to your roster.
+ID_OF_NA_FCR_CRIMSON_CATALYSTS,Unlock Special: Uniquely Crimson
+ID_OF_DE_FCR_CRIMSON_UNIQUE,Pick up the Crimson Unique and Mini-Unique gear for your new character to help them jump right into the greatest challenges.
+ID_OF_DE_FCR_CRIMSON_GEAR,Unlock Special: Crimson Catalysts
+ID_OF_DE_FCR_CRIMSON_CATALYSTS,Use these Catalysts to craft your way to Crimson gear greatness for your new roster member.
+ID_OF_NA_HANKPYM_WEB_EXTRA_FCO_OFFER,Hank Pym Unlock Offer
+ID_OF_DE_HANKPYM_WEB_EXTRA_FCO_OFFER,"The Doctor Pym, <color=#fff568>Hank Pym</color>, has arrived!"
+ID_OF_NA_HANKPYM_WEB_SPECIAL_OFFER,Doctor Pym Special
+ID_OF_DE_HANKPYM_WEB_SPECIAL_OFFER,"<color=#fff568>Web Special!</color><color=#fff568>Hank Pym</color> is the TECH Support you need to Safeguard, Barrier, and Heal your Illuminati team while giving them Drain in Cosmic Crucible!"
+ID_OF_NA_SUMMER24_VKNIGHT_REDGOBLIN_TRAINING,Symbiote Surge
+ID_OF_NA_SUMMER24_PETERBPARKER,Sunny Fatherhood
+ID_OF_NA_SUMMER24_GOLD_DPC_GOLDORB,Gold And More
+ID_OF_NA_SUMMER24_GOLD_ABM,Summer Gold
+ID_OF_NA_SUMMER24_XTXM_TRAINING,X-Treme X-Men Training Course
+ID_OF_NA_SUMMER24_XTXM_GT18_GT19,Sunshine X-Treme X-Men
+ID_OF_NA_SUMMER24_OOT_A18_A19,Time For Out Of Time
+ID_OF_NA_SUMMER24_OOT_TEAL_UNIQUES,Out Of Time Tech
+ID_OF_NA_SUMMER24_CABAL_A18_DPC,Cabal Power
+ID_OF_NA_SUMMER24_PADAPOOL_GOLD_UNIQUES,Claws And Teeth
+ID_OF_NA_SUMMER24_FORGE_E7,Forge on Fire
+ID_OF_NA_SUMMER24_CABAL_UNIQUES,Cabal Technology
+ID_OF_NA_SUMMER24_BLKNIGHT_GT19,Black Knight Crimson Tech
+ID_OF_NA_SUMMER24_TRAINING_E7,Elite Training
+ID_OF_NA_SUMMER24_GRROBBIE_BLACKCAT_TEALUNIQUES,Secret Defender Teal Evolution
+ID_OF_NA_SUMMER24_ALPHAFLIGHT_A19,Sun Warriors
+ID_OF_NA_SUMMER24_ABM_DPC_T2L5,Latent Ability Set
+ID_OF_NA_SUMMER24_MEGA_DIAMONDS,Summer Diamond Mega Pack
+ID_OF_NA_SUMMER24_GOLD_DDC,Summer Gold Rush
+ID_OF_NA_SUMMER24_TRAINING_ISO,Sunray ISO
+ID_OF_NA_SUMMER24_SUPER_GOLD,Summer Gold Super Pack
+ID_OF_NA_SUMMER24_PANDAPOOL_DAKEN,Mercs for Money Team Up
+ID_OF_NA_SUMMER24_ABM_GOLD,Sunlit Ability Boost
+ID_OF_NA_SUMMER24_CRIMSON_STAT_CATS,Sunlight Orbs
+ID_OF_NA_SUMMER24_SPIDERSOCIETY_UNIQUES,Spider Society High Tech
+ID_OF_NA_SUMMER24_SMALL_GOLD,Gold Lite Bundle
+ID_OF_NA_SUMMER24_SMALL_DIAMONDS,Diamond Lite Bundle
+ID_OF_NA_SUMMER24_GOLD_TEAL_UNIQUES,Golden Sun Hunter
+ID_OF_NA_SUMMER24_TRAIN_GOLD_A18_A17_T2L5,Heatwave Workout
+ID_OF_NA_SUMMER24_ISOITEM_BLUEBRAWLER_FOCUS6,Iso Revolution
+ID_OF_NA_SUMMER24_DPC_TRAIN_GOLD_MORB,Summer Bliss Pack
+ID_OF_NA_SUMMER24_SUPERIORSIX_DIAMOND,Green Goblin Chaser
+ID_OF_NA_SUMMER24_VOIDKNIGHT_E7,Mysterious Warrior
+ID_OF_NA_SUMMER24_TRAINING_BUNDLE,Beach Training
+ID_OF_NA_SUMMER24_HIVEMIND_UNIQUES,HiveMind Innovation
+ID_OF_NA_SUMMER24_ISO_T2L5_GOLD,Summer Radiance
+ID_OF_NA_SUMMER24_TRAINING_BOOSTER,Training Booster
+ID_OF_NA_SUMMER24_NORTHSTAR_GOLD_TRAIN,Journey To the North
+ID_OF_NA_SUMMER24_DPC_BLASTER_ISO,Summer Stamina
+ID_OF_NA_SUMMER24_ALPHAFLIGHT_UNIQUES,Alpha Flight Teal Tech
+ID_OF_NA_SUMMER24_REDGOBLIN_DORB,Red Goblin Scarlet Shredder
+ID_OF_NA_SUMMER24_GOLD_A17_A18,Golden Sun Treasure
+ID_OF_NA_SUMMER24_OML_UNIQUES,Old Man Logan Teal Tech
+ID_OF_NA_SUMMER24_HORSEMAN_ORB_COMBO,Sunrise Orbs
+ID_OF_NA_SUMMER24_DIAMOND_GOLD_ABM,Warm-Up in Summer
+ID_OF_NA_SUMMER24_TRANINGORB,Summer Training
+ID_OF_NA_SUMMER24_A19_BASIC_CAT,Summer Inferno Bundle
+ID_OF_NA_SUMMER24_MSMARVELHL_GROBBIE,Secret Of Defenders
+ID_OF_NA_SUMMER24_SPECIAL_GOLD_SALE,Summer Special Deal
+ID_OF_DE_SUMMER24_VKNIGHT_REDGOBLIN_TRAINING,Empower your Hive-Mind characters to dominate raids with the Symbiote Surge! Equip your team with the strength they need to conquer every challenge.
+ID_OF_DE_SUMMER24_PETERBPARKER,Enjoy exclusive resources and rewards that honor the strength and dedication of fatherly figures in your squad.
+ID_OF_DE_SUMMER24_GOLD_DPC_GOLDORB,"Boost your squad with Gold, Gold Orbs, and DPC. <color=#ffda21>Greater than a 3x value</color>!"
+ID_OF_DE_SUMMER24_GOLD_ABM,"Enhance your heroes, unlock abilities, and dominate the battlefield with this exclusive offer!"
+ID_OF_DE_SUMMER24_XTXM_TRAINING,"Elevate your team with the X-Treme X-Men Training Course! Gain exclusive character shards, training modules to power up your X-men heroes and dominate every battle."
+ID_OF_DE_SUMMER24_XTXM_GT18_GT19,"Get top-tier gear pieces to elevate your X-Treme X-Men heroes to new heights. Equip, enhance, and dominate the battlefield under the summer sun!"
+ID_OF_DE_SUMMER24_OOT_A18_A19,Collect OOT shards and top-tier gear pieces to power up your heroes and conquer every challenge ahead.
+ID_OF_DE_SUMMER24_OOT_TEAL_UNIQUES,Unlock advanced power with the Out Of Time Tech! <color=#ffda21>A 4.6x value</color>!!
+ID_OF_DE_SUMMER24_CABAL_A18_DPC,"Unleash the Power of the Cabal! Gain valuable Cabal shards, A18 and DPC to strengthen your team and dominate your enemies."
+ID_OF_DE_SUMMER24_PADAPOOL_GOLD_UNIQUES,Feel the power of the Claws and Teeth with your Pandapool. Set ready for your Mercs team to conquer every summer battle.
+ID_OF_DE_SUMMER24_FORGE_E7,Ignite your Force' potential with this 3x value offer! Enhance your Forge's power and set the battlefield ablaze.
+ID_OF_DE_SUMMER24_CABAL_UNIQUES,"Obtain unique gears to equip your Cabal heroes with superior enhancements, ensuring they stand victorious in every battle."
+ID_OF_DE_SUMMER24_BLKNIGHT_GT19,Acquire Black Knight character shards and top-tier gears to elevate your heroes and conquer the battlefield with unmatched prowess.
+ID_OF_DE_SUMMER24_TRAINING_E7,Level up your squad with Elite Training! Gain L4 training modules and Elite 7 credits to boost your heroes' abilities and dominate the battlefield.
+ID_OF_DE_SUMMER24_GRROBBIE_BLACKCAT_TEALUNIQUES,Acquire Secret Defender shards and their top-tier gears to evolve your heroes into formidable protectors of justice.
+ID_OF_DE_SUMMER24_ALPHAFLIGHT_A19,Empower your roster with Alpha Flight shards and A18. Equip your heroes with everything they need to shine on the battlefield.
+ID_OF_DE_SUMMER24_ABM_DPC_T2L5,"Access essential Ability Materials, DPC, and Iso-8 resources to empower your heroes and maximize their combat effectiveness."
+ID_OF_DE_SUMMER24_MEGA_DIAMONDS,Unleash your roster power with the Summer Diamond Mega Pack! <color=#ffda21>Greater than a 4x value</color>!
+ID_OF_DE_SUMMER24_GOLD_DDC,Join the Summer Gold Rush and strike it rich! Secure a wealth of Gold and DDC to bolster your heroes for the ultimate summer battles.
+ID_OF_DE_SUMMER24_TRAINING_ISO,Train your heroes with advanced enhancements to shine brightly in every summer battle.
+ID_OF_DE_SUMMER24_SUPER_GOLD,Dive into a Treasure Trove of Gold and Gold Orbs to empower your squad and dominate the battlefield.
+ID_OF_DE_SUMMER24_PANDAPOOL_DAKEN,Acquire Mercs for Money shards and their elite gears to strengthen your squad and ensure victory on every mission.
+ID_OF_DE_SUMMER24_ABM_GOLD,Elevate your heroes' abilities with the Sunlit Ability Boost! Get top-tier Ability Materials and Gold for your squad to shine brightly in every summer battle.
+ID_OF_DE_SUMMER24_CRIMSON_STAT_CATS,Acquire top-tier gear orbs to equip your heroes with powerful enhancements and lead them to victory.
+ID_OF_DE_SUMMER24_SPIDERSOCIETY_UNIQUES,Join the Spider Society Party! Gather Spider Society shards and L4 Training Modules to train your heroes and prepare them for the ultimate battles.
+ID_OF_DE_SUMMER24_SMALL_GOLD,Strengthen your team's capabilities and prepare them for any challenge ahead.
+ID_OF_DE_SUMMER24_SMALL_DIAMONDS,"Enhance your heroes' abilities with the Diamond bundle, perfect for a season of victorious battles."
+ID_OF_DE_SUMMER24_GOLD_TEAL_UNIQUES,Hunt under the Golden Sun! Acquire Gold and Teal Uniques to bolster your heroes for summer's challenges.
+ID_OF_DE_SUMMER24_TRAIN_GOLD_A18_A17_T2L5,Feel the sizzle with Heatwave Workout! Gear up your heroes with exclusive resources to dominate summer's challenges.
+ID_OF_DE_SUMMER24_ISOITEM_BLUEBRAWLER_FOCUS6,Empower your heroes with this Iso offer to dominate every summer battle they face.
+ID_OF_DE_SUMMER24_DPC_TRAIN_GOLD_MORB,"Indulge in the Summer Bliss Pack, your gateway to ultimate power! Ensure your heroes are fully equipped to enjoy victories under the summer sun."
+ID_OF_DE_SUMMER24_SUPERIORSIX_DIAMOND,Hunt down power with the Green Goblin Chaser! Acquire Green Goblin (Classic) Orbs and Diamonds to strengthen your team and dominate the battlefield.
+ID_OF_DE_SUMMER24_VOIDKNIGHT_E7,Unleash the power of the Mysterious Warrior! Acquire Void Knight shards and Elite 7 credits to elevate your heroes and conquer every challenge.
+ID_OF_DE_SUMMER24_TRAINING_BUNDLE,Level up under the sun with Beach Training! Access essential training materials to strengthen your heroes and prepare them for epic battles.
+ID_OF_DE_SUMMER24_HIVEMIND_UNIQUES,Unlock the power with HiveMind Innovation! Acquire HiveMind teal uniques to enhance your heroes and lead them to victory with advanced technology.
+ID_OF_DE_SUMMER24_ISO_T2L5_GOLD,"Bask in the glow of Summer Radiance! This offer brings you a radiant collection of gold and essential Iso items, ensuring your heroes shine brightly on the battlefield."
+ID_OF_DE_SUMMER24_TRAINING_BOOSTER,Accelerate your heroes' growth with the Training Booster! Enhance your team's skills and abilities in this hot summer deal.
+ID_OF_DE_SUMMER24_NORTHSTAR_GOLD_TRAIN,"Obtain Northstar shards, Gold, and Training Modules to fortify your heroes for triumph in the heat of summer battles."
+ID_OF_DE_SUMMER24_DPC_BLASTER_ISO,Boost your team's endurance with Summer Stamina! Secure DPC and T2 Blaster enhancements to empower your heroes for the summer battles ahead.
+ID_OF_DE_SUMMER24_ALPHAFLIGHT_UNIQUES,Equip your Alpha Flight heroes with cutting-edge technology from Alpha Flight Teal Tech! Enhance their abilities and readiness for any mission.
+ID_OF_DE_SUMMER24_REDGOBLIN_DORB,Unleash chaos with the Red Goblin Scarlet Shredder! Obtain Red Goblin shards and Diamond Orbs to empower your forces and dominate every battlefield encounter.
+ID_OF_DE_SUMMER24_GOLD_A17_A18,"Discover riches with the Golden Sun Treasure! This offer includes a bounty of gold and top-tier gears, equipping your heroes for victory under the golden sun."
+ID_OF_DE_SUMMER24_OML_UNIQUES,"Acquire unique teal gear designed for Old Man Logan, enhancing his prowess and ensuring he remains a formidable force on the Arena."
+ID_OF_DE_SUMMER24_HORSEMAN_ORB_COMBO,Rise your team power with Sunrise Orbs! Get your big luck with Horseman Orbs combo to bolster your squad and conquer every challenge ahead
+ID_OF_DE_SUMMER24_DIAMOND_GOLD_ABM,Get your team ready for the heat of Summer! Stock up on essential resources and abilities to enhance your heroes' skills and prepare them for summer challenges.
+ID_OF_DE_SUMMER24_TRANINGORB,"Enhance your heroes with Summer Training! Gain access to Training Orbs and T3 Ability materials, ensuring your squad is prepared to excel in summer battles."
+ID_OF_DE_SUMMER24_A19_BASIC_CAT,Turn up the heat with the Summer Inferno Bundle. Enjoy these good top tier gears.
+ID_OF_DE_SUMMER24_MSMARVELHL_GROBBIE,"Enjoy summer with this offer! Get Secret Defender shards, gears, ability, and training orbs to fortify your team's capabilities and achieve supremacy on the battlefield."
+ID_OF_DE_SUMMER24_SPECIAL_GOLD_SALE,"Enjoy this special summer offer! Dive into a wealth of Gold, Training Orbs, and Mega Orb, providing your heroes with the special resources they need to excel."
