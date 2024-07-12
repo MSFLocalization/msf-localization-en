@@ -52,6 +52,7 @@ ID_GT_EVENT_NAME_SEASON5,Season 5
 ID_GT_EVENT_NAME_SEASON6,Season 6
 ID_GT_EVENT_NAME_SEASON7,Season 7
 ID_GT_EVENT_NAME_SEASON8,Season 8
+ID_GT_EVENT_NAME_SEASON9,Season 9
 ID_GT_EVENT_NAME_EVENT,Ultimate 32
 ID_GT_GLOBAL_RULES_NAME,Magical Disruptions
 ID_GT_GLOBAL_RULES_DESC,"On Offense, reduce Speed and Resistance by <color=#86e619>10%</color> for all non-<color=#fff568>MASTERS OF EVIL VILLAIN MYSTICS</color>. \nOn Defense, reduce Speed and Resistance by <color=#86e619>20%</color> for all <color=#fff568>COSMIC VILLAIN MYSTICS</color>. \nOn any <color=#fff568>COSMIC VILLAIN MYSTICS</color> Turn, apply <color=#fff568>Bleed</color> to that character. \nOn Defense, all characters gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage. \n<color=#fff568>DARKHOLD</color> characters have -<color=#86e619>10%</color> Max Health, Focus, Resistance, and Damage."
@@ -303,3 +304,17 @@ ID_GT_S8_ROOM5_RULES_NAME,I'll Be Back
 ID_GT_S8_ROOM5_RULES_DESC,"On Defense and Offense,\n<color=#fff568>Villian</color> characters:\n> On Spawn, gain <color=#fff568>Revive Once</color> at <color=#86e619>50%</color> Max Health."
 ID_GT_S8_ROOM6_RULES_NAME,Super Charged
 ID_GT_S8_ROOM6_RULES_DESC,"On Defense and Offense,\nAll Characters:\n> After using an Ultimate Ability, spread all Positive Effects to Adjacent Allies.\n> Ultimate abilities cost <color=#86e619>2</color> less Ability Energy."
+ID_GT_S9_GLOBAL_RULES_NAME,The Guiding Hand
+ID_GT_S9_GLOBAL_RULES_DESC,"The Guiding Hand\nOn Offense and Defense,\n<color=#fff568>Wakanda</color> characters:\n> Count as <color=#fff568>Illuminati</color>.\nOn Defense,\nAll characters:\n> Gain +<color=#86e619>20%</color> Max Health and +<color=#86e619>10%</color> Damage.\n> After each completed attempt, gain +<color=#86e619>1</color> <color=#fff568>Exhausted</color>. Canceled combats do not gain +<color=#86e619>1</color> <color=#fff568>Exhausted</color>."
+ID_GT_S9_ROOM1_RULES_NAME,Full House
+ID_GT_S9_ROOM1_RULES_DESC,"On Offense and Defense,\n<color=#9055FF>Striker</color> characters:\n> With <color=#fff568>Ability Block</color>, gain +<color=#86e619>50%</color> Damage.\n>When attacking a character with <color=#fff568>Ability Block</color>, apply <color=#fff568>Bleed</color>.\n \n<color=#9055FF>Raider</color> characters:\n> On Turn, clear <color=#fff568>Ability Block</color> and heal self for <color=#86e619>10%</color> of Max Health.\n \n<color=#9055FF>Skirmisher</color> characters:\n> On successful attack, apply <color=#fff568>Ability Block</color> to primary target."
+ID_GT_S9_ROOM2_RULES_NAME,Fatigued
+ID_GT_S9_ROOM2_RULES_DESC,"On Offense and Defense,\nAll characters:\n> Ultimate abilities cost <color=#86e619>2</color> less to use.\n> When using Ultimate Abilites, gain <color=#fff568>Slow</color>.\n>On ally turn, Characters with <color=#fff568>Slow</color> gain <color=#fff568>Assist Now</color>."
+ID_GT_S9_ROOM3_RULES_NAME,Twisted Blade
+ID_GT_S9_ROOM3_RULES_DESC,"On Offense and Defense,\nAll characters:\n> With <color=#9055FF>Vulnerable</color>, on successful hit, apply <color=#9055FF>Vulnerable</color> up to a max of <color=#86e619>5</color>.\n> When attacking a character with <color=#9055FF>Vulnerable</color>, apply <color=#fff568>Bleed</color>."
+ID_GT_S9_ROOM4_RULES_NAME,Vibranium Enhanced
+ID_GT_S9_ROOM4_RULES_DESC,"On Offense and Defense,\nAll characters:\n> When using Basic Abilites, Generate Ability Energy.\n> Ultimate Abilities cost +<color=#86e619>2</color> more Ability Energy.\n \nOn Defense,\nAll characters:\n> When using Special Abilities, gain <color=#fff568>Defense Up</color>, <color=#fff568>Regeneration</color>, and <color=#fff568>Offense Up</color>."
+ID_GT_S9_ROOM5_RULES_NAME,Health Insurance
+ID_GT_S9_ROOM5_RULES_DESC,"On Offense and Defense,\n> On turn, Clear all positive effects from self and heal <color=#86e619>10%</color> of that character's Max Health for each positive effect removed."
+ID_GT_S9_ROOM6_RULES_NAME,Dulom's Destruction
+ID_GT_S9_ROOM6_RULES_DESC,"On Offense and Defense,\nAll Characters:\n> When using an Ultimate Ability, Generate +<color=#86e619>1</color> Ability Energy for each enemy."

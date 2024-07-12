@@ -242,6 +242,8 @@ ID_MISSION_OLDMANLOGANTRIALS_01_09_NAME,Mission 9
 ID_MISSION_OLDMANLOGANTRIALS_01_10_NAME,Mission 10
 ID_MISSION_OLDMANLOGANTRIALS_BLANK_DESC,
 ID_PD_SL_TEMPORAL,Temporal Dimension
+ID_PD_SL_TEMPORAL_2,Temporal Dimension II
+ID_PD_SL_TEMPORAL_3,Temporal Dimension III
 ID_PD_SL_LOST,Lost Dimension
 ID_PD_SL_PROTO,Proto Dimension
 ID_PD_SL_SHATTERED,Shattered Dimension
@@ -257,7 +259,21 @@ ID_MIS_PD_SL_CI_07_NAME,Cabal Hard III
 ID_MIS_PD_SL_CI_08_NAME,Cabal Hard IV
 ID_MIS_PD_SL_CI_09_NAME,Cabal Master I
 ID_MIS_PD_SL_CI_10_NAME,Cabal Master II
-ID_MIS_PD_SL_CI_21_NAME,Final Mission
+ID_MIS_PD_SL_CI_11_NAME,Illuminati Normal I
+ID_MIS_PD_SL_CI_12_NAME,Illuminati Normal II
+ID_MIS_PD_SL_CI_13_NAME,Illuminati Normal III
+ID_MIS_PD_SL_CI_14_NAME,Illuminati Normal IV
+ID_MIS_PD_SL_CI_15_NAME,Illuminati Hard I
+ID_MIS_PD_SL_CI_16_NAME,Illuminati Hard II
+ID_MIS_PD_SL_CI_17_NAME,Illuminati Hard III
+ID_MIS_PD_SL_CI_18_NAME,Illuminati Hard IV
+ID_MIS_PD_SL_CI_19_NAME,Illuminati Master I
+ID_MIS_PD_SL_CI_20_NAME,Illuminati Master II
+ID_MIS_PD_SL_CI_21_NAME,Cabal Legendary
+ID_MIS_PD_SL_CI_22_NAME,Cabal Mythic
+ID_MIS_PD_SL_CI_23_NAME,Illuminati Legendary
+ID_MIS_PD_SL_CI_24_NAME,Illuminati Mythic
+ID_MIS_PD_SL_CI_25_NAME,The Temporal Anomaly
 ID_MIS_PD_SL_CABAL_HINT_01,"<color=#fff568>Temporal Dimension</color> Hints\n- If you need Temporal Health Packs you can find them in a special login calendar, milestones, events, and some special offers."
 ID_MIS_PD_SL_CABAL_HINT_02,<color=#fff568>Temporal Dimension</color> Hints\n- Some missions grant allies. Use them to your advantage.
 ID_MIS_PD_SL_CABAL_HINT_03,"<color=#fff568>Temporal Dimension</color> Hints\n- If you need Temporal Health Packs you can find them in a special login calendar, milestones, events, and some special offers."
@@ -273,5 +289,30 @@ ID_PD_SL_REQ_CABAL_MASTER,Required:\n3 <color=#fff568>CABAL</color> at Gear Tier
 ID_PD_SL_REQ_CABAL_NODE_NORMAL,Requires 3 <color=#fff568>CABAL</color> at GT 14
 ID_PD_SL_REQ_CABAL_NODE_HARD,Requires 3 <color=#fff568>CABAL</color> at GT 14
 ID_PD_SL_REQ_CABAL_NODE_MASTER,Requires 3 <color=#fff568>CABAL</color> at GT 14
+ID_PD_SL_REQ_CABAL_FFA_L,Allowed:<color=#fff568>CABAL & LEGENDARY</color>\nREQUIRED: GT 14
+ID_PD_SL_REQ_CABAL_NODE_FFA_L,Allowed:<color=#fff568>CABAL & LEGENDARY</color>\nREQUIRED: GT 14
+ID_PD_SL_REQ_CABAL_FFA_M,Allowed:<color=#fff568>CABAL & MYTHIC</color>\nREQUIRED: GT 15
+ID_PD_SL_REQ_CABAL_NODE_FFA_M,Allowed:<color=#fff568>CABAL & MYTHIC</color>\nREQUIRED: GT 15
 ID_PD_SL_CABAL_DESC,Featuring The CABAL
 ID_PD_SL_CABAL_DETAILS,"A <color=#fff568>Pocket Dimension</color> with unusual energies has been detected. For a limited time, the <color=#fff568>CABAL</color> is attempting to secure the resources of this fleeting realm.\n\n<b>Details</b>\n- Minimum Requirements: 3 CABAL characters at Gear Tier 14\n-  3 Yellow Star, Gear Tier 15 or higher characters are recommended\n- This event is very challenging\n- This event uses <color=#fff568>Temporal Health Packs</color> to heal and revive characters."
+ID_PD_SL_REQ_ILLUMINATI_NORMAL,Required:\n5 <color=#fff568>ILLUMINATI</color> at Gear Tier 14
+ID_PD_SL_REQ_ILLUMINATI_HARD,Required:\n5 <color=#fff568>ILLUMINATI</color> at Gear Tier 14
+ID_PD_SL_REQ_ILLUMINATI_MASTER,Required:\n5 <color=#fff568>ILLUMINATI</color> at Gear Tier 14
+ID_PD_SL_REQ_ILLUMINATI_NODE_NORMAL,Requires 5 <color=#fff568>ILLUMINATI</color> at GT 14
+ID_PD_SL_REQ_ILLUMINATI_NODE_HARD,Requires 5 <color=#fff568>ILLUMINATI</color> at GT 14
+ID_PD_SL_REQ_ILLUMINATI_NODE_MASTER,Requires 5 <color=#fff568>ILLUMINATI</color> at GT 14
+ID_PD_SL_REQ_ILLUMINATI_FFA_L,Allowed:<color=#fff568>ILLUMINATI & LEGENDARY</color>\nREQUIRED: GT 14
+ID_PD_SL_REQ_ILLUMINATI_NODE_FFA_L,Allowed:<color=#fff568>ILLUMINATI & LEGENDARY</color>\nREQUIRED: GT 14
+ID_PD_SL_REQ_ILLUMINATI_FFA_M,Allowed:<color=#fff568>ILLUMINATI & MYTHIC</color>\nREQUIRED: GT 15
+ID_PD_SL_REQ_ILLUMINATI_NODE_FFA_M,Allowed:<color=#fff568>ILLUMINATI & MYTHIC</color>\nREQUIRED: GT 15
+ID_PD_SL_REQ_CI_BOSS,Required:\n3 <color=#fff568>CABAL or ILLUMINATI</color> at Gear Tier 15
+ID_PD_SL_REQ_CI_BOSS_NODE,Allowed:<color=#fff568>CABAL & ILLUMINATI</color>\nREQUIRED: GT 15
+ID_PD_SL_CI_DESC,CABAL vs. ILLUMINATI
+ID_PD_SL_CI_DETAILS,"A <color=#fff568>Pocket Dimension</color> with peculiar energies has been detected. For a limited time, the <color=#fff568>CABAL</color> and <color=#fff568>ILLUMINATI</color> are competing to exploit the mysteries of this bizarre reality.\n\n<b>Details</b>\n- Minimum Requirements: 3 CABAL and 5 ILLUMINATI characters at Gear Tier <color=#fff568>14</color>\n- 5 Yellow Star, Gear Tier 15 or higher characters are strongly recommended\n- Some missions grant characters to use, or allow additional traits to join.\n- This event is very challenging\n- This event uses <color=#fff568>Temporal Health Packs</color> to heal and revive characters."
+ID_PD_SLCI_CARD_INFO,"A cataclysmic event somewhere in the multiverse has caused an explosion in the number of newly detected Pocket Dimensions. The Cabal and the Illuminati have located just such a reality containing strange temporal energies. Now they both race to explore and exploit the spoils of this fleeting realm before it vanishes!\n\n- Minimum Requirements: 3 CABAL and 5 ILLUMINATI characters at Gear Tier 14\n- 5 Yellow Star, Gear Tier 15 or higher characters are strongly recommended\n- Some missions grant characters to use, or allow additional traits to join.\n- This event is very challenging\n- This event uses Temporal Health Packs to heal and revive characters.\n"
+ID_MIS_PD_SL_CI_HINT_01,<color=#fff568>Temporal Dimension</color> Hints\n- If you're struggling with a difficult battle increasing the power of your characters can be very helpful.
+ID_MIS_PD_SL_CI_HINT_02,<color=#fff568>Temporal Dimension</color> Hints\n- Choose your targets carefully. Defeating enemies in the proper order can be the difference between victory and defeat.
+ID_MIS_PD_SL_CI_HINT_03,<color=#fff568>Temporal Dimension</color> Hints\n- Legendary and Mythic missions allow you to bring Legendary or Mythic allies accordingly.\n- You also don't need to bring Cabal or Illuminati characters if you just want to obliterate the enemy teams.
+ID_MIS_PD_SL_CI_HINT_04,<color=#fff568>Temporal Dimension</color> Hints\n- It seems that something has happened to the multiverse. The number of detected Pocket Dimensions is increasing...
+ID_MIS_PD_SL_CI_HINT_05,<color=#fff568>Temporal Dimension</color> Hints\n- S.T.R.I.K.E. is monitoring a dramatic surge in the number of multiversal events. It may soon be necessary to explore many of these mysterious Pocket Dimensions to see what secrets they hold.
+ID_MIS_PD_SL_CI_HINT_06,"<color=#fff568>Temporal Dimension</color> Hints\n- The Cabal synergizes with Villains, while the Illuminati work best with Heroes.\n- The first allies you will have in this mission are villains, and if they fall heroes will come to your aid."

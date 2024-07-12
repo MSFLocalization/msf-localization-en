@@ -9288,7 +9288,7 @@ ID_OF_DE_SUMMER24_CABAL_UNIQUES,"Obtain unique gears to equip your Cabal heroes 
 ID_OF_DE_SUMMER24_BLKNIGHT_GT19,Acquire Black Knight character shards and top-tier gears to elevate your heroes and conquer the battlefield with unmatched prowess.
 ID_OF_DE_SUMMER24_TRAINING_E7,Level up your squad with Elite Training! Gain L4 training modules and Elite 7 credits to boost your heroes' abilities and dominate the battlefield.
 ID_OF_DE_SUMMER24_GRROBBIE_BLACKCAT_TEALUNIQUES,Acquire Secret Defender shards and their top-tier gears to evolve your heroes into formidable protectors of justice.
-ID_OF_DE_SUMMER24_ALPHAFLIGHT_A19,Empower your roster with Alpha Flight shards and A18. Equip your heroes with everything they need to shine on the battlefield.
+ID_OF_DE_SUMMER24_ALPHAFLIGHT_A19,Empower your roster with Alpha Flight shards and A19. Equip your heroes with everything they need to shine on the battlefield.
 ID_OF_DE_SUMMER24_ABM_DPC_T2L5,"Access essential Ability Materials, DPC, and Iso-8 resources to empower your heroes and maximize their combat effectiveness."
 ID_OF_DE_SUMMER24_MEGA_DIAMONDS,Unleash your roster power with the Summer Diamond Mega Pack! <color=#ffda21>Greater than a 4x value</color>!
 ID_OF_DE_SUMMER24_GOLD_DDC,Join the Summer Gold Rush and strike it rich! Secure a wealth of Gold and DDC to bolster your heroes for the ultimate summer battles.
@@ -9322,3 +9322,13 @@ ID_OF_DE_SUMMER24_TRANINGORB,"Enhance your heroes with Summer Training! Gain acc
 ID_OF_DE_SUMMER24_A19_BASIC_CAT,Turn up the heat with the Summer Inferno Bundle. Enjoy these good top tier gears.
 ID_OF_DE_SUMMER24_MSMARVELHL_GROBBIE,"Enjoy summer with this offer! Get Secret Defender shards, gears, ability, and training orbs to fortify your team's capabilities and achieve supremacy on the battlefield."
 ID_OF_DE_SUMMER24_SPECIAL_GOLD_SALE,"Enjoy this special summer offer! Dive into a wealth of Gold, Training Orbs, and Mega Orb, providing your heroes with the special resources they need to excel."
+ID_OF_NA_THS_TEAM_OFFER,Time Heist: Tier 2
+ID_OF_DE_THS_TEAM_OFFER,Only for Time Heist Players! Continue to upgrade your team with this special offer!
+ID_OF_NA_CAL_GENERIC_REDSTAR_LC,Red Star Orb Calendar
+ID_OF_NA_CAL_GENERIC_ABM_LC,Ability Mat Calendar
+ID_OF_NA_CAL_INCURSION_ENERGY_LC,Incursion Energy Calendar
+ID_OF_DE_CAL_GENERIC_REDSTAR_LC,Unlock this calendar for daily boosts of <color=#ffda21>Red Star Orbs</color> over {var2} days to power up your Roster.
+ID_OF_DE_CAL_GENERIC_T2_T3_ABM_LC,Unlock this calendar for daily boosts of <color=#ffda21>T2 and T3 Ability Materials</color> over {var2} days to power up your Roster.
+ID_OF_DE_CAL_GENERIC_T3_ABM_LC,Unlock this calendar for daily boosts of <color=#ffda21>T3 Ability Materials</color> over {var2} days to power up your Roster.
+ID_OF_DE_CAL_GENERIC_T4_ABM_LC,Unlock this calendar for daily boosts of <color=#ffda21>T3 and T4 Ability Materials</color> over {var2} days to power up your Roster.
+ID_OF_DE_CAL_PROMO_CREDITS_SILVER_LC_VAR,Get <color=#fff568>{var1} Silver Promotion Credits</color> over {var2} days to help promote characters!
