@@ -4689,7 +4689,29 @@ ID_QU_SD_COORDINATEDADVENTURE,Spend Iso-8 Campaign Energy for glorious rewards!
 ID_QU_LD_COORDINATEDADVENTURE,Coordinated Adventure Milestone\nGain progress in this 6-day event by battling in Iso-8 Campaign and earning Allied Supply V Orb fragments from daily Free Claims and special offers. Earn rewards including L4 Training Modules and T2 Level 5 Ions. You'll also earn points towards the month-long Wilderness Expedition milestone by collecting Lab Supplies.
 ID_QU_S1_COORDINATEDADVENTURE,Spend 1 Iso-8 Campaign Energy
 ID_QU_S2_COORDINATEDADVENTURE,Earn 1 Allied Supply V Orb Fragment
+ID_QU_NA_THEGUARDIANOFTHECAMP,The Guardian of the Camp
+ID_QU_DE_THEGUARDIANOFTHECAMP,Earn Lab Supplies and Map Fragment #3!
+ID_QU_LD_THEGUARDIANOFTHECAMP,"The Guardian of the Camp Milestone\nGain progress in this event by collecting Panther Orb Fragments from Iso-8 Campaigns and battling in Cosmic Crucible with a bonus for using Black Panther (Shuri) or Hank Pym. Earn rewards including Black Panther (Shuri) shards and a chance at Crimson gear. You'll also earn points towards the month-long Wilderness Expedition milestone by collecting Lab Supplies and the final Map Fragment #3.\n\nLeaderboard\nCompete on the Leaderboard for Black Panther (Shuri) Diamonds, Crimson Mutant Mini-Uniques, and Crimson Gear Raid Orbs!\n\nThe Beast Within Web Milestone\nParticipate in War in the Machines for Money event to get Milestone Points for additional progress in the The Guardian of the Camp and Wilderness Expedition Milestone. Keep an eye out for Free Claims containing The Guardian of the Camp Milestone Points every day!"
+ID_QU_SD_THEGUARDIANOFTHECAMP,Battle in Cosmic Crucible and Iso-8 Campaign
+ID_QU_S1_THEGUARDIANOFTHECAMP,Battle in Cosmic Crucible with Black Panther (Shuri)
+ID_QU_S2_THEGUARDIANOFTHECAMP,Battle in Cosmic Crucible with Black Panther (Shuri) at 5 Yellow Star
+ID_QU_S3_THEGUARDIANOFTHECAMP,Battle in Cosmic Crucible with Black Panther (Shuri) at 6 Yellow Star
+ID_QU_S4_THEGUARDIANOFTHECAMP,Battle in Cosmic Crucible with Black Panther (Shuri) at 7 Yellow Star
+ID_QU_S5_THEGUARDIANOFTHECAMP,Battle in Cosmic Crucible with Hank Pym
+ID_QU_S6_THEGUARDIANOFTHECAMP,Battle in Cosmic Crucible with Hank Pym at 5 Yellow Star
+ID_QU_S7_THEGUARDIANOFTHECAMP,Battle in Cosmic Crucible with Hank Pym at 6 Yellow Star
+ID_QU_S8_THEGUARDIANOFTHECAMP,Battle in Cosmic Crucible with Hank Pym at 7 Yellow Star
+ID_QU_S9_THEGUARDIANOFTHECAMP,Earn Panther Orb Fragments
+ID_QU_NA_THEBEASTWITHIN,The Beast Within
+ID_QU_SD_THEBEASTWITHIN,Earn Alliance Credits
+ID_QU_LD_THEBEASTWITHIN,"Earn Alliance Credits and get rewarded with Lab Supplies, and The Guardian of the Camp milestone progress."
+ID_QU_S1_THEBEASTWITHIN,Earn 1 Alliance Credit
 ID_QU_NA_HANKORB,Particle Professor
 ID_QU_SD_HANKORB,Get additional shards for Hank Pym!
 ID_QU_LD_HANKORB,Open Pym's Pals Orbs and receive guaranteed additional shards for this groundbreaking original Ant-Man!
 ID_QU_S1_HANKORB,Open 1 Pym's Pals Orb
+ID_QU_NA_MACHINESFORMONEY,Machines for Money
+ID_QU_SD_MACHINESFORMONEY,Battle in War for Wilderness Expedition progress!
+ID_QU_LD_MACHINESFORMONEY,Collaborate with your alliance to battle through War and earn Allied Supply V Orb Fragments. Allied Supply V Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
+ID_QU_S1_MACHINESFORMONEY,Play 1 War Battle
+ID_QU_S2_MACHINESFORMONEY,Earn 1 Allied Supply V Orb Fragment

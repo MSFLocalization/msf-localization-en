@@ -9198,6 +9198,30 @@ ID_OF_DE_COORDINATEDADVENTURE_DAILY_ENERGY,Stock up on Iso-8 Campaign Energy to 
 ID_OF_DE_COORDINATEDADVENTURE_EVENTORB,Get Allied Supply V orbs for <color=#fff568>Coordinated Adventure</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs featuring guaranteed T2 L5 Ions!
 ID_OF_DE_COORDINATEDADVENTURE_INTERSTITIAL,Stock up on Allied Supply V Orbs for extra progress in the <color=#fff568>Coordinated Adventure Milestone</color>!
 ID_OF_DE_COORDINATEDADVENTURE_FREE,Come back daily for more <color=#fff568>Coordinated Adventure</color> progress!
+ID_OF_NA_THEGUARDIANOFTHECAMP_MEGA_STARTER,The Guardian of the Camp: Mega Starter
+ID_OF_NA_THEGUARDIANOFTHECAMP_STARTER,The Guardian of the Camp: Starter Pack
+ID_OF_NA_THEGUARDIANOFTHECAMP_MEGA_CATCHUP,The Guardian of the Camp: Mega Catch-up
+ID_OF_NA_THEGUARDIANOFTHECAMP_CATCHUP,The Guardian of the Camp: Catch-up Bundle
+ID_OF_NA_THEGUARDIANOFTHECAMP_WEB_SPECIAL,The Guardian of the Camp: Web Special
+ID_OF_NA_THEGUARDIANOFTHECAMP_MID_EVENT_SPECIAL,The Guardian of the Camp: Special
+ID_OF_NA_THEGUARDIANOFTHECAMP_DAILY_ISO8_ENERGY,The Guardian of the Camp: Daily Iso-8 Energy
+ID_OF_NA_THEGUARDIANOFTHECAMP_DAILY_POINTS,The Guardian of the Camp: Daily Points
+ID_OF_NA_THEGUARDIANOFTHECAMPTHE_GUARDIAN_OF_THE_CAMP_-__DAILY_ORB,The Guardian of the Camp: Daily Orb
+ID_OF_NA_THEGUARDIANOFTHECAMP_BLACK_PANTHER_SHURI,The Guardian of the Camp: Panther Legacy
+ID_OF_NA_THEGUARDIANOFTHECAMP_FREE_CLAIM,The Guardian of the Camp: Free Claim
+ID_OF_NA_THEGUARDIANOFTHECAMP_DAILY_INTERSTITIAL,The Guardian of the Camp: Hidden Cache
+ID_OF_DE_THEGUARDIANOFTHECAMP_MEGA_STARTER,Get a jump start in the <color=#fff568>The Guardian of the Camp</color> Milestone for <color=#f12603>Crimson gear</color> and <color=#fff568>Black Panther (Shuri) shards</color>!
+ID_OF_DE_THEGUARDIANOFTHECAMP_STARTER,Get ahead in the <color=#fff568>The Guardian of the Camp</color> Milestone and fast-forward your way to <color=#f12603>Crimson Gear</color> and <color=#fff568>Black Panther (Shuri) shards</color>!
+ID_OF_DE_THEGUARDIANOFTHECAMP_MEGA_CATCHUP,Make up ground in the <color=#fff568>The Guardian of the Camp</color> Milestone to earn <color=#f12603>Crimson Gear</color> and <color=#fff568>Black Panther (Shuri) shards</color>!
+ID_OF_DE_THEGUARDIANOFTHECAMP_CATCHUP,Finish strong in the <color=#fff568>The Guardian of the Camp</color> Milestone to earn <color=#f12603>Crimson Gear</color> and <color=#fff568>Black Panther (Shuri) shards</color>!
+ID_OF_DE_THEGUARDIANOFTHECAMP_WEB_SPECIAL,Make more progress in the <color=#fff568>The Guardian of the Camp</color> Milestone with this  <color=#fff568>Web Exclusive</color> offer!
+ID_OF_DE_THEGUARDIANOFTHECAMP_MID_EVENT_SPECIAL,Claim this mega deal leap to the top of the leaderboard in the <color=#fff568>The Guardian of the Camp</color> Milestone for <color=#fff568>Black Panther (Shuri) Diamonds and Crimson Mutant Mini-Uniques</color>!
+ID_OF_DE_THEGUARDIANOFTHECAMP_DAILY_ISO8_ENERGY,Get your daily Iso-8 energy fix to earn more <color=#fff568>The Guardian of the Camp</color> Milestone progress!
+ID_OF_DE_THEGUARDIANOFTHECAMP_DAILY_WAR,Take advantage of this special deal to get the edge in Alliance War and progress in the <color=#f12603>The Guardian of the Camp</color> milestone!
+ID_OF_DE_THEGUARDIANOFTHECAMPTHE_GUARDIAN_OF_THE_CAMP_-__DAILY_ORB,Make progress in the <color=#fff568>The Guardian of the Camp</color> Milestone by collecting more <color=#fff568>Panther Orb Fragments</color>!
+ID_OF_DE_THEGUARDIANOFTHECAMP_BLACK_PANTHER_SHURI,Power up Black Panther (Shuri) with this shard offer!
+ID_OF_DE_THEGUARDIANOFTHECAMP_FREE_CLAIM,Come back daily for more <color=#fff568>The Guardian of the Camp</color> progress!
+ID_OF_DE_THEGUARDIANOFTHECAMP_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>The Guardian of the Camp</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_EVENT_HANKORB_STARTER,Particle Professor: Starter Bundle
 ID_OF_NA_EVENT_HANKORB_BOOSTER,Particle Professor: Booster Bundle
 ID_OF_NA_EVENT_HANKORB_CATCHUP,Particle Professor: Finisher Bundle
@@ -9224,6 +9248,18 @@ ID_OF_NA_HANKPYM_WEB_EXTRA_FCO_OFFER,Hank Pym Unlock Offer
 ID_OF_DE_HANKPYM_WEB_EXTRA_FCO_OFFER,"The Doctor Pym, <color=#fff568>Hank Pym</color>, has arrived!"
 ID_OF_NA_HANKPYM_WEB_SPECIAL_OFFER,Doctor Pym Special
 ID_OF_DE_HANKPYM_WEB_SPECIAL_OFFER,"<color=#fff568>Web Special!</color><color=#fff568>Hank Pym</color> is the TECH Support you need to Safeguard, Barrier, and Heal your Illuminati team while giving them Drain in Cosmic Crucible!"
+ID_OF_NA_MACHINESFORMONEY_STARTER,Machines for Money: Starter Bundle
+ID_OF_NA_MACHINESFORMONEY_CATCHUP,Machines for Money: Catch-Up Bundle
+ID_OF_NA_MACHINESFORMONEY_EVENTORB,Machines for Money: Daily Allied Supply
+ID_OF_NA_MACHINESFORMONEY_WAR,Machines for Money: Daily War
+ID_OF_NA_MACHINESFORMONEY_FREE,Machines for Money: Free Claim
+ID_OF_NA_MACHINESFORMONEY_INTERSTITIAL,Machines for Money: Supply Special
+ID_OF_DE_MACHINESFORMONEY_STARTER,Help your alliance start off strong in the <color=#fff568>Machines for Money</color> Milestone earn tremendous rewards!
+ID_OF_DE_MACHINESFORMONEY_CATCHUP,Push your alliance to the finish line with this <color=#fff568>Machines for Money</color> Milestone bundle for tremendous rewards!
+ID_OF_DE_MACHINESFORMONEY_EVENTORB,Get Allied Supply V orbs for <color=#fff568>Machines for Money</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs featuring guaranteed T2 L5 Ions!
+ID_OF_DE_MACHINESFORMONEY_WAR,Get your daily war refills to get ahead in the <color=#fff568>Machines for Money</color> Milestone!
+ID_OF_DE_MACHINESFORMONEY_FREE,Come back daily for more <color=#fff568>Machines for Money</color> progress!
+ID_OF_DE_MACHINESFORMONEY_INTERSTITIAL,Stock up on Allied Supply V Orbs for extra progress in the <color=#fff568>Machines for Money</color> Milestone!
 ID_OF_NA_SUMMER24_VKNIGHT_REDGOBLIN_TRAINING,Symbiote Surge
 ID_OF_NA_SUMMER24_PETERBPARKER,Sunny Fatherhood
 ID_OF_NA_SUMMER24_GOLD_DPC_GOLDORB,Gold And More
@@ -9283,7 +9319,7 @@ ID_OF_DE_SUMMER24_OOT_A18_A19,Collect OOT shards and top-tier gear pieces to pow
 ID_OF_DE_SUMMER24_OOT_TEAL_UNIQUES,Unlock advanced power with the Out Of Time Tech! <color=#ffda21>A 4.6x value</color>!!
 ID_OF_DE_SUMMER24_CABAL_A18_DPC,"Unleash the Power of the Cabal! Gain valuable Cabal shards, A18 and DPC to strengthen your team and dominate your enemies."
 ID_OF_DE_SUMMER24_PADAPOOL_GOLD_UNIQUES,Feel the power of the Claws and Teeth with your Pandapool. Set ready for your Mercs team to conquer every summer battle.
-ID_OF_DE_SUMMER24_FORGE_E7,Ignite your Force' potential with this 3x value offer! Enhance your Forge's power and set the battlefield ablaze.
+ID_OF_DE_SUMMER24_FORGE_E7,Ignite your Forge's potential with this 3x value offer! Enhance your Forge's power and set the battlefield ablaze.
 ID_OF_DE_SUMMER24_CABAL_UNIQUES,"Obtain unique gears to equip your Cabal heroes with superior enhancements, ensuring they stand victorious in every battle."
 ID_OF_DE_SUMMER24_BLKNIGHT_GT19,Acquire Black Knight character shards and top-tier gears to elevate your heroes and conquer the battlefield with unmatched prowess.
 ID_OF_DE_SUMMER24_TRAINING_E7,Level up your squad with Elite Training! Gain L4 training modules and Elite 7 credits to boost your heroes' abilities and dominate the battlefield.
