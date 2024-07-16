@@ -3135,6 +3135,10 @@ ID_MOTD_DE_BLACKPANTHERSHURI_TEASER,Take up the mantle with Black Panther (Shuri
 ID_MOTD_NA_BLACKPANTHERSHURI_ANNOUNCE,Black Panther (Shuri) is here!
 ID_MOTD_DE_BLACKPANTHERSHURI_ANNOUNCE,Take up the mantle with Black Panther (Shuri)!
 ID_MOTD_DE_BLACKPANTHERSHURI_ANNOUNCE2,Open the Feline Legacy Orb to earn shards for this Wakandan Queen!
+ID_MOTD_NA_THEGUARDIANOFTHECAMP_ANNOUNCE,LIVE: The Guardian of the Camp
+ID_MOTD_DE_THEGUARDIANOFTHECAMP_ANNOUNCE,Earn Lab Supplies and Map Fragment #3!
+ID_MOTD_NA_THEGUARDIANOFTHECAMP_ENDING,Ending Soon: The Guardian of the Camp
+ID_MOTD_DE_THEGUARDIANOFTHECAMP_ENDING,Earn Lab Supplies and Map Fragment #3!
 ID_MOTD_NA_CBUNLOCK_ANNOUNCE,LIVE: Her Majesty's Finest
 ID_MOTD_DE_CBUNLOCK_ANNOUNCE,Unlock Captain Britain!
 ID_MOTD_NA_SHURIORB_ANNOUNCE,LIVE: Panther's Legacy
@@ -3158,3 +3162,9 @@ ID_MOTD_DE_HANKPYM_TEASER,Super size your roster with Hank Pym!
 ID_MOTD_NA_HANKPYM_ANNOUNCE,Hank Pym is here!
 ID_MOTD_DE_HANKPYM_ANNOUNCE,Super size your roster with Hank Pym!
 ID_MOTD_DE_HANKPYM_ANNOUNCE2,Open the Particle Party Orb to earn shards for Doctor Pym!
+ID_MOTD_TD2_PREVIEW_NAME,COMING SOON: Temporal Dimension II
+ID_MOTD_TD2_PREVIEW_DESC,New Pocket Dimension featuring Cabal & Illuminati!
+ID_MOTD_TD2_LIVE_NAME,NOW LIVE: Temporal Dimension II
+ID_MOTD_TD2_LIVE_DESC,New Pocket Dimension featuring Cabal & Illuminati!
+ID_MOTD_TD2_ENDING_NAME,ENDING SOON: Temporal Dimension II
+ID_MOTD_TD2_ENDING_DESC,Temporal Dimension II is ending soon!

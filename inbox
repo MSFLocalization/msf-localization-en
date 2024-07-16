@@ -9226,6 +9226,13 @@ ID_ME_NA_BATTLEPASS_SEASON25_ENDING,Season 25 Ending Soon
 ID_ME_DE_BATTLEPASS_SEASON25_ENDING,Battle Pass: 2 more days!
 ID_ME_BO_BATTLEPASS_SEASON25_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Guardian shards and Dark Promotion Credits before the Season ends!"
 ID_ME_BO_TOWER_COMP,"Commander,\n\nWe have resolved an issue with the <color=#fff568>S.W.O.R.D. Satellite</color> event. To make the rewards fair for everyone, we have made the Milestones easier to achieve and replaced the original Leaderboard rewards with Gold. The removed rewards will be allocated to other events in the future. Thank you for your patience!"
+ID_ME_NA_THEGUARDIANOFTHECAMP_TEASER,Coming Soon: The Guardian of the Camp
+ID_ME_DE_THEGUARDIANOFTHECAMP_CORE,Earn Lab Supplies and Map Fragment #3!
+ID_ME_BO_THEGUARDIANOFTHECAMP_CORE,"Commander,\n\nEarn Lab Supplies and Map Fragment #3 in this exciting event!\n\n<color=#fff568>The Guardian of the Camp Milestone</color>\nGain progress in this event by collecting Panther Orb Fragments from Iso-8 Campaigns and battling in Cosmic Crucible with Black Panther (Shuri) or Hank Pym. Earn rewards including <color=#fff568>Black Panther (Shuri) shards and a chance at Crimson gear</color>. You'll also earn points towards the month-long Wilderness Expedition milestone by collecting Lab Supplies and the final Map Fragment #3.\n\n<color=#fff568>Leaderboard</color>\nCompete on the Leaderboard for <color=#fff568>Black Panther (Shuri) Diamonds</color>, Crimson Mutant Mini-Uniques, and Crimson Gear Raid Orbs!\n\n<color=#fff568>The Beast Within Web Milestone</color>\nParticipate in War in the Machines for Money event to get Milestone Points for additional progress in the The Guardian of the Camp and Wilderness Expedition Milestone. Keep an eye out for Free Claims containing The Guardian of the Camp Milestone Points every day!\n\nGood luck, Commander!"
+ID_ME_NA_THEGUARDIANOFTHECAMP_ANNOUNCE,LIVE: The Guardian of the Camp
+ID_ME_NA_THEGUARDIANOFTHECAMP_ENDING,ENDING: The Guardian of the Camp
+ID_ME_DE_THEGUARDIANOFTHECAMP_ENDING,Don't miss out on Lab Supplies and Map Fragment #3!
+ID_ME_BO_THEGUARDIANOFTHECAMP_ENDING,"Commander,\n\nThe Guardian of the Camp <color=#fff568>ends soon</color>. Continue earning Lab Supplies and Map Fragment #3!!\n\nGood luck, Commander!"
 ID_ME_NA_HANKORB_TEASER,Coming Soon: Particle Professor
 ID_ME_DE_HANKORB_CORE,Get additional shards for Hank Pym!
 ID_ME_BO_HANKORB_CORE,"Commander,\n\n<color=#fff568>Particle Professor Milestone</color>\nOpen Particle Party Orbs and receive guaranteed additional shards for this groundbreaking original Ant-Man!\n\nGood luck, Commander!"
@@ -9245,3 +9252,6 @@ ID_ME_BO_HANKPYM_RS_ENDING,"Commander,\n\n<color=#fff568>Hank Pym</color> will o
 ID_ME_NA_HANKPYM_ORB_ENDING,Particle Party Orb
 ID_ME_DE_HANKPYM_ORB_ENDING,2 days left!
 ID_ME_BO_HANKPYM_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Particle Party Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Hank Pym</color> for your <color=#fff568>Illuminati</color> team for Cosmic Crucible!"
+ID_ME_NA_MACHINESFORMONEY_ANNOUNCE,LIVE: Machines for Money
+ID_ME_DE_MACHINESFORMONEY_ANNOUNCE,Battle in War for Wilderness Expedition progress!
+ID_ME_BO_MACHINESFORMONEY_ANNOUNCE,"Commander\n\nCollaborate with your alliance to battle through War and earn Allied Supply V Orb Fragments. Allied Supply V Orb Fragments can be found in daily Free Claims on the web and special offers in the store.\n\nGood luck, Commander!"
