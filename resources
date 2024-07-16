@@ -248,8 +248,6 @@ ID_EVENT_CUR3_NAME,Aged Adamantium Orb Fragment
 ID_EVENT_CUR3_DESCRIPTION,"Open Aged Adamantium Orbs to earn shards for Out of Time characters, Cabal characters, Emma Frost, Loki and progress in the Red in Tooth and Claw milestone"
 ID_EVENT_CUR4_NAME,Bamboo Orb Fragment
 ID_EVENT_CUR4_DESCRIPTION,Open Bamboo Orbs to earn shards for Pandapool and progress in the Black White and Red All Over milestone
-ID_EVENT_CUR5_NAME,Anniversary Orb Fragments
-ID_EVENT_CUR5_DESCRIPTION,"Open Anniversary Orbs to get shards for MSF Originals, X-Treme X-Men and Out of Time characters!"
 ID_EVENT_CUR6_NAME,Machines of War Milestone Points
 ID_EVENT_CUR6_DESCRIPTION,These points earn you additional progress in the Machines of War Milestone. Earn them in limited offers!
 ID_EVENT_CUR7_NAME,Wilderness Orb Fragment
@@ -554,6 +552,8 @@ ID_EVTA_META_JUL_H_NAME,Captain Britain's Shield
 ID_EVTA_META_JUL_H_DESCRIPTION,Collect this symbol of British valour three times to unlock Captain Britain himself!
 ID_EVTA_META_JUL_G_NAME,The Guardian of the Camp Milestone Points
 ID_EVTA_META_JUL_G_DESCRIPTION,These points earn you additional progress in the The Guardian of the Camp Milestone. Earn them in the The Beast Within Web Milestone and Special Offers!
+ID_EVENT_CUR5_NAME,POOLside Chimichanga
+ID_EVENT_CUR5_DESCRIPTION,Collect these iconic snacks for points at Deadpool's POOL Party
 ID_EVTA_META_JUL_I_NAME,Machines for Money Milestone Points
 ID_EVTA_META_JUL_I_DESCRIPTION,These points earn you additional progress in the Machines for Money Milestone. Earn them in Special Offers!
 ID_EVTA_META_AUG_A_NAME,Disco Ball

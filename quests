@@ -4717,6 +4717,12 @@ ID_QU_SD_ARESREDSTAR,Recruit the God of War
 ID_QU_SC_ARESREDSTAR,Earn Helm of Ares tokens from the Ares Battle Pass and limited time offers
 ID_QU_LD_ARESREDSTAR,The Ares Battle Pass and limited time offers contain Helm of Ares tokens needed to unlock Ares's Red Stars!
 ID_QU_S1_ARESREDSTAR,Earn 1 Helm of Ares
+ID_QU_NA_PPDIVEIN,POOL Party: Dive In
+ID_QU_SD_PPDIVEIN,Spend POOL Party Event Energy and collect Chimichangas
+ID_QU_LD_PPDIVEIN,"POOL Party: Dive In Milestone\nGain progress in this 7-day event by spending POOL Party event energy and collecting Chimichangas when you complete your daily missions. Earn fantastic rewards including Mystic Gear, Ability Materials, Promotion Credits, Training Modules, 7 Red Stars for Wolverine, and the Wolverine '97 costume.\n\nPOOL Party Orb\nEarned from POOL Party Milestone Events, Login Rewards, and more! Contains a smorgasbord of characters shards from this year's team debuts and a generous seasoning of gear and classic POOL Pal character Shards!"
+ID_QU_S1_PPDIVEIN,Spend 1 POOL Party Event Energy
+ID_QU_S2_PPDIVEIN,Collect 1 Chimichanga from Daily Rewards
+ID_QU_S3_PPDIVEIN,Spend Gear Credit on 1 Gear or Catalyst Orb
 ID_QU_NA_SUMMERNIGHTS,Summer Nights
 ID_QU_SD_SUMMERNIGHTS,Participate in July and August Events
 ID_QU_LM_SUMMERNIGHTS,Participate in various events throughout July and August to earn milestone progress.
