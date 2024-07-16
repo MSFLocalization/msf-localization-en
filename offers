@@ -225,10 +225,6 @@ ID_OF_DE_TEAM_WEBWARRIOR,Unlock or power up this selection of Web-Warrior charac
 ID_OF_STOREBAR_TEAM_DARKHUNTER,Dark Hunter Shard Offer
 ID_OF_NA_TEAM_DARKHUNTER,Choose your Dark Hunter Shard Offer
 ID_OF_DE_TEAM_DARKHUNTER,Unlock or power up this selection of Dark Hunter characters to score higher in the Pestilence Scourge Event!
-ID_OF_NA_FREEGIFTWEB_FRIDAY_01,S.T.R.I.K.E Force Fridays Gift
-ID_OF_DE_FREEGIFTWEB_FRIDAY_01,Claim this exclusive free gift on us! Check back often to find more exclusive gifts! Don't miss out on the one-time offer after claiming this gift!
-ID_OF_NA_FREEGIFTWEB_FRIDAY_OFFER_01,S.T.R.I.K.E Force Fridays Offer
-ID_OF_DE_FREEGIFTWEB_FRIDAY_OFFER_01,Don't miss this short window to purchase this one-time offer! This offer only lasts for as long as this window is open!
 ID_OF_NA_SHEHULK_COSTUME,Attorney at Law Costume
 ID_OF_DE_SHEHULK_COSTUME,"Unlock the She-Hulk <color=#0ecf42>Attorney at Law</color> Costume with this offer. Jennifer Walters takes on the fiercest legal battles for her superpowered clients, balancing her moral conviction and superhuman strength as their attorney."
 ID_OF_NA_SHEHULK_COSTUME_PANTS,Attorney at Law Costume (Variant)
@@ -7845,74 +7841,6 @@ ID_OF_DE_ALLIEDARACHNIDS_RAID,Get your daily raid refills to get ahead in the <c
 ID_OF_DE_ALLIEDARACHNIDS_EVENTORB,Get Allied Supply IV orbs for <color=#fff568>Allied Arachnids</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs featuring guaranteed T2 L5 Ions!
 ID_OF_DE_ALLIEDARACHNIDS_INTERSTITIAL,Stock up on Allied Supply IV Orbs for extra progress in the <color=#fff568>Allied Arachnids</color> Milestone!
 ID_OF_DE_ALLIEDARACHNIDS_FREE,Come back daily for more <color=#fff568>Allied Arachnids</color> progress!
-ID_OF_NA_REDINTOOTHANDCLAW_MEGA_STARTER,Red in Tooth and Claw: Mega Starter
-ID_OF_NA_REDINTOOTHANDCLAW_STARTER,Red in Tooth and Claw: Starter Pack
-ID_OF_NA_REDINTOOTHANDCLAW_MEGA_CATCHUP,Red in Tooth and Claw: Mega Catch-up
-ID_OF_NA_REDINTOOTHANDCLAW_CATCHUP,Red in Tooth and Claw: Catch-up Bundle
-ID_OF_NA_REDINTOOTHANDCLAW_WEB_SPECIAL,Red in Tooth and Claw: Web Special
-ID_OF_NA_REDINTOOTHANDCLAW_DAILY_ORB,Red in Tooth and Claw: Daily Orb
-ID_OF_NA_REDINTOOTHANDCLAW_DAILY_ENERGY,Red in Tooth and Claw: Daily Energy
-ID_OF_NA_REDINTOOTHANDCLAW_FREE_CLAIM,Red in Tooth and Claw: Free Claim
-ID_OF_NA_REDINTOOTHANDCLAW_DAILY_INTERSTITIAL,Red in Tooth and Claw: Hidden Trove
-ID_OF_DE_REDINTOOTHANDCLAW_STARTER,Get ahead in the <color=#fff568>Red in Tooth and Claw</color> Milestone and fast-forward your way to <color=#f12603>Crimson Gear</color> and <color=#fff568>Diamond Orbs</color>!
-ID_OF_DE_REDINTOOTHANDCLAW_CATCHUP,Finish strong in the milestones to earn <color=#f12603>Crimson Bio Gear</color> and <color=#fff568>Diamond Orbs</color>!
-ID_OF_DE_REDINTOOTHANDCLAW_WEB_SPECIAL,Take a leap of faith with this Red in Tooth and Claw special web bundle!
-ID_OF_DE_REDINTOOTHANDCLAW_DAILY_ORB,Make progress in the Red In Tooth and Claw milestone by collecting more <color=#fff568>Aged Adamantium Orb Fragments</color>!
-ID_OF_DE_REDINTOOTHANDCLAW_DAILY_ENERGY,Get a daily dose of Campaign Energy to complete the <color=#fff568>Red in Tooth and Claw Milestone</color>!
-ID_OF_DE_REDINTOOTHANDCLAW_FREE_CLAIM,Come back daily for more <color=#fff568>Red In Tooth and Claw</color> progress!
-ID_OF_DE_REDINTOOTHANDCLAW_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Red In Tooth and Claw</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
-ID_OF_NA_BLACKWHITEANDREDALLOVER_MEGA_STARTER,Black White and Red All Over: Mega Starter
-ID_OF_NA_BLACKWHITEANDREDALLOVER_STARTER,Black White and Red All Over: Starter Pack
-ID_OF_NA_BLACKWHITEANDREDALLOVER_MEGA_CATCHUP,Black White and Red All Over: Mega Catch-up
-ID_OF_NA_BLACKWHITEANDREDALLOVER_CATCHUP,Black White and Red All Over: Catch-up Bundle
-ID_OF_NA_BLACKWHITEANDREDALLOVER_WEB_SPECIAL,Black White and Red All Over: Web Special
-ID_OF_NA_BLACKWHITEANDREDALLOVER_DAILY_ORB,Black White and Red All Over: Daily Orb
-ID_OF_NA_BLACKWHITEANDREDALLOVER_DAILY_ENERGY,Sinister Strike: Daily Energy
-ID_OF_NA_BLACKWHITEANDREDALLOVER_DAILY_RAID,Black White and Red All Over: Daily Raid
-ID_OF_NA_BLACKWHITEANDREDALLOVER_FREE_CLAIM,Black White and Red All Over: Free Claim
-ID_OF_NA_BLACKWHITEANDREDALLOVER_DAILY_INTERSTITIAL,Black White and Red All Over: Bamboo Grove
-ID_OF_DE_BLACKWHITEANDREDALLOVER_MEGA_STARTER,Get a jump start in the <color=#fff568>Black White and Red All Over</color> Leaderboard for <color=#f12603>Crimson Mutant Mini-Uniques</color> and <color=#fff568>Pandapool's 3 Diamond upgrade</color>!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_MEGA_CATCHUP,Launch to the top of the <color=#fff568>Black White and Red All Over</color> Leaderboard for <color=#f12603>Crimson Mutant Mini-Uniques</color> and <color=#fff568>Pandapool's 3 Diamond upgrade</color>!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_STARTER,Get ahead in the <color=#fff568>Black White and Red All Over</color> Milestone and fast-forward your way to <color=#f12603>Crimson Mutant Gear</color> and <color=#fff568>Diamond Orbs</color>!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_CATCHUP,Finish strong in the <color=#fff568>Black White and Red All Over</color> Milestone to earn <color=#f12603>Crimson Mutant Gear</color> and <color=#fff568>Diamond Orbs</color>!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_WEB_SPECIAL,Venture into the bamboo forrest and emerge at the top of the leaderboard with this <color=#fff568>Web Exclusive</color> offer!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_DAILY_ORB,Make progress in the Black White and Red All Over milestone by collecting more <color=#fff568>Bamboo Orb Fragments</color>!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_DAILY_ENERGY,Get your daily dose of Incursion Campaign Energy for progress in the Sinister Strike web milestone and earn more <color=#fff568>Bamboo Orb Fragments</color>!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_DAILY_RAID,Get your daily raid refills to complete the <color=#fff568>Black White and Red All Over Milestone</color>!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_FREE_CLAIM,Come back daily for more <color=#fff568>Black White and Red All Over</color> progress!
-ID_OF_DE_BLACKWHITEANDREDALLOVER_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Black White and Red All Over</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
-ID_OF_NA_MACHINESOFWARV3_STARTER,Machines of War: Starter Bundle
-ID_OF_NA_MACHINESOFWARV3_CATCHUP,Machines of War: Catch-Up Bundle
-ID_OF_NA_MACHINESOFWARV3_EVENTORB,Machines of War: Daily Allied Supply
-ID_OF_NA_MACHINESOFWARV3_WAR,Machines of War: Daily Battle Bundle
-ID_OF_NA_MACHINESOFWARV3_FREE,Machines of War: Free Claim
-ID_OF_NA_MACHINESOFWARV3_INTERSTITIAL,Machines of War: Battle Resupply
-ID_OF_DE_MACHINESOFWARV3_STARTER,"Help your alliance start off strong in the <color=#fff568>Machines of War</color> Milestone and earn Gold, Gear, and <color=#fff568>M is for Mercs</color> progress!"
-ID_OF_DE_MACHINESOFWARV3_CATCHUP,"Push your alliance to the finish line with this <color=#fff568>Machines of War</color> Milestone bundle and earn Gold, Gear, and <color=#fff568>M is for Mercs</color> progress!"
-ID_OF_DE_MACHINESOFWARV3_EVENTORB,Get Allied Supply IV orbs for <color=#fff568>Machines of War</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs featuring guaranteed T2 L5 Ions!
-ID_OF_DE_MACHINESOFWARV3_WAR,Take advantage of this special deal to get the edge in Alliance War and progress in the <color=#f12603>Machines of War</color> milestone!
-ID_OF_DE_MACHINESOFWARV3_FREE,Come back daily for more <color=#fff568>Machines of War</color> progress!
-ID_OF_DE_MACHINESOFWARV3_INTERSTITIAL,Stock up on Allied Supply IV Orbs for extra progress in the <color=#fff568>Machines of War</color> Milestone!
-ID_OF_NA_MYSTICMERCENARY_MEGA_STARTER,Mystic Mercenary: Mega Starter
-ID_OF_NA_MYSTICMERCENARY_STARTER,Mystic Mercenary: Starter Pack
-ID_OF_NA_MYSTICMERCENARY_MEGA_CATCHUP,Mystic Mercenary: Mega Catch-up
-ID_OF_NA_MYSTICMERCENARY_CATCHUP,Mystic Mercenary: Catch-up Bundle
-ID_OF_NA_MYSTICMERCENARY_WEB_SPECIAL,Mystic Mercenary: Web Special
-ID_OF_NA_MYSTICMERCENARY_DAILY_ISO8_ENERGY,Mystic Mercenary: Daily Iso-8 Energy
-ID_OF_NA_MYSTICMERCENARY_DAILY_ECM_ENERGY,Mystic Mercenary: Daily Wasteland Energy
-ID_OF_NA_MYSTICMERCENARY_DAILY_WAR,Mystic Mercenary: Daily Raid
-ID_OF_NA_MYSTICMERCENARY_FREE_CLAIM,Mystic Mercenary: Free Claim
-ID_OF_NA_MYSTICMERCENARY_DAILY_INTERSTITIAL,Mystic Mercenary: Hidden Cache
-ID_OF_DE_MYSTICMERCENARY_MEGA_STARTER,Get a jump start in the <color=#fff568>Mystic Mercenary</color> Milestone for <color=#f12603>Crimson Mystic Mini-Uniques</color> and <color=#fff568>Daken shards</color>!
-ID_OF_DE_MYSTICMERCENARY_STARTER,Get ahead in the <color=#fff568>Mystic Mercenary</color> Milestone and fast-forward your way to <color=#f12603>Crimson Mystic Gear</color> and <color=#fff568>Daken shards</color>!
-ID_OF_DE_MYSTICMERCENARY_MEGA_CATCHUP,Make up ground in the <color=#fff568>Mystic Mercenary</color> Milestone to earn <color=#f12603>Crimson Mystic Mini-Uniques</color> and <color=#fff568>Daken shards</color>!
-ID_OF_DE_MYSTICMERCENARY_CATCHUP,Finish strong in the <color=#fff568>Mystic Mercenary</color> Milestone to earn <color=#f12603>Crimson Mystic Gear</color> and <color=#fff568>Daken shards</color>!
-ID_OF_DE_MYSTICMERCENARY_WEB_SPECIAL,Make more progress in the <color=#fff568>Mystic Mercenary</color> Milestone with this <color=#fff568>Web Exclusive</color> offer!
-ID_OF_DE_MYSTICMERCENARY_DAILY_ISO8_ENERGY,Get your daily Iso-8 energy fix to earn more <color=#fff568>Mystic Mercenary</color> Milestone progress!
-ID_OF_DE_MYSTICMERCENARY_DAILY_ECM_ENERGY,Hit the road with this daily <color=#fff568>Wasteland Road Trip</color> energy bundle and drive by our website for <color=#fff568>Running Rampant</color> Milestone progress!
-ID_OF_DE_MYSTICMERCENARY_DAILY_WAR,Take advantage of this special deal to get the edge in Alliance War and progress in the <color=#f12603>Mystic Mercenary</color> milestone!
-ID_OF_DE_MYSTICMERCENARY_FREE_CLAIM,Come back daily for more <color=#fff568>Mystic Mercenary</color> progress!
-ID_OF_DE_MYSTICMERCENARY_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Mystic Mercenary</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_DD7_CELEBRATION,Dark Dimension VII Winner Celebration: 10 for 10
 ID_OF_DE_DD7_CELEBRATION,Celebrate <color=#fff568>BetaRayBill</color>'s monumental achievement as the first Commander to conquer Dark Dimension VII!
 ID_OF_NA_MERCS4MONEY24_TRAIN_GOLD_A18_A17_T2L5,Mercs For Money Power Up
@@ -7949,6 +7877,22 @@ ID_OF_DE_MERCS4MONEY24_PANDAPOOL_DAKEN_TRAIN,Power up your <color=#fff568>Mercs 
 ID_OF_DE_MERCS4MONEY24_PANDAPOOL_DAKEN_A18_TRAIN,Take your <color=#fff568>Mercs For Money</color> team to 6 Yellow Stars to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>2.8M T2 Level 5 Ions and 256 Gear Tier 18 Mini-Uniques</color> in the entire event!
 ID_OF_DE_MERCS4MONEY24_PANDAPOOL_DAKEN_GOLD,Power up your <color=#fff568>Mercs For Money</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>2.8M T2 Level 5 Ions and 256 Gear Tier 18 Mini-Uniques</color> in the entire event!
 ID_OF_DE_MERCS4MONEY24_FULL_TEAM_TRAIN,Improve your entire <color=#fff568>Mercs For Money</color> team to unlock all their Showcase Event's difficulties! Earn more than <color=#fff568>2.8M T2 Level 5 Ions and 256 Gear Tier 18 Mini-Uniques</color> in the entire event!
+ID_OF_NA_REDINTOOTHANDCLAW_MEGA_STARTER,Red in Tooth and Claw: Mega Starter
+ID_OF_NA_REDINTOOTHANDCLAW_STARTER,Red in Tooth and Claw: Starter Pack
+ID_OF_NA_REDINTOOTHANDCLAW_MEGA_CATCHUP,Red in Tooth and Claw: Mega Catch-up
+ID_OF_NA_REDINTOOTHANDCLAW_CATCHUP,Red in Tooth and Claw: Catch-up Bundle
+ID_OF_NA_REDINTOOTHANDCLAW_WEB_SPECIAL,Red in Tooth and Claw: Web Special
+ID_OF_NA_REDINTOOTHANDCLAW_DAILY_ORB,Red in Tooth and Claw: Daily Orb
+ID_OF_NA_REDINTOOTHANDCLAW_DAILY_ENERGY,Red in Tooth and Claw: Daily Energy
+ID_OF_NA_REDINTOOTHANDCLAW_FREE_CLAIM,Red in Tooth and Claw: Free Claim
+ID_OF_NA_REDINTOOTHANDCLAW_DAILY_INTERSTITIAL,Red in Tooth and Claw: Hidden Trove
+ID_OF_DE_REDINTOOTHANDCLAW_STARTER,Get ahead in the <color=#fff568>Red in Tooth and Claw</color> Milestone and fast-forward your way to <color=#f12603>Crimson Gear</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_REDINTOOTHANDCLAW_CATCHUP,Finish strong in the milestones to earn <color=#f12603>Crimson Bio Gear</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_REDINTOOTHANDCLAW_WEB_SPECIAL,Take a leap of faith with this Red in Tooth and Claw special web bundle!
+ID_OF_DE_REDINTOOTHANDCLAW_DAILY_ORB,Make progress in the Red In Tooth and Claw milestone by collecting more <color=#fff568>Aged Adamantium Orb Fragments</color>!
+ID_OF_DE_REDINTOOTHANDCLAW_DAILY_ENERGY,Get a daily dose of Campaign Energy to complete the <color=#fff568>Red in Tooth and Claw Milestone</color>!
+ID_OF_DE_REDINTOOTHANDCLAW_FREE_CLAIM,Come back daily for more <color=#fff568>Red In Tooth and Claw</color> progress!
+ID_OF_DE_REDINTOOTHANDCLAW_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Red In Tooth and Claw</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_MD24_WANDA,Decade of Love: Mom's Anniversary
 ID_OF_NA_MD24_GOLD_TRAINING,Decade of Love: Golden Training
 ID_OF_NA_MD24_GOLD_ABM,Decade of Love: Golden Training
@@ -8150,6 +8094,38 @@ ID_OF_DE_OMLCNTDWN_CGRDIAMONDORB,Guarantee yourself a Diamond Cosmic Ghost Rider
 ID_OF_DE_OMLCNTDWN_CARTERDIAMONDORB,Guarantee yourself a Diamond Captain Carter with a chance to get 3 Diamonds!
 ID_OF_DE_OMLCNTDWN_AMERICADIAMONDORB,Guarantee yourself a Diamond Captain America with a chance to get 3 Diamonds!
 ID_OF_DE_POCKETDIMAPR24_ENERGYPACKSMALL,Heal or revive your team and continue the fight with this Pocket Dimension bundle!
+ID_OF_NA_BLACKWHITEANDREDALLOVER_MEGA_STARTER,Black White and Red All Over: Mega Starter
+ID_OF_NA_BLACKWHITEANDREDALLOVER_STARTER,Black White and Red All Over: Starter Pack
+ID_OF_NA_BLACKWHITEANDREDALLOVER_MEGA_CATCHUP,Black White and Red All Over: Mega Catch-up
+ID_OF_NA_BLACKWHITEANDREDALLOVER_CATCHUP,Black White and Red All Over: Catch-up Bundle
+ID_OF_NA_BLACKWHITEANDREDALLOVER_WEB_SPECIAL,Black White and Red All Over: Web Special
+ID_OF_NA_BLACKWHITEANDREDALLOVER_DAILY_ORB,Black White and Red All Over: Daily Orb
+ID_OF_NA_BLACKWHITEANDREDALLOVER_DAILY_ENERGY,Sinister Strike: Daily Energy
+ID_OF_NA_BLACKWHITEANDREDALLOVER_DAILY_RAID,Black White and Red All Over: Daily Raid
+ID_OF_NA_BLACKWHITEANDREDALLOVER_FREE_CLAIM,Black White and Red All Over: Free Claim
+ID_OF_NA_BLACKWHITEANDREDALLOVER_DAILY_INTERSTITIAL,Black White and Red All Over: Bamboo Grove
+ID_OF_DE_BLACKWHITEANDREDALLOVER_MEGA_STARTER,Get a jump start in the <color=#fff568>Black White and Red All Over</color> Leaderboard for <color=#f12603>Crimson Mutant Mini-Uniques</color> and <color=#fff568>Pandapool's 3 Diamond upgrade</color>!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_MEGA_CATCHUP,Launch to the top of the <color=#fff568>Black White and Red All Over</color> Leaderboard for <color=#f12603>Crimson Mutant Mini-Uniques</color> and <color=#fff568>Pandapool's 3 Diamond upgrade</color>!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_STARTER,Get ahead in the <color=#fff568>Black White and Red All Over</color> Milestone and fast-forward your way to <color=#f12603>Crimson Mutant Gear</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_CATCHUP,Finish strong in the <color=#fff568>Black White and Red All Over</color> Milestone to earn <color=#f12603>Crimson Mutant Gear</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_WEB_SPECIAL,Venture into the bamboo forrest and emerge at the top of the leaderboard with this <color=#fff568>Web Exclusive</color> offer!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_DAILY_ORB,Make progress in the Black White and Red All Over milestone by collecting more <color=#fff568>Bamboo Orb Fragments</color>!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_DAILY_ENERGY,Get your daily dose of Incursion Campaign Energy for progress in the Sinister Strike web milestone and earn more <color=#fff568>Bamboo Orb Fragments</color>!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_DAILY_RAID,Get your daily raid refills to complete the <color=#fff568>Black White and Red All Over Milestone</color>!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_FREE_CLAIM,Come back daily for more <color=#fff568>Black White and Red All Over</color> progress!
+ID_OF_DE_BLACKWHITEANDREDALLOVER_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Black White and Red All Over</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_MACHINESOFWARV3_STARTER,Machines of War: Starter Bundle
+ID_OF_NA_MACHINESOFWARV3_CATCHUP,Machines of War: Catch-Up Bundle
+ID_OF_NA_MACHINESOFWARV3_EVENTORB,Machines of War: Daily Allied Supply
+ID_OF_NA_MACHINESOFWARV3_WAR,Machines of War: Daily Battle Bundle
+ID_OF_NA_MACHINESOFWARV3_FREE,Machines of War: Free Claim
+ID_OF_NA_MACHINESOFWARV3_INTERSTITIAL,Machines of War: Battle Resupply
+ID_OF_DE_MACHINESOFWARV3_STARTER,"Help your alliance start off strong in the <color=#fff568>Machines of War</color> Milestone and earn Gold, Gear, and <color=#fff568>M is for Mercs</color> progress!"
+ID_OF_DE_MACHINESOFWARV3_CATCHUP,"Push your alliance to the finish line with this <color=#fff568>Machines of War</color> Milestone bundle and earn Gold, Gear, and <color=#fff568>M is for Mercs</color> progress!"
+ID_OF_DE_MACHINESOFWARV3_EVENTORB,Get Allied Supply IV orbs for <color=#fff568>Machines of War</color> progress and open them for a heap of resources and T2 Level 5 Ion Orbs featuring guaranteed T2 L5 Ions!
+ID_OF_DE_MACHINESOFWARV3_WAR,Take advantage of this special deal to get the edge in Alliance War and progress in the <color=#f12603>Machines of War</color> milestone!
+ID_OF_DE_MACHINESOFWARV3_FREE,Come back daily for more <color=#fff568>Machines of War</color> progress!
+ID_OF_DE_MACHINESOFWARV3_INTERSTITIAL,Stock up on Allied Supply IV Orbs for extra progress in the <color=#fff568>Machines of War</color> Milestone!
 ID_OF_DE_DAKEN_AWAKENED_OFFER_UNLOCK,<color=#fff568>SNIKT!</color> Power up Old Man Logan with <color=#fff568>Awakened Ability Materials!</color> Unlock Daken and chase enemies down with bloodthirsty precision!
 ID_OF_NA_OMLSHOW24_ISO,OML Trials: ISO Therapy
 ID_OF_NA_OMLSHOW24_TRAINING,OML Trials: Quick Train Up
@@ -8245,8 +8221,44 @@ ID_OF_NA_MERCSGOLDRUSH_DAKEN,Daken's Golden Bounty
 ID_OF_DE_MERCSGOLDRUSH_DAKEN,Take Daken to the next Yellow Star level to earn even more <color=#fff568>Gold</color> every weekend in the <color=#fff568>Mercs' Golden Bounty Milestone</color>!
 ID_OF_NA_MERCSGOLDRUSH_GENERIC,Gold for Hire
 ID_OF_DE_MERCSGOLDRUSH_GENERIC,Take your Mercs for Money characters to the next Yellow Star level to earn even more <color=#fff568>Gold</color> every weekend in the <color=#fff568>Mercs' Golden Bounty Milestone</color>!
+ID_OF_NA_FINDER_CRIMSON_GT19_MINI_UNIQUE,Gear Tier 19 Mini-Unique Supply
+ID_OF_DE_FINDER_CRIMSON_GT19_MINI_UNIQUE,Power up your roster with these Gear Tier 19 Mini-Uniques!
+ID_OF_NA_FINDER_CRIMSON_ORIGIN_BIO,Crimson Bio Gear Supply
+ID_OF_DE_FINDER_CRIMSON_ORIGIN_BIO,Power up your roster with this Crimson Gear for Bio characters!
+ID_OF_NA_FINDER_CRIMSON_ORIGIN_SKILL,Crimson Skill Gear Supply
+ID_OF_DE_FINDER_CRIMSON_ORIGIN_SKILL,Power up your roster with this Crimson Gear for Skill characters!
+ID_OF_NA_FINDER_CRIMSON_ORIGIN_MUTANT,Crimson Mutant Gear Supply
+ID_OF_DE_FINDER_CRIMSON_ORIGIN_MUTANT,Power up your roster with this Crimson Gear for Mutant characters!
+ID_OF_NA_FINDER_CRIMSON_ORIGIN_MYSTIC,Crimson Mystic Gear Supply
+ID_OF_DE_FINDER_CRIMSON_ORIGIN_MYSTIC,Power up your roster with this Crimson Gear for Mystic characters!
+ID_OF_NA_FINDER_CRIMSON_ORIGIN_TECH,Crimson Tech Gear Supply
+ID_OF_DE_FINDER_CRIMSON_ORIGIN_TECH,Power up your roster with this Crimson Gear for Tech characters!
+ID_OF_NA_FINDER_CRIMSON_BASIC_CAT,Crimson Basic Catalyst Boost
+ID_OF_DE_FINDER_CRIMSON_BASIC_CAT,Pick up these Crimson Basic Catalyst Parts to help craft gear and power up your roster!
+ID_OF_NA_FINDER_CRIMSON_STAT_CAT,Crimson Catalyst Boost
+ID_OF_DE_FINDER_CRIMSON_STAT_CAT,Pick up these Crimson Catalyst Parts to help craft gear and power up your roster!
 ID_OF_NA_OMLCNTDWN_BKDIAMONDORB,Black Knight Draft
 ID_OF_DE_OMLCNTDWN_BKDIAMONDORB,Guarantee yourself a Diamond Black Knight with a chance to get 3 Diamonds!
+ID_OF_NA_MYSTICMERCENARY_MEGA_STARTER,Mystic Mercenary: Mega Starter
+ID_OF_NA_MYSTICMERCENARY_STARTER,Mystic Mercenary: Starter Pack
+ID_OF_NA_MYSTICMERCENARY_MEGA_CATCHUP,Mystic Mercenary: Mega Catch-up
+ID_OF_NA_MYSTICMERCENARY_CATCHUP,Mystic Mercenary: Catch-up Bundle
+ID_OF_NA_MYSTICMERCENARY_WEB_SPECIAL,Mystic Mercenary: Web Special
+ID_OF_NA_MYSTICMERCENARY_DAILY_ISO8_ENERGY,Mystic Mercenary: Daily Iso-8 Energy
+ID_OF_NA_MYSTICMERCENARY_DAILY_ECM_ENERGY,Mystic Mercenary: Daily Wasteland Energy
+ID_OF_NA_MYSTICMERCENARY_DAILY_WAR,Mystic Mercenary: Daily Raid
+ID_OF_NA_MYSTICMERCENARY_FREE_CLAIM,Mystic Mercenary: Free Claim
+ID_OF_NA_MYSTICMERCENARY_DAILY_INTERSTITIAL,Mystic Mercenary: Hidden Cache
+ID_OF_DE_MYSTICMERCENARY_MEGA_STARTER,Get a jump start in the <color=#fff568>Mystic Mercenary</color> Milestone for <color=#f12603>Crimson Mystic Mini-Uniques</color> and <color=#fff568>Daken shards</color>!
+ID_OF_DE_MYSTICMERCENARY_STARTER,Get ahead in the <color=#fff568>Mystic Mercenary</color> Milestone and fast-forward your way to <color=#f12603>Crimson Mystic Gear</color> and <color=#fff568>Daken shards</color>!
+ID_OF_DE_MYSTICMERCENARY_MEGA_CATCHUP,Make up ground in the <color=#fff568>Mystic Mercenary</color> Milestone to earn <color=#f12603>Crimson Mystic Mini-Uniques</color> and <color=#fff568>Daken shards</color>!
+ID_OF_DE_MYSTICMERCENARY_CATCHUP,Finish strong in the <color=#fff568>Mystic Mercenary</color> Milestone to earn <color=#f12603>Crimson Mystic Gear</color> and <color=#fff568>Daken shards</color>!
+ID_OF_DE_MYSTICMERCENARY_WEB_SPECIAL,Make more progress in the <color=#fff568>Mystic Mercenary</color> Milestone with this <color=#fff568>Web Exclusive</color> offer!
+ID_OF_DE_MYSTICMERCENARY_DAILY_ISO8_ENERGY,Get your daily Iso-8 energy fix to earn more <color=#fff568>Mystic Mercenary</color> Milestone progress!
+ID_OF_DE_MYSTICMERCENARY_DAILY_ECM_ENERGY,Hit the road with this daily <color=#fff568>Wasteland Road Trip</color> energy bundle and drive by our website for <color=#fff568>Running Rampant</color> Milestone progress!
+ID_OF_DE_MYSTICMERCENARY_DAILY_WAR,Take advantage of this special deal to get the edge in Alliance War and progress in the <color=#f12603>Mystic Mercenary</color> milestone!
+ID_OF_DE_MYSTICMERCENARY_FREE_CLAIM,Come back daily for more <color=#fff568>Mystic Mercenary</color> progress!
+ID_OF_DE_MYSTICMERCENARY_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Mystic Mercenary</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_OMLBASICAWAKENED_ABILITYT4,Power up the Old Man 1/4
 ID_OF_NA_OMLBASICAWAKENED_CRIMSON1,Power up the Old Man: Crimson 2/4
 ID_OF_NA_OMLBASICAWAKENED_CRIMSON2,Power up the Old Man: Crimson 3/4
@@ -8259,6 +8271,8 @@ ID_OF_DE_OMLBASICAWAKENED_CRIMSON1,Power up your <color=#ffda21>Mercs for Money<
 ID_OF_DE_OMLBASICAWAKENED_CRIMSON3,Final Step! Fill your Gold Reserves now!
 ID_OF_DE_OMLBASICAWAKENED_AUGMENTED1,Power up your <color=#ffda21>Mercs for Money</color> with these Augmented Uniques! The final step of the chain has 6M Gold.
 ID_OF_DE_OMLBASICAWAKENED_AUGMENTED3,Final Step! Fill your Gold Reserves now!
+ID_OF_NA_FINDER_TEAL_GT18_MINI_UNIQUE,Gear Tier 18 Mini-Unique Supply
+ID_OF_DE_FINDER_TEAL_GT18_MINI_UNIQUE,Power up your roster with these Gear Tier 18 Mini-Uniques!
 ID_OF_NA_CHARACTERCATCHUP_DEATHSEED,Death Seed Special
 ID_OF_NA_CHARACTERCATCHUP_DARKHOLD,Darkhold Special
 ID_OF_NA_CHARACTERCATCHUP_GAMMA,Gamma Special
@@ -8323,24 +8337,6 @@ ID_OF_DE_ALPHA24_TEAL_MINIUNIQUES,"Seize this offer for more <color=#fff568>Teal
 ID_OF_DE_ALPHA24_DARKGOLD,"<color=#fff568>3x Value!</color> Not all that glitters is Gold! Dark Diamond Credits and Dark Promotion credits shine just as brightly. "
 ID_OF_DE_ALPHA24_DAILYGOLD,<color=#fff568>Greater than 3x Value!</color> Take advantage of this Daily Gold Pack to get ahead!
 ID_OF_DE_ALPHA24_ORBSPACK,"Take advantage of this offer of <color=#ffda21>Diamond orb, Armory 18 orbs, Training orbs, and T3 Ability orbs</color> today!"
-ID_OF_NA_FINDER_CRIMSON_GT19_MINI_UNIQUE,Gear Tier 19 Mini-Unique Supply
-ID_OF_DE_FINDER_CRIMSON_GT19_MINI_UNIQUE,Power up your roster with these Gear Tier 19 Mini-Uniques!
-ID_OF_NA_FINDER_CRIMSON_ORIGIN_BIO,Crimson Bio Gear Supply
-ID_OF_DE_FINDER_CRIMSON_ORIGIN_BIO,Power up your roster with this Crimson Gear for Bio characters!
-ID_OF_NA_FINDER_CRIMSON_ORIGIN_SKILL,Crimson Skill Gear Supply
-ID_OF_DE_FINDER_CRIMSON_ORIGIN_SKILL,Power up your roster with this Crimson Gear for Skill characters!
-ID_OF_NA_FINDER_CRIMSON_ORIGIN_MUTANT,Crimson Mutant Gear Supply
-ID_OF_DE_FINDER_CRIMSON_ORIGIN_MUTANT,Power up your roster with this Crimson Gear for Mutant characters!
-ID_OF_NA_FINDER_CRIMSON_ORIGIN_MYSTIC,Crimson Mystic Gear Supply
-ID_OF_DE_FINDER_CRIMSON_ORIGIN_MYSTIC,Power up your roster with this Crimson Gear for Mystic characters!
-ID_OF_NA_FINDER_CRIMSON_ORIGIN_TECH,Crimson Tech Gear Supply
-ID_OF_DE_FINDER_CRIMSON_ORIGIN_TECH,Power up your roster with this Crimson Gear for Tech characters!
-ID_OF_NA_FINDER_CRIMSON_BASIC_CAT,Crimson Basic Catalyst Boost
-ID_OF_DE_FINDER_CRIMSON_BASIC_CAT,Pick up these Crimson Basic Catalyst Parts to help craft gear and power up your roster!
-ID_OF_NA_FINDER_CRIMSON_STAT_CAT,Crimson Catalyst Boost
-ID_OF_DE_FINDER_CRIMSON_STAT_CAT,Pick up these Crimson Catalyst Parts to help craft gear and power up your roster!
-ID_OF_NA_FINDER_TEAL_GT18_MINI_UNIQUE,Gear Tier 18 Mini-Unique Supply
-ID_OF_DE_FINDER_TEAL_GT18_MINI_UNIQUE,Power up your roster with these Gear Tier 18 Mini-Uniques!
 ID_OF_NA_MEMORIAL24_INVADERS_TEAM_E7,Honor Week: Army Veterans
 ID_OF_NA_MEMORIAL24_VOID_KNIGHT_TRAIN_E7,Honor Week: Symbiote Knight
 ID_OF_NA_MEMORIAL24_GWENOM_TRAIN_E7,Honor Week: Gwenom's Workout
@@ -8971,29 +8967,27 @@ ID_OF_NA_MAPPINGTHEWILDERNESS_CATCHUP,Mapping the Wilderness: Catch-up
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_ORB,Mapping the Wilderness: Daily Orb
 ID_OF_NA_MAPPINGTHEWILDERNESS_CALENDAR,4th of July Calendar
 ID_OF_NA_MAPPINGTHEWILDERNESS_WEB_SPECIAL,Mapping the Wilderness: Web Special
-ID_OF_NA_MAPPINGTHEWILDERNESS_MID_EVENT_SPECIAL,Mapping the Wilderness: Special Bundle
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_POINTS,Mapping the Wilderness: Daily Points
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_RAID,Mapping the Wilderness: Daily Raid
 ID_OF_NA_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_TEAM,Mapping the Wilderness: Alpha Flight
-ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_INCURSION_ENERGY,Mapping the Wilderness :Daily Incursion Energy
+ID_OF_NA_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_GUARDIAN,Mapping the Wilderness: Guardian
+ID_OF_NA_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_NORTHSTAR,Mapping the Wilderness: Northstar
+ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_INCURSION_ENERGY,Mapping the Wilderness: Daily Incursion Energy
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_INTERSTITIAL,Mapping the Wilderness: Hidden Treasure
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_FREE_CLAIM,Mapping the Wilderness: Free Claim
-ID_OF_DE_MAPPINGTHEWILDERNESS_STARTER,Get ahead in the <color=#fff568>Mapping the Wilderness</color> Milestone and start making your way toward <color=#fff568>Super Skrull Diamond Promotions</color> and <color=#fff568>Crimson Mystic Gear</color>!
-ID_OF_DE_MAPPINGTHEWILDERNESS_STARTER_2,Get ahead in the <color=#fff568>Mapping the Wilderness</color> Milestone and start making your way toward <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Mystic Gear</color>!
-ID_OF_DE_MAPPINGTHEWILDERNESS_CATCHUP,Finish strong in the <color=#fff568>Mapping the Wilderness</color> Milestone to earn <color=#fff568>Super Skrull Diamond Promotions</color> and <color=#fff568>Crimson Mystic Gear</color>!
-ID_OF_DE_MAPPINGTHEWILDERNESS_CATCHUP_2,Finish strong in the <color=#fff568>Mapping the Wilderness</color> Milestone to earn <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Mystic Gear</color>!
+ID_OF_DE_MAPPINGTHEWILDERNESS_STARTER,Get ahead in the <color=#fff568>Mapping the Wilderness</color> Milestone and start making your way toward <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Mystic Gear</color>!
+ID_OF_DE_MAPPINGTHEWILDERNESS_CATCHUP,Finish strong in the <color=#fff568>Mapping the Wilderness</color> Milestone to earn <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Mystic Gear</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_ORB,Make progress in the <color=#fff568>Mapping the Wilderness</color> Milestone by collecting more <color=#fff568>Wilderness Orb Fragments</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_CALENDAR,Strengthen your Alpha Flight characters with this holiday Calendar! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_WEB_SPECIAL,Take a leap of faith with this Mapping the Wilderness special web bundle!
-ID_OF_DE_MAPPINGTHEWILDERNESS_MID_EVENT_SPECIAL,Adventure into the Wilderness and dominate the leaderboard for <color=#fff568>Super Skrull Diamond Promotions</color>
-ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_POINTS,Get ahead in the <color=#fff568>Mapping the Wilderness</color> Leaderboards and earn <color=#fff568>Super Skrull Diamond Promotions</color> and <color=#f12603>Crimson Gear</color>!
+ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_POINTS,Get ahead in the <color=#fff568>Mapping the Wilderness</color> Leaderboards and earn <color=#fff568>Black Panther (Shuri) Diamond Promotions</color> and <color=#f12603>Crimson Gear</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_RAID,Get your daily raid refills to complete the <color=#fff568>Scientific Breakthrough web Milestone</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_TEAM,Level up your Alpha Flight team for future raids!
+ID_OF_DE_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_GUARDIAN,Power up Guardian with this shard offer!
+ID_OF_DE_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_NORTHSTAR,Power up Northstar with this shard offer!
 ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_INCURSION_ENERGY,Get your daily dose of Incursion Campaign Energy for progress in the Scientific Breakthrough web milestone and earn more <color=#fff568>Wilderness Orb Fragments</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Mapping the Wilderness</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Mapping the Wilderness</color> progress!
-ID_ON_NA_ONGUARDFORTHEE_METAPOINTS,On Guard For Thee: Almost Home
-ID_ON_DE_ONGUARDFORTHEE_METAPOINTS,"Claim this mega deal to wrap up the <color=#fff568>On Guard For Thee</color> milestone, and finish strong in the <color=#fff568>Homeward Bound</color> event!"
 ID_OF_DE_PRIDE24_WEEK5STEP1,Claim this first step in the Love of Loki streak! The final step is Free and contains 2 Diamond Orbs!
 ID_OF_DE_PRIDE24_WEEK5STEP2,Surge through this chain for 2 Diamond Orbs in the final step!
 ID_OF_NA_PRIDE24_GOLDBK_W5,Knight's Hoard
@@ -9368,3 +9362,73 @@ ID_OF_DE_CAL_GENERIC_T2_T3_ABM_LC,Unlock this calendar for daily boosts of <colo
 ID_OF_DE_CAL_GENERIC_T3_ABM_LC,Unlock this calendar for daily boosts of <color=#ffda21>T3 Ability Materials</color> over {var2} days to power up your Roster.
 ID_OF_DE_CAL_GENERIC_T4_ABM_LC,Unlock this calendar for daily boosts of <color=#ffda21>T3 and T4 Ability Materials</color> over {var2} days to power up your Roster.
 ID_OF_DE_CAL_PROMO_CREDITS_SILVER_LC_VAR,Get <color=#fff568>{var1} Silver Promotion Credits</color> over {var2} days to help promote characters!
+ID_OF_NA_SUMMERNIGHTS_STARTER_MEGA,Summer Nights Starter
+ID_OF_NA_SUMMERNIGHTS_STARTER_SUPER,Summer Nights Starter
+ID_OF_NA_SUMMERNIGHTS_STARTER,Party Kit
+ID_OF_NA_SUMMERNIGHTS_BOOSTER_ANCHOR,Daily Supply Drop
+ID_OF_NA_SUMMERNIGHTS_MEGA,Mega Supplies
+ID_OF_NA_SUMMERNIGHTS_LEGACY,The Better Party
+ID_OF_NA_SUMMERNIGHTS_SHARDS,Recruitment Special
+ID_OF_NA_SUMMERNIGHTS_CATS,Event Catalysts
+ID_OF_NA_SUMMERNIGHTS_TRAINING,Summer Nights Booster
+ID_OF_NA_SUMMERNIGHTS_DPC,Too Cool For Pool
+ID_OF_NA_SUMMERNIGHTS_GOLD,All Night Long
+ID_OF_NA_SUMMERNIGHTS_ORB,Dream Teams
+ID_OF_NA_SUMMERNIGHTS_AB,Nocturnal Abilities
+ID_OF_NA_SUMMERNIGHTS_CATCHUP_MEGA,Summer Nights: Mega Catch-Up
+ID_OF_NA_SUMMERNIGHTS_CATCHUP_SUPER,Summer Nights: Super Catch-Up
+ID_OF_NA_SUMMERNIGHTS_CATCHUP_LAST_CHANCE,Last Call
+ID_OF_NA_SUMMERNIGHTS_FREEDAILY,Summer Nights: Free Claim
+ID_OF_NA_ADAMANTIUMISFOREVER_STARTER,Adamantium Is Forever: Starter
+ID_OF_NA_ADAMANTIUMISFOREVER_CATCHUP,Adamantium Is Forever: Catch-up
+ID_OF_NA_ADAMANTIUMISFOREVER_WEB_SPECIAL,Adamantium Is Forever: Web Special
+ID_OF_NA_ADAMANTIUMISFOREVER_DAILY_ENERGY,Adamantium Is Forever: Daily Energy
+ID_OF_NA_ADAMANTIUMISFOREVER_DAILY_INTERSTITIAL,Adamantium Is Forever: Hidden Treasure
+ID_OF_NA_ADAMANTIUMISFOREVER_DAILY_FREE_CLAIM,Adamantium Is Forever: Free Claim
+ID_OF_NA_FREEGIFTWEB_FRIDAY_01,S.T.R.I.K.E Force Fridays Gift
+ID_OF_NA_FREEGIFTWEB_FRIDAY_OFFER_01,S.T.R.I.K.E Force Fridays Offer
+ID_OF_NA_ADAMANTIUMISFOREVER_MID-EVENT_SPECIAL,Adamantium Is Forever: Special Bundle
+ID_OF_DE_SUMMERNIGHTS_STARTER_MEGA,"Stock up on <color=#fff568>Summer Nights</color> progress and exclusive items, and get ahead on the Summer Nights Leaderboard for <color=#fff568>Diamond Orbs</color> and <color=#fff568>Diamond Champions III Orbs</color>!"
+ID_OF_DE_SUMMERNIGHTS_STARTER_SUPER,Get ahead in the <color=#fff568>Summer Nights</color> milestone and fast-forward your way to the <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_SUMMERNIGHTS_STARTER,Start off strong in the <color=#fff568>Summer Nights</color> milestone!
+ID_OF_DE_SUMMERNIGHTS_BOOSTER_ANCHOR,Make consistent <color=#fff568>Summer Nights</color> progress with this daily <color=#fff568>Disco Balls</color> drop!
+ID_OF_DE_SUMMERNIGHTS_MEGA,Stock up on <color=#fff568>Summer Nights event progress</color> and <color=#fff568>Mega Orbs</color> with this special deal!
+ID_OF_DE_SUMMERNIGHTS_LEGACY,Stock up on <color=#fff568>Summer Nights event progress</color> and <color=#fff568>Legacy Orbs</color> with this special deal!
+ID_OF_DE_SUMMERNIGHTS_SHARDS,Stock up on <color=#fff568>Summer Nights event progress</color> and <color=#fff568>character shards</color> with this special deal!
+ID_OF_DE_SUMMERNIGHTS_CATS,Stock up on <color=#fff568>Summer Nights event progress</color> and <color=#fff568>Catalyst Parts</color> with this special deal!
+ID_OF_DE_SUMMERNIGHTS_TRAINING,Stock up on <color=#fff568>Summer Nights event progress</color> and <color=#fff568>Training Modules</color> with this special deal!
+ID_OF_DE_SUMMERNIGHTS_DPC,Stock up on <color=#fff568>Summer Nights event progress</color> and <color=#fff568>Dark Promotion Credits</color> with this special deal!
+ID_OF_DE_SUMMERNIGHTS_GOLD,Stock up on <color=#fff568>Summer Nights event progress</color> and <color=#fff568>Gold</color> with this special deal!
+ID_OF_DE_SUMMERNIGHTS_ORB,Stock up on <color=#fff568>Summer Nights event progress</color> and <color=#fff568>Alpha Merc Orbs</color> with this special deal!
+ID_OF_DE_SUMMERNIGHTS_AB,Stock up on <color=#fff568>Summer Nights event progress</color> and <color=#fff568>Ability Materials</color> with this special deal!
+ID_OF_DE_SUMMERNIGHTS_CATCHUP_MEGA,Finish strong in the milestones and leaderboards for <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_SUMMERNIGHTS_CATCHUP_SUPER,Finish strong in the milestones and leaderboards for <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>Diamond Orbs</color>!
+ID_OF_DE_SUMMERNIGHTS_CATCHUP_LAST_CHANCE,"Catch this deal before it's too late to earn your final <color=#fff568>T2 Level 5 Ionsr</color> and <color=#fff568>Diamond Orbs</color>! "
+ID_OF_DE_SUMMERNIGHTS_FREEDAILY,Come back daily for more <color=#fff568>Summer Nights</color> progress!
+ID_OF_DE_ADAMANTIUMISFOREVER_STARTER,Get ahead in the <color=#fff568>Adamantium Is Forever</color> Milestone and start making your way toward <color=#fff568>Wolverine Diamond Promotions</color> and <color=#fff568>Crimson Gear</color>!
+ID_OF_DE_ADAMANTIUMISFOREVER_STARTER_2,Get ahead in the <color=#fff568>Adamantium Is Forever</color> Milestone and start making your way toward <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Gear</color>!
+ID_OF_DE_ADAMANTIUMISFOREVER_CATCHUP,Finish strong in the <color=#fff568>Adamantium Is Forever</color> Milestone to earn <color=#fff568>Wolverine Diamond Promotions</color> and <color=#fff568>Crimson Gear</color>!
+ID_OF_DE_ADAMANTIUMISFOREVER_CATCHUP_2,Finish strong in the <color=#fff568>Adamantium Is Forever</color> Milestone to earn <color=#fff568>Wolverine Diamond Promotions</color> and <color=#fff568>Crimson Gear</color>!
+ID_OF_DE_ADAMANTIUMISFOREVER_WEB_SPECIAL,Take a leap of faith with this Adamantium Is Forever special web bundle!
+ID_OF_DE_ADAMANTIUMISFOREVER_DAILY_ENERGY,Get your daily dose of Campaign Energy for progress in the Adamantium Is Forever milestone!
+ID_OF_DE_ADAMANTIUMISFOREVER_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Adamantium Is Forever</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_ADAMANTIUMISFOREVER_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Adamantium Is Forever</color> progress!
+ID_OF_DE_FREEGIFTWEB_FRIDAY_01,Claim this exclusive free gift on us! Check back often to find more exclusive gifts! Don't miss out on the one-time offer after claiming this gift!
+ID_OF_DE_FREEGIFTWEB_FRIDAY_OFFER_01,Don't miss this short window to purchase this one-time offer! This offer only lasts for as long as this window is open!
+ID_OF_DE_ADAMANTIUMISFOREVER_MID-EVENT_SPECIAL,Boost your progress in the Adamantium Is Forever milestone!
+ID_OF_NA_TWILIGHTEXPEDITIONS_STARTER,Twilight Expeditions: Starter
+ID_OF_NA_TWILIGHTEXPEDITIONS_CATCHUP,Twilight Expeditions: Catchup Bundle
+ID_OF_NA_TWILIGHTEXPEDITIONS_DAILY_ORB,Daily Teamwork
+ID_OF_NA_TWILIGHTEXPEDITIONS_DAILY_POINTS,Twilight Expeditions: Daily Points
+ID_OF_NA_TWILIGHTEXPEDITIONS_ALPHA,Twilight Expeditions: Alpha Flight
+ID_OF_NA_TWILIGHTEXPEDITIONS_FREECLAIM,Twilight Expeditions: Free Claim
+ID_OF_NA_TWILIGHTEXPEDITIONS_INTERSTITIAL,Twilight Expeditions: Treasure Trove
+ID_OF_NA_TWILIGHTEXPEDITIONS_GENERIC,Twilight Expeditions: Special Bundle
+ID_OF_DE_TWILIGHTEXPEDITIONS_STARTER,Get ahead in the <color=#fff568>Twilight Expeditions</color> Milestone and propel your Alliance to <color=#fff568>Crimson Gear Catalysts</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_DE_TWILIGHTEXPEDITIONS_CATCHUP,Finish strong in the <color=#fff568>Twilight Expeditions</color> Milestone and propel your Alliance to <color=#fff568>Crimson Gear Catalysts</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_DE_TWILIGHTEXPEDITIONS_DAILY_ORB,"Collect these event orbs for <color=#fff568>T2 Level 5 Ions, Gold and Training Materials</color>, as well as <color=#fff568>Twilight Expeditions</color> Milestone progress!"
+ID_OF_DE_TWILIGHTEXPEDITIONS_DAILY_POINTS,Get ahead in the <color=#fff568>Twilight Expeditions</color> Leaderboards and earn <color=#fff568>Sasquatch Diamond Promotions</color> and <color=#f12603>Armory 19 Orbs</color>!
+ID_OF_DE_TWILIGHTEXPEDITIONS_ALPHA,Power up your Alpha Flight characters and participate in Spotlight Raids to maximize your <color=#fff568>Twilight Expeditions</color> Milestone progress!
+ID_OF_DE_TWILIGHTEXPEDITIONS_FREECLAIM,Come back daily for more <color=#fff568>Twilight Expeditions</color> progress!
+ID_OF_DE_TWILIGHTEXPEDITIONS_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Twilight Expeditions</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_TWILIGHTEXPEDITIONS_GENERIC,Get ahead in the <color=#fff568>Twilight Expeditions</color> Milestone and propel your Alliance to <color=#fff568>Crimson Gear Catalysts</color> and <color=#fff568>T2 Level 5 Ions</color>!

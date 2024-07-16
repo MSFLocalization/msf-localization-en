@@ -1658,17 +1658,17 @@ ID_LE_OMEGARED_08_DESC,"Requires Nick Fury, Winter Soldier, or Avenger character
 ID_LE_BLACKBOLT_01_NAME,Black Bolt - Tier 1
 ID_LE_BLACKBOLT_01_DESC,Attilan is under attack and Quake must lead S.T.R.I.K.E.'s Inhumans to rescue their King.
 ID_LE_BLACKBOLT_02_NAME,Black Bolt - Tier 2
-ID_LE_BLACKBOLT_02_DESC,"Requires 5 Asgardian characters at 2+ Stars.\n\nRecommended for level 35+, Gear Tier 6+, Level 3+ Abilities.\n\nS.T.R.I.K.E.'s Asgardian forces must defend Attilan from the combined might of Ultron and Thanos."
+ID_LE_BLACKBOLT_02_DESC,"Requires 5 Asgardian or Mystic Hero characters at 2+ Stars.\n\nRecommended for level 35+, Gear Tier 6+, Level 3+ Abilities.\n\nS.T.R.I.K.E.'s Asgardian forces must defend Attilan from the combined might of Ultron and Thanos."
 ID_LE_BLACKBOLT_03_NAME,Black Bolt - Tier 3
-ID_LE_BLACKBOLT_03_DESC,"Requires 5 Asgardian characters at 3+ Stars.\n\nRecommended for level 40+, Gear Tier 7+, Level 4+ Abilities.\n\nFollowing Attilan through an immense interdimensional portal, the Asgardians and Black Bolt find themselves behind enemy lines."
+ID_LE_BLACKBOLT_03_DESC,"Requires 5 Asgardian or Mystic Hero characters at 3+ Stars.\n\nRecommended for level 40+, Gear Tier 7+, Level 4+ Abilities.\n\nFollowing Attilan through an immense interdimensional portal, the Asgardians and Black Bolt find themselves behind enemy lines."
 ID_LE_BLACKBOLT_04_NAME,Black Bolt - Tier 4
-ID_LE_BLACKBOLT_04_DESC,"Requires 5 Asgardian characters at 4+ Stars.\n\nRecommended for level 55+, Gear Tier 8+, Level 5+ Abilities.\n\nBlack Bolt and the Asgardians must defend this dimension's Black Widow from her own allies while she locates the missing Attilan."
+ID_LE_BLACKBOLT_04_DESC,"Requires 5 Asgardian or Mystic Hero characters at 4+ Stars.\n\nRecommended for level 55+, Gear Tier 8+, Level 5+ Abilities.\n\nBlack Bolt and the Asgardians must defend this dimension's Black Widow from her own allies while she locates the missing Attilan."
 ID_LE_BLACKBOLT_05_NAME,Black Bolt - Tier 5
-ID_LE_BLACKBOLT_05_DESC,"Requires 5 Asgardian characters at 5+ Stars.\n\nRecommended for level 60+, Gear Tier 9+, Level 5+ Abilities.\n\nArriving at the gates of Attilan, the Asgardians face the corrupted Supernatural forces keeping them out."
+ID_LE_BLACKBOLT_05_DESC,"Requires 5 Asgardian or Mystic Hero characters at 5+ Stars.\n\nRecommended for level 60+, Gear Tier 9+, Level 5+ Abilities.\n\nArriving at the gates of Attilan, the Asgardians face the corrupted Supernatural forces keeping them out."
 ID_LE_BLACKBOLT_06_NAME,Black Bolt - Tier 6
-ID_LE_BLACKBOLT_06_DESC,"Requires 5 Asgardian characters at 6+ Stars.\n\nRecommended for level 64+, Gear Tier 11+, Level 6+ Abilities.\n\nBlack Bolt and the Asgardians must defeat Ultron before his sinister scheme is complete."
+ID_LE_BLACKBOLT_06_DESC,"Requires 5 Asgardian or Mystic Hero characters at 6+ Stars.\n\nRecommended for level 64+, Gear Tier 11+, Level 6+ Abilities.\n\nBlack Bolt and the Asgardians must defeat Ultron before his sinister scheme is complete."
 ID_LE_BLACKBOLT_07_NAME,Black Bolt - Tier 7
-ID_LE_BLACKBOLT_07_DESC,"Requires 5 Asgardian characters at 7 Stars.\n\nRecommended for level 65+, Gear Tier 11+, Level 6+ Abilities.\n\nStepping over the wreckage of Ultron, Thanos reveals his master plan to destroy our heroes."
+ID_LE_BLACKBOLT_07_DESC,"Requires 5 Asgardian or Mystic Hero characters at 7 Stars.\n\nRecommended for level 65+, Gear Tier 11+, Level 6+ Abilities.\n\nStepping over the wreckage of Ultron, Thanos reveals his master plan to destroy our heroes."
 ID_LE_DOCTOROCTOPUS_01_NAME,Doctor Octopus - Tier 1
 ID_LE_DOCTOROCTOPUS_01_DESC,"While S.T.R.I.K.E. tries to establish a new base, can they withstand a surprise assault from Doctor Doom's forces?"
 ID_LE_DOCTOROCTOPUS_02_NAME,Doctor Octopus - Tier 2
@@ -1714,19 +1714,19 @@ ID_LE_EBONYMAW_07_DESC,"Requires Inhuman or Bio Hero characters at 6+ Stars.\n\n
 ID_LE_EBONYMAW_08_NAME,Ebony Maw - Tier 8
 ID_LE_EBONYMAW_08_DESC,"Requires Inhuman or Bio Hero characters at 7 Stars.\n\nRecommended for level 65+, Gear Tier 11+, Level 6+ Abilities.\n\nAfter fighting through hordes of mindless corrupted, Black Bolt and the Inhumans must finally acquire the Infinity Stones."
 ID_LE_IRONMAN_01_NAME,Iron Man - Tier 1
-ID_LE_IRONMAN_01_DESC,"Requires 2 S.H.I.E.L.D. agents.\n\nRecommended for level 18+, Gear Tier 3+, Level 1+ Abilities.\n\nS.H.I.E.L.D. forces take on a squad of mercenaries that have stolen the contents of a containment module storing one of Iron Man's old suits."
+ID_LE_IRONMAN_01_DESC,"Requires 2 S.H.I.E.L.D. or SKILL HERO characters.\n\nRecommended for level 18+, Gear Tier 3+, Level 1+ Abilities.\n\nS.H.I.E.L.D. forces take on a squad of mercenaries that have stolen the contents of a containment module storing one of Iron Man's old suits."
 ID_LE_IRONMAN_02_NAME,Iron Man - Tier 2
-ID_LE_IRONMAN_02_DESC,"Requires 2 S.H.I.E.L.D. agents at 2 Stars.\n\nRecommended for level 18+, Gear Tier 4+, Level 1+ Abilities.\n\nTony sends the S.H.I.E.L.D. team to stop the mercs from selling the Mask of Ogun to the Hand."
+ID_LE_IRONMAN_02_DESC,"Requires 2 S.H.I.E.L.D. or SKILL HERO characters at 2 Stars.\n\nRecommended for level 18+, Gear Tier 4+, Level 1+ Abilities.\n\nTony sends the S.H.I.E.L.D. team to stop the mercs from selling the Mask of Ogun to the Hand."
 ID_LE_IRONMAN_03_NAME,Iron Man - Tier 3
-ID_LE_IRONMAN_03_DESC,"Requires 3 S.H.I.E.L.D. agents at 3 Stars.\n\nRecommended for level 30+, Gear Tier 5+, Level 2+ Abilities.\n\nThe S.H.I.E.L.D. squad attempts to recover the stolen Kree Monolith from the mercs at their home base: an abandoned Hydra armory."
+ID_LE_IRONMAN_03_DESC,"Requires 3 S.H.I.E.L.D. or SKILL HERO characters at 3 Stars.\n\nRecommended for level 30+, Gear Tier 5+, Level 2+ Abilities.\n\nThe S.H.I.E.L.D. squad attempts to recover the stolen Kree Monolith from the mercs at their home base: an abandoned Hydra armory."
 ID_LE_IRONMAN_04_NAME,Iron Man - Tier 4
-ID_LE_IRONMAN_04_DESC,"Requires 3 S.H.I.E.L.D. agents at 4 Stars.\n\nRecommended for level 40+, Gear Tier 6+, Level 3+ Abilities.\n\nWhile investigating the Blue Area of the Moon, the S.H.I.E.L.D. team encounters a squad of the Lunatic Legion devoted to Ultimus."
+ID_LE_IRONMAN_04_DESC,"Requires 3 S.H.I.E.L.D. or SKILL HERO characters at 4 Stars.\n\nRecommended for level 40+, Gear Tier 6+, Level 3+ Abilities.\n\nWhile investigating the Blue Area of the Moon, the S.H.I.E.L.D. team encounters a squad of the Lunatic Legion devoted to Ultimus."
 ID_LE_IRONMAN_05_NAME,Iron Man - Tier 5
-ID_LE_IRONMAN_05_DESC,"Requires 4 S.H.I.E.L.D. agents at 5 Stars.\n\nRecommended for level 50+, Gear Tier 8+, Level 4+ Abilities.\n\nThe S.H.I.E.L.D. agents must storm a lab where A.I.M. scientists are developing a Terrigen Bomb for the Legion."
+ID_LE_IRONMAN_05_DESC,"Requires 4 S.H.I.E.L.D. or SKILL HERO characters at 5 Stars.\n\nRecommended for level 50+, Gear Tier 8+, Level 4+ Abilities.\n\nThe S.H.I.E.L.D. agents must storm a lab where A.I.M. scientists are developing a Terrigen Bomb for the Legion."
 ID_LE_IRONMAN_06_NAME,Iron Man - Tier 6
-ID_LE_IRONMAN_06_DESC,"Requires 4 S.H.I.E.L.D. agents at 6 Stars.\n\nRecommended for level 60+, Gear Tier 9+, Level 5+ Abilities.\n\nAfter boarding the Kree warship in possession of the bomb, the team encounters a group of corrupted S.H.I.E.L.D. agents led by a corrupted Nick Fury."
+ID_LE_IRONMAN_06_DESC,"Requires 4 S.H.I.E.L.D. or SKILL HERO characters at 6 Stars.\n\nRecommended for level 60+, Gear Tier 9+, Level 5+ Abilities.\n\nAfter boarding the Kree warship in possession of the bomb, the team encounters a group of corrupted S.H.I.E.L.D. agents led by a corrupted Nick Fury."
 ID_LE_IRONMAN_07_NAME,Iron Man - Tier 7
-ID_LE_IRONMAN_07_DESC,"Requires 5 S.H.I.E.L.D. agents at 7 Stars.\n\nRecommended for level 65+, Gear Tier 11+, Level 6+ Abilities.\n\nDefeat the Legion's corrupted Avengers and disarm the Terrigen Bomb before it explodes."
+ID_LE_IRONMAN_07_DESC,"Requires 5 S.H.I.E.L.D. or SKILL HERO characters at 7 Stars.\n\nRecommended for level 65+, Gear Tier 11+, Level 6+ Abilities.\n\nDefeat the Legion's corrupted Avengers and disarm the Terrigen Bomb before it explodes."
 ID_LE_INVISIBLEWOMAN_01_NAME,Invisible Woman - Tier 1
 ID_LE_INVISIBLEWOMAN_01_DESC,"Looking to confirm a terrible suspicion, the Fantastic Four assault one of Ultimus's labs run by a corrupted Iron Man."
 ID_LE_INVISIBLEWOMAN_02_NAME,Invisible Woman - Tier 2
@@ -1756,19 +1756,19 @@ ID_LE_JEANGREY_06_DESC,"Requires 5 Mystic Controller characters at 6+ Stars.\n\n
 ID_LE_JEANGREY_07_NAME,Phoenix - Tier 7
 ID_LE_JEANGREY_07_DESC,"Requires 5 Mystic Controller characters at 7 Stars.\n\nRecommended for level 70+, Gear Tier 12+, Level 7+ Abilities, 4 Red Stars.\n\nPhoenix must face her most powerful enemy yet - a shard of the Phoenix Force that does not wish to rejoin her."
 ID_LE_MAGNETO_01_NAME,Magneto - Tier 1
-ID_LE_MAGNETO_01_DESC,"Requires 5 X-MEN or BROTHERHOOD.\n\nRecommended for level 25+, Gear Tier 5+, Level 2+ Abilities.\n\nMagneto and the team return to Nexus Earth in search of clues on where Asteroid M could have gone."
+ID_LE_MAGNETO_01_DESC,"Requires 5 MUTANT characters.\n\nRecommended for level 25+, Gear Tier 5+, Level 2+ Abilities.\n\nMagneto and the team return to Nexus Earth in search of clues on where Asteroid M could have gone."
 ID_LE_MAGNETO_02_NAME,Magneto - Tier 2
-ID_LE_MAGNETO_02_DESC,"Requires 5 X-MEN or BROTHERHOOD at 2+ Stars.\n\nRecommended for level 35+, Gear Tier 6+, Level 3+ Abilities.\n\nMagneto insists the squad must take control of a submarine to return to the last known location of Asteroid M: deep in the Mariana Trench."
+ID_LE_MAGNETO_02_DESC,"Requires 5 MUTANT characters at 2+ Stars.\n\nRecommended for level 35+, Gear Tier 6+, Level 3+ Abilities.\n\nMagneto insists the squad must take control of a submarine to return to the last known location of Asteroid M: deep in the Mariana Trench."
 ID_LE_MAGNETO_03_NAME,Magneto - Tier 3
-ID_LE_MAGNETO_03_DESC,"Requires 5 X-MEN or BROTHERHOOD at 3+ Stars.\n\nRecommended for level 40+, Gear Tier 7+, Level 3+ Abilities.\n\nAfter uncovering the truth about Asteroid M, the squad must fight off assassins to prevent the submarine from crashing in the Pacific Ocean."
+ID_LE_MAGNETO_03_DESC,"Requires 5 MUTANT characters at 3+ Stars.\n\nRecommended for level 40+, Gear Tier 7+, Level 3+ Abilities.\n\nAfter uncovering the truth about Asteroid M, the squad must fight off assassins to prevent the submarine from crashing in the Pacific Ocean."
 ID_LE_MAGNETO_04_NAME,Magneto - Tier 4
-ID_LE_MAGNETO_04_DESC,"Requires 5 X-MEN or BROTHERHOOD at 4+ Stars.\n\nRecommended for level 55+, Gear Tier 8+, Level 4+ Abilities.\n\nIn search of the Gravitonium in the asteroid, Magneto is attacked by a group of corrupted Hydra soldiers seeking revenge for their submarine."
+ID_LE_MAGNETO_04_DESC,"Requires 5 MUTANT characters at 4+ Stars.\n\nRecommended for level 55+, Gear Tier 8+, Level 4+ Abilities.\n\nIn search of the Gravitonium in the asteroid, Magneto is attacked by a group of corrupted Hydra soldiers seeking revenge for their submarine."
 ID_LE_MAGNETO_05_NAME,Magneto - Tier 5
-ID_LE_MAGNETO_05_DESC,"Requires 5 X-MEN or BROTHERHOOD at 5+ Stars.\n\nRecommended for level 60+, Gear Tier 9+, Level 5+ Abilities.\n\nIn the rubble left by Asteroid M's trail of destruction, the team must fight their way past the First Legion to the Alpha Flight launch station."
+ID_LE_MAGNETO_05_DESC,"Requires 5 MUTANT characters at 5+ Stars.\n\nRecommended for level 60+, Gear Tier 9+, Level 5+ Abilities.\n\nIn the rubble left by Asteroid M's trail of destruction, the team must fight their way past the First Legion to the Alpha Flight launch station."
 ID_LE_MAGNETO_06_NAME,Magneto - Tier 6
-ID_LE_MAGNETO_06_DESC,"Requires 5 X-MEN or BROTHERHOOD at 6+ Stars.\n\nRecommended for level 64+, Gear Tier 11+, Level 6+ Abilities.\n\nMagneto and the squad must fight past corrupted Cosmic forces to get to Alpha Flight Station's main control room and take back control of Asteroid M."
+ID_LE_MAGNETO_06_DESC,"Requires 5 MUTANT characters at 6+ Stars.\n\nRecommended for level 64+, Gear Tier 11+, Level 6+ Abilities.\n\nMagneto and the squad must fight past corrupted Cosmic forces to get to Alpha Flight Station's main control room and take back control of Asteroid M."
 ID_LE_MAGNETO_07_NAME,Magneto - Tier 7
-ID_LE_MAGNETO_07_DESC,"Requires 5 X-MEN or BROTHERHOOD at 7 Stars.\n\nRecommended for level 65+, Gear Tier 11+, Level 6+ Abilities.\n\nMagneto must defeat corrupted Quake before she can send Asteroid M on a crash course for Earth with aid from her S.H.I.E.L.D. Operators."
+ID_LE_MAGNETO_07_DESC,"Requires 5 MUTANT characters at 7 Stars.\n\nRecommended for level 65+, Gear Tier 11+, Level 6+ Abilities.\n\nMagneto must defeat corrupted Quake before she can send Asteroid M on a crash course for Earth with aid from her S.H.I.E.L.D. Operators."
 ID_LE_NICKFURY_01_NAME,Nick Fury - Tier 1
 ID_LE_NICKFURY_01_DESC,"Requires 5 Cosmic Villain or Heroes for Hire characters.\n\nRecommended for level 25+, Gear Tier 5+, Level 2+ Abilities.\n\nNexus Ronan sends the Free Kree deep into corrupted Kree territory on planet Kallu: the last place where Nick Fury made contact with him."
 ID_LE_NICKFURY_02_NAME,Nick Fury - Tier 2
@@ -3702,3 +3702,55 @@ ID_MIS_ILLUMINATI_CB_07_NAME,Amulet of Right Challenge 2
 ID_MIS_ILLUMINATI_CB_07_DESC,Captain Britain Illuminati Challenge 2
 ID_MIS_ILLUMINATI_CB_08_NAME,Amulet of Right Challenge 3
 ID_MIS_ILLUMINATI_CB_08_DESC,Captain Britain Illuminati Challenge 3
+ID_MIS_ARES_01_NAME,Pest Control
+ID_MIS_ARES_01_DESC,"Under Ares' gaze, these enemies are nothing more than exasperating bugs."
+ID_MIS_ARES_02_NAME,Failed Experiments
+ID_MIS_ARES_02_DESC,Ares illustrates the difference between a mindless blade and an expert swordsman.
+ID_MIS_ARES_03_NAME,Sundered Stories
+ID_MIS_ARES_03_DESC,History only remembers the victor.
+ID_MIS_ARES_04_NAME,False Prophecies
+ID_MIS_ARES_04_DESC,Ares visits true destruction on an apocalyptic team.
+ID_MIS_ARES_05_NAME,War is my Business...
+ID_MIS_ARES_05_DESC,... And business is good.
+ID_MIS_ARES_06_NAME,Here Comes the Pain
+ID_MIS_ARES_06_DESC,"Reinforcements have been sent in, but are they up to snuff?"
+ID_MIS_ARES_07_NAME,Enemy of my Enemy
+ID_MIS_ARES_07_DESC,"Unimpeded by the hordes on the battlefield, Ares continues the fight."
+ID_MIS_ARES_08_NAME,Parlor Tricks
+ID_MIS_ARES_08_DESC,"After missing the Pledge and coming in at the Turn, Ares is the catalyst for the Prestige."
+ID_MIS_ARES_1TD_NAME,War I - Out of Time
+ID_MIS_ARES_TD_DESC,Use Ares in sample battles from War!
+ID_MIS_ARES_2TD_NAME,War II - Knowhere
+ID_MIS_ARES_3TD_NAME,War III - Gamma
+ID_ECM_POOLPARTY_01_01_NAME,When Nick's Away...
+ID_ECM_POOLPARTY_01_01_DESC,Nick Fury's out of town and you know what that means! Pool PAR-TAY!
+ID_ECM_POOLPARTY_01_02_NAME,Logan's Heroes
+ID_ECM_POOLPARTY_01_02_DESC,"Deadpool knows exactly who can kick off a party - his good pal, the Wolverine!"
+ID_ECM_POOLPARTY_01_03_NAME,"Bow Bow, Chica Chica"
+ID_ECM_POOLPARTY_01_03_DESC,Vice Principal Coulson is trying to bust Deadpool and break up the party!
+ID_ECM_POOLPARTY_01_04_NAME,Party Crashing
+ID_ECM_POOLPARTY_01_04_DESC,"When there's a problem with the party, Deadpool takes some desperate measures."
+ID_ECM_POOLPARTY_02_01_NAME,South of the Border
+ID_ECM_POOLPARTY_02_01_DESC,"Welcome to sunny Acapulco, where Deadpool FOR SURE didn't ruin people's vacation crashing a Hellicarrier."
+ID_ECM_POOLPARTY_02_02_NAME,Danger Zone
+ID_ECM_POOLPARTY_02_02_DESC,We've got the need! The need for 3x Combat Speed!
+ID_ECM_POOLPARTY_02_03_NAME,Picnic Pests
+ID_ECM_POOLPARTY_02_03_DESC,The snack cart is overrun with insects! Where are the teens going to hang out?!
+ID_ECM_POOLPARTY_02_04_NAME,Bathing Suits
+ID_ECM_POOLPARTY_02_04_DESC,The bugs are gone but another group of hungry party crashers show up - SYMBIOTES!
+ID_ECM_POOLPARTY_03_01_NAME,Midday Run
+ID_ECM_POOLPARTY_03_01_DESC,Coulson has followed Deadpool and the stolen Hellicarrier and wants to end the party just as it's starting!
+ID_ECM_POOLPARTY_03_02_NAME,Dia De Los Deadpools
+ID_ECM_POOLPARTY_03_02_DESC,Deadpool dodges Coulson and ends up right where he always belonged - in the SPOTLIGHT!
+ID_ECM_POOLPARTY_03_03_NAME,In Theaters Now
+ID_ECM_POOLPARTY_03_03_DESC,The Acapulco heat is beating down! Time to cool off by going to see Marvel Studios Deadpool & Wolverine!
+ID_ECM_POOLPARTY_03_04_NAME,The Bill Comes Due
+ID_ECM_POOLPARTY_03_04_DESC,Deadpool finds out that 'all inclusive' vacations doesn't included paying the bill at the end!
+ID_ECM_POOLPARTY_04_01_NAME,"Brother, Can You Spare a Dime"
+ID_ECM_POOLPARTY_04_01_DESC,Deadpool heads to the vacation spot of some rich heroes to ask for help. What even is 'tresspassing' anyway?
+ID_ECM_POOLPARTY_04_02_NAME,You're It!
+ID_ECM_POOLPARTY_04_02_DESC,"His honor insulted, Deadpool slaps Iron Man with his crimson glove and challenges him to a summer game duel!"
+ID_ECM_POOLPARTY_04_03_NAME,Salute My Shorts
+ID_ECM_POOLPARTY_04_03_DESC,"The most patriotic of all summer games, the ultimate in endurance, coordination and cunning - CAPTURE THE FLAG!"
+ID_ECM_POOLPARTY_04_04_NAME,Rotating Heads
+ID_ECM_POOLPARTY_04_04_DESC,What a successful party! And plenty of time to get back before Fury gets ba-WAIT IS THAT THE TIME?!

@@ -8462,7 +8462,7 @@ ID_DIALOG_SSE_ILLUMINATI_HANK_02_INTRO_2,"Do we think it has anything to do with
 ID_DIALOG_SSE_ILLUMINATI_HANK_02_INTRO_3,"Smelly? I got super senses, Stark. When's the last time you washed that suit?"
 ID_DIALOG_SSE_ILLUMINATI_HANK_02_INTRO_4,"Anything could be related. Or not. Ultron's playing Nth dimensional chess. "
 ID_DIALOG_SSE_ILLUMINATI_HANK_02_INTRO_5,For now we just need to move our pieces and hope we see his plan.
-ID_DIALOG_SSE_ILLUMINATI_HANK_03_INTRO_0,"These attacks... They're a disctraction. Finally, some good news."
+ID_DIALOG_SSE_ILLUMINATI_HANK_03_INTRO_0,"These attacks... They're a distraction. Finally, some good news."
 ID_DIALOG_SSE_ILLUMINATI_HANK_03_INTRO_1,What do you mean?
 ID_DIALOG_SSE_ILLUMINATI_HANK_03_INTRO_2,"Ultron's brilliant but single-minded. He wants one thing - world domination and humanity's extinction. "
 ID_DIALOG_SSE_ILLUMINATI_HANK_03_INTRO_3,"If his plans were inevitable, he wouldn't bother with us - he'd destroy us with the rest of the world."
@@ -8486,7 +8486,7 @@ ID_DIALOG_SSE_ILLUMINATI_HANK_04_END_4,BOOM!
 ID_DIALOG_SSE_ILLUMINATI_HANK_04_END_5,So much for our fancy clubhouse...
 ID_DIALOG_SSE_ILLUMINATI_HANK_04_END_6,"You'll buy us a new one. Now, it's time to find Ultron."
 ID_DIALOG_SSE_ILLUMINATI_HANK_05_INTRO_0,"Without a target, Ultron's drones are scrambling like hornets that've had their nest kicked. "
-ID_DIALOG_SSE_ILLUMINATI_HANK_05_INTRO_1,Perfect. I've got an algorithm that can analize their flight patterns and lead us right to him.
+ID_DIALOG_SSE_ILLUMINATI_HANK_05_INTRO_1,Perfect. I've got an algorithm that can analyze their flight patterns and lead us right to him.
 ID_DIALOG_SSE_ILLUMINATI_HANK_05_INTRO_2,"Did the algorithm detect the ones headed right towards our Quinjet landing pad? "
 ID_DIALOG_SSE_ILLUMINATI_HANK_05_INTRO_3,The last stragglers! We take them out and we can go after the source.
 ID_DIALOG_SSE_ILLUMINATI_HANK_05_END_0,BOOM!
@@ -8510,7 +8510,7 @@ ID_DIALOG_SSE_ILLUMINATI_TEAM_01_END_3,Does Ultron think that we think that he t
 ID_DIALOG_SSE_ILLUMINATI_TEAM_01_END_4,He can process infinite levels of that. So we act on the base level - attack and see what happens.
 ID_DIALOG_SSE_ILLUMINATI_TEAM_02_INTRO_0,"Another door with a multi-phasal combination lock. "
 ID_DIALOG_SSE_ILLUMINATI_TEAM_02_INTRO_1,"Sophisticated, but with our combined calculations we should be able to open it in 8.27 minutes. "
-ID_DIALOG_SSE_ILLUMINATI_TEAM_02_INTRO_2,"Or I could use these six universal locks I got right here. "
+ID_DIALOG_SSE_ILLUMINATI_TEAM_02_INTRO_2,"Or I could use these six universal lockpicks I got right here. "
 ID_DIALOG_SSE_ILLUMINATI_TEAM_02_INTRO_3,SLICE!
 ID_DIALOG_SSE_ILLUMINATI_TEAM_02_INTRO_4,...
 ID_DIALOG_SSE_ILLUMINATI_TEAM_02_INTRO_5,"I take it that was a 'nice work, Logan'?"
@@ -8634,6 +8634,282 @@ ID_DIALOG_SSE_ILLUMINATI_CB_05_END_7,FATHER... FATHER!
 ID_DIALOG_SSE_ILLUMINATI_CB_05_END_8,"So long, Ultron. I will not miss you."
 ID_DIALOG_SSE_ILLUMINATI_CB_05_END_9,"You smug sons a... Playing god, making decisions in the shadows..."
 ID_DIALOG_SSE_ILLUMINATI_CB_05_END_10,Yer no better than the damned robot. Wherever Xavier is... I'm glad he ain't here for this.
+ID_DIALOG_ECM_POOLPARTY_01_01_INTRO_0,"Sir, do you have everything packed? I can run down the checklist again if you need."
+ID_DIALOG_ECM_POOLPARTY_01_01_INTRO_1,"Hill, this S.T.R.I.K.E. summit is two days in another universe.\nWe'll be fine."
+ID_DIALOG_ECM_POOLPARTY_01_01_INTRO_2,We're going to meet with Fury's and Hills from across the multiverse! I want to make sure it goes smoothly.
+ID_DIALOG_ECM_POOLPARTY_01_01_INTRO_3,"I appreciate your zeal, Hill. But it's two days away, what's the worst that could happen?\nCome on, let's roll. "
+ID_DIALOG_ECM_POOLPARTY_01_01_INTRO_4,...
+ID_DIALOG_ECM_POOLPARTY_01_01_INTRO_5,...is he gone?
+ID_DIALOG_ECM_POOLPARTY_01_01_INTRO_6,"HE'S GONE! "
+ID_DIALOG_ECM_POOLPARTY_01_01_INTRO_7,PARTY TIME!!!\n\nEVERYONE INTO THE POOL!
+ID_DIALOG_ECM_POOLPARTY_01_01_START_0,Welcome to Deadpool's Interdimensional Pool Party here on the world famous S.H.I.E.L.D. Helicarrier!
+ID_DIALOG_ECM_POOLPARTY_01_01_START_1,"They said ""Deadpool, you shouldn't install an Olympic-sized swimming pool on a floating fortress!"" "
+ID_DIALOG_ECM_POOLPARTY_01_01_START_2,But you know what I said?
+ID_DIALOG_ECM_POOLPARTY_01_01_START_3,CANNONBALL!
+ID_DIALOG_ECM_POOLPARTY_01_01_START_4,Hey Wade... Got room in the water for your ol' pal Toad?
+ID_DIALOG_ECM_POOLPARTY_01_01_START_5,GASP! PARTY CRASHERS!
+ID_DIALOG_ECM_POOLPARTY_01_01_END_0,"Jeeze... A simple ""No"" would have sufficed. Come on, Blob, we'll go swim where we're welcome! "
+ID_DIALOG_ECM_POOLPARTY_01_01_END_1,New Jersey!
+ID_DIALOG_ECM_POOLPARTY_01_01_END_2,"Hm, it didn't occur to me when I kicked out the party crashes that they were the only people here... "
+ID_DIALOG_ECM_POOLPARTY_01_01_END_3,I've gotta kick start this shindig! And I know EXACTLY who can get this party going.
+ID_DIALOG_ECM_POOLPARTY_01_01_END_4,Oh Loooooooooooogaaaaaaaaan....
+ID_DIALOG_ECM_POOLPARTY_01_02_INTRO_0,"Okay, Wade, I'm here... What's the big emergency?"
+ID_DIALOG_ECM_POOLPARTY_01_02_INTRO_1,Wolverine... Logan... Come closer... Help... I'm sick...
+ID_DIALOG_ECM_POOLPARTY_01_02_INTRO_2,"What's wrong? Did Sinister do this? Is it the Legacy Virus? "
+ID_DIALOG_ECM_POOLPARTY_01_02_INTRO_3,No... It's worse...
+ID_DIALOG_ECM_POOLPARTY_01_02_INTRO_4,"I have POOL PARTY FEVER, and the only CURE is PUSHING YOU IN!"
+ID_DIALOG_ECM_POOLPARTY_01_02_INTRO_5,*SPLASH*
+ID_DIALOG_ECM_POOLPARTY_01_02_INTRO_6,"Well, bub, it's too bad you weren't dyin', because I'm gonna kill ya!"
+ID_DIALOG_ECM_POOLPARTY_01_02_START_0,"Let's calm down, short wet and hairy! What's the big deal? Adamantium doesn't rust!"
+ID_DIALOG_ECM_POOLPARTY_01_02_START_1,My outfit's SOAKIN' WET!
+ID_DIALOG_ECM_POOLPARTY_01_02_START_2,"My message said ""suit optional""!"
+ID_DIALOG_ECM_POOLPARTY_01_02_MID_0,"Hey, a brawl! Now this party can really start!"
+ID_DIALOG_ECM_POOLPARTY_01_02_MID_1,EVERYBODY PILE ON WADE!
+ID_DIALOG_ECM_POOLPARTY_01_02_MID_2,Did you ONLY invite other Wolverines?
+ID_DIALOG_ECM_POOLPARTY_01_02_MID_3,I wasn't sure any of you would show up! Help!
+ID_DIALOG_ECM_POOLPARTY_01_02_END_0,So... So many claws... You've cut off pieces of me I didn't even know I had...
+ID_DIALOG_ECM_POOLPARTY_01_02_END_1,"Heh, you know what Wade? This is actually my kinda party. "
+ID_DIALOG_ECM_POOLPARTY_01_02_END_2,"I told you! Now lose the spandex and hop back in the pool before the body hair from all these Logans clogs the filter. "
+ID_DIALOG_ECM_POOLPARTY_01_02_END_3,I love the smell of chlorine and jet fuel in the morning! Smells like SUMMER TIME!
+ID_DIALOG_ECM_POOLPARTY_01_03_INTRO_0,Deadpool! What do you think you're doing up here?
+ID_DIALOG_ECM_POOLPARTY_01_03_INTRO_1,Gasp! Vice Principal Coulson!
+ID_DIALOG_ECM_POOLPARTY_01_03_INTRO_2,"Just some good old fashioned summertime shenanigans, sir! Completely Nick Fury approved. "
+ID_DIALOG_ECM_POOLPARTY_01_03_INTRO_3,"Yeah, there's no way that's true. I'm shutting this whole party down."
+ID_DIALOG_ECM_POOLPARTY_01_03_START_0,"Come on, Phil! Live a little! Take a vacation!"
+ID_DIALOG_ECM_POOLPARTY_01_03_START_1,I know for a fact that the game devs making Marvel Strike Force haven't been in the office since May!
+ID_DIALOG_ECM_POOLPARTY_01_03_START_2,"(Sorry, it's been a little while since I broke the fourth wall. I was getting itchy.)"
+ID_DIALOG_ECM_POOLPARTY_01_03_END_0,"Okay, Wade... Pack up your floaties. "
+ID_DIALOG_ECM_POOLPARTY_01_03_END_1,"You know, you're being a real Scrooge right now. Or whatever his 4th of July equivalent is.\nThe Red Skull?"
+ID_DIALOG_ECM_POOLPARTY_01_03_END_2,"Sir, we've received a report that Apocalypse has resurfaced - he's attacking Paris."
+ID_DIALOG_ECM_POOLPARTY_01_03_END_3,"We've got to handle this. Wade...\nThis had better be cleaned up when we get back. "
+ID_DIALOG_ECM_POOLPARTY_01_03_END_4,"Aw man... Guess I better cancel the party and go ""save the world"". "
+ID_DIALOG_ECM_POOLPARTY_01_03_END_5,Don't bother.\n\nApocalypse ain't doin' nothing.
+ID_DIALOG_ECM_POOLPARTY_01_03_END_6,WOLVERINE!\nDid you call in a false tip? For little old ME?!
+ID_DIALOG_ECM_POOLPARTY_01_03_END_7,"Don't let it go to your head. Besides, we got bigger problems. "
+ID_DIALOG_ECM_POOLPARTY_01_03_END_8,We're outta drinks.
+ID_DIALOG_ECM_POOLPARTY_01_04_INTRO_0,How?! An ice cold beverage in a little Deadpool (TM) Coozy is a crucial element of summer fun!
+ID_DIALOG_ECM_POOLPARTY_01_04_INTRO_1,"There's a buncha Wolverines, Thing and Hulk are playin' flip-cup with giant barrels, and Thor's been tellin' stories. "
+ID_DIALOG_ECM_POOLPARTY_01_04_INTRO_2,"You put the thirstiest heroes in Nexus Earth on one place, whadda ya think was gonna happen?"
+ID_DIALOG_ECM_POOLPARTY_01_04_INTRO_3,"This is on me for knowing too many party animals. I see that now. "
+ID_DIALOG_ECM_POOLPARTY_01_04_INTRO_4,Luckily... I have a solution!
+ID_DIALOG_ECM_POOLPARTY_01_04_START_0,"Mockingbird to Helicarrier Bridge! We're losing altitude fast, what is happening up there?"
+ID_DIALOG_ECM_POOLPARTY_01_04_START_1,"Ooooh, so THAT'S what that button does! Sorry, I'm trying to get this party bus moving. "
+ID_DIALOG_ECM_POOLPARTY_01_04_START_2,You're going to get us all killed! We need to put a stop to this now!
+ID_DIALOG_ECM_POOLPARTY_01_04_END_0,"Okay, let's really open this ol' gal up, see what she can do!"
+ID_DIALOG_ECM_POOLPARTY_01_04_END_1,EVERYONE HOLD ON!
+ID_DIALOG_ECM_POOLPARTY_01_04_END_2,OR DON'T! YOUR CALL!
+ID_DIALOG_ECM_POOLPARTY_01_04_END_3,*CRASH*
+ID_DIALOG_ECM_POOLPARTY_01_04_END_4,Wade... What the hell... Where are we?
+ID_DIALOG_ECM_POOLPARTY_01_04_END_5,"If we can't get drinks to the Helicarrier, time to go somewhere the buffets are endless and the tourists are sunburnt!"
+ID_DIALOG_ECM_POOLPARTY_01_04_END_6,WELCOME TO SUNNY ACAPULCO!
+ID_DIALOG_ECM_POOLPARTY_02_01_INTRO_0,"You crashed the Helicarrier in Acapulco?! "
+ID_DIALOG_ECM_POOLPARTY_02_01_INTRO_1,Sure! It's a magical place!
+ID_DIALOG_ECM_POOLPARTY_02_01_INTRO_2,You're thinking of Tahiti...
+ID_DIALOG_ECM_POOLPARTY_02_01_INTRO_3,"Whatever! The important thing is that this beach resort we crashed on? It's All-Inclusive! "
+ID_DIALOG_ECM_POOLPARTY_02_01_INTRO_4,"Hit the buffet and order another frozen bev, bud!\nThis one's on Papa Scopely. "
+ID_DIALOG_ECM_POOLPARTY_02_01_START_0,Now to just bust out the ol' S.T.R.I.K.E. Black card...
+ID_DIALOG_ECM_POOLPARTY_02_01_START_1,"I'm so sorry, sir. I'm afraid your card has been declined. "
+ID_DIALOG_ECM_POOLPARTY_02_01_START_2,"Hm, must be that ""gold shortage"" I'm always reading about on Reddit..."
+ID_DIALOG_ECM_POOLPARTY_02_01_START_3,Hey! It's the guy who crashed that thing and ruined our vacation! Get him!
+ID_DIALOG_ECM_POOLPARTY_02_01_END_0,"Sir, I am SO sorry for the mix-up! You and your, ahem... Guests... Will get the gold star treatment. "
+ID_DIALOG_ECM_POOLPARTY_02_01_END_1,"Please, enjoy your stay."
+ID_DIALOG_ECM_POOLPARTY_02_01_END_2,"Wow, Deadpool, I'm impressed. How'd you find the money for this?"
+ID_DIALOG_ECM_POOLPARTY_02_01_END_3,"I got desperate and told them I was Doctor Doom. Without our masks the resemblance is uncanny. "
+ID_DIALOG_ECM_POOLPARTY_02_01_END_4,Everyone... Hit the beach!
+ID_DIALOG_ECM_POOLPARTY_02_02_INTRO_0,"Okay, time for Deadpool's world famous volleyball tournament! "
+ID_DIALOG_ECM_POOLPARTY_02_02_INTRO_1,"Everyone split up into teams, pick shirts and skins! Hulks... You don't have shirts, you're on skins."
+ID_DIALOG_ECM_POOLPARTY_02_02_INTRO_2,"Wade, take shirts."
+ID_DIALOG_ECM_POOLPARTY_02_02_INTRO_3,But I was hoping to get a tan!
+ID_DIALOG_ECM_POOLPARTY_02_02_INTRO_4,"This is a public beach.\nPeople are trying to eat. "
+ID_DIALOG_ECM_POOLPARTY_02_02_INTRO_5,"Hurtful... But fair. "
+ID_DIALOG_ECM_POOLPARTY_02_02_START_0,This is just like my favorite sexy scene from my favorite 80's action movie!
+ID_DIALOG_ECM_POOLPARTY_02_02_START_1,"I'm just like ""Goose"" and ""Iceman""."
+ID_DIALOG_ECM_POOLPARTY_02_02_START_2,Excuse me?
+ID_DIALOG_ECM_POOLPARTY_02_02_START_3,Uh... Never mind.
+ID_DIALOG_ECM_POOLPARTY_02_02_END_0,"The beach, heroes, volleyball... This is just like my favorite issue of the Marvel Swimsuit Special!"
+ID_DIALOG_ECM_POOLPARTY_02_02_END_1,(They really should bring those back...)
+ID_DIALOG_ECM_POOLPARTY_02_02_END_2,"Hey, why'd everyone stop playing?!"
+ID_DIALOG_ECM_POOLPARTY_02_02_END_3,Logan spiked the ball.
+ID_DIALOG_ECM_POOLPARTY_02_02_END_4,Was it the winning point?
+ID_DIALOG_ECM_POOLPARTY_02_02_END_5,"No, he SPIKED the ball.\nWith his claws. It popped."
+ID_DIALOG_ECM_POOLPARTY_02_02_END_6,What?! NO! WILSON!!!!
+ID_DIALOG_ECM_POOLPARTY_02_03_INTRO_0,"Hey, Deadpool? You're in charge of this party, right?"
+ID_DIALOG_ECM_POOLPARTY_02_03_INTRO_1,"Wow, I've never been in charge of anything. But yes, I am. At last."
+ID_DIALOG_ECM_POOLPARTY_02_03_INTRO_2,"Here in Acapulco, Deadpool is gone. Refer to me instead as El Piscina Grande."
+ID_DIALOG_ECM_POOLPARTY_02_03_INTRO_3,"Uh, sure... Either way, the snack cart is kind of infested?\nWith bees and ants?"
+ID_DIALOG_ECM_POOLPARTY_02_03_INTRO_4,El Piscina Grande is on the case\nTO THE SNACK CART!
+ID_DIALOG_ECM_POOLPARTY_02_03_START_0,Hey! Shouldn't you be ruining a tee-ball game somewhere?! Buzz off!
+ID_DIALOG_ECM_POOLPARTY_02_03_START_1,I am here for your empty zzzoda canzzz... And other zzznacks!
+ID_DIALOG_ECM_POOLPARTY_02_03_START_2,"Yeesh, I knew this game was full of bugs, but this is ridiculous!"
+ID_DIALOG_ECM_POOLPARTY_02_04_INTRO_0,"Snack cart pests exterminated! Another summertime victory for me, Deadpool!"
+ID_DIALOG_ECM_POOLPARTY_02_04_INTRO_1,"What happened to ""El Piscina Grande""?"
+ID_DIALOG_ECM_POOLPARTY_02_04_INTRO_2,"I'm sorry, I don't know what that means. Who wants nachos?!"
+ID_DIALOG_ECM_POOLPARTY_02_04_INTRO_3,WE DO!
+ID_DIALOG_ECM_POOLPARTY_02_04_START_0,"When I said the buffet was all you can eat, that didn't include me!"
+ID_DIALOG_ECM_POOLPARTY_02_04_START_1,Wouldn't you rather eat the Thing? I hear he's milk chocolate under the hard candy coating.
+ID_DIALOG_ECM_POOLPARTY_02_04_START_2,WE'LL MAKE DUE...
+ID_DIALOG_ECM_POOLPARTY_02_04_END_0,"Okay, if katanas and mutant powers won't stop you... Time to try some sonic waves. "
+ID_DIALOG_ECM_POOLPARTY_02_04_END_1,"That's right, I'm talking\nRESORT KARAOKE!"
+ID_DIALOG_ECM_POOLPARTY_02_04_END_2,"HIT THE DISCO BALL, DAZZLER!"
+ID_DIALOG_ECM_POOLPARTY_02_04_END_3,NO... AAAARGH!
+ID_DIALOG_ECM_POOLPARTY_02_04_END_4,"WHEN YOU CALL MY NAME, IT'S LIKE A LITTLE PRAYER..."
+ID_DIALOG_ECM_POOLPARTY_02_04_END_5,RAAARGH! WE MUST FLEE!
+ID_DIALOG_ECM_POOLPARTY_02_04_END_6,Come back! And I was JUST about to do Tiny Dancer...
+ID_DIALOG_ECM_POOLPARTY_03_01_INTRO_0,Here's that sunblock you asked for. It's about one billion SPF.
+ID_DIALOG_ECM_POOLPARTY_03_01_INTRO_1,"Ah, the Lizard sunning himself on a rock, Ghost Rider manning the grill, and the Silver Surfer catching some waves..."
+ID_DIALOG_ECM_POOLPARTY_03_01_INTRO_2,This pool slash beach party is an official SUMMERTIME SUCCESS.
+ID_DIALOG_ECM_POOLPARTY_03_01_INTRO_3,Where is he? Where's Deadpool?!
+ID_DIALOG_ECM_POOLPARTY_03_01_INTRO_4,EEP! Coulson found us! Time for a quick costume change....
+ID_DIALOG_ECM_POOLPARTY_03_01_INTRO_5,Deadpool! Stop right there!
+ID_DIALOG_ECM_POOLPARTY_03_01_INTRO_6,"Me? No, no, no. My llama es\n""El Piscano Gigante"". "
+ID_DIALOG_ECM_POOLPARTY_03_01_START_0,"Come on, you don't really expect me to fall for a costume change and a bad accent, do you?"
+ID_DIALOG_ECM_POOLPARTY_03_01_START_1,Mi accent es muey bueno! Pase un semestre en Espana!
+ID_DIALOG_ECM_POOLPARTY_03_02_INTRO_0,"Where'd he escape to?! Come on, down this street, right through..."
+ID_DIALOG_ECM_POOLPARTY_03_02_INTRO_1,A parade?!
+ID_DIALOG_ECM_POOLPARTY_03_02_INTRO_2,"Sir, isn't that him on that float?"
+ID_DIALOG_ECM_POOLPARTY_03_02_INTRO_3,We've got him! And he's... Singing?
+ID_DIALOG_ECM_POOLPARTY_03_02_INTRO_4,"Danke schoen, darling danke schooooeen..."
+ID_DIALOG_ECM_POOLPARTY_03_02_START_0,"Agents, take him down!"
+ID_DIALOG_ECM_POOLPARTY_03_02_START_1,"Honestly, it's good you stopped me, we could NOT afford the rights to the next song."
+ID_DIALOG_ECM_POOLPARTY_03_02_END_0,"Okay, Coulson... You got me... Send me to summer school, give me detention, shut down the rec center..."
+ID_DIALOG_ECM_POOLPARTY_03_02_END_1,"Oh, come on... I don't WANT to be a buzzkill. It's my job. "
+ID_DIALOG_ECM_POOLPARTY_03_02_END_2,"Who's going to know? Fury's on the other side of the multiverse... Let what little hair you've got left down. "
+ID_DIALOG_ECM_POOLPARTY_03_02_END_3,Besides... We were about to make you Carnival King of the Parade...
+ID_DIALOG_ECM_POOLPARTY_03_02_END_4,Really?
+ID_DIALOG_ECM_POOLPARTY_03_02_END_5,Sure! It's definitely not something I JUST made up.
+ID_DIALOG_ECM_POOLPARTY_03_02_END_6,"Now bust out whatever embarrassing dad swimsuit you have, and let's catch some rays!"
+ID_DIALOG_ECM_POOLPARTY_03_03_INTRO_0,WHEW! It's a hot one. Seven inches from the midday SUN out here!
+ID_DIALOG_ECM_POOLPARTY_03_03_INTRO_1,I know just the way to beat the heat. A MOVIE!
+ID_DIALOG_ECM_POOLPARTY_03_03_INTRO_2,Let's just see what's playing... Wait a minute. Marvel Studios' Deadpool & Wolverine?! In theaters now?!
+ID_DIALOG_ECM_POOLPARTY_03_03_INTRO_3,"PRACTICE YOUR AUTOGRAPH, LOGAN! WE'RE GONNA BE STARS!"
+ID_DIALOG_ECM_POOLPARTY_03_03_INTRO_4,What in the hell are you talking about?
+ID_DIALOG_ECM_POOLPARTY_03_03_INTRO_5,"Don't sweat it, let's just get to the multiplex! Say, you get a senior citizen discount, right?"
+ID_DIALOG_ECM_POOLPARTY_03_03_START_0,"Wow, us in our own movie. Smile, Logan, we're taking a picture to commemorate the occasion."
+ID_DIALOG_ECM_POOLPARTY_03_03_START_1,"Hey buddy, can you turn your phone off? I'm tryna watch the movie."
+ID_DIALOG_ECM_POOLPARTY_03_03_START_2,"Oh, sorry! Let me just get my attacks in for Alliance War, finish my online shopping and take 100 more selfies..."
+ID_DIALOG_ECM_POOLPARTY_03_03_START_3,THAT'S IT!
+ID_DIALOG_ECM_POOLPARTY_03_04_INTRO_0,"Yeesh! Kicked out of our own movie. "
+ID_DIALOG_ECM_POOLPARTY_03_04_INTRO_1,"I guess I'll just have to buy another ticket. In fact, anyone reading this should buy as many tickets as they can."
+ID_DIALOG_ECM_POOLPARTY_03_04_INTRO_2,Marvel Studios' Deadpool & Wolverine! In theaters now!
+ID_DIALOG_ECM_POOLPARTY_03_04_INTRO_3,Mr. Wilson... I believe you're responsible for the sudden influx of super heroes in this town.
+ID_DIALOG_ECM_POOLPARTY_03_04_INTRO_4,I am! And you sound REALLY excited about it.
+ID_DIALOG_ECM_POOLPARTY_03_04_INTRO_5,"Yes, allow me to share that\njoy with you."
+ID_DIALOG_ECM_POOLPARTY_03_04_START_0,"Willy, I'm sorry! How did I know you had a big criminal operation going on here?!"
+ID_DIALOG_ECM_POOLPARTY_03_04_START_1,I don't. I own the resort you're staying at. And I'm collecting my bill from YOU.
+ID_DIALOG_ECM_POOLPARTY_03_04_END_0,Oof... Okay... I'll pay the tab. How much is it?
+ID_DIALOG_ECM_POOLPARTY_03_04_END_1,"My assistant is e-mailing you a bill. "
+ID_DIALOG_ECM_POOLPARTY_03_04_END_2,Let me just take a big gulp of water while I open this attachment and...
+ID_DIALOG_ECM_POOLPARTY_03_04_END_3,AAAAH! Do you know how unpleasant it is to do a spit take with this mask on?!
+ID_DIALOG_ECM_POOLPARTY_03_04_END_4,"I don't have this kind of money! "
+ID_DIALOG_ECM_POOLPARTY_03_04_END_5,I suggest you find it.
+ID_DIALOG_ECM_POOLPARTY_03_04_END_6,Or what?\nYou'll throw your goons at me?
+ID_DIALOG_ECM_POOLPARTY_03_04_END_7,Worse. My lawyers.
+ID_DIALOG_ECM_POOLPARTY_04_01_INTRO_0,How are we going to pay this bill?!
+ID_DIALOG_ECM_POOLPARTY_04_01_INTRO_1,Sorry... We?
+ID_DIALOG_ECM_POOLPARTY_04_01_INTRO_2,You and me! Didn't you see the ampersand in the title of the movie?
+ID_DIALOG_ECM_POOLPARTY_04_01_INTRO_3,"Musta be getting popcorn when that showed up. Good luck, Wade."
+ID_DIALOG_ECM_POOLPARTY_04_01_INTRO_4,"Lousy Wolverine, can't even bother any of his extremely rich friends..."
+ID_DIALOG_ECM_POOLPARTY_04_01_INTRO_5,"Wait a minute! I know those friends! "
+ID_DIALOG_ECM_POOLPARTY_04_01_START_0,"Sir, this is a members only resort. I'm afraid you're trespassing."
+ID_DIALOG_ECM_POOLPARTY_04_01_START_1,"Oh, it's okay, I'm close personal friends with Mr. Stark! Or whoever's the richest person here."
+ID_DIALOG_ECM_POOLPARTY_04_01_START_2,"Security! Escort this... person? ...off the premises. "
+ID_DIALOG_ECM_POOLPARTY_04_01_END_0,What in the WORLD is all this racket? Some of us are trying to relax while avoiding a tan.
+ID_DIALOG_ECM_POOLPARTY_04_01_END_1,"Emma! You can help me out. I've got a MASSIVE bill to pay! Kingpin's going to take my THUMBS! "
+ID_DIALOG_ECM_POOLPARTY_04_01_END_2,I need those to play the many fine Scopely mobile games!
+ID_DIALOG_ECM_POOLPARTY_04_01_END_3,"Tony! Someone in tactical spandex is asking for money. Be a dear and throw him out, will you?"
+ID_DIALOG_ECM_POOLPARTY_04_02_INTRO_0,"When it comes to saving the world, you know I'll be there. But you wracked up this tab on your own. "
+ID_DIALOG_ECM_POOLPARTY_04_02_INTRO_1,"Not just on my own! She-Hulk needed four private cabana boys! "
+ID_DIALOG_ECM_POOLPARTY_04_02_INTRO_2,"Look, you're not going to miss it! You've got Avengers: Endgame money!"
+ID_DIALOG_ECM_POOLPARTY_04_02_INTRO_3,Is he still here? We need to pay for better security.
+ID_DIALOG_ECM_POOLPARTY_04_02_INTRO_4,"YOU KNOW WHAT, THAT'S IT! This slob's had enough of you snobs!"
+ID_DIALOG_ECM_POOLPARTY_04_02_INTRO_5,I challenge you a battle in the style of our forefathers... SUMMER CAMP GAMES!
+ID_DIALOG_ECM_POOLPARTY_04_02_START_0,"Our resort versus yours! We win, you guys pay our tab! You win, I polish your suit every day for a year. "
+ID_DIALOG_ECM_POOLPARTY_04_02_START_1,"Okay, I do like a good bet. What should we start with?"
+ID_DIALOG_ECM_POOLPARTY_04_02_START_2,How about... TAG!
+ID_DIALOG_ECM_POOLPARTY_04_02_END_0,"Ha! AND NOW YOU'RE OUT! "
+ID_DIALOG_ECM_POOLPARTY_04_02_END_1,"You've got Kitty Pryde on your team! How were we supposed to tag her? "
+ID_DIALOG_ECM_POOLPARTY_04_02_END_2,"SOMEONE should have called ""no powers"". Time for game two!"
+ID_DIALOG_ECM_POOLPARTY_04_02_END_3,EVERYBODY LIMBO!
+ID_DIALOG_ECM_POOLPARTY_04_03_INTRO_0,"I definitely wouldn't have proposed limbo if I knew you guys had Mr. Fantastic on your team. "
+ID_DIALOG_ECM_POOLPARTY_04_03_INTRO_1,"Now who should have called\n""no powers""?"
+ID_DIALOG_ECM_POOLPARTY_04_03_INTRO_2,"It's fine, he made it up to us in\ntug-of-war. "
+ID_DIALOG_ECM_POOLPARTY_04_03_INTRO_3,"He was a GREAT rope, by the way. "
+ID_DIALOG_ECM_POOLPARTY_04_03_INTRO_4,"But I've saved the best game for last. This one is for all the marbles! "
+ID_DIALOG_ECM_POOLPARTY_04_03_INTRO_5,And by marbles I mean money.
+ID_DIALOG_ECM_POOLPARTY_04_03_INTRO_6,CAPTURE THE FLAG!
+ID_DIALOG_ECM_POOLPARTY_04_03_START_0,"So, what's your secret weapon this time, Deadpool? We've got Quicksilver, you can't outrun us. "
+ID_DIALOG_ECM_POOLPARTY_04_03_START_1,"Hey, when flags are involved there's only one person I call. "
+ID_DIALOG_ECM_POOLPARTY_04_03_START_2,"Sorry, Tony. I'm a man of the people. "
+ID_DIALOG_ECM_POOLPARTY_04_03_END_0,Get back here with that flag! It's three days from retirement!
+ID_DIALOG_ECM_POOLPARTY_04_03_END_1,"Not a chance, Wade. Sorry, but once I get this back to our base, it's game over for you and your gang of misfits."
+ID_DIALOG_ECM_POOLPARTY_04_03_END_2,SNIKT!
+ID_DIALOG_ECM_POOLPARTY_04_03_END_3,The flag!
+ID_DIALOG_ECM_POOLPARTY_04_03_END_4,"Sorry, darlin'. Much as I can't stand Wade, I can't stand you snooty jerks getting one over on us more. "
+ID_DIALOG_ECM_POOLPARTY_04_03_END_5,"WOLVIE! I knew you cared! Come here, you big so-and-so. "
+ID_DIALOG_ECM_POOLPARTY_04_03_END_6,"Just pay yer bill, Wade.\nYou owe me one. "
+ID_DIALOG_ECM_POOLPARTY_04_04_INTRO_0,"We ruined a pool, crashed a Helicarrier, beat the rich kids AND got kicked out of a movie theater!"
+ID_DIALOG_ECM_POOLPARTY_04_04_INTRO_1,I sure hope we all stay friends once school starts up again...
+ID_DIALOG_ECM_POOLPARTY_04_04_INTRO_2,What a great weekend!
+ID_DIALOG_ECM_POOLPARTY_04_04_INTRO_3,"Wait a minute... End of the weekend... "
+ID_DIALOG_ECM_POOLPARTY_04_04_INTRO_4,FURY'S GONNA BE BACK AT ANY MOMENT!
+ID_DIALOG_ECM_POOLPARTY_04_04_INTRO_5,I've gotta clean up after this party and get the Helicarrier back before Fury shows up!
+ID_DIALOG_ECM_POOLPARTY_04_04_START_0,"Helicarrier's back in the air, time to get back to Manhattan and no one will be the wiser..."
+ID_DIALOG_ECM_POOLPARTY_04_04_START_1,"COWER, ACAPULCO RESORT MEMBERS! REJECT DOOM'S APPLICATION?"
+ID_DIALOG_ECM_POOLPARTY_04_04_START_2,ALL WHO VACATION HERE SHALL FEEL THE WRATH OF DOOM!
+ID_DIALOG_ECM_POOLPARTY_04_04_START_3,"Okay, I feel like this shouldn't be my problem. "
+ID_DIALOG_ECM_POOLPARTY_04_04_END_0,"Doom out of the way, Helicarrier mostly cleaned up, pool drained. I think we might make it!"
+ID_DIALOG_ECM_POOLPARTY_04_04_END_1,"Deadpool, bad news! Fury's Quinjet just hit the atmosphere. "
+ID_DIALOG_ECM_POOLPARTY_04_04_END_2,GASP! We're out of time!\nHIT THE JETS!
+ID_DIALOG_ECM_POOLPARTY_04_04_END_3,BOOOOOOOM!
+ID_DIALOG_ECM_POOLPARTY_04_04_END_4,"Two damned days and no one wanted to share a single secret. "
+ID_DIALOG_ECM_POOLPARTY_04_04_END_5,"When we assembled a ""Council of Fury's"" we shouldn't have expected a lot of trust..."
+ID_DIALOG_ECM_POOLPARTY_04_04_END_6,"Looks like we didn't miss much, at least. I guess we shouldn't have worried."
+ID_DIALOG_ECM_POOLPARTY_04_04_END_7,...are they gone?
+ID_DIALOG_ECM_POOLPARTY_04_04_END_8,"WE GOT AWAY WITH IT. Great job, everyone!"
+ID_DIALOG_ECM_POOLPARTY_04_04_END_9,Can't wait for NEXT weekend!
+ID_DIALOG_SSE_ARES_01_INTRO_0,NEXUS EARTH.\nARES SURVEYS A BATTLEFIELD...
+ID_DIALOG_SSE_ARES_01_INTRO_1,This? This is where the call of war has brought me?
+ID_DIALOG_SSE_ARES_01_INTRO_2,What is it now? Mortals contending for land? Resources?
+ID_DIALOG_SSE_ARES_01_INTRO_3,"Ah, a test of might."
+ID_DIALOG_SSE_ARES_01_INTRO_4,"Prepare yourselves, Mortals. Ares enters the fray."
+ID_DIALOG_SSE_ARES_01_START_0,You are NOT authorized to be here!
+ID_DIALOG_SSE_ARES_01_END_0,Foolish mortals.
+ID_DIALOG_SSE_ARES_01_END_1,I am the God of War. I am the only one with the right to be here.
+ID_DIALOG_SSE_ARES_01_END_2,That changes today.
+ID_DIALOG_SSE_ARES_01_END_3,Now you look like a worthy opponent.
+ID_DIALOG_SSE_ARES_02_END_0,"As they say, looks are deceiving."
+ID_DIALOG_SSE_ARES_02_END_1,Not you.
+ID_DIALOG_SSE_ARES_02_END_2,"Jane, contact Fury. We need to join with our enemies against Ares."
+ID_DIALOG_SSE_ARES_02_END_3,Fear not. Our story doesn't end here.
+ID_DIALOG_SSE_ARES_02_END_4,End? I will erase your story.
+ID_DIALOG_SSE_ARES_03_END_0,"Disappointing, as usual."
+ID_DIALOG_SSE_ARES_04_INTRO_0,You there! Which side of this war are you on?
+ID_DIALOG_SSE_ARES_04_INTRO_1,"Never mind, it doesn't matter. You will all meet the same fate."
+ID_DIALOG_SSE_ARES_04_INTRO_2,This is the guy we're supposed to be worried about?
+ID_DIALOG_SSE_ARES_04_END_0,"Worried or not, your fates are all sealed."
+ID_DIALOG_SSE_ARES_04_END_1,To label such a weak match-up as 'war' is pitiful.
+ID_DIALOG_SSE_ARES_04_END_2,Is there no one here worthy of facing me in glorious battle?!
+ID_DIALOG_SSE_ARES_05_START_0,"You have a funny way of testing someone's worth, but I'm up for it."
+ID_DIALOG_SSE_ARES_05_START_1,"Tony, no! Fury said to wait for reinforcements."
+ID_DIALOG_SSE_ARES_05_END_0,Tony? Pepper? Where are they?
+ID_DIALOG_SSE_ARES_05_END_1,In the scrap heap.
+ID_DIALOG_SSE_ARES_06_START_0,"Buddy, you picked the wrong ship to board."
+ID_DIALOG_SSE_ARES_07_INTRO_0,"Hela, get those zombies moving!"
+ID_DIALOG_SSE_ARES_07_INTRO_1,"Mind your tongue girl, you speak to a goddess!"
+ID_DIALOG_SSE_ARES_07_INTRO_2,Excellent.
+ID_DIALOG_SSE_ARES_07_INTRO_3,I've long sought a battle with these decaying aberrations.
+ID_DIALOG_SSE_ARES_07_END_0,You have no idea the resources that were sunk into this exercise just for you to ruin it.
+ID_DIALOG_SSE_ARES_07_END_1,An exercise? I haven't broken a sweat yet.
+ID_DIALOG_SSE_ARES_07_END_2,Let's see if my friends can help you with their magic touch in that case.
+ID_DIALOG_SSE_ARES_08_MID_0,"Fury, he's too strong!"
+ID_DIALOG_SSE_ARES_08_END_0,You are the Fury I've been hearing about.
+ID_DIALOG_SSE_ARES_08_END_1,You coordinated a counterattack on me with your enemies.
+ID_DIALOG_SSE_ARES_08_END_2,That I did.\nI assume you're not too happy about that.
+ID_DIALOG_SSE_ARES_08_END_3,It was... entertaining. But to rally your enemies alongside you is a mark of a great leader.
+ID_DIALOG_SSE_ARES_08_END_4,Your soldiers should match your skill.
+ID_DIALOG_SSE_ARES_08_END_5,Hold on. What are you saying here?
+ID_DIALOG_SSE_ARES_08_END_6,"These exercises of yours, I wish to participate in them."
+ID_DIALOG_SSE_ARES_08_END_7,I will whip your soldiers into fighting shape... or destroy them in the process.
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.

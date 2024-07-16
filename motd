@@ -3022,12 +3022,6 @@ ID_MOTD_NA_MACHINESOFWAR_V3_ANNOUNCE,LIVE: Machines of War
 ID_MOTD_DE_MACHINESOFWAR_V3_ANNOUNCE,"Battle in War for Gold, Gear, and Glory"
 ID_MOTD_NA_SINISTERSTRIKE_ANNOUNCE,Web Milestone: Sinister Strike
 ID_MOTD_DE_SINISTERSTRIKE_ANNOUNCE,Battle in Blitz and Incursion Campaign for more rewards on the web!
-ID_MOTD_NA_MYSTICMERCENARY_ANNOUNCE,LIVE: Mystic Mercenary
-ID_MOTD_DE_MYSTICMERCENARY_ANNOUNCE,Unlock Daken and Deathpool!
-ID_MOTD_NA_MYSTICMERCENARY_ENDING,Ending Soon: Mystic Mercenary
-ID_MOTD_DE_MYSTICMERCENARY_ENDING,Don't miss out on Daken and Crimson Mystic Gear!
-ID_MOTD_NA_RUNNINGRAMPANT_ANNOUNCE,Web Milestone: Running Rampant
-ID_MOTD_DE_RUNNINGRAMPANT_ANNOUNCE,Spend Wasteland Road Trip Energy and earn more rewards on the web!
 ID_MOTD_NA_MERCSGOLDRUSH_ANNOUNCE,LIVE: Mercs' Golden Bounty
 ID_MOTD_DE_MERCSGOLDRUSH_ANNOUNCE,Earn Gold and Awakened Ability Materials!
 ID_MOTD_NA_ALPHAFLIGHT_PREVIEW,Coming Soon: X Marks the Spot
@@ -3046,6 +3040,12 @@ ID_MOTD_NA_OLDMANLOGAN_TRIALS_TEASER,Coming Soon: Old Man Logan Trials
 ID_MOTD_DE_OLDMANLOGAN_TRIALS_TEASER,"Prepare now by powering up Out of Time, Cabal, Loki and Emma Frost!"
 ID_MOTD_NA_OLDMANLOGAN_TRIALS_LIVE,LIVE: Old Man Logan Trials
 ID_MOTD_DE_OLDMANLOGAN_TRIALS_LIVE,Reach a high Run Score and unlock the Legendary Old Man Logan!
+ID_MOTD_NA_MYSTICMERCENARY_ANNOUNCE,LIVE: Mystic Mercenary
+ID_MOTD_DE_MYSTICMERCENARY_ANNOUNCE,Unlock Daken and Deathpool!
+ID_MOTD_NA_MYSTICMERCENARY_ENDING,Ending Soon: Mystic Mercenary
+ID_MOTD_DE_MYSTICMERCENARY_ENDING,Don't miss out on Daken and Crimson Mystic Gear!
+ID_MOTD_NA_RUNNINGRAMPANT_ANNOUNCE,Web Milestone: Running Rampant
+ID_MOTD_DE_RUNNINGRAMPANT_ANNOUNCE,Spend Wasteland Road Trip Energy and earn more rewards on the web!
 ID_MOTD_NA_NORTHSTAR_ANNOUNCE,Northstar is here!
 ID_MOTD_DE_NORTHSTAR_ANNOUNCE,Take flight with the True North Speedster!
 ID_MOTD_DE_NORTHSTAR_ANNOUNCE2,Open the Proud Canuck Orb to earn shards for a True North Speedster
@@ -3053,6 +3053,12 @@ ID_MOTD_NA_NORTHSTAR_TEASER,Soon: Northstar
 ID_MOTD_DE_NORTHSTAR_TEASER,Take flight with the True North Speedster!
 ID_MOTD_NA_BATTLEPASS_SEASON22_ANNOUNCE,LIVE: Season 22 of Battle Pass
 ID_MOTD_DE_BATTLEPASS_SEASON22_ANNOUNCE,Complete Objectives to earn Cosmic Ghost Rider shards and more!
+ID_MOTD_NA_ARES_PREVIEW,Coming Soon: All is Fair
+ID_MOTD_DE_ARES_PREVIEW,Battle with Ares and earn rewards!
+ID_MOTD_NA_ARES_LIVE,LIVE: All is Fair
+ID_MOTD_DE_ARES_LIVE,Battle with Ares and earn rewards!
+ID_MOTD_NA_ARES_ENDING,ENDING SOON: All is Fair!
+ID_MOTD_DE_ARES_ENDING,All is Fair event is ending soon!
 ID_MOTD_NA_HOMEWARDBOUND_ANNOUNCE,LIVE: Homeward Bound
 ID_MOTD_DE_HOMEWARDBOUND_ANNOUNCE,Earn fully crafted Gear Tier 18 gear!
 ID_MOTD_NA_HOMEWARDBOUND_ENDING,Ending Soon: Homeward Bound
@@ -3135,10 +3141,12 @@ ID_MOTD_DE_BLACKPANTHERSHURI_TEASER,Take up the mantle with Black Panther (Shuri
 ID_MOTD_NA_BLACKPANTHERSHURI_ANNOUNCE,Black Panther (Shuri) is here!
 ID_MOTD_DE_BLACKPANTHERSHURI_ANNOUNCE,Take up the mantle with Black Panther (Shuri)!
 ID_MOTD_DE_BLACKPANTHERSHURI_ANNOUNCE2,Open the Feline Legacy Orb to earn shards for this Wakandan Queen!
-ID_MOTD_NA_THEGUARDIANOFTHECAMP_ANNOUNCE,LIVE: The Guardian of the Camp
-ID_MOTD_DE_THEGUARDIANOFTHECAMP_ANNOUNCE,Earn Lab Supplies and Map Fragment #3!
-ID_MOTD_NA_THEGUARDIANOFTHECAMP_ENDING,Ending Soon: The Guardian of the Camp
-ID_MOTD_DE_THEGUARDIANOFTHECAMP_ENDING,Earn Lab Supplies and Map Fragment #3!
+ID_MOTD_TD2_PREVIEW_NAME,COMING SOON: Temporal Dimension II
+ID_MOTD_TD2_PREVIEW_DESC,New Pocket Dimension featuring Cabal & Illuminati!
+ID_MOTD_TD2_LIVE_NAME,NOW LIVE: Temporal Dimension II
+ID_MOTD_TD2_LIVE_DESC,New Pocket Dimension featuring Cabal & Illuminati!
+ID_MOTD_TD2_ENDING_NAME,ENDING SOON: Temporal Dimension II
+ID_MOTD_TD2_ENDING_DESC,Temporal Dimension II is ending soon!
 ID_MOTD_NA_CBUNLOCK_ANNOUNCE,LIVE: Her Majesty's Finest
 ID_MOTD_DE_CBUNLOCK_ANNOUNCE,Unlock Captain Britain!
 ID_MOTD_NA_SHURIORB_ANNOUNCE,LIVE: Panther's Legacy
@@ -3151,20 +3159,50 @@ ID_MOTD_NA_INTERNALTENSIONS_ANNOUNCE,Web Milestone: Internal Tensions
 ID_MOTD_DE_INTERNALTENSIONS_ANNOUNCE,Link your account to earn more rewards on web!
 ID_MOTD_NA_COORDINATEDADVENTURE_ANNOUNCE,LIVE: Coordinated Adventure
 ID_MOTD_DE_COORDINATEDADVENTURE_ANNOUNCE,Earn Training Modules and Mission Supplies!
+ID_MOTD_NA_POOLPARTY_PREVIEW,Coming Soon: 'Pool Party!
+ID_MOTD_DE_POOLPARTY_PREVIEW,Beat the heat with Deadpool's 'Pool Party!
+ID_MOTD_NA_POOLPARTY_1_LIVE,LIVE: 'Pool Party! Chapter 1
+ID_MOTD_DE_POOLPARTY_1_LIVE,Beat the heat with Deadpool's 'Pool Party!
+ID_MOTD_NA_POOLPARTY_2_LIVE,LIVE: 'Pool Party! Chapter 2
+ID_MOTD_DE_POOLPARTY_2_LIVE,Beat the heat with Deadpool's 'Pool Party!
+ID_MOTD_NA_POOLPARTY_3_LIVE,LIVE: 'Pool Party! Chapter 3
+ID_MOTD_DE_POOLPARTY_3_LIVE,Beat the heat with Deadpool's 'Pool Party!
+ID_MOTD_NA_POOLPARTY_4_LIVE,LIVE: 'Pool Party! Chapter 4
+ID_MOTD_DE_POOLPARTY_4_LIVE,Beat the heat with Deadpool's 'Pool Party!
+ID_MOTD_NA_POOLPARTY_ENDING,ENDING SOON: 'Pool Party!!
+ID_MOTD_DE_POOLPARTY_ENDING,Jump in the water with Deadpool in his very own 'Pool Party before it's too late!
 ID_MOTD_NA_BATTLEPASS_SEASON25_ANNOUNCE,LIVE: Season 25 of Battle Pass
 ID_MOTD_DE_BATTLEPASS_SEASON25_ANNOUNCE,Complete Objectives to earn Guardian shards and more!
 ID_MOTD_NA_HANKORB_ANNOUNCE,LIVE: Particle Professor
 ID_MOTD_DE_HANKORB_ANNOUNCE,Get additional shards for Hank Pym!
-ID_MOTD_NA_MACHINESFORMONEY_ANNOUNCE,LIVE: Machines for Money
-ID_MOTD_DE_MACHINESFORMONEY_ANNOUNCE,Battle in War for Wilderness Expedition progress!
 ID_MOTD_NA_HANKPYM_TEASER,Soon: Hank Pym
 ID_MOTD_DE_HANKPYM_TEASER,Super size your roster with Hank Pym!
 ID_MOTD_NA_HANKPYM_ANNOUNCE,Hank Pym is here!
 ID_MOTD_DE_HANKPYM_ANNOUNCE,Super size your roster with Hank Pym!
 ID_MOTD_DE_HANKPYM_ANNOUNCE2,Open the Particle Party Orb to earn shards for Doctor Pym!
-ID_MOTD_TD2_PREVIEW_NAME,COMING SOON: Temporal Dimension II
-ID_MOTD_TD2_PREVIEW_DESC,New Pocket Dimension featuring Cabal & Illuminati!
-ID_MOTD_TD2_LIVE_NAME,NOW LIVE: Temporal Dimension II
-ID_MOTD_TD2_LIVE_DESC,New Pocket Dimension featuring Cabal & Illuminati!
-ID_MOTD_TD2_ENDING_NAME,ENDING SOON: Temporal Dimension II
-ID_MOTD_TD2_ENDING_DESC,Temporal Dimension II is ending soon!
+ID_MOTD_NA_MACHINESFORMONEY_ANNOUNCE,LIVE: Machines for Money
+ID_MOTD_DE_MACHINESFORMONEY_ANNOUNCE,Battle in War for Wilderness Expedition progress!
+ID_MOTD_NA_ARESREDSTAR_TEASER,Coming Soon: Drums of War
+ID_MOTD_DE_ARESREDSTAR_TEASER,Gain the favor of the Gods
+ID_MOTD_NA_ARESREDSTAR_LIVE,LIVE: Drums of War
+ID_MOTD_DE_ARESREDSTAR_LIVE,Recruit the God of War
+ID_MOTD_NA_SUMMERNIGHTS_ANNOUNCE,LIVE: Summer Nights
+ID_MOTD_DE_SUMMERNIGHTS_ANNOUNCE,Earn marvelous rewards!
+ID_MOTD_NA_SUMMERNIGHTS_ENDING,Ending Soon: Summer Nights
+ID_MOTD_DE_SUMMERNIGHTS_ENDING,Earn Teal Gear before the event ends!
+ID_MOTD_NA_ADAMANTIUMISFOREVER_ANNOUNCE,LIVE: Adamantium Is Forever
+ID_MOTD_DE_ADAMANTIUMISFOREVER_ANNOUNCE,Earn Disco Balls and a chance at Wolverine Diamonds!
+ID_MOTD_NA_ADAMANTIUMISFOREVER_ENDING,Ending Soon: Adamantium Is Forever
+ID_MOTD_DE_ADAMANTIUMISFOREVER_ENDING,Don't miss out on Disco Balls and a chance at a Wolverine Diamonds!
+ID_MOTD_NA_DIAMONDDAZZLE_ANNOUNCE,Web Milestone: Diamond Dazzle
+ID_MOTD_DE_DIAMONDDAZZLE_ANNOUNCE,Earn Alliance Credits for more rewards on the web!
+ID_MOTD_NA_TWILIGHTEXPEDITIONS_ANNOUNCE,LIVE: Twilight Expeditions
+ID_MOTD_DE_TWILIGHTEXPEDITIONS_ANNOUNCE,Earn Armory 18 Orbs and a chance at Crimson Gear!
+ID_MOTD_NA_POOLPARTY_REACTIVATION_PUSH1,Don't Miss the Party!
+ID_MOTD_DE_POOLPARTY_REACTIVATION_PUSH1,Tap now for your POOL Party rewards and dive into today's events!
+ID_MOTD_NA_POOLPARTY_REACTIVATION_PUSH2,"Jump In, Your Rewards Are Waiting!"
+ID_MOTD_DE_POOLPARTY_REACTIVATION_PUSH2,Log in now to claim your next POOL Party rewards!
+ID_MOTD_NA_POOLPARTY_REACTIVATION_PUSH3,Go Swimming in Rewards!
+ID_MOTD_DE_POOLPARTY_REACTIVATION_PUSH3,Tap now for today's red hot POOL Party rewards and events!
+ID_MOTD_NA_POOLPARTY_REACTIVATION_PUSH4,Soak Up Your Rewards
+ID_MOTD_DE_POOLPARTY_REACTIVATION_PUSH4,Tap now for today's POOL Party Calendar rewards and events!

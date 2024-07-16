@@ -4605,7 +4605,7 @@ ID_QU_LD_ONGUARDFORTHEE,"On Guard For Thee Milestone\nGain progress in this 7-da
 ID_QU_S1_ONGUARDFORTHEE,Battle in Cosmic Crucible
 ID_QU_S2_ONGUARDFORTHEE,Earn Am-Can Orb Fragments
 ID_QU_NA_GLORIOUSANDFREE,Glorious And Free
-ID_QU_SD_GLORIOUSANDFREE,Spend X Marks The Spot Event Energy
+ID_QU_SD_GLORIOUSANDFREE,Spend X Marks The Spot Event Energy and Incursion Energy
 ID_QU_LD_GLORIOUSANDFREE,Spend X Marks The Spot Event Energy and be rewarded with Am-Can Orb Fragments for progress in the On Guard For Thee Milestone.
 ID_QU_S1_GLORIOUSANDFREE,Spend 1 X Marks The Spot Event Energy
 ID_QU_S2_GLORIOUSANDFREE,Spend 1 Incursion Energy
@@ -4617,9 +4617,6 @@ ID_QU_S1_TAKEFLIGHTSASQUATCH,Earn Milestone Points from Sasquatch Offers
 ID_QU_NA_FROMFARANDWIDE,From Far and Wide
 ID_QU_SD_FROMFARANDWIDE,"Battle in Raids, Collect Event Orbs"
 ID_QU_LD_FROMFARANDWIDE,"To earn points, Battle in Raids, collect Milestone Points on Spotlight Raids nodes and collect Allied Supply V Orbs from Free Claims. \nEarn Armory 18 Orbs, T2 Level 5 Ions, Crimson Gear Catalysts, and Homeward Bound progress!\n\nLeaderboard\nCompete on the Leaderboard for Sasquatch Diamond Promotions, Mega Gold Orbs and Armory 19 Orbs!"
-ID_QU_S1_FROMFARANDWIDE,Earn Allied Supply V Orb Fragments from Free Claims and special Offers
-ID_QU_S2_FROMFARANDWIDE,Battle in Raids
-ID_QU_S3_FROMFARANDWIDE,Earn Milestone Points from Spotlight Raids nodes and special Offers
 ID_QU_NA_WILDERNESSEXPEDITION,Wilderness Expedition
 ID_QU_SD_WILDERNESSEXPEDITION,Participate in July Events
 ID_QU_LM_WILDERNESSEXPEDITION,Participate in various events throughout the month of July to earn milestone progress.
@@ -4629,7 +4626,7 @@ ID_QU_S3_WILDERNESSEXPEDITION,Collect 1 Map Fragment #2
 ID_QU_S4_WILDERNESSEXPEDITION,Collect 1 Map Fragment #3
 ID_QU_NA_MAPPINGTHEWILDERNESS,Mapping the Wilderness
 ID_QU_SD_MAPPINGTHEWILDERNESS,Earn Wilderness Orbs
-ID_QU_LD_MAPPINGTHEWILDERNESS,"Mapping the Wilderness Milestone\nGain progress in this 7-day event by earning Wilderness Orb fragments from S.W.O.R.D. Satellite Rewards, battling through Raids with Sasquatch, Guardian, or Northstar at 5+ yellow star, completing the Scientific Breakthrough Web Milestone, 4th of July Calendar, and daily web Free Claims. Earn fantastic rewards including  Dark Promotion Credits, Elite 7 Credits, and Mystic gear. You'll also earn points towards the month-long Wilderness Expedition milestone by collecting Lab Supplies and the valuable Map Fragment #1.\n\nWilderness Orb\nEarned from S.W.O.R.D. Satellite Milestones  4th of July Calendar, and daily web Free Claims, and select offers.\n\nMapping the Wilderness Leaderboard\nCompete on the Leaderboards for Crimson Gear and Diamond Promotions for Super Skrull!\n\nScientific Breakthrough Web Milestone\nSpend Incursion Energy, or battle in Raids to earn Wilderness Orb Fragments and Points for Mapping the Wilderness Milestone progress! Keep an eye out for Free Claims containing milestone points every day!\n\n"
+ID_QU_LD_MAPPINGTHEWILDERNESS,"Mapping the Wilderness Milestone\nGain progress in this 7-day event by earning Wilderness Orb fragments from S.W.O.R.D. Satellite Rewards, battling through Raids with Sasquatch, Guardian, or Northstar at 5+ yellow star, completing the Scientific Breakthrough Web Milestone, 4th of July Calendar, and daily web Free Claims. Earn fantastic rewards including  Dark Promotion Credits, Elite 7 Credits, and Mystic gear. You'll also earn points towards the month-long Wilderness Expedition milestone by collecting Lab Supplies and the valuable Map Fragment #1.\n\nWilderness Orb\nEarned from S.W.O.R.D. Satellite Milestones  4th of July Calendar, and daily web Free Claims, and select offers.\n\nScientific Breakthrough Web Milestone\nSpend Incursion Energy, or battle in Raids to earn Wilderness Orb Fragments and Points for Mapping the Wilderness Milestone progress! Keep an eye out for Free Claims containing milestone points every day!"
 ID_QU_S1_MAPPINGTHEWILDERNESS,Earn 1 Wilderness Orb Fragment
 ID_QU_S2_MAPPINGTHEWILDERNESS,Play 1 Raid Battle with Alpha Flight Team
 ID_QU_S3_MAPPINGTHEWILDERNESS,Play 1 Raid Battle with Sasquatch at 5 Yellow Star
@@ -4715,3 +4712,36 @@ ID_QU_SD_MACHINESFORMONEY,Battle in War for Wilderness Expedition progress!
 ID_QU_LD_MACHINESFORMONEY,Collaborate with your alliance to battle through War and earn Allied Supply V Orb Fragments. Allied Supply V Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
 ID_QU_S1_MACHINESFORMONEY,Play 1 War Battle
 ID_QU_S2_MACHINESFORMONEY,Earn 1 Allied Supply V Orb Fragment
+ID_QU_NA_ARESREDSTAR,Drums of War
+ID_QU_SD_ARESREDSTAR,Recruit the God of War
+ID_QU_SC_ARESREDSTAR,Earn Helm of Ares tokens from the Ares Battle Pass and limited time offers
+ID_QU_LD_ARESREDSTAR,The Ares Battle Pass and limited time offers contain Helm of Ares tokens needed to unlock Ares's Red Stars!
+ID_QU_S1_ARESREDSTAR,Earn 1 Helm of Ares
+ID_QU_NA_SUMMERNIGHTS,Summer Nights
+ID_QU_SD_SUMMERNIGHTS,Participate in July and August Events
+ID_QU_LM_SUMMERNIGHTS,Participate in various events throughout July and August to earn milestone progress.
+ID_QU_S1_SUMMERNIGHTS,Collect Disco Balls
+ID_QU_S2_SUMMERNIGHTS,Collect 1 Party Mask
+ID_QU_S3_SUMMERNIGHTS,Collect 1 Iso-8 Soda
+ID_QU_S4_SUMMERNIGHTS,Collect 1 Photon Projector
+ID_QU_S5_SUMMERNIGHTS,Collect 1 DJ Deadpool Mixtape
+ID_QU_NA_ADAMANTIUMISFOREVER,Adamantium Is Forever
+ID_QU_SD_ADAMANTIUMISFOREVER,"Spend Energy and Power Cores, Battle in Crucible"
+ID_QU_LD_ADAMANTIUMISFOREVER,"Adamantium Is Forever Milestone\nGain progress in this 7-day event by spending Campaign Energy, battling in Cosmic Crucible with Illuminati characters, spending Power Cores and completing the Diamond Dazzle Web Milestone and daily web Free Claims. Earn fantastic rewards including the Wolverine (Uncanny) Costume, 1 Diamond for Deadpool and 3 Diamonds for Wolverine. You'll also earn points towards the month-long Summer Nights milestone by collecting Disco Balls and the Party Mask.\n\nDiamond Dazzle Web Milestone\nEarn Alliance Credits for Augmented Gear and Adamantium Is Forever Milestone progress!"
+ID_QU_S1_ADAMANTIUMISFOREVER,Spend 1 Campaign Energy
+ID_QU_S2_ADAMANTIUMISFOREVER,Spend 1 Power Core
+ID_QU_S3_ADAMANTIUMISFOREVER,Battle in Cosmic Crucible with Illuminati characters
+ID_QU_S4_ADAMANTIUMISFOREVER,Battle in Cosmic Crucible with Illuminati @ Gear Tier 16
+ID_QU_S5_ADAMANTIUMISFOREVER,Battle in Cosmic Crucible with Illuminati @ Gear Tier 17
+ID_QU_S6_ADAMANTIUMISFOREVER,Battle in Cosmic Crucible with Illuminati @ Gear Tier 18
+ID_QU_S7_ADAMANTIUMISFOREVER,Battle in Cosmic Crucible with Illuminati @ Gear Tier 19
+ID_QU_NA_DIAMONDDAZZLE,Diamond Dazzle
+ID_QU_SD_DIAMONDDAZZLE,Earn Alliance Credits
+ID_QU_LD_DIAMONDDAZZLE,Earn Alliance Credits to complete this 7-day milestone that rewards Augmented Catalyst Parts and Adamantium Is Forever progress!
+ID_QU_S1_DIAMONDDAZZLE,Earn 1 Alliance Credit
+ID_QU_NA_TWILIGHTEXPEDITIONS,Twilight Expeditions
+ID_QU_SD_TWILIGHTEXPEDITIONS,Earn Disco Balls and a chance at Diamond Orbs!
+ID_QU_LD_TWILIGHTEXPEDITIONS,"Twilight Expeditions\nTo progress in this milestone, battle in Raids, collect Milestone Points on Spotlight Raids nodes and collect Allied Supply VI Orbs from Free Claims. \nEarn Armory 18 Orbs, T2 Level 5 Ions, Crimson Gear Catalysts, and Summer Nights progress!"
+ID_QU_S1_TWILIGHTEXPEDITIONS,Earn Allied Supply VI Orb Fragments from Free Claims and special Offers
+ID_QU_S2_TWILIGHTEXPEDITIONS,Battle in Raids
+ID_QU_S3_TWILIGHTEXPEDITIONS,Earn Milestone Points from Spotlight Raids nodes and special Offers

@@ -9,6 +9,12 @@ ID_ISO8-TIER-1-B-CURRENCY_NAME,T2 Level 4 Ions
 ID_ISO8-TIER-1-B-CURRENCY_DESCRIPTION,Use T2 Level 4 Ions to fuse T2 Iso-8 Crystals from Level 3 to Level 4 or to upgrade Classes from Level 3 to Level 4.
 ID_ISO8-TIER-1-C-CURRENCY_NAME,T2 Level 5 Ions
 ID_ISO8-TIER-1-C-CURRENCY_DESCRIPTION,Use T2 Level 5 Ions to fuse T2 Iso-8 Crystals from Level 4 to Level 5 or to upgrade Classes from Level 4 to Level 5.
+ID_ISO8-TIER-2-A-CURRENCY_NAME,T3 Level 1 Ions
+ID_ISO8-TIER-2-A-CURRENCY_DESCRIPTION,Use T3 Level 1 Ions to fuse T3 Iso-8 Crystals up to Level 3 or to upgrade Classes up to Level 3.
+ID_ISO8-TIER-2-B-CURRENCY_NAME,T3 Level 4 Ions
+ID_ISO8-TIER-2-B-CURRENCY_DESCRIPTION,Use T3 Level 4 Ions to fuse T3 Iso-8 Crystals from Level 3 to Level 4 or to upgrade Classes from Level 3 to Level 4.
+ID_ISO8-TIER-2-C-CURRENCY_NAME,T3 Level 5 Ions
+ID_ISO8-TIER-2-C-CURRENCY_DESCRIPTION,Use T3 Level 5 Ions to fuse T3 Iso-8 Crystals from Level 4 to Level 5 or to upgrade Classes from Level 4 to Level 5.
 ID_RES_AVA_ATTACK_ENERGY,War Energy
 ID_RES_AVE_ATTACK_ENERGY,Green Raid Energy
 ID_RES_AVE_ATTACK_ENERGY_EVENT01,Alpha Raid Energy
@@ -49,12 +55,12 @@ ID_AVE_KEY_EVENT04_DESC,Collect keys to launch raids and earn ability materials.
 ID_AVE_KEY_PURPLE_NAME,Purple Raid Key
 ID_AVE_KEY_PURPLE_DESC,Collect keys to launch raids and earn Ability Materials and Character Shards. Your alliance will earn raid keys each day.
 ID_RES_CAMPAIGN_ENERGY_EVENT01,Experimental Energy
-ID_RES_CAMPAIGN_ENERGY_EVENT02,Wasteland Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT02,Warrior Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT03,Illuminating Energy
 ID_CAMPAIGN_ENERGY_EVENT01_NAME,Experimental Energy
 ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch X Marks the Spot missions.
-ID_CAMPAIGN_ENERGY_EVENT02_NAME,Wasteland Energy
-ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch Wasteland Road Trip! missions.
+ID_CAMPAIGN_ENERGY_EVENT02_NAME,Warrior Energy
+ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch All is Fair missions.
 ID_CAMPAIGN_ENERGY_EVENT03_NAME,Illuminating Energy
 ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Illuminating Assault missions.
 ID_HC_NAME,Power Cores
@@ -140,6 +146,14 @@ ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARCHANGEL_PASSIVE_NAME,Archangel's Passiv
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARCHANGEL_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARCHANGEL_ULTIMATE_NAME,Archangel's Ultimate Awakened Ability Material
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARCHANGEL_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_BASIC_NAME,Ares' Basic Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_BASIC_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_SPECIAL_NAME,Ares' Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_ULTIMATE_NAME,Ares' Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_PASSIVE_NAME,Ares' Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_BASIC_NAME,Apocalypse's Basic Awakened Ability Material
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_BASIC_DESCRIPTION,Used to further upgrade character abilities.
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_SPECIAL_NAME,Apocalypse's Special Awakened Ability Material
@@ -372,8 +386,6 @@ ID_RES_NA_WEREINTHISTOGETHER,We're In This Together Premium Milestone
 ID_RES_DE_WEREINTHISTOGETHER,"Unlock the We're In This Together Premium Milestone from this purchase. Donate to your Alliance and/or Spend Campaign Energy to earn rewards like: 6 Red Star Nico Minoru, Elite 4 & 5 Credits, Proud Character Shards, and 1 Million Gold!"
 ID_RES_NA_HITTHELIGHTS,Hit The Lights Milestone Point
 ID_RES_DE_HITTHELIGHTS,These points earn you additional progress in the Hit The Lights Milestone. Earn them in Daily Free Claims on our website and/or limited offers!
-ID_EVTA_META_AUG_A_NAME,TemPad
-ID_EVTA_META_AUG_A_DESCRIPTION,Collect TemPads for points in the TVA Agent Event. Earn them in various events throughout the month of August
 ID_RES_NA_RESETCHARGE,Reset Charge
 ID_RES_DE_RESETCHARGE,Collect Reset Charges for points in the TVA Agent Event. Earn them in various events throughout the month of August. Take Reset Charges to the TVA Gift Shop to obtain TVA Gift Cards
 ID_RES_NA_TVAGIFTSHOP,TVA Gift Shop
@@ -520,6 +532,8 @@ ID_EVTA_META_JUN_S_NAME,On Guard For Thee Milestone Points
 ID_EVTA_META_JUN_S_DESCRIPTION,These points earn you additional progress in the On Guard For Thee Milestone. Earn them in the Glorious And Free Web Milestone and special Offers!
 ID_EVENT_CUR18_NAME,Am-Can Orb Fragment
 ID_EVENT_CUR18_DESCRIPTION,"Collect to progress in the On Guard For Thee milestone, and open Am-Can Orbs to earn Guardian shards!"
+ID_BFYB-CUR_NAME,Strike Points
+ID_BFYB-CUR_DESCRIPTION,Strike Points can be used to make purchases in the Strike Store section of the Store
 ID_EVTA_META_JUN_Y_NAME,Take Flight: Sasquatch Milestone Point
 ID_EVTA_META_JUN_Y_DESCRIPTION,Gain additional progress in the Take Flight: Sasquatch Milestone. Earn them in limited time Sasquatch offers!
 ID_EVTA_META_JUN_T_NAME,From Far and Wide Milestone Point
@@ -542,3 +556,13 @@ ID_EVTA_META_JUL_G_NAME,The Guardian of the Camp Milestone Points
 ID_EVTA_META_JUL_G_DESCRIPTION,These points earn you additional progress in the The Guardian of the Camp Milestone. Earn them in the The Beast Within Web Milestone and Special Offers!
 ID_EVTA_META_JUL_I_NAME,Machines for Money Milestone Points
 ID_EVTA_META_JUL_I_DESCRIPTION,These points earn you additional progress in the Machines for Money Milestone. Earn them in Special Offers!
+ID_EVTA_META_AUG_A_NAME,Disco Ball
+ID_EVTA_META_AUG_A_DESCRIPTION,Collect Disco Ball for points in the Summer Nights Event. Earn them in various events throughout the months of July & August
+ID_EVTA_META_AUG_B_NAME,Party Mask
+ID_EVTA_META_AUG_B_DESCRIPTION,Collect the Party Mask for points in the Summer Nights Event. Earn it in the Adamantium Is Forever Event!
+ID_EVTA_META_AUG_C_NAME,Iso-8 Soda
+ID_EVTA_META_AUG_C_DESCRIPTION,Collect the Iso-8 Soda for points in the Summer Nights Event. Earn it in the Radioactive Prep Event!
+ID_EVTA_META_AUG_D_NAME,Photon Projector
+ID_EVTA_META_AUG_D_DESCRIPTION,Collect the Photon Projector for points in the Summer Nights Event. Earn it in the Quantum Disco Event!
+ID_EVTA_META_AUG_E_NAME,DJ Deadpool Mixtape
+ID_EVTA_META_AUG_E_DESCRIPTION,Collect the DJ Deadpool Mixtape for points in the Summer Nights Event. Earn it in the Diamond Claws Event!

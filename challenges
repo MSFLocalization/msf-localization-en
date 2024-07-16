@@ -2351,7 +2351,7 @@ ID_SSE_MERCSFORMONEY_NAME,Wasteland Road Trip!
 ID_SSE_MERCSFORMONEY_DESC,"The Spider Society is trapped in the Wasteland, join the Mercs for Money to guide and travel the Sinister Wasteland looking for a way back home!"
 ID_SSE_CHANCE_MERCSFORMONEY,Mercs for Money Showcase
 ID_EVENT_MERCSFORMONEY_TD_FLAVOR,Try the Mercs for Money
-ID_EVENT_MERCSFORMONEY_TD_DESC,Play with a team of Spider-Verse characters in sample battles from War.
+ID_EVENT_MERCSFORMONEY_TD_DESC,Play with a team of Mercs for Money characters in sample battles from Alliance War.
 ID_EVENT_MERCSFORMONEY_STORY_FLAVOR,Travel the Wasteland!
 ID_EVENT_MERCSFORMONEY_STORY_DESC,Requirements:\n- Mercs for Money or Spider-Verse characters
 ID_EVENT_MERCSFORMONEY_CH_FLAVOR,Challenge Your Skills!
@@ -2475,10 +2475,10 @@ ID_INFO_DE_TAKEFLIGHT,Earn Alpha Flight Shards
 ID_INFO_BO_TAKEFLIGHT,"Gain progress in this special event by collecting Take Flight: Guardian Milestone Points found in special Guardian offers.\n\nRewards include Northstar and Guardian shards, Crimson Gear, and Diamond upgrades for Sunfire."
 ID_INFO_NA_ONGUARDFORTHEE,On Guard for Thee
 ID_INFO_DE_ONGUARDFORTHEE,Unlock Guardian and earn Crimson Tech Gear!
+ID_INFO_BO_ONGUARDFORTHEE,"<color=#fff568>On Guard For Thee Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by battling in Cosmic Crucible, collecting Am-Can Orb Fragments from Arena Battles, Free Claims and special Offers, and completing the Glorious And Free Web Milestone. \n\nEarn glorious rewards including <color=#fff568>Guardian shards, Crimson Tech Gear, and Diamond Orb Fragments</color>. You'll also earn points towards the month-long Homeward Bound milestone by collecting Dog Tags and the Pickup Truck Keys.\n\n<color=#fff568>Glorious And Free Web Milestone</color>\nSpend X Marks The Spot Event Energy and be rewarded with even more Am-Can Orbs for additional progress in the On Guard For Thee Milestone. Keep an eye out for Free Claims containing Am-Can Orb Fragments every day!"
 ID_INFO_NA_TAKEFLIGHTSASQUATCH,Take Flight: Sasquatch
 ID_INFO_DE_TAKEFLIGHTSASQUATCH,Earn Alpha Flight Shards
 ID_INFO_BO_TAKEFLIGHTSASQUATCH,"Gain progress in this special event by collecting Take Flight: Sasquatch Milestone Points found in special Sasquatch offers.\n\nRewards include Northstar and Sasquatch shards, Crimson Gear, and Diamond upgrades for Wolverine."
-ID_INFO_BO_ONGUARDFORTHEE,"<color=#fff568>On Guard For Thee Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by battling in Cosmic Crucible, collecting Am-Can Orb Fragments from Arena Battles, Free Claims and special Offers, and completing the Glorious And Free Web Milestone. \n\nEarn glorious rewards including <color=#fff568>Guardian shards, Crimson Tech Gear, and Diamond Orb Fragments</color>. You'll also earn points towards the month-long Homeward Bound milestone by collecting Dog Tags and the Pickup Truck Keys.\n\n<color=#fff568>Glorious And Free Web Milestone</color>\nSpend X Marks The Spot Event Energy, and be rewarded with even more Am-Can Orbs for additional progress in the On Guard For Thee Milestone. Keep an eye out for Free Claims containing Am-Can Orb Fragments every day!"
 ID_INFO_NA_FROMFARANDWIDE,From Far and Wide
 ID_INFO_DE_FROMFARANDWIDE,Earn Dog Tags and Sasquatch Diamonds!
 ID_INFO_BO_FROMFARANDWIDE,"<color=#fff568>From Far and Wide Milestone</color>\nTo progress in this milestone, battle in Raids, collect Milestone Points on Spotlight Raids nodes and collect Allied Supply V Orbs from Free Claims. \nEarn Armory 18 Orbs, T2 Level 5 Ions, Crimson Gear Catalysts, and Homeward Bound progress!\n\n<color=#fff568>Leaderboard</color>\nCompete on the Leaderboard for Sasquatch Diamond Promotions, Mega Gold Orbs and Armory 19 Orbs!"
@@ -2487,25 +2487,57 @@ ID_INFO_DE_WILDERNESSEXPEDITION,Earn marvelous rewards throughout July!
 ID_INFO_BO_WILDERNESSEXPEDITION,"Earn points toward this month-long milestone by collecting Lab Supplies and Map Fragments from July events and Daily Free Claims.\n\nThere will be several Milestone Events that provide progress towards the <color=#fff568>Wilderness Expedition Milestone</color>. As you progress, earn valuable rewards to improve your roster!\n\nCompete on the Leaderboard for exclusive rewards. Players reaching the top 1% rank will earn <color=#fff568>Crimson Gear Raid Orbs</color>, <color=#fff568>Diamond Orbs</color>, and T2 Level 5 Ions!"
 ID_INFO_NA_MAPPINGTHEWILDERNESS,Mapping the Wilderness
 ID_INFO_DE_MAPPINGTHEWILDERNESS,Earn Lab Supplies and a chance at Crimson Mystic Gear
-ID_INFO_BO_MAPPINGTHEWILDERNESS,"<color=#fff568>Mapping the Wilderness Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by earning Wilderness Orb fragments from S.W.O.R.D. Satellite Rewards, battling through Raids with Sasquatch, Guardian, or Northstar at 5+ yellow star, completing the Scientific Breakthrough Web Milestone, 4th of July Calendar, and daily web Free Claims. Earn fantastic rewards including <color=#fff568> Dark Promotion Credits, Elite 7 Credits, and Mystic gear</color>. You'll also earn points towards the month-long Wilderness Expedition milestone by collecting Lab Supplies and the valuable Map Fragment #1.\n\n<color=#fff568>Wilderness Orb</color>\nEarned from S.W.O.R.D. Satellite Milestones  4th of July Calendar, and daily web Free Claims, and select offers.\n\nMapping the Wilderness Leaderboard\nCompete on the Leaderboards for Crimson Gear and Diamond Promotions for Super Skrull!\n\n<color=#fff568>Scientific Breakthrough Web Milestone</color>\nSpend Incursion Energy, or battle in Raids to earn Wilderness Orb Fragments and Points for Mapping the Wilderness Milestone progress! Keep an eye out for Free Claims containing milestone points every day!\n\n"
+ID_INFO_BO_MAPPINGTHEWILDERNESS,"<color=#fff568>Mapping the Wilderness Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by earning Wilderness Orb fragments from S.W.O.R.D. Satellite Rewards, battling through Raids with Sasquatch, Guardian, or Northstar at 5+ yellow star, completing the Scientific Breakthrough Web Milestone, 4th of July Calendar, and daily web Free Claims. Earn fantastic rewards including <color=#fff568>Dark Promotion Credits, Elite 7 Credits, and Mystic gear</color>. You'll also earn points towards the month-long Wilderness Expedition milestone by collecting Lab Supplies and the valuable Map Fragment #1.\n\n<color=#fff568>Wilderness Orb</color>\nEarned from S.W.O.R.D. Satellite Milestones  4th of July Calendar, and daily web Free Claims, and select offers.\n\n<color=#fff568>Scientific Breakthrough Web Milestone</color>\nSpend Incursion Energy, or battle in Raids to earn Wilderness Orb Fragments and Points for Mapping the Wilderness Milestone progress! Keep an eye out for Free Claims containing milestone points every day!"
 ID_INFO_NA_CBUNLOCK,Her Majesty's Finest
 ID_INFO_DE_CBUNLOCK,Unlock Captain Britain!
 ID_INFO_BO_CBUNLOCK,<color=#fff568>Her Majesty's Finest Milestone</color>\nEarn the 3 shields of Captain Britain to unlock this intrepid and indispensable member of the Illuminati.\n\nBuild up your Illuminati team and advance in the various Illuminati showcases to collect all the shields.
 ID_INFO_NA_SHURIORB,Panther's Legacy
 ID_INFO_DE_SHURIORB,Get additional shards for Black Panther (Shuri)!
 ID_INFO_BO_SHURIORB,<color=#fff568>Panther's Legacy Milestone</color>\nOpen Queen's Entourage Orbs and receive guaranteed additional shards for this fierce and brilliant inheritor of the Black Panther mantle!
-ID_INFO_NA_SUMMERCAMPDISCOVERY,Summer Camp Discovery
-ID_INFO_DE_SUMMERCAMPDISCOVERY,Earn Sasquatch shards and a chance at Crimson Bio Gear
 ID_INFO_BO_SUMMERCAMPDISCOVERY,"<color=#fff568>Summer Camp Discovery</color>\nDon't miss out on Double XP on campaign nodes and gain progress in this <color=#fff568>7-day</color> event by collecting Summer Camp tickets from Campaign nodes, Free Claims, and special Offers, and completing the Internal Tensions web milestone. Spend your Summer Camp Tickets on any Summer Camp Treat Orbs that contain amazing rewards! \n\nEarn incredible rewards including <color=#fff568>Gold, Crimson Bio Gear, L4 Training Modules, and Diamond Orbs</color>. You'll also earn points towards the Wilderness Expedition milestone by collecting Lab Supplies and a Map Fragment #2.\n\n<color=#fff568>Internal Tensions Milestone</color>\nSpend Summer Camp tickets to be rewarded with extra Summer Camp Tickets and bonus progress in the Summer Camp Discovery and Wilderness Expedition."
 ID_INFO_NA_COORDINATEDADVENTURE,Coordinated Adventure
 ID_INFO_DE_COORDINATEDADVENTURE,Spend Iso-8 Campaign Energy for glorious rewards!
 ID_INFO_BO_COORDINATEDADVENTURE,<color=#fff568>Coordinated Adventure Milestone</color>\nGain progress in this <color=#fff568>6-day</color> event by battling in Iso Campaign and earning Allied Supply V Orb fragments from daily Free Claims and special offers. Earn rewards including <color=#fff568>L4 Training Modules and T2 Level 5 Ions</color>. You'll also earn points towards the month-long Wilderness Expedition milestone by collecting Lab Supplies.
+ID_SSE_ARES_NAME,All is Fair
+ID_SSE_ARES_DESC,The God of War arrives on Nexus Earth and interrupts a war in progress to flaunt his power.
+ID_SSE_CHANCE_ARES,Ares Showcase
+ID_EVENT_ARES_TD_FLAVOR,Try Ares!
+ID_EVENT_ARES_TD_DESC,Play with Ares in sample battles from War.\n\nWar-specific bonuses and effects are enabled in these missions.
+ID_EVENT_ARES_STORY_FLAVOR,Earn amazing rewards!
+ID_EVENT_ARES_CH_FLAVOR,Challenge Your Skills!
+ID_EVENT_ARES_CH_DESC,Requirements: \n- Gear Tier 10\n- Requires Ares to complete all missions
+ID_ECM_NAME_ARES,God of War
+ID_EVENT_ARES_THM_FLAVOR,Use Ares!
+ID_EVENT_ARES_THM_DESC,Requirements: \n- Ares\n- Gear Tier 14\n- 4 Yellow Stars
+ID_EVENT_ARES_BONUS_FLAVOR,Get Awesome Rewards!
+ID_EVENT_ARES_BONUS_DESC,Requirements:\n- Ares\n- Gear Tier 16\n- 6 Yellow Stars
+ID_ECM_POOLPARTY_NAME,'Pool Party!
+ID_ECM_POOLPARTY_DESC,"It's summer time, and Deadpool is throwing a party! Did he ask Fury if he could turn the Hellicarrier into a giant floating infinity pool? Play the game and find out! (No, he didn't.)"
+ID_ECM_CHANCE_POOLPARTY,Party Down and Earn Amazing Rewards!
+ID_EVENT_POOLPARTY_STORY_DESC,"Requirements: \n- None\n Recommended: \n- Gear Tier 6+, Level 30+"
+ID_EVENT_POOLPARTY_STORY_FLAVOR,Earn Amazing Rewards!
+ID_EVENT_POOLPARTY_HARD_DESC,"Requirements: \n- Hero, City, Global, and Cosmic Characters\n- Recommended: Gear Tier 15+, Level 65+, Green ISO-8 Level 4"
+ID_EVENT_POOLPARTY_HARD_FLAVOR,Earn Amazing Rewards!
+ID_EVENT_POOLPARTY_BONUS_DESC,"Requirements: \n- Hero, City, Global, and Cosmic Characters\n Recommended: \n- Gear Tier 17+, Level 90+, Blue ISO-8 Level 3"
+ID_EVENT_POOLPARTY_BONUS_FLAVOR,Earn Amazing Rewards!
 ID_INFO_NA_THEGUARDIANOFTHECAMP,The Guardian of the Camp
 ID_INFO_DE_THEGUARDIANOFTHECAMP,Earn Lab Supplies and Map Fragment #3!
 ID_INFO_BO_THEGUARDIANOFTHECAMP,"<color=#fff568>The Guardian of the Camp Milestone</color>\nGain progress in this event by collecting Panther Orb Fragments from Iso-8 Campaigns and battling in Cosmic Crucible with Black Panther (Shuri) or Hank Pym. Earn rewards including <color=#fff568>Black Panther (Shuri) shards and a chance at Crimson gear</color>. You'll also earn points towards the month-long Wilderness Expedition milestone by collecting Lab Supplies and the final Map Fragment #3.\n\n<color=#fff568>Leaderboard</color>\nCompete on the Leaderboard for <color=#fff568>Black Panther (Shuri) Diamonds</color>, Crimson Mutant Mini-Uniques, and Crimson Gear Raid Orbs!\n\n<color=#fff568>The Beast Within Web Milestone</color>\nParticipate in War in the Machines for Money event to get Milestone Points for additional progress in the The Guardian of the Camp and Wilderness Expedition Milestone. Keep an eye out for Free Claims containing The Guardian of the Camp Milestone Points every day!"
 ID_INFO_NA_HANKORB,Particle Professor
 ID_INFO_DE_HANKORB,Get additional shards for Hank Pym!
 ID_INFO_BO_HANKORB,<color=#fff568>Particle Professor Milestone</color>\nOpen Pym's Pals Orbs and receive guaranteed additional shards for this groundbreaking original Ant-Man!
+ID_INFO_NA_ARESREDSTAR,Drums of War
+ID_INFO_DE_ARESREDSTAR,Recruit the God of War
+ID_INFO_BO_ARESREDSTAR,"Recruit Ares, the God of War, to your roster and power him up along the way with this new premium milestone.\n\n<color=#fff568>Drums of War Milestone</color>\nEarn progress toward this premium Milestone by obtaining Helm of Ares tokens.\n\nYou will need to complete every tier of the Ares Battle Pass to obtain enough tokens to reach Milestone 6.\n\nThere will be additional tokens in the Premium Plus offer as well as additional limited time offers needed to reach Milestone 7."
 ID_INFO_NA_MACHINESFORMONEY,Machines for Money
 ID_INFO_DE_MACHINESFORMONEY,Battle in War for Wilderness Expedition progress!
 ID_INFO_BO_MACHINESFORMONEY,Collaborate with your alliance to battle through War and earn Allied Supply V Orb Fragments. Allied Supply V Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
+ID_INFO_NA_SUMMERNIGHTS,Summer Nights
+ID_INFO_DE_SUMMERNIGHTS,Earn marvelous rewards throughout August!
+ID_INFO_BO_SUMMERNIGHTS,"Earn points toward this month-long milestone by collecting the following items from events and Daily Free Claims: Disco Balls, Party Mask, Iso-8 Soda, Photon Projector and DJ Deadpool Mixtape.\n\nThere will be several Milestone Events that provide progress towards the <color=#fff568>Summer Nights</color> event. As you progress, earn Alpha Merc Orbs, the Deadpool (X-Force) costume, <color=#fff568>fully crafted Gear Tier 17 gear</color> and more!\n\nCompete on the Leaderboard for exclusive rewards. Players reaching the top 1% rank will earn exclusive <color=#fff568>Diamond Champions III Orbs</color>, <color=#fff568>Diamond Orbs</color>, T2 Level 5 Ions and Armory 18 Orbs!"
+ID_INFO_NA_ADAMANTIUMISFOREVER,Adamantium Is Forever
+ID_INFO_DE_ADAMANTIUMISFOREVER,Earn Disco Balls and a chance at Wolverine Diamonds!
+ID_INFO_BO_ADAMANTIUMISFOREVER,"<color=#fff568>Adamantium Is Forever Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by spending Campaign Energy, battling in Cosmic Crucible with Illuminati characters, spending Power Cores and completing the Diamond Dazzle Web Milestone and daily web Free Claims. Earn fantastic rewards including <color=#fff568>the Wolverine (Uncanny) Costume, 1 Diamond for Deadpool and 3 Diamonds for Wolverine</color>. You'll also earn points towards the month-long Summer Nights milestone by collecting Disco Balls and the Party Mask.\n\n<color=#fff568>Diamond Dazzle Web Milestone</color>\nEarn Alliance Credits for Augmented Gear and Adamantium Is Forever Milestone progress!"
+ID_INFO_NA_TWILIGHTEXPEDITIONS,Twilight Expeditions
+ID_INFO_DE_TWILIGHTEXPEDITIONS,Earn Disco Balls and a chance at Diamond Orbs!
+ID_INFO_BO_TWILIGHTEXPEDITIONS,"<color=#fff568>Twilight Expeditions</color>\nTo progress in this milestone, battle in Raids, collect Milestone Points on Spotlight Raids nodes and collect Allied Supply VI Orbs from Free Claims. \nEarn Armory 18 Orbs, T2 Level 5 Ions, Crimson Gear Catalysts, and Summer Nights progress!"

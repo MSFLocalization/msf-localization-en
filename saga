@@ -10,31 +10,31 @@ ID_INSANITY_TITLE,DARK DIMENSION
 ID_INSANITY_DESC,Live In Darkness
 ID_LEGENDARY_EVENTS_ENTER,Enter
 ID_ECM_PESTILENCE_NAME,PESTILENCE
-ID_ECM_PESTILENCE_DESC,"Use Darkhold characters to power up Morgan Le Fay! Earn her new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
+ID_ECM_PESTILENCE_DESC,"Use Mystic characters to power up Morgan Le Fay! Earn her new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
 ID_ECM_PESTILENCE_FLAVOR,Enhance Morgan Le Fay
 ID_ECM_PESTILENCE_REWARD_I,Not used - do not localize
 ID_ECM_PESTILENCE_REWARD_II,Earn Morgan's New Awakened Ability Materials!
 ID_ECM_PESTILENCE_REWARD_III,Earn Morgan's Costume + T2 L5 Iso-8 + Ions!
 ID_ECM_FAMINE_NAME,FAMINE
-ID_ECM_FAMINE_DESC,"Use Unlimited X-Men characters to power up Rogue! Earn her new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
+ID_ECM_FAMINE_DESC,"Use Mutant characters to power up Rogue! Earn her new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
 ID_ECM_FAMINE_FLAVOR,Enhance Rogue
 ID_ECM_FAMINE_REWARD_I,Not used - do not localize
 ID_ECM_FAMINE_REWARD_II,Earn Rogue's New Awakened Ability Materials!
 ID_ECM_FAMINE_REWARD_III,Earn Rogue's Costume + T2 L5 Iso-8 + Ions!
 ID_ECM_WAR_NAME,WAR
-ID_ECM_WAR_DESC,"Use Gamma characters to power up Red Hulk! Earn his new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
+ID_ECM_WAR_DESC,"Use Bio characters to power up Red Hulk! Earn his new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
 ID_ECM_WAR_FLAVOR,Enhance Red Hulk
 ID_ECM_WAR_REWARD_I,Not used - do not localize
 ID_ECM_WAR_REWARD_II,Earn Red Hulk's New Awakened Ability Materials!
 ID_ECM_WAR_REWARD_III,Earn Red Hulk's Costume + T2 L5 Iso-8 + Ions!
 ID_ECM_DEATH_NAME,DEATH
-ID_ECM_DEATH_DESC,"Use Death Seed characters to power up Archangel! Earn his new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
+ID_ECM_DEATH_DESC,"Use Mutant characters to power up Archangel! Earn his new Awakened Ability Materials, new costume, and T2 L5 Iso-8 and Ions!"
 ID_ECM_DEATH_FLAVOR,Enhance Archangel
 ID_ECM_DEATH_REWARD_I,Not used - do not localize
 ID_ECM_DEATH_REWARD_II,Earn Archangel's New Awakened Ability Materials!
 ID_ECM_DEATH_REWARD_III,Earn Archangel's Costume + T2 L5 Iso-8 + Ions!
 ID_ECM_APOCALYPSE_NAME,APOCALYPSE
-ID_ECM_APOCALYPSE_DESC,"Use Darkhold, Unlimited X-Men, Gamma, and Death Seed Teams, along with Kestrel, Deathpool, and Spider-Weaver to earn Orange and Teal Gear, T2 Ions, and unlock Apocalypse!"
+ID_ECM_APOCALYPSE_DESC,"Use Horsemen, Mystic, Mutant, Bio, and MSF Original characters to earn Orange and Teal Gear, T2 Ions, and unlock Apocalypse!"
 ID_ECM_APOCALYPSE_FLAVOR,Unlock Apocalypse
 ID_ECM_APOCALYPSE_REWARD_I,Not used - do not localize
 ID_ECM_APOCALYPSE_REWARD_II,Earn shards to Unlock Apocalypse!
@@ -42,7 +42,7 @@ ID_ECM_APOCALYPSE_REWARD_III,"Unlock 7-Star, 4-Red Star Apocalypse!"
 ID_ECM_SAGA_DIFFICULTY_I,HARD
 ID_ECM_SAGA_DIFFICULTY_II,HEROIC
 ID_ECM_SAGA_DIFFICULTY_III,APOCALYPTIC
-ID_ECM_SAGA_UNLOCK_DIFFICULTY_I,3-Star Other Chapters on HARD
+ID_ECM_SAGA_UNLOCK_DIFFICULTY_I,Not used - do not localize
 ID_ECM_SAGA_UNLOCK_DIFFICULTY_II,Clear all missions with 3 stars on HARD to Unlock
 ID_ECM_SAGA_UNLOCK_DIFFICULTY_III,Clear all missions with 3 stars on HEROIC to Unlock
 ID_ECM_SAGA_COMING_SOON,COMING SOON...
@@ -67,33 +67,45 @@ ID_ECM_CHANCE_APOCALYPSE_III,Enhance Apocalypse's power
 ID_REQUIRES_EC_DARKHOLD_5_GT13,5 <color=#fff568>DARKHOLD</color> Characters at GEAR 13 REQUIRED
 ID_REQUIRES_EC_DARKHOLD_5_GT15,5 <color=#fff568>DARKHOLD</color> Characters at GEAR 15 REQUIRED
 ID_REQUIRES_EC_DARKHOLD_5_GT17,5 <color=#fff568>DARKHOLD</color> Characters at GEAR 17 REQUIRED
+ID_REQUIRES_EC_MORGAN_GT13,<color=#fff568>MORGAN LE FAY</color> at GEAR TIER 13 REQUIRED
+ID_REQUIRES_EC_MORGAN_GT15,<color=#fff568>MORGAN LE FAY</color> at GEAR TIER 15 REQUIRED
+ID_REQUIRES_EC_MORGAN_GT17,<color=#fff568>MORGAN LE FAY</color> at GEAR TIER 17 REQUIRED
 ID_REQUIRES_EC_UNLIMITEDXMEN_5_GT13,5 <color=#fff568>UNLIMITED X-MEN</color> Characters at GEAR 13 REQUIRED
 ID_REQUIRES_EC_UNLIMITEDXMEN_5_GT15,5 <color=#fff568>UNLIMITED X-MEN</color> Characters at GEAR 15 REQUIRED
 ID_REQUIRES_EC_UNLIMITEDXMEN_5_GT17,5 <color=#fff568>UNLIMITED X-MEN</color> Characters at GEAR 17 REQUIRED
+ID_REQUIRES_EC_ROGUE_GT13,<color=#fff568>ROGUE</color> at GEAR TIER 13 REQUIRED
+ID_REQUIRES_EC_ROGUE_GT15,<color=#fff568>ROGUE</color> at GEAR TIER 15 REQUIRED
+ID_REQUIRES_EC_ROGUE_GT17,<color=#fff568>ROGUE</color> at GEAR TIER 17 REQUIRED
 ID_REQUIRES_EC_GAMMA_5_GT13,5 <color=#fff568>GAMMA</color> Characters at GEAR 13 REQUIRED
 ID_REQUIRES_EC_GAMMA_5_GT15,5 <color=#fff568>GAMMA</color> Characters at GEAR 15 REQUIRED
 ID_REQUIRES_EC_GAMMA_5_GT17,5 <color=#fff568>GAMMA</color> Characters at GEAR 17 REQUIRED
+ID_REQUIRES_EC_REDHULK_GT13,<color=#fff568>RED HULK</color> at GEAR TIER 13 REQUIRED
+ID_REQUIRES_EC_REDHULK_GT15,<color=#fff568>RED HULK</color> at GEAR TIER 15 REQUIRED
+ID_REQUIRES_EC_REDHULK_GT17,<color=#fff568>RED HULK</color> at GEAR TIER 17 REQUIRED
 ID_REQUIRES_EC_DEATHSEED_5_GT13,5 <color=#fff568>DEATH SEED</color> Characters at GEAR 13 REQUIRED
 ID_REQUIRES_EC_DEATHSEED_5_GT15,5 <color=#fff568>DEATH SEED</color> Characters at GEAR 15 REQUIRED
 ID_REQUIRES_EC_DEATHSEED_5_GT17,5 <color=#fff568>DEATH SEED</color> Characters at GEAR 17 REQUIRED
+ID_REQUIRES_EC_DEATH_GT13,<color=#fff568>ARCHANGEL</color> at GEAR TIER 13 REQUIRED
+ID_REQUIRES_EC_DEATH_GT15,<color=#fff568>ARCHANGEL</color> at GEAR TIER 15 REQUIRED
+ID_REQUIRES_EC_DEATH_GT17,<color=#fff568>ARCHANGEL</color> at GEAR TIER 17 REQUIRED
 ID_REQUIRES_EC_APOCREQ_GT15,"All <color=#fff568>HORSEMAN</color> Teams, <color=#fff568>KESTREL, DEATHPOOL, and SPIDER-WEAVER</color> at GEAR 15 REQUIRED"
 ID_REQUIRES_EC_APOCREQ_GT16,"All <color=#fff568>HORSEMAN</color> Teams, <color=#fff568>KESTREL, DEATHPOOL, and SPIDER-WEAVER</color> at GEAR 16 REQUIRED"
 ID_REQUIRES_EC_APOCREQ_5_GT17,"All <color=#fff568>HORSEMAN</color> Teams, <color=#fff568>KESTREL, DEATHPOOL, and SPIDER-WEAVER</color> at GEAR 17 REQUIRED"
-ID_ECM_MORGAN_DESC_C,Use Darkhold characters at Gear Tier 13+ to earn gear to power up Morgan Le Fay and her team!
-ID_ECM_MORGAN_DESC_B,Use Darkhold characters at Gear Tier 15+ to earn Morgan Le Fay's new Awakened Ability Materials to unlock her true power!
-ID_ECM_MORGAN_DESC_A,Use Darkhold characters at Gear Tier 17+ to earn Morgan Le Fay's Horseman costume and T2 L5 Iso-8 and Ions!
-ID_ECM_ROGUE_DESC_C,Use Unlimited X-Men characters at Gear Tier 13+ to earn gear to power up Rogue and her team!
-ID_ECM_ROGUE_DESC_B,Use Unlimited X-Men characters at Gear Tier 15+ to earn Rogue's new Awakened Ability Materials to unlock her true power!
-ID_ECM_ROGUE_DESC_A,Use Unlimited X-Men characters at Gear Tier 17+ to earn Rogue's Horseman costume and T2 L5 Iso-8 and Ions!
-ID_ECM_REDHULK_DESC_C,Use Gamma characters at Gear Tier 13+ to earn gear to power up Red Hulk and his team!
-ID_ECM_REDHULK_DESC_B,Use Gamma characters at Gear Tier 15+ to earn Red Hulk's new Awakened Ability Materials to unlock his true power!
-ID_ECM_REDHULK_DESC_A,Use Gamma characters at Gear Tier 17+ to earn Red Hulk's Horseman costume and T2 L5 Iso-8 and Ions!
-ID_ECM_DEATH_DESC_C,Use Death Seed characters at Gear Tier 13+ to earn gear to power up Archangel and his team!
-ID_ECM_DEATH_DESC_B,Use Death Seed characters at Gear Tier 15+ to earn Archangel's new Awakened Ability Materials to unlock his true power!
-ID_ECM_DEATH_DESC_A,Use Death Seed characters at Gear Tier 17+ to earn Archangel's Horseman costume and T2 L5 Iso-8 and Ions!
-ID_ECM_APOCALYPSE_DESC_C,"Use Darkhold, Unlimited X-Men, Gamma, and Death Seed Teams, along with Kestrel, Deathpool, and Spider-Weaver at Gear Tier 15+ to earn Orange and Teal Gear as well as T2 Level 1 and 4 Ions!"
-ID_ECM_APOCALYPSE_DESC_B,"Use Darkhold, Unlimited X-Men, Gamma, and Death Seed Teams, along with Kestrel, Deathpool, and Spider-Weaver at Gear Tier 16+ and T2 Iso Level 4 to earn Armory 16 and 17 Orbs, T2 Level 4 and 5 Ions, and unlock Apocalypse!"
-ID_ECM_APOCALYPSE_DESC_A,"Use Darkhold, Unlimited X-Men, Gamma, and Death Seed Teams, along with Kestrel, Deathpool, and Spider-Weaver at Gear Tier 17+ and T2 Iso Level 5 to earn Armory 17 Orbs, T2 Level 1, 4, and 5 Ions, Apocalypse Red Stars, and get Apocalypse to 7-Stars!"
+ID_ECM_MORGAN_DESC_C,Use Mystic characters at Gear Tier 13+ to earn gear to power up Morgan Le Fay and her team!
+ID_ECM_MORGAN_DESC_B,Use Mystic characters at Gear Tier 15+ to earn Morgan Le Fay's new Awakened Ability Materials to unlock her true power!
+ID_ECM_MORGAN_DESC_A,Use Mystic characters at Gear Tier 17+ to earn Morgan Le Fay's Horseman costume and T2 L5 Iso-8 and Ions!
+ID_ECM_ROGUE_DESC_C,Use Mutant characters at Gear Tier 13+ to earn gear to power up Rogue and her team!
+ID_ECM_ROGUE_DESC_B,Use Mutant characters at Gear Tier 15+ to earn Rogue's new Awakened Ability Materials to unlock her true power!
+ID_ECM_ROGUE_DESC_A,Use Mutant characters at Gear Tier 17+ to earn Rogue's Horseman costume and T2 L5 Iso-8 and Ions!
+ID_ECM_REDHULK_DESC_C,Use Bio characters at Gear Tier 13+ to earn gear to power up Red Hulk and his team!
+ID_ECM_REDHULK_DESC_B,Use Bio characters at Gear Tier 15+ to earn Red Hulk's new Awakened Ability Materials to unlock his true power!
+ID_ECM_REDHULK_DESC_A,Use Bio characters at Gear Tier 17+ to earn Red Hulk's Horseman costume and T2 L5 Iso-8 and Ions!
+ID_ECM_DEATH_DESC_C,Use Mutant characters at Gear Tier 13+ to earn gear to power up Archangel and his team!
+ID_ECM_DEATH_DESC_B,Use Mutant characters at Gear Tier 15+ to earn Archangel's new Awakened Ability Materials to unlock his true power!
+ID_ECM_DEATH_DESC_A,Use Mutant characters at Gear Tier 17+ to earn Archangel's Horseman costume and T2 L5 Iso-8 and Ions!
+ID_ECM_APOCALYPSE_DESC_C,"Use Horsemen, Mystic, Mutant, Bio, and MSF Original characters at Gear Tier 15+ to earn Orange and Teal Gear as well as T2 Level 1 and 4 Ions!"
+ID_ECM_APOCALYPSE_DESC_B,"Use Horsemen, Mystic, Mutant, Bio, and MSF Original characters at Gear Tier 16+ and T2 Iso Level 4 to earn Armory 16 and 17 Orbs, T2 Level 4 and 5 Ions, and unlock Apocalypse!"
+ID_ECM_APOCALYPSE_DESC_A,"Use Horsemen, Mystic, Mutant, Bio, and MSF Original characters at Gear Tier 17+ and T2 Iso Level 5 to earn Armory 17 Orbs, T2 Level 1, 4, and 5 Ions, Apocalypse Red Stars, and get Apocalypse to 7-Stars!"
 ID_SAGAS_OTHER_CHAPTERS_REQUIRED,3-Star Other Chapters on {difficulty}
 ID_SAGAS_CHAPTERS_REQUIRED,3-Star Chapters on {difficulty}
 ID_SAGAS_DIFFICULTY_UNLOCKED,{difficulty} Mode Unlocked!
