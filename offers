@@ -9432,3 +9432,100 @@ ID_OF_DE_TWILIGHTEXPEDITIONS_ALPHA,Power up your Alpha Flight characters and par
 ID_OF_DE_TWILIGHTEXPEDITIONS_FREECLAIM,Come back daily for more <color=#fff568>Twilight Expeditions</color> progress!
 ID_OF_DE_TWILIGHTEXPEDITIONS_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Twilight Expeditions</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_TWILIGHTEXPEDITIONS_GENERIC,Get ahead in the <color=#fff568>Twilight Expeditions</color> Milestone and propel your Alliance to <color=#fff568>Crimson Gear Catalysts</color> and <color=#fff568>T2 Level 5 Ions</color>!
+ID_OF_NA_CAPTAINBRITAIN_FCO_OFFER,Great Britain's Champion
+ID_OF_DE_CAPTAINBRITAIN_FCO_OFFER,"Each <color=#fff568></color> contains <color=#fff568>up to 180 Captain Britain</color> shards. <color=#fff568>Captain Britain</color> is here to protect your Illuminati with multiple stuns, immunity flips, and team buffs while preventing Speed Bar manipulation in Cosmic Crucible!"
+ID_OF_DE_CAPTAINBRITAIN_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Captain Britain</color> and unlock one-time only release offers on your next visit! <color=#fff568>Captain Britain</color> is here to protect your Illuminati with multiple stuns, immunity flips, and team buffs while preventing Speed Bar manipulation in Cosmic Crucible!"
+ID_OF_DE_CAPTAINBRITAIN_OFFER_SHARD,"Power up <color=#fff568>Captain Britain</color> with this shard offer! <color=#fff568>Captain Britain</color> is here to protect your Illuminati with multiple stuns, immunity flips, and team buffs while preventing Speed Bar manipulation in Cosmic Crucible!"
+ID_OF_DE_CAPTAINBRITAIN_UNLOCK_OFFER,"Unlock <color=#fff568>Captain Britain</color> now! <color=#fff568>Captain Britain</color> is here to protect your Illuminati with multiple stuns, immunity flips, and team buffs while preventing Speed Bar manipulation in Cosmic Crucible!"
+ID_OF_STOREBAR_CAPTAINBRITAIN,Dual Offer: Captain Britain
+ID_OF_NA_DUAL_CAPTAINBRITAIN,Dual Offer: Captain Britain
+ID_OF_DE_DUAL_CAPTAINBRITAIN,Choose your path to power up this <color=#fff568>Illuminati</color> member!
+ID_OF_DE_DUAL_UNLOCK_CAPTAINBRITAIN,Unlock this <color=#fff568>Illuminati</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_CAPTAINBRITAIN_FCO_OFFER_BASIC,Captain Britain Release Offer
+ID_OF_NA_CAPTAINBRITAIN_WEB_EXTRA_FCO_OFFER,Captain Britain Unlock Offer
+ID_OF_DE_CAPTAINBRITAIN_WEB_EXTRA_FCO_OFFER,"The Great Britain's Champion, <color=#fff568>Captain Britain</color>, has arrived!"
+ID_OF_NA_CAPTAINBRITAIN_WEB_SPECIAL_OFFER,Great Britain's Champion Special
+ID_OF_DE_CAPTAINBRITAIN_WEB_SPECIAL_OFFER,"<color=#fff568>Web Special!</color><color=#fff568>Captain Britain</color> is here to protect your Illuminati with multiple stuns, immunity flips, and team buffs while preventing Speed Bar manipulation in Cosmic Crucible!"
+ID_OF_NA_CAPTAINBRITAIN_AA_PASSIVE_STEP1,Awakened Champion Special (1/4)
+ID_OF_NA_CAPTAINBRITAIN_AA_PASSIVE_STEP2,Awakened Champion Special (2/4)
+ID_OF_NA_CAPTAINBRITAIN_AA_PASSIVE_STEP3,Awakened Champion Special (3/4)
+ID_OF_NA_CAPTAINBRITAIN_AA_PASSIVE_STEP4,Awakened Champion Special (4/4)
+ID_OF_DE_CAPTAINBRITAIN_AA_PASSIVE_STEP1,<color=#fff568>Web Special!</color>Get <color=#fff568>Captain Britain's</color> Passive Awakened Ability Material along with tons of shards with this special offer! Follow up offer unlocked includes Captain Britain's 3-Red Star Promotion!
+ID_OF_DE_CAPTAINBRITAIN_AA_PASSIVE_STEP2,<color=#fff568>Web Special!</color>Get <color=#fff568>Captain Britain's</color> 3-Red Star Promotion along with tons of shards with this special offer! Follow up offer unlocked includes Captain Britain's 4-Red Star Promotion!
+ID_OF_DE_CAPTAINBRITAIN_AA_PASSIVE_STEP3,<color=#fff568>Web Special!</color>Get <color=#fff568>Captain Britain's</color> 4-Red Star Promotion along with tons of shards with this special offer! Follow up offer unlocked holds Captain Britain's shards at the BEST VALUE!
+ID_OF_DE_CAPTAINBRITAIN_AA_PASSIVE_STEP4,<color=#fff568>Web Special!</color>BEST VALUE UNLOCKED! Get tons of <color=#fff568>Captain Britain's</color> shards with this top value offer!
+ID_OF_NA_POOLPARTY24_DORB_A19_MEGAGORB_HOLIDAY_SV50+TY,Pool Party Thank You Splash!
+ID_OF_NA_POOLPARTY24_ABM_MORB_GOLD_STEP3,Best Bubs Special (3/3)
+ID_OF_NA_POOLPARTY24_ABM_MORB_GOLD_STEP2,Best Bubs Special (2/3)
+ID_OF_NA_POOLPARTY24_ABM_MORB_GOLD_STEP1,Best Bubs Special (1/3)
+ID_OF_NA_POOLPARTY24_T2ISO_T2L5_DORB_STEP3,Splash of Friendship Special (3/3)
+ID_OF_NA_POOLPARTY24_T2ISO_T2L5_DORB_STEP2,Splash of Friendship Special (2/3)
+ID_OF_NA_POOLPARTY24_T2ISO_T2L5_DORB_STEP1,Splash of Friendship Special (1/3)
+ID_OF_NA_POOLPARTY24_GUARDIAN_T2ISO_GOLD_TRAIN_STEP5,Unicorn of a Deal (5/5)
+ID_OF_NA_POOLPARTY24_GUARDIAN_STEP4,Unicorn of a Deal (4/5)
+ID_OF_NA_POOLPARTY24_GOLD_T2ISO_STEP3,Unicorn of a Deal (3/5)
+ID_OF_NA_POOLPARTY24_GUARDIAN_T1ISO_STEP2,Unicorn of a Deal (2/5)
+ID_OF_NA_POOLPARTY24_T1ISO_GOLD_STEP1,Unicorn of a Deal (1/5)
+ID_OF_NA_POOLPARTY24_DPC_TRAIN_GOLD_PANDAPOOL_DAKEN_ABM,Pool Party: Fun in the Sun
+ID_OF_NA_POOLPARTY24_DPC_DORB_STEP3,Claws & Chill Special (3/3)
+ID_OF_NA_POOLPARTY24_DPC_DORB_STEP2,Claws & Chill Special (2/3)
+ID_OF_NA_POOLPARTY24_DPC_DORB_STEP1,Claws & Chill Special (1/3)
+ID_OF_NA_POOLPARTY24_GOLD_T1T2_ISO_ORIGIN_ORBS_STEP3,Inseparable Fun Special (3/3)
+ID_OF_NA_POOLPARTY24_GOLD_T1T2_ISO_ORIGIN_ORBS_STEP2,Inseparable Fun Special (2/3)
+ID_OF_NA_POOLPARTY24_GOLD_T1T2_ISO_ORIGIN_ORBS_STEP1,Inseparable Fun Special (1/3)
+ID_OF_NA_POOLPARTY24_GOLD_TRAIN_E7,Pool Party: Self Improvement
+ID_OF_NA_POOLPARTY24_SPIDERSOCIETY_TEAM,Pool Party: Swimming Spiders
+ID_OF_NA_POOLPARTY24_TEAL_CATCHUP,Pool Party: Teal Tsunami
+ID_OF_NA_POOLPARTY24_PANDAPOOL_ISO,Pool Party: Sunbathing Panda
+ID_OF_NA_POOLPARTY24_NORTHSTAR_TRAIN_GOLD,Pool Party: Northstar's Rest
+ID_OF_NA_POOLPARTY24_DD7_CITY_REDUNIQUES,Pool Party: City Crimson Uniques
+ID_OF_NA_POOLPARTY24_GOLD_TRAIN,Pool Party: Summer Training
+ID_OF_NA_POOLPARTY24_DD7_GLOBAL_XTXMEN,Pool Party: Global Extremes
+ID_OF_NA_POOLPARTY24_XXXX_PREMORBS_MORB,Pool Party: Orb Buffet
+ID_OF_NA_POOLPARTY24_BLUE_ISO_7D_CALENDAR,Pool Party: ISO-8 Calendar
+ID_OF_NA_POOLPARTY24_DD7_GLOBAL_REDUNIQUES,Pool Party: Global Crimson Uniques
+ID_OF_NA_POOLPARTY24_DPC_DDC,Pool Party: Credit Collection
+ID_OF_NA_POOLPARTY24_PANDPOOL_UNIQUE_GOLD,Pool Party: Treasure Hunt
+ID_OF_NA_POOLPARTY24_CRIMSON_CAT_14D_CALENDAR,Pool Party: Crimson Gear Calendar
+ID_OF_NA_POOLPARTY24_DD7_COSMIC_KANGVAHLVK,Pool Party: Cosmic Breakthrough
+ID_OF_NA_POOLPARTY24_E7_GOLD,Pool Party: Elite Accommodations
+ID_OF_NA_POOLPARTY24_SASQUATCH_T2ISOPROTECTORORB,Pool Party: Optimized Rest
+ID_OF_NA_POOLPARTY24_ABM_GOLD,Pool Party: Golden Sunshine
+ID_OF_NA_POOLPARTY24_GOLD_TRAIN2,Pool Party: Training Tips
+ID_OF_NA_POOLPARTY24_DPC_TRAIN_GOLD_BK_VK_ABM_TY,Pool Party: Mega Sale Thank You!
+ID_OF_NA_POOLPARTY24_DPC_TRAIN_GOLD_BK_VK_ABM,Pool Party: Mega Sale
+ID_OF_NA_POOLPARTY24_DD7_COSMIC_REDUNIQUES,Pool Party: Cosmic Crimson Uniques
+ID_OF_NA_POOLPARTY24_NORTHSTAR_T2ISOCONTROLLERORB,Pool Party: Northstar Improvement
+ID_OF_NA_POOLPARTY24_DORB_GOLD_TEALCATPACK_A18,Pool Party: Diamond Reflection
+ID_OF_NA_POOLPARTY24_DD7_LEGENDARY_REDUNIQUES,Pool Party: Legendary Crimson Uniques
+ID_OF_NA_POOLPARTY24_GOLD_TRAIN_DPC,Pool Party: Rest & Relaxation
+ID_OF_NA_POOLPARTY24_T2_ISO8_ALL_CLASS_TY_ORBS,Pool Party: Blue Waves Thank You
+ID_OF_NA_POOLPARTY24_T2_ISO8_ALL_CLASS_ORBS,Pool Party: Blue Waves
+ID_OF_NA_POOLPARTY24_TRAIN_GOLD,Pool Party: Outside Gym
+ID_OF_NA_POOLPARTY24_DD7_MYTHIC_REDUNIQUES,Pool Party: Mythic Crimson Uniques
+ID_OF_NA_POOLPARTY24_BLUE_ISO_BLOWOUT,Pool Party: ISO Insanity
+ID_OF_NA_POOLPARTY24_MORB_PORB,Pool Party: Mega Opportunity
+ID_OF_NA_POOLPARTY24_GOLD_ILLUMINATI_TEAMORBS,Pool Party: Illuminati Vacation
+ID_OF_DE_POOLPARTY24_DORB_A19_MEGAGORB_HOLIDAY_SV50TY,Thank you for your support! We've surfed up a limited time high value offer as a show of our appreciation for your continued support.<color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_ABM_MORB_GOLD_STEP3,Thank you for your support! Here's the final step offer. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_ABM_MORB_GOLD_STEP2,"Fourth wall or not, friends forever. Purchase to unlock one more high value offer! <color=#ffda21>Greater than a {var1}x value</color>!"
+ID_OF_DE_POOLPARTY24_ABM_MORB_GOLD_STEP1,Some friendships persist through all barriers. Purchase to unlock the next high value offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_T2ISO_T2L5_DORB_STEP3,Thank you for your support! Here's the final step offer. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_T2ISO_T2L5_DORB_STEP2,Let your worries wash away and enjoy summer's embrace. Purchase to unlock the next high value offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_T2ISO_T2L5_DORB_STEP1,Cool refreshing splash of friendship eases all burdens. Purchase to unlock the next high value offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_GUARDIAN_T2ISO_GOLD_TRAIN_STEP5,Thank you for your support! Here's the final step offer. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_GUARDIAN_STEP4,You've unlocked Step 4! Purchase to unlock a <color=#ffda21>3x value Guardian</color> offer next!<color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_GOLD_T2ISO_STEP3,Your purchase has unlocked this FREE Step 3 offer! Purchase to continue the chain and unlock a <color=#ffda21>Guardian</color> shard offer next!
+ID_OF_DE_POOLPARTY24_GUARDIAN_T1ISO_STEP2,You've unlocked Step 2! Purchase to unlock a FREE offer of <color=#ffda21>500k Gold and 5 T2 Iso-8 Ion Orbs</color> next!
+ID_OF_DE_POOLPARTY24_T1ISO_GOLD_STEP1,Claim this free offer as our thanks for your continued support! Check the store daily for more unlock offers during Pool Party!
+ID_OF_DE_POOLPARTY24_DPC_TRAIN_GOLD_PANDAPOOL_DAKEN_ABM,Enjoy the best season in the best way! With a huge savings offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_DPC_DORB_STEP3,Thank you for your support! Here's the final step offer. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_DPC_DORB_STEP2,Chill with the claws out with this amazing offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_DPC_DORB_STEP1,Chill with the claws out with this amazing offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_GOLD_T1T2_ISO_ORIGIN_ORBS_STEP3,Thank you for your support! Here's the final step offer. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_GOLD_T1T2_ISO_ORIGIN_ORBS_STEP2,Nothing beats summer fun with more than one! Purchase this limited time offer and unlock more to come! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_GOLD_T1T2_ISO_ORIGIN_ORBS_STEP1,Nothing beats summer fun with more than one! Purchase this limited time offer and unlock more to come! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_GOLD_TRAIN_E7,Enjoy this huge gold and training offer to improve yourself today! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_SPIDERSOCIETY_TEAM,Power up a great team for Dark Dimensions City Nodes with this rare offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_TEAL_CATCHUP,Let the teal gear wash over you and get your roster caught up with this amazing offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_PANDAPOOL_ISO,Pandapool loves the sun along with this limited time offer! <color=#ffda21>Greater than a {var1}x value</color>!

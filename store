@@ -9163,3 +9163,7 @@ ID_GACHA_CRATE_ALPHAMERCS_NAME,Alpha Mercs Orb
 ID_GACHA_CRATE_ALPHAMERCS_DESCRIPTION,"Contains shards for Mercs for Money characters, Alpha Flight Characters and more!"
 ID_GACHA_CRATE_ALPHAMERCS_TOKEN_NAME,Alpha Mercs Orb Fragment
 ID_GACHA_CRATE_ALPHAMERCS_TOKEN_DESCRIPTION,"Collect fragments for orbs containing shards for Mercs for Money characters, Alpha Flight Characters and more!"
+ID_GACHA_CRATE_DIAMONDCHAMPIONS3_NAME,Diamond Champions III Orb
+ID_GACHA_CRATE_DIAMONDCHAMPIONS3_DESCRIPTION,Contains 3-Diamond Promotion for one of 12 select characters
+ID_GACHA_CRATE_DIAMONDCHAMPIONS3_TOKEN_NAME,Diamond Champions III Orb Fragment
+ID_GACHA_CRATE_DIAMONDCHAMPIONS3_TOKEN_DESCRIPTION,"Collect fragments for orbs containing 3-Diamond Promotions of 12 select characters, from The Leader to Red Goblin!"
