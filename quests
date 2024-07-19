@@ -3771,9 +3771,9 @@ ID_QU_NA_SPLASH_MUTANTMARVELS,Mutant Marvels
 ID_QU_SD_SPLASH_MUTANTMARVELS,Use Uncanny X-Men in Blitz
 ID_QU_LM_SPLASH_MUTANTMARVELS,Earn points by using Uncanny X-Men characters in Blitz Battles. Earn more points if your Uncanny X-Men characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
 ID_QU_SC_SPLASH_MUTANTMARVELS,Use Uncanny X-Men Characters in Blitz
-ID_QU_S1_SPLASH_MUTANTMARVELS,Win Blitz with 3-star or higher Uncanny X-Men Character
-ID_QU_S2_SPLASH_MUTANTMARVELS,Win Blitz with 5-star or higher Uncanny X-Men Character
-ID_QU_S3_SPLASH_MUTANTMARVELS,Win Blitz with 7-star Uncanny X-Men Character
+ID_QU_S1_SPLASH_MUTANTMARVELS,Win Blitz with a 3-star or higher Uncanny X-Men Character
+ID_QU_S2_SPLASH_MUTANTMARVELS,Win Blitz with a 5-star or higher Uncanny X-Men Character
+ID_QU_S3_SPLASH_MUTANTMARVELS,Win Blitz with a 7-star Uncanny X-Men Character
 ID_QU_NA_WINTER_BFYB,Holiday Tidings
 ID_QU_SD_WINTER_BFYB,Collect Web UPCs
 ID_QU_SM_WINTER_BFYB,Earn points through obtaining Web UPCs
@@ -4751,3 +4751,17 @@ ID_QU_LD_TWILIGHTEXPEDITIONS,"Twilight Expeditions\nTo progress in this mileston
 ID_QU_S1_TWILIGHTEXPEDITIONS,Earn Allied Supply VI Orb Fragments from Free Claims and special Offers
 ID_QU_S2_TWILIGHTEXPEDITIONS,Battle in Raids
 ID_QU_S3_TWILIGHTEXPEDITIONS,Earn Milestone Points from Spotlight Raids nodes and special Offers
+ID_QU_NA_SPLASH_MUTANTOPS,Mutant Ops
+ID_QU_SD_SPLASH_MUTANTOPS,Use X-Force in Blitz
+ID_QU_LM_SPLASH_MUTANTOPS,Earn points by using X-Force characters in Blitz Battles. Earn more points if your X-Force characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_MUTANTOPS,Use X-Force Characters in Blitz
+ID_QU_S1_SPLASH_MUTANTOPS,Win Blitz with a 3-star or higher X-Force Character
+ID_QU_S2_SPLASH_MUTANTOPS,Win Blitz with a 5-star or higher X-Force Character
+ID_QU_S3_SPLASH_MUTANTOPS,Win Blitz with a 7-star X-Force Character
+ID_QU_NA_SPLASH_MERCENARYMAYHEM,Mercenary Mayhem
+ID_QU_SD_SPLASH_MERCENARYMAYHEM,Use Mercs For Money in Blitz
+ID_QU_LM_SPLASH_MERCENARYMAYHEM,Earn points by using Mercs For Money characters in Blitz Battles. Earn more points if your Mercs For Money characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_MERCENARYMAYHEM,Use Mercs For Money Characters in Blitz
+ID_QU_S1_SPLASH_MERCENARYMAYHEM,Win Blitz with a 3-star or higher Mercs For Money Character
+ID_QU_S2_SPLASH_MERCENARYMAYHEM,Win Blitz with a 5-star or higher Mercs For Money Character
+ID_QU_S3_SPLASH_MERCENARYMAYHEM,Win Blitz with a 7-star Mercs For Money Character

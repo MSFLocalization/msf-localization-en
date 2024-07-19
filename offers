@@ -9450,9 +9450,9 @@ ID_OF_NA_CAPTAINBRITAIN_AA_PASSIVE_STEP1,Awakened Champion Special (1/4)
 ID_OF_NA_CAPTAINBRITAIN_AA_PASSIVE_STEP2,Awakened Champion Special (2/4)
 ID_OF_NA_CAPTAINBRITAIN_AA_PASSIVE_STEP3,Awakened Champion Special (3/4)
 ID_OF_NA_CAPTAINBRITAIN_AA_PASSIVE_STEP4,Awakened Champion Special (4/4)
-ID_OF_DE_CAPTAINBRITAIN_AA_PASSIVE_STEP1,<color=#fff568>Web Special!</color>Get <color=#fff568>Captain Britain's</color> Passive Awakened Ability Material along with tons of shards with this special offer! Follow up offer unlocked includes Captain Britain's 3-Red Star Promotion!
-ID_OF_DE_CAPTAINBRITAIN_AA_PASSIVE_STEP2,<color=#fff568>Web Special!</color>Get <color=#fff568>Captain Britain's</color> 3-Red Star Promotion along with tons of shards with this special offer! Follow up offer unlocked includes Captain Britain's 4-Red Star Promotion!
-ID_OF_DE_CAPTAINBRITAIN_AA_PASSIVE_STEP3,<color=#fff568>Web Special!</color>Get <color=#fff568>Captain Britain's</color> 4-Red Star Promotion along with tons of shards with this special offer! Follow up offer unlocked holds Captain Britain's shards at the BEST VALUE!
+ID_OF_DE_CAPTAINBRITAIN_AA_PASSIVE_STEP1,<color=#fff568>Web Special!</color>Get <color=#fff568>Captain Britain's</color> Passive Awakened Ability Material along with tons of shards with this special offer! Follow up offer unlocked includes Captain Britain's 4-Red Star Promotion!
+ID_OF_DE_CAPTAINBRITAIN_AA_PASSIVE_STEP2,<color=#fff568>Web Special!</color>Get <color=#fff568>Captain Britain's</color> 4-Red Star Promotion along with tons of shards with this special offer! Follow up offer unlocked includes Captain Britain's 6-Red Star Promotion!
+ID_OF_DE_CAPTAINBRITAIN_AA_PASSIVE_STEP3,<color=#fff568>Web Special!</color>Get <color=#fff568>Captain Britain's</color> 6-Red Star Promotion along with tons of shards with this special offer! Follow up offer unlocked includes Captain Britain's 7-Red Star Promotion!
 ID_OF_DE_CAPTAINBRITAIN_AA_PASSIVE_STEP4,<color=#fff568>Web Special!</color>BEST VALUE UNLOCKED! Get tons of <color=#fff568>Captain Britain's</color> shards with this top value offer!
 ID_OF_NA_POOLPARTY24_DORB_A19_MEGAGORB_HOLIDAY_SV50+TY,Pool Party Thank You Splash!
 ID_OF_NA_POOLPARTY24_ABM_MORB_GOLD_STEP3,Best Bubs Special (3/3)
@@ -9529,3 +9529,23 @@ ID_OF_DE_POOLPARTY24_GOLD_TRAIN_E7,Enjoy this huge gold and training offer to im
 ID_OF_DE_POOLPARTY24_SPIDERSOCIETY_TEAM,Power up a great team for Dark Dimensions City Nodes with this rare offer! <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_POOLPARTY24_TEAL_CATCHUP,Let the teal gear wash over you and get your roster caught up with this amazing offer! <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_POOLPARTY24_PANDAPOOL_ISO,Pandapool loves the sun along with this limited time offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_NORTHSTAR_TRAIN_GOLD,Pick up the shards you need with this limited time special offer. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_GOLD_TRAIN,Restock on the essential resources to continue powering up your roster today with this limited time offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_DD7_GLOBAL_XTXMEN,Rank up a great team for Dark Dimensions Global Nodes with this valuable offer!<color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_XXXX_PREMORBS_MORB,Feast on tons of character shard orbs with this limited time offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_DPC_DDC,Soak in the sun and collect all the credit you need to empower your roster! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_PANDPOOL_UNIQUE_GOLD,The hunt for a great deal is over. Check this offer out before it's gone!<color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_DD7_COSMIC_KANGVAHLVK,Overcome your challenges today with the help of this limited time offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_E7_GOLD,Start promoting your roster with a special limited time offer today! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_SASQUATCH_T2ISOPROTECTORORB,The best rest comes from the best deals like this one. Don't let it pass you by! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_ABM_GOLD,Boost the ability and capability of your roster with this limited time offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_GOLD_TRAIN2,Add more Gold to your reserves from this limited time high value offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_DPC_TRAIN_GOLD_PANDAPOOL_DAKEN_ABM,Don't miss out on this super combo offer! Only available for a limited time! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_NORTHSTAR_T2ISOCONTROLLERORB,Continue improving your <color=#ffda21>Northstar</color> with a limited time offer today! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_DORB_GOLD_TEALCATPACK_A18,Get a boost for your account with all the items from this limited time high value offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_GOLD_TRAIN_DPC,Add more Gold to your reserves from this limited time high value offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_T2_ISO8_ALL_CLASS_ORBS,Evolve your roster today with this limited holiday special! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_TRAIN_GOLD,Take your roster to higher power levels with this limited time offer. <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_BLUE_ISO_BLOWOUT,Don't miss out on this ISO combo offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_MORB_PORB,A premium offer opportunity has arised for you! Don't miss out! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_GOLD_ILLUMINATI_TEAMORBS,Continue your <color=#ffda21>Illuminati</color> team progression with this fantastic combo offer!

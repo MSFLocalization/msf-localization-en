@@ -54,11 +54,11 @@ ID_AVE_KEY_EVENT04_NAME,Gambit Raid Key
 ID_AVE_KEY_EVENT04_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
 ID_AVE_KEY_PURPLE_NAME,Purple Raid Key
 ID_AVE_KEY_PURPLE_DESC,Collect keys to launch raids and earn Ability Materials and Character Shards. Your alliance will earn raid keys each day.
-ID_RES_CAMPAIGN_ENERGY_EVENT01,Experimental Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT01,Summer Fun Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT02,Warrior Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT03,Illuminating Energy
-ID_CAMPAIGN_ENERGY_EVENT01_NAME,Experimental Energy
-ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch X Marks the Spot missions.
+ID_CAMPAIGN_ENERGY_EVENT01_NAME,Summer Fun Energy
+ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch 'Pool Party! missions.
 ID_CAMPAIGN_ENERGY_EVENT02_NAME,Warrior Energy
 ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch All is Fair missions.
 ID_CAMPAIGN_ENERGY_EVENT03_NAME,Illuminating Energy
@@ -557,7 +557,7 @@ ID_EVENT_CUR5_DESCRIPTION,Collect these iconic snacks for points at Deadpool's P
 ID_EVTA_META_JUL_I_NAME,Machines for Money Milestone Points
 ID_EVTA_META_JUL_I_DESCRIPTION,These points earn you additional progress in the Machines for Money Milestone. Earn them in Special Offers!
 ID_EVTA_META_AUG_A_NAME,Disco Ball
-ID_EVTA_META_AUG_A_DESCRIPTION,Collect Disco Ball for points in the Summer Nights Event. Earn them in various events throughout the months of July & August
+ID_EVTA_META_AUG_A_DESCRIPTION,Collect Disco Balls for points in the Summer Nights Event. Earn them in various events throughout the months of July & August
 ID_EVTA_META_AUG_B_NAME,Party Mask
 ID_EVTA_META_AUG_B_DESCRIPTION,Collect the Party Mask for points in the Summer Nights Event. Earn it in the Adamantium Is Forever Event!
 ID_EVTA_META_AUG_C_NAME,Iso-8 Soda
