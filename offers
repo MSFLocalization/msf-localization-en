@@ -9242,6 +9242,58 @@ ID_OF_NA_HANKPYM_WEB_EXTRA_FCO_OFFER,Hank Pym Unlock Offer
 ID_OF_DE_HANKPYM_WEB_EXTRA_FCO_OFFER,"The Doctor Pym, <color=#fff568>Hank Pym</color>, has arrived!"
 ID_OF_NA_HANKPYM_WEB_SPECIAL_OFFER,Doctor Pym Special
 ID_OF_DE_HANKPYM_WEB_SPECIAL_OFFER,"<color=#fff568>Web Special!</color><color=#fff568>Hank Pym</color> is the TECH Support you need to Safeguard, Barrier, and Heal your Illuminati team while giving them Drain in Cosmic Crucible!"
+ID_OF_NA_SSTORE_CRIMSONCATS_BASIC,Catalysts of Power
+ID_OF_NA_SSTORE_CRIMSONCATS_FOCUS,Catalysts of Power
+ID_OF_NA_SSTORE_CRIMSONCATS_DAMAGE,Catalysts of Power
+ID_OF_NA_SSTORE_CRIMSONCATS_RESIST,Catalysts of Power
+ID_OF_NA_SSTORE_CRIMSONCATS_ARMOR,Catalysts of Power
+ID_OF_NA_SSTORE_CRIMSONCATS_HEALTH,Catalysts of Power
+ID_OF_NA_SSTORE_T4AB,Maximum Ability
+ID_OF_NA_SSTORE_DIAMONDS_T2L4,Radioactive Diamonds
+ID_OF_NA_SSTORE_MEGAELITE,Mega Promotions
+ID_OF_NA_SSTORE_T2L5_A18_CATS,Teal Dreams
+ID_OF_NA_SSTORE_GOLD,Gold Standard
+ID_OF_NA_SSTORE_TRAINING,Training Bootcamp
+ID_OF_NA_SSTORE_ELITE7_A18_A17,Armored Promotions
+ID_OF_NA_SSTORE_A17_CATS_ENERGY,Augmented Energy
+ID_OF_NA_SSTORE_A17_A16_ISO,Teal Dreams
+ID_OF_NA_SSTORE_GEARENERGY,Momentum Booster
+ID_OF_NA_SSTORE_T3AB,Advanced Ability
+ID_OF_NA_SSTORE_GOLD2,Gold Boost
+ID_OF_NA_SSTORE_TRAINING2,Training Session
+ID_OF_NA_SSTORE_A17,Armory Boost
+ID_OF_NA_SSTORE_GEAR,Gear Boost
+ID_OF_NA_SSTORE_T1ISO,Radioactive Dose
+ID_OF_NA_SSTORE_POINTS,Strike Points Bundle
+ID_OF_NA_SSTORE_LAUNCHFREE,Strike Store Launch Gift
+ID_OF_NA_SSTORE_GENERIC,Strike Store Bundle
+ID_OF_NA_SSTORE_GENERIC2,Strike Store Special
+ID_OF_DE_SSTORE_CRIMSONCATS_BASIC,Conquer Dark Dimension VII with <color=#f12603>Crimson Gear</color>!
+ID_OF_DE_SSTORE_CRIMSONCATS_FOCUS,Conquer Dark Dimension VII with <color=#f12603>Crimson Gear</color>!
+ID_OF_DE_SSTORE_CRIMSONCATS_DAMAGE,Conquer Dark Dimension VII with <color=#f12603>Crimson Gear</color>!
+ID_OF_DE_SSTORE_CRIMSONCATS_RESIST,Conquer Dark Dimension VII with <color=#f12603>Crimson Gear</color>!
+ID_OF_DE_SSTORE_CRIMSONCATS_ARMOR,Conquer Dark Dimension VII with <color=#f12603>Crimson Gear</color>!
+ID_OF_DE_SSTORE_CRIMSONCATS_HEALTH,Conquer Dark Dimension VII with <color=#f12603>Crimson Gear</color>!
+ID_OF_DE_SSTORE_T4AB,Get the edge on your opponents with <color=#f9b41e>T4 Ability Materials</color> bundle!
+ID_OF_DE_SSTORE_DIAMONDS_T2L4,Empower your roster with <color=#0bbef8>Diamond Orb Fragments and Iso-8 Materials</color>!
+ID_OF_DE_SSTORE_MEGAELITE,Take your roster to the next level with <color=#f12603>Mega Orb Fragments</color> and <color=#f12603>Elite Credits</color>!
+ID_OF_DE_SSTORE_T2L5_A18_CATS,Empower your top characters with <color=#0bbef8>Armory 18 Orbs and Iso-8 Materials</color>!
+ID_OF_DE_SSTORE_GOLD,Boost your roster power with this <color=#f8e50b>Gold</color> bundle!
+ID_OF_DE_SSTORE_TRAINING,Level up your top characters with this <color=#f9b41e>Training Module</color> bundle!
+ID_OF_DE_SSTORE_ELITE7_A18_A17,Take your roster to the next level with <color=#0bbef8>Armory Orbs</color> and <color=#f12603>Elite 7 Credits</color>!
+ID_OF_DE_SSTORE_A17_CATS_ENERGY,Conquer enemies and Campaigns with <color=#0bbef8>Armory Orbs</color> and <color=#fff624>Campaign Energy</color>!
+ID_OF_DE_SSTORE_A17_A16_ISO,Augment your roster with <color=#0bbef8>Armory Orbs and Iso-8 Materials</color>.
+ID_OF_DE_SSTORE_GEARENERGY,Conquer enemies and Campaigns with <color=#0bbef8>Gear Credits</color> and <color=#fff624>Campaign Energy</color>!
+ID_OF_DE_SSTORE_T3AB,Get the edge on oppponents with <color=#f9b41e>T3 Ability Materials</color> bundle!
+ID_OF_DE_SSTORE_GOLD2,Boost your roster power with <color=#f8e50b>Gold</color>.
+ID_OF_DE_SSTORE_TRAINING2,Level up your roster with <color=#f9b41e>Training Modules</color>.
+ID_OF_DE_SSTORE_A17,Empower your top characters with <color=#0bbef8>Armory 17 Orbs</color>.
+ID_OF_DE_SSTORE_GEAR,Empower your top characters with more <color=#0bbef8>Gear Credits</color>.
+ID_OF_DE_SSTORE_T1ISO,Inject power into your roster with <color=#0bbef8>Iso-8 Materials</color>.
+ID_OF_DE_SSTORE_POINTS,Redeem Strike Points for valuable rewards in the Strike Store.
+ID_OF_DE_SSTORE_LAUNCHFREE,Celebrate the launch of the new <color=#f8e50b>Strike Store</color> with this free gift! Head over to the in-game store to redeem your Strike Points for valuable rewards!
+ID_OF_DE_SSTORE_GENERIC1,Inject power into your roster with this special bundle!
+ID_OF_DE_SSTORE_GENERIC2,Redeem your Strike Points for these valuable items!
 ID_OF_NA_MACHINESFORMONEY_STARTER,Machines for Money: Starter Bundle
 ID_OF_NA_MACHINESFORMONEY_CATCHUP,Machines for Money: Catch-Up Bundle
 ID_OF_NA_MACHINESFORMONEY_EVENTORB,Machines for Money: Daily Allied Supply
@@ -9549,3 +9601,15 @@ ID_OF_DE_GENERIC_TRAIN_GOLD,Take your roster to higher power levels with this li
 ID_OF_DE_GENERIC_BLUE_ISO_BLOWOUT,Don't miss out on this ISO combo offer! <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_GENERIC_MORB_PORB,A premium offer opportunity has arised for you! Don't miss out! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_POOLPARTY24_GOLD_ILLUMINATI_TEAMORBS,Continue your <color=#ffda21>Illuminati</color> team progression with this fantastic combo offer!
+ID_OF_NA_MIDNIGHTASSAULT_STARTER,Midnight Assault: Starter Bundle
+ID_OF_NA_MIDNIGHTASSAULT_CATCHUP,Midnight Assault: Catch-Up Bundle
+ID_OF_NA_MIDNIGHTASSAULT_WAR,Midnight Assault: Daily War
+ID_OF_NA_MIDNIGHTASSAULT_EVENTORB,Midnight Assault: Daily Allied Supply
+ID_OF_NA_MIDNIGHTASSAULT_INTERSTITIAL,Midnight Assault: Special
+ID_OF_NA_MIDNIGHTASSAULT_FREE,Midnight Assault: Free Claim
+ID_OF_DE_MIDNIGHTASSAULT_STARTER,Help your alliance start off strong in the <color=#fff568>Midnight Assault</color> Milestone for Crimson Gear rewards and <color=#fff568>Summer Nights</color> progress!
+ID_OF_DE_MIDNIGHTASSAULT_CATCHUP,Push your alliance to the finish line with this <color=#fff568>Midnight Assault</color> Milestone bundle for Crimson Gear and <color=#fff568>Summer Nights</color> progress!
+ID_OF_DE_MIDNIGHTASSAULT_WAR,Get your daily War refills to get ahead in the <color=#fff568>Midnight Assault</color> Milestone!
+ID_OF_DE_MIDNIGHTASSAULT_EVENTORB,Get Allied Supply VI orbs for <color=#fff568>Midnight Assault</color> progress!
+ID_OF_DE_MIDNIGHTASSAULT_INTERSTITIAL,Stock up on Allied Supply VI Orbs for extra progress in the <color=#fff568>Midnight Assault</color> Milestone!
+ID_OF_DE_MIDNIGHTASSAULT_FREE,Come back daily for more <color=#fff568>Midnight Assault</color> progress!

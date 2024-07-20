@@ -2528,6 +2528,9 @@ ID_INFO_BO_THEGUARDIANOFTHECAMP,"<color=#fff568>The Guardian of the Camp Milesto
 ID_INFO_NA_HANKORB,Particle Professor
 ID_INFO_DE_HANKORB,Get additional shards for Hank Pym!
 ID_INFO_BO_HANKORB,<color=#fff568>Particle Professor Milestone</color>\nOpen Pym's Pals Orbs and receive guaranteed additional shards for this groundbreaking original Ant-Man!
+ID_INFO_NA_STRIKESTORELAUNCH,Grand Opening
+ID_INFO_DE_STRIKESTORELAUNCH,Celebrate the Strike Store launch!
+ID_INFO_BO_STRIKESTORELAUNCH,"This week only, earning a Strike Point will also grant you progress in this celebratory launch milestone (in addition to the rewards you can redeem for Strike Points in the Strike Store). \n\nRewards include Gold, Training Modules, Power Cores and more.\n\nKickstart your progress by claiming the launch special Free Claim on our website.\n\nHappy shopping, Commander!"
 ID_INFO_NA_ARESREDSTAR,Drums of War
 ID_INFO_DE_ARESREDSTAR,Recruit the God of War
 ID_INFO_BO_ARESREDSTAR,"Recruit Ares, the God of War, to your roster and power him up along the way with this new premium milestone.\n\n<color=#fff568>Drums of War Milestone</color>\nEarn progress toward this premium Milestone by obtaining Helm of Ares tokens.\n\nYou will need to complete every tier of the Ares Battle Pass to obtain enough tokens to reach Milestone 6.\n\nThere will be additional tokens in the Premium Plus offer as well as additional limited time offers needed to reach Milestone 7."
@@ -2546,3 +2549,6 @@ ID_INFO_BO_ADAMANTIUMISFOREVER,"<color=#fff568>Adamantium Is Forever Milestone</
 ID_INFO_NA_TWILIGHTEXPEDITIONS,Twilight Expeditions
 ID_INFO_DE_TWILIGHTEXPEDITIONS,Earn Disco Balls and a chance at Diamond Orbs!
 ID_INFO_BO_TWILIGHTEXPEDITIONS,"<color=#fff568>Twilight Expeditions</color>\nTo progress in this milestone, battle in Raids, collect Milestone Points on Spotlight Raids nodes and collect Allied Supply VI Orbs from Free Claims. \nEarn Armory 18 Orbs, T2 Level 5 Ions, Crimson Gear Catalysts, and Summer Nights progress!"
+ID_INFO_NA_MIDNIGHTASSAULT,Midnight Assault
+ID_INFO_DE_MIDNIGHTASSAULT,Battle in War for Summer Nights progress!
+ID_INFO_BO_MIDNIGHTASSAULT,Collaborate with your alliance to battle through War and earn Allied Supply VI Orb Fragments. Allied Supply VI Orb Fragments can be found in daily Free Claims on the web and special offers in the store.

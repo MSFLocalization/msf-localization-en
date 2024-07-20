@@ -9281,6 +9281,13 @@ ID_ME_BO_HANKPYM_RS_ENDING,"Commander,\n\n<color=#fff568>Hank Pym</color> will o
 ID_ME_NA_HANKPYM_ORB_ENDING,Particle Party Orb
 ID_ME_DE_HANKPYM_ORB_ENDING,2 days left!
 ID_ME_BO_HANKPYM_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Particle Party Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Hank Pym</color> for your <color=#fff568>Illuminati</color> team for Cosmic Crucible!"
+ID_ME_NA_STRIKESTORELAUNCH_TEASER,Coming Soon: Grand Opening
+ID_ME_DE_STRIKESTORELAUNCH_CORE,Celebrate the Strike Store launch!
+ID_ME_BO_STRIKESTORELAUNCH_CORE,"Commander,\n\nCelebrate the arrival of the new Strike Store!\n\nThis week only, earning a Strike Point will also grant you progress in this celebratory launch milestone (in addition to the rewards you can redeem for Strike Points in the Strike Store). \n\nRewards include Gold, Training Modules, Power Cores and more.\n\nKickstart your progress by claiming the launch special Free Claim on our website.\n\nHappy shopping, Commander!"
+ID_ME_NA_STRIKESTORELAUNCH_ANNOUNCE,LIVE: Grand Opening
+ID_ME_NA_SSTORELAUNCH_V1,Introducing: The Strike Store!
+ID_ME_DE_SSTORELAUNCH_V1,Spend Strike Points for valuable rewards!
+ID_ME_BO_SSTORELAUNCH_V1_DESC,"Commander,\n\nDiscover a new way to earn valuable rewards! \n\nThe Strike Store is a new tab in your in-game store where you can spend Strike Points in exchange for Gold, Training Modules and more.\n\nThe Strike Store will only visible when your Strike Points balance is greater than zero.\n\nHappy shopping, Commander!"
 ID_ME_NA_ARESREDSTAR_TEASER,Coming Soon: Drums of War
 ID_ME_DE_ARESREDSTAR_TEASER,Gain the favor of the Gods
 ID_ME_NA_ARESREDSTAR_ANNOUNCE,Live: Drums of War
@@ -9346,3 +9353,6 @@ ID_ME_BO_SPLASH_MUTANTOPS,"Commander,\n\nFor the next 48 hours, win Blitz battle
 ID_ME_NA_SPLASH_MERCENARYMAYHEM,LIVE: Mercenary Mayhem
 ID_ME_DE_SPLASH_MERCENARYMAYHEM,Earn Disco Balls and Ability Materials!
 ID_ME_BO_SPLASH_MERCENARYMAYHEM,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Ability Materials</color> and <color=#fff568>Disco Balls</color> for the Summer Nights!\n\n<color=#fff568>Featured Trait</color>:\nMercs For Money\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_MIDNIGHTASSAULT_ANNOUNCE,LIVE: Midnight Assault
+ID_ME_DE_MIDNIGHTASSAULT_ANNOUNCE,Battle in War for Summer Nights progress!
+ID_ME_BO_MIDNIGHTASSAULT_ANNOUNCE,"Commander\n\nCollaborate with your alliance to battle through War and earn Allied Supply VI Orb Fragments. Allied Supply VI Orb Fragments can be found in daily Free Claims on the web and special offers in the store.\n\nGood luck, Commander!"

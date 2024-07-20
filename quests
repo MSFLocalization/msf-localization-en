@@ -4707,6 +4707,11 @@ ID_QU_NA_HANKORB,Particle Professor
 ID_QU_SD_HANKORB,Get additional shards for Hank Pym!
 ID_QU_LD_HANKORB,Open Pym's Pals Orbs and receive guaranteed additional shards for this groundbreaking original Ant-Man!
 ID_QU_S1_HANKORB,Open 1 Pym's Pals Orb
+ID_QU_NA_STRIKESTORELAUNCH,Grand Opening
+ID_QU_DE_STRIKESTORELAUNCH,Celebrate the Strike Store launch!
+ID_QU_SD_STRIKESTORELAUNCH,Earn Strike Points for bonus rewards
+ID_QU_LD_STRIKESTORELAUNCH,"This week only, earning a Strike Point will also grant you progress in this celebratory launch milestone (in addition to the rewards you can redeem for Strike Points in the Strike Store). \n\nRewards include Gold, Training Modules, Power Cores and more.\n\nKickstart your progress by claiming the launch special Free Claim on our website.\n\nHappy shopping, Commander!"
+ID_QU_S1_STRIKESTORELAUNCH,Earn 1 Strike Point
 ID_QU_NA_MACHINESFORMONEY,Machines for Money
 ID_QU_SD_MACHINESFORMONEY,Battle in War for Wilderness Expedition progress!
 ID_QU_LD_MACHINESFORMONEY,Collaborate with your alliance to battle through War and earn Allied Supply V Orb Fragments. Allied Supply V Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
@@ -4765,3 +4770,8 @@ ID_QU_SC_SPLASH_MERCENARYMAYHEM,Use Mercs For Money Characters in Blitz
 ID_QU_S1_SPLASH_MERCENARYMAYHEM,Win Blitz with a 3-star or higher Mercs For Money Character
 ID_QU_S2_SPLASH_MERCENARYMAYHEM,Win Blitz with a 5-star or higher Mercs For Money Character
 ID_QU_S3_SPLASH_MERCENARYMAYHEM,Win Blitz with a 7-star Mercs For Money Character
+ID_QU_NA_MIDNIGHTASSAULT,Midnight Assault
+ID_QU_SD_MIDNIGHTASSAULT,Battle in War for Summer Nights progress!
+ID_QU_LD_MIDNIGHTASSAULT,Collaborate with your alliance to battle through War and earn Allied Supply VI Orb Fragments. Allied Supply VI Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
+ID_QU_S1_MIDNIGHTASSAULT,Play 1 War Battle
+ID_QU_S2_MIDNIGHTASSAULT,Earn 1 Allied Supply VI Orb Fragment
