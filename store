@@ -9167,3 +9167,7 @@ ID_GACHA_CRATE_DIAMONDCHAMPIONS3_NAME,Diamond Champions III Orb
 ID_GACHA_CRATE_DIAMONDCHAMPIONS3_DESCRIPTION,Contains 3-Diamond Promotion for one of 12 select characters
 ID_GACHA_CRATE_DIAMONDCHAMPIONS3_TOKEN_NAME,Diamond Champions III Orb Fragment
 ID_GACHA_CRATE_DIAMONDCHAMPIONS3_TOKEN_DESCRIPTION,"Collect fragments for orbs containing 3-Diamond Promotions of 12 select characters, from The Leader to Red Goblin!"
+ID_GACHA_CRATE_ALLIEDSUPPLY6_NAME,Allied Supply VI Orb
+ID_GACHA_CRATE_ALLIEDSUPPLY6_DESCRIPTION,Score critical points for your Alliance
+ID_GACHA_CRATE_ALLIEDSUPPLY6_TOKEN_NAME,Allied Supply VI Orb Fragments
+ID_GACHA_CRATE_ALLIEDSUPPLY6_TOKEN_DESCRIPTION,"Earn Allied Supply VI Orb Fragments to score points in Alliance Milestone Events. Open these orbs to get Gold, Training Materials, T2 Level 5 Ions and more!"
