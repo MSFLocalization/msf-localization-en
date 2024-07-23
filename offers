@@ -9025,21 +9025,21 @@ ID_OF_DE_WEEKLYWED_GENERIC,Get over the hump by treating yourself with this excl
 ID_OF_NA_MONTHLYSPECIAL_NORTHSTAR,July Special: Northstar
 ID_OF_NA_MONTHLYSPECIAL_SSJULY,July Special: Spider-Society
 ID_OF_NA_BLACKPANTHERSHURI_FCO_OFFER,Wakandan Queen
-ID_OF_DE_BLACKPANTHERSHURI_FCO_OFFER,<color=#fff568>Best Value Ever!</color> Each <color=#fff568>Feline Legacy Orb</color> contains <color=#fff568>up to 180 Black Panther (Shuri)</color> shards. <color=#fff568>Black Panther (Shuri)</color> is a MYSTIC Controller that excels in applying debuffs such as Ability & Heal Block while also gaining huge Cosmic Crucible advantages! Wakanda forever!
-ID_OF_DE_BLACKPANTHERSHURI_OFFER_VAR_SU,<color=#fff568>Best Value Ever!</color> Recruit a <color=#fff568>{var1}-star Black Panther (Shuri)</color> and unlock one-time only release offers on your next visit! <color=#fff568>Black Panther (Shuri)</color> is a MYSTIC Controller that excels in applying debuffs such as Ability & Heal Block while also gaining huge Cosmic Crucible advantages! Wakanda forever!
-ID_OF_DE_BLACKPANTHERSHURI_OFFER_SHARD,<color=#fff568>Best Value Ever!</color> Power up <color=#fff568>Black Panther (Shuri)</color> with this shard offer! <color=#fff568>Black Panther (Shuri)</color> is a MYSTIC Controller that excels in applying debuffs such as Ability & Heal Block while also gaining huge Cosmic Crucible advantages! Wakanda forever!
-ID_OF_DE_BLACKPANTHERSHURI_UNLOCK_OFFER,<color=#fff568>Best Value Ever!</color> Unlock <color=#fff568>Black Panther (Shuri)</color> now! <color=#fff568>Black Panther (Shuri)</color> is a MYSTIC Controller that excels in applying debuffs such as Ability & Heal Block while also gaining huge Cosmic Crucible advantages! Wakanda forever!
+ID_OF_DE_BLACKPANTHERSHURI_FCO_OFFER,Each <color=#fff568>Feline Legacy Orb</color> contains <color=#fff568>up to 180 Black Panther (Shuri)</color> shards. <color=#fff568>Black Panther (Shuri)</color> is a MYSTIC Controller that excels in applying debuffs such as Ability & Heal Block while also gaining huge Cosmic Crucible advantages! Wakanda forever!
+ID_OF_DE_BLACKPANTHERSHURI_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Black Panther (Shuri)</color> and unlock one-time only release offers on your next visit! <color=#fff568>Black Panther (Shuri)</color> is a MYSTIC Controller that excels in applying debuffs such as Ability & Heal Block while also gaining huge Cosmic Crucible advantages! Wakanda forever!
+ID_OF_DE_BLACKPANTHERSHURI_OFFER_SHARD,Power up <color=#fff568>Black Panther (Shuri)</color> with this shard offer! <color=#fff568>Black Panther (Shuri)</color> is a MYSTIC Controller that excels in applying debuffs such as Ability & Heal Block while also gaining huge Cosmic Crucible advantages! Wakanda forever!
+ID_OF_DE_BLACKPANTHERSHURI_UNLOCK_OFFER,Unlock <color=#fff568>Black Panther (Shuri)</color> now! <color=#fff568>Black Panther (Shuri)</color> is a MYSTIC Controller that excels in applying debuffs such as Ability & Heal Block while also gaining huge Cosmic Crucible advantages! Wakanda forever!
 ID_OF_STOREBAR_BLACKPANTHERSHURI,Dual Offer: Black Panther (Shuri)
 ID_OF_NA_DUAL_BLACKPANTHERSHURI,Dual Offer: Black Panther (Shuri)
-ID_OF_DE_DUAL_BLACKPANTHERSHURI,<color=#fff568>Best Value Ever!</color> Choose your path to power up this <color=#fff568>Illuminati</color> member!
-ID_OF_DE_DUAL_UNLOCK_BLACKPANTHERSHURI,<color=#fff568>Best Value Ever!</color> Unlock this <color=#fff568>Illuminati</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_DE_DUAL_BLACKPANTHERSHURI,Choose your path to power up this <color=#fff568>Illuminati</color> member!
+ID_OF_DE_DUAL_UNLOCK_BLACKPANTHERSHURI,Unlock this <color=#fff568>Illuminati</color> member and <color=#fff568>one-time release offers</color> on your next visit!
 ID_OF_NA_BLACKPANTHERSHURI_FCO_OFFER_BASIC,Black Panther (Shuri) Release Offer
 ID_OF_NA_ILLUMINATI_TEAM_OFFER,Illuminati Team Bundle
 ID_OF_DE_ILLUMINATI_TEAM_OFFER,<color=#fff568>Illuminati</color> team members!
 ID_OF_NA_BLACKPANTHERSHURI_WEB_EXTRA_FCO_OFFER,Black Panther (Shuri) Unlock Offer
-ID_OF_DE_BLACKPANTHERSHURI_WEB_EXTRA_FCO_OFFER,"<color=#fff568>Best Value Ever!</color> The Wakandan Queen, <color=#fff568>Black Panther (Shuri)</color>, has arrived!"
+ID_OF_DE_BLACKPANTHERSHURI_WEB_EXTRA_FCO_OFFER,"The Wakandan Queen, <color=#fff568>Black Panther (Shuri)</color>, has arrived!"
 ID_OF_NA_BLACKPANTHERSHURI_WEB_SPECIAL_OFFER,Wakandan Queen Special
-ID_OF_DE_BLACKPANTHERSHURI_WEB_SPECIAL_OFFER,<color=#fff568>Best Value Ever!</color> <color=#fff568>Web Special!</color><color=#fff568>Black Panther (Shuri)</color> is a MYSTIC Controller that excels in applying debuffs such as Ability & Heal Block while also gaining huge Cosmic Crucible advantages! Wakanda forever!
+ID_OF_DE_BLACKPANTHERSHURI_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color><color=#fff568>Black Panther (Shuri)</color> is a MYSTIC Controller that excels in applying debuffs such as Ability & Heal Block while also gaining huge Cosmic Crucible advantages! Wakanda forever!
 ID_OF_NA_ILLUMINATI24_TRAIN_GOLD_A18_A17_T2L5,Illuminati Power Up
 ID_OF_NA_ILLUMINATI24_BPSHURI,Illuminati Black Panther Power
 ID_OF_NA_ILLUMINATI24_IIRONMAN_BLACKBOLT_TEALUNIQUES_GOLD,Illuminati Leaders
@@ -9558,7 +9558,7 @@ ID_OF_NA_POOLPARTY24_DD7_MYTHIC_REDUNIQUES,Pool Party: Mythic Crimson Uniques
 ID_OF_NA_POOLPARTY24_BLUE_ISO_BLOWOUT,Pool Party: ISO Insanity
 ID_OF_NA_POOLPARTY24_MORB_PORB,Pool Party: Mega Opportunity
 ID_OF_NA_POOLPARTY24_GOLD_ILLUMINATI_TEAMORBS,Pool Party: Illuminati Vacation
-ID_OF_DE_POOLPARTY24_DORB_A19_MEGAGORB_HOLIDAY_SV50TY,Thank you for your support! We've surfed up a limited time high value offer as a show of our appreciation for your continued support.<color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_DORB_A19_MEGAGORB_HOLIDAY_SV50TY,Thank you for your support! We've surfed up a limited time high value offer as a show of our appreciation for your continued support. <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_POOLPARTY24_ABM_MORB_GOLD_STEP3,Thank you for your support! Here's the final step offer. <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_POOLPARTY24_ABM_MORB_GOLD_STEP2,"Fourth wall or not, friends forever. Purchase to unlock one more high value offer! <color=#ffda21>Greater than a {var1}x value</color>!"
 ID_OF_DE_POOLPARTY24_ABM_MORB_GOLD_STEP1,Some friendships persist through all barriers. Purchase to unlock the next high value offer! <color=#ffda21>Greater than a {var1}x value</color>!
@@ -9566,7 +9566,7 @@ ID_OF_DE_POOLPARTY24_T2ISO_T2L5_DORB_STEP3,Thank you for your support! Here's th
 ID_OF_DE_POOLPARTY24_T2ISO_T2L5_DORB_STEP2,Let your worries wash away and enjoy summer's embrace. Purchase to unlock the next high value offer! <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_POOLPARTY24_T2ISO_T2L5_DORB_STEP1,Cool refreshing splash of friendship eases all burdens. Purchase to unlock the next high value offer! <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_POOLPARTY24_GUARDIAN_T2ISO_GOLD_TRAIN_STEP5,Thank you for your support! Here's the final step offer. <color=#ffda21>Greater than a {var1}x value</color>!
-ID_OF_DE_POOLPARTY24_GUARDIAN_STEP4,You've unlocked Step 4! Purchase to unlock a <color=#ffda21>3x value Guardian</color> offer next!<color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_POOLPARTY24_GUARDIAN_STEP4,You've unlocked Step 4! Purchase to unlock a <color=#ffda21>3x value Guardian</color> offer next! <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_POOLPARTY24_GOLD_T2ISO_STEP3,Your purchase has unlocked this FREE Step 3 offer! Purchase to continue the chain and unlock a <color=#ffda21>Guardian</color> shard offer next!
 ID_OF_DE_POOLPARTY24_GUARDIAN_T1ISO_STEP2,You've unlocked Step 2! Purchase to unlock a FREE offer of <color=#ffda21>500k Gold and 5 T2 Iso-8 Ion Orbs</color> next!
 ID_OF_DE_POOLPARTY24_T1ISO_GOLD_STEP1,Claim this free offer as our thanks for your continued support! Check the store daily for more unlock offers during Pool Party!
@@ -9586,7 +9586,7 @@ ID_OF_DE_GENERIC_GOLD_TRAIN,Restock on the essential resources to continue power
 ID_OF_DE_GENERIC_DD7_GLOBAL_XTXMEN,Rank up a great team for Dark Dimensions Global Nodes with this valuable offer! <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_GENERIC_XXXX_PREMORBS_MORB,Feast on tons of character shard orbs with this limited time offer! <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_GENERIC_DPC_DDC,Soak in the sun and collect all the credit you need to empower your roster! <color=#ffda21>Greater than a {var1}x value</color>!
-ID_OF_DE_GENERIC_PANDPOOL_UNIQUE_GOLD,The hunt for a great deal is over. Check this offer out before it's gone!<color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_GENERIC_PANDPOOL_UNIQUE_GOLD,The hunt for a great deal is over. Check this offer out before it's gone! <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_GENERIC_DD7_COSMIC_KANGVAHLVK,Overcome your challenges today with the help of this limited time offer! <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_GENERIC_E7_GOLD,Start promoting your roster with a special limited time offer today! <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_POOLPARTY24_SASQUATCH_T2ISOPROTECTORORB,The best rest comes from the best deals like this one. Don't let it pass you by! <color=#ffda21>Greater than a {var1}x value</color>!
@@ -9613,3 +9613,6 @@ ID_OF_DE_MIDNIGHTASSAULT_WAR,Get your daily War refills to get ahead in the <col
 ID_OF_DE_MIDNIGHTASSAULT_EVENTORB,Get Allied Supply VI orbs for <color=#fff568>Midnight Assault</color> progress!
 ID_OF_DE_MIDNIGHTASSAULT_INTERSTITIAL,Stock up on Allied Supply VI Orbs for extra progress in the <color=#fff568>Midnight Assault</color> Milestone!
 ID_OF_DE_MIDNIGHTASSAULT_FREE,Come back daily for more <color=#fff568>Midnight Assault</color> progress!
+ID_OF_NA_MONTHLYSPECIAL_BPSHURI,August Special: Black Panther (Shuri)
+ID_OF_NA_MONTHLYSPECIAL_MERCSFORMONEY,August Special: Mercs For Money
+ID_OF_DE_MONTHLYSPECIAL_MERCSFORMONEY,Pick up these Merc For Money characters this August and cash in on the hottest team this summer!
