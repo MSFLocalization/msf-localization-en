@@ -4756,6 +4756,11 @@ ID_QU_LD_TWILIGHTEXPEDITIONS,"Twilight Expeditions\nTo progress in this mileston
 ID_QU_S1_TWILIGHTEXPEDITIONS,Earn Allied Supply VI Orb Fragments from Free Claims and special Offers
 ID_QU_S2_TWILIGHTEXPEDITIONS,Battle in Raids
 ID_QU_S3_TWILIGHTEXPEDITIONS,Earn Milestone Points from Spotlight Raids nodes and special Offers
+ID_QU_NA_PPFLOATON,POOL Party: Float On
+ID_QU_SD_PPFLOATON,Spend POOL Party Event Energy and Battle with POOL Pals
+ID_QU_LD_PPFLOATON,"POOL Party: Float On Milestone\nGain progress in this 7-day event by spending POOL Party event energy and battling with Deadpool and his friends, which he is insisting on calling his POOL Pals, in a number of features including Raids, Arena, Blitz, Cosmic Crucible, and Alliance War. Earn fantastic rewards including Tech Gear, Ability Materials, Promotion Credits, Training Modules, 7 Red Stars for Deadpool, and the Wolverine Weapon X costume.\n\nPOOL Party Orb\nEarned from POOL Party Milestone Events, Login Rewards, and more! Contains a smorgasbord of character shards from this year's team debuts and a generous seasoning of gear and classic POOL Pal character Shards!"
+ID_QU_S1_PPFLOATON,Spend 1 POOL Party Event Energy
+ID_QU_S2_PPFLOATON,Battle with 1 POOL Pal
 ID_QU_NA_SPLASH_MUTANTOPS,Mutant Ops
 ID_QU_SD_SPLASH_MUTANTOPS,Use X-Force in Blitz
 ID_QU_LM_SPLASH_MUTANTOPS,Earn points by using X-Force characters in Blitz Battles. Earn more points if your X-Force characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
@@ -4769,6 +4774,18 @@ ID_QU_LM_SPLASH_MERCENARYMAYHEM,Earn points by using Mercs For Money characters 
 ID_QU_SC_SPLASH_MERCENARYMAYHEM,Use Mercs For Money Characters in Blitz
 ID_QU_S1_SPLASH_MERCENARYMAYHEM,Win Blitz with a 3-star or higher Mercs For Money Character
 ID_QU_S2_SPLASH_MERCENARYMAYHEM,Win Blitz with a 5-star or higher Mercs For Money Character
+ID_QU_NA_RADIOACTIVEPREP,Radioactive Prep
+ID_QU_SD_RADIOACTIVEPREP,Earn T3 Iso-8 Credits and T3 Level 1 Ions
+ID_QU_LM_RADIOACTIVEPREP,"Radioactive Prep\nDon't miss out on new ISO upgrades that includes T3 Iso-8 Credits and T3 Level 1 Ions in this event by battling in Cosmic Crucible with Illuminati (bonus points for Black Panther (Shuri), Hank Pym, and Captain Britain). You can also score by collecting Radioactive Orb Fragments from Campaign nodes, Free Claims, special Offers, and completing the Purple Punch web milestone. Earn incredible rewards including T3 Iso-8 Credits, T3 Level 1 Ions, and Bio Gear. Collect Radioactive Treats to exchange for T3 ISO in the Radioactive Treats store. You'll also earn points towards the Summer Nights milestone by collecting Disco Balls and a Iso-8 Soda!\n\nRadioactive Prep Leaderboard\nCompete on the Leaderboards for new T3 Level 1 Ions and T3 Iso-8 Credits!\n\nPurple Punch Milestone\nSpend Incursion Energy, or battle in Raids to earn Radioactive Orb Fragments and Points for Radioactive Prep Milestone progress! Keep an eye out for Free Claims containing milestone points every day!"
+ID_QU_SC_RADIOACTIVEPREP,Collect Radioactive Orb Fragments from Campaign nodes
+ID_QU_S1_RADIOACTIVEPREP,Earn 1 Radioactive Orb Fragments
+ID_QU_S2_RADIOACTIVEPREP,Battle in Cosmic Crucible with Captain Britain
+ID_QU_S3_RADIOACTIVEPREP,Battle in Cosmic Crucible with Captain Britain at 5 Yellow Star
+ID_QU_S4_RADIOACTIVEPREP,Battle in Cosmic Crucible with Captain Britain at 6 Yellow Star
+ID_QU_S5_RADIOACTIVEPREP,Battle in Cosmic Crucible with Captain Britain at 7 Yellow Star
+ID_QU_NA_PURPLEPUNCH,Purple Punch
+ID_QU_SD_PURPLEPUNCH,Raid and Spend Incursion Campaign Energy
+ID_QU_LD_PURPLEPUNCH,"Raid and Spend Incursion Campaign Energy to complete Purple Punch milestones that rewards Radioactive Orb Fragments, and bonus Radioactive Prep progress!"
 ID_QU_S3_SPLASH_MERCENARYMAYHEM,Win Blitz with a 7-star Mercs For Money Character
 ID_QU_NA_MIDNIGHTASSAULT,Midnight Assault
 ID_QU_SD_MIDNIGHTASSAULT,Battle in War for Summer Nights progress!
