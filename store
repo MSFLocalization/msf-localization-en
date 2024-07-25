@@ -9167,7 +9167,14 @@ ID_GACHA_CRATE_DIAMONDCHAMPIONS3_NAME,Diamond Champions III Orb
 ID_GACHA_CRATE_DIAMONDCHAMPIONS3_DESCRIPTION,Contains 3-Diamond Promotion for one of 12 select characters
 ID_GACHA_CRATE_DIAMONDCHAMPIONS3_TOKEN_NAME,Diamond Champions III Orb Fragment
 ID_GACHA_CRATE_DIAMONDCHAMPIONS3_TOKEN_DESCRIPTION,"Collect fragments for orbs containing 3-Diamond Promotions of 12 select characters, from The Leader to Red Goblin!"
+ID_GACHA_CRATE_RADIOACTIVE_NAME,Radioactive Orb
+ID_GACHA_CRATE_RADIOACTIVE_DESCRIPTION,"Earn progress in the Radioactive Prep Milestone and open Radioactive Orbs for The Leader, Iron Patriot, or Black Knight shards!"
+ID_GACHA_CRATE_RADIOACTIVE_TOKEN_NAME,Radioactive Orb Fragments
+ID_GACHA_CRATE_RADIOACTIVE_TOKEN_DESCRIPTION,Find Radioactive Orb Fragments in a special offer
 ID_GACHA_CRATE_ALLIEDSUPPLY6_NAME,Allied Supply VI Orb
 ID_GACHA_CRATE_ALLIEDSUPPLY6_DESCRIPTION,Score critical points for your Alliance
 ID_GACHA_CRATE_ALLIEDSUPPLY6_TOKEN_NAME,Allied Supply VI Orb Fragments
 ID_GACHA_CRATE_ALLIEDSUPPLY6_TOKEN_DESCRIPTION,"Earn Allied Supply VI Orb Fragments to score points in Alliance Milestone Events. Open these orbs to get Gold, Training Materials, T2 Level 5 Ions and more!"
+ID_BP_NA_DUALOFFER_DESCRIPTION_2_50_ARES,"Unlock Premium rewards, Helm of Ares tokens, 440 Silver Diamond Credits, 18M Gold,\n1,800 L4 Training Modules and <color=#fff568>40 Level Tokens</color>"
+ID_GACHA_CRATE_JARVISRECOMMENDED_NAME,J.A.R.V.I.S. Recommended Orb
+ID_GACHA_CRATE_JARVISRECOMMENDED_DESCRIPTION,Contains 5-20 shards of essential characters to build your roster

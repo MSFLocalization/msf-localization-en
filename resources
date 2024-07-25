@@ -246,8 +246,8 @@ ID_EVENT_CUR2_NAME,Gear Credits
 ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
 ID_EVENT_CUR3_NAME,Aged Adamantium Orb Fragment
 ID_EVENT_CUR3_DESCRIPTION,"Open Aged Adamantium Orbs to earn shards for Out of Time characters, Cabal characters, Emma Frost, Loki and progress in the Red in Tooth and Claw milestone"
-ID_EVENT_CUR4_NAME,Bamboo Orb Fragment
-ID_EVENT_CUR4_DESCRIPTION,Open Bamboo Orbs to earn shards for Pandapool and progress in the Black White and Red All Over milestone
+ID_EVENT_CUR4_NAME,Radioactive Treats
+ID_EVENT_CUR4_DESCRIPTION,Collect Radioactive Treats to exchange for T3 ISO from the Radioactive Treats event store
 ID_EVENT_CUR6_NAME,Machines of War Milestone Points
 ID_EVENT_CUR6_DESCRIPTION,These points earn you additional progress in the Machines of War Milestone. Earn them in limited offers!
 ID_EVENT_CUR7_NAME,Wilderness Orb Fragment
@@ -568,5 +568,9 @@ ID_EVTA_META_AUG_E_NAME,DJ Deadpool Mixtape
 ID_EVTA_META_AUG_E_DESCRIPTION,Collect the DJ Deadpool Mixtape for points in the Summer Nights Event. Earn it in the Diamond Claws Event!
 ID_EVTA_META_AUG_F_NAME,Adamantium Is Forever Milestone Points
 ID_EVTA_META_AUG_F_DESCRIPTION,These points earn you additional progress in the Adamantium Is Forever Milestone. Earn them in the Diamond Dazzle Web Milestone and Special Offers!
+ID_EVTA_META_AUG_G_NAME,Radioactive Prep Milestone Points
+ID_EVTA_META_AUG_G_DESCRIPTION,These points earn you additional progress in the Radioactive Prep Milestone. Earn them in the Purple Punch Web Milestone and Special Offers!
+ID_EVTA_META_AUG_I_NAME,Quantum Disco Milestone Points
+ID_EVTA_META_AUG_I_DESCRIPTION,These points earn you additional progress in the Quantum Disco Milestone. Earn them in the Subatomic Groove Web Milestone and Special Offers!
 ID_EVTA_META_AUG_J_NAME,Twilight Expeditions Milestone Points
 ID_EVTA_META_AUG_J_DESCRIPTION,These points earn you additional progress in the Twilight Expeditions Milestone. Earn them in Special Offers!
