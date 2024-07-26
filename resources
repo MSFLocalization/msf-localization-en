@@ -63,6 +63,8 @@ ID_CAMPAIGN_ENERGY_EVENT02_NAME,Warrior Energy
 ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch All is Fair missions.
 ID_CAMPAIGN_ENERGY_EVENT03_NAME,Illuminating Energy
 ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Illuminating Assault missions.
+ID_CAMPAIGN_ENERGY_EVENT10_NAME,Arachnid Energy
+ID_CAMPAIGN_ENERGY_EVENT10_DESCRIPTION,Used to launch Loose Threads missions.
 ID_HC_NAME,Power Cores
 ID_HC_DESCRIPTION,"Use Power Cores to purchase Orbs, Energy Refills, Health Packs, Supplies, and Blitz Charges."
 ID_AVA-CUR_NAME,War Credits
@@ -574,3 +576,5 @@ ID_EVTA_META_AUG_I_NAME,Quantum Disco Milestone Points
 ID_EVTA_META_AUG_I_DESCRIPTION,These points earn you additional progress in the Quantum Disco Milestone. Earn them in the Subatomic Groove Web Milestone and Special Offers!
 ID_EVTA_META_AUG_J_NAME,Twilight Expeditions Milestone Points
 ID_EVTA_META_AUG_J_DESCRIPTION,These points earn you additional progress in the Twilight Expeditions Milestone. Earn them in Special Offers!
+ID_EVTA_META_AUG_K_NAME," Midnight Assault Milestone Points"
+ID_EVTA_META_AUG_K_DESCRIPTION,These points earn you additional progress in the Midnight Assault Milestone. Earn them in Special Offers!
