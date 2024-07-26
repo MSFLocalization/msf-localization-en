@@ -1240,6 +1240,8 @@ ID_UI_YOUTUBE_URL,https://www.youtube.com/marvelstrikeforce
 ID_UI_INSTAGRAM_URL,https://www.instagram.com/marvelstrikeforce
 ID_UI_DISCORD_URL,https://discord.gg/marvelstrikeforce
 ID_UI_TIKTOK_URL,https://www.tiktok.com/@marvelstrikeforce
+ID_UI_INTERSTITIAL_FULL_VIDEO_BUTTON,FULL VIDEO
+ID_UI_INTERSTITIAL_PLAY_NOW_BUTTON,PLAY NOW
 ID_UI_MSF_WEB_BUTTON,TAKE ME THERE
 ID_UI_MSF_WEB_TITLE,Join the Web Experience
 ID_UI_MSF_WEB_DESC,"- Iso-8 and T4 Ability Guides\n- Blog Updates\n- Alliance, raid, and roster tools"

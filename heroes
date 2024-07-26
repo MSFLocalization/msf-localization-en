@@ -165,6 +165,10 @@ ID_SHARD_GHOSTRIDERROBBIE_NAME,Ghost Rider (Robbie)
 ID_SHARD_GHOSTRIDERROBBIE_DESCRIPTION,"Victim of gang violence and bonded to the Spirit of Vengeance, Robbie Reyes saps his enemies' health with bleed and unleashes devastating charged attacks."
 ID_SHARD_GHOSTSPIDER_NAME,Ghost-Spider
 ID_SHARD_GHOSTSPIDER_DESCRIPTION,Ghost-Spider hails from a universe where Gwen Stacy was bitten by a radioactive spider. She's an agile Web-Warrior that can prevent enemies from using their abilities.
+ID_SHARD_GLADIATOR_NAME,Gladiator
+ID_SHARD_GLADIATOR_DESCRIPTION,"Superguardian of the Shi'ar Imperium, Gladiator uses his near limitless might and superhuman feats to protect his allies and the universe from the worst of the worst."
+ID_SHARD_GORR_NAME,Gorr
+ID_SHARD_GORR_DESCRIPTION,"Following the death of his child, Gorr became The God Butcher, slaying countless gods with All-Black, the Necrosword. He controls the battle with powerful attacks that can clear Charged and Battlefield Effects."
 ID_SHARD_GRAVITON_NAME,Graviton
 ID_SHARD_GRAVITON_DESCRIPTION,Graviton is an A.I.M. Controller who extends negative status effects on enemies.
 ID_SHARD_GREENGOBLINGLIDER_NAME,Green Goblin (Classic)
@@ -595,6 +599,8 @@ ID_SHARD_TESTCHARACTERD_NAME,Test Character D
 ID_SHARD_TESTCHARACTERD_DESCRIPTION,"The leader of Test Character Prime's personal guard, Test Character D boosts her fellow Test Characters and deals out destructive blows to her opponents with her sword, Testfang."
 ID_SHARD_THANOS_NAME,Thanos
 ID_SHARD_THANOS_DESCRIPTION,A Titan Eternal who delivers crushing blows that drain his foes and taunt his enemies.
+ID_SHARD_THANOSENDGAME_NAME,Thanos (Endgame)
+ID_SHARD_THANOSENDGAME_DESCRIPTION,"When the Avengers' Time Heist went awry, Thanos was shown a future of his purpose fulfilled. Armed with that knowledge, he stepped into the future to ensure his inevitable destiny."
 ID_SHARD_THING_NAME,The Thing
 ID_SHARD_THING_DESCRIPTION,The Thing is a rocky Brawler who deals massive damage to single targets.
 ID_SHARD_THELEADER_NAME,The Leader

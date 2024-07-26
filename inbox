@@ -9376,3 +9376,19 @@ ID_ME_BO_BATTLEPASS_SEASON26_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle Pass:
 ID_ME_NA_BATTLEPASS_SEASON26_ENDING,Season 26 Ending Soon
 ID_ME_DE_BATTLEPASS_SEASON26_ENDING,Battle Pass: 2 more days!
 ID_ME_BO_BATTLEPASS_SEASON26_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Ares shards and Helm of Ares tokens before the Season ends!"
+ID_ME_NA_QUANTUMDISCO_TEASER,Coming Soon: Quantum Disco
+ID_ME_DE_QUANTUMDISCO_CORE,Don't miss out on T3 Support Iso-8 Orb Fragments and T3 Level 1 Ions!
+ID_ME_BO_QUANTUMDISCO_CORE,"Commander,\n\nEarn Lab Supplies and Map Fragment #3 in this exciting event!\n\n<color=#fff568>Quantum Disco Milestone</color>\nGain progress in this event by Iso-8 Campaign energy and battling in War with a bonus for using Old Man Logan. Earn rewards including <color=#fff568>Hank Pym shards, T3 Support Iso-8 Orb Fragments, T3 Level 1 Ions, and a chance at Armory 19 Orb Fragments</color>. You'll also earn points towards the month-long Summer Nights milestone by collecting Disco Balls and a Photon Projector.\n\n<color=#fff568>Subatomic Groove Web Milestone</color>\nEarn Alliance Credits in the Subatomic Groove event to get Milestone Points for Quantum Hank Orb Fragments and additional progress in the Quantum Disco Milestone. Keep an eye out for Free Claims containing Quantum Disco Milestone Points every day!\n\nGood luck, Commander!"
+ID_ME_NA_QUANTUMDISCO_ANNOUNCE,LIVE: Quantum Disco
+ID_ME_NA_QUANTUMDISCO_ENDING,ENDING: Quantum Disco
+ID_ME_DE_QUANTUMDISCO_ENDING,Don't miss out on T3 Support Iso-8 Orb Fragments and T3 Level 1 Ions!
+ID_ME_BO_QUANTUMDISCO_ENDING,"Commander,\n\nQuantum Disco <color=#fff568>ends soon</color>. Continue making progress to earn T3 Support Iso-8 Orb Fragments, T3 Level 1 Ions, Disco Balls and a Photon Projector!!\n\nGood luck, Commander!"
+ID_ME_NA_POOLPARTY_COMP,Gifts from a Different 'Pool Party
+ID_ME_DE_POOLPARTY_COMP,Compensation inside
+ID_ME_BO_POOLPARTY_COMP,"Commander,\n\nWhen the <color=#fff568>'Pool Party</color> event launched, players were receiving first time mission rewards from an alternate reality's <color=#fff568>'Pool Party</color>!\n\nWe know that missing any party is a bummer, so we are giving everyone the full set of rewards from that other <color=#fff568>'Pool Party</color>.\n\nIf you obtained first time rewards from the wrong <color=#fff568>'Pool Party</color>, you will receive additional inbox messages containing the <color=#fff568>correct rewards</color> for Missions 1 through 4, depending on the highest difficulty that you have completed in the wrong <color=#fff568>'Pool Party</color> event.\n\nMake sure you claim all the rewards from your inbox!"
+ID_ME_NA_POOLPARTY_FTR_COMP,Correct Pool Party Rewards
+ID_ME_DE_POOLPARTY_FTR_COMP_1,Mission 1 Rewards
+ID_ME_DE_POOLPARTY_FTR_COMP_2,Mission 2 Rewards
+ID_ME_DE_POOLPARTY_FTR_COMP_3,Mission 3 Rewards
+ID_ME_DE_POOLPARTY_FTR_COMP_4,Mission 4 Rewards
+ID_ME_BO_POOLPARTY_FTR_COMP,Here are the correct rewards for <color=#fff568>'Pool Party</color>!\n\nThank you for your patience!

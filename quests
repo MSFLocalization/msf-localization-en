@@ -4792,3 +4792,17 @@ ID_QU_SD_MIDNIGHTASSAULT,Battle in War for Summer Nights progress!
 ID_QU_LD_MIDNIGHTASSAULT,Collaborate with your alliance to battle through War and earn Allied Supply VI Orb Fragments. Allied Supply VI Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
 ID_QU_S1_MIDNIGHTASSAULT,Play 1 War Battle
 ID_QU_S2_MIDNIGHTASSAULT,Earn 1 Allied Supply VI Orb Fragment
+ID_QU_NA_QUANTUMDISCO,Quantum Disco
+ID_QU_DE_QUANTUMDISCO,Earn T3 Support Iso-8 Orb Fragments and T3 Level 1 Ions
+ID_QU_LD_QUANTUMDISCO,"Quantum Disco Milestone\nGain progress in this event by collecting Panther Orb Fragments from Iso-8 Campaigns and battling in Cosmic Crucible with a bonus for using Black Panther (Shuri) or Hank Pym. Earn rewards including Black Panther (Shuri) shards and a chance at Crimson gear. You'll also earn points towards the month-long Wilderness Expedition milestone by collecting Disco Balls and the final Map Fragment #3.\n\nLeaderboard\nCompete on the Leaderboard for Black Panther (Shuri) Diamonds, Crimson Mutant Mini-Uniques, and Crimson Gear Raid Orbs!\n\nThe Beast Within Web Milestone\nParticipate in War in the Machines for Money event to get Milestone Points for additional progress in the Quantum Disco and Wilderness Expedition Milestone. Keep an eye out for Free Claims containing Quantum Disco Milestone Points every day!"
+ID_QU_SD_QUANTUMDISCO,Battle in War and Iso-8 Campaign
+ID_QU_S1_QUANTUMDISCO,Spend 1 Iso-8 Campaign Energy
+ID_QU_S2_QUANTUMDISCO,Earn Quantum Hank Orb Fragments
+ID_QU_S3_QUANTUMDISCO,Play 1 War Battle
+ID_QU_S4_QUANTUMDISCO,Battle in War with Old Man Logan
+ID_QU_S5_QUANTUMDISCO,Battle in War with Old Man Logan at 6 Yellow Star
+ID_QU_S6_QUANTUMDISCO,Battle in War with Old Man Logan at 7 Yellow Star
+ID_QU_NA_SUBATOMICGROOVE,Subatomic Groove
+ID_QU_SD_SUBATOMICGROOVE,Earn Alliance Credits
+ID_QU_LD_SUBATOMICGROOVE,"Earn Alliance Credits and get rewarded with Disco Balls, and Quantum Disco milestone progress."
+ID_QU_S1_SUBATOMICGROOVE,Earn 1 Alliance Credit
