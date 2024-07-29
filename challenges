@@ -2364,6 +2364,9 @@ ID_EVENT_MERCSFORMONEY_BONUS_DESC,Requirements: \n- 4 Mercs for Money characters
 ID_ECM_AGEOFX_CH0_NAME,Enter the Age of X
 ID_ECM_AGEOFX_CH0_DESC,"When Jean Grey is awoken by a strange voice, she and her husband Cyclops use the Danger Room go looking through their history for answers to its mystery."
 ID_ECM_AGEOFX_CH0_FLAV,Special Event
+ID_ECM_AGEOFX_CH1_NAME,The Mind of Magneto
+ID_ECM_AGEOFX_CH1_DESC,"Magneto's mind cries out with a single word, and the X-Men's psychics delve in to find its meaning."
+ID_ECM_AGEOFX_CH1_FLAV,Special Event
 ID_INFO_NA_NATUREWARS,Nature Wars
 ID_INFO_DE_NATUREWARS,Battle in War for Crimson and Teal Gear!
 ID_INFO_BO_NATUREWARS,"<color=#fff568>Nature Wars Milestone</color>\nBattle in War to earn a Crimson Gear, Crimson Raid Orbs, Teal Gear, Silver Promotion Credits and Nature/Nurture progress.\n\n<color=#fff568>Allied Supply IV orb</color>\nCollect alliance event orbs to earn progress in Nature Wars! Collect the Alliance Supply Orb in special offers for Gold, Training Materials, T2 Level 5 Ion Orb Fragments and more!"

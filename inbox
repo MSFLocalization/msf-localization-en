@@ -8648,6 +8648,15 @@ ID_ME_BO_LIVE_AGEOFX_CH0,"Commander,\n\nThe <color=#fff568>ENTER THE AGE OF X</c
 ID_ME_NA_ENDING_AGEOFX_CH0,ENDING: Enter the Age of X
 ID_ME_DE_ENDING_AGEOFX_CH0,2 Days Left!
 ID_ME_BO_ENDING_AGEOFX_CH0,"Commander,\n\nThe Enter the Age of X Event ends in 2 days. Continue earning rewards before this special event ends!\n\nGood luck, Commander!"
+ID_ME_NA_PREVIEW_AGEOFX_CH1,Coming Soon: Enter the Mind of Magneto
+ID_ME_DE_PREVIEW_AGEOFX_CH1,Age of X Event
+ID_ME_BO_PREVIEW_AGEOFX_CH1,"Commander,\n\n<color=#fff568>THE MIND OF MAGNETO</color> Event is coming soon! Join Wolverine and Jean Grey as they journey into the mind of the master of magnetism to try and answer impossible questions. Earn incredible rewards by playing each day!"
+ID_ME_NA_LIVE_AGEOFX_CH1,LIVE: The Mind of Magneto
+ID_ME_DE_LIVE_AGEOFX_CH1,Play The Mind of Magneto event and earn rewards!
+ID_ME_BO_LIVE_AGEOFX_CH1,"Commander,\n\n<color=#fff568>THE MIND OF MAGNETO</color> Event is now live! Join Wolverine and Jean Grey as they journey into the mind of the master of magnetism to try and answer impossible questions. Earn incredible rewards by playing each day!"
+ID_ME_NA_ENDING_AGEOFX_CH1,ENDING: The Mind of Magneto
+ID_ME_DE_ENDING_AGEOFX_CH1,2 Days Left!
+ID_ME_BO_ENDING_AGEOFX_CH1,"Commander,\n\nThe Mind of Magneto ends in 2 days. Continue earning rewards before this special event ends!\n\nGood luck, Commander!"
 ID_ME_NA_THELEADER_TEASER,Soon: The Leader
 ID_ME_DE_THELEADER_TEASER,Cabal Mastermind
 ID_ME_BO_THELEADER_TEASER,"Commander,\n\nBegin your journey towards world domination with <color=#fff568>The Leader</color>!\n\n<color=#fff568>Two Steps Ahead</color>\nOn Spawn, stay ahead of your opponents by applying Defense Up to self and all Villain allies. Keep that advantage by applying Safeguard to self and all Cabal allies while also protecting allies at half health by flipping Disrupted before applying Stealth, Defense Up, and Barrier! In addition, based on the team compositions, gain Charged to increase Crit Chance, Crit Damage, and Block Chance for self and Villain allies.\n\n<color=#fff568>Cosmic Crucible Bonuses</color>\nIf battling in the Cosmic Crucible, Two Steps Ahead buffs Villain ally Max Health and Armor by +50%. Plus, if he has 2 Cabal allies, enemies with Vulnerable cannot gain Safeguard! On top of that, Mind Over Matter generates additional energy to Villain allies, while Seek n' Destroy applies safeguard to Villain and Gamma allies.\n\nBe on the lookout for details on how to earn their character shards!\n"
@@ -9392,3 +9401,21 @@ ID_ME_DE_POOLPARTY_FTR_COMP_2,Mission 2 Rewards
 ID_ME_DE_POOLPARTY_FTR_COMP_3,Mission 3 Rewards
 ID_ME_DE_POOLPARTY_FTR_COMP_4,Mission 4 Rewards
 ID_ME_BO_POOLPARTY_FTR_COMP,Here are the correct rewards for <color=#fff568>'Pool Party</color>!\n\nThank you for your patience!
+ID_ME_NA_GLADIATOR_TEASER,Soon: Gladiator
+ID_ME_DE_GLADIATOR_TEASER,Praetor's Might
+ID_ME_BO_GLADIATOR_TEASER,"Commander,\n\n<color=#fff568>Gladiator</color> confidently soars in!\n\n<color=#fff568>Praetor's Might</color>\nGladiator spawns with Taunt, Immunity and Safeguard, assuring he is the quintessential bulwark. Gladiator's strength is incumbent upon his confidence. His attacks change effects based on his health. With Health at or above 50%, Gladiator punishes enemies by clearing their positive effects, reducing their Speed Bar, or gaining Immunity and Taunt for himself.  Below 50% Health, he works to get back into the fight with Barrier or Regeneration, or healing himself and generating Ability Energy! \n\n<color=#fff568>Arena Bonuses</color>\nGladiator and ANNIHILATOR allies cannot gain Slow! If Gladiator's Health is 50% or greater, enemies cannot fill or reduce Speed Bar for allies, foes or even themselves!\n\nBe on the lookout for details on how to earn their character shards!"
+ID_ME_NA_GLADIATOR_ANNOUNCE,Gladiator is here!
+ID_ME_DE_GLADIATOR_ANNOUNCE,Praetor's Might
+ID_ME_BO_GLADIATOR_ANNOUNCE,"Commander,\n\n<color=#fff568>Gladiator</color> confidently soars in!\n\n<color=#fff568>Praetor's Might</color>\nGladiator spawns with Taunt, Immunity and Safeguard, assuring he is the quintessential bulwark. Gladiator's strength is incumbent upon his confidence. His attacks change effects based on his health. With Health at or above 50%, Gladiator punishes enemies by clearing their positive effects, reducing their Speed Bar, or gaining Immunity and Taunt for himself.  Below 50% Health, he works to get back into the fight with Barrier or Regeneration, or healing himself and generating Ability Energy! \n\n<color=#fff568>Arena Bonuses</color>\nGladiator and ANNIHILATOR allies cannot gain Slow! If Gladiator's Health is 50% or greater, enemies cannot fill or reduce Speed Bar for allies, foes or even themselves!\n\n<color=#fff568>How to Recruit</color>\n- Shi'ar's Finest Orb\n- Limited-time offers\n- An upcoming event\n\nRecruit this Imperial Protector today!"
+ID_ME_NA_GLADIATOR_RS_ENDING,Red Stars: Gladiator
+ID_ME_DE_GLADIATOR_RS_ENDING,Featuring Ends Soon!
+ID_ME_BO_GLADIATOR_RS_ENDING,"Commander,\n\n<color=#fff568>Gladiator</color> will only be featured in all Red Star Orbs for 2 more days!\n\nHurry and open Red Star Orbs while the drop rate is still increased."
+ID_ME_NA_GLADIATOR_ORB_ENDING,Shi'ar's Finest Orb
+ID_ME_DE_GLADIATOR_ORB_ENDING,2 days left!
+ID_ME_BO_GLADIATOR_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Shi'ar's Finest Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Gladiator</color> for your <color=#fff568>Annihilators</color> team for Arena!"
+ID_ME_NA_STRIKEPASS65_ANNOUNCE,S.T.R.I.K.E. Pass: Season 65
+ID_ME_DE_STRIKEPASS65_ANNOUNCE,Earn Sasquatch Shards!
+ID_ME_BO_STRIKEPASS65_ANNOUNCE,"Commander,\n\n<color=#fff568>S.T.R.I.K.E. Pass: Season 65 is live!</color>\n\nFeatured Character Shards: <color=#fff568>Sasquatch</color>\n<color=#fff568>How it Works</color>\n- Certain Daily Objectives reward S.T.R.I.K.E. Tokens\n- Earn S.T.R.I.K.E. Tokens to hit Season-long milestone rewards\n- You can also spend Power Cores to immediately reach the next S.T.R.I.K.E. Level\n- Your S.T.R.I.K.E. Level resets each Season\n\n<color=#fff568>Reward Tiers</color>\n- Commander Level determines your S.T.R.I.K.E. Pass Tier & Rewards\n- S.T.R.I.K.E. I: Commander Levels 10-49\n- S.T.R.I.K.E. II: Commander Levels 50-79\n- S.T.R.I.K.E. III: Commander Levels 80+\n- Your Commander Level at the START of the season determines which S.T.R.I.K.E. Pass Tier you get for the duration of the Season\n\n<color=#fff568>Premium S.T.R.I.K.E. Pass</color>\nUpgrade to the <color=#fff568>Premium S.T.R.I.K.E. Pass</color> to earn additional rewards for reaching each S.T.R.I.K.E. Level."
+ID_ME_NA_STRIKEPASS65_ENDING,Ending: S.T.R.I.K.E. Pass
+ID_ME_DE_STRIKEPASS65_ENDING,Don't miss Sasquatch Shards!
+ID_ME_BO_STRIKEPASS65_ENDING,"Commander,\n\nYou only have <color=#fff568>2 days</color> remaining to earn <color=#fff568>Sasquatch</color> shards and  in Season 65 of S.T.R.I.K.E. Pass.\n\nHurry and complete your Daily Objectives before these rewards are gone!"
