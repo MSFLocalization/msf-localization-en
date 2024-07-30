@@ -4792,9 +4792,20 @@ ID_QU_SD_MIDNIGHTASSAULT,Battle in War for Summer Nights progress!
 ID_QU_LD_MIDNIGHTASSAULT,Collaborate with your alliance to battle through War and earn Allied Supply VI Orb Fragments. Allied Supply VI Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
 ID_QU_S1_MIDNIGHTASSAULT,Play 1 War Battle
 ID_QU_S2_MIDNIGHTASSAULT,Earn 1 Allied Supply VI Orb Fragment
+ID_QU_NA_PPCHILLOUT,POOL Party: Chill Out
+ID_QU_SD_PPCHILLOUT,Event Energy and collect Chimichangas
+ID_QU_LD_PPCHILLOUT,"POOL Party: Chill Out Milestone\nGain progress in this 7-day event by spending POOL Party AND Age of X event energy, and collecting Chimichangas from Daily Missions. Earn fantastic rewards including Mutant Gear, Ability Materials, Promotion Credits, Training Modules, extra POOL Party Orbs, and Mega Gold Orbs.\n\nPOOL Party Orb\nEarned from POOL Party Milestone Events, Login Rewards, and more! Contains a smorgasbord of character shards from this year's team debuts and a generous seasoning of gear and classic POOL Pal character Shards!"
+ID_QU_S1_PPCHILLOUT,Spend 1 POOL Party Event Energy
+ID_QU_S2_PPCHILLOUT,Spend 1 Age of X Energy
+ID_QU_S3_PPCHILLOUT,Collect 1 Chimichanga from Daily Rewards
+ID_QU_NA_PPDRYOFF,POOL Party: Dry Off
+ID_QU_SD_PPDRYOFF,Spend POOL Party Event Energy and Battle with POOL Pals
+ID_QU_LD_PPDRYOFF,"POOL Party: Dry Off Milestone\nGain progress in this 7-day event by spending POOL Party event energy and battling with Deadpool and his POOL Pals in a number of features including Raids, Arena, Blitz, Cosmic Crucible, and Alliance War. Earn fantastic rewards including Bio Gear, Ability Materials, Promotion Credits, Training Modules, the NicePool costume and the POOL Portrait avatar frame.\n\nPOOL Party Orb\nEarned from POOL Party Milestone Events, Login Rewards, and more! Contains a smorgasbord of character shards from this year's team debuts and a generous seasoning of gear and classic POOL Pal character Shards!"
+ID_QU_S1_PPDRYOFF,Spend 1 POOL Party Event Energy
+ID_QU_S2_PPDRYOFF,Battle with 1 POOL Pal
 ID_QU_NA_QUANTUMDISCO,Quantum Disco
 ID_QU_DE_QUANTUMDISCO,Earn T3 Support Iso-8 Orb Fragments and T3 Level 1 Ions
-ID_QU_LD_QUANTUMDISCO,"Quantum Disco Milestone\nGain progress in this event by collecting Panther Orb Fragments from Iso-8 Campaigns and battling in Cosmic Crucible with a bonus for using Black Panther (Shuri) or Hank Pym. Earn rewards including Black Panther (Shuri) shards and a chance at Crimson gear. You'll also earn points towards the month-long Wilderness Expedition milestone by collecting Disco Balls and the final Map Fragment #3.\n\nLeaderboard\nCompete on the Leaderboard for Black Panther (Shuri) Diamonds, Crimson Mutant Mini-Uniques, and Crimson Gear Raid Orbs!\n\nThe Beast Within Web Milestone\nParticipate in War in the Machines for Money event to get Milestone Points for additional progress in the Quantum Disco and Wilderness Expedition Milestone. Keep an eye out for Free Claims containing Quantum Disco Milestone Points every day!"
+ID_QU_LD_QUANTUMDISCO,"Quantum Disco Milestone\nGain progress in this event by spending Iso-8 Campaign energy and battling in War with a bonus for using Old Man Logan. Earn rewards including Hank Pym shards, T3 Support Iso-8 Orb Fragments, T3 Level 1 Ions, and a chance at Armory 19 Orb Fragments. You'll also earn points towards the month-long Summer Nights milestone by collecting Disco Balls and a Photon Projector.\n\nSubatomic Groove Web Milestone\nEarn Alliance Credits in the Subatomic Groove event to get Milestone Points for Quantum Hank Orb Fragments and additional progress in the Quantum Disco Milestone. Keep an eye out for Free Claims containing Quantum Disco Milestone Points every day!"
 ID_QU_SD_QUANTUMDISCO,Battle in War and Iso-8 Campaign
 ID_QU_S1_QUANTUMDISCO,Spend 1 Iso-8 Campaign Energy
 ID_QU_S2_QUANTUMDISCO,Earn Quantum Hank Orb Fragments

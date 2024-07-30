@@ -9176,6 +9176,8 @@ ID_GACHA_CRATE_ALLIEDSUPPLY6_DESCRIPTION,Score critical points for your Alliance
 ID_GACHA_CRATE_ALLIEDSUPPLY6_TOKEN_NAME,Allied Supply VI Orb Fragments
 ID_GACHA_CRATE_ALLIEDSUPPLY6_TOKEN_DESCRIPTION,"Earn Allied Supply VI Orb Fragments to score points in Alliance Milestone Events. Open these orbs to get Gold, Training Materials, T2 Level 5 Ions and more!"
 ID_BP_NA_DUALOFFER_DESCRIPTION_2_50_ARES,"Unlock Premium rewards, Helm of Ares tokens, 440 Silver Diamond Credits, 18M Gold,\n1,800 L4 Training Modules and <color=#fff568>40 Level Tokens</color>"
+ID_GACHA_CRATE_JARVIS_RECOMMENDED_NAME,J.A.R.V.I.S. Recommended Orb
+ID_GACHA_CRATE_JARVIS_RECOMMENDED_DESCRIPTION,Contains 5-20 shards of essential characters to build your roster
 ID_GACHA_CRATE_QUANTUMHANK_NAME,Quantum Hank Orb
 ID_GACHA_CRATE_QUANTUMHANK_DESCRIPTION,Contains Hank Pym
 ID_GACHA_CRATE_QUANTUMHANK_TOKEN_NAME,Quantum Hank Orb Fragments
@@ -9184,9 +9186,9 @@ ID_GACHA_CRATE_FCO_GLADIATOR_SPECIAL_DESCRIPTION,Earn up to 180 Gladiator shards
 ID_GACHA_CRATE_FCO_GLADIATOR_SPECIAL_TOKEN_NAME,Shi'ar's Finest Orb Fragments
 ID_GACHA_CRATE_FCO_GLADIATOR_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Shi'ar's Finest Orbs that contain up to 180 Gladiator shards.
 ID_GACHA_CRATE_FCO_GORR_SPECIAL_NAME,God Butcher Orb
-ID_GACHA_CRATE_FCO_GORR_SPECIAL_DESCRIPTION,Earn up to 180 Gorr The God Butcher shards
+ID_GACHA_CRATE_FCO_GORR_SPECIAL_DESCRIPTION,Earn up to 180 Gorr shards
 ID_GACHA_CRATE_FCO_GORR_SPECIAL_TOKEN_NAME,God Butcher Orb Fragments
-ID_GACHA_CRATE_FCO_GORR_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for God Butcher Orbs that contain up to 180 Gorr The God Butcher shards.
+ID_GACHA_CRATE_FCO_GORR_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for God Butcher Orbs that contain up to 180 Gorr shards.
 ID_GACHA_CRATE_FCO_THANOSENDGAME_SPECIAL_NAME,Perfectly Balanced Orb
 ID_GACHA_CRATE_FCO_THANOSENDGAME_SPECIAL_DESCRIPTION,Earn up to 180 Thanos (Endgame) shards
 ID_GACHA_CRATE_FCO_THANOSENDGAME_SPECIAL_TOKEN_NAME,Perfectly Balanced Orb Fragments
