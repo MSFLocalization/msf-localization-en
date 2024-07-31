@@ -383,6 +383,7 @@ ID_NSF_SUFFIX_FIGHT_ARENA_BATTLES,\n\nFight in Blitz to earn more.
 ID_OFF,Off
 ID_ON,On
 ID_OPEN,OPEN
+ID_OPEN_MORE,OPEN MORE
 ID_MULTI_OPEN,OPEN x{qty}
 ID_OPTIONS_ENABLE,ENABLE
 ID_OPTIONS_DISABLE,DISABLE
@@ -1360,11 +1361,13 @@ ID_MINSPEC_BO_MINSPEC_IOS13,The minimum device requirements to play MARVEL Strik
 ID_MINSPEC_NA_MINSPEC_OS7_2GB,Device Update Needed!
 ID_MINSPEC_BO_MINSPEC_OS7_2GB,The minimum device requirements to play MARVEL Strike Force on Android will be OS 7 and a minimum of 2 GB RAM with the upcoming Version 6.5 Release (slated for the end of October 2022). We recommend updating as soon as possible to avoid any disruptions to your playing experience.
 ID_QUICKMULTIORBOPEN_TITLE,OPEN ALL ORBS
-ID_QUICKMULTIORBOPEN_BODY_PROMPT,Automatically open <b><color=#FFFF00FF>{num_orbs}</color></b> orbs?\nIt may take a few moments for these orbs to be opened. You may stop at any time.
-ID_QUICKMULTIORBOPEN_PURCHASE_BODY_PROMPT,Automatically purchase and open <color=#FFFF00FF>{num_orbs}</color> orbs?\nCost: <color=#FFFF00FF>{costAmount}</color> x {costType}\nIt may take a few moments for these orbs to be opened. You may stop at any time.
-ID_QUICKMULTIORBOPEN_BODY_PROGRESS,"Number of orbs opened: <color=#FFFF00FF>{num_orbs}</color>/<color=#FFFFFFFF>{total_orbs}</color> "
+ID_QUICKMULTIORBOPEN_BODY_SELECT,SELECT NUMBER OF ORBS TO OPEN
+ID_QUICKMULTIORBOPEN_BODY_PROMPT,Automatically open <b><color=#FFF799>{num_orbs}</color></b> orbs?\nIt may take a few moments for these orbs to be opened. You may stop at any time.
+ID_QUICKMULTIORBOPEN_PURCHASE_BODY_PROMPT,Automatically purchase and open <color=#FFF799>{num_orbs}</color> orbs?\nCost: <color=#FFF799>{costAmount}</color> x {costType}\nIt may take a few moments for these orbs to be opened. You may stop at any time.
+ID_QUICKMULTIORBOPEN_BODY_PROGRESS,"Orbs opened: <color=#FFF799>{num_orbs}</color>/<color=#FFFFFFFF>{total_orbs}</color> "
 ID_QUICKMULTIORBOPEN_BODY_PROGRESS_PENDING,Opening {num_orbs} orbs...
 ID_QUICKMULTIORBOPEN_BODY_STOPPING,Stopping...
+ID_QUICKMULTIORBOPEN_SLIDER,OPENING A BATCH OF ORBS...
 ID_UI_EQUIP_NOW," EQUIP NOW"
 ID_UI_PLAY_NOW,PLAY NOW
 ID_PLAYERPORTRAIT_HEADING,Player Portrait Settings
