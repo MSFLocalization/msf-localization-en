@@ -9178,6 +9178,8 @@ ID_GACHA_CRATE_ALLIEDSUPPLY6_TOKEN_DESCRIPTION,"Earn Allied Supply VI Orb Fragme
 ID_BP_NA_DUALOFFER_DESCRIPTION_2_50_ARES,"Unlock Premium rewards, Helm of Ares tokens, 440 Silver Diamond Credits, 18M Gold,\n1,800 L4 Training Modules and <color=#fff568>40 Level Tokens</color>"
 ID_GACHA_CRATE_JARVIS_RECOMMENDED_NAME,J.A.R.V.I.S. Recommended Orb
 ID_GACHA_CRATE_JARVIS_RECOMMENDED_DESCRIPTION,Contains 5-50 shards of essential characters to build your roster
+ID_GACHA_CRATE_JARVIS_RECOMMENDED_TOKEN_NAME,J.A.R.V.I.S. Recommended Orb Fragments
+ID_GACHA_CRATE_JARVIS_RECOMMENDED_TOKEN_DESCRIPTION,"Contains 5-50 shards of essential characters to build your roster. Earned by growing Commanders from Daily Milestones, S.T.R.I.K.E. Pass, Level Rewards, and Special Offers!"
 ID_GACHA_CRATE_QUANTUMHANK_NAME,Quantum Hank Orb
 ID_GACHA_CRATE_QUANTUMHANK_DESCRIPTION,Contains Hank Pym
 ID_GACHA_CRATE_QUANTUMHANK_TOKEN_NAME,Quantum Hank Orb Fragments
@@ -9192,7 +9194,13 @@ ID_GACHA_CRATE_FCO_GORR_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for God Butc
 ID_GACHA_CRATE_FCO_THANOSENDGAME_SPECIAL_NAME,Perfectly Balanced Orb
 ID_GACHA_CRATE_FCO_THANOSENDGAME_SPECIAL_DESCRIPTION,Earn up to 180 Thanos (Endgame) shards
 ID_GACHA_CRATE_FCO_THANOSENDGAME_SPECIAL_TOKEN_NAME,Perfectly Balanced Orb Fragments
+ID_GACHA_CRATE_ARESRELEASE_PACK_NAME,Ares Premium Plus Pack
+ID_GACHA_CRATE_ARESRELEASE_PACK_DESCRIPTION,"Contains Helm of Ares tokens, Silver Diamond Credits, Gold, and L4 Training Modules!"
 ID_GACHA_CRATE_FCO_THANOSENDGAME_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Perfectly Balanced Orbs that contain up to 180 Thanos (Endgame) shards.
 ID_GACHA_CRATE_QUANTUMHANK_TOKEN_DESCRIPTION,Find Quantum Hank Orb Fragments in a special offer
 ID_GACHA_CRATE_JARVISRECOMMENDED_NAME,J.A.R.V.I.S. Recommended Orb
 ID_GACHA_CRATE_JARVISRECOMMENDED_DESCRIPTION,Contains 5-20 shards of essential characters to build your roster
+ID_GACHA_CRATE_MIDNIGHTCOALITION_NAME,Midnight Coalition Orb
+ID_GACHA_CRATE_MIDNIGHTCOALITION_DESCRIPTION,"Contains Dark Diamond Credits, Dark Promotion Credits and shards for Pandapool, Daken, Black Panther (Shuri) and Hank Pym!"
+ID_GACHA_CRATE_MIDNIGHTCOALITION_TOKEN_NAME,Midnight Coalition Orb Fragments
+ID_GACHA_CRATE_MIDNIGHTCOALITION_TOKEN_DESCRIPTION,"Collect fragments for orbs containing Dark Diamond Credits, Dark Promotion Credits and shards for Pandapool, Daken, Black Panther (Shuri) and Hank Pym!"

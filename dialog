@@ -9031,7 +9031,7 @@ ID_DIALOG_ECM_AGEOFX_CH1_07_END_11,"A looming darkness. A great powerful void. A
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_01_INTRO_0,"Cosmo, come in! Any luck finding our newest recruit?"
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_01_INTRO_1,"Nyet, Comrade Quill. We have been searching this sector but no luck! "
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_01_INTRO_2,I worry he is like the accursed tail that I may never catch!
-ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_01_INTRO_3,"Rocket says the tracker he built should lead you right to him. Keep looking. "
+ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_01_INTRO_3,"Rocket says the tracker he built should lead you right to him.\nKeep looking. "
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_01_INTRO_4,Tell 'em to give it a whack if it ain't workin' right!
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_01_INTRO_5,"Da, will do! "
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_01_INTRO_6,"Cosmo, my friend. I am afraid  we have enemies approaching.  "
@@ -9083,7 +9083,7 @@ ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_04_END_5,"So, just the dance moves then. Go
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_05_INTRO_0,"I return from the heart of the Empire with news. The Supreme Intelligence will do as you say. "
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_05_INTRO_1,"Oh ho ho, I can't WAIT to get my paws on a computer that FREAKIN' big!"
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_05_INTRO_2,"What plans do you have for the Supreme Intelligence? "
-ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_05_INTRO_3,"I figure one good hive-mind deserves another. We go full Van Halen's Panama, turn it up to 11. "
+ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_05_INTRO_3,"I figure one good hive-mind deserves another. We jack the big green head into the Phalanx and turn it up to 11. "
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_05_INTRO_4,"He's sayin' if we broadcast the Supreme Intelligence directly to the Phalanx, maybe it can drown Ultron out."
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_05_INTRO_5,"Hmph. This... Could work. "
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_05_INTRO_6,"Too bad none of you will live to find out. "
@@ -9104,7 +9104,7 @@ ID_DIALOG_SSE_ANNIHILATORS_GORR_01_INTRO_6,Those who wield the power of gods mus
 ID_DIALOG_SSE_ANNIHILATORS_GORR_01_INTRO_7,"You are welcome to try and end me, Gorr. But you'll find it easier said than done!"
 ID_DIALOG_SSE_ANNIHILATORS_GORR_01_START_0,You fools! You've drawn the Phalanx directly to us!
 ID_DIALOG_SSE_ANNIHILATORS_GORR_01_START_1,"We deal with them... Then we finish our fight, godling. "
-ID_DIALOG_SSE_ANNIHILATORS_GORR_01_END_0,"Now... Back to your DEATH, Beta Ray Bill!"
+ID_DIALOG_SSE_ANNIHILATORS_GORR_01_END_0,"Now... Back to your DEATH,\nBeta Ray Bill!"
 ID_DIALOG_SSE_ANNIHILATORS_GORR_01_END_1,Not aboard my ship! Not while Hala is in danger. Who are you?
 ID_DIALOG_SSE_ANNIHILATORS_GORR_01_END_2,"My name is Gorr. Though he with the Asgardian hammer would call me... The God Butcher. "
 ID_DIALOG_SSE_ANNIHILATORS_GORR_01_END_3,"I will destroy him, and then move on to the next. Until this Galaxy is free of their kind."
@@ -9143,11 +9143,11 @@ ID_DIALOG_SSE_ANNIHILATORS_GORR_05_INTRO_1,"I refuse to see Hala fall! Kree, all
 ID_DIALOG_SSE_ANNIHILATORS_GORR_05_INTRO_2,"We take back our home, now!"
 ID_DIALOG_SSE_ANNIHILATORS_GORR_05_START_0,"Step away from the Supreme Intelligence, wretches. Ultimus will not spare you. "
 ID_DIALOG_SSE_ANNIHILATORS_GORR_05_START_1,"You're an error in cosmic code, Ultimus. One we seek to rectify. "
-ID_DIALOG_SSE_ANNIHILATORS_GORR_05_END_0,"Fell our hammers fall, Eternal! "
+ID_DIALOG_SSE_ANNIHILATORS_GORR_05_END_0,"Feel our hammers fall, Eternal! "
 ID_DIALOG_SSE_ANNIHILATORS_GORR_05_END_1,ARGH!
 ID_DIALOG_SSE_ANNIHILATORS_GORR_05_END_2,"Ronan and I shall keep him busy, Ultimus.  Access the Supreme Intelligence."
 ID_DIALOG_SSE_ANNIHILATORS_GORR_05_END_3,"Supreme Intelligence! We need you now, more than ever. The fate of the galaxy rests within you. "
-ID_DIALOG_SSE_ANNIHILATORS_GORR_05_END_4,THEN THE FATE OF THE GALAXY... IS ULTRON.
+ID_DIALOG_SSE_ANNIHILATORS_GORR_05_END_4,THEN THE FATE OF THE GALAXY...\nIS ULTRON.
 ID_DIALOG_SSE_ANNIHILATORS_GORR_05_END_5,No! NO!
 ID_DIALOG_SSE_ANNIHILATORS_GORR_05_END_6,What does this mean?
 ID_DIALOG_SSE_ANNIHILATORS_GORR_05_END_7,It means that Hala has fallen. Hope is gone. We're too late.
@@ -9161,7 +9161,7 @@ ID_DIALOG_SSE_ANNIHILATORS_TEAM_01_INTRO_6,What is it?
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_01_INTRO_7,"I think I know someone who does. "
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_01_START_0,"Quill, if you're done borin' these guys to death, you might have noticed... We're UNDER ATTACK HERE!"
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_01_START_1,"I'm on my way! Gladiator, Surfer, hold the line. I have a new plan, I promise! It's great. I think."
-ID_DIALOG_SSE_ANNIHILATORS_TEAM_02_INTRO_0,"I do not approve of this plan, Peter Quill. "
+ID_DIALOG_SSE_ANNIHILATORS_TEAM_02_INTRO_0,"I do not approve of this plan,\nPeter Quill. "
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_02_INTRO_1,"I barely approve of this plan! Trust me, I would love for someone else to have a plan."
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_02_INTRO_2,"Hey, I got a GREAT plan!"
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_02_INTRO_3,"One where we all live at the end. "
@@ -9189,7 +9189,7 @@ ID_DIALOG_SSE_ANNIHILATORS_TEAM_04_INTRO_2,"Thanos. Come out of the dark. We nee
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_04_INTRO_3,The four of you must be desperate indeed...
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_04_INTRO_4,"To come here, to me, for help."
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_04_INTRO_5,"You have no idea. "
-ID_DIALOG_SSE_ANNIHILATORS_TEAM_04_INTRO_6,"You better speak quickly, Surfer. My jailers will find room for us both after this. "
+ID_DIALOG_SSE_ANNIHILATORS_TEAM_04_INTRO_6,"You better speak quickly, Surfer.\nMy jailers will find room for us both after this. "
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_04_START_0,"Back in your cell, inmate! I'm not going to ask again, there's going to be TROUBLE. "
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_04_START_1,"You think, after being held behind walls of steel, unable to unleash my fury, I wouldn't want that trouble?"
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_04_START_2,"This will be fun. "
@@ -9266,7 +9266,7 @@ ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_START_0,These mental constructs are all tha
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_START_1,"Then come, robots. Come feel fear for the first time at the sight of Thanos!"
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_0,NO! I AM A GOD! I AM EVERYTHING!
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_1,"You're a spec. Insignificant in the face of true destiny. Goodbye, Ultron."
-ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_2,NO! NOOOO1001100!
+ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_2,NO! NOOOO01001111!
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_3,"Did you guys do it?! The Phalanx is retreating and if this is Ultron messing with us I'm going to be so mad. "
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_4,"It's done, Quill. The Intelligence is free, and must have forced Ultron out. "
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_5,"Oh, thank god. And, uh, Thanos? "

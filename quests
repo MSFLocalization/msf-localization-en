@@ -4793,7 +4793,7 @@ ID_QU_LD_MIDNIGHTASSAULT,Collaborate with your alliance to battle through War an
 ID_QU_S1_MIDNIGHTASSAULT,Play 1 War Battle
 ID_QU_S2_MIDNIGHTASSAULT,Earn 1 Allied Supply VI Orb Fragment
 ID_QU_NA_PPCHILLOUT,POOL Party: Chill Out
-ID_QU_SD_PPCHILLOUT,Event Energy and collect Chimichangas
+ID_QU_SD_PPCHILLOUT,Spend Event Energy and collect Chimichangas
 ID_QU_LD_PPCHILLOUT,"POOL Party: Chill Out Milestone\nGain progress in this 7-day event by spending POOL Party AND Age of X event energy, and collecting Chimichangas from Daily Missions. Earn fantastic rewards including Mutant Gear, Ability Materials, Promotion Credits, Training Modules, extra POOL Party Orbs, and Mega Gold Orbs.\n\nPOOL Party Orb\nEarned from POOL Party Milestone Events, Login Rewards, and more! Contains a smorgasbord of character shards from this year's team debuts and a generous seasoning of gear and classic POOL Pal character Shards!"
 ID_QU_S1_PPCHILLOUT,Spend 1 POOL Party Event Energy
 ID_QU_S2_PPCHILLOUT,Spend 1 Age of X Energy
@@ -4817,3 +4817,17 @@ ID_QU_NA_SUBATOMICGROOVE,Subatomic Groove
 ID_QU_SD_SUBATOMICGROOVE,Earn Alliance Credits
 ID_QU_LD_SUBATOMICGROOVE,"Earn Alliance Credits and get rewarded with Disco Balls, and Quantum Disco milestone progress."
 ID_QU_S1_SUBATOMICGROOVE,Earn 1 Alliance Credit
+ID_QU_NA_DIAMONDCLAWS,Diamond Claws
+ID_QU_SD_DIAMONDCLAWS,"Battle in Crucible, Spend Energy & Power Cores, Earn Orbs"
+ID_QU_LD_DIAMONDCLAWS,"Diamond Claws Milestone\nGain progress in this 7-day event by battling in Cosmic Crucible, spending Campaign Energy and Power Cores, completing the Ancient Gems Milestones and earning Midnight Coalition Orb Fragments from Free Claims, the Ancient Gems Milestone and special Offers. \n\nEarn fantastic rewards including T3 and T2 Iso-8 Materials, Training Modules and Crimson gear. You'll also earn points towards the month-long Summer Nights milestone by collecting Disco Balls and the DJ Deadpool Mixtape.\n\nMidnight Coalition Orb\nContains Dark Dark Diamond Credits, Dark Promotion Credits and Pandapool, Daken, Black Panther (Shuri) and Hank Pym shards.\n\nDiamond Claws Leaderboard\nCompete on the Leaderboards for T3 Iso-8 Materials and the long-awaited Diamond Promotions for Old Man Logan!\n\nAncient Gems Web Milestone\nSpend Incursion Energy or earn Blitz Credits to earn Midnight Coalition Orb Fragments and Diamond Claws Milestone progress!"
+ID_QU_SM_DIAMONDCLAWS,"Battle in Crucible, Spend Energy & Power Cores, Earn Orbs"
+ID_QU_S1_DIAMONDCLAWS,Battle in Cosmic Crucible
+ID_QU_S2_DIAMONDCLAWS,Spend Campaign Energy
+ID_QU_S3_DIAMONDCLAWS,Spend Power Cores
+ID_QU_S4_DIAMONDCLAWS,"Earn Midnight Coalition Orb Fragments from Free Claims, the Ancient Gems Milestone and special Offers"
+ID_QU_S5_DIAMONDCLAWS,Earn milestone points from the Ancient Gems Milestone and special Offers
+ID_QU_NA_ANCIENTGEMS,Ancient Gems
+ID_QU_SD_ANCIENTGEMS,Spend Incursion Energy and earn Blitz Credits
+ID_QU_LD_ANCIENTGEMS,Spend Incursion Energy and earn Blitz Credits to complete this milestone that rewards Midnight Coalition Orbs and Diamond Claws milestone progress!
+ID_QU_S1_ANCIENTGEMS,Spend 1 Incursion Energy
+ID_QU_S2_ANCIENTGEMS,Earn 1 Blitz Credit
