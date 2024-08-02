@@ -4808,7 +4808,7 @@ ID_QU_DE_QUANTUMDISCO,Earn T3 Support Iso-8 Orb Fragments and T3 Level 1 Ions
 ID_QU_LD_QUANTUMDISCO,"Quantum Disco Milestone\nGain progress in this event by spending Iso-8 Campaign energy and battling in War with a bonus for using Old Man Logan. Earn rewards including Hank Pym shards, T3 Support Iso-8 Orb Fragments, T3 Level 1 Ions, and a chance at Armory 19 Orb Fragments. You'll also earn points towards the month-long Summer Nights milestone by collecting Disco Balls and a Photon Projector.\n\nSubatomic Groove Web Milestone\nEarn Alliance Credits in the Subatomic Groove event to get Milestone Points for Quantum Hank Orb Fragments and additional progress in the Quantum Disco Milestone. Keep an eye out for Free Claims containing Quantum Disco Milestone Points every day!"
 ID_QU_SD_QUANTUMDISCO,Battle in War and Iso-8 Campaign
 ID_QU_S1_QUANTUMDISCO,Spend 1 Iso-8 Campaign Energy
-ID_QU_S2_QUANTUMDISCO,Earn Quantum Hank Orb Fragments
+ID_QU_S2_QUANTUMDISCO,Open Quantum Hank Orb
 ID_QU_S3_QUANTUMDISCO,Play 1 War Battle
 ID_QU_S4_QUANTUMDISCO,Battle in War with Old Man Logan
 ID_QU_S5_QUANTUMDISCO,Battle in War with Old Man Logan at 6 Yellow Star
@@ -4831,3 +4831,8 @@ ID_QU_SD_ANCIENTGEMS,Spend Incursion Energy and earn Blitz Credits
 ID_QU_LD_ANCIENTGEMS,Spend Incursion Energy and earn Blitz Credits to complete this milestone that rewards Midnight Coalition Orbs and Diamond Claws milestone progress!
 ID_QU_S1_ANCIENTGEMS,Spend 1 Incursion Energy
 ID_QU_S2_ANCIENTGEMS,Earn 1 Blitz Credit
+ID_QU_NA_ISOTOPEILLUMINATION,Isotope Illumination
+ID_QU_SD_ISOTOPEILLUMINATION,Spend Iso-8 Campaign Energy for illuminating rewards!
+ID_QU_LD_ISOTOPEILLUMINATION,Gain progress in this event by battling in Iso Campaign and earning Allied Supply VI Orb fragments from daily Free Claims and special offers.
+ID_QU_S1_ISOTOPEILLUMINATION,Spend 1 Iso-8 Campaign Energy
+ID_QU_S2_ISOTOPEILLUMINATION,Earn 1 Allied Supply VI Orb Fragment

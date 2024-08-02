@@ -8981,10 +8981,10 @@ ID_DIALOG_ECM_AGEOFX_CH1_05_INTRO_0,Focus on the thread. On the name Charles. Te
 ID_DIALOG_ECM_AGEOFX_CH1_05_INTRO_1,I sense... Great frustration... Disappointment...
 ID_DIALOG_ECM_AGEOFX_CH1_05_INTRO_2,"But also something else. "
 ID_DIALOG_ECM_AGEOFX_CH1_05_INTRO_3,"Frustration and disappointment. Are you sure you aren't thinking of us? "
-ID_DIALOG_ECM_AGEOFX_CH1_05_START_0,"Those may as well have been the names you gave us in the Brotherhood. "
-ID_DIALOG_ECM_AGEOFX_CH1_05_START_1,Now he has no choice. He can't ignore us. Not for the few moments he has left!
-ID_DIALOG_ECM_AGEOFX_CH1_05_START_2,"No... My children. Please, I can't face these specters. "
-ID_DIALOG_ECM_AGEOFX_CH1_05_START_3,"Sorry, father. It's time you answered to the next generation. "
+ID_DIALOG_ECM_AGEOFX_CH1_05_INTRO_4,"Those may as well have been the names you gave us in the Brotherhood. "
+ID_DIALOG_ECM_AGEOFX_CH1_05_INTRO_5,Now he has no choice. He can't ignore us. Not for the few moments he has left!
+ID_DIALOG_ECM_AGEOFX_CH1_05_START_0,"No... My children. Please, I can't face these specters. "
+ID_DIALOG_ECM_AGEOFX_CH1_05_START_1,"Sorry, father. It's time you answered to the next generation. "
 ID_DIALOG_ECM_AGEOFX_CH1_05_END_0,Do you know how hard it was to try and live up to your expectations?
 ID_DIALOG_ECM_AGEOFX_CH1_05_END_1,Of you disapproving or coddling us?
 ID_DIALOG_ECM_AGEOFX_CH1_05_END_2,"Outright disowning us? Stand and fight, old man. "
@@ -9001,7 +9001,7 @@ ID_DIALOG_ECM_AGEOFX_CH1_06_INTRO_4,Not from you... For you! For everything!
 ID_DIALOG_ECM_AGEOFX_CH1_06_INTRO_5,Greetings... Herr Magnus.
 ID_DIALOG_ECM_AGEOFX_CH1_06_START_0,Hydra! And not just a few of 'em! A whole dang legion!
 ID_DIALOG_ECM_AGEOFX_CH1_06_START_1,"My first taste of what humanity could do to we mutants if left unchecked. "
-ID_DIALOG_ECM_AGEOFX_CH1_06_START_2,I've spent my life fight them. I will not let them take space in my mind any longer!
+ID_DIALOG_ECM_AGEOFX_CH1_06_START_2,I've spent my life fighting them. I will not let them take space in my mind any longer!
 ID_DIALOG_ECM_AGEOFX_CH1_06_END_0,"Take your evil, and be gone from my soul, Skull!"
 ID_DIALOG_ECM_AGEOFX_CH1_06_END_1,AAAAAAAAARGH!
 ID_DIALOG_ECM_AGEOFX_CH1_06_END_2,*CRASH*
@@ -9012,22 +9012,22 @@ ID_DIALOG_ECM_AGEOFX_CH1_06_END_6,Which is why I will never stop fighting.
 ID_DIALOG_ECM_AGEOFX_CH1_07_INTRO_0,The psychic trail leads here... A giant metal vault.
 ID_DIALOG_ECM_AGEOFX_CH1_07_INTRO_1,"Not particularly subtle, darling. "
 ID_DIALOG_ECM_AGEOFX_CH1_07_INTRO_2,What better place to store my greatest secrets and fears that in a vessel I have complete control over?
-ID_DIALOG_ECM_AGEOFX_CH1_07_START_0,"Your answers may lay inside. But if it is truly guarded by my deepest fear, we will face an opponent I've never defeated. "
-ID_DIALOG_ECM_AGEOFX_CH1_07_START_1,Oh yeah? Who's that?
-ID_DIALOG_ECM_AGEOFX_CH1_07_START_2,Myself.
-ID_DIALOG_ECM_AGEOFX_CH1_07_START_3,"YOU. You have held us back for too long with your morals, and your pity. You're weak. "
-ID_DIALOG_ECM_AGEOFX_CH1_07_END_0,"I shall destroy you, and we will achieve our destiny - the complete extinction of humanity!"
-ID_DIALOG_ECM_AGEOFX_CH1_07_END_1,"I said I do not value hatred... But that doesn't mean I don't sometimes indulge in it. "
-ID_DIALOG_ECM_AGEOFX_CH1_07_END_2,Humanity has done so much... Taken so much... My darkest fear is I forgo my soul in exchange for revenge.
-ID_DIALOG_ECM_AGEOFX_CH1_07_END_3,That I become no better than them.
-ID_DIALOG_ECM_AGEOFX_CH1_07_END_4,"Now, do you find what you seek? Can we be gone from this place?"
-ID_DIALOG_ECM_AGEOFX_CH1_07_END_5,"You said, when focusing on the name Charles, you felt something else. Can you feel that again?"
-ID_DIALOG_ECM_AGEOFX_CH1_07_END_6,"I feel not just frustration, but kinship. Respect. And beyond that... Love."
-ID_DIALOG_ECM_AGEOFX_CH1_07_END_7,Wait... There... I've found it... It's... AHH!
-ID_DIALOG_ECM_AGEOFX_CH1_07_END_8,Jeanie! What'd you see?
-ID_DIALOG_ECM_AGEOFX_CH1_07_END_9,"Whoever altered your mind, Erik. Your helmet must have made it more difficult than expected. "
-ID_DIALOG_ECM_AGEOFX_CH1_07_END_10,"They accidentally left a sign of their meddling where your memories of Charles were. "
-ID_DIALOG_ECM_AGEOFX_CH1_07_END_11,"A looming darkness. A great powerful void. Almost... A shadow. "
+ID_DIALOG_ECM_AGEOFX_CH1_07_INTRO_3,"Your answers may lay inside. But if it is truly guarded by my deepest fear, we will face an opponent I've never defeated. "
+ID_DIALOG_ECM_AGEOFX_CH1_07_INTRO_4,Oh yeah? Who's that?
+ID_DIALOG_ECM_AGEOFX_CH1_07_INTRO_5,Myself.
+ID_DIALOG_ECM_AGEOFX_CH1_07_START_0,"YOU. You have held us back for too long with your morals, and your pity. You're weak. "
+ID_DIALOG_ECM_AGEOFX_CH1_07_START_1,"I shall destroy you, and we will achieve our destiny - the complete extinction of humanity!"
+ID_DIALOG_ECM_AGEOFX_CH1_07_END_0,"I said I do not value hatred... But that doesn't mean I don't sometimes indulge in it. "
+ID_DIALOG_ECM_AGEOFX_CH1_07_END_1,Humanity has done so much... Taken so much... My darkest fear is I forgo my soul in exchange for revenge.
+ID_DIALOG_ECM_AGEOFX_CH1_07_END_2,That I become no better than them.
+ID_DIALOG_ECM_AGEOFX_CH1_07_END_3,"Now, do you find what you seek? Can we be gone from this place?"
+ID_DIALOG_ECM_AGEOFX_CH1_07_END_4,"You said, when focusing on the name Charles, you felt something else. Can you feel that again?"
+ID_DIALOG_ECM_AGEOFX_CH1_07_END_5,"I feel not just frustration, but kinship. Respect. And beyond that... Love."
+ID_DIALOG_ECM_AGEOFX_CH1_07_END_6,Wait... There... I've found it... It's... AHH!
+ID_DIALOG_ECM_AGEOFX_CH1_07_END_7,Jeanie! What'd you see?
+ID_DIALOG_ECM_AGEOFX_CH1_07_END_8,"Whoever altered your mind, Erik. Your helmet must have made it more difficult than expected. "
+ID_DIALOG_ECM_AGEOFX_CH1_07_END_9,"They accidentally left a sign of their meddling where your memories of Charles were. "
+ID_DIALOG_ECM_AGEOFX_CH1_07_END_10,"A looming darkness. A great powerful void. Almost... A shadow. "
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_01_INTRO_0,"Cosmo, come in! Any luck finding our newest recruit?"
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_01_INTRO_1,"Nyet, Comrade Quill. We have been searching this sector but no luck! "
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_01_INTRO_2,I worry he is like the accursed tail that I may never catch!
@@ -9048,7 +9048,7 @@ ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_01_END_4,"I have faced the Phalanx before. 
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_01_END_5,"You can only stand against them for so long, Gladiator. Something about the Phalanx has changed. "
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_01_END_6,Their hive-mind is being controlled by a new leader. Someone known as... Ultron.
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_02_INTRO_0,"Cosmo, did you find him? Put me on speakerphone, or whatever your shuttle has. Space speaker? "
-ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_02_INTRO_1,"Star Lord. I do not deign to converse with Terran pirates. "
+ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_02_INTRO_1,"Star-Lord. I do not deign to converse with Terran pirates. "
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_02_INTRO_2,"Wow, you've heard of me?! Gladiator's heard of me. "
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_02_INTRO_3,"Speak quickly. "
 ID_DIALOG_SSE_ANNIHILATORS_GLADIATOR_02_INTRO_4,"Right. An artificial intelligence from Earth known as Ultron ended up in the Phalanx. "
@@ -9216,9 +9216,9 @@ ID_DIALOG_SSE_ANNIHILATORS_TEAM_05_END_2,"This universe is worth saving. They al
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_05_END_3,And yet you compromised everything in order to get my aid!
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_05_END_4,"I'm glad to help you Surfer. Now I get to see the tarnish up close. "
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_01_INTRO_0,"Wow, uh. You did it. Great. Thanos is here. "
-ID_DIALOG_SSE_ANNIHILATORS_THANOS_01_INTRO_1,"Wasn't this all part of your very good plan, Star Lord? "
+ID_DIALOG_SSE_ANNIHILATORS_THANOS_01_INTRO_1,"Wasn't this all part of your very good plan, Star-Lord? "
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_01_INTRO_2,"Usually people don't listen to me. I'm still getting used to this. "
-ID_DIALOG_SSE_ANNIHILATORS_THANOS_01_INTRO_3,Peter Quill. The Star Lord. Do you want to know how I killed you on my world?
+ID_DIALOG_SSE_ANNIHILATORS_THANOS_01_INTRO_3,Peter Quill. The Star-Lord. Do you want to know how I killed you on my world?
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_01_INTRO_4,I think I'm good.
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_01_INTRO_5,"Oooh, I'd like to know!"
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_01_INTRO_6,"OKAY, the plan part two! Get this big purple people eater to Hala. "
@@ -9228,10 +9228,10 @@ ID_DIALOG_SSE_ANNIHILATORS_THANOS_01_START_1,"The fight begins in earnest, Thano
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_01_START_2,"I'm more than ready, Surfer. I am inevitable. "
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_02_INTRO_0,"Hey, battle genius! You got a plan for this Kree fleet Ultron's got blockading the planet?"
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_02_INTRO_1,"Yeah, you're going to love it. It's called ""Big Boom""! "
-ID_DIALOG_SSE_ANNIHILATORS_THANOS_02_INTRO_2,"Resistance fleet, this is Star Lord! Open fire!"
+ID_DIALOG_SSE_ANNIHILATORS_THANOS_02_INTRO_2,"Resistance fleet, this is Star-Lord! Open fire!"
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_02_INTRO_3,*BOOM!*
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_02_INTRO_4,"We punched a hole for you, Surfer! Get to the Supreme Intelligence before they regroup!"
-ID_DIALOG_SSE_ANNIHILATORS_THANOS_02_START_0,Star Lord! We are through the blockade and on Hala! Hooray!
+ID_DIALOG_SSE_ANNIHILATORS_THANOS_02_START_0,Star-Lord! We are through the blockade and on Hala! Hooray!
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_02_START_1,Stormbreaker and I have had smoother landings...
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_02_START_2,Landing is easy. It's surviving that you'll find impossible!
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_02_END_0,"They keep coming. Even the power cosmic has its limits. We must end this conflict, now."
@@ -9265,14 +9265,14 @@ ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_INTRO_4,"IT NEEDS NOTHING. IT IS ULTRON. AN
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_START_0,These mental constructs are all that stand in the way. Defeat them and we can force Ultron from the Intelligence.
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_START_1,"Then come, robots. Come feel fear for the first time at the sight of Thanos!"
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_0,NO! I AM A GOD! I AM EVERYTHING!
-ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_1,"You're a spec. Insignificant in the face of true destiny. Goodbye, Ultron."
+ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_1,"You're a speck, insignificant in the face of true destiny. Goodbye, Ultron."
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_2,NO! NOOOO01001111!
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_3,"Did you guys do it?! The Phalanx is retreating and if this is Ultron messing with us I'm going to be so mad. "
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_4,"It's done, Quill. The Intelligence is free, and must have forced Ultron out. "
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_5,"Oh, thank god. And, uh, Thanos? "
-ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_6,"Gone. I must pursue him, whatever his plans... I'm responsible. But you saved us, Star Lord. Be pleased."
+ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_6,"Gone. I must pursue him, whatever his plans... I'm responsible. But you saved us, Star-Lord. Be pleased."
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_7,"Yes. A Terran saved us. But a Terran threat almost wiped out the entire galaxy. "
-ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_8,"This must be reported to the Empire. Know this, Star Lord. There will be consequences. "
+ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_8,"This must be reported to the Empire. Know this, Star-Lord. There will be consequences. "
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
