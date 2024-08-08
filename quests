@@ -4800,7 +4800,7 @@ ID_QU_S2_PPCHILLOUT,Spend 1 Mind of Magneto Event Energy
 ID_QU_S3_PPCHILLOUT,Collect 1 Chimichanga from Daily Rewards
 ID_QU_NA_PPDRYOFF,POOL Party: Dry Off
 ID_QU_SD_PPDRYOFF,Spend POOL Party Event Energy and Battle with POOL Pals
-ID_QU_LD_PPDRYOFF,"POOL Party: Dry Off Milestone\nGain progress in this 7-day event by spending POOL Party event energy and battling with Deadpool and his POOL Pals in a number of features including Raids, Arena, Blitz, Cosmic Crucible, and Alliance War. Earn fantastic rewards including Bio Gear, Ability Materials, Promotion Credits, Training Modules, the NicePool costume and the POOL Portrait avatar frame.\n\nPOOL Party Orb\nEarned from POOL Party Milestone Events, Login Rewards, and more! Contains a smorgasbord of character shards from this year's team debuts and a generous seasoning of gear and classic POOL Pal character Shards!"
+ID_QU_LD_PPDRYOFF,"POOL Party: Dry Off Milestone\nGain progress in this 7-day event by spending POOL Party event energy and battling with Deadpool and his POOL Pals in a number of features including Raids, Arena, Blitz, Cosmic Crucible, and Alliance War. Earn fantastic rewards including Bio Gear, Ability Materials, Promotion Credits, Training Modules, the Hotpool costume and the POOL Portrait avatar frame.\n\nPOOL Party Orb\nEarned from POOL Party Milestone Events, Login Rewards, and more! Contains a smorgasbord of character shards from this year's team debuts and a generous seasoning of gear and classic POOL Pal character Shards!"
 ID_QU_S1_PPDRYOFF,Spend 1 POOL Party Event Energy
 ID_QU_S2_PPDRYOFF,Battle with 1 POOL Pal
 ID_QU_NA_QUANTUMDISCO,Quantum Disco
@@ -4856,4 +4856,11 @@ ID_QU_S3_GLADIATORWEEKEND,Battle in Arena with Ultimas at 3 Yellow Star
 ID_QU_S4_GLADIATORWEEKEND,Battle in Arena with Gladiator at 5 Yellow Star
 ID_QU_S5_GLADIATORWEEKEND,Battle in Arena with Gladiator at 6 Yellow Star
 ID_QU_S6_GLADIATORWEEKEND,Battle in Arena with Gladiator at 7 Yellow Star
-ID_QU_S7_GLADIATORWEEKEND,Earn 1 Weekend Arena Warrior Milestone Point
+ID_QU_S7_GLADIATORWEEKEND,Battle in Arena with Gladiator
+ID_QU_SD_REGULARITY,"Spend Campaign Energy, Battle in Raids, Blitz and War"
+ID_QU_LD_REGULARITY,"Spend Campaign Energy, Battle in Raids, Blitz and War to complete this milestone. Get your login streak back and enjoy the game in an easy way."
+ID_QU_S1_REGULARITY,Spend Campaign Energy
+ID_QU_S2_REGULARITY,Spend Iso-8 Campaign Energy
+ID_QU_S3_REGULARITY,Battle in Raids
+ID_QU_S4_REGULARITY,Battle in Blitz
+ID_QU_S5_REGULARITY,Battle in War
