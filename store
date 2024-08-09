@@ -9208,3 +9208,7 @@ ID_GACHA_CRATE_ANNIHILATORS_NAME,Gladiator Annihilator Orb
 ID_GACHA_CRATE_ANNIHILATORS_DESCRIPTION,Earn progress in the Gladiator's Expedition Milestone to collect more Gladiator Shards!
 ID_GACHA_CRATE_ANNIHILATORS_TOKEN_NAME,Gladiator Annihilator Orb Fragments
 ID_GACHA_CRATE_ANNIHILATORS_TOKEN_DESCRIPTION,"Find Gladiator Annihilator Orb Fragments in arena, events, and offers!"
+ID_GACHA_CRATE_TEAMORB_GORR_NAME,Gorr Annihilator Orb
+ID_GACHA_CRATE_TEAMORB_GORR_DESCRIPTION,Earn progress in the Gorr's Hunt Milestone to collect more Gorr Shards!
+ID_GACHA_CRATE_TEAMORB_GORR_TOKEN_NAME,Gorr Annihilator Orb Fragments
+ID_GACHA_CRATE_TEAMORB_GORR_TOKEN_DESCRIPTION,"Find Gorr Annihilator Orb Fragments in arena, events, and offers!"

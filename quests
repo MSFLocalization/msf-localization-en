@@ -4849,10 +4849,10 @@ ID_QU_S2_SPLASH_INFINITYCOMMAND,Win Blitz with a 5-star or higher Black Order Ch
 ID_QU_S3_SPLASH_INFINITYCOMMAND,Win Blitz with a 7-star Black Order Character
 ID_QU_NA_GLADIATORWEEKEND,Weekend Arena Warriors
 ID_QU_SD_GLADIATORWEEKEND,Get Captain Britain's Awakened Ability and Annihilator orbs!
-ID_QU_LD_GLADIATORWEEKEND,"Weekend Arena Warriors Milestone\nEarn arena credits by climbing arena rankings and complete daily objective. Get more progress by battling in arena with Annhilators. Receive guaranteed additional Gladiator Annihilator Orbs and Captain Britain Awakened Ability Avalon Strike! Find Gladiator Annihilator Orb Fragments in arena, events, and offers!"
+ID_QU_LD_GLADIATORWEEKEND,"Weekend Arena Warriors Milestone\nEarn progress by battling in Arena with a bonus for using Annihilators. Receive guaranteed additional Gladiator Annihilator Orbs and Captain Britain Awakened Ability Avalon Strike! Find Gladiator Annihilator Orb Fragments in arena, events, and offers!"
 ID_QU_S1_GLADIATORWEEKEND,Earn 1 Arena Credit
 ID_QU_S2_GLADIATORWEEKEND,Battle in Arena with Silver Surfer at 3 Yellow Star
-ID_QU_S3_GLADIATORWEEKEND,Battle in Arena with Ultimas at 3 Yellow Star
+ID_QU_S3_GLADIATORWEEKEND,Battle in Arena with Ultimus at 3 Yellow Star
 ID_QU_S4_GLADIATORWEEKEND,Battle in Arena with Gladiator at 5 Yellow Star
 ID_QU_S5_GLADIATORWEEKEND,Battle in Arena with Gladiator at 6 Yellow Star
 ID_QU_S6_GLADIATORWEEKEND,Battle in Arena with Gladiator at 7 Yellow Star
@@ -4864,3 +4864,7 @@ ID_QU_S2_REGULARITY,Spend Iso-8 Campaign Energy
 ID_QU_S3_REGULARITY,Battle in Raids
 ID_QU_S4_REGULARITY,Battle in Blitz
 ID_QU_S5_REGULARITY,Battle in War
+ID_QU_NA_TEAMORB_GORR,Gorr's Hunt
+ID_QU_SD_TEAMORB_GORR,Get additional shards for Gorr!
+ID_QU_LD_TEAMORB_GORR,"Gorr's Hunt Milestone\nOpen Gorr Annihilator Orbs to earn progress and receive guaranteed additional Gorr shards! Find Gorr Annihilator Orb Fragments in arena, events, and offers!"
+ID_QU_S1_TEAMORB_GORR,Open 1 Gorr Annihilator Orb

@@ -2592,7 +2592,10 @@ ID_INFO_DE_GLADIATORORB,Get additional shards for Gladiator!
 ID_INFO_BO_GLADIATORORB,<color=#fff568>Gladiator's Expedition Milestone</color>\nOpen Gladiator Annihilator Orbs to earn progress and receive guaranteed additional Gladiator shards!
 ID_INFO_NA_GLADIATORWEEKEND,Weekend Arena Warriors
 ID_INFO_DE_GLADIATORWEEKEND,Get Captain Britain's Awakened Ability and Annihilator orbs!
-ID_INFO_BO_GLADIATORWEEKEND,"<color=#fff568>Weekend Arena Warriors Milestone</color>\nEarn arena credits by climbing arena rankings and complete daily objective. Get more progress by battling in arena with Annhilators. Receive guaranteed additional Gladiator Annihilator Orbs and Captain Britain Awakened Ability Avalon Strike! Find Gladiator Annihilator Orb Fragments in arena, events, and offers!"
+ID_INFO_BO_GLADIATORWEEKEND,"<color=#fff568>Weekend Arena Warriors Milestone</color>\nEarn progress by battling in Arena with a bonus for using Annihilators. Receive guaranteed additional Gladiator Annihilator Orbs and Captain Britain Awakened Ability Avalon Strike! Find Gladiator Annihilator Orb Fragments in arena, events, and offers!"
 ID_INFO_NA_REGULARITY,Streak Surge
 ID_INFO_DE_REGULARITY,Earn 7-Day Login Streak!
 ID_INFO_BO_REGULARITY,"<color=#fff568>Streak Surge Milestone</color>\nLost your streak? Don't panic, let's get back on track by completing this event!!"
+ID_INFO_NA_TEAMORB_GORR,Gorr's Hunt
+ID_INFO_DE_TEAMORB_GORR,Get additional shards for Gorr!
+ID_INFO_BO_TEAMORB_GORR,"<color=#fff568>Gorr's Hunt Milestone</color>\nOpen Gorr Annihilator Orbs to earn progress and receive guaranteed additional Gorr shards! Find Gorr Annihilator Orb Fragments in arena, events, and offers!"
