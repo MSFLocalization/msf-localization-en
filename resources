@@ -369,4 +369,221 @@ ID_EVTA_META_APR_G_NAME,Atomic Fallout Milestone Point
 ID_EVTA_META_APR_G_DESCRIPTION,These points earn you additional progress in the Atomic Fallout Milestone. Earn them in limited time offers and the Hunker Down Milestone!
 ID_EVTA_META_APR_H_NAME,Slick Outbreak Milestone Points
 ID_EVTA_META_APR_H_DESCRIPTION,These points earn you additional progress in the Slick Outbreak Milestone. Earn them in limited offers and in the Rise of the Bees Web Milestone!
-ID_EVTA_META_APR_I_NAME,Earthlings Needed Milestone Poin
+ID_EVTA_META_APR_I_NAME,Earthlings Needed Milestone Points
+ID_EVTA_META_APR_I_DESCRIPTION,These points earn you additional progress in the Earthlings Needed Milestone. Earn them in limited offers and in the Revenge of the Blitz Web Milestone!
+ID_EVTA_META_MAY_A_NAME,Mission Supplies
+ID_EVTA_META_MAY_A_DESCRIPTION,Collect Mission Supplies for points in the M is for Mercs Event. Earn them in various events throughout the month of May
+ID_EVTA_META_MAY_B_NAME,Mercenary Contract
+ID_EVTA_META_MAY_B_DESCRIPTION,Collect the Mercenary Contract for points in the M is for Mercs Event. Earn it in various events throughout the month of May!
+ID_EVTA_META_MAY_C_NAME,All That Glitters Milestone Points
+ID_EVTA_META_MAY_C_DESCRIPTION,"These points earn you additional progress in the All That Glitters Milestone. Earn them in the Golden Blitz, Daily Free Claims on our website, the Stashed Cache Web Milestone, and limited offers!"
+ID_EVTA_META_MAY_D_NAME,Along Came a SP//dr Milestone Points
+ID_EVTA_META_MAY_D_DESCRIPTION,"These points earn you additional progress in the Along Came a SP//dr Milestone. Earn them in Daily Free Claims on our website, the After School Projects Web Milestone, and limited offers!"
+ID_EVTA_META_MAY_E_NAME,Red in Tooth and Claw Milestone Points
+ID_EVTA_META_MAY_E_DESCRIPTION,These points earn you additional progress in the Red in Tooth and Claw Milestone. Earn them in the Adamantium Power Web Milestone and Special Offers!
+ID_EVTA_META_MAY_F_NAME,Black White and Red All Over Milestone Points
+ID_EVTA_META_MAY_F_DESCRIPTION,These points earn you additional progress in the Black White and Red All Over Milestone. Earn them in the Sinister Strike Web Milestone and special Offers!
+ID_RES_NA_STANDPROUDTOGETHER,"Stand Proud, Together Milestone Point"
+ID_RES_DE_STANDPROUDTOGETHER,"These points earn you additional progress in the Stand Proud, Together Milestone. Earn them in Daily Free Claims on our website and/or limited offers!"
+ID_RES_NA_WEREINTHISTOGETHER,We're In This Together Premium Milestone
+ID_RES_DE_WEREINTHISTOGETHER,"Unlock the We're In This Together Premium Milestone from this purchase. Donate to your Alliance and/or Spend Campaign Energy to earn rewards like: 6 Red Star Nico Minoru, Elite 4 & 5 Credits, Proud Character Shards, and 1 Million Gold!"
+ID_RES_NA_HITTHELIGHTS,Hit The Lights Milestone Point
+ID_RES_DE_HITTHELIGHTS,These points earn you additional progress in the Hit The Lights Milestone. Earn them in Daily Free Claims on our website and/or limited offers!
+ID_RES_NA_RESETCHARGE,Reset Charge
+ID_RES_DE_RESETCHARGE,Collect Reset Charges for points in the TVA Agent Event. Earn them in various events throughout the month of August. Take Reset Charges to the TVA Gift Shop to obtain TVA Gift Cards
+ID_RES_NA_TVAGIFTSHOP,TVA Gift Shop
+ID_RES_DE_TVAGIFTSHOP,Spend TVA Gift Cards at the TVA Gift Shop. Only for a limited time
+ID_RES_NA_TVAGIFTCARD,TVA Gift Card
+ID_RES_DE_TVAGIFTCARD,Earn TVA Gift Cards from Reset Charge Orbs and Daily Free Claims on our webstite. Spend TVA Gift Cards in the TVA Gift Shop
+ID_RES_NA_VORMIR2301,Vormir : 2301 Milestone Point
+ID_RES_DE_VORMIR2301,These points earn you additional progress in the Vormir : 2301 Milestone. Earn them in Daily Free Claims on our website and/or limited offers!
+ID_ASGARD2004_NAME,Asgard : 2004 Milestone Points
+ID_BARICHARA1808_NAME,Barichara : 1808 Milestone Points
+ID_HALA0051_NAME,Hala : 0051 Milestone Points
+ID_EGO1382_NAME,Ego : 1382 Milestone Points
+ID_ASGARD2004_DESC,"These points earn you additional progress in the Asgard : 2004 Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_BARICHARA1808_DESC,"These points earn you additional progress in the Barichara : 1808 Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_HALA0051_DESC,"These points earn you additional progress in the Hala : 0051 Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EGO1382_DESC,"These points earn you additional progress in the Ego : 1382 Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EVTA_META_SEP_A_NAME,Tarot Card
+ID_EVTA_META_SEP_A_DESCRIPTION,Collect Tarot Cards for points in the Secret Sorcery Event. Earn them in various events throughout the month of September.
+ID_EVTA_META_SEP_B_NAME,Scroll of the Vishanti
+ID_EVTA_META_SEP_B_DESCRIPTION,Collect the Scroll of the Vishanti for points in the Secret Sorcery Event. Earn it in the Paranormal Preparation Event.
+ID_EVTA_META_SEP_C_NAME,Ronin Divination Spell
+ID_EVTA_META_SEP_C_DESCRIPTION,Collect the Ronin Divination Spell for points in the Secret Sorcery Event. Earn it in the Strange Divination: Ronin Event.
+ID_EVTA_META_SEP_D_NAME,Ronin's Avengers Contract
+ID_EVTA_META_SEP_D_DESCRIPTION,Collect Ronin's Avengers Contract for points in the Secret Sorcery Event. Earn it in the Recruiting Ronin Event.
+ID_EVTA_META_SEP_E_NAME,Mockingbird Divination Spell
+ID_EVTA_META_SEP_E_DESCRIPTION,Collect the Mockingbird Divination Spell for points in the Secret Sorcery Event. Earn it in the Strange Divination: Mockingbird Event.
+ID_EVTA_META_SEP_F_NAME,Mockingbird's Avengers Contract
+ID_EVTA_META_SEP_F_DESCRIPTION,Collect Mockingbird's Avengers Contract for points in the Secret Sorcery Event. Earn it in the Recruiting Mockingbird Event.
+ID_EVTA_META_OCT_A_NAME,Cat's Head Amulet
+ID_EVTA_META_OCT_A_DESCRIPTION,Collect Cat's Head Amulets for points in the Night of the Were-Tigress Event. Earn them in various events throughout the month of October
+ID_EVTA_META_OCT_B_NAME,Beast Glove
+ID_EVTA_META_OCT_B_DESCRIPTION,Collect the Beast Glove for points in the Night of the Were-Tigress Event. Earn it in the Dark Defenders Event!
+ID_EVTA_META_OCT_C_NAME,Trophy Necklace
+ID_EVTA_META_OCT_C_DESCRIPTION,Collect the Trophy Necklace for points in the Night of the Were-Tigress Event. Earn it in the Vengeful Spirits Event!
+ID_EVTA_META_OCT_D_NAME,Chaos Claw
+ID_EVTA_META_OCT_D_DESCRIPTION,Collect the Chaos Claw for points in the Night of the Were-Tigress Event. Earn it in the Spectral Emporium Event!
+ID_EVTA_META_OCT_E_NAME,Jungle Jacket
+ID_EVTA_META_OCT_E_DESCRIPTION,Collect the Jungle Jacket for points in the Night of the Were-Tigress Event. Earn it in the Technology Terror Event!
+ID_EVTA_META_OCT_F_NAME,Fanged Anklet
+ID_EVTA_META_OCT_F_DESCRIPTION,Collect the Fanged Anklet for points in the Night of the Were-Tigress Event. Earn it in the Fight or Flight Event!
+ID_EVTA_META_OCT_G_NAME,Cat Suit
+ID_EVTA_META_OCT_G_DESCRIPTION,Collect the Cat Suit for points in the Night of the Were-Tigress Event. Earn it in the Unkillable Force Event!
+ID_EVTA_META_NOV_A_NAME,Vibranium Slab
+ID_EVTA_META_NOV_A_DESCRIPTION,Collect Vibranium Slabs for points in the Reverse-Engineer Event. Earn them in various events throughout the month of November
+ID_EVTA_META_NOV_B_NAME,Stark Grant Check
+ID_EVTA_META_NOV_B_DESCRIPTION,Collect the Stark Grant Check for points in the Reverse-Engineer Event. Earn it in the Patent Pending Event!
+ID_EVTA_META_NOV_C_NAME,Wireframe Blueprint
+ID_EVTA_META_NOV_C_DESCRIPTION,Collect the Wireframe Blueprint for points in the Reverse-Engineer Event. Earn it in the Back to Formula Event!
+ID_EVTA_META_NOV_D_NAME,Jet Engine Parts
+ID_EVTA_META_NOV_D_DESCRIPTION,Collect the Jet Engine Parts for points in the Reverse-Engineer Event. Earn them in the Animal Armature Event!
+ID_EVTA_META_NOV_E_NAME,Arc Reactor MKII
+ID_EVTA_META_NOV_E_DESCRIPTION,Collect Arc Reactor MKII for points in the Reverse-Engineer Event. Earn it in the Stark Grant Event!
+ID_EVTA_META_NOV_F_NAME,Indestructible Paint
+ID_EVTA_META_NOV_F_DESCRIPTION,Collect Indestructible Paint for points in the Reverse-Engineer Event. Earn it in the Weapons Online Event!
+ID_PATENTPENDING_NAME,Patent Pending Milestone Points
+ID_PATENTPENDING_DESC,"These points earn you additional progress in the Patent Pending Milestone. Earn them in the Eureka Moment Web Milestone, Daily Free Claims on our website, and limited offers!"
+ID_BACKTOFORMULA_NAME,Back to Formula Milestone Points
+ID_BACKTOFORMULA_DESC,"These points earn you additional progress in the Back to Formula Milestone. Earn them in the Ruthless Ambition Web Milestone, Daily Free Claims on our website, and limited offers!"
+ID_STARKGRANT_NAME,Stark Grant Milestone Points
+ID_STARKGRANT_DESC,"These points earn you additional progress in the Stark Grant Milestone. Earn them in the State of the Art Web Milestone, Daily Free Claims on our website, and limited offers!"
+ID_ANIMALARMATURE_NAME,Animal Armature Milestone Points
+ID_ANIMALARMATURE_DESC,"These points earn you additional progress in the Animal Armature Milestone. Earn them in the Big Armor Hunter Web Milestone, Daily Free Claims on our website, and limited offers!"
+ID_WEAPONSONLINE_NAME,Weapons Online Milestone Points
+ID_WEAPONSONLINE_DESC,"These points earn you additional progress in the Weapons Online Milestone. Earn them in the Eureka Moment Web Milestone, Daily Free Claims on our website, and limited offers!"
+ID_EVTA_META_DEV_A_NAME,Spectacular Snowflakes
+ID_EVTA_META_DEV_A_DESCRIPTION,Collect Spectacular Snowflakes for points in the Frozen Festival Event. Earn them in events and offers throughout December!
+ID_EVTA_META_DEV_B_NAME,Spider-Scarf
+ID_EVTA_META_DEV_B_DESCRIPTION,Collect the Spider-Scarf for points in the Frozen Festival Event. Earn it in the Snowy Spider Spectacle event!
+ID_EVTA_META_DEV_C_NAME,Sled Pool
+ID_EVTA_META_DEV_C_DESCRIPTION,Collect Sled Pool for points in the Frozen Festival Event. Earn it in the X-Force Frostbite event!
+ID_EVTA_META_DEV_D_NAME,Superior Sweater
+ID_EVTA_META_DEV_D_DESCRIPTION,Collect the Superior Sweater for points in the Frozen Festival Event. Earn it in the Sinister Snowstorm event!
+ID_EVTA_META_DEV_E_NAME,Uncanny X-Cap
+ID_EVTA_META_DEV_E_DESCRIPTION,Collect the Uncanny X-Cap for points in the Frozen Festival Event. Earn it in the Frosty Family Gathering event!
+ID_EVTA_META_DEV_F_NAME,Ruby Snow Goggles
+ID_EVTA_META_DEV_F_DESCRIPTION,Collect the Ruby Snow Goggles for points in the Frozen Festival Event. Earn it in the Icy X-Travaganza event!
+ID_RES_NA_RACETOTHETOP,Race to the Top Milestone Point
+ID_RES_DE_RACETOTHETOP,These points earn you additional progress in the Race to the Top Milestone. Earn them in Daily Free Claims on our website and/or limited offers!
+ID_EVENT_HEARTCANDY_NAME,Heart Candy
+ID_EVENT_HEARTCANDY_DESC,"Collect Heart Candy to spend in the Candy Shop Event Store. Earn them from Campaign nodes, Daily Free Claims on our website, and in special offers!"
+ID_EVENT_CANDYSHOP_NAME,Candy Shop
+ID_EVENT_CANDYSHOP_DESC,Spend Heart Candy at the Candy Shop. Only for a limited time.
+ID_EVTA_META_MAR_V_NAME,Anniversary Coin
+ID_EVTA_META_MAR_V_DESCRIPTION,"Collect Anniversary Coins for points in the 2,192 Days of S.T.R.I.K.E. Event. Earn them in Daily Objectives!"
+ID_EVTA_META_MAR_W_NAME,Hero's Mask
+ID_EVTA_META_MAR_W_DESCRIPTION,Collect Hero's Mask for points in the Sixth Anniversary Event. Earn it in the We Stand Together Event!
+ID_EVTA_META_MAR_X_NAME,Infernal Contract
+ID_EVTA_META_MAR_X_DESCRIPTION,Collect the Infernal Contract for points in the Sixth Anniversary Event. Earn it in the Well May You Tremble Event!
+ID_EVTA_META_MAR_Y_NAME,Kestrel's Helmet
+ID_EVTA_META_MAR_Y_DESCRIPTION,Collect the Kestrel's Helmet for points in the Sixth Anniversary Event. Earn it in the Legacy of S.T.R.I.K.E. Event!
+ID_EVTA_META_MAR_Z_NAME,Nick Fury's Eyepatch
+ID_EVTA_META_MAR_Z_DESCRIPTION,"Collect the Nick Fury's Eyepatch for points in the Sixth Anniversary Event. Earn it in the 2,192 Days of S.T.R.I.K.E. Event!"
+ID_EVTA_META_APR_J_NAME,Golden Hour Milestone Points
+ID_EVTA_META_APR_J_DESCRIPTION,These points earn you additional progress in the Golden Hour Milestone. Earn them in limited offers!
+ID_EVTA_META_APR_K_NAME,Rise of the Planet Milestone Points
+ID_EVTA_META_APR_K_DESCRIPTION,These points earn you additional progress in the Rise of the Planet Milestone. Earn them in limited offers and in the Peace and Love Web Milestone!
+ID_EVTA_META_MAY_G_NAME,Mystic Mercenary Milestone Points
+ID_EVTA_META_MAY_G_DESCRIPTION,These points earn you additional progress in the Mystic Mercenary Milestone. Earn them in the Running Rampant Web Milestone and Special Offers!
+ID_EVTA_META_JUN_N_NAME,Sins of the Father Milestone Point
+ID_EVTA_META_JUN_N_DESCRIPTION,These points earn you additional progress in the Sins of the Father Milestone. Earn them in limited time offers and the In His Shadow Milestone!
+ID_EVTA_META_JUN_A_NAME,Dog Tags
+ID_EVTA_META_JUN_A_DESCRIPTION,Collect Dog Tags for points in the Homeward Bound Event. Earn them in various events throughout the month of June
+ID_EVTA_META_JUN_B_NAME,Weapon X Helmet
+ID_EVTA_META_JUN_B_DESCRIPTION,Collect the Weapon X Helmet for points in the Homeward Bound Event. Earn it in the Sins of the Father Event!
+ID_EVTA_META_JUN_C_NAME,Cracked Picture Frame
+ID_EVTA_META_JUN_C_DESCRIPTION,Collect the Cracked Picture Frame for points in the Homeward Bound Event. Earn it in the The Great White North Event!
+ID_EVTA_META_JUN_D_NAME,Empty Root Beer Bottle
+ID_EVTA_META_JUN_D_DESCRIPTION,Collect the Empty Root Beer Bottle for points in the Homeward Bound Event. Earn it in the Guiding Light Event!
+ID_EVTA_META_JUN_E_NAME,Pickup Truck Keys
+ID_EVTA_META_JUN_E_DESCRIPTION,Collect the Pickup Truck Keys for points in the Homeward Bound Event. Earn it in the On Guard for Thee Event!
+ID_EVTA_META_JUN_O_NAME,The Great White North Milestone Points
+ID_EVTA_META_JUN_O_DESCRIPTION,These points earn you additional progress in The Great White NOrth Milestone. Earn them in limited time offers and the Winter In June Milestone!
+ID_EVTA_META_JUN_P_NAME,Whiteout Milestone Points
+ID_EVTA_META_JUN_P_DESCRIPTION,These points earn you additional progress in the Whiteout Milestone. Earn them in limited offers!
+ID_EVENT_CUR13_NAME,Allied Supply V Orb Fragments
+ID_EVENT_CUR13_DESCRIPTION,"Open Allied Supply V Orbs to get Gold, Training Materials, T2 Level 5 Ion Orb Fragments and more!"
+ID_EVTA_META_JUN_F_NAME,Red Pride Stone
+ID_EVTA_META_JUN_F_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_G_NAME,Yellow Pride Stone
+ID_EVTA_META_JUN_G_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_H_NAME,Green Pride Stone
+ID_EVTA_META_JUN_H_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_I_NAME,Black Pride Stone
+ID_EVTA_META_JUN_I_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_J_NAME,Teal Pride Stone
+ID_EVTA_META_JUN_J_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_K_NAME,Blue Pride Stone
+ID_EVTA_META_JUN_K_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_L_NAME,Purple Pride Stone
+ID_EVTA_META_JUN_L_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_M_NAME,Pink Pride Stone
+ID_EVTA_META_JUN_M_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVENT_CUR14_NAME,Coming Out Orb Fragments
+ID_EVENT_CUR14_DESCRIPTION,"Earn new LGBTQ+ Character Shards, Gold, and Training Modules!"
+ID_EVENT_CUR15_NAME,Raid Champions Orb Fragment
+ID_EVENT_CUR15_DESCRIPTION,Earn shards for top Raid characters!
+ID_EVTA_META_JUN_Q_NAME,Shining Star Milestone Points
+ID_EVTA_META_JUN_Q_DESCRIPTION,These points earn you additional progress in the Shining Star Milestone. Earn them in limited offers!
+ID_EVTA_META_JUN_R_NAME,Guiding Light Milestone Point
+ID_EVTA_META_JUN_R_DESCRIPTION,These points earn you additional progress in the Guiding Light Milestone. Earn them in the Wayfinder Web Milestone and special Offers!
+ID_EVTA_META_JUN_Z_NAME,Take Flight: Guardian Milestone Point
+ID_EVTA_META_JUN_Z_DESCRIPTION,Gain additional progress in the Take Flight: Guardian Milestone. Earn them in limited time Guardian offers!
+ID_EVTA_META_JUN_S_NAME,On Guard For Thee Milestone Points
+ID_EVTA_META_JUN_S_DESCRIPTION,These points earn you additional progress in the On Guard For Thee Milestone. Earn them in the Glorious And Free Web Milestone and special Offers!
+ID_EVENT_CUR18_NAME,Am-Can Orb Fragment
+ID_EVENT_CUR18_DESCRIPTION,"Collect to progress in the On Guard For Thee milestone, and open Am-Can Orbs to earn Guardian shards!"
+ID_BFYB-CUR_NAME,Strike Points
+ID_BFYB-CUR_DESCRIPTION,Strike Points can be used to make purchases in the Strike Store section of the Store
+ID_EVTA_META_JUN_Y_NAME,Take Flight: Sasquatch Milestone Point
+ID_EVTA_META_JUN_Y_DESCRIPTION,Gain additional progress in the Take Flight: Sasquatch Milestone. Earn them in limited time Sasquatch offers!
+ID_EVTA_META_JUN_T_NAME,From Far and Wide Milestone Point
+ID_EVTA_META_JUN_T_DESCRIPTION,These points earn you additional progress in the From Far and Wide Milestone. Earn them in Spotlight Raids and special Offers!
+ID_EVTA_META_JUL_A_NAME,Lab Supplies
+ID_EVTA_META_JUL_A_DESCRIPTION,Collect Lab Supplies for points in the Wilderness Expedition Event. Earn them in various events throughout the month of July
+ID_EVTA_META_JUL_B_NAME,Map Fragment #1
+ID_EVTA_META_JUL_B_DESCRIPTION,Collect the Map Fragment #1 for points in the Wilderness Expedition Event. Earn it in the Mapping the Wilderness Event!
+ID_EVTA_META_JUL_C_NAME,Map Fragment #2
+ID_EVTA_META_JUL_C_DESCRIPTION,Collect the Map Fragment #2 for points in the Wilderness Expedition Event. Earn it in the Summer Camp Discovery Event!
+ID_EVTA_META_JUL_D_NAME,Map Fragment #3
+ID_EVTA_META_JUL_D_DESCRIPTION,Collect the Map Fragment #3 for points in the Wilderness Expedition Event. Earn it in the The Guardian of the Camp Event!
+ID_EVTA_META_JUL_E_NAME,Mapping the Wilderness Milestone Points
+ID_EVTA_META_JUL_E_DESCRIPTION,These points earn you additional progress in the Mapping the Wilderness Milestone. Earn them in the Scientific Breakthrough Web Milestone and Special Offers!
+ID_EVTA_META_JUL_F_NAME,Summer Camp Discovery Milestone Points
+ID_EVTA_META_JUL_F_DESCRIPTION,These points earn you additional progress in the Summer Camp Discovery Milestone. Earn them in the Internal Tensions Web Milestone and Special Offers!
+ID_EVTA_META_JUL_H_NAME,Captain Britain's Shield
+ID_EVTA_META_JUL_H_DESCRIPTION,Collect this symbol of British valour three times to unlock Captain Britain himself!
+ID_EVTA_META_JUL_G_NAME,The Guardian of the Camp Milestone Points
+ID_EVTA_META_JUL_G_DESCRIPTION,These points earn you additional progress in the The Guardian of the Camp Milestone. Earn them in the The Beast Within Web Milestone and Special Offers!
+ID_EVENT_CUR5_NAME,POOLside Chimichanga
+ID_EVENT_CUR5_DESCRIPTION,Collect these iconic snacks for points at Deadpool's POOL Party
+ID_EVTA_META_JUL_I_NAME,Machines for Money Milestone Points
+ID_EVTA_META_JUL_I_DESCRIPTION,These points earn you additional progress in the Machines for Money Milestone. Earn them in Special Offers!
+ID_EVTA_META_AUG_A_NAME,Disco Ball
+ID_EVTA_META_AUG_A_DESCRIPTION,Collect Disco Balls for points in the Summer Nights Event. Earn them in various events throughout the months of July & August
+ID_EVTA_META_AUG_B_NAME,Party Mask
+ID_EVTA_META_AUG_B_DESCRIPTION,Collect the Party Mask for points in the Summer Nights Event. Earn it in the Adamantium Is Forever Event!
+ID_EVTA_META_AUG_C_NAME,Iso-8 Soda
+ID_EVTA_META_AUG_C_DESCRIPTION,Collect the Iso-8 Soda for points in the Summer Nights Event. Earn it in the Radioactive Prep Event!
+ID_EVTA_META_AUG_D_NAME,Photon Projector
+ID_EVTA_META_AUG_D_DESCRIPTION,Collect the Photon Projector for points in the Summer Nights Event. Earn it in the Quantum Disco Event!
+ID_EVTA_META_AUG_E_NAME,DJ Deadpool Mixtape
+ID_EVTA_META_AUG_E_DESCRIPTION,Collect the DJ Deadpool Mixtape for points in the Summer Nights Event. Earn it in the Diamond Claws Event!
+ID_EVTA_META_AUG_F_NAME,Adamantium Is Forever Milestone Points
+ID_EVTA_META_AUG_F_DESCRIPTION,These points earn you additional progress in the Adamantium Is Forever Milestone. Earn them in the Diamond Dazzle Web Milestone and Special Offers!
+ID_EVTA_META_AUG_G_NAME,Radioactive Prep Milestone Points
+ID_EVTA_META_AUG_G_DESCRIPTION,These points earn you additional progress in the Radioactive Prep Milestone. Earn them in the Purple Punch Web Milestone and Special Offers!
+ID_EVTA_META_AUG_H_NAME,Quantum Disco Milestone Points
+ID_EVTA_META_AUG_H_DESCRIPTION,These points earn you additional progress in the Quantum Disco Milestone. Earn them in the Subatomic Groove Web Milestone and Special Offers!
+ID_EVTA_META_AUG_J_NAME,Twilight Expeditions Milestone Points
+ID_EVTA_META_AUG_J_DESCRIPTION,These points earn you additional progress in the Twilight Expeditions Milestone. Earn them in Special Offers!
+ID_EVTA_META_AUG_K_NAME," Midnight Assault Milestone Points"
+ID_EVTA_META_AUG_K_DESCRIPTION,These points earn you additional progress in the Midnight Assault Milestone. Earn them in Special Offers!
+ID_EVTA_META_AUG_L_NAME," Isotope Illumination Milestone Points"
+ID_EVTA_META_AUG_L_DESCRIPTION,These points earn you additional progress in the Isotope Illumination Milestone. Earn them in Special Offers!
+ID_EVTA_META_AUG_N_NAME,Weekend Arena Warriors Milestone Point
+ID_EVTA_META_AUG_N_DESCRIPTION,Earn Progress in the Weekend Arena Warriors Milestone
+ID_EVTA_META_AUG_I_NAME,Diamond Claws Milestone Points
+ID_EVTA_META_AUG_I_DESCRIPTION,These points earn you additional progress in the Diamond Claws Milestone. Earn them in Special Offers!
