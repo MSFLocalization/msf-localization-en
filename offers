@@ -9833,7 +9833,7 @@ ID_OF_DE_JARVIS_ORB_DROP,Give your roster a boost! Each orb has a chance of <col
 ID_OF_NA_JARVIS_ORB_BUNDLE,J.A.R.V.I.S. Recommended Orb Bundle
 ID_OF_DE_JARVIS_ORB_BUNDLE,Take advantage of this cache of Orbs to strengthen the core of your roster. Orbs contain <color=#fff568>up to 50 shards</color> of 50 characters hand picked by J.A.R.V.I.S.!
 ID_OF_NA_ANNIHILATORS24_TRAIN_GOLD_A18_A17_T2L5,Annihilators Boost Up
-ID_OF_NA_ANNIHILATORS24_SILVERSURFER,Silverwaves Surfer
+ID_OF_NA_ANNIHILATORS24_SILVERSURFER,Silver Surfer
 ID_OF_NA_ANNIHILATORS24_A19_TRAIN_GOLD,Annihilators Crimson Power Up
 ID_OF_NA_ANNIHILATORS24_CRIMSON_UNIQUES,Annihilators Crimson Uniques
 ID_OF_NA_ANNIHILATORS24_GLADIATOR,Gladiator Praetor's Might
@@ -9859,7 +9859,7 @@ ID_OF_NA_ANNIHILATORS24_FULL_TEAM_TRAIN,Annihilators Team Pack
 ID_OF_NA_ANNIHILATORS24_THANOSEG_E7_DPC,Thanos Power Up
 ID_OF_NA_ANNIHILATORS24_THANOSEG_A19,Thanos's Crimson Fur
 ID_OF_DE_ANNIHILATORS24_TRAIN_GOLD_A18_A17_T2L5,Boost up your <color=#fff568>Annihilators</color> team's power to unlock all their Showcase Event's difficulties and earn maximum rewards!
-ID_OF_DE_ANNIHILATORS24_SILVERSURFER,"Empower the newly updated Annihilators member, <color=#fff568>SilverSurfer</color>, with this special offer today!"
+ID_OF_DE_ANNIHILATORS24_SILVERSURFER,"Empower the newly updated Annihilators member, <color=#fff568>Silver Surfer</color>, with this special offer today!"
 ID_OF_DE_ANNIHILATORS24_A19_TRAIN_GOLD,Boost up your <color=#fff568>Annihilators</color> team's power to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ANNIHILATORS24_CRIMSON_UNIQUES,Gear up your <color=#fff568>Annihilators</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ANNIHILATORS24_GLADIATOR,"Empower the newly updated Annihilators member, <color=#fff568>Gladiator</color>, with this special offer today!"
@@ -9878,9 +9878,9 @@ ID_OF_DE_ANNIHILATORS24_GORTHEGB_A19,Improve your <color=#fff568>Gorr</color> to
 ID_OF_DE_ANNIHILATORS24_GLADIATOR_GORTHEGB_TRAIN,Prepare your <color=#fff568>Gladiator & Gorr</color> to conquer all the difficulties in their Showcase Event!
 ID_OF_DE_ANNIHILATORS24_GLADIATOR_GORTHEGB_A19_TRAIN,Train and level up <color=#ffda21>Gladiator & Gorr</color> with this great deal. <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_ANNIHILATORS24_GORTHEGB_TRAIN_DPC,Max out <color=#ffda21>Gorr</color> and equip them with the finest gear! <color=#ffda21>A {var1}x value</color>!
-ID_OF_DE_ANNIHILATORS24_GLADIATOR_GORTHEGB_GOLD,Power up your <color=#fff568>Gladiator & Gorr</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ANNIHILATORS24_GLADIATOR_GORTHEGB_GOLD,Power up your <color=#fff568>Gladiator & Gorr</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ANNIHILATORS24_THANOSEG_CRIMSONORIGIN,Max out <color=#ffda21>Thanos</color> and equip them with the finest gear! <color=#ffda21>A {var1}x value</color>!
-ID_OF_DE_ANNIHILATORS24_THANOSEG,"Empower the newly updated Annihilators member, <color=#fff568>Thanos(Endgame)</color>, with this special offer today!"
+ID_OF_DE_ANNIHILATORS24_THANOSEG,"Empower the newly updated Annihilators member, <color=#fff568>Thanos (Endgame)</color>, with this special offer today!"
 ID_OF_DE_ANNIHILATORS24_FULL_TEAM_TRAIN,Recruit your entire <color=#fff568>Annihilators</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ANNIHILATORS24_THANOSEG_E7_DPC,Power up your <color=#fff568>Thanos</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ANNIHILATORS24_THANOSEG_A19,Rank up your <color=#fff568>Thanos</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
