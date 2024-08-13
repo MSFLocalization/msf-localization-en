@@ -409,3 +409,14 @@ ID_RAIDS_SPOTLIGHT_DETAILS,Collaborate with your alliance to earn Ability Materi
 ID_RAIDS_SPOTLIGHTMAIN_DETAILS,Collaborate with your alliance to earn Ability Materials and Crimson Gear!
 ID_MISSION_RAID_SPOTLIGHT_BLANK_DESC,
 ID_RAIDS_SPOTLIGHTI_DESC,Earn Crimson Gear
+ID_RAIDS_ORCHIS_NAME,Orchis Raids
+ID_RAIDS_ORCHIS_DESC,Earn Crimson Gear
+ID_RAIDS_ORCHISMAIN_DETAILS,Coordinate with your alliance to infiltrate and take down the Orchis Forge!
+ID_RAIDS_ORCHIS_COMBAT_MODS_NAME_PLURAL,Combat Mods
+ID_MISSION_RAID_ORCHIS_BLANK_DESC,
+ID_RAIDS_ORCHIS_EASY_NAME,Raid on Orchis
+ID_RAIDS_ORCHIS_EASY_DESC,Earn Crimson Gear
+ID_RAIDS_ORCHIS_EASY_DETAILS,Coordinate with your alliance to infiltrate and take down the Orchis Forge\nRecommendations:\n- Squad Lvl 85+\n- Gear Tier 16+\n- Red Stars 4+\n- Iso-8 Class T2 Level 3+
+ID_RAIDS_ORCHIS_HARD_NAME,Raid on Orchis (Omega)
+ID_RAIDS_ORCHIS_HARD_DESC,Earn More Crimson Gear
+ID_RAIDS_ORCHIS_HARD_DETAILS,"This version of the Forge has more nodes for your alliance to take on, so extra collaboration is key.\nRecommendations:\n- Squad Lvl 85+\n- Gear Tier 16+\n- Red Stars 4+\n- Iso-8 Class T2 Level 3+"

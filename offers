@@ -9903,5 +9903,55 @@ ID_OF_DE_THS_TEAM_OFFER_GOLDTRAINING,Exclusively for Time Heist Players! Power u
 ID_OF_DE_THS_TEAM_OFFER_GOLDTRAINING2,Exclusively for Time Heist Players! Power up your roster for tough Campaign missions with this Gold and Training Modules bundle!
 ID_OF_NA_TEAMORB_GORR_DAILY,Gorr's Hunt Orb Special
 ID_OF_NA_TEAMORB_GORR_DAILY2,Gorr's Hunt Orb Special Thank You!
-ID_OF_DE_TEAMORB_GORR_DAILY,Bring your crew together with this limited time orb special featuring Gladiator! Open for progress in the Gorr's Hunt event!
-ID_OF_DE_TEAMORB_GORR_DAILY2,Bring your crew together with this limited time orb special featuring Gladiator! Open for progress in the Gorr's Hunt event!
+ID_OF_DE_TEAMORB_GORR_DAILY,Bring your crew together with this limited time orb special featuring Gladiator and Gorr! Open for progress in the Gorr's Hunt event!
+ID_OF_DE_TEAMORB_GORR_DAILY2,Bring your crew together with this limited time orb special featuring Gladiator and Gorr! Open for progress in the Gorr's Hunt event!
+ID_OF_NA_ANNIHILATORINITIATIVE_STARTER_MEGA,Universal Starter
+ID_OF_NA_ANNIHILATORINITIATIVE_STARTER_SUPER,Galactic Starter
+ID_OF_NA_ANNIHILATORINITIATIVE_STARTER,Cosmic Starter
+ID_OF_NA_ANNIHILATORINITIATIVE_BOOSTER_ANCHOR,Daily Rotation
+ID_OF_NA_ANNIHILATORINITIATIVE_MEGA,Mega Supplies
+ID_OF_DE_ANNIHILATORINITIATIVE_STARTER_MEGA,"Stock up on <color=#fff568>Annihilator Initiative</color> progress and exclusive items, and get ahead on the Annihilator Initiative Leaderboard for a chance at <color=#fff568>Gorr the God Butcher Diamonds</color> and <color=#fff568>Diamond Champions III Orbs</color>!"
+ID_OF_DE_ANNIHILATORINITIATIVE_STARTER_SUPER,Get ahead in the <color=#fff568>Annihilator Initiative</color> milestone and fast-forward your way to the <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>Annihilator Team Orbs</color>!
+ID_OF_DE_ANNIHILATORINITIATIVE_STARTER,Start off strong in the <color=#fff568>Annihilator Initiative</color> milestone!
+ID_OF_DE_ANNIHILATORINITIATIVE_BOOSTER_ANCHOR,Make consistent <color=#fff568>Annihilator Initiative</color> progress with this daily <color=#fff568>Cosmic Power</color> drop!
+ID_OF_DE_ANNIHILATORINITIATIVE_MEGA,Stock up on <color=#fff568>Annihilator Initiative event progress</color> and <color=#fff568>Mega Orbs</color> with this special deal!
+ID_OF_NA_ANNIHILATORINITIATIVE_LEGACY,Cosmic Legacy
+ID_OF_NA_ANNIHILATORINITIATIVE_SHARDS,Recruitment Special
+ID_OF_NA_ANNIHILATORINITIATIVE_GOLD,Golden Asteroid
+ID_OF_DE_ANNIHILATORINITIATIVE_LEGACY,Stock up on <color=#fff568>Annihilator Initiative event progress</color> and <color=#fff568>Legacy Orbs</color> with this special deal!
+ID_OF_DE_ANNIHILATORINITIATIVE_SHARDS,Stock up on <color=#fff568>Annihilator Initiative event progress</color> and <color=#fff568>character shards</color> with this special deal!
+ID_OF_DE_ANNIHILATORINITIATIVE_GOLD,Stock up on <color=#fff568>Annihilator Initiative event progress</color> and <color=#fff568>Gold</color> with this special deal!
+ID_OF_NA_ANNIHILATORINITIATIVE_CATS,Event Catalysts
+ID_OF_DE_ANNIHILATORINITIATIVE_CATS,Stock up on <color=#fff568>Annihilator Initiative event progress</color> and <color=#fff568>Catalyst Parts</color> with this special deal!
+ID_OF_NA_ANNIHILATORINITIATIVE_DPC,Dark Secrets
+ID_OF_NA_ANNIHILATORINITIATIVE_TRAINING,New Heights
+ID_OF_DE_ANNIHILATORINITIATIVE_DPC,Stock up on <color=#fff568>Annihilator Initiative event progress</color> and <color=#fff568>Dark Promotion Credits</color> with this special deal!
+ID_OF_DE_ANNIHILATORINITIATIVE_TRAINING,Stock up on <color=#fff568>Annihilator Initiative event progress</color> and <color=#fff568>Training Modules</color> with this special deal!
+ID_OF_NA_ANNIHILATORINITIATIVE_AB,Cosmic Abilities
+ID_OF_DE_ANNIHILATORINITIATIVE_AB,Stock up on <color=#fff568>Annihilator Initiative event progress</color> and <color=#fff568>Ability Materials</color> with this special deal!
+ID_OF_NA_ANNIHILATORINITIATIVE_CATCHUP_MEGA,Universal Catch-Up
+ID_OF_NA_ANNIHILATORINITIATIVE_CATCHUP_SUPER,Galactic Catch-Up
+ID_OF_NA_ANNIHILATORINITIATIVE_CATCHUP_LAST_CHANCE,Cosmic Catch-Up
+ID_OF_DE_ANNIHILATORINITIATIVE_CATCHUP_MEGA,Finish strong in the milestones and leaderboards for a chance at <color=#fff568>Gorr the God Butcher Diamonds</color> and <color=#fff568>Diamond Champions III Orbs</color>!
+ID_OF_DE_ANNIHILATORINITIATIVE_CATCHUP_SUPER,Finish strong in the milestones and leaderboards for a chance at <color=#fff568>Gorr the God Butcher Diamonds</color> and <color=#fff568>Diamond Champions III Orbs</color>!
+ID_OF_DE_ANNIHILATORINITIATIVE_CATCHUP_LAST_CHANCE,Catch this deal before it's too late to earn your final <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>Annihilator Team Orbs</color>!
+ID_OF_NA_ANNIHILATORINITIATIVE_FREEDAILY,Annihilator Initiative: Free Claim
+ID_OF_DE_ANNIHILATORINITIATIVE_FREEDAILY,Come back daily for more <color=#fff568>Annihilator Initiative</color> progress!
+ID_OF_NA_COSMICTHREAT_STARTER,Cosmic Threat: Starter
+ID_OF_DE_COSMICTHREAT_STARTER,Get ahead in the <color=#fff568>Cosmic Threat</color> Milestone and start making your way toward <color=#fff568>T3 Iso-8 Crystals and Ions</color> and <color=#fff568>Crimson Mystic Gear</color>!
+ID_OF_NA_COSMICTHREAT_CATCHUP,Cosmic Threat: Catch-up
+ID_OF_DE_COSMICTHREAT_CATCHUP,Finish strong in the <color=#fff568>Cosmic Threat</color> Milestone to earn <color=#fff568>T3 Iso-8 Crystals and Ions</color> and <color=#fff568>Crimson Mystic Gear</color>!
+ID_OF_NA_COSMICTHREAT_WEB_SPECIAL,Cosmic Threat: Web Special
+ID_OF_NA_COSMICTHREAT_ORB_SPECIAL,Cosmic Threat: Orb Special
+ID_OF_NA_COSMICTHREAT_DAILY_ORB,Cosmic Threat: Daily Orb
+ID_OF_DE_COSMICTHREAT_WEB_SPECIAL,Rise to the challenge with this Cosmic Threat special web bundle!
+ID_OF_DE_COSMICTHREAT_ORB_SPECIAL,"One time special! Open the Gleaming Gold Orb and earn the Golden Black Knight Costume, Gold, and Radioactive Treats!"
+ID_OF_DE_COSMICTHREAT_DAILY_ORB,Make progress in the Cosmic Threat milestone by collecting more <color=#fff568>Illumination Orb Fragments</color> to exchange for amazing rewards!
+ID_OF_NA_COSMICTHREAT_DAILY_POINTS,Cosmic Threat: Daily Points
+ID_OF_NA_COSMICTHREAT_DAILY_ENERGY,Cosmic Threat: Daily Energy
+ID_OF_DE_COSMICTHREAT_DAILY_POINTS,Get ahead in the <color=#fff568>Cosmic Threat</color> Leaderboards and earn <color=#fff568>T3 Iso-8 Crystals and Ions</color> and <color=#fff568>Crimson Mystic Gear</color>!
+ID_OF_DE_COSMICTHREAT_DAILY_ENERGY,Get your daily dose of Campaign Energy for progress in the Cosmic Threat milestone and earn <color=#fff568>T3 Iso-8 Crystals and Ions</color> and <color=#fff568>Crimson Mystic Gear</color>!
+ID_OF_NA_COSMICTHREAT_DAILY_INTERSTITIAL,Cosmic Threat: Hidden Treasure
+ID_OF_NA_COSMICTHREAT_DAILY_FREE_CLAIM,Cosmic Threat: Free Claim
+ID_OF_DE_COSMICTHREAT_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Cosmic Threat</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_COSMICTHREAT_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Cosmic Threat</color> progress!

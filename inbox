@@ -9505,9 +9505,18 @@ ID_ME_BO_JARVIS_RECOMMENDED_ORB_LC,"Greetings Commander,\n\nI've curated some Or
 ID_ME_NA_JARVIS_RECOMMENDED_ORB_LAUNCH,J.A.R.V.I.S. Recommended Orbs
 ID_ME_DE_JARVIS_RECOMMENDED_ORB_LAUNCH,At Your Service
 ID_ME_BO_JARVIS_RECOMMENDED_ORB_LAUNCH,"Greetings Commander,\n\nI have taken the liberty of sharing a small supply of the new J.A.R.V.I.S. Recommended Orb. It contains some essential characters for newer Commanders that seasoned Commanders will find useful as well. You can find more in the Supplies Store and Special Offers.\n\nBest of Luck,\n-J.A.R.V.I.S."
+ID_ME_NA_THEANNIHILATORINITIATIVE_TEASER,Coming Soon: The Annihilator Initiative
+ID_ME_DE_THEANNIHILATORINITIATIVE_TEASER,Earn marvelous August rewards!
+ID_ME_BO_THEANNIHILATORINITIATIVE_TEASER,"Commander,\n\nTransform your roster with the upcoming <color=#fff568>Annihilator Initiative</color> Event!\n\nParticipate in select August events to earn spectacular rewards:\n\n- Diamond Orbs\n- Augmented Bio Gear\n- Gold\n- T2 Iso-8 Orbs\n- Augmented Catalyst Parts\n\nAND, carve out a space on the Leaderboard for a chance at exclusive Diamonds for Gorr the God Butcher!\n\nMore details are on the way, so be on the lookout!"
+ID_ME_NA_THEANNIHILATORINITIATIVE_ANNOUNCE,LIVE: The Annihilator Initiative
+ID_ME_DE_THEANNIHILATORINITIATIVE_ANNOUNCE,Earn marvelous rewards throughout August!
+ID_ME_BO_THEANNIHILATORINITIATIVE_ANNOUNCE,"Commander,\n\nEarn marvelous rewards by participating in August events:\n\n<color=#fff568>Events</color>\nThroughout the month of August there will be separate milestone events that earn points toward The Annihilator Initiative Event. The first is live now!\n\n<color=#fff568>Points</color>\nEarn points by collecting <color=#fff568>Cosmic Power</color> and <color=#fff568>Plandanium Armor, Twilight Sword, and Quantum Bands</color> from August events. You can find more Cosmic Power in Daily Free Claims on our website.\n\n<color=#fff568>Leaderboard</color>\nCompete on the Leaderboard for exclusive <color=#fff568>3 Diamonds for Gorr the God Butcher, Diamond Champions II Orbs</color>, T2 Level 5 Ions and Armory 18 Orbs!\n\nGood luck, Commander!"
+ID_ME_NA_THEANNIHILATORINITIATIVE_ENDING,Ending Soon: The Annihilator Initiative
+ID_ME_DE_THEANNIHILATORINITIATIVE_ENDING,3 days left to earn rewards!
+ID_ME_BO_THEANNIHILATORINITIATIVE_ENDING,"Commander,\n\n<color=#fff568>The Annihilator Initiative</color> Event ends in <color=#fff568>3 days</color>. Continue earning progress toward the milestone before it's too late!\n\nGood luck, Commander!"
 ID_ME_NA_TEAMORB_GORR_TEASER,Coming Soon: Gorr's Hunt
 ID_ME_DE_TEAMORB_GORR_CORE,Get additional shards for Gorr!
-ID_ME_BO_TEAMORB_GORR_CORE,"Commander,\n\nGorr's time to shine is here!\n\n<color=#fff568>Gorr's Hunt Milestone</color>\nOpen Gorr Annihilator Orb Orbs and receive guaranteed additional shards! Find Gorr Annihilator Orb Fragments in arena, events, and offers!\n\nGood luck, Commander!"
+ID_ME_BO_TEAMORB_GORR_CORE,"Commander,\n\nGorr's time to shine is here!\n\n<color=#fff568>Gorr's Hunt Milestone</color>\nOpen Gorr Annihilator Orbs and receive guaranteed additional shards! Find Gorr Annihilator Orb Fragments in arena, events, and offers!\n\nGood luck, Commander!"
 ID_ME_NA_TEAMORB_GORR_ANNOUNCE,LIVE: Gorr's Hunt
 ID_ME_NA_TEAMORB_GORR_ENDING,Ending Soon: Gorr's Hunt
 ID_ME_DE_TEAMORB_GORR_ENDING,Don't miss out on additional Gorr shards!
@@ -9520,3 +9529,19 @@ ID_ME_BO_STRIKEPASS66_ANNOUNCE,"Commander,\n\n<color=#fff568>S.T.R.I.K.E. Pass: 
 ID_ME_NA_STRIKEPASS66_ENDING,Ending: S.T.R.I.K.E. Pass
 ID_ME_DE_STRIKEPASS66_ENDING,Don't miss Black Panther (Shuri) and Hank Pym!
 ID_ME_BO_STRIKEPASS66_ENDING,"Commander,\n\nYou only have <color=#fff568>2 days</color> remaining to earn <color=#fff568>Black Panther (Shuri)</color> and <color=#fff568>Hank Pym</color> in Season 66 of S.T.R.I.K.E. Pass.\n\nHurry and complete your Daily Objectives before these rewards are gone!"
+ID_ME_NA_COSMICTHREAT_TEASER,Coming Soon: Cosmic Threat
+ID_ME_DE_COSMICTHREAT_CORE,Earn Cosmic Power and a chance at Crimson Mystic Gear
+ID_ME_BO_COSMICTHREAT_CORE,"Commander,\n\nEarn Mystic Gear in this exciting event!\n\n<color=#fff568>Cosmic Threat Milestone</color>\nGain progress in this <color=#fff568>8-day</color> event by earning Illumination Orb Fragments from Campaign Nodes, opening the Gleaming Gold costume orb, completing the Galactic Peril Web Milestone, and daily web Free Claims. Earn fantastic rewards including <color=#fff568> T3 Iso-8 Crystals and Ions, Radioactive Treats, and Crimson Mystic gear</color>. You'll also earn points towards the month-long Annihilator Initiative Milestone by collecting Cosmic Power and the valuable Plandanium Armor.\n\n<color=#fff568>Illumination Orb</color>\nEarned from Campaigns, Free Claims and special Offers.\n\n<color=#fff568>Galactic Peril Web Milestone</color>\nBattle in Raids to earn Illumination Orb Fragments and Cosmic Threat Milestone progress! Keep an eye out for Free Claims containing milestone points every day!\n\n\n\nGood luck, Commander!"
+ID_ME_NA_COSMICTHREAT_ANNOUNCE,LIVE: Cosmic Threat
+ID_ME_NA_COSMICTHREAT_ENDING,Ending Soon: Cosmic Threat
+ID_ME_DE_COSMICTHREAT_ENDING,Don't miss out on Cosmic Power and a chance at Crimson Mystic Gear!
+ID_ME_BO_COSMICTHREAT_ENDING,"Commander,\n\nThe <color=#fff568>Cosmic Threat Milestone</color> event <color=#fff568>ends soon</color>. Continue making progress to earn <color=#fff568>T3 Iso-8 Crystals and Ions, Radioactive Treats, and Crimson Mystic gear</color>! \n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_SPLASH_COSMICPROTECTORS,LIVE: Cosmic Protectors
+ID_ME_DE_SPLASH_COSMICPROTECTORS,Earn Cosmic Power and Orbs!
+ID_ME_BO_SPLASH_COSMICPROTECTORS,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Orbs</color> and <color=#fff568>Cosmic Power</color> for the The Annihilator Initiative!\n\n<color=#fff568>Featured Trait</color>:\nInfinity Watch\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_EVILFORGOOD,LIVE: Evil for Good
+ID_ME_DE_SPLASH_EVILFORGOOD,Earn Cosmic Power and Iso-8!
+ID_ME_BO_SPLASH_EVILFORGOOD,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Iso-8</color> and <color=#fff568>Cosmic Power</color> for the The Annihilator Initiative!\n\n<color=#fff568>Featured Trait</color>:\nMasters of Evil\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_THEHOUSEOFODIN,LIVE: The House of Odin
+ID_ME_DE_SPLASH_THEHOUSEOFODIN,Earn Cosmic Power and Gear!
+ID_ME_BO_SPLASH_THEHOUSEOFODIN,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Gear</color> and <color=#fff568>Cosmic Power</color> for the The Annihilator Initiative!\n\n<color=#fff568>Featured Trait</color>:\nAsgardians\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."

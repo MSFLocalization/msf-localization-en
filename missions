@@ -3754,20 +3754,6 @@ ID_ECM_POOLPARTY_04_03_NAME,Salute My Shorts
 ID_ECM_POOLPARTY_04_03_DESC,"The most patriotic of all summer games, the ultimate in endurance, coordination and cunning - CAPTURE THE FLAG!"
 ID_ECM_POOLPARTY_04_04_NAME,Rotating Heads
 ID_ECM_POOLPARTY_04_04_DESC,What a successful party! And plenty of time to get back before Fury gets ba-WAIT IS THAT THE TIME?!
-ID_ECM_AGEOFX_CH1_01_NAME,Echoes of the Past
-ID_ECM_AGEOFX_CH1_02_NAME,True Brotherhood
-ID_ECM_AGEOFX_CH1_03_NAME,Mutant Against Mutant
-ID_ECM_AGEOFX_CH1_04_NAME,Avengeance
-ID_ECM_AGEOFX_CH1_05_NAME,Sins of the Children
-ID_ECM_AGEOFX_CH1_06_NAME,Remove One Head
-ID_ECM_AGEOFX_CH1_07_NAME,Mutant Supremacy
-ID_ECM_AGEOFX_CH1_01_DESC,Magneto confronts those who would harm mutantkind when old friends arrive...
-ID_ECM_AGEOFX_CH1_02_DESC,"Entering Magneto's mind, the heroes face his first line of mental defenses."
-ID_ECM_AGEOFX_CH1_03_DESC,The memory of those who should stand with Magneto stand in his way.
-ID_ECM_AGEOFX_CH1_04_DESC,"Hunted by humanity's greatest defenders, Magneto stands against the Avengers."
-ID_ECM_AGEOFX_CH1_05_DESC,"Deep into Magneto's subconscious, the heroes face what he views as his greatest failure."
-ID_ECM_AGEOFX_CH1_06_DESC,"Forever haunted by the evils committed against him and his family, Magneto's mind conjures a terrible visage."
-ID_ECM_AGEOFX_CH1_07_DESC,"To discover what lies at the center of his mind, Magneto must face his truest fear."
 ID_MIS_ANNIHILATOR_GLADIATOR_01_NAME,Enter the Arena
 ID_MIS_ANNIHILATOR_GLADIATOR_01_DESC,Cosmo and their allies are searching for help at the edge of Shi'ar space...
 ID_MIS_ANNIHILATOR_GLADIATOR_02_NAME,Supreme Majestor
@@ -3832,3 +3818,33 @@ ID_MIS_ANNIHILATOR_THANOSEG_07_NAME,Thanos' Destiny Challenge 2
 ID_MIS_ANNIHILATOR_THANOSEG_07_DESC,Thanos (Endgame) Annihilator Challenge 2
 ID_MIS_ANNIHILATOR_THANOSEG_08_NAME,Thanos' Destiny Challenge 3
 ID_MIS_ANNIHILATOR_THANOSEG_08_DESC,Thanos (Endgame) Annihilator Challenge 3
+ID_MISSION_RAID_ORCHIS_BIO01_NAME,Bio Mission 1
+ID_MISSION_RAID_ORCHIS_BIO02_NAME,Bio Mission 2
+ID_MISSION_RAID_ORCHIS_BIOBOSS_NAME,Bio Boss
+ID_MISSION_RAID_ORCHIS_MUTANT01_NAME,Mutant Mission 1
+ID_MISSION_RAID_ORCHIS_MUTANT02_NAME,Mutant Mission 2
+ID_MISSION_RAID_ORCHIS_MUTANTBOSS_NAME,Mutant Boss
+ID_MISSION_RAID_ORCHIS_MYSTIC01_NAME,Mystic Mission 1
+ID_MISSION_RAID_ORCHIS_MYSTIC02_NAME,Mystic Mission 2
+ID_MISSION_RAID_ORCHIS_MYSTICBOSS_NAME,Mystic Boss
+ID_MISSION_RAID_ORCHIS_SKILL01_NAME,Skill Mission 1
+ID_MISSION_RAID_ORCHIS_SKILL02_NAME,Skill Mission 2
+ID_MISSION_RAID_ORCHIS_SKILLBOSS_NAME,Skill Boss
+ID_MISSION_RAID_ORCHIS_TECH01_NAME,Tech Mission 1
+ID_MISSION_RAID_ORCHIS_TECH02_NAME,Tech Mission 2
+ID_MISSION_RAID_ORCHIS_TECHBOSS_NAME,Tech Boss
+ID_MISSION_RAID_ORCHIS_FINALBOSS_NAME,Final Boss
+ID_ECM_AGEOFX_CH1_01_NAME,Echoes of the Past
+ID_ECM_AGEOFX_CH1_02_NAME,True Brotherhood
+ID_ECM_AGEOFX_CH1_03_NAME,Mutant Against Mutant
+ID_ECM_AGEOFX_CH1_04_NAME,Avengeance
+ID_ECM_AGEOFX_CH1_05_NAME,Sins of the Children
+ID_ECM_AGEOFX_CH1_06_NAME,Remove One Head
+ID_ECM_AGEOFX_CH1_07_NAME,Mutant Supremacy
+ID_ECM_AGEOFX_CH1_01_DESC,Magneto confronts those who would harm mutantkind when old friends arrive...
+ID_ECM_AGEOFX_CH1_02_DESC,"Entering Magneto's mind, the heroes face his first line of mental defenses."
+ID_ECM_AGEOFX_CH1_03_DESC,The memory of those who should stand with Magneto stand in his way.
+ID_ECM_AGEOFX_CH1_04_DESC,"Hunted by humanity's greatest defenders, Magneto stands against the Avengers."
+ID_ECM_AGEOFX_CH1_05_DESC,"Deep into Magneto's subconscious, the heroes face what he views as his greatest failure."
+ID_ECM_AGEOFX_CH1_06_DESC,"Forever haunted by the evils committed against him and his family, Magneto's mind conjures a terrible visage."
+ID_ECM_AGEOFX_CH1_07_DESC,"To discover what lies at the center of his mind, Magneto must face his truest fear."

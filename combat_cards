@@ -246,3 +246,90 @@ ID_SCOURGE_CARD_160_NAME,Hard as Diamond
 ID_SCOURGE_CARD_160_DESC,<color=#fff568>VILLAIN CONTROLLER</color> Characters gain an additional +<color=#fff568>20% Health</color> and +<color=#fff568>10% Block Chance</color>
 ID_SCOURGE_CARD_161_NAME,Glorious Purpose
 ID_SCOURGE_CARD_161_DESC,"When a Character heals themself, they recover an additional +<color=#fff568>10% Health</color>"
+ID_ORCHIS_MOD_001_NAME,Hive-Mind Enhancer I
+ID_ORCHIS_MOD_002_NAME,X-Treme X-Men Enhancer I
+ID_ORCHIS_MOD_003_NAME,Nightstalker Enhancer I
+ID_ORCHIS_MOD_004_NAME,Spider-Society Enhancer I
+ID_ORCHIS_MOD_005_NAME,Orchis Enhancer I
+ID_ORCHIS_MOD_006_NAME,Hive-Mind Enhancer II
+ID_ORCHIS_MOD_007_NAME,X-Treme X-Men Enhancer II
+ID_ORCHIS_MOD_008_NAME,Nightstalker Enhancer II
+ID_ORCHIS_MOD_009_NAME,Spider-Society Enhancer II
+ID_ORCHIS_MOD_010_NAME,Orchis Enhancer II
+ID_ORCHIS_MOD_011_NAME,Hive-Mind Enhancer III
+ID_ORCHIS_MOD_012_NAME,X-Treme X-Men Enhancer III
+ID_ORCHIS_MOD_013_NAME,Nightstalker Enhancer III
+ID_ORCHIS_MOD_014_NAME,Spider-Society Enhancer III
+ID_ORCHIS_MOD_015_NAME,Orchis Enhancer III
+ID_ORCHIS_MOD_016_NAME,Hive-Mind Enhancer IV
+ID_ORCHIS_MOD_017_NAME,X-Treme X-Men Enhancer IV
+ID_ORCHIS_MOD_018_NAME,Nightstalker Enhancer IV
+ID_ORCHIS_MOD_019_NAME,Spider-Society Enhancer IV
+ID_ORCHIS_MOD_020_NAME,Orchis Enhancer IV
+ID_ORCHIS_MOD_021_NAME,Hive-Mind Shielding I
+ID_ORCHIS_MOD_022_NAME,X-Treme X-Men Shielding I
+ID_ORCHIS_MOD_023_NAME,Nightstalker Shielding I
+ID_ORCHIS_MOD_024_NAME,Spider-Society Shielding I
+ID_ORCHIS_MOD_025_NAME,\nOrchis Shielding I
+ID_ORCHIS_MOD_026_NAME,Hive-Mind Shielding II
+ID_ORCHIS_MOD_027_NAME,X-Treme X-Men Shielding II
+ID_ORCHIS_MOD_028_NAME,Nightstalker Shielding II
+ID_ORCHIS_MOD_029_NAME,Spider-Society Shielding II
+ID_ORCHIS_MOD_030_NAME,\nOrchis Shielding II
+ID_ORCHIS_MOD_031_NAME,Hive-Mind Shielding III
+ID_ORCHIS_MOD_032_NAME,X-Treme X-Men Shielding III
+ID_ORCHIS_MOD_033_NAME,Nightstalker Shielding III
+ID_ORCHIS_MOD_034_NAME,Spider-Society Shielding III
+ID_ORCHIS_MOD_035_NAME,\nOrchis Shielding III
+ID_ORCHIS_MOD_036_NAME,Hive-Mind Shielding IV
+ID_ORCHIS_MOD_037_NAME,X-Treme X-Men Shielding IV
+ID_ORCHIS_MOD_038_NAME,Nightstalker Shielding IV
+ID_ORCHIS_MOD_039_NAME,Spider-Society Shielding IV
+ID_ORCHIS_MOD_040_NAME,\nOrchis Shielding IV
+ID_ORCHIS_MOD_BLANK_NAME,
+ID_ORCHIS_MOD_TEMP1_NAME,Unknown Enhancement
+ID_ORCHIS_MOD_TEMP2_NAME,Unknown Shielding
+ID_ORCHIS_MOD_001_DESC,"\nPlayer <color=#fff568>HIVE-MIND</color> Characters gain +<color=#fff568>64% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_002_DESC,"\nPlayer <color=#fff568>X-TREME X-MEN</color> Characters gain +<color=#fff568>64% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_003_DESC,"\nPlayer <color=#fff568>NIGHTSTALKER</color> Characters gain +<color=#fff568>64% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_004_DESC,"\nPlayer <color=#fff568>SPIDER-SOCIETY</color> Characters gain +<color=#fff568>64% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_005_DESC,"\nPlayer <color=#fff568>ORCHIS</color> Characters gain +<color=#fff568>64% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_006_DESC,"\nPlayer <color=#fff568>HIVE-MIND</color> Characters gain +<color=#fff568>43% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_007_DESC,"\nPlayer <color=#fff568>X-TREME X-MEN</color> Characters gain +<color=#fff568>43% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_008_DESC,"\nPlayer <color=#fff568>NIGHTSTALKER</color> Characters gain +<color=#fff568>43% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_009_DESC,"\nPlayer <color=#fff568>SPIDER-SOCIETY</color> Characters gain +<color=#fff568>43% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_010_DESC,"\nPlayer <color=#fff568>ORCHIS</color> Characters gain +<color=#fff568>43% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_011_DESC,"\nPlayer <color=#fff568>HIVE-MIND</color> Characters gain +<color=#fff568>25% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_012_DESC,"\nPlayer <color=#fff568>X-TREME X-MEN</color> Characters gain +<color=#fff568>25% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_013_DESC,"\nPlayer <color=#fff568>NIGHTSTALKER</color> Characters gain +<color=#fff568>25% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_014_DESC,"\nPlayer <color=#fff568>SPIDER-SOCIETY</color> Characters gain +<color=#fff568>25% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_015_DESC,"\nPlayer <color=#fff568>ORCHIS</color> Characters gain +<color=#fff568>25% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_016_DESC,"\nPlayer <color=#fff568>HIVE-MIND</color> Characters gain +<color=#fff568>15% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_017_DESC,"\nPlayer <color=#fff568>X-TREME X-MEN</color> Characters gain +<color=#fff568>15% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_018_DESC,"\nPlayer <color=#fff568>NIGHTSTALKER</color> Characters gain +<color=#fff568>15% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_019_DESC,"\nPlayer <color=#fff568>SPIDER-SOCIETY</color> Characters gain +<color=#fff568>15% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_020_DESC,"\nPlayer <color=#fff568>ORCHIS</color> Characters gain +<color=#fff568>15% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_021_DESC,"\nOn Spawn, Player <color=#fff568>HIVE-MIND</color> Characters Barrier self for <color=#fff568>30%</color> of their Max Health."
+ID_ORCHIS_MOD_022_DESC,"\nOn Spawn, Player <color=#fff568>X-TREME X-MEN</color> Characters Barrier self for <color=#fff568>30%</color> of their Max Health."
+ID_ORCHIS_MOD_023_DESC,"\nOn Spawn, Player <color=#fff568>NIGHTSTALKER</color> Characters Barrier self for <color=#fff568>30%</color> of their Max Health."
+ID_ORCHIS_MOD_024_DESC,"\nOn Spawn, Player <color=#fff568>SPIDER-SOCIETY</color> Characters Barrier self for <color=#fff568>30%</color> of their Max Health."
+ID_ORCHIS_MOD_025_DESC,"\nOn Spawn, Player <color=#fff568>ORCHIS</color> Characters Barrier self for <color=#fff568>30%</color> of their Max Health."
+ID_ORCHIS_MOD_026_DESC,"\nOn Spawn, Player <color=#fff568>HIVE-MIND</color> Characters Barrier self for <color=#fff568>20%</color> of their Max Health."
+ID_ORCHIS_MOD_027_DESC,"\nOn Spawn, Player <color=#fff568>X-TREME X-MEN</color> Characters Barrier self for <color=#fff568>20%</color> of their Max Health."
+ID_ORCHIS_MOD_028_DESC,"\nOn Spawn, Player <color=#fff568>NIGHTSTALKER</color> Characters Barrier self for <color=#fff568>20%</color> of their Max Health."
+ID_ORCHIS_MOD_029_DESC,"\nOn Spawn, Player <color=#fff568>SPIDER-SOCIETY</color> Characters Barrier self for <color=#fff568>20%</color> of their Max Health."
+ID_ORCHIS_MOD_030_DESC,"\nOn Spawn, Player <color=#fff568>ORCHIS</color> Characters Barrier self for <color=#fff568>20%</color> of their Max Health."
+ID_ORCHIS_MOD_031_DESC,"\nOn Spawn, Player <color=#fff568>HIVE-MIND</color> Characters Barrier self for <color=#fff568>15%</color> of their Max Health."
+ID_ORCHIS_MOD_032_DESC,"\nOn Spawn, Player <color=#fff568>X-TREME X-MEN</color> Characters Barrier self for <color=#fff568>15%</color> of their Max Health."
+ID_ORCHIS_MOD_033_DESC,"\nOn Spawn, Player <color=#fff568>NIGHTSTALKER</color> Characters Barrier self for <color=#fff568>15%</color> of their Max Health."
+ID_ORCHIS_MOD_034_DESC,"\nOn Spawn, Player <color=#fff568>SPIDER-SOCIETY</color> Characters Barrier self for <color=#fff568>15%</color> of their Max Health."
+ID_ORCHIS_MOD_035_DESC,"\nOn Spawn, Player <color=#fff568>ORCHIS</color> Characters Barrier self for <color=#fff568>15%</color> of their Max Health."
+ID_ORCHIS_MOD_036_DESC,"\nOn Spawn, Player <color=#fff568>HIVE-MIND</color> Characters Barrier self for <color=#fff568>10%</color> of their Max Health."
+ID_ORCHIS_MOD_037_DESC,"\nOn Spawn, Player <color=#fff568>X-TREME X-MEN</color> Characters Barrier self for <color=#fff568>10%</color> of their Max Health."
+ID_ORCHIS_MOD_038_DESC,"\nOn Spawn, Player <color=#fff568>NIGHTSTALKER</color> Characters Barrier self for <color=#fff568>10%</color> of their Max Health."
+ID_ORCHIS_MOD_039_DESC,"\nOn Spawn, Player <color=#fff568>SPIDER-SOCIETY</color> Characters Barrier self for <color=#fff568>10%</color> of their Max Health."
+ID_ORCHIS_MOD_040_DESC,"\nOn Spawn, Player <color=#fff568>ORCHIS</color> Characters Barrier self for <color=#fff568>10%</color> of their Max Health."
+ID_ORCHIS_MOD_TEMP1_MYSTIC_DESC,\nWill enhance a future <color=#fff568>MYSTIC</color> team
+ID_ORCHIS_MOD_TEMP2_MYSTIC_DESC,\nWill protect a future <color=#fff568>MYSTIC</color> team
+ID_ORCHIS_MOD_TEMP1_TECH_DESC,\nWill enhance a future <color=#fff568>TECH</color> team
+ID_ORCHIS_MOD_TEMP2_TECH_DESC,\nWill protect a future <color=#fff568>TECH</color> team
