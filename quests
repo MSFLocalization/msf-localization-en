@@ -4864,6 +4864,13 @@ ID_QU_S2_REGULARITY,Spend Iso-8 Campaign Energy
 ID_QU_S3_REGULARITY,Battle in Raids
 ID_QU_S4_REGULARITY,Battle in Blitz
 ID_QU_S5_REGULARITY,Battle in War
+ID_QU_NA_THEANNIHILATORINITIATIVE,The Annihilator Initiative
+ID_QU_SD_THEANNIHILATORINITIATIVE,Participate in August Events
+ID_QU_LM_THEANNIHILATORINITIATIVE,Participate in various events throughout the month of August to earn milestone progress.
+ID_QU_S1_THEANNIHILATORINITIATIVE,Collect Cosmic Power
+ID_QU_S2_THEANNIHILATORINITIATIVE,Collect 1 Plandanium Armor
+ID_QU_S3_THEANNIHILATORINITIATIVE,Collect 1 Twilight Sword
+ID_QU_S4_THEANNIHILATORINITIATIVE,Collect 1 Quantum Bands
 ID_QU_NA_TEAMORB_GORR,Gorr's Hunt
 ID_QU_SD_TEAMORB_GORR,Get additional shards for Gorr!
 ID_QU_LD_TEAMORB_GORR,"Gorr's Hunt Milestone\nOpen Gorr Annihilator Orbs to earn progress and receive guaranteed additional Gorr shards! Find Gorr Annihilator Orb Fragments in arena, events, and offers!"
@@ -4898,3 +4905,12 @@ ID_QU_SC_SPLASH_THEHOUSEOFODIN,Use Asgardians Characters in Blitz
 ID_QU_S1_SPLASH_THEHOUSEOFODIN,Win Blitz with a 3-star or higher Asgardians Character
 ID_QU_S2_SPLASH_THEHOUSEOFODIN,Win Blitz with a 5-star or higher Asgardians Character
 ID_QU_S3_SPLASH_THEHOUSEOFODIN,Win Blitz with a 7-star Asgardians Character
+ID_QU_NA_PPWRAPUP,POOL Party: Wrap-Up
+ID_QU_SD_PPWRAPUP,"Use Campaign Energy, Battle with POOL Pals"
+ID_QU_LD_PPWRAPUP,"POOL Party: Wrap-Up Milestone\nNew Commanders can gain progress in this event by spending Campaign Energy and Battling with characters that have the trait POOL Pals in Blitz, Arena, Raid, Alliance War, and Cosmic Crucible (Player Level 60).\n\nSweep up fantastic rewards including POOL Party Orbs containing tons of character shards, Gold, Training Modules, and more!"
+ID_QU_S1_PPWRAPUP,Spend 1 Campaign Energy
+ID_QU_S2_PPWRAPUP,"Battle with POOL Pals in Blitz, Arena, Raids, War, and Crucible"
+ID_QU_S3_PPWRAPUP,Battle with POOL Pals at Gear Tier 9
+ID_QU_S4_PPWRAPUP,Battle with POOL Pals at Gear Tier 10
+ID_QU_S5_PPWRAPUP,Battle with POOL Pals at Gear Tier 11
+ID_QU_S6_PPWRAPUP,Battle with POOL Pals at Gear Tier 12
