@@ -2608,3 +2608,6 @@ ID_INFO_BO_COSMICTHREAT,"<color=#fff568>Cosmic Threat Milestone</color>\nGain pr
 ID_INFO_NA_PPWRAPUP,POOL Party: Wrap-Up
 ID_INFO_DE_PPWRAPUP,Sweep up amazing rewards!
 ID_INFO_BO_PPWRAPUP,"<color=#fff568>POOL Party: Wrap-Up Milestone</color>\nNew Commanders can gain progress in this event by spending Campaign Energy and Battling with characters that have the trait POOL Pals in Blitz, Arena, Raid, Alliance War, and Cosmic Crucible (Player Level 60).\n\nSweep up fantastic rewards including <color=#fff568>POOL Party Orbs containing tons of character shards</color>, Gold, Training Modules, and more!"
+ID_INFO_NA_TEAMORB_THANOS,Thanos' Crusade
+ID_INFO_DE_TEAMORB_THANOS,Get additional shards for Thanos (Endgame)!
+ID_INFO_BO_TEAMORB_THANOS,"<color=#fff568>Thanos' Crusade Milestone</color>\nOpen Thanos Annihilator Orbs to earn progress and receive additional Gladiator, Gorr, Thanos (Endgame), or Silver Surfer shards! Find Thanos Annihilator Orb Fragments in arena, events, and offers!"

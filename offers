@@ -9961,3 +9961,55 @@ ID_OF_DE_ISOREVAMP_CRYSTALUPDATE,Enhance your roster with these Iso-8 Crystals a
 ID_OF_NA_ISOREVAMP_BLUEIONS,Blue ISO Ions Top Up
 ID_OF_NA_ISOREVAMP_GREENIONS,Green ISO Ions Top Up
 ID_OF_DE_ISOREVAMP_IONSUPDATE,Upgrade a character's class with this incredible Ion deal! Boost your power by upgrading your Iso-8 Crystals.
+ID_OF_NA_TEAMORB_THANOS_DAILY,Thanos' Crusade Orb Special
+ID_OF_NA_TEAMORB_THANOS_DAILY2,Thanos' Crusade Orb Special Thank You!
+ID_OF_DE_TEAMORB_THANOS_DAILY,"Bring your crew together with this limited time orb special featuring Gladiator, Gorr and Thanos (Endgame)! Open for progress in the Gorr's Hunt event!"
+ID_OF_DE_TEAMORB_THANOS_DAILY2,"Bring your crew together with this limited time orb special featuring Gladiator, Gorr and Thanos (Endgame)! Open for progress in the Gorr's Hunt event!"
+ID_OF_NA_THANOSENDGAME_FCO_OFFER,The Mad Titan
+ID_OF_DE_THANOSENDGAME_FCO_OFFER,Each <color=#fff568>Perfectly Balanced Orb</color> contains <color=#fff568>up to 180 Thanos (Endgame)</color> shards. <color=#fff568>Thanos (Endgame)</color> will shred foes down to their last atom!
+ID_OF_DE_THANOSENDGAME_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Thanos (Endgame)</color> and unlock one-time only release offers on your next visit! <color=#fff568>Thanos (Endgame)</color> will shred foes down to their last atom!
+ID_OF_DE_THANOSENDGAME_OFFER_SHARD,Power up <color=#fff568>Thanos (Endgame)</color> with this shard offer! <color=#fff568>Thanos (Endgame)</color> will shred foes down to their last atom!
+ID_OF_DE_THANOSENDGAME_UNLOCK_OFFER,Unlock <color=#fff568>Thanos (Endgame)</color> now! <color=#fff568>Thanos (Endgame)</color> will shred foes down to their last atom!
+ID_OF_STOREBAR_THANOSENDGAME,Dual Offer: Thanos (Endgame)
+ID_OF_NA_DUAL_THANOSENDGAME,Dual Offer: Thanos (Endgame)
+ID_OF_DE_DUAL_THANOSENDGAME,Choose your path to power up this <color=#fff568>Annihilators</color> member!
+ID_OF_DE_DUAL_UNLOCK_THANOSENDGAME,Unlock this <color=#fff568>Annihilators</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_THANOSENDGAME_FCO_OFFER_BASIC,Thanos (Endgame) Release Offer
+ID_OF_NA_THANOSENDGAME_WEB_EXTRA_FCO_OFFER,Thanos (Endgame) Unlock Offer
+ID_OF_DE_THANOSENDGAME_WEB_EXTRA_FCO_OFFER,"The The Mad Titan, <color=#fff568>Thanos (Endgame)</color>, has arrived!"
+ID_OF_NA_THANOSENDGAME_WEB_SPECIAL_OFFER,The Mad Titan Special
+ID_OF_DE_THANOSENDGAME_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> <color=#fff568>Thanos (Endgame)</color> will shred foes down to their last atom!
+ID_OF_NA_AUGPOCKETD24_SHATTERED_SHARDS_SPECIAL_STEP1,Shattered Dimension Special (1/5)
+ID_OF_NA_AUGPOCKETD24_SHATTERED_SHARDS_SPECIAL_STEP2,Shattered Dimension Special (2/5)
+ID_OF_NA_AUGPOCKETD24_SHATTERED_SHARDS_SPECIAL_STEP3,Shattered Dimension Special (3/5)
+ID_OF_NA_AUGPOCKETD24_SHATTERED_SHARDS_SPECIAL_STEP4,Shattered Dimension Special (4/5)
+ID_OF_NA_AUGPOCKETD24_SHATTERED_SHARDS_SPECIAL_STEP5,Shattered Dimension Special (5/5)
+ID_OF_NA_AUGPOCKETD24_BPSHURI_HANK_TRAIN,Dimensional Advancement
+ID_OF_NA_AUGPOCKETD24_DDC_GOLDORB,Dark Diamond Booster
+ID_OF_NA_AUGPOCKETD24_CRIMSON_CATALYSTS,Crimson Catalyst Collection
+ID_OF_NA_AUGPOCKETD24_GLADIATOR_ABM_TRAIN,Shi'ar Devotee's Skill Training
+ID_OF_NA_AUGPOCKETD24_A19_ORBS,Armory 19 Orb Special
+ID_OF_NA_AUGPOCKETD24_ISO_TRAIN,Professional Training
+ID_OF_NA_AUGPOCKETD24_GOLD_GOLDORB,Multiverse Gold Heist
+ID_OF_NA_AUGPOCKETD24_HANKPYM_TRAIN_DPC,Quantum Degree Studying
+ID_OF_NA_AUGPOCKETD24_CRIMSON_ORIGINS,Crimson Origin Collection
+ID_OF_NA_AUGPOCKETD24_ISO_T2L5_TRAINORB,Subatomic Advanced Training
+ID_OF_NA_AUGPOCKETD24_GORR_ABM_TRAIN,The God Butcher's Determination
+ID_OF_NA_AUGPOCKETD24_TRAIN_TRAINORB,Dimension Hop Training
+ID_OF_NA_AUGPOCKETD24_T1ISO_GOLD,ISO Orb Special
+ID_OF_NA_AUGPOCKETD24_GOLD_MORB,Mega Golden Opportunity
+ID_OF_NA_AUGPOCKETD24_DPC,Dark Promotion Credit Special
+ID_OF_NA_AUGPOCKETD24_THANOSEG_ABM_TRAIN,A Tyrant's Upbringing
+ID_OF_NA_AUGPOCKETD24_E7,Elite 7 Credit Special
+ID_OF_NA_AUGPOCKETD24_A18_GOLDORB,Armory 18 Orb Special
+ID_OF_NA_AUGPOCKETD24_GT18V19_CB_DUAL,Dimensional Dual: Champion's Gear
+ID_OF_NA_AUGPOCKETD24_GT18V19_GLAD_DUAL,Dimensional Dual: Gladiator's Gear
+ID_OF_NA_AUGPOCKETD24_GT18V19_HANK_DUAL,Dimensional Dual: Doctor's Gear
+ID_OF_NA_AUGPOCKETD24_GT18V19_GORR_DUAL,Dimensional Dual: Butcher's Gear
+ID_OF_NA_AUGPOCKETD24_GT18V19_BPSHURI_DUAL,Dimensional Dual: Panther's Gear
+ID_OF_NA_AUGPOCKETD24_GT18_THANOSEG_DUAL,Dimensional Dual: Tyrant's Gear
+ID_OF_DE_AUGPOCKETD24_SHATTERED_SHARDS_SPECIAL_STEP1,Claim this FREE first step in this special offer chain! The final step is also FREE and contains <color=#ffda21>500 Dark Diamond Credit</color>!
+ID_OF_DE_AUGPOCKETD24_SHATTERED_SHARDS_SPECIAL_STEP2,Flip through this chain for <color=#ffda21>500 Dark Diamond Credit</color> in the final step!
+ID_OF_DE_AUGPOCKETD24_SHATTERED_SHARDS_SPECIAL_STEP3,Purchase through this chain for <color=#ffda21>500 Dark Diamond Credit</color> in the final step!
+ID_OF_DE_AUGPOCKETD24_SHATTERED_SHARDS_SPECIAL_STEP4,Purchase through this chain for <color=#ffda21>500 Dark Diamond Credit</color> in the final step!
+ID_OF_DE_AUGPOCKETD24_SHATTERED_SHARDS_SPECIAL_STEP5,Thank you for your support! Please claim this final reward.
