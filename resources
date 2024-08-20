@@ -259,8 +259,6 @@ ID_EVENT_CUR7_NAME,Wilderness Orb Fragment
 ID_EVENT_CUR7_DESCRIPTION,"Earn progress in the Mapping the Wilderness Milestone and open Wilderness Orbs for Sasquatch, Guardian, or Northstar shards!"
 ID_EVENT_CUR8_NAME,Forever Patriot Milestone Points
 ID_EVENT_CUR8_DESCRIPTION,These points earn you additional progress in the Forever Patriot Milestone. Earn them in the Dark Reign Web Milestone and special Offers!
-ID_EVENT_CUR9_NAME,Patriot Corp Orb Fragment
-ID_EVENT_CUR9_DESCRIPTION,Open Patriot Corp Orbs to earn shards for Iron Patriot and progress in the Forever Patriot milestone
 ID_EVENT_CUR10_NAME,Summer Camp Ticket
 ID_EVENT_CUR10_DESCRIPTION,Earn progress in the Summer Camp Discovery Milestone and open Summer Camp Treat Orbs for amazing rewards!
 ID_EVENT_CUR11_NAME,Allied Engines Milestone Points
@@ -601,3 +599,9 @@ ID_EVTA_META_AUG_U_NAME,Old Enemies Milestone Points
 ID_EVTA_META_AUG_U_DESCRIPTION,These points earn you additional progress in the Old Enemies Milestone. Earn them in the Old Grudges Web Milestone and Special Offers!
 ID_EVTA_META_AUG_V_NAME,A Greater Purpose Milestone Points
 ID_EVTA_META_AUG_V_DESCRIPTION,These points earn you additional progress in the A Greater Purpose Milestone. Earn them in the A Greater Power Milestone and Special Offers!
+ID_EVTA_META_AUG_W_NAME,Cosmic Dominance Milestone Points
+ID_EVTA_META_AUG_W_DESCRIPTION,These points earn you additional progress in the Cosmic Dominance Alliance Milestone. Earn them in Free Claims and Special Offers!
+ID_EVTA_META_AUG_X_NAME,Tolerance is Extinction Milestone Points
+ID_EVTA_META_AUG_X_DESCRIPTION,These points earn you additional progress in the Tolerance is Extinction Alliance Milestone. Earn them in Free Claims and Special Offers!
+ID_EVENT_CUR9_NAME,Dimensional Anomaly
+ID_EVENT_CUR9_DESCRIPTION,"Gain additional progress in the Old Enemies Milestone. Earn them from the Shattered Dimension, Free Claims and Special Offers!"

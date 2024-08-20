@@ -4919,3 +4919,30 @@ ID_QU_NA_TEAMORB_THANOS,Thanos' Crusade
 ID_QU_SD_TEAMORB_THANOS,Get additional shards for Thanos (Endgame)!
 ID_QU_LD_TEAMORB_THANOS,"Thanos' Crusade Milestone\nOpen Thanos Annihilator Orbs to earn progress and receive additional Gladiator, Gorr, Thanos (Endgame), or Silver Surfer shards! Find Thanos Annihilator Orb Fragments in arena, events, and offers!"
 ID_QU_S1_TEAMORB_THANOS,Open 1 Thanos Annihilator Orb
+ID_QU_NA_OLDENEMIES,Old Enemies
+ID_QU_SD_OLDENEMIES,Play Shattered Dimension and use Annihilators in War
+ID_QU_LM_OLDENEMIES,"Old Enemies Milestone\nGain progress in this 7-day event by collecting Dimensional Anomalies from the Shattered Dimension, battling in War with the Annihilators, and completing the Old Grudges web milestone. Earn incredible rewards including T3 Iso-8 Crystals and Ions, Radioactive Treats, and Crimson Skill Gear. You'll also earn points towards the Annihilator Initiative milestone by collecting Cosmic Power and the Twilight Sword.\n\nIf you are level 65 or above, proceed to Dark Dimension in Epic Campaigns and look to your left to find the harrowing new Shattered Dimension! You will need powerful Illuminati and Annihilator allies to win the day.\n\nOld Grudges Web Milestone\nSpend Incursion Energy and battle in Blitz to be rewarded with extra Dimensional Anomalies and bonus progress in the Old Enemies and Annihilator Initiative events."
+ID_QU_S1_OLDENEMIES,Collect 1 Dimensional Anomaly
+ID_QU_S2_OLDENEMIES,Play 1 War Battle with an Annihilators Character
+ID_QU_S3_OLDENEMIES,Use Gladiator in War
+ID_QU_S4_OLDENEMIES,Use Gladiator in War at 5 Yellow Stars
+ID_QU_S5_OLDENEMIES,Use Gladiator in War at 6 Yellow Stars
+ID_QU_S6_OLDENEMIES,Use Gladiator in War at 7 Yellow Stars
+ID_QU_S7_OLDENEMIES,Use Gorr in War
+ID_QU_S8_OLDENEMIES,Use Gorr in War at 5 Yellow Stars
+ID_QU_S9_OLDENEMIES,Use Gorr in War at 6 Yellow Stars
+ID_QU_S10_OLDENEMIES,Use Gorr in War at 7 Yellow Stars
+ID_QU_S11_OLDENEMIES,Use Thanos (Endgame) in War
+ID_QU_S12_OLDENEMIES,Use Thanos (Endgame) in War at 5 Yellow Stars
+ID_QU_S13_OLDENEMIES,Use Thanos (Endgame) in War at 6 Yellow Stars
+ID_QU_S14_OLDENEMIES,Use Thanos (Endgame) in War at 7 Yellow Stars
+ID_QU_S15_OLDENEMIES,Spend 1 Power Core
+ID_QU_NA_OLDGRUDGES,Old Grudges
+ID_QU_SD_OLDGRUDGES,Spend Incursion Energy and battle in Blitz!
+ID_QU_LD_OLDGRUDGES,Spend Incursion Energy and battle in Blitz to be rewarded with extra Dimensional Anomalies and bonus progress in the Old Enemies and Annihilator Initiative events.
+ID_QU_S1_OLDGRUDGES,Earn 1 Alliance Credit
+ID_QU_NA_COSMICDOMINANCE,Cosmic Dominance
+ID_QU_SD_COSMICDOMINANCE,Play War battles for glorious rewards!
+ID_QU_LD_COSMICDOMINANCE,Coordinated Adventure Milestone\nGain progress in this 6-day event by collaborating with your alliance to battle through War and earn Allied Supply VI Orb Fragments. Allied Supply VI Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
+ID_QU_S1_COSMICDOMINANCE,Play 1 War battle
+ID_QU_S2_COSMICDOMINANCE,Earn 1 Allied Supply VI Orb Fragment
