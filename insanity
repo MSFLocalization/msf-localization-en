@@ -328,6 +328,8 @@ ID_MIS_PD_SL_IA_07_NAME,Annihilator Hard III
 ID_MIS_PD_SL_IA_08_NAME,Annihilator Hard IV
 ID_MIS_PD_SL_IA_09_NAME,Annihilator Master I
 ID_MIS_PD_SL_IA_10_NAME,Annihilator Master II
+ID_MIS_PD_SL_IA_21_NAME,Annihilator Legendary
+ID_MIS_PD_SL_IA_22_NAME,Annihilator Mythic
 ID_PD_SL_REQ_ANNIHILATORS_NORMAL,Required:\n3 <color=#fff568>ANNIHILATOR</color> at Gear Tier 14
 ID_PD_SL_REQ_ANNIHILATORS_HARD,Required:\n3 <color=#fff568>ANNIHILATOR</color> at Gear Tier 15
 ID_PD_SL_REQ_ANNIHILATORS_MASTER,Required:\n3 <color=#fff568>ANNIHILATOR</color> at Gear Tier 16
