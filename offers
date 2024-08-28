@@ -8967,27 +8967,29 @@ ID_OF_NA_MAPPINGTHEWILDERNESS_CATCHUP,Mapping the Wilderness: Catch-up
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_ORB,Mapping the Wilderness: Daily Orb
 ID_OF_NA_MAPPINGTHEWILDERNESS_CALENDAR,4th of July Calendar
 ID_OF_NA_MAPPINGTHEWILDERNESS_WEB_SPECIAL,Mapping the Wilderness: Web Special
+ID_OF_NA_MAPPINGTHEWILDERNESS_MID_EVENT_SPECIAL,Mapping the Wilderness: Special Bundle
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_POINTS,Mapping the Wilderness: Daily Points
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_RAID,Mapping the Wilderness: Daily Raid
 ID_OF_NA_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_TEAM,Mapping the Wilderness: Alpha Flight
-ID_OF_NA_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_GUARDIAN,Mapping the Wilderness: Guardian
-ID_OF_NA_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_NORTHSTAR,Mapping the Wilderness: Northstar
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_INCURSION_ENERGY,Mapping the Wilderness :Daily Incursion Energy
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_INTERSTITIAL,Mapping the Wilderness: Hidden Treasure
 ID_OF_NA_MAPPINGTHEWILDERNESS_DAILY_FREE_CLAIM,Mapping the Wilderness: Free Claim
-ID_OF_DE_MAPPINGTHEWILDERNESS_STARTER,Get ahead in the <color=#fff568>Mapping the Wilderness</color> Milestone and start making your way toward <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Mystic Gear</color>!
-ID_OF_DE_MAPPINGTHEWILDERNESS_CATCHUP,Finish strong in the <color=#fff568>Mapping the Wilderness</color> Milestone to earn <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Mystic Gear</color>!
+ID_OF_DE_MAPPINGTHEWILDERNESS_STARTER,Get ahead in the <color=#fff568>Mapping the Wilderness</color> Milestone and start making your way toward <color=#fff568>Super Skrull Diamond Promotions</color> and <color=#fff568>Crimson Mystic Gear</color>!
+ID_OF_DE_MAPPINGTHEWILDERNESS_STARTER_2,Get ahead in the <color=#fff568>Mapping the Wilderness</color> Milestone and start making your way toward <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Mystic Gear</color>!
+ID_OF_DE_MAPPINGTHEWILDERNESS_CATCHUP,Finish strong in the <color=#fff568>Mapping the Wilderness</color> Milestone to earn <color=#fff568>Super Skrull Diamond Promotions</color> and <color=#fff568>Crimson Mystic Gear</color>!
+ID_OF_DE_MAPPINGTHEWILDERNESS_CATCHUP_2,Finish strong in the <color=#fff568>Mapping the Wilderness</color> Milestone to earn <color=#fff568>Diamond Orb Fragments</color> and <color=#fff568>Crimson Mystic Gear</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_ORB,Make progress in the <color=#fff568>Mapping the Wilderness</color> Milestone by collecting more <color=#fff568>Wilderness Orb Fragments</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_CALENDAR,Strengthen your Alpha Flight characters with this holiday Calendar! <color=#ffda21>A {var1}x value</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_WEB_SPECIAL,Take a leap of faith with this Mapping the Wilderness special web bundle!
-ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_POINTS,Get ahead in the <color=#fff568>Mapping the Wilderness</color> Leaderboards and earn <color=#fff568>Black Panther (Shuri) Diamond Promotions</color> and <color=#f12603>Crimson Gear</color>!
+ID_OF_DE_MAPPINGTHEWILDERNESS_MID_EVENT_SPECIAL,Adventure into the Wilderness and dominate the leaderboard for <color=#fff568>Super Skrull Diamond Promotions</color>
+ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_POINTS,Get ahead in the <color=#fff568>Mapping the Wilderness</color> Leaderboards and earn <color=#fff568>Super Skrull Diamond Promotions</color> and <color=#f12603>Crimson Gear</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_RAID,Get your daily raid refills to complete the <color=#fff568>Scientific Breakthrough web Milestone</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_TEAM,Level up your Alpha Flight team for future raids!
-ID_OF_DE_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_GUARDIAN,Power up Guardian with this shard offer!
-ID_OF_DE_MAPPINGTHEWILDERNESS_ALPHA_FLIGHT_NORTHSTAR,Power up Northstar with this shard offer!
 ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_INCURSION_ENERGY,Get your daily dose of Incursion Campaign Energy for progress in the Scientific Breakthrough web milestone and earn more <color=#fff568>Wilderness Orb Fragments</color>!
 ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Mapping the Wilderness</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_MAPPINGTHEWILDERNESS_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Mapping the Wilderness</color> progress!
+ID_ON_NA_ONGUARDFORTHEE_METAPOINTS,On Guard For Thee: Almost Home
+ID_ON_DE_ONGUARDFORTHEE_METAPOINTS,"Claim this mega deal to wrap up the <color=#fff568>On Guard For Thee</color> milestone, and finish strong in the <color=#fff568>Homeward Bound</color> event!"
 ID_OF_DE_PRIDE24_WEEK5STEP1,Claim this first step in the Love of Loki streak! The final step is Free and contains 2 Diamond Orbs!
 ID_OF_DE_PRIDE24_WEEK5STEP2,Surge through this chain for 2 Diamond Orbs in the final step!
 ID_OF_NA_PRIDE24_GOLDBK_W5,Knight's Hoard
@@ -9294,6 +9296,15 @@ ID_OF_DE_SSTORE_POINTS,Redeem Strike Points for valuable rewards in the Strike S
 ID_OF_DE_SSTORE_LAUNCHFREE,Celebrate the launch of the new <color=#f8e50b>Strike Store</color> with this free gift! Head over to the in-game store to redeem your Strike Points for valuable rewards!
 ID_OF_DE_SSTORE_GENERIC1,Inject power into your roster with this special bundle!
 ID_OF_DE_SSTORE_GENERIC2,Redeem your Strike Points for these valuable items!
+ID_OF_NA_JUL24REBRAND_CRYSTALS_BRAWLER,Ion Insanity: Brawler Pack
+ID_OF_NA_JUL24REBRAND_CRYSTALS_BLASTER,Ion Insanity: Blaster Pack
+ID_OF_NA_JUL24REBRAND_CRYSTALS_CONTROLLER,Ion Insanity: Controller Pack
+ID_OF_NA_JUL24REBRAND_CRYSTALS_PROTECTOR,Ion Insanity: Protector Pack
+ID_OF_NA_JUL24REBRAND_CRYSTALS_SUPPORT,Ion Insanity: Support Pack
+ID_OF_DE_JUL24REBRAND_CRYSTALS_BLASTER,Supercharge your Blasters in all game modes with this limited time special!
+ID_OF_DE_JUL24REBRAND_CRYSTALS_CONTROLLER,Supercharge your Controllers in all game modes with this limited time special!
+ID_OF_DE_JUL24REBRAND_CRYSTALS_PROTECTOR,Supercharge your Protectors in all game modes with this limited time special!
+ID_OF_DE_JUL24REBRAND_CRYSTALS_SUPPORT,Supercharge your Supports in all game modes with this limited time special!
 ID_OF_NA_MACHINESFORMONEY_STARTER,Machines for Money: Starter Bundle
 ID_OF_NA_MACHINESFORMONEY_CATCHUP,Machines for Money: Catch-Up Bundle
 ID_OF_NA_MACHINESFORMONEY_EVENTORB,Machines for Money: Daily Allied Supply
@@ -9505,7 +9516,7 @@ ID_OF_NA_CAPTAINBRITAIN_AA_PASSIVE_STEP4,Awakened Champion Special (4/4)
 ID_OF_DE_CAPTAINBRITAIN_AA_PASSIVE_STEP1,<color=#fff568>Web Special!</color> Get <color=#fff568>Captain Britain's</color> Passive Awakened Ability Material along with tons of shards with this special offer! Follow up offer unlocked includes Captain Britain's 4-Red Star Promotion!
 ID_OF_DE_CAPTAINBRITAIN_AA_PASSIVE_STEP2,<color=#fff568>Web Special!</color> Get <color=#fff568>Captain Britain's</color> 4-Red Star Promotion along with tons of shards with this special offer! Follow up offer unlocked includes Captain Britain's 6-Red Star Promotion!
 ID_OF_DE_CAPTAINBRITAIN_AA_PASSIVE_STEP3,<color=#fff568>Web Special!</color> Get <color=#fff568>Captain Britain's</color> 6-Red Star Promotion along with tons of shards with this special offer! Follow up offer unlocked includes Captain Britain's 7-Red Star Promotion!
-ID_OF_DE_CAPTAINBRITAIN_AA_PASSIVE_STEP4,<color=#fff568>Web Special!</color>BEST VALUE UNLOCKED! Get tons of <color=#fff568>Captain Britain's</color> shards with this top value offer!
+ID_OF_DE_CAPTAINBRITAIN_AA_PASSIVE_STEP4,<color=#fff568>Web Special!</color> BEST VALUE UNLOCKED! Get tons of <color=#fff568>Captain Britain's</color> shards with this top value offer!
 ID_OF_NA_POOLPARTY24_DORB_A19_MEGAGORB_HOLIDAY_SV50+TY,Pool Party Thank You Splash!
 ID_OF_NA_POOLPARTY24_ABM_MORB_GOLD_STEP3,Best Bubs Special (3/3)
 ID_OF_NA_POOLPARTY24_ABM_MORB_GOLD_STEP2,Best Bubs Special (2/3)
@@ -9688,7 +9699,7 @@ ID_OF_DE_QUANTUMDISCO_WEB_SPECIAL,Make more progress in the <color=#fff568>Quant
 ID_OF_DE_QUANTUMDISCO_DAILY_WAR,Take advantage of this special deal to get the edge in Alliance War and progress in the <color=#fff568>Quantum Disco</color> milestone!
 ID_OF_DE_QUANTUMDISCO_FREE_CLAIM,Come back daily for more <color=#fff568>Quantum Disco</color> progress!
 ID_OF_DE_QUANTUMDISCO_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Quantum Disco</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
-ID_OF_DE_QUANTUMDISCO_MID_EVENT_SPECIAL_PIVOT,Make progress in the <color=#fff568>Quantum Disco</color> Milestone by collecting more <color=#fff568>Quantum Hank Orb Fragments</color>!
+ID_OF_DE_QUANTUMDISCO_MID_EVENT_SPECIAL_PIVOT,Claim this mega deal leap to the top of the leaderboard in the <color=#fff568>Quantum Disco</color> Milestone for <color=#fff568>Hank Pym Diamonds and Crimson Mutant Mini-Uniques</color>!
 ID_OF_DE_QUANTUMDISCO_FREE_CLAIM_2_PIVOT,Claim this exclusive free gift on us! Check back often to find more exclusive gifts! Don't miss out on the one-time offer after claiming this gift!
 ID_OF_DE_QUANTUMDISCO_DAILY_INTERSTITIAL_2_PIVOT,You just unlocked the discount deal for the <color=#fff568>Quantum Disco</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_GLADIATOR_FCO_OFFER,Praetor's Might
@@ -9746,19 +9757,10 @@ ID_OF_NA_ARESSUPPORT_AWAKENEDULTIMATE,Unleash the Whirlwind
 ID_OF_NA_ARESSUPPORT_AWAKENEDPASSIVE,Early Access: God of War Awakened
 ID_OF_DE_ARESSUPPORT_AWAKENEDULTIMATE,Turn Ares into the ultimate Alliance War weapon with this special offer for Ares' Ultimate Awakened Ability!
 ID_OF_DE_ARESSUPPORT_AWAKENEDPASSIVE,Unleash Ares's full power before your competition with this limited time offer for Ares' Passive Awakened Ability! Obtaining more than 200 Awakened Ability materials will not offer any special benefit.
-ID_OF_NA_DIAMONDCLAWS_STARTER,Diamond Claws: Starter
-ID_OF_NA_DIAMONDCLAWS_CATCHUP,Diamond Claws: Catch-up
-ID_OF_NA_DIAMONDCLAWS_DAILY_ENERGY,Diamond Claws: Daily Energy
-ID_OF_NA_DIAMONDCLAWS_DAILY_ORB,Diamond Claws: Daily Coalition
-ID_OF_NA_DIAMONDCLAWS_DAILY_INCURSION,Ancient Incursions
-ID_OF_NA_DIAMONDCLAWS_DAILY_POINTS,Diamond Claws: Daily Points
-ID_OF_NA_DIAMONDCLAWS_WEB_SPECIAL,Diamond Claws: Web Special
-ID_OF_NA_DIAMONDCLAWS_MIDEVENT_SPECIAL,Diamond Claws: Mid-Event Special
-ID_OF_NA_DIAMONDCLAWS_DAILY_INTERSTITIAL,Diamond Claws: Hidden Treasure
 ID_OF_DE_DIAMONDCLAWS_STARTER,Get ahead in the <color=#fff568>Diamond Claws</color> Milestone and start making your way toward <color=#fff568>Old Man Logan Diamond Promotions</color> and <color=#E0B0FF>T3 Iso-8 Materials</color>!
 ID_OF_DE_DIAMONDCLAWS_CATCHUP,Finish strong in the <color=#fff568>Diamond Claws</color> Milestone and Leaderboard to earn <color=#fff568>Old Man Logan Diamond Promotions</color> and <color=#E0B0FF>T3 Iso-8 Materials</color>!
 ID_OF_DE_DIAMONDCLAWS_DAILY_ENERGY,Get your daily dose of Campaign Energy for progress in the Diamond Claws milestone!
-ID_OF_DE_DIAMONDCLAWS_DAILY_ORB,"Collect Midnight Coalition Orbs for progress in the Diamond Claws milestone. Open them for Dark Diamond Credits, shards for Pandapool and Northstar, and more!"
+ID_OF_DE_DIAMONDCLAWS_DAILY_ORB,"Collect Midnight Coalition Orbs for progress in the Diamond Claws milestone. Open them for Dark Diamond Credits, shards for Black Panther (Shuri) and Hank Pym, and more!"
 ID_OF_DE_DIAMONDCLAWS_DAILY_INCURSION,Get your daily dose of Incursion Energy for progress in the Ancient Gems milestone!
 ID_OF_DE_DIAMONDCLAWS_DAILY_POINTS,Get ahead in the <color=#fff568>Diamond Claws</color> Milestone and start making your way toward <color=#fff568>Old Man Logan Diamond Promotions</color> and <color=#E0B0FF>T3 Iso-8 Materials</color>!
 ID_OF_DE_DIAMONDCLAWS_MIDEVENT_SPECIAL,"Claim this mega deal to get ahead in the <color=#fff568>Diamond Claws</color> Milestone and Leaderboard, and fast-forward your way to <color=#fff568>T3 Iso-8 Materials</color> and <color=#fff568>Old Man Logan Diamonds</color>!"
@@ -9806,26 +9808,6 @@ ID_OF_NA_GORR_WEB_EXTRA_FCO_OFFER,Gorr Unlock Offer
 ID_OF_DE_GORR_WEB_EXTRA_FCO_OFFER,"The God Butcher, <color=#fff568>Gorr</color>, has arrived!"
 ID_OF_NA_GORR_WEB_SPECIAL_OFFER,The God Butcher Special
 ID_OF_DE_GORR_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color><color=#fff568>Gorr</color> arrives to purge all deities from Arena!
-ID_OF_NA_85THANNIVP2_WK2STEP1,Marvelous Celebration (1/5)
-ID_OF_NA_85THANNIVP2_WK2STEP2,Marvelous Celebration (2/5)
-ID_OF_NA_85THANNIVP2_WK2STEP3,Marvelous Celebration (3/5)
-ID_OF_NA_85THANNIVP2_WK2STEP4,Marvelous Celebration (4/5)
-ID_OF_NA_85THANNIVP2_WK2STEP5,Marvelous Celebration (5/5)
-ID_OF_DE_85THANNIVP2_WK2STEP1,Claim this FREE first step in this special offer chain! The final step is also FREE and contains 2 Diamond Orbs!
-ID_OF_DE_85THANNIVP2_WK2STEP2,Purchase through this chain for 2 Diamond Orbs in the final step!
-ID_OF_DE_85THANNIVP2_WK2STEP3,Purchase through this chain for 2 Diamond Orbs in the final step!
-ID_OF_DE_85THANNIVP2_WK2STEP4,Pick up this special offer then claim 2 Diamond Orbs in the next step!
-ID_OF_DE_85THANNIVP2_WK2STEP5,Thank you for your support! Please claim this final reward.
-ID_OF_NA_85THANNIVP3_WK3STEP1,Marvelous Legacy Special (1/5)
-ID_OF_NA_85THANNIVP3_WK3STEP2,Marvelous Legacy Special (2/5)
-ID_OF_NA_85THANNIVP3_WK3STEP3,Marvelous Legacy Special (3/5)
-ID_OF_NA_85THANNIVP3_WK3STEP4,Marvelous Legacy Special (4/5)
-ID_OF_NA_85THANNIVP3_WK3STEP5,Marvelous Legacy Special (5/5)
-ID_OF_DE_85THANNIVP3_WK3STEP1,Claim this FREE first step in this special offer chain! The final step is also FREE and contains 9 Million Gold!
-ID_OF_DE_85THANNIVP3_WK3STEP2,Purchase through this chain for 9 Million Gold in the final step!
-ID_OF_DE_85THANNIVP3_WK3STEP3,Purchase through this chain for 9 Million Gold in the final step!
-ID_OF_DE_85THANNIVP3_WK3STEP4,Pick up this special offer and claim 9 Million Gold in the next step!
-ID_OF_DE_85THANNIVP3_WK3STEP5,Thank you for your support! Please claim this final reward.
 ID_OF_NA_JARVIS_FREECLAIM,J.A.R.V.I.S. Free Claim
 ID_OF_DE_JARVIS_FREECLAIM,Each orb contains <color=#fff568>up to 50 shards</color> of 50 essential characters for your roster!
 ID_OF_NA_JARVIS_ORB_DROP,J.A.R.V.I.S. Orb Drop
@@ -9901,63 +9883,9 @@ ID_OF_DE_THS_TEAM_OFFER_SPIDERSOCIETY,Exclusively for Time Heist Players! Comple
 ID_OF_DE_THS_TEAM_OFFER_SECRETDEFENDERS,Exclusively for Time Heist Players! The secret to <color=#fff568>Arena</color> success: This <color=#fff568>Secret Defenders</color> deal!
 ID_OF_DE_THS_TEAM_OFFER_GOLDTRAINING,Exclusively for Time Heist Players! Power up your roster with Gold and Training Modules!
 ID_OF_DE_THS_TEAM_OFFER_GOLDTRAINING2,Exclusively for Time Heist Players! Power up your roster for tough Campaign missions with this Gold and Training Modules bundle!
-ID_OF_NA_TEAMORB_GORR_DAILY,Gorr's Hunt Orb Special
-ID_OF_NA_TEAMORB_GORR_DAILY2,Gorr's Hunt Orb Special Thank You!
-ID_OF_DE_TEAMORB_GORR_DAILY,Bring your crew together with this limited time orb special featuring Gladiator and Gorr! Open for progress in the Gorr's Hunt event!
-ID_OF_DE_TEAMORB_GORR_DAILY2,Bring your crew together with this limited time orb special featuring Gladiator and Gorr! Open for progress in the Gorr's Hunt event!
-ID_OF_NA_ANNIHILATORINITIATIVE_STARTER_MEGA,Universal Starter
-ID_OF_NA_ANNIHILATORINITIATIVE_STARTER_SUPER,Galactic Starter
-ID_OF_NA_ANNIHILATORINITIATIVE_STARTER,Cosmic Starter
-ID_OF_NA_ANNIHILATORINITIATIVE_BOOSTER_ANCHOR,Daily Rotation
-ID_OF_NA_ANNIHILATORINITIATIVE_MEGA,Mega Supplies
-ID_OF_DE_ANNIHILATORINITIATIVE_STARTER_MEGA,"Stock up on <color=#fff568>Annihilator Initiative</color> progress and exclusive items, and get ahead on the Annihilator Initiative Leaderboard for a chance at <color=#fff568>Gorr the God Butcher Diamonds</color> and <color=#fff568>Diamond Champions III Orbs</color>!"
-ID_OF_DE_ANNIHILATORINITIATIVE_STARTER_SUPER,Get ahead in the <color=#fff568>Annihilator Initiative</color> milestone and fast-forward your way to the <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>Annihilator Team Orbs</color>!
-ID_OF_DE_ANNIHILATORINITIATIVE_STARTER,Start off strong in the <color=#fff568>Annihilator Initiative</color> milestone!
-ID_OF_DE_ANNIHILATORINITIATIVE_BOOSTER_ANCHOR,Make consistent <color=#fff568>Annihilator Initiative</color> progress with this daily <color=#fff568>Cosmic Power</color> drop!
-ID_OF_DE_ANNIHILATORINITIATIVE_MEGA,Stock up on <color=#fff568>Annihilator Initiative event progress</color> and <color=#fff568>Mega Orbs</color> with this special deal!
-ID_OF_NA_ANNIHILATORINITIATIVE_LEGACY,Cosmic Legacy
-ID_OF_NA_ANNIHILATORINITIATIVE_SHARDS,Recruitment Special
-ID_OF_NA_ANNIHILATORINITIATIVE_GOLD,Golden Asteroid
-ID_OF_DE_ANNIHILATORINITIATIVE_LEGACY,Stock up on <color=#fff568>Annihilator Initiative event progress</color> and <color=#fff568>Legacy Orbs</color> with this special deal!
-ID_OF_DE_ANNIHILATORINITIATIVE_SHARDS,Stock up on <color=#fff568>Annihilator Initiative event progress</color> and <color=#fff568>character shards</color> with this special deal!
-ID_OF_DE_ANNIHILATORINITIATIVE_GOLD,Stock up on <color=#fff568>Annihilator Initiative event progress</color> and <color=#fff568>Gold</color> with this special deal!
-ID_OF_NA_ANNIHILATORINITIATIVE_CATS,Event Catalysts
-ID_OF_DE_ANNIHILATORINITIATIVE_CATS,Stock up on <color=#fff568>Annihilator Initiative event progress</color> and <color=#fff568>Catalyst Parts</color> with this special deal!
-ID_OF_NA_ANNIHILATORINITIATIVE_DPC,Dark Secrets
-ID_OF_NA_ANNIHILATORINITIATIVE_TRAINING,New Heights
-ID_OF_DE_ANNIHILATORINITIATIVE_DPC,Stock up on <color=#fff568>Annihilator Initiative event progress</color> and <color=#fff568>Dark Promotion Credits</color> with this special deal!
-ID_OF_DE_ANNIHILATORINITIATIVE_TRAINING,Stock up on <color=#fff568>Annihilator Initiative event progress</color> and <color=#fff568>Training Modules</color> with this special deal!
-ID_OF_NA_ANNIHILATORINITIATIVE_AB,Cosmic Abilities
-ID_OF_DE_ANNIHILATORINITIATIVE_AB,Stock up on <color=#fff568>Annihilator Initiative event progress</color> and <color=#fff568>Ability Materials</color> with this special deal!
-ID_OF_NA_ANNIHILATORINITIATIVE_CATCHUP_MEGA,Universal Catch-Up
-ID_OF_NA_ANNIHILATORINITIATIVE_CATCHUP_SUPER,Galactic Catch-Up
-ID_OF_NA_ANNIHILATORINITIATIVE_CATCHUP_LAST_CHANCE,Cosmic Catch-Up
-ID_OF_DE_ANNIHILATORINITIATIVE_CATCHUP_MEGA,Finish strong in the milestones and leaderboards for a chance at <color=#fff568>Gorr the God Butcher Diamonds</color> and <color=#fff568>Diamond Champions III Orbs</color>!
-ID_OF_DE_ANNIHILATORINITIATIVE_CATCHUP_SUPER,Finish strong in the milestones and leaderboards for a chance at <color=#fff568>Gorr the God Butcher Diamonds</color> and <color=#fff568>Diamond Champions III Orbs</color>!
-ID_OF_DE_ANNIHILATORINITIATIVE_CATCHUP_LAST_CHANCE,Catch this deal before it's too late to earn your final <color=#fff568>T2 Level 5 Ions</color> and <color=#fff568>Annihilator Team Orbs</color>!
-ID_OF_NA_ANNIHILATORINITIATIVE_FREEDAILY,Annihilator Initiative: Free Claim
-ID_OF_DE_ANNIHILATORINITIATIVE_FREEDAILY,Come back daily for more <color=#fff568>Annihilator Initiative</color> progress!
-ID_OF_NA_COSMICTHREAT_STARTER,Cosmic Threat: Starter
-ID_OF_DE_COSMICTHREAT_STARTER,Get ahead in the <color=#fff568>Cosmic Threat</color> Milestone and start making your way toward <color=#fff568>T3 Iso-8 Crystals and Ions</color> and <color=#fff568>Crimson Mystic Gear</color>!
-ID_OF_NA_COSMICTHREAT_CATCHUP,Cosmic Threat: Catch-up
-ID_OF_DE_COSMICTHREAT_CATCHUP,Finish strong in the <color=#fff568>Cosmic Threat</color> Milestone to earn <color=#fff568>T3 Iso-8 Crystals and Ions</color> and <color=#fff568>Crimson Mystic Gear</color>!
-ID_OF_NA_COSMICTHREAT_WEB_SPECIAL,Cosmic Threat: Web Special
-ID_OF_NA_COSMICTHREAT_ORB_SPECIAL,Cosmic Threat: Orb Special
-ID_OF_NA_COSMICTHREAT_DAILY_ORB,Cosmic Threat: Daily Orb
-ID_OF_DE_COSMICTHREAT_WEB_SPECIAL,Rise to the challenge with this Cosmic Threat special web bundle!
-ID_OF_DE_COSMICTHREAT_ORB_SPECIAL,"One time special! Open the Gleaming Gold Orb and earn the Golden Black Knight Costume, Gold, and Radioactive Treats!"
-ID_OF_DE_COSMICTHREAT_DAILY_ORB,Make progress in the Cosmic Threat milestone by collecting more <color=#fff568>Illumination Orb Fragments</color> to exchange for amazing rewards!
-ID_OF_NA_COSMICTHREAT_DAILY_POINTS,Cosmic Threat: Daily Points
-ID_OF_NA_COSMICTHREAT_DAILY_ENERGY,Cosmic Threat: Daily Energy
-ID_OF_DE_COSMICTHREAT_DAILY_POINTS,Get ahead in the <color=#fff568>Cosmic Threat</color> Leaderboards and earn <color=#fff568>T3 Iso-8 Crystals and Ions</color> and <color=#fff568>Crimson Mystic Gear</color>!
-ID_OF_DE_COSMICTHREAT_DAILY_ENERGY,Get your daily dose of Campaign Energy for progress in the Cosmic Threat milestone and earn <color=#fff568>T3 Iso-8 Crystals and Ions</color> and <color=#fff568>Crimson Mystic Gear</color>!
-ID_OF_NA_COSMICTHREAT_DAILY_INTERSTITIAL,Cosmic Threat: Hidden Treasure
-ID_OF_NA_COSMICTHREAT_DAILY_FREE_CLAIM,Cosmic Threat: Free Claim
-ID_OF_DE_COSMICTHREAT_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Cosmic Threat</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
-ID_OF_DE_COSMICTHREAT_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Cosmic Threat</color> progress!
 ID_OF_NA_ISOREVAMP_BLUECRYSTAL,Blue ISO Crystal Top Up
 ID_OF_NA_ISOREVAMP_GREENCRYSTAL,Green ISO Crystal Top Up
-ID_OF_DE_ISOREVAMP_CRYSTALUPDATE,Enhance your roster with these Iso-8 Crystals and take on a new challenges.
+ID_OF_DE_ISOREVAMP_CRYSTALUPDATE,Enhance your roster with these Iso-8 Crystals and take on new challenges.
 ID_OF_NA_ISOREVAMP_BLUEIONS,Blue ISO Ions Top Up
 ID_OF_NA_ISOREVAMP_GREENIONS,Green ISO Ions Top Up
 ID_OF_DE_ISOREVAMP_IONSUPDATE,Upgrade a character's class with this incredible Ion deal! Boost your power by upgrading your Iso-8 Crystals.
@@ -10083,6 +10011,43 @@ ID_OF_NA_THANOSENDGAME_WEB_STREAK3_FCO_OFFER,A Grateful Universe (3/4)
 ID_OF_DE_THANOSENDGAME_WEB_STREAK3_FCO_OFFER,<color=#fff568>Web Special!</color> Purchase through this chain for a <color=#fff568>1 Diamond Thanos (Endgame)</color> in the final step!
 ID_OF_NA_THANOSENDGAME_WEB_STREAK4_FCO_OFFER,A Grateful Universe (4/4)
 ID_OF_DE_THANOSENDGAME_WEB_STREAK4_FCO_OFFER,<color=#fff568>Web Special!</color> Purchase through this chain for a <color=#fff568>1 Diamond Thanos (Endgame)</color> in the final step!
+ID_OF_NA_GREATERPURPOSE_MEGA_STARTER,A Greater Purpose: Mega Starter
+ID_OF_NA_GREATERPURPOSE_STARTER,A Greater Purpose: Starter Pack
+ID_OF_NA_GREATERPURPOSE_MEGA_CATCHUP,A Greater Purpose: Mega Catch-up
+ID_OF_NA_GREATERPURPOSE_CATCHUP,A Greater Purpose: Catch-up Bundle
+ID_OF_NA_GREATERPURPOSE_DAILY_ORB,Daily Dose of Crimson
+ID_OF_NA_GREATERPURPOSE_DAILY_ISO,A Greater Purpose: Daily Iso-8 Energy
+ID_OF_NA_GREATERPURPOSE_WEB_SPECIAL,A Greater Purpose: Web Special
+ID_OF_NA_GREATERPURPOSE_MIDEVENT_SPECIAL,A Greater Purpose: Mid-Event Special
+ID_OF_NA_GREATERPURPOSE_ANNIHILATORS,Total Annihilation
+ID_OF_NA_GREATERPURPOSE_FREECLAIM,A Greater Purpose: Free Claim
+ID_OF_NA_GREATERPURPOSE_DAILY_INTERSTITIAL,A Greater Purpose: Hidden Trove
+ID_OF_NA_GREATERPURPOSE_GENERIC,A Greater Purpose: Special Bundle
+ID_OF_NA_GREATERPURPOSE_FCF,Free Claim Friday!
+ID_OF_NA_GREATERPURPOSE_FCF_INTERSTITIAL,Friday Mega Deal
+ID_OF_DE_GREATERPURPOSE_STARTER,Get ahead in the <color=#fff568>A Greater Purpose</color> Milestone and fast-forward your way to <color=#fff568>Gladiator shards</color> and <color=#d580ff>T3 Iso-8 Materials</color>!
+ID_OF_DE_GREATERPURPOSE_MEGA_CATCHUP,Finish strong in the milestones to earn <color=#fff568>Gladiator shards</color> and <color=#d580ff>T3 Iso-8 Materials</color>!
+ID_OF_DE_GREATERPURPOSE_CATCHUP,Finish strong in the milestones to earn <color=#fff568>Gladiator shards</color> and <color=#d580ff>T3 Iso-8 Materials</color>!
+ID_OF_DE_GREATERPURPOSE_DAILY_ORB,"Earn shards for Illuminati and Alpha Flight characters, and make progress in the A Greater Purpose milestone by collecting more <color=#fff568>Crimson Council Orbs</color>!"
+ID_OF_DE_GREATERPURPOSE_GENERIC,"Claim this mega deal to get ahead in the <color=#fff568>A Greater Purpose</color> Milestone, and fast-forward your way to <color=#fff568>Gladiator shards</color> and <color=#d580ff>T3 Iso-8 Materials</color>!"
+ID_OF_DE_GREATERPURPOSE_DAILY_ISO,Get your daily Iso-8 Energy fix to progress in the <color=#fff568>A Greater Purpose</color> Milestone!
+ID_OF_DE_GREATERPURPOSE_ANNIHILATORS,Earn Annihilator shards and make progress in the A Greater Purpose milestone!
+ID_OF_DE_GREATERPURPOSE_FREECLAIM,Come back daily for more <color=#fff568>A Greater Purpose</color> progress!
+ID_OF_DE_GREATERPURPOSE_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>A Greater Purpose</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_TOLERANCEISEXTINCTION_STARTER,Tolerance is Extinction: Starter
+ID_OF_NA_TOLERANCEISEXTINCTION_CATCHUP,Tolerance is Extinction: Catchup Bundle
+ID_OF_NA_TOLERANCEISEXTINCTION_DAILY_ORB,Daily Teamwork
+ID_OF_NA_TOLERANCEISEXTINCTION_ALPHA,Tolerance is Extinction: Alpha Flight
+ID_OF_NA_TOLERANCEISEXTINCTION_FREECLAIM,Tolerance is Extinction: Free Claim
+ID_OF_NA_TOLERANCEISEXTINCTION_INTERSTITIAL,Tolerance is Extinction: Treasure Trove
+ID_OF_NA_TOLERANCEISEXTINCTION_GENERIC,Tolerance is Extinction: Special Bundle
+ID_OF_DE_TOLERANCEISEXTINCTION_STARTER,Get ahead in the <color=#fff568>Tolerance is Extinction</color> Milestone and propel your Alliance to <color=#fff568>Ciphers</color> and <color=#fff568>T3 Iso-8 Materials</color>!
+ID_OF_DE_TOLERANCEISEXTINCTION_CATCHUP,Finish strong in the <color=#fff568>Tolerance is Extinction</color> Milestone and propel your Alliance to <color=#fff568>Ciphers</color> and <color=#fff568>T3 Iso-8 Materials</color>!
+ID_OF_DE_TOLERANCEISEXTINCTION_DAILY_ORB,"Collect these event orbs for <color=#fff568>T2 Iso-8 Materials, Gold and Training Materials</color>, as well as <color=#fff568>Tolerance is Extinction</color> Milestone progress!"
+ID_OF_DE_TOLERANCEISEXTINCTION_ORCHIS,Power up your Orchis characters and participate in Orchis Raids to maximize your <color=#fff568>Tolerance is Extinction</color> Milestone progress!
+ID_OF_DE_TOLERANCEISEXTINCTION_FREECLAIM,Come back daily for more <color=#fff568>Tolerance is Extinction</color> progress!
+ID_OF_DE_TOLERANCEISEXTINCTION_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Tolerance is Extinction</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_TOLERANCEISEXTINCTION_GENERIC,Get ahead in the <color=#fff568>Tolerance is Extinction</color> Milestone and propel your Alliance to <color=#fff568>Ciphers</color> and <color=#fff568>T3 Iso-8 Materials</color>!
 ID_OF_NA_85THANNIVP5_EMD_CAL,Earth's Mightiest Day Calendar Special!
 ID_OF_NA_85THANNIVP5_EMD_SHARD,Earth's Mightiest Day Shard Special!
 ID_OF_NA_85THANNIVP5_EMD_GOLD,Earth's Mightiest Day Gold Special!
@@ -10202,3 +10167,23 @@ ID_OF_DE_LABORDAY24_TRAININGBOOSTER,Boost your resources with <color=#ffda21>L4 
 ID_OF_DE_LABORDAY24_E7A19,Boost your roster with <color=#ffda21>Elite 7 Credits and Armory 19</color>. This Labor Day pack provides essential resources to upgrade your heroes and enhance their gear!
 ID_OF_DE_LABORDAY24_DPCABM,Boost your resources with <color=#ffda21>Dark Promotion Credit and T4 Ability Material</color>. This Labor Day pack provides the essentials to enhance your heroes and gear up for victory!
 ID_OF_DE_LABORDAY24_MEGAORB,"Includes <color=#ffda21>Mega Orbs, Training Orbs, and T3 Ability Orbs</color>. This Labor Day pack provides a range of orbs to enhance your heroes and upgrade your team!"
+ID_OF_NA_MONTHLYSPECIAL_GLADIATOR,September Special: Gladiator
+ID_OF_NA_MONTHLYSPECIAL_ALPHAFLIGHT,September Special: Alpha Flight
+ID_OF_DE_MONTHLYSPECIAL_ALPHAFLIGHT,Power up these Alpha Flight characters with this limited time web offer and conquer future raids.
+ID_OF_NA_SENTINEL_FCO_OFFER,Mutant Hunter
+ID_OF_DE_SENTINEL_FCO_OFFER,Each <color=#fff568>Mutant Halt Orb</color> contains <color=#fff568>up to 180 Sentinel</color> shards. <color=#fff568>Sentinel</color> is the TECH Protector you need to keep your Orchis team in top performance while challenging Raids with defensive buffs and minion summons!
+ID_OF_DE_SENTINEL_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Sentinel</color> and unlock one-time only release offers on your next visit! <color=#fff568>Sentinel</color> is the TECH Protector you need to keep your Orchis team in top performance while challenging Raids with defensive buffs and minion summons!
+ID_OF_DE_SENTINEL_OFFER_SHARD,Power up <color=#fff568>Sentinel</color> with this shard offer! <color=#fff568>Sentinel</color> is the TECH Protector you need to keep your Orchis team in top performance while challenging Raids with defensive buffs and minion summons!
+ID_OF_DE_SENTINEL_UNLOCK_OFFER,Unlock <color=#fff568>Sentinel</color> now! <color=#fff568>Sentinel</color> is the TECH Protector you need to keep your Orchis team in top performance while challenging Raids with defensive buffs and minion summons!
+ID_OF_STOREBAR_SENTINEL,Dual Offer: Sentinel
+ID_OF_NA_DUAL_SENTINEL,Dual Offer: Sentinel
+ID_OF_DE_DUAL_SENTINEL,Choose your path to power up this <color=#fff568>Orchis</color> member!
+ID_OF_DE_DUAL_UNLOCK_SENTINEL,Unlock this <color=#fff568>Orchis</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_SENTINEL_FCO_OFFER_BASIC,Sentinel Release Offer
+ID_OF_NA_ORCHIS_TEAM_OFFER,Orchis Team Bundle
+ID_OF_DE_ORCHIS_TEAM_OFFER,<color=#fff568>Orchis</color> team members!
+ID_OF_NA_SENTINEL_WEB_EXTRA_FCO_OFFER,Sentinel Unlock Offer
+ID_OF_DE_SENTINEL_WEB_EXTRA_FCO_OFFER,"The Mutant Hunter, <color=#fff568>Sentinel</color>, has arrived!"
+ID_OF_NA_SENTINEL_WEB_SPECIAL_OFFER,Mutant Hunter Special
+ID_OF_DE_SENTINEL_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> <color=#fff568>Sentinel</color> is the TECH Protector you need to keep your Orchis team in top performance while challenging Raids with defensive buffs and minion summons!
+ID_OF_NA_GLEAMINGGOLD_ORBSPECIAL,Gleaming Glod Orb Special

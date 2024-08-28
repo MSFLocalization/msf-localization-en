@@ -1274,6 +1274,7 @@ ID_SSQUADS_PASTE_SQUADS,Not Enough Space
 ID_SSQUADS_PASTE_SQUADS_TOO_MANY_SQUADS,The number of copied teams is greater than the available space in {gamemode}.\nDelete teams to make more room and try again
 ID_SSQUADS_DELETE_CONFIRM_TITLE,Confirm Delete
 ID_SSQUADS_DELETE_CONFIRM_BODY,Delete {num} Selected Items?
+ID_SSQUADS_DELETE_CONFIRM_BODY_SINGLE,Delete {num} Selected Item?
 ID_SSQUADS_COPY_FLOATER,COPIED
 ID_SSQUADS_PASTE_FLOATER,PASTED
 ID_SSQUADS_DELETE_FLOATER,DELETED

@@ -53,6 +53,7 @@ ID_GT_EVENT_NAME_SEASON6,Season 6
 ID_GT_EVENT_NAME_SEASON7,Season 7
 ID_GT_EVENT_NAME_SEASON8,Season 8
 ID_GT_EVENT_NAME_SEASON9,Season 9
+ID_GT_EVENT_NAME_SEASON10,Season 10
 ID_GT_EVENT_NAME_EVENT,Ultimate 32
 ID_GT_GLOBAL_RULES_NAME,Magical Disruptions
 ID_GT_GLOBAL_RULES_DESC,"On Offense, reduce Speed and Resistance by <color=#86e619>10%</color> for all non-<color=#fff568>MASTERS OF EVIL VILLAIN MYSTICS</color>. \nOn Defense, reduce Speed and Resistance by <color=#86e619>20%</color> for all <color=#fff568>COSMIC VILLAIN MYSTICS</color>. \nOn any <color=#fff568>COSMIC VILLAIN MYSTICS</color> Turn, apply <color=#fff568>Bleed</color> to that character. \nOn Defense, all characters gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage. \n<color=#fff568>DARKHOLD</color> characters have -<color=#86e619>10%</color> Max Health, Focus, Resistance, and Damage."
@@ -318,3 +319,17 @@ ID_GT_S9_ROOM5_RULES_NAME,Health Insurance
 ID_GT_S9_ROOM5_RULES_DESC,"On Offense and Defense,\n> On turn, Clear all positive effects from self and heal <color=#86e619>10%</color> of that character's Max Health for each positive effect removed."
 ID_GT_S9_ROOM6_RULES_NAME,Dulom's Destruction
 ID_GT_S9_ROOM6_RULES_DESC,"On Offense and Defense,\nAll Characters:\n> When using an Ultimate Ability, Generate +<color=#86e619>1</color> Ability Energy for each enemy."
+ID_GT_S10_GLOBAL_RULES_NAME,The Guiding Hand
+ID_GT_S10_GLOBAL_RULES_DESC,"The Guiding Hand\nOn Offense and Defense,\n<color=#fff568>Annhilator</color> characters:\n> Any time a character gains ability energy, that character gains <color=#fff568>Regeneration</color>.\nOn Defense,\nAll characters:\n> Gain +<color=#86e619>20%</color> Max Health and +<color=#86e619>10%</color> Damage.\n> After each completed attempt, gain +<color=#86e619>1</color> <color=#fff568>Exhausted</color>. Canceled combats do not gain +<color=#86e619>1</color> <color=#fff568>Exhausted</color>."
+ID_GT_S10_ROOM1_RULES_NAME,Teamwork!
+ID_GT_S10_ROOM1_RULES_DESC,"On Offense and Defense,\n<color=#9055FF>Striker</color> characters:\n> On ally Turn, gain <color=#fff568>Assist Now</color>."
+ID_GT_S10_ROOM2_RULES_NAME,The Best Offense
+ID_GT_S10_ROOM2_RULES_DESC,"On Offense and Defense,\nAll characters:\n> On Turn, Barrier self for <color=#86e619>5%</color> of that character's Max Health and flip <color=#fff568>Offense Down</color> on self.\n> On Turn, if this character's Barrier is above <color=#86e619>50%</color>, gain <color=#fff568>Offense Up</color>."
+ID_GT_S10_ROOM3_RULES_NAME,Double Tap
+ID_GT_S10_ROOM3_RULES_DESC,"On Offense and Defense,\nAll characters:\n> On successful hit, if the target has <color=#fff568>Exposed</color>, perform a Basic attack against that target.\n> If this character has <color=#fff568>Exposed</color>, lower this character's Resistance by <color=#86e619>20%</color>."
+ID_GT_S10_ROOM4_RULES_NAME,Spec Ops
+ID_GT_S10_ROOM4_RULES_DESC,"On Offense and Defense,\nAll characters:\n> If this character has <color=#fff568>Stealth</color>, gain +<color=#86e619>20%</color> Damage.\n> On Dodge, gain <color=#fff568>Stealth</color>."
+ID_GT_S10_ROOM5_RULES_NAME,Heroic Shielding
+ID_GT_S10_ROOM5_RULES_DESC,"On Offense and Defense,\n<color=#fff568>Hero</color> characters:\n> On Turn, gain +<color=#86e619>1</color> <color=#fff568>Deflect</color>.\n> When this character is attacked, apply <color=#fff568>Defense Down</color> to the attacker."
+ID_GT_S10_ROOM6_RULES_NAME,Dorky's Madness
+ID_GT_S10_ROOM6_RULES_DESC,"On Offense and Defense,\nAll Characters:\n> When this character drop below <color=#86e619>50%</color> Health, gain <color=#fff568>Trauma</color>.\n> When this character uses an Special Ability, gain <color=#fff568>Ability Block</color>.\n> When this character uses an Ultimate Ability, gain <color=#fff568>Blind</color>."

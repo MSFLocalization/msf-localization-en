@@ -3145,12 +3145,6 @@ ID_MOTD_DE_BLACKPANTHERSHURI_TEASER,Take up the mantle with Black Panther (Shuri
 ID_MOTD_NA_BLACKPANTHERSHURI_ANNOUNCE,Black Panther (Shuri) is here!
 ID_MOTD_DE_BLACKPANTHERSHURI_ANNOUNCE,Take up the mantle with Black Panther (Shuri)!
 ID_MOTD_DE_BLACKPANTHERSHURI_ANNOUNCE2,Open the Feline Legacy Orb to earn shards for this Wakandan Queen!
-ID_MOTD_NA_THEGUARDIANOFTHECAMP_ANNOUNCE,LIVE: The Guardian of the Camp
-ID_MOTD_DE_THEGUARDIANOFTHECAMP_ANNOUNCE,Earn Lab Supplies and Map Fragment #3!
-ID_MOTD_NA_THEGUARDIANOFTHECAMP_ENDING,Ending Soon: The Guardian of the Camp
-ID_MOTD_DE_THEGUARDIANOFTHECAMP_ENDING,Earn Lab Supplies and Map Fragment #3!
-ID_MOTD_NA_THEBEASTWITHIN_ANNOUNCE,Web Milestone: The Beast Within
-ID_MOTD_DE_THEBEASTWITHIN_ANNOUNCE,Earn Alliance Credits and reap more rewards on the web!
 ID_MOTD_TD2_PREVIEW_NAME,COMING SOON: Temporal Dimension II
 ID_MOTD_TD2_PREVIEW_DESC,New Pocket Dimension featuring Cabal & Illuminati!
 ID_MOTD_TD2_LIVE_NAME,NOW LIVE: Temporal Dimension II
@@ -3183,6 +3177,12 @@ ID_MOTD_NA_POOLPARTY_ENDING,ENDING SOON: 'Pool Party!!
 ID_MOTD_DE_POOLPARTY_ENDING,Jump in the water with Deadpool in his very own 'Pool Party before it's too late!
 ID_MOTD_NA_BATTLEPASS_SEASON25_ANNOUNCE,LIVE: Season 25 of Battle Pass
 ID_MOTD_DE_BATTLEPASS_SEASON25_ANNOUNCE,Complete Objectives to earn Guardian shards and more!
+ID_MOTD_NA_THEGUARDIANOFTHECAMP_ANNOUNCE,LIVE: The Guardian of the Camp
+ID_MOTD_DE_THEGUARDIANOFTHECAMP_ANNOUNCE,Earn Lab Supplies and Map Fragment #3!
+ID_MOTD_NA_THEGUARDIANOFTHECAMP_ENDING,Ending Soon: The Guardian of the Camp
+ID_MOTD_DE_THEGUARDIANOFTHECAMP_ENDING,Earn Lab Supplies and Map Fragment #3!
+ID_MOTD_NA_THEBEASTWITHIN_ANNOUNCE,Web Milestone: The Beast Within
+ID_MOTD_DE_THEBEASTWITHIN_ANNOUNCE,Earn Alliance Credits and reap more rewards on the web!
 ID_MOTD_NA_HANKORB_ANNOUNCE,LIVE: Particle Professor
 ID_MOTD_DE_HANKORB_ANNOUNCE,Get additional shards for Hank Pym!
 ID_MOTD_NA_HANKPYM_TEASER,Soon: Hank Pym
@@ -3247,9 +3247,9 @@ ID_MOTD_DE_PPCHILLOUT_ANNOUNCE,"Earn Mutant Gear, resources, and some Mega Gold 
 ID_MOTD_NA_PPCHILLOUT_ENDING,Ending Soon: POOL Party: Chill Out
 ID_MOTD_DE_PPCHILLOUT_ENDING,Don't miss out on Mutant Gear and Mega Gold Orbs!
 ID_MOTD_NA_PPDRYOFF_ANNOUNCE,LIVE: POOL Party: Dry OFF
-ID_MOTD_DE_PPDRYOFF_ANNOUNCE,"Earn Bio Gear, the Hotpool costume and the POOL Portrait avatar frame!"
+ID_MOTD_DE_PPDRYOFF_ANNOUNCE,"Earn Bio Gear, the NicePool costume and the POOL Portrait avatar frame!"
 ID_MOTD_NA_PPDRYOFF_ENDING,Ending Soon: POOL Party: Dry Off
-ID_MOTD_DE_PPDRYOFF_ENDING,Don't miss out on the Hotpool costume and the POOL Portrait avatar frame!
+ID_MOTD_DE_PPDRYOFF_ENDING,Don't miss out on the NicePool costume and the POOL Portrait avatar frame!
 ID_MOTD_NA_QUANTUMDISCO_ANNOUNCE,LIVE: Quantum Disco
 ID_MOTD_DE_QUANTUMDISCO_ANNOUNCE,Don't miss out on T3 Support Iso-8 Orb Fragments and T3 Level 1 Ions!
 ID_MOTD_NA_QUANTUMDISCO_ENDING,Ending Soon: Quantum Disco
@@ -3299,26 +3299,8 @@ ID_MOTD_DE_CHURNPREVENTION_PUSH3,"Tap now for another week of Power Cores, Gold,
 ID_MOTD_DE_CHURNPREVENTION_PUSH4,Last day to enjoy your free resources to improve your roster and defeat more enemies!
 ID_MOTD_NA_GLADIATORWEEKEND_ANNOUNCE,LIVE: Weekend Arena Warriors
 ID_MOTD_DE_GLADIATORWEEKEND_ANNOUNCE,Get Captain Britain's Awakened Ability and Annihilator orbs!
-ID_MOTD_NA_THEANNIHILATORINITIATIVE_ANNOUNCE,LIVE: The Annihilator Initiative
-ID_MOTD_DE_THEANNIHILATORINITIATIVE_ANNOUNCE,Earn marvelous August rewards!
-ID_MOTD_NA_THEANNIHILATORINITIATIVE_ENDING,Ending Soon: The Annihilator Initiative
-ID_MOTD_DE_THEANNIHILATORINITIATIVE_ENDING,Earn Teal Bio Gear before the event ends!
 ID_MOTD_NA_TEAMORB_GORR_ANNOUNCE,LIVE: Gorr's Hunt
 ID_MOTD_DE_TEAMORB_GORR_ANNOUNCE,Get additional shards for Gorr!
-ID_MOTD_NA_COSMICTHREAT_ANNOUNCE,LIVE: Cosmic Threat
-ID_MOTD_DE_COSMICTHREAT_ANNOUNCE,Earn Cosmic Power and a chance at Crimson Mystic Gear
-ID_MOTD_NA_COSMICTHREAT_ENDING,Ending Soon: Cosmic Threat
-ID_MOTD_DE_COSMICTHREAT_ENDING,Don't miss out on Cosmic Power and a chance at Crimson Mystic Gear!
-ID_MOTD_NA_GALACTICPERIL_ANNOUNCE,Web Milestone: Galactic Peril
-ID_MOTD_DE_GALACTICPERIL_ANNOUNCE,Battle in Raid for more rewards on the web!
-ID_MOTD_SD_PREVIEW_NAME,COMING SOON: Shattered Dimension
-ID_MOTD_SD_PREVIEW_DESC,New Pocket Dimension featuring Annihilators & Illuminati!
-ID_MOTD_SD_LIVE_NAME,NOW LIVE: Shattered Dimension
-ID_MOTD_SD_LIVE_DESC,New Pocket Dimension featuring Illuminati & Annihilator!
-ID_MOTD_SD_ENDING_NAME,ENDING SOON: Shattered Dimension
-ID_MOTD_SD_ENDING_DESC,Shattered Dimension is ending soon!
-ID_MOTD_NA_PPWRAPUP_ANNOUNCE,LIVE: POOL Party: Wrap Up
-ID_MOTD_DE_PPWRAPUP_ANNOUNCE,"Earn POOL Party Orbs, Gold, Training Modules, and more!"
 ID_MOTD_NA_TEAMORB_THANOS_ANNOUNCE,LIVE: Thanos' Crusade
 ID_MOTD_DE_TEAMORB_THANOS_ANNOUNCE,Get additional shards for Thanos (Endgame)!
 ID_MOTD_NA_BATTLEPASS_SEASON28_ANNOUNCE,LIVE: Season 28 of Battle Pass
@@ -3338,3 +3320,26 @@ ID_MOTD_NA_COSMICDOMINANCE_ANNOUNCE,LIVE: Cosmic Dominance
 ID_MOTD_DE_COSMICDOMINANCE_ANNOUNCE,Battle in War for Annihilator Initiative progress!
 ID_MOTD_NA_TOURNAMENT_POLL_ANNOUNCE_GENERIC,Cosmic Crucible Tournament Poll
 ID_MOTD_DE_TOURNAMENT_POLL_ANNOUNCE_GENERIC,Earn rewards with each daily vote by logging into MarvelStrikeForce.com!
+ID_MOTD_NA_GREATERPURPOSE_ANNOUNCE,LIVE: A Greater Purpose
+ID_MOTD_DE_GREATERPURPOSE_ANNOUNCE,Earn Cosmic Power and Gladiator shards!
+ID_MOTD_NA_GREATERPURPOSE_ENDING,Ending Soon: A Greater Purpose
+ID_MOTD_DE_GREATERPURPOSE_ENDING,Earn Cosmic Power and Gladiator shards!
+ID_MOTD_NA_GREATERPOWER_ANNOUNCE,Web Milestone: A Greater Power
+ID_MOTD_DE_GREATERPOWER_ANNOUNCE,Spend Radioactive Treats and reap more rewards on the web!
+ID_MOTD_NA_TOLERANCEISEXTINCTION_ANNOUNCE,LIVE: Tolerance is Extinction
+ID_MOTD_DE_TOLERANCEISEXTINCTION_ANNOUNCE,Earn Cosmic Power and Ciphers!
+ID_MOTD_NA_BATTLEPASS_SEASON29_ANNOUNCE,LIVE: Season 29 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON29_ANNOUNCE,Complete Objectives to earn Ares shards and more!
+ID_MOTD_SD_PREVIEW_NAME,COMING SOON: Shattered Dimension
+ID_MOTD_SD_PREVIEW_DESC,New Pocket Dimension featuring Annihilators & Illuminati!
+ID_MOTD_SD_LIVE_NAME,NOW LIVE: Shattered Dimension
+ID_MOTD_SD_LIVE_DESC,New Pocket Dimension featuring Illuminati & Annihilator!
+ID_MOTD_SD_ENDING_NAME,ENDING SOON: Shattered Dimension
+ID_MOTD_SD_ENDING_DESC,Shattered Dimension is ending soon!
+ID_MOTD_NA_PPWRAPUP_ANNOUNCE,LIVE: POOL Party: Wrap Up
+ID_MOTD_DE_PPWRAPUP_ANNOUNCE,"Earn POOL Party Orbs, Gold, Training Modules, and more!"
+ID_MOTD_NA_SENTINEL_TEASER,Soon: Sentinel
+ID_MOTD_DE_SENTINEL_TEASER,Enforce peace and order with Sentinel!
+ID_MOTD_NA_SENTINEL_ANNOUNCE,Sentinel is here!
+ID_MOTD_DE_SENTINEL_ANNOUNCE,Enforce peace and order with Sentinel!
+ID_MOTD_DE_SENTINEL_ANNOUNCE2,Open the Halt Mutant Orb to earn shards for Mutant Hunter!

@@ -4605,7 +4605,7 @@ ID_QU_LD_ONGUARDFORTHEE,"On Guard For Thee Milestone\nGain progress in this 7-da
 ID_QU_S1_ONGUARDFORTHEE,Battle in Cosmic Crucible
 ID_QU_S2_ONGUARDFORTHEE,Earn Am-Can Orb Fragments
 ID_QU_NA_GLORIOUSANDFREE,Glorious And Free
-ID_QU_SD_GLORIOUSANDFREE,Spend X Marks The Spot Event Energy and Incursion Energy
+ID_QU_SD_GLORIOUSANDFREE,Spend X Marks The Spot Event Energy
 ID_QU_LD_GLORIOUSANDFREE,Spend X Marks The Spot Event Energy and be rewarded with Am-Can Orb Fragments for progress in the On Guard For Thee Milestone.
 ID_QU_S1_GLORIOUSANDFREE,Spend 1 X Marks The Spot Event Energy
 ID_QU_S2_GLORIOUSANDFREE,Spend 1 Incursion Energy
@@ -4617,6 +4617,9 @@ ID_QU_S1_TAKEFLIGHTSASQUATCH,Earn Milestone Points from Sasquatch Offers
 ID_QU_NA_FROMFARANDWIDE,From Far and Wide
 ID_QU_SD_FROMFARANDWIDE,"Battle in Raids, Collect Event Orbs"
 ID_QU_LD_FROMFARANDWIDE,"To earn points, Battle in Raids, collect Milestone Points on Spotlight Raids nodes and collect Allied Supply V Orbs from Free Claims. \nEarn Armory 18 Orbs, T2 Level 5 Ions, Crimson Gear Catalysts, and Homeward Bound progress!\n\nLeaderboard\nCompete on the Leaderboard for Sasquatch Diamond Promotions, Mega Gold Orbs and Armory 19 Orbs!"
+ID_QU_S1_FROMFARANDWIDE,Earn Allied Supply V Orb Fragments from Free Claims and special Offers
+ID_QU_S2_FROMFARANDWIDE,Battle in Raids
+ID_QU_S3_FROMFARANDWIDE,Earn Milestone Points from Spotlight Raids nodes and special Offers
 ID_QU_NA_WILDERNESSEXPEDITION,Wilderness Expedition
 ID_QU_SD_WILDERNESSEXPEDITION,Participate in July Events
 ID_QU_LM_WILDERNESSEXPEDITION,Participate in various events throughout the month of July to earn milestone progress.
@@ -4626,7 +4629,7 @@ ID_QU_S3_WILDERNESSEXPEDITION,Collect 1 Map Fragment #2
 ID_QU_S4_WILDERNESSEXPEDITION,Collect 1 Map Fragment #3
 ID_QU_NA_MAPPINGTHEWILDERNESS,Mapping the Wilderness
 ID_QU_SD_MAPPINGTHEWILDERNESS,Earn Wilderness Orbs
-ID_QU_LD_MAPPINGTHEWILDERNESS,"Mapping the Wilderness Milestone\nGain progress in this 7-day event by earning Wilderness Orb fragments from S.W.O.R.D. Satellite Rewards, battling through Raids with Sasquatch, Guardian, or Northstar at 5+ yellow star, completing the Scientific Breakthrough Web Milestone, 4th of July Calendar, and daily web Free Claims. Earn fantastic rewards including  Dark Promotion Credits, Elite 7 Credits, and Mystic gear. You'll also earn points towards the month-long Wilderness Expedition milestone by collecting Lab Supplies and the valuable Map Fragment #1.\n\nWilderness Orb\nEarned from S.W.O.R.D. Satellite Milestones  4th of July Calendar, and daily web Free Claims, and select offers.\n\nScientific Breakthrough Web Milestone\nSpend Incursion Energy, or battle in Raids to earn Wilderness Orb Fragments and Points for Mapping the Wilderness Milestone progress! Keep an eye out for Free Claims containing milestone points every day!"
+ID_QU_LD_MAPPINGTHEWILDERNESS,"Mapping the Wilderness Milestone\nGain progress in this 7-day event by earning Wilderness Orb fragments from S.W.O.R.D. Satellite Rewards, battling through Raids with Sasquatch, Guardian, or Northstar at 5+ yellow star, completing the Scientific Breakthrough Web Milestone, 4th of July Calendar, and daily web Free Claims. Earn fantastic rewards including  Dark Promotion Credits, Elite 7 Credits, and Mystic gear. You'll also earn points towards the month-long Wilderness Expedition milestone by collecting Lab Supplies and the valuable Map Fragment #1.\n\nWilderness Orb\nEarned from S.W.O.R.D. Satellite Milestones  4th of July Calendar, and daily web Free Claims, and select offers.\n\nMapping the Wilderness Leaderboard\nCompete on the Leaderboards for Crimson Gear and Diamond Promotions for Super Skrull!\n\nScientific Breakthrough Web Milestone\nSpend Incursion Energy, or battle in Raids to earn Wilderness Orb Fragments and Points for Mapping the Wilderness Milestone progress! Keep an eye out for Free Claims containing milestone points every day!\n\n"
 ID_QU_S1_MAPPINGTHEWILDERNESS,Earn 1 Wilderness Orb Fragment
 ID_QU_S2_MAPPINGTHEWILDERNESS,Play 1 Raid Battle with Alpha Flight Team
 ID_QU_S3_MAPPINGTHEWILDERNESS,Play 1 Raid Battle with Sasquatch at 5 Yellow Star
@@ -4774,6 +4777,7 @@ ID_QU_LM_SPLASH_MERCENARYMAYHEM,Earn points by using Mercs For Money characters 
 ID_QU_SC_SPLASH_MERCENARYMAYHEM,Use Mercs For Money Characters in Blitz
 ID_QU_S1_SPLASH_MERCENARYMAYHEM,Win Blitz with a 3-star or higher Mercs For Money Character
 ID_QU_S2_SPLASH_MERCENARYMAYHEM,Win Blitz with a 5-star or higher Mercs For Money Character
+ID_QU_S3_SPLASH_MERCENARYMAYHEM,Win Blitz with a 7-star Mercs For Money Character
 ID_QU_NA_RADIOACTIVEPREP,Radioactive Prep
 ID_QU_SD_RADIOACTIVEPREP,Earn T3 Iso-8 Credits and T3 Level 1 Ions
 ID_QU_LM_RADIOACTIVEPREP,"Radioactive Prep\nDon't miss out on new ISO upgrades that includes T3 Iso-8 Credits and T3 Level 1 Ions in this event by battling in Cosmic Crucible with Illuminati (bonus points for Black Panther (Shuri), Hank Pym, and Captain Britain). You can also score by collecting Radioactive Orb Fragments from Campaign nodes, Free Claims, special Offers, and completing the Purple Punch web milestone. Earn incredible rewards including T3 Iso-8 Credits, T3 Level 1 Ions, and Bio Gear. Collect Radioactive Treats to exchange for T3 ISO in the Radioactive Treats store. You'll also earn points towards the Summer Nights milestone by collecting Disco Balls and a Iso-8 Soda!\n\nRadioactive Prep Leaderboard\nCompete on the Leaderboards for new T3 Level 1 Ions and T3 Iso-8 Credits!\n\nPurple Punch Milestone\nSpend Incursion Energy, or battle in Raids to earn Radioactive Orb Fragments and Points for Radioactive Prep Milestone progress! Keep an eye out for Free Claims containing milestone points every day!"
@@ -4786,7 +4790,6 @@ ID_QU_S5_RADIOACTIVEPREP,Battle in Cosmic Crucible with Captain Britain at 7 Yel
 ID_QU_NA_PURPLEPUNCH,Purple Punch
 ID_QU_SD_PURPLEPUNCH,Raid and Spend Incursion Campaign Energy
 ID_QU_LD_PURPLEPUNCH,"Raid and Spend Incursion Campaign Energy to complete Purple Punch milestones that rewards Radioactive Orb Fragments, and bonus Radioactive Prep progress!"
-ID_QU_S3_SPLASH_MERCENARYMAYHEM,Win Blitz with a 7-star Mercs For Money Character
 ID_QU_NA_MIDNIGHTASSAULT,Midnight Assault
 ID_QU_SD_MIDNIGHTASSAULT,Battle in War for Summer Nights progress!
 ID_QU_LD_MIDNIGHTASSAULT,Collaborate with your alliance to battle through War and earn Allied Supply VI Orb Fragments. Allied Supply VI Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
@@ -4796,11 +4799,11 @@ ID_QU_NA_PPCHILLOUT,POOL Party: Chill Out
 ID_QU_SD_PPCHILLOUT,Spend Event Energy and collect Chimichangas
 ID_QU_LD_PPCHILLOUT,"POOL Party: Chill Out Milestone\nGain progress in this 7-day event by spending POOL Party AND Age of X event energy, and collecting Chimichangas from Daily Missions. Earn fantastic rewards including Mutant Gear, Ability Materials, Promotion Credits, Training Modules, extra POOL Party Orbs, and Mega Gold Orbs.\n\nPOOL Party Orb\nEarned from POOL Party Milestone Events, Login Rewards, and more! Contains a smorgasbord of character shards from this year's team debuts and a generous seasoning of gear and classic POOL Pal character Shards!"
 ID_QU_S1_PPCHILLOUT,Spend 1 POOL Party Event Energy
-ID_QU_S2_PPCHILLOUT,Spend 1 Mind of Magneto Event Energy
+ID_QU_S2_PPCHILLOUT,Spend 1 Age of X Energy
 ID_QU_S3_PPCHILLOUT,Collect 1 Chimichanga from Daily Rewards
 ID_QU_NA_PPDRYOFF,POOL Party: Dry Off
 ID_QU_SD_PPDRYOFF,Spend POOL Party Event Energy and Battle with POOL Pals
-ID_QU_LD_PPDRYOFF,"POOL Party: Dry Off Milestone\nGain progress in this 7-day event by spending POOL Party event energy and battling with Deadpool and his POOL Pals in a number of features including Raids, Arena, Blitz, Cosmic Crucible, and Alliance War. Earn fantastic rewards including Bio Gear, Ability Materials, Promotion Credits, Training Modules, the Hotpool costume and the POOL Portrait avatar frame.\n\nPOOL Party Orb\nEarned from POOL Party Milestone Events, Login Rewards, and more! Contains a smorgasbord of character shards from this year's team debuts and a generous seasoning of gear and classic POOL Pal character Shards!"
+ID_QU_LD_PPDRYOFF,"POOL Party: Dry Off Milestone\nGain progress in this 7-day event by spending POOL Party event energy and battling with Deadpool and his POOL Pals in a number of features including Raids, Arena, Blitz, Cosmic Crucible, and Alliance War. Earn fantastic rewards including Bio Gear, Ability Materials, Promotion Credits, Training Modules, the NicePool costume and the POOL Portrait avatar frame.\n\nPOOL Party Orb\nEarned from POOL Party Milestone Events, Login Rewards, and more! Contains a smorgasbord of character shards from this year's team debuts and a generous seasoning of gear and classic POOL Pal character Shards!"
 ID_QU_S1_PPDRYOFF,Spend 1 POOL Party Event Energy
 ID_QU_S2_PPDRYOFF,Battle with 1 POOL Pal
 ID_QU_NA_QUANTUMDISCO,Quantum Disco
@@ -4819,7 +4822,7 @@ ID_QU_LD_SUBATOMICGROOVE,"Earn Alliance Credits and get rewarded with Disco Ball
 ID_QU_S1_SUBATOMICGROOVE,Earn 1 Alliance Credit
 ID_QU_NA_DIAMONDCLAWS,Diamond Claws
 ID_QU_SD_DIAMONDCLAWS,"Battle in Crucible, Spend Energy & Power Cores, Earn Orbs"
-ID_QU_LD_DIAMONDCLAWS,"Diamond Claws Milestone\nGain progress in this 7-day event by battling in Cosmic Crucible, spending Campaign Energy and Power Cores, completing the Ancient Gems Milestones and earning Midnight Coalition Orb Fragments from Free Claims, the Ancient Gems Milestone and special Offers. \n\nEarn fantastic rewards including T3 and T2 Iso-8 Materials, Training Modules and Crimson gear. You'll also earn points towards the month-long Summer Nights milestone by collecting Disco Balls and the DJ Deadpool Mixtape.\n\nMidnight Coalition Orb\nContains Dark Diamond Credits, Dark Promotion Credits and Pandapool, Daken, Guardian and Northstar shards.\n\nDiamond Claws Leaderboard\nCompete on the Leaderboards for T3 Iso-8 Materials and the long-awaited Diamond Promotions for Old Man Logan!\n\nAncient Gems Web Milestone\nSpend Incursion Energy or earn Blitz Credits to earn Midnight Coalition Orb Fragments and Diamond Claws Milestone progress!"
+ID_QU_LD_DIAMONDCLAWS,"Diamond Claws Milestone\nGain progress in this 7-day event by battling in Cosmic Crucible, spending Campaign Energy and Power Cores, completing the Ancient Gems Milestones and earning Midnight Coalition Orb Fragments from Free Claims, the Ancient Gems Milestone and special Offers. \n\nEarn fantastic rewards including T3 and T2 Iso-8 Materials, Training Modules and Crimson gear. You'll also earn points towards the month-long Summer Nights milestone by collecting Disco Balls and the DJ Deadpool Mixtape.\n\nMidnight Coalition Orb\nContains Dark Dark Diamond Credits, Dark Promotion Credits and Pandapool, Daken, Black Panther (Shuri) and Hank Pym shards.\n\nDiamond Claws Leaderboard\nCompete on the Leaderboards for T3 Iso-8 Materials and the long-awaited Diamond Promotions for Old Man Logan!\n\nAncient Gems Web Milestone\nSpend Incursion Energy or earn Blitz Credits to earn Midnight Coalition Orb Fragments and Diamond Claws Milestone progress!"
 ID_QU_SM_DIAMONDCLAWS,"Battle in Crucible, Spend Energy & Power Cores, Earn Orbs"
 ID_QU_S1_DIAMONDCLAWS,Battle in Cosmic Crucible
 ID_QU_S2_DIAMONDCLAWS,Spend Campaign Energy
@@ -4830,7 +4833,7 @@ ID_QU_NA_ANCIENTGEMS,Ancient Gems
 ID_QU_SD_ANCIENTGEMS,Spend Incursion Energy and earn Blitz Credits
 ID_QU_LD_ANCIENTGEMS,Spend Incursion Energy and earn Blitz Credits to complete this milestone that rewards Midnight Coalition Orbs and Diamond Claws milestone progress!
 ID_QU_S1_ANCIENTGEMS,Spend 1 Incursion Energy
-ID_QU_S2_ANCIENTGEMS,Battle in Blitz
+ID_QU_S2_ANCIENTGEMS,Earn 1 Blitz Credit
 ID_QU_NA_ISOTOPEILLUMINATION,Isotope Illumination
 ID_QU_SD_ISOTOPEILLUMINATION,Spend Iso-8 Campaign Energy for illuminating rewards!
 ID_QU_LD_ISOTOPEILLUMINATION,Gain progress in this event by battling in Iso Campaign and earning Allied Supply VI Orb fragments from daily Free Claims and special offers.
@@ -4838,53 +4841,6 @@ ID_QU_S1_ISOTOPEILLUMINATION,Spend 1 Iso-8 Campaign Energy
 ID_QU_S2_ISOTOPEILLUMINATION,Earn 1 Allied Supply VI Orb Fragment
 ID_QU_NA_GLADIATORORB,Gladiator's Expedition
 ID_QU_SD_GLADIATORORB,"Find Gladiator Annihilator Orb Fragments in arena, events, and offers!"
-ID_QU_LD_GLADIATORORB,Gladiator's Expedition Milestone\nOpen Gladiator Annihilator Orbs to earn progress and receive guaranteed additional Gladiator shards!
-ID_QU_S1_GLADIATORORB,Open 1 Gladiator Annihilator Orb
-ID_QU_NA_SPLASH_INFINITYCOMMAND,Infinity Command
-ID_QU_SD_SPLASH_INFINITYCOMMAND,Use Black Order in Blitz
-ID_QU_LM_SPLASH_INFINITYCOMMAND,Earn points by using Black Order characters in Blitz Battles. Earn more points if your Black Order characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
-ID_QU_SC_SPLASH_INFINITYCOMMAND,Use Black Order Characters in Blitz
-ID_QU_S1_SPLASH_INFINITYCOMMAND,Win Blitz with a 3-star or higher Black Order Character
-ID_QU_S2_SPLASH_INFINITYCOMMAND,Win Blitz with a 5-star or higher Black Order Character
-ID_QU_S3_SPLASH_INFINITYCOMMAND,Win Blitz with a 7-star Black Order Character
-ID_QU_NA_GLADIATORWEEKEND,Weekend Arena Warriors
-ID_QU_SD_GLADIATORWEEKEND,Get Captain Britain's Awakened Ability and Annihilator orbs!
-ID_QU_LD_GLADIATORWEEKEND,"Weekend Arena Warriors Milestone\nEarn progress by battling in Arena with a bonus for using Annihilators. Receive guaranteed additional Gladiator Annihilator Orbs and Captain Britain Awakened Ability Avalon Strike! Find Gladiator Annihilator Orb Fragments in arena, events, and offers!"
-ID_QU_S1_GLADIATORWEEKEND,Earn 1 Arena Credit
-ID_QU_S2_GLADIATORWEEKEND,Battle in Arena with Silver Surfer at 3 Yellow Star
-ID_QU_S3_GLADIATORWEEKEND,Battle in Arena with Ultimus at 3 Yellow Star
-ID_QU_S4_GLADIATORWEEKEND,Battle in Arena with Gladiator at 5 Yellow Star
-ID_QU_S5_GLADIATORWEEKEND,Battle in Arena with Gladiator at 6 Yellow Star
-ID_QU_S6_GLADIATORWEEKEND,Battle in Arena with Gladiator at 7 Yellow Star
-ID_QU_S7_GLADIATORWEEKEND,Battle in Arena with Gladiator
-ID_QU_SD_REGULARITY,"Spend Campaign Energy, Battle in Raids, Blitz and War"
-ID_QU_LD_REGULARITY,"Spend Campaign Energy, Battle in Raids, Blitz and War to complete this milestone. Get your login streak back and enjoy the game in an easy way."
-ID_QU_S1_REGULARITY,Spend Campaign Energy
-ID_QU_S2_REGULARITY,Spend Iso-8 Campaign Energy
-ID_QU_S3_REGULARITY,Battle in Raids
-ID_QU_S4_REGULARITY,Battle in Blitz
-ID_QU_S5_REGULARITY,Battle in War
-ID_QU_NA_REGULARITY,Streak Surge
-ID_QU_NA_THEANNIHILATORINITIATIVE,The Annihilator Initiative
-ID_QU_SD_THEANNIHILATORINITIATIVE,Participate in August Events
-ID_QU_LM_THEANNIHILATORINITIATIVE,Participate in various events throughout the month of August to earn milestone progress.
-ID_QU_S1_THEANNIHILATORINITIATIVE,Collect Cosmic Power
-ID_QU_S2_THEANNIHILATORINITIATIVE,Collect 1 Plandanium Armor
-ID_QU_S3_THEANNIHILATORINITIATIVE,Collect 1 Twilight Sword
-ID_QU_S4_THEANNIHILATORINITIATIVE,Collect 1 Quantum Bands
-ID_QU_NA_TEAMORB_GORR,Gorr's Hunt
-ID_QU_SD_TEAMORB_GORR,Get additional shards for Gorr!
-ID_QU_LD_TEAMORB_GORR,"Gorr's Hunt Milestone\nOpen Gorr Annihilator Orbs to earn progress and receive guaranteed additional Gorr shards! Find Gorr Annihilator Orb Fragments in arena, events, and offers!"
-ID_QU_S1_TEAMORB_GORR,Open 1 Gorr Annihilator Orb
-ID_QU_NA_COSMICTHREAT,Cosmic Threat
-ID_QU_SD_COSMICTHREAT,Earn Illumination Orbs from Campaigns
-ID_QU_LD_COSMICTHREAT,"Cosmic Threat Milestone\nGain progress in this 8-day event by earning Illumination Orb Fragments from Campaign Nodes, opening the Gleaming Gold costume orb, completing the Galactic Peril Web Milestone, and daily web Free Claims. Earn fantastic rewards including T3 Iso-8 Crystals and Ions, Radioactive Treats, and Crimson Mystic gear. You'll also earn points towards the month-long Annihilator Initiative Milestone by collecting Cosmic Power and the valuable Plandanium Armor.\n\nIllumination Orb\nEarned from Campaigns, Free Claims and special Offers.\n\nGalactic Peril Web Milestone\nBattle in Raids to earn Illumination Orb Fragments and Cosmic Threat Milestone progress! Keep an eye out for Free Claims containing milestone points every day!\n\n"
-ID_QU_S1_COSMICTHREAT,Earn 1 Illumination Orb Fragment
-ID_QU_S2_COSMICTHREAT,Open 1 Gleaming Gold Orb
-ID_QU_NA_GALACTICPERIL,Galactic Peril
-ID_QU_SD_GALACTICPERIL,Battle in Raids
-ID_QU_LD_GALACTICPERIL,"Battle in Raids to complete this 8-day milestone that rewards Cosmic Power, and bonus Cosmic Threat progress!"
-ID_QU_S1_GALACTICPERIL,Play 1 Raid Battle
 ID_QU_NA_SPLASH_COSMICPROTECTORS,Cosmic Protectors
 ID_QU_SD_SPLASH_COSMICPROTECTORS,Use Infinity Watchs in Blitz
 ID_QU_LM_SPLASH_COSMICPROTECTORS,Earn points by using Infinity Watch characters in Blitz Battles. Earn more points if your Infinity Watch characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
@@ -4946,15 +4902,31 @@ ID_QU_SD_COSMICDOMINANCE,Play War battles for glorious rewards!
 ID_QU_LD_COSMICDOMINANCE,Cosmic Dominance Milestone\nGain progress in this 6-day event by collaborating with your alliance to battle through War and earn Allied Supply VI Orb Fragments. Allied Supply VI Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
 ID_QU_S1_COSMICDOMINANCE,Play 1 War battle
 ID_QU_S2_COSMICDOMINANCE,Earn 1 Allied Supply VI Orb Fragment
-ID_QU_LD_GORRWEEKEND,"Weekend Arena Warriors Milestone\nEarn progress by battling in Arena with bonus points for using Annihilators. Receive guaranteed additional Gorr Annihilator Orbs and Captain Britain Awakened Ability Avalon Strike! Find Gorr Annihilator Orb Fragments in arena, events, and offers!"
-ID_QU_S5_GORRWEEKEND,Battle in Arena with Silver Surfer
-ID_QU_S6_GORRWEEKEND,Battle in Arena with Ultimus
-ID_QU_S1_GORRWEEKEND,Battle in Arena with Gorr at 5 Yellow Star
-ID_QU_S2_GORRWEEKEND,Battle in Arena with Gorr at 6 Yellow Star
-ID_QU_S3_GORRWEEKEND,Battle in Arena with Gorr at 7 Yellow Star
-ID_QU_S4_GORRWEEKEND,Battle in Arena with Gorr
-ID_QU_LD_THANOSWEEKEND,"Weekend Arena Warriors Milestone\nEarn progress by battling in Arena with bonus points for using Annihilators. Receive guaranteed additional Thanos Annihilator Orbs and Captain Britain Awakened Ability Avalon Strike! Find Thanos Annihilator Orb Fragments in arena, events, and offers!"
-ID_QU_S1_THANOSWEEKEND,Battle in Arena with Thanos (Endgame) at 5 Yellow Star
-ID_QU_S2_THANOSWEEKEND,Battle in Arena with Thanos (Endgame) at 6 Yellow Star
-ID_QU_S3_THANOSWEEKEND,Battle in Arena with Thanos (Endgame) at 7 Yellow Star
-ID_QU_S4_THANOSWEEKEND,Battle in Arena with Thanos (Endgame)
+ID_QU_LD_GLADIATORORB,Gladiator's Expedition Milestone\nOpen Gladiator Annihilator Orb Orbs to earn progress and receive guaranteed additional Gladiator shards!
+ID_QU_S1_GLADIATORORB,Open 1 Gladiator Annihilator Orb
+ID_QU_NA_GREATERPURPOSE,A Greater Purpose
+ID_QU_DE_GREATERPURPOSE,Earn Cosmic Power and the Quantum Bands!
+ID_QU_LD_GREATERPURPOSE,"A Greater Purpose Milestone\nGain progress in this event by spending Iso-8 Campaign Energy, battling in Cosmic Crucible, collecting Crimson Council Orb Fragments and battling in Blitz with Annihilators. Earn rewards including Gladiator shards, Radioactive Treats, T3 Iso-8 Materials and Crimson Gear. You'll also earn points towards the month-long The Annihilator Initiative milestone by collecting Cosmic Power and  the Quantum Bands.\n\nA Greater Power Web Milestone\nGain progress by spending Radioactive Treats in the Radioactive Treats store. Earn A Greater Purpose milestone points, Crimson Council Orb Fragments and Augmented Catalysts. Keep an eye out for Free Claims containing Crimson Council Orb Fragments every day!"
+ID_QU_SD_GREATERPURPOSE,"Spend Iso-8 Energy, Battle in Crucible and more!"
+ID_QU_S1_GREATERPURPOSE,Spend Iso-8 Energy
+ID_QU_S2_GREATERPURPOSE,Battle in Cosmic Crucible
+ID_QU_S3_GREATERPURPOSE,"Earn Crimson Council Orb Fragments from the web milestone, Free Claims and Special Offers"
+ID_QU_S4_GREATERPURPOSE,Blitz with Annihilators
+ID_QU_S5_GREATERPURPOSE,Blitz with Gladiator at 5 Yellow Stars
+ID_QU_S6_GREATERPURPOSE,Blitz with Gorr at 5 Yellow Stars
+ID_QU_S7_GREATERPURPOSE,Blitz with Thanos (Endgame) at 5 Yellow Stars
+ID_QU_S8_GREATERPURPOSE,Earn milestone points from the web milestone and Special Offers
+ID_QU_NA_GREATERPOWER,A Greater Power
+ID_QU_SD_GREATERPOWER,Spend Radioactive Treats
+ID_QU_LD_GREATERPOWER,"Spend Radioactive Treats in the Radioactive Treats store, and get rewarded with A Greater Purpose milestone progress, Crimson Council Orbs and Augmented Catalysts."
+ID_QU_S1_GREATERPOWER,Spend 1 Radioactive Treat
+ID_QU_NA_TOLERANCEISEXTINCTION,Tolerance is Extinction
+ID_QU_SD_TOLERANCEISEXTINCTION,"Battle in Orchis Raids, earn event Orbs and more!"
+ID_QU_LD_TOLERANCEISEXTINCTION,"Celebrate the arrival of Orchis Raids and the Orchis team with this new alliance event! \n\nTolerance is Extinction Milestone\nTo score points:\n- Battle in Raids\n- Collect Milestone Points from Orchis Raids nodes\n- Earn Allied Supply VI Orb Fragments\n\nEarn fantastic rewards including Cosmic Power, Orchis Team Orbs, Ciphers and T3 Iso-8 Materials!\n\nAllied Supply VI orb\nEarn these alliance event orbs for progress in Tolerance is Extinction! Collect the Allied Supply VI Orb in special offers and daily free claims on the web!"
+ID_QU_S1_TOLERANCEISEXTINCTION,Earn Allied Supply VI Orb Fragments from Free Claims and special Offers
+ID_QU_S2_TOLERANCEISEXTINCTION,Earn Milestone Points from Orchis Raids nodes and special Offers
+ID_QU_S3_TOLERANCEISEXTINCTION,Battle in Raids
+ID_QU_S4_TOLERANCEISEXTINCTION,Battle in Raids with Orchis characters
+ID_QU_S5_TOLERANCEISEXTINCTION,Battle in Raids with Sentinel
+ID_QU_S6_TOLERANCEISEXTINCTION,Battle in Raids with Nimrod
+ID_QU_S7_TOLERANCEISEXTINCTION,Battle in Raids with Omega Sentinel

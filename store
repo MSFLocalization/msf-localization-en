@@ -8904,6 +8904,7 @@ ID_OCAT_CHARACTER_UNLOCK,UNLOCKED OFFERS
 ID_OCAT_EVENTS,EVENTS
 ID_OCAT_FEATURED,FEATURED
 ID_OCAT_NEW_PLAYERS,FOR NEW PLAYERS
+ID_OCAT_LIFECYCLE_OFFERS,LEVEL UP OFFERS
 ID_GACHA_CRATE_GREENGOBLINGLIDER_NAME,Green Goblin (Classic) Orb
 ID_GACHA_CRATE_GREENGOBLINGLIDER_DESCRIPTION,Earn up to 100 Green Goblin (Classic) Shards
 ID_GACHA_CRATE_GREENGOBLINGLIDER_TOKEN_NAME,Green Goblin (Classic) Orb Fragments
@@ -9161,9 +9162,9 @@ ID_GACHA_CRATE_PANTHER_DESCRIPTION,Contains Black Panther (Shuri)
 ID_GACHA_CRATE_PANTHER_TOKEN_NAME,Panther Orb Fragments
 ID_GACHA_CRATE_PANTHER_TOKEN_DESCRIPTION,Find Panther Orb Fragments in a special offer
 ID_GACHA_CRATE_POOLPARTY2024_NAME,POOL Party Orb
-ID_GACHA_CRATE_POOLPARTY2024_DESCRIPTION,Contains a smorgasbord of characters shards from this year's team debuts and a generous seasoning of gear and catalysts!
+ID_GACHA_CRATE_POOLPARTY2024_DESCRIPTION,"Contains character shards from this year's team debuts, POOL Pal character Shards, and gear!"
 ID_GACHA_CRATE_POOLPARTY2024_TOKEN_NAME,POOL Party Orb Fragment
-ID_GACHA_CRATE_POOLPARTY2024_TOKEN_DESCRIPTION,Collect these fragments and open POOL Party Orbs for a smorgasbord of characters shards from this year's team debuts and a generous seasoning of gear and catalysts!
+ID_GACHA_CRATE_POOLPARTY2024_TOKEN_DESCRIPTION,"Collect these fragments and open POOL Party Orbs for character shards from this year's team debuts, POOL Pal character Shards, and gear!"
 ID_GACHA_CRATE_ALPHAMERCS_NAME,Alpha Mercs Orb
 ID_GACHA_CRATE_ALPHAMERCS_DESCRIPTION,"Contains shards for Mercs for Money characters, Alpha Flight Characters and more!"
 ID_GACHA_CRATE_ALPHAMERCS_TOKEN_NAME,Alpha Mercs Orb Fragment
@@ -9188,6 +9189,7 @@ ID_GACHA_CRATE_JARVIS_RECOMMENDED_TOKEN_DESCRIPTION,"Contains 5-50 shards of ess
 ID_GACHA_CRATE_QUANTUMHANK_NAME,Quantum Hank Orb
 ID_GACHA_CRATE_QUANTUMHANK_DESCRIPTION,Contains Hank Pym
 ID_GACHA_CRATE_QUANTUMHANK_TOKEN_NAME,Quantum Hank Orb Fragments
+ID_GACHA_CRATE_QUANTUMHANK_TOKEN_DESCRIPTION,Find Quantum Hank Orb Fragments in a special offer
 ID_GACHA_CRATE_FCO_GLADIATOR_SPECIAL_NAME,Shi'ar's Finest Orb
 ID_GACHA_CRATE_FCO_GLADIATOR_SPECIAL_DESCRIPTION,Earn up to 180 Gladiator shards
 ID_GACHA_CRATE_FCO_GLADIATOR_SPECIAL_TOKEN_NAME,Shi'ar's Finest Orb Fragments
@@ -9199,20 +9201,12 @@ ID_GACHA_CRATE_FCO_GORR_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for God Butc
 ID_GACHA_CRATE_FCO_THANOSENDGAME_SPECIAL_NAME,Perfectly Balanced Orb
 ID_GACHA_CRATE_FCO_THANOSENDGAME_SPECIAL_DESCRIPTION,Earn up to 180 Thanos (Endgame) shards
 ID_GACHA_CRATE_FCO_THANOSENDGAME_SPECIAL_TOKEN_NAME,Perfectly Balanced Orb Fragments
+ID_GACHA_CRATE_FCO_THANOSENDGAME_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Perfectly Balanced Orbs that contain up to 180 Thanos (Endgame) shards.
 ID_GACHA_CRATE_ARESRELEASE_PACK_NAME,Ares Premium Plus Pack
 ID_GACHA_CRATE_ARESRELEASE_PACK_DESCRIPTION,"Contains Helm of Ares tokens, Silver Diamond Credits, Gold, and L4 Training Modules!"
-ID_GACHA_CRATE_FCO_THANOSENDGAME_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Perfectly Balanced Orbs that contain up to 180 Thanos (Endgame) shards.
-ID_GACHA_CRATE_QUANTUMHANK_TOKEN_DESCRIPTION,Find Quantum Hank Orb Fragments in a special offer
-ID_GACHA_CRATE_JARVISRECOMMENDED_NAME,J.A.R.V.I.S. Recommended Orb
-ID_GACHA_CRATE_JARVISRECOMMENDED_DESCRIPTION,Contains 5-20 shards of essential characters to build your roster
 ID_GACHA_CRATE_MIDNIGHTCOALITION_NAME,Midnight Coalition Orb
-ID_GACHA_CRATE_MIDNIGHTCOALITION_DESCRIPTION,"Contains Dark Diamond Credits, Dark Promotion Credits and shards for Pandapool, Daken, Guardian and Northstar!"
+ID_GACHA_CRATE_MIDNIGHTCOALITION_DESCRIPTION,"Contains Dark Diamond Credits, Dark Promotion Credits and shards for Pandapool, Daken, Black Panther (Shuri) and Hank Pym!"
 ID_GACHA_CRATE_MIDNIGHTCOALITION_TOKEN_NAME,Midnight Coalition Orb Fragments
-ID_GACHA_CRATE_MIDNIGHTCOALITION_TOKEN_DESCRIPTION,"Collect fragments for orbs containing Dark Diamond Credits, Dark Promotion Credits and shards for Pandapool, Daken, Guardian and Northstar!"
-ID_GACHA_CRATE_ANNIHILATORS_NAME,Gladiator Annihilator Orb
-ID_GACHA_CRATE_ANNIHILATORS_DESCRIPTION,Earn progress in the Gladiator's Expedition Milestone to collect more Gladiator Shards!
-ID_GACHA_CRATE_ANNIHILATORS_TOKEN_NAME,Gladiator Annihilator Orb Fragments
-ID_GACHA_CRATE_ANNIHILATORS_TOKEN_DESCRIPTION,"Find Gladiator Annihilator Orb Fragments in arena, events, and offers!"
 ID_GACHA_CRATE_TEAMORB_GORR_NAME,Gorr Annihilator Orb
 ID_GACHA_CRATE_TEAMORB_GORR_DESCRIPTION,Earn progress in the Gorr's Hunt Milestone to collect more Gorr Shards!
 ID_GACHA_CRATE_TEAMORB_GORR_TOKEN_NAME,Gorr Annihilator Orb Fragments
@@ -9229,3 +9223,16 @@ ID_GACHA_CRATE_TEAMORB_THANOS_NAME,Thanos Annihilator Orb
 ID_GACHA_CRATE_TEAMORB_THANOS_DESCRIPTION,Earn progress in the Thanos' Crusade Milestone to collect more Thanos (Endgame) Shards!
 ID_GACHA_CRATE_TEAMORB_THANOS_TOKEN_NAME,Thanos Annihilator Orb Fragments
 ID_GACHA_CRATE_TEAMORB_THANOS_TOKEN_DESCRIPTION,"Find Thanos Annihilator Orb Fragments in arena, events, and offers!"
+ID_GACHA_CRATE_MIDNIGHTCOALITION_TOKEN_DESCRIPTION,"Collect fragments for orbs containing Dark Diamond Credits, Dark Promotion Credits and shards for Pandapool, Daken, Black Panther (Shuri) and Hank Pym!"
+ID_GACHA_CRATE__NAME,Gladiator Annihilator Orb
+ID_GACHA_CRATE__DESCRIPTION,Earn progress in the Gladiator's Expedition Milestone to collect more Gladiator Shards!
+ID_GACHA_CRATE__TOKEN_NAME,Gladiator Annihilator Orb Fragments
+ID_GACHA_CRATE__TOKEN_DESCRIPTION,"Find Gladiator Annihilator Orb Fragments in arena, events, and offers!"
+ID_GACHA_CRATE_CRIMSONCOUNCIL_NAME,Crimson Council Orb
+ID_GACHA_CRATE_CRIMSONCOUNCIL_DESCRIPTION,Contains Crimson Gear and shards for Illuminati and Alpha Flight characters!
+ID_GACHA_CRATE_CRIMSONCOUNCIL_TOKEN_NAME,Crimson Council Orb Fragments
+ID_GACHA_CRATE_CRIMSONCOUNCIL_TOKEN_DESCRIPTION,Open Crimson Council Orbs for Crimson Gear and shards for Illuminati and Alpha Flight characters!
+ID_GACHA_CRATE_FCO_SENTINEL_SPECIAL_NAME,Halt Mutant Orb
+ID_GACHA_CRATE_FCO_SENTINEL_SPECIAL_DESCRIPTION,Earn up to 180 Sentinel shards.
+ID_GACHA_CRATE_FCO_SENTINEL_SPECIAL_TOKEN_NAME,Halt Mutant Orb Fragments
+ID_GACHA_CRATE_FCO_SENTINEL_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Halt Mutant Orbs that contain up to 180 Sentinel shards.

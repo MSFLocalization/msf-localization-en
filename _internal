@@ -338,3 +338,4 @@ ID_SPARX_IAP_GOOGLE_ERROR_ACCOUNT,You must be signed in to a Google Play account
 ID_SPARX_IAP_SAMSUNG_ERROR_ACCOUNT,Problems encountered while connecting to Samsung Galaxy Apps.
 ID_EXPIRED_CONTACT_SUPPORT,Contact Support
 ID_EXPIRED_START_NEW_PROFILE,Start New Profile
+ID_PLUS_SIGN,+{value}

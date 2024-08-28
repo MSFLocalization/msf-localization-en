@@ -151,14 +151,6 @@ ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARCHANGEL_PASSIVE_NAME,Archangel's Passiv
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARCHANGEL_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARCHANGEL_ULTIMATE_NAME,Archangel's Ultimate Awakened Ability Material
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARCHANGEL_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
-ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_BASIC_NAME,Ares' Basic Awakened Ability Material
-ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_BASIC_DESCRIPTION,Used to further upgrade character abilities.
-ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_SPECIAL_NAME,Ares' Special Awakened Ability Material
-ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
-ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_ULTIMATE_NAME,Ares' Ultimate Awakened Ability Material
-ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
-ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_PASSIVE_NAME,Ares' Passive Awakened Ability Material
-ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_BASIC_NAME,Apocalypse's Basic Awakened Ability Material
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_BASIC_DESCRIPTION,Used to further upgrade character abilities.
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_SPECIAL_NAME,Apocalypse's Special Awakened Ability Material
@@ -167,6 +159,14 @@ ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_ULTIMATE_NAME,Apocalypse's Ult
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_PASSIVE_NAME,Apocalypse's Passive Awakened Ability Material
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_BASIC_NAME,Ares' Basic Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_BASIC_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_SPECIAL_NAME,Ares' Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_ULTIMATE_NAME,Ares' Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_PASSIVE_NAME,Ares' Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_NOVA_BASIC_NAME,Nova's Basic Awakened Ability Material
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_NOVA_BASIC_DESCRIPTION,Used to further upgrade character abilities.
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_NOVA_SPECIAL_NAME,Nova's Special Awakened Ability Material
@@ -534,7 +534,7 @@ ID_EVTA_META_JUN_S_DESCRIPTION,These points earn you additional progress in the 
 ID_EVENT_CUR18_NAME,Am-Can Orb Fragment
 ID_EVENT_CUR18_DESCRIPTION,"Collect to progress in the On Guard For Thee milestone, and open Am-Can Orbs to earn Guardian shards!"
 ID_BFYB-CUR_NAME,Strike Points
-ID_BFYB-CUR_DESCRIPTION,Strike Points can be used to make purchases in the Strike Store section of the Store
+ID_BFYB-CUR_DESCRIPTION,Strike Points can be used to make purchases in the Strike Store section of the in-game Store. The Strike Store will only be visible when your Strike Points balance is greater than zero.
 ID_EVTA_META_JUN_Y_NAME,Take Flight: Sasquatch Milestone Point
 ID_EVTA_META_JUN_Y_DESCRIPTION,Gain additional progress in the Take Flight: Sasquatch Milestone. Earn them in limited time Sasquatch offers!
 ID_EVTA_META_JUN_T_NAME,From Far and Wide Milestone Point
@@ -555,10 +555,10 @@ ID_EVTA_META_JUL_H_NAME,Captain Britain's Shield
 ID_EVTA_META_JUL_H_DESCRIPTION,Collect this symbol of British valour three times to unlock Captain Britain himself!
 ID_EVTA_META_JUL_G_NAME,The Guardian of the Camp Milestone Points
 ID_EVTA_META_JUL_G_DESCRIPTION,These points earn you additional progress in the The Guardian of the Camp Milestone. Earn them in the The Beast Within Web Milestone and Special Offers!
-ID_EVENT_CUR5_NAME,POOLside Chimichanga
-ID_EVENT_CUR5_DESCRIPTION,Collect these iconic snacks for points at Deadpool's POOL Party
 ID_EVTA_META_JUL_I_NAME,Machines for Money Milestone Points
 ID_EVTA_META_JUL_I_DESCRIPTION,These points earn you additional progress in the Machines for Money Milestone. Earn them in Special Offers!
+ID_EVENT_CUR5_NAME,POOLside Chimichanga
+ID_EVENT_CUR5_DESCRIPTION,Collect these iconic snacks for points at Deadpool's POOL Party
 ID_EVTA_META_AUG_A_NAME,Disco Ball
 ID_EVTA_META_AUG_A_DESCRIPTION,Collect Disco Balls for points in the Summer Nights Event. Earn them in various events throughout the months of July & August
 ID_EVTA_META_AUG_B_NAME,Party Mask
@@ -569,6 +569,8 @@ ID_EVTA_META_AUG_D_NAME,Photon Projector
 ID_EVTA_META_AUG_D_DESCRIPTION,Collect the Photon Projector for points in the Summer Nights Event. Earn it in the Quantum Disco Event!
 ID_EVTA_META_AUG_E_NAME,DJ Deadpool Mixtape
 ID_EVTA_META_AUG_E_DESCRIPTION,Collect the DJ Deadpool Mixtape for points in the Summer Nights Event. Earn it in the Diamond Claws Event!
+ID_EVTA_META_JUL_X_NAME,Helm of Ares
+ID_EVTA_META_JUL_X_DESCRIPTION,Collect Helm of Ares tokens for points in the Drums of War Event. Earn it from Ares Battle Pass tiers and limited time offers.
 ID_EVTA_META_AUG_F_NAME,Adamantium Is Forever Milestone Points
 ID_EVTA_META_AUG_F_DESCRIPTION,These points earn you additional progress in the Adamantium Is Forever Milestone. Earn them in the Diamond Dazzle Web Milestone and Special Offers!
 ID_EVTA_META_AUG_G_NAME,Radioactive Prep Milestone Points
@@ -581,10 +583,6 @@ ID_EVTA_META_AUG_K_NAME," Midnight Assault Milestone Points"
 ID_EVTA_META_AUG_K_DESCRIPTION,These points earn you additional progress in the Midnight Assault Milestone. Earn them in Special Offers!
 ID_EVTA_META_AUG_L_NAME," Isotope Illumination Milestone Points"
 ID_EVTA_META_AUG_L_DESCRIPTION,These points earn you additional progress in the Isotope Illumination Milestone. Earn them in Special Offers!
-ID_EVTA_META_AUG_N_NAME,Weekend Arena Warriors Milestone Point
-ID_EVTA_META_AUG_N_DESCRIPTION,Earn Progress in the Weekend Arena Warriors Milestone
-ID_EVTA_META_AUG_I_NAME,Diamond Claws Milestone Points
-ID_EVTA_META_AUG_I_DESCRIPTION,These points earn you additional progress in the Diamond Claws Milestone. Earn them in Special Offers!
 ID_EVTA_META_AUG_P_NAME,Cosmic Power
 ID_EVTA_META_AUG_P_DESCRIPTION,Collect Cosmic Power for points in The Annihilator Initiative Event. Earn them in various events throughout the month of August
 ID_EVTA_META_AUG_Q_NAME,Plandanium Armor

@@ -3759,11 +3759,11 @@ ID_MIS_ANNIHILATOR_GLADIATOR_01_DESC,Cosmo and their allies are searching for he
 ID_MIS_ANNIHILATOR_GLADIATOR_02_NAME,Supreme Majestor
 ID_MIS_ANNIHILATOR_GLADIATOR_02_DESC,"Gladiator is hesitant to aid the resistance, when the Phalanx strike again."
 ID_MIS_ANNIHILATOR_GLADIATOR_03_NAME,The Front
-ID_MIS_ANNIHILATOR_GLADIATOR_03_DESC,"Uniting with Star-Lord and the rest of the resistance, Gladiator aids against Ultron's forces."
+ID_MIS_ANNIHILATOR_GLADIATOR_03_DESC,"Uniting with Star Lord and the rest of the resistance, Gladiator aids against Ultron's forces."
 ID_MIS_ANNIHILATOR_GLADIATOR_04_NAME,Imperial Insubordination
 ID_MIS_ANNIHILATOR_GLADIATOR_04_DESC,Gladiator has to get used to taking orders instead of giving them.
 ID_MIS_ANNIHILATOR_GLADIATOR_05_NAME,Hail Mary
-ID_MIS_ANNIHILATOR_GLADIATOR_05_DESC,"Star-Lord has a plan to stop the Phalanx, they just need to live long enough to see it through."
+ID_MIS_ANNIHILATOR_GLADIATOR_05_DESC,"Star Lord has a plan to stop the Phalanx, they just need to live long enough to see it through."
 ID_MIS_ANNIHILATOR_GLADIATOR_06_NAME,Imperial's Finest Guard Challenge 1
 ID_MIS_ANNIHILATOR_GLADIATOR_06_DESC,Gladiator Annihilator Challenge 1
 ID_MIS_ANNIHILATOR_GLADIATOR_07_NAME,Imperial's Finest Guard Challenge 2
@@ -3787,7 +3787,7 @@ ID_MIS_ANNIHILATOR_GORR_07_DESC,Gorr Annihilator Challenge 2
 ID_MIS_ANNIHILATOR_GORR_08_NAME,Chaotic Butchering Challenge 3
 ID_MIS_ANNIHILATOR_GORR_08_DESC,Gorr Annihilator Challenge 3
 ID_MIS_ANNIHILATOR_TEAM_01_NAME,Desperate Times
-ID_MIS_ANNIHILATOR_TEAM_01_DESC,"With the Supreme Intelligence taken by Ultron, Star-Lord has an idea."
+ID_MIS_ANNIHILATOR_TEAM_01_DESC,"With the Supreme Intelligence taken by Ultron, Star Lord has an idea."
 ID_MIS_ANNIHILATOR_TEAM_02_NAME,Jailbreak
 ID_MIS_ANNIHILATOR_TEAM_02_DESC,The Annihilators attempt to free a prisoner from deep within the core of a distant moon.
 ID_MIS_ANNIHILATOR_TEAM_03_NAME,Guards and Bars
@@ -3803,7 +3803,7 @@ ID_MIS_ANNIHILATOR_TEAM_07_DESC,Annihilator Team Challenge 2
 ID_MIS_ANNIHILATOR_TEAM_08_NAME,Protectors of the Cosmos Challenge 3
 ID_MIS_ANNIHILATOR_TEAM_08_DESC,Annihilator Team Challenge 3
 ID_MIS_ANNIHILATOR_THANOSEG_01_NAME,One Big Push
-ID_MIS_ANNIHILATOR_THANOSEG_01_DESC,"With Thanos joining the resistance, part two of Star-Lord's new plan goes into effect."
+ID_MIS_ANNIHILATOR_THANOSEG_01_DESC,"With Thanos joining the resistance, part two of Star Lord's new plan goes into effect."
 ID_MIS_ANNIHILATOR_THANOSEG_02_NAME,Crash Through
 ID_MIS_ANNIHILATOR_THANOSEG_02_DESC,"With the Phalanx blockading Hala, the Annihilators must push through to get Thanos to the surface."
 ID_MIS_ANNIHILATOR_THANOSEG_03_NAME,Commune with Evil
@@ -3846,5 +3846,5 @@ ID_ECM_AGEOFX_CH1_02_DESC,"Entering Magneto's mind, the heroes face his first li
 ID_ECM_AGEOFX_CH1_03_DESC,The memory of those who should stand with Magneto stand in his way.
 ID_ECM_AGEOFX_CH1_04_DESC,"Hunted by humanity's greatest defenders, Magneto stands against the Avengers."
 ID_ECM_AGEOFX_CH1_05_DESC,"Deep into Magneto's subconscious, the heroes face what he views as his greatest failure."
-ID_ECM_AGEOFX_CH1_06_DESC,"Forever haunted by the evils committed against him and his family, Magneto's mind conjures a terrible visage."
+ID_ECM_AGEOFX_CH1_06_DESC,"Forever haunted by the evils committed against him and his family, Magento's mind conjures a terrible visage."
 ID_ECM_AGEOFX_CH1_07_DESC,"To discover what lies at the center of his mind, Magneto must face his truest fear."
