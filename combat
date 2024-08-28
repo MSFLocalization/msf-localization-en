@@ -345,6 +345,7 @@ ID_ABILITY_TOAST_NIGHTNURSE_PASSIVE,Triage
 ID_ABILITY_TOAST_NOBU_PASSIVE,Secrets of Death
 ID_ABILITY_TOAST_NORTHSTAR_PASSIVE,True North
 ID_ABILITY_TOAST_NOVA_PASSIVE,The Human Rocket
+ID_ABILITY_TOAST_ODIN_PASSIVE,All-Father
 ID_ABILITY_TOAST_OKOYE_PASSIVE,Dora Milaje
 ID_ABILITY_TOAST_OLDMANLOGAN_PASSIVE,Better with Age
 ID_ABILITY_TOAST_OMEGARED_PASSIVE,Death Factor
@@ -504,6 +505,8 @@ ID_BATTLEFIELD_BE_NOVA_NAME,<color=#3b8dcb>Nova Force</color>
 ID_BATTLEFIELD_BE_NOVA_DESC,"On this character's or ally's Turn, that character clears <color=#86e619>1</color> negative effect, gains +<color=#86e619>2</color> <color=#fff568>Deflect</color>, up to a maximum of <color=#86e619>10</color>, and heals for <color=#86e619>5%</color> of Max Health.\nFor this character and each ally, when that character drops below <color=#86e619>50%</color> health, heal that character for <color=#86e619>50%</color> of Max Health. This can only occur once per match for self and each ally.\nThis character and all allies gain +<color=#86e619>5%</color> Damage per <color=#fff568>Deflect</color> on that character.\nThis Battlefield Effect lasts until cleared or until the end of the match."
 ID_BATTLEFIELD_BE_MEPHISTO_NAME,<color=#FF5D00>Mark of Mephisto</color>
 ID_BATTLEFIELD_BE_MEPHISTO_DESC,"On any Turn, Barrier all allies for <color=#86e619>5%</color> of that character's Max Health.\nAllies gain <color=#86e619>+50%</color> Drain and Armor.\nAllies cannot gain <color=#fff568>Trauma</color>.\nAllies cannot have their Speed Bar reduced.\nThis Battlefield Effect lasts until cleared or until the end of the match."
+ID_BATTLEFIELD_BE_ODIN_NAME,<color=#f4ca11>All-Father's Fury</color>
+ID_BATTLEFIELD_BE_ODIN_DESC,"If this is active at the start of an enemy turn, on enemy turn end, Odin will use his Basic - Gungnir's Onslaught."
 ID_TO_ME_MY_BOARD,"To me, my board!"
 ID_TO_US_OUR_BOARD,"To us, our board!"
 ID_PING,PING!

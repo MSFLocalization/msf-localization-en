@@ -1555,3 +1555,6 @@ ID_FRAME_POOLPARTY_POP_NAME,Best Friends
 ID_FRAME_POOLPARTY_POP_UNLOCK,Via the Adamantium Is Forever event
 ID_FRAME_SUMMER2024_NAME,POOL Portrait
 ID_FRAME_SUMMER2024_UNLOCK,Via the POOL Party: Dry Off event
+ID_DOWNLOADSIZE_POPUP_TITLE,Download Assets
+ID_DOWNLOADSIZE_POPUP_BODY,<b><color=#FFFFFF>MARVEL Strike Force</color></b> needs to download an additional <b><color=#FFFFFF>{mb}mb</color></b> of data. You may wish to connect to a Wi-Fi network before continuing to avoid data charges.
+ID_DOWNLOADSIZE_POPUP_BUTTON,START

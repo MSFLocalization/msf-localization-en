@@ -9830,7 +9830,7 @@ ID_OF_NA_JARVIS_FREECLAIM,J.A.R.V.I.S. Free Claim
 ID_OF_DE_JARVIS_FREECLAIM,Each orb contains <color=#fff568>up to 50 shards</color> of 50 essential characters for your roster!
 ID_OF_NA_JARVIS_ORB_DROP,J.A.R.V.I.S. Orb Drop
 ID_OF_DE_JARVIS_ORB_DROP,Give your roster a boost! Each orb has a chance of <color=#fff568>up to 50 shards</color> from a pool of 50 essential characters!
-ID_OF_NA_JARVIS_ORB_BUNDLE,J.A.R.V.I.S. Recommended Orb Bundle
+ID_OF_NA_JARVIS_ORB_BUNDLE,J.A.R.V.I.S. Orb Bundle
 ID_OF_DE_JARVIS_ORB_BUNDLE,Take advantage of this cache of Orbs to strengthen the core of your roster. Orbs contain <color=#fff568>up to 50 shards</color> of 50 characters hand picked by J.A.R.V.I.S.!
 ID_OF_NA_ANNIHILATORS24_TRAIN_GOLD_A18_A17_T2L5,Annihilators Boost Up
 ID_OF_NA_ANNIHILATORS24_SILVERSURFER,Silver Surfer
@@ -9842,13 +9842,13 @@ ID_OF_NA_ANNIHILATORS24_GLADIATOR_A18_DPC,Gladiator Power
 ID_OF_NA_ANNIHILATORS24_CRIMSON_MINIUNIQUES,Annihilators Crimson Mini-Uniques
 ID_OF_NA_ANNIHILATORS24_TEAL_MINIUNIQUES,Annihilators Custom Equipment
 ID_OF_NA_ANNIHILATORS24_ULTIMUS_TEALUNIQUE_GOLD,Ultimus Boost Up
-ID_OF_NA_ANNIHILATORS24_GLADIATOR_A19,Gladiator's Crimson Fur
+ID_OF_NA_ANNIHILATORS24_GLADIATOR_A19,Gladiator's Crimson Power
 ID_OF_NA_ANNIHILATORS24_GLADIATOR_CRIMSONORIGIN,Gladiator's Crimson Origins
 ID_OF_NA_ANNIHILATORS24_GORTHEGB,Gorr The God Butcher
 ID_OF_NA_ANNIHILATORS24_GLADIATOR_GORTHEGB_A19_GOLD_E7,Annihilators Ultimate Pack
 ID_OF_NA_ANNIHILATORS24_GLADIATOR_GORTHEGB_A19_DPC,Annihilators Super Pack
 ID_OF_NA_ANNIHILATORS24_GORTHEGB_CRIMSONORIGIN,Gorr's Crimson Origins
-ID_OF_NA_ANNIHILATORS24_GORTHEGB_A19,Gorr's Crimson Cybernetics
+ID_OF_NA_ANNIHILATORS24_GORTHEGB_A19,Gorr's Crimson Power
 ID_OF_NA_ANNIHILATORS24_GLADIATOR_GORTHEGB_TRAIN,Annihilators Preparation
 ID_OF_NA_ANNIHILATORS24_GLADIATOR_GORTHEGB_A19_TRAIN,Annihilators Elite Training
 ID_OF_NA_ANNIHILATORS24_GORTHEGB_TRAIN_DPC,Gorr's Protection
@@ -9857,7 +9857,7 @@ ID_OF_NA_ANNIHILATORS24_THANOSEG_CRIMSONORIGIN,Thanos's Crimson Origins
 ID_OF_NA_ANNIHILATORS24_THANOSEG,Thanos's Fury
 ID_OF_NA_ANNIHILATORS24_FULL_TEAM_TRAIN,Annihilators Team Pack
 ID_OF_NA_ANNIHILATORS24_THANOSEG_E7_DPC,Thanos Power Up
-ID_OF_NA_ANNIHILATORS24_THANOSEG_A19,Thanos's Crimson Fur
+ID_OF_NA_ANNIHILATORS24_THANOSEG_A19,Thanos's Crimson Power
 ID_OF_DE_ANNIHILATORS24_TRAIN_GOLD_A18_A17_T2L5,Boost up your <color=#fff568>Annihilators</color> team's power to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ANNIHILATORS24_SILVERSURFER,"Empower the newly updated Annihilators member, <color=#fff568>Silver Surfer</color>, with this special offer today!"
 ID_OF_DE_ANNIHILATORS24_A19_TRAIN_GOLD,Boost up your <color=#fff568>Annihilators</color> team's power to unlock all their Showcase Event's difficulties and earn maximum rewards!
@@ -10083,3 +10083,122 @@ ID_OF_NA_THANOSENDGAME_WEB_STREAK3_FCO_OFFER,A Grateful Universe (3/4)
 ID_OF_DE_THANOSENDGAME_WEB_STREAK3_FCO_OFFER,<color=#fff568>Web Special!</color> Purchase through this chain for a <color=#fff568>1 Diamond Thanos (Endgame)</color> in the final step!
 ID_OF_NA_THANOSENDGAME_WEB_STREAK4_FCO_OFFER,A Grateful Universe (4/4)
 ID_OF_DE_THANOSENDGAME_WEB_STREAK4_FCO_OFFER,<color=#fff568>Web Special!</color> Purchase through this chain for a <color=#fff568>1 Diamond Thanos (Endgame)</color> in the final step!
+ID_OF_NA_85THANNIVP5_EMD_CAL,Earth's Mightiest Day Calendar Special!
+ID_OF_NA_85THANNIVP5_EMD_SHARD,Earth's Mightiest Day Shard Special!
+ID_OF_NA_85THANNIVP5_EMD_GOLD,Earth's Mightiest Day Gold Special!
+ID_OF_NA_85THANNIVP5_EMD_TRAINING,Earth's Mightiest Day Training Special!
+ID_OF_NA_85THANNIVP5_EMD_PROMO,Earth's Mightiest Day Promotion Special!
+ID_OF_NA_85THANNIVP5_EMD_GEAR,Earth's Mightiest Day Gear Special!
+ID_OF_DE_85THANNIVP5_WK2STEP1,Claim this FREE first step in this special offer chain! The final step is also FREE and contains 1200 Dark Promotion Credits!
+ID_OF_DE_85THANNIVP5_WK2STEP2,Purchase through this chain for 1200 Dark Promotion Credits in the final step!
+ID_OF_DE_85THANNIVP5_WK2STEP3,Purchase through this chain for 1200 Dark Promotion Credits in the final step!
+ID_OF_DE_85THANNIVP5_WK2STEP4,Pick up this special offer then claim 1200 Dark Promotion Credits in the next step!
+ID_OF_DE_85THANNIVP5_CALBIG,Don't miss out on the celebration with this calendar full of items to boost your roster!
+ID_OF_DE_85THANNIVP5_CALSMALL,Celebrate Earth's Mightiest Day with this loaded calendar!
+ID_OF_DE_85THANNIVP5_EMD_SHARD,"Celebrate Earth's Mightiest Day with Gladiator shards, Gorr shards, Gold and Training!"
+ID_OF_DE_85THANNIVP5_EMD_GOLD,"Celebrate Earth's Mightiest Day with a bounty of Gold, Dark Promotion Credits and Dark Diamond Credits!"
+ID_OF_DE_85THANNIVP5_EMD_TRAINING,"Celebrate Earth's Mightiest Day with a cache of Training materials, Gold, and Crimson Mystic Mini-Uniques!"
+ID_OF_DE_85THANNIVP5_EMD_PROMO,"Celebrate Earth's Mightiest Day with a promotional package of Dark Promotion Credits, Elite 7 Credits, and Ability Materials!"
+ID_OF_DE_85THANNIVP5_EMD_GEAR,Celebrate Earth's Mightiest Day with Crimson Tech Mini-Uniques and Training Orbs!
+ID_OF_NA_LABORDAY24_ABMGOLDDPCDDC,Labor Day: Power Surge Bundle
+ID_OF_NA_LABORDAY24_TRAINING,Labor Day: Power Boost Bundle
+ID_OF_NA_LABORDAY24_GOLDDPCTRAIN,Labor Day: Elite Upgrade Bundle
+ID_OF_NA_LABORDAY24_DAILYGOLD,Labor Day: Daily Gold Boost
+ID_OF_NA_LABORDAY24_UNIQUEHORSEMAN,Labor Day: Horseman Gear Essentials
+ID_OF_NA_LABORDAY24_BLACKKNIGHTGEAR,Labor Day: Power Boost Bundle
+ID_OF_NA_LABORDAY24_HANKSHURIUNIQUE,Labor Day: Power Boost Bundle
+ID_OF_NA_LABORDAY24_DPCONLY,Labor Day: Dark Promo Credit Pack
+ID_OF_NA_LABORDAY24_HORSEMANORB,Labor Day: Apocalypse
+ID_OF_NA_LABORDAY24_T2IONORB,Labor Day: Ion Special
+ID_OF_NA_LABORDAY24_ILLUMINATIDIAMONDABM,Labor Day: Illuminati Power Pack
+ID_OF_NA_LABORDAY24_SPIDERSOCIETY,Labor Day: Spider-Verse
+ID_OF_NA_LABORDAY24_ALPHAFLIGHT,Labor Day: Alpha Flight
+ID_OF_NA_LABORDAY24_GOLDORBTRAIN,Labor Day: Orb Bundle
+ID_OF_NA_LABORDAY24_CRIMSONHANK,Labor Day: Power Boost Bundle
+ID_OF_NA_LABORDAY24_CRIMSONSHURI,Labor Day: Power Boost Bundle
+ID_OF_NA_LABORDAY24_TRAINABMDIAMOND,Labor Day: Elite Upgrade Bundle
+ID_OF_NA_LABORDAY24_ABMGOLDDPCDDC2,Labor Day: Power Boost Bundle
+ID_OF_NA_LABORDAY24_DPCCRIMSONMINI,Labor Day: Elite Upgrade Bundle
+ID_OF_NA_LABORDAY24_DIAMONDDDCDPCA19,Labor Day: Ultimate Pack
+ID_OF_NA_LABORDAY24_BLACKKNIGHTUNIQUE,Labor Day: Power Boost Bundle
+ID_OF_NA_LABORDAY24_M4MTRAINING,Labor Day: Merc Madness
+ID_OF_NA_LABORDAY24_CRIMSONUNIQUEM4M,Labor Day: Merc Madness
+ID_OF_NA_LABORDAY24_TEALUNIQUEOML,Labor Day: Berserker
+ID_OF_NA_LABORDAY24_CRIMSONUNIQUECABAL,Labor Day: Dark Reign
+ID_OF_NA_LABORDAY24_GOLDA19,Labor Day: Elite Upgrade Bundle
+ID_OF_NA_LABORDAY24_GOLDORB,Labor Day: Gold Boost
+ID_OF_NA_LABORDAY24_E7TRAINDPC,Labor Day: Elite Upgrade Bundle
+ID_OF_NA_LABORDAY24_DIAMONDDRAFT,Labor Day: Out Of Time
+ID_OF_NA_LABORDAY24_ISOT2L5GOLD,Labor Day: Ion Special
+ID_OF_NA_LABORDAY24_ISOT2ORB,Labor Day: Ion Special
+ID_OF_NA_LABORDAY24_BLACKKNIGHTSTARBRANDA19DPC,Labor Day: Power Boost Bundle
+ID_OF_NA_LABORDAY24_NORTHSTARTRAINGOLD,Labor Day: Power Boost Bundle
+ID_OF_NA_LABORDAY24_TEALUNIQUEALPHAFLIGHT,Labor Day: Alpha Flight
+ID_OF_NA_LABORDAY24_CRIMSONUNIQUEOML,Labor Day: Berserker
+ID_OF_NA_LABORDAY24_GOLDTRAINE7,Labor Day: Elite Upgrade Bundle
+ID_OF_NA_LABORDAY24_TRAINABM,Labor Day: Elite Upgrade Bundle
+ID_OF_NA_LABORDAY24_DPCBLASTERISO,Labor Day: Elite Upgrade Bundle
+ID_OF_NA_LABORDAY24_DPCDIAMOND,Labor Day: Elite Upgrade Bundle
+ID_OF_NA_LABORDAY24_T2IONS,Labor Day: Ion Special
+ID_OF_NA_LABORDAY24_HANKPYM,Labor Day: Power Boost Bundle
+ID_OF_NA_LABORDAY24_BPSHURI,Labor Day: Power Boost Bundle
+ID_OF_NA_LABORDAY24_TEALUNIQUEM4M,Labor Day: Merc Madness
+ID_OF_NA_LABORDAY24_TEALUNIQUECABAL,Labor Day: Dark Reign
+ID_OF_NA_LABORDAY24_WEBGOLDTRAINE7,Labor Day: Gold Boost
+ID_OF_NA_LABORDAY24_GOLDONLY,Labor Day: Gold Boost
+ID_OF_NA_LABORDAY24_TRAINGOLDA18A17T2L5,Labor Day: Power Boost Bundle
+ID_OF_NA_LABORDAY24_TRAININGBOOSTER,Labor Day: Power Boost Bundle
+ID_OF_NA_LABORDAY24_E7A19,Labor Day: Power Boost Bundle
+ID_OF_NA_LABORDAY24_DPCABM,Labor Day: Power Boost Bundle
+ID_OF_NA_LABORDAY24_MEGAORB,Labor Day: Orb Bundle
+ID_OF_DE_LABORDAY24_ABMGOLDDPCDDC,"Power up your roster with a mix of <color=#ffda21>Ability materials, Gold, and Dark Promotion Credits</color>! Upgrade abilities and ensure your team is ready for any challenge with this essential bundle!"
+ID_OF_DE_LABORDAY24_TRAINING,Boost your resources with <color=#ffda21>L4 Training Module and Training Orb</color>. This Labor Day pack provides the essentials to enhance your heroes and gear up for victory!
+ID_OF_DE_LABORDAY24_GOLDDPCTRAIN,"Boost your roster with <color=#ffda21>Gold, Dark Promotion Credits, and L4 Training Modules</color>. Perfect for leveling up your heroes and preparing your team for any challenge."
+ID_OF_DE_LABORDAY24_DAILYGOLD,Grab a special Labor Day deal with extra gold to fuel your upgrades and progress. Perfect for keeping your roster well-funded and ready for action!
+ID_OF_DE_LABORDAY24_UNIQUEHORSEMAN,Upgrade your Horseman team with Unique gear. Boost your heroes' power and make them unstoppable this Labor Day!
+ID_OF_DE_LABORDAY24_BLACKKNIGHTGEAR,Upgrade your top hero with essential gear to enhance their power and performance. This Labor Day bundle ensures your hero is ready for any challenge!
+ID_OF_DE_LABORDAY24_HANKSHURIUNIQUE,Upgrade your top hero with essential gear to enhance their power and performance. This Labor Day bundle ensures your hero is ready for any challenge!
+ID_OF_DE_LABORDAY24_DPCONLY,Stock up on <color=#ffda21>Dark Promotion Credits</color> to advance your top characters. This Labor Day offer helps you elevate your heroes to new levels!
+ID_OF_DE_LABORDAY24_HORSEMANORB,Discover the Horseman team with exclusive orbs tied to Apocalypse. This Labor Day offer gives you a chance to recruit and strengthen these powerful characters!
+ID_OF_DE_LABORDAY24_T2IONORB,Upgrade your team with <color=#ffda21>T2 Iso-8 Ion Orbs</color>. This Labor Day special offers essential resources to enhance your characters' Iso-8 levels and optimize their performance!
+ID_OF_DE_LABORDAY24_ILLUMINATIDIAMONDABM,Strengthen your Illuminati team with <color=#ffda21>T4 ABM and Diamond Orbs</color>. This Labor Day offer provides the essential resources to recruit powerful characters!
+ID_OF_DE_LABORDAY24_SPIDERSOCIETY,Enhance your <color=#ffda21>Spider Society</color> team with exclusive hero shards. This Labor Day pack provides the essential shards needed to strengthen and advance your heroes!
+ID_OF_DE_LABORDAY24_ALPHAFLIGHT,Enhance your <color=#ffda21>Alpha Flight</color> team with exclusive hero shards. This Labor Day pack provides the essential shards needed to strengthen and advance your heroes!
+ID_OF_DE_LABORDAY24_GOLDORBTRAIN,"Includes <color=#ffda21>Mega Orbs, Training Orbs, and T3 Ability Orbs</color>. This Labor Day pack provides a range of orbs to enhance your heroes and upgrade your team!"
+ID_OF_DE_LABORDAY24_CRIMSONHANK,Upgrade your top hero with essential gear to enhance their power and performance. This Labor Day bundle ensures your hero is ready for any challenge!
+ID_OF_DE_LABORDAY24_CRIMSONSHURI,Upgrade your top hero with essential gear to enhance their power and performance. This Labor Day bundle ensures your hero is ready for any challenge!
+ID_OF_DE_LABORDAY24_TRAINABMDIAMOND,"Get <color=#ffda21>L4 Training Modules, T4 ABM, and Diamond Orbs</color> to supercharge your characters. This Labor Day pack provides everything you need to level up and enhance your heroes!"
+ID_OF_DE_LABORDAY24_ABMGOLDDPCDDC2,Boost your resources with <color=#ffda21>T4 Ability Material and Gold</color>. This Labor Day pack provides the essentials to enhance your heroes and gear up for victory!
+ID_OF_DE_LABORDAY24_DPCCRIMSONMINI,Get <color=#ffda21>Dark Promotion Credit</color> and mini unique to supercharge your characters. This Labor Day pack provides everything you need to level up and enhance your heroes!
+ID_OF_DE_LABORDAY24_DIAMONDDDCDPCA19,"Get <color=#ffda21>Diamond Orbs, Dark Promo Credits and Armory 19</color>. This Labor Day bundle provides essential resources to power up your heroes and enhance their gear!"
+ID_OF_DE_LABORDAY24_BLACKKNIGHTUNIQUE,Upgrade your top hero with essential gear to enhance their power and performance. This Labor Day bundle ensures your hero is ready for any challenge!
+ID_OF_DE_LABORDAY24_M4MTRAINING,Boost your <color=#ffda21>Mercs for Money</color> team with L4 Training Modules. This Labor Day pack provides the essential resources to maximize their effectiveness!
+ID_OF_DE_LABORDAY24_CRIMSONUNIQUEM4M,Upgrade your <color=#ffda21>Mercs for Money</color> team with Unique gear. Boost your heroes' power and make them unstoppable this Labor Day!
+ID_OF_DE_LABORDAY24_TEALUNIQUEOML,Upgrade <color=#ffda21>Old Man Logan</color> with exclusive resources. This Labor Day offer enhances his abilities and boosts your roster with this iconic character!
+ID_OF_DE_LABORDAY24_CRIMSONUNIQUECABAL,Upgrade your <color=#ffda21>Cabal</color> team with Unique gear. Boost your heroes' power and make them unstoppable this Labor Day!
+ID_OF_DE_LABORDAY24_GOLDA19,Boost your resources with <color=#ffda21>Gold and Armory 19</color>. This Labor Day pack provides the essentials to enhance your heroes and gear up for victory!
+ID_OF_DE_LABORDAY24_GOLDORB,Stock up on gold and essential resources to boost your team. This Labor Day pack provides everything you need to enhance your heroes and gear up for action!
+ID_OF_DE_LABORDAY24_E7TRAINDPC,"Boost your roster with <color=#ffda21>Elite 7, L4 Training Modules, and Dark Promo Credits</color>. This Labor Day bundle gives you the resources to elevate your characters and their skills!"
+ID_OF_DE_LABORDAY24_DIAMONDDRAFT,Chance to get 3 Diamonds for Starbrand and Cosmic Ghost Rider. This Labor Day pack is perfect for enhancing your Out of Time team with these powerful heroes!
+ID_OF_DE_LABORDAY24_ISOT2L5GOLD,Get <color=#ffda21>Gold and T2 Iso-8 materials</color> to elevate your team. This Labor Day pack provides essential resources to power up your roster!
+ID_OF_DE_LABORDAY24_ISOT2ORB,Get <color=#ffda21>T2 Iso-8 materials</color> to elevate your team. This Labor Day pack provides essential resources to enhance your characters' Iso-8 levels and power up your roster!
+ID_OF_DE_LABORDAY24_BLACKKNIGHTSTARBRANDA19DPC,Upgrade your top hero with essential gear to enhance their power and performance. This Labor Day bundle ensures your hero is ready for any challenge!
+ID_OF_DE_LABORDAY24_NORTHSTARTRAINGOLD,Upgrade your top hero with essential gear to enhance their power and performance. This Labor Day bundle ensures your hero is ready for any challenge!
+ID_OF_DE_LABORDAY24_TEALUNIQUEALPHAFLIGHT,Upgrade your <color=#ffda21>Alpha Flight</color> team with Unique gear. Boost your heroes' power and make them unstoppable this Labor Day!
+ID_OF_DE_LABORDAY24_CRIMSONUNIQUEOML,Upgrade <color=#ffda21>Old Man Logan</color> with exclusive resources. This Labor Day offer enhances his abilities and boosts your roster with this iconic character!
+ID_OF_DE_LABORDAY24_GOLDTRAINE7,"Boost your resources with <color=#ffda21>Gold, L4 Training Module and Elite 7 Credit</color>. This Labor Day pack provides the essentials to enhance your heroes and gear up for victory!"
+ID_OF_DE_LABORDAY24_TRAINABM,Boost your resources with <color=#ffda21>L4 Training Module and T4 Ability Material</color>. This Labor Day pack provides the essentials to enhance your heroes and gear up for victory!
+ID_OF_DE_LABORDAY24_DPCBLASTERISO,Get <color=#ffda21>Dark Promotion Credit and T2 Iso-8 Bundle</color> to supercharge your characters. This Labor Day pack provides everything you need to level up and enhance your heroes!
+ID_OF_DE_LABORDAY24_DPCDIAMOND,Stock up on <color=#ffda21>Dark Promotion Credits and Diamond Orb</color> to advance your top characters. This Labor Day offer helps you elevate your heroes to new levels!
+ID_OF_DE_LABORDAY24_T2IONS,Get <color=#ffda21>T2 Iso-8 materials</color> to elevate your team. This Labor Day pack provides essential resources to enhance your characters' Iso-8 levels and power up your roster!
+ID_OF_DE_LABORDAY24_HANKPYM,Upgrade your top hero with essential gear to enhance their power and performance. This Labor Day bundle ensures your hero is ready for any challenge!
+ID_OF_DE_LABORDAY24_BPSHURI,Upgrade your top hero with essential gear to enhance their power and performance. This Labor Day bundle ensures your hero is ready for any challenge!
+ID_OF_DE_LABORDAY24_TEALUNIQUEM4M,Upgrade your <color=#ffda21>Mercs for Money</color> team with Unique gear. Boost your heroes' power and make them unstoppable this Labor Day!
+ID_OF_DE_LABORDAY24_TEALUNIQUECABAL,Upgrade your <color=#ffda21>Cabal</color> team with Unique gear. Boost your heroes' power and make them unstoppable this Labor Day!
+ID_OF_DE_LABORDAY24_WEBGOLDTRAINE7,"Power up your roster with a mix of <color=#ffda21>Training, Gold, and Elite 7 Credits</color>. Upgrade abilities and ensure your team is ready for any challenge with this essential bundle!"
+ID_OF_DE_LABORDAY24_GOLDONLY,Grab a special Labor Day deal with extra <color=#ffda21>Gold</color> to enhance your roster. This pack provides the gold you need to power up your heroes and keep them at their best!
+ID_OF_DE_LABORDAY24_TRAINGOLDA18A17T2L5,Power up your roster with a mix of <color=#ffda21>Training materials and Gold</color>. Upgrade abilities and ensure your team is ready for any challenge with this essential bundle!
+ID_OF_DE_LABORDAY24_TRAININGBOOSTER,Boost your resources with <color=#ffda21>L4 Training Module and Training Orb</color>. This Labor Day pack provides the essentials to enhance your heroes and gear up for victory!
+ID_OF_DE_LABORDAY24_E7A19,Boost your roster with <color=#ffda21>Elite 7 Credits and Armory 19</color>. This Labor Day pack provides essential resources to upgrade your heroes and enhance their gear!
+ID_OF_DE_LABORDAY24_DPCABM,Boost your resources with <color=#ffda21>Dark Promotion Credit and T4 Ability Material</color>. This Labor Day pack provides the essentials to enhance your heroes and gear up for victory!
+ID_OF_DE_LABORDAY24_MEGAORB,"Includes <color=#ffda21>Mega Orbs, Training Orbs, and T3 Ability Orbs</color>. This Labor Day pack provides a range of orbs to enhance your heroes and upgrade your team!"

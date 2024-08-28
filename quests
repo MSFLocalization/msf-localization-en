@@ -4877,13 +4877,13 @@ ID_QU_SD_TEAMORB_GORR,Get additional shards for Gorr!
 ID_QU_LD_TEAMORB_GORR,"Gorr's Hunt Milestone\nOpen Gorr Annihilator Orbs to earn progress and receive guaranteed additional Gorr shards! Find Gorr Annihilator Orb Fragments in arena, events, and offers!"
 ID_QU_S1_TEAMORB_GORR,Open 1 Gorr Annihilator Orb
 ID_QU_NA_COSMICTHREAT,Cosmic Threat
-ID_QU_SD_COSMICTHREAT,Earn Illumination Orbs
+ID_QU_SD_COSMICTHREAT,Earn Illumination Orbs from Campaigns
 ID_QU_LD_COSMICTHREAT,"Cosmic Threat Milestone\nGain progress in this 8-day event by earning Illumination Orb Fragments from Campaign Nodes, opening the Gleaming Gold costume orb, completing the Galactic Peril Web Milestone, and daily web Free Claims. Earn fantastic rewards including T3 Iso-8 Crystals and Ions, Radioactive Treats, and Crimson Mystic gear. You'll also earn points towards the month-long Annihilator Initiative Milestone by collecting Cosmic Power and the valuable Plandanium Armor.\n\nIllumination Orb\nEarned from Campaigns, Free Claims and special Offers.\n\nGalactic Peril Web Milestone\nBattle in Raids to earn Illumination Orb Fragments and Cosmic Threat Milestone progress! Keep an eye out for Free Claims containing milestone points every day!\n\n"
 ID_QU_S1_COSMICTHREAT,Earn 1 Illumination Orb Fragment
 ID_QU_S2_COSMICTHREAT,Open 1 Gleaming Gold Orb
 ID_QU_NA_GALACTICPERIL,Galactic Peril
 ID_QU_SD_GALACTICPERIL,Battle in Raids
-ID_QU_LD_GALACTICPERIL,"Battle in Raids to complete this 8-day milestone that rewards Cosmic Power, Illumination Orb Fragments, and bonus Cosmic Threat progress!"
+ID_QU_LD_GALACTICPERIL,"Battle in Raids to complete this 8-day milestone that rewards Cosmic Power, and bonus Cosmic Threat progress!"
 ID_QU_S1_GALACTICPERIL,Play 1 Raid Battle
 ID_QU_NA_SPLASH_COSMICPROTECTORS,Cosmic Protectors
 ID_QU_SD_SPLASH_COSMICPROTECTORS,Use Infinity Watchs in Blitz
@@ -4921,7 +4921,7 @@ ID_QU_LD_TEAMORB_THANOS,"Thanos' Crusade Milestone\nOpen Thanos Annihilator Orbs
 ID_QU_S1_TEAMORB_THANOS,Open 1 Thanos Annihilator Orb
 ID_QU_NA_OLDENEMIES,Old Enemies
 ID_QU_SD_OLDENEMIES,Play Shattered Dimension and use Annihilators in War
-ID_QU_LM_OLDENEMIES,"Old Enemies Milestone\nGain progress in this 7-day event by collecting Illumination Orb Fragments from the Shattered Dimension, battling in War with the Annihilators, and completing the Old Grudges web milestone. Earn incredible rewards including T3 Iso-8 Crystals and Ions, Radioactive Treats, and Crimson Skill Gear. You'll also earn points towards the Annihilator Initiative milestone by collecting Cosmic Power and the Twilight Sword.\n\nIf you are level 65 or above, proceed to Dark Dimension in Epic Campaigns and look to your left to find the harrowing new Shattered Dimension! You will need powerful Illuminati and Annihilator allies to win the day.\n\nOld Grudges Web Milestone\nSpend Incursion Energy and battle in Blitz to be rewarded with extra Dimensional Anomalies and bonus progress in the Old Enemies and Annihilator Initiative events."
+ID_QU_LM_OLDENEMIES,"Old Enemies Milestone\nGain progress in this 7-day event by collecting Illumination Orb Fragments from the Shattered Dimension, battling in War with the Annihilators, and completing the Old Grudges web milestone. Earn incredible rewards including T3 Iso-8 Crystals and Ions, Radioactive Treats, and Crimson Skill Gear. You'll also earn points towards the Annihilator Initiative milestone by collecting Cosmic Power and the Twilight Sword.\n\nIf you are level 65 or above, proceed to Dark Dimension in Epic Campaigns and look to your left to find the harrowing new Shattered Dimension! You will need powerful Illuminati and Annihilator allies to win the day.\n\nOld Grudges Web Milestone\nEarn Alliance Credit to be rewarded with extra Dimensional Anomalies and bonus progress in the Old Enemies and Annihilator Initiative events."
 ID_QU_S1_OLDENEMIES,Collect 1 Illumination Orb Fragment
 ID_QU_S2_OLDENEMIES,Play 1 War Battle with an Annihilators Character
 ID_QU_S3_OLDENEMIES,Use Gladiator in War
@@ -4943,7 +4943,7 @@ ID_QU_LD_OLDGRUDGES,Earn Alliance Credit to be rewarded with extra Illumination 
 ID_QU_S1_OLDGRUDGES,Earn 1 Alliance Credit
 ID_QU_NA_COSMICDOMINANCE,Cosmic Dominance
 ID_QU_SD_COSMICDOMINANCE,Play War battles for glorious rewards!
-ID_QU_LD_COSMICDOMINANCE,Coordinated Adventure Milestone\nGain progress in this 6-day event by collaborating with your alliance to battle through War and earn Allied Supply VI Orb Fragments. Allied Supply VI Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
+ID_QU_LD_COSMICDOMINANCE,Cosmic Dominance Milestone\nGain progress in this 6-day event by collaborating with your alliance to battle through War and earn Allied Supply VI Orb Fragments. Allied Supply VI Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
 ID_QU_S1_COSMICDOMINANCE,Play 1 War battle
 ID_QU_S2_COSMICDOMINANCE,Earn 1 Allied Supply VI Orb Fragment
 ID_QU_LD_GORRWEEKEND,"Weekend Arena Warriors Milestone\nEarn progress by battling in Arena with bonus points for using Annihilators. Receive guaranteed additional Gorr Annihilator Orbs and Captain Britain Awakened Ability Avalon Strike! Find Gorr Annihilator Orb Fragments in arena, events, and offers!"
@@ -4953,3 +4953,8 @@ ID_QU_S1_GORRWEEKEND,Battle in Arena with Gorr at 5 Yellow Star
 ID_QU_S2_GORRWEEKEND,Battle in Arena with Gorr at 6 Yellow Star
 ID_QU_S3_GORRWEEKEND,Battle in Arena with Gorr at 7 Yellow Star
 ID_QU_S4_GORRWEEKEND,Battle in Arena with Gorr
+ID_QU_LD_THANOSWEEKEND,"Weekend Arena Warriors Milestone\nEarn progress by battling in Arena with bonus points for using Annihilators. Receive guaranteed additional Thanos Annihilator Orbs and Captain Britain Awakened Ability Avalon Strike! Find Thanos Annihilator Orb Fragments in arena, events, and offers!"
+ID_QU_S1_THANOSWEEKEND,Battle in Arena with Thanos (Endgame) at 5 Yellow Star
+ID_QU_S2_THANOSWEEKEND,Battle in Arena with Thanos (Endgame) at 6 Yellow Star
+ID_QU_S3_THANOSWEEKEND,Battle in Arena with Thanos (Endgame) at 7 Yellow Star
+ID_QU_S4_THANOSWEEKEND,Battle in Arena with Thanos (Endgame)

@@ -56,6 +56,7 @@ ID_INSANITY_NAME_05,DARK DIMENSION V
 ID_INSANITY_NAME_06,DARK DIMENSION VI
 ID_INSANITY_NAME_07,DARK DIMENSION VII
 ID_INSANITY_NAME_10,POCKET DIMENSION
+ID_INSANITY_NAME_FO,SHATTERED DIMENSION
 ID_INSANITY_DESC_01,Enter the Darkness
 ID_INSANITY_DESC_02,Fear the Darkness
 ID_INSANITY_DESC_03,Dread the Darkness
@@ -148,6 +149,8 @@ ID_INSANITY_07_REWARD_FTC_GEAR_FULL,10 ITEMS:
 ID_INSANITY_07_REWARD_FTT_GEAR_FULL,15 ITEMS:
 ID_INSANITY_07_REWARD_FTC_GEAR_MAT,5126 ITEMS:
 ID_INSANITY_07_REWARD_FTT_GEAR_MAT,10051 ITEMS:
+ID_INSANITY_ED_REWARD_FTC_GEAR_MAT,
+ID_INSANITY_ED_REWARD_FTT_GEAR_MAT,
 ID_INSANITY_REWARD_DESC_FTC,Reach 100% Completion in <color=#f7941d>{title}</color> to receive these rewards:
 ID_INSANITY_REWARD_DESC_FTT,100% a timed run of <color=#f7941d>{title}</color> to receive these rewards:
 ID_INSANITY_REWARD_DESC_COMPLETE,You have already earned these rewards.
@@ -312,12 +315,12 @@ ID_PD_SL_REQ_CI_BOSS_NODE,Allowed:<color=#fff568>CABAL & ILLUMINATI</color>\nREQ
 ID_PD_SL_CI_DESC,CABAL vs. ILLUMINATI
 ID_PD_SL_CI_DETAILS,"A <color=#fff568>Pocket Dimension</color> with peculiar energies has been detected. For a limited time, the <color=#fff568>CABAL</color> and <color=#fff568>ILLUMINATI</color> are competing to exploit the mysteries of this bizarre reality.\n\n<b>Details</b>\n- Minimum Requirements: 3 CABAL and 3 ILLUMINATI characters at Gear Tier <color=#fff568>14</color>\n- 5 Yellow Star, Gear Tier 15 or higher characters are strongly recommended\n- Some missions grant characters to use, or allow additional traits to join.\n- This event is very challenging\n- This event uses <color=#fff568>Temporal Health Packs</color> to heal and revive characters."
 ID_PD_SLCI_CARD_INFO,"A cataclysmic event somewhere in the multiverse has caused an explosion in the number of newly detected Pocket Dimensions. The Cabal and the Illuminati have located just such a reality containing strange temporal energies. Now they both race to explore and exploit the spoils of this fleeting realm before it vanishes!\n\n- Minimum Requirements: 3 CABAL and 3 ILLUMINATI characters at Gear Tier 14\n- 5 Yellow Star, Gear Tier 15 or higher characters are strongly recommended\n- Some missions grant characters to use, or allow additional traits to join.\n- This event is very challenging\n- This event uses Temporal Health Packs to heal and revive characters.\n"
-ID_MIS_PD_SL_CI_HINT_01,<color=#fff568>Temporal Dimension</color> Hints\n- If you're struggling with a difficult battle increasing the power of your characters can be very helpful.
-ID_MIS_PD_SL_CI_HINT_02,<color=#fff568>Temporal Dimension</color> Hints\n- Choose your targets carefully. Defeating enemies in the proper order can be the difference between victory and defeat.
-ID_MIS_PD_SL_CI_HINT_03,<color=#fff568>Temporal Dimension</color> Hints\n- Legendary and Mythic missions allow you to bring Legendary or Mythic allies accordingly.\n- You also don't need to bring Cabal or Illuminati characters if you just want to obliterate the enemy teams.
-ID_MIS_PD_SL_CI_HINT_04,<color=#fff568>Temporal Dimension</color> Hints\n- It seems that something has happened to the multiverse. The number of detected Pocket Dimensions is increasing...
-ID_MIS_PD_SL_CI_HINT_05,<color=#fff568>Temporal Dimension</color> Hints\n- S.T.R.I.K.E. is monitoring a dramatic surge in the number of multiversal events. It may soon be necessary to explore many of these mysterious Pocket Dimensions to see what secrets they hold.
-ID_MIS_PD_SL_CI_HINT_06,"<color=#fff568>Temporal Dimension</color> Hints\n- The Cabal synergizes with Villains, while the Illuminati work best with Heroes.\n- The first allies you will have in this mission are villains, and if they fall heroes will come to your aid."
+ID_MIS_PD_SL_CI_HINT_01,<color=#fff568>Shattered Dimension</color> Hints\n- If you're struggling with a difficult battle increasing the power of your characters can be very helpful.
+ID_MIS_PD_SL_CI_HINT_02,<color=#fff568>Shattered Dimension</color> Hints\n- Choose your targets carefully. Defeating enemies in the proper order can be the difference between victory and defeat.
+ID_MIS_PD_SL_CI_HINT_03,<color=#fff568>Shattered Dimension</color> Hints\n- Legendary and Mythic missions allow you to bring Legendary or Mythic allies accordingly.\n- You also don't need to bring Cabal or Illuminati characters if you just want to obliterate the enemy teams.
+ID_MIS_PD_SL_CI_HINT_04,<color=#fff568>Shattered Dimension</color> Hints\n- It seems that something has happened to the multiverse. The number of detected Pocket Dimensions is increasing...
+ID_MIS_PD_SL_CI_HINT_05,<color=#fff568>Shattered Dimension</color> Hints\n- S.T.R.I.K.E. is monitoring a dramatic surge in the number of multiversal events. It may soon be necessary to explore many of these mysterious Pocket Dimensions to see what secrets they hold.
+ID_MIS_PD_SL_CI_HINT_06,"<color=#fff568>Shattered Dimension</color> Hints\n- The Cabal synergizes with Villains, while the Illuminati work best with Heroes.\n- The first allies you will have in this mission are villains, and if they fall heroes will come to your aid."
 ID_MIS_PD_SL_IA_01_NAME,Annihilator Normal I
 ID_MIS_PD_SL_IA_02_NAME,Annihilator Normal II
 ID_MIS_PD_SL_IA_03_NAME,Annihilator Normal III
@@ -330,8 +333,8 @@ ID_MIS_PD_SL_IA_09_NAME,Annihilator Master I
 ID_MIS_PD_SL_IA_10_NAME,Annihilator Master II
 ID_MIS_PD_SL_IA_21_NAME,Annihilator Legendary
 ID_MIS_PD_SL_IA_22_NAME,Annihilator Mythic
-ID_PD_SL_REQ_ANNIHILATORS_NORMAL,Required:\n3 <color=#fff568>ANNIHILATOR</color> at Gear Tier 14
-ID_PD_SL_REQ_ANNIHILATORS_HARD,Required:\n3 <color=#fff568>ANNIHILATOR</color> at Gear Tier 15
+ID_PD_SL_REQ_ANNIHILATORS_NORMAL,Required:\n3 <color=#fff568>ANNIHILATOR & COSMIC</color> at Gear Tier 14
+ID_PD_SL_REQ_ANNIHILATORS_HARD,Required:\n3 <color=#fff568>ANNIHILATOR & COSMIC</color> at Gear Tier 15
 ID_PD_SL_REQ_ANNIHILATORS_MASTER,Required:\n3 <color=#fff568>ANNIHILATOR</color> at Gear Tier 16
 ID_PD_SL_REQ_ANNIHILATORS_NODE_NORMAL,Requires 3 <color=#fff568>ANNIHILATOR</color> at GT 14
 ID_PD_SL_REQ_ANNIHILATORS_NODE_HARD,Requires 3 <color=#fff568>ANNIHILATOR</color> at GT 15
@@ -357,5 +360,5 @@ ID_PD_SL_SD_REQ_IA_BOSS_NODE,Allowed:<color=#fff568>ANNIHILATOR & ILLUMINATI</co
 ID_PD_SL_IA_DESC,ANNIHILATOR vs. ILLUMINATI
 ID_PD_SL_IA_DETAILS,"A <color=#fff568>Pocket Dimension</color> with peculiar energies has been detected. For a limited time, the <color=#fff568>ANNIHILATOR</color> and <color=#fff568>ILLUMINATI</color> are competing to exploit the mysteries of this bizarre reality.\n\n<b>Details</b>\n- Minimum Requirements: 3 ANNIHILATOR and 3 ILLUMINATI characters at Gear Tier <color=#fff568>14</color> to <color=#fff568>18</color>\n- 5 Yellow Star, Gear Tier 15 or higher characters are strongly recommended to start\n- Some missions grant characters to use, or allow additional traits to join.\n- This event is very challenging\n- This event uses <color=#fff568>Temporal Health Packs</color> to heal and revive characters."
 ID_PD_SL_IA_CARD_INFO,"A cataclysmic event somewhere in the multiverse has caused an explosion in the number of newly detected Pocket Dimensions. The Annihilator and the Illuminati have located a just such a reality containing strange temporal energies. Now they both race to explore and exploit the spoils of this fleeting realm before it vanishes!\n\n- Minimum Requirements: 3 ANNIHILATOR and 3 ILLUMINATI characters at Gear Tier 14 to 18\n- 5 Yellow Star, Gear Tier 15 or higher characters are strongly recommended to start\n- Some missions grant characters to use, or allow additional traits to join.\n- This event is very challenging\n- This event uses Temporal Health Packs to heal and revive characters."
-ID_MIS_PD_SL_IA_HINT_01,"<color=#fff568>Temporal Dimension</color> Hints\n- The Annihilator synergizes with Villains, while the Illuminati work best with Heroes.\n- The first allies you will have in this mission are villains, and if they fall heroes will come to your aid."
-ID_MIS_PD_SL_IA_HINT_02,<color=#fff568>Temporal Dimension</color> Hints\n- Legendary and Mythic missions allow you to bring Legendary or Mythic allies accordingly.\n- You also don't need to bring Annihilator or Illuminati characters if you just want to obliterate the enemy teams.
+ID_MIS_PD_SL_IA_HINT_01,"<color=#fff568>Shattered Dimension</color> Hints\n- The Annihilator synergizes with Villains, while the Illuminati work best with Heroes.\n- The first allies you will have in this mission are villains, and if they fall heroes will come to your aid."
+ID_MIS_PD_SL_IA_HINT_02,<color=#fff568>Shattered Dimension</color> Hints\n- Legendary and Mythic missions allow you to bring Legendary or Mythic allies accordingly.\n- You also don't need to bring Annihilator or Illuminati characters if you just want to obliterate the enemy teams.
