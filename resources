@@ -603,3 +603,5 @@ ID_EVTA_META_AUG_X_NAME,Tolerance is Extinction Milestone Points
 ID_EVTA_META_AUG_X_DESCRIPTION,These points earn you additional progress in the Tolerance is Extinction Alliance Milestone. Earn them in Free Claims and Special Offers!
 ID_EVENT_CUR9_NAME,Dimensional Anomaly
 ID_EVENT_CUR9_DESCRIPTION,"Gain additional progress in the Old Enemies Milestone. Earn them from the Shattered Dimension, Free Claims and Special Offers!"
+ID_EVENT_CUR20_NAME,Annihilators' Assembly Milestone Point
+ID_EVENT_CUR20_DESCRIPTION,Earn Progress in the Annihilators' Assembly Milestone Event

@@ -9224,10 +9224,10 @@ ID_GACHA_CRATE_TEAMORB_THANOS_DESCRIPTION,Earn progress in the Thanos' Crusade M
 ID_GACHA_CRATE_TEAMORB_THANOS_TOKEN_NAME,Thanos Annihilator Orb Fragments
 ID_GACHA_CRATE_TEAMORB_THANOS_TOKEN_DESCRIPTION,"Find Thanos Annihilator Orb Fragments in arena, events, and offers!"
 ID_GACHA_CRATE_MIDNIGHTCOALITION_TOKEN_DESCRIPTION,"Collect fragments for orbs containing Dark Diamond Credits, Dark Promotion Credits and shards for Pandapool, Daken, Black Panther (Shuri) and Hank Pym!"
-ID_GACHA_CRATE__NAME,Gladiator Annihilator Orb
-ID_GACHA_CRATE__DESCRIPTION,Earn progress in the Gladiator's Expedition Milestone to collect more Gladiator Shards!
-ID_GACHA_CRATE__TOKEN_NAME,Gladiator Annihilator Orb Fragments
-ID_GACHA_CRATE__TOKEN_DESCRIPTION,"Find Gladiator Annihilator Orb Fragments in arena, events, and offers!"
+ID_GACHA_CRATE_ANNIHILATORS_NAME,Gladiator Annihilator Orb
+ID_GACHA_CRATE_ANNIHILATORS_DESCRIPTION,Earn progress in the Gladiator's Expedition Milestone to collect more Gladiator Shards!
+ID_GACHA_CRATE_ANNIHILATORS_TOKEN_NAME,Gladiator Annihilator Orb Fragments
+ID_GACHA_CRATE_ANNIHILATORS_TOKEN_DESCRIPTION,"Find Gladiator Annihilator Orb Fragments in arena, events, and offers!"
 ID_GACHA_CRATE_CRIMSONCOUNCIL_NAME,Crimson Council Orb
 ID_GACHA_CRATE_CRIMSONCOUNCIL_DESCRIPTION,Contains Crimson Gear and shards for Illuminati and Alpha Flight characters!
 ID_GACHA_CRATE_CRIMSONCOUNCIL_TOKEN_NAME,Crimson Council Orb Fragments
@@ -9236,3 +9236,7 @@ ID_GACHA_CRATE_FCO_SENTINEL_SPECIAL_NAME,Halt Mutant Orb
 ID_GACHA_CRATE_FCO_SENTINEL_SPECIAL_DESCRIPTION,Earn up to 180 Sentinel shards.
 ID_GACHA_CRATE_FCO_SENTINEL_SPECIAL_TOKEN_NAME,Halt Mutant Orb Fragments
 ID_GACHA_CRATE_FCO_SENTINEL_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Halt Mutant Orbs that contain up to 180 Sentinel shards.
+ID_GACHA_CRATE_TEAMORB_SENTINEL_NAME,Sentinel Factory Orb
+ID_GACHA_CRATE_TEAMORB_SENTINEL_DESCRIPTION,Earn progress in the Sentinel's Milestone Event to collect more Sentinel Shards!
+ID_GACHA_CRATE_TEAMORB_SENTINEL_TOKEN_NAME,Sentinel Factory Orb Fragments
+ID_GACHA_CRATE_TEAMORB_SENTINEL_TOKEN_DESCRIPTION,"Find Sentinel Factory Orb Fragments in arena, events, and offers!"
