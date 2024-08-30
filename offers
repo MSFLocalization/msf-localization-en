@@ -9808,6 +9808,26 @@ ID_OF_NA_GORR_WEB_EXTRA_FCO_OFFER,Gorr Unlock Offer
 ID_OF_DE_GORR_WEB_EXTRA_FCO_OFFER,"The God Butcher, <color=#fff568>Gorr</color>, has arrived!"
 ID_OF_NA_GORR_WEB_SPECIAL_OFFER,The God Butcher Special
 ID_OF_DE_GORR_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color><color=#fff568>Gorr</color> arrives to purge all deities from Arena!
+ID_OF_NA_85THANNIVP2_WK2STEP1,Marvelous Celebration (1/5)
+ID_OF_NA_85THANNIVP2_WK2STEP2,Marvelous Celebration (2/5)
+ID_OF_NA_85THANNIVP2_WK2STEP3,Marvelous Celebration (3/5)
+ID_OF_NA_85THANNIVP2_WK2STEP4,Marvelous Celebration (4/5)
+ID_OF_NA_85THANNIVP2_WK2STEP5,Marvelous Celebration (5/5)
+ID_OF_DE_85THANNIVP2_WK2STEP1,Claim this FREE first step in this special offer chain! The final step is also FREE and contains 2 Diamond Orbs!
+ID_OF_DE_85THANNIVP2_WK2STEP2,Purchase through this chain for 2 Diamond Orbs in the final step!
+ID_OF_DE_85THANNIVP2_WK2STEP3,Purchase through this chain for 2 Diamond Orbs in the final step!
+ID_OF_DE_85THANNIVP2_WK2STEP4,Pick up this special offer then claim 2 Diamond Orbs in the next step!
+ID_OF_DE_85THANNIVP2_WK2STEP5,Thank you for your support! Please claim this final reward.
+ID_OF_NA_85THANNIVP3_WK3STEP1,Marvelous Legacy Special (1/5)
+ID_OF_NA_85THANNIVP3_WK3STEP2,Marvelous Legacy Special (2/5)
+ID_OF_NA_85THANNIVP3_WK3STEP3,Marvelous Legacy Special (3/5)
+ID_OF_NA_85THANNIVP3_WK3STEP4,Marvelous Legacy Special (4/5)
+ID_OF_NA_85THANNIVP3_WK3STEP5,Marvelous Legacy Special (5/5)
+ID_OF_DE_85THANNIVP3_WK3STEP1,Claim this FREE first step in this special offer chain! The final step is also FREE and contains 9 Million Gold!
+ID_OF_DE_85THANNIVP3_WK3STEP2,Purchase through this chain for 9 Million Gold in the final step!
+ID_OF_DE_85THANNIVP3_WK3STEP3,Purchase through this chain for 9 Million Gold in the final step!
+ID_OF_DE_85THANNIVP3_WK3STEP4,Pick up this special offer and claim 9 Million Gold in the next step!
+ID_OF_DE_85THANNIVP3_WK3STEP5,Thank you for your support! Please claim this final reward.
 ID_OF_NA_JARVIS_FREECLAIM,J.A.R.V.I.S. Free Claim
 ID_OF_DE_JARVIS_FREECLAIM,Each orb contains <color=#fff568>up to 50 shards</color> of 50 essential characters for your roster!
 ID_OF_NA_JARVIS_ORB_DROP,J.A.R.V.I.S. Orb Drop
@@ -10249,3 +10269,7 @@ ID_OF_NA_ANNIHILATORSASSEMBLY_EVENTORB1,Annihilators' Assembly: Daily Thanos (En
 ID_OF_DE_ANNIHILATORSASSEMBLY_EVENTORB1,Get Thanos (Endgame) Orbs for the <color=#fff568>Annihilators' Assembly</color> progress!
 ID_OF_NA_ANNIHILATORSASSEMBLY_EVENTORB2,Annihilators' Assembly: Daily Annihilators Team Orb
 ID_OF_DE_ANNIHILATORSASSEMBLY_EVENTORB2,"Get Thanos (Endgame), Gorr and Gladiator Orbs for the <color=#fff568>Annihilators' Assembly</color> progress!"
+ID_OF_NA_SENTINEL_TEAMORB,Sentinel Factory Orb Offer
+ID_OF_DE_SENTINEL_TEAMORB,Bring the team together with this limited time orb special featuring Sentinel! Open for progress in the Sentinel Milestone Event!
+ID_OF_NA_SENTINEL_TEAMORB_TY,Sentinel Factory Orb Thank You Special!
+ID_OF_DE_SENTINEL_TEAMORB_TY,Thank you for your support! Please enjoy this increased value orb offer.

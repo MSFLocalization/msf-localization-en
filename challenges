@@ -2627,3 +2627,6 @@ ID_INFO_BO_TOLERANCEISEXTINCTION,"Celebrate the arrival of Orchis Raids and the 
 ID_INFO_NA_ANNIHILATORSASSEMBLY,Annihilators' Assembly
 ID_INFO_DE_ANNIHILATORSASSEMBLY,"Get additional shards for Gladiator, Gorr & Thanos (Endgame)!"
 ID_INFO_BO_ANNIHILATORSASSEMBLY,"<color=#fff568>Annihilators' Assembly</color>/nOpen Gladiator, Gorr & Thanos Annihilator Orbs to earn progress and receive additional Gladiator, Gorr & Thanos (Endgame) shards! Find Annihilator Orb Fragments in arena, events, and offers!"
+ID_INFO_NA_TEAMORB_SENTINEL,Sentinel's Siege
+ID_INFO_DE_TEAMORB_SENTINEL,Get additional shards for Sentinel!
+ID_INFO_BO_TEAMORB_SENTINEL,"<color=#fff568>Sentinel's Siege Milestone</color>\nOpen Sentinel Factory to earn progress and receive additional Sentinel shards, as well as Scientist Supreme and Lady Deathstrike shards! Find Sentinel Factory Orb Fragments in events and offers!"
