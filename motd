@@ -3352,8 +3352,22 @@ ID_MOTD_NA_SENTINEL_TEASER,Soon: Sentinel
 ID_MOTD_DE_SENTINEL_TEASER,Enforce peace and order with Sentinel!
 ID_MOTD_NA_SENTINEL_ANNOUNCE,Sentinel is here!
 ID_MOTD_DE_SENTINEL_ANNOUNCE,Enforce peace and order with Sentinel!
-ID_MOTD_DE_SENTINEL_ANNOUNCE2,Open the Halt Mutant Orb to earn shards for Mutant Hunter!
+ID_MOTD_DE_SENTINEL_ANNOUNCE2,Open the Halt Mutant Orb to earn shards for Sentinel!
 ID_MOTD_NA_ANNIHILATORSASSEMBLY_ANNOUNCE,Web Milestone: Annihilators' Assembly
 ID_MOTD_DE_ANNIHILATORSASSEMBLY_ANNOUNCE,"Get additional shards for Gladiator, Gorr & Thanos (Endgame) on the web!"
 ID_MOTD_NA_TEAMORB_SENTINEL_ANNOUNCE,LIVE: Sentinel's Siege
 ID_MOTD_DE_TEAMORB_SENTINEL_ANNOUNCE,Get additional shards for Sentinel!
+ID_MOTD_NA_AUTUMNREVOLUTION_ANNOUNCE,LIVE: Autumn Revolution
+ID_MOTD_DE_AUTUMNREVOLUTION_ANNOUNCE,Earn marvelous rewards!
+ID_MOTD_NA_AUTUMNREVOLUTION_ENDING,Ending Soon: Autumn Revolution
+ID_MOTD_DE_AUTUMNREVOLUTION_ENDING,Earn Teal Gear before the event ends!
+ID_MOTD_NA_SENTINELSASSEMBLE_ANNOUNCE,LIVE: Sentinels Assemble
+ID_MOTD_DE_SENTINELSASSEMBLE_ANNOUNCE,Earn Sentinel Cores and a chance at Sentinel Diamonds!
+ID_MOTD_NA_SENTINELSASSEMBLE_ENDING,Ending Soon: Sentinels Assemble
+ID_MOTD_DE_SENTINELSASSEMBLE_ENDING,Don't miss out on Sentinel Cores and a chance at a Sentinel Diamonds!
+ID_MOTD_NA_SENTINELSTRIKE_ANNOUNCE,Web Milestone: Sentinel Strike
+ID_MOTD_DE_SENTINELSTRIKE_ANNOUNCE,Earn Thanos Annihilator Orbs for more rewards on the web!
+ID_MOTD_NA_BATTLEPASS_SEASON30_ANNOUNCE,LIVE: Season 30 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON30_ANNOUNCE,Complete Objectives to earn Ares shards and more!
+ID_MOTD_NA_BATTLEPASS_SEASON31_ANNOUNCE,LIVE: Season 31 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON31_ANNOUNCE,Complete Objectives to earn Ares shards and more!

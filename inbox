@@ -9383,8 +9383,8 @@ ID_ME_NA_SPLASH_MUTANTOPS,LIVE: Mutant Ops
 ID_ME_DE_SPLASH_MUTANTOPS,Earn Disco Balls and Iso-8!
 ID_ME_BO_SPLASH_MUTANTOPS,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Iso-8</color> and <color=#fff568>Disco Balls</color> for the Summer Nights!\n\n<color=#fff568>Featured Trait</color>:\nX-Force\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
 ID_ME_NA_SPLASH_MERCENARYMAYHEM,LIVE: Mercenary Mayhem
-ID_ME_DE_SPLASH_MERCENARYMAYHEM,Earn Disco Balls and Ability Materials!
-ID_ME_BO_SPLASH_MERCENARYMAYHEM,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Ability Materials</color> and <color=#fff568>Disco Balls</color> for the Summer Nights!\n\n<color=#fff568>Featured Trait</color>:\nMercs For Money\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_DE_SPLASH_MERCENARYMAYHEM,Earn Sentinel Cores and Iso-8!
+ID_ME_BO_SPLASH_MERCENARYMAYHEM,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Iso-8</color> and <color=#fff568>Sentinel Cores</color> for the Autumn Revolution!\n\n<color=#fff568>Featured Trait</color>:\nMercs For Money\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
 ID_ME_NA_RADIOACTIVEPREP_TEASER,Coming Soon: Radioactive Prep
 ID_ME_DE_RADIOACTIVEPREP_CORE,Earn T3 Iso-8 Credits and T3 Level 1 Ions
 ID_ME_BO_RADIOACTIVEPREP_CORE,"Commander,\n\n<color=#fff568>Radioactive Prep</color>\nDon't miss out on new ISO upgrades that includes T3 Iso-8 Credits and T3 Level 1 Ions in this event by battling in Cosmic Crucible with Illuminati (bonus points for Black Panther (Shuri), Hank Pym, and Captain Britain). You can also score by collecting Radioactive Orb Fragments from Campaign nodes, Free Claims, special Offers, and completing the Purple Punch web milestone. Earn incredible rewards including <color=#fff568>T3 Iso-8 Credits, T3 Level 1 Ions, and Bio Gear</color>. Collect Radioactive Treats to exchange for T3 ISO in the Radioactive Treats store. You'll also earn points towards the Summer Nights milestone by collecting Disco Balls and a Iso-8 Soda!\n\nRadioactive Prep Leaderboard\nCompete on the Leaderboards for new T3 Level 1 Ions and T3 Iso-8 Credits!\n\n<color=#fff568>Purple Punch Milestone</color>\nSpend Incursion Energy, or battle in Raids to earn Radioactive Orb Fragments and Points for Radioactive Prep Milestone progress! Keep an eye out for Free Claims containing milestone points every day!\n\nGood luck, Commander!"
@@ -9676,8 +9676,49 @@ ID_ME_DE_ANNIHILATORSASSEMBLY_ENDING,"Don't miss out on additional Gladiator, Go
 ID_ME_BO_ANNIHILATORSASSEMBLY_ENDING,"Commander,\n\nThe Annihilators' Assembly Milestone <color=#fff568>ends soon</color>. Continue opening Annihilator Orbs to receive even more guaranteed additional shards!\n\nDon't miss out on this opportunity, Commander!"
 ID_ME_NA_TEAMORB_SENTINEL_TEASER,Coming Soon: Sentinel's Siege
 ID_ME_DE_TEAMORB_SENTINEL_CORE,Get additional shards for Sentinel!
-ID_ME_BO_TEAMORB_SENTINEL_CORE,"Commander,\n\nThe Sentinel factory is up and running!\n\n<color=#fff568>Sentinel's Siege Milestone</color>\nOpen Sentinel Factory to earn progress and receive additional Sentinel shards, as well as Scientist Supreme and Lady Deathstrike shards! Find Sentinel Factory Orb Fragments in events and offers!\n\nGood luck, Commander!"
+ID_ME_BO_TEAMORB_SENTINEL_CORE,"Commander,\n\nThe Sentinel factory is up and running!\n\n<color=#fff568>Sentinel's Siege Milestone</color>\nOpen Sentinel Factory Orbs to earn progress and receive additional Sentinel shards! Find Sentinel Factory Orb Fragments in events and offers!\n\nGood luck, Commander!"
 ID_ME_NA_TEAMORB_SENTINEL_ANNOUNCE,LIVE: Sentinel's Siege
 ID_ME_NA_TEAMORB_SENTINEL_ENDING,Ending Soon:Sentinel's Siege
 ID_ME_DE_TEAMORB_SENTINEL_ENDING,Don't miss out on additional Sentinel shards!
 ID_ME_BO_TEAMORB_SENTINEL_ENDING,"Commander,\n\nThe Sentinel's Siege Milestone <color=#fff568>ends soon</color>. Continue opening Sentinel Factory Orbs to receive even more guaranteed additional shards!\n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_AUTUMNREVOLUTION_TEASER,Coming Soon: Autumn Revolution
+ID_ME_DE_AUTUMNREVOLUTION_TEASER,Earn marvelous rewards!
+ID_ME_BO_AUTUMNREVOLUTION_TEASER,"Commander, \n\nParticipate in this event for spectacular rewards:\n\n- Gorr Shards\n- Training Modules\n- Gold\n- Fully Crafted Augmented Gear pieces\n- Metal Titan Player Frame\n- and more!\n\nGet ready, Commander!"
+ID_ME_NA_AUTUMNREVOLUTION_ANNOUNCE,LIVE: Autumn Revolution
+ID_ME_DE_AUTUMNREVOLUTION_ANNOUNCE,Earn marvelous rewards throughout September!
+ID_ME_BO_AUTUMNREVOLUTION_ANNOUNCE,"Commander,\n\nEarn marvelous rewards by participating in September events:\n\n<color=#fff568>Events</color>\nThroughout the month of September there will be separate milestone events that earn points toward Autumn Revolution Event. The first is live now!\n\n<color=#fff568>Points</color>\nEarn points by collecting <color=#fff568>Sentinel Core</color> and <color=#fff568>Energy Blaster, Anti-Mutant Laser, and Power Dampener</color> from September events. You can find more Sentinel Core in Daily Free Claims on our website.\n\n<color=#fff568>Leaderboard</color>\nCompete on the Leaderboard for exclusive <color=#fff568>3 Diamonds for Gorr the God Butcher, Diamond Champions II Orbs</color>, T2 Level 5 Ions and Armory 18 Orbs!\n\nGood luck, Commander!"
+ID_ME_NA_AUTUMNREVOLUTION_ENDING,Ending Soon: Autumn Revolution
+ID_ME_DE_AUTUMNREVOLUTION_ENDING,3 days left to earn rewards!
+ID_ME_BO_AUTUMNREVOLUTION_ENDING,"Commander,\n\nThe <color=#fff568>Autumn Revolution</color> Event ends in <color=#fff568>3 days</color>. Continue earning progress toward the milestone before it's too late!\n\nGood luck, Commander!"
+ID_ME_NA_SENTINELSASSEMBLE_TEASER,Coming Soon: Sentinels Assemble
+ID_ME_DE_SENTINELSASSEMBLE_CORE,Earn Sentinel Cores and a chance at Sentinel Diamonds!
+ID_ME_BO_SENTINELSASSEMBLE_CORE,"Commander,\n\nEarn Tech Gear in this exciting event!\n\n<color=#fff568>Sentinels Assemble Milestone</color>\nGain progress in this event by earning Iron Legion Orb Fragments from Campaign Nodes, battling in Bliz with Annihilator Characters, completing the Sentinel Strike Web Milestone,  and daily web Free Claims. Earn fantastic rewards including <color=#fff568> T3 Iso-8 Crystals and Ions, and Crimson Tech gear</color>. You'll also earn points towards the month-long Autumn Revolution Milestone by collecting Sentinel Core and the valuable Energy Blaster.\n\n<color=#fff568>Iron Legion Orb</color>\nEarned from Campaigns, Free Claims and special Offers.\n\n<color=#fff568>Sentinel Strike Web Milestone</color>\nCollect Thanos Annihilator Orb to earn Iron Legion Orb Fragments and Sentinel Strike Milestone progress! Keep an eye out for Free Claims containing milestone points every day!\n\n\n\nGood luck, Commander!"
+ID_ME_NA_SENTINELSASSEMBLE_ANNOUNCE,LIVE: Sentinels Assemble
+ID_ME_NA_SENTINELSASSEMBLE_ENDING,Ending Soon: Sentinels Assemble
+ID_ME_DE_SENTINELSASSEMBLE_ENDING,Don't miss out on Sentinel Cores and a chance at a Sentinel Diamonds!
+ID_ME_BO_SENTINELSASSEMBLE_ENDING,"Commander,\n\nThe <color=#fff568>Sentinels Assemble Milestone</color> event <color=#fff568>ends soon</color>. Continue making progress to earn <color=#fff568>Dark Diamond Credits, Diamond Orb Fragments, and Crimson Skill Gear</color>! \n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_THEDARKFUTURE_TEASER,Coming Soon: The Dark Future
+ID_ME_DE_THEDARKFUTURE_CORE,Earn Sentinel Core and Ciphers!
+ID_ME_BO_THEDARKFUTURE_CORE,"Commander,\n\nCelebrate Orchis Raids and the Orchis team with this new alliance event! \n\n<color=#fff568>The Dark Future Milestone</color>\nTo score points:\n- Battle in Raids\n- Collect Milestone Points from Orchis Raids nodes\n- Earn Allied Supply VI Orb Fragments\n\nEarn fantastic rewards including Sentinel Core, Orchis Team Orbs, Ciphers and T3 Iso-8 Materials!\n\n<color=#fff568>Allied Supply VI orb</color>\nEarn these alliance event orbs for progress in The Dark Future! Collect the Allied Supply VI Orb in special offers and daily free claims on the web!\n\nGood luck, Commander!"
+ID_ME_NA_THEDARKFUTURE_ANNOUNCE,LIVE: The Dark Future
+ID_ME_NA_THEDARKFUTURE_ENDING,Ending Soon: The Dark Future
+ID_ME_DE_THEDARKFUTURE_ENDING,Don't miss out on valuable Cosmic Power and Ciphers!
+ID_ME_BO_THEDARKFUTURE_ENDING,"Commander,\n\nThe The Dark Future Milestone <color=#fff568>ends soon</color>. Continue making progress to earn <color=#fff568>Ciphers and Sentinel Core</color> for your whole alliance! \n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_SPLASH_XHAVOC,LIVE: X-Havoc
+ID_ME_DE_SPLASH_XHAVOC,Earn Sentinel Cores and Ability Materials!
+ID_ME_BO_SPLASH_XHAVOC,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Ability Materials</color> and <color=#fff568>Sentinel Cores</color> for the Autumn Revolution!\n\n<color=#fff568>Featured Trait</color>:\nX-Men\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_SPLASH_ALPHAASSAULT,LIVE: Alpha Assault
+ID_ME_DE_SPLASH_ALPHAASSAULT,Earn Sentinel Cores and Orbs!
+ID_ME_BO_SPLASH_ALPHAASSAULT,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Orbs</color> and <color=#fff568>Sentinel Cores</color> for the Autumn Revolution!\n\n<color=#fff568>Featured Trait</color>:\nAlpha Flight\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_NA_BATTLEPASS_SEASON30_ANNOUNCE,Battle Pass: Season 30
+ID_ME_DE_BATTLEPASS_SEASON30_ANNOUNCE,Earn Ares shards & Helm of Ares tokens!
+ID_ME_BO_BATTLEPASS_SEASON30_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle Pass: Season 30 is LIVE</color>!\n\nComplete this Season's Daily and Weekly Objectives to win these <color=#fff568>Featured Prizes</color>:\n- Ares shards\n- Helm of Ares tokens\n- Dark Promotion Credits\n\nUpgrade to the <color=#fff568>Premium Pass</color> to earn even more rewards.\n\nCharge into Battle Pass: Season 30 today!"
+ID_ME_NA_BATTLEPASS_SEASON30_ENDING,Season 30 Ending Soon
+ID_ME_DE_BATTLEPASS_SEASON30_ENDING,Battle Pass: 2 more days!
+ID_ME_BO_BATTLEPASS_SEASON30_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Ares shards and Helm of Ares tokens before the Season ends!"
+ID_ME_NA_BATTLEPASS_SEASON31_ANNOUNCE,Battle Pass: Season 31
+ID_ME_DE_BATTLEPASS_SEASON31_ANNOUNCE,Earn Ares shards & Helm of Ares tokens!
+ID_ME_BO_BATTLEPASS_SEASON31_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle Pass: Season 31 is LIVE</color>!\n\nComplete this Season's Daily and Weekly Objectives to win these <color=#fff568>Featured Prizes</color>:\n- Ares shards\n- Helm of Ares tokens\n- Dark Promotion Credits\n\nUpgrade to the <color=#fff568>Premium Pass</color> to earn even more rewards.\n\nCharge into Battle Pass: Season 31 today!"
+ID_ME_NA_BATTLEPASS_SEASON31_ENDING,Season 31 Ending Soon
+ID_ME_DE_BATTLEPASS_SEASON31_ENDING,Battle Pass: 2 more days!
+ID_ME_BO_BATTLEPASS_SEASON31_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Ares shards and Helm of Ares tokens before the Season ends!"

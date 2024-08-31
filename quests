@@ -4981,5 +4981,54 @@ ID_QU_LD_ANNIHILATORSASSEMBLY,"Annihilators' Assembly Milestone\nOpen Annihilato
 ID_QU_S1_ANNIHILATORSASSEMBLY,Earn 1 Annihilators' Assembly Milestone Point
 ID_QU_NA_TEAMORB_SENTINEL,Sentinel's Siege
 ID_QU_SD_TEAMORB_SENTINEL,Get additional shards for Sentinel!
-ID_QU_LD_TEAMORB_SENTINEL,"Sentinel's Siege Milestone\nOpen Sentinel Factory to earn progress and receive additional Sentinel shards, as well as Scientist Supreme and Lady Deathstrike shards! Find Sentinel Factory Orb Fragments in events and offers!"
+ID_QU_LD_TEAMORB_SENTINEL,Sentinel's Siege Milestone\nOpen Sentinel Factory Orbs to earn progress and receive additional Sentinel shards! Find Sentinel Factory Orb Fragments in events and offers!
 ID_QU_S1_TEAMORB_SENTINEL,Open 1 Sentinel Factory Orb
+ID_QU_NA_AUTUMNREVOLUTION,Autumn Revolution
+ID_QU_SD_AUTUMNREVOLUTION,Participate in September Events
+ID_QU_LM_AUTUMNREVOLUTION,Participate in various events throughout September to earn milestone progress.
+ID_QU_S1_AUTUMNREVOLUTION,Collect Sentinel Cores
+ID_QU_S2_AUTUMNREVOLUTION,Collect 1 Energy Blaster
+ID_QU_S3_AUTUMNREVOLUTION,Collect 1 Anti-Mutant Laser
+ID_QU_S4_AUTUMNREVOLUTION,Collect 1 Power Dampener
+ID_QU_NA_SENTINELSASSEMBLE,Sentinels Assemble
+ID_QU_SD_SENTINELSASSEMBLE,"Earn Iron Legion Orb Fragments, Battle in Blitz"
+ID_QU_LD_SENTINELSASSEMBLE,"Sentinels AssembleMilestone\nGain progress in this 7-day event by spending Campaign Energy, battling in Blitz with Annihilator characters, and completing the Sentinel Strike Web Milestone and daily web Free Claims. Earn fantastic rewards including 3 Diamonds for Sentinel and T3 Iso-8. You'll also earn points towards the month-long Autumn Revolution milestone by collecting Sentinel Cores and a Energy Blaster.\n\nSentinel Strike Web Milestone\nEarn Thanos Annihilator Orbs for Iron Legion Orb Fragments, Sentinels Assemble Autumn Revolution and Milestone progress!"
+ID_QU_S1_SENTINELSASSEMBLE,Earn 1 Iron Legion Orb Fragment
+ID_QU_S2_SENTINELSASSEMBLE,Battle in Blitz with Annihilator characters
+ID_QU_S3_SENTINELSASSEMBLE,Battle in Blitz with Gladiator at Yellow Star 5
+ID_QU_S4_SENTINELSASSEMBLE,Battle in Blitz with Gladiator at Yellow Star 6
+ID_QU_S5_SENTINELSASSEMBLE,Battle in Blitz with Gladiator at Yellow Star 7
+ID_QU_S6_SENTINELSASSEMBLE,Battle in Blitz with Gorr at Yellow Star 5
+ID_QU_S7_SENTINELSASSEMBLE,Battle in Blitz with Gorr at Yellow Star 6
+ID_QU_S8_SENTINELSASSEMBLE,Battle in Blitz with Gorr at Yellow Star 7
+ID_QU_S9_SENTINELSASSEMBLE,Battle in Blitz with Thanos(Endgame) at Yellow Star 5
+ID_QU_S10_SENTINELSASSEMBLE,Battle in Blitz with Thanos(Endgame) at Yellow Star 6
+ID_QU_S11_SENTINELSASSEMBLE,Battle in Blitz with Thanos(Endgame) at Yellow Star 7
+ID_QU_NA_SENTINELSTRIKE,Sentinel Strike
+ID_QU_SD_SENTINELSTRIKE,Earn Thanos Annihilator Orbs
+ID_QU_LD_SENTINELSTRIKE,"Earn Thanos Annihilator Orb to complete this milestone that rewards Iron Legion Orb Fragments, Autumn Revolutionand Sentinels Assemble progress!"
+ID_QU_S1_SENTINELSTRIKE,Earn Thanos Annihilator Orb Fragments
+ID_QU_NA_THEDARKFUTURE,The Dark Future
+ID_QU_SD_THEDARKFUTURE,"Battle in Orchis Raids, earn event Orbs and more!"
+ID_QU_LD_THEDARKFUTURE,"Celebrate Orchis Raids and the Orchis team with this new alliance event! \n\nThe Dark Future Milestone\nTo score points:\n- Battle in Raids\n- Collect Milestone Points from Orchis Raids nodes\n- Earn Allied Supply VI Orb Fragments\n\nEarn fantastic rewards including Sentinel Core, Orchis Team Orbs, Ciphers and T3 Iso-8 Materials!\n\nAllied Supply VI orb\nEarn these alliance event orbs for progress in The Dark Future! Collect the Allied Supply VI Orb in special offers and daily free claims on the web!"
+ID_QU_S1_THEDARKFUTURE,Earn Allied Supply VI Orb Fragments from Free Claims and special Offers
+ID_QU_S2_THEDARKFUTURE,Earn Milestone Points from Orchis Raids nodes and special Offers
+ID_QU_S3_THEDARKFUTURE,Battle in Raids
+ID_QU_S4_THEDARKFUTURE,Battle in Raids with Orchis characters
+ID_QU_S5_THEDARKFUTURE,Battle in Raids with Sentinel
+ID_QU_S6_THEDARKFUTURE,Battle in Raids with Nimrod
+ID_QU_S7_THEDARKFUTURE,Battle in Raids with Omega Sentinel
+ID_QU_NA_SPLASH_XHAVOC,X-Havoc
+ID_QU_SD_SPLASH_XHAVOC,Use X-Men in Blitz
+ID_QU_LM_SPLASH_XHAVOC,Earn points by using X-Men characters in Blitz Battles. Earn more points if your X-Men characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_XHAVOC,Use X-Men Characters in Blitz
+ID_QU_S1_SPLASH_XHAVOC,Win Blitz with a 3-star or higher X-Men Character
+ID_QU_S2_SPLASH_XHAVOC,Win Blitz with a 5-star or higher X-Men Character
+ID_QU_S3_SPLASH_XHAVOC,Win Blitz with a 7-star X-Men Character
+ID_QU_NA_SPLASH_ALPHAASSAULT,Alpha Assault
+ID_QU_SD_SPLASH_ALPHAASSAULT,Use Alpha Flight in Blitz
+ID_QU_LM_SPLASH_ALPHAASSAULT,Earn points by using Alpha Flight characters in Blitz Battles. Earn more points if your Alpha Flight characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_ALPHAASSAULT,Use Alpha Flight Characters in Blitz
+ID_QU_S1_SPLASH_ALPHAASSAULT,Win Blitz with a 3-star or higher Alpha Flight Character
+ID_QU_S2_SPLASH_ALPHAASSAULT,Win Blitz with a 5-star or higher Alpha Flight Character
+ID_QU_S3_SPLASH_ALPHAASSAULT,Win Blitz with a 7-star Alpha Flight Character

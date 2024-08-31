@@ -10270,6 +10270,82 @@ ID_OF_DE_ANNIHILATORSASSEMBLY_EVENTORB1,Get Thanos (Endgame) Orbs for the <color
 ID_OF_NA_ANNIHILATORSASSEMBLY_EVENTORB2,Annihilators' Assembly: Daily Annihilators Team Orb
 ID_OF_DE_ANNIHILATORSASSEMBLY_EVENTORB2,"Get Thanos (Endgame), Gorr and Gladiator Orbs for the <color=#fff568>Annihilators' Assembly</color> progress!"
 ID_OF_NA_SENTINEL_TEAMORB,Sentinel Factory Orb Offer
-ID_OF_DE_SENTINEL_TEAMORB,Bring the team together with this limited time orb special featuring Sentinel! Open for progress in the Sentinel Milestone Event!
+ID_OF_DE_SENTINEL_TEAMORB,Bring the team together with this limited time orb special featuring Sentinel! Open for progress in the Sentinel's Siege Milestone Event!
 ID_OF_NA_SENTINEL_TEAMORB_TY,Sentinel Factory Orb Thank You Special!
 ID_OF_DE_SENTINEL_TEAMORB_TY,Thank you for your support! Please enjoy this increased value orb offer.
+ID_OF_NA_THEDARKFUTURE_STARTER,The Dark Future: Starter
+ID_OF_NA_THEDARKFUTURE_CATCHUP,The Dark Future: Catchup Bundle
+ID_OF_NA_THEDARKFUTURE_DAILY_ORB,Daily Teamwork
+ID_OF_NA_THEDARKFUTURE_ALPHA,The Dark Future: Alpha Flight
+ID_OF_NA_THEDARKFUTURE_FREECLAIM,The Dark Future: Free Claim
+ID_OF_NA_THEDARKFUTURE_INTERSTITIAL,The Dark Future: Treasure Trove
+ID_OF_NA_THEDARKFUTURE_GENERIC,The Dark Future: Special Bundle
+ID_OF_DE_THEDARKFUTURE_STARTER,Get ahead in the <color=#fff568>The Dark Future</color> Milestone and propel your Alliance to <color=#fff568>Ciphers</color> and <color=#fff568>T3 Iso-8 Materials</color>!
+ID_OF_DE_THEDARKFUTURE_CATCHUP,Finish strong in the <color=#fff568>The Dark Future</color> Milestone and propel your Alliance to <color=#fff568>Ciphers</color> and <color=#fff568>T3 Iso-8 Materials</color>!
+ID_OF_DE_THEDARKFUTURE_DAILY_ORB,"Collect these event orbs for <color=#fff568>T2 Iso-8 Materials, Gold and Training Materials</color>, as well as <color=#fff568>The Dark Future</color> Milestone progress!"
+ID_OF_DE_THEDARKFUTURE_ORCHIS,Power up your Orchis characters and participate in Orchis Raids to maximize <color=#fff568>The Dark Future</color> Milestone progress!
+ID_OF_DE_THEDARKFUTURE_FREECLAIM,Come back daily for more <color=#fff568>The Dark Future</color> progress!
+ID_OF_DE_THEDARKFUTURE_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>The Dark Future</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_THEDARKFUTURE_GENERIC,Get ahead in the <color=#fff568>The Dark Future</color> Milestone and propel your Alliance to <color=#fff568>Ciphers</color> and <color=#fff568>T3 Iso-8 Materials</color>!
+ID_OF_NA_AUTUMNREVOLUTION_STARTER_MEGA,Autumn Revolution Starter
+ID_OF_NA_AUTUMNREVOLUTION_STARTER_SUPER,Autumn Revolution Starter Kit
+ID_OF_NA_AUTUMNREVOLUTION_STARTER,Emergency Kit
+ID_OF_NA_AUTUMNREVOLUTION_BOOSTER_ANCHOR,Daily Supply Drop
+ID_OF_NA_AUTUMNREVOLUTION_MEGA,Mega Supplies
+ID_OF_NA_AUTUMNREVOLUTION_LEGACY,Autumn Legacy
+ID_OF_NA_AUTUMNREVOLUTION_SHARDS,Recruitment Special
+ID_OF_NA_AUTUMNREVOLUTION_GOLD,Golden Times
+ID_OF_NA_AUTUMNREVOLUTION_CATS,Event Catalysts
+ID_OF_NA_AUTUMNREVOLUTION_DPC,Dark Nights
+ID_OF_NA_AUTUMNREVOLUTION_TRAINING,Bulking Season
+ID_OF_NA_AUTUMNREVOLUTION_AB,Seasonal Abilities
+ID_OF_NA_AUTUMNREVOLUTION_CATCHUP_MEGA,Autumn Revolution: Mega Catch-Up
+ID_OF_NA_AUTUMNREVOLUTION_CATCHUP_SUPER,Autumn Revolution: Super Catch-Up
+ID_OF_NA_AUTUMNREVOLUTION_CATCHUP_LAST_CHANCE,Last Call
+ID_OF_NA_AUTUMNREVOLUTION_FREEDAILY,Autumn Revolution: Free Claim
+ID_OF_DE_AUTUMNREVOLUTION_STARTER_MEGA,Stock up on <color=#fff568>Autumn Revolution</color> progress and exclusive items!
+ID_OF_DE_AUTUMNREVOLUTION_STARTER_SUPER,Get ahead in the <color=#fff568>Autumn Revolution</color> milestone!
+ID_OF_DE_AUTUMNREVOLUTION_STARTER,Start off strong in the <color=#fff568>Autumn Revolution</color> milestone!
+ID_OF_DE_AUTUMNREVOLUTION_BOOSTER_ANCHOR,Make consistent <color=#fff568>Autumn Revolution</color> progress with this daily <color=#fff568>Disco Balls</color> drop!
+ID_OF_DE_AUTUMNREVOLUTION_LEGACY,Stock up on <color=#fff568>Autumn Revolution event progress</color> and <color=#fff568>Legacy Orbs</color> with this special deal!
+ID_OF_DE_AUTUMNREVOLUTION_SHARDS,Stock up on <color=#fff568>Autumn Revolution event progress</color> and <color=#fff568>character shards</color> with this special deal!
+ID_OF_DE_AUTUMNREVOLUTION_GOLD,Stock up on <color=#fff568>Autumn Revolution event progress</color> and <color=#fff568>Gold</color> with this special deal!
+ID_OF_DE_AUTUMNREVOLUTION_TRAINING,Stock up on <color=#fff568>Autumn Revolution event progress</color> and <color=#fff568>Training Modules</color> with this special deal!
+ID_OF_DE_AUTUMNREVOLUTION_CATS,Stock up on <color=#fff568>Autumn Revolution event progress</color> and <color=#fff568>Catalyst Parts</color> with this special deal!
+ID_OF_DE_AUTUMNREVOLUTION_AB,Stock up on <color=#fff568>Autumn Revolution event progress</color> and <color=#fff568>Ability Materials</color> with this special deal!
+ID_OF_DE_AUTUMNREVOLUTION_CATCHUP_MEGA,Finish strong in the milestones to earn Teal Gear!
+ID_OF_DE_AUTUMNREVOLUTION_CATCHUP_SUPER,Finish strong in the milestones to earn Teal Gear!
+ID_OF_DE_AUTUMNREVOLUTION_CATCHUP_LAST_CHANCE,"Catch this deal before it's too late to earn Teal Gear! "
+ID_OF_DE_AUTUMNREVOLUTION_FREEDAILY,Come back daily for more <color=#fff568>Autumn Revolution</color> progress!
+ID_OF_NA_SENTINELSASSEMBLE_MEGA_STARTER,Sentinels Assemble: Starter
+ID_OF_NA_SENTINELSASSEMBLE_STARTER,Sentinels Assemble: Starter
+ID_OF_NA_SENTINELSASSEMBLE_MEGA_CATCHUP,Sentinels Assemble: Catch-up
+ID_OF_NA_SENTINELSASSEMBLE_CATCHUP,Sentinels Assemble: Catch-up
+ID_OF_NA_SENTINELSASSEMBLE_WEB_SPECIAL,Sentinels Assemble: Web Special
+ID_OF_NA_SENTINELSASSEMBLE_DAILY_ORB,Sentinels Assemble: Daily Orb
+ID_OF_NA_SENTINELSASSEMBLE_DAILY_POINTS,Sentinels Assemble: Daily Points
+ID_OF_NA_SENTINELSASSEMBLE_DAILY_ENERGY,Sentinels Assemble: Daily Energy
+ID_OF_NA_SENTINELSASSEMBLE_GLADIATOR,Sentinels Assemble: Gladiator's Arena
+ID_OF_NA_SENTINELSASSEMBLE_GORR,Sentinels Assemble: Gorr's Treasure
+ID_OF_NA_SENTINELSASSEMBLE_THANOS_EG,Sentinels Assemble: Thanos' Secret
+ID_OF_NA_SENTINELSASSEMBLE_DAILY_FREE_CLAIM,Sentinels Assemble: Free Claim
+ID_OF_NA_SENTINELSASSEMBLE_DAILY_INTERSTITIAL,Sentinels Assemble: Secret Stash
+ID_OF_NA_SENTINELSASSEMBLE_MS_TARGETED_BOOSTER,Sentinels Assemble: Milestone Booster
+ID_OF_NA_SENTINELSASSEMBLE_FREE_CLAIM_2_PIVOT,Sentinels Assemble: Free Claim
+ID_OF_NA_SENTINELSASSEMBLE_INTERSTITIAL_2_PIVOT,Sentinels Assemble: Secret Treasure
+ID_OF_NA_SENTINELSASSEMBLE_MID_EVENT_SPECIAL_PIVOT,Sentinels Assemble: Special Bundle
+ID_OF_DE_SENTINELSASSEMBLE_MEGA_STARTER,"Get ahead in the <color=#fff568>Sentinels Assemble</color> Milestone and fast-forward your way to Sentinel Diamonds, <color=#f12603>T3 Iso-8 Credits</color> and <color=#fff568>T3 Level 1 Ions</color>!"
+ID_OF_DE_SENTINELSASSEMBLE_MEGA_CATCHUP,"Finish strong in the milestones to earn Sentinel Diamonds, <color=#f12603>T3 Iso-8 Credits</color> and <color=#fff568>T3 Level 1 Ions</color>!"
+ID_OF_DE_SENTINELSASSEMBLE_WEB_SPECIAL,Take a leap of faith with this Sentinels Assemble special web bundle!
+ID_OF_DE_SENTINELSASSEMBLE_DAILY_ORB,Stock up on Iron Legion Fragments to get ahead in the <color=#fff568>Old Enemies</color> Milestone and earn  <color=#f12603>Crimson Tech Gear</color> and <color=#fff568>T3 Iso-8</color>!
+ID_OF_DE_SENTINELSASSEMBLE_DAILY_POINTS,Get ahead in the Sentinels Assemble Leaderboards and earn Sentinel Diamonds and <color=#f12603>T3 Iso-8</color>!
+ID_OF_DE_SENTINELSASSEMBLE_DAILY_ENERGY,Get your daily campaign energy fix to earn more <color=#fff568>Iron Legion Fragments</color> and get ahead in the <color=#fff568>Sentinels Assemble</color> Milestone!
+ID_OF_DE_SENTINELSASSEMBLE_GLADIATOR,Power up Gladiator with this shard offer!
+ID_OF_DE_SENTINELSASSEMBLE_GORR,Power up Gorr with this shard offer!
+ID_OF_DE_SENTINELSASSEMBLE_THANOS_EG,Power up Thanos (Endgame) with this shard offer!
+ID_OF_DE_SENTINELSASSEMBLE_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Sentinels Assemble</color> progress!
+ID_OF_DE_SENTINELSASSEMBLE_DAILY_INTERSTITIAL,You just unlocked the discount deal for the <color=#fff568>Sentinels Assemble</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_SENTINELSASSEMBLE_MS_TARGETED_BOOSTER,Congratulations on reaching milestone 14. You just unlocked a 50% off deal that will let you instantly reach milestone 15!
+ID_OF_DE_SENTINELSASSEMBLE_FREE_CLAIM_2_PIVOT,Claim this exclusive free gift on us! Check back often to find more exclusive gifts! Don't miss out on the one-time offer after claiming this gift!
+ID_OF_DE_SENTINELSASSEMBLE_INTERSTITIAL_2_PIVOT,You just unlocked the discount deal for the <color=#fff568>Sentinels Assemble</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_SENTINELSASSEMBLE_MID_EVENT_SPECIAL_PIVOT,"Claim this mega deal leap to the top of the leaderboard in the <color=#fff568>Sentinels Assemble</color> Milestone for <color=#fff568>Sentinel Diamonds, T3 Iso-8 Credits and T3 Level 1 Ions</color>!"
