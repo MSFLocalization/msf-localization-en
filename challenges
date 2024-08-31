@@ -2618,6 +2618,28 @@ ID_INFO_NA_COSMICDOMINANCE,Cosmic Dominance
 ID_INFO_DE_COSMICDOMINANCE,Play War battles for glorious rewards!
 ID_INFO_BO_COSMICDOMINANCE,<color=#fff568>Cosmic Dominance Milestone</color>\nGain progress in this <color=#fff568>6-day</color> event by collaborating with your alliance to battle through War and earn Allied Supply VI Orb Fragments. Allied Supply VI Orb Fragments can be found in daily Free Claims on the web and special offers in the store.
 ID_INFO_BO_GORRWEEKEND,"<color=#fff568>Weekend Arena Warriors Milestone</color>\nEarn progress by battling in Arena with bonus points for using Annihilators. Receive guaranteed additional Gorr Annihilator Orbs and Captain Britain Awakened Ability Avalon Strike! Find Gorr Annihilator Orb Fragments in arena, events, and offers!"
+ID_SSE_ORCHIS_TOP_NAME,ORCHIS FORGE
+ID_SSE_ORCHIS_TOP_SUBTITLE,Orchis Super Showcase
+ID_SSE_ORCHIS_ACTI_NAME,SENTINEL
+ID_SSE_ORCHIS_ACTI_SUBTITLE,Orchis Showcase - Act I
+ID_SSE_ORCHIS_ACTI_DESC,"Sentinels attack! Old Man Logan helps defend against the surprise assault, and gets a potential lead on Charles's whereabouts.\n\nChapter 2 Challenge Requirements:\n- Sentinel at 3, 4, and 5 Yellow Stars\n- Ciphers"
+ID_SSE_ORCHIS_ACTI_FILLER,STORY
+ID_SSE_ORCHIS_ACTI_FILLSUB,Sentinel
+ID_SSE_ORCHIS_ACTII_NAME,NIMROD
+ID_SSE_ORCHIS_ACTII_SUBTITLE,Orchis Showcase - Act II
+ID_SSE_ORCHIS_ACTII_DESC,"The Brotherhood of Mutants launches a counterattack against the Orchis Forge. Scientist Supreme and her staff fight for their lives.\n\nChapter 2 Challenge Requirements:\n- Nimrod at 3, 4, and 5 Yellow Stars\n- Ciphers"
+ID_SSE_ORCHIS_ACTII_FILLER,STORY
+ID_SSE_ORCHIS_ACTII_FILLSUB,Nimrod
+ID_SSE_ORCHIS_ACTIII_NAME,OMEGA SENTINEL
+ID_SSE_ORCHIS_ACTIII_SUBTITLE,Orchis Showcase - Act III
+ID_SSE_ORCHIS_ACTIII_DESC,"The members of Orchis find their footing and push back! The fighting escalates while the Orchis Forge continues to take damage.\n\nChapter 2 Challenge Requirements:\n- Omega Sentinel at 3, 4, and 5 Yellow Stars\n- Ciphers"
+ID_SSE_ORCHIS_ACTIII_FILLER,STORY
+ID_SSE_ORCHIS_ACTIII_FILLSUB,Omega Sentinel
+ID_SSE_ORCHIS_ACTIV_NAME,ORCHIS
+ID_SSE_ORCHIS_ACTIV_SUBTITLE,Orchis Showcase - Final Act
+ID_SSE_ORCHIS_ACTIV_DESC,"Everyone left standing fights to escape the Orchis Forge while they still can. Logan finally gets a promising lead on Charles.\n\nChapter 2 Challenge Requirements:\n- 5 ORCHIS at 3, 4, 5, 6, and 7 Yellow Stars\n- Quantum Ciphers"
+ID_SSE_ORCHIS_ACTIV_FILLER,STORY
+ID_SSE_ORCHIS_ACTIV_FILLSUB,Orchis
 ID_INFO_NA_GREATERPURPOSE,A Greater Purpose
 ID_INFO_DE_GREATERPURPOSE,Earn Cosmic Power and the Quantum Bands!
 ID_INFO_BO_GREATERPURPOSE,"<color=#fff568>A Greater Purpose Milestone</color>\nGain progress in this event by spending Iso-8 Campaign Energy, battling in Cosmic Crucible, collecting Crimson Council Orb Fragments and battling in Blitz with Annihilators. Earn rewards including <color=#fff568>Gladiator shards, Radioactive Treats, T3 Iso-8 Materials and Crimson Gear</color>. You'll also earn points towards the month-long The Annihilator Initiative milestone by collecting Cosmic Power and  the Quantum Bands.\n\n<color=#fff568>A Greater Power Web Milestone</color>\nGain progress by spending Radioactive Treats in the Radioactive Treats store. Earn A Greater Purpose milestone points, Crimson Council Orb Fragments and Augmented Catalysts. Keep an eye out for Free Claims containing Crimson Council Orb Fragments every day!"

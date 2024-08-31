@@ -9244,3 +9244,11 @@ ID_GACHA_CRATE_IRONLEGION_NAME,Iron Legion Orb
 ID_GACHA_CRATE_IRONLEGION_DESCRIPTION,Earn progress in the Sentinels Assemble Milestone and open Iron Legion Orbs for Crimson or Teal Uniques!
 ID_GACHA_CRATE_IRONLEGION_TOKEN_NAME,Iron Legion Orb Fragment
 ID_GACHA_CRATE_IRONLEGION_TOKEN_DESCRIPTION,Find Iron Legion Orb Fragments in a special offer
+ID_GACHA_CRATE_TEAMORB_NIMROD_NAME,Sentinel Evolution Orb
+ID_GACHA_CRATE_TEAMORB_NIMROD_DESCRIPTION,Earn progress in Nimrod's Milestone Event to collect more Nimrod Shards!
+ID_GACHA_CRATE_TEAMORB_NIMROD_TOKEN_NAME,Sentinel Evolution Orb Fragments
+ID_GACHA_CRATE_TEAMORB_NIMROD_TOKEN_DESCRIPTION,"Find Sentinel Evolution Orb Fragments in events, and offers!"
+ID_GACHA_CRATE_TEAMORB_OMEGASENTINEL_NAME,Sentinel Transcendence Orb
+ID_GACHA_CRATE_TEAMORB_OMEGASENTINEL_DESCRIPTION,Earn progress in Omega Sentinel's Milestone Event to collect more Omega Sentinel Shards!
+ID_GACHA_CRATE_TEAMORB_OMEGASENTINEL_TOKEN_NAME,Sentinel Transcendence Orb Fragments
+ID_GACHA_CRATE_TEAMORB_OMEGASENTINEL_TOKEN_DESCRIPTION,"Find Sentinel Transcendence Orb Fragments in events, and offers!"

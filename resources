@@ -58,6 +58,8 @@ ID_RES_CAMPAIGN_ENERGY_EVENT01,Summer Fun Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT02,Warrior Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT03,Mind of Magneto Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT04,Annihilating Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT05,Cipher
+ID_RES_CAMPAIGN_ENERGY_EVENT06,Quantum Cipher
 ID_CAMPAIGN_ENERGY_EVENT01_NAME,Summer Fun Energy
 ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch 'Pool Party! missions.
 ID_CAMPAIGN_ENERGY_EVENT02_NAME,Warrior Energy
@@ -66,6 +68,10 @@ ID_CAMPAIGN_ENERGY_EVENT03_NAME,Mind of Magneto Energy
 ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Mind of Magneto missions.
 ID_CAMPAIGN_ENERGY_EVENT04_NAME,Annihilating Energy
 ID_CAMPAIGN_ENERGY_EVENT04_DESCRIPTION,Used to launch Annihilation missions.
+ID_CAMPAIGN_ENERGY_EVENT05_NAME,Cipher
+ID_CAMPAIGN_ENERGY_EVENT05_DESCRIPTION,"Used to launch Orchis Forge bonus missions for Sentinel, Nimrod, and Omega Sentinel."
+ID_CAMPAIGN_ENERGY_EVENT06_NAME,Quantum Cipher
+ID_CAMPAIGN_ENERGY_EVENT06_DESCRIPTION,Used to launch the final set of Orchis Forge bonus missions.
 ID_RES_CAMPAIGN_ENERGY_EVENT10_NAME,Arachnid Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT10_DESCRIPTION,Used to launch Loose Threads missions.
 ID_HC_NAME,Power Cores
@@ -415,6 +421,10 @@ ID_EVTA_META_SEP_E_NAME,Sentinels Assemble Milestone Points
 ID_EVTA_META_SEP_E_DESCRIPTION,These points earn you additional progress in the Sentinels Assemble Milestone. Earn them in the Sentinel Strike Web Milestone and Special Offers!
 ID_EVTA_META_SEP_F_NAME,Fall of the Mutants Milestone Points
 ID_EVTA_META_SEP_F_DESCRIPTION,These points earn you additional progress in the Fall of the Mutants Milestone. Earn them in the S-Day Web Milestone and Special Offers!
+ID_EVTA_META_SEP_G_NAME,Operation: Omega Milestone Points
+ID_EVTA_META_SEP_G_DESCRIPTION,These points earn you additional progress in the Operation: Omega Milestone. Earn them in the Mutant Rebellion Web Milestone and Special Offers!
+ID_EVTA_META_SEP_H_NAME,The Dark Future Milestone Points
+ID_EVTA_META_SEP_H_DESCRIPTION,These points earn you additional progress in the The Dark Future Alliance Milestone. Earn them in Free Claims and Special Offers!
 ID_EVTA_META_OCT_A_NAME,Cat's Head Amulet
 ID_EVTA_META_OCT_A_DESCRIPTION,Collect Cat's Head Amulets for points in the Night of the Were-Tigress Event. Earn them in various events throughout the month of October
 ID_EVTA_META_OCT_B_NAME,Beast Glove

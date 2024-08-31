@@ -9168,7 +9168,7 @@ ID_DIALOG_SSE_ANNIHILATORS_TEAM_02_INTRO_3,"One where we all live at the end. "
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_02_INTRO_4,"Enh, never mind. "
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_02_INTRO_5,"Gladiator, Gorr, Surfer, Ultimus... You're the only ones who can do this."
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_02_INTRO_6,"Head to Io, break into his prison cell, and bust him out."
-ID_DIALOG_SSE_ANNIHILATORS_TEAM_02_INTRO_7,"And then cross our fingers that Thanos is in a helping mode. "
+ID_DIALOG_SSE_ANNIHILATORS_TEAM_02_INTRO_7,"And then cross our fingers that Thanos is in a helping mood. "
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_02_START_0,"We face resistance already! "
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_02_START_1,I would expect nothing else. Guards from all over the multiverse keeping him in.
 ID_DIALOG_SSE_ANNIHILATORS_TEAM_02_START_2,"Forgive me for what I must do. "
@@ -9246,7 +9246,7 @@ ID_DIALOG_SSE_ANNIHILATORS_THANOS_03_INTRO_3,"YOU WISH TO DESTROY THIS WORLD. I 
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_03_INTRO_4,REMAKE IT AS ULTRON!
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_03_END_0,"CEASE RESISTANCE. ALLOW ME TO DESTROY YOUR ENEMIES. "
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_03_END_1,"You mistake oppression with harmony, robot. "
-ID_DIALOG_SSE_ANNIHILATORS_THANOS_03_END_2,"I want balance, I want to the multiverse to heal. How long until the cancer that is Ultron spreads?"
+ID_DIALOG_SSE_ANNIHILATORS_THANOS_03_END_2,"I want balance, I want the multiverse to heal. How long until the cancer that is Ultron spreads?"
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_03_END_3,"No, I don't think I'll make any deals with you. I'll destroy you, and cure this world of whatever you are. "
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_03_END_4,"YOU WILL TRY. AND YOU WILL FAIL. "
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_04_START_0,"We have reached the Supreme Intelligence! "
@@ -9273,6 +9273,127 @@ ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_5,"Oh, thank god. And, uh, Thanos? "
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_6,"Gone. I must pursue him, whatever his plans... I'm responsible. But you saved us, Star-Lord. Be pleased."
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_7,"Yes. A Terran saved us. But a Terran threat almost wiped out the entire galaxy. "
 ID_DIALOG_SSE_ANNIHILATORS_THANOS_05_END_8,"This must be reported to the Empire. Know this, Star-Lord. There will be consequences. "
+ID_DIALOG_SSE_ORCHIS_SENTINEL_01_INTRO_0,"This is the place mentioned in the brief, right? Not at all what I imagined for the big test site."
+ID_DIALOG_SSE_ORCHIS_SENTINEL_01_INTRO_1,"I just checked a third time, and yeah the coordinates are right here in this… bustling shopping center."
+ID_DIALOG_SSE_ORCHIS_SENTINEL_01_INTRO_2,"Guess they're going for more of a ""live fire"" exercise. It's about time, let's set up the data gathering equipment before—"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_01_INTRO_3,ARRIVAL AT DESTINATION CONFIRMED.\nBEGINNING COMBAT CALIBRATION.
+ID_DIALOG_SSE_ORCHIS_SENTINEL_01_INTRO_4,"Oh great, they're showing up earlier than we thought! Hurry up and get these devices transmitting or we won't hear the end of it!"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_01_INTRO_5,"Hey, at least we got the right place! I'm almost done on my end, how long do you think we—"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_01_INTRO_6,COMBAT CALIBRATION COMPLETE.\nSCANNING FOR THREATS TO HUMANITY…
+ID_DIALOG_SSE_ORCHIS_SENTINEL_01_INTRO_7,"Thanks for coming shopping with me, Bobby. Really hoping I can—wait, do you hear screaming?"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_01_START_0,CURRENT TARGETS SUFFICIENTLY SUBDUED.\nSCANNING FOR NEW THREATS TO HUMANITY…
+ID_DIALOG_SSE_ORCHIS_SENTINEL_01_START_1,People are under attack! I'll slow it down so you can get in there and do your thing.
+ID_DIALOG_SSE_ORCHIS_SENTINEL_01_START_2,THREAT TO HUMANITY IDENTIFIED.\nTHREAT LEVEL: MODERATE.
+ID_DIALOG_SSE_ORCHIS_SENTINEL_01_END_0,"It's bad enough we were caught off guard, but there's no end to them! We can't keep this up…"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_01_END_1,CURRENT TARGETS SUFFICIENTLY SUBDUED.\nSCANNING FOR NEW THREATS TO HUMANITY…
+ID_DIALOG_SSE_ORCHIS_SENTINEL_01_END_2,"Over here, you hunk of scrap!\nDon't worry you two, help is coming!"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_02_INTRO_0,"I was worried we wouldn't have the good stuff recorded, but they went at it long enough to get solid data!"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_02_INTRO_1,"Yeah, those freaks scary when they get going. Glad we'll finally be able to neutralize them…"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_02_INTRO_2,You wanna try whatever it is on me? Can't promise that I'll smile for the camera though…
+ID_DIALOG_SSE_ORCHIS_SENTINEL_02_INTRO_3,AAAAAH! Where did he come from? Call for help! CALL FOR HE—
+ID_DIALOG_SSE_ORCHIS_SENTINEL_02_INTRO_4,"Come on, come on… Stupid macine! Why is a DISTRESS signal so slow to send…"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_02_INTRO_5,"Hey! Your friend over there wasn't much of a talker, but you look like you want to tell me what's going on."
+ID_DIALOG_SSE_ORCHIS_SENTINEL_02_INTRO_6,Eep!! Wait! I'll talk! …We're testing something at the shopping center over there. A weapon. It's still ongoing.
+ID_DIALOG_SSE_ORCHIS_SENTINEL_02_INTRO_7,Guess you get to see what happens when it's torn to shreds. Lucky day for science.
+ID_DIALOG_SSE_ORCHIS_SENTINEL_02_START_0,Mind if I have a go at 'em?
+ID_DIALOG_SSE_ORCHIS_SENTINEL_02_START_1,"Wolvie?! Thank goodness, things weren't looking so great…"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_02_START_2,"Nah, you were doing great, kid. I just wanted to join in on the fun."
+ID_DIALOG_SSE_ORCHIS_SENTINEL_02_END_0,"Ma'am, sorry to bother you but we have some initial reports for you on today's tests. Some good, some bad."
+ID_DIALOG_SSE_ORCHIS_SENTINEL_02_END_1,"I told you I'm very busy now, and not to bother me—go talk to the captain if it's important, Mendel loves that stuff."
+ID_DIALOG_SSE_ORCHIS_SENTINEL_02_END_2,"Oh, me? Talk to Captain Mendel? Maybe this is my chance… Thank you, Ma'am—good luck to both of us!"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_03_INTRO_0,Ugh… is everyone okay…?
+ID_DIALOG_SSE_ORCHIS_SENTINEL_03_INTRO_1,Let me… catch my breath…\nI'm good. Are the others here yet?
+ID_DIALOG_SSE_ORCHIS_SENTINEL_03_INTRO_2,"I thought we were gonners…\nYou're the best, Wolvie!"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_03_INTRO_3,Just wanted to do my part with the recycling. Can you walk okay?
+ID_DIALOG_SSE_ORCHIS_SENTINEL_03_INTRO_4,"Oh, I think so. Let me get up.\nWe're so back—I think I'm good!"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_03_INTRO_5,"Hold up, I smell trouble…"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_03_INTRO_6,COMBAT CALIBRATION COMPLETE.\nSCANNING FOR THREATS TO HUMANITY…
+ID_DIALOG_SSE_ORCHIS_SENTINEL_03_INTRO_7,This is the place! Let's get back online and start the second round of testing with proper support!
+ID_DIALOG_SSE_ORCHIS_SENTINEL_03_START_0,"Apologies for the wait, but I have arrived. As have the others, though they are seeing to other needs."
+ID_DIALOG_SSE_ORCHIS_SENTINEL_03_START_1,Things are finally looking up! I can't wait to end this and get home.
+ID_DIALOG_SSE_ORCHIS_SENTINEL_03_END_0,"Things are bad down here! I repeat, things are BAD! We need to abort the tests and salvage what we can."
+ID_DIALOG_SSE_ORCHIS_SENTINEL_03_END_1,"Wait, DO NOT abandon the tests! Captain Mendel said that it'll be in control soon."
+ID_DIALOG_SSE_ORCHIS_SENTINEL_03_END_2,Just hold on for a bit longer! She'll be there soon and wrap things up.
+ID_DIALOG_SSE_ORCHIS_SENTINEL_04_INTRO_0,We're so cooked…
+ID_DIALOG_SSE_ORCHIS_SENTINEL_04_INTRO_1,"There are way more mutants here than we thought! I know they said to hold on, but…"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_04_INTRO_2,You! Where is he!
+ID_DIALOG_SSE_ORCHIS_SENTINEL_04_INTRO_3,"Wait, who are you? Are you the one Captain Mendel sent?"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_04_INTRO_4,WHERE IS WOLVERINE?!
+ID_DIALOG_SSE_ORCHIS_SENTINEL_04_INTRO_5,"I, um, over there?"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_04_INTRO_6,Out of my way…
+ID_DIALOG_SSE_ORCHIS_SENTINEL_04_INTRO_7,And she's gone… Is everything going to be okay now?
+ID_DIALOG_SSE_ORCHIS_SENTINEL_04_START_0,"I know you're here, Wolverine! Show yourself!"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_04_START_1,This looks to be a complication we need to resolve quickly…
+ID_DIALOG_SSE_ORCHIS_SENTINEL_04_END_0,"I'll find you soon, Wolverine. And we'll settle things for good."
+ID_DIALOG_SSE_ORCHIS_SENTINEL_04_END_1,"Heh, sounds like someone we know…"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_04_END_2,"Ha! They wouldn't get along at all. Okay, let's get in there and get started!"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_05_INTRO_0,That intense lady sure knows what she's doing. Guess that takes care of things here.
+ID_DIALOG_SSE_ORCHIS_SENTINEL_05_INTRO_1,The Brotherhood of Mutants has arrived!
+ID_DIALOG_SSE_ORCHIS_SENTINEL_05_INTRO_2,"Okay, that's it. I'm finding a place to hide until the blows over."
+ID_DIALOG_SSE_ORCHIS_SENTINEL_05_INTRO_3,"Things will be as they should soon, and you will all have earned what is coming!"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_05_INTRO_4,"I had a look around and this is only a test for them. Their real operation is up there, around the sun."
+ID_DIALOG_SSE_ORCHIS_SENTINEL_05_INTRO_5,"Let us head to the source then, and smash their hopeless ambitions into the emptiness of space."
+ID_DIALOG_SSE_ORCHIS_SENTINEL_05_INTRO_6,ELSEWHERE AT THE SHOPPING CENTER
+ID_DIALOG_SSE_ORCHIS_SENTINEL_05_INTRO_7,"Finally! I've found you, Wolverine. Time to end this!"
+ID_DIALOG_SSE_ORCHIS_SENTINEL_05_START_0,"Stand back, Scott. This one's mine."
+ID_DIALOG_SSE_ORCHIS_SENTINEL_05_START_1,You're going to take on her and all those giant robots on yourself?
+ID_DIALOG_SSE_ORCHIS_SENTINEL_05_START_2,"I might leave one for you to play with, if you can keep up."
+ID_DIALOG_SSE_ORCHIS_SENTINEL_05_END_0,Is that the end of them? Let's figure out why this happened in the first place.
+ID_DIALOG_SSE_ORCHIS_SENTINEL_05_END_1,I think this one hiding over here wants to tell us ALL about it.
+ID_DIALOG_SSE_ORCHIS_SENTINEL_05_END_2,(Oh no… Do you think she means me?)
+ID_DIALOG_SSE_ORCHIS_NIMROD_01_INTRO_0,It's a bloodbath! The intercepting party is all dead! We need to lock this area down NOW!
+ID_DIALOG_SSE_ORCHIS_NIMROD_01_INTRO_1,That sounds like something you would be great at! Thanks for volunteering.
+ID_DIALOG_SSE_ORCHIS_NIMROD_01_INTRO_2,(The entire squad was wiped out? Does that mean the captain is…)
+ID_DIALOG_SSE_ORCHIS_NIMROD_01_INTRO_3,"Okay you, you, and you. With me, back to the lab. The rest of you are on lock down duty."
+ID_DIALOG_SSE_ORCHIS_NIMROD_01_INTRO_4,"You heard her, let's move out!"
+ID_DIALOG_SSE_ORCHIS_NIMROD_01_INTRO_5,Let's bring this place down!
+ID_DIALOG_SSE_ORCHIS_NIMROD_01_INTRO_6,"Just what I needed, a chance to let off some steam."
+ID_DIALOG_SSE_ORCHIS_NIMROD_01_INTRO_7,"Oh, looks like we have a group trying to run away. Time to make my own fun…"
+ID_DIALOG_SSE_ORCHIS_NIMROD_01_START_0,One of them caught up to us! Let's try to slow him down and keep moving.
+ID_DIALOG_SSE_ORCHIS_NIMROD_01_END_0,"That seemed to put some distance between…whoever's left. More importantly, I'm back at the lab!"
+ID_DIALOG_SSE_ORCHIS_NIMROD_01_END_1,"Time to try out this salvaged model I've been trying to restore, aaaand also see if the hype around AI is real."
+ID_DIALOG_SSE_ORCHIS_NIMROD_01_END_2,And maybe we'll pay a little tribute to the late captain…
+ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_0,"Okay, since we've been ""volunteered"" to lock this place down, let's split up into—"
+ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_1,"Hey! Snap out of it! This isn't the time to space out, we have to get the security systems online!"
+ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_2,"Huh? Oh, right. Right, the locks. I'll get on that."
+ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_3,"Wait, do you know what to do? Where are you—"
+ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_4,Burn! And never think raising your hands against us again!
+ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_5,"I hope she knows what she's doing, I think we're out of time…"
+ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_6,"Okay, let's try to push them back and hope for the best!"
+ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_7,"Spread out, try to surround them!"
+ID_DIALOG_SSE_ORCHIS_NIMROD_02_START_0,Are you trying to block our way? Are you trying to stop us?
+ID_DIALOG_SSE_ORCHIS_NIMROD_02_START_1,Do you know who I am?!
+ID_DIALOG_SSE_ORCHIS_NIMROD_03_INTRO_0,"Okay, here's the terminal. Emergency, emergency…"
+ID_DIALOG_SSE_ORCHIS_NIMROD_03_INTRO_1,Ah! I think it's this. The onboarding stuff is coming back to me.
+ID_DIALOG_SSE_ORCHIS_NIMROD_03_INTRO_2,"Ugh, I feel sick. Is he really gone? I never told the captain how I felt. Why I transferred to this space station."
+ID_DIALOG_SSE_ORCHIS_NIMROD_03_INTRO_3,NOTICE. LOCKDOWN PROTOCOL HAS BEEN INITIATED.
+ID_DIALOG_SSE_ORCHIS_NIMROD_03_INTRO_4,There we go. Now to fire up the camera feed and shepherd them through the locked sections…
+ID_DIALOG_SSE_ORCHIS_NIMROD_03_INTRO_5,"HEY! Open up, let me in, quickly!"
+ID_DIALOG_SSE_ORCHIS_NIMROD_03_INTRO_6,"Oh! Here, come in come in! You actually pushed them back? Where are the others?"
+ID_DIALOG_SSE_ORCHIS_NIMROD_03_INTRO_7,"I'm afraid none of them made it, but thanks for letting me in.\nThere are scary people running about…"
+ID_DIALOG_SSE_ORCHIS_NIMROD_03_START_0,I… I don't understand…
+ID_DIALOG_SSE_ORCHIS_NIMROD_03_START_1,"My, you look devastated. It's a great look for your final moments."
+ID_DIALOG_SSE_ORCHIS_NIMROD_03_END_0,"Okay, enough. You're starting to get annoying.\nAny last words?"
+ID_DIALOG_SSE_ORCHIS_NIMROD_03_END_1,"I'll be joining you soon, Captain Mendel…"
+ID_DIALOG_SSE_ORCHIS_NIMROD_04_INTRO_0,"I'll be joining you soon, Captain Mendel…"
+ID_DIALOG_SSE_ORCHIS_NIMROD_04_INTRO_1,Spoilers! Who told you?! Who ruined the surprise?
+ID_DIALOG_SSE_ORCHIS_NIMROD_04_INTRO_2,I've arrived. Rest assured I will take care of them this time.
+ID_DIALOG_SSE_ORCHIS_NIMROD_04_INTRO_3,CAPTAIN?!?
+ID_DIALOG_SSE_ORCHIS_NIMROD_04_INTRO_4,"Oh, this looks like trouble."
+ID_DIALOG_SSE_ORCHIS_NIMROD_04_INTRO_5,We've dealt with worse.
+ID_DIALOG_SSE_ORCHIS_NIMROD_04_INTRO_6,"I see you've come back to us, just in time for the good part."
+ID_DIALOG_SSE_ORCHIS_NIMROD_04_INTRO_7,Let's not keep it waiting! We've got a lot more to break after.
+ID_DIALOG_SSE_ORCHIS_NIMROD_04_END_0,"Wow, that was amazing! This is even better than I expected!"
+ID_DIALOG_SSE_ORCHIS_NIMROD_04_END_1,There are more threats approaching. My work isn't done here.
+ID_DIALOG_SSE_ORCHIS_NIMROD_04_END_2,"It's really him… I mean, it isn't? But, I swear that's him."
+ID_DIALOG_SSE_ORCHIS_NIMROD_05_INTRO_0,"There really is a space station out here… I don't get how that works, but it's really there."
+ID_DIALOG_SSE_ORCHIS_NIMROD_05_INTRO_1,Not for long it isn't. Not when we're through with it.
+ID_DIALOG_SSE_ORCHIS_NIMROD_05_INTRO_2,"Based on the intel we got, this is going to be serious. Don't let your guard down."
+ID_DIALOG_SSE_ORCHIS_NIMROD_05_INTRO_3,Right. And remember we're here to shut down their ability to produce weapons.
+ID_DIALOG_SSE_ORCHIS_NIMROD_05_INTRO_4,And see what they know about Chuck.
+ID_DIALOG_SSE_ORCHIS_NIMROD_05_INTRO_5,"Yes, and gather any intel we can. Okay, we're about to dock. Be ready for anything!"
+ID_DIALOG_SSE_ORCHIS_NIMROD_05_INTRO_6,"I am Nimrod! Judge, jury, and executioner. You are a threat, and I will be your end!"
+ID_DIALOG_SSE_ORCHIS_NIMROD_05_INTRO_7,"I'll be honest, I wasn't ready for that!"
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
