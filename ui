@@ -504,7 +504,7 @@ ID_PURCHASE_RESOURCE_TEXT_2,You can also purchase <color={colorHex}>{qty} {resou
 ID_PURCHASE_RESOURCE_TEXT_3,Increase to <color={colorHex}>VIP Level {num}</color> to purchase more energy by logging in daily or purchasing Credits.
 ID_PURCHASE_RESOURCE_TEXT_MAX,You've reached the daily allowable refresh limit on {resource}. The limit resets every 24 hours.
 ID_PURCHASE_RESOURCE_TEXT_SCHEDULED_MAX,"You've reached the max drop limit on {resource}. "
-ID_PURCHASE_RESOURCE_EC,Purchase Event Energy
+ID_PURCHASE_RESOURCE_EC,Event Energy
 ID_QUANTITY_MULTIPLIER,x{qty}
 ID_QUANTITY_MULTIPLIER_AND_UP,x{qty}+
 ID_QUANTITY_MULTIPLIER_VARIANT,{qty}x
