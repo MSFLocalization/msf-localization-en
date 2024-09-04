@@ -4992,18 +4992,18 @@ ID_QU_S3_AUTUMNREVOLUTION,Collect 1 Anti-Mutant Laser
 ID_QU_S4_AUTUMNREVOLUTION,Collect 1 Power Dampener
 ID_QU_NA_SENTINELSASSEMBLE,Sentinels Assemble
 ID_QU_SD_SENTINELSASSEMBLE,"Earn Iron Legion Orb Fragments, Battle in Blitz"
-ID_QU_LD_SENTINELSASSEMBLE,"Sentinels AssembleMilestone\nGain progress in this 7-day event by spending Campaign Energy, battling in Blitz with Annihilator characters, and completing the Sentinel Strike Web Milestone and daily web Free Claims. Earn fantastic rewards including 3 Diamonds for Sentinel and T3 Iso-8. You'll also earn points towards the month-long Autumn Revolution milestone by collecting Sentinel Cores and a Energy Blaster.\n\nSentinel Strike Web Milestone\nEarn Thanos Annihilator Orbs for Iron Legion Orb Fragments, Sentinels Assemble Autumn Revolution and Milestone progress!"
+ID_QU_LD_SENTINELSASSEMBLE,"Sentinels Assemble Milestone\nGain progress in this 7-day event by spending Campaign Energy, battling in Blitz with Annihilator characters, and completing the Sentinel Strike Web Milestone and daily web Free Claims. Earn fantastic rewards including 3 Diamonds for Sentinel and T3 Iso-8. You'll also earn points towards the month-long Autumn Revolution milestone by collecting Sentinel Cores and a Energy Blaster.\n\nSentinel Strike Web Milestone\nEarn Thanos Annihilator Orbs for Iron Legion Orb Fragments, Sentinels Assemble and Autumn Revolution Milestone progress!"
 ID_QU_S1_SENTINELSASSEMBLE,Earn 1 Iron Legion Orb Fragment
 ID_QU_S2_SENTINELSASSEMBLE,Battle in Blitz with Annihilator characters
-ID_QU_S3_SENTINELSASSEMBLE,Battle in Blitz with Gladiator at Yellow Star 5
-ID_QU_S4_SENTINELSASSEMBLE,Battle in Blitz with Gladiator at Yellow Star 6
-ID_QU_S5_SENTINELSASSEMBLE,Battle in Blitz with Gladiator at Yellow Star 7
-ID_QU_S6_SENTINELSASSEMBLE,Battle in Blitz with Gorr at Yellow Star 5
-ID_QU_S7_SENTINELSASSEMBLE,Battle in Blitz with Gorr at Yellow Star 6
-ID_QU_S8_SENTINELSASSEMBLE,Battle in Blitz with Gorr at Yellow Star 7
-ID_QU_S9_SENTINELSASSEMBLE,Battle in Blitz with Thanos(Endgame) at Yellow Star 5
-ID_QU_S10_SENTINELSASSEMBLE,Battle in Blitz with Thanos(Endgame) at Yellow Star 6
-ID_QU_S11_SENTINELSASSEMBLE,Battle in Blitz with Thanos(Endgame) at Yellow Star 7
+ID_QU_S3_SENTINELSASSEMBLE,Battle in Blitz with Gladiator at 5 Yellow Star
+ID_QU_S4_SENTINELSASSEMBLE,Battle in Blitz with Gladiator at 6 Yellow Star
+ID_QU_S5_SENTINELSASSEMBLE,Battle in Blitz with Gladiator at 7 Yellow Star
+ID_QU_S6_SENTINELSASSEMBLE,Battle in Blitz with Gorr at 5 Yellow Star
+ID_QU_S7_SENTINELSASSEMBLE,Battle in Blitz with Gorr at 6 Yellow Star
+ID_QU_S8_SENTINELSASSEMBLE,Battle in Blitz with Gorr at 7 Yellow Star
+ID_QU_S9_SENTINELSASSEMBLE,Battle in Blitz with Thanos (Endgame) at 5 Yellow Star
+ID_QU_S10_SENTINELSASSEMBLE,Battle in Blitz with Thanos (Endgame) at 6 Yellow Star
+ID_QU_S11_SENTINELSASSEMBLE,Battle in Blitz with Thanos (Endgame) at 7 Yellow Star
 ID_QU_NA_SENTINELSTRIKE,Sentinel Strike
 ID_QU_SD_SENTINELSTRIKE,Earn Thanos Annihilator Orbs
 ID_QU_LD_SENTINELSTRIKE,"Earn Thanos Annihilator Orb to complete this milestone that rewards Iron Legion Orb Fragments, Autumn Revolutionand Sentinels Assemble progress!"
