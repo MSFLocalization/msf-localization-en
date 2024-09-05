@@ -3368,9 +3368,9 @@ ID_MOTD_DE_AUTUMNREVOLUTION_ANNOUNCE,Earn marvelous rewards!
 ID_MOTD_NA_AUTUMNREVOLUTION_ENDING,Ending Soon: Autumn Revolution
 ID_MOTD_DE_AUTUMNREVOLUTION_ENDING,Earn Teal Gear before the event ends!
 ID_MOTD_NA_SENTINELSASSEMBLE_ANNOUNCE,LIVE: Sentinels Assemble
-ID_MOTD_DE_SENTINELSASSEMBLE_ANNOUNCE,Earn Sentinel Cores and a chance at Sentinel Diamonds!
+ID_MOTD_DE_SENTINELSASSEMBLE_ANNOUNCE,Earn Sentinel Cores and a chance at a Sentinel Diamond!
 ID_MOTD_NA_SENTINELSASSEMBLE_ENDING,Ending Soon: Sentinels Assemble
-ID_MOTD_DE_SENTINELSASSEMBLE_ENDING,Don't miss out on Sentinel Cores and a chance at a Sentinel Diamonds!
+ID_MOTD_DE_SENTINELSASSEMBLE_ENDING,Don't miss out on Sentinel Cores and a chance at a Sentinel Diamond!
 ID_MOTD_NA_SENTINELSTRIKE_ANNOUNCE,Web Milestone: Sentinel Strike
 ID_MOTD_DE_SENTINELSTRIKE_ANNOUNCE,Earn Thanos Annihilator Orbs for more rewards on the web!
 ID_MOTD_NA_BATTLEPASS_SEASON30_ANNOUNCE,LIVE: Season 30 of Battle Pass
@@ -3380,7 +3380,12 @@ ID_MOTD_DE_BATTLEPASS_SEASON31_ANNOUNCE,Complete Objectives to earn Ares shards 
 ID_MOTD_NA_THEDARKFUTURE_ANNOUNCE,LIVE: The Dark Future
 ID_MOTD_DE_THEDARKFUTURE_ANNOUNCE,Earn Sentinel Core and Ciphers!
 ID_MOTD_NA_NIMROD_TEASER,Soon: Nimrod
-ID_MOTD_DE_NIMROD_TEASER,Eradicate all mutants with Nimrod!
+ID_MOTD_DE_NIMROD_TEASER,Eradicate all Mutants with Nimrod!
 ID_MOTD_NA_NIMROD_ANNOUNCE,Nimrod is here!
-ID_MOTD_DE_NIMROD_ANNOUNCE,Eradicate all mutants with Nimrod!
-ID_MOTD_DE_NIMROD_ANNOUNCE2,Open the Future Sentinel Orb to earn shards for Nimrod!
+ID_MOTD_DE_NIMROD_ANNOUNCE,Eradicate all Mutants with Nimrod!
+ID_MOTD_DE_NIMROD_ANNOUNCE2,Open the Sentinel Future Orb to earn shards for Nimrod!
+ID_MOTD_NA_TEAMORB_NIMROD_ANNOUNCE,LIVE: Nimrod's Calculation
+ID_MOTD_DE_TEAMORB_NIMROD_ANNOUNCE,Get additional shards for Nimrod!
+ID_MOTD_NA_DD8RACE_ANNOUNCE,LIVE: Race to Valhalla
+ID_MOTD_DE_DD8RACE_ANNOUNCE,Get Red Stars for Odin!
+ID_MOTD_NA_DD8RACE2_ANNOUNCE,LIVE: Race to Odin
