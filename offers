@@ -9699,7 +9699,7 @@ ID_OF_DE_QUANTUMDISCO_WEB_SPECIAL,Make more progress in the <color=#fff568>Quant
 ID_OF_DE_QUANTUMDISCO_DAILY_WAR,Take advantage of this special deal to get the edge in Alliance War and progress in the <color=#fff568>Quantum Disco</color> milestone!
 ID_OF_DE_QUANTUMDISCO_FREE_CLAIM,Come back daily for more <color=#fff568>Quantum Disco</color> progress!
 ID_OF_DE_QUANTUMDISCO_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Quantum Disco</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
-ID_OF_DE_QUANTUMDISCO_MID_EVENT_SPECIAL_PIVOT,Claim this mega deal leap to the top of the leaderboard in the <color=#fff568>Quantum Disco</color> Milestone for <color=#fff568>Hank Pym Diamonds and Crimson Mutant Mini-Uniques</color>!
+ID_OF_DE_QUANTUMDISCO_MID_EVENT_SPECIAL_PIVOT,Make progress in the <color=#fff568>Quantum Disco</color> Milestone by collecting more <color=#fff568>Quantum Hank Orb Fragments</color>!
 ID_OF_DE_QUANTUMDISCO_FREE_CLAIM_2_PIVOT,Claim this exclusive free gift on us! Check back often to find more exclusive gifts! Don't miss out on the one-time offer after claiming this gift!
 ID_OF_DE_QUANTUMDISCO_DAILY_INTERSTITIAL_2_PIVOT,You just unlocked the discount deal for the <color=#fff568>Quantum Disco</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_GLADIATOR_FCO_OFFER,Praetor's Might
@@ -9760,7 +9760,7 @@ ID_OF_DE_ARESSUPPORT_AWAKENEDPASSIVE,Unleash Ares's full power before your compe
 ID_OF_DE_DIAMONDCLAWS_STARTER,Get ahead in the <color=#fff568>Diamond Claws</color> Milestone and start making your way toward <color=#fff568>Old Man Logan Diamond Promotions</color> and <color=#E0B0FF>T3 Iso-8 Materials</color>!
 ID_OF_DE_DIAMONDCLAWS_CATCHUP,Finish strong in the <color=#fff568>Diamond Claws</color> Milestone and Leaderboard to earn <color=#fff568>Old Man Logan Diamond Promotions</color> and <color=#E0B0FF>T3 Iso-8 Materials</color>!
 ID_OF_DE_DIAMONDCLAWS_DAILY_ENERGY,Get your daily dose of Campaign Energy for progress in the Diamond Claws milestone!
-ID_OF_DE_DIAMONDCLAWS_DAILY_ORB,"Collect Midnight Coalition Orbs for progress in the Diamond Claws milestone. Open them for Dark Diamond Credits, shards for Black Panther (Shuri) and Hank Pym, and more!"
+ID_OF_DE_DIAMONDCLAWS_DAILY_ORB,"Collect Midnight Coalition Orbs for progress in the Diamond Claws milestone. Open them for Dark Diamond Credits, shards for Pandapool and Northstar, and more!"
 ID_OF_DE_DIAMONDCLAWS_DAILY_INCURSION,Get your daily dose of Incursion Energy for progress in the Ancient Gems milestone!
 ID_OF_DE_DIAMONDCLAWS_DAILY_POINTS,Get ahead in the <color=#fff568>Diamond Claws</color> Milestone and start making your way toward <color=#fff568>Old Man Logan Diamond Promotions</color> and <color=#E0B0FF>T3 Iso-8 Materials</color>!
 ID_OF_DE_DIAMONDCLAWS_MIDEVENT_SPECIAL,"Claim this mega deal to get ahead in the <color=#fff568>Diamond Claws</color> Milestone and Leaderboard, and fast-forward your way to <color=#fff568>T3 Iso-8 Materials</color> and <color=#fff568>Old Man Logan Diamonds</color>!"
@@ -10389,3 +10389,133 @@ ID_OF_DE_SEPTWKND_PROMO,Don't miss this chance to get more Red Stars for your fa
 ID_OF_DE_SEPTWKND_CRIMSONORIGIN,Dom't miss this limited time offer for Crimson Origin gear pieces!
 ID_OF_DE_SEPTWKND_CALENDAR,Don't miss out on this calendar full of items to boost your roster!
 ID_OF_DE_SEPTWKND_ABILITY,Boost the ability of your roster with this limited time offer!
+ID_OF_NA_DD8LAUNCH24_WEB,DDVIII Launch: Hugin and Munin Stash
+ID_OF_NA_DD8LAUNCH24_GOLD,DDVIII Launch: Odin's Hoard
+ID_OF_NA_DD8LAUNCH24_TRAINING,DDVIII Launch: Odin's Wisdom
+ID_OF_NA_DD8LAUNCH24_PURPLE_IONS_WEB,DDVIII Launch: Purple Ions Special
+ID_OF_NA_DD8LAUNCH24_PURPLE_IONS,DDVIII Launch: Purple Ions
+ID_OF_NA_DD8LAUNCH24_PURPLE_IONS_SUPPORT,DDVIII Launch: Support Iso-8
+ID_OF_NA_DD8LAUNCH24_PURPLE_IONS_CONTROLLER,DDVIII Launch: Controller Iso-8
+ID_OF_NA_DD8LAUNCH24_PURPLE_IONS_PROTECTOR,DDVIII Launch: Protector Iso-8
+ID_OF_NA_DD8LAUNCH24_PURPLE_IONS_BRAWLER,DDVIII Launch: Brawler Iso-8
+ID_OF_NA_DD8LAUNCH24_PURPLE_IONS_BLASTER,DDVIII Launch: Blaster Iso-8
+ID_OF_NA_DD8LAUNCH24_THANOSENDGAME_TOPOFF_4YS_TARGET,DDVIII Launch: A Grateful Universe
+ID_OF_NA_DD8LAUNCH24_THANOSENDGAME_TOPOFF,DDVIII Launch: Mad Titan
+ID_OF_NA_DD8LAUNCH24_GLADIATOR_TOPOFF_4YS_TARGET,DDVIII Launch: Praetor's Might
+ID_OF_NA_DD8LAUNCH24_GLADIATOR_TOPOFF,DDVIII Launch: The Queen's Finest
+ID_OF_NA_DD8LAUNCH24_GORR_TOPOFF_4YS_TARGET,DDVIII Launch: The God Butcher
+ID_OF_NA_DD8LAUNCH24_GORR_TOPOFF,DDVIII Launch: Wielder of the Necrosword
+ID_OF_NA_DD8LAUNCH24_PENIPARKER_4YS_TARGET,DDVIII Launch: Mecha-Arachnid
+ID_OF_NA_DD8LAUNCH24_PENIPARKER_TOPOFF,DDVIII Launch: Bionic Webslinger
+ID_OF_NA_DD8LAUNCH24_PETERBPARKER_4YS_TARGET,DDVIII Launch: Peter B. Parker
+ID_OF_NA_DD8LAUNCH24_PETERBPARKER_TOPOFF,DDVIII Launch: Peter and Mayday
+ID_OF_NA_DD8LAUNCH24_PAVITR_4YS_TARGET,DDVIII Launch: Mumbattan Marvel
+ID_OF_NA_DD8LAUNCH24_PAVITR_TOPOFF,DDVIII Launch: Great Hair Day
+ID_OF_NA_DD8LAUNCH24_GUARDIAN_4YS_TARGET,DDVIII Launch: Weapon Alpha
+ID_OF_NA_DD8LAUNCH24_GUARDIAN_TOPOFF,DDVIII Launch: Stand Fast
+ID_OF_NA_DD8LAUNCH24_SASQUATCH_4YS_TARGET,DDVIII Launch: Snowy Protector
+ID_OF_NA_DD8LAUNCH24_SASQUATCH_TOPOFF,DDVIII Launch: Woodland Sentinel
+ID_OF_NA_DD8LAUNCH24_NORTHSTAR_4YS_TARGET,DDVIII Launch: True North Speedster
+ID_OF_NA_DD8LAUNCH24_NORTHSTAR_TOPOFF,DDVIII Launch: Follow the Northstar
+ID_OF_NA_DD8LAUNCH24_CITYVILLIAN_TOPOFF,DDVIII Launch: City of Villains
+ID_OF_NA_DD8LAUNCH24_DIAMOND_BIG,DDVIII Launch: Diamonds! Diamonds! Diamonds!
+ID_OF_NA_DD8LAUNCH24_DIAMOND_SMALL,DDVIII Launch: Diamond Stash
+ID_OF_NA_DD8LAUNCH24_ANNIHILATORS_CRIMSON_MINIUNIQUES,DDVIII Launch: Crimson Annihilator Pack
+ID_OF_NA_DD8LAUNCH24_SPIDERSOCIETY_CRIMSON_MINIUNIQUES,DDVIII Launch: Crimson Spider Society Pack
+ID_OF_DE_DD8LAUNCH24_WEB,<color=#f12603>Dark Dimension VIII Launch Web Special!</color> Take advantage of this great value of coin and ability!
+ID_OF_DE_DD8LAUNCH24_GOLD,<color=#f12603>Dark Dimension VIII Launch Special!</color> Receive coin from Odin's Hoard!
+ID_OF_DE_DD8LAUNCH24_TRAINING,<color=#f12603>Dark Dimension VIII Launch Special!</color> Receive tutelage from Odin's Wisdom!
+ID_OF_DE_DD8LAUNCH24_PURPLE_IONS_WEB,<color=#f12603>Dark Dimension VIII Launch Web Special!</color> Embolden your roster with T3 L1 Ions! Only available for a limited time!
+ID_OF_DE_DD8LAUNCH24_PURPLE_IONS,<color=#f12603>Dark Dimension VIII Launch Special!</color> Embolden your roster with T3 L1 Ions! Only available for a limited time!
+ID_OF_DE_DD8LAUNCH24_PURPLE_IONS_SUPPORT,<color=#f12603>Dark Dimension VIII Launch Special!</color> Embolden your roster with T3 Support Iso-8! Only available for a limited time!
+ID_OF_DE_DD8LAUNCH24_PURPLE_IONS_CONTROLLER,<color=#f12603>Dark Dimension VIII Launch Special!</color> Embolden your roster with T3 Controller Iso-8! Only available for a limited time!
+ID_OF_DE_DD8LAUNCH24_PURPLE_IONS_PROTECTOR,<color=#f12603>Dark Dimension VIII Launch Special!</color> Embolden your roster with T3 Protector Iso-8! Only available for a limited time!
+ID_OF_DE_DD8LAUNCH24_PURPLE_IONS_BRAWLER,<color=#f12603>Dark Dimension VIII Launch Special!</color> Embolden your roster with T3 Brawler Iso-8! Only available for a limited time!
+ID_OF_DE_DD8LAUNCH24_PURPLE_IONS_BLASTER,<color=#f12603>Dark Dimension VIII Launch Special!</color> Embolden your roster with T3 Blaster Iso-8! Only available for a limited time!
+ID_OF_DE_DD8LAUNCH24_THANOSENDGAME_TOPOFF_4YS_TARGET,<color=#f12603>Dark Dimension VIII Launch Special!</color> We couldn't live with our own failure. Where did that bring us? Back to <color=#fff568>Thanos (Endgame)</color>!
+ID_OF_DE_DD8LAUNCH24_THANOSENDGAME_TOPOFF,<color=#f12603>Dark Dimension VIII Launch Special!</color> Conquer Odin's Dark Dimension with the <color=#fff568>Mad Titan</color>!
+ID_OF_DE_DD8LAUNCH24_GLADIATOR_TOPOFF_4YS_TARGET,<color=#f12603>Dark Dimension VIII Launch Special!</color> Bear witness to the Praetor's Might with <color=#fff568>Gladiator</color>!
+ID_OF_DE_DD8LAUNCH24_GLADIATOR_TOPOFF,<color=#f12603>Dark Dimension VIII Launch Special!</color> Confidentaly soar in to Odin's Dark Dimension with <color=#fff568>Gladiator</color>!
+ID_OF_DE_DD8LAUNCH24_GORR_TOPOFF_4YS_TARGET,<color=#f12603>Dark Dimension VIII Launch Special!</color> <color=#fff568>The God Butcher</color> arrives to purge all dimensions of all deities!
+ID_OF_DE_DD8LAUNCH24_GORR_TOPOFF,<color=#f12603>Dark Dimension VIII Launch Special!</color> Embolden <color=#fff568>Gorr's</color> Necrosword to purge Dark Dimension VIII of all deities!
+ID_OF_DE_DD8LAUNCH24_PENIPARKER_4YS_TARGET,<color=#f12603>Dark Dimension VIII Launch Special!</color> SP//dr Online! Swing into Dark Dimension with the Mecha-Arachnid by your side!
+ID_OF_DE_DD8LAUNCH24_PENIPARKER_TOPOFF,<color=#f12603>Dark Dimension VIII Launch Special!</color> Deliver Mechanical Mayhem with Peni Parker and SP//dr!
+ID_OF_DE_DD8LAUNCH24_PETERBPARKER_4YS_TARGET,<color=#f12603>Dark Dimension VIII Launch Special!</color> Your Friendly Neighborhood Father swings in to deliver some much needed support!
+ID_OF_DE_DD8LAUNCH24_PETERBPARKER_TOPOFF,<color=#f12603>Dark Dimension VIII Launch Special!</color> Take on Dark Dimension and have some Daddy Daughter time while you're at it!
+ID_OF_DE_DD8LAUNCH24_PAVITR_4YS_TARGET,"<color=#f12603>Dark Dimension VIII Launch Special!</color> Swing into battle with the Mumbattan Marvel himself, Spider-Man (Pavitr)!"
+ID_OF_DE_DD8LAUNCH24_PAVITR_TOPOFF,<color=#f12603>Dark Dimension VIII Launch Special!</color> Spider-Man (Pavitr) woke up like this! Time to swing in and speed up Spider-verse allies!
+ID_OF_DE_DD8LAUNCH24_GUARDIAN_4YS_TARGET,<color=#f12603>Dark Dimension VIII Launch Special!</color> Charge ahead! Guardian paves the way for Global Hero Allies!
+ID_OF_DE_DD8LAUNCH24_GUARDIAN_TOPOFF,<color=#f12603>Dark Dimension VIII Launch Special!</color> Stand fast! Guardian will lead the way through Dark Dimension VIII!
+ID_OF_DE_DD8LAUNCH24_SASQUATCH_4YS_TARGET,<color=#f12603>Dark Dimension VIII Launch Special!</color> Halt! Sasquatch will be your Bulwark in Dark Dimension VIII!
+ID_OF_DE_DD8LAUNCH24_SASQUATCH_TOPOFF,<color=#f12603>Dark Dimension VIII Launch Special!</color> Embody the Spirit of the North with Sasquatch!
+ID_OF_DE_DD8LAUNCH24_NORTHSTAR_4YS_TARGET,<color=#f12603>Dark Dimension VIII Launch Special!</color> Take Flight with Northstar! Control the fields of Dark Dimension with dazzling light!
+ID_OF_DE_DD8LAUNCH24_NORTHSTAR_TOPOFF,<color=#f12603>Dark Dimension VIII Launch Special!</color> Northstar will be your guiding light through Dark Dimension VIII!
+ID_OF_DE_DD8LAUNCH24_CITYVILLIAN_TOPOFF,<color=#f12603>Dark Dimension VIII Launch Special!</color> Empower your City Villain roster with this amazing deal!
+ID_OF_DE_DD8LAUNCH24_DIAMOND_BIG,<color=#f12603>Dark Dimension VIII Launch Special!</color> Awaken the power of Diamonds for your roster!
+ID_OF_DE_DD8LAUNCH24_DIAMOND_SMALL,<color=#f12603>Dark Dimension VIII Launch Special!</color> Strengthen your roster with Diamonds!
+ID_OF_DE_DD8LAUNCH24_ANNIHILATORS_CRIMSON_MINIUNIQUES,<color=#f12603>Dark Dimension VIII Launch Special!</color> Get a boost for your Annihilators Roster with Crimson Mini-Uniques!
+ID_OF_DE_DD8LAUNCH24_SPIDERSOCIETY_CRIMSON_MINIUNIQUES,<color=#f12603>Dark Dimension VIII Launch Special!</color> Get a boost for your Spider Society Roster with Crimson Mini-Uniques!
+ID_OF_NA_DD8LAUNCH24_BUNDLE,DDVIII Launch Bundle
+ID_OF_NA_DD8LAUNCH24_PACK,DDVIII Launch Pack
+ID_OF_NA_DD8LAUNCH24_STASH,DDVIII Launch Stash
+ID_OF_DE_DD8LAUNCH24_BUNDLE,<color=#f12603>Dark Dimension VIII Launch Special!</color> Take on Dark Dimension VIII with this bundle of amazing items! Don't miss out!
+ID_OF_DE_DD8LAUNCH24_PACK,<color=#f12603>Dark Dimension VIII Launch Special!</color> Are you ready for Dark Dimension VIII? If not take advantage of this offer now!
+ID_OF_DE_DD8LAUNCH24_STASH,<color=#f12603>Dark Dimension VIII Launch Special!</color> Before you delve into Dark Dimension VIII prepare your roster with this stash of magnificent items!
+ID_OF_NA_ORCHIS24_CRIMSON_UNIQUES,Orchis Crimson Uniques
+ID_OF_NA_ORCHIS24_SENTINEL_A19,Sentinel's Crimson Power
+ID_OF_NA_ORCHIS24_SCIENTISTSUPREME,Scientist Supreme
+ID_OF_NA_ORCHIS24_CRIMSON_MINIUNIQUES,Orchis Crimson Mini-Uniques
+ID_OF_NA_ORCHIS24_TEAL_UNIQUES,Crimson's Advanced Tech
+ID_OF_NA_ORCHIS24_SENTINEL,Sentinel's Ruthlessness
+ID_OF_NA_ORCHIS24_LADYDEATHSTRIKE_TEALUNIQUE_GOLD,Lady Deathstrike Boost Up
+ID_OF_NA_ORCHIS24_WEB_SENTINEL_A19_DPC,Sentinel Super Pack
+ID_OF_NA_ORCHIS24_SENTINEL_CRIMSONORIGIN,Sentinel's Crimson Origins
+ID_OF_NA_ORCHIS24_TEAL_MINIUNIQUES,Orchis Custom Equipment
+ID_OF_NA_ORCHIS24_A19_TRAIN_GOLD,Orchis Crimson Power Up
+ID_OF_NA_ORCHIS24_TRAIN_GOLD_A18_A17_T2L5,Orchis Boost Up
+ID_OF_NA_ORCHIS24_WEB_SENTINEL_A19_TRAIN_DDC,Sentinel Elite Pack
+ID_OF_NA_ORCHIS24_SENTINEL_A18_DPC,Sentinel Power
+ID_OF_NA_ORCHIS24_WEB_SENTINEL_DIAMOND_GOLD,Sentinel Super Boost
+ID_OF_NA_ORCHIS24_WEB_SENTINEL_NIMROD_A19_GOLD_E7,Orchis Ultimate Pack
+ID_OF_NA_ORCHIS24_NIMROD_A19,Nimrod's Crimson Power
+ID_OF_NA_ORCHIS24_SENTINEL_NIMROD_A19_DPC,Orchis Super Pack
+ID_OF_NA_ORCHIS24_NIMROD,Nimrod The Future Sentinel
+ID_OF_NA_ORCHIS24_WEB_SENTINEL_NIMROD_A19_TRAIN,Orchis Elite Training
+ID_OF_NA_ORCHIS24_NIMROD_CRIMSONORIGIN,Nimrods Crimson Origins
+ID_OF_NA_ORCHIS24_NIMROD_TRAIN_DPC,Nimrod's Protection
+ID_OF_NA_ORCHIS24_SENTINEL_NIMROD_TRAIN,Orchis Preparation
+ID_OF_NA_ORCHIS24_SENTINEL_NIMROD_GOLD,Orchis Dominance
+ID_OF_NA_ORCHIS24_WEB_FULL_TEAM_TRAIN,Orchis Team Pack
+ID_OF_NA_ORCHIS24_OMEGASENTINEL_E7_DPC,Omega Sentinel Power Up
+ID_OF_NA_ORCHIS24_OMEGASENTINEL_CRIMSONORIGIN,Omega Sentinel's Crimson Origins
+ID_OF_NA_ORCHIS24_OMEGASENTINEL_A19,Omega Sentinel's Crimson Power
+ID_OF_NA_ORCHIS24_OMEGASENTINEL,Omege Sentinel's Cyberpathy
+ID_OF_DE_ORCHIS24_CRIMSON_UNIQUES,Gear up your <color=#fff568>Orchis</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_SENTINEL_A19,Power up your <color=#fff568>Sentinel</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_SCIENTISTSUPREME,"Empower the newly updated Orchis member, <color=#fff568>ScientistSupreme</color>, with this special offer today! <color=#ffda21>A {var1}x Value</color>!"
+ID_OF_DE_ORCHIS24_CRIMSON_MINIUNIQUES,Upgrade your <color=#fff568>Orchis</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_TEAL_UNIQUES,Gear up your <color=#fff568>Orchis</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_SENTINEL,"Empower the newly added Orchis member, <color=#fff568>Sentinel</color>, with this special offer today!"
+ID_OF_DE_ORCHIS24_LADYDEATHSTRIKE_TEALUNIQUE_GOLD,"Empower the newly updated Orchis member, <color=#fff568>LadyDeathstrike</color>, with this special offer today!"
+ID_OF_DE_ORCHIS24_WEB_SENTINEL_A19_DPC,Train and level up <color=#ffda21>Sentinel</color> with this great deal.
+ID_OF_DE_ORCHIS24_SENTINEL_CRIMSONORIGIN,Power up your <color=#fff568>Sentinel</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_TEAL_MINIUNIQUES,Upgrade your <color=#fff568>Orchis</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_A19_TRAIN_GOLD,Boost up your <color=#fff568>Orchis</color> team's power to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_TRAIN_GOLD_A18_A17_T2L5,Boost up your <color=#fff568>Orchis</color> team's power to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_WEB_SENTINEL_A19_TRAIN_DDC,Prepare your <color=#fff568>Sentinel</color> to conquer all the difficulties in their Showcase Event!
+ID_OF_DE_ORCHIS24_SENTINEL_A18_DPC,Power up your <color=#fff568>Sentinel</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_WEB_SENTINEL_DIAMOND_GOLD,Boost up your <color=#fff568>Sentinel</color> 's power to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_WEB_SENTINEL_NIMROD_A19_GOLD_E7,Train and level up <color=#ffda21>Sentinel & Nimrod</color> with this great deal.
+ID_OF_DE_ORCHIS24_NIMROD_A19,Improve your <color=#fff568>Nimrod</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_SENTINEL_NIMROD_A19_DPC,Train and level up <color=#ffda21>Sentinel & Nimrod</color> with this great deal.
+ID_OF_DE_ORCHIS24_NIMROD,"Empower the newly added Orchis member, <color=#fff568>Nimrod</color>, with this special offer today!"
+ID_OF_DE_ORCHIS24_WEB_SENTINEL_NIMROD_A19_TRAIN,Train and level up <color=#ffda21>Sentinel & Nimrod</color> with this great deal.
+ID_OF_DE_ORCHIS24_NIMROD_CRIMSONORIGIN,Improve your <color=#fff568>Nimrod</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_NIMROD_TRAIN_DPC,Max out <color=#ffda21>Nimrod</color> and equip them with the finest gear!
+ID_OF_DE_ORCHIS24_SENTINEL_NIMROD_TRAIN,Prepare your <color=#fff568>Sentinel & Nimrod</color> to conquer all the difficulties in their Showcase Event!
+ID_OF_DE_ORCHIS24_SENTINEL_NIMROD_GOLD,Power up your <color=#fff568>Sentinel & Nimrod</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_WEB_FULL_TEAM_TRAIN,Recruit your entire <color=#fff568>Orchis</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_OMEGASENTINEL_E7_DPC,Power up your <color=#fff568>OmegaSentinel</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_OMEGASENTINEL_CRIMSONORIGIN,Max out <color=#ffda21>OmegaSentinel</color> and equip them with the finest gear!
+ID_OF_DE_ORCHIS24_OMEGASENTINEL_A19,Rank up your <color=#fff568>OmegaSentinel</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_OMEGASENTINEL,"Empower the newly added Orchis member, <color=#fff568>OmegaSentinel</color>, with this special offer today!"
