@@ -5011,7 +5011,7 @@ ID_QU_S10_SENTINELSASSEMBLE,Battle in Blitz with Thanos (Endgame) at 6 Yellow St
 ID_QU_S11_SENTINELSASSEMBLE,Battle in Blitz with Thanos (Endgame) at 7 Yellow Star
 ID_QU_NA_SENTINELSTRIKE,Sentinel Strike
 ID_QU_SD_SENTINELSTRIKE,Earn Thanos Annihilator Orbs
-ID_QU_LD_SENTINELSTRIKE,"Earn Thanos Annihilator Orb to complete this milestone that rewards Iron Legion Orb Fragments, Autumn Revolutionand Sentinels Assemble progress!"
+ID_QU_LD_SENTINELSTRIKE,"Earn Thanos Annihilator Orb to complete this milestone that rewards Iron Legion Orb Fragments, Autumn Revolution and Sentinels Assemble progress!"
 ID_QU_S1_SENTINELSTRIKE,Earn Thanos Annihilator Orb Fragments
 ID_QU_NA_THEDARKFUTURE,The Dark Future
 ID_QU_SD_THEDARKFUTURE,"Battle in Orchis Raids, earn event Orbs and more!"
@@ -5047,3 +5047,21 @@ ID_QU_LD_DD8RACE,"To Valhalla! Milestone\nComplete Dark Dimension VIII nodes to 
 ID_QU_S1_DD8RACE,Earn 1 Raven from Dark Dimension VIII
 ID_QU_NA_DD8RACE2,Race to Odin
 ID_QU_LD_DD8RACE2,"Race to Odin Milestone\nComplete Dark Dimension VIII nodes to earn progress and receive Crimson Mystic Gear, T3 Iso-8, and Red Stars for Odin! You will also get Ciphers and Sentinel Transcendence Orbs for more Orchis team progress!"
+ID_QU_NA_ORCHISOVERLOAD,Orchis Overload
+ID_QU_SD_ORCHISOVERLOAD,Raid and Campaign Daily to earn Nimrod Shards and Ciphers
+ID_QU_SD_ORCHISOVERLOAD2,Raid and Campaign Daily to earn Nimrod Shards
+ID_QU_LD_ORCHISOVERLOAD,"Raid and Campaign to Earn Sentinel Evolution Orbs containing Nimrod Shards and Ciphers. Each Sentinel Evolution Orb opened scores points toward the Nimrod's Calculation Milestone, where you'll find even more Nimrod shards!\n\nKeep your streak online for amazing rewards!"
+ID_QU_S1_ORCHISOVERLOAD,Spend 1 Campaign Energy
+ID_QU_S2_ORCHISOVERLOAD,Battle in Raids
+ID_QU_S3_ORCHISOVERLOAD,Spend 1 of any Campaign Energy type
+ID_QU_NA_FALLOFTHEMUTANTS,Fall of the Mutants
+ID_QU_SD_FALLOFTHEMUTANTS,Earn Sentinel Scraps and T3 Level 1 Ions
+ID_QU_LM_FALLOFTHEMUTANTS,"Fall of the Mutants\nGain progress in this event by collecting Sentinel Scraps from Iso-8 Campaign nodes, Free Claims, and special Offers, and completing the S-Day web milestone. Stregthen your team to fight Dark Dimension 7 & 8 by spend your Sentinel Scraps on any Sentinel Forge Orbs that contains Crimson Gear, Teal Gear, and other amazing rewards! \n\nEarn incredible rewards including Sentinel Shards, Crimson Gear, T3 Level 1 Ions, Radioactive Treats and Diamond Orbs. You'll also earn points towards the Autumn Revolutionn milestone by collecting Sentinel Cores and a Anti-Mutant Laser.\n\nS-Day Milestone\nSpend Sentinel Cores to be rewarded with extra Sentinel Cores and bonus progress in Autumn Revolution."
+ID_QU_SC_FALLOFTHEMUTANTS,Collect Sentinel Scraps from Iso-8 Campaign nodes
+ID_QU_S1_FALLOFTHEMUTANTS,Earn 1 Sentinel Scrap
+ID_QU_S2_FALLOFTHEMUTANTS,Battle in Raid with Sentinel
+ID_QU_S3_FALLOFTHEMUTANTS,Battle in Raid with Nimrod
+ID_QU_S4_FALLOFTHEMUTANTS,Battle in Raid with Omega: Sentinel
+ID_QU_NA_S-DAY,S-Day
+ID_QU_SD_S-DAY,Spend Sentinel Scraps
+ID_QU_LD_S-DAY,Spend Sentinel Scraps complete S-Day milestones that rewards more Sentinel Scraps and bonus Autumn Revolution progress!

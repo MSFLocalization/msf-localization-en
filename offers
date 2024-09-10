@@ -10465,7 +10465,7 @@ ID_OF_NA_ORCHIS24_CRIMSON_UNIQUES,Orchis Crimson Uniques
 ID_OF_NA_ORCHIS24_SENTINEL_A19,Sentinel's Crimson Power
 ID_OF_NA_ORCHIS24_SCIENTISTSUPREME,Scientist Supreme
 ID_OF_NA_ORCHIS24_CRIMSON_MINIUNIQUES,Orchis Crimson Mini-Uniques
-ID_OF_NA_ORCHIS24_TEAL_UNIQUES,Crimson's Advanced Tech
+ID_OF_NA_ORCHIS24_TEAL_UNIQUES,Orchis's Advanced Tech
 ID_OF_NA_ORCHIS24_SENTINEL,Sentinel's Ruthlessness
 ID_OF_NA_ORCHIS24_LADYDEATHSTRIKE_TEALUNIQUE_GOLD,Lady Deathstrike Boost Up
 ID_OF_NA_ORCHIS24_WEB_SENTINEL_A19_DPC,Sentinel Super Pack
@@ -10513,9 +10513,29 @@ ID_OF_DE_ORCHIS24_WEB_SENTINEL_NIMROD_A19_TRAIN,Train and level up <color=#ffda2
 ID_OF_DE_ORCHIS24_NIMROD_CRIMSONORIGIN,Improve your <color=#fff568>Nimrod</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ORCHIS24_NIMROD_TRAIN_DPC,Max out <color=#ffda21>Nimrod</color> and equip them with the finest gear!
 ID_OF_DE_ORCHIS24_SENTINEL_NIMROD_TRAIN,Prepare your <color=#fff568>Sentinel & Nimrod</color> to conquer all the difficulties in their Showcase Event!
-ID_OF_DE_ORCHIS24_SENTINEL_NIMROD_GOLD,Power up your <color=#fff568>Sentinel & Nimrod</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_SENTINEL_NIMROD_GOLD,Power up your <color=#fff568>Sentinel & Nimrod</color>  to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ORCHIS24_WEB_FULL_TEAM_TRAIN,Recruit your entire <color=#fff568>Orchis</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ORCHIS24_OMEGASENTINEL_E7_DPC,Power up your <color=#fff568>OmegaSentinel</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ORCHIS24_OMEGASENTINEL_CRIMSONORIGIN,Max out <color=#ffda21>OmegaSentinel</color> and equip them with the finest gear!
 ID_OF_DE_ORCHIS24_OMEGASENTINEL_A19,Rank up your <color=#fff568>OmegaSentinel</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ORCHIS24_OMEGASENTINEL,"Empower the newly added Orchis member, <color=#fff568>OmegaSentinel</color>, with this special offer today!"
+ID_OF_NA_FALLOFTHEMUTANTS_MEGA_STARTER,Fall of the Mutants: Starter
+ID_OF_NA_FALLOFTHEMUTANTS_STARTER,Fall of the Mutants: Starter
+ID_OF_NA_FALLOFTHEMUTANTS_MEGA_CATCHUP,Fall of the Mutants: Catch-up
+ID_OF_NA_FALLOFTHEMUTANTS_CATCHUP,Fall of the Mutants: Catch-up
+ID_OF_NA_FALLOFTHEMUTANTS_DAILY_CURRENCY,Fall of the Mutants: Sentinel Scrap
+ID_OF_NA_FALLOFTHEMUTANTS_DAILY_ISO8,Fall of the Mutants: Daily Iso-8 Energy
+ID_OF_NA_FALLOFTHEMUTANTS_WEB_SPECIAL,Fall of the Mutants: Web Special
+ID_OF_NA_FALLOFTHEMUTANTS_DAILY_FREE_CLAIM,Fall of the Mutants: Free Claim
+ID_OF_NA_FALLOFTHEMUTANTS_DAILY_INTERSTITIAL,Fall of the Mutants: Secret Stash
+ID_OF_NA_FALLOFTHEMUTANTS_DAILY_FREE_CLAIM_2,Fall of the Mutants: Free Claim
+ID_OF_NA_FALLOFTHEMUTANTS_DAILY_INTERSTITIAL_2,Fall of the Mutants: Secret Treasure
+ID_OF_DE_FALLOFTHEMUTANTS_MEGA_STARTER,Get ahead in the <color=#fff568>Fall of the Mutants</color> Milestone and fast-forward your way to <color=#f12603>Crimson Gear</color> and <color=#fff568>Sentinel Scraps</color>!
+ID_OF_DE_FALLOFTHEMUTANTS_MEGA_CATCHUP,Finish strong in the milestones to earn <color=#f12603>Crimson Bio Gear</color> and <color=#fff568>Sentinel Scraps</color>!
+ID_OF_DE_FALLOFTHEMUTANTS_DAILY_CURRENCY,Make progress in the Fall of the Mutants milestone by collecting more <color=#fff568>Sentinel Scraps</color> to exchange for amazing rewards!
+ID_OF_DE_FALLOFTHEMUTANTS_DAILY_ISO8,Get your daily campaign energy fix to earn more <color=#fff568>Sentinel Scraps</color> and get ahead in the <color=#fff568>Fall of the Mutants</color> Milestone!
+ID_OF_DE_FALLOFTHEMUTANTS_WEB_SPECIAL,Take a leap of faith with this Fall of the Mutants special web bundle!
+ID_OF_DE_FALLOFTHEMUTANTS_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Fall of the Mutants</color> progress!
+ID_OF_DE_FALLOFTHEMUTANTS_DAILY_INTERSTITIAL,You just unlocked the discount deal for the <color=#fff568>Fall of the Mutants</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_FALLOFTHEMUTANTS_DAILY_FREE_CLAIM_2,Come back daily for more <color=#fff568>Fall of the Mutants</color> progress!
+ID_OF_DE_FALLOFTHEMUTANTS_DAILY_INTERSTITIAL_2,You just unlocked the highest discount deal for the <color=#fff568>Fall of the Mutants</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!

@@ -8,6 +8,7 @@ ID_INSANITY_EVENT_CARD_INFO_04,"Earn 5 Stars and 2 Red Stars for Doctor Doom, 9,
 ID_INSANITY_EVENT_CARD_INFO_05,"Earn 5 Stars and 2 Red Stars for Dormammu, 9,232 Teal gear materials, and 10 fully crafted Tier 16 Teal gear on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 4 Red Stars for Dormammu, 7,552 Teal gear materials, and 30 fully crafted Tier 16 Teal gear!"
 ID_INSANITY_EVENT_CARD_INFO_06,"Earn 5 Stars and 2 Red Stars for Super Skrull, 14,220 Teal gear materials, and 10 fully crafted Tier 18 Teal gear on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 4 Red Stars for Super Skrull, Nick Fury's Skrull Costume, 28,300 Teal gear materials, and 15 fully crafted Tier 18 Teal gear!"
 ID_INSANITY_EVENT_CARD_INFO_07,"Earn 5 Stars and 2 Red Stars for Mephisto, 5,126 Crimson gear materials, and 10 fully crafted Tier 19 Crimson gear on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 5 Red Stars for Mephisto, 10,051 Crimson gear materials, and 15 fully crafted Tier 19 Crimson Gear!"
+ID_INSANITY_EVENT_CARD_INFO_08,Earn 5 Stars for Odin on your first completion!\n\nFinish a Timed Run to earn 7 Stars for Odin!
 ID_INSANITY_TIMELEFT,TIME LEFT
 ID_INSANITY_PROGRESS,PROGRESS
 ID_INSANITY_PERCENT,{percent}%
@@ -55,6 +56,7 @@ ID_INSANITY_NAME_04,DARK DIMENSION IV
 ID_INSANITY_NAME_05,DARK DIMENSION V
 ID_INSANITY_NAME_06,DARK DIMENSION VI
 ID_INSANITY_NAME_07,DARK DIMENSION VII
+ID_INSANITY_NAME_08,DARK DIMENSION VIII
 ID_INSANITY_NAME_10,POCKET DIMENSION
 ID_INSANITY_NAME_FO,SHATTERED DIMENSION
 ID_INSANITY_DESC_01,Enter the Darkness
@@ -64,6 +66,7 @@ ID_INSANITY_DESC_04,Embrace Your Doom
 ID_INSANITY_DESC_05,Escape the Darkness
 ID_INSANITY_DESC_06,Shifting Darkness
 ID_INSANITY_DESC_07,Dark Dealings
+ID_INSANITY_DESC_08,Fight the Darkness
 ID_DDLIVE_010_NAME,Pocket Dimension
 ID_DDLIVE_010_DESC,Earn Limited Time Rewards
 ID_DDLIVE_040_NAME,Pocket Dimension
@@ -110,6 +113,8 @@ ID_MISSION_INSANITY_060_01_DESC,"Complete the fifteen trials of Dark Dimension V
 ID_MISSION_INSANITY_060_15_DESC,"Defeat Dormammu, ruler of the Dark Dimension."
 ID_MISSION_INSANITY_070_01_DESC,"Complete the thirteen trials of Dark Dimension VII before you can challenge Mephisto, ruler of the Dark Dimension."
 ID_MISSION_INSANITY_070_13_DESC,"Defeat Mephisto, ruler of the Dark Dimension."
+ID_MISSION_INSANITY_080_01_DESC,"Complete the 13 trials of Dark Dimension VIII before you can challenge Odin, Desecrator of the Dark Dimension."
+ID_MISSION_INSANITY_080_13_DESC,"Defeat Odin, Desecrator of the Dark Dimension."
 ID_MISSION_DDLIVE_010_01_DESC,Complete the ten trials of the Pocket Dimension to earn a vast amounts of valuable gear and resources.
 ID_MISSION_DDLIVE_010_10_DESC,Complete the final trial in this Pocket Dimension to earn a vast amount of valuable gear and resources.
 ID_INSANITY_TIMED_RUN_UNLOCKED,TIMED RUN UNLOCKED
@@ -149,6 +154,10 @@ ID_INSANITY_07_REWARD_FTC_GEAR_FULL,10 ITEMS:
 ID_INSANITY_07_REWARD_FTT_GEAR_FULL,15 ITEMS:
 ID_INSANITY_07_REWARD_FTC_GEAR_MAT,5126 ITEMS:
 ID_INSANITY_07_REWARD_FTT_GEAR_MAT,10051 ITEMS:
+ID_INSANITY_080_REWARD_FTC_GEAR_FULL,5 ITEMS:
+ID_INSANITY_080_REWARD_FTT_GEAR_FULL,10 ITEMS:
+ID_INSANITY_080_REWARD_FTC_GEAR_MAT," 15 ITEMS:"
+ID_INSANITY_080_REWARD_FTT_GEAR_MAT,20 ITEMS:
 ID_INSANITY_ED_REWARD_FTC_GEAR_MAT,
 ID_INSANITY_ED_REWARD_FTT_GEAR_MAT,
 ID_INSANITY_REWARD_DESC_FTC,Reach 100% Completion in <color=#f7941d>{title}</color> to receive these rewards:

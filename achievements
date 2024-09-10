@@ -382,6 +382,11 @@ ID_ACHIEVE_INSANITY7WIN_3,Complete Dark Dimension VII 3 Times
 ID_ACHIEVE_INSANITY7WIN_6,Complete Dark Dimension VII 6 Times
 ID_ACHIEVE_INSANITY7WIN_10,Complete Dark Dimension VII 10 Times
 ID_ACHIEVE_INSANITY7WIN_15,Complete Dark Dimension VII 15 Times
+ID_ACHIEVE_INSANITY080WIN_1,Complete Dark Dimension VIII 1 Time
+ID_ACHIEVE_INSANITY080WIN_3,Complete Dark Dimension VIII 3 Times
+ID_ACHIEVE_INSANITY080WIN_6,Complete Dark Dimension VIII 6 Times
+ID_ACHIEVE_INSANITY080WIN_10,Complete Dark Dimension VIII 10 Times
+ID_ACHIEVE_INSANITY080WIN_15,Complete Dark Dimension VIII 15 Times
 ID_ACHIEVE_ISO_UNLOCK,Claim this achievement to unlock Iso-8
 ID_ACHIEVE_ISO_GIS_50000,"Spend 50,000 T1 Ions"
 ID_ACHIEVE_ISO_GIS_250000,"Spend 250,000 T1 Ions"

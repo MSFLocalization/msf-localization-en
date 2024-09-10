@@ -2673,3 +2673,6 @@ ID_INFO_DE_DD8RACE,Get Red Stars for Odin!
 ID_INFO_BO_DD8RACE,"<color=#fff568>To Valhalla! Milestone</color>\nComplete Dark Dimension VIII nodes to earn progress and receive Crimson Mystic Gear, T3 Iso-8, and <color=#fff568>Red Stars for Odin</color>! You will also get Ciphers and Sentinel Transcendence Orbs for more Orchis team progress!"
 ID_INFO_NA_DD8RACE2,Race to Odin
 ID_INFO_BO_DD8RACE2,"<color=#fff568>Race to Odin Milestone</color>\nComplete Dark Dimension VIII nodes to earn progress and receive Crimson Mystic Gear, T3 Iso-8, and <color=#fff568>Red Stars for Odin</color>! You will also get Ciphers and Sentinel Transcendence Orbs for more Orchis team progress!"
+ID_INFO_NA_ORCHISOVERLOAD,Orchis Overload
+ID_INFO_DE_ORCHISOVERLOAD,Raid and Campaign Daily
+ID_INFO_BO_ORCHISOVERLOAD,"Raid and Campaign to Earn Sentinel Evolution Orbs containing Nimrod Shards and Ciphers. Each Sentinel Evolution Orb opened scores points toward the Nimrod's Calculation Milestone, where you'll find even more Nimrod shards!\n\nKeep your streak online for amazing rewards!"
