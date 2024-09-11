@@ -10367,6 +10367,12 @@ ID_OF_NA_NIMROD_WEB_EXTRA_FCO_OFFER,Nimrod Unlock Offer
 ID_OF_DE_NIMROD_WEB_EXTRA_FCO_OFFER,"The Sentient Sentinel, <color=#fff568>Nimrod</color>, has arrived!"
 ID_OF_NA_NIMROD_WEB_SPECIAL_OFFER,Sentient Sentinel Special
 ID_OF_DE_NIMROD_WEB_SPECIAL_OFFER,"<color=#fff568>Web Special!</color> <color=#fff568>Nimrod</color> overclocks your Orchis team with powerful unavoidable attacks and speed ups to dominate Raids and exterminate all mutants! "
+ID_OF_NA_NIMROD_STREAK_OFFER1,Nimrod's Neural Network Special (1/4)
+ID_OF_NA_NIMROD_STREAK_OFFER2,Nimrod's Neural Network Special (2/4)
+ID_OF_NA_NIMROD_STREAK_OFFER3,Nimrod's Neural Network Special (3/4)
+ID_OF_NA_NIMROD_STREAK_OFFER4,Nimrod's Neural Network Special (4/4)
+ID_OF_DE_NIMROD_STREAK_OFFER1,<color=#fff568>Web Special!</color> Purchase through this chain to complete <color=#fff568>Nimrod's</color> unlock by the final step!
+ID_OF_DE_NIMROD_STREAK_OFFER2,<color=#fff568>Thank you for your support!</color> Here is the final step to unlock <color=#fff568>Nimrod</color>!
 ID_OF_NA_SEPTWKND_DPC,Weekend Special: Dark Promotion
 ID_OF_NA_SEPTWKND_COMBO,Weekend Combo Special
 ID_OF_NA_SEPTWKND_CRIMSON,Weekend Crimson Special
@@ -10513,7 +10519,7 @@ ID_OF_DE_ORCHIS24_WEB_SENTINEL_NIMROD_A19_TRAIN,Train and level up <color=#ffda2
 ID_OF_DE_ORCHIS24_NIMROD_CRIMSONORIGIN,Improve your <color=#fff568>Nimrod</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ORCHIS24_NIMROD_TRAIN_DPC,Max out <color=#ffda21>Nimrod</color> and equip them with the finest gear!
 ID_OF_DE_ORCHIS24_SENTINEL_NIMROD_TRAIN,Prepare your <color=#fff568>Sentinel & Nimrod</color> to conquer all the difficulties in their Showcase Event!
-ID_OF_DE_ORCHIS24_SENTINEL_NIMROD_GOLD,Power up your <color=#fff568>Sentinel & Nimrod</color>  to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ORCHIS24_SENTINEL_NIMROD_GOLD,Power up your <color=#fff568>Sentinel & Nimrod</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ORCHIS24_WEB_FULL_TEAM_TRAIN,Recruit your entire <color=#fff568>Orchis</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ORCHIS24_OMEGASENTINEL_E7_DPC,Power up your <color=#fff568>OmegaSentinel</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ORCHIS24_OMEGASENTINEL_CRIMSONORIGIN,Max out <color=#ffda21>OmegaSentinel</color> and equip them with the finest gear!
