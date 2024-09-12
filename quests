@@ -5040,7 +5040,7 @@ ID_QU_S3_SPLASH_ALPHAASSAULT,Win Blitz with a 7-star Alpha Flight Character
 ID_QU_NA_TEAMORB_NIMROD,Nimrod's Calculation
 ID_QU_SD_TEAMORB_NIMROD,Get additional shards for Nimrod!
 ID_QU_LD_TEAMORB_NIMROD,Nimrod's Calculation Milestone\nOpen Sentinel Evolution Orbs to earn progress and receive additional Nimrod shards! Find Sentinel Evolution Orb Fragments in events and offers!
-ID_QU_S1_TEAMORB_NIMROD,Open 1 Sentinel Transcendence Orb
+ID_QU_S1_TEAMORB_NIMROD,Open 1 Sentinel Evolution Orb
 ID_QU_NA_DD8RACE,To Valhalla!
 ID_QU_SD_DD8RACE,Get Red Stars for Odin!
 ID_QU_LD_DD8RACE,"To Valhalla! Milestone\nComplete Dark Dimension VIII nodes to earn progress and receive Crimson Mystic Gear, T3 Iso-8, and Red Stars for Odin! You will also get Ciphers and Sentinel Transcendence Orbs for more Orchis team progress!"
@@ -5065,3 +5065,18 @@ ID_QU_S4_FALLOFTHEMUTANTS,Battle in Raid with Omega Sentinel
 ID_QU_NA_S-DAY,S-Day
 ID_QU_SD_S-DAY,Spend Sentinel Scraps
 ID_QU_LD_S-DAY,Spend Sentinel Scraps to complete S-Day milestones that rewards more Sentinel Scraps and bonus Autumn Revolution progress!
+ID_QU_NA_OMLPREP,Back to the Wasteland
+ID_QU_SD_OMLPREP,Prepare for the Old Man Logan Trials!
+ID_QU_LD_OMLPREP,"Score points by earning Logan's Army Orb Fragments from Campaign Nodes and ranking up characters required to participate in the Difficulty 8 of Old Man Logan Trials.\n\nRewards include unlock tokens and upgrade materials for these characters, as well as Gold and Training Modules!"
+ID_QU_S1_OMLPREP,Earn 1 Logan's Army Orb Fragment
+ID_QU_S2_OMLPREP,Earn 1 Back to the Wasteland Milestone Point
+ID_QU_S3_OMLPREP,Rank up Iron Patriot
+ID_QU_S4_OMLPREP,Rank up Namor
+ID_QU_S5_OMLPREP,Rank up The Leader
+ID_QU_S6_OMLPREP,Rank up Black Knight
+ID_QU_S7_OMLPREP,Rank up Captain America
+ID_QU_S8_OMLPREP,Rank up Captain Carter
+ID_QU_S9_OMLPREP,Rank up Cosmic Ghost Rider
+ID_QU_S10_OMLPREP,Rank up Starbrand
+ID_QU_S11_OMLPREP,Rank up Loki
+ID_QU_S12_OMLPREP,Rank up Emma Frost

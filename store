@@ -9256,13 +9256,17 @@ ID_GACHA_CRATE_FCO_NIMROD_SPECIAL_NAME,Sentinel Future Orb
 ID_GACHA_CRATE_FCO_NIMROD_SPECIAL_DESCRIPTION,Earn up to 180 Nimrod shards.
 ID_GACHA_CRATE_FCO_NIMROD_SPECIAL_TOKEN_NAME,Sentinel Future Orb Fragments
 ID_GACHA_CRATE_FCO_NIMROD_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Sentinel Future Orbs that contain up to 180 Nimrod shards.
-ID_GACHA_CRATE_SentinelForge1_NAME,Sentinel Forge Orb
-ID_GACHA_CRATE_SentinelForge1_DESCRIPTION,Earn Crimson Gear
-ID_GACHA_CRATE_SentinelForge2_NAME,Sentinel Forge II Orb
-ID_GACHA_CRATE_SentinelForge2_DESCRIPTION,Earn T2 Level 5 Ions!
-ID_GACHA_CRATE_SentinelForge3_NAME,Sentinel Forge III Orb
-ID_GACHA_CRATE_SentinelForge3_DESCRIPTION,Earn a chance for Gear Tier 18 gear!
-ID_GACHA_CRATE_SentinelForge4_NAME,Sentinel Forge IV Orb
-ID_GACHA_CRATE_SentinelForge4_DESCRIPTION,Earn a chance for Gear Tier 15 gear!
-ID_GACHA_CRATE_SentinelForge5_NAME,Sentinel Forge V Orb
-ID_GACHA_CRATE_SentinelForge5_DESCRIPTION,Earn T2 Level 1 Ions!
+ID_GACHA_CRATE_SENTINELFORGE1_NAME,Sentinel Forge Orb
+ID_GACHA_CRATE_SENTINELFORGE1_DESCRIPTION,Earn Crimson Gear
+ID_GACHA_CRATE_SENTINELFORGE2_NAME,Sentinel Forge II Orb
+ID_GACHA_CRATE_SENTINELFORGE2_DESCRIPTION,Earn T2 Level 5 Ions!
+ID_GACHA_CRATE_SENTINELFORGE3_NAME,Sentinel Forge III Orb
+ID_GACHA_CRATE_SENTINELFORGE3_DESCRIPTION,Earn a chance for Gear Tier 18 gear!
+ID_GACHA_CRATE_SENTINELFORGE4_NAME,Sentinel Forge IV Orb
+ID_GACHA_CRATE_SENTINELFORGE4_DESCRIPTION,Earn a chance for Gear Tier 15 gear!
+ID_GACHA_CRATE_SENTINELFORGE5_NAME,Sentinel Forge V Orb
+ID_GACHA_CRATE_SENTINELFORGE5_DESCRIPTION,Earn T2 Level 1 Ions!
+ID_GACHA_CRATE_OMLPREP_NAME,Logan's Army Orb
+ID_GACHA_CRATE_OMLPREP_DESCRIPTION,Contains shards for characters that will help you conquer the Old Man Logan Trials!
+ID_GACHA_CRATE_OMLPREP_TOKEN_NAME,Logan's Army Orb Fragments
+ID_GACHA_CRATE_OMLPREP_TOKEN_DESCRIPTION,Fragments for orbs containing shards of characters that will help you conquer the Old Man Logan Trials!
