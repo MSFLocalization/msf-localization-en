@@ -1,6 +1,6 @@
 id,translation
 ID_GAMEMODE_INSANITY,DARK DIMENSION
-ID_INSANITY_FIRST_TIME_REWARDS,Possible Rewards
+ID_INSANITY_FIRST_TIME_REWARDS,\nPossible Rewards
 ID_INSANITY_EVENT_CARD_INFO_01,"Earn 5 Stars and 2 Red Stars for Kestrel, 1,320 Orange gear materials, and 6 pieces of fully crafted Tier 13 Orange gear on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 4 Red Stars for Kestrel, 1,980 Orange gear materials, and 9 pieces of fully crafted Tier 13 Orange gear!"
 ID_INSANITY_EVENT_CARD_INFO_02,"Earn 5 Stars and 2 Red Stars for Ultron, 3,960 Orange gear materials, and 27 pieces of fully crafted Tier 13 Orange gear on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 4 Red Stars for Ultron, 3,960 Orange gear materials, and 18 pieces of fully crafted Tier 13 Orange gear!"
 ID_INSANITY_EVENT_CARD_INFO_03,"Earn 5 Stars and 2 Red Stars for Ultimus, 9,768 Orange gear materials, and 27 fully crafted Tier 14 Orange gear on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 5 Red Stars for Ultimus, 14,676 Orange gear materials, and 36 pieces of fully crafted Tier 14 Orange gear!"
@@ -8,7 +8,7 @@ ID_INSANITY_EVENT_CARD_INFO_04,"Earn 5 Stars and 2 Red Stars for Doctor Doom, 9,
 ID_INSANITY_EVENT_CARD_INFO_05,"Earn 5 Stars and 2 Red Stars for Dormammu, 9,232 Teal gear materials, and 10 fully crafted Tier 16 Teal gear on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 4 Red Stars for Dormammu, 7,552 Teal gear materials, and 30 fully crafted Tier 16 Teal gear!"
 ID_INSANITY_EVENT_CARD_INFO_06,"Earn 5 Stars and 2 Red Stars for Super Skrull, 14,220 Teal gear materials, and 10 fully crafted Tier 18 Teal gear on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 4 Red Stars for Super Skrull, Nick Fury's Skrull Costume, 28,300 Teal gear materials, and 15 fully crafted Tier 18 Teal gear!"
 ID_INSANITY_EVENT_CARD_INFO_07,"Earn 5 Stars and 2 Red Stars for Mephisto, 5,126 Crimson gear materials, and 10 fully crafted Tier 19 Crimson gear on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 5 Red Stars for Mephisto, 10,051 Crimson gear materials, and 15 fully crafted Tier 19 Crimson Gear!"
-ID_INSANITY_EVENT_CARD_INFO_08,Earn 5 Stars for Odin on your first completion!\n\nFinish a Timed Run to earn 7 Stars for Odin!
+ID_INSANITY_EVENT_CARD_INFO_08,"Earn 5 Stars and 2 Red Stars for Odin, 7,476 Crimson gear materials, 100 Purple Iso-8 Crystals, and 1.08 million T3 Level 1 Ions on your first completion!\n\nFinish a Timed Run to earn 7 Stars and 4 Red Stars for Odin, 15,151 Crimson gear materials, 150 Purple Iso-8 Crystals, and 1.8 million T3 Level 1 Ions!"
 ID_INSANITY_TIMELEFT,TIME LEFT
 ID_INSANITY_PROGRESS,PROGRESS
 ID_INSANITY_PERCENT,{percent}%
@@ -154,10 +154,8 @@ ID_INSANITY_07_REWARD_FTC_GEAR_FULL,10 ITEMS:
 ID_INSANITY_07_REWARD_FTT_GEAR_FULL,15 ITEMS:
 ID_INSANITY_07_REWARD_FTC_GEAR_MAT,5126 ITEMS:
 ID_INSANITY_07_REWARD_FTT_GEAR_MAT,10051 ITEMS:
-ID_INSANITY_080_REWARD_FTC_GEAR_FULL,5 ITEMS:
-ID_INSANITY_080_REWARD_FTT_GEAR_FULL,10 ITEMS:
-ID_INSANITY_080_REWARD_FTC_GEAR_MAT," 15 ITEMS:"
-ID_INSANITY_080_REWARD_FTT_GEAR_MAT,20 ITEMS:
+ID_INSANITY_08_REWARD_FTC_GEAR_MAT,7476 ITEMS:
+ID_INSANITY_08_REWARD_FTT_GEAR_MAT,15151 ITEMS:
 ID_INSANITY_ED_REWARD_FTC_GEAR_MAT,
 ID_INSANITY_ED_REWARD_FTT_GEAR_MAT,
 ID_INSANITY_REWARD_DESC_FTC,Reach 100% Completion in <color=#f7941d>{title}</color> to receive these rewards:
