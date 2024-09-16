@@ -5056,7 +5056,7 @@ ID_QU_S2_ORCHISOVERLOAD,Battle in Raids
 ID_QU_S3_ORCHISOVERLOAD,Spend 1 of any Campaign Energy type
 ID_QU_NA_FALLOFTHEMUTANTS,Fall of the Mutants
 ID_QU_SD_FALLOFTHEMUTANTS,Earn Sentinel Scraps and T3 Level 1 Ions
-ID_QU_LM_FALLOFTHEMUTANTS,"Fall of the Mutants\nGain progress in this event by collecting Sentinel Scraps from Iso-8 Campaign nodes, Free Claims, and special Offers, and completing the S-Day web milestone. Strengthen your team to fight Dark Dimension VII and VIII by spending your Sentinel Scraps on any Sentinel Forge Orbs that contains Crimson Gear, Teal Gear, and other amazing rewards! \n\nEarn incredible rewards including Sentinel Shards, Crimson Gear, T3 Level 1 Ions, Radioactive Treats and Diamond Orbs. You'll also earn points towards the Autumn Revolution milestone by collecting Sentinel Cores and an Anti-Mutant Laser.\n\nS-Day Milestone\nSpend Sentinel Cores to be rewarded with extra Sentinel Cores and bonus progress in Autumn Revolution."
+ID_QU_LM_FALLOFTHEMUTANTS,"Fall of the Mutants\nGain progress in this event by collecting Sentinel Scraps from Iso-8 Campaign nodes, Free Claims, and special Offers, and completing the S-Day web milestone. Strengthen your team to fight Dark Dimension VII and VIII by spending your Sentinel Scraps on any Sentinel Forge Orbs that contains Crimson Gear, Teal Gear, and other amazing rewards! \n\nEarn incredible rewards including Sentinel Shards, Crimson Gear, T3 Level 1 Ions, Radioactive Treats and Diamond Orbs. You'll also earn points towards the Autumn Revolution milestone by collecting Sentinel Cores and a Anti-Mutant Laser.\n\nS-Day Milestone\nSpend Sentinel Scraps to be rewarded with extra Sentinel Scraps and bonus progress in Autumn Revolution."
 ID_QU_SC_FALLOFTHEMUTANTS,Collect Sentinel Scraps from Iso-8 Campaign nodes
 ID_QU_S1_FALLOFTHEMUTANTS,Earn 1 Sentinel Scrap
 ID_QU_S2_FALLOFTHEMUTANTS,Battle in Raid with Sentinel
@@ -5080,3 +5080,22 @@ ID_QU_S9_OMLPREP,Rank up Cosmic Ghost Rider
 ID_QU_S10_OMLPREP,Unlock or Rank up Starbrand
 ID_QU_S11_OMLPREP,Rank up Loki
 ID_QU_S12_OMLPREP,Unlock or Rank up Emma Frost
+ID_QU_NA_OPERATION_OMEGA,Operation: Omega
+ID_QU_DE_OPERATION_OMEGA,"Earn T3 Iso-8 Credits, T3 Level 1 Ions and Crimson Gear"
+ID_QU_LD_OPERATION_OMEGA,"Operation: Omega Milestone\nGain progress in this event by earning Revolution Orb fragments from Omega Assault Rewards, battling through Raids with Sentinel, Nimrod, or Omega Sentinel at 5+ yellow star, completing the Mutant Rebellion Web Milestone and daily web Free Claims. Earn fantastic rewards including  T3 Iso-8 Credits, T3 Level 1 Ions, Dark Promotion Credits and Mystic gear. You'll also earn points towards the month-long Autumn Revolution milestone by collecting Sentinel Cores and the valuable Power Dampener.\n\nRevolution Orb\nEarned from Omega Assault, Mutant Rebellion Web Milestone, daily web Free Claims, and select offers.\n\nOperation: Omega Leaderboard\nCompete on the Leaderboards for Crimson Gear and Diamond Promotions for Omega Sentinel!\n\nMutant Rebellion Web Milestone\nEarn Thanos Annihilator Orb to earn Revolution Orb Fragments and Points for Autumn Revolution Milestone progress! Keep an eye out for Free Claims containing milestone points every day!\n\n"
+ID_QU_SD_OPERATION_OMEGA,Earn Revolution Orb Fragments in Omega Assault
+ID_QU_S1_OPERATION_OMEGA,Earn 1 Revolution Orb Fragment
+ID_QU_S2_OPERATION_OMEGA,Play 1 Raid Battle with Alpha Flight Team
+ID_QU_S3_OPERATION_OMEGA,Play 1 Raid Battle with Sentinel at 5 Yellow Star
+ID_QU_S4_OPERATION_OMEGA,Play 1 Raid Battle with Sentinel at 6 Yellow Star
+ID_QU_S5_OPERATION_OMEGA,Play 1 Raid Battle with Sentinel at 7 Yellow Star
+ID_QU_S6_OPERATION_OMEGA,Play 1 Raid Battle with Nimrod at 5 Yellow Star
+ID_QU_S7_OPERATION_OMEGA,Play 1 Raid Battle with Nimrod at 6 Yellow Star
+ID_QU_S8_OPERATION_OMEGA,Play 1 Raid Battle with Nimrod at 7 Yellow Star
+ID_QU_S9_OPERATION_OMEGA,Play 1 Raid Battle with Omega Sentinel at 5 Yellow Star
+ID_QU_S10_OPERATION_OMEGA,Play 1 Raid Battle with Omega Sentinel at 6 Yellow Star
+ID_QU_S11_OPERATION_OMEGA,Play 1 Raid Battle with Omega Sentinel at 7 Yellow Star
+ID_QU_NA_MUTANTREBELLION,Mutant Rebellion
+ID_QU_SD_MUTANTREBELLION,Earn Thanos Annihilator Orbs
+ID_QU_LD_MUTANTREBELLION,"Earn Thanos Annihilator Orb to complete this milestone that rewards Revolution Orb Fragments, Autumn Revolution and Operation: Omega progress!"
+ID_QU_S1_MUTANTREBELLION,Earn 1 Thanos Annihilator Orb Fragment
