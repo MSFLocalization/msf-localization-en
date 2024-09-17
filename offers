@@ -10563,7 +10563,7 @@ ID_OF_NA_OPERATIONOMEGA_SENTINEL,Operation: Omega: Sentinel
 ID_OF_NA_OPERATIONOMEGA_NIMROD,Operation: Omega: Nimrod
 ID_OF_NA_OPERATIONOMEGA_DAILY_INTERSTITIAL,Operation: Omega: Hidden Treasure
 ID_OF_NA_OPERATIONOMEGA_DAILY_FREE_CLAIM,Operation: Omega: Free Claim
-ID_OF_NA_OPERATIONOMEGA_MID-EVENT_SPECIAL,Operation: Omega: Special Bundle
+ID_OF_NA_OPERATIONOMEGA_MID_EVENT_SPECIAL,Operation: Omega: Special Bundle
 ID_OF_NA_OPERATIONOMEGA_DAILY_FREE_CLAIM_2,Operation: Omega: Free Claim
 ID_OF_NA_OPERATIONOMEGA_DAILY_INTERSTITIAL_2,Operation: Omega: Secret Treasure
 ID_OF_DE_OPERATIONOMEGA_STARTER,Get ahead in the <color=#fff568>Operation: Omega</color> Milestone and start making your way toward <color=#fff568>Omega Sentinel Diamond Promotions</color> and <color=#fff568>Crimson Mystic Gear</color>!
@@ -10575,6 +10575,26 @@ ID_OF_DE_OPERATIONOMEGA_SENTINEL,Power up Sentinel with this shard offer!
 ID_OF_DE_OPERATIONOMEGA_NIMROD,Power up Nimrod with this shard offer!
 ID_OF_DE_OPERATIONOMEGA_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Operation: Omega</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_OPERATIONOMEGA_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Operation: Omega</color> progress!
-ID_OF_DE_OPERATIONOMEGA_MID-EVENT_SPECIAL,Make progress in Omega: Sentinel milestone and dominate the leaderboard for <color=#fff568>Omega Sentinel Diamond Promotions</color>
+ID_OF_DE_OPERATIONOMEGA_MID_EVENT_SPECIAL,Make progress in Operation: Omega milestone and dominate the leaderboard for <color=#fff568>Omega Sentinel Diamond Promotions</color>
 ID_OF_DE_OPERATIONOMEGA_DAILY_FREE_CLAIM_2,Come back daily for more <color=#fff568>Operation: Omega</color> progress!
 ID_OF_DE_OPERATIONOMEGA_DAILY_INTERSTITIAL_2,You just unlocked the highest discount deal for the <color=#fff568>Operation: Omega</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_OMEGASENTINEL_FCO_OFFER,Cyborg Sentinel
+ID_OF_DE_OMEGASENTINEL_FCO_OFFER,Each <color=#fff568>Living Sentinel Orb</color> contains <color=#fff568>up to 180 Omega Sentinel</color> shards. Transform your Orchis team today with <color=#fff568>Omega Sentinel</color>! This powerful Support character provides their team with high healing while punishing enemies with Unavoidable attacks and debilitating negative effects!
+ID_OF_DE_OMEGASENTINEL_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Omega Sentinel</color> and unlock one-time only release offers on your next visit! Transform your Orchis team today with <color=#fff568>Omega Sentinel</color>! This powerful Support character provides their team with high healing while punishing enemies with Unavoidable attacks and debilitating negative effects!
+ID_OF_DE_OMEGASENTINEL_OFFER_SHARD,Power up <color=#fff568>Omega Sentinel</color> with this shard offer! Transform your Orchis team today with <color=#fff568>Omega Sentinel</color>! This powerful Support character provides their team with high healing while punishing enemies with Unavoidable attacks and debilitating negative effects!
+ID_OF_DE_OMEGASENTINEL_UNLOCK_OFFER,Unlock <color=#fff568>Omega Sentinel</color> now! Transform your Orchis team today with <color=#fff568>Omega Sentinel</color>! This powerful Support character provides their team with high healing while punishing enemies with Unavoidable attacks and debilitating negative effects!
+ID_OF_STOREBAR_OMEGASENTINEL,Dual Offer: Omega Sentinel
+ID_OF_NA_DUAL_OMEGASENTINEL,Dual Offer: Omega Sentinel
+ID_OF_DE_DUAL_OMEGASENTINEL,Choose your path to power up this <color=#fff568>Orchis</color> member!
+ID_OF_DE_DUAL_UNLOCK_OMEGASENTINEL,Unlock this <color=#fff568>Orchis</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_OMEGASENTINEL_FCO_OFFER_BASIC,Omega Sentinel Release Offer
+ID_OF_NA_OMEGASENTINEL_TEAMORB,Sentinel Transcendence Orb Offer
+ID_OF_DE_OMEGASENTINEL_TEAMORB,Bring the team together with this limited time orb special featuring Omega Sentinel! Open for progress in the Omega Sentinel Milestone Event!
+ID_OF_NA_OMEGASENTINEL_TEAMORB_TY,Sentinel Transcendence Orb Thank You Special!
+ID_OF_DE_OMEGASENTINEL_TEAMORB_TY,Thank you for your support! Please enjoy this increased value orb offer.
+ID_OF_NA_OMEGASENTINEL_WEB_EXTRA_FCO_OFFER,Omega Sentinel Unlock Offer
+ID_OF_DE_OMEGASENTINEL_WEB_EXTRA_FCO_OFFER,"The Cyborg Sentinel, <color=#fff568>Omega Sentinel</color>, has arrived!"
+ID_OF_NA_OMEGASENTINEL_WEB_SPECIAL_OFFER,Cyborg Sentinel Special
+ID_OF_DE_OMEGASENTINEL_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> Transform your Orchis team today with <color=#fff568>Omega Sentinel</color>! This powerful Support character provides their team with high healing while punishing enemies with Unavoidable attacks and debilitating negative effects!
+ID_OF_NA_OMEGASENTINEL_4STARUNLOCK_OFFER,Cybernetic Enhancements Special
+ID_OF_DE_OMEGASENTINEL_4STARUNLOCK_OFFER,<color=#fff568>Launch Special!</color> Thank you for your support! Here is a special limited time offer to take your <color=#fff568>Omega Sentinel</color> to new heights!
