@@ -3412,3 +3412,22 @@ ID_MOTD_DE_OMEGASENTINEL_ANNOUNCE,Transcend humanity with Omega Sentinel!
 ID_MOTD_DE_OMEGASENTINEL_ANNOUNCE2,Open the Living Sentinel Orb to earn shards for Omega Sentinel!
 ID_MOTD_NA_TEAMORB_OMEGASENTINEL_ANNOUNCE,LIVE: Omega Sentinel's Activation
 ID_MOTD_DE_TEAMORB_OMEGASENTINEL_ANNOUNCE,Get additional Living Sentinel Orbs!
+ID_MOTD_NA_MIDNIGHTHUNT_ANNOUNCE,LIVE: Midnight Hunt
+ID_MOTD_DE_MIDNIGHTHUNT_ANNOUNCE,Earn marvelous rewards!
+ID_MOTD_NA_MIDNIGHTHUNT_ENDING,Ending Soon: Midnight Hunt
+ID_MOTD_DE_MIDNIGHTHUNT_ENDING,Earn Fully-Crafted Teal Mystivc Gear before the event ends!
+ID_MOTD_NA_VAMPIRICFRENZY_ANNOUNCE,LIVE: Vampiric Frenzy
+ID_MOTD_DE_VAMPIRICFRENZY_ANNOUNCE,"Earn Silver Bullets, T3 Iso-8 Ions, and Crimson Bio Gear!"
+ID_MOTD_NA_VAMPIRICFRENZY_ENDING,Ending Soon: Vampiric Frenzy
+ID_MOTD_DE_VAMPIRICFRENZY_ENDING,"Don't miss out on T3 Iso-8 Ions, and Crimson Bio Gear!"
+ID_MOTD_NA_SUGARRUSH_ANNOUNCE,Web Milestone: Sugar Rush
+ID_MOTD_DE_SUGARRUSH_ANNOUNCE,Spend Candy in the Candy Store for more rewards on the web!
+ID_MOTD_NA_BLADE_TEASER,Soon: Blade
+ID_MOTD_DE_BLADE_TEASER,Monsters beware! A hunter approaches…
+ID_MOTD_NA_BLADE_ANNOUNCE,Blade is here!
+ID_MOTD_DE_BLADE_ANNOUNCE,Raise the stakes with the Daywalker!
+ID_MOTD_DE_BLADE_ANNOUNCE2,Open the Daywalker Orb to earn shards for Blade!
+ID_MOTD_NA_OMEGATOWER_TEASER,Coming Soon: Omega Assault
+ID_MOTD_DE_OMEGATOWER_TEASER,Omega Assault Event is coming soon! Prepare your toughest allies so they can battle their way up through 6 new challenging floors!
+ID_MOTD_NA_OMEGATOWER_LIVE,LIVE: Omega Assault Event
+ID_MOTD_DE_OMEGATOWER_LIVE,"Complete all 52 floors, including 6 new floors and earn Crimson Gear!"
