@@ -9278,3 +9278,15 @@ ID_GACHA_CRATE_FCO_OMEGASENTINEL_SPECIAL_NAME,Living Sentinel Orb
 ID_GACHA_CRATE_FCO_OMEGASENTINEL_SPECIAL_DESCRIPTION,Earn up to 180 Omega Sentinel shards.
 ID_GACHA_CRATE_FCO_OMEGASENTINEL_SPECIAL_TOKEN_NAME,Living Sentinel Orb Fragments
 ID_GACHA_CRATE_FCO_OMEGASENTINEL_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Living Sentinel Orbs that contain up to 180 Omega Sentinel shards.
+ID_GACHA_CRATE_GHOULISHGOLD_NAME,Ghoulish Gold Orb
+ID_GACHA_CRATE_GHOULISHGOLD_DESCRIPTION,"Collect this orb to earn points in the Vampiric Frenzy event, and then head to the costume shop to pick out one of several Golden Costumes!"
+ID_GACHA_CRATE_GHOULISHGOLD_TOKEN_NAME,Ghoulish Gold Orb Fragment
+ID_GACHA_CRATE_GHOULISHGOLD_TOKEN_DESCRIPTION,Get these fragments from the Vampiric Frenzy: Costume Party Special Offer
+ID_GACHA_CRATE_FCO_BLADE_SPECIAL_NAME,Daywalker Orb
+ID_GACHA_CRATE_FCO_BLADE_SPECIAL_DESCRIPTION,Earn up to 180 Blade shards
+ID_GACHA_CRATE_FCO_BLADE_SPECIAL_TOKEN_NAME,Daywalker Orb Fragments
+ID_GACHA_CRATE_FCO_BLADE_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Daywalker Orbs that contain up to 180 Blade shards.
+ID_GACHA_CRATE_TEAMORB_BLADE_NAME,Sunlit Slayer Orb
+ID_GACHA_CRATE_TEAMORB_BLADE_DESCRIPTION,Earn progress in Blade's Milestone Event to collect more Blade Shards!
+ID_GACHA_CRATE_TEAMORB_BLADE_TOKEN_NAME,Sunlit Slayer Orb Fragments
+ID_GACHA_CRATE_TEAMORB_BLADE_TOKEN_DESCRIPTION,"Find Sunlit Slayer Orb Fragments in events, and offers!"

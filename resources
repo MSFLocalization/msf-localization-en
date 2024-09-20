@@ -425,20 +425,6 @@ ID_EVTA_META_SEP_G_NAME,Operation: Omega Milestone Points
 ID_EVTA_META_SEP_G_DESCRIPTION,These points earn you additional progress in the Operation: Omega Milestone. Earn them in the Mutant Rebellion Web Milestone and Special Offers!
 ID_EVTA_META_SEP_H_NAME,The Dark Future Milestone Points
 ID_EVTA_META_SEP_H_DESCRIPTION,These points earn you additional progress in The Dark Future Alliance Milestone. Earn them in Free Claims and Special Offers!
-ID_EVTA_META_OCT_A_NAME,Cat's Head Amulet
-ID_EVTA_META_OCT_A_DESCRIPTION,Collect Cat's Head Amulets for points in the Night of the Were-Tigress Event. Earn them in various events throughout the month of October
-ID_EVTA_META_OCT_B_NAME,Beast Glove
-ID_EVTA_META_OCT_B_DESCRIPTION,Collect the Beast Glove for points in the Night of the Were-Tigress Event. Earn it in the Dark Defenders Event!
-ID_EVTA_META_OCT_C_NAME,Trophy Necklace
-ID_EVTA_META_OCT_C_DESCRIPTION,Collect the Trophy Necklace for points in the Night of the Were-Tigress Event. Earn it in the Vengeful Spirits Event!
-ID_EVTA_META_OCT_D_NAME,Chaos Claw
-ID_EVTA_META_OCT_D_DESCRIPTION,Collect the Chaos Claw for points in the Night of the Were-Tigress Event. Earn it in the Spectral Emporium Event!
-ID_EVTA_META_OCT_E_NAME,Jungle Jacket
-ID_EVTA_META_OCT_E_DESCRIPTION,Collect the Jungle Jacket for points in the Night of the Were-Tigress Event. Earn it in the Technology Terror Event!
-ID_EVTA_META_OCT_F_NAME,Fanged Anklet
-ID_EVTA_META_OCT_F_DESCRIPTION,Collect the Fanged Anklet for points in the Night of the Were-Tigress Event. Earn it in the Fight or Flight Event!
-ID_EVTA_META_OCT_G_NAME,Cat Suit
-ID_EVTA_META_OCT_G_DESCRIPTION,Collect the Cat Suit for points in the Night of the Were-Tigress Event. Earn it in the Unkillable Force Event!
 ID_EVTA_META_NOV_A_NAME,Vibranium Slab
 ID_EVTA_META_NOV_A_DESCRIPTION,Collect Vibranium Slabs for points in the Reverse-Engineer Event. Earn them in various events throughout the month of November
 ID_EVTA_META_NOV_B_NAME,Stark Grant Check
@@ -619,3 +605,17 @@ ID_EVTA_META_AUG_Y_NAME,Annihilators' Assembly Milestone Point
 ID_EVTA_META_AUG_Y_DESCRIPTION,Earn Progress in the Annihilators' Assembly Milestone Event
 ID_EVTA_META_SEP_Z_NAME,Raven
 ID_EVTA_META_SEP_Z_DESCRIPTION,"Collect Ravens by completing Dark Dimension VIII missions, and earn exciting rewards in the To Valhalla! Milestone event."
+ID_EVTA_META_OCT_A_NAME,Silver Bullet
+ID_EVTA_META_OCT_A_DESCRIPTION,Collect Silver Bullets for points in the Midnight Hunt Event. Earn them in various events throughout the month of September
+ID_EVTA_META_OCT_B_NAME,Stake
+ID_EVTA_META_OCT_B_DESCRIPTION,Collect the Stake for points in the Midnight Hunt Event. Earn it in the Vampiric Frenzy Event!
+ID_EVTA_META_OCT_C_NAME,Rosary Beads
+ID_EVTA_META_OCT_C_DESCRIPTION,Collect the Rosary Beads for points in the Midnight Hunt Event. Earn it in the Twilight Vigil Event!
+ID_EVTA_META_OCT_D_NAME,Holy Water
+ID_EVTA_META_OCT_D_DESCRIPTION,Collect the Holy Water for points in the Midnight Hunt Event. Earn it in the Swamp Showdown Event!
+ID_EVTA_META_OCT_E_NAME,Bunch of Barlic
+ID_EVTA_META_OCT_E_DESCRIPTION,Collect the Bunch of Garlic for points in the Midnight Hunt Event. Earn it in the Zombie Invasion Event!
+ID_EVTA_META_OCT_F_NAME,Bazooka
+ID_EVTA_META_OCT_F_DESCRIPTION,Collect the Bazooka for points in the Midnight Hunt Event. Earn it in the Overwhelming Hunger Event!
+ID_EVTA_META_OCT_G_NAME,Vampiric Frenzy Milestone Points
+ID_EVTA_META_OCT_G_DESCRIPTION,These points earn you additional progress in the Vampiric Frenzy Milestone. Earn them in the Sugar Rush Web Milestone and Special Offers!

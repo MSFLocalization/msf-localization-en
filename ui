@@ -1473,8 +1473,10 @@ ID_FRAME_AUG2META2024_NAME,Cosmic Power
 ID_FRAME_AUG2META2024_UNLOCK,Via the Annihilator Initiative Event
 ID_FRAME_CC_TOP100_01_NAME,Cosmic Crucible Top 100
 ID_FRAME_CC_TOP100_01_UNLOCK,Via Cosmic Crucible Leaderboard - season 10
+ID_FRAME_OCTOBER2024_NAME,Midnight Mantle Player Frame
+ID_FRAME_OCTOBER2024_UNLOCK,Via the Midnight Hunt event
 ID_EVENT_SURVIVAL_EVENT,Survival
-ID_SURVIVAL_TITLE,Escape from Kyln
+ID_SURVIVAL_TITLE,OMEGA ASSAULT
 ID_SURVIVAL_FLOOR,<size=65%><voffset=.385em>CELL</size></voffset> {floor}
 ID_SURVIVAL_FLOOR_POINTS,{score}pts
 ID_SURVIVAL_FLOOR_POWER,<size=80%>Power</size> <color=#fff568>{power}</color>
@@ -1504,8 +1506,9 @@ ID_SURVIVAL_VICTORY_SCORE_FLOOR,CELL {floor}:
 ID_SURVIVAL_BATTLE,BATTLE
 ID_SURVIVAL_CURRENT_FLOOR,Current Floor
 ID_SURVIVAL_EVENT_CARD_TITLE_01,ESCAPE FROM KYLN
+ID_SURVIVAL_EVENT_CARD_TITLE_02,OMEGA ASSAULT
 ID_SURVIVAL_EVENT_CARD_DESC_01,Battle through the inescapable prison!
-ID_SURVIVAL_EVENT_POPUP_DESC_01,"They say that Kyln is the ""inescapable"" intergalactic prison. It's time to find out!\n\n Select a 3-character team based on a Cell's requirements and then fight through 46 Cells of the most ruthless enemies in the galaxy to escape with rewards and freedom!"
+ID_SURVIVAL_EVENT_POPUP_DESC_01,"They say that Kyln is the ""inescapable"" intergalactic prison. It's time to find out!\n\n Select a 3-character team based on a Cell's requirements and then fight through 52 Cells of the most ruthless enemies in the galaxy to escape with rewards and freedom!"
 ID_SURVIVAL_INVALID_DATA_TITLE,EVENT ERROR
 ID_SURVIVAL_INVALID_DATA_DESC,"An error has occurred for this event. Please restart the game, or contact Customer Support for further assistance."
 ID_WAR_ATTEMPTBONUS_TITLE,ATTEMPT BONUS

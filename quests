@@ -5080,6 +5080,13 @@ ID_QU_S9_OMLPREP,Rank up Cosmic Ghost Rider
 ID_QU_S10_OMLPREP,Unlock or Rank up Starbrand
 ID_QU_S11_OMLPREP,Rank up Loki
 ID_QU_S12_OMLPREP,Unlock or Rank up Emma Frost
+ID_QU_NA_STRIKESHOWDOWN,S.T.R.I.K.E. Showdown
+ID_QU_SD_STRIKESHOWDOWN,Battle in Arena
+ID_QU_SD_STRIKESHOWDOWN2,"Battle in Arena, Open J.A.R.V.I.S. Recommended Orbs"
+ID_QU_LD_STRIKESHOWDOWN,"Battle in Arena and earn amazing rewards in S.T.R.I.K.E. Showdown, a special Milestone for growing Commanders!\n\nEarn characters you can power up to help take on the challenges of the Famine Scourge and unlock Rogue (Player Level 65).\n\nClaim your Login Streak Token in the first Milestone and keep your streak active to earn even more rewards and bonuses!\n\nDon't miss out on this opportunity, Commander!"
+ID_QU_S1_STRIKESHOWDOWN,Battle in Arena
+ID_QU_S2_STRIKESHOWDOWN,Open J.A.R.V.I.S. Recommended Orbs
+ID_QU_S3_STRIKESHOWDOWN,Spend 1 Campaign Energy
 ID_QU_NA_OPERATION_OMEGA,Operation: Omega
 ID_QU_DE_OPERATION_OMEGA,"Earn T3 Iso-8 Credits, T3 Level 1 Ions and Crimson Gear"
 ID_QU_LD_OPERATION_OMEGA,"Operation: Omega Milestone\nGain progress in this event by earning Revolution Orb fragments from Omega Assault Rewards, battling through Raids with Sentinel, Nimrod, or Omega Sentinel at 5+ yellow star, completing the Mutant Rebellion Web Milestone and daily web Free Claims. Earn fantastic rewards including  T3 Iso-8 Credits, T3 Level 1 Ions, Dark Promotion Credits and Mystic gear. You'll also earn points towards the month-long Autumn Revolution milestone by collecting Sentinel Cores and the valuable Power Dampener.\n\nRevolution Orb\nEarned from Omega Assault, Mutant Rebellion Web Milestone, daily web Free Claims, and select offers.\n\nOperation: Omega Leaderboard\nCompete on the Leaderboards for Crimson Gear and Diamond Promotions for Omega Sentinel!\n\nMutant Rebellion Web Milestone\nEarn Thanos Annihilator Orb to earn Revolution Orb Fragments and Points for Autumn Revolution Milestone progress! Keep an eye out for Free Claims containing milestone points every day!\n\n"
@@ -5103,3 +5110,22 @@ ID_QU_NA_TEAMORB_OMEGASENTINEL,Omega Sentinel's Activation
 ID_QU_SD_TEAMORB_OMEGASENTINEL,Get additional Living Sentinel Orbs!
 ID_QU_LD_TEAMORB_OMEGASENTINEL,Omega Sentinel's Activation Milestone\nOpen Sentinel Transcendence Orbs to earn progress and receive additional Living Sentinel Orbs! Find Sentinel Transcendence Orb Fragments in events and offers!
 ID_QU_S1_TEAMORB_OMEGASENTINEL,Open 1 Sentinel Transcendence Orb
+ID_QU_NA_MIDNIGHTHUNT,Midnight Hunt
+ID_QU_SD_MIDNIGHTHUNT,Participate in October Events
+ID_QU_LM_MIDNIGHTHUNT,Participate in various events throughout October to earn milestone progress.
+ID_QU_S1_MIDNIGHTHUNT,Collect 1 Silver Bullet
+ID_QU_S2_MIDNIGHTHUNT,Collect 1 Stake
+ID_QU_S3_MIDNIGHTHUNT,Collect 1 Rosary Beads
+ID_QU_S4_MIDNIGHTHUNT,Collect 1 Holy Water
+ID_QU_S5_MIDNIGHTHUNT,Collect 1 Bunch of Garlic
+ID_QU_S6_MIDNIGHTHUNT,Collect 1 Bazooka
+ID_QU_NA_VAMPIRICFRENZY,Vampiric Frenzy
+ID_QU_SD_VAMPIRICFRENZY,Spend Nightstalker Energy and earn Candy
+ID_QU_LD_VAMPIRICFRENZY,"Vampiric Frenzy Milestone\nGain progress in this 6-day event by spending Nightstalker Energy in the newest showcase, collecting Candy from showcases and Alliance gifts, and completing the Sugar Rush Web Milestone and daily web Free Claims. You can gain additional progress by purchasing the Ghoulish Gold Orb, which will enable you to puschase one of several Golden Costumes from the Costume Shop! Earn fantastic rewards including Diamond Orbs, T3 Iso-8 Ions, and Crimson Bio Gear. You'll also earn points towards the month-long Midnight Hunt milestone by collecting Silver Bullets and a Stake.\n\nSugar Rush Web Milestone\nSpend Candy on fabulous goods in the Candy Store, and be rewarded with additional progress in Vampiric Frenzy and Midnight Hunt!"
+ID_QU_S1_VAMPIRICFRENZY,Spend Nightstalker Energy in a showcase
+ID_QU_S2_VAMPIRICFRENZY,Earn Candy from a showcase or Alliance gift
+ID_QU_S3_VAMPIRICFRENZY,Open 1 Ghoulish Gold Orb
+ID_QU_NA_SUGARRUSH,Sugar Rush
+ID_QU_SD_SUGARRUSH,Spend Candy in the Candy Store!
+ID_QU_LD_SUGARRUSH,"Spend Candy on fabulous goods in the Candy Store, and be rewarded with additional progress in Vampiric Frenzy and Midnight Hunt!"
+ID_QU_S1_SUGARRUSH,Spend Candy in the Candy Store
