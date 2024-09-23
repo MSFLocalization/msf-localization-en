@@ -9856,6 +9856,12 @@ ID_ME_BO_BLADE_RS_ENDING,"Commander,\n\n<color=#fff568>Blade</color> will only b
 ID_ME_NA_BLADE_ORB_ENDING,Daywalker Orb
 ID_ME_DE_BLADE_ORB_ENDING,2 days left!
 ID_ME_BO_BLADE_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Daywalker Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Blade</color> for your <color=#fff568>Nightstalker</color> team for Raids!"
+ID_ME_NA_STRIKEPASS69_ANNOUNCE,S.T.R.I.K.E. Pass: Season 69
+ID_ME_DE_STRIKEPASS69_ANNOUNCE,Earn Gorr Shards!
+ID_ME_BO_STRIKEPASS69_ANNOUNCE,"Commander,\n\n<color=#fff568>S.T.R.I.K.E. Pass: Season 69 is live!</color>\n\nFeatured Character Shards: <color=#fff568>Gorr</color>\n<color=#fff568>How it Works</color>\n- Certain Daily Objectives reward S.T.R.I.K.E. Tokens\n- Earn S.T.R.I.K.E. Tokens to hit Season-long milestone rewards\n- You can also spend Power Cores to immediately reach the next S.T.R.I.K.E. Level\n- Your S.T.R.I.K.E. Level resets each Season\n\n<color=#fff568>Reward Tiers</color>\n- Commander Level determines your S.T.R.I.K.E. Pass Tier & Rewards\n- S.T.R.I.K.E. I: Commander Levels 10-49\n- S.T.R.I.K.E. II: Commander Levels 50-79\n- S.T.R.I.K.E. III: Commander Levels 80+\n- Your Commander Level at the START of the season determines which S.T.R.I.K.E. Pass Tier you get for the duration of the Season\n\n<color=#fff568>Premium S.T.R.I.K.E. Pass</color>\nUpgrade to the <color=#fff568>Premium S.T.R.I.K.E. Pass</color> to earn additional rewards for reaching each S.T.R.I.K.E. Level."
+ID_ME_NA_STRIKEPASS69_ENDING,Ending: S.T.R.I.K.E. Pass
+ID_ME_DE_STRIKEPASS69_ENDING,Don't miss Gorr!
+ID_ME_BO_STRIKEPASS69_ENDING,"Commander,\n\nYou only have <color=#fff568>2 days</color> remaining to earn <color=#fff568>Gorr</color> shards and  in Season 69 of S.T.R.I.K.E. Pass.\n\nHurry and complete your Daily Objectives before these rewards are gone!"
 ID_ME_NA_PREVIEW_OMEGATOWER,Coming Soon: Omega Assault
 ID_ME_DE_PREVIEW_OMEGATOWER,Omega Assault
 ID_ME_BO_PREVIEW_OMEGATOWER,"Commander,\n\nThe <color=#fff568>Omega Assault</color> Event is coming soon! Prepare your toughest allies so they can battle their way up through 6 new challenging floors!"

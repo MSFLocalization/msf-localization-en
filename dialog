@@ -9357,7 +9357,7 @@ ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_0,"Okay, since we've been ""volunteered"" t
 ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_1,"Hey! Snap out of it! This isn't the time to space out, we have to get the security systems online!"
 ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_2,"Huh? Oh, right. Right, the locks. I'll get on that."
 ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_3,"Wait, do you know what to do? Where are you—"
-ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_4,Burn! And never think raising your hands against us again!
+ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_4,Burn! And never think of raising your hands against us again!
 ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_5,"I hope she knows what she's doing, I think we're out of time…"
 ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_6,"Okay, let's try to push them back and hope for the best!"
 ID_DIALOG_SSE_ORCHIS_NIMROD_02_INTRO_7,"Spread out, try to surround them!"
@@ -9394,6 +9394,60 @@ ID_DIALOG_SSE_ORCHIS_NIMROD_05_INTRO_4,And see what they know about Chuck.
 ID_DIALOG_SSE_ORCHIS_NIMROD_05_INTRO_5,"Yes, and gather any intel we can. Okay, we're about to dock. Be ready for anything!"
 ID_DIALOG_SSE_ORCHIS_NIMROD_05_INTRO_6,"I am Nimrod! Judge, jury, and executioner. You are a threat, and I will be your end!"
 ID_DIALOG_SSE_ORCHIS_NIMROD_05_INTRO_7,"I'll be honest, I wasn't ready for that!"
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_01_INTRO_0,"If you can hear this message, our ""guests"" got away."
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_01_INTRO_1,Meet me at my lab and keep them from breaking anything else
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_01_INTRO_2,Copy that.
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_01_INTRO_3,"I need to go, so let's make this quick."
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_02_INTRO_0,"We're almost to the lab! Once we're in, start backing up the AI work."
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_02_INTRO_1,I think I finally got something usable from it!
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_02_INTRO_2,"So that wasn't really the captain then, right? Just AI?"
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_02_INTRO_3,"Isn't it great? His memory lives on, as does his love for killing threats!"
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_02_INTRO_4,What could possibly go wrong?
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_02_INTRO_5,"I'm here, what do you need?"
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_02_INTRO_6,Stop this guy chasing us!
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_03_INTRO_0,We're coming up on the main lab!
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_03_INTRO_1,"Let's wipe out their data, and move on to shut the rest of this place down."
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_03_END_0,This is too much to deal with!
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_03_END_1,"I got what I needed anyway, so let's regroup with Nimrod. Quickly!"
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_04_INTRO_0,"Shuttle is docking with the Orchis Forge, ma'am."
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_04_INTRO_1,"Good. Wolverine will soon learn he can't escape my wrath, even in space."
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_04_INTRO_2,"You've held up well for this long, but this is the end for you and your kind."
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_04_INTRO_3,Oh! We made it in time for the best part!
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_04_END_0,We did it! And no humans were harmed in the process!
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_04_END_1,"Are you doing okay there, captain? You took quite the hit."
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_04_END_2,…
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_05_INTRO_0,"Most of his systems seem fine, but the personality layer is off."
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_05_INTRO_1,"Ah, that's a little sad, but I guess it was never really him…"
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_05_INTRO_2,"Oh, he's moving again! And he's reaching out to comfort me."
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_05_INTRO_3,I've come to realize that it's not just mutants that are dangerous…
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_05_INTRO_4,*SNAP*
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_05_INTRO_5,"Nope, nope, nope, nope, nope! I'm out of here!!"
+ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_05_INTRO_6,Humans must also be eliminated.
+ID_DIALOG_SSE_ORCHIS_TEAM_01_INTRO_0,"That should do it for wiping out everything in the lab, but—"
+ID_DIALOG_SSE_ORCHIS_TEAM_01_INTRO_1,"Hi again! I'm not interrupting anything, am I?"
+ID_DIALOG_SSE_ORCHIS_TEAM_01_INTRO_2,X-Men—
+ID_DIALOG_SSE_ORCHIS_TEAM_01_INTRO_3,Wait! I've had a very sudden change of heart about AI.
+ID_DIALOG_SSE_ORCHIS_TEAM_01_INTRO_4,And I would love to help you all in exchange for a nice safe trip to Earth
+ID_DIALOG_SSE_ORCHIS_TEAM_01_INTRO_5,*SNIKT*
+ID_DIALOG_SSE_ORCHIS_TEAM_01_INTRO_6,"Wait, Logan. We don't have time and we haven't found info on Charles."
+ID_DIALOG_SSE_ORCHIS_TEAM_01_INTRO_7,"Help us shut this place down, and give us access the data you've been recording."
+ID_DIALOG_SSE_ORCHIS_TEAM_01_INTRO_8,Deal! We can split up to save time. We sort of need to hurry…
+ID_DIALOG_SSE_ORCHIS_TEAM_03_INTRO_0,"Okay, this should be the last of the Sentinels!"
+ID_DIALOG_SSE_ORCHIS_TEAM_03_INTRO_1,Best news I've heard in a while.
+ID_DIALOG_SSE_ORCHIS_TEAM_04_INTRO_0,"One last hunk of tin to slice through, and we can head home."
+ID_DIALOG_SSE_ORCHIS_TEAM_04_INTRO_1,"You will be eliminated here and now, and cast out into the sun!"
+ID_DIALOG_SSE_ORCHIS_TEAM_05_INTRO_0,"Okay, we're on the way back home. Start talking."
+ID_DIALOG_SSE_ORCHIS_TEAM_05_INTRO_1,"Fair enough, you held up your end of the deal."
+ID_DIALOG_SSE_ORCHIS_TEAM_05_INTRO_2,"I've never heard of the guy you're talking about, but look here."
+ID_DIALOG_SSE_ORCHIS_TEAM_05_INTRO_3,The Orchis Forge's local data show he was being monitored.
+ID_DIALOG_SSE_ORCHIS_TEAM_05_INTRO_4,"That's not the case in the source data back home, but here you go."
+ID_DIALOG_SSE_ORCHIS_TEAM_05_INTRO_5,That's his last known location. The updates stopped at some point.
+ID_DIALOG_SSE_ORCHIS_TEAM_05_INTRO_6,"Buckle up, we're about to land."
+ID_DIALOG_SSE_ORCHIS_TEAM_05_INTRO_7,(Time for me to sneak off before I have to answer for anything.)
+ID_DIALOG_SSE_ORCHIS_TEAM_05_START_0,Who are you?! I thought I made a perfectly clean getaway.
+ID_DIALOG_SSE_ORCHIS_TEAM_05_START_1,Just here to fix an oversight. This won't hurt. Much.
+ID_DIALOG_SSE_ORCHIS_TEAM_05_END_0,"There we go, just forget all about Charles."
+ID_DIALOG_SSE_ORCHIS_TEAM_05_END_1,Who?
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
