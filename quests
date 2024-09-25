@@ -5121,7 +5121,7 @@ ID_QU_S5_MIDNIGHTHUNT,Collect 1 Bunch of Garlic
 ID_QU_S6_MIDNIGHTHUNT,Collect 1 Bazooka
 ID_QU_NA_VAMPIRICFRENZY,Vampiric Frenzy
 ID_QU_SD_VAMPIRICFRENZY,Spend Nightstalker Energy and earn Candy
-ID_QU_LD_VAMPIRICFRENZY,"Vampiric Frenzy Milestone\nGain progress in this 6-day event by spending Nightstalker Energy in the newest showcase, collecting Candy from showcases and Alliance gifts, and completing the Sugar Rush Web Milestone and daily web Free Claims. You can gain additional progress by purchasing the Ghoulish Gold Orb, which will enable you to puschase one of several Golden Costumes from the Costume Shop! Earn fantastic rewards including Diamond Orbs, T3 Iso-8 Ions, and Crimson Bio Gear. You'll also earn points towards the month-long Midnight Hunt milestone by collecting Silver Bullets and a Stake.\n\nSugar Rush Web Milestone\nSpend Candy on fabulous goods in the Candy Store, and be rewarded with additional progress in Vampiric Frenzy and Midnight Hunt!"
+ID_QU_LD_VAMPIRICFRENZY,"Vampiric Frenzy Milestone\nGain progress in this 6-day event by spending Nightstalker Energy in the newest showcase, collecting Candy from showcases and Alliance gifts, and completing the Sugar Rush Web Milestone and daily web Free Claims. You can gain additional progress by purchasing the Ghoulish Gold Orb, which will enable you to purchase one of several Golden Costumes from the Costume Shop! Earn fantastic rewards including Diamond Orbs, T3 Iso-8 Ions, and Crimson Bio Gear. You'll also earn points towards the month-long Midnight Hunt milestone by collecting Silver Bullets and a Stake.\n\nSugar Rush Web Milestone\nSpend Candy on fabulous goods in the Candy Store, and be rewarded with additional progress in Vampiric Frenzy and Midnight Hunt!"
 ID_QU_S1_VAMPIRICFRENZY,Spend Nightstalker Energy in a showcase
 ID_QU_S2_VAMPIRICFRENZY,Earn Candy from a showcase or Alliance gift
 ID_QU_S3_VAMPIRICFRENZY,Open 1 Ghoulish Gold Orb
@@ -5136,3 +5136,41 @@ ID_QU_LD_SCARLETSURGE,"Battle in Raid and earn amazing rewards in Scarlet Surge,
 ID_QU_S1_SCARLETSURGE,Battle in Raid
 ID_QU_S2_SCARLETSURGE,Open 1 J.A.R.V.I.S. Recommended Orb
 ID_QU_S3_SCARLETSURGE,Spend 1 Campaign Energy
+ID_QU_NA_ORCHISASSEMBLY,Orchis Assembly
+ID_QU_SD_ORCHISASSEMBLY,Get additional shards for Sentinel and Nimrod!
+ID_QU_LD_ORCHISASSEMBLY,Orchis Assembly Collect Orchis Assembly Milestone Points via Orchis Assembly Web Offers to earn progress and receive additional Sentinel & Nimrod shards!
+ID_QU_NA_SPLASH_WEAPONSOFTHEENEMY,Weapons of the Enemy
+ID_QU_SD_SPLASH_WEAPONSOFTHEENEMY,Use Dark Hunter in Blitz
+ID_QU_LM_SPLASH_WEAPONSOFTHEENEMY,Earn points by using Dark Hunter characters in Blitz Battles. Earn more points if your Dark Hunter characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_WEAPONSOFTHEENEMY,Use Dark Hunter Characters in Blitz
+ID_QU_S1_SPLASH_WEAPONSOFTHEENEMY,Win Blitz with a 3-star or higher Dark Hunter Character
+ID_QU_S2_SPLASH_WEAPONSOFTHEENEMY,Win Blitz with a 5-star or higher Dark Hunter Character
+ID_QU_S3_SPLASH_WEAPONSOFTHEENEMY,Win Blitz with a 7-star Dark Hunter Character
+ID_QU_NA_SPLASH_SYMBIOTICSPOOK,Symbiotic Spook
+ID_QU_SD_SPLASH_SYMBIOTICSPOOK,Use Symbiote in Blitz
+ID_QU_LM_SPLASH_SYMBIOTICSPOOK,Earn points by using Symbiote characters in Blitz Battles. Earn more points if your Symbiote characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_SYMBIOTICSPOOK,Use Symbiote Characters in Blitz
+ID_QU_S1_SPLASH_SYMBIOTICSPOOK,Win Blitz with a 3-star or higher Symbiote Character
+ID_QU_S2_SPLASH_SYMBIOTICSPOOK,Win Blitz with a 5-star or higher Symbiote Character
+ID_QU_S3_SPLASH_SYMBIOTICSPOOK,Win Blitz with a 7-star Symbiote Character
+ID_QU_NA_SPLASH_TOILANDTROUBLE,Toil and Trouble
+ID_QU_SD_SPLASH_TOILANDTROUBLE,Use Darkhold in Blitz
+ID_QU_LM_SPLASH_TOILANDTROUBLE,Earn points by using Darkhold characters in Blitz Battles. Earn more points if your Darkhold characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_TOILANDTROUBLE,Use Darkhold Characters in Blitz
+ID_QU_S1_SPLASH_TOILANDTROUBLE,Win Blitz with a 3-star or higher Darkhold Character
+ID_QU_S2_SPLASH_TOILANDTROUBLE,Win Blitz with a 5-star or higher Darkhold Character
+ID_QU_S3_SPLASH_TOILANDTROUBLE,Win Blitz with a 7-star Darkhold Character
+ID_QU_NA_SPLASH_BRAAAINS,Braaains
+ID_QU_SD_SPLASH_BRAAAINS,Use in Blitz
+ID_QU_LM_SPLASH_BRAAAINS,Earn points by using characters in Blitz Battles. Earn more points if your characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_BRAAAINS,Use Characters in Blitz
+ID_QU_S1_SPLASH_BRAAAINS,Win Blitz with a 3-star or higher Character
+ID_QU_S2_SPLASH_BRAAAINS,Win Blitz with a 5-star or higher Character
+ID_QU_S3_SPLASH_BRAAAINS,Win Blitz with a 7-star Character
+ID_QU_NA_SPLASH_DAYOFTHEDEAD,Day of the Dead
+ID_QU_SD_SPLASH_DAYOFTHEDEAD,Use s in Blitz
+ID_QU_LM_SPLASH_DAYOFTHEDEAD,Earn points by using characters in Blitz Battles. Earn more points if your characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_DAYOFTHEDEAD,Use Characters in Blitz
+ID_QU_S1_SPLASH_DAYOFTHEDEAD,Win Blitz with a 3-star or higher Character
+ID_QU_S2_SPLASH_DAYOFTHEDEAD,Win Blitz with a 5-star or higher Character
+ID_QU_S3_SPLASH_DAYOFTHEDEAD,Win Blitz with a 7-star Character
