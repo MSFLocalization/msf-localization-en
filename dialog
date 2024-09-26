@@ -9394,6 +9394,275 @@ ID_DIALOG_SSE_ORCHIS_NIMROD_05_INTRO_4,And see what they know about Chuck.
 ID_DIALOG_SSE_ORCHIS_NIMROD_05_INTRO_5,"Yes, and gather any intel we can. Okay, we're about to dock. Be ready for anything!"
 ID_DIALOG_SSE_ORCHIS_NIMROD_05_INTRO_6,"I am Nimrod! Judge, jury, and executioner. You are a threat, and I will be your end!"
 ID_DIALOG_SSE_ORCHIS_NIMROD_05_INTRO_7,"I'll be honest, I wasn't ready for that!"
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_INTRO_0,"BROOKLYN, NEW YORK..."
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_INTRO_1,Are we in the right place? If we don't find these missing runaways...
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_INTRO_2,"We will, Dagger. Now let me listen..."
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_INTRO_3,I can hear eight heartbeats... All terrified. But they're alone. Time to go. Cloak?
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_INTRO_4,Teleporting us in...
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_INTRO_5,WOOSH
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_INTRO_6,"Kids... It's okay, we're here to help. Who took you?"
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_INTRO_7,Can't you tell...
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_INTRO_8,IT WAS US! And you're next!
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_START_0,Vampires! We're surrounded!
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_START_1,"Damnit, I missed them! They don't have heartbeats! "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_START_2,We've got to get these kids out of here! Now!
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_MID_0,"I think I'll start by eating the red one... He looks especially tender. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_MID_1,"Hey, bloodsucker! Catch!"
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_MID_2,ARGH!
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_MID_3,"Time to get back up, Daredevil. That's one down - a whole lot more to go. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_END_0,Blade... Thanks for your help. I don't know what would have happened if you didn't show up.
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_END_1,"I do. I'd be putting a stake in all three of y'all now instead of dusting you off. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_END_2,Wow. Friendly...
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_END_3,"I like him. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_END_4,"You're welcome. But you better take off. There's more to this than just some vamps, and I got work to do. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_01_END_5,"This is our city too, Blade. Fill us in. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_02_INTRO_0,"Been a weird uptick in vamp activity around here. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_02_INTRO_1,"Usually that means some bloodsucker got to big for his fangs and is causing chaos trying to take over. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_02_INTRO_2,"So who is it? "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_02_INTRO_3,"That's the thing. There is no new player. And the old vampire leaders are missing. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_02_INTRO_4,"Something's happening. Don't really care what. I just know if the vamps are involved, I want to stop it."
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_02_INTRO_5,So how can we help?
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_02_INTRO_6,"There's a nest up in Queens, looking to get some answers there. Could use the transport. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_02_INTRO_7,Then what are we waiting for? Next stop - Queens.
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_02_START_0,"Okay, nice and quiet. I don't know how many vamps are in here, and we don't want to lose the element of... "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_02_START_1,It's the Day Walker! He's found us!
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_02_START_2,"Surprise. Sigh. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_02_MID_0,"Blade, look out! Behind you!"
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_02_MID_1,HISSSSS!
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_02_MID_2,THWIP!
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_02_MID_3,"Hey, gang! I was swinging by and figuyred I'd join your stakeout!"
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_02_MID_4,"Get it? STAKEout? Seriously, though, this is a lot of vampires. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_03_INTRO_0,"Any leads, Blade?"
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_03_INTRO_1,Lotta tech here for vamps... They're old-fashioned. They prefer magic and fangs over... Whatever this is.
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_03_INTRO_2,"Hm, actually this looks like modified Roxxon transport tech. These aren't weapons, they're basically fancy crates."
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_03_INTRO_3,I'm impressed. Can you open them up?
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_03_INTRO_4,"Sure, no sweat. I need you to answer one thing, though... How do you see while wearing those sunglasses at night?"
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_03_INTRO_5,Is he going to be like this the whole time?
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_03_INTRO_6,Just be grateful you don't have enhanced hearing.
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_03_START_0,More vampires! Let's see how they like the light!
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_03_END_0,"Got it open! Let's see what they've got in... Oh. Well. You know, I don't know what else I expected."
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_03_END_1,What is it?
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_03_END_2,Blood! Lots of it! Gross!
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_03_END_3,Why all the tech to transport blood when they could load up an ice-cream truck? This doesn't make any sense.
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_03_END_4,"Well, either way, we've got the blood. They LOVE that stuff. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_03_END_5,"You're right! And we're taking it back, starting with yours!"
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_03_END_6,CHOMP!
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_03_END_7,ARGH!!!!
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_04_START_0,"Spidey, you okay? You with us?"
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_04_START_1,A little woozy... Anyone have a cookie or some orange juice?
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_04_START_2,"This is bad. He's got an hour, tops, before he starts to turn. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_04_START_3,"What?! No! I can't become a vampire, I love Italian food too much."
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_04_START_4,"I know someone who can help. But we gotta fight our way out of here first. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_04_END_0,"Cloak, midtown, now! Close to a subway entrance as you can get. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_04_END_1,"On it. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_04_END_2,"And we're taking one of those crates with us. We're figuring this out. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_INTRO_0,"We're here... Subway's a block away, we gotta get Spider-Man underground. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_INTRO_1,"Uuuugh... Hey, is it warm in here? Or is just my full body onesie?"
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_INTRO_2,"Oh, Daywalker! We were told to look out for you and your friends. There's nowhere to run."
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_INTRO_3,They're all over the damned island!
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_INTRO_4,That's right. So why don't you just give up rather than make us chase you?
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_INTRO_5,"Because they're travelling by night. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_INTRO_6,And those who do are protected by the Fist of Khonshu... The Moon Knight!
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_START_0,"Welcome to the party, Moon Knight."
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_START_1,There's been something off in the city for weeks. Like bugs under my skin.
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_START_2," Now I know it was this infestation. And I'm more than happy to be the exterminator."
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_END_0,"Down this tunnel, quick!"
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_END_1,"Ooof, my head is pounding. Wait, that might be your heartbeats? That seems bad, that I can hear your heartbeats."
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_END_2,"If he turns, I'm staking him. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_END_3,This man has saved more lives than you can count. We're doing the same for him.
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_END_4,"Let's just see what the doc says. "
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_END_5,"Yo, open up! We've got someone who needs medical assistance!"
+ID_DIALOG_SSE_NIGHTSTALKERS_BLADE_05_END_6,"Then it's a good thing you're here. Get him onto the table, quick, before the entire borough knows you're here. "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_01_INTRO_0,"Spider-Man... Can you hear me? "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_01_INTRO_1,"Mother... Is that you? I'm coming home... Wow, you got ugly..."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_01_INTRO_2,He's delirious.
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_01_INTRO_3,"I think he's just irritating. "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_01_INTRO_4,"Either way, I think I can save him. His enhanced metabolism is fighting off the vampirism enough for me to reverse it."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_01_START_0,"Spider-Man will be okay. We just need to give him time. "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_01_START_1,Too bad you're all out of it!
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_01_START_2,"Oh, I think we've got all the time in the world. Let's go, bitey!"
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_01_END_0,I said you weren't ready for battle!
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_01_END_1,"So, what? Vampires invade our home and you expect me to just hide in the corner?"
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_01_END_2,I'm done hiding.
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_01_END_3,"Sigh. Well, I may as well give you a proper introduction. Blade, everyone... "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_01_END_4,This is the newest member of the Nightstalkers. Meet Oath.
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_01_END_5,Oath...  Wait... Karen? Is that you?
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_01_END_6,"Hi, Matthew. We should talk. "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_02_INTRO_0,SIX MONTHS AGO...
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_02_INTRO_1,So... So hungry...
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_02_INTRO_2,"Hey, are you okay? Can I help you?"
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_02_INTRO_3,HISSS! Stay away!
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_02_INTRO_4,AAAH!
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_02_INTRO_5,"God, what's happened to me?"
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_02_INTRO_6,"You've been cursed, and become a wretched thing. But I can help."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_02_START_0,"If we're going to harness your powers, and your hunger... We need to point it in the right direction."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_02_START_1,"These thugs have been terrorizing this community for weeks. It stops tonight. "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_02_END_0,"I'm so hungry, but I can't... Even these jerks are people. I can't."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_02_END_1,"I know. You could have drank from that bystander, but you didn't. And that's why I want to teach you. Come with me."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_03_INTRO_0,"My name is Karen, Karen Paige. You're Michael Morbius, right? "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_03_INTRO_1,I'm surprised you're familiar with me.
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_03_INTRO_2,"I'm a reporter. And I've had plenty of... Experience... with metahumans. "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_03_INTRO_3,"I was following a lead, looking for missing unhoused people all over the city. No one cared."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_03_INTRO_4,"But you did. And then you found out why they were going missing. "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_03_INTRO_5,"I sneaked into their base, but before I knew it... I was bitten."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_03_START_0,Where are we?
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_03_START_1,"An A.I.M. facility, half abandoned. They have chemicals we need. "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_03_START_2,But they won't give them up willingly! Come!
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_04_INTRO_0,"When I first transformed myself into the monstrocity you see before you, I was also overcome with the hunger. "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_04_INTRO_1,"Using the chemicals from the AIM base, I recreated this for you, one of my greatest inventions..."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_04_INTRO_2,"Artificial blood. Not suitable for most humans, but it will sate your thirst. And do much more."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_04_INTRO_3,"Oh... Oh god... I feel, I feel... Amazing."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_04_INTRO_4,"You're unlocking your full potential. Come, let's see what you can do. "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_04_END_0,This is incredible! I've never felt so good in my life!
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_04_END_1,"Ugh, please, no more..."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_04_END_2,Karen! Be careful!
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_04_END_3,Why should I? These monsters don't care who they hurt!
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_04_END_4,AAARGH!
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_04_END_5,Karen! Release him! Now!
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_04_END_6,"Oh my god, I'm... I'm so sorry. I don't know what came over me."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_05_INTRO_0,"It was the power. The hunger gone, I was intoxicated with my new ability to finally strike back. "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_05_INTRO_1,"Michael said he would continue to train me, but I can tell he thinks I'll give in again."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_05_INTRO_2,"But I made a promise to myself to never lose control again. I took an Oath. "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_05_INTRO_3,And now I want to help stop these vampires.
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_05_INTRO_4,"Karen, this is... This is a lot to take in. But I'm glad you're okay."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_05_INTRO_5,"None of us are going to be okay if you two don't stop standing around! The vamps are back. Time to go. "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_05_START_0,Destroy them... Tear this place to the ground!
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_05_START_1,"Oh, come on! I just found out about it, I haven't even had time to post a review online!"
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_05_START_2,"4 Stars - great cobwebs and perfect sewer stench, but has a real pest problem. "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_05_END_0,"How are you feeling, Spider-Man?"
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_05_END_1,"Not a vampire, thanks to Morbius. Which is great news for us all, since I look awful in a cape."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_05_END_2,Great. Glad to hear it. Tell us about the damned box.
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_05_END_3,"I can see why they call you the Daywalker, you're a real ray of sunshine."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_05_END_4,"This crate is shielded from all kinds of radiation, more than you'd need to just store blood. "
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_05_END_5,"This is what I'd keep it in if I was worried about getting it through deep space, or, I don't know..."
+ID_DIALOG_SSE_NIGHTSTALKERS_OATH_05_END_6,"To another dimension. This is bad. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_01_INTRO_0,DEEP IN THE FLORIDA EVERGLADES...
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_01_INTRO_1,"Hey, you think what they say about this place is true? "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_01_INTRO_2,What? That there's a giant plant man who sets people on fire? Come on.
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_01_INTRO_3,"Oh, like it's so crazy? There's a guy made out of rock that lives in a New York penthouse. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_01_INTRO_4,"Ah, that's different. Forget it, we gotta finish patrol. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_01_INTRO_5,I don't see how it's that different...
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_01_INTRO_6,...
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_01_START_0,"Hey, did you hear that?"
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_01_START_1,"Har har. Good one, Jeff. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_01_START_2,"No, I'm serious... What is THAT?!"
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_02_INTRO_0,"Well done, Doctor Sallis. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_02_INTRO_1,...
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_02_INTRO_2,"Fine... ""Ted"". "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_02_INTRO_3,You've done an admirable job defending your home from criminals and poachers.
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_02_INTRO_4,"But there's a much darker force coming... And I think we can help each other fight it off. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_02_INTRO_5,...
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_02_START_0,"Behold, the undead! They're corrupting the very soil around us. We need to remove them."
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_02_START_1,...
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_02_END_0,"Hm, odd. Their auras are unlike anything I've seen before. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_02_END_1,"That's because they're not normal vamps, Harkness. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_02_END_2,"Blade. And you brought friends? "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_02_END_3,"Hello, Theodore. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_02_END_4,...!
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_03_INTRO_0,"What is that? "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_03_INTRO_1,"That is Doctor Theodore Sallis. A genius biochemist... Like so many of us, an accident befell him and now he's this."
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_03_INTRO_2,"The Man-Thing. Protector of the Nexus of Realities. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_03_INTRO_3,...?
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_03_INTRO_4,"Yes, we believe something is threatening the Nexus, friend. Vampires. Vampries from another dimension."
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_03_INTRO_5,"Okay, I admit it... This is taking some getting used to. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_03_END_0,"So, this is why the mystical disturbances are converging here... A breach at the heart of our world. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_03_END_1,"I think a bloodsucker is looking for fresh blood, and is using us as their own personal stash."
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_03_END_2,"So we stop it. But we need your help, Man-Thing. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_03_END_3,"Can you take us to the Nexus? Wherever they're sending the blood... It's going through there. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_03_END_4,...!!!
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_03_END_5,"He's mad. Perfect. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_04_START_0,...
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_04_START_1,We're here! That looks like a portal? Is that where they're sending the blood?
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_04_START_2,"I'm used to portals at this point, but that one looks less stable than normal. Let's take it out before it's too late."
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_04_END_0,Retreat! The daywalker and the guardian have found us!
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_04_END_1,...!
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_04_END_2,AAAAAGH!
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_04_END_3,What did he do?!
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_04_END_4,"Whatever knows fear, my dear, burns at the touch of the Man-Thing. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_04_END_5,Then I think you'll find me much harder to set ablaze.
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_05_INTRO_0,"Blade. You simply had to interrupt my perfectly good supply of blood, hm?"
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_05_INTRO_1,"Yeah, I've got a real problem with you overgrown ticks getting fat in my backyard. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_05_INTRO_2,"Well, at least you've done me the favor of sticking around so we can kill you."
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_05_INTRO_3,Subjects? FEAST!
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_05_START_0,"Man-Thing, take as many vamps out as you can. I'm going for their queen. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_05_START_1,"Come and get it, if you can. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_05_END_0,"A shame. The version of you on my world put up more of a fight. Or maybe I'm just that much stronger. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_05_END_1,"Either way... Enjoy your death, dhampir. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_05_END_2,"Cat, you know the benefit of being the coolest $%&@ in the room? All eyes are on me."
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_05_END_3,HIYAH!
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_05_END_4,ARGH!
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_05_END_5,"Nice work, Oath. Knight. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_05_END_6,"Always happy to bury some darts in evil's back. "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_05_END_7,"But she's retreating! Are they gone for good? "
+ID_DIALOG_SSE_NIGHTSTALKERS_MANTHING_05_END_8,"No way. So we're following, and putting an end to this, now. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_01_INTRO_0,"ACROSS DIMENSIONS, AN EARTH OF DARKNESS..."
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_01_INTRO_1,Oh god... What happened here? The world looks... Dead?
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_01_INTRO_2,...!!!
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_01_INTRO_3,"Man-Thing doesn't seem happy about any of this. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_01_INTRO_4,Look above you. No sun. No moon. The Vampires have somehow shielded this place from its rays completely.
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_01_INTRO_5,This world is a tomb overrun with vermin.
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_01_INTRO_6,Sniff... Sniff... Can it be?! Do I smell... BLOOD?!
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_01_END_0,Those weren't just normal vampires... Those were people we knew on our world. Super powered people.
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_01_END_1,"They stake all the same. We find Black Cat, destroy whatever operation she's got, and get back to our Earth."
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_01_END_2,"You'll be lunch long before that, Blade. Unless you come with me. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_02_INTRO_0,"The second you arrived here, our sensors detected that you were alive. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_02_INTRO_1,There are those of us who are immune to the vampire virus...
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_02_INTRO_2,Curse.
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_02_INTRO_3,"Whatever you choose to believe it is, some of us can't be turned. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_02_INTRO_4,"So we protect the last bastion of humanity, here underground. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_02_INTRO_5,"So, what? You want our help saving this world? Seems pretty far gone. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_02_INTRO_6,"You're right. We can't save this world. What we want is safe passage to yours. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_02_INTRO_7,Just as soon as we get rid of the vampire among you.
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_02_INTRO_8,Wait... Me?!
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_02_START_0,"Oath's not going anywhere. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_02_START_1,"Blade defending a vampire? Your world has gone soft. We'll take her out ourselves. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_02_END_0,"If you're really the last of humanity, I recommend standing down before there's no one left. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_02_END_1,Rrrr... If you think I'm going to let your vampire friend in here...
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_02_END_2,"Stand down, Banner. I'm calling the shots. And I say we need them. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_03_INTRO_0,"Carol. Thanks for that. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_03_INTRO_1,Don't thank me. I've spent years turning anything with fangs to dust. I didn't do this because I like you.
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_03_INTRO_2,"I did this because my friend here thinks you can help save lives. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_03_INTRO_3,"Hello, Blade. ...Agatha. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_03_INTRO_4,Richards. How did you survive?
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_03_INTRO_5,"You can't bite through elastic skin, thankfully. But if you're ready to hear it... I have a plan."
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_03_START_0,"Was this really the only way Mr. Fantastic said we could get to Black Cat? I'm already sick of the sewers. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_03_START_1,"Here I thought journalists were used to getting their hands dirty. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_03_START_2,There's dirt and then there's... Bleck!
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_03_START_3,"Shhh! We've got company. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_04_INTRO_0,"Dr. Richards, we've reached the basement of Black Cat's citadel. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_04_INTRO_1,"Excellent work. Use the decryption key I gave you to crack their access codes. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_04_INTRO_2,It's doing it's thing...
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_04_INTRO_3,"Once inside, grab the portal tech she stole from the Baxter Building after we had to abandon it. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_04_INTRO_4,"We can use that to get these people back to your world and seal this cursed place off forever. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_04_START_0,"Once you're inside, be prepared to meet..."
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_04_START_1,"I take it Reed sentcha? Whadda revoltin' development. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_04_START_2,"Resistence. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_04_END_0,"Oh, Benjamin... What has happened to you?"
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_04_END_1,You mean the fangs? They finally got through my rocky hide an' showed me what I was missin'!
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_04_END_2,"You put uppa good fight, but it's time to end this..."
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_04_END_3,A shame... I always liked you best. Ted?
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_04_END_4,...
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_04_END_5,AAAARGH!
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_INTRO_0,"We're in. Knight, you know which piece of tech Richards wanted?"
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_INTRO_1,"Got eyes on it. Entering the sequence he gave us, should be good to go in just..."
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_INTRO_2,"Longer than you've got! You fools followed me here? To the source of my power? "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_INTRO_3,My army will destroy you!
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_INTRO_4,"Ain't done it yet. Nightstalkers? Slice 'em up. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_MID_0,You'll join us or be torn to shreds! Then we'll find that pathetic human resistance and drain them dry!
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_MID_1,"Nothing living can stand against me and the forces of the undead! "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_MID_2,"You're making an excellent point, dear. PH'NGLUI, MGLW'NAFT, CTHON K'LAY..."
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_MID_3,What is she doing?
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_MID_4,Calling in some help.
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_MID_5,...RRRRAAAAARGH!
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_END_0,They're trying to devour each other! This is disgusting!
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_END_1,"We've got the box! Let's get out of here. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_END_2,No! NO! You're not going to get away. We'll follow you to the ends of the earth!
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_END_3,"Thought you'd say that. So I left a little surprise for you. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_END_4,And Cat? Stay out of Brooklyn. *beep*
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_END_5,BOOM!!!
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_END_6,"Nice. They're sealed in. It won't hold them. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_END_7,"By the time they're free, we'll be long gone and they'll be stuck with Agatha's special friends. "
+ID_DIALOG_SSE_NIGHTSTALKERS_TEAM_05_END_8,Let's go get those people a new home. Nightstalkers... Nice work.
 ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_01_INTRO_0,"If you can hear this message, our ""guests"" got away."
 ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_01_INTRO_1,Meet me at my lab and keep them from breaking anything else
 ID_DIALOG_SSE_ORCHIS_OMEGASENTINEL_01_INTRO_2,Copy that.

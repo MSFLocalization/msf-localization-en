@@ -2581,6 +2581,17 @@ ID_EVENT_ANNIHILATOR_TEAM_FLAVOR,Annihilators Unite!
 ID_EVENT_ANNIHILATOR_TEAM_DESC,"With Ultron's Phalanx gaining strength, the Annihilators desperately turn to an old enemy for help.\n\nChapter 2 Challenge Requirements: \n- Gladiator, Gorr, Silver Surfer and Ultimus at 3, 4 and 5 Yellow Stars"
 ID_EVENT_ANNIHILATOR_THANOSEG_FLAVOR,Thanos (Endgame)
 ID_EVENT_ANNIHILATOR_THANOSEG_DESC,"Freed from his prison, Thanos seeks to end Ultron and his Phalanx force all together.\n\nChapter 2 Challenge Requirements:\n- Thanos (Endgame) at 3, 4 and 5 Yellow Stars"
+ID_SSE_NIGHTSTALKERS_NAME,Dead of Night
+ID_SSE_NIGHTSTALKERS_DESC,"When unusual vampire activit in New York reveals an interdimensional threat, Blade brings together a new group of Nightstalkers to put an end to a vampire queen's scheme."
+ID_SSE_CHANCE_NIGHTSTALKERS,Nightstalkers Super Showcase
+ID_EVENT_NIGHTSTALKERS_BLADE_FLAVOR,Blade
+ID_EVENT_NIGHTSTALKERS_BLADE_DESC,"Blade swoops in to save some of his fellow crimefighers from a vampire threat, only to uncover a deeper conspiracy!\n\nChapter 2 Challenge Requirements: \n- Blade at 3, 4 and 5 Yellow Stars"
+ID_EVENT_NIGHTSTALKERS_OATH_FLAVOR,Oath
+ID_EVENT_NIGHTSTALKERS_OATH_DESC,"Once a reporter and legal aid, Karen Paige introduces herself to old friends as the vampire heroine Oath!\n\nChapter 2 Challenge Requirements: \n- Oath at 3, 4 and 5 Yellow Stars"
+ID_EVENT_NIGHTSTALKERS_MANTHING_FLAVOR,Man-Thing
+ID_EVENT_NIGHTSTALKERS_MANTHING_DESC,"In the Nexus of Reality, deep in the Florida Everglades, stands the Man-Thing!\n\nChapter 2 Challenge Requirements:\n- Man-Thing at 3, 4 and 5 Yellow Stars"
+ID_EVENT_NIGHTSTALKERS_TEAM_FLAVOR,Nightstalkers Strike!
+ID_EVENT_NIGHTSTALKERS_TEAM_DESC,"Following the vampire queen to her home dimension, the Nightstalkers take action to make sure she never returns to our world.\n\nChapter 2 Challenge Requirements: \n- Blade, Oath, Man-Thing, Moon Knight and Agatha Harkness at 3, 4, 5, 6 & 7 Yellow Stars"
 ID_INFO_NA_DIAMONDCLAWS,Diamond Claws
 ID_INFO_DE_DIAMONDCLAWS,Earn Old Man Logan Diamonds!
 ID_INFO_NA_GLADIATORORB,Gladiator's Expedition
@@ -2690,7 +2701,7 @@ ID_INFO_DE_MIDNIGHTHUNT,Earn marvelous rewards throughout October!
 ID_INFO_BO_MIDNIGHTHUNT,"Earn points toward this month-long milestone by collecting the following items from events and Daily Free Claims: Silver Bullets, a Stake, Prayer Beads, Holy Water, a Bunch of Garlic, and a Bazooka (you can't be too prepared).\n\nGet the following Meta Items from the following milestones:\n\n- The Stake from Vampiric Frenzy\n- The Prayer Beads from Twilight Vigil\n- The Holy Water from Swamp Showdown\n- The Bunch of Garlic from Zombie Invasion\n- The Bazooka from Overwhelming Hunger\n\nThere will be several Milestone Events that provide progress towards the <color=#fff568>Midnight Hunt</color> Milestone. As you progress, earn <color=#fff568>fully crafted Gear Tier 18 Mystic gear</color> and more!"
 ID_INFO_NA_VAMPIRICFRENZY,Vampiric Frenzy
 ID_INFO_DE_VAMPIRICFRENZY,"Earn Silver Bullets, T3 Iso-8 Ions, and Crimson Bio Gear!"
-ID_INFO_BO_VAMPIRICFRENZY,"<color=#fff568>Vampiric Frenzy Milestone</color>\nGain progress in this <color=#fff568>6-day</color> event by spending Nightstalker Energy in the newest showcase, collecting Candy from showcases and Alliance gifts, and completing the Sugar Rush Web Milestone and daily web Free Claims. You can gain additional progress by purchasing the Ghoulish Gold Orb, which will enable you to puschase one of several Golden Costumes from the Costume Shop! Earn fantastic rewards including <color=#fff568>Diamond Orbs, T3 Iso-8 Ions, and Crimson Bio Gear</color>. You'll also earn points towards the month-long Midnight Hunt milestone by collecting Silver Bullets and a Stake.\n\n<color=#fff568>Sugar Rush Web Milestone</color>\nSpend Candy on fabulous goods in the Candy Store, and be rewarded with additional progress in Vampiric Frenzy and Midnight Hunt!"
+ID_INFO_BO_VAMPIRICFRENZY,"<color=#fff568>Vampiric Frenzy Milestone</color>\nGain progress in this <color=#fff568>6-day</color> event by spending Nightstalker Energy in the newest showcase, collecting Candy from showcases and Alliance gifts, and completing the Sugar Rush Web Milestone and daily web Free Claims. You can gain additional progress by purchasing the Ghoulish Gold Orb, which will enable you to purchase one of several Golden Costumes from the Costume Shop! Earn fantastic rewards including <color=#fff568>Diamond Orbs, T3 Iso-8 Ions, and Crimson Bio Gear</color>. You'll also earn points towards the month-long Midnight Hunt milestone by collecting Silver Bullets and a Stake.\n\n<color=#fff568>Sugar Rush Web Milestone</color>\nSpend Candy on fabulous goods in the Candy Store, and be rewarded with additional progress in Vampiric Frenzy and Midnight Hunt!"
 ID_INFO_NA_SCARLETSURGE,Scarlet Surge
 ID_INFO_DE_SCARLETSURGE,Battle in Raid!
 ID_INFO_BO_SCARLETSURGE,"Battle in Raid and earn amazing rewards in Scarlet Surge, a special Milestone for growing Commanders!\n\nEarn characters you can power up to help take on the challenges of the Nova Trial and unlock the Knowhere Legend (Player Level 70).\n\nClaim your Login Streak Token in the first Milestone and keep your streak active to earn even more rewards and bonuses!\n\nDon't miss out on this opportunity, Commander!"

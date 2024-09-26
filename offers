@@ -10694,7 +10694,7 @@ ID_OF_NA_OMEGATOWER_NAMORSHARD,Omega Assault: Aquatic Assault
 ID_OF_NA_OMEGATOWER_SASQUATCHSHARD,Omega Assault: Brawling Bigfoot
 ID_OF_NA_OMEGATOWER_GUARDIANSHARD,Omega Assault: Canadian Combat
 ID_OF_NA_OMEGATOWER_NORTHSTARSHARD,Omega Assault: Guiding Light
-ID_OF_NA_OMEGATOWER_THANOSSHARD,Omega Assault: Enter Engame
+ID_OF_NA_OMEGATOWER_THANOSSHARD,Omega Assault: Enter Endgame
 ID_OF_NA_OMEGATOWER_GORRSHARD,Omega Assault: Symbiotic Swordsman
 ID_OF_NA_OMEGATOWER_GLADIATORSHARD,Omega Assault: Shi'ar Savior
 ID_OF_NA_OMEGATOWER_BKSHARD,Omega Assault: Knightly Protector
@@ -10720,3 +10720,11 @@ ID_OF_DE_OMEGATOWER_TEAMSHARDS,Team up with the most powerful inmates to escape 
 ID_OF_DE_OMEGATOWER_INDIVIDUALSHARDS,Your allies will be your key to escaping Kyln! Don't miss this special offer!
 ID_OF_DE_OMEGATOWER_GEAR,Gear up and get out with crazy value!
 ID_OF_DE_OMEGATOWER_GENERAL,Power up your roster with this special offer!
+ID_OF_NA_BLADE_WEB_STREAK1_FCO_OFFER,On The Hunt (1/4)
+ID_OF_DE_BLADE_WEB_STREAK1_FCO_OFFER,Get to <color=#fff568>Step 2</color> to acquire Blade's <color=#fff568>Passive Awakened Ability!</color> Purchase through this chain for a <color=#fff568>1 Diamond Blade</color> in the final step!
+ID_OF_NA_BLADE_WEB_STREAK2_FCO_OFFER,On The Hunt (2/4)
+ID_OF_DE_BLADE_WEB_STREAK2_FCO_OFFER,Unlock Blade's <color=#fff568>Passive Awakened Ability</color>! Purchase through this chain for a <color=#fff568>1 Diamond Blade</color> in the final step!
+ID_OF_NA_BLADE_WEB_STREAK3_FCO_OFFER,On The Hunt (3/4)
+ID_OF_DE_BLADE_WEB_STREAK3_FCO_OFFER,Purchase through this chain for a <color=#fff568>1 Diamond Blade</color> in the final step!
+ID_OF_NA_BLADE_WEB_STREAK4_FCO_OFFER,On The Hunt (4/4)
+ID_OF_DE_BLADE_WEB_STREAK4_FCO_OFFER,Purchase through this chain for a <color=#fff568>1 Diamond Blade</color> in the final step!
