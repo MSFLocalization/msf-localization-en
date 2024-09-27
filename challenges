@@ -2582,14 +2582,14 @@ ID_EVENT_ANNIHILATOR_TEAM_DESC,"With Ultron's Phalanx gaining strength, the Anni
 ID_EVENT_ANNIHILATOR_THANOSEG_FLAVOR,Thanos (Endgame)
 ID_EVENT_ANNIHILATOR_THANOSEG_DESC,"Freed from his prison, Thanos seeks to end Ultron and his Phalanx force all together.\n\nChapter 2 Challenge Requirements:\n- Thanos (Endgame) at 3, 4 and 5 Yellow Stars"
 ID_SSE_NIGHTSTALKERS_NAME,Dead of Night
-ID_SSE_NIGHTSTALKERS_DESC,"When unusual vampire activit in New York reveals an interdimensional threat, Blade brings together a new group of Nightstalkers to put an end to a vampire queen's scheme."
+ID_SSE_NIGHTSTALKERS_DESC,"When unusual vampire activity in New York reveals an interdimensional threat, Blade brings together a new group of Nightstalkers to put an end to a vampire queen's scheme."
 ID_SSE_CHANCE_NIGHTSTALKERS,Nightstalkers Super Showcase
 ID_EVENT_NIGHTSTALKERS_BLADE_FLAVOR,Blade
 ID_EVENT_NIGHTSTALKERS_BLADE_DESC,"Blade swoops in to save some of his fellow crimefighers from a vampire threat, only to uncover a deeper conspiracy!\n\nChapter 2 Challenge Requirements: \n- Blade at 3, 4 and 5 Yellow Stars"
 ID_EVENT_NIGHTSTALKERS_OATH_FLAVOR,Oath
-ID_EVENT_NIGHTSTALKERS_OATH_DESC,"Once a reporter and legal aid, Karen Paige introduces herself to old friends as the vampire heroine Oath!\n\nChapter 2 Challenge Requirements: \n- Oath at 3, 4 and 5 Yellow Stars"
+ID_EVENT_NIGHTSTALKERS_OATH_DESC,"Once a reporter and paralegal, Karen Paige introduces herself to old friends as the vampire heroine Oath!\n\nChapter 2 Challenge Requirements: \n- Oath at 3, 4 and 5 Yellow Stars"
 ID_EVENT_NIGHTSTALKERS_MANTHING_FLAVOR,Man-Thing
-ID_EVENT_NIGHTSTALKERS_MANTHING_DESC,"In the Nexus of Reality, deep in the Florida Everglades, stands the Man-Thing!\n\nChapter 2 Challenge Requirements:\n- Man-Thing at 3, 4 and 5 Yellow Stars"
+ID_EVENT_NIGHTSTALKERS_MANTHING_DESC,"In the Nexus of Realities, deep in the Florida Everglades, stands the Man-Thing!\n\nChapter 2 Challenge Requirements:\n- Man-Thing at 3, 4 and 5 Yellow Stars"
 ID_EVENT_NIGHTSTALKERS_TEAM_FLAVOR,Nightstalkers Strike!
 ID_EVENT_NIGHTSTALKERS_TEAM_DESC,"Following the vampire queen to her home dimension, the Nightstalkers take action to make sure she never returns to our world.\n\nChapter 2 Challenge Requirements: \n- Blade, Oath, Man-Thing, Moon Knight and Agatha Harkness at 3, 4, 5, 6 & 7 Yellow Stars"
 ID_INFO_NA_DIAMONDCLAWS,Diamond Claws
@@ -2705,3 +2705,8 @@ ID_INFO_BO_VAMPIRICFRENZY,"<color=#fff568>Vampiric Frenzy Milestone</color>\nGai
 ID_INFO_NA_SCARLETSURGE,Scarlet Surge
 ID_INFO_DE_SCARLETSURGE,Battle in Raid!
 ID_INFO_BO_SCARLETSURGE,"Battle in Raid and earn amazing rewards in Scarlet Surge, a special Milestone for growing Commanders!\n\nEarn characters you can power up to help take on the challenges of the Nova Trial and unlock the Knowhere Legend (Player Level 70).\n\nClaim your Login Streak Token in the first Milestone and keep your streak active to earn even more rewards and bonuses!\n\nDon't miss out on this opportunity, Commander!"
+ID_INFO_DE_THEDARKFUTURE2,Earn Silver Bullets and Ciphers!
+ID_INFO_BO_THEDARKFUTURE2,"Celebrate Orchis Raids and the Orchis team with this new alliance event! \n\n<color=#fff568>The Dark Future Milestone</color>\nTo score points:\n- Battle in Raids\n- Collect Milestone Points from Orchis Raids nodes\n- Earn Allied Supply VI Orb Fragments\n\nEarn fantastic rewards including Silver Bullets, Blade Nightstalker Orbs, Ciphers and T3 Iso-8 Materials!\n\n<color=#fff568>Allied Supply VI orb</color>\nEarn these alliance event orbs for progress in The Dark Future! Collect the Allied Supply VI Orb in special offers and daily free claims on the web!"
+ID_INFO_NA_TEAMORB_BLADE,Blade's Night Crusade
+ID_INFO_DE_TEAMORB_BLADE,Get additional Daywalker Orbs!
+ID_INFO_BO_TEAMORB_BLADE,<color=#fff568>Blade's Night Crusade Milestone</color>\nOpen Blade Nightstalker Orbs to gain progress and receive additional Daywalker Orbs!

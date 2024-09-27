@@ -9288,7 +9288,11 @@ ID_GACHA_CRATE_FCO_BLADE_SPECIAL_NAME,Daywalker Orb
 ID_GACHA_CRATE_FCO_BLADE_SPECIAL_DESCRIPTION,Earn up to 180 Blade shards
 ID_GACHA_CRATE_FCO_BLADE_SPECIAL_TOKEN_NAME,Daywalker Orb Fragments
 ID_GACHA_CRATE_FCO_BLADE_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Daywalker Orbs that contain up to 180 Blade shards.
-ID_GACHA_CRATE_TEAMORB_BLADE_NAME,Sunlit Slayer Orb
+ID_GACHA_CRATE_TEAMORB_BLADE_NAME,Blade Nightstalker Orb
 ID_GACHA_CRATE_TEAMORB_BLADE_DESCRIPTION,Earn progress in Blade's Milestone Event to collect more Blade Shards!
-ID_GACHA_CRATE_TEAMORB_BLADE_TOKEN_NAME,Sunlit Slayer Orb Fragments
-ID_GACHA_CRATE_TEAMORB_BLADE_TOKEN_DESCRIPTION,"Find Sunlit Slayer Orb Fragments in events, and offers!"
+ID_GACHA_CRATE_OATH_DIAMOND_NAME,Oath Diamond Orb
+ID_GACHA_CRATE_OATH_DIAMOND_DESCRIPTION,Get Diamond promotions for Oath and select characters!
+ID_GACHA_CRATE_OATH_DIAMOND_TOKEN_NAME,Oath Diamond Orb Fragments
+ID_GACHA_CRATE_OATH_DIAMOND_TOKEN_DESCRIPTION,Find Oath Diamond Orb Fragments in the Candy Shop!
+ID_GACHA_CRATE_TEAMORB_BLADE_TOKEN_NAME,Blade Nightstalker Orb Fragments
+ID_GACHA_CRATE_TEAMORB_BLADE_TOKEN_DESCRIPTION,"Find Blade Nightstalker Orb Fragments in events, and offers!"
