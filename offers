@@ -10644,7 +10644,7 @@ ID_OF_DE_VAMPIRICFRENZY_PIVOT_SPECIAL,Fend off the hordes with this Vampiric Fre
 ID_OF_DE_VAMPIRICFRENZY_DAILY_ENERGY,Get your daily Nightstalker energy fix to get ahead in the <color=#fff568>Vampiric Frenzy</color> Milestone!
 ID_OF_DE_VAMPIRICFRENZY_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Vampiric Frenzy</color> progress!
 ID_OF_DE_VAMPIRICFRENZY_DAILY_INTERSTITIAL,You just unlocked the discount deal for the <color=#fff568>Vampiric Frenzy</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
-ID_OF_NA_VAMPIRICFRENZY_ORB_SPECIAL,Vampiric Frenzy: Costume Party
+ID_OF_NA_VAMPIRICFRENZY_ORB_SPECIAL,Vampiric Frenzy: Ghoulish Gold Orb
 ID_OF_DE_VAMPIRICFRENZY_ORB_SPECIAL,"Grab the exclusive Ghoulish Gold Orb to gain points in the Vampiric Frenzy milestone, and then choose one of several Golden Costumes to claim in the Costume Shop!"
 ID_OF_NA_BLADE_FCO_OFFER,Vampire Slayer
 ID_OF_DE_BLADE_FCO_OFFER,Each <color=#fff568>Daywalker Orb</color> contains <color=#fff568>up to 180 Blade</color> shards. <color=#fff568>Blade</color> hunts down foes with unavoidable and unblockable attacks. Chew through enemy defenses!
@@ -10731,3 +10731,47 @@ ID_OF_DE_BLADE_WEB_STREAK4_FCO_OFFER,Purchase through this chain for a <color=#f
 ID_OF_NA_MONTHLYSPECIAL_ZOMBIEJUGG,October Special: Zombienaut Returns!
 ID_OF_NA_MONTHLYSPECIAL_ZOMBIEBROS,October Special: The Dead has Risen!
 ID_OF_DE_MONTHLYSPECIAL_ZOMBIEBROS,It's that time of year again. The <color=#ffda21>Undying Team</color> is back to takeover the month of October. Don't miss out or you'll be devoured!
+ID_OF_NA_TWILIGHTVIGIL_MEGA_STARTER,Twilight Vigil: Starter
+ID_OF_NA_TWILIGHTVIGIL_STARTER,Twilight Vigil: Starter
+ID_OF_NA_TWILIGHTVIGIL_MEGA_CATCHUP,Twilight Vigil: Catch-up
+ID_OF_NA_TWILIGHTVIGIL_CATCHUP,Twilight Vigil: Catch-up
+ID_OF_NA_TWILIGHTVIGIL_WEB_SPECIAL,Twilight Vigil: Web Special
+ID_OF_NA_TWILIGHTVIGIL_DAILY_ORB,Twilight Vigil: Daily Orb
+ID_OF_NA_TWILIGHTVIGIL_DAILY_POINTS,Twilight Vigil: Daily Points
+ID_OF_NA_TWILIGHTVIGIL_DAILY_ENERGY,Twilight Vigil: Daily Energy
+ID_OF_NA_TWILIGHTVIGIL_DAILY_ECM_ENERGY,Twilight Vigil: Daily Nightstalker Energy
+ID_OF_NA_TWILIGHTVIGIL_BLADE,Twilight Vigil: Blade's Territory
+ID_OF_NA_TWILIGHTVIGIL_DAILY_FREE_CLAIM,Twilight Vigil: Free Claim
+ID_OF_NA_TWILIGHTVIGIL_DAILY_INTERSTITIAL,Twilight Vigil: Secret Stash
+ID_OF_NA_TWILIGHTVIGIL_MS_TARGETED_BOOSTER,Twilight Vigil: Milestone Booster
+ID_OF_NA_TWILIGHTVIGIL_FREE_CLAIM_2_PIVOT,Twilight Vigil: Free Claim
+ID_OF_NA_TWILIGHTVIGIL_INTERSTITIAL_2_PIVOT,Twilight Vigil: Secret Treasure
+ID_OF_NA_TWILIGHTVIGIL_MID_EVENT_SPECIAL_PIVOT,Twilight Vigil: Special Bundle
+ID_OF_DE_TWILIGHTVIGIL_MEGA_STARTER,"Get ahead in the <color=#fff568>Twilight Vigil</color> Milestone and fast-forward your way to Blade Diamonds, <color=#f12603>T3 Iso-8 Credits</color> and <color=#fff568>T3 Level 1 Ions</color>!"
+ID_OF_DE_TWILIGHTVIGIL_MEGA_CATCHUP,"Finish strong in the milestones to earn Blade Diamonds, <color=#f12603>T3 Iso-8 Credits</color> and <color=#fff568>T3 Level 1 Ions</color>!"
+ID_OF_DE_TWILIGHTVIGIL_WEB_SPECIAL,Take a leap of faith with this Twilight Vigil special web bundle!
+ID_OF_DE_TWILIGHTVIGIL_DAILY_ORB,Stock up on Twilight Orb Fragments to get ahead in the <color=#fff568>Twilight Vigil</color> Milestone and earn  <color=#f12603>Crimson Tech Gear</color> and <color=#fff568>T3 Iso-8</color>!
+ID_OF_DE_TWILIGHTVIGIL_DAILY_POINTS,Get ahead in the Twilight Vigil Leaderboards and earn Blade Diamonds and <color=#f12603>T3 Iso-8</color>!
+ID_OF_DE_TWILIGHTVIGIL_DAILY_ENERGY,Get your daily campaign energy fix to earn more <color=#fff568>Twilight Orb Fragments</color> and get ahead in the <color=#fff568>Twilight Vigil</color> Milestone!
+ID_OF_DE_TWILIGHTVIGIL_DAILY_ECM_ENERGY,Get your daily Nightstalker energy fix to get ahead in the <color=#fff568>Vampiric Frenzy</color> Milestone!
+ID_OF_DE_TWILIGHTVIGIL_BLADE,Power up Blade with this shard offer!
+ID_OF_DE_TWILIGHTVIGIL_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Twilight Vigil</color> progress!
+ID_OF_DE_TWILIGHTVIGIL_DAILY_INTERSTITIAL,You just unlocked the discount deal for the <color=#fff568>Twilight Vigil</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_TWILIGHTVIGIL_MS_TARGETED_BOOSTER,Congratulations on reaching milestone 14. You just unlocked a 50% off deal that will let you instantly reach milestone 15!
+ID_OF_DE_TWILIGHTVIGIL_FREE_CLAIM_2_PIVOT,Claim this exclusive free gift on us! Check back often to find more exclusive gifts! Don't miss out on the one-time offer after claiming this gift!
+ID_OF_DE_TWILIGHTVIGIL_INTERSTITIAL_2_PIVOT,You just unlocked the discount deal for the <color=#fff568>Twilight Vigil</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_TWILIGHTVIGIL_MID_EVENT_SPECIAL_PIVOT,"Claim this mega deal leap to the top of the leaderboard in the <color=#fff568>Twilight Vigil</color> Milestone for <color=#fff568>Blade Diamonds, T3 Iso-8 Credits and T3 Level 1 Ions</color>!"
+ID_OF_NA_NIGHTRAID_STARTER,Night Raid: Starter Bundle
+ID_OF_NA_NIGHTRAID_CATCHUP,Night Raid: Catch-Up Bundle
+ID_OF_NA_NIGHTRAID_EVENTORB,Night Raid: Daily Allied Supply
+ID_OF_NA_NIGHTRAID_WAR,Night Raid: Daily War
+ID_OF_NA_NIGHTRAID_FREE,Night Raid: Free Claim
+ID_OF_NA_NIGHTRAID_INTERSTITIAL,NIght Raid: Supply Special
+ID_OF_NA_NIGHTRAID_MEGA,Night Raid: Special Bundle
+ID_OF_DE_NIGHTRAID_STARTER,Help your alliance start off strong in the <color=#fff568>Night Raid</color> Milestone for Crimson Gear rewards and <color=#fff568>Summer Nights</color> progress!
+ID_OF_DE_NIGHTRAID_CATCHUP,Push your alliance to the finish line with this <color=#fff568>Night Raid</color> Milestone bundle for Crimson Gear and <color=#fff568>Summer Nights</color> progress!
+ID_OF_DE_NIGHTRAID_EVENTORB,Get Allied Supply VI orbs for <color=#fff568>Night Raid</color> progress!
+ID_OF_DE_NIGHTRAID_WAR,Get your daily War refills to get ahead in the <color=#fff568>Night Raid</color> Milestone!
+ID_OF_DE_NIGHTRAID_FREE,Come back daily for more <color=#fff568>Night Raid</color> progress!
+ID_OF_DE_NIGHTRAID_INTERSTITIAL,Stock up on Allied Supply VI Orbs for extra progress in the <color=#fff568>NIght Raid</color> Milestone!
+ID_OF_DE_NIGHTRAID_MEGA,Get ahead in <color=#fff568>Night Raid</color> Milestone and propel your Alliance to <color=#fff568>Ciphers</color> and <color=#fff568>T3 Iso-8 Materials</color>!

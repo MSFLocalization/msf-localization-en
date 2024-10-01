@@ -3440,7 +3440,13 @@ ID_MOTD_DE_OMEGATOWER_TEASER,Omega Assault Event is coming soon! Prepare your to
 ID_MOTD_NA_OMEGATOWER_LIVE,LIVE: Omega Assault Event
 ID_MOTD_DE_OMEGATOWER_LIVE,"Complete all 52 floors, including 6 new floors and earn Crimson Gear!"
 ID_MOTD_DE_THEDARKFUTURE2_ANNOUNCE,Earn Silver Bullets and Ciphers!
-ID_MOTD_NA_TEAMORB_BLADE_ANNOUNCE,LIVE: Blade's Night Crusade
+ID_MOTD_NA_TEAMORB_BLADE_ANNOUNCE,LIVE: Blade's Dark Hunt
 ID_MOTD_DE_TEAMORB_BLADE_ANNOUNCE,Get additional Daywalker Orbs!
-ID_MOTD_NA_TEAMORB_BLADE_ENDING,Ending Soon: Blade's Night Crusade
+ID_MOTD_NA_TEAMORB_BLADE_ENDING,Ending Soon: Blade's Dark Hunt
 ID_MOTD_DE_TEAMORB_BLADE_ENDING,Don't miss out on additional Daywalker Orbs!
+ID_MOTD_NA_TWILIGHTVIGIL_ANNOUNCE,LIVE: Twilight Vigil
+ID_MOTD_DE_TWILIGHTVIGIL_ANNOUNCE,Earn Silver Bullets and T3 Level 1 Ions
+ID_MOTD_NA_TWILIGHTVIGIL_ENDING,Ending Soon: Twilight Vigil
+ID_MOTD_DE_TWILIGHTVIGIL_ENDING,Don't miss out on Silver Bullets and T3 Level 1 Ions!
+ID_MOTD_NA_NIGHTRAID_ANNOUNCE,LIVE: Night Raid
+ID_MOTD_DE_NIGHTRAID_ANNOUNCE,Earn Silver Bullets and Cipher!

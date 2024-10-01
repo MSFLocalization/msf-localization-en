@@ -9294,5 +9294,9 @@ ID_GACHA_CRATE_OATH_DIAMOND_NAME,Oath Diamond Orb
 ID_GACHA_CRATE_OATH_DIAMOND_DESCRIPTION,Get Diamond promotions for Oath and select characters!
 ID_GACHA_CRATE_OATH_DIAMOND_TOKEN_NAME,Oath Diamond Orb Fragments
 ID_GACHA_CRATE_OATH_DIAMOND_TOKEN_DESCRIPTION,Find Oath Diamond Orb Fragments in the Candy Shop!
+ID_GACHA_CRATE_TWILIGHT_NAME,Twilight Orb
+ID_GACHA_CRATE_TWILIGHT_DESCRIPTION,Contains Crimson Gear
+ID_GACHA_CRATE_TWILIGHT_TOKEN_NAME,Twilight Orb Fragments
+ID_GACHA_CRATE_TWILIGHT_TOKEN_DESCRIPTION,Find Twilight Orb Fragments in special offers
 ID_GACHA_CRATE_TEAMORB_BLADE_TOKEN_NAME,Blade Nightstalker Orb Fragments
 ID_GACHA_CRATE_TEAMORB_BLADE_TOKEN_DESCRIPTION,"Find Blade Nightstalker Orb Fragments in events, and offers!"
