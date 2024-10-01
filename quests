@@ -5120,9 +5120,9 @@ ID_QU_S4_MIDNIGHTHUNT,Collect 1 Holy Water
 ID_QU_S5_MIDNIGHTHUNT,Collect 1 Bunch of Garlic
 ID_QU_S6_MIDNIGHTHUNT,Collect 1 Bazooka
 ID_QU_NA_VAMPIRICFRENZY,Vampiric Frenzy
-ID_QU_SD_VAMPIRICFRENZY,Spend Nightstalker Energy and earn Candy
-ID_QU_LD_VAMPIRICFRENZY,"Vampiric Frenzy Milestone\nGain progress in this 6-day event by spending Nightstalker Energy in the newest showcase, collecting Candy from showcases and Alliance gifts, and completing the Sugar Rush Web Milestone and daily web Free Claims. You can gain additional progress by purchasing the Ghoulish Gold Orb, which will enable you to purchase one of several Golden Costumes from the Costume Shop! Earn fantastic rewards including Diamond Orbs, T3 Iso-8 Ions, and Crimson Bio Gear. You'll also earn points towards the month-long Midnight Hunt milestone by collecting Silver Bullets and a Stake.\n\nSugar Rush Web Milestone\nSpend Candy on fabulous goods in the Candy Store, and be rewarded with additional progress in Vampiric Frenzy and Midnight Hunt!"
-ID_QU_S1_VAMPIRICFRENZY,Spend Nightstalker Energy in a showcase
+ID_QU_SD_VAMPIRICFRENZY,Spend Dead of Night Energy and earn Candy
+ID_QU_LD_VAMPIRICFRENZY,"Vampiric Frenzy Milestone\nGain progress in this 6-day event by spending Dead of Night Energy in the newest showcase, collecting Candy from showcases and Alliance gifts, and completing the Sugar Rush Web Milestone and daily web Free Claims. You can gain additional progress by purchasing the Ghoulish Gold Orb, which will enable you to purchase one of several Golden Costumes from the Costume Shop! Earn fantastic rewards including Diamond Orbs, T3 Iso-8 Ions, and Crimson Bio Gear. You'll also earn points towards the month-long Midnight Hunt milestone by collecting Silver Bullets and a Stake.\n\nSugar Rush Web Milestone\nSpend Candy on fabulous goods in the Candy Store, and be rewarded with additional progress in Vampiric Frenzy and Midnight Hunt!"
+ID_QU_S1_VAMPIRICFRENZY,Spend Dead of Night Energy in a showcase
 ID_QU_S2_VAMPIRICFRENZY,Earn Candy from a showcase or Alliance gift
 ID_QU_S3_VAMPIRICFRENZY,Open 1 Ghoulish Gold Orb
 ID_QU_NA_SUGARRUSH,Sugar Rush

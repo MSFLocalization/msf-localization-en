@@ -7070,10 +7070,10 @@ ID_OF_DE_MONTHLYSPECIAL_GWENOMVOIDKNIGHT,The Symbiote Hive-Mind have detected yo
 ID_OF_NA_NU_PURCH_CAL_CYCLOPS,Starter Cyclops Calendar
 ID_OF_DE_NU_PURCH_CAL_CYCLOPS,Limited Chance offer to get 45 shards of Cyclops and more in this special 7-day calendar!
 ID_OF_NA_PETERBPARKER_FCO_OFFER,Friendly Neighborhood Father
-ID_OF_DE_PETERBPARKER_FCO_OFFER,"Each <color=#fff568>Family Affair Orb</color> contains <color=#fff568>up to 180 Peter B. Parker</color> shards. THWIP! <color=#fff568>Peter B. Parker</color> swings in to support Spider-Society and Spider-Verse Heroes in Raids! Also, baby on board… Get ready for some Daddy Daughter time!"
-ID_OF_DE_PETERBPARKER_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Peter B. Parker</color> and unlock one-time only release offers on your next visit! THWIP! <color=#fff568>Peter B. Parker</color> swings in to support Spider-Society and Spider-Verse Heroes in Raids! Also, baby on board… Get ready for some Daddy Daughter time!"
-ID_OF_DE_PETERBPARKER_OFFER_SHARD,"Power up <color=#fff568>Peter B. Parker</color> with this shard offer! THWIP! <color=#fff568>Peter B. Parker</color> swings in to support Spider-Society and Spider-Verse Heroes in Raids! Also, baby on board… Get ready for some Daddy Daughter time!"
-ID_OF_DE_PETERB.PARKER_UNLOCK_OFFER,"Unlock <color=#fff568>Peter B. Parker</color> now! THWIP! <color=#fff568>Peter B. Parker</color> swings in to support Spider-Society and Spider-Verse Heroes in Raids! Also, baby on board… Get ready for some Daddy Daughter time!"
+ID_OF_DE_PETERBPARKER_FCO_OFFER,"Each <color=#fff568>Family Affair Orb</color> contains <color=#fff568>up to 180 Peter B. Parker</color> shards. THWIP! <color=#fff568>Peter B. Parker</color> swings in to support Spider-Society and Spider-Verse Heroes in Raids! Also, baby on board? Get ready for some Daddy Daughter time!"
+ID_OF_DE_PETERBPARKER_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Peter B. Parker</color> and unlock one-time only release offers on your next visit! THWIP! <color=#fff568>Peter B. Parker</color> swings in to support Spider-Society and Spider-Verse Heroes in Raids! Also, baby on board? Get ready for some Daddy Daughter time!"
+ID_OF_DE_PETERBPARKER_OFFER_SHARD,"Power up <color=#fff568>Peter B. Parker</color> with this shard offer! THWIP! <color=#fff568>Peter B. Parker</color> swings in to support Spider-Society and Spider-Verse Heroes in Raids! Also, baby on board? Get ready for some Daddy Daughter time!"
+ID_OF_DE_PETERB.PARKER_UNLOCK_OFFER,"Unlock <color=#fff568>Peter B. Parker</color> now! THWIP! <color=#fff568>Peter B. Parker</color> swings in to support Spider-Society and Spider-Verse Heroes in Raids! Also, baby on board? Get ready for some Daddy Daughter time!"
 ID_OF_STOREBAR_PETERBPARKER,Dual Offer: Peter B. Parker
 ID_OF_NA_DUAL_PETERBPARKER,Dual Offer: Peter B. Parker
 ID_OF_DE_DUAL_PETERBPARKER,Choose your path to power up this <color=#fff568>Spider Society</color> member!
@@ -7082,7 +7082,7 @@ ID_OF_NA_PETERB.PARKER_FCO_OFFER_BASIC,Peter B. Parker Release Offer
 ID_OF_NA_PETERBPARKER_WEB_EXTRA_FCO_OFFER,Peter B. Parker Unlock Offer
 ID_OF_DE_PETERBPARKER_WEB_EXTRA_FCO_OFFER,"The Friendly Neighborhood Father, <color=#fff568>Peter B. Parker</color>, has arrived!"
 ID_OF_NA_PETERBPARKER_WEB_SPECIAL_OFFER,Friendly Neighborhood Father Special
-ID_OF_DE_PETERBPARKER_WEB_SPECIAL_OFFER,"<color=#fff568>Web Special!</color>THWIP! <color=#fff568>Peter B. Parker</color> swings in to support Spider-Society and Spider-Verse Heroes in Raids! Also, baby on board… Get ready for some Daddy Daughter time!"
+ID_OF_DE_PETERBPARKER_WEB_SPECIAL_OFFER,"<color=#fff568>Web Special!</color>THWIP! <color=#fff568>Peter B. Parker</color> swings in to support Spider-Society and Spider-Verse Heroes in Raids! Also, baby on board? Get ready for some Daddy Daughter time!"
 ID_OF_NA_APRILFOOLS24_GOLD,Genius's Gold
 ID_OF_NA_APRILFOOLS24_TRAININGORBS,Training Intensifies
 ID_OF_NA_APRILFOOLS24_PREMIUMT1ISO8ORBS_T2ISO8IONORBS_T3ABM,Iso Insanity
@@ -10641,7 +10641,7 @@ ID_OF_DE_VAMPIRICFRENZY_STARTER,Get ahead in the <color=#fff568>Vampiric Frenzy<
 ID_OF_DE_VAMPIRICFRENZY_CATCHUP,Finish strong in the milestones to earn <color=#f12603>T3 Iso-8 Ions</color> and <color=#fff568>Crimson Bio Gear</color>!
 ID_OF_DE_VAMPIRICFRENZY_WEB_SPECIAL,Fend off the hordes with this Vampiric Frenzy special web bundle!
 ID_OF_DE_VAMPIRICFRENZY_PIVOT_SPECIAL,Fend off the hordes with this Vampiric Frenzy special bundle!
-ID_OF_DE_VAMPIRICFRENZY_DAILY_ENERGY,Get your daily Nightstalker energy fix to get ahead in the <color=#fff568>Vampiric Frenzy</color> Milestone!
+ID_OF_DE_VAMPIRICFRENZY_DAILY_ENERGY,Get your daily Dead of Night energy fix to get ahead in the <color=#fff568>Vampiric Frenzy</color> Milestone!
 ID_OF_DE_VAMPIRICFRENZY_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Vampiric Frenzy</color> progress!
 ID_OF_DE_VAMPIRICFRENZY_DAILY_INTERSTITIAL,You just unlocked the discount deal for the <color=#fff568>Vampiric Frenzy</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_VAMPIRICFRENZY_ORB_SPECIAL,Vampiric Frenzy: Ghoulish Gold Orb
@@ -10775,3 +10775,61 @@ ID_OF_DE_NIGHTRAID_WAR,Get your daily War refills to get ahead in the <color=#ff
 ID_OF_DE_NIGHTRAID_FREE,Come back daily for more <color=#fff568>Night Raid</color> progress!
 ID_OF_DE_NIGHTRAID_INTERSTITIAL,Stock up on Allied Supply VI Orbs for extra progress in the <color=#fff568>NIght Raid</color> Milestone!
 ID_OF_DE_NIGHTRAID_MEGA,Get ahead in <color=#fff568>Night Raid</color> Milestone and propel your Alliance to <color=#fff568>Ciphers</color> and <color=#fff568>T3 Iso-8 Materials</color>!
+ID_OF_NA_NIGHT24_CRIMSON_UNIQUES,Nightstalker Crimson Uniques
+ID_OF_NA_NIGHT24_BLADE_A19,Blade's Crimson Power
+ID_OF_NA_NIGHT24_AGATHAHARKNESS,Agatha The Salem Witch
+ID_OF_NA_NIGHT24_CRIMSON_MINIUNIQUES,Nightstalker Crimson Mini-Uniques
+ID_OF_NA_NIGHT24_TEAL_UNIQUES,Nightstalker's Mystic Power
+ID_OF_NA_NIGHT24_BLADE,Blade The Daywalker
+ID_OF_NA_NIGHT24_MOONKNIGHT_TEALUNIQUE_GOLD,Moon Knight Boost Up
+ID_OF_NA_NIGHT24_BLADE_A19_DPC,Blade Super Pack
+ID_OF_NA_NIGHT24_BLADE_CRIMSONORIGIN,Blade's Crimson Origins
+ID_OF_NA_NIGHT24_TEAL_MINIUNIQUES,Nightstalker Custom Equipment
+ID_OF_NA_NIGHT24_A19_TRAIN_GOLD,Nightstalker Crimson Power Up
+ID_OF_NA_NIGHT24_TRAIN_GOLD_A18_A17_T2L5,Nightstalker Boost Up
+ID_OF_NA_NIGHT24_BLADE_A19_TRAIN_DDC,Blade Elite Pack
+ID_OF_NA_NIGHT24_BLADE_A18_DPC,Blade Power
+ID_OF_NA_NIGHT24_BLADE_DIAMOND_GOLD,Blade Super Boost
+ID_OF_NA_NIGHT24_BLADE_OATH_A19_GOLD_E7,Nightstalker Ultimate Pack
+ID_OF_NA_NIGHT24_OATH_A19,Oath's Crimson Power
+ID_OF_NA_NIGHT24_BLADE_OATH_A19_DPC,Nightstalker Super Pack
+ID_OF_NA_NIGHT24_OATH,Oath The Future Blade
+ID_OF_NA_NIGHT24_BLADE_OATH_A19_TRAIN,Nightstalker Elite Training
+ID_OF_NA_NIGHT24_OATH_CRIMSONORIGIN,Oaths Crimson Origins
+ID_OF_NA_NIGHT24_OATH_TRAIN_DPC,Oath's Fortification
+ID_OF_NA_NIGHT24_BLADE_OATH_TRAIN,Nightstalker Preparation
+ID_OF_NA_NIGHT24_BLADE_OATH_GOLD,Nightstalker Dominion
+ID_OF_NA_NIGHT24_FULL_TEAM_TRAIN,Nightstalker Team Pack
+ID_OF_NA_NIGHT24_MANTHING_E7_DPC,Man-Thing Power Up
+ID_OF_NA_NIGHT24_MANTHING_CRIMSONORIGIN,Man-Thing's Crimson Origins
+ID_OF_NA_NIGHT24_MANTHING_A19,Man-Thing's Crimson Power
+ID_OF_NA_NIGHT24_MANTHING,Man-Thing's Power of the Swamp
+ID_OF_DE_NIGHT24_CRIMSON_UNIQUES,Gear up your <color=#fff568>Nightstalker</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_NIGHT24_BLADE_A19,Power up your <color=#fff568>Blade</color> to unlock all his Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_NIGHT24_AGATHAHARKNESS,"Empower the newly updated Nightstalker member, the Salem witch <color=#fff568>Agatha Harkness</color>, with this special offer today! <color=#ffda21>A {var1}x Value</color>!"
+ID_OF_DE_NIGHT24_CRIMSON_MINIUNIQUES,Upgrade your <color=#fff568>Nightstalker</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_NIGHT24_TEAL_UNIQUES,Gear up your <color=#fff568>Nightstalker</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_NIGHT24_BLADE,"Empower the newly added Nightstalker member, the Day Walker, <color=#fff568>Blade</color>, with this special offer today!"
+ID_OF_DE_NIGHT24_MOONKNIGHT_TEALUNIQUE_GOLD,"Empower the newly updated Nightstalker member, <color=#fff568>Moon Knight</color>, with this special offer today!"
+ID_OF_DE_NIGHT24_BLADE_A19_DPC,Train and level up <color=#ffda21>Blade</color> with this great deal.
+ID_OF_DE_NIGHT24_BLADE_CRIMSONORIGIN,Power up your <color=#fff568>Blade</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_NIGHT24_TEAL_MINIUNIQUES,Upgrade your <color=#fff568>Nightstalker</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_NIGHT24_A19_TRAIN_GOLD,Boost up your <color=#fff568>Nightstalker</color> team's power to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_NIGHT24_TRAIN_GOLD_A18_A17_T2L5,Boost up your <color=#fff568>Nightstalker</color> team's power to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_NIGHT24_BLADE_A19_TRAIN_DDC,Prepare your <color=#fff568>Blade</color> to conquer all the difficulties in the Showcase Event!
+ID_OF_DE_NIGHT24_BLADE_A18_DPC,Power up your <color=#fff568>Blade</color> to unlock all his Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_NIGHT24_BLADE_DIAMOND_GOLD,Boost up your <color=#fff568>Blade</color> 's power to unlock all his Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_NIGHT24_BLADE_OATH_A19_GOLD_E7,Empower and gear up <color=#ffda21>Blade & Oath</color> with this great deal.
+ID_OF_DE_NIGHT24_OATH_A19,Improve your <color=#fff568>Oath</color> to conquer all her Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_NIGHT24_BLADE_OATH_A19_DPC,Improve and gear up your <color=#ffda21>Blade & Oath</color> with this great deal.
+ID_OF_DE_NIGHT24_OATH,"Empower the newly added Nightstalker member, <color=#fff568>Oath</color>, with this special offer today!"
+ID_OF_DE_NIGHT24_BLADE_OATH_A19_TRAIN,Train and level up <color=#ffda21>Blade & Oath</color> with this great deal.
+ID_OF_DE_NIGHT24_OATH_CRIMSONORIGIN,Improve your <color=#fff568>Oath</color> to unlock all her Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_NIGHT24_OATH_TRAIN_DPC,Train and level up to max out your <color=#ffda21>Oath</color>!
+ID_OF_DE_NIGHT24_BLADE_OATH_TRAIN,Prepare your <color=#fff568>Blade & Oath</color> to conquer all the difficulties in their Showcase Event!
+ID_OF_DE_NIGHT24_BLADE_OATH_GOLD,Power up your <color=#fff568>Blade & Oath</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_NIGHT24_FULL_TEAM_TRAIN,Recruit your entire <color=#fff568>Nightstalker</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_NIGHT24_MANTHING_E7_DPC,Rank up your <color=#fff568>Man-Thing</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_NIGHT24_MANTHING_CRIMSONORIGIN,Max out <color=#ffda21>Man-Thing</color> and equip them with the finest gear!
+ID_OF_DE_NIGHT24_MANTHING_A19,Power up your <color=#fff568>Man-Thing</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_NIGHT24_MANTHING,"Empower the newly added Nightstalker member, <color=#fff568>Man-Thing</color>, with this special offer today!"
