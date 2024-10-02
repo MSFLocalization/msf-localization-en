@@ -9298,5 +9298,21 @@ ID_GACHA_CRATE_TWILIGHT_NAME,Twilight Orb
 ID_GACHA_CRATE_TWILIGHT_DESCRIPTION,Contains Crimson Gear
 ID_GACHA_CRATE_TWILIGHT_TOKEN_NAME,Twilight Orb Fragments
 ID_GACHA_CRATE_TWILIGHT_TOKEN_DESCRIPTION,Find Twilight Orb Fragments in special offers
+ID_GACHA_CRATE_TEAMORB_OATH_NAME,Oath Nightstalker Orb
+ID_GACHA_CRATE_TEAMORB_OATH_DESCRIPTION,Earn progress in Oath's Milestone Event to collect more Oath Shards!
+ID_GACHA_CRATE_TEAMORB_OATH_TOKEN_NAME,Oath Nightstalker Orb Fragments
+ID_GACHA_CRATE_TEAMORB_OATH_TOKEN_DESCRIPTION,"Find Oath Nightstalker Orb Fragments in events, and offers!"
+ID_GACHA_CRATE_TEAMORB_MANTHING_NAME,Man-Thing Nightstalker Orb
+ID_GACHA_CRATE_TEAMORB_MANTHING_DESCRIPTION,Earn progress in Man-Thing's Milestone Event to collect more Man-Thing Shards!
+ID_GACHA_CRATE_TEAMORB_MANTHING_TOKEN_NAME,Man-Thing Nightstalker Orb Fragments
+ID_GACHA_CRATE_TEAMORB_MANTHING_TOKEN_DESCRIPTION,"Find Man-Thing Nightstalker Orb Fragments in events, and offers!"
+ID_GACHA_CRATE_FCO_OATH_SPECIAL_NAME,New Blood Orb
+ID_GACHA_CRATE_FCO_OATH_SPECIAL_DESCRIPTION,Earn up to 180 Oath shards
+ID_GACHA_CRATE_FCO_OATH_SPECIAL_TOKEN_NAME,New Blood Orb Fragments
+ID_GACHA_CRATE_FCO_OATH_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for New Blood Orbs that contain up to 180 Oath shards.
+ID_GACHA_CRATE_FCO_MANTHING_SPECIAL_NAME,Swamp Sovereign Orb
+ID_GACHA_CRATE_FCO_MANTHING_SPECIAL_DESCRIPTION,Earn up to 180 Man-Thing shards
+ID_GACHA_CRATE_FCO_MANTHING_SPECIAL_TOKEN_NAME,Swamp Sovereign Orb Fragments
+ID_GACHA_CRATE_FCO_MANTHING_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Swamp Sovereign Orbs that contain up to 180 Man-Thing shards.
 ID_GACHA_CRATE_TEAMORB_BLADE_TOKEN_NAME,Blade Nightstalker Orb Fragments
 ID_GACHA_CRATE_TEAMORB_BLADE_TOKEN_DESCRIPTION,"Find Blade Nightstalker Orb Fragments in events, and offers!"

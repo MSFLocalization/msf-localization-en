@@ -10739,7 +10739,7 @@ ID_OF_NA_TWILIGHTVIGIL_WEB_SPECIAL,Twilight Vigil: Web Special
 ID_OF_NA_TWILIGHTVIGIL_DAILY_ORB,Twilight Vigil: Daily Orb
 ID_OF_NA_TWILIGHTVIGIL_DAILY_POINTS,Twilight Vigil: Daily Points
 ID_OF_NA_TWILIGHTVIGIL_DAILY_ENERGY,Twilight Vigil: Daily Energy
-ID_OF_NA_TWILIGHTVIGIL_DAILY_ECM_ENERGY,Twilight Vigil: Daily Nightstalker Energy
+ID_OF_NA_TWILIGHTVIGIL_DAILY_ECM_ENERGY,Twilight Vigil: Daily Dead of Night Energy
 ID_OF_NA_TWILIGHTVIGIL_BLADE,Twilight Vigil: Blade's Territory
 ID_OF_NA_TWILIGHTVIGIL_DAILY_FREE_CLAIM,Twilight Vigil: Free Claim
 ID_OF_NA_TWILIGHTVIGIL_DAILY_INTERSTITIAL,Twilight Vigil: Secret Stash
@@ -10753,7 +10753,7 @@ ID_OF_DE_TWILIGHTVIGIL_WEB_SPECIAL,Take a leap of faith with this Twilight Vigil
 ID_OF_DE_TWILIGHTVIGIL_DAILY_ORB,Stock up on Twilight Orb Fragments to get ahead in the <color=#fff568>Twilight Vigil</color> Milestone and earn  <color=#f12603>Crimson Tech Gear</color> and <color=#fff568>T3 Iso-8</color>!
 ID_OF_DE_TWILIGHTVIGIL_DAILY_POINTS,Get ahead in the Twilight Vigil Leaderboards and earn Blade Diamonds and <color=#f12603>T3 Iso-8</color>!
 ID_OF_DE_TWILIGHTVIGIL_DAILY_ENERGY,Get your daily campaign energy fix to earn more <color=#fff568>Twilight Orb Fragments</color> and get ahead in the <color=#fff568>Twilight Vigil</color> Milestone!
-ID_OF_DE_TWILIGHTVIGIL_DAILY_ECM_ENERGY,Get your daily Nightstalker energy fix to get ahead in the <color=#fff568>Vampiric Frenzy</color> Milestone!
+ID_OF_DE_TWILIGHTVIGIL_DAILY_ECM_ENERGY,Get your daily Dead of Night Energy fix to get ahead in the <color=#fff568>Vampiric Frenzy</color> Milestone!
 ID_OF_DE_TWILIGHTVIGIL_BLADE,Power up Blade with this shard offer!
 ID_OF_DE_TWILIGHTVIGIL_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Twilight Vigil</color> progress!
 ID_OF_DE_TWILIGHTVIGIL_DAILY_INTERSTITIAL,You just unlocked the discount deal for the <color=#fff568>Twilight Vigil</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
@@ -10766,10 +10766,10 @@ ID_OF_NA_NIGHTRAID_CATCHUP,Night Raid: Catch-Up Bundle
 ID_OF_NA_NIGHTRAID_EVENTORB,Night Raid: Daily Allied Supply
 ID_OF_NA_NIGHTRAID_WAR,Night Raid: Daily War
 ID_OF_NA_NIGHTRAID_FREE,Night Raid: Free Claim
-ID_OF_NA_NIGHTRAID_INTERSTITIAL,NIght Raid: Supply Special
+ID_OF_NA_NIGHTRAID_INTERSTITIAL,Night Raid: Supply Special
 ID_OF_NA_NIGHTRAID_MEGA,Night Raid: Special Bundle
-ID_OF_DE_NIGHTRAID_STARTER,Help your alliance start off strong in the <color=#fff568>Night Raid</color> Milestone for Crimson Gear rewards and <color=#fff568>Summer Nights</color> progress!
-ID_OF_DE_NIGHTRAID_CATCHUP,Push your alliance to the finish line with this <color=#fff568>Night Raid</color> Milestone bundle for Crimson Gear and <color=#fff568>Summer Nights</color> progress!
+ID_OF_DE_NIGHTRAID_STARTER,Help your alliance start off strong in the <color=#fff568>Night Raid</color> Milestone for Crimson Gear rewards and <color=#fff568>Midnighty Hunt</color> progress!
+ID_OF_DE_NIGHTRAID_CATCHUP,Push your alliance to the finish line with this <color=#fff568>Night Raid</color> Milestone bundle for Crimson Gear and <color=#fff568>Midnight Hunt</color> progress!
 ID_OF_DE_NIGHTRAID_EVENTORB,Get Allied Supply VI orbs for <color=#fff568>Night Raid</color> progress!
 ID_OF_DE_NIGHTRAID_WAR,Get your daily War refills to get ahead in the <color=#fff568>Night Raid</color> Milestone!
 ID_OF_DE_NIGHTRAID_FREE,Come back daily for more <color=#fff568>Night Raid</color> progress!
@@ -10833,3 +10833,65 @@ ID_OF_DE_NIGHT24_MANTHING_E7_DPC,Rank up your <color=#fff568>Man-Thing</color> t
 ID_OF_DE_NIGHT24_MANTHING_CRIMSONORIGIN,Max out <color=#ffda21>Man-Thing</color> and equip them with the finest gear!
 ID_OF_DE_NIGHT24_MANTHING_A19,Power up your <color=#fff568>Man-Thing</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_NIGHT24_MANTHING,"Empower the newly added Nightstalker member, <color=#fff568>Man-Thing</color>, with this special offer today!"
+ID_OF_NA_OATH_FCO_OFFER,Fresh Fangs
+ID_OF_DE_OATH_FCO_OFFER,Each <color=#fff568>New Blood Orb</color> contains <color=#fff568>up to 180 Oath</color> shards. <color=#fff568>Oath</color> applies Bleed and Heal Block before feeding on enemies with Exposed with a brutal Bonus Attack!
+ID_OF_DE_OATH_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Oath</color> and unlock one-time only release offers on your next visit! <color=#fff568>Oath</color> applies Bleed and Heal Block before feeding on enemies with Exposed with a brutal Bonus Attack!
+ID_OF_DE_OATH_OFFER_SHARD,Power up <color=#fff568>Oath</color> with this shard offer! <color=#fff568>Oath</color> applies Bleed and Heal Block before feeding on enemies with Exposed with a brutal Bonus Attack!
+ID_OF_DE_OATH_UNLOCK_OFFER,Unlock <color=#fff568>Oath</color> now! <color=#fff568>Oath</color> applies Bleed and Heal Block before feeding on enemies with Exposed with a brutal Bonus Attack!
+ID_OF_STOREBAR_OATH,Dual Offer: Oath
+ID_OF_NA_DUAL_OATH,Dual Offer: Oath
+ID_OF_DE_DUAL_OATH,Choose your path to power up this <color=#fff568>Nightstalker</color> member!
+ID_OF_DE_DUAL_UNLOCK_OATH,Unlock this <color=#fff568>Nightstalker</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_OATH_FCO_OFFER_BASIC,Oath Release Offer
+ID_OF_NA_OATH_TEAMORB,Oath Nightslayer Orb Offer
+ID_OF_DE_OATH_TEAMORB,Bring the team together with this limited time orb special featuring Oath! Open for progress in the Oath Milestone Event!
+ID_OF_NA_OATH_TEAMORB_TY,Oath Nightslayer Orb Thank You Special!
+ID_OF_DE_OATH_TEAMORB_TY,Thank you for your support! Please enjoy this increased value orb offer.
+ID_OF_NA_OATH_WEB_EXTRA_FCO_OFFER,Oath Unlock Offer
+ID_OF_DE_OATH_WEB_EXTRA_FCO_OFFER,"The Fresh Fangs, <color=#fff568>Oath</color>, has arrived!"
+ID_OF_NA_OATH_WEB_SPECIAL_OFFER,Fresh Fangs Special
+ID_OF_DE_OATH_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> <color=#fff568>Oath</color> applies Bleed and Heal Block before feeding on enemies with Exposed with a brutal Bonus Attack!
+ID_OF_NA_DD810FOR10_DD8_CELEBRATION,Dark Dimension VIII Winner Celebration: 10 for 10
+ID_OF_DE_DD810FOR10_DD8_CELEBRATION,Celebrate <color=#f12603>Stocky187</color>'s monumental achievement as the first Commander to conquer Dark Dimension VIII!
+ID_OF_NA_FALL24WK1_DDC_DPC_DORB_MEGAGORB_SV_TY,Fall Gratitude Special
+ID_OF_NA_FALL24WK1_TRAIN_GOLD,Raking In The Results
+ID_OF_NA_FALL24WK1_CRIMSON_CATS_OCT_RATE,Crimson Leaves of Fall
+ID_OF_NA_FALL24WK1_TRAINING_ISO,Seasonal Power Up
+ID_OF_NA_FALL24WK1_GOLD_OCT_RATE1,Golden Leaves of Fortune
+ID_OF_NA_FALL24WK1_T2_ISO_CLASS_ORBS,Bountiful Blue Skies
+ID_OF_NA_FALL24WK1_SASQUATCH_DORB_ABM_TRAIN,Beast of Fall Special
+ID_OF_NA_FALL24WK1_TRAIN_ABM_DIAMOND,Seasonal Improvement
+ID_OF_NA_FALL24WK1_T2_ISO_T2L5_GOLD,ISO Harvest Bundle
+ID_OF_NA_FALL24WK1_TRAIN_GOLD_A19_A18_T2L5,Autumn Super Sale
+ID_OF_NA_FALL24WK1_T3_IONS_T3_BRAWLER,Purple Roots of Power
+ID_OF_NA_FALL24WK1_GOLD_OCT_RATE2,Nature's Bounty
+ID_OF_NA_FALL24WK1_ALL_CLASS_BLUE_IONS,Autumnal ISO Alignment
+ID_OF_NA_FALL24WK1_GOLD_TRAIN,Golden Gains
+ID_OF_NA_FALL24WK1_TRAINING_OCT_RATE,Trainer's Best Tips
+ID_OF_NA_BWPREP24WK1_OTHER,Battle World Prep Special
+ID_OF_NA_BWPREP24WK1_REDSTAR1,Battle World Prep: Diamond Power
+ID_OF_NA_BWPREP24WK1_REDSTAR2,Battle World Prep: Dark Diamonds
+ID_OF_NA_BWPREP24WK1_REDSTAR3,Battle World Prep: Dark Promotions
+ID_OF_NA_BWPREP24WK1_GEAR1,Battle World Prep: Crimson Annihilators
+ID_OF_NA_BWPREP24WK1_GEAR2,Battle World Prep: Crimson Illuminati
+ID_OF_NA_BWPREP24WK1_GEAR3,Battle World Prep: Crimson Alpha Flight
+ID_OF_NA_BWPREP24WK1_GEAR4,Battle World Prep: Crimson Mercs
+ID_OF_NA_BWPREP24WK1_SHARDS1,Battle World Prep: Annihilators
+ID_OF_NA_BWPREP24WK1_SHARDS2,Battle World Prep: Spider Society
+ID_OF_NA_BWPREP24WK1_SHARDS3,Battle World Prep: Mercs For Money
+ID_OF_NA_BWPREP24WK1_SHARDS4,Battle World Prep: Cabal
+ID_OF_NA_BWPREP24WK1_SHARDS5,Battle World Prep: Alpha Flight
+ID_OF_NA_BWPREP24WK1_SHARDS6,Battle World Prep: Secret Service
+ID_OF_NA_BWPREP24WK1_SHARDS7,Battle World Prep: Elite Forces
+ID_OF_NA_BWPREP24WK1_SHARDS8,Battle World Prep: Forging the Future
+ID_OF_NA_BWPREP24WK1_SHARDS9,Battle World Prep: Shard Special
+ID_OF_NA_BWPREP24WK1_SHARDS10,Battle World Prep: Combat Specialist
+ID_OF_NA_BWPREP24WK1_SHARDS11,Battle World Prep: Special Forces
+ID_OF_NA_BWPREP24WK1_SHARDS12,Battle World Prep: Roster Booster
+ID_OF_NA_BWPREP24WK1_ABM1,Battle World Prep: Epitome of Skill
+ID_OF_NA_BWPREP24WK1_ISO1,Battle World Prep: Resource Mining
+ID_OF_NA_BWPREP24WK1_ISO2,Battle World Prep: New Science
+ID_OF_NA_BWPREP24WK1_GOLD1,Battle World Prep: Instant Gold
+ID_OF_NA_BWPREP24WK1_GOLD2,Battle World Prep: Dubious Funding
+ID_OF_NA_BWPREP24WK1_TRAINING1,Battle World Prep: Bootcamp
+ID_OF_NA_BWPREP24WK1_TRAINING2,Battle World Prep: Special Training
