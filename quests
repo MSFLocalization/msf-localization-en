@@ -5195,8 +5195,10 @@ ID_QU_S8_TWILIGHTVIGIL,Battle in Raid with Spider-Society at Gear Tier 19
 ID_QU_S9_TWILIGHTVIGIL,Battle in Raid with X-Treme X-Men at Gear Tier 18
 ID_QU_S10_TWILIGHTVIGIL,Battle in Raid with X-Treme X-Men at Gear Tier 19
 ID_QU_LD_SUGARRUSH2,"Spend Candy on fabulous goods in the Candy Store, and be rewarded with additional progress in Twilight Vigil and Midnight Hunt!"
+ID_QU_NA_BYFB_STRIKEPOINTS,Fang for your Buck
 ID_QU_SD_BYFB_STRIKEPOINTS,Collect Strike Points
 ID_QU_LM_BYFB_STRIKEPOINTS,Strike Points will progress the Bang for your Buck Milestone!
+ID_QU_LM_BYFB_STRIKEPOINTS_FANG,Strike Points will progress the Fang for your Buck Milestone!
 ID_QU_SM_BYFB_STRIKEPOINTS,Earn points through obtaining Strike Points
 ID_QU_NA_NIGHTRAID,Night Raid
 ID_QU_SD_NIGHTRAID,"Battle in Orchis Raids, earn event Orbs and more!"
@@ -5208,3 +5210,10 @@ ID_QU_S4_NIGHTRAID,Battle in Raids with Nightstalker characters
 ID_QU_S5_NIGHTRAID,Battle in Raids with Blade
 ID_QU_S6_NIGHTRAID,Battle in Raids with Oath
 ID_QU_S7_NIGHTRAID,Battle in Raids with Man-Thing
+ID_QU_NA_ISO8INFUSION,Iso-8 Infusion
+ID_QU_SD_ISO8INFUSION,Spend Iso-8 Campaign Energy
+ID_QU_SD_ISO8INFUSION2,"Battle in Iso-8 Campaign, Open J.A.R.V.I.S. Recommended Orbs"
+ID_QU_LD_ISO8INFUSION,"Spend Iso-8 Campaign Energy and earn amazing rewards in Iso-8 Infusion, a special Milestone for growing Commanders!\n\nEarn characters you can power up to help take on the challenges of the War Horseman Trial and unlock the Legendary Red Hulk (Player Level 65).\n\nClaim your Login Streak Token in the first Milestone and keep your streak active to earn even more rewards and bonuses!\n\nDon't miss out on this opportunity, Commander!"
+ID_QU_S1_ISO8INFUSION,Spend 1 Iso-8 Campaign Energy
+ID_QU_S2_ISO8INFUSION,Open J.A.R.V.I.S. Recommended Orbs
+ID_QU_S3_ISO8INFUSION,Spend 1 Campaign Energy
