@@ -5226,3 +5226,20 @@ ID_QU_LD_NIGHTSTALKERNOCTURNE,"Raid and Campaign daily to Earn Oath Nightstalker
 ID_QU_S1_NIGHTSTALKERNOCTURNE,Spend 1 Campaign Energy
 ID_QU_S2_NIGHTSTALKERNOCTURNE,Battle in Raids
 ID_QU_S3_NIGHTSTALKERNOCTURNE,Spend 1 of any Campaign Energy type
+ID_QU_NA_SWAMPSHOWDOWN,Swamp Showdown
+ID_QU_DE_SWAMPSHOWDOWN,Earn Nimrod shards and T3 Iso-8 Materials!
+ID_QU_LD_SWAMPSHOWDOWN,"Swamp Showdown Milestone\nGain progress in this event by spending Dead of Night Energy, collecting Swamp Army Orb Fragments from Iso-8 Campaign nodes and using Mercs for Money, Out of Time and Superior Six characters in War. Earn rewards including Nimrod shards, T3 Iso-8 Materials, Dark Diamond Credits and more! You'll also earn points towards the month-long Midnight Hunt milestone by collecting Silver Bullets and the Holy Water.\n\nNew: War Defense scoring!\nTo earn points for using a character on War Defense: \n- set the character on Defense before the War starts\n- while the War is active, enter the Alliance War mode\n- you will earn points for that character once per War\n\nSwamp Army Orb\nContains shards for Sentinel, Annihilators and top Raid teams, along with Dark Promotion Credits and Crimson Gear!"
+ID_QU_SD_SWAMPSHOWDOWN,Earn Nimrod shards and T3 Iso-8 Materials!
+ID_QU_S1_SWAMPSHOWDOWN,Earn 1 Swamp Army Orb Fragment
+ID_QU_S2_SWAMPSHOWDOWN,Spend 1 Dead of Night Energy
+ID_QU_S3_SWAMPSHOWDOWN,"Collect 1 Milestone Point from the Sugar Rush Web Milestone, Daily Free Claims or special Offers"
+ID_QU_S4_SWAMPSHOWDOWN,Use Mercs For Money in War at GT17+
+ID_QU_S5_SWAMPSHOWDOWN,Use Mercs For Money in War at GT18+
+ID_QU_S6_SWAMPSHOWDOWN,Use Mercs For Money in War at GT19+
+ID_QU_S7_SWAMPSHOWDOWN,Use Out of Time in War at GT17+
+ID_QU_S8_SWAMPSHOWDOWN,Use Out of Time in War at GT18+
+ID_QU_S9_SWAMPSHOWDOWN,Use Out of Time in War at GT19+
+ID_QU_S10_SWAMPSHOWDOWN,Use Superior Six in War at GT17+
+ID_QU_S11_SWAMPSHOWDOWN,Use Superior Six in War at GT18+
+ID_QU_S12_SWAMPSHOWDOWN,Use Superior Six in War at GT19+
+ID_QU_FOOTNOTE_SWAMPSHOWDOWN,* See event description for War Defense scoring instructions
