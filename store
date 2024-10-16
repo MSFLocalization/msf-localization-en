@@ -9320,3 +9320,14 @@ ID_GACHA_CRATE_SWAMPARMY_NAME,Swamp Army Orb
 ID_GACHA_CRATE_SWAMPARMY_DESCRIPTION,"Contains shards for Sentinel, Annihilators and top Raid teams, along with Dark Promotion Credits and Crimson Gear!"
 ID_GACHA_CRATE_SWAMPARMY_TOKEN_NAME,Swamp Army Orb Fragments
 ID_GACHA_CRATE_SWAMPARMY_TOKEN_DESCRIPTION,"Find these Fragments on Iso-8 Campaign Nodes and in special offers. Open Swamp Army Orbs and receive shards for Sentinel, Annihilators and top Raid teams, along with Dark Promotion Credits and Crimson Gear!"
+ID_GACHA_CRATE_TOURNAMENT_PURPLE_TOKEN_NAME,Purple Gear Crucible Orb Fragments
+ID_GACHA_CRATE_TOURNAMENT_PURPLE_TOKEN_DESCRIPTION,"Find these Fragments in the Cosmic Crucible Store, available for Elite Crucible Credits earned in the tournament. Contains valuable purple gear materials and uniques for your roster!"
+ID_GACHA_CRATE_TOURNAMENT_ORANGE_TOKEN_NAME,Orange Gear Crucible Orb Fragments
+ID_GACHA_CRATE_TOURNAMENT_ORANGE_TOKEN_DESCRIPTION,"Find these Fragments in the Cosmic Crucible Store, available for Elite Crucible Credits earned in the tournament. Contains valuable orange gear materials and uniques for your roster!"
+ID_GACHA_CRATE_TOURNAMENT_TEAL_TOKEN_NAME,Teal Gear Crucible Orb Fragments
+ID_GACHA_CRATE_TOURNAMENT_TEAL_TOKEN_DESCRIPTION,"Find these Fragments in the Cosmic Crucible Store, available for Elite Crucible Credits earned in the tournament. Contains valuable teal gear materials and uniques for your roster!"
+ID_BP_NA_DUALOFFER_DESCRIPTION_2_50_REVAMP_40TIER,Unlock Premium rewards\nand <color=#fff568>40 Level Tokens</color>
+ID_GACHA_CRATE_TEAMORB_MANTHING_FCOFRAG_NAME,Man-Thing Nightstalker Orb
+ID_GACHA_CRATE_TEAMORB_MANTHING_FCOFRAG_DESCRIPTION,Earn progress in Man-Thing's Milestone Event to collect more Man-Thing Shards!
+ID_GACHA_CRATE_TEAMORB_MANTHING_FCOFRAG_TOKEN_NAME,Man-Thing Nightstalker Orb Fragments
+ID_GACHA_CRATE_TEAMORB_MANTHING_FCOFRAG_TOKEN_DESCRIPTION,"Find Man-Thing Nightstalker Orb Fragments in events, and offers!"

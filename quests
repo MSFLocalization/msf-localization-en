@@ -5243,3 +5243,18 @@ ID_QU_S10_SWAMPSHOWDOWN,Use Superior Six in War at GT17+
 ID_QU_S11_SWAMPSHOWDOWN,Use Superior Six in War at GT18+
 ID_QU_S12_SWAMPSHOWDOWN,Use Superior Six in War at GT19+
 ID_QU_FOOTNOTE_SWAMPSHOWDOWN,* See event description for War Defense scoring instructions
+ID_QU_NA_COMMANDERSCONQUEST,Commander's Conquest
+ID_QU_SD_COMMANDERSCONQUEST,Battle in Cosmic Crucible and War
+ID_QU_SD_COMMANDERSCONQUEST2,"Battle in Cosmic Crucible and War, Spend Campaign Energy"
+ID_QU_LD_COMMANDERSCONQUEST,"Battle in Cosmic Crucible, Alliance War, and Spend Campaign Energy to get amazing rewards in Commander's Conquest, a special Milestone for growing Commanders!\n\nEarn characters you can power up to help take on the challenges of the Black Cat Trial (Player Level 70) and unlock the Legendary feline felon.\n\nClaim your Login Streak Token in the first Milestone and keep your streak active to earn even more rewards and bonuses!"
+ID_QU_S1_COMMANDERSCONQUEST,Battle in Cosmic Crucible
+ID_QU_S2_COMMANDERSCONQUEST,Battle in Alliance War
+ID_QU_S3_COMMANDERSCONQUEST,Spend 1 Campaign Energy
+ID_QU_S4_COMMANDERSCONQUEST,Open 1 J.A.R.V.I.S. Recommended Orb
+ID_QU_NA_BATTLEWORLDPREPARATION,Battleworld Preparation
+ID_QU_SD_BATTLEWORLDPREPARATION,"Spend Campaign Energy, Raid, and battle in Arena"
+ID_QU_LD_BATTLEWORLDPREPARATION,"Spend Campaign Energy and battle in Raid and Arena to earn amazing rewards in Battleworld Preparation, a special Milestone for returning Commanders!\n\nEarn characters you can power up to help take on the challenges of the upcoming Battleworld feature (Player Level 75).\n\nClaim your Login Streak Token in the first Milestone and keep your streak active to earn even more rewards and bonuses!"
+ID_QU_S1_BATTLEWORLDPREPARATION,Spend 1 Campaign Energy
+ID_QU_S2_BATTLEWORLDPREPARATION,Battle in Raid
+ID_QU_S3_BATTLEWORLDPREPARATION,Battle in Arena
+ID_QU_S4_BATTLEWORLDPREPARATION,Open 1 J.A.R.V.I.S. Recommended Orb
