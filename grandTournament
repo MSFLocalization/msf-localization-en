@@ -54,6 +54,7 @@ ID_GT_EVENT_NAME_SEASON7,Season 7
 ID_GT_EVENT_NAME_SEASON8,Season 8
 ID_GT_EVENT_NAME_SEASON9,Season 9
 ID_GT_EVENT_NAME_SEASON10,Season 10
+ID_GT_EVENT_NAME_SEASON11,Season 11
 ID_GT_EVENT_NAME_EVENT,Ultimate 32
 ID_GT_GLOBAL_RULES_NAME,Magical Disruptions
 ID_GT_GLOBAL_RULES_DESC,"On Offense, reduce Speed and Resistance by <color=#86e619>10%</color> for all non-<color=#fff568>MASTERS OF EVIL VILLAIN MYSTICS</color>. \nOn Defense, reduce Speed and Resistance by <color=#86e619>20%</color> for all <color=#fff568>COSMIC VILLAIN MYSTICS</color>. \nOn any <color=#fff568>COSMIC VILLAIN MYSTICS</color> Turn, apply <color=#fff568>Bleed</color> to that character. \nOn Defense, all characters gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage. \n<color=#fff568>DARKHOLD</color> characters have -<color=#86e619>10%</color> Max Health, Focus, Resistance, and Damage."
@@ -333,3 +334,17 @@ ID_GT_S10_ROOM5_RULES_NAME,Heroic Shielding
 ID_GT_S10_ROOM5_RULES_DESC,"On Offense and Defense,\n<color=#fff568>Hero</color> characters:\n> On Turn, gain +<color=#86e619>1</color> <color=#fff568>Deflect</color>.\n> When this character is attacked, apply <color=#fff568>Defense Down</color> to the attacker."
 ID_GT_S10_ROOM6_RULES_NAME,Dorky's Madness
 ID_GT_S10_ROOM6_RULES_DESC,"On Offense and Defense,\nAll Characters:\n> When this character drop below <color=#86e619>50%</color> Health, gain <color=#fff568>Trauma</color>.\n> When this character uses an Special Ability, gain <color=#fff568>Ability Block</color>.\n> When this character uses an Ultimate Ability, gain <color=#fff568>Blind</color>."
+ID_GT_S11_GLOBAL_RULES_NAME,Zombies VS Vampires
+ID_GT_S11_GLOBAL_RULES_DESC,"Zombies VS Vampires\nOn Offense and Defense,\n<color=#fff568>Nightstalker</color> characters:\n> Gain +<color=#86e619>20%</color> Damage.\n> When attacking a character with <color=#fff568>Bleed</color> gain +<color=#86e619>1</color> <color=#fff568>Offense Up</color>.\n<color=#fff568>Undying</color> characters:\n> Gain +<color=#86e619>20%</color> Max Health.\n> When attacking a character with <color=#fff568>Bleed</color> gain +<color=#86e619>1</color> <color=#fff568>Defense Up</color>.\nOn Defense,\nAll characters:\n> Gain +<color=#86e619>20%</color> Max Health and +<color=#86e619>10%</color> Damage.\n> After each completed attempt, gain +<color=#86e619>1</color> <color=#fff568>Exhausted</color>. Canceled combats do not gain +<color=#86e619>1</color> <color=#fff568>Exhausted</color>."
+ID_GT_S11_ROOM1_RULES_NAME,Combat Support
+ID_GT_S11_ROOM1_RULES_DESC,"On Offense and Defense,\n<color=#9055FF>Fortifier</color> and <color=#9055FF>Healer</color> characters:\n> On hit, Apply +<color=#86e619>1</color> <color=#9055FF>Vulnerable</color>, up to +<color=#86e619>20</color>.\n<color=#9055FF>Striker</color> characters:\n> On hit, Apply +<color=#86e619>3</color> <color=#9055FF>Vulnerable</color>, up to +<color=#86e619>20</color>.\nAll other characters:\n> On hit, Apply +<color=#86e619>2</color> <color=#9055FF>Vulnerable</color>, up to +<color=#86e619>20</color>.\nAll characters:\n> When attacking, gain +<color=#86e619>100%</color> damage per <color=#9055FF>Vulnerable</color> on the attacking character.\n> On end of turn, clear all <color=#9055FF>Vulnerable</color> on this character."
+ID_GT_S11_ROOM2_RULES_NAME,Rules of Combat
+ID_GT_S11_ROOM2_RULES_DESC,"On Offense and Defense,\n<color=#fff568>Villain</color> Characters:\n> On successful attack, Apply <color=#fff568>Defense Down</color> to each target attacked.\n \n<color=#fff568>Hero</color> Characters:\n>On successful attack, Apply <color=#fff568>Offense Down</color> to each target attacked."
+ID_GT_S11_ROOM3_RULES_NAME,Raid on Crucible
+ID_GT_S11_ROOM3_RULES_DESC,"On Offense and Defense,\nAll characters:\n> Room counts as a <color=#fff568>RAID</color>.\n> Lower Resistance and Healing by <color=#86e619>50%</color>."
+ID_GT_S11_ROOM4_RULES_NAME,Flash Bang
+ID_GT_S11_ROOM4_RULES_DESC,"On Offense and Defense,\nAll characters:\n> With <color=#fff568>Blind</color>, lower that character's speed by <color=#86e619>5%</color> and Armor by <color=#86e619>25%</color>.\n> Ultimate Abilites apply <color=#fff568>Blind</color> to primary target."
+ID_GT_S11_ROOM5_RULES_NAME,Unholy Alliance
+ID_GT_S11_ROOM5_RULES_DESC,"On Offense and Defense,\n<color=#fff568>Unlimited X-men</color> characters:\n> Count as <color=#fff568>Masters of Evil</color>.\n<color=#fff568>Masters of Evil</color> characters:\n> Count as <color=#fff568>Unlimited X-men</color>."
+ID_GT_S11_ROOM6_RULES_NAME,What's Updog
+ID_GT_S11_ROOM6_RULES_DESC,"On Offense and Defense,\nAll characters:\n> Reduce all healing <color=#86e619>100%</color>.\n> Spawn with <color=#fff568>Safeguard</color>, <color=#fff568>Immunity</color>, and <color=#fff568>Defense Up</color>."

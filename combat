@@ -33,6 +33,7 @@ ID_COMBAT_MENU_OPTIONS_TURN_METERS,SPEED BARS
 ID_COMBAT_MENU_OPTIONS_VIEWTEAM_ENEMY,ENEMY TEAM
 ID_COMBAT_MENU_OPTIONS_VIEWTEAM_PLAYER,PLAYER TEAM
 ID_COMBAT_MENU_OPTIONS_VIEWTEAMS,VIEW TEAMS
+ID_COMBAT_MENU_OPTIONS_REMAINING_ENEMIES,REMAINING ENEMIES {enemies}
 ID_COMBAT_MENU_SERVER_ERR_DESC,This battle is no longer valid.
 ID_COMBAT_MENU_SERVER_ERR_RECOVERABLE_DESC,"Something went wrong, please try rejoining the battle."
 ID_COMBAT_MENU_SERVER_ERR_TITLE,Combat Error
@@ -140,6 +141,18 @@ ID_PROCS_TAUNT_DESC,Taunting characters must be targeted first.
 ID_PROCS_TAUNT_NAME,Taunt
 ID_PROCS_VULNERABLE_DESC,This character will take increased damage if targeted during this turn.
 ID_PROCS_VULNERABLE_NAME,Vulnerable
+ID_PROCS_DARKNESS_DESC,"On this character's turn, attack a random ally. This attack gains 25% Extra Damage per Darkness on this character, up to a maximum of 250%.\nUsing this character's Basic ability while this character has full energy clears 5 stacks of Darkness."
+ID_PROCS_DARKNESS_NAME,Darkness
+ID_PROCS_RAGE_DESC,This character is enraged.
+ID_PROCS_RAGE_NAME,Rage
+ID_PROCS_EVENT_ZOMBIE_BRAINS_NAME,Braaaaaaains
+ID_PROCS_EVENT_ZOMBIE_BRAINS_DESC,"On Death, remove <b>Hunger</b> and apply <b>Satiated</b> to the attacker."
+ID_PROCS_EVENT_ZOMBIE_HUNGRY_NAME,Hunger
+ID_PROCS_EVENT_ZOMBIE_HUNGRY_DESC,Increase <b>Speed</b> and <b>Focus</color>. Reduce <b>Damage</b> dealt per stack.\n<color=#fff568>You are compelled to eat <b>Braaaaaaains</b></color>.
+ID_PROCS_EVENT_ZOMBIE_SATIATED_NAME,Satiated
+ID_PROCS_EVENT_ZOMBIE_SATIATED_DESC,"Increase <b>Damage</b>, <b>Crit Chance</color>, and <b>Crit Damage</b> per stack.\n<color=#fff568>You are becoming lethargic.</color>"
+ID_PROCS_EVENT_ZOMBIE_UNDEADFORTITUDE_NAME,Undead Fortitude
+ID_PROCS_EVENT_ZOMBIE_UNDEADFORTITUDE_DESC,<b>Decrease</b> incoming damage by 75%. Cannot gain Defense Up or Minor Defense Up. <color=#fff568>You aren't lethargic when <b>Satiated</b>.</color>
 ID_ABILITY_TOAST_HORSEMEN,Scourge: {skill_name}
 ID_ABILITY_TOAST_GRANDTOURNAMENT,Stage Rule: {skill_name}
 ID_ABILITY_TOAST_PREFIX_HORSEMEN,Scourge
@@ -367,6 +380,7 @@ ID_ABILITY_TOAST_POLARIS_PASSIVE,Mistress of Magnetism
 ID_ABILITY_TOAST_PROXIMAMIDNIGHT_PASSIVE,Embrace the Void
 ID_ABILITY_TOAST_PSYLOCKE_PASSIVE,Reinvigorate
 ID_ABILITY_TOAST_PUNISHER_PASSIVE,Lock and Load
+ID_ABILITY_TOAST_PVE_BOSS_KNULL,King In Black
 ID_ABILITY_TOAST_PVE_CYCLOPS_INCURSION_PASSIVE,Team Synergy
 ID_ABILITY_TOAST_PVE_DDDOCTORDOOM_PASSIVE,Doombot Legion
 ID_ABILITY_TOAST_PVE_DDDOOMBOMB_PASSIVE,Doombot Legion
@@ -400,6 +414,7 @@ ID_ABILITY_TOAST_SABRETOOTH_PASSIVE,Feral Healing
 ID_ABILITY_TOAST_SASQUATCH_PASSIVE,Woodland Wanderer
 ID_ABILITY_TOAST_SCARLETSPIDER_PASSIVE,No Responsibility
 ID_ABILITY_TOAST_SCARLETWITCH_PASSIVE,Power of Chthon
+ID_ABILITY_TOAST_ZOMBIESCARLETWITCH_PASSIVE,Power of the Damned
 ID_ABILITY_TOAST_SCIENTISTSUPREME_PASSIVE,Mad Science
 ID_ABILITY_TOAST_SCREAM_PASSIVE,Symbiotic Attachment
 ID_ABILITY_TOAST_SENTINEL_PASSIVE,Mutant Hunter
@@ -516,6 +531,8 @@ ID_BATTLEFIELD_BE_MEPHISTO_NAME,<color=#FF5D00>Mark of Mephisto</color>
 ID_BATTLEFIELD_BE_MEPHISTO_DESC,"On any Turn, Barrier all allies for <color=#86e619>5%</color> of that character's Max Health.\nAllies gain <color=#86e619>+50%</color> Drain and Armor.\nAllies cannot gain <color=#fff568>Trauma</color>.\nAllies cannot have their Speed Bar reduced.\nThis Battlefield Effect lasts until cleared or until the end of the match."
 ID_BATTLEFIELD_BE_ODIN_NAME,<color=#f4ca11>All-Father's Fury</color>
 ID_BATTLEFIELD_BE_ODIN_DESC,"If this is active at the start of an enemy turn, on enemy turn end, Odin will use his Basic - Gungnir's Onslaught."
+ID_BATTLEFIELD_BE_GORR_NAME,<color=#f4ca11>Cleared Battlefield Effect</color>
+ID_BATTLEFIELD_BE_GORR_DESC,The previous Battlefield Effect has been cleared.
 ID_TO_ME_MY_BOARD,"To me, my board!"
 ID_TO_US_OUR_BOARD,"To us, our board!"
 ID_PING,PING!

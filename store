@@ -9207,8 +9207,13 @@ ID_GACHA_CRATE_FCO_THANOSENDGAME_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for
 ID_GACHA_CRATE_ARESRELEASE_PACK_NAME,Ares Premium Plus Pack
 ID_GACHA_CRATE_ARESRELEASE_PACK_DESCRIPTION,"Contains Helm of Ares tokens, Silver Diamond Credits, Gold, and L4 Training Modules!"
 ID_GACHA_CRATE_MIDNIGHTCOALITION_NAME,Midnight Coalition Orb
-ID_GACHA_CRATE_MIDNIGHTCOALITION_DESCRIPTION,"Contains Dark Diamond Credits, Dark Promotion Credits and shards for Pandapool, Daken, Black Panther (Shuri) and Hank Pym!"
+ID_GACHA_CRATE_MIDNIGHTCOALITION_DESCRIPTION,"Contains Dark Diamond Credits, Dark Promotion Credits and shards for Pandapool, Daken, Guardian and Northstar!"
 ID_GACHA_CRATE_MIDNIGHTCOALITION_TOKEN_NAME,Midnight Coalition Orb Fragments
+ID_GACHA_CRATE_MIDNIGHTCOALITION_TOKEN_DESCRIPTION,"Collect fragments for orbs containing Dark Diamond Credits, Dark Promotion Credits and shards for Pandapool, Daken, Guardian and Northstar!"
+ID_GACHA_CRATE_ANNIHILATORS_NAME,Gladiator Annihilator Orb
+ID_GACHA_CRATE_ANNIHILATORS_DESCRIPTION,Earn progress in the Gladiator's Expedition Milestone to collect more Gladiator Shards!
+ID_GACHA_CRATE_ANNIHILATORS_TOKEN_NAME,Gladiator Annihilator Orb Fragments
+ID_GACHA_CRATE_ANNIHILATORS_TOKEN_DESCRIPTION,"Find Gladiator Annihilator Orb Fragments in arena, events, and offers!"
 ID_GACHA_CRATE_TEAMORB_GORR_NAME,Gorr Annihilator Orb
 ID_GACHA_CRATE_TEAMORB_GORR_DESCRIPTION,Earn progress in the Gorr's Hunt Milestone to collect more Gorr Shards!
 ID_GACHA_CRATE_TEAMORB_GORR_TOKEN_NAME,Gorr Annihilator Orb Fragments
@@ -9225,11 +9230,10 @@ ID_GACHA_CRATE_TEAMORB_THANOS_NAME,Thanos Annihilator Orb
 ID_GACHA_CRATE_TEAMORB_THANOS_DESCRIPTION,Earn progress in the Thanos' Crusade Milestone to collect more Thanos (Endgame) Shards!
 ID_GACHA_CRATE_TEAMORB_THANOS_TOKEN_NAME,Thanos Annihilator Orb Fragments
 ID_GACHA_CRATE_TEAMORB_THANOS_TOKEN_DESCRIPTION,"Find Thanos Annihilator Orb Fragments in arena, events, and offers!"
-ID_GACHA_CRATE_MIDNIGHTCOALITION_TOKEN_DESCRIPTION,"Collect fragments for orbs containing Dark Diamond Credits, Dark Promotion Credits and shards for Pandapool, Daken, Black Panther (Shuri) and Hank Pym!"
-ID_GACHA_CRATE_ANNIHILATORS_NAME,Gladiator Annihilator Orb
-ID_GACHA_CRATE_ANNIHILATORS_DESCRIPTION,Earn progress in the Gladiator's Expedition Milestone to collect more Gladiator Shards!
-ID_GACHA_CRATE_ANNIHILATORS_TOKEN_NAME,Gladiator Annihilator Orb Fragments
-ID_GACHA_CRATE_ANNIHILATORS_TOKEN_DESCRIPTION,"Find Gladiator Annihilator Orb Fragments in arena, events, and offers!"
+ID_GACHA_CRATE_TEAMORB_THANOSEG_NAME,Path to Thanos Orb
+ID_GACHA_CRATE_TEAMORB_THANOSEG_DESCRIPTION,Earn progress in the Thanos' Crusade Milestone to collect more Thanos (Endgame) Shards!
+ID_GACHA_CRATE_TEAMORB_THANOSEG_TOKEN_NAME,Path to Thanos Orb Fragments
+ID_GACHA_CRATE_TEAMORB_THANOSEG_TOKEN_DESCRIPTION,"Find Path to Thanos Orb Fragments in arena, events, and offers!"
 ID_GACHA_CRATE_CRIMSONCOUNCIL_NAME,Crimson Council Orb
 ID_GACHA_CRATE_CRIMSONCOUNCIL_DESCRIPTION,Contains Crimson Gear and shards for Illuminati and Alpha Flight characters!
 ID_GACHA_CRATE_CRIMSONCOUNCIL_TOKEN_NAME,Crimson Council Orb Fragments
@@ -9327,6 +9331,10 @@ ID_GACHA_CRATE_TOURNAMENT_ORANGE_TOKEN_DESCRIPTION,"Find these Fragments in the 
 ID_GACHA_CRATE_TOURNAMENT_TEAL_TOKEN_NAME,Teal Gear Crucible Orb Fragments
 ID_GACHA_CRATE_TOURNAMENT_TEAL_TOKEN_DESCRIPTION,"Find these Fragments in the Cosmic Crucible Store, available for Elite Crucible Credits earned in the tournament. Contains valuable teal gear materials and uniques for your roster!"
 ID_BP_NA_DUALOFFER_DESCRIPTION_2_50_REVAMP_40TIER,Unlock Premium rewards\nand <color=#fff568>40 Level Tokens</color>
+ID_GACHA_CRATE_ZOMBIEHUNTER_NAME,Zombie Hunter Orb
+ID_GACHA_CRATE_ZOMBIEHUNTER_DESCRIPTION,"Contains select Character Shards, Gold, Training Modules, and Crimson Gear!"
+ID_GACHA_CRATE_ZOMBIEHUNTER_TOKEN_NAME,Zombie Hunter Orb Fragments
+ID_GACHA_CRATE_ZOMBIEHUNTER_TOKEN_DESCRIPTION,"Collect these fragments to advance in the Zombie Invasion Milestone Event. Contains select Character Shards, Gold, Training Modules, and Crimson Gear!"
 ID_GACHA_CRATE_TEAMORB_MANTHING_FCOFRAG_NAME,Man-Thing Nightstalker Orb
 ID_GACHA_CRATE_TEAMORB_MANTHING_FCOFRAG_DESCRIPTION,Earn progress in Man-Thing's Milestone Event to collect more Man-Thing Shards!
 ID_GACHA_CRATE_TEAMORB_MANTHING_FCOFRAG_TOKEN_NAME,Man-Thing Nightstalker Orb Fragments

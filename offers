@@ -9757,6 +9757,15 @@ ID_OF_NA_ARESSUPPORT_AWAKENEDULTIMATE,Unleash the Whirlwind
 ID_OF_NA_ARESSUPPORT_AWAKENEDPASSIVE,Early Access: God of War Awakened
 ID_OF_DE_ARESSUPPORT_AWAKENEDULTIMATE,Turn Ares into the ultimate Alliance War weapon with this special offer for Ares' Ultimate Awakened Ability!
 ID_OF_DE_ARESSUPPORT_AWAKENEDPASSIVE,Unleash Ares's full power before your competition with this limited time offer for Ares' Passive Awakened Ability! Obtaining more than 200 Awakened Ability materials will not offer any special benefit.
+ID_OF_NA_DIAMONDCLAWS_STARTER,Diamond Claws: Starter
+ID_OF_NA_DIAMONDCLAWS_CATCHUP,Diamond Claws: Catch-up
+ID_OF_NA_DIAMONDCLAWS_DAILY_ENERGY,Diamond Claws: Daily Energy
+ID_OF_NA_DIAMONDCLAWS_DAILY_ORB,Diamond Claws: Daily Coalition
+ID_OF_NA_DIAMONDCLAWS_DAILY_INCURSION,Ancient Incursions
+ID_OF_NA_DIAMONDCLAWS_DAILY_POINTS,Diamond Claws: Daily Points
+ID_OF_NA_DIAMONDCLAWS_WEB_SPECIAL,Diamond Claws: Web Special
+ID_OF_NA_DIAMONDCLAWS_MIDEVENT_SPECIAL,Diamond Claws: Mid-Event Special
+ID_OF_NA_DIAMONDCLAWS_DAILY_INTERSTITIAL,Diamond Claws: Hidden Treasure
 ID_OF_DE_DIAMONDCLAWS_STARTER,Get ahead in the <color=#fff568>Diamond Claws</color> Milestone and start making your way toward <color=#fff568>Old Man Logan Diamond Promotions</color> and <color=#E0B0FF>T3 Iso-8 Materials</color>!
 ID_OF_DE_DIAMONDCLAWS_CATCHUP,Finish strong in the <color=#fff568>Diamond Claws</color> Milestone and Leaderboard to earn <color=#fff568>Old Man Logan Diamond Promotions</color> and <color=#E0B0FF>T3 Iso-8 Materials</color>!
 ID_OF_DE_DIAMONDCLAWS_DAILY_ENERGY,Get your daily dose of Campaign Energy for progress in the Diamond Claws milestone!
@@ -10566,7 +10575,6 @@ ID_OF_NA_OPERATIONOMEGA_DAILY_FREE_CLAIM,Operation: Omega: Free Claim
 ID_OF_NA_OPERATIONOMEGA_MID_EVENT_SPECIAL,Operation: Omega: Special Bundle
 ID_OF_NA_OPERATIONOMEGA_DAILY_FREE_CLAIM_2,Operation: Omega: Free Claim
 ID_OF_NA_OPERATIONOMEGA_DAILY_INTERSTITIAL_2,Operation: Omega: Secret Treasure
-ID_OF_NA_OPERATIONOMEGA_MS_TARGETED_BOOSTER,Operation: Omega: Milestone Booster
 ID_OF_DE_OPERATIONOMEGA_STARTER,Get ahead in the <color=#fff568>Operation: Omega</color> Milestone and start making your way toward <color=#fff568>Omega Sentinel Diamond Promotions</color> and <color=#fff568>Crimson Mystic Gear</color>!
 ID_OF_DE_OPERATIONOMEGA_CATCHUP,Finish strong in the <color=#fff568>Operation: Omega</color> Milestone to earn <color=#fff568>Omega Sentinel Diamond Promotions</color> and <color=#fff568>Crimson Mystic Gear</color>!
 ID_OF_DE_OPERATIONOMEGA_DAILY_ORB,Make progress in the <color=#fff568>Operation: Omega</color> Milestone by collecting more <color=#fff568>Revolution Orb Fragments</color>!
@@ -10579,7 +10587,6 @@ ID_OF_DE_OPERATIONOMEGA_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568
 ID_OF_DE_OPERATIONOMEGA_MID_EVENT_SPECIAL,Make progress in Operation: Omega milestone and dominate the leaderboard for <color=#fff568>Omega Sentinel Diamond Promotions</color>
 ID_OF_DE_OPERATIONOMEGA_DAILY_FREE_CLAIM_2,Come back daily for more <color=#fff568>Operation: Omega</color> progress!
 ID_OF_DE_OPERATIONOMEGA_DAILY_INTERSTITIAL_2,You just unlocked the highest discount deal for the <color=#fff568>Operation: Omega</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
-ID_OF_DE_OPERATIONOMEGA_MS_TARGETED_BOOSTER,Congratulations on reaching milestone 14. You just unlocked a 50% off deal that will let you instantly reach milestone 15!
 ID_OF_NA_OMEGASENTINEL_FCO_OFFER,Cyborg Sentinel
 ID_OF_DE_OMEGASENTINEL_FCO_OFFER,Each <color=#fff568>Living Sentinel Orb</color> contains <color=#fff568>up to 180 Omega Sentinel</color> shards. Transform your Orchis team today with <color=#fff568>Omega Sentinel</color>! This powerful Support character provides their team with high healing while punishing enemies with Unavoidable attacks and debilitating negative effects!
 ID_OF_DE_OMEGASENTINEL_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Omega Sentinel</color> and unlock one-time only release offers on your next visit! Transform your Orchis team today with <color=#fff568>Omega Sentinel</color>! This powerful Support character provides their team with high healing while punishing enemies with Unavoidable attacks and debilitating negative effects!
@@ -10641,7 +10648,7 @@ ID_OF_DE_VAMPIRICFRENZY_STARTER,Get ahead in the <color=#fff568>Vampiric Frenzy<
 ID_OF_DE_VAMPIRICFRENZY_CATCHUP,Finish strong in the milestones to earn <color=#f12603>T3 Iso-8 Ions</color> and <color=#fff568>Crimson Bio Gear</color>!
 ID_OF_DE_VAMPIRICFRENZY_WEB_SPECIAL,Fend off the hordes with this Vampiric Frenzy special web bundle!
 ID_OF_DE_VAMPIRICFRENZY_PIVOT_SPECIAL,Fend off the hordes with this Vampiric Frenzy special bundle!
-ID_OF_DE_VAMPIRICFRENZY_DAILY_ENERGY,Get your daily Dead of Night energy fix to get ahead in the <color=#fff568>Vampiric Frenzy</color> Milestone!
+ID_OF_DE_VAMPIRICFRENZY_DAILY_ENERGY,Get your daily Nightstalker energy fix to get ahead in the <color=#fff568>Vampiric Frenzy</color> Milestone!
 ID_OF_DE_VAMPIRICFRENZY_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Vampiric Frenzy</color> progress!
 ID_OF_DE_VAMPIRICFRENZY_DAILY_INTERSTITIAL,You just unlocked the discount deal for the <color=#fff568>Vampiric Frenzy</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_VAMPIRICFRENZY_ORB_SPECIAL,Vampiric Frenzy: Ghoulish Gold Orb
@@ -10728,9 +10735,6 @@ ID_OF_NA_BLADE_WEB_STREAK3_FCO_OFFER,On The Hunt (3/4)
 ID_OF_DE_BLADE_WEB_STREAK3_FCO_OFFER,Purchase through this chain for a <color=#fff568>1 Diamond Blade</color> in the final step!
 ID_OF_NA_BLADE_WEB_STREAK4_FCO_OFFER,On The Hunt (4/4)
 ID_OF_DE_BLADE_WEB_STREAK4_FCO_OFFER,Purchase through this chain for a <color=#fff568>1 Diamond Blade</color> in the final step!
-ID_OF_NA_MONTHLYSPECIAL_ZOMBIEJUGG,October Special: Zombienaut Returns!
-ID_OF_NA_MONTHLYSPECIAL_ZOMBIEBROS,October Special: The Dead has Risen!
-ID_OF_DE_MONTHLYSPECIAL_ZOMBIEBROS,It's that time of year again. The <color=#ffda21>Undying Team</color> is back to takeover the month of October. Don't miss out or you'll be devoured!
 ID_OF_NA_TWILIGHTVIGIL_MEGA_STARTER,Twilight Vigil: Starter
 ID_OF_NA_TWILIGHTVIGIL_STARTER,Twilight Vigil: Starter
 ID_OF_NA_TWILIGHTVIGIL_MEGA_CATCHUP,Twilight Vigil: Catch-up
@@ -10775,6 +10779,9 @@ ID_OF_DE_NIGHTRAID_WAR,Get your daily War refills to get ahead in the <color=#ff
 ID_OF_DE_NIGHTRAID_FREE,Come back daily for more <color=#fff568>Night Raid</color> progress!
 ID_OF_DE_NIGHTRAID_INTERSTITIAL,Stock up on Allied Supply VI Orbs for extra progress in the <color=#fff568>NIght Raid</color> Milestone!
 ID_OF_DE_NIGHTRAID_MEGA,Get ahead in <color=#fff568>Night Raid</color> Milestone and propel your Alliance to <color=#fff568>Ciphers</color> and <color=#fff568>T3 Iso-8 Materials</color>!
+ID_OF_NA_MONTHLYSPECIAL_ZOMBIEJUGG,October Special: Zombienaut Returns!
+ID_OF_NA_MONTHLYSPECIAL_ZOMBIEBROS,October Special: The Dead has Risen!
+ID_OF_DE_MONTHLYSPECIAL_ZOMBIEBROS,It's that time of year again. The <color=#ffda21>Undying Team</color> is back to takeover the month of October. Don't miss out or you'll be devoured!
 ID_OF_NA_NIGHT24_CRIMSON_UNIQUES,Nightstalker Crimson Uniques
 ID_OF_NA_NIGHT24_BLADE_A19,Blade's Crimson Power
 ID_OF_NA_NIGHT24_AGATHAHARKNESS,Agatha The Salem Witch
@@ -11062,6 +11069,25 @@ ID_OF_NA_MANTHING_WEB_STREAK1_FCO_OFFER,Swamp Sentinel Special (1/4)
 ID_OF_DE_MANTHING_WEB_STREAK1_FCO_OFFER,Get to <color=#fff568>Step 2</color> to acquire Blade's <color=#fff568>Passive Awakened Ability!</color> Purchase through this chain for a <color=#fff568>1 Diamond Man-Thing</color> in the final step!
 ID_OF_NA_MANTHING_WEB_STREAK2_FCO_OFFER,Swamp Sentinel Special (2/4)
 ID_OF_DE_MANTHING_WEB_STREAK2_FCO_OFFER,Unlock Blade's <color=#fff568>Passive Awakened Ability</color>! Purchase through this chain for a <color=#fff568>1 Diamond Man-Thing</color> in the final step!
+ID_OF_NA_ZOMBIEINVASION_STARTER,Zombie Invasion: Starter
+ID_OF_NA_ZOMBIEINVASION_CATCHUP,Zombie Invasion: Catch-up
+ID_OF_NA_ZOMBIEINVASION_DAILY_POINTS,Twilight Vigil: Daily Points
+ID_OF_NA_ZOMBIEINVASION_MIDEVENT_SPECIAL,Zombie Invasion: Mid-Event Special
+ID_OF_NA_ZOMBIEINVASION_WEB_SPECIAL,Zombie Invasion: Web Special
+ID_OF_NA_ZOMBIEINVASION_DAILY_ORB,Zombie Invasion: Daily Reinforcements
+ID_OF_NA_ZOMBIEINVASION_M4M,Zombie Invasion: Nightstalkers
+ID_OF_NA_ZOMBIEINVASION_RAID,Zombie Invasion: Daily Raid
+ID_OF_NA_ZOMBIEINVASION_FREECLAIM,Zombie Invasion: Free Claim
+ID_OF_NA_ZOMBIEINVASION_INTERSTITIAL,Zombie Invasion: Hidden Treasure
+ID_OF_DE_ZOMBIEINVASION_STARTER,Get ahead in the <color=#fff568>Zombie Invasion</color> Milestone and start making your way toward <color=#fff568>Crimson Skill Gear</color> and <color=#E0B0FF>T3 Iso-8 Materials</color>!
+ID_OF_DE_ZOMBIEINVASION_CATCHUP,Finish strong in the <color=#fff568>Zombie Invasion</color> Milestone to earn <color=#fff568>Crimson Skill Gear</color> and <color=#E0B0FF>T3 Iso-8 Materials</color>!
+ID_OF_DE_ZOMBIEINVASION_DAILY_POINTS,Get ahead in the Zombie Invasion Leaderboards for a chance at <color=#fff568>Man-Thing Diamonds</color>!
+ID_OF_DE_ZOMBIEINVASION_MIDEVENT_SPECIAL,"Claim this mega deal to get ahead in the <color=#fff568>Zombie Invasion</color> Milestone, and fast-forward your way to <color=#fff568>T3 Iso-8 Materials</color> and <color=#fff568>Crimson Skill Gear</color>!"
+ID_OF_DE_ZOMBIEINVASION_DAILY_ORB,"Collect Zombie Hunter Orbs for progress in the Zombie Invasion milestone. Contains select Character Shards, Gold, Training Modules, and Crimson Gear!"
+ID_OF_DE_ZOMBIEINVASION_M4M,Power up your all-new Nightstalkers characters and use them in Raids for progress in the Zombie Invasion Milestone!
+ID_OF_DE_ZOMBIEINVASION_RAID,Gear up for Raids with your Nightstalkers team to get ahead in the Zombie Invasion milestone!
+ID_OF_DE_ZOMBIEINVASION_FREE_CLAIM,Come back daily for more <color=#fff568>Zombie Invasion</color> progress!
+ID_OF_DE_ZOMBIEINVASION_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Zombie Invasion</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_MANTHING_WEB_STREAK3_FCO_OFFER,Swamp Sentinel Special (3/4)
 ID_OF_DE_MANTHING_WEB_STREAK3_FCO_OFFER,Purchase through this chain for a <color=#fff568>1 Diamond Man-Thing</color> in the final step!
 ID_OF_NA_MANTHING_WEB_STREAK4_FCO_OFFER,Swamp Sentinel Special (4/4)
@@ -11083,3 +11109,79 @@ ID_OF_DE_MANTHING_STREAK_OFFER6,Unlock Blade's <color=#fff568>Passive Awakened A
 ID_OF_DE_MANTHING_STREAK_OFFER7,"Welcome to <color=#fff568>Man-Thing's</color> swamp, where enemies enter but never leave!"
 ID_OF_DE_MANTHING_STREAK_OFFER8,"Welcome to <color=#fff568>Man-Thing's</color> swamp, where enemies enter but never leave!"
 ID_BATTLEPASS_DE_PREMONLY_15_DESCRIPTION,Get <color=#fff568>15 Level Tokens</color>  to catch up on Battle Pass progress!
+ID_OF_NA_HUNGERTHIRST_ZOMBIEJUGGERNAUT1,Hunger & Thirst: Formidable Threat
+ID_OF_NA_HUNGERTHIRST_ZOMBIEIRONMAN_T3_IONS_T3_BRAWLER,Hunger & Thirst: Undead Armor
+ID_OF_NA_HUNGERTHIRST_ZOMBIEIRONMAN_CRIMSONORIGIN,Hunger & Thirst: Hero to Horror
+ID_OF_NA_HUNGERTHIRST_ZOMBIEIRONMAN_A19_DPC,Hunger & Thirst: Darkened Threat
+ID_OF_NA_HUNGERTHIRST_GOLD,Hunger & Thirst: Graveyard Gold
+ID_OF_NA_HUNGERTHIRST_VAMPIRE_TRIO_TEAM_ORB,Hunger & Thirst: Night Alliance
+ID_OF_NA_HUNGERTHIRST_ZOMBIEJUGGERNAUT2,Hunger & Thirst: Formidable Threat
+ID_OF_NA_HUNGERTHIRST_DPC,Hunger & Thirst: Darkened Stars
+ID_OF_NA_HUNGERTHIRST_BLADE_TEAM_ORB,Hunger & Thirst: Daywalker
+ID_OF_NA_HUNGERTHIRST_ZOMBIEJUGGERNAUT3,Hunger & Thirst: Formidable Threat
+ID_OF_NA_HUNGERTHIRST_HELA_A19_DPC,Hunger & Thirst: Undead Queen
+ID_OF_NA_HUNGERTHIRST_HELA_CRIMSONORIGIN,Hunger & Thirst: Queen's Arsenal
+ID_OF_NA_HUNGERTHIRST_ZOMBIEIRONMAN_A19_ABM,Hunger & Thirst: Fearsome Power
+ID_OF_NA_HUNGERTHIRST_TEAL_UNIQUES,Hunger & Thirst: Rotting Equipment
+ID_OF_NA_HUNGERTHIRST_OATH_TEAM_ORB,Hunger & Thirst: Vampiric Vow
+ID_OF_NA_HUNGERTHIRST_MANTHING_TEAL,Hunger & Thirst: Swampborne Mystery
+ID_OF_NA_HUNGERTHIRST_ZJ_FREECLAIM,Hunger & Thirst: Free Claim
+ID_OF_NA_HUNGERTHIRST_HELA_GEAR_FCFINTERSTITIAL,Hunger & Thirst: Queen's Jewellery
+ID_OF_NA_HUNGERTHIRST_ZOMBIEJUGGERNAUT4,Hunger & Thirst: Formidable Threat
+ID_OF_NA_HUNGERTHIRST_MANTHING_TEAM_ORB,Hunger & Thirst: Nexus Guardian
+ID_OF_NA_HUNGERTHIRST_A19_TRAIN,Hunger & Thirst: Training Boost
+ID_OF_NA_HUNGERTHIRST_DDC,Hunger & Thirst: Extreme Darkness
+ID_OF_NA_HUNGERTHIRST_MANTHING_CRIMSON,Hunger & Thirst: Swamp's Secrets
+ID_OF_NA_HUNGERTHIRST_ZOMBIEIRONMAN_A19,Hunger & Thirst: Dead Protocol
+ID_OF_NA_HUNGERTHIRST_DIAMOND_GOLD,Hunger & Thirst: Shining Shadows
+ID_OF_NA_HUNGERTHIRST_FULL_TEAM_ZOMBIE_TRAIN,Hunger & Thirst: Master the Undead
+ID_OF_NA_HUNGERTHIRST_TEAL_MINIUNIQUES,Hunger & Thirst: Teal in Shadows
+ID_OF_NA_HUNGERTHIRST_ISO_CRYSTALS_T2L3,Hunger & Thirst: Iso of Death
+ID_OF_NA_HUNGERTHIRST_FULL_TEAM_VAMPIRES_CRIM_CAT,Hunger & Thirst: Vampires Unleashed
+ID_OF_DE_HUNGERTHIRST_ZOMBIEJUGGERNAUT1,"Unleash the terror of the <color=#fff568>Juggernaut (Zombie)</color>! His hunger for brains is greater than ever. Combined with unmatched strength, he is ready to crush any obstacle!"
+ID_OF_DE_HUNGERTHIRST_ZOMBIEIRONMAN_T3_IONS_T3_BRAWLER,Unleash <color=#fff568>Iron Man (Zombie)</color> and decay your competition with this dreaded powerhouse and his Undying teammates!
+ID_OF_DE_HUNGERTHIRST_ZOMBIEIRONMAN_CRIMSONORIGIN,"With a decayed suit and relentless power, this undead version of Iron Man takes flight in a terrifying way. Don�t miss your chance to bolster this brain eating machine!"
+ID_OF_DE_HUNGERTHIRST_ZOMBIEIRONMAN_A19_DPC,Power up <color=#fff568>Iron Man (Zombie)</color> and stitch together your Undying team to bury opponents!
+ID_OF_DE_HUNGERTHIRST_GOLD,Discover hidden gold in a post-apocalyptic zombie world! Will you claim your fortune or fall to the zombies?
+ID_OF_DE_HUNGERTHIRST_VAMPIRE_TRIO_TEAM_ORB,"Join the ultimate hunting trio featuring <color=#fff568>Blade</color>, <color=#fff568>Man-Thing</color>, and <color=#fff568>Oath</color>! Dive into thrilling adventures as they team up to take down supernatural foes and dominate the hunt!"
+ID_OF_DE_HUNGERTHIRST_ZOMBIEJUGGERNAUT2,"Unleash the terror of the <color=#fff568>Juggernaut (Zombie)</color>! His hunger for brains is greater than ever. Combined with unmatched strength, he is ready to crush any obstacle!"
+ID_OF_DE_HUNGERTHIRST_DPC,Darkened stars to help you raise the Red Star ranks of Undying team!
+ID_OF_DE_HUNGERTHIRST_BLADE_TEAM_ORB,Blade Nightstalker Orbs are here! Gather your team and let's go hunt!
+ID_OF_DE_HUNGERTHIRST_ZOMBIEJUGGERNAUT3,"Unleash the terror of the <color=#fff568>Juggernaut (Zombie)</color>! His hunger for brains is greater than ever. Combined with unmatched strength, he is ready to crush any obstacle!"
+ID_OF_DE_HUNGERTHIRST_HELA_A19_DPC,Take the Dark Queen to the pinnacle of her maximum power. Team up with Undying team members to dominate foes!
+ID_OF_DE_HUNGERTHIRST_HELA_CRIMSONORIGIN,"Join <color=#fff568>Hela</color> in her quest for ultimate power and dominance! Embrace the darkness, strengthen your forces and enhance your team's abilities!"
+ID_OF_DE_HUNGERTHIRST_ZOMBIEIRONMAN_A19_ABM,Stock up on Ability Materials with this special deal! Unlock your team's power even more and terrorize enemies on the battlefield!
+ID_OF_DE_HUNGERTHIRST_TEAL_UNIQUES,Make your zombie army even scarier! Bring the fright to your enemies with this bundle of Teal Gear Uniques!
+ID_OF_DE_HUNGERTHIRST_OATH_TEAM_ORB,Oath Nightstalker Orbs are here! Gather your team and let's go hunt!
+ID_OF_DE_HUNGERTHIRST_MANTHING_TEAL,Equip yourself with exclusive gears of the enigmatic Man-Thing! Enhance your powers and immersing enemies in the swampy mystique!
+ID_OF_DE_HUNGERTHIRST_ZJ_FREECLAIM,"Power up for the apocalypse with this monstrous, unstoppable force at no cost! Don't miss your chance to dominate the battlefield! Claim your <color=#fff568>Juggernaut (Zombie)</color> shards now before it's too late!"
+ID_OF_DE_HUNGERTHIRST_HELA_GEAR_FCFINTERSTITIAL,The Queen won't wait for you to accept her offer! Don't miss this short window to purchase this one-time offer! This offer only lasts for as long as this window is open!
+ID_OF_DE_HUNGERTHIRST_ZOMBIEJUGGERNAUT4,"Unleash the terror of the <color=#fff568>Juggernaut (Zombie)</color>! His hunger for brains is greater than ever. Combined with unmatched strength, he is ready to crush any obstacle!"
+ID_OF_DE_HUNGERTHIRST_MANTHING_TEAM_ORB,Man-Thing Nightstalker Orbs are here! Gather your team and let's go hunt!
+ID_OF_DE_HUNGERTHIRST_A19_TRAIN,Make your favorite characters even more monstrous with this pack of Training Modules.
+ID_OF_DE_HUNGERTHIRST_DDC,"The darkest, most tainted one gives you the best promotion! Strengthen your team and advance further and further on the destructive road ahead!"
+ID_OF_DE_HUNGERTHIRST_MANTHING_CRIMSON,Dive into the heart of the swamp and equip yourself with powerful gears that amplifies your strength! Channel the raw energy of the Man-Thing and become an unstoppable force!
+ID_OF_DE_HUNGERTHIRST_ZOMBIEIRONMAN_A19,"Gear up <color=#fff568>Iron Man (Zombie)</color> with exclusive items that blend high-tech design with a terrifying twist. Show your enemies that even in death, he is a force to be reckoned with!"
+ID_OF_DE_HUNGERTHIRST_DIAMOND_GOLD,Step into the shadows and unveil the exclusive rewards which glimmer with unmatched allure! Elevate your collection and dominate the night with these stunning Diamond Promotion Credits!
+ID_OF_DE_HUNGERTHIRST_FULL_TEAM_ZOMBIE_TRAIN,"Assemble your undead forces, strategize your attacks, and dominate the battlefield! Don't miss out on this chance to unleash chaos. Grab your offer now!"
+ID_OF_DE_HUNGERTHIRST_TEAL_MINIUNIQUES,Snatch up a bundle of Teal Gear Mini-Uniques to prepare yourself for the greater challenges!
+ID_OF_DE_HUNGERTHIRST_ISO_CRYSTALS_T2L3,Transform your favorite characters with this limited-time deal on T2 ISO Crystals!
+ID_OF_DE_HUNGERTHIRST_FULL_TEAM_VAMPIRES_CRIM_CAT,"Unleash a horde of fearsome vampire warriors to crush your enemies. Take advantage of exclusive catalysts to strengthen your team, rule the night and claim victory!"
+ID_OF_NA_ZOMBIEINVASION_DAILY_ECM,Zombie Invasion: Daily Showcase
+ID_OF_DE_ZOMBIEINVASION_DAILY_ECM,Get your daily Dead of Night energy fix to get ahead in the <color=#fff568>Zombie Invasion</color> Milestone!
+ID_OF_NA_HAUNTEDHOUR_CATCHUP,Haunted Catch-Up
+ID_OF_DE_HAUNTEDHOUR_CATCHUP,Catch up on Haunted Hour Milestone event progress to earn the Agatha Harkness (Wandavision) costume before it's too late!
+ID_OF_NA_BWPREP24WK3_DC_STEP7,(7/7) Building Up Your Skills
+ID_OF_NA_BWPREP24WK3_DC_STEP6,(6/7) Building Up Your Skills
+ID_OF_NA_BWPREP24WK3_DC_STEP5,(5/7) Building Up Your Skills
+ID_OF_NA_BWPREP24WK3_DC_STEP4,(4/7) Building Up Your Skills
+ID_OF_NA_BWPREP24WK3_DC_STEP3,(3/7) Building Up Your Skills
+ID_OF_NA_BWPREP24WK3_DC_STEP2,(2/7) Building Up Your Skills
+ID_OF_NA_BWPREP24WK3_DC_STEP1,(1/7) Building Up Your Skills
+ID_OF_DE_BWPREP24WK3_DC_STEP7,The summit can be reached anyone and everyone with the will! You've reached the final step!
+ID_OF_DE_BWPREP24WK3_DC_STEP6,The sharpest eyes illuminate one's path towards progression! Enjoy this special offer and continue to the next step!
+ID_OF_DE_BWPREP24WK3_DC_STEP5,Take a breath to enjoy the quality of the moment! Enjoy this special offer and continue to the next step!
+ID_OF_DE_BWPREP24WK3_DC_STEP4,Look ahead for the promotion you want! Enjoy this special offer and continue to the next step!
+ID_OF_DE_BWPREP24WK3_DC_STEP3,Every action builds your capital up! Enjoy this special offer and continue to the next step!
+ID_OF_DE_BWPREP24WK3_DC_STEP2,Training has begun! Enjoy this special offer and continue to the next step!
+ID_OF_DE_BWPREP24WK3_DC_STEP1,Begin the journey in honing your skills for Battleworld with this free first step!

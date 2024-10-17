@@ -24,7 +24,7 @@ ID_MOTD_DE_CHALLENGES_TIER_UPDATE,Test your abilities with new extended tiers to
 ID_MOTD_NA_CHALLENGES_TIER_18,New Challenge Tiers have Arrived!
 ID_MOTD_DE_CHALLENGES_TIER_18,Test your abilities with new extended tiers to earn more rewards
 ID_MOTD_NA_MAINTENANCE_GENERAL,Upcoming Maintenance
-ID_MOTD_DE_MAINTENANCE_GENERAL,We will undergo maintenance starting at 8:00 AM (PDT) (10/08).
+ID_MOTD_DE_MAINTENANCE_GENERAL,Live Maintenance - 6/27 - 9:30PM PT - See Inbox for details.
 ID_MOTD_NA_META_PLAYER_GUIDE,Meta Player Guide
 ID_MOTD_DE_META_PLAYER_GUIDE,Tap here to learn how to start planning your progress and roster goals
 ID_MOTD_NA_DARKDIMENSION,Dark Dimension
@@ -3077,6 +3077,8 @@ ID_MOTD_NA_GREATWHITENORTH_ANNOUNCE,LIVE: The Great White North
 ID_MOTD_DE_GREATWHITENORTH_ANNOUNCE,Earn Crimson Skill Gear!
 ID_MOTD_NA_GREATWHITENORTH_ENDING,Ending Soon: The Great White North
 ID_MOTD_DE_GREATWHITENORTH_ENDING,Earn Crimson Skill Gear!
+ID_MOTD_NA_RAID_DARKDIMENSIONVIII_LIVE,Live: Dark Dimension VIII
+ID_MOTD_DE_RAID_DARKDIMENSIONVIII_LIVE,Unlock Odin and other valuable rewards!
 ID_MOTD_NA_WINTERINJUNE_ANNOUNCE,Web Milestone: Winter In June
 ID_MOTD_DE_WINTERINJUNE_ANNOUNCE,Link your account to earn more rewards on web!
 ID_MOTD_NA_COMINGOUT_ANNOUNCE,LIVE: Coming Out!
@@ -3247,9 +3249,9 @@ ID_MOTD_DE_PPCHILLOUT_ANNOUNCE,"Earn Mutant Gear, resources, and some Mega Gold 
 ID_MOTD_NA_PPCHILLOUT_ENDING,Ending Soon: POOL Party: Chill Out
 ID_MOTD_DE_PPCHILLOUT_ENDING,Don't miss out on Mutant Gear and Mega Gold Orbs!
 ID_MOTD_NA_PPDRYOFF_ANNOUNCE,LIVE: POOL Party: Dry OFF
-ID_MOTD_DE_PPDRYOFF_ANNOUNCE,"Earn Bio Gear, the NicePool costume and the POOL Portrait avatar frame!"
+ID_MOTD_DE_PPDRYOFF_ANNOUNCE,"Earn Bio Gear, the Hotpool costume and the POOL Portrait avatar frame!"
 ID_MOTD_NA_PPDRYOFF_ENDING,Ending Soon: POOL Party: Dry Off
-ID_MOTD_DE_PPDRYOFF_ENDING,Don't miss out on the NicePool costume and the POOL Portrait avatar frame!
+ID_MOTD_DE_PPDRYOFF_ENDING,Don't miss out on the Hotpool costume and the POOL Portrait avatar frame!
 ID_MOTD_NA_QUANTUMDISCO_ANNOUNCE,LIVE: Quantum Disco
 ID_MOTD_DE_QUANTUMDISCO_ANNOUNCE,Don't miss out on T3 Support Iso-8 Orb Fragments and T3 Level 1 Ions!
 ID_MOTD_NA_QUANTUMDISCO_ENDING,Ending Soon: Quantum Disco
@@ -3311,16 +3313,24 @@ ID_MOTD_NA_THEANNIHILATORINITIATIVE_ENDING,Ending Soon: The Annihilator Initiati
 ID_MOTD_DE_THEANNIHILATORINITIATIVE_ENDING,Earn Teal Bio Gear before the event ends!
 ID_MOTD_NA_TEAMORB_GORR_ANNOUNCE,LIVE: Gorr's Hunt
 ID_MOTD_DE_TEAMORB_GORR_ANNOUNCE,Get additional shards for Gorr!
-ID_MOTD_NA_TEAMORB_THANOS_ANNOUNCE,LIVE: Thanos' Crusade
-ID_MOTD_DE_TEAMORB_THANOS_ANNOUNCE,Get additional shards for Thanos (Endgame)!
-ID_MOTD_NA_BATTLEPASS_SEASON28_ANNOUNCE,LIVE: Season 28 of Battle Pass
-ID_MOTD_DE_BATTLEPASS_SEASON28_ANNOUNCE,Complete Objectives to earn Ares shards and more!
 ID_MOTD_NA_COSMICTHREAT_ANNOUNCE,LIVE: Cosmic Threat
 ID_MOTD_DE_COSMICTHREAT_ANNOUNCE,Earn Cosmic Power and a chance at Crimson Mystic Gear
 ID_MOTD_NA_COSMICTHREAT_ENDING,Ending Soon: Cosmic Threat
 ID_MOTD_DE_COSMICTHREAT_ENDING,Don't miss out on Cosmic Power and a chance at Crimson Mystic Gear!
 ID_MOTD_NA_GALACTICPERIL_ANNOUNCE,Web Milestone: Galactic Peril
 ID_MOTD_DE_GALACTICPERIL_ANNOUNCE,Battle in Raid for more rewards on the web!
+ID_MOTD_SD_PREVIEW_NAME,COMING SOON: Shattered Dimension
+ID_MOTD_SD_PREVIEW_DESC,New Pocket Dimension featuring Annihilators & Illuminati!
+ID_MOTD_SD_LIVE_NAME,NOW LIVE: Shattered Dimension
+ID_MOTD_SD_LIVE_DESC,New Pocket Dimension featuring Illuminati & Annihilator!
+ID_MOTD_SD_ENDING_NAME,ENDING SOON: Shattered Dimension
+ID_MOTD_SD_ENDING_DESC,Shattered Dimension is ending soon!
+ID_MOTD_NA_PPWRAPUP_ANNOUNCE,LIVE: POOL Party: Wrap Up
+ID_MOTD_DE_PPWRAPUP_ANNOUNCE,"Earn POOL Party Orbs, Gold, Training Modules, and more!"
+ID_MOTD_NA_TEAMORB_THANOS_ANNOUNCE,LIVE: Thanos' Crusade
+ID_MOTD_DE_TEAMORB_THANOS_ANNOUNCE,Get additional shards for Thanos (Endgame)!
+ID_MOTD_NA_BATTLEPASS_SEASON28_ANNOUNCE,LIVE: Season 28 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON28_ANNOUNCE,Complete Objectives to earn Ares shards and more!
 ID_MOTD_NA_THANOSENDGAME_TEASER,Soon: Thanos (Endgame)
 ID_MOTD_DE_THANOSENDGAME_TEASER,A titanic threat looms…
 ID_MOTD_NA_THANOSENDGAME_ANNOUNCE,Thanos (Endgame) is here!
@@ -3344,21 +3354,13 @@ ID_MOTD_NA_GREATERPOWER_ANNOUNCE,Web Milestone: A Greater Power
 ID_MOTD_DE_GREATERPOWER_ANNOUNCE,Spend Radioactive Treats and reap more rewards on the web!
 ID_MOTD_NA_TOLERANCEISEXTINCTION_ANNOUNCE,LIVE: Tolerance is Extinction
 ID_MOTD_DE_TOLERANCEISEXTINCTION_ANNOUNCE,Earn Cosmic Power and Ciphers!
-ID_MOTD_NA_BATTLEPASS_SEASON29_ANNOUNCE,LIVE: Season 29 of Battle Pass
-ID_MOTD_DE_BATTLEPASS_SEASON29_ANNOUNCE,Complete Objectives to earn Ares shards and more!
-ID_MOTD_SD_PREVIEW_NAME,COMING SOON: Shattered Dimension
-ID_MOTD_SD_PREVIEW_DESC,New Pocket Dimension featuring Annihilators & Illuminati!
-ID_MOTD_SD_LIVE_NAME,NOW LIVE: Shattered Dimension
-ID_MOTD_SD_LIVE_DESC,New Pocket Dimension featuring Illuminati & Annihilator!
-ID_MOTD_SD_ENDING_NAME,ENDING SOON: Shattered Dimension
-ID_MOTD_SD_ENDING_DESC,Shattered Dimension is ending soon!
-ID_MOTD_NA_PPWRAPUP_ANNOUNCE,LIVE: POOL Party: Wrap Up
-ID_MOTD_DE_PPWRAPUP_ANNOUNCE,"Earn POOL Party Orbs, Gold, Training Modules, and more!"
 ID_MOTD_NA_SENTINEL_TEASER,Soon: Sentinel
 ID_MOTD_DE_SENTINEL_TEASER,Enforce peace and order with Sentinel!
 ID_MOTD_NA_SENTINEL_ANNOUNCE,Sentinel is here!
 ID_MOTD_DE_SENTINEL_ANNOUNCE,Enforce peace and order with Sentinel!
 ID_MOTD_DE_SENTINEL_ANNOUNCE2,Open the Halt Mutant Orb to earn shards for Sentinel!
+ID_MOTD_NA_BATTLEPASS_SEASON29_ANNOUNCE,LIVE: Season 29 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON29_ANNOUNCE,Complete Objectives to earn Ares shards and more!
 ID_MOTD_NA_ANNIHILATORSASSEMBLY_ANNOUNCE,Web Milestone: Annihilators' Assembly
 ID_MOTD_DE_ANNIHILATORSASSEMBLY_ANNOUNCE,"Get additional shards for Gladiator, Gorr & Thanos (Endgame) on the web!"
 ID_MOTD_NA_TEAMORB_SENTINEL_ANNOUNCE,LIVE: Sentinel's Siege
@@ -3395,10 +3397,14 @@ ID_MOTD_NA_FALLOFTHEMUTANTS_ENDING,Ending Soon: Fall of the Mutants
 ID_MOTD_DE_FALLOFTHEMUTANTS_ENDING,Don't miss out on Sentinel Scraps and T3 Level 1 Ions!
 ID_MOTD_NA_S-DAY_ANNOUNCE,Web Milestone: S-Day
 ID_MOTD_DE_S-DAY_ANNOUNCE,Link your account to earn more rewards on web!
-ID_MOTD_NA_RAID_DARKDIMENSIONVIII_LIVE,Live: Dark Dimension VIII
-ID_MOTD_DE_RAID_DARKDIMENSIONVIII_LIVE,Unlock Odin and other valuable rewards!
+ID_MOTD_NA_OMEGATOWER_TEASER,Coming Soon: Omega Assault
+ID_MOTD_DE_OMEGATOWER_TEASER,Omega Assault Event is coming soon! Prepare your toughest allies so they can battle their way up through 6 new challenging floors!
+ID_MOTD_NA_OMEGATOWER_LIVE,LIVE: Omega Assault Event
+ID_MOTD_DE_OMEGATOWER_LIVE,"Complete all 52 floors, including 6 new floors and earn Crimson Gear!"
 ID_MOTD_NA_OMLPREP_ANNOUNCE,LIVE: Back to the Wasteland
 ID_MOTD_DE_OMLPREP_ANNOUNCE,Prepare for the Old Man Logan Trials!
+ID_MOTD_NA_STRIKESHOWDOWN_ANNOUNCE,LIVE: S.T.R.I.K.E. Showdown
+ID_MOTD_DE_STRIKESHOWDOWN_ANNOUNCE,Battle in Arena for amazing rewards to boost your roster!
 ID_MOTD_NA_OPERATION_OMEGA_ANNOUNCE,LIVE: Operation: Omega
 ID_MOTD_DE_OPERATION_OMEGA_ANNOUNCE,"Don't miss out on T3 Iso-8 Credits, T3 Level 1 Ions and Crimson Gear"
 ID_MOTD_NA_OPERATION_OMEGA_ENDING,Ending Soon: Operation: Omega
@@ -3435,10 +3441,6 @@ ID_MOTD_DE_BLADE_ANNOUNCE,Raise the stakes with the Daywalker!
 ID_MOTD_DE_BLADE_ANNOUNCE2,Open the Daywalker Orb to earn shards for Blade!
 ID_MOTD_NA_SCARLETSURGE_ANNOUNCE,LIVE: Scarlet Surge
 ID_MOTD_DE_SCARLETSURGE_ANNOUNCE,Battle in Raid for amazing rewards to boost your roster!
-ID_MOTD_NA_OMEGATOWER_TEASER,Coming Soon: Omega Assault
-ID_MOTD_DE_OMEGATOWER_TEASER,Omega Assault Event is coming soon! Prepare your toughest allies so they can battle their way up through 6 new challenging floors!
-ID_MOTD_NA_OMEGATOWER_LIVE,LIVE: Omega Assault Event
-ID_MOTD_DE_OMEGATOWER_LIVE,"Complete all 52 floors, including 6 new floors and earn Crimson Gear!"
 ID_MOTD_DE_THEDARKFUTURE2_ANNOUNCE,Earn Silver Bullets and Ciphers!
 ID_MOTD_NA_TEAMORB_BLADE_ANNOUNCE,LIVE: Blade's Dark Hunt
 ID_MOTD_DE_TEAMORB_BLADE_ANNOUNCE,Get additional Daywalker Orbs!
@@ -3465,6 +3467,16 @@ ID_MOTD_NA_COMMANDERSCONQUEST_ANNOUNCE,LIVE: Commander's Conquest
 ID_MOTD_DE_COMMANDERSCONQUEST_ANNOUNCE,Battle in Cosmic Crucible and War for amazing rewards!
 ID_MOTD_NA_BATTLEWORLDPREPARATION_ANNOUNCE,LIVE: Battleworld Preparation
 ID_MOTD_DE_BATTLEWORLDPREPARATION_ANNOUNCE,"Campaign, Raid, and battle in Arena for amazing rewards!"
+ID_MOTD_NA_ECM_HALLOWEEN24_PREVIEW,COMING SOON: Red Dead Rematch
+ID_MOTD_DE_ECM_HALLOWEEN24_PREVIEW,Earn rewards by battling with Undying!
+ID_MOTD_NA_ECM_HALLOWEEN24_LIVE,LIVE: Red Dead Rematch
+ID_MOTD_DE_ECM_HALLOWEEN24_LIVE,Earn rewards by battling with Undying!
+ID_MOTD_NA_ECM_HALLOWEEN24_ENDING,ENDING SOON: Red Dead Rematch
+ID_MOTD_DE_ECM_HALLOWEEN24_ENDING,The Red Dead Rematch event is ending soon!
+ID_MOTD_NA_SPIDERVILLAINS,Sinister Skirmishes: Now Live!
+ID_MOTD_DE_SPIDERVILLAINS,Battle for a chance to win SPIDER-VERSE VILLAIN shards!
+ID_MOTD_NA_XTREMEXM,X-treme Training: Now Live!
+ID_MOTD_DE_XTREMEXM,Battle for a chance to win X-TREME X-MEN shards!
 ID_MOTD_NA_MANTHING_ANNOUNCE,Man-Thing is here!
 ID_MOTD_DE_MANTHING_ANNOUNCE,Welcome to Man-Thing's swamp! Enemies enter but never leave!
 ID_MOTD_DE_MANTHING_ANNOUNCE2,Open the Swamp Sovereign Orb to earn shards for Man-Thing!
@@ -3472,3 +3484,29 @@ ID_MOTD_NA_MANTHING_TEASER,Soon: Man-Thing
 ID_MOTD_DE_MANTHING_TEASER,A Hulking Monstrosity Approaches…
 ID_MOTD_NA_BATTLEPASS_SEASON32_ANNOUNCE,LIVE: Season 32 of Battle Pass
 ID_MOTD_DE_BATTLEPASS_SEASON32_ANNOUNCE,Complete Objectives to earn Juggernaut (Zombie) shards and more!
+ID_MOTD_NA_ZOMBIEINVASION_ANNOUNCE,LIVE: Zombie Invasion
+ID_MOTD_DE_ZOMBIEINVASION_ANNOUNCE,"Earn Silver Bullets, T3 Iso-8 Ions, and Crimson Skill Gear!"
+ID_MOTD_NA_ZOMBIEINVASION_ENDING,ENDING: Zombie Invasion
+ID_MOTD_DE_ZOMBIEINVASION_ENDING,Don't miss out on T3 Iso-8 Ions and Crimson Skill Gear!
+ID_MOTD_NA_ZOMBIE_HALLOWEEN24_PREVIEW,COMING SOON: The Hunger
+ID_MOTD_DE_ZOMBIE_HALLOWEEN24_PREVIEW,Earn rewards by battling with Undying!
+ID_MOTD_NA_ZOMBIE_HALLOWEEN24_LIVE,LIVE: The Hunger
+ID_MOTD_DE_ZOMBIE_HALLOWEEN24_LIVE,Earn rewards by battling with Undying!
+ID_MOTD_NA_ZOMBIE_HALLOWEEN24_ENDING,ENDING SOON: The Hunger
+ID_MOTD_DE_ZOMBIE_HALLOWEEN24_ENDING,The Hunger challenge is ending soon!
+ID_MOTD_NA_VAMPIRE_HALLOWEEN24_PREVIEW,COMING SOON: The Thirst
+ID_MOTD_DE_VAMPIRE_HALLOWEEN24_PREVIEW,Earn rewards by battling with Nightstalker!
+ID_MOTD_NA_VAMPIRE_HALLOWEEN24_LIVE,LIVE: The Thirst
+ID_MOTD_DE_VAMPIRE_HALLOWEEN24_LIVE,Earn rewards by battling with Nightstalker!
+ID_MOTD_NA_VAMPIRE_HALLOWEEN24_ENDING,ENDING SOON: The Thirst
+ID_MOTD_DE_VAMPIRE_HALLOWEEN24_ENDING,The Thirst challenge is ending soon!
+ID_MOTD_NA_TEAMORB_MANTHING_ANNOUNCE,LIVE: Man-Thing Mash
+ID_MOTD_DE_TEAMORB_MANTHING_ANNOUNCE,Get additional Swamp Sovereign Orbs!
+ID_MOTD_NA_TEAMORB_MANTHING_ENDING,Ending Soon: Man-Thing Mash
+ID_MOTD_DE_TEAMORB_MANTHING_ENDING,Don't miss out on additional Swamp Sovereign Orbs!
+ID_MOTD_NA_BATTLEWORLDREADINESS_ANNOUNCE,LIVE: Battleworld Readiness
+ID_MOTD_DE_BATTLEWORLDREADINESS_ANNOUNCE,"Campaign, Raid, and battle in Arena for amazing rewards!"
+ID_MOTD_NA_HAUNTEDHOUR_ANNOUNCE,LIVE: Haunted Hour
+ID_MOTD_DE_HAUNTEDHOUR_ANNOUNCE,"Earn Crimson Gear, costumes and more!"
+ID_MOTD_NA_HAUNTEDHOUR_ENDING,Ending Soon: Haunted Hour
+ID_MOTD_DE_HAUNTEDHOUR_ENDING,Don't miss out on Crimson Gear!

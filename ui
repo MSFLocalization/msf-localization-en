@@ -105,7 +105,9 @@ ID_DAILY_MISSIONS_RESET,OBJECTIVES RESET
 ID_DAILY_REWARDS_MONTH_HEADER,{month} Rewards
 ID_DAILY_REWARDS_TITLE,LOGIN CALENDAR
 ID_DAY_NUMBER,Day {num}
+ID_VICTORY,VICTORY
 ID_DEFEAT,DEFEAT
+ID_FINISH,FINISH
 ID_DEFEAT_MSG,"We weren't strong enough this time, Commander. Upgrade the characters in our roster by using Training Modules, equipping gear, and ranking up characters."
 ID_DIFFICULTY_EASY,EASY
 ID_DIFFICULTY_HARD,HARD
@@ -515,6 +517,7 @@ ID_QUANTITY_OF_TOTAL_CONDENSED,{qty}/{total}
 ID_QUANTITY_OF_TOTAL_CONDENSED_COLOR,<color={colorHex}>{qty}</color>/{total}
 ID_QUANTITY_OWNED,You own: {qty}
 ID_QUANTITY_OWNED_COLOR,You own: <color={colorHex}>{qty}</color>
+ID_QUANTITY_ALLIANCE_OWNED_COLOR,Your alliance own: <color={colorHex}>{qty}</color>
 ID_QUANTITY_RANK,#{rank}
 ID_QUANTITY_REMAINING,{qty}/{total} remaining
 ID_QUANTITY_REMAINING_SHORT,{qty} remaining
@@ -831,6 +834,7 @@ ID_UI_GET_CHARACTERS,GET CHARACTERS
 ID_UI_GET_HEROES,GET HEROES
 ID_UI_GET_VILLAINS,GET VILLAINS
 ID_UI_GO,GO
+ID_UI_CONTINUE,CONTINUE
 ID_UI_HERO_NOT_OWNED,HERO NOT OWNED
 ID_UI_INBOX,INBOX
 ID_UI_KEEP_BATTLING_TO_UNLOCK,Keep battling to unlock
@@ -1001,6 +1005,9 @@ ID_UI_MISSION_CHAR_ONLY,ONLY MISSION CHARACTERS ALLOWED
 ID_UI_PLAY_WITH_MISSION_CHAR,PLAY WITH MISSION CHARACTERS
 ID_UI_MISSION_CHAR_ONLY_DESC,Characters from<color=#f7941d> your roster </color>are unavailable for this mission. Only mission-provided characters can be used.
 ID_UI_PLAY_WITH_MISSION_CHAR_DESC,This character is unavailable for this mission. Only mission-provided characters and available characters can be used.
+ID_UI_ADD,ADD
+ID_UI_REMOVE,REMOVE
+ID_UI_SENT,SENT
 ID_UNLOCK_MISSION_TEASE,COMPLETE MISSION {mission} TO UNLOCK
 ID_UNLOCK_TEASE,KEEP PLAYING TO UNLOCK
 ID_UPGRADE,UPGRADE
@@ -1072,6 +1079,7 @@ ID_STORE_NAME_CONVERSION,ELITE
 ID_STORE_NAME_SHARD_CONVERSION,ULTRA
 ID_STORE_NAME_SYNC_PVP,VS ARENA
 ID_STORE_NAME_SKIN,COSTUMES
+ID_STORE_NAME_BATTLEWORLD,SIEGE
 ID_STORE_FREE,FREE
 ID_STORE_CONFIRM_SPEND,You are about to spend Power Cores! Are you sure you want to do this?
 ID_STORE_NO_OFFERS_FOUND,Check back later for more fantastic offers!
@@ -1159,10 +1167,12 @@ ID_UI_FINDER_WAR_SUPPLIES,War Supplies
 ID_UI_FINDER_CONVERSION_SUPPLIES,Elite Supplies
 ID_UI_FINDER_ISO_SUPPLIES,Iso-8 Supplies
 ID_UI_FINDER_GT_SUPPLIES,Crucible Supplies
+ID_UI_FINDER_BW_SUPPLIES,Battleworld Supplies
 ID_UI_DETAILS,Details
 ID_EVENT_CAMPAIGN_TYPE_USP,SPIDER-MAN (MILES)
 ID_EVENT_CAMPAIGN_TYPE_WM,WAR MACHINE
 ID_RESOURCE_REFILLED_REMAINING,REFILLS REMAINING <color=#ffffff>: </color><color={colorHex}>{count}</color>
+ID_RESOURCE_DEFAULT_REFILLS_MESSAGE,Placeholder message
 ID_EVENT_CAMPAIGN_TYPE_KR,KREE
 ID_UI_CONTRIBUTIONS,PARTICIPATION
 ID_EVENT_REWARDS,REWARDS
@@ -1209,6 +1219,7 @@ ID_EVENT_CAMPAIGN_TYPE_STORY,STORY
 ID_EVENT_CAMPAIGN_TYPE_CHALLENGE,CHALLENGE
 ID_EVENT_CAMPAIGN_TYPE_KAMALA,MS. MARVEL (HARD LIGHT)
 ID_EVENT_CAMPAIGN_TYPE_HALLOWEEN23,INFECTED
+ID_EVENT_CAMPAIGN_TYPE_HALLOWEEN24,UNDYING
 ID_OFFER_AND,AND
 ID_OFFER_OR,OR
 ID_CHAL_UNLOCK,UNLOCK
@@ -1298,6 +1309,7 @@ ID_OPTIONS_AUTOPLAY_IDLE_BATTLEGROUNDS,Combat inactivity triggers Autoplay in Ar
 ID_OPTIONS_AUTOPLAY_IDLE_AVA,Combat inactivity triggers Autoplay in War after {idleThresholdSeconds} seconds
 ID_OPTIONS_MODOK_MODE,"""Suspicious"" Toggle"
 ID_CAMPAIGN_FTR_REWARDS_INCLUDED,Includes First Time Rewards from Lower Difficulties
+ID_SELECT_BATTLEWORLD_MESSAGE,EACH CHARACTER CAN BE USED ONLY <color=#fff568>ONCE</color> PER DAY
 ID_SELECT_GT_MESSAGE,EACH CHARACTER CAN BE USED ONLY <color=#fff568>ONCE</color> TO ATTACK
 ID_UI_COPY,Copy
 ID_UI_PASTE,Paste
@@ -1480,6 +1492,8 @@ ID_FRAME_AUG2META2024_NAME,Cosmic Power
 ID_FRAME_AUG2META2024_UNLOCK,Via the Annihilator Initiative Event
 ID_FRAME_CC_TOP100_01_NAME,Cosmic Crucible Top 100
 ID_FRAME_CC_TOP100_01_UNLOCK,Via Cosmic Crucible Leaderboard - season 10
+ID_FRAME_CC_TOP100_02_NAME,Cosmic Crucible Top 100
+ID_FRAME_CC_TOP100_02_UNLOCK,Via Cosmic Crucible Leaderboard - season 11
 ID_FRAME_OCTOBER2024_NAME,Midnight Mantle Player Frame
 ID_FRAME_OCTOBER2024_UNLOCK,Via the Midnight Hunt event
 ID_EVENT_SURVIVAL_EVENT,Survival
@@ -1576,7 +1590,29 @@ ID_FRAME_SUMMER2024_UNLOCK,Via the POOL Party: Dry Off event
 ID_DOWNLOADSIZE_POPUP_TITLE,Download Assets
 ID_DOWNLOADSIZE_POPUP_BODY,<b><color=#FFFFFF>MARVEL Strike Force</color></b> needs to download an additional <b><color=#FFFFFF>{mb}mb</color></b> of data. You may wish to connect to a Wi-Fi network before continuing to avoid data charges.
 ID_DOWNLOADSIZE_POPUP_BUTTON,START
+ID_MISSION_COMBAT_MODS,Combat Mods
+ID_COUNT_TEXT_OVERRIDE_PERCENT_QUANTITY,x{qty}%
+ID_COUNT_TEXT_OVERRIDE_PER_TIER_QUANTITY,x{qty}\nper tier
+ID_GIFTS_AUTO_CLAIMED_GIFTS_HEADER,Auto-Claimed Gifts
+ID_GIFTS_AUTO_CLAIMED_GIFTS_SUBHEADER,Your gifts have been automatically claimed.
+ID_GIFTS_ERROR_HEADER,Error
+ID_GIFTS_CONTINUE_BUTTON,Continue
+ID_GIFTS_OK_BUTTON,OK
+ID_ERROR_GIFT_EXPIRED_TITLE,Gift Expired
+ID_ERROR_GIFT_EXPIRED_BODY,Sorry Commander this gift has expired. Keep looking for more gift opportunities from Marvel Strike Force.
+ID_ERROR_GIFT_ALREADY_REDEEMED_TITLE,Gift Already Redeemed
+ID_ERROR_GIFT_ALREADY_REDEEMED_BODY,Good news Commander you already successfully redeemed this gift. No changes were made to your inventory.
+ID_ERROR_GIFT_CRITERIA_NOT_MET_TITLE,Gift Criteria Not Met
+ID_ERROR_GIFT_CRITERIA_NOT_MET_BODY,Sorry Commander it looks like you're not eligible to redeem this gift. Some gifts are limited to STRIKE's newest commanders and other restrictions may apply. Keep looking for more gift opportunities from Marvel Strike Force.
+ID_ERROR_UNEXPECTED_TITLE,Gift Not Redeemed
+ID_ERROR_UNEXPECTED_BODY,Sorry Commander we couldn't redeem this gift for you at this time. Please try again later.
+ID_ERROR_MAX_RETRIES_TITLE,Gift Not Redeemed
+ID_ERROR_MAX_RETRIES_BODY,Sorry Commander we couldn't redeem this gift after multiple attempts. Please try again later.
 ID_FRAME_SEPMETA2024_NAME,Metal Titan
 ID_FRAME_SEPMETA2024_UNLOCK,Via the Autumn Revolution Event
+ID_OPTIONS_SHOW_ROSTER_SQUAD_DEFAULT,Open Squads tab by default when opening the roster for the first time
 ID_FRAME_SEPTEMBER2024_NAME,Metal Titan
 ID_FRAME_SEPTEMBER2024_UNLOCK,Via the Autumn Revolution Event
+ID_DAISYCHAIN_OFFERTAB,Chain Offer
+ID_DAISYCHAIN_JUMPTOCURRENT,Jump To Current
+ID_DAISYCHAIN_FLOW_INFO,Purchase each offer to unlock the consecutive offers.

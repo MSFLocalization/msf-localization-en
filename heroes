@@ -23,6 +23,8 @@ ID_SHARD_AMADEUSCHO_NAME,Brawn
 ID_SHARD_AMADEUSCHO_DESCRIPTION,"Brawn exercises his brilliant mind to control his Hulk persona, supporting his Gamma allies to keep them in the fight."
 ID_SHARD_AMERICACHAVEZ_NAME,America Chavez
 ID_SHARD_AMERICACHAVEZ_DESCRIPTION,America Chavez hits hard enough to punch through reality itself and is even stronger with Hero Brawler allies.
+ID_SHARD_ANCIENTONE_NAME,Ancient One
+ID_SHARD_ANCIENTONE_DESCRIPTION,"For centuries, the Ancient One served as Sorcerer Supreme, protecting the Earth from mystical threats from other dimensions. She uses her mastery of the mystic arts to deal massive damage to her enemies while harnessing seemingly random magic forces to aid her teammates."
 ID_SHARD_ANTIVENOM_NAME,Anti-Venom
 ID_SHARD_ANTIVENOM_DESCRIPTION,"An altered Venom Symbiote turned Eddie Brock into Anti-Venom, a Hero who heals rather than destroys."
 ID_SHARD_ANTMAN_NAME,Ant-Man
@@ -60,7 +62,7 @@ ID_SHARD_BLACKPANTHERSHURI_DESCRIPTION,"Following the untimely death of her brot
 ID_SHARD_BLACKWIDOW_NAME,Black Widow
 ID_SHARD_BLACKWIDOW_DESCRIPTION,A stealthy saboteur who steals enemy advantages and delivers disabling attacks.
 ID_SHARD_BLADE_NAME,Blade
-ID_SHARD_BLADE_DESCRIPTION,"Bloodsuckers beware! A half-vampire who can walk in the sunlight, Blade made it his life's work to eradicate the monsters that created him."
+ID_SHARD_BLADE_DESCRIPTION,"Named ""The Daywalker"" by the vampires he hunts and exterminates, Blade uses his martial arts mastery and half-vampire powers to make sure no one suffers at the hands of the undead ever again."
 ID_SHARD_BLOB_NAME,Blob
 ID_SHARD_BLOB_DESCRIPTION,Blob is a mutant Protector whose immense mass absorbs damage and Deflects attacks aimed at allies.
 ID_SHARD_BUDDY_NAME,Doctor Doom
@@ -147,6 +149,8 @@ ID_SHARD_ELSABLOODSTONE_NAME,Elsa Bloodstone
 ID_SHARD_ELSABLOODSTONE_DESCRIPTION,Elsa Bloodstone is a monster-hunting aristocrat who powers up a Supernatural team.
 ID_SHARD_EMMAFROST_NAME,Emma Frost
 ID_SHARD_EMMAFROST_DESCRIPTION,"The Hellfire Club's White Queen, Emma Frost dominates foes by bolstering her Mutant Villain allies."
+ID_SHARD_EMMAFROSTXMEN_NAME,Emma Frost (X-Men)
+ID_SHARD_EMMAFROSTXMEN_DESCRIPTION,"After surviving a terrible attack on the Mutant nation of Genosha, the former White Queen Emma Frost joined forces with her former enemies the X-Men to protect and mentor future Children of the Atom."
 ID_SHARD_FALCON_NAME,Falcon
 ID_SHARD_FALCON_DESCRIPTION,A soldier who excels at War and deals massive damage to enemies who have multiple positive effects.
 ID_SHARD_FANTOMEX_NAME,Fantomex
@@ -275,6 +279,9 @@ ID_SHARD_KARNAK_NAME,Karnak
 ID_SHARD_KARNAK_DESCRIPTION,"An Inhuman Controller, Karnak uses his power to see his enemies' weakness to strike at them with surgical precision."
 ID_SHARD_KATEBISHOP_NAME,Kate Bishop
 ID_SHARD_KATEBISHOP_DESCRIPTION,"Kate Bishop's already impressive archery is made even more devastating with the addition of Hawkeye's Trick Arrows. Stubborn and a bit reckless, she's the perfect leader for the Young Avengers."
+ID_SHARD_PVE_BOSS_KNULL_NAME,Knull
+ID_SHARD_KNULL_NAME,Knull
+ID_SHARD_KNULL_DESCRIPTION,"The Lord of the Abyss and God of the symbiotes, Knull yearns to use his awesome power to plunge the universe into darkness."
 ID_SHARD_KILLMONGER_NAME,Killmonger
 ID_SHARD_KILLMONGER_DESCRIPTION,A lethal assassin who drains health from enemies and eliminates weakened targets.
 ID_SHARD_KINGPIN_NAME,Kingpin
@@ -473,6 +480,7 @@ ID_SHARD_PVE_STRANGESUPREME_INCURSION_NAME,Doctor Strange (Aphelion)
 ID_SHARD_PVE_STRANGESUPREME_INCURSION_DESCRIPTION,
 ID_SHARD_PVE_THANOS_GAUNTLET_NAME,Thanos
 ID_SHARD_PVE_THANOS_GAUNTLET_DESCRIPTION,
+ID_SHARD_PVE_VIP_ZOMBIE_NAME,Terrified Civilian
 ID_SHARD_PYRO_NAME,Pyro
 ID_SHARD_PYRO_DESCRIPTION,A hotheaded fire-starter who excels at burning enemies in an area to inflict damage over time.
 ID_SHARD_QUAKE_NAME,Quake
@@ -515,6 +523,8 @@ ID_SHARD_SCARLETSPIDER_NAME,Scarlet Spider
 ID_SHARD_SCARLETSPIDER_DESCRIPTION,"Scarlet Spider, a clone of Peter Parker that goes by Ben Reilly, uses his spider powers to debilitate enemies and strip them of their defenses."
 ID_SHARD_SCARLETWITCH_NAME,Scarlet Witch
 ID_SHARD_SCARLETWITCH_DESCRIPTION,A mystical controller that prolongs negative effects and redistributes health across her teammates.
+ID_SHARD_ZOMBIESCARLETWITCH_NAME,Scarlet Witch (Zombie)
+ID_SHARD_ZOMBIESCARLETWITCH_DESCRIPTION,"A conduit for chaos magic even beyond death, the infected Scarlet Witch manipulates Status Effects on her enemies, making her a terrifying sight for anyone not already a part of her zombie horde."
 ID_SHARD_SCIENTISTSUPREME_NAME,Scientist Supreme
 ID_SHARD_SCIENTISTSUPREME_DESCRIPTION,A mad scientist who converts negative effects to positive effects while healing her allies.
 ID_SHARD_SCREAM_NAME,Scream
@@ -527,6 +537,8 @@ ID_SHARD_SENTINEL_SWORD_NAME,Sentinel Reinforcement (Sword)
 ID_SHARD_SENTINEL_SWORD_DESCRIPTION,
 ID_SHARD_SERSI_NAME,Sersi
 ID_SHARD_SERSI_DESCRIPTION,"Sersi copies her enemies' positive effects, and when her Eternal ally Ikaris is with her, also turns those effects against them!"
+ID_SHARD_SHADOWKING_NAME,Shadow King
+ID_SHARD_SHADOWKING_DESCRIPTION,"A vicious crime lord and powerful psychic conqueror of the Astral Plane, Amahl Farouk aka the Shadow King was the first evil Mutant a young Charles Xavier ever encountered, and Farouk's dark schemes have haunted Charles and his students ever since."
 ID_SHARD_SHANGCHI_NAME,Shang-Chi
 ID_SHARD_SHANGCHI_DESCRIPTION,Shang-Chi is a master of martial arts who turns his enemies' strengths against them while improving his Heroes for Hire allies.
 ID_SHARD_SHARONCARTER_NAME,Sharon Carter
@@ -663,6 +675,16 @@ ID_SHARD_VAHL_PHOENIX_NAME,Phoenix
 ID_SHARD_VAHL_PHOENIX_DESCRIPTION,
 ID_SHARD_VALKYRIE_NAME,Valkyrie
 ID_SHARD_VALKYRIE_DESCRIPTION,"The leader of Odin's personal guard, Valkyrie boosts her fellow Hero Asgardians and deals out destructive blows to her opponents with her sword, Dragonfang."
+ID_SHARD_VAMPIREBLASTER_NAME,Vampire Defiler
+ID_SHARD_VAMPIREBLASTER_DESCRIPTION,
+ID_SHARD_VAMPIREBRAWLER_NAME,Vampire Enforcer
+ID_SHARD_VAMPIREBRAWLER_DESCRIPTION,
+ID_SHARD_VAMPIRECONTROLLER_NAME,Vampire Stalker
+ID_SHARD_VAMPIRECONTROLLER_DESCRIPTION,
+ID_SHARD_VAMPIREPROTECTOR_NAME,Vampire Brute
+ID_SHARD_VAMPIREPROTECTOR_DESCRIPTION,
+ID_SHARD_VAMPIRESUPPORTR_NAME,Vampire Occultist
+ID_SHARD_VAMPIRESUPPORT_DESCRIPTION,
 ID_SHARD_VENOM_NAME,Venom
 ID_SHARD_VENOM_DESCRIPTION,A symbiotic monstrosity that tears into opponents and spreads harmful effects.
 ID_SHARD_VISION_NAME,Vision

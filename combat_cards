@@ -281,7 +281,7 @@ ID_ORCHIS_MOD_032_NAME,X-Treme X-Men Shielding III
 ID_ORCHIS_MOD_033_NAME,Nightstalker Shielding III
 ID_ORCHIS_MOD_034_NAME,Spider-Society Shielding III
 ID_ORCHIS_MOD_035_NAME,\nOrchis Shielding III
-ID_ORCHIS_MOD_036_NAME,Hive-Mind Shielding IV
+ID_ORCHIS_MOD_036_NAME,\nHive-Mind Shielding IV
 ID_ORCHIS_MOD_037_NAME,X-Treme X-Men Shielding IV
 ID_ORCHIS_MOD_038_NAME,Nightstalker Shielding IV
 ID_ORCHIS_MOD_039_NAME,Spider-Society Shielding IV
@@ -333,3 +333,94 @@ ID_ORCHIS_MOD_TEMP1_MYSTIC_DESC,\nWill enhance a future <color=#fff568>MYSTIC</c
 ID_ORCHIS_MOD_TEMP2_MYSTIC_DESC,\nWill protect a future <color=#fff568>MYSTIC</color> team
 ID_ORCHIS_MOD_TEMP1_TECH_DESC,\nWill enhance a future <color=#fff568>TECH</color> team
 ID_ORCHIS_MOD_TEMP2_TECH_DESC,\nWill protect a future <color=#fff568>TECH</color> team
+ID_BATTLEWORLD_ABYSS_CARD_SET_NAME,Combat Mods: The Abyss
+ID_BATTLEWORLD_MOD_KNULL_Z1M5_NAME,Encroaching Darkness
+ID_BATTLEWORLD_MOD_KNULL_Z1M5_DESC,"On Turn, Player Characters gain +1 <color=#9055ff>Darkness</color>"
+ID_BATTLEWORLD_MOD_ABYSS_Z1M1_NAME,Superior Retribution
+ID_BATTLEWORLD_MOD_ABYSS_Z1M1_DESC,"On Spawn,<color=#fff568>SUPERIOR SIX</color> characters gain <color=#86e619>6</color> <color=#fff568>Counter</color> & <color=#fff568>Offense Up</color> for <color=#86e619>6</color> turns."
+ID_BATTLEWORLD_MOD_ABYSS_Z1M2_NAME,Assisted Annihilation
+ID_BATTLEWORLD_MOD_ABYSS_Z1M2_DESC,<color=#fff568>ANNIHILATOR</color> characters have a <color=#86e619>45%</color> chance to assist when an ally uses an ability.
+ID_BATTLEWORLD_MOD_ABYSS_Z1M3_NAME,Heightened Spider Senses
+ID_BATTLEWORLD_MOD_ABYSS_Z1M3_DESC,"On Spawn, <color=#fff568>SPIDER-SOCIETY</color> characters gain <color=#86e619>3</color> <color=#fff568>Evade</color> and <color=#fff568>Immunity</color> for <color=#86e619>3</color> turns."
+ID_BATTLEWORLD_MOD_ABYSS_Z1M4_NAME,Speed Infusion: Bifrost
+ID_BATTLEWORLD_MOD_ABYSS_Z1M4_DESC,<color=#fff568>BIFROST</color> characters gain +<color=#fff568>150%</color> Speed in this mission.
+ID_BATTLEWORLD_MOD_ABYSS_Z1M5_NAME,Astral Damage
+ID_BATTLEWORLD_MOD_ABYSS_Z1M5_DESC,<color=#fff568>ASTRAL</color> characters gain +<color=#fff568>200%</color> Damage in this mission.
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_RAID_NAME,Counts As: Raid
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_RAID_DESC,Ability effects with the <color=#fff568>RAIDS</color> descriptor will be active in this mission.
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_CC_NAME,Counts As: Cosmic Crucible
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_CC_DESC,Ability effects with the <color=#fff568>COSMIC CRUCIBLE</color> descriptor will be active in this mission.
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_WAR_NAME,Counts As: War
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_WAR_DESC,Ability effects with the <color=#fff568>WAR</color> descriptor will be active in this mission.
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_DD_NAME,Counts As: Dark Dimension
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_DD_DESC,Ability effects with the <color=#fff568>DARK DIMENSION</color> descriptor will be active in this mission.
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_ARENA_NAME,Counts As: Arena
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_ARENA_DESC,Ability effects with the <color=#fff568>ARENA</color> descriptor will be active in this mission.
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_ALL_NAME,Counts As: Everything
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_ALL_DESC,All ability effects that require a specific game mode are active in this mission.
+ID_BATTLEWORLD_MOD_BOSS_MANDATORY_NAME,BATTLEWORLD BOSS
+ID_BATTLEWORLD_MOD_BOSS_MANDATORY_DESC,
+ID_BATTLEWORLD_MOD_BOSS_GENERIC_IMMUNELIST_NAME,Boss Immunities
+ID_BATTLEWORLD_MOD_BOSS_GENERIC_IMMUNELIST_DESC,"Knull is <color=#fff568>IMMUNE</color> to the following:\n<color=#fff568>Ability Block</color>, <color=#fff568>Exhausted</color>, <color=#fff568>Exposed</color>, and <color=#fff568>Stun</color>."
+ID_BATTLEWORLD_MOD_BOSS_GENERIC_RESISTLIST_NAME,Boss Resistances
+ID_BATTLEWORLD_MOD_BOSS_GENERIC_RESISTLIST_DESC,"No single attack can inflict over <color=#86e619>3%</color> of a boss' Maximum Health. In addition damage caused by <color=#fff568>Bleed</color>, stolen Health, or attacks based on the boss' Maximum Health, can't exceed <color=#86e619>3%</color> of that boss' Maximum Health."
+ID_BATTLEWORLD_MOD_BOSSMECHANIC_KNULL_UNIQUE_01_NAME,God of Symbiotes
+ID_BATTLEWORLD_MOD_BOSSMECHANIC_KNULL_UNIQUE_01_DESC,Knull can summon <color=#fff568>SYMBIOTE</color> allies.
+ID_BATTLEWORLD_MOD_BOSSMECHANIC_KNULL_UNIQUE_02_NAME,Eternal Darkness
+ID_BATTLEWORLD_MOD_BOSSMECHANIC_KNULL_UNIQUE_02_DESC,Knull can inflict <color=#9055ff>DARKNESS</color> which <color=#fff568>Mind Controls</color> the afflicted character.
+ID_BATTLEWORLD_MOD_BOSSMECHANIC_KNULL_UNIQUE_03_NAME,Void King's Rage
+ID_BATTLEWORLD_MOD_BOSSMECHANIC_KNULL_UNIQUE_03_DESC,"For each <color=#fff568>RAGE</color> Knull has, he gains <color=#86e619>10%</color> Damage and Speed, in addition to other effects."
+ID_BATTLEWORLD_MOD_DARKNESS_INFO_NAME,Darkness
+ID_BATTLEWORLD_MOD_DARKNESS_INFO_DESC,During this battle characters can be afflicted with <color=#9055ff>DARKNESS</color>. Afflicted characters will attack allies and deal increased damage. Using a Basic Ability with full energy will clear up to <color=#86e619>5</color> Darkness from an afflicted character.
+ID_BATTLEWORLD_MOD_ABYSS_Z2M1_NAME,Luck Infusion: Mercs For Money
+ID_BATTLEWORLD_MOD_ABYSS_Z2M1_DESC,<color=#fff568>MERCS FOR MONEY </color>gain +<color=#86e619>0.5</color> crit chance and +<color=#86e619>3</color> Crit Damage.
+ID_BATTLEWORLD_MOD_ABYSS_Z2M2_NAME_A,Temporal Energy Reserves
+ID_BATTLEWORLD_MOD_ABYSS_Z2M2_DESC_A,"On Spawn, <color=#fff568>CABAL</color> gain <color=#fff568>Speed Up</color> for <color=#86e619>5</color> turns and Safeguard for <color=#86e619>5</color> turns."
+ID_BATTLEWORLD_MOD_ABYSS_Z2M2_NAME_B,Expanded Membership
+ID_BATTLEWORLD_MOD_ABYSS_Z2M2_DESC_B,"<color=#fff568>DOOM</color>, <color=#fff568>LOKI</color>, <color=#fff568>EMMA FROST</color>, and <color=#fff568>ARES</color> gain the <color=#fff568>CABAL</color> trait in this mission."
+ID_BATTLEWORLD_MOD_ABYSS_Z2M3_NAME,Undead Frenzy
+ID_BATTLEWORLD_MOD_ABYSS_Z2M3_DESC,"When an <color=#fff568>UNDYING</color> character is attacked they gain +<color=#86e619>1</color> <color=#fff568>Offense Up</color>. For each Offense Up they have, Undying characters gain +<color=#86e619>15%</color> speed and damage."
+ID_BATTLEWORLD_MOD_ABYSS_Z2M3_NAME_A,Knowhere to Run
+ID_BATTLEWORLD_MOD_ABYSS_Z2M3_DESC_A,"When critically hit, <color=#fff568>KNOWHERE</color> gains +<color=#86e619>40%</color> Barrier and <color=#fff568>Defense Up</color> for <color=#86e619>1</color> turn."
+ID_BATTLEWORLD_MOD_ABYSS_Z2M4_NAME,Focus Infusion: Alpha Flight
+ID_BATTLEWORLD_MOD_ABYSS_Z2M4_DESC,<color=#fff568>ALPHA FLIGHT</color> gains +<color=#fff568>500%</color> Focus in this mission.
+ID_BATTLEWORLD_MOD_ABYSS_Z3M1_NAME,Assisted Annihilation
+ID_BATTLEWORLD_MOD_ABYSS_Z3M1_DESC,<color=#fff568>ANNIHILATORS</color> have a <color=#86e619>45%</color> chance to assist when an ally uses an ability.
+ID_BATTLEWORLD_MOD_ABYSS_Z3M2_NAME_A,Stunning Genius
+ID_BATTLEWORLD_MOD_ABYSS_Z3M2_DESC_A,"When an <color=#fff568>ILLUMINATI</color> character uses their Basic ability, if no enemy has <color=#fff568>Stun</color>, apply <color=#fff568>Stun</color> to that attack's primary target. When any enemy with <color=#fff568>Stun</color> is successfully attacked, reduce that enemy's Speed Bar by <color=#fff568>35%</color>."
+ID_BATTLEWORLD_MOD_ABYSS_Z3M2_NAME_B,Fully Charged
+ID_BATTLEWORLD_MOD_ABYSS_Z3M2_DESC_B,Enemies deal <color=#fff568>25%</color> more damage for each Charged they have.
+ID_BATTLEWORLD_MOD_ABYSS_Z3M3_NAME,Resistance Infusion: Out of Time
+ID_BATTLEWORLD_MOD_ABYSS_Z3M3_DESC,<color=#fff568>OUT OF TIME</color> characters gain +<color=#fff568>800%</color> Resistance in this mission.
+ID_BATTLEWORLD_MOD_ABYSS_Z3M4_NAME_A,Superior Retribution
+ID_BATTLEWORLD_MOD_ABYSS_Z3M4_DESC_A,"On Spawn,<color=#fff568>SUPERIOR SIX</color> characters gain <color=#86e619>6</color> <color=#fff568>Counter</color> & <color=#fff568>Offense Up</color> for <color=#86e619>6</color> turns."
+ID_BATTLEWORLD_MOD_ABYSS_Z4M1_NAME,Focus Infusion: Alpha Flight
+ID_BATTLEWORLD_MOD_ABYSS_Z4M1_DESC,<color=#fff568>ALPHA FLIGHT</color> characters gain +<color=#fff568>500%</color> Focus in this mission.
+ID_BATTLEWORLD_MOD_ABYSS_Z4M2_NAME,X-Men 97 (%)
+ID_BATTLEWORLD_MOD_ABYSS_Z4M2_DESC,"<color=#fff568>X-TREME X-MEN</color> gain +<color=#fff568>97%</color> to Max Health, Speed, Focus, Resistance, Armor, & Damage in this mission."
+ID_BATTLEWORLD_MOD_ABYSS_Z4M3_NAME,Luck Infusion: Mercs For Money
+ID_BATTLEWORLD_MOD_ABYSS_Z4M3_DESC,<color=#fff568>MERCS FOR MONEY </color>gain +<color=#86e619>0.5</color> crit chance and +<color=#86e619>3</color> Crit Damage.
+ID_BATTLEWORLD_MOD_ABYSS_Z4M4_NAME,Original New Horsemen
+ID_BATTLEWORLD_MOD_ABYSS_Z4M4_DESC,<color=#fff568>MSF ORIGINAL</color> characters gain the <color=#fff568>HORSEMAN</color> trait in this mission.
+ID_BATTLEWORLD_MOD_ABYSS_Z5M1_NAME,Danger Zone
+ID_BATTLEWORLD_MOD_ABYSS_Z5M1_DESC,<color=#fff568>HIVE-MIND</color> gain +<color=#86e619>200%</color> Damage and Armor when below <color=#86e619>50%</color> max health.
+ID_BATTLEWORLD_MOD_ABYSS_Z5M2_NAME_A,Stunning Genius
+ID_BATTLEWORLD_MOD_ABYSS_Z5M2_DESC_A,"When an <color=#fff568>ILLUMINATI</color> character uses their Basic ability, if no enemy has <color=#fff568>Stun</color>, apply <color=#fff568>Stun</color> to that attack's primary target. When any enemy with <color=#fff568>Stun</color> is successfully attacked, reduce that enemy's Speed Bar by <color=#fff568>35%</color>."
+ID_BATTLEWORLD_MOD_ABYSS_Z5M2_NAME_B,Fully Charged
+ID_BATTLEWORLD_MOD_ABYSS_Z5M2_DESC_B,Some enemies spawn with <color=#fff568>CHARGED</color>. Enemies inflict <color=#fff568>25%</color> more damage for each Charged they have.
+ID_BATTLEWORLD_MOD_ABYSS_Z5M3_NAME,Predictive Algorithms
+ID_BATTLEWORLD_MOD_ABYSS_Z5M3_DESC,"On attacked, <color=#fff568>ORCHIS</color> characters gain +<color=#86e619>1</color> <color=#fff568>Deflect</color>, up to a maximum of <color=#86e619>3</color>."
+ID_BATTLEWORLD_MOD_ABYSS_Z5M4_NAME,Ice Skating Uphill
+ID_BATTLEWORLD_MOD_ABYSS_Z5M4_DESC,"<color=#fff568>NIGHTSTALKERS</color> gain +<color=#86e619>150%</color> Damage, +<color=#86e619>110%</color> Speed, & -<color=#86e619>50%</color> Armor."
+ID_BATTLEWORLD_MOD_ABYSS_Z5M6_NAME,King of Asgard
+ID_BATTLEWORLD_MOD_ABYSS_Z5M6_DESC,"Odin:\n > On Basic attack, all Asgardian allies gain <color=#fff568>4</color> energy."
+ID_BATTLEWORLD_MOD_ABYSS_Z5M3_NAME_A,Sanguine Swordsmen
+ID_BATTLEWORLD_MOD_ABYSS_Z5M3_DESC_A,Non-symbiote enemies gain the <color=#fff568>VAMPIRE</color> trait.
+ID_BATTLEWORLD_MOD_ABYSS_Z5M3_NAME_B,Throne Defenders
+ID_BATTLEWORLD_MOD_ABYSS_Z5M3_DESC_B,"When an enemy uses their basic attack, they inflict <color=#86e619>1</color> <color=#fff568>Bleed</color> on their target. When an enemy uses their special ability, they inflict <color=#fff568>Heal Block</color> for <color=#86e619>1</color> turn on their primary target. When an enemy uses their ultimate ability, they inflict <color=#fff568>Blind</color> for <color=#86e619>1</color> turn on their primary target."
+ID_MOD_ZOMBIE_HUNGRY_NAME,Hunger Without End
+ID_MOD_ZOMBIE_HUNGRY_DESC,Add properly formatted description of what this combat mod does.
+ID_MOD_VAMPIRE_CIVILIAN_NAME,Ritual of the Blood God
+ID_MOD_VAMPIRE_CIVILIAN_DESC,Add properly formatted description of what this combat mod does.
+ID_MOD_VAMPIRE_VAMPIRE_NAME," Thirst Eternal"
+ID_MOD_VAMPIRE_VAMPIRE_DESC,Add properly formatted description of what this combat mod does.

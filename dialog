@@ -9717,6 +9717,112 @@ ID_DIALOG_SSE_ORCHIS_TEAM_05_START_0,Who are you?! I thought I made a perfectly 
 ID_DIALOG_SSE_ORCHIS_TEAM_05_START_1,Just here to fix an oversight. This won't hurt. Much.
 ID_DIALOG_SSE_ORCHIS_TEAM_05_END_0,"There we go, just forget all about Charles."
 ID_DIALOG_SSE_ORCHIS_TEAM_05_END_1,Who?
+ID_DIALOG_ECM_HALLOWEEN2024_01_INTRO_0,"Back for Round 2 so soon, Hela? Couldn't let the dead rest longer?"
+ID_DIALOG_ECM_HALLOWEEN2024_01_INTRO_1,"Call me petty, but I really felt our last face-off should have played out differently."
+ID_DIALOG_ECM_HALLOWEEN2024_01_INTRO_2,"Are you taking that old saying to heart? ""When seeking revenge, dig two graves."""
+ID_DIALOG_ECM_HALLOWEEN2024_01_INTRO_3,In a sense. You get to see my own take on it.
+ID_DIALOG_ECM_HALLOWEEN2024_01_INTRO_4,It's much better digging up THREE!
+ID_DIALOG_ECM_HALLOWEEN2024_01_INTRO_5,Uungh…
+ID_DIALOG_ECM_HALLOWEEN2024_01_INTRO_6,Ha! You think one more shambling horror will make a difference?
+ID_DIALOG_ECM_HALLOWEEN2024_01_INTRO_7,"I've been training Fury's finest for war. If your horde gets through them, you'll have your rematch."
+ID_DIALOG_ECM_HALLOWEEN2024_01_START_0,Anyone find this unsettling? These zombies look scary… and hungry!
+ID_DIALOG_ECM_HALLOWEEN2024_01_START_1,I think it's great that Hela's taking the kids out trick or treating. I wish I had some candy to give out for those cute little costumes.
+ID_DIALOG_ECM_HALLOWEEN2024_01_START_2,You lot really are pests. I think I'm going to enjoy this warm up.
+ID_DIALOG_ECM_HALLOWEEN2024_01_END_0,ARGGHH!
+ID_DIALOG_ECM_HALLOWEEN2024_01_END_1,This might be more entertaining than I thought!
+ID_DIALOG_ECM_HALLOWEEN2024_01_END_2,"Let's see how you do against the rest of Fury's elite. I'll be waiting, Hela!"
+ID_DIALOG_ECM_HALLOWEEN2024_02_INTRO_0,"OMG! Hela, I've been dying to chat with you! I was hoping we could do a collab sometime. Like, we could—"
+ID_DIALOG_ECM_HALLOWEEN2024_02_INTRO_1,"Easy there, pumpkin. Can't you see the nice lady is busy taking her kids out trick or treating?"
+ID_DIALOG_ECM_HALLOWEEN2024_02_INTRO_2,"Ugh, someone already made that joke. Do you all Spider-people share the same material?"
+ID_DIALOG_ECM_HALLOWEEN2024_02_INTRO_3,I…
+ID_DIALOG_ECM_HALLOWEEN2024_02_INTRO_4,*giggle* *SNORT*
+ID_DIALOG_ECM_HALLOWEEN2024_02_INTRO_5,Heh…
+ID_DIALOG_ECM_HALLOWEEN2024_02_INTRO_6,"My own daughter laughing at me I could take, but… THE Wolverine?!"
+ID_DIALOG_ECM_HALLOWEEN2024_02_INTRO_7,"I'm gonna dice your little friends up and leave them in the compost bin, Hela. MAXIMUM PETTINESS!"
+ID_DIALOG_ECM_HALLOWEEN2024_02_START_0,"Okay, who wants to be the first victim in the Deadpool Halloween Grindhouse Special?"
+ID_DIALOG_ECM_HALLOWEEN2024_02_START_1,ARGGHH!
+ID_DIALOG_ECM_HALLOWEEN2024_02_START_2,"Dad, watch out for this one—she's not like the others!"
+ID_DIALOG_ECM_HALLOWEEN2024_02_END_0,Uungh!
+ID_DIALOG_ECM_HALLOWEEN2024_02_END_1,"Okay, bye! Hela, DM me sometime!"
+ID_DIALOG_ECM_HALLOWEEN2024_02_END_2,"Still trying to delay the inevitable, Ares? Or are you finally ready?"
+ID_DIALOG_ECM_HALLOWEEN2024_03_INTRO_0,Argghh!
+ID_DIALOG_ECM_HALLOWEEN2024_03_INTRO_1,"I'll admit, this undead witch of chaos is a very powerful weapon in war."
+ID_DIALOG_ECM_HALLOWEEN2024_03_INTRO_2,"You'll have your rematch, Hela."
+ID_DIALOG_ECM_HALLOWEEN2024_03_INTRO_3,Don't hold it against me if we savor this.
+ID_DIALOG_ECM_HALLOWEEN2024_03_INTRO_4,"You kept us waiting an awfully long time, and now we hunger."
+ID_DIALOG_ECM_HALLOWEEN2024_03_INTRO_5,ARGGHH!!
+ID_DIALOG_ECM_HALLOWEEN2024_03_INTRO_6,"…for different things, but we're eager to battle all the same."
+ID_DIALOG_ECM_HALLOWEEN2024_03_START_0,AARGGHH!!!
+ID_DIALOG_ECM_HALLOWEEN2024_03_START_1,RRAAAAAHH!!
+ID_DIALOG_ECM_HALLOWEEN2024_03_END_0,"Ah, victory is sweet! A pity this feeling won't last forever, but damn if it doesn't feel good."
+ID_DIALOG_ECM_HALLOWEEN2024_03_END_1,"The defeat stings, but a good fight invigorates me. It empowers me. Next time I'll hold nothing back."
+ID_DIALOG_ECM_HALLOWEEN2024_03_END_2,"Happy Halloween, Commander!"
+ID_DIALOG_ECM_SPIDERVILLAINS_01_INTRO_0,*BEEP BEEP*\nATTENTION COMMANDERS!\nASSISTANCE REQUESTED!!
+ID_DIALOG_ECM_SPIDERVILLAINS_01_INTRO_1,REPORT TO HELL'S KITCHEN FOR VALUABLE INSIGHTS AND FIELD EXPERIENCE!
+ID_DIALOG_ECM_SPIDERVILLAINS_01_START_0,Finally! Reinforcements have arrived!
+ID_DIALOG_ECM_SPIDERVILLAINS_01_START_1,"Watch out, folks! Kree Reaper is a Brawler. They prefer to get up close and personal with their foes for maximum damage!"
+ID_DIALOG_ECM_SPIDERVILLAINS_01_WAVE2_0,Uh-oh. Kree Royal Guard is a Protector. They take the brunt of the damage in order to protect their teammates Let's think about how we'll attack.
+ID_DIALOG_ECM_SPIDERVILLAINS_01_WAVE3_0,Looks like they invited friends.
+ID_DIALOG_ECM_SPIDERVILLAINS_01_WAVE3_1,Kree Oracle is classified as Support. We can expect them to assist their allies with healing and positive combat effects.
+ID_DIALOG_ECM_SPIDERVILLAINS_01_WAVE4_0,"Kree Cyborg has been called in. As a Blaster, they'll bombard enemies with damage at long range."
+ID_DIALOG_ECM_SPIDERVILLAINS_01_WAVE5_0,Kree Noble is the team's Controller. They're going to manipulate the battlefield by disrupting their foes and providing special benefits to their allies.
+ID_DIALOG_ECM_SPIDERVILLAINS_01_END_0,Someone's coordinating this attack. Go on ahead and see if you can find out who.
+ID_DIALOG_ECM_SPIDERVILLAINS_02_START_0,Great timing! My Venom Strike is slowing these guys down. Mind giving me a hand?
+ID_DIALOG_ECM_SPIDERVILLAINS_02_START_1,"You probably noticed this already, but a higher speed means you can engage your enemies faster."
+ID_DIALOG_ECM_SPIDERVILLAINS_02_WAVE2_0,That Speed Up effect will help them move sooner than usual. Be careful!
+ID_DIALOG_ECM_SPIDERVILLAINS_02_WAVE3_0,Keep an eye on Vulture! His Passive Ability helps speed him up when a character is defeated.
+ID_DIALOG_ECM_SPIDERVILLAINS_02_END_0,He got away. At least we know he's involved somehow.
+ID_DIALOG_ECM_SPIDERVILLAINS_02_END_1,I'll handle the stragglers here. I'm sure someone else will need help.
+ID_DIALOG_ECM_SPIDERVILLAINS_03_START_0,Check this out.
+ID_DIALOG_ECM_SPIDERVILLAINS_03_START_1,Some of us have abilities that can place positive or negative status effects on others.
+ID_DIALOG_ECM_SPIDERVILLAINS_03_WAVE2_0,These guys are no joke. Mind those status effects!
+ID_DIALOG_ECM_SPIDERVILLAINS_03_END_0,You're looking for Vulture? He flew by not too long ago.
+ID_DIALOG_ECM_SPIDERVILLAINS_04_START_0,"Not so fast, everyone!\nThese guys have abilities that will make them tricky to hit with full power."
+ID_DIALOG_ECM_SPIDERVILLAINS_04_START_1,"That taunter has Evade. If we're not careful, we'll miss our attacks!"
+ID_DIALOG_ECM_SPIDERVILLAINS_04_WAVE2_0,Super reversal! Now I have Deflect!
+ID_DIALOG_ECM_SPIDERVILLAINS_04_WAVE2_1,"By my calculations, I can shrug off 25% of their next attack!"
+ID_DIALOG_ECM_SPIDERVILLAINS_04_END_0,"Go on without me, I need to make some repairs."
+ID_DIALOG_ECM_SPIDERVILLAINS_04_END_1,Whoever is the mastermind behind this won't go down easily.
+ID_DIALOG_ECM_SPIDERVILLAINS_05_START_0,Don't worry! I have this all under control!
+ID_DIALOG_ECM_SPIDERVILLAINS_05_WAVE2_0,Maybe that was a lie.
+ID_DIALOG_ECM_SPIDERVILLAINS_05_WAVE2_1,Looks like he's going to give his allies the status effect Regeneration!
+ID_DIALOG_ECM_SPIDERVILLAINS_05_WAVE2_2,They'll heal a portion of their health on their next turn.
+ID_DIALOG_ECM_SPIDERVILLAINS_05_END_0,"Doc Ock might have slipped away, but we got his buddies."
+ID_DIALOG_ECM_SPIDERVILLAINS_05_END_1,One of them is bound to give him up.
+ID_DIALOG_ECM_SPIDERVILLAINS_05_END_2,Don't let it get you down. You did one heck of a good job today!
+ID_DIALOG_ECM_SPIDERVILLAINS_05_END_3,We'll let you know when we have more information on his plans and whereabouts.
+ID_DIALOG_ECM_XTXM_01_INTRO_0,SPECIAL ANNOUNCEMENT INCOMING:
+ID_DIALOG_ECM_XTXM_01_INTRO_1,PLEASE REPORT TO THE X-MANSION FOR SPECIAL TRAINING!
+ID_DIALOG_ECM_XTXM_01_INTRO_2,We heard about what you did in Hell's Kitchen. Nice work!
+ID_DIALOG_ECM_XTXM_01_INTRO_3,You've been cleared for additional training with the Xtreme X-Men.
+ID_DIALOG_ECM_XTXM_01_START_0,"Firs' up, cher, y'all gonna get a lesson from Remy LeBeau."
+ID_DIALOG_ECM_XTXM_01_START_1,"Attacks can have all kindsa different targets, y'know?"
+ID_DIALOG_ECM_XTXM_01_START_2,Ma Basic attack targets one enemy and their most injured ally.
+ID_DIALOG_ECM_XTXM_01_START_3,Ma Special hits the primary target and any o' their nearby allies.
+ID_DIALOG_ECM_XTXM_01_START_4,"And ma Ultimate don' leave no enemy free from ma wrath, mon cher."
+ID_DIALOG_ECM_XTXM_01_END_0,"Now, keep what Gambit showed ya in mind when ya decided how to set up your team."
+ID_DIALOG_ECM_XTXM_01_END_1,"You good to move onto the next session, cher."
+ID_DIALOG_ECM_XTXM_02_START_0,Some enemies will counter-attack if the conditions are met.
+ID_DIALOG_ECM_XTXM_02_START_1,Colossus will counter-attack as long as he has those Charge counters
+ID_DIALOG_ECM_XTXM_02_START_2,And the S.H.I.E.L.D. Troopers will counter-attack when one of their adjacent allies is attacked.
+ID_DIALOG_ECM_XTXM_02_START_3,Use this information and plan your attack accordingly.
+ID_DIALOG_ECM_XTXM_02_END_0,"Good work, team. Nightcrawler will take you through the next lesson."
+ID_DIALOG_ECM_XTXM_03_START_0,"Hey there, newbies! Ant-Man and his friends have agreed to spar with you."
+ID_DIALOG_ECM_XTXM_03_START_1,"That Ability Block effect will stop you from using your Special and Ultimate attacks. Nifty, huh?"
+ID_DIALOG_ECM_XTXM_03_WAVE2_0,"My Special will stun my target, leaving them unable to act on their next turn."
+ID_DIALOG_ECM_XTXM_03_WAVE3_0,"My Ultimate will leave your team blinded. Unless you're Daredevil, you'll be missing your next attack."
+ID_DIALOG_ECM_XTXM_03_END_0,"Seems like you have the gist of it. Sunspot is waiting for you, when you're ready to continue training."
+ID_DIALOG_ECM_XTXM_04_START_0,We got some Doom bots you'll train against next. They'll have a chance to inflict Disrupt on your characters.
+ID_DIALOG_ECM_XTXM_04_START_1,"If that happens, that character won't be able to gain positive status effects."
+ID_DIALOG_ECM_XTXM_04_WAVE2_0,Ebony Maw has Immunity. That will keep him from gaining any negative status effects.
+ID_DIALOG_ECM_XTXM_04_END_0,Next up you'll be training with Forge.
+ID_DIALOG_ECM_XTXM_05_START_0,Let's make this quick. Someone's here to see Storm and I don't trust them.
+ID_DIALOG_ECM_XTXM_05_START_1,Adam Warlock applied Safeguard to himself and Gamora.
+ID_DIALOG_ECM_XTXM_05_START_2,We won't be able to flip or remove their positive status effects.
+ID_DIALOG_ECM_XTXM_05_WAVE2_0,Omega Red can inflict Trauma with his Special.
+ID_DIALOG_ECM_XTXM_05_WAVE2_1,"If you're hit with that, you won't be able to remove any negative status effects."
+ID_DIALOG_ECM_XTXM_05_END_0,"While you were busy with that, Storm sent a message."
+ID_DIALOG_ECM_XTXM_05_END_1,You'll be joining us on a joint mission with... Magneto.
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
@@ -14175,6 +14281,47 @@ ID_DIALOG_EVENT_FL_MARVELS_05_END_2,"Good job, recruit. We could use your help i
 ID_DIALOG_EVENT_FL_MARVELS_05_END_3,"No problem! I mean, beating him was a snap! ...get it? A SNAP? "
 ID_DIALOG_EVENT_FL_MARVELS_05_END_4,"Uh, we'll call you, okay? Gotta go. "
 ID_DIALOG_EVENT_FL_MARVELS_05_END_5,...Wow. She's. So. COOL.
+ID_DIALOG_FEAT_BW_FIRSTMISSION_START_0,"Welcome to <color=#fff568>THE ABYSS</color>, the first territory of Battleworld."
+ID_DIALOG_FEAT_BW_FIRSTMISSION_START_1,In Battleworld your Alliance will work together to accumulate <color=#fff568>VICTORY POINTS (VP)</color> in order to progress.
+ID_DIALOG_FEAT_BW_FIRSTMISSION_START_2,"Acquire VP by completing <color=#fff568>MISSIONS</color>, <color=#fff568>SPEC OPS</color>, and defeating the <color=#fff568>BOSS</color>."
+ID_DIALOG_FEAT_BW_FIRSTMISSION_START_3,"Missions have 6 waves, and award more points for each successive wave cleared."
+ID_DIALOG_FEAT_BW_FIRSTMISSION_START_4,Each mission also grants a <color=#fff568>COMBAT BONUS</color> for using a specific team which you can view once you select a mission.
+ID_DIALOG_FEAT_BW_FIRSTMISSION_START_5,Good luck!
+ID_DIALOG_FEAT_BW_SECONDMISSION_START_0,In Battleworld missions you are racing against the clock to clear as many enemy waves as you can.
+ID_DIALOG_FEAT_BW_SECONDMISSION_START_1,"Each wave increases in challenge, but also awards more VP towards your total."
+ID_DIALOG_FEAT_BW_SECONDMISSION_START_2,You can attempt each mission up to <color=#86e619>3</color> times. New attempts always start from wave 1.
+ID_DIALOG_FEAT_BW_SECONDMISSION_START_3,Power up your teams to attain the highest VP possible and help your Alliance earn <color=#fff568>SEASONAL REWARDS</color>!
+ID_DIALOG_FEAT_BW_THIRDMISSION_START_0,Each mission in Battleworld has one or more <color=#fff568>OPTIMAL TEAMS</color>.
+ID_DIALOG_FEAT_BW_THIRDMISSION_START_1,An Optimal team gets a powerful <color=#fff568>BONUS</color> that can be seen when the mission node is selected in the zone view by tapping the <color=#fff568>COMBAT MOD</color> tab.
+ID_DIALOG_FEAT_BW_THIRDMISSION_START_2,"For example, in this mission if you bring <color=#fff568>SPIDER SOCIETY</color> characters they will spawn with <color=#86e619>3</color> <color=#fff568>Evade</color> and <color=#fff568>Immunity</color> for <color=#86e619>3</color> turns!"
+ID_DIALOG_FEAT_BW_THIRDMISSION_START_3,Careful team selection and use of Optimal Teams is essential to completing all the waves before time runs out!
+ID_DIALOG_FEAT_BW_ELITEMISSION_START_0,This is an <color=#ff0000>ELITE MISSION</color>.
+ID_DIALOG_FEAT_BW_ELITEMISSION_START_1,Elite missions require <color=#fff568>SPECIFIC TEAMS</color> but award rare rewards.
+ID_DIALOG_FEAT_BW_MINIBOSS_Z1_START_0,The lord of the Abyss has many servants. The most powerful among them are the <color=#fff568>HERALDS</color> of the Void.
+ID_DIALOG_FEAT_BW_MINIBOSS_Z1_START_1,A Herald mission involves facing a powerful servant of Knull and defeating them and their retinue. These mission have powerful foes and unique mechanics.
+ID_DIALOG_FEAT_BW_MINIBOSS_Z1_START_2,"In this mission, enemy <color=#fff568>HIVE MIND</color> gain +<color=#86e619>100%</color> Armor and Damage when they're below <color=#86e619>50%</color> max health."
+ID_DIALOG_FEAT_BW_MINIBOSS_Z2_START_0,Heralds command teams of some of the most powerful of Knull's thralls. And these teams have unique mechanics during battle.
+ID_DIALOG_FEAT_BW_MINIBOSS_Z2_START_1,"In this mission, enemy <color=#fff568>KNOWHERE</color> gain +<color=#86e619>25%</color> Barrier when they're critically hit."
+ID_DIALOG_FEAT_BW_MINIBOSS_Z3_START_0,"In this mission, enemies with <color=#fff568>Charged</color> gain +<color=#86e619>25%</color> Damage per Charged they have."
+ID_DIALOG_FEAT_BW_MINIBOSS_Z4_START_0,"In this mission, enemies <color=#fff568>Ares</color> and <color=#fff568>Emma Frost</color> gain the <color=#fff568>CABAL</color> trait."
+ID_DIALOG_FEAT_BW_MINIBOSS_Z4_START_1,"In addition, Ares has an <color=#86e619>80%</color> speed reduction, deals <color=#86e619>200%</color> more damage, and will only use his basic attack."
+ID_DIALOG_FEAT_BW_MINIBOSS_Z5_START_0,"In this mission, non-symbiote enemies gain the <color=#fff568>VAMPIRE</color> trait."
+ID_DIALOG_FEAT_BW_MINIBOSS_Z5_START_1,"When an enemy uses their basic attack, they inflict <color=#86e619>1</color> <color=#fff568>Bleed</color> on their target. "
+ID_DIALOG_FEAT_BW_MINIBOSS_Z5_START_2,"When they use their special ability, they inflict <color=#fff568>Heal Block</color> for <color=#86e619>1</color> turn on their primary target."
+ID_DIALOG_FEAT_BW_BONUSMISSION_START_0,This is the <color=#fff568>BONUS MISSION<color=#fff568>.
+ID_DIALOG_FEAT_BW_BONUSMISSION_START_1,Bonus missions are extremely challenging and only awards points when you defeat the <color=#fff568>final wave</color>.
+ID_DIALOG_FEAT_BW_BONUSMISSION_START_2,"Pay close attention to the combat bonuses for Bonus missions, as they are critical to conquering the unique challenge they provide."
+ID_DIALOG_FEAT_BW_BOSSMISSION_START_0,"Behold <color=#ff0000>KNULL, THE VOID KING</color>!"
+ID_DIALOG_FEAT_BW_BOSSMISSION_START_1,Knull is the <color=#fff568>BOSS</color> of The Abyss. He has many special mechanics and rules. Pay close attention to the <color=#fff568>COMBAT MODS</color> and Knull's <color=#fff568>BOSS KIT</color> to ensure victory.
+ID_DIALOG_FEAT_BW_BOSSMISSION_START_2,"Bosses <color=#fff568>RESPAWN</color> when defeated, and award VP for each kill. The more your alliance can defeat the boss, the more VP you earn!"
+ID_DIALOG_CHALLENGE_HALLOWEEN_ZOMBIE_START_0,Welcome to The Hunger challenge. The Undying team with the Zombie in the name have the following abilities.
+ID_DIALOG_CHALLENGE_HALLOWEEN_ZOMBIE_START_1,Hunger Without End: Start with 10 brains and defeat enemies eating to satiate your hunger. Each enemy will give you a certain amount of brains when you consume them.
+ID_DIALOG_CHALLENGE_HALLOWEEN_ZOMBIE_START_2,Hungry: Will increase zombie's Speed and reduce damage damage per stack of brains.
+ID_DIALOG_CHALLENGE_HALLOWEEN_ZOMBIE_START_3,"Satiated: Once you consume enough brains you will get increased Damage, Crit Chance, and Crit Damage per stack. Eat your fill at 20 brains and become lethargic for a turn, then gain Undead Fortitude"
+ID_DIALOG_CHALLENGE_HALLOWEEN_ZOMBIE_START_4,Undead Fortitude: Gain 50% damage resistance till the end of combat.
+ID_DIALOG_CHALLENGE_HALLOWEEN_VAMPIRE_START_0,Welcome to The Thirst challenge. The Vampire Minions you fight against will have the following abilities.
+ID_DIALOG_CHALLENGE_HALLOWEEN_VAMPIRE_START_1,"Ritual of the Blood God: At the start of their turn civilians have a 50% chance to gain 1 Bleed. If they already had at least 1 Bleed, they also gain Taunt."
+ID_DIALOG_CHALLENGE_HALLOWEEN_VAMPIRE_START_2,"Thirst Eternal: Vampire Minions heal 50% of their max HP when attacking Bleeding enemies. If their HP is full they instead gain 1 Deathproof, 3 Offense Up, 3 Defense Up, and Safeguard. If a Vampire Minion kills a civilian they also gain a full Speed Bar."
 ID_DIALOG_NUE_00_01_0,"Commander, I'm glad you're here. \nWe have a situation."
 ID_DIALOG_NUE_00_01_1,Interdimensional signatures are popping up all over New York City.
 ID_DIALOG_NUE_00_01_2,"As commander of S.T.R.I.K.E., interdimensional threats are your jurisdiction. "
@@ -14254,7 +14401,7 @@ ID_DIALOG_NUE_FIRSTTIME_ALLIANCE_02_1,"Create your own <color=#fff568>ALLIANCE</
 ID_DIALOG_NUE_FIRSTTIME_EVENTS_01_0,You have unlocked <color=#fff568>EVENTS</color>.
 ID_DIALOG_NUE_FIRSTTIME_EVENTS_02_0,Here you will find <color=#fff568>SPECIAL EVENTS</color> with unique and valuable rewards.
 ID_DIALOG_NUE_FIRSTTIME_EVENTS_02_1,Most <color=#fff568>EVENTS</color> only last for a <color=#fff568>LIMITED TIME</color>. Be sure to complete them before they expire.
-ID_DIALOG_NUE_FIRSTTIME_EVENTS_03_0,Try completing the <color=#fff568>ELEKTRA EVENT</color> to obtain <color=#fff568>ELEKTRA</color>!
+ID_DIALOG_NUE_FIRSTTIME_EVENTS_03_0,Try completing the <color=#fff568>SINISTER SKIRMISHES EVENT</color> to obtain <color=#fff568>SPIDER-VERSE VILLAINS</color>!
 ID_DIALOG_NUE_SIM_01_0,"Commander, you have been making excellent progress. Are you aware we can simulate your past missions?"
 ID_DIALOG_NUE_SIM_01_1,"After completing a <color=#fff568>MISSION</color> with <color=#fff568>3 MEDALS</color>, you can <color=#fff568>AUTO WIN</color> the battle instantly."
 ID_DIALOG_NUE_SIM_01_2,Tap <color=#fff568>AUTO WIN</color> to collect <color=#fff568>GEAR</color> for your characters and earn more <color=#fff568>CHARACTER SHARDS</color>.
@@ -14278,8 +14425,8 @@ ID_DIALOG_NUE_SIMCHALLENGE_01_0,"Commander, did you know you can <color=#fff568>
 ID_DIALOG_NUE_SIMCHALLENGE_01_1,<color=#fff568>AUTO WIN</color> allows you to automatically complete a <color=#fff568>CHALLENGE</color> and receive the <color=#fff568>REWARDS</color> immediately. Give it a try.
 ID_DIALOG_NUE_RAIDS_01_0,"Commander, we're receiving reports that Ultimus has strongholds all over the multiverse."
 ID_DIALOG_NUE_RAIDS_02_0,You will need to work together with your <color=#fff568>ALLIANCE</color> in an <color=#fff568>ALLIANCE RAID</color> to clear them out.
-ID_DIALOG_NUE_RAIDS_03_0,"To start an <color=#fff568>ALLIANCE RAID</color>, your <color=#fff568>ALLIANCE</color> will need to use <color=#fff568>RAID KEYS</color>."
-ID_DIALOG_NUE_RAIDS_03_1,"Your <color=#fff568>ALLIANCE</color> will generate 14,400 <color=#fff568>RAID KEYS</color> each day."
+ID_DIALOG_NUE_RAIDS_03_0,"To start an <color=#fff568>ALLIANCE RAID</color>, your <color=#fff568>ALLIANCE</color> will need to generate <color=#fff568>RAID KEYS</color>."
+ID_DIALOG_NUE_RAIDS_03_1,Each <color=#fff568>MEMBER</color> of your <color=#fff568>ALLIANCE</color> can generate <color=#fff568>RAID KEYS</color> by completing <color=#fff568>CAMPAIGN MISSIONS</color>.
 ID_DIALOG_NUE_RAIDS_03_2,Work together to unlock the next <color=#fff568>ALLIANCE RAID</color>.
 ID_DIALOG_NUE_RAIDS_04_0,"Welcome to your first <color=#fff568>ALLIANCE RAID</color>, Commander."
 ID_DIALOG_NUE_RAIDS_04_1,Pick a <color=#fff568>PATH</color> to follow in order to clear out the enemies.

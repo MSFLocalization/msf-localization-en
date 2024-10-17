@@ -3247,6 +3247,16 @@ ID_ECM_HALLOWEEN23_04_NAME,The Zed-Word
 ID_ECM_HALLOWEEN23_04_DESC,"A new toy in tow, Hela looks for some fun."
 ID_ECM_HALLOWEEN23_05_NAME,Full of Plans
 ID_ECM_HALLOWEEN23_05_DESC,"Hela carves a path across the planet, leaving hordes of destroyed drones in her wake."
+ID_ECM_HALLOWEEN24_01_NAME,Grief Preserving
+ID_ECM_HALLOWEEN24_01_DESC,"Hela introduces the newest zombie, and demands a fight with Ares."
+ID_ECM_HALLOWEEN24_02_NAME,Let's Do This One Last Time
+ID_ECM_HALLOWEEN24_02_DESC,Hela and the zombies fight the one and only Spider-man!
+ID_ECM_HALLOWEEN24_03_NAME,Seeing Red
+ID_ECM_HALLOWEEN24_03_DESC,"Jokes are made, someone gets mad! Can you guess who?"
+ID_ECM_HALLOWEEN24_04_NAME,Perfectly Balanced Diet
+ID_ECM_HALLOWEEN24_04_DESC,The Undying chomp through the Annihilators
+ID_ECM_HALLOWEEN24_05_NAME,Red Letter Day
+ID_ECM_HALLOWEEN24_05_DESC,"Impressed by the new zombie, Ares accepts Hela's challenge."
 ID_MIS_KRAVEN_01_NAME,Prison Break
 ID_MIS_KRAVEN_01_DESC,Kraven the Hunter gets a visitor who has a plan.
 ID_MIS_KRAVEN_02_NAME,Webs of Destiny
@@ -3765,11 +3775,11 @@ ID_MIS_ANNIHILATOR_GLADIATOR_01_DESC,Cosmo and their allies are searching for he
 ID_MIS_ANNIHILATOR_GLADIATOR_02_NAME,Supreme Majestor
 ID_MIS_ANNIHILATOR_GLADIATOR_02_DESC,"Gladiator is hesitant to aid the resistance, when the Phalanx strike again."
 ID_MIS_ANNIHILATOR_GLADIATOR_03_NAME,The Front
-ID_MIS_ANNIHILATOR_GLADIATOR_03_DESC,"Uniting with Star Lord and the rest of the resistance, Gladiator aids against Ultron's forces."
+ID_MIS_ANNIHILATOR_GLADIATOR_03_DESC,"Uniting with Star-Lord and the rest of the resistance, Gladiator aids against Ultron's forces."
 ID_MIS_ANNIHILATOR_GLADIATOR_04_NAME,Imperial Insubordination
 ID_MIS_ANNIHILATOR_GLADIATOR_04_DESC,Gladiator has to get used to taking orders instead of giving them.
 ID_MIS_ANNIHILATOR_GLADIATOR_05_NAME,Hail Mary
-ID_MIS_ANNIHILATOR_GLADIATOR_05_DESC,"Star Lord has a plan to stop the Phalanx, they just need to live long enough to see it through."
+ID_MIS_ANNIHILATOR_GLADIATOR_05_DESC,"Star-Lord has a plan to stop the Phalanx, they just need to live long enough to see it through."
 ID_MIS_ANNIHILATOR_GLADIATOR_06_NAME,Imperial's Finest Guard Challenge 1
 ID_MIS_ANNIHILATOR_GLADIATOR_06_DESC,Gladiator Annihilator Challenge 1
 ID_MIS_ANNIHILATOR_GLADIATOR_07_NAME,Imperial's Finest Guard Challenge 2
@@ -3793,7 +3803,7 @@ ID_MIS_ANNIHILATOR_GORR_07_DESC,Gorr Annihilator Challenge 2
 ID_MIS_ANNIHILATOR_GORR_08_NAME,Chaotic Butchering Challenge 3
 ID_MIS_ANNIHILATOR_GORR_08_DESC,Gorr Annihilator Challenge 3
 ID_MIS_ANNIHILATOR_TEAM_01_NAME,Desperate Times
-ID_MIS_ANNIHILATOR_TEAM_01_DESC,"With the Supreme Intelligence taken by Ultron, Star Lord has an idea."
+ID_MIS_ANNIHILATOR_TEAM_01_DESC,"With the Supreme Intelligence taken by Ultron, Star-Lord has an idea."
 ID_MIS_ANNIHILATOR_TEAM_02_NAME,Jailbreak
 ID_MIS_ANNIHILATOR_TEAM_02_DESC,The Annihilators attempt to free a prisoner from deep within the core of a distant moon.
 ID_MIS_ANNIHILATOR_TEAM_03_NAME,Guards and Bars
@@ -3809,7 +3819,7 @@ ID_MIS_ANNIHILATOR_TEAM_07_DESC,Annihilator Team Challenge 2
 ID_MIS_ANNIHILATOR_TEAM_08_NAME,Protectors of the Cosmos Challenge 3
 ID_MIS_ANNIHILATOR_TEAM_08_DESC,Annihilator Team Challenge 3
 ID_MIS_ANNIHILATOR_THANOSEG_01_NAME,One Big Push
-ID_MIS_ANNIHILATOR_THANOSEG_01_DESC,"With Thanos joining the resistance, part two of Star Lord's new plan goes into effect."
+ID_MIS_ANNIHILATOR_THANOSEG_01_DESC,"With Thanos joining the resistance, part two of Star-Lord's new plan goes into effect."
 ID_MIS_ANNIHILATOR_THANOSEG_02_NAME,Crash Through
 ID_MIS_ANNIHILATOR_THANOSEG_02_DESC,"With the Phalanx blockading Hala, the Annihilators must push through to get Thanos to the surface."
 ID_MIS_ANNIHILATOR_THANOSEG_03_NAME,Commune with Evil
@@ -3852,7 +3862,7 @@ ID_ECM_AGEOFX_CH1_02_DESC,"Entering Magneto's mind, the heroes face his first li
 ID_ECM_AGEOFX_CH1_03_DESC,The memory of those who should stand with Magneto stand in his way.
 ID_ECM_AGEOFX_CH1_04_DESC,"Hunted by humanity's greatest defenders, Magneto stands against the Avengers."
 ID_ECM_AGEOFX_CH1_05_DESC,"Deep into Magneto's subconscious, the heroes face what he views as his greatest failure."
-ID_ECM_AGEOFX_CH1_06_DESC,"Forever haunted by the evils committed against him and his family, Magento's mind conjures a terrible visage."
+ID_ECM_AGEOFX_CH1_06_DESC,"Forever haunted by the evils committed against him and his family, Magneto's mind conjures a terrible visage."
 ID_ECM_AGEOFX_CH1_07_DESC,"To discover what lies at the center of his mind, Magneto must face his truest fear."
 ID_MIS_ORCHIS_01_NAME,Field Test
 ID_MIS_ORCHIS_01_DESC,Sentinels attack a shopping center to generate combat data.
@@ -3990,3 +4000,37 @@ ID_MIS_NIGHTSTALKERS_TEAM_09_NAME,Stake Through the Heart Challenge 4
 ID_MIS_NIGHTSTALKERS_TEAM_09_DESC,Nightstalkers Team Challenge 4
 ID_MIS_NIGHTSTALKERS_TEAM_10_NAME,Stake Through the Heart Challenge 5
 ID_MIS_NIGHTSTALKERS_TEAM_10_DESC,Nightstalkers Team Challenge 5
+ID_MIS_HALLOWEEN24_VAMPIRE_M1_NAME,Dry
+ID_MIS_HALLOWEEN24_VAMPIRE_M2_NAME,Dehydrated
+ID_MIS_HALLOWEEN24_VAMPIRE_M3_NAME,Thirsty
+ID_MIS_HALLOWEEN24_VAMPIRE_M4_NAME,Parched
+ID_MIS_HALLOWEEN24_VAMPIRE_M5_NAME,Frenzy
+ID_MIS_HALLOWEEN24_ZOMBIE_M1_NAME,Peckish
+ID_MIS_HALLOWEEN24_ZOMBIE_M2_NAME,Growling
+ID_MIS_HALLOWEEN24_ZOMBIE_M3_NAME,Hungry
+ID_MIS_HALLOWEEN24_ZOMBIE_M4_NAME,Starving
+ID_MIS_HALLOWEEN24_ZOMBIE_M5_NAME,Ravenous
+ID_MIS_HALLOWEEN24_VAMPIRE_M1_DESC,"Vampire Minions have the following abilities.\n\nRitual of the Blood God: At the start of their turn civilians have a 50% chance to gain 1 Bleed. If they already had at least 1 Bleed, they also gain Taunt.\n\nThirst Eternal: Vampire Minions heal 50% of their Max Health when attacking Bleeding enemies. If their Health is full they instead gain 1 Deathproof, 3 Offense Up, 3 Defense Up, and Safeguard. If a Vampire Minion kills a civilian they also gain a full Speed Bar."
+ID_MIS_HALLOWEEN24_ZOMBIE_M1_DESC,"Zombies on your team have the following abilities.\n\nHunger Without End: Start with 10 brains and defeat enemies eating to satiate your hunger.\n\nHungry: +20% Speed and -8% damage per stack.\n\nSatiated: +20% Damage, +10% Crit Chance, and +10% Crit Damage per stack. Eat your fill at 20 brains and become lethargic for a turn, then gain Undead Fortitude.\n\nUndead Fortitude: Gain 50% damage resistance till the end of combat."
+ID_MISSION_EVENT_XTREMEXMEN_1_NAME,Variety is the Spice of Life
+ID_MISSION_EVENT_XTREMEXMEN_1_DESC,Use different attacks for maximum effect.
+ID_MISSION_EVENT_XTREMEXMEN_2_NAME,Right Back at Ya!
+ID_MISSION_EVENT_XTREMEXMEN_2_DESC,Some folks are just built to trade blows.
+ID_MISSION_EVENT_XTREMEXMEN_3_NAME,Putting Dirt in Your Eye
+ID_MISSION_EVENT_XTREMEXMEN_3_DESC,Sometimes evading isn't an option.
+ID_MISSION_EVENT_XTREMEXMEN_4_NAME,"Win Some, Lose Some"
+ID_MISSION_EVENT_XTREMEXMEN_4_DESC,Some effects can throw a whole strategy off-balance.
+ID_MISSION_EVENT_XTREMEXMEN_5_NAME,Ensured Victory
+ID_MISSION_EVENT_XTREMEXMEN_5_DESC,Keeping battle effects where they belong is the key to success.
+ID_MISSION_EVENT_SPIDERVILLAINS_1_NAME,Back to Basics
+ID_MISSION_EVENT_SPIDERVILLAINS_1_DESC,Hell's Kitchen provides eager recruits with constant learning opportunities.
+ID_MISSION_EVENT_SPIDERVILLAINS_2_NAME,All About Timing
+ID_MISSION_EVENT_SPIDERVILLAINS_2_DESC,Control speed and control the outcome of battle.
+ID_MISSION_EVENT_SPIDERVILLAINS_3_NAME,Ground Support
+ID_MISSION_EVENT_SPIDERVILLAINS_3_DESC,The best offense is a good defense.
+ID_MISSION_EVENT_SPIDERVILLAINS_4_NAME,Shrug it Off
+ID_MISSION_EVENT_SPIDERVILLAINS_4_DESC,Sometimes there's no avoiding taking the hit.
+ID_MISSION_EVENT_SPIDERVILLAINS_5_NAME,Call in the Doc!
+ID_MISSION_EVENT_SPIDERVILLAINS_5_DESC,Not all healing was created equally.
+ID_MIS_HALLOWEEN2024_VAMPIRE_DESC,"Special Rules:\n\n<color=#FF9900>Ritual of the Blood God</color>\n> On Turn, civilians have a <color=#86e619>50%</color> chance to gain <color=#86e619>1</color> <color=#fff568>Bleed</color>. On turn, if a civilian has <color=#fff568>Bleed</color>, they gain <color=#fff568>Taunt</color> for <color=#86e619>1</color> turn.\n\n<color=#FF9900>Thirst Eternal</color>:\n> <color=#fff568>VAMPIRE</color> enemies heal <color=#86e619>50%</color> of their Max Health when attacking enemies with <color=#fff568>Bleed</color>. If their Max Health is full they instead gain <color=#86e619>1</color> <color=#fff568>Deathproof</color>, <color=#fff568>Offense Up</color> for <color=#86e619>3</color> turns, <color=#fff568>Defense Up</color> for <color=#86e619>3</color> turns, and <color=#fff568>Safeguard</color> for <color=#86e619>3</color> turns.\n> If a Vampire enemy kills a civilian that enemy fills their Speed Bar by <color=#86e619>100%</color>."
+ID_MIS_HALLOWEEN2024_ZOMBIE_DESC,"Special Rules:\n\n<color=#FF9900>Hunger Without End</color>:\n> On spawn, <color=#86e619>UNDYING</color> gain <color=#86e619>10</color> <color=#fff568>Hungry</color>. Gain +<color=#86e619>20%</color> Speed and -<color=#86e619>8%</color> Damage per <color=#fff568>Hungry</color>.\n> Enemies spawn with <color=#fff568>Braaaaaaains</color>. Defeating an enemy removes an amount of <color=#fff568>Hungry</color> equal to the <color=#fff568>Braaaaaaains</color>... consumed.\n> When <color=#86e619>20</color> <color=#fff568>Braaaaaaains</color> are consumed, that character gains <color=#fff568>Undead Fortitude</color>.\n> <color=#fff568>Undead Fortitude</color> grants a character <color=#86e619>50%</color> Damage Resistance."
