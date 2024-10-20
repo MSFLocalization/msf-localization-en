@@ -14316,7 +14316,7 @@ ID_DIALOG_FEAT_BW_BOSSMISSION_START_1,Knull is the <color=#fff568>BOSS</color> o
 ID_DIALOG_FEAT_BW_BOSSMISSION_START_2,"Bosses <color=#fff568>RESPAWN</color> when defeated, and award VP for each kill. The more your alliance can defeat the boss, the more VP you earn!"
 ID_DIALOG_CHALLENGE_HALLOWEEN_ZOMBIE_START_0,Welcome to The Hunger challenge. The Undying team with the Zombie in the name have the following abilities.
 ID_DIALOG_CHALLENGE_HALLOWEEN_ZOMBIE_START_1,Hunger Without End: Start with 10 brains and defeat enemies eating to satiate your hunger. Each enemy will give you a certain amount of brains when you consume them.
-ID_DIALOG_CHALLENGE_HALLOWEEN_ZOMBIE_START_2,Hungry: Will increase zombie's Speed and reduce damage damage per stack of brains.
+ID_DIALOG_CHALLENGE_HALLOWEEN_ZOMBIE_START_2,Hungry: Will increase zombie's Speed and reduce Damage per stack of brains.
 ID_DIALOG_CHALLENGE_HALLOWEEN_ZOMBIE_START_3,"Satiated: Once you consume enough brains you will get increased Damage, Crit Chance, and Crit Damage per stack. Eat your fill at 20 brains and become lethargic for a turn, then gain Undead Fortitude"
 ID_DIALOG_CHALLENGE_HALLOWEEN_ZOMBIE_START_4,Undead Fortitude: Gain 50% damage resistance till the end of combat.
 ID_DIALOG_CHALLENGE_HALLOWEEN_VAMPIRE_START_0,Welcome to The Thirst challenge. The Vampire Minions you fight against will have the following abilities.
