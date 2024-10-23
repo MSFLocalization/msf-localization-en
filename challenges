@@ -2592,6 +2592,23 @@ ID_EVENT_NIGHTSTALKERS_MANTHING_FLAVOR,Man-Thing
 ID_EVENT_NIGHTSTALKERS_MANTHING_DESC,"In the Nexus of Realities, deep in the Florida Everglades, stands the Man-Thing!\n\nChapter 2 Challenge Requirements:\n- Man-Thing at 3, 4 and 5 Yellow Stars"
 ID_EVENT_NIGHTSTALKERS_TEAM_FLAVOR,Nightstalkers Strike!
 ID_EVENT_NIGHTSTALKERS_TEAM_DESC,"Following the vampire queen to her home dimension, the Nightstalkers take action to make sure she never returns to our world.\n\nChapter 2 Challenge Requirements: \n- Blade, Oath, Man-Thing, Moon Knight and Agatha Harkness at 3, 4, 5, 6 & 7 Yellow Stars"
+ID_SSE_ASTRAL_TOP_NAME,MIND OVER MATTER
+ID_SSE_ASTRAL_TOP_SUBTITLE,Astral Super Showcase
+ID_SSE_ASTRAL_ACTI_NAME,ANCIENT ONE
+ID_SSE_ASTRAL_ACTI_SUBTITLE,Astral Showcase - Act I
+ID_SSE_ASTRAL_ACTI_DESC,"Logan, still seeking information about Charles Xavier's location, visits Ancient One, who directs him to one of the few mutants strong enough to enter the Astral Plane.\n\nChapter 2 Challenge Requirements:\n- Ancient One at 3, 4, 5, 6 and 7 Yellow Stars"
+ID_SSE_ASTRAL_ACTI_FILLER,STORY
+ID_SSE_ASTRAL_ACTI_FILLSUB,Ancient One
+ID_SSE_ASTRAL_ACTII_NAME,EMMA FROST (X-MEN)
+ID_SSE_ASTRAL_ACTII_SUBTITLE,Astral Showcase - Act II
+ID_SSE_ASTRAL_ACTII_DESC,"Recognizing the peril threatening all mutants, Emma Frost identifies a flaw in the diamond - a memory alteration in her own mind.\n\nChapter 2 Challenge Requirements:\n- Emma Frost (X-Men) at 3, 4, 5, 6 and 7 Yellow Stars"
+ID_SSE_ASTRAL_ACTII_FILLER,STORY
+ID_SSE_ASTRAL_ACTII_FILLSUB,Emma Frost (X-Men)
+ID_SSE_ASTRAL_ACTIII_NAME,ASTRAL
+ID_SSE_ASTRAL_ACTIII_SUBTITLE,Astral Showcase - Final Act
+ID_SSE_ASTRAL_ACTIII_DESC,"Unveiled as the architect of Charles Xavier's disappearance, Shadow King mocks Logan with secrets known only to him.\n\nChapter 2 Challenge Requirements:\n- Ancient One, Emma Frost (X-Men), Moondragon and Doctor Strange at 3, 4, 5, 6 and 7 Yellow Stars"
+ID_SSE_ASTRAL_ACTIII_FILLER,STORY
+ID_SSE_ASTRAL_ACTIII_FILLSUB,Astral
 ID_INFO_NA_DIAMONDCLAWS,Diamond Claws
 ID_INFO_DE_DIAMONDCLAWS,Earn Old Man Logan Diamonds!
 ID_INFO_BO_DIAMONDCLAWS,"<color=#fff568>Diamond Claws Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by battling in Cosmic Crucible, spending Campaign Energy and Power Cores, completing the Ancient Gems Milestones and earning Midnight Coalition Orb Fragments from Free Claims, the Ancient Gems Milestone and special Offers. \n\nEarn fantastic rewards including <color=#fff568>T3 and T2 Iso-8 Materials, Training Modules and Crimson gear</color>. You'll also earn points towards the month-long Summer Nights milestone by collecting Disco Balls and the DJ Deadpool Mixtape.\n\n<color=#fff568>Midnight Coalition Orb</color>\nContains Dark Diamond Credits, Dark Promotion Credits and Pandapool, Daken, Guardian and Northstar shards.\n\n<color=#fff568>Diamond Claws Leaderboard</color>\nCompete on the Leaderboards for T3 Iso-8 Materials and the long-awaited Diamond Promotions for Old Man Logan!\n\n<color=#fff568>Ancient Gems Web Milestone</color>\nSpend Incursion Energy or earn Blitz Credits to earn Midnight Coalition Orb Fragments and Diamond Claws Milestone progress!"
@@ -2776,3 +2793,12 @@ ID_INFO_BO_BATTLEWORLDREADINESS,"Spend Campaign Energy and battle in Raid and Ar
 ID_INFO_NA_HAUNTEDHOUR,Haunted Hour
 ID_INFO_DE_HAUNTEDHOUR,"Earn Crimson Gear, costumes and more!"
 ID_INFO_BO_HAUNTEDHOUR,"<color=#fff568>Haunted Hour Milestone</color>\nGain progress in this <color=#fff568>10-day</color> event by collecting Milestone Points from Daily Objectives and battling in Blitz with Moon Knight or Agatha Harkness. Earn fantastic rewards including <color=#fff568>Crimson Gear, T4 Ability Materials, costumes and more</color>!"
+ID_INFO_NA_OVERWHELMINGHUNGER,Overwhelming Hunger
+ID_INFO_DE_OVERWHELMINGHUNGER,"Earn Silver Bullets, Crimson Mystic Gear, and Blade Shards!"
+ID_INFO_BO_OVERWHELMINGHUNGER,"<color=#fff568>Overwhelming Hunger Milestone</color>\nGain progress in this <color=#fff568>7-day</color> event by Battling in War with the Undying team, completing the Sugar Rush web event and earning Undying Orb Fragments from the Red Dead Rematch Campaign, Free Claims and Special Offers. \n\nEarn fantastic rewards including <color=#fff568>T3 Level 1 Ions, Dark Promotion Credits, Crimson Mystic Gear gear, and Blade Shards</color>. You'll also earn points towards the month-long Midnight Hunt milestone by collecting Silver Bullets and the valuable Bazooka.\n\n<color=#fff568>Undying Orb</color>\nContains a terrifying assortment of Undying character shards, including the all-new, all-powerful Scarlet Witch (Zombie)!\n\n<color=#fff568>Sugar Rush Web Milestone</color>\nIt's your last chance to spend Candy in the Candy Store and earn even more Overwhelming Hunger and Midnight Hunt Milestone progress!"
+ID_INFO_NA_SCARLETSURGE2,Scarlet Surge
+ID_INFO_DE_SCARLETSURGE2,Battle in Raid!
+ID_INFO_BO_SCARLETSURGE2,"Battle in Raid and earn amazing rewards in Scarlet Surge, a special Milestone for growing Commanders!\n\nEarn characters you can power up to help take on the challenges of the Pestilence Scourge Event and unlock the Legendary Morgan Le Fay (Player Level 65).\n\nClaim your Login Streak Token in the first Milestone and keep your streak active to earn even more rewards and bonuses!\n\nDon't miss out on this opportunity, Commander!"
+ID_INFO_NA_BATTLEWORLDBECKONS,Battleworld Beckons
+ID_INFO_DE_BATTLEWORLDBECKONS,"Campaign, Raid, and Arena"
+ID_INFO_BO_BATTLEWORLDBECKONS,"Spend Campaign Energy and battle in Raid and Arena to earn amazing rewards in Battleworld Beckons, a special Milestone for returning Commanders!\n\nEarn characters you can power up to help take on the challenges of the upcoming Battleworld feature (Player Level 75).\n\nClaim your Login Streak Token in the first Milestone and keep your streak active to earn even more rewards and bonuses!"

@@ -3424,6 +3424,12 @@ ID_MOTD_NA_NIGHTSTALKERS_LIVE,LIVE: Dead of Night
 ID_MOTD_DE_NIGHTSTALKERS_LIVE,Earn rewards by battling with the Nightstalkers!
 ID_MOTD_NA_NIGHTSTALKERS_ENDING,ENDING SOON: Dead of Night
 ID_MOTD_DE_NIGHTSTALKERS_ENDING,The Dead of Night event is ending soon!
+ID_MOTD_NA_ASTRAL_PREVIEW,COMING SOON: Mind Over Matter
+ID_MOTD_DE_ASTRAL_PREVIEW,Earn rewards by battling with Astral!
+ID_MOTD_NA_ASTRAL_LIVE,LIVE: Mind Over Matter
+ID_MOTD_DE_ASTRAL_LIVE,Earn rewards by battling with Astral!
+ID_MOTD_NA_ASTRAL_ENDING,ENDING SOON: Mind Over Matter
+ID_MOTD_DE_ASTRAL_ENDING,The Mind Over Matter event is ending soon!
 ID_MOTD_NA_MIDNIGHTHUNT_ANNOUNCE,LIVE: Midnight Hunt
 ID_MOTD_DE_MIDNIGHTHUNT_ANNOUNCE,Earn marvelous rewards!
 ID_MOTD_NA_MIDNIGHTHUNT_ENDING,Ending Soon: Midnight Hunt
@@ -3504,8 +3510,6 @@ ID_MOTD_NA_TEAMORB_MANTHING_ANNOUNCE,LIVE: Man-Thing Mash
 ID_MOTD_DE_TEAMORB_MANTHING_ANNOUNCE,Get additional Swamp Sovereign Orbs!
 ID_MOTD_NA_TEAMORB_MANTHING_ENDING,Ending Soon: Man-Thing Mash
 ID_MOTD_DE_TEAMORB_MANTHING_ENDING,Don't miss out on additional Swamp Sovereign Orbs!
-ID_MOTD_NA_BATTLEWORLDREADINESS_ANNOUNCE,LIVE: Battleworld Readiness
-ID_MOTD_DE_BATTLEWORLDREADINESS_ANNOUNCE,"Campaign, Raid, and battle in Arena for amazing rewards!"
 ID_MOTD_NA_HAUNTEDHOUR_ANNOUNCE,LIVE: Haunted Hour
 ID_MOTD_DE_HAUNTEDHOUR_ANNOUNCE,"Earn Crimson Gear, costumes and more!"
 ID_MOTD_NA_HAUNTEDHOUR_ENDING,Ending Soon: Haunted Hour
@@ -3519,3 +3523,9 @@ ID_MOTD_DE_ZOMBIESCARLETWITCH_TEASER,Braaaaaaainssss…
 ID_MOTD_NA_ZOMBIESCARLETWITCH_ANNOUNCE,Scarlet Witch (Zombie) is here!
 ID_MOTD_DE_ZOMBIESCARLETWITCH_ANNOUNCE,The Hexing Hellion is here to wreak chaos!
 ID_MOTD_DE_ZOMBIESCARLETWITCH_ANNOUNCE2,Open the Undying Orb to earn shards for Scarlet Witch (Zombie)!
+ID_MOTD_NA_OVERWHELMINGHUNGER_ANNOUNCE,LIVE: Overwhelming Hunger
+ID_MOTD_DE_OVERWHELMINGHUNGER_ANNOUNCE,"Earn Silver Bullets, Crimson Mystic Gear, and Blade Shards!"
+ID_MOTD_NA_OVERWHELMINGHUNGER_ENDING,ENDING: Overwhelming Hunger
+ID_MOTD_DE_OVERWHELMINGHUNGER_ENDING,Don't miss out on Crimson Skill Gear and Blade Shards!
+ID_MOTD_NA_BATTLEWORLDBECKONS_ANNOUNCE,LIVE: Battleworld Beckons
+ID_MOTD_DE_BATTLEWORLDBECKONS_ANNOUNCE,"Campaign, Raid, and battle in Arena for amazing rewards!"

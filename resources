@@ -61,6 +61,7 @@ ID_RES_CAMPAIGN_ENERGY_EVENT04,Annihilating Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT05,Cipher
 ID_RES_CAMPAIGN_ENERGY_EVENT06,Quantum Cipher
 ID_RES_CAMPAIGN_ENERGY_EVENT07,Dead of Night Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT08,Astral Energy
 ID_CAMPAIGN_ENERGY_EVENT01_NAME,Undying Energy
 ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch Red Dead Rematch missions.
 ID_CAMPAIGN_ENERGY_EVENT02_NAME,Warrior Energy
@@ -75,6 +76,8 @@ ID_CAMPAIGN_ENERGY_EVENT06_NAME,Quantum Cipher
 ID_CAMPAIGN_ENERGY_EVENT06_DESCRIPTION,Used to launch the final set of Orchis Forge bonus missions.
 ID_CAMPAIGN_ENERGY_EVENT07_NAME,Dead of Night Energy
 ID_CAMPAIGN_ENERGY_EVENT07_DESCRIPTION,Used to launch Dead of Night missions.
+ID_CAMPAIGN_ENERGY_EVENT08_NAME,Astral Energy
+ID_CAMPAIGN_ENERGY_EVENT08_DESCRIPTION,Used to launch Mind Over Matter missions.
 ID_RES_CAMPAIGN_ENERGY_EVENT10_NAME,Arachnid Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT10_DESCRIPTION,Used to launch Loose Threads missions.
 ID_HC_NAME,Power Cores
@@ -623,7 +626,7 @@ ID_EVTA_META_AUG_Y_DESCRIPTION,Earn Progress in the Annihilators' Assembly Miles
 ID_EVTA_META_SEP_Z_NAME,Raven
 ID_EVTA_META_SEP_Z_DESCRIPTION,"Collect Ravens by completing Dark Dimension VIII missions, and earn exciting rewards in the To Valhalla! Milestone event."
 ID_EVTA_META_OCT_A_NAME,Silver Bullet
-ID_EVTA_META_OCT_A_DESCRIPTION,Collect Silver Bullets for points in the Midnight Hunt Event. Earn them in various events throughout the month of September
+ID_EVTA_META_OCT_A_DESCRIPTION,Collect Silver Bullets for points in the Midnight Hunt Event. Earn them in various events throughout the month of October
 ID_EVTA_META_OCT_B_NAME,Stake
 ID_EVTA_META_OCT_B_DESCRIPTION,Collect the Stake for points in the Midnight Hunt Event. Earn it in the Vampiric Frenzy Event!
 ID_EVTA_META_OCT_C_NAME,Prayer Beads
@@ -652,3 +655,7 @@ ID_EVTA_META_OCT_J_NAME,Zombie Invasion Milestone Points
 ID_EVTA_META_OCT_J_DESCRIPTION,These points earn you additional progress in the Zombie Invasion Milestone. Earn them in the Sugar Rush Web Milestone and Special Offers!
 ID_EVTA_META_OCT_M_NAME,Haunted Hour Milestone Point
 ID_EVTA_META_OCT_M_DESCRIPTION,Collect these points for progress in the Haunted Hour milestone. Earn them in Daily Objectives!
+ID_EVTA_META_OCT_N_NAME,Dark Harvest Milestone Point
+ID_EVTA_META_OCT_N_DESCRIPTION,Collect these for progress in the Dark Harvest milestone event!
+ID_EVTA_META_OCT_L_NAME,Overwhelming Hunger Milestone Points
+ID_EVTA_META_OCT_L_DESCRIPTION,These points earn you additional progress in the Overwhelming Hunger Milestone. Earn them in the Sugar Rush Web Milestone and Special Offers!

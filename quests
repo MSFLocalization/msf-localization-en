@@ -5283,7 +5283,7 @@ ID_QU_S11_ZOMBIEINVASION,Use Man-Thing at 6 Yellow Stars in Raids
 ID_QU_S12_ZOMBIEINVASION,Use Man-Thing at 7 Yellow Stars in Raids
 ID_QU_S13_ZOMBIEINVASION,Spend 1 Power Core
 ID_QU_NA_TEAMORB_MANTHING,Man-Thing Mash
-ID_QU_SD_TEAMORB_MANTHING,"Find Blade Nightstalker Orb Fragments in events, and offers!"
+ID_QU_SD_TEAMORB_MANTHING,"Find Man-Thing Nightstalker Orb Fragments in events, and offers!"
 ID_QU_LD_TEAMORB_MANTHING,Man-Thing Mash Milestone\nOpen Man-Thing Nightstalker Orbs to gain progress and receive additional Swamp Sovereign Orbs!
 ID_QU_S1_TEAMORB_MANTHING,Open 1 Man-Thing Nightstalker Orb
 ID_QU_NA_STRIKESHOWDOWN2,S.T.R.I.K.E. Showdown
@@ -5302,3 +5302,54 @@ ID_QU_S1_HAUNTEDHOUR,Collect 1 Milestone Point from Daily Objectives
 ID_QU_S2_HAUNTEDHOUR,Battle in Blitz with Moon Knight
 ID_QU_S3_HAUNTEDHOUR,Battle in Blitz with Agatha Harkness
 ID_QU_LD_SUGARRUSH4,"Spend Candy on fabulous goods in the Candy Store, and be rewarded with additional progress in Zombie Invasion and Midnight Hunt!"
+ID_QU_NA_DARKHARVEST_ZERG,Dark Harvest
+ID_QU_SD_DARKHARVEST_ZERG,"Get additional shards for Omega Sentinel, Blade and Oath!"
+ID_QU_LD_DARKHARVEST_ZERG,"<color=#fff568>Dark Harvest Assembly</color>\nCollect Dark Harvest Milestone Points via Dark Harvest Web Offers to earn progress and receive additional Omega Sentinel, Blade & Oath shards!"
+ID_QU_S1_DARKHARVEST_ZERG,Earn 1 Dark Harvest Assembly Milestone Point
+ID_QU_NA_OVERWHELMINGHUNGER,Overwhelming Hunger
+ID_QU_SD_OVERWHELMINGHUNGER,Play War with Undying and earn Undying Orb Fragments
+ID_QU_LD_OVERWHELMINGHUNGER,"Overwhelming Hunger Milestone\nGain progress in this 7-day event by Battling in War with the Undying team, completing the Sugar Rush web event and earning Undying Orb Fragments from the Red Dead Rematch Campaign, Free Claims and Special Offers. \n\nEarn fantastic rewards including T3 Level 1 Ions, Dark Promotion Credits, Crimson Mystic Gear gear, and Blade Shards. You'll also earn points towards the month-long Midnight Hunt milestone by collecting Silver Bullets and the valuable Bazooka.\n\nUndying Orb\nContains a terrifying assortment of Undying character shards, including the all-new, all-powerful Scarlet Witch (Zombie)!\n\nSugar Rush Web Milestone\nIt's your last chance to spend Candy in the Candy Store and earn even more Overwhelming Hunger and Midnight Hunt Milestone progress!"
+ID_QU_SM_OVERWHELMINGHUNGER,Play War with Undying and earn Undying Orb Fragments
+ID_QU_S1_OVERWHELMINGHUNGER,Play 1 War Battle
+ID_QU_S2_OVERWHELMINGHUNGER,Play 1 War Battle with Undying characters at Gear Tier 17
+ID_QU_S3_OVERWHELMINGHUNGER,Play 1 War Battle with Undying characters at Gear Tier 18
+ID_QU_S4_OVERWHELMINGHUNGER,Play 1 War Battle with Undying characters at Gear Tier 19
+ID_QU_S5_OVERWHELMINGHUNGER,Earn 1 Undying Orb Fragment from the Red Dead Rematch Campaign
+ID_QU_NA_SCARLETSURGE2,Scarlet Surge
+ID_QU_LD_SCARLETSURGE2,"Battle in Raid and earn amazing rewards in Scarlet Surge, a special Milestone for growing Commanders!\n\nEarn characters you can power up to help take on the challenges of the Pestilence Scourge Event and unlock the Legendary Morgan Le Fay (Player Level 65).\n\nClaim your Login Streak Token in the first Milestone and keep your streak active to earn even more rewards and bonuses!\n\nDon't miss out on this opportunity, Commander!"
+ID_QU_NA_BATTLEWORLDBECKONS,Battleworld Beckons
+ID_QU_SD_BATTLEWORLDBECKONS,"Spend Campaign Energy, Raid, and battle in Arena"
+ID_QU_LD_BATTLEWORLDBECKONS,"Spend Campaign Energy and battle in Raid and Arena to earn amazing rewards in Battleworld Beckons, a special Milestone for returning Commanders!\n\nEarn characters you can power up to help take on the challenges of the upcoming Battleworld feature (Player Level 75).\n\nClaim your Login Streak Token in the first Milestone and keep your streak active to earn even more rewards and bonuses!"
+ID_QU_S1_BATTLEWORLDBECKONS,Spend 1 Campaign Energy
+ID_QU_S2_BATTLEWORLDBECKONS,Battle in Raid
+ID_QU_S3_BATTLEWORLDBECKONS,Battle in Arena
+ID_QU_S4_BATTLEWORLDBECKONS,Open 1 J.A.R.V.I.S. Recommended Orb
+ID_QU_LD_SUGARRUSH5,"Spend Candy on fabulous goods in the Candy Store, and be rewarded with additional progress in Overwhelming Hunger and Midnight Hunt!"
+ID_QU_NA_SPLASH_THEHIVE,The Hive
+ID_QU_SD_SPLASH_THEHIVE,Use Hive-Mind in Blitz
+ID_QU_LM_SPLASH_THEHIVE,Earn points by using Hive-Mind characters in Blitz Battles. Earn more points if your Hive-Mind characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_THEHIVE,Use Hive-Mind Characters in Blitz
+ID_QU_S1_SPLASH_THEHIVE,Win Blitz with a 3-star or higher Hive-Mind Character
+ID_QU_S2_SPLASH_THEHIVE,Win Blitz with a 5-star or higher Hive-Mind Character
+ID_QU_S3_SPLASH_THEHIVE,Win Blitz with a 7-star Hive-Mind Character
+ID_QU_NA_SPLASH_XTRAXTREME,X-Tra X-Treme
+ID_QU_SD_SPLASH_XTRAXTREME,Use X-Treme X-Men in Blitz
+ID_QU_LM_SPLASH_XTRAXTREME,Earn points by using X-Treme X-Men characters in Blitz Battles. Earn more points if your X-Treme X-Men characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_XTRAXTREME,Use X-Treme X-Men Characters in Blitz
+ID_QU_S1_SPLASH_XTRAXTREME,Win Blitz with a 3-star or higher X-Treme X-Men Character
+ID_QU_S2_SPLASH_XTRAXTREME,Win Blitz with a 5-star or higher X-Treme X-Men Character
+ID_QU_S3_SPLASH_XTRAXTREME,Win Blitz with a 7-star X-Treme X-Men Character
+ID_QU_NA_SPLASH_SPIDEYSENSE,Spidey Sense
+ID_QU_SD_SPLASH_SPIDEYSENSE,Use Spider-Society in Blitz
+ID_QU_LM_SPLASH_SPIDEYSENSE,Earn points by using Spider-Society characters in Blitz Battles. Earn more points if your Spider-Society characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_SPIDEYSENSE,Use Spider-Society Characters in Blitz
+ID_QU_S1_SPLASH_SPIDEYSENSE,Win Blitz with a 3-star or higher Spider-Society Character
+ID_QU_S2_SPLASH_SPIDEYSENSE,Win Blitz with a 5-star or higher Spider-Society Character
+ID_QU_S3_SPLASH_SPIDEYSENSE,Win Blitz with a 7-star Spider-Society Character
+ID_QU_NA_SPLASH_FLIGHTCLUB,Braaains
+ID_QU_SD_SPLASH_FLIGHTCLUB,Use Alpha Flight in Blitz
+ID_QU_LM_SPLASH_FLIGHTCLUB,Earn points by using Alpha Flight characters in Blitz Battles. Earn more points if your Alpha Flight characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
+ID_QU_SC_SPLASH_FLIGHTCLUB,Use Alpha Flight Characters in Blitz
+ID_QU_S1_SPLASH_FLIGHTCLUB,Win Blitz with a 3-star or higher Alpha Flight Character
+ID_QU_S2_SPLASH_FLIGHTCLUB,Win Blitz with a 5-star or higher Alpha Flight Character
+ID_QU_S3_SPLASH_FLIGHTCLUB,Win Blitz with a 7-star Alpha Flight Character
