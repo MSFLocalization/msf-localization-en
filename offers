@@ -11187,9 +11187,9 @@ ID_OF_DE_BWPREP24WK3_DC_STEP2,Training has begun! Enjoy this special offer and c
 ID_OF_DE_BWPREP24WK3_DC_STEP1,Begin the journey in honing your skills for Battleworld with this free first step!
 ID_OF_NA_ZOMBIESCARLETWITCH_FCO_OFFER,Hexing Hellion
 ID_OF_DE_ZOMBIESCARLETWITCH_FCO_OFFER,<color=#f12603>Limited Time Only!</color> Each <color=#fff568>Undying Orb</color> contains <color=#fff568>180 Scarlet Witch (Zombie)</color> shards. <color=#fff568>Scarlet Witch (Zombie)</color> is here to wreak chaos! Summon an ally Juggernaut (Zombie) from the grave!
-ID_OF_DE_ZOMBIESCARLETWITCH_OFFER_VAR_SU,<color=#f12603>Limited Time Only!</color> Recruit a <color=#fff568>{var1}-star Scarlet Witch (Zombie)</color> and unlock one-time only release offers on your next visit! <color=#f12603>Limited Time Only!</color> <color=#fff568>Scarlet Witch (Zombie)</color> is here to wreak chaos! Summon an ally Juggernaut (Zombie) from the grave!
-ID_OF_DE_ZOMBIESCARLETWITCH_OFFER_SHARD,Power up <color=#fff568>Scarlet Witch (Zombie)</color> with this shard offer! <color=#f12603>Limited Time Only!</color> <color=#fff568>Scarlet Witch (Zombie)</color> is here to wreak chaos! Summon an ally Juggernaut (Zombie) from the grave!
-ID_OF_DE_ZOMBIESCARLETWITCH_UNLOCK_OFFER,Unlock <color=#fff568>Scarlet Witch (Zombie)</color> now! <color=#f12603>Limited Time Only!</color> <color=#fff568>Scarlet Witch (Zombie)</color> is here to wreak chaos! Summon an ally Juggernaut (Zombie) from the grave!
+ID_OF_DE_ZOMBIESCARLETWITCH_OFFER_VAR_SU,<color=#f12603>Limited Time Only!</color> Recruit a <color=#fff568>{var1}-star Scarlet Witch (Zombie)</color> and unlock one-time only release offers on your next visit! <color=#fff568>Scarlet Witch (Zombie)</color> is here to wreak chaos! Summon an ally Juggernaut (Zombie) from the grave!
+ID_OF_DE_ZOMBIESCARLETWITCH_OFFER_SHARD,<color=#f12603>Limited Time Only!</color> Power up <color=#fff568>Scarlet Witch (Zombie)</color> with this shard offer! <color=#fff568>Scarlet Witch (Zombie)</color> is here to wreak chaos! Summon an ally Juggernaut (Zombie) from the grave!
+ID_OF_DE_ZOMBIESCARLETWITCH_UNLOCK_OFFER,<color=#f12603>Limited Time Only!</color> Unlock <color=#fff568>Scarlet Witch (Zombie)</color> now! <color=#fff568>Scarlet Witch (Zombie)</color> is here to wreak chaos! Summon an ally Juggernaut (Zombie) from the grave!
 ID_OF_STOREBAR_ZOMBIESCARLETWITCH,Dual Offer: Scarlet Witch (Zombie)
 ID_OF_NA_DUAL_ZOMBIESCARLETWITCH,Dual Offer: Scarlet Witch (Zombie)
 ID_OF_DE_DUAL_ZOMBIESCARLETWITCH,Choose your path to power up this <color=#fff568>Undying</color> member!
@@ -11202,7 +11202,7 @@ ID_OF_DE_ZOMBIESCARLETWITCH_TEAMORB_TY,Thank you for your support! Please enjoy 
 ID_OF_NA_ZOMBIESCARLETWITCH_WEB_EXTRA_FCO_OFFER,Scarlet Witch (Zombie) Unlock Offer
 ID_OF_DE_ZOMBIESCARLETWITCH_WEB_EXTRA_FCO_OFFER,"<color=#f12603>Limited Time Only!</color> The Hexing Hellion, <color=#fff568>Scarlet Witch (Zombie)</color>, has arrived!"
 ID_OF_NA_ZOMBIESCARLETWITCH_WEB_SPECIAL_OFFER,Hexing Hellion Special
-ID_OF_DE_ZOMBIESCARLETWITCH_WEB_SPECIAL_OFFER,<color=#f12603>Limited Time Only!</color> <color=#fff568>Web Special!</color> <color=#f12603>Limited Time Only!</color> <color=#fff568>Scarlet Witch (Zombie)</color> is here to wreak chaos! Summon an ally Juggernaut (Zombie) from the grave!
+ID_OF_DE_ZOMBIESCARLETWITCH_WEB_SPECIAL_OFFER,<color=#f12603>Limited Time Only!</color> <color=#fff568>Web Special!</color> <color=#fff568>Scarlet Witch (Zombie)</color> is here to wreak chaos! Summon an ally Juggernaut (Zombie) from the grave!
 ID_OF_NA_HALLOWEEN24_WEBGOLDABMBIG,Sneak Peek: Spooky Treasure
 ID_OF_NA_HALLOWEEN24_WEBPURPLEISO,Sneak Peek: Eerie Enhancements
 ID_OF_NA_HALLOWEEN24_WEBDARKPROMO,Sneak Peek: Cryptic Credits
@@ -11318,3 +11318,27 @@ ID_OF_NA_FALL24WK4_T3_Blaster_CAL_7D,Seasonal ISO Blaster Calendar
 ID_OF_DE_FALL24WK4_T3_Blaster_CAL_7D,Purchase for a calendar that provides T3 Blaster ISO-8 Crystals and T3 Level 1 Ions at the end!
 ID_OF_NA_FALL24WK4_T3_Brawler_CAL_7D,Seasonal ISO Brawler Calendar
 ID_OF_DE_FALL24WK4_T3_Brawler_CAL_7D,Purchase for a calendar that provides T3 Brawler ISO-8 Crystals and T3 Level 1 Ions at the end!
+ID_OF_NA_HALLOWEEN24_COSTUME_ULTRON,Halloween: Ultron's What If? Costume
+ID_OF_NA_HALLOWEEN24_COSTUME_HULK,Halloween: Hulk's Ragnarok Costume
+ID_OF_NA_HALLOWEEN24_COSTUME_DOCOCT,Halloween: Doctor Octopus's No Way Home Costume
+ID_OF_NA_HALLOWEEN24_COSTUME_CARNAGE,Halloween: Carnage's Absolute Carnage Costume
+ID_OF_NA_HALLOWEEN24_COSTUME_SIF,Halloween: Sif's Lady Sif Costume
+ID_OF_NA_HALLOWEEN24_COSTUME_NAMOR,Halloween: Namor's Talokan Costume
+ID_OF_NA_HALLOWEEN24_COSTUME_THORIW,Halloween: Thor's Love and Thunder Costume
+ID_OF_NA_HALLOWEEN24_COSTUME_DAREDEVIL,Halloween: Daredevil's Shadowland Costume
+ID_OF_DE_HALLOWEEN24_COSTUME_EVERYONE,It wouldn't be Halloween without a bit of dressing up. Deck out your character with this special costume offer!
+ID_OF_NA_BWPREP24WK4_AF_DIAMOND_DRAFT,Battleworld Prep: Alpha Flight Diamonds
+ID_OF_NA_BWPREP24WK4_CRIMSON_SS,Battleworld Prep: Crimson Spider Society
+ID_OF_NA_BWPREP24WK4_DAKEN_TY,Battleworld Prep: Daken Thank You!
+ID_OF_NA_BWPREP24WK4_DAKEN,Battleworld Prep: Daken Special
+ID_OF_NA_BWPREP24WK4_PURPLE_ISO_BLASTER,Battleworld Prep: ISO Blaster
+ID_OF_NA_BWPREP24WK4_M4M_DIAMOND_DRAFT,Battleworld Prep: Mercs For Money Diamonds
+ID_OF_NA_BWPREP24WK4_PURPLE_ISO_BRAWLER,Battleworld Prep: ISO Brawler
+ID_OF_NA_BWPREP24WK4_PANDAPOOL_TY,Battleworld Prep: Pandapool Thank You!
+ID_OF_NA_BWPREP24WK4_PANDAPOOL,Battleworld Prep: Pandapool Special
+ID_OF_NA_BWPREP24WK4_ORCHIS,Battleworld Prep: Orchis Tune Up
+ID_OF_NA_BWPREP24WK4_SS_DIAMOND_DRAFT,Battleworld Prep: Spider Society Diamonds
+ID_OF_NA_BWPREP24WK4_CRIMSON_HIVE,Battleworld Prep: Crimson Hive Mind
+ID_OF_DE_BWPREP24WK4_AF_DIAMOND_DRAFT,Prepare for Battleworld with a Diamond Guarantee for select members of <color=#fff568>Alpha Flight</color>! Also provides chance to get 3 Diamonds!
+ID_OF_DE_BWPREP24WK4_M4M_DIAMOND_DRAFT,Prepare for Battleworld with a Diamond Guarantee for select members of <color=#fff568>Mercs For Money</color>! Also provides chance to get 3 Diamonds!
+ID_OF_DE_BWPREP24WK4_SS_DIAMOND_DRAFT,Prepare for Battleworld with a Diamond Guarantee for select members of the <color=#fff568>Spider Society</color>! Also provides chance to get 3 Diamonds!

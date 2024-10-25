@@ -9823,6 +9823,82 @@ ID_DIALOG_ECM_XTXM_05_WAVE2_0,Omega Red can inflict Trauma with his Special.
 ID_DIALOG_ECM_XTXM_05_WAVE2_1,"If you're hit with that, you won't be able to remove any negative status effects."
 ID_DIALOG_ECM_XTXM_05_END_0,"While you were busy with that, Storm sent a message."
 ID_DIALOG_ECM_XTXM_05_END_1,You'll be joining us on a joint mission with... Magneto.
+ID_DIALOG_SSE_ANCIENTONE_01_INTRO_0,Strange. Where are we?
+ID_DIALOG_SSE_ANCIENTONE_01_INTRO_1,You were out in space wandering around hoping for an answer.
+ID_DIALOG_SSE_ANCIENTONE_01_INTRO_2,I'm bringing you to someone who will help... focus your search.
+ID_DIALOG_SSE_ANCIENTONE_01_INTRO_3,You better not be wasting my time.
+ID_DIALOG_SSE_ANCIENTONE_01_INTRO_4,"Time, much like one's mind, is a tool."
+ID_DIALOG_SSE_ANCIENTONE_01_INTRO_5,And your mind has quite the wear on it.
+ID_DIALOG_SSE_ANCIENTONE_01_INTRO_6,"No pokin' 'round in there, bub."
+ID_DIALOG_SSE_ANCIENTONE_01_START_0,"It seems there is much weighing on your mind, Logan."
+ID_DIALOG_SSE_ANCIENTONE_01_WAVE2_0,Your grip on the past may serve you yet.
+ID_DIALOG_SSE_ANCIENTONE_01_END_0,Quit diggin' around in there.
+ID_DIALOG_SSE_ANCIENTONE_01_END_1,"Yer makin' my claws real itchy, lady."
+ID_DIALOG_SSE_ANCIENTONE_01_END_2,"Your scars are deep, despite your healing factor. But so are your bonds."
+ID_DIALOG_SSE_ANCIENTONE_01_END_3,"Mutants are a rarity here, but we may be able to contact one here who can help."
+ID_DIALOG_SSE_ANCIENTONE_02_INTRO_0,How'd you know I need help?
+ID_DIALOG_SSE_ANCIENTONE_02_INTRO_1,Just look at you.
+ID_DIALOG_SSE_ANCIENTONE_02_INTRO_2,There's but one question on your mind at present...
+ID_DIALOG_SSE_ANCIENTONE_02_INTRO_3,"...""Where is Charles?"""
+ID_DIALOG_SSE_ANCIENTONE_02_INTRO_4,I coulda told ya that.
+ID_DIALOG_SSE_ANCIENTONE_02_INTRO_5,You need to attune with the Astral Plane if we're to find 'her'.
+ID_DIALOG_SSE_ANCIENTONE_02_START_0,You're being distracted by the ghosts of your past. Focus.
+ID_DIALOG_SSE_ANCIENTONE_03_START_0,This is what you call focused?
+ID_DIALOG_SSE_ANCIENTONE_03_START_1,"I call it ""workin' through some rage."""
+ID_DIALOG_SSE_ANCIENTONE_04_START_0,Your rage has clouded your path for years.
+ID_DIALOG_SSE_ANCIENTONE_04_START_1,And it will continue to obscure the one ahead of you.
+ID_DIALOG_SSE_ANCIENTONE_05_START_0,I can see it now. What a brilliant shine.
+ID_DIALOG_SSE_ANCIENTONE_05_END_0,Come now. Your ally is waiting.
+ID_DIALOG_SSE_EMMAFROST_01_INTRO_0,Is this the mirror dimension?
+ID_DIALOG_SSE_EMMAFROST_01_INTRO_1,It's a reflection of her.
+ID_DIALOG_SSE_EMMAFROST_01_INTRO_2,Emma Frost. Ya brought me to Emma Frost?!
+ID_DIALOG_SSE_EMMAFROST_01_INTRO_3,Do you know of any other mutants here with extraordinary telepathy?
+ID_DIALOG_SSE_EMMAFROST_01_INTRO_4,Wolverine.
+ID_DIALOG_SSE_EMMAFROST_01_INTRO_5,"No time for idle chattin', Frost."
+ID_DIALOG_SSE_EMMAFROST_01_INTRO_6,I need ya to help me track down Chuck.
+ID_DIALOG_SSE_EMMAFROST_01_INTRO_7,"I'd love to be of help to you, but I've got problems of my own to deal with."
+ID_DIALOG_SSE_EMMAFROST_01_END_0,"Spill it, Frost. What's goin' on?"
+ID_DIALOG_SSE_EMMAFROST_01_END_1,Someone's been poking around in my head.
+ID_DIALOG_SSE_EMMAFROST_01_END_2,"I know my mind best, and something isn't right."
+ID_DIALOG_SSE_EMMAFROST_02_INTRO_0,"I wasn't able to tell what was wrong, but I felt it."
+ID_DIALOG_SSE_EMMAFROST_02_INTRO_1,I knew I had to train and become stronger so I could nail down the source.
+ID_DIALOG_SSE_EMMAFROST_02_INTRO_2,"But you mentioned ""Charles,"" should I know the name?"
+ID_DIALOG_SSE_EMMAFROST_02_INTRO_3,"This has gotta be bad news if he was wiped from your memory, too."
+ID_DIALOG_SSE_EMMAFROST_02_START_0,"Fill me in later. For now, let's clear up the riffraff."
+ID_DIALOG_SSE_EMMAFROST_03_INTRO_0,"If what you're saying is true, mutants everywhere could be at risk."
+ID_DIALOG_SSE_EMMAFROST_03_INTRO_1,This level of power... It's not unheard of.
+ID_DIALOG_SSE_EMMAFROST_03_INTRO_2,But you will need my help.
+ID_DIALOG_SSE_EMMAFROST_03_START_0,Ugh. Let's clear these guys out first.
+ID_DIALOG_SSE_EMMAFROST_03_END_0,Let me see if he's stashed away somewhere.
+ID_DIALOG_SSE_EMMAFROST_03_END_1,Hm.
+ID_DIALOG_SSE_EMMAFROST_03_END_2,What is it?
+ID_DIALOG_SSE_EMMAFROST_03_END_3,A... shadow?
+ID_DIALOG_SSE_EMMAFROST_04_START_0,Why do I feel like we just kicked a hornet's nest?
+ID_DIALOG_SSE_EMMAFROST_05_END_0,This isn't right...
+ID_DIALOG_SSE_EMMAFROST_05_END_1,We're actively being targeted now.
+ID_DIALOG_SSE_EMMAFROST_05_END_2,Unless...
+ID_DIALOG_SSE_EMMAFROST_05_END_3,That's no ordinary shadow...
+ID_DIALOG_SSE_ASTRALTEAM_01_INTRO_0,YOU!
+ID_DIALOG_SSE_ASTRALTEAM_01_INTRO_1,Surprised to see the Shadow King?
+ID_DIALOG_SSE_ASTRALTEAM_01_INTRO_2,Who else could have the telepathic skill to affect the minds of millions?
+ID_DIALOG_SSE_ASTRALTEAM_01_INTRO_3,"Too bad ya forgot about me, Farouk."
+ID_DIALOG_SSE_ASTRALTEAM_01_INTRO_4,"Yes, well, I can hardly be blamed for missing one little lost lamb from another world."
+ID_DIALOG_SSE_ASTRALTEAM_01_INTRO_5,But I can rectify that mistake. Right. Now.
+ID_DIALOG_SSE_ASTRALTEAM_01_START_0,"Afraid I can't let you dismantle Logan, darling. You messed with my mind as well, and that simply won't do."
+ID_DIALOG_SSE_ASTRALTEAM_01_START_1,Fine. Let's see if your mind is strong enough to handle my grunts!
+ID_DIALOG_SSE_ASTRALTEAM_02_START_0,"Get to talkin', bub. Where's Chuck?"
+ID_DIALOG_SSE_ASTRALTEAM_02_START_1,"Why, whoever could you be talking about? Hahahah."
+ID_DIALOG_SSE_ASTRALTEAM_03_START_0,An illusion! We can't let him get away.
+ID_DIALOG_SSE_ASTRALTEAM_03_START_1,"Charles put up quite the fight, too."
+ID_DIALOG_SSE_ASTRALTEAM_03_START_2,"But you know how that goes. Oh, wait. You don't!"
+ID_DIALOG_SSE_ASTRALTEAM_05_START_0,"You don't seriously think you can beat me, do you?"
+ID_DIALOG_SSE_ASTRALTEAM_05_START_1,"You're outmatched, out-gunned, out BRAINED!"
+ID_DIALOG_SSE_ASTRALTEAM_05_END_0,"Such a primitive mind. I could shatter it in an instant. But better to leave you broken, eh?"
+ID_DIALOG_SSE_ASTRALTEAM_05_END_1,Farouk! Get back here!
+ID_DIALOG_SSE_ASTRALTEAM_05_END_2,Do not despair. He hasn't escaped far.
+ID_DIALOG_SSE_ASTRALTEAM_05_END_3,"Shadow King is a formidable enemy, but he no longer has the element of surprise."
+ID_DIALOG_SSE_ASTRALTEAM_05_END_4,"We know who sits at the center of your mystery, Logan."
+ID_DIALOG_SSE_ASTRALTEAM_05_END_5,And we WILL get Shadow King to tell us what he's done with Charles Xavier!
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.
