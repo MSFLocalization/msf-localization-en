@@ -11354,3 +11354,59 @@ ID_OF_NA_THS_RESOURCE_OFFER_L80,Time Heist: Level 80
 ID_OF_NA_THS_RESOURCE_OFFER_L95,Time Heist: Level 95
 ID_OF_NA_THS_RESOURCE_OFFER_L97,Time Heist: Level 97
 ID_OF_DE_THS_TEAM_OFFER_v2,Only for Time Heist Players for a limited time! Continue to upgrade your team with this special resources offer!
+ID_OF_NA_COSMICAWAKENING_STARTER_MEGA,Cosmic Awakening Starter
+ID_OF_NA_COSMICAWAKENING_STARTER_SUPER,Cosmic Awakening Starter Kit
+ID_OF_NA_COSMICAWAKENING_STARTER,Cosmic Journey Supplies
+ID_OF_NA_COSMICAWAKENING_BOOSTER_ANCHOR,Daily Blessing
+ID_OF_NA_COSMICAWAKENING_MEGA,Mega Blessing
+ID_OF_NA_COSMICAWAKENING_LEGACY,Cosmic Legacy
+ID_OF_NA_COSMICAWAKENING_SHARDS,Cosmic Recruitment
+ID_OF_NA_COSMICAWAKENING_GOLD,Blessed Gold
+ID_OF_NA_COSMICAWAKENING_CATS,Enchanted Catalysts
+ID_OF_NA_COSMICAWAKENING_DPC,Cosmic Promotion
+ID_OF_NA_COSMICAWAKENING_TRAINING,Cosmic Training
+ID_OF_NA_COSMICAWAKENING_AB,Blessed Abilities
+ID_OF_NA_COSMICAWAKENING_CATCHUP_MEGA,Cosmic Awakening: Mega Catch-Up
+ID_OF_NA_COSMICAWAKENING_CATCHUP_SUPER,Cosmic Awakening: Super Catch-Up
+ID_OF_NA_COSMICAWAKENING_CATCHUP_LAST_CHANCE,Sunrise
+ID_OF_NA_COSMICAWAKENING_FREEDAILY,Cosmic Awakening: Free Claim
+ID_OF_DE_COSMICAWAKENING_STARTER_MEGA,Stock up on <color=#fff568>Cosmic Awakening</color> progress and exclusive items!
+ID_OF_DE_COSMICAWAKENING_STARTER_SUPER,Get ahead in the <color=#fff568>Cosmic Awakening</color> milestone!
+ID_OF_DE_COSMICAWAKENING_STARTER,Start off strong in the <color=#fff568>Cosmic Awakening</color> milestone!
+ID_OF_DE_COSMICAWAKENING_BOOSTER_ANCHOR,Make consistent <color=#fff568>Cosmic Awakening</color> progress with this daily <color=#fff568>Silver Bullet</color> drop!
+ID_OF_DE_COSMICAWAKENING_LEGACY,Stock up on <color=#fff568>Cosmic Awakening event progress</color> and <color=#fff568>Legacy Orbs</color> with this special deal!
+ID_OF_DE_COSMICAWAKENING_SHARDS,Stock up on <color=#fff568>Cosmic Awakening event progress</color> and <color=#fff568>character shards</color> with this special deal!
+ID_OF_DE_COSMICAWAKENING_GOLD,Stock up on <color=#fff568>Cosmic Awakening event progress</color> and <color=#fff568>Gold</color> with this special deal!
+ID_OF_DE_COSMICAWAKENING_CATS,Stock up on <color=#fff568>Cosmic Awakening  event progress</color> and <color=#fff568>Catalyst Parts</color> with this special deal!
+ID_OF_DE_COSMICAWAKENING_DPC,Stock up on <color=#fff568>Cosmic Awakening</color> progress and exclusive items!
+ID_OF_DE_COSMICAWAKENING_TRAINING,Stock up on <color=#fff568>Cosmic Awakening event progress</color> and <color=#fff568>Training Modules</color> with this special deal!
+ID_OF_DE_COSMICAWAKENING_AB,Stock up on <color=#fff568>Cosmic Awakening event progress</color> and <color=#fff568>Ability Materials</color> with this special deal!
+ID_OF_DE_COSMICAWAKENING_CATCHUP_MEGA,Finish strong in the <color=#fff568>Cosmic Awakening</color> milestones to earn Fully-Crafted Teal Mystic Gear!
+ID_OF_DE_COSMICAWAKENING_CATCHUP_LAST_CHANCE,"Catch this deal before it's too late to earn Fully-Crafted Teal Mystic Gear! "
+ID_OF_DE_COSMICAWAKENING_FREEDAILY,Come back daily for more <color=#fff568>Cosmic Awakening</color> progress!
+ID_OF_NA_ASTRALVOYAGE_STARTER,Astral Voyage: Starter
+ID_OF_NA_ASTRALVOYAGE_CATCHUP,Astral Voyage: Catch-up
+ID_OF_NA_ASTRALVOYAGE_WEB_SPECIAL,Astral Voyage: Web Special
+ID_OF_NA_ASTRALVOYAGE_DAILY_ORB,Astral Voyage: Daily Orb
+ID_OF_NA_ASTRALVOYAGE_DAILY_POINTS,Astral Voyage: Daily Points
+ID_OF_NA_ASTRALVOYAGE_DAILY_ENERGY,Astral Voyage: Daily Energy
+ID_OF_NA_ASTRALVOYAGE_ZOMBIE_JUG,Astral Voyage: Juggernaut (Zombie)
+ID_OF_NA_ASTRALVOYAGE_EARLY_BIRD_SPECIAL,Astral Voyage: Early Bird Special
+ID_OF_NA_ASTRALVOYAGE_DAILY_FREE_CLAIM,Astral Voyage: Free Claim
+ID_OF_NA_ASTRALVOYAGE_DAILY_INTERSTITIAL,Astral Voyage: Hidden Vault
+ID_OF_NA_ASTRALVOYAGE_FREE_CLAIM_2_PIVOT,Astral Voyage: Free Claim
+ID_OF_NA_ASTRALVOYAGE_INTERSTITIAL_2_PIVOT,Astral Voyage: Hidden Treasure
+ID_OF_NA_ASTRALVOYAGE_MID_EVENT_SPECIAL_PIVOT,Astral Voyage: Special Bundle
+ID_OF_DE_ASTRALVOYAGE_STARTER,Get ahead in the <color=#fff568>Astral Voyage</color> Milestone and fast-forward your way to <color=#f12603>T3 Iso-8 Ions</color> and <color=#fff568>Crimson Bio Gear</color>!
+ID_OF_DE_ASTRALVOYAGE_CATCHUP,Finish strong in the milestones to earn <color=#f12603>T3 Iso-8 Ions</color> and <color=#fff568>Crimson Bio Gear</color>!
+ID_OF_DE_ASTRALVOYAGE_WEB_SPECIAL,Fend off the hordes with this Astral Voyage special web bundle!
+ID_OF_DE_ASTRALVOYAGE_DAILY_ORB,Make progress in the Astral Voyage Prep milestone by collecting more <color=#fff568>Voyage Orb Fragments</color> to exchange for amazing rewards!
+ID_OF_DE_ASTRALVOYAGE_DAILY_POINTS,Get ahead in the <color=#fff568>Astral Voyage</color> Milestone and start making your way toward <color=#fff568>Captain Britain Diamond Promotions</color> and <color=#E0B0FF>T3 Iso-8 Materials</color>!
+ID_OF_DE_ASTRALVOYAGE_DAILY_ENERGY,Get your daily dose of Campaign Energy for progress in the Astral Voyage milestone!
+ID_OF_DE_ASTRALVOYAGE_ZOMBIE_JUG,Power up Juggernaut (Zombie) and Iron Man (Zombie) with this shard offer!
+ID_OF_DE_ASTRALVOYAGE_EARLY_BIRD_SPECIAL,Dont Miss Out: Last Chance to get Undying Orb fragments
+ID_OF_DE_ASTRALVOYAGE_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Astral Voyage</color> progress!
+ID_OF_DE_ASTRALVOYAGE_DAILY_INTERSTITIAL,You just unlocked the <color=#fff568>best discount deal</color> for the <color=#fff568>Astral Voyage</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_ASTRALVOYAGE_FREE_CLAIM_2_PIVOT,Come back daily for more <color=#fff568>Astral Voyage</color> progress!
+ID_OF_DE_ASTRALVOYAGE_INTERSTITIAL_2_PIVOT,You just unlocked the highest discount deal for the <color=#fff568>Astral Voyage</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_ASTRALVOYAGE_MID_EVENT_SPECIAL_PIVOT,Claim this mega deal leap to the top of the leaderboard in the <color=#fff568>Astral Voyage</color> Milestone for <color=#fff568>Turkeys and T3 Level 1 Ions</color>!

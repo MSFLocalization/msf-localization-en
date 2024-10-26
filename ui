@@ -1496,6 +1496,8 @@ ID_FRAME_CC_TOP100_02_NAME,Cosmic Crucible Top 100
 ID_FRAME_CC_TOP100_02_UNLOCK,Via Cosmic Crucible Leaderboard - season 11
 ID_FRAME_OCTOBER2024_NAME,Midnight Mantle Player Frame
 ID_FRAME_OCTOBER2024_UNLOCK,Via the Midnight Hunt event
+ID_FRAME_BATTLEWORLDKNULL_NAME,Blood Regalia
+ID_FRAME_BATTLEWORLDKNULL_UNLOCK,Via Battleworld Difficulty 5 First-Time Reward
 ID_EVENT_SURVIVAL_EVENT,Survival
 ID_SURVIVAL_TITLE,OMEGA ASSAULT
 ID_SURVIVAL_FLOOR,<size=65%><voffset=.385em>CELL</size></voffset> {floor}
@@ -1616,3 +1618,5 @@ ID_FRAME_SEPTEMBER2024_UNLOCK,Via the Autumn Revolution Event
 ID_DAISYCHAIN_OFFERTAB,Chain Offer
 ID_DAISYCHAIN_JUMPTOCURRENT,Jump To Current
 ID_DAISYCHAIN_FLOW_INFO,Purchase each offer to unlock the consecutive offers.
+ID_FRAME_NOVEMBER2024_NAME,Golden Harvest Player Frame
+ID_FRAME_NOVEMBER2024_UNLOCK,Via the Cosmic Awakening event

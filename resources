@@ -441,18 +441,25 @@ ID_EVTA_META_SEP_G_NAME,Operation: Omega Milestone Points
 ID_EVTA_META_SEP_G_DESCRIPTION,These points earn you additional progress in the Operation: Omega Milestone. Earn them in the Mutant Rebellion Web Milestone and Special Offers!
 ID_EVTA_META_SEP_H_NAME,The Dark Future Milestone Points
 ID_EVTA_META_SEP_H_DESCRIPTION,These points earn you additional progress in The Dark Future Alliance Milestone. Earn them in Free Claims and Special Offers!
-ID_EVTA_META_NOV_A_NAME,Vibranium Slab
-ID_EVTA_META_NOV_A_DESCRIPTION,Collect Vibranium Slabs for points in the Reverse-Engineer Event. Earn them in various events throughout the month of November
-ID_EVTA_META_NOV_B_NAME,Stark Grant Check
-ID_EVTA_META_NOV_B_DESCRIPTION,Collect the Stark Grant Check for points in the Reverse-Engineer Event. Earn it in the Patent Pending Event!
-ID_EVTA_META_NOV_C_NAME,Wireframe Blueprint
-ID_EVTA_META_NOV_C_DESCRIPTION,Collect the Wireframe Blueprint for points in the Reverse-Engineer Event. Earn it in the Back to Formula Event!
-ID_EVTA_META_NOV_D_NAME,Jet Engine Parts
-ID_EVTA_META_NOV_D_DESCRIPTION,Collect the Jet Engine Parts for points in the Reverse-Engineer Event. Earn them in the Animal Armature Event!
-ID_EVTA_META_NOV_E_NAME,Arc Reactor MKII
-ID_EVTA_META_NOV_E_DESCRIPTION,Collect Arc Reactor MKII for points in the Reverse-Engineer Event. Earn it in the Stark Grant Event!
-ID_EVTA_META_NOV_F_NAME,Indestructible Paint
-ID_EVTA_META_NOV_F_DESCRIPTION,Collect Indestructible Paint for points in the Reverse-Engineer Event. Earn it in the Weapons Online Event!
+ID_EVTA_META_NOV_A_DESCRIPTION,Collect Cosmic Elixirs for points in the Cosmic Awakening Event. Earn them in various events throughout the month of October
+ID_EVTA_META_NOV_B_NAME,Astral Armor
+ID_EVTA_META_NOV_B_DESCRIPTION,Collect the Astral Armor for points in the Cosmic Awakening Event. Earn it in the Astral Voyage Event!
+ID_EVTA_META_NOV_C_NAME,Nebula Cloak
+ID_EVTA_META_NOV_C_DESCRIPTION,Collect the Nebula Cloak for points in the Cosmic Awakening Event. Earn it in the Nebula Trials Event!
+ID_EVTA_META_NOV_D_NAME,Lunar Scepter
+ID_EVTA_META_NOV_D_DESCRIPTION,Collect the Lunar Scepter for points in the Cosmic Awakening Event. Earn it in the Lunar Rebirth Event!
+ID_EVTA_META_NOV_E_NAME,Cosmic Key
+ID_EVTA_META_NOV_E_DESCRIPTION,Collect the Bunch of Cosmic Key for points in the Cosmic Awakening Event. Earn it in the Galactic Awakening Event!
+ID_EVTA_META_NOV_F_NAME,Astral Voyage Milestone Points
+ID_EVTA_META_NOV_F_DESCRIPTION,These points earn you additional progress in the Astral Voyage Milestone. Earn them in the Stellar Conquest Web Milestone and Special Offers!
+ID_EVTA_META_NOV_G_NAME,Cosmic BattleMilestone Points
+ID_EVTA_META_NOV_G_DESCRIPTION,These points earn you additional progress in the Cosmic Battle Milestone. Earn them in Special Offers!
+ID_EVTA_META_NOV_H_NAME,Nebula Trials Milestone Points
+ID_EVTA_META_NOV_H_DESCRIPTION,These points earn you additional progress in the Nebula Trials Milestone. Earn them in Special Offers!
+ID_EVTA_META_NOV_I_NAME,Lunar Rebirth Milestone Points
+ID_EVTA_META_NOV_I_DESCRIPTION,These points earn you additional progress in the Lunar Rebirth Milestone. Earn them in Special Offers!
+ID_EVTA_META_NOV_J_NAME,Galactic Awakening Milestone Points
+ID_EVTA_META_NOV_J_DESCRIPTION,These points earn you additional progress in the Galactic Awakening Milestone. Earn them in Special Offers!
 ID_PATENTPENDING_NAME,Patent Pending Milestone Points
 ID_PATENTPENDING_DESC,"These points earn you additional progress in the Patent Pending Milestone. Earn them in the Eureka Moment Web Milestone, Daily Free Claims on our website, and limited offers!"
 ID_BACKTOFORMULA_NAME,Back to Formula Milestone Points

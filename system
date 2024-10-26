@@ -1828,8 +1828,9 @@ ID_REQUIRES_ASTRAL_TEAM_CH_02_SHORT,"4-STAR <color=#fff568>ANCIENT ONE</color>, 
 ID_REQUIRES_ASTRAL_TEAM_CH_03_SHORT,"5-STAR <color=#fff568>ANCIENT ONE</color>, <color=#fff568>EMMA FROST (X-MEN)</color>, <color=#fff568>MOONDRAGON</color> AND <color=#fff568>DOCTOR STRANGE</color>"
 ID_REQUIRES_ASTRAL_TEAM_CH_04_SHORT,"6-STAR <color=#fff568>ANCIENT ONE</color>, <color=#fff568>EMMA FROST (X-MEN)</color>, <color=#fff568>MOONDRAGON</color> AND <color=#fff568>DOCTOR STRANGE</color>"
 ID_REQUIRES_ASTRAL_TEAM_CH_05_SHORT,"7-STAR <color=#fff568>ANCIENT ONE</color>, <color=#fff568>EMMA FROST (X-MEN)</color>, <color=#fff568>MOONDRAGON</color> AND <color=#fff568>DOCTOR STRANGE</color>"
-ID_REQUIRES_EC_4UNDYING_YS3,Requires 4 <color=#fff568>UNDYING</color> at <color=#fff568>3+ STAR</color>
-ID_REQUIRES_EC_4UNDYING_YS4,Requires 4 <color=#fff568>UNDYING</color> at <color=#fff568>4+ STAR</color>
-ID_REQUIRES_EC_4UNDYING_YS5,Requires 4 <color=#fff568>UNDYING</color> at <color=#fff568>5+ STAR</color>
-ID_REQUIRES_EC_4UNDYING_YS6,Requires 4 <color=#fff568>UNDYING</color> at <color=#fff568>6+ STAR</color>
-ID_REQUIRES_EC_4UNDYING_YS7,Requires 4 <color=#fff568>UNDYING</color> at <color=#fff568>7 STAR</color>
+ID_REQUIRES_EC_4UNDYING_YS3_MINIMUM,REQUIRES 4 <color=#fff568>UNDYING</color> AT <color=#fff568>3+ STAR</color>
+ID_REQUIRES_EC_4UNDYING_YS3,4 <color=#fff568>UNDYING</color> at <color=#fff568>3+ STAR</color>
+ID_REQUIRES_EC_4UNDYING_YS4,4 <color=#fff568>UNDYING</color> at <color=#fff568>4+ STAR</color>
+ID_REQUIRES_EC_4UNDYING_YS5,4 <color=#fff568>UNDYING</color> at <color=#fff568>5+ STAR</color>
+ID_REQUIRES_EC_4UNDYING_YS6,4 <color=#fff568>UNDYING</color> at <color=#fff568>6+ STAR</color>
+ID_REQUIRES_EC_4UNDYING_YS7,4 <color=#fff568>UNDYING</color> at <color=#fff568>7 STAR</color>

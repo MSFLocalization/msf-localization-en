@@ -9343,3 +9343,11 @@ ID_GACHA_CRATE_TEAMORB_MANTHING_FCOFRAG_NAME,Man-Thing Nightstalker Orb
 ID_GACHA_CRATE_TEAMORB_MANTHING_FCOFRAG_DESCRIPTION,Earn progress in Man-Thing's Milestone Event to collect more Man-Thing Shards!
 ID_GACHA_CRATE_TEAMORB_MANTHING_FCOFRAG_TOKEN_NAME,Man-Thing Nightstalker Orb Fragments
 ID_GACHA_CRATE_TEAMORB_MANTHING_FCOFRAG_TOKEN_DESCRIPTION,"Find Man-Thing Nightstalker Orb Fragments in events, and offers!"
+ID_GACHA_CRATE_VOYAGE_NAME,Voyage Orb
+ID_GACHA_CRATE_VOYAGE_DESCRIPTION,"Collect this orb to earn points in the Astral Voyage event, and contains Crimson Gear"
+ID_GACHA_CRATE_VOYAGE_TOKEN_NAME,Voyage Orb Fragment
+ID_GACHA_CRATE_VOYAGE_TOKEN_DESCRIPTION,Find these Fragments on Campaign Nodes and in special offers.
+ID_GACHA_CRATE_DIAMONDCHAMPIONS4_NAME,Diamond Champions IV Orb
+ID_GACHA_CRATE_DIAMONDCHAMPIONS4_DESCRIPTION,Contains 3-Diamond Promotion for one of 12 select characters
+ID_GACHA_CRATE_DIAMONDCHAMPIONS4_TOKEN_NAME,Diamond Champions IV Orb Fragment
+ID_GACHA_CRATE_DIAMONDCHAMPIONS4_TOKEN_DESCRIPTION,"Collect fragments for orbs containing 3-Diamond Promotions of 12 select characters, from Peni Parker to Pandapool!"

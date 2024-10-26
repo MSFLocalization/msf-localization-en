@@ -5304,7 +5304,7 @@ ID_QU_S3_HAUNTEDHOUR,Battle in Blitz with Agatha Harkness
 ID_QU_LD_SUGARRUSH4,"Spend Candy on fabulous goods in the Candy Store, and be rewarded with additional progress in Zombie Invasion and Midnight Hunt!"
 ID_QU_NA_DARKHARVEST_ZERG,Dark Harvest
 ID_QU_SD_DARKHARVEST_ZERG,"Get additional shards for Omega Sentinel, Blade and Oath!"
-ID_QU_LD_DARKHARVEST_ZERG,"<color=#fff568>Dark Harvest Assembly</color>\nCollect Dark Harvest Milestone Points via Dark Harvest Web Offers to earn progress and receive additional Omega Sentinel, Blade & Oath shards!"
+ID_QU_LD_DARKHARVEST_ZERG,"Collect Dark Harvest Milestone Points via Dark Harvest Web Offers to earn progress and receive additional Omega Sentinel, Blade & Oath shards!"
 ID_QU_S1_DARKHARVEST_ZERG,Earn 1 Dark Harvest Assembly Milestone Point
 ID_QU_NA_OVERWHELMINGHUNGER,Overwhelming Hunger
 ID_QU_SD_OVERWHELMINGHUNGER,Play War with Undying and earn Undying Orb Fragments
@@ -5357,3 +5357,31 @@ ID_QU_NA_BFYBNOV24_STRIKEPOINTS,Bang for your Buck
 ID_QU_SD_BFYBNOV24_STRIKEPOINTS,Collect Strike Points
 ID_QU_LM_BFYBNOV24_STRIKEPOINTS,Strike Points will progress the Bang for your Buck Milestone!
 ID_QU_SM_BFYBNOV24_STRIKEPOINTS,Earn points through obtaining Strike Points
+ID_QU_NA_COSMICAWAKENING,Cosmic Awakening
+ID_QU_SD_COSMICAWAKENING,Participate in October Events
+ID_QU_LM_COSMICAWAKENING,Participate in various events throughout October to earn milestone progress.
+ID_QU_S1_COSMICAWAKENING,Collect 1 Cosmic Elixir
+ID_QU_S2_COSMICAWAKENING,Collect 1 Astral Armor
+ID_QU_S3_COSMICAWAKENING,Collect 1 Nebula Cloak
+ID_QU_S4_COSMICAWAKENING,Collect 1 Lunar Scepter
+ID_QU_S5_COSMICAWAKENING,Collect 1 Cosmic Key
+ID_QU_S6_COSMICAWAKENING,Collect 1 Turkey
+ID_QU_NA_ASTRALVOYAGE,Astral Voyage
+ID_QU_SD_ASTRALVOYAGE,Spend Campaign Energy and earn Voyage Orb Fragments
+ID_QU_LD_ASTRALVOYAGE,"Astral Voyage Milestone\nGain progress in this event by spending Campaign Energy to earn Voyage orb fragments, Using Undying team in War, completing the Stellar Conquest Web Milestone and daily web Free Claims. Earn fantastic rewards including Diamond Orbs, T3 Iso-8 Ions, and Crimson Bio Gear. You'll also earn points towards the month-long Cosmic Awakening milestone by collecting Turkeys and Astral Armor.\n\nStellar Conquest Web Milestone\nSpend Turkey on fabulous goods in the Turkey Store, and be rewarded with additional progress in Stellar Conquest!"
+ID_QU_S1_ASTRALVOYAGE,Earn 1 Voyage Orb Fragment
+ID_QU_S2_ASTRALVOYAGE,Win or Lose in a Battleworld Battle
+ID_QU_S3_ASTRALVOYAGE,Battle in War with Undying team
+ID_QU_S4_ASTRALVOYAGE,Battle in War with Iron Man (Zombie) at 5 Yellow Star
+ID_QU_S5_ASTRALVOYAGE,Battle in War with Iron Man (Zombie) at 6 Yellow Star
+ID_QU_S6_ASTRALVOYAGE,Battle in War with Iron Man (Zombie) at 7 Yellow Star
+ID_QU_S7_ASTRALVOYAGE,Battle in War with Juggernaut (Zombie) at 5 Yellow Star
+ID_QU_S8_ASTRALVOYAGE,Battle in War with Juggernaut (Zombie) at 6 Yellow Star
+ID_QU_S9_ASTRALVOYAGE,Battle in War with Juggernaut (Zombie) at 7 Yellow Star
+ID_QU_S10_ASTRALVOYAGE,Battle in War with Scarlet Witch (Zombie) at 5 Yellow Star
+ID_QU_S11_ASTRALVOYAGE,Battle in War with Scarlet Witch (Zombie) at 6 Yellow Star
+ID_QU_S12_ASTRALVOYAGE,Battle in War with Scarlet Witch (Zombie) at 7 Yellow Star
+ID_QU_NA_STELLARCONQUEST,Stellar Conquest
+ID_QU_SD_STELLARCONQUEST,Spend Turkey in the Turkey Store!
+ID_QU_LD_STELLARCONQUEST,"Spend Turkey on fabulous goods in the Turkey Store, and be rewarded with additional progress in Astral Voyage!"
+ID_QU_S1_STELLARCONQUEST,Spend Turkey in the Turkey Store
