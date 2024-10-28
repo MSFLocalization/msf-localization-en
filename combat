@@ -141,6 +141,8 @@ ID_PROCS_TAUNT_DESC,Taunting characters must be targeted first.
 ID_PROCS_TAUNT_NAME,Taunt
 ID_PROCS_VULNERABLE_DESC,This character will take increased damage if targeted during this turn.
 ID_PROCS_VULNERABLE_NAME,Vulnerable
+ID_PROCS_POSSESSED_DESC,This character is possessed by Shadow King!
+ID_PROCS_POSSESSED_NAME,Possessed
 ID_PROCS_DARKNESS_DESC,"On this character's turn, attack a random ally. This attack gains 25% Extra Damage per Darkness on this character, up to a maximum of 250%.\nUsing this character's Basic ability while this character has full energy clears 5 stacks of Darkness."
 ID_PROCS_DARKNESS_NAME,Darkness
 ID_PROCS_RAGE_DESC,This character is enraged.
@@ -175,6 +177,7 @@ ID_ABILITY_TOAST_AIMSUPPORT_HEAL_PASSIVE,Antidote
 ID_ABILITY_TOAST_AIMTANK_TAUNT_PASSIVE,Immunization
 ID_ABILITY_TOAST_AMADEUSCHO_PASSIVE,Mastermind Excello
 ID_ABILITY_TOAST_AMERICACHAVEZ_PASSIVE,America's Starling
+ID_ABILITY_TOAST_ANCIENTONE_PASSIVE,Master of the Mystic Arts
 ID_ABILITY_TOAST_ANTIVENOM_PASSIVE,Wretched Healer
 ID_ABILITY_TOAST_ANTMAN_PASSIVE,Escape Plan
 ID_ABILITY_TOAST_APOCALYPSE_PASSIVE,The First Mutant
@@ -236,6 +239,7 @@ ID_ABILITY_TOAST_ELECTRO_PASSIVE,Unlimited Power
 ID_ABILITY_TOAST_ELEKTRA_PASSIVE,Death's Grace
 ID_ABILITY_TOAST_ELSABLOODSTONE_PASSIVE,#%@$!
 ID_ABILITY_TOAST_EMMAFROST_PASSIVE,The White Queen
+ID_ABILITY_TOAST_EMMAFROSTXMEN_PASSIVE,"Reformed Queen, Brilliant Teacher"
 ID_ABILITY_TOAST_FALCON_PASSIVE,EXO-7 Wingsuit
 ID_ABILITY_TOAST_FANTOMEX_PASSIVE,Two Guns Three Brains
 ID_ABILITY_TOAST_FIRESTAR_PASSIVE,Red Hot
@@ -421,6 +425,7 @@ ID_ABILITY_TOAST_SENTINEL_PASSIVE,Mutant Hunter
 ID_ABILITY_TOAST_SENTINEL_GUN_PASSIVE,Mutant Hunter
 ID_ABILITY_TOAST_SENTINEL_SWORD_PASSIVE,Mutant Hunter
 ID_ABILITY_TOAST_SERSI_PASSIVE,Eternal Elementalist
+ID_ABILITY_TOAST_SHADOWKING_PASSIVE,First Nightmare
 ID_ABILITY_TOAST_SHANGCHI_PASSIVE,Master Martial Artist
 ID_ABILITY_TOAST_SHARONCARTER_PASSIVE,Ends and Means
 ID_ABILITY_TOAST_SHATTERSTAR_PASSIVE,Force of Will
