@@ -9899,7 +9899,7 @@ ID_ME_DE_SPLASH_BRAAAINS,Earn Silver Bullets and Iso-8!
 ID_ME_BO_SPLASH_BRAAAINS,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Iso-8</color> and <color=#fff568>Silver Bullets</color> for the Midnight Hunt!\n\n<color=#fff568>Featured Trait</color>:\nUndying\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
 ID_ME_NA_SPLASH_DAYOFTHEDEAD,LIVE: Day of the Dead
 ID_ME_DE_SPLASH_DAYOFTHEDEAD,Earn Silver Bullets and Gear!
-ID_ME_BO_SPLASH_DAYOFTHEDEAD,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Gear</color> and <color=#fff568>Silver Bullets</color> for the Midnight Hunt!\n\n<color=#fff568>Featured Trait</color>:\nGhost Riders\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
+ID_ME_BO_SPLASH_DAYOFTHEDEAD,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Gear</color> and <color=#fff568>Silver Bullets</color> for the Midnight Hunt!\n\n<color=#fff568>Featured Trait</color>:\nSpirit of Vengeance\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
 ID_ME_DE_THEDARKFUTURE2_CORE,Earn Silver Bullets and Ciphers!
 ID_ME_BO_THEDARKFUTURE2_CORE,"Commander,\n\nCelebrate Orchis Raids and the Orchis team with this new alliance event! \n\n<color=#fff568>The Dark Future Milestone</color>\nTo score points:\n- Battle in Raids\n- Collect Milestone Points from Orchis Raids nodes\n- Earn Allied Supply VI Orb Fragments\n\nEarn fantastic rewards including Silver Bullets, Blade Nightstalker Orbs, Ciphers and T3 Iso-8 Materials!\n\n<color=#fff568>Allied Supply VI orb</color>\nEarn these alliance event orbs for progress in The Dark Future! Collect the Allied Supply VI Orb in special offers and daily free claims on the web!\n\nGood luck, Commander!"
 ID_ME_DE_THEDARKFUTURE2_ENDING,Don't miss out on valuable Silver Bullets and Ciphers!
@@ -9946,6 +9946,12 @@ ID_ME_BO_ISO8INFUSION_ANNOUNCE,"Spend Iso-8 Campaign Energy and earn amazing rew
 ID_ME_NA_ISO8INFUSION_ENDING,ENDING: Iso-8 Infusion
 ID_ME_DE_ISO8INFUSION_ENDING,Don't miss out on rewards!
 ID_ME_BO_ISO8INFUSION_ENDING,"Don't miss out on this chance to power up your roster! Keep spending Iso-8 Campaign Energy and earn amazing rewards in the Iso-8 Infusion Milestone!\n\nEarn characters you can power up to help take on the challenges of the War Horseman Scourge and unlock the Legendary Red Hulk (Player Level 65).\n\nClaim your Login Streak Token in the first Milestone and keep your streak active to earn even more rewards and bonuses!\n\nGood luck, Commander!"
+ID_ME_NA_ISO8INFUSION_ANNOUNCE2,LIVE: Iso-8 Infusion
+ID_ME_DE_ISO8INFUSION_ANNOUNCE2,Crush the Iso-8 Campaign!
+ID_ME_BO_ISO8INFUSION_ANNOUNCE2,"Spend Iso-8 Campaign Energy and earn amazing rewards in Iso-8 Infusion, a special Milestone for growing Commanders!\n\nEarn characters you can power up to help take on the challenges of the Death Horseman Scourge and unlock the Legendary Archangel (Player Level 65).\n\nClaim your Login Streak Token in the first Milestone and keep your streak active to earn even more rewards and bonuses!\n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_ISO8INFUSION_ENDING2,ENDING: Iso-8 Infusion
+ID_ME_DE_ISO8INFUSION_ENDING2,Don't miss out on rewards!
+ID_ME_BO_ISO8INFUSION_ENDING2,"Don't miss out on this chance to power up your roster! Keep spending Iso-8 Campaign Energy and earn amazing rewards in the Iso-8 Infusion Milestone!\n\nEarn characters you can power up to help take on the challenges of the Death Horseman Scourge and unlock the Legendary Archangel (Player Level 65).\n\nClaim your Login Streak Token in the first Milestone and keep your streak active to earn even more rewards and bonuses!\n\nGood luck, Commander!"
 ID_ME_NA_NIGHTSTALKERNOCTURNE_ANNOUNCE,Live: Nightstalker Nocturne
 ID_ME_DE_NIGHTSTALKERNOCTURNE_ANNOUNCE,Earn Oath Shards!
 ID_ME_BO_NIGHTSTALKERNOCTURNE_ANNOUNCE,"Claim your Token to breathe life into your Login Streak and raise up the Nightstalker Nocturne Streak Milestone! This milestone will carry the torch from the previous Orchis Overload Milestone.\n\nRaid and Campaign daily to Earn Oath Nightstalker Orbs containing Oath character shards and fragments of the New Blood Orb to earn even more of their shards! Keep your streak alive for amazing rewards!\n\nDon't miss out on this opportunity, Commander!"
@@ -10137,6 +10143,7 @@ ID_ME_DE_7DLS_INIT,Keep logging in for rewards!
 ID_ME_BO_7DLS_INIT,"Commander,\n\nGain bonuses and rewards from developing and keeping your <color=#fff568>Login Streak</color> active. Claim your token now to activate all your streak benefits and begin collecting high value rewards from a special <color=#fff568>Daily Milestone</color>!\n\nKeep that streak alive, Commander!"
 ID_ME_NA_TIME_HEIST_HAUL,Time Heist Haul
 ID_ME_DE_TIME_HEIST_HAUL,Don't Leave Loot Behind!
+ID_ME_NA_COSMICAWAKENING_TEASER,Coming Soon: Cosmic Awakening
 ID_ME_DE_COSMICAWAKENING_TEASER,Earn marvelous rewards!
 ID_ME_BO_COSMICAWAKENING_TEASER,"Commander, \n\nParticipate in this event for spectacular rewards:\n\n- Gold\n- Training Modules\n- Fully Crafted Teal Bio Gear pieces\n- Golden Harvest Player Frame\n- and more!\n\nGet ready, Commander!"
 ID_ME_NA_COSMICAWAKENING_ANNOUNCE,LIVE: Cosmic Awakening
@@ -10152,6 +10159,12 @@ ID_ME_NA_ASTRALVOYAGE_ANNOUNCE,LIVE: Astral Voyage
 ID_ME_NA_ASTRALVOYAGE_ENDING,Ending Soon: Astral Voyage
 ID_ME_DE_ASTRALVOYAGE_ENDING,"Don't miss out on Turkeys, T3 Iso-8 Ions, and Crimson Mutant Gear!"
 ID_ME_BO_ASTRALVOYAGE_ENDING,"Commander,\n\nThe <color=#fff568>Astral Voyage Milestone</color> event <color=#fff568>ends soon</color>. Continue making progress to earn <color=#fff568>Turkeyss, T3 Iso-8 Ions, and Crimson Mutant Gear!</color>! \n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_ANCIENTONE_RS_ENDING,Red Stars: Ancient One
+ID_ME_DE_ANCIENTONE_RS_ENDING,Featuring Ends Soon!
+ID_ME_BO_ANCIENTONE_RS_ENDING,"Commander,\n\n<color=#fff568>Ancient One</color> will only be featured in all Red Star Orbs for 2 more days!\n\nHurry and open Red Star Orbs while the drop rate is still increased."
+ID_ME_NA_ANCIENTONE_ORB_ENDING,Timeless Sage Orb
+ID_ME_DE_ANCIENTONE_ORB_ENDING,2 days left!
+ID_ME_BO_ANCIENTONE_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Timeless Sage Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Ancient One</color> for your <color=#fff568>Astral</color> team in Battleworld!"
 ID_ME_BO_TIME_HEIST_HAUL,"Commander,\n\nIt looks like you left some loot behind from your <color=#fff568>Time Heist</color>. Head over to the web to pick it up in a special Free Claim!\n\nEnjoy the loot, Commander!"
 ID_ME_NA_NEW_CHARACTER_POLL_ANNOUNCE_GOVERNMENT_ASSET,New Character Poll
 ID_ME_DE_NEW_CHARACTER_POLL_ANNOUNCE_GOVERNMENT_ASSET,Vote Now on the Web!

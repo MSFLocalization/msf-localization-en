@@ -11373,7 +11373,7 @@ ID_OF_NA_COSMICAWAKENING_FREEDAILY,Cosmic Awakening: Free Claim
 ID_OF_DE_COSMICAWAKENING_STARTER_MEGA,Stock up on <color=#fff568>Cosmic Awakening</color> progress and exclusive items!
 ID_OF_DE_COSMICAWAKENING_STARTER_SUPER,Get ahead in the <color=#fff568>Cosmic Awakening</color> milestone!
 ID_OF_DE_COSMICAWAKENING_STARTER,Start off strong in the <color=#fff568>Cosmic Awakening</color> milestone!
-ID_OF_DE_COSMICAWAKENING_BOOSTER_ANCHOR,Make consistent <color=#fff568>Cosmic Awakening</color> progress with this daily <color=#fff568>Silver Bullet</color> drop!
+ID_OF_DE_COSMICAWAKENING_BOOSTER_ANCHOR,Make consistent <color=#fff568>Cosmic Awakening</color> progress with this daily <color=#fff568>Cosmic Elixir</color> drop!
 ID_OF_DE_COSMICAWAKENING_LEGACY,Stock up on <color=#fff568>Cosmic Awakening event progress</color> and <color=#fff568>Legacy Orbs</color> with this special deal!
 ID_OF_DE_COSMICAWAKENING_SHARDS,Stock up on <color=#fff568>Cosmic Awakening event progress</color> and <color=#fff568>character shards</color> with this special deal!
 ID_OF_DE_COSMICAWAKENING_GOLD,Stock up on <color=#fff568>Cosmic Awakening event progress</color> and <color=#fff568>Gold</color> with this special deal!
@@ -11410,3 +11410,54 @@ ID_OF_DE_ASTRALVOYAGE_DAILY_INTERSTITIAL,You just unlocked the <color=#fff568>be
 ID_OF_DE_ASTRALVOYAGE_FREE_CLAIM_2_PIVOT,Come back daily for more <color=#fff568>Astral Voyage</color> progress!
 ID_OF_DE_ASTRALVOYAGE_INTERSTITIAL_2_PIVOT,You just unlocked the highest discount deal for the <color=#fff568>Astral Voyage</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_ASTRALVOYAGE_MID_EVENT_SPECIAL_PIVOT,Claim this mega deal leap to the top of the leaderboard in the <color=#fff568>Astral Voyage</color> Milestone for <color=#fff568>Turkeys and T3 Level 1 Ions</color>!
+ID_OF_NA_BF24_WEB,Black Friday Sneak Peek!
+ID_OF_DE_BF24_WEB_GREATER,Black Friday came early! Get this offer <color=#ffda21>today only</color>! <color=#ffc20a>Greater than a {var1}x value!</color>
+ID_OF_DE_BF24_WEB_EQUAL,Black Friday came early! Get this offer <color=#ffda21>today only</color>! <color=#0c7bdc>A {var1}x value!</color>
+ID_OF_DE_BF24_WEB_LESS,Black Friday came early! Get this offer <color=#ffda21>today only</color>! <color=#1aff1a>Nearly a {var1}x value!</color>
+ID_OF_NA_ARES_RELEASE_ARESHIGH,The Shard of War!
+ID_OF_NA_ARES_RELEASE_ARESMID,God of War Special!
+ID_OF_NA_ARES_RELEASE_ARESANCHOR,Ares Shard Special!
+ID_OF_NA_ARES_RELEASE_WEB_ARESABM,Web Special: Abilities and Ares
+ID_OF_NA_ARES_RELEASE_WEB_ARESGOLD,Web Special: Hoard of Ares
+ID_OF_NA_ARES_RELEASE_WEB_ARESTRAINING,Web Special: Godly Bootcamp
+ID_OF_DE_ARES_RELEASE_ARESHIGH,Don't miss out on Ares shards before they disappear again!
+ID_OF_DE_ARES_RELEASE_ARESMID,Grab this special offer on Ares shards and power up your God of War!
+ID_OF_DE_ARES_RELEASE_ARESANCHOR,Power up the God of War with this special offer!
+ID_OF_DE_ARES_RELEASE_WEB_ARESABM,Get this combo special of Ares and T4 Ability Materials for a limited time!
+ID_OF_DE_ARES_RELEASE_WEB_ARESGOLD,Get this combo special of Ares and Gold for a limited time!
+ID_OF_DE_ARES_RELEASE_WEB_ARESTRAINING,Get this combo special of Ares and L4 Training Modules for a limited time!
+ID_OF_DE_ANCIENTONE_FCO_OFFER,Each <color=#fff568>Timeless Sage Orb</color> contains <color=#fff568>up to 180 Ancient One</color> shards. Energize your team and provide powerful effects from critical percing attacks along with enabling team-wide Battleworld & War effects!
+ID_OF_DE_ANCIENTONE_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Ancient One</color> and unlock one-time only release offers on your next visit! Energize your team and provide powerful effects from critical percing attacks along with enabling team-wide Battleworld & War effects!
+ID_OF_DE_ANCIENTONE_OFFER_SHARD,Power up <color=#fff568>Ancient One</color> with this shard offer! Energize your team and provide powerful effects from critical percing attacks along with enabling team-wide Battleworld & War effects!
+ID_OF_DE_ANCIENTONE_UNLOCK_OFFER,Unlock <color=#fff568>Ancient One</color> now! Energize your team and provide powerful effects from critical percing attacks along with enabling team-wide Battleworld & War effects!
+ID_OF_STOREBAR_ANCIENTONE,Dual Offer: Ancient One
+ID_OF_NA_DUAL_ANCIENTONE,Dual Offer: Ancient One
+ID_OF_DE_DUAL_ANCIENTONE,Choose your path to power up this <color=#fff568>Astral</color> member!
+ID_OF_DE_DUAL_UNLOCK_ANCIENTONE,Unlock this <color=#fff568>Astral</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_ANCIENTONE_FCO_OFFER_BASIC,Ancient One Release Offer
+ID_OF_NA_ANCIENTONE_TEAMORB,Ancient One Astral Orb Offer
+ID_OF_DE_ANCIENTONE_TEAMORB,Bring the team together with this limited time orb special featuring Ancient One! Open for progress in the Ancient One Milestone Event!
+ID_OF_NA_ANCIENTONE_TEAMORB_TY,Ancient One Astral Orb Thank You Special!
+ID_OF_DE_ANCIENTONE_TEAMORB_TY,Thank you for your support! Please enjoy this increased value orb offer.
+ID_OF_NA_ANCIENTONE_WEB_EXTRA_FCO_OFFER,Ancient One Unlock Offer
+ID_OF_DE_ANCIENTONE_WEB_EXTRA_FCO_OFFER,"The Sorcerer Supreme, <color=#fff568>Ancient One</color>, has arrived!"
+ID_OF_NA_ANCIENTONE_WEB_SPECIAL_OFFER,Sorcerer Supreme Special
+ID_OF_DE_ANCIENTONE_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> Energize your team and provide powerful effects from critical percing attacks along with enabling team-wide Battleworld & War effects!
+ID_OF_NA_ASTRAL_TEAM_OFFER,Astral Team Bundle
+ID_OF_DE_ASTRAL_TEAM_OFFER,<color=#fff568>Astral</color> team members!
+ID_OF_NA_ANCIENTONE_WEB_STREAK1_FCO_OFFER,(1/4) Sage's Wisdom Special
+ID_OF_NA_ANCIENTONE_WEB_STREAK2_FCO_OFFER,(2/4) Sage's Wisdom Special
+ID_OF_NA_ANCIENTONE_WEB_STREAK3_FCO_OFFER,(3/4) Sage's Wisdom Special
+ID_OF_NA_ANCIENTONE_WEB_STREAK4_FCO_OFFER,(4/4) Sage's Wisdom Special
+ID_OF_DE_ANCIENTONE_WEB_STREAK1_FCO_OFFER,A wise offer has appeared! Recruit Ancient One today along with a ton of the Shadow King's <color=#fff568>Special Awakened Ability Materials</color>!
+ID_OF_DE_ANCIENTONE_WEB_STREAK2_FCO_OFFER,Unlock Shadow King's <color=#fff568>Special Awakened Ability</color>! Purchase through this chain for a <color=#fff568>7-Star Ancient One</color> in the final step!
+ID_OF_DE_ANCIENTONE_WEB_STREAK3_FCO_OFFER,Obtain 7 Red Star and 6 Yellow Star Ancient One with this offer! Purchase through this chain for a <color=#fff568>7-Star Ancient One</color> in the final step!
+ID_OF_DE_ANCIENTONE_WEB_STREAK4_FCO_OFFER,Final step towards your full potential is here with enough shards to bring your Ancient One to Yellow Star completion!
+ID_OF_NA_ANCIENTONE_STREAK_OFFER1,(1/6) Mystical Meditation Special
+ID_OF_NA_ANCIENTONE_STREAK_OFFER2,(2/6) Mystical Meditation Special
+ID_OF_NA_ANCIENTONE_STREAK_OFFER3,(3/6) Mystical Meditation Special
+ID_OF_NA_ANCIENTONE_STREAK_OFFER4,(4/6) Mystical Meditation Special
+ID_OF_NA_ANCIENTONE_STREAK_OFFER5,(5/6) Mystical Meditation Special
+ID_OF_NA_ANCIENTONE_STREAK_OFFER6,(6/6) Mystical Meditation Special
+ID_OF_NA_ANCIENTONE_GENERIC,Mystical Master
+ID_OF_NA_ANCIENTONE_OTHER,Timeless Teacher
