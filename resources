@@ -441,7 +441,8 @@ ID_EVTA_META_SEP_G_NAME,Operation: Omega Milestone Points
 ID_EVTA_META_SEP_G_DESCRIPTION,These points earn you additional progress in the Operation: Omega Milestone. Earn them in the Mutant Rebellion Web Milestone and Special Offers!
 ID_EVTA_META_SEP_H_NAME,The Dark Future Milestone Points
 ID_EVTA_META_SEP_H_DESCRIPTION,These points earn you additional progress in The Dark Future Alliance Milestone. Earn them in Free Claims and Special Offers!
-ID_EVTA_META_NOV_A_DESCRIPTION,Collect Cosmic Elixirs for points in the Cosmic Awakening Event. Earn them in various events throughout the month of October
+ID_EVTA_META_NOV_A_NAME,Cosmic Elixir
+ID_EVTA_META_NOV_A_DESCRIPTION,Collect Cosmic Elixirs for points in the Cosmic Awakening Event. Earn them in various events throughout the month of November
 ID_EVTA_META_NOV_B_NAME,Astral Armor
 ID_EVTA_META_NOV_B_DESCRIPTION,Collect the Astral Armor for points in the Cosmic Awakening Event. Earn it in the Astral Voyage Event!
 ID_EVTA_META_NOV_C_NAME,Nebula Cloak
@@ -449,7 +450,7 @@ ID_EVTA_META_NOV_C_DESCRIPTION,Collect the Nebula Cloak for points in the Cosmic
 ID_EVTA_META_NOV_D_NAME,Lunar Scepter
 ID_EVTA_META_NOV_D_DESCRIPTION,Collect the Lunar Scepter for points in the Cosmic Awakening Event. Earn it in the Lunar Rebirth Event!
 ID_EVTA_META_NOV_E_NAME,Cosmic Key
-ID_EVTA_META_NOV_E_DESCRIPTION,Collect the Bunch of Cosmic Key for points in the Cosmic Awakening Event. Earn it in the Galactic Awakening Event!
+ID_EVTA_META_NOV_E_DESCRIPTION,Collect the Cosmic Key for points in the Cosmic Awakening Event. Earn it in the Galactic Awakening Event!
 ID_EVTA_META_NOV_F_NAME,Astral Voyage Milestone Points
 ID_EVTA_META_NOV_F_DESCRIPTION,These points earn you additional progress in the Astral Voyage Milestone. Earn them in the Stellar Conquest Web Milestone and Special Offers!
 ID_EVTA_META_NOV_G_NAME,Cosmic BattleMilestone Points
