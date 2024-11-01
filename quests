@@ -5370,7 +5370,7 @@ ID_QU_S5_COSMICAWAKENING,Collect 1 Cosmic Key
 ID_QU_S6_COSMICAWAKENING,Collect 1 Turkey
 ID_QU_NA_ASTRALVOYAGE,Astral Voyage
 ID_QU_SD_ASTRALVOYAGE,Spend Campaign Energy and earn Voyage Orb Fragments
-ID_QU_LD_ASTRALVOYAGE,"Astral Voyage Milestone\nGain progress in this event by spending Campaign Energy to earn Voyage orb fragments, Using Undying team in War, completing the Stellar Conquest Web Milestone and daily web Free Claims. Earn fantastic rewards including Diamond Orbs, T3 Iso-8 Ions, and Crimson Bio Gear. You'll also earn points towards the month-long Cosmic Awakening milestone by collecting Turkeys and Astral Armor.\n\nStellar Conquest Web Milestone\nSpend Turkey on fabulous goods in the Turkey Store, and be rewarded with additional progress in Stellar Conquest!"
+ID_QU_LD_ASTRALVOYAGE,"Astral Voyage Milestone\nGain progress in this event by spending Campaign Energy to earn Voyage orb fragments, Using Undying team in War, completing the Stellar Conquest Web Milestone and daily web Free Claims. Earn fantastic rewards including Diamond Orbs, Scarlet Witch (Zombie) shards, T3 Iso-8 Ions, and Crimson Bio Gear. You'll also earn points towards the month-long Cosmic Awakening milestone by collecting Turkeys and Astral Armor.\n\nStellar Conquest Web Milestone\nSpend Turkey on fabulous goods in the Turkey Store, and be rewarded with additional progress in Stellar Conquest!"
 ID_QU_S1_ASTRALVOYAGE,Earn 1 Voyage Orb Fragment
 ID_QU_S2_ASTRALVOYAGE,Win or Lose in a Battleworld Battle
 ID_QU_S3_ASTRALVOYAGE,Battle in War with Undying team
@@ -5387,3 +5387,15 @@ ID_QU_NA_STELLARCONQUEST,Stellar Conquest
 ID_QU_SD_STELLARCONQUEST,Spend Turkey in the Turkey Store!
 ID_QU_LD_STELLARCONQUEST,"Spend Turkey on fabulous goods in the Turkey Store, and be rewarded with additional progress in Astral Voyage!"
 ID_QU_S1_STELLARCONQUEST,Spend Turkey in the Turkey Store
+ID_QU_NA_COSMICBATTLE,Cosmic Battle
+ID_QU_SD_COSMICBATTLE,Participate in Battleworld to earn Cosmic Elixir
+ID_QU_LD_COSMICBATTLE,"Participate in Battleworld Spec Ops Missions for this alliance event! \n\nCosmic Battle Milestone\nTo score points:\n- Participate in Battleworld Spec Ops Missions \n- Earn Allied Supply VI Orb Fragments\n\nEarn fantastic rewards including Cosmic Elixir, Blade Nightstalker Orbs Fragments and T3 Iso-8 Materials!\n\nAllied Supply VI orb\nEarn these alliance event orbs for progress in Cosmic Battle! Collect the Allied Supply VI Orb in special offers and daily free claims on the web!"
+ID_QU_S1_COSMICBATTLE,Earn Allied Supply VI Orb Fragments from Free Claims and special Offers
+ID_QU_S2_COSMICBATTLE,Complete 1 Spec Ops Mission in Battleworld
+ID_QU_NA_COSMICSHADOWS,Cosmic Shadows
+ID_QU_SD_COSMICSHADOWS,Earn T3 Iso-8 Ions and Crimson Mystic Gear
+ID_QU_LD_COSMICSHADOWS,"Cosmic Shadows Milestone\nGain progress in this event by clearing waves in Battleworld, opening the Strange Awakenings Orb, spending Astral Energy and Campaign Energy, and from the Stellar Conquest Web Milestone and daily web Free Claims. Earn fantastic rewards including  Crimson Mystic Gear, Oath Shards, T3 Iso-8 Credits, T3 Level 1 Ions, Dark Diamond Credits and Turkeys. You'll also earn points towards the month-long Cosmic Awakening milestone by collecting the valuable Nebula Cloak.\n\nStrange Awakenings Orb\nGet this Orb from the Orb Special offer with luxury rewards: Dr. Strange's Ultimate Awakened Ability Materials, T4 Ability Materials and Turkeys."
+ID_QU_S1_COSMICSHADOWS,Clear 1 Wave in Battleworld
+ID_QU_S2_COSMICSHADOWS,Spend 1 Astral Energy
+ID_QU_S3_COSMICSHADOWS,Open 1 Strange Awakenings Orb
+ID_QU_S4_COSMICSHADOWS,Spend 1 Campaign Energy

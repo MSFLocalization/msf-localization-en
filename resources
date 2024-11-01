@@ -219,6 +219,30 @@ ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLADE_ULTIMATE_NAME,Blade's Ultimate Awak
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLADE_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLADE_PASSIVE_NAME,Blade's Passive Awakened Ability Material
 ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLADE_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MOONDRAGON_ULTIMATE_NAME,Moondragon's Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MOONDRAGON_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MOONDRAGON_PASSIVE_NAME,Moondragon's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MOONDRAGON_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_DOCTORSTRANGE_ULTIMATE_NAME,Doctor Strange's Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_DOCTORSTRANGE_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_DOCTORSTRANGE_PASSIVE_NAME,Doctor Strange's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_DOCTORSTRANGE_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ANCIENTONE_SPECIAL_NAME,Ancient One's Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ANCIENTONE_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ANCIENTONE_PASSIVE_NAME,Ancient One's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ANCIENTONE_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_EMMAFROSTXMEN_SPECIAL_NAME,Emma Frost (X-Men)'s Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_EMMAFROSTXMEN_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_EMMAFROSTXMEN_PASSIVE_NAME,Emma Frost (X-Men)'s Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_EMMAFROSTXMEN_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_SHADOWKING_BASIC_NAME,Shadow King's Basic Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_SHADOWKING_BASIC_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_SHADOWKING_SPECIAL_NAME,Shadow King's Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_SHADOWKING_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_SHADOWKING_ULTIMATE_NAME,Shadow King's Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_SHADOWKING_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_SHADOWKING_PASSIVE_NAME,Shadow King's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_SHADOWKING_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
 ID_HELIMAT_ARMORY_NAME,Stark Tech Helicarrier Component
 ID_HELIMAT_ARMORY_DESCRIPTION,Used to upgrade the Stark Tech in the Helicarrier.
 ID_HELIMAT_BARRACKS_NAME,Barracks Helicarrier Component
@@ -273,8 +297,8 @@ ID_EVENT_CUR2_NAME,Gear Credits
 ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
 ID_EVENT_CUR3_NAME,Aged Adamantium Orb Fragment
 ID_EVENT_CUR3_DESCRIPTION,"Open Aged Adamantium Orbs to earn shards for Out of Time characters, Cabal characters, Emma Frost, Loki and progress in the Red in Tooth and Claw milestone"
-ID_EVENT_CUR4_NAME,Radioactive Treats
-ID_EVENT_CUR4_DESCRIPTION,Collect Radioactive Treats to exchange for T3 ISO from the Radioactive Treats event store
+ID_EVENT_CUR4_NAME,Turkey
+ID_EVENT_CUR4_DESCRIPTION,"Spend these in the Turkey Shop for limited time goodies including: Mephisto Red Star Orb Fragments, Awakened Ability Material for Blade and Moondragon, Character Shards, and Gear."
 ID_EVENT_CUR6_NAME,Machines of War Milestone Points
 ID_EVENT_CUR6_DESCRIPTION,These points earn you additional progress in the Machines of War Milestone. Earn them in limited offers!
 ID_EVENT_CUR7_NAME,Wilderness Orb Fragment
@@ -455,8 +479,8 @@ ID_EVTA_META_NOV_F_NAME,Astral Voyage Milestone Points
 ID_EVTA_META_NOV_F_DESCRIPTION,These points earn you additional progress in the Astral Voyage Milestone. Earn them in the Stellar Conquest Web Milestone and Special Offers!
 ID_EVTA_META_NOV_G_NAME,Cosmic BattleMilestone Points
 ID_EVTA_META_NOV_G_DESCRIPTION,These points earn you additional progress in the Cosmic Battle Milestone. Earn them in Special Offers!
-ID_EVTA_META_NOV_H_NAME,Nebula Trials Milestone Points
-ID_EVTA_META_NOV_H_DESCRIPTION,These points earn you additional progress in the Nebula Trials Milestone. Earn them in Special Offers!
+ID_EVTA_META_NOV_H_NAME,Cosmic Shadows Milestone Points
+ID_EVTA_META_NOV_H_DESCRIPTION,"These points earn you additional progress in the Cosmic Shadows Milestone. Earn them in the Stellar Conquest Web Milestone, Daily Free Claims and Special Offers!"
 ID_EVTA_META_NOV_I_NAME,Lunar Rebirth Milestone Points
 ID_EVTA_META_NOV_I_DESCRIPTION,These points earn you additional progress in the Lunar Rebirth Milestone. Earn them in Special Offers!
 ID_EVTA_META_NOV_J_NAME,Galactic Awakening Milestone Points

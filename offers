@@ -11461,3 +11461,108 @@ ID_OF_NA_ANCIENTONE_STREAK_OFFER5,(5/6) Mystical Meditation Special
 ID_OF_NA_ANCIENTONE_STREAK_OFFER6,(6/6) Mystical Meditation Special
 ID_OF_NA_ANCIENTONE_GENERIC,Mystical Master
 ID_OF_NA_ANCIENTONE_OTHER,Timeless Teacher
+ID_OF_NA_COSMICBATTLE_STARTER,Cosmic Battle: Starter Bundle
+ID_OF_NA_COSMICBATTLE_CATCHUP,Cosmic Battle: Catch-Up Bundle
+ID_OF_NA_COSMICBATTLE_EVENTORB,Cosmic Battle: Daily Allied Supply
+ID_OF_NA_COSMICBATTLE_MEGA,Cosmic Battle: Special Bundle
+ID_OF_NA_COSMICBATTLE_TEAM,Cosmic Battle: Astral
+ID_OF_NA_COSMICBATTLE_FREECLAIM,Cosmic Battle: Free Claim
+ID_OF_NA_COSMICBATTLE_INTERSTITIAL,Cosmic Battle: Supply Special
+ID_OF_DE_COSMICBATTLE_STARTER,Help your alliance start off strong in the <color=#fff568>Cosmic Battle</color> Milestone for Crimson Gear rewards and <color=#fff568>Cosmic Awakening</color> progress!
+ID_OF_DE_COSMICBATTLE_CATCHUP,Push your alliance to the finish line with this <color=#fff568>Cosmic Battle</color> Milestone bundle for Crimson Gear and <color=#fff568>Cosmic Awakening</color> progress!
+ID_OF_DE_COSMICBATTLE_EVENTORB,Get Allied Supply VI orbs for <color=#fff568>Cosmic Battle</color> progress!
+ID_OF_DE_COSMICBATTLE_MEGA,Get ahead in <color=#fff568>Cosmic Battle</color> Milestone and propel your Alliance to <color=#fff568>Crimson Gear</color> and <color=#fff568>T3 Iso-8 Materials</color>!
+ID_OF_DE_COSMICBATTLE_TEAM,Reinforce your Astral team and get ahead in the <color=#fff568>Cosmic Battle</color> Milestone!
+ID_OF_DE_COSMICBATTLE_FREECLAIM,Come back daily for more <color=#fff568>Cosmic Battle</color> progress!
+ID_OF_DE_COSMICBATTLE_INTERSTITIAL,Stock up on Allied Supply VI Orbs for extra progress in the <color=#fff568>Cosmic Battle</color> Milestone!
+ID_OF_NA_BWL24_DOCOCT_BOOSTER,Battleworld Arrives: Path to the Doctor
+ID_OF_NA_BWL24_BLACKBOLT_BOOSTER,Battleworld Arrives: Path to the Ruler
+ID_OF_NA_BWL24_IRONMAN_BOOSTER,Battleworld Arrives: Path to the Genius
+ID_OF_NA_BWL24_XTREMEXMEN_PACK,Battleworld Arrives: Extreme Tactics
+ID_OF_NA_BWL24_SUPSIX_PACK,Battleworld Arrives: Superior Options
+ID_OF_NA_BWL24_MERCFORMONEY_PACK,Battleworld Arrives: Rich Mercs
+ID_OF_NA_BWL24_ALPHAFLIGHT_PACK,Battleworld Arrives: Flight Training
+ID_OF_NA_BWL24_OOO_PACK,Battleworld Arrives: Out of Time
+ID_OF_NA_BWL24_ILLUMINATI_PACK,Battleworld Arrives: Secret Promotions
+ID_OF_NA_BWL24_DAILY_APOCORBS,Battleworld Arrives: Path to Apocalypse
+ID_OF_NA_BWL24_REDSTAR_BOOSTER,Battleworld Arrives: Redstar Booster
+ID_OF_NA_BWL24_DIAMONDT2_PACK,Battleworld Arrives: Diamond Research
+ID_OF_NA_BWL24_T4GOLD_PACK,Battleworld Arrives: Showcase Ability
+ID_OF_NA_BWL24_TEAL_BIOPACK,Battleworld Arrives: Bio Augments
+ID_OF_NA_BWL24_TEAL_MUTANTPACK,Battleworld Arrives: Mutant Augments
+ID_OF_NA_BWL24_TEAL_MYSTICPACK,Battleworld Arrives: Mystic Augments
+ID_OF_NA_BWL24_TEAL_SKILLPACK,Battleworld Arrives: Skill Augments
+ID_OF_NA_BWL24_TEAL_TECHPACK,Battleworld Arrives: Tech Augments
+ID_OF_NA_BWL24_TEAL_STATSPACK,Battleworld Arrives: Augmented Catalysts
+ID_OF_NA_BWL24_GOLD_ARMORY,Battleworld Arrives: Golden Armory
+ID_OF_NA_BWL24_DDC_IONS,Battleworld Arrives: Gaining Resources
+ID_OF_NA_BWL24_BWLAUNCH_SUPER_SALE_TY,Battleworld Special Thank You
+ID_OF_NA_BWL24_BWLAUNCH_SUPER_SALE,Battleworld Launch Special
+ID_OF_NA_BWL24_BWLAUNCH_STARTER_BUNDLE,Battleworld New Recruit Pack
+ID_OF_NA_BWL24_DIAMOND_BLOWOUT_WEB,Battleworld Arrives: Diamond Cache
+ID_OF_NA_BWL24_DPC_MAX,Battleworld Arrives: Promotion Credits
+ID_OF_NA_BWL24_DDC_MAX,Battleworld Arrives: Coveted Resources
+ID_OF_NA_BWL24_E7_TRAIN,Battleworld Arrives: Squad Promotions
+ID_OF_NA_BWL24_ANNIHILATORS,Battleworld Arrives: Overwhelming Force
+ID_OF_NA_BWL24_MERCS_FOR_MONEY,Battleworld Arrives: Secret Funding
+ID_OF_NA_BWL24_ALPHA_FLIGHT,Battleworld Arrives: Air Power
+ID_OF_NA_BWL24_ILLUMINATI,Battleworld Arrives: Subtle Tactics
+ID_OF_NA_BWL24_ORCHIS,Battleworld Arrives: Recon Team
+ID_OF_NA_BWL24_NIGHTSTALKERS,Battleworld Arrives: Special Ops
+ID_OF_NA_BWL24_SPEC_OP_PACK,Battleworld Spec Op Pack
+ID_OF_NA_BWL24_A19_BLOWOUT_WEB,Battleworld Arrives: Armory Access
+ID_OF_NA_BWL24_CRIMSON_MYSTIC_ORIGINS,Battleworld Arrives: Crimson Mystic Origins
+ID_OF_NA_BWL24_CRIMSON_MUTANT_ORIGINS,Battleworld Arrives: Crimson Mutant Origins
+ID_OF_NA_BWL24_CRIMSON_TECH_ORIGINS,Battleworld Arrives: Crimson Tech Origins
+ID_OF_NA_BWL24_CRIMSON_SKILL_ORIGINS,Battleworld Arrives: Crimson Skill Origins
+ID_OF_NA_BWL24_A19_GOLD,Battleworld Arrives: Military Cache
+ID_OF_NA_BWL24_T3_BRAWLER_IONS,Battleworld Arrives: T3 ISO Brawler
+ID_OF_NA_BWL24_ION_COMBO_WEB,Battleworld Arrives: Ion Combo
+ID_OF_NA_BWL24_BLASTER_IONS,Battleworld Arrives: T3 ISO Blaster
+ID_OF_NA_BWL24_T2_CLASS_ORBS,Battleworld Arrives: T2 Orbs
+ID_OF_NA_BWL24_CONTROLLER_IONS,Battleworld Arrives: T3 ISO Controller
+ID_OF_NA_BWL24_TRAIN_GOLD,Battleworld Arrives: Loot Acquisition
+ID_OF_NA_BWL24_TRAIN_MODULES,Battleworld Arrives: Field Training
+ID_OF_NA_BWL24_GOLD_MED,Battleworld Arrives: Top Secret Funds
+ID_OF_NA_BWL24_GOLD_SMALL,Battleworld Arrives: Multiversal Assets
+ID_OF_DE_BWL24_DOCOCT_BOOSTER,The Secret Defenders are the secret key to overcoming Doctor Octopus' Legendary Challenge!
+ID_OF_DE_BWL24_BLACKBOLT_BOOSTER,Let the Bifrost team help you overcome Black Bolt's Legendary Challenge!
+ID_OF_DE_BWL24_IRONMAN_BOOSTER,Get the secret agents and personnel you need to overcome Iron Man's Legendary Challenge!
+ID_OF_DE_BWL24_TEAL_BIOPACK,Get your <color=#ffda21>Bio</color> units geared up with this <color=#ffda21>Augmented Gear</color> special offer for the launch of Battleworld!
+ID_OF_DE_BWL24_TEAL_MUTANTPACK,Get your <color=#ffda21>Mutant</color> units geared up with this <color=#ffda21>Augmented Gear</color> special offer for the launch of Battleworld!
+ID_OF_DE_BWL24_TEAL_MYSTICPACK,Get your <color=#ffda21>Mystic</color> units geared up with this <color=#ffda21>Augmented Gear</color> special offer for the launch of Battleworld!
+ID_OF_DE_BWL24_TEAL_SKILLPACK,Get your <color=#ffda21>Skill</color> units geared up with this <color=#ffda21>Augmented Gear</color> special offer for the launch of Battleworld!
+ID_OF_DE_BWL24_TEAL_TECHPACK,Get your <color=#ffda21>Tech</color> units geared up with this <color=#ffda21>Augmented Gear</color> special offer for the launch of Battleworld!
+ID_OF_DE_BWL24_TEAL_STATSPACK,Get your roster geared up with this special offer <color=#ffda21>Augmented Catalysts</color> to take on Battleworld!
+ID_ME_NA_STRIKEPASS72_FREECLAIM,S.T.R.I.K.E. Pass: Season 72 Free Claim
+ID_ME_DE_STRIKEPASS72_FREECLAIM,Start the season off strong with free progress!
+ID_ME_NA_STRIKEPASS72_WEBCLAIM,S.T.R.I.K.E. Pass: Season 72 Premium Reward
+ID_ME_DE_STRIKEPASS72_WEBCLAIM,Congratulations Commander! Claim your additional value for purchasing on Web!
+ID_OF_NA_COSMICSHADOWS_MEGA_STARTER,Cosmic Shadows: Starter
+ID_OF_NA_COSMICSHADOWS_STARTER,Cosmic Shadows: Starter
+ID_OF_NA_COSMICSHADOWS_MEGA_CATCHUP,Cosmic Shadows: Catch-up
+ID_OF_NA_COSMICSHADOWS_CATCHUP,Cosmic Shadows: Catch-up
+ID_OF_NA_COSMICSHADOWS_WEB_SPECIAL,Cosmic Shadows: Web Special
+ID_OF_NA_COSMICSHADOWS_ORB_SPECIAL,Cosmic Shadows: Orb Special
+ID_OF_NA_COSMICSHADOWS_MID_EVENT_SPECIAL,Cosmic Shadows: Mid-Event Special
+ID_OF_NA_COSMICSHADOWS_DAILY_ECM_ENERGY,Cosmic Shadows: Daily Astral Energy
+ID_OF_NA_COSMICSHADOWS_DAILY_CAMPAIGN_ENERGY,Cosmic Shadows: Daily Campaign Energy
+ID_OF_NA_COSMICSHADOWS_DAILY_FREE_CLAIM,Cosmic Shadows: Free Claim
+ID_OF_NA_COSMICSHADOWS_DAILY_INTERSTITIAL,Cosmic Shadows: Hidden Vault
+ID_OF_NA_COSMICSHADOWS_DO_NOT_ENABLE_PIVOT_FREE,Cosmic Shadows: Free Claim
+ID_OF_NA_COSMICSHADOWS_DO_NOT_ENABLE_PIVOT_INTERSTITIAL,Cosmic Shadows: Secret Stash
+ID_OF_DE_COSMICSHADOWS_MEGA_STARTER,"Get ahead in the <color=#fff568>Cosmic Shadows</color> Milestone and fast-forward your way to <color=#f12603>T3 Iso-8 Ions</color>,<color=#fa0223>Dark Diamond Credits</color> and <color=#fff568>Crimson Mystic Gear</color>!"
+ID_OF_DE_COSMICSHADOWS_STARTER,Get ahead in the <color=#fff568>Cosmic Shadows</color> Milestone and fast-forward your way to <color=#f12603>T3 Iso-8 Ions</color>  and <color=#fff568>Crimson Mystic Gear</color>!
+ID_OF_DE_COSMICSHADOWS_MEGA_CATCHUP,"Finish strong in the milestones to earn <color=#f12603>T3 Iso-8 Ions</color>, <color=#fa0223>Dark Diamond Credits</color> and <color=#fff568>Crimson Mystic Gear</color>!"
+ID_OF_DE_COSMICSHADOWS_CATCHUP,Finish strong in the milestones to secure powerful rewards <color=#f12603>T3 Iso-8 Ions</color> and <color=#fff568>Crimson Mystic Gear</color>!
+ID_OF_DE_COSMICSHADOWS_WEB_SPECIAL,Claim this mega deal to get ahead in the <color=#fff568>Cosmic Shadows</color> Milestone.
+ID_OF_DE_COSMICSHADOWS_ORB_SPECIAL,"Open this <color=#fff568>limited </color> orb with luxury rewards: Dr. Strange's Ultimate Awakened Ability Material, T4 Ability Materials and Turkeys. Also grab the exclusive points in the <color=#fff568>Cosmic Shadows</color> Milestone!"
+ID_OF_DE_COSMICSHADOWS_MID_EVENT_SPECIAL,Grab this incredible deal to surge ahead in the <color=#fff568>Cosmic Shadows</color> Milestone!
+ID_OF_DE_COSMICSHADOWS_DAILY_ECM_ENERGY,Get your daily Astral energy boost to get ahead in the <color=#fff568>Cosmic Shadows</color> Milestone!
+ID_OF_DE_COSMICSHADOWS_DAILY_CAMPAIGN_ENERGY,Recharge your daily Campaign Energy to stay ahead in the <color=#fff568>Cosmic Shadows</color> Milestone!
+ID_OF_DE_COSMICSHADOWS_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Cosmic Shadows</color> progress!
+ID_OF_DE_COSMICSHADOWS_DAILY_INTERSTITIAL,You just unlocked the <color=#fff568>best discount deal</color> for the <color=#fff568>Cosmic Shadows</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_COSMICSHADOWS_DO_NOT_ENABLE_PIVOT_FREE,Come back daily for more <color=#fff568>Cosmic Shadows</color> progress!
+ID_OF_DE_COSMICSHADOWS_DO_NOT_ENABLE_PIVOT_INTERSTITIAL,You just unlocked the <color=#fff568>highest discount</color> deal for the <color=#fff568>Cosmic Shadows</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_ZSW_CALENDAR,Scarlet Witch (Zombie) Calendar
+ID_OF_DE_ZSW_CALENDAR,Unlock this calendar and log in 8 days for amazing items to boost your roster!

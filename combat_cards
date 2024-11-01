@@ -373,7 +373,7 @@ ID_BATTLEWORLD_MOD_BOSSMECHANIC_KNULL_UNIQUE_03_DESC,"For each <color=#fff568>RA
 ID_BATTLEWORLD_MOD_DARKNESS_INFO_NAME,Darkness
 ID_BATTLEWORLD_MOD_DARKNESS_INFO_DESC,During this battle characters can be afflicted with <color=#9055ff>DARKNESS</color>. Afflicted characters will attack allies and deal increased damage. Using a Basic Ability with full energy will clear up to <color=#86e619>5</color> Darkness from an afflicted character.
 ID_BATTLEWORLD_MOD_ABYSS_Z2M1_NAME,Luck Infusion: Mercs For Money
-ID_BATTLEWORLD_MOD_ABYSS_Z2M1_DESC,<color=#fff568>MERCS FOR MONEY </color>gain +<color=#86e619>0.5</color> crit chance and +<color=#86e619>3</color> Crit Damage.
+ID_BATTLEWORLD_MOD_ABYSS_Z2M1_DESC,<color=#fff568>MERCS FOR MONEY </color> characters gain +<color=#86e619>50%</color> Crit Chance and +<color=#86e619>300%</color> Crit Damage.
 ID_BATTLEWORLD_MOD_ABYSS_Z2M2_NAME_A,Temporal Energy Reserves
 ID_BATTLEWORLD_MOD_ABYSS_Z2M2_DESC_A,"On Spawn, <color=#fff568>CABAL</color> gain <color=#fff568>Speed Up</color> for <color=#86e619>5</color> turns and Safeguard for <color=#86e619>5</color> turns."
 ID_BATTLEWORLD_MOD_ABYSS_Z2M2_NAME_B,Expanded Membership
@@ -399,7 +399,7 @@ ID_BATTLEWORLD_MOD_ABYSS_Z4M1_DESC,<color=#fff568>ALPHA FLIGHT</color> character
 ID_BATTLEWORLD_MOD_ABYSS_Z4M2_NAME,X-Men 97 (%)
 ID_BATTLEWORLD_MOD_ABYSS_Z4M2_DESC,"<color=#fff568>X-TREME X-MEN</color> gain +<color=#fff568>97%</color> to Max Health, Speed, Focus, Resistance, Armor, & Damage in this mission."
 ID_BATTLEWORLD_MOD_ABYSS_Z4M3_NAME,Luck Infusion: Mercs For Money
-ID_BATTLEWORLD_MOD_ABYSS_Z4M3_DESC,<color=#fff568>MERCS FOR MONEY </color>gain +<color=#86e619>0.5</color> crit chance and +<color=#86e619>3</color> Crit Damage.
+ID_BATTLEWORLD_MOD_ABYSS_Z4M3_DESC,<color=#fff568>MERCS FOR MONEY</color> characters gain +<color=#86e619>50%</color> Crit Chance and +<color=#86e619>300%</color> Crit Damage.
 ID_BATTLEWORLD_MOD_ABYSS_Z4M4_NAME,Original New Horsemen
 ID_BATTLEWORLD_MOD_ABYSS_Z4M4_DESC,<color=#fff568>MSF ORIGINAL</color> characters gain the <color=#fff568>HORSEMAN</color> trait in this mission.
 ID_BATTLEWORLD_MOD_ABYSS_Z5M1_NAME,Danger Zone

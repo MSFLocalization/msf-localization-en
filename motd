@@ -3538,9 +3538,9 @@ ID_MOTD_DE_COSMICAWAKENING_ANNOUNCE,Earn marvelous rewards!
 ID_MOTD_NA_COSMICAWAKENING_ENDING,Ending Soon: Cosmic Awakening
 ID_MOTD_DE_COSMICAWAKENING_ENDING,Earn Fully-Crafted Teal Bio Gear before the event ends!
 ID_MOTD_NA_ASTRALVOYAGE_ANNOUNCE,LIVE: Astral Voyage
-ID_MOTD_DE_ASTRALVOYAGE_ANNOUNCE,"Earn Turkeys, T3 Iso-8 Ions, and Crimson Mutant Gear!"
+ID_MOTD_DE_ASTRALVOYAGE_ANNOUNCE,"Earn Turkeys, Scarlet Witch (Zombie) shards and Crimson Mutant Gear!"
 ID_MOTD_NA_ASTRALVOYAGE_ENDING,Ending Soon: Astral Voyage
-ID_MOTD_DE_ASTRALVOYAGE_ENDING,"Don't miss out on Turkeys, T3 Iso-8 Ions, and Crimson Mutant Gear!"
+ID_MOTD_DE_ASTRALVOYAGE_ENDING,"Don't miss out on Turkeys, Scarlet Witch (Zombie) shards, and Crimson Mutant Gear!"
 ID_MOTD_NA_STELLARCONQUEST_ANNOUNCE,Web Milestone: Stellar Conquest
 ID_MOTD_DE_STELLARCONQUEST_ANNOUNCE,Spend Turkey in the Turkey Store for more rewards on the web!
 ID_MOTD_NA_ANCIENTONE_TEASER,Soon: Ancient One
@@ -3548,3 +3548,9 @@ ID_MOTD_DE_ANCIENTONE_TEASER,Master the Mystic Arts with Ancient One!
 ID_MOTD_NA_ANCIENTONE_ANNOUNCE,Ancient One is here!
 ID_MOTD_DE_ANCIENTONE_ANNOUNCE,Master the Mystic Arts with Ancient One!
 ID_MOTD_DE_ANCIENTONE_ANNOUNCE2,Open the Timeless Sage Orb to earn shards for Ancient One!
+ID_MOTD_NA_COSMICBATTLE_ANNOUNCE,LIVE: Cosmic Battle
+ID_MOTD_DE_COSMICBATTLE_ANNOUNCE,Earn Cosmic Elixir and  Sunlit Slayer Orbs!
+ID_MOTD_NA_COSMICSHADOWS_ANNOUNCE,LIVE: Cosmic Shadows
+ID_MOTD_DE_COSMICSHADOWS_ANNOUNCE,Earn T3 Iso-8 Ions and Crimson Mystic Gear
+ID_MOTD_NA_COSMICSHADOWS_ENDING,Ending Soon: Cosmic Shadows
+ID_MOTD_DE_COSMICSHADOWS_ENDING,Don't miss out on Crimson Mystic Gear and T3 Level 1 Ions!
