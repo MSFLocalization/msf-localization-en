@@ -1,0 +1,693 @@
+id,translation
+ID_RES_CAMPAIGN_PLAYER_ENERGY,Campaign Energy
+ID_RES_CAMPAIGN_PLAYER_ENERGY_ISO8,Iso-8 Campaign Energy
+ID_RES_CAMPAIGN_PLAYER_ENERGY_ELDER,Incursion Energy
+ID_ISO8-TIER-0-CURRENCY_NAME,T1 Ions
+ID_ISO8-TIER-1-A-CURRENCY_NAME,T2 Level 1 Ions
+ID_ISO8-TIER-1-A-CURRENCY_DESCRIPTION,Use T2 Level 1 Ions to fuse T2 Iso-8 Crystals up to Level 3 or to upgrade Classes up to Level 3.
+ID_ISO8-TIER-1-B-CURRENCY_NAME,T2 Level 4 Ions
+ID_ISO8-TIER-1-B-CURRENCY_DESCRIPTION,Use T2 Level 4 Ions to fuse T2 Iso-8 Crystals from Level 3 to Level 4 or to upgrade Classes from Level 3 to Level 4.
+ID_ISO8-TIER-1-C-CURRENCY_NAME,T2 Level 5 Ions
+ID_ISO8-TIER-1-C-CURRENCY_DESCRIPTION,Use T2 Level 5 Ions to fuse T2 Iso-8 Crystals from Level 4 to Level 5 or to upgrade Classes from Level 4 to Level 5.
+ID_ISO8-TIER-2-A-CURRENCY_NAME,T3 Level 1 Ions
+ID_ISO8-TIER-2-A-CURRENCY_DESCRIPTION,Use T3 Level 1 Ions to fuse T3 Iso-8 Crystals up to Level 3 or to upgrade Classes up to Level 3.
+ID_ISO8-TIER-2-B-CURRENCY_NAME,T3 Level 4 Ions
+ID_ISO8-TIER-2-B-CURRENCY_DESCRIPTION,Use T3 Level 4 Ions to fuse T3 Iso-8 Crystals from Level 3 to Level 4 or to upgrade Classes from Level 3 to Level 4.
+ID_ISO8-TIER-2-C-CURRENCY_NAME,T3 Level 5 Ions
+ID_ISO8-TIER-2-C-CURRENCY_DESCRIPTION,Use T3 Level 5 Ions to fuse T3 Iso-8 Crystals from Level 4 to Level 5 or to upgrade Classes from Level 4 to Level 5.
+ID_RES_AVA_ATTACK_ENERGY,War Energy
+ID_RES_AVE_ATTACK_ENERGY,Green Raid Energy
+ID_RES_AVE_ATTACK_ENERGY_EVENT01,Alpha Raid Energy
+ID_RES_AVE_ATTACK_ENERGY_EVENT02,Beta Raid Energy
+ID_RES_AVE_ATTACK_ENERGY_EVENT03,Gamma Raid Energy
+ID_RES_AVE_ATTACK_ENERGY_EVENT04,Gambit Raid Energy
+ID_RES_AVE_ATTACK_ENERGY_EVENT05,Champions' Raid Energy
+ID_RES_AVE_ATTACK_ENERGY_PURPLE,Purple Raid Energy
+ID_RES_GT_ATTACK_ENERGY,Grand Tournament Energy
+ID_RES_SYNC_PVP_ENERGY,Challenge Token
+ID_AVE_ATTACK_ENERGY_EVENT01_NAME,Alpha Raid Energy
+ID_AVE_ATTACK_ENERGY_EVENT02_NAME,Beta Raid Energy
+ID_AVE_ATTACK_ENERGY_EVENT03_NAME,Gamma Raid Energy
+ID_AVE_ATTACK_ENERGY_EVENT04_NAME,Gambit Raid Energy
+ID_AVE_ATTACK_ENERGY_EVENT05_NAME,Champions' Raid Energy
+ID_AVE_ATTACK_ENERGY_EVENT01_DESCRIPTION,Used to launch Alpha Raid missions.
+ID_AVE_ATTACK_ENERGY_EVENT02_DESCRIPTION,Used to launch Beta Raid missions.
+ID_AVE_ATTACK_ENERGY_EVENT03_DESCRIPTION,Used to launch Gamma Raid missions.
+ID_AVE_ATTACK_ENERGY_EVENT04_DESCRIPTION,Used to launch Gambit Raid missions.
+ID_AVE_ATTACK_ENERGY_EVENT05_DESCRIPTION,Used to launch Ultimus VII Raid missions.
+ID_AVE_ATTACK_ENERGY_PURPLE_NAME,Purple Raid Energy
+ID_AVE_KEY_ALPHA_NAME,Alpha Raid Key
+ID_AVE_KEY_ALPHA_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
+ID_AVE_KEY_BETA_NAME,Beta Raid Key
+ID_AVE_KEY_BETA_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
+ID_AVE_KEY_GAMMA_NAME,Gamma Raid Key
+ID_AVE_KEY_GAMMA_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
+ID_AVE_KEY_DELTA_NAME,Delta Raid Key
+ID_AVE_KEY_DELTA_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
+ID_AVE_KEY_EVENT01_NAME,Thanos Key
+ID_AVE_KEY_EVENT01_DESCRIPTION,Collect Thanos Keys to launch Thanos Raids and earn Infinity Orb Fragments. Your alliance will earn raid keys each day.
+ID_AVE_KEY_EVENT02_NAME,Event 02 Key
+ID_AVE_KEY_EVENT02_DESCRIPTION,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
+ID_AVE_KEY_EVENT03_NAME,Champions' Raid Key
+ID_AVE_KEY_EVENT03_DESCRIPTION,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
+ID_AVE_KEY_EVENT04_NAME,Gambit Raid Key
+ID_AVE_KEY_EVENT04_DESC,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
+ID_AVE_KEY_PURPLE_NAME,Purple Raid Key
+ID_AVE_KEY_PURPLE_DESC,Collect keys to launch raids and earn Ability Materials and Character Shards. Your alliance will earn raid keys each day.
+ID_RES_CAMPAIGN_ENERGY_EVENT01,Undying Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT02,Warrior Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT03,Mind of Magneto Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT04,Illuminating Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT05,Cipher
+ID_RES_CAMPAIGN_ENERGY_EVENT06,Quantum Cipher
+ID_RES_CAMPAIGN_ENERGY_EVENT07,Dead of Night Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT08,Astral Energy
+ID_CAMPAIGN_ENERGY_EVENT01_NAME,Undying Energy
+ID_CAMPAIGN_ENERGY_EVENT01_DESCRIPTION,Used to launch Red Dead Rematch missions.
+ID_CAMPAIGN_ENERGY_EVENT02_NAME,Warrior Energy
+ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch All is Fair missions.
+ID_CAMPAIGN_ENERGY_EVENT03_NAME,Mind of Magneto Energy
+ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Mind of Magneto missions.
+ID_CAMPAIGN_ENERGY_EVENT04_NAME,Illuminating Energy
+ID_CAMPAIGN_ENERGY_EVENT04_DESCRIPTION,Used to launch Illuminati Team Up missions.
+ID_CAMPAIGN_ENERGY_EVENT05_NAME,Cipher
+ID_CAMPAIGN_ENERGY_EVENT05_DESCRIPTION,"Used to launch Orchis Forge bonus missions for Sentinel, Nimrod, and Omega Sentinel."
+ID_CAMPAIGN_ENERGY_EVENT06_NAME,Quantum Cipher
+ID_CAMPAIGN_ENERGY_EVENT06_DESCRIPTION,Used to launch the final set of Orchis Forge bonus missions.
+ID_CAMPAIGN_ENERGY_EVENT07_NAME,Dead of Night Energy
+ID_CAMPAIGN_ENERGY_EVENT07_DESCRIPTION,Used to launch Dead of Night missions.
+ID_CAMPAIGN_ENERGY_EVENT08_NAME,Astral Energy
+ID_CAMPAIGN_ENERGY_EVENT08_DESCRIPTION,Used to launch Mind Over Matter missions.
+ID_RES_CAMPAIGN_ENERGY_EVENT10_NAME,Arachnid Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT10_DESCRIPTION,Used to launch Loose Threads missions.
+ID_HC_NAME,Power Cores
+ID_HC_DESCRIPTION,"Use Power Cores to purchase Orbs, Energy Refills, Health Packs, Supplies, and Blitz Charges."
+ID_AVA-CUR_NAME,War Credits
+ID_AVA-CUR_DESCRIPTION,Use War Credits to purchase Orbs and Supplies in the War Store.
+ID_AVA-ELITE-CUR_NAME,Elite War Credits
+ID_AVA-ELITE-CUR_DESCRIPTION,Use Elite War Credits to purchase Orbs and Supplies in the War Store.
+ID_AVE-CUR_NAME,Raid Credits
+ID_AVE-CUR_DESCRIPTION,Use Raid Credits to purchase Orbs and Supplies in the Raid Store.
+ID_AVE-ELITE-CUR_NAME,Elite Raid Credits
+ID_AVE-ELITE-CUR_DESCRIPTION,Use Elite Raid Credits to purchase Awakened Ability Material in the Raid Store.
+ID_EVTA_SEASON_POINTS_NAME,Raid Season Points
+ID_EVTA_SEASON_POINTS_DESCRIPTION,Collect Raid Season Points to complete Raid Season Milestones.
+ID_EVTA_UNSPECIFIED_NAME,Milestone Points
+ID_EVTA_UNSPECIFIED_DESCRIPTION,Collect Milestone Points to progress in Milestone Events.
+ID_EVTA_WEB_SPEND_NAME,Web UPCs
+ID_EVTA_WEB_SPEND_DESCRIPTION,Web UPCs automatically give progress to the Bang for your Buck milestone. Check the Bang for your Buck milestone to view progress.
+ID_PVP-CUR_NAME,Blitz Credits
+ID_PVP-CUR_DESCRIPTION,Use Blitz Credits to purchase Orbs and Supplies in the Blitz Store.
+ID_BATTLEGROUND-CUR_NAME,Arena Credits
+ID_BATTLEGROUND-CUR_DESCRIPTION,Use Arena Credits to purchase Orbs and Supplies in the Arena Store.
+ID_LOGINSTREAK_NAME,Login Streak Token
+ID_LOGINSTREAK_DESCRIPTION,Instantly fills the Streak Bar and activates the 7 Day Login Streak Benefits
+ID_TIMEHEIST_NAME,Time Heist Level {level}
+ID_TIMEHEIST_DESCRIPTION,"Time Heist Offers will upgrade your existing Commander Level, Roster Power, Campaign Progress, and Challenge Progress up to a preset point defined by each offer."
+ID_SC_NAME,Gold
+ID_GS_NAME,Gacha Spin
+ID_ITEM_COUNT_LABEL,Amount in inventory: {amount}
+ID_SC_DESCRIPTION,"Gold is required to upgrade your character's level, abilities, and Star rank. Earn Gold in Campaign missions and Challenges."
+ID_XP_NAME,Commander XP
+ID_XP_DESCRIPTION,Commander XP is used to increase your Commander Level.
+ID_ENERGY-CAMPAIGN-CUR_NAME,Campaign Energy Refill
+ID_ENERGY-CAMPAIGN-CUR_DESCRIPTION,"Campaign Energy Refill is used to refresh your Campaign Energy. If you do not have enough Campaign Energy Refills, you can use Power Cores to recharge your Campaign Energy."
+ID_ENERGY-CAMPAIGN-ISO8-CUR_NAME,Iso-8 Campaign Energy Refill
+ID_ENERGY-CAMPAIGN-ISO8-CUR_DESCRIPTION,"Iso-8 Campaign Energy Refill is used to refresh your Iso-8 Campaign Energy. If you do not have enough Iso-8 Campaign Energy Refills, you can use Power Cores to recharge your Iso-8 Campaign Energy."
+ID_ENERGY-CAMPAIGN-ELDER-CUR_NAME,Incursion Energy Refill
+ID_ENERGY-CAMPAIGN-ELDER-CUR_DESCRIPTION,"Incursion Energy Refill is used to refresh your Incursion Energy. If you do not have enough Incursion Energy Refills, you can use Power Cores to recharge your Incursion Energy."
+ID_ENERGY-WAR-CUR_NAME,War Energy Refill
+ID_ENERGY-WAR-CUR_DESCRIPTION,"War Energy Refill is used to refresh your War Energy. If you do not have enough War Energy Refills, you can use Power Cores to recharge your War Energy."
+ID_ENERGY-RAID-CUR_NAME,Raid Energy Refill
+ID_ENERGY-RAID-CUR_DESCRIPTION,"Raid Energy Refill is used to refresh your Raid Energy. If you do not have enough Raid Energy Refills, you can use Power Cores to recharge your Raid Energy."
+ID_HEAL-ARENA-CUR_NAME,Blitz Charge
+ID_HEAL-ARENA-CUR_DESCRIPTION,Use Blitz Charges to recharge your characters to fight in Blitz.
+ID_HEAL-CAMPAIGN-CUR_DESCRIPTION,Blitz Charges are used to reset cooldown timers on your characters in Blitz.
+ID_CONSUMABLE-WAR-CUR_NAME,Defense Boost
+ID_CONSUMABLE-WAR-CUR_DESCRIPTION,Apply <color=#86e619>3</color> counts of <color=#fff568>Minor Deflect</color> to a defending squad in War.
+ID_HEAL-WAR-CUR_NAME,War Health Pack
+ID_HEAL-WAR-CUR_DESCRIPTION,War Health Pack is used to heal and revive your characters in War.
+ID_HEAL-RAID-CUR_NAME,Raid Health Pack
+ID_HEAL-RAID-CUR_DESCRIPTION,Raid Health Pack is used to heal and revive your characters in Raids.
+ID_HEAL-INSANITY-CUR-01_NAME,Dark Health Pack
+ID_HEAL-INSANITY-CUR-01_DESCRIPTION,Dark Health Pack is used to heal and revive your characters in Dark Dimensions.
+ID_HEAL-INSANITY-CUR-02_NAME,Temporal Health Pack
+ID_HEAL-INSANITY-CUR-02_DESCRIPTION,Temporal Health Pack is used to heal and revive your characters in some Pocket Dimensions.
+ID_HEAL-INSANITY-CUR-03_NAME,Dimensional Health Pack
+ID_HEAL-INSANITY-CUR-03_DESCRIPTION,Dimensional Health Pack is used to heal and revive characters in some Pocket Dimensions.
+ID_CHALLENGE_ATTEMPT_INFO_TITLE,Attempts
+ID_CHALLENGE_ATTEMPT_INFO_DESC,Attempts are refilled at the start of an event or challenge. They are only consumed upon successfully completing a mission.
+ID_ABILITY_MATERIAL_GREEN_ABILITY_MAT_NAME,T1 Ability Material
+ID_ABILITY_MATERIAL_GREEN_ABILITY_MAT_DESCRIPTION,Used to upgrade character abilities.
+ID_ABILITY_MATERIAL_BLUE_ABILITY_MAT_NAME,T2 Ability Material
+ID_ABILITY_MATERIAL_BLUE_ABILITY_MAT_DESCRIPTION,Used to upgrade character abilities.
+ID_ABILITY_MATERIAL_PURPLE_ABILITY_MAT_NAME,T3 Ability Material
+ID_ABILITY_MATERIAL_PURPLE_ABILITY_MAT_DESCRIPTION,Used to upgrade character abilities.
+ID_ABILITY_MATERIAL_ORANGE_ABILITY_MAT_NAME,T4 Ability Material
+ID_ABILITY_MATERIAL_ORANGE_ABILITY_MAT_DESCRIPTION,Used to upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_NAME,Unique T5 Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_DESCRIPTION,Used to upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MORGANLEFAY_PASSIVE_NAME,Morgan Le Fay's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MORGANLEFAY_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MORGANLEFAY_SPECIAL_NAME,Morgan Le Fay's Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MORGANLEFAY_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ROGUE_PASSIVE_NAME,Rogue's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ROGUE_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ROGUE_BASIC_NAME,Rogue's Basic Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ROGUE_BASIC_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_REDHULK_PASSIVE_NAME,Red Hulk's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_REDHULK_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_REDHULK_SPECIAL_NAME,Red Hulk's Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_REDHULK_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARCHANGEL_PASSIVE_NAME,Archangel's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARCHANGEL_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARCHANGEL_ULTIMATE_NAME,Archangel's Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARCHANGEL_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_BASIC_NAME,Apocalypse's Basic Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_BASIC_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_SPECIAL_NAME,Apocalypse's Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_ULTIMATE_NAME,Apocalypse's Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_PASSIVE_NAME,Apocalypse's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_APOCALYPSE_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_BASIC_NAME,Ares' Basic Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_BASIC_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_SPECIAL_NAME,Ares' Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_ULTIMATE_NAME,Ares' Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_PASSIVE_NAME,Ares' Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ARES_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_NOVA_BASIC_NAME,Nova's Basic Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_NOVA_BASIC_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_NOVA_SPECIAL_NAME,Nova's Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_NOVA_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_NOVA_PASSIVE_NAME,Nova's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_NOVA_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLACKCAT_BASIC_NAME,Black Cat's Basic Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLACKCAT_BASIC_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLACKCAT_ULTIMATE_NAME,Black Cat's Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLACKCAT_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLACKCAT_PASSIVE_NAME,Black Cat's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLACKCAT_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_CAPTAINBRITAIN_BASIC_NAME,Captain Britain's Basic Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_CAPTAINBRITAIN_BASIC_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_CAPTAINBRITAIN_SPECIAL_NAME,Captain Britain's Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_CAPTAINBRITAIN_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_CAPTAINBRITAIN_ULTIMATE_NAME,Captain Britain's Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_CAPTAINBRITAIN_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_CAPTAINBRITAIN_PASSIVE_NAME,Captain Britain's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_CAPTAINBRITAIN_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_GREENGOBLINGLIDER_BASIC_NAME,Green Goblin (Classic)'s Basic Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_GREENGOBLINGLIDER_BASIC_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_GREENGOBLINGLIDER_ULTIMATE_NAME,Green Goblin (Classic)'s Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_GREENGOBLINGLIDER_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_GREENGOBLINGLIDER_PASSIVE_NAME,Green Goblin (Classic)'s Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_GREENGOBLINGLIDER_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_OLDMANLOGAN_BASIC_NAME,Old Man Logan's Basic Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_OLDMANLOGAN_BASIC_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_OLDMANLOGAN_SPECIAL_NAME,Old Man Logan's Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_OLDMANLOGAN_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_OLDMANLOGAN_ULTIMATE_NAME,Old Man Logan's Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_OLDMANLOGAN_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLADE_BASIC_NAME,Blade's Basic Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLADE_BASIC_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLADE_SPECIAL_NAME,Blade's Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLADE_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLADE_ULTIMATE_NAME,Blade's Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLADE_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLADE_PASSIVE_NAME,Blade's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_BLADE_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MOONDRAGON_ULTIMATE_NAME,Moondragon's Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MOONDRAGON_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MOONDRAGON_PASSIVE_NAME,Moondragon's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_MOONDRAGON_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_DOCTORSTRANGE_ULTIMATE_NAME,Doctor Strange's Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_DOCTORSTRANGE_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_DOCTORSTRANGE_PASSIVE_NAME,Doctor Strange's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_DOCTORSTRANGE_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ANCIENTONE_SPECIAL_NAME,Ancient One's Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ANCIENTONE_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ANCIENTONE_PASSIVE_NAME,Ancient One's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_ANCIENTONE_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_EMMAFROSTXMEN_SPECIAL_NAME,Emma Frost (X-Men)'s Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_EMMAFROSTXMEN_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_EMMAFROSTXMEN_PASSIVE_NAME,Emma Frost (X-Men)'s Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_EMMAFROSTXMEN_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_SHADOWKING_BASIC_NAME,Shadow King's Basic Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_SHADOWKING_BASIC_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_SHADOWKING_SPECIAL_NAME,Shadow King's Special Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_SHADOWKING_SPECIAL_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_SHADOWKING_ULTIMATE_NAME,Shadow King's Ultimate Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_SHADOWKING_ULTIMATE_DESCRIPTION,Used to further upgrade character abilities.
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_SHADOWKING_PASSIVE_NAME,Shadow King's Passive Awakened Ability Material
+ID_ABILITY_MATERIAL_UNIQUE_ABILITY_MAT_SHADOWKING_PASSIVE_DESCRIPTION,Used to further upgrade character abilities.
+ID_HELIMAT_ARMORY_NAME,Stark Tech Helicarrier Component
+ID_HELIMAT_ARMORY_DESCRIPTION,Used to upgrade the Stark Tech in the Helicarrier.
+ID_HELIMAT_BARRACKS_NAME,Barracks Helicarrier Component
+ID_HELIMAT_CARGO_NAME,Cargo Helicarrier Component
+ID_HELIMAT_FLIGHTDECK_NAME,Flight Deck Helicarrier Component
+ID_HELIMAT_HANGAR_NAME,Hangar Helicarrier Component
+ID_HELIMAT_MEDBAY_NAME,Med Bay Helicarrier Component
+ID_HELIMAT_REACTOR_NAME,Reactor Helicarrier Component
+ID_HELIMAT_SCILAB_NAME,Science Lab Helicarrier Component
+ID_HELIMAT_WEAPONSYS_NAME,Weapon System Helicarrier Component
+ID_HELIMAT_COMMON_NAME,Mk I Helicarrier Component
+ID_HELIMAT_UNCOMMON_NAME,Mk II Helicarrier Component
+ID_HELIMAT_RARE_NAME,Mk III Helicarrier Component
+ID_HELIMAT_VERYRARE_NAME,Mk IV Helicarrier Component
+ID_CAMPAIGN_PLAYER_ENERGY_NAME,Campaign Energy
+ID_CAMPAIGN_PLAYER_ENERGY_DESCRIPTION,Used to launch Campaign missions.
+ID_CAMPAIGN_PLAYER_ENERGY_ELDER_NAME,Incursion Energy
+ID_CAMPAIGN_PLAYER_ENERGY_ELDER_DESCRIPTION,Used to launch Incursion Campaign missions
+ID_AVE_KEY_HYDRA_NAME,Hydra Key
+ID_AVE_KEY_HYDRA_DESCRIPTION,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
+ID_AVE_KEY_ULTIMUS_NAME,Green Raid Key
+ID_AVE_KEY_ULTIMUS_DESCRIPTION,Collect keys to launch raids and earn Raid Credits and Gear. Your alliance will earn raid keys each day.
+ID_AVE_KEY_THANOS_NAME,Thanos Key
+ID_AVE_KEY_THANOS_DESCRIPTION,Collect Thanos Keys to launch Thanos Raids and earn Infinity Orb Fragments. Your alliance will earn raid keys each day.
+ID_AVE_KEY_DEADPOOL_NAME,Chimichanga
+ID_AVE_KEY_DEADPOOL_DESCRIPTION,Collect Chimichangas to launch Deadpool Raids and earn Deadpool Orb Fragments. Your alliance will earn Chimichangas each day.
+ID_AVE_KEY_GENERIC_DESCRIPTION,Collect keys to launch raids and earn ability materials. Your alliance will earn raid keys each day.
+ID_OPERATION_ATTACK_ENERGY_NAME,Campaign Energy Refill
+ID_OPERATION_ATTACK_ENERGY_DESCRIPTION,Campaign Energy Refill is used to refresh your Campaign Energy.
+ID_SHARD-CONVERSION-CUR_NAME,Ultra Credit
+ID_SHARD-CONVERSION-CUR_DESCRIPTION,"When you receive shards of a character who is at 7 stars, they convert to <color=#ffffff><i>ULTRA CREDITS</i></color>. Use <color=#ffffff><i>ULTRA CREDITS</i></color> Ultimus Orbs or Gear."
+ID_AVE_ATTACK_ENERGY,Raid Energy
+ID_AVE_ATTACK_ENERGY_NAME,Green Raid Energy
+ID_AVE_ATTACK_ENERGY_DESCRIPTION,Used to launch Raid missions.
+ID_ENERGY-BATTLEGROUND_NAME,Arena Energy
+ID_ENERGY-BATTLEGROUND_DESCRIPTION,Used to start an Arena Battle.
+ID_AC_NAME,Alliance Credits
+ID_AC_DESCRIPTION,Use Alliance Credits in Stark Tech to purchase upgrades.
+ID_ALLIANCE_XP_NAME,Alliance XP
+ID_ALLIANCE_XP_DESCRIPTION,Alliance XP is used to increase the level of your Alliance. You can level up your Alliance by making Alliance Donations.
+ID_ELITE_4_CUR_NAME,Elite 4 Credit
+ID_ELITE_4_CUR_DESCRIPTION,Used to buy Elite 4 Star Orbs or Silver Promotion Credits. \n\nEarn Elite 4 Credits by collecting duplicate Red Stars.
+ID_ELITE_5_CUR_NAME,Elite 5 Credit
+ID_ELITE_5_CUR_DESCRIPTION,Used to buy Elite 5 Star Orbs or Silver Promotion Credits.\n\nEarn Elite 5 Credits by collecting duplicate Red Stars from an Elite 4 Star Orb or better.
+ID_ELITE_6_CUR_NAME,Elite 6 Credit
+ID_ELITE_6_CUR_DESCRIPTION,Used to buy Elite 6 Star Orbs or Silver Promotion Credits.\n\nEarn Elite 6 Credits by collecting duplicate Red Stars from an Elite 5 Star Orb or better.
+ID_ELITE_7_CUR_NAME,Elite 7 Credit
+ID_ELITE_7_CUR_DESCRIPTION,Used to buy Elite 7 Star Orbs or Gold Promotion Credits.\n\nEarn Elite 7 Credits by collecting duplicate Red Stars from an Elite 6 Star Orb or better.
+ID_EVENT_CUR1_NAME,Candy
+ID_EVENT_CUR1_DESCRIPTION,"Spend these in the Candy Shop for limited time treats including: Oath Diamond Orbs, Blade's Ultimate Awakened Ability, Character Shards and Gear."
+ID_EVENT_CUR2_NAME,Gear Credits
+ID_EVENT_CUR2_DESCRIPTION,"Used to open Purple Origin Gear Orbs and Purple Catalyst Orbs. Earn Gear Credits by participating in High Roller, Save the World, and World Warrior Milestones."
+ID_EVENT_CUR3_NAME,Aged Adamantium Orb Fragment
+ID_EVENT_CUR3_DESCRIPTION,"Open Aged Adamantium Orbs to earn shards for Out of Time characters, Cabal characters, Emma Frost, Loki and progress in the Red in Tooth and Claw milestone"
+ID_EVENT_CUR4_NAME,Turkey
+ID_EVENT_CUR4_DESCRIPTION,"Spend these in the Turkey Shop for limited time goodies including: Mephisto Red Star Orb Fragments, Awakened Ability Material for Blade and Moondragon, Character Shards, and Gear."
+ID_EVENT_CUR6_NAME,Machines of War Milestone Points
+ID_EVENT_CUR6_DESCRIPTION,These points earn you additional progress in the Machines of War Milestone. Earn them in limited offers!
+ID_EVENT_CUR7_NAME,Wilderness Orb Fragment
+ID_EVENT_CUR7_DESCRIPTION,"Earn progress in the Mapping the Wilderness Milestone and open Wilderness Orbs for Sasquatch, Guardian, or Northstar shards!"
+ID_EVENT_CUR8_NAME,Forever Patriot Milestone Points
+ID_EVENT_CUR8_DESCRIPTION,These points earn you additional progress in the Forever Patriot Milestone. Earn them in the Dark Reign Web Milestone and special Offers!
+ID_EVENT_CUR10_NAME,Sentinel Scraps
+ID_EVENT_CUR10_DESCRIPTION,Collect Sentinel Scraps to exchange for Crimson gear and more from the Sentinel Forge orbs
+ID_EVENT_CUR11_NAME,Allied Engines Milestone Points
+ID_EVENT_CUR11_DESCRIPTION,These points earn you additional progress in the Allied Engines Milestone. Earn them in limited offers!
+ID_EVENT_CUR12_NAME,Allied Supply IV Orb Fragments
+ID_EVENT_CUR12_DESCRIPTION,"Open Allied Supply IV Orbs to get Gold, Training Materials, T2 Level 5 Ion Orb Fragments and more!"
+ID_EVENT_CUR16_NAME,Crimson Tombstone
+ID_EVENT_CUR16_DESCRIPTION,"Collect Crimson Tombstones for additional progress in the Slick Outbreak Milestone. Earn them via Viral Orbs from the Unstoppable Undead Event, Daily Free Claims on our website and limited time offers!"
+ID_EVENT_CUR17_NAME,Planetary Orb Fragment
+ID_EVENT_CUR17_DESCRIPTION,Open Planetary Orbs for Peter B. Parker shards!
+ID_EVENT_CUR19_NAME,Helm of Ares
+ID_EVENT_CUR19_DESCRIPTION,Collect Helm of Ares tokens for points in the Drums of War Event. Earn it from Ares Battle Pass tiers and limited time offers.
+ID_PROMOTION_CUR_NAME,Silver Promotion Credit
+ID_PROMOTION_CUR_DESCRIPTION,Used to promote specific characters (up to 5 Red Stars).\n\nBuy Red Star Promotions from the Supplies Store.
+ID_PROMOTION_CUR_ADV_NAME,Gold Promotion Credit
+ID_PROMOTION_CUR_ADV_DESCRIPTION,Used to promote specific characters (to 6 and 7 Red Stars).\n\nBuy Red Star Promotions from the Supplies Store.
+ID_PROMOTION_CUR_ULT_NAME,Dark Promotion Credit
+ID_PROMOTION_CUR_ULT_DESCRIPTION,Used to promote characters whose red stars may be unavailable in other ways.\n\nBuy Red Star Promotions from the Supplies Store.
+ID_DIAMOND_PROMOTION_CUR_NAME,Silver Diamond Credit
+ID_DIAMOND_PROMOTION_CUR_DESCRIPTION,Used to promote specific characters (up to 3 Diamonds).\n\nBuy Diamond Promotions from the Supplies Store.
+ID_DIAMOND_PROMOTION_CUR_ULT_NAME,Dark Diamond Credit
+ID_DIAMOND_PROMOTION_CUR_ULT_DESCRIPTION,Used to promote characters whose Diamonds may be unavailable in other ways.\n\nBuy Diamond Promotions from the Supplies Store.
+ID_BATTLEPASS_5_1_GENERAL_CUR_NAME,S.T.R.I.K.E. Tokens
+ID_BATTLEPASS_5_1_GENERAL_CUR_DESC,Earn S.T.R.I.K.E. Tokens by completing Daily Objectives. S.T.R.I.K.E. Tokens earn progress towards a S.T.R.I.K.E. Pass.
+ID_RESOURCE_CONVERSION_TITLE,CONVERT EXPIRED BITS
+ID_RESOURCE_CONVERSION_SUBTITLE,Expired Bits are converted into <color=#ffffff>COSTUME CREDITS</color>
+ID_RESOURCE_CONVERSION_SKIN_SUBTITLE,Expired Bits are converted into <color=#ffffff>COSTUME CREDITS</color>
+ID_UC_NAME,Ultra Cores
+ID_UC_DESCRIPTION,Ultra Cores can be used to make purchases in the Offers section of the Store.
+ID_UC_CONFIRMATION_HEADLINE,Spend Ultra Cores
+ID_UC_CONFIRMATION_DESC,Please confirm that you would like to spend Ultra Cores. You will not be asked again during this session.
+ID_UC_CONFIRMATION_REPEATING_DESC,Please confirm that you would like to spend Ultra Cores.
+ID_EVTA_META_JAN_A_NAME,X-Batteries
+ID_EVTA_META_JAN_A_DESCRIPTION,Collect X-Batteries for points in the Mechanical Marvel Event. Earn them in various events throughout the month of January
+ID_EVTA_META_JAN_B_NAME,Red Bandana
+ID_EVTA_META_JAN_B_DESCRIPTION,Collect the Red Bandana for points in the Mechanical Marvel Event. Earn it in the Sonic Judgment Event!
+ID_EVTA_META_JAN_C_NAME,Scanalyzer
+ID_EVTA_META_JAN_C_DESCRIPTION,Collect the Scanalyzer for points in the Mechanical Marvel Event. Earn it in the Solar Schematics Event!
+ID_EVTA_META_JAN_D_NAME,Bandolier
+ID_EVTA_META_JAN_D_DESCRIPTION,Collect the Bandolier for points in the Mechanical Marvel Event. Earn it in the Blastoff to 100 Event!
+ID_EVTA_META_JAN_E_NAME,Scanner
+ID_EVTA_META_JAN_E_DESCRIPTION,Collect Scanner for points in the Mechanical Marvel Event. Earn it in the Symbiote of the Spaceways Event!
+ID_EVTA_META_JAN_F_NAME,Neutralizer
+ID_EVTA_META_JAN_F_DESCRIPTION,Collect Neutralizer for points in the Mechanical Marvel Event. Earn it in the Into the Gwenomverse Event!
+ID_EVTA_META_JAN_X_NAME,Corrupted Helmet
+ID_EVTA_META_JAN_X_DESCRIPTION,Collect the Corrupted Helmet for points in the Pact of Wrath Event. Earn it from limited time offers.
+ID_EVTA_META_JAN_Y_NAME,Corrupted Armor
+ID_EVTA_META_JAN_Y_DESCRIPTION,Collect the Corrupted Armor for points in the Pact of Wrath Event. Earn it from limited time offers.
+ID_EVTA_META_JAN_Z_NAME,Corrupted Gauntlets
+ID_EVTA_META_JAN_Z_DESCRIPTION,Collect the Corrupted Gauntlets for points in the Pact of Wrath Event. Earn it from limited time offers.
+ID_EVTA_META_FEB_A_NAME,Carnage Symbiote Vial
+ID_EVTA_META_FEB_A_DESCRIPTION,Collect Carnage Symbiote Vials for points in the Seeing Red Event. Earn them in various events throughout the month of February
+ID_EVTA_META_FEB_B_NAME,Valentine's Card
+ID_EVTA_META_FEB_B_DESCRIPTION,Collect the Valentine's Card for points in the Seeing Red Event. Earn it in the Roses are Red Event!
+ID_EVTA_META_FEB_C_NAME,Cupid's Bow & Arrow
+ID_EVTA_META_FEB_C_DESCRIPTION,Collect the Cupid's Bow & Arrow for points in the Seeing Red Event. Earn it in the Paint the Town Red Event!
+ID_EVTA_META_FEB_D_NAME,Tulip Bouquet
+ID_EVTA_META_FEB_D_DESCRIPTION,Collect the Tulip Bouquet for points in the Seeing Red Event. Earn them in the Red Letter Day Event!
+ID_EVTA_META_FEB_E_NAME,Chocolate Covered Strawberry
+ID_EVTA_META_FEB_E_DESCRIPTION,Collect Chocolate Covered Strawberry for points in the Seeing Red Event. Earn it in the Red Carpet Treatment Event!
+ID_EVTA_META_FEB_F_NAME,Roses are Red Milestone Points
+ID_EVTA_META_FEB_F_DESCRIPTION,"These points earn you additional progress in the Roses are Red Milestone. Earn them in the Red in the Face Web Milestone, Daily Free Claims on our website, and limited offers!"
+ID_EVTA_META_FEB_G_NAME,Paint the Town Red Milestone Points
+ID_EVTA_META_FEB_G_DESCRIPTION,These points earn you additional progress in the Paint the Town Red Milestone. Earn them in the Red Handed Milestone and limited offers!
+ID_EVTA_META_FEB_H_NAME,Red Letter Day Milestone Points
+ID_EVTA_META_FEB_H_DESCRIPTION,"These points earn you additional progress in the Red Letter Day Milestone. Earn them in the Jam Sandwich Web Milestone, Daily Free Claims on our website, and limited offers!"
+ID_EVTA_META_FEB_I_NAME,Red Alert Milestone Points
+ID_EVTA_META_FEB_I_DESCRIPTION,These points earn you additional progress in the Red Alert Milestone. Earn them in limited time offers!
+ID_EVTA_META_FEB_X_NAME,Corrupted Mask
+ID_EVTA_META_FEB_X_DESCRIPTION,Collect the Corrupted Mask for points in the Pact of Greed Event. Earn it from limited time offers.
+ID_EVTA_META_FEB_Y_NAME,Corrupted Glider
+ID_EVTA_META_FEB_Y_DESCRIPTION,Collect the Corrupted Glider for points in the Pact of Greed Event. Earn it from limited time offers.
+ID_EVTA_META_FEB_Z_NAME,Corrupted Bombs
+ID_EVTA_META_FEB_Z_DESCRIPTION,Collect the Corrupted Bombs for points in the Pact of Greed Event. Earn it from limited time offers.
+ID_EVTA_META_MAR_A_NAME,Back to the Wasteland Milestone Points
+ID_EVTA_META_MAR_A_DESCRIPTION,Collect these for points in the Back to the Wasteland Milestone Event
+ID_EVTA_META_MAR_B_NAME,T-Rex Tooth
+ID_EVTA_META_MAR_B_DESCRIPTION,Collect the T-Rex Tooth for points in the Dawn of Time Event. Earn it in the Primordial Avenger Event!
+ID_EVTA_META_MAR_C_NAME,Astral Meteorite
+ID_EVTA_META_MAR_C_DESCRIPTION,Collect the Astral Meteorite for points in the Dawn of Time Event. Earn it in the Demonic Origins Event!
+ID_EVTA_META_MAR_D_NAME,Cosmic Tire
+ID_EVTA_META_MAR_D_DESCRIPTION,Collect the Cosmic Tire for points in the Dawn of Time Event. Earn it in the Eternal Vengeance Event!
+ID_EVTA_META_MAR_E_NAME,Patriot Coin
+ID_EVTA_META_MAR_E_DESCRIPTION,Collect the Patriot Coin for points in the Dawn of Time Event. Earn it in the Forever Patriot Event!
+ID_EVTA_META_MAR_F_NAME,Iso-8 Matrix Machine
+ID_EVTA_META_MAR_F_DESCRIPTION,Collect Iso-8 Matrix Machine for points in the Memory Lane Event. Earn them in the S.T.R.I.K.E. Celebration Event!
+ID_EVTA_META_MAR_J_NAME,Primordial Avenger Milestone Point
+ID_EVTA_META_MAR_J_DESCRIPTION,These points earn you additional progress in the Primordial Avenger Milestone. Earn them in limited time offers and the Wild Genesis Milestone!
+ID_EVTA_META_MAR_S_NAME,Corrupted Horns
+ID_EVTA_META_MAR_S_DESCRIPTION,Collect the Corrupted Horns for points in the Pact of Envy Event. Earn it from limited time offers.
+ID_EVTA_META_MAR_T_NAME,Corrupted Armor
+ID_EVTA_META_MAR_T_DESCRIPTION,Collect the Corrupted Armor for points in the Pact of Envy Event. Earn it from limited time offers.
+ID_EVTA_META_APR_A_NAME,Gamma Rays
+ID_EVTA_META_APR_A_DESCRIPTION,Collect Gamma Rays for points in the Nature/Nurture Event. Earn them in various events throughout the month of April
+ID_EVTA_META_APR_B_NAME,Toxic Waste Barrel
+ID_EVTA_META_APR_B_DESCRIPTION,Collect the Toxic Waste Barrel for points in the Nature/Nurture Event. Earn it in the Atomic Fallout Event!
+ID_EVTA_META_APR_C_NAME,Oil Tanker
+ID_EVTA_META_APR_C_DESCRIPTION,Collect the Oil Tanker for points in the Nature/Nurture Event. Earn it in the Slick Outbreak Event!
+ID_EVTA_META_APR_D_NAME,Flower Patch
+ID_EVTA_META_APR_D_DESCRIPTION,Collect the Flower Patch for points in the Nature/Nurture Event. Earn it in the Earthlings Needed Event!
+ID_EVTA_META_APR_E_NAME,Sun Rays
+ID_EVTA_META_APR_E_DESCRIPTION,Collect the Sun Rays for points in the Nature/Nurture Event. Earn it in the Golden Hour Event!
+ID_EVTA_META_APR_F_NAME,Tactical Belt
+ID_EVTA_META_APR_F_DESCRIPTION,Collect Tactical Belt for points in the Royal Soldier Event. Earn it in the Shopping Spree Event!
+ID_EVTA_META_APR_G_NAME,Atomic Fallout Milestone Point
+ID_EVTA_META_APR_G_DESCRIPTION,These points earn you additional progress in the Atomic Fallout Milestone. Earn them in limited time offers and the Hunker Down Milestone!
+ID_EVTA_META_APR_H_NAME,Slick Outbreak Milestone Points
+ID_EVTA_META_APR_H_DESCRIPTION,These points earn you additional progress in the Slick Outbreak Milestone. Earn them in limited offers and in the Rise of the Bees Web Milestone!
+ID_EVTA_META_APR_I_NAME,Earthlings Needed Milestone Points
+ID_EVTA_META_APR_I_DESCRIPTION,These points earn you additional progress in the Earthlings Needed Milestone. Earn them in limited offers and in the Revenge of the Blitz Web Milestone!
+ID_EVTA_META_MAY_A_NAME,Mission Supplies
+ID_EVTA_META_MAY_A_DESCRIPTION,Collect Mission Supplies for points in the M is for Mercs Event. Earn them in various events throughout the month of May
+ID_EVTA_META_MAY_B_NAME,Mercenary Contract
+ID_EVTA_META_MAY_B_DESCRIPTION,Collect the Mercenary Contract for points in the M is for Mercs Event. Earn it in various events throughout the month of May!
+ID_EVTA_META_MAY_C_NAME,All That Glitters Milestone Points
+ID_EVTA_META_MAY_C_DESCRIPTION,"These points earn you additional progress in the All That Glitters Milestone. Earn them in the Golden Blitz, Daily Free Claims on our website, the Stashed Cache Web Milestone, and limited offers!"
+ID_EVTA_META_MAY_D_NAME,Along Came a SP//dr Milestone Points
+ID_EVTA_META_MAY_D_DESCRIPTION,"These points earn you additional progress in the Along Came a SP//dr Milestone. Earn them in Daily Free Claims on our website, the After School Projects Web Milestone, and limited offers!"
+ID_EVTA_META_MAY_E_NAME,Red in Tooth and Claw Milestone Points
+ID_EVTA_META_MAY_E_DESCRIPTION,These points earn you additional progress in the Red in Tooth and Claw Milestone. Earn them in the Adamantium Power Web Milestone and Special Offers!
+ID_EVTA_META_MAY_F_NAME,Black White and Red All Over Milestone Points
+ID_EVTA_META_MAY_F_DESCRIPTION,These points earn you additional progress in the Black White and Red All Over Milestone. Earn them in the Sinister Strike Web Milestone and special Offers!
+ID_RES_NA_STANDPROUDTOGETHER,"Stand Proud, Together Milestone Point"
+ID_RES_DE_STANDPROUDTOGETHER,"These points earn you additional progress in the Stand Proud, Together Milestone. Earn them in Daily Free Claims on our website and/or limited offers!"
+ID_RES_NA_WEREINTHISTOGETHER,We're In This Together Premium Milestone
+ID_RES_DE_WEREINTHISTOGETHER,"Unlock the We're In This Together Premium Milestone from this purchase. Donate to your Alliance and/or Spend Campaign Energy to earn rewards like: 6 Red Star Nico Minoru, Elite 4 & 5 Credits, Proud Character Shards, and 1 Million Gold!"
+ID_RES_NA_HITTHELIGHTS,Hit The Lights Milestone Point
+ID_RES_DE_HITTHELIGHTS,These points earn you additional progress in the Hit The Lights Milestone. Earn them in Daily Free Claims on our website and/or limited offers!
+ID_RES_NA_RESETCHARGE,Reset Charge
+ID_RES_DE_RESETCHARGE,Collect Reset Charges for points in the TVA Agent Event. Earn them in various events throughout the month of August. Take Reset Charges to the TVA Gift Shop to obtain TVA Gift Cards
+ID_RES_NA_TVAGIFTSHOP,TVA Gift Shop
+ID_RES_DE_TVAGIFTSHOP,Spend TVA Gift Cards at the TVA Gift Shop. Only for a limited time
+ID_RES_NA_TVAGIFTCARD,TVA Gift Card
+ID_RES_DE_TVAGIFTCARD,Earn TVA Gift Cards from Reset Charge Orbs and Daily Free Claims on our webstite. Spend TVA Gift Cards in the TVA Gift Shop
+ID_RES_NA_VORMIR2301,Vormir : 2301 Milestone Point
+ID_RES_DE_VORMIR2301,These points earn you additional progress in the Vormir : 2301 Milestone. Earn them in Daily Free Claims on our website and/or limited offers!
+ID_ASGARD2004_NAME,Asgard : 2004 Milestone Points
+ID_BARICHARA1808_NAME,Barichara : 1808 Milestone Points
+ID_HALA0051_NAME,Hala : 0051 Milestone Points
+ID_EGO1382_NAME,Ego : 1382 Milestone Points
+ID_ASGARD2004_DESC,"These points earn you additional progress in the Asgard : 2004 Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_BARICHARA1808_DESC,"These points earn you additional progress in the Barichara : 1808 Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_HALA0051_DESC,"These points earn you additional progress in the Hala : 0051 Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EGO1382_DESC,"These points earn you additional progress in the Ego : 1382 Milestone. Earn them in Daily Free Claims on our website, and limited offers!"
+ID_EVTA_META_SEP_A_NAME,Sentinel Core
+ID_EVTA_META_SEP_A_DESCRIPTION,Collect Sentinel Core for points in the Autumn Revolution Event. Earn them in various events throughout the month of September
+ID_EVTA_META_SEP_B_NAME,Energy Blaster
+ID_EVTA_META_SEP_B_DESCRIPTION,Collect the Energy Blaster for points in the Autumn Revolution Event. Earn it in the Sentinels Assemble Event!
+ID_EVTA_META_SEP_C_NAME,Anti-Mutant Laser
+ID_EVTA_META_SEP_C_DESCRIPTION,Collect the Anti-Mutant Laser for points in the Autumn Revolution Event. Earn it in the Fall of the Mutants Event!
+ID_EVTA_META_SEP_D_NAME,Power Dampener
+ID_EVTA_META_SEP_D_DESCRIPTION,Collect the Power Dampener for points in the Autumn Revolution Event. Earn it in the Operation: Omega Event!
+ID_EVTA_META_SEP_E_NAME,Sentinels Assemble Milestone Points
+ID_EVTA_META_SEP_E_DESCRIPTION,These points earn you additional progress in the Sentinels Assemble Milestone. Earn them in the Sentinel Strike Web Milestone and Special Offers!
+ID_EVTA_META_SEP_F_NAME,Fall of the Mutants Milestone Points
+ID_EVTA_META_SEP_F_DESCRIPTION,These points earn you additional progress in the Fall of the Mutants Milestone. Earn them in the S-Day Web Milestone and Special Offers!
+ID_EVTA_META_SEP_G_NAME,Operation: Omega Milestone Points
+ID_EVTA_META_SEP_G_DESCRIPTION,These points earn you additional progress in the Operation: Omega Milestone. Earn them in the Mutant Rebellion Web Milestone and Special Offers!
+ID_EVTA_META_SEP_H_NAME,The Dark Future Milestone Points
+ID_EVTA_META_SEP_H_DESCRIPTION,These points earn you additional progress in The Dark Future Alliance Milestone. Earn them in Free Claims and Special Offers!
+ID_EVTA_META_NOV_A_NAME,Cosmic Elixir
+ID_EVTA_META_NOV_A_DESCRIPTION,Collect Cosmic Elixirs for points in the Cosmic Awakening Event. Earn them in various events throughout the month of November
+ID_EVTA_META_NOV_B_NAME,Astral Armor
+ID_EVTA_META_NOV_B_DESCRIPTION,Collect the Astral Armor for points in the Cosmic Awakening Event. Earn it in the Astral Voyage Event!
+ID_EVTA_META_NOV_C_NAME,Nebula Cloak
+ID_EVTA_META_NOV_C_DESCRIPTION,Collect the Nebula Cloak for points in the Cosmic Awakening Event. Earn it in the Nebula Trials Event!
+ID_EVTA_META_NOV_D_NAME,Lunar Scepter
+ID_EVTA_META_NOV_D_DESCRIPTION,Collect the Lunar Scepter for points in the Cosmic Awakening Event. Earn it in the Lunar Rebirth Event!
+ID_EVTA_META_NOV_E_NAME,Cosmic Key
+ID_EVTA_META_NOV_E_DESCRIPTION,Collect the Cosmic Key for points in the Cosmic Awakening Event. Earn it in the Galactic Awakening Event!
+ID_EVTA_META_NOV_F_NAME,Astral Voyage Milestone Points
+ID_EVTA_META_NOV_F_DESCRIPTION,These points earn you additional progress in the Astral Voyage Milestone. Earn them in the Stellar Conquest Web Milestone and Special Offers!
+ID_EVTA_META_NOV_G_NAME,Cosmic BattleMilestone Points
+ID_EVTA_META_NOV_G_DESCRIPTION,These points earn you additional progress in the Cosmic Battle Milestone. Earn them in Special Offers!
+ID_EVTA_META_NOV_H_NAME,Cosmic Shadows Milestone Points
+ID_EVTA_META_NOV_H_DESCRIPTION,"These points earn you additional progress in the Cosmic Shadows Milestone. Earn them in the Stellar Conquest Web Milestone, Daily Free Claims and Special Offers!"
+ID_EVTA_META_NOV_I_NAME,Lunar Rebirth Milestone Points
+ID_EVTA_META_NOV_I_DESCRIPTION,These points earn you additional progress in the Lunar Rebirth Milestone. Earn them in Special Offers!
+ID_EVTA_META_NOV_J_NAME,Galactic Awakening Milestone Points
+ID_EVTA_META_NOV_J_DESCRIPTION,These points earn you additional progress in the Galactic Awakening Milestone. Earn them in Special Offers!
+ID_PATENTPENDING_NAME,Patent Pending Milestone Points
+ID_PATENTPENDING_DESC,"These points earn you additional progress in the Patent Pending Milestone. Earn them in the Eureka Moment Web Milestone, Daily Free Claims on our website, and limited offers!"
+ID_BACKTOFORMULA_NAME,Back to Formula Milestone Points
+ID_BACKTOFORMULA_DESC,"These points earn you additional progress in the Back to Formula Milestone. Earn them in the Ruthless Ambition Web Milestone, Daily Free Claims on our website, and limited offers!"
+ID_STARKGRANT_NAME,Stark Grant Milestone Points
+ID_STARKGRANT_DESC,"These points earn you additional progress in the Stark Grant Milestone. Earn them in the State of the Art Web Milestone, Daily Free Claims on our website, and limited offers!"
+ID_ANIMALARMATURE_NAME,Animal Armature Milestone Points
+ID_ANIMALARMATURE_DESC,"These points earn you additional progress in the Animal Armature Milestone. Earn them in the Big Armor Hunter Web Milestone, Daily Free Claims on our website, and limited offers!"
+ID_WEAPONSONLINE_NAME,Weapons Online Milestone Points
+ID_WEAPONSONLINE_DESC,"These points earn you additional progress in the Weapons Online Milestone. Earn them in the Eureka Moment Web Milestone, Daily Free Claims on our website, and limited offers!"
+ID_EVTA_META_DEV_A_NAME,Spectacular Snowflakes
+ID_EVTA_META_DEV_A_DESCRIPTION,Collect Spectacular Snowflakes for points in the Frozen Festival Event. Earn them in events and offers throughout December!
+ID_EVTA_META_DEV_B_NAME,Spider-Scarf
+ID_EVTA_META_DEV_B_DESCRIPTION,Collect the Spider-Scarf for points in the Frozen Festival Event. Earn it in the Snowy Spider Spectacle event!
+ID_EVTA_META_DEV_C_NAME,Sled Pool
+ID_EVTA_META_DEV_C_DESCRIPTION,Collect Sled Pool for points in the Frozen Festival Event. Earn it in the X-Force Frostbite event!
+ID_EVTA_META_DEV_D_NAME,Superior Sweater
+ID_EVTA_META_DEV_D_DESCRIPTION,Collect the Superior Sweater for points in the Frozen Festival Event. Earn it in the Sinister Snowstorm event!
+ID_EVTA_META_DEV_E_NAME,Uncanny X-Cap
+ID_EVTA_META_DEV_E_DESCRIPTION,Collect the Uncanny X-Cap for points in the Frozen Festival Event. Earn it in the Frosty Family Gathering event!
+ID_EVTA_META_DEV_F_NAME,Ruby Snow Goggles
+ID_EVTA_META_DEV_F_DESCRIPTION,Collect the Ruby Snow Goggles for points in the Frozen Festival Event. Earn it in the Icy X-Travaganza event!
+ID_RES_NA_RACETOTHETOP,Race to the Top Milestone Point
+ID_RES_DE_RACETOTHETOP,These points earn you additional progress in the Race to the Top Milestone. Earn them in Daily Free Claims on our website and/or limited offers!
+ID_EVENT_HEARTCANDY_NAME,Heart Candy
+ID_EVENT_HEARTCANDY_DESC,"Collect Heart Candy to spend in the Candy Shop Event Store. Earn them from Campaign nodes, Daily Free Claims on our website, and in special offers!"
+ID_EVENT_CANDYSHOP_NAME,Candy Shop
+ID_EVENT_CANDYSHOP_DESC,Spend Heart Candy at the Candy Shop. Only for a limited time.
+ID_EVTA_META_MAR_V_NAME,Anniversary Coin
+ID_EVTA_META_MAR_V_DESCRIPTION,"Collect Anniversary Coins for points in the 2,192 Days of S.T.R.I.K.E. Event. Earn them in Daily Objectives!"
+ID_EVTA_META_MAR_W_NAME,Hero's Mask
+ID_EVTA_META_MAR_W_DESCRIPTION,Collect Hero's Mask for points in the Sixth Anniversary Event. Earn it in the We Stand Together Event!
+ID_EVTA_META_MAR_X_NAME,Infernal Contract
+ID_EVTA_META_MAR_X_DESCRIPTION,Collect the Infernal Contract for points in the Sixth Anniversary Event. Earn it in the Well May You Tremble Event!
+ID_EVTA_META_MAR_Y_NAME,Kestrel's Helmet
+ID_EVTA_META_MAR_Y_DESCRIPTION,Collect the Kestrel's Helmet for points in the Sixth Anniversary Event. Earn it in the Legacy of S.T.R.I.K.E. Event!
+ID_EVTA_META_MAR_Z_NAME,Nick Fury's Eyepatch
+ID_EVTA_META_MAR_Z_DESCRIPTION,"Collect the Nick Fury's Eyepatch for points in the Sixth Anniversary Event. Earn it in the 2,192 Days of S.T.R.I.K.E. Event!"
+ID_EVTA_META_APR_J_NAME,Golden Hour Milestone Points
+ID_EVTA_META_APR_J_DESCRIPTION,These points earn you additional progress in the Golden Hour Milestone. Earn them in limited offers!
+ID_EVTA_META_APR_K_NAME,Rise of the Planet Milestone Points
+ID_EVTA_META_APR_K_DESCRIPTION,These points earn you additional progress in the Rise of the Planet Milestone. Earn them in limited offers and in the Peace and Love Web Milestone!
+ID_EVTA_META_MAY_G_NAME,Mystic Mercenary Milestone Points
+ID_EVTA_META_MAY_G_DESCRIPTION,These points earn you additional progress in the Mystic Mercenary Milestone. Earn them in the Running Rampant Web Milestone and Special Offers!
+ID_EVTA_META_JUN_N_NAME,Sins of the Father Milestone Point
+ID_EVTA_META_JUN_N_DESCRIPTION,These points earn you additional progress in the Sins of the Father Milestone. Earn them in limited time offers and the In His Shadow Milestone!
+ID_EVTA_META_JUN_A_NAME,Dog Tags
+ID_EVTA_META_JUN_A_DESCRIPTION,Collect Dog Tags for points in the Homeward Bound Event. Earn them in various events throughout the month of June
+ID_EVTA_META_JUN_B_NAME,Weapon X Helmet
+ID_EVTA_META_JUN_B_DESCRIPTION,Collect the Weapon X Helmet for points in the Homeward Bound Event. Earn it in the Sins of the Father Event!
+ID_EVTA_META_JUN_C_NAME,Cracked Picture Frame
+ID_EVTA_META_JUN_C_DESCRIPTION,Collect the Cracked Picture Frame for points in the Homeward Bound Event. Earn it in the The Great White North Event!
+ID_EVTA_META_JUN_D_NAME,Empty Root Beer Bottle
+ID_EVTA_META_JUN_D_DESCRIPTION,Collect the Empty Root Beer Bottle for points in the Homeward Bound Event. Earn it in the Guiding Light Event!
+ID_EVTA_META_JUN_E_NAME,Pickup Truck Keys
+ID_EVTA_META_JUN_E_DESCRIPTION,Collect the Pickup Truck Keys for points in the Homeward Bound Event. Earn it in the On Guard for Thee Event!
+ID_EVTA_META_JUN_O_NAME,The Great White North Milestone Points
+ID_EVTA_META_JUN_O_DESCRIPTION,These points earn you additional progress in The Great White NOrth Milestone. Earn them in limited time offers and the Winter In June Milestone!
+ID_EVTA_META_JUN_P_NAME,Whiteout Milestone Points
+ID_EVTA_META_JUN_P_DESCRIPTION,These points earn you additional progress in the Whiteout Milestone. Earn them in limited offers!
+ID_EVENT_CUR13_NAME,Allied Supply V Orb Fragments
+ID_EVENT_CUR13_DESCRIPTION,"Open Allied Supply V Orbs to get Gold, Training Materials, T2 Level 5 Ion Orb Fragments and more!"
+ID_EVTA_META_JUN_F_NAME,Red Pride Stone
+ID_EVTA_META_JUN_F_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_G_NAME,Yellow Pride Stone
+ID_EVTA_META_JUN_G_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_H_NAME,Green Pride Stone
+ID_EVTA_META_JUN_H_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_I_NAME,Black Pride Stone
+ID_EVTA_META_JUN_I_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_J_NAME,Teal Pride Stone
+ID_EVTA_META_JUN_J_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_K_NAME,Blue Pride Stone
+ID_EVTA_META_JUN_K_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_L_NAME,Purple Pride Stone
+ID_EVTA_META_JUN_L_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVTA_META_JUN_M_NAME,Pink Pride Stone
+ID_EVTA_META_JUN_M_DESCRIPTION,We honor those who paved the way for us to proudly be who we are.
+ID_EVENT_CUR14_NAME,Coming Out Orb Fragments
+ID_EVENT_CUR14_DESCRIPTION,"Earn new LGBTQ+ Character Shards, Gold, and Training Modules!"
+ID_EVENT_CUR15_NAME,Raid Champions Orb Fragment
+ID_EVENT_CUR15_DESCRIPTION,Earn shards for top Raid characters!
+ID_EVTA_META_JUN_Q_NAME,Shining Star Milestone Points
+ID_EVTA_META_JUN_Q_DESCRIPTION,These points earn you additional progress in the Shining Star Milestone. Earn them in limited offers!
+ID_EVTA_META_JUN_R_NAME,Guiding Light Milestone Point
+ID_EVTA_META_JUN_R_DESCRIPTION,These points earn you additional progress in the Guiding Light Milestone. Earn them in the Wayfinder Web Milestone and special Offers!
+ID_EVTA_META_JUN_Z_NAME,Take Flight: Guardian Milestone Point
+ID_EVTA_META_JUN_Z_DESCRIPTION,Gain additional progress in the Take Flight: Guardian Milestone. Earn them in limited time Guardian offers!
+ID_EVTA_META_JUN_S_NAME,On Guard For Thee Milestone Points
+ID_EVTA_META_JUN_S_DESCRIPTION,These points earn you additional progress in the On Guard For Thee Milestone. Earn them in the Glorious And Free Web Milestone and special Offers!
+ID_EVENT_CUR18_NAME,Am-Can Orb Fragment
+ID_EVENT_CUR18_DESCRIPTION,"Collect to progress in the On Guard For Thee milestone, and open Am-Can Orbs to earn Guardian shards!"
+ID_BFYB-CUR_NAME,Strike Points
+ID_BFYB-CUR_DESCRIPTION,Strike Points can be used to make purchases in the Strike Store section of the in-game Store. The Strike Store will only be visible when your Strike Points balance is greater than zero.
+ID_EVTA_META_JUN_Y_NAME,Take Flight: Sasquatch Milestone Point
+ID_EVTA_META_JUN_Y_DESCRIPTION,Gain additional progress in the Take Flight: Sasquatch Milestone. Earn them in limited time Sasquatch offers!
+ID_EVTA_META_JUN_T_NAME,From Far and Wide Milestone Point
+ID_EVTA_META_JUN_T_DESCRIPTION,These points earn you additional progress in the From Far and Wide Milestone. Earn them in Spotlight Raids and special Offers!
+ID_EVTA_META_JUL_A_NAME,Lab Supplies
+ID_EVTA_META_JUL_A_DESCRIPTION,Collect Lab Supplies for points in the Wilderness Expedition Event. Earn them in various events throughout the month of July
+ID_EVTA_META_JUL_B_NAME,Map Fragment #1
+ID_EVTA_META_JUL_B_DESCRIPTION,Collect the Map Fragment #1 for points in the Wilderness Expedition Event. Earn it in the Mapping the Wilderness Event!
+ID_EVTA_META_JUL_C_NAME,Map Fragment #2
+ID_EVTA_META_JUL_C_DESCRIPTION,Collect the Map Fragment #2 for points in the Wilderness Expedition Event. Earn it in the Summer Camp Discovery Event!
+ID_EVTA_META_JUL_D_NAME,Map Fragment #3
+ID_EVTA_META_JUL_D_DESCRIPTION,Collect the Map Fragment #3 for points in the Wilderness Expedition Event. Earn it in the The Guardian of the Camp Event!
+ID_EVTA_META_JUL_E_NAME,Mapping the Wilderness Milestone Points
+ID_EVTA_META_JUL_E_DESCRIPTION,These points earn you additional progress in the Mapping the Wilderness Milestone. Earn them in the Scientific Breakthrough Web Milestone and Special Offers!
+ID_EVTA_META_JUL_F_NAME,Summer Camp Discovery Milestone Points
+ID_EVTA_META_JUL_F_DESCRIPTION,These points earn you additional progress in the Summer Camp Discovery Milestone. Earn them in the Internal Tensions Web Milestone and Special Offers!
+ID_EVTA_META_JUL_H_NAME,Captain Britain's Shield
+ID_EVTA_META_JUL_H_DESCRIPTION,Collect this symbol of British valour three times to unlock Captain Britain himself!
+ID_EVTA_META_JUL_G_NAME,The Guardian of the Camp Milestone Points
+ID_EVTA_META_JUL_G_DESCRIPTION,These points earn you additional progress in the The Guardian of the Camp Milestone. Earn them in the The Beast Within Web Milestone and Special Offers!
+ID_EVTA_META_JUL_I_NAME,Machines for Money Milestone Points
+ID_EVTA_META_JUL_I_DESCRIPTION,These points earn you additional progress in the Machines for Money Milestone. Earn them in Special Offers!
+ID_EVENT_CUR5_NAME,POOLside Chimichanga
+ID_EVENT_CUR5_DESCRIPTION,Collect these iconic snacks for points at Deadpool's POOL Party
+ID_EVTA_META_AUG_A_NAME,Disco Ball
+ID_EVTA_META_AUG_A_DESCRIPTION,Collect Disco Balls for points in the Summer Nights Event. Earn them in various events throughout the months of July & August
+ID_EVTA_META_AUG_B_NAME,Party Mask
+ID_EVTA_META_AUG_B_DESCRIPTION,Collect the Party Mask for points in the Summer Nights Event. Earn it in the Adamantium Is Forever Event!
+ID_EVTA_META_AUG_C_NAME,Iso-8 Soda
+ID_EVTA_META_AUG_C_DESCRIPTION,Collect the Iso-8 Soda for points in the Summer Nights Event. Earn it in the Radioactive Prep Event!
+ID_EVTA_META_AUG_D_NAME,Photon Projector
+ID_EVTA_META_AUG_D_DESCRIPTION,Collect the Photon Projector for points in the Summer Nights Event. Earn it in the Quantum Disco Event!
+ID_EVTA_META_AUG_E_NAME,DJ Deadpool Mixtape
+ID_EVTA_META_AUG_E_DESCRIPTION,Collect the DJ Deadpool Mixtape for points in the Summer Nights Event. Earn it in the Diamond Claws Event!
+ID_EVTA_META_JUL_X_NAME,Helm of Ares
+ID_EVTA_META_JUL_X_DESCRIPTION,Collect Helm of Ares tokens for points in the Drums of War Event. Earn it from Ares Battle Pass tiers and limited time offers.
+ID_EVTA_META_AUG_F_NAME,Adamantium Is Forever Milestone Points
+ID_EVTA_META_AUG_F_DESCRIPTION,These points earn you additional progress in the Adamantium Is Forever Milestone. Earn them in the Diamond Dazzle Web Milestone and Special Offers!
+ID_EVTA_META_AUG_G_NAME,Radioactive Prep Milestone Points
+ID_EVTA_META_AUG_G_DESCRIPTION,These points earn you additional progress in the Radioactive Prep Milestone. Earn them in the Purple Punch Web Milestone and Special Offers!
+ID_EVTA_META_AUG_H_NAME,Quantum Disco Milestone Points
+ID_EVTA_META_AUG_H_DESCRIPTION,These points earn you additional progress in the Quantum Disco Milestone. Earn them in the Subatomic Groove Web Milestone and Special Offers!
+ID_EVTA_META_AUG_J_NAME,Twilight Expeditions Milestone Points
+ID_EVTA_META_AUG_J_DESCRIPTION,These points earn you additional progress in the Twilight Expeditions Milestone. Earn them in Special Offers!
+ID_EVTA_META_AUG_K_NAME," Midnight Assault Milestone Points"
+ID_EVTA_META_AUG_K_DESCRIPTION,These points earn you additional progress in the Midnight Assault Milestone. Earn them in Special Offers!
+ID_EVTA_META_AUG_L_NAME," Isotope Illumination Milestone Points"
+ID_EVTA_META_AUG_L_DESCRIPTION,These points earn you additional progress in the Isotope Illumination Milestone. Earn them in Special Offers!
+ID_EVTA_META_AUG_N_NAME,Weekend Arena Warriors Milestone Point
+ID_EVTA_META_AUG_N_DESCRIPTION,Earn Progress in the Weekend Arena Warriors Milestone
+ID_EVTA_META_AUG_I_NAME,Diamond Claws Milestone Points
+ID_EVTA_META_AUG_I_DESCRIPTION,These points earn you additional progress in the Diamond Claws Milestone. Earn them in Special Offers!
+ID_EVTA_META_AUG_P_NAME,Cosmic Power
+ID_EVTA_META_AUG_P_DESCRIPTION,Collect Cosmic Power for points in The Annihilator Initiative Event. Earn them in various events throughout the month of August
+ID_EVTA_META_AUG_Q_NAME,Plandanium Armor
+ID_EVTA_META_AUG_Q_DESCRIPTION,Collect the Plandanium Armor for points in The Annihilator Initiative Event. Earn it in the Cosmic Threat Event!
+ID_EVTA_META_AUG_R_NAME,Twilight Sword
+ID_EVTA_META_AUG_R_DESCRIPTION,Collect the Twilight Sword for points in The Annihilator Initiative Event. Earn it in the Old Enemies Event!
+ID_EVTA_META_AUG_S_NAME,Quantum Bands
+ID_EVTA_META_AUG_S_DESCRIPTION,Collect the Quantum Bands for points in The Annihilator Initiative Event. Earn it in the A Greater Purpose Event!
+ID_EVTA_META_AUG_T_NAME,Cosmic Threat Milestone Points
+ID_EVTA_META_AUG_T_DESCRIPTION,These points earn you additional progress in the Cosmic Threat Milestone. Earn them in the Galactic Peril Web Milestone and Special Offers!
+ID_EVTA_META_AUG_U_NAME,Old Enemies Milestone Points
+ID_EVTA_META_AUG_U_DESCRIPTION,These points earn you additional progress in the Old Enemies Milestone. Earn them in the Old Grudges Web Milestone and Special Offers!
+ID_EVTA_META_AUG_V_NAME,A Greater Purpose Milestone Points
+ID_EVTA_META_AUG_V_DESCRIPTION,These points earn you additional progress in the A Greater Purpose Milestone. Earn them in the A Greater Power Milestone and Special Offers!
+ID_EVTA_META_AUG_W_NAME,Cosmic Dominance Milestone Points
+ID_EVTA_META_AUG_W_DESCRIPTION,These points earn you additional progress in the Cosmic Dominance Alliance Milestone. Earn them in Free Claims and Special Offers!
+ID_EVTA_META_AUG_X_NAME,Tolerance is Extinction Milestone Points
+ID_EVTA_META_AUG_X_DESCRIPTION,These points earn you additional progress in the Tolerance is Extinction Alliance Milestone. Earn them in Free Claims and Special Offers!
+ID_EVENT_CUR9_NAME,Dimensional Anomaly
+ID_EVENT_CUR9_DESCRIPTION,"Gain additional progress in the Old Enemies Milestone. Earn them from the Shattered Dimension, Free Claims and Special Offers!"
+ID_BATTLEWORLD_CURRENCY_NAME,Battleworld Credits
+ID_BATTLEWORLD_CURRENCY_DESCRIPTION,Use Battleworld Credits to purchase Orbs and Supplies in the Battleworld Store.
+ID_EVTA_META_AUG_Y_NAME,Annihilators' Assembly Milestone Point
+ID_EVTA_META_AUG_Y_DESCRIPTION,Earn Progress in the Annihilators' Assembly Milestone Event
+ID_EVTA_META_SEP_Z_NAME,Raven
+ID_EVTA_META_SEP_Z_DESCRIPTION,"Collect Ravens by completing Dark Dimension VIII missions, and earn exciting rewards in the To Valhalla! Milestone event."
+ID_EVTA_META_OCT_A_NAME,Silver Bullet
+ID_EVTA_META_OCT_A_DESCRIPTION,Collect Silver Bullets for points in the Midnight Hunt Event. Earn them in various events throughout the month of October
+ID_EVTA_META_OCT_B_NAME,Stake
+ID_EVTA_META_OCT_B_DESCRIPTION,Collect the Stake for points in the Midnight Hunt Event. Earn it in the Vampiric Frenzy Event!
+ID_EVTA_META_OCT_C_NAME,Prayer Beads
+ID_EVTA_META_OCT_C_DESCRIPTION,Collect the Rosary Beads for points in the Midnight Hunt Event. Earn it in the Twilight Vigil Event!
+ID_EVTA_META_OCT_D_NAME,Holy Water
+ID_EVTA_META_OCT_D_DESCRIPTION,Collect the Holy Water for points in the Midnight Hunt Event. Earn it in the Swamp Showdown Event!
+ID_EVTA_META_OCT_E_NAME,Bunch of Garlic
+ID_EVTA_META_OCT_E_DESCRIPTION,Collect the Bunch of Garlic for points in the Midnight Hunt Event. Earn it in the Zombie Invasion Event!
+ID_EVTA_META_OCT_F_NAME,Bazooka
+ID_EVTA_META_OCT_F_DESCRIPTION,Collect the Bazooka for points in the Midnight Hunt Event. Earn it in the Overwhelming Hunger Event!
+ID_EVTA_META_OCT_G_NAME,Vampiric Frenzy Milestone Points
+ID_EVTA_META_OCT_G_DESCRIPTION,These points earn you additional progress in the Vampiric Frenzy Milestone. Earn them in the Sugar Rush Web Milestone and Special Offers!
+ID_EVTA_META_OCT_K_NAME,Swamp Showdown Milestone Points
+ID_EVTA_META_OCT_K_DESCRIPTION,"These points earn you additional progress in the Swamp Showdown Milestone. Earn them in the Sugar Rush Web Milestone, Daily Free Claims and Special Offers!"
+ID_EVTA_META_SEP_0_NAME,Orchis Assembly Milestone Point
+ID_EVTA_META_SEP_0_DESCRIPTION,Collect these for progress in the Orchis Assembly milestone event!
+ID_EVTA_META_OCT_H_NAME,Night Raid Milestone Points
+ID_EVTA_META_OCT_H_DESCRIPTION,These points earn you additional progress in the Night Raid Milestone. Earn them in Special Offers!
+ID_EVTA_META_OCT_I_NAME,Twilight Vigil Milestone Points
+ID_EVTA_META_OCT_I_DESCRIPTION,These points earn you additional progress in the Twilight Vigil Milestone. Earn them in Special Offers!
+ID_EVTA_META_OCT_Y_NAME,Omega Sentinel's Activation Milestone Points
+ID_EVTA_META_OCT_Y_DESCRIPTION,These points earn you additional progress in the Omega Sentinel's Activation Milestone.
+ID_EVTA_META_OCT_Z_NAME,Blade's Dark Hunt Milestone Points
+ID_EVTA_META_OCT_Z_DESCRIPTION,These points earn you additional progress in Blade's Dark Hunt Milestone.
+ID_EVTA_META_OCT_J_NAME,Zombie Invasion Milestone Points
+ID_EVTA_META_OCT_J_DESCRIPTION,These points earn you additional progress in the Zombie Invasion Milestone. Earn them in the Sugar Rush Web Milestone and Special Offers!
+ID_EVTA_META_OCT_M_NAME,Haunted Hour Milestone Point
+ID_EVTA_META_OCT_M_DESCRIPTION,Collect these points for progress in the Haunted Hour milestone. Earn them in Daily Objectives!
+ID_EVTA_META_OCT_N_NAME,Dark Harvest Milestone Point
+ID_EVTA_META_OCT_N_DESCRIPTION,Collect these for progress in the Dark Harvest milestone event!
+ID_EVTA_META_OCT_L_NAME,Overwhelming Hunger Milestone Points
+ID_EVTA_META_OCT_L_DESCRIPTION,These points earn you additional progress in the Overwhelming Hunger Milestone. Earn them in the Sugar Rush Web Milestone and Special Offers!

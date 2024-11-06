@@ -1,0 +1,426 @@
+id,translation
+ID_SCOURGE_SET_NAME,Scourge Set
+ID_MORGANLEFAY_DECK_NAME,Morgan Le Fay Deck
+ID_ROGUE_DECK_NAME,Rogue Deck
+ID_SCOURGE_CARD_001_NAME,Unkillable
+ID_SCOURGE_CARD_001_DESC,"When An Enemy Drops Below <color=#86e619>{pass.below_health.proc.DeathproofSelfAt50.combat_mods.extra_abilities.passive.0.exec_value}%</color> Health, They Gain <color=#fff568>Deathproof</color>"
+ID_SCOURGE_CARD_002_NAME,Dark Resolve I
+ID_SCOURGE_CARD_002_DESC,"On Enemy Death, Remaining Enemies Gain <color=#fff568>Defense Up</color>"
+ID_SCOURGE_CARD_003_NAME,Back in the Fight
+ID_SCOURGE_CARD_003_DESC,"When An Enemy Is Healed, They Gain <color=#fff568>Deflect</color>"
+ID_SCOURGE_CARD_004_NAME,Fool Me Twice
+ID_SCOURGE_CARD_004_DESC,"When An Enemy Takes Damage, They Gain <color=#fff568>Speed-Up</color> For <color=#86e619>+{pass.on_attacked.proc.SpeedUpSelf.combat_mods.extra_abilities.passive.0.actions.0.procs.0.use_count}</color> Turns"
+ID_SCOURGE_CARD_005_NAME,Strong Opener
+ID_SCOURGE_CARD_005_DESC,"On Spawn, Enemies Gain <color=#fff568>Immunity</color>"
+ID_SCOURGE_CARD_006_NAME,Dark Resolve II
+ID_SCOURGE_CARD_006_DESC,"On Enemy Death, Enemies Gain <color=#fff568>Immunity</color> and <color=#fff568>Regeneration</color>"
+ID_SCOURGE_CARD_007_NAME,Resolute Foe
+ID_SCOURGE_CARD_007_DESC,"When <color=#86e619>1</color> Non-Summoned Enemy Character Remains In Play, They Gain <color=#fff568>Deathproof</color>, <color=#fff568>Defense Up</color>, <color=#fff568>Deflect</color>, <color=#fff568>Evade</color>, <color=#fff568>Immunity</color>, <color=#fff568>Regeneration</color> for <color=#86e619>+{pass.on_kill_other.proc.OnOneEnemyRemainApplyProcs.combat_mods.extra_abilities.passive.0.actions.0.procs.0.use_count}</color> Turns"
+ID_SCOURGE_CARD_008_NAME,Too Clever
+ID_SCOURGE_CARD_008_DESC,"When A Player Character Uses Their Special, They Gain <color=#fff568>Ability Block</color>"
+ID_SCOURGE_CARD_009_NAME,Bleeder I
+ID_SCOURGE_CARD_009_DESC,"When A Player Character Takes Damage, They Gain <color=#fff568>Bleed</color>"
+ID_SCOURGE_CARD_010_NAME,Blinded by Power
+ID_SCOURGE_CARD_010_DESC,"When A Player Character Uses Their Ultimate, They Gain <color=#fff568>Blind</color>"
+ID_SCOURGE_CARD_011_NAME,Devil's Bargain II
+ID_SCOURGE_CARD_011_DESC,"When A Player Character Gains Ability Energy, They Gain <color=#fff568>Defense Down</color>"
+ID_SCOURGE_CARD_012_NAME,Weak Opener
+ID_SCOURGE_CARD_012_DESC,"On Spawn, Apply <color=#fff568>Disrupted</color> to Player Characters"
+ID_SCOURGE_CARD_013_NAME,No Help Coming
+ID_SCOURGE_CARD_013_DESC,"On Turn, Apply <color=#86e619>{pass.on_turn.proc.HealBlockSelf.combat_mods.extra_abilities.passive.0.actions.0.procs.0.use_count}</color> <color=#fff568>Healblocks</color> to Player Characters"
+ID_SCOURGE_CARD_014_NAME,Devil's Bargain III
+ID_SCOURGE_CARD_014_DESC,"When A Player Character Gains A Positive Effect, Apply <color=#fff568>Offense Down</color>"
+ID_SCOURGE_CARD_015_NAME,The End is Near
+ID_SCOURGE_CARD_015_DESC,"When A Player Character's Health Drops Below <color=#86e619>{pass.below_health.proc.TraumaSelf.combat_mods.extra_abilities.passive.0.exec_value}%</color> Max Health, Apply <color=#fff568>Trauma</color> To Them"
+ID_SCOURGE_CARD_016_NAME,Not So Fast...
+ID_SCOURGE_CARD_016_DESC,"When A Player Character Gains Ability Energy, Apply <color=#fff568>Slow</color> To Them"
+ID_SCOURGE_CARD_017_NAME,Pyrrhic Victory
+ID_SCOURGE_CARD_017_DESC,"When A Player Character Blocks, Apply <color=#fff568>Stun</color> To Them"
+ID_SCOURGE_CARD_018_NAME,I See You
+ID_SCOURGE_CARD_018_DESC,"When A Player Character Gains <color=#fff568>Stealth</color>, They Gain <color=#fff568>Taunt</color>"
+ID_SCOURGE_CARD_019_NAME,Dark Rally
+ID_SCOURGE_CARD_019_DESC,"When A Player Character Uses Their Ultimate Ability, All Enemies Gain <color=#86e619>{pass.on_ability_used.abilityenergy.UltimateGrantEnergyEnemies.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Ability Energy"
+ID_SCOURGE_CARD_020_NAME,Gloating
+ID_SCOURGE_CARD_020_DESC,"When Any Player Character Dies, Enemies Gain <color=#86e619>{pass.on_death.abilityenergy.GainEnergyOnEnemyDeath.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Ability Energy"
+ID_SCOURGE_CARD_021_NAME,Whole Latte Power
+ID_SCOURGE_CARD_021_DESC,Enemies Generate <color=#86e619>{pass.on_gain_energy.abilityenergy.GainExtraEnergy.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Additional Ability Energy Each Time They Generate Ability Energy
+ID_SCOURGE_CARD_022_NAME,Power Fatigue I
+ID_SCOURGE_CARD_022_DESC,Player Character Special Abilities Cost <color=#86e619>{st.special_energycost_mod.1.combat_mods.session_stats.0.Stats.0.val}</color> More Ability Energy
+ID_SCOURGE_CARD_023_NAME,Power Fatigue II
+ID_SCOURGE_CARD_023_DESC,Player Character Ultimate Abilities Cost <color=#86e619>{st.ultimate_energycost_mod.1.combat_mods.session_stats.0.Stats.0.val}</color> More Ability Energy
+ID_SCOURGE_CARD_024_NAME,Weakened
+ID_SCOURGE_CARD_024_DESC,Player Character Healing Is Reduced By <color=#86e619>{st.health_gain_mod.-20.combat_mods.session_stats.0.Stats.0.val}%</color>
+ID_SCOURGE_CARD_025_NAME,Quality Minions
+ID_SCOURGE_CARD_025_DESC,Summoned Enemies Gain +<color=#86e619>{st.summoned_max_hp_base_pct.20.combat_mods.session_stats.0.Stats.0.val}%</color> Max Health
+ID_SCOURGE_CARD_026_NAME,Late For Work
+ID_SCOURGE_CARD_026_DESC,A Random Player Character Is Delayed From Spawning Until One Player Character Dies
+ID_SCOURGE_CARD_027_NAME,Phoenix Stays in Ashes
+ID_SCOURGE_CARD_027_DESC,Player Characters Can Not Revive
+ID_SCOURGE_CARD_028_NAME,Poisoned Energy II
+ID_SCOURGE_CARD_028_DESC,"When A Player Character Gains Ability Energy, Apply <color=#fff568>Defense Down</color> For +<color=#86e619>1</color> Turn Per Ability Energy Gained"
+ID_SCOURGE_CARD_029_NAME,Poisoned Energy I
+ID_SCOURGE_CARD_029_DESC,"When A Player Character Gains Ability Energy, Each Enemy Deals <color=#86e619>{pass.on_gain_energy.attack.80PiercingDamageToEnemyOnEnemyEnergyGain.combat_mods.extra_abilities.passive.0.actions.0.stat_modifier.1.delta}%</color> Piercing Damage To Them"
+ID_SCOURGE_CARD_030_NAME,NYI Out of Control
+ID_SCOURGE_CARD_030_DESC,Player Cannot Field Controllers
+ID_SCOURGE_CARD_031_NAME,Rubber
+ID_SCOURGE_CARD_031_DESC,Player Characters Take <color=#86e619>{st.damagedone_reflect_pct.20.combat_mods.session_stats.0.Stats.0.val}%</color> Of The Damage They Deal
+ID_SCOURGE_CARD_032_NAME,Experimental Serum I
+ID_SCOURGE_CARD_032_DESC,Enemies Gain +<color=#86e619>{st.max_hp_pct.10.combat_mods.session_stats.0.Stats.0.val}%</color> Max Health
+ID_SCOURGE_CARD_033_NAME,Experimental Serum II
+ID_SCOURGE_CARD_033_DESC,Enemies Gain +<color=#86e619>{st.max_hp_pct.20.combat_mods.session_stats.0.Stats.0.val}%</color> Max Health
+ID_SCOURGE_CARD_034_NAME,Experimental Serum III
+ID_SCOURGE_CARD_034_DESC,Enemies Gain +<color=#86e619>{st.max_hp_pct.30.combat_mods.session_stats.0.Stats.0.val}%</color> Max Health
+ID_SCOURGE_CARD_035_NAME,NYI Time Damping
+ID_SCOURGE_CARD_035_DESC,All Turn Meter Modifications Are Reduced By <color=#86e619>{st.turnmeter_decrease_mod_pct.50.combat_mods.session_stats.0.Stats.0.val}%</color>
+ID_SCOURGE_CARD_036_NAME,Vile Resurgence
+ID_SCOURGE_CARD_036_DESC,"On Enemy Turn, They Gain <color=#fff568>Offense Up</color>"
+ID_SCOURGE_CARD_037_NAME,Vile Tribute
+ID_SCOURGE_CARD_037_DESC,"On Enemy Death, They Gain <color=#fff568>Offense Up</color>"
+ID_SCOURGE_CARD_038_NAME,Vile Rally
+ID_SCOURGE_CARD_038_DESC,"On Enemy Death, Clear All Negative Effects From Enemies"
+ID_SCOURGE_CARD_039_NAME,Vile Revenge
+ID_SCOURGE_CARD_039_DESC,"On Enemy Death, Clear All Positive Effects From Player Characters"
+ID_SCOURGE_CARD_FREEPOINTS_NAME,<color=#9e0b0f>[FREE POINTS]</color>
+ID_SCOURGE_CARD_FREEPOINTS_DESC,[This Scourge does <color=#9e0b0f>not currently work</color>. Add this Scourge to earn additional free points]
+ID_SCOURGE_CARD_040_NAME,Quality Minions II
+ID_SCOURGE_CARD_040_DESC,Summoned Enemies Gain +<color=#86e619>{st.summoned_max_hp_base_pct.100.HorsemenRogue.combat_mods.session_stats.0.Stats.0.val}%</color> Max Health
+ID_SCOURGE_CARD_058_NAME,Experimental Serum IV
+ID_SCOURGE_CARD_058_DESC,Enemies Gain +<color=#86e619>{st.max_hp_pct.40.HorsemenRogue.combat_mods.session_stats.0.Stats.0.val}%</color> Max Health
+ID_SCOURGE_CARD_065_NAME,Speed Boost
+ID_SCOURGE_CARD_065_DESC,"On Spawn, fill Speed Bar for all Enemies by +<color=#86e619>{pass.on_start.turn_meter.TurnMeterOnSpawn.HorsemenRogue.combat_mods.extra_abilities.passive.0.actions.0.change_pct}%</color>"
+ID_SCOURGE_CARD_066_NAME,Going Rogue
+ID_SCOURGE_CARD_066_DESC,"When a Positive Effect Is Applied To Enemies, Increase The Duration Of All Positive Effects On That Enemy By <color=#86e619>{pass.on_buffed.proc_duration.IncreaseAllPosProcs.HorsemenRogue.combat_mods.extra_abilities.passive.0.actions.0.delta}</color>, Up To A Max Of <color=#86e619>{pass.on_buffed.proc_duration.IncreaseAllPosProcs.HorsemenRogue.combat_mods.extra_abilities.passive.0.actions.0.max_duration}</color>. When A Negative Effect Is Applied To Player Character, Increase The Duration Of All Negative Effects On That Character By <color=#86e619>{pass.on_debuffed.proc_duration.IncreaseAllNegProcs.HorsemenRogue.combat_mods.extra_abilities.passive.0.actions.0.delta}</color>, Up To A Max Of <color=#86e619>{pass.on_debuffed.proc_duration.IncreaseAllNegProcs.HorsemenRogue.combat_mods.extra_abilities.passive.0.actions.0.max_duration}</color>"
+ID_SCOURGE_CARD_067_NAME,Off Balance
+ID_SCOURGE_CARD_067_DESC,"When A Player Character Gains <color=#fff568>Offense Up</color> Or <color=#fff568>Defense Up</color>, Apply <color=#fff568>Heal Block</color> To Them"
+ID_SCOURGE_CARD_068_NAME,Power Syphon I
+ID_SCOURGE_CARD_068_DESC,Enemies Gain +<color=#86e619>{st.drain_pct.5.HorsemenRogue.combat_mods.session_stats.0.Stats.0.val}%</color> Drain
+ID_SCOURGE_CARD_069_NAME,Power Syphon II
+ID_SCOURGE_CARD_069_DESC,Enemies Gain +<color=#86e619>{st.drain_pct.20.HorsemenRogue.combat_mods.session_stats.0.Stats.0.val}%</color> Drain
+ID_SCOURGE_CARD_070_NAME,Gloves Off
+ID_SCOURGE_CARD_070_DESC,"On Enemy Turn, Steal <color=#86e619>{pass.on_turn.health_redistribute.HorsemenRogue.combat_mods.extra_abilities.passive.0.actions.0.drain_pct}%</color> Health From Lowest Health Player Character"
+ID_SCOURGE_CARD_071_NAME,Stay Down
+ID_SCOURGE_CARD_071_DESC,"On A Player Character's Turn, Remove <color=#fff568>Revive Once</color> From That Character"
+ID_GAMBIT_MOD_001_NAME,Deuces Wild
+ID_GAMBIT_MOD_001_DESC,"When An Enemy Takes Damage, They Gain <color=#fff568>Speed-Up</color> For <color=#86e619>+{pass.on_attacked.proc.SpeedUpSelf.combat_mods.extra_abilities.passive.0.actions.0.procs.0.use_count}</color> Turns"
+ID_GAMBIT_MOD_002_NAME,Hold'em
+ID_GAMBIT_MOD_002_DESC,"When A Player Character Uses Their Special, They Gain <color=#fff568>Ability Block</color>"
+ID_GAMBIT_MOD_003_NAME,Highball
+ID_GAMBIT_MOD_003_DESC,"When A Player Character Uses Their Ultimate, They Gain <color=#fff568>Blind</color>"
+ID_GAMBIT_MOD_004_NAME,Dealer's Choice
+ID_GAMBIT_MOD_004_DESC,"On Spawn, Apply <color=#fff568>Disrupted</color> to Player Characters"
+ID_GAMBIT_MOD_005_NAME,Bets Are Off
+ID_GAMBIT_MOD_005_DESC,"When A Player Character Blocks, Apply <color=#fff568>Stun</color> To Them"
+ID_GAMBIT_MOD_006_NAME,Open Raise
+ID_GAMBIT_MOD_006_DESC,"When A Player Character Gains <color=#fff568>Stealth</color>, They Gain <color=#fff568>Taunt</color>"
+ID_GAMBIT_MOD_007_NAME,Aces Up
+ID_GAMBIT_MOD_007_DESC,"When A Player Character Uses Their Ultimate Ability, All Enemies Gain <color=#86e619>{pass.on_ability_used.abilityenergy.UltimateGrantEnergyEnemies.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Ability Energy"
+ID_GAMBIT_MOD_008_NAME,Bad Bet
+ID_GAMBIT_MOD_008_DESC,"When Any Player Character Dies, Enemies Gain <color=#86e619>{pass.on_death.abilityenergy.GainEnergyOnEnemyDeath.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Ability Energy"
+ID_GAMBIT_MOD_009_NAME,Royal Flush
+ID_GAMBIT_MOD_009_DESC,Enemies Generate <color=#86e619>{pass.on_gain_energy.abilityenergy.GainExtraEnergy.combat_mods.extra_abilities.passive.0.actions.0.count}</color> Additional Ability Energy Each Time They Generate Ability Energy
+ID_GAMBIT_MOD_010_NAME,Up The Ante
+ID_GAMBIT_MOD_010_DESC,All Enemy Special And Ultimate Ablities Have A Reduced Energy Cost Of <color=#86e619>-1</color>
+ID_SCOURGE_CARD_074_NAME,Dark Resolve III
+ID_SCOURGE_CARD_074_DESC,"On Enemy Death, Remaining Enemies Gain <color=#fff568>Offense Up</color>"
+ID_SCOURGE_CARD_080_NAME,Bleeder II
+ID_SCOURGE_CARD_080_DESC,"When A Player Character Takes Damage, They Gain <color=#fff568>Minor Bleed</color>"
+ID_SCOURGE_CARD_081_NAME,Pyrrhic Victory II
+ID_SCOURGE_CARD_081_DESC,"When A Player Character Blocks, Apply <color=#fff568>Heal Block</color> To Them"
+ID_SCOURGE_CARD_088_NAME,Vile Resurgence II
+ID_SCOURGE_CARD_088_DESC,"On Enemy Turn, They Gain <color=#fff568>Minor Offense Up</color>"
+ID_SCOURGE_CARD_092_NAME,Overcharged
+ID_SCOURGE_CARD_092_DESC,"When An Enemy Character Gains Ability Energy, They Gain <color=#fff568>Offense Up</color>"
+ID_SCOURGE_CARD_093_NAME,Stage Fright
+ID_SCOURGE_CARD_093_DESC,"When A Player Character Gains <color=#fff568>Taunt</color>, They Gain <color=#fff568>Defense Down</color>"
+ID_SCOURGE_CARD_094_NAME,Flight or Fight
+ID_SCOURGE_CARD_094_DESC,"When An Enemy Character's Health Drops Below <color=#86e619>{pass.below_health.proc.SpeedUpSelfAt40.HorsemenRedHulk.combat_mods.extra_abilities.passive.0.exec_value}%</color> Max Health, Apply <color=#fff568>Speed Up</color> To Them"
+ID_SCOURGE_CARD_095_NAME,Rope a Dope
+ID_SCOURGE_CARD_095_DESC,"When An Enemy Character Ends Their Turn with <color=#9055FF>Vulnerable</color>, They Gain <color=#fff568>Defense Up</color>, <color=#fff568>Deflect</color>, <color=#fff568>Deathproof</color>, and <color=#fff568>Safeguard</color>"
+ID_SCOURGE_CARD_096_NAME,When It Rains
+ID_SCOURGE_CARD_096_DESC,"When a Positive Effect Is Applied To An Enemy Character, Increase The Duration Of All Positive Effects On That Enemy By <color=#86e619>{pass.on_buffed.proc_duration.IncreaseAllPosProcs.HorsemenRedHulk.combat_mods.extra_abilities.passive.0.actions.0.delta}</color> (Up To A Max Of <color=#86e619>{pass.on_buffed.proc_duration.IncreaseAllPosProcs.HorsemenRedHulk.combat_mods.extra_abilities.passive.0.actions.0.max_duration}</color>)"
+ID_SCOURGE_CARD_097_NAME,Energy Absorption
+ID_SCOURGE_CARD_097_DESC,"On An Enemy Character's Turn, Remove All Negative Effects And Heal <color=#86e619>{pass.on_turn.remove_debuff.healself.HorsemenRedHulk.combat_mods.extra_abilities.passive.0.actions.1.drain_pct}%</color> Per Negative Effect Removed"
+ID_SCOURGE_CARD_098_NAME,Unstoppable Force
+ID_SCOURGE_CARD_098_DESC,"On an enemy <color=#9055FF>STRIKER'S</color> Turn, flip <color=#fff568>Offense Down</color> on that character + Barrier that character for <color=#86e619>5%</color> of that character's Max Health."
+ID_SCOURGE_CARD_099_NAME,Butterfly Effect
+ID_SCOURGE_CARD_099_DESC,"When A <color=#9055FF>Fortifier</color> Character Uses An Ultimate Ability, Spread Positive Effects On That Character To Adjacent Allied Characters"
+ID_SCOURGE_CARD_101_DESC,"When A Non-Minion Player Character Gains Ability Energy, Apply <color=#fff568>Slow</color> To Them"
+ID_SCOURGE_CARD_107_DESC,Non-Minion Player Character Healing Is Reduced By <color=#86e619>{st.health_gain_mod.-20.combat_mods.session_stats.0.Stats.0.val}%</color>
+ID_SCOURGE_CARD_108_DESC,"When A Non-Minion Player Character Takes Damage, They Gain <color=#fff568>Minor Bleed</color>"
+ID_SCOURGE_CARD_113_DESC,"When A Non-Minion Player Character Gains <color=#fff568>Offense Up</color> Or <color=#fff568>Defense Up</color>, Apply <color=#fff568>Heal Block</color> To Them"
+ID_SCOURGE_CARD_119_DESC,"When A non-Minion Player Character's Health Drops Below <color=#86e619>{pass.below_health.proc.TraumaSelf.combat_mods.extra_abilities.passive.0.exec_value}%</color> Max Health, Apply <color=#fff568>Trauma</color> To Them"
+ID_SCOURGE_CARD_120_NAME,Power Fatigue III
+ID_SCOURGE_CARD_120_DESC,Non-Minion Player Character Special And Ultimate Abilities Cost <color=#86e619>1</color> More Ability Energy
+ID_SCOURGE_CARD_121_NAME,Vanguard
+ID_SCOURGE_CARD_121_DESC,"While An Enemy Character Has <color=#fff568>Taunt</color>, All Other Enemies Gain <color=#86e619>15,000</color> Armor"
+ID_SCOURGE_CARD_122_NAME,Zombification
+ID_SCOURGE_CARD_122_DESC,"On Spawn And On Turn, Enemies gain <color=#fff568>Deathproof</color>. On End Of Turn, If An Enemy Has <color=#86e619>5</color> <color=#fff568>Deathproof</color> And Not <color=#fff568>Revive Once</color>, Remove All <color=#fff568>Deathproof</color> From That Enemy And They Gain <color=#fff568>Revive Once</color>"
+ID_SCOURGE_CARD_123_NAME,Life After Death
+ID_SCOURGE_CARD_123_DESC,"On An Enemy <color=#9055FF>Healers</color> Death, All Enemy's Gain <color=#fff568>Regen</color>"
+ID_SCOURGE_CARD_124_NAME,Look At Me
+ID_SCOURGE_CARD_124_DESC,"On Enemy <color=#9055FF>Fortifier</color> Spawn, Gain <color=#fff568>Taunt</color>"
+ID_SCOURGE_CARD_125_NAME,Undead Swarms
+ID_SCOURGE_CARD_125_DESC,"On Spawn, All Minions Gain <color=#fff568>Revive Once</color>"
+ID_SCOURGE_CARD_126_NAME,Rise Anew
+ID_SCOURGE_CARD_126_DESC,"On Their Turn, Minions Flip Negative Effects"
+ID_SCOURGE_CARD_127_NAME,Super Soldier Serum
+ID_SCOURGE_CARD_127_DESC,"All Minions Gain <color=#86e619>+30%</color> Focus, Health, Crit Chance, Crit Damage, Revive Health, And Active Healing"
+ID_SCOURGE_CARD_128_NAME,I Don't Need Skills
+ID_SCOURGE_CARD_128_DESC,"While <color=#fff568>Ability Blocked</color>, Enemy Characters Gain <color=#86e619>+15%</color> To Damage, Crit Damage, Crit Chance, And Speed"
+ID_INCURSION_MOD_001_NAME,Unstable Serum
+ID_INCURSION_MOD_002_NAME,Experimental Nanites
+ID_INCURSION_MOD_003_NAME,Interdimensional Combat Training
+ID_INCURSION_MOD_004_NAME,Aegis of Apocalypse
+ID_INCURSION_MOD_005_NAME,Apocalypse Now!
+ID_INCURSION_MOD_006_NAME,Unbound Dark Magicks
+ID_INCURSION_MOD_BLANK_NAME,
+ID_INCURSION_MOD_001_DESC,"\nOn Enemy Character Crit, clear <color=#86e619>2</color> <color=#fff568>Charged</color> from all Player Characters.\n\nOn Player Character dodge, Enemies gain <color=#fff568>Deathproof</color>."
+ID_INCURSION_MOD_002_DESC,"On Player Character Block, clear <color=#86e619>1</color> random negative effect that character."
+ID_INCURSION_MOD_003_DESC,"If a Player Character has any negative effect, that character's Dodge Chance is reduced by <color=#86e619>100%</color>."
+ID_INCURSION_MOD_004_DESC,"\nOn ally Assist, Heal self and all Enemy Characters for <color=#86e619>5%</color> of this character's Max Health.\n\nOn an Enemy Character's End of Turn, Clear all Barrier on all Player Characters."
+ID_INCURSION_MOD_005_DESC,"On any Player Character's Turn, clear <color=#fff568>Defense Up</color> on that character."
+ID_INCURSION_MOD_006_DESC,"\nOn Enemy Character Crit, apply <color=#fff568>Disrupted</color> to all Player Character <color=#fff568>PROTECTORS</color>.\n\nOn Enemy Character Turn, clear 2 <color=#fff568>Charged</color> from all Player Characters <color=#fff568>BLASTERS</color>."
+ID_INCURSION_MOD_007_DESC,"Enemy Characters cannot have <color=#fff568>Defense Down</color>, <color=#fff568>Minor Defense Down</color>, <color=#fff568>Offense Down</color>, or <color=#fff568>Minor Offense Down</color> applied to them."
+ID_INCURSION_MOD_008_DESC,"When an Enemy Character gains <color=#fff568>Bleed</color>, generate <color=#86e619>1</color> Ability Energy for self or a random ally.\n\nOn a Player Character Apocalypse's Turn, that Apocalypse gains <color=#fff568>Charged</color> and fills Speed Bar by <color=#86e619>20%</color>."
+ID_INCURSION_MOD_009_DESC,"\nOn Spawn, apply <color=#fff568>Offense Up</color> to all Enemy <color=#fff568>BRAWLERS</color> and <color=#fff568>BLASTERS</color>.\n\nOn Spawn, apply <color=#fff568>Taunt</color> to all Enemy <color=#fff568>PROTECTORS</color>.\n\nOn Spawn, apply <color=#fff568>Regeneration</color> for <color=#86e619>2</color> turns to all Enemy <color=#fff568>SUPPORTS</color> and <color=#fff568>CONTROLLERS</color>."
+ID_INCURSION_MOD_010_DESC,Enemy Characters cannot have <color=#fff568>Blind</color> applied to them.
+ID_INCURSION_MOD_011_DESC,\nPlayer Characters cannot have <color=#fff568>Stealth</color> applied to them.
+ID_INCURSION_MOD_012_DESC,"\nOn Enemy Character Turn, clear <color=#fff568>Revive Once</color> from all Player Characters. If <color=#fff568>Revive Once</color> was cleared, generate <color=#86e619>3</color> Ability Energy for self and all allies and clear all Barrier from Player Characters."
+ID_SCOURGE_CARD_129_NAME,On the Offensive
+ID_SCOURGE_CARD_129_DESC,"Whenever a Character Gains <color=#fff568>Taunt</color>, All Characters on the Opposite Team Gain <color=#86e619>Offense Up</color>"
+ID_SCOURGE_CARD_130_NAME,Man Vs. Machine
+ID_SCOURGE_CARD_130_DESC,"All <color=#fff568>BIO</color> Characters Gain Additional <color=#86e619>Critical Hit Chance</color>, and All <color=#86e619>TECH</color> Characters Gain Additional <color=#86e619>Dodge Chance</color>"
+ID_SCOURGE_CARD_131_NAME,Bio-Charged
+ID_SCOURGE_CARD_131_DESC,All <color=#fff568>BIO</color> Characters Spawn With Full Speed and Ability Bars
+ID_SCOURGE_CARD_132_NAME,Bio-Armor
+ID_SCOURGE_CARD_132_DESC,"When a Character Dies, All Allied <color=#fff568>BIO</color> Characters Gain <color=#fff568>Safeguard</color>"
+ID_SCOURGE_CARD_133_NAME,Warp World
+ID_SCOURGE_CARD_133_DESC,"When Any Character Drops to 50% Health, Characters on the Opposing Side Flip <color=#fff568>Negative Status Effects</color> to Positive, and Their Allied Characters Flip <color=#fff568>Positive Status Effects</color> to Negative"
+ID_SCOURGE_CARD_134_NAME,Avenging X-Factor
+ID_SCOURGE_CARD_134_DESC,"On Spawn, <color=#fff568>CITY HERO</color> Characters Gain the <color=#fff568>X-FACTOR</color> Trait, and All <color=#fff568>MUTANT</color> Characters Gain the <color=#fff568>BIONIC AVENGER</color> Trait"
+ID_SCOURGE_CARD_135_NAME,Masters of Spider-Verse
+ID_SCOURGE_CARD_135_DESC,"On Spawn, <color=#fff568>GLOBAL BIO</color> Characters Gain the <color=#fff568>MASTERS OF EVIL</color> Trait, and All <color=#fff568>SPIDER-VERSE</color> Characters Gain the <color=#fff568>TANGLED WEB</color> Trait"
+ID_SCOURGE_CARD_136_NAME,Evasive Maneuvers
+ID_SCOURGE_CARD_136_DESC,"When a Character Dies, their Allied <color=#fff568>BIO</color> Characters Gain <color=#86e619>Evade</color>"
+ID_SCOURGE_CARD_137_NAME,Power Cosmic
+ID_SCOURGE_CARD_137_DESC,All <color=#fff568>Cosmic Crucible</color> Abilities are Active During this Run
+ID_SCOURGE_CARD_138_NAME,Supernova
+ID_SCOURGE_CARD_138_DESC,"On Turn, <color=#9055FF>STRIKERS</color>, Barrier self for <color=#86e619>5%</color> of their Max Health and if that <color=#9055FF>STRIKER</color> kills an enemy, generate <color=#86e619>1</color> Ability Energy for self."
+ID_SCOURGE_CARD_140_NAME,Snake Eyes
+ID_SCOURGE_CARD_140_DESC,"On Spawn, Player Characters Gain Increased <color=#fff568>Critical Hit Chance</color>, and Enemy Characters Gain Increased <color=#fff568>Critical Hit Damage</color>"
+ID_SCOURGE_CARD_141_NAME,Power Dynamics
+ID_SCOURGE_CARD_141_DESC,"On turn, characters remove all positive effects from self and heal <color=#86e619>10%</color> of max health for each positive effect removed."
+ID_SCOURGE_CARD_142_NAME,World at War
+ID_SCOURGE_CARD_142_DESC,All <color=#fff568>War</color> Abilities are Active During this Run
+ID_SCOURGE_CARD_143_NAME,Sinister Symbiosis
+ID_SCOURGE_CARD_143_DESC,"On Spawn, non-Minion <color=#fff568>CITY VILLAIN</color> Characters Gain the <color=#fff568>SINISTER SIX</color> Trait, and <color=#fff568>CITY BIO HERO</color> Characters Gain the <color=#fff568>SYMBIOTE</color> Trait"
+ID_SCOURGE_CARD_144_NAME,Agents of Knowhere
+ID_SCOURGE_CARD_144_DESC,"On Spawn, <color=#fff568>COSMIC HERO</color> Characters Gain the <color=#fff568>KNOWHERE</color> Trait, and <color=#fff568>INVADERS</color> Characters Gain the <color=#fff568>S.H.I.E.L.D.</color> Trait"
+ID_SCOURGE_CARD_145_NAME,Brawlroom Blast
+ID_SCOURGE_CARD_145_DESC,"All <color=#fff568>BRAWLER</color> Characters Gain Additional <color=#86e619>Critical Hit Damage</color>, and All <color=#86e619>BLASTER</color> Characters Gain Additional <color=#86e619>Critical Hit Chance</color>"
+ID_SCOURGE_CARD_146_NAME,Second Wind
+ID_SCOURGE_CARD_146_DESC,"When Any Character Drops to 50% Health, generate <color=#86e619>2</color> Ability Energy for themself"
+ID_SCOURGE_CARD_147_NAME,Hired Help
+ID_SCOURGE_CARD_147_DESC,Summoned Characters Gain +<color=#86e619>{st.summoned_max_hp_base_pct.20.combat_mods.session_stats.0.Stats.0.val}%</color> Max Health
+ID_SCOURGE_CARD_148_NAME,Self Preservation
+ID_SCOURGE_CARD_148_DESC,"On Turn, <color=#9055FF>HEALERS</color>, Barrier self for <color=#86e619>5%</color> of their Max Health."
+ID_SCOURGE_CARD_149_NAME,On the Offensive
+ID_SCOURGE_CARD_149_DESC,"Whenever a Character Applies <color=#fff568>Heal Block</color> to an enemy, Heal self for <color=#86e619>15%</color> of their Max Health"
+ID_SCOURGE_CARD_152_NAME,Science Bros
+ID_SCOURGE_CARD_152_DESC,"On Spawn, <color=#fff568>P.E.G.A.S.U.S.</color> Characters Gain the <color=#fff568>NEW AVENGERS</color> Trait, and <color=#fff568>HYDRA</color> Characters Gain the <color=#fff568>MASTERS OF EVIL</color> Trait"
+ID_SCOURGE_CARD_153_NAME,Next Generation
+ID_SCOURGE_CARD_153_DESC,"On Spawn, <color=#fff568>NEW WARRIORS</color> Characters Gain the <color=#fff568>REBIRTH</color> Trait, and <color=#fff568>YOUNG AVENGERS</color> Characters Gain the <color=#fff568>HEROES FOR HIRE</color> Trait"
+ID_SCOURGE_CARD_154_NAME,"Godspeed, Spider-Man"
+ID_SCOURGE_CARD_154_DESC,<color=#86e619>SPIDER-SOCIETY</color> characters gain +<color=#86e619>15% Damage</color> and <color=#86e619>SINISTER-SIX</color> characters gain +<color=#86e619>10% Max Health</color>
+ID_SCOURGE_CARD_155_NAME,Forged in Fire
+ID_SCOURGE_CARD_155_DESC,All <color=#86e619>Cosmic Crucible</color> Abilities are active during this run
+ID_SCOURGE_CARD_156_NAME,Berserker Barrage
+ID_SCOURGE_CARD_156_DESC,"When any Character defeats an enemy, fill their Speed Bar by <color=#9055FF>20%</color>"
+ID_SCOURGE_CARD_157_NAME,I See You...
+ID_SCOURGE_CARD_157_DESC,"On Spawn, <color=#fff568>CONTROLLER</color> Characters gain <color=#86e619>Taunt</color>"
+ID_SCOURGE_CARD_158_NAME,Cosmic Balance
+ID_SCOURGE_CARD_158_DESC,All <color=#fff568>COSMIC HERO</color> Characters gain +<color=#fff568>15% Critical Hit Chance</color> and +<color=#fff568>10% Critical Hit Damage</color> but <color=#fff568>the player's COSMIC VILLAIN</color> Characters lose -<color=#fff568>20% Damage</color> and -<color=#fff568>20% Max Health</color>
+ID_SCOURGE_CARD_159_NAME,Mysterio's Triumph
+ID_SCOURGE_CARD_159_DESC,<color=#fff568>HERO</color> Characters deal an additional +<color=#fff568>10% Damage</color> to other <color=#fff568>HERO</color> Characters
+ID_SCOURGE_CARD_160_NAME,Hard as Diamond
+ID_SCOURGE_CARD_160_DESC,<color=#fff568>VILLAIN CONTROLLER</color> Characters gain an additional +<color=#fff568>20% Health</color> and +<color=#fff568>10% Block Chance</color>
+ID_SCOURGE_CARD_161_NAME,Glorious Purpose
+ID_SCOURGE_CARD_161_DESC,"When a Character heals themself, they recover an additional +<color=#fff568>10% Health</color>"
+ID_ORCHIS_MOD_001_NAME,Hive-Mind Enhancer I
+ID_ORCHIS_MOD_002_NAME,X-Treme X-Men Enhancer I
+ID_ORCHIS_MOD_003_NAME,Nightstalker Enhancer I
+ID_ORCHIS_MOD_004_NAME,Spider-Society Enhancer I
+ID_ORCHIS_MOD_005_NAME,Orchis Enhancer I
+ID_ORCHIS_MOD_006_NAME,Hive-Mind Enhancer II
+ID_ORCHIS_MOD_007_NAME,X-Treme X-Men Enhancer II
+ID_ORCHIS_MOD_008_NAME,Nightstalker Enhancer II
+ID_ORCHIS_MOD_009_NAME,Spider-Society Enhancer II
+ID_ORCHIS_MOD_010_NAME,Orchis Enhancer II
+ID_ORCHIS_MOD_011_NAME,Hive-Mind Enhancer III
+ID_ORCHIS_MOD_012_NAME,X-Treme X-Men Enhancer III
+ID_ORCHIS_MOD_013_NAME,Nightstalker Enhancer III
+ID_ORCHIS_MOD_014_NAME,Spider-Society Enhancer III
+ID_ORCHIS_MOD_015_NAME,Orchis Enhancer III
+ID_ORCHIS_MOD_016_NAME,Hive-Mind Enhancer IV
+ID_ORCHIS_MOD_017_NAME,X-Treme X-Men Enhancer IV
+ID_ORCHIS_MOD_018_NAME,Nightstalker Enhancer IV
+ID_ORCHIS_MOD_019_NAME,Spider-Society Enhancer IV
+ID_ORCHIS_MOD_020_NAME,Orchis Enhancer IV
+ID_ORCHIS_MOD_021_NAME,Hive-Mind Shielding I
+ID_ORCHIS_MOD_022_NAME,X-Treme X-Men Shielding I
+ID_ORCHIS_MOD_023_NAME,Nightstalker Shielding I
+ID_ORCHIS_MOD_024_NAME,Spider-Society Shielding I
+ID_ORCHIS_MOD_025_NAME,\nOrchis Shielding I
+ID_ORCHIS_MOD_026_NAME,Hive-Mind Shielding II
+ID_ORCHIS_MOD_027_NAME,X-Treme X-Men Shielding II
+ID_ORCHIS_MOD_028_NAME,Nightstalker Shielding II
+ID_ORCHIS_MOD_029_NAME,Spider-Society Shielding II
+ID_ORCHIS_MOD_030_NAME,\nOrchis Shielding II
+ID_ORCHIS_MOD_031_NAME,Hive-Mind Shielding III
+ID_ORCHIS_MOD_032_NAME,X-Treme X-Men Shielding III
+ID_ORCHIS_MOD_033_NAME,Nightstalker Shielding III
+ID_ORCHIS_MOD_034_NAME,Spider-Society Shielding III
+ID_ORCHIS_MOD_035_NAME,\nOrchis Shielding III
+ID_ORCHIS_MOD_036_NAME,\nHive-Mind Shielding IV
+ID_ORCHIS_MOD_037_NAME,X-Treme X-Men Shielding IV
+ID_ORCHIS_MOD_038_NAME,Nightstalker Shielding IV
+ID_ORCHIS_MOD_039_NAME,Spider-Society Shielding IV
+ID_ORCHIS_MOD_040_NAME,\nOrchis Shielding IV
+ID_ORCHIS_MOD_BLANK_NAME,
+ID_ORCHIS_MOD_TEMP1_NAME,Unknown Enhancement
+ID_ORCHIS_MOD_TEMP2_NAME,Unknown Shielding
+ID_ORCHIS_MOD_001_DESC,"\nPlayer <color=#fff568>HIVE-MIND</color> Characters gain +<color=#fff568>64% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_002_DESC,"\nPlayer <color=#fff568>X-TREME X-MEN</color> Characters gain +<color=#fff568>64% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_003_DESC,"\nPlayer <color=#fff568>NIGHTSTALKER</color> Characters gain +<color=#fff568>64% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_004_DESC,"\nPlayer <color=#fff568>SPIDER-SOCIETY</color> Characters gain +<color=#fff568>64% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_005_DESC,"\nPlayer <color=#fff568>ORCHIS</color> Characters gain +<color=#fff568>64% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_006_DESC,"\nPlayer <color=#fff568>HIVE-MIND</color> Characters gain +<color=#fff568>43% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_007_DESC,"\nPlayer <color=#fff568>X-TREME X-MEN</color> Characters gain +<color=#fff568>43% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_008_DESC,"\nPlayer <color=#fff568>NIGHTSTALKER</color> Characters gain +<color=#fff568>43% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_009_DESC,"\nPlayer <color=#fff568>SPIDER-SOCIETY</color> Characters gain +<color=#fff568>43% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_010_DESC,"\nPlayer <color=#fff568>ORCHIS</color> Characters gain +<color=#fff568>43% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_011_DESC,"\nPlayer <color=#fff568>HIVE-MIND</color> Characters gain +<color=#fff568>25% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_012_DESC,"\nPlayer <color=#fff568>X-TREME X-MEN</color> Characters gain +<color=#fff568>25% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_013_DESC,"\nPlayer <color=#fff568>NIGHTSTALKER</color> Characters gain +<color=#fff568>25% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_014_DESC,"\nPlayer <color=#fff568>SPIDER-SOCIETY</color> Characters gain +<color=#fff568>25% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_015_DESC,"\nPlayer <color=#fff568>ORCHIS</color> Characters gain +<color=#fff568>25% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_016_DESC,"\nPlayer <color=#fff568>HIVE-MIND</color> Characters gain +<color=#fff568>15% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_017_DESC,"\nPlayer <color=#fff568>X-TREME X-MEN</color> Characters gain +<color=#fff568>15% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_018_DESC,"\nPlayer <color=#fff568>NIGHTSTALKER</color> Characters gain +<color=#fff568>15% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_019_DESC,"\nPlayer <color=#fff568>SPIDER-SOCIETY</color> Characters gain +<color=#fff568>15% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_020_DESC,"\nPlayer <color=#fff568>ORCHIS</color> Characters gain +<color=#fff568>15% Damage</color>, <color=#fff568>Armor</color>, <color=#fff568>Focus</color> and <color=#fff568>Resistance</color>."
+ID_ORCHIS_MOD_021_DESC,"\nOn Spawn, Player <color=#fff568>HIVE-MIND</color> Characters Barrier self for <color=#fff568>30%</color> of their Max Health."
+ID_ORCHIS_MOD_022_DESC,"\nOn Spawn, Player <color=#fff568>X-TREME X-MEN</color> Characters Barrier self for <color=#fff568>30%</color> of their Max Health."
+ID_ORCHIS_MOD_023_DESC,"\nOn Spawn, Player <color=#fff568>NIGHTSTALKER</color> Characters Barrier self for <color=#fff568>30%</color> of their Max Health."
+ID_ORCHIS_MOD_024_DESC,"\nOn Spawn, Player <color=#fff568>SPIDER-SOCIETY</color> Characters Barrier self for <color=#fff568>30%</color> of their Max Health."
+ID_ORCHIS_MOD_025_DESC,"\nOn Spawn, Player <color=#fff568>ORCHIS</color> Characters Barrier self for <color=#fff568>30%</color> of their Max Health."
+ID_ORCHIS_MOD_026_DESC,"\nOn Spawn, Player <color=#fff568>HIVE-MIND</color> Characters Barrier self for <color=#fff568>20%</color> of their Max Health."
+ID_ORCHIS_MOD_027_DESC,"\nOn Spawn, Player <color=#fff568>X-TREME X-MEN</color> Characters Barrier self for <color=#fff568>20%</color> of their Max Health."
+ID_ORCHIS_MOD_028_DESC,"\nOn Spawn, Player <color=#fff568>NIGHTSTALKER</color> Characters Barrier self for <color=#fff568>20%</color> of their Max Health."
+ID_ORCHIS_MOD_029_DESC,"\nOn Spawn, Player <color=#fff568>SPIDER-SOCIETY</color> Characters Barrier self for <color=#fff568>20%</color> of their Max Health."
+ID_ORCHIS_MOD_030_DESC,"\nOn Spawn, Player <color=#fff568>ORCHIS</color> Characters Barrier self for <color=#fff568>20%</color> of their Max Health."
+ID_ORCHIS_MOD_031_DESC,"\nOn Spawn, Player <color=#fff568>HIVE-MIND</color> Characters Barrier self for <color=#fff568>15%</color> of their Max Health."
+ID_ORCHIS_MOD_032_DESC,"\nOn Spawn, Player <color=#fff568>X-TREME X-MEN</color> Characters Barrier self for <color=#fff568>15%</color> of their Max Health."
+ID_ORCHIS_MOD_033_DESC,"\nOn Spawn, Player <color=#fff568>NIGHTSTALKER</color> Characters Barrier self for <color=#fff568>15%</color> of their Max Health."
+ID_ORCHIS_MOD_034_DESC,"\nOn Spawn, Player <color=#fff568>SPIDER-SOCIETY</color> Characters Barrier self for <color=#fff568>15%</color> of their Max Health."
+ID_ORCHIS_MOD_035_DESC,"\nOn Spawn, Player <color=#fff568>ORCHIS</color> Characters Barrier self for <color=#fff568>15%</color> of their Max Health."
+ID_ORCHIS_MOD_036_DESC,"\nOn Spawn, Player <color=#fff568>HIVE-MIND</color> Characters Barrier self for <color=#fff568>10%</color> of their Max Health."
+ID_ORCHIS_MOD_037_DESC,"\nOn Spawn, Player <color=#fff568>X-TREME X-MEN</color> Characters Barrier self for <color=#fff568>10%</color> of their Max Health."
+ID_ORCHIS_MOD_038_DESC,"\nOn Spawn, Player <color=#fff568>NIGHTSTALKER</color> Characters Barrier self for <color=#fff568>10%</color> of their Max Health."
+ID_ORCHIS_MOD_039_DESC,"\nOn Spawn, Player <color=#fff568>SPIDER-SOCIETY</color> Characters Barrier self for <color=#fff568>10%</color> of their Max Health."
+ID_ORCHIS_MOD_040_DESC,"\nOn Spawn, Player <color=#fff568>ORCHIS</color> Characters Barrier self for <color=#fff568>10%</color> of their Max Health."
+ID_ORCHIS_MOD_TEMP1_MYSTIC_DESC,\nWill enhance a future <color=#fff568>MYSTIC</color> team
+ID_ORCHIS_MOD_TEMP2_MYSTIC_DESC,\nWill protect a future <color=#fff568>MYSTIC</color> team
+ID_ORCHIS_MOD_TEMP1_TECH_DESC,\nWill enhance a future <color=#fff568>TECH</color> team
+ID_ORCHIS_MOD_TEMP2_TECH_DESC,\nWill protect a future <color=#fff568>TECH</color> team
+ID_BATTLEWORLD_ABYSS_CARD_SET_NAME,Combat Mods: The Abyss
+ID_BATTLEWORLD_MOD_KNULL_Z1M5_NAME,Encroaching Darkness
+ID_BATTLEWORLD_MOD_KNULL_Z1M5_DESC,"On Turn, Player Characters gain +1 <color=#9055ff>Darkness</color>"
+ID_BATTLEWORLD_MOD_ABYSS_Z1M1_NAME,Superior Retribution
+ID_BATTLEWORLD_MOD_ABYSS_Z1M1_DESC,"On Spawn,<color=#fff568>SUPERIOR SIX</color> characters gain <color=#86e619>6</color> <color=#fff568>Counter</color> & <color=#fff568>Offense Up</color> for <color=#86e619>6</color> turns."
+ID_BATTLEWORLD_MOD_ABYSS_Z1M2_NAME,Assisted Annihilation
+ID_BATTLEWORLD_MOD_ABYSS_Z1M2_DESC,<color=#fff568>ANNIHILATOR</color> characters have a <color=#86e619>45%</color> chance to assist when an ally uses an ability.
+ID_BATTLEWORLD_MOD_ABYSS_Z1M3_NAME,Heightened Spider Senses
+ID_BATTLEWORLD_MOD_ABYSS_Z1M3_DESC,"On Spawn, <color=#fff568>SPIDER-SOCIETY</color> characters gain <color=#86e619>3</color> <color=#fff568>Evade</color> and <color=#fff568>Immunity</color> for <color=#86e619>3</color> turns."
+ID_BATTLEWORLD_MOD_ABYSS_Z1M4_NAME,Speed Infusion: Bifrost
+ID_BATTLEWORLD_MOD_ABYSS_Z1M4_DESC,<color=#fff568>BIFROST</color> characters gain +<color=#fff568>150%</color> Speed in this mission.
+ID_BATTLEWORLD_MOD_ABYSS_Z1M5_NAME,Astral Damage
+ID_BATTLEWORLD_MOD_ABYSS_Z1M5_DESC,<color=#fff568>ASTRAL</color> characters gain +<color=#fff568>200%</color> Damage in this mission.
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_RAID_NAME,Counts As: Raid
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_RAID_DESC,Ability effects with the <color=#fff568>RAIDS</color> descriptor will be active in this mission.
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_CC_NAME,Counts As: Cosmic Crucible
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_CC_DESC,Ability effects with the <color=#fff568>COSMIC CRUCIBLE</color> descriptor will be active in this mission.
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_WAR_NAME,Counts As: War
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_WAR_DESC,Ability effects with the <color=#fff568>WAR</color> descriptor will be active in this mission.
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_DD_NAME,Counts As: Dark Dimension
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_DD_DESC,Ability effects with the <color=#fff568>DARK DIMENSION</color> descriptor will be active in this mission.
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_ARENA_NAME,Counts As: Arena
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_ARENA_DESC,Ability effects with the <color=#fff568>ARENA</color> descriptor will be active in this mission.
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_ALL_NAME,Counts As: Everything
+ID_BATTLEWORLD_MOD_GENERIC_COUNTS_AS_ALL_DESC,All ability effects that require a specific game mode are active in this mission.
+ID_BATTLEWORLD_MOD_BOSS_MANDATORY_NAME,BATTLEWORLD BOSS
+ID_BATTLEWORLD_MOD_BOSS_MANDATORY_DESC,
+ID_BATTLEWORLD_MOD_BOSS_GENERIC_IMMUNELIST_NAME,Boss Immunities
+ID_BATTLEWORLD_MOD_BOSS_GENERIC_IMMUNELIST_DESC,"Knull is <color=#fff568>IMMUNE</color> to the following:\n<color=#fff568>Ability Block</color>, <color=#fff568>Exhausted</color>, <color=#fff568>Exposed</color>, and <color=#fff568>Stun</color>."
+ID_BATTLEWORLD_MOD_BOSS_GENERIC_RESISTLIST_NAME,Boss Resistances
+ID_BATTLEWORLD_MOD_BOSS_GENERIC_RESISTLIST_DESC,"No single attack can inflict over <color=#86e619>3%</color> of a boss' Maximum Health. In addition damage caused by <color=#fff568>Bleed</color>, stolen Health, or attacks based on the boss' Maximum Health, can't exceed <color=#86e619>3%</color> of that boss' Maximum Health."
+ID_BATTLEWORLD_MOD_BOSSMECHANIC_KNULL_UNIQUE_01_NAME,God of Symbiotes
+ID_BATTLEWORLD_MOD_BOSSMECHANIC_KNULL_UNIQUE_01_DESC,Knull can summon <color=#fff568>SYMBIOTE</color> allies.
+ID_BATTLEWORLD_MOD_BOSSMECHANIC_KNULL_UNIQUE_02_NAME,Eternal Darkness
+ID_BATTLEWORLD_MOD_BOSSMECHANIC_KNULL_UNIQUE_02_DESC,Knull can inflict <color=#9055ff>DARKNESS</color> which <color=#fff568>Mind Controls</color> the afflicted character.
+ID_BATTLEWORLD_MOD_BOSSMECHANIC_KNULL_UNIQUE_03_NAME,Void King's Rage
+ID_BATTLEWORLD_MOD_BOSSMECHANIC_KNULL_UNIQUE_03_DESC,"For each <color=#fff568>RAGE</color> Knull has, he gains <color=#86e619>10%</color> Damage and Speed, in addition to other effects."
+ID_BATTLEWORLD_MOD_DARKNESS_INFO_NAME,Darkness
+ID_BATTLEWORLD_MOD_DARKNESS_INFO_DESC,During this battle characters can be afflicted with <color=#9055ff>DARKNESS</color>. Afflicted characters will attack allies and deal increased damage. Using a Basic Ability with full energy will clear up to <color=#86e619>5</color> Darkness from an afflicted character.
+ID_BATTLEWORLD_MOD_ABYSS_Z2M1_NAME,Luck Infusion: Mercs For Money
+ID_BATTLEWORLD_MOD_ABYSS_Z2M1_DESC,<color=#fff568>MERCS FOR MONEY </color> characters gain +<color=#86e619>50%</color> Crit Chance and +<color=#86e619>300%</color> Crit Damage.
+ID_BATTLEWORLD_MOD_ABYSS_Z2M2_NAME_A,Temporal Energy Reserves
+ID_BATTLEWORLD_MOD_ABYSS_Z2M2_DESC_A,"On Spawn, <color=#fff568>CABAL</color> gain <color=#fff568>Speed Up</color> for <color=#86e619>5</color> turns and Safeguard for <color=#86e619>5</color> turns."
+ID_BATTLEWORLD_MOD_ABYSS_Z2M2_NAME_B,Expanded Membership
+ID_BATTLEWORLD_MOD_ABYSS_Z2M2_DESC_B,"<color=#fff568>DOOM</color>, <color=#fff568>LOKI</color>, <color=#fff568>EMMA FROST</color>, and <color=#fff568>ARES</color> gain the <color=#fff568>CABAL</color> trait in this mission."
+ID_BATTLEWORLD_MOD_ABYSS_Z2M3_NAME,Undead Frenzy
+ID_BATTLEWORLD_MOD_ABYSS_Z2M3_DESC,"When an <color=#fff568>UNDYING</color> character is attacked they gain +<color=#86e619>1</color> <color=#fff568>Offense Up</color>. For each Offense Up they have, Undying characters gain +<color=#86e619>15%</color> speed and damage."
+ID_BATTLEWORLD_MOD_ABYSS_Z2M3_NAME_A,Knowhere to Run
+ID_BATTLEWORLD_MOD_ABYSS_Z2M3_DESC_A,"When critically hit, <color=#fff568>KNOWHERE</color> gains +<color=#86e619>40%</color> Barrier and <color=#fff568>Defense Up</color> for <color=#86e619>1</color> turn."
+ID_BATTLEWORLD_MOD_ABYSS_Z2M4_NAME,Focus Infusion: Alpha Flight
+ID_BATTLEWORLD_MOD_ABYSS_Z2M4_DESC,<color=#fff568>ALPHA FLIGHT</color> gains +<color=#fff568>500%</color> Focus in this mission.
+ID_BATTLEWORLD_MOD_ABYSS_Z3M1_NAME,Assisted Annihilation
+ID_BATTLEWORLD_MOD_ABYSS_Z3M1_DESC,<color=#fff568>ANNIHILATORS</color> have a <color=#86e619>45%</color> chance to assist when an ally uses an ability.
+ID_BATTLEWORLD_MOD_ABYSS_Z3M2_NAME_A,Stunning Genius
+ID_BATTLEWORLD_MOD_ABYSS_Z3M2_DESC_A,"When an <color=#fff568>ILLUMINATI</color> character uses their Basic ability, if no enemy has <color=#fff568>Stun</color>, apply <color=#fff568>Stun</color> to that attack's primary target. When any enemy with <color=#fff568>Stun</color> is successfully attacked, reduce that enemy's Speed Bar by <color=#fff568>35%</color>."
+ID_BATTLEWORLD_MOD_ABYSS_Z3M2_NAME_B,Fully Charged
+ID_BATTLEWORLD_MOD_ABYSS_Z3M2_DESC_B,Enemies deal <color=#fff568>25%</color> more damage for each Charged they have.
+ID_BATTLEWORLD_MOD_ABYSS_Z3M3_NAME,Resistance Infusion: Out of Time
+ID_BATTLEWORLD_MOD_ABYSS_Z3M3_DESC,<color=#fff568>OUT OF TIME</color> characters gain +<color=#fff568>800%</color> Resistance in this mission.
+ID_BATTLEWORLD_MOD_ABYSS_Z3M4_NAME_A,Superior Retribution
+ID_BATTLEWORLD_MOD_ABYSS_Z3M4_DESC_A,"On Spawn,<color=#fff568>SUPERIOR SIX</color> characters gain <color=#86e619>6</color> <color=#fff568>Counter</color> & <color=#fff568>Offense Up</color> for <color=#86e619>6</color> turns."
+ID_BATTLEWORLD_MOD_ABYSS_Z4M1_NAME,Focus Infusion: Alpha Flight
+ID_BATTLEWORLD_MOD_ABYSS_Z4M1_DESC,<color=#fff568>ALPHA FLIGHT</color> characters gain +<color=#fff568>500%</color> Focus in this mission.
+ID_BATTLEWORLD_MOD_ABYSS_Z4M2_NAME,X-Men 97 (%)
+ID_BATTLEWORLD_MOD_ABYSS_Z4M2_DESC,"<color=#fff568>X-TREME X-MEN</color> gain +<color=#fff568>97%</color> to Max Health, Speed, Focus, Resistance, Armor, & Damage in this mission."
+ID_BATTLEWORLD_MOD_ABYSS_Z4M3_NAME,Luck Infusion: Mercs For Money
+ID_BATTLEWORLD_MOD_ABYSS_Z4M3_DESC,<color=#fff568>MERCS FOR MONEY</color> characters gain +<color=#86e619>50%</color> Crit Chance and +<color=#86e619>300%</color> Crit Damage.
+ID_BATTLEWORLD_MOD_ABYSS_Z4M4_NAME,Original New Horsemen
+ID_BATTLEWORLD_MOD_ABYSS_Z4M4_DESC,<color=#fff568>MSF ORIGINAL</color> characters gain the <color=#fff568>HORSEMAN</color> trait in this mission.
+ID_BATTLEWORLD_MOD_ABYSS_Z5M1_NAME,Danger Zone
+ID_BATTLEWORLD_MOD_ABYSS_Z5M1_DESC,<color=#fff568>HIVE-MIND</color> gain +<color=#86e619>200%</color> Damage and Armor when below <color=#86e619>50%</color> max health.
+ID_BATTLEWORLD_MOD_ABYSS_Z5M2_NAME_A,Stunning Genius
+ID_BATTLEWORLD_MOD_ABYSS_Z5M2_DESC_A,"When an <color=#fff568>ILLUMINATI</color> character uses their Basic ability, if no enemy has <color=#fff568>Stun</color>, apply <color=#fff568>Stun</color> to that attack's primary target. When any enemy with <color=#fff568>Stun</color> is successfully attacked, reduce that enemy's Speed Bar by <color=#fff568>35%</color>."
+ID_BATTLEWORLD_MOD_ABYSS_Z5M2_NAME_B,Fully Charged
+ID_BATTLEWORLD_MOD_ABYSS_Z5M2_DESC_B,Some enemies spawn with <color=#fff568>CHARGED</color>. Enemies inflict <color=#fff568>25%</color> more damage for each Charged they have.
+ID_BATTLEWORLD_MOD_ABYSS_Z5M3_NAME,Predictive Algorithms
+ID_BATTLEWORLD_MOD_ABYSS_Z5M3_DESC,"On attacked, <color=#fff568>ORCHIS</color> characters gain +<color=#86e619>1</color> <color=#fff568>Deflect</color>, up to a maximum of <color=#86e619>3</color>."
+ID_BATTLEWORLD_MOD_ABYSS_Z5M4_NAME,Ice Skating Uphill
+ID_BATTLEWORLD_MOD_ABYSS_Z5M4_DESC,"<color=#fff568>NIGHTSTALKERS</color> gain +<color=#86e619>150%</color> Damage, +<color=#86e619>110%</color> Speed, & -<color=#86e619>50%</color> Armor."
+ID_BATTLEWORLD_MOD_ABYSS_Z5M6_NAME,King of Asgard
+ID_BATTLEWORLD_MOD_ABYSS_Z5M6_DESC,"Odin:\n > On Basic attack, all Asgardian allies gain <color=#fff568>4</color> energy."
+ID_BATTLEWORLD_MOD_ABYSS_Z5M3_NAME_A,Sanguine Swordsmen
+ID_BATTLEWORLD_MOD_ABYSS_Z5M3_DESC_A,Non-symbiote enemies gain the <color=#fff568>VAMPIRE</color> trait.
+ID_BATTLEWORLD_MOD_ABYSS_Z5M3_NAME_B,Throne Defenders
+ID_BATTLEWORLD_MOD_ABYSS_Z5M3_DESC_B,"When an enemy uses their basic attack, they inflict <color=#86e619>1</color> <color=#fff568>Bleed</color> on their target. When an enemy uses their special ability, they inflict <color=#fff568>Heal Block</color> for <color=#86e619>1</color> turn on their primary target. When an enemy uses their ultimate ability, they inflict <color=#fff568>Blind</color> for <color=#86e619>1</color> turn on their primary target."
+ID_MOD_ZOMBIE_HUNGRY_NAME,Hunger Without End
+ID_MOD_ZOMBIE_HUNGRY_DESC,Add properly formatted description of what this combat mod does.
+ID_MOD_VAMPIRE_CIVILIAN_NAME,Ritual of the Blood God
+ID_MOD_VAMPIRE_CIVILIAN_DESC,Add properly formatted description of what this combat mod does.
+ID_MOD_VAMPIRE_VAMPIRE_NAME," Thirst Eternal"
+ID_MOD_VAMPIRE_VAMPIRE_DESC,Add properly formatted description of what this combat mod does.
