@@ -3040,6 +3040,10 @@ ID_MOTD_NA_ILLUMINATI_LIVE,LIVE: Illuminating Assault
 ID_MOTD_DE_ILLUMINATI_LIVE,Earn rewards by battling with the Illuminati!
 ID_MOTD_NA_ILLUMINATI_ENDING,ENDING SOON: Illuminating Assault
 ID_MOTD_DE_ILLUMINATI_ENDING,Illuminating Assault event is ending soon!
+ID_MOTD_NA_ILLUMINATI_PREVIEW_RERUN,COMING SOON: Illuminating Assault Rerun
+ID_MOTD_NA_ILLUMINATI_LIVE_RERUN,LIVE: Illuminating Assault Rerun
+ID_MOTD_NA_ILLUMINATI_ENDING_RERUN,ENDING SOON: Illuminating Assault Rerun
+ID_MOTD_DE_ILLUMINATI_ENDING_RERUN,Illuminati Team event is ending soon!
 ID_MOTD_NA_OLDMANLOGAN_TRIALS_TEASER,Coming Soon: Old Man Logan Trials
 ID_MOTD_DE_OLDMANLOGAN_TRIALS_TEASER,"Prepare now by powering up Out of Time, Cabal, Loki and Emma Frost!"
 ID_MOTD_NA_OLDMANLOGAN_TRIALS_LIVE,LIVE: Old Man Logan Trials
@@ -3479,10 +3483,10 @@ ID_MOTD_NA_ECM_HALLOWEEN24_LIVE,LIVE: Red Dead Rematch
 ID_MOTD_DE_ECM_HALLOWEEN24_LIVE,Earn rewards by battling with Undying!
 ID_MOTD_NA_ECM_HALLOWEEN24_ENDING,ENDING SOON: Red Dead Rematch
 ID_MOTD_DE_ECM_HALLOWEEN24_ENDING,The Red Dead Rematch event is ending soon!
-ID_MOTD_NA_SPIDERVILLAINS,Sinister Skirmishes: Now Live!
-ID_MOTD_DE_SPIDERVILLAINS,Battle for a chance to win SPIDER-VERSE VILLAIN shards!
-ID_MOTD_NA_XTREMEXM,X-treme Training: Now Live!
-ID_MOTD_DE_XTREMEXM,Battle for a chance to win X-TREME X-MEN shards!
+ID_MOTD_NA_SPIDERVILLAINS,LIVE: Sinister Skirmishes
+ID_MOTD_DE_SPIDERVILLAINS,Battle to recruit more Villains to your roster!
+ID_MOTD_NA_XTREMEXM,LIVE: X-treme Training
+ID_MOTD_DE_XTREMEXM,Complete your lessons and recruit more characters!
 ID_MOTD_NA_MANTHING_ANNOUNCE,Man-Thing is here!
 ID_MOTD_DE_MANTHING_ANNOUNCE,Welcome to Man-Thing's swamp! Enemies enter but never leave!
 ID_MOTD_DE_MANTHING_ANNOUNCE2,Open the Swamp Sovereign Orb to earn shards for Man-Thing!
@@ -3554,3 +3558,5 @@ ID_MOTD_NA_COSMICSHADOWS_ANNOUNCE,LIVE: Cosmic Shadows
 ID_MOTD_DE_COSMICSHADOWS_ANNOUNCE,Earn T3 Iso-8 Ions and Crimson Mystic Gear
 ID_MOTD_NA_COSMICSHADOWS_ENDING,Ending Soon: Cosmic Shadows
 ID_MOTD_DE_COSMICSHADOWS_ENDING,Don't miss out on Crimson Mystic Gear and T3 Level 1 Ions!
+ID_MOTD_NA_BATTLEPASS_SEASON34_ANNOUNCE,LIVE: Season 34 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON34_ANNOUNCE,Complete Objectives to earn Captain Britain shards and more!

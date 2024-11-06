@@ -8,7 +8,7 @@ ID_ME_BO_VILLAINSUNLOCK2,"There's nothing like an interdimensional threat to bri
 ID_ME_NA_VILLAINSUNLOCK,VILLAINS UNITED
 ID_ME_DE_VILLAINSUNLOCK,Do you know about the Villains Campaign?
 ID_ME_BO_VILLAINSUNLOCK,"There's nothing like an interdimensional threat to bring heroes and villains together. Complete HEROES ASSEMBLE Chapter 2 and recruit a squad of at least 3 <color=#fff568>VILLAINS</color> to participate in the <color=#fff568>VILLAINS UNITED</color> Campaign. Tip: If you don't have enough villains, try your hand at the Elektra event and the Crossbones event.\n\nBest of luck, Commander."
-ID_ME_NA_VILLAINSUNLOCK_UPDATE,SOON: Villains United!
+ID_ME_NA_VILLAINSUNLOCK_UPDATE,SOON: Villains United
 ID_ME_DE_VILLAINSUNLOCK_UPDATE,Unlock More Campaigns!
 ID_ME_BO_VILLAINSUNLOCK_UPDATE,"Commander,\n\nTo continue the fight against Ultimus, we'll need to think outside the box and get help from some of our greatest enemies!\n\nComplete the second chapter of our <color=#fff568>HEROES ASSEMBLE</color> Campaign and recruit a squad of at least 3 <color=#fff568>Villains</color> to unlock the <color=#fff568>VILLAINS UNITED</color> Campaign.\n\nYou can find some worthy recruits in the <color=#fff568>SINISTER SKIRMISHES</color> event.\n\nBest of luck!"
 ID_ME_NA_ARENAUNLOCK,BLITZ Unlocked!
@@ -35,6 +35,12 @@ ID_ME_BO_UCUNLOCK,"Commander,\n\nYou now have access to Ultra Cores!\n\n<color=#
 ID_ME_NA_UCUNLOCK_FREE,Free Ultra Cores Inside
 ID_ME_DE_UCUNLOCK_FREE,Try Ultra Cores today!
 ID_ME_BO_UCUNLOCK_FREE,"Commander,\n\nEnjoy these <color=#fff568>50 Ultra Cores</color> to use on offers!\n\nTo use your Ultra Cores, just tap the Ultra Core price button on the offer of your choice and your chosen items will be immediately delivered directly to your inventory.\n\nVisit our blog for a complete rundown of Ultra Cores and how they'll help your roster. Good luck, Commander!"
+ID_ME_NA_XTREME_TRAINING,LIVE: X-Treme Training
+ID_ME_DE_XTREME_TRAINING,Unlock Powerful Characters!
+ID_ME_BO_XTREME_TRAINING,"Commander,\n\nProfessor X has agreed to a training session with some of his best and brightest to improve your skills on the battlefield.\n\nComplete this <color=#fff568>X-TREME TRAINING</color> and your credentials will earn you some new recruits.\n\n<color=#fff568>TIP</color>: Remember to train and gear up your roster from our Campaigns to overcome challenges!"
+ID_ME_NA_ABILITIES_NU,Ability Supply Drop
+ID_ME_DE_ABILITIES_NU,Power up your Roster!
+ID_ME_BO_ABILITIES_NU,"Commander,\n\nWe've sent some Ability Materials your way to help power up your Roster. After upgrading a character's Gear Tier, you'll unlock more abilities to invest these materials in. Find More in:\n\n-Select Campaign Nodes\n-The Main Supplies Store\n-Alliance Raids (Level 25).\n\n<color=#fff568>TIP</color>: Be sure to manage this resource carefully. Don't spend it all in one place!"
 ID_ME_NA_ISO8_FAQ,Iso-8 FAQ
 ID_ME_DE_ISO8_FAQ,Your questions answered!
 ID_ME_BO_ISO8_FAQ,"Commander,\n\nDo you have questions about Iso-8? Head over to our Iso-8 FAQ blog where you'll find detailed information on:\n- Active Healing\n- Skirmishers and Vulnerable\n- Switching Classes\n- And more!\n\nKeep experimenting with Iso-8 and customize your squads like never before!"
@@ -9132,6 +9138,13 @@ ID_ME_BO_LIVE_ILLUMINATI,"Commander,\n\nThe <color=#fff568>ILLUMINATI</color>'s 
 ID_ME_NA_ENDING_ILLUMINATI,ENDING: Illuminating Assault
 ID_ME_DE_ENDING_ILLUMINATI,2 Days Left!
 ID_ME_BO_ENDING_ILLUMINATI,"Commander,\n\nThe Illuminating Assault Event ends in <color=#fff568>2 DAYS</color>. Continue earning rewards before this Showcase ends!\n\nGood luck, Commander!"
+ID_ME_NA_PREVIEW_ILLUMINATI_RERUN,COMING SOON: Illuminating Assault Rerun
+ID_ME_DE_PREVIEW_ILLUMINATI_RERUN,Illuminati Showcase Rerun
+ID_ME_BO_PREVIEW_ILLUMINATI_RERUN,"Commander,\n\nThe <color=#fff568>ILLUMINATI</color>'s Showcase Event is coming back! Take advantage of this event coming back to earn <color=#fff568>CAPTAIN BRITAIN</color> and play more with the <color=#fff568>ILLUMINATI</color> team. Chapter 2 now only requires <color=#fff568>ILLUMINATI</color> but it is recommended to have your team members around 5 Yellow Stars and Gear Tier 14+. Win the battles and earn some great rewards!.\n\nGet ready, Commander!"
+ID_ME_NA_LIVE_ILLUMINATI_RERUN,LIVE: Illuminating Assault Rerun
+ID_ME_BO_LIVE_ILLUMINATI_RERUN,"Commander,\n\nThe <color=#fff568>ILLUMINATI</color>'s Showcase Team Event is back again and live! Participate in the <color=#fff568>ILLUMINATING ASSAULT</color> team event rerun to earn amazing rewards.\n\nTake advantage of this event being back to earn <color=#fff568>CAPTAIN BRITAIN</color> and play more with the <color=#fff568>ILLUMINATI</color> team. Chapter 2 now only requires <color=#fff568>ILLUMINATI</color> but it is recommended to have your team members around 5 Yellow Stars and Gear Tier 14+. Win the battles and earn some great rewards!.\n\nGet ready, Commander!"
+ID_ME_NA_ENDING_ILLUMINATI_RERUN,ENDING: Illuminating Assault Rerun
+ID_ME_BO_ENDING_ILLUMINATI_RERUN,"Commander,\n\nthe Illuminating Assault Event is ending again in <color=#fff568>2 DAYS</color>. Continue earning rewards for <color=#fff568>CAPTAIN BRITAIN</color> before this Showcase ends again!\n\nGood luck, Commander!"
 ID_ME_NA_TAKEFLIGHT_TEASER,Coming Soon: Take Flight: Guardian
 ID_ME_DE_TAKEFLIGHT_CORE,Earn points from special offers
 ID_ME_BO_TAKEFLIGHT_CORE,"Gain progress in this special event by collecting Take Flight: Guardian Milestone Points found in special Guardian offers.\n\nRewards include Northstar and Guardian shards, Crimson Gear, and Diamond upgrades for Sunfire."
@@ -10201,3 +10214,9 @@ ID_ME_NA_COSMICSHADOWS_ANNOUNCE,LIVE: Cosmic Shadows
 ID_ME_NA_COSMICSHADOWS_ENDING,ENDING: Cosmic Shadows
 ID_ME_DE_COSMICSHADOWS_ENDING,Don't miss out on Crimson Mystic Gear and T3 Level 1 Ions!
 ID_ME_BO_COSMICSHADOWS_ENDING,"Commander,\n\nThe Cosmic Shadows Event <color=#fff568>ends soon</color>. Continue making progress to earn T3 Iso-8 Credits, T3 Level 1 Ions, and Crimson Mystic Gear! \n\nGood luck, Commander!"
+ID_ME_NA_BATTLEPASS_SEASON34_ANNOUNCE,Battle Pass: Season 34
+ID_ME_DE_BATTLEPASS_SEASON34_ANNOUNCE,Earn Captain Britain shards & Turkeys!
+ID_ME_BO_BATTLEPASS_SEASON34_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle Pass: Season 34 is LIVE</color>!\n\nComplete this Season's Daily and Weekly Objectives to win these <color=#fff568>Featured Prizes</color>:\n- Captain Britain shards\n- Turkeys\n\nUpgrade to the <color=#fff568>Premium Pass</color> to earn Dark Promotion Credits and even more rewards.\n\nCharge into Battle Pass: Season 34 today!"
+ID_ME_NA_BATTLEPASS_SEASON34_ENDING,Season 34 Ending Soon
+ID_ME_DE_BATTLEPASS_SEASON34_ENDING,Battle Pass: 2 more days!
+ID_ME_BO_BATTLEPASS_SEASON34_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Captain Britain shards and Turkeys before the Season ends!"

@@ -11601,3 +11601,71 @@ ID_OF_NA_SALUTE2SERVICE_L4_T4ABM_TRAININGORB,Salute 2 Service: March
 ID_OF_DE_SALUTE2SERVICE_LOWMID,"Only available for a limited time. Thank you for your service, commander!"
 ID_OF_DE_SALUTE2SERVICE_HIGH,"A limited time high value offer just for you! Thank you for your service, commander!"
 ID_OF_DE_SALUTE2SERVICE_PURCHASABLECAL_PURPLEION,"Conquer Odin's Dark Dimension with this limited time high value offer! Thank you for your service, commander!"
+ID_NA_BATTLEPASS_SEASON34_PREMCLAIM,Battle Pass: Season 34 Premium Reward
+ID_NA_BATTLEPASS_SEASON34_PREMPLUSCLAIM,Battle Pass: Season 34 Premium Plus Reward
+ID_OF_NA_SKPREP_HANKPYM_BOOSTER,Shadow King Prep: Hank Pym
+ID_OF_NA_SKPREP_THANOSEG_GOLD_TRAIN,Shadow King Prep: Thanos Boost Up
+ID_OF_NA_SKPREP_GLADIATOR_CRIMSON_CATS,Shadow King Prep: Gladiator Crimson Catalyst
+ID_OF_NA_SKPREP_GLADIATOR_GORR_TRAIN_GOLD,Shadow King Prep: Gladiator Special
+ID_OF_NA_SKPREP_DDC,Shadow King Prep: Dark Diamonds
+ID_OF_NA_SKPREP_ORCHIS,Shadow King Prep: Orchis Tune Up
+ID_OF_NA_SKPREP_TRAIN_BASIC,Shadow King Prep: Bootcamp
+ID_OF_NA_SKPREP_ABM_DPC,Shadow King Prep: Epitome of Skill
+ID_OF_NA_SKPREP_GOLD_ABM,Shadow King Prep: Resource Mining
+ID_OF_NA_SKPREP_THANOSEG_BOOSTER,Shadow King Prep: Thanos (Endgame)
+ID_OF_NA_SKPREP_TEAL_UNIQUES,Shadow King Prep: Teal Uniques Combo
+ID_OF_NA_SKPREP_GLADIATOR_GOLD_TRAIN,Shadow King Prep: Gladiator Boost Up
+ID_OF_NA_SKPREP_THANOSEG_CRIMSON_CATS,Shadow King Prep: Thanos Crimson Catalyst
+ID_OF_NA_SKPREP_UNDYING,Shadow King Prep: Master the Undead
+ID_OF_NA_SKPREP_BLADE_THANOSEG,Shadow King Prep: Dual Brawlers
+ID_OF_NA_SKPREP_ANNIHILATORS_CRIMSON_UNIQUES,Shadow King Prep: Crimson Annihilators
+ID_OF_NA_SKPREP_DDC_GOLD,Shadow King Prep: Dark Diamonds
+ID_OF_NA_SKPREP_A19,Shadow King Prep: Armory Orbs Bundle
+ID_OF_NA_SKPREP_GLADIATOR_BOOSTER,Shadow King Prep: Praetor's Might
+ID_OF_NA_SKPREP_HANKPYM_CRIMSON_CATS,Shadow King Prep: Hank Pym Crimson Catalyst
+ID_OF_NA_SKPREP_PURPLE_ISO_SUPPORT,Shadow King Prep: Support Iso-8
+ID_OF_NA_SKPREP_PURPLE_ISO_BRAWLER,Shadow King Prep: Brawler Iso-8
+ID_OF_NA_SKPREP_PURPLE_ISO_PROTECTOR,Shadow King Prep: Protector Iso-8
+ID_OF_NA_SKPREP_HANKPYM_BPSHURI,Shadow King Prep: Dual Intellect
+ID_OF_NA_SKPREP_BLUE_IONS,Shadow King Prep: Blue Ions
+ID_OF_NA_SKPREP_GOLD_BASIC,Shadow King Prep: Instant Gold
+ID_OF_NA_SKPREP_ILLUMINATI_CRIMSON_UNIQUES,Shadow King Prep: Crimson Illuminati
+ID_OF_NA_SKPREP_TEAL_MINI_UNIQUES,Shadow King Prep: Crimson Annihilators
+ID_OF_NA_SKPREP_M4M,Shadow King Prep: Mercs For Money
+ID_OF_NA_SKPREP_CRIMSON_UNIQUES,Shadow King Prep: Crimson Mini-Uniques
+ID_OF_NA_SKPREP_ANNIHILATORS,Shadow King Prep: Annihilators Power Up
+ID_OF_NA_SKPREP_DDC_DIAMOND,Shadow King Prep: Dark Diamonds
+ID_OF_NA_SKPREP_GOLD_TRAIN,Shadow King Prep: Quick Train Up
+ID_OF_DE_SKPREP_HANKPYM_BOOSTER,Need to power up <color=#ffda21>Hank Pym</color> while on a budget? This is for you.
+ID_OF_DE_SKPREP_THANOSEG_GOLD_TRAIN,Need to level up <color=#ffda21>Thanos (Endgame)</color> while on a budget? This is for you.
+ID_OF_DE_SKPREP_GLADIATOR_CRIMSON_CATS,"Unleash your inner strength with the Gladiator's Crimson Catalyst Gear, ready to conquer any battlefield!"
+ID_OF_DE_SKPREP_GLADIATOR_GORR_TRAIN_GOLD,Train and level up <color=#ffda21>Gladiator & Gorr</color> with this great deal.
+ID_OF_DE_SKPREP_DDC,Start promoting your roster with a special limited time offer today!
+ID_OF_DE_SKPREP_ORCHIS,"Rally the Orchis team, craft your strategies, and dominate the battlefield with scientific precision! This is your opportunity to instill fear and conquer. Seize your offer now!"
+ID_OF_DE_SKPREP_TRAIN_BASIC,Level up your roster and unlock their highest tiered abilities with this limited time offer!
+ID_OF_DE_SKPREP_ABM_DPC,Promote your roster with this <color=#ffda21>Dark Promotion Credit</color> special offer
+ID_OF_DE_SKPREP_GOLD_ABM,Restock on the essential resources to continue powering up your roster today with this limited time offer! <color=#0096ff>Greater than a {var1}x value</color>!
+ID_OF_DE_SKPREP_THANOSEG_BOOSTER,Need to power up <color=#ffda21>Thanos (Endgame)</color> while on a budget? This is for you.
+ID_OF_DE_SKPREP_TEAL_UNIQUES,Push your characters to their limits with this limited time special!
+ID_OF_DE_SKPREP_GLADIATOR_GOLD_TRAIN,Don't miss out the perfect bundle to train <color=#ffda21>Gladiator</color>.
+ID_OF_DE_SKPREP_THANOSEG_CRIMSON_CATS,"Unleash your inner strength with the Thanos (Endgame)'s Crimson Catalyst Gear, ready to conquer any battlefield!"
+ID_OF_DE_SKPREP_UNDYING,Become an unstoppable force in War and benefit from your <color=#fff568>Undying</color> allies!
+ID_OF_DE_SKPREP_BLADE_THANOSEG,"Train and level up <color=#ffda21>Blade & Thanos (Endgame)</color> with this great deal. "
+ID_OF_DE_SKPREP_ANNIHILATORS_CRIMSON_UNIQUES,Push your characters to their limits with this limited time special!
+ID_OF_DE_SKPREP_DDC_GOLD,Secure a wealth of Gold and DDC to bolster your heroes for the ultimate battles.
+ID_OF_DE_SKPREP_A19,Open the armory of gear needed for your characters to reach new tiers of power with this exclusive offer!
+ID_OF_DE_SKPREP_GLADIATOR_BOOSTER,Need to power up <color=#ffda21>Gladiator</color> while on a budget? This is for you.
+ID_OF_DE_SKPREP_HANKPYM_CRIMSON_CATS,"Unleash your inner strength with the Hank Pym's Crimson Catalyst Gear, ready to conquer any battlefield!"
+ID_OF_DE_SKPREP_PURPLE_ISO_SUPPORT,Embolden your roster with Purple Iso-8 Support! Only available for a limited time!
+ID_OF_DE_SKPREP_PURPLE_ISO_BRAWLER,Embolden your roster with Purple Iso-8 Brawler! Only available for a limited time!
+ID_OF_DE_SKPREP_PURPLE_ISO_PROTECTOR,Embolden your roster with Purple Iso-8 Protector! Only available for a limited time!
+ID_OF_DE_SKPREP_HANKPYM_BPSHURI,"Train and level up <color=#ffda21>Hank Pym & Black Panther (Shuri)</color> with this great deal. "
+ID_OF_DE_SKPREP_BLUE_IONS,Transform your favorite characters with this limited-time deal on T2 Ions!
+ID_OF_DE_SKPREP_GOLD_BASIC,Seize this mountain of <color=#ffda21>Gold</color> and boost your roster's power to help overcome any challenge! <color=#ffda21>Greater than {var1}x value</color>!
+ID_OF_DE_SKPREP_ILLUMINATI_CRIMSON_UNIQUES,Push your characters to their limits with this limited time special!
+ID_OF_DE_SKPREP_TEAL_MINI_UNIQUES,Push your characters to their limits with this limited time special!
+ID_OF_DE_SKPREP_M4M,"Unlock your ultimate power with our limited-time offer, join the Mercs for Money team and dominate the competition!"
+ID_OF_DE_SKPREP_CRIMSON_UNIQUES,Push your characters to their limits with this limited time special!
+ID_OF_DE_SKPREP_ANNIHILATORS,"Gather the Annihilator team, refine your strategies, and dominate the Arena with destructive force! This is your chance to bring devastation and control. Secure your offer now!"
+ID_OF_DE_SKPREP_DDC_DIAMOND,Promote the best of your roster with this offer of <color=#ffda21>Dark Diamond Credit & Diamond Orbs</color>!
+ID_OF_DE_SKPREP_GOLD_TRAIN,Make the update to your roster that you've always wanted with this <color=#fff568>Gold and Training Module</color> combo!
