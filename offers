@@ -11426,6 +11426,7 @@ ID_OF_DE_ARES_RELEASE_ARESANCHOR,Power up the God of War with this special offer
 ID_OF_DE_ARES_RELEASE_WEB_ARESABM,Get this combo special of Ares and T4 Ability Materials for a limited time!
 ID_OF_DE_ARES_RELEASE_WEB_ARESGOLD,Get this combo special of Ares and Gold for a limited time!
 ID_OF_DE_ARES_RELEASE_WEB_ARESTRAINING,Get this combo special of Ares and L4 Training Modules for a limited time!
+ID_OF_NA_ANCIENTONE_FCO_OFFER,Sorcerer Supreme
 ID_OF_DE_ANCIENTONE_FCO_OFFER,Each <color=#fff568>Timeless Sage Orb</color> contains <color=#fff568>up to 180 Ancient One</color> shards. Energize your team and provide powerful effects from critical percing attacks along with enabling team-wide Battleworld & War effects!
 ID_OF_DE_ANCIENTONE_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Ancient One</color> and unlock one-time only release offers on your next visit! Energize your team and provide powerful effects from critical percing attacks along with enabling team-wide Battleworld & War effects!
 ID_OF_DE_ANCIENTONE_OFFER_SHARD,Power up <color=#fff568>Ancient One</color> with this shard offer! Energize your team and provide powerful effects from critical percing attacks along with enabling team-wide Battleworld & War effects!
@@ -11459,6 +11460,12 @@ ID_OF_NA_ANCIENTONE_STREAK_OFFER3,(3/6) Mystical Meditation Special
 ID_OF_NA_ANCIENTONE_STREAK_OFFER4,(4/6) Mystical Meditation Special
 ID_OF_NA_ANCIENTONE_STREAK_OFFER5,(5/6) Mystical Meditation Special
 ID_OF_NA_ANCIENTONE_STREAK_OFFER6,(6/6) Mystical Meditation Special
+ID_OF_DE_ANCIENTONE_STREAK_OFFER1,Get to <color=#fff568>Step 6</color> to acquire Shadow King's <color=#fff568>Special Awakened Ability!</color>
+ID_OF_DE_ANCIENTONE_STREAK_OFFER2,Get to <color=#fff568>Step 6</color> to acquire Shadow King's <color=#fff568>Special Awakened Ability!</color>
+ID_OF_DE_ANCIENTONE_STREAK_OFFER3,Get to <color=#fff568>Step 6</color> to acquire Shadow King's <color=#fff568>Special Awakened Ability!</color>
+ID_OF_DE_ANCIENTONE_STREAK_OFFER4,Get to <color=#fff568>Step 6</color> to acquire Shadow King's <color=#fff568>Special Awakened Ability!</color>
+ID_OF_DE_ANCIENTONE_STREAK_OFFER5,Get to <color=#fff568>Step 6</color> to acquire Shadow King's <color=#fff568>Special Awakened Ability!</color>
+ID_OF_DE_ANCIENTONE_STREAK_OFFER6,Unlock Shadow King's <color=#fff568>Special Awakened Ability</color> and embrace his full potential!
 ID_OF_NA_ANCIENTONE_GENERIC,Mystical Master
 ID_OF_NA_ANCIENTONE_OTHER,Timeless Teacher
 ID_OF_NA_COSMICBATTLE_STARTER,Cosmic Battle: Starter Bundle
@@ -11601,8 +11608,8 @@ ID_OF_NA_SALUTE2SERVICE_L4_T4ABM_TRAININGORB,Salute 2 Service: March
 ID_OF_DE_SALUTE2SERVICE_LOWMID,"Only available for a limited time. Thank you for your service, commander!"
 ID_OF_DE_SALUTE2SERVICE_HIGH,"A limited time high value offer just for you! Thank you for your service, commander!"
 ID_OF_DE_SALUTE2SERVICE_PURCHASABLECAL_PURPLEION,"Conquer Odin's Dark Dimension with this limited time high value offer! Thank you for your service, commander!"
-ID_NA_BATTLEPASS_SEASON34_PREMCLAIM,Battle Pass: Season 34 Premium Reward
-ID_NA_BATTLEPASS_SEASON34_PREMPLUSCLAIM,Battle Pass: Season 34 Premium Plus Reward
+ID_OF_NA_BATTLEPASS_SEASON34_PREMCLAIM,Battle Pass: Season 34 Premium Reward
+ID_OF_NA_BATTLEPASS_SEASON34_PREMPLUSCLAIM,Battle Pass: Season 34 Premium Plus Reward
 ID_OF_NA_SKPREP_HANKPYM_BOOSTER,Shadow King Prep: Hank Pym
 ID_OF_NA_SKPREP_THANOSEG_GOLD_TRAIN,Shadow King Prep: Thanos Boost Up
 ID_OF_NA_SKPREP_GLADIATOR_CRIMSON_CATS,Shadow King Prep: Gladiator Crimson Catalyst
@@ -11669,3 +11676,39 @@ ID_OF_DE_SKPREP_CRIMSON_UNIQUES,Push your characters to their limits with this l
 ID_OF_DE_SKPREP_ANNIHILATORS,"Gather the Annihilator team, refine your strategies, and dominate the Arena with destructive force! This is your chance to bring devastation and control. Secure your offer now!"
 ID_OF_DE_SKPREP_DDC_DIAMOND,Promote the best of your roster with this offer of <color=#ffda21>Dark Diamond Credit & Diamond Orbs</color>!
 ID_OF_DE_SKPREP_GOLD_TRAIN,Make the update to your roster that you've always wanted with this <color=#fff568>Gold and Training Module</color> combo!
+ID_OF_NA_ILLUMINATIASSEMBLY_FREE,Illuminati Assembly: Free Claim
+ID_OF_NA_ILLUMINATIASSEMBLY_INTERSTITIAL,Illuminati Assembly: Special Deal
+ID_OF_NA_ILLUMINATIASSEMBLY_EVENTORB1,Illuminati Assembly: Daily Team Orbs
+ID_OF_NA_ILLUMINATIASSEMBLY_EVENTORB2,Illuminati Assembly: Illuminati Team Orbs
+ID_OF_NA_ILLUMINATIASSEMBLY_EVENTORB3,Illuminati Assembly: Captain Britain Team Orbs
+ID_OF_NA_ILLUMINATIASSEMBLY_SPECIAL,Illuminati Assembly: Special Deal
+ID_OF_DE_ILLUMINATIASSEMBLY_FREE,Come back daily for more <color=#fff568>Illuminati</color> progress!
+ID_OF_DE_ILLUMINATIASSEMBLY_INTERSTITIAL,You just unlocked the <color=#fff568>highest discount</color> deal for the <color=#fff568>Illuminati Assembly</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_ILLUMINATIASSEMBLY_EVENTORB1,"Get Captain Britain, Hank Pym and Black Panther (Shuri) Team Orbs for <color=#fff568>Illuminati Assembly</color> progress!"
+ID_OF_DE_ILLUMINATIASSEMBLY_EVENTORB2,Get these Team Orbs for <color=#fff568>Illuminati Assembly</color> progress!
+ID_OF_DE_ILLUMINATIASSEMBLY_EVENTORB3,Get Captain Britain Orbs for <color=#fff568>Illuminati Assembly</color> progress!
+ID_OF_DE_ILLUMINATIASSEMBLY_SPECIAL,"Get Captain Britain, Hank Pym and Black Panther (Shuri) Orbs for <color=#fff568>Illuminati Assembly</color> progress!"
+ID_OF_NA_CBR24_GEAR_DPC_DDC,Captain Britain Returns: Heroic Return
+ID_OF_NA_CBR24_ABM,Captain Britain Returns: Unlock Your Potential
+ID_OF_NA_CBR24_GOLD_TRAIN,Captain Britain Returns: Union Jacked
+ID_OF_NA_CBR24_DDC,Captain Britain Returns: Unlock Your Potential
+ID_OF_NA_CBR24_DPC,Captain Britain Returns: Unlock Your Potential
+ID_OF_NA_CBR24_GOLD_TRAIN_ISO,Captain Britain Returns: Isle Protector
+ID_OF_NA_CBR24_TEAM,Captain Britain Returns: Illuminati Unite
+ID_OF_NA_CBR24_CRIMSON_MINIUNIQUES,Captain Britain Returns: Crimson Illuminati Pack
+ID_OF_NA_CBR24_BPSHURI_4YS_TARGET,Captain Britain Returns: Wakandan Queen
+ID_OF_NA_CBR24_BPSHURI_TOPOFF,Captain Britain Returns: Black Panther Successor
+ID_OF_NA_CBR24_HANKPYM_4YS_TARGET,Captain Britain Returns: Pym Particle Powerhouse
+ID_OF_NA_CBR24_HANKPYM_TOPOFF,Captain Britain Returns: Dr. Hank Pym
+ID_OF_DE_CBR24_GEAR_DPC_DDC,<color=#fff568>Over 2x Value!</color> Captain Britain makes his heroic return! Power up your Illuminati Protector!
+ID_OF_DE_CBR24_ABM,<color=#fff568>Captain Britain is back!</color> Unlock your full potential with <color=#fff568>T4 Ability Materials!</color>
+ID_OF_DE_CBR24_GOLD_TRAIN,<color=#fff568>Captain Britain is back!</color> Power up this Union Jacked Hero with <color=#fff568>Gold and Training Materials!</color>
+ID_OF_DE_CBR24_DDC,<color=#fff568>Captain Britain is back!</color> Unlock your full potential with <color=#fff568>Dark Diamond Credits!</color>
+ID_OF_DE_CBR24_DPC,<color=#fff568>Captain Britain is back!</color> Unlock your full potential with <color=#fff568>Dark Promotion Credits!</color>
+ID_OF_DE_CBR24_GOLD_TRAIN_ISO,"<color=#fff568>Over 2x Value!</color> Power up this Union Jacked Hero with <color=#fff568>T3 L1 Ions, Gold, Training Materials and more!</color>"
+ID_OF_DE_CBR24_TEAM,"Strengthen your Illumanti team with <color=#fff568>Captain Britain, Black Panther (Shuri) and Hank Pym shards!</color>"
+ID_OF_DE_CBR24_CRIMSON_MINIUNIQUES,Get a boost for your Illuminati Roster with Crimson Mini-Uniques!
+ID_OF_DE_CBR24_BPSHURI_4YS_TARGET,"Power up the Wakandan Queen, <color=#fff568>Black Panther (Shuri)</color>, for battle!"
+ID_OF_DE_CBR24_BPSHURI_TOPOFF,Wakanda Forever! <color=#fff568>Black Panther (Shuri)</color> controls the battlefield for Illuminati!
+ID_OF_DE_CBR24_HANKPYM_4YS_TARGET,"Power up the Pym Particle Powerhouse, <color=#fff568>Hank Pym</color>, for battle!"
+ID_OF_DE_CBR24_HANKPYM_TOPOFF,Support your Illuminati allies with <color=#fff568>Hank Pym</color>!
