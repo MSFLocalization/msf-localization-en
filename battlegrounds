@@ -1,0 +1,47 @@
+id,translation
+ID_BATTLEGROUNDS,Arena
+ID_BATTLEGROUNDS_ACCESS,You have unlocked the Arena!
+ID_BATTLEGROUNDS_MATCHUP,Select Opponent
+ID_BATTLEGROUNDS_ERROR_HEADER,Arena Status
+ID_BATTLEGROUNDS_ERROR_OPP_LOCKED,Your opponent is already engaged in an <color=#ffffff>ARENA BATTLE</color> or you are no longer in range to reach them. You can either choose a new opponent or wait for the battle to finish.
+ID_BATTLEGROUNDS_ERROR_UNKNOWN,Unknown Error
+ID_BATTLEGROUNDS_ERROR_NO_OPPS,No opponents found.
+ID_BATTLEGROUNDS_YOURRANK,YOUR RANK
+ID_BATTLEGROUNDS_RESULTS_HEADER,Arena Report
+ID_BATTLEGROUNDS_RESULTS_SUBHEADER,Your current rank in the Arena!
+ID_BATTLEGROUNDS_RESULTS_LOSE,Continue fighting to increase your rank and receive better <color=#ffffff>REWARDS</color>! Rewards are delivered on a daily basis to your <color=#ffffff>INBOX</color> based on your current rank.
+ID_BATTLEGROUNDS_RESULTS_WIN,CONGRATULATIONS! Continue fighting to increase your rank and receive better <color=#ffffff>REWARDS</color>! Rewards are delivered on a daily basis to your <color=#ffffff>INBOX</color> based on your current rank.
+ID_BATTLEGROUNDS_RESULTS_WIN_FIRST,Congratulations on reaching Rank 1! Check back later to see if your rank has changed. <color=#ffffff>REWARDS</color> are delivered on a daily basis to your <color=#ffffff>INBOX</color> based on your current rank.
+ID_BATTLEGROUNDS_MYRANK,MY RANK:
+ID_BATTLEGROUNDS_REWARD_PAYOUT,REWARD PAYOUT:
+ID_BATTLEGROUNDS_REWARD_TIER,REWARD TIER:
+ID_BATTLEGROUNDS_RANKING,RANKING
+ID_BATTLEGROUNDS_REWARDS,REWARDS
+ID_BATTLEGROUNDS_SET_DEFENSE,SET DEFENSE
+ID_BATTLEGROUNDS_STORE,STORE
+ID_BATTLEGROUNDS_GO,GO
+ID_BATTLEGROUNDS_POWER_COLON,POWER:
+ID_BATTLEGROUNDS_MY_POWER_COLON,MY POWER:
+ID_BATTLEGROUNDS_POWER,POWER
+ID_BATTLEGROUNDS_REFRESH,REFRESH
+ID_BATTLEGROUNDS_LEVEL,LVL
+ID_BATTLEGROUNDS_RANK_COLON,RANK:
+ID_BATTLEGROUNDS_RULES_HEADER,RULES
+ID_BATTLEGROUNDS_BATTLE,BATTLE
+ID_BATTLEGROUNDS_RULES_SUBHEADER,Welcome to the Arena!
+ID_BATTLEGROUNDS_RULES_SUBHEADER2,Here is everything you need to know.
+ID_BATTLEGROUNDS_RULES_BODY,"1) Set up your defenses (5-character squad required).\n\n2) Challenge opponents based on their rank. If you win, you will swap ranks with them. If you lose, your rank will remain unchanged.\n\n3) After each battle, you must wait a set period of time before you can enter the next battle. If you do not wish to wait, you can bypass the wait period by spending POWER CORES.\n\n4) You will receive a payout in your Inbox every 24 hours based on your reward tier. Additionally, the number of attacks allowed daily will reset.\n\n5) Your Arena is determined by your timezone and the date when you join. Each Arena has a maximum number of players allowed, and when it reaches full capacity, a new one is created.\n\n6) While you are participating in an active battle, you can still be attacked by other players."
+ID_BATTLEGROUNDS_FIND_ME,<size=70>FIND ME</size>
+ID_BATTLEGROUNDS_RECORDS,RECORDS
+ID_BATTLEGROUNDS_TOP_100,<size=70>TOP 100</size>
+ID_BATTLEGROUNDS_NUMBER,{number}
+ID_BATTLEGROUNDS_DAILY_LIMIT_REACHED,You have reached your daily limit.\nThe daily limit will reset tomorrow.
+ID_BATTLEGROUNDS_MESSAGING_REWARDS_TITLE,Arena Rank {rank} Reward
+ID_BATTLEGROUNDS_MESSAGING_REWARDS_SUBJECT,Rewards Delivery
+ID_BATTLEGROUNDS_MESSAGING_REWARDS_BODY,Congratulations! You reached Rank {rank} in the Arena
+ID_BATTLEGROUNDS_CONGRATULATIONS,CONGRATULATIONS!
+ID_BATTLEGROUNDS_RANK1_GO_BUTTON_REPLACEMENT_TEXT,Check back later to see if your rank has changed.
+ID_BATTLEGROUNDS_COMBAT_OPTIONS_TITLE,Arena Options
+ID_BATTLEGROUNDS_COMBAT_OPTIONS_DESC,Set the combat options for your Arena battles.
+ID_BATTLEGROUNDS_ATTEMPT_INFO_TITLE,ATTEMPTS
+ID_BATTLEGROUNDS_ATTEMPT_INFO_DESC,"You are given 5 attempts per day, which are consumed upon starting a battle. Attempts are reset every 24 hours."
