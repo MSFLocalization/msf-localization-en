@@ -176,7 +176,7 @@ ID_KNULL_BATTLEWORLD_MISSION_BOSS_NAME,Symbiote God Knull
 ID_INVISIBLEWOMAN_BATTLEWORLD_MISSION_BOSS_NAME,Dr. Susan Storm-Richards
 ID_AL_TI_NEW_DIFF_BATTLEWORLD_UNLOCKED,New Battleworld Difficulty Unlocked
 ID_AL_DE_NEW_DIFF_BATTLEWORLD_UNLOCKED,Difficulty {lvl} for {eventTitle} unlocked
-ID_AL_BO_NEW_DIFF_BATTLEWORLD_UNLOCKED,Your alliance has unlocked a new difficulty level for {eventTitle}. TBD MESSAGE!!
+ID_AL_BO_NEW_DIFF_BATTLEWORLD_UNLOCKED,Your alliance has unlocked a new difficulty level for {eventTitle}.
 ID_BATTLEWORLD_HOME_ACTIVE,Zone {zone} Active:
 ID_BATTLEWORLD_HOME_STARTS_IN,Siege Starts in
 ID_BATTLEWORLD_SPECOPS_PROGRESS_POINTS,<nobr>+{points} <color=white>VP</color></nobr>

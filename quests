@@ -5414,3 +5414,19 @@ ID_QU_SD_COSMICBATTLE2,Participate in Battleworld to earn Cosmic Elixir
 ID_QU_LD_COSMICBATTLE2,"Participate in Battleworld Spec Ops Missions for this alliance event! \n\nCosmic Battle Milestone\nTo score points:\n- Participate in Battleworld Spec Ops Missions \n- Earn Allied Supply VI Orb Fragments\n\nEarn fantastic rewards including Cosmic Elixir, Ancient One Astral Orbs Fragments and T3 Iso-8 Materials!\n\nAllied Supply VI orb\nEarn these alliance event orbs for progress in Cosmic Battle! Collect the Allied Supply VI Orb in special offers and daily free claims on the web!"
 ID_QU_S1_COSMICBATTLE2,Earn Allied Supply VI Orb Fragments from Free Claims and special Offers
 ID_QU_S2_COSMICBATTLE2,Complete 1 Spec Ops Mission in Battleworld
+ID_QU_NA_GGCPREP,Mayhem Management
+ID_QU_SD_GGCPREP,Prep for Green Goblin (Classic) Trials!
+ID_QU_LD_GGCPREP,"Score points by earning Orderly Disorder Orb Fragments from Campaign Nodes and ranking up characters required to participate in the Green Goblin (Classic) Trials.\n\nRewards include unlock tokens and upgrade materials for these characters, as well as Gold and Training Modules!"
+ID_QU_S1_GGCPREP,Earn 1 Orderly Disorder Orb Fragment
+ID_QU_S2_GGCPREP,Earn 1 Mayhem Management Milestone Point
+ID_QU_S3_GGCPREP,Unlock or Rank up Mockingbird
+ID_QU_S5_GGCPREP,Unlock or Rank up Ronin
+ID_QU_S8_GGCPREP,Unlock or Rank up Tigra
+ID_QU_S10_GGCPREP,Unlock or Rank up Lizard
+ID_QU_S12_GGCPREP,Unlock or Rank up Sunspot
+ID_QU_NA_ASTRALASCENDANCE,Astral Ascendance
+ID_QU_SD_ASTRALASCENDANCE,Campaign Daily and play Battleworld to earn Emma Frost (X-Men) Shards
+ID_QU_LD_ASTRALASCENDANCE,"Campaign daily and play Battleworld to earn Emma Frost Astral Orbs containing Emma Frost (X-men) character shards! Keep your streak alive for amazing rewards!\n\nDon't miss out on this opportunity, Commander!"
+ID_QU_S1_ASTRALASCENDANCE,Spend 1 Campaign Energy
+ID_QU_S2_ASTRALASCENDANCE,Play 1 Battleworld Zone
+ID_QU_S3_ASTRALASCENDANCE,Spend 1 of any Campaign Energy type

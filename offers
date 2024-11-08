@@ -11437,7 +11437,7 @@ ID_OF_DE_DUAL_ANCIENTONE,Choose your path to power up this <color=#fff568>Astral
 ID_OF_DE_DUAL_UNLOCK_ANCIENTONE,Unlock this <color=#fff568>Astral</color> member and <color=#fff568>one-time release offers</color> on your next visit!
 ID_OF_NA_ANCIENTONE_FCO_OFFER_BASIC,Ancient One Release Offer
 ID_OF_NA_ANCIENTONE_TEAMORB,Ancient One Astral Orb Offer
-ID_OF_DE_ANCIENTONE_TEAMORB,Bring the team together with this limited time orb special featuring Ancient One! Open for progress in the Ancient One Milestone Event!
+ID_OF_DE_ANCIENTONE_TEAMORB,Bring the team together with this limited time orb special featuring Ancient One!
 ID_OF_NA_ANCIENTONE_TEAMORB_TY,Ancient One Astral Orb Thank You Special!
 ID_OF_DE_ANCIENTONE_TEAMORB_TY,Thank you for your support! Please enjoy this increased value orb offer.
 ID_OF_NA_ANCIENTONE_WEB_EXTRA_FCO_OFFER,Ancient One Unlock Offer
@@ -11688,6 +11688,12 @@ ID_OF_DE_ILLUMINATIASSEMBLY_EVENTORB1,"Get Captain Britain, Hank Pym and Black P
 ID_OF_DE_ILLUMINATIASSEMBLY_EVENTORB2,Get these Team Orbs for <color=#fff568>Illuminati Assembly</color> progress!
 ID_OF_DE_ILLUMINATIASSEMBLY_EVENTORB3,Get Captain Britain Orbs for <color=#fff568>Illuminati Assembly</color> progress!
 ID_OF_DE_ILLUMINATIASSEMBLY_SPECIAL,"Get Captain Britain, Hank Pym and Black Panther (Shuri) Orbs for <color=#fff568>Illuminati Assembly</color> progress!"
+ID_OF_NA_GGCPREP_EVENTORB,Mayhem Management: Daily Deal
+ID_OF_NA_GGCPREP_INTERSTITIAL,Mayhem Management: Web Special
+ID_OF_NA_GGCPREP_FREE,Manage the Mayhem
+ID_OF_DE_GGCPREP_EVENTORB,Get Orderly Disorder orbs for <color=#fff568>Mayhem Management</color> progress!
+ID_OF_DE_GGCPREP_INTERSTITIAL,Stock up on Orderly Disorder Orbs and Campaign Energy for extra progress in the <color=#fff568>Mayhem Management</color> Milestone!
+ID_OF_DE_GGCPREP_FREE,Come back daily for more <color=#fff568>Mayhem Management</color> progress!
 ID_OF_NA_CBR24_GEAR_DPC_DDC,Captain Britain Returns: Heroic Return
 ID_OF_NA_CBR24_ABM,Captain Britain Returns: Unlock Your Potential
 ID_OF_NA_CBR24_GOLD_TRAIN,Captain Britain Returns: Union Jacked
