@@ -11682,7 +11682,7 @@ ID_OF_NA_ILLUMINATIASSEMBLY_EVENTORB1,Illuminati Assembly: Daily Team Orbs
 ID_OF_NA_ILLUMINATIASSEMBLY_EVENTORB2,Illuminati Assembly: Illuminati Team Orbs
 ID_OF_NA_ILLUMINATIASSEMBLY_EVENTORB3,Illuminati Assembly: Captain Britain Team Orbs
 ID_OF_NA_ILLUMINATIASSEMBLY_SPECIAL,Illuminati Assembly: Special Deal
-ID_OF_DE_ILLUMINATIASSEMBLY_FREE,Come back daily for more <color=#fff568>Illuminati</color> progress!
+ID_OF_DE_ILLUMINATIASSEMBLY_FREE,Come back daily for more <color=#fff568>Illuminati Assembly</color> progress!
 ID_OF_DE_ILLUMINATIASSEMBLY_INTERSTITIAL,You just unlocked the <color=#fff568>highest discount</color> deal for the <color=#fff568>Illuminati Assembly</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_ILLUMINATIASSEMBLY_EVENTORB1,"Get Captain Britain, Hank Pym and Black Panther (Shuri) Team Orbs for <color=#fff568>Illuminati Assembly</color> progress!"
 ID_OF_DE_ILLUMINATIASSEMBLY_EVENTORB2,Get these Team Orbs for <color=#fff568>Illuminati Assembly</color> progress!
@@ -11712,3 +11712,59 @@ ID_OF_DE_CBR24_BPSHURI_4YS_TARGET,"Power up the Wakandan Queen, <color=#fff568>B
 ID_OF_DE_CBR24_BPSHURI_TOPOFF,Wakanda Forever! <color=#fff568>Black Panther (Shuri)</color> controls the battlefield for Illuminati!
 ID_OF_DE_CBR24_HANKPYM_4YS_TARGET,"Power up the Pym Particle Powerhouse, <color=#fff568>Hank Pym</color>, for battle!"
 ID_OF_DE_CBR24_HANKPYM_TOPOFF,Support your Illuminati allies with <color=#fff568>Hank Pym</color>!
+ID_OF_NA_ILLUMINATIASSEMBLY_STREAK1,(1/8) Illuminati Assembly: Champion of the Isles
+ID_OF_NA_ILLUMINATIASSEMBLY_STREAK2,(2/8) Illuminati Assembly: Champion of the Isles
+ID_OF_NA_ILLUMINATIASSEMBLY_STREAK3,(3/8) Illuminati Assembly: Champion of the Isles
+ID_OF_NA_ILLUMINATIASSEMBLY_STREAK4,(4/8) Illuminati Assembly: Champion of the Isles
+ID_OF_NA_ILLUMINATIASSEMBLY_STREAK5,(5/8) Illuminati Assembly: Champion of the Isles
+ID_OF_NA_ILLUMINATIASSEMBLY_STREAK6,(6/8) Illuminati Assembly: Champion of the Isles
+ID_OF_NA_ILLUMINATIASSEMBLY_STREAK7,(7/8) Illuminati Assembly: Champion of the Isles
+ID_OF_NA_ILLUMINATIASSEMBLY_STREAK8,(8/8) Illuminati Assembly: Champion of the Isles
+ID_OF_DE_ILLUMINATIASSEMBLY_STREAK1,Get to <color=#fff568>Step 6</color> to acquire Captain Britain's <color=#fff568>Passive Awakened Ability!</color>  Become a true Champion of the Isles!
+ID_OF_DE_ILLUMINATIASSEMBLY_STREAK2,Get to <color=#fff568>Step 6</color> to acquire Captain Britain's <color=#fff568>Passive Awakened Ability!</color>  Become a true Champion of the Isles!
+ID_OF_DE_ILLUMINATIASSEMBLY_STREAK3,Get to <color=#fff568>Step 6</color> to acquire Captain Britain's <color=#fff568>Passive Awakened Ability!</color>  Become a true Champion of the Isles!
+ID_OF_DE_ILLUMINATIASSEMBLY_STREAK4,Get to <color=#fff568>Step 6</color> to acquire Captain Britain's <color=#fff568>Passive Awakened Ability!</color>  Become a true Champion of the Isles!
+ID_OF_DE_ILLUMINATIASSEMBLY_STREAK5,Get to <color=#fff568>Step 6</color> to acquire Captain Britain's <color=#fff568>Passive Awakened Ability!</color>  Become a true Champion of the Isles!
+ID_OF_DE_ILLUMINATIASSEMBLY_STREAK6,Unlock Captain Britain's <color=#fff568>Passive Awakened Ability</color>! Become a true Champion of the Isles!
+ID_OF_DE_ILLUMINATIASSEMBLY_STREAK7,Get these Team Orbs for <color=#fff568>Illuminati Assembly</color> progress!
+ID_OF_DE_ILLUMINATIASSEMBLY_STREAK8,Get these Team Orbs for <color=#fff568>Illuminati Assembly</color> progress!
+ID_OF_NA_EMMAFROSTXMEN_FCO_OFFER,White Queen
+ID_OF_DE_EMMAFROSTXMEN_FCO_OFFER,"Each <color=#fff568>Frost Queen Orb</color> contains <color=#fff568>up to 180 Emma Frost (X-Men)</color> shards. Sustain Astral allies with Regeneration and Barrier, while devastating enemy teams with vicious mind-control attacks."
+ID_OF_DE_EMMAFROSTXMEN_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Emma Frost (X-Men)</color> and unlock one-time only release offers on your next visit! Sustain Astral allies with Regeneration and Barrier, while devastating enemy teams with vicious mind-control attacks."
+ID_OF_DE_EMMAFROSTXMEN_OFFER_SHARD,"Power up <color=#fff568>Emma Frost (X-Men)</color> with this shard offer! Sustain Astral allies with Regeneration and Barrier, while devastating enemy teams with vicious mind-control attacks."
+ID_OF_DE_EMMAFROSTXMEN_UNLOCK_OFFER,"Unlock <color=#fff568>Emma Frost (X-Men)</color> now! Sustain Astral allies with Regeneration and Barrier, while devastating enemy teams with vicious mind-control attacks."
+ID_OF_STOREBAR_EMMAFROSTXMEN,Dual Offer: Emma Frost (X-Men)
+ID_OF_NA_DUAL_EMMAFROSTXMEN,Dual Offer: Emma Frost (X-Men)
+ID_OF_DE_DUAL_EMMAFROSTXMEN,Choose your path to power up this <color=#fff568>Astral</color> member!
+ID_OF_DE_DUAL_UNLOCK_EMMAFROSTXMEN,Unlock this <color=#fff568>Astral</color> member and <color=#fff568>one-time release offers</color> on your next visit!
+ID_OF_NA_EMMAFROSTXMEN_FCO_OFFER_BASIC,Emma Frost (X-Men) Release Offer
+ID_OF_NA_EMMAFROSTXMEN_TEAMORB,Emma Frost (X-Men) Astral Orb Offer
+ID_OF_DE_EMMAFROSTXMEN_TEAMORB,Bring the team together with this limited time orb special featuring Emma Frost (X-Men)! Open for progress in the Emma Frost (X-Men) Milestone Event!
+ID_OF_NA_EMMAFROSTXMEN_TEAMORB_TY,Emma Frost (X-Men) Astral Orb Thank You Special!
+ID_OF_DE_EMMAFROSTXMEN_TEAMORB_TY,Thank you for your support! Please enjoy this increased value orb offer.
+ID_OF_NA_EMMAFROSTXMEN_WEB_EXTRA_FCO_OFFER,Emma Frost (X-Men) Unlock Offer
+ID_OF_DE_EMMAFROSTXMEN_WEB_EXTRA_FCO_OFFER,"The White Queen, <color=#fff568>Emma Frost (X-Men)</color>, has arrived!"
+ID_OF_NA_EMMAFROSTXMEN_WEB_SPECIAL_OFFER,White Queen Special
+ID_OF_DE_EMMAFROSTXMEN_WEB_SPECIAL_OFFER,"<color=#fff568>Web Special!</color> Sustain Astral allies with Regeneration and Barrier, while devastating enemy teams with vicious mind-control attacks."
+ID_OF_NA_EMMAFROSTXMEN_WEB_STREAK1_FCO_OFFER,(1/4) Headmistress' Guidance
+ID_OF_NA_EMMAFROSTXMEN_WEB_STREAK2_FCO_OFFER,(2/4) Headmistress' Guidance
+ID_OF_NA_EMMAFROSTXMEN_WEB_STREAK3_FCO_OFFER,(3/4) Headmistress' Guidance
+ID_OF_NA_EMMAFROSTXMEN_WEB_STREAK4_FCO_OFFER,(4/4) Headmistress' Guidance
+ID_OF_DE_EMMAFROSTXMEN_WEB_STREAK1_FCO_OFFER,A special launch offer has appeared for you! Recruit Emma Frost (X-Men) today!
+ID_OF_DE_EMMAFROSTXMEN_WEB_STREAK2_FCO_OFFER,Take Emma Frost (X-Men) to the next level and make your Astrals the best they can be!
+ID_OF_DE_EMMAFROSTXMEN_WEB_STREAK3_FCO_OFFER,Take Emma Frost (X-Men) to the next level and make your Astrals the best they can be!
+ID_OF_DE_EMMAFROSTXMEN_WEB_STREAK4_FCO_OFFER,Final step towards your full potential is here for Emma Frost (X-Men)!
+ID_OF_NA_EMMAFROSTXMEN_STREAK_OFFER1,(1/6) Mental Master Special
+ID_OF_NA_EMMAFROSTXMEN_STREAK_OFFER2,(2/6) Mental Master Special
+ID_OF_NA_EMMAFROSTXMEN_STREAK_OFFER3,(3/6) Mental Master Special
+ID_OF_NA_EMMAFROSTXMEN_STREAK_OFFER4,(4/6) Mental Master Special
+ID_OF_NA_EMMAFROSTXMEN_STREAK_OFFER5,(5/6) Mental Master Special
+ID_OF_NA_EMMAFROSTXMEN_STREAK_OFFER6,(6/6) Mental Master Special
+ID_OF_DE_EMMAFROSTXMEN_STREAK_OFFER1,Don't miss out on this special launch offer for Emma Frost (X-Men)!
+ID_OF_DE_EMMAFROSTXMEN_STREAK_OFFER2,Don't miss out on this special launch offer for Emma Frost (X-Men)!
+ID_OF_DE_EMMAFROSTXMEN_STREAK_OFFER3,Don't miss out on this special launch offer for Emma Frost (X-Men)!
+ID_OF_DE_EMMAFROSTXMEN_STREAK_OFFER4,Don't miss out on this special launch offer for Emma Frost (X-Men)!
+ID_OF_DE_EMMAFROSTXMEN_STREAK_OFFER5,Don't miss out on this special launch offer for Emma Frost (X-Men)!
+ID_OF_DE_EMMAFROSTXMEN_STREAK_OFFER6,Don't miss out on this special launch offer for Emma Frost (X-Men)!
+ID_OF_NA_EMMAFROSTXMEN_GENERIC,Ice Queen
+ID_OF_NA_EMMAFROSTXMEN_OTHER,The Headmistress

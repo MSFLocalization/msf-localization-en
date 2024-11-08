@@ -10222,7 +10222,7 @@ ID_ME_DE_BATTLEPASS_SEASON34_ENDING,Battle Pass: 2 more days!
 ID_ME_BO_BATTLEPASS_SEASON34_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Captain Britain shards and Turkeys before the Season ends!"
 ID_ME_NA_ILLUMINATIASSEMBLY_TEASER,Coming Soon: Illuminati Assembly
 ID_ME_DE_ILLUMINATIASSEMBLY_CORE,Earn Captain Britain Shards!
-ID_ME_BO_ILLUMINATIASSEMBLY_CORE,"Commander,\n\nCaptain Britain returns!\n\n<color=#fff568>Illuminati Assembly Milestone</color>\nGain progress in this <color=#fff568>11-day</color> event by spending Illuminating Energy in the Illuminati showcase and from web Free Claims. You can gain additional progress by opening Illuminati Team Orbs.\n\nGood luck, Commander!"
+ID_ME_BO_ILLUMINATIASSEMBLY_CORE,"Commander,\n\nCaptain Britain returns!\n\n<color=#fff568>Illuminati Assembly Milestone</color>\nGain progress in this event by spending Illuminating Energy in the Illuminati showcase and by opening Illuminati Team Orbs. You can gain Illuminati Team Orbs from free Web Claims and special offers.\n\nGood luck, Commander!"
 ID_ME_NA_ILLUMINATIASSEMBLY_ANNOUNCE,LIVE: Illuminati Assembly
 ID_ME_NA_ILLUMINATIASSEMBLY_ENDING,Ending Soon: Illuminati Assembly
 ID_ME_DE_ILLUMINATIASSEMBLY_ENDING,Don't miss out on Captain Britain shards!
@@ -10234,3 +10234,9 @@ ID_ME_NA_COSMICBATTLE_ANNOUNCE2,LIVE: Cosmic Battle
 ID_ME_NA_COSMICBATTLE_ENDING2,Ending Soon: Cosmic Battle
 ID_ME_DE_COSMICBATTLE_ENDING2,Don't miss out on valuable Cosmic Elixir and Crimson Gear!
 ID_ME_BO_COSMICBATTLE_ENDING2,"Commander,\n\nThe Cosmic Battle Milestone <color=#fff568>ends soon</color>. Continue making progress to earn <color=#fff568>Cosmic Elixir and Crimson Gear</color> for your whole alliance! \n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_EMMAFROSTXMEN_RS_ENDING,Red Stars: Emma Frost (X-Men)
+ID_ME_DE_EMMAFROSTXMEN_RS_ENDING,Featuring Ends Soon!
+ID_ME_BO_EMMAFROSTXMEN_RS_ENDING,"Commander,\n\n<color=#fff568>Emma Frost (X-Men)</color> will only be featured in all Red Star Orbs for 2 more days!\n\nHurry and open Red Star Orbs while the drop rate is still increased."
+ID_ME_NA_EMMAFROSTXMEN_ORB_ENDING,Frost Queen Orb
+ID_ME_DE_EMMAFROSTXMEN_ORB_ENDING,2 days left!
+ID_ME_BO_EMMAFROSTXMEN_ORB_ENDING,"Commander,\n\nThe <color=#fff568>Frost Queen Orb</color> will only be available in the Shop at 675 Power Cores for <color=#fff568>2 more days</color>.\n\nDon't miss this chance to power up <color=#fff568>Emma Frost (X-Men)</color> for your <color=#fff568>Astral</color> team in Battleworld!"
