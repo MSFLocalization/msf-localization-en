@@ -5430,3 +5430,25 @@ ID_QU_LD_ASTRALASCENDANCE,"Campaign daily and play Battleworld to earn Emma Fros
 ID_QU_S1_ASTRALASCENDANCE,Spend 1 Campaign Energy
 ID_QU_S2_ASTRALASCENDANCE,Play 1 Battleworld Zone
 ID_QU_S3_ASTRALASCENDANCE,Spend 1 of any Campaign Energy type
+ID_QU_NA_LUNARREBIRTH,Lunar Rebirth
+ID_QU_DE_LUNARREBIRTH,Earn T3 Iso-8 Ions and Crimson Bio Gear
+ID_QU_LD_LUNARREBIRTH,"Lunar Rebirth Milestone\nGain progress in this event by earning Shadow Orb fragments from Campaign, battling through Blitz with The Ancient One, Emma Frost(X-Men), Annihilator, or Illuminati, Win or Lose in Battleworld, completing the Stellar Conquest Web Milestone and daily web Free Claims. Earn fantastic rewards including  T3 Iso-8 Credits, T3 Level 1 Ions, Dark Promotion Credits and Bio gear. You'll also earn points towards the month-long Cosmic Awakening milestone by collecting Turkeys and Lunar Scepter.\n\nShadow Orb\nEarned from Campaign, daily web Free Claims, and select offers.\n\nLunar Rebirth Leaderboard\nCompete on the Leaderboards for Crimson Gear and Diamond Promotions for Ancient One!\n\nStellar Conquest Web Milestone\nSpend Turkeys to earn Points for Lunar Rebirth Milestone progress! Keep an eye out for Free Claims containing milestone points every day!\n\n"
+ID_QU_SD_LUNARREBIRTH,Earn T3 Iso-8 Ions and Crimson Bio Gear
+ID_QU_S1_LUNARREBIRTH,Earn 1 Shadow Orb Fragment
+ID_QU_S2_LUNARREBIRTH,Win or Lose in Battleworld
+ID_QU_S3_LUNARREBIRTH,Blitz with Annihilator Team
+ID_QU_S4_LUNARREBIRTH,Blitz with Illuminati Team
+ID_QU_S5_LUNARREBIRTH,Blitz with Thanos (Endgame) at 6 Yellow Star
+ID_QU_S6_LUNARREBIRTH,Blitz with Thanos (Endgame) at 7 Yellow Star
+ID_QU_S7_LUNARREBIRTH,Blitz with Captain Britain at 6 Yellow Star
+ID_QU_S8_LUNARREBIRTH,Blitz with Captain Britain at 7 Yellow Star
+ID_QU_S9_LUNARREBIRTH,Blitz with Ancient One at 5 Yellow Star
+ID_QU_S10_LUNARREBIRTH,Blitz with Ancient One at 6 Yellow Star
+ID_QU_S11_LUNARREBIRTH,Blitz with Ancient One at 7 Yellow Star
+ID_QU_S12_LUNARREBIRTH,Blitz with Emma Frost(X-Men) at 5 Yellow Star
+ID_QU_S13_LUNARREBIRTH,Blitz with Emma Frost(X-Men) at 6 Yellow Star
+ID_QU_S14_LUNARREBIRTH,Blitz with Emma Frost(X-Men) at 7 Yellow Star
+ID_QU_NA_STELLARCONQUEST3,Stellar Conquest 3
+ID_QU_SD_STELLARCONQUEST3,Spend Turkey in the Turkey Store!
+ID_QU_LD_STELLARCONQUEST3,"Spend Turkey on fabulous goods in the Turkey Store, and be rewarded with additional progress in Lunar Rebirth and Dr. Strange Ultimate Awakened Ability!"
+ID_QU_S1_STELLARCONQUEST3,Spend Turkey in the Turkey Store

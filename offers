@@ -11734,7 +11734,7 @@ ID_OF_DE_ILLUMINATIASSEMBLY_STREAK5,Get to <color=#fff568>Step 6</color> to acqu
 ID_OF_DE_ILLUMINATIASSEMBLY_STREAK6,Unlock Captain Britain's <color=#fff568>Passive Awakened Ability</color>! Become a true Champion of the Isles!
 ID_OF_DE_ILLUMINATIASSEMBLY_STREAK7,Get these Team Orbs for <color=#fff568>Illuminati Assembly</color> progress!
 ID_OF_DE_ILLUMINATIASSEMBLY_STREAK8,Get these Team Orbs for <color=#fff568>Illuminati Assembly</color> progress!
-ID_OF_NA_EMMAFROSTXMEN_FCO_OFFER,White Queen
+ID_OF_NA_EMMAFROSTXMEN_FCO_OFFER,Reformed Queen
 ID_OF_DE_EMMAFROSTXMEN_FCO_OFFER,"Each <color=#fff568>Frost Queen Orb</color> contains <color=#fff568>up to 180 Emma Frost (X-Men)</color> shards. Sustain Astral allies with Regeneration and Barrier, while devastating enemy teams with vicious mind-control attacks."
 ID_OF_DE_EMMAFROSTXMEN_OFFER_VAR_SU,"Recruit a <color=#fff568>{var1}-star Emma Frost (X-Men)</color> and unlock one-time only release offers on your next visit! Sustain Astral allies with Regeneration and Barrier, while devastating enemy teams with vicious mind-control attacks."
 ID_OF_DE_EMMAFROSTXMEN_OFFER_SHARD,"Power up <color=#fff568>Emma Frost (X-Men)</color> with this shard offer! Sustain Astral allies with Regeneration and Barrier, while devastating enemy teams with vicious mind-control attacks."
@@ -11745,12 +11745,12 @@ ID_OF_DE_DUAL_EMMAFROSTXMEN,Choose your path to power up this <color=#fff568>Ast
 ID_OF_DE_DUAL_UNLOCK_EMMAFROSTXMEN,Unlock this <color=#fff568>Astral</color> member and <color=#fff568>one-time release offers</color> on your next visit!
 ID_OF_NA_EMMAFROSTXMEN_FCO_OFFER_BASIC,Emma Frost (X-Men) Release Offer
 ID_OF_NA_EMMAFROSTXMEN_TEAMORB,Emma Frost (X-Men) Astral Orb Offer
-ID_OF_DE_EMMAFROSTXMEN_TEAMORB,Bring the team together with this limited time orb special featuring Emma Frost (X-Men)! Open for progress in the Emma Frost (X-Men) Milestone Event!
+ID_OF_DE_EMMAFROSTXMEN_TEAMORB,Bring the team together with this limited time orb special featuring Emma Frost (X-Men)!
 ID_OF_NA_EMMAFROSTXMEN_TEAMORB_TY,Emma Frost (X-Men) Astral Orb Thank You Special!
 ID_OF_DE_EMMAFROSTXMEN_TEAMORB_TY,Thank you for your support! Please enjoy this increased value orb offer.
 ID_OF_NA_EMMAFROSTXMEN_WEB_EXTRA_FCO_OFFER,Emma Frost (X-Men) Unlock Offer
-ID_OF_DE_EMMAFROSTXMEN_WEB_EXTRA_FCO_OFFER,"The White Queen, <color=#fff568>Emma Frost (X-Men)</color>, has arrived!"
-ID_OF_NA_EMMAFROSTXMEN_WEB_SPECIAL_OFFER,White Queen Special
+ID_OF_DE_EMMAFROSTXMEN_WEB_EXTRA_FCO_OFFER,"The Reformed Queen, <color=#fff568>Emma Frost (X-Men)</color>, has arrived!"
+ID_OF_NA_EMMAFROSTXMEN_WEB_SPECIAL_OFFER,Reformed Queen Special
 ID_OF_DE_EMMAFROSTXMEN_WEB_SPECIAL_OFFER,"<color=#fff568>Web Special!</color> Sustain Astral allies with Regeneration and Barrier, while devastating enemy teams with vicious mind-control attacks."
 ID_OF_NA_EMMAFROSTXMEN_WEB_STREAK1_FCO_OFFER,(1/4) Headmistress' Guidance
 ID_OF_NA_EMMAFROSTXMEN_WEB_STREAK2_FCO_OFFER,(2/4) Headmistress' Guidance
@@ -11772,5 +11772,31 @@ ID_OF_DE_EMMAFROSTXMEN_STREAK_OFFER3,Don't miss out on this special launch offer
 ID_OF_DE_EMMAFROSTXMEN_STREAK_OFFER4,Don't miss out on this special launch offer for Emma Frost (X-Men)!
 ID_OF_DE_EMMAFROSTXMEN_STREAK_OFFER5,Don't miss out on this special launch offer for Emma Frost (X-Men)!
 ID_OF_DE_EMMAFROSTXMEN_STREAK_OFFER6,Don't miss out on this special launch offer for Emma Frost (X-Men)!
-ID_OF_NA_EMMAFROSTXMEN_GENERIC,Ice Queen
+ID_OF_NA_EMMAFROSTXMEN_GENERIC,Frost Queen
 ID_OF_NA_EMMAFROSTXMEN_OTHER,The Headmistress
+ID_OF_NA_LUNARREBIRTH_STARTER,Lunar Rebirth: Starter
+ID_OF_NA_LUNARREBIRTH_CATCHUP,Lunar Rebirth: Catch-up
+ID_OF_NA_LUNARREBIRTH_WEB_SPECIAL,Lunar Rebirth: Web Special
+ID_OF_NA_LUNARREBIRTH_DAILY_ORB,Lunar Rebirth: Daily Orb
+ID_OF_NA_LUNARREBIRTH_DAILY_POINTS,Lunar Rebirth: Daily Points
+ID_OF_NA_LUNARREBIRTH_DAILY_ENERGY,Lunar Rebirth: Daily Energy
+ID_OF_NA_LUNARREBIRTH_ANNIHILATORS,Lunar Rebirth: Annihilators
+ID_OF_NA_LUNARREBIRTH_THANOS_ENDGAME,Lunar Rebirth: Thanos (Endgame)
+ID_OF_NA_LUNARREBIRTH_DAILY_FREE_CLAIM,Lunar Rebirth: Free Claim
+ID_OF_NA_LUNARREBIRTH_DAILY_INTERSTITIAL,Lunar Rebirth: Hidden Vault
+ID_OF_NA_LUNARREBIRTH_FREE_CLAIM_2_PIVOT,Lunar Rebirth: Free Claim
+ID_OF_NA_LUNARREBIRTH_INTERSTITIAL_2_PIVOT,Lunar Rebirth: Hidden Treasure
+ID_OF_NA_LUNARREBIRTH_MID_EVENT_SPECIAL_PIVOT,Lunar Rebirth: Special Bundle
+ID_OF_DE_LUNARREBIRTH_STARTER,Get ahead in the <color=#fff568>Lunar Rebirth</color> Milestone and fast-forward your way to <color=#f12603>T3 Iso-8 Ions</color> and <color=#fff568>Crimson Bio Gear</color>!
+ID_OF_DE_LUNARREBIRTH_CATCHUP,Finish strong in the milestones to earn <color=#f12603>T3 Iso-8 Ions</color> and <color=#fff568>Crimson Bio Gear</color>!
+ID_OF_DE_LUNARREBIRTH_WEB_SPECIAL,Fend off the hordes with this Lunar Rebirth special web bundle!
+ID_OF_DE_LUNARREBIRTH_DAILY_ORB,Make progress in the Lunar Rebirth Prep milestone by collecting more <color=#fff568>Shadow Orb Fragments</color> to exchange for amazing rewards!
+ID_OF_DE_LUNARREBIRTH_DAILY_POINTS,Get ahead in the <color=#fff568>Lunar Rebirth</color> Milestone and start making your way toward <color=#fff568>Ancient One Diamond Promotions</color> and <color=#E0B0FF>T3 Iso-8 Materials</color>!
+ID_OF_DE_LUNARREBIRTH_DAILY_ENERGY,Get your daily dose of Campaign Energy for progress in the Lunar Rebirth milestone!
+ID_OF_DE_LUNARREBIRTH_ANNIHILATORS,Power up your Annihilators team with this shard offer!
+ID_OF_DE_LUNARREBIRTH_THANOS_ENDGAME,Dont Miss Out: Last Chance to get Thanos (Endgame) shards
+ID_OF_DE_LUNARREBIRTH_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Lunar Rebirth</color> progress!
+ID_OF_DE_LUNARREBIRTH_DAILY_INTERSTITIAL,You just unlocked the <color=#fff568>best discount deal</color> for the <color=#fff568>Lunar Rebirth</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_LUNARREBIRTH_FREE_CLAIM_2_PIVOT,Come back daily for more <color=#fff568>Lunar Rebirth</color> progress!
+ID_OF_DE_LUNARREBIRTH_INTERSTITIAL_2_PIVOT,You just unlocked the highest discount deal for the <color=#fff568>Lunar Rebirth</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_LUNARREBIRTH_MID_EVENT_SPECIAL_PIVOT,Claim this mega deal leap to the top of the leaderboard in the <color=#fff568>Lunar Rebirth</color> Milestone for <color=#fff568>Turkeys and T3 Level 1 Ions</color>!
