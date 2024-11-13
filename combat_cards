@@ -246,6 +246,20 @@ ID_SCOURGE_CARD_160_NAME,Hard as Diamond
 ID_SCOURGE_CARD_160_DESC,<color=#fff568>VILLAIN CONTROLLER</color> Characters gain an additional +<color=#fff568>20% Health</color> and +<color=#fff568>10% Block Chance</color>
 ID_SCOURGE_CARD_161_NAME,Glorious Purpose
 ID_SCOURGE_CARD_161_DESC,"When a Character heals themself, they recover an additional +<color=#fff568>10% Health</color>"
+ID_SCOURGE_CARD_162_NAME,Are You Not Entertained
+ID_SCOURGE_CARD_162_DESC,All <color=#86e619>Arena</color> Abilities are active during this run
+ID_SCOURGE_CARD_163_NAME,Magneto Was Right
+ID_SCOURGE_CARD_163_DESC,All <color=#86e619>MUTANT VILLAIN</color> Characters deal an extra 15% Damage
+ID_SCOURGE_CARD_164_NAME,Resistance is Futile
+ID_SCOURGE_CARD_164_DESC,"When a <color=#86e619>TECH VILLAIN</color> Characters spawns, enemies lose 10% Resist"
+ID_SCOURGE_CARD_165_NAME,Dark Cosmic Rays
+ID_SCOURGE_CARD_165_DESC,"At the start of their turn, <color=#86e619>COSMIC VILLAIN</color> Characters gain 5% Speed bar for every Positive Status Effect they have"
+ID_SCOURGE_CARD_166_NAME,Devour
+ID_SCOURGE_CARD_166_DESC,"When a <color=#86e619>BIO VILLAIN</color> Characters defeats an enemy, Heal them for 10% of their Max Health"
+ID_SCOURGE_CARD_167_NAME,Villainous Momentum
+ID_SCOURGE_CARD_167_DESC,"When a Character defeats a <color=#86e619>HERO</color> Character, they gain 50% Speed bar"
+ID_SCOURGE_CARD_168_NAME,Stronger Together
+ID_SCOURGE_CARD_168_DESC,"<color=#86e619>GLOBAL HERO</color> Characters gain 5% Damage for each <color=#fff568>AVENGER</color>, <color=#fff568>WAKANDAN</color> or <color=#fff568>INHUMAN</color> ally"
 ID_ORCHIS_MOD_001_NAME,Hive-Mind Enhancer I
 ID_ORCHIS_MOD_002_NAME,X-Treme X-Men Enhancer I
 ID_ORCHIS_MOD_003_NAME,Nightstalker Enhancer I

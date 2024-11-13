@@ -11790,7 +11790,7 @@ ID_OF_NA_LUNARREBIRTH_MID_EVENT_SPECIAL_PIVOT,Lunar Rebirth: Special Bundle
 ID_OF_DE_LUNARREBIRTH_STARTER,Get ahead in the <color=#fff568>Lunar Rebirth</color> Milestone and fast-forward your way to <color=#f12603>T3 Iso-8 Ions</color> and <color=#fff568>Crimson Bio Gear</color>!
 ID_OF_DE_LUNARREBIRTH_CATCHUP,Finish strong in the milestones to earn <color=#f12603>T3 Iso-8 Ions</color> and <color=#fff568>Crimson Bio Gear</color>!
 ID_OF_DE_LUNARREBIRTH_WEB_SPECIAL,Fend off the hordes with this Lunar Rebirth special web bundle!
-ID_OF_DE_LUNARREBIRTH_DAILY_ORB,Make progress in the Lunar Rebirth Prep milestone by collecting more <color=#fff568>Shadow Orb Fragments</color> to exchange for amazing rewards!
+ID_OF_DE_LUNARREBIRTH_DAILY_ORB,Make progress in the Lunar Rebirth milestone by collecting more <color=#fff568>Shadow Orb Fragments</color> to exchange for amazing rewards!
 ID_OF_DE_LUNARREBIRTH_DAILY_POINTS,Get ahead in the <color=#fff568>Lunar Rebirth</color> Milestone and start making your way toward <color=#fff568>Ancient One Diamond Promotions</color> and <color=#E0B0FF>T3 Iso-8 Materials</color>!
 ID_OF_DE_LUNARREBIRTH_DAILY_ENERGY,Get your daily dose of Campaign Energy for progress in the Lunar Rebirth milestone!
 ID_OF_DE_LUNARREBIRTH_ANNIHILATORS,Power up your Annihilators team with this shard offer!
@@ -11800,3 +11800,89 @@ ID_OF_DE_LUNARREBIRTH_DAILY_INTERSTITIAL,You just unlocked the <color=#fff568>be
 ID_OF_DE_LUNARREBIRTH_FREE_CLAIM_2_PIVOT,Come back daily for more <color=#fff568>Lunar Rebirth</color> progress!
 ID_OF_DE_LUNARREBIRTH_INTERSTITIAL_2_PIVOT,You just unlocked the highest discount deal for the <color=#fff568>Lunar Rebirth</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_LUNARREBIRTH_MID_EVENT_SPECIAL_PIVOT,Claim this mega deal leap to the top of the leaderboard in the <color=#fff568>Lunar Rebirth</color> Milestone for <color=#fff568>Turkeys and T3 Level 1 Ions</color>!
+ID_OF_NA_ASTRAL24_CRIMSON_UNIQUES,Astral Crimson Uniques
+ID_OF_NA_ASTRAL24_ANCIENTONE_A19,Ancient One's Crimson Power
+ID_OF_NA_ASTRAL24_AGATHAHARKNESS,Astral Geometry Lesson
+ID_OF_NA_ASTRAL24_CRIMSON_MINIUNIQUES,Astral Crimson Mini-Uniques
+ID_OF_NA_ASTRAL24_TEAL_UNIQUES,Astral's Mystic Power
+ID_OF_NA_ASTRAL24_ANCIENTONE,Ancient One's Meditative Practice
+ID_OF_NA_ASTRAL24_MOONKNIGHT_TEALUNIQUE_GOLD,Mystical Power Up
+ID_OF_NA_ASTRAL24_ANCIENTONE_A19_DPC,Ancient One Super Pack
+ID_OF_NA_ASTRAL24_ANCIENTONE_CRIMSONORIGIN,Ancient One's Crimson Origins
+ID_OF_NA_ASTRAL24_TEAL_MINIUNIQUES,Astral Plane Equipment
+ID_OF_NA_ASTRAL24_A19_TRAIN_GOLD,Astral Crimson Power Up
+ID_OF_NA_ASTRAL24_TRAIN_GOLD_A18_A17_T2L5,Astral Boost Up
+ID_OF_NA_ASTRAL24_ANCIENTONE_A19_TRAIN_DDC,Ancient One Elite Pack
+ID_OF_NA_ASTRAL24_ANCIENTONE_A18_DPC,Ancient One Power Up
+ID_OF_NA_ASTRAL24_ANCIENTONE_DIAMOND_GOLD,Ancient One Super Boost
+ID_OF_NA_ASTRAL24_ANCIENTONE_EMMAFROSTXMEN_A19_GOLD_E7,Astral Ultimate Pack
+ID_OF_NA_ASTRAL24_EMMAFROSTXMEN_A19,Emma Frost (X-Men)'s Crimson Power
+ID_OF_NA_ASTRAL24_ANCIENTONE_EMMAFROSTXMEN_A19_DPC,Astral Super Pack
+ID_OF_NA_ASTRAL24_EMMAFROSTXMEN,The Reformed Educator
+ID_OF_NA_ASTRAL24_ANCIENTONE_EMMAFROSTXMEN_A19_TRAIN,Astral Elite Training
+ID_OF_NA_ASTRAL24_EMMAFROSTXMEN_CRIMSONORIGIN,Emma Frost (X-Men)'s Crimson Origins
+ID_OF_NA_ASTRAL24_EMMAFROSTXMEN_TRAIN_DPC,Headmistress' Training
+ID_OF_NA_ASTRAL24_ANCIENTONE_EMMAFROSTXMEN_TRAIN,Astral Preparation
+ID_OF_NA_ASTRAL24_ANCIENTONE_EMMAFROSTXMEN_GOLD,Astral Dominion
+ID_OF_NA_ASTRAL24_FULL_TEAM_TRAIN,Astral Team Pack
+ID_OF_DE_ASTRAL24_CRIMSON_UNIQUES,Gear up your <color=#fff568>Astral</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ASTRAL24_ANCIENTONE_A19,Power up your <color=#fff568>Ancient One</color> to unlock all his Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ASTRAL24_AGATHAHARKNESS,"Boost up the newly updated Astral members, <color=#fff568>Moondragon and Dr. Strange</color>, with this special offer today!"
+ID_OF_DE_ASTRAL24_CRIMSON_MINIUNIQUES,Upgrade your <color=#fff568>Astral</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ASTRAL24_TEAL_UNIQUES,Gear up your <color=#fff568>Astral</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ASTRAL24_ANCIENTONE,"Raise the potential of the newly added Astral member, <color=#fff568>Ancient One</color>, with this special offer today!"
+ID_OF_DE_ASTRAL24_MOONKNIGHT_TEALUNIQUE_GOLD,"Power up the newly updated Astral members, <color=#fff568>Moondragon and Dr. Strange</color>, with this special offer today!"
+ID_OF_DE_ASTRAL24_ANCIENTONE_A19_DPC,Train and level up <color=#ffda21>Ancient One</color> with this great deal.
+ID_OF_DE_ASTRAL24_ANCIENTONE_CRIMSONORIGIN,Power up your <color=#fff568>Ancient One</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ASTRAL24_TEAL_MINIUNIQUES,Upgrade your <color=#fff568>Astral</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ASTRAL24_A19_TRAIN_GOLD,Boost up your <color=#fff568>Astral</color> team's power to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ASTRAL24_TRAIN_GOLD_A18_A17_T2L5,Boost up your <color=#fff568>Astral</color> team's power to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ASTRAL24_ANCIENTONE_A19_TRAIN_DDC,Prepare your <color=#fff568>Ancient One</color> to conquer all the difficulties in the Showcase Event!
+ID_OF_DE_ASTRAL24_ANCIENTONE_A18_DPC,Power up your <color=#fff568>Ancient One</color> to unlock all his Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ASTRAL24_ANCIENTONE_DIAMOND_GOLD,Boost up your <color=#fff568>Ancient One</color> 's power to unlock all his Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ASTRAL24_ANCIENTONE_EMMAFROSTXMEN_A19_GOLD_E7,Get ready to gear up <color=#ffda21>Ancient One & Emma Frost (X-Men)</color> with this great deal.
+ID_OF_DE_ASTRAL24_EMMAFROSTXMEN_A19,Improve your <color=#fff568>Emma Frost (X-Men)</color> to conquer all her Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ASTRAL24_ANCIENTONE_EMMAFROSTXMEN_A19_DPC,Improve and gear up your <color=#ffda21>Ancient One & Emma Frost (X-Men)</color> with this great deal.
+ID_OF_DE_ASTRAL24_EMMAFROSTXMEN,"Empower the newly added Astral member, <color=#fff568>Emma Frost (X-Men)</color>, with this special offer today!"
+ID_OF_DE_ASTRAL24_ANCIENTONE_EMMAFROSTXMEN_A19_TRAIN,Train and level up <color=#ffda21>Ancient One & Emma Frost (X-Men)</color> with this great deal.
+ID_OF_DE_ASTRAL24_EMMAFROSTXMEN_CRIMSONORIGIN,Improve your <color=#fff568>Emma Frost (X-Men)</color> to unlock all her Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ASTRAL24_EMMAFROSTXMEN_TRAIN_DPC,Train and level up to max out your <color=#ffda21>Emma Frost (X-Men)</color>!
+ID_OF_DE_ASTRAL24_ANCIENTONE_EMMAFROSTXMEN_TRAIN,Prepare your <color=#fff568>Ancient One & Emma Frost (X-Men)</color> to conquer all the difficulties in their Showcase Event!
+ID_OF_DE_ASTRAL24_ANCIENTONE_EMMAFROSTXMEN_GOLD,Power up your <color=#fff568>Ancient One & Emma Frost (X-Men)</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ASTRAL24_FULL_TEAM_TRAIN,Recruit your entire <color=#fff568>Astral</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_NA_THANKSGIVING24_STREAK,Charming Cornucopia
+ID_OF_NA_THANKSGIVING24_GOLD_MEGAGORB,Thanksgiving Gold Super Pack
+ID_OF_NA_THANKSGIVING24_DDC_DPC_E7,Thanksgiving Redstar Rally Super Pack
+ID_OF_NA_THANKSGIVING24_TRAIN_A19,Thanksgiving Training Booster
+ID_OF_NA_THANKSGIVING24_BLADE_SHARD_TEAL_UNIQUE,Thanksgiving Day Walker
+ID_OF_NA_THANKSGIVING24_GOLD_GORB,Thanksgiving Gold Pack
+ID_OF_NA_THANKSGIVING24_TRAINING_ABM,Thanksgiving Ability Training
+ID_OF_NA_THANKSGIVING24_ABM_GOLD,Thanksgiving Ability Booster
+ID_OF_NA_THANKSGIVING24_BLADE_OATH_CRIMSON_UNIQUE,Thanksgiving Crimson Stalkers
+ID_OF_NA_THANKSGIVING24_DPC_E7,Thanksgiving Promotion Credits
+ID_OF_NA_THANKSGIVING24_OATH_SHARD_GORB,Thanksgiving Oath Booster
+ID_OF_NA_THANKSGIVING24_GOLD_GORB_DIAMOND,Thanksgiving Gold Mega Pack
+ID_OF_NA_THANKSGIVING24_DPC_MORB,Thanksgiving Dark Promotion
+ID_OF_NA_THANKSGIVING24_NIMROD_OMEGASENTINEL_A19_A18,Thanksgiving Orchis Reinforcements
+ID_OF_NA_THANKSGIVING24_CRIMSON_GEAR_GOLD,Thanksgiving Crimson Magic
+ID_OF_NA_THANKSGIVING24_TRAINING_BASIC,Thanksgiving Training
+ID_OF_NA_THANKSGIVING24_COMBO_MEGA,Thanksgiving Combo Mega Pack
+ID_OF_NA_THANKSGIVING24_COMBO,Thanksgiving Combo Pack
+ID_OF_DE_THANKSGIVING24_STREAK,Fill your plate with this Thanksgiving special!
+ID_OF_DE_THANKSGIVING24_GOLD_MEGAGORB,Stock up on Gold and Diamond Orbs to upgrade your roster with this Thanksgiving special offer.
+ID_OF_DE_THANKSGIVING24_DDC_DPC_E7,"Boost up your roster power by stocking Dark Diamond Credits, Dark Promotion Credits and Elite 7 Credits with this Thanksgiving exclusive offer."
+ID_OF_DE_THANKSGIVING24_TRAIN_A19,Stock up on Training Modules and level up your roster with this Thanksgiving special offer.
+ID_OF_DE_THANKSGIVING24_BLADE_SHARD_TEAL_UNIQUE,Power up Blade with this high value Thanksgiving special offer.
+ID_OF_DE_THANKSGIVING24_GOLD_GORB,Stock up on Gold and upgrade your roster with this Thanksgiving special.
+ID_OF_DE_THANKSGIVING24_TRAINING_ABM,Stock up on Training Modules and T4 Ability Materials to upgrade your roster with this Thanksgiving web exclusive.
+ID_OF_DE_THANKSGIVING24_ABM_GOLD,Stock up on Gold and T4 Ability Material to upgrade your roster with this Thanksgiving special offer.
+ID_OF_DE_THANKSGIVING24_BLADE_OATH_CRIMSON_UNIQUE,Maximize the power of your Nightstalkers using Crimson gear with this high value Thanksgiving special offer.
+ID_OF_DE_THANKSGIVING24_DPC_E7,Boost up the Red Star rank of your roster by stocking Dark Promotion Credits and Elite 7 Credits with this Thanksgiving special offer.
+ID_OF_DE_THANKSGIVING24_OATH_SHARD_GORB,Power up Oath with this high value Thanksgiving special offer.
+ID_OF_DE_THANKSGIVING24_GOLD_GORB_DIAMOND,Stock up on Gold and Diamond Orbs to upgrade your roster with this web exclusive Thanksgiving specia!
+ID_OF_DE_THANKSGIVING24_DPC_MORB,Boost up your roster Power with this Thanksgiving special offer.
+ID_OF_DE_THANKSGIVING24_NIMROD_OMEGASENTINEL_A19_A18,Bring in and power up the Orchis powerhouses with this special offer for Thanksgiving. <color=#fc03d7>Greater than a {var1}x value</color>!
+ID_OF_DE_THANKSGIVING24_CRIMSON_GEAR_GOLD,Maximize your power using Crimson gear with this high value Thanksgiving special offer
+ID_OF_DE_THANKSGIVING24_TRAINING_BASIC,Level up your roster using Training Modules with this Thanksgiving special offer for the holiday.
+ID_OF_DE_THANKSGIVING24_COMBO_MEGA,Power up your top characters with this all-in-one super <color=#fc03d7>{var1}x value</color> bundle for Thanksgiving.
+ID_OF_DE_THANKSGIVING24_COMBO,Power up your top characters with this all-in-one <color=#fc03d7>{var1}x value</color> bundle for Thanksgiving.
