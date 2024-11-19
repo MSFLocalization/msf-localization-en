@@ -10287,3 +10287,15 @@ ID_ME_NA_GALACTICAWAKENING_ANNOUNCE,LIVE: Galactic Awakening
 ID_ME_NA_GALACTICAWAKENING_ENDING,ENDING: Galactic Awakening
 ID_ME_DE_GALACTICAWAKENING_ENDING,Don't miss out on Iso-8 Materials and Ancient One Shards!
 ID_ME_BO_GALACTICAWAKENING_ENDING,"Commander,\n\nThe Galactic Awakening Event <color=#fff568>ends soon</color>. Don't miss this opportunity to earn T3 Iso-8 Materials and Ancient One Shards!\n\nGood luck, Commander!"
+ID_ME_NA_STRIKEPASS73_ANNOUNCE,S.T.R.I.K.E. Pass: Season 73
+ID_ME_DE_STRIKEPASS73_ANNOUNCE,Earn Captain Britain Shards!
+ID_ME_BO_STRIKEPASS73_ANNOUNCE,"Commander,\n\n<color=#fff568>S.T.R.I.K.E. Pass: Season 73 is live!</color>\n\nFeatured Character Shards: <color=#fff568>Captain Britain</color>\n<color=#fff568>How it Works</color>\n- Certain Daily Objectives reward S.T.R.I.K.E. Tokens\n- Earn S.T.R.I.K.E. Tokens to hit Season-long milestone rewards\n- You can also spend Power Cores to immediately reach the next S.T.R.I.K.E. Level\n- Your S.T.R.I.K.E. Level resets each Season\n\n<color=#fff568>Reward Tiers</color>\n- Commander Level determines your S.T.R.I.K.E. Pass Tier & Rewards\n- S.T.R.I.K.E. I: Commander Levels 10-49\n- S.T.R.I.K.E. II: Commander Levels 50-79\n- S.T.R.I.K.E. III: Commander Levels 80+\n- Your Commander Level at the START of the season determines which S.T.R.I.K.E. Pass Tier you get for the duration of the Season\n\n<color=#fff568>Premium S.T.R.I.K.E. Pass</color>\nUpgrade to the <color=#fff568>Premium S.T.R.I.K.E. Pass</color> to earn additional rewards for reaching each S.T.R.I.K.E. Level."
+ID_ME_NA_STRIKEPASS73_ENDING,Ending: S.T.R.I.K.E. Pass
+ID_ME_DE_STRIKEPASS73_ENDING,Don't miss Captain Britain!
+ID_ME_BO_STRIKEPASS73_ENDING,"Commander,\n\nYou only have <color=#fff568>2 days</color> remaining to earn <color=#fff568>Captain Britain</color> shards in Season 73 of S.T.R.I.K.E. Pass.\n\nHurry and complete your Daily Objectives before these rewards are gone!"
+ID_ME_NA_BATTLEPASS_SEASON35_ANNOUNCE,Battle Pass: Season 35
+ID_ME_DE_BATTLEPASS_SEASON35_ANNOUNCE,Earn Omega Sentinel shards & Dark Promotion Credits!
+ID_ME_BO_BATTLEPASS_SEASON35_ANNOUNCE,"Commander,\n\n<color=#fff568>Battle Pass: Season 35 is LIVE</color>!\n\nComplete this Season's Daily and Weekly Objectives to win these <color=#fff568>Featured Prizes</color>:\n- Omega Sentinel shards\n- Dark Promotion Credits\n\nUpgrade to the <color=#fff568>Premium Pass</color> to earn even more rewards.\n\nCharge into Battle Pass: Season 35 today!"
+ID_ME_NA_BATTLEPASS_SEASON35_ENDING,Season 35 Ending Soon
+ID_ME_DE_BATTLEPASS_SEASON35_ENDING,Battle Pass: 2 more days!
+ID_ME_BO_BATTLEPASS_SEASON35_ENDING,"Commander,\n\nThere are only <color=#fff568>2 more days</color> until this Season of Battle Pass ends.\n\nHit your Objectives to earn Omega Sentinel shards and Dark Promotion Credits before the Season ends!"

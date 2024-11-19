@@ -11929,3 +11929,67 @@ ID_OF_DE_GALACTICAWAKENINGDAILY_FREE_CLAIM,Come back daily for more <color=#fff5
 ID_OF_DE_GALACTICAWAKENING_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Galactic Awakening</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_DE_GALACTICAWAKENINGDAILY_FREE_CLAIM2,Come back daily for more <color=#fff568>Galactic Awakening</color> progress!
 ID_OF_DE_GALACTICAWAKENING_DAILY_INTERSTITIAL2,You just unlocked the highest discount deal for the <color=#fff568>Galactic Awakening</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_SK24_WEB,Shadow King Trials: Light in the Darkness
+ID_OF_NA_SK24_GOLD,Shadow King Trials: All That Glitters
+ID_OF_NA_SK24_TRAINING,Shadow King Trials: Train Train Train!
+ID_OF_NA_SK24_PURPLE_ION,Shadow King Trials: Purple Ions
+ID_OF_NA_SK24_ILLUMINATI_CRIMSON_UNIQUE,Shadow King Trials: Illuminati Crimson Uniques
+ID_OF_NA_SK24_ANNHILATOR_CRIMSON_UNIQUE,Shadow King Trials: Annihilators Crimson Uniques
+ID_OF_NA_SK24_BPSHURI_4YS_TARGET,Shadow King Trials: For Wakanda!
+ID_OF_NA_SK24_BPSHURI_TOPOFF,Shadow King Trials: Black Panther (Shuri)
+ID_OF_NA_SK24_HANKPYM_4YS_TARGET,Shadow King Trials: Pym Particle Progenitor
+ID_OF_NA_SK24_HANKPYM_TOPOFF,Shadow King Trials: Hank Pym
+ID_OF_NA_SK24_THANOSENDGAME_4YS_TARGET,Shadow King Trials: Mad Titan
+ID_OF_NA_SK24_THANOSENDGAME_TOPOFF,Shadow King Trials: Thanos (Endgame)
+ID_OF_NA_SK24_GLADIATOR_4YS_TARGET,Shadow King Trials: Praetor's Might
+ID_OF_NA_SK24_GLADIATOR_TOPOFF,Shadow King Trials: Gladiator
+ID_OF_NA_SK24_GORR_4YS_TARGET,Shadow King Trials: The God Butcher
+ID_OF_NA_SK24_GORR_TOPOFF,Shadow King Trials: Gorr
+ID_OF_NA_SK24_PURPLE_IONS_SUPPORT,Shadow King Trials: Support Iso-8
+ID_OF_NA_SK24_PURPLE_IONS_CONTROLLER,Shadow King Trials: Controller Iso-8
+ID_OF_NA_SK24_PURPLE_IONS_PROTECTOR,Shadow King Trials: Protector Iso-8
+ID_OF_NA_SK24_PURPLE_IONS_BRAWLER,Shadow King Trials: Brawler Iso-8
+ID_OF_NA_SK24_PURPLE_IONS_BLASTER,Shadow King Trials: Blaster Iso-8
+ID_OF_NA_SK24_ILLUMINATI_TEAM,Shadow King Trials: Illuminati Unite!
+ID_OF_NA_SK24_ANNIHILATOR_TEAM,Shadow King Trials: Annihilators Assemble!
+ID_OF_DE_SK24_WEB,<color=#fff568>2x Value!</color> Dive into the <color=#aa68ff>Shadow King Trials!</color> Take advantage of this great value of coin and ability!
+ID_OF_DE_SK24_GOLD,<color=#fff568>2x Value!</color> <color=#aa68ff>Shadow King Trials!</color> will test your mettle! Take advantage of this deal!
+ID_OF_DE_SK24_TRAINING,Get your fitness up! You'll need it to get through the <color=#aa68ff>Shadow King Trials!</color>
+ID_OF_DE_SK24_PURPLE_ION,Embolden your roster with T3 L1 Ions! You'll need the Oomph to get through the <color=#aa68ff>Shadow King Trials!</color>
+ID_OF_DE_SK24_ILLUMINATI_CRIMSON_UNIQUE,Get a boost for your Illuminati Roster with Crimson Mini-Uniques!
+ID_OF_DE_SK24_ANNHILATOR_CRIMSON_UNIQUE,Get a boost for your Annihilators Roster with Crimson Mini-Uniques!
+ID_OF_DE_SK24_BPSHURI_4YS_TARGET,"<color=#fff568>2x Value!</color> Power up the Wakandan Queen, <color=#fff568>Black Panther (Shuri)</color>, for the <color=#aa68ff>Shadow King Trials!</color>"
+ID_OF_DE_SK24_BPSHURI_TOPOFF,<color=#fff568>2x Value!</color> Wakanda Forever! <color=#fff568>Black Panther (Shuri)</color> control the battlefield in the <color=#aa68ff>Shadow King Trials!</color>
+ID_OF_DE_SK24_HANKPYM_4YS_TARGET,"<color=#fff568>2x Value!</color> Power up the Pym Particle Progenitor, <color=#fff568>Hank Pym</color>, for the <color=#aa68ff>Shadow King Trials!</color>"
+ID_OF_DE_SK24_HANKPYM_TOPOFF,<color=#fff568>2x Value!</color> Support your Illuminati allies with <color=#fff568>Hank Pym</color> in the <color=#aa68ff>Shadow King Trials!</color>
+ID_OF_DE_SK24_THANOSENDGAME_4YS_TARGET,<color=#fff568>2x Value!</color> We couldn't live with our own failure. Where did that bring us? Back to <color=#fff568>Thanos (Endgame)</color>. Rain Fire in the <color=#aa68ff>Shadow King Trials!</color>
+ID_OF_DE_SK24_THANOSENDGAME_TOPOFF,<color=#fff568>2x Value!</color> Conquer the <color=#aa68ff>Shadow King Trials</color> with the <color=#fff568>Thanos (Endgame)</color>!
+ID_OF_DE_SK24_GLADIATOR_4YS_TARGET,<color=#fff568>2x Value!</color> Bear witness to the Praetor's Might with <color=#fff568>Gladiator</color>! Stand tall in the face of the <color=#aa68ff>Shadow King Trials!</color>
+ID_OF_DE_SK24_GLADIATOR_TOPOFF,Confidently soar in to the <color=#aa68ff>Shadow King Trials</color>with <color=#fff568>Gladiator</color>!
+ID_OF_DE_SK24_GORR_4YS_TARGET,<color=#fff568>2x Value!</color> <color=#fff568>The God Butcher</color> arrives to purge all dimensions of all deities! This includes the <color=#aa68ff>Shadow King Trials!</color>
+ID_OF_DE_SK24_GORR_TOPOFF,Strengthen <color=#fff568>Gorr's</color> Necrosword to purge the<color=#aa68ff>Shadow King Trials</color> of all deities!
+ID_OF_DE_SK24_PURPLE_IONS_SUPPORT,<color=#aa68ff>Shadow King Trials!</color> Embolden your roster with T3 Support Iso-8!
+ID_OF_DE_SK24_PURPLE_IONS_CONTROLLER,<color=#aa68ff>Shadow King Trials!</color> Embolden your roster with T3 Controller Iso-8!
+ID_OF_DE_SK24_PURPLE_IONS_PROTECTOR,<color=#aa68ff>Shadow King Trials!</color> Embolden your roster with T3 Protector Iso-8!
+ID_OF_DE_SK24_PURPLE_IONS_BRAWLER,<color=#aa68ff>Shadow King Trials!</color> Embolden your roster with T3 Brawler Iso-8!
+ID_OF_DE_SK24_PURPLE_IONS_BLASTER,<color=#aa68ff>Shadow King Trials!</color> Embolden your roster with T3 Blaster Iso-8!
+ID_OF_DE_SK24_ILLUMINATI_TEAM,<color=#fff568>2x Value!</color> Power up your Illuminati Team to get through the <color=#aa68ff>Shadow King Trials!</color>
+ID_OF_DE_SK24_ANNIHILATOR_TEAM,<color=#fff568>2x Value!</color> Annihilators Assemble! You'll need all the mayhem you can muster for the <color=#aa68ff>Shadow King Trials!</color>
+ID_ME_NA_STRIKEPASS73_FREECLAIM,S.T.R.I.K.E. Pass: Season 73 Free Claim
+ID_ME_DE_STRIKEPASS73_FREECLAIM,Start the season off strong with free progress!
+ID_ME_NA_STRIKEPASS73_WEBCLAIM,S.T.R.I.K.E. Pass: Season 73 Premium Reward
+ID_ME_DE_STRIKEPASS73_WEBCLAIM,Congratulations Commander! Claim your additional value for purchasing on Web!
+ID_OF_NA_OFFER_SHARDS_GROWTH_BFCW24_NIGHTSTALKERS_C20,Black Friday Sneak Peek: Nightstalkers
+ID_OF_DE_OFFER_SHARDS_GROWTH_BFCW24_NIGHTSTALKERS_C20,Charge through Raids with <color=#fff568>Nightstalkers</color> team members! <color=#1aff1a>Nearly a {var1}x value!</color>
+ID_OF_NA_OFFER_GEAR_GROWTH_BFCW24_NIGHTSTALKERS_TEALUNIQUES_C5,Black Friday Sneak Peek: Nightstalkers - Teal Uniques
+ID_OF_DE_OFFER_GEAR_GROWTH_BFCW24_NIGHTSTALKERS_TEALUNIQUES_C5,Take advantage of this great deal of <color=#fff568>Teal Uniques</color> for your <color=#fff568>Nightstalkers</color> team! <color=#ffc20a>Greater than a {var1}x value!</color>
+ID_OF_NA_OFFER_SHARDS_GROWTH_BFCW24_ORCHIS_C20,Black Friday Sneak Peek: Orchis
+ID_OF_DE_OFFER_SHARDS_GROWTH_BFCW24_ORCHIS_C20,Charge through Raids with <color=#fff568>Orchis</color> team members! <color=#1aff1a>Nearly a {var1}x value!</color>
+ID_OF_NA_OFFER_GEAR_GROWTH_BFCW24_ORCHIS_TEALUNIQUES_C5,Black Friday Sneak Peek: Orchis - Teal Uniques
+ID_OF_DE_OFFER_GEAR_GROWTH_BFCW24_ORCHIS_TEALUNIQUES_C5,Take advantage of this great deal of <color=#fff568>Teal Uniques</color> for your <color=#fff568>Orchis</color> team! <color=#ffc20a>Greater than a {var1}x value!</color>
+ID_OF_NA_OFFER_SHARDS_GROWTH_BFCW24_ANNIHILATORS_C15,Black Friday Sneak Peek: Annihilators
+ID_OF_DE_OFFER_SHARDS_GROWTH_BFCW24_ANNIHILATORS_C15,Scale new heights in the Arena with <color=#fff568>Annihilators</color> team members! <color=#1aff1a>Nearly a {var1}x value!</color>
+ID_OF_NA_OFFER_GEAR_GROWTH_BFCW24_ANNIHILATORS_TEALUNIQUES_C10,Black Friday Sneak Peek: Annihilators - Teal Uniques
+ID_OF_DE_OFFER_GEAR_GROWTH_BFCW24_ANNIHILATORS_TEALUNIQUES_C10,Take advantage of this great deal of <color=#fff568>Teal Uniques</color> for your <color=#fff568>Annihilators</color> team! <color=#ffc20a>Greater than a {var1}x value!</color>
+ID_OF_NA_BATTLEPASS_SEASON35_PREMCLAIM,Battle Pass: Season 35 Premium Reward
+ID_OF_NA_BATTLEPASS_SEASON35_PREMPLUSCLAIM,Battle Pass: Season 35 Premium Plus Reward
