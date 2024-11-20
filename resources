@@ -485,6 +485,10 @@ ID_EVTA_META_NOV_I_NAME,Lunar Rebirth Milestone Points
 ID_EVTA_META_NOV_I_DESCRIPTION,These points earn you additional progress in the Lunar Rebirth Milestone. Earn them in Special Offers!
 ID_EVTA_META_NOV_J_NAME,Galactic Awakening Milestone Points
 ID_EVTA_META_NOV_J_DESCRIPTION,These points earn you additional progress in the Galactic Awakening Milestone. Earn them in Special Offers!
+ID_EVTA_META_NOV_Y_NAME,Skrull Diamond Heist Milestone Points
+ID_EVTA_META_NOV_Y_DESCRIPTION,"Earn Points in Dark Dimension VI. These points earn you additional progress in the Skrull Diamond Heist Milestone. "
+ID_EVTA_META_NOV_Z_NAME,Astral Force
+ID_EVTA_META_NOV_Z_DESCRIPTION,Collect Astral Force for points in the Path to Shadow King Event. Earn them in the Shadow King Trials and Snow Globe Shop!
 ID_PATENTPENDING_NAME,Patent Pending Milestone Points
 ID_PATENTPENDING_DESC,"These points earn you additional progress in the Patent Pending Milestone. Earn them in the Eureka Moment Web Milestone, Daily Free Claims on our website, and limited offers!"
 ID_BACKTOFORMULA_NAME,Back to Formula Milestone Points
