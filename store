@@ -9397,3 +9397,15 @@ ID_GACHA_CRATE_MOONDRAGONAWAKENINGS_NAME,Moondragon Awakenings Orb
 ID_GACHA_CRATE_MOONDRAGONAWAKENINGS_DESCRIPTION,"Contains Moondragon's Ultimate Awakened Ability Materials, T4 Ability Materials and Turkeys!"
 ID_GACHA_CRATE_MOONDRAGONAWAKENINGS_TOKEN_NAME,Moondragon Awakenings Orb Fragment
 ID_GACHA_CRATE_MOONDRAGONAWAKENINGS_TOKEN_DESCRIPTION,Find Moondragon Awakenings Orb Fragments in the Special Orb offer.
+ID_OCAT_SKRULL,SKRULL
+ID_FILTER_SKRULL,SKRULL
+ID_GACHA_CRATE_ANNIHILATOR_DIAMOND_DRAFT_NAME,Annihilator Diamond Draft
+ID_GACHA_CRATE_ANNIHILATOR_DIAMOND_DRAFT_DESCRIPTION,"Get guaranteed diamond(s) of Thanos (Endgame), Gladiator, or Gorr"
+ID_GACHA_CRATE_ORCHIS_DIAMOND_DRAFT_NAME,Orchis Diamond Draft
+ID_GACHA_CRATE_ORCHIS_DIAMOND_DRAFT_DESCRIPTION,"Get guaranteed diamond(s) of Sentinel, Nimrod, or Omega Sentinel"
+ID_GACHA_CRATE_ILLUMINATI_DIAMOND_DRAFT_NAME,Illuminati Diamond Draft
+ID_GACHA_CRATE_ILLUMINATI_DIAMOND_DRAFT_DESCRIPTION,"Get guaranteed diamond(s) of Black Panther (Shuri), Hank Pym, or Mister Fantastic"
+ID_GACHA_CRATE_ALPHAFLIGHT_DIAMOND_DRAFT_NAME,Alpha Flight Diamond Draft
+ID_GACHA_CRATE_ALPHAFLIGHT_DIAMOND_DRAFT_DESCRIPTION,"Get guaranteed diamond(s) of Northstar, Guardian, or Sasquatch"
+ID_GACHA_CRATE_DARK_DIAMOND_DRAFT_NAME,Dark Diamond Draft
+ID_GACHA_CRATE_DARK_DIAMOND_DRAFT_DESCRIPTION,"Get guaranteed diamond(s) of Super Skrull, Dormammu, Nova, Black Cat, or Green Goblin (Classic)"

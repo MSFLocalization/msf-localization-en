@@ -10148,7 +10148,7 @@ ID_ME_BO_SPLASH_XTRAXTREME,"Commander,\n\nFor the next 48 hours, win Blitz battl
 ID_ME_NA_SPLASH_SPIDEYSENSE,LIVE: Spidey Sense
 ID_ME_DE_SPLASH_SPIDEYSENSE,Earn Cosmic Elixir and Iso-8!
 ID_ME_BO_SPLASH_SPIDEYSENSE,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Iso-8</color> and <color=#fff568>Cosmic Elixir</color> for the Cosmic Awakening!\n\n<color=#fff568>Featured Trait</color>:\nSpider-Society\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
-ID_ME_NA_SPLASH_FLIGHTCLUB,LIVE: Braaains
+ID_ME_NA_SPLASH_FLIGHTCLUB,LIVE: Flight Club
 ID_ME_DE_SPLASH_FLIGHTCLUB,Earn Cosmic Elixir and Gear!
 ID_ME_BO_SPLASH_FLIGHTCLUB,"Commander,\n\nFor the next 48 hours, win Blitz battles to earn <color=#fff568>Gear</color> and <color=#fff568>Cosmic Elixir</color> for the Cosmic Awakening!\n\n<color=#fff568>Featured Trait</color>:\nAlpha Flight\n\n<color=#fff568>Milestone Points</color>\nWin Blitz battles to earn points toward the Event Milestones. Earn more points by winning Blitz battles with <color=#fff568>featured trait</color> characters at <color=#fff568>3 Stars and above</color>."
 ID_ME_NA_BATTLEPASS_SEASON33_ANNOUNCE,Battle Pass: Season 33
@@ -10306,3 +10306,8 @@ ID_ME_NA_SUPERSKRULL_DD6_ANNOUNCE,LIVE: Skrull Diamond Heist
 ID_ME_NA_SUPERSKRULL_DD6_ENDING,Ending Soon: Skrull Diamond Heist
 ID_ME_DE_SUPERSKRULL_DD6_ENDING,Don't miss out on 1 Diamond Super Skrull!
 ID_ME_BO_SUPERSKRULL_DD6_ENDING,"Commander,\n\n<color=#fff568>Skrull Diamond Heist Milestone</color>\nPlay raids to earn gear tier 18 to enter Dark Dimension VI and earn Skrull Diamond Heist Milestone Points or battle with Super Skrull 7 Yellow Star to earn Super Skrull Diamonds and More!\n\nDon't miss out on this opportunity, Commander!"
+ID_ME_NA_SKRULLINVASION_ANNOUNCE,LIVE: Skrull Invasion Prep
+ID_ME_DE_SKRULLINVASION_CORE,Level Up and take on Super Skrull!
+ID_ME_BO_SKRULLINVASION_CORE,"Commander,\n\nTake advantage of bonus Commander XP, enabling you to power up your roster and access Dark Dimension VI to recruit the powerful Super Skrull (Level 95)!\n\nFor a limited time, get additional Commander XP up to Level 95 when you level up, complete Daily Objectives, or crush Campaign nodes (Normal, Hard, Iso-8, and Incursion)!\n\nRace to 95 in time and gain access to a special event with Diamonds, helping you unlock a more powerful Super Skrull (ending 12/10)."
+ID_ME_NA_SKRULLINVASION_ENDING,ENDS SOON: Skrull Invasion Prep
+ID_ME_DE_SKRULLINVASION_ENDING,Don't miss this XP boost!

@@ -12055,7 +12055,7 @@ ID_OF_DE_OFFER_GEAR_GROWTH_BFCW24_ALPHAFLIGHT_TEALUNIQUES_C5,Take advantage of t
 ID_OF_NA_OFFER_SHARDS_GROWTH_BFCW24_M4M_C5,Black Friday: Mercs For Money
 ID_OF_NA_OFFER_GEAR_GROWTH_BFCW24_M4M_TEALUNIQUES_C5,Black Friday: Unique Special
 ID_OF_NA_OFFER_SHARDS_GROWTH_BFCW24_SPIDERSOCIETY_C10,Black Friday: Spider-Society
-ID_OF_DE_OFFER_SHARDS_GROWTH_BFCW24_M4M_C5,Seize victory as Alliance War with <color=#fff568>Mercs For Money</color> team members! <color=#0c7bdc>A {var1}x value!</color>
+ID_OF_DE_OFFER_SHARDS_GROWTH_BFCW24_M4M_C5,Seize victory in Alliance War with <color=#fff568>Mercs For Money</color> team members! <color=#0c7bdc>A {var1}x value!</color>
 ID_OF_DE_OFFER_GEAR_GROWTH_BFCW24_M4M_TEALUNIQUES_C5,Take advantage of this great deal of <color=#fff568>Teal Uniques</color> for your <color=#fff568>Mercs For Money</color> team! <color=#ffc20a>Greater than a {var1}x value!</color>
 ID_OF_DE_OFFER_SHARDS_GROWTH_BFCW24_SPIDERSOCIETY_C10,Charge through Raids with <color=#fff568>Spider-Society</color> team members! <color=#1aff1a>Nearly a {var1}x value!</color>
 ID_OF_DE_OFFER_GEAR_GROWTH_BFCW24_SPIDERSOCIETY_TEALUNIQUES_C5,Take advantage of this great deal of <color=#fff568>Teal Uniques</color> for your <color=#fff568>Spider-Society</color> team! <color=#ffc20a>Greater than a {var1}x value!</color>
@@ -12064,3 +12064,9 @@ ID_OF_NA_OFFER_SHARDS_GROWTH_BFCW24_CABAL_C5,Cyber Monday: Cabal
 ID_OF_NA_OFFER_GEAR_GROWTH_BFCW24_CABAL_TEALUNIQUES_C5,Cyber Unique Special
 ID_OF_DE_OFFER_SHARDS_GROWTH_BFCW24_CABAL_C5,Dominate in Cosmic Crucible with <color=#fff568>Cabal</color> team members! <color=#0c7bdc>A {var1}x value!</color>
 ID_OF_DE_OFFER_GEAR_GROWTH_BFCW24_CABAL_TEALUNIQUES_C5,Take advantage of this great deal of <color=#fff568>Teal Uniques</color> for your <color=#fff568>Cabal</color> team! <color=#ffc20a>Greater than a {var1}x value!</color>
+ID_OF_NA_CBR24_BLACKFRIDAY_SMALL,Captain Britain Returns: Black Friday
+ID_OF_DE_CBR24_BLACKFRIDAY_SMALL,<color=#fff568>Black Friday Special!</color> Don't miss the chance to power up your favorite Union Jacked hero!
+ID_OF_NA_CBR24_GENERIC,Captain Britain Returns: Champion of the Isles
+ID_OF_DE_CBR24_GENERIC,"<color=#fff568>Captain Britain is back!</color> Unlock your full potential with the Champion of the Isles, Captain Britain!"
+ID_OF_NA_GALACTICAWAKENING_SPECIAL,Galactic Awakening: Special Awakening
+ID_OF_DE_GALACTICAWAKENING_SPECIAL,"Open this <color=#fff568>limited </color> orb with luxury rewards: Moondragon's Ultimate Awakened Ability Material, T4 Ability Materials and Turkeys. Also grab the exclusive points in the <color=#fff568>Galactic Awakening</color> Milestone!"
