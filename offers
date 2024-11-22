@@ -12049,8 +12049,8 @@ ID_OF_DE_SKRULLDIAMONDHEIST_CUT_COSMIC,Power up Cosmic team and progress in Dark
 ID_OF_DE_SKRULLDIAMONDHEIST_CUT_SPIDER_SOCIETY,Power up City team and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
 ID_OF_DE_SKRULLDIAMONDHEIST_SHARDS,Best. Shard. Discount. Ever. Grab it now before it's gone for good!
 ID_OF_NA_OFFER_SHARDS_GROWTH_BFCW24_ALPHAFLIGHT_C10,Thanksgiving Feast: Alpha Flight
-ID_OF_NA_OFFER_GEAR_GROWTH_BFCW24_ALPHAFLIGHT_TEALUNIQUES_C5,Fortify your Alliance War defenses with <color=#fff568>Alpha Flight</color> team members! <color=#0c7bdc>A {var1}x value!</color>
-ID_OF_DE_OFFER_SHARDS_GROWTH_BFCW24_ALPHAFLIGHT_C10,Thanksgiving Unique Feast
+ID_OF_NA_OFFER_GEAR_GROWTH_BFCW24_ALPHAFLIGHT_TEALUNIQUES_C5,Thanksgiving Unique Feast
+ID_OF_DE_OFFER_SHARDS_GROWTH_BFCW24_ALPHAFLIGHT_C10,Fortify your Alliance War defenses with <color=#fff568>Alpha Flight</color> team members! <color=#0c7bdc>A {var1}x value!</color>
 ID_OF_DE_OFFER_GEAR_GROWTH_BFCW24_ALPHAFLIGHT_TEALUNIQUES_C5,Take advantage of this great deal of <color=#fff568>Teal Uniques</color> for your <color=#fff568>Alpha Flight</color> team! <color=#ffc20a>Greater than a {var1}x value!</color>
 ID_OF_NA_OFFER_SHARDS_GROWTH_BFCW24_M4M_C5,Black Friday: Mercs For Money
 ID_OF_NA_OFFER_GEAR_GROWTH_BFCW24_M4M_TEALUNIQUES_C5,Black Friday: Unique Special
@@ -12070,3 +12070,72 @@ ID_OF_NA_CBR24_GENERIC,Captain Britain Returns: Champion of the Isles
 ID_OF_DE_CBR24_GENERIC,"<color=#fff568>Captain Britain is back!</color> Unlock your full potential with the Champion of the Isles, Captain Britain!"
 ID_OF_NA_GALACTICAWAKENING_SPECIAL,Galactic Awakening: Special Awakening
 ID_OF_DE_GALACTICAWAKENING_SPECIAL,"Open this <color=#fff568>limited </color> orb with luxury rewards: Moondragon's Ultimate Awakened Ability Material, T4 Ability Materials and Turkeys. Also grab the exclusive points in the <color=#fff568>Galactic Awakening</color> Milestone!"
+ID_OF_NA_KAHHORI_FCO_OFFER,Stirs the Forest
+ID_OF_DE_KAHHORI_FCO_OFFER,Each <color=#fff568>Stirs the Forest Orb</color> contains <color=#fff568>up to 180 Kahhori</color> shards. <color=#fff568>Kahhori</color> zooms in and exposes her enemies for Absolute A-Force!
+ID_OF_DE_KAHHORI_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Kahhori</color> for your roster<color=#fff568>Kahhori</color> zooms in and exposes her enemies for Absolute A-Force!
+ID_OF_DE_KAHHORI_OFFER_SHARD,Power up <color=#fff568>Kahhori</color> with this shard offer! <color=#fff568>Kahhori</color> zooms in and exposes her enemies for Absolute A-Force!
+ID_OF_DE_KAHHORI_UNLOCK_OFFER,Unlock <color=#fff568>Kahhori</color> now! <color=#fff568>Kahhori</color> zooms in and exposes her enemies for Absolute A-Force!
+ID_OF_STOREBAR_KAHHORI,Dual Offer: Kahhori
+ID_OF_NA_DUAL_KAHHORI,Dual Offer: Kahhori
+ID_OF_DE_DUAL_KAHHORI,Choose your path to power up this <color=#fff568>Absolute A-Force</color> member!
+ID_OF_DE_DUAL_UNLOCK_KAHHORI,Unlock this <color=#fff568>Absolute A-Force</color> member!
+ID_OF_NA_KAHHORI_FCO_OFFER_BASIC,Kahhori Release Offer
+ID_OF_NA_KAHHORI_TEAMORB,Path to Kahhori Orb Offer
+ID_OF_DE_KAHHORI_TEAMORB,Bring the team together with this limited time orb special featuring Kahhori!
+ID_OF_NA_KAHHORI_TEAMORB_TY,Path to Kahhori Orb Thank You Special!
+ID_OF_DE_KAHHORI_TEAMORB_TY,Thank you for your support! Please enjoy this increased value orb offer.
+ID_OF_NA_KAHHORI_WEB_EXTRA_FCO_OFFER,Kahhori Unlock Offer
+ID_OF_DE_KAHHORI_WEB_EXTRA_FCO_OFFER,"The Stirs the Forest, <color=#fff568>Kahhori</color>, has arrived!"
+ID_OF_DE_COSMICBATTLE_EVENTORB2,Get Allied Supply VI orbs and Astral Energy for <color=#fff568>Cosmic Battle</color> progress!
+ID_OF_NA_KAHHORI_WEB_SPECIAL_OFFER,Stirs the Forest Special
+ID_OF_DE_KAHHORI_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> <color=#fff568>Kahhori</color> zooms in and exposes her enemies for Absolute A-Force!
+ID_OF_NA_KAHHORI_WEB_STREAK1_FCO_OFFER,(1/4) Reshaper of Worlds
+ID_OF_NA_KAHHORI_WEB_STREAK2_FCO_OFFER,(2/4) Reshaper of Worlds
+ID_OF_NA_KAHHORI_WEB_STREAK3_FCO_OFFER,(3/4) Reshaper of Worlds
+ID_OF_NA_KAHHORI_WEB_STREAK4_FCO_OFFER,(4/4) Reshaper of Worlds
+ID_OF_DE_KAHHORI_WEB_STREAK1_FCO_OFFER,A special launch offer has appeared for you! Recruit Kahhori today!
+ID_OF_DE_KAHHORI_WEB_STREAK2_FCO_OFFER,Take Kahhori to the next level and make your Absolute A-Force the best they can be!
+ID_OF_DE_KAHHORI_WEB_STREAK3_FCO_OFFER,Take Kahhori to the next level and make your Absolute A-Force the best they can be!
+ID_OF_DE_KAHHORI_WEB_STREAK4_FCO_OFFER,Final step towards your full potential is here for Kahhori!
+ID_OF_NA_KAHHORI_STREAK_OFFER1,(1/6) Tesseract Warrior
+ID_OF_NA_KAHHORI_STREAK_OFFER2,(2/6) Tesseract Warrior
+ID_OF_NA_KAHHORI_STREAK_OFFER3,(3/6) Mental Master Special
+ID_OF_NA_KAHHORI_STREAK_OFFER4,(4/6) Mental Master Special
+ID_OF_NA_KAHHORI_STREAK_OFFER5,(5/6) Mental Master Special
+ID_OF_NA_KAHHORI_STREAK_OFFER6,(6/6) Mental Master Special
+ID_OF_DE_KAHHORI_STREAK_OFFER1,Don't miss out on this special launch offer for Kahhori!
+ID_OF_DE_KAHHORI_STREAK_OFFER2,Don't miss out on this special launch offer for Kahhori!
+ID_OF_DE_KAHHORI_STREAK_OFFER3,Don't miss out on this special launch offer for Kahhori!
+ID_OF_DE_KAHHORI_STREAK_OFFER4,Don't miss out on this special launch offer for Kahhori!
+ID_OF_DE_KAHHORI_STREAK_OFFER5,Don't miss out on this special launch offer for Kahhori!
+ID_OF_DE_KAHHORI_STREAK_OFFER6,Don't miss out on this special launch offer for Kahhori!
+ID_OF_NA_ICEQUEENSGALA_STARTER_MEGA,Ice Queen's Gala Starter
+ID_OF_NA_ICEQUEENSGALA_STARTER_SUPER,Ice Queen's Gala Starter Kit
+ID_OF_NA_ICEQUEENSGALA_STARTER,Icy Hors D'Oeuvres
+ID_OF_NA_ICEQUEENSGALA_BOOSTER_ANCHOR,Daily Invitation
+ID_OF_NA_ICEQUEENSGALA_MEGA,Mega Invitation
+ID_OF_NA_ICEQUEENSGALA_LEGACY,Icy Legacy
+ID_OF_NA_ICEQUEENSGALA_SHARDS,Icy Recruitment
+ID_OF_NA_ICEQUEENSGALA_GOLD,Icy Gold
+ID_OF_NA_ICEQUEENSGALA_CATS,Icy Catalysts
+ID_OF_NA_ICEQUEENSGALA_DPC,Icy Promotion
+ID_OF_NA_ICEQUEENSGALA_TRAINING,Icy Training
+ID_OF_NA_ICEQUEENSGALA_AB,Icy Abilities
+ID_OF_NA_ICEQUEENSGALA_CATCHUP_MEGA,Ice Queen's Gala: Mega Catch-Up
+ID_OF_NA_ICEQUEENSGALA_CATCHUP_SUPER,Ice Queen's Gala: Super Catch-Up
+ID_OF_NA_ICEQUEENSGALA_CATCHUP_LAST_CHANCE,Party Favor
+ID_OF_NA_ICEQUEENSGALA_FREEDAILY,Ice Queen's Gala: Free Claim
+ID_OF_DE_ICEQUEENSGALA_STARTER_MEGA,Stock up on <color=#fff568>Ice Queen's Gala</color> progress and exclusive items!
+ID_OF_DE_ICEQUEENSGALA_STARTER_SUPER,Get ahead in the <color=#fff568>Ice Queen's Gala</color> milestone!
+ID_OF_DE_ICEQUEENSGALA_STARTER,Start off strong in the <color=#fff568>Ice Queen's Gala</color> milestone!
+ID_OF_DE_ICEQUEENSGALA_BOOSTER_ANCHOR,Make consistent <color=#fff568>Ice Queen's Gala</color> progress with this daily <color=#fff568>Silver Bullet</color> drop!
+ID_OF_DE_ICEQUEENSGALA_LEGACY,Stock up on <color=#fff568>Ice Queen's Gala event progress</color> and <color=#fff568>Legacy Orbs</color> with this special deal!
+ID_OF_DE_ICEQUEENSGALA_SHARDS,Stock up on <color=#fff568>Ice Queen's Gala event progress</color> and <color=#fff568>character shards</color> with this special deal!
+ID_OF_DE_ICEQUEENSGALA_GOLD,Stock up on <color=#fff568>Ice Queen's Gala event progress</color> and <color=#fff568>Gold</color> with this special deal!
+ID_OF_DE_ICEQUEENSGALA_CATS,Stock up on <color=#fff568>Ice Queen's Gala event progress</color> and <color=#fff568>Catalyst Parts</color> with this special deal!
+ID_OF_DE_ICEQUEENSGALA_DPC,Stock up on <color=#fff568>Ice Queen's Gala</color> progress and exclusive items!
+ID_OF_DE_ICEQUEENSGALA_TRAINING,Stock up on <color=#fff568>Ice Queen's Gala event progress</color> and <color=#fff568>Training Modules</color> with this special deal!
+ID_OF_DE_ICEQUEENSGALA_AB,Stock up on <color=#fff568>Ice Queen's Gala event progress</color> and <color=#fff568>Ability Materials</color> with this special deal!
+ID_OF_DE_ICEQUEENSGALA_CATCHUP_MEGA,Finish strong in the <color=#fff568>Ice Queen's Gala</color> milestones to earn Fully-Crafted Teal Mystic Gear!
+ID_OF_DE_ICEQUEENSGALA_CATCHUP_LAST_CHANCE,Catch this deal before it's too late to earn Fully-Crafted Teal Mutant Gear!
+ID_OF_DE_ICEQUEENSGALA_FREEDAILY,Come back daily for more <color=#fff568>Ice Queen's Gala</color> progress!
