@@ -5484,12 +5484,13 @@ ID_QU_LD_STELLARCONQUEST4,"Spend Turkey on fabulous goods in the Turkey Store, a
 ID_QU_S1_STELLARCONQUEST4,Spend Turkey in the Turkey Store
 ID_QU_NA_THEICEQUEENSGALA,The Ice Queen's Gala
 ID_QU_SD_THEICEQUEENSGALA,Participate in December Events
-ID_QU_LM_THEICEQUEENSGALA,Participate in various events throughout December to earn milestone progress.
+ID_QU_LM_THEICEQUEENSGALA,"Earn points toward this month-long milestone by collecting the following items from events and Daily Free Claims: Golden Rings, Calling Birds, French Hens, Turtle Doves, Partridges, and a whole bunch of Snowglobes. Earn Snowglobes from Alliance gifts, Showcases, Milestones, and Battlepass.\n\nGet Snowglobes and the following Meta Items from the following milestones:\n\n- Five Golden Rings\n- Four Calling Birds\n- Three French Hens\n- Two Turtle Doves\n- And a Zombie at the Party\n\nThere will be several Milestone Events that provide progress towards the <color=#fff568>Ice Queen's Gala</color> Milestone. As you progress, earn <color=#fff568>fully crafted Gear Tier 18 Mutant gear</color> and more!"
 ID_QU_S1_THEICEQUEENSGALA,Collect 1 Snowglobe
 ID_QU_S2_THEICEQUEENSGALA,Collect 1 Golden Ring
 ID_QU_S3_THEICEQUEENSGALA,Collect 1 Calling Bird
 ID_QU_S4_THEICEQUEENSGALA,Collect 1 French Hen
 ID_QU_S5_THEICEQUEENSGALA,Collect 1 Turtle Dove
+ID_QU_S6_THEICEQUEENSGALA,Collect 1 Partridge
 ID_QU_NA_SPLASH_MOREGOLDENRINGS,More Golden Rings
 ID_QU_SD_SPLASH_MOREGOLDENRINGS,Use Heroes for Hire in Blitz
 ID_QU_LM_SPLASH_MOREGOLDENRINGS,Earn points by using Heroes for Hire characters in Blitz Battles. Earn more points if your Heroes for Hire characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
@@ -5505,23 +5506,41 @@ ID_QU_S1_SPLASH_FAMILYREUNION,Win Blitz with a 3-star or higher Fantastic Four C
 ID_QU_S2_SPLASH_FAMILYREUNION,Win Blitz with a 5-star or higher Fantastic Four Character
 ID_QU_S3_SPLASH_FAMILYREUNION,Win Blitz with a 7-star Fantastic Four Character
 ID_QU_NA_SPLASH_SIDEGIG,Side Gig
-ID_QU_SD_SPLASH_SIDEGIG,Use Secret Defender in Blitz
+ID_QU_SD_SPLASH_SIDEGIG,Use Secret Defenders in Blitz
 ID_QU_LM_SPLASH_SIDEGIG,Earn points by using Secret Defender characters in Blitz Battles. Earn more points if your Secret Defender characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
 ID_QU_SC_SPLASH_SIDEGIG,Use Secret Defender Characters in Blitz
 ID_QU_S1_SPLASH_SIDEGIG,Win Blitz with a 3-star or higher Secret Defender Character
 ID_QU_S2_SPLASH_SIDEGIG,Win Blitz with a 5-star or higher Secret Defender Character
 ID_QU_S3_SPLASH_SIDEGIG,Win Blitz with a 7-star Secret Defender Character
 ID_QU_NA_SPLASH_GROOTMASREVENGE,Braaains
-ID_QU_SD_SPLASH_GROOTMASREVENGE,Use Guardian in Blitz
+ID_QU_SD_SPLASH_GROOTMASREVENGE,Use Guardians in Blitz
 ID_QU_LM_SPLASH_GROOTMASREVENGE,Earn points by using Guardian characters in Blitz Battles. Earn more points if your Guardian characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
 ID_QU_SC_SPLASH_GROOTMASREVENGE,Use Guardian Characters in Blitz
 ID_QU_S1_SPLASH_GROOTMASREVENGE,Win Blitz with a 3-star or higher Guardian Character
 ID_QU_S2_SPLASH_GROOTMASREVENGE,Win Blitz with a 5-star or higher Guardian Character
 ID_QU_S3_SPLASH_GROOTMASREVENGE,Win Blitz with a 7-star Guardian Character
-ID_QU_NA_SPLASH_YEAROFTHEGIRLS,Day of the Dead
-ID_QU_SD_SPLASH_YEAROFTHEGIRLS,Use A-Forces in Blitz
+ID_QU_NA_SPLASH_YEAROFTHEGIRLS,Year of the Girls
+ID_QU_SD_SPLASH_YEAROFTHEGIRLS,Use A-Force in Blitz
 ID_QU_LM_SPLASH_YEAROFTHEGIRLS,Earn points by using A-Force characters in Blitz Battles. Earn more points if your A-Force characters are 3 Stars and higher and even more points if they are 5 or 7 Stars.
 ID_QU_SC_SPLASH_YEAROFTHEGIRLS,Use A-Force Characters in Blitz
 ID_QU_S1_SPLASH_YEAROFTHEGIRLS,Win Blitz with a 3-star or higher A-Force Character
 ID_QU_S2_SPLASH_YEAROFTHEGIRLS,Win Blitz with a 5-star or higher A-Force Character
 ID_QU_S3_SPLASH_YEAROFTHEGIRLS,Win Blitz with a 7-star A-Force Character
+ID_QU_NA_FIVEGOLDENRINGS,Five Golden Rings
+ID_QU_SD_FIVEGOLDENRINGS,Spend Gold and earn Shadow Orb Fragments from Campaigns
+ID_QU_LD_FIVEGOLDENRINGS,"Five Golden Rings Milestone\nGain progress in this event by spending Gold, with bonus points if you spend your Gold on any of the Golden Ring Orbs. You also get points for collecting Shadow Orb Fragments from Campaign nodes, completing the Season of Giving Web Milestone, and daily web Free Claims. Earn fantastic rewards including Mephisto Red Star Orbs, Diamond Orbs, T3 Iso-8 Ions, and Crimson Mutant Gear. Keep up with the leaderboard for a chance to earn Mephisto Diamonds! You'll also earn points towards the month-long Ice Queen's Gala milestone by collecting Snowglobes and Golden Rings.\n\nSeason of Giving Web Milestone\nSpend Snowglobes on fabulous goods in the Snowglobe Store, and be rewarded with additional progress in Five Golden Rings and The Ice Queen's Gala! You will also earn materials for Moondragon's Ultimate Awakened Ability!"
+ID_QU_S1_FIVEGOLDENRINGS,Spend 1 Gold
+ID_QU_S2_FIVEGOLDENRINGS,Open 1 Crimson Golden Ring Orb
+ID_QU_S3_FIVEGOLDENRINGS,Open 1 Augmented Golden Ring Orb
+ID_QU_S4_FIVEGOLDENRINGS,Open 1 Isotope Golden Ring Orb
+ID_QU_S5_FIVEGOLDENRINGS,Open 1 Heroic Golden Ring Orb
+ID_QU_S6_FIVEGOLDENRINGS,Earn 1 Shadow Orb Fragment
+ID_QU_NA_SEASONOFGIVING,Season of Giving
+ID_QU_SD_SEASONOFGIVING,Spend Snowglobes in the Snowglobe Store!
+ID_QU_LD_SEASONOFGIVING,"Spend Snowglobes on fabulous goods in the Snowglobe Store, and be rewarded with additional progress in Five Golden Rings and The Ice Queen's Gala! You will also earn materials for Moondragon's Ultimate Awakened Ability!"
+ID_QU_S1_SEASONOFGIVING,Spend Snowglobes in the Snowglobe Store
+ID_QU_NA_ABSOLUTEASSAULT,Absolute Assault
+ID_QU_SD_ABSOLUTEASSAULT,Participate in Alliance War to earn Snowglobes!
+ID_QU_LD_ABSOLUTEASSAULT,"Participate in Alliance War for this alliance event! \n\nAbsolute Assault Milestone\nTo score points:\n- Battle in in Alliance War\n- Earn Allied Supply VI Orb Fragments\n\nEarn fantastic rewards including Snowglobes, Ancient One and Emma Frost Astral Orb Fragments, Crimson Bio Gear, and Ability Materials!\n\nAllied Supply VI orb\nEarn these alliance event orbs for progress in Absolute Assault! Collect the Allied Supply VI Orb in special offers and daily free claims on the web!"
+ID_QU_S1_ABSOLUTEASSAULT,Earn Allied Supply VI Orb Fragments from Free Claims and special Offers
+ID_QU_S2_ABSOLUTEASSAULT,Play 1 War Battle

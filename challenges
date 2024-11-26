@@ -2824,6 +2824,28 @@ ID_INFO_BO_ILLUMINATIASSEMBLY,<color=#fff568>Illuminati Assembly Milestone</colo
 ID_INFO_NA_COSMICBATTLE2,Cosmic Battle
 ID_INFO_DE_COSMICBATTLE2,Earn Cosmic Elixir and  Ancient One Astral Orbs Fragments!
 ID_INFO_BO_COSMICBATTLE2,"Participate in Battleworld Spec Ops Missions for this alliance event! \n\n<color=#fff568>Cosmic Battle Milestone</color>\nTo score points:\n- Participate in Battleworld Spec Ops Missions \n- Earn Allied Supply VI Orb Fragments\n\nEarn fantastic rewards including Cosmic Elixir, Ancient One Astral Orbs Fragments and T3 Iso-8 Materials!\n\n<color=#fff568>Allied Supply VI orb</color>\nEarn these alliance event orbs for progress in Cosmic Battle! Collect the Allied Supply VI Orb in special offers and daily free claims on the web!"
+ID_SSE_AAFORCE_TOP_NAME,Anarchy in Arcadia
+ID_SSE_AAFORCE_TOP_SUBTITLE,Absolute A-Force Super Showcase
+ID_SSE_AAFORCE_ACTI_NAME,KAHHORI
+ID_SSE_AAFORCE_ACTI_SUBTITLE,Absolute A-Force Showcase - Act I
+ID_SSE_AAFORCE_ACTI_DESC,"Arcadia stands accused of harboring the thief, Corsair, and the Shi'ar's patience is running thin.\n\nChapter 2 Challenge Requirements:\n- Kahhori at 3, 4, 5, 6, and 7 Yellow Stars"
+ID_SSE_AAFORCE_ACTI_FILLER,STORY
+ID_SSE_AAFORCE_ACTI_FILLSUB,Kahhori
+ID_SSE_AAFORCE_ACTII_NAME,MS.MARVEL (CLASSIC)
+ID_SSE_AAFORCE_ACTII_SUBTITLE,Absolute A-Force Showcase - Act II
+ID_SSE_AAFORCE_ACTII_DESC,"To prove Arcadia's innocence, Logan sets off to find Corsair and discovers a familiar face at the center of this scheme.\n\nChapter 2 Challenge Requirements:\n- Ms. Marvel (Classic) at 3, 4, 5, 6, and 7 Yellow Stars"
+ID_SSE_AAFORCE_ACTII_FILLER,STORY
+ID_SSE_AAFORCE_ACTII_FILLSUB,Ms. Marvel (Classic)
+ID_SSE_AAFORCE_ACTIII_NAME,MEDUSA
+ID_SSE_AAFORCE_ACTIII_SUBTITLE,Absolute A-Force Showcase - Act III
+ID_SSE_AAFORCE_ACTIII_DESC,"The Shi'ar issue a final warning - turn over the thief or face the consequences.\n\nChapter 2 Challenge Requirements:\n- Medusa at 3, 4, 5, 6, and 7 Yellow Stars"
+ID_SSE_AAFORCE_ACTIII_FILLER,STORY
+ID_SSE_AAFORCE_ACTIII_FILLSUB,Medusa
+ID_SSE_AAFORCE_ACTIV_NAME,ABSOLUTE A-FORCE
+ID_SSE_AAFORCE_ACTIV_SUBTITLE,Absolute A-Force Showcase - Final Act
+ID_SSE_AAFORCE_ACTIV_DESC,"Now having to defend Arcadia from the battle-hungry combatants of Battleworld, the Absolute A-Force team leaves the thief in Logan's capable hands.\n\nChapter 2 Challenge Requirements:\n- Kahhori, Ms. Marvel (Classic), Medusa, Wasp, and Ironheart at 3, 4, 5, 6, and 7 Yellow Stars"
+ID_SSE_AAFORCE_ACTIV_FILLER,STORY
+ID_SSE_AAFORCE_ACTIV_FILLSUB,Absolute A-Force
 ID_INFO_NA_SUPERSKRULL_DD6,Skrull Diamond Heist
 ID_INFO_DE_SUPERSKRULL_DD6,Get 1 Diamond Super Skrull!
 ID_INFO_BO_SUPERSKRULL_DD6,<color=#fff568>Skrull Diamond Heist Milestone</color>\nProgress in Dark Dimension VI to earn character diamonds! Play in Raids to earn Gear Tier 18 and stregthen your team for battle!

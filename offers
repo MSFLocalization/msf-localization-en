@@ -12128,7 +12128,7 @@ ID_OF_NA_ICEQUEENSGALA_FREEDAILY,Ice Queen's Gala: Free Claim
 ID_OF_DE_ICEQUEENSGALA_STARTER_MEGA,Stock up on <color=#fff568>Ice Queen's Gala</color> progress and exclusive items!
 ID_OF_DE_ICEQUEENSGALA_STARTER_SUPER,Get ahead in the <color=#fff568>Ice Queen's Gala</color> milestone!
 ID_OF_DE_ICEQUEENSGALA_STARTER,Start off strong in the <color=#fff568>Ice Queen's Gala</color> milestone!
-ID_OF_DE_ICEQUEENSGALA_BOOSTER_ANCHOR,Make consistent <color=#fff568>Ice Queen's Gala</color> progress with this daily <color=#fff568>Silver Bullet</color> drop!
+ID_OF_DE_ICEQUEENSGALA_BOOSTER_ANCHOR,Make consistent <color=#fff568>Ice Queen's Gala</color> progress with this daily point drop!
 ID_OF_DE_ICEQUEENSGALA_LEGACY,Stock up on <color=#fff568>Ice Queen's Gala event progress</color> and <color=#fff568>Legacy Orbs</color> with this special deal!
 ID_OF_DE_ICEQUEENSGALA_SHARDS,Stock up on <color=#fff568>Ice Queen's Gala event progress</color> and <color=#fff568>character shards</color> with this special deal!
 ID_OF_DE_ICEQUEENSGALA_GOLD,Stock up on <color=#fff568>Ice Queen's Gala event progress</color> and <color=#fff568>Gold</color> with this special deal!
@@ -12136,6 +12136,171 @@ ID_OF_DE_ICEQUEENSGALA_CATS,Stock up on <color=#fff568>Ice Queen's Gala event pr
 ID_OF_DE_ICEQUEENSGALA_DPC,Stock up on <color=#fff568>Ice Queen's Gala</color> progress and exclusive items!
 ID_OF_DE_ICEQUEENSGALA_TRAINING,Stock up on <color=#fff568>Ice Queen's Gala event progress</color> and <color=#fff568>Training Modules</color> with this special deal!
 ID_OF_DE_ICEQUEENSGALA_AB,Stock up on <color=#fff568>Ice Queen's Gala event progress</color> and <color=#fff568>Ability Materials</color> with this special deal!
-ID_OF_DE_ICEQUEENSGALA_CATCHUP_MEGA,Finish strong in the <color=#fff568>Ice Queen's Gala</color> milestones to earn Fully-Crafted Teal Mystic Gear!
+ID_OF_DE_ICEQUEENSGALA_CATCHUP_MEGA,Finish strong in the <color=#fff568>Ice Queen's Gala</color> milestones to earn Fully-Crafted Teal Mutant Gear!
 ID_OF_DE_ICEQUEENSGALA_CATCHUP_LAST_CHANCE,Catch this deal before it's too late to earn Fully-Crafted Teal Mutant Gear!
 ID_OF_DE_ICEQUEENSGALA_FREEDAILY,Come back daily for more <color=#fff568>Ice Queen's Gala</color> progress!
+ID_OF_NA_BF24_BIGCAL,Leftover Turkey
+ID_OF_NA_BF24_MEDCAL,Black Friday Calendar
+ID_OF_NA_BF24_SMCAL,Black Friday Special
+ID_OF_NA_BF24_TEALBASICCAT,Basic Cat Bargains!
+ID_OF_NA_BF24_TEALSTATCAT,Stat Cat Savings!
+ID_OF_NA_BF24_M4MCRIMGEAR,Crimson Canadians!
+ID_OF_NA_BF24_ORCHISCRIMGEAR,Crimson Constructs!
+ID_OF_NA_BF24_NIGHTCRIMGEAR,Crimson Coven!
+ID_OF_NA_BF24_T3IONSPECIAL,Ion Frenzy!
+ID_OF_NA_BF24_MUSTBUYABM,Unbeatable Ability Frenzy!
+ID_OF_NA_BF24_ANNIDIAMOND,Annihilator Diamond Deal!
+ID_OF_NA_BF24_ORCHDIAMOND,Orchis Diamond Deal!
+ID_OF_NA_BF24_ILLUMDIAMOND,Illuminati Diamond Deal!
+ID_OF_NA_BF24_AFDIAMOND,Alpha Flight Diamond Deal!
+ID_OF_NA_BF24_DARKDIAMOND,Dark Diamond Discounts!
+ID_OF_NA_BF24_ENERGYBUNDLE,Energy Extravaganza!
+ID_OF_NA_BF24_ENERGYXP,Electrifying Experience!
+ID_OF_NA_BF24_GOLDNORM,Strike Gold!
+ID_OF_NA_BF24_GOLDMUSTBUY,Gold Rush Savings!
+ID_OF_NA_BF24_DIAMONDLOW,Discounted Diamond!
+ID_OF_NA_BF24_TRAININGNORM,Train and Gain!
+ID_OF_NA_BF24_GOLDABM,Golden Opportunities!
+ID_OF_NA_BF24_TRAINABM,Boost your Skills!
+ID_OF_NA_BF24_DDYSHARD,Dimensional Shards!
+ID_OF_NA_BF24_TRAINGOLD,Gold Standard Training!
+ID_OF_NA_BF24_SDCFULL,Pick Your Own Diamonds
+ID_OF_NA_BF24_BK2D,Diamond Defender!
+ID_OF_NA_BF24_MASTERDIAMOND,Mega Diamond Master
+ID_OF_NA_BF24_STEP1,Black Friday Bonanza!
+ID_OF_NA_BF24_STEP1_OML,Shining Old Man Logan
+ID_OF_NA_BF24_STEP1_MEPH,Dimensional Demon
+ID_OF_NA_BF24_ORBGATE,Terrifically Teal!
+ID_OF_NA_BF24_ASTRALTORB,Achieve Astral Excellence!
+ID_OF_DE_BF24_BIGCAL,Utilize this calendar filled with Turkeys to open more Mephisto Red Star Orbs! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_MEDCAL,Reap this Black Friday deal for an entire week filled with high value resources! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_BF24_SMCAL,Take advantage of another Black Friday blockbuster deal! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_BF24_TEALBASICCAT,Take your characters to the next gear tier with a surplus of Teal Basic Catalysts! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_TEALSTATCAT,Take your characters to the next gear tier with a surplus of Teal Catalysts! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_M4MCRIMGEAR,Gear up your Mercs for Money team with this Black Friday special on Mutant Crimson gear! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_ORCHISCRIMGEAR,Gear up your Orchis team with this Black Friday special on Tech Crimson gear! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_NIGHTCRIMGEAR,Gear up your Nightstalker team with this Black Friday special on Mystic Crimson gear! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_T3IONSPECIAL,Ignite your passion for deals with this ionizing Black Friday offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_MUSTBUYABM,Don't miss this Black Friday blowout deal on T4 Ability Materials! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_ANNIDIAMOND,Try your luck at drafting a 3-Diamond promotion for your Annihilators members! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_ORCHDIAMOND,Try your luck at drafting a 3-Diamond promotion for your Orchis members! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_ILLUMDIAMOND,Try your luck at drafting a 3-Diamond promotion for your Illuminati members! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_AFDIAMOND,Try your luck at drafting a 3-Diamond promotion for your Alpha Flight members! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_DARKDIAMOND,Try your luck at drafting a 3-Diamond Super Skrull promotion and witness Dark Dimensional power! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_ENERGYBUNDLE,Harness the energy of this Black Friday supernova of sensational discounts! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_ENERGYXP,Amplify your savings with this electrifying Black Friday extravaganza! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_GOLDNORM,Unlock colossal savings with this Black Friday frenzy of golden opportunities! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_GOLDMUSTBUY,Don't miss this Black Friday blowout deal on Gold! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_BF24_DIAMONDLOW,Shine like a diamond this Black Friday with this discounted Diamond Orb! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_TRAININGNORM,Train to gain the best deals of Black Friday with this limited time offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_GOLDABM,Discover a treasure trove of savings with this epic Black Friday offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_TRAINABM,"Cherish this Black Friday delight overflowing with rare, valuable items! <color=#ffda21>A {var1}x value</color>!"
+ID_OF_DE_BF24_DDYSHARD,Embrace a Black Friday bounty brimming with Dark Dimension specialists! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_BF24_TRAINGOLD,Secure your fortune with this enchanted Black Friday garden of savings! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_BF24_SDCFULL,Pick your favorite character to get up to a 3-Diamond promotion through the Elite Store with this special offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_DE_BF24_BK2D,Get a 2-Diamond promotion for your Black Knight with this Black Friday special! <color=#ffda21>A {var1}x value</color>!
+ID_OF_DE_BF24_MASTERDIAMOND,"Cherish this Black Friday delight overflowing with rare, valuable items!"
+ID_OF_DE_BF24_STEP1,Don't miss out on this Black Friday Chain Offer and get more than more than {var1}x value!
+ID_OF_DE_BF24_STEP1_OML,Finish this Chain Offer for a 3-Diamond Old Man Logan! The entire chain is greater than a {var1}x value!
+ID_OF_DE_BF24_STEP1_MEPH,"Tempt the Dark Dimensional boss to a higher Red Star level, and finish the chain to achieve full power!"
+ID_OF_DE_BF24_ORBGATE,Multi-Open is your best friend with this One-Day-Only Teal Gear Orb blowout!
+ID_OF_DE_BF24_ASTRALTORB,One-Time-Only Astral Orb Combo Offer! <color=#ffda21>Greater than a {var1}x value</color>!
+ID_OF_NA_CYBER24_TRAINING_ISO,Cyber Strike: Quantum Options
+ID_OF_NA_CYBER24_TRAINING_DEC_RATE,Cyber Strike: Training Tips
+ID_OF_NA_CYBER24_TRAINING_ORB_DEC_RATE,Cyber Strike: Exercise Data
+ID_OF_NA_CYBER24_TRAINING_MATS_DEC_RATE,Cyber Strike: Optimal Training
+ID_OF_NA_CYBER24_GOLD_TRAINING,Cyber Strike: Digital Vault
+ID_OF_NA_CYBER24_GOLD_ORBS_DEC_RATE,Cyber Strike: Wealth Algorithm
+ID_OF_NA_CYBER24_GOLD_DEC_RATE,Cyber Strike: Harvest Protocols
+ID_OF_NA_CYBER24_GOLD_DEC_RATE2,Cyber Strike: Optimal Investments
+ID_OF_NA_CYBER24_BLADE_OATH_MANTHING_TRAIN_GOLD_ABM,Cyber Strike: Shadow Hackers
+ID_OF_NA_CYBER24_THANOSEG_GOLD_ABM_TRAIN,Cyber Strike: Meme Tyrant
+ID_OF_NA_CYBER24_BLADE_OATH_GOLD_TRAIN,Cyber Strike: Blood Hackers
+ID_OF_NA_CYBER24_ORCHIS_TEAM,Cyber Strike: Orchis Override
+ID_OF_NA_CYBER24_ANNIHILATORS_DORB,Cyber Strike: Cosmic Savings
+ID_OF_NA_CYBER24_BLADE_CRIMSONGEAR_UNLOCK_WEB,Cyber Strike Special: Blade
+ID_OF_NA_CYBER24_BLADE_CRIMSONGEAR_BASE,Cyber Strike: Blade's Crimson Fangs
+ID_OF_NA_CYBER24_OATH_CRIMSONGEAR_UNLOCK_WEB,Cyber Strike Special: Oath
+ID_OF_NA_CYBER24_OATH_CRIMSONGEAR_BASE,Cyber Strike: Oath's Crimson Wings
+ID_OF_NA_CYBER24_MANTHING_CRIMSONGEAR_UNLOCK_WEB,Cyber Strike Special: Man-Thing
+ID_OF_NA_CYBER24_MANTHING_CRIMSONGEAR_BASE,Cyber Strike: Man-Thing's Crimson Eyes
+ID_OF_NA_CYBER24_MORB_GOLD,Cyber Strike: Golden Opportunity
+ID_OF_NA_CYBER24_SENTINEL_CRIMSONGEAR,Cyber Strike: Crimson Sentinel Protocol
+ID_OF_NA_CYBER24_NIMROD_CRIMSONGEAR,Cyber Strike: Crimson Nimrod
+ID_OF_NA_CYBER24_OMEGASENTINEL_CRIMSONGEAR,Cyber Strike: Crimson Omega Sentinel
+ID_OF_NA_CYBER24_OMEGASENTINEL_A19_DDC_UNLOCK_WEB,Cyber Strike Special: Omega Sentinel
+ID_OF_NA_CYBER24_OMEGASENTINEL_A19_DPC_BASE,Cyber Strike: Omega User
+ID_OF_NA_CYBER24_NIMROD_A19_DDC_UNLOCK_WEB,Cyber Strike Special: Nimrod
+ID_OF_NA_CYBER24_NIMROD_A19_DPC_BASE,Cyber Strike: Nimrod Function
+ID_OF_NA_CYBER24_SENTINEL_A19_DDC_UNLOCK_WEB,Cyber Strike Special: Sentinel
+ID_OF_NA_CYBER24_SENTINEL_A19_DPC_BASE,Cyber Strike: Sentinel Protocol
+ID_OF_NA_CYBER24_ALPHAFLIGHT,Cyber Strike: Alpha Strike
+ID_OF_NA_CYBER24_SPIDERSOCIETY,Cyber Strike: Collective Glue
+ID_OF_NA_CYBER24_ILLUMINATI_TEAM,Cyber Strike: Defense System
+ID_OF_NA_CYBER24_FREE_ZUGGS_3D_STEP8,(8/8) Cyber Strike Deal
+ID_OF_NA_CYBER24_DDC_DORB_DPC_STEP7,(7/8) Cyber Strike Deal
+ID_OF_NA_CYBER24_FREE_ZUGGS_2D_STEP6,(6/8) Cyber Strike Deal
+ID_OF_NA_CYBER24_GOLD_DDC_DPC_STEP5,(5/8) Cyber Strike Deal
+ID_OF_NA_CYBER24_FREE_ZUGGS_1D_STEP4,(4/8) Cyber Strike Deal
+ID_OF_NA_CYBER24_T4ABM_T3ION_DPC_STEP3,(3/8) Cyber Strike Deal
+ID_OF_NA_CYBER24_T4ABM_DDC_DPC_STEP2,(2/8) Cyber Strike Deal
+ID_OF_NA_CYBER24_T4ABM_DORB_DPC_STEP1_,(1/8) Cyber Strike Deal
+ID_OF_NA_CYBER24_DPC_ABM_DORB,Cyber Strike: Latent Ability
+ID_OF_NA_CYBER24_DORB_ABM_TRAIN,Cyber Strike: Ambitious Actions
+ID_OF_NA_CYBER24_OATH_CRIMSON_ORIGINS,Cyber Strike: Oath's Origins
+ID_OF_NA_CYBER24_NIGHTSTALKER_CRIMSON_MINIS,Cyber Strike: Crimson Reagents
+ID_OF_NA_CYBER24_APOC_CRIMSON_GEAR,Cyber Strike: Crimson Methodology
+ID_OF_NA_CYBER24_DORB_MAX_WEB,Cyber Strike: Diamond Order
+ID_OF_NA_CYBER24_T3_IONS_T3_CREDIT_DDC_DORB_STEP7_WEB,(7/7) Cyber Strike Special
+ID_OF_NA_CYBER24_FREE_DORB_STEP6_WEB,(6/7) Cyber Strike Special
+ID_OF_NA_CYBER24_T3_IONS_T3_CREDIT_DDC_STEP5_WEB,(5/7) Cyber Strike Special
+ID_OF_NA_CYBER24_FREE_DDC_STEP4_WEB,(4/7) Cyber Strike Special
+ID_OF_NA_CYBER24_T3_IONS_T3_CREDIT_STEP3_WEB,(3/7) Cyber Strike Special
+ID_OF_NA_CYBER24_FREE_T3_IONS_STEP2_WEB,(2/7) Cyber Strike Special
+ID_OF_NA_CYBER24_T3_CREDIT_STEP1_WEB,(1/7) Cyber Strike Special
+ID_OF_NA_CYBER24_T3_BRAWLER_CRYSTALS,Cyber Strike: Brawler's Calibration
+ID_OF_NA_CYBER24_T3_BLASTER_CRYSTALS,Cyber Strike: Blaster's Configuration
+ID_OF_NA_CYBER24_T3_CONTROLLER_CRYSTALS,Cyber Strike: Controller's Firewall
+ID_OF_NA_CYBER24_T3_PROTECTOR_CRYSTALS,Cyber Strike: Protector's Protocol
+ID_OF_NA_CYBER24_T3_SUPPORT_CRYSTALS,Cyber Strike: Support's Anti-Virus
+ID_OF_NA_CYBER24_T2_ISO_CLASS_ORBS,Cyber Strike: ISO Overload
+ID_OF_NA_CYBER24_ISO_TRAINING,Cyber Strike: Recertification Test
+ID_OF_NA_CYBER24_T1T2_ISO_CATCHUP,Cyber Strike: Online Training
+ID_OF_DE_CYBER24_FREE_ZUGGS_3D_STEP8,Thank you for your support! Here is your free <color=#87CEEB>3-Diamond Juggernaut (Zombie)</color>!
+ID_OF_DE_CYBER24_T4ABM_DORB_DPC_STEP1_,Enjoy this limited time special featuring a free <color=#87CEEB>3-Diamond Juggernaut (Zombie)</color> at the end!
+ID_OF_DE_CYBER24_FREE_T3_IONS_STEP2_WEB,Claim your free rewards now and continue the chain!
+ID_OF_DE_CYBER24_T3_CREDIT_STEP1_WEB,Don't miss out on this limited time <color=#800080>Purple ISO</color> offer chain!
+ID_OF_NA_FIVEGOLDENRINGS_STARTER,Five Golden Rings: Starter
+ID_OF_NA_FIVEGOLDENRINGS_CATCHUP,Five Golden Rings: Catch-up
+ID_OF_NA_FIVEGOLDENRINGS_WEB_SPECIAL,Five Golden Rings: Web Special
+ID_OF_NA_FIVEGOLDENRINGS_DAILY_GOLD,Five Golden Rings: Daily Orb
+ID_OF_NA_FIVEGOLDENRINGS_DAILY_POINTS,Five Golden Rings: Daily Points
+ID_OF_NA_FIVEGOLDENRINGS_DAILY_ENERGY,Five Golden Rings: Daily Energy
+ID_OF_NA_FIVEGOLDENRINGS_DAILY_FREE_CLAIM,Five Golden Rings: Free Claim
+ID_OF_NA_FIVEGOLDENRINGS_DAILY_INTERSTITIAL,Five Golden Rings: Hidden Vault
+ID_OF_NA_FIVEGOLDENRINGS_INTERSTITIAL_2_PIVOT,Five Golden Rings: Hidden Treasure
+ID_OF_NA_FIVEGOLDENRINGS_MID_EVENT_SPECIAL_PIVOT,Five Golden Rings: Special Bundle
+ID_OF_DE_FIVEGOLDENRINGS_STARTER,Jump-start your <color=#fff568>Five Golden Rings</color> Milestone progress and make your way to <color=#f12603>Mephisto Red Star Orbs</color> and <color=#fff568>Crimson Mutant Gear</color>!
+ID_OF_DE_FIVEGOLDENRINGS_CATCHUP,Finish strong in the milestones to earn <color=#f12603>Mephisto Red Star Orbs</color> and <color=#fff568>Crimson Mutant Gear</color>!
+ID_OF_DE_FIVEGOLDENRINGS_WEB_SPECIAL,Take advantage of a great value with this Five Golden Rings special web bundle!
+ID_OF_DE_FIVEGOLDENRINGS_DAILY_GOLD,Stock up on <color=#fff568>Gold</color> to spend for progress in the Five Golden Rings Milestone and compete for a chance at <color=#fff568>Mephisto Diamonds</color>!
+ID_OF_DE_FIVEGOLDENRINGS_DAILY_POINTS,Get ahead in the <color=#fff568>Five Golden Rings</color> Leaderboard to compete for <color=#fff568>Mephisto Diamonds</color>!
+ID_OF_DE_FIVEGOLDENRINGS_DAILY_ENERGY,"Get your daily dose of Campaign Energy to earn Shadow Orb Fragments, which will equip you for the Shadow King Trials and bolster your progress in the Five Golden Rings milestone!"
+ID_OF_DE_FIVEGOLDENRINGS_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Five Golden Rings</color> progress!
+ID_OF_DE_FIVEGOLDENRINGS_DAILY_INTERSTITIAL,You just unlocked the <color=#fff568>best discount deal</color> for the <color=#fff568>Five Golden Rings</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_FIVEGOLDENRINGS_INTERSTITIAL_2_PIVOT,You just unlocked a superb discount deal for the <color=#fff568>Five Golden Rings</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_FIVEGOLDENRINGS_MID_EVENT_SPECIAL_PIVOT,Claim this mega deal and leap to the top of the leaderboard in the <color=#fff568>Five Golden Rings</color> Milestone for a chance at <color=#fff568>Mephisto Diamonds</color>!
+ID_OF_NA_ABSOLUTEASSAULT_STARTER,Absolute Assault: Starter Bundle
+ID_OF_NA_ABSOLUTEASSAULT_CATCHUP,Absolute Assault: Catch-Up Bundle
+ID_OF_NA_ABSOLUTEASSAULT_EVENTORB,Absolute Assault: Daily Allied Supply
+ID_OF_NA_ABSOLUTEASSAULT_MEGA,Absolute Assault: Special Bundle
+ID_OF_NA_ABSOLUTEASSAULT_FREECLAIM,Absolute Assault: Free Claim
+ID_OF_NA_ABSOLUTEASSAULT_INTERSTITIAL,Absolute Assault: Supply Special
+ID_OF_DE_ABSOLUTEASSAULT_STARTER,Help your alliance start off strong in the <color=#fff568>Absolute Assault</color> Milestone for Crimson Gear rewards and <color=#fff568>The Ice Queen's Gala</color> progress!
+ID_OF_DE_ABSOLUTEASSAULT_CATCHUP,Push your alliance to the finish line with this <color=#fff568>Absolute Assault</color> Milestone bundle for Crimson Gear and <color=#fff568>The Ice Queen's Gala</color> progress!
+ID_OF_DE_ABSOLUTEASSAULT_EVENTORB,Get Allied Supply VI orbs for <color=#fff568>Absolute Assault</color> progress!
+ID_OF_DE_ABSOLUTEASSAULT_MEGA,Get ahead in <color=#fff568>Absolute Assault</color> Milestone and propel your Alliance to <color=#fff568>Crimson Gear</color> and <color=#fff568>T3 Iso-8 Materials</color>!
+ID_OF_DE_ABSOLUTEASSAULT_FREECLAIM,Come back daily for more <color=#fff568>Absolute Assault</color> progress!
+ID_OF_DE_ABSOLUTEASSAULT_INTERSTITIAL,Stock up on Allied Supply VI Orbs for extra progress in the <color=#fff568>Absolute Assault</color> Milestone!
+ID_OF_NA_SNOWGLOBE_CALENDAR,Snow Globe Calendar
+ID_OF_DE_SNOWGLOBE_CALENDAR,Earn 1 Million Snow Globes and 2 Best of 2024 Diamond Orbs with a chance to earn 3 Diamond Kahhori

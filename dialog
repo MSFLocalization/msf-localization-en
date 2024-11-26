@@ -9899,6 +9899,100 @@ ID_DIALOG_SSE_ASTRALTEAM_05_END_2,Do not despair. He hasn't escaped far.
 ID_DIALOG_SSE_ASTRALTEAM_05_END_3,"Shadow King is a formidable enemy, but he no longer has the element of surprise."
 ID_DIALOG_SSE_ASTRALTEAM_05_END_4,"We know who sits at the center of your mystery, Logan."
 ID_DIALOG_SSE_ASTRALTEAM_05_END_5,And we WILL get Shadow King to tell us what he's done with Charles Xavier!
+ID_DIALOG_SSE_KAHHORI_01_INTRO_0,"ARCADIA, SOUTHERN BATTLEWORD..."
+ID_DIALOG_SSE_KAHHORI_01_INTRO_1,This was Corsair's last known location? What's he doing here?
+ID_DIALOG_SSE_KAHHORI_01_INTRO_2,You there! Are you also sent by the Shi'ar?
+ID_DIALOG_SSE_KAHHORI_01_INTRO_3,"Easy, bub. I ain't workin' for them."
+ID_DIALOG_SSE_KAHHORI_01_INTRO_4,I'm lookin' for Corsair.
+ID_DIALOG_SSE_KAHHORI_01_INTRO_5,What do you want with the thief?
+ID_DIALOG_SSE_KAHHORI_01_INTRO_6,What's he gotten into now?
+ID_DIALOG_SSE_KAHHORI_01_START_0,"You don't know? Help me clear these guys out, and I'll fill you in."
+ID_DIALOG_SSE_KAHHORI_01_END_0,Your friend is on the run from the Shi'ar.
+ID_DIALOG_SSE_KAHHORI_01_END_1,Arcadia is under threat because the Shi'ar believe we are hiding him.
+ID_DIALOG_SSE_KAHHORI_01_END_2,Looks like we both need answers from him. I'll help ya find him.
+ID_DIALOG_SSE_KAHHORI_02_START_0,"They just keep comin', don't they?"
+ID_DIALOG_SSE_KAHHORI_02_START_1,And they won't stop until we apprehend the thief and turn him in.
+ID_DIALOG_SSE_KAHHORI_03_START_0,Who are these guys?
+ID_DIALOG_SSE_KAHHORI_03_START_1,Warnings from the Shi'ar.
+ID_DIALOG_SSE_KAHHORI_03_START_2,That's a heavy-handed warnin'.
+ID_DIALOG_SSE_KAHHORI_05_END_0,The Shi'ar usually ain't this aggressive.
+ID_DIALOG_SSE_KAHHORI_05_END_1,What did Corsair get his hands on this time?
+ID_DIALOG_SSE_KAHHORI_05_END_2,We don't know. Not that it would make a difference.
+ID_DIALOG_SSE_KAHHORI_05_END_3,"Maybe not, but it's a question we now have an answer to."
+ID_DIALOG_SSE_KAHHORI_05_END_4,"Welcome back, Carol."
+ID_DIALOG_SSE_KAHHORI_05_END_5,And you are?
+ID_DIALOG_SSE_KAHHORI_05_END_6,Ms. Marvel. I was sent as an emissary to figure this mess out. Things aren't looking good.
+ID_DIALOG_SSE_CAROLDANVERS_01_INTRO_0,He took a Logic Diamond.
+ID_DIALOG_SSE_CAROLDANVERS_01_INTRO_1,What's that?
+ID_DIALOG_SSE_CAROLDANVERS_01_INTRO_2,They're used to store the mental engrams of Krakoans.
+ID_DIALOG_SSE_CAROLDANVERS_01_INTRO_3,But that's all the Shi'ar were willing to say.
+ID_DIALOG_SSE_CAROLDANVERS_01_INTRO_4,"The Shi'ar are, however, willing to use any means necessary to recover it."
+ID_DIALOG_SSE_CAROLDANVERS_01_INTRO_5,I'm guessin' that includes throwin' more bodies at the problem.
+ID_DIALOG_SSE_CAROLDANVERS_01_START_0,You'd guess right.
+ID_DIALOG_SSE_CAROLDANVERS_02_INTRO_0,Somethin' 'bout this ain't addin' up.
+ID_DIALOG_SSE_CAROLDANVERS_02_INTRO_1,We didn't think so either.
+ID_DIALOG_SSE_CAROLDANVERS_02_INTRO_2,He would have to have come out of his usual routes to hide here.
+ID_DIALOG_SSE_CAROLDANVERS_02_INTRO_3,Summers wouldn't be lookin' to stash somethin' of that value in unknown territory either.
+ID_DIALOG_SSE_CAROLDANVERS_02_INTRO_4,Tell them that.
+ID_DIALOG_SSE_CAROLDANVERS_02_END_0,No more messin' around. I'll track him down.
+ID_DIALOG_SSE_CAROLDANVERS_03_START_0,We're findin' more of these Shi'ar squads the closer we get.
+ID_DIALOG_SSE_CAROLDANVERS_04_START_0,Yer in my way!
+ID_DIALOG_SSE_CAROLDANVERS_04_END_0,We're gettin' closer. Keep yer eyes open.
+ID_DIALOG_SSE_CAROLDANVERS_05_INTRO_0,There he is!
+ID_DIALOG_SSE_CAROLDANVERS_05_INTRO_1,We should let the Shi'ar apprehend him.
+ID_DIALOG_SSE_CAROLDANVERS_05_INTRO_2,No chance. I need answers from him.
+ID_DIALOG_SSE_CAROLDANVERS_05_INTRO_3,Logan! Wait!
+ID_DIALOG_SSE_CAROLDANVERS_05_START_0,"Summers, ya got a lot of explainin' to do."
+ID_DIALOG_SSE_CAROLDANVERS_05_END_0,"Summers, ya hear me?!"
+ID_DIALOG_SSE_CAROLDANVERS_05_END_1,Stay back! That isn't Corsair!
+ID_DIALOG_SSE_CAROLDANVERS_05_END_2,What a pity. I guess the game is up.
+ID_DIALOG_SSE_MEDUSA_01_INTRO_0,Why ain't I surprised that yer at the center of this mess?
+ID_DIALOG_SSE_MEDUSA_01_INTRO_1,This is hardly sophisticated enough to be one of my ploys.
+ID_DIALOG_SSE_MEDUSA_01_INTRO_2,"Regardless, I can't let you take back the Logic Diamond."
+ID_DIALOG_SSE_MEDUSA_01_INTRO_3,It's such a shame such a beautiful place isn't open for more visitors.
+ID_DIALOG_SSE_MEDUSA_01_INTRO_4,"Let's rectify that, shall we?"
+ID_DIALOG_SSE_MEDUSA_01_START_0,Portals? But where is the enemy coming from?
+ID_DIALOG_SSE_MEDUSA_01_START_1,The rest of Battleworld.
+ID_DIALOG_SSE_MEDUSA_01_END_0,"I'd love to stay and chat... actually, no. I wouldn't."
+ID_DIALOG_SSE_MEDUSA_01_END_1,"Yer not gettin' away for long, Loki!"
+ID_DIALOG_SSE_MEDUSA_02_START_0,They don't stop coming!
+ID_DIALOG_SSE_MEDUSA_03_INTRO_0,These portals are going to be a problem.
+ID_DIALOG_SSE_MEDUSA_03_INTRO_1,"If we don't get them closed soon, Arcadia will become like the rest of Battleworld."
+ID_DIALOG_SSE_MEDUSA_03_INTRO_2,Now we got two reasons to catch Loki.
+ID_DIALOG_SSE_MEDUSA_03_INTRO_3,And we're hot on his tail.
+ID_DIALOG_SSE_MEDUSA_04_START_0,If only these portals weren't spilling out so many enemies.
+ID_DIALOG_SSE_MEDUSA_05_INTRO_0,"That's it, bub. End of the line."
+ID_DIALOG_SSE_MEDUSA_05_INTRO_1,Aren't you the perfect little pet for the group?
+ID_DIALOG_SSE_MEDUSA_05_INTRO_2,"Tell me, Wolverine, are you only capable of following your nose?"
+ID_DIALOG_SSE_MEDUSA_05_INTRO_3,Or is your mind as dull as your claws at your ripe old age?
+ID_DIALOG_SSE_MEDUSA_05_INTRO_4,Come closer and find out.
+ID_DIALOG_SSE_MEDUSA_05_START_0,Yer mouthin' off a lot for someone's that been on the run.
+ID_DIALOG_SSE_MEDUSA_05_END_0,HAHAHA!
+ID_DIALOG_SSE_MEDUSA_05_END_1,"You didn't think it would really be that easy, did you?"
+ID_DIALOG_SSE_MEDUSA_05_END_2,Keep chasing my clones.
+ID_DIALOG_SSE_MEDUSA_05_END_3,"In the meantime, I'll be sure to keep this precious gem safely hidden."
+ID_DIALOG_SSE_AAFTEAM_01_INTRO_0,"Logan, we need to regroup!"
+ID_DIALOG_SSE_AAFTEAM_01_INTRO_1,One of the greatest men I've ever known is missin'. I ain't waitin' anymore.
+ID_DIALOG_SSE_AAFTEAM_01_INTRO_2,There are too many of Loki's clones to know which is the real one.
+ID_DIALOG_SSE_AAFTEAM_01_INTRO_3,If we attack without thinking we'll be wasting more time.
+ID_DIALOG_SSE_AAFTEAM_01_INTRO_4,Figure somethin' out. My claws are itchin' for a fight.
+ID_DIALOG_SSE_AAFTEAM_02_START_0,GET OUTTA MY WAY!!
+ID_DIALOG_SSE_AAFTEAM_03_START_0,"I'd suggest therapy, but I guess this also works to get out that anger."
+ID_DIALOG_SSE_AAFTEAM_04_INTRO_0,I didn't think blind rage would be a viable strategy.
+ID_DIALOG_SSE_AAFTEAM_04_INTRO_1,"I gotcha right where i want ya, Loki!"
+ID_DIALOG_SSE_AAFTEAM_04_START_0,I'm a god. You're just a fleshy ball of rage.
+ID_DIALOG_SSE_AAFTEAM_04_START_1,What chance can you have at defeating me?
+ID_DIALOG_SSE_AAFTEAM_04_END_0,"Yer surrounded, Loki!"
+ID_DIALOG_SSE_AAFTEAM_04_END_1,Come quietly and I won't scratch you up too bad.
+ID_DIALOG_SSE_AAFTEAM_04_END_2,I suppose it's time for my grand finale.
+ID_DIALOG_SSE_AAFTEAM_05_START_0,Gettin' tired?
+ID_DIALOG_SSE_AAFTEAM_05_START_1,I WILL NOT be taunted by the likes of you!
+ID_DIALOG_SSE_AAFTEAM_05_END_0,ENOUGH! I'll close the portals.
+ID_DIALOG_SSE_AAFTEAM_05_END_1,And here! This stupid rock has been more trouble than it's worth.
+ID_DIALOG_SSE_AAFTEAM_05_END_2,I'll get this back to the Shi'ar.
+ID_DIALOG_SSE_AAFTEAM_05_END_3,Hold on. Let me see it.
+ID_DIALOG_SSE_AAFTEAM_05_END_4,What is it? You look like you've seen a ghost.
+ID_DIALOG_SSE_AAFTEAM_05_END_5,I need to call Fury... This Logic Diamond has Chuck's engram!
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_0,"Barton, we've had a breach in S.H.I.E.L.D. containment module XR-847B."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_1,"You're the closest agent to the scene of the incident. Find out how they got in, and why."
 ID_DIALOG_IRONMAN_EVENT_01_INTRO_2,On it.

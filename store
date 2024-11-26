@@ -9409,3 +9409,43 @@ ID_GACHA_CRATE_ALPHAFLIGHT_DIAMOND_DRAFT_NAME,Alpha Flight Diamond Draft
 ID_GACHA_CRATE_ALPHAFLIGHT_DIAMOND_DRAFT_DESCRIPTION,"Get guaranteed diamond(s) of Northstar, Guardian, or Sasquatch"
 ID_GACHA_CRATE_DARK_DIAMOND_DRAFT_NAME,Dark Diamond Draft
 ID_GACHA_CRATE_DARK_DIAMOND_DRAFT_DESCRIPTION,"Get guaranteed diamond(s) of Super Skrull, Dormammu, Nova, Black Cat, or Green Goblin (Classic)"
+ID_GACHA_CRATE_FCO_KAHHORI_SPECIAL_NAME,Stirs the Forest Orb
+ID_GACHA_CRATE_FCO_KAHHORI_SPECIAL_DESCRIPTION,Earn up to 180 Kahhori shards
+ID_GACHA_CRATE_FCO_KAHHORI_SPECIAL_TOKEN_NAME,Stirs the Forest Orb Fragments
+ID_GACHA_CRATE_FCO_KAHHORI_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Stirs the Forest Orbs that contain up to 180 Kahhori shards.
+ID_GACHA_CRATE_TEAMORB_KAHHORI_NAME,Path to Kahhori Orb
+ID_GACHA_CRATE_TEAMORB_KAHHORI_DESCRIPTION,"Contains Kahhori, Wasp, and Ironheart Shards!"
+ID_GACHA_CRATE_TEAMORB_KAHHORI_TOKEN_NAME,Path to Kahhori Orb Fragments
+ID_GACHA_CRATE_TEAMORB_KAHHORI_TOKEN_DESCRIPTION,"Find Path to Kahhori Orb Fragments in events, and offers!"
+ID_GACHA_CRATE_FCO_MSMARVELCLASSIC_SPECIAL_NAME,Absolute Ace Orb
+ID_GACHA_CRATE_FCO_MSMARVELCLASSIC_SPECIAL_DESCRIPTION,Earn up to 180 Ms. Marvel (Classic) shards
+ID_GACHA_CRATE_FCO_MSMARVELCLASSIC_SPECIAL_TOKEN_NAME,Absolute Ace Orb Fragments
+ID_GACHA_CRATE_FCO_MSMARVELCLASSIC_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Absolute Ace Orbs that contain up to 180 Ms. Marvel (Classic) shards.
+ID_GACHA_CRATE_TEAMORB_MSMARVELCLASSIC_NAME,Path to Ms. Marvel (Classic) Orb
+ID_GACHA_CRATE_TEAMORB_MSMARVELCLASSIC_DESCRIPTION,"Contains Ms. Marvel (Classic), Wasp, and Ironheart Shards!"
+ID_GACHA_CRATE_TEAMORB_MSMARVELCLASSIC_TOKEN_NAME,Path to Ms. Marvel (Classic) Orb Fragments
+ID_GACHA_CRATE_TEAMORB_MSMARVELCLASSIC_TOKEN_DESCRIPTION,"Find Path to Ms. Marvel (Classic) Orb Fragments in events, and offers!"
+ID_GACHA_CRATE_FCO_MEDUSA_SPECIAL_NAME,Queen's Fury Orb
+ID_GACHA_CRATE_FCO_MEDUSA_SPECIAL_DESCRIPTION,Earn up to 180 Medusa shards
+ID_GACHA_CRATE_FCO_MEDUSA_SPECIAL_TOKEN_NAME,Queen's Fury Orb Fragments
+ID_GACHA_CRATE_FCO_MEDUSA_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Queen's Fury Orbs that contain up to 180 Medusa shards.
+ID_GACHA_CRATE_TEAMORB_MEDUSA_NAME,Path to Medusa Orb
+ID_GACHA_CRATE_TEAMORB_MEDUSA_DESCRIPTION,"Contains Medusa, Wasp, and Ironheart Shards!"
+ID_GACHA_CRATE_TEAMORB_MEDUSA_TOKEN_NAME,Path to Medusa Orb Fragments
+ID_GACHA_CRATE_TEAMORB_MEDUSA_TOKEN_DESCRIPTION,"Find Path to Medusa Orb Fragments in events, and offers!"
+ID_GACHA_CRATE_RINGORB1_NAME,Crimson Golden Ring Orb
+ID_GACHA_CRATE_RINGORB1_DESCRIPTION,"Contains Tier 19 Crimson Gear, Crimson Origin Gear, and Crimson Catalysts!"
+ID_GACHA_CRATE_RINGORB1_TOKEN_NAME,Crimson Golden Ring Orb Fragments
+ID_GACHA_CRATE_RINGORB1_TOKEN_DESCRIPTION,"Buy these orbs for Gold, and then open them for bonus points in the Five Golden Rings Milestone as well as Crimson Mini-Uniques, Origin Gear, and Catalysts!"
+ID_GACHA_CRATE_RINGORB2_NAME,Augmented Golden Ring Orb
+ID_GACHA_CRATE_RINGORB2_DESCRIPTION,"Contains Tier 16-18 Augmented Gear, Augmented Origin Gear, and Augmented Catalysts!"
+ID_GACHA_CRATE_RINGORB2_TOKEN_NAME,Augmented Golden Ring Orb Fragments
+ID_GACHA_CRATE_RINGORB2_TOKEN_DESCRIPTION,"Buy these orbs for Gold, and then open them for bonus points in the Five Golden Rings Milestone as well as Augmented Mini-Uniques, Origin Gear, and Catalysts!"
+ID_GACHA_CRATE_RINGORB3_NAME,Isotope Golden Ring Orb
+ID_GACHA_CRATE_RINGORB3_DESCRIPTION,Contains Tier 2 Level 4-5 Ions and Tier 2 Iso-8 Crystals!
+ID_GACHA_CRATE_RINGORB3_TOKEN_NAME,Isotope Golden Ring Orb Fragments
+ID_GACHA_CRATE_RINGORB3_TOKEN_DESCRIPTION,"Buy these orbs for Gold, and then open them for bonus points in the Five Golden Rings Milestone as well as Tier 2 Level 4-5 Ions and Tier 2 Iso-8 Crystals!"
+ID_GACHA_CRATE_RINGORB4_NAME,Heroic Golden Ring Orb
+ID_GACHA_CRATE_RINGORB4_DESCRIPTION,Contains shards for a variety of this year's essential characters!
+ID_GACHA_CRATE_RINGORB4_TOKEN_NAME,Heroic Golden Ring Orb Fragments
+ID_GACHA_CRATE_RINGORB4_TOKEN_DESCRIPTION,"Buy these orbs for Gold, and then open them for bonus points in the Five Golden Rings Milestone as well as shards for a variety of this year's essential characters!"

@@ -4094,3 +4094,83 @@ ID_MISSION_EVENT_SPIDERVILLAINS_5_NAME,Call in the Doc!
 ID_MISSION_EVENT_SPIDERVILLAINS_5_DESC,Not all healing was created equally.
 ID_MIS_HALLOWEEN2024_VAMPIRE_DESC,"Special Rules:\n\n<color=#FF9900>Ritual of the Blood God</color>\n> On Turn, civilians have a <color=#86e619>50%</color> chance to gain <color=#86e619>1</color> <color=#fff568>Bleed</color>. On turn, if a civilian has <color=#fff568>Bleed</color>, they gain <color=#fff568>Taunt</color> for <color=#86e619>1</color> turn.\n\n<color=#FF9900>Thirst Eternal</color>:\n> <color=#fff568>VAMPIRE</color> enemies heal <color=#86e619>50%</color> of their Max Health when attacking enemies with <color=#fff568>Bleed</color>. If their Max Health is full they instead gain <color=#86e619>1</color> <color=#fff568>Deathproof</color>, <color=#fff568>Offense Up</color> for <color=#86e619>3</color> turns, <color=#fff568>Defense Up</color> for <color=#86e619>3</color> turns, and <color=#fff568>Safeguard</color> for <color=#86e619>3</color> turns.\n> If a Vampire enemy kills a civilian that enemy fills their Speed Bar by <color=#86e619>100%</color>."
 ID_MIS_HALLOWEEN2024_ZOMBIE_DESC,"Special Rules:\n\n<color=#FF9900>Hunger Without End</color>:\n> On spawn, <color=#86e619>UNDYING</color> gain <color=#86e619>10</color> <color=#fff568>Hungry</color>. Gain +<color=#86e619>20%</color> Speed and -<color=#86e619>8%</color> Damage per <color=#fff568>Hungry</color>.\n> Enemies spawn with <color=#fff568>Braaaaaaains</color>. Defeating an enemy removes an amount of <color=#fff568>Hungry</color> equal to the <color=#fff568>Braaaaaaains</color>... consumed.\n> When <color=#86e619>20</color> <color=#fff568>Braaaaaaains</color> are consumed, that character gains <color=#fff568>Undead Fortitude</color>.\n> <color=#fff568>Undead Fortitude</color> grants a character <color=#86e619>50%</color> Damage Resistance."
+ID_MIS_AAFORCE_KAHHORI_01_NAME,Trouble in Paradise
+ID_MIS_AAFORCE_KAHHORI_01_DESC,The utopia in Battleworld is facing mounting pressure from an outside force.
+ID_MIS_AAFORCE_KAHHORI_02_NAME,Under Pressure
+ID_MIS_AAFORCE_KAHHORI_02_DESC,Waves of enemies set their sights on Arcadia.
+ID_MIS_AAFORCE_KAHHORI_03_NAME,Constant Threat
+ID_MIS_AAFORCE_KAHHORI_03_DESC,More enemies pour into the streets of Arcadia.
+ID_MIS_AAFORCE_KAHHORI_04_NAME,Battering Waves
+ID_MIS_AAFORCE_KAHHORI_04_DESC,The Shi'ar Empire is relentless in their pursuit of the thief.
+ID_MIS_AAFORCE_KAHHORI_05_NAME,Knowledge is Power
+ID_MIS_AAFORCE_KAHHORI_05_DESC,A piece of the puzzle is revealed but it's relevance is debatable.
+ID_MIS_AAFORCE_KAHHORI_06_NAME,Absolute A-Force - Kahhori Challenge 1
+ID_MIS_AAFORCE_KAHHORI_06_DESC,Kahhori Challenge 1
+ID_MIS_AAFORCE_KAHHORI_07_NAME,Absolute A-Force - Kahhori Challenge 2
+ID_MIS_AAFORCE_KAHHORI_07_DESC,Kahhori Challenge 2
+ID_MIS_AAFORCE_KAHHORI_08_NAME,Absolute A-Force - Kahhori Challenge 3
+ID_MIS_AAFORCE_KAHHORI_08_DESC,Kahhori Challenge 3
+ID_MIS_AAFORCE_KAHHORI_09_NAME,Absolute A-Force - Kahhori Challenge 4
+ID_MIS_AAFORCE_KAHHORI_09_DESC,Kahhori Challenge 4
+ID_MIS_AAFORCE_KAHHORI_10_NAME,Absolute A-Force - Kahhori Challenge 5
+ID_MIS_AAFORCE_KAHHORI_10_DESC,Kahhori Challenge 5
+ID_MIS_AAFORCE_MSDANVERS_01_NAME,Logically Sound
+ID_MIS_AAFORCE_MSDANVERS_01_DESC,The pilfered item has been identified.
+ID_MIS_AAFORCE_MSDANVERS_02_NAME,Smellin' Fishy
+ID_MIS_AAFORCE_MSDANVERS_02_DESC,The pieces of the puzzle don't seem to be fitting together.
+ID_MIS_AAFORCE_MSDANVERS_03_NAME,Immediate Resistance
+ID_MIS_AAFORCE_MSDANVERS_03_DESC,The Shi'ar attack squads slow down the investigation.
+ID_MIS_AAFORCE_MSDANVERS_04_NAME,Nearing the End
+ID_MIS_AAFORCE_MSDANVERS_04_DESC,"Hot on the trail of their target, the group has one more hurdle to overcome."
+ID_MIS_AAFORCE_MSDANVERS_05_NAME,Shadows Lifted
+ID_MIS_AAFORCE_MSDANVERS_05_DESC,The thief's true identity is revealed.
+ID_MIS_AAFORCE_MSDANVERS_06_NAME,Absolute A-Force - Ms. Marvel (Classic) Challenge 1
+ID_MIS_AAFORCE_MSDANVERS_06_DESC,Ms. Marvel (Classic) Challenge 1
+ID_MIS_AAFORCE_MSDANVERS_07_NAME,Absolute A-Force - Ms. Marvel (Classic) Challenge 2
+ID_MIS_AAFORCE_MSDANVERS_07_DESC,Ms. Marvel (Classic) Challenge 2
+ID_MIS_AAFORCE_MSDANVERS_08_NAME,Absolute A-Force - Ms. Marvel (Classic) Challenge 3
+ID_MIS_AAFORCE_MSDANVERS_08_DESC,Ms. Marvel (Classic) Challenge 3
+ID_MIS_AAFORCE_MSDANVERS_09_NAME,Absolute A-Force - Ms. Marvel (Classic) Challenge 4
+ID_MIS_AAFORCE_MSDANVERS_09_DESC,Ms. Marvel (Classic) Challenge 4
+ID_MIS_AAFORCE_MSDANVERS_10_NAME,Absolute A-Force - Ms. Marvel (Classic) Challenge 5
+ID_MIS_AAFORCE_MSDANVERS_10_DESC,Ms. Marvel (Classic) Challenge 5
+ID_MIS_AAFORCE_MEDUSA_01_NAME,Open to the Public
+ID_MIS_AAFORCE_MEDUSA_01_DESC,Portals are opened across Arcadia and the fighters in Battleworld pour into the city.
+ID_MIS_AAFORCE_MEDUSA_02_NAME,Pinned Down
+ID_MIS_AAFORCE_MEDUSA_02_DESC,"Facing attacks from the Shi'ar and random combatants, the group is stalled again."
+ID_MIS_AAFORCE_MEDUSA_03_NAME,Within Reach
+ID_MIS_AAFORCE_MEDUSA_03_DESC,Logan makes sure not to lose track of his target.
+ID_MIS_AAFORCE_MEDUSA_04_NAME,Tiresome Troubles
+ID_MIS_AAFORCE_MEDUSA_04_DESC,More enemies flood the group's path.
+ID_MIS_AAFORCE_MEDUSA_05_NAME,Slippery Eel
+ID_MIS_AAFORCE_MEDUSA_05_DESC,The thief once again gets away with his prize. For now.
+ID_MIS_AAFORCE_MEDUSA_06_NAME,Absolute A-Force - Medusa Challenge 1
+ID_MIS_AAFORCE_MEDUSA_06_DESC,Medusa Challenge 1
+ID_MIS_AAFORCE_MEDUSA_07_NAME,Absolute A-Force - Medusa Challenge 2
+ID_MIS_AAFORCE_MEDUSA_07_DESC,Medusa Challenge 2
+ID_MIS_AAFORCE_MEDUSA_08_NAME,Absolute A-Force - Medusa Challenge 3
+ID_MIS_AAFORCE_MEDUSA_08_DESC,Medusa Challenge 3
+ID_MIS_AAFORCE_MEDUSA_09_NAME,Absolute A-Force - Medusa Challenge 4
+ID_MIS_AAFORCE_MEDUSA_09_DESC,Medusa Challenge 4
+ID_MIS_AAFORCE_MEDUSA_10_NAME,Absolute A-Force - Medusa Challenge 5
+ID_MIS_AAFORCE_MEDUSA_10_DESC,Medusa Challenge 5
+ID_MIS_AAFORCE_TEAM_01_NAME,Beast Mode
+ID_MIS_AAFORCE_TEAM_01_DESC,"Faced with heavy opposition, Logan does what he does best."
+ID_MIS_AAFORCE_TEAM_02_NAME,Rage! Rage! RAGE!!
+ID_MIS_AAFORCE_TEAM_02_DESC,There's no fury like a Wolverine scorned.
+ID_MIS_AAFORCE_TEAM_03_NAME,Working Through It
+ID_MIS_AAFORCE_TEAM_03_DESC,Logan fights his way through the clones and gives the group the advantage.
+ID_MIS_AAFORCE_TEAM_04_NAME,Standing Ground
+ID_MIS_AAFORCE_TEAM_04_DESC,"Unable to escape anymore, the thief is forced into a confrontation."
+ID_MIS_AAFORCE_TEAM_05_NAME,The Final Showdown
+ID_MIS_AAFORCE_TEAM_05_DESC,The last piece of the puzzle puts everything into perspective.
+ID_MIS_AAFORCE_TEAM_06_NAME,Absolute A-Force - Challenge 1
+ID_MIS_AAFORCE_TEAM_06_DESC,Absolute A-Force Team Challenge 1
+ID_MIS_AAFORCE_TEAM_07_NAME,Absolute A-Force - Challenge 2
+ID_MIS_AAFORCE_TEAM_07_DESC,Absolute A-Force Team Challenge 2
+ID_MIS_AAFORCE_TEAM_08_NAME,Absolute A-Force - Challenge 3
+ID_MIS_AAFORCE_TEAM_08_DESC,Absolute A-Force Team Challenge 3
+ID_MIS_AAFORCE_TEAM_09_NAME,Absolute A-Force - Challenge 4
+ID_MIS_AAFORCE_TEAM_09_DESC,Absolute A-Force Team Challenge 4
+ID_MIS_AAFORCE_TEAM_10_NAME,Absolute A-Force - Challenge 5
+ID_MIS_AAFORCE_TEAM_10_DESC,Absolute A-Force Team Challenge 5

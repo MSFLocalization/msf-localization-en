@@ -3591,12 +3591,18 @@ ID_MOTD_NA_GALACTICAWAKENING_ENDING,ENDING: Galactic Awakening
 ID_MOTD_DE_GALACTICAWAKENING_ENDING,Don't miss out on Iso-8 Materials and Ancient One Shards!
 ID_MOTD_NA_BATTLEPASS_SEASON35_ANNOUNCE,LIVE: Season 35 of Battle Pass
 ID_MOTD_DE_BATTLEPASS_SEASON35_ANNOUNCE,Complete Objectives to earn Omega Sentinel shards and more!
+ID_MOTD_NA_AAFORCE_PREVIEW,COMING SOON: ANARCHY IN ARCADIA
+ID_MOTD_DE_AAFORCE_PREVIEW,Earn rewards by battling with Absolute A-Force!
+ID_MOTD_NA_AAFORCE_LIVE,LIVE: ANARCHY IN ARCADIA
+ID_MOTD_DE_AAFORCE_LIVE,Earn rewards by battling with Absolute A-Force!
+ID_MOTD_NA_AAFORCE_ENDING,ENDING SOON: ANARCHY IN ARCADIA
+ID_MOTD_DE_AAFORCE_ENDING,The ANARCHY IN ARCADIA event is ending soon!
 ID_MOTD_NA_SUPERSKRULL_DD6_ANNOUNCE,LIVE: Skrull Diamond Heist
 ID_MOTD_DE_SUPERSKRULL_DD6_ANNOUNCE,Get 1 Diamond Super Skrull!
 ID_MOTD_NA_SUPERSKRULL_DD6_ENDING,Ending Soon: Skrull Diamond Heist
 ID_MOTD_DE_SUPERSKRULL_DD6_ENDING,Don't miss out on 1 Diamond Super Skrull!
 ID_MOTD_NA_KAHHORI_ANNOUNCE,Kahhori is here!
-ID_MOTD_DE_KAHHORI_ANNOUNCE,"Reshaper of Worlds, Kahhori is here!"
+ID_MOTD_DE_KAHHORI_ANNOUNCE,What if… Kahhori reshaped Alliance War?
 ID_MOTD_DE_KAHHORI_ANNOUNCE2,Open the Stirs the Forest Orb to earn shards for Kahhori!
 ID_MOTD_NA_KAHHORI_TEASER,Soon: Kahhori
 ID_MOTD_DE_KAHHORI_TEASER,She Who Stirs the Forest approaches…
@@ -3604,3 +3610,11 @@ ID_MOTD_NA_THEICEQUEENSGALA_ANNOUNCE,LIVE: The Ice Queen's Gala
 ID_MOTD_DE_THEICEQUEENSGALA_ANNOUNCE,Earn marvelous rewards!
 ID_MOTD_NA_THEICEQUEENSGALA_ENDING,Ending Soon: The Ice Queen's Gala
 ID_MOTD_DE_THEICEQUEENSGALA_ENDING,Earn Fully-Crafted Teal Mutant Gear before the event ends!
+ID_MOTD_NA_FIVEGOLDENRINGS_ANNOUNCE,LIVE: Five Golden Rings
+ID_MOTD_DE_FIVEGOLDENRINGS_ANNOUNCE,"Earn Snowglobes and Mephisto Red Star Orbs, with a chance at Mephisto Diamonds!"
+ID_MOTD_NA_FIVEGOLDENRINGS_ENDING,Ending Soon: Five Golden Rings
+ID_MOTD_DE_FIVEGOLDENRINGS_ENDING,Don't miss out on Snowglobes and Mephisto Red Star Orbs!
+ID_MOTD_NA_SEASONOFGIVING_ANNOUNCE,Web Milestone: Season of Giving
+ID_MOTD_DE_SEASONOFGIVING_ANNOUNCE,Spend Snowglobe in the Snowglobe Store for more rewards on the web!
+ID_MOTD_NA_ABSOLUTEASSAULT_ANNOUNCE,LIVE: Absolute Assault
+ID_MOTD_DE_ABSOLUTEASSAULT_ANNOUNCE,Earn Snowglobes and Ancient One and Emma Frost Astral Orb Fragments!
