@@ -5541,6 +5541,22 @@ ID_QU_LD_SEASONOFGIVING,"Spend Snowglobes on fabulous goods in the Snowglobe Sto
 ID_QU_S1_SEASONOFGIVING,Spend Snowglobes in the Snowglobe Store
 ID_QU_NA_ABSOLUTEASSAULT,Absolute Assault
 ID_QU_SD_ABSOLUTEASSAULT,Participate in Alliance War to earn Snowglobes!
-ID_QU_LD_ABSOLUTEASSAULT,"Participate in Alliance War for this alliance event! \n\nAbsolute Assault Milestone\nTo score points:\n- Battle in in Alliance War\n- Earn Allied Supply VI Orb Fragments\n\nEarn fantastic rewards including Snowglobes, Ancient One and Emma Frost Astral Orb Fragments, Crimson Bio Gear, and Ability Materials!\n\nAllied Supply VI orb\nEarn these alliance event orbs for progress in Absolute Assault! Collect the Allied Supply VI Orb in special offers and daily free claims on the web!"
+ID_QU_LD_ABSOLUTEASSAULT,"Participate in Alliance War for this alliance event! \n\nAbsolute Assault Milestone\nTo score points:\n- Battle in Alliance War\n- Earn Allied Supply VI Orb Fragments\n\nEarn fantastic rewards including Snowglobes, Ancient One and Emma Frost Astral Orb Fragments, Crimson Bio Gear, and Ability Materials!\n\nAllied Supply VI orb\nEarn these alliance event orbs for progress in Absolute Assault! Collect the Allied Supply VI Orb in special offers and daily free claims on the web!"
 ID_QU_S1_ABSOLUTEASSAULT,Earn Allied Supply VI Orb Fragments from Free Claims and special Offers
 ID_QU_S2_ABSOLUTEASSAULT,Play 1 War Battle
+ID_QU_NA_TEAMORB_AAFORCE,Absolute A-Force Assemble
+ID_QU_SD_TEAMORB_AAFORCE,Find Path to Kahhori/Ms. Marvel (Classic)/Medusa Orb Fragments in events and offers!
+ID_QU_LD_TEAMORB_AAFORCE,"Absolute A-force Assemble Milestone\nOpen Path to Kahhori Orbs, Path to Ms. Marvel (Classic) Orbs and Path to Medusa Orbs to gain Absolute Crystals, then spend them to open Absolute A-force Orbs for the newest characters in the Shop!"
+ID_QU_S1_TEAMORB_AAFORCE,Open 1 Path to Kahhori Orb
+ID_QU_S2_TEAMORB_AAFORCE,Open 1 Path to Ms. Marvel (Classic) Orb
+ID_QU_S3_TEAMORB_AAFORCE,Open 1 Path to Medusa Orb
+ID_QU_NA_FOURCALLINGBIRDS,Four Calling Birds
+ID_QU_SD_FOURCALLINGBIRDS,Collect Calling Bird for marvelous rewards!
+ID_QU_LD_FOURCALLINGBIRDS,"Four Calling Birds Milestone\nProgress through this thrilling event by spending Forceful Energy, opening Goblin's Maleficent Sin Orbs, and clearing waves in Battleworld battles. Unlock exciting rewards, including Diamond Promotions for Blade, T3 Iso-8 Ions, Blade Shards, Oath Shards, and Crimson Bio Gear.\n\nYou'll also earn points toward the month-long The Ice Queen's Gala milestone by collecting the valuable Calling Birds.\n\nGoblin's Maleficent Sin Orb\nGet this Orb from the Orb Special offer with premium rewards: Green Goblin (Classic) 'Greed' Skin, Dark Diamond Credits, and Snowglobes."
+ID_QU_S1_FOURCALLINGBIRDS,Clear 1 Wave in Battleworld
+ID_QU_S2_FOURCALLINGBIRDS,Spend 1 Forceful Energy
+ID_QU_S3_FOURCALLINGBIRDS,Open 1 Goblin's Maleficent Sin Orb
+ID_QU_LD_ABSOLUTEASSAULT2,"Participate in Alliance War for this alliance event! \n\nAbsolute Assault Milestone\nTo score points:\n- Battle in in Alliance War\n- Use Absolute A-Force Characters in War\n- Earn Allied Supply VI Orb Fragments\n\nEarn fantastic rewards including Snowglobes, Kahhori Absolute A-Force Orb Fragments, Crimson Bio Gear, and Ability Materials!\n\nAllied Supply VI orb\nEarn these alliance event orbs for progress in Absolute Assault! Collect the Allied Supply VI Orb in special offers and daily free claims on the web!"
+ID_QU_S3_ABSOLUTEASSAULT,Use Kahhori in War
+ID_QU_S4_ABSOLUTEASSAULT,Use Ms Marvel Danvers in War
+ID_QU_S5_ABSOLUTEASSAULT,Use Medusa in War

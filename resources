@@ -301,8 +301,8 @@ ID_EVENT_CUR4_NAME,Turkey
 ID_EVENT_CUR4_DESCRIPTION,"Spend these in the Turkey Shop for limited time goodies including: Mephisto Red Star Orb Fragments, Awakened Ability Material for Blade and Moondragon, Character Shards, and Gear."
 ID_EVENT_CUR6_NAME,Snow Globe
 ID_EVENT_CUR6_DESCRIPTION,"Spend these in the Snow Globe Shop for limited time goodies including: Astral Force to upgrade Shadow King Red Stars, Best of 2024 Orbs, Character Shards, and Gear."
-ID_EVENT_CUR7_NAME,Wilderness Orb Fragment
-ID_EVENT_CUR7_DESCRIPTION,"Earn progress in the Mapping the Wilderness Milestone and open Wilderness Orbs for Sasquatch, Guardian, or Northstar shards!"
+ID_EVENT_CUR7_NAME,Absolute Crystals
+ID_EVENT_CUR7_DESCRIPTION,Collect Absolute Crystals by opening Path to Kahhori/Ms. Marvel (Classic)/Medusa Orbs and spend them on the Shop to open more Absolute A-Force Orbs!
 ID_EVENT_CUR8_NAME,Forever Patriot Milestone Points
 ID_EVENT_CUR8_DESCRIPTION,These points earn you additional progress in the Forever Patriot Milestone. Earn them in the Dark Reign Web Milestone and special Offers!
 ID_EVENT_CUR10_NAME,Sentinel Scraps
@@ -721,3 +721,5 @@ ID_EVTA_META_DEC_L_NAME,And A Zombie at the Party Milestone Points
 ID_EVTA_META_DEC_L_DESCRIPTION,These points earn you additional progress in the And a Zombie at the Party Milestone. Earn them in the Season of Giving Milestone Event and Special Offers!
 ID_EVTA_META_DEC_M_NAME,Absolute Assault Milestone Points
 ID_EVTA_META_DEC_M_DESCRIPTION,These points earn you additional progress in the Absolute Assault Milestone. Earn them in Special Offers!
+ID_EVTA_META_DEC_O_NAME,Four Calling Birds Milestone Points
+ID_EVTA_META_DEC_O_DESCRIPTION,"These points will boost your progress in the Four Calling Birds Milestone. Earn them through Battleworld, by spending Forceful Energy, claiming Daily Free Claims, and taking advantage of Special Offers!"

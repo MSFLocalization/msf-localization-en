@@ -9296,6 +9296,8 @@ ID_GACHA_CRATE_FCO_BLADE_SPECIAL_TOKEN_NAME,Daywalker Orb Fragments
 ID_GACHA_CRATE_FCO_BLADE_SPECIAL_TOKEN_DESCRIPTION,Collect Fragments for Daywalker Orbs that contain up to 180 Blade shards.
 ID_GACHA_CRATE_TEAMORB_BLADE_NAME,Blade Nightstalker Orb
 ID_GACHA_CRATE_TEAMORB_BLADE_DESCRIPTION,Earn progress in Blade's Milestone Event to collect more Blade Shards!
+ID_GACHA_CRATE_TEAMORB_BLADE_TOKEN_NAME,Blade Nightstalker Orb Fragments
+ID_GACHA_CRATE_TEAMORB_BLADE_TOKEN_DESCRIPTION,"Find Blade Nightstalker Orb Fragments in events, and offers!"
 ID_GACHA_CRATE_OATH_DIAMOND_NAME,Oath Diamond Orb
 ID_GACHA_CRATE_OATH_DIAMOND_DESCRIPTION,Get Diamond promotions for Oath and select characters!
 ID_GACHA_CRATE_OATH_DIAMOND_TOKEN_NAME,Oath Diamond Orb Fragments
@@ -9324,8 +9326,6 @@ ID_GACHA_CRATE_UNDYING_NAME,Undying Orb
 ID_GACHA_CRATE_UNDYING_DESCRIPTION,Contains shards for Scarlet Witch (Zombie)!
 ID_GACHA_CRATE_UNDYING_TOKEN_NAME,Undying Orb Fragments
 ID_GACHA_CRATE_UNDYING_TOKEN_DESCRIPTION,Collect from event missions and offers to obtain shards for Undying characters!
-ID_GACHA_CRATE_TEAMORB_BLADE_TOKEN_NAME,Blade Nightstalker Orb Fragments
-ID_GACHA_CRATE_TEAMORB_BLADE_TOKEN_DESCRIPTION,"Find Blade Nightstalker Orb Fragments in events, and offers!"
 ID_GACHA_CRATE_SWAMPARMY_NAME,Swamp Army Orb
 ID_GACHA_CRATE_SWAMPARMY_DESCRIPTION,"Contains shards for Sentinel, Annihilators and top Raid teams, along with Dark Promotion Credits and Crimson Gear!"
 ID_GACHA_CRATE_SWAMPARMY_TOKEN_NAME,Swamp Army Orb Fragments
@@ -9336,11 +9336,11 @@ ID_GACHA_CRATE_TOURNAMENT_ORANGE_TOKEN_NAME,Orange Gear Crucible Orb Fragments
 ID_GACHA_CRATE_TOURNAMENT_ORANGE_TOKEN_DESCRIPTION,"Find these Fragments in the Cosmic Crucible Store, available for Elite Crucible Credits earned in the tournament. Contains valuable orange gear materials and uniques for your roster!"
 ID_GACHA_CRATE_TOURNAMENT_TEAL_TOKEN_NAME,Teal Gear Crucible Orb Fragments
 ID_GACHA_CRATE_TOURNAMENT_TEAL_TOKEN_DESCRIPTION,"Find these Fragments in the Cosmic Crucible Store, available for Elite Crucible Credits earned in the tournament. Contains valuable teal gear materials and uniques for your roster!"
-ID_BP_NA_DUALOFFER_DESCRIPTION_2_50_REVAMP_40TIER,Unlock Premium rewards\nand <color=#fff568>40 Level Tokens</color>
 ID_GACHA_CRATE_ZOMBIEHUNTER_NAME,Zombie Hunter Orb
 ID_GACHA_CRATE_ZOMBIEHUNTER_DESCRIPTION,"Contains select Character Shards, Gold, Training Modules, and Crimson Gear!"
 ID_GACHA_CRATE_ZOMBIEHUNTER_TOKEN_NAME,Zombie Hunter Orb Fragments
 ID_GACHA_CRATE_ZOMBIEHUNTER_TOKEN_DESCRIPTION,"Collect these fragments to advance in the Zombie Invasion Milestone Event. Contains select Character Shards, Gold, Training Modules, and Crimson Gear!"
+ID_BP_NA_DUALOFFER_DESCRIPTION_2_50_REVAMP_40TIER,Unlock Premium rewards\nand <color=#fff568>40 Level Tokens</color>
 ID_GACHA_CRATE_TEAMORB_MANTHING_FCOFRAG_NAME,Man-Thing Nightstalker Orb
 ID_GACHA_CRATE_TEAMORB_MANTHING_FCOFRAG_DESCRIPTION,Earn progress in Man-Thing's Milestone Event to collect more Man-Thing Shards!
 ID_GACHA_CRATE_TEAMORB_MANTHING_FCOFRAG_TOKEN_NAME,Man-Thing Nightstalker Orb Fragments
@@ -9369,6 +9369,10 @@ ID_GACHA_CRATE_MEPHISTO_REDSTARS_NAME,Mephisto Red Star Orb
 ID_GACHA_CRATE_MEPHISTO_REDSTARS_DESCRIPTION,Chance to earn 6 and 7 Red Stars for Mephisto!
 ID_GACHA_CRATE_MEPHISTO_REDSTARS_TOKEN_NAME,Mephisto Red Star Orb Fragments
 ID_GACHA_CRATE_MEPHISTO_REDSTARS_TOKEN_DESCRIPTION,Find Mephisto Red Star Orb Fragments in the Turkey Shop.
+ID_GACHA_CRATE_BESTOF2024_DIAMOND_NAME,Best of 2024 Diamond Orb
+ID_GACHA_CRATE_BESTOF2024_DIAMOND_DESCRIPTION,Chance to earn 1 to 3 Diamonds for select characters
+ID_GACHA_CRATE_BESTOF2024_DIAMOND_TOKEN_NAME,Best of 2024 Diamond Orb Fragments
+ID_GACHA_CRATE_BESTOF2024_DIAMOND_TOKEN_DESCRIPTION,Find Best of 2024 Diamond Orb Fragments in special offers.
 ID_GACHA_CRATE_STRANGEAWAKENINGS_NAME,Strange Awakenings Orb
 ID_GACHA_CRATE_STRANGEAWAKENINGS_DESCRIPTION,"Contains Dr. Strange's Ultimate Awakened Ability Materials, T4 Ability Materials and Turkeys!"
 ID_GACHA_CRATE_STRANGEAWAKENINGS_TOKEN_NAME,Strange Awakenings Orb Fragment
@@ -9449,3 +9453,7 @@ ID_GACHA_CRATE_RINGORB4_NAME,Heroic Golden Ring Orb
 ID_GACHA_CRATE_RINGORB4_DESCRIPTION,Contains shards for a variety of this year's essential characters!
 ID_GACHA_CRATE_RINGORB4_TOKEN_NAME,Heroic Golden Ring Orb Fragments
 ID_GACHA_CRATE_RINGORB4_TOKEN_DESCRIPTION,"Buy these orbs for Gold, and then open them for bonus points in the Five Golden Rings Milestone as well as shards for a variety of this year's essential characters!"
+ID_GACHA_CRATE_SINCOSTUMEORB_NAME,Goblin's Maleficent Sin Orb
+ID_GACHA_CRATE_SINCOSTUMEORB_DESCRIPTION,"Unlock the premium Green Goblin (Classic) 'Greed' Skin, earn Dark Diamond Credits and Snowglobes with this powerful orb. Don't miss your chance to add these rare rewards to your collection!"
+ID_GACHA_CRATE_SINCOSTUMEORB_TOKEN_NAME,Goblin's Maleficent Sin Orb Fragment
+ID_GACHA_CRATE_SINCOSTUMEORB_TOKEN_DESCRIPTION,Find Goblin's Maleficent Sin Orb Fragments in the Special Orb offer.
