@@ -55,6 +55,7 @@ ID_GT_EVENT_NAME_SEASON8,Season 8
 ID_GT_EVENT_NAME_SEASON9,Season 9
 ID_GT_EVENT_NAME_SEASON10,Season 10
 ID_GT_EVENT_NAME_SEASON11,Season 11
+ID_GT_EVENT_NAME_SEASON12,Season 12
 ID_GT_EVENT_NAME_EVENT,Ultimate 32
 ID_GT_GLOBAL_RULES_NAME,Magical Disruptions
 ID_GT_GLOBAL_RULES_DESC,"On Offense, reduce Speed and Resistance by <color=#86e619>10%</color> for all non-<color=#fff568>MASTERS OF EVIL VILLAIN MYSTICS</color>. \nOn Defense, reduce Speed and Resistance by <color=#86e619>20%</color> for all <color=#fff568>COSMIC VILLAIN MYSTICS</color>. \nOn any <color=#fff568>COSMIC VILLAIN MYSTICS</color> Turn, apply <color=#fff568>Bleed</color> to that character. \nOn Defense, all characters gain +<color=#86e619>20%</color> Health and +<color=#86e619>10%</color> Damage. \n<color=#fff568>DARKHOLD</color> characters have -<color=#86e619>10%</color> Max Health, Focus, Resistance, and Damage."
@@ -348,3 +349,17 @@ ID_GT_S11_ROOM5_RULES_NAME,Unholy Alliance
 ID_GT_S11_ROOM5_RULES_DESC,"On Offense and Defense,\n<color=#fff568>Unlimited X-men</color> characters:\n> Count as <color=#fff568>Masters of Evil</color>.\n<color=#fff568>Masters of Evil</color> characters:\n> Count as <color=#fff568>Unlimited X-men</color>."
 ID_GT_S11_ROOM6_RULES_NAME,What's Updog
 ID_GT_S11_ROOM6_RULES_DESC,"On Offense and Defense,\nAll characters:\n> Reduce all healing <color=#86e619>100%</color>.\n> Spawn with <color=#fff568>Safeguard</color>, <color=#fff568>Immunity</color>, and <color=#fff568>Defense Up</color>."
+ID_GT_S12_GLOBAL_RULES_NAME,Joint Operation
+ID_GT_S12_GLOBAL_RULES_DESC,"Joint Operation \nOn Offense and Defense,\n<color=#fff568>Immortal X-men</color> characters:\n> On Assist, gain <color=#fff568>Safeguard</color>.\nOn Defense,\nAll characters:\n> Gain +<color=#86e619>20%</color> Max Health and +<color=#86e619>10%</color> Damage.\n> After each completed attempt, gain +<color=#86e619>1</color> <color=#fff568>Exhausted</color>. Canceled combats do not gain +<color=#86e619>1</color> <color=#fff568>Exhausted</color>."
+ID_GT_S12_ROOM1_RULES_NAME,Invulnerable
+ID_GT_S12_ROOM1_RULES_DESC,"On Defense and Offense,\n<color=#9055FF>RAIDER</color> and <color=#9055FF>SKIRMISHER</color> Characters:\n> Gain +<color=#86e619>200%</color> extra damage when under <color=#86e619>50%</color> health."
+ID_GT_S12_ROOM2_RULES_NAME,What You Wish For
+ID_GT_S12_ROOM2_RULES_DESC,"On Offense and Defense,\nAll Characters:\n> When using an Ultimate Ability, Generate <color=#86e619>1</color> Ability Energy for each enemy."
+ID_GT_S12_ROOM3_RULES_NAME,When It Rains
+ID_GT_S12_ROOM3_RULES_DESC,"On Defense and Offense,\n All Characters:\n> When a Positive Effect is applied to a character, increase the duration of all Positive Effects on allies of that character by +<color=#86e619>1</color>, up to a Max of <color=#86e619>3</color>\n \n> When a Negative Effect is applied to a character, increase the duration of all Negative Effects on allies of that character by +<color=#86e619>1</color>, up to a Max of <color=#86e619>3</color>"
+ID_GT_S12_ROOM4_RULES_NAME,Temporal Shielding
+ID_GT_S12_ROOM4_RULES_DESC,"On Defense and Offense,\n<color=#fff568>Tech</color> and <color=#fff568>Skill</color> Characters: \n> When Basic is used, Gain <color=#fff568>Speed Up</color>.\n> With <color=#fff568>Speed Up</color> at the end of turn, Barrier self for <color=#86e619>20%</color> of that character's Max Health."
+ID_GT_S12_ROOM5_RULES_NAME,Duck and Weave
+ID_GT_S12_ROOM5_RULES_DESC,"On Offense and Defense,\n<color=#fff568>City</color> characters:\n> On Dodge, Gain <color=#fff568>Offense Up</color>.\n> On successful hit, Gain <color=#fff568>Defense Up</color>."
+ID_GT_S12_ROOM6_RULES_NAME,Symbiote Satisfaction
+ID_GT_S12_ROOM6_RULES_DESC,"On Offense and Defense,\n<color=#fff568>Hero Symbiote</color> characters:\n> Count as <color=#fff568>Villians</color>.\n> Drops to <color=#86e619>50%</color> health, All enemies flip negative status effects to postive, and all allies flip their positive status effects to negative."

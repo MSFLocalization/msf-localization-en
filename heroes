@@ -219,6 +219,8 @@ ID_SHARD_HEIMDALL_NAME,Heimdall
 ID_SHARD_HEIMDALL_DESCRIPTION,"The all-seeing guardian of the Bifrost, Heimdall removes Stealth from foes so Asgardians may strike."
 ID_SHARD_HELA_NAME,Hela
 ID_SHARD_HELA_DESCRIPTION,"The Goddess of Death, Hela spreads negative effects to foes while aided by her Undead Asgardian."
+ID_SHARD_HERCULES_NAME,Hercules
+ID_SHARD_HERCULES_DESCRIPTION,"With the strength of a demigod and the heart of a hero, Hercules charges into the fight using his immense power to control the battlefield."
 ID_SHARD_HULKBUSTER_NAME,Hulkbuster
 ID_SHARD_HULKBUSTER_DESCRIPTION,"One of Tony Stark's incredible Iron Man suits, the Hulkbuster is a colossal guardian for its team, generating barriers and drawing enemy attacks."
 ID_SHARD_HUMANTORCH_NAME,Human Torch
@@ -265,6 +267,8 @@ ID_SHARD_IRONPATRIOT_NAME,Iron Patriot
 ID_SHARD_IRONPATRIOT_DESCRIPTION,"Creating his own Iron Man suit after the fall of S.H.I.E.L.D., Norman Osborn takes on the Iron Patriot persona and batters his opponents into a vulnerable state, slowing them down for his allies."
 ID_SHARD_JANETHOR_NAME,Mighty Thor
 ID_SHARD_JANETHOR_DESCRIPTION,"Deemed worthy by Mjolnir, Jane Foster, also known as the Mighty Thor, attacks her foes with blinding lightning and charges up her ally Hero Asgardians."
+ID_SHARD_JEANGREY_NAME,Jean Grey
+ID_SHARD_JEANGREY_DESCRIPTION,"An original member of the X-Men with unparalleled telepathic and telekinetic abilities, Jean Grey is a formidable ally with the power to protect her allies and Disrupt her enemies."
 ID_SHARD_JESSICAJONES_NAME,Jessica Jones
 ID_SHARD_JESSICAJONES_DESCRIPTION,A resilient fighter who removes positive effects from enemies and clears negative effects from allies.
 ID_SHARD_JUBILEE_NAME,Jubilee
@@ -804,3 +808,6 @@ ID_SHARD_NUESPIDERMAN_NAME,"Spider-Man "
 ID_SHARD_NUESPIDERMAN_DESCRIPTION,A quick attacker that weakens opponents and evades incoming attacks.
 ID_SHARD_TESTMAN_NAME,Test-Man
 ID_SHARD_TESTMAN_DESCRIPTION,IGNORE ME!
+ID_SHARD_MODOK_NAME,MODOK
+ID_SHARD_THEWATCHER_NAME,The Watcher
+ID_SHARD_LIVINGTRIBUNAL_NAME,Living Tribunal

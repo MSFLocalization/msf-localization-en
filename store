@@ -75,6 +75,7 @@ ID_SHOP_IAP_BUNDLE_THO_V2_65_30_NAME,Time Heist Level 65
 ID_SHOP_IAP_BUNDLE_THO_V2_80_40_NAME,Time Heist Level 80
 ID_SHOP_IAP_BUNDLE_THO_V2_95_40_NAME,Time Heist Level 95
 ID_SHOP_IAP_BUNDLE_THO_V2_98_50_NAME,Time Heist Level 98
+ID_SHOP_IAP_BUNDLE_THO_V2_100_50_NAME,Time Heist Level 100
 ID_SHOP_IAP_BUNDLE_THO_V2_20_3_DESCRIPTION,Made a Time Heist Jump Level 20
 ID_SHOP_IAP_BUNDLE_THO_V2_35_10_DESCRIPTION,Made a Time Heist Jump Level 35
 ID_SHOP_IAP_BUNDLE_THO_V2_50_20_DESCRIPTION,Made a Time Heist Jump Level 50
@@ -82,6 +83,7 @@ ID_SHOP_IAP_BUNDLE_THO_V2_65_30_DESCRIPTION,Made a Time Heist Jump Level 65
 ID_SHOP_IAP_BUNDLE_THO_V2_80_40_DESCRIPTION,Made a Time Heist Jump Level 80
 ID_SHOP_IAP_BUNDLE_THO_V2_95_40_DESCRIPTION,Made a Time Heist Jump Level 95
 ID_SHOP_IAP_BUNDLE_THO_V2_98_50_DESCRIPTION,Made a Time Heist Jump Level 98
+ID_SHOP_IAP_BUNDLE_THO_V2_100_50_DESCRIPTION,Made a Time Heist Jump Level 100
 ID_SHOP_IAP_BUNDLE_BATTLEPASS_50A_NAME,Mojo's Premium Deal
 ID_SHOP_IAP_BUNDLE_BATTLEPASS_50A_DESCRIPTION,Added Mojo's Mayhem Pass & Rating Levels
 ID_SHOP_IAP_BUNDLE_BATTLEPASS_50B_NAME,Mojo's Deal Level 2
@@ -9454,6 +9456,28 @@ ID_GACHA_CRATE_RINGORB4_DESCRIPTION,Contains shards for a variety of this year's
 ID_GACHA_CRATE_RINGORB4_TOKEN_NAME,Heroic Golden Ring Orb Fragments
 ID_GACHA_CRATE_RINGORB4_TOKEN_DESCRIPTION,"Buy these orbs for Gold, and then open them for bonus points in the Five Golden Rings Milestone as well as shards for a variety of this year's essential characters!"
 ID_GACHA_CRATE_SINCOSTUMEORB_NAME,Goblin's Maleficent Sin Orb
-ID_GACHA_CRATE_SINCOSTUMEORB_DESCRIPTION,"Unlock the premium Green Goblin (Classic) 'Greed' Skin, earn Dark Diamond Credits and Snowglobes with this powerful orb. Don't miss your chance to add these rare rewards to your collection!"
+ID_GACHA_CRATE_SINCOSTUMEORB_DESCRIPTION,"Unlock the premium Green Goblin (Classic) 'Greed' Skin, earn Dark Diamond Credits and Snowglobes with this powerful orb!"
 ID_GACHA_CRATE_SINCOSTUMEORB_TOKEN_NAME,Goblin's Maleficent Sin Orb Fragment
 ID_GACHA_CRATE_SINCOSTUMEORB_TOKEN_DESCRIPTION,Find Goblin's Maleficent Sin Orb Fragments in the Special Orb offer.
+ID_GACHA_CRATE_DEC24_BATTLEPASS_ASB_NAME,Premium Plus Pack
+ID_GACHA_CRATE_DEC24_BATTLEPASS_ASB_DESCRIPTION,Contains Best of 2024 Diamond Orb Fragments and Silver Diamond Credits!
+ID_GACHA_CRATE_NESTEGG_NAME,Nest Egg Orb
+ID_GACHA_CRATE_NESTEGG_DESCRIPTION,"Contains Character Shards, Dark Promotion and Diamond Credits, Gold, and Training Modules!"
+ID_GACHA_CRATE_NESTEGG_TOKEN_NAME,Nest Egg Orb Fragments
+ID_GACHA_CRATE_NESTEGG_TOKEN_DESCRIPTION,"Find these Fragments on Campaign Nodes and in special offers. Open the Orbs for Character Shards, Dark Promotion and Diamond Credits, Gold, and Training Modules!"
+ID_GACHA_CRATE_GROOTMASWEEK1_NAME,Groot's First Gift
+ID_GACHA_CRATE_GROOTMASWEEK1_DESCRIPTION,A surprise from Groot! And something else he left behind?
+ID_GACHA_CRATE_GROOTMASWEEK1_TOKEN_NAME,Groot's First Gift Fragments
+ID_GACHA_CRATE_GROOTMASWEEK1_TOKEN_DESCRIPTION,Find these fragments only in the daily Grootmas events. Keep an eye out as we search for what they might be for!
+ID_GACHA_CRATE_GROOTMASWEEK2_NAME,Groot's Second Gift
+ID_GACHA_CRATE_GROOTMASWEEK2_DESCRIPTION,A second gift from Groot! And a fragment to match the first?
+ID_GACHA_CRATE_GROOTMASWEEK2_TOKEN_NAME,Groot's Second Gift Fragments
+ID_GACHA_CRATE_GROOTMASWEEK2_TOKEN_DESCRIPTION,Find these fragments only in the daily Grootmas events. Keep an eye out as we search for what they might be for!
+ID_GACHA_CRATE_GROOTMASWEEK3_NAME,Groot's Third Gift
+ID_GACHA_CRATE_GROOTMASWEEK3_DESCRIPTION,The final gift! It seems these three fragments fit together for something else!
+ID_GACHA_CRATE_GROOTMASWEEK3_TOKEN_NAME,Groot's Third Gift Fragments
+ID_GACHA_CRATE_GROOTMASWEEK3_TOKEN_DESCRIPTION,Find these fragments only in the daily Grootmas events. Keep an eye out as we search for what they might be for!
+ID_GACHA_CRATE_GROOTMASFINALE_NAME,Groot's Grand Finale
+ID_GACHA_CRATE_GROOTMASFINALE_DESCRIPTION,The extra fragments Groot left around fit together to form a new gift!
+ID_GACHA_CRATE_GROOTMASFINALE_TOKEN_NAME,Groot's Grand Finale Fragments
+ID_GACHA_CRATE_GROOTMASFINALE_TOKEN_DESCRIPTION,Find these fragments only in the weekly Grootmas gift orbs. Collect enough fragments to assemble the final gift from Groot!

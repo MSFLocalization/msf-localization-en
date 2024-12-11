@@ -9838,10 +9838,11 @@ ID_DIALOG_SSE_ANCIENTONE_01_END_2,"Your scars are deep, despite your healing fac
 ID_DIALOG_SSE_ANCIENTONE_01_END_3,"Mutants are a rarity here, but we may be able to contact one here who can help."
 ID_DIALOG_SSE_ANCIENTONE_02_INTRO_0,How'd you know I need help?
 ID_DIALOG_SSE_ANCIENTONE_02_INTRO_1,Just look at you.
-ID_DIALOG_SSE_ANCIENTONE_02_INTRO_2,There's but one question on your mind at present...
-ID_DIALOG_SSE_ANCIENTONE_02_INTRO_3,"...""Where is Charles?"""
-ID_DIALOG_SSE_ANCIENTONE_02_INTRO_4,I coulda told ya that.
-ID_DIALOG_SSE_ANCIENTONE_02_INTRO_5,You need to attune with the Astral Plane if we're to find 'her'.
+ID_DIALOG_SSE_ANCIENTONE_02_INTRO_2,"There's but one question on your mind at present - ""Where is Charles Xavier?"""
+ID_DIALOG_SSE_ANCIENTONE_02_INTRO_3,I coulda told ya that.
+ID_DIALOG_SSE_ANCIENTONE_02_INTRO_4,But you're searching for a spiritual being with your claws and animal instinct. Digging around in the dark.
+ID_DIALOG_SSE_ANCIENTONE_02_INTRO_5,There is someone here on the Astral Plane that can lend you her light so you might see.
+ID_DIALOG_SSE_ANCIENTONE_02_INTRO_6,"But we first need to attune your spirit with the Astral Plane, if we ever hope to find her."
 ID_DIALOG_SSE_ANCIENTONE_02_START_0,You're being distracted by the ghosts of your past. Focus.
 ID_DIALOG_SSE_ANCIENTONE_03_START_0,This is what you call focused?
 ID_DIALOG_SSE_ANCIENTONE_03_START_1,"I call it ""workin' through some rage."""
@@ -14577,6 +14578,187 @@ ID_DIALOG_CHALLENGE_HALLOWEEN_ZOMBIE_START_4,Undead Fortitude: Gain 50% damage r
 ID_DIALOG_CHALLENGE_HALLOWEEN_VAMPIRE_START_0,Welcome to The Thirst challenge. The Vampire Minions you fight against will have the following abilities.
 ID_DIALOG_CHALLENGE_HALLOWEEN_VAMPIRE_START_1,"Ritual of the Blood God: At the start of their turn civilians have a 50% chance to gain 1 Bleed. If they already had at least 1 Bleed, they also gain Taunt."
 ID_DIALOG_CHALLENGE_HALLOWEEN_VAMPIRE_START_2,"Thirst Eternal: Vampire Minions heal 50% of their max HP when attacking Bleeding enemies. If their HP is full they instead gain 1 Deathproof, 3 Offense Up, 3 Defense Up, and Safeguard. If a Vampire Minion kills a civilian they also gain a full Speed Bar."
+ID_DIALOG_WEC_WINTERLAND_01_INTRO_0,"IN ANOTHER UNIVERSE, ON THE SHORES OF THE FORBIDDEN LAKE..."
+ID_DIALOG_WEC_WINTERLAND_01_INTRO_1,"Aw, come on, lemme in! I came a long way to get here and get the goodies inside. I solemnly swear I won't hurt you!"
+ID_DIALOG_WEC_WINTERLAND_01_INTRO_2,"I will not let you or anyone else invade my home. Leave now, or I will have to use force."
+ID_DIALOG_WEC_WINTERLAND_01_INTRO_3,"Oh, puh-lease! I've got Orchis and A.I.M guys out the wazoo! You're way outnumbered. Trust me, I'm a math gal."
+ID_DIALOG_WEC_WINTERLAND_01_INTRO_4,Then perhaps I can help even the odds.
+ID_DIALOG_WEC_WINTERLAND_01_END_0,"Thank you for the help, Captain."
+ID_DIALOG_WEC_WINTERLAND_01_END_1,Always happy to help a friend. Lucky the Watcher sent me when he did.
+ID_DIALOG_WEC_WINTERLAND_01_END_2,The Watcher? What does he want?
+ID_DIALOG_WEC_WINTERLAND_01_END_3,"Well, the big guy's sending me across the multiverse to gather contestants for a little game."
+ID_DIALOG_WEC_WINTERLAND_01_END_4,Every soldier can use a little R&R now and again. Besides... he says there's a grand prize if you win.
+ID_DIALOG_WEC_WINTERLAND_01_END_5,We have managed to protect my home... And I would like to show you other heroes what I'm made of...
+ID_DIALOG_WEC_WINTERLAND_01_END_6,"Sounds like you've already made up your mind, love. What say we have some fun?"
+ID_DIALOG_WEC_WINTERLAND_01_END_7,Let us have some fun!
+ID_DIALOG_WEC_WINTERLAND_02_INTRO_0,"KNOWHERE, ACROSS THE UNIVERSE..."
+ID_DIALOG_WEC_WINTERLAND_02_INTRO_1,"Hey, Boss! Couple of terrans at the door, sounds like your department."
+ID_DIALOG_WEC_WINTERLAND_02_INTRO_2,Kahhori and Captain Carter! I am grateful to see you again. Hopefully this is a social call and there is no a fresh crisis to avert?
+ID_DIALOG_WEC_WINTERLAND_02_INTRO_3,"Oh no, not this time T'Challa. Just an invite to a friendly game."
+ID_DIALOG_WEC_WINTERLAND_02_INTRO_4,"A game, you say? I am intrigued. And a little trip sounds refreshing."
+ID_DIALOG_WEC_WINTERLAND_02_INTRO_5,"Oh, no ya don't! Yer supposed to clean out the Blurp cages today!"
+ID_DIALOG_WEC_WINTERLAND_02_INTRO_6,Yeah! You made us make a dang chore wheel an' everything!
+ID_DIALOG_WEC_WINTERLAND_02_INTRO_7,Get him before he skips out!
+ID_DIALOG_WEC_WINTERLAND_02_END_0,I apologize for my Ravager friends. They are fine with me leaving now.
+ID_DIALOG_WEC_WINTERLAND_02_END_1,Yeah and all I took was you promising to be on Groot pruning duty for the next six cycles.
+ID_DIALOG_WEC_WINTERLAND_02_END_2,"More importantly, what is this competition of the Watcher's? How should I prepare to dazzle you?"
+ID_DIALOG_WEC_WINTERLAND_02_END_3,"According to Peggy, it's a mystery until we have gathered all the competitors."
+ID_DIALOG_WEC_WINTERLAND_02_END_4,"Meet us at these coordinates, Star-Lord. Looking forward to seeing what you're made of."
+ID_DIALOG_WEC_WINTERLAND_02_END_5,"My good captain, I would hate to disappoint. I'll ditch my raccoon friend and see you there."
+ID_DIALOG_WEC_WINTERLAND_02_END_6,I heard that!
+ID_DIALOG_WEC_WINTERLAND_03_INTRO_0,"A BATTLEFIELD IN EUROPE, IN A WORLD RAVAGED BY WAR..."
+ID_DIALOG_WEC_WINTERLAND_03_INTRO_1,*BOOM!*
+ID_DIALOG_WEC_WINTERLAND_03_INTRO_2,"Perhaps there was a better time for us to visit this dimension, Peggy?"
+ID_DIALOG_WEC_WINTERLAND_03_INTRO_3,"I'm no fan of bombs falling but for the man the Watcher sent us to retrieve, there's no finer time."
+ID_DIALOG_WEC_WINTERLAND_03_INTRO_4,"Hey, watch out, lady! I don't know what you're doing here, but there are Hydra troops incoming!"
+ID_DIALOG_WEC_WINTERLAND_03_INTRO_5,Then it's good for you we've arrived - let us help.
+ID_DIALOG_WEC_WINTERLAND_03_INTRO_6,"Always happy to accept help from anyone willing, ma'am. Let's go."
+ID_DIALOG_WEC_WINTERLAND_03_END_0,You two put up a hell of a fight. Pardon the language.
+ID_DIALOG_WEC_WINTERLAND_03_END_1,Just as sweet as I remember. Glad to see the serum didn't change you in any of the ways that matter.
+ID_DIALOG_WEC_WINTERLAND_03_END_2,"Sorry, ma'am, have we met?"
+ID_DIALOG_WEC_WINTERLAND_03_END_3,"In another life, maybe. We're here on behalf of the Watcher, an interdimensional being of immense power."
+ID_DIALOG_WEC_WINTERLAND_03_END_4,The Watcher? A guy who just... Watches?
+ID_DIALOG_WEC_WINTERLAND_03_END_5,"Yes, actually. But in this case he wants to gather heroes from across dimensions for a bit of sport."
+ID_DIALOG_WEC_WINTERLAND_03_END_6,"I don't know if you noticed, but there's a war on. We'd all like to be somehwere else, but we're needed here."
+ID_DIALOG_WEC_WINTERLAND_03_END_7,A request from the Watcher is not easily refused. And he can bring you back the moment you left - no time will have passed.
+ID_DIALOG_WEC_WINTERLAND_03_END_8,"If you can promise we'll be right back... Pack your bags, Buck. This sounds like something we can't miss."
+ID_DIALOG_WEC_WINTERLAND_04_INTRO_0,"AN UNASSUMING HOUSE IN QUEENS, NEW YORK..."
+ID_DIALOG_WEC_WINTERLAND_04_INTRO_1,"I was saying to M.J., yes, of course he's very handsome! He's literally a norse god. But can Thor spin a web any size?"
+ID_DIALOG_WEC_WINTERLAND_04_INTRO_2,When's the last time he caught a theif just like flies?
+ID_DIALOG_WEC_WINTERLAND_04_INTRO_3,"So, your wife said Thor is cute! You just gotta let this one go, man."
+ID_DIALOG_WEC_WINTERLAND_04_INTRO_4,Hello Spider-Man... Spider-Men?
+ID_DIALOG_WEC_WINTERLAND_04_INTRO_5,"""Spider Society"" is fine. But, uh, who are you?"
+ID_DIALOG_WEC_WINTERLAND_04_INTRO_6,CRASH!
+ID_DIALOG_WEC_WINTERLAND_04_INTRO_7,"AHAHA! Well, well, well! Looks like the rumors of an insect infestation in this neighborhood were true!"
+ID_DIALOG_WEC_WINTERLAND_04_INTRO_8,"Hey, Norman! FYI, I've heard that one from a Goblin on another earth already. You're getting stale, buddy!"
+ID_DIALOG_WEC_WINTERLAND_04_INTRO_9,Need some help?
+ID_DIALOG_WEC_WINTERLAND_04_INTRO_10,"There's usually at least five more of these guys right behind him, so absolutely!"
+ID_DIALOG_WEC_WINTERLAND_04_END_0,"We are here on behalf of the Watcher, recruiting multiversal heroes for a competition."
+ID_DIALOG_WEC_WINTERLAND_04_END_1,"Oof, sorry, but with the kiddo here and all my other multiversal issues... I gotta pass. Thanks for the invite though, seriously."
+ID_DIALOG_WEC_WINTERLAND_04_END_2,"Well, she is cute as a biscuit. Good luck and I hope we meet again, Spider-Man."
+ID_DIALOG_WEC_WINTERLAND_04_END_3,"And a hearty ""good luck"" to you too, random universe-jumping heroes!"
+ID_DIALOG_WEC_WINTERLAND_04_END_4,Man... I need more coffee if today's going to be like this.
+ID_DIALOG_WEC_WINTERLAND_05_INTRO_0,"THE WINTERLAND, EARTH-UNKNOWN"
+ID_DIALOG_WEC_WINTERLAND_05_INTRO_1,Friends! You have returned! Does this mean the competition shall begin?
+ID_DIALOG_WEC_WINTERLAND_05_INTRO_2,"Hello, Thor. I'm not sure. I just stopped by to see if The Watcher thinks we have enough people."
+ID_DIALOG_WEC_WINTERLAND_05_INTRO_3,Come now! It is quite boring just sitting around. This is no Las Vegas...
+ID_DIALOG_WEC_WINTERLAND_05_INTRO_4,Maybe we can just talk? Or pass the time with an activity?
+ID_DIALOG_WEC_WINTERLAND_05_INTRO_5,An activity? That is perfect! Let us spar!
+ID_DIALOG_WEC_WINTERLAND_05_INTRO_6,"Wait, I didn't mean... Oh no."
+ID_DIALOG_WEC_WINTERLAND_05_END_0,Thor... Can we please stop fighting now?
+ID_DIALOG_WEC_WINTERLAND_05_END_1,"Come on, my speedy blue friend! Just one more round?"
+ID_DIALOG_WEC_WINTERLAND_05_END_2,One round was too many already!
+ID_DIALOG_WEC_WINTERLAND_05_END_3,Well can you at least return me to my kingdom of Las Vegas while we wait?
+ID_DIALOG_WEC_WINTERLAND_05_END_4,Did you talk to the Watcher?
+ID_DIALOG_WEC_WINTERLAND_05_END_5,"Not yet, but it shouldn't be that long..."
+ID_DIALOG_WEC_WINTERLAND_06_INTRO_0,"Thor, the answer is still no."
+ID_DIALOG_WEC_WINTERLAND_06_INTRO_1,Come now friend! Captain Carter is speaking with The Watcher now. Let us just spar once more!
+ID_DIALOG_WEC_WINTERLAND_06_INTRO_2,Which of you taught Thor the power of making puppydog eyes?
+ID_DIALOG_WEC_WINTERLAND_06_INTRO_3,..Fine!
+ID_DIALOG_WEC_WINTERLAND_06_INTRO_4,HUZZAH! I shall have our friends join in this time!
+ID_DIALOG_WEC_WINTERLAND_06_END_0,That was fun! Let us go again!
+ID_DIALOG_WEC_WINTERLAND_06_END_1,"I believe I am done with sparring for the day, my friend. Your thirst for combat far outpaces mine."
+ID_DIALOG_WEC_WINTERLAND_06_END_2,I'm back with the list of universes the Watcher wants us to visit. Seems like you all kept busy...
+ID_DIALOG_WEC_WINTERLAND_06_END_3,Yes we did. Let us please go before Thor keeps us busy much longer.
+ID_DIALOG_WEC_WINTERLAND_06_END_4,Friends! One more fight to celebrate the glory of the previous several fights! What say you?
+ID_DIALOG_WEC_WINTERLAND_06_END_5,Where did they go?
+ID_DIALOG_WEC_WINTERLAND_07_INTRO_0,"STREETS OF NEW YORK, EARTH-Z"
+ID_DIALOG_WEC_WINTERLAND_07_INTRO_1,This earth is much more unsettling than the ones before. Who exactly are we looking for here.
+ID_DIALOG_WEC_WINTERLAND_07_INTRO_2,"Watcher just gave me a name. One word. ""Hela""?"
+ID_DIALOG_WEC_WINTERLAND_07_INTRO_3,RAAAARGH...
+ID_DIALOG_WEC_WINTERLAND_07_INTRO_4,What in the world is that?!
+ID_DIALOG_WEC_WINTERLAND_07_INTRO_5,"Whatever it is, it's not friendly, that's for sure. Don't let it get to close!"
+ID_DIALOG_WEC_WINTERLAND_07_END_0,"Now, now... Who are you that have stepped in my domain, beating up on my poor toys?"
+ID_DIALOG_WEC_WINTERLAND_07_END_1,You must be Hela. We're here on behalf of The Watcher. He's holding a contest.
+ID_DIALOG_WEC_WINTERLAND_07_END_2,"The Watcher? Why, I haven't seen his shiny pretentious face in eons. We'll be there."
+ID_DIALOG_WEC_WINTERLAND_07_END_3,We? So you're bringing these things with you?
+ID_DIALOG_WEC_WINTERLAND_07_END_4,"Oh, of course, darling. Don't worry. They don't bite... Much."
+ID_DIALOG_WEC_WINTERLAND_08_INTRO_0,"NEW YORK, EARTH-29929"
+ID_DIALOG_WEC_WINTERLAND_08_INTRO_1,What... What happened here?
+ID_DIALOG_WEC_WINTERLAND_08_INTRO_2,Ultron happened. Keep your guard up. This must have been a mistake.
+ID_DIALOG_WEC_WINTERLAND_08_INTRO_3,"Ah, you again. You won't escape this time."
+ID_DIALOG_WEC_WINTERLAND_08_INTRO_4,"Don't hold back, Kahhori. He is dangerous."
+ID_DIALOG_WEC_WINTERLAND_08_END_0,That was close!
+ID_DIALOG_WEC_WINTERLAND_08_END_1,"Now, why would you possibly want to come back here?"
+ID_DIALOG_WEC_WINTERLAND_08_END_2,"It wasn't by choice. The Watcher sent us. He wants you to participate in a contest, apparently."
+ID_DIALOG_WEC_WINTERLAND_08_END_3,"Interesting... Well, I need to know why if nothing else. I'll see you there."
+ID_DIALOG_WEC_WINTERLAND_08_END_4,I hope the Watcher knows what he's doing.
+ID_DIALOG_WEC_WINTERLAND_09_INTRO_0,"AN UNDERGROUND BUNKER, A WORLD STEEPED IN ESPIONAGE..."
+ID_DIALOG_WEC_WINTERLAND_09_INTRO_1,Where are we now?
+ID_DIALOG_WEC_WINTERLAND_09_INTRO_2,"It looks like an old S.H.I.E.L.D. base... Wait, in that tube... Bucky? Is that you?"
+ID_DIALOG_WEC_WINTERLAND_09_INTRO_3,...
+ID_DIALOG_WEC_WINTERLAND_09_INTRO_4,He is not 'Bucky' any longer! You speak to the great Winter Soldier!
+ID_DIALOG_WEC_WINTERLAND_09_INTRO_5,"Soldier, awaken and show our vistors who you are! And who you SERVE!"
+ID_DIALOG_WEC_WINTERLAND_09_END_0,"This defeat was glorious! Even if we suffered it, we did so with honor! They will sing songs of us."
+ID_DIALOG_WEC_WINTERLAND_09_END_1,The point of secret missions is to NOT leave witnesses.
+ID_DIALOG_WEC_WINTERLAND_09_END_2,"If you want glory, why not join us for a contest? It is held by a cosmic being called The Watcher."
+ID_DIALOG_WEC_WINTERLAND_09_END_3,"I am not sure what many of those things mean, but count us in!"
+ID_DIALOG_WEC_WINTERLAND_09_END_4,I should have stayed frozen.
+ID_DIALOG_WEC_WINTERLAND_10_INTRO_0,"THE RUINS OF NEW YORK, EARTH-91234"
+ID_DIALOG_WEC_WINTERLAND_10_INTRO_1,Another Earth in ruins... How many of these worlds have been destroyed?
+ID_DIALOG_WEC_WINTERLAND_10_INTRO_2,"""Another Earth""? Such an interesting phrase..."
+ID_DIALOG_WEC_WINTERLAND_10_INTRO_3,Strange?! I was certain you'd perished.
+ID_DIALOG_WEC_WINTERLAND_10_INTRO_4,"Sorry to disappoint. But whoever you're thinking of... I don't know you. And you are in the way, so..."
+ID_DIALOG_WEC_WINTERLAND_10_INTRO_5,"Quick, Kahhori! Don't let him cast any spells!"
+ID_DIALOG_WEC_WINTERLAND_10_END_0,Are we done now? I'm kind of dealing with a whole 'dying world' thing here.
+ID_DIALOG_WEC_WINTERLAND_10_END_1,I'm sorry. We have experience with sorcerers and thought you were about to attack.
+ID_DIALOG_WEC_WINTERLAND_10_END_2,So you attacked first. I get it. But I'm not whichever Strange it was that slighted you.
+ID_DIALOG_WEC_WINTERLAND_10_END_3,I do apologize. You must be who we were sent to find. The Watcher asks for your presence.
+ID_DIALOG_WEC_WINTERLAND_10_END_4,"Uatu? I've read about him in tomes, but... The opportunity to meet him seems too good to pass up. I'm in."
+ID_DIALOG_WEC_WINTERLAND_11_INTRO_0,"THE WINTERLAND, EARTH-UNKNOWN"
+ID_DIALOG_WEC_WINTERLAND_11_INTRO_1,Welcome back again friends! Does this mean the contest will begin?
+ID_DIALOG_WEC_WINTERLAND_11_INTRO_2,"Yes, I'm curious to see what this contest will be."
+ID_DIALOG_WEC_WINTERLAND_11_INTRO_3,"Ultron! Come to get your butt kicked, metal man?"
+ID_DIALOG_WEC_WINTERLAND_11_INTRO_4,"Oh, good, a Thor. I've destroyed you once before. I bet I'll enjoy it even more a second time."
+ID_DIALOG_WEC_WINTERLAND_11_END_0,"If you are all done bickering, The Watcher has told me what the contest shall be."
+ID_DIALOG_WEC_WINTERLAND_11_END_1,Great! What is it?
+ID_DIALOG_WEC_WINTERLAND_11_END_2,A... snowball fight.
+ID_DIALOG_WEC_WINTERLAND_11_END_3,"Always enjoy a fight, even in the snow."
+ID_DIALOG_WEC_WINTERLAND_12_INTRO_0,So what is a snowball fight?
+ID_DIALOG_WEC_WINTERLAND_12_INTRO_1,Obviously it is a deadly fight to the death! But in snow.
+ID_DIALOG_WEC_WINTERLAND_12_INTRO_2,"No, first off we should form teams. Secondly it is a fight but you just throw balls of snow."
+ID_DIALOG_WEC_WINTERLAND_12_INTRO_3,I like my version more.
+ID_DIALOG_WEC_WINTERLAND_12_INTRO_4,For once we agree.
+ID_DIALOG_WEC_WINTERLAND_12_INTRO_5,Same here. So let's do the more fun way.
+ID_DIALOG_WEC_WINTERLAND_12_END_0,"I wasn't expecting a brawl, but since we defeated them does that mean we won?"
+ID_DIALOG_WEC_WINTERLAND_12_END_1,"Sure, why not. At least this way things will be easier to call."
+ID_DIALOG_WEC_WINTERLAND_12_END_2,And much easier to avoid cheating. There's always at least one person who claims they weren't hit.
+ID_DIALOG_WEC_WINTERLAND_12_END_3,"Why are you looking at me, Buck?"
+ID_DIALOG_WEC_WINTERLAND_12_END_4,"You know exactly why, Steve."
+ID_DIALOG_WEC_WINTERLAND_12_END_5,Hahaha!
+ID_DIALOG_WEC_WINTERLAND_13_INTRO_0,"You all seem lovely, but don't think I'll go easy."
+ID_DIALOG_WEC_WINTERLAND_13_INTRO_1,We've beaten you before.
+ID_DIALOG_WEC_WINTERLAND_13_INTRO_2,And we can do it again.
+ID_DIALOG_WEC_WINTERLAND_13_INTRO_3,"Once again, I feel the need to remind you I am not the Doctor Strange you knew."
+ID_DIALOG_WEC_WINTERLAND_13_INTRO_4,"Also we're here too, dear."
+ID_DIALOG_WEC_WINTERLAND_13_INTRO_5,"Well then, let's see what you can do."
+ID_DIALOG_WEC_WINTERLAND_13_END_0,I knew we could win! We got this Peggy.
+ID_DIALOG_WEC_WINTERLAND_13_END_1,"Well, unfortunately... The Watcher has commanded that no more teams will be allowed."
+ID_DIALOG_WEC_WINTERLAND_13_END_2,I didn't expect that. But...let's stick together for now.
+ID_DIALOG_WEC_WINTERLAND_13_END_3,"Okay, but as soon as our enemies have been defeated? Our rematch will begin."
+ID_DIALOG_WEC_WINTERLAND_13_END_4,"Looking forward to it, my friend."
+ID_DIALOG_WEC_WINTERLAND_14_INTRO_0,Of course I'd make it to the end.
+ID_DIALOG_WEC_WINTERLAND_14_INTRO_1,UUUUNGH...
+ID_DIALOG_WEC_WINTERLAND_14_INTRO_2,Is he doing okay? The Iron Man looks a little sick...
+ID_DIALOG_WEC_WINTERLAND_14_INTRO_3,And dead.
+ID_DIALOG_WEC_WINTERLAND_14_INTRO_4,And soon to be defeated.
+ID_DIALOG_WEC_WINTERLAND_14_INTRO_5,"Oh, good one Kahhori."
+ID_DIALOG_WEC_WINTERLAND_14_END_0,"Well, it seems the time has come."
+ID_DIALOG_WEC_WINTERLAND_14_END_1,"Yep, no more alliances and no more chances."
+ID_DIALOG_WEC_WINTERLAND_14_END_2,"Whoever wins, I just want to say it's been fun."
+ID_DIALOG_WEC_WINTERLAND_14_END_3,Agreed.
+ID_DIALOG_WEC_WINTERLAND_14_END_4,Best of luck to you all.
+ID_DIALOG_WEC_WINTERLAND_15_INTRO_0,Here we are. Final round. Winner gets the prize...
+ID_DIALOG_WEC_WINTERLAND_15_INTRO_1,"Well, let's see who wins."
+ID_DIALOG_WEC_WINTERLAND_15_INTRO_2,"Good luck, my friends."
+ID_DIALOG_WEC_WINTERLAND_15_END_0,Ack! Right in my face!
+ID_DIALOG_WEC_WINTERLAND_15_END_1,"Well, I wasn't going to aim for your sheild!"
+ID_DIALOG_WEC_WINTERLAND_15_END_2,"Wait... That means... You've won, Kahhori!"
+ID_DIALOG_WEC_WINTERLAND_15_END_3,Ha! Hooray! It has been so much fun competing and making friends with you all.
+ID_DIALOG_WEC_WINTERLAND_15_END_4,"It was good seeing you again Kahhori, even if it was brief. What do you want your prize to be?"
+ID_DIALOG_WEC_WINTERLAND_15_END_5,"I'll ask the Watcher for one thing... The ability to view you all whenever I wish, from across the multiverse."
+ID_DIALOG_WEC_WINTERLAND_15_END_6,Such a lovely prize Kahhori!
+ID_DIALOG_WEC_WINTERLAND_15_END_7,"Even if we are apart, in this way it will feel like we are all still connected."
 ID_DIALOG_NUE_00_01_0,"Commander, I'm glad you're here. \nWe have a situation."
 ID_DIALOG_NUE_00_01_1,Interdimensional signatures are popping up all over New York City.
 ID_DIALOG_NUE_00_01_2,"As commander of S.T.R.I.K.E., interdimensional threats are your jurisdiction. "

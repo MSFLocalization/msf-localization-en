@@ -155,3 +155,26 @@ ID_SHADOWKING_EVENT_CARD_TITLE_01_LEADERBOARD,SHADOW KING - LEADERBOARD
 ID_SHADOWKING_RULES_HEADER,Rules of the SHADOW KING EVENT
 ID_SHADOWKING_RULES_SUBHEADER_01,MASTER OF THE ASTRAL PLANE
 ID_SHADOWKING_RULES_BODY_01,"Venture into the darkest corner of the Astral Plane to confront the evil Mutant Amahl Farouk, The Shadow King!"
+ID_HM_CAT_TEMPORAL,Temporal Cataclysm
+ID_HM_CAT_TEMPORAL_DESC,Stop the Cataclysm!
+ID_HM_CAT_TEMPORAL_DETAILS,"The <color=#fff568>Temporal Dimension</color> has reappeared! But from somewhere within this unstable reality waves of dangerous cataclysmic energy eminate, warping and destroying the very fabric of reality itself. Lead Nexus' forces to reach the center of the cataclysm and seal off this dangerous reality once and for all. For should they fail, none can predict the consequences for the multiverse...\n\n<b>Details</b>\n- Minimum Requirements:  Gear Tier <color=#fff568>18</color>\n- 7 Yellow Star, 1 Diamond or higher characters are strongly recommended\n- This event is very challenging"
+ID_MIS_HM_CAT_GENERIC_ELITE_NAME,Elite Mission
+ID_MIS_HM_CAT_GENERIC_BOSS_NAME,Boss Mission
+ID_MIS_HM_CAT_GENERIC_FINALBOSS_NAME,Cataclysm's Locus
+ID_MIS_HM_CAT_GENERIC_STANDARD_NAME,Standard Mission
+ID_EVENT_CATACLYSM_TYPE,Endgame
+ID_CATACLYSM_RULES_HEADER,Cataclysm Rules
+ID_CATACLYSM_RULES_SUBHEADER_01,SURVIVE THE CATACLYSM
+ID_CATACLYSM_RULES_BODY_01,An unraveling dimension threatens Nexus. Fight to the end and get the highest score you can!
+ID_CATACLYSM_NEW_RDD_HINT_1,Enemy Stats: <color=#86e619>100%</color>
+ID_CATACLYSM_NEW_RDD_HINT_2,Enemy Stats: <color=#86e619>120%</color>
+ID_CATACLYSM_NEW_RDD_HINT_3,Enemy Stats: <color=#86e619>140%</color>
+ID_CATACLYSM_NEW_RDD_HINT_4,Enemy Stats: <color=#86e619>160%</color>
+ID_CATACLYSM_NEW_RDD_HINT_5,Enemy Stats: <color=#86e619>180%</color>
+ID_CATACLYSM_NEW_RDD_HINT_6,Enemy Stats: <color=#86e619>200%</color>
+ID_CATACLYSM_NEW_RDD_HINT_7,Enemy Stats: <color=#86e619>220%</color>
+ID_CATACLYSM_NEW_RDD_HINT_8,Enemy Stats: <color=#86e619>240%</color>
+ID_CATACLYSM_NEW_RDD_HINT_9,Enemy Stats: <color=#86e619>260%</color>
+ID_CATACLYSM_NEW_RDD_HINT_10,Enemy Stats: <color=#86e619>280%</color>
+ID_CATACLYSM_NEW_RDD_HINT_11,Enemy Stats: <color=#86e619>300%</color>
+ID_CATACLYSM_NEW_RDD_HINT_12,Enemy Stats: <color=#86e619>350%</color>

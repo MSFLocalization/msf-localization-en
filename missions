@@ -3606,8 +3606,8 @@ ID_MIS_MERCSFORMONEY_09_NAME,Sinister Sunset
 ID_MIS_MERCSFORMONEY_09_DESC,The final push to find Logan ends with a Sinister Six Reunion and showdown.
 ID_MIS_MERCSFORMONEY_1TD_NAME,Wasteland War - Mercs 1
 ID_MIS_MERCSFORMONEYY_TD_DESC,See the power and potential of the Mercs for Money in a sample battle from War.
-ID_MIS_MERCSFORMONEY_2TD_NAME,Wasteland War - Mercs 2
-ID_MIS_MERCSFORMONEY_3TD_NAME,Wasteland War - Mercs Boss
+ID_MIS_MERCSFORMONEY_2TD_NAME,Wasteland War  - Mercs 2
+ID_MIS_MERCSFORMONEY_3TD_NAME,Wasteland War  - Mercs Boss
 ID_MISSION_RAID_SPOTLIGHTI_NONMYTHIC01_NAME,Non-Mythic Mission 1
 ID_MISSION_RAID_SPOTLIGHTI_NONMYTHICBOSS_NAME,Non-Mythic Boss
 ID_MISSION_RAID_SPOTLIGHTI_SPIDERSOCIETY01_NAME,Spider-Society Mission 1
@@ -4174,3 +4174,58 @@ ID_MIS_AAFORCE_TEAM_09_NAME,Absolute A-Force - Challenge 4
 ID_MIS_AAFORCE_TEAM_09_DESC,Absolute A-Force Team Challenge 4
 ID_MIS_AAFORCE_TEAM_10_NAME,Absolute A-Force - Challenge 5
 ID_MIS_AAFORCE_TEAM_10_DESC,Absolute A-Force Team Challenge 5
+ID_MIS_WIWINTERLAND_01_NAME,A Pleasant Surprise
+ID_MIS_WIWINTERLAND_01_DESC,Kahhori gets a visit from an unexpected guest.
+ID_MIS_WIWINTERLAND_02_NAME,Guardian Twist
+ID_MIS_WIWINTERLAND_02_DESC,Kahhori and Carter recruit the first team.
+ID_MIS_WIWINTERLAND_03_NAME,Blast From The Past
+ID_MIS_WIWINTERLAND_03_DESC,Kahhori runs into an explosive situation.
+ID_MIS_WIWINTERLAND_04_NAME,So Many Spiders
+ID_MIS_WIWINTERLAND_04_DESC,Kahhori recruits the next team after a sticky situation.
+ID_MIS_WIWINTERLAND_05_NAME,Heroes Assemble!
+ID_MIS_WIWINTERLAND_05_DESC,Kahhori and her team head to the battlefield.
+ID_MIS_WIWINTERLAND_06_NAME,Villains Await
+ID_MIS_WIWINTERLAND_06_DESC,Kahhori gets news her task is halfway complete.
+ID_MIS_WIWINTERLAND_07_NAME,The Land of Zombies
+ID_MIS_WIWINTERLAND_07_DESC,Kahhori and Carter's first stop is an apocalyptic hunger zone.
+ID_MIS_WIWINTERLAND_08_NAME,The Electric Slide
+ID_MIS_WIWINTERLAND_08_DESC,Kahhori comes up against a challenging electric foe.
+ID_MIS_WIWINTERLAND_09_NAME,Winter And The Guardian
+ID_MIS_WIWINTERLAND_09_DESC,Kahhori and Carter get caught in unexpected shenanigans.
+ID_MIS_WIWINTERLAND_10_NAME,A Strange Conundrum
+ID_MIS_WIWINTERLAND_10_DESC,Kahhori and Carter face off against an enemy with a familiar face.
+ID_MIS_WIWINTERLAND_11_NAME,The Games Begin!
+ID_MIS_WIWINTERLAND_11_DESC,The contest is revealed.
+ID_MIS_WIWINTERLAND_12_NAME,Winterland Blitz
+ID_MIS_WIWINTERLAND_12_DESC,Chaos ensues as the game becomes an all-out war.
+ID_MIS_WIWINTERLAND_13_NAME,Free For All
+ID_MIS_WIWINTERLAND_13_DESC,Alliances are destroyed as the game changes again.
+ID_MIS_WIWINTERLAND_14_NAME,And Then There Were Two
+ID_MIS_WIWINTERLAND_14_DESC,Two teams left yet only one can win.
+ID_MIS_WIWINTERLAND_15_NAME,The Final Challenge
+ID_MIS_WIWINTERLAND_15_DESC,Kahhori alone must face her final opponents.
+ID_MIS_NAME_GENERIC_NUMBERED_01,Mission 1
+ID_MIS_NAME_GENERIC_NUMBERED_02,Mission 2
+ID_MIS_NAME_GENERIC_NUMBERED_03,Mission 3
+ID_MIS_NAME_GENERIC_NUMBERED_04,Mission 4
+ID_MIS_NAME_GENERIC_NUMBERED_05,Mission 5
+ID_MIS_NAME_GENERIC_NUMBERED_06,Mission 6
+ID_MIS_NAME_GENERIC_NUMBERED_07,Mission 7
+ID_MIS_NAME_GENERIC_NUMBERED_08,Mission 8
+ID_MIS_NAME_GENERIC_NUMBERED_09,Mission 9
+ID_MIS_NAME_GENERIC_NUMBERED_10,Mission 10
+ID_MIS_NAME_GENERIC_NUMBERED_11,Mission 11
+ID_MIS_NAME_GENERIC_NUMBERED_12,Mission 12
+ID_MIS_NAME_GENERIC_NUMBERED_13,Mission 13
+ID_MIS_NAME_GENERIC_NUMBERED_14,Mission 14
+ID_MIS_NAME_GENERIC_NUMBERED_15,Mission 15
+ID_MIS_NAME_GENERIC_NUMBERED_16,Mission 16
+ID_MIS_NAME_GENERIC_NUMBERED_17,Mission 17
+ID_MIS_NAME_GENERIC_NUMBERED_18,Mission 18
+ID_MIS_NAME_GENERIC_NUMBERED_19,Mission 19
+ID_MIS_NAME_GENERIC_NUMBERED_20,Mission 20
+ID_MIS_NAME_GENERIC_NUMBERED_21,Mission 21
+ID_MIS_NAME_GENERIC_NUMBERED_22,Mission 22
+ID_MIS_NAME_GENERIC_NUMBERED_23,Mission 23
+ID_MIS_NAME_GENERIC_NUMBERED_24,Mission 24
+ID_MIS_NAME_GENERIC_NUMBERED_25,Mission 25

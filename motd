@@ -3579,7 +3579,7 @@ ID_MOTD_DE_EMMAFROSTXMEN_ANNOUNCE,Dominate the minds of your enemies with Emma F
 ID_MOTD_DE_EMMAFROSTXMEN_ANNOUNCE2,Open the Frost Queen Orb to earn shards for Emma Frost (X-Men)!
 ID_MOTD_NA_LUNARREBIRTH_ANNOUNCE,LIVE: Lunar Rebirth
 ID_MOTD_DE_LUNARREBIRTH_ANNOUNCE,Don't miss out on Crimson Bio Gear and T3 Iso-8 Materials!
-ID_MOTD_NA_LUNARREBIRTH_ENDING,Ending Soon: Lunar Rebirth
+ID_MOTD_NA_LUNARREBIRTH_ENDING,Ending Soon: Swamp Showdown
 ID_MOTD_DE_LUNARREBIRTH_ENDING,Don't miss out on Crimson Bio Gear and T3 Iso-8 Materials!
 ID_MOTD_NA_STELLARCONQUEST3_ANNOUNCE,Web Milestone: Stellar Conquest 3
 ID_MOTD_DE_STELLARCONQUEST3_ANNOUNCE,Spend Turkey in the Turkey Store for more rewards on the web!
@@ -3618,12 +3618,58 @@ ID_MOTD_NA_SEASONOFGIVING_ANNOUNCE,Web Milestone: Season of Giving
 ID_MOTD_DE_SEASONOFGIVING_ANNOUNCE,Spend Snowglobe in the Snowglobe Store for more rewards on the web!
 ID_MOTD_NA_ABSOLUTEASSAULT_ANNOUNCE,LIVE: Absolute Assault
 ID_MOTD_DE_ABSOLUTEASSAULT_ANNOUNCE,Earn Snowglobes and Ancient One and Emma Frost Astral Orb Fragments!
-ID_MOTD_NA_TEAMORB_AAFORCE_ANNOUNCE,LIVE: Absolute A-Force Assemble
+ID_MOTD_NA_WIWINTERLAND_PREVIEW,COMING SOON: What If? Winterland
+ID_MOTD_DE_WIWINTERLAND_PREVIEW,Earn rewards by battling with Kahhori and friends!
+ID_MOTD_NA_WIWINTERLAND_LIVE,LIVE: What If? Winterland
+ID_MOTD_DE_WIWINTERLAND_LIVE,Earn rewards by battling with Kahhori and friends!
+ID_MOTD_NA_WIWINTERLAND_ENDING,ENDING SOON: What If? Winterland
+ID_MOTD_DE_WIWINTERLAND_ENDING,Winterland event is ending soon!
+ID_MOTD_NA_TEAMORB_AAFORCE_ANNOUNCE,LIVE: Path to Absolute A-Force
 ID_MOTD_DE_TEAMORB_AAFORCE_ANNOUNCE,Get additional Absolute A-Force Orbs!
-ID_MOTD_NA_TEAMORB_AAFORCE_ENDING,Ending Soon: Absolute A-Force Assemble
+ID_MOTD_NA_TEAMORB_AAFORCE_ENDING,Ending Soon: Path to Absolute A-Force
 ID_MOTD_DE_TEAMORB_AAFORCE_ENDING,Don't miss out on additional Absolute A-force Orbs!
 ID_MOTD_NA_FOURCALLINGBIRDS_ANNOUNCE,LIVE: Four Calling Birds
 ID_MOTD_DE_FOURCALLINGBIRDS_ANNOUNCE,Collect Calling Bird for marvelous rewards!
 ID_MOTD_NA_FOURCALLINGBIRDS_ENDING,Ending Soon: Four Calling Birds
 ID_MOTD_DE_FOURCALLINGBIRDS_ENDING,Don't miss out on Diamond Promotions for Blade and other incredible rewards!
 ID_MOTD_DE_ABSOLUTEASSAULT2_ANNOUNCE,Earn Snowglobes and Kahhori Absolute A-Force Orb Fragments!
+ID_MOTD_NA_MSMARVELCLASSIC_TEASER,Soon: Ms. Marvel (Classic)
+ID_MOTD_DE_MSMARVELCLASSIC_TEASER,Something Marvelous is on the horizon…
+ID_MOTD_NA_MSMARVELCLASSIC_ANNOUNCE,Ms. Marvel (Classic) is here!
+ID_MOTD_DE_MSMARVELCLASSIC_ANNOUNCE,"Ms. Marvel (Classic), the Absolute Ace, flies in!"
+ID_MOTD_DE_MSMARVELCLASSIC_ANNOUNCE2,Open the Absolute Ace Orb to earn shards for Ms. Marvel (Classic)!
+ID_MOTD_NA_WAR_ARCADIAREFORGED_TEASER,Coming Soon: Arcadia Reforged
+ID_MOTD_DE_WAR_ARCADIAREFORGED_TEASER,This limited-time Alliance War Event starts soon!
+ID_MOTD_NA_WAR_ARCADIAREFORGED_LIVE,Alliance War: Arcadia Reforged is LIVE!
+ID_MOTD_DE_WAR_ARCADIAREFORGED_LIVE,Don't miss this special Alliance War Event!
+ID_MOTD_NA_OMLPREPORB_ANNOUNCE,LIVE: Logan's Army Orb
+ID_MOTD_NA_WINTERSPEAK_TEASER,Coming Soon: Winter's Peak
+ID_MOTD_DE_WINTERSPEAK_TEASER,Winter's Peak Event is coming soon! Prepare your toughest allies so they can battle their way up through 10 new challenging floors!
+ID_MOTD_NA_WINTERSPEAK_LIVE,LIVE: Winter's Peak
+ID_MOTD_DE_WINTERSPEAK_LIVE,"Complete all 50 floors, including 10 new floors and earn Crimson Gear!"
+ID_MOTD_NA_THREEFRENCHHENS_ANNOUNCE,LIVE: Three French Hens
+ID_MOTD_DE_THREEFRENCHHENS_ANNOUNCE,"Earn Snowglobes and Crimson Skill Gear, with a chance at Ms. Marvel (Classic) Diamonds!"
+ID_MOTD_NA_THREEFRENCHHENS_ENDING,Ending Soon: Three French Hens
+ID_MOTD_DE_THREEFRENCHHENS_ENDING,"Earn Snowglobes and Crimson Skill Gear, with a chance at Ms. Marvel (Classic) Diamonds!"
+ID_MOTD_NA_BATTLEPASS_SEASON36_ANNOUNCE,LIVE: Season 36 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON36_ANNOUNCE,Complete Objectives to earn Oath shards and more!
+ID_MOTD_NA_TEMPORAL_CATACLYSM_TEASER,Coming Soon: Temporal Cataclysm
+ID_MOTD_DE_TEMPORAL_CATACLYSM_TEASER,Requires Gear Tier 19 characters. Be prepared!
+ID_MOTD_NA_TEMPORAL_CATACLYSM_LIVE,LIVE: Temporal Cataclysm
+ID_MOTD_DE_TEMPORAL_CATACLYSM_LIVE,Reach a high Run Score and unlock extremely rare rewards!
+ID_MOTD_NA_BATTLEPASS_SEASON37_ANNOUNCE,LIVE: Season 37 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON37_ANNOUNCE,Complete Objectives to earn Orchis shards and more!
+ID_MOTD_NA_BATTLEPASS_SEASON38_ANNOUNCE,LIVE: Season 38 of Battle Pass
+ID_MOTD_DE_BATTLEPASS_SEASON38_ANNOUNCE,Complete Objectives to earn Emma Frost (X-Men) shards and more!
+ID_MOTD_NA_GROOTMASW1_ANNOUNCE,LIVE: A Grootmas Surprise: Part 1
+ID_MOTD_DE_GROOTMASW1_ANNOUNCE,Participate daily to aid the search!
+ID_MOTD_NA_GROOTMASW1_ENDING,Ending Soon: A Grootmas Surprise: Part 1
+ID_MOTD_DE_GROOTMASW1_ENDING,Try not to miss out on your daily chance to search for Groot's gifts!
+ID_MOTD_NA_GROOTMASW2_ANNOUNCE,LIVE: A Grootmas Surprise: Part 2
+ID_MOTD_DE_GROOTMASW2_ANNOUNCE,Participate daily to aid the search!
+ID_MOTD_NA_GROOTMASW2_ENDING,Ending Soon: A Grootmas Surprise: Part 2
+ID_MOTD_DE_GROOTMASW2_ENDING,Try not to miss out on your daily chance to search for Groot's gifts!
+ID_MOTD_NA_GROOTMASW3_ANNOUNCE,LIVE: A Grootmas Surprise: Part 3
+ID_MOTD_DE_GROOTMASW3_ANNOUNCE,Participate daily to aid the search!
+ID_MOTD_NA_GROOTMASW3_ENDING,Ending Soon: A Grootmas Surprise: Part 3
+ID_MOTD_DE_GROOTMASW3_ENDING,Try not to miss out on your daily chance to search for Groot's gifts!

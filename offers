@@ -10575,6 +10575,7 @@ ID_OF_NA_OPERATIONOMEGA_DAILY_FREE_CLAIM,Operation: Omega: Free Claim
 ID_OF_NA_OPERATIONOMEGA_MID_EVENT_SPECIAL,Operation: Omega: Special Bundle
 ID_OF_NA_OPERATIONOMEGA_DAILY_FREE_CLAIM_2,Operation: Omega: Free Claim
 ID_OF_NA_OPERATIONOMEGA_DAILY_INTERSTITIAL_2,Operation: Omega: Secret Treasure
+ID_OF_NA_OPERATIONOMEGA_MS_TARGETED_BOOSTER,Operation: Omega: Milestone Booster
 ID_OF_DE_OPERATIONOMEGA_STARTER,Get ahead in the <color=#fff568>Operation: Omega</color> Milestone and start making your way toward <color=#fff568>Omega Sentinel Diamond Promotions</color> and <color=#fff568>Crimson Mystic Gear</color>!
 ID_OF_DE_OPERATIONOMEGA_CATCHUP,Finish strong in the <color=#fff568>Operation: Omega</color> Milestone to earn <color=#fff568>Omega Sentinel Diamond Promotions</color> and <color=#fff568>Crimson Mystic Gear</color>!
 ID_OF_DE_OPERATIONOMEGA_DAILY_ORB,Make progress in the <color=#fff568>Operation: Omega</color> Milestone by collecting more <color=#fff568>Revolution Orb Fragments</color>!
@@ -10587,6 +10588,7 @@ ID_OF_DE_OPERATIONOMEGA_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568
 ID_OF_DE_OPERATIONOMEGA_MID_EVENT_SPECIAL,Make progress in Operation: Omega milestone and dominate the leaderboard for <color=#fff568>Omega Sentinel Diamond Promotions</color>
 ID_OF_DE_OPERATIONOMEGA_DAILY_FREE_CLAIM_2,Come back daily for more <color=#fff568>Operation: Omega</color> progress!
 ID_OF_DE_OPERATIONOMEGA_DAILY_INTERSTITIAL_2,You just unlocked the highest discount deal for the <color=#fff568>Operation: Omega</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_DE_OPERATIONOMEGA_MS_TARGETED_BOOSTER,Congratulations on reaching milestone 14. You just unlocked a 50% off deal that will let you instantly reach milestone 15!
 ID_OF_NA_OMEGASENTINEL_FCO_OFFER,Cyborg Sentinel
 ID_OF_DE_OMEGASENTINEL_FCO_OFFER,Each <color=#fff568>Living Sentinel Orb</color> contains <color=#fff568>up to 180 Omega Sentinel</color> shards. Transform your Orchis team today with <color=#fff568>Omega Sentinel</color>! This powerful Support character provides their team with high healing while punishing enemies with Unavoidable attacks and debilitating negative effects!
 ID_OF_DE_OMEGASENTINEL_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Omega Sentinel</color> and unlock one-time only release offers on your next visit! Transform your Orchis team today with <color=#fff568>Omega Sentinel</color>! This powerful Support character provides their team with high healing while punishing enemies with Unavoidable attacks and debilitating negative effects!
@@ -10648,7 +10650,7 @@ ID_OF_DE_VAMPIRICFRENZY_STARTER,Get ahead in the <color=#fff568>Vampiric Frenzy<
 ID_OF_DE_VAMPIRICFRENZY_CATCHUP,Finish strong in the milestones to earn <color=#f12603>T3 Iso-8 Ions</color> and <color=#fff568>Crimson Bio Gear</color>!
 ID_OF_DE_VAMPIRICFRENZY_WEB_SPECIAL,Fend off the hordes with this Vampiric Frenzy special web bundle!
 ID_OF_DE_VAMPIRICFRENZY_PIVOT_SPECIAL,Fend off the hordes with this Vampiric Frenzy special bundle!
-ID_OF_DE_VAMPIRICFRENZY_DAILY_ENERGY,Get your daily Nightstalker energy fix to get ahead in the <color=#fff568>Vampiric Frenzy</color> Milestone!
+ID_OF_DE_VAMPIRICFRENZY_DAILY_ENERGY,Get your daily Dead of Night energy fix to get ahead in the <color=#fff568>Vampiric Frenzy</color> Milestone!
 ID_OF_DE_VAMPIRICFRENZY_DAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Vampiric Frenzy</color> progress!
 ID_OF_DE_VAMPIRICFRENZY_DAILY_INTERSTITIAL,You just unlocked the discount deal for the <color=#fff568>Vampiric Frenzy</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
 ID_OF_NA_VAMPIRICFRENZY_ORB_SPECIAL,Vampiric Frenzy: Ghoulish Gold Orb
@@ -10735,6 +10737,9 @@ ID_OF_NA_BLADE_WEB_STREAK3_FCO_OFFER,On The Hunt (3/4)
 ID_OF_DE_BLADE_WEB_STREAK3_FCO_OFFER,Purchase through this chain for a <color=#fff568>1 Diamond Blade</color> in the final step!
 ID_OF_NA_BLADE_WEB_STREAK4_FCO_OFFER,On The Hunt (4/4)
 ID_OF_DE_BLADE_WEB_STREAK4_FCO_OFFER,Purchase through this chain for a <color=#fff568>1 Diamond Blade</color> in the final step!
+ID_OF_NA_MONTHLYSPECIAL_ZOMBIEJUGG,October Special: Zombienaut Returns!
+ID_OF_NA_MONTHLYSPECIAL_ZOMBIEBROS,October Special: The Dead has Risen!
+ID_OF_DE_MONTHLYSPECIAL_ZOMBIEBROS,It's that time of year again. The <color=#ffda21>Undying Team</color> is back to takeover the month of October. Don't miss out or you'll be devoured!
 ID_OF_NA_TWILIGHTVIGIL_MEGA_STARTER,Twilight Vigil: Starter
 ID_OF_NA_TWILIGHTVIGIL_STARTER,Twilight Vigil: Starter
 ID_OF_NA_TWILIGHTVIGIL_MEGA_CATCHUP,Twilight Vigil: Catch-up
@@ -10779,9 +10784,6 @@ ID_OF_DE_NIGHTRAID_WAR,Get your daily War refills to get ahead in the <color=#ff
 ID_OF_DE_NIGHTRAID_FREE,Come back daily for more <color=#fff568>Night Raid</color> progress!
 ID_OF_DE_NIGHTRAID_INTERSTITIAL,Stock up on Allied Supply VI Orbs for extra progress in the <color=#fff568>NIght Raid</color> Milestone!
 ID_OF_DE_NIGHTRAID_MEGA,Get ahead in <color=#fff568>Night Raid</color> Milestone and propel your Alliance to <color=#fff568>Ciphers</color> and <color=#fff568>T3 Iso-8 Materials</color>!
-ID_OF_NA_MONTHLYSPECIAL_ZOMBIEJUGG,October Special: Zombienaut Returns!
-ID_OF_NA_MONTHLYSPECIAL_ZOMBIEBROS,October Special: The Dead has Risen!
-ID_OF_DE_MONTHLYSPECIAL_ZOMBIEBROS,It's that time of year again. The <color=#ffda21>Undying Team</color> is back to takeover the month of October. Don't miss out or you'll be devoured!
 ID_OF_NA_NIGHT24_CRIMSON_UNIQUES,Nightstalker Crimson Uniques
 ID_OF_NA_NIGHT24_BLADE_A19,Blade's Crimson Power
 ID_OF_NA_NIGHT24_AGATHAHARKNESS,Agatha The Salem Witch
@@ -11065,20 +11067,16 @@ ID_OF_NA_MANTHING_WEB_EXTRA_FCO_OFFER,Man-Thing Unlock Offer
 ID_OF_DE_MANTHING_WEB_EXTRA_FCO_OFFER,"The Marsh Marvel, <color=#fff568>Man-Thing</color>, has arrived!"
 ID_OF_NA_MANTHING_WEB_SPECIAL_OFFER,Marsh Marvel Special
 ID_OF_DE_MANTHING_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> <color=#fff568>Oath</color> applies Bleed and Heal Block before feeding on enemies with Exposed with a brutal Bonus Attack!
-ID_OF_NA_MANTHING_WEB_STREAK1_FCO_OFFER,Swamp Sentinel Special (1/4)
-ID_OF_DE_MANTHING_WEB_STREAK1_FCO_OFFER,Get to <color=#fff568>Step 2</color> to acquire Blade's <color=#fff568>Passive Awakened Ability!</color> Purchase through this chain for a <color=#fff568>1 Diamond Man-Thing</color> in the final step!
-ID_OF_NA_MANTHING_WEB_STREAK2_FCO_OFFER,Swamp Sentinel Special (2/4)
-ID_OF_DE_MANTHING_WEB_STREAK2_FCO_OFFER,Unlock Blade's <color=#fff568>Passive Awakened Ability</color>! Purchase through this chain for a <color=#fff568>1 Diamond Man-Thing</color> in the final step!
 ID_OF_NA_ZOMBIEINVASION_STARTER,Zombie Invasion: Starter
 ID_OF_NA_ZOMBIEINVASION_CATCHUP,Zombie Invasion: Catch-up
-ID_OF_NA_ZOMBIEINVASION_DAILY_POINTS,Twilight Vigil: Daily Points
+ID_OF_NA_ZOMBIEINVASION_DAILY_POINTS,Zombie Invasion: Daily Points
 ID_OF_NA_ZOMBIEINVASION_MIDEVENT_SPECIAL,Zombie Invasion: Mid-Event Special
 ID_OF_NA_ZOMBIEINVASION_WEB_SPECIAL,Zombie Invasion: Web Special
 ID_OF_NA_ZOMBIEINVASION_DAILY_ORB,Zombie Invasion: Daily Reinforcements
 ID_OF_NA_ZOMBIEINVASION_M4M,Zombie Invasion: Nightstalkers
 ID_OF_NA_ZOMBIEINVASION_RAID,Zombie Invasion: Daily Raid
-ID_OF_NA_ZOMBIEINVASION_FREECLAIM,Zombie Invasion: Free Claim
 ID_OF_NA_ZOMBIEINVASION_INTERSTITIAL,Zombie Invasion: Hidden Treasure
+ID_OF_NA_ZOMBIEINVASION_FREECLAIM,Zombie Invasion: Free Claim
 ID_OF_DE_ZOMBIEINVASION_STARTER,Get ahead in the <color=#fff568>Zombie Invasion</color> Milestone and start making your way toward <color=#fff568>Crimson Skill Gear</color> and <color=#E0B0FF>T3 Iso-8 Materials</color>!
 ID_OF_DE_ZOMBIEINVASION_CATCHUP,Finish strong in the <color=#fff568>Zombie Invasion</color> Milestone to earn <color=#fff568>Crimson Skill Gear</color> and <color=#E0B0FF>T3 Iso-8 Materials</color>!
 ID_OF_DE_ZOMBIEINVASION_DAILY_POINTS,Get ahead in the Zombie Invasion Leaderboards for a chance at <color=#fff568>Man-Thing Diamonds</color>!
@@ -11088,6 +11086,10 @@ ID_OF_DE_ZOMBIEINVASION_M4M,Power up your all-new Nightstalkers characters and u
 ID_OF_DE_ZOMBIEINVASION_RAID,Gear up for Raids with your Nightstalkers team to get ahead in the Zombie Invasion milestone!
 ID_OF_DE_ZOMBIEINVASION_FREE_CLAIM,Come back daily for more <color=#fff568>Zombie Invasion</color> progress!
 ID_OF_DE_ZOMBIEINVASION_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Zombie Invasion</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_MANTHING_WEB_STREAK1_FCO_OFFER,Swamp Sentinel Special (1/4)
+ID_OF_DE_MANTHING_WEB_STREAK1_FCO_OFFER,Get to <color=#fff568>Step 2</color> to acquire Blade's <color=#fff568>Passive Awakened Ability!</color> Purchase through this chain for a <color=#fff568>1 Diamond Man-Thing</color> in the final step!
+ID_OF_NA_MANTHING_WEB_STREAK2_FCO_OFFER,Swamp Sentinel Special (2/4)
+ID_OF_DE_MANTHING_WEB_STREAK2_FCO_OFFER,Unlock Blade's <color=#fff568>Passive Awakened Ability</color>! Purchase through this chain for a <color=#fff568>1 Diamond Man-Thing</color> in the final step!
 ID_OF_NA_MANTHING_WEB_STREAK3_FCO_OFFER,Swamp Sentinel Special (3/4)
 ID_OF_DE_MANTHING_WEB_STREAK3_FCO_OFFER,Purchase through this chain for a <color=#fff568>1 Diamond Man-Thing</color> in the final step!
 ID_OF_NA_MANTHING_WEB_STREAK4_FCO_OFFER,Swamp Sentinel Special (4/4)
@@ -11790,7 +11792,7 @@ ID_OF_NA_LUNARREBIRTH_MID_EVENT_SPECIAL_PIVOT,Lunar Rebirth: Special Bundle
 ID_OF_DE_LUNARREBIRTH_STARTER,Get ahead in the <color=#fff568>Lunar Rebirth</color> Milestone and fast-forward your way to <color=#f12603>T3 Iso-8 Ions</color> and <color=#fff568>Crimson Bio Gear</color>!
 ID_OF_DE_LUNARREBIRTH_CATCHUP,Finish strong in the milestones to earn <color=#f12603>T3 Iso-8 Ions</color> and <color=#fff568>Crimson Bio Gear</color>!
 ID_OF_DE_LUNARREBIRTH_WEB_SPECIAL,Fend off the hordes with this Lunar Rebirth special web bundle!
-ID_OF_DE_LUNARREBIRTH_DAILY_ORB,Make progress in the Lunar Rebirth milestone by collecting more <color=#fff568>Shadow Orb Fragments</color> to exchange for amazing rewards!
+ID_OF_DE_LUNARREBIRTH_DAILY_ORB,Make progress in the Lunar Rebirth Prep milestone by collecting more <color=#fff568>Shadow Orb Fragments</color> to exchange for amazing rewards!
 ID_OF_DE_LUNARREBIRTH_DAILY_POINTS,Get ahead in the <color=#fff568>Lunar Rebirth</color> Milestone and start making your way toward <color=#fff568>Ancient One Diamond Promotions</color> and <color=#E0B0FF>T3 Iso-8 Materials</color>!
 ID_OF_DE_LUNARREBIRTH_DAILY_ENERGY,Get your daily dose of Campaign Energy for progress in the Lunar Rebirth milestone!
 ID_OF_DE_LUNARREBIRTH_ANNIHILATORS,Power up your Annihilators team with this shard offer!
@@ -11826,7 +11828,7 @@ ID_OF_NA_ASTRAL24_ANCIENTONE_EMMAFROSTXMEN_TRAIN,Astral Preparation
 ID_OF_NA_ASTRAL24_ANCIENTONE_EMMAFROSTXMEN_GOLD,Astral Dominion
 ID_OF_NA_ASTRAL24_FULL_TEAM_TRAIN,Astral Team Pack
 ID_OF_DE_ASTRAL24_CRIMSON_UNIQUES,Gear up your <color=#fff568>Astral</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
-ID_OF_DE_ASTRAL24_ANCIENTONE_A19,Power up your <color=#fff568>Ancient One</color> to unlock all her Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ASTRAL24_ANCIENTONE_A19,Power up your <color=#fff568>Ancient One</color> to unlock all his Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ASTRAL24_AGATHAHARKNESS,"Boost up the newly updated Astral members, <color=#fff568>Moondragon and Dr. Strange</color>, with this special offer today!"
 ID_OF_DE_ASTRAL24_CRIMSON_MINIUNIQUES,Upgrade your <color=#fff568>Astral</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ASTRAL24_TEAL_UNIQUES,Gear up your <color=#fff568>Astral</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
@@ -11838,8 +11840,8 @@ ID_OF_DE_ASTRAL24_TEAL_MINIUNIQUES,Upgrade your <color=#fff568>Astral</color> te
 ID_OF_DE_ASTRAL24_A19_TRAIN_GOLD,Boost up your <color=#fff568>Astral</color> team's power to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ASTRAL24_TRAIN_GOLD_A18_A17_T2L5,Boost up your <color=#fff568>Astral</color> team's power to unlock all their Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ASTRAL24_ANCIENTONE_A19_TRAIN_DDC,Prepare your <color=#fff568>Ancient One</color> to conquer all the difficulties in the Showcase Event!
-ID_OF_DE_ASTRAL24_ANCIENTONE_A18_DPC,Power up your <color=#fff568>Ancient One</color> to unlock all her Showcase Event's difficulties and earn maximum rewards!
-ID_OF_DE_ASTRAL24_ANCIENTONE_DIAMOND_GOLD,Boost up your <color=#fff568>Ancient One</color> 's power to unlock all her Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ASTRAL24_ANCIENTONE_A18_DPC,Power up your <color=#fff568>Ancient One</color> to unlock all his Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_ASTRAL24_ANCIENTONE_DIAMOND_GOLD,Boost up your <color=#fff568>Ancient One</color> 's power to unlock all his Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ASTRAL24_ANCIENTONE_EMMAFROSTXMEN_A19_GOLD_E7,Get ready to gear up <color=#ffda21>Ancient One & Emma Frost (X-Men)</color> with this great deal.
 ID_OF_DE_ASTRAL24_EMMAFROSTXMEN_A19,Improve your <color=#fff568>Emma Frost (X-Men)</color> to conquer all her Showcase Event's difficulties and earn maximum rewards!
 ID_OF_DE_ASTRAL24_ANCIENTONE_EMMAFROSTXMEN_A19_DPC,Improve and gear up your <color=#ffda21>Ancient One & Emma Frost (X-Men)</color> with this great deal.
@@ -11996,58 +11998,6 @@ ID_OF_NA_BATTLEPASS_SEASON35_PREMPLUSCLAIM,Battle Pass: Season 35 Premium Plus R
 ID_OF_NA_OFFER_GEAR_GROWTH_BFCW24_SNEAKPEEK_FLASH,Black Friday Peek: Flash Sale
 ID_OF_NA_SK24_AA_T4ABMAT,Shadow King Trials: Awaken the First Nightmare
 ID_OF_DE_SK24_AA_T4ABMAT,"Awaken the full strength of <color=#aa68ff>Shadow King's Passive Ability</color>, First Nightmare!"
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_VAHL,Skrull Diamond Heist: Vahl
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_KANG_THE_CONQUEROR,Skrull Diamond Heist: Kang The Conqueror
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_SERSI,Skrull Diamond Heist: Sersi
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_IKARIS,Skrull Diamond Heist: Ikaris
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_VOID_KNIGHT,Skrull Diamond Heist: Void Knight
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_CYCLOPS,Skrull Diamond Heist: Cyclops
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_NIGHT_CRAWLER,Skrull Diamond Heist: Nightcrawler
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_FORGE,Skrull Diamond Heist: Forge
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_GAMBIT,Skrull Diamond Heist: Gambit
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_SUNSPOT,Skrull Diamond Heist: Sunspot
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_SPIDER_MAN_PAVITR,Skrull Diamond Heist: Spider-Man (Pavitr)
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_GHOST_SPIDER,Skrull Diamond Heist: Ghost-Spider
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_SPIDER_MAN_NOIR,Skrull Diamond Heist: Spider-Man (Noir)
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_PENI_PARKER,Skrull Diamond Heist: Peni Parker
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_PETER_B_PARKER,Skrull Diamond Heist: Peter B Parker
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_XTREME_X_MEN,Skrull Diamond Heist: Global
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_COSMIC,Skrull Diamond Heist: Cosmic
-ID_OF_NA_SKRULLDIAMONDHEIST_CUT_SPIDER_SOCIETY,Skrull Diamond Heist: City
-ID_OF_NA_SKRULLDIAMONDHEIST_SHARDS_VAHL,Stop Scrolling! Vahl Shards
-ID_OF_NA_SKRULLDIAMONDHEIST_SHARDS_KANG_THE_CONQUEROR,Stop Scrolling! Kang The Conqueror Shards
-ID_OF_NA_SKRULLDIAMONDHEIST_SHARDS_SERSI,Stop Scrolling! Sersi Shards
-ID_OF_NA_SKRULLDIAMONDHEIST_SHARDS_IKARIS,Stop Scrolling! Ikaris Shards
-ID_OF_NA_SKRULLDIAMONDHEIST_SHARDS_VOID_KNIGHT,Stop Scrolling! Void Knight Shards
-ID_OF_NA_SKRULLDIAMONDHEIST_SHARDS_CYCLOPS,Stop Scrolling! Cyclops Shards
-ID_OF_NA_SKRULLDIAMONDHEIST_SHARDS_NIGHT_CRAWLER,Stop Scrolling! Nightcrawler Shards
-ID_OF_NA_SKRULLDIAMONDHEIST_SHARDS_FORGE,Stop Scrolling! Forge Shards
-ID_OF_NA_SKRULLDIAMONDHEIST_SHARDS_GAMBIT,Stop Scrolling! Gambit Shards
-ID_OF_NA_SKRULLDIAMONDHEIST_SHARDS_SUNSPOT,Stop Scrolling! Sunspot Shards
-ID_OF_NA_SKRULLDIAMONDHEIST_SHARDS_SPIDER_MAN_PAVITR,Stop Scrolling! Spider-Man (Pavitr) Shards
-ID_OF_NA_SKRULLDIAMONDHEIST_SHARDS_GHOST_SPIDER,Stop Scrolling! Ghost-Spider Shards
-ID_OF_NA_SKRULLDIAMONDHEIST_SHARDS_SPIDER_MAN_NOIR,Stop Scrolling! Spider-Man (Noir) Shards
-ID_OF_NA_SKRULLDIAMONDHEIST_SHARDS_PENI_PARKER,Stop Scrolling! Peni Parker Shards
-ID_OF_NA_SKRULLDIAMONDHEIST_SHARDS_PETER_B_PARKER,Stop Scrolling! Peter B Parker Shards
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_VAHL,Power up Vahl and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_KANG_THE_CONQUEROR,Power up Kang The Conqueror and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_SERSI,Power up Sersi and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_IKARIS,Power up Ikaris and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_VOID_KNIGHT,Power up Void Knight and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_CYCLOPS,Power up Cyclops and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_NIGHT_CRAWLER,Power up Nightcrawler and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_FORGE,Power up Forge and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_GAMBIT,Power up Gambit and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_SUNSPOT,Power up Sunspot and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_SPIDER_MAN_PAVITR,Power up Spider-Man (Pavitr) and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_GHOST_SPIDER,Power up Ghost-Spider and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_SPIDER_MAN_NOIR,Power up Spider-Man (Noir) and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_PENI_PARKER,Power up Peni Parker and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_PETER_B_PARKER,Power up Peter B Parker and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_XTREME_X_MEN,Power up Global team and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_COSMIC,Power up Cosmic team and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_CUT_SPIDER_SOCIETY,Power up City team and progress in Dark Dimension VI to obtain Super Skrull Diamonds and More!
-ID_OF_DE_SKRULLDIAMONDHEIST_SHARDS,Best. Shard. Discount. Ever. Grab it now before it's gone for good!
 ID_OF_NA_OFFER_SHARDS_GROWTH_BFCW24_ALPHAFLIGHT_C10,Thanksgiving Feast: Alpha Flight
 ID_OF_NA_OFFER_GEAR_GROWTH_BFCW24_ALPHAFLIGHT_TEALUNIQUES_C5,Thanksgiving Unique Feast
 ID_OF_DE_OFFER_SHARDS_GROWTH_BFCW24_ALPHAFLIGHT_C10,Fortify your Alliance War defenses with <color=#fff568>Alpha Flight</color> team members! <color=#0c7bdc>A {var1}x value!</color>
@@ -12086,7 +12036,6 @@ ID_OF_NA_KAHHORI_TEAMORB_TY,Path to Kahhori Orb Thank You Special!
 ID_OF_DE_KAHHORI_TEAMORB_TY,Thank you for your support! Please enjoy this increased value orb offer.
 ID_OF_NA_KAHHORI_WEB_EXTRA_FCO_OFFER,Kahhori Unlock Offer
 ID_OF_DE_KAHHORI_WEB_EXTRA_FCO_OFFER,"The Stirs the Forest, <color=#fff568>Kahhori</color>, has arrived!"
-ID_OF_DE_COSMICBATTLE_EVENTORB2,Get Allied Supply VI orbs and Astral Energy for <color=#fff568>Cosmic Battle</color> progress!
 ID_OF_NA_KAHHORI_WEB_SPECIAL_OFFER,Stirs the Forest Special
 ID_OF_DE_KAHHORI_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> <color=#fff568>Kahhori</color> zooms in and exposes her enemies for Absolute A-Force!
 ID_OF_NA_KAHHORI_WEB_STREAK1_FCO_OFFER,(1/4) Reshaper of Worlds
@@ -12398,7 +12347,7 @@ ID_OF_DE_WINTERLAND24_GOLD_A19_DDC,Push your characters to their limits with thi
 ID_OF_DE_WINTERLAND24_ABM_GOLD,Take advantage of this great deal on T3 Ability Materials!
 ID_OF_DE_WINTERLAND24_REBIRTH,Strengthen your <color=#fff568>Rebirth</color> members to take on the next chapter of challenges.<color=#fc03d7>A {var1}x value</color>!
 ID_OF_DE_WINTERLAND24_WINTERSOLDIER,Get <color=#ffda21>Winter Solider</color> shards today with this special offer. <color=#fc03d7>A {var1}x value</color>!
-ID_OF_DE_WINTERLAND24_TRAIN_DDC_DPC,Promote the best of your roster with this offer of <color=#ffda21>Dark Diamond Credit & Dark Promotion Credits</color>!
+ID_OF_DE_WINTERLAND24_TRAIN_DDC_DPC,Promote the best of your roster with this offer of <color=#ffda21>Dark Diamond Credits & Dark Promotion Credits</color>!
 ID_OF_DE_WINTERLAND24_TRAIN_BASIC,Train up and get ready for the upcoming challenges with this special deal!
 ID_OF_DE_WINTERLAND24_CAP_CARTER,Go back in time and get a combination of shards for <color=#ffc0cb>Captain America</color> and <color=#ffc0cb>Captain Carter</color> to power up your <color=#ffc0cb>Rebirth</color> team!
 ID_OF_DE_WINTERLAND24_RAVENGER,"Make your name known throughout the universe with this ravaging deal! Get shards of <color=#3366cc>Yondu</color>, <color=#3366cc>Starlord (T'Challa)</color>, and more in this special offer."
@@ -12424,7 +12373,7 @@ ID_OF_DE_WINTERLAND24_TRAIN_ORBS,Train up and get ready for the upcoming challen
 ID_OF_DE_WINTERLAND24_ABM_TRAIN,Stock up on Training Modules and T4 Ability Materials to upgrade your roster with this special offer.
 ID_OF_DE_WINTERLAND24_DARKHOLD,Take advantage of one of these spectacular <color=#fff568>Darkhold</color> Character Shard deals!
 ID_OF_DE_WINTERLAND24_TEAL_DARKHOLD,Give your <color=#ffda21>Darkhold</color> team the <color=#fff568>Teal Gear Uniques</color> they need with this upcomming challenges!
-ID_OF_DE_WINTERLAND24_MEGA_ORBS,"Improve your roster with this <color=#ffda21>Mega Orb, Mega Gold Orbs and Premium Orbs</color> offer to prepare for the upcoming challenges!"
+ID_OF_DE_WINTERLAND24_MEGA_ORBS,"Improve your roster with this <color=#ffda21>Mega Orbs, Mega Gold Orbs and Premium Orbs</color> offer to prepare for the upcoming challenges!"
 ID_OF_DE_WINTERLAND24_GOLD,Seize this mountain of <color=#ffda21>Gold</color> and boost your roster's power to help overcome any challenge! <color=#ffda21>Greater than {var1}x value</color>!
 ID_OF_DE_WINTERLAND24_PYMTECH,Take advantage of one of these spectacular <color=#fff568>Pym Tech</color> Character Shard deals!
 ID_OF_DE_WINTERLAND24_DDC_GOLD_EXTRA,Secure a wealth of Gold and Dark Diamond Credits to bolster your heroes for the ultimate battles.
@@ -12438,13 +12387,13 @@ ID_OF_DE_WINTERLAND24_UNDYING,Become an unstoppable force in War and benefit fro
 ID_OF_DE_WINTERLAND24_UNDYING_CRIMSON,Maximize the power of your Undying using Crimson gear with this high value offer.
 ID_OF_DE_WINTERLAND24_ARMORY_BUNDLE,Open the armory of gear needed for your characters to reach new tiers of power with this exclusive offer!
 ID_OF_DE_WINTERLAND24_ABM_A19_GOLD,"Train up your roster with this special offer of T4 Ability Materials, Armory 19 and Gold! <color=#ffda21>Greater than a {var1}x value</color>!"
-ID_OF_DE_WINTERLAND24_SHIELD,Take advantage of one of these spectacular <color=#fff568>S.H.I.E.L.D.</color> Character Shard deals. Greater than a {var1}x value</color>!
+ID_OF_DE_WINTERLAND24_SHIELD,Take advantage of one of these spectacular <color=#fff568>S.H.I.E.L.D.</color> Character Shard deals. <color=#ffda21>Greater than a {var1}x value</color>!
 ID_OF_DE_WINTERLAND24_ABM_TRAIN_DIAMOND,"Reach the height of your skill ceiling with this <color=#ffda21>T4 Ability Materials,Training Modules and Diamond orbs</color> special offer!"
 ID_OF_DE_WINTERLAND24_ABM_GOLD_BUNDLE,Boost the ability and capability of your roster with this limited time offer!
 ID_OF_DE_WINTERLAND24_PURPLE_IONS,Transform your favorite characters with this limited-time deal on T3 Ions!
 ID_OF_NA_WPD24_GOLD_GORB,Winter Pocket Dimension: Gold Pack
 ID_OF_NA_WPD24_T3_ISO_CONTROLLER,Winter Pocket Dimension: Controller Iso-8
-ID_OF_NA_WPD24_IRONHEART_WASP,Winter Pocket Dimension: Iron Heart Power Up
+ID_OF_NA_WPD24_IRONHEART_WASP,Winter Pocket Dimension: Ironheart Power Up
 ID_OF_NA_WPD24_CRIMSON_MINI,Winter Pocket Dimension: Crimson Mini-Unique Pack
 ID_OF_NA_WPD24_TRAIN_GOLD,Winter Pocket Dimension: Training Booster
 ID_OF_NA_WPD24_M4M_DORB,Winter Pocket Dimension: Mercs For Money
@@ -12488,7 +12437,7 @@ ID_OF_NA_WPD24_DPC_E7,Winter Pocket Dimension: Promotion Credits
 ID_OF_NA_WPD24_MEGA_GORB_TRAIN,Winter Pocket Dimension: Mega Gold Supply Pack
 ID_OF_DE_WPD24_GOLD_GORB,Fill up Gold and stay ready with this special offer!
 ID_OF_DE_WPD24_T3_ISO_CONTROLLER,Empower your roster with <color=#800080>Purple Iso-8 Controller</color>! Only available for a limited-time!
-ID_OF_DE_WPD24_IRONHEART_WASP,"Empower the newly updated Absolute A-Force member, <color=#fff568>Iron Heart</color>, with this special offer today!"
+ID_OF_DE_WPD24_IRONHEART_WASP,"Empower the newly updated Absolute A-Force member, <color=#fff568>Ironheart</color>, with this special offer today!"
 ID_OF_DE_WPD24_CRIMSON_MINI,Push your roster to the limit using Crimson Gear with this limited-time offer!
 ID_OF_DE_WPD24_TRAIN_GOLD,Train up your roster with this time limited offer of <color=#ffda21>L4 Training Modules & Gold</color>.
 ID_OF_DE_WPD24_M4M_DORB,Build up your <color=#ffda21>Mercs for Money</color> team with this special offer!
@@ -12526,7 +12475,163 @@ ID_OF_DE_WPD24_CRIMSON_MEDUSA,Don't miss out this special offer to power up <col
 ID_OF_DE_WPD24_ABM_GOLD_V2,Boost the ability and capability of your roster using <color=#ffda21>T4 Ability Material</color> and <color=#ffda21>Gold</color> with this limited-time offer!
 ID_OF_DE_WPD24_GOLD_V2,Fill up Gold and stay ready with this special offer!
 ID_OF_DE_WPD24_T3_ISO_ORB,Don't miss out this special offer to upgrade Purple Iso-8 for your roster!
-ID_OF_DE_WPD24_TRAIN_GORB,Train up your roster with this time limited offer of <color=#ffda21>L4 Training Modules</color> and <color=#ffda21>Gold Orb</color>.
+ID_OF_DE_WPD24_TRAIN_GORB,Train up your roster with this time limited offer of <color=#ffda21>L4 Training Modules</color> and <color=#ffda21>Gold Orbs</color>.
 ID_OF_DE_WPD24_CRIMSON_UNIQUE_AAFORCE_A19,Gear up and push your Absolute A-Force to the limit with this limited-time offer.
 ID_OF_DE_WPD24_DPC_E7,Boost up the Red Star rank of your roster by stocking Dark Promotion Credits and Elite 7 Credits with this special offer.
 ID_OF_DE_WPD24_MEGA_GORB_TRAIN,Stock up on Gold and Training Modules to upgrade your roster with this limited-time offer.
+ID_OF_NA_MSMARVELCLASSIC_FCO_OFFER,Absolute Ace
+ID_OF_DE_MSMARVELCLASSIC_FCO_OFFER,Each <color=#fff568>Absolute Ace Orb</color> contains <color=#fff568>up to 180 Ms. Marvel (Classic)</color> shards. <color=#fff568>Ms. Marvel (Classic)</color> offers Absolute A-Force team members big sustain and flies to their aid!
+ID_OF_DE_MSMARVELCLASSIC_OFFER_VAR_SU,Recruit a <color=#fff568>{var1}-star Ms. Marvel (Classic)</color> for your roster <color=#fff568>Ms. Marvel (Classic)</color> offers Absolute A-Force team members big sustain and flies to their aid!
+ID_OF_DE_MSMARVELCLASSIC_OFFER_SHARD,Power up <color=#fff568>Ms. Marvel (Classic)</color> with this shard offer! <color=#fff568>Ms. Marvel (Classic)</color> offers Absolute A-Force team members big sustain and flies to their aid!
+ID_OF_DE_MSMARVELCLASSIC_UNLOCK_OFFER,Unlock <color=#fff568>Ms. Marvel (Classic)</color> now! <color=#fff568>Ms. Marvel (Classic)</color> offers Absolute A-Force team members big sustain and flies to their aid!
+ID_OF_STOREBAR_MSMARVELCLASSIC,Dual Offer: Ms. Marvel (Classic)
+ID_OF_NA_DUAL_MSMARVELCLASSIC,Dual Offer: Ms. Marvel (Classic)
+ID_OF_DE_DUAL_MSMARVELCLASSIC,Choose your path to power up this <color=#fff568>Absolute A-Force</color> member!
+ID_OF_DE_DUAL_UNLOCK_MSMARVELCLASSIC,Unlock this <color=#fff568>Absolute A-Force</color> member!
+ID_OF_NA_MSMARVELCLASSIC_FCO_OFFER_BASIC,Ms. Marvel (Classic) Release Offer
+ID_OF_NA_MSMARVELCLASSIC_TEAMORB,Path to Ms. Marvel (Classic) Orb Offer
+ID_OF_DE_MSMARVELCLASSIC_TEAMORB,Bring the team together with this limited time orb special featuring Ms. Marvel (Classic)!
+ID_OF_NA_MSMARVELCLASSIC_TEAMORB_TY,Path to Ms. Marvel (Classic) Orb Thank You Special!
+ID_OF_DE_MSMARVELCLASSIC_TEAMORB_TY,Thank you for your support! Please enjoy this increased value orb offer.
+ID_OF_NA_MSMARVELCLASSIC_WEB_EXTRA_FCO_OFFER,Ms. Marvel (Classic) Unlock Offer
+ID_OF_DE_MSMARVELCLASSIC_WEB_EXTRA_FCO_OFFER,"The Absolute Ace, <color=#fff568>Ms. Marvel (Classic)</color>, has arrived!"
+ID_OF_NA_MSMARVELCLASSIC_WEB_SPECIAL_OFFER,Absolute Ace Special
+ID_OF_DE_MSMARVELCLASSIC_WEB_SPECIAL_OFFER,<color=#fff568>Web Special!</color> <color=#fff568>Ms. Marvel (Classic)</color> offers Absolute A-Force team members big sustain and flies to their aid!
+ID_OF_NA_MSMARVELCLASSIC_WEB_STREAK1_FCO_OFFER,"(1/4) Classic Marvel "
+ID_OF_NA_MSMARVELCLASSIC_WEB_STREAK2_FCO_OFFER,"(2/4) Classic Marvel "
+ID_OF_NA_MSMARVELCLASSIC_WEB_STREAK3_FCO_OFFER,"(3/4) Classic Marvel "
+ID_OF_NA_MSMARVELCLASSIC_WEB_STREAK4_FCO_OFFER,"(4/4) Classic Marvel "
+ID_OF_DE_MSMARVELCLASSIC_WEB_STREAK1_FCO_OFFER,A special launch offer has appeared for you! Recruit Ms. Marvel (Classic) today!
+ID_OF_DE_MSMARVELCLASSIC_WEB_STREAK2_FCO_OFFER,Take Ms. Marvel (Classic) to the next level and make your Absolute A-Force the best they can be!
+ID_OF_DE_MSMARVELCLASSIC_WEB_STREAK3_FCO_OFFER,Take Ms. Marvel (Classic) to the next level and make your Absolute A-Force the best they can be!
+ID_OF_DE_MSMARVELCLASSIC_WEB_STREAK4_FCO_OFFER,Final step towards your full potential is here for Ms. Marvel (Classic)!
+ID_OF_NA_MSMARVELCLASSIC_STREAK_OFFER1,(1/6) Marvelous Might
+ID_OF_NA_MSMARVELCLASSIC_STREAK_OFFER2,(2/6) Marvelous Might
+ID_OF_NA_MSMARVELCLASSIC_STREAK_OFFER3,(3/6) Marvelous Might
+ID_OF_NA_MSMARVELCLASSIC_STREAK_OFFER4,(4/6) Marvelous Might
+ID_OF_NA_MSMARVELCLASSIC_STREAK_OFFER5,(5/6) Marvelous Might
+ID_OF_NA_MSMARVELCLASSIC_STREAK_OFFER6,(6/6) Marvelous Might
+ID_OF_DE_MSMARVELCLASSIC_STREAK_OFFER1,Don't miss out on this special launch offer for Ms. Marvel (Classic)!
+ID_OF_DE_MSMARVELCLASSIC_STREAK_OFFER2,Don't miss out on this special launch offer for Ms. Marvel (Classic)!
+ID_OF_DE_MSMARVELCLASSIC_STREAK_OFFER3,Don't miss out on this special launch offer for Ms. Marvel (Classic)!
+ID_OF_DE_MSMARVELCLASSIC_STREAK_OFFER4,Don't miss out on this special launch offer for Ms. Marvel (Classic)!
+ID_OF_DE_MSMARVELCLASSIC_STREAK_OFFER5,Don't miss out on this special launch offer for Ms. Marvel (Classic)!
+ID_OF_DE_MSMARVELCLASSIC_STREAK_OFFER6,Don't miss out on this special launch offer for Ms. Marvel (Classic)!
+ID_OF_NA_AAFORCE24_CRIMSON_UNIQUES,Absolute A-Force Crimson Uniques
+ID_OF_NA_AAFORCE24_KAHHORI_A19,Kahhori's Crimson Power
+ID_OF_NA_AAFORCE24_WASP,Wasp The Winged Warrior
+ID_OF_NA_AAFORCE24_IRONHEART,Ironheart The Exceptional Intelligence
+ID_OF_NA_AAFORCE24_CRIMSON_MINIUNIQUES,Absolute A-Force Crimson Mini-Uniques
+ID_OF_NA_AAFORCE24_TEAL_UNIQUES,Absolute A-Force's Mystic Power
+ID_OF_NA_AAFORCE24_KAHHORI,Kahhori The Mohawk Warrior
+ID_OF_NA_AAFORCE24_WASP_TEALUNIQUE_GOLD,Wasp Boost Up
+ID_OF_NA_AAFORCE24_KAHHORI_A19_DPC,Kahhori Super Pack
+ID_OF_NA_AAFORCE24_KAHHORI_CRIMSONORIGIN,Kahhori's Crimson Origins
+ID_OF_NA_AAFORCE24_TEAL_MINIUNIQUES,Absolute A-Force Custom Equipment
+ID_OF_NA_AAFORCE24_A19_TRAIN_GOLD,Absolute A-Force Crimson Power Up
+ID_OF_NA_AAFORCE24_TRAIN_GOLD_A18_A17_T2L5,Absolute A-ForceBoost Up
+ID_OF_NA_AAFORCE24_KAHHORI_A19_TRAIN_DDC,Kahhori Elite Pack
+ID_OF_NA_AAFORCE24_KAHHORI_A18_DPC,Kahhori Power Up
+ID_OF_NA_AAFORCE24_KAHHORI_DIAMOND_GOLD,Kahhori Super Boost
+ID_OF_NA_AAFORCE24_KAHHORI_MSMARVELCLASSIC_A19_GOLD_E7,Absolute A-Force Ultimate Pack
+ID_OF_NA_AAFORCE24_MSMARVELCLASSIC_A19,Ms. Marvel (Classic) Crimson Power
+ID_OF_NA_AAFORCE24_KAHHORI_MSMARVELCLASSIC_A19_DPC,Absolute A-Force Super Pack
+ID_OF_NA_AAFORCE24_MSMARVELCLASSIC,Ms. Marvel (Classic): Warbird
+ID_OF_NA_AAFORCE24_KAHHORI_MSMARVELCLASSIC_A19_TRAIN,Absolute A-Force Elite Training
+ID_OF_NA_AAFORCE24_MSMARVELCLASSIC_CRIMSONORIGIN,Ms. Marvel (Classic) Crimson Origins
+ID_OF_NA_AAFORCE24_MSMARVELCLASSIC_TRAIN_DPC,Ms. Marvel (Classic): Fortification
+ID_OF_NA_AAFORCE24_KAHHORI_MSMARVELCLASSIC_TRAIN,Absolute A-Force Preparation
+ID_OF_NA_AAFORCE24_KAHHORI_MSMARVELCLASSIC_GOLD,Absolute A-Force Domination
+ID_OF_NA_AAFORCE24_FULL_TEAM_TRAIN,Absolute A-Force Team Pack
+ID_OF_NA_AAFORCE24_MEDUSA_E7_DPC,Medusa Power Up
+ID_OF_NA_AAFORCE24_MEDUSA_CRIMSONORIGIN,Medusa's Crimson Origins
+ID_OF_NA_AAFORCE24_MEDUSA_A19,Medusa's Crimson Power
+ID_OF_NA_AAFORCE24_MEDUSA,Medusa The Attilan Queen
+ID_OF_DE_AAFORCE24_CRIMSON_UNIQUES,Gear up your <color=#fff568>Absolute A-Force</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_AAFORCE24_KAHHORI_A19,Power up your <color=#fff568>Kahhori</color> to unlock all his Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_AAFORCE24_WASP,"Empower the newly updated Absolute A-Force member, the winged warrior <color=#fff568>Wasp</color>, with this special offer today! <color=#ffda21>A {var1}x Value</color>!"
+ID_OF_DE_AAFORCE24_IRONHEART,"Empower the newly updated Absolute A-Force member, the exceptional intelligence <color=#fff568>Ironheart</color>, with this special offer today! <color=#ffda21>A {var1}x Value</color>!"
+ID_OF_DE_AAFORCE24_CRIMSON_MINIUNIQUES,Upgrade your <color=#fff568>Absolute A-Force</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_AAFORCE24_TEAL_UNIQUES,Gear up your <color=#fff568>Absolute A-Force</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards! <color=#ffda21>A {var1}x Value</color>!
+ID_OF_DE_AAFORCE24_KAHHORI,"Empower the newly added Absolute A-Force member, the Mohawk warrior, <color=#fff568>Kahhori</color>, with this special offer today!"
+ID_OF_DE_AAFORCE24_WASP_TEALUNIQUE_GOLD,"Empower the newly updated Absolute A-Force member, <color=#fff568>Wasp</color>, with this special offer today! <color=#ffda21>A {var1}x Value</color>!"
+ID_OF_DE_AAFORCE24_KAHHORI_A19_DPC,Train and level up <color=#ffda21>Kahhori</color> with this great deal.
+ID_OF_DE_AAFORCE24_KAHHORI_CRIMSONORIGIN,Power up your <color=#fff568>Kahhori</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_AAFORCE24_TEAL_MINIUNIQUES,Upgrade your <color=#fff568>Absolute A-Force</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards! <color=#ffda21>A {var1}x Value</color>!
+ID_OF_DE_AAFORCE24_A19_TRAIN_GOLD,Boost up your <color=#fff568>Absolute A-Force</color> team's power to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_AAFORCE24_TRAIN_GOLD_A18_A17_T2L5,Boost up your <color=#fff568>Absolute A-Force</color> team's power to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_AAFORCE24_KAHHORI_A19_TRAIN_DDC,Prepare your <color=#fff568>Kahhori</color> to conquer all the difficulties in the Showcase Event!
+ID_OF_DE_AAFORCE24_KAHHORI_A18_DPC,Power up your <color=#fff568>Kahhori</color> to unlock all his Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_AAFORCE24_KAHHORI_DIAMOND_GOLD,Boost up your <color=#fff568>Kahhori</color> 's power to unlock all his Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_AAFORCE24_KAHHORI_MSMARVELCLASSIC_A19_GOLD_E7,Empower and gear up <color=#ffda21>Kahhori & Ms. Marvel (Classic)</color> with this great deal.
+ID_OF_DE_AAFORCE24_MSMARVELCLASSIC_A19,Improve your <color=#fff568>Ms. Marvel (Classic)</color> to conquer all her Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_AAFORCE24_KAHHORI_MSMARVELCLASSIC_A19_DPC,Improve and gear up your <color=#ffda21>Kahhori & Ms. Marvel (Classic)</color> with this great deal.
+ID_OF_DE_AAFORCE24_MSMARVELCLASSIC,"Empower the newly added Absolute A-Force member, <color=#fff568>Ms. Marvel (Classic)</color>, with this special offer today!"
+ID_OF_DE_AAFORCE24_KAHHORI_MSMARVELCLASSIC_A19_TRAIN,Train and level up <color=#ffda21>Kahhori & Ms. Marvel (Classic)</color> with this great deal.
+ID_OF_DE_AAFORCE24_MSMARVELCLASSIC_CRIMSONORIGIN,Improve your <color=#fff568>Ms. Marvel (Classic)</color> to unlock all her Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_AAFORCE24_MSMARVELCLASSIC_TRAIN_DPC,Train and level up to max out your <color=#ffda21>Ms. Marvel (Classic)</color>!
+ID_OF_DE_AAFORCE24_KAHHORI_MSMARVELCLASSIC_TRAIN,Prepare your <color=#fff568>Kahhori & Ms. Marvel (Classic)</color> to conquer all the difficulties in their Showcase Event!
+ID_OF_DE_AAFORCE24_KAHHORI_MSMARVELCLASSIC_GOLD,Power up your <color=#fff568>Kahhori & Ms. Marvel (Classic)</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_AAFORCE24_FULL_TEAM_TRAIN,Recruit your entire <color=#fff568>Absolute A-Force</color> team to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_AAFORCE24_MEDUSA_E7_DPC,Rank up your <color=#fff568>Medusa</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_AAFORCE24_MEDUSA_CRIMSONORIGIN,Max out <color=#ffda21>Medusa</color> and equip them the finest gear!
+ID_OF_DE_AAFORCE24_MEDUSA_A19,Power up your <color=#fff568>Medusa</color> to unlock all their Showcase Event's difficulties and earn maximum rewards!
+ID_OF_DE_AAFORCE24_MEDUSA,"Empower the newly added Absolute A-Force member, <color=#fff568>Medusa</color>, with this special offer today!"
+ID_OF_NA_WEBCLAIMS_DAILY_DEC24_BLACKKNIGHT,Ye Olde Protector
+ID_OF_DE_WEBCLAIMS_DAILY_DEC24_BLACKKNIGHT,Get <color=#fff568>{var1} Black Knight</color> shards and unleash their devastating attack retaliation and Revive denial!!
+ID_OF_DE_WEBCLAIMS_DEC24_BLACKKNIGHT_DAILYFREE_INTERSTITIAL,Don't miss this short window to purchase this one-time offer! This offer only lasts for as long as this window is open!
+ID_OF_NA_WINTER24_12DAY1,Grootmas: A Cute Baby Groot Dancing
+ID_OF_NA_WINTER24_12DAY2,Grootmas: 2 Rocket Boots
+ID_OF_NA_WINTER24_12DAY3,Grootmas: 3 Knowhere Tours
+ID_OF_NA_WINTER24_12DAY4,Grootmas: 4 Jet Pack Blasts
+ID_OF_NA_WINTER24_12DAY5,Grootmas: 5 Infinity Stones
+ID_OF_NA_WINTER24_12DAY6,Grootmas: 6 Star-Lord Poses
+ID_OF_NA_WINTER24_12DAY7,Grootmas: 7 Orbs A-Glowing
+ID_OF_NA_WINTER24_12DAY8,Grootmas: 8 Ships Exploring
+ID_OF_NA_WINTER24_12DAY9,Grootmas: 9 Stars A-Blazing
+ID_OF_NA_WINTER24_12DAY10,Grootmas: 10 Ravagers Raiding
+ID_OF_NA_WINTER24_12DAY11,Grootmas: 11 Arrows for Yondu
+ID_OF_NA_WINTER24_12DAY12,Grootmas: 12 Awesome Mixtapes
+ID_OF_DE_WINTER24_12DAY1,Celebrate the First day of Grootmas with this special offer!
+ID_OF_DE_WINTER24_12DAY2,Celebrate the Second day of Grootmas with this special offer!
+ID_OF_DE_WINTER24_12DAY3,Celebrate the Third day of Grootmas with this special offer!
+ID_OF_DE_WINTER24_12DAY4,Celebrate the Fourth day of Grootmas with this special offer!
+ID_OF_DE_WINTER24_12DAY5,Celebrate the Fifth day of Grootmas with this special offer!
+ID_OF_DE_WINTER24_12DAY6,Celebrate the Sixth day of Grootmas with this special offer!
+ID_OF_DE_WINTER24_12DAY7,Celebrate the Seventh day of Grootmas with this special offer!
+ID_OF_DE_WINTER24_12DAY8,Celebrate the Eighth day of Grootmas with this special offer!
+ID_OF_DE_WINTER24_12DAY9,Celebrate the Nineth day of Grootmas with this special offer!
+ID_OF_DE_WINTER24_12DAY10,Celebrate the Tenth day of Grootmas with this special offer!
+ID_OF_DE_WINTER24_12DAY11,Celebrate the Eleventh day of Grootmas with this special offer!
+ID_OF_DE_WINTER24_12DAY12,Celebrate the Twelfth day of Grootmas with this special offer!
+ID_OF_NA_THREEFRENCHHENS_STARTER,Three French Hens: Starter
+ID_OF_NA_THREEFRENCHHENS_CATCHUP,Three French Hens: Catch-up
+ID_OF_NA_THREEFRENCHHENS_WEB_SPECIAL,Three French Hens: Web Special
+ID_OF_NA_THREEFRENCHHENS_DAILY_ENERGY,Three French Hens: Daily Energy
+ID_OF_NA_THREEFRENCHHENS_DAILY_ORB,Three French Hens: Daily Reinforcements
+ID_OF_NA_THREEFRENCHHENS_DAILY_POINTS,Three French Hens: Daily Points
+ID_OF_NA_THREEFRENCHHENS_ASTRAL,Three French Hens: Astral
+ID_OF_NA_THREEFRENCHHENSDAILY_FREE_CLAIM,Three French Hens: Free Claim
+ID_OF_NA_THREEFRENCHHENS_DAILY_INTERSTITIAL,Three French Hens: Hidden Treasure
+ID_OF_NA_THREEFRENCHHENS_MIDEVENT_SPECIAL,Three French Hens: Mid-Event Special
+ID_OF_DE_THREEFRENCHHENS_STARTER,Jump-start your <color=#fff568>Three French Hens</color> Milestone progress and make your way to <color=#f12603>Ms. Marvel (Classic) Diamonds</color> and <color=#fff568>Crimson Skill Gear</color>!
+ID_OF_DE_THREEFRENCHHENS_CATCHUP,Finish strong in the <color=#fff568>Three French Hens</color> Milestone to earn <color=#f12603>Ms. Marvel (Classic) Diamonds</color> and <color=#fff568>Crimson Skill Gear</color>!
+ID_OF_DE_THREEFRENCHHENS_MIDEVENT_SPECIAL,"Claim this mega deal to get ahead in the <color=#fff568>Three French Hens</color> Milestone, and fast-forward your way to <color=#f12603>Ms. Marvel (Classic) Diamonds</color> and <color=#fff568>Crimson Skill Gear</color>!"
+ID_OF_DE_THREEFRENCHHENS_DAILY_ENERGY,Get your daily dose of Campaign Energy to earn Nest Egg Orb fragments for progress in the Three French Hens milestone!
+ID_OF_DE_THREEFRENCHHENS_DAILY_ORB,"Collect Nest Egg Orb fragments for progress in the Three French Hens milestone. Open them for Character Shards, Dark Promotion and Dakr Diamond Credits, Gold, and Training Modules!"
+ID_OF_DE_THREEFRENCHHENS_DAILY_POINTS,Get ahead in the <color=#fff568>Three French Hens</color> Leaderboard to compete for <color=#fff568>Ms M.arvel (Classic) Diamonds</color>!
+ID_OF_DE_THREEFRENCHHENS_ASTRAL,Power up your Astral characters and use them in War for progress in the Three French Hens Milestone!
+ID_OF_DE_THREEFRENCHHENSDAILY_FREE_CLAIM,Come back daily for more <color=#fff568>Three French Hens</color> progress!
+ID_OF_DE_THREEFRENCHHENS_DAILY_INTERSTITIAL,You just unlocked the highest discount deal for the <color=#fff568>Three French Hens</color> event! This offer only lasts for as long as this window is open. Seize it before it's too late!
+ID_OF_NA_XTREMEXMEN_THS_OFFER,Time Heist X-Treme X-Men Team Offer
+ID_OF_NA_SPIDERSOCIETY_THS_OFFER,Time Heist Spider Society Team Offer
+ID_OF_NA_CABAL_THS_OFFER,Time Heist Cabal Team Offer
+ID_OF_NA_KNOWHERE_THS_OFFER,Time Heist Knowhere Team Offer
+ID_OF_NA_SINISTERSIX_THS_OFFER,Time Heist Sinister Six Team Offer
+ID_OF_NA_NEWAVENGERS_THS_OFFER,Time Heist New Avengers Team Offer
+ID_OF_NA_REBIRTH_THS_OFFER,Time Heist Rebirth Team Offer
+ID_OF_NA_SECRETDEFENDERS_THS_OFFER,Time Heist Secret Defenders Team Offer
+ID_OF_NA_MASTERSOFEVIL_THS_OFFER,Time Heist Masters of Evil Team Offer
+ID_OF_NA_ANNIHILATORS_THS_OFFER,Time Heist Annihilators Team Offer
+ID_OF_NA_OUTOFTIME_THS_OFFER,Time Heist Out Of Time Team Offer
+ID_OF_NA_VAHL_THS_OFFER,Time Heist Vahl Offer

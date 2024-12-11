@@ -143,7 +143,7 @@ ID_PROCS_VULNERABLE_DESC,This character will take increased damage if targeted d
 ID_PROCS_VULNERABLE_NAME,Vulnerable
 ID_PROCS_POSSESSED_DESC,This character is possessed by Shadow King!
 ID_PROCS_POSSESSED_NAME,Possessed
-ID_PROCS_DARKNESS_DESC,"On this character's turn, attack a random ally. This attack gains 25% Extra Damage per Darkness on this character, up to a maximum of 250%.\nUsing this character's Basic ability while this character has full energy clears 5 stacks of Darkness."
+ID_PROCS_DARKNESS_DESC,"On Turn, attack a random ally. Using this character's Basic, while at full energy, clears 5 Darkness on this character."
 ID_PROCS_DARKNESS_NAME,Darkness
 ID_PROCS_RAGE_DESC,This character is enraged.
 ID_PROCS_RAGE_NAME,Rage

@@ -5072,7 +5072,7 @@ ID_QU_S4_FALLOFTHEMUTANTS,Battle in Raid with Omega Sentinel
 ID_QU_NA_S-DAY,S-Day
 ID_QU_SD_S-DAY,Spend Sentinel Scraps
 ID_QU_LD_S-DAY,Spend Sentinel Scraps to complete S-Day milestones that rewards more Sentinel Scraps and bonus Autumn Revolution progress!
-ID_QU_NA_OMLPREP,Back to the Wasteland
+ID_QU_NA_OMLPREP,Prepare for the Old Man Logan Trials!
 ID_QU_SD_OMLPREP,Prepare for the Old Man Logan Trials!
 ID_QU_LD_OMLPREP,"Score points by earning Logan's Army Orb Fragments from Campaign Nodes and ranking up characters required to participate in the Difficulty 8 of Old Man Logan Trials.\n\nRewards include unlock tokens and upgrade materials for these characters, as well as Gold and Training Modules!"
 ID_QU_S1_OMLPREP,Earn 1 Logan's Army Orb Fragment
@@ -5127,9 +5127,9 @@ ID_QU_S4_MIDNIGHTHUNT,Collect 1 Holy Water
 ID_QU_S5_MIDNIGHTHUNT,Collect 1 Bunch of Garlic
 ID_QU_S6_MIDNIGHTHUNT,Collect 1 Bazooka
 ID_QU_NA_VAMPIRICFRENZY,Vampiric Frenzy
-ID_QU_SD_VAMPIRICFRENZY,Spend Nightstalker Energy and earn Candy
-ID_QU_LD_VAMPIRICFRENZY,"Vampiric Frenzy Milestone\nGain progress in this 6-day event by spending Nightstalker Energy in the newest showcase, collecting Candy from showcases and Alliance gifts, and completing the Sugar Rush Web Milestone and daily web Free Claims. You can gain additional progress by purchasing the Ghoulish Gold Orb, which will enable you to puschase one of several Golden Costumes from the Costume Shop! Earn fantastic rewards including Diamond Orbs, T3 Iso-8 Ions, and Crimson Bio Gear. You'll also earn points towards the month-long Midnight Hunt milestone by collecting Silver Bullets and a Stake.\n\nSugar Rush Web Milestone\nSpend Candy on fabulous goods in the Candy Store, and be rewarded with additional progress in Vampiric Frenzy and Midnight Hunt!"
-ID_QU_S1_VAMPIRICFRENZY,Spend Nightstalker Energy in a showcase
+ID_QU_SD_VAMPIRICFRENZY,Spend Dead of Night Energy and earn Candy
+ID_QU_LD_VAMPIRICFRENZY,"Vampiric Frenzy Milestone\nGain progress in this 6-day event by spending Dead of Night Energy in the newest showcase, collecting Candy from showcases and Alliance gifts, and completing the Sugar Rush Web Milestone and daily web Free Claims. You can gain additional progress by purchasing the Ghoulish Gold Orb, which will enable you to purchase one of several Golden Costumes from the Costume Shop! Earn fantastic rewards including Diamond Orbs, T3 Iso-8 Ions, and Crimson Bio Gear. You'll also earn points towards the month-long Midnight Hunt milestone by collecting Silver Bullets and a Stake.\n\nSugar Rush Web Milestone\nSpend Candy on fabulous goods in the Candy Store, and be rewarded with additional progress in Vampiric Frenzy and Midnight Hunt!"
+ID_QU_S1_VAMPIRICFRENZY,Spend Dead of Night Energy in a showcase
 ID_QU_S2_VAMPIRICFRENZY,Earn Candy from a showcase or Alliance gift
 ID_QU_S3_VAMPIRICFRENZY,Open 1 Ghoulish Gold Orb
 ID_QU_NA_SUGARRUSH,Sugar Rush
@@ -5181,8 +5181,8 @@ ID_QU_SC_SPLASH_DAYOFTHEDEAD,Use Spirit of Vengeance Characters in Blitz
 ID_QU_S1_SPLASH_DAYOFTHEDEAD,Win Blitz with a 3-star or higher Spirit of Vengeance Character
 ID_QU_S2_SPLASH_DAYOFTHEDEAD,Win Blitz with a 5-star or higher Spirit of Vengeance Character
 ID_QU_S3_SPLASH_DAYOFTHEDEAD,Win Blitz with a 7-star Spirit of Vengeance Character
-ID_QU_S1_ORCHISASSEMBLY,Earn 1 Orchis Assembly Milestone Point
 ID_QU_LD_THEDARKFUTURE2,"Celebrate Orchis Raids and the Orchis team with this new alliance event! \n\nThe Dark Future Milestone\nTo score points:\n- Battle in Raids\n- Collect Milestone Points from Orchis Raids nodes\n- Earn Allied Supply VI Orb Fragments\n\nEarn fantastic rewards including Silver Bullets, Blade Nightstalker Orbs, Ciphers and T3 Iso-8 Materials!\n\nAllied Supply VI orb\nEarn these alliance event orbs for progress in The Dark Future! Collect the Allied Supply VI Orb in special offers and daily free claims on the web!"
+ID_QU_S1_ORCHISASSEMBLY,Earn 1 Orchis Assembly Milestone Point
 ID_QU_NA_TEAMORB_BLADE,Blade's Dark Hunt
 ID_QU_SD_TEAMORB_BLADE,"Find Blade Nightstalker Orb Fragments in events, and offers!"
 ID_QU_LD_TEAMORB_BLADE,Blade's Dark Hunt Milestone\nOpen Blade Nightstalker Orbs to gain progress and receive additional Daywalker Orbs!
@@ -5199,10 +5199,10 @@ ID_QU_S5_TWILIGHTVIGIL,Battle in Raid with Hive Mind at Gear Tier 18
 ID_QU_S6_TWILIGHTVIGIL,Battle in Raid with Hive Mind at Gear Tier 19
 ID_QU_S7_TWILIGHTVIGIL,Battle in Raid with Spider-Society at Gear Tier 18
 ID_QU_S8_TWILIGHTVIGIL,Battle in Raid with Spider-Society at Gear Tier 19
-ID_QU_NA_SUGARRUSH2,Sugar Rush
-ID_QU_SD_SUGARRUSH2,Spend Candy in the Candy Store!
 ID_QU_S9_TWILIGHTVIGIL,Battle in Raid with X-Treme X-Men at Gear Tier 18
 ID_QU_S10_TWILIGHTVIGIL,Battle in Raid with X-Treme X-Men at Gear Tier 19
+ID_QU_NA_SUGARRUSH2,Sugar Rush
+ID_QU_SD_SUGARRUSH2,Spend Candy in the Candy Store!
 ID_QU_LD_SUGARRUSH2,"Spend Candy on fabulous goods in the Candy Store, and be rewarded with additional progress in Twilight Vigil and Midnight Hunt!"
 ID_QU_S1_SUGARRUSH2,Spend Candy in the Candy Store
 ID_QU_NA_BYFB_STRIKEPOINTS,Fang for your Buck
@@ -5425,8 +5425,8 @@ ID_QU_S8_GGCPREP,Unlock or Rank up Tigra
 ID_QU_S10_GGCPREP,Unlock or Rank up Lizard
 ID_QU_S12_GGCPREP,Unlock or Rank up Sunspot
 ID_QU_NA_ASTRALASCENDANCE,Astral Ascendance
-ID_QU_SD_ASTRALASCENDANCE,Campaign Daily and play Battleworld to earn Emma Frost (X-Men) Shards
-ID_QU_LD_ASTRALASCENDANCE,"Campaign daily and play Battleworld to earn Emma Frost Astral Orbs containing Emma Frost (X-men) character shards! Keep your streak alive for amazing rewards!\n\nDon't miss out on this opportunity, Commander!"
+ID_QU_SD_ASTRALASCENDANCE,Campaign Daily to earn Emma Frost (X-Men) Shards
+ID_QU_LD_ASTRALASCENDANCE,"Campaign daily to earn Emma Frost Astral Orbs containing Emma Frost (X-men) character shards! Keep your streak alive for amazing rewards!\n\nDon't miss out on this opportunity, Commander!"
 ID_QU_S1_ASTRALASCENDANCE,Spend 1 Campaign Energy
 ID_QU_S2_ASTRALASCENDANCE,Play 1 Battleworld Zone
 ID_QU_S3_ASTRALASCENDANCE,Spend 1 of any Campaign Energy type
@@ -5468,20 +5468,10 @@ ID_QU_S9_GALACTICAWAKENING,Battle in Battle World with Emma Frost (Xmen) at 6 Ye
 ID_QU_S10_GALACTICAWAKENING,Battle in Battle World with Ancient One at 7 Yellow Stars
 ID_QU_S11_GALACTICAWAKENING,Battle in Battle World with Emma Frost (Xmen) at 7 Yellow Stars
 ID_QU_NA_BFYBDEC24_STRIKEPOINTS,Bang for your Buck
-ID_QU_NA_SUPERSKRULL_DD6,Skrull Diamond Heist
-ID_QU_SD_SUPERSKRULL_DD6,Beat DD VI and get Diamonds!
-ID_QU_LD_SUPERSKRULL_DD6,Skrull Diamond Heist Milestone\nProgress in Dark Dimension VI to earn character diamonds! Play in Raids to earn Gear Tier 18 and stregthen your team for battle!
-ID_QU_SM_SUPERSKRULL_DD6,Earn Points in Dark Dimension VI
-ID_QU_S1_SUPERSKRULL_DD6,Earn 1 Skrull Diamond Heist Milestone point
-ID_QU_S2_SUPERSKRULL_DD6,Battle with Super Skrull at 7 Yellow Stars
 ID_QU_NA_PATHTOSHADOWKING,Race to Shadow King
 ID_QU_SD_PATHTOSHADOWKING,Collect Astral Force
 ID_QU_LD_PATHTOSHADOWKING,Collect Astral Force to upgrade Shadow King's Red Stars. Collect Astral Force from the Shadow King Trials and Snow Globe Shop.
 ID_QU_S1_PATHTOSHADOWKING,Earn 1 Astral Force
-ID_QU_NA_STELLARCONQUEST4,Stellar Conquest 4
-ID_QU_SD_STELLARCONQUEST4,Spend Turkey in the Turkey Store!
-ID_QU_LD_STELLARCONQUEST4,"Spend Turkey on fabulous goods in the Turkey Store, and be rewarded with additional progress in Galactic Awakening and Dr. Strange Ultimate Awakened Ability!"
-ID_QU_S1_STELLARCONQUEST4,Spend Turkey in the Turkey Store
 ID_QU_NA_THEICEQUEENSGALA,The Ice Queen's Gala
 ID_QU_SD_THEICEQUEENSGALA,Participate in December Events
 ID_QU_LM_THEICEQUEENSGALA,"Earn points toward this month-long milestone by collecting the following items from events and Daily Free Claims: Golden Rings, Calling Birds, French Hens, Turtle Doves, Partridges, and a whole bunch of Snowglobes. Earn Snowglobes from Alliance gifts, Showcases, Milestones, and Battlepass.\n\nGet Snowglobes and the following Meta Items from the following milestones:\n\n- Five Golden Rings\n- Four Calling Birds\n- Three French Hens\n- Two Turtle Doves\n- And a Zombie at the Party\n\nThere will be several Milestone Events that provide progress towards the Ice Queen's Gala Milestone. As you progress, earn fully crafted Gear Tier 18 Mutant gear and more!"
@@ -5537,26 +5527,56 @@ ID_QU_S5_FIVEGOLDENRINGS,Open 1 Heroic Golden Ring Orb
 ID_QU_S6_FIVEGOLDENRINGS,Earn 1 Shadow Orb Fragment
 ID_QU_NA_SEASONOFGIVING,Season of Giving
 ID_QU_SD_SEASONOFGIVING,Spend Snowglobes in the Snowglobe Store!
-ID_QU_LD_SEASONOFGIVING,"Spend Snowglobes on fabulous goods in the Snowglobe Store, and be rewarded with additional progress in Five Golden Rings and The Ice Queen's Gala! You will also earn materials for Moondragon's Ultimate Awakened Ability!"
+ID_QU_LD_SEASONOFGIVING,"Spend Snowglobes on fabulous goods in the Snowglobe Store, and be rewarded with additional progress in The Ice Queen's Gala monthlong and weekly events!"
 ID_QU_S1_SEASONOFGIVING,Spend Snowglobes in the Snowglobe Store
 ID_QU_NA_ABSOLUTEASSAULT,Absolute Assault
 ID_QU_SD_ABSOLUTEASSAULT,Participate in Alliance War to earn Snowglobes!
 ID_QU_LD_ABSOLUTEASSAULT,"Participate in Alliance War for this alliance event! \n\nAbsolute Assault Milestone\nTo score points:\n- Battle in Alliance War\n- Earn Allied Supply VI Orb Fragments\n\nEarn fantastic rewards including Snowglobes, Ancient One and Emma Frost Astral Orb Fragments, Crimson Bio Gear, and Ability Materials!\n\nAllied Supply VI orb\nEarn these alliance event orbs for progress in Absolute Assault! Collect the Allied Supply VI Orb in special offers and daily free claims on the web!"
 ID_QU_S1_ABSOLUTEASSAULT,Earn Allied Supply VI Orb Fragments from Free Claims and special Offers
 ID_QU_S2_ABSOLUTEASSAULT,Play 1 War Battle
-ID_QU_NA_TEAMORB_AAFORCE,Absolute A-Force Assemble
+ID_QU_NA_TEAMORB_AAFORCE,Path to Absolute A-Force
 ID_QU_SD_TEAMORB_AAFORCE,Find Path to Kahhori/Ms. Marvel (Classic)/Medusa Orb Fragments in events and offers!
-ID_QU_LD_TEAMORB_AAFORCE,"Absolute A-force Assemble Milestone\nOpen Path to Kahhori Orbs, Path to Ms. Marvel (Classic) Orbs and Path to Medusa Orbs to gain Absolute Crystals, then spend them to open Absolute A-force Orbs for the newest characters in the Shop!"
+ID_QU_LD_TEAMORB_AAFORCE,"Path to Absolute A-Force Milestone\nOpen Path to Kahhori Orbs, Path to Ms. Marvel (Classic) Orbs and Path to Medusa Orbs to gain Absolute Crystals, then spend them to open Absolute A-force Orbs for the newest characters in the Shop!"
 ID_QU_S1_TEAMORB_AAFORCE,Open 1 Path to Kahhori Orb
 ID_QU_S2_TEAMORB_AAFORCE,Open 1 Path to Ms. Marvel (Classic) Orb
 ID_QU_S3_TEAMORB_AAFORCE,Open 1 Path to Medusa Orb
 ID_QU_NA_FOURCALLINGBIRDS,Four Calling Birds
 ID_QU_SD_FOURCALLINGBIRDS,Collect Calling Bird for marvelous rewards!
-ID_QU_LD_FOURCALLINGBIRDS,"Four Calling Birds Milestone\nProgress through this thrilling event by spending Forceful Energy, opening Goblin's Maleficent Sin Orbs, and clearing waves in Battleworld battles. Unlock exciting rewards, including Diamond Promotions for Blade, T3 Iso-8 Ions, Blade Shards, Oath Shards, and Crimson Bio Gear.\n\nYou'll also earn points toward the month-long The Ice Queen's Gala milestone by collecting the valuable Calling Birds.\n\nGoblin's Maleficent Sin Orb\nGet this Orb from the Orb Special offer with premium rewards: Green Goblin (Classic) 'Greed' Skin, Dark Diamond Credits, and Snowglobes."
-ID_QU_S1_FOURCALLINGBIRDS,Clear 1 Wave in Battleworld
+ID_QU_LD_FOURCALLINGBIRDS,"Four Calling Birds Milestone\nProgress through this thrilling event by spending Forceful Energy, opening Goblin's Maleficent Sin Orbs, and battling in Cosmic Crucible. Unlock exciting rewards, including Diamond Promotions for Blade, T3 Iso-8 Ions, Blade Shards, Oath Shards, and Crimson Bio Gear.\n\nYou'll also earn points toward the month-long The Ice Queen's Gala milestone by collecting the valuable Calling Birds.\n\nGoblin's Maleficent Sin Orb\nGet this Orb from the Orb Special offer with premium rewards: Green Goblin (Classic) 'Greed' Skin, Dark Diamond Credits, and Snowglobes."
+ID_QU_S1_FOURCALLINGBIRDS,Battle in Cosmic Crucible
 ID_QU_S2_FOURCALLINGBIRDS,Spend 1 Forceful Energy
 ID_QU_S3_FOURCALLINGBIRDS,Open 1 Goblin's Maleficent Sin Orb
-ID_QU_LD_ABSOLUTEASSAULT2,"Participate in Alliance War for this alliance event! \n\nAbsolute Assault Milestone\nTo score points:\n- Battle in in Alliance War\n- Use Absolute A-Force Characters in War\n- Earn Allied Supply VI Orb Fragments\n\nEarn fantastic rewards including Snowglobes, Kahhori Absolute A-Force Orb Fragments, Crimson Bio Gear, and Ability Materials!\n\nAllied Supply VI orb\nEarn these alliance event orbs for progress in Absolute Assault! Collect the Allied Supply VI Orb in special offers and daily free claims on the web!"
+ID_QU_NA_ABSOLUTEASSAULT2,Absolute Assault
+ID_QU_LD_ABSOLUTEASSAULT2,"Participate in Alliance War for this alliance event! \n\nAbsolute Assault Milestone\nTo score points:\n- Battle in Alliance War\n- Use Absolute A-Force Characters in War\n- Earn Allied Supply VI Orb Fragments\n\nEarn fantastic rewards including Snowglobes, Kahhori Absolute A-Force Orb Fragments, Crimson Bio Gear, and Ability Materials!\n\nAllied Supply VI orb\nEarn these alliance event orbs for progress in Absolute Assault! Collect the Allied Supply VI Orb in special offers and daily free claims on the web!"
 ID_QU_S3_ABSOLUTEASSAULT,Use Kahhori in War
 ID_QU_S4_ABSOLUTEASSAULT,Use Ms Marvel Danvers in War
 ID_QU_S5_ABSOLUTEASSAULT,Use Medusa in War
+ID_QU_NA_SEASONOFGIVING2,Season of Giving 2
+ID_QU_SD_SEASONOFGIVING2,Spend Snowglobes in the Snowglobe Store!
+ID_QU_LD_SEASONOFGIVING2,"Spend Snowglobes on fabulous goods in the Snowglobe Store, and be rewarded with additional progress in Four Calling Birds and The Ice Queen's Gala! You will also earn materials for Moondragon's Ultimate Awakened Ability!"
+ID_QU_NA_THREEFRENCHHENS,Three French Hens
+ID_QU_DE_THREEFRENCHHENS,"Earn Snowglobes and Crimson Skill Gear, with a chance at Ms. Marvel (Classic) Diamonds!"
+ID_QU_LD_THREEFRENCHHENS,"Three French Hens Milestone\nGain progress in this event by using new Astral Characters as well as Old Man Logan in Alliance War Offense or Defense, earning Path to Miss Marvel (Classic) Orb fragments from the Frozen Dimension, earning Nest Egg Orb fragments from Campaign nodes, completing the Season of Giving Web Milestone, and redeeming daily web Free Claims. Earn fantastic rewards including Diamond Orbs, T3 Iso-8 Ions, and Crimson Skill Gear. Keep up with the leaderboard for a chance to earn Ms. Marvel (Classic) Diamonds! You'll also earn points towards the month-long Ice Queen's Gala milestone by collecting Snowglobes and French Hens.\n\nSeason of Giving Web Milestone\nSpend Snowglobes on fabulous goods in the Snowglobe Store, and be rewarded with additional progress in Three French Hens and The Ice Queen's Gala!"
+ID_QU_SD_THREEFRENCHHENS,"Earn Snowglobes and Crimson Skill Gear, with a chance at Ms. Marvel (Classic) Diamonds!"
+ID_QU_S1_THREEFRENCHHENS,Earn 1 Path to Ms. Marvel (Classic) Orb fragment
+ID_QU_S2_THREEFRENCHHENS,Earn 1 Nest Egg Orb fragment
+ID_QU_S3_THREEFRENCHHENS,Use Ancient One in War at 5 Yellow Stars
+ID_QU_S4_THREEFRENCHHENS,Use Ancient One in War at 6 Yellow Stars
+ID_QU_S5_THREEFRENCHHENS,Use Ancient One in War at 7 Yellow Stars
+ID_QU_S6_THREEFRENCHHENS,Use Emma Frost (X-Men) in War at 5 Yellow Stars
+ID_QU_S7_THREEFRENCHHENS,Use Emma Frost (X-Men) in War at 6 Yellow Stars
+ID_QU_S8_THREEFRENCHHENS,Use Emma Frost (X-Men) in War at 7 Yellow Stars
+ID_QU_S9_THREEFRENCHHENS,Use Old Man Logan in War at 5 Yellow Stars
+ID_QU_S10_THREEFRENCHHENS,Use Old Man Logan in War at 6 Yellow Stars
+ID_QU_S11_THREEFRENCHHENS,Use Old Man Logan in War at 7 Yellow Stars
+ID_QU_FOOTNOTE_THREEFRENCHHENS,* See event description for War Defense scoring instructions
+ID_QU_NA_GROOTMASW1,A Grootmas Surprise: Part 1
+ID_QU_SD_GROOTMASW1,Claim daily milestone rewards to find Groot's gifts!
+ID_QU_LD_GROOTMASW1,"A Grootmas Surprise: Part 1\n\nGroot has hidden gifts across S.H.I.E.L.D. headquarters. Find them by completing the daily Grootmas Surprise milestones to uncover their secrets. Be sure to claim at least 4 days!\n\nOpen Basic Orbs to aid the search, and perhaps you'll discover a surprise!"
+ID_QU_S1_GROOTMASW1,Open 1 Basic Orb
+ID_QU_NA_GROOTMASW2,A Grootmas Surprise: Part 2
+ID_QU_SD_GROOTMASW2,Claim daily milestone rewards to find Groot's gifts!
+ID_QU_LD_GROOTMASW2,"A Grootmas Surprise: Part 2\n\nGroot has hidden gifts across S.H.I.E.L.D. headquarters. Find them by completing the daily Grootmas Surprise milestones to uncover their secrets. Be sure to claim at least five days.\n\nOpen Basic Orbs to aid the search, and perhaps you'll discover a surprise! "
+ID_QU_NA_GROOTMASW3,A Grootmas Surprise: Part 3
+ID_QU_SD_GROOTMASW3,Claim daily milestone rewards to find Groot's gifts!
+ID_QU_LD_GROOTMASW3,"A Grootmas Surprise: Part 3\n\nGroot has hidden gifts across S.H.I.E.L.D. headquarters. Find them by completing the daily Grootmas Surprise milestones to uncover their secrets.\n\nOpen Basic Orbs to aid the search, and perhaps you'll discover a surprise! Remember, do not miss any days!"

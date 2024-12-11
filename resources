@@ -57,7 +57,7 @@ ID_AVE_KEY_PURPLE_DESC,Collect keys to launch raids and earn Ability Materials a
 ID_RES_CAMPAIGN_ENERGY_EVENT01,Forceful Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT02,Warrior Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT03,Mind of Magneto Energy
-ID_RES_CAMPAIGN_ENERGY_EVENT04,Illuminating Energy
+ID_RES_CAMPAIGN_ENERGY_EVENT04,Winterland Energy
 ID_RES_CAMPAIGN_ENERGY_EVENT05,Cipher
 ID_RES_CAMPAIGN_ENERGY_EVENT06,Quantum Cipher
 ID_RES_CAMPAIGN_ENERGY_EVENT07,Dead of Night Energy
@@ -68,8 +68,8 @@ ID_CAMPAIGN_ENERGY_EVENT02_NAME,Warrior Energy
 ID_CAMPAIGN_ENERGY_EVENT02_DESCRIPTION,Used to launch All is Fair missions.
 ID_CAMPAIGN_ENERGY_EVENT03_NAME,Mind of Magneto Energy
 ID_CAMPAIGN_ENERGY_EVENT03_DESCRIPTION,Used to launch Mind of Magneto missions.
-ID_CAMPAIGN_ENERGY_EVENT04_NAME,Illuminating Energy
-ID_CAMPAIGN_ENERGY_EVENT04_DESCRIPTION,Used to launch Illuminati Team Up missions.
+ID_CAMPAIGN_ENERGY_EVENT04_NAME,Winterland Energy
+ID_CAMPAIGN_ENERGY_EVENT04_DESCRIPTION,Used to launch What If? Winterland missions.
 ID_CAMPAIGN_ENERGY_EVENT05_NAME,Cipher
 ID_CAMPAIGN_ENERGY_EVENT05_DESCRIPTION,"Used to launch Orchis Forge bonus missions for Sentinel, Nimrod, and Omega Sentinel."
 ID_CAMPAIGN_ENERGY_EVENT06_NAME,Quantum Cipher
@@ -485,8 +485,6 @@ ID_EVTA_META_NOV_I_NAME,Lunar Rebirth Milestone Points
 ID_EVTA_META_NOV_I_DESCRIPTION,These points earn you additional progress in the Lunar Rebirth Milestone. Earn them in Special Offers!
 ID_EVTA_META_NOV_J_NAME,Galactic Awakening Milestone Points
 ID_EVTA_META_NOV_J_DESCRIPTION,These points earn you additional progress in the Galactic Awakening Milestone. Earn them in Special Offers!
-ID_EVTA_META_NOV_Y_NAME,Skrull Diamond Heist Milestone Points
-ID_EVTA_META_NOV_Y_DESCRIPTION,"Earn Points in Dark Dimension VI. These points earn you additional progress in the Skrull Diamond Heist Milestone. "
 ID_EVTA_META_NOV_Z_NAME,Astral Force
 ID_EVTA_META_NOV_Z_DESCRIPTION,Collect Astral Force for points in the Path to Shadow King Event. Earn them in the Shadow King Trials and Snow Globe Shop!
 ID_PATENTPENDING_NAME,Patent Pending Milestone Points
@@ -666,7 +664,7 @@ ID_EVTA_META_OCT_A_DESCRIPTION,Collect Silver Bullets for points in the Midnight
 ID_EVTA_META_OCT_B_NAME,Stake
 ID_EVTA_META_OCT_B_DESCRIPTION,Collect the Stake for points in the Midnight Hunt Event. Earn it in the Vampiric Frenzy Event!
 ID_EVTA_META_OCT_C_NAME,Prayer Beads
-ID_EVTA_META_OCT_C_DESCRIPTION,Collect the Rosary Beads for points in the Midnight Hunt Event. Earn it in the Twilight Vigil Event!
+ID_EVTA_META_OCT_C_DESCRIPTION,Collect the Prayer Beads for points in the Midnight Hunt Event. Earn it in the Twilight Vigil Event!
 ID_EVTA_META_OCT_D_NAME,Holy Water
 ID_EVTA_META_OCT_D_DESCRIPTION,Collect the Holy Water for points in the Midnight Hunt Event. Earn it in the Swamp Showdown Event!
 ID_EVTA_META_OCT_E_NAME,Bunch of Garlic
@@ -722,4 +720,4 @@ ID_EVTA_META_DEC_L_DESCRIPTION,These points earn you additional progress in the 
 ID_EVTA_META_DEC_M_NAME,Absolute Assault Milestone Points
 ID_EVTA_META_DEC_M_DESCRIPTION,These points earn you additional progress in the Absolute Assault Milestone. Earn them in Special Offers!
 ID_EVTA_META_DEC_O_NAME,Four Calling Birds Milestone Points
-ID_EVTA_META_DEC_O_DESCRIPTION,"These points will boost your progress in the Four Calling Birds Milestone. Earn them through Battleworld, by spending Forceful Energy, claiming Daily Free Claims, and taking advantage of Special Offers!"
+ID_EVTA_META_DEC_O_DESCRIPTION,"These points will boost your progress in the Four Calling Birds Milestone. Earn them through Cosmic Crucible, by spending Forceful Energy, claiming Daily Free Claims, and taking advantage of Special Offers!"

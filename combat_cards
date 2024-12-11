@@ -167,25 +167,6 @@ ID_SCOURGE_CARD_127_NAME,Super Soldier Serum
 ID_SCOURGE_CARD_127_DESC,"All Minions Gain <color=#86e619>+30%</color> Focus, Health, Crit Chance, Crit Damage, Revive Health, And Active Healing"
 ID_SCOURGE_CARD_128_NAME,I Don't Need Skills
 ID_SCOURGE_CARD_128_DESC,"While <color=#fff568>Ability Blocked</color>, Enemy Characters Gain <color=#86e619>+15%</color> To Damage, Crit Damage, Crit Chance, And Speed"
-ID_INCURSION_MOD_001_NAME,Unstable Serum
-ID_INCURSION_MOD_002_NAME,Experimental Nanites
-ID_INCURSION_MOD_003_NAME,Interdimensional Combat Training
-ID_INCURSION_MOD_004_NAME,Aegis of Apocalypse
-ID_INCURSION_MOD_005_NAME,Apocalypse Now!
-ID_INCURSION_MOD_006_NAME,Unbound Dark Magicks
-ID_INCURSION_MOD_BLANK_NAME,
-ID_INCURSION_MOD_001_DESC,"\nOn Enemy Character Crit, clear <color=#86e619>2</color> <color=#fff568>Charged</color> from all Player Characters.\n\nOn Player Character dodge, Enemies gain <color=#fff568>Deathproof</color>."
-ID_INCURSION_MOD_002_DESC,"On Player Character Block, clear <color=#86e619>1</color> random negative effect that character."
-ID_INCURSION_MOD_003_DESC,"If a Player Character has any negative effect, that character's Dodge Chance is reduced by <color=#86e619>100%</color>."
-ID_INCURSION_MOD_004_DESC,"\nOn ally Assist, Heal self and all Enemy Characters for <color=#86e619>5%</color> of this character's Max Health.\n\nOn an Enemy Character's End of Turn, Clear all Barrier on all Player Characters."
-ID_INCURSION_MOD_005_DESC,"On any Player Character's Turn, clear <color=#fff568>Defense Up</color> on that character."
-ID_INCURSION_MOD_006_DESC,"\nOn Enemy Character Crit, apply <color=#fff568>Disrupted</color> to all Player Character <color=#fff568>PROTECTORS</color>.\n\nOn Enemy Character Turn, clear 2 <color=#fff568>Charged</color> from all Player Characters <color=#fff568>BLASTERS</color>."
-ID_INCURSION_MOD_007_DESC,"Enemy Characters cannot have <color=#fff568>Defense Down</color>, <color=#fff568>Minor Defense Down</color>, <color=#fff568>Offense Down</color>, or <color=#fff568>Minor Offense Down</color> applied to them."
-ID_INCURSION_MOD_008_DESC,"When an Enemy Character gains <color=#fff568>Bleed</color>, generate <color=#86e619>1</color> Ability Energy for self or a random ally.\n\nOn a Player Character Apocalypse's Turn, that Apocalypse gains <color=#fff568>Charged</color> and fills Speed Bar by <color=#86e619>20%</color>."
-ID_INCURSION_MOD_009_DESC,"\nOn Spawn, apply <color=#fff568>Offense Up</color> to all Enemy <color=#fff568>BRAWLERS</color> and <color=#fff568>BLASTERS</color>.\n\nOn Spawn, apply <color=#fff568>Taunt</color> to all Enemy <color=#fff568>PROTECTORS</color>.\n\nOn Spawn, apply <color=#fff568>Regeneration</color> for <color=#86e619>2</color> turns to all Enemy <color=#fff568>SUPPORTS</color> and <color=#fff568>CONTROLLERS</color>."
-ID_INCURSION_MOD_010_DESC,Enemy Characters cannot have <color=#fff568>Blind</color> applied to them.
-ID_INCURSION_MOD_011_DESC,\nPlayer Characters cannot have <color=#fff568>Stealth</color> applied to them.
-ID_INCURSION_MOD_012_DESC,"\nOn Enemy Character Turn, clear <color=#fff568>Revive Once</color> from all Player Characters. If <color=#fff568>Revive Once</color> was cleared, generate <color=#86e619>3</color> Ability Energy for self and all allies and clear all Barrier from Player Characters."
 ID_SCOURGE_CARD_129_NAME,On the Offensive
 ID_SCOURGE_CARD_129_DESC,"Whenever a Character Gains <color=#fff568>Taunt</color>, All Characters on the Opposite Team Gain <color=#86e619>Offense Up</color>"
 ID_SCOURGE_CARD_130_NAME,Man Vs. Machine
@@ -251,15 +232,42 @@ ID_SCOURGE_CARD_162_DESC,All <color=#86e619>Arena</color> Abilities are active d
 ID_SCOURGE_CARD_163_NAME,Magneto Was Right
 ID_SCOURGE_CARD_163_DESC,All <color=#86e619>MUTANT VILLAIN</color> Characters deal an extra 15% Damage
 ID_SCOURGE_CARD_164_NAME,Resistance is Futile
-ID_SCOURGE_CARD_164_DESC,"When a <color=#86e619>TECH VILLAIN</color> Characters spawns, enemies lose 5% Resist"
+ID_SCOURGE_CARD_164_DESC,"When a <color=#86e619>TECH VILLAIN</color> Characters spawns, enemies lose 10% Resist"
 ID_SCOURGE_CARD_165_NAME,Dark Cosmic Rays
-ID_SCOURGE_CARD_165_DESC,<color=#86e619>COSMIC VILLAIN</color> Characters gain +5% Critical Hit Chance for every Positive Status Effect they have
+ID_SCOURGE_CARD_165_DESC,"At the start of their turn, <color=#86e619>COSMIC VILLAIN</color> Characters gain 5% Speed bar for every Positive Status Effect they have"
 ID_SCOURGE_CARD_166_NAME,Devour
 ID_SCOURGE_CARD_166_DESC,"When a <color=#86e619>BIO VILLAIN</color> Characters defeats an enemy, Heal them for 10% of their Max Health"
 ID_SCOURGE_CARD_167_NAME,Villainous Momentum
-ID_SCOURGE_CARD_167_DESC,"When a Character defeats a <color=#86e619>HERO</color> Character, they gain 20% Speed bar"
+ID_SCOURGE_CARD_167_DESC,"When a Character defeats a <color=#86e619>HERO</color> Character, they gain 50% Speed bar"
 ID_SCOURGE_CARD_168_NAME,Stronger Together
 ID_SCOURGE_CARD_168_DESC,"<color=#86e619>GLOBAL HERO</color> Characters gain 5% Damage for each <color=#fff568>AVENGER</color>, <color=#fff568>WAKANDAN</color> or <color=#fff568>INHUMAN</color> ally"
+ID_SCOURGE_CARD_169_NAME,Secret Cabal
+ID_SCOURGE_CARD_169_DESC,"On Spawn, <color=#fff568>Doom</color>, <color=#fff568>Loki</color>, <color=#fff568>Emma Frost</color>, <color=#fff568>Emma Frost (Xmen)</color>, and <color=#fff568>Ares</color> gain the <color=#fff568>CABAL</color> Trait"
+ID_SCOURGE_CARD_170_NAME,Astral Quickening
+ID_SCOURGE_CARD_170_DESC,"On Spawn, <color=#fff568>ASTRAL</color> characters gain <color=#fff568>Speed Up</color> for <color=#86e619>1</color> turn"
+ID_SCOURGE_CARD_171_NAME,Absolute Annihilators
+ID_SCOURGE_CARD_171_DESC,"On Spawn, <color=#fff568>ABSOLUTE A-FORCE</color> characters gain the <color=#fff568>ANNIHILATOR</color> Trait & <color=#fff568>ANNIHILATOR</color> characters gain the <color=#fff568>ABSOLUTE A-FORCE</color> Trait"
+ID_SCOURGE_CARD_172_NAME,Bring the Battleworld
+ID_SCOURGE_CARD_172_DESC,All <color=#86e619>Battleworld</color> Abilities are active during this run
+ID_INCURSION_MOD_001_NAME,Unstable Serum
+ID_INCURSION_MOD_002_NAME,Experimental Nanites
+ID_INCURSION_MOD_003_NAME,Interdimensional Combat Training
+ID_INCURSION_MOD_004_NAME,Aegis of Apocalypse
+ID_INCURSION_MOD_005_NAME,Apocalypse Now!
+ID_INCURSION_MOD_006_NAME,Unbound Dark Magicks
+ID_INCURSION_MOD_BLANK_NAME,
+ID_INCURSION_MOD_001_DESC,"\nOn Enemy Character Crit, clear <color=#86e619>2</color> <color=#fff568>Charged</color> from all Player Characters.\n\nOn Player Character dodge, Enemies gain <color=#fff568>Deathproof</color>."
+ID_INCURSION_MOD_002_DESC,"On Player Character Block, clear <color=#86e619>1</color> random negative effect that character."
+ID_INCURSION_MOD_003_DESC,"If a Player Character has any negative effect, that character's Dodge Chance is reduced by <color=#86e619>100%</color>."
+ID_INCURSION_MOD_004_DESC,"\nOn ally Assist, Heal self and all Enemy Characters for <color=#86e619>5%</color> of this character's Max Health.\n\nOn an Enemy Character's End of Turn, Clear all Barrier on all Player Characters."
+ID_INCURSION_MOD_005_DESC,"On any Player Character's Turn, clear <color=#fff568>Defense Up</color> on that character."
+ID_INCURSION_MOD_006_DESC,"\nOn Enemy Character Crit, apply <color=#fff568>Disrupted</color> to all Player Character <color=#fff568>PROTECTORS</color>.\n\nOn Enemy Character Turn, clear 2 <color=#fff568>Charged</color> from all Player Characters <color=#fff568>BLASTERS</color>."
+ID_INCURSION_MOD_007_DESC,"Enemy Characters cannot have <color=#fff568>Defense Down</color>, <color=#fff568>Minor Defense Down</color>, <color=#fff568>Offense Down</color>, or <color=#fff568>Minor Offense Down</color> applied to them."
+ID_INCURSION_MOD_008_DESC,"When an Enemy Character gains <color=#fff568>Bleed</color>, generate <color=#86e619>1</color> Ability Energy for self or a random ally.\n\nOn a Player Character Apocalypse's Turn, that Apocalypse gains <color=#fff568>Charged</color> and fills Speed Bar by <color=#86e619>20%</color>."
+ID_INCURSION_MOD_009_DESC,"\nOn Spawn, apply <color=#fff568>Offense Up</color> to all Enemy <color=#fff568>BRAWLERS</color> and <color=#fff568>BLASTERS</color>.\n\nOn Spawn, apply <color=#fff568>Taunt</color> to all Enemy <color=#fff568>PROTECTORS</color>.\n\nOn Spawn, apply <color=#fff568>Regeneration</color> for <color=#86e619>2</color> turns to all Enemy <color=#fff568>SUPPORTS</color> and <color=#fff568>CONTROLLERS</color>."
+ID_INCURSION_MOD_010_DESC,Enemy Characters cannot have <color=#fff568>Blind</color> applied to them.
+ID_INCURSION_MOD_011_DESC,\nPlayer Characters cannot have <color=#fff568>Stealth</color> applied to them.
+ID_INCURSION_MOD_012_DESC,"\nOn Enemy Character Turn, clear <color=#fff568>Revive Once</color> from all Player Characters. If <color=#fff568>Revive Once</color> was cleared, generate <color=#86e619>3</color> Ability Energy for self and all allies and clear all Barrier from Player Characters."
 ID_ORCHIS_MOD_001_NAME,Hive-Mind Enhancer I
 ID_ORCHIS_MOD_002_NAME,X-Treme X-Men Enhancer I
 ID_ORCHIS_MOD_003_NAME,Nightstalker Enhancer I
@@ -438,3 +446,4 @@ ID_MOD_VAMPIRE_CIVILIAN_NAME,Ritual of the Blood God
 ID_MOD_VAMPIRE_CIVILIAN_DESC,Add properly formatted description of what this combat mod does.
 ID_MOD_VAMPIRE_VAMPIRE_NAME," Thirst Eternal"
 ID_MOD_VAMPIRE_VAMPIRE_DESC,Add properly formatted description of what this combat mod does.
+ID_CATACLYSM_DECK_NAME,Cataclysm Deck
